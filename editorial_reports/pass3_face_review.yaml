@@ -1,0 +1,520 @@
+pass: face_review
+results:
+- challenger:
+    face: Challenger
+    review:
+    - card: Edge / discomfort markers
+      issue: 'Found 2 edge markers: [''discomfort'', ''cost'']'
+      rule: Every chapter must contain at least 2 discomfort/uncomfortable moments
+      severity: "\U0001F7E2"
+  chapter: ch0-infinite-arcade
+  ea_found: []
+  ea_missing: []
+  edge_found:
+  - discomfort
+  - cost
+  master_file: CHAPTER0_DRAFT.md
+  overall_severity: "\U0001F534 BLOCKER"
+  pass: face_review
+  regent:
+    face: Regent
+    review:
+    - card: Structural slot completeness
+      issue: 'Missing: [''Exile'', ''Distortion'', ''Concept'', ''Practice'', ''Journey'',
+        ''Game'', ''Recap'']'
+      rule: All 7 (STANDARD) or 11 (FOREST) structural slots must be present
+      severity: "\U0001F534"
+    - card: Stage sequence alignment
+      issue: Through-line present
+      rule: Each chapter must state its through-line explicitly
+      severity: "\U0001F7E2"
+  shaman:
+    face: Shaman
+    review:
+    - card: EA label presence
+      issue: All EA labels present
+      rule: 'Expected EA labels: []'
+      severity: "\U0001F7E2"
+    - card: Mythic register
+      issue: 'Check: does language feel like it belongs to this face? (manual review)'
+      rule: Chapter must carry its altitude's specific mythic energy
+      severity: "\U0001F7E2"
+  slots_found: []
+  slots_missing:
+  - Exile
+  - Distortion
+  - Concept
+  - Practice
+  - Journey
+  - Game
+  - Recap
+  template: STANDARD
+  through_line: true
+  version: '0.1'
+  vulnerable_child: false
+- challenger:
+    face: Challenger
+    review:
+    - card: Edge / discomfort markers
+      issue: 'Found 3 edge markers: [''discomfort'', ''cost'', "you can''t"]'
+      rule: Every chapter must contain at least 2 discomfort/uncomfortable moments
+      severity: "\U0001F7E2"
+  chapter: ch1-SHAMAN
+  ea_found:
+  - Fire
+  ea_missing:
+  - Metal
+  - Water
+  - Wood
+  - Earth
+  edge_found:
+  - discomfort
+  - cost
+  - you can't
+  master_file: CHAPTER1_FULL_DRAFT.md
+  overall_severity: "\U0001F534 BLOCKER"
+  pass: face_review
+  regent:
+    face: Regent
+    review:
+    - card: Structural slot completeness
+      issue: 'Missing: [''Infinite Arcade'', ''Six Guides'', ''8 Gates Preview'']'
+      rule: All 7 (STANDARD) or 11 (FOREST) structural slots must be present
+      severity: "\U0001F534"
+    - card: Stage sequence alignment
+      issue: Through-line not stated
+      rule: Each chapter must state its through-line explicitly
+      severity: "\U0001F7E1"
+  shaman:
+    face: Shaman
+    review:
+    - card: EA label presence
+      issue: 'Missing: [''Metal'', ''Water'', ''Wood'', ''Earth'']'
+      rule: 'Expected EA labels: [''Metal'', ''Water'', ''Wood'', ''Fire'', ''Earth'']'
+      severity: "\U0001F7E1"
+    - card: Mythic register
+      issue: 'Check: does language feel like it belongs to this face? (manual review)'
+      rule: Chapter must carry its altitude's specific mythic energy
+      severity: "\U0001F7E2"
+  slots_found:
+  - Urgency
+  - Forest
+  - Origin Story
+  - Journey to the Center
+  - The Game
+  - Reflection Prompts
+  - First BARs Loop
+  - Recap
+  slots_missing:
+  - Infinite Arcade
+  - Six Guides
+  - 8 Gates Preview
+  template: FOREST
+  through_line: false
+  version: '0.1'
+  vulnerable_child: true
+- challenger:
+    face: Challenger
+    review:
+    - card: Edge / discomfort markers
+      issue: 'Found 5 edge markers: [''discomfort'', ''uncomfortable'', ''cost'']'
+      rule: Every chapter must contain at least 2 discomfort/uncomfortable moments
+      severity: "\U0001F7E2"
+  chapter: ch2-SHAMAN
+  ea_found:
+  - Metal
+  - Water
+  - Wood
+  - Fire
+  - Earth
+  ea_missing: []
+  edge_found:
+  - discomfort
+  - uncomfortable
+  - cost
+  - you can't
+  - this is the work
+  master_file: CHAPTER2_SHAMAN_FULL_DRAFT.md
+  overall_severity: "\U0001F534 BLOCKER"
+  pass: face_review
+  regent:
+    face: Regent
+    review:
+    - card: Structural slot completeness
+      issue: 'Missing: [''Exile'', ''Distortion'', ''Concept'', ''Practice'', ''Game'']'
+      rule: All 7 (STANDARD) or 11 (FOREST) structural slots must be present
+      severity: "\U0001F534"
+    - card: Stage sequence alignment
+      issue: Through-line present
+      rule: Each chapter must state its through-line explicitly
+      severity: "\U0001F7E2"
+  shaman:
+    face: Shaman
+    review:
+    - card: EA label presence
+      issue: All EA labels present
+      rule: 'Expected EA labels: [''Metal'', ''Water'', ''Wood'', ''Fire'', ''Earth'']'
+      severity: "\U0001F7E2"
+    - card: Mythic register
+      issue: 'Check: does language feel like it belongs to this face? (manual review)'
+      rule: Chapter must carry its altitude's specific mythic energy
+      severity: "\U0001F7E2"
+  slots_found:
+  - Journey
+  - Recap
+  slots_missing:
+  - Exile
+  - Distortion
+  - Concept
+  - Practice
+  - Game
+  template: STANDARD
+  through_line: true
+  version: '0.1'
+  vulnerable_child: true
+- challenger:
+    face: Challenger
+    review:
+    - card: Edge / discomfort markers
+      issue: 'Found 5 edge markers: [''discomfort'', ''uncomfortable'', ''cost'']'
+      rule: Every chapter must contain at least 2 discomfort/uncomfortable moments
+      severity: "\U0001F7E2"
+  chapter: ch3-CHALLENGER
+  ea_found:
+  - Wood
+  - Fire
+  ea_missing:
+  - Metal
+  - Water
+  - Earth
+  edge_found:
+  - discomfort
+  - uncomfortable
+  - cost
+  - the line is
+  - draw the line
+  master_file: CHAPTER3_CHALLENGER_FULL_DRAFT.md
+  overall_severity: "\U0001F534 BLOCKER"
+  pass: face_review
+  regent:
+    face: Regent
+    review:
+    - card: Structural slot completeness
+      issue: 'Missing: [''Exile'', ''Distortion'', ''Concept'', ''Practice'', ''Game'']'
+      rule: All 7 (STANDARD) or 11 (FOREST) structural slots must be present
+      severity: "\U0001F534"
+    - card: Stage sequence alignment
+      issue: Through-line present
+      rule: Each chapter must state its through-line explicitly
+      severity: "\U0001F7E2"
+  shaman:
+    face: Shaman
+    review:
+    - card: EA label presence
+      issue: 'Missing: [''Metal'', ''Water'', ''Earth'']'
+      rule: 'Expected EA labels: [''Metal'', ''Water'', ''Wood'', ''Fire'', ''Earth'']'
+      severity: "\U0001F7E1"
+    - card: Mythic register
+      issue: 'Check: does language feel like it belongs to this face? (manual review)'
+      rule: Chapter must carry its altitude's specific mythic energy
+      severity: "\U0001F7E2"
+  slots_found:
+  - Journey
+  - Recap
+  slots_missing:
+  - Exile
+  - Distortion
+  - Concept
+  - Practice
+  - Game
+  template: STANDARD
+  through_line: true
+  version: '0.1'
+  vulnerable_child: true
+- challenger:
+    face: Challenger
+    review:
+    - card: Edge / discomfort markers
+      issue: 'Found 3 edge markers: [''cost'', ''sacrifice'', "you can''t"]'
+      rule: Every chapter must contain at least 2 discomfort/uncomfortable moments
+      severity: "\U0001F7E2"
+  chapter: ch4-REGENT
+  ea_found:
+  - Fire
+  ea_missing:
+  - Metal
+  - Water
+  - Wood
+  - Earth
+  edge_found:
+  - cost
+  - sacrifice
+  - you can't
+  master_file: CHAPTER4_REGENT_FULL_DRAFT.md
+  overall_severity: "\U0001F534 BLOCKER"
+  pass: face_review
+  regent:
+    face: Regent
+    review:
+    - card: Structural slot completeness
+      issue: 'Missing: [''Exile'', ''Distortion'', ''Concept'', ''Practice'', ''Game'']'
+      rule: All 7 (STANDARD) or 11 (FOREST) structural slots must be present
+      severity: "\U0001F534"
+    - card: Stage sequence alignment
+      issue: Through-line present
+      rule: Each chapter must state its through-line explicitly
+      severity: "\U0001F7E2"
+  shaman:
+    face: Shaman
+    review:
+    - card: EA label presence
+      issue: 'Missing: [''Metal'', ''Water'', ''Wood'', ''Earth'']'
+      rule: 'Expected EA labels: [''Metal'', ''Water'', ''Wood'', ''Fire'', ''Earth'']'
+      severity: "\U0001F7E1"
+    - card: Mythic register
+      issue: 'Check: does language feel like it belongs to this face? (manual review)'
+      rule: Chapter must carry its altitude's specific mythic energy
+      severity: "\U0001F7E2"
+  slots_found:
+  - Journey
+  - Recap
+  slots_missing:
+  - Exile
+  - Distortion
+  - Concept
+  - Practice
+  - Game
+  template: STANDARD
+  through_line: true
+  version: '0.1'
+  vulnerable_child: true
+- challenger:
+    face: Challenger
+    review:
+    - card: Edge / discomfort markers
+      issue: 'Found 2 edge markers: [''cost'', "you can''t"]'
+      rule: Every chapter must contain at least 2 discomfort/uncomfortable moments
+      severity: "\U0001F7E2"
+  chapter: ch5-ARCHITECT
+  ea_found:
+  - Metal
+  - Earth
+  - Fire
+  - Wood
+  - Water
+  ea_missing: []
+  edge_found:
+  - cost
+  - you can't
+  master_file: CHAPTER5_ARCHITECT_FULL_DRAFT.md
+  overall_severity: "\U0001F534 BLOCKER"
+  pass: face_review
+  regent:
+    face: Regent
+    review:
+    - card: Structural slot completeness
+      issue: 'Missing: [''Exile'', ''Distortion'', ''Concept'', ''Practice'', ''Game'']'
+      rule: All 7 (STANDARD) or 11 (FOREST) structural slots must be present
+      severity: "\U0001F534"
+    - card: Stage sequence alignment
+      issue: Through-line present
+      rule: Each chapter must state its through-line explicitly
+      severity: "\U0001F7E2"
+  shaman:
+    face: Shaman
+    review:
+    - card: EA label presence
+      issue: All EA labels present
+      rule: 'Expected EA labels: [''Metal'', ''Earth'', ''Fire'', ''Wood'', ''Water'']'
+      severity: "\U0001F7E2"
+    - card: Mythic register
+      issue: 'Check: does language feel like it belongs to this face? (manual review)'
+      rule: Chapter must carry its altitude's specific mythic energy
+      severity: "\U0001F7E2"
+  slots_found:
+  - Journey
+  - Recap
+  slots_missing:
+  - Exile
+  - Distortion
+  - Concept
+  - Practice
+  - Game
+  template: STANDARD
+  through_line: true
+  version: '0.1'
+  vulnerable_child: true
+- challenger:
+    face: Challenger
+    review:
+    - card: Edge / discomfort markers
+      issue: 'Found 3 edge markers: [''discomfort'', ''uncomfortable'', ''cost'']'
+      rule: Every chapter must contain at least 2 discomfort/uncomfortable moments
+      severity: "\U0001F7E2"
+  chapter: ch6-diplomat
+  ea_found:
+  - Metal
+  - Water
+  - Wood
+  - Fire
+  - Earth
+  ea_missing: []
+  edge_found:
+  - discomfort
+  - uncomfortable
+  - cost
+  master_file: CHAPTER6_DIPLOMAT_FULL_DRAFT_MASTER.md
+  overall_severity: "\U0001F534 BLOCKER"
+  pass: face_review
+  regent:
+    face: Regent
+    review:
+    - card: Structural slot completeness
+      issue: 'Missing: [''Exile'', ''Distortion'', ''Concept'', ''Practice'', ''Game'']'
+      rule: All 7 (STANDARD) or 11 (FOREST) structural slots must be present
+      severity: "\U0001F534"
+    - card: Stage sequence alignment
+      issue: Through-line not stated
+      rule: Each chapter must state its through-line explicitly
+      severity: "\U0001F7E1"
+  shaman:
+    face: Shaman
+    review:
+    - card: EA label presence
+      issue: All EA labels present
+      rule: 'Expected EA labels: [''Metal'', ''Water'', ''Wood'', ''Fire'', ''Earth'']'
+      severity: "\U0001F7E2"
+    - card: Mythic register
+      issue: 'Check: does language feel like it belongs to this face? (manual review)'
+      rule: Chapter must carry its altitude's specific mythic energy
+      severity: "\U0001F7E2"
+  slots_found:
+  - Journey
+  - Recap
+  slots_missing:
+  - Exile
+  - Distortion
+  - Concept
+  - Practice
+  - Game
+  template: STANDARD
+  through_line: false
+  version: '0.1'
+  vulnerable_child: true
+- challenger:
+    face: Challenger
+    review:
+    - card: Edge / discomfort markers
+      issue: 'Found 7 edge markers: [''discomfort'', ''uncomfortable'', ''cost'']'
+      rule: Every chapter must contain at least 2 discomfort/uncomfortable moments
+      severity: "\U0001F7E2"
+  chapter: ch7-sage
+  ea_found:
+  - Metal
+  - Fire
+  - Earth
+  - Wood
+  - Water
+  ea_missing: []
+  edge_found:
+  - discomfort
+  - uncomfortable
+  - cost
+  - you can't
+  - the line is
+  - hardest part
+  - draw the line
+  master_file: CHAPTER7_SAGE_FULL_DRAFT.md
+  overall_severity: "\U0001F534 BLOCKER"
+  pass: face_review
+  regent:
+    face: Regent
+    review:
+    - card: Structural slot completeness
+      issue: 'Missing: [''Exile'', ''Distortion'', ''Concept'', ''Practice'', ''Game'']'
+      rule: All 7 (STANDARD) or 11 (FOREST) structural slots must be present
+      severity: "\U0001F534"
+    - card: Stage sequence alignment
+      issue: Through-line present
+      rule: Each chapter must state its through-line explicitly
+      severity: "\U0001F7E2"
+  shaman:
+    face: Shaman
+    review:
+    - card: EA label presence
+      issue: All EA labels present
+      rule: 'Expected EA labels: [''Metal'', ''Fire'', ''Earth'', ''Wood'', ''Water'']'
+      severity: "\U0001F7E2"
+    - card: Mythic register
+      issue: 'Check: does language feel like it belongs to this face? (manual review)'
+      rule: Chapter must carry its altitude's specific mythic energy
+      severity: "\U0001F7E2"
+  slots_found:
+  - Journey
+  - Recap
+  slots_missing:
+  - Exile
+  - Distortion
+  - Concept
+  - Practice
+  - Game
+  template: STANDARD
+  through_line: true
+  version: '0.1'
+  vulnerable_child: true
+- challenger:
+    face: Challenger
+    review:
+    - card: Edge / discomfort markers
+      issue: 'Found 6 edge markers: [''discomfort'', ''uncomfortable'', ''cost'']'
+      rule: Every chapter must contain at least 2 discomfort/uncomfortable moments
+      severity: "\U0001F7E2"
+  chapter: ch8-player
+  ea_found: []
+  ea_missing: []
+  edge_found:
+  - discomfort
+  - uncomfortable
+  - cost
+  - you can't
+  - hardest part
+  - draw the line
+  master_file: CHAPTER8_PLAYER_FULL_DRAFT.md
+  overall_severity: "\U0001F534 BLOCKER"
+  pass: face_review
+  regent:
+    face: Regent
+    review:
+    - card: Structural slot completeness
+      issue: 'Missing: [''Exile'', ''Distortion'', ''Concept'', ''Practice'', ''Game'']'
+      rule: All 7 (STANDARD) or 11 (FOREST) structural slots must be present
+      severity: "\U0001F534"
+    - card: Stage sequence alignment
+      issue: Through-line not stated
+      rule: Each chapter must state its through-line explicitly
+      severity: "\U0001F7E1"
+  shaman:
+    face: Shaman
+    review:
+    - card: EA label presence
+      issue: All EA labels present
+      rule: 'Expected EA labels: []'
+      severity: "\U0001F7E2"
+    - card: Mythic register
+      issue: 'Check: does language feel like it belongs to this face? (manual review)'
+      rule: Chapter must carry its altitude's specific mythic energy
+      severity: "\U0001F7E2"
+  slots_found:
+  - Journey
+  - Recap
+  slots_missing:
+  - Exile
+  - Distortion
+  - Concept
+  - Practice
+  - Game
+  template: STANDARD
+  through_line: false
+  version: '0.1'
+  vulnerable_child: true
+version: '0.1'
