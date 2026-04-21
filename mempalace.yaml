@@ -1,0 +1,15 @@
+wing: manuscripts
+rooms:
+- name: sources
+  description: Files from sources/
+  keywords:
+  - sources
+  - sources
+- name: bars
+  description: Files from BARs/
+  keywords:
+  - bars
+  - bars
+- name: general
+  description: Files that don't fit other rooms
+  keywords: []

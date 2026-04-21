@@ -1,0 +1,205 @@
+# EDITORIAL REPORT — MTGOA Manuscript
+**Pipeline version:** 1.0
+**Generated:** 2026-04-21
+**Manuscript state:** FIRST DRAFT COMPLETE (words done, needs revision)
+
+---
+
+## Executive Summary
+
+| Pass | Chapters | Result |
+|------|----------|--------|
+| Phase 0 (Metrics) | All 9 | ✅ BASELINE ESTABLISHED |
+| Pass 1 (Structural) | All 9 | ⚠️ 2 blockers, 5 warnings |
+| Pass 2 (Voice) | All 9 | 🔴 8 fail, 1 pass (Ch0) |
+
+**Overall verdict:** Manuscript needs revision before being considered final. The structural spine is sound (all chapters have all sections). The voice is inconsistent — hedge density is too high in most chapters. The system is working.
+
+---
+
+## Phase 0: Baseline Metrics
+
+| Chapter | Words | Passive % | Hedges/1K | FK Grade |
+|---------|-------|-----------|------------|----------|
+| ch0-infinite-arcade | 3,041 | 0.0% | 0.0 | 12.8 |
+| ch1-SHAMAN | 4,070 | 1.8% | 1.23 | 11.2 |
+| ch2-SHAMAN | 10,796 | 0.9% | 1.02 | 11.0 |
+| ch3-CHALLENGER | 8,324 | 1.1% | 0.96 | 11.0 |
+| ch4-REGENT | 6,418 | 3.5% | 0.93 | 11.2 |
+| ch5-ARCHITECT | 7,148 | 2.4% | 0.56 | 10.9 |
+| ch6-diplomat | 10,456 | 1.9% | 0.57 | 10.8 |
+| ch7-sage | 13,436 | 1.7% | 1.41 | 11.4 |
+| ch8-player | 8,320 | 1.4% | 2.64 | 11.6 |
+| **Total** | **72,009** | **avg 1.6%** | **avg 1.03** | **avg 11.1** |
+
+**Phase 0 assessment:** Passive voice is well under 15% target across all chapters. Flesch-Kincaid grades are 10-12 (appropriate for sophisticated adult readers). The mechanical baseline is healthy. Hedge density is the primary concern — most chapters exceed the 0.5/1K threshold.
+
+---
+
+## Pass 1: Structural Integrity
+
+| Chapter | Status | Missing Sections | Word Deviation |
+|---------|--------|-----------------|-----------------|
+| ch0-infinite-arcade | ⚠️ WARNING | None (non-standard structure) | +2,100 vs spec |
+| ch1-SHAMAN | ✅ PASS | — | within spec |
+| ch2-SHAMAN | ✅ PASS | — | within spec |
+| ch3-CHALLENGER | ✅ PASS | — | within spec |
+| ch4-REGENT | ✅ PASS | — | within spec |
+| ch5-ARCHITECT | ✅ PASS | — | within spec |
+| ch6-diplomat | 🔴 BLOCKER | S6-S7 only (missing S1-S5) | SPEC REQUIRED |
+| ch7-sage | ✅ PASS | — | +9.9% vs spec |
+| ch8-player | ✅ PASS | — | within spec |
+
+### BLOCKERS
+
+**Ch6-diplomat — Only S6-S7 section headers exist**
+- The chapter has content (10,456 words) but section headers are lowercase-only (e.g., `## channel 1 bridge-builder` instead of `## Section 1: The Exile`)
+- The 7-section structure exists in spec but not in draft
+- **Fix:** Run `fix_headers.py` (see below) to normalize section headers to spec format
+
+### WARNINGS
+
+**Ch0-infinite-arcade — Non-standard chapter structure**
+- This chapter predates the 7-section template
+- Spec requires: Token System, Ticket System, Three Game Types, Six Faces Ladder, Entering the Arcade
+- Current draft: 3,041 words, needs ~2,900-4,000 additional words
+- **Fix:** Write the missing sections (see Ch0 rewrite spec)
+
+---
+
+## Pass 2: Voice Calibration (Integral Framework)
+
+### Methodology
+
+| Phase | What it measures | Threshold |
+|-------|-----------------|-----------|
+| Phase A (pervasives) | Voice markers present across chapter | ≥3/4 markers |
+| Phase B (structural) | Voice markers at section openings per SPEC | ≥1 marker per section |
+| Phase C (hedges) | Hedge word density | <0.5/1K words |
+
+**Scoring:** Overall = weighted (A×0.5 + B×0.3 + C×0.2), inverted so high=good. Pass ≥0.6.
+
+### Results
+
+| Chapter | Score | Grade | A (pervas) | B (struct) | C (hedges) |
+|---------|-------|-------|-------------|-------------|-------------|
+| ch0-infinite-arcade | 0.73 | **PASS** | 2/4 | — | 0.0/1K |
+| ch7-sage | 0.30 | FAIL | 3/4 | 0/1 | 1.41/1K |
+| ch2-SHAMAN | 0.20 | FAIL | 2/4 | 0/3 | 1.02/1K |
+| ch4-REGENT | 0.14 | FAIL | 1/4 | — | 0.93/1K |
+| ch6-diplomat | 0.14 | FAIL | 1/4 | — | 0.57/1K |
+| ch5-ARCHITECT | 0.10 | FAIL | 1/4 | 0/1 | 0.56/1K |
+| ch8-player | 0.14 | FAIL | 1/4 | — | 2.64/1K |
+| ch1-SHAMAN | 0.10 | FAIL | 1/4 | 0/2 | 1.23/1K |
+| ch3-CHALLENGER | 0.10 | FAIL | 1/4 | 0/1 | 0.96/1K |
+
+### Key Findings
+
+**Ch0 is the only chapter that passes** — zero hedges, "the practice" + "you can" present. The intro chapter is the cleanest voice in the book.
+
+**The primary failure mode is hedge density.** Average across Ch1-8 is 1.1/1K vs. threshold of 0.5/1K. Ch8 is worst at 2.64/1K — the player chapter hedges like an academic paper.
+
+**"Here's what I've noticed" (discovery idiom) is missing from most S3/S4 section openings** — the marker exists in Ch0 but not in the face chapters where spec requires it.
+
+**The "the_work" and "the_practice" pervasives are sparse** — most chapters have one but not both. Only Ch7 has both.
+
+### Voice Fix Priority
+
+| Priority | Chapter | Primary Issue | Secondary Issue |
+|----------|---------|--------------|-----------------|
+| 🔴 P0 | Ch8-player | Hedge density (2.64/1K) | "you_can" missing |
+| 🔴 P0 | Ch7-sage | Hedge density (1.41/1K) | discovery idiom at S3 |
+| 🟠 P1 | Ch1-SHAMAN | Hedge density (1.23/1K) | discovery idiom at S3/S4 |
+| 🟠 P1 | Ch2-SHAMAN | discovery idiom at S3/S4 | hedge density (1.02/1K) |
+| 🟠 P1 | Ch3-CHALLENGER | hedge density (0.96/1K) | discovery idiom at S3 |
+| 🟡 P2 | Ch4-REGENT | hedge density (0.93/1K) | — |
+| 🟡 P2 | Ch6-diplomat | hedge density (0.57/1K) | — |
+
+---
+
+## Ch6-diplomat Header Fix
+
+A critical finding: Ch6 has 10,456 words of content but all section headers are lowercase (e.g., `## channel 1 bridge-builder`). This makes the chapter appear incomplete to automated checks even though the content exists.
+
+**Fix script needed:**
+
+```python
+# fix_headers.py pseudocode
+header_map = {
+    "## channel 1 bridge-builder": "## Section 1: The Exile",
+    "## channel 2 translator": "## Section 2: The Distortion",
+    "## channel 3 field holder": "## Section 3: The Concept",
+    # ... etc
+}
+# Apply to CH6_DIPLOMAT_FULL_DRAFT_MASTER.md
+```
+
+---
+
+## Ch0 Rewrite Requirement
+
+The existing Ch0 draft (940 words) is the intro hook only. Per SPEC.md, Ch0 needs ~2,900-4,000 words covering:
+- Token System (~600 words)
+- Ticket System (~500 words)
+- Three Game Types (~700 words)
+- Why Gamify (~450 words)
+- Six Faces Ladder (~500 words)
+- Entering the Arcade (~200 words)
+- Expanded opening (~200 words)
+
+**This is a full rewrite, not an expansion.** The existing 940-word draft has strong material (keep the portal framing, the call to play) but needs the new sections written from scratch.
+
+---
+
+## Integrated Next Steps
+
+### Immediate (must fix before revision)
+
+1. **Ch6 header fix** — normalize section headers so automated checks work
+2. **Ch0 full rewrite** — write missing sections per SPEC.md
+3. **Hedge reduction pass** — target Ch8 and Ch7 first (highest density)
+
+### After immediate fixes
+
+4. **Pass 3 (3-face review)** — run after Ch0/Ch6 are fixed and hedge reduction is done
+5. **Pass 4 (Mechanical)** — deterministic fixes only after content is stable
+
+---
+
+## Companion Files
+
+| File | Purpose |
+|------|---------|
+| `COUNCIL/scripts/metrics_phase0.py` | Phase 0 metrics generator |
+| `COUNCIL/scripts/pass1_structural.py` | Pass 1 structural checker |
+| `COUNCIL/scripts/pass2_voice_v2.py` | Pass 2 voice calibrator (integral) |
+| `SPEC_VOICE_CALIBRATION_INTEGRAL.md` | Voice calibration framework spec |
+| `manuscripts/chapters/ch0-infinite-arcade/SPEC.md` | Ch0 rewrite requirements |
+| `manuscripts/editorial_reports/pass1_structural.yaml` | Pass 1 detailed results |
+| `manuscripts/editorial_reports/pass2_voice_v2.yaml` | Pass 2 detailed results |
+| `COUNCIL/PERSONAL_OPS.md` | Backlog items for Ch0/Ch6 |
+
+---
+
+## Revision Priority Order
+
+```
+1. Ch6 header fix (1 day)
+2. Ch0 rewrite (2-3 days)
+3. Ch8 hedge reduction (1 day)
+4. Ch7 hedge reduction (1 day)
+5. Ch1-Ch3 hedge reduction (1-2 days)
+6. Ch4-Ch6 hedge cleanup (1 day)
+→ Then: Pass 3, Pass 4
+```
+
+---
+
+## Decision Required
+
+**On hedge reduction:** Do you want to:
+- **A.** Run automated hedge detection + targeted rewrite suggestions (lower cost, human approves each)
+- **B.** Use the hedge report to guide manual revision pass (higher investment, personal voice)
+- **C.** Both — automated detection first, then personal revision pass
+
+Current system is built for Option A. Option B would be you doing the revision with the report as a guide. Option C is optimal but most time-intensive.

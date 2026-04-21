@@ -1,0 +1,19 @@
+{
+  "tracks": {
+    "chapter1_urgency": {
+      "name": "Chapter 1 — Urgency",
+      "specPhase": "IMPLEMENT",
+      "bars": []
+    },
+    "sources_analysis": {
+      "name": "Source Analysis — GM Ritual",
+      "specPhase": "IMPLEMENT",
+      "bars": []
+    },
+    "voice_analysis": {
+      "name": "Voice Analysis — Transcript Gold",
+      "specPhase": "ANALYZE",
+      "bars": []
+    }
+  }
+}

@@ -1,0 +1,364 @@
+book: MTGOA
+version: '1.0'
+phase: phase0
+generated_by: deterministic_script
+chapters:
+- chapter: ch0-infinite-arcade
+  master_file: /home/workspace/manuscripts/chapters/ch0-infinite-arcade/CHAPTER0_DRAFT.md
+  word_count: 3052
+  sentence_count: 287
+  avg_sentence_length_words: 10.6
+  passive_voice_pct: 1.0
+  long_sentence_fraction_pct: 4.5
+  flesch_kincaid_grade: -6.7
+  hedge_word_density_per_1k: 0.66
+  section_headers_found:
+  - Chapter 0 — The Infinite Arcade
+  - Ch0 Expansion — Sections 2-7
+  - Write after existing prose
+  - 'Section 2: The Token System — What You''re Spending'
+  - 'Section 3: The Ticket System — What You''re Earning'
+  - 'Section 4: The Three Game Types — Which One Are You Playing'
+  - 'Section 5: Why Gamify — The Honest Answer'
+  - 'Section 6: The Six Faces as the Mastery Ladder'
+  - 'Section 7: Entering the Arcade'
+  - 0.1 — The Call to Play
+  has_reflection_prompts: false
+  reflection_prompt_count: 0
+  spec_target: 3000
+  deviation_pct: 1.7
+  deviation_status: PASS
+- chapter: ch1-SHAMAN
+  master_file: /home/workspace/manuscripts/chapters/ch1-SHAMAN/CHAPTER1_FULL_DRAFT.md
+  word_count: 4090
+  sentence_count: 391
+  avg_sentence_length_words: 10.5
+  passive_voice_pct: 1.5
+  long_sentence_fraction_pct: 3.1
+  flesch_kincaid_grade: -6.8
+  hedge_word_density_per_1k: 0.98
+  section_headers_found:
+  - 'CHAPTER 1: THE FOREST — Why Allyship Keeps Failing (and Where to Start)'
+  - '*You Cannot Ally from a Place You Have Not Explored*'
+  - 'Section 1: Urgency'
+  - '*"The World Didn''t Get Safer. You Just Stopped Believing It Could Be."*'
+  - What the Old Allyship Got Wrong
+  - What's Different Now
+  - 'Section 2: The Infinite Arcade'
+  - '*You Were Never Outside the Game*'
+  - 'Section 3: The Forest'
+  - '*The Place Where the Work Actually Happens*'
+  - Forest vs Village
+  - 'Section 4: Origin Story'
+  - '*Where This Map Came From*'
+  - 'Section 5: The Six Guides'
+  - '*How You Find Your Way Through*'
+  - 'Section 6: The 8 Gates Preview'
+  - '*The Voices You Meet Before You Can Lead*'
+  - 'Gate 1 Deep Dive: Protector'
+  - Superpower Definition
+  - 5 Emotional Channels (Preview for Chapter 2)
+  - 'Section 7: Journey to the Center'
+  - '*A First Walk Through the Forest*'
+  - 'Section 8: The Game'
+  - '*Five Moves for Chapter 1 Altitude*'
+  - 'Section 9: Reflection Prompts'
+  - 'Section 10: First BARs Loop'
+  - '*Breakthrough -> Action -> Reflection -> sustain*'
+  - 'Section 11: Recap and Transition'
+  - '*From Diagnosis to Passage*'
+  has_reflection_prompts: true
+  reflection_prompt_count: 18
+  spec_target: 4000
+  deviation_pct: 2.2
+  deviation_status: PASS
+- chapter: ch2-SHAMAN
+  master_file: /home/workspace/manuscripts/chapters/ch2-SHAMAN/CHAPTER2_SHAMAN_FULL_DRAFT.md
+  word_count: 11098
+  sentence_count: 1096
+  avg_sentence_length_words: 10.1
+  passive_voice_pct: 2.6
+  long_sentence_fraction_pct: 5.4
+  flesch_kincaid_grade: -6.9
+  hedge_word_density_per_1k: 0.45
+  section_headers_found:
+  - 'CHAPTER 2: THE SHAMAN — Magenta — Survival/Instinct'
+  - '*Emotional Alchemy as the Foundation of Real Allyship*'
+  - 'Section 1: The Exile'
+  - '*Why the Shaman Left the Village (And What the Village Lost)*'
+  - 'Section 2: The Distortion'
+  - '*What the Village Does With Emotional Alchemy When the Shaman Is Gone*'
+  - 'Section 3: The Concept'
+  - '*What Emotional Alchemy Actually Is (And Why It''s Not What You''ve Been Told)*'
+  - 'Section 4: The Practice'
+  - '*The WAVE-Spiral: Emotional Alchemy as Repeatable Technique and Living Art*'
+  - The Four Stages of the WAVE-Spiral
+  - 'Stage 1: Wake'
+  - 'Stage 2: Clean'
+  - 'Stage 3: Grow'
+  - 'Stage 4: Show'
+  - 'The Five Elements: How Different Feelings Flow Through the WAVE-Spiral'
+  - The 5 Channels and Their Lessons
+  - 5 Emotional Channels — Mechanics (How to Run the Move)
+  - Channel Questions + Default Move Patterns
+  - Quick Triage Rule (When You’re Overloaded)
+  - 'The Energy Economy: Why Some Moves Drain You and Others Fuel You'
+  - 'Transcend: Complete Within a Channel (+2 Energy)'
+  - 'Generative Translate: Move Along the Flow Cycle (+1 Energy)'
+  - 'Control Translate: Precision Pivot (-1 Energy)'
+  - 'How to Practice: Four Scenarios'
+  - 'Scenario 1: 10-Second WAVE-Spiral (In the Middle of a Conversation)'
+  - 'Scenario 2: Full WAVE-Spiral (After a Hard Moment)'
+  - 'Scenario 3: Translate Move (Moving Between Channels)'
+  - 'Scenario 4: Control Translate (Precision Move)'
+  - 'The Shaman''s Superpower: Knowing Which Move to Make'
+  - 'Somatic Markers: How to Know You''re Actually Practicing'
+  - The Promise of the WAVE-Spiral
+  - 'Section 5: Journey to the Center'
+  - '*The 8 Gates: A Walk Through Your Own Forest*'
+  - The Map
+  - The Walk
+  - 'Section 6: The Game'
+  - '*How the Shaman Wins: The Allyship Game at This Altitude*'
+  - 'Move 1: Read the Field'
+  - 'Move 2: Name the Unsaid'
+  - 'Move 3: Create Safety to Feel'
+  - 'Move 4: Offer Your Own Reality'
+  - 'Move 5: Stay When It''s Hard'
+  - 'Section 7: Recap and Transition'
+  - '*What the Shaman Carries Forward*'
+  - Reflection Prompts
+  - '*BARs for the Shaman Level*'
+  has_reflection_prompts: true
+  reflection_prompt_count: 14
+  spec_target: 10753
+  deviation_pct: 3.2
+  deviation_status: PASS
+- chapter: ch3-CHALLENGER
+  master_file: /home/workspace/manuscripts/chapters/ch3-CHALLENGER/CHAPTER3_CHALLENGER_FULL_DRAFT.md
+  word_count: 8392
+  sentence_count: 899
+  avg_sentence_length_words: 9.3
+  passive_voice_pct: 2.3
+  long_sentence_fraction_pct: 3.0
+  flesch_kincaid_grade: -7.2
+  hedge_word_density_per_1k: 0.71
+  section_headers_found:
+  - 'CHAPTER 3: THE CHALLENGER — Red — Socialized Power'
+  - '*The Clean "No" as the Foundation of Real Allyship*'
+  - 'Section 1: The Exile'
+  - '*Why the Challenger Left the Village (And What the Village Lost)*'
+  - 'Section 2: The Distortion'
+  - '*What the Village Does With the Clean "No" When the Challenger Is Gone*'
+  - 'Section 3: The Concept'
+  - '*What the Clean "No" Actually Is (And Why It''s Not What You''ve Been Told)*'
+  - 'Section 4: The Practice'
+  - '*How to Wield the Fire: A Working System for Clean Confrontation*'
+  - The 5 Channels — Modes of Confrontation
+  - 'The 4-Stage Sequence: Charge → Aim → Act → Exit'
+  - The Energy Economy
+  - The Flow Cycle
+  - 'In Practice: Two Scenarios'
+  - 'Section 5: Journey to the Center'
+  - '*The 8 Gates: Walking Through the Fire*'
+  - The Map
+  - The Walk
+  - 'Section 6: The Game'
+  - '*What Winning Looks Like at the Challenger''s Altitude*'
+  - 'Section 7: Recap and Bridge'
+  - '*What the Challenger Gives You (And What Comes Next)*'
+  - Reflection Prompts
+  has_reflection_prompts: true
+  reflection_prompt_count: 18
+  spec_target: 8195
+  deviation_pct: 2.4
+  deviation_status: PASS
+- chapter: ch4-REGENT
+  master_file: /home/workspace/manuscripts/chapters/ch4-REGENT/CHAPTER4_REGENT_FULL_DRAFT.md
+  word_count: 6463
+  sentence_count: 661
+  avg_sentence_length_words: 9.8
+  passive_voice_pct: 2.6
+  long_sentence_fraction_pct: 4.5
+  flesch_kincaid_grade: -7.1
+  hedge_word_density_per_1k: 0.46
+  section_headers_found:
+  - 'CHAPTER 4: THE REGENT — Amber — Order / Stewardship & Scale'
+  - '*Traditions Worth Protecting and Worth Breaking*'
+  - 'Section 1: The Exile'
+  - '*Why the Regent Left the Village (And What the Village Lost)*'
+  - 'Section 2: The Distortion'
+  - '*What the Village Does With Tradition When the Regent Is Gone*'
+  - 'Section 3: The Concept'
+  - '*What the Regent''s Practice Actually Is (And Why It''s Not What You''ve Been
+    Told)*'
+  - 'Section 4: The Practice'
+  - '*The Cycle of Inheritance — How Loyalty Actually Works*'
+  - The 5 Channels — How Loyalty Shows Up
+  - 'The Stage Sequence: Inherit → Honor → Steward → Entrust'
+  - The Energy Economy
+  - The Inheritance Cycle
+  - 'In Practice: Two Scenarios'
+  - 'Section 5: Journey to the Center'
+  - '*The 8 Gates at Amber Altitude — What the Tradition Says to You*'
+  - The Map
+  - The Walk
+  - 'Section 6: The Game'
+  - '*What Winning Looks Like at the Regent''s Altitude*'
+  - 'Move 1: Name the Inheritance'
+  - 'Move 2: Honor What Still Serves'
+  - 'Move 3: Reform Without Erasing'
+  - 'Move 4: Keep the Vows'
+  - 'Move 5: Entrust Without Clinging'
+  - 'Section 7: Recap and Transition'
+  - '*What the Regent Teaches — and Why the Architect Comes Next*'
+  has_reflection_prompts: true
+  reflection_prompt_count: 13
+  spec_target: 6299
+  deviation_pct: 2.6
+  deviation_status: PASS
+- chapter: ch5-ARCHITECT
+  master_file: /home/workspace/manuscripts/chapters/ch5-ARCHITECT/CHAPTER5_ARCHITECT_FULL_DRAFT.md
+  word_count: 7270
+  sentence_count: 719
+  avg_sentence_length_words: 10.1
+  passive_voice_pct: 1.8
+  long_sentence_fraction_pct: 4.7
+  flesch_kincaid_grade: -6.9
+  hedge_word_density_per_1k: 0.69
+  section_headers_found:
+  - 'CHAPTER 5: THE ARCHITECT — Orange — Strategic Design'
+  - '*The System That Makes the Right Thing the Easy Thing*'
+  - 'Section 1: The Exile'
+  - '*Why the Architect Left the Village (And What the Village Lost)*'
+  - 'Section 2: The Distortion'
+  - '*What the Village Does With Structural Design When the Architect Is Gone*'
+  - 'Section 3: The Concept'
+  - '*What Structural Design Actually Is (And Why It''s Not What You''ve Been Told)*'
+  - 'Section 4: The Practice'
+  - '*What the Architect Actually Does With a Broken System*'
+  - 'Section 5: Journey to the Center'
+  - '*The 8 Gates: Designing Your Way Through the Forest*'
+  - The Map
+  - The Walk
+  - 'Section 6: The Game'
+  - '*What Winning Looks Like at the Architect Altitude*'
+  - 'Move 1: Find the Leverage Point'
+  - 'Move 2: Name the Unstated Assumption'
+  - 'Move 3: Design for Handoff'
+  - 'Move 4: Ship the Minimum'
+  - 'Move 5: Refactor Kindly'
+  - 'Section 7: Recap and Transition'
+  - '*What the Architect Leaves You With*'
+  has_reflection_prompts: true
+  reflection_prompt_count: 8
+  spec_target: 7054
+  deviation_pct: 3.1
+  deviation_status: PASS
+- chapter: ch6-diplomat
+  master_file: /home/workspace/manuscripts/chapters/ch6-diplomat/CHAPTER6_DIPLOMAT_FULL_DRAFT_MASTER.md
+  word_count: 10424
+  sentence_count: 654
+  avg_sentence_length_words: 15.9
+  passive_voice_pct: 5.5
+  long_sentence_fraction_pct: 16.8
+  flesch_kincaid_grade: -4.7
+  hedge_word_density_per_1k: 0.29
+  section_headers_found:
+  - CHAPTER 6 — THE DIPLOMAT
+  - '*Green — Pluralistic / Relational / Inclusion*'
+  - '*Your Walk-Away Price Defines the Power of What You Stay For*'
+  - SECTION 1 — THE DIPLOMAT'S THESIS
+  - SECTION 2 — WHAT IT IS
+  - SECTION 3 — THE FIVE CHANNELS (PRACTICE)
+  - CHANNEL 1 — BRIDGE-BUILDER
+  - CHANNEL 5 — PRICE-NAMER
+  - CHANNEL 2 — TRANSLATOR
+  - CHANNEL 3 — FIELD-HOLDER
+  - CHANNEL 4 — REPAIRER
+  - SECTION 5 — JOURNEY TO THE CENTER
+  - SECTION 6 — THE GAME
+  - SECTION 7 — RECAP AND TRANSITION
+  has_reflection_prompts: false
+  reflection_prompt_count: 0
+  spec_target: 0
+  deviation_pct: 0.0
+  deviation_status: PASS
+- chapter: ch7-sage
+  master_file: /home/workspace/manuscripts/chapters/ch7-sage/CHAPTER7_SAGE_FULL_DRAFT.md
+  word_count: 13690
+  sentence_count: 1130
+  avg_sentence_length_words: 12.1
+  passive_voice_pct: 3.0
+  long_sentence_fraction_pct: 9.4
+  flesch_kincaid_grade: -6.1
+  hedge_word_density_per_1k: 0.29
+  section_headers_found:
+  - 'CHAPTER 7: THE SAGE — Teal — Integral / Integrative'
+  - '*Mastery Is Knowing Which Game You''re Playing and Being Able to Put It Down*'
+  - 'Section 1: The Exile'
+  - '*Why the Sage Left the Village (And What the Village Lost)*'
+  - 'Section 2: The Distortion'
+  - '*What the Village Does When It Can''t See the Games It''s Playing*'
+  - 'Section 3: The Concept'
+  - '*The Sage''s Gift: Embodied Panoramic Vision*'
+  - '*Somatic Markers: How to Know You''re Actually Seeing*'
+  - 'Section 4: The Practice'
+  - '*The Five Modes of Sight*'
+  - '*The Five Modes of Sight — Expanded Practice*'
+  - '*The Stage Sequence: See → Switch → Serve → Release → Return — A Working Example*'
+  - 'Section 5: Journey to the Center'
+  - '*The Map: What the Sage Knows That Nobody Else Can See*'
+  - '*The Walk: Coming Back Down Without Losing What You Found*'
+  - 'Section 6: The Game'
+  - '*Five Moves the Sage Plays*'
+  - 'Section 7: Recap and Transition'
+  - '*What the Sage Gives You*'
+  - Reflection Prompts
+  has_reflection_prompts: true
+  reflection_prompt_count: 10
+  spec_target: 0
+  deviation_pct: 0.0
+  deviation_status: PASS
+- chapter: ch8-player
+  master_file: /home/workspace/manuscripts/chapters/ch8-player/CHAPTER8_PLAYER_FULL_DRAFT.md
+  word_count: 8519
+  sentence_count: 792
+  avg_sentence_length_words: 10.8
+  passive_voice_pct: 1.0
+  long_sentence_fraction_pct: 7.8
+  flesch_kincaid_grade: -6.7
+  hedge_word_density_per_1k: 0.35
+  section_headers_found:
+  - 'CHAPTER 8: CREATING YOUR OWN ALLYSHIP GAME'
+  - '*The Return — From Playing the Game to Designing It*'
+  - 'Section 1: The Exile'
+  - '*Why the Player Left (And What They Carried With Them)*'
+  - 'Section 2: The Distortion'
+  - '*What Emerged Without the Player''s Example (And the Shadow That Follows)*'
+  - 'Section 3: The Concept'
+  - '*From Map to Design: What You''re Actually Holding*'
+  - 'Section 4: The Practice'
+  - '*How to Design Your Own Allyship Game*'
+  - The Five Modes of Self-Authorship
+  - 'The Stage Sequence: Review → Discern → Design → Build → Pass On'
+  - 'Somatic Markers: How to Know You''re Actually Building'
+  - 'Section 5: Journey to the Center'
+  - '*The Map: What You Are Now Holding*'
+  - '*The Walk: Building the Thing That Didn''t Exist Before*'
+  - 'Section 6: The Game'
+  - '*Five Moves the Player Plays*'
+  - 'Section 7: Recap and Transition'
+  - '*What the Player Gives the Village*'
+  - Reflection Prompts
+  - The Last Line
+  has_reflection_prompts: true
+  reflection_prompt_count: 10
+  spec_target: 0
+  deviation_pct: 0.0
+  deviation_status: PASS
+summary:
+  total_words: 72998
+  chapter_count: 9
+  avg_passive_voice_pct: 2.4
+  all_within_spec: true

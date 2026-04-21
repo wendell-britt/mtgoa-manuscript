@@ -1,0 +1,447 @@
+pipeline_version: '1.0'
+pass: voice_calibration
+generated: '2026-04-21'
+manuscript_state: FIRST DRAFT
+chapter_results:
+- chapter: ch0-infinite-arcade
+  pass: voice_calibration
+  version: '1'
+  calibration_score: 0.25
+  grade: FAIL
+  passages_analyzed: 2
+  passage_results:
+  - calibration_score: 0
+    matched: []
+    missing:
+    - discovery_idiom
+    - labor_metaphor
+    - self_deprecation
+    - permission_granter
+    - direct_address
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_1
+  - calibration_score: 0.5
+    matched:
+    - direct_address
+    missing:
+    - discovery_idiom
+    - labor_metaphor
+    - self_deprecation
+    - permission_granter
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_2
+  common_missing:
+  - direct_address
+  - discovery_idiom
+  - labor_metaphor
+  - permission_granter
+  - self_deprecation
+  - somatic_metaphor
+  - weird_literally
+  status: FAIL
+- chapter: ch1-SHAMAN
+  pass: voice_calibration
+  version: '1'
+  calibration_score: 0.33
+  grade: FAIL
+  passages_analyzed: 3
+  passage_results:
+  - calibration_score: 0
+    matched: []
+    missing:
+    - discovery_idiom
+    - labor_metaphor
+    - self_deprecation
+    - permission_granter
+    - direct_address
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_1
+  - calibration_score: 0.5
+    matched:
+    - direct_address
+    missing:
+    - discovery_idiom
+    - labor_metaphor
+    - self_deprecation
+    - permission_granter
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_2
+  - calibration_score: 0.5
+    matched:
+    - direct_address
+    missing:
+    - discovery_idiom
+    - labor_metaphor
+    - self_deprecation
+    - permission_granter
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_3
+  common_missing:
+  - direct_address
+  - discovery_idiom
+  - labor_metaphor
+  - permission_granter
+  - self_deprecation
+  - somatic_metaphor
+  - weird_literally
+  status: FAIL
+- chapter: ch2-SHAMAN
+  pass: voice_calibration
+  version: '1'
+  calibration_score: 1.0
+  grade: FAIL
+  passages_analyzed: 2
+  passage_results:
+  - calibration_score: 1.5
+    matched:
+    - permission_granter
+    - direct_address
+    missing:
+    - discovery_idiom
+    - labor_metaphor
+    - self_deprecation
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_1
+  - calibration_score: 0.5
+    matched:
+    - direct_address
+    missing:
+    - discovery_idiom
+    - labor_metaphor
+    - self_deprecation
+    - permission_granter
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_2
+  common_missing:
+  - discovery_idiom
+  - labor_metaphor
+  - permission_granter
+  - self_deprecation
+  - somatic_metaphor
+  - weird_literally
+  status: FAIL
+- chapter: ch3-CHALLENGER
+  pass: voice_calibration
+  version: '1'
+  calibration_score: 0.83
+  grade: FAIL
+  passages_analyzed: 3
+  passage_results:
+  - calibration_score: 0.5
+    matched:
+    - direct_address
+    missing:
+    - discovery_idiom
+    - labor_metaphor
+    - self_deprecation
+    - permission_granter
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_1
+  - calibration_score: 0.5
+    matched:
+    - direct_address
+    missing:
+    - discovery_idiom
+    - labor_metaphor
+    - self_deprecation
+    - permission_granter
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_2
+  - calibration_score: 1.5
+    matched:
+    - permission_granter
+    - direct_address
+    missing:
+    - discovery_idiom
+    - labor_metaphor
+    - self_deprecation
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_3
+  common_missing:
+  - discovery_idiom
+  - labor_metaphor
+  - permission_granter
+  - self_deprecation
+  - somatic_metaphor
+  - weird_literally
+  status: FAIL
+- chapter: ch4-REGENT
+  pass: voice_calibration
+  version: '1'
+  calibration_score: 0.5
+  grade: FAIL
+  passages_analyzed: 3
+  passage_results:
+  - calibration_score: 0.5
+    matched:
+    - direct_address
+    missing:
+    - discovery_idiom
+    - labor_metaphor
+    - self_deprecation
+    - permission_granter
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_1
+  - calibration_score: 0.5
+    matched:
+    - direct_address
+    missing:
+    - discovery_idiom
+    - labor_metaphor
+    - self_deprecation
+    - permission_granter
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_2
+  - calibration_score: 0.5
+    matched:
+    - direct_address
+    missing:
+    - discovery_idiom
+    - labor_metaphor
+    - self_deprecation
+    - permission_granter
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_3
+  common_missing:
+  - discovery_idiom
+  - labor_metaphor
+  - permission_granter
+  - self_deprecation
+  - somatic_metaphor
+  - weird_literally
+  status: FAIL
+- chapter: ch5-ARCHITECT
+  pass: voice_calibration
+  version: '1'
+  calibration_score: 0.33
+  grade: FAIL
+  passages_analyzed: 3
+  passage_results:
+  - calibration_score: 0.5
+    matched:
+    - direct_address
+    missing:
+    - discovery_idiom
+    - labor_metaphor
+    - self_deprecation
+    - permission_granter
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_1
+  - calibration_score: 0
+    matched: []
+    missing:
+    - discovery_idiom
+    - labor_metaphor
+    - self_deprecation
+    - permission_granter
+    - direct_address
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_2
+  - calibration_score: 0.5
+    matched:
+    - direct_address
+    missing:
+    - discovery_idiom
+    - labor_metaphor
+    - self_deprecation
+    - permission_granter
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_3
+  common_missing:
+  - direct_address
+  - discovery_idiom
+  - labor_metaphor
+  - permission_granter
+  - self_deprecation
+  - somatic_metaphor
+  - weird_literally
+  status: FAIL
+- chapter: ch5-architect
+  status: SKIP
+  reason: No master file
+- chapter: ch6-diplomat
+  pass: voice_calibration
+  version: '1'
+  calibration_score: 0.83
+  grade: FAIL
+  passages_analyzed: 3
+  passage_results:
+  - calibration_score: 0.5
+    matched:
+    - direct_address
+    missing:
+    - discovery_idiom
+    - labor_metaphor
+    - self_deprecation
+    - permission_granter
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_1
+  - calibration_score: 1.0
+    matched:
+    - labor_metaphor
+    missing:
+    - discovery_idiom
+    - self_deprecation
+    - permission_granter
+    - direct_address
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_2
+  - calibration_score: 1.0
+    matched:
+    - labor_metaphor
+    missing:
+    - discovery_idiom
+    - self_deprecation
+    - permission_granter
+    - direct_address
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_3
+  common_missing:
+  - direct_address
+  - discovery_idiom
+  - labor_metaphor
+  - permission_granter
+  - self_deprecation
+  - somatic_metaphor
+  - weird_literally
+  status: FAIL
+- chapter: ch7-sage
+  pass: voice_calibration
+  version: '1'
+  calibration_score: 1.5
+  grade: FAIL
+  passages_analyzed: 3
+  passage_results:
+  - calibration_score: 1.5
+    matched:
+    - permission_granter
+    - direct_address
+    missing:
+    - discovery_idiom
+    - labor_metaphor
+    - self_deprecation
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_1
+  - calibration_score: 1.5
+    matched:
+    - labor_metaphor
+    - direct_address
+    missing:
+    - discovery_idiom
+    - self_deprecation
+    - permission_granter
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_2
+  - calibration_score: 1.5
+    matched:
+    - labor_metaphor
+    - direct_address
+    missing:
+    - discovery_idiom
+    - self_deprecation
+    - permission_granter
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_3
+  common_missing:
+  - discovery_idiom
+  - labor_metaphor
+  - permission_granter
+  - self_deprecation
+  - somatic_metaphor
+  - weird_literally
+  status: FAIL
+- chapter: ch8-player
+  pass: voice_calibration
+  version: '1'
+  calibration_score: 0.17
+  grade: FAIL
+  passages_analyzed: 3
+  passage_results:
+  - calibration_score: 0
+    matched:
+    - direct_address
+    missing:
+    - discovery_idiom
+    - labor_metaphor
+    - self_deprecation
+    - permission_granter
+    - weird_literally
+    - somatic_metaphor
+    hedges: 1
+    passage_id: passage_1
+  - calibration_score: 0
+    matched:
+    - direct_address
+    missing:
+    - discovery_idiom
+    - labor_metaphor
+    - self_deprecation
+    - permission_granter
+    - weird_literally
+    - somatic_metaphor
+    hedges: 3
+    passage_id: passage_2
+  - calibration_score: 0.5
+    matched:
+    - direct_address
+    missing:
+    - discovery_idiom
+    - labor_metaphor
+    - self_deprecation
+    - permission_granter
+    - weird_literally
+    - somatic_metaphor
+    hedges: 0
+    passage_id: passage_3
+  common_missing:
+  - discovery_idiom
+  - labor_metaphor
+  - permission_granter
+  - self_deprecation
+  - somatic_metaphor
+  - weird_literally
+  status: FAIL

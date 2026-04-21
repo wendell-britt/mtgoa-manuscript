@@ -1,0 +1,338 @@
+book: MTGOA
+version: '2.0'
+description: "Voice calibration \u2014 Integral 3-type system (PERVASIVE/STRUCTURAL/ABSENT)"
+thresholds:
+  phase_a_pass: 3/4 pervasives in sample
+  phase_b_pass: 2/3 structural in location
+  hedge_max: 0.5 per 1000 words
+  overall_pass: 0.7
+results:
+  ch0-infinite-arcade:
+    display_name: Chapter 0
+    face: intro/preamble
+    word_count: null
+    master_file: CHAPTER0_DRAFT.md
+    phase_a:
+      score: 0.5
+      markers:
+        the_work:
+          found: false
+          desc: Labor as practice
+        the_practice:
+          found: true
+          desc: Ongoing discipline
+        you_can:
+          found: true
+          desc: Permission without pressure
+        you_dont_have_to:
+          found: false
+          desc: Permission variant
+    phase_b:
+      score: null
+      structural:
+        note: No structural map defined for this chapter
+    phase_c:
+      hedges: 0
+      word_count: 3041
+      density_per_1k: 0.0
+    overall_score: 0.73
+    grade: PASS
+  ch1-SHAMAN:
+    display_name: Chapter 1
+    face: Shaman/Magenta
+    word_count: 4071
+    master_file: CHAPTER1_FULL_DRAFT.md
+    phase_a:
+      score: 0.25
+      markers:
+        the_work:
+          found: true
+          desc: Labor as practice
+        the_practice:
+          found: false
+          desc: Ongoing discipline
+        you_can:
+          found: false
+          desc: Permission without pressure
+        you_dont_have_to:
+          found: false
+          desc: Permission variant
+    phase_b:
+      score: 0.0
+      structural:
+        '## Section 3:':
+          found_markers: []
+          all_expected:
+          - Discovery idiom at S3 opening
+          location_found: true
+        '## Section 4:':
+          found_markers: []
+          all_expected:
+          - Discovery idiom at S4 opening
+          location_found: true
+    phase_c:
+      hedges: 5
+      word_count: 4071
+      density_per_1k: 1.23
+    overall_score: 0.1
+    grade: FAIL
+  ch2-SHAMAN:
+    display_name: Chapter 2
+    face: Shaman (Wake)
+    word_count: 10753
+    master_file: CHAPTER2_SHAMAN_FULL_DRAFT.md
+    phase_a:
+      score: 0.5
+      markers:
+        the_work:
+          found: false
+          desc: Labor as practice
+        the_practice:
+          found: true
+          desc: Ongoing discipline
+        you_can:
+          found: true
+          desc: Permission without pressure
+        you_dont_have_to:
+          found: false
+          desc: Permission variant
+    phase_b:
+      score: 0.0
+      structural:
+        '## Section 3:':
+          found_markers: []
+          all_expected:
+          - Discovery idiom at S3 opening
+          - Discovery idiom variant at S3
+          location_found: true
+        '## Section 4:':
+          found_markers: []
+          all_expected:
+          - Discovery idiom at S4 opening
+          location_found: true
+    phase_c:
+      hedges: 11
+      word_count: 10796
+      density_per_1k: 1.02
+    overall_score: 0.2
+    grade: FAIL
+  ch3-CHALLENGER:
+    display_name: Chapter 3
+    face: Challenger/Red
+    word_count: 8195
+    master_file: CHAPTER3_CHALLENGER_FULL_DRAFT.md
+    phase_a:
+      score: 0.25
+      markers:
+        the_work:
+          found: false
+          desc: Labor as practice
+        the_practice:
+          found: false
+          desc: Ongoing discipline
+        you_can:
+          found: true
+          desc: Permission without pressure
+        you_dont_have_to:
+          found: false
+          desc: Permission variant
+    phase_b:
+      score: 0.0
+      structural:
+        '## Section 3:':
+          found_markers: []
+          all_expected:
+          - Discovery idiom at S3 opening
+          location_found: true
+    phase_c:
+      hedges: 8
+      word_count: 8324
+      density_per_1k: 0.96
+    overall_score: 0.1
+    grade: FAIL
+  ch4-REGENT:
+    display_name: Chapter 4
+    face: Regent/Amber
+    word_count: 6299
+    master_file: CHAPTER4_REGENT_FULL_DRAFT.md
+    phase_a:
+      score: 0.25
+      markers:
+        the_work:
+          found: false
+          desc: Labor as practice
+        the_practice:
+          found: false
+          desc: Ongoing discipline
+        you_can:
+          found: true
+          desc: Permission without pressure
+        you_dont_have_to:
+          found: false
+          desc: Permission variant
+    phase_b:
+      score: null
+      structural:
+        note: No structural map defined for this chapter
+    phase_c:
+      hedges: 6
+      word_count: 6418
+      density_per_1k: 0.93
+    overall_score: 0.14
+    grade: FAIL
+  ch5-ARCHITECT:
+    display_name: Chapter 5
+    face: Architect/Orange
+    word_count: 7054
+    master_file: CHAPTER5_ARCHITECT_FULL_DRAFT.md
+    phase_a:
+      score: 0.25
+      markers:
+        the_work:
+          found: false
+          desc: Labor as practice
+        the_practice:
+          found: false
+          desc: Ongoing discipline
+        you_can:
+          found: true
+          desc: Permission without pressure
+        you_dont_have_to:
+          found: false
+          desc: Permission variant
+    phase_b:
+      score: 0.0
+      structural:
+        '## Section 3:':
+          found_markers: []
+          all_expected:
+          - Discovery idiom at S3 opening
+          location_found: true
+    phase_c:
+      hedges: 4
+      word_count: 7148
+      density_per_1k: 0.56
+    overall_score: 0.1
+    grade: FAIL
+  ch6-diplomat:
+    display_name: Chapter 6
+    face: Diplomat/Green
+    word_count: 10204
+    master_file: CHAPTER6_DIPLOMAT_FULL_DRAFT_MASTER.md
+    phase_a:
+      score: 0.25
+      markers:
+        the_work:
+          found: true
+          desc: Labor as practice
+        the_practice:
+          found: false
+          desc: Ongoing discipline
+        you_can:
+          found: false
+          desc: Permission without pressure
+        you_dont_have_to:
+          found: false
+          desc: Permission variant
+    phase_b:
+      score: null
+      structural:
+        note: No structural map defined for this chapter
+    phase_c:
+      hedges: 6
+      word_count: 10456
+      density_per_1k: 0.57
+    overall_score: 0.14
+    grade: FAIL
+  ch7-sage:
+    display_name: Chapter 7
+    face: Sage/Teal
+    word_count: 13436
+    master_file: CHAPTER7_SAGE_FULL_DRAFT.md
+    phase_a:
+      score: 0.75
+      markers:
+        the_work:
+          found: true
+          desc: Labor as practice
+        the_practice:
+          found: true
+          desc: Ongoing discipline
+        you_can:
+          found: false
+          desc: Permission without pressure
+        you_dont_have_to:
+          found: true
+          desc: Permission variant
+    phase_b:
+      score: 0.0
+      structural:
+        '## Section 3:':
+          found_markers: []
+          all_expected:
+          - Discovery idiom at S3 opening
+          location_found: true
+    phase_c:
+      hedges: 19
+      word_count: 13436
+      density_per_1k: 1.41
+    overall_score: 0.3
+    grade: FAIL
+  ch8-player:
+    display_name: Chapter 8
+    face: Player
+    word_count: 8209
+    master_file: CHAPTER8_PLAYER_FULL_DRAFT.md
+    phase_a:
+      score: 0.25
+      markers:
+        the_work:
+          found: true
+          desc: Labor as practice
+        the_practice:
+          found: false
+          desc: Ongoing discipline
+        you_can:
+          found: false
+          desc: Permission without pressure
+        you_dont_have_to:
+          found: false
+          desc: Permission variant
+    phase_b:
+      score: null
+      structural:
+        note: No structural map defined for this chapter
+    phase_c:
+      hedges: 22
+      word_count: 8320
+      density_per_1k: 2.64
+    overall_score: 0.14
+    grade: FAIL
+summary:
+  ch0-infinite-arcade:
+    score: 0.73
+    grade: PASS
+  ch1-SHAMAN:
+    score: 0.1
+    grade: FAIL
+  ch2-SHAMAN:
+    score: 0.2
+    grade: FAIL
+  ch3-CHALLENGER:
+    score: 0.1
+    grade: FAIL
+  ch4-REGENT:
+    score: 0.14
+    grade: FAIL
+  ch5-ARCHITECT:
+    score: 0.1
+    grade: FAIL
+  ch6-diplomat:
+    score: 0.14
+    grade: FAIL
+  ch7-sage:
+    score: 0.3
+    grade: FAIL
+  ch8-player:
+    score: 0.14
+    grade: FAIL
