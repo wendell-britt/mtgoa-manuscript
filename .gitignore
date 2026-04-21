@@ -1,0 +1,11 @@
+# Backups — local only, not committed
+.backups/
+
+# Zo compute logs and temp files
+*.log
+*.tmp
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
