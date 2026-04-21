@@ -231,4 +231,3 @@ Rule: Never generate >200 words in a single response during artifact production.
 **Next action:** Start Ch7 Sage draft.
 
 **Three-context rule enforced by:** Rule `c83a9519` + `SOUL.md` + `BOOK_WORKFLOW_SYSTEM.md`
-test
