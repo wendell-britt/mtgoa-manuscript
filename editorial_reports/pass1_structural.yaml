@@ -37,7 +37,7 @@ results:
     thesis_ok: true
     word_count: 3041
   template: STANDARD
-  version: '0.6'
+  version: '0.7'
 - chapter: ch1-SHAMAN
   checks:
   - found_count: 11
@@ -66,7 +66,7 @@ results:
     thesis_ok: true
     word_count: 4071
   template: FOREST
-  version: '0.6'
+  version: '0.7'
 - chapter: ch2-SHAMAN
   checks:
   - found_count: 7
@@ -96,7 +96,7 @@ results:
     thesis_ok: true
     word_count: 10796
   template: STANDARD
-  version: '0.6'
+  version: '0.7'
 - chapter: ch3-CHALLENGER
   checks:
   - found_count: 7
@@ -126,7 +126,7 @@ results:
     thesis_ok: true
     word_count: 8324
   template: STANDARD
-  version: '0.6'
+  version: '0.7'
 - chapter: ch4-REGENT
   checks:
   - found_count: 7
@@ -156,7 +156,7 @@ results:
     thesis_ok: true
     word_count: 6418
   template: STANDARD
-  version: '0.6'
+  version: '0.7'
 - chapter: ch5-ARCHITECT
   checks:
   - found_count: 7
@@ -186,7 +186,7 @@ results:
     thesis_ok: true
     word_count: 7148
   template: STANDARD
-  version: '0.6'
+  version: '0.7'
 - chapter: ch6-diplomat
   checks:
   - found_count: 3
@@ -220,7 +220,7 @@ results:
     thesis_ok: true
     word_count: 10456
   template: STANDARD
-  version: '0.6'
+  version: '0.7'
 - chapter: ch7-sage
   checks:
   - found_count: 7
@@ -249,7 +249,7 @@ results:
     thesis_ok: true
     word_count: 13436
   template: STANDARD
-  version: '0.6'
+  version: '0.7'
 - chapter: ch8-player
   checks:
   - found_count: 7
@@ -278,5 +278,5 @@ results:
     thesis_ok: true
     word_count: 8320
   template: STANDARD
-  version: '0.6'
-version: '0.6'
+  version: '0.7'
+version: '0.7'
