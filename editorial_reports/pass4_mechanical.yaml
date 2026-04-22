@@ -1,0 +1,236 @@
+pass: mechanical_polish
+results:
+- auto_fixes_available: 0
+  chapter: ch0-infinite-arcade
+  issues:
+  - auto: false
+    count: 6
+    examples:
+    - A grief you don't know how to name when you realize how deeply the sys...
+    - 'A performance of allyship: you go to the meeting, you say the right th...'
+    - "You have carried traditions with the Regent \u2014 the things you inherited..."
+    severity: WARNING
+    type: LONG_SENTENCES
+  - auto: false
+    pct: 1.7
+    severity: INFO
+    type: PASSIVE_VOICE
+  last_line_check:
+    expected_hint: Will you answer?
+    last_line: Editorial test Tue Apr 21 21:25:42 UTC 2026
+    status: MISMATCH
+  pass: mechanical_polish
+  version: '0.1'
+- auto_fixes_available: 1
+  chapter: ch1-SHAMAN
+  issues:
+  - auto: true
+    count: 69
+    severity: AUTO_FIX
+    type: DOUBLE_SPACE
+  - auto: false
+    count: 9
+    examples:
+    - "# CHAPTER 1: THE FOREST \u2014 Why Allyship Keeps Failing (and Where to Sta..."
+    - The one that shows up late at night, or early in the morning, or in th...
+    - It's incomplete the same way a recipe is incomplete if it tells you wh...
+    severity: WARNING
+    type: LONG_SENTENCES
+  - auto: false
+    pct: 1.5
+    severity: INFO
+    type: PASSIVE_VOICE
+  last_line_check:
+    expected_hint: The Player awaits.
+    last_line: The Forest is ahead. The gate is open. The only move left is through.
+    status: MISMATCH
+  pass: mechanical_polish
+  version: '0.1'
+- auto_fixes_available: 2
+  chapter: ch2-SHAMAN
+  issues:
+  - auto: true
+    count: 21
+    severity: AUTO_FIX
+    type: DOUBLE_SPACE
+  - auto: true
+    count: 4
+    severity: AUTO_FIX
+    type: TRIPLE_DOT
+  - auto: false
+    count: 27
+    examples:
+    - "# CHAPTER 2: THE SHAMAN \u2014 Magenta \u2014 Survival/Instinct\n## *Emotional\
+      \ Al..."
+    - '---
+
+
+      ## Section 2: The Distortion
+
+      ### *What the Village Does With Emot...'
+    - But without the Shaman there to distinguish between real joy and the m...
+    severity: WARNING
+    type: LONG_SENTENCES
+  - auto: false
+    pct: 3.1
+    severity: INFO
+    type: PASSIVE_VOICE
+  last_line_check:
+    expected_hint: The Player awaits.
+    last_line: '**Reflection:** After you practice the WAVE-Spiral, notice what''s
+      different. How'
+    status: MISMATCH
+  pass: mechanical_polish
+  version: '0.1'
+- auto_fixes_available: 1
+  chapter: ch3-CHALLENGER
+  issues:
+  - auto: true
+    count: 2
+    severity: AUTO_FIX
+    type: TRIPLE_DOT
+  - auto: false
+    count: 15
+    examples:
+    - "# CHAPTER 3: THE CHALLENGER \u2014 Red \u2014 Socialized Power\n## *The Clean\
+      \ \"No..."
+    - Not because they were the eldest or the wisest but because they were t...
+    - '---
+
+
+      ## Section 2: The Distortion
+
+      ### *What the Village Does With the ...'
+    severity: WARNING
+    type: LONG_SENTENCES
+  - auto: false
+    pct: 2.6
+    severity: INFO
+    type: PASSIVE_VOICE
+  last_line_check:
+    expected_hint: The Player awaits.
+    last_line: '---'
+    status: MISMATCH
+  pass: mechanical_polish
+  version: '0.1'
+- auto_fixes_available: 0
+  chapter: ch4-REGENT
+  issues:
+  - auto: false
+    count: 17
+    examples:
+    - "# CHAPTER 4: THE REGENT \u2014 Amber \u2014 Order / Stewardship & Scale\n##\
+      \ *Trad..."
+    - 'The Regent created the first traditions: the weekly council that opene...'
+    - '" The Regent built the first inheritance: the stories that new members...'
+    severity: WARNING
+    type: LONG_SENTENCES
+  - auto: false
+    pct: 3.2
+    severity: INFO
+    type: PASSIVE_VOICE
+  last_line_check:
+    expected_hint: The Player awaits.
+    last_line: '**Reflection:** Where in your life is the Regent asking you to commit?
+      To tend s'
+    status: MISMATCH
+  pass: mechanical_polish
+  version: '0.1'
+- auto_fixes_available: 0
+  chapter: ch5-ARCHITECT
+  issues:
+  - auto: false
+    count: 20
+    examples:
+    - "# CHAPTER 5: THE ARCHITECT \u2014 Orange \u2014 Strategic Design\n## *The System\
+      \ ..."
+    - '---
+
+
+      ## Section 2: The Distortion
+
+      ### *What the Village Does With Stru...'
+    - "But without the Architect to say *wait \u2014 before you build this, let me..."
+    severity: WARNING
+    type: LONG_SENTENCES
+  - auto: false
+    pct: 1.5
+    severity: INFO
+    type: PASSIVE_VOICE
+  last_line_check:
+    expected_hint: The Player awaits.
+    last_line: Now you're ready for the Diplomat.
+    status: MISMATCH
+  pass: mechanical_polish
+  version: '0.1'
+- auto_fixes_available: 0
+  chapter: ch6-diplomat
+  issues:
+  - auto: false
+    count: 58
+    examples:
+    - "# CHAPTER 6 \u2014 THE DIPLOMAT\n## *Green \u2014 Pluralistic / Relational\
+      \ / Incl..."
+    - The Diplomat is the person who has learned that love is not demonstrat...
+    - 'And **Name Price** is the culmination: the explicit articulation of th...'
+    severity: WARNING
+    type: LONG_SENTENCES
+  - auto: false
+    pct: 7.0
+    severity: INFO
+    type: PASSIVE_VOICE
+  last_line_check:
+    expected_hint: The Player awaits.
+    last_line: "**Next:** The Sage \u2014 the one who sees all six altitudes and knows\
+      \ which one the "
+    status: MISMATCH
+  pass: mechanical_polish
+  version: '0.1'
+- auto_fixes_available: 1
+  chapter: ch7-sage
+  issues:
+  - auto: true
+    count: 1
+    severity: AUTO_FIX
+    type: TRIPLE_DOT
+  - auto: false
+    count: 56
+    examples:
+    - "# CHAPTER 7: THE SAGE \u2014 Teal \u2014 Integral / Integrative\n## *Mastery\
+      \ Is K..."
+    - The Sage was the one who could sit in a room and see all the altitudes...
+    - When the Sage refused to leave, when the Sage said *I see all of it an...
+    severity: WARNING
+    type: LONG_SENTENCES
+  - auto: false
+    pct: 2.7
+    severity: INFO
+    type: PASSIVE_VOICE
+  last_line_check:
+    expected_hint: The Player awaits.
+    last_line: '*Chapter 7 is complete. The Player awaits.*'
+    status: OK
+  pass: mechanical_polish
+  version: '0.1'
+- auto_fixes_available: 0
+  chapter: ch8-player
+  issues:
+  - auto: false
+    count: 26
+    examples:
+    - "# CHAPTER 8: CREATING YOUR OWN ALLYSHIP GAME\n## *The Return \u2014 From Pla..."
+    - "What you do when you're activated \u2014 when your mother calls, when the g..."
+    - 'My design looked like this: I knew from the Cartographer that I natura...'
+    severity: WARNING
+    type: LONG_SENTENCES
+  - auto: false
+    pct: 1.3
+    severity: INFO
+    type: PASSIVE_VOICE
+  last_line_check:
+    expected_hint: The village is waiting.
+    last_line: "Now go build yours \u2014 the village is waiting."
+    status: OK
+  pass: mechanical_polish
+  version: '0.1'
+version: '0.1'
