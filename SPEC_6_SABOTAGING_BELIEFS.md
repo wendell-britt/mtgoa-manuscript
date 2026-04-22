@@ -34,14 +34,27 @@
 
 ## The 6 Sabotaging Beliefs (the reservations)
 
-These are the limiting beliefs. The Controller generates them as self-sabotage. Q6 surfaces them.
+| # | The Belief | Role |
+|---|------------|------|
+| 1 | **I'm not good enough** | The competence block |
+| 2 | **I'm not ready** | The timing block |
+| 3 | **I don't belong** | The belonging block |
+| 4 | **I'm insignificant** | The mattering block |
+| 5 | **I'm not worthy** | The worthiness block |
+| 6 | **I'm not capable** | The capacity block |
 
-1. **I'm not good enough**
-2. **I'm not ready**
-3. **I don't belong**
-4. **I'm insignificant**
-5. **I'm not worthy**
-6. **I'm not capable**
+These are the limiting beliefs that surface when the fire/charge tries to move.
+
+**The pattern:**
+- Charge arrives (fire shows up)
+- Controller grips: *if you let yourself be this angry/passionate/powerful, you'll go too far*
+- The grip produces the 6 beliefs as defensive reflex
+- The person answers Q6 (*what reservations do you have?*) and one of the 6 surfaces
+- That belief blocks the Transcend move → allyship stalls
+
+**Key principle:** Do NOT describe how the beliefs feel in the body. The beliefs show up in the reader's own somatic reality when they answer Q6. The book's job is to name the conceptual frame — the felt sense is the reader's discovery. Strip felt-sense descriptions from all belief entries.
+
+**No highlight reels. All 6 in every chapter.** The reader needs the full pattern at every altitude. Repetition is the point — same 6 beliefs, different altitude-flavor. Face-specific translation means how the belief lands differently depending on which Face is doing the work, not which beliefs matter.
 
 ---
 
