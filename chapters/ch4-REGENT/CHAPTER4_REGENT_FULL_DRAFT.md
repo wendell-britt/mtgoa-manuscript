@@ -315,6 +315,21 @@ The Controller will not let go because you asked. The Controller lets go because
 
 Relieve the Controller. Don't fire them. Let them stand down.
 
+**The grip produces the 6 beliefs as self-sabotage:**
+
+I'm not good enough.
+I'm not ready.
+I don't belong.
+I'm insignificant.
+I'm not worthy.
+I'm not capable.
+
+These beliefs are the reservations. When you answer the question *what reservations do you have about your creation?* — these are what the question surfaces. The Controller has been holding these beliefs in place since before you had words for them. Each one is a record of a time you almost committed and stopped. Each one feels like a fact about your capacity. None of them are facts. They are the Controller's inventory of your history of not-trying, held up as evidence that you should never try.
+
+The belief is not the problem. The Controller presenting the belief as a current fact is the problem. The belief is data about the past. The grip is treating it as a prophecy.
+
+You pass this gate by relieving the Controller — and by noticing that the belief is not a fact about your capacity. It is a record of every time you almost tried something and didn't. The belief is data about your history, not your future.
+
 When you're ready, keep walking.
 
 #### Gate 3: The Skeptic

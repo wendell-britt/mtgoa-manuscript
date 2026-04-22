@@ -583,6 +583,21 @@ The lid is what's suffocating you. The Controller didn't know that. The Controll
 
 You pass this gate by *relieving* the Controller. Not firing them. Relieving them.
 
+**The grip produces the 6 beliefs as self-sabotage:**
+
+I'm not good enough.
+I'm not ready.
+I don't belong.
+I'm insignificant.
+I'm not worthy.
+I'm not capable.
+
+These beliefs are the reservations. When you answer the question *what reservations do you have about your creation?* — these are what the question surfaces. The Controller has been holding these beliefs in place since before you had words for them. The grip tightens every time you approach something that matters, and what the grip produces is the evidence that you shouldn't try.
+
+The energy that was flowing toward the feeling — toward the practice, toward the change — the Controller redirects. Not toward the belief. Away from the attempt. The belief becomes the reason to stop, and the stopping feels like safety, and the safety is a lie you've been telling yourself for so long you forgot it was a choice.
+
+You pass this gate by relieving the Controller — and by noticing that the belief is not a fact about your capacity. It is the Controller's record of every time you almost tried something and didn't. The belief is data about your history, not your future.
+
 When you're ready, keep walking.
 
 ---
@@ -820,15 +835,13 @@ The Shaman is the person in the room who can hold another person's emotions with
 
 This is radically different from what most people do. Most people immediately try to solve the emotion. "Oh, that's not true about yourself." "Here's how to handle that." "Let's move on." "Don't worry, it'll be fine."
 
-The Shaman instead says: "Yeah. That makes sense. Tell me more." "I can see why you feel that way." "Your sadness is real." "That anger is appropriate." "This is hard."
+The Shaman instead says: "Yeah. That makes sense. Tell me more." "I hear you." "That's appropriate anger." "Of course you're grieving." "You're right to be afraid." You're not fixing. You're witnessing. You're saying: your feeling is real, and you're not alone in it, and I'm not going to abandon you because of it.
 
-The Shaman creates the space where feeling is allowed to exist without being pathologized, fixed, or rushed past.
-
-**In practice:** When someone shares an emotion with you—fear, anger, sadness, grief, despair—your move is not to help them feel better. Your move is to help them feel *real.* You say things like: "That makes sense." "I hear you." "That's appropriate anger." "Of course you're grieving." "You're right to be afraid." You're not fixing. You're witnessing. You're saying: your feeling is real, and you're not alone in it, and I'm not going to abandon you because of it.
+**In practice:** When someone shares an emotion with you—fear, anger, sadness, grief, despair—your move is not to help them feel better. Your move is to help them feel *real.* You say things like: "That makes sense." "I hear you." "That's appropriate anger." "Of course you're grieving." "You're right to be afraid." Not as weakness. As honesty. As the move that actually creates safety—because now both of you are real, and that realness is what makes true connection possible.
 
 ### Move 4: Offer Your Own Reality
 
-The fourth Shaman move is to *be real yourself.* Not perform. Not solve. Not have the answer.
+The fourth Shaman move is to *be real yourself.* Not perform. Not have the answer.
 
 The Shaman who is being a real ally will say things like: "I don't know what to do about this, but I know this is real." "I'm scared too." "I'm not sure, but here's what I think." "I don't have a solution, but I'm here." "I'm also grieving."
 
