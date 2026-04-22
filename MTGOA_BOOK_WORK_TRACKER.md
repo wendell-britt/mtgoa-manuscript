@@ -197,7 +197,7 @@ Rule: Never generate >200 words in a single response during artifact production.
 
 **Owner:** Future us | **Status:** Captured ✅
 
-| Chapter 0 (Infinite Arcade) | ✅ 3,041 words | New sections: Token System, Ticket System, Three Game Types, Why Gamify, Six Faces Ladder, Entering the Arcade | 2026-04-21 |
+| Chapter 0 (Infinite Arcade) | ✅ 3,041 words | New sections: Token System, Ticket System, Three Game Types, Why Gamify, Six Faces Ladder, Entering the Arcade | 2026-04-21 | ✅ GM_SECTION_DRAFT.md (1,899 words) — actively being edited, not yet merged into CHAPTER0_DRAFT.md |
 | Chapter 1 (Forest — Why Allyship Fails) | ✅ FULL DRAFT SHIPPED (2026-04-20) | `ch1-SHAMAN/CHAPTER1_FULL_DRAFT.md` | 4,070 words |
 | Chapter 2 (Shaman — Wake/Clean/Grow) | ✅ COMPLETE | `ch2-SHAMAN/CHAPTER2_SHAMAN_FULL_DRAFT.md` | 10,753 words |
 | Chapter 3 (Challenger — Draw the Line) | ✅ COMPLETE | `ch3-CHALLENGER/CHAPTER3_CHALLENGER_FULL_DRAFT.md` | 8,195 words |

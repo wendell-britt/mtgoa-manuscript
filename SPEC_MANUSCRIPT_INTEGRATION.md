@@ -6,6 +6,37 @@
 
 ---
 
+## Editorial Style Guide — Reader Transformation Framework
+
+### The Epiphany Bridge (Russell Brunson / Hero's Journey)
+
+**When to use:** Any moment where the reader needs to undergo a transformation — shifting from "I didn't know" to "I was already doing this" to "now I do it on purpose." This is the book's signature structural move. It appears in every chapter opening, key section pivot, and the Reader's Oath.
+
+**The 8-beat structure:**
+
+| Beat | What it does |
+|------|-------------|
+| 1. Backstory | The reader in their ordinary world before the change |
+| 2. External Desire | Surface goal — what they're chasing in the world |
+| 3. Internal Desire | EA satisfaction — the feeling state underneath the goal (Metal/Fear, Water/Sadness, Wood/Joy, Fire/Anger, Earth/Neutrality) |
+| 4. Wall | What stopped them; failed attempts; the gap |
+| 5. Epiphany | The realization — "I was already doing this"; includes the functional definition of any new concept |
+| 6. Plan | The path forward — high-level framework, not tactics |
+| 7. Conflict | Why it's hard; the identity cost of changing |
+| 8. Transformation + Achievement | Before/after; what changed; readiness for next step |
+
+**Core principle:** Emotions drive decisions. Logic justifies them afterward. Do not give everything away — create cognitive dissonance that makes the reader lean in.
+
+**Critical rules:**
+- Beat 3 (Internal Desire) names the EA channel explicitly without over-explaining. The reader feels recognized, not taught.
+- Beat 5 (Epiphany) includes the functional definition of any new concept — no jargon, no cultural assumptions.
+- Beat 6 (Plan) outlines strategy only. Tactics fill the chapter.
+- Beat 7 (Conflict) frames the cost as identity accountability, not difficulty.
+
+**Source:** Adapted from Russell Brunson's *Expert Secrets* Epiphany Bridge. Built on hero's journey. Expanded with EA-aware Internal Desire framing.
+
+---
+
 ## WHAT STAYS OUT (Secondary Products)
 
 These exist in the legacy sources but belong to secondary products, not the canonical:
