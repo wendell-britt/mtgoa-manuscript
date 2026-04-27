@@ -23,7 +23,7 @@ Most people stay past the point of their usefulness. Most people absorb cost unt
 
 The Diplomat is not a冷淡 person. The Diplomat is not a pushover who cannot hold the field. The Diplomat is the person who has learned that love is not demonstrated through infinite presence — it is demonstrated through the honest naming of what presence actually costs, and the willingness to let the field decide whether it is willing to pay.
 
-The five stages of the Diplomat's work are not a checklist — they are a journey in sequence. **Bridge** is the initial entry, the act of showing up in the field with curiosity rather than judgment, making contact without requiring agreement. **Translate** is the work of rendering one camp's language into terms another camp can hear — not betraying either side, but finding the common ground of meaning. **Hold** is the maintenance of enough safety that difficult conversation remains possible even when the field is charged. **Repair** is the healing of ruptures without the pretense that they did not occur — cleaning the wound without pretending it was never made. And **Name Price** is the culmination: the explicit articulation of the terms under which your staying remains possible, the moment when you tell the field what your presence costs and let it decide whether to pay it.
+The five stages of the Diplomat's work are not a checklist — they are a journey in sequence. **Bridge** is the initial entry, the act of showing up in the field with curiosity rather than judgment, making contact without yet knowing what the relationship will require. **Translate** is the work of rendering one camp's language into terms another camp can hear — not betraying either side, but finding the common ground of meaning. **Hold** is the maintenance of enough safety that difficult conversation remains possible even when the field is charged. **Repair** is the healing of ruptures without the pretense that they did not occur — cleaning the wound without pretending it was never made. And **Name Price** is the culmination: the explicit articulation of the terms under which your staying remains possible, the moment when you tell the field what your presence costs and let it decide whether to pay it.
 
 Each stage earns the next. Bridge without Translate is noise. Translate without Hold is a promise no one trusts. Hold without Repair is a wound left to fester. Repair without Name Price is generosity without boundaries — and generosity without boundaries is not a gift, it is a slow form of self-destruction that the field learns to take for granted.
 
@@ -109,46 +109,6 @@ The Control move: ground the performance in actual feeling. *What is the actual 
 
 ---
 
-## CHANNEL 5 — PRICE-NAMER
-
-The Price-Namer is the Diplomat's most radical channel — and the most commonly misunderstood. It is not the threat to leave. It is not the ultimatum. It is the clear, calm, loving act of telling the field what your presence actually costs, so that the field can choose whether to pay it.
-
-Here is what it sounds like when it is absent: a person stays and stays and stays, through violation after violation, through boundary-cross after boundary-cross, saying yes when they mean no, staying when they mean to leave. And then one day, without warning, they are gone — not because they chose to leave, but because they ran out of the capacity to stay. The field did not know the price. The field never had the chance to decide if it was worth paying. The departure felt like a betrayal because it was — not a betrayal of the field, but a betrayal of the relationship by withholding its terms until they were already void.
-
-Here is what it sounds like when it is distorted: a person names their price as a weapon. "You do this again and I am gone" — said with anger, with contempt, with the implicit threat of consequences. This is not Price-Naming. This is the coercion of conditional love dressed in boundary language. The field hears it as manipulation, and rightly so, because it is manipulation. Price-Naming requires the same internal condition as the clean "no": the willingness to stay present in the relationship even if they do not meet your price. The ultimatums are not Price-Naming. They are its corruption.
-
-**[DISSATISFACTION → SATISFACTION] Transcend 1 — Martyrdom → Legitimate Self-Claiming**
-
-The Diplomat's martyrdom is seductive: *I give and give and ask for nothing.* This feels like love but it is actually a cover story — a way to never have to name a price and risk being told it is too high. The Transcend move: *I stop making my low price a virtue.* The anger that lives under the martyr role — the unspoken resentment of always giving more than you receive — alchemizes into legitimate self-claiming. You get to need things. You get to cost something. The field can bear it.
-
-**[DISSATISFACTION → SATISFACTION] Transcend 2 — Martyr-Grief → Worthiness**
-
-Under the martyrdom sits the deeper Dissatisfaction: **grief** — the quiet, unacknowledged sorrow of a person who has been dispensable for so long they no longer believe the field will come for them. The Transcend alchemy: *I stop grieving in secret.* You let the grief surface without turning it into a performance of neediness. You let it teach you what you actually require from the field — not as a complaint, but as a clear, calm specification. The grief of always being the one who adjusts, fully felt and named, converts into the quiet dignity of a person who knows their own worth.
-
-**[TRANSLATE] Translate 1 — Martyr-Rage → Clean Urgency**
-
-The primary Translate: the slow-burning fury of always being the one who accommodates — translated forward into the urgency of a person who finally believes their needs are worth raising. *This is not acceptable. This has to change.* The Translate moves the charge from resentment (Water, collapsing inward) into clean urgency (Fire, decisive forward motion). The anger was the fuel; now the urgency is the form. Energy cost: +1.
-
-**[TRANSLATE] Translate 2 — Martyr-Shame → Clear Request**
-
-The secondary Translate: the shame of needing anything at all — translated forward into the capacity to make a clean request without apology or performance. *I need X. I am raising it directly, not as a guilt trip, not as a threat. I am telling you what would help.* The Translate converts the shame of being a burden into the dignity of having a voice.
-
-**[CONTROL] Control 1 — Addressing the Collapse-Pattern**
-
-The Price-Namer's Control challenge is the collapse-pattern: the Diplomat who has been dismissed one too many times, who has watched their price be found too high and their presence refused, who now cannot name a price without the internal collapse of "they will just say no anyway, why bother." The Neutral Channel pattern is **collapse-pattern**: the learned helplessness of a person who no longer believes their presence has value.
-
-The Control move: the structural redirect of collapse-pattern. When you feel the internal collapse of "why bother," you do not try to feel better about it. You redirect the structural pattern: *I notice the collapse. That is the pattern firing. The pattern is not the reality. I name the price anyway.* This is not positive thinking — it is the discipline of not letting your pattern veto your voice. The price is named from the place of "I know this might be refused, and I am naming it anyway."
-
-**[CONTROL] Control 2 — Addressing the Threat-Pattern**
-
-The Price-Namer's second Control addresses the pattern of using the price as a threat rather than an articulation. The Neutral Channel pattern here is **vague threat-pattern**: "I need things to change or I cannot continue" — said vaguely, not because the Diplomat doesn't know their price, but because naming it clearly would mean it could be refused.
-
-The Control move: make it specific. *Here is the price. Here is what it looks like. Here is what changes if the price is not paid.* The vagueness is the defense — it allows the field to keep negotiating, keeps the door open, prevents the exposure of a clear refusal. The Control move closes the vagueness: the price is named specifically, clearly, with the understanding that this is an articulation and not a negotiation.
-
-*If any of the emotional alchemy terms above felt unfamiliar — Transcend, Translate, Control, the elemental channel system — Chapter 2 (The Shaman) has the full framework. The Shaman's WAVE-Spiral and energy economy are the foundation this entire chapter rests on.*
-
----
-
 ## CHANNEL 2 — TRANSLATOR
 
 ---
@@ -215,7 +175,7 @@ The Field-Holder is the Diplomat's most demanding channel in terms of sheer pres
 
 Here is what it looks like when it is absent: a person who can hold a conversation only when it is already safe. Who can mediate when conditions are calm, but who falls apart the moment the field becomes genuinely charged. The Field-Holder's absence shows up as a kind of presence collapse — the moment something difficult actually happens, they either escalate into the conflict or disappear from the field entirely. They can hold the good conditions; they cannot hold the bad ones.
 
-Here is what it looks like when it is distorted: a performative calm that is actually a freeze response. The distorted Field-Holder mistakes stillness for safety — they sit in the middle of a charged field and breathe deeply, perform equanimity, and call it holding. But real Field-Holding is not the absence of charge — it is the presence of containment. The field is still charged. The Field-Holder is not calming it down. They are giving it a shape. They are saying: *this charge has somewhere to go. It can move through this room without destroying it.*
+Here is what it looks like when it is distorted: a performative calm that is actually a freeze response. The distorted Field-Holder mistakes stillness for safety — they sit in the middle of chaos and perform peace, believing that their equanimity will regulate the room. But this is collapse masquerading as calm. Real Field-Holding is not the absence of charge — it is the presence of containment. The field is still charged. The Field-Holder is not calming it down. They are giving it a shape. They are saying: *this charge has somewhere to go. It can move through this room without destroying it.*
 
 **[DISSATISFACTION → SATISFACTION] Transcend 1 — Anxiety → Grounded Presence**
 
@@ -536,8 +496,6 @@ The Diplomat who has mastered these moves does not run a sequence. They hold the
 
 ---
 
-
-
 ## SECTION 7 — RECAP AND TRANSITION
 
 ---
@@ -546,7 +504,7 @@ The Diplomat's gift is not neutrality — it is the capacity to be a partisan wh
 
 You came into this chapter carrying a specific wound: the belief that your needs were too much, that asking was a form of imposition, that good diplomats didn't have walk-away prices. Maybe the village taught you that. Maybe you learned it the hard way, watching what happened to people who named their needs too clearly. Maybe you decided it was safer to stay pleasant than to risk being left.
 
-The five stages of the Diplomat's work are not a checklist — they are a journey in sequence. **Bridge** is the initial entry, the act of showing up in the field with curiosity rather than judgment, making contact without requiring agreement. **Translate** is the work of rendering one camp's language into another's without contaminating it with your own position. **Hold** is the sustained presence through the hard part, when the instinct of everyone present is to fight, flee, or freeze. **Repair** is the healing of ruptures that have already occurred — not pretending the break didn't happen, but also not walking away from it. And **Name Price** is the capstone: knowing what you would need to leave, and saying it so that your staying means something.
+The five stages of the Diplomat's work are not a checklist — they are a journey in sequence. **Bridge** is the initial entry, the act of showing up in the field with curiosity rather than judgment, making contact without yet knowing what the relationship will require. **Translate** is the work of rendering one camp's language into terms another camp can hear — not betraying either side, but finding the common ground of meaning. **Hold** is the maintenance of enough safety that difficult conversation remains possible even when the field is charged. **Repair** is the healing of ruptures without the pretense that they did not occur — cleaning the wound without pretending it was never made. And **Name Price** is the capstone: knowing what you would need to leave, and saying it so that your staying means something.
 
 Every stage requires a different internal alchemy. The Bridge-Builder must transcend the terror of genuine contact. The Translator must transmute intellectual superiority into faithful interpretation. The Field-Holder must hold neutral through the charge of everyone's discomfort. The Repairer must grieve what was broken while also acting toward its repair. And the Price-Namer must find the courage to name what they actually need — not as a threat, not as manipulation, but as a clear, calm, loving act of disclosure.
 
