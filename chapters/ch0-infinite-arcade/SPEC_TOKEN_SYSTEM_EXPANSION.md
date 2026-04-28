@@ -193,3 +193,49 @@ The current Token System section is a single explanation block (~460 words). It 
 ---
 
 *Spec status: Draft — for author approval. Approve to begin drafting.*
+
+---
+
+## Writing Standard — Deep EA Structure (Non-Negotiable)
+
+**The trick:** The reader cannot know they are being taught an EA move. The section must feel like discovery, not instruction.
+
+**How it works:**
+
+| Layer | Rule |
+|-------|------|
+| **Surface** | Prose about allyship and the game. Natural. Literary. No meta-commentary. |
+| **Deep structure** | EA transformation is embedded invisibly. The reader thinks they discovered the move themselves. |
+| **Internal desire** | Concrete, specific satisfaction emotion — not vague ("feel better") but specific ("the meeting was ten minutes, the processing goes on for hours") |
+| **Wall** | The reader's current EA skill gap, shown through story before it is named |
+| **Transformation** | The teaching IS the epiphany. Not: "here's what the Token System is." But: "you lived it in the story and now you have the word." |
+| **Reader experience** | "I didn't know I was learning this. I thought I was just reading." |
+
+**The diplomat's test:**
+- Would a reader in scarcity mode feel the vagueness or the precision? Precision. Vagueness = walls they can't climb.
+- Is every claim about the emotional experience grounded in specific, bodily, recognizable detail? If not, the wall is too high.
+- Does the writing use the EA vocabulary of the reader's current language — not the book's framework — to lead them in? Check: do words like "tired" / "drained" / "running on empty" appear before "tokens" does?
+
+**Diplomat's standard for Section 2 specifically:**
+- Every paragraph must be specific enough to inhabit without being abstract enough to float over
+- The "epiphany" is earned, not declared — it must emerge from recognizable experience, not from the author's promise
+- The reservation language (the 6 self-sabotaging beliefs) must be felt in the prose before they are named
+
+---
+
+## Implementation Notes
+
+**Before writing:**
+1. Re-read 6 Unpacking answers for this section
+2. Confirm: which satisfaction emotion is this section delivering? (Wood/Joy — vitality)
+3. Confirm: what is the current EA skill gap that creates the wall? (spending in Metal/Fear instead of generating in Wood/Joy)
+4. Confirm: what is the specific move the reader will discover? (satisfaction spending = renewable energy)
+
+**After writing:**
+1. Read aloud — does it sound like you're explaining tokens, or like you're showing someone their own life?
+2. If explanation heard → rewrite. The trick is broken.
+3. Does the satisfaction emotion feel real at the end? (Wood/Joy: "I have more than I thought. I can play.") If not, which EA channel is it landing in?
+
+---
+
+*This standard applies to Section 2 expansion. Apply to each remaining section before writing.*
