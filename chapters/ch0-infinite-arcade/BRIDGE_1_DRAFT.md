@@ -1,21 +1,22 @@
 # Bridge 1 Draft — The Scarcity Discovery
 **Saved:** 2026-04-28
 **Target:** ~1,000 words
-**Status:** For review
+**Status:** For review — Beat 1 rewritten with Monopoly front-loaded
 
 ---
 
-## Beat 1 — The Arcade Memory (~100 words)
+## Beat 1 — The Monopoly Memory (~100 words)
 
-You remember the board game store.
+You remember the Monopoly box.
+Not the idea of board games — the actual thing. The moment you opened it and found the board, the cards, the properties. The moment you understood the promise: collect the most, crush your opponents, leave everyone else bankrupt.
 
-The rows of boxes with their promises: *build empires, crush opponents, collect the most.* But underneath every box was a hidden education — and it wasn't the one on the cover. The education was *scarcity.* Watch your money disappear. Watch properties you can't afford sit useless. Watch someone else collect what you paid to lose.
+And then the game started.
 
-That's what the game taught you to feel: the specific anxiety of *not enough.* Not enough money. Not enough property. Not enough time before someone else wins.
+And every time you tried to build something, money disappeared. Properties you needed sat unaffordable. Someone else won while you paid rent on the square you landed on. You played by every rule. You played harder. You lost anyway — not because you were bad, but because *that was the game.* The board was designed so someone collects what everyone else spends.
 
 Now apply that to allyship.
 
-This book is going to teach you to stop playing that game.
+Allyship got packaged in a Monopoly box. And you were supposed to lose.
 
 ---
 
