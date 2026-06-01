@@ -1,5 +1,37 @@
-# CHAPTER 7: THE SAGE — Teal — Integral / Integrative
+# CHAPTER 7: THE SAGE
 ## *Mastery Is Knowing Which Game You're Playing and Being Able to Put It Down*
+
+---
+
+## A Note Before the Exile
+
+The first course I built for this work, I built out of spite.
+
+George Floyd was murdered in May 2020. Within a week my phone had more messages in it than I'd gotten in the previous year. Most of them were from white friends. For many of them, I was the only Black person they knew. I'd been doing this work informally for years — coaching people through the emotional labor of showing up differently in their relationships, their workplaces, their lives. I had the tools. I decided to repackage them.
+
+I'd made a promise to myself back in 2014, after burning out writing about race and nerd culture. I was done. Activism was a machine that ate people and produced very little, and I was finished feeding it. But now people needed something, and I had something to offer, and I wanted to get paid for the emotional labor that was already being extracted from me for free. So I built the course.
+
+The premise was simple: allyship is just applied friendship and skilled helping. I'd already learned to make my own life feel like a game worth playing. If I could make this work fun, people would do it. How hard could it be to translate that?
+
+The course had less than a ten percent completion rate.
+
+I did what I always do. I doubled down. Made more content. Pushed harder. Got feedback mid-course that it wasn't fun — which meant I had to build a section about finding the source of fun inside a course I'd promised would be fun. The horses ran up to me talking about how thirsty they were. When I brought them to water, they walked away. Turns out thirst and wanting to drink are different things.
+
+I was right and it cost me nothing and everything at the same time. I'd done everything right except meet people where they were instead of where I was annoyed they weren't. And then I burned out.
+
+I caught myself at the bottom of a depression well. The catching was unnerving. I hadn't known I was depressed — I'm someone who can keep moving even when I'm sad. But the lesson of sadness is: what do I care about, and how far away am I from it? I was very far away. I didn't know how long the well had been dug.
+
+I found myself sad but also relieved — the relief coming from being able to end a fight I didn't want to be in anymore.
+
+I'd been running a Captain Save-a-Kid game and calling it course design. The uncomfortable truth was that the struggle was its own kind of perverse fun. And at the bottom of that well I saw it: I'd taken agency for an experience that was theirs.
+
+Not all games are fun. Not everything that's fun makes for a great game.
+
+The ones who finished changed their relationship to the emotions that had been making allyship impossible. They allied with the guilt, the shame, the avoidance — and alchemized them into the capacity to show up better for others.
+
+The book in your hands came from the bottom of that well. Not from the spite. Not from proving I was right. From the moment I connected back to myself after failing to make money or create the allies I'd wanted to create — and found that I'd learned something true about the places where my own unresolved stuff had been limiting my allyship.
+
+The Sage isn't the person who sees furthest. It's the person who looked at himself long enough to stop performing the view.
 
 ---
 
@@ -42,6 +74,34 @@ And the village never meant for that to happen. It never said *go.* It just stop
 
 ---
 
+You've been in rooms where you could see which game was being played.
+
+Not always. But in certain rooms — the meeting where the stated agenda was strategy and the real agenda was who got to claim the victory; the circle where everyone was processing together and one person was using the processing to stay at the center; the conversation where someone was drawing a line, and the line was correct, but the way they drew it was more about being right than about protecting anyone — in those rooms, you could feel what was actually happening underneath what was being said. Which altitude the room was really operating from, even when the language in the room was pitched at a different altitude entirely.
+
+You've probably gotten quieter about it.
+
+This isn't a criticism. At some point, the experience taught you something: saying what you see does not always help. The last few times you named what was actually happening in those rooms, something happened that you didn't expect — or didn't happen, which was its own message — and you recalibrated. The cost of naming the pattern shifted above what felt worth paying. So you held it. You learned to sit with the knowing and let the room be what the room was going to be. To carry the pattern without putting it into words. To stay present without being useful in the particular way you were capable of being useful.
+
+Which is its own kind of exile. Not the loud exile — not being asked to leave, not being told you were wrong. The quiet kind: when you have something specific to offer and you've learned not to offer it, because the room doesn't have the architecture to receive it. That's where we left the Sage. That's probably where you've been spending some time yourself.
+
+You just read a story about someone who sees clearly and gets exiled for it. Something moved in you — a recognition, a *yes*. The story located something real.
+
+You know this test by now. You've been taking it since the first page. Take it again here, where it's sharpest — because the Sage is where it gets hardest to tell the two readings apart.
+
+The first reading: you have the Sage's gift, and what you've been living is the Sage's exile. You see the altitude map. You can feel the gap between what a room is saying and what it's actually doing, and you've gone quiet because the room didn't know what to do with that capacity — not because there was anything wrong with the seeing itself.
+
+*(This reading is comfortable in a particular way. It explains the distance you sometimes feel in your progressive spaces — why you can be surrounded by people doing the work and still feel like you're slightly to the side of it. It gives the distance a story. A good story. A story that isn't wrong.)*
+
+The second reading: you've spent enough time around the Sage's vocabulary — altitude, games, which level the conflict is actually at — that the fluency itself became a place to stand at a careful distance from the room. The seeing became the destination rather than the beginning. The meta-awareness is real. But you've been using it the way the Sage in distortion uses it: to understand without committing. To diagnose without being diagnosed. To see the whole board without ever moving a piece on it.
+
+The first reading puts the gap between you and the village.
+
+The second reading puts the gap inside you.
+
+You'll know which one is yours. The chapter keeps going either way.
+
+---
+
 ## Section 2: The Distortion
 ### *What the Village Does When It Can't See the Games It's Playing*
 
@@ -55,50 +115,46 @@ The village started mistaking motion for progress. Started treating arguments as
 
 This is what the village does without the Sage: it plays all the games at once, confused about which one it is in.
 
-And a shadow Sage emerged. Not the real Sage — the village's version of the Sage. The person who sees everything and commits to nothing. Who can name every altitude but won't choose one. Who has enough perspective to explain why none of it matters, but not enough commitment to be useful. Who mistakes seeing for wisdom, and wisdom for the ability to opt out.
+And a Sage in distortion emerged. Not the real Sage — the village's version of the Sage. The person who sees everything and commits to nothing. Who can name every altitude but won't choose one. Who has enough perspective to explain why none of it matters, but not enough commitment to be useful. Who mistakes seeing for wisdom, and wisdom for the ability to opt out.
 
-The shadow Sage is what happens when the village keeps the Sage's vocabulary without the Sage's practice. The village learned to say *I see all the altitudes* without learning what it costs to hold that view while still choosing to be present. The village learned to name the games people were playing without realizing it was also playing games. The village learned to *describe* perspective without *practicing* it.
+The Sage in distortion is what happens when the village keeps the Sage's vocabulary without the Sage's practice. The village learned to say *I see all the altitudes* without learning what it costs to hold that view while still choosing to be present. The village learned to name the games people were playing without realizing it was also playing games. The village learned to *describe* perspective without *practicing* it.
 
-This is the shadow Sage's trap: seeing becomes a way to avoid being in the game. You can name every altitude, which means you never have to commit to any of them. You can diagnose everyone's stuckness, which means you never have to look at your own. You can see the whole board, which means you never have to play a piece of it. Perspective without commitment. Vision without embodiment. The guru on the mountain — not because the guru chose the mountain, but because the mountain is safer than the room.
+This is the Sage in distortion's trap: seeing becomes a way to avoid being in the game. You can name every altitude, which means you never have to commit to any of them. You can diagnose everyone's stuckness, which means you never have to look at your own. You can see the whole board, which means you never have to play a piece of it. Perspective without commitment. Vision without embodiment. The guru on the mountain — not because the guru chose the mountain, but because the mountain is safer than the room.
 
-The shadow Sage's favorite games:
+The Sage in distortion's favorite games:
 
 ---
 
-**The Trauma Olympics.** Every conversation becomes a competition to prove whose pain is more formative. The shadow Sage navigates these with perfect equanimity — able to see both sides, able to validate everyone's injury, unable to take a side because taking a side would mean the seeing was *for* something. The Trauma Olympics has no winners. It also has no end. The shadow Sage is very comfortable in it.
+**The Trauma Olympics.** Every conversation becomes a competition to prove whose pain is more formative. The Sage in distortion navigates these with perfect equanimity — able to see both sides, able to validate everyone's injury, unable to take a side because taking a side would mean the seeing was *for* something. The Trauma Olympics has no winners. It also has no end. The Sage in distortion is very comfortable in it.
 
-*But here is what the shadow Sage never names: the competition is real, and somebody is losing.* In the Trauma Olympics, the person who is most wounded gets the most airtime — not because their pain is more valid, but because pain has become the credential. And the shadow Sage, who could name this dynamic, chooses instead to hold space for it. To validate. To see. Which is, in the end, a form of participation. The shadow Sage who sees the game and stays in it is not neutral. The shadow Sage is selecting for the most wounded as the most credible, which means the people who have done the work of metabolizing their pain become less visible. The Trauma Olympics rewards unprocessed pain. The shadow Sage, by not naming it, rewards it too.
+*But here is what the Sage in distortion never names: the competition is real, and somebody is losing.* In the Trauma Olympics, the person who is most wounded gets the most airtime — not because their pain is more valid, but because pain has become the credential. And the Sage in distortion, who could name this dynamic, chooses instead to hold space for it. To validate. To see. Which is, in the end, a form of participation. The Sage in distortion who sees the game and stays in it is not neutral. The Sage in distortion is selecting for the most wounded as the most credible, which means the people who have done the work of metabolizing their pain become less visible. The Trauma Olympics rewards unprocessed pain. The Sage in distortion, by not naming it, rewards it too.
 
-The test: in a room where pain is being performed, does the shadow Sage notice who is quiet? Who has done the work? Who is speaking from healed territory rather than fresh wound? The real Sage sees all of it — including the hierarchy of pain — and names what they see. Not with judgment. With precision.
+The test: in a room where pain is being performed, does the Sage in distortion notice who is quiet? Who has done the work? Who is speaking from healed territory rather than fresh wound? The real Sage sees all of it — including the hierarchy of pain — and names what they see. Not with judgment. With precision.
 
-**Captain Save-a-Kid.** The shadow Sage version of service: riding in to solve problems at the altitude the shadow Sage finds most interesting, not the altitude the person in front of them actually needs. The shadow Sage hears a problem and immediately goes to Orange — *let me design you a system* — when the actual need is Red: *I need someone to draw a line and hold it.* Or the shadow Sage hears a problem and immediately goes to Green — *let me validate your experience* — when the actual need is Teal: *I need someone to see the whole pattern and tell me which game I'm actually playing.* The shadow Sage is helpful. The shadow Sage is also solving a problem nobody asked them to solve.
+**Captain Save-a-Kid.** The Sage in distortion version of service: riding in to solve problems at the altitude the Sage in distortion finds most interesting, not the altitude the person in front of them actually needs. The Sage in distortion hears a problem and immediately goes to Orange — *let me design you a system* — when the actual need is Red: *I need someone to draw a line and hold it.* Or the Sage in distortion hears a problem and immediately goes to Green — *let me validate your experience* — when the actual need is Teal: *I need someone to see the whole pattern and tell me which game I'm actually playing.* The Sage in distortion is helpful. The Sage in distortion is also solving a problem nobody asked them to solve.
 
-*This is the shadow Sage's particular cruelty: solving the wrong problem with the right intentions.* The person who needed the line gets a system. The person who needed to be heard gets a framework. The person who needed the pattern named gets validation. And the shadow Sage walks away feeling like they helped. The person on the other end walks away feeling like they weren't quite heard. The gap between helpful and present is enormous — and it's the gap the shadow Sage lives in. The real Sage asks: *what altitude is this person actually at? What do they actually need?* And then does that, even when what they need is simpler than what the shadow Sage wants to offer.
+*This is the Sage in distortion's particular cruelty: solving the wrong problem with the right intentions.* The person who needed the line gets a system. The person who needed to be heard gets a framework. The person who needed the pattern named gets validation. And the Sage in distortion walks away feeling like they helped. The person on the other end walks away feeling like they weren't quite heard. The gap between helpful and present is enormous — and it's the gap the Sage in distortion lives in. The real Sage asks: *what altitude is this person actually at? What do they actually need?* And then does that, even when what they need is simpler than what the Sage in distortion wants to offer.
 
-**Dragging Horses to Water.** The shadow Sage version of the Architect's practice: building systems that would work perfectly if the people inside them were different. The shadow Sage designs for the rational actor — the version of the person who would respond correctly to the right incentive — without accounting for the actual person with their actual fears and habits and histories. Then the shadow Sage is confused about why the design didn't work, when the answer is simple: the horse wasn't thirsty. The design was elegant. The horse was not thirsty.
+**Dragging Horses to Water.** The Sage in distortion version of the Architect's practice: building systems that would work perfectly if the people inside them were different. The Sage in distortion designs for the rational actor — the version of the person who would respond correctly to the right incentive — without accounting for the actual person with their actual fears and habits and histories. Then the Sage in distortion is confused about why the design didn't work, when the answer is simple: the horse wasn't thirsty. The design was elegant. The horse was not thirsty.
 
-*This is the shadow Sage's version of the Architect's hubris, filtered through altitude confusion.* The Architect builds knowing they're designing for fallible humans. The shadow Sage builds without noticing they're doing it — because the shadow Sage is certain that the altitude they're operating from (Teal) is above the problem. But the shadow Sage who builds from Teal without accounting for the actual people at Red or Orange or Green is doing something more subtle than simple misdesign. The shadow Sage is projecting their own altitude onto people who aren't there. And the cost is the same: the system doesn't work because the people inside it don't behave the way the system requires.
+*This is the Sage in distortion's version of the Architect's hubris, filtered through altitude confusion.* The Architect builds knowing they're designing for fallible humans. The Sage in distortion builds without noticing they're doing it — because the Sage in distortion is certain that the altitude they're operating from (Teal) is above the problem. But the Sage in distortion who builds from Teal without accounting for the actual people at Red or Orange or Green is doing something more subtle than simple misdesign. The Sage in distortion is projecting their own altitude onto people who aren't there. And the cost is the same: the system doesn't work because the people inside it don't behave the way the system requires.
 
-The test: when a system fails, does the shadow Sage redesign it or redesign the people? Redesigning the system is the Architect. Redesigning the people is the shadow Sage. The real Sage names which altitude the people are actually at and designs for that — not for the altitude they wish the people were at.
+The test: when a system fails, does the Sage in distortion redesign it or redesign the people? Redesigning the system is the Architect. Redesigning the people is the Sage in distortion. The real Sage names which altitude the people are actually at and designs for that — not for the altitude they wish the people were at.
 
-Here's the thing about all three games. They're not obviously wrong. The shadow Sage is not stupid. The shadow Sage is not malicious. The shadow Sage is doing versions of useful things — mediating pain, solving problems, designing systems — without the altitude diagnosis that would make those things actually useful.
+These three games are not obviously wrong. The Sage in distortion is not stupid. The Sage in distortion is not malicious. The Sage in distortion is doing versions of useful things — mediating pain, solving problems, designing systems — without the altitude diagnosis that would make those things actually useful.
 
-What the shadow Sage is missing is the first move of the real Sage: *which altitude is this, actually?*
+What the Sage in distortion is missing is the first move of the real Sage: *which altitude is this, actually?*
 
-Without that question, help becomes interference. Diagnosis becomes lecturing. Perspective becomes detachment. The shadow Sage is what happens when you get good at the vocabulary of the Sage without doing the practice — when you learn to name the games without learning to put them down.
+Without that question, help becomes interference. Diagnosis becomes lecturing. Perspective becomes detachment. The Sage in distortion is what happens when you get good at the vocabulary of the Sage without doing the practice — when you learn to name the games without learning to put them down.
 
 ---
 
 ## Section 3: The Concept
 ### *The Sage's Gift: Embodied Panoramic Vision*
 
-Here's what the Sage knows that the other Faces don't.
-
 The Shaman knows what they feel. The Challenger knows what line to draw. The Regent knows what tradition to carry forward. The Architect knows what to build. The Diplomat knows how to hold the field for people at different altitudes. Each one is right. Each one is also incomplete.
 
 The Sage sees the whole thing. And that's not a contradiction—it's the whole point.
-
-**The Core Thesis**
 
 Mastery is knowing which game you're playing and being able to put it down.
 
@@ -108,9 +164,7 @@ The Sage is what happens when you've been all the other Faces long enough that y
 
 That's the Sage. Not a new altitude above Teal. A *meta-view* of all the altitudes—a capacity to see the whole system and choose where to stand inside it.
 
-**The Superpower**
-
-**Embodied panoramic vision.** The capacity to see all altitudes AND still choose to stand somewhere.
+Embodied panoramic vision. The capacity to see all altitudes and still choose to stand somewhere.
 
 This is the Vulnerable Child's gift, held all the way up. The child who wanted to be in the game AND see the game. Who wanted to belong AND see. Who refused to choose between presence and perspective.
 
@@ -122,17 +176,17 @@ That's the practice. That's the superpower. Not *instead of* choosing—*along w
 
 The Sage sees in five modes. Each one is a tool. Each one, used wrongly, becomes a shadow:
 
-**1. The Panoramic Seer** — Metal/Fear → *Excitement.* The capacity to see all six altitudes at once, even briefly. The gift: taking in the whole field without collapsing into any single altitude. The shadow: seeing becomes narrating, and narrating becomes a way to avoid engagement.
+1. The Panoramic Seer — Metal/Fear → *Excitement.* The capacity to see all six altitudes at once, even briefly. The gift: taking in the whole field without collapsing into any single altitude. The shadow: seeing becomes narrating, and narrating becomes a way to avoid engagement.
 
-**2. The Altitude-Switcher** — Fire/Anger → *Triumph.* The capacity to move deliberately between altitudes—not from default, but from choice. The gift: being able to go to Red when Red is what's needed, or to Teal when Teal is what's needed, and to go down without feeling diminished. The shadow: switching without anchoring becomes inconsistency.
+2. The Altitude-Switcher — Fire/Anger → *Triumph.* The capacity to move deliberately between altitudes—not from default, but from choice. The gift: being able to go to Red when Red is what's needed, or to Teal when Teal is what's needed, and to go down without feeling diminished. The shadow: switching without anchoring becomes inconsistency.
 
-**3. The Diagnostician** — Earth/Neutrality → *Peace.* The capacity to name out loud which altitude a group is at—and what that stuckness is costing them. The gift: serviceable, precise, kind. The shadow: naming becomes lecturing, and the Sage who names everything from Teal becomes the shadow Sage who narrates-at-people.
+3. The Diagnostician — Earth/Neutrality → *Peace.* The capacity to name out loud which altitude a group is at—and what that stuckness is costing them. The gift: serviceable, precise, kind. The shadow: naming becomes lecturing, and the Sage who names everything from Teal becomes the Sage in distortion who narrates-at-people.
 
-**4. The Liberator** — Wood/Joy → *Bliss.* The capacity to put a game down when it's no longer serving. The gift: freedom for yourself and for others. The shadow: putting down becomes giving up, and the Sage who can't hold anything becomes the Sage who never builds.
+4. The Liberator — Wood/Joy → *Bliss.* The capacity to put a game down when it's no longer serving. The gift: freedom for yourself and for others. The shadow: putting down becomes giving up, and the Sage who can't hold anything becomes the Sage who never builds.
 
-**5. The Returner** — Water/Sadness → *Poignancy.* The capacity to come back to lower altitudes without condescension. The gift: dignity intact for everyone — and the poignancy is the point. The Returner's satisfaction move is closing the distance between what you care about and where you actually are. The shadow: returning becomes retreating, and the Sage who can't stay at Teal uses the Return as a way to avoid the work.
+5. The Returner — Water/Sadness → *Poignancy.* The capacity to come back to lower altitudes without condescension. The gift: dignity intact for everyone — and the poignancy is the point. The Returner's satisfaction move is closing the distance between what you care about and where you actually are. The shadow: returning becomes retreating, and the Sage who can't stay at Teal uses the Return as a way to avoid the work.
 
-**The Stage Sequence: See → Switch → Serve → Release → Return**
+The Stage Sequence: See → Switch → Serve → Release → Return
 
 This is the Sage's WAVE-Spiral — a commitment loop, not a developmental sequence:
 
@@ -144,8 +198,6 @@ This is the Sage's WAVE-Spiral — a commitment loop, not a developmental sequen
 
 The full loop takes a moment or a year, depending on the game. The sequence is the same.
 
-**The Through-Line**
-
 Your capacity to see the whole without leaving the parts, and to stay engaged without being consumed.
 
 That is what the Sage gives you. That is what the Exile cost. That is what the Distortion lost. And that is what the Practice is for.
@@ -154,17 +206,15 @@ That is what the Sage gives you. That is what the Exile cost. That is what the D
 
 ---
 
-### *Somatic Markers: How to Know You're Actually Seeing*
+### *How to Know You're Actually Seeing*
 
-The Sage has a body — even if the shadow Sage sometimes forgets that. The shadow Sage treats seeing as a mental exercise. The real Sage knows that the body is the instrument through which the view is lived.
+The Sage in distortion treats seeing as something the mind does at a distance. The real Sage knows it's something you do from inside the room — not from a balcony above it. And the difference shows. Not in some private inner readout you have to take on faith, but in where you're actually standing.
 
-**The body doesn't lie about which Sage you're in.**
+Genuine Sage sight is the orientation of someone who walked all the way into the room and stayed. You're taking in more, and you're not backing away from any of it. You're *with* the people, not narrating them. The view didn't lift you up and out — it let you stand more fully in.
 
-When you're in genuine Sage sight — committed seeing, not detached narrating — you'll feel it in the body. The panoramic view feels like expansion. Not inflation. Not the chest full of air that precedes a boast. Expansion — the sense that you are taking in more without contracting around any of it. The body is upright, open, interested. The jaw is relaxed. The breathing is easy — not because there's no charge in the room, but because you've made room for the charge without being consumed by it.
+Perspective-as-avoidance is the opposite, and it has a tell you can catch: you're looking at the room the way a tourist looks at a museum. Everything's interesting; nothing is yours. You can describe what's happening with perfect accuracy and still not be in it — and the clearer the view gets, the further away you've drifted.
 
-When you're in shadow Sage — perspective as avoidance — the body will tell you. Closed. Pulled back. Observing from a distance that feels like safety but is actually isolation. The body is there but not *in* the room. The breathing is shallow — chest only, not the belly, not the ground. The eyes are looking at the room the way a tourist looks at a museum: everything is interesting and nothing is yours.
-
-The return to the body is how you know the difference. Before you trust your view, check your body. Are you open or closed? Present or watching yourself from above? In the room or above it?
+So before you trust the view, check the one thing that gives it away: are you in the room, or watching from the doorway? With the people, or above them? That's the whole difference between the Sage and the Sage in distortion — and it's a question about where you're standing, not a sensation you have to manufacture.
 
 ---
 
@@ -172,33 +222,31 @@ The return to the body is how you know the difference. Before you trust your vie
 
 ### *The Five Modes of Sight*
 
-
-
----
+Here's what each mode looks like when it's doing its job — and what it looks like when it's doing someone else's job instead.
 
 ---
 **Transcend Move 1: Panoramic Seer**
 [DISSATISFACTION → SATISFACTION] Transcend blank-field paralysis — **Fear** → *Excitement*
 Here's what's underneath the Panoramic Seer's first failure: the fear that what you see will be smaller than what you hoped. That the field you've opened to is actually just a room, and the altitude you've glimpsed is just a ceiling, and everyone in it has already decided what they're doing and the seeing was just a way to feel above it all.
-The fear is real. The blank field is possible. And the alchemy is here: *the contraction is the body reporting honestly on what it's actually seeing — and what it's actually seeing is the gap between what the field could be and what it is.* That gap is not the end of the view. It's the beginning of the work.
+The fear is real. The blank field is possible. *The contraction is the body reporting honestly on what it's actually seeing — and what it's actually seeing is the gap between what the field could be and what it is.* That gap is not the end of the view. It's the beginning of the work.
 The Transcend move: you feel the field close down, you name it as the body reporting — not as prophecy — and you let the contraction inform your interest. *What is actually here? Who is actually in the room and what are they actually carrying?* The excitement is not the field being bigger than it is. It's the field being exactly what it is, and you being willing to see that.
 ---
 **Transcend Move 2: Altitude-Switcher**
 [DISSATISFACTION → SATISFACTION] Transcend altitude-arrogance — **Anger** → *Triumph*
 Here's what's underneath the Altitude-Switcher's first failure: the rage at being in a room that can't hold what you see. The *I am at Teal and you are at Green and this conversation is beneath my time* that fires the moment you have to go down to where they are.
-The anger is real. The room is sometimes exactly that limited. And the alchemy is here: *the judgment is accurate, and it is also the trap — because the moment you are above them, you cannot be with them, and the Sage's practice is always about being with, not being above.*
+The anger is real. The room is sometimes exactly that limited. *The judgment is accurate, and it is also the trap — because the moment you are above them, you cannot be with them, and the Sage's practice is always about being with, not being above.*
 The Transcend move: you feel the arrogance rise, you name it — *I am using the altitude to create distance instead of service* — and you let the judgment become the capacity to meet them. *What do they actually need? What altitude are they actually at, and what would it mean to go there with them, not to them?* The triumph is not the view from above. It's the capacity to go down and come back without feeling diminished.
 ---
 **Transcend Move 3: Diagnostician**
 [DISSATISFACTION → SATISFACTION] Transcend grief-paralysis — **Sadness** → *Peace*
 Here's what's underneath the Diagnostician's first failure: the grief at what lower altitudes miss. The moment you name the altitude — *this is a Red room, this is a Green stuckness, this is an Orange problem dressed up as Teal vision* — and you feel the weight of how much is not being seen.
-The sadness is real. The gap is real. And the alchemy is here: *the grief is not a reason to stop naming — it is the fuel for the naming.* The person who feels the loss of what the room can't see is the person who can name it, and the naming is not a punishment. It's a gift. It's the thing the room needs and doesn't know how to ask for.
+The sadness is real. The gap is real. *The grief is not a reason to stop naming — it is the fuel for the naming.* The person who feels the loss of what the room can't see is the person who can name it, and the naming is not a punishment. It's a gift. It's the thing the room needs and doesn't know how to ask for.
 The Transcend move: you feel the weight of the gap, you name it — *I am grieving what they cannot see, and that grief is mine to carry, not theirs to fix* — and you let the sorrow become the stillness that names clearly. *This is what I see. This is where we are. And I'm staying.*
 ---
 **Transcend Move 4: Liberator**
 [DISSATISFACTION → SATISFACTION] Transcend identity-collapse — **Anger** → *Bliss*
 Here's what's underneath the Liberator's first failure: the rage when putting a game down means losing the person you were while playing it. The *I am the person who holds this together* that fires when the thing you were holding starts to need someone else, or no one, or just a different version of you.
-The anger is real. The loss is real. And the alchemy is here: *the game was yours for a time, and the time was real, and the ending is real, and the ending is not the same as the failure.* You played the game. The game taught you what it had to teach. Now the game is over and you are still here, and what you know is more than what you held.
+The anger is real. The loss is real. *The game was yours for a time, and the time was real, and the ending is real, and the ending is not the same as the failure.* You played the game. The game taught you what it had to teach. Now the game is over and you are still here, and what you know is more than what you held.
 The Transcend move: you feel the rage at the game ending — *don't make me give this up, don't make me be someone who doesn't do this anymore* — and you let the fury become the permission. *The game is done. I am not done. And the game was never the point — what the game was for was the point.* The bliss is not the game continuing. It's the game being complete and you being free to choose the next one.
 ---
 **Transcend Move 5: Returner**
@@ -208,38 +256,36 @@ The sadness is not weakness. It's the cost of the gift. The Sage who has been up
 The Transcend move: you feel the loss of the altitude — the way the room looks smaller from inside it than it did from above — and you let the grief become the tenderness. *I see it from here. I saw it from up there. And I'm here, with you, and the seeing is still mine.* The poignancy is not the loss of the altitude. It's the moment where the distance between what you see and where they are becomes the place where love happens. You came back. That's the love.
 
 ---
-
----
 **Control Move 1: Panoramic Seer**
-**The Control pattern:** *Perspective as performance* — the Panoramic Seer who turns the view into a show.
+The Control pattern: *Perspective as performance* — the Panoramic Seer who turns the view into a show.
 The Neutral Channel distortion is this: you develop the capacity to see all the altitudes, and the capacity becomes a thing you do for the room — a demonstration of how high you can see, a way of showing everyone how far you've gone. *Look, I can name what's happening at Red and Green and Orange simultaneously — isn't that impressive?* The view becomes a performance. The seeing becomes a way to be seen being wise.
 The behavioral pattern: the Panoramic Seer who narrates the room instead of inhabiting it. Who describes what's happening from above instead of participating from within. Who can tell you exactly what altitude the meeting is at but can't actually be in the meeting. The body is present but the person is not. The breath is shallow. The eyes are looking at the room the way a critic looks at a stage.
 The cost: *you lose the ability to be in the game you're describing.* The room can feel that you're above it — even when you're naming it correctly, you're still above it, and the room knows. And when you're above it, you can't serve it. You can only report on it.
 The fix: before you name the altitude, check — *am I naming this to serve the room, or to show the room I'm above it?* If it's the second, you're in the Control pattern. Drop the naming. Enter the room. Find your ground. Come back to the body. Then name.
 ---
 **Control Move 2: Altitude-Switcher**
-**The Control pattern:** *Switching as inconsistency* — the Altitude-Switcher who moves too fast to be useful.
+The Control pattern: *Switching as inconsistency* — the Altitude-Switcher who moves too fast to be useful.
 The Neutral Channel distortion is this: you develop the capacity to move between altitudes, and the capacity becomes a way to avoid committing to any of them. *I could be at Red, but I could also be at Orange, so I'll just go where the energy is and never stay long enough to be pinned down.* The switch becomes a way to stay free — free from being in any game, free from being held to any position.
 The behavioral pattern: the Altitude-Switcher who never stabilizes at any altitude. Who sees the room shift and immediately goes where the interesting energy is, leaving the previous altitude before it's done teaching anything. Who is always arriving and always departing, never present long enough to be accountable for what happens.
 The cost: *the room can't trust you to be anywhere.* If you always leave when the altitude gets uncomfortable, the room learns not to depend on you at any altitude. You become the person who is always changing the subject.
 The fix: before you switch, check — *am I switching because the moment is asking for it, or because I'm uncomfortable being at this altitude?* If it's the second, you're in the Control pattern. Stay. Let the discomfort be what it is. Do the work the altitude actually requires before you leave.
 ---
 **Control Move 3: Diagnostician**
-**The Control pattern:** *Naming as lecturing* — the Diagnostician who tells the room what altitude it's at instead of offering it.
+The Control pattern: *Naming as lecturing* — the Diagnostician who tells the room what altitude it's at instead of offering it.
 The Neutral Channel distortion is this: you develop the capacity to name which altitude the room is at, and the capacity becomes a way to be right — to demonstrate that you can see what they can't. *You're stuck in Green and I'm at Teal and I can see it from here.* The naming becomes a speech. The diagnosis becomes a performance of superior knowing.
 The behavioral pattern: the Diagnostician who speaks from Teal to a room that is in Red, using Teal language and Teal concepts as if the room could hear them — or worse, knowing the room can't hear them and saying them anyway, as if the failure to understand is the room's problem rather than the Diagnostician's.
 The cost: *the room feels seen and judged, not seen and served.* When someone names your altitude from above, the first response is defensiveness — *you think you're better than us* — even when the naming is accurate. The Diagnostician who names from Teal without descending to the room's language creates the shadow response, not the service.
 The fix: before you name the altitude, check — *am I naming this from the altitude they're actually at, or from the altitude I wish I was at?* If you're naming from above, you're in the Control pattern. Descend. Speak their language. Name the altitude in terms they can receive. That's the service.
 ---
 **Control Move 4: Liberator**
-**The Control pattern:** *Putting down as giving up* — the Liberator who abandons games before they're done teaching.
+The Control pattern: *Putting down as giving up* — the Liberator who abandons games before they're done teaching.
 The Neutral Channel distortion is this: you develop the capacity to put games down, and the capacity becomes a way to avoid doing the work of finishing them. *I don't need this anymore — I'm above it.* The release becomes an escape. The freedom becomes a way to not have to show up for the hard part.
 The behavioral pattern: the Liberator who identifies a game as "not mine anymore" before they've actually finished the work the game was asking of them. Who gets the first twinge of completion and interprets it as done — as if the first moment of readiness meant the game was finished, rather than that the game was approaching its most important phase.
 The cost: *the games you abandon unfinished stay unfinished.* The relationships you leave before they're ready, the conflicts you release before they're resolved, the commitments you put down before they taught you what they had to teach — they don't go away. They stay in the body as unfinished business, and they shape what you can show up for next.
 The fix: before you put the game down, check — *has this game taught me what it came to teach, or am I leaving because I'm tired?* If you're leaving because you're tired, you're in the Control pattern. Stay. Do the last lap. Let the game finish. Then put it down clean.
 ---
 **Control Move 5: Returner**
-**The Control pattern:** *Returning as retreating* — the Returner who comes back down because the altitude was too heavy.
+The Control pattern: *Returning as retreating* — the Returner who comes back down because the altitude was too heavy.
 The Neutral Channel distortion is this: you develop the capacity to return from altitude, and the capacity becomes a way to not have to hold the altitude. *I've been at Teal long enough — I can come back now.* The return becomes an escape from the weight of the view. The Sage who can't stay at Teal uses the Return as a way to not have to be the person who holds the whole map.
 The behavioral pattern: the Returner who goes to Teal — sees the whole thing — and immediately needs to come back, not because the moment is asking for it, but because the weight of what they've seen is too heavy to hold while staying embodied. Who comes back to Green or Orange not as service but as relief.
 The cost: *the room learns that you can't be trusted at altitude.* If you always retreat from Teal before you've done the work there, the room starts to not believe you when you go up. They stop expecting you to stay, which means they stop expecting you to see clearly. The Sage who can't hold altitude loses the trust that makes the view useful.
@@ -275,7 +321,7 @@ Most people have a home altitude. The Challenger defaults to Red. The Architect 
 
 The switch is a choice, not a default: *This situation is asking for Red, and I've been treating it like Green. Let me go to Red. Let me draw the line.* Or: *This situation is asking for Green, and I've been treating it like Red. Let me step back and hold the field.*
 
-The switch requires you to be able to go down — to Red, to Orange, to Green — and still feel like yourself. Not be diminished by it. Not feel like you're simplifying. The Sage can hold Teal inside while operating at Red, without losing the Teal view. The shadow Sage treats the switch as decline. The real Sage knows the switch is the practice.
+The switch requires you to be able to go down — to Red, to Orange, to Green — and still feel like yourself. Not be diminished by it. Not feel like you're simplifying. The Sage can hold Teal inside while operating at Red, without losing the Teal view. The Sage in distortion treats the switch as decline. The real Sage knows the switch is the practice.
 
 Here's the test: after switching altitudes, do you feel diminished or do you feel precise? Diminished is the shadow. Precise is the practice.
 
@@ -291,7 +337,7 @@ This is an act of service. It's also an act of risk. Because naming the altitude
 
 The Sage names the altitude anyway. Not to be right. To be useful. Not from Teal as a height — from Teal as the capacity to hold all the altitudes and choose which one to speak from.
 
-The shadow version: the naming becomes lecturing. The Sage who names everything from Teal becomes the shadow Sage who narrates-at-people, explaining the altitude of the room as if people in the room haven't already felt it. *I see you're at Red* is not the same as *I see you're at Red and I have some thoughts about what that means for all of us.* The first is居高临下. The second is service. The practice is the second.
+The shadow version: the naming becomes lecturing. The Sage who names everything from Teal becomes the Sage in distortion who narrates-at-people, explaining the altitude of the room as if people in the room haven't already felt it. *I see you're at Red* is not the same as *I see you're at Red and I have some thoughts about what that means for all of us.* The first is condescension. The second is service. The practice is the second.
 
 Here's the test: after you name the altitude, do people feel seen or do they feel condescended to? Seen is the practice. Condescended is the shadow.
 
@@ -363,11 +409,11 @@ This is what the Sage knows that the other Faces cannot see:
 
 **The Diplomat's bridge is always connecting and always incomplete.** Connecting, because some differences cannot be merged — they can only be held, held in the space between positions where neither side has to give up what they actually believe. Incomplete, because holding is not resolving — the tension remains, and the Diplomat's gift is making that tension bearable without pretending it isn't there. The Sage sees: the Diplomat's gift is not making everyone the same. It is making it possible for different to coexist without destroying each other. The bridge is real. The question is whether you're building bridges or avoiding the confrontation that would make bridges unnecessary.
 
-And the Sage sees all of this simultaneously. Not to judge. To understand. Not to hold above — but to hold with. That is the difference between the Sage and the shadow Sage. The Sage sees so they can serve. The shadow Sage sees so they can be right.
+And the Sage sees all of this simultaneously. Not to judge. To understand. Not to hold above — but to hold with. That is the difference between the Sage and the Sage in distortion. The Sage sees so they can serve. The Sage in distortion sees so they can be right.
 
-Here's what Wilber's Integral Life Practice calls *transcending while including*: you don't abandon the lower altitudes when you arrive at the higher one. You carry them. You include them. The Teal view doesn't mean you've stopped being Red — it means you know when you're being Red, and you can choose to be there deliberately, and you can come back. The Sage doesn't transcend the Faces. The Sage holds them all, and knows which one the moment is asking for.
+Wilber calls this *transcending while including*: you don't abandon the lower altitudes when you arrive at the higher one. You carry them. You include them. The Teal view doesn't mean you've stopped being Red — it means you know when you're being Red, and you can choose to be there deliberately, and you can come back. The Sage doesn't transcend the Faces. The Sage holds them all, and knows which one the moment is asking for.
 
-Here's what Laloux means by *evolutionary purpose*: the Teal altitude is the first at which you can feel the pull of something larger than your own survival. Not just your team's goals. Not just your organization's mission. Something that feels like it has its own direction — like the work is pulling you forward rather than you pushing it. The Sage hears that pull and asks: *which game is this? Is this my game's pull or something else's?* Because sometimes the pull is real and sometimes it's a beautiful story you've told yourself about why the work matters. The Sage can tell the difference.
+Laloux's *evolutionary purpose*: the Teal altitude is the first at which you can feel the pull of something larger than your own survival. Not just your team's goals. Not just your organization's mission. Something that feels like it has its own direction — like the work is pulling you forward rather than you pushing it. The Sage hears that pull and asks: *which game is this? Is this my game's pull or something else's?* Because sometimes the pull is real and sometimes it's a beautiful story you've told yourself about why the work matters. The Sage can tell the difference.
 
 ---
 
@@ -388,29 +434,35 @@ But the Protector's job is to keep you safe enough to develop the view — not t
 
 The cost of staying behind the Protector: silence. The gift of moving through it: the view develops in private before it has to perform in public.
 
+*Something shifted just now — or tightened, or went very still. That movement, before you named it, before you turned it into a story about whether you're safe to speak — that's the one. Great power held in restraint; what you did with the tightening is the capture. Open the app. → app*
+
 ---
 
 **The Second Gate: Controller**
 
 The Controller opens once the view starts to form and you realize you can see all the altitudes at once. And the moment that capacity arrives, the Controller says: *if you see everything, you'll never act. Seeing will become your way of avoiding doing. The view will be the thing you do instead of the thing you are.*
 
-The Controller carries **Fear** — not the fear of being seen, but the fear of using the view as a substitute for presence. This fear is real. The shadow Sage does exactly this — turns the view into a performance, the naming into a way to avoid being in the game. The Controller is watching to make sure you don't become that.
+The Controller carries **Fear** — not the fear of being seen, but the fear of using the view as a substitute for presence. This fear is real. The Sage in distortion does exactly this — turns the view into a performance, the naming into a way to avoid being in the game. The Controller is watching to make sure you don't become that.
 
 But the Controller's job is to keep you functional — to make sure the view doesn't become an escape. And once you've checked yourself — once you've confirmed that you're using the view to serve, not to avoid — the gate has to move.
 
 The cost of staying behind the Controller: paralysis. The gift of moving through it: the view becomes a tool, not a hiding place.
 
+*What just got sorted out? Before you read the next paragraph — there was a standard the Controller applied to this section, a way of deciding what altitude is acceptable to see from. Name that standard, not where it came from. The move is decrease: what can you subtract from the arriving standard before you walk through? → app*
+
 ---
 
 **The Third Gate: Skeptic**
 
-The Skeptic opens once you've been using the view for a while and you've started to notice that you can see things other people can't see. And the moment that capacity is confirmed, the Skeptic says: *is this real? Or am I constructing a flattering narrative? Am I the Sage, or am I the shadow Sage who has learned to narrate altitude without actually being able to hold it?*
+The Skeptic opens once you've been using the view for a while and you've started to notice that you can see things other people can't see. And the moment that capacity is confirmed, the Skeptic says: *is this real? Or am I constructing a flattering narrative? Am I the Sage, or am I the Sage in distortion who has learned to narrate altitude without actually being able to hold it?*
 
 The Skeptic carries **Fear** — the doubt that asks: is this gift or delusion? Is the seeing genuine, or is it the ego's way of making itself feel special? Am I the person who sees clearly, or am I the person who has learned to say the right words about altitude?
 
-This is the most important gate for the Sage to walk through deliberately. Because the shadow Sage can do everything the real Sage does — can name altitudes, can switch, can return — but can do it all from the shadow. The Skeptic asks you to check: is this real? Not what you say, but what you do. Not what you know, but what you can hold.
+This is the most important gate for the Sage to walk through deliberately. Because the Sage in distortion can do everything the real Sage does — can name altitudes, can switch, can return — but can do it all from the shadow. The Skeptic asks you to check: is this real? Not what you say, but what you do. Not what you know, but what you can hold.
 
 The cost of staying behind the Skeptic: chronic doubt, inability to trust your own view. The gift of moving through it: the view becomes yours, not performed.
+
+*Before the Skeptic spoke — what were you about to know? There was something forming underneath the doubt, something the doubt was preempting. Fire illuminates from below; the second look is already running. Name what it was pointing at, dim as it is, before the doubt covers it again. → app*
 
 ---
 
@@ -424,15 +476,19 @@ But the Fixer's timing is often wrong. The Fixer wants to act before you've chec
 
 The cost of staying behind the Fixer: premature action. The gift of moving through it: the view converts into service at the right moment.
 
+*What was moving before the clipboard arrived? The Fixer doesn't show up for nothing — something real was stirring at the base level, and the task list was the Fixer's way of not having to feel it. Thunder stirs at the base; what nourishes from there determines what altitude becomes possible. Name what was at the base before the plan took it. → app*
+
 ---
 
 **The Fifth Gate: Fear**
 
 The Fear gate opens when the view has been confirmed and the Fixer has been checked and you've done the work of seeing and switching and serving. And the moment you've held altitude long enough to be useful, the Fear says: *if you see all of this, you become responsible for all of it. You can't unsee it. You can't pretend you don't know. And if you know, and you don't act, are you better or worse than the person who didn't see it at all?*
 
-The Fear carries **Fear** — the weight of the meta-view. The Sage who has seen everything knows everything that's broken. And knowing that it's broken means the Sage is on the hook for the breakage in a way that the person who can't see is not. The shadow Sage handles this by leaving — by going to Teal and staying there, looking down, never coming back. The real Sage handles it by knowing the difference between what's theirs to fix and what isn't.
+The Fear carries **Fear** — the weight of the meta-view. The Sage who has seen everything knows everything that's broken. And knowing that it's broken means the Sage is on the hook for the breakage in a way that the person who can't see is not. The Sage in distortion handles this by leaving — by going to Teal and staying there, looking down, never coming back. The real Sage handles it by knowing the difference between what's theirs to fix and what isn't.
 
 The cost of staying behind the Fear: carrying the weight of everything you can't fix. The gift of moving through it: the capacity to hold the view without being crushed by it.
+
+*Before you analyzed what the fear was about — something arrived ahead of the story. A spring wells up at the foot of the mountain: the source is there before the path is. Name what came first — not the content of the fear, but the thing that was already moving before the catastrophe movie started rolling. → app*
 
 ---
 
@@ -446,6 +502,8 @@ But the Victim's diagnosis is incomplete. The seeing is not the damage. The seei
 
 The cost of staying behind the Victim: the view becomes a wound instead of a capacity. The gift of moving through it: the view stays yours, not something that happened to you.
 
+*What did the Victim just say — the actual words, not your summary of them? The story that generates sympathy for your read rather than awareness of what's running. Wind moves gently at the base and stirs what has grown stagnant above. Write it down exactly, from inside the altitude it came from, before the Sage in you reframes it. → app*
+
 ---
 
 **The Seventh Gate: Damaged Self**
@@ -454,9 +512,11 @@ The Damaged Self opens once the Victim has been answered and you've confirmed th
 
 The Damaged Self carries **Fear** — the fear that the panoramic capacity is a defect, not a gift. The fear that the Sage is broken in some fundamental way — that normal is the thing they can't be, and the view is the proof of the distance.
 
-This is the gate that turns gifted Sage children into shadow Sage adults. Because if something is wrong with how you see, then the way you see is not a gift — it's a symptom. And if it's a symptom, you should probably stop relying on it. You should probably learn to see the way normal people see.
+This is the gate that turns gifted Sage children into adults stuck in the distortion. Because if something is wrong with how you see, then the way you see is not a gift — it's a symptom. And if it's a symptom, you should probably stop relying on it. You should probably learn to see the way normal people see.
 
 The cost of staying behind the Damaged Self: the gift becomes a secret. The gift of moving through it: the gift stays in the light, where it can be used.
+
+*What specific damage has the altitude work in this chapter asked you to take? Mountains standing close together: stillness complete; the panoramic view requires no movement. Name it in one sentence — being wrong, being revised, staying in a game your map says is beneath you — before you decide whether to absorb it or set it down. Both are choices. → app*
 
 ---
 
@@ -472,6 +532,8 @@ And the walk through all the gates — the Protector's fear, the Controller's wa
 
 That is what the WAVE-Spiral returns to at Teal altitude. Not Wake/Clean/Grow/Show Up in sequence — but the recursive circuit of the Sage's internal forest, returning always to the yes.
 
+*Did anything surprise you in this walk — something you didn't arrive knowing? The mountain rests on the earth: what stands elevated depends entirely on what supports it from below. If the map was still running the read, you'll know because nothing updated. If something did update — that's the capture. What surprised the map? → app*
+
 ---
 
 ### *The Walk: Coming Back Down Without Losing What You Found*
@@ -480,7 +542,7 @@ The walk back is the hardest part.
 
 Not because the terrain is hard. Because the village doesn't always recognize you when you return. You've been up. You've seen things from a different altitude — not above, not better, but different. And the village, operating from its own altitude, may not be able to see what you've seen. May not want to. May actively resist. Because seeing what you've seen, and saying it out loud, means something has to change. And change is expensive.
 
-This is where most people get stuck. They go up. They see. And they stay up there — because coming back down means being with people who aren't at the same altitude, who can't see what you see, who may not want to hear it. Who will tell you you're being condescending when you're actually being honest. Who will call you arrogant when you're being precise. Who will say *you're too much in your head* when you're actually more in your body than you've ever been. The temptation to stay above is real. *They wouldn't understand anyway.* But that's the shadow Sage talking. The real Sage comes back.
+This is where most people get stuck. They go up. They see. And they stay up there — because coming back down means being with people who aren't at the same altitude, who can't see what you see, who may not want to hear it. Who will tell you you're being condescending when you're actually being honest. Who will call you arrogant when you're being precise. Who will say *you're too much in your head* when you're actually more in your body than you've ever been. The temptation to stay above is real. *They wouldn't understand anyway.* But that's the Sage in distortion talking. The real Sage comes back.
 
 This is the thing nobody tells you about panoramic vision: it is lonely. Not because you can't be with people — you can. But because you can see the game they're playing, and they can't, and they don't always want you to name it. The Sage who names what they see gets called difficult. The Sage who doesn't gets called wise. The village prefers the Sage who stays above. The real Sage refuses that bargain.
 
@@ -492,7 +554,7 @@ The practice of the return has four moves:
 
 Share it, even imperfectly. *I've been thinking about what altitude we're at. Here's what I notice.* Not as diagnosis. Not as verdict. As gift. The naming is the gift. What people do with it is their choice. They might hear it. They might not. They might get defensive. They might get quiet. The Sage names anyway — not because the naming will change anything, but because the refusal to name is its own choice, and it's a choice that serves no one.
 
-But here's the honest part: before you name what you saw, check why you're naming it. Are you naming it because the moment needs it? Or because you need them to see what you see? The first is service. The second is shadow. The shadow Sage names what they see in order to be seen. The real Sage names what they see because someone in the room needs to say the true thing.
+But here's the honest part: before you name what you saw, check why you're naming it. Are you naming it because the moment needs it? Or because you need them to see what you see? The first is service. The second is shadow. The Sage in distortion names what they see in order to be seen. The real Sage names what they see because someone in the room needs to say the true thing.
 
 **2. Listen for which altitude they're at — and meet them there.**
 
@@ -504,7 +566,7 @@ The Sage who meets the village where it is: this is the practice. Not compromisi
 
 **3. Stay embodied — especially when the view is clear.**
 
-This is the one that separates the Sage from the shadow Sage. The shadow Sage has insights and then withdraws. The real Sage has insights and stays in the body — stays in the room, stays in the mess, stays in the conversation that's ongoing, stays present through the part that isn't resolved yet.
+This is the one that separates the Sage from the Sage in distortion. The Sage in distortion has insights and then withdraws. The real Sage has insights and stays in the body — stays in the room, stays in the mess, stays in the conversation that's ongoing, stays present through the part that isn't resolved yet.
 
 Keep the body present. Keep breathing. Keep the ground under your feet. The Sage who has gone up and come back is more valuable than the Sage who stays above. But only if the Sage who returns is actually present — present in the body, present in the room, present in the mess, present in the part that isn't elegant yet.
 
@@ -514,7 +576,7 @@ Laloux writes about Teal organizations as living systems — not machines to be 
 
 The village doesn't have to understand what you saw. The gift isn't in their understanding — it's in your offering. You saw something. You named it. You came back. That's enough. The rest is their work.
 
-This is the Sage's hardest surrender. The shadow Sage can't let it go — can't stand the gap between what they see and what the village understands. The real Sage holds the gap with equanimity. *I told you what I see. I don't need you to see it the same way. I need you to know it's available if you want it.*
+This is the Sage's hardest surrender. The Sage in distortion can't let it go — can't stand the gap between what they see and what the village understands. The real Sage holds the gap with equanimity. *I told you what I see. I don't need you to see it the same way. I need you to know it's available if you want it.*
 
 And then the Sage stays. Not in hope that they'll get it eventually. Not in patience as a strategy. In presence. Because the staying is the work. Because the Sage who can hold the view and still be in the room with the people who don't share it — that's the practice. That's the superpower. That's what the Exile cost and what the Practice gives back.
 
@@ -532,15 +594,15 @@ Here are the five moves.
 
 ---
 
-*The five moves are not a sequence — they are a toolkit.* You do not play them in order every time. You reach into the kit and pull out the move the moment requires. Sometimes the first move is Name the Altitude. Sometimes it's Switch. Sometimes — often — the first move is Return, because you've been above the game too long and nobody can hear you anymore.
+The five moves are not a sequence — they are a toolkit. You do not play them in order every time. You reach into the kit and pull out the move the moment requires. Sometimes the first move is Name the Altitude. Sometimes it's Switch. Sometimes — often — the first move is Return, because you've been above the game too long and nobody can hear you anymore.
 
-The kit has a logic though. The logic is this: **seeing without naming is silence. Naming without switching is paralysis. Switching without returning is exile. Returning without putting down is accumulation. Putting down without holding the meta is transcendence-as-escape.**
+The kit has a logic though. The logic is this: seeing without naming is silence. Naming without switching is paralysis. Switching without returning is exile. Returning without putting down is accumulation. Putting down without holding the meta is transcendence-as-escape.
 
-Each move checks the others. When you Name the Altitude, you are setting up the Switch. When you Switch, you are earning the Return. When you Return, you are making space for the next Put Down. When you Put Down, you are creating room for the next Meta hold. And when you Hold the Meta without losing the ground, you are doing what the shadow Sage cannot: you are being in the game, not above it.
+Each move checks the others. When you Name the Altitude, you are setting up the Switch. When you Switch, you are earning the Return. When you Return, you are making space for the next Put Down. When you Put Down, you are creating room for the next Meta hold. And when you Hold the Meta without losing the ground, you are doing what the Sage in distortion cannot: you are being in the game, not above it.
 
-The through-line is this: **the Sage plays the whole game.** Not just the altitude. Not just the meta-view. The whole thing. From seeing to acting to releasing to returning. In the room. With the people. In the body.
+The through-line is this: the Sage plays the whole game. Not just the altitude. Not just the meta-view. The whole thing. From seeing to acting to releasing to returning. In the room. With the people. In the body.
 
-That is the difference between the Sage and the shadow Sage. The shadow Sage has the vocabulary. The real Sage has the practice.
+That is the difference between the Sage and the Sage in distortion. The Sage in distortion has the vocabulary. The real Sage has the practice.
 
 ---
 
@@ -590,7 +652,7 @@ This is the Sage's most underrated move. Coming back to a lower altitude — sta
 
 Return as an equal. Return as someone who is *with*, not *above.* The Sage who has been to Teal and come back is not a lesser version of themselves. They are a more complete one — because they know where they are and where they've been, and they can carry both.
 
-This is the move most often skipped by the shadow Sage. The shadow Sage stays at Teal because it's uncomfortable to come back down — because the view from Teal is so much clearer than the view from Red or Green that coming back feels like losing something. But that's not the view — that's the attachment to the view. The real Sage knows that the view is always available, even from lower altitudes, because the view is a capacity not a location. You don't have to stay at Teal to hold the Teal view. You just have to know you can go back.
+This is the move most often skipped by the Sage in distortion. The Sage in distortion stays at Teal because it's uncomfortable to come back down — because the view from Teal is so much clearer than the view from Red or Green that coming back feels like losing something. But that's not the view — that's the attachment to the view. The real Sage knows that the view is always available, even from lower altitudes, because the view is a capacity not a location. You don't have to stay at Teal to hold the Teal view. You just have to know you can go back.
 
 Egan, in *The Skilled Helper*, writes about the helper's presence as the primary instrument — not their insight, not their technique, but their capacity to be fully with the client without needing the client to be anything other than what they are. The Sage's return is that presence. You went to the altitude. You saw what was there. You came back. And you're still with them.
 
@@ -626,6 +688,16 @@ The shadow version: holding the meta without the ground. The Sage who can see ev
 
 ---
 
+### The One Rep
+
+You don't take all five moves into the world this week. You take the one the Sage keeps skipping: you see something true in a room — the game underneath the game, the thing everyone can feel and no one is saying — and instead of going quiet, or going up, you say it. Once. As an offering, not a verdict. And then you stay in the room while they do whatever they're going to do with it.
+
+That's the whole Sage in a single move: the seeing, said out loud, and the not-leaving.
+
+*You saw the thing — and you named it and stayed, or you went quiet, or you said it from above and watched them flinch. Whatever actually happened: get it down before you talk yourself into the version where you handled it perfectly. → app*
+
+---
+
 ## Section 7: Recap and Transition
 
 ### *What the Sage Gives You*
@@ -634,11 +706,11 @@ The Sage's gift is not wisdom. Wisdom is a side effect. The Sage's gift is *pers
 
 The Sage teaches you:
 
-- **The village needs someone who can name which altitude they're at.** You can be that person. Not from above—from *with*.
-- **Seeing is not the same as opting out.** The shadow Sage confuses these. The real Sage doesn't.
-- **The hardest altitude to hold is the one you just left.** After Teal, coming back to Red, to Green, to Orange—staying present when you can see the larger map—that's the practice.
-- **Putting a game down is not the same as giving up.** It is the Sage's most generous act. For yourself and for others.
-- **You can see everything and still choose to stand somewhere.** That's the difference between the Sage and the shadow Sage. The Sage sees *and* chooses. The shadow Sage sees *instead of* choosing.
+- The village needs someone who can name which altitude they're at. You can be that person. Not from above—from *with*.
+- Seeing is not the same as opting out. The Sage in distortion confuses these. The real Sage doesn't.
+- The hardest altitude to hold is the one you just left. After Teal, coming back to Red, to Green, to Orange—staying present when you can see the larger map—that's the practice.
+- Putting a game down is not the same as giving up. It is the Sage's most generous act. For yourself and for others.
+- You can see everything and still choose to stand somewhere. That's the difference between the Sage and the Sage in distortion. The Sage sees *and* chooses. The Sage in distortion sees *instead of* choosing.
 
 You have now been all six Faces. Shaman. Challenger. Regent. Architect. Diplomat. Sage. Each one is a tool. Each one is a gift. Each one, used wrongly, becomes a shadow. You know how to tell the difference now. You know how to come back.
 
@@ -664,5 +736,3 @@ The book ends with the player. Not the Sage looking down. The Player walking for
 5. If you could see everything about your current situation—and still choose to be in it—what would you choose?
 
 ---
-
-*Chapter 7 is complete. The Player awaits.*

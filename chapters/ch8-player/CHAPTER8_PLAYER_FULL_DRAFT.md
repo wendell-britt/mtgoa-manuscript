@@ -37,13 +37,13 @@ The village heard the six Faces and thought: *these are the types.* The Shaman t
 
 The village forgot that the Faces were a map, not a menu. That you don't *become* one of them—you *move through* all of them, depending on what the moment requires. That the goal is not to arrive at Sage and stay there. The goal is to be able to play any game the village needs played, at any altitude the moment requires.
 
-And a shadow Player emerged in its place.
+And a Player in distortion emerged in its place.
 
-The shadow Player collected Faces the way people collect credentials. *I have studied with the Shaman. I have apprenticed with the Challenger. I have read the Architect's work.* The shadow Player accumulated access to all six altitudes without ever operating from any of them. The shadow Player knew the vocabulary, could name the altitudes, could diagnose which game was being played—but when it came time to play, the shadow Player was always preparing. Always about to. Always one more book away from being ready.
+The Player in distortion collected Faces the way people collect credentials. *I have studied with the Shaman. I have apprenticed with the Challenger. I have read the Architect's work.* The Player in distortion accumulated access to all six altitudes without ever operating from any of them. The Player in distortion knew the vocabulary, could name the altitudes, could diagnose which game was being played—but when it came time to play, the Player in distortion was always preparing. Always about to. Always one more book away from being ready.
 
-The shadow Player's fatal move: collecting tools without ever building anything. Knowing all the Faces without ever choosing which one to be in this moment.
+The Player in distortion's fatal move: collecting tools without ever building anything. Knowing all the Faces without ever choosing which one to be in this moment.
 
-This is the shadow that follows the Player out the door: *I learned all of this, and I still don't know what game to play.* The shadow Player mistakes preparation for practice. Access for mastery. The map for the territory.
+This is the shadow that follows the Player out the door: *I learned all of this, and I still don't know what game to play.* The Player in distortion mistakes preparation for practice. Access for mastery. The map for the territory.
 
 The real Player walks through all six Faces and then—decides. *This is my game. This is what I'm building. This is the specific problem I'm going to solve, with the specific gifts I have, in service of the specific village I want to leave behind.* The real Player doesn't accumulate Faces as credentials. The real Player uses them as a design system.
 
@@ -95,6 +95,8 @@ The practice has five stages. They're not sequential in the way the WAVE's stage
 
 The five modes are not personalities — they're roles you move through as you design your practice. You might spend weeks in Cartographer. You might circle back to Designer after six months in Founder. They loop. Each loop goes deeper.
 
+The five modes: **Cartographer, Designer, Founder, Elder, Outlaw.** Each one is a different answer to the same question: *what am I actually building?*
+
 ---
 
 **1. The Cartographer**
@@ -123,9 +125,7 @@ The design question is always: *What problem am I trying to solve, and which Fac
 
 The Designer doesn't build a perfect system. The Designer builds a working system — one you can actually use, one that fits your specific body, your specific village, your specific problem. The Designer knows that a practice you actually use beats a perfect practice you keep planning to start.
 
-My design looked like this: I knew from the Cartographer that I naturally moved to Challenger when things got hard — and that Red was where I felt most comfortable, most effective, most at home. But when I actually mapped where I went when things got hard, I found I wasn't Diplomat at all. I was Challenger. Red. Drawing lines. I was performing Green to avoid the discomfort of Red — the discomfort of saying no, of being unwelcome, of holding a line that cost me something. The cartography revealed that my "home" face was a performance and my "avoided" face was where I actually lived.
-
-Your map might show something similar. The face you think you are might be the face you perform. The face you've been avoiding might be the one that, if you built a practice around it, would actually be your gift.
+My design looked like this: I knew from the Cartographer that I naturally moved to Challenger when things got hard. But I had been performing Green — Diplomat energy — to avoid the discomfort of Red. The performance was so habitual I thought it was my nature. Writing it down forced me to see the difference between what I performed and what I actually was. That's what the Designer's move does. It makes the implicit explicit.
 
 ---
 
@@ -137,37 +137,44 @@ The practice: Name it. Give it a name that is specific to you, specific to your 
 
 The Founder is not the same as the Architect. The Architect designs systems for others to use. The Founder uses all six Faces to build a specific practice that is theirs alone. The Founder is the one who says: *I've been through all of this. Here's what I made with it.*
 
-Bars-engine is my Founder move. It's the thing I needed that didn't exist — an actual game system that lets people practice the WAVE, that makes the emotional alchemy mechanical, that gives the six Faces a practice context instead of just a conceptual one. I didn't design it to be a product. I designed it because I could see the gap: I could teach someone the WAVE in a paragraph and they'd walk away with nothing to actually do. The WAVE was clear as a concept and absent as a practice. Bars-engine fills that gap. That's what the Founder does. Not builds something that already exists under a new name. Builds the thing that was actually missing.
+Bars-engine is my Founder move. It's the thing I needed that didn't exist — an actual game system that lets people practice the WAVE, that makes the emotional alchemy mechanical, that gives the six Faces a practice context instead of just a conceptual one. I didn't design it to be a product. I designed it because I could see the gap and I couldn't stop seeing it. When you're in Founder and you see something that needs to exist and nobody is building it — the only way out is to build it yourself.
 
-Your Founder move will be something different. Maybe it's a community. Maybe it's a framework. Maybe it's a specific practice you do with your kids, or your team, or your co-conspirators. The form doesn't matter. The Founder's move is: *This exists now because I made it.*
+If this is where you are — if you have a specific thing you want to build and you know it has to be you — working with me one-on-one is the fastest path I know. Not because I have a special method. Because I can see which Face your problem actually requires, and I can help you stop avoiding the one you've been performing. That's usually what's between you and the thing you need to build. Most of the time it's not that you don't know what to do. It's that the doing requires going through the Face you've been avoiding. I can help you do that.
 
 ---
 
 **4. The Elder**
 
-The Elder becomes the person who can hand on what they learned to whoever comes next.
+The Elder doesn't start new things. The Elder hands things forward.
 
-The practice: Look at the person behind you — in your family, your organization, your village — and ask: *What do I know now that they need to know? How do I translate what I've learned into something they can use?*
+The practice: Take what you built and make it pass-onable. Write it down. Name the mistakes. Show the next person where the traps are. The Elder's move is inheritance — not building something new, but making sure the thing you built doesn't depend on you to survive.
 
-The Elder doesn't hoard the map. The Elder doesn't gatekeep. The Elder asks: *How do I make this accessible without diluting it? How do I hand this on in a way that actually serves the next person?*
+This is where the allyship deck comes in. The deck is a tool for teaching — for running allyship workshops, for working with groups, for giving other people a vocabulary for something they already know how to do but haven't been able to name. If you have walked all six Faces and come out the other side, you have something to hand forward. The deck is how you do it without making everyone start from zero.
 
-The Elder's work is not instruction. The Elder's work is translation — taking what you've learned and finding the words, the stories, the practices that make it possible for someone else to walk the same path without repeating your mistakes.
-
-The writing of this book is my Elder move. Not because I'm wise — because I made the mistakes, and I can show you where they were. The Elder doesn't say *I arrived.* The Elder says *I walked this. Here's the map from my walk. It's not your walk, but here's what I learned about reading terrain.* That's the gift. Not perfection. Reportage.
+The Elder is not about being the authority. The Elder is about making sure the work outlives you.
 
 ---
 
 **5. The Outlaw**
 
-The Outlaw plays a game the village hasn't seen before.
+The Outlaw breaks the tradition that the Elder just built.
 
-The practice: Look at your specific gift — the thing you can do that the village doesn't have a category for yet — and don't wait for permission. Play it. Show it. Let the village see what it looks like to do something that hasn't been named.
+The practice: Find what's calcified. Name what's become rote. Challenge the structure you or others built to see if it still serves. The Outlaw's move is disruption — not for the sake of it, but because every tradition eventually becomes a cage and someone has to draw the line that lets the next person breathe.
 
-The Outlaw is not the same as the rebel. The rebel breaks for the sake of breaking. The Outlaw breaks because what's been built doesn't fit the problem. The Outlaw plays the new game because the old game doesn't work — and the Outlaw has the skill to show why, and the grace to make the new game legible.
+This is the mode most people try to skip. It's uncomfortable to be the one who says *this isn't working anymore.* But the Outlaw is what keeps the Player from becoming the distortion — from collecting the Faces as credentials, from performing the practice without doing it. The Outlaw is the shadow side of the Elder, and they're in the same chapter because they have to be. You can't hand things forward without eventually having to break some of what you inherited.
 
-The Outlaw's gift is invention. The Outlaw's responsibility is translation: making the new thing comprehensible to the village, so the village can learn from it rather than just resisting it.
+---
 
-Bars-engine is also my Outlaw move. The village had no category for a game that teaches emotional alchemy through quest structure and a token economy tied to somatic markers. It wasn't rebellion — it was gap-filling. The old game (workshop + reflection + hope) didn't produce the outcome I wanted. So I built a new game and showed why it worked. That's the Outlaw. Not breaking for effect. Building because the existing tools don't fit the problem.
+### Where Each Mode Leads
+
+Each mode is also a doorway. Depending on which one activates for you, here is where it leads:
+
+- **Cartographer and Designer** → your own ongoing practice. The work is between you and the map.
+- **Founder** → if you have a specific thing to build and you know you need support getting it out, the fastest path is working with me one-on-one. That's what I do.
+- **Elder** → if what you're called to do is teach, pass on, run workshops, give other people the vocabulary — the allyship deck is the tool. It runs without you once you learn to use it.
+- **Outlaw** → if what you see is a structure that needs to be challenged, broken, or rebuilt — that's also allyship work. Sometimes the most useful thing is not the deck but the disruption.
+
+The modes loop. Each pass through goes deeper. The walk is the thing.
 
 ---
 
@@ -189,17 +196,15 @@ The sequence doesn't require a starting point. It requires honesty. Wherever you
 
 ---
 
-### Somatic Markers: How to Know You're Actually Building
+### How to Know You're Actually Building
 
-The Player has a body, even when building feels like abstract work.
+There's a tell that separates real building from the kind that's secretly avoidance — and it has nothing to do with how productive you feel. It's about direction: is the work moving toward contact with someone, or away from it?
 
-When you're designing from genuine self-authorship, you'll feel it in the body. Clear. Directed. The body knows what it wants to build. There is excitement — not the scattered excitement of anxiety, but the grounded excitement of something that matters.
+Genuine building points outward. You're making the thing so it can meet a person — a reader, a player, a colleague, your kid. You want it in front of them, even though that's the scary part. The work is going somewhere, and the somewhere has a face.
 
-When I'm in genuine building — when I'm writing a chapter that needs to exist, when I'm designing bars-engine mechanics that actually work, when I'm building the thing that only I can build — the body signal is distinct. There's a clarity that isn't intellectual. The mind and the body are pointed the same direction. I know what I'm doing and I want to do it. That's the Founder's signal. That's how you know you're building, not just planning.
+The Player in distortion builds in the other direction — inward, in circles, away from anyone who might actually receive it. The building becomes abstract. Endless revisions. Infinite drafts. I'll redesign the same mechanic six times, and every redesign is a way of not doing the one thing the work actually needs: putting it in front of someone and seeing what happens. It looks like progress. It's a very sophisticated way of hiding.
 
-When I'm in shadow Player — building to avoid, designing to procrastinate — the body tells me. The building becomes abstract. Endless revisions. Infinite drafts. I'll redesign the same mechanic six times because the actual work — putting it in front of someone and seeing what happens — is what I'm avoiding. The body is present but not invested. The mind is working but not connected to the ground.
-
-The return to the body is how you know the difference. The body knows what it wants to create. The body knows when you're hiding behind the work. The Player listens.
+So that's the question to keep asking, because it's the one that planning-disguised-as-building can't survive: *is this draft moving toward someone, or away from them?* Real building gets handed over, even unfinished. Avoidance keeps the thing safe, and perfect, and unmet.
 
 ---
 
@@ -219,7 +224,7 @@ That's what this final journey is about. Not ascending. Not perfecting. Walking 
 
 You came to this book as someone who wanted to do allyship better.
 
-Maybe you came with guilt. The kind that sits in the chest and says *you should be doing more, you should have done more, you should know better.* The kind that makes you tired before you start.
+Maybe you came with guilt. The kind that sits heavy and won't be reasoned with, that says *you should be doing more, you should have done more, you should know better.* The kind that makes you tired before you start.
 
 Maybe you came with urgency. The kind that says *the world is on fire and you are standing around reading a book about inner work when you should be doing something.* The kind that makes everything feel like triage.
 
@@ -329,7 +334,7 @@ Here's what I've noticed about my own fear of building: it rehearses. The fear w
 
 The rehearsal is not the thing. The mind rehearsing failure is not the same as doing the thing. The mind will run the scenario for as long as you let it. It will produce the same anxiety whether you've done nothing or whether the thing has already failed. The rehearsal feels like work. It is not work. The actual thing is simpler and scarier: put it in front of someone and see what happens.
 
-The WAVE doesn't end when you leave the book. The WAVE runs through your actual life. Wake up — notice what's happening inside you when your mother calls, when the group chat erupts, when you read the news and feel the familiar knot in your chest. Clean up — run the channel, name the feeling, let it complete. Grow up — ask what this moment is asking you to become. Show up — act from that place, not from the reactive place the old habit would have sent you to. Come back — notice what happened, what shifted, what you learned.
+The WAVE doesn't end when you leave the book. The WAVE runs through your actual life. Wake up — notice what's happening inside you when your mother calls, when the group chat erupts, when you read the news and feel it land. Clean up — run the channel, name the feeling, let it complete. Grow up — ask what this moment is asking you to become. Show up — act from that place, not from the reactive place the old habit would have sent you to. Come back — notice what happened, what shifted, what you learned.
 
 The WAVE runs through your parenting. Through your partnership. Through your work. Through the group chat and the town hall and the election and the pandemic and whatever is next. That's what it means to have the WAVE as a practice. It's not a meditation exercise you do in the morning. It's how you walk through the world.
 
@@ -365,7 +370,7 @@ You might be a Cartographer who hasn't become a Founder yet. That's not a failur
 
 You might also be someone who has a practice that isn't named yet. Something you already do, some way you already show up, some specific thing you already do with your family or your team or your community that is actually your game. The naming might be what's missing, not the game itself.
 
-Or you might be someone who is genuinely still in the confusion — and the honest answer is to say that. *I don't know what I'm building yet.* That's not the shadow Player. The shadow Player uses *I don't know* as a place to stay. You can use *I don't know* as a place to start.
+Or you might be someone who is genuinely still in the confusion — and the honest answer is to say that. *I don't know what I'm building yet.* That's not the Player in distortion. The Player in distortion uses *I don't know* as a place to stay. You can use *I don't know* as a place to start.
 
 The question isn't *do you have a complete game.* The question is *are you walking.* The walk will produce the game. You don't need to see the whole destination. You just need to keep moving.
 
@@ -436,6 +441,26 @@ You have been through the Shaman's Forest, the Challenger's Battle Lines, the Re
 You know now what you didn't know before. You know what you feel. You know where you stand. You know how to build. You know how to design. You know how to hold. You know how to see. And you know how to come back.
 
 You are ready to be useful.
+
+---
+
+*Before you step into the game: a gate scan. Eight gates, eight questions. One of them is live in you right now — the Face that showed up most in your building work. Find it. Capture it. Bring it into the app.*
+
+*The Protector showed up in your building. Not the old guardedness — something specific you've been protecting about what you're building, or from the people who might encounter it. Name what the protection is actually guarding. That's what you have. → app*
+
+*The Controller showed up in your building — the standard for how it should look, who should receive it, whether you're doing it right. Name the standard in its exact words. Then: what would happen if you built it without the standard running the room? → app*
+
+*The Skeptic showed up with a question about what you're building — whether it's real, whether it matters, whether you're the right person to build it. The doubt is the fire. Write the specific question the Skeptic asked. Then: what's still standing after the question burns through? → app*
+
+*The Fixer showed up in your building and pointed at something specific — an obstacle, a gap, a thing that needs to be cleared before the next move. Not a person. What's the specific obstacle the Fixer identified? And: is it in the way of the build, or is it a distraction from it? → app*
+
+*The Victim showed up in your building with a story about why it won't work, why you don't have what it takes, why this has failed before. Write the story exactly as the Victim tells it. Then: what's the thing that story is circling — what the Cauldron needs to transform? → app*
+
+*The Emotional Body showed up at this point in the build. Set the work aside for a second — what's actually running in you, underneath the project? Anger, fear, grief, shame, or joy: name the one that's alive before the work is finished. It's carrying information about what this moment actually is. → app*
+
+*The Damaged Self showed up in your building — what you know because of what you survived. Not as a limitation. What specific thing have you survived that equips you to build this that nobody else could? The Wanderer carries it. Name it. → app*
+
+*What's moving in you that wasn't moving before you started building? Not the project — you. Where is the genuine curiosity still alive, the thing that would keep you building even if nobody noticed? That's the Vulnerable Child leading. That's progress. Name what's advancing. → app*
 
 ---
 

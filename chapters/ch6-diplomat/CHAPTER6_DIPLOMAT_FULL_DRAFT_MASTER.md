@@ -1,37 +1,33 @@
 # CHAPTER 6 — THE DIPLOMAT
-## *Green — Pluralistic / Relational / Inclusion*
-## *Your Walk-Away Price Defines the Power of What You Stay For*
-
-**DRAFT STATUS:** Q1 + Q2 + Q3 (Price-Namer + Bridge-Builder) — 2026-04-20
-**Timestamp:** 2026-04-20T20:25:00Z
+## *The Terms That Let You Stay Without Disappearing*
 
 ---
 
 ---
 
-# SECTION 1 — THE DIPLOMAT'S THESIS
+## Section 1: The Diplomat's Thesis
 
 There is a woman in the village you recognize. She is always there. She shows up to every gathering, every working bee, every moment of conflict and every moment of celebration. She is present in a way that feels like devotion — except it isn't, because devotion implies choice, and she has forgotten how to choose. She stays because she has forgotten that she could leave.
 
 One day she stops showing up. The village barely notices at first. Then slowly, in her absence, something becomes visible: the shape of what she was holding together without ever naming that she was holding it. Ruptures that were quietly repaired. Tensions that never escalated because she stood in the middle of them. The village discovers it has lost something — but it cannot say what it was, because she never told them what her presence cost. She never gave them the chance to treat it as precious.
 
-Across the village, a man operates differently. He is present too. He shows up, he contributes, he holds. But he has also — once, in a hard moment — named the terms. "I will stay if this continues. If it does not, I will leave." He said it quietly. He did not make it a threat. He did not weaponize it. He simply told the truth about his presence: that it was not infinite, that it was not unconditional, that he had a price and he had named it. And in the weeks that followed, the village noticed something. His presence had become more valuable precisely because it was now scarce. Not scarce in the way of withholding — scarce in the way of a person who has made a real choice to stay. The village started treating his presence as something that could be lost. And in treating it as something that could be lost, they started treating it as something that mattered.
+Across the village, a man operates differently. He is present too. He shows up, he contributes, he holds. But he has also — once, in a hard moment — surfaced what each side was protecting and named what staying would actually require. He said it quietly. He did not make it a threat. He did not weaponize it. He simply told the truth about the agreement: what it would hold, what it would cost each of them, what would have to change for his staying to remain real. And in the weeks that followed, the village noticed something. His presence had become more valuable precisely because it was now chosen — not scarce in the way of withholding, but scarce in the way of a person who had closed an honest negotiation and meant it. The village started treating his presence as something that could be lost. And in treating it as something that could be lost, they started treating it as something that mattered.
 
-This is the Diplomat's gift: the capacity to make your presence matter by naming the conditions under which you would withdraw it.
+This is the Diplomat's gift: integrative negotiation — surfacing what each party is protecting, naming stakes and sacrifices honestly, and closing toward terms the field can live with so that staying means something.
 
-Most people stay past the point of their usefulness. Most people absorb cost until they are empty and then leave without warning. Most people do not name their price, and so their price is never paid — and worse, their presence is never treated as the precious thing it is. The Diplomat understands that a staying which cannot end is a staying without weight. And a staying without weight is a staying that slowly, invisibly, stops meaning anything at all.
+Most people stay past the point of their usefulness. Most people absorb cost until they are empty and then leave without warning. Most people never surface what the agreement actually requires — and so their presence is never treated as the precious, chosen thing it is. The Diplomat understands that a staying which cannot name its terms is a staying without weight. And a staying without weight is a staying that slowly, invisibly, stops meaning anything at all.
 
-The Diplomat is not a冷淡 person. The Diplomat is not a pushover who cannot hold the field. The Diplomat is the person who has learned that love is not demonstrated through infinite presence — it is demonstrated through the honest naming of what presence actually costs, and the willingness to let the field decide whether it is willing to pay.
+The Diplomat is not a cold person. The Diplomat is not a pushover who cannot hold the field. The Diplomat is the negotiator who has learned that love is not demonstrated through infinite presence — it is demonstrated through honest stake-surfacing, timely closure, and the willingness to let the field decide what it can actually hold.
 
-The five stages of the Diplomat's work are not a checklist — they are a journey in sequence. **Bridge** is the initial entry, the act of showing up in the field with curiosity rather than judgment, making contact without yet knowing what the relationship will require. **Translate** is the work of rendering one camp's language into terms another camp can hear — not betraying either side, but finding the common ground of meaning. **Hold** is the maintenance of enough safety that difficult conversation remains possible even when the field is charged. **Repair** is the healing of ruptures without the pretense that they did not occur — cleaning the wound without pretending it was never made. And **Name Price** is the culmination: the explicit articulation of the terms under which your staying remains possible, the moment when you tell the field what your presence costs and let it decide whether to pay it.
+The five stages of the Diplomat's work are not a checklist — they are a journey in sequence. **Bridge** is the initial entry, the act of showing up in the field with curiosity rather than judgment, making contact without yet knowing what the relationship will require. **Translate** is the work of rendering one camp's language into terms another camp can hear — not betraying either side, but finding the common ground of meaning. **Hold** is the maintenance of enough safety that difficult conversation remains possible even when the field is charged. **Repair** is the healing of ruptures without the pretense that they did not occur — cleaning the wound without pretending it was never made. And **Negotiate** is the culmination: surfacing what each party is protecting, naming the terms under which staying remains possible, and closing — heard *and* something moves.
 
-Each stage earns the next. Bridge without Translate is noise. Translate without Hold is a promise no one trusts. Hold without Repair is a wound left to fester. Repair without Name Price is generosity without boundaries — and generosity without boundaries is not a gift, it is a slow form of self-destruction that the field learns to take for granted.
-
----
+Each stage earns the next. Bridge without Translate is noise. Translate without Hold is a promise no one trusts. Hold without Repair is a wound left to fester. Repair without Negotiate is generosity without closure — and generosity without closure is not a gift, it is a slow form of self-destruction that the field learns to take for granted.
 
 ---
 
-# SECTION 2 — WHAT IT IS
+---
+
+## Section 2: What It Is
 
 The Diplomat lives at the Green altitude of human development — pluralistic, relational, oriented toward inclusion. Where the Regent's Blue operates through tradition and inherited structure, and the Challenger's Red operates through decisive will and confrontation, the Diplomat operates through the relational field. What matters is not what any single person thinks or wants but what becomes possible between people when the conditions are held rightly.
 
@@ -47,13 +43,27 @@ The five channels through which the Diplomat operates are:
 
 **Repairer** — The channel of healing ruptures. The work of addressing harm that has occurred within the field without pretending the harm did not occur, and without letting the repair process create new harm.
 
-**Price-Namer** — The channel of boundary articulation. The work of naming the explicit terms under which continued presence in the field remains possible — and meaning it.
+**Integrative Negotiator** — The channel of honest closing. Surfacing stakes, interests, and sacrifices; naming what the agreement must hold for everyone — and closing so the field moves.
+
+### EA Channel Alignment — How Each Mode Moves Energy
+
+The Diplomat's practice works across the full spectrum. Each bridging mode is grounded in a specific EA signal and its own alchemical arc:
+
+| Mode | EA Signal | Dissatisfaction → Satisfaction |
+|------|-----------|-------------------------------|
+| **Bridge-Builder** | Metal/Fear | Anxiety → Curiosity (primary) / Stage-Fright → Authentic Presence |
+| **Translator** | Earth/Neutrality | Disagreement → Dialogue |
+| **Field-Holder** | Wood/Joy | Inclusion-performance → Genuine inclusion |
+| **Repairer** | Water/Sadness | Rupture → Repair (moral equivalence → discerned equivalence) |
+| **Integrative Negotiator** | Fire/Anger | Accommodation → Honest terms (resentful peace → agreement naming all stakes) |
+
+Each mode's full arc — the dissatisfaction it carries and the alchemy that transmutes it — is worked through in the five channel deep-dives below.
 
 ---
 
 ---
 
-# SECTION 3 — THE FIVE CHANNELS (PRACTICE)
+## Section 3: The Five Channels (Practice)
 
 *Emotional alchemy vocabulary: every move below is labeled by type. **Dissatisfaction moves** alchemize a negative charge into a positive one. **Neutral channel moves** redirect a negative pattern into a neutral structure. **Satisfaction moves** amplify what is already working. If these terms are unfamiliar, Chapter 2 (The Shaman) has the full system.*
 
@@ -251,7 +261,65 @@ The Neutral Channel pattern here is **premature closure** — the behavioral pat
 
 ---
 
-## SECTION 5 — JOURNEY TO THE CENTER
+## CHANNEL 5 — INTEGRATIVE NEGOTIATOR
+
+The Integrative Negotiator is the Diplomat's closing channel — the Fire/Anger application at Green altitude. Not the Challenger's line in the sand. Not the Regent's decree. The work of surfacing what each party is protecting, translating positions into interests, and closing toward terms the field can actually live with. Bridge, translate, hold, repair — and then **negotiate**. Heard *and* something moves.
+
+Here is what it looks like when it is absent: a field that can stay in conversation forever and never arrive anywhere. Meetings that end in warmth and vagueness. Everyone accommodated, nothing decided. The person who keeps the harmony going because closing feels like conflict — who treats every hard question as something to defer to the next conversation, the next working group, the next season when conditions might be better. The Integrative Negotiator's absence shows up as relational molasses: pleasant, inclusive, and slowly failing the task.
+
+Here is what it looks like when it is distorted: two different failures wearing the same smile.
+
+The first distortion is **endless process** — the Diplomat who has confused hearing with closing. Who believes that if everyone feels included, the work is done. Who will run another round of listening because naming what must change feels like picking a fight. The field stays warm. Nothing moves. Resentment accumulates under the harmony like sediment.
+
+The second distortion is **ultimatum dressed as negotiation** — leverage where integration was needed. *Here's what I need or I'm out* spoken in the tone of honest disclosure, but actually functioning as a threat. This is not the Integrative Negotiator. This is the Challenger's game wearing Green clothes. The Diplomat who defaults here has skipped the native work — surfacing interests, finding terms — and imported Red altitude into a Green conversation. It sometimes works. It is not what this channel is for.
+
+**[DISSATISFACTION → SATISFACTION] Transcend 1 — Resentful Peace → Honest Terms**
+
+The Dissatisfaction here is **resentful peace** — the accommodation that says yes while the body says no. You agreed to something you didn't actually agree to. You made room without naming what making room cost. You kept the field calm by swallowing your stake, and now the calm is curdling into bitterness you can't explain because you never said out loud what you needed the agreement to hold.
+
+The Transcend alchemy: *I stop paying for harmony with my disappearance.* Resentful peace is not peace — it is deferred conflict wearing a polite face. The alchemy moves accommodation into **honest terms**: not *I'll tolerate anything to stay*, but *here is what this field must hold for my staying to remain real — for everyone's staying to remain real.* The charge of the swallowed no becomes the heat of a closing that actually names the stakes.
+
+**The difference between them:** Resentful peace is a calm surface with something heavy parked underneath — pleasant on top, going nowhere. Honest terms are the opposite: you've said the real thing, you haven't bolted, and the room is still standing.
+
+**[DISSATISFACTION → SATISFACTION] Transcend 2 — Positions → Interests**
+
+The Integrative Negotiator's secondary Dissatisfaction is **positional stuckness** — camps locked on what they demand, unable to move because each side is defending a surface statement instead of naming what it protects. *We need a policy change.* *We need to preserve tradition.* Positions harden. The field polarizes around slogans.
+
+The Transcend alchemy: *I ask what each position is guarding, not just what it says.* Positions are what people announce. Interests are what they are afraid of losing, what they need to protect, what sacrifice would actually cost them. The alchemy moves tribal loyalty (staying because you belong to a camp) into **chosen loyalty** (staying because the agreement is real and you said yes to it). You are not negotiating to win for your side. You are negotiating to find terms the whole field can live with — including the terms that let you stay without disappearing.
+
+**[TRANSLATE] — From Positions to Closure**
+
+**Fire → Earth: Heat translated into structure.** When a field is charged with competing demands — hot, righteous, each side certain — the Translate move is not to cool the fire down. It is to give the fire a shape it can move through. *What would each of you need to see change for this to be workable?* The anger does not get suppressed. It becomes the material from which terms are built.
+
+**Earth → Fire: Vague agreement translated into committed close.** When a field has done the listening work and arrived at something that sounds aligned but isn't yet specific — the Translate move carries the structure forward into commitment. *What are we actually agreeing to? By when? Who does what?* The Integrative Negotiator does not leave the field in principled ambiguity. Green altitude loves process. This channel loves a close.
+
+**[CONTROL] — Neutral Channel: Endless Process Pattern**
+
+The Neutral Channel pattern here is **endless process** — the behavioral habit of extending conversation past the point where more listening will help. One more round. One more check-in. One more chance for everyone to feel heard — as if hearing were the destination instead of the precondition.
+
+**The structure of the Stake-Surfacing Close:** You build a practice that does not skip: (1) **Protect** — what is each party afraid of losing? Name the interest, not the slogan. (2) **Require** — what must the agreement hold for staying to remain real? Name it for the field, not just for yourself. (3) **Commit** — what are we agreeing to, specifically, before we leave this room? The endless process pattern dissolves into a structure that honors inclusion *and* produces movement.
+
+**Energy cost:** -1. Closing takes more courage than extending. The field will push for one more round. The Integrative Negotiator knows when the round has become avoidance.
+
+**[CONTROL] — Neutral Channel: False Closure Pattern**
+
+The second Control pattern is **false closure** — the agreement that sounds resolved but wasn't. *Great, we're aligned* spoken over interests that were never surfaced. Or: every position given equal weight in the final terms when some positions are built on premises the field cannot actually hold.
+
+This is where **Refuse False Equivalence** lives inside the Fire channel — not as a separate performance of righteousness, but as discernment in the close. Equal hearing is precious. Equal endorsement is not automatic. The Integrative Negotiator asks: *Are we closing on terms that honor what each party actually needs — or on terms that pretend all framings are equally accurate?* If one camp's position requires ignoring evidence another camp lives with, honest terms name that difference. You can refuse false equivalence and still refuse to abandon the field.
+
+**The structure of the Discernment Check:** Before you close, ask: *Can I paraphrase each party's interest accurately enough that its strongest advocate would recognize it? And do the terms we're proposing actually address those interests — or are we papering over a gap?* False closure dissolves into a close you can stand behind.
+
+**Energy cost:** -1. Discernment in the close costs more than comfortable vagueness. It is worth it when the agreement has to hold.
+
+---
+
+*When negotiation fails — when someone refuses to name stakes, when harmony is cover for harm, when the field cannot hold truth — the Challenger's clean no is the next move. That is Chapter 3's game. Negotiate first. Line when the field cannot hold truth.*
+
+*The Integrative Negotiator's superpower is the capacity to close — to surface what everyone is protecting, name what the agreement must hold, and let the field move. Not harmony instead of truth. Harmony that includes truth. The field that has been genuinely negotiated is not softer at the close. It is more real.*
+
+---
+
+## Section 5: Journey to the Center
 
 ---
 
@@ -273,6 +341,8 @@ But now the gate has been open long enough. The Protector has done its job. It k
 
 You do not argue with the Protector. You simply note: *I know why you're here. I know what you prevented. But I am going in now.*
 
+*The "not yet" arrived before the reasons did — before the Protector had a single argument ready. Whatever pulled you back in that half-second before you'd have asked: name it in your own words, not the Protector's. That's the signal that's been running the gate. → app*
+
 ---
 
 #### Gate 2: The Controller
@@ -287,6 +357,8 @@ The move here is precision, not collapse. You learn to hold your shape while sti
 
 The Controller does not disappear. It becomes a discipline: *I can see what you need and I choose whether to accommodate, rather than dissolving into it automatically.*
 
+*Think of the last time you adjusted — not decided, adjusted. The moment the room's shape arrived and you started becoming it, before any choice was involved. Name that moment — the one just before you dissolved into fit, when you could still tell the difference between you and the shape you were about to take. → app*
+
 ---
 
 #### Gate 3: The Skeptic
@@ -299,17 +371,21 @@ This is the gate that keeps the Diplomat circling. Not blocked by fear of harm, 
 
 The move at this gate is not to answer the Skeptic — you cannot argue your way past doubt. The move is to note: *you may be right that I am complex. But complexity does not invalidate my need. I am allowed to want things I cannot fully explain.*
 
+*What was the need before the Skeptic got to it? Not the Skeptic's audit of whether it counts — the raw thing that was there first, the wanting that the cross-examination arrived to disqualify. Name it in its original form, before it got complicated. → app*
+
 ---
 
 #### Gate 4: The Fixer
 
 The fourth gate looks like care. This is the Diplomat's Fixer — not the Shaman's problem-solving but something that masquerades as generosity: *I can help you with something, and then I will have earned the right to ask for something in return.*
 
-The Fixer says: *Name your price later. First, prove you belong here. First, show that you add value. First, be useful enough that the asking won't be a burden.*
+The Fixer says: *Surface the terms later. First, prove you belong here. First, show that you add value. First, be useful enough that the asking won't be a burden.*
 
 This gate has cost the Diplomat enormously. The slow accumulation of service as a substitute for legitimacy. The belief that your value is measurable in what you do for others — and that your needs only become real when you've paid for them through care.
 
 The move at the Fixer gate is the one that costs the most: *I am allowed to need something even though I have not yet earned it.* Not as an excuse to stop caring — but as a release from the belief that care must always come first. That need is something you have to buy.
+
+*When did you last offer help at the exact moment you had a need of your own? Not the story of why — the moment itself: what you needed, what you offered instead, and what that trade cost you. → app*
 
 ---
 
@@ -317,7 +393,7 @@ The move at the Fixer gate is the one that costs the most: *I am allowed to need
 
 The fifth gate is the one that almost stops you.
 
-Already Alone is not the fear of abandonment. It is something more sophisticated and more devastating: the fear that you will name your price and discover, in the naming, that the connection was never what you thought it was. That the belonging was always provisional. That the moment you ask for something real, the field will show you what it has always been: a room full of people who are there because you made it easy to be there, not because they wanted your full weight.
+Already Alone is not the fear of abandonment. It is something more sophisticated and more devastating: the fear that you will name what you actually need from the agreement and discover, in the naming, that the connection was never what you thought it was. That the belonging was always provisional. That the moment you ask for something real, the field will show you what it has always been: a room full of people who are there because you made it easy to be there, not because they wanted your full weight.
 
 Already Alone says: *You already are alone. The asking will just prove it.*
 
@@ -326,6 +402,8 @@ This is the most dangerous gate because it has the texture of wisdom. It feels l
 The move here is not to disprove the fear. You cannot argue your way past the possibility that you are fundamentally alone. You can only note: *Even if this is true — even if the field thins when I stand fully — the self I recover by standing fully is worth more than the belonging I was maintaining by disappearing.*
 
 And then you keep walking.
+
+*The story of already-alone is built on something older than itself. If you had to name what was already there before the story arrived — anger, fear, sadness, joy, or stillness — which one? One word, before the interpretation. Then name what's underneath it. → app*
 
 ---
 
@@ -339,6 +417,8 @@ This gate is where most Diplomats who enter the forest actually stop — not at 
 
 The move here is not forgiveness — forgiveness is premature and condescending. The move is *acknowledgment without verdict.* You note: *I stayed too long. That is true. I made myself small. That is true.* But the noting is not a sentence — it is a completion. Something that, when you finally say it out loud, is done being your identity. It becomes history instead of verdict.
 
+*What did the staying cost? Not what you learned from it, not what it made you — what it actually cost, over time, before you made it mean anything. Name the weight and leave it unredeemed for now; the story of "but it built me" can come later. This is the before. → app*
+
 ---
 
 #### Gate 7: The Hollowed Self
@@ -350,6 +430,8 @@ The Hollowed Self says: *I overrode my own needs so many times that I am no long
 This is the accumulation of damage — not an identity wound, but a survival cost. The Diplomat who learned so thoroughly to hold the field that they lost track of what they were holding it for. The needs that were always too much — and so were shaped, compressed, managed until they were barely audible. The self that learned to want quietly because wanting out loud was a threat to belonging.
 
 The move at this gate is the longest: you do not argue with the Hollowed Self. You do not try to restore what was lost in one conversation or one return walk. You simply begin to notice. The next time you accommodate automatically — pause. The next time you reshape yourself for the room — note it. You are not trying to undo years of adaptation in one sitting. You are simply beginning to find the shape again — through the scar tissue, through the adaptations, through the accumulated cost.
+
+*One accommodation that happened so automatically you almost didn't catch it — not the pattern, the specific moment: the room's shape arrived, you started to override, and then you did. What did the override feel like just before it completed? That's the scar tissue showing. → app*
 
 ---
 
@@ -365,11 +447,13 @@ This is the core wound — not the lack of connection, but the impossibility of 
 
 The Vulnerable Child is not asking to be fixed. The Vulnerable Child is asking to be *allowed back in.* Not to become smaller again — but to come back whole, carrying everything they learned from the forest, knowing that the gates were always there for a reason, and knowing that now you can walk through them instead of being stopped by them.
 
+*What does this child want — in its original, unstrategized form, before the Diplomat mind starts planning how to ask without losing the connection? Not what you need, not what's reasonable — what they want. Name it exactly. → app*
+
 ---
 
 You will make this walk many times.
 
-The Diplomat who has done this work is not the one who stops accommodating — it is the one who accommodates consciously, with full knowledge of the cost. Who adjusts from strength instead of collapse. Who can name their price without losing their sense of belonging in the naming.
+The Diplomat who has done this work is not the one who stops accommodating — it is the one who accommodates consciously, with full knowledge of the cost. Who adjusts from strength instead of collapse. Who can close with honest terms without losing their sense of belonging in the closing.
 
 The Diplomat who has walked through all eight gates carries something no amount of social skill can manufacture: *the quiet certainty that the field that remains when you show up fully is the field that is actually yours.*
 
@@ -377,9 +461,9 @@ The Diplomat who has walked through all eight gates carries something no amount 
 
 ---
 
-## SECTION 6 — THE GAME
+## Section 6: The Game
 
-*You cannot hold a walk-away price you haven't named to yourself. You cannot repair a rupture you haven't sat in. You cannot refuse false equivalence from a position of genuine hearing if you've been performing hearing. The inner work is not separate from the game. The inner work is what makes the game real.*
+*You cannot close with terms you haven't named to yourself. You cannot repair a rupture you haven't sat in. You cannot refuse false equivalence from a position of genuine hearing if you've been performing hearing. The inner work is not separate from the game. The inner work is what makes the game real.*
 
 ---
 
@@ -404,7 +488,7 @@ Name the Field is not a diagnosis. It is an offering — you are saying *here is
 
 **The test:** You know you've done it when both sides say *yes, that's actually what this is about.* If they don't, you update and try again.
 
-**What it feels like in the body:** When Name the Field is working, there's a quality of clearing — the conversation gets simpler as the confusion lifts. When it's being performed, there's a quality of positioning — you're naming the field to establish yourself as the one who sees.
+**Working vs. performed:** When Name the Field is working, there's a quality of clearing — the conversation gets simpler as the confusion lifts. When it's being performed, there's a quality of positioning — you're naming the field to establish yourself as the one who sees.
 
 ---
 
@@ -425,27 +509,29 @@ The Diplomat translates: *"What I hear [Camp A] saying, in [Camp B]'s language, 
 
 **The test:** You know you've done it when both camps say *yes, that's what we mean* — and neither camp says you got it wrong.
 
-**What it feels like in the body:** When Translate is working, there's a quality of lightness — meaning flows between frameworks without distortion. When it's being performed, there's a quality of cleverness — you're showing how smart you are about both frameworks rather than serving the meaning.
+**Working vs. performed:** When Translate is working, there's a quality of lightness — meaning flows between frameworks without distortion. When it's being performed, there's a quality of cleverness — you're showing how smart you are about both frameworks rather than serving the meaning.
 
 ---
 
-**Move 3: Hold the Walk-Away Price**
+**Move 3: Close with Honest Terms**
 
-This is the most frightening move in the Diplomat's toolkit — not because it risks rejection, but because it risks the truth. The walk-away price, once named, cannot be un-named. You will know whether the field can hold the honest version of you.
+Bridge, translate, hold, repair — and then this. The close. It is the move the whole chapter has been building toward, and the one Green altitude skips most reliably, because closing feels like conflict and the field can always make room for one more round.
 
-Know what would cause you to leave this field, and say it — clearly, calmly, without ultimatum or performance.
+Close with Honest Terms is not an ultimatum. It is the single clear sentence that names what this field must hold for your staying to remain real — said once, and then left alone for the field to answer.
 
-The walk-away price is not the same as a boundary. A boundary is a line that, if crossed, triggers a consequence you enforce. A walk-away price is deeper than that — it is the condition under which your presence in this relationship or this conversation stops having meaning for you. Not the line that triggers a sanction. The line that triggers a grief.
+Here is what that sounds like: *"I want to say something I don't say often. I can work with almost anything in this partnership except one thing — if we get to a place where I have to choose between being honest with you and being honest with myself, I will choose myself. I need you to know that about me, because it means when I do push back, it's because we're close to losing an agreement that works for both of us, not because I'm running a strategy."*
 
-Here is what it sounds like: *"I want to say something I don't say often. I can work with almost anything in this partnership except one thing — if we get to a place where I have to choose between being honest with you and being honest with myself, I will choose myself. I need you to know that about me, because it means when I do push back, it's because I'm close to that line, not because I'm running a strategy."*
+Not a threat. Not *do this or I leave.* An offering of information — here is what this field must hold for my staying to remain real — and then the field gets to respond.
 
-Notice what this is not: it is not a threat. It is not *"do this or I leave."* It is an offering of information — here is what my presence here actually costs, and here is what would make it not worth it. And then the field gets to decide what to do with that information.
+*If you don't yet know where you actually stand — whether you've been trading impact away for the comfort of caring — the* care ↔ impact *pair in Appendix: The Polarity Map will surface it before you try to close. The map is preparation. This move is the practice.*
 
-**The test:** The test of a walk-away price is not whether they change their behavior when you name it. The test is whether the naming itself was honest. Did you name the actual price, or did you name a lower price because you were afraid to name the real one? If you named the real price and nothing changed, that's not a failure. That's information.
+**The test:** The test of honest terms is not whether they change their behavior when you name them. The test is whether the naming itself was honest. Did you name what you actually need from the agreement, or did you name a softer version because you were afraid to name the real one? If you named the real terms and nothing changed, that's not a failure. That's information.
 
-**Before you name it, ask:** Am I naming this because I know what I need, or because I'm hoping the other person will talk me out of it? If you're hoping they'll talk you out of it, you're not ready to name it yet. Wait. Sit with it. Come back when you mean it.
+The close lands clean when there's nothing left to add and you don't reach to fill the silence — you've said the thing, the room is still standing, and for once you let it stay said. The over-care version is the opposite: the talk thickens to molasses, every term softened until nothing's actually been said, the conversation kept intact like a museum piece and nobody moved an inch. And the performed version: the words are out, but one hand stays on the door, ready to pull it open again the moment they frown.
 
-**What it feels like in the body:** When Hold the Walk-Away Price is working, there's a quality of stillness — you've said the thing and the world hasn't ended, and now there's space. When it's being performed, there's a quality of bracing — you've said the words but your nervous system is holding its breath, waiting to see if they'll pass the test.
+**Before you name them, ask:** Am I naming this because I know what the agreement requires, or because I'm hoping the other person will talk me out of it? If you're hoping they'll talk you out of it, you're not ready to name it yet. Wait. Sit with it. Come back when you mean it.
+
+*You named your terms in a real room — or you softened them until they were safe, or you let the round run one more time instead. Whatever you actually did: get it down before the story tidies it up. → app*
 
 ---
 
@@ -464,7 +550,7 @@ The structure:
 
 **The test:** You know repair is real when the other person can name the rupture back to you accurately without you needing to explain it, and can name your part without you needing to correct them. If they're still explaining it back to you as if it was entirely your fault, the repair hasn't landed yet. Go back to step one.
 
-**What it feels like in the body:** When Repair is working, there's a quality of ground underneath — the floor was always there, you just needed to clear the rubble to find it. When it's being performed, there's a quality of urgency — you want the discomfort to end more than you want the repair to actually happen.
+**Working vs. performed:** When Repair is working, there's a quality of ground underneath — the floor was always there, you just needed to clear the rubble to find it. When it's being performed, there's a quality of urgency — you want the discomfort to end more than you want the repair to actually happen.
 
 ---
 
@@ -488,32 +574,32 @@ Here's what it sounds like: *"I hear where you're coming from. I think we're ope
 
 **The test:** You know your refusal is honest when you can paraphrase the opposing position accurately enough that its strongest advocate would recognize it, and then say *here is why I still don't agree.*
 
-**What it feels like in the body:** When Refuse False Equivalence is working, there's a quality of clarity — you've said the hard true thing and the room is still standing. When it's being performed, there's a quality of certainty — you're more interested in being right than in understanding what's actually true.
+**Working vs. performed:** When Refuse False Equivalence is working, there's a quality of clarity — you've said the hard true thing and the room is still standing. When it's being performed, there's a quality of certainty — you're more interested in being right than in understanding what's actually true.
 
 ---
 
-The Diplomat who has mastered these moves does not run a sequence. They hold the capacity for all five simultaneously — they are naming the field while translating across camps while holding their walk-away price while staying present through the hard moment. The moves are not a sequence. They are a way of being in a room.
+The Diplomat who has mastered these moves does not run a sequence. They hold the capacity for all five simultaneously — they are naming the field while translating across camps while closing with honest terms while staying present through the hard moment. The moves are not a sequence. They are a way of being in a room.
 
 ---
 
-## SECTION 7 — RECAP AND TRANSITION
+## Section 7: Recap and Transition
 
 ---
 
 The Diplomat's gift is not neutrality — it is the capacity to be a partisan who can still hold the field.
 
-You came into this chapter carrying a specific wound: the belief that your needs were too much, that asking was a form of imposition, that good diplomats didn't have walk-away prices. Maybe the village taught you that. Maybe you learned it the hard way, watching what happened to people who named their needs too clearly. Maybe you decided it was safer to stay pleasant than to risk being left.
+You came into this chapter carrying a specific wound: the belief that your needs were too much, that asking was a form of imposition, that good diplomats never closed — they just kept the harmony going forever. Maybe the village taught you that. Maybe you learned it the hard way, watching what happened to people who named what they actually needed. Maybe you decided it was safer to stay pleasant than to risk being left.
 
-The five stages of the Diplomat's work are not a checklist — they are a journey in sequence. **Bridge** is the initial entry, the act of showing up in the field with curiosity rather than judgment, making contact without yet knowing what the relationship will require. **Translate** is the work of rendering one camp's language into terms another camp can hear — not betraying either side, but finding the common ground of meaning. **Hold** is the maintenance of enough safety that difficult conversation remains possible even when the field is charged. **Repair** is the healing of ruptures without the pretense that they did not occur — cleaning the wound without pretending it was never made. And **Name Price** is the capstone: knowing what you would need to leave, and saying it so that your staying means something.
+The five stages of the Diplomat's work are not a checklist — they are a journey in sequence. **Bridge** is the initial entry, the act of showing up in the field with curiosity rather than judgment, making contact without yet knowing what the relationship will require. **Translate** is the work of rendering one camp's language into terms another camp can hear — not betraying either side, but finding the common ground of meaning. **Hold** is the maintenance of enough safety that difficult conversation remains possible even when the field is charged. **Repair** is the healing of ruptures without the pretense that they did not occur — cleaning the wound without pretending it was never made. And **Negotiate** is the capstone: surfacing stakes, naming terms, closing so that your staying means something.
 
-Every stage requires a different internal alchemy. The Bridge-Builder must transcend the terror of genuine contact. The Translator must transmute intellectual superiority into faithful interpretation. The Field-Holder must hold neutral through the charge of everyone's discomfort. The Repairer must grieve what was broken while also acting toward its repair. And the Price-Namer must find the courage to name what they actually need — not as a threat, not as manipulation, but as a clear, calm, loving act of disclosure.
+Every stage requires a different internal alchemy. The Bridge-Builder must transcend the terror of genuine contact. The Translator must transmute intellectual superiority into faithful interpretation. The Field-Holder must hold neutral through the charge of everyone's discomfort. The Repairer must grieve what was broken while also acting toward its repair. And the Integrative Negotiator must find the courage to surface what each party is protecting and close — not as a threat, not as manipulation, but as a clear, calm, loving act of honest agreement.
 
 Here is what the Diplomat carries forward into the book:
 
-- The five channels: Bridge-Builder, Translator, Field-Holder, Repairer, Price-Namer
+- The five channels: Bridge-Builder, Translator, Field-Holder, Repairer, Integrative Negotiator
 - The five emotional alchemy moves specific to relational work
 - The eight gates of the Diplomat's internal forest — and the Vulnerable Child at the center who still believes connection is possible
-- The five game moves: Name the Field, Translate Across Camps, Hold the Walk-Away Price, Repair After Rupture, Refuse False Equivalence
+- The five game moves: Name the Field, Translate Across Camps, Close with Honest Terms, Repair After Rupture, Refuse False Equivalence
 
 And here is the question that carries you out of this chapter and into the next: **When the Diplomat's tools are not enough — when one camp is playing a Red game and the other is playing a Green game and the conflict is actually altitudinal — who names that?**
 
