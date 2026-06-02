@@ -79,9 +79,9 @@ Here is what it looks like when it is distorted: a person who is always reaching
 
 **[DISSATISFACTION → SATISFACTION] Transcend 1 — Anxiety → Curiosity**
 
-The core Dissatisfaction under Bridge-Builder is **anxiety** — the low-grade hum of "will I be accepted, will they want me here, am I intruding." This is the nervous system firing before the bridge is built: what if I reach out and no one reaches back?
+The core Dissatisfaction under Bridge-Builder is **anxiety** — the low-grade hum of "will I be accepted, will they want me here, am I intruding." This is old wiring firing before the bridge is built: what if I reach out and no one reaches back?
 
-The Transcend alchemy: you feel the anxiety fully, name it as the nervous system's report on past exclusion (not current reality), and alchemize it into genuine curiosity about the field. *What is actually here? Who is actually present? What do I actually want to know about this person, not what do I need them to think of me?*
+The Transcend alchemy: you feel the anxiety fully, name it as a report from the past, not the present, and alchemize it into genuine curiosity about the field. *What is actually here? Who is actually present? What do I actually want to know about this person, not what do I need them to think of me?*
 
 The anxiety, fully felt and recognized as history rather than prophecy, converts into the clean attention that makes real bridging possible.
 
@@ -95,7 +95,7 @@ The stage-fright, acknowledged as the shame of being a learner instead of an exp
 
 **[TRANSLATE] Translate 1 — Anxiety → Interest**
 
-The Bridge-Builder's primary Translate move is the channel-wide translation from Metal (fear/anxiety) to Wood (joy/interest). When the nervous system registers the approach as threat (will I be rejected?), the Translate moves the charge forward in the elemental cycle: instead of contracting around the anxiety, you let it inform your interest. *What if this goes well? What is actually present here that I want to learn about?*
+The Bridge-Builder's primary Translate move is the channel-wide translation from Metal (fear/anxiety) to Wood (joy/interest). When the old wiring registers the approach as threat (will I be rejected?), the Translate moves the charge forward in the elemental cycle: instead of contracting around the anxiety, you let it inform your interest. *What if this goes well? What is actually present here that I want to learn about?*
 
 The anxiety becomes the fuel for engagement rather than the signal to withdraw. Energy cost: +1 (generative translate, flow with the charge).
 
@@ -189,7 +189,7 @@ Here is what it looks like when it is distorted: a performative calm that is act
 
 **[DISSATISFACTION → SATISFACTION] Transcend 1 — Anxiety → Grounded Presence**
 
-The Dissatisfaction here is **anxiety** — the Field-Holder's nervous system reads a charged field as danger, even when no danger is present. The room gets tense and the Field-Holder's body starts to signal: something is wrong here. Get out. The anxiety is not wrong — it is reading the field accurately. But unprocessed anxiety makes the Field-Holder contract, which removes the very presence the field needs.
+The Dissatisfaction here is **anxiety** — the Field-Holder's old wiring reads a charged field as danger, even when no danger is present. The room gets tense and the Field-Holder's body starts to signal: something is wrong here. Get out. The anxiety is not wrong — it is reading the field accurately. But unprocessed anxiety makes the Field-Holder contract, which removes the very presence the field needs.
 
 The Transcend alchemy: *I let the anxiety teach me where the field needs attention.* Anxiety is not a signal to leave — it is a signal to lean in more deliberately. The fear of the field destabilizing becomes the anchor that keeps you rooted in it. You are not anxious despite your holding — you are anxious *because* you are holding something that matters. The alchemy transmutes the charge of anxiety into the energy of genuine presence.
 

@@ -134,7 +134,7 @@ That is the practice. Not scarcity. Literacy.
 
 **Two currencies — don't mix them up.** Tokens and fuel are what *you* spend to keep playing — your personal energy economy. Later, when you meet the Diplomat, you'll work with a different game: **terms** — what the relationship or field must hold so that staying is real for everyone. Fuel answers *Can I afford to show up?* Terms answer *What does this agreement actually require of each of us?* Same word family in ordinary speech ("What's the price of this?"), two different games on the arcade floor. Learn fuel here. Learn terms in Chapter 6.
 
-This isn't abstract. You feel non-renewable spending in the body — the heaviness after a hard conversation, the dread before showing up, the sense that you're performing care you don't actually have. Renewable spending feels different — tired but not empty, stretched but not hollow.
+This isn't abstract. You feel non-renewable spending — the heaviness after a hard conversation, the dread before showing up, the sense that you're performing care you don't actually have. Renewable spending feels different — tired but not empty, stretched but not hollow.
 
 **Time** is the token you can never earn back. Every hour you spend in the wrong game is an hour you cannot play in the right one. Every relationship you maintain because you feel obligated is a relationship that could be a quest. Every intervention you make without naming your exit terms is a game that plays you.
 
@@ -170,7 +170,7 @@ The arcade floor has a scoreboard. It does not show likes. It shows your balance
 
 ## Capture What Lands — The BAR Deck
 
-Somewhere in this chapter, a line landed in your body before your mind finished arguing with it. A meeting surfaced. A guilt you recognized. A moment you knew you were Game Mastering without having the word for it yet.
+Somewhere in this chapter, a line landed before your mind finished arguing with it. A meeting surfaced. A guilt you recognized. A moment you knew you were Game Mastering without having the word for it yet.
 
 That moment is worth keeping.
 
@@ -294,7 +294,7 @@ Before you go further — here's who you are in this game.
 
 Not who you should be. Who you are right now.
 
-Take a moment. Read each field. Notice which one lands in your body before your mind reaches for an answer. The body knows first.
+Take a moment. Read each field. Notice which one lands before your mind reaches for an answer. You know first.
 
 **Your dominant face.** The one you default to first when the field gets hot. The capacity that comes most naturally when you're under pressure. This is your starting point — not your destination.
 

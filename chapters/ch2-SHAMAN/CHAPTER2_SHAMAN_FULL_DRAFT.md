@@ -100,11 +100,11 @@ Most allyship has the same problem I had on those calls. The ally is solving for
 
 The Shaman's practice is that staying.
 
-The Shaman's practice is not new to you. You have been practicing it for years — the body scans, the attention to what a room is actually holding underneath the words. You know what a felt sense is and you have been developing yours with some deliberateness. That is real. It matters.
+The Shaman's practice is not new to you. You have been practicing it for years — the body scans, the attention to what a room is actually holding underneath the words. You know what it is to read a room before you have words for it, and you have been developing that with some deliberateness. That is real. It matters.
 
 What you have been doing with the signal when it disagrees with the room is a different question.
 
-You have been in spaces doing this work and your body has registered something the room was not registering. Off. Not dangerous, not catastrophic — just: *something here is not what it's presenting as.* And you have done what you have been carefully trained to do with a somatic read that conflicts with the social consensus around you: you asked yourself whether it was your stuff. Whether you were projecting. Whether you were centering yourself in a moment that wasn't yours to center. You gave the room the benefit of the doubt and kept going.
+You have been in spaces doing this work and your body has registered something the room was not registering. Off. Not dangerous, not catastrophic — just: *something here is not what it's presenting as.* And you have done what you have been carefully trained to do with a read that conflicts with the social consensus around you: you asked yourself whether it was your stuff. Whether you were projecting. Whether you were centering yourself in a moment that wasn't yours to center. You gave the room the benefit of the doubt and kept going.
 
 That is not the Shaman's practice. That is the Shaman's practice with a governor on it — one installed by instructions that were trying to teach you not to harm people and accidentally taught you not to trust yourself.
 
@@ -116,7 +116,7 @@ In emotional processing, the emotion is the problem. In emotional alchemy, the e
 
 Every emotion is a story about reality. When you feel fear, you're receiving information about risk. When you feel anger, you're receiving information about boundary violation. When you feel sadness, you're receiving information about loss. When you feel joy, you're receiving information about alignment. When you feel neutrality—that spacious, clear quality—you're receiving information about perspective itself.
 
-These are not problems. They are *signals.* They are your nervous system's way of saying "pay attention to this. Something true is present."
+These are not problems. They are *signals.* They are your oldest intelligence's way of saying "pay attention to this. Something true is present."
 
 Most people have been taught to interrupt this signal. To speed past it. To replace it with a more "productive" emotion. Fear becomes "I need to work harder." Anger becomes "I need to fix this system." Sadness becomes "I need to learn from this and move on." Joy becomes "I need to bottle this and use it for fuel."
 
@@ -126,7 +126,7 @@ Real emotional alchemy is the practice of being willing to *stay with* the emoti
 
 When you do this—when you actually make space for fear instead of overriding it—fear teaches you what you actually care about. (Not your stated values. Your actual ones. The ones you'd die for quietly, without the post.) Because fear shows up at the boundary of what matters to you. It shows up when something you're attached to is at risk. It's showing you your real values, not your performed values. Your real priorities, not your productivity system.
 
-When you do this with anger—when you let yourself be angry instead of converting it into activism—anger teaches you where you're willing to stand. Anger is the voice that says "this is not acceptable." Not the system. Your body. Your specific nervous system, with your specific history, drawing a line. That line is precious information about who you actually are and what you're actually willing to participate in.
+When you do this with anger—when you let yourself be angry instead of converting it into activism—anger teaches you where you're willing to stand. Anger is the voice that says "this is not acceptable." Not the system. You. Your own body, with your specific history, drawing a line. That line is precious information about who you actually are and what you're actually willing to participate in.
 
 When you do this with sadness—when you actually grieve instead of rushing past it—sadness teaches you what was real. Because sadness is the feeling that only arrives when something that genuinely mattered has been lost. Sadness says "this was true. This connection was real. This loss is significant." In a world that constantly tries to convince you that you're overreacting, that it wasn't a big deal, that you should just move on—sadness is the voice that says "no. This mattered. I'm allowed to feel that."
 
@@ -147,7 +147,7 @@ If emotional alchemy is about learning from emotions instead of managing them, t
 
 You need a practice. A structure. Something that repeats reliably so you can get better at it.
 
-That structure is called the WAVE-Spiral.
+That structure is called the WAVE-Spiral.[^wave]
 
 The WAVE-Spiral is not a single moment. It's a progression through four stages that can happen in ten seconds or ten hours depending on the depth and context. It's a way to move emotional energy from activation (I feel something) → clarity (I understand what it means) → integration (the feeling has taught me something) → action (I move from that understanding).
 
@@ -158,7 +158,7 @@ The WAVE-Spiral is not a single moment. It's a progression through four stages t
 ### Stage 1: Wake
 **What it means:** Notice the emotional signal. Detect activation.
 
-This is the hardest stage for most people because it requires that you actually *pause* and notice what you're feeling. Not what you *should* feel. Not what's productive. What's actually here in your body right now.
+This is the hardest stage for most people because it requires that you actually *pause* and notice what you're feeling. Not what you *should* feel. Not what's productive. What's actually here, right now.
 
 Fear. Anger. Sadness. Joy. Neutrality.
 
@@ -203,14 +203,14 @@ If it's sadness—what do I care about, and how far am I from it?
 If it's joy—what's aligned with my delight?
 If it's neutrality—what perspective am I suddenly able to see from here?
 
-You're not trying to think your way to an answer. You're sensing into the feeling and letting it show you. This usually takes a few seconds to a few minutes. It happens best when you're in your body, not in your thinking mind.
+You're not trying to think your way to an answer. You're sensing into the feeling and letting it show you. This usually takes a few seconds to a few minutes. It happens best when you let it be felt, not figured out.
 
 This is the first difference between the Shaman's practice and the village's distortion: the village tries to speed past this stage. The Shaman lingers here long enough to actually get the teaching.
 
 ### Stage 3: Grow
 **What it means:** Extract the lesson. Integrate the insight the feeling offered.
 
-Now you understand what the feeling is showing you. The third stage is to let that understanding actually *change* you. Not dramatically. But you're integrating the information so that your nervous system knows something it didn't know before.
+Now you understand what the feeling is showing you. The third stage is to let that understanding actually *change* you. Not dramatically. But you're integrating the information so that something in you knows what it didn't know before.
 
 If fear showed you what matters—your system integrates "this is what I'm protecting" as a real value, not something you have to earn.
 
@@ -226,7 +226,7 @@ The Grow stage is the integration—the moment when the feeling stops being some
 
 This is where the shift from dissatisfaction (the feeling is overwhelming, confusing, raw) to neutral (the feeling has been understood, its message received) happens. You're not trying to be happy or fixed. You're reaching a baseline: the feeling is no longer runaway. It's integrated.
 
-**In practice:** After you've understood what the feeling was showing you, spend a moment letting your nervous system know: "I get it. I understand what this was showing me. The message landed."
+**In practice:** After you've understood what the feeling was showing you, spend a moment letting it settle all the way through: "I get it. I understand what this was showing me. The message landed."
 
 This might look like:
 - A breath that goes a little deeper than the one before it
@@ -375,7 +375,7 @@ The bars-engine framework names three types of moves, each with an energy cost o
 
 **Energy yield:** +2. You started depleted. You end resourced. This is the fuel that makes allyship sustainable.
 
-**How to recognize it:** After you show up from the wisdom, you feel *lighter*. More alive. Your nervous system says "yes, that was right." You've integrated something real.
+**How to recognize it:** After you show up from the wisdom, you feel *lighter*. More alive. Something in you says "yes, that was right." You've integrated something real.
 
 The five Transcend moves (one per channel):
 - Fear → **Excitement** (the risk is real, and so is the opportunity inside it)
@@ -478,23 +478,23 @@ A practiced Shaman moves fluidly:
 - Chooses between generative translate (flow with it, +1 energy) and control translate (precision, -1 energy, only when needed)
 - Moves at the right tempo (10 seconds in a meeting, 10 minutes alone, 10 hours for deep integration)
 
-This is not something you learn once. It's something you practice until it becomes your nervous system's operating system.
+This is not something you learn once. It's something you practice until it becomes your operating system — automatic, underneath thought.
 
 ---
 
-## Somatic Markers: How to Know You're Actually Practicing
+## How to Know You're Actually Practicing
 
 The WAVE-Spiral is not just a thinking exercise. Your body should know you're doing it.
 
 **Wake:** You pause. Your thinking slows. You sense inward.
 
-**Clean:** Something shifts in your nervous system—not relief yet, but *recognition*. Your body says "yes, I feel this, and now I'm looking at it clearly."
+**Clean:** Something shifts—not relief yet, but *recognition*. Something in you says "yes, I feel this, and now I'm looking at it clearly."
 
 **Grow:** Your breathing deepens slightly. Your shoulders drop a millimeter. Your system says "I understand. The message landed."
 
 **Show:** You feel resourced enough to move. Not manic. Grounded. Your body says "I know what to do now."
 
-If you move through all four stages and you don't feel *any* of these somatic shifts, you might be thinking the WAVE-Spiral instead of practicing it. Come back to the body. Feel what's actually present.
+If you move through all four stages and you don't feel *any* of these shifts, you might be thinking the WAVE-Spiral instead of practicing it. Come back to what's present. Feel what's actually here.
 
 ---
 
@@ -959,7 +959,7 @@ The fifth Shaman move is to *stay in the difficult feeling instead of leaving.*
 
 The Shaman doesn't abandon you when things get hard. When you're crying. When you're angry. When you're scared. When you're saying things that are uncomfortable or that don't have a neat resolution. The Shaman stays.
 
-This is the move that most people fail at, because we're all running on nervous systems that learned to leave when things got too intense. To dissociate. To move on. To find the next thing.
+This is the move that most people fail at, because we're all running on old wiring that learned to leave when things got too intense. To dissociate. To move on. To find the next thing.
 
 The Shaman learned a different way: to breathe through the intensity. To stay present. To not collapse, not defend, not run—but to meet the moment fully.
 
@@ -970,7 +970,7 @@ The Shaman learned a different way: to breathe through the intensity. To stay pr
 ## Section 7: Recap and Transition
 ### *What the Shaman Carries Forward*
 
-The Shaman's contribution to the allyship game is this: **before strategy, before structure, before any move you make in the world—there is pattern.** Emotional pattern. Somatic pattern. The pattern of what you actually feel, what you actually need, what you actually are.
+The Shaman's contribution to the allyship game is this: **before strategy, before structure, before any move you make in the world—there is pattern.** Emotional pattern. Bodily pattern. The pattern of what you actually feel, what you actually need, what you actually are.
 
 The Shaman teaches you to read that pattern. In yourself. In others. In the room.
 
@@ -991,4 +991,6 @@ So as you leave the Shaman's forest, take with you:
 Your superpower was not given to you by the system. It was shaped by your specific survival, your specific losses, your specific adaptations. The Shaman's work is recovering that superpower. Making it conscious. Making it available. Taking it back into the village.
 
 ---
+
+[^wave]: The WAVE-Spiral is my own synthesis, but the conviction underneath it — that emotion carries usable intelligence, and that the body knows before the mind does — I owe to teachers who shaped me: Eugene Gendlin's *Focusing* (where the "felt sense" comes from), Peter Levine's *Waking the Tiger* and Somatic Experiencing, Bessel van der Kolk's *The Body Keeps the Score*, and Stephen Porges's polyvagal theory. If this resonates and you want the science underneath it, start there.
 

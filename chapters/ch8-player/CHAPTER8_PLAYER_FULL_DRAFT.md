@@ -294,7 +294,7 @@ You now know that the village needs you.
 
 Not the performed you. Not the performed ally. The actual you — the one who has done the inner work, who knows what they feel, who can draw the line, who can build, who can design, who can hold, who can see, who can come back.
 
-The performed ally is easy to spot. They have the vocabulary. They have the correct positions. They have the performance of care without the somatic reality of having walked through the thing that hurt. The performed ally burns out — because performance is exhausting, and because performing care without actually having it produces the exhaustion that comes from fraud.
+The performed ally is easy to spot. They have the vocabulary. They have the correct positions. They have the performance of care without the lived reality of having walked through the thing that hurt. The performed ally burns out — because performance is exhausting, and because performing care without actually having it produces the exhaustion that comes from fraud.
 
 The actual ally is harder to spot. They might not have all the right words. They might say the wrong thing and have to correct. They might not know the current consensus positions on every identity question. But they have something the performed ally doesn't: they've done the work. They've walked through their own stuff. They know the difference between feeling and acting. They know how to come back.
 
@@ -310,7 +310,7 @@ I want to be honest with you about what the walk actually looks like, because th
 
 The walk begins before you're ready. That's the first thing nobody tells you. You don't finish learning the Faces and then start building. You start building while you're still confused, still triggered, still defaulting to your home altitude when things get hard. The map isn't complete. The WAVE isn't mastered. You don't arrive and then act — you act from somewhere on the path, and the acting is part of the walking.
 
-When I started building bars-engine, I didn't have it figured out. I had a felt sense of what was missing — a game that actually taught the WAVE, that made the emotional alchemy something you could practice instead of just understand — and I had enough of the six Faces to know what I was trying to do. But the game itself wasn't clear. The mechanics kept changing. I ran sessions that failed. I redesigned the token economy three times. I threw out entire systems and rebuilt them. The walk was not a straight line from plan to execution. It was iteration. Review. Discern. Design. Build. Pass On. Loop.
+When I started building bars-engine, I didn't have it figured out. I could feel what was missing — a game that actually taught the WAVE, that made the emotional alchemy something you could practice instead of just understand — and I had enough of the six Faces to know what I was trying to do. But the game itself wasn't clear. The mechanics kept changing. I ran sessions that failed. I redesigned the token economy three times. I threw out entire systems and rebuilt them. The walk was not a straight line from plan to execution. It was iteration. Review. Discern. Design. Build. Pass On. Loop.
 
 That's what the walk feels like. Not ascending. Circling. And each circle goes a little deeper.
 

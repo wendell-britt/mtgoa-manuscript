@@ -166,7 +166,7 @@ The Shaman (Ch2) taught you to read the five EA channels: Metal/Fear, Water/Sadn
 
 The Challenger's practice is not improvisation. It is a sequence. Four stages, in order, every time.
 
-**Stage 1: Charge.** The fire arrives. Something in your body shows up — a heat in your chest, a clenching in your jaw, a sudden clarity that is also somehow a burning. This is the charge. The Challenger does not suppress it. The Challenger receives it.
+**Stage 1: Charge.** The fire arrives. Something shows up — heat, a clenching, a sudden clarity that is also somehow a burning. This is the charge. The Challenger does not suppress it. The Challenger receives it.
 
 The Shaman taught you to read this. The Challenger teaches you to use it. The charge is the signal that something matters enough to act on. Without charge, there is no fire. With charge and no practice, there is explosion. With charge and practice, there is *direction.*
 
@@ -313,7 +313,7 @@ Before you walk the eight gates, one piece of work belongs here. You already sai
 
 You met 3-2-1 in Chapter 2. This is the Challenger's application.
 
-The 3-2-1 practice asks a harder question: *Who is the oppressor in your inner world?* Not who hurt you in history — the **figure** your nervous system built to hold everything you aren't allowed to be. The one who draws lines while you stay pleasant. The colleague who said no without apologizing. The public figure you call domineering. The **inner Challenger you disowned.**
+The 3-2-1 practice asks a harder question: *Who is the oppressor in your inner world?* Not who hurt you in history — the **figure** you built to hold everything you aren't allowed to be. The one who draws lines while you stay pleasant. The colleague who said no without apologizing. The public figure you call domineering. The **inner Challenger you disowned.**
 
 This is not letting real harm off the hook. It is reclaiming the energy you've been spending on a cartoon. Real harm and real accountability stay real — 3-2-1 owns **your** split, not **their** innocence.
 

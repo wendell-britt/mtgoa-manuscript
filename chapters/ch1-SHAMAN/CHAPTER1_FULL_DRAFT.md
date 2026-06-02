@@ -18,7 +18,7 @@ The feeling is this: *this isn't working.*
 
 Not you. Not your effort. Not your intentions.
 
-That hum doesn't go away when you put down the phone. It's in the body before it's in the mind, and it doesn't resolve with the next action item.
+That hum doesn't go away when you put down the phone. It arrives before the mind has words for it, and it doesn't resolve with the next action item.
 
 The whole thing has a structural flaw:
 
@@ -149,7 +149,7 @@ That question is not an indictment. It's a starting point.
 
 The meeting where the room went cold. Your body knew exactly what was happening — had known before anyone spoke — and you deferred to the consensus. Not because you lacked the capacity. Because body knowing, in your framework, belongs to people closer to their roots. Claiming it felt like appropriation. So you built the literacy and didn't use the read.
 
-The body that knew was not appropriating anything. It was yours. The Shaman's first move is available to you. The question this chapter is asking is whether you'll stop treating your own somatic intelligence as something that belongs to someone else.
+The body that knew was not appropriating anything. It was yours. The Shaman's first move is available to you. The question this chapter is asking is whether you'll stop treating your own knowing — the kind that arrives before the mind catches up — as something that belongs to someone else.[^body]
 
 The problem is not that you wanted to be good. The problem is that trying to seem good takes the whole body. There's nothing left over. The face you're holding in place and the face underneath it are running simultaneously, and that split is where the exhaustion actually lives.
 
@@ -451,7 +451,7 @@ Each one is a distinct signal. Each one carries specific intelligence. And most 
 
 **Common trigger:** any high-stakes situation where the emotional charge arrives before you know what to do with it. The feeling is real. You don't have the language yet. And the room is expecting you to act.
 
-**Emotional Body's gift:** the full intelligence of the human nervous system. Fear tells you where the real risk is. Grief tells you what mattered. Anger tells you where a boundary was crossed. Shame tells you where your values and your behavior split. Joy tells you when something is aligned.
+**Emotional Body's gift:** the full intelligence of human feeling. Fear tells you where the real risk is. Grief tells you what mattered. Anger tells you where a boundary was crossed. Shame tells you where your values and your behavior split. Joy tells you when something is aligned.
 
 These are not obstacles to clear thinking. They are the clearest thinking your body can do.
 
@@ -778,3 +778,7 @@ Why Chapter 2 first: the Shaman trains emotional signal-reading and regulation, 
 So the hard handoff is simple: **go to Chapter 2 now**.
 
 The Forest is ahead. The gate is open. The only move left is through.
+
+---
+
+[^body]: That something in us reads a situation before the conscious mind does — and that this is trainable, not mystical — is the ground beneath this whole book. I'm standing on others here: Eugene Gendlin's *Focusing* (where the idea of a bodily "felt sense" comes from) and Bessel van der Kolk's *The Body Keeps the Score* are where I'd send you first.
