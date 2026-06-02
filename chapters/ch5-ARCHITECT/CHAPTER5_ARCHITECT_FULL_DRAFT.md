@@ -444,6 +444,8 @@ Here's what I've noticed about the Architect's game: the Architect wins when the
 
 The Architect's game is building the map that makes you unnecessary. Not unnecessary in a dismissive way—unnecessary in a generous way. You've built something that can survive without you. That's the win.
 
+Two prizes sit on this table, and from the outside they look almost identical. The bullshit prize is being the one who saw it — smartest in the room, the indispensable mind, the elegant solution everyone admires and nobody can run without you. It's a good prize. It just has to be re-won every time, and it quietly needs the system to stay broken enough to keep needing you. The renewable prize is the opposite, and much quieter: you build the thing, then watch it run when you're not in the room. Nobody claps. You're not needed. And it's one of the most satisfying things there is — the proof is that it kept working after you left.
+
 Here are five distinct moves that make that win real.
 
 ---

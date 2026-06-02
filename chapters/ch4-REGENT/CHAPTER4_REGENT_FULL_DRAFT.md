@@ -198,11 +198,13 @@ Not your genetics. Not your culture in the abstract. I'm talking about the speci
 
 Every person alive is an inheritor. The Regent's practice is about working consciously with that fact instead of against it.
 
-The native material at Amber altitude is not emotion. It's not will. It's not even logic. It's **loyalty** — the deep sense of belonging to something larger than yourself, and the weight that comes with that belonging. What you owe. What you carry. What you pass on.
+The native material at Amber altitude is not emotion. It's not will. It's not even logic. It's **loyalty** — the deep sense of belonging to something larger than yourself, and the weight that comes with it. Not what you owe — that's the village's version. What you'd choose to carry if the choosing were fully yours. What you decide is worth passing on.
 
 Loyalty is deeply unfashionable in progressive circles. It sounds like obedience. It sounds like the thing that keeps people inside harmful institutions. But that's because the village conflated loyalty with compliance — and then wondered why the institutions it served became so brittle.
 
 Real loyalty is chosen. Real loyalty sees the whole inheritance — the gift and the damage — and decides, with full knowledge, to carry it forward. Real loyalty can be broken when the tradition breaks you. Real loyalty can be reformed when the tradition no longer serves what it originally served. That's not disloyalty. That's the most loyal thing there is.
+
+And chosen loyalty doesn't just cost less — it gives back. Two people can carry the identical inheritance: one is hollowed by it, the other fed. Obligation is the suitcase you haul up the stairs because someone told you it's yours — heavier each flight, never set down, because setting it down would mean you failed. Chosen loyalty is the same arms, a different climb: you open the case, keep what's worth carrying, leave what was only ever weight — and what's left, you'd carry up any number of stairs, because you decided it was worth the climb. Same tradition. One empties you; one doesn't. The difference was never the weight. It was the choosing.
 
 This section teaches the Regent's cycle: how to work with your inheritance consciously, move through it cleanly, and pass it forward without passing on the wounds.
 
@@ -557,7 +559,7 @@ This gate does not have a clever move. This gate has one instruction: witness wi
 
 Do not argue with the Damaged Self. Do not produce evidence of your competence. Do not list your accomplishments. The Damaged Self is not interested in evidence. The Damaged Self is asking you to sit with the feeling that you are not enough — and to keep walking anyway.
 
-You are not enough. You will never be enough in the way the idealized Regent is enough. And you can do this anyway. Not because you are enough, but because the tradition needs tending and you are the one who showed up.
+"Enough" is the bullshit prize here — the idealized Regent, flawless, finally arrived, beyond reproach. You will never win it, because no one does; it was never a real prize. And you can do this anyway — not by becoming enough, but because the tradition needs tending and you're the one who showed up.
 
 The Damaged Self will not be resolved. But it can be witnessed. And witnessing it is enough.
 
@@ -581,7 +583,7 @@ The Regent's superpower — the thing that lives at the center of this forest �
 
 Not to fix it. Not to perfect it. Not to make it yours. To carry it. To tend it. To reform it where it needs reforming. To pass it forward when you're done.
 
-This is what the tradition needs. Not a perfect steward. Not a flawless inheritor. Someone who will show up, again and again, and do the work of carrying it forward — even though they are not enough, even though they will fail, even though they were hurt before.
+This is what the tradition needs. Not a perfect steward. Not a flawless inheritor. Someone who will show up, again and again, and do the work of carrying it forward — even though they never won "enough" either, even though they will fail, even though they were hurt before.
 
 You know the path in. That is the Regent's gift.
 
