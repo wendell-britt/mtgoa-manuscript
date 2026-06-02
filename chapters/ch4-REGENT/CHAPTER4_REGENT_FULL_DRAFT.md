@@ -390,7 +390,7 @@ The Protector almost never says no when you ask like that. What the Protector ca
 
 When you're ready, keep walking.
 
-*Something shifted at that gate — or tightened, or held. Before the path narrows, locate it in your body: not the story of why you don't have the standing, the physical place where the Protector's grip lives. That's the one. → app*
+*Something shifted at that gate — or tightened, or held. Before the path narrows, name it: not the story of why you don't have the standing, but the holding itself, where the Protector's grip lives. That's the one. → app*
 
 ---
 
@@ -431,7 +431,7 @@ You pass this gate by relieving the Controller — and by noticing that the beli
 
 When you're ready, keep walking.
 
-*The grip had a location before it had a name. Where was it in your body — chest, jaw, hands, belly? Not what it was protecting against. Where the holding was. And then: which of the six beliefs surfaced, in its exact words — the one deciding who has the right to carry this? Two captures. The body first, then the belief. → app*
+*The grip had a shape before it had a name. What was it holding down — and how hard? Not what it was protecting against. The holding itself. And then: which of the six beliefs surfaced, in its exact words — the one deciding who has the right to carry this? Two captures. The holding first, then the belief. → app*
 
 ---
 
@@ -507,7 +507,7 @@ Find your name for the Fear. Say it out loud. *I hear you. You're showing me wha
 
 When you're ready, keep walking.
 
-*Which channel was running in your body when the Fear started the movie — anger, fear, sadness, joy, or a frozen stillness? Not what the movie was about. The felt channel before you named it. That charge knows something about this tradition and what it costs you to carry it. What does it say? → app*
+*Which channel was running when the Fear started the movie — anger, fear, sadness, joy, or a frozen stillness? Not what the movie was about. The channel itself, before you named it. That charge knows something about this tradition and what it costs you to carry it. What does it say? → app*
 
 ---
 

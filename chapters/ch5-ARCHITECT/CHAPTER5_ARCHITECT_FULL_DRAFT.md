@@ -171,7 +171,7 @@ Pick a room you're actually in — a team, a committee, a coalition — where ev
 
 Then hold the flinch. Somebody will hear it as criticism — that's the cost, and you don't pay it by softening. You pay it by staying warm while you stay clear: *I'm not saying anyone failed. I'm saying the structure is doing exactly what it was built to do — and it was built for a world we're not in anymore.* That sentence is the whole chapter: structural sight delivered as love instead of indictment.
 
-*You named an assumption out loud in a real room — or you watched yourself swallow it and solve the visible problem instead. Before it fades: which assumption, what you actually said, and what the flinch cost you. Two minutes in the app while the room is still in your body. → app*
+*You named an assumption out loud in a real room — or you watched yourself swallow it and solve the visible problem instead. Before it fades: which assumption, what you actually said, and what the flinch cost you. Two minutes in the app while the room is still with you. → app*
 
 ---
 
@@ -245,7 +245,7 @@ Try it now. Just for a second. Find the part of you that's already planning the 
 
 When you're ready, keep walking.
 
-*Here's the first move in the Architect's walk: the body registers before the mind decides. Something just happened — or notably, didn't. A release, a tightening, a flicker, or a deliberate nothing: all of it data, none of it yet labeled. Capture the raw event before interpretation arrives to explain it. → app*
+*Here's the first move in the Architect's walk: you register before the mind decides. Something just happened — or notably, didn't. A release, a shift, a flicker, or a deliberate nothing: all of it data, none of it yet labeled. Capture the raw event before interpretation arrives to explain it. → app*
 
 ---
 
@@ -353,7 +353,7 @@ Name your fear. Whatever name you've given it — give it a voice. Let it speak.
 
 When you're ready, keep walking.
 
-*Fear is a channel — it carries information before it carries meaning. What did it feel like before you named it? Not the story the fear was running — the physical event itself, the place it landed, the way it moved or stayed still. And then: what name did you give it? The sensation first, then the name. The naming is the move that makes it usable. → app*
+*Fear is a channel — it carries information before it carries meaning. What was it, before you named it? Not the story the fear was running — the event itself, the way it moved or stayed still. And then: what name did you give it? The signal first, then the name. The naming is the move that makes it usable. → app*
 
 ---
 

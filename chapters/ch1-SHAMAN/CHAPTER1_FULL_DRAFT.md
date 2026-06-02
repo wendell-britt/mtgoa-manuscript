@@ -8,7 +8,7 @@
 
 The world is not fine.
 
-You know this. Not from reading about it — from the jaw that tightened in a meeting that went sideways. From the weight that settled in your chest when a community that was supposed to hold didn't. From the low hum of something wrong that arrives before you have language for it.
+You know this. Not from reading about it — from the meeting that went sideways and the silence you carried to the car afterward. From the community that was supposed to hold and didn't. From the low hum of something wrong that arrives before you have language for it.
 
 The thing you noticed first was probably small. A conversation that went wrong. A relationship that fractured over something that shouldn't have been able to break it. A moment when you showed up to help and found out that helping had made it worse.
 
@@ -76,7 +76,7 @@ This is the failure mode we're building a way out of.
 
 ### What's Different Now
 
-Something has shifted. You can feel it in your body — a tightening that doesn't quite release between hard conversations, a vigilance that used to have a clear target and now just hums.
+Something has shifted. The conversations sit heavier and let go slower; a vigilance that used to have a clear target now just hums with no off-switch.
 
 The conversations come with more charge. Coalitions that held through the last hard thing are fraying at edges that shouldn't be weak. The feedback — when it comes — comes fast, doesn't wait for you to be ready, doesn't come with enough context to land cleanly. And the language keeps shifting, not because people are moving the goalposts but because the situation is actually moving, and the words you practiced last year don't cover the new terrain. You can feel yourself falling behind. You can't name what falling behind even means.
 
@@ -325,7 +325,7 @@ If Chapter 1 has a home gate, this is it.
 That shift turns Protector from saboteur into scout. It still protects you, but it no longer runs the whole interaction.
 
 **Worked example (meeting under pressure):**
-You get challenged in a team meeting and feel your chest tighten. Old Protector move: go cold, over-explain, and make the room prove it's safe before you speak honestly. New Protector move: pause, name one boundary, then stay present.
+You get challenged in a team meeting and the shutters come down before you've decided anything. Old Protector move: go cold, over-explain, and make the room prove it's safe before you speak honestly. New Protector move: pause, name one boundary, then stay present.
 
 - Boundary: "I'm open to challenge; I'm not available for personal attacks."
 - Next move: "Let's focus on the decision and the impact."
@@ -379,7 +379,7 @@ You pass this gate by taking the knob. You hold it. You show the Controller that
 
 When you're ready, keep walking.
 
-*You know which knob you've been holding. Name where the grip lives in your body — and what was trying to move through before the Controller reached for it. The charge has been waiting underneath. → app*
+*You know which knob you've been holding. Name what it's been holding down — and what was trying to move through before the Controller reached for it. The charge has been waiting underneath. → app*
 
 ### Gate 3 Deep Dive: Skeptic
 
@@ -599,7 +599,7 @@ Picture a real moment from your last month. A hard conversation. A call you dela
 
 Now walk it with the map:
 
-You enter the moment and feel your body tighten.  
+You enter the moment and the room narrows.  
 Protector says: *watch out.*
 
 You start rehearsing outcomes.  
@@ -646,19 +646,19 @@ Think of a charged situation from your last week. A conversation you replayed on
 
 Don't analyze it yet.
 
-Find it in your body first.
+Find it before you explain it.
 
-Where does it live? Chest, throat, jaw, belly — somewhere in there is a sensation that hasn't resolved. Find it.
+Not the story of what happened — the thing underneath the story, the part that's still unfinished. You already know where it announces itself; you don't need a map to find your own.
 
-Put your hand there if that helps.
+Stay with it a moment before you reach for words.
 
-Now: what is the sensation? Not the story. Not what happened or what you should have said. The sensation. Hot or cold. Tight or spacious. Moving or still.
+Then, only then: what is it? Let it be what it is, not what you think it should be.
 
-You don't have to know what it means. You just have to locate it.
+You don't have to know what it means. You just have to find it.
 
 That location is data. The Shaman's first move is always the same: find out where the information lives before deciding what to do with it. Before the script. Before the strategy. Before the conversation you're going to have in your head on the way home.
 
-*You just made the first move. Before the feeling fades — what you noticed, where it lived, what it might be trying to say. Open the app. Two minutes. It becomes yours.*
+*You just made the first move. Before the feeling fades — what you noticed, and what it might be trying to say. Open the app. Two minutes. It becomes yours.*
 
 ---
 

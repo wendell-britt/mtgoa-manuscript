@@ -162,13 +162,13 @@ This is the hardest stage for most people because it requires that you actually 
 
 Fear. Anger. Sadness. Joy. Neutrality.
 
-The feeling arrives before your thinking mind can name it. Your body tenses before you notice you're afraid. Your chest tightens before you realize you're angry. Your throat closes before you can say "sad."
+The feeling arrives before your thinking mind can name it. You're braced before you've registered the threat; the heat is already moving before you'd call it anger; the loss has landed before you reach the word "sad."
 
 The Wake stage is honoring that moment—not immediately trying to fix it, manage it, or convert it into something else. (The converting is very fast. You have been converting your whole life. The pause is the practice.)
 
 **In practice:** When you notice an emotional signal rising, name it. Internally. "Fear." "Anger." "Sadness." "Joy." "Neutrality."
 
-Where do you feel it in your body? Chest? Belly? Legs? Throat? Jaw? Let your nervous system have its full response for a moment. Don't judge whether the feeling is justified. Don't analyze why it's here. Just: this feeling is present. I notice it.
+Let it be as present as it actually is — you don't need to locate it on a map or talk it down. Don't judge whether the feeling is justified. Don't analyze why it's here. Just: this feeling is present. I notice it.
 
 This stage can take five seconds or can be ongoing—you keep noticing the feeling throughout the experience.
 
@@ -229,7 +229,7 @@ This is where the shift from dissatisfaction (the feeling is overwhelming, confu
 **In practice:** After you've understood what the feeling was showing you, spend a moment letting your nervous system know: "I get it. I understand what this was showing me. The message landed."
 
 This might look like:
-- A deep breath where you actually feel your body relax slightly
+- A breath that goes a little deeper than the one before it
 - A shift in your thinking from "why is this happening?" to "I see what this is teaching me"
 - A sense of resolve or clarity where before there was confusion
 - A feeling of being met—like the feeling has been witnessed and understood
@@ -518,7 +518,7 @@ The village took a thousand years to forget this. The Shaman's practice is how y
 
 Before you can alchemize, you need to see what you're working with.
 
-The WAVE-Spiral works with charge you're already feeling in your body — fear in the meeting, grief after the rupture, anger that arrived on schedule. But a lot of the charge that drains allyship doesn't arrive that way. It arrives dressed as someone else. The colleague who makes your jaw tighten. The movement leader whose certainty feels like a personal attack. The person who has become, in your inner world, a cartoon.
+The WAVE-Spiral works with charge you're already feeling — fear in the meeting, grief after the rupture, anger that arrived on schedule. But a lot of the charge that drains allyship doesn't arrive that way. It arrives dressed as someone else. The colleague you brace against on sight. The movement leader whose certainty feels like a personal attack. The person who has become, in your inner world, a cartoon.
 
 That charge is projection. And projection is shadow work waiting to happen.
 
@@ -526,7 +526,7 @@ Ken Wilber named this process in *Integral Life Practice*: the 3-2-1 shadow meth
 
 The **3-2-1 practice** metabolizes it in three vantage points: observe the charged figure in third person (3), talk with it in second person (2), own it as yours in first person (1). The energy you've been spending on them returns to your system — available for the WAVE-Spiral.
 
-When the charge is in a **person** — a figure who makes your jaw tighten — start with 3-2-1. You'll practice it fully in Chapter 3. Do WAVE first when the trigger is a *feeling already in your body*. Many hard moments need both.
+When the charge is in a **person** — a figure you brace against — start with 3-2-1. You'll practice it fully in Chapter 3. Do WAVE first when the trigger is a *feeling already moving in you*. Many hard moments need both.
 
 | Stuck because… | Tool |
 |----------------|------|
@@ -562,7 +562,7 @@ Draw a line. Name the poles. Mark where you are today. The dot is a diagnostic �
 3. **Mark your position** — which pole are you over-expressing? Which are you suppressing?
 4. **Design one integrated action** — one move that contains both poles, not A instead of B
 
-Use 3-2-1 when the trigger is a *person*. Use the Polarity Map when you're stuck between two things that both seem necessary. Use WAVE when the charge is already in your body and ready to move.
+Use 3-2-1 when the trigger is a *person*. Use the Polarity Map when you're stuck between two things that both seem necessary. Use WAVE when the charge is already moving in you and ready to act.
 
 *Full polarity reference: Appendix — Polarity Map. First draw: Chapter 4. First field practice: Chapter 6.*
 
@@ -625,7 +625,7 @@ Here we go.
 
 You arrive at the first gate and there's somebody there.
 
-You probably feel them before you see them. A tightness across your chest. A pull-back in your breath. A small voice—not loud, just steady—saying *not now. Not this one. Not today.* That's the Protector. They've been at this gate as long as you've been alive. Maybe longer. They learned their job in some moment you may or may not remember, and they have been on shift, without a break, ever since.
+You probably register them before you can see them. A narrowing. A quiet pulling-back. A small voice—not loud, just steady—saying *not now. Not this one. Not today.* That's the Protector. They've been at this gate as long as you've been alive. Maybe longer. They learned their job in some moment you may or may not remember, and they have been on shift, without a break, ever since.
 
 Notice what the Protector is *not* doing. They're not trying to hurt you. They're not the bad guy. They are standing at the entrance to a forest that, at some point, scared the hell out of you, and they have decided their job is to make sure you never get jumped in there again. They are, in their own way, the most loyal part of you.
 
@@ -776,7 +776,7 @@ Once you've named them, you can say: *I see you. I see what you're showing me. I
 
 When you're ready, keep walking.
 
-*What did the fear feel like in your body before you named it? Not after — before. The moment you noticed the production value on that movie. And then: what's the name you gave it? Both captures matter. The feeling is the signal. The name is the move. → app*
+*What did the fear show up as, before you named it? Not after — before. The moment you noticed the production value on that movie. And then: what's the name you gave it? Both captures matter. The feeling is the signal. The name is the move. → app*
 
 ---
 
@@ -911,7 +911,7 @@ Before you respond to anything, the Shaman's first move is to *feel the room.* N
 
 What emotion is actually present here beneath the words? Fear? Anger? Sadness? Joy? Numbness?
 
-Your body will know before your mind catches up. That flutter in your chest when something isn't being said. That tightness in your jaw when someone's performing instead of being real. That opening in your heart when genuine connection is present. That clarity when everyone in the room is on the same wavelength.
+You'll know before your mind catches up. The static when something isn't being said. The friction when someone's performing instead of being real. The ease when genuine connection is present. That clarity when everyone in the room is on the same wavelength.
 
 **In practice:** Before you say anything in a difficult conversation, take ten seconds. Close your eyes if you can. Feel the room. What's the emotional temperature? What's beneath the surface? What's the person in front of you actually feeling, not what they're saying?
 

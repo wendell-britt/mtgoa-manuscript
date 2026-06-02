@@ -233,7 +233,7 @@ You are in a meeting. Someone says something that crosses a line — not a catas
 
 Here is the Challenger's 30-second protocol:
 
-First, *feel the charge.* Don't suppress it. Let it arrive — the heat, the tightening. This is information. It is telling you that something just mattered.
+First, *feel the charge.* Don't suppress it. Let it arrive — whatever shape it takes. This is information. It is telling you that something just mattered.
 
 Second, *aim.* Ask yourself: what line was just crossed? Not the story you could tell about why this person is wrong. The actual line. *That community deserves to be spoken about with accuracy.* That's the line.
 
@@ -247,7 +247,7 @@ Most people skip all of this. Most people either say nothing (and resent the per
 
 **This is the rep. This week, run it once.** Not the hardest line you're avoiding — the next real one. A meeting, a thread, a room where something crosses and you'd normally let it go. Feel the charge, aim, act in one sentence, exit. Thirty seconds. You don't need it to land well. You need it to *exist in the room.*
 
-*You drew a line in the Village — or you watched yourself not. Before the story sets: what was the charge in your body, what did you actually say (or swallow), and what did it cost? Two minutes in the app, while it's still warm. → app*
+*You drew a line in the Village — or you watched yourself not. Before the story sets: what was the charge, what did you actually say (or swallow), and what did it cost? Two minutes in the app, while it's still warm. → app*
 
 **When the Line Has Been Crossed Before: The Reckoning**
 
@@ -435,7 +435,7 @@ The Protector almost never says no when you ask like that. What the Protector ca
 
 When you're ready, keep walking.
 
-*You said thank you and something happened — or it didn't. I'm not asking what you think about it. What did you feel, in the body, in the moment you said it? The tightening, the release, the surprise, or the nothing. Name it as it was. → app*
+*You said thank you and something happened — or it didn't. I'm not asking what you think about it. What happened in the moment you said it? The shift, the release, the surprise, or the nothing. Name it as it was. → app*
 
 #### Gate 2: The Controller
 
@@ -549,7 +549,7 @@ Find that voice. Give it a name. Say its name out loud. And then keep walking.
 
 When you're ready, keep walking.
 
-*The charge was running and you named it — gave it a name, stepped slightly outside it. Before the name landed, while it was just running: what channel was it? Anger, fear, sadness, joy, neutrality — one word, from your body, not your analysis. And: what did naming it free? → app*
+*The charge was running and you named it — gave it a name, stepped slightly outside it. Before the name landed, while it was just running: what channel was it? Anger, fear, sadness, joy, neutrality — one word, the channel itself, not your analysis. And: what did naming it free? → app*
 
 #### Gate 6: The Victim
 
@@ -611,7 +611,7 @@ So stay.
 
 When you're ready — and only when you're ready — keep walking.
 
-*You stayed with the Damaged Self instead of fixing them. That was the move — not the correction, the staying. What did it feel like to sit with the belief without arguing against it? Not the analysis. The felt sense of not moving. → app*
+*You stayed with the Damaged Self instead of fixing them. That was the move — not the correction, the staying. What was it actually like to sit with the belief without arguing against it? Not the analysis. The staying itself. → app*
 
 #### Gate 8: The Vulnerable Child
 
