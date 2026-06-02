@@ -1,6 +1,6 @@
 # SPEC.md — Chapter 6: The Diplomat
 ## *Green — Pluralistic / Relational / Inclusion*
-## *Your Walk-Away Price Defines the Power of What You Stay For*
+## *The Terms That Let You Stay Without Disappearing*
 
 ---
 
@@ -12,16 +12,18 @@
 | **Face** | Diplomat |
 | **Color** | Green |
 | **Altitude** | Socialized Relating |
-| **Status** | FULL DRAFT COMPLETE |
-| **Last updated** | 2026-04-20 |
+| **Status** | FULL DRAFT IN PROGRESS — Channel 5 rename applied 2026-05-24 |
+| **Last updated** | 2026-05-24 |
 
 ---
 
 ## Core thesis
 
-The terms under which you will walk away define the power of what you stay for.
+The Diplomat's gift is integrative negotiation — surfacing what each party is protecting, naming the stakes and sacrifices honestly, and closing toward terms the field can live with so that staying means something.
 
-The Diplomat's gift is not neutrality — it is the capacity to be a partisan who can still hold the field. To know your own walk-away price and name it, so that your staying means something.
+The Diplomat is a negotiator, not a neutral referee. Their gift is not neutrality — it is the capacity to be a partisan who can still hold the field. Everyone heard *and* something moves.
+
+**Lexicon note:** Ch0 **tokens/fuel** = personal energy economy. Ch6 **terms/stakes** = relational agreement. See `CHANNEL5_RENAME_MAP.md` and `CH0_TOKEN_BLEED_6FACE_ANALYSIS.md`.
 
 ---
 
@@ -29,7 +31,7 @@ The Diplomat's gift is not neutrality — it is the capacity to be a partisan wh
 
 - **Color:** Green
 - **Stage name:** Pluralistic / Relational / Inclusion
-- **Native material:** Relational field / multiplicity / bridging
+- **Native material:** Relational field / multiplicity / bridging / negotiation
 - **Core question:** How do you stay in relationship across difference without losing yourself?
 - **Superpower:** Honest multiplicity — standing for something AND making room for others
 
@@ -41,19 +43,19 @@ The Diplomat's gift is not neutrality — it is the capacity to be a partisan wh
 2. **The Translator** — rendering one camp's language into another's
 3. **The Field-Holder** — maintaining enough safety that difficult conversation can happen
 4. **The Repairer** — healing ruptures without pretending they didn't happen
-5. **The Price-Namer** — knowing and stating what would cause you to leave
+5. **The Integrative Negotiator** — surfacing stakes, interests, and sacrifices; closing with honest terms
 
 ---
 
 ## The stage sequence (5 stages)
 
-**Bridge → Translate → Hold → Repair → Name Price**
+**Bridge → Translate → Hold → Repair → Negotiate**
 
 1. **Bridge:** Enter the field. Make contact. Show up in relationship.
 2. **Translate:** Render what's happening in one camp's language into a form the other camp can hear.
 3. **Hold:** Maintain enough safety that the field doesn't collapse. Stay present through the hard part.
 4. **Repair:** When trust breaks — name it, name your part, stay.
-5. **Name Price:** Know what would cause you to leave. Say it. Let it define the power of your staying.
+5. **Negotiate:** Surface what each party is protecting. Name the terms of staying. Close — heard and something moves.
 
 ---
 
@@ -64,7 +66,7 @@ Five conversions of relational charge into bridge-building:
 1. **Disagreement → Dialogue** (not avoiding the conflict; having it differently)
 2. **Tribal loyalty → Chosen loyalty** (staying by choice, not obligation)
 3. **Inclusion-performance → Genuine inclusion** (making room because you actually want to, not because you should)
-4. **Accommodation → Honest accommodation** (making room without losing your walk-away price)
+4. **Accommodation → Honest terms** (making room without disappearing — agreement naming real stakes for all parties)
 5. **Moral equivalence → Discerned equivalence** (knowing which positions deserve equal weight and which don't)
 
 ---
@@ -74,7 +76,7 @@ Five conversions of relational charge into bridge-building:
 - **Bridge → Translate** (once connected, can render)
 - **Translate → Hold** (once understood, can stay present)
 - **Hold → Repair** (once holding, can heal)
-- **Repair → Name Price** (the healing reveals what you will and won't tolerate)
+- **Repair → Negotiate** (the healing reveals what each party actually needs from the agreement)
 
 ---
 
@@ -84,7 +86,8 @@ Five conversions of relational charge into bridge-building:
 - **Translate → False equivalence** (making everything sound the same)
 - **Hold → Over-accommodation** (staying past the point of integrity)
 - **Repair → Premature repair** (healing before the wound is named)
-- **Name Price → Ultimatum** (using the walk-away price as a weapon instead of a boundary)
+- **Negotiate → Endless process** (harmony without closure — everyone heard, nothing moves)
+- **Negotiate → Ultimatum** (leverage disguised as negotiation — cross-face Challenger shadow)
 
 ---
 
@@ -96,7 +99,7 @@ Five conversions of relational charge into bridge-building:
 | **Controller** | *If you stay in hard conversations you'll say something you'll regret. Stay pleasant.* | Contain the field at a manageable temperature. |
 | **Skeptic** | *Are these camps really ready to hear each other? Is this bridge even possible?* | Doubt the bridge before it collapses under load. |
 | **Fixer** | *Stop talking about the rupture — let's move forward. I want to fix this.* | Convert the repair into a shortcut so nobody has to feel the hard thing. |
-| **Fear** | *If you name your walk-away price, they'll leave. You'll lose the relationship.* | Rehearse abandonment before you can be genuine. |
+| **Fear** | *If you name what you actually need, they'll leave. You'll lose the relationship.* | Rehearse abandonment before you can be genuine. |
 | **Victim** | *I've tried bridging before and they used it against me. I can't be the neutral party.* | Keep the story alive of why you can't bridge. |
 | **Damaged Self** | *I'm too wounded to be a neutral party. Everyone can see my bias.* | Identify yourself as unfit for the field. |
 | **Vulnerable Child** | *I can still see the human in everyone. I believe connection is possible.* | Hold the superpower. |
@@ -105,7 +108,7 @@ Five conversions of relational charge into bridge-building:
 
 ## Through-line
 
-Your capacity to stay in relationship across difference without losing yourself or betraying what you stand for.
+Your capacity to stay in relationship across difference without losing yourself or betraying what you stand for — and to close agreements that hold.
 
 ---
 
@@ -119,9 +122,15 @@ Your capacity to stay in relationship across difference without losing yourself 
 
 1. **Name the Field** — State out loud what this conversation is actually about and what it is not.
 2. **Translate Across Camps** — Take what side A is saying and say it in side B's language.
-3. **Hold the Walk-Away Price** — Know what would cause you to leave this field, and say it.
+3. **Close with Honest Terms** — Surface stakes and sacrifices; name what the agreement must hold for everyone.
 4. **Repair After Rupture** — When trust breaks, name it, name your part, stay.
-5. **Refuse False Equivalence** — Not all positions deserve equal weight. Say so.
+5. **Refuse False Equivalence** — Not all positions deserve equal weight. Say so. (Discernment inside the Fire/negotiation channel.)
+
+---
+
+## Cross-face integration
+
+When negotiation fails — when someone refuses to name stakes, or harmony is cover for harm — the **Challenger's** clean no is the next move. Negotiate first. Line when the field cannot hold truth. (Ch3 owns cost and exit.)
 
 ---
 
@@ -173,10 +182,14 @@ The Diplomat can hold multiple camps at a single altitude but cannot see all 6 a
 
 ## Open questions
 
-- Q1: Walk-away price — centerpiece of Section 4 or a Section 6 move? → **Resolve before drafting**
+- Q1: ~~Walk-away price — centerpiece~~ → **RESOLVED:** Integrative Negotiator + Close with Honest Terms (2026-05-24)
 - Q2: Any specific examples of a bridge you built that worked? (Wendell)
 - Q3: Any specific ruptures you've repaired? (Wendell)
+- Q4: Draft Channel 5 practice section (Integrative Negotiator) — pending Context A
 
 ---
 
-## Spec status: ✅ COMPLETE (draft delivered)
+## Spec status: ✅ ARCHITECTURE UPDATED — Channel 5 prose pending
+
+**Rename ledger:** `CHANNEL5_RENAME_MAP.md`  
+**6-face analyses:** `CH6_CHANNEL5_6FACE_ANALYSIS.md`, `CH0_TOKEN_BLEED_6FACE_ANALYSIS.md`

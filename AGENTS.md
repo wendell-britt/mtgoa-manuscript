@@ -5,6 +5,13 @@
 MTGOA manuscript — lives in `/home/workspace/manuscripts/`
 Syncs to Obsidian via `The-Library/The Library/` (workspace) → Mac
 
+## Canonicality
+
+**Rule:** Obsidian is the canonical home for MTGOA manuscript content and editorial state.
+**Rule:** No canonical write happens without Wendell's conscious approval.
+**Rule:** Files in `/home/workspace/manuscripts/` are working exports, verification surfaces, or derived artifacts unless explicitly marked otherwise.
+**Rule:** If an agent drafts or rewrites text outside Obsidian without approval, that text is a proposal, not canon.
+
 ## Editing Protocol
 
 When asked to edit, run the WAVE Editing Spiral:
@@ -28,6 +35,8 @@ cd /home/workspace/manuscripts && git add chapters/... && git commit -m "edit: [
 
 Each chapter lives at:
 `chapters/ch[N]-[FACE]/CHAPTER[N]_[FACE]_FULL_DRAFT_MASTER.md`
+
+These chapter files are the current workspace export surface. Do not treat them as co-equal canon with Obsidian.
 
 ## Companion Files
 

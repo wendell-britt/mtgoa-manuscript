@@ -8,7 +8,9 @@
 
 The world is not fine.
 
-You know this. You've been watching it for years, maybe longer. The thing you noticed first was probably small. A conversation that went wrong. A relationship that fractured over something that shouldn't have been able to break it. A community that was supposed to hold and didn't. A moment when you showed up to help and found out that helping had made it worse.
+You know this. Not from reading about it — from the jaw that tightened in a meeting that went sideways. From the weight that settled in your chest when a community that was supposed to hold didn't. From the low hum of something wrong that arrives before you have language for it.
+
+The thing you noticed first was probably small. A conversation that went wrong. A relationship that fractured over something that shouldn't have been able to break it. A moment when you showed up to help and found out that helping had made it worse.
 
 You didn't have a name for it then. You just had the feeling. The one that shows up late at night, or early in the morning, or in the middle of a conversation that's going fine on the surface and is completely wrong underneath.
 
@@ -16,17 +18,25 @@ The feeling is this: *this isn't working.*
 
 Not you. Not your effort. Not your intentions.
 
+That hum doesn't go away when you put down the phone. It's in the body before it's in the mind, and it doesn't resolve with the next action item.
+
 The whole thing has a structural flaw:
 
 **We keep trying to fix the village without knowing what's in us.**
 
-We see a problem. We respond. We post, we protest, we donate, we sign, we share, we speak up, we show up. Then we wonder why three months later the problem is still there, or worse, is bigger, or has transformed into something that our original response can't touch.
+We see a problem. We respond. We post, we protest, we speak up, we show up. Then we wonder why three months later the problem is still there, or worse, is bigger, or has transformed into something that our original response can't touch.
 
-We wonder why we're exhausted. Why we're burned out. Why the allyship feels like more than we can carry.
+We wonder why we're exhausted. Why we're burned out. Why the allyship feels like more than we can carry. (Some of us have been calling this burnout for five years. Burnout names the depletion. It doesn't name the cause.)
 
 And if we're honest with ourselves, we've also been the one who couldn't hold it. Who froze. Who said the wrong thing. Who meant well and made it worse. Who showed up wanting to help and left feeling like the problem was us.
 
-*That feeling is the shadow.*
+*That feeling is the Shadow.*
+
+The Shadow is not a flaw. Carolyn Elliott, whose work on shadow retrieval is the intellectual ground for the gate practice in this book, was precise about this: the Shadow is the material you disowned — a pattern that has been doing something specific for you. It protected you when protection was what you needed. It made sense once.
+
+Hold the word, because the whole book turns on it. The **Shadow** is the disowned material itself. When one of your Faces runs *from* that material instead of being chosen, you get that **Face in distortion** — the gift turned against the room. And every gate you walk has a **cost** if you pass it without meeting what it guards. One word each: Shadow, distortion, cost. They are not the same thing, and the work is to tell them apart.
+
+The gate practice doesn't ask you to fix the Shadow — it asks you to find out what it has been protecting. That is a different project entirely, and it produces different results.
 
 Here's why: we're trying to navigate terrain we haven't mapped. We're trying to be allies in a world that demands capacities we were never taught to build. We don't build them because we weren't told the work starts somewhere deeper than performative showing up.
 
@@ -42,13 +52,13 @@ The old allyship's fatal flaw was mistaking information for transformation.
 
 It had a theory of change. It went like this:
 
-*Learn the right information. Feel the right feelings. Take the right actions. And if enough people do this, the world will change.*
+*Learn. Feel. Act.*
 
 This theory is not wrong. It's incomplete. The old allyship produced real wins: doors that opened, conversations that happened, power that shifted in small amounts, temporarily, in specific places. And it also produced a generation of exhausted practitioners who kept burning out on good intentions. Both of these things are true.
 
-It's incomplete the same way a recipe is incomplete if it tells you what to cook but doesn't tell you that you need to be in a specific state to cook well. Not hungry. Not furious. Not dissociated. Not running on three hours of sleep because you've been doom-scrolling since midnight.
+You bring your body to every one of those actions. Sometimes it's the body that showed up after three hours of sleep and a guilt spiral. Sometimes it's the body that has been bracing since the morning meeting. The old allyship doesn't ask about that. It assumes the person executing the right actions has the body to do it.
 
-The old allyship tells you what to do. It doesn't tell you how to be the kind of person who can do it sustainably. Who can show up in the hardest moments without freezing. Who can hold complexity without collapsing. Who can take feedback without disappearing. Who can stay in the room when the room is on fire.
+The old allyship tells you what to do. It doesn't tell you how to be the kind of person who can do it sustainably. Who can show up in the hardest moments without freezing. Who can hold complexity without collapsing. Who can take feedback without disappearing. Who can stay in the room when it gets hard.
 
 The old allyship produces moments of brilliance and long stretches of exhaustion. It produces people who care enormously and accomplish less than they could because they keep hitting the same wall. The wall that's not in the world, it's in them.
 
@@ -56,19 +66,19 @@ The old allyship produces moments of brilliance and long stretches of exhaustion
 
 *That cost is still there. You've been carrying it. Some of the exhaustion you've been calling burnout is actually grief: the grief of having done your best with a broken map. The grief of loving the work and having it not be enough. The grief of showing up and not being enough. Not because you failed. Because the terms were set wrong from the beginning.*
 
-*That grief is not a weakness. It's information. It means you cared enough to try. And it means you're ready to try differently now.*
+*That grief is not a weakness. It's information.*
 
 Every time we hit the wall, we have a choice: turn back, or go through.
 
-Most people turn back. Or they push through without going through, which is to say they override the wall, exhaust themselves, and eventually collapse. Or they do the inner work in private and never figure out how to bring it back to the village.
+Most people turn back. The ones who don't push through instead of going through — they override the sensation, run on fumes, and eventually the body stops cooperating. Or they do the inner work in private and never find the way to carry it back to where it's needed.
 
 This is the failure mode we're building a way out of.
 
 ### What's Different Now
 
-Something has shifted. You can feel it in your body.
+Something has shifted. You can feel it in your body — a tightening that doesn't quite release between hard conversations, a vigilance that used to have a clear target and now just hums.
 
-The conversations are harder. Coalitions are more fragile. Feedback loops are faster and more brutal. The people who need help are more specific than broad movement scripts can hold. The systems you're trying to change have adapted to your tactics. The language keeps changing and you can never quite catch up.
+The conversations come with more charge. Coalitions that held through the last hard thing are fraying at edges that shouldn't be weak. The feedback — when it comes — comes fast, doesn't wait for you to be ready, doesn't come with enough context to land cleanly. And the language keeps shifting, not because people are moving the goalposts but because the situation is actually moving, and the words you practiced last year don't cover the new terrain. You can feel yourself falling behind. You can't name what falling behind even means.
 
 And the inner work, the part most trainings skip, keeps showing up as the chokepoint.
 
@@ -86,7 +96,7 @@ The Forest is not a metaphor for self-care. It's not a retreat from reality. It'
 
 The world is not fine. The people trying to fix it keep running into the same problem: themselves.
 
-This chapter is the threshold map for that inner terrain.
+This chapter is the threshold map.
 
 ---
 
@@ -97,7 +107,7 @@ Before you entered this chapter, you were already playing.
 
 Not because you chose to. Because the game was already running.
 
-Every workplace conflict, every family rupture, every coalition meeting where people nodded and left resentful, every moment where you chose silence, performance, attack, appeasement, or repair, those were all game moves. The board is social reality. The stakes are human dignity, trust, and who gets to belong.
+Every workplace conflict, every family rupture, every coalition meeting where people nodded and left resentful, every moment where you chose silence, performance, attack, appeasement, or repair, those were all game moves. When you see it as pattern, the incidents don't look the same after that. The board is social reality. The stakes are human dignity, trust, and who gets to belong.
 
 Most of us were trained to treat these moments like isolated incidents. They are not isolated. They are connected rounds in one larger game:
 
@@ -112,8 +122,6 @@ That's the pivot Chapter 1 needs from you. We are not pretending life is tidy or
 
 The Forest is where you learn to interrupt automatic play.
 
-In village mode, you optimize for looking right inside a single round. In forest mode, you learn what keeps repeating across rounds and why. That is the difference between momentary correctness and durable transformation.
-
 You don't need to master the whole game today. You need to become a conscious player in the next move.
 
 For the full game taxonomy and mechanics background, see Chapter 0: **The Infinite Arcade**. Chapter 1 uses that frame only as a bridge into inner work.
@@ -125,7 +133,9 @@ For the full game taxonomy and mechanics background, see Chapter 0: **The Infini
 
 The Forest is not a place you find. It's a place you may not realize you've been circling.
 
-You showed up. You listened. You went to the training and listened there too. You read the book and adjusted your language and listened more carefully after that. You asked better questions. You stopped centering yourself, or tried to. You checked your assumptions. You sat with discomfort. You did the thing where you don't speak first.
+You know the feeling: the moment after a hard conversation when you're rehearsing what you should have said. The 2am inventory of what went wrong. The way the same pattern keeps surfacing in different rooms, with different people, wearing different faces. That's not anxiety. That's the edge of the Forest. You've been orbiting it.
+
+You showed up. You listened. You went to the training and listened there too. You read the book and adjusted your language and listened more carefully after that. You asked better questions. You stopped centering yourself, or tried to. You checked your assumptions. You sat with discomfort. And somewhere in all of that, your body learned to hold very still.
 
 And at some point, without quite knowing when, you stopped being able to tell if any of it was working.
 
@@ -137,7 +147,11 @@ Were you doing this to change something, or to seem like the kind of person who 
 
 That question is not an indictment. It's a starting point.
 
-The problem is not that you wanted to be good. The problem is that trying to seem good is often more expensive than making a difference. It costs more energy, produces less impact, and forces you to keep wearing a face that doesn't match what's happening underneath.
+The meeting where the room went cold. Your body knew exactly what was happening — had known before anyone spoke — and you deferred to the consensus. Not because you lacked the capacity. Because body knowing, in your framework, belongs to people closer to their roots. Claiming it felt like appropriation. So you built the literacy and didn't use the read.
+
+The body that knew was not appropriating anything. It was yours. The Shaman's first move is available to you. The question this chapter is asking is whether you'll stop treating your own somatic intelligence as something that belongs to someone else.
+
+The problem is not that you wanted to be good. The problem is that trying to seem good takes the whole body. There's nothing left over. The face you're holding in place and the face underneath it are running simultaneously, and that split is where the exhaustion actually lives.
 
 In the village, the mask makes sense. There is an audience. There are roles to play, relationships to manage, impressions to maintain.
 
@@ -169,8 +183,6 @@ The path through the Forest runs through gates. Each gate is a threshold where s
 
 This chapter is the trailhead.
 
-The gate is already open.
-
 The only question is whether you're ready to stop circling.
 
 ---
@@ -178,17 +190,37 @@ The only question is whether you're ready to stop circling.
 ## Section 4: Origin Story
 ### *Where This Map Came From*
 
-This framework did not start as a theory. It started as failure in the field.
+The origin of this book is a rock in my shoe.
 
-Again and again, the same pattern appeared: smart, caring people did the "right" allyship moves in public and still watched trust collapse in private. Teams could name justice values and still reproduce harm under pressure. Individuals could master the language and still freeze, attack, appease, or disappear when it mattered.
+George Floyd was murdered in May of 2020. My phone started filling up — white friends, mostly, checking in, asking if I was okay. And I was glad they called. Something in the reaching out mattered.
 
-The early assumption was tactical: maybe we needed better scripts, better facilitation, better policy language. Those helped, but they did not solve the repeating pattern. The repeating pattern lived upstream from tactics.
+But there was also something else.
 
-The real bottleneck was internal capacity. People's protective patterns were running the moment before the strategy. Once that became visible, the work changed. Instead of asking only "What should we do?" the deeper question became "Who are we being when pressure rises, and what is that costing everyone?"
+A sensation I couldn't name. Small enough that I almost dismissed it — just a low friction, persistent, the way a stone in your shoe is not agony but is also not nothing. I had learned enough by then to know that small is not the same as unimportant. So I followed it.
 
-That question generated this map: Forest before Village. Gates before performance. Integration before influence. Not because outer action doesn't matter, but because outer action keeps collapsing when inner terrain is unknown.
+What I found was rage.
 
-This chapter is the threshold version of that origin. You don't need the whole history to use the map. You only need to recognize the pattern: if the same breakdown keeps happening, the next move is not more performance. The next move is entering the Forest on purpose.
+Not grief. Rage. (The body is specific like that.)
+
+Here is the part I did not say out loud: the rage was not new.
+
+I had learned, for reasons that started early and went deep, to keep my feelings below the waterline — away from other people's awareness, and often away from my own. What this produces is a permanent low-grade charge that the people around you have no idea is there. The rage wasn't new. I had just gotten very good at not knowing it was there.
+
+The rock in my shoe was not a pebble. It was the tip of something that went down a long way.
+
+My friends were calling to see if I was okay. They were not okay — they were disturbed, shaken, holding something they didn't know how to hold — and they were delivering it to me, gift-wrapped as concern. I was the only Black person most of them knew. My wellbeing had become a stand-in for all of Black America's wellbeing. The call that was supposed to support me was asking me to hold their unprocessed feelings about a Black man's murder.
+
+I was not okay. But not for the reasons they assumed.
+
+The shamanic training I'd been doing said: everything can be used. Nothing is waste. The anger that shows up is not a malfunction. It is signal. It is starting material. The Shaman's job is not to manage the feeling into something acceptable. The Shaman's job is to find what the feeling is trying to build.
+
+So I built something.
+
+The first version of Mastering the Game of Allyship was written in that anger. Not despite it — from it. Because my friends didn't need someone to absorb their feelings. They needed tools. And I had spent years building tools that could do exactly this, and no one had thought to aim them at allyship yet.
+
+The book is the alchemy.
+
+Not from a framework. Not from a research review. From a rock in my shoe.
 
 ---
 
@@ -213,7 +245,7 @@ The Diplomat asks: *Why do your attempts to bring people together keep falling a
 
 The Sage asks: *Why does knowing so much still leave you feeling lost?*
 
-One of those questions hit different.
+One of those questions hit different. (If more than one hit, start with the one that made you slightly uncomfortable.)
 
 That's your guide.
 
@@ -226,6 +258,8 @@ That's your way in.
 
 The Forest is not one moment. It's a sequence.
 
+The gate architecture comes from Genpo Roshi (Dennis Genpo Merzel), a Zen teacher who developed the Big Mind Process — a practice of meeting each of the mind's voices directly, giving them their full dignity, and asking what they've been protecting. His core insight: you don't eliminate a voice that's been doing a job for you. You talk to it. You find out what it has been protecting. You give it a narrower, more specific job. The eight gates in this book are Genpo's voices applied to allyship — the same principle aimed at the specific terrain where allied practice keeps failing.
+
 It's eight gates. Not eight personality types. Not eight boxes. Eight recurring thresholds where your old pattern surfaces and asks whether you'll run it again or meet it directly.
 
 You don't master all eight in one pass. You learn to recognize where you are and make one honest move at a time.
@@ -235,42 +269,42 @@ Here is the preview map:
 1. **Protector Gate**  
    The voice that says: *it is not safe here.*  
    Gift: vigilance and boundary sensing.  
-   Shadow: permanent guardedness.
+   Cost: permanent guardedness.
 
 2. **Controller Gate**  
    The voice that says: *if I lose control, everything breaks.*  
    Gift: responsibility and execution.  
-   Shadow: over-functioning and rigidity.
+   Cost: over-functioning and rigidity.
 
 3. **Skeptic Gate**  
    The voice that says: *this won't work, don't get naive.*  
    Gift: discernment and pattern detection.  
-   Shadow: preemptive cynicism.
+   Cost: preemptive cynicism.
 
-4. **Performer Gate**  
-   The voice that says: *be good, be impressive, be untouchable.*  
-   Gift: social fluency and signal awareness.  
-   Shadow: image over truth.
+4. **Fixer/Healer Gate**  
+   The voice that says: *something is broken and I need to fix it.*  
+   Gift: the drive to repair, restore, and make things right.  
+   Cost: fixing persons instead of circumstances; holding broken systems in place.
 
-5. **Judge Gate**  
-   The voice that says: *someone must be wrong, and I know who.*  
-   Gift: moral clarity and standards.  
-   Shadow: purity loops and punishment reflex.
+5. **Emotional Body Gate**  
+   The voice that says: *something is happening in here and I don't know what to do with it.*  
+   Gift: the full spectrum of emotional intelligence — fear, grief, anger, shame, joy.  
+   Cost: emotions running unprocessed, or suppressed entirely.
 
 6. **Victim Gate**  
    The voice that says: *this was done to me, so I cannot move.*  
    Gift: truth-telling about harm.  
-   Shadow: frozen agency.
+   Cost: frozen agency.
 
 7. **Damaged Self Gate**  
    The voice that says: *this is just who I am now.*  
    Gift: realism about wounds.  
-   Shadow: identity fused with injury.
+   Cost: identity fused with injury.
 
 8. **Vulnerable Child Gate**  
    The voice that says: *if you see me, you'll leave.*  
    Gift: aliveness, creativity, and your core signal.  
-   Shadow: exile from your own source.
+   Cost: exile from your own source.
 
 ### Gate 1 Deep Dive: Protector
 
@@ -280,7 +314,7 @@ If Chapter 1 has a home gate, this is it.
 
 **Protector's gift:** fast danger detection. The Protector reads tone shifts, power moves, and unspoken threat before most of your conscious mind catches up. This is intelligence, not pathology.
 
-**Protector's shadow cost:** when unexamined, vigilance hardens into permanent guardedness. You pre-defend in rooms that are not attacking you yet. You trade contact for control, and call that safety.
+**Protector's cost:** when unexamined, vigilance hardens into permanent guardedness. You pre-defend in rooms that are not attacking you yet. You trade contact for control, and call that safety.
 
 **Repurpose move:** thank the Protector, then give it a narrower job.
 
@@ -298,6 +332,8 @@ You get challenged in a team meeting and feel your chest tighten. Old Protector 
 
 Result: you keep the gift (boundary sensing) and drop the tax (total shutdown). That is Gate 1 practice.
 
+*You've walked into this gate before — probably recently. The room where the armor arrived before the threat did. Name the gap between the real risk and what the Protector was reacting to. That gap has been costing you something. → app*
+
 ### Gate 2 Deep Dive: Controller
 
 A few steps past the Protector, if you kept walking, you would feel it.
@@ -312,7 +348,7 @@ But the Controller is wrong about now.
 
 The Controller is gripping the knob the way it did when you were small — when the charge really was too much, when the world really did get small, when the only option really was to hold down hard and survive. The Controller learned its job in a past that is not this past. The Controller is protecting you from something that already happened.
 
-Here's what the Controller won't tell you: it is exhausted. The grip is heavy. The knob has been held so long the Controller's hand has forgotten how to let go. The Controller wants a break. The Controller has wanted a break for years. But the Controller cannot let go until someone shows up and says: *I can hold this now. I'm going to take it from here.*
+Here's what the Controller won't tell you: it is exhausted. The grip is heavy. The knob has been held so long the Controller's hand has forgotten how to let go. The Controller wants a break. The Controller has wanted a break for years. (You already knew that. The grip is heavy. That is not news.) But the Controller cannot let go until someone shows up and says: *I can hold this now. I'm going to take it from here.*
 
 You are that someone.
 
@@ -343,7 +379,189 @@ You pass this gate by taking the knob. You hold it. You show the Controller that
 
 When you're ready, keep walking.
 
-**Gate 3 and beyond** follow the same pattern: name the gate, acknowledge its job, relieve it of the burden, walk through. Each gate is a part of you that learned to protect you in some specific way. Each one is still on duty. Each one can be thanked and walked past when you're ready.
+*You know which knob you've been holding. Name where the grip lives in your body — and what was trying to move through before the Controller reached for it. The charge has been waiting underneath. → app*
+
+### Gate 3 Deep Dive: Skeptic
+
+The Skeptic arrives before the conversation is over.
+
+You can feel it — the quiet contraction, the way something in you is already deciding this won't work before the proposal has finished being proposed. The Skeptic has been here before. It knows how this goes.
+
+**Common trigger:** any plan that sounds cleaner than experience suggests it should, any optimism that feels unearned, any room where enthusiasm is being asked for before the evidence is in.
+
+**Skeptic's gift:** real discernment. The Skeptic has watched the same pattern fail enough times to read it early. That pattern recognition is not cynicism — it is compressed history. The Skeptic knows where the gap between what gets said and what gets done usually lives.
+
+**Skeptic's cost:** the verdict arrives before the data. The Skeptic pre-closes possibilities to avoid being disappointed. The people in the room feel it — the energy that says *you probably won't deliver on this* before they've had the chance to try.
+
+**Repurpose move:** use the pattern recognition to ask the one question the proposal hasn't answered yet.
+
+- "What's the part of this most likely to fail?"
+- "What would make me update this read?"
+- "What's one concrete test we could run in the next two weeks?"
+
+That shift converts preemptive verdict into useful interrogation. The Skeptic's intelligence stays. The preemptive closing doesn't.
+
+**Worked example (new initiative):**
+Your organization launches a new equity initiative. The Skeptic says: *we've done this before and it didn't hold.* Old move: detachment and private dismissal. New move: ask the gap question in the room — "What's the accountability structure if momentum drops after month two?" The Skeptic's discernment just made the initiative more likely to work.
+
+*The Skeptic has a standing verdict. You know what it says in the rooms where something real is being offered. Write it down before the Skeptic audits your writing it. What's the preemptive case it runs? → app*
+
+---
+
+### Gate 4 Deep Dive: Fixer/Healer
+
+The Fixer/Healer is the gate most people mistake for allyship itself.
+
+You want to help. You want to repair. You want to make it better. The whole reason you're here is that something is wrong and you believe you can do something about it. The Fixer/Healer is not the enemy. It is, in fact, the impulse that got you into this work.
+
+But "fix" has two opposite meanings in English: to repair, and to hold in place. Both versions of the Fixer show up in allyship — and both cause damage when they run without supervision.
+
+**Common trigger:** visible harm, injustice, suffering, any situation where something is clearly wrong and action feels possible.
+
+**Fixer/Healer's gift:** the drive to repair what is genuinely broken and restore what has been lost. When aimed at circumstances — systems, structures, conditions — this is one of the most powerful capacities in the work.
+
+**Fixer/Healer's cost:** two failure modes running simultaneously.
+
+*The repairing Fixer* tries to fix persons. People are not objects. You cannot fix a person. Healing is an inside job — it can only be done by the person themselves. The Fixer who tries to fix people (their feelings, their perspective, their pain) substitutes their own judgment for the other person's autonomy. Well-intentioned. Harmful.
+
+*The holding Fixer* tries to fix broken situations in place — stabilizing dysfunction because change is more threatening than the current harm. This is the coalition leader who manages conflict rather than resolving it, the facilitator who keeps uncomfortable truths from surfacing because surfacing them would break the room.
+
+**Repurpose move:** aim the Fixer's gift at circumstances, not persons.
+
+- "What is the specific condition I can actually change here?"
+- "Am I trying to fix this person, or fix what they're dealing with?"
+- "What would the situation look like if the right circumstances were in place?"
+
+**Worked example (supporting a colleague):**
+A colleague is struggling after a difficult encounter. Old Fixer move: problem-solve, offer advice, tell them what they should do — fix the person. New move: fix the circumstance. What does this person actually need? Space, information, an advocate, a resource? Give them that. Let the healing be theirs.
+
+The Fixer's gift, aimed correctly, builds the conditions where people can heal and contribute on their own terms. That's the whole point of allyship.
+
+*Which version of the Fixer has been running — the one trying to fix persons, or the one holding dysfunction in place? Not the category. Name the specific situation where you felt the impulse arrive, and what you actually did. → app*
+
+---
+
+### Gate 5 Deep Dive: Emotional Body
+
+The Emotional Body is not one voice. It is five.
+
+Fear. Grief. Anger. Shame. Joy.
+
+Each one is a distinct signal. Each one carries specific intelligence. And most people in allyship have a complicated relationship with all five — they've been taught which ones are acceptable (anger at injustice: yes; fear: managed, not named; grief: moved through quickly; shame: repackaged as accountability; joy: useful as fuel, not as information).
+
+**Common trigger:** any high-stakes situation where the emotional charge arrives before you know what to do with it. The feeling is real. You don't have the language yet. And the room is expecting you to act.
+
+**Emotional Body's gift:** the full intelligence of the human nervous system. Fear tells you where the real risk is. Grief tells you what mattered. Anger tells you where a boundary was crossed. Shame tells you where your values and your behavior split. Joy tells you when something is aligned.
+
+These are not obstacles to clear thinking. They are the clearest thinking your body can do.
+
+**Emotional Body's cost:** charge that runs unprocessed or gets suppressed entirely. Unprocessed emotional charge doesn't disappear — it shows up sideways. As disconnection. As reactivity. As the exhaustion that comes from managing what you haven't metabolized. In allyship: as performed empathy that isn't felt, as anger misdirected, as shame that collapses into paralysis instead of repair.
+
+**Repurpose move:** locate the signal before you act on it.
+
+- "What am I actually feeling right now — not what I should feel, what I feel?"
+- "Which of the five channels is this?"
+- "What is this feeling trying to tell me about what's true here?"
+
+You don't have to resolve the feeling before you act. You have to locate it. That location changes what you do next.
+
+**What this gate opens into:** Chapter 2 is the full teaching — the WAVE-Spiral, the practice of emotional alchemy, how to metabolize each channel in real time. Gate 5 is the threshold. Naming the charge is the first move. The rest is practice.
+
+*One channel you've been managing instead of naming. Not the story about it — the channel itself. Anger, fear, grief, shame, or joy: which one has been doing work in your allyship that you haven't asked it to do? Name the signal before you decide what it means. → app*
+
+---
+
+### Gate 6 Deep Dive: Victim
+
+Most allyship is a Drama Triangle in costume.
+
+Karpman mapped it fifty years ago: Victim, Villain, Rescuer. The Victim tells stories about harm to get sympathy. The Villain holds the triangle together by being the enemy. The Rescuer shows up to help — and needs the Victim to stay a Victim in order to feel useful. Three roles, one locked system. Nobody moves.
+
+Here's what this means for allyship: allies don't just encounter the Victim gate — they perform it in two directions.
+
+*Seeking victims to rescue* — the ally unconsciously needs someone to save. They are drawn toward the most damaged story, the most visible suffering, the person whose situation lets the ally play hero. They call it justice. It is the Rescuer role in full operation.
+
+*Self-victimization* — the ally makes themselves the protagonist of a marginalized person's story. "I'm such a terrible person for what I said." The focus shifts from the harm done to someone else to the ally's internal crisis about having done it. The person who was harmed is now managing the ally's feelings about harming them.
+
+Both patterns keep the Drama Triangle running. The Victim voice isn't only in the people being "helped." It is in the helpers too.
+
+The Victim's stories are not necessarily false. What happened, happened. But the Victim tells the story for sympathy, not for truth. And the Victim will exaggerate to keep the drama going, because the Rescuer's attention is what the drama runs on.
+
+**Distinction that matters:** the Damaged Self (Gate 7) has actually taken the damage. The Victim tells stories about it. These are not the same thing. The Damaged Self doesn't engage in drama — it is too busy surviving.
+
+**Repurpose move:** step off the triangle.
+
+See the person you're allying with as a Hero — someone authoring their own story — not a Victim waiting to be rescued. Let the Rescuer role in you become an Ally role: someone who holds space, who works toward their own obsolescence, who succeeds when they are no longer needed in that role.
+
+The Drama Triangle runs on: Victim → Villain → Rescuer.
+
+The Allyship Triangle runs on: Hero → Challenger → Ally.
+
+The Victim becomes the Hero: protagonist of their own story, not waiting to be rescued.
+The Villain becomes the Challenger: the one willing to name what's wrong without becoming the enemy.
+The Rescuer becomes the Ally: holding space, not taking over.
+
+The Ally's job is to make themselves unnecessary. That's what winning looks like here.
+
+*Where has the Drama Triangle been running in your allyship — as the Rescuer needing a Victim, or as the Victim making yourself the protagonist? Not the category. Name the specific room or relationship where it's been circulating. → app*
+
+---
+
+### Gate 7 Deep Dive: Damaged Self
+
+The Damaged Self has survived everything.
+
+Not a story about the damage. The actual accumulated weight of it, absorbed and still standing. The Damaged Self does not tell you what happened to it. The Damaged Self just keeps going.
+
+This is the essence of "did you die though." Not as a taunt. As a fact. The damage was real. The Damaged Self took it. And it did not die. The Damaged Self is the most durable thing in the room, and most allies walk right past it.
+
+**Here is the failure mode:** allies see the Victim narrative (Gate 6) and engage with it. They see the story of harm and respond with charity, parental energy, the need to protect. They treat as fragile someone who is actually undefeated. The Damaged Self doesn't need the charity. It has survived things that would have broken the ally.
+
+The allyship that misses the resilience and responds only to the damage is not actually ally work. It is the Rescuer role in the Drama Triangle, looking for Victims to rescue, and finding them — because when you approach someone with parental energy, the framing of the encounter shapes what they show you.
+
+The most common allyship failure with the Damaged Self is not cruelty. It is missing the person in front of you — the one who has survived — and responding to your projection of how damaged they must be.
+
+**Distinction from Victim:** the Victim tells the story about the damage. The Damaged Self doesn't need to tell it. The Damaged Self doesn't engage in drama. It is too busy surviving.
+
+**When the Vulnerable Child (Gate 8) is leading:** the Damaged Self shifts its function. It no longer just endures — it calibrates. It knows the difference between damage that breaks and damage that builds. It knows which difficult things are necessary for growth. The Damaged Self becomes the one who distinguishes necessary challenge from unnecessary harm.
+
+**Repurpose move:** recognize the resilience before you recognize the damage.
+
+Ask: what has this person survived that I would have needed help with? Offer support only where it is genuinely needed — not where you need to feel useful. Let the Damaged Self be undefeated in your perception before you decide what kind of ally to be.
+
+*Someone you've been allying with — have you been reading them as fragile or as undefeated? The Damaged Self doesn't need your protection. It needs you to recognize what it survived. Name what you've been missing about their resilience. → app*
+
+---
+
+### Gate 8 Deep Dive: Vulnerable Child
+
+This gate is not the last gate. It is the destination.
+
+The Vulnerable Child is the source of creativity. It is the voice that feels emotions and acts on them. Its job is to learn, grow, explore, create, and play. It is the part of you that was alive before you learned to manage it.
+
+And here is what makes this gate different from every other gate on this walk:
+
+When the Vulnerable Child is leading — when it is genuinely running the show — every other gate repurposes correctly. The Protector stops scanning for threat and starts protecting the Vulnerable Child's ability to learn and explore. The Controller stops managing discourse and starts setting standards for growth. The Skeptic stops casting its abjuration spell against possibility and starts doubting the things that block play and learning. The Fixer stops trying to fix persons and maintains the conditions — the playground — where genuine development can happen. The Victim stops telling stories for sympathy and starts telling stories that invite others into effective allyship. The Damaged Self stops enduring and starts calibrating: distinguishing the damage that breaks from the damage that builds.
+
+Every gate, repurposed. All from one shift.
+
+This is the whole game. Not mastering the gates one by one. Creating the conditions where the Vulnerable Child can run the show — in you, and in the people you're allying with.
+
+**The Vulnerable Child in distortion:** the Child in exile. Allyship becomes obligation. Performance. Credential-collecting. There is no curiosity. No genuine contact. No learning. The ally goes through the motions with the weight of doing it right instead of the freedom of doing it real. The people being "helped" feel it — they can tell when the allyship is alive and when it is a performance. The Vulnerable Child in exile produces the second kind.
+
+**Repurpose move:** let the Vulnerable Child back in.
+
+- "What would I do in this situation if I wasn't afraid of getting it wrong?"
+- "How would I approach this if it felt like play rather than obligation?"
+- "What am I genuinely curious about here, underneath the performance?"
+
+This is not soft. Curiosity-driven allyship is more effective than obligation-driven allyship. It stays in the room longer. It hears more. It adapts. It makes contact.
+
+Let it be real.
+
+*Where has your allyship become obligation instead of curiosity? Not the pattern — the specific work that has felt like performance. And: where is the genuine curiosity still alive? Name both. The second one is where you begin. → app*
+
+---
 
 Gate work is not a race. You will circle back to Gate 1 when you're triggered in a room that feels like the old room. You will meet Gate 2 again when the charge shows up big and the Controller reaches for the knob before you know what's happening. The gates are not sequential checkpoints. They are recurring thresholds. You learn to recognize them. You learn to walk them with one honest move at a time.
 
@@ -366,21 +584,7 @@ Two concrete examples:
 
 The wound does not become your identity. It becomes signal, then skill, then contribution.
 
-Before Chapter 2 teaches full emotional alchemy, here is the lightweight channel map this chapter wants you to carry.
-
-### 5 Emotional Channels (Preview for Chapter 2)
-
-Chapter 1 names the terrain. Chapter 2 will train the practice. For now, treat these as five channels you can notice without needing to master yet:
-
-| Channel | What it sounds like in you | Early ally move |
-|---|---|---|
-| Fear | "This is not safe." | Name one boundary instead of armoring everything |
-| Grief | "Something mattered and was lost." | Name the loss before jumping to strategy |
-| Anger | "A boundary was crossed." | Convert heat into a clear ask or line |
-| Shame | "I am the problem." | Shift from identity collapse to accountable repair |
-| Joy | "This matters and I am alive in it." | Use energy for connection, not performance |
-
-This is a preview map, not full instruction. In Chapter 2, you'll practice how to metabolize each channel without bypassing or flooding.
+Before Chapter 2 teaches full emotional alchemy, carry this much: the charge you feel has channels — fear, grief, anger, shame, joy — and each one is information, not noise. Chapter 2 trains you to read and move each one. For now it's enough to know they're distinct, and that none of them is the enemy.
 
 The goal is not to kill these voices. It's to repurpose them. A voice integrated becomes a guide. A voice avoided becomes a saboteur.
 
@@ -404,11 +608,11 @@ Controller says: *manage this perfectly.*
 You predict failure before speaking.  
 Skeptic says: *don't expect anything to change.*
 
-You switch to looking correct.  
-Performer says: *just say the right thing and get out clean.*
+You switch to fixing what's wrong.  
+Fixer/Healer says: *repair this before it breaks further.*
 
-You decide who is at fault.  
-Judge says: *name the violation and win the frame.*
+You go cold with the charge you haven't named.  
+Emotional Body says: *something is happening in here and I don't know what to do with it.*
 
 You remember your old wound.  
 Victim says: *you don't have power here anyway.*
@@ -431,6 +635,30 @@ From that center, different moves become available:
 - Stay present for one breath longer than your old pattern.
 
 This is why the Forest matters. Not because it's poetic. Because from the center, your next move gets cleaner.
+
+---
+
+The practice format in this book — naming where you are now, finding where you want to be, and building the path between them — comes from Gerard Egan's *The Skillful Helper*. Egan spent forty years mapping what skilled helping actually looks like as a reproducible practice, not just a set of good intentions. His three-stage model (current picture, preferred picture, way forward) runs underneath every "Try It Now" in this book. What follows is the first application.
+
+## Try It Now: The First Shaman Move
+
+Think of a charged situation from your last week. A conversation you replayed on the drive home. A message you drafted and deleted. A decision you kept circling without landing.
+
+Don't analyze it yet.
+
+Find it in your body first.
+
+Where does it live? Chest, throat, jaw, belly — somewhere in there is a sensation that hasn't resolved. Find it.
+
+Put your hand there if that helps.
+
+Now: what is the sensation? Not the story. Not what happened or what you should have said. The sensation. Hot or cold. Tight or spacious. Moving or still.
+
+You don't have to know what it means. You just have to locate it.
+
+That location is data. The Shaman's first move is always the same: find out where the information lives before deciding what to do with it. Before the script. Before the strategy. Before the conversation you're going to have in your head on the way home.
+
+*You just made the first move. Before the feeling fades — what you noticed, where it lived, what it might be trying to say. Open the app. Two minutes. It becomes yours.*
 
 ---
 
@@ -478,10 +706,26 @@ By the end of this chapter, you should know:
 
 ---
 
+## Try It Now: The Second Move — Say It Out Loud
+
+You found the sensation. Now let it be heard.
+
+Within the next two days, say one body-read out loud to another person — and say it to someone where it isn't already safe to, in a live moment, not a debrief afterward. Not a confession. Not a processing session. One sentence, where it costs something: *"Something just shifted in my chest — give me a second."* Even when your voice isn't steady. Even when you're not sure you've got the word right: *"I think that landed as anger. I'm not certain. But something moved."*
+
+That's the whole action. One read, said out loud, to one person who doesn't already know, inside forty-eight hours.
+
+Here is what you're actually doing, underneath the instruction. The part of you that reads a room — that knew the meeting had gone cold before anyone spoke — has been living in exile. You sent it away because claiming it felt like taking something that wasn't yours. So it reads, and reads, and never gets to speak. Saying it out loud is not a technique. It's how that part comes home: it finds out it's allowed in the room.
+
+(If naming it out loud feels like claiming something that isn't yours — that's the exile talking. Say it anyway. The body that did the reading was yours the whole time.)
+
+*You said it out loud. Before the moment closes — what you noticed, who you said it to, what shifted after. Open the app. Two minutes. The read becomes a move, and the part that reads comes a little further home. → app*
+
+---
+
 ## Section 10: First BARs Loop
 ### *Breakthrough -> Action -> Reflection -> sustain*
 
-Use this right after your next hard moment. Keep it short and specific.
+The BARs Loop is not journaling. It is game tape. Run it right after the next hard moment — not at the end of the week, not when you have time, right after, while the feeling is still close enough to name.
 
 **B-A-R-s template:**
 - **Breakthrough:** What did I notice about my pattern, gate, or emotional channel?
@@ -517,6 +761,8 @@ Six guides know that terrain.
 One of their questions already landed in you.
 
 And now you have a first map of the gates you'll meet on the way.
+
+Before you walk on: the work in this book unfolds in four directions — gathering resources, organizing conditions, taking direct action, and raising awareness. All four are real allyship. The gates you've just mapped each have a natural home in one of them. The full map — and a way to find which direction is calling you right now — is in Appendix A.
 
 From here, you have two valid routes:
 

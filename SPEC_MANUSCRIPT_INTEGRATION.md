@@ -104,6 +104,8 @@ These exist in the legacy sources but belong to secondary products, not the cano
 
 **Test:** Does every Shaman chapter reader know how to do 3-2-1 by the end?
 
+**Status:** Ch3 Phase 2 inserted 2026-05-24 per `CH3_321_PHASE2_SPEC.md`. Ch2 3-2-1 + polarity compressed to Phase 1 catalog. Appendix stubs populated. Voice pass deferred (Issue 15).
+
 ---
 
 ### Integration Unit 3: Dojo Architecture — The Training Space
@@ -188,7 +190,7 @@ These exist in the legacy sources but belong to secondary products, not the cano
 3. One worked example per polarity pair (3 pairs maximum in the book)
 4. Reference: "Polarity is different from problem-solving. Problems have solutions. Polarities have management."
 
-**Test:** Can a reader draw their current polarity map by the end of Ch2?
+**Status:** Drafted in canonical Ch2 2026-05-24 — **compress per `POLARITY_PHASE2_SPLIT_SPEC.md`**; Ch4 encounter + Ch6 merged practice pending.
 
 ---
 

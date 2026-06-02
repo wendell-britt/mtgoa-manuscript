@@ -63,7 +63,9 @@ A tool may appear in multiple zones across its lifecycle (e.g., 3-2-1: Alpha tea
 | A reference sheet to use correctly | Gamma (appendix) |
 | A partner, facilitator, or guide | Coaching territory (not in this product) |
 
-**The 3-2-1 example:** Requires time, space, quiet, and preferably written output. Self-contained but needs 20+ minutes. Decision: Gamma has the full process (reference), Delta has the practice log (workbook). Book body mentions it exists and gives one Beta example (Ch2, as a sidebar in the 8 Gates walk).
+**The 3-2-1 example (updated 2026-05-24):** Requires 20+ minutes for full process. **Hybrid:** Ch2 Phase 1 catalog only; Ch3 Phase 2 first practice; Gamma appendix full process; Delta workbook log. Ch2 sidebar-in-Gates pattern **superseded** by Technique Academy routing.
+
+**Polarity Map (updated 2026-05-24):** Ch2 Phase 1 catalog; Ch4 short encounter (Honor↔Reform); Ch6 merged practice (Care↔Impact + Close with Honest Terms). Full examples in appendix. See `POLARITY_PHASE2_SPLIT_SPEC.md`.
 
 **The WAVE-Somatic example:** 4 steps, 10 seconds, in-conversation. Decision: Alpha teaches it (Ch2 concept), Beta gives one example (10-Second WAVE scenario). No Gamma needed. No Delta needed.
 
@@ -112,11 +114,11 @@ These are structural concepts that organize the book. They are not practice tool
 | **5 Emotional Channels** | Alpha (book body) | Core framework — named in Ch2 |
 | **Transcend moves** | Beta (book body) | One example per channel in Ch2 |
 | **8 Gates** | Alpha (book body) + Gamma (appendix) | Core concept in Ch2; full map in appendix |
-| **3-2-1 Shadow Process** | Gamma (appendix) + Delta (workbook) | Deep tool; needs reference + practice structure |
+| **3-2-1 Shadow Process** | Ch2 Phase 1 catalog + Ch3 Phase 2 practice + Gamma (appendix) + Delta (workbook) | **Hybrid Technique Academy (2026-05-24):** Ch2 names + routes; Ch3 first sit-down; full process in appendix |
 | **BARs loop** | Beta (book body) | One per chapter, book demonstrates the cycle |
 | **BARs practice journal** | Delta (workbook) | Long-term logging, weekly review, 52-week cycle |
 | **Dojo Architecture** | Alpha (book body) + Gamma (appendix) | One paragraph in Ch3; full descriptions in appendix |
-| **Polarity Map** | TBD | Research needed — see Dropbox ingestion spec. Strongest voice content is in "worldbuilding with wendell" Dropbox folder. Ingest before placing. |
+| **Polarity Map** | Ch2 Phase 1 catalog + Ch4 Phase 1.5 encounter + Ch6 Phase 2 practice + Gamma (appendix) | **Split (2026-05-24):** Honor↔Reform (Ch4), Care↔Impact merged with Close (Ch6). Spec: `POLARITY_PHASE2_SPLIT_SPEC.md` |
 | **W.A.V.E.** | Gamma (appendix) | Reference only; fully taught in Igniting Joy. MTGOA references it by name only. |
 | **Happy Apples** | Gamma (appendix) | Reference; Igniting Joy brand territory. Not MTGOA content. |
 | **Comedic Archetypes** | Not in MTGOA | Igniting Joy + future comedy books only. Remove from this inventory. |

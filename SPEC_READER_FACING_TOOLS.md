@@ -80,14 +80,16 @@ A boxed exercise is valid only if:
 
 ## Tool Inventory
 
+**Hybrid Technique Academy inventory (authoritative 2026-05-24):** `TOOL_INVENTORY_HYBRID_2026-05-24.md` — supersedes table below until full sync.
+
 | Tool | Type | First encounter chapter | Phase 1 status | Phase 2 status | Phase 3 status |
 |------|------|------------------------|----------------|----------------|----------------|
 | Token System (Bars-engine) | B | Ch0 | ✅ Complete | ❌ Missing | ❌ Missing Phase 3 refs |
 | Ticket System | B | Ch0 | ✅ Complete | ❌ Missing | ❌ Missing Phase 3 refs |
-| 3-2-1 Shadow Work | B | Ch2 | ❌ Missing | ❌ Missing | ❌ Missing |
+| 3-2-1 Shadow Work | B | Ch2 catalog | 🔄 Compress per split spec | ❌ Ch3 pending | ❌ Missing |
 | 8 Gates | B | Ch2 | ✅ Complete | ✅ Complete | 🔄 Needs Phase 3 refs |
 | BARs | B | Ch1 | 🔄 Brief mention | ❌ No first practice format | ❌ Missing |
-| Polarity Map | B | Ch2 | ❌ Missing | ❌ Missing | ❌ Missing |
+| Polarity Map | B | Ch2 catalog | 🔄 Compress per split spec | ❌ Ch4 encounter + Ch6 merge | ❌ Missing |
 | Dojo Architecture | C | Ch3 | ❌ Missing | N/A | ❌ Missing |
 
 ---

@@ -36,48 +36,48 @@ This chapter is the culmination. Not a new face — the integration of all 6. Th
 
 ## The 5 channels (modes of self-authorship)
 
-1. **The Cartographer** — mapping your specific terrain: which Faces do you naturally lean on, which do you avoid
-2. **The Designer** — building a personal practice that uses your strengths and accounts for your gaps
-3. **The Founder** — starting something new: a community, a method, a tradition worth passing on
-4. **The Elder** — becoming the person who can hand on what they learned to whoever comes next
-5. **The Outlaw** — playing a game the village hasn't seen before, and showing why it works
+> **Note on EA and Ch8:** Chapters 3–7 each apply the 5 EA emotional channels as emergent modes for their Face. Ch8 is different — the reader has been practicing EA for the entire book. The 5 modes here are not new EA tools to learn. They are a vocabulary for what the reader has already been doing, now pointed at designing their own practice. Each mode maps to a commitment stage: what you're building, and where you're invited to go next.
 
----
+| Mode | What you're doing | Your ongoing practice | Where it leads |
+|------|------------------|---------------------|---------------|
+| **The Cartographer** | Self-inventory — which Faces do you naturally lean on, which do you avoid | Your specific practice (ongoing) | Deepens your self-knowledge |
+| **The Designer** | Building a practice structure — what do I do regularly and why | Your specific practice (ongoing) | Deepens your self-knowledge |
+| **The Founder** | Ready to build something real, need 1:1 support | — | **1:1 coaching with Wendell** |
+| **The Elder** | Passing it on — teaching others what you learned | — | **The allyship deck** (teaching mode) |
+| **The Outlaw** | The structure calcified, needs challenging | — | **The allyship deck** (disruption mode) |
 
-## The stage sequence (5 stages)
+**The allyship deck** appears in two modes: Elder uses it to teach (pass on the tradition). Outlaw uses it to shake loose what's gotten rigid (break wisely). Same deck, two different games.
 
-**Review → Discern → Design → Build → Pass On**
-
-1. **Review:** Look at all 6 Faces. Which ones feel like home? Which ones feel like foreign territory?
-2. **Discern:** What is the specific gap or gift you bring? What problem in the world made you?
-3. **Design:** Build your personal practice — the specific blend of all 6 Faces that is uniquely yours
-4. **Build:** Start something. Say something. Write something. Create the thing that didn't exist before you.
-5. **Pass On:** Hand it on. Make it possible for someone else to do what you did.
+The stage sequence: **Review → Discern → Design → Build → Pass On** — not EA stages, but commitment stages. Each loop goes deeper.
 
 ---
 
 ## Transcend moves (+2 energy)
 
-Five conversions of integration into creation:
+*These are not EA conversions. They are the natural escalation of commitment.*
 
-1. **Pattern-recognition → Self-authorship** (knowing your own pattern becomes designing your own game)
-2. **Capability → Responsibility** (having all 6 Faces creates the obligation to use them well)
-3. **Integration → Invention** (the synthesis of all 6 becomes something genuinely new)
-4. **Wisdom → Teaching** (what you know wants to be passed on)
-5. **Practice → Legacy** (the game you play becomes the game you build for others)
+1. **Self-knowledge → Self-authorship** — knowing your own pattern becomes designing your own game
+2. **Capability → Responsibility** — having all 6 Faces creates the obligation to use them well
+3. **Integration → Invention** — the synthesis of all 6 becomes something genuinely new
+4. **Wisdom → Teaching** — what you know wants to be passed on
+5. **Practice → Legacy** — the game you play becomes the game you build for others
 
 ---
 
 ## Generative Translate moves (+1 energy)
 
+*Forward motion through commitment stages:*
+
 - **Cartographer → Designer** (once mapped, can build)
-- **Designer → Founder** (once designed, can create)
+- **Designer → Founder** (once designed, needs support to start)
 - **Founder → Elder** (once created, can pass on)
 - **Elder → Outlaw** (passing on the tradition creates room to break it wisely)
 
 ---
 
 ## Control Translate moves (−1 energy)
+
+*Where each mode calcifies:*
 
 - **Cartographer → Paralysis-by-analysis** (mapping without acting)
 - **Designer → Over-design** (building the perfect system that never ships)
@@ -176,11 +176,12 @@ The last line is "now go build yours."
 
 ## Open questions
 
-- Q1: Does this chapter need its own unique structure since there's no "face" to channel? → **Consider: this is the player's Exile — leaving with purpose**
-- Q2: What's the specific example Wendell has of designing their own practice? (Wendell)
-- Q3: What is Wendell building that this chapter would point toward?
-- Q4: Does the Distortion section need a new name since there's no "shadow face"? → **Shadow Player: collecting credentials without playing the game**
+- Q1: Does this chapter need its own unique structure since there's no "face" to channel? → **RESOLVED: Reader journey framework — commitment stages, not EA modes.**
+- Q2: What's the specific example Wendell has of designing their own practice? → **RESOLVED: The 5 modes map to the reader's commitment path — Cartographer/Designer = own practice, Founder = 1:1 coaching, Elder/Outlaw = allyship deck.**
+- Q3: What is Wendell building that this chapter would point toward? → **RESOLVED: bars-engine (community), allyship deck (teaching + disruption), 1:1 coaching (support for Founders).**
+- Q4: Does the Distortion section need a new name since there's no "shadow face"? → **RESOLVED: Shadow Player = collecting all 6 Faces as credentials without playing any of them.**
+- Q5: Does this EA-template apply to other chapters? → **Ch3, Ch4, Ch6 need EA channel tables added. Ch2 is the canonical source. Ch5 is excluded. Ch7 has the working template — use it as the reference for Ch3/Ch4/Ch6 alignment.**
 
 ---
 
-## Spec status: ✅ READY TO DRAFT
+## Spec status: ✅ READY TO DRAFT — Reader Journey Framework Applied
