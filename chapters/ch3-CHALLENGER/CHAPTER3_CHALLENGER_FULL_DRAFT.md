@@ -188,16 +188,16 @@ The exit is where most people collapse. They draw the line, then immediately sta
 
 The Challenger's practice has an energy economy — a set of named conversions that either generate or deplete the available will.
 
-**Transcend moves (+2 energy):** the five conversions of raw charge into clean action you already met in the EA table above — Outrage → Righteous Act, Fear-of-being-unwelcome → Willingness, Grief-in-the-fight → Moral Clarity, Protective-rage → Calm Defense, Defiance → Creation. Each one takes a charge that wants to leak out as noise and routes it into a move that matters. These are the Challenger's highest practice.
+**Transcend moves (renewable fuel):** the five conversions of raw charge into clean action you already met in the EA table above — Outrage → Righteous Act, Fear-of-being-unwelcome → Willingness, Grief-in-the-fight → Moral Clarity, Protective-rage → Calm Defense, Defiance → Creation. Each one takes a charge that wants to leak out as noise and routes it into a move that matters. These are the Challenger's highest practice.
 
-**Generative Translate moves (+1 energy):** Shifts across channels that build on each other.
+**Generative Translate moves (renewable, spent lightly):** Shifts across channels that build on each other.
 
 - **Line → Interrupt:** Once the line is drawn, you can break the pattern that was crossing it.
 - **Interrupt → Demand:** Once the pattern is broken, you can insist on the change that replaces it.
 - **Demand → Refusal:** The demand clarifies your own non-negotiables — the places where you will not move regardless of pressure.
 - **Refusal → Reckoning:** Your no becomes visible as a consequence. The line you drew is not just stated — it is backed.
 
-**Control Translate moves (−1 energy):** Suppressions that cost energy.
+**Control Translate moves (non-renewable):** Suppressions that cost energy.
 
 - **Charge → Swallow:** You feel it and push it down. This is repression. It does not eliminate the charge — it stores it. The swallowed charge eventually finds a sideways exit: passive aggression, chronic irritability, sudden explosions over small things.
 
@@ -756,7 +756,7 @@ The Challenger does not build. The Challenger clears the ground.
 - The **3-2-1 practice** at Challenger altitude: reclaim the line projected onto "oppressor energy"
 - The **Charge → Aim → Act → Exit** sequence — the four-stage practice that turns raw fire into clean action
 - The **5 channels** — Line, Interrupt, Demand, Refusal, Reckoning — and when to use each one
-- The **energy economy** — which moves generate (+2, +1) and which deplete (−1)
+- The **energy economy** — which moves run on renewable fuel and which spend non-renewable
 - The **8 Gates walk** — and the specific move at each gate, including the naming of your jeppi at Gate 5
 - The **5 game moves** — Name the Unnameable, Draw the Line, Refuse Cleanly, Confront Without Cruelty, Stay Past the Discomfort
 - The Vulnerable Child's superpower: **moral clarity without cruelty**

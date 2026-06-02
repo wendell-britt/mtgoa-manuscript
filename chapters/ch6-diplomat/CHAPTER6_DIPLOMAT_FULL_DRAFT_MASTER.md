@@ -97,7 +97,7 @@ The stage-fright, acknowledged as the shame of being a learner instead of an exp
 
 The Bridge-Builder's primary Translate move is the channel-wide translation from Metal (fear/anxiety) to Wood (joy/interest). When the old wiring registers the approach as threat (will I be rejected?), the Translate moves the charge forward in the elemental cycle: instead of contracting around the anxiety, you let it inform your interest. *What if this goes well? What is actually present here that I want to learn about?*
 
-The anxiety becomes the fuel for engagement rather than the signal to withdraw. Energy cost: +1 (generative translate, flow with the charge).
+The anxiety becomes the fuel for engagement rather than the signal to withdraw. Runs on renewable fuel (generative translate, flow with the charge).
 
 **[TRANSLATE] Translate 2 — Rejection-Sensitivity → Generous Assumption**
 
@@ -169,7 +169,7 @@ The Neutral Channel pattern here is **intellectual superiority** — the behavio
 
 **The structure of the Interpreter's Discipline:** You build a practice of checking your interpretation against the source. You develop a method: after translating, you return to the original speaker and ask — "did I get this right?" Not as performance, but as genuine correction. The superiority pattern dissolves into a discipline that actually improves your translations. The charge that was contaminating your work becomes the structure that makes your work trustworthy.
 
-**Energy cost:** -1. The Control structure requires more effort, but it is worth it when accuracy matters.
+**What it runs on:** non-renewable fuel. The Control structure requires more effort, but it is worth it when accuracy matters.
 
 ---
 
@@ -211,7 +211,7 @@ The Neutral Channel pattern here is **presence collapse** — the behavioral pat
 
 **The structure of the Precedent of Presence:** You establish, in advance, a commitment to remaining in the field when it becomes charged. Not because you have to — because you have decided. The commitment is the structure. You tell the field in advance: *I don't leave when it gets hard. That is not a rule — it is a practice.* The collapse pattern dissolves into a personal precedent that the field can depend on. You have made yourself a reliable structure because you decided in advance, before the charge arrived.
 
-**Energy cost:** -1. Choosing to stay in a charged field requires more energy than leaving. This is the price.
+**What it runs on:** non-renewable fuel. Choosing to stay in a charged field requires more energy than leaving. This is the price.
 
 ---
 
@@ -253,7 +253,7 @@ The Neutral Channel pattern here is **premature closure** — the behavioral pat
 
 **The structure of the Three-Part Repair:** You build a practice of repair that does not skip: (1) **Witness** — the full accounting of what happened, without defense or justification. (2) **Impact** — the honest naming of what the rupture cost, for both parties. (3) **Agreement** — what each person commits to doing differently, not as a performance of remorse but as a genuine change in behavior. The premature closure pattern dissolves into a structure that actually allows the wound to heal before it is closed.
 
-**Energy cost:** -1. Real repair takes longer than performance repair. The price is worth it.
+**What it runs on:** non-renewable fuel. Real repair takes longer than performance repair. The price is worth it.
 
 ---
 
@@ -299,7 +299,7 @@ The Neutral Channel pattern here is **endless process** — the behavioral habit
 
 **The structure of the Stake-Surfacing Close:** You build a practice that does not skip: (1) **Protect** — what is each party afraid of losing? Name the interest, not the slogan. (2) **Require** — what must the agreement hold for staying to remain real? Name it for the field, not just for yourself. (3) **Commit** — what are we agreeing to, specifically, before we leave this room? The endless process pattern dissolves into a structure that honors inclusion *and* produces movement.
 
-**Energy cost:** -1. Closing takes more courage than extending. The field will push for one more round. The Integrative Negotiator knows when the round has become avoidance.
+**What it runs on:** non-renewable fuel. Closing takes more courage than extending. The field will push for one more round. The Integrative Negotiator knows when the round has become avoidance.
 
 **[CONTROL] — Neutral Channel: False Closure Pattern**
 
@@ -309,7 +309,7 @@ This is where **Refuse False Equivalence** lives inside the Fire channel — not
 
 **The structure of the Discernment Check:** Before you close, ask: *Can I paraphrase each party's interest accurately enough that its strongest advocate would recognize it? And do the terms we're proposing actually address those interests — or are we papering over a gap?* False closure dissolves into a close you can stand behind.
 
-**Energy cost:** -1. Discernment in the close costs more than comfortable vagueness. It is worth it when the agreement has to hold.
+**What it runs on:** non-renewable fuel. Discernment in the close costs more than comfortable vagueness. It is worth it when the agreement has to hold.
 
 ---
 

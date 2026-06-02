@@ -266,14 +266,14 @@ The Regent's practice moves through four stages. Unlike the Shaman's WAVE, which
 
 At Amber altitude, the energy question is: what does it cost to carry something across time?
 
-**Transcend moves (+2 energy):** the five conversions from the EA table above — Obedience → True Allegiance, Duty → Service, Rigidity → Integrity, Dogma → Faithfulness, Inheritance-Shame → Inheritance-Gift. Each one takes the heavy version of loyalty (the one done because you have to) and converts it into the chosen version (the one done because you said yes). That conversion is what generates energy instead of draining it.
+**Transcend moves (renewable fuel):** the five conversions from the EA table above — Obedience → True Allegiance, Duty → Service, Rigidity → Integrity, Dogma → Faithfulness, Inheritance-Shame → Inheritance-Gift. Each one takes the heavy version of loyalty (the one done because you have to) and converts it into the chosen version (the one done because you said yes). That conversion is what generates energy instead of draining it.
 
-**Generative Translate (+1 energy):**
+**Generative Translate (renewable, spent lightly):**
 - Custodian → Reformer: You care for what exists. Now you know it well enough to change what no longer works.
 - Inheritor → Teacher: You have sorted your inheritance. Now you can translate it for the next person.
 - Teacher → Keeper of Vows: The act of teaching becomes the ongoing commitment.
 
-**Control Translate (-1 energy):**
+**Control Translate (non-renewable):**
 - Loyalty → Compliance: You surrender your judgment to avoid the cost of thinking.
 - Duty → Martyrdom: You serve until you disappear.
 - Tradition → Dogma: You hold the form so tightly that the life leaves the tradition.

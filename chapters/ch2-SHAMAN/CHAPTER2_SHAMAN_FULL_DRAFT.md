@@ -360,22 +360,18 @@ This is the practical contract: name the channel, regulate enough to read it, ch
 
 ## The Energy Economy: Why Some Moves Drain You and Others Fuel You
 
-The WAVE-Spiral doesn't work the same way every time. Sometimes you move through all four stages and come out with *more* energy (you were activated, you understood, you integrated, you moved—and now you're more resourced than before).
+The WAVE-Spiral doesn't run on the same fuel every time. Sometimes you move through all four stages and come out *more* resourced than you went in — the move ran on renewable fuel, the kind that refills as you spend it. Sometimes you come out emptier — it ran on the non-renewable kind: guilt, obligation, the need to be seen doing it right. Same spiral. Different fuel.
 
-Sometimes you move through the stages and come out with *less* energy (you did the work, but it cost you something precious).
+This is the line between sustainable allyship and burnout — and it's also why effective allyship is so hard to spot from outside. Two people can do the identical thing — say the same hard sentence in the same meeting — and land the same visible impact. From across the room you can't tell them apart. But one spent renewable fuel and walked out lit; the other spent non-renewable and walked out hollow, and will do it again tomorrow on a tank that's already empty. Same impact. The fuel and the price, nothing alike. (Burnout isn't caring too much. It's paying for real impact with fuel that doesn't renew.)
 
-Sometimes you move and come out at the *same* level (you processed, but you're back where you started).
+There are three kinds of move, and the thing worth knowing about each is simple: *what does it run on?*
 
-Understanding which is which is the difference between sustainable allyship and burnout. (Burnout is not what happens when you care too much. It's what happens when you keep performing care without the alchemy that replenishes it.)
-
-The bars-engine framework names three types of moves, each with an energy cost or yield:
-
-### Transcend: Complete Within a Channel (+2 Energy)
+### Transcend: Complete Within a Channel
 **What it means:** You move within the same emotional channel from dissatisfied to satisfied.
 
 **Example:** You feel fear (Metal), you clean it (what is this risk telling me?), you grow the lesson (I know what matters now), you show up from that courage—and now you feel excited instead of afraid. You've transcended fear into opportunity. Same channel, different altitude.
 
-**Energy yield:** +2. You started depleted. You end resourced. This is the fuel that makes allyship sustainable.
+**What it runs on:** renewable fuel — and it makes more than it spends. You started depleted; you end resourced. This is the move that makes allyship sustainable.
 
 **How to recognize it:** After you show up from the wisdom, you feel *lighter*. More alive. Something in you says "yes, that was right." You've integrated something real.
 
@@ -386,12 +382,12 @@ The five Transcend moves (one per channel):
 - Anger → **Triumph** (the boundary is honored; you stood on your line)
 - Neutrality → **Peace** (the whole comes into view, and you settle)
 
-### Generative Translate: Move Along the Flow Cycle (+1 Energy)
+### Generative Translate: Move Along the Flow Cycle
 **What it means:** You move from one channel to another following the natural flow: Joy → Anger → Neutrality → Fear → Sadness → Joy.
 
 **Example:** You feel sadness (Water) at what was lost. You let it teach you (what mattered?). Then you translate to the next channel: you feel anger (Fire) at the loss, which clarifies what needs to be protected going forward. You've translated sadness into protective action. The energy moved naturally downstream.
 
-**Energy yield:** +1. You stay resourced. This is how you keep moving.
+**What it runs on:** renewable fuel, spent lightly. You stay resourced. This is how you keep moving.
 
 **How to recognize it:** The move feels natural, like momentum. You're not forcing it. One feeling naturally leads to the next in the cycle.
 
@@ -403,12 +399,12 @@ The flow cycle (generative direction): Each move shifts you from one channel to 
 - **Fear → Sadness** (clarity deepens into meaning; knowing what's at stake reveals what you care about)
 - **Sadness → Joy** (meaning renews vitality; knowing what you care about makes you alive again)
 
-### Control Translate: Precision Pivot (-1 Energy)
+### Control Translate: Precision Pivot
 **What it means:** You move from one channel to another against the natural flow, by choice, because the situation requires it.
 
 **Example:** You feel anger (Fire) at an injustice. But if you stay in anger right now, you'll burn down the relationship that you need to preserve to actually fix the injustice. So you translate to fear (Metal), reassess the risk, decide which battles matter. You've made a precision move. The energy cost is real (it takes more work to move against the flow), but it was worth it because you preserved something precious.
 
-**Energy cost:** -1. This is the price of mastery. Not to be used when you're already depleted, but worth it when you have the bandwidth.
+**What it runs on:** non-renewable fuel — it draws down a fixed supply. This is the price of mastery: worth paying when you have the reserves and the moment demands it, but not a tank you can run on daily. Use it on purpose, not by default.
 
 **How to recognize it:** The move feels deliberate. It's harder. But it's *wise*. You're sacrificing immediate energy for long-term integrity.
 
@@ -426,7 +422,7 @@ The flow cycle (generative direction): Each move shifts you from one channel to 
 
 You're in a difficult conversation. Someone says something that lands as criticism, and you feel anger rising.
 
-**Wake (2 seconds):** You feel the anger. Your jaw tightens.
+**Wake (2 seconds):** You feel the anger arrive — fast, ahead of the thought.
 **Clean (3 seconds):** You ask the anger: What boundary is being violated? You sense: My competence just got questioned publicly.
 **Grow (3 seconds):** You let your system know: I'm good at what I do. That question landed as an attack, but I know my own capacity.
 **Show (2 seconds):** You respond from that clarity: "I hear the question. Here's actually what happened..."
@@ -452,7 +448,7 @@ You feel sadness (Water) about a loss. But you're also needed right now, and you
 
 **Show (as generative translate):** Now you translate forward in the flow cycle: the sadness transforms into Fire (anger at the loss, clarity about what needs to be protected). From that fire, you can move: You take action to protect what's still here.
 
-Energy cost: +1. The sadness fueled the action.
+Renewable fuel — the sadness fed the action.
 
 ### Scenario 4: Control Translate (Precision Move)
 
@@ -464,7 +460,7 @@ You're angry (Fire) and you want to speak a hard truth. But you're also in a rel
 
 You show: You speak from clarity instead of heat.
 
-Energy cost: -1. This took more work. But you preserved something precious.
+Non-renewable fuel — this took more work, and it spent down a reserve. But you preserved something precious.
 
 ---
 
@@ -477,7 +473,7 @@ A new practitioner goes:  Wake → Clean → Grow → Show (slowly, carefully).
 A practiced Shaman moves fluidly:
 - Recognizes which channel in half a second (is that fear or anger? Sadness or neutrality?)
 - Knows whether to transcend (go deeper, get more resourced) or translate (move to the next channel)
-- Chooses between generative translate (flow with it, +1 energy) and control translate (precision, -1 energy, only when needed)
+- Chooses between generative translate (flow with it, renewable) and control translate (precision, non-renewable, only when needed)
 - Moves at the right tempo (10 seconds in a meeting, 10 minutes alone, 10 hours for deep integration)
 
 This is not something you learn once. It's something you practice until it becomes your operating system — automatic, underneath thought.
@@ -986,7 +982,7 @@ So as you leave the Shaman's forest, take with you:
 - The 3-2-1 practice: Face it (3) → Talk to it (2) → Own it (1) — named here; first practice in Chapter 3
 - The Polarity Map: two legitimate poles, your position on the axis, one integrated action — named here; first draw in Chapter 4
 - The 5 channels (Metal/Fear, Water/Sadness, Wood/Joy, Fire/Anger, Earth/Neutrality) and their lessons
-- The energy economy: Transcend moves (+2 energy), Generative translates (+1), Control translates (-1)
+- The energy economy: which moves run on renewable fuel (Transcend, Generative Translate) and which spend non-renewable (Control Translate)
 - The map of the 8 gates and the Vulnerable Child at the center where your superpower lives
 - The five moves for being a Shaman ally: read the field, name the unsaid, create safety, be real, stay
 
