@@ -9,3 +9,6 @@
 # System files
 .DS_Store
 Thumbs.db
+
+# Third-party copyrighted source corpora — local only, never pushed
+sources/
