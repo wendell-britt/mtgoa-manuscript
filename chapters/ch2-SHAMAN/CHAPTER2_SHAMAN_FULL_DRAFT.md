@@ -145,6 +145,8 @@ That is the Shaman's superpower. That is what the village lost when the Shaman l
 ## Section 4: The Practice
 ### *The WAVE-Spiral: Emotional Alchemy as Repeatable Technique and Living Art*
 
+These are the tools. In Section 5 you'll meet what they're *for* — the eight gates, the disowned material each one guards, the walk into your own forest. Read this section to learn the moves; the next section is where the moves find their material.
+
 If emotional alchemy is about learning from emotions instead of managing them, then how do you actually *do it* when you're in the middle of a hard conversation, a crisis, a moment where the feeling is rising and you have thirty seconds to respond?
 
 You need a practice. A structure. Something that repeats reliably so you can get better at it.
@@ -573,7 +575,9 @@ Use 3-2-1 when the trigger is a *person*. Use the Polarity Map when you're stuck
 
 Here's where it gets personal.
 
-Everything up to now—the channels, the moves, the WAVE-Spiral, the 3-2-1 and Polarity Map you've been introduced to, the energy economy—those were tools. Tools you could read about in any decent book on emotion and at least sort of understand. You could nod along. You could even practice them and get better at them without ever really meeting yourself.
+Everything up to now—the channels, the moves, the WAVE-Spiral, the 3-2-1 and Polarity Map you've been introduced to, the energy economy—those were tools. Tools you could read about in any decent book on emotion and at least sort of understand. You could even practice them and get better at them without ever really meeting yourself.
+
+This section is where the tools meet the Shadow they were built for. Each gate is a part of you that learned to protect a specific piece of disowned material — **the Shadow** itself, in the singular sense you planted back in Chapter 0. When a Face runs *from* that Shadow instead of being chosen, you get the Face **in distortion**. And every gate you pass without meeting what it guards extracts a **cost**. Three nested handles; one nested wound; you'll see all three work in the next several pages.
 
 This section is different. This is the part where you actually walk in.
 
