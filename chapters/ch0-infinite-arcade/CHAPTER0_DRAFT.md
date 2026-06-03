@@ -348,6 +348,36 @@ You'll know which is yours. The book keeps going either way.
 
 ---
 
+## The First Move
+
+The test is also a door. You don't pass it by understanding it.
+
+Here is the move: in the next seven days, find one person you actually trust — not a stranger, not a coach, not the app. Someone who has known you longer than a single conversation. And ask them this, in something close to these words:
+
+*"I just read five things about myself in this book. One of them landed. I want to know what you see. Not the version of me I've been showing you — the one you actually see."*
+
+That's the whole thing. One conversation. Twenty minutes, maybe less. The asking is the move.
+
+Here's why this is harder than it sounds, and why it matters:
+
+The asking is the move. Not the answer you get. Not whether they see you correctly. Not even what you learn. The asking is the part where you stop performing the version of yourself you've been showing them, and find out what they actually see when you stop performing it.
+
+That's the Two Readings test, applied here.
+
+Reading one: you ask to be seen because you've been seen, and the asking is how the seeing turns into a move. You already know what you noticed. You're asking because the noticing needs somewhere to land.
+
+Reading two: you ask to be seen because the asking is itself a sophisticated form of staying seen without being known. You get to perform the vulnerability without doing the vulnerability. The conversation happens. Nothing in you changes.
+
+The same warmth. The same *yes*. The same test: *did the asking start a move, or end one?*
+
+I built this book for three years while telling myself I wasn't avoiding it. I was making the work smaller, slower, less alive — because finishing it would mean someone could finally see it, and someone could finally see me. The asking is the move. Not just for you. For me. For the page you're about to turn to.
+
+You already know who to ask. They probably already know what they see. The harder part is finding out they were right, and what you do with that.
+
+*Who you asked, what you said, what they said back, what surprised you. → app*
+
+---
+
 ## The Reader's Oath
 
 Before you turn the page — know this.
