@@ -130,3 +130,29 @@ WB-11:
 3. **Ch2 inversion = option (b)** — framing seam at §4 open + back-reference at §5 open; no restructure. Lands in the same Ch2 WB-6 pass.
 
 **Status:** WB-10 + WB-11 terminology/sequencing foundation is now fully decided and ready to feed the WB-1 + WB-6 per-chapter passes (step 3). No outstanding decisions.
+
+---
+
+## G. What shipped 2026-06-03
+
+**Committed (commit `b78db70`):**
+
+- **Ch0 L57–59** — One-sentence Shadow plant inserted between the Watts/Carse and Elliott paragraphs. Capital S, singular, scoped to framework #2 (disowned material), hands reader a gripable handle before Ch1's full definition.
+- **Ch2 §4 open (L147–148)** — Forward-pointing seam: "These are the tools. In Section 5 you'll meet what they're *for*."
+- **Ch2 §5 open (L573–577)** — Back-reference tightening: existing "everything up to now... those were tools" language kept; appended explicit "the Shadow they were built for" to make the dependency order felt.
+
+**Audited but not edited (already canonical):**
+
+- **Ch3 L307** — "The Challenger *in distortion* uses 'no' to control" — already in canonical form. Spec's swap-map line was stale.
+- **Ch7 L177–187** — "Each one, used wrongly, becomes a shadow" + 5-mode "shadow" labels (Panoramic Seer's shadow, Switcher's shadow, etc.) — these are the **Face's shadow** (Sage's shadow as a Sage concept), not framework #2 drift. They live inside the Sage chapter where the Face-as-Player model is at home. Already in canonical form per 2026-06-01 WB sprint (`62219b8`).
+- **Ch8 L40–46** — "shadow Player" / "Player in distortion" — already using canonical handle. Same sprint.
+- **Ch0 L55** "The shadow work — Carolyn Elliott's, Carl Jung's" — refers to the **intellectual tradition** (school of thought), not framework #2. Left intact. Elliott/Jung remain the debt.
+- **Ch0 L317** "Your shadow face" (Build Your Allyship Character) — distinct concept (depleted dominant face), not framework #2. Left intact.
+- **Ch1 L33–37** — already elevated to canonical Shadow/Distortion/Cost nested definition during WB-4 (commit `b3cb0ba`). No edit.
+
+**Remaining open items (move to WB-1 + WB-6 chapter passes, per spec):**
+
+1. **Action-Village build-up** (B1) — coordinate with WB-1. The Village needs to be a real arena of exterior action, not just the mythic exile-place. This is structural content work, not terminology swap.
+2. **"The Game" scope discipline** (B2) — light touch, prevent "design your own game" / Carse taxonomy / §6 title from silently overwriting the spine ("the game you're already playing"). Watch for in WB-1 pass.
+3. **"Forest" light touch** (B3) — keep Forest as the *place*; ensure no passage uses "the Forest" as bare synonym for "the gate-walk." Audit during WB-6 gate-walk pass.
+4. **Ch2 §4/§5 acceptance verification** — needs a coherence read after the seam lands. If the seam doesn't read as deliberate, the inversion is still felt. Reader-catch by a fresh pair of eyes is the gate.
