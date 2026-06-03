@@ -321,7 +321,7 @@ These are not fixes to the book; they are guardrails on the *fixing process*, ea
 
 | Fix | Tier | Gating decision |
 |-----|------|-----------------|
-| WB-1 per-chapter external action | D | — |
+| WB-1 per-chapter external action | D | ✅ PARTIAL 2026-06-03 — Ch0 "The First Move" shipped (commit `63ee78c`): bounded 7-day ask of one trusted person, 20-min conversation, charge-test applied, → app BAR prompt. Establishes the per-chapter shape (7-day window + real person + conversation + charge-test + app loop). 7 chapters remain (Ch1–Ch8, per spec §"Per-chapter targets" above). **Stays in flight.** |
 | WB-2 relocate "two readings" | D | ✅ DONE 2026-05-29 — placement A (Ch0, "Two Readings" beat between Build Character + Oath); Ch7 trimmed to callback; WB-4 L323 seam fixed in same pass |
 | WB-3 wu xing acknowledgment + Appendix E | D | ✅ DONE 2026-06-03 — in-voice wu xing acknowledgment at Ch2 first-use (owns the divergence from classical correspondences: book maps Metal→Fear/Water→Sadness vs. TCM Metal→grief/Water→fear); Appendix E built out as `appendices/ON_THE_SHOULDERS_OF.md` (Wilber, Egan, Elliott+Genpo, Chou, Watts, Carse, I Ching, wu xing, Maslach/Gorski). **Karpman OMITTED** (Drama Triangle powerful but not structurally integrated — only associated w/ Victim↔Controller; would overclaim a debt). **Polarity (Barry Johnson) DEFERRED** — source unconfirmed, omit until Wendell verifies rather than miscredit. |
 | WB-4 shame pass | R + D | ✅ DONE 2026-06-03 — Ch1 L67 "not being enough" grief declaratives retired (→ "cost more than it paid back" / "still hitting the wall"; existing "terms were set wrong" lands it); Ch4 L560/562 already done by WB-5/WB-12; 6-beliefs full list now Ch1-only (Ch2 + Ch4 cross-ref Ch1, framing kept); therapy off-ramp added at all 5 Damaged-Self/Hollowed-Self gates (Ch2/3/4/5/6), conditional framing, no somatic prescription. |
@@ -355,3 +355,38 @@ Two lenses run in parallel: **execution** front-loads cheap Tier-R wins; **impor
 **Stop condition (Sage):** after step 4, re-read as the ideal reader. If she *acts* — a bounded external thing she'll do, and she wants the prize enough to do it — **the book works.** Steps 5–6 are coherence, decisions, and polish, not rescue. Do not let the remaining items become the perfectionism the book's own Ch0 warns against.
 
 **Between every batch:** run a short coherence/repair pass (Diplomat) — a large simultaneous edit breaks relationships between passages that currently hold. **Every applied fix** names its Obsidian canonical-write path and approval gate (Regent); the compile stays derived until Wendell promotes.
+
+---
+
+## WB-1 — Shipped 2026-06-03 (Ch0)
+### Ch0 — "The First Move" (commit `63ee78c`)
+
+**Where it lives:** Between *Two Readings* and *Reader's Oath*. The structural reason: Two Readings is the inoculation (you will recognize things in this book; the recognition can be a move or a hiding place); the *First Move* applies the inoculation to a concrete action *before* the oath. The oath then reads as: I've asked. Now I keep playing.
+
+**The shape (template for Ch1–Ch8):**
+
+1. **Time-boxed window.** 7 days. Not "soon." Not "in your practice." A clock.
+2. **Real person, specific relation.** "Someone who has known you longer than a single conversation" — not a stranger, not a coach, not the app. The Village target.
+3. **The single sentence the reader says.** Quoted in the book. The reader does not have to design their own ask; they have to deliver it. Charge-test built in (asking to be seen is asking to be vulnerable).
+4. **A finish line.** "One conversation. Twenty minutes, maybe less." The reader knows when they're done.
+5. **Why-it-matters in one sentence.** "The asking is the move" — restated as a compressed definition in the section, not buried in explanation.
+6. **Charge-test (Two Readings applied).** The section names reading one (asking starts a move) and reading two (asking is a sophisticated form of staying seen without being known). Same test as the parent section, applied to the action.
+7. **First-person disclosure that turns universal.** "I built this book for three years while telling myself I wasn't avoiding it." The author is in the move, not outside it. This serves the Teal reader's need for the author to have been somewhere real.
+8. **BAR prompt at close.** "*Who you asked, what you said, what they said back, what surprised you. → app*" — the recognition-capture loop, wired to the move.
+
+**Charge-test passed:** The ask is asking to be seen. That is frightening in the body for the ideal-reader profile. It is not tidiness. It is not homework.
+
+**Acceptance criteria status (per spec §"Per-chapter targets"):**
+- [x] One bounded external action (scoped, time-boxed, completable, involves another person)
+- [x] Not satisfiable by self-reflection or BAR capture alone
+- [x] Charge-test passed
+- [x] Wired to BAR capture loop
+
+**Author-shadow disclosure:** The first-person passage ("I built this book for three years...") is the author in the move. The risk: over-sharing the book's history can read as compensation. Mitigated by brevity (one paragraph) and placement (after the charge-test, where the reader has just been asked to do something hard — the author's parallel disclosure feels like solidarity, not confession).
+
+**Out of scope for Ch0 (resolved by later WB-1 chapter passes):**
+- Interior:exterior word ratio rebalancing (Ch0's existing ratio is fine — the new section is small and the request is bounded).
+- App-side wiring of the "did the seeing start a move" question (Architect follow-on, per WB-2 spec note).
+- Removing a five-part system to fund the action (Ch0 has no five-part system; not applicable).
+
+**Reuse for Ch1–Ch8:** Each chapter's action follows this shape — but the *specific* ask varies per the chapter's Face. The template is the eight bullets above. The ask is bespoke per chapter.
