@@ -323,8 +323,8 @@ These are not fixes to the book; they are guardrails on the *fixing process*, ea
 |-----|------|-----------------|
 | WB-1 per-chapter external action | D | — |
 | WB-2 relocate "two readings" | D | ✅ DONE 2026-05-29 — placement A (Ch0, "Two Readings" beat between Build Character + Oath); Ch7 trimmed to callback; WB-4 L323 seam fixed in same pass |
-| WB-3 wu xing acknowledgment + Appendix E | D | — |
-| WB-4 shame pass | R + D | — |
+| WB-3 wu xing acknowledgment + Appendix E | D | ✅ DONE 2026-06-03 — in-voice wu xing acknowledgment at Ch2 first-use (owns the divergence from classical correspondences: book maps Metal→Fear/Water→Sadness vs. TCM Metal→grief/Water→fear); Appendix E built out as `appendices/ON_THE_SHOULDERS_OF.md` (Wilber, Egan, Elliott+Genpo, Chou, Watts, Carse, I Ching, wu xing, Maslach/Gorski). **Karpman OMITTED** (Drama Triangle powerful but not structurally integrated — only associated w/ Victim↔Controller; would overclaim a debt). **Polarity (Barry Johnson) DEFERRED** — source unconfirmed, omit until Wendell verifies rather than miscredit. |
+| WB-4 shame pass | R + D | ✅ DONE 2026-06-03 — Ch1 L67 "not being enough" grief declaratives retired (→ "cost more than it paid back" / "still hitting the wall"; existing "terms were set wrong" lands it); Ch4 L560/562 already done by WB-5/WB-12; 6-beliefs full list now Ch1-only (Ch2 + Ch4 cross-ref Ch1, framing kept); therapy off-ramp added at all 5 Damaged-Self/Hollowed-Self gates (Ch2/3/4/5/6), conditional framing, no somatic prescription. |
 | WB-5 prize-in-the-body | D | — |
 | WB-6 gate-walk de-densify | D | — |
 | WB-7 name the book's terms (funnel) | **D** (decided) | ✅ funnel owned; bars-engine = recommended, optional |

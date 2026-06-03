@@ -270,6 +270,10 @@ This stage can happen in real-time (in the next ten seconds) or can unfold over 
 
 ## The Five Elements: How Different Feelings Flow Through the WAVE-Spiral
 
+*A note before this map.* The five channels below — and the element-names I hang them on — come from **wu xing** (五行), the five-phase system at the heart of classical Chinese cosmology and medicine. Metal, Water, Wood, Fire, Earth: a two-thousand-year-old way of describing how energy moves and turns into something else. I didn't invent it. I inherited it — the way I inherited most of what's in this book — and I'd rather name that out loud than quietly fold an old tradition into a self-help framework as if it were mine.
+
+Two honest caveats. What I do here is narrower than the original: I've bent the system toward one job — reading a feeling in the moment — and left most of its depth on the shelf. And my pairings of feeling to element are my own adaptation; they don't all match the classical correspondences. (In the traditional system grief belongs to Metal and fear to Water; I've mapped them by how they show up in a room.) Where that divergence bothers a reader who knows the tradition, it's mine to own — not the tradition's fault. If the five channels resonate, the lineage runs deeper than anything I do with it here. Appendix E points the way.
+
 Every feeling you experience falls into one of five channels. Understanding which channel you're in helps you know what the feeling is trying to teach, and what move to make next.
 
 ### The 5 Channels and Their Lessons
@@ -669,16 +673,7 @@ The lid is what's suffocating you. The Controller didn't know that. The Controll
 
 You pass this gate by *relieving* the Controller. Not firing them. Relieving them.
 
-**The grip produces the 6 beliefs as self-sabotage:**
-
-I'm not good enough.
-I'm not ready.
-I don't belong.
-I'm insignificant.
-I'm not worthy.
-I'm not capable.
-
-These beliefs are the reservations. When you answer the question *what reservations do you have about your creation?* — these are what the question surfaces. The Controller has been holding these beliefs in place since before you had words for them. The grip tightens every time you approach something that matters, and what the grip produces is the evidence that you shouldn't try.
+**The grip produces the same six beliefs you met in the Forest** — the Controller's record of every time you approached something that mattered and stopped (Chapter 1 has the full list). They're the reservations. When you answer the question *what reservations do you have about your creation?* — these are what the question surfaces. The Controller has been holding them in place since before you had words for them. The grip tightens every time you approach something that matters, and what the grip produces is the evidence that you shouldn't try.
 
 The energy that was flowing toward the feeling — toward the practice, toward the change — the Controller redirects. Not toward the belief. Away from the attempt. The belief becomes the reason to stop, and the stopping feels like safety, and the safety is a lie you've been telling yourself for so long you forgot it was a choice.
 
@@ -845,6 +840,8 @@ So you sit. You let them speak. You don't take notes and you don't take it perso
 *I see you. I am not leaving you here.*
 
 And then you stand up.
+
+And if staying here opens more than this page can hold — that's not the walk failing. It's the signal that this gate is a room better entered with company. A therapist's room, not this page. There's no prize for doing the deepest work alone.
 
 When you're ready, keep walking.
 

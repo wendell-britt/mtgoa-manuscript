@@ -403,6 +403,8 @@ So stay.
 
 That's the move at this gate. You don't fix the Damaged Self. You don't argue. You don't offer evidence of your competence. You just stay. You let the Damaged Self see that you can be in the same room with this feeling and still do the work.
 
+And if staying with it opens more than the page can hold — read that the way the Architect reads any signal that exceeds the current system's capacity: not as failure, but as a sign you need more support in the loop. This is a gate some people are right to walk with a therapist. Going alone isn't the more rigorous design.
+
 When you're ready, keep walking.
 
 *What does the Damaged Self believe about you — in exact words, not your reframe? Write it down before you build a case against it. And then: what was it like to stay with it instead of correcting it? The Architect who knows when not to intervene understands the system better. That staying is the move. → app*

@@ -1,6 +1,6 @@
-# On the Shoulders Of — Maps I Used
+# Appendix E — On the Shoulders Of: The Maps I Used
 
-*Back matter. This book is a synthesis, not an invention. Where an idea here is load-bearing, it has a lineage — and you deserve to know where to read further if something resonated and you want the rigor underneath it. This section maps each source to what it contributed and where to go next. (Seeded 2026-06-02 with the body-and-emotion lineage; the full section grows as the rest of the back matter is built.)*
+*Back matter. This book is a synthesis, not an invention. Where an idea here is load-bearing, it has a lineage — and you deserve to know where to read further if something resonated and you want the rigor underneath it. This isn't a complete bibliography; it's an honest map of which parts of the book are indebted to which sources, and what those sources offer a reader who wants to go deeper. I've only listed the work the book actually stands on — not every adjacent idea I admire.*
 
 ---
 
@@ -12,5 +12,49 @@ The method at the heart of this book — emotional alchemy, the conviction that 
 - **Peter Levine — *Waking the Tiger* (and Somatic Experiencing).** How activated emotional energy moves, completes, or gets stuck — the physiology under "the charge" and why staying with a feeling lets it finish its cycle.
 - **Bessel van der Kolk — *The Body Keeps the Score*.** The now-canonical account of how experience lives in the body and how it heals. Accessible, rigorous, and the best single entry point to the whole field.
 - **Stephen Porges — Polyvagal Theory** (see also Deb Dana's *The Polyvagal Theory in Therapy* for an accessible version). The map of how safety, threat, and connection get registered below conscious thought — the architecture beneath what the chapters call old wiring.
+
+---
+
+## The Five Channels
+
+The five emotional channels in Chapter 2 — Metal, Water, Wood, Fire, Earth — come from **wu xing** (五行), the five-phase system at the heart of classical Chinese cosmology and medicine. It's roughly two thousand years older than anything else in this book, and it describes how energy moves and transforms through five recurring qualities. I use it narrowly: as a way to read a feeling in the moment and know what it's asking for. The classical system is vastly deeper than that, and it pairs feelings to elements differently than I do (in the tradition, grief belongs to Metal and fear to Water — I've remapped them by how they show up in a room). The adaptation is mine; the system is inherited. If the channels resonate, the tradition they came from will repay any reading you give it. *The Web That Has No Weaver* by Ted Kaptchuk is a careful, respectful Western entry point to the five-phase system in its original medical context.
+
+---
+
+## The Developmental Architecture
+
+The Six Faces follow a developmental arc — the movement from the Shaman's fire through order, strategy, and care toward the Sage's altitude. That arc is **Ken Wilber's**, drawn from *Integral Life Practice* (with Terry Patten, Adam Leonard, and Marco Morelli) and the broader Integral model, which itself builds on the Spiral Dynamics work of Clare Graves and Don Beck. The book deliberately keeps the altitude language in the background — the colors and stage-names carry baggage that gets in the way on the page — but the architecture underneath is Wilber's. *A Theory of Everything* is the most accessible entry; *Integral Life Practice* is where the practice lives. Wilber is also the source of the "transcend and include" principle — that each capacity carries the gifts of all the ones before it — which is the structural logic of the whole book.
+
+---
+
+## The Practice
+
+Every "Try It Now" in this book has a shape, and the shape is **Gerard Egan's**. *The Skilled Helper* is forty years of work on what skilled helping actually looks like as a reproducible practice rather than a set of good intentions: name the current picture, find the preferred picture, build the path between them. That's the invisible scaffolding under how this book teaches — and Egan's deeper insight, that the helper's presence is the primary instrument and that you create the conditions for someone to develop rather than doing their work for them, is the spine of the Sage chapter. If you want to go further on the craft of helping, this is the book.
+
+---
+
+## The Shadow Work and the Gates
+
+The 8 Gates are a marriage of two lineages. The architecture — the named voices (Protector, Controller, Skeptic, Victim, Damaged Self, Vulnerable Child, and the rest), the practice of speaking *as* each voice, hearing its logic, and giving it a narrower job instead of trying to destroy it — comes from **Genpo Roshi's Big Mind Process** (Dennis Genpo Merzel). The approach you take once you're at a gate comes from **Carolyn Elliott's *Existential Kink***: the insight that a shadow isn't a defect to fight but a pattern that has been doing a job for you — you ask it what it's been protecting, you thank it, then you ask it to teach you instead of run you. Big Mind gives the gates their structure; Elliott gives them their spirit. Read *Existential Kink* when the gates start revealing something bigger than the chapter you're in.
+
+---
+
+## The Game
+
+The game frame isn't a metaphor I reached for — it's a claim I inherited from three thinkers. **Alan Watts** (*You're It!*, *Out of Your Mind*) is the philosophical ground: his lifelong point that the most fundamental game is hide-and-seek — consciousness forgetting itself in order to find itself — is what makes the frame serious rather than cute. **James Carse** (*Finite and Infinite Games*) sharpened it into something usable: a finite game is played to win and ends; an infinite game is played to keep the play alive. Burnout, hitting the wall, "losing" at allyship — that's the felt experience of finite-game architecture applied to work that has no finish line, which is exactly why this book proposes redesigning the game rather than trying harder inside the old one. And **Yu-kai Chou** (*10,000 Hours of Play*, with Mark Diaz) is the game-mechanics tradition underneath the Tokens and Tickets — his Octalysis map of the core drives of motivation, and his quest grammar, are what give the moves their stakes. Read Watts for the why, Carse for the frame, Chou for the mechanics.
+
+---
+
+## The Oracle
+
+The hexagrams that structure the oracle cards come from **the I Ching** — the Chinese *Book of Changes*, a three-thousand-year-old system for reading the quality of a moment. I use the Richard Wilhelm translation, rendered into English by Cary F. Baynes (Princeton University Press, Bollingen Series). The Image text that opens each card is from this tradition. Its core insight — that situations have qualities, and that naming the quality of a moment is already a form of guidance — is what makes the cards oracular rather than instructional. As with the five channels: the wisdom belongs to a tradition I didn't create. I applied it to allyship practice; I don't own it.
+
+---
+
+## A Note on the Research
+
+The burnout claims in this book aren't impressions — they're grounded in **Christina Maslach's** clinical research (the Maslach Burnout Inventory and associated papers identify three dimensions: exhaustion, depersonalization, and inefficacy) and **Paul Gorski's** research on activist burnout specifically ("Burnout in Social Justice and Human Rights Activists: Symptoms, Causes, and Implications," 2015). Gorski's finding is the one that reorganized my thinking: identity fusion is the mechanism — when the work *is* who you are, there's nothing left to regulate the cost. Their work is the backbone of the book's central empirical claim: the problem isn't the practitioner. It's the design of the game.
+
+---
 
 *These are influences, gratefully named — not authorities I'm hiding behind. Take what's useful; the work is yours.*

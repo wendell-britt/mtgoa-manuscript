@@ -416,16 +416,7 @@ The Controller will not let go because you asked. The Controller lets go because
 
 Relieve the Controller. Don't fire them. Let them stand down.
 
-**The grip produces the 6 beliefs as self-sabotage:**
-
-I'm not good enough.
-I'm not ready.
-I don't belong.
-I'm insignificant.
-I'm not worthy.
-I'm not capable.
-
-These beliefs are the reservations. When you answer the question *what reservations do you have about your creation?* — these are what the question surfaces. The Controller has been holding these beliefs in place since before you had words for them. Each one is a record of a time you almost committed and stopped. Each one feels like a fact about your capacity. None of them are facts. They are the Controller's inventory of your history of not-trying, held up as evidence that you should never try.
+**The grip produces the same six beliefs the Controller always produces** — the ones you first met in the Shaman's forest (Chapter 1 lists them). They're the reservations. When you answer the question *what reservations do you have about your creation?* — these are what the question surfaces. The Controller has been holding them in place since before you had words for them. Each one is a record of a time you almost committed and stopped. Each one feels like a fact about your capacity. None of them are facts. They are the Controller's inventory of your history of not-trying, held up as evidence that you should never try.
 
 The belief is not the problem. The Controller presenting the belief as a current fact is the problem. The belief is data about the past. The grip is treating it as a prophecy.
 
@@ -562,6 +553,8 @@ Do not argue with the Damaged Self. Do not produce evidence of your competence. 
 "Enough" is the bullshit prize here — the idealized Regent, flawless, finally arrived, beyond reproach. You will never win it, because no one does; it was never a real prize. And you can do this anyway — not by becoming enough, but because the tradition needs tending and you're the one who showed up.
 
 The Damaged Self will not be resolved. But it can be witnessed. And witnessing it is enough.
+
+And if witnessing it opens more than this page can hold, let that be permission, not alarm: this is a gate some people are right to walk with a therapist beside them. Doing it alone isn't braver. It's just lonelier.
 
 When you're ready, keep walking.
 

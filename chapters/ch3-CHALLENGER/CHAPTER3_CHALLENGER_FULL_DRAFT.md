@@ -609,6 +609,8 @@ The witnessing is different. The witnessing says: *I see you. I know you believe
 
 So stay.
 
+And if this one cracks open something bigger than a chapter can hold, that's not a failure of nerve — it's information. Some rooms are meant to be entered with a therapist in them. There's no extra credit for going in alone.
+
 When you're ready — and only when you're ready — keep walking.
 
 *You stayed with the Damaged Self instead of fixing them. That was the move — not the correction, the staying. What was it actually like to sit with the belief without arguing against it? Not the analysis. The staying itself. → app*

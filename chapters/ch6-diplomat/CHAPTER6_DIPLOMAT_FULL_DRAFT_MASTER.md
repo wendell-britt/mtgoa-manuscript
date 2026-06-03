@@ -431,6 +431,8 @@ This is the accumulation of damage — not an identity wound, but a survival cos
 
 The move at this gate is the longest: you do not argue with the Hollowed Self. You do not try to restore what was lost in one conversation or one return walk. You simply begin to notice. The next time you accommodate automatically — pause. The next time you reshape yourself for the room — note it. You are not trying to undo years of adaptation in one sitting. You are simply beginning to find the shape again — through the scar tissue, through the adaptations, through the accumulated cost.
 
+And if beginning to look for the original shape opens more than this page can hold — that's not a setback. Finding your way back through years of self-erasure is, for many people, a therapist's room and not this one. There's no version of this where doing it alone counts for more.
+
 *One accommodation that happened so automatically you almost didn't catch it — not the pattern, the specific moment: the room's shape arrived, you started to override, and then you did. What did the override feel like just before it completed? That's the scar tissue showing. → app*
 
 ---
