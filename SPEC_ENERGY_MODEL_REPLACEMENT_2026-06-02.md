@@ -54,3 +54,30 @@ The deprecated **per-move point-scoring** — `Transcend +2 energy`, `Generative
 2. Calibrate **Ch2 § The Energy Economy** (densest) → Wendell sign-off.
 3. Sweep Ch3 + Ch4 to the approved register; fix the recap-list references (Ch2 L578/L989, Ch3 L366/L759, Ch4 L331).
 4. Confirm Ch0 framing still reads as the source-of-truth for the spine.
+
+---
+
+## 6. AMENDMENT — 2026-06-03 (prize refinement + domains/campaigns in the spine)
+
+**Trigger:** Ch0 spine check (2026-06-03) found Ch0 names Tokens + Tickets but never names **Prizes** — yet "prize" is load-bearing downstream (Ch2 calibration, WB-5/WB-12). Ran a 6-Game-Master council on Wendell's insight: *the prize is showing up skillfully, and successful campaigns (the four domains) are funded by tickets earned that way.* Council near-unanimous adopt + one shared guardrail. **Wendell approved the reframe and the Ch0 dosage 2026-06-03.**
+
+**What changed in the canonical model (amends §1):**
+- §1 defined **Prizes = the impact (visible outcome)**. This was a **category error** (Challenger): it collapsed *what you produce in the world* with *what you're playing for*. CORRECTED.
+- **The prize = showing up skillfully** — the renewable interior/relational state of playing well (fed, not hollow), NOT the optics of impact.
+- **Tickets** = what you earn *by* showing up skillfully (unchanged, sharpened).
+- **NEW spine term — Campaigns** = sustained work in one of the **four allyship domains** (Gather Resources, Skillful Organizing, Direct Action, Raise Awareness), **funded by tickets**. This gives tickets an *external sink* (Architect: fixes the closed self-care loop — interior work is the capital base for real-world domain work) and gives the domains an economic home in the spine.
+
+**Reconciled spine (canonical as of 2026-06-03):**
+> **Tokens** (fuel you spend, renewable vs non-renewable) → you **show up skillfully** → **Tickets** (what that earns) → **Campaigns** (sustained work in one of four domains — what tickets fund) → **the Prize** = *getting to show up skillfully* + a campaign that keeps working after you leave.
+
+**Bullshit-prize sharpened (Diplomat, coheres with WB-5/WB-12):** a bullshit prize = the *performance* of showing up skillfully — impact-optics bought on non-renewable fuel, the appearance without the renewable state.
+
+**THE GUARDRAIL (every Face raised it — non-negotiable):** Ch0 **names** that campaigns exist, that tickets fund them, and name-drops the four domains — it does **NOT teach the four domains.** The domain *territory walk* stays where it was tested and earned: **Ch1 seed → Appendix A → Ch8 integration.** Ch0 = portal, not manual. Protect the sequencing (Regent).
+
+**Sage caution for the drafter:** do not let "showing up skillfully" harden into a new performance metric the reader grades herself against (Sage-in-distortion = altitude as scoreboard). Render it as the state she can tell she's in by whether the work fed her — never a standard she tallies. Hold the de-somatize line (felt via image/confession, never second-person body prescription).
+
+**Acceptance (adds to §4):**
+- [ ] Ch0 names all spine terms: Tokens → (show up skillfully) → Tickets → Campaigns/domains → Prize.
+- [ ] Four domains name-dropped in Ch0 but NOT taught there; territory walk stays Ch1/Appendix A/Ch8.
+- [ ] "Prize = showing up skillfully" (not "= impact") consistent book-wide; bullshit-prize beats cohere.
+- [ ] Ch0 L119 + L137 body-feel prescriptions de-somatized (Ch0 was never swept Tier-1).

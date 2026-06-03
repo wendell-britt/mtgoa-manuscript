@@ -100,7 +100,7 @@ You've been doing this your whole allyship life. The manual was missing. Now you
 
 ---
 
-This book is the manual. The **Token System** and **Ticket System** tell you what you're spending and what you're earning back. The **six mentor-guides** in the chapters ahead are capacities you already have — not characters you become. Your **character sheet** is a snapshot you'll update as you play. The **BAR deck** — you'll meet it in a moment — is how you capture what lands before it fades.
+This book is the manual. The **Token System** and **Ticket System** tell you what you're spending and what you're earning back — and what those tickets are *for:* the **campaigns** you'll learn to fund with them. The **six mentor-guides** in the chapters ahead are capacities you already have — not characters you become. Your **character sheet** is a snapshot you'll update as you play. The **BAR deck** — you'll meet it in a moment — is how you capture what lands before it fades.
 
 ---
 
@@ -116,7 +116,7 @@ Every game has a currency. In the Infinite Arcade, the currency is tokens — an
 
 Most allyship advice assumes you have an infinite supply of non-renewables. Show up. Amplify. Center the marginalized. Listen more. The advice is not wrong — it is silent about the fact that every one of those actions costs something. And if you spend without replenishing, you go empty.
 
-Here's what that looks like in practice. You walk into a meeting where a colleague says something that erases your community's experience. You feel it in your chest — a tightening, a heat. That is a token being spent. The feeling is real. The cost is real. You can spend another token arguing with them in the room. You can spend a token biting your tongue and processing later. You can spend a token on the drive home and the conversation with your partner at night. The meeting was ten minutes. The spending goes on for hours.
+Here's what that looks like in practice. You walk into a meeting where a colleague says something that erases your community's experience. Something just got spent — you know it before you've decided what to do. That is a token being spent. The feeling is real. The cost is real. You can spend another token arguing with them in the room. You can spend a token biting your tongue and processing later. You can spend a token on the drive home and the conversation with your partner at night. The meeting was ten minutes. The spending goes on for hours.
 
 (You already knew this. You've done this math in a parking garage, on a run, in the shower. The fact that a specific meeting just surfaced in your mind is the whole point.)
 
@@ -134,7 +134,7 @@ That is the practice. Not scarcity. Literacy.
 
 **Two currencies — don't mix them up.** Tokens and fuel are what *you* spend to keep playing — your personal energy economy. Later, when you meet the Diplomat, you'll work with a different game: **terms** — what the relationship or field must hold so that staying is real for everyone. Fuel answers *Can I afford to show up?* Terms answer *What does this agreement actually require of each of us?* Same word family in ordinary speech ("What's the price of this?"), two different games on the arcade floor. Learn fuel here. Learn terms in Chapter 6.
 
-This isn't abstract. You feel non-renewable spending — the heaviness after a hard conversation, the dread before showing up, the sense that you're performing care you don't actually have. Renewable spending feels different — tired but not empty, stretched but not hollow.
+This isn't abstract. Non-renewable spending has a signature — the heaviness after a hard conversation, the dread before showing up, the sense that you're performing care you don't actually have. Renewable spending feels different — tired but not empty, stretched but not hollow.
 
 **Time** is the token you can never earn back. Every hour you spend in the wrong game is an hour you cannot play in the right one. Every relationship you maintain because you feel obligated is a relationship that could be a quest. Every intervention you make without naming your exit terms is a game that plays you.
 
@@ -165,6 +165,22 @@ The ticket system also names what is not a ticket. Guilt is not a payout. It cos
 The arcade floor has a scoreboard. It does not show likes. It shows your balance — what you have left, what you have earned, what you are spending and why.
 
 (Some players in the Arcade earn a special currency — Vibeulons — when they complete quests or finish practices. We'll talk about those later. For now, the ticket is simpler: what are you spending, and what are you actually earning back?)
+
+---
+
+## The Prize — What You're After
+
+Tickets are not the point either. They are what you earn. The real question is what you earn them *for.*
+
+Here is the prize, and it is smaller and stranger than the one you were sold: **the prize is getting to show up skillfully.** Not the applause for it. Not the visible win. The actual experience of playing a hard moment well — clear, warm, unhurried, *yours* — and walking out still able to play the next one.
+
+That sounds like too little, until you count what you spent chasing the other prize: the *look* of having done it right. The look can be bought on guilt and obligation. It photographs well. It leaves you hollow. That is the bullshit prize — the performance of showing up skillfully, paid for with fuel that doesn't renew, at a price you can't keep paying. The real prize can only be bought one way: by actually showing up skillfully, on fuel that refills as you spend it.
+
+And here is where the game opens past you.
+
+The tickets you earn showing up skillfully are not just yours to feel good about. They are capital. They fund **campaigns** — sustained work in the world that outlasts any single moment of courage. Movement builders have known the shape of that work for sixty years: there are four kinds of it — **gathering resources, organizing the conditions, taking direct action, raising awareness.** You'll walk each of those territories later; the Forest names them first, and the appendix maps them. For now, hold only this: the interior work is not self-care that ends with you. It is the capital base for the real work. You show up skillfully → you earn tickets → the tickets fund campaigns → the campaigns change conditions that were never going to move on guilt alone.
+
+That is the whole economy on one arcade floor. Tokens are the fuel. Showing up skillfully is the play. Tickets are what it earns. Campaigns are what the tickets fund. And the prize — the one you actually came for — is getting to be someone who can keep showing up, in work that keeps working after you've left the room.
 
 ---
 
