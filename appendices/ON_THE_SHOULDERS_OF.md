@@ -1,4 +1,4 @@
-# Appendix E — On the Shoulders Of: The Maps I Used
+# Appendix G — On the Shoulders Of: The Maps I Used
 
 *Back matter. This book is a synthesis, not an invention. Where an idea here is load-bearing, it has a lineage — and you deserve to know where to read further if something resonated and you want the rigor underneath it. This isn't a complete bibliography; it's an honest map of which parts of the book are indebted to which sources, and what those sources offer a reader who wants to go deeper. I've only listed the work the book actually stands on — not every adjacent idea I admire.*
 

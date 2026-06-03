@@ -272,7 +272,7 @@ This stage can happen in real-time (in the next ten seconds) or can unfold over 
 
 ## The Five Elements: How Different Feelings Flow Through the WAVE-Spiral
 
-*A note before this map.* The five channels below come from **wu xing** (五行), the five-phase system at the heart of classical Chinese cosmology and medicine — Metal, Water, Wood, Fire, Earth: an ancient account of how energy moves and turns into something else. Honesty compels a confession. I took an exquisitely precise sacred tradition, bent it to one mundane job — reading a feeling in the moment — and changed half the correspondences to suit me. (Classically, grief is Metal and fear is Water. I moved them. A scholar would wince.) So this is *inspired by* wu xing, not faithful to it — I rummaged through a two-thousand-year-old system and kept the parts that worked for what I was building. The genuinely absurd thing is that they do. If the channels land for you, the tradition behind them runs far deeper than my remix of it — Appendix E points the way.
+*A note before this map.* The five channels below come from **wu xing** (五行), the five-phase system at the heart of classical Chinese cosmology and medicine — Metal, Water, Wood, Fire, Earth: an ancient account of how energy moves and turns into something else. Honesty compels a confession. I took an exquisitely precise sacred tradition, bent it to one mundane job — reading a feeling in the moment — and changed half the correspondences to suit me. (Classically, grief is Metal and fear is Water. I moved them. A scholar would wince.) So this is *inspired by* wu xing, not faithful to it — I rummaged through a two-thousand-year-old system and kept the parts that worked for what I was building. The genuinely absurd thing is that they do. If the channels land for you, the tradition behind them runs far deeper than my remix of it — Appendix G points the way.
 
 Every feeling you experience falls into one of five channels. Understanding which channel you're in helps you know what the feeling is trying to teach, and what move to make next.
 
@@ -536,7 +536,7 @@ When the charge is in a **person** — a figure you brace against — start with
 | Stuck between two *rights* | Polarity Map (Chapter 4 → Chapter 6) |
 | Charge is in *body* now | WAVE-Spiral |
 
-*Full process: Appendix — 3-2-1 Shadow Process. First practice: Chapter 3.*
+*Full process: Appendix E — The 3-2-1 Shadow Process. First practice: Chapter 3.*
 
 ---
 
@@ -566,7 +566,7 @@ Draw a line. Name the poles. Mark where you are today. The dot is a diagnostic �
 
 Use 3-2-1 when the trigger is a *person*. Use the Polarity Map when you're stuck between two things that both seem necessary. Use WAVE when the charge is already moving in you and ready to act.
 
-*Full polarity reference: Appendix: The Polarity Map. First draw: Chapter 4. First field practice: Chapter 6.*
+*Full polarity reference: Appendix F — The Polarity Map. First draw: Chapter 4. First field practice: Chapter 6.*
 
 ---
 

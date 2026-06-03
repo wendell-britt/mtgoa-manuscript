@@ -1,6 +1,7 @@
-<!-- PLACEMENT (Wendell, 2026-06-03): toolkit appendix — group with Appendix D (EA Practices), before the Bibliography. Final letter assigned in the appendix-ordering pass; in-text cross-refs (Ch2/Ch4/Ch6) anchor on the name "Appendix: The Polarity Map". -->
+# Appendix F: The Polarity Map
 
-# Appendix: The Polarity Map
+**Location in book:** After Appendix E; before Appendix G (the bibliography). Toolkit cluster (D/E/F). Letter locked 2026-06-03 in the appendix-ordering pass.
+
 
 *You met this tool in Chapter 2, drew your first axis in Chapter 4, and ran it in the field in Chapter 6. This is the full version — the one to come back to when a decision keeps refusing to resolve and you start to suspect it was never a decision at all.*
 

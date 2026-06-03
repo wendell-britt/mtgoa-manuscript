@@ -1,9 +1,9 @@
-# Appendix — The 3-2-1 Shadow Process (Reference)
-## *Gamma layer — full process relocated from Ch2 draft (2026-05-24)*
+# Appendix E: The 3-2-1 Shadow Process
 
-**Status:** RELOCATED — content from pre-compression Ch2  
-**Authority:** `CH3_321_PHASE2_SPEC.md` Part G  
-**Book body:** Phase 1 catalog in Ch2; **first practice in Ch3** (Challenger / oppressor projection)
+**Status:** Reader appendix — promoted from reference 2026-06-03 (appendix-ordering pass). Content relocated from pre-compression Ch2 (2026-05-24).
+**Authority:** `CH3_321_PHASE2_SPEC.md` Part G
+**Location in book:** After Appendix D; before Appendix F. Toolkit cluster (D/E/F), before the bibliography.
+**Book body:** Phase 1 catalog in Ch2; **first practice in Ch3** (Challenger / oppressor projection).
 
 ---
 
