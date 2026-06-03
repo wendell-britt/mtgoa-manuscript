@@ -354,7 +354,7 @@ Eight gates. Same order as before. Same path. Different territory.
 
 4. **Fixer** — Now you're in the trees. Says: *before you commit, fix what's broken about this. Make it worthy of your loyalty.* Job: Convert commitment into a project so you never have to actually give yourself to anything.
 
-5. **Fear** — Past the Fixer. Says: *if you take this on, you'll fail it. And then you'll have betrayed the thing you were trying to save.* Job: Rehearse the failure so you never have to risk it.
+5. **The Emotional Body** — Past the Fixer; the channel that runs here is Fear. Says: *if you take this on, you'll fail it. And then you'll have betrayed the thing you were trying to save.* Job: Rehearse the failure so you never have to risk it.
 
 6. **Victim** — Deeper still. Says: *I was told my loyalty was wrong. I was punished for belonging. I can't do this again.* Job: Keep the wound story alive so you never have to risk real belonging again.
 

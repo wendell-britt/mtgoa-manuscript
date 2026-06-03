@@ -389,7 +389,7 @@ Eight gates. One path. Same order, every time.
 
 4. **Fixer** — Now you're in the trees. Says: *don't confront — solve it another way.* Job: convert charge into a workaround so you never have to push.
 
-5. **Fear** — Past the Fixer, the first place it gets dark. Says: *if you push, they'll retaliate. You'll lose the relationship.* Job: rehearse the worst case so you never have to find out.
+5. **The Emotional Body** — Past the Fixer, the first place it gets dark; the channel that runs here is Fear. Says: *if you push, they'll retaliate. You'll lose the relationship.* Job: rehearse the worst case so you never have to find out.
 
 6. **Victim** — Deeper still. Says: *I can't confront because I was taught my anger was wrong. I was punished for pushing.* Job: keep the old story alive so you don't have to claim your power.
 
