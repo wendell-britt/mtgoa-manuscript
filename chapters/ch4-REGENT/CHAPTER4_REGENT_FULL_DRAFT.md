@@ -180,7 +180,9 @@ Try this now.
    "I stay with __________ because it still __________,
     and I need __________ to change before I can keep showing up honestly."
 
-4. Sit 30 seconds. Notice: heaviness (pole A stuck) or heat (pole B stuck) or ground (integrated).
+4. Read where your dot sits. Stuck at HONOR, something true has gone unsaid to keep the
+   form intact. Stuck at REFORM, you're about to pull out a thing people still lean on. At
+   center, your integrated sentence holds without either half flinching — that's the move.
 
 Back to the chapter.
 ```

@@ -566,7 +566,7 @@ Draw a line. Name the poles. Mark where you are today. The dot is a diagnostic â
 
 Use 3-2-1 when the trigger is a *person*. Use the Polarity Map when you're stuck between two things that both seem necessary. Use WAVE when the charge is already moving in you and ready to act.
 
-*Full polarity reference: Appendix â€” Polarity Map. First draw: Chapter 4. First field practice: Chapter 6.*
+*Full polarity reference: Appendix: The Polarity Map. First draw: Chapter 4. First field practice: Chapter 6.*
 
 ---
 
