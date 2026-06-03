@@ -33,6 +33,12 @@ Every "Try It Now" in this book has a shape, and the shape is **Gerard Egan's**.
 
 ---
 
+## The Polarity Map
+
+When a choice has two right answers and you keep ping-ponging between them, you aren't facing a problem — you're facing a polarity, and that distinction is **Barry Johnson's**. *Polarity Management* (and the later *And: The Polarity Approach to Continuous Improvement*) draws the line the book leans on hardest here: a problem has a solution and stays solved; a polarity is an ongoing tension between two genuine goods — honor and reform, care and impact — that has to be held rather than solved, because starving either pole eventually produces its own kind of failure. The Polarity Map you meet in Chapter 2 and draw in Chapters 4 and 6 is Johnson's tool stripped to its working core; his original is more rigorous, mapping the upsides and downsides of each pole and the early warnings that you've overcorrected into one of them. Read him when a tension in your work keeps refusing to resolve and you start to suspect it was never supposed to.
+
+---
+
 ## The Shadow Work and the Gates
 
 The 8 Gates are a marriage of two lineages. The architecture — the named voices (Protector, Controller, Skeptic, Victim, Damaged Self, Vulnerable Child, and the rest), the practice of speaking *as* each voice, hearing its logic, and giving it a narrower job instead of trying to destroy it — comes from **Genpo Roshi's Big Mind Process** (Dennis Genpo Merzel). The approach you take once you're at a gate comes from **Carolyn Elliott's *Existential Kink***: the insight that a shadow isn't a defect to fight but a pattern that has been doing a job for you — you ask it what it's been protecting, you thank it, then you ask it to teach you instead of run you. Big Mind gives the gates their structure; Elliott gives them their spirit. Read *Existential Kink* when the gates start revealing something bigger than the chapter you're in.
