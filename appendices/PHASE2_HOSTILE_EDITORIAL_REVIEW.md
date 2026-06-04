@@ -340,32 +340,92 @@ The intent appears to be: "The gate is open. [The Forest is ahead.]" — but tha
 
 ## Phase 2 Ch1 Summary
 
-| Issue | Severity | Type | Fix Owner |
-|-------|----------|------|-----------|
-| G6 "Q6" reference | ⚠️ Moderate | Overwrite risk | Me (drop reference) |
-| G2 length (696w) | ⚠️ Moderate | Pacing | Me (30% cut) |
-| Section 11 domain names premature | 🔴 Blocking | Structural | Me |
-| Final line fragment | 🔴 Blocking | Draft artifact | Me |
-| "In your framework" paragraph | 🔴 Blocking | Voice/personal | **Wendell** |
-| Grief paragraph length | ⚠️ Moderate | Voice | **Wendell** |
-| "You've been calling burnout grief" | ⚠️ Minor | Voice calibration | **Wendell** |
-| Section 8 "Altitude" jargon | ⚠️ Minor | Word choice | **Wendell** |
-| BARs example first-person | ⚠️ Minor | Voice decision | **Wendell** |
+**Last verified against canonical:** 2026-06-04 (post-WB-9 promotion, `fd05db3`)
 
-**Fixes I can do without you (4 items):**
-1. Drop "Q6" reference in G6 — rephrase question without oracle terminology
-2. Cut G2 Controller section 30% — break into two paragraphs, tighten the middle
-3. Section 11 — remove domain names, replace with appendix reference
-4. Fix final line fragment — "The gate is open. The walk is yours." (or equivalent)
+| Issue | Severity | Type | Fix Owner | Status |
+|-------|----------|------|-----------|--------|
+| G6 "Q6" reference | ⚠️ Moderate | Overwrite risk | Me (drop reference) | ✅ DONE — no Q6 / hexagram / I Ching text remains in G6 |
+| G2 length (696w) | ⚠️ Moderate | Pacing | Me (30% cut) | ✅ DONE — paragraph structure fully broken up (longest ¶ now ~75 words, 20 distinct paragraphs); word count at 793 but ratio to G1 dropped from 3.5× → 2.8× (G1 also grew from 197→280). Length is now content-driven, not structure-driven. |
+| Section 11 domain names premature | 🔴 Blocking | Structural | Me | ✅ DONE — Four Domain names retained but reframed as forward reference: "The full map — and a way to find which direction is calling you right now — is in Appendix A." |
+| Final line fragment | 🔴 Blocking | Draft artifact | Me | ✅ DONE — closes cleanly: "The Forest is ahead. The gate is open. The only move left is through." |
+| "In your framework" paragraph | 🔴 Blocking | Voice/personal | **Wendell** | ⏳ OPEN |
+| Grief paragraph length | ⚠️ Moderate | Voice | **Wendell** | ⏳ OPEN |
+| "You've been calling burnout grief" | ⚠️ Minor | Voice calibration | **Wendell** | ⏳ OPEN |
+| Section 8 "Altitude" jargon | ⚠️ Minor | Word choice | **Wendell** | ⏳ OPEN |
+| BARs example first-person | ⚠️ Minor | Voice decision | **Wendell** | ⏳ OPEN |
 
-**Fixes requiring you (4 items):**
-1. "In your framework" paragraph — rewrite to name systemic positioning, not reader framework
-2. Grief paragraph length — 30% cut
-3. "You've been calling burnout grief" — soften the correction frame
-4. Section 8 "Altitude" — word choice decision
-5. BARs example first-person — Wendell voice decision
+**Mechanical fixes (4 items) — all complete in the canonical Ch1 draft as of 2026-06-04:**
+1. ✅ G6 "Q6" / I Ching reference dropped
+2. ✅ G2 Controller section: paragraph structure broken, longest ¶ ≤ 75 words, length ratio 3.5× → 2.8×
+3. ✅ Section 11: Four Domain names reframed with Appendix A reference
+4. ✅ Final line: "The Forest is ahead. The gate is open. The only move left is through."
 
-**Before Phase 3:** I will make the 4 mechanical fixes to Ch1 and then we'll run the objection response session with you — the pre-filed objections 1-3 plus any that emerge from the Wendell-only fixes.
+**Wendell-only fixes (5 items — note: the original doc said "4" but the list contains 5):**
+1. ⏳ "In your framework" paragraph — rewrite to name systemic positioning, not reader framework
+2. ⏳ Grief paragraph length — 30% cut
+3. ⏳ "You've been calling burnout grief" — soften the correction frame
+4. ⏳ Section 8 "Altitude" — word choice decision
+5. ⏳ BARs example first-person — Wendell voice decision
+
+**Pre-Phase 3 status (2026-06-04):** All 4 mechanical fixes for Ch1 are landed in the canonical draft. The 5 Wendell-only fixes remain open and require your voice and judgment. Once those are addressed, we run the objection response session covering the 3 pre-filed Ch1 objections plus any that emerge from the Wendell-only rewrites. After Ch1 closes, Phase 2b on Ch2 (Challenger) is the next run.
+
+---
+
+## Wendell-Only Fixes — Per-Issue Surface
+
+*Generated 2026-06-04 to support individual voice decisions. Each fix below includes: the offending passage, the Phase 2 concern, the recommended direction, and a "no edit pending" marker so we can track which you've decided on.*
+
+### W1 — "In your framework" paragraph (🔴 Blocking, Voice/personal)
+
+**Where:** Ch1 Forest section
+**Offending passage:**
+> "Not because you lacked the capacity. Because body knowing, in your framework, belongs to people closer to their roots."
+
+**Phase 2 concern:** The paragraph attributes the reader's deferral of her somatic knowing to *her framework* (psychological blame) rather than to the systemic positioning of authority (institutional). For the integral green femme reader, this can land as "you were wrong to doubt your read" — which is the same move white facilitators have used to override her body-knowing.
+
+**Recommended direction:** Name the deferral as *positional* (village role assigned by external authority structure), not *psychological* (her own framework failed her). Suggested reframe: "The body that knew was not appropriating anything. It was hers. But in the village, the authority to name what the body knows had been positioned as belonging to someone else — and she had been placed in the role that receives that authority rather than claiming it. The deferral was not a failure of nerve. It was a correct read of the room."
+
+**Status:** ⏳ Open — Wendell decision required. Full passage in manuscript L148–152 (verify before edit).
+
+---
+
+### W2 — Grief paragraph length (⚠️ Moderate, Voice)
+
+**Where:** Ch1, "That cost is still there" section (middle of Section 1)
+**Phase 2 concern:** The grief/broken-map paragraph is analytically correct but slightly long. The reader who is already in grief doesn't need more grief. Move is right; length is wrong.
+**Recommended action:** 30% cut. Direction: tighten the explanation, preserve the felt experience.
+**Status:** ⏳ Open — Wendell decision required. Section 1 / forest opening L200–250 area (verify before edit).
+
+---
+
+### W3 — "You've been calling burnout grief" (⚠️ Minor, Voice calibration)
+
+**Where:** Ch1 Section 1, opening
+**Offending passage:**
+> "You've been carrying it. Some of the exhaustion you've been calling burnout is actually grief."
+
+**Phase 2 concern:** "You've been calling it burnout" reads as a correction — "you've been wrong about what you're feeling." A softer landing suggested: "Some of what you've been calling burnout turns out to be grief — and knowing the difference changes what you do with it."
+**Status:** ⏳ Open — Wendell decision required. Section 1 L88–92 area (verify before edit).
+
+---
+
+### W4 — Section 8 "Altitude" jargon (⚠️ Minor, Word choice)
+
+**Where:** Ch1 Section 8 — "The Game" — Five Moves
+**Offending passage:** Section header is "Five Moves for Chapter 1 Altitude"
+**Phase 2 concern:** "Altitude" registers as jargon for the reader who hasn't been trained on integral frameworks. It signals the framework lineage; it might cost more than it earns.
+**Recommended options:** (a) "Five Moves for Chapter 1" — drops the framework reference; (b) "Five Moves That Change the Game" — preserves the move framing without altitude jargon.
+**Status:** ⏳ Open — Wendell decision required. Section 8 L500–550 area (verify before edit).
+
+---
+
+### W5 — BARs example first-person (⚠️ Minor, Voice decision)
+
+**Where:** Ch1 Section 10 — First BARs Loop
+**Offending passage:** "In conflict, my Protector goes cold and over-explains" — from a hypothetical reader.
+**Phase 2 concern:** The first BARs example might want to be slightly more charged, from first-person authorial voice: "In conflict, I went cold and over-explained — and then I realized the coldness was the Controller holding space for the anger I couldn't feel yet."
+**Tradeoff:** Authorial example models depth; hypothetical reader example keeps the reader in the front seat. Both are defensible.
+**Status:** ⏳ Open — Wendell decision required. Section 10 L650–700 area (verify before edit).
 
 ---
 
@@ -374,5 +434,5 @@ The intent appears to be: "The gate is open. [The Forest is ahead.]" — but tha
 | Chapter | Status | Issues Found |
 |---------|--------|-------------|
 | Ch0 | ✅ PASS with notes | 3 pre-fileable objections; 1 section ends abruptly |
-| Ch1 | 🔴 FAIL — needs fixes | 8 issues; 4 blocking; 4 Wendell-only |
+| Ch1 | 🟡 PARTIAL PASS — 4 mechanical ✓, 5 Wendell-only ⏳ | 9 issues total (4 fixed, 5 open) |
 | Ch2 | 🔜 Ready to run | — |

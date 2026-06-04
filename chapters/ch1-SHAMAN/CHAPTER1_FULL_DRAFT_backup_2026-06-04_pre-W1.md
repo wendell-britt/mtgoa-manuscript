@@ -147,11 +147,9 @@ Were you doing this to change something, or to seem like the kind of person who 
 
 That question is not an indictment. It's a starting point.
 
-The meeting where the room went cold. Your body knew exactly what was happening — had known before anyone spoke — and you deferred to the consensus. Not because you lacked the capacity. Because somewhere along the way you were taught — by trainings, by rooms, by people who meant well — that the body-read wasn't yours to claim unless you could prove a lineage. You couldn't. The deferral looked like humility, but you felt it in your shoulders. You built the literacy and didn't use the read.
+The meeting where the room went cold. Your body knew exactly what was happening — had known before anyone spoke — and you deferred to the consensus. Not because you lacked the capacity. Because body knowing, in your framework, belongs to people closer to their roots. Claiming it felt like appropriation. So you built the literacy and didn't use the read.
 
 The body that knew was not appropriating anything. It was yours. The Shaman's first move is available to you. The question this chapter is asking is whether you'll stop treating your own somatic intelligence as something that belongs to someone else.
-
-If that last paragraph made you flinch, good. I wrote it three times and the third version still made me wince. I left it in. The Forest doesn't ask you to be comfortable — it asks you to be honest about what you can feel. The flinching is part of the work. So is the wince. We'll be doing a lot of both in the pages ahead.
 
 The problem is not that you wanted to be good. The problem is that trying to seem good takes the whole body. There's nothing left over. The face you're holding in place and the face underneath it are running simultaneously, and that split is where the exhaustion actually lives.
 
