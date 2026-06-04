@@ -1,6 +1,6 @@
 # Appendix D: Emotional Alchemy Practices
 
-**Status:** DRAFT — ported 2026-06-03 from the appendix design spec ("Appendix D Draft Content," drafted from *Igniting Joy* pp. 29–49 on 2026-05-22). **Needs Wendell accuracy review against the *Igniting Joy* source before press** — the instructions must be faithful to the original.
+**Status:** REVIEWED 2026-06-04 — accuracy-checked line-by-line against the *Igniting Joy* source (pp. 29–47: Happy Apples, Rose, Grounding); approved by Wendell. Two fidelity fixes applied (Happy Apples Step 4 restored to the source's gradual transform; Rose petals restored to "recognition, love, understanding"). Load-bearing specifics verified faithful: 5×/5× apple intensities, 4-2-6 grounding breath, petals=desire/thorns=defense. Ported 2026-06-03 from the appendix design spec; 3-2-1 Shadow Process routed to Appendix E by design.
 **Authority:** *Igniting Joy* (Wendell Britt); appendix design spec 2026-05-21 (Decision 5).
 **Location in book:** After Appendix C; before Appendix E. First of the toolkit cluster (D Emotional Alchemy / E 3-2-1 Shadow Process / F Polarity Map), which sits before Appendix G (the bibliography).
 
@@ -20,7 +20,7 @@ You don't need all three. Learn the one that fits the moment you keep finding yo
 1. Picture an apple, clearly.
 2. Make it angry. Let it seethe.
 3. Intensify that anger five times over.
-4. In one swift shift, turn the angry apple into a happy one.
+4. Turn the angry apple into a happy one — let it soften, evolve into its happiest version.
 5. Amplify the happiness five times over.
 
 **Quick version:** angry apple → one swift shift → happy apple.
@@ -47,7 +47,7 @@ You don't need all three. Learn the one that fits the moment you keep finding yo
 *Reveals whether your anger is pointing toward something you want (petals) or something you're defending (thorns) — so you can choose your response.*
 
 1. Picture a rose, and let the anger flow into it.
-2. Notice where it gathers: the petals (an unmet desire — recognition, understanding, connection) or the thorns (a defense — fear, vulnerability, protection)?
+2. Notice where it gathers: the petals (an unmet desire — recognition, love, understanding) or the thorns (a defense — fear, vulnerability, protection)?
 3. Ask: *what do I want here?* or *what am I guarding against?*
 4. Decide: act toward the desire, set the boundary, or let the charge go.
 
