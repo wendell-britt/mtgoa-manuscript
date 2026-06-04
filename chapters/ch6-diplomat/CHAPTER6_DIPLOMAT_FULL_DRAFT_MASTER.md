@@ -566,7 +566,7 @@ The distinction that matters: the difference between *positions that deserve equ
 
 Equal hearing means: everyone gets to say their thing, everyone gets to feel heard, the field makes space for the full range of perspectives present. This is not relativism — this is the basic work of the Diplomat, and it is precious.
 
-Equal endorsement means: all positions are treated as equally valid interpretations of reality. This is where Green curdles. Because some positions are not equally valid. Some positions are built on inaccurate premises. Some positions require ignoring evidence that others have to live with. Some positions cause harm that others have to absorb. And treating these positions as if they were equally valid is not inclusion — it is a failure of discernment disguised as open-mindedness.
+Equal endorsement means: all positions are treated as equally valid interpretations of reality. This is where the Diplomat's gift curdles. Because some positions are not equally valid. Some positions are built on inaccurate premises. Some positions require ignoring evidence that others have to live with. Some positions cause harm that others have to absorb. And treating these positions as if they were equally valid is not inclusion — it is a failure of discernment disguised as open-mindedness.
 
 The Refuse False Equivalence move is this: you name the difference between hearing and endorsement, and you name your position on which camp is closer to what you consider true — without invalidating the people in the camp you disagree with.
 
@@ -603,7 +603,7 @@ Here is what the Diplomat carries forward into the book:
 - The eight gates of the Diplomat's internal forest — and the Vulnerable Child at the center who still believes connection is possible
 - The five game moves: Name the Field, Translate Across Camps, Close with Honest Terms, Repair After Rupture, Refuse False Equivalence
 
-And here is the question that carries you out of this chapter and into the next: **When the Diplomat's tools are not enough — when one camp is playing a Red game and the other is playing a Green game and the conflict is actually altitudinal — who names that?**
+And here is the question that carries you out of this chapter and into the next: **When the Diplomat's tools are not enough — when one camp is playing a power game and the other is playing a harmony game and the conflict is actually altitudinal — who names that?**
 
 The Sage does.
 
