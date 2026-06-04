@@ -166,7 +166,7 @@ The Shaman (Ch2) taught you to read the five EA channels: Metal/Fear, Water/Sadn
 
 The Challenger's practice is not improvisation. It is a sequence. Four stages, in order, every time.
 
-**Stage 1: Charge.** The fire arrives. Something shows up — heat, a clenching, a sudden clarity that is also somehow a burning. This is the charge. The Challenger does not suppress it. The Challenger receives it.
+**Stage 1: Charge.** The fire arrives. Something in your body shows up — a heat in your chest, a clenching in your jaw, a sudden clarity that is also somehow a burning. This is the charge. The Challenger does not suppress it. The Challenger receives it.
 
 The Shaman taught you to read this. The Challenger teaches you to use it. The charge is the signal that something matters enough to act on. Without charge, there is no fire. With charge and no practice, there is explosion. With charge and practice, there is *direction.*
 
@@ -184,20 +184,34 @@ The exit is where most people collapse. They draw the line, then immediately sta
 
 ---
 
-### The Energy Economy
+### The Will Ecology
 
-The Challenger's practice has an energy economy — a set of named conversions that either generate or deplete the available will.
+Chapter 0 taught you to read the meter: what a move costs you. Chapter 2 taught you to ask what a move does to the living field. The Challenger adds the fire question:
 
-**Transcend moves (renewable fuel):** the five conversions of raw charge into clean action you already met in the EA table above — Outrage → Righteous Act, Fear-of-being-unwelcome → Willingness, Grief-in-the-fight → Moral Clarity, Protective-rage → Calm Defense, Defiance → Creation. Each one takes a charge that wants to leak out as noise and routes it into a move that matters. These are the Challenger's highest practice.
+Did this charge become a line, or did it become smoke?
 
-**Generative Translate moves (renewable, spent lightly):** Shifts across channels that build on each other.
+The Challenger does not need you to calculate points in the middle of confrontation. The Challenger needs you to tell the truth about what happened to your will.
+
+Some moves replenish will because they turn raw charge into clean action:
+
+1. **Outrage → Righteous Act.** You are furious. Something has been violated in a way that is not small. The naive move is to vent — to let the outrage out where it becomes noise. The Challenger's move is to convert the outrage into a *move that matters.* The violation is real. Your act of response is the evidence that you believe it is real. Act accordingly.
+
+2. **Fear-of-being-unwelcome → Willingness.** The charge comes with a shadow: *if I say this, they won't like me. If I draw this line, I will be alone.* This fear is not wrong — it is often accurate. The Challenger's move: let the fear become the evidence. If you are afraid of being unwelcome and you draw the line anyway — that is not recklessness. That is *willingness.* Fear shows you what the line is worth.
+
+3. **Grief-in-the-fight → Moral Clarity.** Sometimes underneath the anger there is sadness. Not weakness — grief. The grief of watching something you love get violated. The Challenger's move: let the sadness *anchor* the anger. Not drown it. Anchor it. The anger is the action. The sadness is the reason it matters. Hold both.
+
+4. **Protective-rage → Calm Defense.** You are angry because someone you love is being threatened. This is not your ego — this is protection. The Challenger's move: let the fire be real and let it be *steady.* Protective rage that explodes is just rage. Protective rage that holds its ground is defense. The heat is the same. The direction is what changes.
+
+5. **Defiance → Creation.** The charge is a no. The no opens a space. What grows in that space is the Challenger's deepest move: the defiance that becomes a *yes* to something new. The refusal to comply becomes the foundation for what comes next.
+
+Some moves sustain will because they keep the confrontation workable:
 
 - **Line → Interrupt:** Once the line is drawn, you can break the pattern that was crossing it.
 - **Interrupt → Demand:** Once the pattern is broken, you can insist on the change that replaces it.
 - **Demand → Refusal:** The demand clarifies your own non-negotiables — the places where you will not move regardless of pressure.
 - **Refusal → Reckoning:** Your no becomes visible as a consequence. The line you drew is not just stated — it is backed.
 
-**Control Translate moves (non-renewable):** Suppressions that cost energy.
+And some moves spend fire without protecting anything:
 
 - **Charge → Swallow:** You feel it and push it down. This is repression. It does not eliminate the charge — it stores it. The swallowed charge eventually finds a sideways exit: passive aggression, chronic irritability, sudden explosions over small things.
 
@@ -206,6 +220,8 @@ The Challenger's practice has an energy economy — a set of named conversions t
 - **Charge → Collapse:** The fire turns inward. The anger that should be directed outward becomes self-directed shame. *I shouldn't have to feel this. Something is wrong with me for feeling this.* The charge implodes and the boundary dissolves.
 
 - **Charge → Passive-aggression:** The fire goes sideways. You don't say the no directly. You say it in sighs, in delayed responses, in the sudden unavailability that is a thousand small nos dressed up as scheduling conflicts. This is not a line. This is a slow war.
+
+The test is simple: did this move leave you more able to draw the next clean line, or did it spend the fire and leave the pattern intact?
 
 ---
 
@@ -233,7 +249,7 @@ You are in a meeting. Someone says something that crosses a line — not a catas
 
 Here is the Challenger's 30-second protocol:
 
-First, *feel the charge.* Don't suppress it. Let it arrive — whatever shape it takes. This is information. It is telling you that something just mattered.
+First, *feel the charge.* Don't suppress it. Let it arrive — the heat, the tightening. This is information. It is telling you that something just mattered.
 
 Second, *aim.* Ask yourself: what line was just crossed? Not the story you could tell about why this person is wrong. The actual line. *That community deserves to be spoken about with accuracy.* That's the line.
 
@@ -247,7 +263,7 @@ Most people skip all of this. Most people either say nothing (and resent the per
 
 **This is the rep. This week, run it once.** Not the hardest line you're avoiding — the next real one. A meeting, a thread, a room where something crosses and you'd normally let it go. Feel the charge, aim, act in one sentence, exit. Thirty seconds. You don't need it to land well. You need it to *exist in the room.*
 
-*You drew a line in the Village — or you watched yourself not. Before the story sets: what was the charge, what did you actually say (or swallow), and what did it cost? Two minutes in the app, while it's still warm. → app*
+*You drew a line in the Village — or you watched yourself not. Before the story sets: what was the charge in your body, what did you actually say (or swallow), and what did it cost? Two minutes in the app, while it's still warm. → app*
 
 **When the Line Has Been Crossed Before: The Reckoning**
 
@@ -313,7 +329,7 @@ Before you walk the eight gates, one piece of work belongs here. You already sai
 
 You met 3-2-1 in Chapter 2. This is the Challenger's application.
 
-The 3-2-1 practice asks a harder question: *Who is the oppressor in your inner world?* Not who hurt you in history — the **figure** you built to hold everything you aren't allowed to be. The one who draws lines while you stay pleasant. The colleague who said no without apologizing. The public figure you call domineering. The **inner Challenger you disowned.**
+The 3-2-1 practice asks a harder question: *Who is the oppressor in your inner world?* Not who hurt you in history — the **figure** your nervous system built to hold everything you aren't allowed to be. The one who draws lines while you stay pleasant. The colleague who said no without apologizing. The public figure you call domineering. The **inner Challenger you disowned.**
 
 This is not letting real harm off the hook. It is reclaiming the energy you've been spending on a cartoon. Real harm and real accountability stay real — 3-2-1 owns **your** split, not **their** innocence.
 
@@ -363,7 +379,7 @@ Here's where it gets personal.
 
 You met the parts that block your will. 3-2-1 named the figure you projected outward. Now you walk into the forest and meet the eight gates between you and the center.
 
-Everything up to now — the channels, the stages, the energy economy, the scenarios — that was a system. A set of tools you could learn and apply without ever actually meeting the fire inside you.
+Everything up to now — the channels, the stages, the will ecology, the scenarios — that was a system. A set of tools you could learn and apply without ever actually meeting the fire inside you.
 
 This section is different.
 
@@ -389,7 +405,7 @@ Eight gates. One path. Same order, every time.
 
 4. **Fixer** — Now you're in the trees. Says: *don't confront — solve it another way.* Job: convert charge into a workaround so you never have to push.
 
-5. **The Emotional Body** — Past the Fixer, the first place it gets dark; the channel that runs here is Fear. Says: *if you push, they'll retaliate. You'll lose the relationship.* Job: rehearse the worst case so you never have to find out.
+5. **Fear** — Past the Fixer, the first place it gets dark. Says: *if you push, they'll retaliate. You'll lose the relationship.* Job: rehearse the worst case so you never have to find out.
 
 6. **Victim** — Deeper still. Says: *I can't confront because I was taught my anger was wrong. I was punished for pushing.* Job: keep the old story alive so you don't have to claim your power.
 
@@ -435,7 +451,7 @@ The Protector almost never says no when you ask like that. What the Protector ca
 
 When you're ready, keep walking.
 
-*You said thank you and something happened — or it didn't. I'm not asking what you think about it. What happened in the moment you said it? The shift, the release, the surprise, or the nothing. Name it as it was. → app*
+*You said thank you and something happened — or it didn't. I'm not asking what you think about it. What did you feel, in the body, in the moment you said it? The tightening, the release, the surprise, or the nothing. Name it as it was. → app*
 
 #### Gate 2: The Controller
 
@@ -549,7 +565,7 @@ Find that voice. Give it a name. Say its name out loud. And then keep walking.
 
 When you're ready, keep walking.
 
-*The charge was running and you named it — gave it a name, stepped slightly outside it. Before the name landed, while it was just running: what channel was it? Anger, fear, sadness, joy, neutrality — one word, the channel itself, not your analysis. And: what did naming it free? → app*
+*The charge was running and you named it — gave it a name, stepped slightly outside it. Before the name landed, while it was just running: what channel was it? Anger, fear, sadness, joy, neutrality — one word, from your body, not your analysis. And: what did naming it free? → app*
 
 #### Gate 6: The Victim
 
@@ -609,11 +625,9 @@ The witnessing is different. The witnessing says: *I see you. I know you believe
 
 So stay.
 
-And if this one cracks open something bigger than a chapter can hold, that's not a failure of nerve — it's information. Some rooms are meant to be entered with a therapist in them. There's no extra credit for going in alone.
-
 When you're ready — and only when you're ready — keep walking.
 
-*You stayed with the Damaged Self instead of fixing them. That was the move — not the correction, the staying. What was it actually like to sit with the belief without arguing against it? Not the analysis. The staying itself. → app*
+*You stayed with the Damaged Self instead of fixing them. That was the move — not the correction, the staying. What did it feel like to sit with the belief without arguing against it? Not the analysis. The felt sense of not moving. → app*
 
 #### Gate 8: The Vulnerable Child
 
@@ -739,22 +753,6 @@ In practice: Next time you draw a line and feel the urge to soften — pause. Ta
 
 ---
 
-## The First Move
-
-Before the recap, the move itself. Within seven days.
-
-The Challenger's 30-second protocol — *draw the line, then stay silent for thirty seconds while the other person meets it* — has been in the chapter's practice. Now it leaves the page. The next time someone asks you for something you do not want to give, in the next seven days, you do not explain, you do not soften, you do not negotiate in the first thirty seconds. You say no (or yes, or the truer answer), and then you let the silence hold. The other person fills it, or they don't. Either way, you are still in your seat when the thirty seconds are up.
-
-Pick the situation now, before you close the book. Not "I'll know it when I see it." A specific ask from a specific person, in the next week. *"My sister's request to host Thanksgiving at my place."* *"The Slack ping asking me to take notes again."* *"The cousin who keeps asking me to read his screenplay."* The smaller the better. The point is to run the protocol on something that is real and bounded and survivable.
-
-The test. **Reading one:** you said the line and held the silence and the other person met you in the second half of it. **Reading two:** you said the line and held the silence and rescued them from it at second twenty-nine. Both look identical to a video recording. They are not the same. Reading two is the Challenger's shadow — the line was true, the protocol was perfect, and the moment it cost something, you paid the cost for them. You do not have to be a hard person. You have to be a person who can hold the silence long enough for the other person to learn what your no actually sounds like.
-
-The first time I ran the 30-second protocol for real, I made the asker cry. I apologized. The protocol broke at second twenty. The ask came back the next week. I ran it again. They did not cry the second time. The thing I learned was not that the protocol works. It was that I had been training everyone around me to expect the apology at second twenty, and the apology was the thing I could not afford to give.
-
-*The situation. The line you drew. The thirty seconds, what they felt like. What the other person said at the end. What you did at second twenty. → app*
-
----
-
 
 ---
 
@@ -774,7 +772,7 @@ The Challenger does not build. The Challenger clears the ground.
 - The **3-2-1 practice** at Challenger altitude: reclaim the line projected onto "oppressor energy"
 - The **Charge → Aim → Act → Exit** sequence — the four-stage practice that turns raw fire into clean action
 - The **5 channels** — Line, Interrupt, Demand, Refusal, Reckoning — and when to use each one
-- The **energy economy** — which moves run on renewable fuel and which spend non-renewable
+- The **will ecology** — which moves turn charge into a clean line, which keep confrontation workable, and which spend fire without protecting anything
 - The **8 Gates walk** — and the specific move at each gate, including the naming of your jeppi at Gate 5
 - The **5 game moves** — Name the Unnameable, Draw the Line, Refuse Cleanly, Confront Without Cruelty, Stay Past the Discomfort
 - The Vulnerable Child's superpower: **moral clarity without cruelty**
@@ -800,5 +798,4 @@ The Regent can organize power. The Regent can build institutions. But the Regent
 Before the Regent can build, the Challenger has to know what line is worth building around.
 
 Now you're ready for the Regent.
-
 

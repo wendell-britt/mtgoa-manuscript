@@ -180,14 +180,12 @@ Try this now.
    "I stay with __________ because it still __________,
     and I need __________ to change before I can keep showing up honestly."
 
-4. Read where your dot sits. Stuck at HONOR, something true has gone unsaid to keep the
-   form intact. Stuck at REFORM, you're about to pull out a thing people still lean on. At
-   center, your integrated sentence holds without either half flinching — that's the move.
+4. Sit 30 seconds. Notice: heaviness (pole A stuck) or heat (pole B stuck) or ground (integrated).
 
 Back to the chapter.
 ```
 
-*For the full process and additional pairs, see Appendix F — The Polarity Map.*
+*For the full process and additional pairs, see Appendix: The Polarity Map.*
 
 ---
 
@@ -200,13 +198,11 @@ Not your genetics. Not your culture in the abstract. I'm talking about the speci
 
 Every person alive is an inheritor. The Regent's practice is about working consciously with that fact instead of against it.
 
-The native material at the Regent's altitude is not emotion. It's not will. It's not even logic. It's **loyalty** — the deep sense of belonging to something larger than yourself, and the weight that comes with it. Not what you owe — that's the village's version. What you'd choose to carry if the choosing were fully yours. What you decide is worth passing on.
+The native material at Amber altitude is not emotion. It's not will. It's not even logic. It's **loyalty** — the felt sense of belonging to something larger than yourself, and the weight that comes with that belonging. What you owe. What you carry. What you pass on.
 
 Loyalty is deeply unfashionable in progressive circles. It sounds like obedience. It sounds like the thing that keeps people inside harmful institutions. But that's because the village conflated loyalty with compliance — and then wondered why the institutions it served became so brittle.
 
 Real loyalty is chosen. Real loyalty sees the whole inheritance — the gift and the damage — and decides, with full knowledge, to carry it forward. Real loyalty can be broken when the tradition breaks you. Real loyalty can be reformed when the tradition no longer serves what it originally served. That's not disloyalty. That's the most loyal thing there is.
-
-And chosen loyalty doesn't just cost less — it gives back. Two people can carry the identical inheritance: one is hollowed by it, the other fed. Obligation is the suitcase you haul up the stairs because someone told you it's yours — heavier each flight, never set down, because setting it down would mean you failed. Chosen loyalty is the same arms, a different climb: you open the case, keep what's worth carrying, leave what was only ever weight — and what's left, you'd carry up any number of stairs, because you decided it was worth the climb. Same tradition. One empties you; one doesn't. The difference was never the weight. It was the choosing.
 
 This section teaches the Regent's cycle: how to work with your inheritance consciously, move through it cleanly, and pass it forward without passing on the wounds.
 
@@ -264,22 +260,36 @@ The Regent's practice moves through four stages. Unlike the Shaman's WAVE, which
 
 ---
 
-### The Energy Economy
+### The Stewardship Ecology
 
-At the Regent's altitude, the energy question is: what does it cost to carry something across time?
+Chapter 0 taught you to read the meter: what a move costs you. Chapter 2 taught you to ask what a move does to the living field. The Regent adds the stewardship question:
 
-**Transcend moves (renewable fuel):** the five conversions from the EA table above — Obedience → True Allegiance, Duty → Service, Rigidity → Integrity, Dogma → Faithfulness, Inheritance-Shame → Inheritance-Gift. Each one takes the heavy version of loyalty (the one done because you have to) and converts it into the chosen version (the one done because you said yes). That conversion is what generates energy instead of draining it.
+Does this way of carrying make the inheritance more alive, or does it preserve the form while draining the life?
 
-**Generative Translate (renewable, spent lightly):**
-- Custodian → Reformer: You care for what exists. Now you know it well enough to change what no longer works.
-- Inheritor → Teacher: You have sorted your inheritance. Now you can translate it for the next person.
-- Teacher → Keeper of Vows: The act of teaching becomes the ongoing commitment.
+The Regent does not need you to score loyalty. The Regent needs you to tell the truth about whether what you are carrying is becoming more honest, more receivable, and more alive over time.
 
-**Control Translate (non-renewable):**
-- Loyalty → Compliance: You surrender your judgment to avoid the cost of thinking.
-- Duty → Martyrdom: You serve until you disappear.
-- Tradition → Dogma: You hold the form so tightly that the life leaves the tradition.
-- Role → Mask: You become the position so completely that the person underneath is lost.
+Some moves replenish stewardship because they convert compulsory carrying into chosen loyalty:
+
+1. **Obedience → True Allegiance.** Compliance collapses under pressure. Allegiance holds — because you chose it.
+2. **Duty → Service.** Duty is obligation. Service is choice. The person doing duty burns out. Service implies reciprocity.
+3. **Rigidity → Integrity.** Rigid traditions break. Traditions with integrity hold because they are rooted in principle, not form.
+4. **Dogma → Faithfulness.** Dogma is belief without understanding. Faithfulness is keeping the commitment even when you no longer remember why you made it.
+5. **Inheritance-Shame → Inheritance-Gift.** The shame says: this wound was done to me, therefore I am broken. The gift says: I know how to recognize it and stop it.
+
+Some moves sustain stewardship because they keep the inheritance moving across time without freezing it in place:
+
+- **Custodian → Reformer:** You care for what exists. Now you know it well enough to change what no longer works.
+- **Inheritor → Teacher:** You have sorted your inheritance. Now you can translate it for the next person.
+- **Teacher → Keeper of Vows:** The act of teaching becomes the ongoing commitment.
+
+And some moves spend the self to preserve the form:
+
+- **Loyalty → Compliance:** You surrender your judgment to avoid the cost of thinking.
+- **Duty → Martyrdom:** You serve until you disappear.
+- **Tradition → Dogma:** You hold the form so tightly that the life leaves the tradition.
+- **Role → Mask:** You become the position so completely that the person underneath is lost.
+
+The test is simple: does this move make the inheritance more alive and more receivable, or does it protect the shell while draining the person carrying it?
 
 ---
 
@@ -326,17 +336,17 @@ Both cost something. Claiming it means you can no longer hide behind not-yet-rea
 ---
 
 ## Section 5: Journey to the Center
-### *The 8 Gates at the Regent's Altitude — What the Tradition Says to You*
+### *The 8 Gates at Amber Altitude — What the Tradition Says to You*
 
 Here's where it gets personal.
 
-Everything up to now — the channels, the stages, the energy economy — that was preparation. This is the walk.
+Everything up to now — the channels, the stages, the stewardship ecology — that was preparation. This is the walk.
 
 Inside you is a forest. Eight gates between you and the center. Each gate is a part of you that learned, at some point, that your loyalty was dangerous. That your belonging was a trap. That the tradition you came from was not safe.
 
 Each gate came up with a strategy. Each strategy worked. That's why they're still here.
 
-This section is the same structure as the Shaman's walk. The gates are the same. The order is the same. What changes is what each gate *says* at the Regent's altitude, and what the Vulnerable Child at the center is holding for you.
+This section is the same structure as the Shaman's walk. The gates are the same. The order is the same. What changes is what each gate *says* at Amber altitude, and what the Vulnerable Child at the center is holding for you.
 
 Two passes: first the map. Then the walk.
 
@@ -354,7 +364,7 @@ Eight gates. Same order as before. Same path. Different territory.
 
 4. **Fixer** — Now you're in the trees. Says: *before you commit, fix what's broken about this. Make it worthy of your loyalty.* Job: Convert commitment into a project so you never have to actually give yourself to anything.
 
-5. **The Emotional Body** — Past the Fixer; the channel that runs here is Fear. Says: *if you take this on, you'll fail it. And then you'll have betrayed the thing you were trying to save.* Job: Rehearse the failure so you never have to risk it.
+5. **Fear** — Past the Fixer. Says: *if you take this on, you'll fail it. And then you'll have betrayed the thing you were trying to save.* Job: Rehearse the failure so you never have to risk it.
 
 6. **Victim** — Deeper still. Says: *I was told my loyalty was wrong. I was punished for belonging. I can't do this again.* Job: Keep the wound story alive so you never have to risk real belonging again.
 
@@ -394,7 +404,7 @@ The Protector almost never says no when you ask like that. What the Protector ca
 
 When you're ready, keep walking.
 
-*Something shifted at that gate — or tightened, or held. Before the path narrows, name it: not the story of why you don't have the standing, but the holding itself, where the Protector's grip lives. That's the one. → app*
+*Something shifted at that gate — or tightened, or held. Before the path narrows, locate it in your body: not the story of why you don't have the standing, the physical place where the Protector's grip lives. That's the one. → app*
 
 ---
 
@@ -418,7 +428,16 @@ The Controller will not let go because you asked. The Controller lets go because
 
 Relieve the Controller. Don't fire them. Let them stand down.
 
-**The grip produces the same six beliefs the Controller always produces** — the ones you first met in the Shaman's forest (Chapter 1 lists them). They're the reservations. When you answer the question *what reservations do you have about your creation?* — these are what the question surfaces. The Controller has been holding them in place since before you had words for them. Each one is a record of a time you almost committed and stopped. Each one feels like a fact about your capacity. None of them are facts. They are the Controller's inventory of your history of not-trying, held up as evidence that you should never try.
+**The grip produces the 6 beliefs as self-sabotage:**
+
+I'm not good enough.
+I'm not ready.
+I don't belong.
+I'm insignificant.
+I'm not worthy.
+I'm not capable.
+
+These beliefs are the reservations. When you answer the question *what reservations do you have about your creation?* — these are what the question surfaces. The Controller has been holding these beliefs in place since before you had words for them. Each one is a record of a time you almost committed and stopped. Each one feels like a fact about your capacity. None of them are facts. They are the Controller's inventory of your history of not-trying, held up as evidence that you should never try.
 
 The belief is not the problem. The Controller presenting the belief as a current fact is the problem. The belief is data about the past. The grip is treating it as a prophecy.
 
@@ -426,7 +445,7 @@ You pass this gate by relieving the Controller — and by noticing that the beli
 
 When you're ready, keep walking.
 
-*The grip had a shape before it had a name. What was it holding down — and how hard? Not what it was protecting against. The holding itself. And then: which of the six beliefs surfaced, in its exact words — the one deciding who has the right to carry this? Two captures. The holding first, then the belief. → app*
+*The grip had a location before it had a name. Where was it in your body — chest, jaw, hands, belly? Not what it was protecting against. Where the holding was. And then: which of the six beliefs surfaced, in its exact words — the one deciding who has the right to carry this? Two captures. The body first, then the belief. → app*
 
 ---
 
@@ -486,7 +505,7 @@ And there's a voice — not loud, but very clear. Running a video on loop.
 
 That's the Fear.
 
-This is where the walk gets real. The Fear is not guessing. The Fear is not being dramatic. The Fear is showing you the specific, concrete, plausible worst-case scenario. This is what failure looks like at the Regent's altitude: you took on something you couldn't carry, and the tradition died with you.
+This is where the walk gets real. The Fear is not guessing. The Fear is not being dramatic. The Fear is showing you the specific, concrete, plausible worst-case scenario. This is what failure looks like at Amber altitude: you took on something you couldn't carry, and the tradition died with you.
 
 The Fear is not your enemy. The Fear is trying to protect you from the one scenario that would really hurt.
 
@@ -502,7 +521,7 @@ Find your name for the Fear. Say it out loud. *I hear you. You're showing me wha
 
 When you're ready, keep walking.
 
-*Which channel was running when the Fear started the movie — anger, fear, sadness, joy, or a frozen stillness? Not what the movie was about. The channel itself, before you named it. That charge knows something about this tradition and what it costs you to carry it. What does it say? → app*
+*Which channel was running in your body when the Fear started the movie — anger, fear, sadness, joy, or a frozen stillness? Not what the movie was about. The felt channel before you named it. That charge knows something about this tradition and what it costs you to carry it. What does it say? → app*
 
 ---
 
@@ -552,11 +571,9 @@ This gate does not have a clever move. This gate has one instruction: witness wi
 
 Do not argue with the Damaged Self. Do not produce evidence of your competence. Do not list your accomplishments. The Damaged Self is not interested in evidence. The Damaged Self is asking you to sit with the feeling that you are not enough — and to keep walking anyway.
 
-"Enough" is the bullshit prize here — the idealized Regent, flawless, finally arrived, beyond reproach. You will never win it, because no one does; it was never a real prize. And you can do this anyway — not by becoming enough, but because the tradition needs tending and you're the one who showed up.
+You are not enough. You will never be enough in the way the idealized Regent is enough. And you can do this anyway. Not because you are enough, but because the tradition needs tending and you are the one who showed up.
 
 The Damaged Self will not be resolved. But it can be witnessed. And witnessing it is enough.
-
-And if witnessing it opens more than this page can hold, let that be permission, not alarm: this is a gate some people are right to walk with a therapist beside them. Doing it alone isn't braver. It's just lonelier.
 
 When you're ready, keep walking.
 
@@ -572,13 +589,13 @@ And there's a small one here. Quiet. Hopeful. Tired of being outside.
 
 *I want to belong to something. I want to be part of something worth carrying. I want to be trusted with what matters.*
 
-This is the Vulnerable Child at the Regent's altitude. This is what lives at the center of the forest when the altitude is loyalty, belonging, tradition, inheritance.
+This is the Vulnerable Child at Amber altitude. This is what lives at the center of the forest when the altitude is loyalty, belonging, tradition, inheritance.
 
 The Regent's superpower — the thing that lives at the center of this forest — is **the capacity to carry something across time.**
 
 Not to fix it. Not to perfect it. Not to make it yours. To carry it. To tend it. To reform it where it needs reforming. To pass it forward when you're done.
 
-This is what the tradition needs. Not a perfect steward. Not a flawless inheritor. Someone who will show up, again and again, and do the work of carrying it forward — even though they never won "enough" either, even though they will fail, even though they were hurt before.
+This is what the tradition needs. Not a perfect steward. Not a flawless inheritor. Someone who will show up, again and again, and do the work of carrying it forward — even though they are not enough, even though they will fail, even though they were hurt before.
 
 You know the path in. That is the Regent's gift.
 
@@ -651,4 +668,3 @@ The village was wrong. The Architect's love is structural. The Architect builds 
 Now you're ready for the Architect.
 
 ---
-
