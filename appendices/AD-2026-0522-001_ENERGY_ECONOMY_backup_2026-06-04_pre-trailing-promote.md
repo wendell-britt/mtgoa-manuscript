@@ -1,7 +1,7 @@
 # Architectural Decision — Energy Economy Section
 **Decision ID:** AD-2026-0522-001
 **Date:** 2026-05-22
-**Status:** REJECTED — Replacement Implemented 2026-06-04
+**Status:** REJECTED — Rewrite Required
 **Chapter:** Ch2 (The Shaman)
 **Sprint:** 14-day polish, 2026-05-22
 **Decision maker:** Wendell Britt
@@ -10,11 +10,7 @@
 
 ## Decision
 
-The energy economy section as written on 2026-05-22 (+2 Transcend / +1 Generative / -1 Control) is **rejected**. The underlying concept — energy ecology in allyship — is **approved and prioritized** as essential content. At decision time, the section needed to be rebuilt with a revised framework before Ch2 could be finalized.
-
-Continuity clarification added 2026-06-04: this decision rejects the Ch2 numeric scoring model, not the phrase `personal energy economy` when used in Ch0 as the player-facing stamina meter. Personal energy economy tells the player what they can afford to spend. Energy ecology tells the player what that spending does to the living field.
-
-Implementation update added 2026-06-04: the rejected Ch2 scoring framework has now been replaced in the live manuscript with **Energy Ecology** language. Ch3 and Ch4 use local ecology frames (**Will Ecology** and **Stewardship Ecology**), while Ch5-Ch8 use integrated/alchemy/capacity language without reintroducing point totals.
+The energy economy section as currently written (+2 Transcend / +1 Generative / -1 Control) is **rejected**. The underlying concept — energy ecology in allyship — is **approved and prioritized** as essential content. The section must be rebuilt with a revised framework before Ch2 can be finalized.
 
 ---
 
@@ -58,11 +54,7 @@ Implementation update added 2026-06-04: the rejected Ch2 scoring framework has n
 - Embodied and practice-ready (not a calculation formula)
 - Simple enough for real-time use in emotionally charged situations
 
-**Implemented 2026-06-04:** Rebuilt the energy economy section as the Energy Ecology section and propagated the continuity decision through Ch3-Ch8.
-
-Governing distinction for future passes:
-
-> Personal energy economy is the meter. Energy ecology is the farm. Mastery is learning how to spend the meter in ways that make the farm more alive.
+**Then:** Rebuild the energy economy section with the new concept. Do not patch the existing section.
 
 ---
 

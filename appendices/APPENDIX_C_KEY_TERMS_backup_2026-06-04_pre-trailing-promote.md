@@ -3,7 +3,7 @@
 **Authority:** MTGOA manuscript; gate × chapter trigram architecture (BARS_ICHING_ARCHITECTURE.md)
 **Format:** Term → one-sentence definition → [chapter] → related terms
 
-*Controlled glossary, alphabetical. First appearance in [chapter]. Related terms connect to the larger system.*
+*≤26 terms, alphabetical. First appearance in [chapter]. Related terms connect to the larger system.*
 
 ---
 
@@ -15,23 +15,21 @@
 
 **Capture Window** — The brief moment after a gate encounter when a BAR can be made before the felt-sense fades into interpretation. The book's intervention is specifically to capture before the reader processes the experience into insight. *[Ch1] — See also: BAR, Gate*
 
-**Distortion** — The specific failure mode of each Face — what the village does when the Face is gone and its gift is needed. The Distortion is not the opposite of the gift; it is the gift collapsed into its shadow. *[Ch1] — See also: Exile, Gate*
+**Distortion** — What a Face looks like when it runs from disowned material (the Shadow) instead of being chosen. The Distortion is not the opposite of the gift; it is the gift in flight from its own cost. *[Ch1] — See also: Shadow, Cost, Exile*
 
 **Double-Trigram Card** — The deepest oracle card in a chapter, where the lower and upper trigrams are the same (e.g., Kan ☵ × Kan ☵ = Hex 29). The gate's home territory; the moment where the chapter's work is most fully itself. *[Ch1] — See also: Oracle Card, Trigram*
 
 **Earth (Kun ☷)** — The I Ching trigram for Receptivity, Holding, What Receives. Upper trigram of Ch2 (Shaman). Color: dark/black. *[Ch2] — See also: Trigram, Hexagram*
 
-**Energy Ecology** — The field-level consequence of a move: whether it replenishes aliveness, sustains the field, or spends capacity in a way that needs restoration. Energy ecology asks what the move does to the living system over time. *[Ch2] — See also: Personal Energy Economy, Emotional Alchemy, Token System*
-
 **Emotional Alchemy (EA)** — The practice of naming which channel is running (Anger/Fear/Sadness/Joy/Neutrality) and deploying its specific function rather than being run by undifferentiated charge. The core technology of the Shaman chapter. *[Ch2] — See also: Channel, Shaman*
 
 **Exile** — The condition of each Face after leaving the village — present but not trusted, needed but not asked, carrying a gift nobody remembers requesting. The Exile is not the Face's choice; it is what happens to the gift when the village stops needing it. *[Ch1] — See also: Distortion, Gate*
 
-**The Face** — One of six interior voices (Protector, Controller, Skeptic, Fixer, Victim, Damaged Self) that every person carries. The book teaches allyship through working with the Faces, not through managing other people's behavior. *[Ch1] — See also: Gate, Vulnerable Child*
+**The Face** — One of six archetypal roles (Shaman, Challenger, Regent, Architect, Diplomat, Sage) that map to the chapters of this book. The book teaches allyship through working with the Faces — each chapter's work is the work of a specific Face, named so the reader knows who they are in the room. *[Ch1] — See also: Gate, Channel*
 
 **Fire (Li ☲)** — The I Ching trigram for Clarity, Illumination, What Clings to Light. Upper trigram of Ch8 (Player). Color: red. *[Ch8] — See also: Trigram, Hexagram*
 
-**The Four WAVE Moves** — Show Up (do the thing), Clean Up (repair the rupture), Wake Up (see what's avoided), Grow Up (build the capacity). The WAVE describes the quality of allyship work, not a sequence. *[Ch1] — See also: Allyship Domains, Gate*
+**The Four WAVE Moves** — Wake Up (see what's avoided), Clean Up (repair the rupture), Grow Up (build the capacity), Show Up (do the thing). The WAVE describes the quality of allyship work, not a sequence. *[Ch1] — See also: Allyship Domains, Gate*
 
 **Gate** — One of eight threshold moments in each chapter's inner walk. Each gate has a specific voice, a specific lesson, and a specific failure mode. Crossing the gate requires encountering the voice and moving through it rather than around it. *[Ch1] — See also: Vulnerable Child, BAR*
 
@@ -42,8 +40,6 @@
 **Mountain (Gen ☶)** — The I Ching trigram for Stillness, Absorption, What Remains. Upper trigram of Ch7 (Sage). Color: dark grey. *[Ch7] — See also: Trigram, Hexagram*
 
 **Oracle Card** — One of 64 hexagram cards earned through BAR capture during reading. Each card gives a deeper invitation: shadow running, gift × chapter intersection, 3 tasks with containers, 3-2-1 routing. *[Ch0] — See also: Bars-engine, BAR*
-
-**Personal Energy Economy** — The player-facing stamina meter: what a move costs you and whether you can afford to keep showing up. It belongs to the Token System; it is not the same as Energy Ecology, which asks what the move does to the field. *[Ch0] — See also: Token System, Energy Ecology, Ticket System*
 
 **The Receptive (Hex 2)** — The double-earth hexagram (Kun ☷ × Kun ☷) that is the deepest card in Ch2 (Shaman). The practice of genuine openness — not strategy, not effort, but allowing what arrives to actually arrive. *[Ch2] — See also: Hexagram, Vulnerable Child*
 
@@ -57,7 +53,7 @@
 
 **Wake Up Failure** — When the Skeptic's doubt lands at the reader's capacity (\"I'll get this wrong\") rather than at the situation. The doubt becomes a spell cast at the self instead of a question asked of the moment. *[Ch3] — See also: Skeptic, EA*
 
-**WAVE** — The four moves of allyship: Show Up, Clean Up, Wake Up, Grow Up. The WAVE is not a sequence; it is a diagnostic for where a player is stuck in any given moment. *[Ch1] — See also: Four Allyship Domains, Gate*
+**WAVE** — The four moves of allyship: Wake Up, Clean Up, Grow Up, Show Up. The WAVE is not a sequence; it is a diagnostic for where a player is stuck in any given moment. *[Ch1] — See also: Four Allyship Domains, Gate*
 
 **Wind (Xun ☴)** — The I Ching trigram for Flexibility, Infiltration, What Penetrates. Upper trigram of Ch4 (Regent). Color: green. *[Ch4] — See also: Trigram, Hexagram*
 
@@ -65,4 +61,4 @@
 
 ---
 
-*End of terms. Total: 27 entries.*
+*End of terms. Total: 25 entries — within ceiling.*
