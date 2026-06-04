@@ -46,90 +46,6 @@ The game you moved into has the same design problem. You took responsibility for
 
 That shock is the impossible conflict made visible. Your service runs on their need. Your rewards — social, professional, the ones that told you you were good — come from the game staying the game. To stop playing it costs everything that confirmed you were the person you thought you were. To keep playing it means doing work you already know doesn't work.
 
-Before we go further, bring one thing with you.
-
-Not the abstract reason you care about allyship. The actual situation that made this book feel necessary.
-
-A relationship you do not know how to repair. A room you keep trying to hold. A person you want to help but keep exhausting yourself around. A conflict where every available move feels wrong. A pattern in your own care that you are tired of repeating.
-
-Choose one.
-
-You do not have to solve it here. You do not even have to understand it yet. Just keep it nearby.
-
-We are going to use it to teach you the controls.
-
-## The Myths That Keep You Playing the Wrong Game
-
-Most people do not come to allyship empty-handed. They come carrying a question they are afraid to say out loud:
-
-Am I good enough? Do I matter? Am I worthy of belonging here? Am I ready? Am I capable? If I get this wrong, will I be cast out?
-
-Allyship looks like an honorable place to take those questions. That is the trap. If I can be good enough at caring, maybe I can finally prove that I am good. If I can join a cause important enough, maybe I can finally matter. If I can suffer enough for others, maybe I can earn my place. If I can learn the right words, maybe I can delay the moment when I have to risk being seen. If I can follow the right person, maybe I won't have to trust myself.
-
-That is how the myths get built.
-
-Allyship means being good. Saying the right words. Helping the less powerful. Following the right people. Sacrificing yourself. Never causing harm. Fixing the problem.
-
-Every one of those myths has a little truth in it, which is why they survive. Goodness matters. Language matters. Repair matters. Problems do need to be faced. But when any one of them becomes the whole definition, allyship turns into a private trial. The other person stops being a person and becomes evidence in the case you are trying to win against yourself.
-
-If your allyship is secretly trying to disprove a self-sabotaging belief, it will eventually stop being allyship and become a bargain.
-
-Look at the situation you brought with you. Which private question is hiding inside it?
-
-Not the clean answer. The one that made your body flinch a little.
-
-So here is the definition this book is built on:
-
-**Allyship is the practice of increasing another person's well-being while protecting the conditions that allow both of you to remain full players in the game.**
-
-That last clause matters. If helping you requires me to disappear, obey, dominate, rescue, perform, or collapse, we have left allyship. If my support turns you into a recipient, mascot, authority, project, audience, or proof that I am good, we have left allyship. The point is not for one of us to become smaller so the other can be saved. The point is to protect the conditions in which both of us can keep making real moves.
-
-That is why charity is not allyship. Charity can be beautiful. Charity can be necessary. But charity does not require both people to remain full players.
-
-That is why henchmanship is not allyship. If I surrender my discernment to your wound, your certainty, your politics, your authority, or your pain, I am trying to solve my own fear of being wrong by becoming useful to your game.
-
-You know this one by the moment you stopped disagreeing because being useful felt safer than being honest. If I have to turn off my discernment to help you, I am not your ally. I am staff.
-
-That is why martyrdom is not allyship. If my care depends on self-abandonment, the invoice will come due. It may arrive as resentment. It may arrive as contempt. It may arrive as a collapse so complete that I cannot help anybody for a while and secretly blame them for needing me.
-
-And that is why performance, purity, and saviorism are not allyship either. Performance protects my image. Purity protects my innocence. Saviorism protects my usefulness. None of them protect the game where both of us can keep becoming.
-
-This is also why well-being is harder to increase than people admit: people resist their own well-being.
-
-Not because they are stupid. Not because they are ungrateful. Because the suffering is doing a job. It may be protecting an identity: if I stop being wounded in this way, who am I? It may be protecting belonging: if I get better, will I lose the people who bonded with me around this pain? It may be protecting innocence: if I become capable, do I become responsible? It may be protecting control: if I receive help, do I have to admit I cannot manage this alone?
-
-This matters because allyship cannot mean wanting someone else's well-being harder than they are willing to want it themselves. That is how care becomes pressure. That is how help becomes control. That is how you burn out trying to drag someone through a door guarded by a part of them you have not met. In this book, those guarding parts are called Gates.
-
-Bring your situation back for a second. What would get harder if it actually got better? The part blocking the door is not trying to ruin your life. It thinks it is the only reason you survived.
-
-Gerard Egan's work on skilled helping refuses the fantasy that a helper can do the client's work for them. You can help someone name where they are, where they want to go, and what they might do next. You cannot become their will.
-
-Carolyn Elliott's shadow work sharpens the same point from the inside: the pattern you consciously hate may be serving an unconscious purpose. The resistance has a payoff. Ken Wilber's shadow work names the developmental cost: what is disowned gets projected, repeated, defended, or universalized until it is brought back into the self.
-
-This is where Emotional Alchemy enters the game. Not as a prettier way to feel your feelings. As the practice of metabolizing the charge that would otherwise make your help a delivery system for your fear, shame, urgency, guilt, or hunger to belong.
-
-In other words: you cannot give someone a relationship to well-being that you have not developed in yourself. If you are trying to give well-being from a place that is hostile to your own well-being, what you are giving is not well-being. It is pressure in a nicer outfit.
-
-That is why self-allyship is not a detour from allyship. It is the first level of mastery. You ally with yourself not to become self-absorbed, but to stop exporting what you have not metabolized into the people you are trying to help. The Gates are where that self-allyship becomes specific.
-
-I know the part of you that distrusts this.
-
-If care stops hurting, does it still count? If you are not exhausted, are you still serious? If the work gives something back to you, have you made it selfish?
-
-That is not a stupid fear. It is the old benevolence system talking. It measures goodness by how much of you disappears.
-
-And yes, we have to use words here. This is a book. Language is how we hand each other maps. But language is also where people hide when the map stops matching the territory.
-
-So use the words, then check the record underneath them.
-
-There is a tired that comes from loving something with your whole chest. And there is a tired that comes from abandoning yourself and calling the abandonment care. They do not lead to the same place.
-
-Service is sacred. Self-erasure is not.
-
-A benevolent field is not one where one person quietly disappears. It is one where everyone's agency has room to stay online.
-
-The goal is not to care less. The goal is to stop using depletion as your proof that the care is real.
-
 The architecture of the game is the problem, not the effort of the player.
 
 I came to this through Alan Watts, who spent forty years pointing at it from every angle. In *You're It!* he makes the case that all of life is a game of hide-and-seek — consciousness forgetting itself to have the experience of rediscovering itself. The game isn't incidental to existence. It is the structure.
@@ -137,6 +53,8 @@ I came to this through Alan Watts, who spent forty years pointing at it from eve
 James Carse sharpened this into something usable. *Finite and Infinite Games* draws a distinction I can't unknow: a finite game is played to win — fixed rules, defined players, a clear end. An infinite game is played to continue — the rules change to keep the game alive, the point is to keep as many people in play as possible. Allyship, as currently designed, is a finite game. There are rules. There are ways to lose. And the architecture of a finite game guarantees that eventually you hit the wall. In a finite game, that's failure. In an infinite game, that's just the next move.
 
 The shadow work — Carolyn Elliott's, Carl Jung's — added the piece that made this land: not all games are conscious. The game you're in right now may be one you inherited, or chose before you knew what you were choosing. Growth means making the unconscious game visible. Once it's visible, you have a choice. You can't change a game you don't know you're in.
+
+A word the book will keep using, planted here so it has a home before you meet it on the next page: **the Shadow** — singular, capital S — is the specific material you've disowned and project onto the person who makes your jaw tighten. Elliott's term, kept as she meant it. (A few chapters from now you'll meet three nested handles built around it: the Shadow itself, the *distortion* a Face runs into when it flees that material, and the *cost* a gate exacts if you pass it without meeting what it guards. For now: one word, one referent, the disowned stuff. Chapter 1 will grip it tighter.)
 
 But here is what Watts and Carse and Elliott together made me see: a game doesn't just name what's happening. It calibrates the relationship. The person who is over-identified — who can't stop because stopping feels like betrayal — needs a game to create healthy distance. The person who has gone numb, who has dissociated from the stakes to survive, needs a game to come back into engaged relationship with the play. A game is healthy disidentification for one, and healthy re-engagement for the other. That is why a framework for allyship that isn't a game will always be incomplete. It can't do both jobs at once.
 
@@ -184,7 +102,7 @@ You've been doing this your whole allyship life. The manual was missing. Now you
 
 ---
 
-This book is the manual. The **Token System** and **Ticket System** tell you what you're spending and what you're earning back. The **six mentor-guides** in the chapters ahead are capacities you already have — not characters you become. Your **character sheet** is a snapshot you'll update as you play. The **BAR deck** — you'll meet it in a moment — is how you capture what lands before it fades.
+This book is the manual. The **Token System** and **Ticket System** tell you what you're spending and what you're earning back — and what those tickets are *for:* the **campaigns** you'll learn to fund with them. The **six mentor-guides** in the chapters ahead are capacities you already have — not characters you become. Your **character sheet** is a snapshot you'll update as you play. The **BAR deck** — you'll meet it in a moment — is how you capture what lands before it fades.
 
 ---
 
@@ -200,15 +118,9 @@ Every game has a currency. In the Infinite Arcade, the currency is tokens — an
 
 Most allyship advice assumes you have an infinite supply of non-renewables. Show up. Amplify. Center the marginalized. Listen more. The advice is not wrong — it is silent about the fact that every one of those actions costs something. And if you spend without replenishing, you go empty.
 
-Here's what that looks like in practice. You walk into a meeting where a colleague says something that erases your community's experience. You feel it in your chest — a tightening, a heat. That is a token being spent. The feeling is real. The cost is real. You can spend another token arguing with them in the room. You can spend a token biting your tongue and processing later. You can spend a token on the drive home and the conversation with your partner at night. The meeting was ten minutes. The spending goes on for hours.
+Here's what that looks like in practice. You walk into a meeting where a colleague says something that erases your community's experience. Something just got spent — you know it before you've decided what to do. That is a token being spent. The feeling is real. The cost is real. You can spend another token arguing with them in the room. You can spend a token biting your tongue and processing later. You can spend a token on the drive home and the conversation with your partner at night. The meeting was ten minutes. The spending goes on for hours.
 
 (You already knew this. You've done this math in a parking garage, on a run, in the shower. The fact that a specific meeting just surfaced in your mind is the whole point.)
-
-Now use the thing you brought with you. What has it been costing you?
-
-Guilt. Obligation. Fear. Love. Clarity. Anger. Devotion. Joy. Time.
-
-That was not just "how hard it is." That was the token cost.
 
 Now imagine doing this three times a day, five days a week, for years — on guilt and obligation, without ever naming that the fuel doesn't renew. Without ever asking what refills the cup.
 
@@ -222,11 +134,9 @@ Because here is the thing about tokens: the more consciously you spend renewable
 
 That is the practice. Not scarcity. Literacy.
 
-**Two currencies — don't mix them up.** Tokens and fuel are what *you* spend to keep playing — your personal energy economy. Think of a farming game: swinging the axe costs energy, watering the field costs energy, walking into the mine costs energy. The meter matters because it tells you what you can afford to do today. But the meter is not the whole game. The point is not to have infinite stamina. The point is to spend your stamina in ways that help the farm become more alive.
+**Two currencies — don't mix them up.** Tokens and fuel are what *you* spend to keep playing — your personal energy economy. Later, when you meet the Diplomat, you'll work with a different game: **terms** — what the relationship or field must hold so that staying is real for everyone. Fuel answers *Can I afford to show up?* Terms answer *What does this agreement actually require of each of us?* Same word family in ordinary speech ("What's the price of this?"), two different games on the arcade floor. Learn fuel here. Learn terms in Chapter 6.
 
-That is the bridge between personal energy and allyship ecology. Your personal energy economy tells you whether you can afford the move. The energy ecology tells you whether the move helps the field become more alive over time. Later, when you meet the Diplomat, you'll work with a different game: **terms** — what the relationship or field must hold so that staying is real for everyone. Fuel answers *Can I afford to show up?* Ecology answers *What does this move do to the living field?* Terms answer *What does this agreement actually require of each of us?* Same word family in ordinary speech ("What's the price of this?"), three different games on the arcade floor. Learn fuel here. Learn ecology with the Shaman. Learn terms in Chapter 6.
-
-This isn't abstract. You feel non-renewable spending in the body — the heaviness after a hard conversation, the dread before showing up, the sense that you're performing care you don't actually have. Renewable spending feels different — tired but not empty, stretched but not hollow.
+This isn't abstract. Non-renewable spending has a signature — the heaviness after a hard conversation, the dread before showing up, the sense that you're performing care you don't actually have. Renewable spending feels different — tired but not empty, stretched but not hollow.
 
 **Time** is the token you can never earn back. Every hour you spend in the wrong game is an hour you cannot play in the right one. Every relationship you maintain because you feel obligated is a relationship that could be a quest. Every intervention you make without naming your exit terms is a game that plays you.
 
@@ -258,25 +168,35 @@ The arcade floor has a scoreboard. It does not show likes. It shows your balance
 
 (Some players in the Arcade earn a special currency — Vibeulons — when they complete quests or finish practices. We'll talk about those later. For now, the ticket is simpler: what are you spending, and what are you actually earning back?)
 
-Return to the thing you brought with you. After you engage it, do you have more life available or less?
+---
 
-That is the payout. Not what you looked like from the outside. What the move returned to the player.
+## The Prize — What You're After
+
+Tickets are not the point either. They are what you earn. The real question is what you earn them *for.*
+
+Here is the prize, and it is smaller and stranger than the one you were sold: **the prize is getting to show up skillfully.** Not the applause for it. Not the visible win. The actual experience of playing a hard moment well — clear, warm, unhurried, *yours* — and walking out still able to play the next one.
+
+That sounds like too little, until you count what you spent chasing the other prize: the *look* of having done it right. The look can be bought on guilt and obligation. It photographs well. It leaves you hollow. That is the bullshit prize — the performance of showing up skillfully, paid for with fuel that doesn't renew, at a price you can't keep paying. The real prize can only be bought one way: by actually showing up skillfully, on fuel that refills as you spend it.
+
+And here is where the game opens past you.
+
+The tickets you earn showing up skillfully are not just yours to feel good about. They are capital. They fund **campaigns** — sustained work in the world that outlasts any single moment of courage. Movement builders have known the shape of that work for sixty years: there are four kinds of it — **gathering resources, organizing the conditions, taking direct action, raising awareness.** You'll walk each of those territories later; the Forest names them first, and the appendix maps them. For now, hold only this: the interior work is not self-care that ends with you. It is the capital base for the real work. You show up skillfully → you earn tickets → the tickets fund campaigns → the campaigns change conditions that were never going to move on guilt alone.
+
+That is the whole economy on one arcade floor. Tokens are the fuel. Showing up skillfully is the play. Tickets are what it earns. Campaigns are what the tickets fund. And the prize — the one you actually came for — is getting to be someone who can keep showing up, in work that keeps working after you've left the room.
 
 ---
 
 ## Capture What Lands — The BAR Deck
 
-Somewhere in this chapter, a line landed in your body before your mind finished arguing with it. A meeting surfaced. A guilt you recognized. A moment you knew you were Game Mastering without having the word for it yet.
+Somewhere in this chapter, a line landed before your mind finished arguing with it. A meeting surfaced. A guilt you recognized. A moment you knew you were Game Mastering without having the word for it yet.
 
 That moment is worth keeping.
 
 A **BAR** is a captured instance — not the pattern, not the interpretation, the body-level event before it fades. In the chapters ahead, you'll meet eight gates per face. Each gate is a threshold. When one costs you something, you capture it: what happened, what you felt, what's now clearer. Two minutes. Before you walk past it.
 
-You'll make your first BAR before you enter Chapter 1. For now, understand the shape: one real moment, two minutes, captured before it goes generic.
-
 The app turns each capture into a card in your personal allyship deck — a hexagram keyed to the gate and chapter where the recognition landed. Read the book, capture what lands, and by the end you hold a deck built from your own play — not someone else's checklist. After the book, those cards become an oracle: draw one, follow the invitation, route back into practice.
 
-You don't need the app to read. You need it to play for keeps. When a line in the next chapter catches you, open the app or use the margin. Name it before it goes generic. → app
+You don't need the app to read. You need it to play for keeps. When a line in the next chapter catches you, open the app. Name it before it goes generic. → app
 
 ---
 
@@ -313,16 +233,6 @@ Games of Passion teach loyalty — not to a cause, not to an identity, but to wh
 Most allyship frameworks have no language for passion. They treat it as a risk factor — something that makes you unreliable, irrational, too invested. But the Infinite Arcade knows: passion is the only thing that makes the other two games worth playing.
 
 The skill without passion is career. The chance without passion is fate. The passion without skill is burnout. The passion with skill and the honesty about chance — that is what this book is for.
-
-Now map your situation once.
-
-What part of it is Chance — something you cannot control?
-
-What part is Skill — something you can practice?
-
-What part is Passion — the thing you care about even when no one is grading you for caring?
-
-You do not need a perfect answer. You just touched the controls.
 
 ---
 
@@ -364,12 +274,6 @@ You have held fields with the Diplomat — the capacity to stay in a room where 
 
 You have seen with the Sage — the moment you looked at the whole system and knew which game you were in, and chose to stay and play it rather than to leave and watch from above.
 
-In the thing you brought with you, which Face showed up first?
-
-The one that felt. The one that drew the line. The one that protected what mattered. The one that designed the system. The one that held the field. The one that saw the whole game.
-
-That is not your final answer. It is your starting character.
-
 These are not stages you complete and move past. They are capacities you develop simultaneously — and each one, once developed, spends less to maintain. The Shaman costs less on figuring out what you feel. The Challenger costs less on boundary violations you didn't name. The Architect costs less on brute force. They are renewable token generators, not a ladder you climb and leave behind.
 
 The Infinite Arcade shows you the whole map before you start navigating it. Not to overwhelm — to orient. To show you that the game you're learning has a shape, and that the shape is navigable, and that many people have played it before you and left maps.
@@ -404,11 +308,11 @@ It's also the door.
 
 ## Build Your Allyship Character
 
-Now that you have touched the controls, here's who you are in this game.
+Before you go further — here's who you are in this game.
 
 Not who you should be. Who you are right now.
 
-Take a moment. Read each field. Notice which one lands in your body before your mind reaches for an answer. The body knows first.
+Take a moment. Read each field. Notice which one lands before your mind reaches for an answer. You know first.
 
 **Your dominant face.** The one you default to first when the field gets hot. The capacity that comes most naturally when you're under pressure. This is your starting point — not your destination.
 
@@ -444,6 +348,36 @@ You'll know which is yours. The book keeps going either way.
 
 ---
 
+## The First Move
+
+The test is also a door. You don't pass it by understanding it.
+
+Here is the move: in the next seven days, find one person you actually trust — not a stranger, not a coach, not the app. Someone who has known you longer than a single conversation. And ask them this, in something close to these words:
+
+*"I just read five things about myself in this book. One of them landed. I want to know what you see. Not the version of me I've been showing you — the one you actually see."*
+
+That's the whole thing. One conversation. Twenty minutes, maybe less. The asking is the move.
+
+Here's why this is harder than it sounds, and why it matters:
+
+The asking is the move. Not the answer you get. Not whether they see you correctly. Not even what you learn. The asking is the part where you stop performing the version of yourself you've been showing them, and find out what they actually see when you stop performing it.
+
+That's the Two Readings test, applied here.
+
+Reading one: you ask to be seen because you've been seen, and the asking is how the seeing turns into a move. You already know what you noticed. You're asking because the noticing needs somewhere to land.
+
+Reading two: you ask to be seen because the asking is itself a sophisticated form of staying seen without being known. You get to perform the vulnerability without doing the vulnerability. The conversation happens. Nothing in you changes.
+
+The same warmth. The same *yes*. The same test: *did the asking start a move, or end one?*
+
+I built this book for three years while telling myself I wasn't avoiding it. I was making the work smaller, slower, less alive — because finishing it would mean someone could finally see it, and someone could finally see me. The asking is the move. Not just for you. For me. For the page you're about to turn to.
+
+You already know who to ask. They probably already know what they see. The harder part is finding out they were right, and what you do with that.
+
+*Who you asked, what you said, what they said back, what surprised you. → app*
+
+---
+
 ## The Reader's Oath
 
 Before you turn the page — know this.
@@ -459,27 +393,5 @@ Or you can recommit. Not to being perfect. To being present. To staying in the g
 That is the oath. Not: I will get this right. But: I will keep playing.
 
 If you're willing to accept that, the Forest is waiting.
-
-## Your First BAR
-
-Before you enter the Forest, do one thing.
-
-Capture your first BAR.
-
-Use the thing you have been carrying through this chapter, or choose one moment from the last forty-eight hours if something hotter surfaced. Not your whole pattern. Not your identity. One moment where your allyship was trying to prove something about you.
-
-Write three lines:
-
-What happened?
-
-What was I trying to prove?
-
-What did it cost?
-
-Two minutes. App, paper, margin, notes app. Done is the point.
-
-If you skip this, the book will still let you keep reading. But the game knows the difference between reading the rules and making a move.
-
-Make the move.
 
 *Enter the Forest.*
