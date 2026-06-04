@@ -143,7 +143,7 @@ The Architect's practice has four stages:
 
 The five Architect modes are five ways logic moves through a problem. Each carries a canonical emotional alchemy signal — the Architect detects information through these channels:
 
-| Mode | Detects | Signal (Metal/Fear, Water/Sadness, etc.) | Transcend Outcome |
+| Mode | Detects | Signal (Metal/Fear, Water/Sadness, etc.) | Integrated Outcome |
 |------|---------|------------------------------------------|-----------------|
 | **Mapmaker** | Risk — where the system could break | Metal/Fear | → Excitement |
 | **Engineer** | Coherence — whether the whole holds together | Earth/Neutrality | → Peace |
@@ -151,7 +151,7 @@ The five Architect modes are five ways logic moves through a problem. Each carri
 | **Inventor** | Vitality — what wants to exist but doesn't yet | Wood/Joy | → Bliss |
 | **Optimizer** | Grief — what worked once and doesn't anymore | Water/Sadness | → Poignancy |
 
-This is not metaphor. The Architect's native material is logic, but the emotional signal underneath is real. When the Mapmaker says *this design will fail*, what the Architect is actually feeling is Metal/Fear — and the transcend move is satisfied fear: excitement that the risk is known, mapped, and addressed. When the Optimizer finds the process that used to work and doesn't anymore, what the Architect is feeling is Water/Sadness — and the transcend is poignancy: honoring what was while releasing what no longer serves.
+This is not metaphor. The Architect's native material is logic, but the emotional signal underneath is real. When the Mapmaker says *this design will fail*, what the Architect is actually feeling is Metal/Fear — and the integrated move is satisfied fear: excitement that the risk is known, mapped, and addressed. When the Optimizer finds the process that used to work and doesn't anymore, what the Architect is feeling is Water/Sadness — and the integrated outcome is poignancy: honoring what was while releasing what no longer serves.
 
 The five modes are also the five ways the Architect moves through the WAVE-Spiral at altitude. Wake: notice which mode is active and what it's detecting. Clean: ask what the signal is showing. Grow: find the lesson. Show: move from the integrated understanding. This is how the Architect's practice and the Shaman's emotional alchemy work together — not as two systems, but as one system seen from two altitudes.
 
@@ -171,7 +171,7 @@ Pick a room you're actually in — a team, a committee, a coalition — where ev
 
 Then hold the flinch. Somebody will hear it as criticism — that's the cost, and you don't pay it by softening. You pay it by staying warm while you stay clear: *I'm not saying anyone failed. I'm saying the structure is doing exactly what it was built to do — and it was built for a world we're not in anymore.* That sentence is the whole chapter: structural sight delivered as love instead of indictment.
 
-*You named an assumption out loud in a real room — or you watched yourself swallow it and solve the visible problem instead. Before it fades: which assumption, what you actually said, and what the flinch cost you. Two minutes in the app while the room is still with you. → app*
+*You named an assumption out loud in a real room — or you watched yourself swallow it and solve the visible problem instead. Before it fades: which assumption, what you actually said, and what the flinch cost you. Two minutes in the app while the room is still in your body. → app*
 
 ---
 
@@ -245,7 +245,7 @@ Try it now. Just for a second. Find the part of you that's already planning the 
 
 When you're ready, keep walking.
 
-*Here's the first move in the Architect's walk: you register before the mind decides. Something just happened — or notably, didn't. A release, a shift, a flicker, or a deliberate nothing: all of it data, none of it yet labeled. Capture the raw event before interpretation arrives to explain it. → app*
+*Here's the first move in the Architect's walk: the body registers before the mind decides. Something just happened — or notably, didn't. A release, a tightening, a flicker, or a deliberate nothing: all of it data, none of it yet labeled. Capture the raw event before interpretation arrives to explain it. → app*
 
 ---
 
@@ -353,7 +353,7 @@ Name your fear. Whatever name you've given it — give it a voice. Let it speak.
 
 When you're ready, keep walking.
 
-*Fear is a channel — it carries information before it carries meaning. What was it, before you named it? Not the story the fear was running — the event itself, the way it moved or stayed still. And then: what name did you give it? The signal first, then the name. The naming is the move that makes it usable. → app*
+*Fear is a channel — it carries information before it carries meaning. What did it feel like before you named it? Not the story the fear was running — the physical event itself, the place it landed, the way it moved or stayed still. And then: what name did you give it? The sensation first, then the name. The naming is the move that makes it usable. → app*
 
 ---
 
@@ -403,8 +403,6 @@ So stay.
 
 That's the move at this gate. You don't fix the Damaged Self. You don't argue. You don't offer evidence of your competence. You just stay. You let the Damaged Self see that you can be in the same room with this feeling and still do the work.
 
-And if staying with it opens more than the page can hold — read that the way the Architect reads any signal that exceeds the current system's capacity: not as failure, but as a sign you need more support in the loop. This is a gate some people are right to walk with a therapist. Going alone isn't the more rigorous design.
-
 When you're ready, keep walking.
 
 *What does the Damaged Self believe about you — in exact words, not your reframe? Write it down before you build a case against it. And then: what was it like to stay with it instead of correcting it? The Architect who knows when not to intervene understands the system better. That staying is the move. → app*
@@ -445,8 +443,6 @@ Okay. You've learned what strategic design is. You understand the channels, the 
 Here's what I've noticed about the Architect's game: the Architect wins when the right thing happens without them having to be there. When a system works and nobody had to manage it. When a process runs and nobody had to micromanage it. When a design serves the user and the designer can move on to the next thing.
 
 The Architect's game is building the map that makes you unnecessary. Not unnecessary in a dismissive way—unnecessary in a generous way. You've built something that can survive without you. That's the win.
-
-Two prizes sit on this table, and from the outside they look almost identical. The bullshit prize is being the one who saw it — smartest in the room, the indispensable mind, the elegant solution everyone admires and nobody can run without you. It's a good prize. It just has to be re-won every time, and it quietly needs the system to stay broken enough to keep needing you. The renewable prize is the opposite, and much quieter: you build the thing, then watch it run when you're not in the room. Nobody claps. You're not needed. And it's one of the most satisfying things there is — the proof is that it kept working after you left.
 
 Here are five distinct moves that make that win real.
 
