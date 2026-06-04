@@ -64,7 +64,7 @@ The old allyship produces moments of brilliance and long stretches of exhaustion
 
 *Somewhere in you is the memory of the moment you realized the map was wrong. Not wrong about the destination, wrong about where you had to start. You had been walking in the wrong direction. Not because you were careless. Because no one told you there was a different starting point. By the time you figured it out, you had already spent something you can't get back. Energy. Time. Maybe a relationship. Maybe your belief that you could be the kind of ally you wanted to be.*
 
-*That cost is still there. The map was wrong, and following it pointed you the long way around what you were trying to serve. You are farther from the work than you were when you started. You are also closer to it than you have ever been — the distance is the compass reading that says you have been moving all along.*
+*That cost is still there. You've been carrying it. Some of the exhaustion you've been calling burnout is actually grief: the grief of having done your best with a broken map. The grief of loving the work and having it not be enough. The grief of showing up and not being enough. Not because you failed. Because the terms were set wrong from the beginning.*
 
 *That grief is not a weakness. It's information.*
 
