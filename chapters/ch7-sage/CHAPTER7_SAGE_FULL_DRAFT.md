@@ -635,7 +635,9 @@ And now the question changes.
 It's no longer *which Face am I being?*
 It's *which game am I designing?*
 
-The book ends with the player. Not the Sage looking down. The Player walking forward, building the road as they go.
+That question was never the Sage's to answer — only to hand you. The Sage's gift is the seeing; the next move is the building, and that one was always going to be yours. You've carried the whole map this far. You don't need anyone reading it over your shoulder anymore.
+
+This is where the Sage stops and the Player starts. Not the Sage looking down from anywhere — the Player out ahead on the road, already walking, building it as they go. That's the next Face. That's you.
 
 ---
 
