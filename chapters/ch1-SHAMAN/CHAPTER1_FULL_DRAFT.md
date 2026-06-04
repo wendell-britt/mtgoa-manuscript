@@ -8,7 +8,7 @@
 
 The world is not fine.
 
-You know this. Not from reading about it — from the meeting that went sideways and the silence you carried to the car afterward. From the community that was supposed to hold and didn't. From the low hum of something wrong that arrives before you have language for it.
+You know this. Not from reading about it — from the jaw that tightened in a meeting that went sideways. From the weight that settled in your chest when a community that was supposed to hold didn't. From the low hum of something wrong that arrives before you have language for it.
 
 The thing you noticed first was probably small. A conversation that went wrong. A relationship that fractured over something that shouldn't have been able to break it. A moment when you showed up to help and found out that helping had made it worse.
 
@@ -18,7 +18,7 @@ The feeling is this: *this isn't working.*
 
 Not you. Not your effort. Not your intentions.
 
-That hum doesn't go away when you put down the phone. It arrives before the mind has words for it, and it doesn't resolve with the next action item.
+That hum doesn't go away when you put down the phone. It's in the body before it's in the mind, and it doesn't resolve with the next action item.
 
 The whole thing has a structural flaw:
 
@@ -64,7 +64,7 @@ The old allyship produces moments of brilliance and long stretches of exhaustion
 
 *Somewhere in you is the memory of the moment you realized the map was wrong. Not wrong about the destination, wrong about where you had to start. You had been walking in the wrong direction. Not because you were careless. Because no one told you there was a different starting point. By the time you figured it out, you had already spent something you can't get back. Energy. Time. Maybe a relationship. Maybe your belief that you could be the kind of ally you wanted to be.*
 
-*That cost is still there. You've been carrying it. Some of the exhaustion you've been calling burnout is actually grief: the grief of having done your best with a broken map. The grief of loving the work and watching it cost more than it ever paid back. The grief of showing up all the way and still hitting the wall. Not because you failed. Because the terms were set wrong from the beginning.*
+*That cost is still there. You've been carrying it. Some of the exhaustion you've been calling burnout is actually grief: the grief of having done your best with a broken map. The grief of loving the work and having it not be enough. The grief of showing up and not being enough. Not because you failed. Because the terms were set wrong from the beginning.*
 
 *That grief is not a weakness. It's information.*
 
@@ -76,7 +76,7 @@ This is the failure mode we're building a way out of.
 
 ### What's Different Now
 
-Something has shifted. The conversations sit heavier and let go slower; a vigilance that used to have a clear target now just hums with no off-switch.
+Something has shifted. You can feel it in your body — a tightening that doesn't quite release between hard conversations, a vigilance that used to have a clear target and now just hums.
 
 The conversations come with more charge. Coalitions that held through the last hard thing are fraying at edges that shouldn't be weak. The feedback — when it comes — comes fast, doesn't wait for you to be ready, doesn't come with enough context to land cleanly. And the language keeps shifting, not because people are moving the goalposts but because the situation is actually moving, and the words you practiced last year don't cover the new terrain. You can feel yourself falling behind. You can't name what falling behind even means.
 
@@ -149,7 +149,7 @@ That question is not an indictment. It's a starting point.
 
 The meeting where the room went cold. Your body knew exactly what was happening — had known before anyone spoke — and you deferred to the consensus. Not because you lacked the capacity. Because body knowing, in your framework, belongs to people closer to their roots. Claiming it felt like appropriation. So you built the literacy and didn't use the read.
 
-The body that knew was not appropriating anything. It was yours. The Shaman's first move is available to you. The question this chapter is asking is whether you'll stop treating your own knowing — the kind that arrives before the mind catches up — as something that belongs to someone else.[^body]
+The body that knew was not appropriating anything. It was yours. The Shaman's first move is available to you. The question this chapter is asking is whether you'll stop treating your own somatic intelligence as something that belongs to someone else.
 
 The problem is not that you wanted to be good. The problem is that trying to seem good takes the whole body. There's nothing left over. The face you're holding in place and the face underneath it are running simultaneously, and that split is where the exhaustion actually lives.
 
@@ -208,7 +208,7 @@ I had learned, for reasons that started early and went deep, to keep my feelings
 
 The rock in my shoe was not a pebble. It was the tip of something that went down a long way.
 
-My friends were calling to see if I was okay. They were not okay — they were disturbed, shaken, holding something they didn't know how to hold — and they were delivering it to me, gift-wrapped as concern. I was the only Black person most of them knew. My wellbeing had become a stand-in for all of Black America's wellbeing. The call that was supposed to support me was asking me to hold their unprocessed feelings about a Black man's murder.
+My friends were calling to see if I was okay. They were not okay — they were disturbed, shaken, holding something they didn't know how to hold — and they were delivering it to me, gift-wrapped as concern. I was the only Black person most of them knew. My well-being had become a stand-in for all of Black America's well-being. The call that was supposed to support me was asking me to hold their unprocessed feelings about a Black man's murder.
 
 I was not okay. But not for the reasons they assumed.
 
@@ -251,6 +251,32 @@ That's your guide.
 
 That's your way in.
 
+Before the map gets bigger, let me tell you how this game teaches.
+
+Most of the allyship training you've been handed works like school, compliance, or court. Learn the terms. Prove you understand them. Perform the correct response. Avoid getting it wrong. Repeat until the rules change.
+
+That structure trains performance. It does not train play.
+
+A game teaches differently.
+
+A game gives you a map, lets you make a move, shows you what happened, and lets you try again with better information. You do not become capable by memorizing the whole map before touching the controls. You become capable by learning what the controls do while something is actually happening.
+
+Chapter 0 taught you the controls. Chapter 1 teaches you how to walk the book.
+
+You are going to meet more language than you can use all at once. That is normal. You will see the Gates more than once: first as a map, then as a walk, then as a move. That repetition is not a test. It is how the book teaches recognition.
+
+The point is not to memorize the Gates, master the Guides, or become the kind of person who can explain the whole system at dinner. The point is to notice the first place you recognize yourself in the map.
+
+When a Gate lands, stop there. When a Guide's question makes something in you lean forward, start there. When a sentence names the thing you have been circling for years, that is not trivia. That is the door.
+
+The map is not the assignment. The move is the work.
+
+Recognition is not completion. It is where the move begins.
+
+So do not try to carry the whole Forest at once.
+
+Let the first true thing find you. Then do one thing with it.
+
 ---
 
 ## Section 6: The 8 Gates Preview
@@ -258,9 +284,17 @@ That's your way in.
 
 The Forest is not one moment. It's a sequence.
 
-The gate architecture comes from Genpo Roshi (Dennis Genpo Merzel), a Zen teacher who developed the Big Mind Process — a practice of meeting each of the mind's voices directly, giving them their full dignity, and asking what they've been protecting. His core insight: you don't eliminate a voice that's been doing a job for you. You talk to it. You find out what it has been protecting. You give it a narrower, more specific job. The eight gates in this book are Genpo's voices applied to allyship — the same principle aimed at the specific terrain where allied practice keeps failing.
+The gate architecture adapts Genpo Roshi's Big Mind insight: inner voices become workable when you meet them directly instead of trying to exile them. This book aims that principle at allyship, where the voices guarding your own agency also shape what kind of help you can offer or receive.
+
+For now, do not study the Gates. Walk them with the issue you brought.
 
 It's eight gates. Not eight personality types. Not eight boxes. Eight recurring thresholds where your old pattern surfaces and asks whether you'll run it again or meet it directly.
+
+The Gates are how help gets received. You do not receive allyship as one clean, unified self. You receive it through the part of you currently guarding the door.
+
+If the Protector is guarding, help sounds like threat. If the Controller is guarding, help sounds like chaos. If the Victim is guarding, help may sound like proof that the wound has to stay central.
+
+This is why you start with your own Gates. You cannot ally with someone past the Gate they have not allied with in themselves. And you cannot receive allyship past the Gate you have not allied with in yourself.
 
 You don't master all eight in one pass. You learn to recognize where you are and make one honest move at a time.
 
@@ -325,7 +359,7 @@ If Chapter 1 has a home gate, this is it.
 That shift turns Protector from saboteur into scout. It still protects you, but it no longer runs the whole interaction.
 
 **Worked example (meeting under pressure):**
-You get challenged in a team meeting and the shutters come down before you've decided anything. Old Protector move: go cold, over-explain, and make the room prove it's safe before you speak honestly. New Protector move: pause, name one boundary, then stay present.
+You get challenged in a team meeting and feel your chest tighten. Old Protector move: go cold, over-explain, and make the room prove it's safe before you speak honestly. New Protector move: pause, name one boundary, then stay present.
 
 - Boundary: "I'm open to challenge; I'm not available for personal attacks."
 - Next move: "Let's focus on the decision and the impact."
@@ -344,7 +378,19 @@ The Controller is not wrong about the past. There was a time when the feeling wa
 
 The Controller's gift is real: the capacity to function. To show up and execute even when the feeling is loud. To be the person who can hold the room, hold the project, hold the moment without falling apart. That is a genuine capacity. The Controller built it. Honor that.
 
-But the Controller is wrong about now.
+But the Controller is not only gripping. It is setting a standard.
+
+It is deciding what counts as doing this right.
+
+In the Forest, the old standard sounds like: *understand the map, feel the correct thing, perform the journey properly, do not get caught being dramatic, appropriative, messy, or wrong.*
+
+That standard will keep you controlled. It will not make you free.
+
+The updated standard is simpler: *find out what's here, then make one honest move.*
+
+That is the Controller's mature gift. It does not throw away standards. It updates them until they can hold both sides: structure and aliveness, care and agency, safety and play.
+
+That is where the Controller is wrong about now.
 
 The Controller is gripping the knob the way it did when you were small — when the charge really was too much, when the world really did get small, when the only option really was to hold down hard and survive. The Controller learned its job in a past that is not this past. The Controller is protecting you from something that already happened.
 
@@ -371,15 +417,15 @@ I'm insignificant.
 I'm not worthy.
 I'm not capable.
 
-These are the reservations. Q6 surfaces them: *what reservations do you have about your creation?* The belief becomes the reason the Transcend move fails. You feel the charge arriving. The Controller grips. One of these beliefs surfaces — *I'm not capable* — and suddenly the energy that was flowing toward action pools into the story of why you can't. The anger was real. The boundary was there. And then the Controller said *you'll go too far* and the belief stepped in and the moment passed.
+These are the reservations. The Controller uses them to turn charge into a case against your own capacity. You feel the charge arriving. The Controller grips. One of these beliefs surfaces — *I'm not capable* — and suddenly the energy that was flowing toward action pools into the story of why you can't. The anger was real. The boundary was there. And then the Controller said *you'll go too far* and the belief stepped in and the moment passed.
 
 The belief is not the truth. The belief is the Controller's reflex. The belief says *stay small* and the Controller says *that's the right call* and together they turn charge into collapse before you have to feel what you actually feel.
 
-You pass this gate by taking the knob. You hold it. You show the Controller that the world does not break when you let yourself feel. The Controller relaxes. The charge moves. And the Transcend that was waiting underneath can finally complete.
+You pass this gate by taking the knob. You hold it. You show the Controller that the world does not break when you let yourself feel. The Controller relaxes. The charge moves. And the feeling that was waiting underneath can finally complete.
 
 When you're ready, keep walking.
 
-*You know which knob you've been holding. Name what it's been holding down — and what was trying to move through before the Controller reached for it. The charge has been waiting underneath. → app*
+*You know which knob you've been holding. Name the standard the Controller brought to this gate — what "doing this right" was supposed to look like. Then update it: what standard would let you stay structured and alive? → app*
 
 ### Gate 3 Deep Dive: Skeptic
 
@@ -451,7 +497,7 @@ Each one is a distinct signal. Each one carries specific intelligence. And most 
 
 **Common trigger:** any high-stakes situation where the emotional charge arrives before you know what to do with it. The feeling is real. You don't have the language yet. And the room is expecting you to act.
 
-**Emotional Body's gift:** the full intelligence of human feeling. Fear tells you where the real risk is. Grief tells you what mattered. Anger tells you where a boundary was crossed. Shame tells you where your values and your behavior split. Joy tells you when something is aligned.
+**Emotional Body's gift:** the full intelligence of the human nervous system. Fear tells you where the real risk is. Grief tells you what mattered. Anger tells you where a boundary was crossed. Shame tells you where your values and your behavior split. Joy tells you when something is aligned.
 
 These are not obstacles to clear thinking. They are the clearest thinking your body can do.
 
@@ -477,6 +523,10 @@ Most allyship is a Drama Triangle in costume.
 
 Karpman mapped it fifty years ago: Victim, Villain, Rescuer. The Victim tells stories about harm to get sympathy. The Villain holds the triangle together by being the enemy. The Rescuer shows up to help — and needs the Victim to stay a Victim in order to feel useful. Three roles, one locked system. Nobody moves.
 
+Start with the dignity of the Gate: the Victim is not an insult. The Victim is the part that knows something happened. Something hurt. Something was unfair. Something was too much. The Victim carries real information: harm happened, the cost was real, repair may be owed, and the story should not be erased.
+
+The trouble begins when that part has to run the whole game.
+
 Here's what this means for allyship: allies don't just encounter the Victim gate — they perform it in two directions.
 
 *Seeking victims to rescue* — the ally unconsciously needs someone to save. They are drawn toward the most damaged story, the most visible suffering, the person whose situation lets the ally play hero. They call it justice. It is the Rescuer role in full operation.
@@ -485,9 +535,17 @@ Here's what this means for allyship: allies don't just encounter the Victim gate
 
 Both patterns keep the Drama Triangle running. The Victim voice isn't only in the people being "helped." It is in the helpers too.
 
-The Victim's stories are not necessarily false. What happened, happened. But the Victim tells the story for sympathy, not for truth. And the Victim will exaggerate to keep the drama going, because the Rescuer's attention is what the drama runs on.
+The Victim's stories are not necessarily false. What happened, happened. But an un-allied Victim can organize the story around sympathy instead of movement. Sometimes it feeds on sympathy: *see how bad it is, stay here with me, confirm this, do not ask me to move.* Sometimes it refuses sympathy: *do not pity me, do not touch the wound, if I receive care I might have to admit I was hurt.*
 
-**Distinction that matters:** the Damaged Self (Gate 7) has actually taken the damage. The Victim tells stories about it. These are not the same thing. The Damaged Self doesn't engage in drama — it is too busy surviving.
+Both patterns block full allyship. Sympathy may be an ingredient of allyship, but sympathy is not allyship. Sympathy says, *I see that you are in pain.* Allyship says, *I see that you are in pain, and I will help protect the conditions in which your well-being can increase while both of us remain full players.*
+
+Until the inner Victim has been allied with, every offer of allyship gets translated into either proof of suffering or threat of exposure.
+
+**Distinction that matters:** the Damaged Self (Gate 7) has the record of the harm. The Victim tells stories about harm. These are not the same thing.
+
+The Victim is the narrator. It can tell the truth, and it can also mistake discomfort for harm when staying in the story protects identity, sympathy, or innocence. The Damaged Self is the archive. It carries what actually happened in the body. It knows the difference between pain that stretches you, discomfort that asks you to grow, and harm that actually damaged something.
+
+The Damaged Self doesn't engage in drama — it is too busy surviving.
 
 **Repurpose move:** step off the triangle.
 
@@ -511,7 +569,7 @@ The Ally's job is to make themselves unnecessary. That's what winning looks like
 
 The Damaged Self has survived everything.
 
-Not a story about the damage. The actual accumulated weight of it, absorbed and still standing. The Damaged Self does not tell you what happened to it. The Damaged Self just keeps going.
+Not a story about the damage. The actual accumulated weight of it, absorbed and still standing. The Damaged Self is the record of what happened, not the performance of what happened. It does not need to persuade you that the harm was real. It just keeps going.
 
 This is the essence of "did you die though." Not as a taunt. As a fact. The damage was real. The Damaged Self took it. And it did not die. The Damaged Self is the most durable thing in the room, and most allies walk right past it.
 
@@ -521,7 +579,7 @@ The allyship that misses the resilience and responds only to the damage is not a
 
 The most common allyship failure with the Damaged Self is not cruelty. It is missing the person in front of you — the one who has survived — and responding to your projection of how damaged they must be.
 
-**Distinction from Victim:** the Victim tells the story about the damage. The Damaged Self doesn't need to tell it. The Damaged Self doesn't engage in drama. It is too busy surviving.
+**Distinction from Victim:** the Victim tells the story about the damage. The Damaged Self holds the record of it. The Victim can confuse discomfort with harm because discomfort threatens the story. The Damaged Self knows the difference because it has actually taken the hit.
 
 **When the Vulnerable Child (Gate 8) is leading:** the Damaged Self shifts its function. It no longer just endures — it calibrates. It knows the difference between damage that breaks and damage that builds. It knows which difficult things are necessary for growth. The Damaged Self becomes the one who distinguishes necessary challenge from unnecessary harm.
 
@@ -529,7 +587,7 @@ The most common allyship failure with the Damaged Self is not cruelty. It is mis
 
 Ask: what has this person survived that I would have needed help with? Offer support only where it is genuinely needed — not where you need to feel useful. Let the Damaged Self be undefeated in your perception before you decide what kind of ally to be.
 
-*Someone you've been allying with — have you been reading them as fragile or as undefeated? The Damaged Self doesn't need your protection. It needs you to recognize what it survived. Name what you've been missing about their resilience. → app*
+*Where have you been reading damage as fragility — in yourself, or in someone you are trying to ally with? Name the resilience you have been missing before you decide what kind of support is needed. → app*
 
 ---
 
@@ -599,7 +657,7 @@ Picture a real moment from your last month. A hard conversation. A call you dela
 
 Now walk it with the map:
 
-You enter the moment and the room narrows.  
+You enter the moment and feel your body tighten.  
 Protector says: *watch out.*
 
 You start rehearsing outcomes.  
@@ -646,24 +704,24 @@ Think of a charged situation from your last week. A conversation you replayed on
 
 Don't analyze it yet.
 
-Find it before you explain it.
+Find it in your body first.
 
-Not the story of what happened — the thing underneath the story, the part that's still unfinished. You already know where it announces itself; you don't need a map to find your own.
+Where does it live? Chest, throat, jaw, belly — somewhere in there is a sensation that hasn't resolved. Find it.
 
-Stay with it a moment before you reach for words.
+Put your hand there if that helps.
 
-Then, only then: what is it? Let it be what it is, not what you think it should be.
+Now: what is the sensation? Not the story. Not what happened or what you should have said. The sensation. Hot or cold. Tight or spacious. Moving or still.
 
-You don't have to know what it means. You just have to find it.
+You don't have to know what it means. You just have to locate it.
 
 That location is data. The Shaman's first move is always the same: find out where the information lives before deciding what to do with it. Before the script. Before the strategy. Before the conversation you're going to have in your head on the way home.
 
-*You just made the first move. Before the feeling fades — what you noticed, and what it might be trying to say. Open the app. Two minutes. It becomes yours.*
+*You just made the first move. Before the feeling fades — what you noticed, where it lived, what it might be trying to say. Open the app. Two minutes. It becomes yours.*
 
 ---
 
 ## Section 8: The Game
-### *Five Moves for Chapter 1 Altitude*
+### *Five Moves for the Threshold*
 
 If you're still reading, you've already been playing. This chapter gives you an opening game.
 
@@ -718,10 +776,6 @@ Here is what you're actually doing, underneath the instruction. The part of you 
 
 (If naming it out loud feels like claiming something that isn't yours — that's the exile talking. Say it anyway. The body that did the reading was yours the whole time.)
 
-Here is the test, applied to this specific move. Reading one: naming what your body is doing starts a move — it gives the felt sense a witness, and the witness becomes a kind of ground you can stand on. Reading two: naming it is a sophisticated form of staying seen without being known — you perform the noticing, the other person nods, and nothing actually changes. The test is the same one Chapter 0 named: did the seeing start a move, or did it end one? If the person you named it to asks you one follow-up question and you answer it honestly, reading one. If the conversation moves on, reading two. Both count, but only the first one is the practice.
-
-I built the Forest chapter for two years before I named any of what my body was doing to another person. I wrote about it beautifully. I cried about it alone. I built an entire book on the felt sense without ever once saying to a friend: my chest is doing the thing right now. The book is true. The two years were also a kind of hiding. You don't have to spend two years the way I did. Forty-eight hours is enough. The point is not that you did it well. The point is that you did it and someone heard you and the world didn't end.
-
 *You said it out loud. Before the moment closes — what you noticed, who you said it to, what shifted after. Open the app. Two minutes. The read becomes a move, and the part that reads comes a little further home. → app*
 
 ---
@@ -752,19 +806,9 @@ The BARs Loop is not journaling. It is game tape. Run it right after the next ha
 
 You came into this chapter with a problem you could feel but couldn't name.
 
-You're leaving with a diagnosis:
+Now you have a first map of the voices you will meet on the way.
 
-- The old model of allyship was incomplete.
-- Performance without development burns people out.
-- The work starts in the Forest, not in the feed.
-
-The Forest is where those voices are met and integrated.
-
-Six guides know that terrain.
-
-One of their questions already landed in you.
-
-And now you have a first map of the gates you'll meet on the way.
+The Forest is where those voices are met and integrated. Six guides know that terrain. One of their questions already landed in you.
 
 Before you walk on: the work in this book unfolds in four directions — gathering resources, organizing conditions, taking direct action, and raising awareness. All four are real allyship. The gates you've just mapped each have a natural home in one of them. The full map — and a way to find which direction is calling you right now — is in Appendix A.
 
@@ -782,7 +826,3 @@ Why Chapter 2 first: the Shaman trains emotional signal-reading and regulation, 
 So the hard handoff is simple: **go to Chapter 2 now**.
 
 The Forest is ahead. The gate is open. The only move left is through.
-
----
-
-[^body]: That something in us reads a situation before the conscious mind does — and that this is trainable, not mystical — is the ground beneath this whole book. I'm standing on others here: Eugene Gendlin's *Focusing* (where the idea of a bodily "felt sense" comes from) and Bessel van der Kolk's *The Body Keeps the Score* are where I'd send you first.
