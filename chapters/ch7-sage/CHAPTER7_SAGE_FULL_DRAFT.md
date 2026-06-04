@@ -158,7 +158,7 @@ The Sage sees the whole thing. And that's not a contradiction—it's the whole p
 
 Mastery is knowing which game you're playing and being able to put it down.
 
-Not detachment. Not transcendence. Not the guru on the mountain who has risen above it all. The Sage's gift is *committed seeing*: the capacity to see all the games—the power game, the strategy game, the harmony game, and the game of seeing the whole board—and still choose to stand somewhere. To play the game the moment requires, without mistaking it for the only game there is. To know when to draw the line and when to step back. To see the whole map and still walk your piece of it.
+Not detachment. Not escape. Not the guru on the mountain who has risen above it all. The Sage's gift is *committed seeing*: the capacity to see all the altitudes—the Red and the Orange and the Green and the Teal—and still choose to stand somewhere. To play the game the moment requires, without mistaking it for the only game there is. To know when to draw the line and when to step back. To see the whole map and still walk your piece of it.
 
 The Sage is what happens when you've been all the other Faces long enough that you can see them from the outside. You've felt with the Shaman. You've drawn lines with the Challenger. You've carried forward with the Regent. You've built with the Architect. You've held the field with the Diplomat. And at each step, you were also watching: *Which game am I in? Which one does this moment actually require?*
 
@@ -227,19 +227,19 @@ Here's what each mode looks like when it's doing its job — and what it looks l
 ---
 **Alchemy Move 1: Panoramic Seer**
 [DISSATISFACTION → SATISFACTION] Blank-field paralysis — **Fear** → *Excitement*
-Here's what's underneath the Panoramic Seer's first failure: the fear that what you see will be smaller than what you hoped. That the field you've opened to is actually just a room, and the wider view you've glimpsed is just a ceiling, and everyone in it has already decided what they're doing and the seeing was just a way to feel above it all.
+Here's what's underneath the Panoramic Seer's first failure: the fear that what you see will be smaller than what you hoped. That the field you've opened to is actually just a room, and the altitude you've glimpsed is just a ceiling, and everyone in it has already decided what they're doing and the seeing was just a way to feel above it all.
 The fear is real. The blank field is possible. *The contraction is the body reporting honestly on what it's actually seeing — and what it's actually seeing is the gap between what the field could be and what it is.* That gap is not the end of the view. It's the beginning of the work.
 The alchemy: you feel the field close down, you name it as the body reporting — not as prophecy — and you let the contraction inform your interest. *What is actually here? Who is actually in the room and what are they actually carrying?* The excitement is not the field being bigger than it is. It's the field being exactly what it is, and you being willing to see that.
 ---
-**Alchemy Move 2: Game-Switcher**
-[DISSATISFACTION → SATISFACTION] Game-arrogance — **Anger** → *Triumph*
-Here's what's underneath the Game-Switcher's first failure: the rage at being in a room that can't hold what you see. The *I'm seeing the whole board and you're stuck in the harmony game and this conversation is beneath my time* that fires the moment you have to go down to where they are.
+**Alchemy Move 2: Altitude-Switcher**
+[DISSATISFACTION → SATISFACTION] Altitude-arrogance — **Anger** → *Triumph*
+Here's what's underneath the Altitude-Switcher's first failure: the rage at being in a room that can't hold what you see. The *I am at Teal and you are at Green and this conversation is beneath my time* that fires the moment you have to go down to where they are.
 The anger is real. The room is sometimes exactly that limited. *The judgment is accurate, and it is also the trap — because the moment you are above them, you cannot be with them, and the Sage's practice is always about being with, not being above.*
-The alchemy: you feel the arrogance rise, you name it — *I am using the view to create distance instead of service* — and you let the judgment become the capacity to meet them. *What do they actually need? Which game are they actually in, and what would it mean to go there with them, not to them?* The triumph is not the view from above. It's the capacity to go down and come back without feeling diminished.
+The alchemy: you feel the arrogance rise, you name it — *I am using the altitude to create distance instead of service* — and you let the judgment become the capacity to meet them. *What do they actually need? What altitude are they actually at, and what would it mean to go there with them, not to them?* The triumph is not the view from above. It's the capacity to go down and come back without feeling diminished.
 ---
 **Alchemy Move 3: Diagnostician**
 [DISSATISFACTION → SATISFACTION] Grief-paralysis — **Sadness** → *Peace*
-Here's what's underneath the Diagnostician's first failure: the grief at what the narrower games miss. The moment you name the game — *this is a power-game room, this is a harmony-game stuckness, this is a strategy problem dressed up as whole-board vision* — and you feel the weight of how much is not being seen.
+Here's what's underneath the Diagnostician's first failure: the grief at what lower altitudes miss. The moment you name the altitude — *this is a Red room, this is a Green stuckness, this is an Orange problem dressed up as Teal vision* — and you feel the weight of how much is not being seen.
 The sadness is real. The gap is real. *The grief is not a reason to stop naming — it is the fuel for the naming.* The person who feels the loss of what the room can't see is the person who can name it, and the naming is not a punishment. It's a gift. It's the thing the room needs and doesn't know how to ask for.
 The alchemy: you feel the weight of the gap, you name it — *I am grieving what they cannot see, and that grief is mine to carry, not theirs to fix* — and you let the sorrow become the stillness that names clearly. *This is what I see. This is where we are. And I'm staying.*
 ---
@@ -250,10 +250,10 @@ The anger is real. The loss is real. *The game was yours for a time, and the tim
 The alchemy: you feel the rage at the game ending — *don't make me give this up, don't make me be someone who doesn't do this anymore* — and you let the fury become the permission. *The game is done. I am not done. And the game was never the point — what the game was for was the point.* The bliss is not the game continuing. It's the game being complete and you being free to choose the next one.
 ---
 **Alchemy Move 5: Returner**
-[DISSATISFACTION → SATISFACTION] The loss of the view — **Sadness** → *Poignancy*
-Here's what's underneath the Returner's first failure: the grief at leaving the view. The moment you've seen the whole board — seen the whole map, seen where everyone is and why they're stuck and what game they're actually playing — and you have to come back to a room that doesn't see it.
+[DISSATISFACTION → SATISFACTION] Altitude-loss — **Sadness** → *Poignancy*
+Here's what's underneath the Returner's first failure: the grief at leaving the view. The moment you've seen from Teal — seen the whole map, seen where everyone is and why they're stuck and what altitude they're actually operating from — and you have to come back to a room that doesn't see it.
 The sadness is not weakness. It's the cost of the gift. The Sage who has been up cannot unsee what they've seen, and coming back down means sitting in a room where you can see exactly what's happening and nobody else can, and you have to not say it, or say it differently, or say it in a way that doesn't make them feel seen-and-judged. That's the work. That's the price.
-The alchemy: you feel the loss of the view — the way the room looks smaller from inside it than it did from above — and you let the grief become the tenderness. *I see it from here. I saw it from up there. And I'm here, with you, and the seeing is still mine.* The poignancy is not the loss of the view. It's the moment where the distance between what you see and where they are becomes the place where love happens. You came back. That's the love.
+The alchemy: you feel the loss of the altitude — the way the room looks smaller from inside it than it did from above — and you let the grief become the tenderness. *I see it from here. I saw it from up there. And I'm here, with you, and the seeing is still mine.* The poignancy is not the loss of the altitude. It's the moment where the distance between what you see and where they are becomes the place where love happens. You came back. That's the love.
 
 ---
 **Control Move 1: Panoramic Seer**
@@ -333,7 +333,7 @@ This is what the Sage knows that the other Faces cannot see:
 
 And the Sage sees all of this simultaneously. Not to judge. To understand. Not to hold above — but to hold with. That is the difference between the Sage and the Sage in distortion. The Sage sees so they can serve. The Sage in distortion sees so they can be right.
 
-Wilber calls this *transcending while including*[^wilber]: you don't abandon the other games when you can see the whole board. You carry them. You include them. The whole-board view doesn't mean you've stopped playing the power game — it means you know when you're in it, and you can choose to be there deliberately, and you can come back. The Sage doesn't transcend the Faces. The Sage holds them all, and knows which one the moment is asking for.
+Wilber's point is simple: you don't abandon the lower altitudes when you arrive at the higher one. You carry them. You include them. The Teal view doesn't mean you've stopped being Red — it means you know when you're being Red, and you can choose to be there deliberately, and you can come back. The Sage doesn't leave the Faces behind. The Sage holds them all, and knows which one the moment is asking for.
 
 Laloux names something he calls *evolutionary purpose*[^laloux]: once you can see the whole board, you start to feel the pull of something larger than your own survival. Not just your team's goals. Not just your organization's mission. Something that feels like it has its own direction — like the work is pulling you forward rather than you pushing it. The Sage hears that pull and asks: *which game is this? Is this my game's pull or something else's?* Because sometimes the pull is real and sometimes it's a beautiful story you've told yourself about why the work matters. The Sage can tell the difference.
 
@@ -520,7 +520,7 @@ Here are the five moves.
 
 The five moves are not a sequence — they are a toolkit. You do not play them in order every time. You reach into the kit and pull out the move the moment requires. Sometimes the first move is Name the Game. Sometimes it's Switch. Sometimes — often — the first move is Return, because you've been above the game too long and nobody can hear you anymore.
 
-The kit has a logic though. The logic is this: seeing without naming is silence. Naming without switching is paralysis. Switching without returning is exile. Returning without putting down is accumulation. Putting down without holding the meta is transcendence-as-escape.
+The kit has a logic though. The logic is this: seeing without naming is silence. Naming without switching is paralysis. Switching without returning is exile. Returning without putting down is accumulation. Putting down without holding the meta is escape.
 
 Each move checks the others. When you Name the Game, you are setting up the Switch. When you Switch, you are earning the Return. When you Return, you are making space for the next Put Down. When you Put Down, you are creating room for the next Meta hold. And when you Hold the Meta without losing the ground, you are doing what the Sage in distortion cannot: you are being in the game, not above it.
 
@@ -582,7 +582,7 @@ Identify a game you no longer need to play. A fight you inherited from a version
 
 The Sage's freedom is in the release as much as in the seeing. And the release is harder than it sounds, because games have identity attached to them. *I am the person who holds this together.* Or: *I am the person who fights for this.* Or: *I am the person who keeps this field safe.* The game becomes who you are, not just what you do. And putting the game down means sitting with the loss of that identity — not pretending it didn't matter, but letting it be over.
 
-This is what the WAVE-Spiral's Release stage actually asks of you. Not transcendence — completion. The game has run its course. You've learned what it had to teach. The next move is not to go up — it's to let go. And letting go is not the same as giving up. It's the Sage saying: *this game was mine for a time, and it's not mine anymore, and that's okay.*
+This is what the WAVE-Spiral's Release stage actually asks of you. Not ascent — completion. The game has run its course. You've learned what it had to teach. The next move is not to go up — it's to let go. And letting go is not the same as giving up. It's the Sage saying: *this game was mine for a time, and it's not mine anymore, and that's okay.*
 
 The shadow version: putting down becomes giving up. The Sage who can't hold anything — who keeps dropping games before they've given what they have to give — is not practicing the Liberator. They're practicing avoidance. The test: can you name what the game taught you before you put it down? If you can't, the game was never really yours. If you can, and you put it down anyway — that's the practice.
 
@@ -652,9 +652,5 @@ This is where the Sage stops and the Player starts. Not the Sage looking down fr
 4. Think of someone in your life who holds a panoramic view and stays embodied. What do they do differently than someone who uses perspective to avoid?
 
 5. If you could see everything about your current situation—and still choose to be in it—what would you choose?
-
-[^wilber]: This is Ken Wilber's phrase, from his Integral Theory. In his map, the capacity I'm describing here lives at what he calls the *teal* altitude — second-tier awareness, where you can hold all the earlier stages at once instead of being run by any one of them. I've submerged the color-ladder everywhere else in this book and kept the move. If you want the whole map, *A Theory of Everything* is where I'd send you first.
-
-[^laloux]: Frederic Laloux, *Reinventing Organizations*. He names this developmental stage **Teal** — the first at which a group runs on evolutionary purpose and self-management, and gets treated as a living system rather than a machine to optimize. I borrowed the idea and dropped the color; the framework is his, and it rewards reading whole.
 
 ---

@@ -581,7 +581,7 @@ Eight gates. One path. Same order, every time.
 
 That's the map. One through-line runs all eight gates: **your capacity to feel.** Each gate is a part of you that learned, at some point, that your capacity to feel was dangerous—to you, to someone you loved, to your survival. Each one came up with a strategy. Each strategy worked. That's why they're still here. They're not lying. They're not stupid. They're old, and they're loyal, and they need to be met.
 
-You don't fight them. You don't trick them. You don't transcend them.
+You don't fight them. You don't trick them. You don't skip them.
 
 You walk past them by *acknowledging* them.
 

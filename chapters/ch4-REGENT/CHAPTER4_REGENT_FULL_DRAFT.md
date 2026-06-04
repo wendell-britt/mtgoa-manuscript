@@ -374,7 +374,7 @@ Eight gates. Same order as before. Same path. Different territory.
 
 Through-line: **Your capacity to belong — to something worth belonging to, and to carry it forward.**
 
-You don't fight them. You don't transcend them. You walk past them by acknowledging them. One at a time. Here we go.
+You don't fight them. You don't skip them. You walk past them by acknowledging them. One at a time. Here we go.
 
 ---
 

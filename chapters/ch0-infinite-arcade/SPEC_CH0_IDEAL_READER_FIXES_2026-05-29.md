@@ -2,8 +2,28 @@
 
 **Created:** 2026-05-29
 **Source:** Ideal-reader stress test of `CHAPTER0_DRAFT.md` (6,086 words, the white-woman/Enneagram-1-2/green-shadow reader)
-**Status:** Proposal (canonical prose write happens in Obsidian under Wendell's approval)
+**Status:** Partially implemented in manuscript draft (P0-2 done; P0-1 partially done via BAR door)
 **Target file:** `manuscripts/chapters/ch0-infinite-arcade/CHAPTER0_DRAFT.md`
+
+---
+
+## Implementation Sync - 2026-06-02
+
+Implemented in `/Users/wendellbritt/The Library /mtgoa-manuscript/chapters/ch0-infinite-arcade/CHAPTER0_DRAFT.md`:
+
+- P0-2 off-ramp action added as `## Your First BAR` after `## The Reader's Oath` and before `*Enter the Forest.*`
+- The BAR door asks for one moment from the last forty-eight hours where allyship was trying to prove something about the reader.
+- The action is scoped to three lines: `What happened?`, `What was I trying to prove?`, `What did it cost?`
+- The action is finishable in two minutes.
+- App is optional; paper, margin, and notes app are valid.
+- The final emotional gesture of Ch0 is now action (`Make the move.`), not self-understanding.
+- P0-1 is partially addressed by Option C: BAR remains introduced mid-chapter, but returns as the final mechanic before Forest entry. Ratio is improved by placement and force, not by making BAR longer.
+
+Still open:
+
+- P0-1 ratio is not fully complete: Three Games prose has not yet been trimmed, and the BAR section is not greater than or equal to Three Games in word count.
+- P0-4 body/prize remains open at the chapter level.
+- P1/P2 cleanup still needs a separate pass.
 
 ---
 
@@ -46,8 +66,8 @@ Therefore "fixing" a problem rarely means *explaining better* — more explanati
 3. **End each of the three Games with a recognition prompt that names a real remembered instance** in *her* life — not a definition. The chapter already knows this move (line 121, "parking garage, on a run, in the shower"); the taxonomy forgot it.
 
 **Acceptance criteria:**
-- [ ] BAR section ≥ Three Games section in word count.
-- [ ] BAR section is the final mechanic before the Forest entry.
+- [~] BAR section ≥ Three Games section in word count. *(Not done by word count; Option C solves ratio by end placement and force.)*
+- [x] BAR section is the final mechanic before the Forest entry.
 - [ ] Each of the three Games ends pointing at a remembered lived moment, not a category.
 - [ ] No new warning sentence ("don't just intellectualize this") is added anywhere. (Warnings = standards = food for the loop.)
 
@@ -64,10 +84,10 @@ Therefore "fixing" a problem rarely means *explaining better* — more explanati
 Bounded + finishable is the point: a perfectionist can *complete* it and feel legitimately done, which **starves** the "I haven't done enough" loop instead of feeding it. An unbounded ask ("go be a better ally") generates shame; a bounded ask generates a finish line.
 
 **Acceptance criteria:**
-- [ ] Exactly one behavioral demand exists in Ch0, and it is bounded (scoped, time-boxed, completable).
-- [ ] It points at a *real past/present event*, not at self-diagnosis.
-- [ ] It gates entry to Ch1 (soft gate: "before you read Ch1...").
-- [ ] It does not require the app to complete (paper path exists — preserve line 181's "You don't need the app to read").
+- [x] Exactly one behavioral demand exists in Ch0, and it is bounded (scoped, time-boxed, completable).
+- [x] It points at a *real past/present event*, not at self-diagnosis.
+- [x] It gates entry to Ch1 (soft gate: before entering the Forest / Chapter 1).
+- [x] It does not require the app to complete (paper, margin, and notes app paths exist).
 
 ---
 
@@ -171,6 +191,15 @@ Bounded + finishable is the point: a perfectionist can *complete* it and feel le
 6. **The "for me" test:** Does the prose ever drift into addressing a reviewer / HR / the converted? (P2-1, P2-2)
 
 If 1–4 pass, the chapter *works on her* instead of impressing her. 5–6 are polish.
+
+**2026-06-02 status update:**
+
+1. **Off-ramp test:** Passes after `Your First BAR`.
+2. **Ratio test:** Partial. BAR now has final-door force, but Three Games has not been trimmed and BAR does not outweigh it by word count.
+3. **Company test:** Not re-audited in this sync.
+4. **Body test:** Still open at chapter level.
+5. **Gavel test:** No new obvious gavel line introduced by BAR door.
+6. **For me test:** BAR door is addressed to the reader's actual next move, not a reviewer/HR frame.
 
 ---
 
