@@ -77,7 +77,7 @@ Here is what it looks like when it is absent: a person who cannot enter a room w
 
 Here is what it looks like when it is distorted: a person who is always reaching out, always connecting, always bridging — and who cannot stop. Who treats every relationship as a bridge to be built and maintained, even when no crossing is needed. The distorted Bridge-Builder confuses movement for connection, presence for performance. They are always bridging because stopping feels like abandonment.
 
-**[DISSATISFACTION → SATISFACTION] Alchemy 1 — Anxiety → Curiosity**
+**Alchemy 1 — Anxiety → Curiosity**
 
 The core Dissatisfaction under Bridge-Builder is **anxiety** — the low-grade hum of "will I be accepted, will they want me here, am I intruding." This is the nervous system firing before the bridge is built: what if I reach out and no one reaches back?
 
@@ -85,7 +85,7 @@ The alchemy: you feel the anxiety fully, name it as the nervous system's report 
 
 The anxiety, fully felt and recognized as history rather than prophecy, converts into the clean attention that makes real bridging possible.
 
-**[DISSATISFACTION → SATISFACTION] Alchemy 2 — Stage-Fright → Authentic Presence**
+**Alchemy 2 — Stage-Fright → Authentic Presence**
 
 Under the first alchemy sits a deeper Dissatisfaction: **stage-fright** — the fear of being seen without a script. The distorted Bridge-Builder has an easy smile and a practiced warmth that is technically correct but experientially hollow. They are performing connection, not generating it.
 
@@ -93,25 +93,25 @@ The alchemy: you feel the panic of being seen, the terror of showing up without 
 
 The stage-fright, acknowledged as the shame of being a learner instead of an expert, converts into the groundedness that makes the Bridge actually hold weight.
 
-**[TRANSLATE] Translate 1 — Anxiety → Interest**
+**Translate 1 — Anxiety → Interest**
 
 The Bridge-Builder's primary Translate move is the channel-wide translation from Metal (fear/anxiety) to Wood (joy/interest). When the nervous system registers the approach as threat (will I be rejected?), the Translate moves the charge forward in the elemental cycle: instead of contracting around the anxiety, you let it inform your interest. *What if this goes well? What is actually present here that I want to learn about?*
 
 The anxiety becomes the fuel for engagement rather than the signal to withdraw. This is a sustaining move: the charge becomes contact instead of withdrawal.
 
-**[TRANSLATE] Translate 2 — Rejection-Sensitivity → Generous Assumption**
+**Translate 2 — Rejection-Sensitivity → Generous Assumption**
 
 The Bridge-Builder's secondary Translate addresses the Diplomat's specific vulnerability to rejection. When the pattern of past exclusion fires (they won't want me here, I'm outside the circle), the Translate moves the charge toward generous assumption: *What if they actually want me here? What if the field is more open than my pattern expects?*
 
 This is not naive optimism — it is a discipline of extending the same hypothesis to the present that you extend to strangers on the street. The rejection-sensitivity is the raw material; the Translate converts it into the willingness to risk contact.
 
-**[CONTROL] Control 1 — Untracked Depletion Pattern**
+**Control 1 — Untracked Depletion Pattern**
 
 The Bridge-Builder's Control challenge is a depletion pattern: the person who over-bridges, who connects past their capacity, who treats every bridge as urgent and every connection as required. The Neutral Channel pattern is **untracked depletion**: you bridge and bridge and never notice how much it costs until you are empty.
 
 The Control move: build the bridge → check the fuel gauge before crossing. *Do I have capacity for this contact? Am I bridging because the field needs me, or because I can't say no to the request?* This is a structural fix, not an emotional one. The capacity cost of bridging is real — the Control move is to name it so it can be managed.
 
-**[CONTROL] Control 2 — Performative Presence**
+**Control 2 — Performative Presence**
 
 The Bridge-Builder's second Control addresses the habit of performing warmth instead of generating it. The Neutral Channel pattern here is **performative presence**: always smiling, always reaching, always making contact — but never actually arriving in the room because you're too busy managing how you're being perceived.
 
@@ -131,7 +131,7 @@ Here is what it looks like when it is distorted: a person who abandons their own
 
 ---
 
-**[DISSATISFACTION → SATISFACTION] Alchemy 1 — Arrogant Distance → Generous Hearing**
+**Alchemy 1 — Arrogant Distance → Generous Hearing**
 
 The Dissatisfaction here is **intellectual superiority** — the subtle, seductive belief that you understand both sides better than they understand themselves. That you are the one who can see what they cannot see about their own positions. This is the Translator's occupational hazard: the more fluent you become in multiple frameworks, the more you start to believe your translation is the truth rather than an interpretation.
 
@@ -141,7 +141,7 @@ This is what separates a great Translator from a mediocre one: the great one com
 
 ---
 
-**[DISSATISFACTION → SATISFACTION] Alchemy 2 — Translation Guilt → Legitimate Partiality**
+**Alchemy 2 — Translation Guilt → Legitimate Partiality**
 
 The Translator carries a secondary Dissatisfaction: the guilt of partiality. You have a position. You are translating from a perspective you believe in, and you are rendering it into terms the other camp can hear. Is that translation or persuasion? Where does translation end and advocacy begin?
 
@@ -151,7 +151,7 @@ The alchemy: *I stop apologizing for having a position I am translating from.* I
 
 ---
 
-**[TRANSLATE] — From Understanding to Transmission**
+**Translate — From Understanding to Transmission**
 
 The Translate layer is the operational core of the channel: you take the meaning you have received and move it forward into a form the other camp can receive.
 
@@ -163,7 +163,7 @@ The Translate layer is the operational core of the channel: you take the meaning
 
 ---
 
-**[CONTROL] — Neutral Channel: Intellectual Superiority Pattern**
+**Control — Neutral Channel: Intellectual Superiority Pattern**
 
 The Neutral Channel pattern here is **intellectual superiority** — the behavioral pattern of using your fluency in multiple frameworks as a way to position yourself above the parties you are translating between. "I see what you don't see about yourselves." The Control move redirects this pattern into neutral structure:
 
@@ -187,25 +187,25 @@ Here is what it looks like when it is absent: a person who can hold a conversati
 
 Here is what it looks like when it is distorted: a performative calm that is actually a freeze response. The distorted Field-Holder mistakes stillness for safety — they sit in the middle of chaos and perform peace, believing that their equanimity will regulate the room. But this is collapse masquerading as calm. Real Field-Holding is not the absence of charge — it is the presence of containment. The field is still charged. The Field-Holder is not calming it down. They are giving it a shape. They are saying: *this charge has somewhere to go. It can move through this room without destroying it.*
 
-**[DISSATISFACTION → SATISFACTION] Alchemy 1 — Anxiety → Grounded Presence**
+**Alchemy 1 — Anxiety → Grounded Presence**
 
 The Dissatisfaction here is **anxiety** — the Field-Holder's nervous system reads a charged field as danger, even when no danger is present. The room gets tense and the Field-Holder's body starts to signal: something is wrong here. Get out. The anxiety is not wrong — it is reading the field accurately. But unprocessed anxiety makes the Field-Holder contract, which removes the very presence the field needs.
 
 The alchemy: *I let the anxiety teach me where the field needs attention.* Anxiety is not a signal to leave — it is a signal to lean in more deliberately. The fear of the field destabilizing becomes the anchor that keeps you rooted in it. You are not anxious despite your holding — you are anxious *because* you are holding something that matters. The alchemy transmutes the charge of anxiety into the energy of genuine presence.
 
-**[DISSATISFACTION → SATISFACTION] Alchemy 2 — Collapsed Calm → Active Containment**
+**Alchemy 2 — Collapsed Calm → Active Containment**
 
 The Field-Holder's secondary Dissatisfaction is **performative stillness** — the belief that good holding looks calm. The distorted Field-Holder sits in the middle of chaos and performs peace, believing that their equanimity will regulate the room. But this is collapse masquerading as calm. Real Field-Holding is an active, energetic practice — it requires as much charge as the field itself.
 
 The alchemy: *I stop performing calm and start doing containment.* The stillness becomes the shape of the containment, not the absence of charge. My grounded presence is not passive — it is the active structure that says: *you can feel what you feel in here, and the room will hold it.* The collapsed calm transmutes into the vitality of genuine Field-Holding.
 
-**[TRANSLATE] — From Presence to Structure**
+**Translate — From Presence to Structure**
 
 **Fire → Earth: Heat translated into form.** When a field is charged with conflict — hot, fast, potentially explosive — the Translate move is to give that charge a structure it can move through. The field is not going to cool down. It is going to move, and the Translate move is to give the movement a shape. A boundary. A format. A pause that says: *let's do this deliberately.* The fire doesn't go out — it becomes a fireplace instead of a wildfire.
 
 **Water → Wood: Grief translated into forward motion.** When a field is stuck in sadness — slow, heavy, collapsed — the Translate move is to carry that energy forward into possibility. The field has been hurt. It needs to grieve. But it also needs to know it can still move. The Translate move carries the depth of the sadness into the channel where something new can begin to grow.
 
-**[CONTROL] — Neutral Channel: Presence Collapse Pattern**
+**Control — Neutral Channel: Presence Collapse Pattern**
 
 The Neutral Channel pattern here is **presence collapse** — the behavioral pattern of disappearing from the field the moment it becomes charged. The Field-Holder who has not done their internal work will be present in every calm room and absent from every difficult one. The Control move redirects this pattern into structure:
 
@@ -229,25 +229,25 @@ Here is what it looks like when it is absent: a relationship that cannot survive
 
 Here is what it looks like when it is distorted: a premature forgiveness that skips the repair entirely. The distorted Repairer rushes to close the wound before it has been cleaned — they say *it's fine, let's move on, I forgive you* — and what they are actually doing is abandoning the relationship to its damage. Real repair requires sitting in the wound long enough to understand it. Skipping that step means the wound closes over with the infection still inside.
 
-**[DISSATISFACTION → SATISFACTION] Alchemy 1 — Betrayal Wound → Discerning Trust**
+**Alchemy 1 — Betrayal Wound → Discerning Trust**
 
 The Dissatisfaction here is **betrayal** — the specific pain of being damaged by someone you were in relationship with. Not by an enemy, not by a stranger, but by the person who was supposed to hold the field with you. The Repairer who has not done this work carries that wound as a permanent disqualification: *I was hurt by someone in this role, so I cannot trust anyone in this role.* The wound is real. The conclusion does not follow.
 
 The alchemy: *I let the betrayal teach me what trustworthy actually means.* The wound becomes the reference point for genuine trust — not naive trust, not performance trust, but the kind of trust that has been tested and has survived. The betrayal does not disqualify you from repair — it qualifies you to know what real repair requires.
 
-**[DISSATISFACTION → SATISFACTION] Alchemy 2 — Performance Forgiveness → Genuine Repair**
+**Alchemy 2 — Performance Forgiveness → Genuine Repair**
 
 The Repairer's secondary Dissatisfaction is **performance forgiveness** — the rush to be done with the wound so the relationship can continue. The pressure to move on. To forgive before the wound has been understood. To skip the repair in the service of keeping the peace.
 
 The alchemy: *I stop skipping the wound and start sitting in it.* Genuine repair requires that the damage be fully seen before it can be genuinely healed. The pressure to perform forgiveness transmutes into the willingness to do the slower, harder, more honest work of real repair. I do not forgive to keep the peace — I repair to restore the relationship.
 
-**[TRANSLATE] — From Wound to Restoration**
+**Translate — From Wound to Restoration**
 
 **Water → Wood: Grief translated into new soil.** When a rupture has left a field in mourning — heavy, still, honoring what was lost — the Translate move is to recognize that the grief contains the nutrients for something new to grow. The sadness of what was broken becomes the foundation of what can be rebuilt. The Translate move carries the honoring of the loss into the channel where something new can take root.
 
 **Earth → Fire: Structure translated into warmth.** When the repair has been negotiated — the terms agreed, the path forward established — the Translate move is to bring warmth back to the structure. The field now has a shape, a format, an agreement. But agreements are cold things. The Translate move carries the heat of genuine reconnection into the structure, so that the repair is not just formal but real.
 
-**[CONTROL] — Neutral Channel: Premature Closure Pattern**
+**Control — Neutral Channel: Premature Closure Pattern**
 
 The Neutral Channel pattern here is **premature closure** — the behavioral pattern of rushing to close the wound before it has been understood. The Repairer who has not done this work wants to be done with the repair before the other person is done with the damage. They close before they have opened. They move on before they have arrived.
 
@@ -273,7 +273,7 @@ The first distortion is **endless process** — the Diplomat who has confused he
 
 The second distortion is **ultimatum dressed as negotiation** — leverage where integration was needed. *Here's what I need or I'm out* spoken in the tone of honest disclosure, but actually functioning as a threat. This is not the Integrative Negotiator. This is the Challenger's game wearing the Diplomat's clothes. The Diplomat who defaults here has skipped the native work — surfacing interests, finding terms — and imported the Challenger's altitude into the Diplomat's conversation. It sometimes works. It is not what this channel is for.
 
-**[DISSATISFACTION → SATISFACTION] Alchemy 1 — Resentful Peace → Honest Terms**
+**Alchemy 1 — Resentful Peace → Honest Terms**
 
 The Dissatisfaction here is **resentful peace** — the accommodation that says yes while the body says no. You agreed to something you didn't actually agree to. You made room without naming what making room cost. You kept the field calm by swallowing your stake, and now the calm is curdling into bitterness you can't explain because you never said out loud what you needed the agreement to hold.
 
@@ -281,19 +281,19 @@ The alchemy: *I stop paying for harmony with my disappearance.* Resentful peace 
 
 **The difference between them:** Resentful peace is a calm surface with something heavy parked underneath — pleasant on top, going nowhere. Honest terms are the opposite: you've said the real thing, you haven't bolted, and the room is still standing.
 
-**[DISSATISFACTION → SATISFACTION] Alchemy 2 — Positions → Interests**
+**Alchemy 2 — Positions → Interests**
 
 The Integrative Negotiator's secondary Dissatisfaction is **positional stuckness** — camps locked on what they demand, unable to move because each side is defending a surface statement instead of naming what it protects. *We need a policy change.* *We need to preserve tradition.* Positions harden. The field polarizes around slogans.
 
 The alchemy: *I ask what each position is guarding, not just what it says.* Positions are what people announce. Interests are what they are afraid of losing, what they need to protect, what sacrifice would actually cost them. The alchemy moves tribal loyalty (staying because you belong to a camp) into **chosen loyalty** (staying because the agreement is real and you said yes to it). You are not negotiating to win for your side. You are negotiating to find terms the whole field can live with — including the terms that let you stay without disappearing.
 
-**[TRANSLATE] — From Positions to Closure**
+**Translate — From Positions to Closure**
 
 **Fire → Earth: Heat translated into structure.** When a field is charged with competing demands — hot, righteous, each side certain — the Translate move is not to cool the fire down. It is to give the fire a shape it can move through. *What would each of you need to see change for this to be workable?* The anger does not get suppressed. It becomes the material from which terms are built.
 
 **Earth → Fire: Vague agreement translated into committed close.** When a field has done the listening work and arrived at something that sounds aligned but isn't yet specific — the Translate move carries the structure forward into commitment. *What are we actually agreeing to? By when? Who does what?* The Integrative Negotiator does not leave the field in principled ambiguity. The Diplomat's altitude loves process. This channel loves a close.
 
-**[CONTROL] — Neutral Channel: Endless Process Pattern**
+**Control — Neutral Channel: Endless Process Pattern**
 
 The Neutral Channel pattern here is **endless process** — the behavioral habit of extending conversation past the point where more listening will help. One more round. One more check-in. One more chance for everyone to feel heard — as if hearing were the destination instead of the precondition.
 
@@ -301,7 +301,7 @@ The Neutral Channel pattern here is **endless process** — the behavioral habit
 
 This is a costly move: closing takes more courage than extending. The field will push for one more round. The Integrative Negotiator knows when the round has become avoidance.
 
-**[CONTROL] — Neutral Channel: False Closure Pattern**
+**Control — Neutral Channel: False Closure Pattern**
 
 The second Control pattern is **false closure** — the agreement that sounds resolved but wasn't. *Great, we're aligned* spoken over interests that were never surfaced. Or: every position given equal weight in the final terms when some positions are built on premises the field cannot actually hold.
 

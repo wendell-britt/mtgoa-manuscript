@@ -226,31 +226,31 @@ Here's what each mode looks like when it's doing its job — and what it looks l
 
 ---
 **Alchemy Move 1: Panoramic Seer**
-[DISSATISFACTION → SATISFACTION] Blank-field paralysis — **Fear** → *Excitement*
+**Blank-field paralysis -- Fear -> Excitement**
 Here's what's underneath the Panoramic Seer's first failure: the fear that what you see will be smaller than what you hoped. That the field you've opened to is actually just a room, and the wider view you've glimpsed is just a ceiling, and everyone in it has already decided what they're doing and the seeing was just a way to feel above it all.
 The fear is real. The blank field is possible. *The contraction is the body reporting honestly on what it's actually seeing — and what it's actually seeing is the gap between what the field could be and what it is.* That gap is not the end of the view. It's the beginning of the work.
 The alchemy: you feel the field close down, you name it as the body reporting — not as prophecy — and you let the contraction inform your interest. *What is actually here? Who is actually in the room and what are they actually carrying?* The excitement is not the field being bigger than it is. It's the field being exactly what it is, and you being willing to see that.
 ---
 **Alchemy Move 2: Game-Switcher**
-[DISSATISFACTION → SATISFACTION] Game-arrogance — **Anger** → *Triumph*
+**Game-arrogance -- Anger -> Triumph**
 Here's what's underneath the Game-Switcher's first failure: the rage at being in a room that can't hold what you see. The *I'm seeing the whole board and you're stuck in the harmony game and this conversation is beneath my time* that fires the moment you have to go down to where they are.
 The anger is real. The room is sometimes exactly that limited. *The judgment is accurate, and it is also the trap — because the moment you are above them, you cannot be with them, and the Sage's practice is always about being with, not being above.*
 The alchemy: you feel the arrogance rise, you name it — *I am using the view to create distance instead of service* — and you let the judgment become the capacity to meet them. *What do they actually need? Which game are they actually in, and what would it mean to go there with them, not to them?* The triumph is not the view from above. It's the capacity to go down and come back without feeling diminished.
 ---
 **Alchemy Move 3: Diagnostician**
-[DISSATISFACTION → SATISFACTION] Grief-paralysis — **Sadness** → *Peace*
+**Grief-paralysis -- Sadness -> Peace**
 Here's what's underneath the Diagnostician's first failure: the grief at what the narrower games miss. The moment you name the game — *this is a power-game room, this is a harmony-game stuckness, this is a strategy problem dressed up as whole-board vision* — and you feel the weight of how much is not being seen.
 The sadness is real. The gap is real. *The grief is not a reason to stop naming — it is the fuel for the naming.* The person who feels the loss of what the room can't see is the person who can name it, and the naming is not a punishment. It's a gift. It's the thing the room needs and doesn't know how to ask for.
 The alchemy: you feel the weight of the gap, you name it — *I am grieving what they cannot see, and that grief is mine to carry, not theirs to fix* — and you let the sorrow become the stillness that names clearly. *This is what I see. This is where we are. And I'm staying.*
 ---
 **Alchemy Move 4: Liberator**
-[DISSATISFACTION → SATISFACTION] Identity-collapse — **Anger** → *Bliss*
+**Identity-collapse -- Anger -> Bliss**
 Here's what's underneath the Liberator's first failure: the rage when putting a game down means losing the person you were while playing it. The *I am the person who holds this together* that fires when the thing you were holding starts to need someone else, or no one, or just a different version of you.
 The anger is real. The loss is real. *The game was yours for a time, and the time was real, and the ending is real, and the ending is not the same as the failure.* You played the game. The game taught you what it had to teach. Now the game is over and you are still here, and what you know is more than what you held.
 The alchemy: you feel the rage at the game ending — *don't make me give this up, don't make me be someone who doesn't do this anymore* — and you let the fury become the permission. *The game is done. I am not done. And the game was never the point — what the game was for was the point.* The bliss is not the game continuing. It's the game being complete and you being free to choose the next one.
 ---
 **Alchemy Move 5: Returner**
-[DISSATISFACTION → SATISFACTION] The loss of the view — **Sadness** → *Poignancy*
+**The loss of the view -- Sadness -> Poignancy**
 Here's what's underneath the Returner's first failure: the grief at leaving the view. The moment you've seen the whole board — seen the whole map, seen where everyone is and why they're stuck and what game they're actually playing — and you have to come back to a room that doesn't see it.
 The sadness is not weakness. It's the cost of the gift. The Sage who has been up cannot unsee what they've seen, and coming back down means sitting in a room where you can see exactly what's happening and nobody else can, and you have to not say it, or say it differently, or say it in a way that doesn't make them feel seen-and-judged. That's the work. That's the price.
 The alchemy: you feel the loss of the view — the way the room looks smaller from inside it than it did from above — and you let the grief become the tenderness. *I see it from here. I saw it from up there. And I'm here, with you, and the seeing is still mine.* The poignancy is not the loss of the view. It's the moment where the distance between what you see and where they are becomes the place where love happens. You came back. That's the love.

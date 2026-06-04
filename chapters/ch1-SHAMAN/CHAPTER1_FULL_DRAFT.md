@@ -778,6 +778,10 @@ Here is what you're actually doing, underneath the instruction. The part of you 
 
 (If naming it out loud feels like claiming something that isn't yours — that's the exile talking. Say it anyway. The body that did the reading was yours the whole time.)
 
+Here is the test, applied to this specific move. Reading one: naming what your body is doing starts a move — it gives the felt sense a witness, and the witness becomes a kind of ground you can stand on. Reading two: naming it is a sophisticated form of staying seen without being known — you perform the noticing, the other person nods, and nothing actually changes. The test is the same one Chapter 0 named: did the seeing start a move, or did it end one? If the person you named it to asks you one follow-up question and you answer it honestly, reading one. If the conversation moves on, reading two. Both count, but only the first one is the practice.
+
+I built the Forest chapter for two years before I named any of what my body was doing to another person. I wrote about it beautifully. I cried about it alone. I built an entire book on the felt sense without ever once saying to a friend: my chest is doing the thing right now. The book is true. The two years were also a kind of hiding. You don't have to spend two years the way I did. Forty-eight hours is enough. The point is not that you did it well. The point is that you did it and someone heard you and the world didn't end.
+
 *You said it out loud. Before the moment closes — what you noticed, who you said it to, what shifted after. Open the app. Two minutes. The read becomes a move, and the part that reads comes a little further home. → app*
 
 ---
