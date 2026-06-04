@@ -29,9 +29,9 @@ Each stage earns the next. Bridge without Translate is noise. Translate without 
 
 ## Section 2: What It Is
 
-The Diplomat lives at the Green altitude of human development — pluralistic, relational, oriented toward inclusion. Where the Regent's Blue operates through tradition and inherited structure, and the Challenger's Red operates through decisive will and confrontation, the Diplomat operates through the relational field. What matters is not what any single person thinks or wants but what becomes possible between people when the conditions are held rightly.
+The Diplomat lives at the relational altitude of human development — pluralistic, relational, oriented toward inclusion. Where the Regent operates through tradition and inherited structure, and the Challenger operates through decisive will and confrontation, the Diplomat operates through the relational field. What matters is not what any single person thinks or wants but what becomes possible between people when the conditions are held rightly.
 
-Green is commonly misunderstood. It is not niceness. It is not conflict-avoidance dressed in the language of harmony. It is not the absence of judgment in the service of false peace. Green is the altitude at which a person can hold multiple valid perspectives simultaneously — can be a partisan and still make room, can stand for something and still listen, can name their own position and still honor the legitimacy of a position they disagree with. The Diplomat's superpower is honest multiplicity: the capacity to hold the field without requiring it to resolve into one thing, to hold the tension between positions without rushing to collapse it.
+The Diplomat's stance is commonly misunderstood. It is not niceness. It is not conflict-avoidance dressed in the language of harmony. It is not the absence of judgment in the service of false peace. It is the altitude at which a person can hold multiple valid perspectives simultaneously — can be a partisan and still make room, can stand for something and still listen, can name their own position and still honor the legitimacy of a position they disagree with. The Diplomat's superpower is honest multiplicity: the capacity to hold the field without requiring it to resolve into one thing, to hold the tension between positions without rushing to collapse it.
 
 The five channels through which the Diplomat operates are:
 
@@ -263,7 +263,7 @@ This is a costly move: real repair takes longer than performance repair, and the
 
 ## CHANNEL 5 — INTEGRATIVE NEGOTIATOR
 
-The Integrative Negotiator is the Diplomat's closing channel — the Fire/Anger application at Green altitude. Not the Challenger's line in the sand. Not the Regent's decree. The work of surfacing what each party is protecting, translating positions into interests, and closing toward terms the field can actually live with. Bridge, translate, hold, repair — and then **negotiate**. Heard *and* something moves.
+The Integrative Negotiator is the Diplomat's closing channel — the Fire/Anger application at the Diplomat's altitude. Not the Challenger's line in the sand. Not the Regent's decree. The work of surfacing what each party is protecting, translating positions into interests, and closing toward terms the field can actually live with. Bridge, translate, hold, repair — and then **negotiate**. Heard *and* something moves.
 
 Here is what it looks like when it is absent: a field that can stay in conversation forever and never arrive anywhere. Meetings that end in warmth and vagueness. Everyone accommodated, nothing decided. The person who keeps the harmony going because closing feels like conflict — who treats every hard question as something to defer to the next conversation, the next working group, the next season when conditions might be better. The Integrative Negotiator's absence shows up as relational molasses: pleasant, inclusive, and slowly failing the task.
 
@@ -271,7 +271,7 @@ Here is what it looks like when it is distorted: two different failures wearing 
 
 The first distortion is **endless process** — the Diplomat who has confused hearing with closing. Who believes that if everyone feels included, the work is done. Who will run another round of listening because naming what must change feels like picking a fight. The field stays warm. Nothing moves. Resentment accumulates under the harmony like sediment.
 
-The second distortion is **ultimatum dressed as negotiation** — leverage where integration was needed. *Here's what I need or I'm out* spoken in the tone of honest disclosure, but actually functioning as a threat. This is not the Integrative Negotiator. This is the Challenger's game wearing Green clothes. The Diplomat who defaults here has skipped the native work — surfacing interests, finding terms — and imported Red altitude into a Green conversation. It sometimes works. It is not what this channel is for.
+The second distortion is **ultimatum dressed as negotiation** — leverage where integration was needed. *Here's what I need or I'm out* spoken in the tone of honest disclosure, but actually functioning as a threat. This is not the Integrative Negotiator. This is the Challenger's game wearing the Diplomat's clothes. The Diplomat who defaults here has skipped the native work — surfacing interests, finding terms — and imported the Challenger's altitude into the Diplomat's conversation. It sometimes works. It is not what this channel is for.
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 1 — Resentful Peace → Honest Terms**
 
@@ -291,7 +291,7 @@ The alchemy: *I ask what each position is guarding, not just what it says.* Posi
 
 **Fire → Earth: Heat translated into structure.** When a field is charged with competing demands — hot, righteous, each side certain — the Translate move is not to cool the fire down. It is to give the fire a shape it can move through. *What would each of you need to see change for this to be workable?* The anger does not get suppressed. It becomes the material from which terms are built.
 
-**Earth → Fire: Vague agreement translated into committed close.** When a field has done the listening work and arrived at something that sounds aligned but isn't yet specific — the Translate move carries the structure forward into commitment. *What are we actually agreeing to? By when? Who does what?* The Integrative Negotiator does not leave the field in principled ambiguity. Green altitude loves process. This channel loves a close.
+**Earth → Fire: Vague agreement translated into committed close.** When a field has done the listening work and arrived at something that sounds aligned but isn't yet specific — the Translate move carries the structure forward into commitment. *What are we actually agreeing to? By when? Who does what?* The Integrative Negotiator does not leave the field in principled ambiguity. The Diplomat's altitude loves process. This channel loves a close.
 
 **[CONTROL] — Neutral Channel: Endless Process Pattern**
 
@@ -347,7 +347,7 @@ You do not argue with the Protector. You simply note: *I know why you're here. I
 
 #### Gate 2: The Controller
 
-The second gate looks like accommodation. This is the Diplomat's Controller — not the Shaman's fire-containment but something quieter and more pervasive. The Controller at Green altitude manages through *adjustment.* Through reading the room and reshaping yourself to fit what the room appears to need.
+The second gate looks like accommodation. This is the Diplomat's Controller — not the Shaman's fire-containment but something quieter and more pervasive. The Controller at the Diplomat's altitude manages through *adjustment.* Through reading the room and reshaping yourself to fit what the room appears to need.
 
 The Controller says: *Don't state your preference. Accommodate. Adjust. Make yourself fit the space that's available. If you're flexible enough, you won't be rejected.*
 
@@ -367,7 +367,7 @@ The third gate is doubt — but it is not the Shaman's Skeptic asking *is this f
 
 The Skeptic says: *Maybe you don't actually need what you think you need. Maybe you're just trying to get something from them. Maybe you're performing need to test whether they'll stay. Maybe this whole feeling is a manipulation — yours, not theirs.*
 
-This is the gate that keeps the Diplomat circling. Not blocked by fear of harm, but paralyzed by uncertainty about the legitimacy of their own wanting. The Skeptic at Green is sophisticated — it uses the Diplomat's own relational intelligence against them. It frames self-doubt as self-knowledge. *I am so aware of my own patterns that I can see through them — and therefore I cannot trust anything I feel.*
+This is the gate that keeps the Diplomat circling. Not blocked by fear of harm, but paralyzed by uncertainty about the legitimacy of their own wanting. The Skeptic at the Diplomat's altitude is sophisticated — it uses the Diplomat's own relational intelligence against them. It frames self-doubt as self-knowledge. *I am so aware of my own patterns that I can see through them — and therefore I cannot trust anything I feel.*
 
 The move at this gate is not to answer the Skeptic — you cannot argue your way past doubt. The move is to note: *you may be right that I am complex. But complexity does not invalidate my need. I am allowed to want things I cannot fully explain.*
 
@@ -411,7 +411,7 @@ And then you keep walking.
 
 The sixth gate is not blame — it is guilt. Not *they did this to me* but *I stayed too long and I made myself small and I cannot blame anyone for what I became.*
 
-The Victim at Green altitude says: *I stayed when I should have left. I made myself fit when I should have stood. I traded myself away in small installments and called it care. And now I am the author of my own diminishment.*
+The Victim at the Diplomat's altitude says: *I stayed when I should have left. I made myself fit when I should have stood. I traded myself away in small installments and called it care. And now I am the author of my own diminishment.*
 
 This gate is where most Diplomats who enter the forest actually stop — not at the edge, not at the first gate, but here, at the recognition of accumulated cost. The small surrenders that added up to a smaller life. The accommodations that became identity. The staying that looked like loyalty but was actually fear wearing a better mask.
 
@@ -515,7 +515,7 @@ The Diplomat translates: *"What I hear [Camp A] saying, in [Camp B]'s language, 
 
 **Move 3: Close with Honest Terms**
 
-Bridge, translate, hold, repair — and then this. The close. It is the move the whole chapter has been building toward, and the one Green altitude skips most reliably, because closing feels like conflict and the field can always make room for one more round.
+Bridge, translate, hold, repair — and then this. The close. It is the move the whole chapter has been building toward, and the one the Diplomat's altitude skips most reliably, because closing feels like conflict and the field can always make room for one more round.
 
 Close with Honest Terms is not an ultimatum. It is the single clear sentence that names what this field must hold for your staying to remain real — said once, and then left alone for the field to answer.
 
@@ -558,13 +558,13 @@ The structure:
 
 Not all positions deserve equal weight. Say so — clearly, without apology, and without pretending your refusal is neutral when it is actually a position.
 
-This is the Diplomat's most contested move. Green altitude values inclusion, and inclusion can curdle into a relativistic posture where every position is treated as equally valid — where *making room* becomes *giving equal legitimacy to positions that do not deserve it.* The Diplomat who refuses false equivalence is the one who holds genuine inclusion while also refusing to pretend that all framings are equally accurate.
+This is the Diplomat's most contested move. The Diplomat's altitude values inclusion, and inclusion can curdle into a relativistic posture where every position is treated as equally valid — where *making room* becomes *giving equal legitimacy to positions that do not deserve it.* The Diplomat who refuses false equivalence is the one who holds genuine inclusion while also refusing to pretend that all framings are equally accurate.
 
 The distinction that matters: the difference between *positions that deserve equal hearing* and *positions that deserve equal endorsement.*
 
-Equal hearing means: everyone gets to say their thing, everyone gets to feel heard, the field makes space for the full range of perspectives present. This is not relativism — this is the basic work of Green altitude, and it is precious.
+Equal hearing means: everyone gets to say their thing, everyone gets to feel heard, the field makes space for the full range of perspectives present. This is not relativism — this is the basic work of the Diplomat's altitude, and it is precious.
 
-Equal endorsement means: all positions are treated as equally valid interpretations of reality. This is where Green curdles. Because some positions are not equally valid. Some positions are built on inaccurate premises. Some positions require ignoring evidence that others have to live with. Some positions cause harm that others have to absorb. And treating these positions as if they were equally valid is not inclusion — it is a failure of discernment disguised as open-mindedness.
+Equal endorsement means: all positions are treated as equally valid interpretations of reality. This is where the Diplomat's gift curdles. Because some positions are not equally valid. Some positions are built on inaccurate premises. Some positions require ignoring evidence that others have to live with. Some positions cause harm that others have to absorb. And treating these positions as if they were equally valid is not inclusion — it is a failure of discernment disguised as open-mindedness.
 
 The Refuse False Equivalence move is this: you name the difference between hearing and endorsement, and you name your position on which camp is closer to what you consider true — without invalidating the people in the camp you disagree with.
 
@@ -601,7 +601,7 @@ Here is what the Diplomat carries forward into the book:
 - The eight gates of the Diplomat's internal forest — and the Vulnerable Child at the center who still believes connection is possible
 - The five game moves: Name the Field, Translate Across Camps, Close with Honest Terms, Repair After Rupture, Refuse False Equivalence
 
-And here is the question that carries you out of this chapter and into the next: **When the Diplomat's tools are not enough — when one camp is playing a Red game and the other is playing a Green game and the conflict is actually altitudinal — who names that?**
+And here is the question that carries you out of this chapter and into the next: **When the Diplomat's tools are not enough — when one camp is playing a power game and the other is playing a harmony game and the conflict is actually altitudinal — who names that?**
 
 The Sage does.
 

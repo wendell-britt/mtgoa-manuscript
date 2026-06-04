@@ -1,4 +1,4 @@
-# CHAPTER 2: THE SHAMAN — Magenta — Survival/Instinct
+# CHAPTER 2: THE SHAMAN
 ## *Emotional Alchemy as the Foundation of Real Allyship*
 
 ---

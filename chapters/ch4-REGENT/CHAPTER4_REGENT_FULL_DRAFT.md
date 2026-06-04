@@ -198,7 +198,7 @@ Not your genetics. Not your culture in the abstract. I'm talking about the speci
 
 Every person alive is an inheritor. The Regent's practice is about working consciously with that fact instead of against it.
 
-The native material at Amber altitude is not emotion. It's not will. It's not even logic. It's **loyalty** — the felt sense of belonging to something larger than yourself, and the weight that comes with that belonging. What you owe. What you carry. What you pass on.
+The native material at the Regent's altitude is not emotion. It's not will. It's not even logic. It's **loyalty** — the felt sense of belonging to something larger than yourself, and the weight that comes with that belonging. What you owe. What you carry. What you pass on.
 
 Loyalty is deeply unfashionable in progressive circles. It sounds like obedience. It sounds like the thing that keeps people inside harmful institutions. But that's because the village conflated loyalty with compliance — and then wondered why the institutions it served became so brittle.
 
@@ -336,7 +336,7 @@ Both cost something. Claiming it means you can no longer hide behind not-yet-rea
 ---
 
 ## Section 5: Journey to the Center
-### *The 8 Gates at Amber Altitude — What the Tradition Says to You*
+### *The 8 Gates at the Regent's Altitude — What the Tradition Says to You*
 
 Here's where it gets personal.
 
@@ -346,7 +346,7 @@ Inside you is a forest. Eight gates between you and the center. Each gate is a p
 
 Each gate came up with a strategy. Each strategy worked. That's why they're still here.
 
-This section is the same structure as the Shaman's walk. The gates are the same. The order is the same. What changes is what each gate *says* at Amber altitude, and what the Vulnerable Child at the center is holding for you.
+This section is the same structure as the Shaman's walk. The gates are the same. The order is the same. What changes is what each gate *says* at the Regent's altitude, and what the Vulnerable Child at the center is holding for you.
 
 Two passes: first the map. Then the walk.
 
@@ -505,7 +505,7 @@ And there's a voice — not loud, but very clear. Running a video on loop.
 
 That's the Fear.
 
-This is where the walk gets real. The Fear is not guessing. The Fear is not being dramatic. The Fear is showing you the specific, concrete, plausible worst-case scenario. This is what failure looks like at Amber altitude: you took on something you couldn't carry, and the tradition died with you.
+This is where the walk gets real. The Fear is not guessing. The Fear is not being dramatic. The Fear is showing you the specific, concrete, plausible worst-case scenario. This is what failure looks like at the Regent's altitude: you took on something you couldn't carry, and the tradition died with you.
 
 The Fear is not your enemy. The Fear is trying to protect you from the one scenario that would really hurt.
 
@@ -589,7 +589,7 @@ And there's a small one here. Quiet. Hopeful. Tired of being outside.
 
 *I want to belong to something. I want to be part of something worth carrying. I want to be trusted with what matters.*
 
-This is the Vulnerable Child at Amber altitude. This is what lives at the center of the forest when the altitude is loyalty, belonging, tradition, inheritance.
+This is the Vulnerable Child at the Regent's altitude. This is what lives at the center of the forest when the altitude is loyalty, belonging, tradition, inheritance.
 
 The Regent's superpower — the thing that lives at the center of this forest — is **the capacity to carry something across time.**
 

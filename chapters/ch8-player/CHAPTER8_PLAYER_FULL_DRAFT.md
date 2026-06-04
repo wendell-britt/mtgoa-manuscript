@@ -35,11 +35,11 @@ This is the distortion. And it crept in slowly, the way most distortions do—no
 
 The village heard the six Faces and thought: *these are the types.* The Shaman type. The Challenger type. The Regent type. The Architect type. The Diplomat type. The Sage type. And if you weren't one of those—if you didn't naturally feel-first, or draw-lines, or build-systems—you weren't doing it right.
 
-The village forgot that the Faces were a map, not a menu. That you don't *become* one of them—you *move through* all of them, depending on what the moment requires. That the goal is not to arrive at Sage and stay there. The goal is to be able to play any game the village needs played, at any altitude the moment requires.
+The village forgot that the Faces were a map, not a menu. That you don't *become* one of them—you *move through* all of them, depending on what the moment requires. That the goal is not to arrive at Sage and stay there. The goal is to be able to play any game the village needs played, whatever the moment requires.
 
 And a Player in distortion emerged in its place.
 
-The Player in distortion collected Faces the way people collect credentials. *I have studied with the Shaman. I have apprenticed with the Challenger. I have read the Architect's work.* The Player in distortion accumulated access to all six altitudes without ever operating from any of them. The Player in distortion knew the vocabulary, could name the altitudes, could diagnose which game was being played—but when it came time to play, the Player in distortion was always preparing. Always about to. Always one more book away from being ready.
+The Player in distortion collected Faces the way people collect credentials. *I have studied with the Shaman. I have apprenticed with the Challenger. I have read the Architect's work.* The Player in distortion accumulated access to all six Faces without ever operating from any of them. The Player in distortion knew the vocabulary, could name the Faces, could diagnose which game was being played—but when it came time to play, the Player in distortion was always preparing. Always about to. Always one more book away from being ready.
 
 The Player in distortion's fatal move: collecting tools without ever building anything. Knowing all the Faces without ever choosing which one to be in this moment.
 
@@ -63,7 +63,7 @@ You have been the Architect. You know how to design for the next person, make th
 
 You have been the Diplomat. You know how to hold the field across difference, make room for people who disagree, create conditions for coexistence.
 
-You have been the Sage. You know how to see which altitude you're at, switch deliberately, and come back without condescension.
+You have been the Sage. You know how to see which game you're in, switch deliberately, and come back without condescension.
 
 That's not a list of credentials. That's a design system.
 
@@ -105,11 +105,11 @@ Before you can design, you have to map your specific terrain. Which Faces do you
 
 The practice: Take inventory. Review the six Faces and ask honestly: *Which one feels like home? Which one have I been avoiding? Which one do I perform rather than embody?*
 
-The Cartographer doesn't judge the map. It just draws it. You might find that you naturally move to Challenger when things get hard — and that Red is where you're most comfortable, most effective, most at home. Or you might find that you live in the Architect's head — and that your gift is designing systems but your gap is staying embodied long enough to use them. You might find that the Sage's altitude feels like yours — and that your shadow is using the panoramic view to avoid committing to any single game.
+The Cartographer doesn't judge the map. It just draws it. You might find that you naturally move to Challenger when things get hard — and that the Challenger's game is where you're most comfortable, most effective, most at home. Or you might find that you live in the Architect's head — and that your gift is designing systems but your gap is staying embodied long enough to use them. You might find that the Sage's whole-board view feels like yours — and that your shadow is using the panoramic view to avoid committing to any single game.
 
 The Cartographer's job is honest self-mapping. No judgment. Just the territory.
 
-Here's what I've noticed about my own cartography: I started by assuming I was a Diplomat. Green felt like home — relational, careful, good at holding the field. But when I actually mapped where I went when things got hard, I found I wasn't Diplomat at all. I was Challenger. Red. Drawing lines. I was performing Green to avoid the discomfort of Red — the discomfort of saying no, of being unwelcome, of holding a line that cost me something. The cartography revealed that my "home" face was a performance and my "avoided" face was where I actually lived.
+Here's what I've noticed about my own cartography: I started by assuming I was a Diplomat. That felt like home — relational, careful, good at holding the field. But when I actually mapped where I went when things got hard, I found I wasn't Diplomat at all. I was Challenger. Drawing lines. I was performing the Diplomat to avoid the discomfort of the Challenger's game — the discomfort of saying no, of being unwelcome, of holding a line that cost me something. The cartography revealed that my "home" face was a performance and my "avoided" face was where I actually lived.
 
 Your map might show something similar. The face you think you are might be the face you perform. The face you've been avoiding might be the one that, if you built a practice around it, would actually be your gift.
 
@@ -125,7 +125,7 @@ The design question is always: *What problem am I trying to solve, and which Fac
 
 The Designer doesn't build a perfect system. The Designer builds a working system — one you can actually use, one that fits your specific body, your specific village, your specific problem. The Designer knows that a practice you actually use beats a perfect practice you keep planning to start.
 
-My design looked like this: I knew from the Cartographer that I naturally moved to Challenger when things got hard. But I had been performing Green — Diplomat energy — to avoid the discomfort of Red. The performance was so habitual I thought it was my nature. Writing it down forced me to see the difference between what I performed and what I actually was. That's what the Designer's move does. It makes the implicit explicit.
+My design looked like this: I knew from the Cartographer that I naturally moved to Challenger when things got hard. But I had been performing Diplomat energy to avoid the discomfort of the Challenger's game. The performance was so habitual I thought it was my nature. Writing it down forced me to see the difference between what I performed and what I actually was. That's what the Designer's move does. It makes the implicit explicit.
 
 ---
 
@@ -218,7 +218,7 @@ You have been the Shaman who names what's true. You have been the Challenger who
 
 And now the question is: what comes next?
 
-Not which Face should you become next. Not how do you stay at Sage forever. Not what is the highest altitude. The question is simpler and harder: *what game do you want to play? And what are you going to build?*
+Not which Face should you become next. Not how do you stay at Sage forever. Not which game ranks highest. The question is simpler and harder: *what game do you want to play? And what are you going to build?*
 
 That's what this final journey is about. Not ascending. Not perfecting. Walking out into the village with everything you've learned and making something real.
 
@@ -256,7 +256,7 @@ You know how the Architect designs for the next person — how to make the right
 
 You know how the Diplomat holds the field across difference — how to make room for people who disagree, how to hold the tension without collapsing it, how to name your walk-away price before you need it.
 
-You know how the Sage sees the whole game and plays their part — how to know which altitude you're operating from, how to switch deliberately, how to return from the mountaintop without looking down on the people still climbing.
+You know how the Sage sees the whole game and plays their part — how to know which game you're operating in, how to switch deliberately, how to return from the mountaintop without looking down on the people still climbing.
 
 That's not a list of things you learned. That's a set of capacities you built.
 
@@ -308,7 +308,7 @@ The walk is not upward. The walk is forward.
 
 I want to be honest with you about what the walk actually looks like, because the book would be doing you a disservice if it ended with a rousing speech about your potential and left you to figure out the rest alone. This is what I've learned about walking with the map.
 
-The walk begins before you're ready. That's the first thing nobody tells you. You don't finish learning the Faces and then start building. You start building while you're still confused, still triggered, still defaulting to your home altitude when things get hard. The map isn't complete. The WAVE isn't mastered. You don't arrive and then act — you act from somewhere on the path, and the acting is part of the walking.
+The walk begins before you're ready. That's the first thing nobody tells you. You don't finish learning the Faces and then start building. You start building while you're still confused, still triggered, still defaulting to your home game when things get hard. The map isn't complete. The WAVE isn't mastered. You don't arrive and then act — you act from somewhere on the path, and the acting is part of the walking.
 
 When I started building bars-engine, I didn't have it figured out. I had a felt sense of what was missing — a game that actually taught the WAVE, that made the emotional alchemy something you could practice instead of just understand — and I had enough of the six Faces to know what I was trying to do. But the game itself wasn't clear. The mechanics kept changing. I ran sessions that failed. I redesigned the token economy three times. I threw out entire systems and rebuilt them. The walk was not a straight line from plan to execution. It was iteration. Review. Discern. Design. Build. Pass On. Loop.
 
@@ -346,7 +346,7 @@ You didn't come to this book with a general question. You came with a specific a
 
 The walk is walking into that specific problem. Not a better version of the problem. The actual one.
 
-My specific problem is the one bars-engine is designed to solve: people who want to do inner work, who understand the theory, who have done the therapy and read the books and know all the vocabulary — and who still don't have a practice. Who still default to their home altitude when things get hard. Who still mistake understanding for transformation. The gap between knowing and being able to do is the problem I am trying to solve. Everything I build — this book, bars-engine, the next thing — is me walking into that specific problem.
+My specific problem is the one bars-engine is designed to solve: people who want to do inner work, who understand the theory, who have done the therapy and read the books and know all the vocabulary — and who still don't have a practice. Who still default to their home game when things get hard. Who still mistake understanding for transformation. The gap between knowing and being able to do is the problem I am trying to solve. Everything I build — this book, bars-engine, the next thing — is me walking into that specific problem.
 
 What's yours?
 
@@ -406,7 +406,7 @@ Some failures are just failures. The design was wrong. The timing was wrong. The
 
 The walk ends the way all walks end: with you having gone further than you started, carrying something you didn't have before.
 
-You will not have a perfect map. You will not have all the Faces mastered. You will not have the WAVE figured out. You will still default to your home altitude when things get hard. You will still avoid the Face that's uncomfortable. You will still sometimes mistake feeling for action, or action for feeling.
+You will not have a perfect map. You will not have all the Faces mastered. You will not have the WAVE figured out. You will still default to your home game when things get hard. You will still avoid the Face that's uncomfortable. You will still sometimes mistake feeling for action, or action for feeling.
 
 That's not failure. That's the walk.
 
@@ -534,7 +534,7 @@ The Player shows the village what it looks like to walk all six Faces and come o
 
 The Player gives the village permission. Permission to use all six Faces as tools. Permission to design their own practice. Permission to build something new. Permission to go first.
 
-The Player shows that the six Faces were never the destination. They were the toolkit. The Player shows that mastery is not about *being* one Face—it's about *playing* all six when the moment requires it. The Player shows that the goal is not to arrive at Sage and stay there. The goal is to be able to play any game the village needs played, at any altitude the moment requires.
+The Player shows that the six Faces were never the destination. They were the toolkit. The Player shows that mastery is not about *being* one Face—it's about *playing* all six when the moment requires it. The Player shows that the goal is not to arrive at Sage and stay there. The goal is to be able to play any game the village needs played, whatever the moment requires.
 
 The Player leaves behind not a method but a path. And the path continues.
 
