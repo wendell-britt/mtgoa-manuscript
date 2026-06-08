@@ -1,7 +1,49 @@
 # Book Work Tracker — MTGOA
 **Created:** 2026-04-14
-**Last Updated:** 2026-06-04
+**Last Updated:** 2026-06-06
 **Status:** All 8 chapters complete — Editorial Pass Phase
+
+---
+
+## New Direction — Compression and Promise Clarification
+
+First-round editorial feedback says the manuscript is doing too much at once. The next pass is now about simplifying the promise, tightening the sellable core, and reducing Chapter 7 to its key allyship milestones.
+
+Reference memo:
+
+- `editorial_reports/2026-06-06/BOOK_PROMISE_AND_CH7_COMPRESSION_PLAN_2026-06-06.md`
+- `editorial_reports/2026-06-06/BOOK_STRUCTURE_AND_FUNNEL_AUDIT_2026-06-06.md`
+- `editorial_reports/2026-06-06/BOOK_STRUCTURE_COMPARISON_AND_SIMPLIFICATION_2026-06-06.md`
+- `editorial_reports/2026-06-06/BOOK_STRUCTURE_COMPARISON_WILBER_ILP_AND_SIMPLIFICATION_2026-06-06.md`
+- `editorial_reports/2026-06-06/BOOK_STRUCTURE_COMPARISON_EGAN_SKILLED_HELPER_AND_SIMPLIFICATION_2026-06-06.md`
+- `editorial_reports/2026-06-06/BOOK_STRUCTURE_COMPARISON_ELLIOTT_EXISTENTIAL_KINK_AND_SIMPLIFICATION_2026-06-06.md`
+- `editorial_reports/2026-06-06/MTGOA_PEDAGOGY_FUSION_PLAN_2026-06-06.md`
+- `editorial_reports/2026-06-06/MTGOA_SIMPLIFICATION_PROTOCOL_FOUR_BOOKS_2026-06-06.md`
+- `editorial_reports/2026-06-06/CH7_REVERSE_OUTLINE_TO_SIMPLIFIED_STRUCTURE_2026-06-06.md`
+- `editorial_reports/2026-06-06/CH7_SIMPLIFIED_DRAFT_2026-06-06.md`
+- `editorial_reports/2026-06-06/MTGOA_CHAPTER_JOURNEY_MATRIX_2026-06-06.md`
+- `editorial_reports/2026-06-06/MTGOA_ALLYSHIP_WELLBEING_AND_FIVE_JOURNEYS_2026-06-06.md`
+
+Working decision:
+
+- keep the Effective Allyship Formula as the strongest reader-facing promise
+- keep the distortion/exile explanation and personal stories
+- compress the long Sage/forest altitude journey into a shorter allyship-focused arc
+- add a plain-language allyship definition near the front of the book
+
+Next editorial action:
+
+- draft a Chapter 7 condensation spec that maps each remaining section back to the core allyship promise
+- use the local source corpus as the chapter-structure model set
+- simplify each chapter to a promise -> diagnosis -> teaching -> example -> practice -> summary rhythm where possible
+- use the ILP modular pattern as the clearest model for chapter entry speeds and condensed practice layers
+- preserve MTGOA's layered feel while assigning one main idea and one main tool per chapter
+- synthesize the four-source structure set into one simplification protocol before touching more prose
+- use the simplification protocol as the editing rulebook for Chapter 7 and for any other chapter that still feels overstuffed
+- apply the Chapter 7 reverse outline first when simplifying the Sage chapter
+- compare the simplified Sage draft against the current source draft before deciding what to merge back
+- use the chapter journey matrix to keep each chapter focused on one milestone and one primary journey
+- use the allyship / well-being memo to keep the book's definition of allyship relational, consent-based, and trust-earned
 
 ---
 
@@ -86,6 +128,106 @@ Supporting notes:
 Next focus:
 
 - Run Section 6-8 readback before deciding whether to pause Ch1 or make one final micro-edit.
+
+### Copy-Edit Runway: Editorial Style Inputs
+
+The next-week copy-edit pass now has two new editorial style inputs in the repo:
+
+- `editorial_reports/2026-06-04/MTGOA_Developmental_Editorial_Specification.pdf`
+- `editorial_reports/2026-06-04/deep-research-report.md`
+
+They line up with the editorial docs already in the repo:
+
+- `SPEC_MANUSCRIPT_INTEGRATION.md`
+- `MTGOA_EDITORIAL_AGENT_SPEC_v3.md`
+- `EDITORIAL_PIPELINE_ALL_ENVIRONMENTS.md`
+- `GATE_VOICES_CANONICAL.md`
+- `CROSSCHAPTER_SPEC.md`
+
+Backlog decision:
+
+- Treat these two documents as the style baseline for the copy-edit week.
+- Build or confirm the Wendell anchor corpus before broad copy-editing starts.
+- Use the deep research report to drive the style-lint / Voice Anchoring Pass.
+- Use the developmental editorial spec as the manuscript-level style reference.
+
+Next focus:
+
+- Convert these style inputs into a chapter-by-chapter copy-edit checklist and run it next week.
+
+### Merged Editorial Strategy — old spine + new style layer
+
+The repo now treats the new style materials as an added layer on top of the existing editorial spine, not as a replacement for it.
+
+Reference memo:
+
+- `editorial_reports/2026-06-04/EDITORIAL_GAP_ANALYSIS_AND_MERGE_PLAN_2026-06-04.md`
+
+What stays authoritative:
+
+- manuscript integration and chapter placement
+- pipeline and human cold read workflow
+- gate ontology and cross-chapter pattern rules
+- tracker sequencing and backlog state
+
+What the new materials govern:
+
+- style-lint categories
+- anti-AI artifact cleanup
+- Wendell anchor corpus
+- voice anchoring
+- line-level repair for the copy-edit week
+
+Backlog order for the merged strategy:
+
+1. Confirm or assemble the Wendell anchor corpus.
+2. Convert the deep research report into a usable style-lint checklist.
+3. Run voice anchoring before broad copy-editing.
+4. Keep detector scores as triage only.
+5. Preserve structure unless a line-level repair reveals a real structural issue.
+
+### Final Push Plan — AI artifact cleanup first, voice punch second
+
+Before closing shop for today, the finishing plan is:
+
+1. Strip AI artifacts from the manuscript using the research report as the lint source.
+2. Apply the voice-anchoring pass to the cleaned spans.
+3. Manually punch the voice up chapter by chapter.
+4. Keep structural fixes limited to the few items that still protect the spine.
+
+Reference file:
+
+- `editorial_reports/2026-06-04/AI_ARTIFACT_CLEANUP_AND_VOICE_PUNCH_PLAN_2026-06-04.md`
+
+### Chapter 7 Inkwell review notes
+
+The Inkwell review comments for Chapter 7 are now folded into a concrete revision plan.
+
+Reference file:
+
+- `editorial_reports/2026-06-04/CH7_INKWELL_REVIEW_NOTES_RESPONSE_PLAN_2026-06-04.md`
+- `editorial_reports/2026-06-04/CH7_IMPLEMENTATION_SPEC_2026-06-04.md`
+
+Working order:
+
+1. Thesis paragraph near the start.
+2. Clean definitions for Shadow, distortion, and cost.
+3. Gate signposting tied back to the thesis.
+4. Short limit-case paragraph for urgent external action.
+5. Tradition mapping for Big Mind, shamanic training, and the Faces.
+6. Do-not-do examples for over-introspection and avoidance.
+7. One institutional example.
+8. Vocabulary normalization for Shaman / Forest language.
+9. Quick-reference box for the eight Gates and five moves.
+10. Comedy and Emotional Alchemy pass to make the chapter land as release, not lecture.
+
+Implementation rule:
+
+- Apply the spec to `chapters/ch7-sage/CHAPTER7_SAGE_FULL_DRAFT.md` first, then mirror the same final chapter state into the Inkwell upload copy if needed.
+
+Status:
+
+- Chapter 7 implementation applied to the source draft and mirrored into `Inkwell Upload - 2026-06-04/chapters/CHAPTER7_SAGE_FULL_DRAFT.md`.
 
 ---
 
