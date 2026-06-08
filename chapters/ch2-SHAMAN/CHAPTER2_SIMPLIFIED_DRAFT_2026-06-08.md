@@ -119,6 +119,14 @@ When the conversation is done: what channel was running, what you named, what th
 
 ---
 
+## Isn't This Just Making It About My Feelings?
+
+The fair objection to emotional alchemy: when someone else is hurting, isn't turning inward to read your own channel exactly the self-absorption allyship is supposed to cure?
+
+It would be — if it took longer than it does. WAVE is ten seconds, not a retreat. You are not stepping out of the room to process; you are reading the signal *so the move you make next is clean instead of reactive.* The test is direction. If the practice sends you back toward the person in front of you with a clearer move, it is working. If it becomes a reason to leave the room, journal about it, and never return, you have turned a tool into a hiding place. When the room needs action first, act — and run the WAVE on the way home.
+
+---
+
 ## Section 6: Summary and Handoff
 
 The Shaman's contribution to the Effective Allyship Formula is this: before strategy, before structure, before any move you make in the world — there is signal. Emotional signal. The pattern of what you actually feel, what you actually need, what you are actually running on.

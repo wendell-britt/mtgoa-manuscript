@@ -107,6 +107,16 @@ One design. One doing. Within seven days.
 
 ---
 
+## Two Honest Questions
+
+Two questions tend to come up right here, and both deserve a straight answer.
+
+**"What if I don't have a game yet?"** Then your move is to keep walking until the problem you keep tripping over comes into focus. That *is* the Review step — it is real work, not a failure to start. Nobody arrives with the game already built. You find it by playing.
+
+**"What if I'm not a builder — not a Founder type?"** Founder is a mode, not a personality. Passing something on can be as small as handing one person one move that worked. You do not have to start an organization to build; you have to make one thing someone else can use. The scale is yours to choose. The handing-forward is the only part that isn't optional.
+
+---
+
 ## Section 6: The Handoff
 
 The book ends here. Not with a summary of everything that came before. With one image.

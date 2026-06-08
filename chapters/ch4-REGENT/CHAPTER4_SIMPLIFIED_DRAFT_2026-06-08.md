@@ -147,6 +147,14 @@ You named an inheritance out loud — claimed it or reformed it — or you watch
 
 ---
 
+## Isn't "Loyalty" Just How Oppression Survives?
+
+The objection a progressive reader will have raised three pages ago: tradition and loyalty are the exact machinery that keeps harmful institutions running. Why would an ally defend them?
+
+Because this chapter is not defending the form — it is recovering the essence the form was built to carry. What kept you in a harmful institution was *compliance*, not loyalty; the village confused the two and threw out both. Real loyalty includes the power to reform, and sometimes the most loyal act is to break the form so the tradition can survive. And if you inherit something whose essence is itself harm — a "tradition" that was only ever a cage — stewardship does not ask you to keep it. It asks you to name that plainly and let it end. Refusing to reform, and refusing to let go, are the distortions. Neither is the practice.
+
+---
+
 ## Section 6: Summary and Handoff
 
 The Regent's contribution to the formula is this: **allyship that cannot be inherited cannot scale.**

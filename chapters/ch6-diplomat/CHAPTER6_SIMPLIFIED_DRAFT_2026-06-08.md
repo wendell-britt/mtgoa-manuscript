@@ -101,6 +101,14 @@ If you are tracking this through the bars engine, that is your capture this week
 
 ---
 
+## What If Naming My Terms Ends the Relationship?
+
+The fear underneath the Diplomat's silence is not really about sounding like an ultimatum — it is that honest terms will cost the relationship. Sometimes they do.
+
+But a field that cannot hold your actual terms was already holding a version of you that was disappearing. Naming them does not break the relationship; it reveals what the relationship could actually bear. If it ends there, you have lost a staying that was already costing you more than it returned. If it holds, it holds the whole you — maybe for the first time. Either way you get the truth, and the truth is the only ground a lasting alliance can stand on. (And if the fear of this feels total — not just uncomfortable but flooding — that is the signal to walk the gates with a guide, as noted above, not alone.)
+
+---
+
 ## Section 6: Summary and Handoff
 
 The Diplomat's well-being is relational honesty and mutual sustainability.

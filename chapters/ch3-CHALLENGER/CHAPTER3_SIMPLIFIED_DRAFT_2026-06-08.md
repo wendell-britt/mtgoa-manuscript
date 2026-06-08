@@ -123,6 +123,14 @@ When the line has already been crossed once and crossed again, add the cost: *"L
 
 ---
 
+## Won't This Just Make Me the Difficult One?
+
+The objection every recovering peacekeeper raises: if I start drawing lines, won't I become the aggressive person who makes every room tense?
+
+Only if you draw them for yourself instead of the room. That is the distortion this chapter already named — the no used to control rather than protect. The clean no is rare precisely because it is *proportionate*: it names the line and stops. It does not punish. It does not need the other person to crumble. If you find yourself drawing lines everywhere, or enjoying the charge of it, that is not the Challenger — that is the Challenger in distortion, and the move is to set the fire down, not aim it wider. Not every charge is a line. Discernment is half the tool.
+
+---
+
 ## Section 6: Summary and Handoff
 
 The Challenger's gift is not the willingness to fight. It is the willingness to *mean it.*

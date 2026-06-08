@@ -150,6 +150,14 @@ Make the move.
 
 ---
 
+## When the Game Frame Goes Wrong
+
+One objection deserves a straight answer: isn't calling allyship a *game* a way of trivializing real harm?
+
+No — and here is the test. The game frame does one job: it creates enough distance between you and the stakes that you can keep playing. That distance is not detachment, and it is not permission to treat anyone's life as a move on a board. If the frame ever starts to feel like *this doesn't really matter,* you have mistaken distance for dismissal — put it down. The frame is for the player so fused with the outcome they can no longer act, and for the player so numb they need a way back into contact. It is not cover for staying comfortable while other people pay.
+
+---
+
 ## Section 6: Summary and Handoff
 
 The game is already running. It was running before you picked up this book.

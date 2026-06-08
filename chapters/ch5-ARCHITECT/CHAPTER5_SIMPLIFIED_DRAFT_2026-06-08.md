@@ -113,6 +113,14 @@ Before this moment fades: which assumption, what you actually said, and what the
 
 ---
 
+## Isn't Redesigning Incentives Just Manipulation?
+
+The sharp objection: if you change what a system rewards so people behave differently, aren't you manipulating them — engineering behavior instead of respecting their choices?
+
+The line is whether you design *with* people or *around* them. Manipulation hides the lever and keeps the leverage for itself. The Architect names the lever out loud — *here is what the structure rewards, here is what I want it to reward, here is the change I am proposing* — and hands the map to the people inside the system. Structural sight delivered as love, in the open. If you find yourself reluctant to say plainly what you are changing and why, that reluctance is the tell: you have slipped from design into manipulation. Design assumes goodwill and makes the right thing easier. It does not trick anyone into being good.
+
+---
+
 ## Section 6: Summary and Handoff
 
 The Architect's gift to the allyship game is this: before relationship, before strategy, there is structure. And structure is a form of love.

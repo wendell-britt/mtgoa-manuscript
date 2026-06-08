@@ -160,6 +160,14 @@ That is the whole exercise. It is harder than it sounds, and it is also the most
 
 ---
 
+## But What If I Just Do Nothing, Then?
+
+The objection to consent-first allyship: doesn't waiting for an invitation mean standing by while harm happens?
+
+Consent is the mechanism for *help*, not a veto on *action.* When someone is in danger, you act — you do not poll the room first. The consent principle governs the gray zone where most allyship actually lives: the colleague having a hard week, the friend in grief, the person whose situation you have decided you already understand. There, asking is not passivity. It is the difference between help and imposition. And "I asked, and they said no" is not doing nothing — it is doing the harder thing, which is letting someone keep authorship of their own life.
+
+---
+
 ## Section 6: Summary and Handoff
 
 Allyship is relational, consent-based, and trust-earned.

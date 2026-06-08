@@ -14,9 +14,8 @@ SOURCE BEATS (all must survive compression):
                       full 9-step (S5) + the 4-question simpler version (S5)
   Examples  [10K]  — the strategy-vs-power room; the harmony-game room; the overexplain/rescue list
   Practice  [Egan] — "Try this with one real situation" (S5) + BAR-style capture
-  Safety    [EK]   — *** CURRENTLY THIN. Only the half-line "if someone is in immediate danger,
-                      act." NEEDS a real objection beat: "when seeing becomes stalling / when the
-                      high view is avoidance / inner work is not a delay tactic." ***
+  Safety    [EK]   — "When Seeing Becomes Stalling" beat: inner work is not a delay tactic;
+                      act in danger / draw the line; if you've seen and not moved, you're stalling.
   Handoff   [10K]  — recap (what Sage gives / does not give) -> Player ("what am I building now?")
 
 LOCKED TERMS: "See -> Switch -> Serve -> Release -> Return"; "perspective with commitment";
@@ -27,8 +26,8 @@ LINEAGE:      Wilber (integral/Teal stage) [^wilber]; Laloux (Teal orgs) [^lalou
 DEEP-LAYER HOME: five-mode alchemy expansion, full forest/gate walk, Face-by-Face developmental
               map -> Appendix / deck cards (the chapter's DEMOTED list already itemizes these)
 DO-NOT-DRIFT: (1) keep "altitude" submerged — generic "high view" OK, no Spiral ladder/colors.
-              (2) Safety beat is the known gap — do not let the next pass "clean it up" into nothing;
-                  it needs MORE, not less.
+              (2) Safety beat ("When Seeing Becomes Stalling") is load-bearing — do not let a
+                  compression pass cut it; the EK objection layer was the chapter's known gap.
 ==================================================================== -->
 
 # CHAPTER 7: THE SAGE
@@ -244,6 +243,14 @@ If you want a simpler version, use this:
 That is enough.
 
 The point is not to become a perfect Sage. The point is to stop using perspective as a hiding place.
+
+---
+
+## When Seeing Becomes Stalling
+
+The Sage's characteristic failure is not a bad read — it is a true read used to avoid the move. So name the trap directly: inner work is not a delay tactic.
+
+If someone is in immediate danger, act. If the room needs a line, draw it. The whole-board view earns its keep only when it ends in a move. The moment "I'm still seeing it clearly" becomes the reason you never serve, you have turned perspective into the most sophisticated hiding place there is. The test is time-bound: if you have seen the game and still not moved, you are no longer seeing — you are stalling. Switch. Serve. The sight was always for the sake of the move.
 
 ---
 
