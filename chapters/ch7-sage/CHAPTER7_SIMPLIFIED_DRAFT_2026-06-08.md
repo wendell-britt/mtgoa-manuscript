@@ -178,7 +178,7 @@ Not every game is yours forever. Some games are for a season, and some were only
 
 Come back to the room without condescension.
 
-This is the hardest part. You saw the whole board, but the room may not have. Return as someone who is with the people in the room, not above them. Stay embodied. Stay kind. Let them not understand, and let that be okay.
+This is the hardest part. You saw the whole board, but the room may not have. Return as someone who is with the people in the room, not above them. Stay in the room. Stay kind. Let them not understand, and let that be okay.
 
 That sequence is the practical heart of this chapter.
 
@@ -267,7 +267,7 @@ That means:
 
 What the Sage does not give you is permission to stay above the work.
 
-The real test of Sage is not whether you can name the game. It is whether you can name it, move in it, and then come back down with your body still present.
+The real test of Sage is not whether you can name the game. It is whether you can name it, move in it, and then come back down and still be in the room when you land.
 
 That is the gift this chapter offers the book: the capacity to see the game underneath allyship without turning that sight into another form of distance.
 

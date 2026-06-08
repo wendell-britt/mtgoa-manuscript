@@ -130,6 +130,12 @@ The allyship that doesn't outlast your own energy is not yet an ally system. It 
 
 ---
 
+**The quick version**
+
+Pick one thing you inherited — a practice, a role, a norm. Then walk the four questions in order: *Have I acknowledged it? Is it still load-bearing? Does the form need reform? Have I prepared someone to receive it?* Wherever you stall is your next move. That is Inherit → Honor → Steward → Entrust, compressed to four questions.
+
+---
+
 ## Section 4: The Inheritance You're Carrying
 
 The Regent's pair is a tension, not a problem.

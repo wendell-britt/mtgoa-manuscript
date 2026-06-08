@@ -135,6 +135,12 @@ Consent-seeking and trust-building are not preliminary steps before the real wor
 
 ---
 
+**The quick version**
+
+If you remember nothing else: before you help, ask one question out loud — *"What would actually be useful to you here?"* — and accept the answer, including *nothing right now.* That single move is the whole chapter in miniature. It turns rescue back into allyship, because it returns authorship to the person you are trying to serve.
+
+---
+
 ## Section 4: What This Looks Like in Real Situations
 
 **The phone call in 2020.**

@@ -21,7 +21,7 @@ DEEP-LAYER HOME: 5 modes (Cartographer/Designer/Founder/Elder/Outlaw), routing t
               stage sequence, 8 gate-scan BARs, the 5 game moves, reflection prompts, bars-engine
               pitch -> deck / app / appendices
 DO-NOT-DRIFT: (1) WCGS appears correctly here — it is the cross-check for Ch2; keep it.
-              (2) "I had a felt sense of what was missing" (author's own process) — soften in P3 sweep.
+              (2) "felt sense" -> "an intuition" (fixed 2026-06-08); keep the retired clinical term out.
               (3) the image ending is approved — do not convert it to a bulleted summary.
 ==================================================================== -->
 
@@ -102,7 +102,7 @@ The six Faces are the toolkit. The WAVE is the process. The loop is the practice
 
 I want to be honest about what the walk actually looks like.
 
-When I started building bars-engine, I didn't have it figured out. I had a felt sense of what was missing — a game that made the WAVE something you could actually practice rather than just understand — and I had enough of the Faces to know the shape of the gap. But the mechanics kept changing. I ran sessions that failed. I redesigned the token economy three times. I threw out entire systems and rebuilt them. The walk was not a straight line from plan to execution.
+When I started building bars-engine, I didn't have it figured out. I had an intuition about what was missing — a game that made the WAVE something you could actually practice rather than just understand — and I had enough of the Faces to know the shape of the gap. But the mechanics kept changing. I ran sessions that failed. I redesigned the token economy three times. I threw out entire systems and rebuilt them. The walk was not a straight line from plan to execution.
 
 Here's what the walk is not: it's not the elimination of fear. You will still be afraid. Afraid when something doesn't work. Afraid when the village doesn't receive what you built the way you hoped. The fear doesn't go away. The relationship to the fear changes. The fear becomes a signal: *this matters enough to be afraid of.* That's the Shaman's move applied to your own building — feel what's there, name it, let it run through its cycle, then act from the other side of it.
 

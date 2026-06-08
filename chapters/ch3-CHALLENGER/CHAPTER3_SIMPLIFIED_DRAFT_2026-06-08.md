@@ -97,6 +97,12 @@ That is how you identify where your superpower belongs.
 
 ---
 
+**The quick version**
+
+The fast path is the 30-Second Protocol: feel the charge, find the line, say it in one sentence, exit. That is the rep you run most days. The deeper version adds the cost — the Reckoning — for the line that has already been crossed once and crossed again. Same move, longer arc.
+
+---
+
 ## Section 4: The Story
 
 I've been in rooms where the line needed to be drawn and I was the one who drew it.

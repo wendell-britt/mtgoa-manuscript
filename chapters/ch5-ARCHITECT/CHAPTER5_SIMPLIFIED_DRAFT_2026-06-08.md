@@ -95,6 +95,12 @@ The cycle is Observe → Model → Design → Deploy → Observe. The Architect 
 
 ---
 
+**The quick version**
+
+When the wrong thing keeps happening, run one substitution: stop asking *why are people like this?* and ask *what is the system rewarding?* Then change that one thing — the smallest lever that makes the right behavior the easy behavior. Diagnosis points at people; design points at the structure. The Architect always chooses the structure.
+
+---
+
 ## Section 4: The Story
 
 A team comes to you because their planning process keeps producing plans nobody follows. They are frustrated. They are working hard. They keep running the same meeting.

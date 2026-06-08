@@ -21,7 +21,7 @@ LINEAGE:      Carse (finite/infinite games); Maslach (burnout: exhaustion/depers
 DEEP-LAYER HOME: Game Master framing, 3 game types, 6-Faces full intro, Character Sheet, Two Readings,
               Reader's Oath, Forest/Village -> deck / appendix (see this chapter's DEMOTED list)
 DO-NOT-DRIFT: (1) keep the spine 4-term — the council fought for campaigns/prize.
-              (2) L~"a tightening before your mind catches up" is borderline somatic (P3 sweep).
+              (2) somatic "a tightening" -> "the cost lands" (fixed 2026-06-08); keep non-somatic.
 ==================================================================== -->
 
 # Chapter 0 — The Infinite Arcade
@@ -132,11 +132,17 @@ For now, the formula is a compass. You are here, at the beginning. The work ahea
 
 ---
 
+**The quick version**
+
+You do not need the whole vocabulary to start. Before any allyship move, ask one question: *what is this running on, and will it pay me back?* Renewable fuel — genuine care, earned capacity, the connection that is its own reward — spend it. Non-renewable fuel — guilt, obligation, the inherited debt — will run you to empty no matter how much you care. That one question is the frame.
+
+---
+
 ## Section 4: Examples
 
 Here is what the token distinction looks like in the rooms you already know.
 
-You walk into a meeting where a colleague says something that erases your community's experience. There is a tightening before your mind catches up. That is a token being spent. The feeling is real. The cost is real. You spend another token choosing how to respond. You spend more processing it on the drive home. The meeting was ten minutes. The spending continues for hours.
+You walk into a meeting where a colleague says something that erases your community's experience. The cost lands before your mind catches up. That is a token being spent. The toll is real. The cost is real. You spend another token choosing how to respond. You spend more processing it on the drive home. The meeting was ten minutes. The spending continues for hours.
 
 Non-renewable fuel. You knew the math. You have done it in a parking garage, on a run, in the shower.
 
