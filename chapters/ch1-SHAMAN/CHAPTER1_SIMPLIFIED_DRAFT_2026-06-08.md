@@ -1,3 +1,30 @@
+<!-- =========================== ANCHOR BLOCK ===========================
+CHAPTER:    1 — The Shaman (the definition)
+ONE IDEA:   Allyship is relational, consent-based, and trust-earned — you ally WITH people.
+ONE TOOL:   The Allyship Definition + invitation language (how to ask, how to earn trust)
+WELLBEING:  Mutual — safety, consent, and trust between both people (not one-way care)
+
+SOURCE BEATS (all must survive compression):
+  Promise   [EK]   — "the version of allyship that keeps failing"; the definition that holds
+  Diagnosis [Egan] — rock-in-shoe / 2020 calls; the impulse-to-help mistaken for an invitation
+  Tool      [ILP]  — the definition unpacked + invitation language (one speed; P3 quick-version target)
+  Examples  [10K]  — the 2020 call; the struggling colleague; the power-asymmetry room; the "no"
+  Practice  [Egan] — the one conversation (ask what they actually need; accept the answer)
+  Safety    [EK]   — "But What If I Just Do Nothing?" (consent governs help, not action-in-danger)
+  Handoff   [10K]  — recap -> Ch2 ("what do you bring? find your superpower")
+
+LOCKED TERMS: the definition, verbatim — "Allyship is the art of increasing well-being, agency,
+              and safety — in the form that matters here — with consent, through relationship.
+              You ally with people; you support movements."; impulse vs invitation;
+              "Effective Allyship Formula"
+LINEAGE:      [^body] Gendlin, van der Kolk (footnote). Karpman/Drama Triangle is NOT credited here
+              — routed to Ch3 (Victim<->Challenger) by design.
+DEEP-LAYER HOME: Forest Journey scaffold, full 8-Gates walk, Superpower formula (-> Ch2),
+              Journey-to-the-Center exercise, BARs loop -> deck / appendix
+DO-NOT-DRIFT: (1) the definition is a Codex-new canon element — confirm vs Obsidian before
+              rippling further. (2) one-speed tool — candidate for an ILP quick-version (P3).
+==================================================================== -->
+
 # CHAPTER 1: THE SHAMAN
 ## *Allyship Is Relational, Consent-Based, and Trust-Earned*
 

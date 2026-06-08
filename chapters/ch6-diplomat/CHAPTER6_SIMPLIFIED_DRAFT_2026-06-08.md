@@ -1,3 +1,30 @@
+<!-- =========================== ANCHOR BLOCK ===========================
+CHAPTER:    6 — The Diplomat
+ONE IDEA:   Stay in the room without disappearing — tell the truth about what your staying requires.
+ONE TOOL:   Close with Honest Terms (name the interest not the position; name it once, leave the silence)
+WELLBEING:  Relational honesty and mutual sustainability (presence chosen, not compelled)
+
+SOURCE BEATS (all must survive compression):
+  Promise   [EK]   — the two villagers (the one who vanished vs the one whose presence became chosen)
+  Diagnosis [Egan] — "needing something is imposition"; the warm, reliable, slowly-disappearing ally
+                      (+ therapy-adjacent off-ramp note)
+  Tool      [ILP]  — Close with Honest Terms (interest-not-position / name-once / ask-before-you-name)
+  Examples  [10K]  — the load-bearing-wall ally; the rupture-repair; the false-equivalence room
+  Practice  [Egan] — say the one sentence you've been circling, once, then leave the silence + capture
+  Safety    [EK]   — "What If Naming My Terms Ends the Relationship?" (a field that can't hold them
+                      was already holding a disappearing you) + the therapy off-ramp
+  Handoff   [10K]  — recap -> Ch7 ("when the conflict is altitudinal, you need the Sage")
+
+LOCKED TERMS: "Close with Honest Terms"; "name the interest, not the position"; "Diplomat in
+              distortion" (WB-10); five channels (Bridge/Translate/Hold/Repair/Negotiate);
+              care <-> impact polarity pair (Appendix F)
+LINEAGE:      Polarity Map / Barry Johnson (Appendix F)
+DEEP-LAYER HOME: 5 channels (full), EA channel-alignment table, 5 game moves, Journey-to-Center
+              8 gates, Integrative-Negotiator alchemy -> deck / appendices / App F
+DO-NOT-DRIFT: (1) WB-9 altitude submerged (Green -> Diplomat; no Spiral colors). (2) WB-10.
+              (3) the therapy off-ramp is part of the EK safety layer — keep it.
+==================================================================== -->
+
 # CHAPTER 6 — THE DIPLOMAT
 ## *The Terms That Let You Stay Without Disappearing*
 

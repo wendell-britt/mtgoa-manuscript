@@ -1,3 +1,31 @@
+<!-- =========================== ANCHOR BLOCK ===========================
+CHAPTER:    2 — The Shaman (the superpower)
+ONE IDEA:   Your superpower is emotional and already here; stop converting feeling into action
+            before it teaches you what you need to know.
+ONE TOOL:   The WAVE-Spiral = Wake / Clean / Grow / Show (WCGS)   *** see DO-NOT-DRIFT ***
+WELLBEING:  Feeling accurately (not feeling better); felt energy; satisfaction from being real
+
+SOURCE BEATS (all must survive compression):
+  Promise   [EK]   — the person who keeps burning out; "that something" is emotional
+  Diagnosis [Egan] — managing emotion vs reading it (customer-service "door closing" story)
+  Tool      [ILP]  — WAVE-Spiral, taught at two speeds (the 4 stages + the one-stage live version)
+  Examples  [10K]  — the anger that's really a line; the flat room; the satisfied joy
+  Practice  [Egan] — run ONE WAVE move in a live conversation + capture
+  Safety    [EK]   — "Isn't This Just Making It About My Feelings?" (10 sec, not a retreat)
+  Handoff   [10K]  — recap -> Ch3 ("where does the superpower belong?")
+
+LOCKED TERMS: *** WAVE-Spiral = Wake / Clean / Grow / Show (WCGS) — NEVER rename to
+              Wake/Acknowledge/Validate/Exhale. That is the NESTED WAVE-Somatic protocol
+              (Welcome/Acknowledge/Validate/Exhale), a distinct 5-20s downregulation step. ***
+              "the charge"; the five channels (Fear/Anger/Sadness/Joy/Neutrality); EA Formula step 1
+LINEAGE:      [^wave] Gendlin, Levine, van der Kolk, Porges; wu xing (五行) — book DELIBERATELY
+              diverges from classical TCM correspondences (owned in-text; credited Appendix G)
+DEEP-LAYER HOME: 5 Elements table, Channel Mechanics, 3-2-1 Shadow (App E), Polarity Map (App F),
+              8 Gates walk, the Shaman's 5 game moves -> deck / appendices
+DO-NOT-DRIFT: *** This chapter is THE drift site. WCGS is load-bearing (Wilber's four processes +
+              the deck's suits). A compression pass already renamed it once (fixed 2026-06-08). ***
+==================================================================== -->
+
 # CHAPTER 2: THE SHAMAN
 ## *Your Superpower Is Already Here — You Just Stopped Trusting It*
 

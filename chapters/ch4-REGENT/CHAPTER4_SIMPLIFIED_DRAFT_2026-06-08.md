@@ -1,3 +1,28 @@
+<!-- =========================== ANCHOR BLOCK ===========================
+CHAPTER:    4 — The Regent
+ONE IDEA:   Build the floor so allyship can be inherited — traditions worth protecting AND breaking.
+ONE TOOL:   Inherit -> Honor -> Steward -> Entrust
+WELLBEING:  Continuity (something carried forward; the next person has something to receive)
+
+SOURCE BEATS (all must survive compression):
+  Promise   [EK]   — the founding energy burns through; the Regent builds the floor (EA Formula Step 3)
+  Diagnosis [Egan] — the two distortions: the cage built of love / the fire without a floor
+  Tool      [ILP]  — Inherit/Honor/Steward/Entrust (one speed; P3 quick-version target)
+  Examples  [10K]  — the progressive collective; martial arts / church / academia lineages
+  Practice  [Egan] — name one inheritance OUT LOUD (claim it or reform it) + capture
+  Safety    [EK]   — "Isn't Loyalty Just How Oppression Survives?" (loyalty != compliance; reform is loyal)
+  Handoff   [10K]  — recap -> Ch5 ("the Regent inherits; the Architect designs")
+
+LOCKED TERMS: "Inherit -> Honor -> Steward -> Entrust"; "loyalty is not compliance"; "the tradition
+              is not the form"; "I love this enough to change it"; "Regent in distortion" (WB-10);
+              Honor What Was Passed <-> Reform What No Longer Serves (polarity pair, App F)
+LINEAGE:      Polarity Map / Barry Johnson (Appendix F)
+DEEP-LAYER HOME: 5 channels (Custodian/Inheritor/Teacher/Reformer/Keeper of Vows), Stewardship Ecology,
+              5 game moves, 8-Gate walk, Inheritance Cycle diagram, full Polarity draw -> deck / App F
+DO-NOT-DRIFT: (1) WB-10. (2) somatic grounding already removed from the polarity-draw step (keep out).
+              (3) one-speed tool — ILP quick-version candidate (P3).
+==================================================================== -->
+
 # CHAPTER 4: THE REGENT
 ## *Traditions Worth Protecting and Worth Breaking*
 

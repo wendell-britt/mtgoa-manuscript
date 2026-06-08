@@ -1,3 +1,30 @@
+<!-- =========================== ANCHOR BLOCK ===========================
+CHAPTER:    8 — The Player
+ONE IDEA:   The book is no longer only a map — play it; close the gap between knowing and doing.
+ONE TOOL:   The loop — Review -> Discern -> Design -> Build -> Pass On  (run as a 60-second practice)
+WELLBEING:  Ongoing play that keeps the whole thing alive (the practice is what you DO when it costs you)
+
+SOURCE BEATS (all must survive compression):
+  Promise   [EK]   — "now it's time to play"; the knowing-doing gap is the problem this chapter solves
+  Diagnosis [Egan] — collecting Faces as credentials; always preparing, never playing
+  Tool      [ILP]  — the loop (already multi-scale: ties to WCGS; small move + the deeper walk)
+  Examples  [10K]  — bars-engine build (failed sessions, 3 token-economy rewrites); the "not the slide" move
+  Practice  [Egan] — Try It Now / Sixty Seconds: name problem, name avoided Face, design one move, do it
+  Safety    [EK]   — "Two Honest Questions" (no game yet -> that's Review; not a Founder -> it's a mode)
+  Handoff   [10K]  — image ending: "you are at the beginning of a walk"; "the walk is the thing"
+
+LOCKED TERMS: "Review -> Discern -> Design -> Build -> Pass On"; *** "Wake up / Clean up / Grow up /
+              Show up" (WCGS) — this chapter states it CORRECTLY (the canonical form); keep it ***;
+              "Player in distortion" (NOT shadow Player — WB-10); the six Faces = a design system
+LINEAGE:      (no single cited source in-text)
+DEEP-LAYER HOME: 5 modes (Cartographer/Designer/Founder/Elder/Outlaw), routing table, the enumerated
+              stage sequence, 8 gate-scan BARs, the 5 game moves, reflection prompts, bars-engine
+              pitch -> deck / app / appendices
+DO-NOT-DRIFT: (1) WCGS appears correctly here — it is the cross-check for Ch2; keep it.
+              (2) "I had a felt sense of what was missing" (author's own process) — soften in P3 sweep.
+              (3) the image ending is approved — do not convert it to a bulleted summary.
+==================================================================== -->
+
 # CHAPTER 8: THE PLAYER
 ## *The Book Is No Longer Only a Map*
 

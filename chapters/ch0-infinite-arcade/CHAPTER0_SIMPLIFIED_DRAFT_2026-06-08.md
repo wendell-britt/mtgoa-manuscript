@@ -1,3 +1,29 @@
+<!-- =========================== ANCHOR BLOCK ===========================
+CHAPTER:    0 — The Infinite Arcade
+ONE IDEA:   See the game you are already in, so you stop burning the wrong fuel running it.
+ONE TOOL:   The Game Frame — tokens (renewable / non-renewable fuel) -> tickets -> campaigns -> prize
+WELLBEING:  n/a — frame chapter; previews the per-Face well-being the rest of the book defines
+
+SOURCE BEATS (all must survive compression):
+  Promise   [EK]   — three-years-late confession; "see the game you're already in"
+  Diagnosis [Egan] — the debt frame / burnout (Maslach + Gorski); the unpayable inherited debt
+  Tool      [ILP]  — tokens & tickets (one speed; deep mechanics demoted to deck)
+  Examples  [10K]  — the erasing meeting; the colleague you carry; the clean mentorship
+  Practice  [Egan] — the 3 questions (cost / return / right game?) + capture
+  Safety    [EK]   — "When the Game Frame Goes Wrong" (not trivializing / not detachment)
+  Handoff   [10K]  — recap -> Ch1 ("what is allyship, actually?")
+
+LOCKED TERMS: spine = tokens -> tickets -> campaigns -> prize (prize = getting to keep showing up
+              skillfully — do NOT drop campaigns/prize again); renewable vs non-renewable fuel;
+              "Effective Allyship Formula" (4 steps); "Infinite Arcade"; finite vs infinite game
+LINEAGE:      Carse (finite/infinite games); Maslach (burnout: exhaustion/depersonalization/inefficacy);
+              Gorski (activist burnout)
+DEEP-LAYER HOME: Game Master framing, 3 game types, 6-Faces full intro, Character Sheet, Two Readings,
+              Reader's Oath, Forest/Village -> deck / appendix (see this chapter's DEMOTED list)
+DO-NOT-DRIFT: (1) keep the spine 4-term — the council fought for campaigns/prize.
+              (2) L~"a tightening before your mind catches up" is borderline somatic (P3 sweep).
+==================================================================== -->
+
 # Chapter 0 — The Infinite Arcade
 ## *The game is already running. Let's learn the controls.*
 

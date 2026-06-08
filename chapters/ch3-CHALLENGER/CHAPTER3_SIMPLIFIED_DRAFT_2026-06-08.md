@@ -1,3 +1,29 @@
+<!-- =========================== ANCHOR BLOCK ===========================
+CHAPTER:    3 — The Challenger
+ONE IDEA:   Draw the line where it needs to be drawn — and know which room/person needs your fire.
+ONE TOOL:   The line / the delivery / the cost  (+ the 30-Second Protocol: feel charge -> aim -> act -> exit)
+WELLBEING:  Useful challenge and effective application (not comfort)
+
+SOURCE BEATS (all must survive compression):
+  Promise   [EK]   — misapplied willingness; discernment as the work (EA Formula Step 2)
+  Diagnosis [Egan] — the two distortions (no-as-control / talked-out-of-your-fire)
+  Tool      [ILP]  — line/delivery/cost (base) + add-the-cost Reckoning (deeper); P3 quick-version target
+  Examples  [10K]  — the grief that stalled the room; the swallowed-charge explosion (the Story)
+  Practice  [Egan] — run the 30-Second Protocol once this week + capture
+  Safety    [EK]   — "Won't This Make Me the Difficult One?" (clean no = protection, not control)
+  Handoff   [10K]  — recap -> Ch4 ("a line that holds across time needs structure")
+
+LOCKED TERMS: "the line / the delivery / the cost"; "30-Second Protocol" (feel the charge -> aim ->
+              act -> exit); "the clean no is protection, not control"; "Challenger in distortion"
+              (NOT "shadow Challenger" — WB-10); channels: Interrupt / Demand / Refusal / Reckoning
+LINEAGE:      Egan / The Skilled Helper (capacity-to-act-in-charged-moments; footnote / App G);
+              Karpman Drama Triangle — natural home here (Victim<->Challenger), currently demoted
+DEEP-LAYER HOME: 5 channels, Will Ecology, Flow Cycle, 8 Gates walk, 3-2-1 at Challenger altitude,
+              the 5 game moves -> deck / appendices
+DO-NOT-DRIFT: (1) WB-10 "in distortion" language. (2) Gate-5 stays "The Emotional Body" (not "Fear").
+              (3) one-speed-ish tool — ILP quick-version candidate (P3).
+==================================================================== -->
+
 # CHAPTER 3: THE CHALLENGER
 ## *Draw the Line Where It Needs to Be Drawn*
 

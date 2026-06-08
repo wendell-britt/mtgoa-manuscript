@@ -1,3 +1,27 @@
+<!-- =========================== ANCHOR BLOCK ===========================
+CHAPTER:    5 — The Architect
+ONE IDEA:   Make the right thing the easy thing — change what the system rewards, not how hard you try.
+ONE TOOL:   Observe -> Model -> Design -> Deploy (find the leverage point; redesign, don't just diagnose)
+WELLBEING:  Leverage — an environment that holds the work after you leave
+
+SOURCE BEATS (all must survive compression):
+  Promise   [EK]   — you can be perfectly skilled and still watch people lose; the system was designed for it
+  Diagnosis [Egan] — the exile leaves "motion mistaken for progress"; the vocabulary without the practice
+  Tool      [ILP]  — Observe/Model/Design/Deploy (one speed; P3 quick-version target)
+  Examples  [10K]  — the orphaned planning process; the sponsorship-incentive redesign
+  Practice  [Egan] — name one unstated assumption, in the village + hold the flinch + capture
+  Safety    [EK]   — "Isn't Redesigning Incentives Just Manipulation?" (design WITH, in the open)
+  Handoff   [10K]  — recap -> Ch6 ("a blueprint fails if people don't trust each other")
+
+LOCKED TERMS: "Observe -> Model -> Design -> Deploy"; "every system produces the outcomes it is
+              designed to produce"; "the map that makes you unnecessary"; "structural sight delivered
+              as love, not indictment"; "Architect in distortion" (WB-10)
+LINEAGE:      systems / leverage-point thinking (no single cited source in-text)
+DEEP-LAYER HOME: 5-mode table (Mapmaker/Engineer/Strategist/Inventor/Optimizer), 5 game moves,
+              full 8-Gate walk, the O/M/D/D flow detail, the EA-signal cross-table -> deck / appendices
+DO-NOT-DRIFT: (1) WB-10. (2) one-speed tool — ILP quick-version candidate (P3).
+==================================================================== -->
+
 # CHAPTER 5: THE ARCHITECT
 ## *Make the Right Thing the Easy Thing*
 
