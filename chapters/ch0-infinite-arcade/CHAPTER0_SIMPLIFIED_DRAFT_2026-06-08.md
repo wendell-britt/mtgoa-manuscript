@@ -81,6 +81,16 @@ The ticket system makes an honest claim: the better you play, the more you have 
 
 Now use what you brought. After you engage it — do you have more life available or less? That is the payout. Not what you looked like from the outside. What the move returned to the player.
 
+**Campaigns — what the tickets fund**
+
+Tickets are not the end of the line. You spend them. You run *campaigns* — sustained efforts in the handful of domains where your allyship actually lives. This book names those domains later; for now it is enough to know that the tickets you earn by playing well are what fund the campaigns you care about. Run on non-renewable fuel and the campaign stalls the moment you do. Run on renewable fuel and the campaign keeps moving even on the days you cannot.
+
+**The prize — what all of it is for**
+
+The prize is not applause. Not the finished campaign. Not being seen as good. The prize is getting to keep showing up skillfully — the capacity to play well again tomorrow without going empty. That is the whole game: spend renewable fuel, earn tickets, fund the campaigns that matter, and in doing so buy yourself more of the one thing worth having.
+
+That is the spine the rest of the book hangs on: **tokens → tickets → campaigns → the prize.**
+
 **The formula — a preview**
 
 This whole book moves you through four steps:
@@ -150,6 +160,7 @@ Here is what this chapter gives you:
 
 - A way to name what you are spending (tokens)
 - A way to recognize what you are earning back (tickets)
+- The shape of what those tickets fund (campaigns) and what the whole thing is finally for (the prize: getting to keep showing up skillfully)
 - A way to see when the game you are in was never designed to pay you back
 - The beginning of the formula that the rest of this book will teach
 

@@ -61,15 +61,15 @@ Emotional alchemy is different. Every emotion is oriented toward something. It i
 
 The practice has four stages. You can move through them in ten seconds in the middle of a meeting, or in an hour alone after something hard. The timeline does not matter. The sequence does.
 
-The stages are called **WAVE**: Wake, Acknowledge, Validate, Exhale — but what they mean in practice is simpler than the acronym:
+The practice is called the **WAVE-Spiral**, and it moves through four stages — **Wake, Clean, Grow, Show** — the feeling waking up, getting clear, teaching you something, and finally moving you. What each stage means in practice is simpler than the names:
 
 **Wake:** Notice the signal. Name the channel it is coming from. Fear. Anger. Sadness. Joy. Neutrality. You do not need to know why it is here yet. You just need to name it before the converting starts.
 
-**Acknowledge:** Ask the channel one question: *What is this showing me?* Not "why do I feel this" — that points backward. Not "what should I do" — that points forward. Just: what is this feeling oriented toward right now? Fear shows you what is at stake. Anger shows you where a boundary is being crossed. Sadness shows you what mattered enough to lose. Joy shows you what is aligned. Neutrality shows you the wider view.
+**Clean:** Ask the channel one question: *What is this showing me?* Not "why do I feel this" — that points backward. Not "what should I do" — that points forward. Just: what is this feeling oriented toward right now? Strip away the secondary reactions — the shame about having the feeling, the story about what it means — until what is left is the clear signal. Fear shows you what is at stake. Anger shows you where a boundary is being crossed. Sadness shows you what mattered enough to lose. Joy shows you what is aligned. Neutrality shows you the wider view.
 
-**Validate:** Let the understanding land. The feeling has been doing a job. It delivered information. Your system needs a moment to register that the message arrived. This is not dramatic — it is often a breath, a small shift from confusion to clarity. The feeling stops being noise and becomes signal you can use.
+**Grow:** Let the understanding land. The feeling has been doing a job. It delivered information. Your system needs a moment to register that the message arrived — the moment the feeling stops being something that happened *to* you and becomes something you have learned from. This is not dramatic — it is often a breath, a small shift from confusion to clarity. The feeling stops being noise and becomes signal you can use.
 
-**Exhale:** Move from the integrated place. Not from your habitual patterns. From where you just landed. The move is different because the fuel is different.
+**Show:** Move from the integrated place. Not from your habitual patterns. From where you just landed. The move is different because the fuel is different.
 
 That last distinction matters.
 

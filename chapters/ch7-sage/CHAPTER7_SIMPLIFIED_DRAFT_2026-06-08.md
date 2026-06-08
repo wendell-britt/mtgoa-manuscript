@@ -1,3 +1,36 @@
+<!-- =========================== ANCHOR BLOCK ===========================
+CHAPTER:    7 — The Sage
+ONE IDEA:   Sage altitude helps you stop mistaking perspective for action —
+            you see the whole board without turning that view into a hiding place.
+ONE TOOL:   See -> Switch -> Serve -> Release -> Return   (5 moves, in this order, these names)
+WELLBEING:  Perspective with commitment (not detachment; you come back down and stay present)
+
+SOURCE BEATS (all must survive compression):
+  Promise   [EK]   — "the Sage is not the one who sees farthest, but who sees the whole board
+                      without making it a hiding place"
+  Diagnosis [Egan] — the exile (village hears seeing as leaving) + the distortion (naming without
+                      choosing; perspective as a place to stand ABOVE the room)
+  Tool      [ILP]  — See/Switch/Serve/Release/Return, taught at two speeds:
+                      full 9-step (S5) + the 4-question simpler version (S5)
+  Examples  [10K]  — the strategy-vs-power room; the harmony-game room; the overexplain/rescue list
+  Practice  [Egan] — "Try this with one real situation" (S5) + BAR-style capture
+  Safety    [EK]   — *** CURRENTLY THIN. Only the half-line "if someone is in immediate danger,
+                      act." NEEDS a real objection beat: "when seeing becomes stalling / when the
+                      high view is avoidance / inner work is not a delay tactic." ***
+  Handoff   [10K]  — recap (what Sage gives / does not give) -> Player ("what am I building now?")
+
+LOCKED TERMS: "See -> Switch -> Serve -> Release -> Return"; "perspective with commitment";
+              "Trauma Olympics"; "Captain Save-a-Kid"; "Dragging horses to water";
+              "the Sage in distortion" (NOT "shadow Sage" — WB-10); "Effective Allyship Formula"
+LINEAGE:      Wilber (integral/Teal stage) [^wilber]; Laloux (Teal orgs) [^laloux]
+              — credit inline/footnote, Spiral COLOR labels stay submerged (WB-9)
+DEEP-LAYER HOME: five-mode alchemy expansion, full forest/gate walk, Face-by-Face developmental
+              map -> Appendix / deck cards (the chapter's DEMOTED list already itemizes these)
+DO-NOT-DRIFT: (1) keep "altitude" submerged — generic "high view" OK, no Spiral ladder/colors.
+              (2) Safety beat is the known gap — do not let the next pass "clean it up" into nothing;
+                  it needs MORE, not less.
+==================================================================== -->
+
 # CHAPTER 7: THE SAGE
 ## *Mastery Is Knowing Which Game You're Playing and Being Able to Put It Down*
 
