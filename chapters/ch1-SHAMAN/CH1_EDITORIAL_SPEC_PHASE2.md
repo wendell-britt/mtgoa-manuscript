@@ -1,8 +1,8 @@
 # CH1 Editorial Spec — Phase 2 Review
 **Chapter:** Chapter 1: The Forest
 **Reviewer:** Agent (hostile editorial read)
-**Status:** OPEN — pending Wendell review
-**Last updated:** 2026-05-22
+**Status:** PARTIAL — small cleanup applied 2026-06-03; larger gate compression still open
+**Last updated:** 2026-06-03
 
 ---
 
@@ -13,6 +13,7 @@ These were mechanical/cutting issues — reverted to May 21 draft, which was cle
 | Change | Rationale |
 |--------|-----------|
 | Reverted CHAPTER1_FULL_DRAFT.md to May 21 draft | Phase 2 cuts were made without approval protocol; reverted pending spec review |
+| 2026-06-03 small cleanup | Removed lingering Q6 jargon, replaced Section 8 altitude subtitle, and tightened Section 11 recap opening in manuscript export + Book OS canon |
 
 **Result:** CHAPTER1_FULL_DRAFT.md is now identical to DRAFT_CHAPTER1_SHAMAN_2026-05-21.md.
 
@@ -29,6 +30,8 @@ Each proposal below:
 ---
 
 ### PROPOSAL 1 — G6: Remove "Q6" oracle reference
+**Resolution 2026-06-03:** ✅ Applied. Replaced Q6/method language with reader-facing Controller language in both manuscript export and Book OS canon.
+
 **Location:** Gate 6 Deep Dive: Victim, line ~364
 **Severity:** ⚠️ moderate
 **Type:** Terminology / reader clarity
@@ -185,6 +188,8 @@ Each proposal below:
 ---
 
 ### PROPOSAL 9 — Section 8 "Altitude": Word choice decision
+**Resolution 2026-06-03:** ✅ Applied. Replaced subtitle `Five Moves for Chapter 1 Altitude` with `Five Moves for the Threshold` in both manuscript export and Book OS canon.
+
 **Location:** Section 8, near "What altitude are you holding this from?"
 **Severity:** ⚠️ minor
 **Type:** Vocabulary / audience tuning

@@ -109,7 +109,7 @@ This is not naive optimism — it is a discipline of extending the same hypothes
 
 The Bridge-Builder's Control challenge is a depletion pattern: the person who over-bridges, who connects past their capacity, who treats every bridge as urgent and every connection as required. The Neutral Channel pattern is **untracked depletion**: you bridge and bridge and never notice how much it costs until you are empty.
 
-The Control move: build the bridge → check the fuel gauge before crossing. *Do I have capacity for this contact? Am I bridging because the field needs me, or because I can't say no to the request?* This is a structural fix, not an emotional one. The capacity cost of bridging is real — the Control move is to name it so it can be managed.
+The Control move: build the bridge → check the fuel gauge before crossing. *Do I have capacity for this contact? Am I bridging because the field needs me, or because I can't say no to the request?* This is a structural fix, not an emotional one. Bridging has a real cost, and the Control move is to name that cost before warmth turns into depletion.
 
 **Control 2 — Performative Presence**
 
@@ -169,7 +169,7 @@ The Neutral Channel pattern here is **intellectual superiority** — the behavio
 
 **The structure of the Interpreter's Discipline:** You build a practice of checking your interpretation against the source. You develop a method: after translating, you return to the original speaker and ask — "did I get this right?" Not as performance, but as genuine correction. The superiority pattern dissolves into a discipline that actually improves your translations. The charge that was contaminating your work becomes the structure that makes your work trustworthy.
 
-This is a costly move: the containment structure requires more effort, and it is worth it when accuracy matters.
+The price here is precision: the containment structure takes extra effort, and it is worth it when accuracy matters.
 
 ---
 
@@ -211,7 +211,7 @@ The Neutral Channel pattern here is **presence collapse** — the behavioral pat
 
 **The structure of the Precedent of Presence:** You establish, in advance, a commitment to remaining in the field when it becomes charged. Not because you have to — because you have decided. The commitment is the structure. You tell the field in advance: *I don't leave when it gets hard. That is not a rule — it is a practice.* The collapse pattern dissolves into a personal precedent that the field can depend on. You have made yourself a reliable structure because you decided in advance, before the charge arrived.
 
-This is a costly move: choosing to stay in a charged field spends real capacity, and that cost has to be named.
+Staying spends real capacity. Naming that cost is part of the holding, because unnamed depletion eventually becomes disappearance.
 
 ---
 
@@ -253,7 +253,7 @@ The Neutral Channel pattern here is **premature closure** — the behavioral pat
 
 **The structure of the Three-Part Repair:** You build a practice of repair that does not skip: (1) **Witness** — the full accounting of what happened, without defense or justification. (2) **Impact** — the honest naming of what the rupture cost, for both parties. (3) **Agreement** — what each person commits to doing differently, not as a performance of remorse but as a genuine change in behavior. The premature closure pattern dissolves into a structure that actually allows the wound to heal before it is closed.
 
-This is a costly move: real repair takes longer than performance repair, and the price is worth it.
+The cost here is time. Real repair takes longer than performance repair, and that slower pace is what makes the repair trustworthy.
 
 ---
 
@@ -299,7 +299,7 @@ The Neutral Channel pattern here is **endless process** — the behavioral habit
 
 **The structure of the Stake-Surfacing Close:** You build a practice that does not skip: (1) **Protect** — what is each party afraid of losing? Name the interest, not the slogan. (2) **Require** — what must the agreement hold for staying to remain real? Name it for the field, not just for yourself. (3) **Commit** — what are we agreeing to, specifically, before we leave this room? The endless process pattern dissolves into a structure that honors inclusion *and* produces movement.
 
-This is a costly move: closing takes more courage than extending. The field will push for one more round. The Integrative Negotiator knows when the round has become avoidance.
+The hard part is the close: it takes more courage than extending. The field will push for one more round. The Integrative Negotiator knows when the round has become avoidance.
 
 **Control — Neutral Channel: False Closure Pattern**
 
@@ -309,7 +309,7 @@ This is where **Refuse False Equivalence** lives inside the Fire channel — not
 
 **The structure of the Discernment Check:** Before you close, ask: *Can I paraphrase each party's interest accurately enough that its strongest advocate would recognize it? And do the terms we're proposing actually address those interests — or are we papering over a gap?* False closure dissolves into a close you can stand behind.
 
-This is a costly move: discernment in the close costs more than comfortable vagueness. It is worth it when the agreement has to hold.
+Discernment at the close asks more than comfortable vagueness. It is worth it when the agreement has to hold.
 
 ---
 

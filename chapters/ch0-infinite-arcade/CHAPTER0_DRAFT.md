@@ -350,7 +350,7 @@ But there is a deeper answer, and it is this: a game calibrates the relationship
 
 The six faces are not characters in the village. They are capacities in you.
 
-The developmental architecture underneath the Six Faces is Ken Wilber's. His *Integral Life Practice* — written with Terry Patten, Adam Leonard, and Marco Morelli — maps how human capacity develops through what he calls altitudes: Red, Amber, Orange, Green, Teal. Each altitude doesn't replace the ones before it; it transcends and includes them. The Shaman doesn't disappear when you develop the Challenger. The Diplomat doesn't erase the Regent. You become more of what you already are, with more range from which to use it. The Six Faces in this book are Wilber's altitudes applied specifically to allyship practice.
+The developmental architecture underneath the Six Faces is Ken Wilber's. His *Integral Life Practice* — written with Terry Patten, Adam Leonard, and Marco Morelli — maps how human capacity develops through what he calls altitudes: Red, Amber, Orange, Green, Teal. Each altitude doesn't replace the ones before it; it includes them and carries them forward. The Shaman doesn't disappear when you develop the Challenger. The Diplomat doesn't erase the Regent. You become more of what you already are, with more range from which to use it. The Six Faces in this book are Wilber's altitudes applied specifically to allyship practice.
 
 You have felt with the Shaman — the body-knowing before the mind-knows. The tightening that was a warning. The warmth that was an invitation. The grief that was the truth before you had language for it.
 
