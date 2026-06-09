@@ -22,6 +22,7 @@ Key doctrine:
 
 Reference memo:
 
+- `editorial_reports/2026-06-09/CHAPTER_BY_CHAPTER_SIMPLIFICATION_BRIEF_2026-06-09.md`
 - `editorial_reports/2026-06-06/BOOK_PROMISE_AND_CH7_COMPRESSION_PLAN_2026-06-06.md`
 - `editorial_reports/2026-06-06/BOOK_STRUCTURE_AND_FUNNEL_AUDIT_2026-06-06.md`
 - `editorial_reports/2026-06-06/BOOK_STRUCTURE_COMPARISON_AND_SIMPLIFICATION_2026-06-06.md`
@@ -46,6 +47,7 @@ Working decision:
 
 Next editorial action:
 
+- use the chapter-by-chapter simplification brief as the active pass guide for the final simplification round
 - draft a Chapter 7 condensation spec that maps each remaining section back to the core allyship promise
 - use the local source corpus as the chapter-structure model set
 - simplify each chapter to a promise -> diagnosis -> teaching -> example -> practice -> summary rhythm where possible
