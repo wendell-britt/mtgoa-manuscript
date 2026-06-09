@@ -23,6 +23,7 @@ Key doctrine:
 Reference memo:
 
 - `editorial_reports/2026-06-09/REVERSE_OUTLINE_REBUILD_PROTOCOL_2026-06-09.md`
+- `editorial_reports/2026-06-09/CH0_REVERSE_OUTLINE_REBUILD_2026-06-09.md`
 - `editorial_reports/2026-06-09/CHAPTER_BY_CHAPTER_SIMPLIFICATION_BRIEF_2026-06-09.md`
 - `editorial_reports/2026-06-09/CH7_CUT_LIST_AND_REWRITE_MAP_2026-06-09.md`
 - `editorial_reports/2026-06-09/CH7_SECTION_BY_SECTION_REWRITE_PLAN_2026-06-09.md`
@@ -50,6 +51,7 @@ Working decision:
 
 Next editorial action:
 
+- use the Ch0 reverse outline rebuild as the model for the rest of the front matter reverse outline set
 - build paragraph-level reverse outlines from the Inkwell baseline before changing more prose
 - rebuild sections from those outlines, not from live simplification alone
 - use the chapter-by-chapter simplification brief as the active pass guide for the final simplification round
