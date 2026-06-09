@@ -24,6 +24,7 @@ Reference memo:
 
 - `editorial_reports/2026-06-09/CHAPTER_BY_CHAPTER_SIMPLIFICATION_BRIEF_2026-06-09.md`
 - `editorial_reports/2026-06-09/CH7_CUT_LIST_AND_REWRITE_MAP_2026-06-09.md`
+- `editorial_reports/2026-06-09/CH7_SECTION_BY_SECTION_REWRITE_PLAN_2026-06-09.md`
 - `editorial_reports/2026-06-06/BOOK_PROMISE_AND_CH7_COMPRESSION_PLAN_2026-06-06.md`
 - `editorial_reports/2026-06-06/BOOK_STRUCTURE_AND_FUNNEL_AUDIT_2026-06-06.md`
 - `editorial_reports/2026-06-06/BOOK_STRUCTURE_COMPARISON_AND_SIMPLIFICATION_2026-06-06.md`
@@ -50,6 +51,7 @@ Next editorial action:
 
 - use the chapter-by-chapter simplification brief as the active pass guide for the final simplification round
 - use the Ch7 cut list and rewrite map as the immediate editing guide for the Sage chapter
+- use the Ch7 section-by-section rewrite plan as the line-level guide for the Sage chapter
 - draft a Chapter 7 condensation spec that maps each remaining section back to the core allyship promise
 - use the local source corpus as the chapter-structure model set
 - simplify each chapter to a promise -> diagnosis -> teaching -> example -> practice -> summary rhythm where possible
