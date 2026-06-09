@@ -9,6 +9,17 @@
 
 First-round editorial feedback says the manuscript is doing too much at once. The next pass is now about simplifying the promise, tightening the sellable core, and reducing Chapter 7 to its key allyship milestones.
 
+Current north star:
+
+**Mastering the Game of Allyship helps people who want to show up more effectively as allies learn why allyship keeps failing, see the game underneath the term, and use the Effective Allyship Formula to build real-world relationships, reduce harm, and create the trust that leads naturally into bars-engine and coaching.**
+
+Key doctrine:
+
+- allyship is relational, consent-based, and trust-earned
+- you can support a movement, but you ally with people
+- each chapter should teach one idea, one tool, and one real-world test
+- the book should feel like a concise transformation path, not a comprehensive textbook
+
 Reference memo:
 
 - `editorial_reports/2026-06-06/BOOK_PROMISE_AND_CH7_COMPRESSION_PLAN_2026-06-06.md`
@@ -23,6 +34,7 @@ Reference memo:
 - `editorial_reports/2026-06-06/CH7_SIMPLIFIED_DRAFT_2026-06-06.md`
 - `editorial_reports/2026-06-06/MTGOA_CHAPTER_JOURNEY_MATRIX_2026-06-06.md`
 - `editorial_reports/2026-06-06/MTGOA_ALLYSHIP_WELLBEING_AND_FIVE_JOURNEYS_2026-06-06.md`
+- `editorial_reports/2026-06-09/BARS_ENGINE_BOOK_COLLISION_SURFACE_MAP_2026-06-09.md`
 
 Working decision:
 
@@ -30,6 +42,7 @@ Working decision:
 - keep the distortion/exile explanation and personal stories
 - compress the long Sage/forest altitude journey into a shorter allyship-focused arc
 - add a plain-language allyship definition near the front of the book
+- keep bars-engine collision surfaces visible so the manuscript can hand off cleanly into deck and coaching products
 
 Next editorial action:
 
