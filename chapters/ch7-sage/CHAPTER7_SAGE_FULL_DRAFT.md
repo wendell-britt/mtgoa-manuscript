@@ -158,7 +158,7 @@ The Sage sees the whole thing. And that's not a contradiction—it's the whole p
 
 Mastery is knowing which game you're playing and being able to put it down.
 
-Not detachment. Not escape. Not the guru on the mountain who has risen above it all. The Sage's gift is *committed seeing*: the capacity to see all the altitudes—the Red and the Orange and the Green and the Teal—and still choose to stand somewhere. To play the game the moment requires, without mistaking it for the only game there is. To know when to draw the line and when to step back. To see the whole map and still walk your piece of it.
+Not detachment. Not escape. Not the guru on the mountain who has risen above it all. The Sage's gift is *committed seeing*: the capacity to see all the games—the power game, the strategy game, the harmony game, the whole-board view—and still choose to stand somewhere. To play the game the moment requires, without mistaking it for the only game there is. To know when to draw the line and when to step back. To see the whole map and still walk your piece of it.
 
 The Sage is what happens when you've been all the other Faces long enough that you can see them from the outside. You've felt with the Shaman. You've drawn lines with the Challenger. You've carried forward with the Regent. You've built with the Architect. You've held the field with the Diplomat. And at each step, you were also watching: *Which game am I in? Which one does this moment actually require?*
 
