@@ -11,6 +11,8 @@ The fix is not to abandon simplification. The fix is to rebuild from the last go
 - how much room each idea needs
 - how the source books pace and stage their teaching
 - how the style guide expects the prose to feel
+- how each chapter carries the reader through an epiphany bridge
+- how the manuscript and the app character sheet reinforce each other
 
 This protocol defines the rebuild workflow.
 
@@ -57,6 +59,7 @@ It means the chapter should have a clear center of gravity, and the prose should
 2. Do not edit the source chapter directly until the reverse outline exists.
 3. Record the current line count and approximate word count for each chapter.
 4. Record the current section and paragraph breaks.
+5. Record the current chapter epiphany bridge step.
 
 ### Phase 2: Build the reverse outline
 
@@ -71,6 +74,8 @@ For each chapter, create a detailed reverse outline that captures:
 - target word count band
 - keep / cut / move / expand notes
 - voice / style notes
+- epiphany bridge step
+- app character-sheet relevance
 
 #### Reverse outline template
 
@@ -78,6 +83,11 @@ Use one row per paragraph or paragraph-cluster.
 
 | Chapter | Section | Para ID | What it does | Reader question answered | Emotional job | Source pattern analog | Target word band | Keep / cut / move | Voice notes |
 |---|---|---|---|---|---|---|---|---|---|
+
+The reverse outline should also capture, for each row:
+
+- source pacing / voice technique
+- what part of the reader's epiphany bridge it serves
 
 The outline should preserve:
 
@@ -114,6 +124,7 @@ The question is:
 - does this still sound like MTGOA?
 - does the section still carry its emotional and pedagogical weight?
 - is the prose rich enough to hold the idea without overexplaining it?
+- does the section move the reader along the chapter's epiphany bridge?
 
 ### Phase 5: Acceptance and revision
 
@@ -122,6 +133,7 @@ Each section should only move forward once it passes three checks:
 1. **Structure check** — does it do the job it is supposed to do?
 2. **Voice check** — does it still sound like the book?
 3. **Pacing check** — does it give the reader enough room to metabolize the idea?
+4. **Epiphany bridge check** — does it move the reader through the chapter's intended realization?
 
 If a section fails any one of those checks, revise the section before moving on.
 
@@ -151,6 +163,7 @@ It compares the rebuild against:
 - the source corpus pacing
 - the style guide
 - the chapter job
+- the chapter epiphany bridge
 
 ## What the reverse outline must preserve
 
@@ -161,6 +174,8 @@ For each paragraph or paragraph-cluster, preserve:
 - the story / example / explanation function
 - the handoff to the next paragraph
 - the approximate amount of room the idea needs
+- the realization step the paragraph is serving
+- the app handoff, if the paragraph feeds the live character sheet
 
 ## What the reverse outline may change
 
@@ -201,6 +216,55 @@ For each chapter in the rebuild queue, produce:
 2. A section-level rebuild draft.
 3. A comparison note explaining what was restored, compressed, or moved.
 4. A final voice/style check note.
+5. A chapter epiphany bridge note.
+6. An app character-sheet mapping note when the chapter feeds the live sheet.
+
+## Required reverse-outline fields
+
+Each row in the reverse outline must include:
+
+- chapter
+- section
+- paragraph ID or paragraph range
+- what it does
+- reader question answered
+- emotional job
+- source-book structure analog
+- source-book pacing / voice technique
+- target word band
+- keep / cut / move / expand note
+- voice notes
+- epiphany bridge step
+- app character-sheet relevance
+
+## Required chapter epiphany bridge fields
+
+Each chapter must specify:
+
+- the reader's starting belief or state
+- the destabilizing insight
+- the central realization
+- the new capability or action
+- the handoff to the next chapter
+
+## App character-sheet surface
+
+The app should have a live "Build Your Allyship Character" page that the reader can fill out while working through the book.
+
+The chapter material should feed that page when relevant.
+
+Suggested fields:
+
+- superpower
+- who needs it
+- consent / trust status
+- current distortion
+- current room or relationship
+- current chapter
+- next move
+- BAR to capture
+- ticket / payout note
+- ally persona warning, if relevant
 
 ## Success criteria
 
@@ -212,4 +276,5 @@ The rebuild is working when:
 - the Effective Allyship Formula still reads as the spine
 - the style guide no longer feels ignored
 - each section can be edited without making the whole chapter collapse
-
+- each chapter's epiphany bridge is explicit and reproducible
+- the app character sheet and the manuscript feel like one system

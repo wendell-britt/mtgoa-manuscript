@@ -51,6 +51,8 @@ Working decision:
 
 Next editorial action:
 
+- define the chapter epiphany bridge for each chapter before any prose rebuild
+- define the app character-sheet surface so the book and app share the same live reader artifact
 - use the Ch0 reverse outline rebuild as the model for the rest of the front matter reverse outline set
 - build paragraph-level reverse outlines from the Inkwell baseline before changing more prose
 - rebuild sections from those outlines, not from live simplification alone
