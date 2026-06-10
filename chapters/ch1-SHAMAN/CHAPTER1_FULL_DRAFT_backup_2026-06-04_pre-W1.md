@@ -64,7 +64,7 @@ The old allyship produces moments of brilliance and long stretches of exhaustion
 
 *Somewhere in you is the memory of the moment you realized the map was wrong. Not wrong about the destination, wrong about where you had to start. You had been walking in the wrong direction. Not because you were careless. Because no one told you there was a different starting point. By the time you figured it out, you had already spent something you can't get back. Energy. Time. Maybe a relationship. Maybe your belief that you could be the kind of ally you wanted to be.*
 
-*That cost is still there. The map was wrong, and following it pointed you the long way around what you were trying to serve. You are farther from the work than you were when you started. You are also closer to it than you have ever been — the distance is the compass reading that says you have been moving all along.*
+*That cost is still there. You've been carrying it. Some of the exhaustion you've been calling burnout is actually grief: the grief of having done your best with a broken map. The grief of loving the work and having it not be enough. The grief of showing up and not being enough. Not because you failed. Because the terms were set wrong from the beginning.*
 
 *That grief is not a weakness. It's information.*
 
@@ -147,11 +147,9 @@ Were you doing this to change something, or to seem like the kind of person who 
 
 That question is not an indictment. It's a starting point.
 
-The meeting where the room went cold. Your body knew exactly what was happening — had known before anyone spoke — and you deferred to the consensus. Not because you lacked the capacity. Because somewhere along the way you were taught — by trainings, by rooms, by people who meant well — that the body-read wasn't yours to claim unless you could prove a lineage. You couldn't. The deferral looked like humility, but you felt it in your shoulders. You built the literacy and didn't use the read.
+The meeting where the room went cold. Your body knew exactly what was happening — had known before anyone spoke — and you deferred to the consensus. Not because you lacked the capacity. Because body knowing, in your framework, belongs to people closer to their roots. Claiming it felt like appropriation. So you built the literacy and didn't use the read.
 
 The body that knew was not appropriating anything. It was yours. The Shaman's first move is available to you. The question this chapter is asking is whether you'll stop treating your own somatic intelligence as something that belongs to someone else.
-
-If that last paragraph made you flinch, good. I wrote it three times and the third version still made me wince. I left it in. The Forest doesn't ask you to be comfortable — it asks you to be honest about what you can feel. The flinching is part of the work. So is the wince. We'll be doing a lot of both in the pages ahead.
 
 The problem is not that you wanted to be good. The problem is that trying to seem good takes the whole body. There's nothing left over. The face you're holding in place and the face underneath it are running simultaneously, and that split is where the exhaustion actually lives.
 
@@ -777,10 +775,6 @@ That's the whole action. One read, said out loud, to one person who doesn't alre
 Here is what you're actually doing, underneath the instruction. The part of you that reads a room — that knew the meeting had gone cold before anyone spoke — has been living in exile. You sent it away because claiming it felt like taking something that wasn't yours. So it reads, and reads, and never gets to speak. Saying it out loud is not a technique. It's how that part comes home: it finds out it's allowed in the room.
 
 (If naming it out loud feels like claiming something that isn't yours — that's the exile talking. Say it anyway. The body that did the reading was yours the whole time.)
-
-Here is the test, applied to this specific move. Reading one: naming what your body is doing starts a move — it gives the felt sense a witness, and the witness becomes a kind of ground you can stand on. Reading two: naming it is a sophisticated form of staying seen without being known — you perform the noticing, the other person nods, and nothing actually changes. The test is the same one Chapter 0 named: did the seeing start a move, or did it end one? If the person you named it to asks you one follow-up question and you answer it honestly, reading one. If the conversation moves on, reading two. Both count, but only the first one is the practice.
-
-I built the Forest chapter for two years before I named any of what my body was doing to another person. I wrote about it beautifully. I cried about it alone. I built an entire book on the felt sense without ever once saying to a friend: my chest is doing the thing right now. The book is true. The two years were also a kind of hiding. You don't have to spend two years the way I did. Forty-eight hours is enough. The point is not that you did it well. The point is that you did it and someone heard you and the world didn't end.
 
 *You said it out loud. Before the moment closes — what you noticed, who you said it to, what shifted after. Open the app. Two minutes. The read becomes a move, and the part that reads comes a little further home. → app*
 
