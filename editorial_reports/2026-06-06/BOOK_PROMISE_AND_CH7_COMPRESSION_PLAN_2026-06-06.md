@@ -15,6 +15,10 @@ The working conclusion is not that the book is wrong. It is that the book is try
 
 **Mastering the Game of Allyship helps readers understand why current allyship keeps failing, how to see the game underneath the term, and how to keep playing long enough to make real change.**
 
+## Locked promise
+
+**Mastering the Game of Allyship helps people who want to show up more effectively as allies learn why allyship keeps failing, see the game underneath the term, and use the Effective Allyship Formula to build real-world relationships, reduce harm, and create the trust that leads naturally into bars-engine and coaching.**
+
 This promise is intentionally narrower than the full manuscript.
 
 It does not promise:
@@ -27,9 +31,13 @@ It does not promise:
 It does promise:
 
 - a usable frame for why allyship is murky
+- a clear answer to who allyship is actually for
+- a relational definition that makes consent and trust non-negotiable
 - a way to recognize distortion and exile
 - a practical allyship formula readers can return to
 - enough clarity to make readers want more, not less
+- a bridge from insight into the app and coaching work
+- a clear handoff into the bars-engine / deck-product / BAR loop
 
 ## What the book should keep
 
@@ -121,7 +129,7 @@ The book should stop assuming readers already mean the same thing by allyship.
 
 Working definition direction:
 
-**Allyship is the practice of using your power, perspective, and relationships to reduce harm, increase agency, and help people move through a problem you can actually help solve.**
+**Allyship is the practice of increasing another person's felt sense of well-being, agency, and safety in the form that matters here, in a sustainable way, with their consent, through relationship.**
 
 That definition should be:
 
@@ -130,6 +138,9 @@ That definition should be:
 - usable
 - broad enough to cover multiple justice contexts
 - narrow enough to exclude performative self-congratulation
+- explicit that you can support a movement, but you ally with people
+- explicit that allyship is earned, not claimed
+- explicit that ally persona is the false version of the role
 
 ## Revised editorial principle
 
@@ -148,6 +159,7 @@ Its job is to:
 2. Add a short **allyship terminology clarification** note near the front of the book.
 3. Review the other chapters for any sections that are carrying Chapter 7-level conceptual density.
 4. Cut or relocate any material that is better served as a follow-on book, appendix, or coaching expansion.
+5. Keep the bars-engine collision surfaces visible so the manuscript, deck, and coaching path stay aligned.
 
 ## Required context for agents
 

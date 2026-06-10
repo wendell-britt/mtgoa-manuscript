@@ -33,6 +33,10 @@ The book in your hands came from the bottom of that well. Not from the spite. No
 
 The Sage isn't the person who sees furthest. It's the person who looked at himself long enough to stop performing the view.
 
+The thesis of this chapter is simple: the Sage is not the person who sees the farthest, but the person who can see the whole board without turning that view into a hiding place. This applies when your allyship has become fluent enough to risk becoming performance, superiority, or escape. If a room needs a line right now, draw the line. If someone is in immediate danger, act. Inner work is not a delay tactic; it is the thing that keeps your action clean enough to keep using tomorrow.
+
+That is the limit case, too: when harm is happening in front of you, do not sit there polishing your interiority. Draw the line, call the help, interrupt the damage, and let the inner work make the response cleaner rather than slower.
+
 ---
 
 ## Section 1: The Exile
@@ -100,6 +104,8 @@ The second reading puts the gap inside you.
 
 You'll know which one is yours. The chapter keeps going either way.
 
+Let's be precise about the terms so they don't blur together. Shadow is the move that stays hidden because exposure feels too expensive. Example: you know the line, but you stay quiet so nobody can call you difficult. Distortion is the gift turned sideways. Example: you can name the room perfectly, but you use that naming to stay above the room. Cost is the bill that follows. Example: the room starts calling you insightful while no one feels helped.
+
 ---
 
 ## Section 2: The Distortion
@@ -118,6 +124,8 @@ This is what the village does without the Sage: it plays all the games at once, 
 And a Sage in distortion emerged. Not the real Sage — the village's version of the Sage. The person who sees everything and commits to nothing. Who can name every game but won't choose one. Who has enough perspective to explain why none of it matters, but not enough commitment to be useful. Who mistakes seeing for wisdom, and wisdom for the ability to opt out.
 
 The Sage in distortion is what happens when the village keeps the Sage's vocabulary without the Sage's practice. The village learned to say *I see all the games* without learning what it costs to hold that view while still choosing to be present. The village learned to name the games people were playing without realizing it was also playing games. The village learned to *describe* perspective without *practicing* it.
+
+Big Mind gives this chapter its gate structure. Shamanic training gives it the body-first reading and the return to felt sense. The Faces framework gives it the developmental map so the language doesn't collapse into one personality theory pretending to be five.
 
 This is the Sage in distortion's trap: seeing becomes a way to avoid being in the game. You can name every game, which means you never have to commit to any of them. You can diagnose everyone's stuckness, which means you never have to look at your own. You can see the whole board, which means you never have to play a piece of it. Perspective without commitment. Vision without embodiment. The guru on the mountain — not because the guru chose the mountain, but because the mountain is safer than the room.
 
@@ -165,6 +173,8 @@ The Sage is what happens when you've been all the other Faces long enough that y
 That's the Sage. Not a new game above the others. A *meta-view* of all the games—a capacity to see the whole system and choose where to stand inside it.
 
 Embodied panoramic vision. The capacity to see all the games and still choose to stand somewhere.
+
+Big Mind gives the gate names. Shamanic training gives the body-reading and the return to felt sense. The Faces framework gives the developmental arc. You do not need to convert to any one tradition to use the chapter; you just need to keep the maps from collapsing into one another.
 
 This is the Vulnerable Child's gift, held all the way up. The child who wanted to be in the game AND see the game. Who wanted to belong AND see. Who refused to choose between presence and perspective.
 
@@ -340,7 +350,7 @@ Laloux names something he calls *evolutionary purpose*[^laloux]: once you can se
 ---
 
 
-*This section applies the WAVE-Spiral to the Sage's specific terrain. The walk through the 8 gates is the WAVE-Spiral running from the whole-board view — not Wake/Clean/Grow/Show Up in sequence, but a recursive circuit of the same 8 gates the Sage encounters every time they go up to the view and try to come back down with something useful.*
+*This section applies the WAVE-Spiral to the Sage's specific terrain. Chapter 2 teaches the first practice of feeling the body before the story takes over; Chapter 7 teaches what to do when the view gets big enough to become a place you might hide. The gates below are the ones that most often block public allyship before it ever reaches the room: Protector keeps you quiet, Controller keeps you over-managed, Skeptic keeps you doubting, and Victim keeps the wound centered. The later gates matter too, but these are the usual jams. If you want the first practice, go back to Chapter 2. If you want the map for when your practice starts making you too good at watching from a distance, keep reading here.*
 
 ---
 
@@ -542,6 +552,8 @@ The naming doesn't solve it. It just makes it possible to choose what to do next
 
 The shadow version: you name the game and then feel superior about knowing it. Or you name it and then lecture everyone about it. *This is a power-game room* said with the energy of a diagnosis is service. Said with the energy of *I see what you can't* is shadow. The practice is the first. The test: do people relax when you name it, or do they tense up? Relaxing is service. Tensing is shadow.
 
+Do not use this move to stay in your own head while the room needs a line, a decision, or an apology. Do not use it to explain why you are above the mess while everyone else is still inside it. If the naming only makes you harder to reach, the Sage in distortion has already started driving.
+
 ---
 
 **Move 2: Switch Games Deliberately**
@@ -559,6 +571,8 @@ The switch is the Sage's most deliberate move. It requires knowing all six games
 This is what Chou means by playing the right game. In *10,000 Hours of Play*, he describes the experienced player as the one who knows when to be serious and when to be playful, when to push and when to yield, when to stay and when to leave — not from default but from choice. The Sage is that experienced player. Not because they've transcended the lower games but because they've been all of them enough that they can choose.
 
 The shadow version: switching becomes inconsistency. The Sage who can't hold a game long enough to be useful — who keeps switching before anything has a chance to resolve — is not practicing the Game-Switcher. They're just uncomfortable with commitment. The test: when you switch, does the room stabilize in the new game, or does it keep asking you to go somewhere else? Stabilizing is the practice. Being pulled in three directions is the shadow.
+
+I've seen this at the coalition level too: a planning team keeps trying to process a power-game harm as if it were a strategy problem, until someone names the actual line and the room can breathe again. Once the game is named correctly, the meeting stops thrashing.
 
 ---
 
@@ -586,6 +600,8 @@ This is what the WAVE-Spiral's Release stage actually asks of you. Not ascent �
 
 The shadow version: putting down becomes giving up. The Sage who can't hold anything — who keeps dropping games before they've given what they have to give — is not practicing the Liberator. They're practicing avoidance. The test: can you name what the game taught you before you put it down? If you can't, the game was never really yours. If you can, and you put it down anyway — that's the practice.
 
+Do not call it maturity when you simply got tired of being accountable. Do not call it freedom when what you really did was leave a room before the repair.
+
 ---
 
 **Move 5: Hold the Meta Without Losing the Ground**
@@ -601,6 +617,31 @@ That's mastery. That's the Sage.
 Not instead of choosing — *along with* choosing. Not instead of being in the game — *while* being in it. Holding the meta is not the same as standing outside it. It's the capacity to hold the view and still do the thing the view is for. To see clearly and act anyway. To know which game you're in and play it.
 
 The shadow version: holding the meta without the ground. The Sage who can see everything and commit to nothing. Who has the view but not the practice. Who is always above the game, never in it. The real Sage is in the game. The real Sage has skin in it. The real Sage draws the line, holds the field, builds the thing, stays in the room — and knows what game they're doing it from. That's the whole thing. That's the practice.
+
+Do not use the meta-view to make yourself unaccountable. If your clarity only keeps you harder to pin down, it is not wisdom yet; it is avoidance with better vocabulary.
+
+---
+
+## Quick Reference
+
+### The Eight Gates
+
+- Protector: what gets kept safe by silence
+- Controller: what standard gets enforced
+- Skeptic: what gets doubted
+- Fixer: what gets held in place or repaired
+- Fear: what damage feels survivable
+- Victim: what story gets sympathy
+- Damaged Self: what still feels like a defect
+- Vulnerable Child: what gift wants both presence and perspective
+
+### The Five Moves
+
+- Name the Game
+- Switch Games Deliberately
+- Return Without Condescension
+- Put a Game Down
+- Hold the Meta Without Losing the Ground
 
 ---
 
