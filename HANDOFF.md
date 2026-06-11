@@ -1,5 +1,5 @@
 # MTGOA Handoff Document
-**Last updated:** 2026-06-10
+**Last updated:** 2026-06-11
 **Branch:** `codex/book-eod-draft-2026-06-09`
 **Repo:** `https://github.com/wendell-britt/mtgoa-manuscript`
 
@@ -17,7 +17,24 @@ Read `MTGOA_EDITORIAL_MASTER_v4_2026-06-10.md` at the repo root. It is the autho
 
 **Working files:** `/home/claude/ch[n]_working.md` — these are session-scoped and may not persist. The repo versions are canonical.
 
-**Appendix G:** `appendices/APPENDIX_G_BELIEF_TO_SUPERPOWER_MAP.md` — the belief→superpower mapping table. Referenced in Ch2.
+**Appendix G:** `appendices/APPENDIX_G_BELIEF_TO_SUPERPOWER_MAP.md` — the belief→superpower mapping table. Referenced in Ch2. **Governs the six capacities** used by the class decks.
+
+**Class decks (game/deliver side):** `decks/class-decks/` — the six superpower classes as draftable card pools (Strategist, Connector, Storyteller, Alchemist, Disruptor, Escape Artist), converted from the old lead-gen strategy guides into the manuscript/deck voice, de-funneled, re-rooted as defensive strategies. Each has the five-component template + the 36 belief-moves (campaign engine). See `decks/class-decks/README.md`.
+
+---
+
+## Deck architecture (added 2026-06-11)
+
+The full spec is in the master under **"DECK ARCHITECTURE — Class/subclass, the six decks, and the deck-builder frame."** In brief: the game is a deck builder; the book is the on-ramp (metric: time-to-first-custom-deck); the character sheet IS the starting deck. **Class** = superpower archetype = the defensive strategy the Protector built (found Ch1). **Subclass** = the belief beneath it (surfaced Ch2). Six capacities per Appendix G. Five EA channels universal (sadness → **poignance**, not flow). Map → game → guide tiering.
+
+**Pending book-side touches (next manuscript work, not yet done):**
+1. Ch1 — class-found section (six defensive strategies) + appendix pointer + light class thread
+2. Ch2 — reframe: belief *beneath* the class (Controller's governor), not "belief builds the superpower"
+3. Ch5 — cut the archetype-lens table (≈L182–186), the leak
+4. Ch0 — deck-builder framing beat (app = the game, build your deck) + name the sheet as the starting deck
+5. Post-Ch8 — coaching coda (map→game→guide, Kickstarter-anchored)
+6. Vocabulary — unify the decks' "3-2-1" with the book's gate work
+7. Appendix one-pagers per class (components 1 + 4, stripped to card names) — near-mechanical from the decks
 
 ---
 

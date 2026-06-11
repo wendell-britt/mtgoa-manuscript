@@ -34,8 +34,8 @@ The six beliefs: *I'm not ready. I'm not capable. I'm not worthy. I'm not good e
 | Chapter | Sheet entry |
 |---|---|
 | Ch0 | Current game; NPC pattern; chosen self-sabotaging belief (the campaign) |
-| Ch1 | Villager starting position; the Protector strategy you arrived running |
-| Ch2 | Your superpower — traced from your chosen belief (**Formula step 1**) |
+| Ch1 | Villager starting position; the Protector strategy you arrived running — **and the class it built** (your superpower archetype: the defensive strategy grown up) (**Formula step 1, class**) |
+| Ch2 | **Your subclass** — the chosen belief beneath the class: the capacity it builds (Appendix G) and the deck-card it governs (**Formula step 1, subclass**) |
 | Ch3 | Who needs your superpower (**Formula step 2**) |
 | Ch4 | Your real authority — whose satisfaction you've been fighting for; who you now choose |
 | Ch5 | Your values-to-systems map (emotional signals → leverage) |
@@ -305,6 +305,8 @@ Whole-book pass, bundled with Voice Pass 3 (somatic language pass). Flag every i
 ---
 
 # OPEN ITEM — Superpower game and quiz asset
+
+> **RESOLVED 2026-06-11.** The "usable superpower" this item flagged is now built as the six class decks (`decks/class-decks/`) and specified in the *Deck Architecture* section at the end of this doc. The underspec — how the reader deploys her superpower, recognizes it in action, and distinguishes the real capacity from the performed (shadow) behavior — is answered by each deck's basic moves, its belief-moves (the gift vs. the locked shadow, two-sided per belief), and the at-each-Face thread. The quiz remains the app diagnostic that outputs her class + subclass. Original notes retained below for history.
 
 ## The underspec
 The superpower section in Ch2 (D4) correctly identifies that the belief→superpower trace is the chapter's core move, but the superpower itself is underspecified as a *usable* thing. The reader names it, writes it on her sheet, says it out loud — but the chapter doesn't yet give her enough to know how to *deploy* it, recognize it in action, or distinguish it from adjacent capacities. There's a game lurking here that the chapter gestures at but doesn't fully build.
@@ -673,3 +675,66 @@ The Damaged Self gate's emotional register for Ch7 is specifically the fear that
 
 ## Build note for D3 (achievement beat)
 The sheet entry should connect to the EA arc: the game you were playing from spite (or obligation, or the "feel bad to do good" standard), and the game you're designing from mischief (the one that runs on renewable fuel).
+
+---
+
+# DECK ARCHITECTURE — Class/subclass, the six decks, and the deck-builder frame
+
+*Logged 2026-06-11. Consolidates the session's deck decisions into the locked spec. The six class decks are built at `decks/class-decks/`.*
+
+## The frame: the book is the on-ramp to a deck-builder
+
+MTGOA (the game) is a deck builder. Each superpower is a deck. The book's single job, measurable: **time-to-first-custom-deck** — get the reader able to walk into the app and build, as fast as possible. The character sheet she assembles across the book **is** her starting deck: every chapter writes a line (class, belief, target, allies, terms), and every line is a card. The book already runs a deck-build; the language just needs to name it.
+
+Three tiers, three modes (not price points): **book = the map** (understand it, find your class + subclass); **app = the game** (play it, unlock moves at the speed of play); **coaching = a guide** (a person for the part that's hard alone). Map → game → guide.
+
+## Class / subclass
+
+- **CLASS** = the superpower archetype — one of six (Strategist, Connector, Storyteller, Alchemist, Disruptor, Escape Artist). The class is the **defensive strategy the Protector built** — the survival capacity grown up. Found in **Ch1** (Protector / gate 1).
+- **SUBCLASS** = the self-sabotaging belief beneath the class. Surfaced in **Ch2** (Controller / gate 2). The belief is the governor and the flavor.
+- Reader = "a [subclass] [class]" (e.g., a service-precision Connector). The superpower is both, nested — class is the family, subclass is the build. This dissolves the "is my superpower the capacity or the archetype?" confusion: it's both, at two levels.
+- **Gate-anchored ordering:** Protector (gate 1) creates the class; Controller (gate 2) surfaces the belief. So class-before-subclass is *inherited* from the gate sequence, not imposed. Formula step 1 ("identify your superpower") now spans Ch1 (class) + Ch2 (subclass).
+- **The arc:** the class begins defensive + inner (the Protector keeping you safe) and turns offensive + exterior (deployed for others) across the descent — completing at Ch8 where the gate-selves become allies. This *is* the Villager→Player journey, named at the class level.
+- **Resist the 6→6 belief↔class map.** Independent axes: any belief can run under any class. Appendix G's belief→capacity is the subclass axis; the class is a separate axis.
+
+## The six capacities (subclass axis) — Appendix G governs
+
+not ready → preparation mastery · not capable → resourcefulness · not worthy → service precision · not good enough → quality stewardship (excellence as care) · insignificant → amplification · don't belong → belonging-field-reading. **Source of truth:** `appendices/APPENDIX_G_BELIEF_TO_SUPERPOWER_MAP.md`. (Session note: three of these were briefly drafted as "exacting standard / impact / outsider's perspective" before reconciling to Appendix G — G governs.)
+
+## Emotional Alchemy — canonical channels
+
+Five channels, **universal** (everyone metabolizes all five): fear → excitement · anger → triumph · sadness → **poignance** · joy → expansion · neutrality → peace. Each class names a *tendency*, not a lock. The Alchemist is not "master of all elements" — it's the class that moves emotion **for the group** (collective EA). This corrects the old per-archetype element assignments (internally inconsistent across the source guides); "sadness → flow" anywhere is wrong — it is poignance.
+
+## Plant vs deliver
+
+- Book **PLANTS**: names the six classes as defensive strategies (Ch1), surfaces the belief/subclass (Ch2).
+- App **DELIVERS**: the full deck pool; cards unlock at the speed of play.
+- The class deep-dive lives in the **app + an appendix one-pager**, never as a per-chapter section (a per-chapter deep-dive recreates the bloat cut in the rebuild). The only per-chapter touch is a light **thread** = the class's at-each-Face cell: "given your class, the move here is X."
+
+## The class-deck template (built — `decks/class-decks/`)
+
+Each deck is a draftable card pool with five components plus the belief layer:
+
+1. **Basic moves** — core cards sorted by the four powers (Wake / Clean / Grow / Show).
+2. **Emotional Alchemy moves** — the class's home channels; the rest drawn from allies.
+3. **Subclasses / belief-moves** — each belief is two-sided: *worked,* it **generates** a move (the gift, rendering the Appendix G capacity at this class); *stuck,* it **locks** a basic card (the shadow). This is the **campaign engine**: each campaign a reader runs flips one belief from lock to move; six campaigns fills the set. 36 belief-moves total (6 classes × 6 beliefs).
+4. **At each Face** — the same capacity re-aimed by altitude (Shaman / Challenger / Regent / Architect / Diplomat / Sage); this is the per-chapter class thread.
+5. **Interactions** — which decks supply what this one lacks (Formula step 3, enroll allies).
+
+Plus a brief identity open (the defensive origin) and a "who needs your deck" close. The "3-2-1" inside the decks is the book's gate work pointed outward — same Big Mind move, run on the resistance in front of you instead of your own gates.
+
+## Funnel (for the pre-immunized reader)
+
+Concentrate, don't smear. Invitation, not pitch. The book is whole — app and coaching are **more,** never the withheld real thing (Ch2's "if you stop here you will still have changed" is the trust foundation the funnel rides on).
+- **App pointer:** the existing `→ app` practice handoffs + one Ch0 framing beat establishing the app = the game where moves unlock at the speed of play (so `→ app` reads as "practice continues in the game," and the sheet reads as the starting deck).
+- **Coaching pointer:** one clean coda after Ch8 — never in the chapters (it would break the form-break and step on the "build the thing only it would build" last line) — Kickstarter-anchored, framed as relationship, not extraction.
+
+## Pending book-side touches (the manuscript work this implies)
+
+1. **Ch1** — add the class-found section: the six classes as defensive strategies (the Protector's), reader finds hers; appendix pointer; light class thread carried elsewhere.
+2. **Ch2** — reframe: the belief is surfaced *beneath* the class (the Controller's governor + the capacity it builds), not "the belief builds the superpower." Same material, reordered.
+3. **Ch5** — cut the archetype-lens table (≈L182–186; Strategist/Optimizer/Mapmaker), the leak. The class layer now lives at Ch1 + the decks.
+4. **Ch0** — add the deck-builder framing beat (app = the game; build your deck; unlock at the speed of play) and name the character sheet as the starting deck.
+5. **Post-Ch8** — the coaching coda (map → game → guide; Kickstarter-anchored).
+6. **Vocabulary** — unify the decks' "3-2-1" with the book's gate work (one name; inward on your gates in the book, outward on the resistance in the decks/app).
+7. **Character sheet** — Ch1 row = class, Ch2 row = subclass (updated in the sheet table above).
