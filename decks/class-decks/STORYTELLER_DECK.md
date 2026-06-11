@@ -38,14 +38,18 @@ Every class metabolizes all five channels; these two are home.
 - **Honor the Loss** *(sadness → poignance)* — Don't skip the grief to get to the hope; the grief is what makes the story land. Name what's being mourned, honor what was real in it even if it was flawed, and carry it forward as legacy. Sadness is what makes a story unforgettable.
 - The other three you draw from allies: **fear → excitement** (a Strategist's calm read keeps your story from becoming panic), **joy → expansion** (lightness so the story isn't all weight), **neutrality → peace** (the steady ground a true story is told from).
 
-## 3. Subclasses — the belief that governs the deck
+## 3. Subclasses — the moves your beliefs generate
 
-- **Not ready → the Drafter.** Won't tell it until the story is "fully formed," so it never gets told. Locks: *Claim the Pen.*
-- **Not capable → the Ghostwriter.** Sure others tell it better, you hand your story to louder voices. Locks: trusting your own telling.
-- **Not worthy → the Lost Author.** You doubt your story is worth telling at all, so you fall silent and watch worse stories spread. Locks: *Offer, Don't Force* (you never offer).
-- **Not good enough → the Over-Polisher.** Won't tell the imperfect-but-true story; you sand it until the life is gone. Locks: the rough true version.
-- **Insignificant → the Unheard.** You're sure it won't land, so you don't bother — and the false narrative wins by default. Locks: raising your voice at all.
-- **Don't belong → the Outsider Narrator.** You tell everyone else's story and never your own, narrating from a seat you won't take. Locks: the first-person story.
+You can run any of the six beliefs, and at the Storyteller each one is two-sided. Worked, it **generates a move** — the gift the wound built. Stuck, the same belief **locks** one of your basic cards. Every campaign you run flips one belief from its lock to its move; six campaigns, and all six belief-moves are yours.
+
+- **Not ready → *The Story Already Built*** *(preparation mastery)* — you've done the work to know exactly which story this moment needs before it arrives. Stuck, it's the drafter, locking *Claim the Pen.*
+- **Not capable → *Story From Scraps*** *(resourcefulness)* — you find the compelling story in the unpromising material everyone else passed over. Stuck, it's the ghostwriter, locking trust in your own telling.
+- **Not worthy → *The Exact Reframe*** *(service precision)* — the one story-shift that fits this person's actual need, nothing wasted. Stuck, it's the lost author, locking *Offer, Don't Force.*
+- **Not good enough → *The Story That Holds Up*** *(exacting standard)* — you tell the version that survives scrutiny instead of the cheap one that manipulates. Stuck, it's the over-polisher, locking the rough true version.
+- **Insignificant → *The Story That Lands*** *(impact)* — you tell it so it can't be unheard, because you know what it costs to go unheard. Stuck, it's the unheard, locking raising your voice at all.
+- **Don't belong → *The Outsider's Story*** *(outsider's perspective)* — you name the story the insiders are too embedded to see. Stuck, it's the outsider narrator, locking the first-person story.
+
+This is the campaign engine in deck terms: each belief you take all the way through flips a lock into a move, and the deck gets richer every time you run the book again.
 
 ## 4. At each Face — where your cards go live
 

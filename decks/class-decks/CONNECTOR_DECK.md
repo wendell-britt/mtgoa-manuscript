@@ -40,18 +40,18 @@ Every class metabolizes all five channels; these two are home.
 - **The Deep Current** *(sadness → poignance)* — Sadness is your compass; it points at where a bond is broken and belonging is missing. Don't rush to fix it — let it show you where connection actually needs to happen, and let that mattering move you.
 - The other three you draw from allies: **anger → triumph** you tend to swallow to keep the peace (borrow the boundary-fire of a Disruptor); **fear → excitement** sharpens your discernment so you stop chasing closed doors; **joy → expansion** keeps connection light instead of heavy and dutiful.
 
-## 3. Subclasses — the belief that governs the deck
+## 3. Subclasses — the moves your beliefs generate
 
-Your class is the weaving. Your subclass is the belief running it, and the belief decides which card it locks.
+You can run any of the six beliefs, and at the Connector each one is two-sided. Worked, it **generates a move** — the gift the wound built. Stuck, the same belief **locks** one of your basic cards. Every campaign you run flips one belief from its lock to its move; six campaigns, and all six belief-moves are yours.
 
-- **Not ready → the Over-Vetter.** Won't make the introduction until you "know enough" about both people; the bridge waits forever. Locks: *The Introduction.*
-- **Not capable → the Deferrer.** Sure someone else connects better, you hang back and let bonds you could've made go unmade. Locks: trusting your own read of the room.
-- **Not worthy → the One-Way Bridge.** You connect everyone and never ask to be connected; you're the weaver, never the woven-in. Locks: being on the receiving end of your own gift.
-- **Not good enough → the Perfect-Match Hunter.** Won't introduce unless it's flawless, so most of the bridges never get built. Locks: the good-enough intro.
-- **Insignificant → the Edge-Weaver.** You work from the margins because you don't believe your network counts; you undersell what you can actually convene. Locks: *Spotlight the Invisible* (you can't aim it at yourself).
-- **Don't belong → the Homeless Host.** You bridge others into belonging and never claim your own seat in the group. Locks: staying.
+- **Not ready → *The Mapped Room*** *(preparation mastery)* — you walk in already knowing the three bridges that need building before anyone's spoken. Stuck, it's the over-vetter, locking *The Introduction.*
+- **Not capable → *Bridge From Nothing*** *(resourcefulness)* — you connect people across gaps everyone swore couldn't be crossed, with whatever's at hand. Stuck, it's the deferrer, locking trust in your own read of the room.
+- **Not worthy → *The Exact Match*** *(service precision)* — not networking, the one connection that's precisely what each person needs. Stuck, it's the one-way bridge, locking being on the receiving end of your own gift.
+- **Not good enough → *The Real Connection*** *(exacting standard)* — you won't broker the hollow link; you make the one that actually holds. Stuck, it's the perfect-match hunter, locking the good-enough intro.
+- **Insignificant → *Make Them Land*** *(impact)* — you connect the overlooked person so their value becomes undeniable. Stuck, it's the edge-weaver, locking *Spotlight the Invisible* from ever aiming at you.
+- **Don't belong → *Translate Across Worlds*** *(outsider's perspective)* — you bridge groups that can't hear each other because you've stood outside both. Stuck, it's the homeless host, locking staying.
 
-The book's work on your belief takes the governor off. The subclass tells you which card comes back online.
+This is the campaign engine in deck terms: each belief you take all the way through flips a lock into a move, and the deck gets richer every time you run the book again.
 
 ## 4. At each Face — where your cards go live
 

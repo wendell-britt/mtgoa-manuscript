@@ -39,14 +39,18 @@ Every class metabolizes all five channels; these two are home.
 - **Flip the Fear** *(fear → excitement)* — The biggest cage is fear, not walls. Name the fear — *what if leaving makes it worse* — then flip it: *what if leaving makes everything possible.* Then take a small test escape, so the fear has something real to measure itself against instead of an imagined fall.
 - The other three you draw from allies: **anger → triumph** (a Disruptor's fire for when the door's locked and has to be broken), **joy → expansion** (so leaving moves *toward* something, not just away), **neutrality → peace** (the steady center that tells restlessness from real misalignment).
 
-## 3. Subclasses — the belief that governs the deck
+## 3. Subclasses — the moves your beliefs generate
 
-- **Not ready → the Stayer.** Won't leave until everything's lined up, so you stay trapped waiting for a perfect exit. Locks: *Take the Test Escape.*
-- **Not capable → the Clinger.** You doubt you'd survive outside, so you hold the bars of the familiar. Locks: trusting you can navigate the unknown.
-- **Not worthy → the Martyr.** You stay to "save" everyone else because you don't believe you've earned your own way out. Locks: *The Clean Exit.*
-- **Not good enough → the Justifier.** Won't leave unless the exit is fully defensible or guaranteed, so you never go. Locks: leaving on a good-enough reason.
-- **Insignificant → the Endurer.** Sure no one would notice you leaving, you endure what you should walk out of. Locks: believing your exit matters.
-- **Don't belong → the Ghost.** You never commit to anything, because belonging itself feels like a cage — so you bounce before any of it can become home. Locks: *Hold the Open Door* (you won't stay long enough to hold anything).
+You can run any of the six beliefs, and at the Escape Artist each one is two-sided. Worked, it **generates a move** — the gift the wound built. Stuck, the same belief **locks** one of your basic cards. Every campaign you run flips one belief from its lock to its move; six campaigns, and all six belief-moves are yours.
+
+- **Not ready → *The Mapped Exit*** *(preparation mastery)* — you always already know the way out, charted before you ever need it. Stuck, it's the stayer, locking *Take the Test Escape.*
+- **Not capable → *Exit From Nowhere*** *(resourcefulness)* — you find the door no one else can see, improvised from nothing. Stuck, it's the clinger, locking trust that you can navigate the unknown.
+- **Not worthy → *The Exact Exit*** *(service precision)* — not running, the one clean leave that's precisely right and precisely timed. Stuck, it's the martyr, locking *The Clean Exit.*
+- **Not good enough → *The Honest Read*** *(exacting standard)* — your bar won't let you leave on a false reason or stay on one; it tells the real dead-end from the hard-but-worth-it. Stuck, it's the justifier, locking leaving on a good-enough reason.
+- **Insignificant → *The Exit That Lands*** *(impact)* — you leave in a way that shifts the system, not just removes you from it. Stuck, it's the endurer, locking believing your exit matters.
+- **Don't belong → *The Outsider's Doors*** *(outsider's perspective)* — you see every exit because you never fully entered. Stuck, it's the ghost, locking *Hold the Open Door.*
+
+This is the campaign engine in deck terms: each belief you take all the way through flips a lock into a move, and the deck gets richer every time you run the book again.
 
 ## 4. At each Face — where your cards go live
 

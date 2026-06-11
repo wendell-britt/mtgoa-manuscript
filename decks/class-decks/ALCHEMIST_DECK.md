@@ -37,14 +37,18 @@ This is your home. Where other classes live in one or two channels, you work all
 - **Fear → excitement**, **anger → triumph**, **sadness → poignance**, **joy → expansion**, **neutrality → peace** — you can run any of these on a room. Your signature is the long arc: **sadness → poignance → joy.** You don't erase grief; you let it be honored until it deepens into meaning, and meaning frees people to celebrate what they're grieving. The loss stays. It stops being a weight and becomes a reason.
 - Your shadow isn't a missing channel; it's volume. Absorb too much and you drown; stay too dry and people don't trust you're real. *Filter* and *Hold Without Drowning* are how you keep the flow without becoming the flood.
 
-## 3. Subclasses — the belief that governs the deck
+## 3. Subclasses — the moves your beliefs generate
 
-- **Not ready → the Unfinished Healer.** Won't hold space until you've "done your own work first," so you never start. Locks: *Make the Container.*
-- **Not capable → the Spiller.** You doubt you can hold it, so you let it slosh out instead of moving it. Locks: trusting your own steadiness.
-- **Not worthy → the Dumping Ground.** You take everyone's emotion because you don't believe you merit a boundary — the overload shadow as a life. Locks: *Filter.*
-- **Not good enough → the Over-Processor.** Won't let a feeling be messy; you keep working it past the point of help. Locks: letting it be enough.
-- **Insignificant → the Observer.** Sure your presence doesn't matter, you watch the current from the shore instead of stepping in. Locks: *Name It in the Room.*
-- **Don't belong → the Outside Holder.** You hold the group's emotion and stay outside the group, never one of the ones being held. Locks: being inside the container you built.
+You can run any of the six beliefs, and at the Alchemist each one is two-sided. Worked, it **generates a move** — the gift the wound built. Stuck, the same belief **locks** one of your basic cards. Every campaign you run flips one belief from its lock to its move; six campaigns, and all six belief-moves are yours.
+
+- **Not ready → *The Ready Vessel*** *(preparation mastery)* — you've built the container before the room needs it, so the grief has somewhere to go the moment it lands. Stuck, it's the unfinished healer, locking *Make the Container.*
+- **Not capable → *Alchemy From Nothing*** *(resourcefulness)* — you shift the field with no tools but your presence. Stuck, it's the spiller, locking trust in your own steadiness.
+- **Not worthy → *Hold Exactly This*** *(service precision)* — you sense and hold the one feeling that actually needs moving, not all of them. Stuck, it's the dumping ground, locking *Filter.*
+- **Not good enough → *No Bypass*** *(exacting standard)* — you won't let the room skip the feeling it needs to move through. Stuck, it's the over-processor, locking letting it be enough.
+- **Insignificant → *The Shift That Sticks*** *(impact)* — you move the field so it stays moved, not a catharsis that evaporates by morning. Stuck, it's the observer, locking *Name It in the Room.*
+- **Don't belong → *Name the Group's Shadow*** *(outsider's perspective)* — you feel and name what the group is collectively avoiding, because you're not inside the avoidance. Stuck, it's the outside holder, locking being inside the container you built.
+
+This is the campaign engine in deck terms: each belief you take all the way through flips a lock into a move, and the deck gets richer every time you run the book again.
 
 ## 4. At each Face — where your cards go live
 

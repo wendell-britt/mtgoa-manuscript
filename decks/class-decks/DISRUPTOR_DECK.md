@@ -39,14 +39,18 @@ Every class metabolizes all five channels; these two are home.
 - **Let the Loss Land** *(sadness → poignance)* — Before you burn something, mourn it — and understand that the people resisting you are grieving, not just being difficult. Sadness also shows you mercy: it finds the cracks where change wants to flow, so you stop bludgeoning walls that would've fallen with a whisper.
 - The other three you draw from allies: **fear → excitement** (a Strategist's read tells you when to hold), **joy → expansion** (so the fire warms instead of only scorching), **neutrality → peace** (the still center that keeps the fire from running you).
 
-## 3. Subclasses — the belief that governs the deck
+## 3. Subclasses — the moves your beliefs generate
 
-- **Not ready → the Smolderer.** Won't strike until you're certain, so the fire never actually lights. Locks: *Strike at Readiness.*
-- **Not capable → the Doubter.** Sure the disruption won't work, you hold back the push that might've. Locks: trusting your own call to move.
-- **Not worthy → the Anonymous Match.** You start the fire and won't lead it; you light it and step into the shadows. Locks: claiming the movement.
-- **Not good enough → the Over-Justifier.** The strike has to be perfectly defensible before you'll make it, so the moment passes. Locks: the imperfect-but-right push.
-- **Insignificant → the Caged Rebel.** You're sure your challenge won't matter, so you withdraw into bitterness and *I told you so.* Locks: lighting it at all.
-- **Don't belong → the Outside Agitator.** You challenge from the margins and never enter to build the alternative. Locks: *Offer the Alternative.*
+You can run any of the six beliefs, and at the Disruptor each one is two-sided. Worked, it **generates a move** — the gift the wound built. Stuck, the same belief **locks** one of your basic cards. Every campaign you run flips one belief from its lock to its move; six campaigns, and all six belief-moves are yours.
+
+- **Not ready → *The Mapped Strike*** *(preparation mastery)* — you've already found the precise fracture point before you move on it. Stuck, it's the smolderer, locking *Strike at Readiness.*
+- **Not capable → *Break With What's Here*** *(resourcefulness)* — you find the disruption available to the powerless, the leverage no one thought counted. Stuck, it's the doubter, locking trust in your own call to move.
+- **Not worthy → *The Precise Cut*** *(service precision)* — you target the exact structure, not the people and not the noise. Stuck, it's the anonymous match, locking claiming the movement.
+- **Not good enough → *Worth the Fire*** *(exacting standard)* — your bar tells you which battles actually count, so the fire doesn't scatter. Stuck, it's the over-justifier, locking the imperfect-but-right push.
+- **Insignificant → *The Undeniable Break*** *(impact)* — you disrupt so it can't be waved away, because you know what it is to be ignored. Stuck, it's the caged rebel, locking lighting it at all.
+- **Don't belong → *Name What They Can't See*** *(outsider's perspective)* — you expose the rot the embedded have normalized into furniture. Stuck, it's the outside agitator, locking *Offer the Alternative.*
+
+This is the campaign engine in deck terms: each belief you take all the way through flips a lock into a move, and the deck gets richer every time you run the book again.
 
 ## 4. At each Face — where your cards go live
 
