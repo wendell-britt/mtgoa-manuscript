@@ -50,9 +50,9 @@ You can run any of the six beliefs, and at the Strategist each one is two-sided.
 - **Not ready → *Deep Contingency*** *(preparation mastery)* — you walk in already holding the plan for the branch everyone swore wouldn't happen. Stuck, it's the over-preparer, locking *The Small Test.*
 - **Not capable → *Work With What's Here*** *(resourcefulness)* — you find the leverage hiding in scarce, given materials and win without the resources you were told you needed. Stuck, it's the deferrer, locking trust in your own forecast.
 - **Not worthy → *Read the Exact Need*** *(service precision)* — your foresight aims at precisely what this person or moment needs, nothing wasted. Stuck, it's the invisible hand, locking being seen making the call.
-- **Not good enough → *Pressure-Test*** *(exacting standard)* — you find the flaw before reality does, because your bar won't pass a weak move. Stuck, it's the perfectionist, locking the move that isn't yet airtight.
-- **Insignificant → *The Lever That Lands*** *(impact)* — you aim for the move whose effect can't be ignored, because you know exactly what unseen effort costs. Stuck, it's the silent forecaster, locking *Calibrate the Warning* from ever leaving your head.
-- **Don't belong → *Read From Outside*** *(range)* — you see the whole board precisely because no position on it owns you, the outsider's read insiders can't reach. Stuck, it's the outside analyst, locking *Bank Trust Early.*
+- **Not good enough → *Catch the Harm First*** *(quality stewardship)* — you find where the plan would quietly cost someone before it ships, because "will it work" isn't the bar — "will it actually help" is. Stuck, it's the perfectionist, locking the move that isn't yet airtight.
+- **Insignificant → *The Overlooked Lever*** *(amplification)* — you spot the person or need the plan erased, and find the move that brings them back in. Stuck, it's the silent forecaster, locking *Calibrate the Warning* from ever leaving your head.
+- **Don't belong → *Read the Fracture*** *(belonging-field-reading)* — your foresight reads the relational board: where belonging is about to break and who's about to be edged out, so you move before the edge becomes a wall. Stuck, it's the outside analyst, locking *Bank Trust Early.*
 
 This is the campaign engine in deck terms: each belief you take all the way through flips a lock into a move, and the deck gets richer every time you run the book again.
 

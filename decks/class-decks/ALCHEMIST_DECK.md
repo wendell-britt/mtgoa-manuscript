@@ -44,9 +44,9 @@ You can run any of the six beliefs, and at the Alchemist each one is two-sided. 
 - **Not ready → *The Ready Vessel*** *(preparation mastery)* — you've built the container before the room needs it, so the grief has somewhere to go the moment it lands. Stuck, it's the unfinished healer, locking *Make the Container.*
 - **Not capable → *Alchemy From Nothing*** *(resourcefulness)* — you shift the field with no tools but your presence. Stuck, it's the spiller, locking trust in your own steadiness.
 - **Not worthy → *Hold Exactly This*** *(service precision)* — you sense and hold the one feeling that actually needs moving, not all of them. Stuck, it's the dumping ground, locking *Filter.*
-- **Not good enough → *No Bypass*** *(exacting standard)* — you won't let the room skip the feeling it needs to move through. Stuck, it's the over-processor, locking letting it be enough.
-- **Insignificant → *The Shift That Sticks*** *(impact)* — you move the field so it stays moved, not a catharsis that evaporates by morning. Stuck, it's the observer, locking *Name It in the Room.*
-- **Don't belong → *Name the Group's Shadow*** *(outsider's perspective)* — you feel and name what the group is collectively avoiding, because you're not inside the avoidance. Stuck, it's the outside holder, locking being inside the container you built.
+- **Not good enough → *No Bypass*** *(quality stewardship)* — you won't let the room perform a feeling it hasn't moved through, because catharsis that skips the work harms more than it heals. Stuck, it's the over-processor, locking letting it be enough.
+- **Insignificant → *Surface the Erased Feeling*** *(amplification)* — you name the emotion the group decided doesn't matter and give it room. Stuck, it's the observer, locking *Name It in the Room.*
+- **Don't belong → *Feel the Cold Spot*** *(belonging-field-reading)* — you feel where the group's warmth stops and who it's quietly freezing out, and you move the field before the cold becomes a wall. Stuck, it's the outside holder, locking being inside the container you built.
 
 This is the campaign engine in deck terms: each belief you take all the way through flips a lock into a move, and the deck gets richer every time you run the book again.
 

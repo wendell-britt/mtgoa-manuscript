@@ -46,9 +46,9 @@ You can run any of the six beliefs, and at the Escape Artist each one is two-sid
 - **Not ready → *The Mapped Exit*** *(preparation mastery)* — you always already know the way out, charted before you ever need it. Stuck, it's the stayer, locking *Take the Test Escape.*
 - **Not capable → *Exit From Nowhere*** *(resourcefulness)* — you find the door no one else can see, improvised from nothing. Stuck, it's the clinger, locking trust that you can navigate the unknown.
 - **Not worthy → *The Exact Exit*** *(service precision)* — not running, the one clean leave that's precisely right and precisely timed. Stuck, it's the martyr, locking *The Clean Exit.*
-- **Not good enough → *The Honest Read*** *(exacting standard)* — your bar won't let you leave on a false reason or stay on one; it tells the real dead-end from the hard-but-worth-it. Stuck, it's the justifier, locking leaving on a good-enough reason.
-- **Insignificant → *The Exit That Lands*** *(impact)* — you leave in a way that shifts the system, not just removes you from it. Stuck, it's the endurer, locking believing your exit matters.
-- **Don't belong → *The Outsider's Doors*** *(outsider's perspective)* — you see every exit because you never fully entered. Stuck, it's the ghost, locking *Hold the Open Door.*
+- **Not good enough → *The Honest Read*** *(quality stewardship)* — your bar won't let you call it a cage to dodge hard work or call it growth while it quietly costs you; you hold the standard for whether this place actually serves the people in it. Stuck, it's the justifier, locking leaving on a good-enough reason.
+- **Insignificant → *Light the Way Out for the Overlooked*** *(amplification)* — your exit makes visible the others the system was quietly erasing, and shows them the door too. Stuck, it's the endurer, locking believing your exit matters.
+- **Don't belong → *Read the False Belonging*** *(belonging-field-reading)* — you feel when a group's "belonging" is actually a cage, and you know who else is being held by it. Stuck, it's the ghost, locking *Hold the Open Door.*
 
 This is the campaign engine in deck terms: each belief you take all the way through flips a lock into a move, and the deck gets richer every time you run the book again.
 

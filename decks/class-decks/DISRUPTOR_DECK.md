@@ -46,9 +46,9 @@ You can run any of the six beliefs, and at the Disruptor each one is two-sided. 
 - **Not ready → *The Mapped Strike*** *(preparation mastery)* — you've already found the precise fracture point before you move on it. Stuck, it's the smolderer, locking *Strike at Readiness.*
 - **Not capable → *Break With What's Here*** *(resourcefulness)* — you find the disruption available to the powerless, the leverage no one thought counted. Stuck, it's the doubter, locking trust in your own call to move.
 - **Not worthy → *The Precise Cut*** *(service precision)* — you target the exact structure, not the people and not the noise. Stuck, it's the anonymous match, locking claiming the movement.
-- **Not good enough → *Worth the Fire*** *(exacting standard)* — your bar tells you which battles actually count, so the fire doesn't scatter. Stuck, it's the over-justifier, locking the imperfect-but-right push.
-- **Insignificant → *The Undeniable Break*** *(impact)* — you disrupt so it can't be waved away, because you know what it is to be ignored. Stuck, it's the caged rebel, locking lighting it at all.
-- **Don't belong → *Name What They Can't See*** *(outsider's perspective)* — you expose the rot the embedded have normalized into furniture. Stuck, it's the outside agitator, locking *Offer the Alternative.*
+- **Not good enough → *Worth the Fire*** *(quality stewardship)* — your bar rejects the performative target; what counts is whether breaking this actually protects someone, not whether it looks bold. Stuck, it's the over-justifier, locking the imperfect-but-right push.
+- **Insignificant → *Make the Ignored Undeniable*** *(amplification)* — you force the room to see the harm it's been erasing and the people it decided didn't count. Stuck, it's the caged rebel, locking lighting it at all.
+- **Don't belong → *Break the Edge*** *(belonging-field-reading)* — you sense who's being edged out and disrupt the exclusion before it hardens into the way things are. Stuck, it's the outside agitator, locking *Offer the Alternative.*
 
 This is the campaign engine in deck terms: each belief you take all the way through flips a lock into a move, and the deck gets richer every time you run the book again.
 

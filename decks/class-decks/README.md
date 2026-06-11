@@ -12,7 +12,7 @@ Each deck follows one five-component template:
 
 The book plants the class (Ch1) and surfaces the subclass/belief (Ch2); these decks are the deliver-side pool the app draws from, where cards unlock at the speed of play. The character sheet a reader assembles across the book is her starting deck.
 
-**Canon-check note:** components 3 (belief-moves) and 4 (Face matrix) are *derived* rather than adapted from the source guides. The belief-moves all inherit from six belief→capacities (not ready→preparation mastery, not capable→resourcefulness, not worthy→service precision, not good enough→exacting standard, insignificant→impact, don't belong→range) — the first three canonical from Ch2, the last three derived and pending Wendell's confirmation. The Face cells derive from each Face's core question × the class capacity. These compose existing canon, but the specific assignments are where Wendell's intentions should overrule.
+**Capacities (per Appendix G — the canon):** the belief-moves inherit the six belief→superpower pairings in `appendices/APPENDIX_G_BELIEF_TO_SUPERPOWER_MAP.md` — not ready→preparation mastery, not capable→resourcefulness, not worthy→service precision, not good enough→quality stewardship (excellence as care), insignificant→amplification, don't belong→belonging-field-reading. Appendix G governs; each deck renders the capacity at its own class. The only piece still pending Wendell's check is component 4 (the Face matrix), derived from each Face's core question × the class capacity.
 
 | Class | Home channels | Home Face |
 |---|---|---|

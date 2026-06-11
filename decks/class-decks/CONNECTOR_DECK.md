@@ -47,9 +47,9 @@ You can run any of the six beliefs, and at the Connector each one is two-sided. 
 - **Not ready → *The Mapped Room*** *(preparation mastery)* — you walk in already knowing the three bridges that need building before anyone's spoken. Stuck, it's the over-vetter, locking *The Introduction.*
 - **Not capable → *Bridge From Nothing*** *(resourcefulness)* — you connect people across gaps everyone swore couldn't be crossed, with whatever's at hand. Stuck, it's the deferrer, locking trust in your own read of the room.
 - **Not worthy → *The Exact Match*** *(service precision)* — not networking, the one connection that's precisely what each person needs. Stuck, it's the one-way bridge, locking being on the receiving end of your own gift.
-- **Not good enough → *The Real Connection*** *(exacting standard)* — you won't broker the hollow link; you make the one that actually holds. Stuck, it's the perfect-match hunter, locking the good-enough intro.
-- **Insignificant → *Make Them Land*** *(impact)* — you connect the overlooked person so their value becomes undeniable. Stuck, it's the edge-weaver, locking *Spotlight the Invisible* from ever aiming at you.
-- **Don't belong → *Translate Across Worlds*** *(outsider's perspective)* — you bridge groups that can't hear each other because you've stood outside both. Stuck, it's the homeless host, locking staying.
+- **Not good enough → *The Connection That Serves*** *(quality stewardship)* — you won't broker the link that looks good and helps no one; you make the one that actually serves the person, not the optics. Stuck, it's the perfect-match hunter, locking the good-enough intro.
+- **Insignificant → *Bring In the Erased*** *(amplification)* — you notice who's been written out of the room and weave them back in before anyone names the absence. Stuck, it's the edge-weaver, locking *Spotlight the Invisible* from ever aiming at you.
+- **Don't belong → *Catch the Edge*** *(belonging-field-reading)* — you sense the person about to be edged out before they are, and move them back in before the edge consolidates. Stuck, it's the homeless host, locking staying.
 
 This is the campaign engine in deck terms: each belief you take all the way through flips a lock into a move, and the deck gets richer every time you run the book again.
 

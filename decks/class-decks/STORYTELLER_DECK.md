@@ -45,9 +45,9 @@ You can run any of the six beliefs, and at the Storyteller each one is two-sided
 - **Not ready → *The Story Already Built*** *(preparation mastery)* — you've done the work to know exactly which story this moment needs before it arrives. Stuck, it's the drafter, locking *Claim the Pen.*
 - **Not capable → *Story From Scraps*** *(resourcefulness)* — you find the compelling story in the unpromising material everyone else passed over. Stuck, it's the ghostwriter, locking trust in your own telling.
 - **Not worthy → *The Exact Reframe*** *(service precision)* — the one story-shift that fits this person's actual need, nothing wasted. Stuck, it's the lost author, locking *Offer, Don't Force.*
-- **Not good enough → *The Story That Holds Up*** *(exacting standard)* — you tell the version that survives scrutiny instead of the cheap one that manipulates. Stuck, it's the over-polisher, locking the rough true version.
-- **Insignificant → *The Story That Lands*** *(impact)* — you tell it so it can't be unheard, because you know what it costs to go unheard. Stuck, it's the unheard, locking raising your voice at all.
-- **Don't belong → *The Outsider's Story*** *(outsider's perspective)* — you name the story the insiders are too embedded to see. Stuck, it's the outsider narrator, locking the first-person story.
+- **Not good enough → *The Story That Serves*** *(quality stewardship)* — you won't tell the version that moves people by distorting them; you hold the story to whether it actually helps the people it's about. Stuck, it's the over-polisher, locking the rough true version.
+- **Insignificant → *Voice the Unheard*** *(amplification)* — you tell the story of the person the dominant narrative erased and put them back inside it. Stuck, it's the unheard, locking raising your voice at all.
+- **Don't belong → *The Story Wide Enough*** *(belonging-field-reading)* — you read who the dominant story leaves out and tell the version big enough to hold them before the exclusion sets. Stuck, it's the outsider narrator, locking the first-person story.
 
 This is the campaign engine in deck terms: each belief you take all the way through flips a lock into a move, and the deck gets richer every time you run the book again.
 
