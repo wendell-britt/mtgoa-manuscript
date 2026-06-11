@@ -43,13 +43,15 @@ Read `MTGOA_EDITORIAL_MASTER_v4_2026-06-10.md` at the repo root. It is the autho
 | Ch5 | Revised ✓ | ~5,899 | Emotional Body gate (Shaman/Architect/alchemy frame) |
 | Ch6 | Revised ✓ | ~10,210 | Victim gate (drama triangle, Villain=Challenger reframe), five channels intact |
 | Ch7 | Revised ✓ | ~8,937 | Damaged Self gate (spite→mischief EA arc), spite opening restored |
-| Ch8 | NOT STARTED | — | See Ch8 notes in master doc |
+| Ch8 | Revised ✓ | ~7,900 | Player/Vulnerable Child descent (form broken: gate terminal, experienced at the very end), four-move Formula sheet assembled, canonical WB-1 First Move, campaign mechanic closed, macro thesis completed, de-funneled |
 
 ---
 
-## What Ch8 needs (start here next)
+## Ch8 — complete (2026-06-11)
 
-Ch8 is the Player chapter — the synthesis. The reader arrives as Villager and returns as Player. The Vulnerable Child is the final gate (center of the forest). The chapter needs to land all four Formula steps and close the campaign mechanic. See the master doc for the full Ch8 spec.
+Ch8 (Player / Vulnerable Child) is built and on this branch as `chapters/ch8-player/CHAPTER8_REVISED_2026-06-10.md`. It breaks the form deliberately: the gate is terminal — the Vulnerable Child is experienced at the very end, with no Game/Recap section after it. The four-move Formula is assembled into the character sheet in the reader's own words (paying off Ch0's "the filled-in formula, in your hand" promise); the seven other gate-selves repurpose into allies (Formula Move 3); show-up resolves into the self/other collapse (Move 4); the macro thesis completes (allyship *needs* the game, because the Child only shows up to play); the campaign mechanic closes (one belief run all the way down, five more campaigns to go). First Move is the canonical WB-1 ("design a move, do the move"). De-funneled — no commercial funnel.
+
+**Remaining on Ch8:** copyedit only. Continuity already checked: the Ch1 callback now matches revised Ch1's actual language (Vulnerable Child = gate 8, cost "exile from your own source," and the Protector-standing-in-front-of-your-superpower line at Ch1 L363 escalated to all seven voices).
 
 ---
 
