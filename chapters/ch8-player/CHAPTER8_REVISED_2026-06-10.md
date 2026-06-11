@@ -153,15 +153,19 @@ The walk ends the way all walks end — with you having gone further than you st
 
 ### The first move
 
-Before you go further down, one move — a real one, this week, with another person.
+Before you go any further down, one design and one doing. Within seven days.
 
-Go back to the line on your sheet that names who needs what you carry. The specific one: the person, the situation, the room. Not the category. Pick that person. And this week, make one move toward them you've been preparing to make and haven't — a conversation, an offer, a question, a thing built and handed over. Time-box it: one week, one move, one person.
+The Player's whole game is the designed move — the one you can say in a single sentence, the one that fits in a moment, the one you can make without anyone's permission. So design it. Pick the situation: the one that keeps coming back, the one you keep failing at the same way. Pick the move — one sentence. *When this shows up, I do this, instead of what I always do.* Say it out loud. Write it down. Set the alarm. Do whatever makes the move remember itself when the moment arrives.
 
-Not a grand gesture. Not the whole game. One move that puts your superpower in front of the specific someone it's for, before you feel ready, so that the doing — not the planning — is what teaches you the next step.
+That's the design, and the design is free. The doing is the move. Within seven days, let the situation come back — it will — and do the move. Sixty seconds. You are not asked to be good at it. You are asked to do it.
 
-That's the rep. The hard part was never the design. The hard part is the move after the design, when you have to actually do it and watch what happens. That's where the walk stops being a walk in your head and becomes one in the world.
+There are two ways this goes, and only one of them is the Player. One: you designed the move, the situation showed up, you did it — and the next time it comes back, the move is the path of least resistance. The groove is cut. Two: you designed the move beautifully, the situation didn't quite show up inside the window, and you felt that small relief of having designed without having been tested — and the move is still just a design. That second one is the Player's exact shadow: the elegant move kept safely offstage. The whole game is the design meeting the moment. Don't let it stay a proposal.
 
-And here's what nobody warns you about: the move you've been dreading is almost never as bad as the rehearsal made it. You'll do it, and it'll be awkward or imperfect or smaller than you pictured — and underneath the nerves you'll notice something you forgot was there. It felt *good.* Not the relief of having it over. The actual aliveness of doing the thing you're for. Catch that feeling and write it down before the doubt gets to re-narrate it into "that was nothing" or "they were just being nice." That feeling is the data. It's the Child telling you it wants to come out and play — and that it has been waiting a long time to be asked.
+Here's mine, so you know the scale we're talking about. The situation I kept failing at: a partner escalating in a meeting, and me managing it, smoothing it, performing the calm. The move I designed was one sentence, said out loud: *"I think we're not arguing about the slide."* That's it. That's the whole move. I've done it four times now. The first time my hands shook. The fourth time it was just a thing I do. The meeting is the same meeting. The person is the same person. I'm the same person. The move is what changed.
+
+And here's what nobody warns you about: the move you've been dreading is almost never as bad as the rehearsal made it. You'll do it, and it'll be awkward or smaller than you pictured, and underneath the nerves you'll catch something you forgot was there — it felt *good.* Not the relief of having it over. The aliveness of doing the thing you're for. Catch that before the doubt re-narrates it into "that was nothing." That feeling is the data. It's the Child telling you it wants to come out and play — and that it has been waiting a long time to be asked.
+
+*The situation. The move. The first time you did it. What it cost. What it became the fourth time. → app*
 
 ---
 
@@ -236,6 +240,8 @@ That's the superpower. Not the talent. This — the part of you for whom allyshi
 ---
 
 The book ends here. At the center. With you holding everything you built, standing in the one room you spent your whole life learning to leave.
+
+You picked one line at the very start — one of the six the autopilot uses to keep you small — and you ran the whole book through it, all the way down to here. That was one campaign. The book isn't used up; it never was. When the next line starts to show its grip, you come back to the top and run the descent again — and you won't be starting over. You'll be starting from the center, with the Child already on your side. Fewer places for the autopilot to hide, each time down.
 
 You know what the village needs. You've known the whole time.
 
