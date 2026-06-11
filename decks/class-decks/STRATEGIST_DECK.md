@@ -43,18 +43,18 @@ Every class metabolizes all five channels; these are the two the Strategist live
 - **Let the Loss Matter** *(sadness → poignance)* — You see more lost causes than most, and sooner. When a battle can't be won, don't armor against the grief — let the loss land and let it mean something: the read you carry into the next campaign. Unprocessed, it hardens into *no one ever listens, so why care.* Metabolized into poignance, the cause you couldn't win sharpens what you bring to the board next time instead of souring it.
 - The other three you'll mostly draw from allies: **anger → triumph** you tend to under-use (you calculate where others combust); **joy → expansion** keeps the foresight from going grim; **neutrality → peace** is the steady center the Power Map is read from. Cross-train these or enroll the classes that carry them.
 
-## 3. Subclasses — the belief that governs the deck
+## 3. Subclasses — the moves your beliefs generate
 
-Your class is the foresight. Your subclass is the belief running it, and the belief decides which card it locks. Same deck, six different governors.
+You can run any of the six beliefs, and at the Strategist each one is two-sided. Worked, it **generates a move** — the gift the wound built. Stuck, the same belief **locks** one of your basic cards. Every campaign you run flips one belief from its lock to its move; six campaigns, and all six belief-moves are yours.
 
-- **Not ready → the Over-Preparer.** Foresight becomes endless planning; the deck never gets played because it's never "complete." Locks: *The Small Test.*
-- **Not capable → the Deferrer.** The read is real but you won't trust it's enough, so you hand the call to someone else. Locks: claiming your own forecast.
-- **Not worthy → the Invisible Hand.** You run the strategy from behind the curtain and won't take the seat. Locks: being seen making the call.
-- **Not good enough → the Perfectionist.** You hunt the move no one can criticize; analysis paralysis. Locks: moving before it's airtight.
-- **Insignificant → the Silent Forecaster.** You see it and don't raise it, because your read "doesn't count" — the avoidance shadow. Locks: *Calibrate the Warning* ever leaving your head.
-- **Don't belong → the Outside Analyst.** You read accurately from the margin but won't enter the room to act on it. Locks: *Bank Trust Early.*
+- **Not ready → *Deep Contingency*** *(preparation mastery)* — you walk in already holding the plan for the branch everyone swore wouldn't happen. Stuck, it's the over-preparer, locking *The Small Test.*
+- **Not capable → *Work With What's Here*** *(resourcefulness)* — you find the leverage hiding in scarce, given materials and win without the resources you were told you needed. Stuck, it's the deferrer, locking trust in your own forecast.
+- **Not worthy → *Read the Exact Need*** *(service precision)* — your foresight aims at precisely what this person or moment needs, nothing wasted. Stuck, it's the invisible hand, locking being seen making the call.
+- **Not good enough → *Pressure-Test*** *(exacting standard)* — you find the flaw before reality does, because your bar won't pass a weak move. Stuck, it's the perfectionist, locking the move that isn't yet airtight.
+- **Insignificant → *The Lever That Lands*** *(impact)* — you aim for the move whose effect can't be ignored, because you know exactly what unseen effort costs. Stuck, it's the silent forecaster, locking *Calibrate the Warning* from ever leaving your head.
+- **Don't belong → *Read From Outside*** *(range)* — you see the whole board precisely because no position on it owns you, the outsider's read insiders can't reach. Stuck, it's the outside analyst, locking *Bank Trust Early.*
 
-The book's work on your belief is what takes the governor off. The subclass tells you which card comes back online when it does.
+This is the campaign engine in deck terms: each belief you take all the way through flips a lock into a move, and the deck gets richer every time you run the book again.
 
 ## 4. At each Face — where your cards go live
 
