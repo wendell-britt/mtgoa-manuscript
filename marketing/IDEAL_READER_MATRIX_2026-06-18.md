@@ -123,17 +123,18 @@ The "ICA Source" column tracks which FriendCraft profile populates the row. As p
 |-------|---------|
 | **Face** | Sage |
 | **Level** | Teal |
-| **Core Desire** | To see the whole system. To find a piece of copy that doesn't sand off the complexity to appeal to a broader audience. |
-| **Primary Fear** | Complexity being flattened. The real thing being performed rather than lived. |
-| **Where They Are Right Now** | Reading everything and waiting for the one sentence that proves this is the real thing. They can smell performed vulnerability from a mile away. They've already mapped the system — they're waiting to see if Wendell has too. |
-| **The Wall** | Over-explanation of the metaphor. Anything that tries to make the complex simple for mass appeal. The consciousness-raising dimension of the app described in pitch language. |
-| **The Crack** | "I wasn't trying to change the world. I was trying to change six worlds that don't agree with each other. That's why it took this long. That's why it's worth finishing." — one sentence, near the end, not explained. |
-| **The Epiphany** | "I'm participating in a system that is trying to change six worlds at once. This ask is itself an allyship practice. I almost wrote it from resentment." |
-| **What They Need From Copy** | One sentence that names the meta-level without explaining it. The Dr. Strange frame (one sentence, then move on). The fundraiser named as an allyship practice in action. The complexity honored, not flattened. |
-| **What Will Lose Them** | Over-explanation. Sanding off the edges for mass appeal. The consciousness-raising dimension of the app named explicitly — hold it. Let Teal find it through experience. |
-| **Which Channel Reaches Them** | Ko-fi page closing (Beat 6.5 + Beat 7). July 20 Integral Emergence Game Partiful page. The Teal sentence shared by other Teal readers. |
-| **ICA Source** | NOT YET POPULATED — needs a FriendCraft profile from a Teal-primary reader |
-| **Copy Samples That Land** | "This ask is itself an allyship practice. I almost wrote this from resentment. I had to do some work before I could ask real." / "I wasn't trying to change the world. I was trying to change six worlds that don't agree with each other. That's why it took this long. That's why it's worth finishing." |
+| **Core Desire** | To find the real thing. To share something that's finally concrete enough to hand to people. To witness someone they've believed in for years show up as what they actually are. |
+| **Primary Fear** | Complexity being flattened. The lineage being disrespected. Backing something that turns out to be Wilber with a fresh coat of paint. |
+| **Where They Are Right Now** | Has been wanting to share Wendell's work for years. Hasn't been able to because it wasn't concrete enough to point people toward. Has been patient — "if you want to see someone develop, just wait ten years." Is ready to be a distributor the moment there's a handle. |
+| **The Wall** | Wendell's own avoidance. The Teal reader isn't the wall — Wendell's belief that the work needs to be Teal-worthy before he shows it to Teal people is the wall. Same pattern as AJ. Same pattern as the Ko-fi letter. Waiting to be good enough before showing up to the people who already believe. |
+| **The Crack** | "Your stuff has been a bit hard to point people toward but it's getting so concrete these days." — Ike's exact words. The fundraiser is the handle they've been waiting to hand people. The crack is: this is finally shareable. |
+| **The Epiphany** | "I'm not just backing Wendell. I'm finally able to share him. The thing I've been trying to point people toward for years just became something I can put in their hands." |
+| **What They Need From Copy** | One sentence that proves Wendell can see the whole system — including himself in it. The Dr. Strange frame (one sentence, don't explain it). The fundraiser named as an allyship practice in action. Complexity honored, not flattened. Evidence that this isn't Wilber with a paint job — that it's earned, applied, lived. |
+| **What Will Lose Them** | Over-explanation of the framework. Performed humility that's actually avoidance. Sanding off the edges to appeal to a broader audience. Anything that makes it sound like Wendell doesn't know how good this is. |
+| **Which Channel Reaches Them** | The Ko-fi closing (the Teal sentence). July 20 Integral Emergence Game. Word of mouth from Ike himself once he has the handle. Direct outreach to the integral community — which has been avoided and now needs to happen. |
+| **ICA Source** | Ike — integral Teal/Turquoise set designer, Enneagram 2, brought integral consciousness to Blue Sky. 3-2-1 session June 18. The 1 position: "He's going to open things up for everyone else. He's really unique. And I think he knows it kind of but doesn't really grok the wholeness of that." |
+| **Copy Samples That Land** | "This ask is itself an allyship practice. I almost wrote it from resentment. I had to do some work before I could ask real." / "I wasn't trying to change the world. I was trying to change six worlds that don't agree with each other. That's why it took this long. That's why it's worth finishing." / "He's going to open things up for everyone else." (internal framing — this is what Teal already believes; the copy just has to prove it's true) |
+| **Action Item** | Reach out to Ike. Write the actual message. The integral community outreach that has been avoided is now unblocked — the work is concrete enough to hand people. Ike is the distributor. Give him the handle. |
 
 ---
 
@@ -146,7 +147,7 @@ The "ICA Source" column tracks which FriendCraft profile populates the row. As p
 | Regent | Amber | Kickstarter backers (group) | ⚠️ Partial — no individual profile |
 | Architect | Orange | AJ Cohen (partial) | ⚠️ Partial — needs Orange-primary profile |
 | Diplomat | Green | AJ Cohen + Gina LaCara | ✅ Sufficient for launch copy |
-| Sage | Teal | TBD | ❌ Needs FriendCraft profile |
+| Sage | Teal | Ike — 3-2-1 session June 18 | ✅ Sufficient for launch copy |
 
 **Minimum viable for launch:** Green row is ready. Orange row is close.
 **Priority profiles needed:** Red (Challenger) and Teal (Sage) are the biggest gaps.
