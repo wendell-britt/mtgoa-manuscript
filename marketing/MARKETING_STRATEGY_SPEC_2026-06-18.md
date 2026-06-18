@@ -302,3 +302,32 @@ Three events. Three Partiful pages. Each one is a door, not a destination — th
 - [ ] Complete remaining 13 FriendCraft profiles
 - [ ] Product sales pages — confirm which exist in bars-engine and which need to be built from scratch
 - [ ] Patreon tier structure update before July 18
+
+---
+
+## 10. CONVERSATION / PODCAST STRATEGY
+
+### The Two Priority Conversations
+
+Both AJ Cohen and Ike are getting personalized outreach — not asks, invitations to a conversation. These are not interviews. They are the conversations that have been waiting to happen and that will generate content, credibility, and raw material simultaneously.
+
+**AJ Cohen**
+- Primary level served: Green + Orange + Red
+- Why she's the right guest: power, Hollywood, what it actually takes to show up for people — credibility no one else in this space has
+- The conversation the book earns: allyship from inside a power structure, not as an outsider critique
+- Content generated: Red and Orange copy material, ICA profile depth, warm audience signal that serious people are paying attention
+
+**Ike**
+- Primary level served: Teal + Green
+- Why he's the right guest: brought integral consciousness to Blue Sky, has been in the lineage, can speak to what makes MTGOA distinct from Wilber's work rather than derivative of it
+- The conversation the book earns: integral theory applied to allyship, what it means to honor the lineage while building something new
+- Content generated: Teal copy material, credibility signal for integral community, raw material for epiphany bridge Teal draft
+
+### What These Conversations Do Beyond Content
+- They are the outreach that has been avoided — showing up to the people who already believe before you feel ready
+- They double as ICA profiling sessions — the conversation generates the texture the matrix needs
+- They become the first pieces of long-form content that can be clipped for every channel
+- They signal to the warm audience that serious people are engaged
+
+### Standing Rule
+These conversations happen before the book tour, not during it. Schedule them as part of the launch sprint — July 1-18 window ideal. Record everything.
