@@ -42,17 +42,18 @@ The "ICA Source" column tracks which FriendCraft profile populates the row. As p
 |-------|---------|
 | **Face** | Challenger |
 | **Level** | Red |
-| **Core Desire** | To back someone worth backing. To get tools worth having. To be respected for knowing the difference. |
-| **Primary Fear** | Wasting respect on someone who folds. Being played for sympathy. |
-| **Where They Are Right Now** | Watching to see if Wendell is still standing. They've seen plenty of people ask from smallness. They need to see someone asking from power. |
-| **The Wall** | Any sentence that sounds like an apology. Any moment of "I know this is a lot to ask." The hermit mode needs to land as proof of action, not as explanation. |
-| **The Crack** | "I stayed put. I kept pushing. Here is what I built while nobody was watching." — the moment they see the cave and the artifacts. |
-| **The Epiphany** | "I'm backing someone worth backing and getting tools worth having. This isn't charity. This is an exchange I respect." |
-| **What They Need From Copy** | The four artifacts named fast. Zero apologetic language. The hermit mode as Tony Stark in the cave — built something real in the dark. |
-| **What Will Lose Them** | Victim framing. Sentimentality. The word "accompaniment." Any sentence that asks for sympathy rather than respect. "Failing forward" aesthetics. |
-| **Which Channel Reaches Them** | Ally DMs (peer to peer, not broadcast). Social posts that lead with action. The Founder tier pitch. |
-| **ICA Source** | NOT YET POPULATED — needs a FriendCraft profile from a Red-primary reader |
-| **Copy Samples That Land** | "I made four things while nobody was watching. Now I'm back." / "Not a slow fade. A sudden, catastrophic end. And I kept going." |
+| **Core Desire** | To back someone worth backing. To get tools worth having. To be in on something hot before everyone else figures out it's hot. |
+| **Primary Fear** | Wasting respect on someone who folds. Being played for sympathy. Getting burned again by vision that doesn't deliver. |
+| **Where They Are Right Now** | Already decided most allyship is performance. Waiting to be proven wrong — or right. Not hostile to Wendell personally. Hostile to the weenie energy that usually surrounds this work. Bored. Competitive. Sensitive to power dynamics even when they won't admit it. |
+| **The Wall** | "You don't deliver." That's the history. Red has been here before with Wendell's vision. The wall isn't skepticism about the project — it's a track record of vision outrunning execution. The accountability statement (400 backers, August 1) is as much for Red as it is for Amber. Proof that this time there's a ship date attached to a real product. |
+| **The Crack** | The book agrees with him about the weenieness. MTGOA isn't arguing that allyship is noble — it's arguing that most allyship is a confidence game and here's the counter-con. The moment Red realizes the book is on his side of the diagnosis, the door opens. |
+| **The Epiphany** | "I'm backing someone worth backing and getting tools worth having. This isn't charity. This is an exchange I respect. And if this blows up the way it looks like it might, I was in early." |
+| **What They Need From Copy** | Wendell writing like he knows he's got something hot. Not asking — announcing. The dojo frame (separates dancers from wallflowers — Red respects this). The app framed as a competition you can win, not a community you join. No apologetic language. No sentimentality. The four artifacts as proof of delivery, not vision. |
+| **What Will Lose Them** | Victim framing. Sentimentality. Performed vulnerability. The word "accompaniment." Any sentence that asks for sympathy rather than respect. The weenie energy they've already diagnosed. "Failing forward" aesthetics. Anything that sounds like Wendell shrinking. |
+| **Which Channel Reaches Them** | Ally DMs (peer to peer, never broadcast). The Founder tier pitch specifically. Social posts that announce rather than ask. |
+| **ICA Source** | JJ (Wendell's roommate) — Nigerian, Black, competitive, Red-primary. 3-2-1 session June 18. The 1 position: "He needs to show people what he's made of. People will pay him if he acts like a don, like a boss, like a stud." |
+| **Copy Samples That Land** | "I made four things while nobody was watching. Now I'm back." / "Everyone's a weenie. This is a way to prove it — and get paid the whole time." (internal framing only — not public copy) / "The dojo separates the dancers from the wallflowers. Come find out which one you are." |
+| **Internal Note** | The "stupid money" frame is real for Red but stays out of public copy. The dojo/competition frame is the public-facing version. Same energy, different register. |
 
 ---
 
@@ -141,7 +142,7 @@ The "ICA Source" column tracks which FriendCraft profile populates the row. As p
 | Face | Level | ICA Source | Status |
 |------|-------|-----------|--------|
 | Shaman | Magenta | TBD | ❌ Needs FriendCraft profile |
-| Challenger | Red | TBD | ❌ Needs FriendCraft profile |
+| Challenger | Red | JJ (roommate) — 3-2-1 session June 18 | ✅ Sufficient for launch copy |
 | Regent | Amber | Kickstarter backers (group) | ⚠️ Partial — no individual profile |
 | Architect | Orange | AJ Cohen (partial) | ⚠️ Partial — needs Orange-primary profile |
 | Diplomat | Green | AJ Cohen + Gina LaCara | ✅ Sufficient for launch copy |
