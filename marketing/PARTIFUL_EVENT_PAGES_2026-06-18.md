@@ -1,6 +1,6 @@
 # Partiful Event Pages — June 18, 2026
 > Three events. Three pages. Swap placeholders before posting.
-> Status: Draft — needs Wendell edit pass before going live
+> Status: Dance party and Virtual Launch approved for use. Integral Emergence Game needs full brainstorm before copy is final.
 
 ---
 
@@ -28,20 +28,28 @@ Replay posted after for anyone who can't make it live.
 
 ## EVENT 2 — July 19: Dance Party @ Bruised Banana
 
-**Title:** We finished the book. Come dance about it.
+**Title:** Book's Done. Let's Dance. 🎉
 
-Mastering the Game of Allyship is done. Six years of writing, researching, and figuring out what it actually means to help people — and it's finally a real thing you can hold.
+Wendell Britt just finished Mastering the Game of Allyship — six years in the making — and we're celebrating with a dance party.
 
-We're celebrating at Bruised Banana with good music, good people, and the specific joy of something that took way too long finally being finished.
+Come move with us. All levels welcome. If you've never fusion danced before, perfect. If you have, also perfect.
 
-Pay what you want at the door. Bring whoever you love. No agenda, no programming, just dancing.
+This is a fundraiser for two things: getting Wendell a new car (his engine exploded the day after he finished the manuscript, because of course it did) and seeding the MTGOA nonprofit. Pay what you can at the door — every dollar goes directly to both.
+
+We're also looking for DJs! If you spin and want to be part of this, reach out.
+
+Want to know more about what you're funding? [LINK]
 
 [ADDRESS]
 Doors: [TIME]
+PWYW at the door
 
 ---
 
 ## EVENT 3 — July 20: Integral Emergence Game @ Bruised Banana
+
+> STATUS: Copy pending full brainstorm. See INTEGRAL_EMERGENCE_BRAINSTORM.md.
+> Placeholder copy below — do not post until brainstorm is complete.
 
 **Title:** Find out which face you're playing from — and what your next move is.
 
@@ -51,16 +59,16 @@ The Integral Emergence Game is a live facilitated experience where you find out 
 
 It's participatory. It's a little bit strange. It's for people who want to understand the whole map and then actually use it.
 
-Daytime event. Small group. [TIME].
-[ADDRESS]
+Daytime event. Small group. Sign up ahead of time — character creation required before you arrive.
+[ADDRESS] — [TIME]
 [RSVP / TICKET LINK]
 
 ---
 
 ## Open Threads
 - [ ] Zoom link for July 18
-- [ ] Bruised Banana address confirmed
-- [ ] Event times for all three
-- [ ] Bars-engine funding page URL
-- [ ] Capacity / ticket structure for July 20
-- [ ] Both Portland events need deeper copy development next session
+- [ ] Bruised Banana address + door times confirmed for both Portland events
+- [ ] Bars-engine funding page URL (links from both events)
+- [ ] DJ outreach for July 19
+- [ ] Integral Emergence Game full brainstorm — see INTEGRAL_EMERGENCE_BRAINSTORM.md
+- [ ] Character creation signup flow for July 20
