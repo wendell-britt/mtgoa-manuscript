@@ -6,23 +6,24 @@
 
 ## EVENT 1 — July 18: Virtual Book Launch
 
-**Title:** Mastering the Game of Allyship — Book Launch
+**Title:** Mastering the Game of Allyship — Virtual Book Launch
 
-Six years. One book. Tonight it's finally here.
+Okay party people. It's finally time.
 
-Join Wendell Britt for the live launch of Mastering the Game of Allyship — a book about what it actually takes to show up for people without losing yourself in the process.
+The book is weeks away from launching and before it does I want to gather everyone who's been watching this thing come together — the people who backed it, the people who've been waiting on the sidelines, the smartypants friends who need to kick the tires before they believe it — and show you what six years of work actually produced.
 
-What's happening:
-- A reading from the book
-- Live walkthrough of the Allyship Deck
-- Q&A with Wendell
-- Pre-orders open at the event
+Think of this as my thesis defense. Except the orals board is you, and I want you to come loaded with questions.
+
+I'll walk you through the book, the Allyship Deck, the RPG, and the app. I'll tell you the whole story of how we got here. And then I'll open it up — anything you want to know about allyship, about the framework, about what comes next. Bring the hard questions. That's what this is for.
+
+And if you've got a friend who's been struggling with the guilt and the shame and the "I want to help but I don't know how" — bring them. This is exactly the room for that.
 
 Free to attend. Donation-based. If you want to dig into what your contribution funds, [LINK TO BARS-ENGINE PAGE].
 
 Replay posted after for anyone who can't make it live.
 
 [ZOOM LINK]
+[DATE] | [TIME]
 
 ---
 
