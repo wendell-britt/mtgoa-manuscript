@@ -1,6 +1,6 @@
 # Brand Foundation — Mastering the Game of Allyship
 
-**Status:** LOCKED (Purpose, Vision, Target, Pillars)
+**Status:** LOCKED (Purpose, Vision, Mission, Target, Pillars)
 **Date locked:** 2026-07-10
 **Scope:** This document governs the brand — book, deck, cohort, Dojo, bars-engine, nonprofit — not just the manuscript. The manuscript's own thesis (see `THESIS_DRAFT.md`) sits *beneath* this document as the book's internal argument; this document is what the whole village is for.
 
@@ -44,7 +44,25 @@ Two possible endpoints were considered: a **modest** vision (the pipeline exists
 
 ---
 
-## 3. Target
+## 3. Mission
+
+> **We build the village's training ground: turning allyship into a game people actually practice — naming the moves, running the reps, convening players across the book, the cohort, and bars-engine so no one practices alone. The practice we're really teaching is getting off the drama triangle — trading Victim, Villain, and Rescuer for Hero, Challenger, and Ally — so what a room learns together, it carries back out to the people who need it.**
+
+### What this Mission does
+Purpose is *why* the brand exists (renewable, reliable supply of skillful allies). Vision is *the world* that produces (help no longer a matter of luck). Mission is *what the brand actually does* to get there — the operational sentence that must be visibly true of every product in the ecosystem (book, workbook, cohort, Dojo, bars-engine), not just the manuscript.
+
+### Key correction made while locking this Mission (see process notes for full derivation)
+Earlier drafts of this Mission centered **harm as an event** to be metabolized — a Vision-level concern (see Vision's antifragility clause), not a Mission-level one. The corrected Mission instead centers the **meta-harm of identity-lock**: people (on both sides of a harm) getting stuck inside the Drama Triangle (Karpman: Victim / Villain / Rescuer) as who they *are*, long after any event is over, casting everyone around them into fixed counter-roles to keep the story running. The manuscript already names the replacement structure in Chapter 1 — the **Allyship Triangle** (Hero / Challenger / Ally) — and that exit from the drama triangle, not harm-processing, is what the brand's Mission is actually teaching people to practice.
+
+### Open item: WB-3 Karpman citation decision may need revisiting
+`SPEC_WB3` (wu xing acknowledgment + Appendix E, done 2026-06-03) made a deliberate decision to **omit Karpman/Drama Triangle** from the book's citation appendix, on the grounds that it was "powerful but not structurally integrated" in the manuscript at the time — a book-level, single-gate call. Now that the Drama Triangle → Allyship Triangle exit is Mission-level for the *whole brand*, that omission should be consciously re-decided rather than left as-is by default. Worth revisiting whether Karpman warrants formal acknowledgment (e.g. in `appendices/ON_THE_SHOULDERS_OF.md`) now that the brand's stated Mission depends on the framework, not just one chapter's gate mechanic.
+
+### Open item: does the Drama/Allyship Triangle become a seventh Pillar?
+Raised but not yet decided: the Allyship Triangle (Hero/Challenger/Ally replacing Victim/Villain/Rescuer) currently lives inside Chapter 1 as a gate mechanic. Given its new Mission-level centrality, it may warrant promotion to a named seventh Pillar in Section 4, rather than remaining implicit as "the mechanism the Mission points to." Undecided as of this document's last lock.
+
+---
+
+## 4. Target
 
 ### 3.1 The Marketing Unit: The Household
 
@@ -94,7 +112,7 @@ The Purpose names two populations: the allies (Jordan, Marcus, Sasha, Derek — 
 
 ---
 
-## 4. Pillars
+## 5. Pillars
 
 Six frameworks underwrite the brand's Purpose and Vision. All six are now co-equal — not all were previously named as brand-level pillars; two were surfaced during this foundation work and are formally elevated here.
 
@@ -111,7 +129,7 @@ Six frameworks underwrite the brand's Purpose and Vision. All six are now co-equ
 
 ---
 
-## 5. Process notes (archived, not canon)
+## 6. Process notes (archived, not canon)
 
 The Vision was developed by running it through a Six Game Master Face panel — each Face proposing its own sub-vision, with the Sage integrating them. This process surfaced the antifragility and Octalysis corrections above. The panel work itself is archived here for provenance; **only the canonical paragraph in Section 2 is binding.**
 
