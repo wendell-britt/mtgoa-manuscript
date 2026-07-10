@@ -79,51 +79,80 @@ This section states the Offer's *shape and philosophy* only. Specific tiers, pri
 
 ## 5. Target
 
-### 3.1 The Marketing Unit: The Household
+### 5.1 The Marketing Unit: The Household
 
 Households, not individuals, are the primary marketing unit. Nobody buys "an ally" in isolation — they buy the closing of a gap inside a relationship, a family, a social future already in motion. The household's growth-edge tension (two people at different developmental altitudes, sharing an address) is the actual purchase driver for the partnered ICAs below, and it is a direct, small-scale proof-of-concept for the Purpose's "renewable, not spent" claim: if the framework can't survive contact with an unconverted partner without draining the convert, it hasn't actually produced renewable capacity.
 
 **Jordan is the entry point. Marcus's conversion is the proof.** "Even my Orange husband got it" is a distinct, valuable testimonial category, separate from Jordan's own transformation story.
 
-### 3.2 ICA: Jordan (partnered)
+**Household — External Desire:** A shared project and shared vocabulary that closes the developmental gap between them before it becomes a divorce statistic.
+**Household — Internal Desire:** Water/Sadness, transcending toward its satisfaction state ("the grief that proves what you loved was real") — the felt fear of growing apart, resolved into evidence the relationship can hold both of them growing at different speeds. Opens into: shared Fire/Triumph as a couple — winning something together, rather than one person healing while the other watches.
+
+### 5.2 A note on how Benefits are structured across every ICA below
+
+Each ICA is given an **External Desire** (the rational, tangible thing they're chasing in the world — Epiphany Bridge Beat 2) and an **Internal Desire** (the emotional, intangible satisfaction underneath it — Beat 3). Internal Desires are named using the Emotional Alchemy channels (see `SPEC_EMOTIONAL_ALCHEMY_TRANSLATOR.md`).
+
+**Critical framing rule:** the named Internal Desire is each person's **entry channel** — the one satisfaction state their particular wound already taught them to recognize and reach for — not their ceiling. Every player arrives fluent in one channel. **Mastering the Game of Allyship means the other four channels, which they didn't even know to want, become reachable too.** The emotional benefit of mastery isn't "get better at the feeling you already have" — it's "stop being fluent in only a fifth of your own aliveness." Each entry below names both the entry channel and what it opens into.
+
+This also means each ICA's relationship to **shame and guilt** needs individual translation rather than a universal formula. Research finding (full derivation in `SPEC_EMOTIONAL_ALCHEMY_TRANSLATOR.md`): shame and guilt are not fixed two-channel compounds — they are named *slots* that get filled by whichever channel-blend a person's own defensive pattern routes them through. Each ICA below names its likely fill.
+
+### 5.3 ICA: Jordan (partnered)
 
 - **Profile:** Mid-30s to early 40s. Has done real personal-development work — therapy, coaching, workshops. Read *Daring Greatly*, *The Body Keeps the Score*. This is the Kickstarter backer profile — the people who already paid for this work.
 - **Altitude:** Green, including Green's own shadow (over-identification with frameworks, performative depth).
 - **Fear:** "I'm doing more harm than I know," and — inside the household — "I'm alone in a family that doesn't understand the work I'm doing."
-- **Craving:** To show up for others without losing herself in the process. A partner who can meet her where she's going.
+- **External Desire:** Demonstrable, repeatable effectiveness as an ally — real campaigns run, real outcomes, not just more awareness she can't point to.
+- **Internal Desire (entry channel):** Wood/Joy — the surge of being fully herself while helping, instead of performing a version of herself the room needs. Not "I did the right thing," but "I was alive the whole time I was doing it." **Opens into:** Metal's excitement in confrontations she's been softening into disappearance, and potentially Fire's triumph — a channel Green's own culture tends to leave permanently un-visited.
+- **Shame/guilt translation:** Green culture makes visible anger unacceptable, so her shame rarely surfaces as self-contempt — it collapses into **Water**, a quiet private despair ("maybe I'm not who I thought I was"), not a fight. Her guilt shows up as chronic **Metal** — anticipatory worry about harm she can't yet see, rather than a discrete moment of dread.
 - **Entry point:** The book, directly. She is the initial purchaser.
 
-### 3.3 ICA: Marcus (partnered)
+### 5.4 ICA: Marcus (partnered)
 
 - **Profile:** Late 30s to mid-40s. Married, likely with kids. Financially secure through successfully playing an Orange game — competent, well-compensated, working inside a system (career, industry) he privately no longer fully believes in.
 - **Altitude:** Late-stage, *successfully executed* Orange, reaching toward Green — not out of ideology, but out of hunger for meaning his scoreboard doesn't measure. Structurally inside Green (through marriage, friend group, aspiration) without being developmentally inside it yet.
 - **Fear:** Being the one holding his family back — or being outgrown and left behind by his wife's growth.
-- **Craving:** Real, earned fluency and standing in his wife's world — not tourism (Burning Man, non-monogamy as an aesthetic), not lecture, but actual competence he's built himself.
+- **External Desire:** Legible competence in his wife's world — a finished book, a campaign he ran, a vocabulary he can use convincingly — not aesthetic tourism (Burning Man, non-monogamy as an idea).
+- **Internal Desire (entry channel):** Metal/Fear transcending to Excitement — "the thrill of what matters enough to risk." He isn't chasing comfort; he's chasing the exhilaration of catching up on purpose, which only exists on the other side of admitting the fear. **Opens into:** Wood's vitality in unguarded play he's never let himself have (he's optimized for so long that aliveness without a scoreboard is foreign), and Earth's grounded stillness — relief at not needing every room to be a competition.
+- **Shame/guilt translation:** Orange culture treats exposure as weakness, so his shame doesn't collapse inward as sadness — it converts to **Fire turned on himself**: self-disgust, contempt, "I'm an idiot." Fear of exposure fused with Anger, aimed inward rather than dissipating as grief.
 - **Why the Game framing works on him:** He already thinks in levels, mastery, and winning — that's his native Orange operating system. Gamified allyship is legible to him in a way therapy-coded language is not.
 - **Where he drops the book:** Anywhere it reads as scolding him for having succeeded in the system he's in. The book must let him keep his competence while showing him the floor he hasn't found yet.
 - **Entry point:** Gifted or modeled by Jordan. Conversion, not initial purchase.
 
-### 3.4 ICA: Sasha (single Jordan)
+### 5.5 ICA: Sasha (single Jordan)
 
 - **Profile:** Late 20s to late 30s. Not yet partnered, or recently out of a relationship that didn't survive her growth. Financially independent.
 - **Fear:** "I've done too much work to go back to dating people who haven't started." The dating pool matching her demographics doesn't match her altitude.
-- **Craving:** Recognition in motion — meeting someone while both are mid-project, doing something real, so attraction has evidence behind it. The Peace Corps / Habitat for Humanity / Camino de Santiago mechanism: connection formed sideways, through shared purposeful work, not through profile-browsing.
+- **External Desire:** A partner met through real, witnessed, shared work — a campaign, a cohort — not a swipe.
+- **Internal Desire (entry channel):** Wood/Joy — recognition-in-motion, being seen accurately because someone watched her show up under real conditions, not because she curated a profile. **Opens into:** Water's poignancy — grief as proof something mattered — which she may be outrunning by staying in constant motion rather than feeling what a past relationship actually cost her.
+- **Shame/guilt translation:** Likely defends against that underlying grief by flattening into **Earth** — a boredom-adjacent shutdown where she stops examining why the dating pool doesn't work, rather than feel the loss directly. Her shame reads closer to disengagement than despair.
 - **Where the brand meets her:** Cohort (party of 6–8 running a real campaign) and bars-engine campaigns — already-built convening structures, not a new dating feature.
 
-### 3.5 ICA: Derek (single Marcus)
+### 5.6 ICA: Derek (single Marcus)
 
 - **Profile:** Late 30s to mid-40s. Successful, unpartnered — either never settled inside a Green-adjacent social world, or came out the other side of a relationship where he was the one developmentally left behind.
 - **Fear:** "The women I'm attracted to want a man who's already done this work, and I don't know where you're even supposed to learn it" — possibly told this directly by an ex or a date.
-- **Craving:** Legitimate standing in rooms he currently only visits as a guest — earned through real doing (a campaign, a cohort project), not therapy-speak he can't yet use convincingly.
+- **External Desire:** A visible, demonstrable on-ramp into a world he currently only visits as a guest — something he did, not a seminar he attended.
+- **Internal Desire (entry channel):** Metal/Fear transcending to Excitement — the thrill of an actual, legible path in. **Opens into:** Fire's triumph, direct and uncomplicated — something he's likely been denied because every room he's tried to enter treats wanting to win as the problem, not a channel he's allowed to feel clean.
+- **Shame/guilt translation:** Classic deflection — shame converts to **Wood's distorted form, mischief**: jokes, bravado, changing the subject, rather than facing it directly, because directness would require the exposure he's most afraid of.
 - **Why Camino-logic is his only legible door in:** He will not sign up for a "personal growth for men" seminar. He will sign up for a program that visibly produces capable, values-aligned people, because that's a room he wants to be findable in.
 
-### 3.6 Guardrail on Sasha/Derek
+### 5.7 ICA: Reyna — the Teal portal (burned-out Green)
+
+- **Profile:** Was fully fluent in Green — its language, its policing, its norms — and defected from *inside* it, not from below it. Radicalized by Green's own anger at injustice; burned out by Green refusing her the one thing that would have made the fight survivable — permission to actually want to win. This is not a fifth variation on the other four ICAs; it is structurally different. Jordan, Marcus, Sasha, and Derek are all moving *toward* Green from adjacent altitudes. Reyna has already been through Green and hit its ceiling hard enough to need something Green can't offer — she is empirical proof the book's own developmental claim (skip a level, get blocked by its shadow) is real, not theoretical.
+- **Fear:** "If I stay somewhere that only values processed feelings and harmony, I keep losing, and eventually I'll stop caring enough to fight at all." Apathy, not defeat, is what she's actually afraid of.
+- **External Desire:** An actual win — leverage, strategy, a real outcome — not a better feeling about the loss.
+- **Internal Desire (entry channel):** Fire/Anger straight to Triumph, with no detour through Wood or Metal first — a channel Green's own culture is structurally bad at legitimizing.
+- **Shame/guilt translation:** Her personal shame may barely register as personal anymore — it's been externalized into chronic **Fire (hatred)** aimed at a system or specific people, functioning as a defense against a much harder private question: *have I become the thing I've been fighting?* If that question lands, it likely surfaces as sudden, acute **Water despair** rather than gradual sadness, because it's been held off for so long.
+- **Function in the brand:** She is the portal into Teal play — proof the ladder is real, and the reader profile most likely to reach for and legitimately need Fire/Triumph as a primary satisfaction state.
+- **Structural design risk (not yet resolved):** Gamification mechanics (points, tickets, campaigns, visible wins) are inherently Triumph-friendly and will serve Reyna well by default, without any deliberate design for her. Left unaddressed, this risks two failure modes at once: bars-engine's scoreboard mechanics over-serving Reyna while under-serving Jordan (who is the most Triumph-averse ICA and the most carefully protected from achievement-coded framing elsewhere in this document). This tension should be resolved deliberately in tool/game design, not left to default mechanics.
+
+### 5.8 Guardrail on Sasha/Derek
 
 The cohort and bars-engine campaign structures already function as the "third place" the Peace Corps/Habitat/Camino comparison describes — this does not require new product, only honest marketing of what exists. **The brand must never position itself as a dating product.** Any copy aimed at Sasha or Derek must lead with the shared work being real and worth doing on its own terms, with connection as an honest, named, secondary byproduct — never the primary pitch. The live shadow risk is Orange colonizing the framework as a pickup strategy; the guardrail is structural, not cosmetic.
 
-### 3.7 Open target — not yet profiled
+### 5.9 Open target — not yet profiled
 
-The Purpose names two populations: the allies (Jordan, Marcus, Sasha, Derek — profiled above) and **the people in need who receive the pipeline's help.** This second population has no ICA yet. It should be profiled separately before target-facing marketing claims about "reliability" are finalized, since the current ICAs describe only the supply side of the pipeline, not the demand side.
+The Purpose names two populations: the allies (Jordan, Marcus, Sasha, Derek, Reyna — profiled above) and **the people in need who receive the pipeline's help.** This second population has no ICA yet. It should be profiled separately before target-facing marketing claims about "reliability" are finalized, since the current ICAs describe only the supply side of the pipeline, not the demand side.
 
 ---
 

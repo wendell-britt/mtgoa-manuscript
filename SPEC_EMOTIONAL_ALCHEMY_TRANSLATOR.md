@@ -94,7 +94,47 @@ Create `SPEC_EMOTIONAL_ALCHEMY_COMPOUND_RESEARCH.md` before writing any compound
 
 ---
 
-## Lookup Protocol
+## Intensity Gradients Within Each Channel (Research — 2026-07-10)
+
+**Status:** Advances the Compound Emotional Concept Words backlog above. Not yet full backlog closure — the mild/acute/distorted forms below need the same worked-example treatment as the canonical Signal/Satisfaction table before they're promotable to canon.
+
+**The gap this closes:** The canonical table gives one dissatisfaction word per channel (Fear, Sadness, Joy-suppressed, Anger, Neutrality-stuck). Real readers report more granular words than that, and the granularity matters — a chronic low-grade form and an acute high-intensity form of the same channel call for different Repurpose moves, and a *stuck/distorted* form is a different animal again (identity-lock, not just intensity).
+
+| Channel | Mild / chronic | Acute / high-intensity | Distorted / stuck (identity-lock) |
+|---|---|---|---|
+| **Metal (Fear)** | Worry — low-grade, ongoing risk-scanning | Panic — acute, body-flooding | — (not yet researched) |
+| **Water (Sadness)** | — (not yet researched — candidate: melancholy) | Despair — the future itself feels foreclosed, not just a discrete loss | — (not yet researched) |
+| **Fire (Anger)** | Frustration — a boundary blocked, still hoping to move it | Rage (implied; not yet independently researched) | **Hatred** — Anger that has calcified into a fixed identity-cast on a person (permanent Villain), no longer functioning as a live signal about a boundary. This is the Drama-Triangle Villain-cast (see Ch1) in single-word form. |
+| **Wood (Joy, suppressed)** | Boredom — vitality denied an outlet, flattening | **Mania** — vitality ungrounded, running without Earth's stillness to contain it | **Mischief** — vitality diverted into chaos absent a legitimate channel; play without accountability |
+| **Earth (Neutrality, stuck)** | — (not yet researched — candidate: mild confusion) | **Apathy** — discernment itself abandoned; distinct from "I don't know what I feel" — closer to "I've stopped trying to know" | — (not yet researched) |
+
+**Open research questions:**
+- Confirm or replace the "not yet researched" mild-form candidates (melancholy, mild confusion) against real reader language.
+- Confirm whether Rage deserves independent treatment from Frustration, or whether it's simply Frustration's acute pole.
+- Determine whether every channel needs all three gradients, or whether some channels (e.g. Earth) function differently across the mild/acute/distorted axis than others.
+
+---
+
+## Shame and Guilt Are Variable Compounds, Not Fixed Formulas (Research — 2026-07-10)
+
+**Status:** Advances the Compound Emotional Concept Words backlog. This is a structural finding, not just new vocabulary — it changes how Shame/Guilt should be handled in the Translator going forward.
+
+**The finding:** The existing backlog table treats Shame = Fear + Sadness and Guilt = Sadness + Fear-of-consequence as fixed formulas. Reader-pattern research suggests this is wrong in an important way: **the same triggering event produces a different channel-blend depending on the person's own dominant defensive pattern.** Shame and guilt are not single compounds with one recipe each — they are *slots* that get filled by whichever channel-blend a given person's psychology routes them through.
+
+Observed variants (illustrative, drawn from distinct psychological profiles, not exhaustive):
+- **Shame → Water (despair):** collapses inward as private hopelessness — "I'm bad at this, maybe I'm not who I thought I was" — with no outward anger component at all.
+- **Shame → Fire directed at self (self-disgust/self-contempt):** Fear of exposure fused with Anger, but the anger is aimed inward rather than dissipating as sadness — "I'm an idiot," contempt rather than grief.
+- **Shame → Earth (disengagement/flattening):** rather than feeling the shame directly, the person stops examining the situation that would surface it — closer to boredom-adjacent shutdown than to sadness or self-anger.
+- **Shame → Wood distorted (mischief/deflection):** jokes, bravado, changing the subject — the shame gets metabolized into performance rather than faced.
+- **Shame → chronic externalized Fire (hatred), defending against a private Water collapse:** anger aimed outward at a system or others functions as a defense against a harder internal question; if that question lands, it can surface suddenly as acute despair rather than gradual sadness.
+
+**Implication for the Translator:** Do not encode Shame/Guilt as fixed two-channel formulas going forward. Instead, treat them as **named slots with a person-pattern-dependent fill** — the Translator's job when a writer asks "how does shame show up here" is to first ask "for *this* person/character, which channel does their shame typically route through," not to apply a universal formula. This likely generalizes to other named compounds in the existing backlog table (Disappointment, Dread, Jealousy, etc.) and should be tested against those before assuming Shame/Guilt are the only variable ones.
+
+**Cross-reference:** A person-pattern-specific application of this finding (mapped to five audience profiles/ICAs) lives in `BRAND_FOUNDATION.md`, Section 5 (Target). That document is the marketing-facing application; this section is the underlying system finding. Keep both in sync if either changes.
+
+---
+
+
 
 When a drafting question arises ("what word fits here?"):
 
@@ -151,4 +191,5 @@ For each chapter's emotional alchemy section, before writing the satisfaction la
 **Spec status:** APPROVED — 2026-04-22
 **Created:** 2026-04-22
 **Updated:** 2026-04-22 — added dissatisfaction states + compound words backlog
+**Updated:** 2026-07-10 — added intensity-gradient research (mild/acute/distorted per channel) and the shame/guilt variable-compound finding (person-pattern-dependent fill, not fixed formula); cross-referenced to `BRAND_FOUNDATION.md` Section 5
 **Owner:** Wendell Britt
