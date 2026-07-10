@@ -1,6 +1,6 @@
 # Brand Foundation — Mastering the Game of Allyship
 
-**Status:** LOCKED (Purpose, Vision, Mission, Target, Pillars)
+**Status:** LOCKED (Purpose, Vision, Mission, Offer, Target, Pillars)
 **Date locked:** 2026-07-10
 **Scope:** This document governs the brand — book, deck, cohort, Dojo, bars-engine, nonprofit — not just the manuscript. The manuscript's own thesis (see `THESIS_DRAFT.md`) sits *beneath* this document as the book's internal argument; this document is what the whole village is for.
 
@@ -62,7 +62,22 @@ Raised but not yet decided: the Allyship Triangle (Hero/Challenger/Ally replacin
 
 ---
 
-## 4. Target
+## 4. Offer
+
+> **We offer highly engaging, transformative allyship experiences. Every product is a game, or a way to get further into the game — at whatever price point matches how deep you want to play.**
+
+### What this Offer does
+Purpose, Vision, and Mission establish why the brand exists, what world it's building, and what it does to get there. Offer is the first layer that answers a different question: **what do you actually get for money, and how does every product relate to every other one?** The answer is deliberately simple — there is no separate ladder logic to explain product-by-product. The book is a game. The deck is a game. The cohort is a game played with others. Coaching is a private session inside the game. Bars-engine is where the game lives digitally. One sentence covers the present catalog and any future product without needing a re-explanation each time something new ships.
+
+### Why "price point matches depth of play," not competitive value
+Pricing is framed as **how deep into the game someone is buying in** — not as a value comparison against alternatives, and not as urgency or scarcity marketing. This keeps the Offer consistent with the brand's Green/Teal register (no Orange achievement/competition framing) and with the Octalysis pillar: depth-of-play as the pricing frame draws on Scarcity/Ownership as engagement drivers, not as artificial urgency tactics. Future pricing decisions should be measured against this test: **does the price still read as "how deep into the game," or has it drifted into "why we're worth it compared to X"?**
+
+### Deliberately out of scope for this section
+This section states the Offer's *shape and philosophy* only. Specific tiers, prices, discount windows (e.g. Founding Ally pricing), and their permanence or temporariness are pricing-page decisions, not brand-foundation canon, and are intentionally not codified here.
+
+---
+
+## 5. Target
 
 ### 3.1 The Marketing Unit: The Household
 
@@ -112,7 +127,7 @@ The Purpose names two populations: the allies (Jordan, Marcus, Sasha, Derek — 
 
 ---
 
-## 5. Pillars
+## 6. Pillars
 
 Six frameworks underwrite the brand's Purpose and Vision. All six are now co-equal — not all were previously named as brand-level pillars; two were surfaced during this foundation work and are formally elevated here.
 
@@ -129,7 +144,7 @@ Six frameworks underwrite the brand's Purpose and Vision. All six are now co-equ
 
 ---
 
-## 6. Process notes (archived, not canon)
+## 7. Process notes (archived, not canon)
 
 The Vision was developed by running it through a Six Game Master Face panel — each Face proposing its own sub-vision, with the Sage integrating them. This process surfaced the antifragility and Octalysis corrections above. The panel work itself is archived here for provenance; **only the canonical paragraph in Section 2 is binding.**
 
