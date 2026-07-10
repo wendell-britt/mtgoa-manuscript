@@ -134,7 +134,23 @@ Observed variants (illustrative, drawn from distinct psychological profiles, not
 
 ---
 
+## Satisfaction-Side Intensity Gradients (Research — 2026-07-10)
 
+**Status:** Completes the mirror of the Intensity Gradients research above. That section found mild/acute/distorted forms on the *dissatisfaction* side; this section does the same work for *satisfaction* names, and resolves an apparent vocabulary conflict between this spec and the Allyship Deck's Capability Model (120-card deck breakdown, `src/lib/allyship-deck/*`) — the two are not competing terms, they are different points on the same gradient.
+
+| Channel | Sustained / ongoing form | Acute / peak form | Deck source uses |
+|---|---|---|---|
+| **Metal (Fear→)** | Excitement — "the thrill of what matters enough to risk," sustained through engagement | **Wonder** — open, curious, receptive register (Deck: capability = exploration) | Acute pole |
+| **Wood (Joy→)** | Vitality-Alive — the ongoing felt sense of being aligned while in motion | **Bliss** — the peak, momentary state (Deck: capability = participation) | Acute pole |
+| **Earth (Neutrality→)** | Grounded-Stillness — the active form, holding complexity without losing footing | **Peace** — the resting, mild form (Deck: capability = rest) | Mild pole (only reversal — Deck uses the *milder* pole here, not the acute one) |
+| **Fire (Anger→)** | Triumph | Triumph | No split — consistent across both sources |
+| **Water (Sadness→)** | Poignancy | Poignance | Spelling variant only, not a real gradient |
+
+**Implication for the Translator:** Do not treat the Deck's Capability Model names (Wonder, Bliss, Peace, Triumph, Poignance) as a competing or superseding vocabulary. They are valid points on the same five-channel satisfaction gradient this spec already defines — use whichever pole fits the register of the passage (book prose may want the sustained form; deck/app copy, being terser and card-sized, tends toward the acute or resting form). Existing ICA/marketing language using either set of names in `BRAND_FOUNDATION.md` does not need correction as a result of this finding.
+
+---
+
+## Lookup Protocol
 
 When a drafting question arises ("what word fits here?"):
 
@@ -192,4 +208,5 @@ For each chapter's emotional alchemy section, before writing the satisfaction la
 **Created:** 2026-04-22
 **Updated:** 2026-04-22 — added dissatisfaction states + compound words backlog
 **Updated:** 2026-07-10 — added intensity-gradient research (mild/acute/distorted per channel) and the shame/guilt variable-compound finding (person-pattern-dependent fill, not fixed formula); cross-referenced to `BRAND_FOUNDATION.md` Section 5
+**Updated:** 2026-07-10 — added satisfaction-side intensity gradients, reconciling this spec's names (Excitement, Vitality-Alive, Grounded-Stillness) with the Allyship Deck's Capability Model names (Wonder, Bliss, Peace) as gradient poles, not competing vocabularies
 **Owner:** Wendell Britt
