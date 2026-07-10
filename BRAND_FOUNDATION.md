@@ -1,6 +1,6 @@
 # Brand Foundation — Mastering the Game of Allyship
 
-**Status:** LOCKED (Purpose, Vision, Mission, Offer, Target, Rational & Emotional Benefits, Pillars)
+**Status:** LOCKED (Purpose, Vision, Mission, Offer, Target, Rational & Emotional Benefits, Reasons to Believe, Pillars)
 **Date locked:** 2026-07-10
 **Scope:** This document governs the brand — book, deck, cohort, Dojo, bars-engine, nonprofit — not just the manuscript. The manuscript's own thesis (see `THESIS_DRAFT.md`) sits *beneath* this document as the book's internal argument; this document is what the whole village is for.
 
@@ -179,7 +179,30 @@ This is flagged as a **formal open item for future integration work**, not a con
 
 ---
 
-## 7. Pillars
+## 7. Reasons to Believe
+
+This section was built backwards on purpose: a six-Face **hostile** review first identified the specific reasons a sophisticated, skeptical reader shouldn't believe the brand's promise, and each Reason to Believe below is a direct answer to one of those objections — not a features list dressed up as proof. Status is marked honestly for each: several are earned and quantifiable; at least one is a named, real gap with a committed fix, not yet built. This is deliberate. A brand this detailed about its own promise should be at least as detailed about what isn't proven yet.
+
+| Objection (Face, hostile mode) | Reason to Believe | Status |
+|---|---|---|
+| **Shaman** — no felt proof, just an elegant argument | Of the 2020 course's 175 paying students, **80% reached the penultimate chapter — meaning they completed at least 20 rounds of 3-2-1.** That's sustained, repeated, embodied engagement with the exact mechanism this brand claims produces felt transformation. The oft-cited 4% completion figure measures a linear-course finish line; it says nothing about whether the practice landed in the body for the people who engaged with it. It did, for the overwhelming majority who did. | **Earned, quantifiable** |
+| **Challenger** — the 2020 course's 4% completion rate | Already disclosed on the sales page, in the founder's own voice, as a diagnosed structural failure (solo, asynchronous, no witness) — not excused as roughly industry-typical, even though it is. The cohort model is the named structural fix for that specific cause, not a vague "trust us, it's different now." | **Earned** |
+| **Regent** — no inheritance; single-founder risk | Named directly rather than argued away: **this gap is real.** The fix is a facilitator/Game Master certification track, producing successor disciples who can run the work without requiring the founder in the room. This does not exist yet. It requires its own strategic session (product design, revenue-ladder placement, curriculum) before it can be built — logged here as a committed roadmap item, not a current asset. | **Real gap — roadmap item, not yet built** |
+| **Architect** — the tools are being built while the brand claims they work | The brand's own process discipline is unusually visible and auditable: `WB-7`'s decision to name the funnel honestly rather than concealing it, the repeated six-Face hostile-review habit applied to its own copy before shipping (including this section), and reconciling the 52→120-card deck architecture openly rather than quietly swapping it. Rigor of process is a credible proxy where outcome-proof doesn't yet exist at scale. | **Earned — process-proof, not outcome-proof; the distinction is stated on purpose, not blurred** |
+| **Diplomat** — no real voices, only constructed personas | The 371 Kickstarter backers — real, paid, six-year-loyal — are being invited onto the **Mastering the Game of Allyship Podcast**, interviewed directly by the founder about their specific blockers to effective allyship and how the game system unblocked them. A handful of episodes already exist; the near-term work is re-recording or reformatting them into the sharper interview format now defined, not starting from zero. This converts the brand's strongest untapped asset into audible proof while campaign-level outcomes accumulate. | **In motion — mechanism defined, early episodes exist, format sharpening underway** |
+| **Sage** — panoramic: all proof is prospective | No longer fully true. Felt-proof is now quantified (Shaman), the funnel disclosure is real and public (Challenger), and a concrete proof-generation mechanism already has episodes in progress (Diplomat). What remains honestly prospective: outcome-at-scale for the *newer* ecosystem (deck, cohort, bars-engine), and the succession/inheritance gap (Regent) — both correctly logged as open rather than papered over. | **Sharpened, not dismissed — the honest remainder is named, not hidden** |
+
+### Open item: Facilitator / Game Master certification track
+
+Flagged as a **future strategic session**, not scoped here. This is a genuinely new product line — distinct from the existing value ladder (book → deck → Dojo → cohort → organizations) — and its placement (a new tier above/parallel to existing ones, curriculum design, who it's for) needs dedicated strategic work rather than being decided as a side effect of the Reasons to Believe pass.
+
+### Open item: MTGOA Podcast production
+
+The near-term, lowest-cost fix to the Diplomat's objection. A few episodes already exist but not in the sharper interview format now defined (direct interviews with Kickstarter backers about specific allyship blockers and how the game system resolved them). Next step: decide whether to re-record early episodes in the new format or supplement them with new ones, and set a minimum viable batch (e.g., 10 episodes, as discussed) to convert this from "in motion" to "shipped proof."
+
+---
+
+## 8. Pillars
 
 Six frameworks underwrite the brand's Purpose and Vision. All six are now co-equal — not all were previously named as brand-level pillars; two were surfaced during this foundation work and are formally elevated here.
 
@@ -196,7 +219,7 @@ Six frameworks underwrite the brand's Purpose and Vision. All six are now co-equ
 
 ---
 
-## 8. Process notes (archived, not canon)
+## 9. Process notes (archived, not canon)
 
 The Vision was developed by running it through a Six Game Master Face panel — each Face proposing its own sub-vision, with the Sage integrating them. This process surfaced the antifragility and Octalysis corrections above. The panel work itself is archived here for provenance; **only the canonical paragraph in Section 2 is binding.**
 
