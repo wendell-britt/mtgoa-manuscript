@@ -1,6 +1,6 @@
 # Brand Foundation — Mastering the Game of Allyship
 
-**Status:** LOCKED (Purpose, Vision, Mission, Offer, Target, Pillars)
+**Status:** LOCKED (Purpose, Vision, Mission, Offer, Target, Rational & Emotional Benefits, Pillars)
 **Date locked:** 2026-07-10
 **Scope:** This document governs the brand — book, deck, cohort, Dojo, bars-engine, nonprofit — not just the manuscript. The manuscript's own thesis (see `THESIS_DRAFT.md`) sits *beneath* this document as the book's internal argument; this document is what the whole village is for.
 
@@ -156,7 +156,30 @@ The Purpose names two populations: the allies (Jordan, Marcus, Sasha, Derek, Rey
 
 ---
 
-## 6. Pillars
+## 6. Rational & Emotional Benefits
+
+### Rational Benefits (what you tangibly get)
+
+Each benefit below traces to a specific, verified mechanic — not a generic self-help claim. Each was pressure-tested and corrected at least once before landing here (see Process Notes for the corrections).
+
+1. **Language for what you were always perceiving but couldn't name.** Most people carry a low-grade hermeneutical injustice around allyship — real perception with no adequate vocabulary to hold it, dismissed as "just a feeling." The Six Faces, the Gates, and the Allyship Triangle (Hero/Challenger/Ally replacing Victim/Villain/Rescuer) give you concepts precise enough to catch what you were already sensing — in a family conversation, in your own hesitation, in a hiring decision, wherever it's actually happening, which is everywhere. *(Traces to: Six Faces, Village/Forest, Mission.)*
+2. **A felt diagnostic for what a hard moment will actually cost you, before you spend it.** The Token/Ticket distinction between renewable and non-renewable fuel — checkable in the body before you act, not a score tallied after. Burnout stops being a mystery that happens *to* you and becomes something you can see coming. *(Traces to: the Token/Ticket spine, `SPEC_ENERGY_MODEL_REPLACEMENT`.)*
+3. **Six badges, one per Face, each proving you've beaten that specific game.** Shaman, Challenger, Regent, Architect, Diplomat, Sage — each is a distinct game with its own logic, not a rank on one ladder (Pokémon-gym model, not belt model). You can walk into whichever one has live business for you first. Earn all six, and you're not just "advanced" — you're qualified to run the table yourself, the way the book's final chapter hands you the job of making this pass-onable to someone else. *(Traces to: the Six Faces chapter architecture, Ch8/Player. Independent of the 120-card Allyship Deck for now — see open item below.)*
+4. **Placement in a specific-sized team, on a real campaign, with an end date.** Not "community" in the abstract — a cohort of 6–8 people running one actual external campaign together over 12 weeks. *(Traces to: Offer, cohort structure.)*
+
+### Emotional Benefits (how it makes you feel)
+
+Full detail lives per-ICA in Section 5 (Target). The standing principle, true across every ICA: **every player arrives fluent in one satisfaction channel — their entry point — and mastery means the other four, which they didn't know to want, become reachable too.** The emotional benefit isn't "get better at the feeling you already have," it's "stop being fluent in only a fifth of your own aliveness." Each ICA's specific entry channel, what it opens into, and their shame/guilt translation are detailed in their individual entries (5.3–5.7).
+
+### Open item: Allyship Deck ↔ Badge System book integration
+
+**Decision as of 2026-07-10:** the six-badge system (Rational Benefit #3 above) is independent of the 120-card Allyship Deck for now. The deck's own architecture (5 Moves × 6 Operations × 4 Domains) deliberately treats the six Operations as non-hierarchical tools available on every card, not a progression — this was a considered design choice (see the deck's own documentation: "the Six Faces in the deck are operations that every move can perform, not locked player identities"). The badge system, by contrast, is scoped to the book/chapter level: one badge per Face, earned by completing that Face's chapter/game.
+
+This is flagged as a **formal open item for future integration work**, not a contradiction to resolve immediately: is there a future version where completing a critical mass of cards from a given Operation (across the deck) contributes toward or unlocks that Face's badge? That would connect the deck to the badge/meta-game system without re-imposing hierarchy on the deck's own card-draw mechanic. This should be a deliberate design session (likely Architect + Sage lenses) rather than a default, given the deck's non-hierarchical design was itself a considered decision.
+
+---
+
+## 7. Pillars
 
 Six frameworks underwrite the brand's Purpose and Vision. All six are now co-equal — not all were previously named as brand-level pillars; two were surfaced during this foundation work and are formally elevated here.
 
@@ -173,7 +196,7 @@ Six frameworks underwrite the brand's Purpose and Vision. All six are now co-equ
 
 ---
 
-## 7. Process notes (archived, not canon)
+## 8. Process notes (archived, not canon)
 
 The Vision was developed by running it through a Six Game Master Face panel — each Face proposing its own sub-vision, with the Sage integrating them. This process surfaced the antifragility and Octalysis corrections above. The panel work itself is archived here for provenance; **only the canonical paragraph in Section 2 is binding.**
 
