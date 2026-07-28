@@ -1,6 +1,8 @@
+import os as _os
+MS = _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), _os.pardir, 'manuscript') + _os.sep
 import re, glob
 NEG = re.compile(r'^(Not|No|Never|Nor|Neither|Don\'t|Doesn\'t|Nothing)\b')
-FILES = sorted(glob.glob('/home/claude/ch[1-9].md'))
+FILES = sorted(glob.glob(MS+'ch[1-9].md'))
 grand=0
 for f in FILES:
     lines = open(f).read().split('\n')

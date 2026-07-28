@@ -1,11 +1,13 @@
 # -*- coding: utf-8 -*-
+import os as _os
+MS = _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), _os.pardir, 'manuscript') + _os.sep
 import io,re,json
 from stylo import measure,dewrap
 U='/root/.claude/uploads/248d6205-9839-527b-b2a8-f162951173fa/'
 def mtgoa():
     out=[]
     for c in range(1,10):
-        L=io.open('/home/claude/ch%d.md'%c,encoding='utf-8').read().split('\n')
+        L=io.open(MS+'ch%d.md'%c,encoding='utf-8').read().split('\n')
         for l in L:
             s=l.strip()
             if not s: continue

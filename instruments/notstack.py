@@ -1,6 +1,8 @@
+import os as _os
+MS = _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), _os.pardir, 'manuscript') + _os.sep
 import re, sys, glob
 
-FILES = sorted(glob.glob('/home/claude/ch[1-9].md'))
+FILES = sorted(glob.glob(MS+'ch[1-9].md'))
 
 # A negation fragment: a sentence that STARTS with Not/No/Never/Nor/Don't and
 # has no finite verb-y independent-clause shape -- we detect by: begins with

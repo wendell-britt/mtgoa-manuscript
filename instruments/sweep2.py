@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
+import os as _os
+MS = _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), _os.pardir, 'manuscript') + _os.sep
 import io
-path='/home/claude/ch9.md'
+path=MS+'ch9.md'
 t=io.open(path,encoding='utf-8').read()
 reps=[
 ("That's the only definition that matters. Not what you believe about allyship. Not what you intend to do when you're calm. What you do when you're activated",

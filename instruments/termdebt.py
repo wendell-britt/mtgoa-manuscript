@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+import os as _os
+MS = _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), _os.pardir, 'manuscript') + _os.sep
 # Task 33: TERM-DEBT LEDGER.
 # For every canonical term: first USE vs first DEFINITION, by ch:line.
 # A use before a definition = "jargon without translation" = Jordan's #1 drop-off trigger.
@@ -48,7 +50,7 @@ TERMS = [
 
 LINES = {}
 for c in range(1, 10):
-    LINES[c] = io.open('/home/claude/ch%d.md' % c, encoding='utf-8').read().split('\n')
+    LINES[c] = io.open(MS+'ch%d.md' % c, encoding='utf-8').read().split('\n')
 
 def is_def(term_rx, line, nxt):
     """Definition event. nxt = the next 3 lines joined, for roster-entry detection."""

@@ -4,42 +4,53 @@
 
 ## Where the book actually is
 
-The nine chapter docs below are the manuscript. Each one carries a STATUS header stamped with its sync date and word count. Edit these, and write edits back to the same path.
+The nine chapter files below are the manuscript. Edit these, and write edits back to the same path.
 
-| Ch | Project doc | Words |
+| Ch | File | Title |
 |---|---|---|
-| 1 | `claude/CHAPTER1_DRAFT.md` | 7,527 |
-| 2 | `claude/CHAPTER2_FULL_DRAFT.md` | 7,187 |
-| 3 | `claude/CHAPTER3_SHAMAN_FULL_DRAFT.md` | 15,096 |
-| 4 | `claude/CHAPTER4_CHALLENGER_FULL_DRAFT.md` | 11,093 |
-| 5 | `claude/CHAPTER5_REGENT_FULL_DRAFT.md` | 8,820 |
-| 6 | `claude/CHAPTER6_ARCHITECT_FULL_DRAFT.md` | 9,835 |
-| 7 | `claude/CHAPTER7_DIPLOMAT_FULL_DRAFT_MASTER.md` | 12,818 |
-| 8 | `claude/CHAPTER8_SAGE_FULL_DRAFT.md` | 13,292 |
-| 9 | `claude/CHAPTER9_PLAYER_FULL_DRAFT.md` | 12,070 |
+| 1 | `manuscript/ch1.md` | The Infinite Arcade |
+| 2 | `manuscript/ch2.md` | The Forest |
+| 3 | `manuscript/ch3.md` | The Shaman |
+| 4 | `manuscript/ch4.md` | The Challenger |
+| 5 | `manuscript/ch5.md` | The Regent |
+| 6 | `manuscript/ch6.md` | The Architect |
+| 7 | `manuscript/ch7.md` | The Diplomat |
+| 8 | `manuscript/ch8.md` | The Sage |
+| 9 | `manuscript/ch9.md` | The Player |
 
-Book total: 97,738 words.
+**Canon moved to git on 2026-07-28.** This repository is now the durable store,
+and these nine files are the book. The Claude project docs that used to hold
+canon (`claude/CHAPTER*.md`) and the Obsidian vault are upstream history — do
+not sync a chapter back to them and do not treat them as authoritative.
 
-**There is no git repository.** The project is the only durable store. Working sessions pull these docs down to `ch1.md` through `ch9.md` in an ephemeral container and edit there, and those working files vanish when the session ends. **Any session that edits a chapter must sync it back to the project doc above before it finishes.** A chapter edited only in a session container is a chapter that was not edited.
+Commit chapter edits. A chapter edited in a session container and never
+committed is a chapter that was not edited.
 
-The cheap way to sync, which never puts the chapter text into context:
+Word counts are deliberately not repeated here. Earlier copies of this table
+drifted from the files. Measure instead — and use one measure consistently:
 
 ```
-project_write(path="claude/CHAPTER3_SHAMAN_FULL_DRAFT.md", local_path="ch3.md")
+python3 -c "import glob;print(sum(len(open(f).read().split()) for f in glob.glob('manuscript/ch*.md')))"
 ```
 
-Do **not** `project_read` a full chapter doc unless the text genuinely has to be in context. It returns inline and costs tens of thousands of tokens.
+That reports **97,738**, the figure in `MANIFEST.md`. Note that `wc -w` reports
+96,260 for the same files — it splits differently around em dashes and markdown
+punctuation. Both are correct; they answer different questions. Quote the
+whitespace-split figure, because that is what the manifest and every planning
+doc use.
 
 ## The rest of the durable set
 
-- `claude/MTGOA_INSTRUMENTS_TOOLKIT.md` — the reviewer gate, the safe-edit pattern, the duplicate scanner, and the measurement instruments (practice surfaces, chain check, stylometry, term debt, negation stacks, repetition sweep, construction sites). Paste an instrument into a file and run it against `ch1.md`–`ch9.md`. Every claim about this manuscript should come from one of these, not from a planning document.
-- `claude/visuals/` — the built HTML visuals: `CHAPTER_ENGINE`, `CH2_SEVEN_DAEMONS`, `CH3_PROCESS_SHAPE`, `STRUCTURAL_DELIVERY`, `REGISTER_REMEDIATION`, `STRUCTURE_COMPARISON`, `VOICE_COMPARISON`.
-- The three open specs: `claude/SPEC_STRUCTURAL_DELIVERY_2026-07-28.md`, `claude/SPEC_REGISTER_REMEDIATION_2026-07-28.md`, `claude/SPEC_REPETITION_AND_CUTS_2026-07-28.md`. Each ends in a rulings section that is still awaiting Wendell.
-- Unmerged working drafts, kept because their prose is not in any chapter: `claude/CH3_REBUILD_WORKING_DOC.md`, `claude/CH4_SECTION5_REBUILD.md`, `claude/CH2_LINE_LEDGER_65_SITES.md`, `claude/SOURCE_TEXT_COMPARISON_CHOU_ELLIOTT.md`.
+- `instruments/` — the measurement tools, now committed as runnable files rather than pasted from a toolkit doc. `spec_edit.py` is the safe-edit pattern every manuscript edit goes through; it aborts and writes nothing on a missed or duplicated anchor. `dupes.py` is the cross-chapter duplicate scanner. Also: practice surfaces, chain check, stylometry, term debt, negation stacks, repetition sweep, construction sites. Run them against `manuscript/ch1.md`–`ch9.md`. Every claim about this manuscript should come from one of these, not from a planning document.
+- `specs/MTGOA_INSTRUMENTS_TOOLKIT.md` — documents the reviewer gate and what each instrument measures.
+- `visuals/` — the built HTML visuals, self-contained with no external assets: `chapter_engine`, `ch2_seven_daemons`, `ch3_process_shape`, `structural_delivery`, `register_remediation`, `structure_comparison`, `voice_comparison`.
+- The three open specs: `specs/SPEC_STRUCTURAL_DELIVERY.md`, `specs/SPEC_REGISTER_REMEDIATION.md`, `specs/SPEC_REPETITION_AND_CUTS.md`. Each ends in a rulings section that is still awaiting Wendell.
+- `drafts/` — working prose not merged into any chapter. `appendix_channels.md` and `ch9_transfer_drill.md` are finished pieces; `ch3_rebuild.md`, `ch4_section5_rebuild.md`, `newsec5.md`, and `CH2_LINE_LEDGER.md` are partial.
+- `chapters/ch0-infinite-arcade/` — kept out of the 2026-07-28 retirement because the Chapter 0 → Chapter 1 rewrite dropped material rather than revising it. `MONOPOLY_ORIGIN_STORY.md`, `BRIDGE_1_DRAFT.md`, and the `GM_SECTION` drafts are the only surviving copies of that prose; none of it is in the current manuscript.
 
 ## Docs that are stale and will mislead you
 
-These describe the book as it was, not as it is. Do not plan from them without checking the claim against the chapter docs above.
+These describe the book as it was, not as it is. Do not plan from them without checking the claim against the chapter files above.
 
 - `EDITING_PLAN.md` — its ICA Journey Map uses obsolete 8-chapter numbering, off by one against the current nine.
 - `CHAPTER_TEMPLATE_GUIDE.md`, `claude/DAEMON_CANON.md`, `claude/ArgumentMap.md`, `claude/MTGOA_OUTLINE.md`, `DAEMON_ARCHITECT_CONSISTENCY_CHECK_2026-07-15.md` — carry the retired 8-gate walk, the retired four-stage sequences, and the retired "jeppi" naming.
@@ -82,4 +93,4 @@ print('andbut',len(re.findall(r'(^|[.?!]["""\'’]? |\*|\*\*|— |; )(And|But) '
       'stacks',len(re.findall(r'\bNot [^.!?]{1,60}[.!?]\s+(Not|Never|No)\b',t)))
 ```
 
-Also check new prose for duplicate sentences against all nine chapters before inserting it. Sentences have been accidentally duplicated across five chapters before. The scanner is in `claude/MTGOA_INSTRUMENTS_TOOLKIT.md`.
+Also check new prose for duplicate sentences against all nine chapters before inserting it. Sentences have been accidentally duplicated across five chapters before. The scanner is `instruments/dupes.py`.

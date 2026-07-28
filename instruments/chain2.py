@@ -1,10 +1,12 @@
 # -*- coding: utf-8 -*-
+import os as _os
+MS = _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), _os.pardir, 'manuscript') + _os.sep
 # Task 34/35 v2: TEACH -> PERFORM -> APPLY, with the manuscript's ACTUAL conventions.
 # Corrections from v1: sections accumulate to the next H2 (not the next H3);
 # scripted speech is *italic*, not quoted; explicit **Example:** / In practice: labels count.
 import io, re, collections
 
-L = {c: io.open('/home/claude/ch%d.md' % c, encoding='utf-8').read().split('\n') for c in range(1, 10)}
+L = {c: io.open(MS+'ch%d.md' % c, encoding='utf-8').read().split('\n') for c in range(1, 10)}
 H2 = re.compile(r'^##\s+(.*)'); H3 = re.compile(r'^###\s+(.*)')
 MOVE = re.compile(r'^###\s+\**Move\s+(\d)\s*[:—-]\s*(.*)')
 

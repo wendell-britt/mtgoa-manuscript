@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
+import os as _os
+MS = _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), _os.pardir, 'manuscript') + _os.sep
 # Task 36: PRACTICE-EXAMPLE INVENTORY.
 # What is Jordan actually handed to practice ON, and does every chapter hand her one?
 import io, re, collections
 
-L = {c: io.open('/home/claude/ch%d.md' % c, encoding='utf-8').read().split('\n') for c in range(1, 10)}
+L = {c: io.open(MS+'ch%d.md' % c, encoding='utf-8').read().split('\n') for c in range(1, 10)}
 
 PAT = [
  ('do-it-now heading',  re.compile(r'^#{2,4}\s*(Try It Now|The One Rep|The Last Rep|Halfway|Your First BAR|Run the|Name One|In Practice|Before You)', re.I)),
