@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ch3 rebuild — the shape of the process</title>
+<style>
+  .viz-root {
+    color-scheme: light;
+    --surface-1: #fcfcfb;
+    --surface-2: #f3f3f0;
+    --text-primary: #0b0b0b;
+    --text-secondary: #52514e;
+    --text-muted: #85847e;
+    --grid: #e3e2dd;
+    --series-1: #2a78d6;
+    --series-2: #e34948;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:where(:not([data-theme="light"])) .viz-root {
+      color-scheme: dark;
+      --surface-1: #1a1a19;
+      --surface-2: #232322;
+      --text-primary: #ffffff;
+      --text-secondary: #c3c2b7;
+      --text-muted: #8e8d84;
+      --grid: #33332f;
+      --series-1: #3987e5;
+      --series-2: #e66767;
+    }
+  }
+  :root[data-theme="dark"] .viz-root {
+    color-scheme: dark;
+    --surface-1: #1a1a19; --surface-2: #232322;
+    --text-primary: #ffffff; --text-secondary: #c3c2b7; --text-muted: #8e8d84;
+    --grid: #33332f; --series-1: #3987e5; --series-2: #e66767;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--surface-1); }
+  .viz-root {
+    background: var(--surface-1);
+    color: var(--text-primary);
+    font: 15px/1.55 ui-sans-serif, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    padding: 40px 32px 56px;
+    max-width: 940px;
+    margin: 0 auto;
+  }
+  h1 { font-size: 24px; line-height: 1.25; margin: 0 0 6px; letter-spacing: -0.01em; }
+  .sub { color: var(--text-secondary); margin: 0 0 34px; font-size: 14.5px; max-width: 70ch; }
+  h2 { font-size: 15px; margin: 0 0 3px; letter-spacing: -0.005em; }
+  .note { color: var(--text-secondary); font-size: 13.5px; margin: 0 0 16px; max-width: 74ch; }
+  section { margin-bottom: 40px; }
+
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin-bottom: 40px; }
+  .tile { background: var(--surface-2); border-radius: 10px; padding: 16px 16px 14px; }
+  .tile .n { font-size: 30px; font-weight: 640; letter-spacing: -0.02em; line-height: 1.1; }
+  .tile .l { color: var(--text-secondary); font-size: 12.5px; margin-top: 5px; }
+
+  .chart { position: relative; }
+  .bars { display: flex; align-items: flex-end; gap: 8px; height: 210px; padding-left: 30px; border-bottom: 1px solid var(--grid); }
+  .bar-col { flex: 1; display: flex; flex-direction: column; justify-content: flex-end; align-items: center; height: 100%; position: relative; }
+  .bar { width: 100%; background: var(--series-1); border-radius: 4px 4px 0 0; position: relative; transition: opacity .12s; }
+  .bar.last { background: var(--series-2); }
+  .bar-col:hover .bar { opacity: .78; }
+  .val { font-size: 12px; color: var(--text-secondary); margin-bottom: 4px; font-variant-numeric: tabular-nums; }
+  .rnd { font-size: 11.5px; color: var(--text-muted); margin-top: 7px; font-variant-numeric: tabular-nums; }
+  .ylab { position: absolute; left: 0; font-size: 11px; color: var(--text-muted); font-variant-numeric: tabular-nums; }
+  .gridline { position: absolute; left: 30px; right: 0; border-top: 1px dashed var(--grid); }
+  .zeroline { display: flex; align-items: center; gap: 9px; margin-top: 9px; padding-left: 30px; font-size: 12.5px; color: var(--text-secondary); }
+  .swatch { width: 22px; height: 3px; border-radius: 2px; background: var(--text-muted); display: inline-block; }
+
+  .legend { display: flex; gap: 18px; margin: 14px 0 0 30px; font-size: 12.5px; color: var(--text-secondary); }
+  .key { display: inline-flex; align-items: center; gap: 7px; }
+  .dot { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
+
+  .blocks { display: grid; grid-template-columns: repeat(auto-fit, minmax(112px, 1fr)); gap: 8px; }
+  .blk { border-radius: 8px; padding: 11px 12px; background: var(--surface-2); border: 1px solid var(--grid); }
+  .blk .id { font-weight: 640; font-size: 13.5px; }
+  .blk .st { font-size: 11.5px; color: var(--text-secondary); margin-top: 3px; }
+  .blk.drafted { border-color: var(--series-1); }
+  .blk.drafted .id { color: var(--text-primary); }
+  .blk.drafted .st::before { content: "◆ "; color: var(--series-1); }
+  .blk.unwritten .st::before { content: "○ "; color: var(--text-muted); }
+  .blk.promise { border-color: var(--series-2); }
+  .blk.promise .st::before { content: "▲ "; color: var(--series-2); }
+
+  .ratio { display: flex; height: 34px; border-radius: 8px; overflow: hidden; gap: 2px; background: var(--surface-1); }
+  .ratio div { display: flex; align-items: center; padding: 0 12px; font-size: 12.5px; white-space: nowrap; }
+  .ratio .ms { background: var(--series-1); color: #fff; flex: 5912; border-radius: 8px 0 0 8px; }
+  .ratio .ap { background: var(--series-2); color: #fff; flex: 8939; border-radius: 0 8px 8px 0; }
+
+  table { border-collapse: collapse; width: 100%; font-size: 13px; margin-top: 8px; }
+  th, td { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--grid); color: var(--text-secondary); }
+  th { color: var(--text-primary); font-weight: 600; }
+  td.num { font-variant-numeric: tabular-nums; }
+  details { margin-top: 12px; }
+  summary { cursor: pointer; font-size: 13px; color: var(--text-secondary); }
+</style>
+</head>
+<body>
+<div class="viz-root">
+
+  <h1>Chapter 3 rebuild — the shape of the process</h1>
+  <p class="sub">Eleven gate rounds, twelve revisions, 129 must-fixes. Three of twelve blocks drafted, none passed. This is what the last several weeks of work look like from above.</p>
+
+  <div class="tiles">
+    <div class="tile"><div class="n">3 <span style="font-size:17px;color:var(--text-muted)">/ 12</span></div><div class="l">blocks drafted</div></div>
+    <div class="tile"><div class="n">0</div><div class="l">blocks that have passed a gate</div></div>
+    <div class="tile"><div class="n">11</div><div class="l">gate rounds · 18 passes</div></div>
+    <div class="tile"><div class="n">129</div><div class="l">must-fixes raised</div></div>
+  </div>
+
+  <section class="chart">
+    <h2>Must-fixes found, by round</h2>
+    <p class="note">All eleven rounds ran over the same three blocks. If the process were converging, this would fall to zero. Round 11 — the eleventh pass over 5,912 words — returned the second-highest total of the run.</p>
+    <div class="bars" id="bars"></div>
+    <div class="zeroline"><span class="swatch"></span> blocks finished, all eleven rounds: <strong style="color:var(--text-primary)">0</strong> — a flat line along the axis</div>
+    <div class="legend">
+      <span class="key"><span class="dot" style="background:var(--series-1)"></span> rounds 1–10</span>
+      <span class="key"><span class="dot" style="background:var(--series-2)"></span> round 11 — the spike at the end</span>
+    </div>
+    <details>
+      <summary>Table view</summary>
+      <table><thead><tr><th>Round</th><th>Must-fixes</th><th>Blocks finished</th></tr></thead><tbody id="tbody"></tbody></table>
+    </details>
+  </section>
+
+  <section>
+    <h2>What is in the draft file</h2>
+    <p class="note">Build notes and status text against manuscript prose, in the same file. Every revision and every gate pass re-reads all of it. The rebuild artifact — 15,247 words — is now larger than the 12,293-word chapter it exists to rebuild.</p>
+    <div class="ratio">
+      <div class="ms">5,912 — manuscript</div>
+      <div class="ap">8,939 — build notes &amp; status</div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Where the chapter's promise actually lives</h2>
+    <p class="note">The three blocks polished eleven times are marked ◆. The blocks carrying the chapter's acceptance criteria — the worked run and the reader's own rep — are marked ▲, and neither has been written.</p>
+    <div class="blocks" id="blocks"></div>
+  </section>
+
+</div>
+
+<script>
+  const rounds = [18,10,9,15,13,12,5,13,8,10,16];
+  const max = 20;
+  const bars = document.getElementById('bars');
+  const tbody = document.getElementById('tbody');
+  rounds.forEach((v,i) => {
+    const col = document.createElement('div');
+    col.className = 'bar-col';
+    col.title = `Round ${i+1}: ${v} must-fixes · 0 blocks finished`;
+    col.innerHTML = `<span class="val">${v}</span><div class="bar${i===10?' last':''}" style="height:${(v/max*100)}%"></div><span class="rnd">${i+1}</span>`;
+    bars.appendChild(col);
+    tbody.insertAdjacentHTML('beforeend', `<tr><td class="num">${i+1}</td><td class="num">${v}</td><td class="num">0</td></tr>`);
+  });
+
+  const blocks = [
+    ['B1','drafted','rev 12 · ungated'],
+    ['B2','unwritten','not written'],
+    ['B3','unwritten','not written'],
+    ['B4','drafted','rev 12 · ungated'],
+    ['B5','drafted','rev 12 · ungated'],
+    ['B6','promise','worked run — AC4'],
+    ['B7','promise','her own rep — AC5'],
+    ['B8','unwritten','not written'],
+    ['B9','unwritten','not written'],
+    ['B10','unwritten','not written'],
+    ['B11','unwritten','not written'],
+    ['B12','unwritten','not written'],
+  ];
+  document.getElementById('blocks').innerHTML = blocks.map(([id,cls,st]) =>
+    `<div class="blk ${cls}"><div class="id">${id}</div><div class="st">${st}</div></div>`).join('');
+</script>
+</body>
+</html>

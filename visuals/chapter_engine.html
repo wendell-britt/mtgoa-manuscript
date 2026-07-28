@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Chapter Engine — MTGOA</title>
+<style>
+  :root{
+    --bg:#111019; --ink:#f4efe3; --card:#1c1a29; --card2:#211f31;
+    --line:#37324a; --muted:#a49db8; --gold:#d0a84e; --teal:#5fb6a6;
+    --rust:#c86b52; --amber:#c79a4a;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;background:radial-gradient(1200px 700px at 50% -8%,#1b1930 0%,var(--bg) 62%);
+    color:var(--ink);font-family:"Iowan Old Style","Palatino Linotype",Georgia,serif;
+    line-height:1.5;padding:44px 22px 60px;
+  }
+  .wrap{max-width:1080px;margin:0 auto;}
+  h1{font-size:30px;letter-spacing:.02em;margin:0 0 4px;font-weight:600;}
+  .kicker{font-family:"SF Mono",ui-monospace,Menlo,monospace;font-size:11px;letter-spacing:.28em;
+    text-transform:uppercase;color:var(--gold);margin:0 0 14px;}
+  .formula{font-size:16px;color:var(--muted);margin:0 0 10px;max-width:860px;}
+  .formula b{color:var(--ink);font-weight:600;}
+  .axis-note{font-size:13px;color:var(--muted);max-width:860px;margin:0 0 28px;font-style:italic;}
+  .sec-label{font-family:"SF Mono",ui-monospace,Menlo,monospace;font-size:11px;letter-spacing:.22em;
+    text-transform:uppercase;color:var(--muted);margin:38px 0 14px;padding-bottom:8px;border-bottom:1px solid var(--line);}
+
+  .flow{display:flex;flex-wrap:wrap;gap:10px;align-items:stretch;}
+  .node{flex:1;min-width:118px;background:linear-gradient(180deg,var(--card2),var(--card));
+    border:1px solid var(--line);border-top:2px solid #4b4468;border-radius:10px;padding:12px 12px 14px;position:relative;}
+  .node .slot{font-family:"SF Mono",ui-monospace,Menlo,monospace;font-size:10px;letter-spacing:.16em;
+    text-transform:uppercase;color:var(--gold);}
+  .node .desc{font-size:12.5px;color:var(--muted);margin-top:6px;}
+  .op{align-self:center;color:var(--muted);font-size:20px;padding:0 2px;}
+
+  .card7{margin-top:6px;background:linear-gradient(180deg,#232032,#1a1826);
+    border:1px solid var(--line);border-radius:14px;overflow:hidden;box-shadow:0 18px 40px -24px #000;}
+  .card7 .hd{display:flex;justify-content:space-between;align-items:baseline;gap:12px;
+    padding:16px 20px;background:linear-gradient(90deg,#2a2540,#201d30);border-bottom:1px solid var(--line);}
+  .card7 .hd .t{font-size:20px;font-weight:600;}
+  .card7 .hd .t span{color:var(--gold);}
+  .card7 .hd .alt{font-family:"SF Mono",ui-monospace,Menlo,monospace;font-size:11px;letter-spacing:.16em;
+    text-transform:uppercase;color:var(--muted);}
+  .grid6{display:grid;grid-template-columns:repeat(3,1fr);}
+  .cell{padding:16px 18px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);position:relative;}
+  .cell:nth-child(3n){border-right:none;}
+  .cell:nth-child(n+4){border-bottom:none;}
+  .cell .slot{font-family:"SF Mono",ui-monospace,Menlo,monospace;font-size:10px;letter-spacing:.16em;
+    text-transform:uppercase;color:var(--gold);display:flex;justify-content:space-between;gap:8px;}
+  .cell .val{font-size:17px;font-weight:600;margin:7px 0 5px;}
+  .cell .note{font-size:12.5px;color:var(--muted);}
+  .tag{font-family:"SF Mono",ui-monospace,Menlo,monospace;font-size:9px;letter-spacing:.1em;
+    padding:2px 6px;border-radius:20px;border:1px solid var(--line);color:var(--muted);white-space:nowrap;}
+  .tag.ok{color:var(--teal);border-color:#345;}
+  .tag.prop{color:var(--amber);border-color:#5a4a2a;}
+
+  table{width:100%;border-collapse:collapse;margin-top:4px;font-size:13px;}
+  th,td{text-align:left;padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top;}
+  th{font-family:"SF Mono",ui-monospace,Menlo,monospace;font-size:10px;letter-spacing:.14em;
+    text-transform:uppercase;color:var(--muted);font-weight:400;}
+  td.face{font-weight:600;}
+  tr.ch7{background:rgba(208,168,78,.08);}
+  tr.ch7 td.face{color:var(--gold);}
+  .prop{color:var(--amber);}
+  .solid{color:var(--ink);}
+  .legend{display:flex;gap:20px;flex-wrap:wrap;margin-top:14px;font-size:12px;color:var(--muted);}
+  .legend span{display:inline-flex;align-items:center;gap:6px;}
+  .dot{width:9px;height:9px;border-radius:50%;display:inline-block;}
+  .foot{margin-top:30px;font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padding-top:16px;}
+  .foot b{color:var(--ink);}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <p class="kicker">Mastering the Game of Allyship · structural spine</p>
+  <h1>The Chapter Engine</h1>
+  <p class="formula">Every Face chapter runs one machine: a <b>Face</b>, working its <b>Daemon</b> through a
+  <b>Polarity</b>, across the four <b>Domains</b> (with the parable going deep on one), to dismantle one
+  <b>Allyship Myth</b> — and it <b>spotlights</b> one of the seven Superpowers in the world where that power is
+  most vivid.</p>
+  <p class="axis-note">Note: Superpowers are a separate axis from the six faces — the reader keeps her own across every
+  world. Each chapter <em>spotlights</em> one to teach it; it is not "the face's superpower."</p>
+
+  <div class="sec-label">The engine — reusable across all six Face chapters</div>
+  <div class="flow">
+    <div class="node"><div class="slot">Face</div><div class="desc">the archetype whose chapter this is</div></div>
+    <div class="op">+</div>
+    <div class="node"><div class="slot">Daemon</div><div class="desc">the one part it must take off the joystick</div></div>
+    <div class="op">→</div>
+    <div class="node"><div class="slot">Polarity</div><div class="desc">the axis it integrates instead of collapsing</div></div>
+    <div class="op">→</div>
+    <div class="node"><div class="slot">4 Domains</div><div class="desc">all four arenas; parable deep on one</div></div>
+    <div class="op">→</div>
+    <div class="node"><div class="slot">Myth</div><div class="desc">the false story the move breaks</div></div>
+    <div class="op">+</div>
+    <div class="node" style="border-top-color:var(--gold);"><div class="slot" style="color:var(--gold);">Superpower</div><div class="desc">one of seven, spotlit here</div></div>
+  </div>
+
+  <div class="sec-label">Worked instance — Chapter 7</div>
+  <div class="card7">
+    <div class="hd">
+      <div class="t">Chapter 7 · <span>The Diplomat</span></div>
+      <div class="alt">Green · relational altitude</div>
+    </div>
+    <div class="grid6">
+      <div class="cell">
+        <div class="slot"><span>Face</span><span class="tag ok">canon</span></div>
+        <div class="val">The Diplomat</div>
+        <div class="note">Keeps people in the room who should have walked out. Gift: integrative negotiation — staying that has weight.</div>
+      </div>
+      <div class="cell">
+        <div class="slot"><span>Daemon</span><span class="tag ok">canon</span></div>
+        <div class="val">The Victim</div>
+        <div class="note">The storyteller who moves sympathy through story. At this altitude it <em>gives</em> sympathy — and can collapse into the other's smallness.</div>
+      </div>
+      <div class="cell">
+        <div class="slot"><span>Polarity</span><span class="tag ok">canon</span></div>
+        <div class="val">Care ↔ Impact</div>
+        <div class="note">Her blind spot: harm-avoidance performed as care. The integration is resonance that still changes something.</div>
+      </div>
+      <div class="cell">
+        <div class="slot"><span>Domains</span><span class="tag ok">locked</span></div>
+        <div class="val">All four · parable in Skillful Organizing</div>
+        <div class="note">Four arenas shown to stretch how she can show up; the parable goes deep on coalition/relational structure, where "performing belonging" bites hardest.</div>
+      </div>
+      <div class="cell">
+        <div class="slot"><span>Myth</span><span class="tag ok">canon</span></div>
+        <div class="val">"Allyship means never&nbsp;causing harm."</div>
+        <div class="note">One of the canonical ten, already homed to Ch7. It is the exact fuel of the guilt/blame/worry machine.</div>
+      </div>
+      <div class="cell">
+        <div class="slot"><span>Superpower · spotlight</span><span class="tag ok">canon</span></div>
+        <div class="val">Connector</div>
+        <div class="note">The interior style that builds the living web. Taught here because the Diplomat's world is where connection is most vivid.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sec-label">Across the book — the locked engine (proposals marked)</div>
+  <table>
+    <thead><tr><th>Chapter</th><th>Face</th><th>Daemon</th><th>Polarity</th><th>Myth</th><th>Superpower (spotlight)</th></tr></thead>
+    <tbody>
+      <tr>
+        <td class="face">Ch3</td><td>Shaman</td>
+        <td class="solid">Emotional Body</td>
+        <td class="solid">Feeling ↔ Function</td>
+        <td class="solid">"…saying the right words"</td>
+        <td class="solid">Alchemist</td>
+      </tr>
+      <tr>
+        <td class="face">Ch4</td><td>Challenger</td>
+        <td class="solid">Skeptic</td>
+        <td class="solid">Force ↔ Restraint</td>
+        <td class="solid">"…following the right people"</td>
+        <td class="solid">Disruptor</td>
+      </tr>
+      <tr>
+        <td class="face">Ch5</td><td>Regent</td>
+        <td class="solid">Controller</td>
+        <td class="solid">Honor ↔ Reform</td>
+        <td class="solid">"…sacrificing yourself"</td>
+        <td class="solid">Storyteller</td>
+      </tr>
+      <tr>
+        <td class="face">Ch6</td><td>Architect</td>
+        <td class="solid">Fixer / Healer</td>
+        <td class="solid">Structure ↔ Agency</td>
+        <td class="solid">"…fixing the problem"</td>
+        <td class="solid">Strategist</td>
+      </tr>
+      <tr class="ch7">
+        <td class="face">Ch7</td><td>Diplomat</td>
+        <td class="solid">Victim</td>
+        <td class="solid">Care ↔ Impact</td>
+        <td class="solid">"…never causing harm"</td>
+        <td class="solid">Connector</td>
+      </tr>
+      <tr>
+        <td class="face">Ch8</td><td>Sage</td>
+        <td class="solid">Damaged Self</td>
+        <td class="solid">Which game ↔ Which altitude</td>
+        <td class="solid">"…having the right framework"</td>
+        <td class="solid">Coach / Escape Artist</td>
+      </tr>
+    </tbody>
+  </table>
+  <div class="legend">
+    <span><span class="dot" style="background:var(--ink);"></span>locked to canon</span>
+    <span><span class="dot" style="background:var(--amber);"></span>◇ proposed — awaiting your sign-off</span>
+  </div>
+
+  <p class="foot"><b>Engine fully locked</b> (Wendell, 2026-07-22). Polarities passed the polarity-map test with two neutral poles each
+  (Feeling ↔ Function, Force ↔ Restraint, Structure ↔ Agency); myths deepen Ch1's existing six with no new inventions (Ch5 "sacrificing
+  yourself," Ch6 "fixing the problem"); superpowers spotlight one of seven per chapter; domains run all four with the parable deep on one.
+  Next: build Ch7's Beat 2 as the first full engine instance, then propagate to Ch3–Ch6 and Ch8.</p>
+</div>
+</body>
+</html>
