@@ -1,5 +1,77 @@
 # SPEC — The Finishing Pass
 
+## STATUS BLOCK — measured 2026-07-29, end of session
+
+**Read this before the plan below. The plan's baselines predate a full working
+session and its §3 numbers are no longer current.**
+
+| Item | Plan said | Measured now |
+|---|---|---|
+| Body BLOCK | 40 | **16** |
+| Body WARN / INFO | 88 / 177 | **75 / 167** |
+| Denying negations, book-wide | 52 remaining | **9**, every one an adjudicated keep |
+| Say-the-noun | 27 candidates | **6** |
+| Voice BLOCK | 3 | **1** — ch4's hedge particles |
+| Gate — body / marginalia | 6 body hits | **0 / 0** |
+| Gate — appendices | not measured | **0** (read 27 on first run; the gate had never looked at it) |
+| Gate — front/back matter | not measured | **10 tokens**, all Wendell's |
+| `which is` tails | 50 | **64** measured, swept to 64 from 91 |
+| Body words | 97,738 | **98,332** |
+
+**W1, W2, W4, W6, W7 are complete.** W3 is untouched and waits on R3. W5 is
+partly done: the `which is` sweep ran, and `rather than` was measured and
+withdrawn as a defect.
+
+**R4 is closed.** Appendix G is `ON_THE_SHOULDERS_OF.md`, a source-lineage
+bibliography rather than a belief-to-superpower map, so the six daemon-alliance
+byline lines have nothing to be diffed against.
+
+**The plan's premise about the appendices was wrong.** §5 lists both appendices as
+"still unwritten … hard print blockers." Both were committed in `appendices/`. The
+full A–G set exists, and A, B, F, and G were revised against current canon this
+session. See `specs/SPEC_PRINT_READINESS_2026-07-29.md`, which is now the live
+worklist.
+
+### What W7 taught, worth carrying forward
+
+- **The bare cut is not the fix.** Cutting the negated clause deletes the
+  caricature the negation was guarding against. Batches 3, 4 and 5 all shipped bare
+  cuts and all had to be redone. Check whether the surrounding paragraph already
+  handles the caricature before assuming a cut is enough — three times out of
+  seventeen it did.
+- **Move 3 is not a positive contrast.** Replacing *"not X, it's Y"* with *"looks
+  like X and works as Y"* keeps the opposition and only changes its clothes. Put
+  the caricature in a subject or subordinate position instead.
+- **Watch for the replacement formula.** Six separate times this session a batch of
+  fixes converged on one sentence shape without the author noticing. `review.py`
+  and `gate.py` cannot see a formula; `/no-ai-slop` can, and it must actually be
+  invoked.
+- **The two rules can pull against each other.** Fixing a `which is` tail by
+  splitting the sentence created a denying negation, twice. Re-measure after every
+  sweep.
+- **Refrains are real and must be checked before editing.** Four deliberate
+  cross-chapter refrains surfaced: the quest tell (ch3–ch8), the polarity
+  definition (ch4/ch5/ch7), the Alchemy Move closers (ch8), and *"The distortion is
+  not that it X"* (ch5–ch8). The last is licensed ranking and stays.
+
+### Rulings added this session
+
+**R10** — the Five Channels appendix: **closed.** It took letter C.
+**R11** — appendix reference style: **closed.** Every reference names letter and title.
+**R12** — Appendix C glossary: **closed.** Retired from this edition.
+**R13** — ch6:295 and ch6:455 are near-duplicate passages closing on the same
+sentence. Which loses its ending is authorial.
+**R14** — *"It is not enough for the other one"* appears near-verbatim in ch4 and ch6.
+**R15** — ch5 states a "first move" twice, at 253 (acknowledge) and 406 (witnessing).
+**R16** — ch6:434 read *"six of which"* against a five-item list. Rewritten to the
+only coherent reading; the intent is inferred and needs confirming.
+**R17** — Appendix A's affinity table treats the Vulnerable Child as a peer gate in
+a "2-2-2-2 balanced" set. Chapter 2 seats seven daemons with the VC at the centre.
+**R18** — Move 3's canonical heading is *Say the Thing Under the Thing*. Renaming it
+is a book-wide change; the say-the-noun pass left it alone.
+
+---
+
 **2026-07-29. Digital delivery August 1. Integrates the 2026-07-28 Claude Code
 handoff (`review.py`, `SEVEN_VOICES.md`, the operational loop) into this
 repository and sequences the remaining work.**
@@ -40,7 +112,7 @@ Four tools plus one editorial agent (§2b), one loop. They are complementary, no
 |---|---|---|
 | `instruments/gate.py` | **Hard canon gate** — banned words, And/But openers, A0, negation stacks, em-dash joins. Scores body and margin separately. | **Yes.** Both surfaces. Margin passes clean today; body carries 6 pre-existing hits (see §4·W1). |
 | `marginalia/review.py` | **Candidate finder** — AI shapes, say-the-noun, hedges, voice/genre markers, moves-without-test. | No. Every finding is adjudicated by a human or a review agent. BLOCK means *adjudicate before Wendell sees it*, not *auto-fix*. |
-| `marginalia/compile.py` | Frame build. `--check` / `--apply` / `--strip` / `--verify`. | `--verify` must stay byte-identical at 97,738 body words. |
+| `marginalia/compile.py` | Frame build. `--check` / `--apply` / `--strip` / `--verify`. | `--verify` must stay byte-identical. Body words were 97,738 when this line was written and are **98,332** as of 2026-07-29 — the test is byte-identity, not the number. |
 | `instruments/dupes.py` | Cross-chapter duplicate scanner. | Run on all new prose before insertion. |
 
 **The loop, repo-native** (replaces the handoff's §The loop):
@@ -392,9 +464,11 @@ enrollment page, author's-note dates.
    *argue with the treatise* to *update the teaching*. (Carried.)
 3. **R3 — Genre scope.** SEVEN_VOICES recommends the ~150-word marker version
    for Aug 1, full re-voicing as second edition. Confirm; W3 waits on this.
-4. **R4 — Appendix G.** Not in any package. If it maps beliefs to superpowers
-   per Face, the six daemon-alliance byline lines must be diffed against it
-   before print. Canon governs.
+4. **R4 — CLOSED 2026-07-29.** Appendix G is `ON_THE_SHOULDERS_OF.md`, a
+   source-lineage bibliography rather than a belief-to-superpower map, so the six
+   daemon-alliance byline lines have nothing to be diffed against. It asked
+   whether the appendix was "in any package"; it was in this repository the whole
+   time.
 5. **R5 — Ch8's five embedded tests.** Normalize to the bolded standalone form
    (typographic consistency, loop-addressability) or leave embedded in the
    shadow-version prose (the chapter's own voice). Measured fact: the linter

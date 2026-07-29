@@ -1,7 +1,67 @@
 # Book Work Tracker — MTGOA
 **Created:** 2026-04-14
-**Last Updated:** 2026-06-06
-**Status:** All 8 chapters complete — Editorial Pass Phase
+**Last Updated:** 2026-07-29
+**Status:** Nine chapters. Print-readiness pass. Ships 2026-08-01.
+
+> **Note on this file:** the sections below still say "8 chapters" and carry
+> 0-indexed numbering in places. The book has nine. Trust
+> `specs/MANUSCRIPT_FILE_CANON.md` and `MANIFEST.md` over anything below the
+> session log.
+
+---
+
+## Session log — 2026-07-29 (print readiness)
+
+Branch `claude/book-print-readiness-august-ar95mo`. Every figure re-measured; the
+planning docs were wrong about the largest claimed blocker.
+
+**Corrections to the record**
+
+- Both "hard print blockers" were already written. `MANIFEST.md` and
+  `MANUSCRIPT_FILE_CANON.md` said the Polarity Map and the 3-2-1 Shadow Process
+  existed on no disk. Both were committed. The full A–G appendix set exists.
+- Body words are **98,332**, not 97,738. With the frame, **103,464**.
+- **R4 closed.** Appendix G is a source bibliography, not a belief map.
+
+**Built**
+
+- `instruments/build_book.py` — assembles the print deliverable, generates the
+  contents, refuses to write while a required component is missing. **114,691
+  words**, spine complete. Nothing built a whole book before this.
+- `instruments/gate.py` extended from two surfaces to four. The appendices and the
+  front/back matter had never been gated; the appendices read **27** on first run
+  and now read 0.
+- Front matter and back matter drafted. Unsourced facts are `⟦TOKEN⟧`s the gate
+  fails on.
+
+**Editorial**
+
+| | before | after |
+|---|---|---|
+| Body BLOCK | 62 | **16** |
+| Denying negations | 55 | **9**, all adjudicated keeps |
+| Say-the-noun | 21 | **6** |
+| `which is` tails | 91 | **64** |
+| Appendix gate hits | 27 | **0** |
+| Voice BLOCK | 3 | **1** (ch4 hedges) |
+
+W1, W2, W4, W6, W7 complete. Appendix C retired and the letter reassigned to The
+Five Channels. A, B, F, G revised against current canon. One reference style, one
+heading style, ch1 given the subtitle every other chapter had. Two missing
+bibliography credits added (Robin Rice, Donella Meadows). One substantive error
+fixed at ch4:318, where a disguise ran backwards.
+
+**Ruled**
+
+- The **ICA decision rule** is now the top standing rule in
+  `MANUSCRIPT_FILE_CANON.md` and governs the others: does this help the ICA keep
+  moving?
+- `rather than` **withdrawn as a defect** on measurement — 103 uses, essentially no
+  local clustering, and the one cluster is a deliberate teaching triad.
+
+**Open, and blocked on Wendell:** the ten front-matter facts, `⟦ASH-AGE⟧` /
+`⟦ASH-SPAN⟧` (R9), R8, and R13–R18 opened this session. Live worklist is
+`specs/SPEC_PRINT_READINESS_2026-07-29.md`.
 
 ---
 

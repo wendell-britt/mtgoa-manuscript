@@ -61,7 +61,7 @@ cd /home/workspace/manuscripts && git add chapters/... && git commit -m "edit: [
 | 6 | `manuscript/ch6.md` | The Architect |
 | 7 | `manuscript/ch7.md` | The Diplomat |
 | 8 | `manuscript/ch8.md` | The Sage |
-| 9 | `manuscript/ch9.md` | The Player |
+| 9 | `manuscript/ch9.md` | Creating Your Own Allyship Game |
 
 Numbering is 1-indexed. The retired `chapters/ch[N]-[FACE]/` drafts were
 0-indexed, so every reference in an older doc is off by one. Conversion table in

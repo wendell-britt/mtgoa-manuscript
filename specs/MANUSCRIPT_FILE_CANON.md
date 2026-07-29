@@ -1,6 +1,6 @@
 # MANUSCRIPT FILE CANON — read this before editing any chapter
 
-**Last synced: 2026-07-28. Book ships 2026-08-01.**
+**Last synced: 2026-07-29. Book ships 2026-08-01.**
 
 ## Where the book actually is
 
@@ -16,7 +16,7 @@ The nine chapter files below are the manuscript. Edit these, and write edits bac
 | 6 | `manuscript/ch6.md` | The Architect |
 | 7 | `manuscript/ch7.md` | The Diplomat |
 | 8 | `manuscript/ch8.md` | The Sage |
-| 9 | `manuscript/ch9.md` | The Player |
+| 9 | `manuscript/ch9.md` | Creating Your Own Allyship Game |
 
 **Canon moved to git on 2026-07-28.** This repository is now the durable store,
 and these nine files are the book. The Claude project docs that used to hold
@@ -33,19 +33,22 @@ drifted from the files. Measure instead — and use one measure consistently:
 python3 -c "import glob;print(sum(len(open(f).read().split()) for f in glob.glob('manuscript/ch*.md')))"
 ```
 
-Since 2026-07-28 that counts the marginalia too, and reports **102,875**. Strip
+As of 2026-07-29 that counts the marginalia too, and reports **103,464**. Strip
 first for the body-text figure:
 
 ```
-python3 marginalia/compile.py --strip     # -> 97,738 body text
+python3 marginalia/compile.py --strip     # -> 98,332 body text
 python3 marginalia/compile.py --apply     # put the frame back
 ```
 
-**97,738** is the body text and the figure in `MANIFEST.md`. The frame adds
-**5,137**. Note that `wc -w` reports 96,260 for the same body text — it splits
-differently around em dashes and markdown punctuation. Both are correct; they
-answer different questions. Quote the whitespace-split figure, because that is
-what the manifest and every planning doc use.
+**98,332** is the body text and the figure in `MANIFEST.md`. The frame adds
+**5,132** across 53 blocks. Note that `wc -w` splits differently around em dashes
+and markdown punctuation and will disagree; both are correct and answer different
+questions. Quote the whitespace-split figure, because that is what the manifest
+uses.
+
+These figures move with every editing session. Re-run the command rather than
+quoting this paragraph — an earlier copy of it drifted and misled a session.
 
 ## The marginalia frame
 
@@ -69,6 +72,8 @@ See `marginalia/README.md` and `marginalia/HANDOFF.md`.
 ## The rest of the durable set
 
 - `instruments/` — the measurement tools, now committed as runnable files rather than pasted from a toolkit doc. `spec_edit.py` is the safe-edit pattern every manuscript edit goes through; it aborts and writes nothing on a missed or duplicated anchor. `dupes.py` is the cross-chapter duplicate scanner. Also: practice surfaces, chain check, stylometry, term debt, negation stacks, repetition sweep, construction sites. Run them against `manuscript/ch1.md`–`ch9.md`. Every claim about this manuscript should come from one of these, not from a planning document.
+- `instruments/build_book.py` — assembles the print deliverable from canon, generates the contents, and exits non-zero while a required component is missing. Added 2026-07-29; nothing built a whole book before it. `compiled/` is a stale 2026-05-29 artifact whose builder reads the retired `chapters/` tree.
+- `instruments/gate.py` reads **four** printed surfaces as of 2026-07-29 — body, marginalia, appendices, and front/back matter. Before that it read only `manuscript/`, so roughly 10,000 words of shipping prose had never been held to the standing list.
 - `specs/MTGOA_INSTRUMENTS_TOOLKIT.md` — documents the reviewer gate and what each instrument measures.
 - `visuals/` — the built HTML visuals, self-contained with no external assets: `chapter_engine`, `ch2_seven_daemons`, `ch3_process_shape`, `structural_delivery`, `register_remediation`, `structure_comparison`, `voice_comparison`.
 - The open specs: `specs/SPEC_FINISHING_PASS_2026-07-29.md` — **the active work
@@ -79,7 +84,7 @@ See `marginalia/README.md` and `marginalia/HANDOFF.md`.
   say-the-noun, hedge density, per-Head genre markers). Findings are
   adjudicated, never auto-fixed. It complements `instruments/gate.py`; it does
   not replace it. Voice doctrine in `marginalia/specs/SEVEN_VOICES.md`.
-- `drafts/` — working prose not merged into any chapter. `appendix_channels.md` and `ch9_transfer_drill.md` are finished pieces; `ch3_rebuild.md`, `ch4_section5_rebuild.md`, `newsec5.md`, and `CH2_LINE_LEDGER.md` are partial.
+- `drafts/` — working prose not merged into any chapter. `ch9_transfer_drill.md` is a finished piece; `ch3_rebuild.md`, `ch4_section5_rebuild.md`, `newsec5.md`, and `CH2_LINE_LEDGER.md` are partial. (`appendix_channels.md` left this directory on 2026-07-29 — it is now `appendices/APPENDIX_C_FIVE_CHANNELS.md`.)
 - `chapters/ch0-infinite-arcade/` — kept out of the 2026-07-28 retirement because the Chapter 0 → Chapter 1 rewrite dropped material rather than revising it. `MONOPOLY_ORIGIN_STORY.md`, `BRIDGE_1_DRAFT.md`, and the `GM_SECTION` drafts are the only surviving copies of that prose; none of it is in the current manuscript.
 
 ## Docs that are stale and will mislead you
@@ -89,7 +94,8 @@ These describe the book as it was, not as it is. Do not plan from them without c
 - `EDITING_PLAN.md` — its ICA Journey Map uses obsolete 8-chapter numbering, off by one against the current nine.
 - `CHAPTER_TEMPLATE_GUIDE.md`, `claude/DAEMON_CANON.md`, `claude/ArgumentMap.md`, `claude/MTGOA_OUTLINE.md`, `DAEMON_ARCHITECT_CONSISTENCY_CHECK_2026-07-15.md` — carry the retired 8-gate walk, the retired four-stage sequences, and the retired "jeppi" naming.
 - `claude/MTGOA_CROSS_BOOK_SYNTHESIS_CH3_9.md`, `CHAPTER_COMPLETION_AUDIT.md`, `claude/CH8_PRINT_READINESS_PLAN.md`, `claude/SPEC_PRINT_SPRINT_2026-07-26.md` — superseded by later work.
-- `SPEC_BOOK_TOOL_PLACEMENT.md` — its appendix lettering is desynced from current appendix naming.
+- `SPEC_BOOK_TOOL_PLACEMENT.md` — its appendix lettering is desynced from current appendix naming, and more so since letter C changed hands on 2026-07-29.
+- Anything calling Chapter 9 "The Player." Canon's heading is `CHAPTER 9: CREATING YOUR OWN ALLYSHIP GAME`. Chapters 3–8 are named for their Face and ch9 for its action, which under the ICA rule is the better heading — so the docs were corrected to match canon rather than the reverse.
 - The source-analysis stubs credit "Bob Elliott" for *Existential Kink*. The author is **Carolyn Elliott, PhD**.
 
 ## Structural facts that are current
@@ -104,12 +110,25 @@ Chapter 2's sections renumber 1 through 10. The old Section 9 (Reflection Prompt
 
 ## Still missing from the book
 
-Neither appendix exists as prose anywhere — not in the project, not on any disk. Both are hard print blockers.
+**Corrected 2026-07-29. The previous version of this section was wrong**, and it
+cost a session. It said neither appendix existed "not in the project, not on any
+disk." Both were committed in `appendices/` and had already been through a
+lettering pass. The full A–G set is written, revised against current canon, and
+gate-clean at 10,538 words.
 
-- **Appendix — The Polarity Map** (~1,500 words). Closes open references at `ch3:623`, `ch4:148`, `ch5:188`, `ch6:151`, `ch7:121`.
-- **Appendix — The 3-2-1 Shadow Process** (~1,500 words). Closes `ch3:456`, `ch3:593`, `ch4:374`. Carries the book's only Wilber credit.
+What is actually still open:
 
-Front matter, table of contents, and back matter are also unwritten.
+- **Ten front-matter facts.** Half title, title page, copyright, and
+  about-the-author are drafted in `front_matter/` and `back_matter/`; every fact
+  that could not be sourced is a `⟦TOKEN⟧`, and `gate.py` fails on all of them.
+- **The table of contents is generated**, not authored —
+  `instruments/build_book.py --toc`.
+- **Optional and unwritten:** dedication, author's note, acknowledgements,
+  enrollment page. The enrollment page waits on R1.
+
+Appendix cross-references in canon all resolve and all name a letter as of
+2026-07-29. Line numbers quoted in older planning docs are stale by roughly 40
+lines, because they were taken with the frame stripped.
 
 ## Standing editorial rules
 

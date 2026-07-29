@@ -1,51 +1,128 @@
-# MTGOA export — 2026-07-28
+# MTGOA export — measured 2026-07-29
 
-Snapshot of the working manuscript and toolchain out of the Claude session container.
-Book ships 2026-08-01.
+Book ships 2026-08-01. Every figure below came out of an instrument on 2026-07-29
+and is reproducible:
 
-## manuscript/
+```bash
+python3 instruments/build_book.py            # the spine and what is missing from it
+python3 instruments/build_book.py --write    # emit build/MTGOA_PRINT_<date>.md
+python3 instruments/gate.py                  # four printed surfaces
+python3 marginalia/compile.py --verify       # frame round-trips byte-identical
+```
 
-The nine chapter files. This is the book. 97,738 words.
+**The previous version of this file was wrong in a way that cost a session.** It
+reported 97,738 words and said both the Polarity Map and the 3-2-1 Shadow Process
+existed "not in the project, not on any disk." Both were committed in
+`appendices/`. Do not plan from a word count or a gap claim in a planning document
+without running the instrument.
 
-| File | Words |
-|---|---|
-| ch1.md — The Infinite Arcade | 7,527 |
-| ch2.md — The Forest | 7,187 |
-| ch3.md — Shaman | 15,096 |
-| ch4.md — Challenger | 11,093 |
-| ch5.md — Regent | 8,820 |
-| ch6.md — Architect | 9,835 |
-| ch7.md — Diplomat | 12,818 |
-| ch8.md — Sage | 13,292 |
-| ch9.md — The Player | 12,070 |
+## The whole book
 
-**Not written, and both are hard print blockers:** Appendix — The Polarity Map
-(closes open references at ch3:623, ch4:148, ch5:188, ch6:151, ch7:121) and
-Appendix — The 3-2-1 Shadow Process (closes ch3:456, ch3:593, ch4:374, and
-carries the book's only Wilber credit). Front matter, TOC, and back matter
-are also unwritten.
+`instruments/build_book.py --write` assembles front matter, generated contents,
+nine chapters with the frame applied, appendices A–G, and back matter into one
+file. **114,691 words.** Nothing built a book before 2026-07-29; `compiled/` holds
+a stale 2026-05-29 artifact whose builder reads the retired `chapters/` tree.
+
+## manuscript/ — the nine chapters
+
+**98,332 words of body text. 103,464 with the marginalia frame applied**, which is
+what the files on disk contain. Strip before measuring anything else.
+
+| File | Body | With frame |
+|---|---|---|
+| ch1.md — The Infinite Arcade | 7,527 | 7,527 |
+| ch2.md — The Forest | 7,190 | 7,886 |
+| ch3.md — The Shaman | 15,264 | 16,040 |
+| ch4.md — The Challenger | 11,258 | 11,993 |
+| ch5.md — The Regent | 8,966 | 9,586 |
+| ch6.md — The Architect | 9,896 | 10,546 |
+| ch7.md — The Diplomat | 12,736 | 13,575 |
+| ch8.md — The Sage | 13,245 | 13,912 |
+| ch9.md — The Player | 12,250 | 12,399 |
+
+Chapter 1 carries no marginalia by design. The frame is **53 blocks** and adds
+5,132 words; `compile.py --verify` confirms the body round-trips byte-identical.
+
+**Chapter 9's heading is `CHAPTER 9: CREATING YOUR OWN ALLYSHIP GAME`**, not "The
+Player." Chapters 3–8 are named for their Face and ch9 for its action. Under the
+ICA decision rule that is the better heading, so the docs were corrected to match
+canon rather than the reverse.
+
+## appendices/ — A through G, all written
+
+**10,538 words.** The full set exists and is gate-clean.
+
+| Letter | File | Words |
+|---|---|---|
+| A | `APPENDIX_A_FOUR_ALLYSHIP_DOMAINS.md` | 3,051 |
+| B | `APPENDIX_B_QUESTS_CAMPAIGNS.md` | 1,891 |
+| C | `APPENDIX_C_FIVE_CHANNELS.md` | 1,198 |
+| D | `APPENDIX_D_EMOTIONAL_ALCHEMY_PRACTICES.md` | 670 |
+| E | `APPENDIX_E_321_SHADOW_PROCESS.md` | 1,077 |
+| F | `APPENDIX_F_POLARITY_MAP.md` | 943 |
+| G | `ON_THE_SHOULDERS_OF.md` | 1,708 |
+
+**Letter C changed hands 2026-07-29.** The Key Terms glossary was retired — it
+defined the pre-2026-07 book, with an eight-gate walk, 0-indexed chapter tags, and
+51 references to a hexagram system not in the manuscript. `APPENDIX_C_KEY_TERMS.md`
+stays on disk marked retired, as a second-edition starting point. The Five Channels
+in Practice took the slot, which is where `ch3:332` was already sending the reader.
+
+A, B, F, and G were revised against current canon in the same pass: the quest
+chapter numbers in B were each one short, F contradicted canon's own statement at
+`ch3:486`, and G was missing two credits the book owes.
+
+## front_matter/ and back_matter/
+
+Written 2026-07-29 as drafts on the working branch. Every fact that could not be
+sourced is a `⟦TOKEN⟧` rather than a guess, and `gate.py` fails on any surviving
+token — that counter is the only thing between a placeholder and the typesetter.
+
+| Component | Words | State |
+|---|---|---|
+| `front_matter/half_title.md` | 6 | done |
+| `front_matter/title_page.md` | 24 | `⟦IMPRINT⟧` |
+| `front_matter/copyright.md` | 340 | 5 tokens; carries all source permissions |
+| Table of contents | generated | `build_book.py --toc` |
+| `back_matter/about_the_author.md` | 23 | 3 tokens; structure only |
+
+Optional and unwritten: dedication, author's note, acknowledgements, enrollment
+page. The enrollment page waits on R1.
 
 ## instruments/
 
-Python measurement tools. `spec_edit.py` is the safe-edit pattern every
-manuscript edit goes through — it aborts and writes nothing on a missed or
-duplicated anchor. `dupes.py` is the cross-chapter duplicate scanner; run it
-on new prose before insertion. The reviewer gate itself is documented in
-`specs/MTGOA_INSTRUMENTS_TOOLKIT.md`.
+`build_book.py` (new 2026-07-29) assembles the book and exits non-zero while a
+required component is missing. `gate.py` reads **four** surfaces — body,
+marginalia, appendices, and front/back matter; until 2026-07-29 it read only
+`manuscript/`, so ~10,000 words of shipping prose had never been held to the
+standing list. `spec_edit.py` is the safe-edit pattern. `dupes.py` finds exact
+cross-chapter duplicates only — it misses near-duplicates, of which three were
+found by hand this week. `prose_diet.py` measures the three grammar moves.
 
-Every number quoted about this manuscript should come out of these, run
-against the chapter files. Planning documents have been wrong.
+## Editorial state, measured
+
+| | |
+|---|---|
+| Gate — body, marginalia, appendices | **0 across every counter** |
+| Gate — front/back matter | **10 tokens**, all awaiting Wendell |
+| `review.py --mode body` | BLOCK **16** · WARN **75** · INFO **167** |
+| `review.py --mode voice` | BLOCK **1** — ch4's hedge particles |
+| Denying negations | **9**, every one an adjudicated keep |
+| `which is` appositive tails | **64**, down from 91 |
+| `rather than` | 103 — measured and **withdrawn as a defect**, see the print-readiness spec |
+
+## The 13 open gate hits, all of them Wendell's
+
+- `⟦ASH-AGE⟧` and `⟦ASH-SPAN⟧` live in ch4 Section 3 (**R9**)
+- ch3's A0 hit, *"a time you were told something true"* (**R8**)
+- the ten front-matter facts: imprint, two ISBNs, designer, publisher address,
+  website ×2, and three author-bio lines
+
+Nothing else in the book is blocked on a person.
 
 ## specs/
 
-`MANUSCRIPT_FILE_CANON.md` — which files are the book, which are stale.
-The three open specs each end in a rulings section still awaiting Wendell.
-
-## visuals/
-
-Built HTML. Self-contained, no external assets.
-
-## drafts/
-
-Working prose not merged into any chapter. `appendix_channels.md` and
-`ch9_transfer_drill.md` are finished pieces; the rest are partial.
+`SPEC_PRINT_READINESS_2026-07-29.md` is the measured audit and the live worklist.
+`MANUSCRIPT_FILE_CANON.md` carries canon, the standing rules, and the ICA decision
+rule that governs them. `SPEC_FINISHING_PASS_2026-07-29.md` is the W-item plan;
+its baselines predate this week's work and its status table has been updated.

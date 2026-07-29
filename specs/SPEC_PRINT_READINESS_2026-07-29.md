@@ -1,5 +1,46 @@
 # SPEC — Print readiness, measured
 
+## STATUS — end of session, 2026-07-29
+
+**Everything in §2 is done except the parts only Wendell can do.** The sections
+below are kept as the record of what was found and why; this block is the current
+state.
+
+| Blocker | State |
+|---|---|
+| B1 — gate fails | **13 hits, all Wendell's.** `⟦ASH-AGE⟧` / `⟦ASH-SPAN⟧` in ch4 (R9), ch3's A0 (R8), ten front-matter facts. |
+| B2 — appendices never gated | **Closed.** 27 hits on first run, now 0 across every counter. |
+| B3 — front and back matter | **Drafted.** Half title, title page, copyright, about-the-author. Every unsourced fact is a `⟦TOKEN⟧` the gate fails on. |
+| B4 — nothing built a book | **Closed.** `instruments/build_book.py --write` emits 114,691 words. Spine complete. |
+| §3 — appendices describe the retired book | **Closed.** C retired, A/B/F/G revised, D/E gated. |
+| §4 — Five Channels unlettered | **Closed.** Took letter C. |
+| §5 — reference style | **Closed.** All eight sites name letter and title. |
+| §6 — four heading styles | **Closed.** All nine read `CHAPTER N: THE NAME`; ch1 gained the subtitle every other chapter had. |
+| §7 — editorial BLOCK 80 | **16.** W7 complete, say-the-noun done, `which is` swept 91 → 64. |
+
+**What is left, in order:**
+
+1. The ten front-matter facts, `⟦ASH-AGE⟧` / `⟦ASH-SPAN⟧`, and R8. Wendell only —
+   the gate cannot go green without them.
+2. **R13–R18**, opened while doing the work and listed in
+   `SPEC_FINISHING_PASS_2026-07-29.md`. R16 matters most: ch6:434 had a broken
+   sentence and my repair infers intent.
+3. W3, the genre-marker pass, untouched and waiting on R3.
+4. ch4's hedge particles — the last voice BLOCK.
+5. 167 punchline-last INFO hits. Pattern data, not defects.
+
+**Withdrawn as a defect:** `rather than`, 103 uses. Exactly one sentence carries
+two and exactly one paragraph carries three, and that paragraph is a deliberate
+teaching triad in ch3. The per-chapter rate tracks the chapters that draw the most
+distinctions, which is where ranking language belongs. Recorded so nobody re-opens
+it.
+
+**Corrected in this document:** §5's line-number table was itself taken from stale
+sources; the numbers moved again when the frame was reapplied. Do not quote line
+numbers from any spec. Grep the file.
+
+---
+
 **2026-07-29. Ships August 1.** Every number here came out of an instrument run
 against canon on 2026-07-29. Where it contradicts `SPEC_FINISHING_PASS_2026-07-29.md`,
 `MANIFEST.md`, or `specs/MANUSCRIPT_FILE_CANON.md`, this document is the measurement
