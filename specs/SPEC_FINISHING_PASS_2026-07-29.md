@@ -219,6 +219,56 @@ Calibration rule from the handoff stands: tune against corrections Wendell
 actually makes, not against intuition. Record each adjudication in this spec's
 changelog so the pattern list can be tightened once.
 
+### W6 — Retire the "village version" formula *(ruled 2026-07-29; supersedes part of W1)*
+
+**The defect is repetition plus abstraction, and the second one matters more.**
+*The village version* appears exactly five times, once per Section 3, in ch3,
+ch4, ch5, ch6, and ch7 — the same slot in five consecutive chapters. A reader
+who notices it once notices it every time after.
+
+| Ch | Current |
+|---|---|
+| 3 | *It's not emotional processing. That's the village version —* |
+| 4 | *It's not aggression. That's the village version —* |
+| 5 | *It's not nostalgia. That's the village version —* |
+| 6 | *The village version of structural design is organizational design —* |
+| 7 | *The village version is the ultimatum.* |
+
+**The fix is not a synonym for "village version."** Rotating the phrase leaves
+the real problem in place: it is a noun phrase that names a *thing* where the
+sentence should be naming an *act*. It reports that a wrong version exists
+without saying what the village actually does to the teaching.
+
+**Required form: an active verb naming how the village mis-reads the Face's
+healthy lesson.** Flattens, hears-as, mistakes-for, reduces-to, hardens-into.
+The verb has to carry the specific failure of interpretation, and it should
+differ per Face, because each Face is misread differently — that difference is
+content the formula was throwing away.
+
+Sketches only, to fix the shape — the real verbs come out of each chapter:
+
+- ch3 — *The village flattens alchemy into processing:* the neat, linear model
+  where you identify, understand, release, and move on.
+- ch4 — *The village hears the clean no as aggression:* the Challenger as the
+  angry one, the difficult one…
+- ch5 — *The village mistakes the practice for nostalgia:* we do it this way
+  because we have always done it this way.
+- ch6 — *The village reduces structural design to the org chart:* the RACI
+  matrix, the role description, the meeting cadence.
+- ch7 — *The village hardens terms into ultimatums:* what someone says when
+  they have decided to leave and want you to know it is your fault.
+
+**This supersedes the W1 treatment of ch3/ch4/ch5.** Those three denying
+negations were held pending a ruling and should now be resolved by W6 rather
+than by the ch6 pattern proposed on 2026-07-29 — that proposal preserved the
+formula and is withdrawn. **The ch6 edit already committed (`22c711d`) is
+provisional for the same reason:** it removed the denying negation and the D1
+opener correctly, but rebuilt the sentence as *"The village version of X is
+Y,"* which is the formula this item retires. Redo it here.
+
+Scope: five sentences, one per chapter. Each runs the §2b loop with the Head
+named (Voss, Ash, Quill, Vale, Cross), then gate + review.
+
 ### W5 — Tail passes *(WARN-level, time-permitting)*
 
 50 `which is` appositive tails (a real tic; worth a sweep) · 25

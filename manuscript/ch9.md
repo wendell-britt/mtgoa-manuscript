@@ -86,7 +86,7 @@ Nobody else can design this game. Nobody else has your specific combination of g
 
 This is what the book has been preparing you for. Not to be a consumer of the six Faces. To be a designer of your own.
 
-A practice is not a personality type. It's not a morning routine. It's not a values statement you write once and forget.
+People mistake a practice for a personality type, a morning routine, or a values statement written once and forgotten.
 
 A practice is what you actually do when something hard happens.
 
