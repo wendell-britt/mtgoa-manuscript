@@ -74,13 +74,13 @@ The village never meant for that to happen.
 
 I came up in traditions. Martial arts, church, academia — all of them Regent organizations, all of them built on the assumption that the person before you learned something worth receiving. You showed up, and the tradition showed up with you, and over time it became part of what you could offer.
 
-I've spent most of my adult life in rooms where that reads as a threat.
+I've spent most of my adult life in movements where that reads as a threat.
 
-I belonged to a collective for a few years. Progressive, justice-focused, the right values on paper, and absolutely no governance. Not because they forgot — because structure was suspect. Roles meant hierarchy meant oppression. *We'll figure it out as we go* was a principle, not a gap.
+I belonged to a collective for a few years. Progressive, justice-focused, the right values on paper, and absolutely no governance. They had decided structure was suspect. Roles meant hierarchy meant oppression. *We'll figure it out as we go* was a principle, not a gap.
 
-I could feel it coming. The way you can feel a building that's going to fail — not because of the people in it but because no floor holds them up. I said things. Careful things, the kind you say in rooms allergic to structure. I tried to name what I was watching without naming it in the way they feared: the authoritarian, the traditionalist, the one who wants to run things. So I held back some of what I knew. I wore the crown under my hood.
+I could feel it coming. The way you can feel a building that's going to fail. The people inside are fine. No floor holds them up. I said things. Careful things, the kind you say to a group allergic to structure. I tried to name what I was watching without naming it in the way they feared: the authoritarian, the traditionalist, the one who wants to run things. So I held back some of what I knew. I wore the crown under my hood.
 
-The ones who wanted the crown usually sought someone to give themselves to. They weren't receiving the tradition — they were looking for a patriarch. Which is its own kind of problem.
+The ones who wanted the crown were looking for a patriarch to give themselves to, and a patriarch does its own kind of damage.
 
 The first crisis, they adapted. The second, they circled. By the third, they were arguing about the same things from different angles with no memory of what the original argument had been for.
 
@@ -244,7 +244,7 @@ I'm talking about something more specific than genetics and more specific than c
 
 Every person alive is an inheritor. The Regent's practice works consciously with that fact instead of against it.
 
-The native material at the Regent's altitude is not emotion. It's not will. It's not even logic. It's **loyalty** — the felt sense of belonging to something larger than yourself, and the weight that comes with that belonging. What you owe. What you carry. What you pass on.
+The Shaman works in emotion, the Challenger in will, the Architect in logic. The native material at the Regent's altitude is **loyalty** — the felt sense of belonging to something larger than yourself, and the weight that comes with that belonging. What you owe. What you carry. What you pass on.
 
 Loyalty is deeply unfashionable in progressive circles. It sounds like obedience. It sounds like the thing that keeps people inside harmful institutions. The village conflated loyalty with compliance — and then wondered why the institutions it served became so brittle.
 
@@ -302,7 +302,7 @@ The Regent's practice moves through five stages. Unlike the Shaman's WAVE, fast 
 
 **Steward** — You carry it and maintain it. This is the longest stage, and the least visible. The practice of showing up, again and again, to do the work the inheritance requires: the meeting that gets run because someone has to run it, the vow kept on a day nobody was watching, the form held steady long enough for the people inside it to trust that it will be there next year. Stewarding costs what it takes to keep something alive while you figure out what it needs. It looks like doing nothing and costs more. *I am not just preserving this. I am tending it.*
 
-**Reform** — You change what no longer serves, while it is still yours to carry. The sequence used to hide this stage inside Steward, and hiding it there is how a Regent spends thirty years tending something they knew in year four had stopped working. Reform is a separate act with a separate cost, and the cost is the thing that makes it separate: stewardship earns you loyalty, and reform spends it. No version of it costs nothing, which is precisely why it gets folded into the tending, where it can be postponed indefinitely as a thing you are already doing. *This part has to change, and I am the one who has to say so, out loud, to people who will hear it as disloyalty.*
+**Reform** — You change what no longer serves, while it is still yours to carry. The sequence used to hide this stage inside Steward, and hiding it there is how a Regent spends thirty years tending something they knew in year four had stopped working. Reform is a separate act with a separate cost, and the cost is the thing that makes it separate: stewardship earns you loyalty, and reform spends it. No version of it costs nothing. That is precisely why it gets folded into the tending, where it can be postponed indefinitely as a thing you are already doing. *This part has to change, and I am the one who has to say so, out loud, to people who will hear it as disloyalty.*
 
 **Entrust** — You hand it on, cleanly, to whoever comes next. The hardest stage. The Regent's test asks whether you can let go without abandoning — whether you can pass the tradition forward without clinging to it. *Have I given the next person enough to run with, without crushing them under the weight of what I thought it should be?*
 
@@ -389,7 +389,7 @@ The Regent asks you to: Inherit — *this is what came to me.* Honor — *this p
 <!-- /MARGINALIA -->
 
 
-Everything above describes the cycle. Here comes the one move that leaves the Forest. The Regent's pace is generational, so this won't resolve this week — but it can *start* this week, and starting it costs something, which is the whole point. Interior sorting is free. Saying it out loud, to the people who hold the tradition with you, is where loyalty has a price.
+Everything above describes the cycle. Here comes the one move that leaves the Forest. The Regent's pace is generational, so this won't resolve this week — but it can *start* this week, and starting it costs something. The cost is how you know it started. Interior sorting is free. Saying it out loud, to the people who hold the tradition with you, is where loyalty has a price.
 
 Pick one inheritance you've already located — a practice, a norm, a role, a tradition you've been carrying without deciding about. Then say one of two sentences, this week, to the actual people it belongs to. Not in your journal. To their face.
 
@@ -426,7 +426,7 @@ Then comes the second move, the Healer half, and it costs you more. When the rep
 
 This daemon stands where it stands for a reason, in a book about allyship. Everything this chapter teaches runs on receiving something before you have finished evaluating it. Inherit, then Honor: take on what arrived, then sort what in it still serves. The Fixer-Healer ends the cycle between those two steps — not by arguing that the inheritance is bad, but by ruling that it is not yet in a condition to be inherited. The evaluation never closes. You never get to Honor, because Honor requires having accepted the thing, and acceptance keeps getting deferred to the far side of a repair that has no far side.
 
-The cost is generational, which is why it takes so long to surface. The people coming after need something receivable: a role with a shape, a practice with the reason still attached, an account of why any of this is here. A personally-held inheritance offers them competence instead — unwritten, undelegated, and available only while its carrier is. Nobody gets wronged in a way anyone can name. Nothing remains to hand over when the hand-over comes.
+The cost is generational, so it takes a long time to surface. The people coming after need something receivable: a role with a shape, a practice with the reason still attached, an account of why any of this is here. A personally-held inheritance offers them competence instead — unwritten, undelegated, and available only while its carrier is. Nobody gets wronged in a way anyone can name. Nothing remains to hand over when the hand-over comes.
 
 The chapter's myth lives here, and it flatters more than any other in the book. The myth is that allyship is sacrificing yourself. The Fixer-Healer makes that feel like the highest form of loyalty — pour yourself into the gap, absorb what the structure cannot hold, pay for the inheritance's brokenness out of your own account, indefinitely. It reads as devotion. Run it forward and it is the surest way to guarantee that nothing you carried survives you. A person who has made themselves the load-bearing wall cannot entrust anything, because there is nothing to entrust; there is only their continued presence. Sacrifice and stewardship point in opposite directions. One of them ends when you do.
 
@@ -436,7 +436,7 @@ You do not fire the Fixer-Healer. Fire the part of you that notices damage and y
 
 *Tell me what is broken. All of it, in detail — that is the report I want, and I will act on it. Whether I commit is not in your remit. That was settled when I accepted this.*
 
-Then put a number on it, because open-ended repair runs the shadow's entire method. The Regent works in years, so the deadline is not a breath — it is a count. *One cycle. Name what changes in that cycle, and I will do the work. At the end of it I am carrying this either way.* One cycle is enough for the question actually asked. It is not enough for the other one, which is the point.
+Then put a number on it, because open-ended repair runs the shadow's entire method. The Regent works in years, so the deadline is not a breath — it is a count. *One cycle. Name what changes in that cycle, and I will do the work. At the end of it I am carrying this either way.* One cycle is enough for the question actually asked. It is not enough for the other one, and it was never meant to be.
 
 It shows up in a single beat. Someone asks you to take the role — chair the thing, hold the practice, put your name on it. Something in you says yes before you do; the inheritance lands, on time, doing its job. Then the condition opens: *not until the charter gets rewritten, not while the last person's mess is still in it, not with the funding the way it is.* Each is true. Each is repairable. Two years on, the charter has been rewritten twice, the role still has no name, and no list anywhere names the person doing all of it — because the job is a shape a body makes, not a thing anyone can take over. On the narrow jurisdiction the same part returns the same report and the answer changes: *here is what is broken, here is what I will fix in the first year, I am taking it now.* Same rigor. Same eye for damage. The only thing that changed is what you gave it authority over.
 
@@ -513,7 +513,7 @@ The hardest Regent move. You prepare the next person not as a replica of you, bu
 
 *In practice:* When you're transitioning out of something, ask: *am I giving the next person enough to run with, or am I giving them my anxiety about how it should look?* Let go of the outcome. Trust the inheritance.
 
-**The test:** What you handed over was context rather than anxiety. Context lets them decide; anxiety tells them what you need the outcome to look like. Their version will differ from yours, which is the point.
+**The test:** What you handed over was context rather than anxiety. Context lets them decide; anxiety tells them what you need the outcome to look like. Their version will differ from yours. Let it.
 
 ---
 
@@ -559,7 +559,7 @@ A card that ends in the app is a card you read. A card that ends in a quest is a
 
 One line, four things: what you will do, who it reaches, by when, and what it costs you. *Tend the Structure* becomes: **I will write down how the intake process actually works, give it to Priya by the end of the month, and walk her through it once, and it will cost me being the only person who knows.** That is a quest. *I will delegate more* is not one; nobody can tell whether you did it, including you.
 
-The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For a Regent the dread usually concerns becoming unnecessary, which is the point.
+The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For a Regent the dread usually concerns becoming unnecessary, and that is the dread to trust.
 
 *Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it. → app*
 

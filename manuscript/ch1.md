@@ -4,7 +4,7 @@ This book is three years late.
 
 I made a promise to readers who trusted me with their money and their hope, and then I couldn't deliver. The reason, when I finally let myself look at it clearly, was both embarrassing and fitting: I was writing a book about allyship, and it was making me a worse ally. Not to the people I was trying to serve — to myself, to the people closest to me, to the work itself.
 
-I knew that helping people from a place of scarcity doesn't work. I'd built a whole framework around that idea. So I told myself I wasn't doing that. I was being responsible. I was staying in integrity. Which was all true, and also meant the guilt had nowhere to go. It went underground. The work went with it.
+I knew that helping people from a place of scarcity doesn't work. I'd built a whole framework around that idea. So I told myself I wasn't doing that. I was being responsible. I was staying in integrity. Every word of that was true, and every word of it left the guilt nowhere to go. It went underground. The work went with it.
 
 It wasn't until I gave myself permission to actually be mad — at myself, about the delay, about the gap between who I said I was and what I was doing — that I saw what was happening. I was holding myself hostage. Because I couldn't be perfect in the way I'd decided I had to be, I ended up doing the exact opposite of what I set out to do: making the work smaller, slower, less alive. Less fun.
 
@@ -131,7 +131,7 @@ Here is the second, and I will say it plainly, because it is the objection that 
 
 If making allyship a game feels like it cheapens something sacred, look at what the alternative actually costs. Most allyship is built as a chore — a duty, a debt, a weight good people carry — and it runs on the fuel we already named as the kind that empties you: obligation, guilt, the grim credit of having suffered for the cause. That model does not fail because people care too little. It fails because caring, run as suffering, burns down to nothing, and the person you showed up for is left standing there the day you finally collapse. Unless you are built to find meaning in your own depletion, a version of this work that offers you no engagement is a version you will quit.
 
-Yu-kai Chou spent a decade mapping what actually keeps a human being playing — what pulls people back to some things for years and drives them out of others for good. Games are engineered around the first kind of pull. Allyship, almost always, is built out of the second. So a game is not a trick for making serious work go down easier. It is the only structure that generates the energy to keep doing serious work for a lifetime instead of one burnout cycle.
+Yu-kai Chou spent a decade mapping what actually keeps a human being playing — what pulls people back to some things for years and drives them out of others for good. Games are engineered around the first kind of pull. Allyship, almost always, is built out of the second. Calling a game a trick for making serious work go down easier gets it backwards. A game is the only structure that generates the energy to keep doing serious work for a lifetime instead of one burnout cycle.
 
 The third reason changes everything: a game is the only frame that will get you to look straight at the part of your allyship you least want to see — and enjoy it.
 
@@ -143,7 +143,7 @@ A game turns the lights on: it takes the charge you've been running in secret an
 
 If that landed as an accusation, notice the flinch — that's the shadow guarding its stash. If it landed as relief, you were already ready to hear it.
 
-Look at what the payoff really buys you: safety. Which is why fear sits at the center of the work. Raw, fear freezes you or turns you back. A game turns it into the thing standing right beside it — wonder, the same charge, now pointed at the door instead of away from it.
+Look at what the payoff really buys you. It buys safety, so fear sits at the center of the work. Raw, fear freezes you or turns you back. A game turns it into the thing standing right beside it — wonder, the same charge, now pointed at the door instead of away from it.
 
 Detachment, engagement, and the nerve to look at what you'd rather not: three reasons the game frame is medicine and not a gimmick, and the rest of this book builds that engine. Allyship reaches you as three games running at once: the lucky breaks you cannot schedule, the skills you can actually build, and the love that keeps you coming back. Everything ahead is built to strengthen your hand in all three — to keep you present for the breaks when they come, to sharpen the moves that are yours to make, and to deepen the passion that keeps you at the machine long after discipline would have quit. That is the board we are about to map.
 
@@ -197,7 +197,7 @@ This is your character sheet — a few lines, filled in for who you are right no
 
 **Your home face.** The one you already play — the one you just recognized as yours. Write it down.
 
-**Your shadow.** Your home face has a bad night. Tired, scared, or spent, it stops being your strength and turns into the thing you overplay — the Diplomat who keeps the peace until nothing gets decided, the Challenger who scorches the people he came to protect. You catch this one by feel: under strain it comes in heavier, tighter, more reactive than your real move. Write down the version of your face you fall into on empty. It is not your enemy; it is your tell.
+**Your shadow.** Your home face has a bad night. Tired, scared, or spent, it stops being your strength and turns into the thing you overplay — the Diplomat who keeps the peace until nothing gets decided, the Challenger who scorches the people he came to protect. You catch this one by feel: under strain it comes in heavier, tighter, more reactive than your real move. Write down the version of your face you fall into on empty. Treat it as your tell rather than your enemy.
 
 **Your myth.** Back at the start you met the ten versions of *allyship means being good*. Write down the one that runs you hardest — the rule you have been playing by without ever agreeing to it. (The app's Myths Read sorts your real top few, unflattering and exact, and turns each one into a first move.)
 

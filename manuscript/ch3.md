@@ -167,7 +167,7 @@ In emotional processing, the emotion is the problem. In emotional alchemy, the e
 
 Every emotion is a story about reality. When you feel fear, you're receiving information about risk. When you feel anger, you're receiving information about boundary violation. When you feel sadness, you're receiving information about loss. When you feel joy, you're receiving information about alignment. When you feel neutrality — that spacious, clear quality — you're receiving information about perspective itself.
 
-These are not problems. They are *signals.* They are your nervous system's way of saying "pay attention to this. Something true is present."
+You have been calling these problems. They are *signals.* They are your nervous system's way of saying "pay attention to this. Something true is present."
 
 Most people learned to interrupt this signal. To speed past it. To replace it with a more "productive" emotion. Fear becomes "I need to work harder." Anger becomes "I need to fix this system." Sadness becomes "I need to learn from this and move on." Joy becomes "I need to bottle this and use it for fuel."
 
@@ -196,7 +196,7 @@ That is the Shaman's superpower. That is what the village lost when the Shaman l
 <!-- MARGINALIA -->
 > *Watch for the point where you get good at this and it becomes enough.*
 >
-> *You will start reading rooms accurately, which is a real skill and rarer than it sounds, and
+> *You will start reading a company accurately. That is a real skill, rarer than it sounds, and
 > each accurate read will feel like a thing accomplished. It is not one. A read that never becomes
 > a move is a very sophisticated way of standing still, and I have watched people build whole
 > careers in that spot and be admired the entire time.*
@@ -617,7 +617,7 @@ The Controller does not block your read with a vague no. It blocks with a verdic
 
 *I'm not good enough. I'm not ready. I don't belong. I'm insignificant. I'm not worthy. I'm not capable.*
 
-These are the whistle-calls. When something true moves in a moment and a part of you feels it, the Controller does not argue that the feeling is wrong. It disqualifies the one who would name it. Who are you to say this — you're not ready, you don't belong, you're not good enough. The read never reaches the field because the referee who would call it has been ruled ineligible. That is the mechanism. The six beliefs are not stray bad thoughts about yourself; they are the specific tool the Controller uses to keep your Shaman move from ever getting made.
+These are the whistle-calls. When something true moves in a moment and a part of you feels it, the Controller does not argue that the feeling is wrong. It disqualifies the one who would name it. Who are you to say this — you're not ready, you don't belong, you're not good enough. The read never reaches the field because the referee who would call it has been ruled ineligible. That is the mechanism. The six beliefs read like stray bad thoughts about yourself. They are the specific tool the Controller uses to keep your Shaman move from ever getting made.
 
 This is why you do not beat them by arguing. Argue *I am good enough* and you have already accepted the court — now you are litigating your own standing while the moment passes, and the judge already has every past ruling on file and infinite patience. It wins on points every time. The Shaman's move is to notice that a court is even sitting, catch the belief in the act of disqualifying your read, and make the play anyway. Name the ruling. Name whose rule it is. Let the read onto the field with the belief still talking: *there it is, "not ready" — noted. Here is the true thing anyway.*
 

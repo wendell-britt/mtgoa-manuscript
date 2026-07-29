@@ -42,7 +42,7 @@ comedy is in what it cannot see from there, and each Face has several.
 
 | Face | Sees truly | Cannot see from there |
 |---|---|---|
-| **The Forest** (Ch2) | that something could go wrong | that most rooms are not the room it prepared for; that safety and care are not the same errand |
+| **The Forest** (Ch2) | that something could go wrong | that most situations are not the one it prepared for; that safety and care are not the same errand |
 | **Shaman** | that the body reads what the mind hasn't | that resonance is not verification; that sensing something can feel identical to handling it |
 | **Challenger** | where the line actually is | that the obstacle is usually not a person; that a clean cut and a right cut are different things; that a line has to survive Tuesday |
 | **Regent** | that inheritance carries something worth keeping | that the form and the value come apart; that continuity can be mistaken for fidelity; that *old* and *working* are separate claims |

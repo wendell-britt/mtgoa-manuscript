@@ -405,7 +405,7 @@ I hear that. Let me name what's actually happening with that resistance.
 
 Founder is not a personality type. Founder is a mode. The mode activates the moment you decide to create something that didn't exist before you — whether it's a conversation, a practice, a tradition in your family, a way of showing up at work that nobody had named before. The Founder arrives the moment you stop consuming and start creating. Sometimes an organization comes out of that. Usually nothing does.
 
-Here's the thing the culture doesn't tell you: the Founder move probably already sits somewhere in your history. A tradition in a family that wasn't there until somebody started it. A conversation held differently than the generation before would have held it. A pattern broken with a child, a sibling, a friend. A community that exists because one person kept inviting people until it did. Look for the one that's yours.
+The culture never tells you this: the Founder move probably already sits somewhere in your history. A tradition in a family that wasn't there until somebody started it. A conversation held differently than the generation before would have held it. A pattern broken with a child, a sibling, a friend. A community that exists because one person kept inviting people until it did. Look for the one that's yours.
 
 If you found it, you have already been the Founder. You just didn't call it that.
 
@@ -569,7 +569,7 @@ That is the Player's game. Five moves. Cut the field until the problem can fail.
 
 ---
 
-**The five moves are not the practice. They are the map of the practice.**
+**The five moves are the map. The practice is the walking.**
 
 The practice is what you do between the moves. The moves name what to do. The practice is doing them, repeatedly, in real situations, with real stakes. A list of moves is not a practice any more than a recipe is a meal. Having the moves is like having a map. The walk is what happens when you actually go.
 

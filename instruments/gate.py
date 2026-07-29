@@ -20,7 +20,9 @@ BLOCK = re.compile(
 # and treating them otherwise invents violations that are not there.
 COUNTERS = [
     ("andbut", r'(^|[.?!]["“”\'’]? |\*|\*\*|— |; )(And|But) ', re.M),
-    ("banned", r'\broom\b|\bquiet(ly)?\b|\bgenuinely\b', re.I),
+    # "rooms" plural banned 2026-07-29 by Wendell. The earlier rule read
+    # \broom\b, which let the plural through; ch5 carried three.
+    ("banned", r'\brooms?\b|\bquiet(ly)?\b|\bgenuinely\b', re.I),
     ("emdash", r'[a-zA-Z0-9,]—[a-zA-Z0-9]', 0),
     ("A0", r'you (were|was) (taught|told|raised|trained)|somewhere along the way'
            r'|the village taught you', re.I),

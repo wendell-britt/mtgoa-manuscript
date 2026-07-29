@@ -122,8 +122,8 @@ Every move in this chapter runs downstream of that myth. This chapter replaces i
 > *Elian's blind spot lives in this polarity, and it is the only blind spot on this staff that has
 > cost somebody other than its owner.*
 >
-> *They stay. They have stayed in rooms that had already chosen harm, well past the point where
-> staying did anything but lend those rooms their reputation. They know this. They will tell you the
+> *They stay. They have stayed in company that had already chosen harm, well past the point where
+> staying did anything but lend that company their reputation. They know this. They will tell you the
 > walk-away terms are the hardest thing they teach because they are the thing they are worst at,
 > and then they will teach them better than anyone alive.*
 <!-- /MARGINALIA -->
@@ -210,7 +210,7 @@ The anxiety becomes the fuel for engagement rather than the signal to withdraw. 
 
 The Bridge-Builder's secondary Translate addresses the Diplomat's specific vulnerability to rejection. When the pattern of past exclusion fires (they won't want me here, I'm outside the circle), the Translate moves the charge toward generous assumption: *What if they actually want me here? What if the field is more open than my pattern expects?*
 
-This is not naive optimism — it is a discipline of extending the same hypothesis to the present that you extend to strangers on the street. The rejection-sensitivity supplies the raw material; the Translate converts it into the willingness to risk contact.
+Call it optimism if you want. The discipline extends to the present the same hypothesis you already extend to strangers on the street. The rejection-sensitivity supplies the raw material; the Translate converts it into the willingness to risk contact.
 
 **[CONTROL] Control 1 — Untracked Depletion Pattern**
 
@@ -230,7 +230,7 @@ The Control move: ground the performance in actual feeling. *What is the actual 
 
 The Translator is the Diplomat's most cognitively demanding channel — the work of taking meaning from one camp and rendering it faithfully into terms another camp can actually receive. It requires the Translator to hold their own position lightly enough to truly hear what the other says, and to transmit it without contaminating it with their own biases.
 
-Here is what its absence looks like: a person who can only speak their own language. Who translates everything through their own lens, who hears only what they already believe, who approaches every conversation as a performance of their own position. The Translator's absence shows up as a kind of relational deafness — not literally unable to hear, but incapable of truly receiving meaning that originates outside their own framework. The Diplomat without Translator is not a bridge-builder — they are two ends of a wire that never actually connected.
+Here is what its absence looks like: a person who can only speak their own language. Who translates everything through their own lens, who hears only what they already believe, who approaches every conversation as a performance of their own position. The Translator's absence shows up as a kind of relational deafness — not literally unable to hear, but incapable of truly receiving meaning that originates outside their own framework. The Diplomat without Translator is two ends of a wire that never connected.
 
 Here is what its distortion looks like: a person who abandons their own voice entirely in the service of translation. Who becomes a relay, a passive conduit, transmitting without judgment and also without any anchor of their own. The distorted Translator has no position — the perfect channel, and therefore useless, because a translation without the Translator's own interpretive presence loses something essential. Every real translation is an act of interpretation, and an interpretation requires an interpreter with a point of view.
 
@@ -267,7 +267,7 @@ The Translator carries a secondary Dissatisfaction: the guilt of partiality. You
 
 This guilt is real, and it is also a distortion. The alchemy recognizes that **partiality is not the same as betrayal**. You are allowed to have a position. You are allowed to believe one framing is closer to what you consider true. The guilt of the Translator who cannot tolerate their own partiality leads to a false neutrality that serves no one — least of all the field.
 
-The alchemy: *I stop apologizing for having a position I am translating from.* I let the guilt transmute into the clarity of legitimate partiality. I am a partisan who can also really hear. That is not a contradiction — it is the definition of a Translator.
+The alchemy: *I stop apologizing for having a position I am translating from.* I let the guilt transmute into the clarity of legitimate partiality. I am a partisan who can also really hear. That combination defines the Translator.
 
 **[TRANSLATE] — From Understanding to Transmission**
 
@@ -293,7 +293,7 @@ Precision costs here: the containment structure takes extra effort, and it pays 
 
 ### Channel 3 — Field-Holder
 
-The Field-Holder is the Diplomat's most demanding channel in terms of sheer presence — the work of maintaining enough safety that difficult conversation remains possible, even when charge runs high, even when the ground shifts, even when everyone present wants to fight, flee, or freeze.
+The Field-Holder demands more sheer presence than any other Diplomat channel — the work of maintaining enough safety that difficult conversation remains possible, even when charge runs high, even when the ground shifts, even when everyone present wants to fight, flee, or freeze.
 
 Here is what its absence looks like: a person who can hold a conversation only when it is already safe. Who can mediate in calm conditions, but who falls apart the moment the field becomes truly charged. The Field-Holder's absence shows up as a kind of presence collapse — the moment something difficult actually happens, they either escalate into the conflict or disappear from the field entirely. They can hold the good conditions; they cannot hold the bad ones.
 
@@ -301,9 +301,9 @@ Here is what its distortion looks like: a performative calm, actually a freeze r
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 1 — Anxiety → Grounded Presence**
 
-The Dissatisfaction here is **anxiety** — the Field-Holder's nervous system reads a charged field as danger, even when no danger exists. Things get tense and the Field-Holder's body starts to signal: something is wrong here. Get out. The anxiety is not wrong — it is reading the field accurately. Unprocessed, though, it makes the Field-Holder contract, which removes the very presence the field needs.
+The Dissatisfaction here is **anxiety** — the Field-Holder's nervous system reads a charged field as danger, even when no danger exists. Things get tense and the Field-Holder's body starts to signal: something is wrong here. Get out. The anxiety reads the field accurately. Unprocessed, though, it makes the Field-Holder contract, which removes the very presence the field needs.
 
-The alchemy: *I let the anxiety teach me where the field needs attention.* Anxiety is not a signal to leave — it is a signal to lean in more deliberately. The fear of the field destabilizing becomes the anchor that keeps you rooted in it. You are not anxious despite your holding — you are anxious *because* you hold something that matters. The alchemy transmutes the charge of anxiety into the energy of real presence.
+The alchemy: *I let the anxiety teach me where the field needs attention.* Anxiety signals you to lean in more deliberately. The fear of the field destabilizing becomes the anchor that keeps you rooted in it. You are not anxious despite your holding — you are anxious *because* you hold something that matters. The alchemy transmutes the charge of anxiety into the energy of real presence.
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 2 — Collapsed Calm → Active Containment**
 
@@ -321,7 +321,7 @@ The alchemy: *I stop performing calm and start doing containment.* The stillness
 
 The Neutral Channel pattern here is **presence collapse** — the behavioral pattern of disappearing from the field the moment it becomes charged. The Field-Holder who has not done their internal work shows up for every calm conversation and vanishes from every difficult one. The Control move redirects this pattern into structure:
 
-**The structure of the Precedent of Presence:** You establish, in advance, a commitment to remaining in the field when it becomes charged. Not because you have to — because you have decided. The commitment is the structure. You tell the field in advance: *I don't leave when it gets hard. That is not a rule — it is a practice.* The collapse pattern dissolves into a personal precedent that the field can depend on. You have made yourself a reliable structure because you decided in advance, before the charge arrived.
+**The structure of the Precedent of Presence:** You establish, in advance, a commitment to remaining in the field when it becomes charged. You decided on it; nothing obliged you. The commitment is the structure. You tell the field in advance: *I don't leave when it gets hard. I practice that rather than declare it.* The collapse pattern dissolves into a personal precedent that the field can depend on. You have made yourself a reliable structure because you decided in advance, before the charge arrived.
 
 Staying spends real capacity. Naming that cost belongs to the holding, because unnamed depletion eventually becomes disappearance.
 
@@ -383,7 +383,7 @@ The second distortion is **ultimatum dressed as negotiation** — leverage where
 
 The Dissatisfaction here is **resentful peace** — the accommodation that says yes while the body says no. You agreed to something you didn't actually agree to. You made space without naming what making space cost. You kept the field calm by swallowing your stake, and now the calm curdles into bitterness you can't explain because you never said out loud what you needed the agreement to hold.
 
-The alchemy: *I stop paying for harmony with my disappearance.* Resentful peace is not peace — it is deferred conflict wearing a polite face. The alchemy moves accommodation into **honest terms**: not *I'll tolerate anything to stay*, but *here is what this field must hold for my staying to remain real — for everyone's staying to remain real.* The charge of the swallowed no becomes the heat of a closing that actually names the stakes.
+The alchemy: *I stop paying for harmony with my disappearance.* Resentful peace is deferred conflict wearing a polite face. The alchemy moves accommodation into **honest terms**: not *I'll tolerate anything to stay*, but *here is what this field must hold for my staying to remain real — for everyone's staying to remain real.* The charge of the swallowed no becomes the heat of a closing that actually names the stakes.
 
 **What it feels like in the body:** Resentful peace sits as heaviness — a pleasant surface with something dense underneath. Honest terms feel like heat with ground — your chest engages, your feet plant, and nothing has exploded.
 
@@ -439,7 +439,7 @@ You met the Victim at the door of the Forest, sixth in line. The Protector decid
 
 At its best this is the part of you that keeps an exact ledger. Something cost you and the Victim will not let the cost be called nothing. It remembers the meetings you carried, the accommodations nobody asked for and everybody used, the years of being the reasonable one. Every entry is accurate. This matters more in relational work than anywhere else in the book, because relational work forms the one arena where people routinely absorb costs without ever entering them anywhere. Without a part of you keeping count, you will absorb harm indefinitely and call it fine, and the field will let you, because a person who does not send an invoice is a person nobody has to pay.
 
-The distortion is not that it keeps the ledger. The distortion is what it does with the balance.
+The distortion arrives in what it does with the balance.
 
 It converts the record into a standing. Not *this cost me* but *this cost me, therefore*. Therefore I have earned the right to speak here. Therefore my read on the situation carries more weight than yours. Therefore what I do next is covered. The ledger stops being an account of what happened and starts being the source of your authority in the field, and that is a catastrophe you will never see happen, because authority drawn from cost has to be refinanced. You cannot draw on it without spending it. So the balance has to keep growing, which means the absorbing cannot stop, which means the thing you built the ledger to prevent is now the thing your standing requires.
 
@@ -471,7 +471,7 @@ You drew the Care ↔ Impact axis in Section 3. Here is why the Victim is nearly
 
 Both poles are real goods, and this chapter is unusual in the book because its reader is fluent in one of them and suspicious of the other. Care without impact is attendance — warm, reliable, and doing nothing. Impact without care is the Challenger's altitude imported into a conversation that needed this one. Every live relationship sits somewhere on that axis, and where it sits is a judgment call, and judgment calls about what something costs are precisely what a ledger is for.
 
-Which is why the shadow hides inside the act. It does not argue against impact; you would notice that. It argues for Care, and Care is half the truth, and it is the half you are good at. *This is not the moment. They are not ready to hear it. Pushing now would cost more than it gains.* Each of those can be correct. Each of them is correct sometimes. You can spend a decade at the Care end of a real polarity and call it discernment, and no single instance looks like an evasion.
+So the shadow hides inside the act. It does not argue against impact; you would notice that. It argues for Care, and Care is half the truth, and it is the half you are good at. *This is not the moment. They are not ready to hear it. Pushing now would cost more than it gains.* Each of those can be correct. Each of them is correct sometimes. You can spend a decade at the Care end of a real polarity and call it discernment, and no single instance looks like an evasion.
 
 The tell is never the position. The tell is whether impact ever arrives without being converted into cost — whether anything anyone says about what you did gets to stay a fact about them instead of becoming an entry about you. A ledger that has answered four consecutive pieces of feedback with a balance has stopped accounting and started ruling. Look at the sequence, not the verdict — that is why the app keeps count.
 
@@ -490,11 +490,11 @@ You know what your Victim is for now. That is what you take out.
 ## Section 6: The Game
 ### *What Winning Looks Like at the Diplomat's Altitude*
 
-*You cannot close with terms you haven't named to yourself. You cannot repair a rupture you haven't sat in. You cannot refuse false equivalence from a position of real hearing if you've been performing hearing. The inner work is not separate from the game. The inner work is what makes the game real.*
+*You cannot close with terms you haven't named to yourself. You cannot repair a rupture you haven't sat in. You cannot refuse false equivalence from a position of real hearing if you've been performing hearing. The inner work is what makes the game real.*
 
 The Diplomat wins by being the one at the table who knows what they're willing to lose.
 
-This is not a game of winning. The Diplomat's game is not about victory — it is about creating the conditions where connection remains possible, even when charge fills the field, even when the camps dig in, even when everyone present wants to harden. The moves in this section are the specific, repeatable acts that make you a Diplomat in practice — the ones that show up whether you're mediating a conflict between two people or holding a conversation that has been circling for years.
+The Diplomat's game creates the conditions where connection remains possible, even when charge fills the field, even when the camps dig in, even when everyone present wants to harden. The moves in this section are the specific, repeatable acts that make you a Diplomat in practice — the ones that show up whether you're mediating a conflict between two people or holding a conversation that has been circling for years.
 
 ---
 
@@ -556,7 +556,7 @@ The Diplomat translates: *"What I hear [Camp A] saying, in [Camp B]'s language, 
 
 Bridge, translate, hold, repair — and then this. The close. It is the move the whole chapter has been building toward, and the one the Diplomat's altitude skips most reliably, because closing feels like conflict and the field can always make space for one more round.
 
-Close with Honest Terms is not an ultimatum. It is the single clear sentence that names what this field must hold for your staying to remain real — said once, and then left alone for the field to answer.
+Close with Honest Terms is one clear sentence naming what this field must hold for your staying to remain real, said once and then left alone for the field to answer. The leaving-alone separates it from an ultimatum.
 
 Here is what that sounds like: *"I want to say something I don't say often. I can work with almost anything in this partnership except one thing — if we get to a place where I have to choose between being honest with you and being honest with myself, I will choose myself. I need you to know that about me, because it means when I do push back, it's because we're close to losing an agreement that works for both of us, not because I'm running a strategy."*
 
@@ -624,7 +624,7 @@ Here's what it sounds like: *"I hear where you're coming from. I think we're ope
 
 ---
 
-The Diplomat who has mastered these moves does not run a sequence. They hold the capacity for all five at once — naming the field while translating across camps while closing with honest terms while staying present through the hard moment. The moves are not a sequence. They are a way of being with people.
+The Diplomat who has mastered these moves does not run a sequence. They hold the capacity for all five at once — naming the field while translating across camps while closing with honest terms while staying present through the hard moment. The moves add up to a way of being with people.
 
 ---
 
@@ -689,7 +689,7 @@ The tell that a quest is alive is not enthusiasm. It is anticipation with some d
 <!-- /MARGINALIA -->
 
 
-The Diplomat's gift is not neutrality — it is the capacity to be a partisan who can still hold the field.
+Neutrality is the easy guess. The Diplomat's gift is the capacity to be a partisan who can still hold the field.
 
 The belief this chapter came to dismantle is that allyship means never causing harm. It is a load-bearing belief for anyone whose presence in this work has been built out of being reliably safe to be around, and it is worth saying plainly what replaces it. Not *I have never caused harm.* Not *I will be more careful.* Something a person can actually stand on: **I can be told what I cost and stay in the conversation afterward.** Every move in this chapter is an instrument for making that sentence true.
 

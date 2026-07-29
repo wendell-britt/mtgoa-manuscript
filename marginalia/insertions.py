@@ -214,7 +214,7 @@ question. She thought I was asking when the building went up.*
 *We were there eleven days. I have thought about it more than is useful.*"""),
 ("### Polarity Encounter — Feeling ↔ Function", """*Watch for the point where you get good at this and it becomes enough.*
 
-*You will start reading rooms accurately, which is a real skill and rarer than it sounds, and
+*You will start reading a company accurately. That is a real skill, rarer than it sounds, and
 each accurate read will feel like a thing accomplished. It is not one. A read that never becomes
 a move is a very sophisticated way of standing still, and I have watched people build whole
 careers in that spot and be admired the entire time.*"""),
@@ -355,8 +355,8 @@ them.*"""),
 ("Polarity Encounter — Care", """*Elian's blind spot lives in this polarity, and it is the only blind spot on this staff that has
 cost somebody other than its owner.*
 
-*They stay. They have stayed in rooms that had already chosen harm, well past the point where
-staying did anything but lend those rooms their reputation. They know this. They will tell you the
+*They stay. They have stayed in company that had already chosen harm, well past the point where
+staying did anything but lend that company their reputation. They know this. They will tell you the
 walk-away terms are the hardest thing they teach because they are the thing they are worst at,
 and then they will teach them better than anyone alive.*"""),
 ("the truth rather than an interpretation", """*Elian's fix is humility, and humility is the right fix for the ordinary case. The harder one

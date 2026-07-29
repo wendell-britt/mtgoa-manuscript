@@ -164,7 +164,7 @@ Three games make up the distortion's home territory.
 
 **The Trauma Olympics.** Every conversation becomes a competition to prove whose pain is more formative. The distortion navigates these with perfect equanimity — able to see both sides, able to validate everyone's injury, unable to take a side, because taking a side would mean the seeing was *for* something. The Trauma Olympics has no winners. It also has no end.
 
-Nobody names the obvious: the competition runs for real, and somebody loses it. The person most wounded gets the most airtime — not because their pain is more valid, but because pain has become the credential. The Sage who could name that dynamic chooses instead to hold space for it. To validate. To see. Which is a form of participation. When the most wounded reads as the most credible, the people who have metabolized their pain go unheard. The Trauma Olympics rewards unprocessed pain, and the Sage who declines to name it rewards it too.
+Nobody names the obvious: the competition runs for real, and somebody loses it. The person most wounded gets the most airtime — not because their pain is more valid, but because pain has become the credential. The Sage who could name that dynamic chooses instead to hold space for it. To validate. To see. Holding space participates in it. When the most wounded reads as the most credible, the people who have metabolized their pain go unheard. The Trauma Olympics rewards unprocessed pain, and the Sage who declines to name it rewards it too.
 
 The test: where pain gets performed, does the Sage notice who isn't speaking? Who has done the work? Who is speaking from healed territory rather than fresh wound? The real Sage sees all of it — including the hierarchy of pain — and names what they see. Not with judgment. With precision.
 
@@ -178,7 +178,7 @@ The Architect builds knowing they're designing for fallible humans. The Sage in 
 
 The test: when a system fails, does the Sage redesign the system or redesign the people? Redesigning the system is the Architect. Redesigning the people is the distortion. The real Sage names which game the people are actually in and designs for that — not for the game they wish the people were in.
 
-These three are not obviously wrong. The Sage in distortion is doing versions of useful things — mediating pain, solving problems, designing systems — without the one diagnosis that would make any of them useful.
+Each of these three looks defensible. The Sage in distortion is doing versions of useful things — mediating pain, solving problems, designing systems — without the one diagnosis that would make any of them useful.
 
 One move is missing, and it comes first: *which game is this, actually?*
 
@@ -550,7 +550,7 @@ The Sage's game is the meta-game. Not a game *about* something — the game of k
 
 The whole book has built toward this through-line. You've learned six Faces. You've felt, drawn lines, carried forward, built, held the field, and seen the whole map. Now the question stops being *which Face am I being?* and starts being *which game am I designing?*
 
-The five moves are not a sequence. They're a toolkit. You reach in and pull out what the moment requires. Sometimes the first move is Name the Game. Sometimes it's Switch. Sometimes — often — it's Return, because you've been above things too long and nobody can hear you anymore.
+The five moves are a toolkit. You reach in and pull out what the moment requires. Sometimes the first move is Name the Game. Sometimes it's Switch. Sometimes — often — it's Return, because you've been above things too long and nobody can hear you anymore.
 
 The kit does have a logic. Seeing without naming is silence. Naming without switching is paralysis. Switching without returning is exile. Returning without putting down is accumulation. Putting down without holding the meta is escape. Each move checks the others.
 

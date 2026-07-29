@@ -85,9 +85,13 @@ replacements are worth knowing about, because they set house usage:
   sense wherever the margin means the people rather than the space.
 
 Where the ban cost nothing, the noun just got more specific — *hall*, *space*,
-*conversation*, *on a map*. Note that plural *rooms* passes the gate: `\broom\b`
-does not match it, so the Ch7 note keeps *"stayed in rooms that had already
-chosen harm."*
+*conversation*, *on a map*.
+
+The plural used to slip through. `\broom\b` did not match *rooms*, and this
+file recorded that as a licensed exception — which is how three of them reached
+the body text and two more sat in these notes until Wendell read Ch5 and caught
+them. The gate now reads `\brooms?\b`, `test_toolchain.py` asserts both forms
+fail, and the Ch7 note says *"stayed in company that had already chosen harm."*
 
 The negation rule is separate and was not touched: `specs/RULE_COLLISIONS.md`
 deliberately revises it into licensed *ranking* negation versus banned *denying*

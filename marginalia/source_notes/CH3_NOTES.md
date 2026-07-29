@@ -85,7 +85,7 @@ processing."
 
 > *Watch for the point where you get good at this and it becomes enough.*
 >
-> *You will start reading rooms accurately, which is a real skill and rarer than it sounds, and
+> *You will start reading a company accurately. That is a real skill, rarer than it sounds, and
 > each accurate read will feel like a thing accomplished. It is not one. A read that never
 > becomes a move is a very sophisticated way of standing still, and I have watched people build
 > whole careers in that spot and be admired the entire time.*

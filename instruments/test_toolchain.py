@@ -97,7 +97,11 @@ check("lowercase 'not' pair is legal",
       counters("she had told me and not somebody else. Not concern.")["stacks"], 0)
 check("capital 'Not' stack is caught",
       counters("Not a demand. Not a condition of continued affection.")["stacks"], 1)
-check("plural 'rooms' is legal", counters("stayed in rooms that chose harm")["banned"], 0)
+# Reversed 2026-07-29. This test previously asserted the plural was legal, which
+# is how three "rooms" reached ch2 and ch5 — the assertion was wrong, not the
+# manuscript. Wendell banned singular and plural alike.
+check("plural 'rooms' is banned", counters("stayed in rooms that chose harm")["banned"], 1)
+check("singular 'room' is banned", counters("stayed in the room")["banned"], 1)
 check("singular 'room' is banned", counters("lend the room their reputation")["banned"], 1)
 # Placeholders must never reach print.
 check("placeholder token is caught", counters("I was told that at ⟦ASH-AGE⟧.")["tokens"], 1)

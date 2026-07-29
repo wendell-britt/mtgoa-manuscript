@@ -134,7 +134,7 @@ Field 3 — the field that does the teaching — exists verbatim in the RPG. Por
 | Line / Challenger | test, cut, expose, escalate, call every ambiguity cowardice | Skeptic |
 | Oath / Regent | overcommit, martyr, obey, preserve dead forms, abandon responsibility the moment it is imperfect | Fixer/Healer |
 | Pattern / Architect | over-plan, abstract, control, optimize everyone else, **explain the system so beautifully that no one acts** | Emotional Body |
-| Bridge / Diplomat | smooth, fawn, translate without consent, make false unity, stay in harmful rooms because leaving feels like failure | Victim |
+| Bridge / Diplomat | smooth, fawn, translate without consent, make false unity, stay in harmful company because leaving feels like failure | Victim |
 | Horizon / Sage | distance, narrate, prophesize, perform wisdom, turn people into examples, use the larger pattern to escape accountability | Damaged Self |
 
 The Pattern's last clause is the Emotional Body daemon exactly, written before this design

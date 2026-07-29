@@ -223,7 +223,7 @@ Before you can use the fire, you need to know what shape it comes in. The Challe
 
 4. **The Refusal** — The clean no. *"I will not."* The Refusal is the Demand turned inward — a line you draw against your own compliance.
 
-5. **The Reckoning** — Naming the cost. *"If you do X, here is what happens."* The Reckoning is not a threat. It is a consequence stated plainly. A natural result made visible.
+5. **The Reckoning** — Naming the cost. *"If you do X, here is what happens."* The Reckoning states a consequence plainly. A natural result made visible. A threat has to manufacture the consequence; the Reckoning only reports it.
 
 Each mode has its own feel, its own appropriate moment, its own cost. A Line without a Reckoning is a request. A Demand without a Refusal is a plea. The Challenger knows which mode the moment requires.
 
@@ -241,9 +241,9 @@ The Shaman (Ch3) taught you to read the five EA channels: Metal/Fear, Water/Sadn
 
 Five modes, five channels, no overlap. That tidiness is no coincidence — it explains why the modes number five rather than three. Each one names a different signal in the body asking to be spent a different way.
 
-**The Line** (Fire/Anger → Triumph): Outrage is Fire arriving with nowhere to land, so it vents. The line is the vessel. Triumph here is not winning the exchange — it is the specific satisfaction of *I can act*, which Fire wants and almost never gets. A stated line is anger that made it all the way out of the body and into the world without deforming on the way.
+**The Line** (Fire/Anger → Triumph): Outrage is Fire arriving with nowhere to land, so it vents. The line is the vessel. Triumph here is the specific satisfaction of *I can act*, which Fire wants and almost never gets. Winning the exchange has nothing to do with it. A stated line is anger that made it all the way out of the body and into the world without deforming on the way.
 
-**The Interrupt** (Metal/Fear → Wonder): Breaking a pattern mid-flight means you do not know what the next thirty seconds contain. Fear reads that correctly. The contraction attempts to know in advance, which cannot be done, which is why the fear does not resolve by thinking harder. Wonder is what the same not-knowing becomes when you stop treating it as threat: the field after an interrupt opens in a way it had not a second earlier, and open is the condition Metal is for. *I can explore.* You interrupted, and now something unscripted is happening, and you are still here.
+**The Interrupt** (Metal/Fear → Wonder): Breaking a pattern mid-flight means you do not know what the next thirty seconds contain. Fear reads that correctly. The contraction attempts to know in advance. Nothing can be known in advance, so no amount of thinking harder resolves the fear. Wonder is what the same not-knowing becomes when you stop treating it as threat: the field after an interrupt opens in a way it had not a second earlier, and open is the condition Metal is for. *I can explore.* You interrupted, and now something unscripted is happening, and you are still here.
 
 **The Demand** (Wood/Joy → Bliss): A demand insists that something change, which makes it a claim on a shared future. Wood stuck is defiance with no future in it — the no that is only a no, refusal as identity, the fight enjoyed for its own sake. That version can run for years and produce nothing. Bliss is Wood satisfied, and its capability is participation: *I can participate.* The demand that lands is the one where the refusal opened a space and you are willing to stand in it. The no that becomes a yes to something new.
 
@@ -281,7 +281,7 @@ The Diplomat has a stage called Hold, five chapters from here, a different anima
 
 **Stage 5: Exit.** You leave the confrontation cleanly. This means you don't need their reaction to validate your move. You said the thing. You drew the line. The response belongs to them. You are not responsible for managing their feelings about your boundary. You are responsible only for having drawn it.
 
-Exit fails differently from Stand, which is why the sequence keeps them apart. Stand fails in the four seconds after the line, in the presence of the other person, and it fails by adding words. Exit fails afterward — in the follow-up message, the hallway clarification, the *hey, I hope that landed okay* sent three hours later. Both of them take the line back. The Challenger stated. The Challenger stood. The Challenger left, and trusted that the line, once drawn, can do its work without constant tending.
+Exit fails differently from Stand, so the sequence keeps them apart. Stand fails in the four seconds after the line, in the presence of the other person, and it fails by adding words. Exit fails afterward — in the follow-up message, the hallway clarification, the *hey, I hope that landed okay* sent three hours later. Both of them take the line back. The Challenger stated. The Challenger stood. The Challenger left, and trusted that the line, once drawn, can do its work without constant tending.
 
 ---
 
@@ -479,7 +479,7 @@ Here is the part almost nobody gets told about that voice: it is not lying to yo
 
 What it gets wrong is the timestamp. It files a past event as live coverage. It stands at the door of the conversation happening now and narrates something that already finished, in the present tense, at the volume of an emergency.
 
-Which is why the move is not argument. You cannot argue a memory out of being a memory, and you would not want to — the memory is true. The move is to name it: give the voice a name, a slightly ridiculous one if one offers itself, because the ridiculousness does real work: it puts a half step between you and the voice. Named, it is something you are hearing. Unnamed, it is simply what you think.
+That is why the move never argues. You cannot argue a memory out of being a memory, and you would not want to — the memory is true. The move is to name it: give the voice a name, a slightly ridiculous one if one offers itself, because the ridiculousness does real work: it puts a half step between you and the voice. Named, it is something you are hearing. Unnamed, it is simply what you think.
 
 *There you are. I know what you're protecting me from. I can see the event you're referencing. I'm drawing the line anyway.*
 
@@ -507,7 +507,7 @@ Find the voice. Give it a name. Say the name out loud.
 
 You met the Skeptic at the door of the Forest, third in line, a few steps behind the Controller. The Protector decides whether you go in at all. The Controller decides how you may behave once you get inside. The Skeptic decides something narrower and more damaging than either: whether the thing you reacted to was ever real.
 
-At its best the Skeptic is your auditor, and you need one. A charge arrives and the auditor asks the single useful question — *is this the thing in front of me, or is this an old thing wearing today's clothes?* Sometimes the honest answer names the old thing, and the auditor has just saved you from spending a line on someone who did not earn it. That is not timidity. That is what makes your no expensive. Someone who draws a line at everything has not drawn one; the line stops carrying information about the world and becomes weather, and people learn to dress for it and walk past. The auditor earns you this: when you do finally say *this is not acceptable*, the sentence carries.
+At its best the Skeptic is your auditor, and you need one. A charge arrives and the auditor asks the single useful question — *is this the thing in front of me, or is this an old thing wearing today's clothes?* Sometimes the honest answer names the old thing, and the auditor has just saved you from spending a line on someone who did not earn it. Timidity would look the same from outside. That is what makes your no expensive. Someone who draws a line at everything has not drawn one; the line stops carrying information about the world and becomes weather, and people learn to dress for it and walk past. The auditor earns you this: when you do finally say *this is not acceptable*, the sentence carries.
 
 An auditor can widen its own remit, though. It stops auditing the charge and starts auditing your standing to have it. The question changes shape without announcing that it has changed — from *is this real* to *are you the one who gets to say it is real.* Those sound like the same rigor. They are not the same question. Looking at the situation answers the first. Only looking at you answers the second, and the Skeptic already knows how that audit comes out.
 
@@ -525,7 +525,7 @@ You do not fire the Skeptic. Fire your auditor and every charge becomes a line, 
 
 *Audit the charge. Not me. Tell me whether this is the thing in front of me or an old thing in its clothes — that question I want, and I will listen to the answer. My standing is not on the agenda. That was settled when I walked in.*
 
-Then give the audit a deadline, because running out the clock is the shadow's entire method. An auditor works fast when it knows it has to. *You have one breath. Real, or old? Answer.* One breath answers the question actually being asked. It cannot answer the other one, which is the point.
+Then give the audit a deadline, because running out the clock is the shadow's entire method. An auditor works fast when it knows it has to. *You have one breath. Real, or old? Answer.* One breath answers the question actually being asked. It cannot answer the other one. That limit is the point.
 
 It shows up in a single beat. Someone says the thing in the meeting. Heat arrives in your chest — that is Charge, on time, doing its job. On the widened remit the audit opens before you can aim: *am I sure that is what they meant, is this even mine to call, there are people here closer to it than me* — and by the time the audit has finished weighing its own evidence the agenda has moved two items on and the heat has nowhere to go but home with you. On the narrow remit the same auditor gets the same breath and returns the verdict it could have returned all along: *real, and current.* Then you say the sentence. The same part applies the same rigor either way. Only the jurisdiction you gave it changed.
 
@@ -539,7 +539,7 @@ You drew the Force ↔ Restraint axis in Section 3. Here is why the Skeptic is n
 
 Both poles are real goods. A Challenger who cannot restrain is a hazard — every charge becomes a line, every line becomes a confrontation, and the people around them start managing them instead of working with them. A Challenger who cannot force is furniture. Every live moment sits somewhere on that axis, and where it sits takes a judgment call. Judgment calls are precisely what an auditor is for.
 
-Which is why nobody catches the shadow in the act. It does not argue for cowardice; you would notice cowardice. It argues for Restraint, and Restraint is half of the truth. *This is not the one. This is not the moment. This is not mine to say.* Each of those can be correct. Each of them is correct sometimes. You can spend a whole career at the Restraint end of a real polarity and call it discernment, and no single instance will look like a failure.
+So nobody catches the shadow in the act. It does not argue for cowardice; you would notice cowardice. It argues for Restraint, and Restraint is half of the truth. *This is not the one. This is not the moment. This is not mine to say.* Each of those can be correct. Each of them is correct sometimes. You can spend a whole career at the Restraint end of a real polarity and call it discernment, and no single instance will look like a failure.
 
 The tell is never the position. The tell is whether you ever move. An auditor that has returned *not this one* eleven times running has stopped auditing and started ruling. Look at the sequence, not the verdict — the only place the pattern shows, and the reason the app keeps count.
 
@@ -549,7 +549,7 @@ The tell is never the position. The tell is whether you ever move. An auditor th
 
 The Skeptic developed does one thing for you that nothing else in this chapter can: it makes your line credible. Not to other people first — to yourself. When the auditor has done its narrow job honestly and come back with *real, and current,* you are no longer arguing with yourself while the moment burns. You are aimed.
 
-That is the Disruptor's foundation. The Challenger's superpower is not the willingness to fight, and not certainty. It is the willingness to be unwelcome on a charge you have checked and chosen to trust — clarity without cruelty, held steady long enough to say one sentence and stay for what follows.
+That is the Disruptor's foundation. The Challenger's superpower is the willingness to be unwelcome on a charge you have checked and chosen to trust — clarity without cruelty, held steady long enough to say one sentence and stay for what follows. Fighting comes easy by comparison, and so does certainty.
 
 You know what your auditor is for now. That is what you take out.
 
@@ -630,7 +630,7 @@ The Move: Say no. Just the word. The essay stays unwritten, and so does the thre
 
 *No, I won't be doing that.*
 
-Why it works: Most people mistake the three-paragraph explanation for clarity. It is not clarity — it is *hiding.* The explanation signals that the no needs justifying, that the boundary needs defending. The Challenger knows: the no stands on its own. The explanation is optional. The no is not.
+Why it works: Most people mistake the three-paragraph explanation for clarity. The explanation is *hiding.* The explanation signals that the no needs justifying, that the boundary needs defending. The Challenger knows: the no stands on its own. The explanation is optional. The no is not.
 
 In practice: Practice the one-word no. Not *let me think about it* (which is a soft no) and not *I'm not sure I can* (which is an apologetic no) but *no.* Just no. See what happens. The world does not end. The relationship does not actually end. The clarity you gain repays the momentary discomfort.
 
@@ -712,7 +712,7 @@ A card that ends in the app is a card you read. A card that ends in a quest is a
 
 One line, four things: what you will do, who it reaches, by when, and what it costs you. *Say the Thing* becomes: **I will tell Marcus on Thursday that I was wrong to call his read on the hiring panel an overreaction, without adding a defence of why I thought so, and it will cost me the version of myself that gets things right the first time.** That is a quest. *I will be less dismissive* is not one; nobody can tell whether you did it, including you.
 
-The tell that a quest is alive is not enthusiasm. It arrives as anticipation with some dread underneath it. For a Challenger the dread usually arrives first, which is a good sign and a hard one.
+The tell that a quest is alive is not enthusiasm. It arrives as anticipation with some dread underneath it. For a Challenger the dread usually arrives first. Good sign, hard one.
 
 *Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it. → app*
 
@@ -727,9 +727,9 @@ That is the gift. People mistake it for the anger, or for the conflict. It is th
 
 The Challenger does not build. The Challenger clears the ground.
 
-The belief this chapter came to dismantle is that allyship is a matter of following the right people. It is the most defensible myth in the book, which is exactly what makes it durable. Following the right people is how anyone learns what to aim at; nobody develops a read on a system they have no relationship to, and deference is the correct posture more often than the reader of this chapter tends to get credit for. The myth converts a source of learning into a permanent substitute for judgment. If the right people are the only ones who can rule on what counts as a violation, then a charge that arrives at 2:14 in a meeting they missed has no standing until somebody ratifies it — and ratification does not arrive inside the thirty seconds the moment lasts. The exchange looks like humility and functions as an exit. What goes in its place is smaller and holds weight: **I can check the charge and act on it in the same breath, and be corrected afterward by the people I am accountable to.**
+The belief this chapter came to dismantle is that allyship is a matter of following the right people. It is the most defensible myth in the book, and its defensibility is what makes it durable. Following the right people is how anyone learns what to aim at; nobody develops a read on a system they have no relationship to, and deference is the correct posture more often than the reader of this chapter tends to get credit for. The myth converts a source of learning into a permanent substitute for judgment. If the right people are the only ones who can rule on what counts as a violation, then a charge that arrives at 2:14 in a meeting they missed has no standing until somebody ratifies it — and ratification does not arrive inside the thirty seconds the moment lasts. The exchange looks like humility and functions as an exit. What goes in its place is smaller and holds weight: **I can check the charge and act on it in the same breath, and be corrected afterward by the people I am accountable to.**
 
-The chapter leaves you holding a practice whose parts fit together. The five modes of confrontation — Line, Interrupt, Demand, Refusal, Reckoning — name the shape the fire arrives in, and each one runs on a different EA channel, so knowing which mode a moment wants tells you which signal in your body you are working with. Charge → Aim → Act → Stand → Exit keeps a mode from becoming an explosion; the aim is the stage almost everyone skips, and the standing is the stage almost everyone collapses at — four seconds of not adding a sentence, where most lines get taken back before anyone has objected to them. The will ecology tells you afterward whether a move turned charge into a line or spent it, and it asks not whether you were right but whether you can draw the next clean line better than you could an hour ago. Force ↔ Restraint is the axis all of it sits on, which is why the chapter gave you a polarity rather than a rule. 3-2-1 at Challenger altitude reclaims the line you projected onto somebody you have been calling domineering. Naming the voice puts a half step between you and the fear — the only condition under which aiming happens at all. The Skeptic up close is the auditor that makes your no expensive, the judge that audits your standing instead of your charge, and the one breath that separates them. The five game moves — Name the Unnameable, Draw the Line, Refuse Cleanly, Confront Without Cruelty, Stay Past the Discomfort — compress all of it into what a person actually does at a table.
+The chapter leaves you holding a practice whose parts fit together. The five modes of confrontation — Line, Interrupt, Demand, Refusal, Reckoning — name the shape the fire arrives in, and each one runs on a different EA channel, so knowing which mode a moment wants tells you which signal in your body you are working with. Charge → Aim → Act → Stand → Exit keeps a mode from becoming an explosion; the aim is the stage almost everyone skips, and the standing is the stage almost everyone collapses at — four seconds of not adding a sentence, where most lines get taken back before anyone has objected to them. The will ecology tells you afterward whether a move turned charge into a line or spent it, and it asks not whether you were right but whether you can draw the next clean line better than you could an hour ago. Force ↔ Restraint is the axis all of it sits on, so the chapter gave you a polarity rather than a rule. 3-2-1 at Challenger altitude reclaims the line you projected onto somebody you have been calling domineering. Naming the voice puts a half step between you and the fear — the only condition under which aiming happens at all. The Skeptic up close is the auditor that makes your no expensive, the judge that audits your standing instead of your charge, and the one breath that separates them. The five game moves — Name the Unnameable, Draw the Line, Refuse Cleanly, Confront Without Cruelty, Stay Past the Discomfort — compress all of it into what a person actually does at a table.
 
 Underneath every part of it is the Disruptor: the willingness to be unwelcome on a charge you have checked and chosen to trust.
 

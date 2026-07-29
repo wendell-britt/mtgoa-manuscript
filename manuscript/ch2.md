@@ -169,7 +169,7 @@ For the full game taxonomy and mechanics, see Chapter 1. This chapter uses that 
 
 The Forest is a place you may not realize you've been circling.
 
-A familiar loop keeps running: the moment after a hard conversation spent rehearsing what you should have said, the 2am inventory of what went wrong, the same pattern surfacing in different rooms, with different people, wearing different faces. That loop is the edge of the Forest.
+A familiar loop keeps running: the moment after a hard conversation spent rehearsing what you should have said, the 2am inventory of what went wrong, the same pattern surfacing in a different building, with different people, wearing different faces. That loop is the edge of the Forest.
 
 Maybe you did everything the work asked. Showed up. Listened. Went to the training and listened there too. Read the book, adjusted the language, listened harder after that. Asked better questions. Stopped centering yourself, or tried to. Checked the assumptions. Sat with the discomfort. Maybe, somewhere in all of it, holding still became the default.
 
@@ -183,7 +183,7 @@ Picture a meeting that goes cold. The body knows exactly what is happening, mayb
 
 The body doing that reading never appropriated anything. It is yours. You already have the Shaman's first move. This chapter asks whether you will stop treating your own somatic intelligence as something that belongs to someone else.
 
-The problem is not that you wanted to be good. The problem is that trying to seem good takes the whole body. That leaves nothing over. The face you're holding in place and the face underneath it run at the same time, and the exhaustion actually lives in that split.
+Wanting to be good was never the problem. Trying to seem good takes the whole body. That leaves nothing over. The face you're holding in place and the face underneath it run at the same time, and the exhaustion actually lives in that split.
 
 In the village, the mask makes sense. An audience watches. You have roles to play, relationships to manage, impressions to maintain.
 
@@ -281,7 +281,7 @@ The work is to notice the first place you recognize yourself in the map, in plac
 
 When a daemon lands, stop there. When a Guide's question makes something in you lean forward, start there. When a sentence names the thing you have been circling for years, stay with it.
 
-Recognition is not completion. It is where the move begins.
+Recognition is where the move begins, and beginning is all it is.
 
 So do not try to carry the whole Forest at once. Let the first true thing find you. Then do one thing with it.
 
@@ -310,7 +310,7 @@ Seven daemons live in the Forest, and the player at its center is you. You're no
 You meet the seven walking in, in this order. Each one gets a short entry: what it does, how it shows up once it's your ally, how it shows up as a demon still running the show, and a moment you might catch each one in play.
 
 **The Protector**
-**Job:** To keep you alive. At its core, it's the body's embodied sense of self-preservation.
+**Job:** To keep you alive. It is the body's embodied sense of self-preservation.
 **As an ally:** it guards you against real danger, the kind that would actually threaten your body. *In play:* a car swerves toward you and you're already moving before you've thought about it; the bracing fired exactly when it should.
 **As a demon:** it protects the self at all costs, and won't extend that protection to anyone else unless it widens its own identity to include them. When it does, those people stop being separate people you're allying with and become an extension of your body to protect. *In play:* a hard email lands and your whole body braces as if it were a physical threat; you answer armored, and the other person meets the armor before they reach you.
 
@@ -517,7 +517,7 @@ Within the next two days, say one body-read out loud to another person — and s
 
 That's the whole action. One read, said out loud, to one person who doesn't already know, inside forty-eight hours.
 
-Look at what you're actually doing, underneath the instruction. The part of you that reads a group — the one that clocks when a meeting has gone cold before anyone speaks — has been living in exile. You sent it away because claiming it felt like taking something that wasn't yours. So it reads, and reads, and never gets to speak. Saying it out loud is not a technique. It's how that part comes home: it finds out it's allowed to speak.
+Look at what you're actually doing, underneath the instruction. The part of you that reads a group — the one that clocks when a meeting has gone cold before anyone speaks — has been living in exile. You sent it away because claiming it felt like taking something that wasn't yours. So it reads, and reads, and never gets to speak. Saying it out loud is how that part comes home. It finds out it's allowed to speak.
 
 (If naming it out loud feels like claiming something that isn't yours, that's the exile talking. Say it anyway. The body that did the reading was yours the whole time.)
 

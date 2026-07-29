@@ -185,8 +185,11 @@ _SUBJ = (r"(?:It|That|There|This|The\s+[\w'’]+(?:\s+[\w'’]+){0,3}"
 DENYING_GENERAL = (
     rf"\b{_SUBJ}\s*(?:'s|’s|\s+is|\s+are|\s+was|\s+were|n'?t)\s+not\s+"
     rf"(?!just\b|only\b|merely\b|even\b|always\b)"
-    rf"[^.;!?]{{3,80}}[.;!?]\s+"
-    rf"(?:It'?s|That'?s|The\s+[\w'’ ]{{2,28}}\s+is|It\s+is|That\s+is)\b")
+    rf"[^.;!?]{{3,80}}[.;!?—]\s*"
+    rf"(?:It'?s|That'?s|They|The\s+[\w'’ ]{{2,28}}\s+is|It\s+is|That\s+is|they\s+were|it\s+is|they\s+are)\b")
+# The em-dash in the separator class above was added 2026-07-29. The earlier
+# pattern required a full stop, so "X is not A — it is B" was invisible to it.
+# 22 instances were sitting in the manuscript unflagged.
 
 AI_SHAPES = [
     (DENYING_GENERAL, "denying negation (X is not A. X is B)"),
@@ -194,7 +197,13 @@ AI_SHAPES = [
     (r"(?i)\bnot\s+(just|only|merely)\s+[^,;.]{3,50},\s*but\b", "not-just-but construction"),
     # Widened 2026-07-29: the narrow form required which-is-the/a/what/why/how and
     # let ", which is easy to mistake for" through my own pre-flight.
-    (r"(?i),\s*which\s+(?:is|was|are|were)\b", "appositive 'which is' tail"),
+    # Both the comma-tail and the sentence-initial fragment. The earlier rule
+    # required a preceding comma, so ". Which is its own kind of problem."
+    # slipped past it; 9 were sitting in the manuscript.
+    # The negative lookahead spares the interrogative: "Which are you
+    # suppressing?" is a question the chapter asks the reader, not a tail.
+    (r"(?i)(?:,\s*|(?<=[.!?])\s+)which\s+(?:is|was|are|were)\b"
+     r"(?!\s+(?:you|we|I|they|he|she|it)\b[^.!?]{0,40}\?)", "appositive 'which is' tail"),
     (r"(?i)\bisn'?t (?:about|the) [^.;]{3,40}[.;]\s*(it'?s|that'?s)\b", "denying negation variant"),
     (r"(?i)\bin a world where\b", "AI opener"),
     (r"(?i)\bat the end of the day\b", "filler idiom"),

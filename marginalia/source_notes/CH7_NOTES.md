@@ -56,8 +56,8 @@ the refusal demonstrates Diplomat mastery in the same sentence that shows what i
 > *Elian's blind spot lives in this polarity, and it is the only blind spot on this staff that
 > has cost somebody other than its owner.*
 >
-> *They stay. They have stayed in rooms that had already chosen harm, well past the point where
-> staying did anything but lend the room their reputation. They know this. They will tell you the
+> *They stay. They have stayed in company that had already chosen harm, well past the point where
+> staying did anything but lend that company their reputation. They know this. They will tell you the
 > walk-away terms are the hardest thing they teach because they are the thing they are worst at,
 > and then they will teach them better than anyone alive.*
 
