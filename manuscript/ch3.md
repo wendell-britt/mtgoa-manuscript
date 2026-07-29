@@ -232,7 +232,7 @@ You need a practice. A structure. Something that repeats reliably so you can get
 
 That structure is called the WAVE-Spiral.
 
-The WAVE-Spiral is not a single moment. It's a progression through five stages that can happen in ten seconds or ten hours depending on the depth and context. It's a way to move emotional energy from activation (I feel something) → contact (I let it fully reach me) → clarity (I understand what it means) → integration (the feeling has taught me something) → action (I move from that understanding).
+The WAVE-Spiral is a progression through five stages that can happen in ten seconds or ten hours depending on the depth and context. It's a way to move emotional energy from activation (I feel something) → contact (I let it fully reach me) → clarity (I understand what it means) → integration (the feeling has taught me something) → action (I move from that understanding).
 
 ---
 
@@ -272,7 +272,7 @@ The village trains everyone to turn feeling down. It hands you a dial in childho
 
 This matters for one reason: you cannot affect what you cannot feel. The Shaman works by sensitivity, and an instrument kept behind glass reads nothing. When a moment turns and you register it a beat late, the charge has already passed, and the move that could have met it is gone. Contact is the precondition for impact. Every skill later in this chapter runs on the signal that opening lets in; with the dial down, the rest of the game has nothing to work with.
 
-Here is where most well-meaning allies flinch, so let me say it straight: you did not burn out from too much empathy. You burned out because you took in everything and were never trained to hold any of it. It all came in at once, there was no skill in place to carry the weight, and so you turned the dial all the way back down — the only relief anyone had shown you. Opening is not a demand to feel more and cope worse. It is the training to hold sensation on purpose: your own charge first, until you can stand inside it without going under, then the other person's, until their reality reaches you without dragging you down with it. That capacity is what separates help that flatters you from help the person actually needed. Compassion that has felt the full weight and stayed on its feet is the only compassion that informs a good move.
+Here is where most well-meaning allies flinch, so let me say it straight: you did not burn out from too much empathy. You burned out because you took in everything and were never trained to hold any of it. It all came in at once, there was no skill in place to carry the weight, and so you turned the dial all the way back down — the only relief anyone had shown you. You will expect Opening to mean feeling more and coping worse. It is the training to hold sensation on purpose: your own charge first, until you can stand inside it without going under, then the other person's, until their reality reaches you without dragging you down with it. That capacity is what separates help that flatters you from help the person actually needed. Compassion that has felt the full weight and stayed on its feet is the only compassion that informs a good move.
 
 Turn the dial all the way up and something else surfaces — something a part of you has been keeping down there too. Somewhere in the hard moment, a part of you is getting something out of the very dynamic you say you want to end — the charge of being the good one, the relief when the conversation stays comfortable, the pull of an old hurt that has a use. Carolyn Elliott named this the existential kink, and I will not pretend I stand outside it: I have felt myself drawn toward my own smallness in the same moment I was performing my way past it. Opening is how the payoff becomes visible. You do not have to do anything with it yet. You only have to stop refusing to feel it — because what stays hidden runs the moment, and what you can feel, you can play.
 
@@ -413,7 +413,7 @@ The chapter has been teaching you to feel each channel all the way through. Here
 
 Each channel has a completed state, and you get there by making a move. A feeling can settle on its own sometimes, given enough time — but the game does not wait on that. You play a move, and the move is what carries the stuck charge into the state that hands capability back. Doing the moves is how you play.
 
-That completed state is not a nicer feeling. It is a restored capability — something you can do that you could not do while the feeling was stuck. You are not trying to get rid of the emotion; you are playing it forward into what it makes possible. These five states are the renewable fuel Chapter 1 pointed you here to make. You make them by moving.
+That completed state is a restored capability — something you can do that you could not do while the feeling was stuck. It may not feel nicer at all. You are not trying to get rid of the emotion; you are playing it forward into what it makes possible. These five states are the renewable fuel Chapter 1 pointed you here to make. You make them by moving.
 
 Here are the five, each with the move that reaches it and the thing it hands you.
 
@@ -435,15 +435,15 @@ These are the five renewable tokens, and you reach every one of them the same wa
 
 Chapter 1 taught you to read the meter: what a move costs you. The Shaman adds the next layer: what that spending does to the living field.
 
-The WAVE-Spiral does not make every move easy. That is not the promise.
+The WAVE-Spiral does not make every move easy. It was never going to.
 
-The promise is discernment.
+What it promises is discernment.
 
 Some moves replenish as they cost. You draw the boundary, and you walk away tired but clear. You name the sadness, and the sadness gives you back the love underneath it. You say the thing that needed saying, and something in you comes back online because you stopped abandoning yourself.
 
 Some moves sustain. They do not refill you all at once, but they keep the field workable. A pause. A clean question. One honest sentence instead of the whole speech. Enough structure for the feeling to teach without flooding the field.
 
-Some moves cost. Sometimes they are still the right moves. Staying in the conversation may cost you. Softening anger so the truth can land may cost you. Turning sadness into protective action before you feel ready may cost you. The danger is not cost. The danger is pretending costly moves are renewable.
+Some moves cost. Sometimes they are still the right moves. Staying in the conversation may cost you. Softening anger so the truth can land may cost you. Turning sadness into protective action before you feel ready may cost you. The danger is pretending costly moves are renewable. Cost itself is fine, so long as you count it.
 
 This is where a lot of allyship burns people out. They keep spending non-renewable fuel — guilt, obligation, optics, inherited debt — and calling the spending virtue. They confuse depletion with devotion.
 
@@ -474,7 +474,7 @@ You do not need to score the move. You need to tell the truth about what it did 
 <!-- /MARGINALIA -->
 
 
-The Shaman's mastery is not in feeling feelings well. It's in knowing — in real-time — which WAVE-Spiral stage you're in, which channel you're in, and what move to make next.
+The Shaman's mastery is in knowing — in real-time — which WAVE-Spiral stage you're in, which channel you're in, and what move to make next.
 
 A new practitioner goes:  Wake → Open → Clean → Grow → Show (slowly, carefully).
 
@@ -484,7 +484,7 @@ A practiced Shaman moves fluidly:
 - Can tell when a move returns capacity, protects capacity, or spends capacity for a worthy reason
 - Moves at the right tempo (10 seconds in a meeting, 10 minutes alone, 10 hours for deep integration)
 
-This is not something you learn once. It's something you practice until it becomes your nervous system's operating system.
+This is something you practice until it becomes your nervous system's operating system. Learning it once buys you nothing.
 
 ---
 
@@ -548,11 +548,11 @@ When the charge is in a **person** — a figure who makes your jaw tighten — s
 
 ### The Polarity Map — When You're Stuck Between Two Rights
 
-Some stuckness is not a person and not a feeling. It is a structure.
+Some stuckness is a structure wearing the shape of a person or a feeling.
 
 You are torn between two things that both seem true. You need to hold a boundary *and* keep the belonging. You need to speak what you see *and* keep the space safe enough to stay in. You keep trying to pick the right side — and the picking is what's exhausting you.
 
-That is not a problem. Problems have solutions. This is a **polarity**: two necessary capacities that become costly when separated. Both sides stay. Both sides matter. The work is not to eliminate one pole forever. The work is to hold both without letting either eat the other.
+That is not a problem. Problems have solutions. This is a **polarity**: two necessary capacities that become costly when separated. Both sides stay. Both sides matter. The work is to hold both poles without letting either eat the other. You will want to pick one. Picking one is how the pair breaks.
 
 The pair changes with altitude. The map doesn't.
 
@@ -593,7 +593,7 @@ You met the Controller at the door of the Forest, second in line, right behind t
 
 At its best, the Controller is the referee of your game. You are the one who sets the rules: the kind of ally you actually want to be, the line you'll hold when holding it costs you. The referee is the part that enforces those rules when your nerve goes. You said you'd show up for someone; when the day turns inconvenient, the referee is what gets you there anyway. That is integrity, and it is not automatic — it is a part of you doing a job. A person with no referee has values the width of whatever is easy that day.
 
-A referee can pick up a second job it was never handed. It stops refereeing the game you chose and starts judging one you didn't. It begins ruling on how you are allowed to *feel* about your allyship: a good ally feels guilty, it decides; a good ally does not get angry at the people she is helping; a good ally does not trust a private read over the version the group has agreed to. That is not a referee anymore. That is a judge, and it holds court in you.
+A referee can pick up a second job it was never handed. It stops refereeing the game you chose and starts judging one you didn't. It begins ruling on how you are allowed to *feel* about your allyship: a good ally feels guilty, it decides; a good ally does not get angry at the people she is helping; a good ally does not trust a private read over the version the group has agreed to. That is a judge now, and it holds court in you.
 
 I know this judge well. Mine spent years ruling my own anger out of order — a good facilitator does not get angry — so the anger went below the waterline and leaked into the work anyway, ungoverned, because I had disqualified the one part that could have spoken it clean.
 
@@ -603,7 +603,7 @@ Its other move never blows a whistle at all, because the play never starts. Perf
 
 Here is why this daemon stands second, right behind the one that keeps you alive, in a book about allyship. Everything the first half of this chapter taught you runs on a feeling being allowed onto the field. You cannot alchemize a charge that got called out of bounds at the whistle. Wake, Open, Clean, Grow, Show — every stage assumes the feeling made it into play. The shadow Controller is the part that can end the whole practice before Stage One, by ruling that the feeling was never permitted in the first place. Sensitivity is the Shaman's instrument; this is the hand that keeps it in its case. The cost lands twice: you lose the read that would have told you what the moment actually needed, and the person in front of you loses the ally who could have named it. They get your composure instead of your help.
 
-You do not fire the Controller. Fire the referee and your follow-through goes with it. You take the joystick back by handing it the right rulebook — your rules, the ones you would choose on your clearest day. *Here is the ally I actually want to be: the one who names the unsaid even when her voice shakes. Hold me to that one. When a feeling shows up, let it onto the field. It is not a foul. It is the game.* Do that, and the referee goes back to its real work — keeping your integrity when it costs you, and keeping the game honest, which now includes letting you feel.
+You do not fire the Controller. Fire the referee and your follow-through goes with it. You take the joystick back by handing it the right rulebook — your rules, the ones you would choose on your clearest day. *Here is the ally I actually want to be: the one who names the unsaid even when her voice shakes. Hold me to that one. When a feeling shows up, let it onto the field. It is in bounds.* Do that, and the referee goes back to its real work — keeping your integrity when it costs you, and keeping the game honest, which now includes letting you feel.
 
 It shows up in a single beat. Someone on your team pushes through a decision a part of you clocks as wrong. On the old standard, the Controller rules the read inadmissible before you can speak — *probably just my stuff* — and you go along with the group. Refereeing the game you chose, it lets the read onto the field and holds you to your own rule, and you say the one true sentence — *"Something here doesn't sit right with me. Can we slow down?"* — even while your nerve is telling you to let it go. It is the same part, blowing the same whistle. The only thing that changed is whose rules it is enforcing.
 
@@ -619,7 +619,7 @@ The Controller does not block your read with a vague no. It blocks with a verdic
 
 These are the whistle-calls. When something true moves in a moment and a part of you feels it, the Controller does not argue that the feeling is wrong. It disqualifies the one who would name it. Who are you to say this — you're not ready, you don't belong, you're not good enough. The read never reaches the field because the referee who would call it has been ruled ineligible. That is the mechanism. The six beliefs are not stray bad thoughts about yourself; they are the specific tool the Controller uses to keep your Shaman move from ever being made.
 
-This is why you do not beat them by arguing. Argue *I am good enough* and you have already accepted the court — now you are litigating your own standing while the moment passes, and the judge already has every past ruling on file and infinite patience. It wins on points every time. The Shaman's move is not to win the case. It is to notice that a case is being held at all, catch the belief in the act of disqualifying your read, and make the play anyway. Name the ruling. Name whose rule it is. Let the read onto the field with the belief still talking: *there it is, "not ready" — noted. Here is the true thing anyway.*
+This is why you do not beat them by arguing. Argue *I am good enough* and you have already accepted the court — now you are litigating your own standing while the moment passes, and the judge already has every past ruling on file and infinite patience. It wins on points every time. The Shaman's move is to notice that a case is being held at all, catch the belief in the act of disqualifying your read, and make the play anyway. Name the ruling. Name whose rule it is. Let the read onto the field with the belief still talking: *there it is, "not ready" — noted. Here is the true thing anyway.*
 
 That is the hinge of the whole chapter, and it is the chapter's real axis: Feeling and Function. The first half was Feeling — the charge sensed cleanly. This half is Function — the read becoming a move that changes something. Feeling without Function is the whole awareness trap worn by one person: endless sensing, nothing done. So take the move where it counts — out of the forest, where it is safe and no one is watching, and into the places allyship actually happens. The read is worth nothing to the person you are helping until it leaves your body and changes what happens next. Here is where the Shaman stops sensing and starts doing.
 
@@ -734,7 +734,7 @@ In practice: say the unreduced version first, out loud, to the person with the s
 
 Banking feels like the responsible ending every single time. There is always a reason: the timing is bad, you want to be sure, you are still forming a view, somebody else is better placed to say it. The reasons are frequently correct. What they are never able to explain is why the count of banked reads only goes up.
 
-The banked read is the material the awareness trap is built from. The trap is not ignorance. It is a large private collection of accurate reads, none of them spent, held by somebody who can describe the dynamic better than anyone else at the table and has never once changed it. That is a Shaman with a full account and an empty ledger.
+The banked read is the material the awareness trap is built from. The trap is a large private collection of accurate reads, none of them spent, held by somebody who can describe the dynamic better than anyone else at the table and has never once changed it. That is a Shaman with a full account and an empty ledger.
 
 In practice: give it a window. The read gets spent before the conversation it came from ends, or before the day ends if the conversation is already over. Past that it will not get spent — it will get understood. Log both endings, spent and kept, for two weeks. The ratio tells you something that no further insight is going to tell you.
 
@@ -861,7 +861,7 @@ The Shaman's contribution to the allyship game is this: **before strategy, befor
 
 The Shaman teaches you to read that pattern — in yourself, in others, in the group.
 
-One more voice waits on the other side of the read. The moment you take it into the world and say the true thing, the doubt speaks up first: *is it even real? Are you sure, or are you making it up?* That is the Skeptic — the part that doubts your own knowing before anyone else can — and it is where the next face begins. The Challenger cannot do their work without the Shaman's work done first. The Challenger's superpower is the ability to name what's unacceptable. To draw a line. To say "this is not okay." If you don't know what you *feel* about what's unacceptable — if you haven't read the emotional truth underneath — then the Challenger's line is not grounded. It's performance. It's strategy without root.
+One more voice waits on the other side of the read. The moment you take it into the world and say the true thing, the doubt speaks up first: *is it even real? Are you sure, or are you making it up?* That is the Skeptic — the part that doubts your own knowing before anyone else can — and it is where the next face begins. The Challenger cannot do their work without the Shaman's work done first. The Challenger's superpower is the ability to name what's unacceptable. To draw a line. To say "this is not okay." If you don't know what you *feel* about what's unacceptable — if you haven't read the emotional truth underneath — then the Challenger's line is performance. It's strategy without root.
 
 Every great boundary is rooted in a feeling. Every genuine "no" comes from a Shaman who knows what they actually care about.
 

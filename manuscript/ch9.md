@@ -170,7 +170,7 @@ This is where the deck earns its keep. You have been handed twenty cards six tim
 
 The Elder's use of the deck is the second use. The first one is yours, alone, with nobody watching: draw against the Face you have been performing and find out what you actually do when a card names the thing you have been routing around. Running it for a group is what becomes possible after that — a session, a team, a family, a class, a vocabulary handed to people who already know how to do the thing and have never been able to name it. That is how the work goes forward without everyone starting from zero. It is also what keeps the practice from calcifying, because a deck you actually play will keep dealing you the card you did not want.
 
-The Elder is not about being the authority. The Elder is about making sure the work outlives you.
+The Elder is about making sure the work outlives you. Authority is what that looks like to everyone else.
 
 ---
 
@@ -277,7 +277,7 @@ You know how the Diplomat holds the field across difference — how to make spac
 
 You know how the Sage sees the whole game and plays their part — how to know which game you're operating in, how to switch deliberately, how to return from the mountaintop without looking down on the people still climbing.
 
-That's not a list of things you learned. That's a set of capacities you built.
+Everything on that list started as something you learned and became something you can do.
 
 ---
 
@@ -323,7 +323,7 @@ The village needs actual allies more than it needs performed ones.
 
 ### *The Walk: Building the Thing That Didn't Exist Before*
 
-The walk is not upward. The walk is forward.
+The walk goes forward, at ground level, the whole way.
 
 I want to be honest with you about what the walk actually looks like, because the book would be doing you a disservice if it ended with a rousing speech about your potential and left you to figure out the rest alone. This is what I've learned about walking with the map.
 
@@ -335,9 +335,9 @@ That's what the walk feels like. Not ascending. Circling. Each circle goes a lit
 
 ---
 
-The iteration is not a deviation from the walk. The iteration is the walk.
+The iteration is the walk. Every time it feels like a detour, that is what walking looks like.
 
-Every version of bars-engine was the walk — not a step toward it. The first design was the walk. The third redesign was the walk. The version that failed in front of people was the walk. The walk is not a straight line from plan to execution. The walk is iteration.
+Every version of bars-engine was the walk — not a step toward it. The first design was the walk. The third redesign was the walk. The version that failed in front of people was the walk. You will plan, then execute, then find the plan was a draft. That is the shape of it.
 
 This is what the WAVE already taught you. Wake up — notice what happened. Open up — let the failure land at full strength before you start explaining it. Clean up — name what didn't work. Grow up — ask what the failure is actually telling you. Show up — do the next version. Come back — notice what shifted. What you learned.
 
@@ -351,11 +351,11 @@ The fear doesn't go away. The relationship to the fear changes.
 
 Here's what I've noticed about my own fear of building: it rehearses. The fear will run the entire scenario — the failure, the criticism, the public collapse — before I've taken a single real action. The fear is not a signal that says *don't do this.* The fear is a signal that says *this matters enough to be afraid of.* The question is never *should I be afraid.* The question is *what am I going to do with the fear.* Transmute it into fuel. Use the rehearsal as data — the fear is showing me what I care about, which means it's showing me what I'm trying to build.
 
-The rehearsal is not the thing. The mind rehearsing failure is not the same as doing the thing. The mind will run the scenario for as long as you let it. It will produce the same anxiety whether you've done nothing or whether the thing has already failed. The rehearsal feels like work. It is not work. The actual thing is simpler and scarier: put it in front of someone and see what happens.
+Rehearsing failure and doing the thing feel identical from inside your head. Only one of them produces information. The mind will run the scenario for as long as you let it. It will produce the same anxiety whether you've done nothing or whether the thing has already failed. The rehearsal feels like work. The actual thing is simpler and scarier. Put it in front of someone and see what happens.
 
 The WAVE doesn't end when you leave the book. The WAVE runs through your actual life. Wake up — notice what's happening inside you when your mother calls, when the group chat erupts, when you read the news and feel it land. Open up — stay with it before you do anything with it. Clean up — name the channel and let it run to completion. Grow up — ask what this moment is asking you to become. Show up — act from that place, not from the reactive place the old habit would have sent you to. Come back — notice what happened, what shifted, what you learned.
 
-The WAVE runs through your parenting. Through your partnership. Through your work. Through the group chat and the town hall and the election and the pandemic and whatever is next. That's what it means to have the WAVE as a practice. It's not a meditation exercise you do in the morning. It's how you walk through the world.
+The WAVE runs through your parenting. Through your partnership. Through your work. Through the group chat and the town hall and the election and the pandemic and whatever is next. That's what it means to have the WAVE as a practice. It's how you walk through the world. The morning version is practice for the rest of the day.
 
 My WAVE runs through the writing of this book. I wake up to what's actually happening in a chapter — not what I want to be happening, but what's actually there. I open up to it before I start repairing it — the chapter gets to be as broken as it is for as long as it takes me to feel what's broken about it. I clean up the places where I'm performing instead of saying what's true. I grow up into the harder version of the idea I was avoiding. I show up to the page. I come back and notice that the chapter that was blocking me for three days unclogged the moment I stopped forcing it and let the Shaman name what was actually there.
 
@@ -385,7 +385,7 @@ Not everyone finishes this book knowing exactly what they're building. Some of y
 
 I want to name that directly, because the book would be doing you a disservice if it pretended everyone leaves Chapter 9 with a fully-formed game.
 
-You might be a Cartographer who hasn't become a Founder yet. That's not a failure — that's the stage you're in. The Cartographer's job is to keep mapping until the terrain reveals what needs to be built. You don't force the Founder move before it's ready. You keep the inventory honest. You keep noticing what gap keeps showing up. When the problem becomes specific enough — when you've mapped it enough times that you can name it in a sentence — the Founder move will become obvious.
+You might be a Cartographer who hasn't become a Founder yet. That's the stage you're in, and it feels like failure from inside it. The Cartographer's job is to keep mapping until the terrain reveals what needs to be built. You don't force the Founder move before it's ready. You keep the inventory honest. You keep noticing what gap keeps showing up. When the problem becomes specific enough — when you've mapped it enough times that you can name it in a sentence — the Founder move will become obvious.
 
 You might also be someone who has a practice that isn't named yet. Something you already do, some way you already show up, some specific thing you already do with your family or your team or your community that is actually your game. The naming might be what's missing, not the game itself.
 
@@ -403,7 +403,7 @@ Some of you are resisting the word.
 
 I hear that. Let me name what's actually happening with that resistance.
 
-Founder is not a personality type. Founder is a mode. The mode activates the moment you decide to create something that didn't exist before you — whether it's a conversation, a practice, a tradition in your family, a way of showing up at work that nobody had named before. The Founder is not about starting an organization. The Founder is about the moment you stop consuming and start creating.
+Founder is not a personality type. Founder is a mode. The mode activates the moment you decide to create something that didn't exist before you — whether it's a conversation, a practice, a tradition in your family, a way of showing up at work that nobody had named before. The Founder is the moment you stop consuming and start creating. An organization is one thing that can come out of that, and usually doesn't.
 
 Here's the thing the culture doesn't tell you: the Founder move is probably already somewhere in your history. A tradition in a family that wasn't there until somebody started it. A conversation held differently than the generation before would have held it. A pattern broken with a child, a sibling, a friend. A community that exists because one person kept inviting people until it did. Look for the one that's yours.
 
@@ -417,7 +417,7 @@ That's all it takes. You don't have to build bars-engine. You don't have to star
 
 The walk includes failure. As an actual thing that happens, rather than as a lesson about resilience.
 
-Some things you build will fail. Some will work and stall. Some will land and go nowhere. Some will meet the village and come apart on contact. You will make something and present it and find that the village wasn't ready for it — that what you built as liberation they experienced as threat. That's not a failure of character. That's the Outlaw's cost. The village often resists the new game until it doesn't, and the period of resistance is part of the walk.
+Some things you build will fail. Some will work and stall. Some will land and go nowhere. Some will meet the village and come apart on contact. You will make something and present it and find that the village wasn't ready for it — that what you built as liberation they experienced as threat. That's the Outlaw's cost, and it arrives dressed as a failure of character. The village often resists the new game until it doesn't, and the period of resistance is part of the walk.
 
 Some failures are just failures. The design was wrong. The timing was wrong. The thing you built didn't solve the problem you thought it would solve. That's data. The Player doesn't treat failure as defeat. The Player treats failure as the WAVE — wake up to what actually happened, open up to it before you explain it, clean up what didn't work, grow up into the next version, show up.
 
@@ -427,7 +427,7 @@ The walk ends the way all walks end: with you having gone further than you start
 
 You will not have a perfect map. You will not have all the Faces mastered. You will not have the WAVE figured out. You will still default to your home game when things get hard. You will still avoid the Face that's uncomfortable. You will still sometimes mistake feeling for action, or action for feeling.
 
-That's not failure. That's the walk.
+That's the walk. Nobody told you it would look like this.
 
 The Player walks. The Player builds. The Player makes mistakes. The Player reviews, discerns, designs, builds, passes on. The Player loops. The Player continues.
 
@@ -447,7 +447,7 @@ You don't have to figure out how to start from nothing. You don't have to build 
 
 The non-profit is the structure that holds this. It was built so that individual Founder moves plug into a larger architecture. So that one person's practice connects to everyone else's. So that when you make something, it lives somewhere it can be found by the people who need it.
 
-You are not alone out there. The village is already there. The question is just where you fit in — and that's something you'll only discover by walking into it.
+The village is already out there, and you are walking into it rather than founding it. The question is just where you fit in — and that's something you'll only discover by walking into it.
 
 ---
 
@@ -517,7 +517,7 @@ In practice: write the sentence, then delete every clause that is there to make 
 
 In practice: one person, not an audience. The audience version is a launch, and a launch is something you can spend a year preparing for. One person can happen this week. Say what you want from them before you show it — *tell me where you got confused*, or *tell me whether you'd use it twice*. An unspecified ask gets you encouragement, which is the least useful thing a human being can hand you.
 
-**Example:** One facilitator builds a workshop for six months and runs it for the first time on the day it is supposed to be good. Another builds a rough version in three weeks, runs it badly for two friends on a Tuesday, finds out that the second exercise makes people defensive, and rebuilds it before anyone has paid for anything. The second one is not less serious. The second one is the only one holding any information.
+**Example:** One facilitator builds a workshop for six months and runs it for the first time on the day it is supposed to be good. Another builds a rough version in three weeks, runs it badly for two friends on a Tuesday, finds out that the second exercise makes people defensive, and rebuilds it before anyone has paid for anything. The second one sounds smaller and is the only one holding any information.
 
 **The test:** You showed it at the point you would rather have kept working on it alone, to one person who could answer you. Their verdict is theirs. The showing is yours.
 
@@ -575,7 +575,7 @@ The practice is what you do between the moves. The moves name what to do. The pr
 
 Here's what I've noticed about my own mistake with this: I spent months with the sequence in front of me — reviewing, discerning, designing, building, passing on — without actually doing any of it. I thought I was practicing. I was planning. I was preparing. I had the vocabulary for what I was supposed to be doing, which made it feel like I was already doing it. It wasn't until I actually started something — before I felt ready, before the design was complete — that the practice became real.
 
-The practice is not the list. The practice is the loop. Running it. Messing it up. Running it again. Running it with someone else watching. Running it when it fails. Running it the next day. That's the practice. The five moves are just the map that tells you where to walk.
+The practice is the loop, and the list is only what the loop leaves behind. Running it. Messing it up. Running it again. Running it with someone else watching. Running it when it fails. Running it the next day. That's the practice. The five moves are just the map that tells you where to walk.
 
 ---
 
@@ -601,7 +601,7 @@ That's it. Sixty seconds. The design took two lines. The hard part is the next s
 
 ### *What the Player Gives the Village*
 
-The Player's gift is not an answer. The Player's gift is a path.
+The Player's gift is a path. You wanted an answer; this is better and slower.
 
 The Player shows the village what it looks like to walk all six Faces and come out the other side — not above the village, not separate from it, but further along a path the village can follow. The Player doesn't say *I've arrived.* The Player says *I'm walking. Here's what I'm finding. Here's what I'm building.*
 

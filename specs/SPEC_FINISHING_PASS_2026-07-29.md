@@ -320,8 +320,21 @@ carrying a distinction worth preserving — ch5's three-way *conservatism /
 rigidity / always done it*, ch7's *niceness / conflict-avoidance / absence of
 judgment*, both rewritten as positive lists of what the thing is mistaken for.
 
-**Remaining: 82, all in Wendell's register or front matter.** Order by chapter,
-largest first: ch9 16 · ch3 14 · ch8 14 · ch5 10 · ch6 10 · ch7 8 · ch2 3 · ch1 2.
+**Batch 2 — ch9 and ch3, 30 sites, one pass.** First batch to run the four-move
+method rather than arrive at it. ch9 clear, ch3 clear. Book total **82 → 52**.
+
+Two things it taught:
+
+- **The detector misses cross-paragraph pairs on a line-by-line scan.** ch3's
+  *"That is not the promise."* / *"The promise is discernment."* sits either
+  side of a paragraph break and only surfaced on a whole-file scan. Scan whole
+  files, not lines.
+- **Three sites took a bare cut and nothing else.** Where the surviving positive
+  already runs long, appending a synthesis line pads it. Move 2 and 3 are
+  mandatory to *consider*, not to perform.
+
+**Remaining: 52** — ch8 14 · ch5 10 · ch6 10 · ch7 8 · ch2 3 · ch1 2, plus
+strays. Order largest first.
 
 **The method is now fixed and lives in `MANUSCRIPT_FILE_CANON.md`** under
 *Fixing a denying negation — the four moves, in one pass*: cut, essence,
