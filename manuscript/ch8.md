@@ -115,7 +115,7 @@ The first reading: you have the Sage's gift, and what you've been living is the 
 
 *(This reading is comfortable in a particular way. It explains the distance you sometimes feel in your progressive spaces — why you can be surrounded by people doing the work and still feel slightly to the side of it. It gives the distance a story. A good story. A story that isn't wrong.)*
 
-The second reading: you've spent enough time around the Sage's vocabulary — the games, which one the conflict is actually about, who's playing what — that the fluency itself became a place to stand at a careful distance. The seeing became the destination rather than the beginning. The meta-awareness is real. It's being used the way the Sage in distortion uses it: to understand without committing. To diagnose without being diagnosed. To see the whole board without ever moving a piece on it.
+The second reading: you've spent enough time around the Sage's vocabulary — the games, which one the conflict is actually about, who's playing what — that the fluency itself became a place to stand at a careful distance. The seeing became the destination rather than the beginning. The meta-awareness is real. The Sage in distortion uses it to understand without committing. To diagnose without being diagnosed. To see the whole board without ever moving a piece on it.
 
 The first reading puts the gap between you and the village.
 
@@ -156,7 +156,7 @@ A Sage in distortion emerged to fill the gap. Not the real Sage — the village'
 
 This is what happens when the village keeps the Sage's vocabulary without the Sage's practice. It learned to say *I see all the games* without learning what it costs to hold that view while still choosing to be present. It learned to name the games other people were playing without noticing it was also playing one. It learned to *describe* perspective without *practicing* it.
 
-The trap is specific: seeing becomes a way to avoid being in the game. You can name every game, which means you never have to commit to any of them. You can diagnose everyone's stuckness, which means you never have to look at your own. You can see the whole board, which means you never have to play a piece of it. Perspective without commitment. Vision without embodiment. The guru on the mountain — not because the guru chose the mountain, but because the mountain is cheaper than the table.
+The trap is specific: seeing becomes a way to avoid being in the game. You can name every game, which means you never have to commit to any of them. You can diagnose everyone's stuckness, which means you never have to look at your own. You can see the whole board, which means you never have to play a piece of it. Perspective without commitment. Seeing without ever standing anywhere. The guru on the mountain — not because the guru chose the mountain, but because the mountain is cheaper than the table.
 
 Three games make up the distortion's home territory.
 

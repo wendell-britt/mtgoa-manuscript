@@ -146,7 +146,7 @@ If that landed as an accusation, notice the flinch — that's the shadow guardin
 
 Look at what the payoff is really buying you: safety. Which is why fear sits at the center of the work. Raw, fear freezes you or turns you back. A game turns it into the thing standing right beside it — wonder, the same charge, now pointed at the door instead of away from it.
 
-Detachment, engagement, and the nerve to look at what you'd rather not: three reasons the game frame is medicine and not a gimmick, and building that engine is what the rest of this book is for. Allyship reaches you as three games running at once: the lucky breaks you cannot schedule, the skills you can actually build, and the love that keeps you coming back. Everything ahead is built to strengthen your hand in all three — to keep you present for the breaks when they come, to sharpen the moves that are yours to make, and to deepen the passion that keeps you at the machine long after discipline would have quit. That is the board we are about to map.
+Detachment, engagement, and the nerve to look at what you'd rather not — the game frame is medicine because it trains all three, and the rest of this book is that training. Allyship reaches you as three games running at once: the lucky breaks you cannot schedule, the skills you can actually build, and the love that keeps you coming back. Everything ahead is built to strengthen your hand in all three — to keep you present for the breaks when they come, to sharpen the moves that are yours to make, and to deepen the passion that keeps you at the machine long after discipline would have quit. That is the board we are about to map.
 
 ## Which Game Are You Playing
 

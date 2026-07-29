@@ -830,7 +830,7 @@ They are not clean. A daemon is not a defect at one stage of the spiral. It is a
 
 **Grow Up** — asked what wants to grow, it answers composure. Every time. The capacity that actually wants to grow is the capacity to be seen partway through something, and that one cannot be named, because naming it would name an unpermitted behavior.
 
-**Show Up** — it routes to the domain with the least exposure. The post rather than the conversation. Awareness rather than action, with strategy given as the reason.
+**Show Up** — it routes to the domain with the least exposure. The post rather than the conversation. Awareness rather than action, and it calls the swap strategy.
 
 Five failures, one rule. The rule is enforced in a single place. The Controller's whole remit is how you are permitted to behave while feeling something, and behavior is at stake the moment an experience would show — which is Open Up. The other four are what the rule costs upstream and downstream of the place it bites. Catch it there and the rest have nothing to propagate from.
 
