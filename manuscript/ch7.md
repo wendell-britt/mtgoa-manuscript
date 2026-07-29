@@ -125,21 +125,21 @@ Back to the chapter.
 ## Section 4: The Practice
 ### *The Five Channels — How the Diplomat Actually Works*
 
-*Emotional alchemy vocabulary: every move below is labeled by type. **Dissatisfaction moves** alchemize a negative charge into a positive one. **Neutral channel moves** redirect a negative pattern into a neutral structure. **Satisfaction moves** amplify what is already working. If these terms are unfamiliar, Chapter 3 (The Shaman) has the full system.*
+*Emotional alchemy vocabulary: every move below carries a type label. **Dissatisfaction moves** alchemize a negative charge into a positive one. **Neutral channel moves** redirect a negative pattern into a neutral structure. **Satisfaction moves** amplify what is already working. If these terms are unfamiliar, Chapter 3 (The Shaman) has the full system.*
 
 ---
 
 ### Channel 1 — Bridge-Builder
 
-The Bridge-Builder is the Diplomat's entry point — the channel through which contact is made, curiosity replaces judgment, and the field allows a new presence to enter. It is the Diplomat's most fundamental skill and the one most easily distorted.
+The Bridge-Builder is the Diplomat's entry point — the channel through which contact happens, curiosity replaces judgment, and the field allows a new presence to enter. It is the Diplomat's most fundamental skill and the one most easily distorted.
 
-Here is what it looks like when it is absent: a person who cannot enter a gathering without an agenda. Who approaches every relational field as a transaction — what can I get, what do I need, what is this interaction worth to me. Who makes contact only when they want something, and loses the capacity for contact-for-contact's-sake. The Bridge-Builder's absence shows up as a kind of relational instrumentalization: everyone in the field becomes a means to an end.
+Here is what its absence looks like: a person who cannot enter a gathering without an agenda. Who approaches every relational field as a transaction — what can I get, what do I need, what is this interaction worth to me. Who makes contact only when they want something, and loses the capacity for contact-for-contact's-sake. The Bridge-Builder's absence shows up as a kind of relational instrumentalization: everyone in the field becomes a means to an end.
 
-Here is what it looks like when it is distorted: a person who is always reaching out, always connecting, always bridging — and who cannot stop. Who treats every relationship as a bridge to be built and maintained, even when no crossing is needed. The distorted Bridge-Builder confuses movement for connection, presence for performance. They are always bridging because stopping feels like abandonment.
+Here is what its distortion looks like: a person who is always reaching out, always connecting, always bridging — and who cannot stop. Who treats every relationship as a bridge to build and maintain, even when nobody needs the crossing. The distorted Bridge-Builder confuses movement for connection, presence for performance. They are always bridging because stopping feels like abandonment.
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 1 — Anxiety → Curiosity**
 
-The core Dissatisfaction under Bridge-Builder is **anxiety** — the low hum of "will I be accepted, will they want me here, am I intruding." This is the nervous system firing before the bridge is built: what if I reach out and no one reaches back?
+The core Dissatisfaction under Bridge-Builder is **anxiety** — the low hum of "will I be accepted, will they want me here, am I intruding." The nervous system fires before the bridge exists: what if I reach out and no one reaches back?
 
 The alchemy: you feel the anxiety fully, name it as the nervous system's report on past exclusion (not current reality), and alchemize it into real curiosity about the field. *What is actually here? Who is actually present? What do I actually want to know about this person, not what do I need them to think of me?*
 
@@ -147,7 +147,7 @@ The anxiety, fully felt and recognized as history rather than prophecy, converts
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 2 — Stage-Fright → Authentic Presence**
 
-Under the first alchemy sits a deeper Dissatisfaction: **stage-fright** — the fear of being seen without a script. The distorted Bridge-Builder has an easy smile and a practiced warmth that is technically correct and experientially hollow. They are performing connection, not generating it.
+Under the first alchemy sits a deeper Dissatisfaction: **stage-fright** — the fear of being seen without a script. The distorted Bridge-Builder has an easy smile and a practiced warmth, technically correct and experientially hollow. They are performing connection, not generating it.
 
 The alchemy: you feel the panic of being seen, the terror of showing up without your material, and you alchemize it into the willingness to be actually present. *I don't need to have a plan. I can just be here and let that be enough.*
 
@@ -155,9 +155,9 @@ The stage-fright, acknowledged as the shame of being a learner instead of an exp
 
 **[TRANSLATE] Translate 1 — Anxiety → Interest**
 
-The Bridge-Builder's primary Translate move is the channel-wide translation from Metal (fear/anxiety) to Wood (joy/interest). When the nervous system registers the approach as threat (will I be rejected?), the Translate moves the charge forward in the elemental cycle: instead of contracting around the anxiety, you let it inform your interest. *What if this goes well? What is actually present here that I want to learn about?*
+The Bridge-Builder's primary Translate move runs channel-wide, from Metal (fear/anxiety) to Wood (joy/interest). When the nervous system registers the approach as threat (will I be rejected?), the Translate moves the charge forward in the elemental cycle: instead of contracting around the anxiety, you let it inform your interest. *What if this goes well? What is actually present here that I want to learn about?*
 
-The anxiety becomes the fuel for engagement rather than the signal to withdraw. This is a sustaining move: the charge becomes contact instead of withdrawal.
+The anxiety becomes the fuel for engagement rather than the signal to withdraw. A sustaining move: the charge becomes contact instead of withdrawal.
 
 **[TRANSLATE] Translate 2 — Rejection-Sensitivity → Generous Assumption**
 
@@ -183,9 +183,9 @@ The Control move: ground the performance in actual feeling. *What is the actual 
 
 The Translator is the Diplomat's most cognitively demanding channel — the work of taking meaning from one camp and rendering it faithfully into terms another camp can actually receive. It requires the Translator to hold their own position lightly enough to truly hear what is being said, and to transmit it without contaminating it with their own biases.
 
-Here is what it looks like when it is absent: a person who can only speak their own language. Who translates everything through their own lens, who hears only what they already believe, who approaches every conversation as a performance of their own position. The Translator's absence shows up as a kind of relational deafness — not literally unable to hear, but incapable of truly receiving meaning that originates outside their own framework. The Diplomat without Translator is not a bridge-builder — they are two ends of a wire that never actually connected.
+Here is what its absence looks like: a person who can only speak their own language. Who translates everything through their own lens, who hears only what they already believe, who approaches every conversation as a performance of their own position. The Translator's absence shows up as a kind of relational deafness — not literally unable to hear, but incapable of truly receiving meaning that originates outside their own framework. The Diplomat without Translator is not a bridge-builder — they are two ends of a wire that never actually connected.
 
-Here is what it looks like when it is distorted: a person who abandons their own voice entirely in the service of translation. Who becomes a relay, a passive conduit, transmitting without judgment and also without any anchor of their own. The distorted Translator has no position — they are the perfect channel and therefore useless, because a translation without the Translator's own interpretive presence loses something essential. Every real translation is an act of interpretation, and an interpretation requires an interpreter with a point of view.
+Here is what its distortion looks like: a person who abandons their own voice entirely in the service of translation. Who becomes a relay, a passive conduit, transmitting without judgment and also without any anchor of their own. The distorted Translator has no position — they are the perfect channel and therefore useless, because a translation without the Translator's own interpretive presence loses something essential. Every real translation is an act of interpretation, and an interpretation requires an interpreter with a point of view.
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 1 — Arrogant Distance → Generous Hearing**
 
@@ -229,9 +229,9 @@ The price here is precision: the containment structure takes extra effort, and i
 
 The Field-Holder is the Diplomat's most demanding channel in terms of sheer presence — the work of maintaining enough safety that difficult conversation remains possible, even when the field is charged, even when it is unstable, even when the instinct of everyone present is to fight, flee, or freeze.
 
-Here is what it looks like when it is absent: a person who can hold a conversation only when it is already safe. Who can mediate when conditions are calm, but who falls apart the moment the field becomes truly charged. The Field-Holder's absence shows up as a kind of presence collapse — the moment something difficult actually happens, they either escalate into the conflict or disappear from the field entirely. They can hold the good conditions; they cannot hold the bad ones.
+Here is what its absence looks like: a person who can hold a conversation only when it is already safe. Who can mediate when conditions are calm, but who falls apart the moment the field becomes truly charged. The Field-Holder's absence shows up as a kind of presence collapse — the moment something difficult actually happens, they either escalate into the conflict or disappear from the field entirely. They can hold the good conditions; they cannot hold the bad ones.
 
-Here is what it looks like when it is distorted: a performative calm that is actually a freeze response. The distorted Field-Holder mistakes stillness for safety — they sit in the middle of chaos and perform peace, believing that their equanimity will regulate the field. This is collapse masquerading as calm. Real Field-Holding is not the absence of charge — it is the presence of containment. The field is still charged. The Field-Holder is not calming it down. They are giving it a shape. Note the difference from the Challenger's Stand, which is subtraction: you finish the sentence and add nothing. Hold is addition, and it is expensive, and it does not end when the silence does. They are saying: *this charge has somewhere to go. It can move through here without destroying anything.*
+Here is what its distortion looks like: a performative calm that is actually a freeze response. The distorted Field-Holder mistakes stillness for safety — they sit in the middle of chaos and perform peace, believing that their equanimity will regulate the field. This is collapse masquerading as calm. Real Field-Holding is not the absence of charge — it is the presence of containment. The field is still charged. The Field-Holder is not calming it down. They are giving it a shape. Note the difference from the Challenger's Stand, which is subtraction: you finish the sentence and add nothing. Hold is addition, and it is expensive, and it does not end when the silence does. They are saying: *this charge has somewhere to go. It can move through here without destroying anything.*
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 1 — Anxiety → Grounded Presence**
 
@@ -267,9 +267,9 @@ Staying spends real capacity. Naming that cost is part of the holding, because u
 
 The Repairer is the Diplomat's deepest channel — the work of healing ruptures that have already occurred, restoring what was broken without pretending the break didn't happen. Unlike the Field-Holder who maintains safety, the Repairer rebuilds it after it has been lost.
 
-Here is what it looks like when it is absent: a relationship that cannot survive its own ruptures. Where every breach becomes permanent, every mistake closes a door, every conflict leaves a scar that never heals. The Repairer's absence shows up as a kind of relational brittleness — people who stay together but never recover from the times they hurt each other. They accumulate damage until something breaks that cannot be repaired, and then it is over.
+Here is what its absence looks like: a relationship that cannot survive its own ruptures. Where every breach becomes permanent, every mistake closes a door, every conflict leaves a scar that never heals. The Repairer's absence shows up as a kind of relational brittleness — people who stay together but never recover from the times they hurt each other. They accumulate damage until something breaks that cannot be repaired, and then it is over.
 
-Here is what it looks like when it is distorted: a premature forgiveness that skips the repair entirely. The distorted Repairer rushes to close the wound before it has been cleaned — they say *it's fine, let's move on, I forgive you* — and what they are actually doing is abandoning the relationship to its damage. Real repair requires sitting in the wound long enough to understand it. Skipping that step means the wound closes over with the infection still inside.
+Here is what its distortion looks like: a premature forgiveness that skips the repair entirely. The distorted Repairer rushes to close the wound before it has been cleaned — they say *it's fine, let's move on, I forgive you* — and what they are actually doing is abandoning the relationship to its damage. Real repair requires sitting in the wound long enough to understand it. Skipping that step means the wound closes over with the infection still inside.
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 1 — Betrayal Wound → Discerning Trust**
 
@@ -305,9 +305,9 @@ The cost here is time. Real repair takes longer than performance repair, and tha
 
 The Integrative Negotiator is the Diplomat's closing channel — the Fire/Anger application at the Diplomat's altitude. The Challenger's line in the sand is a different instrument, and so is the Regent's decree. This is the work of surfacing what each party is protecting, translating positions into interests, and closing toward terms the field can actually live with. Bridge, translate, hold, repair — and then **negotiate**. Heard *and* something moves.
 
-Here is what it looks like when it is absent: a field that can stay in conversation forever and never arrive anywhere. Meetings that end in warmth and vagueness. Everyone accommodated, nothing decided. The person who keeps the harmony going because closing feels like conflict — who treats every hard question as something to defer to the next conversation, the next working group, the next season when conditions might be better. The Integrative Negotiator's absence shows up as relational molasses: pleasant, inclusive, and slowly failing the task.
+Here is what its absence looks like: a field that can stay in conversation forever and never arrive anywhere. Meetings that end in warmth and vagueness. Everyone accommodated, nothing decided. The person who keeps the harmony going because closing feels like conflict — who treats every hard question as something to defer to the next conversation, the next working group, the next season when conditions might be better. The Integrative Negotiator's absence shows up as relational molasses: pleasant, inclusive, and slowly failing the task.
 
-Here is what it looks like when it is distorted: two different failures wearing the same smile.
+Here is what its distortion looks like: two different failures wearing the same smile.
 
 The first distortion is **endless process** — the Diplomat who has confused hearing with closing. Who believes that if everyone feels included, the work is done. Who will run another round of listening because naming what must change feels like picking a fight. The field stays warm. Nothing moves. Resentment accumulates under the harmony like sediment.
 

@@ -230,19 +230,19 @@ That's what this final journey does. Ascending belongs to a different journey, a
 
 You came to this book as someone who wanted to do allyship better.
 
-Maybe you came with guilt. The kind that sits heavy and won't be reasoned with, that says *you should be doing more, you should have done more, you should know better.* The kind that makes you tired before you start.
+Maybe you came with guilt. The kind that sits heavy and won't listen to reason, that says *you should be doing more, you should have done more, you should know better.* The kind that makes you tired before you start.
 
 Maybe you came with urgency. The kind that says *the world is on fire and you are standing around reading a book about inner work when you should be doing something.* The kind that makes everything feel like triage.
 
 Maybe you came with exhaustion. The kind that comes from performing allyship — saying the right things, posting the right takes, being careful about every word — and finding that none of it works. That none of it changes anything. That you're doing everything right and feeling nothing right.
 
-Maybe you came believing that allyship was about what you did. What actions you took. What you said. What you posted. Who you called out. How you showed up at the protest, the meeting, the difficult conversation. You may have thought the problem was outward — that the gap between the world and what it should be was a matter of insufficient effort, insufficient knowledge, insufficient correctness.
+Maybe you came believing that allyship came down to what you did. What actions you took. What you said. What you posted. Who you called out. How you showed up at the protest, the meeting, the difficult conversation. You may have located the problem outward — that the gap between the world and what it should be amounted to insufficient effort, insufficient knowledge, insufficient correctness.
 
 You now know it was inward.
 
-You now know that allyship begins with what you are capable of becoming before you walk into the world. You now know that you cannot ally from a place you have not explored. You now know that the work is in the Forest — finding what was abandoned, reclaiming what was lost, returning with something the village actually needs.
+You now know that allyship begins with what you can become before you walk into the world. You now know that you cannot ally from a place you have not explored. You now know that the work happens in the Forest — finding what was abandoned, reclaiming what was lost, returning with something the village actually needs.
 
-Here's what I've noticed about my own arrival at this work: I came to it the way most people come to it. I saw something that was wrong. I felt the discomfort of witnessing harm I couldn't fix. Then I did what the culture taught me to do — I looked outward for the solution. I learned the vocabulary. I updated my positions. I performed the correct responses. The discomfort didn't go away. It got worse. Because I was treating symptoms with the same kind of thinking that produced them.
+Here's what I've noticed about my own arrival at this work: I came to it the way most people come to it. I saw something wrong and felt the discomfort of witnessing harm I couldn't fix. Then I did what the culture taught me to do — I looked outward for the solution. I learned the vocabulary. I updated my positions. I performed the correct responses. The discomfort didn't go away. It got worse. Because I kept treating symptoms with the same kind of thinking that produced them.
 
 The shift happened when I stopped asking *what should I do* and started asking *what is actually happening inside me when I see this.* That's the Shaman's move. Not fixing the outward problem. Feeling what's true. Naming what's actually there. Staying with it long enough to let it complete its cycle before acting.
 
@@ -270,9 +270,9 @@ Everything on that list started as something you learned and became something yo
 
 You now know the WAVE. Wake up. Open up. Clean up. Grow up. Show up. Come back.
 
-You know that the altar is not optional — that coming back is where the work becomes real. That the return to the village, carrying what you found, is the whole point.
+You know that the altar is not optional — that coming back makes the work real. That the return to the village, carrying what you found, is the whole point.
 
-You know that the five emotional channels are not just vocabulary — they are a map of the territory this book has been walking you into. Fear, anger, sadness, joy, neutrality: each one a gate you can walk through instead of a threat to manage.
+You know that the five emotional channels do more than name things — they map the territory this book has been walking you into. Fear, anger, sadness, joy, neutrality: each one a gate you can walk through instead of a threat to manage.
 
 ---
 
@@ -280,7 +280,7 @@ You know that the five emotional channels are not just vocabulary — they are a
 
 The map is honest about the terrain. It is not honest about the weather.
 
-The map shows you where the gates are. It does not show you how long it takes to walk through them. It does not show you what it feels like the third time you arrive at the same gate and discover it was still on duty. It does not show you the morning you wake up and realize you've been walking for months and you're not done and you can't remember why you started.
+The map shows you where the gates stand. It does not show you how long it takes to walk through them. It does not show you what it feels like the third time you arrive at the same gate and discover it was still on duty. It does not show you the morning you wake up and realize you've been walking for months and you're not done and you can't remember why you started.
 
 The map does not show you what failure looks like. Real failure — the kind where someone looks at what you built and says *this isn't for me.* The kind where you present the thing you made with love and care and the village says *we don't want this.* The kind where the mechanic you designed to solve a problem creates a different problem you didn't anticipate. The map shows the path. The map doesn't show the rain.
 
