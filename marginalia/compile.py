@@ -107,6 +107,10 @@ def main():
     bad = 0
     for ch in CHAPTERS:
         orig = io.open(path(ch), encoding="utf-8").read()
+        # --check and --verify must work whether or not the frame is applied;
+        # only --apply cares, and it refuses rather than double-inserting.
+        if mode != "--apply":
+            orig = strip_marginalia(orig)
         new, n, problems = apply_chapter(ch, orig)
         bad += len(problems)
 
