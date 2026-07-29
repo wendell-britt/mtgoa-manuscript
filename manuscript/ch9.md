@@ -288,11 +288,11 @@ The map also doesn't show you what success looks like from the inside. The momen
 
 The map doesn't show you that the walk takes as long as it takes. That you will not finish the map. That the point is not to finish. That the walk is the thing.
 
-That's what the map is silent about. I want you to know it — so that when the walking takes longer than you thought, you don't read that as evidence that you took the wrong path.
+The map stays silent about all of that. I want you to know it — so that when the walking takes longer than you thought, you don't read that as evidence that you took the wrong path.
 
 ---
 
-You know that the WAVE is a loop you'll run thousands of times, and that each pass through it goes a little deeper.
+You know that the WAVE loops, thousands of times, and that each pass through it goes a little deeper.
 
 ---
 
@@ -300,9 +300,9 @@ You now know that the village needs you.
 
 The actual you, standing where the performed you and the performed ally used to stand — the one who has done the inner work, who knows what they feel, who can draw the line, who can build, who can design, who can hold, who can see, who can come back.
 
-The performed ally is easy to spot. They have the vocabulary. They have the correct positions. They have the performance of care without the somatic reality of having walked through the thing that hurt. The performed ally burns out — because performance is exhausting, and because performing care without actually having it produces the exhaustion that comes from fraud.
+The performed ally is easy to spot. They have the vocabulary. They have the correct positions. They have the performance of care without the somatic reality of having walked through the thing that hurt. The performed ally burns out — because performing exhausts you, and because performing care without actually having it produces the exhaustion that comes from fraud.
 
-The actual ally is harder to spot. They might not have all the right words. They might say the wrong thing and have to correct. They might not know the current consensus positions on every identity question. What they have that the performed ally doesn't is the work itself: they've done it. They've walked through their own stuff. They know the difference between feeling and acting. They know how to come back.
+The actual ally is harder to spot. They might not have all the right words. They might say the wrong thing and have to correct. They might not know the current consensus positions on every identity question. They have what the performed ally lacks: the work itself. They've done it. They've walked through their own stuff. They know the difference between feeling and acting. They know how to come back.
 
 The village needs actual allies more than it needs performed ones.
 
@@ -312,33 +312,33 @@ The village needs actual allies more than it needs performed ones.
 
 The walk goes forward, at ground level, the whole way.
 
-I want to be honest with you about what the walk actually looks like, because the book would be doing you a disservice if it ended with a rousing speech about your potential and left you to figure out the rest alone. This is what I've learned about walking with the map.
+Let me tell you honestly what the walk actually looks like, because the book would fail you if it ended with a rousing speech about your potential and left you to figure out the rest alone. I've learned this about walking with the map.
 
-The walk begins before you're ready. That's the first thing nobody tells you. You don't finish learning the Faces and then start building. You start building while you're still confused, still triggered, still defaulting to your home game when things get hard. The map isn't complete. The WAVE isn't mastered. You don't arrive and then act — you act from somewhere on the path, and the acting is part of the walking.
+The walk begins before you're ready. That's the first thing nobody tells you. You don't finish learning the Faces and then start building. You start building while you're still confused, still triggered, still defaulting to your home game when things get hard. The map isn't complete. The WAVE isn't mastered. You don't arrive and then act — you act from somewhere on the path, and the acting belongs to the walking.
 
-When I started building bars-engine, I didn't have it figured out. I had a felt sense of what was missing — a game that actually taught the WAVE, that made the emotional alchemy something you could practice instead of just understand — and I had enough of the six Faces to know what I was trying to do. What wasn't clear was the game itself. The mechanics kept changing. I ran sessions that failed. I redesigned the token economy three times. I threw out entire systems and rebuilt them. The walk was not a straight line from plan to execution. It was iteration. Review. Discern. Design. Build. Pass On. Loop.
+When I started building bars-engine, I didn't have it figured out. I had a felt sense of what was missing — a game that actually taught the WAVE, that made the emotional alchemy something you could practice instead of just understand — and I had enough of the six Faces to know what I was trying to do. The game itself refused to come clear, and the mechanics kept changing. I ran sessions that failed. I redesigned the token economy three times. I threw out entire systems and rebuilt them. The walk never ran straight from plan to execution. It ran on iteration. Review. Discern. Design. Build. Pass On. Loop.
 
 That's what the walk feels like. Not ascending. Circling. Each circle goes a little deeper.
 
 ---
 
-The iteration is the walk. Every time it feels like a detour, that is what walking looks like.
+The iteration is the walk. Every detour that feels like a detour just shows you what walking looks like.
 
-Every version of bars-engine was the walk — not a step toward it. The first design was the walk. The third redesign was the walk. The version that failed in front of people was the walk. You will plan, then execute, then find the plan was a draft. That is the shape of it.
+Every version of bars-engine was the walk — not a step toward it. The first design was the walk. The third redesign was the walk. The version that failed in front of people was the walk. You will plan, then execute, then find the plan was a draft. That shape holds all the way through.
 
-This is what the WAVE already taught you. Wake up — notice what happened. Open up — let the failure land at full strength before you start explaining it. Clean up — name what didn't work. Grow up — ask what the failure is actually telling you. Show up — do the next version. Come back — notice what shifted. What you learned.
+The WAVE already taught you how to do this. Wake up — notice what happened. Open up — let the failure land at full strength before you start explaining it. Clean up — name what didn't work. Grow up — ask what the failure is actually telling you. Show up — do the next version. Come back — notice what shifted. What you learned.
 
 ---
 
-Here's what the walk is not: it is not the elimination of fear.
+Here's what the walk will not do for you: it will not eliminate fear.
 
-You will still be afraid. You'll be afraid when you try to build something and it doesn't work. You'll be afraid when the village doesn't receive what you built the way you hoped. You'll be afraid when someone critiques the thing you made and they're right and you have to decide whether to defend it or redesign it. You'll be afraid when you realize the thing you built has a shadow you didn't anticipate — that the tool you made to help people is also the tool that someone could use to hurt themselves or others.
+You will still be afraid. You'll be afraid when you try to build something and it doesn't work. You'll be afraid when the village doesn't receive what you built the way you hoped. You'll be afraid when someone critiques the thing you made and they're right and you have to decide whether to defend it or redesign it. You'll be afraid when you realize the thing you built has a shadow you didn't anticipate — that the tool you made to help people could also help someone hurt themselves or others.
 
 The fear doesn't go away. The relationship to the fear changes.
 
-Here's what I've noticed about my own fear of building: it rehearses. The fear will run the entire scenario — the failure, the criticism, the public collapse — before I've taken a single real action. The fear is not a signal that says *don't do this.* The fear is a signal that says *this matters enough to be afraid of.* The question is never *should I be afraid.* The question is *what am I going to do with the fear.* Transmute it into fuel. Use the rehearsal as data — the fear is showing me what I care about, which means it's showing me what I'm trying to build.
+Here's what I've noticed about my own fear of building: it rehearses. The fear will run the entire scenario — the failure, the criticism, the public collapse — before I've taken a single real action. The fear does not say *don't do this.* The fear says *this matters enough to be afraid of.* The question is never *should I be afraid.* The question is *what am I going to do with the fear.* Transmute it into fuel. Use the rehearsal as data — the fear shows me what I care about, which means it shows me what I'm trying to build.
 
-Rehearsing failure and doing the thing feel identical from inside your head. Only one of them produces information. The mind will run the scenario for as long as you let it. It will produce the same anxiety whether you've done nothing or whether the thing has already failed. The rehearsal feels like work. The actual thing is simpler and scarier. Put it in front of someone and see what happens.
+Rehearsing failure and doing the thing feel identical from inside your head. Only one of them produces information. The mind will run the scenario for as long as you let it. It will produce the same anxiety whether you've done nothing or whether the thing has already failed. The rehearsal feels like work. The actual thing runs simpler and scarier. Put it in front of someone and see what happens.
 
 The WAVE doesn't end when you leave the book. The WAVE runs through your actual life. Wake up — notice what's happening inside you when your mother calls, when the group chat erupts, when you read the news and feel it land. Open up — stay with it before you do anything with it. Clean up — name the channel and let it run to completion. Grow up — ask what this moment is asking you to become. Show up — act from that place, not from the reactive place the old habit would have sent you to. Come back — notice what happened, what shifted, what you learned.
 

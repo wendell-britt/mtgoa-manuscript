@@ -74,11 +74,29 @@ MTGOA_WAS = {"copula_1k": 62.8, "mean_sent": 13.4, "short_pct": 27.5, "hedge_1k"
 # comparative one. Book figures, not targets.
 BASE = {"be": 50.3, "copula": 29.1, "waste": 56.3, "zombie": 11.1, "expletive": 2.4}
 
-# Must match the regex SPEC_REPETITION_AND_CUTS used, contractions included,
-# or the comparison against Igniting Joy is against a different ruler.
-# Narrow (is|are|was|were) reads 42.1 where this reads 61.7 — a 33%
-# "improvement" that is entirely the measure changing.
-COPULA_1K = re.compile(r"\b(is|are|was|were|be|been|being)\b|'s\s|'re\s", re.I)
+# Two rulers, deliberately, because they answer different questions.
+#
+# COPULA_JUNE reproduces the regex SPEC_REPETITION_AND_CUTS used, so the book can
+# be compared against its own June baseline of 62.8 and against Igniting Joy's
+# 28.8 on the same terms. It counts a bare 's, which means it counts POSSESSIVES.
+#
+# That flaw was caught 2026-07-29 by a register agent working ch5, which noticed
+# that "the Regent's" appears 34 times there and was contributing ~9% of the
+# chapter's copula count. Measured book-wide: 758 's tokens, of which only 335
+# are true contractions (it's, that's) and 423 are possessives. They inflate the
+# ratio by 0.15x.
+#
+# COPULA_1K is the corrected measure and is what register() reports. Whether
+# Igniting Joy's 28.8 carries the same inflation cannot be checked here — the
+# corpus is gitignored — so the 28.8 target may itself be high. The direction and
+# the per-chapter comparisons are unaffected either way, since every chapter is
+# measured identically, and the approved 1.50x calibration came from Wendell
+# READING ch8 Section 2, not from the number.
+COPULA_JUNE = re.compile(r"\b(is|are|was|were|be|been|being)\b|'s\s|'re\s", re.I)
+COPULA_1K = re.compile(
+    r"\b(is|are|was|were|be|been|being)\b"
+    r"|\b(?:it|that|there|this|he|she|what|who|here|one|everything|nothing)'s\s"
+    r"|'re\s", re.I)
 HEDGE = re.compile(r"\b(perhaps|somewhat|arguably|rather|fairly|quite|often|tends? to|"
                    r"generally|typically|might|maybe|sort of|kind of)\b", re.I)
 

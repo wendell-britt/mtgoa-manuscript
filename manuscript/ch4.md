@@ -208,9 +208,9 @@ The Challenger's practice does not improvise. It runs a sequence. Five stages, i
 
 **Stage 1: Charge.** The fire arrives. Something in your body shows up — a heat in your chest, a clenching in your jaw, a sudden clarity that is also somehow a burning. This is the charge. The Challenger does not suppress it. The Challenger receives it.
 
-The Shaman taught you to read this. The Challenger teaches you to use it. The charge is the signal that something matters enough to act on. Without charge, there is no fire. With charge and no practice, there is explosion. With charge and practice, there is *direction.*
+The Shaman taught you to read this. The Challenger teaches you to use it. The charge signals that something matters enough to act on. Without charge, there is no fire. With charge and no practice, there is explosion. With charge and practice, there is *direction.*
 
-**Stage 2: Aim.** You identify what actually drives it. Not the story — underneath the story. The charge points at something specific. A line being crossed. A commitment being violated. A cost being ignored. Ask: *what line, if I could draw it cleanly, would this charge be protecting?*
+**Stage 2: Aim.** You identify what actually drives it. Not the story — underneath the story. The charge points at one specific thing. A line being crossed. A commitment being violated. A cost being ignored. Ask: *what line, if I could draw it cleanly, would this charge be protecting?*
 
 Most people skip this stage. They feel the charge and act immediately — which leaves most confrontation messy, reactive, and apologetic. The Challenger aims first. The aiming turns raw fire into clean action.
 
@@ -224,7 +224,7 @@ The sequence used to skip this stage, and skipping it lets a reader execute ever
 
 Taking it back has a specific sound. *I mean, obviously there's context.* *I'm probably overreacting.* *I just wanted to flag it.* Every one of those offers a repair for a rupture that has not happened yet, and offering it converts the line into a preference. Nothing about the retraction feels like retraction from the inside. It feels like being reasonable.
 
-Standing is the decision not to fill that space. It is not glaring, and it is not waiting for capitulation — the line does not need to win, it needs to still stand when the conversation moves on. In practice it takes a small physical act rather than a mental one: you finish the sentence, and then you do not add another one. That is the whole stage. It runs the shortest of the five and fails the most often.
+Standing is the decision not to fill that space. It does not glare, and it does not wait for capitulation — the line does not need to win, it needs to still stand when the conversation moves on. In practice it takes a small physical act rather than a mental one: you finish the sentence, and then you do not add another one. That is the whole stage. It runs the shortest of the five and fails the most often.
 
 The Diplomat has a stage called Hold, five chapters from here, a different animal entirely — sustained containment of a charged field over the length of a hard conversation, sometimes over months. This one lasts four seconds and its only content is subtraction. Stand is what you do with your own line. Hold is what you do with everyone else's.
 

@@ -423,15 +423,15 @@ Once difference is defect, the remit widens on its own, and it widens in a direc
 
 This daemon stands where it stands for a reason, in a book about allyship. Allyship run by a Damaged Self stays permanently in preparation. One more thing always waits to be worked through before you're clean enough to be useful. Meanwhile the person you meant to stand beside waits on a repair schedule nobody showed them and nobody lets them influence. That's the structural cost, and it doesn't require any bad intent to produce. It requires only the belief that you're the part of the system that isn't working yet.
 
-The chapter's myth lives here: that allyship is a matter of having the right framework. The Damaged Self is the daemon that makes framework-collection feel like healing. If the instrument is broken, the fix is a better map. So you get another one, then another. Each map is good, each one explains more than the last, and the accumulation is not knowledge — it's a prosthetic for a defect that was a difference the whole time. The bookshelf is the symptom. The bookshelf looks exactly like diligence.
+The chapter's myth lives here: that allyship is a matter of having the right framework. The Damaged Self is the daemon that makes framework-collection feel like healing. If the instrument is broken, the fix is a better map. So you get another one, then another. Each map is good, each one explains more than the last, and the accumulation never becomes knowledge — it stays a prosthetic for a defect that was a difference the whole time. The bookshelf is the symptom. The bookshelf looks exactly like diligence.
 
 The cost lands precisely where this chapter cannot afford it. You lose the capacity to be developed by anyone. Somebody offers you something — a correction, a piece of feedback, an opening — and it doesn't get received as input, because input is for functioning systems. It gets received as further evidence, filed against the defect, and answered with a map. The Face whose superpower includes coaching is, in shadow, the least coachable thing in the book.
 
-You do not fire the Damaged Self. Fire the part of you that registers difference and you will spend your life assuming everyone sees what you see, which is its own catastrophe and a louder one. You take the joystick back by giving it its actual jurisdiction and removing the one it appointed itself.
+You do not fire the Damaged Self. Fire the part of you that registers difference and you will spend your life assuming everyone sees what you see — its own catastrophe, and a louder one. You take the joystick back by giving it its actual jurisdiction and removing the one it appointed itself.
 
 *Keep the reading. Something in me runs differently, and that is usually accurate and sometimes the whole instrument. What the reading does not do is decide what is allowed to grow in me, and it does not get to answer a question about capacity with a question about repair.*
 
-Then put a limit on it, because an open repair schedule is the shadow's whole method. The Challenger's deadline is a breath. The Regent's is a cycle. The Architect's is a stage. The Diplomat's is one sentence. The Sage's is not measured in time at all, which is the last joke this Forest plays on you: *you get one map.* One framework per live problem. When you reach for the second map for the same problem, that is not deepening. That is the Damaged Self with the joystick, and the tell is that the second map arrives before anything has been tried with the first.
+Then put a limit on it, because an open repair schedule is the shadow's whole method. The Challenger's deadline is a breath. The Regent's is a cycle. The Architect's is a stage. The Diplomat's is one sentence. The Sage's is not measured in time at all — the last joke this Forest plays on you: *you get one map.* One framework per live problem. When you reach for the second map for the same problem, that is not deepening. That is the Damaged Self with the joystick, and the tell is that the second map arrives before you have tried anything with the first.
 
 It shows up in a single beat. Someone asks you for help with something real. Something in you goes wide and attentive — the Panoramic Seer arriving on time, doing its job. Then the Damaged Self opens underneath it, and what surfaces is not doubt; doubt you would catch. What surfaces is a project. *I know exactly what's happening here, and I know it because I've been the broken version of it.* So you hand them the map. The map is good. The map is also the fourth one this quarter, and nobody has ever asked you for a map. What they asked for was a hand. The conversation ends well. They leave with reading. On the narrow jurisdiction, the same part returns the same accurate report and the answer changes: *I run differently, which is why I can see this, and what I'm going to do about it is sit here and ask you a question.*
 
@@ -441,13 +441,13 @@ It shows up in a single beat. Someone asks you for help with something real. Som
 
 ### Which Game and Which Altitude: Why the Defect Story Always Sounds Like Humility
 
-You drew the Which Game ↔ Which Altitude axis in Section 3. Here is why the Damaged Self is nearly impossible to catch standing on it.
+You drew the Which Game ↔ Which Altitude axis in Section 3. The Damaged Self slips past it more reliably than anything else in the Forest, and the mechanism repays a close look.
 
-The Damaged Self does not argue about the game. It argues about the instrument — and an argument about the instrument looks like the most rigorous thing available. *Before I read this situation, I should account for how my own wiring distorts the read.* That sentence is correct. It is also the entry point, because there is no natural end to it. Every read can be checked one more time against the possibility that you're the problem, and the checking feels like exactly the discipline this chapter has been teaching.
+The Damaged Self does not argue about the game. It argues about the instrument — and an argument about the instrument looks like the most rigorous thing available. *Before I read this situation, I should account for how my own wiring distorts the read.* That sentence is correct. It also serves as the entry point, because nothing ends it naturally. You can check every read one more time against the possibility that you're the problem, and the checking feels like exactly the discipline this chapter has been teaching.
 
-The collapse runs like this. A real altitude read is about what a person can currently hold, and it applies to you as much as to anyone. The Damaged Self takes that legitimate self-read and converts it into a standing verdict: not *I can hold this much right now* but *I am the wrong size for this permanently.* Then it uses the verdict to answer game questions. Which game is this? Doesn't matter — I'm not calibrated for it. Should I name the line? Not from a broken instrument. The vertical question has eaten the horizontal one, and the eating was done in the name of accuracy.
+The collapse runs like this. A real altitude read asks what a person can currently hold, and it applies to you as much as to anyone. The Damaged Self takes that legitimate self-read and converts it into a standing verdict: not *I can hold this much right now* but *I am the wrong size for this permanently.* Then it uses the verdict to answer game questions. Which game is this? Doesn't matter — I'm not calibrated for it. Should I name the line? Not from a broken instrument. The vertical question has eaten the horizontal one, and the eating happened in the name of accuracy.
 
-The tell is never the content of the self-assessment. Self-assessments are supposed to be uncomfortable. The tell is whether anything downstream of one ever gets done. A self-read that has ended four consecutive situations with a decision to work on yourself first has stopped being a read and started being a jurisdiction. Look at the sequence, not the verdict — that is why the app keeps count.
+The tell is never the content of the self-assessment. Self-assessments should feel uncomfortable. The tell is whether anything downstream of one ever gets done. A self-read that has ended four consecutive situations with a decision to work on yourself first has stopped being a read and started being a jurisdiction. Look at the sequence, not the verdict — that is why the app keeps count.
 
 ---
 
@@ -455,7 +455,7 @@ The tell is never the content of the self-assessment. Self-assessments are suppo
 
 The Damaged Self developed does one thing nothing else in this chapter can do: it lets you know that you are configured differently and decline to treat that as a qualification or a disqualification. Just a fact about the instrument, held steady, informing the work without ruling on it.
 
-That combination is what makes the Sage's superpower possible, and the superpower is a compound for a reason. The Escape Artist half is the capacity to get out of a game — to put down a fight, a role, an identity that was load-bearing once, without needing the exit to be a verdict on the game or on yourself. The Coach half is what the exit makes available. A coach who cannot leave the game is not coaching. They are recruiting, and everything they offer arrives with their own stake attached to it. The reason the escape has to come first is that developing another person requires you to want something for them that you do not need for yourself, and you cannot want that while you are still playing for something.
+That combination makes the Sage's superpower possible, and the superpower is a compound for a reason. The Escape Artist half is the capacity to get out of a game — to put down a fight, a role, an identity that was load-bearing once, without needing the exit to be a verdict on the game or on yourself. The Coach half is what the exit makes available. A coach who cannot leave the game is not coaching. They are recruiting, and everything they offer arrives with their own stake attached to it. The escape has to come first because developing another person requires you to want something for them that you do not need for yourself, and you cannot want that while you are still playing for something.
 
 Put them together and you get the thing the last chapter of a book about allyship actually needs: someone who can be in it fully, get out cleanly, and stay useful to the people still inside. Still in the game, still playing it, and free enough inside it to have both hands available for somebody else.
 
@@ -468,7 +468,7 @@ You know what your Damaged Self is for now. That is what you take out.
 
 The Sage's game is the meta-game. Not a game *about* something — the game of knowing which game you're in and choosing to play it.
 
-This is the through-line the whole book has been building toward. You've learned six Faces. You've felt, drawn lines, carried forward, built, held the field, and seen the whole map. Now the question stops being *which Face am I being?* and starts being *which game am I designing?*
+The whole book has been building toward this through-line. You've learned six Faces. You've felt, drawn lines, carried forward, built, held the field, and seen the whole map. Now the question stops being *which Face am I being?* and starts being *which game am I designing?*
 
 The five moves are not a sequence. They're a toolkit. You reach in and pull out what the moment requires. Sometimes the first move is Name the Game. Sometimes it's Switch. Sometimes — often — it's Return, because you've been above things too long and nobody can hear you anymore.
 
@@ -478,11 +478,11 @@ The kit does have a logic. Seeing without naming is silence. Naming without swit
 
 ### Move 1: Name the Game
 
-Before you enter a conversation, a meeting, a conflict — name the game. Power, strategy, harmony, whole-board. Name it out loud or inside. The naming is the first move and it's also the first freedom.
+Before you enter a conversation, a meeting, a conflict — name the game. Power, strategy, harmony, whole-board. Name it out loud or inside. The naming is the first move and the first freedom.
 
 You pause at the door. You take one breath. You ask: *which game are we actually in, and what game is being played underneath the one we're talking about?*
 
-You might be in a meeting that's discussing strategy and is actually about a boundary someone crossed. A conversation arguing about process that's actually about somebody not feeling heard. A conflict framed as a values disagreement that's actually a structural problem nobody wants to name.
+You might sit in a meeting that's discussing strategy and turning on a boundary someone crossed. A conversation arguing about process that's actually about somebody not feeling heard. A conflict framed as a values disagreement that's actually a structural problem nobody wants to name.
 
 The naming doesn't solve it. It makes it possible to choose what to do next. Once you've named the game, you're no longer being played by it — you're choosing whether to play it.
 
@@ -494,15 +494,15 @@ Do not use this move to stay in your own head while somebody needs a line, a dec
 
 Once named, choose. Which game does this moment actually require?
 
-Most people have a home game. The Challenger defaults to power. The Architect defaults to strategy. The Diplomat defaults to harmony. The home game is comfortable, and it means you treat every situation as though it were your house. Useful when your house is what's needed. A problem the rest of the time.
+Most people have a home game. The Challenger defaults to power. The Architect defaults to strategy. The Diplomat defaults to harmony. The home game is comfortable, and it means you treat every situation as though it were your house. Useful when the moment calls for your house. A problem the rest of the time.
 
-You've been playing strategy — systems, process, the search for the right lever. The people in front of you are in the power game: somebody's line got crossed, and no amount of process will touch that until the line is named. Switch. Draw the line. Do what that game calls for. Then come back.
+You've been playing strategy — systems, process, the search for the right lever. The people in front of you sit in the power game: somebody's line got crossed, and no amount of process will touch that until someone names the line. Switch. Draw the line. Do what that game calls for. Then come back.
 
 Or you've been playing power — holding boundaries, being clear about what you won't accept — and things have moved to harmony. Now people need to feel heard, now the relationship needs repair, now the work is inclusion rather than confrontation. Switch. Hold the field. Let people be heard.
 
 The switch is the Sage's most deliberate move. It requires knowing all six games well enough to move between them without feeling like you're betraying one for another: the Challenger who can go to harmony without feeling soft, the Diplomat who can go to power without feeling like they abandoned the field.
 
-This is what Chou means by playing the right game. In *10,000 Hours of Play*, he describes the experienced player as the one who knows when to be serious and when to be playful, when to push and when to yield, when to stay and when to leave — from choice rather than default. The Sage is that player. Not because they transcended the lower games. Because they've been all of them enough to choose.
+Chou calls this playing the right game. In *10,000 Hours of Play*, he describes the experienced player as the one who knows when to be serious and when to be playful, when to push and when to yield, when to stay and when to leave — from choice rather than default. The Sage is that player. Not because they transcended the lower games. Because they've been all of them enough to choose.
 
 The shadow version: switching becomes inconsistency. The Sage who can't hold a game long enough to be useful isn't practicing the Game-Switcher — they're uncomfortable with commitment. The test: after you switch, does the situation stabilize in the new game, or does it keep asking you to go somewhere else? Stabilizing is the practice. Being pulled three directions is the shadow.
 
@@ -510,11 +510,11 @@ I've watched this at the coalition level. A planning team keeps trying to proces
 
 ### Move 3: Return Without Condescension
 
-This is the Sage's most underrated move. Coming back to a narrower game — staying with people in the game they can actually be in — without treating them as less, without making them feel seen-and-judged, without the body language of *if only you could see what I see.*
+The Sage's most underrated move: coming back to a narrower game — staying with people in the game they can actually be in — without treating them as less, without making them feel seen-and-judged, without the body language of *if only you could see what I see.*
 
-Return as an equal. Return as someone who is *with*, not *above.* The Sage who has seen the whole board and come back is not a diminished version of themselves. They're a more complete one, because they know where they are and where they've been and can carry both.
+Return as an equal. Return as someone who is *with*, not *above.* The Sage who has seen the whole board and come back returns as a more complete version of themselves rather than a diminished one, because they know where they are and where they've been and can carry both.
 
-This is the move the distortion skips. It stays at the whole-board view because coming down is uncomfortable — the view from up there is so much clearer than the view from inside the power game that returning feels like losing something. That's attachment to the view, wearing the view's voice. The whole-board view is always available, including from inside the narrower games, because it's a capacity rather than a location. You don't have to stay up there to hold it. You have to know you can go back.
+The distortion skips this move and stays at the whole-board view, because coming down feels uncomfortable — the view from up there is so much clearer than the view from inside the power game that returning feels like losing something. That's attachment to the view, wearing the view's voice. The whole-board view is always available, including from inside the narrower games, because it's a capacity rather than a location. You don't have to stay up there to hold it. You have to know you can go back.
 
 The shadow version: returning becomes retreating. The Sage who can't hold the view uses the return to avoid the weight of what they saw. *I was too serious up there. Let me come back to where things are simpler.* That's exhaustion calling itself wisdom, and it does a passable impression of the Returner. The test: when you return, does it feel like coming home to the people in front of you, or like abandoning the view? Coming home is the practice.
 
@@ -536,7 +536,7 @@ This is the last move, the one that takes years, the one that earns the name.
 
 You can see the whole board. You can name every game. You know which one you're in, which one the moment requires, and which one you just came from. With all of that seen, you can still choose to stand on the board — inside a game, with people playing a different one, who don't see what you see and may never see it.
 
-You can hold the whole-board view inside while your body is in the power game. In the fight. In the work. You can know that this conflict is one expression of a pattern that recurs everywhere and still draw the line this moment requires. You can know that this relationship is one iteration of a form that will keep recurring and still show up for it fully. You can know you're mortal and the game is older than you and none of this will matter in a hundred years, and still care — not despite knowing, because of it.
+You can hold the whole-board view inside while your body sits in the power game. In the fight. In the work. You can know that this conflict is one expression of a pattern that recurs everywhere and still draw the line this moment requires. You can know that this relationship is one iteration of a form that will keep recurring and still show up for it fully. You can know you're mortal and the game is older than you and none of this will matter in a hundred years, and still care — not despite knowing, because of it.
 
 That's mastery. Not instead of choosing. *Along with* choosing. Holding the meta means keeping the view and still doing the thing the view is for. Standing outside is the cheaper version.
 
@@ -558,29 +558,29 @@ The grid again, sixth operation of six, the last one. Five moves down, four doma
 | **Grow Up** · *integrate growth — what does playing this make me?* | The Map You Keep Reaching For | Teach It or Hold It | Who the Fight Makes You | Build the View Into the Structure |
 | **Show Up** · *create legacy — what stays playable after I go?* | Hand the Map Over | Say It Once, Then Stay | Put the Game Down in Public | Leave the Game Playable Without You |
 
-Read the left-hand column and you're reading this chapter. Wake Up is the Panoramic Seer with an instrument in its hand — every card in that row asks the same question about a different arena. Open Up is where the Sage is weakest by design, because witnessing a game from inside it is the one thing the whole-board view makes harder rather than easier. Clean Up is where insight either becomes a diagnosis or hardens into a verdict, which is why two of those four cards are written as a fork. Grow Up is the row this chapter's daemon exists to prevent, and it's the only row in the deck that asks what the playing is doing to the player. Show Up is legacy, and every card there is about what remains once you are not the one holding it. Read across a row and you're choosing the arena instead. Down is the sequence. Across is where it lands.
+Read the left-hand column and you're reading this chapter. Wake Up is the Panoramic Seer with an instrument in its hand — every card in that row asks the same question about a different arena. Open Up finds the Sage weakest by design, because witnessing a game from inside it is the one thing the whole-board view makes harder rather than easier. Clean Up is where insight either becomes a diagnosis or hardens into a verdict, and two of those four cards read as a fork for exactly that reason. Grow Up is the row this chapter's daemon exists to prevent, the only row in the deck that asks what the playing does to the player. Show Up is legacy, and every card there names what remains once you stop holding it. Read across a row and you're choosing the arena instead. Down is the sequence. Across is where it lands.
 
 ### Drawing Against the Shadow
 
 Draw from your twenty rather than the hundred and twenty — though not from a single row. A daemon is a rule in force at every move, which means five failures rather than one. The Damaged Self's:
 
-**Wake Up** — the signal registers, and what registers alongside it is that you noticed it the way you notice things, which is the suspect way. The noticing is accurate. It arrives with a footnote about the noticer, and the footnote is longer than the notice.
+**Wake Up** — the signal registers, and alongside it registers the fact that you noticed it the way you notice things — the suspect way. The noticing is accurate. It arrives with a footnote about the noticer, and the footnote runs longer than the notice.
 
-**Open Up** — you can stay with the experience as long as a second process runs underneath, holding the staying to the standard of somebody who doesn't have your problem. The witnessing happens. It happens under audit, which is not the same as happening.
+**Open Up** — you can stay with the experience as long as a second process runs underneath, holding the staying to the standard of somebody who doesn't have your problem. The witnessing happens. It happens under audit, which never amounts to the same thing.
 
 **Clean Up** — asked which channel, it returns the diagnosis instead. *This is my thing* is not Fire, Water, Metal, Earth, or Wood. It's a category that swallows all five, and once it's on the table nothing gets named specifically enough to move.
 
 **Grow Up** — asked what wants to grow, it answers: repair. Every time. The capacity that actually wants to grow gets skipped, because a defective instrument doesn't get upgrades, it gets fixed first — and the fixing has no completion condition.
 
-**Show Up** — it routes to the domain where being built wrong is least likely to show. Usually that's a framework. Usually it's one more map, handed to somebody who asked for a hand.
+**Show Up** — it routes to the domain where being built wrong shows least. Usually that's a framework. Usually it's one more map, handed to somebody who asked for a hand.
 
-Where it bites is Grow Up. The Damaged Self's remit is whether you're built correctly for this, and that question gets settled at the exact moment something is asked to develop. The other four rows are that settlement arriving early or arriving late. Catch it there and the rest have nothing to propagate from.
+It bites hardest in the Grow Up row. The Damaged Self's remit is whether you're built correctly for this, and that question gets settled at the exact moment something asks to develop. The other four rows are that settlement arriving early or arriving late. Catch it there and the rest have nothing to propagate from.
 
-Take **Who the Fight Makes You** — Grow Up, Direct Action, Sage. Its question is the one the Damaged Self exists to route around: *what does playing this make me?* Not what's wrong with the player. What the playing is building. The card assumes the instrument works and asks what it's becoming, which is the assumption the daemon cannot make on its own.
+Take **Who the Fight Makes You** — Grow Up, Direct Action, Sage. Its question is the one the Damaged Self exists to route around: *what does playing this make me?* Not what's wrong with the player. What the playing builds. The card assumes the instrument works and asks what it's becoming — the assumption the daemon cannot make on its own.
 
-Run it once, on something real. Bring a fight you are currently in — an actual one, with people in it. Wake Up: name the game, and notice the footnote about yourself that arrives with it. Open Up: witness one minute of what it's like to be inside this fight, without auditing the witnessing. Clean Up: name the channel. Fire, Water, Metal, Earth, Wood — one of them, not *my thing.* Grow Up: name what this fight is building in you, stated as a capacity rather than a repair. Show Up: pick a domain and name what you'd leave behind if you stopped playing tomorrow.
+Run it once, on something real. Bring a fight you're carrying right now — an actual one, with people in it. Wake Up: name the game, and notice the footnote about yourself that arrives with it. Open Up: witness one minute of what it's like to be inside this fight, without auditing the witnessing. Clean Up: name the channel. Fire, Water, Metal, Earth, Wood — one of them, not *my thing.* Grow Up: name what this fight is building in you, stated as a capacity rather than a repair. Show Up: pick a domain and name what you'd leave behind if you stopped playing tomorrow.
 
-Five moves, one card, ninety seconds. The Sage's version is the only one in the book where the hard part is refusing to run a second pass.
+Five moves, one card, ninety seconds. The Sage's version stands alone in the book: here the hard part is refusing to run a second pass.
 
 ### From Card to Quest
 
@@ -588,13 +588,13 @@ A card that ends in the app is a card you read. A card that ends in a quest is a
 
 One line, four things: what you will do, who it reaches, by when, and what it costs you. *Leave the Game Playable Without You* becomes: **I will write down the three judgment calls I've been making by feel and walk two people through them before the retreat in March, and it will cost me being the one who has to be in the meeting for it to go well.** That's a quest. *I will be less indispensable* is not one; nobody can tell whether you did it, including you.
 
-A live quest does not announce itself through enthusiasm. It's anticipation with some dread underneath. At this altitude the dread is usually that handing it over will prove you were never as necessary as the exhaustion suggested. That happens, and it still doesn't count as a reason.
+A live quest does not announce itself through enthusiasm. It's anticipation with some dread underneath. At this altitude the dread usually runs like this: handing it over will prove you were never as necessary as the exhaustion suggested. That happens, and it still doesn't count as a reason.
 
 *Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it. → app*
 
 ### The One Rep
 
-You don't take all five moves into the world this week. You take the one the Sage keeps skipping. You see something true — the game underneath the game, the thing everyone can feel and nobody is saying — and instead of holding it, or going up, you say it. Once. As an offering, not a verdict. Then you stay while they do whatever they're going to do with it.
+You don't take all five moves into the world this week. You take the one the Sage keeps skipping. You see something true — the game underneath the game, the thing everyone can feel and nobody says — and instead of holding it, or going up, you say it. Once. As an offering, not a verdict. Then you stay while they do whatever they're going to do with it.
 
 That's the whole Sage in a single move: the seeing, said out loud, and the not-leaving.
 
@@ -607,9 +607,9 @@ That's the whole Sage in a single move: the seeing, said out loud, and the not-l
 
 The Sage's gift is not wisdom. Wisdom is a side effect. The gift is perspective with commitment — the capacity to see all the games, know which one you're in, and still choose to be there fully.
 
-The belief this chapter came to dismantle is that allyship is a matter of having the right framework. It's a load-bearing belief for anyone who came into this work through reading, and it is worth saying plainly what replaces it. Not *I have the right model now.* Not *I need one more.* Something a person can actually stand on: **I can act from the map I already have, and be developed by the people I'm acting with.** Every move in this chapter is an instrument for making that sentence true.
+This chapter came to dismantle one belief: that allyship is a matter of having the right framework. It carries load for anyone who came into this work through reading, so the replacement deserves saying plainly. Not *I have the right model now.* Not *I need one more.* Something a person can actually stand on: **I can act from the map I already have, and be developed by the people I'm acting with.** Every move in this chapter is an instrument for making that sentence true.
 
-Four things carry forward. The village needs someone who can name which game it's in, and you can be that person — not from above, from with. Seeing is not the same as opting out; the distortion confuses these and the real Sage doesn't. The hardest game to hold is the one you just left, which means the return is not the epilogue of the practice, it's most of it. Putting a game down is not giving up; it's the most generous thing available at this altitude, for you and for whoever inherits the game.
+Four things carry forward. The village needs someone who can name which game it's in, and you can be that person — not from above, from with. Seeing is not the same as opting out; the distortion confuses these and the real Sage doesn't. The hardest game to hold is the one you just left, which makes the return most of the practice rather than its epilogue. Putting a game down is not giving up; it's the most generous thing available at this altitude, for you and for whoever inherits the game.
 
 You have now been all six Faces. Shaman. Challenger. Regent. Architect. Diplomat. Sage. Each one is a tool. Each one is a gift. Each one, run wrong, becomes a shadow. You know how to tell the difference now, and you know how to come back.
 

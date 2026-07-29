@@ -163,101 +163,101 @@ The anxiety becomes the fuel for engagement rather than the signal to withdraw. 
 
 The Bridge-Builder's secondary Translate addresses the Diplomat's specific vulnerability to rejection. When the pattern of past exclusion fires (they won't want me here, I'm outside the circle), the Translate moves the charge toward generous assumption: *What if they actually want me here? What if the field is more open than my pattern expects?*
 
-This is not naive optimism — it is a discipline of extending the same hypothesis to the present that you extend to strangers on the street. The rejection-sensitivity is the raw material; the Translate converts it into the willingness to risk contact.
+This is not naive optimism — it is a discipline of extending the same hypothesis to the present that you extend to strangers on the street. The rejection-sensitivity supplies the raw material; the Translate converts it into the willingness to risk contact.
 
 **[CONTROL] Control 1 — Untracked Depletion Pattern**
 
-The Bridge-Builder's Control challenge is a depletion pattern: the person who over-bridges, who connects past their capacity, who treats every bridge as urgent and every connection as required. The Neutral Channel pattern is **untracked depletion**: you bridge and bridge and never notice how much it costs until you are empty.
+The Bridge-Builder's Control challenge runs on depletion: the person who over-bridges, who connects past their capacity, who treats every bridge as urgent and every connection as required. The Neutral Channel pattern is **untracked depletion**: you bridge and bridge and never notice how much it costs until you are empty.
 
-The Control move: build the bridge → check the fuel gauge before crossing. *Do I have capacity for this contact? Am I bridging because the field needs me, or because I can't say no to the request?* This is a structural fix, not an emotional one. Bridging has a real cost, and the Control move is to name that cost before warmth turns into depletion.
+The Control move: build the bridge → check the fuel gauge before crossing. *Do I have capacity for this contact? Am I bridging because the field needs me, or because I can't say no to the request?* This fixes structure, not emotion. Bridging has a real cost, and the Control move names that cost before warmth turns into depletion.
 
 **[CONTROL] Control 2 — Performative Presence**
 
-The Bridge-Builder's second Control addresses the habit of performing warmth instead of generating it. The Neutral Channel pattern here is **performative presence**: always smiling, always reaching, always making contact — never actually arriving, because you are too busy managing how you are being perceived.
+The Bridge-Builder's second Control addresses the habit of performing warmth instead of generating it. The Neutral Channel pattern here is **performative presence**: always smiling, always reaching, always making contact — never actually arriving, because you spend it all managing how you come across.
 
-The Control move: ground the performance in actual feeling. *What is the actual quality of my presence right now? Am I generating warmth or just distributing it?* The correction is a redirect from output to internal state — not eliminating the bridge, but ensuring it is built from something real.
+The Control move: ground the performance in actual feeling. *What is the actual quality of my presence right now? Am I generating warmth or just distributing it?* The correction redirects from output to internal state — not eliminating the bridge, but ensuring something real builds it.
 
 ---
 
 ### Channel 2 — Translator
 
-The Translator is the Diplomat's most cognitively demanding channel — the work of taking meaning from one camp and rendering it faithfully into terms another camp can actually receive. It requires the Translator to hold their own position lightly enough to truly hear what is being said, and to transmit it without contaminating it with their own biases.
+The Translator is the Diplomat's most cognitively demanding channel — the work of taking meaning from one camp and rendering it faithfully into terms another camp can actually receive. It requires the Translator to hold their own position lightly enough to truly hear what the other says, and to transmit it without contaminating it with their own biases.
 
 Here is what its absence looks like: a person who can only speak their own language. Who translates everything through their own lens, who hears only what they already believe, who approaches every conversation as a performance of their own position. The Translator's absence shows up as a kind of relational deafness — not literally unable to hear, but incapable of truly receiving meaning that originates outside their own framework. The Diplomat without Translator is not a bridge-builder — they are two ends of a wire that never actually connected.
 
-Here is what its distortion looks like: a person who abandons their own voice entirely in the service of translation. Who becomes a relay, a passive conduit, transmitting without judgment and also without any anchor of their own. The distorted Translator has no position — they are the perfect channel and therefore useless, because a translation without the Translator's own interpretive presence loses something essential. Every real translation is an act of interpretation, and an interpretation requires an interpreter with a point of view.
+Here is what its distortion looks like: a person who abandons their own voice entirely in the service of translation. Who becomes a relay, a passive conduit, transmitting without judgment and also without any anchor of their own. The distorted Translator has no position — the perfect channel, and therefore useless, because a translation without the Translator's own interpretive presence loses something essential. Every real translation is an act of interpretation, and an interpretation requires an interpreter with a point of view.
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 1 — Arrogant Distance → Generous Hearing**
 
-The Dissatisfaction here is **intellectual superiority** — the subtle, seductive belief that you understand both sides better than they understand themselves. That you are the one who can see what they cannot see about their own positions. This is the Translator's occupational hazard: the more fluent you become in multiple frameworks, the more you start to believe your translation is the truth rather than an interpretation.
+The Dissatisfaction here is **intellectual superiority** — the subtle, seductive belief that you understand both sides better than they understand themselves. That you alone can see what they cannot see about their own positions. The Translator's occupational hazard: the more fluent you become in multiple frameworks, the more you start to believe your translation delivers the truth rather than an interpretation.
 
 The alchemy moves through **humility into real curiosity**: you let the arrogant distance collapse into something more useful — the willingness to be changed by what you hear. Not "I know better than you" but "I don't know what I will understand after I really listen." The charge shifts from puffing up your own importance to generating the kind of open attention that actually makes translation possible.
 
-This is what separates a great Translator from a mediocre one: the great one comes to each translation knowing they might learn something that changes their own position.
+One thing separates a great Translator from a mediocre one: the great one comes to each translation knowing they might learn something that changes their own position.
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 2 — Translation Guilt → Legitimate Partiality**
 
-The Translator carries a secondary Dissatisfaction: the guilt of partiality. You have a position. You are translating from a perspective you believe in, and you are rendering it into terms the other camp can hear. Is that translation or persuasion? Where does translation end and advocacy begin?
+The Translator carries a secondary Dissatisfaction: the guilt of partiality. You have a position. You translate from a perspective you believe in, and you render it into terms the other camp can hear. Is that translation or persuasion? Where does translation end and advocacy begin?
 
-This guilt is real, and it is also a distortion. The alchemy is recognizing that **partiality is not the same as betrayal**. You are allowed to have a position. You are allowed to believe one framing is closer to what you consider true. The guilt of the Translator who cannot tolerate their own partiality leads to a false neutrality that serves no one — least of all the field.
+This guilt is real, and it is also a distortion. The alchemy recognizes that **partiality is not the same as betrayal**. You are allowed to have a position. You are allowed to believe one framing is closer to what you consider true. The guilt of the Translator who cannot tolerate their own partiality leads to a false neutrality that serves no one — least of all the field.
 
-The alchemy: *I stop apologizing for having a position I am translating from.* I let the guilt transmute into the clarity of legitimate partiality. I am a partisan who is also capable of real hearing. That is not a contradiction — it is the definition of a Translator.
+The alchemy: *I stop apologizing for having a position I am translating from.* I let the guilt transmute into the clarity of legitimate partiality. I am a partisan who can also really hear. That is not a contradiction — it is the definition of a Translator.
 
 **[TRANSLATE] — From Understanding to Transmission**
 
-The Translate layer is the operational core of the channel: you take the meaning you have received and move it forward into a form the other camp can receive.
+The Translate layer forms the operational core of the channel: you take the meaning you have received and move it forward into a form the other camp can receive.
 
-**Water → Fire: Conviction translated into urgency.** When a camp's meaning is deeply held but passively expressed — resigned, beaten down, without heat — the Translate move is to carry the meaning forward into the channel where it becomes actionable. The sadness of "we have been hurt" becomes the fire of "we will not accept this again." The translation does not change the meaning; it moves the meaning into the register where it can do work.
+**Water → Fire: Conviction translated into urgency.** When a camp holds its meaning deeply but expresses it passively — resigned, beaten down, without heat — the Translate move carries the meaning forward into the channel where it becomes actionable. The sadness of "we have been hurt" becomes the fire of "we will not accept this again." The translation does not change the meaning; it moves the meaning into the register where it can do work.
 
-**Fire → Water: Intensity translated into depth.** When a camp's meaning is hot but shallow — righteous anger that has not yet done the work of understanding its own depth — the Translate move is to carry it down into the register where it becomes something that lasts. The anger becomes sadness. The demand becomes an immovable request that no longer needs volume. The translation takes the heat and turns it into something that can sit in a field for a long time without burning out.
+**Fire → Water: Intensity translated into depth.** When a camp holds its meaning hot but shallow — righteous anger that has not yet done the work of understanding its own depth — the Translate move carries it down into the register where it becomes something that lasts. The anger becomes sadness. The demand becomes an immovable request that no longer needs volume. The translation takes the heat and turns it into something that can sit in a field for a long time without burning out.
 
-**Wood → Fire: Joy translated into invitation.** When a camp's meaning is celebratory, expansive, full of possibility — the Translate move is to carry it forward into the channel where it becomes a call. The joy becomes an invitation: "come and see what is possible." The translation takes what is good and makes it available.
+**Wood → Fire: Joy translated into invitation.** When a camp holds its meaning celebratory, expansive, full of possibility — the Translate move carries it forward into the channel where it becomes a call. The joy becomes an invitation: "come and see what is possible." The translation takes what is good and makes it available.
 
 **[CONTROL] — Neutral Channel: Intellectual Superiority Pattern**
 
-The Neutral Channel pattern here is **intellectual superiority** — the behavioral pattern of using your fluency in multiple frameworks as a way to position yourself above the parties you are translating between. "I see what you don't see about yourselves." The Control move redirects this pattern into neutral structure:
+The Neutral Channel pattern here is **intellectual superiority** — the behavioral pattern of using your fluency in multiple frameworks as a way to position yourself above the parties you translate between. "I see what you don't see about yourselves." The Control move redirects this pattern into neutral structure:
 
-**The structure of the Interpreter's Discipline:** You build a practice of checking your interpretation against the source. You develop a method: after translating, you return to the original speaker and ask — "did I get this right?" Not as performance, but as real correction. The superiority pattern dissolves into a discipline that actually improves your translations. The charge that was contaminating your work becomes the structure that makes your work trustworthy.
+**The structure of the Interpreter's Discipline:** You build a practice of checking your interpretation against the source. You develop a method: after translating, you return to the original speaker and ask — "did I get this right?" Not as performance, but as real correction. The superiority pattern dissolves into a discipline that actually improves your translations. The charge that contaminated your work becomes the structure that makes your work trustworthy.
 
-The price here is precision: the containment structure takes extra effort, and it is worth it when accuracy matters.
+Precision costs here: the containment structure takes extra effort, and it pays off when accuracy matters.
 
-*What the Translator is for is not neutral transmission — it is faithful interpretation. The Translator who has no partiality has no interpretive power. The Translator who knows what they believe and translates from that anchor, honestly, is the one the field can trust.*
+*What the Translator is for is faithful interpretation rather than neutral transmission. The Translator who has no partiality has no interpretive power. The Translator who knows what they believe and translates from that anchor, honestly, is the one the field can trust.*
 
 ---
 
 ### Channel 3 — Field-Holder
 
-The Field-Holder is the Diplomat's most demanding channel in terms of sheer presence — the work of maintaining enough safety that difficult conversation remains possible, even when the field is charged, even when it is unstable, even when the instinct of everyone present is to fight, flee, or freeze.
+The Field-Holder is the Diplomat's most demanding channel in terms of sheer presence — the work of maintaining enough safety that difficult conversation remains possible, even when charge runs high, even when the ground shifts, even when everyone present wants to fight, flee, or freeze.
 
-Here is what its absence looks like: a person who can hold a conversation only when it is already safe. Who can mediate when conditions are calm, but who falls apart the moment the field becomes truly charged. The Field-Holder's absence shows up as a kind of presence collapse — the moment something difficult actually happens, they either escalate into the conflict or disappear from the field entirely. They can hold the good conditions; they cannot hold the bad ones.
+Here is what its absence looks like: a person who can hold a conversation only when it is already safe. Who can mediate in calm conditions, but who falls apart the moment the field becomes truly charged. The Field-Holder's absence shows up as a kind of presence collapse — the moment something difficult actually happens, they either escalate into the conflict or disappear from the field entirely. They can hold the good conditions; they cannot hold the bad ones.
 
-Here is what its distortion looks like: a performative calm that is actually a freeze response. The distorted Field-Holder mistakes stillness for safety — they sit in the middle of chaos and perform peace, believing that their equanimity will regulate the field. This is collapse masquerading as calm. Real Field-Holding is not the absence of charge — it is the presence of containment. The field is still charged. The Field-Holder is not calming it down. They are giving it a shape. Note the difference from the Challenger's Stand, which is subtraction: you finish the sentence and add nothing. Hold is addition, and it is expensive, and it does not end when the silence does. They are saying: *this charge has somewhere to go. It can move through here without destroying anything.*
+Here is what its distortion looks like: a performative calm, actually a freeze response. The distorted Field-Holder mistakes stillness for safety — they sit in the middle of chaos and perform peace, believing that their equanimity will regulate the field. This is collapse masquerading as calm. Real Field-Holding does not remove the charge — it contains it. The field stays charged. The Field-Holder does not calm it down. They give it a shape. Note the difference from the Challenger's Stand, a subtraction: you finish the sentence and add nothing. Hold is addition, and it costs, and it does not end when the silence does. They say: *this charge has somewhere to go. It can move through here without destroying anything.*
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 1 — Anxiety → Grounded Presence**
 
-The Dissatisfaction here is **anxiety** — the Field-Holder's nervous system reads a charged field as danger, even when no danger is present. Things get tense and the Field-Holder's body starts to signal: something is wrong here. Get out. The anxiety is not wrong — it is reading the field accurately. Unprocessed, though, it makes the Field-Holder contract, which removes the very presence the field needs.
+The Dissatisfaction here is **anxiety** — the Field-Holder's nervous system reads a charged field as danger, even when no danger exists. Things get tense and the Field-Holder's body starts to signal: something is wrong here. Get out. The anxiety is not wrong — it is reading the field accurately. Unprocessed, though, it makes the Field-Holder contract, which removes the very presence the field needs.
 
-The alchemy: *I let the anxiety teach me where the field needs attention.* Anxiety is not a signal to leave — it is a signal to lean in more deliberately. The fear of the field destabilizing becomes the anchor that keeps you rooted in it. You are not anxious despite your holding — you are anxious *because* you are holding something that matters. The alchemy transmutes the charge of anxiety into the energy of real presence.
+The alchemy: *I let the anxiety teach me where the field needs attention.* Anxiety is not a signal to leave — it is a signal to lean in more deliberately. The fear of the field destabilizing becomes the anchor that keeps you rooted in it. You are not anxious despite your holding — you are anxious *because* you hold something that matters. The alchemy transmutes the charge of anxiety into the energy of real presence.
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 2 — Collapsed Calm → Active Containment**
 
-The Field-Holder's secondary Dissatisfaction is **performative stillness** — the belief that good holding looks calm. The distorted Field-Holder sits in the middle of chaos and performs peace, believing that equanimity will regulate everyone else. This is collapse masquerading as calm. Real Field-Holding is an active, energetic practice — it requires as much charge as the field itself.
+The Field-Holder's secondary Dissatisfaction is **performative stillness** — the belief that good holding looks calm. The distorted Field-Holder sits in the middle of chaos and performs peace, believing that equanimity will regulate everyone else. This is collapse masquerading as calm. Real Field-Holding works as an active, energetic practice — it requires as much charge as the field itself.
 
-The alchemy: *I stop performing calm and start doing containment.* The stillness becomes the shape of the containment, not the absence of charge. My grounded presence is not passive — it is the active structure that says: *you can feel what you feel here, and this will hold it.* The collapsed calm transmutes into the vitality of real Field-Holding.
+The alchemy: *I stop performing calm and start doing containment.* The stillness becomes the shape of the containment, not the absence of charge. My grounded presence does not sit passive — it forms the active structure that says: *you can feel what you feel here, and this will hold it.* The collapsed calm transmutes into the vitality of real Field-Holding.
 
 **[TRANSLATE] — From Presence to Structure**
 
-**Fire → Earth: Heat translated into form.** When a field is charged with conflict — hot, fast, potentially explosive — the Translate move is to give that charge a structure it can move through. The field is not going to cool down. It is going to move, and the Translate move is to give the movement a shape. A boundary. A format. A pause that says: *let's do this deliberately.* The fire doesn't go out — it becomes a fireplace instead of a wildfire.
+**Fire → Earth: Heat translated into form.** When conflict charges a field — hot, fast, potentially explosive — the Translate move gives that charge a structure it can move through. The field will not cool down. It will move, and the Translate move gives the movement a shape. A boundary. A format. A pause that says: *let's do this deliberately.* The fire doesn't go out — it becomes a fireplace instead of a wildfire.
 
-**Water → Wood: Sadness translated into forward motion.** When a field is stuck in sadness — slow, heavy, collapsed — the Translate move is to carry that energy forward into possibility. The field has been hurt. It needs to grieve. It also needs to know it can still move. The Translate move carries the depth of the sadness into the channel where something new can begin to grow.
+**Water → Wood: Sadness translated into forward motion.** When a field sits stuck in sadness — slow, heavy, collapsed — the Translate move carries that energy forward into possibility. The field has been hurt. It needs to grieve. It also needs to know it can still move. The Translate move carries the depth of the sadness into the channel where something new can begin to grow.
 
 **[CONTROL] — Neutral Channel: Presence Collapse Pattern**
 
-The Neutral Channel pattern here is **presence collapse** — the behavioral pattern of disappearing from the field the moment it becomes charged. The Field-Holder who has not done their internal work will be present for every calm conversation and absent from every difficult one. The Control move redirects this pattern into structure:
+The Neutral Channel pattern here is **presence collapse** — the behavioral pattern of disappearing from the field the moment it becomes charged. The Field-Holder who has not done their internal work shows up for every calm conversation and vanishes from every difficult one. The Control move redirects this pattern into structure:
 
 **The structure of the Precedent of Presence:** You establish, in advance, a commitment to remaining in the field when it becomes charged. Not because you have to — because you have decided. The commitment is the structure. You tell the field in advance: *I don't leave when it gets hard. That is not a rule — it is a practice.* The collapse pattern dissolves into a personal precedent that the field can depend on. You have made yourself a reliable structure because you decided in advance, before the charge arrived.
 
-Staying spends real capacity. Naming that cost is part of the holding, because unnamed depletion eventually becomes disappearance.
+Staying spends real capacity. Naming that cost belongs to the holding, because unnamed depletion eventually becomes disappearance.
 
 *What the Field-Holder is for is the willingness to stay when staying is difficult. Not to fix the field, not to calm it down, not to make it better — but to be the presence that makes it possible for the field to move through what it needs to move through without anyone getting destroyed in the process.*
 
