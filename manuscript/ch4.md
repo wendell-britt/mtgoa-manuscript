@@ -247,7 +247,7 @@ Five modes, five channels, no overlap. That is not a tidy coincidence — it is 
 
 **The Demand** (Wood/Joy → Bliss): A demand insists that something change, which means it is a claim on a shared future. Wood stuck is defiance with no future in it — the no that is only a no, refusal as identity, the fight enjoyed for its own sake. That version can run for years and produce nothing. Bliss is Wood satisfied, and its capability is participation: *I can participate.* The demand that lands is the one where the refusal opened a space and you are willing to be in the space. The no that becomes a yes to something new.
 
-**The Refusal** (Earth/Neutrality → Peace): This one surprises people who expect the clean no to run on anger. It does not. Anger is the Line's fuel. The Refusal's opposing force is Earth gone flat — compliance that has stopped being a decision, the automatic yes, going along because going along costs nothing you can feel in the moment. Numbness is Neutrality stuck, and it is the reason most nos never get said: nothing arrived to say them with. Peace is Neutrality satisfied, and its capability is rest. *I can rest.* The test of a real refusal is whether you slept. How it sounded is the audience's business.
+**The Refusal** (Earth/Neutrality → Peace): This one surprises people who expect the clean no to run on anger. It does not. Anger is the Line's fuel. The Refusal's opposing force is Earth gone flat — compliance that has stopped being a decision, the automatic yes, going along because going along costs nothing you can feel in the moment. Numbness is Neutrality stuck, and it is the reason most nos never get said: nothing arrived to say them with. Peace is Neutrality satisfied, and its capability is rest. *I can rest.* The test of a real refusal is whether you slept. How it sounded belongs to the audience.
 
 **The Reckoning** (Water/Sadness → Poignance): Naming a cost requires the sadness underneath the anger — what it is to watch something you love get violated by someone who is still at the table. Sadness stuck turns the reckoning into an accusation. Let it anchor instead of drown, and it becomes Poignance, whose capability is connection: *I can connect.* The consequence gets named and the person is still someone you are in relationship with. That combination is the whole difference between a reckoning and a threat.
 
@@ -310,7 +310,7 @@ Some moves spend fire without protecting anything:
 
 - **Charge → Collapse:** The fire turns inward. The anger that should be directed outward becomes self-directed shame. *I shouldn't have to feel this. Something is wrong with me for feeling this.* The charge implodes and the boundary dissolves.
 
-- **Charge → Passive-aggression:** The fire goes sideways. You don't say the no directly. You say it in sighs, in delayed responses, in the sudden unavailability that is a thousand small nos dressed up as scheduling conflicts. This is a slow war fought one line at a time.
+- **Charge → Passive-aggression:** The fire goes sideways. You don't say the no directly. You say it in sighs, in delayed responses, in the sudden unavailability that is a thousand small nos dressed up as scheduling conflicts. You are waging a slow war, one line at a time.
 
 The test is simple: did this move leave you more able to draw the next clean line, or did it spend the fire and leave the pattern intact?
 
@@ -475,7 +475,7 @@ One more move belongs here, and it is the smallest one in the chapter.
 
 There is a voice that arrives right before you draw a line. It is not the auditor — the auditor asks a question. This one has already decided. It says the same sentence every time, in the same tone: *do this and you become the difficult one, and what you have with these people will not survive it.* Tight. Pinched. Completely certain.
 
-Here is the part almost nobody gets told about that voice: it is a memory reporting accurately on something that is over. Somewhere behind it sits a real occasion when pushing did cost something — a relationship that cooled, a table nobody invited you back to. The voice is reporting accurately.
+Here is the part almost nobody gets told about that voice: it remembers accurately, and what it remembers is finished. Somewhere behind it sits a real occasion when pushing did cost something — a relationship that cooled, a table nobody invited you back to. The voice is reporting accurately.
 
 What it gets wrong is the timestamp. It files a past event as live coverage. It stands at the door of the conversation happening now and narrates something that already finished, in the present tense, at the volume of an emergency.
 
@@ -507,7 +507,7 @@ Find the voice. Give it a name. Say the name out loud.
 
 You met the Skeptic at the door of the Forest, third in line, a few steps behind the Controller. The Protector decides whether you go in at all. The Controller decides how you are allowed to behave once you are inside. The Skeptic decides something narrower and more damaging than either: whether the thing you are reacting to was ever real.
 
-At its best the Skeptic is your auditor, and you need one. A charge arrives and the auditor asks the single useful question — *is this the thing in front of me, or is this an old thing wearing today's clothes?* Sometimes the honest answer is the old thing, and the auditor has just saved you from spending a line on someone who did not earn it. That pause is what makes your no expensive, and it is the reason careful people get called timid. Someone who draws a line at everything has not drawn one; the line stops being information about the world and becomes weather, and people learn to dress for it and walk past. The auditor is the reason that when you do finally say *this is not acceptable*, the sentence carries.
+At its best the Skeptic is your auditor, and you need one. A charge arrives and the auditor asks the single useful question — *is this the thing in front of me, or is this an old thing wearing today's clothes?* Sometimes the honest answer is the old thing, and the auditor has just saved you from spending a line on someone who did not earn it. That pause makes your no expensive, and it gets careful people called timid. Someone who draws a line at everything has not drawn one; the line stops being information about the world and becomes weather, and people learn to dress for it and walk past. The auditor is the reason that when you do finally say *this is not acceptable*, the sentence carries.
 
 An auditor can widen its own remit, though. It stops auditing the charge and starts auditing your standing to have it. The question changes shape without announcing that it has changed — from *is this real* to *are you the one who gets to say it is real.* Those sound like the same rigor. They are not the same question. The first can be answered by looking at the situation. The second can only be answered by looking at you, and the Skeptic already knows how that audit comes out.
 

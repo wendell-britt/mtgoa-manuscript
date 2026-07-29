@@ -569,7 +569,7 @@ That is the Player's game. Five moves. Cut the field until the problem can fail.
 
 ---
 
-**The five moves are the map. Walking it is the practice.**
+**The five moves give you the map. Walking it is the practice.**
 
 The practice is what you do between the moves. The moves name what to do. The practice is doing them, repeatedly, in real situations, with real stakes. A list of moves is not a practice any more than a recipe is a meal. Having the moves is like having a map. The walk is what happens when you actually go.
 
