@@ -352,7 +352,11 @@ The alchemy: you feel the loss of altitude — the way things look smaller from 
 
 ---
 
-**Control Move 1: Panoramic Seer — *perspective as performance***
+The five below fix structure, not emotion. No charge is left to move in them: the
+capacity is running with the feeling disconnected, so each gives you a question to
+ask before you act rather than a feeling to work.
+
+**Panoramic Seer — *perspective as performance***
 
 The distortion: the capacity to see all the games becomes a thing you do for an audience. *Look, I can name the power game and the harmony game and the strategy game all running at once — isn't that something?* The view becomes a demonstration. Seeing turns into a way of being seen to be wise.
 
@@ -363,7 +367,7 @@ The cost: you lose the ability to be in the game you're describing. People can f
 The fix: before you name the game, check. *Am I naming this to serve, or to show that I'm above it?* If it's the second, drop the naming, get your feet under you, then name.
 
 ---
-**Control Move 2: Game-Switcher — *switching as inconsistency***
+**Game-Switcher — *switching as inconsistency***
 
 The distortion: the capacity to move between games becomes a way to avoid committing to any of them. *I could play power, I could play strategy, so I'll go where the energy is and never stay long enough to be pinned down.* The switch becomes freedom from being held to a position.
 
@@ -374,7 +378,7 @@ The cost: nobody can trust you to be anywhere. If you leave whenever a game gets
 The fix: before you switch, check. *Is the moment asking for this, or am I uncomfortable being here?* If it's the second, stay. Let the discomfort be what it is. Do the work the game requires before you leave it.
 
 ---
-**Control Move 3: Diagnostician — *naming as lecturing***
+**Diagnostician — *naming as lecturing***
 
 The distortion: the capacity to name which game people are in becomes a way to be right. *You're stuck in the harmony game and I can see the whole board from here.* The diagnosis becomes a speech.
 
@@ -385,7 +389,7 @@ The cost: people feel seen and judged rather than seen and served. When someone 
 The fix: before you name it, check. *Am I naming this from the game they're in, or from the vantage I wish I were at?* If it's the second, descend. Say it in terms they can receive. That's the service.
 
 ---
-**Control Move 4: Liberator — *putting down as giving up***
+**Liberator — *putting down as giving up***
 
 The distortion: the capacity to put games down becomes a way to avoid finishing them. *I don't need this anymore — I'm past it.* The release becomes an exit.
 
@@ -396,7 +400,7 @@ The cost: the games you abandon unfinished stay unfinished. The relationships le
 The fix: before you put it down, check. *Has this taught me what it came to teach, or am I leaving because I'm tired?* If you're tired, stay for the last lap. Then put it down clean.
 
 ---
-**Control Move 5: Returner — *returning as retreating***
+**Returner — *returning as retreating***
 
 The distortion: the capacity to come back from the overview becomes a way to not have to hold the overview. *I've been up here long enough.* The return becomes relief from the weight of what you saw.
 
