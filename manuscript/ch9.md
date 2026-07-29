@@ -7,15 +7,15 @@
 
 ### *Why the Player Left (And What They Carried With Them)*
 
-The Player was never exiled.
+Nobody exiled the Player.
 
-The Player left on purpose. The village had not been wrong, and nobody had rejected them. They left because they had learned everything the village could teach them and there was something specific they wanted to build that required going further out than the village extended.
+The Player left on purpose. The village had made no mistake, and nobody had rejected them. They left because they had learned everything the village could teach them and they wanted to build something specific that required going further out than the village extended.
 
 The Player had been through all six Faces. Had been the Shaman who names what's true. Had been the Challenger who draws the line. Had been the Regent who builds what lasts. Had been the Architect who designs for the next person. Had been the Diplomat who holds the field across difference. Had been the Sage who sees the whole game and plays their part.
 
 When the village asked *what now?* the Player said: *I'm going to build something.*
 
-A reaction would have been aimed at the village. So would a protest, and so would a critique of what the village was doing wrong. This was aimed at what came next. The Player had learned all the Faces. The Player had run the WAVE. The Player knew how to feel, how to draw lines, how to build, how to design, how to hold the field, how to see. Now the Player was going to make something new.
+A reaction would have pointed back at the village. So would a protest, and so would a critique of what the village kept getting wrong. This pointed forward. The Player had learned all the Faces. The Player had run the WAVE. The Player knew how to feel, how to draw lines, how to build, how to design, how to hold the field, how to see. Now the Player would make something new.
 
 The village was glad to see it. The village needed someone to go first. To show that the Faces weren't just a map for understanding — they were a toolkit for building. That after you learned to play all six, you could design your own game.
 
@@ -27,23 +27,23 @@ The Player left carrying the whole map. With a specific destination in mind.
 
 ### *What Emerged Without the Player's Example (And the Shadow That Follows)*
 
-The village taught that the six Faces were a destination.
+The village taught that the six Faces named a destination.
 
-That allyship was about becoming a perfect Shaman, or Challenger, or Regent, or Architect, or Diplomat, or Sage. A finished product. A fully-realized identity you arrived at and then maintained. The goal was to *be* one of the Faces, rather than to *use* all of them as tools for whatever the moment required.
+That allyship meant becoming a perfect Shaman, or Challenger, or Regent, or Architect, or Diplomat, or Sage. A finished product. A fully-realized identity you arrived at and then maintained. The goal was to *be* one of the Faces, rather than to *use* all of them as tools for whatever the moment required.
 
 This is the distortion. It crept in slowly, the way most distortions do — not as a lie, but as an understandable mistake.
 
 The village heard the six Faces and thought: *these are the types.* The Shaman type. The Challenger type. The Regent type. The Architect type. The Diplomat type. The Sage type. Anyone who wasn't one of those — who didn't naturally feel-first, or draw-lines, or build-systems — wasn't doing it right.
 
-The village forgot that the Faces were a map, not a menu. That you don't *become* one of them — you *move through* all of them, depending on what the moment requires. That the goal is to be able to play any game the village needs played, whatever the moment requires, rather than to arrive at Sage and stay there.
+The village forgot that the Faces were a map, not a menu. That you don't *become* one of them — you *move through* all of them, depending on what the moment requires. That the goal asks for something else: playing any game the village needs played, whatever the moment requires, rather than arriving at Sage and staying there.
 
 A Player in distortion emerged in its place.
 
-The Player in distortion collected Faces the way people collect credentials. *I have studied with the Shaman. I have apprenticed with the Challenger. I have read the Architect's work.* The Player in distortion accumulated access to all six Faces without ever operating from any of them. The Player in distortion knew the vocabulary, could name the Faces, could diagnose which game was being played — but when it came time to play, the Player in distortion was always preparing. Always about to. Always one more book away from being ready.
+The Player in distortion collected Faces the way people collect credentials. *I have studied with the Shaman. I have apprenticed with the Challenger. I have read the Architect's work.* The Player in distortion accumulated access to all six Faces without ever operating from any of them. The Player in distortion knew the vocabulary, could name the Faces, could diagnose which game a group had fallen into — but when it came time to play, the Player in distortion kept preparing. Always about to. Always one more book short of ready.
 
-The Player in distortion's fatal move: collecting tools without ever building anything. Knowing all the Faces without ever choosing which one to be in this moment.
+The Player in distortion's fatal move: collecting tools without ever building anything. Knowing all the Faces without ever choosing which one to play in this moment.
 
-This is the shadow that follows the Player out the door: *I learned all of this, and I still don't know what game to play.* The Player in distortion mistakes preparation for practice. Access for mastery. The map for the territory.
+The shadow follows the Player out the door: *I learned all of this, and I still don't know what game to play.* The Player in distortion mistakes preparation for practice. Access for mastery. The map for the territory.
 
 The real Player walks through all six Faces and then — decides. *This is my game. This is what I'm building. This is the specific problem I'm going to solve, with the specific gifts I have, in service of the specific village I want to leave behind.* The real Player doesn't accumulate Faces as credentials. The real Player uses them as a design system.
 
@@ -65,21 +65,21 @@ You have been the Diplomat. You know how to hold the field across difference, ma
 
 You have been the Sage. You know how to see which game you're in, switch deliberately, and come back without condescension.
 
-That's a design system. Every line of that list is something you have already been. That is what makes it usable.
+That's a design system. You have already lived every line of that list. That is what makes it usable.
 
-The six Faces are your toolkit. The WAVE is your process. The altar — the practice of returning — is your anchor. Now you get to design your specific practice: the combination of all six that is uniquely yours, grounded in your specific survival, your specific superpowers, your specific village.
+The six Faces are your toolkit. The WAVE is your process. The altar — the practice of returning — is your anchor. Now you get to design your specific practice: your own combination of all six, grounded in your specific survival, your specific superpowers, your specific village.
 
-Nobody else can design this game. Nobody else has your specific combination of gifts and gaps, your specific history, your specific people. The village needed the six Faces as a teaching instrument — and now the teaching instrument is yours. You can use it to build whatever this book was unable to build. You can design the allyship practice that this book only points toward.
+Nobody else can design this game. Nobody else has your specific combination of gifts and gaps, your specific history, your specific people. The village needed the six Faces as a teaching instrument — and now the teaching instrument passes to you. You can use it to build whatever this book could not build. You can design the allyship practice that this book only points toward.
 
-This is what the book has been preparing you for. Not to be a consumer of the six Faces. To be a designer of your own.
+The book has been preparing you for this. Not to consume the six Faces. To design your own.
 
 People mistake a practice for a personality type, a morning routine, or a values statement written once and forgotten.
 
 A practice is what you actually do when something hard happens.
 
-That's the only definition that matters. What you believe about allyship is a separate question. What you intend to do when you're calm is a separate question. This one is what you do when you're activated — when your mother calls, when the group chat erupts, when someone says something that lands wrong and you have to decide in real time whether to say something or say nothing. The practice is the thing you do when it costs you something to do it.
+That's the only definition that matters. What you believe about allyship is a separate question. What you intend to do when you're calm is a separate question. This one names what you do when you're activated — when your mother calls, when the group chat erupts, when someone says something that lands wrong and you have to decide in real time whether to say something or say nothing. The practice happens when it costs you something to do it.
 
-This book has been teaching you what to do in those moments. The WAVE. The six Faces. The emotional channels. These aren't concepts to understand — they're moves to make. Like any moves, they require practice — the doing kind, repeated, which is a different thing from having read about them.
+This book has been teaching you what to do in those moments. The WAVE. The six Faces. The emotional channels. These aren't concepts to understand — they're moves to make. Like any moves, they require practice — the doing kind, repeated, a different thing from having read about them.
 
 ---
 
@@ -87,15 +87,15 @@ This book has been teaching you what to do in those moments. The WAVE. The six F
 
 ### *How to Design Your Own Allyship Game*
 
-The practice has five modes. They're not sequential in the way the WAVE's stages are — they loop. You return to them, and each pass through goes a little deeper.
+The practice has five modes. They don't run in sequence the way the WAVE's stages do — they loop. You return to them, and each pass through goes a little deeper.
 
 ---
 
 ### The Five Modes of Self-Authorship
 
-The five modes are not personalities — they're roles you move through as you design your practice. You might spend weeks in Cartographer. You might circle back to Designer after six months in Founder. They loop. Each loop goes deeper.
+The five modes work as roles, not personalities — you move through them as you design your practice. You might spend weeks in Cartographer. You might circle back to Designer after six months in Founder. They loop. Each loop goes deeper.
 
-The five modes: **Cartographer, Designer, Founder, Elder, Outlaw.** Each one is a different answer to the same question: *what am I actually building?*
+The five modes: **Cartographer, Designer, Founder, Elder, Outlaw.** Each one answers the same question differently: *what am I actually building?*
 
 ---
 
@@ -105,27 +105,27 @@ Before you can design, you have to map your specific terrain. Which Faces do you
 
 The practice: Take inventory. Review the six Faces and ask honestly: *Which one feels like home? Which one have I been avoiding? Which one do I perform rather than embody?*
 
-The Cartographer doesn't judge the map. It just draws it. You might find that you naturally move to Challenger when things get hard — and that the Challenger's game is where you're most comfortable, most effective, most at home. Or you might find that you live in the Architect's head — and that your gift is designing systems but your gap is staying embodied long enough to use them. You might find that the Sage's whole-board view feels like yours — and that your shadow is using the panoramic view to avoid committing to any single game.
+The Cartographer doesn't judge the map. It just draws it. You might find that you naturally move to Challenger when things get hard — and that the Challenger's game suits you best — most comfortable, most effective, most at home. Or you might find that you live in the Architect's head — and that your gift lies in designing systems while your gap lies in staying embodied long enough to use them. You might find that the Sage's whole-board view feels like yours — and that your shadow uses the panoramic view to avoid committing to any single game.
 
-The Cartographer's job is honest self-mapping. No judgment. Just the territory.
+The Cartographer draws the map honestly and stops there. No judgment. Just the territory.
 
-Here's what I've noticed about my own cartography: I started by assuming I was a Diplomat. That felt like home — relational, careful, good at holding the field. Then I actually mapped where I went when things got hard, and I found I wasn't Diplomat at all. I was Challenger. Drawing lines. I was performing the Diplomat to avoid the discomfort of the Challenger's game — the discomfort of saying no, of being unwelcome, of holding a line that cost me something. The cartography revealed that my "home" face was a performance and my "avoided" face was where I actually lived.
+Here's what I've noticed about my own cartography: I began by calling myself a Diplomat. That felt like home — relational, careful, good at holding the field. Then I actually mapped where I went when things got hard, and I found I wasn't Diplomat at all. I ran Challenger. Drawing lines. I performed the Diplomat to avoid the discomfort of the Challenger's game — the discomfort of saying no, of being unwelcome, of holding a line that cost me something. The cartography revealed that I performed my "home" face and lived in my "avoided" one.
 
-Your map might show something similar. The face you think you are might be the face you perform. The face you've been avoiding might be the one that, if you built a practice around it, would actually be your gift.
+Your map might show something similar. The face you name as yours might be the one you only perform. The face you've been avoiding might turn into your gift, if you built a practice around it.
 
 ---
 
 **2. The Designer**
 
-Once you've mapped your terrain, you can design your practice. The practice is the specific blend of all six Faces that is uniquely yours.
+Once you've mapped your terrain, you can design your practice. The practice blends all six Faces in a combination only you can make.
 
-The practice: Write it down. Not as an abstraction — as a concrete plan. *When I'm in my Challenger, this is how I know. When I need to move to my Shaman, this is what I do. When I'm avoiding my Regent, this is the signal.* The writing is the design. Writing it down forces you to be specific.
+The practice: Write it down. Not as an abstraction — as a concrete plan. *When I'm in my Challenger, this is how I know. When I need to move to my Shaman, this is what I do. When I'm avoiding my Regent, this is the signal.* The writing does the designing. Putting it on paper forces you into specifics.
 
-The design question is always: *What problem am I trying to solve, and which Face does this problem actually require?* Most people who avoid one of the six Faces are doing it because that Face's territory is uncomfortable — not because it's irrelevant. The Designer asks: *What am I avoiding, and what would happen if I built a practice that included it?*
+The design question never changes: *What problem am I trying to solve, and which Face does this problem actually require?* Most people avoid one of the six Faces because that Face's territory makes them uncomfortable — not because it has nothing to do with them. The Designer asks: *What am I avoiding, and what would happen if I built a practice that included it?*
 
 The Designer doesn't build a perfect system. The Designer builds a working system — one you can actually use, one that fits your specific body, your specific village, your specific problem. The Designer knows that a practice you actually use beats a perfect practice you keep planning to start.
 
-My design looked like this: I knew from the Cartographer that I naturally moved to Challenger when things got hard. What I had been doing instead was performing Diplomat energy to avoid the discomfort of the Challenger's game. The performance was so habitual I thought it was my nature. Writing it down forced me to see the difference between what I performed and what I actually was. That's what the Designer's move does. It makes the implicit explicit.
+My design looked like this: I knew from the Cartographer that I naturally moved to Challenger when things got hard. Instead I performed Diplomat energy to avoid the discomfort of the Challenger's game. The performance ran so habitually I mistook it for my nature. Writing it down forced me to see the gap between the performance and the person underneath. That's what the Designer's move does. It makes the implicit explicit.
 
 ---
 
@@ -133,17 +133,17 @@ My design looked like this: I knew from the Cartographer that I naturally moved 
 
 The Founder starts something new. The word does not mean a nonprofit, or a brand, or a platform. The Founder creates the thing that didn't exist before — the specific allyship practice that this book only points toward.
 
-The practice: Name it. Give it a name that is specific to you, specific to your village, specific to the problem you are trying to solve. The name doesn't have to be public. It does have to be real. *This is the thing I'm building. This is the game I'm playing.*
+The practice: Name it. Give it a name specific to you, specific to your village, specific to the problem you keep trying to solve. The name doesn't have to be public. It does have to be real. *This is the thing I'm building. This is the game I'm playing.*
 
-The Founder is not the same as the Architect. The Architect designs systems for others to use. The Founder uses all six Faces to build a specific practice that is theirs alone. The Founder is the one who says: *I've been through all of this. Here's what I made with it.*
+The Founder and the Architect do different work. The Architect designs systems for others to use. The Founder uses all six Faces to build a specific practice of their own. The Founder says, at the end of it: *I've been through all of this. Here's what I made with it.*
 
-Bars-engine is my Founder move. It's the thing I needed that didn't exist — an actual game system that lets people practice the WAVE, that makes the emotional alchemy mechanical, that gives the six Faces a practice context instead of just a conceptual one. I didn't design it to be a product. I designed it because I could see the gap and I couldn't stop seeing it. When you're in Founder and you see something that needs to exist and nobody is building it — the only way out is to build it yourself.
+Bars-engine is my Founder move. I built the thing I needed and couldn't find — an actual game system that lets people practice the WAVE, that makes the emotional alchemy mechanical, that gives the six Faces a practice context instead of just a conceptual one. I didn't design it as a product. I designed it because I could see the gap and I couldn't stop seeing it. When you're in Founder and you see something that needs to exist and nobody else has built it — you build it yourself or it stays missing.
 
-If this is where you are — if you have a specific thing you want to build and you know it has to be you — the fastest path I know is working through it with me, one-on-one. That's the coaching. It's what I do.
+If that describes you — if you have a specific thing you want to build and you know it has to be you — the fastest path I know runs through working on it with me, one-on-one. That's the coaching. It's what I do.
 
-Let me be straight about what that is. I built a method. Right now I'm essentially the only one running it in this mode. That's true today. It won't stay true — the whole reason I wrote this down is so the map lives in more hands than mine. You've been holding that map since Chapter 2. What the coaching adds is a second set of eyes already trained on these six Faces, because the Face you most need is almost always the one you've spent years avoiding by performing another, and catching yourself in that alone is the hard part. Someone who already knows the terrain finds it faster than you will by yourself. That's the whole job.
+Let me say plainly what that means. I built a method. Right now I'm essentially the only one running it in this mode. That's true today. It won't stay true — I wrote this down so the map would live in more hands than mine. You've been holding that map since Chapter 2. The coaching adds a second set of eyes already trained on these six Faces, because you almost always need the Face you've spent years avoiding by performing another, and catching yourself at that alone is the hard part. Someone who already knows the terrain finds it faster than you will by yourself. That's the whole job.
 
-If what you want is the method itself — to run it for other people, not just for the thing you're building — that's the succession this whole book has been pointing at, and it's the work I most want to hand off. Reach out: wendell@masteringallyship.com. Learning to carry this, and eventually to be certified to teach it, is exactly what I'm looking for people to do.
+If you want the method itself — to run it for other people, not just for the thing you're building — that's the succession this whole book has been pointing at, and it's the work I most want to hand off. Reach out: wendell@masteringallyship.com. I am looking for people to carry this and eventually get certified to teach it.
 
 ---
 

@@ -7,11 +7,11 @@
 
 The first course I built for this work, I built out of spite.
 
-George Floyd was murdered in May 2020. Within a week my phone had more messages in it than I'd gotten in the previous year. Most of them were from white friends. For many of them, I was the only Black person they knew. I'd been doing this work informally for years — coaching people through the emotional labor of showing up differently in their relationships, their workplaces, their lives. I had the tools. I decided to repackage them.
+George Floyd was murdered in May 2020. Within a week my phone had more messages in it than I'd gotten in the previous year. Most of them came from white friends. Many of them knew no other Black person. I'd done this work informally for years — coaching people through the emotional labor of showing up differently in their relationships, their workplaces, their lives. I had the tools. I decided to repackage them.
 
-I'd made a promise to myself back in 2014, after burning out writing about race and nerd culture. I was done. Activism was a machine that ate people and produced very little, and I was finished feeding it. Now people needed something, and I had something to offer, and I wanted to get paid for the emotional labor that was already being extracted from me for free. So I built the course.
+I'd made a promise to myself back in 2014, after burning out writing about race and nerd culture. I was done. Activism ran like a machine that ate people and produced very little, and I had quit feeding it. Now people needed something, and I had something to offer, and I wanted to get paid for the emotional labor that was already being extracted from me for free. So I built the course.
 
-The premise was simple: allyship is just applied friendship and skilled helping. I'd already learned to make my own life feel like a game worth playing. If I could make this work fun, people would do it. How hard could it be to translate that?
+I started from a simple premise: allyship is just applied friendship and skilled helping. I'd already learned to make my own life feel like a game worth playing. If I could make this work fun, people would do it. How hard could it be to translate that?
 
 The course had less than a ten percent completion rate.
 
@@ -19,72 +19,72 @@ I did what I always do. I doubled down. Made more content. Pushed harder. Got fe
 
 I was right and it cost me nothing and everything at the same time. I'd done everything right except meet people where they were instead of where I was annoyed they weren't. Then I burned out.
 
-I caught myself at the bottom of a depression well. The catching was unnerving. I hadn't known I was depressed — I'm someone who can keep moving even when I'm sad. The lesson of sadness is: what do I care about, and how far away am I from it? I was very far away. I didn't know how long the well had been dug.
+I caught myself at the bottom of a depression well. The catching unnerved me. I hadn't known I was depressed — I'm someone who can keep moving even when I'm sad. The lesson of sadness is: what do I care about, and how far away am I from it? I was very far away. I didn't know how long the digging had taken.
 
-I found myself sad but also relieved — the relief coming from being able to end a fight I didn't want to be in anymore.
+I found myself sad but also relieved — the relief coming from ending a fight I no longer wanted to fight.
 
-I'd been running a Captain Save-a-Kid game and calling it course design. The uncomfortable truth was that the struggle was its own kind of perverse fun. At the bottom of that well I saw it: I'd taken agency for an experience that was theirs.
+I'd run a Captain Save-a-Kid game and called it course design. The uncomfortable truth: the struggle had become its own kind of perverse fun. At the bottom of that well I saw it: I'd taken agency for an experience that belonged to them.
 
 A game can fail to be fun, and fun on its own can fail to make a great game.
 
-The ones who finished changed their relationship to the emotions that had been making allyship impossible. They allied with the guilt, the shame, the avoidance — and alchemized them into the capacity to show up better for others.
+The ones who finished changed their relationship to the emotions that had made allyship impossible. They allied with the guilt, the shame, the avoidance — and alchemized them into the capacity to show up better for others.
 
-The book in your hands came from the bottom of that well. The spite did not produce it. Proving I was right did not produce it. It came from the moment I connected back to myself after failing to make money or create the allies I'd wanted to create — and found that I'd learned something true about the places where my own unresolved stuff had been limiting my allyship.
+The book in your hands came from the bottom of that well. The spite did not produce it. Proving I was right did not produce it. It came from the moment I connected back to myself after failing to make money or create the allies I'd wanted to create — and found that I'd learned something true about the places where my own unresolved stuff had limited my allyship.
 
 The Sage isn't the person who sees furthest. It's the person who looked at himself long enough to stop performing the view.
 
-That is the thesis, and it comes with a limit case attached. This chapter applies when your allyship has become fluent enough to risk turning into performance, superiority, or escape. It does not apply when harm is happening in front of you. In that case, do not sit there polishing your interiority. Draw the line, call the help, interrupt the damage. Inner work is what keeps the response clean enough to still be usable tomorrow. It looks like delay from outside, and from inside on a bad day.
+That is the thesis, and it comes with a limit case attached. This chapter applies when your allyship has become fluent enough to risk turning into performance, superiority, or escape. It does not apply when harm is happening in front of you. In that case, do not sit there polishing your interiority. Draw the line, call the help, interrupt the damage. Inner work keeps the response clean enough to still work tomorrow. It looks like delay from outside, and from inside on a bad day.
 
 ---
 
 ## Section 1: The Exile
 ### *Why the Sage Left the Village (And What the Village Lost)*
 
-There was a time when the Sage lived inside the village's conversations.
+Once, the Sage lived inside the village's conversations.
 
-At the same level as everyone else in them. The Sage was the one who could sit at a table and see all the games at once — who could feel the Challenger's charge in the air and know exactly which line had been crossed, could watch the harmony forming and see the strategy underneath it, could notice when a meeting shifted from one game to another before anyone else had caught it.
+At the same level as everyone else in them. The Sage could sit at a table and see all the games at once — could feel the Challenger's charge in the air and know exactly which line someone had crossed, could watch the harmony forming and see the strategy underneath it, could notice when a meeting shifted from one game to another before anyone else had caught it.
 
 The village noticed this. At first it seemed useful. The Sage could name which game the meeting was really playing. The Sage could say: *we're treating this like a problem to be seen whole, and it's actually a harmony problem — everyone needs to feel heard first — that's why no amount of vision is fixing it.* The Sage could look at the conflict and say: *this is a boundary issue dressed up in strategy language.* The village would pause. Sometimes that pause was enough.
 
 Then something shifted.
 
-It wasn't sudden. It was gradual — the way a table goes still when someone says a thing nobody knows how to answer.
+It wasn't sudden. It came on gradually — the way a table goes still when someone says a thing nobody knows how to answer.
 
 The Sage said: *I see this and I'm staying.*
 
 The village heard: *I see this and I'm not on your side.*
 
-That's not what the Sage meant. The village had gotten used to wisdom being a form of leaving. The guru on the mountain. The teacher who has risen above it all. The sage who sees the game and therefore must be outside the game. When the Sage refused to leave, when the Sage said *I see all of it and I'm still here, still setting the table, still in relationship* — the village didn't know what to do with that. It wasn't the story they'd been told about what seeing meant.
+That's not what the Sage meant. The village had gotten used to wisdom as a form of leaving. The guru on the mountain. The teacher who has risen above it all. The sage who sees the game and therefore must be outside the game. When the Sage refused to leave, when the Sage said *I see all of it and I'm still here, still setting the table, still in relationship* — the village didn't know what to do with that. It didn't match the story they'd heard about what seeing meant.
 
-The village had made a rule: if you can see the pattern of the game, you are obliged to stop playing. Seeing was the beginning of leaving. Wisdom was incompatible with commitment. The person who saw everything was the person who had decided not to be part of it.
+The village had made a rule: if you can see the pattern of the game, you must stop playing. Seeing began the leaving. Wisdom ruled out commitment. The person who saw everything had decided not to belong.
 
 The Sage had not decided that. The Sage had decided something different: *I see the pattern, and I'm choosing to stay inside it, because the staying is the work.*
 
-This is the Sage's oldest wound. The capacity to see all the games without leaving any of them — and the village reading that as contradiction. The gift mistaken for its opposite, every time.
+The Sage's oldest wound: the capacity to see all the games without leaving any of them — and the village reading that as contradiction. The gift mistaken for its opposite, every time.
 
-The village did not know this: the Sage was not contradicting themselves. The Sage was answering a different question. The village was asking: *are you in the game or are you wise?* The Sage was saying: *those are not different questions. The wise thing to do is to be inside the game, seeing clearly, choosing deliberately, not mistaking your game for the only game there is.*
+The village did not know this: the Sage contradicted nothing. The Sage had heard a different question. The village asked: *are you in the game or are you wise?* The Sage answered: *those are not different questions. The wise thing to do is to be inside the game, seeing clearly, choosing deliberately, not mistaking your game for the only game there is.*
 
 The village wanted wisdom to look like departure. The Sage kept showing up like it was simple.
 
-One day, the village made its preference official. The Sage who sees everything and commits to nothing. The Sage who has risen above the fray. The sage-at-a-distance, who can tell you which game you're playing and would never lower themselves to play it. The village kept the caricature. The actual Sage — the one who saw the whole thing and still set the table — stopped speaking. Not banned. Just no longer heard. When you can see which game everyone is playing and they keep treating you like a threat for knowing it, you learn to hold your tongue at tables where you'd have something to say.
+One day, the village made its preference official. The Sage who sees everything and commits to nothing. The Sage who has risen above the fray. The sage-at-a-distance, who can tell you which game you're playing and would never lower themselves to play it. The village kept the caricature. The actual Sage — the one who saw the whole thing and still set the table — stopped speaking. Not banned. Just no longer heard. When you can name the game everyone plays and they keep treating you like a threat for knowing it, you learn to hold your tongue at tables where you'd have something to say.
 
-The choice came down to one thing: keep showing up and being called contradictory, or stop saying what you see and remember who you were.
+The choice came down to one thing: keep showing up and getting called contradictory, or stop saying what you see and remember who you were.
 
 The Sage stopped saying it.
 
-The village never meant for that to happen. It never said *go.* It just stopped being able to hear what the Sage was actually saying. Which, it turns out, is the same thing as exile.
+The village never meant for that to happen. It never said *go.* It just lost the ability to hear what the Sage actually said. Which, it turns out, amounts to the same thing as exile.
 
 ---
 
-There is a kind of meeting where the stated agenda is strategy and the real agenda is who gets to claim the victory. A circle where everyone is processing together and one person is using the processing to stay at the center. A conversation where somebody draws a line, and the line is correct, and the way it gets drawn is more about being right than about protecting anyone.
+One kind of meeting runs a stated agenda of strategy over a real agenda of who gets to claim the victory. A circle where everyone processes together and one person uses the processing to stay at the center. A conversation where somebody draws a line, and the line lands correctly, and the drawing does more to prove someone right than to protect anyone.
 
-If you have sat at one of those tables and felt the gap between what was being said and what was being played — the game underneath the language, running the whole time — then you have the Sage's capacity. That much is not in question. The question this chapter asks is what happened next.
+If you have sat at one of those tables and felt the gap between what people said and what they played — the game underneath the language, running the whole time — then you have the Sage's capacity. That much is not in question. This chapter asks what happened next.
 
-Here is the pattern that shows up most often at this altitude. Offer it to yourself as a thing to check rather than a thing I already know about you. Naming the game costs something. The naming lands as judgment even when it isn't. The people at the table hear *you think you're above this* when what was said was *here's what I notice.* That happens two or three times and the arithmetic changes. The cost of saying it rises above what it seems worth. So the seeing continues and the saying stops. You hold the pattern without putting it into words. You stay present without offering the particular usefulness you happen to be capable of.
+One pattern shows up most often at this altitude. Offer it to yourself as a thing to check rather than a thing I already know about you. Naming the game costs something. The naming lands as judgment even when it isn't. The people at the table hear *you think you're above this* where you said *here's what I notice.* That happens two or three times and the arithmetic changes. The cost of saying it rises above what it seems worth. So the seeing continues and the saying stops. You hold the pattern without putting it into words. You stay present without offering the particular usefulness you happen to be capable of.
 
-Which is its own kind of exile. Not the loud kind — not being asked to leave, not being told you were wrong. The other kind: when you have something specific to offer and you've learned not to offer it, because the table doesn't have the architecture to receive it. That's where we left the Sage. Whether it's also where you've been spending some time is yours to say.
+Which becomes its own kind of exile. Not the loud kind — not being asked to leave, not being told you were wrong. The other kind: when you have something specific to offer and you've learned not to offer it, because the table doesn't have the architecture to receive it. That's where we left the Sage. Whether you've spent time there too, only you can say.
 
-You just read a story about someone who sees clearly and gets exiled for it. If something moved while you were reading — a recognition, a *yes* — the story located something real. You know this test by now. You've been taking it since the first page. Take it again here, where it's sharpest, because the Sage is where it gets hardest to tell the two readings apart.
+You just read a story about someone who sees clearly and gets exiled for it. If something moved while you read — a recognition, a *yes* — the story located something real. You know this test by now. You've taken it since the first page. Take it again here, where it cuts sharpest, because the Sage makes the two readings hardest to tell apart.
 
 Read it first as this: you have the Sage's gift, and you have been living the Sage's exile. You can see which game is really being played. You can feel the gap between what a group is saying and what it's actually doing, and you've stopped naming it because nobody around you knew what to do with that capacity — not because there was anything wrong with the seeing itself.
 

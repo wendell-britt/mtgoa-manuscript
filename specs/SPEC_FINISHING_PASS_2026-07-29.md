@@ -484,7 +484,14 @@ enrollment page, author's-note dates.
    fails on any surviving `⟦`; it is the only thing between a placeholder and
    the typesetter, so **the gate cannot be declared green until R9 is closed.**
 
-8. **R8 — ch3:740 A0 hit** (*"a time you were told something true"*): license
+8. **R8 — RULED 2026-07-29: keep.** ch3's *"Bring a time you were told something
+   true about harm you had a hand in"* was rewritten by a register agent to
+   *"Bring a time somebody told you…"* on its own initiative. Wendell reviewed
+   both and kept the rewrite. **The A0 counter now reads 0 book-wide**, so the
+   gate's only remaining hits are R9's two placeholder tokens. Superseded note
+   below, kept for the reasoning:
+
+   ~~R8 — ch3:740 A0 hit~~ (*"a time you were told something true"*): license
    as recall-prompt or rewrite.
 
 ---

@@ -139,7 +139,7 @@ Here is what I left out of the story I told you at the start. When I said I held
 
 Carolyn Elliott calls this existential kink: the shadow doesn't run you because it feels bad. It runs you because, somewhere out of sight, it feels *good*, and you've never let yourself admit it. The being-needed. The safety of the line you never cross. The exhaustion you wear like proof. Some part of you is delighted by the very thing you complain about — and as long as that delight stays in the dark, it owns you.
 
-A game turns the lights on. It takes the charge you've been running in secret and sets it on the board, where you can finally see what you're getting out of it, say so, and — this is the whole move — enjoy it on purpose instead of by accident. The moment the pleasure turns conscious, it stops being your driver and becomes your fuel. A chore asks you to grit your teeth against the pattern. A game invites you to catch yourself in the act, name your own existential kink, and grin.
+A game turns the lights on: it takes the charge you've been running in secret and sets it on the board, where you can finally see what you're getting out of it, say so, and — this is the whole move — enjoy it on purpose instead of by accident. The moment the pleasure turns conscious, it stops being your driver and becomes your fuel. A chore asks you to grit your teeth against the pattern. A game invites you to catch yourself in the act, name your own existential kink, and grin.
 
 If that landed as an accusation, notice the flinch — that's the shadow guarding its stash. If it landed as relief, you were already ready to hear it.
 
@@ -167,7 +167,7 @@ With one catch: a skill only pays where someone wants it. Bring the sharpest ske
 
 Then comes the game you would put your own quarters into. It has chance and skill inside it — every Game of Passion does — but the payout is not why you are at the machine. You are there because you love playing it, because it keeps handing you another corner of the world to explore, because you would come back tomorrow whether or not it ever paid. That is the tell of a Game of Passion: the playing is the prize.
 
-This is the game that keeps you in the Arcade at all. Chance needs you present for years before the jackpot lands. Skill needs you practicing long past boredom. Neither one survives on discipline alone — what keeps you at the machine through the dry spells is that some part of this you would do for love. Most frameworks call that love a liability, too invested, too irrational. In the Arcade it is the power supply. It is the reason you are still here, holding a book about allyship, when quitting was always the easier play.
+This game keeps you in the Arcade at all. Chance needs you present for years before the jackpot lands. Skill needs you practicing long past boredom. Neither one survives on discipline alone — what keeps you at the machine through the dry spells is that some part of this you would do for love. Most frameworks call that love a liability, too invested, too irrational. In the Arcade it is the power supply. It is the reason you are still here, holding a book about allyship, when quitting was always the easier play.
 
 So take the one you brought with you and sort it, once. Where is it Chance — moving on its own clock, asking only that you stay in the game? Where is it Skill — waiting for you to get better, and to carry that better to people who want it? Where is it Passion — the part you would keep playing after every reasonable person told you to stop? You do not need a clean answer. You just put your hands on the controls.
 
@@ -181,7 +181,7 @@ You walked in already knowing how to play one of these games.
 
 You have a home face — one you reach for without deciding to, one that feels like plain decency rather than a strategy. *That "without deciding" is your unconscious game master, still calling the moves.* You are good at this face. You have spent years sharpening it. You have also played it so hard, so long, that you have started to run its shadow.
 
-The shadow lives in the face you overplay. Every face has one, and it is that face's own strength pushed past the point where it still helps. The Diplomat keeps everyone at the table until nothing can be decided. The Challenger draws a clean line straight through the people he meant to protect. The Architect falls for the blueprint and never shows up in person. (If the first half of this chapter felt like it was reading your mail, that is one face's shadow — the Diplomat's — worn so long it stopped looking like a choice. I know that shadow from the inside: I kept this very book in conversation for three years, everyone comfortable, nothing decided. If the Diplomat is your home face, you already know. If a different one is, you know it by its own shadow.)
+The shadow lives in the face you overplay. Every face has one: its own strength pushed past the point where it still helps. The Diplomat keeps everyone at the table until nothing can be decided. The Challenger draws a clean line straight through the people he meant to protect. The Architect falls for the blueprint and never shows up in person. (If the first half of this chapter felt like it was reading your mail, that is one face's shadow — the Diplomat's — worn so long it stopped looking like a choice. I know that shadow from the inside: I kept this very book in conversation for three years, everyone comfortable, nothing decided. If the Diplomat is your home face, you already know. If a different one is, you know it by its own shadow.)
 
 You do care too much, and it costs you. You care about everyone — you would say so, and mean it — and you run all of that care through one face, on a field too narrow to hold it. It burns you down, because one face cannot carry that much. It misses, because one face is the wrong move as often as the right one.
 
@@ -235,7 +235,7 @@ The only way to lose is to stop playing.
 
 I wrote this chapter to hit you. That is the craft, and by now some of it has. I have also sat on the other side of a book that hit me — more times than I can count — and I know what comes next, because it kept happening to me. The impact fades. By morning the charge is gone and I am the same person I was before I opened it. Moved, and unchanged. If that is all this book does, I have failed, and so has every book you pick up after it.
 
-The part of you that believes your life will change because you wrote it down in a journal is part of the problem. Writing is not the issue — putting the thought, the feeling, the experience on a page is halfway to something. What breaks is what happens to the page. It goes into a notebook you will almost never reopen, because reviewing a journal is real work and no one has made that part work. The impact goes in. It does not come back out.
+The part of you that believes your life will change because you wrote it down in a journal is part of the problem. Writing is not the issue — putting the thought, the feeling, the experience on a page is halfway to something. Everything breaks in what happens to the page next. It goes into a notebook you will almost never reopen, because reviewing a journal is real work and no one has made that part work. The impact goes in. It does not come back out.
 
 BARs came out of a fix for this. Years ago I started carrying blank poker cards, and when something hit me — the kind of hit you know you will lose by morning — I wrote it on a card. The cards came with me. Here is the part I did not plan: even when I could not remember what a card said, I remembered where it lived. I was carrying a map of the moments that had changed me. The thing that hit me was in my pocket, in the palm of my hand, instead of on a shelf at home. That is what the notebook could not do.
 
@@ -243,13 +243,13 @@ A **BAR** is that card. Captured charge — one moment of your own play, caught 
 
 The name is the method. **B**reakthrough: what hit you. **A**ction: the one move it points to. **R**eflection: what changed when you moved. The first is what you write while the charge is live; the other two after you have spent it on a move.
 
-The app is where the cards live now, so you are not carrying a paper deck in your coat. Every BAR becomes a card in a deck that is yours, built from what actually hit you instead of someone else's checklist. Read, capture, move, and by the last chapter you hold a deck no one else could have built. Stuck in a live moment a year from now, you draw from it and it hands you back something you earned once already. That is what the notebook on the shelf never did: it kept the thing that changed you where you could pick it up and play it again.
+The cards live in the app now, so you are not carrying a paper deck in your coat. Every BAR becomes a card in a deck that is yours, built from what actually hit you instead of someone else's checklist. Read, capture, move, and by the last chapter you hold a deck no one else could have built. Stuck in a live moment a year from now, you draw from it and it hands you back something you earned once already. That is what the notebook on the shelf never did: it kept the thing that changed you where you could pick it up and play it again.
 
 ## Your First BAR
 
 Before you go in, make your first BAR.
 
-Something in this chapter hit you, or something from the last few days is still sitting with you. Find that one thing and write it down. One or two sentences, in whatever words are already in your head. You are not solving it or explaining it. You are catching it before it fades, the way I caught mine on those poker cards.
+Something in this chapter hit you, or something from the last few days still sits with you. Find that one thing and write it down. One or two sentences, in whatever words are already in your head. You are not solving it or explaining it. You are catching it before it fades, the way I caught mine on those poker cards.
 
 Then keep it on you. Put it in the app, where it becomes the first card in your deck and stays in reach for the rest of the book.
 

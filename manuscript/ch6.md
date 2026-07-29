@@ -59,62 +59,62 @@ The village does one thing with structural design once the Architect leaves: it 
 
 The village did all of this without realizing it. It thought itself holistic. It thought itself comprehensive. What it actually did: run on good intentions with no understanding of why good intentions kept producing mediocre outcomes.
 
-This is the distortion the Architect's exile leaves behind: the village learned to fear its own clarity. Learned to treat the asking of structural questions as a form of judgment. Started to say things like *we don't need to overthink this* — which is another way of saying *we're afraid of what we'll find if we look too closely.* The fear was not wrong. The fear was legitimate. Because without the Architect's discipline, structural examination tends to become structural blame. Structural blame is worse than structural ignorance — because at least ignorance can be cured by asking a question. Blame is a system that protects itself by preventing the question from being asked.
+The Architect's exile leaves one distortion behind: the village learned to fear its own clarity. Learned to treat the asking of structural questions as a form of judgment. Started to say things like *we don't need to overthink this* — another way of saying *we're afraid of what we'll find if we look too closely.* That fear had grounds. That fear had earned its place. Because without the Architect's discipline, structural examination tends to become structural blame. Structural blame costs more than structural ignorance — because at least a question cures ignorance. Blame builds a system that protects itself by preventing anyone from asking the question.
 
-The village didn't realize it was doing this. It thought it was being practical. What it was actually doing was starving itself of the one thing it needed most: someone willing to look at the system honestly, without judgment, and say *here is why this keeps breaking — and here is how to fix it.*
+The village didn't realize any of this. It thought itself practical. What it actually did: starve itself of the one thing it needed most: someone willing to look at the system honestly, without judgment, and say *here is why this keeps breaking — and here is how to fix it.*
 
 ---
 
 ## A Note Before the Concept
 
-This chapter is about to start using language that has a bad record.
+This chapter will start using language that has a bad record.
 
-*Incentive structure. Leverage point. Systems thinking.* Those words have a documented second career explaining why the funding got cut, why the team got restructured, why the program that was working got killed because it could not be measured correctly. The most analytical person at the table is frequently the one who drains the life out of something that was finally moving, and they do it in exactly this vocabulary. Anyone who has watched that happen is right to hold the words at arm's length. The suspicion is earned, and I am not going to argue you out of it.
+*Incentive structure. Leverage point. Systems thinking.* Those words have a documented second career explaining why the funding got cut, why the team got restructured, why the program that worked got killed because nobody could measure it correctly. The most analytical person at the table frequently drains the life out of something that had finally started moving, and they do it in exactly this vocabulary. Anyone who has watched that happen holds the words at arm's length, rightly. You earned the suspicion, and I am not going to argue you out of it.
 
-Here is what I want to put next to it, as a proposition rather than a diagnosis, because you are the one who knows whether it is yours: *the organizations that exiled structural clarity and kept all the heart burn out the people inside them, and they do it faster than the cold ones.*
+Let me set something next to it, as a proposition rather than a diagnosis, because only you know whether it belongs to you: *the organizations that exiled structural clarity and kept all the heart burn out the people inside them, and they do it faster than the cold ones.*
 
-If that proposition is true in your experience, it has a consequence worth naming. In a system that does not hold, the gap has to be closed by somebody, and the somebody is always a person with presence to spend. More relational attentiveness. More of themselves in the seam. The cost does not show up in any report, because the report says the process worked — and it did work, on the backs of whoever paid the difference. That is a design outcome. It is not a character outcome, and no amount of caring more will change it, because caring more is the mechanism by which the broken structure keeps functioning.
+If that proposition holds in your experience, it has a consequence worth naming. In a system that does not hold, somebody has to close the gap, and the somebody always has presence to spend. More relational attentiveness. More of themselves in the seam. The cost does not show up in any report, because the report says the process worked — and it did work, on the backs of whoever paid the difference. That names a design outcome, not a character outcome. No amount of caring more will change it, because caring more works as the mechanism by which the broken structure keeps functioning.
 
-The Architect who turns a relational field into a leverage point and a living thing into a KPI has already lost the reason the design was supposed to matter. Exiling that is not an error. What gets exiled with it is the discipline itself, and the discipline is the only tool that addresses the thing above.
+The Architect who turns a relational field into a leverage point and a living thing into a KPI has already lost the reason the design mattered. Exiling that one makes sense. The discipline goes out with it, and the discipline alone addresses the thing above.
 
-The Architect's actual practice is building the map that makes you unnecessary. *Here's what you're doing wrong* is a critique. *Here's how the system should work* is a lecture. *Here's a path you can follow without me* is a map.
+The Architect's actual practice builds the map that makes you unnecessary. *Here's what you're doing wrong* is a critique. *Here's how the system should work* is a lecture. *Here's a path you can follow without me* is a map.
 
 That's structural generosity.
 
-The five modes, the stage sequence, the part of you that feels the system before it models it — those are what structural clarity looks like when it has not lost the love at its center. Not optimization theater. A practice for the person who already holds the relational field and needs the blueprint underneath it.
+The five modes, the stage sequence, the part of you that feels the system before it models it — those show what structural clarity looks like when it has not lost the love at its center. Not optimization theater. A practice for the person who already holds the relational field and needs the blueprint underneath it.
 
-Somewhere in this chapter there is a design failure you will recognize. A process that looked correct and failed anyway. An accountability structure nobody trusted. A meeting format that produced nothing and cost everyone something. The chapter's claim about all of them is the same: the structure was doing exactly what it was built to do, which was the wrong thing. Not who failed it. Why it could not have done otherwise.
+Somewhere in this chapter you will recognize a design failure. A process that looked correct and failed anyway. An accountability structure nobody trusted. A meeting format that produced nothing and cost everyone something. The chapter makes the same claim about all of them: the structure did exactly what it got built to do, and that was the wrong thing. Not who failed it. Why it could not have done otherwise.
 
-Doing the right thing in the wrong system is a specific kind of expensive. Recognizing it as a system problem rather than an effort problem is where the Architect starts.
+Doing the right thing in the wrong system is a specific kind of expensive. The Architect starts by recognizing it as a system problem rather than an effort problem.
 
 ---
 
 ## Section 3: The Concept
 ### *What Structural Design Actually Is (And Why It's Not What You've Been Told)*
 
-The village reduces structural design to its outputs: the org chart, the RACI matrix, the role description, the meeting cadence. Those are what structural thinking produces, not structural thinking itself. You can have all of them and still have a broken system.
+The village reduces structural design to its outputs: the org chart, the RACI matrix, the role description, the meeting cadence. Those name what structural thinking produces, not structural thinking itself. You can have all of them and still have a broken system.
 
 Structural design is the practice of understanding *why* a system produces the outcomes it produces — and redesigning the system so that the right outcome becomes the natural outcome.
 
-Notice the difference. In organizational design, you define roles and responsibilities. In structural design, you ask: what incentive is this role actually responding to? Not the job description — the actual incentive. The one that determines behavior when no one is watching. Then you ask: is that incentive aligned with the outcome we want? If not, no amount of role definition will produce the right behavior.
+Notice the difference. In organizational design, you define roles and responsibilities. In structural design, you ask: what incentive is this role actually responding to? Not the job description — the actual incentive. The one that determines behavior when no one is watching. Then you ask: does that incentive align with the outcome we want? If not, no amount of role definition will produce the right behavior.
 
-This is what the Architect means when they say *design for the actual incentive, not the stated one.* People do what they're incentivized to do, not what they're told to do. The Architect's work is to close that gap.
+The Architect means exactly that when they say *design for the actual incentive, not the stated one.* People do what they're incentivized to do, not what they're told to do. The Architect's work closes that gap.
 
-Here is how it works at the deepest level:
+At the deepest level, it works like this:
 
-**Every system produces the outcomes it's designed to produce** — the outcomes the incentive structure actually rewards, which are rarely the ones the founders intended or the ones the mission statement describes. If your system keeps producing the wrong result, the system is not broken — the system is working exactly as designed. You just didn't design it. You inherited it. The person who designed it had different goals than you do.
+**Every system produces the outcomes it's designed to produce** — the outcomes the incentive structure actually rewards, rarely the ones the founders intended or the ones the mission statement describes. If your system keeps producing the wrong result, the system has not broken — the system is working exactly as designed. You just didn't design it. You inherited it. The person who designed it had different goals than you do.
 
-This is not a metaphor. This is an engineering fact. It has profound implications for allyship.
+Call this an engineering fact rather than a metaphor. It has profound implications for allyship.
 
-Because allyship is a problem of system design before it is a problem of individual behavior. Good people do harmful things because the system they're inside rewards harmful behavior and punishes the alternative. Change the system and you change the behavior — not by convincing the person to be better, but by making the better behavior the easier behavior. That's structural design. That's the Architect's practice.
+Because allyship poses a problem of system design before it poses a problem of individual behavior. Good people do harmful things because the system they're inside rewards harmful behavior and punishes the alternative. Change the system and you change the behavior — not by convincing the person to be better, but by making the better behavior the easier behavior. That's structural design. That's the Architect's practice.
 
-Most people have been taught to interrupt this logic. To say *but people should just know better. People should just choose differently. Culture is about individual accountability.* While individual accountability matters, it is not a system design strategy. It is a moral appeal. Moral appeals work until the system incentivizes something else. Then they stop working. The people who made the moral appeal are left wondering why nobody listened — when the answer is simple: the system was louder than the appeal.
+Most people learned to interrupt this logic. To say *but people should just know better. People should just choose differently. Culture is about individual accountability.* While individual accountability matters, it works as a moral appeal rather than a system design strategy. Moral appeals work until the system incentivizes something else. Then they stop working. The people who made the moral appeal wonder why nobody listened — when the answer comes simple: the system was louder than the appeal.
 
-Real structural design is different. Real structural design means looking at the system you're inside and asking: *what is this system actually rewarding? Is that what I want it to reward? If not, where is the actual leverage point for change?*
+Real structural design works differently. Real structural design means looking at the system you're inside and asking: *what is this system actually rewarding? Is that what I want it to reward? If not, where is the actual leverage point for change?*
 
-Then — this is the part most people skip — *and now: how do I redesign the system so the right thing becomes the thing that actually gets done?*
+Then — here comes the part most people skip — *and now: how do I redesign the system so the right thing becomes the thing that actually gets done?*
 
-That's the Architect's practice: the redesign, which is a further step than the analysis. *Here's why this keeps breaking* stops one move short of *here's what we build instead.*
+That's the Architect's practice: the redesign, one step past the analysis. *Here's why this keeps breaking* stops one move short of *here's what we build instead.*
 
 ### Polarity Encounter — Structure ↔ Agency
 

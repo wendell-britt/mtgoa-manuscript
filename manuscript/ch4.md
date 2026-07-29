@@ -291,7 +291,7 @@ Here is the Challenger's 30-second protocol:
 
 First, *feel the charge.* Don't suppress it. Let it arrive — the heat, the tightening. This is information. It tells you that something just mattered.
 
-Second, *aim.* Ask yourself: what line was just crossed? Not the story you could tell about why this person is wrong. The actual line. *That community deserves to be spoken about with accuracy.* That's the line.
+Second, *aim.* Ask yourself: what line did that cross? Not the story you could tell about why this person is wrong. The actual line. *That community deserves to be spoken about with accuracy.* That's the line.
 
 Third, *act.* Name it. Plainly. *"That framing isn't accurate — X community has specifically raised this concern and the data shows Y."* One sentence. No essay. State and hold.
 
@@ -313,15 +313,15 @@ This is the moment for the Reckoning. Not anger — *consequence.* You state the
 
 *"Last time we talked about this, I asked you to stop making jokes about X. It happened again in today's meeting. I want to be direct: if it happens again, I will raise it in the team retrospective. That's where it belongs if it can't be resolved here. I want you to know that before it happens, not after."*
 
-Notice what this is: a clear line, clearly stated, with a consequence clearly named. Not a threat — a *foresight.* You are telling them what you will do before you have to do it. That is the Reckoning. That is the Challenger's sharpest tool.
+Notice the shape of it: a clear line, clearly stated, with a consequence clearly named. Not a threat — a *foresight.* You tell them what you will do before you have to do it. That is the Reckoning. That is the Challenger's sharpest tool.
 
-Most people do not do this because they are afraid of being seen as punitive. The Challenger knows: *not* naming the consequence is not kindness. It is a kindness-deceiving-as-cruelty — because it sets the other person up to cross the line again, not knowing what will follow.
+Most people do not do this because they fear looking punitive. The Challenger knows: *not* naming the consequence is not kindness. It is a kindness-deceiving-as-cruelty — because it sets the other person up to cross the line again, not knowing what will follow.
 
 Name the consequence. Then mean it.
 
 ---
 
-I've been in situations where the line needed to be drawn and I was the one who drew it.
+I've been in situations where the line needed drawing and I drew it.
 
 One of those: a group of Black folks trying to make progress on something that mattered. Good people. Real stakes. One person whose grief about what white people had done was entirely valid and entirely stuck. Every time we moved forward, they pulled us back. They weren't wrong about what they felt. They couldn't work yet.
 
@@ -335,39 +335,39 @@ I don't even remember their name. I can remember their story, but the person ins
 
 I drew the line. I lost the relationship. That's the deal.
 
-What I've watched happen when the line doesn't get drawn is worse. Well-meaning people who had decided their perspective didn't belong in the conversation — keeping their mouths shut while the charge built. Then it found an exit: not as a clean line, but as an explosion. Months of swallowed charge, wrong target, wrong register. Everything stopped in a particular way. They didn't come back after that.
+What I've watched happen when the line doesn't get drawn does more damage. Well-meaning people who had decided their perspective didn't belong in the conversation — keeping their mouths shut while the charge built. Then it found an exit: not as a clean line, but as an explosion. Months of swallowed charge, wrong target, wrong register. Everything stopped in a particular way. They didn't come back after that.
 
 The fire was real. The line was real. Without the practice to draw it clean, the fire just burned everything down.
 
 ---
 
-There is a version of this chapter that gets braced against, and it should be named before we go further.
+A version of this chapter gets braced against, and it should be named before we go further.
 
-Challenger energy gets used as control. Power asserted over people who have less of it, with the vocabulary of directness doing the asserting. That is not a caricature. It happens, it is recognizable on sight, and anyone who has been on the receiving end of it has a good reason to distrust everything this chapter has just taught.
+Challenger energy gets used as control. Power asserted over people who have less of it, with the vocabulary of directness doing the asserting. That is not a caricature. It happens, you recognize it on sight, and anyone who has been on the receiving end of it has a good reason to distrust everything this chapter has just taught.
 
-Here is the conclusion that tends to follow. I am putting it as a proposition rather than a diagnosis, because you are the one who knows whether it is yours: *the clean no is what oppressors do. Drawing lines is how power protects itself. My job is to listen, to make space, to find common ground — not to draw lines.*
+Here is the conclusion that tends to follow. I put it as a proposition rather than a diagnosis, because only you know whether it is yours: *the clean no is what oppressors do. Drawing lines is how power protects itself. My job is to listen, to make space, to find common ground — not to draw lines.*
 
-If that conclusion is running, it produces a consistent result. Common ground gets found, reliably and skillfully. The thing does not get said. A comment goes by. A joke lands wrong and the moment closes over it. The violations continue anyway, because nothing in the conclusion was ever addressed to the person committing them.
+If that conclusion is running, it produces a consistent result. Common ground gets found, reliably and skillfully. The thing does not get said. A comment goes by. A joke lands wrong and the moment closes over it. The violations continue anyway, because nothing in the conclusion ever reached the person committing them.
 
-The part that usually goes unnamed is the price. Not drawing the line is not the neutral option. Every swallowed charge gets paid for by somebody, and rarely by the person who swallowed it. The one doing the crossing learns the line is crossable. Everyone present learns the line does not exist. The swallower learns the thing that is least true of all — that the standing to draw it was never theirs.
+Nobody ever names the price of that. Not drawing the line is not the neutral option. Every swallowed charge gets paid for by somebody, and rarely by the person who swallowed it. The one doing the crossing learns the line is crossable. Everyone present learns the line does not exist. The swallower learns the thing that is least true of all — that the standing to draw it was never theirs.
 
-The standing is there. The people who need the line drawn cannot draw it on your behalf; that is what makes it a line rather than a complaint. What they are reading, in the second after the crossing, is whether anyone present believes the line is real enough to hold.
+You have the standing. The people who need the line drawn cannot draw it on your behalf; that is what makes it a line rather than a complaint. They read, in the second after the crossing, whether anyone present believes the line is real enough to hold.
 
 The Challenger in distortion uses no to control. The Challenger developed uses no to protect — including, sometimes, to protect the person being told no.
 
-The difference is not subtle once you are looking straight at it. Trusting the difference is the harder half, and it is the actual work of this chapter.
+The difference shows plainly once you look straight at it. Trusting the difference is the harder half, and the actual work of this chapter.
 
 ---
 
 ### 3-2-1 — Reclaim the Line You Projected
 
-Before you meet the part that audits your charge, one piece of work belongs here. The conclusion named a few pages back — that the clean no is what oppressors do — does not stay an idea. It gets installed as a figure, and the figure is out there wearing somebody's face.
+Before you meet the part that audits your charge, one piece of work belongs here. The conclusion named a few pages back — that the clean no is what oppressors do — does not stay an idea. It gets installed as a figure, and the figure walks around wearing somebody's face.
 
 You met 3-2-1 in Chapter 3. This is the Challenger's application.
 
 The 3-2-1 practice asks a harder question: *Who is the oppressor in your inner world?* Not who hurt you in history — the **figure** your nervous system built to hold everything you aren't allowed to be. The one who draws lines while you stay pleasant. The colleague who said no without apologizing. The public figure you call domineering. The **inner Challenger you disowned.**
 
-This is not letting real harm off the hook. It is reclaiming the energy you've been spending on a cartoon. Real harm and real accountability stay real — 3-2-1 owns **your** split, not **their** innocence.
+None of this lets real harm off the hook. It reclaims the energy you have spent on a cartoon. Real harm and real accountability stay real — 3-2-1 owns **your** split, not **their** innocence.
 
 The Challenger in distortion controls. The real Challenger protects. 3-2-1 finds which one you're fighting in **them** that's actually **in you.**
 
@@ -410,19 +410,19 @@ Back to the chapter. You didn't become the villain. You recovered the capacity y
 
 ### Name the Voice
 
-One more move belongs here, and it is the smallest one in the chapter.
+One more move belongs here, the smallest one in the chapter.
 
-There is a voice that arrives right before you draw a line. It is not the auditor — the auditor asks a question. This one has already decided. It says the same sentence every time, in the same tone: *do this and you become the difficult one, and what you have with these people will not survive it.* Tight. Pinched. Completely certain.
+A voice arrives right before you draw a line. It is not the auditor — the auditor asks a question. This one has already decided. It says the same sentence every time, in the same tone: *do this and you become the difficult one, and what you have with these people will not survive it.* Tight. Pinched. Completely certain.
 
-Here is the part almost nobody gets told about that voice: it is not lying to you. It is a memory. Somewhere behind it sits a real occasion when pushing did cost something — a relationship that cooled, a table nobody invited you back to. The voice is reporting accurately.
+Here is the part almost nobody gets told about that voice: it is not lying to you. It is a memory. Somewhere behind it sits a real occasion when pushing did cost something — a relationship that cooled, a table nobody invited you back to. The voice reports accurately.
 
 What it gets wrong is the timestamp. It files a past event as live coverage. It stands at the door of the conversation happening now and narrates something that already finished, in the present tense, at the volume of an emergency.
 
-Which is why the move is not argument. You cannot argue a memory out of being a memory, and you would not want to — the memory is true. The move is to name it. Give the voice a name, a slightly ridiculous one if one offers itself, because the ridiculousness is doing real work: it puts a half step between you and the voice. Named, it is something you are hearing. Unnamed, it is simply what you think.
+Which is why arguing gets you nowhere. You cannot argue a memory out of being a memory, and you would not want to — the memory is true. The move is to name it. Give the voice a name, a slightly ridiculous one if one offers itself, because the ridiculousness does real work: it puts a half step between you and the voice. Named, it is something you are hearing. Unnamed, it is simply what you think.
 
 *There you are. I know what you're protecting me from. I can see the event you're referencing. I'm drawing the line anyway.*
 
-The naming does not remove the fear. The naming separates the past from the present. It lets you hold the fear without being the fear — which is the only condition under which you can aim.
+The naming does not remove the fear. The naming separates the past from the present. It lets you hold the fear without being the fear — the only condition under which you can aim.
 
 Find the voice. Give it a name. Say the name out loud.
 

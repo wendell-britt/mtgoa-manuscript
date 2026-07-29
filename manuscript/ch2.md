@@ -8,7 +8,7 @@
 
 The world is not fine.
 
-It shows up closer in than the headlines: the meeting that goes sideways, the community that should have held and doesn't, the low hum of something wrong that arrives ahead of any language for it.
+It shows up closer in than the headlines: the meeting that goes sideways, the community built to hold and doesn't, the low hum of something wrong that arrives ahead of any language for it.
 
 It usually starts small. A conversation that goes wrong. A relationship that fractures over something that shouldn't have been able to break it. A moment when showing up to help turns out to have made it worse.
 
@@ -84,7 +84,7 @@ You cannot draw a boundary you have not felt. You cannot hold someone else's pai
 
 Knowing what you're made of requires going somewhere the world doesn't see. That somewhere is the Forest.
 
-The Forest is the place where the work actually happens: the inner landscape where the daemons wait, where the parts that have been running the show finally get met, and where you can recognize the superpower shaped by your specific history and put it to work.
+The Forest is the place where the work actually happens: the inner landscape where the daemons wait, where you finally meet the parts that have been running the show, and where you can recognize the superpower shaped by your specific history and put it to work.
 
 The world is not fine. The people trying to fix it keep running into the same problem: themselves. This chapter is the threshold map.
 
@@ -119,7 +119,7 @@ For the full game taxonomy and mechanics, see Chapter 1. This chapter uses that 
 
 The Forest is a place you may not realize you've been circling.
 
-A familiar loop runs underneath: the moment after a hard conversation spent rehearsing what you should have said, the 2am inventory of what went wrong, the same pattern surfacing in different rooms, with different people, wearing different faces. That loop is the edge of the Forest.
+A familiar loop keeps running: the moment after a hard conversation spent rehearsing what you should have said, the 2am inventory of what went wrong, the same pattern surfacing in different rooms, with different people, wearing different faces. That loop is the edge of the Forest.
 
 Maybe you did everything the work asked. Showed up. Listened. Went to the training and listened there too. Read the book, adjusted the language, listened harder after that. Asked better questions. Stopped centering yourself, or tried to. Checked the assumptions. Sat with the discomfort. Maybe, somewhere in all of it, holding still became the default.
 
@@ -291,7 +291,7 @@ The Protector works the door of the Forest. You meet it first, the most physical
 
 The instant something reads as a threat — a shift in tone, a move for power — the Protector has already braced to meet it, faster than thought. That speed has kept you alive, and you want to keep it. The next chapter takes up what sets it off and how you learn to steer it.
 
-The trouble: a hull built to survive cannot always tell which century it is in. To the Protector, losing your place in the group registers the same as getting left to die, because for most of human history those were one event. So it runs your social life on survival settings, meeting a hard conversation or a public challenge with machinery built for a predator. That explains the tiredness: it has been holding the whole ship rigid against threats that were never going to sink you.
+The trouble: a hull built to survive cannot always tell which century it is in. To the Protector, losing your place in the group registers the same as getting left to die, because for most of human history those were one event. So it runs your social life on survival settings, meeting a hard conversation or a public challenge with machinery built for a predator. That is why it gets so tired: it has been holding the whole ship rigid against threats that were never going to sink you.
 
 When the Protector holds the joystick, I walk into a conversation already armored, braced against something that has not happened, and the person across from me meets the hull before they meet me. It trades contact for control and calls the trade safety.
 
@@ -301,13 +301,13 @@ When the hull cannot keep a blow out, it does the last thing a hull can do: it t
 
 You do not fight the Protector, and you do not shove past it. You thank it, and you help it tell a real threat from a social one. *Thank you for keeping me alive. This one is not life or death. Show me the one real danger here, if there is any, and let me set a single boundary instead of bracing my whole body.* Do that, and the Protector goes back to its real job — protecting you when you actually need it — and stops running every hard conversation as though your life were on the line.
 
-The difference shows up in a single moment — say someone challenges you in a meeting. On survival settings, the Protector treats the challenge as an attack: you armor up, over-explain to defend your position, and wait for everyone to prove it is safe before you will say anything true. Doing its real job, it lets you name one line — "I'm open to challenge; I'm not available for personal attacks" — and stay in the conversation. It is the same daemon at the same speed, protecting you when there is a real threat and standing easy when there is not.
+The difference shows up in a single moment — say someone challenges you in a meeting. On survival settings, the Protector treats the challenge as an attack: you armor up, over-explain to defend your position, and wait for everyone to prove the ground safe before you will say anything true. Doing its real job, it lets you name one line — "I'm open to challenge; I'm not available for personal attacks" — and stay in the conversation. The same daemon at the same speed, protecting you when a real threat arrives and standing easy when none does.
 
 *Bring one real time the Protector grabbed the joystick before you did: a moment your whole body braced against something that turned out not to threaten your life, or much else. Name the gap between what it prepared for and what was there. Two minutes to capture it as a BAR. → app*
 
 ### Taking the Joystick
 
-You just saw the Protector grab the joystick and meet a hard conversation with machinery built for a predator. It is only the first of the seven, and any of them can end up holding the joystick. When one of them does, it plays the only way it knows how: not to lose. It defends, it performs, it manages how things look, and the person on the other side of your help can feel it. The care underneath is real; what's missing is you on the joystick, while a part of you plays the game on its own.
+You just saw the Protector grab the joystick and meet a hard conversation with machinery built for a predator. It only comes first; any of the seven can end up holding the joystick. When one of them does, it plays the only way it knows how: not to lose. It defends, it performs, it manages how things look, and the person on the other side of your help can feel it. The care underneath is real; the missing piece is you on the joystick, while a part of you plays the game on its own.
 
 The whole of this book is one move, made over and over: getting you back on the joystick. You are the player at the center of the Forest, and reaching that center and taking the joystick are the same motion. Fight your way back to yourself, and your hands close on the joystick in the same instant.
 
@@ -357,7 +357,7 @@ You fold into a verdict about yourself. The Damaged Self takes it: *this is just
 
 Seven parts, each one snatching the joystick from the last, and not one of them is you.
 
-Underneath all of it, at the center, the youngest part of you is still waiting: the player, the one who was supposed to be holding it the whole time. *Please don't leave me here again.*
+Underneath all of it, at the center, the youngest part of you still waits: the player, the one who should have been holding it the whole time. *Please don't leave me here again.*
 
 The whole walk is reaching her: getting to the center where she is, and putting the joystick back in her hands.
 
@@ -374,7 +374,7 @@ The Forest is where you get back to the center. From there, your next move gets 
 
 ---
 
-The practice format in this book — naming where you are now, finding where you want to be, and building the path between them — comes from Gerard Egan's *The Skilled Helper*. Egan spent forty years mapping what skilled helping actually looks like as a reproducible practice, not just a set of good intentions. His three-stage model (current picture, preferred picture, way forward) runs underneath every "Try It Now" in this book. What follows is the first application.
+The practice format in this book — naming where you are now, finding where you want to be, and building the path between them — comes from Gerard Egan's *The Skilled Helper*. Egan spent forty years mapping what skilled helping actually looks like as a reproducible practice, not just a set of good intentions. His three-stage model (current picture, preferred picture, way forward) runs underneath every "Try It Now" in this book. The first application starts here.
 
 ## Try It Now: The First Shaman Move
 
@@ -384,7 +384,7 @@ Don't analyze it yet.
 
 Find it in your body first.
 
-Where does it live? Chest, throat, jaw, belly — somewhere in there is a sensation that hasn't resolved. Find it.
+Where does it live? Chest, throat, jaw, belly — somewhere in there sits a sensation that hasn't resolved. Find it.
 
 Put your hand there if that helps.
 
@@ -392,7 +392,7 @@ Now: what is the sensation? The sensation itself, underneath the story of what h
 
 You don't have to know what it means. You just have to locate it.
 
-That location is data. The Shaman's first move is always the same: find out where the information lives before deciding what to do with it. Before the script. Before the strategy. Before the conversation you're going to have in your head on the way home.
+That location is data. The Shaman's first move never changes: find out where the information lives before deciding what to do with it. Before the script. Before the strategy. Before the conversation you will have in your head on the way home.
 
 *You just made the first move. Before the feeling fades, get down what you noticed, where it lived, and what it might be trying to say. Two minutes to capture it as a BAR. → app*
 
@@ -437,7 +437,7 @@ Within the next two days, say one body-read out loud to another person — and s
 
 That's the whole action. One read, said out loud, to one person who doesn't already know, inside forty-eight hours.
 
-Here is what you're actually doing, underneath the instruction. The part of you that reads a group — the one that clocks when a meeting has gone cold before anyone speaks — has been living in exile. You sent it away because claiming it felt like taking something that wasn't yours. So it reads, and reads, and never gets to speak. Saying it out loud is not a technique. It's how that part comes home: it finds out it's allowed to speak.
+Look at what you're actually doing, underneath the instruction. The part of you that reads a group — the one that clocks when a meeting has gone cold before anyone speaks — has been living in exile. You sent it away because claiming it felt like taking something that wasn't yours. So it reads, and reads, and never gets to speak. Saying it out loud is not a technique. It's how that part comes home: it finds out it's allowed to speak.
 
 (If naming it out loud feels like claiming something that isn't yours, that's the exile talking. Say it anyway. The body that did the reading was yours the whole time.)
 
@@ -473,7 +473,7 @@ Now you have a first map of the daemons you will meet on the way.
 
 The Forest is where those daemons are met and befriended. Six guides know that terrain, and one of their questions may already have landed.
 
-Before you walk on: the work in this book unfolds in four directions — gathering resources, skillful organizing, taking direct action, and raising awareness. All four are real allyship. The full map, and a way to find which direction is calling you right now, is in Appendix A.
+Before you walk on: the work in this book unfolds in four directions — gathering resources, skillful organizing, taking direct action, and raising awareness. All four are real allyship. Appendix A holds the full map, and a way to find which direction is calling you right now.
 
 Add a line to the sheet before you go. In Chapter 1 you wrote down the myth that runs you hardest, the rule you had been playing by without ever agreeing to it. Underneath it, write the daemon that took the joystick first when you ran the five moves, and the job it has been doing for you. Those two lines are the same mechanism seen from two directions, and most of the rest of this book works on the seam between them.
 
