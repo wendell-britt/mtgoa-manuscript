@@ -208,3 +208,123 @@ is the whole inheritance. Wendell's call.
   Discipline. The Regent's warning stands: canon §0 gets the row and `AGENTS.md`
   gets the pointer in the same pass, or the next person inherits a term with no
   paper trail and re-litigates it.
+
+---
+
+## 7 · RESOLUTION — and §5's recommendation is withdrawn
+
+**2026-07-29, after Wendell: "this doesn't feel resolved. Let's take a step back
+and think about how this solves Jordan's problem."**
+
+It did not feel resolved because **the question was mis-framed, and the framing was
+mine.** I asked six Faces *what should we call these?* Five of them dutifully
+minted a noun, because that is what the question asked for. The Sage said the real
+thing out loud — *"the twelve labels are playing writer bookkeeping"* — and §4
+filed it as colour instead of as the finding.
+
+### 7.1 Read one block the way Jordan does
+
+`ch8:355`, complete:
+
+> **Control Move 1: Panoramic Seer — *perspective as performance***
+>
+> **The distortion:** the capacity to see all the games becomes a thing you do for
+> an audience… *Seeing turns into a way of being seen to be wise.*
+>
+> **The pattern:** narrating instead of inhabiting… The body is present. The person
+> is not.
+>
+> **The cost:** you lose the ability to be in the game you're describing… from
+> above you can't serve — you can only report.
+>
+> **The fix:** before you name the game, check. *Am I naming this to serve, or to
+> show that I'm above it?* If it's the second, drop the naming, get your feet under
+> you, then name.
+
+**That block is among the best things in the book for Jordan.** Her stated fear is
+*"I'm doing more harm than I know."* This says: here is exactly how your best
+capacity becomes harm, here is what it costs, here is the one question that catches
+it. She stops for "a named move with a practice" — the name is *Panoramic Seer —
+perspective as performance*, the practice is *before you name the game, check*.
+
+**And the only untranslated jargon in the whole block is the two words
+`Control Move`.** Strip them and Jordan loses nothing at all.
+
+### 7.2 The label fails all three of Jordan's documented triggers
+
+| her trigger | what a category noun does |
+|---|---|
+| **jargon without translation** (#1) | `Discipline` / `Check` / `Control` is one more term to teach. Removing it removes the block's only untranslated word. |
+| **claims without practice** | the block already carries a name *and* a practice. The prefix adds neither. |
+| **moralizing** (#3) | *Discipline*, aimed at a reader who already fears she is doing harm, lands on the fear. Both proposers flagged this and I under-weighted it. |
+
+On every one of her three criteria, **no noun beats any noun.** The Architect was
+right, and for a better reason than it gave: it argued that typography taxonomizes.
+The stronger argument is that the noun is the only thing in the block Jordan cannot
+read.
+
+### 7.3 The real gap, which no naming decision touches
+
+Measured across all twelve blocks:
+
+| | four-beat form: distortion / pattern / cost / fix |
+|---|---|
+| **ch8**, 5 blocks | **5 of 5** |
+| **ch7**, 7 blocks | **0 of 7** |
+
+**ch7 has the label and not the form. ch8 has the form and needs no label.**
+
+ch7 instead carries three jargon insertions per block — *"the Bridge-Builder's
+Control challenge"*, *"The Neutral Channel pattern is"*, *"The Control move:"* —
+and no repeatable shape.
+
+**So the difference between the two chapters was never the naming convention. It
+is that ch8 has a block form that ends in a practice and ch7 does not.** Two
+panels and twelve agents argued about a prefix while the actual reader-facing gap
+sat one layer down.
+
+### 7.4 The gloss is already written, in plain English, in the book
+
+`ch7:219`:
+
+> *"…**This fixes structure, not emotion.** Bridging has a real cost, and the
+> Control move names that cost before warmth turns into depletion."*
+
+Six panelists proposed six glosses. **The book already had one**, in Jordan's
+register, with no new term in it.
+
+### 7.5 What actually ships
+
+**R1 — no category noun.** Not `Discipline`, not `Check`, not `Distortion`, not
+`Control`. The header is the named move and nothing else:
+
+```
+ch8:355  **Control Move 1: Panoramic Seer — *perspective as performance***
+      →  **Panoramic Seer — *perspective as performance***
+
+ch7:215  **[CONTROL] Control 1 — Untracked Depletion Pattern**
+      →  **Bridge-Builder — *untracked depletion***
+```
+
+**R2 — port ch8's four beats into ch7's seven blocks.** This is the substantive
+work and the only part that is a prose pass rather than a relabel. It is also the
+part that serves Jordan, because it is what turns a paragraph into a named move
+with a practice.
+
+**R3 — promote ch7:219's own sentence to the once-per-chapter gloss.** *"These
+fix structure, not emotion"* — placed at first use in ch7 and ch8. No new
+vocabulary, so nothing to teach and nothing to regenerate.
+
+**R4 — strike ch7's three jargon phrases** in the same pass: *Control challenge*,
+*Neutral Channel pattern*, *The Control move*.
+
+### 7.6 What the panel got right, and keep
+
+The panel was not wasted. It killed `Control` 6–0 on canon's own closing line
+(§2.1), killed option A with the Shaman's *you cannot Transmute or Translate a
+zero* (§2.3), verified that nothing in the deck indexes these by number (§3.6),
+and surfaced the ch7:239/284 collision (§3.2). **All of that stands.** What is
+withdrawn is only §5's recommendation to mint a replacement noun.
+
+The Regent's warning also stands and is now cheap to satisfy: the slot has had
+three names in a week, so canon §0 records that **the answer is no fourth name**.
