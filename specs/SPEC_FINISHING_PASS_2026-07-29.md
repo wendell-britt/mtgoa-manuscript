@@ -322,6 +322,15 @@ enrollment page, author's-note dates.
 7. **R7 — Say-the-noun calibration authority.** Which of the 28 candidates are
    corrections; the ch7 margin note's *"the honest version"* specifically —
    defect or deliberate echo.
+9. **R9 — the six Head biography facts** (`marginalia/specs/HEAD_REGISTERS.md`).
+   Deferred by ruling on 2026-07-29: the placeholders ship in the working tree
+   and get filled later. **Two are live in canon right now** — `⟦ASH-AGE⟧` and
+   `⟦ASH-SPAN⟧` in ch4's Section 3 — and four more (`⟦VOSS-SPAN⟧`,
+   `⟦QUILL-CLAUSE⟧`, `⟦VALE-SYSTEM⟧`, `⟦ORR-DEFLECTION⟧`) arrive as W3 reaches
+   those chapters. `instruments/gate.py` now carries a `tokens` counter that
+   fails on any surviving `⟦`; it is the only thing between a placeholder and
+   the typesetter, so **the gate cannot be declared green until R9 is closed.**
+
 8. **R8 — ch3:740 A0 hit** (*"a time you were told something true"*): license
    as recall-prompt or rewrite.
 

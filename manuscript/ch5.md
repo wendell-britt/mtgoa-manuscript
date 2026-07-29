@@ -146,7 +146,7 @@ It is what makes the things you build last longer than you do.
 
 You already have a version of what "tradition" means. You've been carrying it since the last time someone used it against you.
 
-It's not nostalgia. That's the village version — the version that says "we do it this way because we've always done it this way." That version treats tradition as a *relic* — something preserved because it's old, not because it works. That's not the Regent's practice. That's a cargo cult of the Regent's practice.
+The village keeps tradition instead of passing it on: "we do it this way because we've always done it this way." That treats a practice as a *relic* — preserved because it is old, rather than because it works. It is a cargo cult of the Regent's practice.
 
 The Regent's actual practice is something harder and more alive: **the deliberate passing down of what works, across time, so that the next person doesn't have to figure it out from scratch.**
 

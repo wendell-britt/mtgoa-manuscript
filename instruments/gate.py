@@ -25,6 +25,10 @@ COUNTERS = [
     ("A0", r'you (were|was) (taught|told|raised|trained)|somewhere along the way'
            r'|the village taught you', re.I),
     ("stacks", r'\bNot [^.!?]{1,60}[.!?]\s+(Not|Never|No)\b', 0),
+    # Unfilled HEAD_REGISTERS biography placeholders. Deliberately introduced by
+    # W6 and must not survive to print — see R9. This counter is the only thing
+    # standing between a token and the typesetter.
+    ("tokens", r'⟦[^⟧]*⟧', 0),
 ]
 
 

@@ -129,7 +129,7 @@ Doing the right thing in the wrong system is a specific kind of expensive. Recog
 ## Section 3: The Concept
 ### *What Structural Design Actually Is (And Why It's Not What You've Been Told)*
 
-The village version of *structural design* is organizational design — the org chart, the RACI matrix, the role description, the meeting cadence. Those are outputs of structural thinking, not structural thinking itself. You can have all those things and still have a broken system.
+The village reduces structural design to its outputs: the org chart, the RACI matrix, the role description, the meeting cadence. Those are what structural thinking produces, not structural thinking itself. You can have all of them and still have a broken system.
 
 Structural design is the practice of understanding *why* a system produces the outcomes it produces — and redesigning the system so that the right outcome becomes the natural outcome.
 

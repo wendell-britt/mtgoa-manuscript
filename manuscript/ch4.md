@@ -104,7 +104,7 @@ What the village did not realize was that it was trading the capacity to draw li
 
 You already have a version of the clean no. You've been calling it something else.
 
-It's not aggression. That's the village version — the Challenger as the angry one, the difficult one, the one who makes things worse before they get better. The Challenger as someone who says no because they want to win. That version exists, and you've probably met them, and they are not what we're talking about here.
+The village hears the clean no as aggression: the angry one, the difficult one, the one who makes things worse before they get better, someone who says no because they want to win. I was told that at ⟦ASH-AGE⟧, by people who meant well, and I believed them for ⟦ASH-SPAN⟧. The version they were describing does exist, and you've probably met them, and it is not what we're talking about here.
 
 The clean no is something different. The clean no is the practice of **stating a boundary without apologizing for it, collapsing it, or converting it into a request.**
 

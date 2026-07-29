@@ -88,7 +88,7 @@ Each mode's full arc — the dissatisfaction it carries and the alchemy that tra
 
 There is a version of "terms" you have already met, and it is why this chapter has to define the word before it can use it.
 
-The village version is the ultimatum. Terms are what someone says when they have decided to leave and want you to know it is your fault. Terms come with a deadline attached and a threat underneath. They are what the person with leverage produces at the end of a negotiation that was never a negotiation. That version of the word is real — people do this — and it is the reason a certain kind of capable, relationally fluent person will run an entire career without ever naming a single term of her own. She has seen what terms look like in the hands of someone playing a power game. She has decided not to be that.
+The village hardens terms into ultimatums. Terms are what someone says when they have decided to leave and want you to know it is your fault. Terms come with a deadline attached and a threat underneath. They are what the person with leverage produces at the end of a negotiation that was never a negotiation. That version of the word is real — people do this — and it is the reason a certain kind of capable, relationally fluent person will run an entire career without ever naming a single term of her own. She has seen what terms look like in the hands of someone playing a power game. She has decided not to be that.
 
 That decision is not cowardice, and it is not a failure of nerve. It is an accurate reading of a specific misuse. The problem is what it costs to generalize from it.
 
