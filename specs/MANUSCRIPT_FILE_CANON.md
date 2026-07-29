@@ -115,6 +115,60 @@ Front matter, table of contents, and back matter are also unwritten.
 
 Banned words: *room*, *quiet*, *quietly*, *genuinely*. (*Genuine* is not banned.) No sentence opens with *And* or *But*. The "Not X. Not Y." negation stack is banned. "Make room" becomes "make space." Never narrate the reader's unnamed history back to her as fact.
 
+### The three grammar moves — run `instruments/prose_diet.py` on new prose
+
+Named 2026-07-29. These are the structures a generated draft reaches for when it
+wants to sound like a finished sentence without committing to one. They are
+nearly invisible line by line and obvious in aggregate, which is the only reason
+they were caught: the W7 rewrites put ~1,300 words of new prose side by side.
+
+**Measured, against the book's own baseline:**
+
+| | book | the W7 rewrites | |
+|---|---|---|---|
+| be-verbs /1k | 50.3 | 84.9 | **+69%** |
+| copula as main verb | 29.1% | 53.8% | **+85%** |
+| *it* /1k | 30.0 | 41.3 | **+38%** |
+| article + nominalization /1k | 16.5 | 28.3 | **+71%** |
+
+The finding stands. Generated replacement prose leans on all three markedly
+harder than the prose it was inserted into, and it does so *while passing every
+other gate in this repo*.
+
+**1 · "is" — unless you are defining a term.** A be-verb is where the action went
+missing. Lanham's Paramedic Method: box every be-verb, circle the prepositions,
+then ask *who is kicking whom* and put the doer in the subject. Williams: the
+subject should name a character and the verb should name what that character
+does. Defining a new term is the licensed case — *"Force means spending yourself
+on a crossing"* — and this book defines a great many terms, so the copula is not
+banned. It is rationed.
+
+**2 · "it" — only where you can point at the noun.** Sword's rule is literal:
+use *it* and *this* only when you can state exactly which noun each refers to.
+The standard editorial drill is to circle every *it / this / that / which* and
+draw an arrow to its antecedent; anything with no arrow gets rewritten. Watch
+especially for **broad reference**, where *it* stands in for a whole preceding
+clause. That is the shape that reads fluently and means nothing, and it is the
+one to cut first. *It is / There is* openers are the worst case — a subject
+slot filled by a placeholder.
+
+**3 · Articles fronting nominalizations.** Sword calls these zombie nouns:
+verbs turned into nouns, which then need a be-verb to prop them up and an
+article to introduce them. *The maintenance of*, *a recognition that*. The
+article is the tell, which is what makes them findable. Turn the noun back into
+a verb and the be-verb usually disappears with it — the three moves are one
+problem.
+
+Williams licenses nominalization when it refers back to a previous sentence,
+replaces an awkward *the fact that*, names what would be the object of a verb,
+or names a concept already familiar to the reader. So this is a candidate
+finder, never a gate. **`the thing` appears 132 times in this manuscript** and
+is the same defect `review.py` reports as say-the-noun.
+
+Sources: Richard Lanham, *Revising Prose*; Joseph M. Williams, *Style: Lessons
+in Clarity and Grace*; Helen Sword, *The Writer's Diet* and "Zombie Nouns"
+(NYT, 2012).
+
 ### Fixing a denying negation — the four moves, in one pass
 
 Established 2026-07-29 by doing it wrong three times in a row. A denying
