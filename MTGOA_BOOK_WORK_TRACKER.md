@@ -1,6 +1,6 @@
 # Book Work Tracker — MTGOA
 **Created:** 2026-04-14
-**Last Updated:** 2026-06-06
+**Last Updated:** 2026-07-29
 **Status:** All 8 chapters complete — Editorial Pass Phase
 
 ---
@@ -270,6 +270,52 @@ Status:
 ## Editorial Pass Queue (Ordered by Priority)
 
 ### P0 — Must Fix Before Any Other Editorial Work
+
+**🔴 A1 — Strip the deprecated bracket move tags (28) and settle *Neutral Channel***
+- **Priority: HIGH. Print blocker.** Set 2026-07-29 by Wendell.
+- Spec: `specs/SPEC_BRACKET_TAGS_2026-07-29.md`
+- Files: `manuscript/ch7.md` (23 tags), `manuscript/ch8.md` (5 tags), `AGENTS.md`
+- Issue: `**[DISSATISFACTION → SATISFACTION]**`, `**[TRANSLATE]**` and
+  `**[CONTROL]**` are production tags in shipped prose. Deprecated 2026-06-03 by
+  `SPEC_WB8_ARTIFACT_SWEEP`, signed off as complete, and still in the book: the
+  fix landed in the retired `chapters/` tree and the acceptance grep only looked
+  there. ch1–ch6 and ch9 carry none, so two of nine chapters ship a mechanic the
+  rest of the book does not use.
+- Reader impact: none of the terms in the tag is ever defined in the manuscript.
+  Jordan's logged number-one drop-off trigger is jargon without translation.
+- Steps, in order:
+  1. **BLOCKING — Wendell's call.** Does the name *Neutral Channel* belong to
+     Earth/Neutrality (the emotional channel taught in ch3) or to the structural
+     Control move type (ch7's 11 uses)? The April ruling in
+     `LEARNING_METABOLISM_CH6` §14 says *"NOT an emotion type."* The July ruling
+     says *"one of the emotional alchemy channels."* Both cannot describe the same
+     eleven lines. **Nothing else here should be edited until this is answered**,
+     because the answer decides whether step 4 is one sentence or eleven headers.
+  2. Strip all 28 brackets. Mechanical, one script, abort-before-write.
+  3. Settle the ch7 format split in the same pass: Bridge-Builder uses
+     `Translate 1` / `Control 1`, the other four channels use `— From X to Y` /
+     `— Neutral Channel: X Pattern`. Both forms currently ship. Recommend the
+     numbered form throughout, to match `Alchemy 1` / `Alchemy 2` beside it.
+  4. Define or relabel per step 1.
+  5. Fix `AGENTS.md` EA Standards, which still documents the bracket as canon.
+     **Without this the tags regenerate** and step 2 is temporary.
+- Check: `grep -c "\[DISSATISFACTION\|\[TRANSLATE\]\|\[CONTROL\]" manuscript/ch*.md`
+  reads 0, and the same grep on `AGENTS.md` reads 0. Against `manuscript/`, never
+  against a parallel tree — that scoping error is what hid this for two months.
+
+**🔴 A2 — Re-verify every WB-* artifact sweep against `manuscript/`**
+- **Priority: HIGH.** Opened by A1, same root cause.
+- Issue: `SPEC_WB8_ARTIFACT_SWEEP` was fully signed off and fully false where the
+  book lives, because its acceptance greps were scoped to `chapters/`. That tree
+  is now retired, so any sweep verified the same way is unverified today.
+- Fix: re-run each sweep's acceptance greps against `manuscript/` and record what
+  fails. Do not assume a checked box means a fixed book.
+
+**NOTE — the two P0 items below predate the `manuscript/` canon and cite retired
+paths.** `chapters/` was retired at `4172d7a`. Both need re-scoping against
+`manuscript/` before anyone works them, and both may already be done — this is
+exactly the A2 problem.
+
 
 **Ch6 Channel Reorder + Format Normalization**
 - File: `ch6-diplomat/CHAPTER6_DIPLOMAT_FULL_DRAFT_MASTER.md`

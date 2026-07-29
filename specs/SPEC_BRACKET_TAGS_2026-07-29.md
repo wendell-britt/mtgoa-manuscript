@@ -149,11 +149,62 @@ system.
 **D3 — fix `AGENTS.md` EA Standards** to the stripped form, with a line saying
 the bracket is deprecated and why. Without this, D1 is temporary.
 
-**D4 — define *Neutral Channel* on first use, or cut the term.** 11 uses, one
-chapter, no definition. Cutting is likely right: each instance already names the
-pattern in plain words right after it (*presence collapse*, *premature closure*,
-*endless process*), so the term is a category label doing no work the label
-underneath it is not already doing.
+**D4 — RULED 2026-07-29: keep *Neutral Channel*.** Wendell: *"We should keep the
+neutral channel because it's one of the emotional alchemy channels."* The
+cut-the-term option in the first draft of this note is withdrawn. It was wrong,
+and it was wrong in the way this whole note is about: it read a term as
+decoration because the term was undefined in the book, when the term names a real
+part of the system.
+
+**But the ruling collides with how ch7 actually uses the words, and the collision
+has to be settled before anything is edited.** Two different referents currently
+share one name.
+
+**Referent A — Earth/Neutrality, an emotional channel.** Taught in ch3 and real:
+
+> ch3:868 · The five channels — Metal/Fear, Water/Sadness, Wood/Joy, Fire/Anger,
+> **Earth/Neutrality** — tell you which teaching a given charge carries
+>
+> ch3:394 · | **Earth** | Neutrality | Whole-system perspective; detachment | …
+>
+> ch3:428 · **Neutrality completes into peace.** Numbed, neutrality is checking
+> out; opened to the whole, it completes into peace
+
+**Referent B — what ch7 labels *Neutral Channel*, 11 times.** Every instance
+labels a **Control** move, and the content of all six is behavioral:
+*performative presence*, *intellectual superiority*, *presence collapse*,
+*premature closure*, *endless process*, *false closure*. None is
+neutrality-as-perspective. And `LEARNING_METABOLISM_CH6_2026-04-20.md` §14 rules
+the opposite of the ruling above, in as many words:
+
+> **Rule:** The Neutral Channel refers to behavioral/structural patterns (e.g.
+> untracked depletion, vague threat-pattern, collapse) **NOT an emotion type.**
+> **Why it matters:** Confusion between structural patterns and emotional
+> categories leads to mislabeling moves and incorrect frames.
+
+So the April ruling says *not an emotion type* and the July ruling says *one of
+the emotional alchemy channels*. **Both cannot describe the same eleven lines.**
+That §14 note also records that this exact ambiguity already caused mislabelled
+moves once, during drafting — which is the argument for settling it rather than
+patching around it.
+
+**The open question, and it is Wendell's:** does the name *Neutral Channel* belong
+to Earth/Neutrality, or to the structural Control move type?
+
+- **If Earth/Neutrality** (which is what the July ruling says on its face), then
+  ch7's 11 uses are the misnomer. They need a different label for the Control
+  move type — the prose beside them already supplies one, *"the Bridge-Builder's
+  Control challenge runs on depletion"* — and Earth/Neutrality needs a definition
+  on first use in ch7, which it does not currently have.
+- **If the Control move type**, then ch7 is correct as written, §14 stands, and
+  what is missing is only the definition: one sentence on first use in ch7 saying
+  what a Neutral Channel move is and why *neutral* means channel-neutral rather
+  than the Earth channel. That is the smaller fix, and it needs the disambiguating
+  sentence precisely **because** ch3 has already taught Neutrality as a channel
+  eighty pages earlier.
+
+Either way the term stays, per the ruling. What the answer changes is whether
+this is a one-sentence gloss in ch7 or a relabelling of eleven headers.
 
 **D5 — the deprecated-mechanic sweep this implies.** WB-8 was one artifact sweep
 that was verified in the wrong tree. Nothing has re-run it against `manuscript/`.
