@@ -2,17 +2,43 @@
 """
 The standing voice gate from specs/MANUSCRIPT_FILE_CANON.md, as an instrument.
 
-Scores body text and marginalia separately, because they are different registers
-by different hands and a combined number hides which one regressed. Every counter
+Scores each surface separately, because they are different registers by
+different hands and a combined number hides which one regressed. Every counter
 must read 0. Exits non-zero on any hit, so it can gate a commit.
 
-    python3 instruments/gate.py            # both surfaces, summary
-    python3 instruments/gate.py -v         # quote every hit with context
+Three surfaces, because three surfaces get printed:
+
+  body        manuscript/ch1.md-ch9.md with the marginalia frame stripped
+  marginalia  the frame blocks only
+  appendices  appendices/APPENDIX_*.md and the back matter
+
+The appendices surface was added 2026-07-29. Until then the gate read only
+manuscript/, so ~9,000 words of shipping prose had never been held to the
+standing list. Suppress it with --no-appendices when you are measuring a
+chapter edit in isolation.
+
+    python3 instruments/gate.py                  # every printed surface
+    python3 instruments/gate.py -v               # quote every hit with context
+    python3 instruments/gate.py --no-appendices  # chapters only, the old behavior
 """
 import re, io, os, sys, glob
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-MS = os.path.join(HERE, os.pardir, "manuscript")
+ROOT = os.path.join(HERE, os.pardir)
+MS = os.path.join(ROOT, "manuscript")
+APX = os.path.join(ROOT, "appendices")
+
+# The appendices that ship. Everything else in appendices/ is a backup, an
+# architecture decision record, or a review artifact, and is not printed.
+SHIPPING_APPENDICES = [
+    "APPENDIX_A_FOUR_ALLYSHIP_DOMAINS.md",
+    "APPENDIX_B_QUESTS_CAMPAIGNS.md",
+    "APPENDIX_C_KEY_TERMS.md",
+    "APPENDIX_D_EMOTIONAL_ALCHEMY_PRACTICES.md",
+    "APPENDIX_E_321_SHADOW_PROCESS.md",
+    "APPENDIX_F_POLARITY_MAP.md",
+    "ON_THE_SHOULDERS_OF.md",
+]
 BLOCK = re.compile(
     r"<!-- (MARGINALIA|EPIGRAPH-BYLINE|POSTCARD) -->\n(.*?)\n<!-- /\1 -->", re.S)
 
@@ -51,6 +77,14 @@ def main():
         b, m = split_surfaces(io.open(f, encoding="utf-8").read())
         surfaces["body"] += "\n" + b
         surfaces["marginalia"] += "\n" + m
+
+    if "--no-appendices" not in sys.argv:
+        text = ""
+        for name in SHIPPING_APPENDICES:
+            path = os.path.join(APX, name)
+            if os.path.exists(path):
+                text += "\n" + io.open(path, encoding="utf-8").read()
+        surfaces["appendices"] = text
 
     names = [n for n, _, _ in COUNTERS]
     print("%-12s %s" % ("surface", " ".join("%8s" % n for n in names)))
