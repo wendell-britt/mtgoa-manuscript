@@ -47,9 +47,9 @@ The ones who finished changed their relationship to the emotions that had been m
 
 The book in your hands came from the bottom of that well. The spite did not produce it. Proving I was right did not produce it. It came from the moment I connected back to myself after failing to make money or create the allies I'd wanted to create — and found that I'd learned something true about the places where my own unresolved stuff had been limiting my allyship.
 
-The Sage isn't the person who sees furthest. It's the person who looked at himself long enough to stop performing the view.
+The Sage sees furthest and has looked at himself long enough to stop performing the view.
 
-That is the thesis, and it comes with a limit case attached. This chapter applies when your allyship has become fluent enough to risk turning into performance, superiority, or escape. It does not apply when harm is happening in front of you. In that case, do not sit there polishing your interiority. Draw the line, call the help, interrupt the damage. Inner work is not a delay tactic. It is the thing that keeps the response clean enough to still be usable tomorrow.
+That is the thesis, and it comes with a limit case attached. This chapter applies when your allyship has become fluent enough to risk turning into performance, superiority, or escape. It does not apply when harm is happening in front of you. In that case, do not sit there polishing your interiority. Draw the line, call the help, interrupt the damage. Inner work takes time, which is why it reads as delay, and it buys a response that still works tomorrow.
 
 ---
 
@@ -87,7 +87,7 @@ The Sage had not decided that. The Sage had decided something different: *I see 
 
 This is the Sage's oldest wound. The capacity to see all the games without leaving any of them — and the village reading that as contradiction. The gift mistaken for its opposite, every time.
 
-Here's what the village didn't know: the Sage was not contradicting themselves. The Sage was answering a different question. The village was asking: *are you in the game or are you wise?* The Sage was saying: *those are not different questions. The wise thing to do is to be inside the game, seeing clearly, choosing deliberately, not mistaking your game for the only game there is.*
+Here's what the village didn't know: the Sage was answering a different question than the one the village thought it had asked. The village was asking: *are you in the game or are you wise?* The Sage was saying: *those are not different questions. The wise thing to do is to be inside the game, seeing clearly, choosing deliberately, not mistaking your game for the only game there is.*
 
 The village wanted wisdom to look like departure. The Sage kept showing up like it was simple.
 
@@ -306,9 +306,9 @@ Five modes, five channels, no overlap. The Sage's practice runs the full spectru
 
 Underneath the Panoramic Seer's first failure is the fear that what you see will be smaller than what you hoped. That the field you've opened to is just a handful of tired people, that the altitude you glimpsed is a ceiling, that everyone present already decided what they're doing and the seeing was a way to feel above it.
 
-The fear is real and the blank field is possible. *The contraction is the body reporting honestly on what it's actually taking in — and what it's taking in is the gap between what this could be and what it is.* That gap is not the end of the view. It's the beginning of the work.
+The fear is real and the blank field is possible. *The contraction is the body reporting honestly on what it's actually taking in — and what it's taking in is the gap between what this could be and what it is.* That gap is where the work begins.
 
-The alchemy: you feel the field close down, you name it as a report rather than a prophecy, and you let the contraction sharpen your interest. *What is actually here? Who is actually present, and what are they actually carrying?* The wonder is not the field turning out to be bigger than it looked. It's the field being exactly what it is, and you being able to stay curious about that.
+The alchemy: you feel the field close down, you name it as a report rather than a prophecy, and you let the contraction sharpen your interest. *What is actually here? Who is actually present, and what are they actually carrying?* The wonder is the field being exactly what it is, and you being able to stay curious about that.
 
 ---
 **Alchemy Move 2: Game-Switcher**
@@ -318,7 +318,7 @@ Underneath the Game-Switcher's first failure is the rage at being somewhere that
 
 The anger is real, and the situation is sometimes exactly that limited. *The judgment is accurate, and it is also the trap — because the moment you are above them, you cannot be with them, and this practice is always about being with.*
 
-The alchemy: you feel the arrogance rise, you name it — *I am using the altitude to make distance instead of service* — and you let the judgment become the capacity to meet them. *What altitude are they actually at, and what would it mean to go there with them rather than at them?* The triumph is not the view from above. It's going down and coming back without feeling diminished by the trip.
+The alchemy: you feel the arrogance rise, you name it — *I am using the altitude to make distance instead of service* — and you let the judgment become the capacity to meet them. *What altitude are they actually at, and what would it mean to go there with them rather than at them?* The triumph is going down and coming back without feeling diminished by the trip.
 
 ---
 **Alchemy Move 3: Diagnostician**
@@ -338,7 +338,7 @@ Underneath the Liberator's first failure is something almost nobody names out lo
 
 This is stuck Joy, and stuck Joy is the hardest of the five to catch, because it doesn't feel like a problem. It feels like commitment. *I am the person who holds this together* is the sentence, and the sentence is enjoyable to say.
 
-The alchemy: you notice that the joy has fused to this particular game rather than to playing, and you name it — *I don't want to give this up because giving it up means being someone who doesn't do this anymore.* Then you let the attachment loosen from the object. The game was yours for a time, the time was real, and the ending is not the same as the failure. The game taught you what it had to teach. The bliss is not the game continuing. It's the discovery that the aliveness was never the game's property — it was yours, and it travels.
+The alchemy: you notice that the joy has fused to this particular game rather than to playing, and you name it — *I don't want to give this up because giving it up means being someone who doesn't do this anymore.* Then you let the attachment loosen from the object. The game was yours for a time, the time was real, and the ending is not the same as the failure. The game taught you what it had to teach. The bliss is the discovery that the aliveness was never the game's property — it was yours, and it travels.
 
 ---
 **Alchemy Move 5: Returner**
@@ -346,9 +346,9 @@ The alchemy: you notice that the joy has fused to this particular game rather th
 
 Underneath the Returner's first failure is the sadness of leaving the view. You've seen from Teal — the whole map, where everyone is, why they're stuck, what altitude they're operating from — and now you have to come back to a table that doesn't see it.
 
-The sadness is not weakness. It's the cost of the gift. The Sage who has been up can't unsee it, and coming back down means sitting with people while you can see exactly what's happening and they can't, and finding a way to say it that doesn't leave them feeling seen-and-judged. That's the work. That's the price.
+The sadness is real, and it's what the gift costs. The Sage who has been up can't unsee it, and coming back down means sitting with people while you can see exactly what's happening and they can't, and finding a way to say it that doesn't leave them feeling seen-and-judged. That's the work. That's the price.
 
-The alchemy: you feel the loss of altitude — the way things look smaller from inside than they did from above — and you let the sadness become tenderness. *I see it from here. I saw it from up there. I'm here, with you, and the seeing is still mine.* The poignance is not the loss. It's the moment where the distance between what you see and where they are becomes the place love happens. You came back. That's the love.
+The alchemy: you feel the loss of altitude — the way things look smaller from inside than they did from above — and you let the sadness become tenderness. *I see it from here. I saw it from up there. I'm here, with you, and the seeing is still mine.* The poignance is the moment where the distance between what you see and where they are becomes the place love happens. You came back. That's the love.
 
 ---
 
@@ -483,7 +483,7 @@ Once difference is defect, the remit widens on its own, and it widens in a direc
 
 Here is why this daemon stands where it stands, in a book about allyship. Allyship run by a Damaged Self is allyship that is permanently in preparation. There is always one more thing to work through before you're clean enough to be useful. Meanwhile the person you meant to stand beside is waiting on a repair schedule they were never shown and cannot influence. That's the structural cost, and it doesn't require any bad intent to produce. It requires only the belief that you're the part of the system that isn't working yet.
 
-This is where the chapter's myth lives: that allyship is a matter of having the right framework. The Damaged Self is the daemon that makes framework-collection feel like healing. If the instrument is broken, the fix is a better map. So you get another one, then another. Each map is good, each one explains more than the last, and the accumulation is not knowledge — it's a prosthetic for a defect that was a difference the whole time. The bookshelf is the symptom. The bookshelf looks exactly like diligence.
+This is where the chapter's myth lives: that allyship is a matter of having the right framework. The Damaged Self is the daemon that makes framework-collection feel like healing. If the instrument is broken, the fix is a better map. So you get another one, then another. Each map is good, each one explains more than the last, and the accumulation is a prosthetic for a defect that was a difference the whole time. The bookshelf is the symptom. The bookshelf looks exactly like diligence.
 
 The cost lands precisely where this chapter cannot afford it. You lose the capacity to be developed by anyone. Somebody offers you something — a correction, a piece of feedback, an opening — and it doesn't get received as input, because input is for functioning systems. It gets received as further evidence, filed against the defect, and answered with a map. The Face whose superpower includes coaching is, in shadow, the least coachable thing in the book.
 
@@ -491,7 +491,7 @@ You do not fire the Damaged Self. Fire the part of you that registers difference
 
 *Keep the reading. Something in me runs differently, and that is usually accurate and sometimes the whole instrument. What the reading does not do is decide what is allowed to grow in me, and it does not get to answer a question about capacity with a question about repair.*
 
-Then put a limit on it, because an open repair schedule is the shadow's whole method. The Challenger's deadline is a breath. The Regent's is a cycle. The Architect's is a stage. The Diplomat's is one sentence. The Sage's is not measured in time at all, which is the last joke this Forest plays on you: *you get one map.* One framework per live problem. When you reach for the second map for the same problem, that is not deepening. That is the Damaged Self with the joystick, and the tell is that the second map arrives before anything has been tried with the first.
+Then put a limit on it, because an open repair schedule is the shadow's whole method. The Challenger's deadline is a breath. The Regent's is a cycle. The Architect's is a stage. The Diplomat's is one sentence. The Sage's is not measured in time at all, which is the last joke this Forest plays on you: *you get one map.* One framework per live problem. When you reach for the second map for the same problem, that is the Damaged Self with the joystick, and the tell is that the second map arrives before anything has been tried with the first.
 
 It shows up in a single beat. Someone asks you for help with something real. Something in you goes wide and attentive — the Panoramic Seer arriving on time, doing its job. Then the Damaged Self opens underneath it, and what surfaces is not doubt; doubt you would catch. What surfaces is a project. *I know exactly what's happening here, and I know it because I've been the broken version of it.* So you hand them the map. The map is good. The map is also the fourth one this quarter, and nobody has ever asked you for a map. What they asked for was a hand. The conversation ends well. They leave with reading. On the narrow jurisdiction, the same part returns the same accurate report and the answer changes: *I run differently, which is why I can see this, and what I'm going to do about it is sit here and ask you a question.*
 
@@ -527,7 +527,7 @@ The tell is never the content of the self-assessment. Self-assessments are suppo
 
 The Damaged Self developed does one thing nothing else in this chapter can do: it lets you know that you are configured differently and decline to treat that as a qualification or a disqualification. Just a fact about the instrument, held steady, informing the work without ruling on it.
 
-That combination is what makes the Sage's superpower possible, and the superpower is a compound for a reason. The Escape Artist half is the capacity to get out of a game — to put down a fight, a role, an identity that was load-bearing once, without needing the exit to be a verdict on the game or on yourself. The Coach half is what the exit makes available. A coach who cannot leave the game is not coaching. They are recruiting, and everything they offer arrives with their own stake attached to it. The reason the escape has to come first is that developing another person requires you to want something for them that you do not need for yourself, and you cannot want that while you are still playing for something.
+That combination is what makes the Sage's superpower possible, and the superpower is a compound for a reason. The Escape Artist half is the capacity to get out of a game — to put down a fight, a role, an identity that was load-bearing once, without needing the exit to be a verdict on the game or on yourself. The Coach half is what the exit makes available. A coach who cannot leave the game is recruiting, and everything they offer arrives with their own stake attached to it. The reason the escape has to come first is that developing another person requires you to want something for them that you do not need for yourself, and you cannot want that while you are still playing for something.
 
 Put them together and you get the thing the last chapter of a book about allyship actually needs: someone who can be in it fully, get out cleanly, and stay useful to the people still inside. Still in the game, still playing it, and free enough inside it to have both hands available for somebody else.
 
@@ -592,11 +592,11 @@ I've watched this at the coalition level. A planning team keeps trying to proces
 
 This is the Sage's most underrated move. Coming back to a narrower game — staying with people in the game they can actually be in — without treating them as less, without making them feel seen-and-judged, without the body language of *if only you could see what I see.*
 
-Return as an equal. Return as someone who is *with*, not *above.* The Sage who has seen the whole board and come back is not a diminished version of themselves. They're a more complete one, because they know where they are and where they've been and can carry both.
+Return as an equal. Return as someone who is *with*, not *above.* The Sage who has seen the whole board and come back is a more complete version of themselves, because they know where they are and where they've been and can carry both.
 
-This is the move the distortion skips. It stays at the whole-board view because coming down is uncomfortable — the view from up there is so much clearer than the view from inside the power game that returning feels like losing something. That's not the view talking. That's attachment to the view. The whole-board view is always available, including from inside the narrower games, because it's a capacity rather than a location. You don't have to stay up there to hold it. You have to know you can go back.
+This is the move the distortion skips. It stays at the whole-board view because coming down is uncomfortable — the view from up there is so much clearer than the view from inside the power game that returning feels like losing something. That's attachment to the view. The whole-board view is always available, including from inside the narrower games, because it's a capacity rather than a location. You don't have to stay up there to hold it. You have to know you can go back.
 
-The shadow version: returning becomes retreating. The Sage who can't hold the view uses the return to avoid the weight of what they saw. *I was too serious up there. Let me come back to where things are simpler.* That's not the Returner. That's exhaustion calling itself wisdom. The test: when you return, does it feel like coming home to the people in front of you, or like abandoning the view? Coming home is the practice.
+The shadow version: returning becomes retreating. The Sage who can't hold the view uses the return to avoid the weight of what they saw. *I was too serious up there. Let me come back to where things are simpler.* That's exhaustion talking, and it has learned to call itself wisdom. The test: when you return, does it feel like coming home to the people in front of you, or like abandoning the view? Coming home is the practice.
 
 ### Move 4: Put a Game Down
 
@@ -604,7 +604,7 @@ Identify a game you no longer need to play. A fight you inherited from a version
 
 The release is harder than it sounds, because games have identity attached. *I am the person who holds this together.* *I am the person who fights for this.* *I am the person who keeps this safe.* The game becomes who you are rather than what you do, and putting it down means sitting with the loss of that — not pretending it didn't matter, letting it be finished.
 
-This is what the Release stage actually asks. Not ascent. Completion. The game ran its course. You learned what it had to teach. The next move isn't up, it's open-handed. Letting go is not giving up. It's saying: *this game was mine for a time, and it isn't anymore, and that's allowed.*
+This is what the Release stage actually asks. Not ascent. Completion. The game ran its course. You learned what it had to teach. The next move isn't up, it's open-handed. Letting go sounds like: *this game was mine for a time, and it isn't anymore, and that's allowed.*
 
 The shadow version: putting down becomes giving up. The Sage who keeps dropping games before they've given what they have to give isn't practicing the Liberator, they're practicing avoidance. The test: can you name what the game taught you before you put it down? If you can't, it was never really yours. If you can, and you put it down anyway — that's the practice.
 
@@ -618,7 +618,7 @@ You can see the whole board. You can name every game. You know which one you're 
 
 You can hold the whole-board view inside while your body is in the power game. In the fight. In the work. You can know that this conflict is one expression of a pattern that recurs everywhere and still draw the line this moment requires. You can know that this relationship is one iteration of a form that will keep recurring and still show up for it fully. You can know you're mortal and the game is older than you and none of this will matter in a hundred years, and still care — not despite knowing, because of it.
 
-That's mastery. Not instead of choosing. *Along with* choosing. Holding the meta is not standing outside it. It's holding the view and still doing the thing the view is for.
+That's mastery. Not instead of choosing. *Along with* choosing. Holding the meta means keeping the view and still doing what the view is for.
 
 The shadow version: the meta without the ground. Seeing everything, committing to nothing. The view without the practice. Always above, never in. The real Sage is in it, has skin in it, draws the line and holds the field and builds the thing and stays — and knows which game they're doing it from.
 
@@ -668,7 +668,7 @@ A card that ends in the app is a card you read. A card that ends in a quest is a
 
 One line, four things: what you will do, who it reaches, by when, and what it costs you. *Leave the Game Playable Without You* becomes: **I will write down the three judgment calls I've been making by feel and walk two people through them before the retreat in March, and it will cost me being the one who has to be in the meeting for it to go well.** That's a quest. *I will be less indispensable* is not one; nobody can tell whether you did it, including you.
 
-The tell that a quest is alive is not enthusiasm. It's anticipation with some dread underneath. At this altitude the dread is usually that handing it over will prove you were never as necessary as the exhaustion suggested. That's occasionally true and it is not a reason.
+A live quest arrives as anticipation with some dread underneath. At this altitude the dread is usually that handing it over will prove you were never as necessary as the exhaustion suggested. That's occasionally true and it is not a reason.
 
 *Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it. → app*
 
@@ -689,7 +689,7 @@ The Sage's gift is not wisdom. Wisdom is a side effect. The gift is perspective 
 
 The belief this chapter came to dismantle is that allyship is a matter of having the right framework. It's a load-bearing belief for anyone who came into this work through reading, and it is worth saying plainly what replaces it. Not *I have the right model now.* Not *I need one more.* Something a person can actually stand on: **I can act from the map I already have, and be developed by the people I'm acting with.** Every move in this chapter is an instrument for making that sentence true.
 
-Four things carry forward. The village needs someone who can name which game it's in, and you can be that person — not from above, from with. Seeing is not the same as opting out; the distortion confuses these and the real Sage doesn't. The hardest game to hold is the one you just left, which means the return is not the epilogue of the practice, it's most of it. Putting a game down is not giving up; it's the most generous thing available at this altitude, for you and for whoever inherits the game.
+Four things carry forward. The village needs someone who can name which game it's in, and you can be that person — not from above, from with. Seeing is not the same as opting out; the distortion confuses these and the real Sage doesn't. The hardest game to hold is the one you just left, which means the return is most of the practice. Putting a game down is not giving up; it's the most generous thing available at this altitude, for you and for whoever inherits the game.
 
 You have now been all six Faces. Shaman. Challenger. Regent. Architect. Diplomat. Sage. Each one is a tool. Each one is a gift. Each one, run wrong, becomes a shadow. You know how to tell the difference now, and you know how to come back.
 
