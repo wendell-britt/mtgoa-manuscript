@@ -20,7 +20,12 @@ BUDGET = os.path.join(HERE, "emdash_budget.json")
 
 BLOCK = re.compile(r"<!-- (MARGINALIA|EPIGRAPH-BYLINE|POSTCARD) -->\n(.*?)\n<!-- /\1 -->", re.S)
 FENCE = re.compile(r"```.*?```", re.S)
-HEADING = re.compile(r"^#{1,6}\s|^\*\*?[A-Z][^*]{0,60}\*\*?$")
+# Bold structural labels are headings too. `**[TRANSLATE] Translate 1 — Anxiety
+# → Interest**` is a section title with a subtitle, not a sentence, and the dash
+# in it is typography. ch7 alone carries 13.
+HEADING = re.compile(r"^#{1,6}\s"
+                     r"|^\*\*?[A-Z][^*]{0,60}\*\*?$"
+                     r"|^\*\*\[[A-Z /\u2192]+\][^*]{0,80}\*\*$")
 
 
 def prose_lines(text):
