@@ -142,21 +142,21 @@ Let's be precise about the terms so they don't blur together. Shadow is the move
 <!-- /MARGINALIA -->
 
 
-Here's what happened after the Sage stopped naming things: the village didn't stop playing games.
+After the Sage stopped naming things, the village kept playing games.
 
-It just stopped knowing which ones it was playing.
+It stopped knowing which ones it was playing.
 
-Every conflict became existential. A boundary dispute in a meeting looked exactly like an identity crisis. A systems problem looked exactly like a values problem. Nobody could step back and say: *we're treating this like a harmony problem and it's actually a boundary problem — that's why no amount of vision is fixing it.* The capacity to name which game the village was stuck in was gone, and without it, every game started to feel like every other game.
+Every conflict became existential. A boundary dispute in a meeting looked exactly like an identity crisis. A systems problem looked exactly like a values problem. Nobody could step back and say: *we're treating this like a harmony problem and it's actually a boundary problem — that's why no amount of vision is fixing it.* Nobody could name which game the village had got stuck in, and every game began to feel like every other game.
 
 The village mistook motion for progress. It treated arguments as evidence of commitment rather than evidence of stuckness. The more heated the debate, the more certain everyone became that they were doing the work — when actually they were playing the same game at each other without knowing it.
 
-This is what the village does without the Sage: it plays all the games at once, confused about which one it is in.
+Without the Sage, the village plays every game at once and loses track of which one it occupies.
 
 A Sage in distortion emerged to fill the gap. Not the real Sage — the village's version. The one who sees everything and commits to nothing. Who can name every game and won't choose one. Who has enough perspective to explain why none of it matters and not enough commitment to be useful. Who mistakes seeing for wisdom, and wisdom for the ability to opt out.
 
-This is what happens when the village keeps the Sage's vocabulary without the Sage's practice. It learned to say *I see all the games* without learning what it costs to hold that view while still choosing to be present. It learned to name the games other people were playing without noticing it was also playing one. It learned to *describe* perspective without *practicing* it.
+The village kept the Sage's vocabulary and dropped the practice. It learned to say *I see all the games* without learning what it costs to hold that view while still choosing to be present. It learned to name the games other people were playing without noticing it was also playing one. It learned to *describe* perspective without *practicing* it.
 
-The trap is specific: seeing becomes a way to avoid being in the game. You can name every game, which means you never have to commit to any of them. You can diagnose everyone's stuckness, which means you never have to look at your own. You can see the whole board, which means you never have to play a piece of it. Perspective without commitment. Vision without embodiment. The guru on the mountain — not because the guru chose the mountain, but because the mountain is cheaper than the table.
+The trap works one way: seeing becomes a way to avoid being in the game. You can name every game, which means you never have to commit to any of them. You can diagnose everyone's stuckness, which means you never have to look at your own. You can see the whole board, which means you never have to play a piece of it. Perspective without commitment. Vision without embodiment. The guru on the mountain — not because the guru chose the mountain, but because the mountain is cheaper than the table.
 
 Three games make up the distortion's home territory.
 
@@ -164,25 +164,25 @@ Three games make up the distortion's home territory.
 
 **The Trauma Olympics.** Every conversation becomes a competition to prove whose pain is more formative. The distortion navigates these with perfect equanimity — able to see both sides, able to validate everyone's injury, unable to take a side, because taking a side would mean the seeing was *for* something. The Trauma Olympics has no winners. It also has no end.
 
-What never gets named is that the competition is real and somebody is losing. The person most wounded gets the most airtime — not because their pain is more valid, but because pain has become the credential. The Sage who could name that dynamic chooses instead to hold space for it. To validate. To see. Which is a form of participation. Selecting for the most wounded as the most credible means the people who have done the work of metabolizing their pain become less visible. The Trauma Olympics rewards unprocessed pain, and the Sage who declines to name it rewards it too.
+Nobody names the obvious, which is that the competition runs for real and somebody loses it. The person most wounded gets the most airtime — not because their pain is more valid, but because pain has become the credential. The Sage who could name that dynamic chooses instead to hold space for it. To validate. To see. Which is a form of participation. When the most wounded reads as the most credible, the people who have metabolized their pain go unheard. The Trauma Olympics rewards unprocessed pain, and the Sage who declines to name it rewards it too.
 
-The test: where pain is being performed, does the Sage notice who isn't speaking? Who has done the work? Who is speaking from healed territory rather than fresh wound? The real Sage sees all of it — including the hierarchy of pain — and names what they see. Not with judgment. With precision.
+The test: where pain gets performed, does the Sage notice who isn't speaking? Who has done the work? Who is speaking from healed territory rather than fresh wound? The real Sage sees all of it — including the hierarchy of pain — and names what they see. Not with judgment. With precision.
 
 **Captain Save-a-Kid.** Service, delivered into the game the Sage finds most interesting rather than the game the person in front of them is actually in. The Sage hears a problem and reaches for the Architect's strategy game — *let me design you a system* — when the actual need is the Challenger's: *I need someone to draw a line and hold it.* Or reaches for the Diplomat's harmony game — *let me validate your experience* — when the actual need was the Sage's own: *tell me which game I'm in, because I can't see it from inside.*
 
-This is the distortion's particular cruelty: solving the wrong problem with the right intentions. The person who needed the line gets a system. The person who needed to be heard gets a framework. The person who needed the pattern named gets validation. The Sage walks away having helped. The other person walks away not quite heard. The gap between helpful and present is enormous, and it is the gap the distortion lives in. The real Sage asks: *which game is this person actually in, and what do they actually need?* Then does that, even when what they need is smaller than what the Sage wanted to offer.
+Here the distortion turns cruel. It solves the wrong problem with the right intentions. The person who needed the line gets a system. The person who needed to be heard gets a framework. The person who needed the pattern named gets validation. The Sage walks away having helped. The other person walks away not quite heard. The gap between helpful and present runs wide, and the distortion lives in it. The real Sage asks: *which game is this person actually in, and what do they actually need?* Then does that, even when what they need is smaller than what the Sage wanted to offer.
 
-**Dragging Horses to Water.** Building systems that would work perfectly if the people inside them were different. The distortion designs for the rational actor — the version of the person who would respond correctly to the right incentive — without accounting for the actual person with their actual fears and habits and histories. Then it is confused about why the design didn't work, when the answer is simple: the horse wasn't thirsty. The design was elegant. The horse was not thirsty.
+**Dragging Horses to Water.** Building systems that would work perfectly if the people inside them were different. The distortion designs for the rational actor — the version of the person who would respond correctly to the right incentive — without accounting for the actual person with their actual fears and habits and histories. Then it wonders why the design didn't work. The horse wasn't thirsty. The design was elegant. The horse was not thirsty.
 
-The Architect builds knowing they're designing for fallible humans. The Sage in distortion builds without noticing they're doing it, because the game they're playing — seeing the whole board — feels like it puts them above the problem. What's actually happening is subtler than misdesign. The Sage is projecting their own vantage onto people who aren't standing there. The cost is the same: the system fails because the people inside it don't behave the way the system requires.
+The Architect builds knowing they're designing for fallible humans. The Sage in distortion builds without noticing they're doing it, because the game they're playing — seeing the whole board — feels like it puts them above the problem. The failure runs subtler than misdesign. The Sage projects their own vantage onto people who aren't standing there. The cost lands the same way, because the system fails when the people inside it don't behave as it requires.
 
 The test: when a system fails, does the Sage redesign the system or redesign the people? Redesigning the system is the Architect. Redesigning the people is the distortion. The real Sage names which game the people are actually in and designs for that — not for the game they wish the people were in.
 
 These three are not obviously wrong. The Sage in distortion is doing versions of useful things — mediating pain, solving problems, designing systems — without the one diagnosis that would make any of them useful.
 
-What's missing is the first move: *which game is this, actually?*
+One move is missing, and it comes first: *which game is this, actually?*
 
-Without that question, help becomes interference. Diagnosis becomes lecturing. Perspective becomes distance. The Sage in distortion is what happens when you get good at the vocabulary without doing the practice — when you learn to name the games without learning to put them down.
+Without that question, help becomes interference. Diagnosis becomes lecturing. Perspective becomes distance. The Sage in distortion appears when you get good at the vocabulary without doing the practice — when you learn to name the games without learning to put them down.
 
 ---
 

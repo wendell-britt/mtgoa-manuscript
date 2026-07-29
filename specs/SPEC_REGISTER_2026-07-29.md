@@ -56,9 +56,48 @@ The obvious hope is a high-yield subset. There isn't one. Decomposing all 6,056:
 | **ordinary `X is Y`, distributed** | **~5,200** | **86%** |
 
 **86% are ordinary sentences with no marker.** Reaching *Igniting Joy* means
-removing 3,222 of them, which is rewriting roughly half the copula sentences in
-the book. That is a register rewrite, not a pass. **It cannot happen before
-August 1 and this spec does not pretend otherwise.**
+removing 3,222 of them.
+
+### Tested, rather than asserted
+
+An earlier draft of this spec said a register rewrite "cannot happen before
+August 1." That was asserted without measurement, which is the same mistake the
+finishing-pass spec made about W7 and had to withdraw. So it was tested.
+
+**ch8 Section 2, 1,145 words, chosen for being representative** — 2.18×, against
+a book average of 2.13×.
+
+| | copula /1k | ×IJ | ≤6 words | mean | words |
+|---|---|---|---|---|---|
+| original | 62.9 | 2.18× | 17.9% | — | 1,145 |
+| after pass 1 (14 edits) | 41.6 | **1.45×** | 25.0% | — | 1,105 |
+| after pass 2 (4 rejoins) | 43.2 | **1.50×** | 20.3% | 15.8 | 1,110 |
+
+**One pass moved a representative section from 2.18× to 1.50×** — past Elliott
+and Chou, which sit at 1.42× and 1.43×. Two passes and about twenty minutes.
+
+Three findings that change the plan:
+
+- **Copula and short-sentence load trade against each other.** Pass 1 cut the
+  copula by splitting sentences, and drove ≤6-word sentences from 17.9% to
+  **25.0%** — swapping one register defect for the other, which is worse at
+  4.62× the control. Pass 2 rejoined four of them and gave back 0.05× of copula
+  to recover 4.7 points of short-sentence share. **Any register pass has to
+  watch both numbers or it will report a win it did not get.**
+- **Most of the yield came from frames, not from copulas as such.** *This is
+  what happens when*, *what never gets named is*, *the trap is specific:*,
+  *what's actually happening is*. Each carries a colon or a nominalization and
+  none carries an action. They are findable and there are a lot of them.
+- **The gate caught a banned word I wrote into the manuscript** — *"the people
+  who have metabolized their pain go **quiet**"* — within one run. New prose is
+  where the banned list earns its keep.
+
+**Revised estimate.** Nine chapters, roughly 45 substantive sections. At two
+passes per section this is real work and it is not impossible; it is a few days
+of focused effort, which is more than remains before August 1 but far short of
+"a second-edition project." The honest framing is a **priority order**, not a
+verdict: ch8, ch9, ch6, ch7 first, and as far down the list as the calendar
+allows.
 
 ## 3 · What ships for August 1
 
