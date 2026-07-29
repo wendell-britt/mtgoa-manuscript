@@ -97,6 +97,29 @@ concrete-over-abstract, and its patterns the house rules don't cover
 importance puffery, summary-recap endings) — applies as written, to both
 surfaces.
 
+**The skill is not a register check, and a clean report from it proves nothing
+about register.** Checked against the three grammar moves on 2026-07-29:
+
+| move | skill coverage |
+|---|---|
+| be-verb / copula overuse | **none** — and *Fake-strong verbs* points the other way, preferring *is* and *has* where clearer. Correct in itself, and no help to a book at 2.14× copula. |
+| pronoun with no antecedent | **none.** No rule mentions antecedents. This was the one drift genuinely traceable to generated prose, at +50%. |
+| nominalization | covered, as *Make verbs do the work* — *"made a decision" becomes "decided"* |
+| sentence-length register | **none.** Its robotic-rhythm rule is about repeated shapes, not the 19.4%-at-six-words problem. |
+
+Demonstrated on ch8's heaviest paragraph — 10 copulas in 56 words, 6.2× the
+*Igniting Joy* target — where the skill's only finding is a binary contrast.
+Real, and not the problem with that paragraph.
+
+So the two tools barely overlap: the skill found roughly four real sites
+book-wide, `prose_diet` found ~6,000 copulas. **Run both.** Expect the skill to
+come back nearly clean on passages `prose_diet` flags hard.
+
+**And approximating the skill in a regex does not count as running it.** That
+substitution happened four times in this session, including once inside the test
+built to check whether the substitution was safe — a pattern matching
+`it's/that's not` missed `That gap is not`, and reported the paragraph clean.
+
 **Measured against canon, 2026-07-29.** The skill's banned-word and
 empty-phrase lists were scanned over both surfaces. Margin: fully clean. Body:
 27 word hits, of which **22 are `leverage point(s)` — Donella-Meadows-register
