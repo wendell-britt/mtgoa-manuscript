@@ -155,9 +155,9 @@ The practice: Take what you built and make it pass-onable. Write it down. Name t
 
 The deck starts earning its keep here. You have been handed twenty cards six times in this book — the Shaman's twenty, then the Challenger's, the Regent's, the Architect's, the Diplomat's, the Sage's. A hundred and twenty cards. Five moves crossed against four domains, six operations deep. Nobody built that as a reference table. It works as the practice surface, and you have been holding all of it since Chapter 3.
 
-The Elder's use of the deck comes second. The first one belongs to you, alone, with nobody watching: draw against the Face you have been performing and find out what you actually do when a card names the thing you have been routing around. Running it for a group becomes possible after that — a session, a team, a family, a class, a vocabulary handed to people who already know how to do the thing and have never been able to name it. That is how the work goes forward without everyone starting from zero. It is also what keeps the practice from calcifying, because a deck you actually play will keep dealing you the card you did not want.
+The Elder's use of the deck comes second. The first one belongs to you, alone, with nobody watching: draw against the Face you have been performing and find out what you actually do when a card names the thing you have been routing around. Running it for a group becomes possible after that — a session, a team, a family, a class, a vocabulary handed to people who already know how to do the thing and have never been able to name it. That is how the work goes forward without everyone starting from zero. It also keeps the practice from calcifying, because a deck you actually play will keep dealing you the card you did not want.
 
-The Elder is about making sure the work outlives you. Authority is what that looks like to everyone else.
+The Elder makes sure the work outlives you. To everyone else that looks like authority.
 
 ---
 
@@ -165,15 +165,15 @@ The Elder is about making sure the work outlives you. Authority is what that loo
 
 The Outlaw breaks the tradition that the Elder just built.
 
-The practice: Find what's calcified. Name what's become rote. Challenge the structure you or others built to see if it still serves. The Outlaw's move is disruption — not for the sake of it, but because every tradition eventually becomes a cage and someone has to draw the line that lets the next person breathe.
+The practice: Find what's calcified. Name what's become rote. Challenge the structure you or others built to see if it still serves. The Outlaw disrupts — not for the sake of it, but because every tradition eventually becomes a cage and someone has to draw the line that lets the next person breathe.
 
-This is the mode most people try to skip. It's uncomfortable to be the one who says *this isn't working anymore.* But the Outlaw is what keeps the Player from becoming the distortion — from collecting the Faces as credentials, from performing the practice without doing it. The Outlaw is the shadow side of the Elder, and they're in the same chapter because they have to be. You can't hand things forward without eventually having to break some of what you inherited.
+Most people try to skip this mode. It costs something to say *this isn't working anymore.* The Outlaw, though, keeps the Player from becoming the distortion — from collecting the Faces as credentials, from performing the practice without doing it. The Outlaw shadows the Elder, and they share a chapter because they have to. You can't hand things forward without eventually having to break some of what you inherited.
 
 ---
 
 ### Where Each Mode Leads
 
-Each mode is also a doorway. Depending on which one activates for you, here is where it leads. The deck runs underneath all five of them — whichever mode is live, the practice is the same hundred and twenty cards. The mode only changes what you do with what the draw turns up.
+Each mode also opens a doorway. Depending on which one activates for you, it leads to different ground. The deck runs underneath all five of them — whichever mode runs, the practice stays the same hundred and twenty cards. The mode only changes what you do with what the draw turns up.
 
 - **Cartographer and Designer** → your own ongoing practice. The work is between you and the map.
 - **Founder** → if you have a specific thing to build and you know you need support getting it out, the fastest path is working through it with me, one-on-one. If you want to learn the method itself, deeply enough to run it for others, reach out about certification (wendell@masteringallyship.com) — that's the succession this book is for.
@@ -186,7 +186,7 @@ The modes loop. Each pass through goes deeper. The walk is the thing.
 
 ### The Stage Sequence: Review → Discern → Design → Build → Pass On
 
-This is the Player's sequence:
+The Player runs this sequence:
 
 1. **Review:** Look at all six Faces. Which ones feel like home? Which ones feel like foreign territory?
 2. **Discern:** What is the specific gap or gift you bring? What problem in the world are you trying to solve?
@@ -196,7 +196,7 @@ This is the Player's sequence:
 
 This sequence loops. Every time you build something, you review it. Every time you pass it on, you learn something new about the terrain. The Player is always mapping. The Player is always designing. The Player is never finished.
 
-You can start at any point. You might start at Review — doing the honest inventory, taking stock of where you are. You might start at Discern — you know what problem you're trying to solve, you've known it for years, and you're ready to build something. You might start at Pass On — you're already doing the work, you're already translating it, and the Review and Design come later when you need to make sense of what you're already doing.
+You can start at any point. You might start at Review — doing the honest inventory, taking stock of where you stand. You might start at Discern — you know which problem you keep trying to solve, you've known it for years, and you feel ready to build something. You might start at Pass On — you're already doing the work, you're already translating it, and the Review and Design come later when you need to make sense of what you're already doing.
 
 The sequence doesn't require a starting point. It requires honesty. Wherever you enter, enter honestly.
 
@@ -204,13 +204,13 @@ The sequence doesn't require a starting point. It requires honesty. Wherever you
 
 ### How to Know You're Actually Building
 
-There's a tell that separates real building from the kind that's secretly avoidance — and it has nothing to do with how productive you feel. It's about direction: is the work moving toward contact with someone, or away from it?
+One tell separates real building from the kind that's secretly avoidance — and it has nothing to do with how productive you feel. Direction gives it away: does the work move toward contact with someone, or away from it?
 
-Genuine building points outward. You're making the thing so it can meet a person — a reader, a player, a colleague, your kid. You want it in front of them, even though that's the scary part. The work is going somewhere, and the somewhere has a face.
+Genuine building points outward. You make the thing so it can meet a person — a reader, a player, a colleague, your kid. You want it in front of them, even though that's the scary part. The work goes somewhere, and the somewhere has a face.
 
-The Player in distortion builds in the other direction — inward, in circles, away from anyone who might actually receive it. The building becomes abstract. Endless revisions. Infinite drafts. I'll redesign the same mechanic six times, and every redesign is a way of not doing the one thing the work actually needs: putting it in front of someone and seeing what happens. It looks like progress. It's a very sophisticated way of hiding.
+The Player in distortion builds in the other direction — inward, in circles, away from anyone who might actually receive it. The building becomes abstract. Endless revisions. Infinite drafts. I'll redesign the same mechanic six times, and every redesign dodges the one thing the work actually needs: putting it in front of someone and seeing what happens. It looks like progress. It's a very sophisticated way of hiding.
 
-So that's the question to keep asking, because it's the one that planning-disguised-as-building can't survive: *is this draft moving toward someone, or away from them?* Real building gets handed over, even unfinished. Avoidance keeps the thing safe, and perfect, and unmet.
+So keep asking the question that planning-disguised-as-building cannot survive: *is this draft moving toward someone, or away from them?* Real building gets handed over, even unfinished. Avoidance keeps the thing safe, and perfect, and unmet.
 
 ---
 
@@ -222,11 +222,11 @@ You have walked all six Faces.
 
 You have been the Shaman who names what's true. You have been the Challenger who draws the line. You have been the Regent who builds what lasts. You have been the Architect who designs for the next person. You have been the Diplomat who holds the field across difference. You have been the Sage who sees the whole game and plays their part.
 
-Now the question is: what comes next?
+Now the question — what comes next?
 
-The question at the end of this book is simpler and harder than which Face you should become next, or how you stay at Sage forever, or which game ranks highest. It is this: *what game do you want to play, and what are you going to build?*
+The question at the end of this book lands simpler and harder than which Face you should become next, or how you stay at Sage forever, or which game ranks highest. It comes to this: *what game do you want to play, and what are you going to build?*
 
-That's what this final journey is about. Ascending is a different journey, and so is perfecting. This one is walking out into the village with everything you've learned and making something real.
+That's what this final journey does. Ascending belongs to a different journey, and so does perfecting. This one walks out into the village with everything you've learned and makes something real.
 
 You came to this book as someone who wanted to do allyship better.
 

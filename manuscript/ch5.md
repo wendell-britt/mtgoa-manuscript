@@ -475,7 +475,7 @@ Where it bites is Open Up. Everything else on that list follows from a thing nev
 
 Take **Can You Hold the Whole** — Open Up, Skillful Organizing, Regent. Its question sounds like a dare and works as a diagnostic: *can I stay with this?* You already know what your Fixer answers. The card exists to slow that answer down enough to hear, and to put the second question underneath it — hold it how, and for how long after you are gone.
 
-Run it once, on something real. Bring an inheritance you are currently carrying: a practice, a role, a piece of institutional memory nobody wrote down. Wake Up: name what deserves tending. Open Up: ask whether you can stay with it *as it is*, unrepaired, for one cycle. Clean Up: name the capability the structure lacks — the structure, not you. Grow Up: name what deserves practice rather than rescue. Show Up: name what you would keep going even after you hand it over.
+Run it once, on something real. Bring an inheritance you are currently carrying: a practice, a role, a piece of institutional memory nobody wrote down. Wake Up: name precisely what deserves tending. Open Up: ask whether you can stay with it *as it is*, unrepaired, for one cycle. Clean Up: name the capability the structure lacks — the structure, not you. Grow Up: name what deserves practice rather than rescue. Show Up: name what you would keep going even after you hand it over.
 
 Five moves, one card. The Regent's version runs slower than the others — give it the length of a walk rather than ninety seconds.
 

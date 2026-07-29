@@ -194,31 +194,31 @@ Laloux names something he calls evolutionary purpose: once you can see the whole
 
 ### Polarity Encounter — Which Game ↔ Which Altitude
 
-There are two questions the Sage is always running, and the whole chapter turns on keeping them apart.
+The Sage runs two questions at all times, and the whole chapter turns on keeping them apart.
 
-*Which game is this?* is a horizontal question. Power, strategy, harmony, whole-board. It's a question about what the situation is asking for right now. Watch what people actually do rather than what they say, and it answers itself.
+*Which game is this?* is a horizontal question. Power, strategy, harmony, whole-board. It asks what the situation requires right now. Watch what people actually do rather than what they say, and it answers itself.
 
-*Which altitude is this?* is a vertical question. Red, Amber, Orange, Green, Teal. It's a question about what a person can currently hold — the size of the frame they're operating from, which is a fact about their development and not a fact about their worth.
+*Which altitude is this?* is a vertical question. Red, Amber, Orange, Green, Teal. It asks what a person can currently hold — the size of the frame they operate from, a fact about their development and not a fact about their worth.
 
 Both are real. Both are load-bearing. The game read tells you what to do. The altitude read tells you how to say it. A Sage who only reads games will keep saying accurate things in a register nobody present can receive. A Sage who only reads altitudes will keep making sophisticated assessments of people while the actual situation goes unaddressed.
 
-You may choose one. The failure is letting one answer the other's question.
+You may choose one. The failure comes when one answers the other's question.
 
 That collapse has a signature and it runs in one direction far more often than the other: the game read gets converted into an altitude verdict. Somebody is in the power game, therefore they're at Red, therefore this conversation is beneath the frame you brought to it. Each step feels like an inference. The last one is contempt with a diagram attached.
 
-It runs the other way too, less often and just as expensively. You decide the group is at Green, so you treat every conflict as a Green conflict, and the boundary violation sitting in the middle of the table goes unnamed because your altitude read has already told you what kind of problem this must be.
+It runs the other way too, less often and just as expensively. You decide the group sits at Green, so you treat every conflict as a Green conflict, and the boundary violation sitting in the middle of the table goes unnamed because your altitude read has already told you what kind of problem this must be.
 
-The discipline is unglamorous: answer each question with its own evidence. What is being played, from behavior. What can be heard, from what has actually landed with these people before. Then act on the first and speak in the language of the second. Somebody in the power game may be a person of enormous developmental range having a bad week, and if your map can't hold that, your map is running you.
+The discipline has no glamour in it: answer each question with its own evidence. What gets played, from behavior. What gets heard, from what has actually landed with these people before. Then act on the first and speak in the language of the second. Somebody in the power game may be a person of enormous developmental range having a bad week, and if your map can't hold that, your map is running you.
 
 ### *How to Know You're Actually Seeing*
 
-The Sage in distortion treats seeing as something the mind does at a distance. The real Sage knows it's something you do from inside — not from a balcony above it. The difference shows, and it doesn't show in some private inner readout you have to take on faith. It shows in where you're standing.
+The Sage in distortion treats seeing as something the mind does at a distance. The real Sage knows it happens from inside — not from a balcony above it. The difference shows, and it doesn't show in some private inner readout you have to take on faith. It shows in where you're standing.
 
-Real Sage sight is the orientation of someone who walked all the way in and stayed. You're taking in more, and you're not backing away from any of it. You're *with* the people, not narrating them. The view didn't lift you up and out. It let you stand more fully in.
+Real Sage sight carries the orientation of someone who walked all the way in and stayed. You're taking in more, and you're not backing away from any of it. You're *with* the people, not narrating them. The view didn't lift you up and out. It let you stand more fully in.
 
-Perspective-as-avoidance is the opposite, and it has a tell you can catch: you're looking at the people the way a tourist looks at a museum. Everything's interesting; nothing is yours. You can describe what's happening with perfect accuracy and still not be in it, and the clearer the view gets, the further away you've drifted.
+Perspective-as-avoidance runs the opposite way, and it has a tell you can catch: you're looking at the people the way a tourist looks at a museum. Everything's interesting; nothing is yours. You can describe what happens with perfect accuracy and still stand outside it, and the clearer the view gets, the further away you've drifted.
 
-So before you trust the view, check the one thing that gives it away. Are you in it, or watching from the doorway? With the people, or above them? That's the whole difference — and it's a question about where you're standing, not a sensation you have to manufacture.
+So before you trust the view, check the one thing that gives it away. Are you in it, or watching from the doorway? With the people, or above them? That's the whole difference — a question about where you're standing, not a sensation you have to manufacture.
 
 ---
 
@@ -229,7 +229,7 @@ The Sage sees in five modes. Each one is a tool. Each one, run wrong, becomes a 
 
 **Panoramic Seer** — The mode of taking in the whole field, even briefly. Holding six games at once without collapsing into any of them.
 
-**Game-Switcher** — The mode of deliberate movement between games. Stepping into the power game because that's what's needed, and going back down without feeling diminished.
+**Game-Switcher** — The mode of deliberate movement between games. Stepping into the power game because the moment needs it, and going back down without feeling diminished.
 
 **Diagnostician** — The mode of naming out loud which game a group is in, and what the stuckness is costing them. Serviceable, precise, kind.
 
@@ -239,7 +239,7 @@ The Sage sees in five modes. Each one is a tool. Each one, run wrong, becomes a 
 
 ### EA Channel Alignment — How Each Mode Moves Energy
 
-Each mode is grounded in one EA signal and carries its own alchemical arc:
+Each mode grounds in one EA signal and carries its own alchemical arc:
 
 | Mode | EA Signal | Dissatisfaction → Satisfaction |
 |------|-----------|-------------------------------|
@@ -249,16 +249,16 @@ Each mode is grounded in one EA signal and carries its own alchemical arc:
 | **Liberator** | Wood/Joy | Joy fused to the game → Bliss |
 | **Returner** | Water/Sadness | Altitude-loss → Poignance |
 
-Five modes, five channels, no overlap. The Sage's practice runs the full spectrum, which is what makes this the last Face before the Player: there is nowhere left in the emotional range to hide.
+Five modes, five channels, no overlap. The Sage's practice runs the full spectrum, and that makes this the last Face before the Player: the emotional range has nowhere left to hide.
 
 ---
 
 **Alchemy Move 1: Panoramic Seer**
 [DISSATISFACTION → SATISFACTION] Blank-field contraction — **Fear** → *Wonder*
 
-Underneath the Panoramic Seer's first failure is the fear that what you see will be smaller than what you hoped. That the field you've opened to is just a handful of tired people, that the altitude you glimpsed is a ceiling, that everyone present already decided what they're doing and the seeing was a way to feel above it.
+Underneath the Panoramic Seer's first failure is the fear that what you see will be smaller than what you hoped. That the field you've opened to holds just a handful of tired people, that the altitude you glimpsed marks a ceiling, that everyone present already decided what they're doing and the seeing only helped you feel above it.
 
-The fear is real and the blank field is possible. *The contraction is the body reporting honestly on what it's actually taking in — and what it's taking in is the gap between what this could be and what it is.* That gap is where the work starts. It reads like the view ending.
+The fear is real and the blank field is possible. *The contraction is the body reporting honestly on what it takes in — and what it takes in is the gap between what this could be and what it is.* The work starts in that gap. It reads like the view ending.
 
 The alchemy: you feel the field close down, you name it as a report rather than a prophecy, and you let the contraction sharpen your interest. *What is actually here? Who is actually present, and what are they actually carrying?* The wonder is the field being exactly what it is, and you staying curious about that anyway. Nothing has to turn out bigger than it looked.
 
@@ -268,7 +268,7 @@ The alchemy: you feel the field close down, you name it as a report rather than 
 
 Underneath the Game-Switcher's first failure is the rage at being somewhere that can't hold what you see. The *I am at Teal and you are at Green and this conversation is beneath my time* that fires the moment you have to go down to where they are.
 
-The anger is real, and the situation is sometimes exactly that limited. *The judgment is accurate, and it is also the trap — because the moment you are above them, you cannot be with them, and this practice is always about being with.*
+The anger is real, and the situation is sometimes exactly that limited. *The judgment is accurate, and it is also the trap — because the moment you stand above them, you cannot be with them, and this practice is always about being with.*
 
 The alchemy: you feel the arrogance rise, you name it — *I am using the altitude to make distance instead of service* — and you let the judgment become the capacity to meet them. *What altitude are they actually at, and what would it mean to go there with them rather than at them?* The triumph is going down and coming back without feeling diminished by the trip. The view from above was the easy half.
 
@@ -276,9 +276,9 @@ The alchemy: you feel the arrogance rise, you name it — *I am using the altitu
 **Alchemy Move 3: Diagnostician**
 [DISSATISFACTION → SATISFACTION] Flat sight — **Neutrality** → *Peace*
 
-Underneath the Diagnostician's first failure is flatness. Not sadness about what people can't see — something colder. The pattern is fully visible and nothing in you moves about it. *This is a Red dynamic. This is Green stuckness. This is an Orange problem wearing Teal vocabulary.* All accurate, all delivered from a place with no stake in the outcome.
+Underneath the Diagnostician's first failure is flatness. Not sadness about what people can't see — something colder. The pattern shows fully and nothing in you moves about it. *This is a Red dynamic. This is Green stuckness. This is an Orange problem wearing Teal vocabulary.* All accurate, all delivered from a place with no stake in the outcome.
 
-Flat sight feels like objectivity and it is the Neutral channel stuck. The tell is that the naming costs you nothing. Real diagnosis has a temperature to it, because you are naming something that matters to you about people you are staying with.
+Flat sight feels like objectivity and amounts to the Neutral channel stuck. The tell is that the naming costs you nothing. Real diagnosis has a temperature to it, because you name something that matters to you about people you intend to stay with.
 
 The alchemy: you notice the flatness, you name it — *I have gone unstaked, and unstaked naming reads as verdict* — and you let the numbness resolve into actual stillness. The two differ enormously. Numbness has nothing underneath it. Stillness has everything underneath it and isn't moving. The peace is what makes precision survivable for the person receiving it: *this is what I see, this is where we are, and I'm staying.*
 
@@ -286,9 +286,9 @@ The alchemy: you notice the flatness, you name it — *I have gone unstaked, and
 **Alchemy Move 4: Liberator**
 [DISSATISFACTION → SATISFACTION] Joy fused to the game — **Joy** → *Bliss*
 
-Underneath the Liberator's first failure is something almost nobody names out loud: the game is fun. Not pleasant — fun. The fight has a rhythm you're good at. The struggle is its own perverse entertainment. Whatever else it costs, playing it is where a specific kind of aliveness lives for you, and putting it down means putting that down too.
+Underneath the Liberator's first failure is something almost nobody names out loud: the game is fun. Not pleasant — fun. The fight has a rhythm you're good at. The struggle doubles as its own perverse entertainment. Whatever else it costs, a specific kind of aliveness lives there for you, and putting it down means putting that down too.
 
-This is stuck Joy, and stuck Joy is the hardest of the five to catch, because it doesn't feel like a problem. It feels like commitment. *I am the person who holds this together* is the sentence, and the sentence is enjoyable to say.
+This is stuck Joy, and stuck Joy is the hardest of the five to catch, because it doesn't feel like a problem. It feels like commitment. *I am the person who holds this together* names the feeling, and saying it feels good.
 
 The alchemy: you notice that the joy has fused to this particular game rather than to playing, and you name it — *I don't want to give this up because giving it up means being someone who doesn't do this anymore.* Then you let the attachment loosen from the object. The game was yours for a time, the time was real, and the ending is not the same as the failure. The game taught you what it had to teach. The bliss is discovering that the aliveness was never the game's property. It was yours, it travels, and the game is allowed to end.
 
@@ -296,11 +296,11 @@ The alchemy: you notice that the joy has fused to this particular game rather th
 **Alchemy Move 5: Returner**
 [DISSATISFACTION → SATISFACTION] Altitude-loss — **Sadness** → *Poignance*
 
-Underneath the Returner's first failure is the sadness of leaving the view. You've seen from Teal — the whole map, where everyone is, why they're stuck, what altitude they're operating from — and now you have to come back to a table that doesn't see it.
+Underneath the Returner's first failure is the sadness of leaving the view. You've seen from Teal — the whole map, where everyone stands, why they're stuck, what altitude they're operating from — and now you have to come back to a table that doesn't see it.
 
-The sadness is the cost of the gift, and it will feel like weakness every time. The Sage who has been up can't unsee it, and coming back down means sitting with people while you can see exactly what's happening and they can't, and finding a way to say it that doesn't leave them feeling seen-and-judged. That's the work. That's the price.
+The sadness is the cost of the gift, and it will feel like weakness every time. The Sage who has gone up can't unsee it, and coming back down means sitting with people while you can see exactly what happens and they can't, and finding a way to say it that doesn't leave them feeling seen-and-judged. That's the work. That's the price.
 
-The alchemy: you feel the loss of altitude — the way things look smaller from inside than they did from above — and you let the sadness become tenderness. *I see it from here. I saw it from up there. I'm here, with you, and the seeing is still mine.* The poignance is the moment the distance between what you see and where they are becomes the place love happens. The loss is what carries you there. You came back. That's the love.
+The alchemy: you feel the loss of altitude — the way things look smaller from inside than they did from above — and you let the sadness become tenderness. *I see it from here. I saw it from up there. I'm here, with you, and the seeing is still mine.* The poignance is the moment the distance between what you see and where they are becomes the place love happens. The loss carries you there. You came back. That's the love.
 
 ---
 
@@ -308,9 +308,9 @@ The alchemy: you feel the loss of altitude — the way things look smaller from 
 
 The distortion: the capacity to see all the games becomes a thing you do for an audience. *Look, I can name the power game and the harmony game and the strategy game all running at once — isn't that something?* The view becomes a demonstration. Seeing turns into a way of being seen to be wise.
 
-The pattern: narrating instead of inhabiting. Describing from above instead of participating from within. Able to tell you exactly which game the meeting is playing and unable to actually be in the meeting. The body is present. The person is not.
+The pattern: narrating instead of inhabiting. Describing from above instead of participating from within. Able to tell you exactly which game the meeting is playing and unable to sit inside the meeting. The body is present. The person is not.
 
-The cost: you lose the ability to be in the game you're describing. People can feel that you're above it even when the naming is correct, and from above you can't serve — you can only report.
+The cost: you lose the ability to be in the game you're describing. People can feel that you're above it even when the naming lands correctly, and from above you can't serve — you can only report.
 
 The fix: before you name the game, check. *Am I naming this to serve, or to show that I'm above it?* If it's the second, drop the naming, get your feet under you, then name.
 
@@ -321,7 +321,7 @@ The distortion: the capacity to move between games becomes a way to avoid commit
 
 The pattern: never stabilizing anywhere. Leaving each game before it's finished teaching anything. Always arriving and always departing, never present long enough to be accountable for what happens.
 
-The cost: nobody can trust you to be anywhere. If you leave whenever a game gets uncomfortable, people learn not to depend on you in any of them. You become the one who is always changing the subject.
+The cost: nobody can trust you to be anywhere. If you leave whenever a game gets uncomfortable, people learn not to depend on you in any of them. You become the one who always changes the subject.
 
 The fix: before you switch, check. *Is the moment asking for this, or am I uncomfortable being here?* If it's the second, stay. Let the discomfort be what it is. Do the work the game requires before you leave it.
 
@@ -330,9 +330,9 @@ The fix: before you switch, check. *Is the moment asking for this, or am I uncom
 
 The distortion: the capacity to name which game people are in becomes a way to be right. *You're stuck in the harmony game and I can see the whole board from here.* The diagnosis becomes a speech.
 
-The pattern: speaking from the whole-board view to people who are in the power game, in whole-board language, as though they could receive it — or knowing they can't and saying it anyway, as though the failure to understand were their problem.
+The pattern: speaking from the whole-board view to people inside the power game, in whole-board language, as though they could receive it — or knowing they can't and saying it anyway, as though the failure to understand were their problem.
 
-The cost: people feel seen and judged rather than seen and served. When someone names your game from above, the first response is defensiveness — *you think you're better than us* — even when the naming is exactly right.
+The cost: people feel seen and judged rather than seen and served. When someone names your game from above, the first response comes back defensive — *you think you're better than us* — even when the naming lands exactly right.
 
 The fix: before you name it, check. *Am I naming this from the game they're in, or from the vantage I wish I were at?* If it's the second, descend. Say it in terms they can receive. That's the service.
 
@@ -341,7 +341,7 @@ The fix: before you name it, check. *Am I naming this from the game they're in, 
 
 The distortion: the capacity to put games down becomes a way to avoid finishing them. *I don't need this anymore — I'm past it.* The release becomes an exit.
 
-The pattern: identifying a game as no longer yours before you've done the work it was asking of you. Getting the first twinge of completion and reading it as done, when the first moment of readiness usually means the game is entering its most important phase.
+The pattern: identifying a game as no longer yours before you've done the work it asked of you. Getting the first twinge of completion and reading it as done, when the first moment of readiness usually means the game has entered its most important phase.
 
 The cost: the games you abandon unfinished stay unfinished. The relationships left before they were ready, the conflicts released before they resolved, the commitments put down before they taught what they had to teach — they don't disappear. They stay in the body as unfinished business and shape what you can show up for next.
 
@@ -352,7 +352,7 @@ The fix: before you put it down, check. *Has this taught me what it came to teac
 
 The distortion: the capacity to come back from the overview becomes a way to not have to hold the overview. *I've been up here long enough.* The return becomes relief from the weight of what you saw.
 
-The pattern: going up, seeing the whole thing, and immediately needing to come back — not because the moment asks for it, but because the weight is too heavy to hold while staying embodied. Coming back to the harmony game or the strategy game as escape rather than as service.
+The pattern: going up, seeing the whole thing, and immediately needing to come back — not because the moment asks for it, but because the weight grows too heavy to hold while staying embodied. Coming back to the harmony game or the strategy game as escape rather than as service.
 
 The cost: people learn you can't be trusted with the view. If you always retreat before you've done the work up there, they stop expecting you to stay, which means they stop expecting you to see clearly at all.
 

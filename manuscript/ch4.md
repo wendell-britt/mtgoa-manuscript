@@ -433,29 +433,29 @@ Find the voice. Give it a name. Say the name out loud.
 ## Section 5: The Skeptic, Up Close
 ### *The Auditor, and the Charge It Rules Inadmissible*
 
-You met the Skeptic at the door of the Forest, third in line, a few steps behind the Controller. The Protector decides whether you go in at all. The Controller decides how you are allowed to behave once you are inside. The Skeptic decides something narrower and more damaging than either: whether the thing you are reacting to was ever real.
+You met the Skeptic at the door of the Forest, third in line, a few steps behind the Controller. The Protector decides whether you go in at all. The Controller decides how you may behave once you get inside. The Skeptic decides something narrower and more damaging than either: whether the thing you reacted to was ever real.
 
-At its best the Skeptic is your auditor, and you need one. A charge arrives and the auditor asks the single useful question — *is this the thing in front of me, or is this an old thing wearing today's clothes?* Sometimes the honest answer is the old thing, and the auditor has just saved you from spending a line on someone who did not earn it. That is not timidity. That is what makes your no expensive. Someone who draws a line at everything has not drawn one; the line stops being information about the world and becomes weather, and people learn to dress for it and walk past. The auditor is the reason that when you do finally say *this is not acceptable*, the sentence carries.
+At its best the Skeptic is your auditor, and you need one. A charge arrives and the auditor asks the single useful question — *is this the thing in front of me, or is this an old thing wearing today's clothes?* Sometimes the honest answer is the old thing, and the auditor has just saved you from spending a line on someone who did not earn it. That is not timidity. That is what makes your no expensive. Someone who draws a line at everything has not drawn one; the line stops carrying information about the world and becomes weather, and people learn to dress for it and walk past. The auditor earns you this: when you do finally say *this is not acceptable*, the sentence carries.
 
-An auditor can widen its own remit, though. It stops auditing the charge and starts auditing your standing to have it. The question changes shape without announcing that it has changed — from *is this real* to *are you the one who gets to say it is real.* Those sound like the same rigor. They are not the same question. The first can be answered by looking at the situation. The second can only be answered by looking at you, and the Skeptic already knows how that audit comes out.
+An auditor can widen its own remit, though. It stops auditing the charge and starts auditing your standing to have it. The question changes shape without announcing that it has changed — from *is this real* to *are you the one who gets to say it is real.* Those sound like the same rigor. They are not the same question. Looking at the situation answers the first. Only looking at you answers the second, and the Skeptic already knows how that audit comes out.
 
 Then it speaks, and it always sounds reasonable. *Am I overreacting. Other people have it worse. I'm probably being dramatic. I should check with someone who actually knows.* Not one of those is a claim about the violation. Every one of them is a claim about you. The Skeptic takes a real crossing and, in three sentences, converts it into evidence of your own excess.
 
-Here is the tell that separates the auditor from the judge: the auditor finishes. It asks its question, gets an answer, hands the charge back to you either confirmed or dismissed, and it is done. The Skeptic in shadow never finishes. No evidence closes the case, because the case was never about evidence. Ask yourself whether you are certain and you will always find you could be less certain. The audit runs until the moment has passed, which is what it was for.
+Here is the tell that separates the auditor from the judge: the auditor finishes. It asks its question, gets an answer, hands the charge back to you either confirmed or dismissed, and stops. The Skeptic in shadow never finishes. No evidence closes the case, because the case was never about evidence. Ask yourself whether you feel certain and you will always find you could feel less certain. The audit runs until the moment has passed, and that outcome was always its purpose.
 
-Now here is why this daemon stands where it stands, in a book about allyship. Everything this chapter has taught you runs on a charge you trust enough to aim. Charge, Aim, Act, Stand, Exit — the whole sequence assumes Stage 1 was permitted to count. The Skeptic is the part that can end the practice between Stage 1 and Stage 2, not by arguing that the line is wrong but by ruling that you have not established the line is yours to draw. It does not put the fire out, either. The fire burned. You felt every degree of it. You filed it instead of aiming it, and you carried it home.
+Now here is why this daemon stands where it stands, in a book about allyship. Everything this chapter has taught you runs on a charge you trust enough to aim. Charge, Aim, Act, Stand, Exit — the whole sequence assumes Stage 1 got permission to count. The Skeptic can end the practice between Stage 1 and Stage 2, not by arguing that the line is wrong but by ruling that you have not established the line is yours to draw. It does not put the fire out, either. The fire burned. You felt every degree of it. You filed it instead of aiming it, and you carried it home.
 
-The cost lands twice: you lose the line, and the person who needed the line is left in a situation where nobody drew one — where the crossing went unremarked, and everyone present, the one who crossed included, learned that it was uncrossable in principle and crossable in fact. They did not need your certainty. They needed the sentence.
+The cost lands twice: you lose the line, and the person who needed the line ends up somewhere nobody drew one — where the crossing went unremarked, and everyone present, the one who crossed included, learned that it was uncrossable in principle and crossable in fact. They did not need your certainty. They needed the sentence.
 
-This is also where the chapter's myth lives, because the Skeptic's favorite exit is a virtuous one. *I should defer to the people who actually know.* Said out loud that sounds like humility, and sometimes it is exactly that. Run it back honestly and it is often the audit's verdict in better clothes: someone with more standing gets located, the charge gets handed over, and the leaving looks like respect. The myth is that allyship is following the right people. Following the right people is how you learn what to aim at. It is not the aim. Nobody on the list of people you defer to was in that meeting, at that second, feeling what you felt. That second was yours or it was nobody's.
+The chapter's myth also lives here, because the Skeptic's favorite exit wears a virtue. *I should defer to the people who actually know.* Said out loud that sounds like humility, and sometimes it is exactly that. Run it back honestly and you usually find the audit's verdict in better clothes: someone with more standing gets located, the charge gets handed over, and the leaving looks like respect. The myth is that allyship is following the right people. Following the right people is how you learn what to aim at. It is not the aim. Nobody on the list of people you defer to sat in that meeting, at that second, feeling what you felt. That second was yours or it was nobody's.
 
 You do not fire the Skeptic. Fire your auditor and every charge becomes a line, and your no is worth nothing inside a month. You take the joystick back by handing it its actual job and taking away the one it appointed itself to.
 
 *Audit the charge. Not me. Tell me whether this is the thing in front of me or an old thing in its clothes — that question I want, and I will listen to the answer. My standing is not on the agenda. That was settled when I walked in.*
 
-Then give the audit a deadline, because running out the clock is the shadow's entire method. An auditor works fast when it knows it has to. *You have one breath. Real, or old? Answer.* One breath is enough for the question that is actually being asked. It is not enough for the other one, which is the point.
+Then give the audit a deadline, because running out the clock is the shadow's entire method. An auditor works fast when it knows it has to. *You have one breath. Real, or old? Answer.* One breath answers the question actually being asked. It cannot answer the other one, which is the point.
 
-It shows up in a single beat. Someone says the thing in the meeting. Heat arrives in your chest — that is Charge, on time, doing its job. On the widened remit the audit opens before you can aim: *am I sure that is what they meant, is this even mine to call, there are people here closer to it than me* — and by the time the audit has finished weighing its own evidence the agenda has moved two items on and the heat has nowhere to go but home with you. On the narrow remit the same auditor gets the same breath and returns the verdict it could have returned all along: *real, and current.* Then you say the sentence. It is the same part, applying the same rigor. The only thing that changed is what you gave it jurisdiction over.
+It shows up in a single beat. Someone says the thing in the meeting. Heat arrives in your chest — that is Charge, on time, doing its job. On the widened remit the audit opens before you can aim: *am I sure that is what they meant, is this even mine to call, there are people here closer to it than me* — and by the time the audit has finished weighing its own evidence the agenda has moved two items on and the heat has nowhere to go but home with you. On the narrow remit the same auditor gets the same breath and returns the verdict it could have returned all along: *real, and current.* Then you say the sentence. The same part applies the same rigor either way. Only the jurisdiction you gave it changed.
 
 *Bring one real moment the Skeptic closed the case on a charge before you could aim it — a crossing you talked yourself out of with "I'm probably overreacting," or a read you handed to someone with more standing and then walked away from. Name which question it was actually running: was it auditing the charge, or auditing you? Two minutes to capture it as a BAR. → app*
 
@@ -465,9 +465,9 @@ It shows up in a single beat. Someone says the thing in the meeting. Heat arrive
 
 You drew the Force ↔ Restraint axis in Section 3. Here is why the Skeptic is nearly impossible to catch standing on it — and why the chapter gave you a polarity instead of a rule.
 
-Both poles are real goods. A Challenger who cannot restrain is a hazard — every charge becomes a line, every line becomes a confrontation, and the people around them start managing them instead of working with them. A Challenger who cannot force is furniture. Every live moment sits somewhere on that axis, and where it sits is a judgment call. Judgment calls are precisely what an auditor is for.
+Both poles are real goods. A Challenger who cannot restrain is a hazard — every charge becomes a line, every line becomes a confrontation, and the people around them start managing them instead of working with them. A Challenger who cannot force is furniture. Every live moment sits somewhere on that axis, and where it sits takes a judgment call. Judgment calls are precisely what an auditor is for.
 
-Which is why the shadow is so hard to catch in the act. It does not argue for cowardice; you would notice cowardice. It argues for Restraint, and Restraint is half of the truth. *This is not the one. This is not the moment. This is not mine to say.* Each of those can be correct. Each of them is correct sometimes. You can spend a whole career at the Restraint end of a real polarity and call it discernment, and no single instance will look like a failure.
+Which is why nobody catches the shadow in the act. It does not argue for cowardice; you would notice cowardice. It argues for Restraint, and Restraint is half of the truth. *This is not the one. This is not the moment. This is not mine to say.* Each of those can be correct. Each of them is correct sometimes. You can spend a whole career at the Restraint end of a real polarity and call it discernment, and no single instance will look like a failure.
 
 The tell is never the position. The tell is whether you ever move. An auditor that has returned *not this one* eleven times running has stopped auditing and started ruling. Look at the sequence, not the verdict — that is the only place the pattern is visible, and it is why the app keeps count.
 
@@ -477,7 +477,7 @@ The tell is never the position. The tell is whether you ever move. An auditor th
 
 The Skeptic developed does one thing for you that nothing else in this chapter can: it makes your line credible. Not to other people first — to yourself. When the auditor has done its narrow job honestly and come back with *real, and current,* you are no longer arguing with yourself while the moment burns. You are aimed.
 
-That is the Disruptor's foundation. The Challenger's superpower is not the willingness to fight and it is not certainty. It is the willingness to be unwelcome on a charge you have checked and chosen to trust — clarity without cruelty, held steady long enough to say one sentence and stay for what follows.
+That is the Disruptor's foundation. The Challenger's superpower is not the willingness to fight, and not certainty. It is the willingness to be unwelcome on a charge you have checked and chosen to trust — clarity without cruelty, held steady long enough to say one sentence and stay for what follows.
 
 You know what your auditor is for now. That is what you take out.
 
@@ -492,15 +492,15 @@ The Challenger's game is simple: **draw the line, name the cost, mean it.**
 
 You know when you're winning at this altitude because the boundary exists out loud. Out of your head, out of the follow-up email you rehearse but never send. Said. Held.
 
-Here are the five concrete moves of the Challenger's game. You can use them today.
+The Challenger's game has five concrete moves. You can use them today.
 
-The skill Egan spent forty years studying was this one: the capacity to act clearly in a charged interpersonal moment. Not to think clearly — that's the easy part — but to act. *The Skilled Helper* makes a case that most people don't make explicit: you don't develop this capacity by understanding it. You develop it by doing it badly, noticing what failed, and doing it again with that information. The model is always: here is where you are, here is where you want to be, here is the next move to practice. That is what these five moves are built for. Not to be read. To be practiced until they become reliable.
+Egan spent forty years studying one skill: the capacity to act clearly in a charged interpersonal moment. Not to think clearly — that's the easy part — but to act. *The Skilled Helper* makes a case that most people don't make explicit: you don't develop this capacity by understanding it. You develop it by doing it badly, noticing what failed, and doing it again with that information. The model is always: here is where you are, here is where you want to be, here is the next move to practice. That is what these five moves are built for. Not to be read. To be practiced until they become reliable.
 
 ---
 
 ### Move 1: Name the Unnameable
 
-The Situation: Something is being said or done. Everyone can feel it. Nobody is naming it.
+The Situation: Someone says or does something. Everyone can feel it. Nobody names it.
 
 The Move: You name it.
 
@@ -528,7 +528,7 @@ The Move: State the line. State it without essay, without justification, without
 
 *This is where I need the line to be.*
 
-Why it works: Most people bury their lines in qualifiers. *"I don't know if this is the right time but I just wanted to maybe suggest that it might be worth considering..."* The line, buried in qualifiers, is not actually a line. The Challenger's move is to state the line cleanly, so clean it stands on its own.
+Why it works: Most people bury their lines in qualifiers. *"I don't know if this is the right time but I just wanted to maybe suggest that it might be worth considering..."* The line, buried in qualifiers, is not actually a line. The Challenger states the line cleanly, so clean it stands on its own.
 
 In practice: When you feel yourself reaching for a qualifier, stop. Take the qualifier out. State the line. Hold it for one second longer than is comfortable. That's usually all it takes.
 
@@ -538,7 +538,7 @@ In practice: When you feel yourself reaching for a qualifier, stop. Take the qua
 
 ### Move 3: Refuse Cleanly
 
-The Situation: Someone is asking you to do something you cannot or will not do. A request that violates a boundary. A demand that requires you to abandon yourself.
+The Situation: Someone asks you to do something you cannot or will not do. A request that violates a boundary. A demand that requires you to abandon yourself.
 
 The Move: Say no. Just the word. The essay stays unwritten, and so does the three-paragraph explanation that is actually an apology for saying no.
 
@@ -548,9 +548,9 @@ The Move: Say no. Just the word. The essay stays unwritten, and so does the thre
 
 *No, I won't be doing that.*
 
-Why it works: Most people mistake the three-paragraph explanation for clarity. It is not clarity — it is *hiding.* The explanation signals that the no needs to be justified, that the boundary needs to be defended. The Challenger knows: the no stands on its own. The explanation is optional. The no is not.
+Why it works: Most people mistake the three-paragraph explanation for clarity. It is not clarity — it is *hiding.* The explanation signals that the no needs justifying, that the boundary needs defending. The Challenger knows: the no stands on its own. The explanation is optional. The no is not.
 
-In practice: Practice the one-word no. Not *let me think about it* (which is a soft no) and not *I'm not sure I can* (which is an apologetic no) but *no.* Just no. See what happens. The world does not end. The relationship does not actually end. The clarity you gain is worth the momentary discomfort.
+In practice: Practice the one-word no. Not *let me think about it* (which is a soft no) and not *I'm not sure I can* (which is an apologetic no) but *no.* Just no. See what happens. The world does not end. The relationship does not actually end. The clarity you gain repays the momentary discomfort.
 
 **The test:** It stayed a no — unexplained, unsoftened, still a no by the end of the sentence. Acceptance is theirs. Your part finished when the word did.
 
@@ -558,13 +558,13 @@ In practice: Practice the one-word no. Not *let me think about it* (which is a s
 
 ### Move 4: Confront Without Cruelty
 
-The Situation: You need to say something hard to someone. A boundary has been crossed. A line has been violated. The confrontation is necessary.
+The Situation: You need to say something hard to someone. Somebody crossed a boundary. Somebody violated a line. The confrontation has to happen.
 
 The Move: Hard content. Clean delivery.
 
 *I want to talk with you about what happened in the meeting on Tuesday. You've done this before and I've asked you to stop. It keeps happening. I need you to know: I can't work with you on this project if it continues. That's not a threat — it's a boundary. I'm naming it clearly so you have the information you need.*
 
-Why it works: The Challenger's practice requires you to hold two things simultaneously: the boundary is real, and the relationship is real. Most people who are clear about boundaries are harsh. Most people who are gentle about boundaries are unclear. The Challenger holds both. Hard content. Clean delivery. You can be in the same sentence: *I need you to stop,* and *I want to work this out with you.*
+Why it works: The Challenger's practice requires you to hold two things simultaneously: the boundary is real, and the relationship is real. Most people who are clear about boundaries are harsh. Most people who are gentle about boundaries are unclear. The Challenger holds both. Hard content. Clean delivery. You can hold both in the same sentence: *I need you to stop,* and *I want to work this out with you.*
 
 In practice: Before a hard conversation, write down what you need to say. Then take out everything except the line and the consequence. What remains is the confrontation. Hold to that. The rest is noise.
 
@@ -574,13 +574,13 @@ In practice: Before a hard conversation, write down what you need to say. Then t
 
 ### Move 5: Stay Past the Discomfort
 
-The Situation: You've drawn the line. You've stated the boundary. Now everyone is uncomfortable. People are shifting. Someone looks upset. The old impulse is to soften, to clarify, to apologize for the discomfort you just created.
+The Situation: You've drawn the line. You've stated the boundary. Now the discomfort spreads. People shift in their seats. Someone looks upset. The old impulse is to soften, to clarify, to apologize for the discomfort you just created.
 
 The Move: Stay.
 
 You do not need their immediate comfort to validate your boundary. You do not need everyone to immediately reorganize around your no. You said the thing. The thing is true. You hold it.
 
-Why it works: Most lines fail not because they were badly drawn but because the person who drew them could not tolerate the discomfort of having drawn it. They softened. They clarified until the line was no longer a line. They apologized until the boundary was no longer a boundary. The Challenger knows: *the discomfort of holding a line is less costly than the cost of not holding it.* The short-term discomfort of staying is always less than the long-term cost of abandoning the boundary.
+Why it works: Most lines fail not from bad drawing but because the person who drew them could not tolerate the discomfort of having drawn it. They softened. They clarified until the line was no longer a line. They apologized until the boundary was no longer a boundary. The Challenger knows: *the discomfort of holding a line is less costly than the cost of not holding it.* The short-term discomfort of staying always costs less than abandoning the boundary.
 
 In practice: Next time you draw a line and feel the urge to soften — pause. Take one breath. Ask: *is the line true?* If yes, hold it. You do not owe anyone immediate comfort for your own clarity.
 
@@ -600,23 +600,23 @@ Same grid as the Shaman's, one operation over. Five basic moves down — the WAV
 | **Grow Up** · *find the developmental edge — what must evolve?* | The Edge of the Ask | The Edge of Speaking | The Edge of the Line | The Edge of Letting Go |
 | **Show Up** · *create the intervention — what must change?* | The Ask Goes Live | Say the Thing | Make the Move | Ship the System |
 
-Notice what happens to the titles as you go down. The Wake Up row is four things you are not looking at. The Show Up row is four things that happen in front of other people. That is the Challenger's arc compressed into twenty phrases: it starts at what you are refusing to see and it ends at something you did with witnesses. Read across a row instead and you are choosing the arena. Down is the sequence, across is where it lands.
+Notice what happens to the titles as you go down. The Wake Up row names four things you do not look at. The Show Up row names four things that happen in front of other people. That is the Challenger's arc compressed into twenty phrases: it starts at what you are refusing to see and it ends at something you did with witnesses. Read across a row instead and you choose the arena. Down is the sequence, across is where it lands.
 
 ### Drawing Against the Shadow
 
 Draw from your twenty rather than the hundred and twenty — though not from a single row of them. A daemon is a rule, and a rule in force the whole way down produces a different failure at every move. The Skeptic's five:
 
-**Wake Up** — it notices resistance, always somebody else's. What resists being seen gets located outside you before the noticing has finished, and the hand holding the instrument is exempt from it.
+**Wake Up** — it notices resistance, always somebody else's. What resists being seen gets located outside you before the noticing has finished, and the hand holding the instrument escapes it.
 
-**Open Up** — a feeling whose warrant is still pending cannot be stayed with; staying would be credulity. So the discomfort goes into escrow until the verdict, and the verdict does not release it.
+**Open Up** — a feeling whose warrant still hangs open cannot be stayed with; staying would count as credulity. So the discomfort goes into escrow until the verdict, and the verdict does not release it.
 
 **Clean Up** — a verdict about what something means is an interpretation. The move gets run, and the output gets called a finding.
 
 **Grow Up** — asked what must evolve, it returns better discernment. Sharper standards, faster detection of overreaction: an upgrade to the instrument that is the problem.
 
-**Show Up** — an assessment ships where an intervention was called for. The critique is accurate, it is often the best thing said at the table, and nothing in the world moves.
+**Show Up** — an assessment ships where an intervention was called for. The critique lands accurate, often the best thing said at the table, and nothing in the world moves.
 
-Where it bites is Clean Up. The Skeptic's remit is whether the thing was ever real, and reality gets settled at interpretation. The other four rows are that same ruling arriving early or arriving late.
+It bites hardest at Clean Up. The Skeptic's remit is whether the thing was ever real, and reality gets settled at interpretation. The other four rows run that same ruling early or late.
 
 Take **The Story About the Truth** — Clean Up, Raise Awareness, Challenger. Its question is the one the Skeptic is least willing to have turned around: *what story am I believing?* The Skeptic is an instrument for finding the story underneath somebody else's claim. This card points the same instrument at the verdict the Skeptic just issued.
 

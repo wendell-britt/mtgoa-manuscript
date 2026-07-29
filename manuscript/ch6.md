@@ -153,29 +153,29 @@ It is one habit, applied five times.
 ## Section 4: The Practice
 ### *What the Architect Actually Does With a Broken System*
 
-At the Architect's altitude, the native material is not emotion — it is *logic.* The raw material is the relationship between cause and effect: the structures that produce outcomes, the leverage points that change systems, the mental models that explain why things are the way they are.
+At the Architect's altitude, the native material shifts from emotion to *logic.* The raw material comes down to the relationship between cause and effect: the structures that produce outcomes, the leverage points that change systems, the mental models that explain why things are the way they are.
 
-This is not abstract theory. The Architect uses logic the way the Shaman uses emotion: as a living instrument for reading reality. A system is not working. The Architect asks: why does this system produce this outcome? Where is the smallest push that creates the largest movement?
+None of this stays in the realm of theory. The Architect uses logic the way the Shaman uses emotion: as a living instrument for reading reality. Say a system stops working. The Architect asks: why does this system produce this outcome? Where is the smallest push that creates the largest movement?
 
 The Architect's practice has five stages:
 
 **Observe:** What is actually happening? Not what the org chart says should happen. What is actually happening — measured, traced to its source. The Architect talks to the people inside the system. Reads the data. Looks at outcomes, not intentions.
 
-**Model:** Build the simplest explanation that accounts for the behavior. A model is not the territory. It is a map — useful for a specific territory, disposable when it outlives its usefulness. Once you have the model, you can test it. Once you can test it, you can change it.
+**Model:** Build the simplest explanation that accounts for the behavior. A model never becomes the territory. It stays a map — useful for a specific territory, disposable when it outlives its usefulness. Once you have the model, you can test it. Once you can test it, you can change it.
 
-**Design:** Create the intervention that changes the system's incentives. The Architect asks: where is the actual leverage point? What would have to change for the right outcome to become the natural outcome? Design is the translation of understanding into action.
+**Design:** Create the intervention that changes the system's incentives. The Architect asks: where is the actual leverage point? What would have to change for the right outcome to become the natural outcome? Design turns understanding into something that happens.
 
-**Deploy:** Ship it into contact with reality. The Architect does not fall in love with designs. The Architect falls in love with outcomes. A design that fails is information. Deploy, observe the new state, adjust.
+**Deploy:** Ship it into contact with reality. The Architect does not fall in love with designs. The Architect falls in love with outcomes. A design that fails hands you information. Deploy, observe the new state, adjust.
 
 **Hand Off:** Give it away, on purpose, to someone who can run it without you.
 
-This is the stage that turns the other four from a loop into a practice. Observe, Model, Design, Deploy will iterate forever — each deployment producing new observations, each set of observations justifying another cycle — and there is no point inside that loop where the Architect is finished, because the loop has no exit built into it. An Architect can spend a decade there and produce a measurably better system every year, and the system will still stop working the month they leave, because it was never designed to be run by anyone else. Hand Off is the stage where the practice stops being about the system and starts being about the next person: what they need to know that you are assuming they know, what has to be written down, what has to get simpler so that it survives contact with someone who was not in the meetings. Operating it is the low bar. The test is whether they can *change* it — whether you handed over a machine or a machine plus the reasoning that would let them redesign it when the conditions move.
+This stage turns the other four from a loop into a practice. Observe, Model, Design, Deploy will iterate forever — each deployment producing new observations, each set of observations justifying another cycle — and no point inside that loop finds the Architect finished, because the loop has no exit built into it. An Architect can spend a decade there and produce a measurably better system every year, and the system will still stop working the month they leave, because nobody ever designed it to run without them. Hand Off turns the practice away from the system and toward the next person: what they need to know that you assume they know, what has to go on paper, what has to get simpler so that it survives contact with someone who was not in the meetings. Operating it only clears the low bar. The test is whether they can *change* it — whether you handed over a machine or a machine plus the reasoning that would let them redesign it when the conditions move.
 
-Hand Off is also the stage with the highest desertion rate, and the reason is not workload. It is that the four-stage loop is where the Architect is most valuable and most visible, and stepping out of it costs exactly that. Every argument for staying one more cycle is a good argument. That is what makes it a stage rather than an afterthought.
+Hand Off also carries the highest desertion rate, and workload has nothing to do with it. The four-stage loop is where the Architect looks most valuable and most visible, and stepping out of it costs exactly that. Every argument for staying one more cycle is a good argument. That fact makes it a stage rather than an afterthought.
 
 ---
 
-The five Architect modes are five ways logic moves through a problem. Each one is a channel doing detection work.
+The five Architect modes are five ways logic moves through a problem. Each one works as a channel doing detection.
 
 ### EA Channel Alignment — How Each Mode Moves Energy
 

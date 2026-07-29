@@ -60,23 +60,23 @@ Each mode's full arc — the dissatisfaction it carries and the alchemy that tra
 ## Section 3: The Concept
 ### *What Honest Terms Actually Are (And Why It's Not What You've Been Told)*
 
-There is a version of "terms" you have already met, and it is why this chapter has to define the word before it can use it.
+You have already met a version of "terms," and that version forces this chapter to define the word before it can use it.
 
-The village hardens terms into ultimatums. Terms are what someone says when they have decided to leave and want you to know it is your fault. Terms come with a deadline attached and a threat underneath. They are what the person with leverage produces at the end of a negotiation that was never a negotiation. That version of the word is real — people do this — and it is the reason a certain kind of capable, relationally fluent person will run an entire career without ever naming a single term of her own. She has seen what terms look like in the hands of someone playing a power game. She has decided not to be that.
+The village hardens terms into ultimatums. Terms are what someone says when they have decided to leave and want you to know it is your fault. Terms come with a deadline attached and a threat underneath. The person with leverage produces them at the end of a negotiation that was never a negotiation. That version of the word holds real — people do this — and it explains why a certain kind of capable, relationally fluent person will run an entire career without ever naming a single term of her own. She has seen what terms look like in the hands of someone playing a power game. She has decided not to be that.
 
-That decision is an accurate reading of a specific misuse. Accuracy is why nobody has talked her out of it. The problem is what it costs to generalize from it.
+That decision is an accurate reading of a specific misuse. Accuracy explains why nobody has talked her out of it. The problem is what it costs to generalize from it.
 
-Honest terms are the opposite instrument. **A term is a statement of what this field must hold for your staying to remain real — offered as information, once, to a field that is then free to answer.** It is a fact about the arrangement rather than a demand or a condition of continued affection, and it is delivered while there is still time for anyone to do something with it.
+Honest terms work as the opposite instrument. **A term is a statement of what this field must hold for your staying to remain real — offered as information, once, to a field that is then free to answer.** It states a fact about the arrangement rather than a demand or a condition of continued affection, and it arrives while anyone still has time to do something with it.
 
-The difference is not tone. This is where the Diplomat's altitude gets it wrong most often, because tone is what this altitude is best at. An ultimatum said warmly is still an ultimatum. An honest term said flatly is still an honest term. The difference is structural: an ultimatum removes the other party's freedom to answer, and an honest term is the specific act of giving it back to them. You cannot decline something you were never told about. A field that does not know what your staying requires has never once had the chance to choose you.
+The difference is not tone. The Diplomat's altitude gets it wrong here most often, because this altitude excels at tone. An ultimatum said warmly is still an ultimatum. An honest term said flatly is still an honest term. The difference is structural: an ultimatum removes the other party's freedom to answer, and an honest term is the specific act of giving it back to them. You cannot decline something you were never told about. A field that does not know what your staying requires has never once had the chance to choose you.
 
-Which produces the sentence this chapter exists to disprove, and it is the most protected sentence the ideal reader carries.
+Which produces the sentence this chapter exists to disprove, the most protected sentence the ideal reader carries.
 
 **The myth: allyship means never causing harm.**
 
-It sounds like a floor. It functions as a ceiling. If your presence is only legitimate as long as it has cost no one anything, then naming a term is a risk you cannot take, because a term might land badly, and something that lands badly is harm, and harm is disqualifying. So the terms stay unnamed. The staying stays weightless. The reader stays — pleasant, reliable, and slowly becoming furniture — and calls the whole arrangement care.
+It sounds like a floor. It functions as a ceiling. If your presence only counts as legitimate for as long as it has cost no one anything, then naming a term becomes a risk you cannot take, because a term might land badly, and something that lands badly is harm, and harm is disqualifying. So the terms stay unnamed. The staying stays weightless. The reader stays — pleasant, reliable, and slowly becoming furniture — and calls the whole arrangement care.
 
-Every move in this chapter is downstream of that myth. The chapter's job is to replace it with something a person can actually stand on: not *I have never caused harm*, but *I can be told what I cost and stay in the conversation afterward.*
+Every move in this chapter runs downstream of that myth. This chapter replaces it with something a person can actually stand on: not *I have never caused harm*, but *I can be told what I cost and stay in the conversation afterward.*
 
 ---
 
@@ -88,13 +88,13 @@ A polarity is not a problem to solve. It has two poles, and both of them are rig
 
 The Diplomat's pair: care for the relationship versus impact on the situation.
 
-**Care** means protecting the connection itself — the trust, the willingness of people to stay in contact with each other, the conditions under which anyone can say anything difficult at all. Care is the maintenance of the only medium through which anything relational travels. Sentiment protects how the connection feels; care protects whether it still works. A field with no care in it cannot be told anything.
+**Care** means protecting the connection itself — the trust, the willingness of people to stay in contact with each other, the conditions under which anyone can say anything difficult at all. Care maintains the only medium through which anything relational travels. Sentiment protects how the connection feels; care protects whether it still works. A field with no care in it cannot be told anything.
 
-**Impact** means the actual change in the world outside the relationship — what moves, what stops, who is materially better off after the conversation than before it. Impact is the willingness for a relationship to be spent on something, rather than preserved as an end in itself. Brutality spends the relationship without pricing it. Impact names the price first and spends it anyway.
+**Impact** means the actual change in the world outside the relationship — what moves, what stops, who is materially better off after the conversation than before it. Impact means the willingness to spend a relationship on something rather than preserve it as an end in itself. Brutality spends the relationship without pricing it. Impact names the price first and spends it anyway.
 
 Both poles have a failure state, and the failure states do not look alike. Care without impact is attendance: warm, dependable, and doing nothing. Everyone likes you. Nothing changes. Impact without care is the Challenger's altitude imported into a conversation that needed this one — the true thing said in a way that ends the possibility of saying the next true thing.
 
-Here is the part specific to this reader, and it is the reason the axis is hard to see rather than hard to accept. You are fluent in one pole and suspicious of the other. The Care end has a vocabulary — holding, tending, centering, making space — and the Impact end, at this altitude, mostly has warnings attached to it. Which means the drift is one-directional and it never announces itself. Nobody drifts toward Care in a single dramatic act of avoidance. It happens one reasonable call at a time, and each call is defensible.
+One part of this belongs specifically to this reader, and it explains why the axis reads as hard to see rather than hard to accept. You are fluent in one pole and suspicious of the other. The Care end has a vocabulary — holding, tending, centering, making space — and the Impact end, at this altitude, mostly has warnings attached to it. Which means the drift runs one direction and never announces itself. Nobody drifts toward Care in a single dramatic act of avoidance. It happens one reasonable call at a time, and each call is defensible.
 
 The draw is relational. Not solo. Pick a live field with actual people in it, because this axis only shows its position when something is at stake between you and somebody else.
 
