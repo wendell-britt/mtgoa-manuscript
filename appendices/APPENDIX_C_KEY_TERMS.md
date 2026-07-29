@@ -1,4 +1,8 @@
-# Appendix C: Key Terms
+# Key Terms — RETIRED, does not ship in the first edition
+
+**Retired 2026-07-29.** This glossary defines the pre-2026-07 book: the eight-gate walk removed from Chapters 4-8, the Vulnerable Child that left Chapter 2's roster, the six Faces under their old names, and 51 references to a hexagram and oracle-card system that is not in the manuscript. Its chapter tags are 0-indexed, so *"Upper trigram of Ch2 (Shaman)"* points at The Forest. No in-text reference in canon pointed at it, so removing it breaks nothing.
+
+Kept on disk as the starting point for a second-edition glossary. It is out of `instruments/build_book.py`'s spine and out of `instruments/gate.py`'s shipping list; the letter C now belongs to The Five Channels in Practice.
 **Type:** Reference
 **Authority:** MTGOA manuscript; gate × chapter trigram architecture (BARS_ICHING_ARCHITECTURE.md)
 **Format:** Term → one-sentence definition → [chapter] → related terms

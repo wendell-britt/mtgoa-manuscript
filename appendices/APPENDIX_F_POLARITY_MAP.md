@@ -1,6 +1,6 @@
 # Appendix F: The Polarity Map
 
-**Location in book:** After Appendix E; before Appendix G (the bibliography). Toolkit cluster (D/E/F). Letter locked 2026-06-03 in the appendix-ordering pass.
+**Location in book:** After Appendix E; before Appendix G (the bibliography). Toolkit cluster (C/D/E/F). Letter locked 2026-06-03 in the appendix-ordering pass and unaffected by the 2026-07-29 retirement of Key Terms.
 
 
 *You met this tool in Chapter 2, drew your first axis in Chapter 4, and ran it in the field in Chapter 6. This is the full version — the one to come back to when a decision keeps refusing to resolve and you start to suspect it was never a decision at all.*

@@ -2,8 +2,8 @@
 
 **Status:** Reader appendix — promoted from reference 2026-06-03 (appendix-ordering pass). Content relocated from pre-compression Ch2 (2026-05-24).
 **Authority:** `CH3_321_PHASE2_SPEC.md` Part G
-**Location in book:** After Appendix D; before Appendix F. Toolkit cluster (D/E/F), before the bibliography.
-**Book body:** Phase 1 catalog in Ch2; **first practice in Ch3** (Challenger / oppressor projection).
+**Location in book:** After Appendix D; before Appendix F. Toolkit cluster (C/D/E/F), before the bibliography.
+**Book body:** Phase 1 catalog in Chapter 3; **first practice in Chapter 4** (Challenger / oppressor projection). Renumbered 2026-07-29 — the old figures were 0-indexed and disagreed with `ch3.md:545`.
 
 ---
 

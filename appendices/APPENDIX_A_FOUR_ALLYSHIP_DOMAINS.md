@@ -1,7 +1,7 @@
 # Appendix A: The Four Allyship Domains
 **Status:** Expanded draft — depth pass complete 2026-05-29
 **Authority:** Integral design spec 2026-05-21; gate-domain affinity table confirmed with Wendell 2026-05-21; depth pass 2026-05-29
-**Location in book:** After Ch8; before Appendix B
+**Location in book:** After Chapter 9; before Appendix B. First appendix.
 
 ---
 

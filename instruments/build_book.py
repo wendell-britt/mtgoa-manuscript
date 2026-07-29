@@ -53,9 +53,13 @@ SPINE = [
     ("chapter",  "Chapter 8",               "manuscript/ch8.md",                 True),
     ("chapter",  "Chapter 9",               "manuscript/ch9.md",                 True),
 
+    # Letter C changed hands 2026-07-29. The Key Terms glossary was retired —
+    # it defined the retired eight-gate book — and The Five Channels in Practice
+    # took the slot, which is where ch3:400 was already sending the reader. D
+    # through G keep their letters, so nothing else in the sequence moved.
     ("appendix", "Appendix A",  "appendices/APPENDIX_A_FOUR_ALLYSHIP_DOMAINS.md",     True),
     ("appendix", "Appendix B",  "appendices/APPENDIX_B_QUESTS_CAMPAIGNS.md",          True),
-    ("appendix", "Appendix C",  "appendices/APPENDIX_C_KEY_TERMS.md",                 True),
+    ("appendix", "Appendix C",  "appendices/APPENDIX_C_FIVE_CHANNELS.md",             True),
     ("appendix", "Appendix D",  "appendices/APPENDIX_D_EMOTIONAL_ALCHEMY_PRACTICES.md", True),
     ("appendix", "Appendix E",  "appendices/APPENDIX_E_321_SHADOW_PROCESS.md",        True),
     ("appendix", "Appendix F",  "appendices/APPENDIX_F_POLARITY_MAP.md",              True),
@@ -67,11 +71,10 @@ SPINE = [
 ]
 
 # Live cross-references in canon that name an appendix by title rather than by
-# letter. Each has to resolve to a real file before print, or a reader follows a
-# pointer to nothing. The Five Channels appendix is the open case: ch3 sends the
-# reader to it, it is written, and it has no letter and sits in drafts/.
+# letter. Each has to resolve to a lettered file in the spine before print, or a
+# reader follows a pointer to nothing.
 NAMED_REFERENCES = {
-    "The Five Channels in Practice": "drafts/appendix_channels.md",
+    "The Five Channels in Practice": "appendices/APPENDIX_C_FIVE_CHANNELS.md",
     "3-2-1 Shadow Process":          "appendices/APPENDIX_E_321_SHADOW_PROCESS.md",
     "Polarity Map":                  "appendices/APPENDIX_F_POLARITY_MAP.md",
 }

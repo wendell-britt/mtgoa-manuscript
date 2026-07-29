@@ -1,4 +1,6 @@
-# APPENDIX — THE FIVE CHANNELS IN PRACTICE
+# Appendix C: The Five Channels in Practice
+
+**Location in book:** After Appendix B; before Appendix D. Lettered 2026-07-29, taking the slot vacated by the retired Key Terms glossary.
 
 *Concept and first practice: Chapter 3.*
 

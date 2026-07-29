@@ -2,7 +2,7 @@
 
 **Status:** Draft — written 2026-06-03 from appendix design spec (`docs/plans/2026-05-21-appendix-design.md`) + per-chapter WB-1 centerpieces + `GATE_GIFTS_ALLYSHIP_MOVES.md`. De-somatized per the no-somatic-prescription directive.
 **Authority:** Integral design spec 2026-05-21 (Hex 50, The Cauldron); quest/gate/domain table locked there.
-**Location in book:** After Appendix A; before Appendix C.
+**Location in book:** After Appendix A; before Appendix C (The Five Channels in Practice).
 **Timing dependency:** Each quest routes to the app for BAR capture. The bars-engine quest structures named below (`→ app: [Quest Name]`) must exist before this appendix goes to press. Coordinate before press.
 
 ---
