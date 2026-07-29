@@ -1,6 +1,32 @@
 # CHAPTER 5: THE REGENT
 ## *Traditions Worth Protecting and Worth Breaking*
 
+
+<!-- EPIGRAPH-BYLINE -->
+> *Quill handed me the ledger in my first week and did not mention for a full term that the
+> previous keeper had falsified it. She wanted to see what I would keep.*
+>
+> — Tomas Vey, third-year, School of the Oath
+>
+> *They kept the festival and changed the part about us. Nobody announced it. I found out because
+> my daughter came home knowing the new words.*
+>
+> — Halvane, the year after
+>
+> the third treatise, submitted by Sera Quill, Keeper of Continuance,
+> Head of the School of the Oath
+<!-- /EPIGRAPH-BYLINE -->
+
+<!-- MARGINALIA -->
+> *Sera hands new students something inherited — a role, a ledger, a duty nobody wants — and
+> watches whether they keep the purpose or only the shape of it. Most keep the shape. She does not
+> tell them which they did for a full term, which several people have called cruel and which is the
+> only version that works.*
+>
+> *She has let three inheritances die since I came aboard. She can name them and the year. She has
+> never once looked comfortable doing it.*
+<!-- /MARGINALIA -->
+
 ---
 
 ## Section 1: The Exile
@@ -136,6 +162,16 @@ That's what the Regent knows. That's what the Regent built. The weekly council i
 
 One thing makes the Regent's practice distinct: the Regent knows that traditions are *supposed* to change. A tradition that can't change is a tradition that has died — it's just still moving because nobody noticed. The Regent's actual practice is: *receive what was passed to you, honor what still serves, reform what no longer does, and pass something worth passing.*
 
+<!-- MARGINALIA -->
+> *Halvane has both kinds. They mend everything and let the mend show — a replaced roof beam is
+> painted a different colour on purpose, and the colour tells you which generation did the work, so
+> a ceiling with six colours in it is worth more than a ceiling with one. Their food is terrible.
+> They have kept the recipes.*
+>
+> *I knew what the colours meant before the guide explained them. I did not mention it.*
+<!-- /MARGINALIA -->
+
+
 That's the full sequence: **Inherit → Honor → Steward → Reform → Entrust.**
 
 Not: obey.
@@ -151,6 +187,16 @@ Real stewardship includes the possibility of reform. Real inheritance includes t
 ---
 
 ### Polarity Encounter — Honor ↔ Reform
+
+<!-- MARGINALIA -->
+> *This is the polarity Sera lives in and it is where she is least reliable. She will hold a thing
+> one season longer than it can bear, every time, and she will have a good reason.*
+>
+> *The reason will be true. That is what makes it hard. The test is not whether the reason is good
+> — it is whether anybody has said out loud what stopping would cost, in numbers, with a date. If
+> nobody has, the reason is doing a different job than the one it appears to be doing.*
+<!-- /MARGINALIA -->
+
 
 You met the Polarity Map in Chapter 3. Here is the Regent's pair.
 
@@ -297,6 +343,15 @@ The test is simple: does this move make the inheritance more alive and more rece
 
 ### The Inheritance Cycle
 
+<!-- MARGINALIA -->
+> *The school keeps a vow ceremony that nobody can explain. It runs forty minutes. Two of the six
+> Heads believe it predates the ship, which it cannot, because we invented it in the fourth year —
+> I was there and I remember the argument about the candles.*
+>
+> *It is the best-attended thing we do. I have stopped correcting people.*
+<!-- /MARGINALIA -->
+
+
 The Regent's natural flow is generational, not moment-to-moment:
 
 **Inherit → Honor → Steward → Reform → Entrust → (next generation) → Inherit**
@@ -325,6 +380,15 @@ The Regent asks you to: Inherit — *this is what came to me.* Honor — *this p
 
 ### Name One Inheritance Out Loud, in the Village
 
+<!-- MARGINALIA -->
+> *Pick the person who will be least gracious about it. You already know who that is, and you have
+> been choosing somebody else, without admitting it, since you started this section.*
+>
+> *The gracious one will make you feel you have done it. Only the other one will tell you whether
+> you have.*
+<!-- /MARGINALIA -->
+
+
 Everything above describes the cycle. Here comes the one move that leaves the Forest. The Regent's pace is generational, so this won't resolve this week — but it can *start* this week, and starting it costs something, which is the whole point. Interior sorting is free. Saying it out loud, to the people who hold the tradition with you, is where loyalty has a price.
 
 Pick one inheritance you've already located — a practice, a norm, a role, a tradition you've been carrying without deciding about. Then say one of two sentences, this week, to the actual people it belongs to. Not in your journal. To their face.
@@ -349,6 +413,16 @@ The repair itself is sound. The distortion is what gets attached to it.
 It arrives with a condition, and the condition sounds responsible. *I will commit to this once it is worth committing to.* Fix the governance, then take the role. Resolve the contradiction in the mission statement, then put your name on it. Get one more cycle of reform through and then, with a clear conscience, give yourself to the thing. Every clause of that is defensible. The trouble is the ordering, and the ordering never changes. There is always one more cycle. There has to be — a tradition in working condition is not a thing that exists, and a standard that no real inheritance can meet is not a standard. It works as a permanent exemption dressed as rigor.
 
 Then comes the second move, the Healer half, and it costs you more. When the repair does not arrive, you supply it. Personally. Out of your own body. The structure the organization lacks becomes the structure you hold in your head. The continuity it cannot generate becomes your continuity. The institutional memory nobody wrote down becomes your memory, and you become load-bearing in a way nobody voted on and nobody can see. You are not committing to the tradition. You are substituting for it. From outside, those look identical — until you leave, and everyone discovers that the thing you were holding was you.
+
+<!-- MARGINALIA -->
+> *Sera does this. Not the repair half — the second one. She is the reason four separate things on
+> this ship still function, none of them written down, all of them in her head, and she will tell
+> you she is simply the person who happens to remember.*
+>
+> *I have raised it with her twice. Both times she agreed, thanked me, and changed nothing, and I
+> let it go, because the four things kept working and I had a term to run.*
+<!-- /MARGINALIA -->
+
 
 This daemon stands where it stands for a reason, in a book about allyship. Everything this chapter teaches runs on receiving something before you have finished evaluating it. Inherit, then Honor: take on what arrived, then sort what in it still serves. The Fixer-Healer ends the cycle between those two steps — not by arguing that the inheritance is bad, but by ruling that it is not yet in a condition to be inherited. The evaluation never closes. You never get to Honor, because Honor requires having accepted the thing, and acceptance keeps getting deferred to the far side of a repair that has no far side.
 

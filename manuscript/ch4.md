@@ -1,6 +1,34 @@
 # CHAPTER 4: THE CHALLENGER
 ## *The Clean "No" as the Foundation of Real Allyship*
 
+
+<!-- EPIGRAPH-BYLINE -->
+> *Ash stopped me four times in one hour. The fourth time I had nothing left to protect, and that
+> was the first useful thing I said.*
+>
+> — Ren Alcott, first-year, School of the Line
+>
+> *Somebody told them no on my behalf and it worked immediately, after two years of my saying it.
+> I am grateful, and I am aware of what that tells me. Both of those are permanent.*
+>
+> — a clerk of Oreve
+>
+> the second treatise, submitted by Corin Ash, Master of the Clean No,
+> Head of the School of the Line
+<!-- /EPIGRAPH-BYLINE -->
+
+<!-- MARGINALIA -->
+> *Corin held a verdict open once. One time that I know of, against every instinct they have, for
+> the four days it took the evidence to arrive. It changed the outcome and they have never
+> mentioned it, and it is the hardest thing I have watched anyone on this staff do.*
+>
+> *The rest of the time they interrupt. Not rudely and not always usefully, but reliably — you will
+> be three sentences into explaining yourself and they will stop you and ask what you are
+> protecting. If you cannot answer, the exercise starts again. Students find this unbearable for
+> roughly a term, and then find they have started doing it to themselves, which is the entire
+> curriculum.*
+<!-- /MARGINALIA -->
+
 ---
 
 ## Section 1: The Exile
@@ -90,6 +118,17 @@ The clean no does not dissolve. The clean no states.
 
 Most people can do part one. Some people can do parts one and two. Very few people can do all three without flinching. (One of those three stops you. We're going to get there.)
 
+<!-- MARGINALIA -->
+> *Very few people can do all three without flinching. Somebody did all three to me once, in eleven
+> words, and then went back to what they had been doing.*
+>
+> *There was nothing to say back. That is the part nobody mentions — it was not cruel and it left
+> me no opening, and those two together meant I had no move at all. I stood there a moment and then
+> I left. I have taught this to four hundred students since. I have used somebody else's example
+> every single time.*
+<!-- /MARGINALIA -->
+
+
 Because a boundary that does not include the cost is not a boundary. It is a request you haven't stopped making yet. It is the hope that someone will respect your line without you having to enforce it. Hope, in the domain of boundaries, is not a strategy.
 
 The Challenger learned this the hard way — by watching boundaries dissolve, relationships violate, and lines get crossed because someone stated a preference instead of drawing a line.
@@ -107,6 +146,18 @@ Keep the anger past the heat. What remains is will.
 The village, without the Challenger, has forgotten the difference.
 
 ### Polarity Encounter — Force ↔ Restraint
+
+<!-- MARGINALIA -->
+> *Corin's blind spot lives in this section, and they know it, which helps less than you would
+> hope.*
+>
+> *They cannot reliably tell slow from frightened. Nor can you yet. A person taking their time is
+> gathering something; a person who is frightened is waiting for the situation to change on its
+> own. So the test is not how long they take — it is whether anything is arriving. Ask what they
+> are waiting for. If they can tell you, it is not cowardice. If they say "just a bit longer," you
+> have your answer, and so do they.*
+<!-- /MARGINALIA -->
+
 
 You met the Polarity Map in Chapter 3. Here is the Challenger's pair.
 
@@ -283,6 +334,16 @@ The Challenger does not live in constant confrontation. The Challenger lives in 
 
 ### Run the 30-Second Protocol in the Village
 
+<!-- MARGINALIA -->
+> *Thirty seconds is generous. You will have four.*
+>
+> *In four seconds you can do one thing, so make it the same thing every time: say what you would
+> say if you were not going to be there afterwards. Do not work out which line to draw. Draw
+> the one you already know about. The protocol is for afterwards, when you are working out why that
+> was the one.*
+<!-- /MARGINALIA -->
+
+
 Everything above builds the system. This is the one move you take out of the Forest and into the Village this week — the meeting, the group chat, the dinner table, wherever drawing a line actually costs you something. Interior work is free. The Village is where the no has a price. This is how you pay it cleanly.
 
 You are in a meeting. Someone says something that crosses a line — not a catastrophic violation, but a real one. Something that dismissed a community you care about. Something that was said *casually,* the way people say things when they don't know who is listening.
@@ -433,6 +494,17 @@ Find the voice. Give it a name. Say the name out loud.
 ## Section 5: The Skeptic, Up Close
 ### *The Auditor, and the Charge It Rules Inadmissible*
 
+<!-- MARGINALIA -->
+> *There is a body on this ship whose stated purpose is the identification of risk. It has never run
+> out. It has never approved anything. Last spring it was renewed unanimously, including by the two
+> members who had spent the year complaining about it.*
+>
+> *I raise it because the Auditor in you will sound exactly like a committee doing its job, and a
+> committee doing its job is nearly impossible to argue with. Which is why nobody argues with them,
+> and why nothing has been approved since I came aboard.*
+<!-- /MARGINALIA -->
+
+
 You met the Skeptic at the door of the Forest, third in line, a few steps behind the Controller. The Protector decides whether you go in at all. The Controller decides how you may behave once you get inside. The Skeptic decides something narrower and more damaging than either: whether the thing you reacted to was ever real.
 
 At its best the Skeptic is your auditor, and you need one. A charge arrives and the auditor asks the single useful question — *is this the thing in front of me, or is this an old thing wearing today's clothes?* Sometimes the honest answer names the old thing, and the auditor has just saved you from spending a line on someone who did not earn it. That is not timidity. That is what makes your no expensive. Someone who draws a line at everything has not drawn one; the line stops carrying information about the world and becomes weather, and people learn to dress for it and walk past. The auditor earns you this: when you do finally say *this is not acceptable*, the sentence carries.
@@ -485,6 +557,16 @@ You know what your auditor is for now. That is what you take out.
 
 ## Section 6: The Game
 ### *What Winning Looks Like at the Challenger's Altitude*
+
+<!-- MARGINALIA -->
+> *I killed an idea once in the first ten seconds and called it discernment. It was a good call. It
+> has been a good call every time since, which is the part I would ask you to sit with, because a
+> thing that is right every time is not being tested.*
+>
+> *The additional benefit of killing it inside ten seconds — which I did not admit to myself for a
+> number of years — is that I never had to find out.*
+<!-- /MARGINALIA -->
+
 
 Okay. You've met the Skeptic and practiced 3-2-1 on the line you projected outward. Now — what does it actually look like in a real situation?
 
