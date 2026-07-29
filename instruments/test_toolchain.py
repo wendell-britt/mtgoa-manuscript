@@ -135,6 +135,23 @@ R.check_anchors(os.path.join(ROOT, "marginalia", "insertions.py"),
                 os.path.join(ROOT, "manuscript"))
 check("anchors clean on an applied manuscript", len(R.F) - before, 0)
 
+
+
+# ---------------------------------------------------------------- edit-script safety
+# On 2026-07-29 a spec file was truncated to 0 bytes by
+#     io.open(p,'w').write(io.open(p).read().replace(a,b))
+# The write handle truncates before the read runs, so the read returns "".
+# It committed empty and was recovered from git. Read fully, then write once.
+print("\nedit-script safety")
+_probe = os.path.join(ROOT, ".diet_probe_tmp")
+io.open(_probe, "w", encoding="utf-8").write("hello world")
+_t = io.open(_probe, encoding="utf-8").read()          # read completes first
+io.open(_probe, "w", encoding="utf-8").write(_t.replace("world", "there"))
+check("read-then-write preserves content",
+      io.open(_probe, encoding="utf-8").read(), "hello there")
+os.remove(_probe)
+
+
 # ---------------------------------------------------------------- report
 print()
 if FAIL:
