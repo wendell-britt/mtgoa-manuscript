@@ -41,7 +41,7 @@ This is the Diplomat's gift: integrative negotiation — surfacing what each par
 
 Most people stay past the point of their usefulness. Most people absorb cost until they are empty and then leave without warning. Most people never surface what the agreement actually requires — and so their presence is never treated as the precious, chosen thing it is. The Diplomat understands that a staying which cannot name its terms is a staying without weight. A staying without weight is a staying that slowly, invisibly, stops meaning anything at all.
 
-The Diplomat is not a cold person. The Diplomat is not a pushover who cannot hold the field. The Diplomat is the negotiator who has learned that love is not demonstrated through infinite presence — it is demonstrated through honest stake-surfacing, timely closure, and the willingness to let the field decide what it can actually hold.
+The Diplomat is the negotiator who has learned that love is demonstrated through honest stake-surfacing, timely closure, and the willingness to let the field decide what it can actually hold, rather than through infinite presence.
 
 The five stages of the Diplomat's work are not a checklist — they are a journey in sequence. **Bridge** is the initial entry, the act of showing up in the field with curiosity rather than judgment, making contact without yet knowing what the relationship will require. **Translate** is the work of rendering one camp's language into terms another camp can hear — not betraying either side, but finding the common ground of meaning. **Hold** is the maintenance of enough safety that difficult conversation remains possible even when the field is charged — not the four seconds of Stand you learned from the Challenger, which is one person declining to take back one line, but the sustained containment of a whole field over the length of a hard conversation, sometimes over months. **Repair** is the healing of ruptures without the pretense that they did not occur — cleaning the wound without pretending it was never made. **Negotiate** is the culmination: surfacing what each party is protecting, naming the terms under which staying remains possible, and closing — heard *and* something moves.
 
@@ -53,7 +53,7 @@ Each stage earns the next. Bridge without Translate is noise. Translate without 
 
 The Diplomat lives at the relational altitude of human development — pluralistic, relational, oriented toward inclusion. Where the Regent operates through tradition and inherited structure, and the Challenger operates through decisive will and confrontation, the Diplomat operates through the relational field. What matters is not what any single person thinks or wants but what becomes possible between people when the conditions are held rightly.
 
-The Diplomat's stance is commonly misunderstood. It is not niceness. It is not conflict-avoidance dressed in the language of harmony. It is not the absence of judgment in the service of false peace. It is the altitude at which a person can hold multiple valid perspectives simultaneously — can be a partisan and still make space, can stand for something and still listen, can name their own position and still honor the legitimacy of a position they disagree with. The Diplomat's working capacity is honest multiplicity: holding the field without requiring it to resolve into one thing, holding the tension between positions without rushing to collapse it. That capacity is the raw material. What it is *for* is named at the end of Section 5.
+The Diplomat's stance is commonly misunderstood. Niceness, conflict-avoidance dressed in the language of harmony, and the absence of judgment in the service of false peace are all mistaken for it. It is the altitude at which a person can hold multiple valid perspectives simultaneously — can be a partisan and still make space, can stand for something and still listen, can name their own position and still honor the legitimacy of a position they disagree with. The Diplomat's working capacity is honest multiplicity: holding the field without requiring it to resolve into one thing, holding the tension between positions without rushing to collapse it. That capacity is the raw material. What it is *for* is named at the end of Section 5.
 
 The five channels through which the Diplomat operates are:
 
@@ -90,7 +90,7 @@ There is a version of "terms" you have already met, and it is why this chapter h
 
 The village hardens terms into ultimatums. Terms are what someone says when they have decided to leave and want you to know it is your fault. Terms come with a deadline attached and a threat underneath. They are what the person with leverage produces at the end of a negotiation that was never a negotiation. That version of the word is real — people do this — and it is the reason a certain kind of capable, relationally fluent person will run an entire career without ever naming a single term of her own. She has seen what terms look like in the hands of someone playing a power game. She has decided not to be that.
 
-That decision is not cowardice, and it is not a failure of nerve. It is an accurate reading of a specific misuse. The problem is what it costs to generalize from it.
+That decision is an accurate reading of a specific misuse. The problem is what it costs to generalize from it.
 
 Honest terms are the opposite instrument. **A term is a statement of what this field must hold for your staying to remain real — offered as information, once, to a field that is then free to answer.** It is a fact about the arrangement rather than a demand or a condition of continued affection, and it is delivered while there is still time for anyone to do something with it.
 
@@ -135,9 +135,9 @@ A polarity is not a problem to solve. It has two poles, and both of them are rig
 
 The Diplomat's pair: care for the relationship versus impact on the situation.
 
-**Care** means protecting the connection itself — the trust, the willingness of people to stay in contact with each other, the conditions under which anyone can say anything difficult at all. Care is not sentiment. It is the maintenance of the only medium through which anything relational travels. A field with no care in it cannot be told anything.
+**Care** means protecting the connection itself — the trust, the willingness of people to stay in contact with each other, the conditions under which anyone can say anything difficult at all. Care is the maintenance of the only medium through which anything relational travels. A field with no care in it cannot be told anything.
 
-**Impact** means the actual change in the world outside the relationship — what moves, what stops, who is materially better off after the conversation than before it. Impact is not brutality. It is the willingness for a relationship to be spent on something, rather than preserved as an end in itself.
+**Impact** means the actual change in the world outside the relationship — what moves, what stops, who is materially better off after the conversation than before it. Impact is the willingness for a relationship to be spent on something, rather than preserved as an end in itself.
 
 Both poles have a failure state, and the failure states do not look alike. Care without impact is attendance: warm, dependable, and doing nothing. Everyone likes you. Nothing changes. Impact without care is the Challenger's altitude imported into a conversation that needed this one — the true thing said in a way that ends the possibility of saying the next true thing.
 

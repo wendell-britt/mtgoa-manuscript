@@ -178,7 +178,7 @@ The Architect builds knowing they're designing for fallible humans. The Sage in 
 
 The test: when a system fails, does the Sage redesign the system or redesign the people? Redesigning the system is the Architect. Redesigning the people is the distortion. The real Sage names which game the people are actually in and designs for that — not for the game they wish the people were in.
 
-These three are not obviously wrong. The Sage in distortion is not stupid and is not malicious. It is doing versions of useful things — mediating pain, solving problems, designing systems — without the one diagnosis that would make any of them useful.
+These three are not obviously wrong. The Sage in distortion is doing versions of useful things — mediating pain, solving problems, designing systems — without the one diagnosis that would make any of them useful.
 
 What's missing is the first move: *which game is this, actually?*
 
@@ -222,7 +222,7 @@ Not *instead of* choosing. *Along with* choosing.
 
 ### *The Ladder Underneath: What the Sage Knows That the Other Faces Cannot See*
 
-The Sage's journey is not upward. It is inward and then back. At each Face, you were doing the work and also watching yourself do it. That watcher is the Sage, and what the watcher accumulates is a specific kind of knowledge: the gift and the limit of every Face, held at the same time.
+The Sage's journey runs inward and then back. At each Face, you were doing the work and also watching yourself do it. That watcher is the Sage, and what the watcher accumulates is a specific kind of knowledge: the gift and the limit of every Face, held at the same time.
 
 **The Shaman's feeling is always true and always incomplete.** True, because feeling is information — the body reports honestly on what it encounters. Incomplete, because a feeling doesn't tell you what to do about it. The Shaman knows what's present. The Sage knows what game the Shaman is playing by feeling it, and whether that game is the one the moment needs.
 
@@ -250,7 +250,7 @@ There are two questions the Sage is always running, and the whole chapter turns 
 
 Both are real. Both are load-bearing. The game read tells you what to do. The altitude read tells you how to say it. A Sage who only reads games will keep saying accurate things in a register nobody present can receive. A Sage who only reads altitudes will keep making sophisticated assessments of people while the actual situation goes unaddressed.
 
-The failure is not choosing one. The failure is letting one answer the other's question.
+You may choose one. The failure is letting one answer the other's question.
 
 That collapse has a signature and it runs in one direction far more often than the other: the game read gets converted into an altitude verdict. Somebody is in the power game, therefore they're at Red, therefore this conversation is beneath the frame you brought to it. Each step feels like an inference. The last one is contempt with a diagram attached.
 

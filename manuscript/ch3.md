@@ -157,7 +157,7 @@ What happens to that signal when it disagrees with the group is a different ques
 
 Picture it: your read catches what the group is not registering — not dangerous, not catastrophic, just *something here is not what it's presenting as.* There is a trained response for it, drilled into anyone who has learned to be careful: ask whether it's your stuff, whether you're projecting, whether you're centering yourself in a moment that isn't yours — then give the consensus the benefit of the doubt and keep going.
 
-That is not the Shaman's practice. That is the Shaman's practice with a governor on it — one installed by instructions that meant to teach you not to harm people and accidentally taught you to distrust your own read.
+That is the Shaman's practice with a governor on it — one installed by instructions that meant to teach you not to harm people and accidentally taught you to distrust your own read.
 
 There is a difference between checking whether your read is distorted and making *probably my stuff* the default answer whenever the read is inconvenient. The first is discernment. The second is the village's solution to the Shaman problem: keep the language, remove the trust.
 
@@ -211,7 +211,7 @@ The Shaman's pair: the feeling that gives you the read versus the function that 
 
 **Feeling** means the charge arriving and being allowed to arrive — the heat in the chest, the drop in the stomach, the thing your body registered about a situation two beats before anyone said a word. Feeling is the instrument. Everything in this section argues for keeping it calibrated, and the argument holds: a read you never let yourself have is a read you can never act on.
 
-**Function** means what the read does once it is out of you. The sentence said to the face it concerns. The decision that went differently because it was said. The water that moved. Function is not productivity. It is the difference between sensing a thing and the thing being sensed *in the world*, where the person you came for can get something out of it.
+**Function** means what the read does once it is out of you. The sentence said to the face it concerns. The decision that went differently because it was said. The water that moved. Function is the difference between sensing a thing and the thing being sensed *in the world*, where the person you came for can get something out of it.
 
 Both ends fail, and they fail unequally. Function without Feeling is the practitioner who says the correct words on schedule with no instrument running underneath — competent, useful in a narrow band, and unable to tell the table one thing it did not already know. Feeling without Function is the more expensive failure, because it looks like depth. It is an extraordinarily accurate read, refined over years, that has never once left the body that made it. She knows exactly what is happening. Nobody in the situation is better off for her knowing.
 

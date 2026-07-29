@@ -151,7 +151,7 @@ Here is how it works at the deepest level:
 
 This is not a metaphor. This is an engineering fact. It has profound implications for allyship.
 
-Because allyship is not primarily a problem of individual behavior. It's a problem of system design. Good people do harmful things because the system they're inside rewards harmful behavior and punishes the alternative. Change the system and you change the behavior — not by convincing the person to be better, but by making the better behavior the easier behavior. That's structural design. That's the Architect's practice.
+Because allyship is a problem of system design before it is a problem of individual behavior. Good people do harmful things because the system they're inside rewards harmful behavior and punishes the alternative. Change the system and you change the behavior — not by convincing the person to be better, but by making the better behavior the easier behavior. That's structural design. That's the Architect's practice.
 
 Most people have been taught to interrupt this logic. To say *but people should just know better. People should just choose differently. Culture is about individual accountability.* While individual accountability matters, it is not a system design strategy. It is a moral appeal. Moral appeals work until the system incentivizes something else. Then they stop working. The people who made the moral appeal are left wondering why nobody listened — when the answer is simple: the system was louder than the appeal.
 
@@ -173,7 +173,7 @@ The Architect's pair: the structure that produces the outcome versus the agency 
 
 The failure at each end is easy to picture. Structure without Agency builds a machine that treats people as inputs, gets the throughput it designed for, and cannot understand why nobody inside it will meet its eye. It also produces the most comfortable sentence in this book's neighborhood — *the system did it* — which is true and which no one has ever had to be brave to say. Agency without Structure blames individuals for outcomes the design guarantees, burns through good people looking for better ones, and watches the same failure arrive every eighteen months with a new name attached.
 
-This is where the pair gets specific for the reader this book is written for. The suspicion runs one direction. Agency language has warnings attached to it at this altitude, and rightly — *personal responsibility* has done a great deal of work for people who wanted nothing to change. Structure language has none. It arrives sounding like analysis, like sophistication, like the opposite of blame. So the drift is not toward cruelty. It is toward a structural account of every situation you were personally in, which is the one account that never requires you to have been there as a person.
+This is where the pair gets specific for the reader this book is written for. The suspicion runs one direction. Agency language has warnings attached to it at this altitude, and rightly — *personal responsibility* has done a great deal of work for people who wanted nothing to change. Structure language has none. It arrives sounding like analysis, like sophistication, like the opposite of blame. So the drift runs toward a structural account of every situation you were personally in, which is the one account that never requires you to have been there as a person.
 
 Neither pole is the answer. The position is a judgment call every time, and the only diagnostic that works is directional.
 

@@ -48,7 +48,7 @@ This is the distortion. It crept in slowly, the way most distortions do — not 
 
 The village heard the six Faces and thought: *these are the types.* The Shaman type. The Challenger type. The Regent type. The Architect type. The Diplomat type. The Sage type. Anyone who wasn't one of those — who didn't naturally feel-first, or draw-lines, or build-systems — wasn't doing it right.
 
-The village forgot that the Faces were a map, not a menu. That you don't *become* one of them — you *move through* all of them, depending on what the moment requires. That the goal is not to arrive at Sage and stay there. The goal is to be able to play any game the village needs played, whatever the moment requires.
+The village forgot that the Faces were a map, not a menu. That you don't *become* one of them — you *move through* all of them, depending on what the moment requires. That the goal is to be able to play any game the village needs played, whatever the moment requires, rather than to arrive at Sage and stay there.
 
 A Player in distortion emerged in its place.
 
@@ -78,7 +78,7 @@ You have been the Diplomat. You know how to hold the field across difference, ma
 
 You have been the Sage. You know how to see which game you're in, switch deliberately, and come back without condescension.
 
-That's not a list of credentials. That's a design system.
+That's a design system.
 
 The six Faces are your toolkit. The WAVE is your process. The altar — the practice of returning — is your anchor. Now you get to design your specific practice: the combination of all six that is uniquely yours, grounded in your specific survival, your specific superpowers, your specific village.
 

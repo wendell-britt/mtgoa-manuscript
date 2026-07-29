@@ -298,11 +298,31 @@ Two consequences that are not bookkeeping:
   is [the thing you did]."* The specs prescribe what the house rule bans. W2's
   first draft inherited it unexamined; the replacement form states the act and
   defers the outcome positively.
-- **107 is a candidate count, not a defect count.** Every one needs the
-  RULE_COLLISIONS test applied. Some will be ranking that the *not just* guard
-  missed. This is now the largest single item in the plan and cannot be cleared
-  before August 1 — **triage by chapter, treat the treatise halves first**,
-  since a Head arguing by negation reads worse than Wendell doing it.
+- **It is a candidate count, not a defect count.** Every one needs the
+  RULE_COLLISIONS test applied by hand; the detector cannot tell ranking from
+  denying, and it cannot see a subject change.
+
+**Batch 1 complete, and the schedule claim is withdrawn.** This spec first said
+W7 "cannot be cleared before August 1." That was asserted without measurement
+and it was wrong. The 25 treatise-half candidates were adjudicated and cleared
+in a single working pass: **22 rewrites, 3 kept.** Treatise halves 25 → 3, book
+total 103 → 81, and all three survivors are adjudicated keeps.
+
+| Kept | Why |
+|---|---|
+| ch2:136 | *"The problem is not that you wanted to be good."* Ranking — she did want to be good, it stays true, and it is ranked under the real problem. Adams' cave ladder. |
+| ch8:81 | *"That much is not in question."* Idiomatic, not definitional. False positive. |
+| ch8:144 | *"These three are not obviously wrong. The Sage in distortion is…"* The detector spans a **subject change**, not a restatement. False positive, exposed by batch 1's own edit. |
+
+**Measured rate: ~25 candidates per pass**, most resolving to a mechanical
+"delete the negated clause, keep the positive." The expensive ones are the few
+carrying a distinction worth preserving — ch5's three-way *conservatism /
+rigidity / always done it*, ch7's *niceness / conflict-avoidance / absence of
+judgment*, both rewritten as positive lists of what the thing is mistaken for.
+
+**Remaining: 78, all in Wendell's register or front matter.** At batch 1's rate
+that is three to four more passes, which fits before August 1. Order by chapter,
+largest first.
 
 Sequencing: W7 supersedes the denying-negation portion of W1, which reported 7
 because the detector could only see 7.

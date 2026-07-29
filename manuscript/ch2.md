@@ -88,7 +88,7 @@ The old allyship's fatal flaw was mistaking information for transformation. It h
 
 *Learn. Feel. Act.*
 
-This theory is not wrong. It's incomplete. The old allyship produced real wins: doors that opened, conversations that happened, power that shifted in small amounts, temporarily, in specific places. It also produced a generation of exhausted practitioners who kept burning out on good intentions. Both of these things are true.
+This theory is incomplete rather than wrong. The old allyship produced real wins: doors that opened, conversations that happened, power that shifted in small amounts, temporarily, in specific places. It also produced a generation of exhausted practitioners who kept burning out on good intentions. Both of these things are true.
 
 You bring a body to every one of those actions. Sometimes it is a body running on three hours of sleep. Sometimes it is a body that has been braced since the morning meeting. The old allyship does not ask about that. It assumes the person executing the right actions has the body to do it.
 
