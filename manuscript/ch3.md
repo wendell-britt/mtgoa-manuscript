@@ -397,7 +397,7 @@ Each channel carries intelligence. You're not trying to "get over" any of them. 
 
 ---
 
-*Channel-by-channel mechanics, the triage rule, and four worked scenarios: Appendix — The Five Channels in Practice.*
+*Channel-by-channel mechanics, the triage rule, and four worked scenarios: Appendix C: The Five Channels in Practice.*
 
 <!-- MARGINALIA -->
 > *Triage is the part of this chapter you will actually use, and it is in an appendix. Maera does
@@ -542,7 +542,7 @@ When the charge is in a **person** — a figure who makes your jaw tighten — s
 | Stuck between two *rights* | Polarity Map (Chapter 5 → Chapter 7) |
 | Charge is in *body* now | WAVE-Spiral |
 
-*Full process and source (Ken Wilber, Integral Life Practice): Appendix — 3-2-1 Shadow Process. First practice: Chapter 4.*
+*Full process and source (Ken Wilber, Integral Life Practice): Appendix E: The 3-2-1 Shadow Process. First practice: Chapter 4.*
 
 ---
 
@@ -572,7 +572,7 @@ Draw a line. Name the poles. Mark where you are today. The dot is a diagnostic �
 
 Use 3-2-1 when the trigger is a *person*. Use the Polarity Map when you're stuck between two things that both seem necessary. Use WAVE when the charge is already in your body and ready to move.
 
-*Full polarity reference: Appendix — Polarity Map. First draw: Chapter 4. First field practice: Chapter 7.*
+*Full polarity reference: Appendix F: The Polarity Map. First draw: Chapter 4. First field practice: Chapter 7.*
 
 ---
 

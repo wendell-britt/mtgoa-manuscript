@@ -196,7 +196,7 @@ Try this now.
 Back to the chapter.
 ```
 
-*For the full process and additional pairs, see Appendix: The Polarity Map.*
+*For the full process and additional pairs, see Appendix F: The Polarity Map.*
 
 ---
 
