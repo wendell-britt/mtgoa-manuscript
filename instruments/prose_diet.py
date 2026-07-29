@@ -50,8 +50,50 @@ ZOMBIE = re.compile(r"\b(?:the|a|an)\s+\w+(?:tion|ment|ance|ence|ness|ity|ism|si
 # Sword's waste word, and the classic missing antecedent, all at once.
 EXPLETIVE = re.compile(r"(?:^|(?<=[.!?]\s))\s*(It|There)\s+(is|was|are|were)\b")
 
-# Book baseline, measured 2026-07-29 on the stripped manuscript.
+# BASELINE IS EXTERNAL, DELIBERATELY.
+#
+# The first version of this file normalised against the manuscript's own
+# average, which made the book incapable of failing its own test: every chapter
+# scored ~1.00 and the tool reported nothing. SPEC_REPETITION_AND_CUTS had
+# already settled the question the other way, against three outside books —
+# MTGOA runs the copula at 62.8 per thousand against 28.8 in Igniting Joy, 2.2
+# times the rate, and that spec names the short-declarative register as drift
+# rather than voice. Normalising to it protected the defect. Its own warning
+# applies: when a feature of the prose needs defending, check whose hand put it
+# there before defending it.
+#
+# Target is Igniting Joy — Wendell's own book, so the bar is his voice working,
+# not a stranger's. Elliott and Chou bracket it for sanity.
+TARGET   = {"copula_1k": 28.8, "mean_sent": 18.8, "short_pct": 4.2, "hedge_1k": 2.8}
+BRACKET  = {"copula_1k": (40.9, 41.1), "mean_sent": (23.7, 22.5),
+            "short_pct": (12.4, 12.8), "hedge_1k": (12.2, 5.9)}
+# Manuscript position as measured in SPEC_REPETITION_AND_CUTS, for reference.
+MTGOA_WAS = {"copula_1k": 62.8, "mean_sent": 13.4, "short_pct": 27.5, "hedge_1k": 6.2}
+
+# Retained for the pronoun check, which is a rate question rather than a
+# comparative one. Book figures, not targets.
 BASE = {"be": 50.3, "copula": 29.1, "waste": 56.3, "zombie": 11.1, "expletive": 2.4}
+
+# Must match the regex SPEC_REPETITION_AND_CUTS used, contractions included,
+# or the comparison against Igniting Joy is against a different ruler.
+# Narrow (is|are|was|were) reads 42.1 where this reads 61.7 — a 33%
+# "improvement" that is entirely the measure changing.
+COPULA_1K = re.compile(r"\b(is|are|was|were|be|been|being)\b|'s\s|'re\s", re.I)
+HEDGE = re.compile(r"\b(perhaps|somewhat|arguably|rather|fairly|quite|often|tends? to|"
+                   r"generally|typically|might|maybe|sort of|kind of)\b", re.I)
+
+
+def register(text):
+    """The four metrics that are comparable to the external corpora."""
+    S = sentences(text)
+    lens = [len(s.split()) for s in S] or [0]
+    w = max(len(text.split()), 1)
+    return {
+        "copula_1k": len(COPULA_1K.findall(text)) / w * 1000,
+        "mean_sent": sum(lens) / len(lens),
+        "short_pct": sum(1 for x in lens if x <= 6) / len(lens) * 100,
+        "hedge_1k":  len(HEDGE.findall(text)) / w * 1000,
+    }
 
 
 def sentences(t):

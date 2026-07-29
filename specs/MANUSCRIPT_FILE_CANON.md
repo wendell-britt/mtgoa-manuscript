@@ -135,6 +135,33 @@ Isolating only the 664 words actually added, of 1,381:
 | waste words /1k | 56.3 | 78.3 | **84.3 — +50%** |
 | article + nominalization /1k | 11.1 | 20.7 | **12.0 — +9%** |
 
+**The baseline was circular and has been replaced.** The first version of
+`prose_diet.py` normalised against the manuscript's own average, which made the
+book incapable of failing its own test — every chapter scored ~1.00 and the tool
+reported nothing. `SPEC_REPETITION_AND_CUTS` had already settled the question
+against three outside books and named the short-declarative register as **drift,
+not voice**, with its own warning attached: *when a feature of the prose needs
+defending, check whose hand put it there before defending it.* Normalising to
+the drift protected it. The instrument now targets *Igniting Joy* — Wendell's
+own book, so the bar is his voice working.
+
+**Book-wide position, 2026-07-29, same ruler as the June measurement:**
+
+| | June | now | *Igniting Joy* | |
+|---|---|---|---|---|
+| copula /1k | 62.8 | **61.7** | 28.8 | **2.14×** |
+| sentences ≤6 words | 27.5% | **19.4%** | 4.2% | **4.62×** |
+| mean sentence length | 13.4 | 16.0 | 18.8 | 0.85× |
+| hedges /1k | 6.2 | **2.3** | 2.8 | 0.80× — **fixed** |
+
+Hedging is solved and sentence length has moved most of the way. **The copula
+has not moved at all** — 62.8 to 61.7 in two months — and short sentences remain
+4.6× the control. Heaviest chapters: ch8 2.41×, ch6 2.26×, ch9 2.24×, ch7 2.23×.
+
+Use the same ruler when checking this. A narrow `is|are|was|were` reads 42.1
+where the comparable measure reads 61.7, a 33% "improvement" that is entirely
+the measure changing.
+
 **One of the three drifts is real in generated prose, and it is the pronoun.**
 Copula came in *lighter* than the book, and nominalization was flat. The *it /
 this / that / there* excess is genuine and large, and the mix shows where:
