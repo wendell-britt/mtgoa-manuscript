@@ -201,6 +201,15 @@ Ch4 is the worst and also the validated case — the linter demonstrably
 discriminates style-only from style-plus-flavor there. Do ch4 first and
 calibrate the remaining five against what Wendell accepts.
 
+**Register layer.** `marginalia/specs/HEAD_REGISTERS.md` (2026-07-29) sits under
+SEVEN_VOICES and supplies what each Head is doing with feeling while teaching —
+Ash Fire→Triumph, Voss Water→Poignance, Quill compound, Vale Metal→Wonder, Cross
+Metal→Water, Orr Fire→Wood. Every move is canon from ch3's channel table. The
+Heads run the alchemy and never name it. Its ~60–120 words per chapter ride the
+same edits as the genre markers, so W3 carries both; touching these paragraphs
+twice risks the voice. Six placeholder facts are open and nothing ships with a
+`⟦` token in it.
+
 Sequencing: the SEVEN_VOICES note says the Part 1/Part 2 split (R2) decides
 where the markers stop. In canon the seam is `## Section 4` in every chapter
 ch3–ch8 regardless of how R2 is ruled, so **W3 may proceed before R2** provided
