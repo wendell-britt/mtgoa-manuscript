@@ -8,15 +8,15 @@
 
 There was a time when the Architect lived in the village.
 
-Inside it. One of them. The Architect was the one who drew the first map — the one who looked at the chaos of how things were being done and said *wait. I see something. There's a structure here. There's a pattern. If we understand the pattern, we can change the pattern.*
+Inside it. One of them. The Architect drew the first map — looked at the chaos of how things got done and said *wait. I see something. There's a structure here. There's a pattern. If we understand the pattern, we can change the pattern.*
 
-The village listened, at first. The Architect's maps were useful. The Architect could look at a broken system and find the part that, if you changed it, would change everything else. The Architect could design the meeting format that actually produced decisions. The Architect could build the role that made accountability real. The Architect was the one who said *here is why this keeps breaking — and here is how to redesign it so it holds.*
+The village listened, at first, because the maps worked. The Architect could look at a broken system and find the part that, if you changed it, would change everything else. The Architect could design the meeting format that actually produced decisions. The Architect could build the role that made accountability real. The Architect said *here is why this keeps breaking — and here is how to redesign it so it holds.*
 
 Then something shifted.
 
-It wasn't sudden. It was gradual — the way a village that has been running on good intentions starts to feel like good intentions are not enough. The Architect's maps started to feel like criticism. The Architect's questions started to feel like *why can't you people just figure this out?* The Architect's designs started to feel like the Architect was saying *you're doing it wrong.*
+The shift arrived gradually — the way a village running on good intentions starts to feel how little good intentions carry. The Architect's maps started to feel like criticism. The Architect's questions started to feel like *why can't you people just figure this out?* The Architect's designs started to feel like the Architect was saying *you're doing it wrong.*
 
-The Architect didn't mean it that way. The Architect never meant it that way. The Architect was also not not saying it. The Architect was pointing at a broken system and saying *this is why it breaks.* The people inside the broken system heard: *and you're the ones who broke it.*
+The Architect didn't mean it that way. The Architect never meant it that way. The Architect was also not not saying it. The Architect pointed at a broken system and said *this is why it breaks.* The people inside the broken system heard: *and you're the ones who broke it.*
 
 The village started to defend itself against the Architect's maps. Started to see the Architect's structural clarity as a form of judgment. Started to say: *we don't need another analysis — we need action. We don't need to understand why we're stuck — we need to get un-stuck. We don't need you to show us how broken we are.*
 
@@ -24,40 +24,40 @@ The Architect, confronted with this, did what Architects do: doubled down on the
 
 The village did not want to be shown. The village wanted to be heard. The Architect, in the Architect's characteristic way, had already moved past hearing to designing.
 
-This is the Architect's oldest wound. The Architect's clarity is also the Architect's blind spot. The Architect sees systems so clearly that the people inside the systems become abstractions — inputs, outputs, leverage points. The Architect can design for people the system has forgotten while simultaneously forgetting to ask the people what they need. The Architect can be so committed to the elegant solution that the solution arrives without anyone being consulted.
+The Architect's oldest wound lives inside the gift. The Architect's clarity doubles as the Architect's blind spot. The Architect sees systems so clearly that the people inside the systems become abstractions — inputs, outputs, leverage points. The Architect can design for people the system has forgotten while simultaneously forgetting to ask the people what they need. The Architect can commit so hard to the elegant solution that the solution arrives before anyone gets asked.
 
 The village needed something the Architect didn't know how to give: presence. Warmth. The simple act of sitting with the difficulty before trying to redesign it.
 
-The Architect had that capacity. The Architect had simply been using it elsewhere.
+The Architect had that capacity. The Architect had simply spent it elsewhere.
 
-One day, the Architect realized: the village had stopped asking for maps. The village had started working around the Architect — implementing half the design, ignoring the rest, treating the Architect's clarity as a form of unwanted light. The Architect was being used for outputs while being excluded from decisions. The Architect had become a tool.
+One day, the Architect realized: the village had stopped asking for maps. The village had started working around the Architect — implementing half the design, ignoring the rest, treating the Architect's clarity as a form of unwanted light. The village used the Architect for outputs and kept the Architect out of decisions. The Architect had become a tool.
 
 The choice came down to one thing: Become invisible and useful, or leave and remember who you were.
 
 The Architect left.
 
-The village never meant for that to happen. It never said *go.* It just stopped listening to the design. Which, it turns out, is the same thing as exile.
+The village never meant for that to happen. It never said *go.* It just stopped listening to the design. Which, it turns out, amounts to exile.
 
 ---
 
 ## Section 2: The Distortion
 ### *What the Village Does With Structural Design When the Architect Is Gone*
 
-Here's what happened after the Architect left: the village didn't stop needing systems.
+After the Architect left, the village didn't stop needing systems.
 
 It just stopped understanding them.
 
 The village still built things. Still created roles and processes and meeting formats and accountability structures. Without the Architect to say *wait — before you build this, let me show you what it will actually produce* — the village built systems that looked correct and failed anyway. The village built planning processes that produced plans nobody followed. The village built accountability structures that nobody trusted. The village built meeting formats that everyone hated attending. The village built all of this with sincere effort and no structural clarity.
 
-Because the village had exiled the Architect — had decided that structural clarity was a form of coldness, that systems thinking was a form of not loving the people inside the systems — the village lost the ability to tell the difference between a system that worked and a system that merely looked like it worked.
+Because the village had exiled the Architect — had decided that structural clarity meant coldness, that systems thinking meant not loving the people inside the systems — the village lost the ability to tell the difference between a system that worked and a system that merely looked like it worked.
 
 The village started mistaking motion for progress. Started treating activity as evidence of effectiveness. The village became very busy — very purposeful, very committed — and very unable to ask the one question the Architect always asked: *is this actually working?*
 
 The village also started doing something more damaging: it started using the Architect's own tools without the Architect's intent. The village learned to *describe* systems without *understanding* them. Learned to use words like *incentive structure* and *leverage point* without actually redesigning either. The village learned to have the vocabulary of structural thinking without the practice. Which meant the village could now dismiss structural insight by using the vocabulary against it: *we already looked at the incentives, we're addressing the leverage points, we understand the systemic issues* — while continuing to do the same thing that had always produced the same failure.
 
-This is what the village does with structural design when the Architect is gone: it transforms it into *aesthetic design.* Into systems that look sophisticated without being functional. Into the performance of systemic thinking — the language without the practice — which is worse than not having the language at all, because now the village has enough sophistication to dismiss genuine structural insight while believing it has already accounted for it.
+The village does one thing with structural design once the Architect leaves: it transforms it into *aesthetic design.* Into systems that look sophisticated without functioning. Into the performance of systemic thinking — the language without the practice — and that costs more than having no language at all, because now the village has enough sophistication to dismiss genuine structural insight while believing it has already accounted for it.
 
-The village did all of this without realizing it. It thought it was being holistic. It thought it was being comprehensive. What it was actually doing was running on good intentions with no understanding of why good intentions kept producing mediocre outcomes.
+The village did all of this without realizing it. It thought itself holistic. It thought itself comprehensive. What it actually did: run on good intentions with no understanding of why good intentions kept producing mediocre outcomes.
 
 This is the distortion the Architect's exile leaves behind: the village learned to fear its own clarity. Learned to treat the asking of structural questions as a form of judgment. Started to say things like *we don't need to overthink this* — which is another way of saying *we're afraid of what we'll find if we look too closely.* The fear was not wrong. The fear was legitimate. Because without the Architect's discipline, structural examination tends to become structural blame. Structural blame is worse than structural ignorance — because at least ignorance can be cured by asking a question. Blame is a system that protects itself by preventing the question from being asked.
 

@@ -8,23 +8,23 @@
 
 The world is not fine.
 
-It shows up closer in than the headlines: the meeting that goes sideways, the community that was supposed to hold and doesn't, the low hum of something wrong that arrives before there's language for it.
+It shows up closer in than the headlines: the meeting that goes sideways, the community that should have held and doesn't, the low hum of something wrong that arrives ahead of any language for it.
 
 It usually starts small. A conversation that goes wrong. A relationship that fractures over something that shouldn't have been able to break it. A moment when showing up to help turns out to have made it worse.
 
-There's usually no name for it at first. Just the feeling — the one that shows up late at night, or early in the morning, or in the middle of a conversation that's going fine on the surface and completely wrong underneath.
+Nothing gives it a name at first. Just the feeling — the one that shows up late at night, or early in the morning, or in the middle of a conversation that's going fine on the surface and completely wrong underneath.
 
 The feeling is this: *this isn't working.*
 
 The subject of that sentence is the work. Your effort is real. Your intentions are real. Something else is failing.
 
-That hum doesn't go away when you put down the phone. It's in the body before it's in the mind, and it doesn't resolve with the next action item.
+That hum doesn't go away when you put down the phone. It lives in the body before it reaches the mind, and it doesn't resolve with the next action item.
 
 The whole thing has a structural flaw:
 
 **We keep trying to fix the village without knowing what's in us.**
 
-We see a problem. We respond. We post, we protest, we speak up, we show up. Then we wonder why three months later the problem is still there, or worse, is bigger, or has transformed into something that our original response can't touch.
+We see a problem. We respond. We post, we protest, we speak up, we show up. Then we wonder why three months later the problem still sits there, or worse, has grown, or has transformed into something that our original response can't touch.
 
 We wonder why we're exhausted. Why we're burned out. Why the allyship feels like more than we can carry. (Some of us have been calling this burnout for five years. Burnout names the depletion. It doesn't name the cause.)
 
@@ -32,7 +32,7 @@ If we're honest with ourselves, we've also been the one who couldn't hold it. Wh
 
 *That feeling is the Shadow.*
 
-Carolyn Elliott, whose work on shadow retrieval is the intellectual ground for the daemon work in this book, was precise about it: the Shadow is the material you disowned, a pattern that has been doing something specific for you. It protected you when protection was what you needed. It made sense once.
+Carolyn Elliott, whose work on shadow retrieval grounds the daemon work in this book, was precise about it: the Shadow is the material you disowned, a pattern that has been doing something specific for you. It protected you when you needed protecting. It made sense once.
 
 Hold the word, because the whole book turns on it. The **Shadow** is the disowned material itself. When one of your Faces runs *from* that material instead of being chosen, you get that **Face in distortion**: the gift turned against the people it was meant to serve. When a daemon runs the show instead of you, it exacts a **cost**, paid by you and by whoever you were trying to help. One word each: Shadow, distortion, cost. They are not the same thing, and the work is to tell them apart.
 
@@ -52,13 +52,13 @@ The old allyship's fatal flaw was mistaking information for transformation. It h
 
 This theory is incomplete rather than wrong. The old allyship produced real wins: doors that opened, conversations that happened, power that shifted in small amounts, temporarily, in specific places. It also produced a generation of exhausted practitioners who kept burning out on good intentions. Both of these things are true.
 
-You bring a body to every one of those actions. Sometimes it is a body running on three hours of sleep. Sometimes it is a body that has been braced since the morning meeting. The old allyship does not ask about that. It assumes the person executing the right actions has the body to do it.
+You bring a body to every one of those actions. Sometimes that body runs on three hours of sleep. Sometimes it has been braced since the morning meeting. The old allyship does not ask about that. It assumes the person executing the right actions has the body to do it.
 
 The old allyship tells you what to do. It doesn't tell you how to be the kind of person who can do it sustainably. Who can show up in the hardest moments without freezing. Who can hold complexity without collapsing. Who can take feedback without disappearing. Who can stay in the conversation when it gets hard.
 
 The old allyship produces moments of brilliance and long stretches of exhaustion. It produces people who care enormously and accomplish less than they could because they keep hitting the same wall. The wall that's not in the world, it's in them.
 
-Most people who do this work long enough hit a moment when the map turns out to be wrong — not about the destination, about where they had to start. The walking was in the wrong direction, and no one had said there was a different starting point. By the time that lands, something has usually already been spent: energy, time, sometimes a relationship, sometimes the belief that you could be the kind of ally you wanted to be.
+Most people who do this work long enough hit a moment when the map turns out to be wrong — not about the destination, about where they had to start. The walking went in the wrong direction, and no one had mentioned a different starting point. By the time that lands, something has usually already been spent: energy, time, sometimes a relationship, sometimes the belief that you could be the kind of ally you wanted to be.
 
 Some of what gets called burnout is that cost still being carried. It sits closer to sadness than to fatigue: the sadness of having done your best against a broken map, of loving the work and finding it wasn't enough. The terms were set wrong from the beginning, and no one failed.
 
@@ -72,7 +72,7 @@ Most people turn back. The ones who don't push through instead of going through 
 
 Something has shifted. It shows up as a tightening that doesn't quite release between hard conversations, a vigilance that no longer has a clear target and just hums.
 
-The conversations come with more charge. Coalitions that held through the last hard thing are fraying at edges that shouldn't be weak. The feedback — when it comes — comes fast, doesn't wait for you to be ready, doesn't come with enough context to land cleanly. The language keeps shifting, not because people are moving the goalposts but because the situation is actually moving, and the words you practiced last year don't cover the new terrain. It can start to feel like falling behind, with no clear sense of what falling behind even means.
+The conversations come with more charge. Coalitions that held through the last hard thing are fraying at edges that shouldn't be weak. The feedback — when it comes — comes fast, doesn't wait for you to be ready, doesn't come with enough context to land cleanly. The language keeps shifting, not because people move the goalposts but because the situation actually moves, and the words you practiced last year don't cover the new terrain. It can start to feel like falling behind, with no clear sense of what falling behind even means.
 
 The inner work, the part most trainings skip, keeps showing up as the chokepoint.
 
@@ -84,7 +84,7 @@ You cannot draw a boundary you have not felt. You cannot hold someone else's pai
 
 Knowing what you're made of requires going somewhere the world doesn't see. That somewhere is the Forest.
 
-The Forest is the place where the work actually happens: the inner landscape where the daemons are waiting, where the parts that have been running the show are ready to be met, and where the superpower shaped by your specific history can be recognized and deployed.
+The Forest is the place where the work actually happens: the inner landscape where the daemons wait, where the parts that have been running the show finally get met, and where you can recognize the superpower shaped by your specific history and put it to work.
 
 The world is not fine. The people trying to fix it keep running into the same problem: themselves. This chapter is the threshold map.
 
@@ -119,29 +119,29 @@ For the full game taxonomy and mechanics, see Chapter 1. This chapter uses that 
 
 The Forest is a place you may not realize you've been circling.
 
-There is a familiar loop: the moment after a hard conversation spent rehearsing what you should have said, the 2am inventory of what went wrong, the same pattern surfacing in different rooms, with different people, wearing different faces. That loop is the edge of the Forest.
+A familiar loop runs underneath: the moment after a hard conversation spent rehearsing what you should have said, the 2am inventory of what went wrong, the same pattern surfacing in different rooms, with different people, wearing different faces. That loop is the edge of the Forest.
 
 Maybe you did everything the work asked. Showed up. Listened. Went to the training and listened there too. Read the book, adjusted the language, listened harder after that. Asked better questions. Stopped centering yourself, or tried to. Checked the assumptions. Sat with the discomfort. Maybe, somewhere in all of it, holding still became the default.
 
 At some point the signal drops out. No clear way to tell if any of it is working, or even what working would look like.
 
-Underneath the effort is a question worth sitting with:
+Underneath the effort waits a question worth sitting with:
 
 Were you doing this to change something, or to seem like the kind of person who would? Ask it without flinching.
 
 Picture a meeting that goes cold. The body knows exactly what is happening, maybe before anyone speaks, and the read gets set aside for the consensus — not for lack of capacity, but because body-knowing, in a certain framework, belongs to people closer to their roots, and claiming it can feel like appropriation. So the literacy gets built and the read goes unused.
 
-The body doing that reading was never appropriating anything. It is yours. The Shaman's first move is available to you. The question this chapter asks is whether you will stop treating your own somatic intelligence as something that belongs to someone else.
+The body doing that reading never appropriated anything. It is yours. You already have the Shaman's first move. This chapter asks whether you will stop treating your own somatic intelligence as something that belongs to someone else.
 
-The problem is not that you wanted to be good. The problem is that trying to seem good takes the whole body. There's nothing left over. The face you're holding in place and the face underneath it are running simultaneously, and that split is where the exhaustion actually lives.
+The problem is not that you wanted to be good. The problem is that trying to seem good takes the whole body. That leaves nothing over. The face you're holding in place and the face underneath it run at the same time, and the exhaustion actually lives in that split.
 
-In the village, the mask makes sense. There is an audience. There are roles to play, relationships to manage, impressions to maintain.
+In the village, the mask makes sense. An audience watches. You have roles to play, relationships to manage, impressions to maintain.
 
 The Forest has no audience.
 
-There is no one to seem good for in there, which is exactly what makes it the only place where the real work can happen.
+No one in there needs you to seem good, and that makes it the only place where the real work can happen.
 
-What's in the Forest are the parts that have been running your allyship without your permission: the ones you inherited, the ones you performed, the ones you never examined because you were too busy showing up and listening.
+The Forest holds the parts that have been running your allyship without your permission: the ones you inherited, the ones you performed, the ones you never examined because you were too busy showing up and listening.
 
 The work of the Forest is to meet those parts, not to silence them. To find out where they came from, what they were protecting, and whether they still belong to you.
 
@@ -172,21 +172,21 @@ The origin of this book is a rock in my shoe.
 
 George Floyd was murdered in May of 2020. My phone started filling up — white friends, mostly, checking in, asking if I was okay. I was glad they called. Something in the reaching out mattered.
 
-There was also something else. A sensation I couldn't name, small enough that I almost dismissed it — just a low friction, persistent, the way a stone in your shoe is not agony but is also not nothing. I had learned enough by then to know that small is not the same as unimportant. So I followed it.
+Something else came with it. A sensation I couldn't name, small enough that I almost dismissed it — just a low friction, persistent, the way a stone in your shoe is not agony but is also not nothing. I had learned enough by then to know that small is not the same as unimportant. So I followed it.
 
 What I found was rage, not sadness. (The body is specific like that.)
 
-Here is the part I did not say out loud: the rage was not new.
+The part I did not say out loud: the rage was not new.
 
-I had learned, for reasons that started early and went deep, to keep my feelings below the waterline — away from other people's awareness, and often away from my own. What this produces is a permanent low-grade charge that the people around you have no idea is there. The rage wasn't new. I had just gotten very good at not knowing it was there.
+I had learned, for reasons that started early and went deep, to keep my feelings below the waterline — away from other people's awareness, and often away from my own. This produces a permanent low-grade charge that the people around you never suspect. The rage wasn't new. I had just gotten very good at not knowing it was there.
 
 The rock in my shoe was the tip of something that went down a long way.
 
-My friends were calling to see if I was okay. They were not okay — they were disturbed, shaken, holding something they didn't know how to hold — and they were delivering it to me, gift-wrapped as concern. I was the only Black person most of them knew. My well-being had become a stand-in for all of Black America's well-being. The call that was supposed to support me was asking me to hold their unprocessed feelings about a Black man's murder.
+My friends called to see if I was okay. They were not okay — disturbed, shaken, holding something they didn't know how to hold — and they delivered it to me, gift-wrapped as concern. I was the only Black person most of them knew. My well-being had become a stand-in for all of Black America's well-being. The call meant to support me asked me to hold their unprocessed feelings about a Black man's murder.
 
 I was not okay, and not for the reasons they assumed.
 
-The shamanic training I'd been doing said: everything can be used. Nothing is waste. The anger that shows up is signal. It is starting material. The Shaman's job is to find what the feeling is trying to build, in place of managing it into something acceptable.
+The shamanic training I'd been doing said: everything can be used. Nothing is waste. The anger that shows up is signal. It is starting material. The Shaman's job is to find what the feeling wants to build, in place of managing it into something acceptable.
 
 So I built something. The first version of Mastering the Game of Allyship was written from that anger, not despite it. Because my friends didn't need someone to absorb their feelings. They needed tools. I had spent years building tools that could do exactly this, and no one had thought to aim them at allyship yet.
 
@@ -197,7 +197,7 @@ The book is the alchemy. It came from a rock in my shoe. The framework came afte
 ## Section 5: The Six Guides
 ### *How You Find Your Way Through*
 
-You don't have to enter the Forest alone. There are six guides for this terrain. Each one carries a different way of seeing, a different question, and a different discipline of practice.
+You don't have to enter the Forest alone. Six guides walk this terrain. Each one carries a different way of seeing, a different question, and a different discipline of practice.
 
 You don't need to understand all six before you begin. You only need to notice which question makes something in you lean forward.
 
@@ -287,15 +287,15 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 
 ### The Protector, up close
 
-The Protector works the door of the Forest. It is the first daemon you meet, and the most physical of the seven. The Protector is the hull of the ship — the body itself, holding its shape, keeping the water out, taking the hit when a hit is coming. It is the embodied feeling of self-preservation. It does not argue or explain; it braces. It knows you are in danger before you could prove it to anyone, because a hull that waits for proof is already taking on water.
+The Protector works the door of the Forest. You meet it first, the most physical of the seven. The Protector is the hull of the ship — the body itself, holding its shape, keeping the water out, taking the hit when a hit comes. It is the embodied feeling of self-preservation. It does not argue or explain; it braces. It knows danger before you could prove it to anyone, because a hull that waits for proof is already taking on water.
 
-The instant something reads as a threat — a shift in tone, a move for power — the Protector is already bracing to meet it, faster than thought. That speed has kept you alive, and you want to keep it. What sets it off, and how you learn to steer it, is the work of the next chapter.
+The instant something reads as a threat — a shift in tone, a move for power — the Protector has already braced to meet it, faster than thought. That speed has kept you alive, and you want to keep it. The next chapter takes up what sets it off and how you learn to steer it.
 
-The trouble is that a hull built to survive cannot always tell which century it is in. To the Protector, losing your place in the group registers the same as being left to die, because for most of human history those were one event. So it runs your social life on survival settings, meeting a hard conversation or a public challenge with machinery built for a predator. That is why it is so tired: it has been holding the whole ship rigid against threats that were never going to sink you.
+The trouble: a hull built to survive cannot always tell which century it is in. To the Protector, losing your place in the group registers the same as getting left to die, because for most of human history those were one event. So it runs your social life on survival settings, meeting a hard conversation or a public challenge with machinery built for a predator. That explains the tiredness: it has been holding the whole ship rigid against threats that were never going to sink you.
 
-When the Protector is holding the joystick, I walk into a conversation already armored, braced against something that has not happened, and the person across from me meets the hull before they meet me. It trades contact for control and calls the trade safety.
+When the Protector holds the joystick, I walk into a conversation already armored, braced against something that has not happened, and the person across from me meets the hull before they meet me. It trades contact for control and calls the trade safety.
 
-Here is why this daemon, of all seven, stands at the threshold of a book about allyship. It is almost impossible to protect anyone else while your own hull is breached. When you are frightened, depleted, or under real threat, the Protector spends everything you have on you, and there is nothing left to carry into someone else's fight. The body knows one shortcut around this, and it is worth naming because it looks like love: you pull the other person inside your own hull, so that protecting them and protecting yourself become a single act. A mother does this with a child, and it is real. It is also the wrong shape for allyship, because it only works by making the other person part of you — and the person you are allying with is not you. They are their own ship. To stand with them as someone separate, you have to be resourced enough that your Protector is not already spending your last reserves keeping you afloat.
+This daemon, of all seven, stands at the threshold of a book about allyship for a reason. You can hardly protect anyone else while your own hull is breached. When you are frightened, depleted, or under real threat, the Protector spends everything you have on you, and nothing remains to carry into someone else's fight. The body knows one shortcut around this, worth naming because it looks like love: you pull the other person inside your own hull, so that protecting them and protecting yourself become a single act. A mother does this with a child, and it is real. It also takes the wrong shape for allyship, because it only works by making the other person part of you — and the person you are allying with is not you. They are their own ship. To stand with them as someone separate, you have to be resourced enough that your Protector has not already spent your last reserves keeping you afloat.
 
 When the hull cannot keep a blow out, it does the last thing a hull can do: it takes the damage itself, so that what it carries survives. That absorbed weight is the Damaged Self, a daemon you will meet nearer the center.
 
