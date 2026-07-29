@@ -329,7 +329,7 @@ I want to be honest with you about what the walk actually looks like, because th
 
 The walk begins before you're ready. That's the first thing nobody tells you. You don't finish learning the Faces and then start building. You start building while you're still confused, still triggered, still defaulting to your home game when things get hard. The map isn't complete. The WAVE isn't mastered. You don't arrive and then act — you act from somewhere on the path, and the acting is part of the walking.
 
-When I started building bars-engine, I didn't have it figured out. I had a felt sense of what was missing — a game that actually taught the WAVE, that made the emotional alchemy something you could practice instead of just understand — and I had enough of the six Faces to know what I was trying to do. What wasn't clear was the game itself. The mechanics kept changing. I ran sessions that failed. I redesigned the token economy three times. I threw out entire systems and rebuilt them. The walk was not a straight line from plan to execution. It was iteration. Review. Discern. Design. Build. Pass On. Loop.
+When I started building bars-engine, I didn't have it figured out. I had a felt sense of what was missing — a game that actually taught the WAVE, that made the emotional alchemy something you could practice instead of just understand — and I had enough of the six Faces to know what I was trying to do. What wasn't clear was the game itself. The mechanics kept changing. I ran sessions that failed. I redesigned the token economy three times. I threw out entire systems and rebuilt them. Plan to execution was never a straight line. The walk looped. Review. Discern. Design. Build. Pass On. Loop.
 
 That's what the walk feels like. Not ascending. Circling. Each circle goes a little deeper.
 
@@ -431,7 +431,7 @@ That's the walk. Nobody told you it would look like this.
 
 The Player walks. The Player builds. The Player makes mistakes. The Player reviews, discerns, designs, builds, passes on. The Player loops. The Player continues.
 
-What you have that the village needs is not perfection. It is the willingness to be the one who goes first — not because you have all the answers, but because you have the map and you're willing to walk it and report back.
+What you have that the village needs is the willingness to be the one who goes first — not because you have all the answers, but because you have the map and you're willing to walk it and report back.
 
 The willingness to be the Player.
 
@@ -527,7 +527,7 @@ In practice: one person, not an audience. The audience version is a launch, and 
 
 **What it is:** Receiving the piece of feedback that cannot be absorbed without rebuilding something you already made — and rebuilding it.
 
-**Why it matters:** Most feedback is cheap to accept. It adjusts wording, adds a caveat, moves a step. The note that matters is the one saying the structure is wrong, and it tends to arrive sounding like an insult, because it is the most expensive thing anyone can say to a builder. The Player's entire claim is that they built something rather than collected something, and the proof of that claim is what happens the first time the build gets contradicted. A design you will not let anyone break is not a design. It is a possession.
+**Why it matters:** Most feedback is cheap to accept. It adjusts wording, adds a caveat, moves a step. The note that matters is the one saying the structure is wrong, and it tends to arrive sounding like an insult, because it is the most expensive thing anyone can say to a builder. The Player's entire claim is that they built something rather than collected something, and the proof of that claim is what happens the first time the build gets contradicted. A design you will not let anyone break is a possession with a design's name on it.
 
 In practice: separate the note from the person delivering it, because your first instinct will be to disqualify the person. Ask one question before responding to any hard note: *if this were true, what would I have to change?* Answer that before you decide whether it is true. Deciding first is how you never find out.
 
@@ -569,7 +569,7 @@ That is the Player's game. Five moves. Cut the field until the problem can fail.
 
 ---
 
-**The five moves are not the practice. They are the map of the practice.**
+**The five moves are the map. Walking it is the practice.**
 
 The practice is what you do between the moves. The moves name what to do. The practice is doing them, repeatedly, in real situations, with real stakes. A list of moves is not a practice any more than a recipe is a meal. Having the moves is like having a map. The walk is what happens when you actually go.
 
@@ -637,7 +637,7 @@ So here are six moments. Read each one and write down two things before you go o
 
 **The reads.**
 
-**One is the Challenger.** Nothing here needs translating. Everyone at that table understood what happened, including the person it happened to, which means the field is not confused, it is silent. The pull is toward the Diplomat, who has a version of this that costs nothing: catch the director afterward, catch the newest person afterward, be warm to both, bring the temperature down. That version leaves the four seconds exactly as they were. The move is **Name the Unnameable** (Chapter 4), and its entire value is that it happens inside the four seconds rather than in the hallway.
+**One is the Challenger.** Nothing here needs translating. Everyone at that table understood what happened, including the person it happened to, which means the field understood and chose silence. The pull is toward the Diplomat, who has a version of this that costs nothing: catch the director afterward, catch the newest person afterward, be warm to both, bring the temperature down. That version leaves the four seconds exactly as they were. The move is **Name the Unnameable** (Chapter 4), and its entire value is that it happens inside the four seconds rather than in the hallway.
 
 **Two is the Architect.** Three people have failed at this role and every one of them experienced it as a personal failure, which is the signature of a design problem wearing a people problem's clothes. The pull is toward the Regent, and it is an honorable one: keep the vows, carry the load, cover again. Covering again is what produced the third departure. The move is **Design for Handoff** (Chapter 6), run before the new coordinator's first week instead of after their last.
 

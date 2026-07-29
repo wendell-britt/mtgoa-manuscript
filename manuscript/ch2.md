@@ -281,7 +281,7 @@ The work is to notice the first place you recognize yourself in the map, in plac
 
 When a daemon lands, stop there. When a Guide's question makes something in you lean forward, start there. When a sentence names the thing you have been circling for years, stay with it.
 
-Recognition is not completion. It is where the move begins.
+Recognition is where the move begins, and it feels like the end.
 
 So do not try to carry the whole Forest at once. Let the first true thing find you. Then do one thing with it.
 
@@ -517,7 +517,7 @@ Within the next two days, say one body-read out loud to another person — and s
 
 That's the whole action. One read, said out loud, to one person who doesn't already know, inside forty-eight hours.
 
-Here is what you're actually doing, underneath the instruction. The part of you that reads a group — the one that clocks when a meeting has gone cold before anyone speaks — has been living in exile. You sent it away because claiming it felt like taking something that wasn't yours. So it reads, and reads, and never gets to speak. Saying it out loud is not a technique. It's how that part comes home: it finds out it's allowed to speak.
+Here is what you're actually doing, underneath the instruction. The part of you that reads a group — the one that clocks when a meeting has gone cold before anyone speaks — has been living in exile. You sent it away because claiming it felt like taking something that wasn't yours. So it reads, and reads, and never gets to speak. Saying it out loud is how that part comes home: it finds out it's allowed to speak. Technique gets the words out and stops there.
 
 (If naming it out loud feels like claiming something that isn't yours, that's the exile talking. Say it anyway. The body that did the reading was yours the whole time.)
 

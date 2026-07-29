@@ -110,7 +110,7 @@ The clean no is something different. The clean no is the practice of **stating a
 
 Notice what that last part says: *without converting it into a request.* Because the village has gotten very sophisticated about this. The village has learned to make its nos sound like preferences, its lines sound like suggestions, its non-negotiables sound like flexible guidelines. "I'd prefer not to" when the actual truth is "I won't." "I'd appreciate it if we could" when the actual truth is "this has to stop." (This is the most-written email in professional life.)
 
-This is not diplomacy. This is the dissolution of the boundary in the name of maintaining the relationship.
+This dissolves the boundary in the name of maintaining the relationship, and calls itself diplomacy.
 
 The clean no does not dissolve. The clean no states.
 
@@ -129,7 +129,7 @@ Most people can do part one. Some people can do parts one and two. Very few peop
 <!-- /MARGINALIA -->
 
 
-Because a boundary that does not include the cost is not a boundary. It is a request you haven't stopped making yet. It is the hope that someone will respect your line without you having to enforce it. Hope, in the domain of boundaries, is not a strategy.
+Because a boundary that does not include the cost is a request you haven't stopped making yet. It is the hope that someone will respect your line without you having to enforce it. Hope, in the domain of boundaries, is not a strategy.
 
 The Challenger learned this the hard way — by watching boundaries dissolve, relationships violate, and lines get crossed because someone stated a preference instead of drawing a line.
 
@@ -223,7 +223,7 @@ Before you can use the fire, you need to know what shape it comes in. The Challe
 
 4. **The Refusal** — The clean no. *"I will not."* The Refusal is the Demand turned inward — a line you draw against your own compliance.
 
-5. **The Reckoning** — Naming the cost. *"If you do X, here is what happens."* The Reckoning is not a threat. It is a consequence stated plainly. A natural result made visible.
+5. **The Reckoning** — Naming the cost. *"If you do X, here is what happens."* The Reckoning states the consequence plainly. A threat would leave it vague and let you imagine it. A natural result made visible.
 
 Each mode has its own feel, its own appropriate moment, its own cost. A Line without a Reckoning is a request. A Demand without a Refusal is a plea. The Challenger knows which mode the moment requires.
 
@@ -247,7 +247,7 @@ Five modes, five channels, no overlap. That is not a tidy coincidence — it is 
 
 **The Demand** (Wood/Joy → Bliss): A demand insists that something change, which means it is a claim on a shared future. Wood stuck is defiance with no future in it — the no that is only a no, refusal as identity, the fight enjoyed for its own sake. That version can run for years and produce nothing. Bliss is Wood satisfied, and its capability is participation: *I can participate.* The demand that lands is the one where the refusal opened a space and you are willing to be in the space. The no that becomes a yes to something new.
 
-**The Refusal** (Earth/Neutrality → Peace): This one surprises people who expect the clean no to run on anger. It does not. Anger is the Line's fuel. The Refusal's opposing force is Earth gone flat — compliance that has stopped being a decision, the automatic yes, going along because going along costs nothing you can feel in the moment. Numbness is Neutrality stuck, and it is the reason most nos never get said: nothing arrived to say them with. Peace is Neutrality satisfied, and its capability is rest. *I can rest.* The test of a real refusal is not how it sounded. It is whether you slept.
+**The Refusal** (Earth/Neutrality → Peace): This one surprises people who expect the clean no to run on anger. It does not. Anger is the Line's fuel. The Refusal's opposing force is Earth gone flat — compliance that has stopped being a decision, the automatic yes, going along because going along costs nothing you can feel in the moment. Numbness is Neutrality stuck, and it is the reason most nos never get said: nothing arrived to say them with. Peace is Neutrality satisfied, and its capability is rest. *I can rest.* The test of a real refusal is whether you slept. How it sounded is the audience's business.
 
 **The Reckoning** (Water/Sadness → Poignance): Naming a cost requires the sadness underneath the anger — what it is to watch something you love get violated by someone who is still at the table. Sadness stuck turns the reckoning into an accusation. Let it anchor instead of drown, and it becomes Poignance, whose capability is connection: *I can connect.* The consequence gets named and the person is still someone you are in relationship with. That combination is the whole difference between a reckoning and a threat.
 
@@ -255,7 +255,7 @@ Five modes, five channels, no overlap. That is not a tidy coincidence — it is 
 
 ### The Stage Sequence: Charge → Aim → Act → Stand → Exit
 
-The Challenger's practice is not improvisation. It is a sequence. Five stages, in order, every time.
+The Challenger's practice is a sequence, rehearsed often enough to pass for improvisation. Five stages, in order, every time.
 
 **Stage 1: Charge.** The fire arrives. Something in your body shows up — a heat in your chest, a clenching in your jaw, a sudden clarity that is also somehow a burning. This is the charge. The Challenger does not suppress it. The Challenger receives it.
 
@@ -310,7 +310,7 @@ Some moves spend fire without protecting anything:
 
 - **Charge → Collapse:** The fire turns inward. The anger that should be directed outward becomes self-directed shame. *I shouldn't have to feel this. Something is wrong with me for feeling this.* The charge implodes and the boundary dissolves.
 
-- **Charge → Passive-aggression:** The fire goes sideways. You don't say the no directly. You say it in sighs, in delayed responses, in the sudden unavailability that is a thousand small nos dressed up as scheduling conflicts. This is not a line. This is a slow war.
+- **Charge → Passive-aggression:** The fire goes sideways. You don't say the no directly. You say it in sighs, in delayed responses, in the sudden unavailability that is a thousand small nos dressed up as scheduling conflicts. This is a slow war fought one line at a time.
 
 The test is simple: did this move leave you more able to draw the next clean line, or did it spend the fire and leave the pattern intact?
 
@@ -376,7 +376,7 @@ This is the moment for the Reckoning. Not anger — *consequence.* You state the
 
 Notice what this is: a clear line, clearly stated, with a consequence clearly named. Not a threat — a *foresight.* You are telling them what you will do before you have to do it. That is the Reckoning. That is the Challenger's sharpest tool.
 
-Most people do not do this because they are afraid of being seen as punitive. The Challenger knows: *not* naming the consequence is not kindness. It is a kindness-deceiving-as-cruelty — because it sets the other person up to cross the line again, not knowing what will follow.
+Most people do not do this because they are afraid of being seen as punitive. The Challenger knows: *not* naming the consequence is cruelty wearing kindness as a disguise — because it sets the other person up to cross the line again, not knowing what will follow.
 
 Name the consequence. Then mean it.
 
@@ -428,7 +428,7 @@ You met 3-2-1 in Chapter 3. This is the Challenger's application.
 
 The 3-2-1 practice asks a harder question: *Who is the oppressor in your inner world?* Not who hurt you in history — the **figure** your nervous system built to hold everything you aren't allowed to be. The one who draws lines while you stay pleasant. The colleague who said no without apologizing. The public figure you call domineering. The **inner Challenger you disowned.**
 
-This is not letting real harm off the hook. It is reclaiming the energy you've been spending on a cartoon. Real harm and real accountability stay real — 3-2-1 owns **your** split, not **their** innocence.
+This reclaims the energy you've been spending on a cartoon. The real harm keeps its full weight. Real harm and real accountability stay real — 3-2-1 owns **your** split, not **their** innocence.
 
 The Challenger in distortion controls. The real Challenger protects. 3-2-1 finds which one you're fighting in **them** that's actually **in you.**
 
@@ -475,7 +475,7 @@ One more move belongs here, and it is the smallest one in the chapter.
 
 There is a voice that arrives right before you draw a line. It is not the auditor — the auditor asks a question. This one has already decided. It says the same sentence every time, in the same tone: *do this and you become the difficult one, and what you have with these people will not survive it.* Tight. Pinched. Completely certain.
 
-Here is the part almost nobody gets told about that voice: it is not lying to you. It is a memory. Somewhere behind it sits a real occasion when pushing did cost something — a relationship that cooled, a table nobody invited you back to. The voice is reporting accurately.
+Here is the part almost nobody gets told about that voice: it is a memory reporting accurately on something that is over. Somewhere behind it sits a real occasion when pushing did cost something — a relationship that cooled, a table nobody invited you back to. The voice is reporting accurately.
 
 What it gets wrong is the timestamp. It files a past event as live coverage. It stands at the door of the conversation happening now and narrates something that already finished, in the present tense, at the volume of an emergency.
 
@@ -507,7 +507,7 @@ Find the voice. Give it a name. Say the name out loud.
 
 You met the Skeptic at the door of the Forest, third in line, a few steps behind the Controller. The Protector decides whether you go in at all. The Controller decides how you are allowed to behave once you are inside. The Skeptic decides something narrower and more damaging than either: whether the thing you are reacting to was ever real.
 
-At its best the Skeptic is your auditor, and you need one. A charge arrives and the auditor asks the single useful question — *is this the thing in front of me, or is this an old thing wearing today's clothes?* Sometimes the honest answer is the old thing, and the auditor has just saved you from spending a line on someone who did not earn it. That is not timidity. That is what makes your no expensive. Someone who draws a line at everything has not drawn one; the line stops being information about the world and becomes weather, and people learn to dress for it and walk past. The auditor is the reason that when you do finally say *this is not acceptable*, the sentence carries.
+At its best the Skeptic is your auditor, and you need one. A charge arrives and the auditor asks the single useful question — *is this the thing in front of me, or is this an old thing wearing today's clothes?* Sometimes the honest answer is the old thing, and the auditor has just saved you from spending a line on someone who did not earn it. That pause is what makes your no expensive, and it is the reason careful people get called timid. Someone who draws a line at everything has not drawn one; the line stops being information about the world and becomes weather, and people learn to dress for it and walk past. The auditor is the reason that when you do finally say *this is not acceptable*, the sentence carries.
 
 An auditor can widen its own remit, though. It stops auditing the charge and starts auditing your standing to have it. The question changes shape without announcing that it has changed — from *is this real* to *are you the one who gets to say it is real.* Those sound like the same rigor. They are not the same question. The first can be answered by looking at the situation. The second can only be answered by looking at you, and the Skeptic already knows how that audit comes out.
 
@@ -610,7 +610,7 @@ The Move: State the line. State it without essay, without justification, without
 
 *This is where I need the line to be.*
 
-Why it works: Most people bury their lines in qualifiers. *"I don't know if this is the right time but I just wanted to maybe suggest that it might be worth considering..."* The line, buried in qualifiers, is not actually a line. The Challenger's move is to state the line cleanly, so clean it stands on its own.
+Why it works: Most people bury their lines in qualifiers. *"I don't know if this is the right time but I just wanted to maybe suggest that it might be worth considering..."* The line, buried in qualifiers, stops being a line. The Challenger's move is to state the line cleanly, so clean it stands on its own.
 
 In practice: When you feel yourself reaching for a qualifier, stop. Take the qualifier out. State the line. Hold it for one second longer than is comfortable. That's usually all it takes.
 
