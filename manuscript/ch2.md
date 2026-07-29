@@ -1,4 +1,4 @@
-# CHAPTER 2: THE FOREST — Why Allyship Keeps Failing (and Where to Start)
+# CHAPTER 2: THE FOREST
 ## *You Cannot Ally from a Place You Have Not Explored*
 
 
@@ -30,7 +30,7 @@
 
 ---
 
-## Section 1: Urgency
+## Section 1: Urgency — Why Allyship Keeps Failing (and Where to Start)
 ### *"The World Didn't Get Safer. You Just Stopped Believing It Could Be."*
 
 The world is not fine.

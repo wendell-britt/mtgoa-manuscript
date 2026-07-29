@@ -1,4 +1,4 @@
-# CHAPTER 7 — THE DIPLOMAT
+# CHAPTER 7: THE DIPLOMAT
 ## *The Terms That Let You Stay Without Disappearing*
 
 

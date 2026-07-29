@@ -1,4 +1,4 @@
-# Chapter 1 — The Infinite Arcade
+# CHAPTER 1: THE INFINITE ARCADE
 
 This book is three years late.
 
