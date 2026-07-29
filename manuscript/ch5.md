@@ -244,7 +244,7 @@ I'm talking about something more specific than genetics and more specific than c
 
 Every person alive is an inheritor. The Regent's practice is about working consciously with that fact instead of against it.
 
-The native material at the Regent's altitude is **loyalty** — the felt sense of belonging to something larger than yourself, and the weight that comes with that belonging. What you owe. What you carry. What you pass on.
+The native material at the Regent's altitude is **loyalty**, a register of its own beneath emotion, will, and logic — the felt sense of belonging to something larger than yourself, and the weight that comes with that belonging. What you owe. What you carry. What you pass on.
 
 Loyalty is deeply unfashionable in progressive circles. It sounds like obedience. It sounds like the thing that keeps people inside harmful institutions. That's because the village conflated loyalty with compliance — and then wondered why the institutions it served became so brittle.
 
@@ -366,7 +366,7 @@ The goal is to move through the cycle more consciously, more fully, each time.
 
 You take over a team. The team has a culture — one you would not have built. Some of it is good. Some of it is harmful. The previous leader left and left you holding it.
 
-The Regent's question is: what was handed to me, what still serves, what needs reforming, and who am I handing this to when I'm done?
+Rebuilding it in your image is the founder's question. The Regent asks: what was handed to me, what still serves, what needs reforming, and who am I handing this to when I'm done?
 
 You start with Inherit: *this is what I received.* You spend time actually looking at the inheritance before you try to change it. Then Honor: *this part is load-bearing.* Then Steward: *I'm going to tend this, including the parts I have not decided about yet.* Then Reform: *this part has to change, and I am going to say so where it costs me something.* Then Entrust: *I'm going to prepare the next person — not a replica of me, but a person with enough context to make their own good decisions.*
 
@@ -406,7 +406,7 @@ Both cost something. Claiming it means you can no longer hide behind not-yet-rea
 
 You met the Fixer-Healer at the door of the Forest, fourth in line, one step past the Skeptic. The Protector decides whether you go in. The Controller decides how you are allowed to behave once you are inside. The Skeptic decides whether what you are reacting to was ever real. The Fixer-Healer decides something none of them touch: whether the thing in front of you is in good enough condition to be given yourself to.
 
-At its best this is the part of you that does not look away from damage. Something you inherited is broken — an organization with a founding story that stopped being true, a practice that has drifted from what it was for, a family pattern nobody has named in three generations. Most people manage the discomfort of that by not seeing it. The Fixer-Healer sees it, names it, and starts work. Repair is the only reason anything inherited ever improves. Every tradition still worth having was repaired by somebody who noticed it was failing and did something about it instead of calling the failure sacred.
+At its best this is the part of you that does not look away from damage. Something you inherited is broken — an organization with a founding story that stopped being true, a practice that has drifted from what it was for, a family pattern nobody has named in three generations. Most people manage the discomfort of that by not seeing it. The Fixer-Healer sees it, names it, and starts work. Somebody always calls that meddling, and repair is the only reason anything inherited ever improves. Every tradition still worth having was repaired by somebody who noticed it was failing and did something about it instead of calling the failure sacred.
 
 The distortion is not that it repairs. The distortion is what it attaches the repair to.
 
@@ -477,7 +477,7 @@ The Regent's game is inheritance and stewardship. The Regent's question in any s
 
 Before you try to change anything, name what arrived. Who held this before you? What did they build? What did they sacrifice? What did they get wrong?
 
-The Regent's first move is witnessing.
+The instinct is to act. The Regent's first move is witnessing.
 
 *In practice:* When you take on a new role, a new team, a new responsibility — before you make a single change, spend time understanding what was handed to you. Ask: *why is this here? Who built this? What was it trying to do?* You may find the answer changes your entire approach.
 
@@ -537,7 +537,7 @@ Draw from your twenty rather than the hundred and twenty — though not from a s
 
 **Wake Up** — asked what deserves attention, it returns what is damaged. Those are not the same list. An inheritance you can only see the breaks in is one you will never accept.
 
-**Open Up** — *can I stay with this?* Yes. Instantly, and in the wrong way: yes, personally, out of my own memory, indefinitely. That is standing in for it.
+**Open Up** — *can I stay with this?* Yes. Instantly, and in the wrong way: yes, personally, out of my own memory, indefinitely. That feels like holding it. It is standing in for it.
 
 **Clean Up** — it names the capability the structure lacks and supplies it in the same motion. Diagnosis and workaround arrive together, so the gap is never visible long enough for anyone else to fill.
 
