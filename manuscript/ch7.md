@@ -210,7 +210,7 @@ The anxiety becomes the fuel for engagement rather than the signal to withdraw. 
 
 The Bridge-Builder's secondary Translate addresses the Diplomat's specific vulnerability to rejection. When the pattern of past exclusion fires (they won't want me here, I'm outside the circle), the Translate moves the charge toward generous assumption: *What if they actually want me here? What if the field is more open than my pattern expects?*
 
-This is not naive optimism — it is a discipline of extending the same hypothesis to the present that you extend to strangers on the street. The rejection-sensitivity is the raw material; the Translate converts it into the willingness to risk contact.
+This is a discipline of extending the same hypothesis to the present that you extend to strangers on the street. The rejection-sensitivity is the raw material; the Translate converts it into the willingness to risk contact.
 
 **[CONTROL] Control 1 — Untracked Depletion Pattern**
 
@@ -297,7 +297,7 @@ The Field-Holder is the Diplomat's most demanding channel in terms of sheer pres
 
 Here is what it looks like when it is absent: a person who can hold a conversation only when it is already safe. Who can mediate when conditions are calm, but who falls apart the moment the field becomes truly charged. The Field-Holder's absence shows up as a kind of presence collapse — the moment something difficult actually happens, they either escalate into the conflict or disappear from the field entirely. They can hold the good conditions; they cannot hold the bad ones.
 
-Here is what it looks like when it is distorted: a performative calm that is actually a freeze response. The distorted Field-Holder mistakes stillness for safety — they sit in the middle of chaos and perform peace, believing that their equanimity will regulate the field. This is collapse masquerading as calm. Real Field-Holding is not the absence of charge — it is the presence of containment. The field is still charged. The Field-Holder is not calming it down. They are giving it a shape. Note the difference from the Challenger's Stand, which is subtraction: you finish the sentence and add nothing. Hold is addition, and it is expensive, and it does not end when the silence does. They are saying: *this charge has somewhere to go. It can move through here without destroying anything.*
+Here is what it looks like when it is distorted: a performative calm that is actually a freeze response. The distorted Field-Holder mistakes stillness for safety — they sit in the middle of chaos and perform peace, believing that their equanimity will regulate the field. This is collapse masquerading as calm. Real Field-Holding is the presence of containment. The field is still charged. The Field-Holder is not calming it down. They are giving it a shape. Note the difference from the Challenger's Stand, which is subtraction: you finish the sentence and add nothing. Hold is addition, and it is expensive, and it does not end when the silence does. They are saying: *this charge has somewhere to go. It can move through here without destroying anything.*
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 1 — Anxiety → Grounded Presence**
 
@@ -313,7 +313,7 @@ The alchemy: *I stop performing calm and start doing containment.* The stillness
 
 **[TRANSLATE] — From Presence to Structure**
 
-**Fire → Earth: Heat translated into form.** When a field is charged with conflict — hot, fast, potentially explosive — the Translate move is to give that charge a structure it can move through. The field is not going to cool down. It is going to move, and the Translate move is to give the movement a shape. A boundary. A format. A pause that says: *let's do this deliberately.* The fire doesn't go out — it becomes a fireplace instead of a wildfire.
+**Fire → Earth: Heat translated into form.** When a field is charged with conflict — hot, fast, potentially explosive — the Translate move is to give that charge a structure it can move through. The field is going to move rather than cool down, and the Translate move channels that movement. A boundary. A format. A pause that says: *let's do this deliberately.* The fire doesn't go out — it becomes a fireplace instead of a wildfire.
 
 **Water → Wood: Sadness translated into forward motion.** When a field is stuck in sadness — slow, heavy, collapsed — the Translate move is to carry that energy forward into possibility. The field has been hurt. It needs to grieve. It also needs to know it can still move. The Translate move carries the depth of the sadness into the channel where something new can begin to grow.
 
@@ -377,13 +377,13 @@ Here is what it looks like when it is distorted: two different failures wearing 
 
 The first distortion is **endless process** — the Diplomat who has confused hearing with closing. Who believes that if everyone feels included, the work is done. Who will run another round of listening because naming what must change feels like picking a fight. The field stays warm. Nothing moves. Resentment accumulates under the harmony like sediment.
 
-The second distortion is **ultimatum dressed as negotiation** — leverage where integration was needed. *Here's what I need or I'm out* spoken in the tone of honest disclosure, but actually functioning as a threat. This is not the Integrative Negotiator. This is the Challenger's game wearing the Diplomat's clothes. The Diplomat who defaults here has skipped the native work — surfacing interests, finding terms — and imported the Challenger's altitude into the Diplomat's conversation. It sometimes works. It is not what this channel is for.
+The second distortion is **ultimatum dressed as negotiation** — leverage where integration was needed. *Here's what I need or I'm out* spoken in the tone of honest disclosure, but actually functioning as a threat. This is the Challenger's game wearing the Diplomat's clothes. The Diplomat who defaults here has skipped the native work — surfacing interests, finding terms — and imported the Challenger's altitude into the Diplomat's conversation. It sometimes works. It is not what this channel is for.
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 1 — Resentful Peace → Honest Terms**
 
 The Dissatisfaction here is **resentful peace** — the accommodation that says yes while the body says no. You agreed to something you didn't actually agree to. You made space without naming what making space cost. You kept the field calm by swallowing your stake, and now the calm is curdling into bitterness you can't explain because you never said out loud what you needed the agreement to hold.
 
-The alchemy: *I stop paying for harmony with my disappearance.* Resentful peace is not peace — it is deferred conflict wearing a polite face. The alchemy moves accommodation into **honest terms**: not *I'll tolerate anything to stay*, but *here is what this field must hold for my staying to remain real — for everyone's staying to remain real.* The charge of the swallowed no becomes the heat of a closing that actually names the stakes.
+The alchemy: *I stop paying for harmony with my disappearance.* Resentful peace is deferred conflict wearing a polite face. The alchemy moves accommodation into **honest terms**: *here is what this field must hold for my staying to remain real — for everyone's staying to remain real.* The charge of the swallowed no becomes the heat of a closing that actually names the stakes.
 
 **What it feels like in the body:** Resentful peace sits as heaviness — a pleasant surface with something dense underneath. Honest terms feel like heat with ground — your chest is engaged, your feet are planted, and nothing has exploded.
 
@@ -395,7 +395,7 @@ The alchemy: *I ask what each position is guarding, not just what it says.* Posi
 
 **[TRANSLATE] — From Positions to Closure**
 
-**Fire → Earth: Heat translated into structure.** When a field is charged with competing demands — hot, righteous, each side certain — the Translate move is not to cool the fire down. It is to give the fire a shape it can move through. *What would each of you need to see change for this to be workable?* The anger does not get suppressed. It becomes the material from which terms are built.
+**Fire → Earth: Heat translated into structure.** When a field is charged with competing demands — hot, righteous, each side certain — the Translate move is to give the fire a shape it can move through. *What would each of you need to see change for this to be workable?* The anger does not get suppressed. It becomes the material from which terms are built.
 
 **Earth → Fire: Vague agreement translated into committed close.** When a field has done the listening work and arrived at something that sounds aligned but isn't yet specific — the Translate move carries the structure forward into commitment. *What are we actually agreeing to? By when? Who does what?* The Integrative Negotiator does not leave the field in principled ambiguity. The Diplomat's altitude loves process. This channel loves a close.
 
@@ -419,7 +419,7 @@ Discernment at the close asks more than comfortable vagueness. It is worth it wh
 
 *When negotiation fails — when someone refuses to name stakes, when harmony is cover for harm, when the field cannot hold truth — the Challenger's clean no is the next move. That is Chapter 4's game. Negotiate first. Line when the field cannot hold truth.*
 
-*What the Integrative Negotiator is for is the capacity to close — to surface what everyone is protecting, name what the agreement must hold, and let the field move. Not harmony instead of truth. Harmony that includes truth. The field that has been truly negotiated is not softer at the close. It is more real.*
+*What the Integrative Negotiator is for is the capacity to close — to surface what everyone is protecting, name what the agreement must hold, and let the field move. Not harmony instead of truth. Harmony that includes truth. The field that has been truly negotiated is more real at the close.*
 
 ---
 
@@ -445,7 +445,7 @@ It converts the record into a standing. Not *this cost me* but *this cost me, th
 
 Now here is why this daemon stands where it stands, in a book about allyship. Allyship run on a ledger is allyship whose legitimacy comes from your own injury. That has a specific and terrible consequence: you cannot act from surplus. You can only act from wound. The person you came to stand beside stops being someone you are standing beside and becomes — structurally, not intentionally, and this is the part that is hard to look at — a claimant against the same fund. Two people cannot both be the one who has paid most, in a field where having paid most is what confers the right to speak. Nobody decides this. It is simply what happens when standing is denominated in cost.
 
-This is where the chapter's myth comes due. You met it in Section 3: allyship means never causing harm. The Victim is the daemon that makes that feel like integrity rather than what it is, which is a solvency requirement. If your legitimacy comes from having been harmed, then having caused harm is not a mistake you can absorb and repair. It is a disqualification. It voids the ledger. So the Victim cannot afford for you to have caused harm — and a part of you that cannot afford a finding is a part of you that will not run the audit.
+This is where the chapter's myth comes due. You met it in Section 3: allyship means never causing harm. The Victim is the daemon that makes that feel like integrity rather than what it is, which is a solvency requirement. If your legitimacy comes from having been harmed, then having caused harm becomes a disqualification rather than a mistake you can absorb and repair. It voids the ledger. So the Victim cannot afford for you to have caused harm — and a part of you that cannot afford a finding is a part of you that will not run the audit.
 
 The cost lands in exactly the place this chapter cannot afford to lose it. You become unavailable for repair. Read that again against Section 4, because the Repairer is one of your five channels and Move 4 is a structure for receiving rupture. None of it can run. Someone names an impact you had, and before the sentence is finished the ledger has opened and produced a number, and the number says this is impossible — look at what I have absorbed, look at the column, I am the one in the red here. The Face whose whole chapter is about repair is, in shadow, structurally the worst in the book at receiving it.
 
@@ -490,11 +490,11 @@ You know what your Victim is for now. That is what you take out.
 ## Section 6: The Game
 ### *What Winning Looks Like at the Diplomat's Altitude*
 
-*You cannot close with terms you haven't named to yourself. You cannot repair a rupture you haven't sat in. You cannot refuse false equivalence from a position of real hearing if you've been performing hearing. The inner work is not separate from the game. The inner work is what makes the game real.*
+*You cannot close with terms you haven't named to yourself. You cannot repair a rupture you haven't sat in. You cannot refuse false equivalence from a position of real hearing if you've been performing hearing. The inner work is what makes the game real.*
 
 The Diplomat wins by being the one at the table who knows what they're willing to lose.
 
-This is not a game of winning. The Diplomat's game is not about victory — it is about creating the conditions where connection remains possible, even when the field is charged, even when the camps are dug in, even when the instinct of everyone present is to harden. The moves in this section are the specific, repeatable acts that make you a Diplomat in practice — the ones that show up whether you're mediating a conflict between two people or holding a conversation that has been circling for years.
+The Diplomat's game is about creating the conditions where connection remains possible, even when the field is charged, even when the camps are dug in, even when the instinct of everyone present is to harden. The moves in this section are the specific, repeatable acts that make you a Diplomat in practice — the ones that show up whether you're mediating a conflict between two people or holding a conversation that has been circling for years.
 
 ---
 
@@ -508,7 +508,7 @@ Most difficult conversations are not what they appear to be on the surface. Two 
 
 Here's what it sounds like: *"I want to name something I'm noticing. On the surface this is about the budget decision. Underneath, I think it might be about something else — about whether this team sees your concerns as real. I want to check if that's what's actually here."*
 
-Name the Field is not a diagnosis. It is an offering — you are saying *here is what I think is happening, and I want to know if I'm right.* The move either lands and the conversation opens, or the other person corrects you and you update. Either way, the field gets clearer.
+Name the Field is an offering — you are saying *here is what I think is happening, and I want to know if I'm right.* The move either lands and the conversation opens, or the other person corrects you and you update. Either way, the field gets clearer.
 
 **Why it works:** Most conflicts stay stuck because they are playing at the wrong level — arguing about content while the real conflict is relational. Name the Field moves the conversation to the level where the actual problem lives.
 
@@ -556,7 +556,7 @@ The Diplomat translates: *"What I hear [Camp A] saying, in [Camp B]'s language, 
 
 Bridge, translate, hold, repair — and then this. The close. It is the move the whole chapter has been building toward, and the one the Diplomat's altitude skips most reliably, because closing feels like conflict and the field can always make space for one more round.
 
-Close with Honest Terms is not an ultimatum. It is the single clear sentence that names what this field must hold for your staying to remain real — said once, and then left alone for the field to answer.
+Close with Honest Terms comes down to one clear sentence naming what this field must hold for your staying to remain real — said once, and then left alone for the field to answer.
 
 Here is what that sounds like: *"I want to say something I don't say often. I can work with almost anything in this partnership except one thing — if we get to a place where I have to choose between being honest with you and being honest with myself, I will choose myself. I need you to know that about me, because it means when I do push back, it's because we're close to losing an agreement that works for both of us, not because I'm running a strategy."*
 

@@ -200,7 +200,7 @@ Real stewardship includes the possibility of reform. Real inheritance includes t
 
 You met the Polarity Map in Chapter 3. Here is the Regent's pair.
 
-A polarity is not a problem to solve. It has two poles, and both of them are right. The charge comes not from one side being wrong but from getting stuck there so long the other pole stops existing for you.
+A polarity is not a problem to solve. It has two poles, and both of them are right. The charge comes not from one side being wrong but from getting stuck on one so long that the other stops existing for you.
 
 The Regent's pair: honor what was passed versus reform what no longer serves.
 
