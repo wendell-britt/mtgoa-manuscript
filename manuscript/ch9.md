@@ -151,11 +151,11 @@ If you want the method itself — to run it for other people, not just for the t
 
 The Elder doesn't start new things. The Elder hands things forward.
 
-The practice: Take what you built and make it pass-onable. Write it down. Name the mistakes. Show the next person where the traps are. The Elder's move is inheritance — not building something new, but making sure the thing you built doesn't depend on you to survive.
+The practice: Take what you built and make it pass-onable. Write it down. Name the mistakes. Show the next person where the traps are. The Elder's move hands down an inheritance — not building something new, but making sure the thing you built doesn't depend on you to survive.
 
-This is where the deck earns its keep. You have been handed twenty cards six times in this book — the Shaman's twenty, then the Challenger's, the Regent's, the Architect's, the Diplomat's, the Sage's. A hundred and twenty cards. Five moves crossed against four domains, six operations deep. That was never a reference table. It was the practice surface, and you have been holding all of it since Chapter 3.
+The deck starts earning its keep here. You have been handed twenty cards six times in this book — the Shaman's twenty, then the Challenger's, the Regent's, the Architect's, the Diplomat's, the Sage's. A hundred and twenty cards. Five moves crossed against four domains, six operations deep. Nobody built that as a reference table. It works as the practice surface, and you have been holding all of it since Chapter 3.
 
-The Elder's use of the deck is the second use. The first one is yours, alone, with nobody watching: draw against the Face you have been performing and find out what you actually do when a card names the thing you have been routing around. Running it for a group is what becomes possible after that — a session, a team, a family, a class, a vocabulary handed to people who already know how to do the thing and have never been able to name it. That is how the work goes forward without everyone starting from zero. It is also what keeps the practice from calcifying, because a deck you actually play will keep dealing you the card you did not want.
+The Elder's use of the deck comes second. The first one belongs to you, alone, with nobody watching: draw against the Face you have been performing and find out what you actually do when a card names the thing you have been routing around. Running it for a group becomes possible after that — a session, a team, a family, a class, a vocabulary handed to people who already know how to do the thing and have never been able to name it. That is how the work goes forward without everyone starting from zero. It is also what keeps the practice from calcifying, because a deck you actually play will keep dealing you the card you did not want.
 
 The Elder is about making sure the work outlives you. Authority is what that looks like to everyone else.
 

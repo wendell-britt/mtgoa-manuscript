@@ -86,19 +86,19 @@ Which becomes its own kind of exile. Not the loud kind — not being asked to le
 
 You just read a story about someone who sees clearly and gets exiled for it. If something moved while you read — a recognition, a *yes* — the story located something real. You know this test by now. You've taken it since the first page. Take it again here, where it cuts sharpest, because the Sage makes the two readings hardest to tell apart.
 
-Read it first as this: you have the Sage's gift, and you have been living the Sage's exile. You can see which game is really being played. You can feel the gap between what a group is saying and what it's actually doing, and you've stopped naming it because nobody around you knew what to do with that capacity — not because there was anything wrong with the seeing itself.
+Read it first as this: you have the Sage's gift, and you have lived the Sage's exile. You can see which game the table is really playing. You can feel the gap between what a group says and what it actually does, and you've stopped naming it because nobody around you knew what to do with that capacity — not because the seeing itself had anything wrong with it.
 
-*(This reading is comfortable in a particular way. It explains the distance you sometimes feel in your progressive spaces — why you can be surrounded by people doing the work and still feel slightly to the side of it. It gives the distance a story. A good story. A story that isn't wrong.)*
+*(This reading comforts in a particular way. It explains the distance you sometimes feel in your progressive spaces — why you can stand surrounded by people doing the work and still feel slightly to the side of it. It gives the distance a story. A good story. A story that isn't wrong.)*
 
-The second reading: you've spent enough time around the Sage's vocabulary — the games, which one the conflict is actually about, who's playing what — that the fluency itself became a place to stand at a careful distance. The seeing became the destination rather than the beginning. The meta-awareness is real. It's being used the way the Sage in distortion uses it: to understand without committing. To diagnose without being diagnosed. To see the whole board without ever moving a piece on it.
+The second reading: you've spent enough time around the Sage's vocabulary — the games, which one the conflict actually turns on, who plays what — that the fluency itself became a place to stand at a careful distance. The seeing became the destination rather than the beginning. The meta-awareness is real, and it gets used the way the Sage in distortion uses it: to understand without committing. To diagnose without being diagnosed. To see the whole board without ever moving a piece on it.
 
 The first reading puts the gap between you and the village.
 
 The second reading puts the gap inside you.
 
-You'll know which one is yours. The chapter keeps going either way.
+You'll know which one belongs to you. The chapter keeps going either way.
 
-Let's be precise about the terms so they don't blur together. Shadow is the move that stays hidden because exposure feels too expensive: you know the line, and you say nothing, so nobody can call you difficult. Distortion is the gift turned sideways: you can name a group perfectly, and you use the naming to stand above it. Cost is the bill that follows: people start calling you insightful while nobody feels helped.
+Keep the terms apart so they don't blur together. Shadow is the move that stays hidden because exposure feels too expensive: you know the line, and you say nothing, so nobody can call you difficult. Distortion is the gift turned sideways: you can name a group perfectly, and you use the naming to stand above it. Cost is the bill that follows: people start calling you insightful while nobody feels helped.
 
 ---
 
@@ -158,9 +158,9 @@ The Sage sees the whole thing. That's not a contradiction — it's the whole poi
 
 Mastery is knowing which game you're playing and being able to put it down.
 
-This is not the guru on the mountain who has risen above it all. Detachment is a real capacity with real uses; the Sage runs it deliberately, for a purpose and a duration, the way you'd use any other instrument. This describes something else. Call it *committed seeing*: the capacity to take in all the altitudes — Red, Amber, Orange, Green, Teal — and still choose to stand somewhere. To play the game the moment requires without mistaking it for the only game there is. To know when to draw the line and when to step back. To see the whole map and still walk your piece of it.
+None of this describes the guru on the mountain who has risen above it all. Detachment is a real capacity with real uses; the Sage runs it deliberately, for a purpose and a duration, the way you'd use any other instrument. This describes something else. Call it *committed seeing*: the capacity to take in all the altitudes — Red, Amber, Orange, Green, Teal — and still choose to stand somewhere. To play the game the moment requires without mistaking it for the only game there is. To know when to draw the line and when to step back. To see the whole map and still walk your piece of it.
 
-The Sage is what happens when you've been all the other Faces long enough to see them from the outside. You've felt with the Shaman. You've drawn lines with the Challenger. You've carried forward with the Regent. You've built with the Architect. You've held the field with the Diplomat. At each step, you were also watching: *which game am I in, and which one does this moment actually require?*
+The Sage arrives when you've been all the other Faces long enough to see them from the outside. You've felt with the Shaman. You've drawn lines with the Challenger. You've carried forward with the Regent. You've built with the Architect. You've held the field with the Diplomat. At each step, you also watched: *which game am I in, and which one does this moment actually require?*
 
 That's the Sage. Not a new game above the others. A meta-view of all of them — the capacity to see the whole system and choose where to stand inside it.
 
@@ -174,23 +174,23 @@ Not *instead of* choosing. *Along with* choosing.
 
 ### *The Ladder Underneath: What the Sage Knows That the Other Faces Cannot See*
 
-The Sage's journey runs inward and then back. Corin would call going inward a retreat, and he would be right about the movement and wrong about where it ends. At each Face, you were doing the work and also watching yourself do it. That watcher is the Sage, and what the watcher accumulates is a specific kind of knowledge: the gift and the limit of every Face, held at the same time.
+The Sage's journey runs inward and then back. Corin would call going inward a retreat, and he would have the movement right and the destination wrong. At each Face, you did the work and also watched yourself do it. That watcher is the Sage, and the watcher accumulates a specific kind of knowledge: the gift and the limit of every Face, held at the same time.
 
-**The Shaman's feeling is always true and always incomplete.** True, because feeling is information — the body reports honestly on what it encounters. Incomplete, because a feeling doesn't tell you what to do about it. The Shaman knows what's present. The Sage knows what game the Shaman is playing by feeling it, and whether that game is the one the moment needs.
+**The Shaman's feeling is always true and always incomplete.** True, because feeling is information — the body reports honestly on what it encounters. Incomplete, because a feeling doesn't tell you what to do about it. The Shaman knows what's present. The Sage knows what game the Shaman plays by feeling, and whether that game is the one the moment needs.
 
-**The Challenger's line is always necessary and always partial.** Necessary, because without lines there is no structure, and without structure there is only chaos wearing the mask of freedom. Partial, because a line drawn in the wrong game creates its own damage. Draw a power-game line where the work was harmony and you've imposed rather than solved. Draw a harmony-game line in a power-game moment and you've avoided the confrontation the moment required. The line is true. The question is whether it's the right line for this game.
+**The Challenger's line is always necessary and always partial.** Necessary, because without lines nothing holds structure, and without structure only chaos remains, wearing the mask of freedom. Partial, because a line drawn in the wrong game creates its own damage. Draw a power-game line where the work called for harmony and you've imposed rather than solved. Draw a harmony-game line in a power-game moment and you've avoided the confrontation the moment required. The line is true. The question is whether it's the right line for this game.
 
 **The Regent's tradition is always stabilizing and always limiting.** Stabilizing, because continuity is survival — what worked for the last generation contains wisdom earned in blood and failure. Limiting, because the world changes and the problems change, and the tradition that saved you can become the cage that keeps you small. The inheritance is real. The question is whether you're carrying it because it fits or because you're afraid to set it down.
 
 **The Architect's design is always elegant and always provisional.** Elegant, because good design makes the right thing easy. Provisional, because the next person faces a different problem and needs a different design. The design is good. The question is whether you're still living inside one that has passed its moment.
 
-**The Diplomat's bridge is always connecting and always incomplete.** Connecting, because some differences can't be merged, only held. Incomplete, because holding is not resolving — the tension remains, and the Diplomat's gift is making it bearable without pretending it isn't there. The bridge is real. The question is whether you're building bridges or avoiding the confrontation that would make the bridge unnecessary.
+**The Diplomat's bridge is always connecting and always incomplete.** Connecting, because some differences can't be merged, only held. Incomplete, because holding is not resolving — the tension remains, and the Diplomat's gift makes it bearable without pretending it isn't there. The bridge is real. The question is whether you're building bridges or avoiding the confrontation that would make the bridge unnecessary.
 
-The Sage holds all five at once. Not to judge. To understand. Not to hold above — to hold with. That is the whole difference between the Sage and the Sage in distortion. The Sage sees so they can serve. The distortion sees so it can be right.
+The Sage holds all five at once. Not to judge. To understand. Not to hold above — to hold with. That marks the whole difference between the Sage and the Sage in distortion. The Sage sees so they can serve. The distortion sees so it can be right.
 
-Wilber's point is the structural one: you don't abandon the lower altitudes when you arrive at a higher one. You carry them. The Teal view doesn't mean you've stopped being Red. It means you know when you're being Red, you can choose to be there deliberately, and you can come back. The Sage doesn't leave the Faces behind. The Sage holds them all and knows which one the moment is asking for.
+Wilber makes the structural point: you don't abandon the lower altitudes when you arrive at a higher one. You carry them. The Teal view doesn't mean you've stopped being Red. It means you know when you're Red, you can choose to stay there deliberately, and you can come back. The Sage doesn't leave the Faces behind. The Sage holds them all and knows which one the moment asks for.
 
-Laloux names something he calls evolutionary purpose: once you can see the whole board, you start to feel the pull of something larger than your own survival. It is larger than your team's goals and larger than your organization's mission, and it has its own direction, as though the work is pulling you forward rather than you pushing it. The Sage hears that pull and asks: *which game is this? Is this my game's pull, or something else's?* Sometimes the pull is real. Sometimes it's a beautiful story you've told yourself about why the work matters. The Sage can tell the difference, and the telling is a skill, not a temperament.
+Laloux names something he calls evolutionary purpose: once you can see the whole board, you start to feel the pull of something larger than your own survival. It outruns your team's goals and your organization's mission, and it carries its own direction, as though the work pulled you forward rather than you pushing it. The Sage hears that pull and asks: *which game is this? Is this my game's pull, or something else's?* Sometimes the pull is real. Sometimes it's a beautiful story you've told yourself about why the work matters. The Sage can tell the difference, and the telling takes skill rather than temperament.
 
 ### Polarity Encounter — Which Game ↔ Which Altitude
 

@@ -118,19 +118,19 @@ That's the Architect's practice: the redesign, one step past the analysis. *Here
 
 ### Polarity Encounter — Structure ↔ Agency
 
-Everything above is one pole. Read it again with that in mind and you can feel where it leans.
+Everything above states one pole. Read it again with that in mind and you can feel where it leans.
 
 The Architect's pair: the structure that produces the outcome versus the agency of the person standing inside it.
 
-**Structure** says the design did this. People do what they are incentivized to do, the system is working exactly as built, and if you want different behavior you change the conditions rather than lecturing the person. That case is the spine of this section and it is correct.
+**Structure** says the design did this. People do what they are incentivized to do, the system is working exactly as built, and if you want different behavior you change the conditions rather than lecturing the person. That case forms the spine of this section, and it holds.
 
-**Agency** says the person chose. Somebody with the same incentives, in the same seat, on the same day, does the other thing — and the fact that they can is not a rounding error in the model. It is the whole reason any of this is worth doing. A system that could not be defied would not need allies. Every account of a person who broke ranks at cost is an account of Agency, and there is no incentive map that predicts them.
+**Agency** says the person chose. Somebody with the same incentives, in the same seat, on the same day, does the other thing — and the fact that they can is not a rounding error in the model. It supplies the whole reason any of this is worth doing. A system that could not be defied would not need allies. Every account of a person who broke ranks at cost is an account of Agency, and no incentive map predicts them.
 
-The failure at each end is easy to picture. Structure without Agency builds a machine that treats people as inputs, gets the throughput it designed for, and cannot understand why nobody inside it will meet its eye. It also produces the most comfortable sentence in this book's neighborhood — *the system did it* — which is true and which no one has ever had to be brave to say. Agency without Structure blames individuals for outcomes the design guarantees, burns through good people looking for better ones, and watches the same failure arrive every eighteen months with a new name attached.
+You can picture the failure at each end. Structure without Agency builds a machine that treats people as inputs, gets the throughput it designed for, and cannot understand why nobody inside it will meet its eye. It also produces the most comfortable sentence in this book's neighborhood — *the system did it* — true, and nobody has ever needed courage to say it. Agency without Structure blames individuals for outcomes the design guarantees, burns through good people looking for better ones, and watches the same failure arrive every eighteen months with a new name attached.
 
-This is where the pair gets specific for the reader this book is written for. The suspicion runs one direction. Agency language has warnings attached to it at this altitude, and rightly — *personal responsibility* has done a great deal of work for people who wanted nothing to change. Structure language has none. It arrives sounding like analysis, like sophistication, like the opposite of blame. So the drift runs toward a structural account of every situation you were personally in, which is the one account that never requires you to have been there as a person. In practice it is cruelty, specified as rigour.
+Here the pair gets specific for the reader this book addresses. The suspicion runs one direction. Agency language has warnings attached to it at this altitude, and rightly — *personal responsibility* has done a great deal of work for people who wanted nothing to change. Structure language has none. It arrives sounding like analysis, like sophistication, like the opposite of blame. So the drift runs toward a structural account of every situation you were personally in — the one account that never requires you to have been there as a person. In practice that becomes cruelty, specified as rigour.
 
-Neither pole is the answer. The position is a judgment call every time, and the only diagnostic that works is directional.
+Neither pole is the answer. The position takes a judgment call every time, and only a directional diagnostic works.
 
 ```
 SITUATIONAL DRAW — Structure ↔ Agency
