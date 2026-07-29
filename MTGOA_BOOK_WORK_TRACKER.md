@@ -271,6 +271,44 @@ Status:
 
 ### P0 — Must Fix Before Any Other Editorial Work
 
+**🔴 A4 — ch3 does not teach the two operations. LOAD BEARING.**
+- Wendell 2026-07-29: "We need to make sure chapter 3 actually teaches emotional
+  alchemy. This is load bearing." Audit: `specs/SPEC_SYSTEM_COLLISIONS_2026-07-29.md`
+- ch3 is titled "Emotional Alchemy as the Foundation of Real Allyship", says
+  *emotional alchemy* 10 times, and contains `Transmute` 0, `translate` 0,
+  "two operations" 0. The chapter that exists to teach EA teaches neither operation.
+- It answers "how do you do it" with the WAVE-Spiral instead. So the WAVE-Spiral
+  occupies the slot canon assigns to Transmute/Translate, and the book never says
+  how they relate. **This IS the WAVE/EA collision Wendell asked about, and it has
+  not been dealt with or named.**
+- Sound already: the five channels, all five completions, charge-first, the
+  Controller, the five-stage spiral. The gap is only the operations layer.
+- F1: ch3 names the two operations and states which layer WAVE occupies. The
+  three-layer reading (Process / operations / WAVE-as-practice) is in the audit §1
+  — the WAVE-to-operation mapping there is an inference and needs Wendell's check.
+- F5: the Emotional Process lands in ch3 too. RULED IN by Wendell — see A5.
+
+**🔴 A5 — the Emotional Process enters the book. RULED.**
+- Wendell 2026-07-29: "The emotional process is part of emotional alchemy. It's
+  gotta be in the book." E6 is closed, answer yes.
+- Stimulus -> Emotional Activation -> Impulse -> Controller -> Skeptic ->
+  Conscious Action. Currently absent: *Stimulus* and *Impulse* appear 0 times.
+- Doctrinal, not editorial: canon puts Controller and Skeptic inside the HEALTHY
+  sequence ("Wisdom emerges from cooperation rather than domination") where the
+  book runs them mainly as daemons. Emphasis rather than contradiction — ch3 and
+  ch4 both carry the healthy reading, so there are anchors.
+- Home: ch3, with A4. The Process reframes the Controller chapter-work as a stage
+  seized rather than a villain, which strengthens what is already there.
+
+**🟠 A6 — WAVE is four moves in the glossary, five in every chapter**
+- `APPENDIX_C:34` and `:60` both say four (Show/Clean/Wake/Grow), dropping
+  **Open Up**. ch3-ch8 BAR grids all use five. ch3:235 says five stages. The deck
+  arithmetic needs five: 5 x 4 domains = 20 cards, 120 total; four would give 96.
+- The four are Wilber's original; Open Up is this book's addition and the stage
+  ch7:540 says its daemon exists to prevent.
+- Fix: both glossary entries to five, naming Open Up as the extension. Mechanical.
+
+
 **🔴 A0 — Emotional Alchemy canon is LOCKED; reconcile the drift**
 - **Priority: HIGH.** Locked 2026-07-29 by Wendell: "we need to lock in the
   canonical version of emotional alchemy because it's drifted."
@@ -300,7 +338,7 @@ Status:
 - Check: `grep -rin "transcend\|neutralize" manuscript/` and
   `grep -rn "\[CONTROL\]\|Control Move\|Neutral Channel" manuscript/` both 0.
 
-**🟠 A3 — "The Face" means two different sets of six**
+**✅ A3 — "The Face" means two different sets of six — FIXED 2026-07-29**
 - Priority: MEDIUM-HIGH. Same class of bug as Neutral Channel, found while
   locking EA canon.
 - `appendices/APPENDIX_C_KEY_TERMS.md` defines **The Face** as "one of six
@@ -309,7 +347,13 @@ Status:
   Regent, Architect, Diplomat, Sage.
 - Two different sets of six share the name, and the glossary — the one place a
   confused reader looks — defines it as the other one.
-- Fix: needs Wendell's call on which set keeps "Face". Not yet specced.
+- RESOLVED. Not a judgment call: the correct definition was overwritten by the
+  2026-06-04 trailing-promote pass and the pre-pass backup still carries it.
+  Restored from `APPENDIX_C_KEY_TERMS_backup_2026-06-04_pre-trailing-promote.md`.
+  The displaced text was a **Gate** definition: `APPENDIX_C:36` says each of the
+  eight Gates "has a specific voice", `ON_THE_SHOULDERS_OF:44` lists exactly those
+  voices as the Gates', and the entry's own cross-reference read "See also: Gate,
+  Vulnerable Child". Check: `grep -c "Shaman, Challenger, Regent"` reads 1.
 
 
 **🔴 A1 — Strip the deprecated bracket move tags (28) and settle *Neutral Channel***
