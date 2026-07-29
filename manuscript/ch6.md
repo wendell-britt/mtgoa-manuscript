@@ -155,7 +155,7 @@ It is one habit, applied five times.
 
 At the Architect's altitude, the native material is not emotion — it is *logic.* The raw material comes down to the relationship between cause and effect: the structures that produce outcomes, the leverage points that change systems, the mental models that explain why things are the way they are.
 
-None of this stays in the realm of theory. The Architect uses logic the way the Shaman uses emotion: as a living instrument for reading reality. A system is not working. The Architect asks: why does this system produce this outcome? Where is the smallest push that creates the largest movement?
+This is not abstract theory. The Architect uses logic the way the Shaman uses emotion: as a living instrument for reading reality. A system is not working. The Architect asks: why does this system produce this outcome? Where is the smallest push that creates the largest movement?
 
 The Architect's practice has five stages:
 
@@ -171,7 +171,7 @@ The Architect's practice has five stages:
 
 This stage turns the other four from a loop into a practice. Observe, Model, Design, Deploy will iterate forever — each deployment producing new observations, each set of observations justifying another cycle — and no point inside that loop finds the Architect finished, because the loop has no exit built into it. An Architect can spend a decade there and produce a measurably better system every year, and the system will still stop working the month they leave, because nobody ever designed it to run without them. Hand Off turns the practice away from the system and toward the next person: what they need to know that you assume they know, what has to go on paper, what has to get simpler so that it survives contact with someone who was not in the meetings. Operating it is the low bar. The test is whether they can *change* it — whether you handed over a machine or a machine plus the reasoning that would let them redesign it when the conditions move.
 
-Hand Off also carries the highest desertion rate, and workload has nothing to do with it. The four-stage loop is where the Architect looks most valuable and most visible, and stepping out of it costs exactly that. Every argument for staying one more cycle is a good argument. That fact makes it a stage rather than an afterthought.
+Hand Off also carries the highest desertion rate, and workload has nothing to do with it. The four-stage loop is where the Architect is most valuable and most visible, and stepping out of it costs exactly that. Every argument for staying one more cycle is a good argument. That fact makes it a stage rather than an afterthought.
 
 ---
 
@@ -193,7 +193,7 @@ The **Mapmaker** runs on Metal. Fear is the channel that detects what could go w
 
 The **Engineer** runs on Earth. Neutrality detects coherence — whether the parts add up to a whole — and stuck Neutrality is flatness, the shrug you give a system you have stopped believing will ever hold together. Working, the same channel produces the settledness of a structure that does not need you watching it. *I can rest.* You measure the Engineer's finished work by how little attention it requires afterward.
 
-The **Strategist** runs on Fire. Anger detects the gap between what is and what should be, and anger with nowhere to put it names the most common condition in this book's readership: accurate, chronic, and expensive. Aimed at a leverage point, it converts to Triumph. *I can act.* The Strategist is the mode that turns being right into something that happened.
+The **Strategist** runs on Fire. Anger detects the gap between what is and what should be, and anger with nowhere to put it is the most common condition in this book's readership: accurate, chronic, and expensive. Aimed at a leverage point, it converts to Triumph. *I can act.* The Strategist is the mode that turns being right into something that happened.
 
 The **Inventor** runs on Wood. Joy detects vitality — what wants to exist and doesn't yet — and Joy stuck is the idea you keep having and never build, which curdles a little more each time it comes around. Built into a structure that can hold it, it becomes Bliss. *I can participate.* The thing you were only imagining now exists somewhere other than in you.
 
@@ -203,7 +203,7 @@ The five modes are also the five ways the Architect moves through the WAVE-Spira
 
 The Architect's flow cycle: Observe → Model → Design → Deploy → Observe (new state), and out through Hand Off. Each deployment produces new observations, which produce new models, which produce new designs; the iteration is genuine and it is not the point. The Architect is finished when somebody else can run it and change it. Everything before that is the work of getting to a system worth handing over.
 
-In practice: a team comes to the Architect because their planning process keeps producing plans nobody follows. The Architect observes: watches the meetings, reads the outputs, traces what happens to plans after they're made. The Architect models: the plans fail because they're disconnected from the people who have to execute them; authority exists without accountability. The Architect designs: a new format where the people who execute the plan also design it, where each element has a named owner and a check-in date. The Architect deploys: runs the first cycle, observes what breaks, adjusts. Then the Architect hands off — names who owns the format, writes down why each element is there rather than only what it is, and stops attending. Which gives the only version of this that outlives the Architect's interest in it.
+In practice: a team comes to the Architect because their planning process keeps producing plans nobody follows. The Architect observes: watches the meetings, reads the outputs, traces what happens to plans after they're made. The Architect models: the plans fail because they're disconnected from the people who have to execute them; authority exists without accountability. The Architect designs: a new format where the people who execute the plan also design it, where each element has a named owner and a check-in date. The Architect deploys: runs the first cycle, observes what breaks, adjusts. Then the Architect hands off — names who owns the format, writes down why each element is there rather than only what it is, and stops attending. Which is the only version of this that outlives the Architect's interest in it.
 
 That is the Architect's practice. Logic as a living instrument. Structure as generosity. The map that makes you unnecessary.
 
