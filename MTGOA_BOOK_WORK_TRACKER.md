@@ -324,9 +324,14 @@ Status:
   states, the three operating ranges, charge-first, and all nine of ch7's
   Translate keyings. The drift is in the operation vocabulary only.
 - Steps: E1 settle names (retire `Transcend` x4, `neutralize` x3, `Control` as an
-  operation x15). **E2 BLOCKING — Wendell:** do ch7/ch8's `Control` moves become
-  `Translate` (into Earth/structure) or lose the operation label entirely? Canon
-  does not name them. E3 rewrite ch7:175, the book's own definition, which names
+  operation x15). **E2 — SIX-FACE PANEL REPORTED 2026-07-29**,
+  `specs/PANEL_E2_CONTROL_MOVES_2026-07-29.md`. 5-1 these are a third category,
+  not an alchemy operation. `Control` dead 6-0, because canon's own closing line
+  reads "Many self-help systems teach emotional control. Emotional Alchemy teaches
+  emotional cooperation." Name split 2-2-1-1, so evidence decides: **Discipline**
+  recommended — covers all 12 where Check covers 8, already shipped at ch7:286,
+  and keeps the cost connotation both chapters already carry. **Awaiting Wendell:**
+  ratify `Discipline`, or take the Regent's fallback `Practice`. E3 rewrite ch7:175, the book's own definition, which names
   the three ranges as if they were operations. E4 put the two axes in ch3 via the
   figure. E5 carry the Core Function column into ch3's table. **E6 Wendell:** does
   the cooperative Emotional Process sequence (Stimulus -> ... -> Controller ->
