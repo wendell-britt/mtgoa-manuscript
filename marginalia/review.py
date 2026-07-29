@@ -173,7 +173,23 @@ def treatise_half(text):
 
 # ---------------------------------------------------------------- rules
 
+# Denying negation, general form: a negated predicate followed by the same
+# subject restated positively. The two narrow patterns below key on the literal
+# strings "it's not" and "isn't the", which is why "The test is not X. The test
+# is Y" — the same shape in different words — went undetected through 2026-07-29,
+# including in ch7's five live stopping conditions and in the form three source
+# specs prescribed for reuse. Excludes "not just/only/merely", which is ranking
+# negation and licensed by RULE_COLLISIONS.
+_SUBJ = (r"(?:It|That|There|This|The\s+[\w'’]+(?:\s+[\w'’]+){0,3}"
+         r"|[A-Z][\w'’]+(?:\s+[\w'’]+){0,3})")
+DENYING_GENERAL = (
+    rf"\b{_SUBJ}\s*(?:'s|’s|\s+is|\s+are|\s+was|\s+were|n'?t)\s+not\s+"
+    rf"(?!just\b|only\b|merely\b|even\b|always\b)"
+    rf"[^.;!?]{{3,80}}[.;!?]\s+"
+    rf"(?:It'?s|That'?s|The\s+[\w'’ ]{{2,28}}\s+is|It\s+is|That\s+is)\b")
+
 AI_SHAPES = [
+    (DENYING_GENERAL, "denying negation (X is not A. X is B)"),
     (r"(?i)\bit'?s not\s+[^.;]{3,40}[.;]\s*(it'?s|that'?s)\b", "denying negation (It's not X. It's Y)"),
     (r"(?i)\bnot\s+(just|only|merely)\s+[^,;.]{3,50},\s*but\b", "not-just-but construction"),
     (r"(?i),\s*which is (?:the|a|what|why|how)\b", "appositive 'which is' tail"),

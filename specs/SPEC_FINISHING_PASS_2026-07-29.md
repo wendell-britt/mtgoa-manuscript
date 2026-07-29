@@ -278,6 +278,35 @@ Y,"* which is the formula this item retires. Redo it here.
 Scope: five sentences, one per chapter. Each runs the §2b loop with the Head
 named (Voss, Ash, Quill, Vale, Cross), then gate + review.
 
+### W7 — The denying-negation shape, properly measured *(opened 2026-07-29)*
+
+**The rule was written down and nothing enforced it.** Every detector keyed on
+the literal strings `it's not` and `isn't the`. The identical shape in other
+words — *"The test is not whether they stopped. The test is whether…"* — matched
+nothing. `review.py` now carries `DENYING_GENERAL`, which tests the shape:
+a negated predicate followed by the same subject restated positively,
+excluding *not just/only/merely*, which is ranking and licensed.
+
+**Book-wide count went 2 → 107.** Per chapter: ch1 2 · ch2 4 · ch3 16 · ch4 9 ·
+ch5 14 · ch6 12 · ch7 15 · ch8 17 · ch9 18. The margin is clean at 0.
+
+Two consequences that are not bookkeeping:
+
+- **Ch7's five live stopping conditions are built on the banned shape**, and so
+  is the form `EXERCISE_AUDIT`, `GAME_LOOP_GAP_ANALYSIS`, and the handoff all
+  prescribe for reuse: *"the test is not [outcome you cannot control], the test
+  is [the thing you did]."* The specs prescribe what the house rule bans. W2's
+  first draft inherited it unexamined; the replacement form states the act and
+  defers the outcome positively.
+- **107 is a candidate count, not a defect count.** Every one needs the
+  RULE_COLLISIONS test applied. Some will be ranking that the *not just* guard
+  missed. This is now the largest single item in the plan and cannot be cleared
+  before August 1 — **triage by chapter, treat the treatise halves first**,
+  since a Head arguing by negation reads worse than Wendell doing it.
+
+Sequencing: W7 supersedes the denying-negation portion of W1, which reported 7
+because the detector could only see 7.
+
 ### W5 — Tail passes *(WARN-level, time-permitting)*
 
 50 `which is` appositive tails (a real tic; worth a sweep) · 25
