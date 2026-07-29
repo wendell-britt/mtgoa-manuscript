@@ -34,7 +34,7 @@ Everything else in the package was already integrated on 2026-07-29
 
 ## 2 · The tool contract
 
-Four tools, one loop. They are complementary, not alternatives.
+Four tools plus one editorial agent (§2b), one loop. They are complementary, not alternatives.
 
 | Tool | Kind | Zero required? |
 |---|---|---|
@@ -57,6 +57,59 @@ python3 marginalia/review.py --anchors               # 4. anchors still unique
 
 Body-prose edits go through `instruments/spec_edit.py` as always, then the same
 gate + review steps.
+
+### 2b · The editorial agent: `/no-ai-slop`
+
+`.claude/skills/no-ai-slop/` (vendored 2026-07-29) is the fourth kind of tool:
+the detectors above are batch regex; this is judgment applied to one draft at a
+time. It has two modes and each has exactly one job in this plan:
+
+- **Edit mode is the rewrite protocol for W1–W3.** Any new or rewritten prose —
+  a stopping condition, a fixed negation, a genre-marker sentence — goes
+  through an edit pass *before* the mechanical gates. Its workflow step 2
+  (identify 3–5 voice signals to preserve) must be answered explicitly with
+  *whose* voice: Wendell's Part-2 register, the named Head (use that Head's
+  SEVEN_VOICES flavor markers as the signals), or the unsigned margin. Never
+  run it on a treatise without naming the Head.
+- **Detect mode is the adjudication protocol for W4–W5.** Paste the paragraph
+  around each `review.py` candidate; the output is named patterns with quoted
+  lines and short fixes, no rewrite. A human rules on each. This is the "review
+  agent" the handoff's adjudication doctrine calls for.
+
+**Precedence, where the skill and house doctrine disagree.** Canon and the
+marginalia rules govern; the skill yields on exactly three points:
+
+1. *Binary contrasts / negative listing*: the skill cuts them all.
+   RULE_COLLISIONS is finer — ranking negation licensed, denying banned — and
+   RULE_COLLISIONS governs. Use the skill to find candidates, the
+   still-true-when-the-sentence-ends test to rule.
+2. *Fragments and rhythm*: the skill's dramatic-fragmentation and
+   robotic-rhythm rules do not apply inside Sections 1–3 where SEVEN_VOICES
+   *requires* the pattern (Corin's staccato variance, Maera's unconcluded
+   entries). They apply fully to Wendell's Part-2 register.
+3. *Em dashes*: house style uses spaced em dashes freely; the canon gate bans
+   only unspaced joins. The skill's 1–2-per-draft budget is advisory here, not
+   binding.
+
+Everything else in the skill — minimum effective edit, voice preservation,
+concrete-over-abstract, and its patterns the house rules don't cover
+(faux-insight setups, colon reveals, weasel attribution, synonym cycling,
+importance puffery, summary-recap endings) — applies as written, to both
+surfaces.
+
+**Measured against canon, 2026-07-29.** The skill's banned-word and
+empty-phrase lists were scanned over both surfaces. Margin: fully clean. Body:
+27 word hits, of which **22 are `leverage point(s)` — Donella-Meadows-register
+term of art central to the Architect chapter, licensed, do not re-flag** — and
+3 are *facilitator/facilitated* as the real noun, also licensed. Four true
+candidates, added to W5:
+
+| Site | Pattern | Sketch of fix |
+|---|---|---|
+| ch8:443 | faux-insight setup | *"Here's the thing nobody says about panoramic vision: it is lonely."* → *"Panoramic vision is lonely."* |
+| ch9:408 | faux-insight setup | *"Here's the thing the culture doesn't tell you:"* → cut the setup, keep the claim |
+| ch2:313 | empty opener | *"At its core, it's the body's…"* → *"It is the body's…"* |
+| ch7:296 | empty phrase | *"in terms of sheer presence"* — adjudicate; may be spoken register |
 
 ## 3 · Measured baseline, 2026-07-29
 
