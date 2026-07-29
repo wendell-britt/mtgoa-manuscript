@@ -78,7 +78,7 @@ You have been the Diplomat. You know how to hold the field across difference, ma
 
 You have been the Sage. You know how to see which game you're in, switch deliberately, and come back without condescension.
 
-That's a design system. Every line of it is something you have already been. That is what makes it usable.
+That's a design system. Every line of that list is something you have already been. That is what makes it usable.
 
 The six Faces are your toolkit. The WAVE is your process. The altar — the practice of returning — is your anchor. Now you get to design your specific practice: the combination of all six that is uniquely yours, grounded in your specific survival, your specific superpowers, your specific village.
 
@@ -385,7 +385,7 @@ Not everyone finishes this book knowing exactly what they're building. Some of y
 
 I want to name that directly, because the book would be doing you a disservice if it pretended everyone leaves Chapter 9 with a fully-formed game.
 
-You might be a Cartographer who hasn't become a Founder yet. That's the stage you're in, and it feels like failure from inside it. The Cartographer's job is to keep mapping until the terrain reveals what needs to be built. You don't force the Founder move before it's ready. You keep the inventory honest. You keep noticing what gap keeps showing up. When the problem becomes specific enough — when you've mapped it enough times that you can name it in a sentence — the Founder move will become obvious.
+You might be a Cartographer who hasn't become a Founder yet. That's the stage you're in, and from inside it feels like failure. The Cartographer's job is to keep mapping until the terrain reveals what needs to be built. You don't force the Founder move before it's ready. You keep the inventory honest. You keep noticing what gap keeps showing up. When the problem becomes specific enough — when you've mapped it enough times that you can name it in a sentence — the Founder move will become obvious.
 
 You might also be someone who has a practice that isn't named yet. Something you already do, some way you already show up, some specific thing you already do with your family or your team or your community that is actually your game. The naming might be what's missing, not the game itself.
 
@@ -403,7 +403,7 @@ Some of you are resisting the word.
 
 I hear that. Let me name what's actually happening with that resistance.
 
-Founder is not a personality type. Founder is a mode. The mode activates the moment you decide to create something that didn't exist before you — whether it's a conversation, a practice, a tradition in your family, a way of showing up at work that nobody had named before. The Founder is the moment you stop consuming and start creating. An organization is one thing that can come out of that, and usually doesn't.
+Founder is not a personality type. Founder is a mode. The mode activates the moment you decide to create something that didn't exist before you — whether it's a conversation, a practice, a tradition in your family, a way of showing up at work that nobody had named before. The Founder is the moment you stop consuming and start creating. Sometimes an organization comes out of that. Usually nothing does.
 
 Here's the thing the culture doesn't tell you: the Founder move is probably already somewhere in your history. A tradition in a family that wasn't there until somebody started it. A conversation held differently than the generation before would have held it. A pattern broken with a child, a sibling, a friend. A community that exists because one person kept inviting people until it did. Look for the one that's yours.
 

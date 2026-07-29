@@ -122,18 +122,28 @@ wants to sound like a finished sentence without committing to one. They are
 nearly invisible line by line and obvious in aggregate, which is the only reason
 they were caught: the W7 rewrites put ~1,300 words of new prose side by side.
 
-**Measured, against the book's own baseline:**
+**Measured, against the book's own baseline.** The first measurement of this was
+wrong and the correction matters. Scoring whole replacement strings counted
+Wendell's surviving prose as generated — the W7 edits cut a negated clause and
+kept the definition after it, so more than half of every "new" string was his.
+Isolating only the 664 words actually added, of 1,381:
 
-| | book | the W7 rewrites | |
+| | book | whole strings *(wrong)* | words actually added |
 |---|---|---|---|
-| be-verbs /1k | 50.3 | 84.9 | **+69%** |
-| copula as main verb | 29.1% | 53.8% | **+85%** |
-| *it* /1k | 30.0 | 41.3 | **+38%** |
-| article + nominalization /1k | 16.5 | 28.3 | **+71%** |
+| be-verbs /1k | 50.3 | 84.9 | **55.7 — +11%** |
+| copula as main verb | 29.1% | 53.8% | **21.2% — −27%** |
+| waste words /1k | 56.3 | 78.3 | **84.3 — +50%** |
+| article + nominalization /1k | 11.1 | 20.7 | **12.0 — +9%** |
 
-The finding stands. Generated replacement prose leans on all three markedly
-harder than the prose it was inserted into, and it does so *while passing every
-other gate in this repo*.
+**One of the three drifts is real in generated prose, and it is the pronoun.**
+Copula came in *lighter* than the book, and nominalization was flat. The *it /
+this / that / there* excess is genuine and large, and the mix shows where:
+**62% of the waste words added were "it", against 53% in the book.**
+
+The other two remain live problems **in the manuscript**, just not ones the
+rewrites introduced: the book runs 50.3 be-verbs per thousand, 29.1% of
+sentences on a copula main verb, and `the thing` 132 times. Wendell's eye caught
+all three; only the attribution was mine and mistaken.
 
 **1 · "is" — unless you are defining a term.** A be-verb is where the action went
 missing. Lanham's Paramedic Method: box every be-verb, circle the prepositions,
