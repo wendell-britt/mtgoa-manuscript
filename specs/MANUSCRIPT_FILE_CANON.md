@@ -72,7 +72,8 @@ See `marginalia/README.md` and `marginalia/HANDOFF.md`.
 - `specs/MTGOA_INSTRUMENTS_TOOLKIT.md` — documents the reviewer gate and what each instrument measures.
 - `visuals/` — the built HTML visuals, self-contained with no external assets: `chapter_engine`, `ch2_seven_daemons`, `ch3_process_shape`, `structural_delivery`, `register_remediation`, `structure_comparison`, `voice_comparison`.
 - The open specs: `specs/SPEC_FINISHING_PASS_2026-07-29.md` — **the active work
-  plan for the August 1 delivery** — plus `specs/SPEC_STRUCTURAL_DELIVERY.md`,
+  plan for the August 1 delivery** — and `specs/SPEC_REGISTER_2026-07-29.md`,
+  the book-wide copula problem, which carries a ruling only Wendell can make — plus `specs/SPEC_STRUCTURAL_DELIVERY.md`,
   `specs/SPEC_REGISTER_REMEDIATION.md`, `specs/SPEC_REPETITION_AND_CUTS.md`.
   Each ends in a rulings section that is still awaiting Wendell.
 - `marginalia/review.py` — the candidate-finding voice linter (AI shapes,
