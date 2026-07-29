@@ -320,9 +320,30 @@ carrying a distinction worth preserving — ch5's three-way *conservatism /
 rigidity / always done it*, ch7's *niceness / conflict-avoidance / absence of
 judgment*, both rewritten as positive lists of what the thing is mistaken for.
 
-**Remaining: 78, all in Wendell's register or front matter.** At batch 1's rate
-that is three to four more passes, which fits before August 1. Order by chapter,
-largest first.
+**Remaining: 82, all in Wendell's register or front matter.** Order by chapter,
+largest first: ch9 16 · ch3 14 · ch8 14 · ch5 10 · ch6 10 · ch7 8 · ch2 3 · ch1 2.
+
+**The method is now fixed and lives in `MANUSCRIPT_FILE_CANON.md`** under
+*Fixing a denying negation — the four moves, in one pass*: cut, essence,
+synthesize, voice. Batch 1 took four passes to arrive at it (cut → essence →
+synthesize → voice, each correcting the last). Later batches run it as one, so
+the rate estimate above holds even with the extra moves.
+
+Two things the four-move sequence proved, worth keeping:
+
+- **Move 3 is the one that matters.** A positive two-clause contrast still
+  stages an opposition. Chapter 3's polarity doctrine — *one action containing
+  both* — is the test, and most of these sites sit on a named pair.
+- **Move 4 pays twice.** Voicing the synthesis lines to each Head cleared ch8's
+  genre-absent BLOCK and raised markers in ch5 and ch6, so W7 and W3 are the
+  same edit on these paragraphs. Voice BLOCK 3 → 1; only ch4's hedge particles
+  remain.
+
+**`/no-ai-slop` must actually be invoked.** Batch 1, the essence pass and the
+synthesis pass were all checked with a hand-rolled regex panel standing in for
+the skill, which is the same substitution that let the original 25 tests through
+in the banned shape. The skill's robotic-rhythm rule is what caught the copula
+formula; no pattern in `review.py` or `gate.py` can see it.
 
 Sequencing: W7 supersedes the denying-negation portion of W1, which reported 7
 because the detector could only see 7.

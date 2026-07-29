@@ -135,9 +135,9 @@ A polarity is not a problem to solve. It has two poles, and both of them are rig
 
 The Diplomat's pair: care for the relationship versus impact on the situation.
 
-**Care** means protecting the connection itself — the trust, the willingness of people to stay in contact with each other, the conditions under which anyone can say anything difficult at all. Care is the maintenance of the only medium through which anything relational travels. Care is sentiment that shows up to do maintenance. A field with no care in it cannot be told anything.
+**Care** means protecting the connection itself — the trust, the willingness of people to stay in contact with each other, the conditions under which anyone can say anything difficult at all. Care is the maintenance of the only medium through which anything relational travels. Sentiment protects how the connection feels; care protects whether it still works. A field with no care in it cannot be told anything.
 
-**Impact** means the actual change in the world outside the relationship — what moves, what stops, who is materially better off after the conversation than before it. Impact is the willingness for a relationship to be spent on something, rather than preserved as an end in itself. Impact is brutality that knows what it is buying.
+**Impact** means the actual change in the world outside the relationship — what moves, what stops, who is materially better off after the conversation than before it. Impact is the willingness for a relationship to be spent on something, rather than preserved as an end in itself. Brutality spends the relationship without pricing it. Impact names the price first and spends it anyway.
 
 Both poles have a failure state, and the failure states do not look alike. Care without impact is attendance: warm, dependable, and doing nothing. Everyone likes you. Nothing changes. Impact without care is the Challenger's altitude imported into a conversation that needed this one — the true thing said in a way that ends the possibility of saying the next true thing.
 

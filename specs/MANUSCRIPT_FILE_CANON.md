@@ -115,6 +115,42 @@ Front matter, table of contents, and back matter are also unwritten.
 
 Banned words: *room*, *quiet*, *quietly*, *genuinely*. (*Genuine* is not banned.) No sentence opens with *And* or *But*. The "Not X. Not Y." negation stack is banned. "Make room" becomes "make space." Never narrate the reader's unnamed history back to her as fact.
 
+### Fixing a denying negation — the four moves, in one pass
+
+Established 2026-07-29 by doing it wrong three times in a row. A denying
+negation is never fixed by deletion alone. Run all four before showing anything:
+
+1. **Cut.** Remove the negated clause, keep the positive. Correct against the
+   rule and insufficient on its own — *"That is not anger. That is will."*
+   becomes *"That is will,"* which floats with nothing to push against. The
+   negation was carrying a beat and a distinction; both leave with it.
+2. **Essence.** Name what the negation was protecting the term against. Every
+   one of them is guarding against a specific caricature — sentiment for care,
+   aggression for force, cowardice for restraint. Say that thing.
+3. **Synthesize.** Collapse it into **one sentence holding the axis**, not two
+   staging it. *"Aggression spends someone else. Force spends you"* is still an
+   opposition in positive clothing; the reader hears the negation the syntax is
+   avoiding. Chapter 3 already rules on this: *two legitimate poles, your
+   position on the axis, one action containing both.* Most of these sites sit
+   on a named pair — Feeling ↔ Function, Force ↔ Restraint, Care ↔ Impact,
+   honor ↔ reform — so hold the axis.
+4. **Voice.** Shape the result to whoever is speaking. Twelve synthesis
+   sentences in a row produced their own formula: nine opened *[NOUN] is
+   [NOUN-phrase]*, and the two polarity pairs got near-identical syntax in the
+   same chapter. Give it the Head's genre from `marginalia/specs/SEVEN_VOICES.md`
+   — Ash takes an imperative and a cost, Quill a periodic clause citing prior
+   keepers, Vale *in practice* and a tolerance, Cross both protections named,
+   Orr a courteous disagreement with another school.
+
+**Move 4 pays for itself.** Voicing these lines cleared ch8's genre-absent BLOCK
+and supplied markers `--mode voice` had been demanding, so the negation fix and
+the W3 genre pass are the same edit. Do not run them as separate passes.
+
+**Run `/no-ai-slop` on the result, not a regex approximation of it.** Its
+robotic-rhythm and fake-profound-kicker rules catch what the linters cannot:
+repeated sentence shapes, and a clarifier that has turned into an appended
+aphorism. Both appeared in this work and neither is detectable by pattern.
+
 Do not attribute generated prose to Wendell as his established voice. Do not invent a frame and present it as a finding. When a voice rule is violated, write around it — do not argue for an exemption and do not build a taxonomy of acceptable variants.
 
 **The gate applies to the marginalia as well as the body text** (ruled 2026-07-29).

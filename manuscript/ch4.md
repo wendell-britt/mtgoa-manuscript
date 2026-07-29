@@ -139,9 +139,9 @@ The village without the Challenger cannot do this. The village can feel the viol
 
 Compassion is not the same as clarity. Clarity, in the domain of allyship, is sometimes the more loving act.
 
-The Challenger's gift is the willingness to *mean it.* Fighting is what meaning it looks like from outside. To draw a line and hold it. To say no and mean no. To be unwelcome in service of what is actually true.
+The Challenger's gift is the willingness to *mean it.* From outside it will look like fighting. Ignore that. To draw a line and hold it. To say no and mean no. To be unwelcome in service of what is actually true.
 
-Will is what anger becomes when you keep it past the heat.
+Keep the anger past the heat. What is left is will.
 
 The village, without the Challenger, has forgotten the difference.
 
@@ -165,9 +165,9 @@ A polarity is not a problem to solve. It has two poles, and both of them are rig
 
 The Challenger's pair: the force it takes to move something versus the restraint it takes to leave it alone.
 
-**Force** means spending yourself on a crossing — saying the thing, drawing the line, making the demand, accepting the cost of being the one who did. Force is the willingness for a moment to be more expensive because you were in it. Force is what aggression becomes when you agree to be the one who pays for it.
+**Force** means spending yourself on a crossing — saying the thing, drawing the line, making the demand, accepting the cost of being the one who did. Force is the willingness for a moment to be more expensive because you were in it. Agree to be the one who pays for the crossing and the aggression becomes force.
 
-**Restraint** means declining to spend. Not this one, not yet, not from me. Restraint is what keeps a no worth something; a person who draws a line at everything has not drawn one, because the line stops being information about the world and turns into weather. Restraint is the same silence as cowardice, chosen.
+**Restraint** means declining to spend. Not this one, not yet, not from me. Restraint is what keeps a no worth something; a person who draws a line at everything has not drawn one, because the line stops being information about the world and turns into weather. You will look like a coward. The difference is that you could have spoken.
 
 Both poles have a failure state, and the failure states are not symmetrical. Force without restraint is a hazard — every charge becomes a line, every line becomes a confrontation, and the people around you begin managing you instead of working with you. Restraint without force is furniture: present at every table, costing no one anything, changing nothing that was going to happen anyway.
 
