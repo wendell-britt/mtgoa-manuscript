@@ -116,10 +116,22 @@ terms defined by each other with no gloss on any.
 | `CONTROL` as a named move type | **0** |
 | `DISSATISFACTION → SATISFACTION` as a labelled pair | **0** |
 | `Transcend` | **0** — the word is not in the book |
-| `Neutral Channel` | **0 definitions, 11 uses**, all in ch7 |
+| `Neutral Channel` | ~~0 definitions, 11 uses~~ — **wrong, see below** |
 
-*Neutral Channel* is the sharpest one. Eleven appearances, one chapter, never
-introduced. `LEARNING_METABOLISM_CH6_2026-04-20.md` §14 records that the term
+**CORRECTED 2026-07-29 by the six-face panel.** The line above was wrong on both
+numbers. There are **15 uses**, not 11, and there **is** a definition — ch7:175,
+which all six panelists found independently:
+
+> *"**Neutral channel moves** redirect a negative pattern into a neutral
+> structure… If these terms are unfamiliar, Chapter 3 (The Shaman) has the full
+> system."*
+
+ch3 contains zero instances of that taxonomy. So the term is defined, in the
+wrong place, wrongly, with a dead cross-reference — which is worse than
+undefined and is what killed option B. Full record in
+`specs/PANEL_NEUTRAL_CHANNEL_2026-07-29.md`.
+
+The original note continues, and its reasoning still holds: `LEARNING_METABOLISM_CH6_2026-04-20.md` §14 records that the term
 confused the **writing process** — *"Confusion between structural patterns and
 emotional categories leads to mislabeling moves"* — and the fix was to clarify it
 for the author. Nobody then asked whether the reader had ever been told.
@@ -205,6 +217,23 @@ to Earth/Neutrality, or to the structural Control move type?
 
 Either way the term stays, per the ruling. What the answer changes is whether
 this is a one-sentence gloss in ch7 or a relabelling of eleven headers.
+
+**ANSWERED 2026-07-29 — see `specs/PANEL_NEUTRAL_CHANNEL_2026-07-29.md`.** Six
+faces ruled. **6–0 that ch7 must change; nobody accepted option B.** 5–1 that the
+name belongs to Earth/Neutrality, the Architect dissenting on where the fix goes
+rather than on the label.
+
+The conflict dissolved rather than being decided, because the Challenger found the
+etymology. `EMOTIONAL_ALCHEMY_TRANSLATOR.md:27` defines **Altitude States (per
+channel): Dissatisfied / Neutral / Satisfied** — so *Neutral* is a state living
+inside every channel, never a channel. ch7:175's three move types are named after
+those three states in order, and the parenthetical *(per channel)* got absorbed
+into the middle one. A transcription slip, not a doctrinal choice.
+
+Which makes both rulings true. Wendell is right that *neutral* is real emotional
+alchemy vocabulary and Earth/Neutrality is a channel. April's §14 is right that
+the move type is structural and carries no emotion. **Removing *Channel* from
+ch7's Control headers ratifies the July ruling rather than reversing it.**
 
 **D5 — the deprecated-mechanic sweep this implies.** WB-8 was one artifact sweep
 that was verified in the wrong tree. Nothing has re-run it against `manuscript/`.

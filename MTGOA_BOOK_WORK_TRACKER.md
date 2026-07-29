@@ -284,7 +284,12 @@ Status:
 - Reader impact: none of the terms in the tag is ever defined in the manuscript.
   Jordan's logged number-one drop-off trigger is jargon without translation.
 - Steps, in order:
-  1. **BLOCKING — Wendell's call.** Does the name *Neutral Channel* belong to
+  1. **ANSWERED 2026-07-29 by six-face panel** — `specs/PANEL_NEUTRAL_CHANNEL_2026-07-29.md`.
+     6-0 that ch7 must change; 5-1 that the name belongs to Earth/Neutrality.
+     Awaiting Wendell's ratification (Q1), plus two independent scope calls: does
+     the move taxonomy go into ch3 (Q2, the Architect's dissent), and does ch7's
+     `Channel 1-5` become `Mode 1-5` (Q3, the Sage's addition). Original question,
+     kept for the record: **Wendell's call.** Does the name *Neutral Channel* belong to
      Earth/Neutrality (the emotional channel taught in ch3) or to the structural
      Control move type (ch7's 11 uses)? The April ruling in
      `LEARNING_METABOLISM_CH6` §14 says *"NOT an emotion type."* The July ruling
