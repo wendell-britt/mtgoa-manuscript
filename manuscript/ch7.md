@@ -210,7 +210,7 @@ The anxiety becomes the fuel for engagement rather than the signal to withdraw. 
 
 The Bridge-Builder's secondary Translate addresses the Diplomat's specific vulnerability to rejection. When the pattern of past exclusion fires (they won't want me here, I'm outside the circle), the Translate moves the charge toward generous assumption: *What if they actually want me here? What if the field is more open than my pattern expects?*
 
-This is a discipline of extending the same hypothesis to the present that you extend to strangers on the street. The rejection-sensitivity is the raw material; the Translate converts it into the willingness to risk contact.
+Calling this optimism mistakes a discipline for a mood: you extend the same hypothesis to the present that you extend to strangers on the street. The rejection-sensitivity is the raw material; the Translate converts it into the willingness to risk contact.
 
 **[CONTROL] Control 1 — Untracked Depletion Pattern**
 
@@ -377,7 +377,7 @@ Here is what it looks like when it is distorted: two different failures wearing 
 
 The first distortion is **endless process** — the Diplomat who has confused hearing with closing. Who believes that if everyone feels included, the work is done. Who will run another round of listening because naming what must change feels like picking a fight. The field stays warm. Nothing moves. Resentment accumulates under the harmony like sediment.
 
-The second distortion is **ultimatum dressed as negotiation** — leverage where integration was needed. *Here's what I need or I'm out* spoken in the tone of honest disclosure, but actually functioning as a threat. This is the Challenger's game wearing the Diplomat's clothes. The Diplomat who defaults here has skipped the native work — surfacing interests, finding terms — and imported the Challenger's altitude into the Diplomat's conversation. It sometimes works. It is not what this channel is for.
+The second distortion is **ultimatum dressed as negotiation** — leverage where integration was needed. *Here's what I need or I'm out* spoken in the tone of honest disclosure, but actually functioning as a threat. This passes for the Integrative Negotiator and plays the Challenger's game in the Diplomat's clothes. The Diplomat who defaults here has skipped the native work — surfacing interests, finding terms — and imported the Challenger's altitude into the Diplomat's conversation. It sometimes works. It is not what this channel is for.
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 1 — Resentful Peace → Honest Terms**
 
@@ -419,7 +419,7 @@ Discernment at the close asks more than comfortable vagueness. It is worth it wh
 
 *When negotiation fails — when someone refuses to name stakes, when harmony is cover for harm, when the field cannot hold truth — the Challenger's clean no is the next move. That is Chapter 4's game. Negotiate first. Line when the field cannot hold truth.*
 
-*What the Integrative Negotiator is for is the capacity to close — to surface what everyone is protecting, name what the agreement must hold, and let the field move. Not harmony instead of truth. Harmony that includes truth. The field that has been truly negotiated is more real at the close.*
+*What the Integrative Negotiator is for is the capacity to close — to surface what everyone is protecting, name what the agreement must hold, and let the field move. Not harmony instead of truth. Harmony that includes truth. A truly negotiated field closes harder, and what it closes on holds.*
 
 ---
 
@@ -490,11 +490,11 @@ You know what your Victim is for now. That is what you take out.
 ## Section 6: The Game
 ### *What Winning Looks Like at the Diplomat's Altitude*
 
-*You cannot close with terms you haven't named to yourself. You cannot repair a rupture you haven't sat in. You cannot refuse false equivalence from a position of real hearing if you've been performing hearing. The inner work is what makes the game real.*
+*You cannot close with terms you haven't named to yourself. You cannot repair a rupture you haven't sat in. You cannot refuse false equivalence from a position of real hearing if you've been performing hearing. The inner work happens inside the game and makes it real.*
 
 The Diplomat wins by being the one at the table who knows what they're willing to lose.
 
-The Diplomat's game is about creating the conditions where connection remains possible, even when the field is charged, even when the camps are dug in, even when the instinct of everyone present is to harden. The moves in this section are the specific, repeatable acts that make you a Diplomat in practice — the ones that show up whether you're mediating a conflict between two people or holding a conversation that has been circling for years.
+The Diplomat plays for the conditions where connection survives the disagreement, even when the field is charged, even when the camps are dug in, even when the instinct of everyone present is to harden. The moves in this section are the specific, repeatable acts that make you a Diplomat in practice — the ones that show up whether you're mediating a conflict between two people or holding a conversation that has been circling for years.
 
 ---
 
@@ -508,7 +508,7 @@ Most difficult conversations are not what they appear to be on the surface. Two 
 
 Here's what it sounds like: *"I want to name something I'm noticing. On the surface this is about the budget decision. Underneath, I think it might be about something else — about whether this team sees your concerns as real. I want to check if that's what's actually here."*
 
-Name the Field is an offering — you are saying *here is what I think is happening, and I want to know if I'm right.* The move either lands and the conversation opens, or the other person corrects you and you update. Either way, the field gets clearer.
+Name the Field puts a reading on the table for correction — you are saying *here is what I think is happening, and I want to know if I'm right.* The move either lands and the conversation opens, or the other person corrects you and you update. Either way, the field gets clearer.
 
 **Why it works:** Most conflicts stay stuck because they are playing at the wrong level — arguing about content while the real conflict is relational. Name the Field moves the conversation to the level where the actual problem lives.
 
@@ -556,7 +556,7 @@ The Diplomat translates: *"What I hear [Camp A] saying, in [Camp B]'s language, 
 
 Bridge, translate, hold, repair — and then this. The close. It is the move the whole chapter has been building toward, and the one the Diplomat's altitude skips most reliably, because closing feels like conflict and the field can always make space for one more round.
 
-Close with Honest Terms comes down to one clear sentence naming what this field must hold for your staying to remain real — said once, and then left alone for the field to answer.
+Close with Honest Terms hands the field one clear sentence naming what it must hold for your staying to remain real, said once and then left alone for the field to answer. An ultimatum takes that answer away before it can be given.
 
 Here is what that sounds like: *"I want to say something I don't say often. I can work with almost anything in this partnership except one thing — if we get to a place where I have to choose between being honest with you and being honest with myself, I will choose myself. I need you to know that about me, because it means when I do push back, it's because we're close to losing an agreement that works for both of us, not because I'm running a strategy."*
 

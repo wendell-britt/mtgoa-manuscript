@@ -149,7 +149,7 @@ Here is how it works at the deepest level:
 
 **Every system produces the outcomes it's designed to produce** — the outcomes the incentive structure actually rewards, which are rarely the ones the founders intended or the ones the mission statement describes. If your system keeps producing the wrong result, the system is not broken — the system is working exactly as designed. You just didn't design it. You inherited it. The person who designed it had different goals than you do.
 
-This is an engineering fact. It has profound implications for allyship.
+Incentives do this mechanically, the way a slope sends water one way and not the other. Allyship runs on the same physics.
 
 Because allyship is a problem of system design before it is a problem of individual behavior. Good people do harmful things because the system they're inside rewards harmful behavior and punishes the alternative. Change the system and you change the behavior — not by convincing the person to be better, but by making the better behavior the easier behavior. That's structural design. That's the Architect's practice.
 
@@ -169,7 +169,7 @@ The Architect's pair: the structure that produces the outcome versus the agency 
 
 **Structure** says the design did this. People do what they are incentivized to do, the system is working exactly as built, and if you want different behavior you change the conditions rather than lecturing the person. That case is the spine of this section and it is correct.
 
-**Agency** says the person chose. Somebody with the same incentives, in the same seat, on the same day, does the other thing — and the fact that they can is the whole reason any of this is worth doing. A system that could not be defied would not need allies. Every account of a person who broke ranks at cost is an account of Agency, and there is no incentive map that predicts them.
+**Agency** says the person chose. Somebody with the same incentives, in the same seat, on the same day, does the other thing — and that variance carries the whole reason any of this is worth doing, however much the model wants to average it away. A system that could not be defied would not need allies. Every account of a person who broke ranks at cost is an account of Agency, and there is no incentive map that predicts them.
 
 The failure at each end is easy to picture. Structure without Agency builds a machine that treats people as inputs, gets the throughput it designed for, and cannot understand why nobody inside it will meet its eye. It also produces the most comfortable sentence in this book's neighborhood — *the system did it* — which is true and which no one has ever had to be brave to say. Agency without Structure blames individuals for outcomes the design guarantees, burns through good people looking for better ones, and watches the same failure arrive every eighteen months with a new name attached.
 
@@ -226,7 +226,7 @@ The Architect's practice has five stages:
 
 This is the stage that turns the other four from a loop into a practice. Observe, Model, Design, Deploy will iterate forever — each deployment producing new observations, each set of observations justifying another cycle — and there is no point inside that loop where the Architect is finished, because the loop has no exit built into it. An Architect can spend a decade there and produce a measurably better system every year, and the system will still stop working the month they leave, because it was never designed to be run by anyone else. Hand Off is the stage where the practice stops being about the system and starts being about the next person: what they need to know that you are assuming they know, what has to be written down, what has to get simpler so that it survives contact with someone who was not in the meetings. The test is whether they can *change* it, which is a higher bar than operating it — whether you handed over a machine or a machine plus the reasoning that would let them redesign it when the conditions move.
 
-Hand Off is also the stage with the highest desertion rate, and the reason is that the four-stage loop is where the Architect is most valuable and most visible, and stepping out of it costs exactly that. Every argument for staying one more cycle is a good argument. That is what makes it a stage rather than an afterthought.
+Hand Off is also the stage with the highest desertion rate, and workload gets the blame it has not earned, because the four-stage loop is where the Architect is most valuable and most visible, and stepping out of it costs exactly that. Every argument for staying one more cycle is a good argument. That is what makes it a stage rather than an afterthought.
 
 ---
 
@@ -242,7 +242,7 @@ The five Architect modes are five ways logic moves through a problem. Each one i
 | **Inventor** | Wood/Joy | Joy with no structure to live in → Bliss |
 | **Optimizer** | Water/Sadness | Sadness about what stopped working → Poignance |
 
-Five modes, five channels, no overlap. That is the reason the modes are five rather than three, and it is the whole answer to the question this chapter gets asked most often, which is how a Face whose native material is logic belongs in a book built on emotional alchemy. The logic is what the Architect does with the signal. The signal is what tells the Architect there is anything to do.
+Five modes, five channels, no overlap. That earns the fifth mode its place, and it answers the question this chapter gets asked most often, which is how a Face whose native material is logic belongs in a book built on emotional alchemy. The logic is what the Architect does with the signal. The signal is what tells the Architect there is anything to do.
 
 The **Mapmaker** runs on Metal. Fear is the channel that detects what could go wrong, and dread is that channel stuck — the break you can see coming and cannot name, so you carry it around instead of drawing it. Drawn, the same signal converts: the risk becomes a feature of the terrain rather than a thing waiting behind you. *I can explore.* That is why mapping a failure mode is a relief rather than a burden, and why a team that has named its risks moves faster than a team that hasn't.
 
@@ -283,9 +283,9 @@ You met the Emotional Body at the door of the Forest, fifth in line, one step pa
 
 The Protector decides whether you go in. The Controller decides how you are allowed to behave once you are inside. The Skeptic decides whether what you are reacting to was ever real. The Fixer decides whether the thing in front of you is in good enough condition to be given yourself to. Four parts, four strategies, four different jobs. The Emotional Body is what all four strategies are strategies *about.* Every one of them is managing something that arrived through it first.
 
-Which is why it turns up everywhere, and why it has been turning up in this book since the Forest was first drawn. It is the instrument the roles are arguing with.
+Which is why it turns up everywhere, and why it has been turning up in this book since the Forest was first drawn. The Emotional Body sits under the roles, and every one of them argues with it.
 
-At its best it is the finest sensor you own, and at the Architect's altitude it is not optional equipment — it is the input stage. You already saw this in the five modes. The Mapmaker detects risk on Metal, which is fear. The Optimizer detects what has stopped working on Water, which is sadness. The Strategist detects where the movement is on Fire, which is anger. Take the Emotional Body out of the Architect and you do not get a colder Architect. You get an Architect with no readings — someone modeling a system on the basis of what the system says about itself. The reason you can walk into an organization and know, before you have seen a single number, that something is wrong under the third floor of the org chart, is that the Emotional Body registered it and the rest of you is still catching up. That is the first stage of the practice, running on time.
+At its best it is the finest sensor you own, and at the Architect's altitude it is not optional equipment — it is the input stage. You already saw this in the five modes. The Mapmaker detects risk on Metal, which is fear. The Optimizer detects what has stopped working on Water, which is sadness. The Strategist detects where the movement is on Fire, which is anger. Take the Emotional Body out of the Architect and you do not get a colder Architect. You get an Architect with no readings — someone modeling a system on the basis of what the system says about itself. The reason you can walk into an organization and know, before you have seen a single number, that something is wrong under the third floor of the org chart, is that the Emotional Body registered it and the rest of you is still catching up. Filing that under intuition demotes the first stage of the practice to a knack. It is running on time.
 
 The distortion is not that it feels. The distortion is how fast it hands the feeling off.
 
@@ -415,7 +415,7 @@ In practice: when everyone around the table is discussing solutions, pause and a
 
 **What it is:** You build a system so that someone else can run it without you.
 
-**Why it matters:** Most designers design for themselves. The system works because they are in it, managing it, fixing the edges. It works as long as they are there. The moment they leave, the system degrades. This is maintenance theater.
+**Why it matters:** Most designers design for themselves. The system works because they are in it, managing it, fixing the edges. It works as long as they are there. The moment they leave, the system degrades. Design took the credit; maintenance did the work.
 
 Designing for handoff means: before you ship the design, ask who will run this after me? What do they need to know that I'm assuming they already know? What documentation, training, or structural simplicity would make this handoff clean?
 
@@ -530,7 +530,7 @@ The Architect's contribution to the allyship game is this: before relationship, 
 
 The belief this chapter came to dismantle is that allyship is a matter of fixing the problem. It is the most reasonable-sounding myth in the set, which is why it survives contact with so much good training. A harm occurs, you see it, you address it, the situation improves, and something in you registers the improvement as the work having been done. What the myth does is convert a design question into an intervention queue. The queue never empties, because the structure that produced the first harm is still standing and still producing, and every fix you ship into it is spent restoring a baseline rather than moving one. That is why competent, tireless people find themselves eight years into a practice with a long record of resolved incidents and no changed conditions to point at. The fixing was real. It was also the mechanism by which the system kept working without ever having to be different. What goes in the myth's place is narrower and it holds weight: **I can find the condition that produced the harm, change it, and hand the change to someone who can run it without me.**
 
-That last clause is the whole chapter. The Architect does not build to be admired and does not measure success by indispensability. The Architect measures it by obsolescence — a system that still runs after they have walked away from it. That is structural generosity, and it is the intent behind every one of the five moves. The superpower is the **Strategist**: knowing where the push goes and when to make it, which is a reading before it is a finding, and which is the one part of the Architect's practice that cannot be recovered from data. A blueprint delivered eighteen months after the pressure released is only correct.
+That last clause is the whole chapter. The Architect does not build to be admired and does not measure success by indispensability. The Architect measures it by obsolescence — a system that still runs after they have walked away from it. That is structural generosity, and it is the intent behind every one of the five moves. Intent sets the direction; the **Strategist** supplies the capability: knowing where the push goes and when to make it, which is a reading before it is a finding, and which is the one part of the Architect's practice that cannot be recovered from data. A blueprint delivered eighteen months after the pressure released is only correct.
 
 You have the five modes and the channels underneath them, the five stages of Observe → Model → Design → Deploy → Hand Off, and the Emotional Body up close — the sensor that turns a feeling into a spec before you can read it, and what it costs when the conversion beats the reading. You have the Structure ↔ Agency axis and the directional test that is the only honest way to check yourself on it.
 
