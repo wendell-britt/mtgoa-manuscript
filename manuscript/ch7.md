@@ -566,7 +566,7 @@ A threat would sound like *do this or I leave.* This is an offering of informati
 
 **The test:** You named what you actually need from the agreement rather than a softer version, said it once, and left it alone for the field to answer. Their behavior may or may not change. If you named the real terms and nothing moved, that is information.
 
-The close lands clean when there's nothing left to add and you don't reach to fill the silence — you've said the thing, nothing has broken, and for once you let it stay said. The over-care version is the opposite: the talk thickens to molasses, every term softened until nothing's actually been said, the conversation kept intact like a museum piece and nobody moved an inch. Then the performed version: the words are out, but one hand stays on the door, ready to pull it open again the moment they frown.
+The close lands clean when there's nothing left to add and you don't reach to fill the silence — you've said the terms, nothing has broken, and for once you let it stay said. The over-care version is the opposite: the talk thickens to molasses, every term softened until nothing's actually been said, the conversation kept intact like a museum piece and nobody moved an inch. Then the performed version: the words are out, but one hand stays on the door, ready to pull it open again the moment they frown.
 
 **Before you name them, ask:** Am I naming this because I know what the agreement requires, or because I'm hoping the other person will talk me out of it? If you're hoping they'll talk you out of it, you're not ready to name it yet. Wait. Sit with it. Come back when you mean it.
 

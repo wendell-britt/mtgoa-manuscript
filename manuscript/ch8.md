@@ -430,7 +430,7 @@ The Diagnostician runs the whole time. You notice when things move from the powe
 
 Then the Liberator asks: *is this game mine? Am I the one who has to hold this boundary, or did I name it so someone else could?* You release. The boundary belongs to the group now, not to you.
 
-Then the Returner. You come back down. You sit with the result. You don't stay up at the whole-board view looking down at what you just did. You come back to where they are and you say: *here's where I landed, and I'm staying.*
+Then the Returner. You come back down. You sit with what you released. You don't stay up at the whole-board view looking down at what you just did. You come back to where they are and you say: *here's where I landed, and I'm staying.*
 
 ### *The Walk Back: Coming Down Without Losing What You Found*
 

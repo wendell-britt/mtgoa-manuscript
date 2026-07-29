@@ -202,7 +202,7 @@ it in a corridor first.*
 *I am told this is common. I am told this by people who are being kind.*"""),
 ],
 3: [
-("It worked. For a while.", """*We put in once at Oreve, which is a port and a poor one — the moorings were rotten and the
+("It worked. The cost landed somewhere the village never thought to look.", """*We put in once at Oreve, which is a port and a poor one — the moorings were rotten and the
 harbourmaster kept his ledgers in his head and got them wrong.*
 
 *Their council chamber had no chairs. You stood, and the first business of any session was that

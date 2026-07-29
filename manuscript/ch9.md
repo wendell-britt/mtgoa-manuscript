@@ -193,7 +193,7 @@ Each mode is also a doorway. Depending on which one activates for you, here is w
 - **Elder** → if what you're called to do is teach, pass on, run workshops, give other people the vocabulary — the deck is what you run the session from. It works without you standing in the middle of it, once you know it well enough to get out of the way.
 - **Outlaw** → if what you see is a structure that needs to be challenged, broken, or rebuilt — that's also allyship work. It is the mode the deck is worst at prompting on its own, which is exactly why you draw for it on purpose.
 
-The modes loop. Each pass through goes deeper. The walk is the thing.
+The modes loop. Each pass through goes deeper. You do not graduate.
 
 ---
 
@@ -299,7 +299,7 @@ The map does not show you what failure looks like. Real failure — the kind whe
 
 The map also doesn't show you what success looks like from the inside. The moment when someone plays bars-engine and something opens in them that you didn't know was closed. The moment when a player names a feeling they've never been able to name before and you realize the game did that. The moment when the thing you built does exactly what you designed it to do and you feel nothing — because you're already thinking about the next version.
 
-The map doesn't show you that the walk takes as long as it takes. That you will not finish the map. That the point is not to finish. That the walk is the thing.
+The map doesn't show you that the walk takes as long as it takes. That you will not finish the map. That the point is not to finish.
 
 That's what the map is silent about. I want you to know it — so that when the walking takes longer than you thought, you don't read that as evidence that you took the wrong path.
 
@@ -639,7 +639,7 @@ So here are six moments. Read each one and write down two things before you go o
 
 **One is the Challenger.** Nothing here needs translating. Everyone at that table understood what happened, including the person it happened to, which means the field is not confused, it is silent. The pull is toward the Diplomat, who has a version of this that costs nothing: catch the director afterward, catch the newest person afterward, be warm to both, bring the temperature down. That version leaves the four seconds exactly as they were. The move is **Name the Unnameable** (Chapter 4), and its entire value is that it happens inside the four seconds rather than in the hallway.
 
-**Two is the Architect.** Three people have failed at this role and every one of them experienced it as a personal failure, which is the signature of a design problem wearing a people problem's clothes. The pull is toward the Regent, and it is an honorable one: keep the vows, carry the thing, cover again. Covering again is what produced the third departure. The move is **Design for Handoff** (Chapter 6), run before the new coordinator's first week instead of after their last.
+**Two is the Architect.** Three people have failed at this role and every one of them experienced it as a personal failure, which is the signature of a design problem wearing a people problem's clothes. The pull is toward the Regent, and it is an honorable one: keep the vows, carry the load, cover again. Covering again is what produced the third departure. The move is **Design for Handoff** (Chapter 6), run before the new coordinator's first week instead of after their last.
 
 **Three is the Shaman.** You have a spike you have not named and you are already building a response on top of it, which means whatever you say next will be carrying cargo neither of you can see. The pull is toward the Architect or the Diplomat, since both have something useful to hand her, and the thing you are assembling really might be right. The move is **Catch It Before the Story** (Chapter 3). What it costs you is a few seconds and the sentence you had ready.
 
@@ -669,7 +669,7 @@ Three things exist on the other side of this book. They are not the same size, a
 
 **Bars-engine, and the non-profit that holds it.** The live game. Campaigns, quests, allyship programs, other players already mid-move. This is where the practice stops being something you do alone with a deck and starts having other people's outcomes attached to it. It was running before you finished this book, which means it does not need your admiration. It needs whatever you cut the field down to in Section 6.
 
-**The coaching, and the certification behind it.** The most expensive of the three, in every sense of the word. If you have a Founder move and you already know it has to be you, working it through with me one-on-one is the fastest path I know. If what you want is the method itself — to run these six Faces for other people, not just for the thing you're building — that is the succession this whole book was written to make possible, and it is the work I most want to hand off. wendell@masteringallyship.com.
+**The coaching, and the certification behind it.** The most expensive of the three, in every sense of the word. If you have a Founder move and you already know it has to be you, working it through with me one-on-one is the fastest path I know. If what you want is the method itself — to run these six Faces for other people, not just for the venture you're building — that is the succession this whole book was written to make possible, and it is the work I most want to hand off. wendell@masteringallyship.com.
 
 Start with the deck. It is the one that begins the moment you open the box.
 

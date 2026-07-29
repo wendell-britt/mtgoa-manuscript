@@ -55,7 +55,7 @@ The Challenger didn't dislike the Shaman. The Challenger just believed that *som
 
 At first, this seemed right. There were problems that needed solving. The village needed someone who could draw a line in the sand. Someone who could say "this is unacceptable" without softening it. Someone who could move when others were still gathering information. The Challenger could do that. The Challenger *did* that.
 
-It worked. For a while.
+It worked. The cost landed somewhere the village never thought to look.
 
 <!-- MARGINALIA -->
 > *We put in once at Oreve, which is a port and a poor one — the moorings were rotten and the
@@ -125,7 +125,7 @@ Nothing says "belonging" quite like replacing the people who had to love you wit
 ## Section 3: The Concept
 ### *What Emotional Alchemy Actually Is (And Why It's Not What You've Been Told)*
 
-Before the practice comes the word, because it gets used for something much smaller than what this chapter teaches.
+Before the practice comes the word *alchemy*, because it gets used for something much smaller than what this chapter teaches.
 
 The village shrinks alchemy into processing: *identify* the emotion, *understand* where it came from, *release* it, and then *move on.* That model treats emotions like a problem that has a solution. Once you solve it, it's gone.
 
