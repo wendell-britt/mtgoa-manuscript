@@ -1,33 +1,6 @@
 # CHAPTER 2: THE FOREST — Why Allyship Keeps Failing (and Where to Start)
 ## *You Cannot Ally from a Place You Have Not Explored*
 
-
-<!-- EPIGRAPH-BYLINE -->
-> *Tull walked me out and said nothing for an hour. At the treeline he said "you can stop here,"
-> and I understood that he meant it, which is the only reason I did not stop.*
->
-> — first walk, name not recorded
->
-> *They came ashore and fixed nothing for eleven days. On the twelfth they did one thing, and the
-> harbour has worked since. I do not know how they chose it. I have stopped needing to.*
->
-> — Oreve, harbour records
->
-> set down by Bram Tull, Caretaker, who was asked eleven times
-<!-- /EPIGRAPH-BYLINE -->
-
-<!-- MARGINALIA -->
-> *Bram is not faculty. He has declined to become faculty on eleven occasions, four of them in
-> writing. The Heads each carry an epithet, selected with a certain amount of ceremony. Bram has a
-> job, and has indicated that he finds this arrangement satisfactory and would prefer we stop
-> raising it.*
->
-> *He agreed to set this down because he is the only person aboard who has walked every new student
-> out the first time, and because the alternative was a committee. I want you to know what these
-> pages cost. They cost a favour I am still paying off, and a silence in a corridor that I would
-> describe as the longest of my career.*
-<!-- /MARGINALIA -->
-
 ---
 
 ## Section 1: Urgency
@@ -42,17 +15,6 @@ It usually starts small. A conversation that goes wrong. A relationship that fra
 There's usually no name for it at first. Just the feeling — the one that shows up late at night, or early in the morning, or in the middle of a conversation that's going fine on the surface and completely wrong underneath.
 
 The feeling is this: *this isn't working.*
-
-<!-- MARGINALIA -->
-> *Every world we put in at has a version of this paragraph. The wording varies. Once it was a
-> song.*
->
-> *You are not being told something new — you are being told it somewhere it is finally
-> allowed to be said out loud, which is a different service and worth more than it sounds. I have
-> heard it delivered by a harbour official who had been awake for two days, and by a child who was
-> entirely calm about it. The child was more accurate.*
-<!-- /MARGINALIA -->
-
 
 The subject of that sentence is the work. Your effort is real. Your intentions are real. Something else is failing.
 
@@ -154,18 +116,6 @@ For the full game taxonomy and mechanics, see Chapter 1. This chapter uses that 
 
 ## Section 3: The Forest
 ### *The Place Where the Work Actually Happens*
-
-<!-- MARGINALIA -->
-> *Skip the decision question. It is a good question and you will answer it flatteringly, because
-> it is phrased as a choice between being shallow and being brave, and nobody picks shallow at a
-> trailhead.*
->
-> *Better: think of the last time you did not say the true thing. Do not judge it. Only notice
-> whether you knew, at the time, that you were not saying it. If you knew, you were in the village.
-> If you did not know until afterwards, you were already in the forest and the forest was
-> working.*
-<!-- /MARGINALIA -->
-
 
 The Forest is a place you may not realize you've been circling.
 
@@ -297,16 +247,6 @@ Seven daemons live in the Forest, and the player at its center is you. You're no
 
 ### The Seven
 
-<!-- MARGINALIA -->
-> *You will not meet all seven. Most students finish with two, perhaps three, and go home entirely
-> competent. The full set arrives only if you take all six schools, which almost nobody does, and
-> which is not a recommendation.*
->
-> *You already have the first one. It came with the body. Bram is fond of observing that it is the
-> only member of the party that has never once had to be persuaded to turn up.*
-<!-- /MARGINALIA -->
-
-
 You meet the seven walking in, in this order. Each one gets a short entry: what it does, how it shows up once it's your ally, how it shows up as a demon still running the show, and a moment you might catch each one in play.
 
 **The Protector**
@@ -346,18 +286,6 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 **As a demon:** it absorbs every hit going, without a word, until it's soaking up harm that was never yours to carry. *In play:* you take on more and more of someone else's load without ever saying so, until you're depleted and no one, including you, has noticed what it's costing.
 
 ### The Protector, up close
-
-<!-- MARGINALIA -->
-> *The hull image is not one the school invented for teaching purposes.*
->
-> *You are shortly going to be asked to thank a part of yourself, the request will sound
-> sentimental, and I would like you to have a picture of what it looks like when an institution
-> does it in earnest. Ask anyone in engineering. They will tell you the hull is the only part of
-> this ship that has never once sat in a meeting about its own performance. It braces. It has no
-> opinion. It is thanked annually, by tradition, on a day nobody can attend, because we are always
-> underway.*
-<!-- /MARGINALIA -->
-
 
 The Protector works the door of the Forest. It is the first daemon you meet, and the most physical of the seven. The Protector is the hull of the ship — the body itself, holding its shape, keeping the water out, taking the hit when a hit is coming. It is the embodied feeling of self-preservation. It does not argue or explain; it braces. It knows you are in danger before you could prove it to anyone, because a hull that waits for proof is already taking on water.
 
@@ -472,14 +400,6 @@ That location is data. The Shaman's first move is always the same: find out wher
 
 ## Section 8: The Game
 ### *Five Moves for the Threshold*
-
-<!-- MARGINALIA -->
-> *I have taught these five for a long time and I still cannot do the second one without rehearsing
-> it in a corridor first.*
->
-> *I am told this is common. I am told this by people who are being kind.*
-<!-- /MARGINALIA -->
-
 
 If you're still reading, you've already been playing. Here's an opening game, five moves you can run the next time a daemon grabs the joystick.
 

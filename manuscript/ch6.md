@@ -1,32 +1,6 @@
 # CHAPTER 6: THE ARCHITECT
 ## *The System That Makes the Right Thing the Easy Thing*
 
-
-<!-- EPIGRAPH-BYLINE -->
-> *Vale asked whose face had gone from my diagram. It was mine. I had drawn myself out of my own
-> family and been pleased with the drawing.*
->
-> — Sim Orrel, second-year, School of the Pattern
->
-> *The new rota is worse for me and better for eleven other people. It took me a season to stop
-> being angry about it. It took another to notice I would not change it back.*
->
-> — a foreman, name withheld at his request
->
-> the fourth treatise, submitted by Irix Vale, Patternwright,
-> Head of the School of the Pattern
-<!-- /EPIGRAPH-BYLINE -->
-
-<!-- MARGINALIA -->
-> *Irix asks every student to draw the system and then asks whose face disappeared from the
-> diagram. They have been asking it for thirty years and it is the best question anybody at this
-> school asks.*
->
-> *They ask it of their own diagrams now. Not always in time — twice in one week I watched it
-> arrive a day late, both times about somebody I liked — but they ask, which they did not used to,
-> and the asking is all of what changed.*
-<!-- /MARGINALIA -->
-
 ---
 
 ## Section 1: The Exile
@@ -43,17 +17,6 @@ Then something shifted.
 It wasn't sudden. It was gradual — the way a village that has been running on good intentions starts to feel like good intentions are not enough. The Architect's maps started to feel like criticism. The Architect's questions started to feel like *why can't you people just figure this out?* The Architect's designs started to feel like the Architect was saying *you're doing it wrong.*
 
 The Architect didn't mean it that way. The Architect never meant it that way. The Architect was also not not saying it. The Architect was pointing at a broken system and saying *this is why it breaks.* The people inside the broken system heard: *and you're the ones who broke it.*
-
-<!-- MARGINALIA -->
-> *"Also not not saying it" is the most honest line in this treatise, and Irix wrote it about
-> themselves without appearing to notice.*
->
-> *Every good structural read contains a small true accusation. Not a large one and not an unfair
-> one — a small one, correctly aimed. The Architects who last are the ones who stopped pretending
-> otherwise, because a person who denies the accusation has to keep the map vague to make the
-> denial hold.*
-<!-- /MARGINALIA -->
-
 
 The village started to defend itself against the Architect's maps. Started to see the Architect's structural clarity as a form of judgment. Started to say: *we don't need another analysis — we need action. We don't need to understand why we're stuck — we need to get un-stuck. We don't need you to show us how broken we are.*
 
@@ -135,14 +98,6 @@ Structural design is the practice of understanding *why* a system produces the o
 
 Notice the difference. In organizational design, you define roles and responsibilities. In structural design, you ask: what incentive is this role actually responding to? Not the job description — the actual incentive. The one that determines behavior when no one is watching. Then you ask: is that incentive aligned with the outcome we want? If not, no amount of role definition will produce the right behavior.
 
-<!-- MARGINALIA -->
-> *Skip the incentive question. Ask who would have to be brave for the stated outcome to happen.
-> Same answer, arrives faster, and you will have it in your chest before you can get it onto paper.*
->
-> *Irix will tell you that is the same question. On a map it is. In a meeting it is not.*
-<!-- /MARGINALIA -->
-
-
 This is what the Architect means when they say *design for the actual incentive, not the stated one.* People do what they're incentivized to do, not what they're told to do. The Architect's work is to close that gap.
 
 Here is how it works at the deepest level:
@@ -197,16 +152,6 @@ It is one habit, applied five times.
 
 ## Section 4: The Practice
 ### *What the Architect Actually Does With a Broken System*
-
-<!-- MARGINALIA -->
-> *A council I put in at had surveyed its people about exhaustion. The people, being honest, said
-> yes. A rest hour appeared on the shared calendar, placed at the only hour nobody had claimed — and
-> nobody had claimed it because it was the only hour anything got done.*
->
-> *Not one person in that building was uncaring. Every one of them was answering a different
-> question than the one the survey asked. I liked them enormously.*
-<!-- /MARGINALIA -->
-
 
 At the Architect's altitude, the native material is not emotion — it is *logic.* The raw material is the relationship between cause and effect: the structures that produce outcomes, the leverage points that change systems, the mental models that explain why things are the way they are.
 
@@ -290,19 +235,6 @@ At its best it is the finest sensor you own, and at the Architect's altitude it 
 The distortion is how fast it hands the feeling off. Feeling it was never the issue.
 
 Here is the move. Something lands. Before it has finished landing — before you could name the channel, before you could say where in your body it went — it has already become a design problem. The heat becomes a proposal. The dread becomes a risk register. The sadness becomes a retrospective. Every one of those is a good artifact. That is the trap. The conversion produces useful work, on a real timeline, that other people are grateful for. Nobody in the meeting sees a person routing a feeling around themselves. They see somebody who is fast.
-
-<!-- MARGINALIA -->
-> *They see somebody who is fast. I was somebody who was fast.*
->
-> *There was a stretch when I logged my own weather in a ledger — channel, intensity, what set it
-> off, what I did about it. Inside a week I was having the weather that made the ledger look better.
-> I was not lying, and I did not notice. I had handed a part of myself a metric and it did what
-> anything does with a metric.*
->
-> *The ledger is still in my quarters. I have not opened it in some years and I have not thrown it
-> out, and I would rather not examine why either of those is true.*
-<!-- /MARGINALIA -->
-
 
 What is actually happening is that the signal never got read. It got spent. A feeling converted at that speed does not deliver its information — it delivers its energy, which is a different substance, and the design absorbs the energy and calls it urgency. You end up with an intervention sized to the intensity of what you felt rather than to the shape of what is broken. This is why the Architect's proposals sometimes land as enormous — three-quarter restructures aimed at a two-degree problem — and the Architect cannot understand why the table is flinching. The table is responding to the charge underneath the analysis.
 
@@ -428,16 +360,6 @@ In practice: design as if the person taking over knows less than you do about wh
 ---
 
 ### Move 4: Ship the Minimum
-
-<!-- MARGINALIA -->
-> *Ship the Minimum is the move Irix is worst at and teaches best, which happens more often than you
-> would expect.*
->
-> *Their first draft of this treatise arrived on time and was then withdrawn, because there was a
-> diagram they wanted to redo. I kept the withdrawn one. It is better than the replacement and I
-> have not told them.*
-<!-- /MARGINALIA -->
-
 
 **What it is:** You get the design into contact with reality before it's perfect.
 
