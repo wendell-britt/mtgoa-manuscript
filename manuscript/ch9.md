@@ -78,7 +78,7 @@ You have been the Diplomat. You know how to hold the field across difference, ma
 
 You have been the Sage. You know how to see which game you're in, switch deliberately, and come back without condescension.
 
-That's a design system.
+That's a design system. It reads like a list of things you have been. It is a list of things you can build with.
 
 The six Faces are your toolkit. The WAVE is your process. The altar — the practice of returning — is your anchor. Now you get to design your specific practice: the combination of all six that is uniquely yours, grounded in your specific survival, your specific superpowers, your specific village.
 

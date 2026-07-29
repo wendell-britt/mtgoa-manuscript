@@ -90,7 +90,7 @@ There is a version of "terms" you have already met, and it is why this chapter h
 
 The village hardens terms into ultimatums. Terms are what someone says when they have decided to leave and want you to know it is your fault. Terms come with a deadline attached and a threat underneath. They are what the person with leverage produces at the end of a negotiation that was never a negotiation. That version of the word is real — people do this — and it is the reason a certain kind of capable, relationally fluent person will run an entire career without ever naming a single term of her own. She has seen what terms look like in the hands of someone playing a power game. She has decided not to be that.
 
-That decision is an accurate reading of a specific misuse. The problem is what it costs to generalize from it.
+That decision is an accurate reading of a specific misuse. Accuracy is why nobody has talked her out of it. The problem is what it costs to generalize from it.
 
 Honest terms are the opposite instrument. **A term is a statement of what this field must hold for your staying to remain real — offered as information, once, to a field that is then free to answer.** It is a fact about the arrangement rather than a demand or a condition of continued affection, and it is delivered while there is still time for anyone to do something with it.
 
@@ -135,9 +135,9 @@ A polarity is not a problem to solve. It has two poles, and both of them are rig
 
 The Diplomat's pair: care for the relationship versus impact on the situation.
 
-**Care** means protecting the connection itself — the trust, the willingness of people to stay in contact with each other, the conditions under which anyone can say anything difficult at all. Care is the maintenance of the only medium through which anything relational travels. A field with no care in it cannot be told anything.
+**Care** means protecting the connection itself — the trust, the willingness of people to stay in contact with each other, the conditions under which anyone can say anything difficult at all. Care is the maintenance of the only medium through which anything relational travels. Sentiment feels warmly about a connection; care is the upkeep. A field with no care in it cannot be told anything.
 
-**Impact** means the actual change in the world outside the relationship — what moves, what stops, who is materially better off after the conversation than before it. Impact is the willingness for a relationship to be spent on something, rather than preserved as an end in itself.
+**Impact** means the actual change in the world outside the relationship — what moves, what stops, who is materially better off after the conversation than before it. Impact is the willingness for a relationship to be spent on something, rather than preserved as an end in itself. Brutality spends a relationship without noticing. Impact spends it on purpose.
 
 Both poles have a failure state, and the failure states do not look alike. Care without impact is attendance: warm, dependable, and doing nothing. Everyone likes you. Nothing changes. Impact without care is the Challenger's altitude imported into a conversation that needed this one — the true thing said in a way that ends the possibility of saying the next true thing.
 
