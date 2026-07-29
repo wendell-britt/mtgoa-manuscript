@@ -63,8 +63,18 @@ worklist.
 sentence. Which loses its ending is authorial.
 **R14** — *"It is not enough for the other one"* appears near-verbatim in ch4 and ch6.
 **R15** — ch5 states a "first move" twice, at 253 (acknowledge) and 406 (witnessing).
-**R16** — ch6:434 read *"six of which"* against a five-item list. Rewritten to the
-only coherent reading; the intent is inferred and needs confirming.
+**R16 — WITHDRAWN 2026-07-29, my error.** I read ch6:434's *"six of which"* as
+pointing at the five moves listed above it, called the sentence broken, and replaced
+it. The antecedent is **seconds**, not moves: the same block contains *"Open Up: six
+seconds, channel and location, before anything gets modeled,"* so *"ninety seconds —
+six of which are the only ones your Emotional Body will fight you for"* is exact.
+It is also the chapter's thesis in one clause — the whole pass is easy except the six
+seconds you have to spend feeling something before converting it. Reverted. Nothing
+for Wendell to rule on.
+
+The lesson is the ruling: I flagged prose as broken on a misreading and then asked
+for confirmation of my own inference, which is the shape of an error that gets
+ratified. Find the antecedent before calling a sentence incoherent.
 **R17** — Appendix A's affinity table treats the Vulnerable Child as a peer gate in
 a "2-2-2-2 balanced" set. Chapter 2 seats seven daemons with the VC at the centre.
 **R18** — Move 3's canonical heading is *Say the Thing Under the Thing*. Renaming it

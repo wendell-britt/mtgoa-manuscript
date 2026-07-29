@@ -60,8 +60,12 @@ fixed at ch4:318, where a disguise ran backwards.
   local clustering, and the one cluster is a deliberate teaching triad.
 
 **Open, and blocked on Wendell:** the ten front-matter facts, `⟦ASH-AGE⟧` /
-`⟦ASH-SPAN⟧` (R9), R8, and R13–R18 opened this session. Live worklist is
+`⟦ASH-SPAN⟧` (R9), R8, and R13–R15 / R17–R18 opened this session. Live worklist is
 `specs/SPEC_PRINT_READINESS_2026-07-29.md`.
+
+**R16 withdrawn.** I called ch6:434 a broken sentence because I read *"six of
+which"* as pointing at five moves. It points at ninety seconds, six of which are
+the Open Up beat named in the same block. Reverted; the original was correct.
 
 ---
 

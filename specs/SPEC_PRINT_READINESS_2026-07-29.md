@@ -22,9 +22,9 @@ state.
 
 1. The ten front-matter facts, `⟦ASH-AGE⟧` / `⟦ASH-SPAN⟧`, and R8. Wendell only —
    the gate cannot go green without them.
-2. **R13–R18**, opened while doing the work and listed in
-   `SPEC_FINISHING_PASS_2026-07-29.md`. R16 matters most: ch6:434 had a broken
-   sentence and my repair infers intent.
+2. **R13–R15, R17, R18**, opened while doing the work and listed in
+   `SPEC_FINISHING_PASS_2026-07-29.md`. **R16 is withdrawn — it was my misreading**,
+   not a defect in the manuscript; see that spec for the correction.
 3. W3, the genre-marker pass, untouched and waiting on R3.
 4. ch4's hedge particles — the last voice BLOCK.
 5. 167 punchline-last INFO hits. Pattern data, not defects.
