@@ -47,7 +47,7 @@ The feeling is this: *this isn't working.*
 > *Every world we put in at has a version of this paragraph. The wording varies. Once it was a
 > song.*
 >
-> *You are not being told something new — you are being told it in a room where it is finally
+> *You are not being told something new — you are being told it somewhere it is finally
 > allowed to be said out loud, which is a different service and worth more than it sounds. I have
 > heard it delivered by a harbour official who had been awake for two days, and by a child who was
 > entirely calm about it. The child was more accurate.*

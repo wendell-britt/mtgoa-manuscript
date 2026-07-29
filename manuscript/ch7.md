@@ -18,7 +18,7 @@
 <!-- /EPIGRAPH-BYLINE -->
 
 <!-- MARGINALIA -->
-> *Elian makes every student answer three questions before they are allowed into a difficult room:
+> *Elian makes every student answer three questions before they are allowed into a difficult conversation:
 > what you believe, what the other side needs, and what would make staying here dishonest. Students
 > find the third one strange. It is the only one Elian reads.*
 >
@@ -123,7 +123,7 @@ Every move in this chapter is downstream of that myth. The chapter's job is to r
 > cost somebody other than its owner.*
 >
 > *They stay. They have stayed in rooms that had already chosen harm, well past the point where
-> staying did anything but lend the room their reputation. They know this. They will tell you the
+> staying did anything but lend those rooms their reputation. They know this. They will tell you the
 > walk-away terms are the hardest thing they teach because they are the thing they are worst at,
 > and then they will teach them better than anyone alive.*
 <!-- /MARGINALIA -->
@@ -243,7 +243,7 @@ The Dissatisfaction here is **intellectual superiority** — the subtle, seducti
 > arrives with two names.*
 >
 > *After some deliberation the committee agreed to avoid the word condescension, on the grounds of
-> its vibe, and settled on meeting fluency. I voted for that. I would vote for it again. But let
+> its vibe, and settled on meeting fluency. I voted for that. I would vote for it again. Let
 > there be no mistake about what it covers: meeting somebody where they are can mean stooping to
 > where they are, and if you do not do it gracefully enough they will feel talked down to — because
 > they are being talked down to, and grace is the only variable.*
@@ -680,11 +680,11 @@ The tell that a quest is alive is not enthusiasm. It is anticipation with some d
 ### *What the Diplomat Teaches — and Why the Sage Comes Next*
 
 <!-- MARGINALIA -->
-> *The school keeps a room set aside for conversations that need terms stated. It is bookable. It
+> *The school keeps one space set aside for conversations that need terms stated. It is bookable. It
 > has good chairs, a window, and a jug of water somebody refills.*
 >
 > *In eleven years I have known it used four times. The rest of us do this in corridors, standing,
-> at an angle, having decided in the moment that the room would make it too serious. The room is
+> at an angle, having decided in the moment that the space would make it too serious. The space is
 > immaculate. It has never been anything but ready.*
 <!-- /MARGINALIA -->
 

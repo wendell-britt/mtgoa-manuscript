@@ -141,7 +141,7 @@ Notice the difference. In organizational design, you define roles and responsibi
 > *Skip the incentive question. Ask who would have to be brave for the stated outcome to happen.
 > Same answer, arrives faster, and you will have it in your chest before you can get it onto paper.*
 >
-> *Irix will tell you that is the same question. In a map room it is. In a meeting it is not.*
+> *Irix will tell you that is the same question. On a map it is. In a meeting it is not.*
 <!-- /MARGINALIA -->
 
 

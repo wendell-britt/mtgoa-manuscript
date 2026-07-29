@@ -382,7 +382,7 @@ The Regent asks you to: Inherit — *this is what came to me.* Honor — *this p
 
 <!-- MARGINALIA -->
 > *Pick the person who will be least gracious about it. You already know who that is, and you have
-> been quietly choosing somebody else since you started this section.*
+> been choosing somebody else, without admitting it, since you started this section.*
 >
 > *The gracious one will make you feel you have done it. Only the other one will tell you whether
 > you have.*

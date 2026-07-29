@@ -338,7 +338,7 @@ The Challenger does not live in constant confrontation. The Challenger lives in 
 > *Thirty seconds is generous. You will have four.*
 >
 > *In four seconds you can do one thing, so make it the same thing every time: say what you would
-> say if you were not going to be in the room afterwards. Do not work out which line to draw. Draw
+> say if you were not going to be there afterwards. Do not work out which line to draw. Draw
 > the one you already know about. The protocol is for afterwards, when you are working out why that
 > was the one.*
 <!-- /MARGINALIA -->

@@ -110,6 +110,21 @@ Banned words: *room*, *quiet*, *quietly*, *genuinely*. (*Genuine* is not banned.
 
 Do not attribute generated prose to Wendell as his established voice. Do not invent a frame and present it as a finding. When a voice rule is violated, write around it — do not argue for an exemption and do not build a taxonomy of acceptable variants.
 
+**The gate applies to the marginalia as well as the body text** (ruled 2026-07-29).
+The margin is a different register in another character's voice, and it is held to
+the same list. Run it as an instrument, which scores the two surfaces separately so
+you can see which one regressed:
+
+```
+python3 instruments/gate.py        # both surfaces
+python3 instruments/gate.py -v     # quote every hit with context
+```
+
+Note the flags when reading the gate below: `andbut` and `stacks` are
+case-sensitive. Running them case-insensitively invents violations that are not
+there — lowercase *and*/*but* mid-sentence and a lowercase *not* opening a pair
+are all legal.
+
 Run this gate on any new prose before it goes in front of Wendell. Every counter must read 0.
 
 ```python

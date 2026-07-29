@@ -61,7 +61,7 @@ That is the thesis, and it comes with a limit case attached. This chapter applie
 > He has never mentioned it, which I understand is the point, and I have decided not to respect it
 > any longer.*
 >
-> *He reads a room better than I do. He has never said so. I am saying it.*
+> *He reads a company better than I do. He has never said so. I am saying it.*
 <!-- /MARGINALIA -->
 
 
@@ -191,7 +191,7 @@ Without that question, help becomes interference. Diagnosis becomes lecturing. P
 
 <!-- MARGINALIA -->
 > *I have taught the walk-away terms for eleven years and I require every student to state one
-> before entering a difficult room. He has stated one for me. He stated one for Maera, and for two
+> before entering a difficult conversation. He has stated one for me. He stated one for Maera, and for two
 > students I will not name. He is better at it than I am, and I teach it.*
 >
 > *He has never stated one for himself. So we have written one for him. It is short and it has a
@@ -503,10 +503,10 @@ It shows up in a single beat. Someone asks you for help with something real. Som
 
 <!-- MARGINALIA -->
 > *I held a verdict open once for four days. Everyone tells that story. Nobody tells the part where
-> somebody stood in front of a very angry room for four days holding nothing, and it was him, and
-> when I asked afterwards whether it had been difficult he said the room had been reasonable.*
+> somebody stood in front of a very angry hall for four days holding nothing, and it was him, and
+> when I asked afterwards whether it had been difficult he said the hall had been reasonable.*
 >
-> *The room was not reasonable. I have let him keep that sentence for nine years.*
+> *The hall was not reasonable. I have let him keep that sentence for nine years.*
 >
 > *You have read eight chapters of his handwriting. You know the sound he makes when he says he is
 > fine. We are counting on you having noticed.*

@@ -47,13 +47,29 @@ D1–D4 has not started. See `HANDOFF.md` for the ordered pick-up list.
 
 ## Voice-gate status
 
-The marginalia has **not** been through the banned-word gate in
-`specs/MANUSCRIPT_FILE_CANON.md`. It uses *room* 19 times and *quietly* once,
-both banned in body prose. Nothing in `specs/` here addresses that list, so this
-looks unconsidered rather than decided — but the margin is a different register
-in a different character's voice, so whether the ban reaches it is Wendell's
-call. Nothing has been changed either way.
+**The gate applies to the margin as well as the body — ruled 2026-07-29 — and the
+marginalia passes it clean.** Every counter reads 0. Check with:
 
-The negation rule is different: `specs/RULE_COLLISIONS.md` deliberately revises
-it into licensed *ranking* negation versus banned *denying* negation, and that
-supersedes the flat ban for this work.
+```
+python3 instruments/gate.py        # body and marginalia scored separately
+python3 instruments/gate.py -v     # quote every hit with context
+```
+
+Getting there took 19 edits, all in `insertions.py`: 18 uses of *room* and one
+of *quietly*, plus the single sentence opening with *But*. Two of the
+replacements are worth knowing about, because they set house usage:
+
+- *"what the room felt like"* became **"what the field felt like"** in both
+  places it appeared. *Field* is the Body's own word, set up by Maera's question
+  in the Ch3 byline, and the sentences that follow already call it a *reading*.
+- *"reads a room"* became **"reads a company"**, and *company* now carries that
+  sense wherever the margin means the people rather than the space.
+
+Where the ban cost nothing, the noun just got more specific — *hall*, *space*,
+*conversation*, *on a map*. Note that plural *rooms* passes the gate: `\broom\b`
+does not match it, so the Ch7 note keeps *"stayed in rooms that had already
+chosen harm."*
+
+The negation rule is separate and was not touched: `specs/RULE_COLLISIONS.md`
+deliberately revises it into licensed *ranking* negation versus banned *denying*
+negation, and that supersedes the flat ban for this work.

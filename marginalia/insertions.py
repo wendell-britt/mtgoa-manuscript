@@ -17,7 +17,7 @@ harbour has worked since. I do not know how they chose it. I have stopped needin
 set down by Bram Tull, Caretaker, who was asked eleven times
 """,
 3: """
-*I said what the room felt like and I was wrong. Voss made me say the wrong one again the next
+*I said what the field felt like and I was wrong. Voss made me say the wrong one again the next
 morning, out loud, so I would know the difference in my mouth.*
 
 — Ilse Marrow, second-year, School of the Body
@@ -155,7 +155,7 @@ school asks.*
 *They ask it of their own diagrams now. Not always in time — twice in one week I watched it
 arrive a day late, both times about somebody I liked — but they ask, which they did not used to,
 and the asking is all of what changed.*""",
-7: """*Elian makes every student answer three questions before they are allowed into a difficult room:
+7: """*Elian makes every student answer three questions before they are allowed into a difficult conversation:
 what you believe, what the other side needs, and what would make staying here dishonest. Students
 find the third one strange. It is the only one Elian reads.*
 
@@ -170,7 +170,7 @@ NOTES = {
 ("The feeling is this", """*Every world we put in at has a version of this paragraph. The wording varies. Once it was a
 song.*
 
-*You are not being told something new — you are being told it in a room where it is finally
+*You are not being told something new — you are being told it somewhere it is finally
 allowed to be said out loud, which is a different service and worth more than it sounds. I have
 heard it delivered by a harbour official who had been awake for two days, and by a child who was
 entirely calm about it. The child was more accurate.*"""),
@@ -206,7 +206,7 @@ it in a corridor first.*
 harbourmaster kept his ledgers in his head and got them wrong.*
 
 *Their council chamber had no chairs. You stood, and the first business of any session was that
-somebody said out loud what the room felt like, and if nobody agreed with the reading, somebody
+somebody said out loud what the field felt like, and if nobody agreed with the reading, somebody
 else offered a different one, and this went on until the readings stopped changing. Then they
 began. I asked a clerk how long the practice had been in place and she did not understand the
 question. She thought I was asking when the building went up.*
@@ -224,18 +224,18 @@ thirty years.*
 *For your first year, run two: notice, and say. The other three are what you do afterwards, on
 your own time, and they are where the training actually happens. She tells you five first because
 students who learn two never come back for the other three.*"""),
-("### The Five Elements: How Different Feelings Flow", """*The Body teaches these in a low-lit room with the windows open, on the theory that a student who
+("### The Five Elements: How Different Feelings Flow", """*The Body teaches these in a low-lit hall with the windows open, on the theory that a student who
 is slightly cold will stop pretending to be comfortable. I have sat in. It works, and I resent
 that it works.*"""),
 ("the triage rule, and four worked scenarios", """*Triage is the part of this chapter you will actually use, and it is in an appendix. Maera does
 not believe anybody should be handed the shortcut before they have felt why it is one.*
 
 *I disagree, which is why I have told you where it is.*"""),
-("### The Shaman's Superpower: Knowing Which Move to Make", """*The first time I named a charge out loud in a room that had agreed not to, I got it wrong. Badly
+("### The Shaman's Superpower: Knowing Which Move to Make", """*The first time I named a charge out loud in a company that had agreed not to, I got it wrong. Badly
 wrong. I named grief and it was rage, and I was corrected at some volume in front of eleven
 people.*
 
-*It worked anyway. That is the part nobody warns you about — the room opened regardless, because
+*It worked anyway. That is the part nobody warns you about — the company opened regardless, because
 what mattered was that somebody was willing to be wrong out loud about something real. I would
 not build a technique on it. I mention it because you are going to be wrong the first time, and
 it will not be the disaster you are picturing. It will be a smaller and more specific disaster,
@@ -260,7 +260,7 @@ have your answer, and so do they.*"""),
 ("30-Second Protocol", """*Thirty seconds is generous. You will have four.*
 
 *In four seconds you can do one thing, so make it the same thing every time: say what you would
-say if you were not going to be in the room afterwards. Do not work out which line to draw. Draw
+say if you were not going to be there afterwards. Do not work out which line to draw. Draw
 the one you already know about. The protocol is for afterwards, when you are working out why that
 was the one.*"""),
 ("The Skeptic, Up Close", """*There is a body on this ship whose stated purpose is the identification of risk. It has never run
@@ -293,7 +293,7 @@ one season longer than it can bear, every time, and she will have a good reason.
 — it is whether anybody has said out loud what stopping would cost, in numbers, with a date. If
 nobody has, the reason is doing a different job than the one it appears to be doing.*"""),
 ("Name One Inheritance Out Loud", """*Pick the person who will be least gracious about it. You already know who that is, and you have
-been quietly choosing somebody else since you started this section.*
+been choosing somebody else, without admitting it, since you started this section.*
 
 *The gracious one will make you feel you have done it. Only the other one will tell you whether
 you have.*"""),
@@ -321,7 +321,7 @@ denial hold.*"""),
 ("Not the job description", """*Skip the incentive question. Ask who would have to be brave for the stated outcome to happen.
 Same answer, arrives faster, and you will have it in your chest before you can get it onto paper.*
 
-*Irix will tell you that is the same question. In a map room it is. In a meeting it is not.*"""),
+*Irix will tell you that is the same question. On a map it is. In a meeting it is not.*"""),
 ("## Section 4", """*A council I put in at had surveyed its people about exhaustion. The people, being honest, said
 yes. A rest hour appeared on the shared calendar, placed at the only hour nobody had claimed — and
 nobody had claimed it because it was the only hour anything got done.*
@@ -356,14 +356,14 @@ them.*"""),
 cost somebody other than its owner.*
 
 *They stay. They have stayed in rooms that had already chosen harm, well past the point where
-staying did anything but lend the room their reputation. They know this. They will tell you the
+staying did anything but lend those rooms their reputation. They know this. They will tell you the
 walk-away terms are the hardest thing they teach because they are the thing they are worst at,
 and then they will teach them better than anyone alive.*"""),
 ("the truth rather than an interpretation", """*Elian's fix is humility, and humility is the right fix for the ordinary case. The harder one
 arrives with two names.*
 
 *After some deliberation the committee agreed to avoid the word condescension, on the grounds of
-its vibe, and settled on meeting fluency. I voted for that. I would vote for it again. But let
+its vibe, and settled on meeting fluency. I voted for that. I would vote for it again. Let
 there be no mistake about what it covers: meeting somebody where they are can mean stooping to
 where they are, and if you do not do it gracefully enough they will feel talked down to — because
 they are being talked down to, and grace is the only variable.*
@@ -385,11 +385,11 @@ you have known it for months, which is worse and more useful.*
 
 *Either way — say it to yourself in one sentence before you go in. Not to decide anything. Only to
 find out which half you are in.*"""),
-("## Section 7", """*The school keeps a room set aside for conversations that need terms stated. It is bookable. It
+("## Section 7", """*The school keeps one space set aside for conversations that need terms stated. It is bookable. It
 has good chairs, a window, and a jug of water somebody refills.*
 
 *In eleven years I have known it used four times. The rest of us do this in corridors, standing,
-at an angle, having decided in the moment that the room would make it too serious. The room is
+at an angle, having decided in the moment that the space would make it too serious. The space is
 immaculate. It has never been anything but ready.*"""),
 ]
 
@@ -398,7 +398,7 @@ NOTES[8] = [
 He has never mentioned it, which I understand is the point, and I have decided not to respect it
 any longer.*
 
-*He reads a room better than I do. He has never said so. I am saying it.*"""),
+*He reads a company better than I do. He has never said so. I am saying it.*"""),
 ("## Section 2", """*A partial list of things this school runs on that exist nowhere in writing: the intake sequence,
 the reason we stopped the second-year review, four agreements with three worlds, and the whole of
 what we do when a student leaves badly.*
@@ -408,7 +408,7 @@ busy.*
 
 *So the six of us wrote it down. It is finished. He does not know.*"""),
 ("## Section 3", """*I have taught the walk-away terms for eleven years and I require every student to state one
-before entering a difficult room. He has stated one for me. He stated one for Maera, and for two
+before entering a difficult conversation. He has stated one for me. He stated one for Maera, and for two
 students I will not name. He is better at it than I am, and I teach it.*
 
 *He has never stated one for himself. So we have written one for him. It is short and it has a
@@ -423,10 +423,10 @@ that Sera had found it in the spring, and Maera the year before that.*
 *We have all been drawing the same diagram. None of us put him on it either. That is not an
 oversight anyone can lay at his door.*"""),
 ("Why the Defect Story Always Sounds Like Humility", """*I held a verdict open once for four days. Everyone tells that story. Nobody tells the part where
-somebody stood in front of a very angry room for four days holding nothing, and it was him, and
-when I asked afterwards whether it had been difficult he said the room had been reasonable.*
+somebody stood in front of a very angry hall for four days holding nothing, and it was him, and
+when I asked afterwards whether it had been difficult he said the hall had been reasonable.*
 
-*The room was not reasonable. I have let him keep that sentence for nine years.*
+*The hall was not reasonable. I have let him keep that sentence for nine years.*
 
 *You have read eight chapters of his handwriting. You know the sound he makes when he says he is
 fine. We are counting on you having noticed.*"""),

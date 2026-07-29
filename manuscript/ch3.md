@@ -3,7 +3,7 @@
 
 
 <!-- EPIGRAPH-BYLINE -->
-> *I said what the room felt like and I was wrong. Voss made me say the wrong one again the next
+> *I said what the field felt like and I was wrong. Voss made me say the wrong one again the next
 > morning, out loud, so I would know the difference in my mouth.*
 >
 > — Ilse Marrow, second-year, School of the Body
@@ -62,7 +62,7 @@ It worked. For a while.
 > harbourmaster kept his ledgers in his head and got them wrong.*
 >
 > *Their council chamber had no chairs. You stood, and the first business of any session was that
-> somebody said out loud what the room felt like, and if nobody agreed with the reading, somebody
+> somebody said out loud what the field felt like, and if nobody agreed with the reading, somebody
 > else offered a different one, and this went on until the readings stopped changing. Then they
 > began. I asked a clerk how long the practice had been in place and she did not understand the
 > question. She thought I was asking when the building went up.*
@@ -375,7 +375,7 @@ This stage can happen in real-time (in the next ten seconds) or can unfold over 
 ### The Five Elements: How Different Feelings Flow Through the WAVE-Spiral
 
 <!-- MARGINALIA -->
-> *The Body teaches these in a low-lit room with the windows open, on the theory that a student who
+> *The Body teaches these in a low-lit hall with the windows open, on the theory that a student who
 > is slightly cold will stop pretending to be comfortable. I have sat in. It works, and I resent
 > that it works.*
 <!-- /MARGINALIA -->
@@ -462,11 +462,11 @@ You do not need to score the move. You need to tell the truth about what it did 
 ### The Shaman's Superpower: Knowing Which Move to Make
 
 <!-- MARGINALIA -->
-> *The first time I named a charge out loud in a room that had agreed not to, I got it wrong. Badly
+> *The first time I named a charge out loud in a company that had agreed not to, I got it wrong. Badly
 > wrong. I named grief and it was rage, and I was corrected at some volume in front of eleven
 > people.*
 >
-> *It worked anyway. That is the part nobody warns you about — the room opened regardless, because
+> *It worked anyway. That is the part nobody warns you about — the company opened regardless, because
 > what mattered was that somebody was willing to be wrong out loud about something real. I would
 > not build a technique on it. I mention it because you are going to be wrong the first time, and
 > it will not be the disaster you are picturing. It will be a smaller and more specific disaster,
