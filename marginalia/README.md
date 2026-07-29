@@ -39,11 +39,30 @@ with that:
 canon. Verified: every one of the 53 blocks is byte-identical to the handoff's
 output, and body text round-trips byte-identical on all eight chapters.
 
+## The linter
+
+`review.py` (ported 2026-07-29 from the second handoff drop) finds candidates —
+AI shapes, say-the-noun, hedges, and per-Head genre/flavor markers from
+`specs/SEVEN_VOICES.md`. Nothing it flags is auto-fixed; BLOCK means adjudicate
+before Wendell sees it. The hard canon gate remains `instruments/gate.py`.
+
+```
+python3 marginalia/review.py                      # body prose, frame stripped
+python3 marginalia/review.py --mode marginalia    # the margin only
+python3 marginalia/review.py --mode voice         # does each treatise sound like its Head
+python3 marginalia/review.py --anchors            # anchor uniqueness (strips frame first)
+```
+
+`CLAUDE_CODE_HANDOFF.md` is the operational half of the handoff; its repo-native
+loop and the measured 2026-07-29 baselines live in
+`specs/SPEC_FINISHING_PASS_2026-07-29.md`.
+
 ## Open, from the handoff
 
 The school is unnamed, which blocks the half-title and the enrollment page. The
 25 move stopping conditions are the largest remaining task. The body-text pass
-D1–D4 has not started. See `HANDOFF.md` for the ordered pick-up list.
+D1–D4 has not started. The full sequenced plan, with measured baselines and the
+eight rulings awaiting Wendell, is `specs/SPEC_FINISHING_PASS_2026-07-29.md`.
 
 ## Voice-gate status
 

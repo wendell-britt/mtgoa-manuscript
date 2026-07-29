@@ -71,7 +71,14 @@ See `marginalia/README.md` and `marginalia/HANDOFF.md`.
 - `instruments/` — the measurement tools, now committed as runnable files rather than pasted from a toolkit doc. `spec_edit.py` is the safe-edit pattern every manuscript edit goes through; it aborts and writes nothing on a missed or duplicated anchor. `dupes.py` is the cross-chapter duplicate scanner. Also: practice surfaces, chain check, stylometry, term debt, negation stacks, repetition sweep, construction sites. Run them against `manuscript/ch1.md`–`ch9.md`. Every claim about this manuscript should come from one of these, not from a planning document.
 - `specs/MTGOA_INSTRUMENTS_TOOLKIT.md` — documents the reviewer gate and what each instrument measures.
 - `visuals/` — the built HTML visuals, self-contained with no external assets: `chapter_engine`, `ch2_seven_daemons`, `ch3_process_shape`, `structural_delivery`, `register_remediation`, `structure_comparison`, `voice_comparison`.
-- The three open specs: `specs/SPEC_STRUCTURAL_DELIVERY.md`, `specs/SPEC_REGISTER_REMEDIATION.md`, `specs/SPEC_REPETITION_AND_CUTS.md`. Each ends in a rulings section that is still awaiting Wendell.
+- The open specs: `specs/SPEC_FINISHING_PASS_2026-07-29.md` — **the active work
+  plan for the August 1 delivery** — plus `specs/SPEC_STRUCTURAL_DELIVERY.md`,
+  `specs/SPEC_REGISTER_REMEDIATION.md`, `specs/SPEC_REPETITION_AND_CUTS.md`.
+  Each ends in a rulings section that is still awaiting Wendell.
+- `marginalia/review.py` — the candidate-finding voice linter (AI shapes,
+  say-the-noun, hedge density, per-Head genre markers). Findings are
+  adjudicated, never auto-fixed. It complements `instruments/gate.py`; it does
+  not replace it. Voice doctrine in `marginalia/specs/SEVEN_VOICES.md`.
 - `drafts/` — working prose not merged into any chapter. `appendix_channels.md` and `ch9_transfer_drill.md` are finished pieces; `ch3_rebuild.md`, `ch4_section5_rebuild.md`, `newsec5.md`, and `CH2_LINE_LEDGER.md` are partial.
 - `chapters/ch0-infinite-arcade/` — kept out of the 2026-07-28 retirement because the Chapter 0 → Chapter 1 rewrite dropped material rather than revising it. `MONOPOLY_ORIGIN_STORY.md`, `BRIDGE_1_DRAFT.md`, and the `GM_SECTION` drafts are the only surviving copies of that prose; none of it is in the current manuscript.
 
