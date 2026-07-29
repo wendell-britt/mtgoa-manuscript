@@ -122,7 +122,11 @@ def subtitle_of(text):
 
 
 def build_toc(entries):
-    """Generate the table of contents from the headings that actually exist."""
+    """Generate the contents from the headings that actually exist.
+
+    Lists only what follows the contents page. The half title, title page, and
+    copyright sit ahead of it and are never listed in one.
+    """
     lines = ["# Contents", ""]
     section = None
     for kind, label, title, subtitle in entries:
@@ -145,11 +149,14 @@ def main():
 
     present, missing, entries, parts = [], [], [], []
     frame_blocks = 0
+    toc_slot = toc_entry = None
 
     for kind, label, rel, required in SPINE:
         if rel is None:                       # generated, not authored
-            entries.append((kind, label, "Contents", None))
+            toc_entry = len(entries)
             present.append((label, 0, "generated"))
+            toc_slot = len(parts)             # filled once the entries are known
+            parts.append(None)
             continue
         text = read(rel)
         if text is None:
@@ -171,7 +178,9 @@ def main():
             print("%-12s %s" % (label, first.group(0) if first else "(none)"))
         return 0
 
-    toc = build_toc(entries)
+    toc = build_toc(entries[toc_entry:] if toc_entry is not None else entries)
+    if toc_slot is not None:
+        parts[toc_slot] = toc
     if toc_only:
         sys.stdout.write(toc)
         return 0
@@ -210,7 +219,8 @@ def main():
         os.makedirs(BUILD, exist_ok=True)
         stamp = datetime.date.today().isoformat()
         out = os.path.join(BUILD, "MTGOA_PRINT_%s.md" % stamp)
-        io.open(out, "w", encoding="utf-8").write("\n\n\\newpage\n\n".join(parts))
+        body = "\n\n\\newpage\n\n".join(p for p in parts if p is not None)
+        io.open(out, "w", encoding="utf-8").write(body)
         print("\nWrote %s (%d words)" % (out, total))
         return 0
 

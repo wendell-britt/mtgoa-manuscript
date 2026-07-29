@@ -6,16 +6,21 @@ Scores each surface separately, because they are different registers by
 different hands and a combined number hides which one regressed. Every counter
 must read 0. Exits non-zero on any hit, so it can gate a commit.
 
-Three surfaces, because three surfaces get printed:
+Four surfaces, because four surfaces get printed:
 
   body        manuscript/ch1.md-ch9.md with the marginalia frame stripped
   marginalia  the frame blocks only
-  appendices  appendices/APPENDIX_*.md and the back matter
+  appendices  the lettered appendices A-G
+  matter      front matter and back matter
 
-The appendices surface was added 2026-07-29. Until then the gate read only
-manuscript/, so ~9,000 words of shipping prose had never been held to the
-standing list. Suppress it with --no-appendices when you are measuring a
-chapter edit in isolation.
+The last two were added 2026-07-29. Until then the gate read only manuscript/,
+so ~10,000 words of shipping prose had never been held to the standing list.
+Suppress them with --no-appendices when you are measuring a chapter edit in
+isolation.
+
+The `tokens` counter earns its keep on the matter surface: the front matter
+carries ⟦ISBN-PRINT⟧, ⟦IMPRINT⟧, and the author-bio blanks, and the gate is what
+stands between an unfilled placeholder and the typesetter.
 
     python3 instruments/gate.py                  # every printed surface
     python3 instruments/gate.py -v               # quote every hit with context
@@ -85,6 +90,12 @@ def main():
             if os.path.exists(path):
                 text += "\n" + io.open(path, encoding="utf-8").read()
         surfaces["appendices"] = text
+
+        matter = ""
+        for d in (os.path.join(ROOT, "front_matter"), os.path.join(ROOT, "back_matter")):
+            for path in sorted(glob.glob(os.path.join(d, "*.md"))):
+                matter += "\n" + io.open(path, encoding="utf-8").read()
+        surfaces["matter"] = matter
 
     names = [n for n, _, _ in COUNTERS]
     print("%-12s %s" % ("surface", " ".join("%8s" % n for n in names)))
