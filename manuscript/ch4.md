@@ -8,13 +8,13 @@
 
 The Challenger once lived in the village.
 
-Inside it. One of them. The Challenger was the one who drew the lines. Who said "this far and no further." Who stood in the place where everyone else kept negotiating and planted a flag and said *this is where we stand.* The village needed that. The village held people who could feel what was wrong but couldn't say it out loud. The Challenger could say it. The Challenger could say it and mean it and hold the line while everyone else figured out how to catch up.
+Inside it. One of them. The Challenger was the one who drew the lines. Who said "this far and no further." Who stood in the place where everyone else kept negotiating and planted a flag and said *this is where we stand.* The village needed that. The village was full of people who could feel what was wrong but couldn't say it out loud. The Challenger could say it. The Challenger could say it and mean it and hold the line while everyone else figured out how to catch up.
 
 The village built rituals around this. The Challenger would speak first at councils. Not because they were the eldest or the wisest but because they could say the thing that needed saying before anyone else could bear to hear it. "This is not acceptable." "That boundary has been crossed." "We will not do this." The words were simple. The weight behind them was not.
 
 The Regent noticed first.
 
-The Regent didn't dislike the Challenger. The Regent just believed that *power had to be organized.* That raw will — even clean will — could not sustain anything across time. That the Challenger's gift had a limit: the Challenger could draw a line, but the Challenger could not hold that line across seasons. Could not build the tradition that carried it forward. Could not make the line inherit itself.
+The Regent didn't dislike the Challenger. The Regent just believed that *power had to be organized.* That raw will — even clean will — could not sustain anything across time. That the Challenger's gift was real but limited: the Challenger could draw a line, but the Challenger could not hold that line across seasons. Could not build the tradition that carried it forward. Could not make the line inherit itself.
 
 So the Regent built walls instead. Institutions. Roles with names. Traditions with histories. The Regent said: *give me your line and I will make it a law. Give me your boundary and I will make it an institution. Give me your 'this far and no further' and I will make it a founding principle that outlasts your lifetime.*
 
@@ -24,7 +24,7 @@ Not because the Challenger was wrong. Because the Challenger was *expensive.* Th
 
 The Regent was more efficient. The Regent was more scalable. The Regent was more *sustainable.*
 
-So nobody banished the Challenger. The Challenger was just... sidelined. Without ceremony. (The Regent stayed very gracious about it. Nothing offered itself to push against. That was the point.) The councils stopped asking first. The rituals started referencing the Regent's walls instead of the Challenger's lines. The stories changed from "remember when the Challenger said no to that?" to "thank the Regent for building the structure that holds that no."
+So nobody banished the Challenger. The Challenger was just... sidelined. Without ceremony. (The Regent stayed very gracious about it. There was nothing to push against. That was the point.) The councils stopped asking first. The rituals started referencing the Regent's walls instead of the Challenger's lines. The stories changed from "remember when the Challenger said no to that?" to "thank the Regent for building the structure that holds that no."
 
 The Challenger noticed, and saw the choice: become a historical footnote — the one who used to draw lines before the Regent made lines into laws — or leave.
 
@@ -32,7 +32,7 @@ The Challenger left.
 
 Not in anger. In clarity. The Challenger understood what the village did not: that a line held by someone else is not the same as a line held by you. That the Regent's walls, however necessary, were not the same thing as the Challenger's will. That the village had confused *organized power* with *actual power* and could not tell the difference.
 
-The village never meant for that to happen. It never said "go." It just stopped asking. Which, it turns out, exiles just as thoroughly.
+The village never meant for that to happen. It never said "go." It just stopped asking. Which, it turns out, is the same thing as exile.
 
 ---
 
@@ -76,7 +76,7 @@ The village never realized it had traded the capacity to draw lines for the comf
 
 You already have a version of the clean no. You've been calling it something else.
 
-The village hears the clean no as aggression: the angry one, the difficult one, the one who makes things worse before they get better, someone who says no because they want to win. I was told that at ⟦ASH-AGE⟧, by people who meant well, and I believed them for ⟦ASH-SPAN⟧. The version they described does exist, and you've probably met them, and this chapter does not mean that person.
+The village hears the clean no as aggression: the angry one, the difficult one, the one who makes things worse before they get better, someone who says no because they want to win. I was told that at ⟦ASH-AGE⟧, by people who meant well, and I believed them for ⟦ASH-SPAN⟧. The version they described does exist, and you've probably met them, and it is not what we're talking about here.
 
 The clean no is something different. The clean no is the practice of **stating a boundary without apologizing for it, collapsing it, or converting it into a request.**
 
@@ -188,13 +188,13 @@ The Shaman (Ch3) taught you to read the five EA channels: Metal/Fear, Water/Sadn
 | **The Refusal** | Earth/Neutrality | Compliance gone numb → Peace |
 | **The Reckoning** | Water/Sadness | Sadness under the anger → Poignance |
 
-Five modes, five channels, no overlap. That tidiness did not happen by accident — it explains why the modes number five rather than three. Each one names a different signal in the body asking to be spent a different way.
+Five modes, five channels, no overlap. That tidiness is no coincidence — it explains why the modes number five rather than three. Each one names a different signal in the body asking to be spent a different way.
 
 **The Line** (Fire/Anger → Triumph): Outrage is Fire arriving with nowhere to land, so it vents. The line is the vessel. Triumph here is not winning the exchange — it is the specific satisfaction of *I can act*, which Fire wants and almost never gets. A stated line is anger that made it all the way out of the body and into the world without deforming on the way.
 
 **The Interrupt** (Metal/Fear → Wonder): Breaking a pattern mid-flight means you do not know what the next thirty seconds contain. Fear reads that correctly. The contraction attempts to know in advance, which cannot be done, which is why the fear does not resolve by thinking harder. Wonder is what the same not-knowing becomes when you stop treating it as threat: the field after an interrupt opens in a way it had not a second earlier, and open is the condition Metal is for. *I can explore.* You interrupted, and now something unscripted is happening, and you are still here.
 
-**The Demand** (Wood/Joy → Bliss): A demand insists that something change, which makes it a claim on a shared future. Wood stuck is defiance with no future in it — the no that is only a no, refusal as identity, the fight enjoyed for its own sake. That version can run for years and produce nothing. Bliss is Wood satisfied, and its capability is participation: *I can participate.* The demand that lands is the one where the refusal opened a space and you will stand in the space. The no that becomes a yes to something new.
+**The Demand** (Wood/Joy → Bliss): A demand insists that something change, which makes it a claim on a shared future. Wood stuck is defiance with no future in it — the no that is only a no, refusal as identity, the fight enjoyed for its own sake. That version can run for years and produce nothing. Bliss is Wood satisfied, and its capability is participation: *I can participate.* The demand that lands is the one where the refusal opened a space and you are willing to stand in it. The no that becomes a yes to something new.
 
 **The Refusal** (Earth/Neutrality → Peace): This one surprises people who expect the clean no to run on anger. It does not. Anger is the Line's fuel. The Refusal's opposing force is Earth gone flat — compliance that has stopped requiring a decision, the automatic yes, going along because going along costs nothing you can feel in the moment. Numbness is Neutrality stuck, and it explains why most nos never get said: nothing arrived to say them with. Peace is Neutrality satisfied, and its capability is rest. *I can rest.* The test of a real refusal is not how it sounded. It is whether you slept.
 
@@ -216,7 +216,7 @@ Most people skip this stage. They feel the charge and act immediately — which 
 
 **Stage 3: Act.** You choose the mode and execute. Line, Interrupt, Demand, Refusal, or Reckoning. You state the boundary. You name the cost. You do it plainly, without essay, without justification, without the three-paragraph explanation that is actually an apology.
 
-The act gets cleaner as it gets shorter. Most people err on the side of too much explanation. The Challenger knows: one clear sentence, properly held, is worth more than a paragraph that buries the point in qualifiers.
+The act gets cleaner as it gets shorter. Most people err on the side of too much explanation. The Challenger knows: one clear sentence, properly held, outweighs a paragraph that buries the point in qualifiers.
 
 **Stage 4: Stand.** You stay with what you said while the silence does its work.
 
@@ -242,7 +242,7 @@ Did this charge become a line, or did it become smoke?
 
 The Challenger does not need you to calculate points in the middle of confrontation. The Challenger needs you to tell the truth about what happened to your will.
 
-The five conversions above do the replenishing. Each one takes a signal arriving as dissatisfaction and spends it in the direction that channel is actually built for, which leaves you with more will than you started with rather than less. That is the alchemy. What follows fills in the rest of the ledger.
+The five conversions above do the replenishing. Each one takes a signal arriving as dissatisfaction and spends it in the direction that channel exists for, which leaves you with more will than you started with rather than less. That is the alchemy. What follows fills in the rest of the ledger.
 
 Some moves sustain will because they keep the confrontation workable:
 
@@ -285,7 +285,7 @@ The Challenger does not live in constant confrontation. The Challenger lives in 
 
 Everything above builds the system. This is the one move you take out of the Forest and into the Village this week — the meeting, the group chat, the dinner table, wherever drawing a line actually costs you something. Interior work is free. The Village is where the no has a price. This is how you pay it cleanly.
 
-You are in a meeting. Someone says something that crosses a line — not a catastrophic violation, but a real one. Something that dismissed a community you care about. Something that landed *casually,* the way people say things when they don't know who is listening.
+You are in a meeting. Someone says something that crosses a line — not a catastrophic violation, but a real one. Something that dismissed a community you care about. Something that was said *casually,* the way people say things when they don't know who is listening.
 
 Here is the Challenger's 30-second protocol:
 
@@ -363,7 +363,7 @@ The difference shows plainly once you look straight at it. Trusting the differen
 
 Before you meet the part that audits your charge, one piece of work belongs here. The conclusion named a few pages back — that the clean no is what oppressors do — does not stay an idea. It gets installed as a figure, and the figure walks around wearing somebody's face.
 
-You met 3-2-1 in Chapter 3. This is the Challenger's application.
+You met 3-2-1 in Chapter 3; this is the Challenger's application.
 
 The 3-2-1 practice asks a harder question: *Who is the oppressor in your inner world?* Not who hurt you in history — the **figure** your nervous system built to hold everything you aren't allowed to be. The one who draws lines while you stay pleasant. The colleague who said no without apologizing. The public figure you call domineering. The **inner Challenger you disowned.**
 
@@ -418,7 +418,7 @@ Here is the part almost nobody gets told about that voice: it is not lying to yo
 
 What it gets wrong is the timestamp. It files a past event as live coverage. It stands at the door of the conversation happening now and narrates something that already finished, in the present tense, at the volume of an emergency.
 
-Which is why arguing gets you nowhere. You cannot argue a memory out of being a memory, and you would not want to — the memory is true. The move is to name it. Give the voice a name, a slightly ridiculous one if one offers itself, because the ridiculousness does real work: it puts a half step between you and the voice. Named, it is something you are hearing. Unnamed, it is simply what you think.
+Which is why the move is not argument. You cannot argue a memory out of being a memory, and you would not want to — the memory is true. The move is to name it: give the voice a name, a slightly ridiculous one if one offers itself, because the ridiculousness does real work: it puts a half step between you and the voice. Named, it is something you are hearing. Unnamed, it is simply what you think.
 
 *There you are. I know what you're protecting me from. I can see the event you're referencing. I'm drawing the line anyway.*
 
@@ -435,11 +435,11 @@ Find the voice. Give it a name. Say the name out loud.
 
 You met the Skeptic at the door of the Forest, third in line, a few steps behind the Controller. The Protector decides whether you go in at all. The Controller decides how you may behave once you get inside. The Skeptic decides something narrower and more damaging than either: whether the thing you reacted to was ever real.
 
-At its best the Skeptic is your auditor, and you need one. A charge arrives and the auditor asks the single useful question — *is this the thing in front of me, or is this an old thing wearing today's clothes?* Sometimes the honest answer is the old thing, and the auditor has just saved you from spending a line on someone who did not earn it. That is not timidity. That is what makes your no expensive. Someone who draws a line at everything has not drawn one; the line stops carrying information about the world and becomes weather, and people learn to dress for it and walk past. The auditor earns you this: when you do finally say *this is not acceptable*, the sentence carries.
+At its best the Skeptic is your auditor, and you need one. A charge arrives and the auditor asks the single useful question — *is this the thing in front of me, or is this an old thing wearing today's clothes?* Sometimes the honest answer names the old thing, and the auditor has just saved you from spending a line on someone who did not earn it. That is not timidity. That is what makes your no expensive. Someone who draws a line at everything has not drawn one; the line stops carrying information about the world and becomes weather, and people learn to dress for it and walk past. The auditor earns you this: when you do finally say *this is not acceptable*, the sentence carries.
 
 An auditor can widen its own remit, though. It stops auditing the charge and starts auditing your standing to have it. The question changes shape without announcing that it has changed — from *is this real* to *are you the one who gets to say it is real.* Those sound like the same rigor. They are not the same question. Looking at the situation answers the first. Only looking at you answers the second, and the Skeptic already knows how that audit comes out.
 
-Then it speaks, and it always sounds reasonable. *Am I overreacting. Other people have it worse. I'm probably being dramatic. I should check with someone who actually knows.* Not one of those is a claim about the violation. Every one of them is a claim about you. The Skeptic takes a real crossing and, in three sentences, converts it into evidence of your own excess.
+Then it speaks, and it always sounds reasonable. *Am I overreacting. Other people have it worse. I'm probably being dramatic. I should check with someone who actually knows.* Not one of those makes a claim about the violation. Every one of them makes a claim about you. The Skeptic takes a real crossing and, in three sentences, converts it into evidence of your own excess.
 
 Here is the tell that separates the auditor from the judge: the auditor finishes. It asks its question, gets an answer, hands the charge back to you either confirmed or dismissed, and stops. The Skeptic in shadow never finishes. No evidence closes the case, because the case was never about evidence. Ask yourself whether you feel certain and you will always find you could feel less certain. The audit runs until the moment has passed, and that outcome was always its purpose.
 
@@ -469,7 +469,7 @@ Both poles are real goods. A Challenger who cannot restrain is a hazard — ever
 
 Which is why nobody catches the shadow in the act. It does not argue for cowardice; you would notice cowardice. It argues for Restraint, and Restraint is half of the truth. *This is not the one. This is not the moment. This is not mine to say.* Each of those can be correct. Each of them is correct sometimes. You can spend a whole career at the Restraint end of a real polarity and call it discernment, and no single instance will look like a failure.
 
-The tell is never the position. The tell is whether you ever move. An auditor that has returned *not this one* eleven times running has stopped auditing and started ruling. Look at the sequence, not the verdict — that is the only place the pattern is visible, and it is why the app keeps count.
+The tell is never the position. The tell is whether you ever move. An auditor that has returned *not this one* eleven times running has stopped auditing and started ruling. Look at the sequence, not the verdict — the only place the pattern shows, and the reason the app keeps count.
 
 ---
 
@@ -540,7 +540,7 @@ In practice: When you feel yourself reaching for a qualifier, stop. Take the qua
 
 The Situation: Someone asks you to do something you cannot or will not do. A request that violates a boundary. A demand that requires you to abandon yourself.
 
-The Move: Say no. Just the word. The essay stays unwritten, and so does the three-paragraph explanation that is actually an apology for saying no.
+The Move: Say no. Just the word. The essay stays unwritten, and so does the three-paragraph explanation that actually apologizes for saying no.
 
 *No.*
 
@@ -558,7 +558,7 @@ In practice: Practice the one-word no. Not *let me think about it* (which is a s
 
 ### Move 4: Confront Without Cruelty
 
-The Situation: You need to say something hard to someone. Somebody crossed a boundary. Somebody violated a line. The confrontation has to happen.
+The Situation: You need to say something hard to someone. A boundary has been crossed. A line has been violated. The confrontation has to happen.
 
 The Move: Hard content. Clean delivery.
 
@@ -574,13 +574,13 @@ In practice: Before a hard conversation, write down what you need to say. Then t
 
 ### Move 5: Stay Past the Discomfort
 
-The Situation: You've drawn the line. You've stated the boundary. Now the discomfort spreads. People shift in their seats. Someone looks upset. The old impulse is to soften, to clarify, to apologize for the discomfort you just created.
+The Situation: You've drawn the line. You've stated the boundary. Now the discomfort spreads. People shift in their seats. Someone looks upset. The old impulse pulls you to soften, to clarify, to apologize for the discomfort you just created.
 
 The Move: Stay.
 
 You do not need their immediate comfort to validate your boundary. You do not need everyone to immediately reorganize around your no. You said the thing. The thing is true. You hold it.
 
-Why it works: Most lines fail not from bad drawing but because the person who drew them could not tolerate the discomfort of having drawn it. They softened. They clarified until the line was no longer a line. They apologized until the boundary was no longer a boundary. The Challenger knows: *the discomfort of holding a line is less costly than the cost of not holding it.* The short-term discomfort of staying always costs less than abandoning the boundary.
+Why it works: Most lines fail not because they were badly drawn but because the person who drew them could not tolerate the discomfort of having drawn it. They softened. They clarified until the line was no longer a line. They apologized until the boundary was no longer a boundary. The Challenger knows: *the discomfort of holding a line is less costly than the cost of not holding it.* The short-term discomfort of staying always costs less than abandoning the boundary.
 
 In practice: Next time you draw a line and feel the urge to soften — pause. Take one breath. Ask: *is the line true?* If yes, hold it. You do not owe anyone immediate comfort for your own clarity.
 
@@ -600,7 +600,7 @@ Same grid as the Shaman's, one operation over. Five basic moves down — the WAV
 | **Grow Up** · *find the developmental edge — what must evolve?* | The Edge of the Ask | The Edge of Speaking | The Edge of the Line | The Edge of Letting Go |
 | **Show Up** · *create the intervention — what must change?* | The Ask Goes Live | Say the Thing | Make the Move | Ship the System |
 
-Notice what happens to the titles as you go down. The Wake Up row names four things you do not look at. The Show Up row names four things that happen in front of other people. That is the Challenger's arc compressed into twenty phrases: it starts at what you are refusing to see and it ends at something you did with witnesses. Read across a row instead and you choose the arena. Down is the sequence, across is where it lands.
+Notice what happens to the titles as you go down. The Wake Up row names four things you do not look at. The Show Up row names four things that happen in front of other people. That is the Challenger's arc compressed into twenty phrases: it starts at what you refuse to see and ends at something you did with witnesses. Read across a row instead and you choose the arena. Down is the sequence, across is where it lands.
 
 ### Drawing Against the Shadow
 
@@ -608,13 +608,13 @@ Draw from your twenty rather than the hundred and twenty — though not from a s
 
 **Wake Up** — it notices resistance, always somebody else's. What resists being seen gets located outside you before the noticing has finished, and the hand holding the instrument escapes it.
 
-**Open Up** — a feeling whose warrant still hangs open cannot be stayed with; staying would count as credulity. So the discomfort goes into escrow until the verdict, and the verdict does not release it.
+**Open Up** — a feeling whose warrant still hangs open cannot be stayed with; staying would be credulity. So the discomfort goes into escrow until the verdict, and the verdict does not release it.
 
 **Clean Up** — a verdict about what something means is an interpretation. The move gets run, and the output gets called a finding.
 
 **Grow Up** — asked what must evolve, it returns better discernment. Sharper standards, faster detection of overreaction: an upgrade to the instrument that is the problem.
 
-**Show Up** — an assessment ships where an intervention was called for. The critique lands accurate, often the best thing said at the table, and nothing in the world moves.
+**Show Up** — an assessment ships where an intervention was called for. The critique is accurate, often the best thing said at the table, and nothing in the world moves.
 
 It bites hardest at Clean Up. The Skeptic's remit is whether the thing was ever real, and reality gets settled at interpretation. The other four rows run that same ruling early or late.
 
@@ -626,11 +626,11 @@ Five moves, one card, ninety seconds.
 
 ### From Card to Quest
 
-A card that ends in the app is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up row, because that row ends in artifacts and an artifact gives another person something to encounter.
+A card that ends in the app is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up row, because that row ends in artifacts and an artifact is something another person can encounter.
 
 One line, four things: what you will do, who it reaches, by when, and what it costs you. *Say the Thing* becomes: **I will tell Marcus on Thursday that I was wrong to call his read on the hiring panel an overreaction, without adding a defence of why I thought so, and it will cost me the version of myself that gets things right the first time.** That is a quest. *I will be less dismissive* is not one; nobody can tell whether you did it, including you.
 
-A live quest does not announce itself as enthusiasm. It arrives as anticipation with some dread underneath it. For a Challenger the dread usually arrives first, which is a good sign and a hard one.
+The tell that a quest is alive is not enthusiasm. It arrives as anticipation with some dread underneath it. For a Challenger the dread usually arrives first, which is a good sign and a hard one.
 
 *Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it. → app*
 

@@ -107,7 +107,7 @@ The practice: Take inventory. Review the six Faces and ask honestly: *Which one 
 
 The Cartographer doesn't judge the map. It just draws it. You might find that you naturally move to Challenger when things get hard — and that the Challenger's game suits you best — most comfortable, most effective, most at home. Or you might find that you live in the Architect's head — and that your gift lies in designing systems while your gap lies in staying embodied long enough to use them. You might find that the Sage's whole-board view feels like yours — and that your shadow uses the panoramic view to avoid committing to any single game.
 
-The Cartographer draws the map honestly and stops there. No judgment. Just the territory.
+The Cartographer's job comes down to honest self-mapping. No judgment. Just the territory.
 
 Here's what I've noticed about my own cartography: I began by calling myself a Diplomat. That felt like home — relational, careful, good at holding the field. Then I actually mapped where I went when things got hard, and I found I wasn't Diplomat at all. I ran Challenger. Drawing lines. I performed the Diplomat to avoid the discomfort of the Challenger's game — the discomfort of saying no, of being unwelcome, of holding a line that cost me something. The cartography revealed that I performed my "home" face and lived in my "avoided" one.
 
@@ -340,27 +340,27 @@ Here's what I've noticed about my own fear of building: it rehearses. The fear w
 
 Rehearsing failure and doing the thing feel identical from inside your head. Only one of them produces information. The mind will run the scenario for as long as you let it. It will produce the same anxiety whether you've done nothing or whether the thing has already failed. The rehearsal feels like work. The actual thing runs simpler and scarier. Put it in front of someone and see what happens.
 
-The WAVE doesn't end when you leave the book. The WAVE runs through your actual life. Wake up — notice what's happening inside you when your mother calls, when the group chat erupts, when you read the news and feel it land. Open up — stay with it before you do anything with it. Clean up — name the channel and let it run to completion. Grow up — ask what this moment is asking you to become. Show up — act from that place, not from the reactive place the old habit would have sent you to. Come back — notice what happened, what shifted, what you learned.
+The WAVE doesn't end when you leave the book. The WAVE runs through your actual life. Wake up — notice what's happening inside you when your mother calls, when the group chat erupts, when you read the news and feel it land. Open up — stay with it before you do anything with it. Clean up — name the channel and let it run to completion. Grow up — ask what this moment asks you to become. Show up — act from that place, not from the reactive place the old habit would have sent you to. Come back — notice what happened, what shifted, what you learned.
 
-The WAVE runs through your parenting. Through your partnership. Through your work. Through the group chat and the town hall and the election and the pandemic and whatever is next. That's what it means to have the WAVE as a practice. It's how you walk through the world. The morning version is practice for the rest of the day.
+The WAVE runs through your parenting. Through your partnership. Through your work. Through the group chat and the town hall and the election and the pandemic and whatever comes next. That's what it means to have the WAVE as a practice. It's how you walk through the world. The morning version trains you for the rest of the day.
 
-My WAVE runs through the writing of this book. I wake up to what's actually happening in a chapter — not what I want to be happening, but what's actually there. I open up to it before I start repairing it — the chapter gets to be as broken as it is for as long as it takes me to feel what's broken about it. I clean up the places where I'm performing instead of saying what's true. I grow up into the harder version of the idea I was avoiding. I show up to the page. I come back and notice that the chapter that was blocking me for three days unclogged the moment I stopped forcing it and let the Shaman name what was actually there.
+My WAVE runs through the writing of this book. I wake up to what's actually happening in a chapter — not the version I wanted, but what's actually there. I open up to it before I start repairing it — the chapter stays as broken as it is for as long as it takes me to feel what's broken about it. I clean up the places where I'm performing instead of saying what's true. I grow up into the harder version of the idea I kept dodging. I show up to the page. I come back and notice that the chapter that had blocked me for three days unclogged the moment I stopped forcing it and let the Shaman name what was actually there.
 
-The walk also means walking into the specific problem that you are trying to solve.
+The walk also means walking into the specific problem you keep trying to solve.
 
-Most people don't come to a book like this with a general question. They come with a specific ache. Something in a life, a job, a family, a community — some specific gap where the allyship being performed wasn't doing what it was supposed to do. Maybe it was a relationship where you kept doing the right thing and feeling nothing. Maybe it was a community where you were the designated ally and it was destroying you. Maybe it was a public issue — the election, the pandemic, the ongoing catastrophe — where you felt morally obligated to act and emotionally unable to act and intellectually confused about what action even meant anymore.
+Most people don't come to a book like this with a general question. They come with a specific ache. Something in a life, a job, a family, a community — some specific gap where the performed allyship wasn't doing what it promised. Maybe it was a relationship where you kept doing the right thing and feeling nothing. Maybe it was a community where you played the designated ally and it was destroying you. Maybe it was a public issue — the election, the pandemic, the ongoing catastrophe — where you felt morally obligated to act and emotionally unable to act and intellectually confused about what action even meant anymore.
 
 The walk is walking into that specific problem. Not a better version of the problem. The actual one.
 
-My specific problem is the one bars-engine is designed to solve: people who want to do inner work, who understand the theory, who have done the therapy and read the books and know all the vocabulary — and who still don't have a practice. Who still default to their home game when things get hard. Who still mistake understanding for transformation. The gap between knowing and being able to do is the problem I am trying to solve. Everything I build — this book, bars-engine, the next thing — is me walking into that specific problem.
+My specific problem, the one I designed bars-engine to solve: people who want to do inner work, who understand the theory, who have done the therapy and read the books and know all the vocabulary — and who still don't have a practice. Who still default to their home game when things get hard. Who still mistake understanding for transformation. The gap between knowing and doing is the problem I keep trying to solve. Everything I build — this book, bars-engine, the next thing — walks me further into that specific problem.
 
 What's yours?
 
 ---
 
-When you're ready, there is a place to go. Bars-engine is the village's common ground — the playground where players arrive after finishing the book, where the allyship work becomes real. Campaigns. Quests. Allyship programs run through the non-profit. A structure that was already being built before you got here, and that has space for what you're going to add. You don't have to build bars-engine from scratch. You don't have to build the infrastructure alone. You bring your specific gift. The structure plugs in around it. The village is already there, doing the work, and what you make fits into what they're doing.
+When you're ready, a place waits for you. Bars-engine is the village's common ground — the playground where players arrive after finishing the book, where the allyship work becomes real. Campaigns. Quests. Allyship programs run through the non-profit. A structure people already started building before you got here, with space for what you're going to add. You don't have to build bars-engine from scratch. You don't have to build the infrastructure alone. You bring your specific gift. The structure plugs in around it. The village already stands there, doing the work, and what you make fits into what they're doing.
 
-This is what walking into the specific problem looks like when you're ready: not figuring out how to start from nothing, but finding where you fit in something that's already alive. The game is bigger than any one person. That's the point. That's the gift.
+Walking into the specific problem looks like this when you're ready: not figuring out how to start from nothing, but finding where you fit in something that's already alive. The game is bigger than any one person. That's the point. That's the gift.
 
 ---
 
@@ -368,15 +368,15 @@ This is what walking into the specific problem looks like when you're ready: not
 
 Here's the honest page.
 
-Not everyone finishes this book knowing exactly what they're building. Some of you are still in the middle of the walk — still in the confusion, still in the iteration, still redesigning the same mechanic for the third time. Some of you don't have a Founder move yet. You came to the work, you learned the Faces, you ran the WAVE, and you're still asking: *but what is mine?*
+Not everyone finishes this book knowing exactly what they're building. Some of you remain in the middle of the walk — still in the confusion, still in the iteration, still redesigning the same mechanic for the third time. Some of you don't have a Founder move yet. You came to the work, you learned the Faces, you ran the WAVE, and you're still asking: *but what is mine?*
 
-I want to name that directly, because the book would be doing you a disservice if it pretended everyone leaves Chapter 9 with a fully-formed game.
+I want to name that directly, because the book would cheat you if it pretended everyone leaves Chapter 9 with a fully-formed game.
 
-You might be a Cartographer who hasn't become a Founder yet. That's the stage you're in, and from inside it feels like failure. The Cartographer's job is to keep mapping until the terrain reveals what needs to be built. You don't force the Founder move before it's ready. You keep the inventory honest. You keep noticing what gap keeps showing up. When the problem becomes specific enough — when you've mapped it enough times that you can name it in a sentence — the Founder move will become obvious.
+You might be a Cartographer who hasn't become a Founder yet. That's the stage you're in, and from inside it feels like failure. The Cartographer keeps mapping until the terrain reveals what needs building. You don't force the Founder move before it's ready. You keep the inventory honest. You keep noticing what gap keeps showing up. When the problem becomes specific enough — when you've mapped it enough times that you can name it in a sentence — the Founder move will become obvious.
 
-You might also be someone who has a practice that isn't named yet. Something you already do, some way you already show up, some specific thing you already do with your family or your team or your community that is actually your game. The naming might be what's missing, not the game itself.
+You might also be someone who has a practice that isn't named yet. Something you already do, some way you already show up, some specific thing you already do with your family or your team or your community that already counts as your game. The naming might be missing, not the game itself.
 
-Or you might be someone who is still in the confusion — and the honest answer is to say that. *I don't know what I'm building yet.* That's not the Player in distortion. The Player in distortion uses *I don't know* as a place to stay. You can use *I don't know* as a place to start.
+Or you might be someone still in the confusion — and the honest answer says exactly that. *I don't know what I'm building yet.* That's not the Player in distortion. The Player in distortion uses *I don't know* as a place to stay. You can use *I don't know* as a place to start.
 
 The question isn't *do you have a complete game.* The question is *are you walking.* The walk will produce the game. You don't need to see the whole destination. You just need to keep moving.
 
@@ -390,21 +390,21 @@ Some of you are resisting the word.
 
 I hear that. Let me name what's actually happening with that resistance.
 
-Founder is not a personality type. Founder is a mode. The mode activates the moment you decide to create something that didn't exist before you — whether it's a conversation, a practice, a tradition in your family, a way of showing up at work that nobody had named before. The Founder is the moment you stop consuming and start creating. Sometimes an organization comes out of that. Usually nothing does.
+Founder is not a personality type. Founder is a mode. The mode activates the moment you decide to create something that didn't exist before you — whether it's a conversation, a practice, a tradition in your family, a way of showing up at work that nobody had named before. The Founder arrives the moment you stop consuming and start creating. Sometimes an organization comes out of that. Usually nothing does.
 
-Here's the thing the culture doesn't tell you: the Founder move is probably already somewhere in your history. A tradition in a family that wasn't there until somebody started it. A conversation held differently than the generation before would have held it. A pattern broken with a child, a sibling, a friend. A community that exists because one person kept inviting people until it did. Look for the one that's yours.
+Here's the thing the culture doesn't tell you: the Founder move probably already sits somewhere in your history. A tradition in a family that wasn't there until somebody started it. A conversation held differently than the generation before would have held it. A pattern broken with a child, a sibling, a friend. A community that exists because one person kept inviting people until it did. Look for the one that's yours.
 
 If you found it, you have already been the Founder. You just didn't call it that.
 
 The question is not *are you a founder type.* The question is *are you willing to do it on purpose.* To look at the thing that keeps showing up in your life and decide: *I'm going to make something out of this. I'm going to create the thing that should exist.*
 
-That's all it takes. You don't have to build bars-engine. You don't have to start a nonprofit. You don't have to have a platform or an audience or funding. You just have to decide that the problem you're carrying is worth solving — and start making something toward it. The scale doesn't matter. The specificity does.
+That's all it takes. You don't have to build bars-engine. You don't have to start a nonprofit. You don't have to have a platform or an audience or funding. You just have to decide that the problem you're carrying deserves solving — and start making something toward it. The scale doesn't matter. The specificity does.
 
 ---
 
 The walk includes failure. As an actual thing that happens, rather than as a lesson about resilience.
 
-Some things you build will fail. Some will work and stall. Some will land and go nowhere. Some will meet the village and come apart on contact. You will make something and present it and find that the village wasn't ready for it — that what you built as liberation they experienced as threat. That's the Outlaw's cost, and it arrives dressed as a failure of character. The village often resists the new game until it doesn't, and the period of resistance is part of the walk.
+Some things you build will fail. Some will work and stall. Some will land and go nowhere. Some will meet the village and come apart on contact. You will make something and present it and find that the village wasn't ready for it — that what you built as liberation they experienced as threat. That's the Outlaw's cost, and it arrives dressed as a failure of character. The village often resists the new game until it doesn't, and the period of resistance belongs to the walk.
 
 Some failures are just failures. The design was wrong. The timing was wrong. The thing you built didn't solve the problem you thought it would solve. That's data. The Player doesn't treat failure as defeat. The Player treats failure as the WAVE — wake up to what actually happened, open up to it before you explain it, clean up what didn't work, grow up into the next version, show up.
 
@@ -418,7 +418,7 @@ That's the walk. Nobody told you it would look like this.
 
 The Player walks. The Player builds. The Player makes mistakes. The Player reviews, discerns, designs, builds, passes on. The Player loops. The Player continues.
 
-What you have that the village needs is not perfection. It is the willingness to be the one who goes first — not because you have all the answers, but because you have the map and you're willing to walk it and report back.
+The village doesn't need your perfection. It needs your willingness to go first — not because you have all the answers, but because you have the map and you're willing to walk it and report back.
 
 The willingness to be the Player.
 
@@ -428,13 +428,13 @@ The willingness to be the Player.
 
 Here's what I want you to know before you go.
 
-The village is not just the people who will receive what you build. The village is the people who are already building. bars-engine is not a solo project — it's a structure that was already alive before you finished this book. Campaigns are running. Quests are active. Players are showing up. There is space for what you're going to add.
+The village is not just the people who will receive what you build. The village is the people already building. bars-engine works as more than a solo project — a structure already alive before you finished this book. Campaigns run. Quests stay active. Players show up. Space remains for what you're going to add.
 
-You don't have to figure out how to start from nothing. You don't have to build the whole thing yourself. You bring your specific gift — the thing this book helped you name, the thing you figured out how to do by walking your own terrain. Other people are bringing theirs. The game is bigger than any one person.
+You don't have to figure out how to start from nothing. You don't have to build the whole thing yourself. You bring your specific gift — the thing this book helped you name, the thing you figured out how to do by walking your own terrain. Other people bring theirs. The game is bigger than any one person.
 
-The non-profit is the structure that holds this. It was built so that individual Founder moves plug into a larger architecture. So that one person's practice connects to everyone else's. So that when you make something, it lives somewhere it can be found by the people who need it.
+The non-profit holds all of this, built so that individual Founder moves plug into a larger architecture. So that one person's practice connects to everyone else's. So that when you make something, it lives somewhere the people who need it can find it.
 
-The village is already out there, and you are walking into it rather than founding it. The question is just where you fit in — and that's something you'll only discover by walking into it.
+The village already stands out there, and you walk into it rather than found it. The question comes down to where you fit in — and that's something you'll only discover by walking into it.
 
 ---
 
@@ -478,7 +478,7 @@ You know what the six Faces are for. Section 4 asked which ones you live in and 
 
 Here is what winning looks like at the Player's altitude, and it is smaller than the word *game* makes it sound: one thing exists that did not exist before you, and somebody who is not you has it in their hands. That is the whole win. The design does not have to be finished. The system does not have to anticipate every case. The thing has to get made, get handed over, and come back changed.
 
-The five modes are who you are while you work. Review, Discern, Design, Build, Pass On is how the work moves. These five moves are something else — they are what you do when another person is present and the thing you made is on the table between you. Everything up to this point in the chapter was authorship in private. These are what authorship costs when it stops being yours alone.
+The five modes describe who you are while you work. Review, Discern, Design, Build, Pass On tracks how the work moves. These five moves do something else — they name what you do when another person sits across from you and the thing you made lies on the table between you. Everything up to this point in the chapter covered authorship in private. These five measure what authorship costs when it stops being yours alone.
 
 ---
 
@@ -486,7 +486,7 @@ The five modes are who you are while you work. Review, Discern, Design, Build, P
 
 **What it is:** Reducing everything you could work on down to the one thing you are actually going to work on, said in a sentence a stranger could repeat back to you.
 
-**Why it matters:** A wide field never requires a choice, which is exactly why the Player in distortion keeps it wide. As long as the problem is *injustice*, or *the culture*, or *how people treat each other*, no specific act is ever obviously the next one, and nothing you do can ever be judged as having failed. The cut is the move because the cut is what makes the work falsifiable. A problem narrow enough to fail is a problem narrow enough to solve.
+**Why it matters:** A wide field never requires a choice. The Player in distortion keeps it wide for exactly that reason. As long as the problem stays *injustice*, or *the culture*, or *how people treat each other*, no specific act ever announces itself as the next one, and nothing you do can ever count as having failed. The cut matters because the cut makes the work falsifiable. A problem narrow enough to fail is a problem narrow enough to solve.
 
 In practice: write the sentence, then delete every clause that is there to make the problem sound bigger than it is. What survives is usually one group of people, one situation that keeps recurring, and one thing that keeps not happening. If you cannot say who it is for, you have named a topic rather than a problem.
 
@@ -502,7 +502,7 @@ In practice: write the sentence, then delete every clause that is there to make 
 
 **Why it matters:** Earlier in this chapter the tell was direction — is the work moving toward contact with someone, or away from it. This move is that tell converted into an act, and it is the only one of the five that cannot be performed alone. Contact is also the only information a build cannot generate about itself. Refinement is a closed loop: you will not find out whether the thing works by looking at it harder, for longer, with better taste. A person who is not you is the instrument.
 
-In practice: one person, not an audience. The audience version is a launch, and a launch is something you can spend a year preparing for. One person can happen this week. Say what you want from them before you show it — *tell me where you got confused*, or *tell me whether you'd use it twice*. An unspecified ask gets you encouragement, which is the least useful thing a human being can hand you.
+In practice: one person, not an audience. The audience version becomes a launch, and you can spend a year preparing for a launch. One person can happen this week. Say what you want from them before you show it — *tell me where you got confused*, or *tell me whether you'd use it twice*. An unspecified ask gets you encouragement — the least useful thing a human being can hand you.
 
 **Example:** One facilitator builds a workshop for six months and runs it for the first time on the day it is supposed to be good. Another builds a rough version in three weeks, runs it badly for two friends on a Tuesday, finds out that the second exercise makes people defensive, and rebuilds it before anyone has paid for anything. The second one sounds smaller and is the only one holding any information.
 
@@ -526,7 +526,7 @@ In practice: separate the note from the person delivering it, because your first
 
 ### Move 4: Run It Again With One Thing Changed
 
-**What it is:** A second version, on a date, with exactly one deliberate difference from the first. One difference, which is what makes it a run rather than a redesign.
+**What it is:** A second version, on a date, with exactly one deliberate difference from the first. One difference. That single difference turns it into a run rather than a redesign.
 
 **Why it matters:** Failure produces two impulses and both of them are exits. One is to stop. The other is to throw the whole thing out and start over, which feels like courage and functions like avoidance — a total rebuild resets the clock and returns you to the private phase where nobody can see the work. Changing one thing is slower and it is the only version that teaches you anything, because it is the only version where you know what caused the difference.
 
@@ -552,7 +552,7 @@ In practice: be specific about what they are allowed to change. *You can change 
 
 ---
 
-That is the Player's game. Five moves. Cut the field until the problem can fail. Put the unfinished thing in front of somebody. Take the note that costs you the design. Run it again with one thing changed. Hand over the pen. Every one of them takes something you made privately and puts it somewhere another person can change it, which is the only transaction that turns a design into a practice.
+That is the Player's game. Five moves. Cut the field until the problem can fail. Put the unfinished thing in front of somebody. Take the note that costs you the design. Run it again with one thing changed. Hand over the pen. Every one of them takes something you made privately and puts it somewhere another person can change it — the only transaction that turns a design into a practice.
 
 ---
 
@@ -626,13 +626,13 @@ So here are six moments. Read each one and write down two things before you go o
 
 **One is the Challenger.** Nothing here needs translating. Everyone at that table understood what happened, including the person it happened to, which means the field is not confused, it is silent. The pull is toward the Diplomat, who has a version of this that costs nothing: catch the director afterward, catch the newest person afterward, be warm to both, bring the temperature down. That version leaves the four seconds exactly as they were. The move is **Name the Unnameable** (Chapter 4), and its entire value is that it happens inside the four seconds rather than in the hallway.
 
-**Two is the Architect.** Three people have failed at this role and every one of them experienced it as a personal failure, which is the signature of a design problem wearing a people problem's clothes. The pull is toward the Regent, and it is an honorable one: keep the vows, carry the thing, cover again. Covering again is what produced the third departure. The move is **Design for Handoff** (Chapter 6), run before the new coordinator's first week instead of after their last.
+**Two is the Architect.** Three people have failed at this role and every one of them experienced it as a personal failure — the signature of a design problem wearing a people problem's clothes. The pull is toward the Regent, and it is an honorable one: keep the vows, carry the thing, cover again. Covering again is what produced the third departure. The move is **Design for Handoff** (Chapter 6), run before the new coordinator's first week instead of after their last.
 
 **Three is the Shaman.** You have a spike you have not named and you are already building a response on top of it, which means whatever you say next will be carrying cargo neither of you can see. The pull is toward the Architect or the Diplomat, since both have something useful to hand her, and the thing you are assembling really might be right. The move is **Catch It Before the Story** (Chapter 3). What it costs you is a few seconds and the sentence you had ready.
 
-**Four is the Regent.** The newer members are right about the impact, the old guard is right that something is being lost, and the argument cannot resolve because the only person who knows what the ritual was *for* has not said so out loud. That is you. The pull is toward the Challenger, since the impact is real and burning it is clean. The move is **Name the Inheritance** (Chapter 5), and only then **Reform Without Erasing**. Naming it first is what lets the group know what it is choosing to give up, which is the difference between a reform and an amputation.
+**Four is the Regent.** The newer members are right about the impact, the old guard is right that something is being lost, and the argument cannot resolve because the only person who knows what the ritual was *for* has not said so out loud. That is you. The pull is toward the Challenger, since the impact is real and burning it is clean. The move is **Name the Inheritance** (Chapter 5), and only then **Reform Without Erasing**. Naming it first is what lets the group know what it is choosing to give up — the difference between a reform and an amputation.
 
-**Five is the Diplomat, and this is the one where your default Face is the right call.** There is a real field with two real positions in it, and you are the only person both sides will still talk to, which is the Connector's actual job. The pull is toward the Challenger, because one of those positions is weaker than the other and saying so out loud would feel like integrity. The move is **Name the Field** (Chapter 7), then **Translate Across Camps**, with **Refuse False Equivalence** running underneath both. The Diplomat's shadow does not show up in the decision to mediate. It shows up ten minutes later, when the cheapest way to keep both organizations talking to you is to start describing a stolen campaign as a misunderstanding.
+**Five is the Diplomat, and this is the one where your default Face is the right call.** There is a real field with two real positions in it, and you are the only person both sides will still talk to — the Connector's actual job. The pull is toward the Challenger, because one of those positions is weaker than the other and saying so out loud would feel like integrity. The move is **Name the Field** (Chapter 7), then **Translate Across Camps**, with **Refuse False Equivalence** running underneath both. The Diplomat's shadow does not show up in the decision to mediate. It shows up ten minutes later, when the cheapest way to keep both organizations talking to you is to start describing a stolen campaign as a misunderstanding.
 
 **Six is the Sage.** Two years of correct argument and no movement is information about the game rather than about the argument, and it took two years to surface because this game keeps producing agreement, which reads like progress on the way home. The pull is toward the Challenger, escalate, say it louder, or toward the Regent, keep the vows, stay at the table. The move is **Name the Game** (Chapter 8), then **Switch Games Deliberately** — the same argument in a different setting, or a different argument in the same one, and choosing between those two is the Sage's whole job.
 
