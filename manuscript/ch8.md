@@ -1,6 +1,22 @@
 # CHAPTER 8: THE SAGE
 ## *Mastery Is Knowing Which Game You're Playing and Being Able to Put It Down*
 
+
+<!-- EPIGRAPH-BYLINE -->
+> *Orr let me climb as high as I liked and then asked what I was going to do on Thursday. I have
+> never forgiven the question and I ask it constantly.*
+>
+> — Veyra Sol, Altitude Tutor, formerly of the Horizon
+>
+> *He fixed nothing. He sat in it with me for a full day and then went back to the ship. I have
+> thought about that day for six years.*
+>
+> — unsigned, left at the Horizon door
+>
+> the sixth treatise, submitted by Thalen Orr, Keeper of the Far Game,
+> Head of the School of the Horizon
+<!-- /EPIGRAPH-BYLINE -->
+
 ---
 
 ## A Note Before the Exile
@@ -39,6 +55,15 @@ That is the thesis, and it comes with a limit case attached. This chapter applie
 
 ## Section 1: The Exile
 ### *Why the Sage Left the Village (And What the Village Lost)*
+
+<!-- MARGINALIA -->
+> *He took the accountability for my bad readings for a year while I learned to stop grading them.
+> He has never mentioned it, which I understand is the point, and I have decided not to respect it
+> any longer.*
+>
+> *He reads a room better than I do. He has never said so. I am saying it.*
+<!-- /MARGINALIA -->
+
 
 There was a time when the Sage lived inside the village's conversations.
 
@@ -105,6 +130,18 @@ Let's be precise about the terms so they don't blur together. Shadow is the move
 ## Section 2: The Distortion
 ### *What the Village Does When It Can't See the Games It's Playing*
 
+<!-- MARGINALIA -->
+> *A partial list of things this school runs on that exist nowhere in writing: the intake sequence,
+> the reason we stopped the second-year review, four agreements with three worlds, and the whole of
+> what we do when a student leaves badly.*
+>
+> *All of it is in his head. I have asked him twice to write it down. He says he will. He is very
+> busy.*
+>
+> *So the six of us wrote it down. It is finished. He does not know.*
+<!-- /MARGINALIA -->
+
+
 Here's what happened after the Sage stopped naming things: the village didn't stop playing games.
 
 It just stopped knowing which ones it was playing.
@@ -151,6 +188,17 @@ Without that question, help becomes interference. Diagnosis becomes lecturing. P
 
 ## Section 3: The Concept
 ### *What Panoramic Vision Actually Is (And Why It's Not What You've Been Told)*
+
+<!-- MARGINALIA -->
+> *I have taught the walk-away terms for eleven years and I require every student to state one
+> before entering a difficult room. He has stated one for me. He stated one for Maera, and for two
+> students I will not name. He is better at it than I am, and I teach it.*
+>
+> *He has never stated one for himself. So we have written one for him. It is short and it has a
+> date on it, and he will find it unreasonable, and he will comply — because he taught us that a
+> term stated plainly is not a negotiation.*
+<!-- /MARGINALIA -->
+
 
 The Shaman knows what they feel. The Challenger knows what line to draw. The Regent knows what tradition to carry forward. The Architect knows what to build. The Diplomat knows how to hold the field for people playing different games. Each one is right. Each one is also incomplete.
 
@@ -411,6 +459,18 @@ The practice has four moves. Run them in order the first several times. After th
 ## Section 5: The Damaged Self, Up Close
 ### *The Part That Turned a Difference Into a Defect*
 
+<!-- MARGINALIA -->
+> *I ask every student to draw the system and then name whose face disappeared from the diagram.*
+>
+> *I drew this school last spring, for an unrelated purpose. The diagram was accurate and complete
+> and I was pleased with it. I looked at it again this week and found the omission — and then found
+> that Sera had found it in the spring, and Maera the year before that.*
+>
+> *We have all been drawing the same diagram. None of us put him on it either. That is not an
+> oversight anyone can lay at his door.*
+<!-- /MARGINALIA -->
+
+
 You met the Damaged Self deep in the Forest, seventh in line, one gate before the center. The Protector decides whether you go in at all. The Controller decides how you're allowed to behave once you're inside. The Skeptic decides whether what you're reacting to was ever real. The Fixer-Healer decides whether the thing in front of you is in good enough condition to be given yourself to. The Victim decides what your having paid entitles you to. The Damaged Self decides something none of them touch: whether you are built correctly for any of this.
 
 At its best, this is the part of you that registers difference accurately. Something about how you process is not standard. That is frequently true, and at this altitude it is almost always true, because panoramic vision is not the common configuration. A part of you that can hold *I am running differently from the people around me* without panic is doing real work. It keeps you from expecting your own experience to be universal, which is the single most useful correction available to anyone who sees more than the people they're sitting with.
@@ -441,6 +501,18 @@ It shows up in a single beat. Someone asks you for help with something real. Som
 
 ### Which Game and Which Altitude: Why the Defect Story Always Sounds Like Humility
 
+<!-- MARGINALIA -->
+> *I held a verdict open once for four days. Everyone tells that story. Nobody tells the part where
+> somebody stood in front of a very angry room for four days holding nothing, and it was him, and
+> when I asked afterwards whether it had been difficult he said the room had been reasonable.*
+>
+> *The room was not reasonable. I have let him keep that sentence for nine years.*
+>
+> *You have read eight chapters of his handwriting. You know the sound he makes when he says he is
+> fine. We are counting on you having noticed.*
+<!-- /MARGINALIA -->
+
+
 You drew the Which Game ↔ Which Altitude axis in Section 3. Here is why the Damaged Self is nearly impossible to catch standing on it.
 
 The Damaged Self does not argue about the game. It argues about the instrument — and an argument about the instrument looks like the most rigorous thing available. *Before I read this situation, I should account for how my own wiring distorts the read.* That sentence is correct. It is also the entry point, because there is no natural end to it. Every read can be checked one more time against the possibility that you're the problem, and the checking feels like exactly the discipline this chapter has been teaching.
@@ -465,6 +537,14 @@ You know what your Damaged Self is for now. That is what you take out.
 
 ## Section 6: The Game
 ### *What Winning Looks Like at the Sage's Altitude*
+
+<!-- MARGINALIA -->
+> *He does not sleep the week before an intake. I have known this for eleven years. I leave food
+> where he will walk into it. He thinks the galley is badly organised.*
+>
+> *He is a good man and this ship is lucky. That is all I have to say about it.*
+<!-- /MARGINALIA -->
+
 
 The Sage's game is the meta-game. Not a game *about* something — the game of knowing which game you're in and choosing to play it.
 

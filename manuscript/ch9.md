@@ -1,6 +1,19 @@
 # CHAPTER 9: CREATING YOUR OWN ALLYSHIP GAME
 ## *The Return — From Playing the Game to Designing It*
 
+
+<!-- EPIGRAPH-BYLINE -->
+> *The ones who go do not write much. The ones who stay write constantly. Draw your own
+> conclusions.*
+>
+> — fourth-years, on the ones who go
+>
+> *She came back once, for a day, and did not stay. I have her map on the wall. It is wrong now
+> and I have not replaced it.*
+>
+> — Sethen, dock office
+<!-- /EPIGRAPH-BYLINE -->
+
 ---
 
 ## Section 1: The Exile
@@ -659,3 +672,18 @@ The book ends with a question:
 *What are you going to build?*
 
 Now go build yours — the village is waiting.
+
+---
+
+<!-- POSTCARD -->
+> *Bram —*
+>
+> *The galley here is badly organised. Nobody is fixing it.*
+>
+> *Eleven students. Two impossible, one of those will be very good. Tell Sera I have started a new
+> record and it is already in my head, which she will find annoying.*
+>
+> *The word for what we do here is not flattering. I have started using it.*
+>
+> *— T.*
+<!-- /POSTCARD -->

@@ -1,6 +1,32 @@
 # CHAPTER 7 — THE DIPLOMAT
 ## *The Terms That Let You Stay Without Disappearing*
 
+
+<!-- EPIGRAPH-BYLINE -->
+> *Cross made me say what would make staying dishonest. I could not answer. I have thought about
+> that failure more than any examination I passed.*
+>
+> — Nell Ferran, fourth-year, School of the Bridge
+>
+> *They translated me accurately and I still lost. I am told this is the honest version. I am
+> still deciding whether I prefer it.*
+>
+> — a delegate, second session
+>
+> the fifth treatise, submitted by Elian Cross, Keeper of the Walk-Away Terms,
+> Head of the School of the Bridge
+<!-- /EPIGRAPH-BYLINE -->
+
+<!-- MARGINALIA -->
+> *Elian makes every student answer three questions before they are allowed into a difficult room:
+> what you believe, what the other side needs, and what would make staying here dishonest. Students
+> find the third one strange. It is the only one Elian reads.*
+>
+> *They used to be the person the story was about. They will tell you the year they stopped. They
+> will not tell you what it cost, and I have watched them decline to tell four separate people —
+> warmly, in a way that left each of them feeling included in the refusal.*
+<!-- /MARGINALIA -->
+
 ---
 
 ## Section 1: The Diplomat's Thesis
@@ -70,6 +96,16 @@ Honest terms are the opposite instrument. **A term is a statement of what this f
 
 The difference is not tone. This is where the Diplomat's altitude gets it wrong most often, because tone is what this altitude is best at. An ultimatum said warmly is still an ultimatum. An honest term said flatly is still an honest term. The difference is structural: an ultimatum removes the other party's freedom to answer, and an honest term is the specific act of giving it back to them. You cannot decline something you were never told about. A field that does not know what your staying requires has never once had the chance to choose you.
 
+<!-- MARGINALIA -->
+> *This is the sentence in the treatise I have quoted most and understood last.*
+>
+> *For years I read it as being about other people failing to tell me things. Every set of terms I
+> have not stated was a set of terms I had already decided somebody would find unreasonable — which
+> means I ran their side of the conversation for them, alone, and then held the result against
+> them.*
+<!-- /MARGINALIA -->
+
+
 Which produces the sentence this chapter exists to disprove, and it is the most protected sentence the ideal reader carries.
 
 **The myth: allyship means never causing harm.**
@@ -81,6 +117,17 @@ Every move in this chapter is downstream of that myth. The chapter's job is to r
 ---
 
 ### Polarity Encounter — Care ↔ Impact
+
+<!-- MARGINALIA -->
+> *Elian's blind spot lives in this polarity, and it is the only blind spot on this staff that has
+> cost somebody other than its owner.*
+>
+> *They stay. They have stayed in rooms that had already chosen harm, well past the point where
+> staying did anything but lend the room their reputation. They know this. They will tell you the
+> walk-away terms are the hardest thing they teach because they are the thing they are worst at,
+> and then they will teach them better than anyone alive.*
+<!-- /MARGINALIA -->
+
 
 You met the Polarity Map in Chapter 3. Here is the Diplomat's pair.
 
@@ -190,6 +237,25 @@ Here is what it looks like when it is distorted: a person who abandons their own
 **[DISSATISFACTION → SATISFACTION] Alchemy 1 — Arrogant Distance → Generous Hearing**
 
 The Dissatisfaction here is **intellectual superiority** — the subtle, seductive belief that you understand both sides better than they understand themselves. That you are the one who can see what they cannot see about their own positions. This is the Translator's occupational hazard: the more fluent you become in multiple frameworks, the more you start to believe your translation is the truth rather than an interpretation.
+
+<!-- MARGINALIA -->
+> *Elian's fix is humility, and humility is the right fix for the ordinary case. The harder one
+> arrives with two names.*
+>
+> *After some deliberation the committee agreed to avoid the word condescension, on the grounds of
+> its vibe, and settled on meeting fluency. I voted for that. I would vote for it again. But let
+> there be no mistake about what it covers: meeting somebody where they are can mean stooping to
+> where they are, and if you do not do it gracefully enough they will feel talked down to — because
+> they are being talked down to, and grace is the only variable.*
+>
+> *I looked for a way around this for a long time. The reasoning runs: if everyone is equal, then
+> stepping down is a category error, and there ought to be some formulation that carries the meaning
+> without the step. I built several. They were elaborate. One of them had stages.*
+>
+> *Corin read it and asked how many of the stages were about the other person. Then: "You are
+> working very hard at not having to get good at something."*
+<!-- /MARGINALIA -->
+
 
 The alchemy moves through **humility into real curiosity**: you let the arrogant distance collapse into something more useful — the willingness to be changed by what you hear. Not "I know better than you" but "I don't know what I will understand after I really listen." The charge shifts from puffing up your own importance to generating the kind of open attention that actually makes translation possible.
 
@@ -362,6 +428,15 @@ Discernment at the close asks more than comfortable vagueness. It is worth it wh
 
 You met the Victim at the door of the Forest, sixth in line. The Protector decides whether you go in. The Controller decides how you are allowed to behave once you are inside. The Skeptic decides whether what you are reacting to was ever real. The Fixer-Healer decides whether the thing in front of you is in good enough condition to be given yourself to. The Victim decides something none of them touch: what your having paid entitles you to.
 
+<!-- MARGINALIA -->
+> *I found out a friend was going through something, and my first clear feeling was relief that she
+> had told me and not somebody else. Not concern. Relief — and underneath it a small satisfaction
+> that was entirely about my standing and not at all about her.*
+>
+> *I have looked at that from several angles since. It is still what it is.*
+<!-- /MARGINALIA -->
+
+
 At its best this is the part of you that keeps an exact ledger. Something cost you and the Victim will not let the cost be called nothing. It remembers the meetings you carried, the accommodations nobody asked for and everybody used, the years of being the reasonable one. Every entry is accurate. This matters more in relational work than anywhere else in the book, because relational work is the one arena where costs are routinely absorbed without ever being entered anywhere. Without a part of you keeping count, you will absorb harm indefinitely and call it fine, and the field will let you, because a person who does not send an invoice is a person nobody has to pay.
 
 The distortion is not that it keeps the ledger. The distortion is what it does with the balance.
@@ -466,6 +541,16 @@ The Diplomat translates: *"What I hear [Camp A] saying, in [Camp B]'s language, 
 ---
 
 ### Move 3: Close with Honest Terms
+
+<!-- MARGINALIA -->
+> *Half the time you will find you do not have a walk-away term at all, which is worth knowing
+> before the conversation rather than during it. The other half you will find that you do, and that
+> you have known it for months, which is worse and more useful.*
+>
+> *Either way — say it to yourself in one sentence before you go in. Not to decide anything. Only to
+> find out which half you are in.*
+<!-- /MARGINALIA -->
+
 
 *Prerequisite: Moves 1 and 2 — you cannot close on a field you have not named or translated*
 
@@ -593,6 +678,16 @@ The tell that a quest is alive is not enthusiasm. It is anticipation with some d
 
 ## Section 7: Recap and Transition
 ### *What the Diplomat Teaches — and Why the Sage Comes Next*
+
+<!-- MARGINALIA -->
+> *The school keeps a room set aside for conversations that need terms stated. It is bookable. It
+> has good chairs, a window, and a jug of water somebody refills.*
+>
+> *In eleven years I have known it used four times. The rest of us do this in corridors, standing,
+> at an angle, having decided in the moment that the room would make it too serious. The room is
+> immaculate. It has never been anything but ready.*
+<!-- /MARGINALIA -->
+
 
 The Diplomat's gift is not neutrality — it is the capacity to be a partisan who can still hold the field.
 

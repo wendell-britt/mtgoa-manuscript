@@ -1,6 +1,33 @@
 # CHAPTER 3: THE SHAMAN
 ## *Emotional Alchemy as the Foundation of Real Allyship*
 
+
+<!-- EPIGRAPH-BYLINE -->
+> *I said what the room felt like and I was wrong. Voss made me say the wrong one again the next
+> morning, out loud, so I would know the difference in my mouth.*
+>
+> — Ilse Marrow, second-year, School of the Body
+>
+> *She said the word before I did. I had been carrying it eleven years and she said it in a
+> corridor, like it was the weather.*
+>
+> — recorded at Sethen, third visit
+>
+> the first treatise, submitted by Maera Voss, Keeper of First Signals,
+> Head of the School of the Body
+<!-- /EPIGRAPH-BYLINE -->
+
+<!-- MARGINALIA -->
+> *Maera asks one question of everyone who comes to the Body: can you feel the field before you
+> explain it. She has been asking it a long time and she has never been satisfied with an answer,
+> including her own.*
+>
+> *She used to grade her readings. Scored them in a book, against what turned out to be true. She
+> stopped in her fourth year here and has described the time since as the first she could hear
+> anything at all. I mention it because she will not, and because you are shortly to be taught by
+> somebody who spent a decade marking her own homework.*
+<!-- /MARGINALIA -->
+
 This chapter is the longest in the book, and it is worth saying why before you start it.
 
 Every chapter after this one calls back to something taught here. The Challenger uses the read to know which line is worth drawing. The Regent uses it to tell an inheritance worth keeping from one that only feels familiar. The Architect, the Diplomat, the Sage — all of them are running the same instrument, and this is the chapter where you build it.
@@ -29,6 +56,20 @@ The Challenger didn't dislike the Shaman. The Challenger just believed that *som
 At first, this seemed right. There were problems that needed solving. The village needed someone who could draw a line in the sand. Someone who could say "this is unacceptable" without softening it. Someone who could move when others were still gathering information. The Challenger could do that. The Challenger *did* that.
 
 It worked. For a while.
+
+<!-- MARGINALIA -->
+> *We put in once at Oreve, which is a port and a poor one — the moorings were rotten and the
+> harbourmaster kept his ledgers in his head and got them wrong.*
+>
+> *Their council chamber had no chairs. You stood, and the first business of any session was that
+> somebody said out loud what the room felt like, and if nobody agreed with the reading, somebody
+> else offered a different one, and this went on until the readings stopped changing. Then they
+> began. I asked a clerk how long the practice had been in place and she did not understand the
+> question. She thought I was asking when the building went up.*
+>
+> *We were there eleven days. I have thought about it more than is useful.*
+<!-- /MARGINALIA -->
+
 
 The Challenger's power required something: the ability to split. To separate the feeling of a situation from the action required to change it. To ignore, strategically, the emotions that might slow you down or make you hesitate. The Challenger needed to be able to say *my discomfort doesn't matter right now. What matters is the action.*
 
@@ -152,6 +193,16 @@ That is the Shaman's superpower. That is what the village lost when the Shaman l
 
 ### Polarity Encounter — Feeling ↔ Function
 
+<!-- MARGINALIA -->
+> *Watch for the point where you get good at this and it becomes enough.*
+>
+> *You will start reading rooms accurately, which is a real skill and rarer than it sounds, and
+> each accurate read will feel like a thing accomplished. It is not one. A read that never becomes
+> a move is a very sophisticated way of standing still, and I have watched people build whole
+> careers in that spot and be admired the entire time.*
+<!-- /MARGINALIA -->
+
+
 Everything above is one pole.
 
 A polarity is two capacities that are both right and that turn costly the moment they come apart. The full map for working one comes later in this chapter. What you need here is the pair itself, because the chapter is built on it and the back half will hand you the other end.
@@ -186,6 +237,16 @@ The WAVE-Spiral is not a single moment. It's a progression through five stages t
 ---
 
 ### The Five Stages of the WAVE-Spiral
+
+<!-- MARGINALIA -->
+> *Maera says the spiral can run in ten seconds. She is right, and she has been practising for
+> thirty years.*
+>
+> *For your first year, run two: notice, and say. The other three are what you do afterwards, on
+> your own time, and they are where the training actually happens. She tells you five first because
+> students who learn two never come back for the other three.*
+<!-- /MARGINALIA -->
+
 
 #### Stage 1: Wake
 **What it means:** Notice the emotional signal. Detect activation.
@@ -313,6 +374,13 @@ This stage can happen in real-time (in the next ten seconds) or can unfold over 
 
 ### The Five Elements: How Different Feelings Flow Through the WAVE-Spiral
 
+<!-- MARGINALIA -->
+> *The Body teaches these in a low-lit room with the windows open, on the theory that a student who
+> is slightly cold will stop pretending to be comfortable. I have sat in. It works, and I resent
+> that it works.*
+<!-- /MARGINALIA -->
+
+
 Every feeling you experience falls into one of five channels. Understanding which channel you're in helps you know what the feeling is trying to teach, and what move to make next.
 
 #### The 5 Channels and Their Lessons
@@ -330,6 +398,14 @@ Each channel carries intelligence. You're not trying to "get over" any of them. 
 ---
 
 *Channel-by-channel mechanics, the triage rule, and four worked scenarios: Appendix — The Five Channels in Practice.*
+
+<!-- MARGINALIA -->
+> *Triage is the part of this chapter you will actually use, and it is in an appendix. Maera does
+> not believe anybody should be handed the shortcut before they have felt why it is one.*
+>
+> *I disagree, which is why I have told you where it is.*
+<!-- /MARGINALIA -->
+
 
 ### The Satisfied States: What the Feeling Is For
 
@@ -384,6 +460,19 @@ You do not need to score the move. You need to tell the truth about what it did 
 ---
 
 ### The Shaman's Superpower: Knowing Which Move to Make
+
+<!-- MARGINALIA -->
+> *The first time I named a charge out loud in a room that had agreed not to, I got it wrong. Badly
+> wrong. I named grief and it was rage, and I was corrected at some volume in front of eleven
+> people.*
+>
+> *It worked anyway. That is the part nobody warns you about — the room opened regardless, because
+> what mattered was that somebody was willing to be wrong out loud about something real. I would
+> not build a technique on it. I mention it because you are going to be wrong the first time, and
+> it will not be the disaster you are picturing. It will be a smaller and more specific disaster,
+> and you will survive it.*
+<!-- /MARGINALIA -->
+
 
 The Shaman's mastery is not in feeling feelings well. It's in knowing — in real-time — which WAVE-Spiral stage you're in, which channel you're in, and what move to make next.
 

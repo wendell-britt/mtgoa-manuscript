@@ -33,11 +33,38 @@ drifted from the files. Measure instead — and use one measure consistently:
 python3 -c "import glob;print(sum(len(open(f).read().split()) for f in glob.glob('manuscript/ch*.md')))"
 ```
 
-That reports **97,738**, the figure in `MANIFEST.md`. Note that `wc -w` reports
-96,260 for the same files — it splits differently around em dashes and markdown
-punctuation. Both are correct; they answer different questions. Quote the
-whitespace-split figure, because that is what the manifest and every planning
-doc use.
+Since 2026-07-28 that counts the marginalia too, and reports **102,875**. Strip
+first for the body-text figure:
+
+```
+python3 marginalia/compile.py --strip     # -> 97,738 body text
+python3 marginalia/compile.py --apply     # put the frame back
+```
+
+**97,738** is the body text and the figure in `MANIFEST.md`. The frame adds
+**5,137**. Note that `wc -w` reports 96,260 for the same body text — it splits
+differently around em dashes and markdown punctuation. Both are correct; they
+answer different questions. Quote the whitespace-split figure, because that is
+what the manifest and every planning doc use.
+
+## The marginalia frame
+
+As of 2026-07-28 the chapters carry the Calrunia frame: each is a document by a
+named character, annotated in the margin by somebody else. It lives inside the
+canonical files, wrapped in HTML comments, in `manuscript/ch2.md` – `ch9.md`.
+Chapter 1 carries none.
+
+Do not hand-edit a marginalia block in a chapter file. Edit `marginalia/insertions.py`,
+then `python3 marginalia/compile.py --strip && python3 marginalia/compile.py --apply`.
+Strip before measuring — an instrument run over a chapter with marginalia in it is
+counting two voices at once.
+
+```
+python3 marginalia/compile.py --strip    # before running instruments
+python3 marginalia/compile.py --apply    # put it back
+```
+
+See `marginalia/README.md` and `marginalia/HANDOFF.md`.
 
 ## The rest of the durable set
 
