@@ -135,7 +135,7 @@ Here's what this chapter is not: a defense of the organizations that used tradit
 
 Here's what it is: a question about what you built instead, and whether it lasted, and whether you can see the connection.
 
-The Regent's gift is the ability to pass something down — to build a thing that is bigger than any one person's presence in it, that knows how to receive a new person and what to give them, that can survive the loss of its founder. Loyalty faces the people who came before. The gift faces the ones who come after. That gift is distinct from conservatism, from rigidity, and from "this is how we've always done it."
+The Regent's gift is the ability to pass something down — to build a thing that is bigger than any one person's presence in it, that knows how to receive a new person and what to give them, that can survive the loss of its founder. The gift is loyalty turned to face the people who have not arrived yet. That gift is distinct from conservatism, from rigidity, and from "this is how we've always done it."
 
 It is what makes the things you build last longer than you do.
 
@@ -208,7 +208,7 @@ Honor what was passed means keeping the form, protecting what works, staying loy
 
 Reform what no longer serves means updating the form when the essence requires it. Naming what broke without dismantling what still holds. Changing what loyalty actually demands, not just what loyalty has always looked like.
 
-You know this tension from the inside. The practices you inherited from the work — the frameworks, the vocabulary, the rituals someone before you built with real stakes — some of them are still load-bearing. Some of them became something else: a form that names the thing without doing the thing. You know which ones. You've stood in circles where the acknowledgment was said and the land was not returned. You've used vocabulary that used to mean something and now signals membership more than it moves anything. You keep the forms because dropping them would feel like a betrayal of someone whose effort you still respect. That is the Regent's pair in active tension. From the inside it feels like weakness, and the feeling is how you know both poles are still live.
+You know this tension from the inside. The practices you inherited from the work — the frameworks, the vocabulary, the rituals someone before you built with real stakes — some of them are still load-bearing. Some of them became something else: a form that names the thing without doing the thing. You know which ones. You've stood in circles where the acknowledgment was said and the land was not returned. You've used vocabulary that used to mean something and now signals membership more than it moves anything. You keep the forms because dropping them would feel like a betrayal of someone whose effort you still respect. That is the Regent's pair in active tension. Holding two live poles feels like weakness from the inside.
 
 The draw is solo. Not a conflict between you and another person. Your inheritance. Your axis. What you personally received, kept, and are now in the middle of deciding about.
 

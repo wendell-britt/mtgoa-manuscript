@@ -222,7 +222,7 @@ Not *instead of* choosing. *Along with* choosing.
 
 ### *The Ladder Underneath: What the Sage Knows That the Other Faces Cannot See*
 
-The Sage's journey runs inward and then back. Everyone expects it to run up. At each Face, you were doing the work and also watching yourself do it. That watcher is the Sage, and what the watcher accumulates is a specific kind of knowledge: the gift and the limit of every Face, held at the same time.
+The Sage's journey runs inward and then back. It gains its altitude by going in. At each Face, you were doing the work and also watching yourself do it. That watcher is the Sage, and what the watcher accumulates is a specific kind of knowledge: the gift and the limit of every Face, held at the same time.
 
 **The Shaman's feeling is always true and always incomplete.** True, because feeling is information — the body reports honestly on what it encounters. Incomplete, because a feeling doesn't tell you what to do about it. The Shaman knows what's present. The Sage knows what game the Shaman is playing by feeling it, and whether that game is the one the moment needs.
 
