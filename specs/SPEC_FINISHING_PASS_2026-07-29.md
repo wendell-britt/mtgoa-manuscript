@@ -134,6 +134,53 @@ candidates, added to W5:
 | ch2:313 | empty opener | *"At its core, it's the body's…"* → *"It is the body's…"* |
 | ch7:296 | empty phrase | *"in terms of sheer presence"* — adjudicate; may be spoken register |
 
+## 2c · Does the process work? — measured, and how to raise throughput
+
+**39% of 2026-07-29 was rework.** 94 edit operations across 55 distinct sites;
+37 of them were re-editing edits made earlier the same day. The twelve synthesis
+sentences were rewritten four times. Every correction came from Wendell, none
+from the toolchain.
+
+The three costly loops, and what each actually cost:
+
+| loop | cost | root cause |
+|---|---|---|
+| 25 stopping conditions drafted in the banned shape | full redraft | the prescribed form was never tested against RULE_COLLISIONS |
+| cut → essence → synthesize → voice | 3 extra passes over 12 sentences | the method did not exist yet; each pass discovered the next |
+| `prose_diet` normalised to the book | a full turn | the baseline was circular, so the tool could not fail the book |
+
+None was caught by a tool. All three were caught by reading.
+
+### `instruments/test_toolchain.py`
+
+Every one of those failures is now a case with a known answer — 21 assertions
+covering the detector, the gate's case sensitivity, the register ruler, and
+frame round-tripping. **Run it before trusting a number and after touching any
+regex.** It found a real thing on its first run: two sites adjudicated as keeps
+still fire the detector, because ranking-versus-denying is a semantic judgment a
+regex cannot make. Those are recorded as known false positives asserted to
+*keep* firing — silencing them would almost certainly stop catching real ones.
+
+**The false-positive rate is ~12%** (batch 1: 25 candidates, 22 real, 3 false).
+Plan adjudication time against that, and expect ~6 in the remaining 52.
+
+### Where throughput actually comes from
+
+Batch 2 cleared 30 sites in one pass with zero rework, against batch 1's 25
+sites in four. The difference was not effort. It was that the method existed in
+writing beforehand. So:
+
+1. **Write the method down before the second instance, not after the fourth.**
+2. **Test the prescription before applying it at scale.** The 25 tests were
+   drafted, gate-checked and presented before anyone asked whether the
+   prescribed form was legal. It was not.
+3. **Never let a tool grade against its own subject.** A baseline drawn from the
+   thing being measured cannot fail it.
+4. **Run one file at a time, whole.** Two detector bugs — the cross-paragraph
+   pair and the anchor double-count — came from scanning lines rather than files.
+5. **A clean tool report is not evidence.** See §2b: the skill and `prose_diet`
+   barely overlap, and neither sees what the other does.
+
 ## 3 · Measured baseline, 2026-07-29
 
 Body surface = canon with the frame stripped, all nine chapters. Margin surface
