@@ -461,7 +461,7 @@ Speak AS the part. One paragraph. No "I notice a part of me."
 
 *Example shape:* "I push because I love what we're building enough to risk being unwelcome. I say no because the line protects the work — and the people in it — from slow death by accommodation."
 
-**4. RECEIPT** — Sit thirty seconds. Did the charge move? Up, down, into clarity? That's fuel returning — available for a clean line, not an explosion.
+**4. RECEIPT.** Sit thirty seconds. Did the charge move? Up, down, into clarity? That's fuel returning — available for a clean line, not an explosion.
 
 **→ app:** Capture what landed. `/shadow/321`
 
@@ -688,15 +688,15 @@ Notice what happens to the titles as you go down. The Wake Up row names four thi
 
 Draw from your twenty rather than the hundred and twenty — though not from a single row of them. A daemon is a rule, and a rule in force the whole way down produces a different failure at every move. The Skeptic's five:
 
-**Wake Up** — it notices resistance, always somebody else's. What resists being seen gets located outside you before the noticing has finished, and the hand holding the instrument escapes it.
+**Wake Up.** It notices resistance, always somebody else's. What resists being seen gets located outside you before the noticing has finished, and the hand holding the instrument escapes it.
 
-**Open Up** — a feeling whose warrant still hangs open cannot be stayed with; staying would be credulity. So the discomfort goes into escrow until the verdict, and the verdict does not release it.
+**Open Up.** A feeling whose warrant still hangs open cannot be stayed with; staying would be credulity. So the discomfort goes into escrow until the verdict, and the verdict does not release it.
 
-**Clean Up** — a verdict about what something means is an interpretation. The move gets run, and the output gets called a finding.
+**Clean Up.** A verdict about what something means is an interpretation. The move gets run, and the output gets called a finding.
 
-**Grow Up** — asked what must evolve, it returns better discernment. Sharper standards, faster detection of overreaction: an upgrade to the instrument that is the problem.
+**Grow Up.** Asked what must evolve, it returns better discernment. Sharper standards, faster detection of overreaction: an upgrade to the instrument that is the problem.
 
-**Show Up** — an assessment ships where an intervention was called for. The critique is accurate, often the best thing said at the table, and nothing in the world moves.
+**Show Up.** An assessment ships where an intervention was called for. The critique is accurate, often the best thing said at the table, and nothing in the world moves.
 
 It bites hardest at Clean Up. The Skeptic's remit is whether the thing was ever real, and reality gets settled at interpretation. The other four rows run that same ruling early or late.
 

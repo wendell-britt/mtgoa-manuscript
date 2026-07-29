@@ -258,15 +258,15 @@ This section teaches the Regent's cycle: how to work with your inheritance consc
 
 The Regent works with loyalty in five distinct modes. Each names a different relationship to what was passed down.
 
-**1. The Custodian** — The mode of caring for what exists, ahead of changing it and ahead of judging it. Just noticing: this is here. This has lasted. Someone tended this before me. *What have I been given that still works?*
+**1. The Custodian.** The mode of caring for what exists, ahead of changing it and ahead of judging it. Just noticing: this is here. This has lasted. Someone tended this before me. *What have I been given that still works?*
 
-**2. The Inheritor** — The mode of receiving — including receiving the damage. The Inheritor knows that every inheritance carries both medicine and wound. *What came with my inheritance that I didn't choose?*
+**2. The Inheritor.** The mode of receiving — including receiving the damage. The Inheritor knows that every inheritance carries both medicine and wound. *What came with my inheritance that I didn't choose?*
 
-**3. The Teacher** — The mode of passing it forward in a form the next person can actually receive. The Teacher knows that a tradition that cannot be received is a tradition that will die. *Who is coming after me, and what do they actually need?*
+**3. The Teacher.** The mode of passing it forward in a form the next person can actually receive. The Teacher knows that a tradition that cannot be received is a tradition that will die. *Who is coming after me, and what do they actually need?*
 
-**4. The Reformer** — The mode of changing the tradition while honoring the lineage. The Reformer loves what came before enough to change what no longer works. *What needs to change so this survives?*
+**4. The Reformer.** The mode of changing the tradition while honoring the lineage. The Reformer loves what came before enough to change what no longer works. *What needs to change so this survives?*
 
-**5. The Keeper of Vows** — The mode of honoring commitment across time, especially when no one is watching. The Keeper of Vows does not perform loyalty. The Keeper of Vows lives it. *What did I say I would do, and am I still doing it?*
+**5. The Keeper of Vows.** The mode of honoring commitment across time, especially when no one is watching. The Keeper of Vows does not perform loyalty. The Keeper of Vows lives it. *What did I say I would do, and am I still doing it?*
 
 ### EA Channel Alignment — How Each Mode Moves Energy
 
@@ -296,15 +296,15 @@ The Regent's practice is generational, not moment-to-moment. Energy still flows.
 
 The Regent's practice moves through five stages. Unlike the Shaman's WAVE, fast enough to happen in minutes, the Regent's cycle moves at the speed of years.
 
-**Inherit** — You receive what was handed to you. This includes things you would not have chosen. Family patterns. Organizational cultures. Traditions with their wounds attached. The first move acknowledges what arrived, before you change any of it: *I am carrying this. I did not create this. It is mine now.*
+**Inherit.** You receive what was handed to you. This includes things you would not have chosen. Family patterns. Organizational cultures. Traditions with their wounds attached. The first move acknowledges what arrived, before you change any of it: *I am carrying this. I did not create this. It is mine now.*
 
-**Honor** — You name what in the inheritance still serves. Not everything is broken. Some of what you received is load-bearing — remove it and the whole structure collapses. *This part is medicine. This part was always the wound. I am going to stop blaming the inheritance and start sorting it.*
+**Honor.** You name what in the inheritance still serves. Not everything is broken. Some of what you received is load-bearing — remove it and the whole structure collapses. *This part is medicine. This part was always the wound. I am going to stop blaming the inheritance and start sorting it.*
 
-**Steward** — You carry it and maintain it. This is the longest stage, and the least visible. The practice of showing up, again and again, to do the work the inheritance requires: the meeting that gets run because someone has to run it, the vow kept on a day nobody was watching, the form held steady long enough for the people inside it to trust that it will be there next year. Stewarding costs what it takes to keep something alive while you figure out what it needs. It looks like doing nothing and costs more. *I am not just preserving this. I am tending it.*
+**Steward.** You carry it and maintain it. This is the longest stage, and the least visible. The practice of showing up, again and again, to do the work the inheritance requires: the meeting that gets run because someone has to run it, the vow kept on a day nobody was watching, the form held steady long enough for the people inside it to trust that it will be there next year. Stewarding costs what it takes to keep something alive while you figure out what it needs. It looks like doing nothing and costs more. *I am not just preserving this. I am tending it.*
 
-**Reform** — You change what no longer serves, while it is still yours to carry. The sequence used to hide this stage inside Steward, and hiding it there is how a Regent spends thirty years tending something they knew in year four had stopped working. Reform is a separate act with a separate cost, and the cost is the thing that makes it separate: stewardship earns you loyalty, and reform spends it. No version of it costs nothing. That is precisely why it gets folded into the tending, where it can be postponed indefinitely as a thing you are already doing. *This part has to change, and I am the one who has to say so, out loud, to people who will hear it as disloyalty.*
+**Reform.** You change what no longer serves, while it is still yours to carry. The sequence used to hide this stage inside Steward, and hiding it there is how a Regent spends thirty years tending something they knew in year four had stopped working. Reform is a separate act with a separate cost, and the cost is the thing that makes it separate: stewardship earns you loyalty, and reform spends it. No version of it costs nothing. That is precisely why it gets folded into the tending, where it can be postponed indefinitely as a thing you are already doing. *This part has to change, and I am the one who has to say so, out loud, to people who will hear it as disloyalty.*
 
-**Entrust** — You hand it on, cleanly, to whoever comes next. The hardest stage. The Regent's test asks whether you can let go without abandoning — whether you can pass the tradition forward without clinging to it. *Have I given the next person enough to run with, without crushing them under the weight of what I thought it should be?*
+**Entrust.** You hand it on, cleanly, to whoever comes next. The hardest stage. The Regent's test asks whether you can let go without abandoning — whether you can pass the tradition forward without clinging to it. *Have I given the next person enough to run with, without crushing them under the weight of what I thought it should be?*
 
 ---
 
@@ -535,15 +535,15 @@ The Regent's Show Up row is the only one in the deck built entirely out of verbs
 
 Draw from your twenty rather than the hundred and twenty — though not from a single row. A daemon is a rule in force at every move, which means five failures rather than one. The Fixer-Healer's:
 
-**Wake Up** — asked what deserves attention, it returns what is damaged. Those are not the same list. You will never accept an inheritance you can only see the breaks in.
+**Wake Up.** Asked what deserves attention, it returns what is damaged. Those are not the same list. You will never accept an inheritance you can only see the breaks in.
 
-**Open Up** — *can I stay with this?* Yes. Instantly, and in the wrong way: yes, personally, out of my own memory, indefinitely. That is standing in for it. Holding it would have cost more.
+**Open Up:** *can I stay with this?* Yes. Instantly, and in the wrong way: yes, personally, out of my own memory, indefinitely. That is standing in for it. Holding it would have cost more.
 
-**Clean Up** — it names the capability the structure lacks and supplies it in the same motion. Diagnosis and workaround arrive together, so the gap never stays visible long enough for anyone else to fill.
+**Clean Up.** It names the capability the structure lacks and supplies it in the same motion. Diagnosis and workaround arrive together, so the gap never stays visible long enough for anyone else to fill.
 
-**Grow Up** — what deserves practice becomes what deserves rescue. It practices carrying more. The carrier gets stronger; the structure does not.
+**Grow Up.** What deserves practice becomes what deserves rescue. It practices carrying more. The carrier gets stronger; the structure does not.
 
-**Show Up** — the stewardship it creates is stewardship only it can sustain. Real support, undocumented, undelegated, available exactly as long as you are.
+**Show Up.** The stewardship it creates is stewardship only it can sustain. Real support, undocumented, undelegated, available exactly as long as you are.
 
 Where it bites is Open Up. Everything else on that list follows from a thing never having been taken on — the damage inventory, the personal workaround, the practice of carrying, the support nobody else can sustain. Accept the inheritance unrepaired and four of these lose their reason to exist.
 

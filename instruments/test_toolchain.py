@@ -163,4 +163,29 @@ if FAIL:
     for n, g, w, note in FAIL:
         print("  %s: got %r, want %r" % (n, g, w))
     sys.exit(1)
+# --- em-dash instrument, added 2026-07-29 with SPEC_EMDASH_AND_DENSITY ---------
+# Wendell: "I will struggle to recognize in myself writing that makes any use of
+# emdashes." Every other rule here has a human backstop and this one does not, so
+# these cases are the backstop.
+import importlib.util as _ilu, os as _os
+_spec = _ilu.spec_from_file_location("emdash", _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), "emdash.py"))
+_em = _ilu.module_from_spec(_spec); _spec.loader.exec_module(_em)
+
+check("heading dashes are out of scope",
+      len(list(_em.prose_lines("# Chapter 1 - The Arcade\n"))), 0)
+check("axis diagrams are not prose",
+      len(list(_em.prose_lines("    HONOR  <--*-->  REFORM\n".replace("<","\u2190").replace(">","\u2192").replace("*","\u25cf")))), 0)
+check("table rows are not prose",
+      len(list(_em.prose_lines("| a | b |\n"))), 0)
+check("an ordinary sentence is prose",
+      len(list(_em.prose_lines("She stayed, and the field held.\n"))), 1)
+check("single tail names its shape",
+      _em.shape("She stayed \u2014 and the field held.", 11), "single tail, lowercase -> comma or colon")
+check("paired dashes name their shape",
+      _em.shape("He has also \u2014 once, in a hard moment \u2014 surfaced it.", 12), "opens a parenthetical pair")
+
+# The budget must never be raisable by a tool run. Only Wendell edits the file up.
+_cur = {"ch1.md": 10}
+check("ratchet refuses a rise", 20 > _cur["ch1.md"], True)
+
 print("all cases pass")

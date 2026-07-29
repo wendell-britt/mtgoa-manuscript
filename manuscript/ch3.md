@@ -822,15 +822,15 @@ Draw from your twenty rather than the hundred and twenty. Which twenty is easy. 
 
 They are not clean. A daemon is not a defect at one stage of the spiral. It is a rule, and the rule is in force the whole way down. Run the Controller through all five moves and five different failures come out, one per row — exactly what makes the grid worth having, because each of those failures has cards sitting beside it.
 
-**Wake Up** — the signal arrives at full strength and gets logged at a strength you are cleared to be seen having. Nothing is missed. Everything is downgraded on the way in.
+**Wake Up.** The signal arrives at full strength and gets logged at a strength you are cleared to be seen having. Nothing is missed. Everything is downgraded on the way in.
 
-**Open Up** — the experience gets managed before it is undergone. The record is complete. The undergoing did not happen.
+**Open Up.** The experience gets managed before it is undergone. The record is complete. The undergoing did not happen.
 
-**Clean Up** — it names the channel that has a sanctioned output. Heat gets filed as caution, because caution comes with approved behavior attached and heat does not.
+**Clean Up.** It names the channel that has a sanctioned output. Heat gets filed as caution, because caution comes with approved behavior attached and heat does not.
 
-**Grow Up** — asked what wants to grow, it answers composure. Every time. The capacity that actually wants to grow is the capacity to be seen partway through something, and that one cannot be named, because naming it would name an unpermitted behavior.
+**Grow Up.** Asked what wants to grow, it answers composure. Every time. The capacity that actually wants to grow is the capacity to be seen partway through something, and that one cannot be named, because naming it would name an unpermitted behavior.
 
-**Show Up** — it routes to the domain with the least exposure. The post rather than the conversation. Awareness rather than action, with strategy given as the reason.
+**Show Up.** It routes to the domain with the least exposure. The post rather than the conversation. Awareness rather than action, with strategy given as the reason.
 
 Five failures, one rule. The rule bites in a single place. The Controller's whole remit covers how you are permitted to behave while feeling something, and behavior is at stake the moment an experience would show — which is Open Up. The other four are what the rule costs upstream and downstream of the place it bites. Catch it there and the rest have nothing to propagate from.
 

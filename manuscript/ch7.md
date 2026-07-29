@@ -57,15 +57,15 @@ People commonly misunderstand the Diplomat's stance. Niceness, conflict-avoidanc
 
 The Diplomat operates through five channels:
 
-**Bridge-Builder** — The channel of initial entry. Making contact. Showing up curious rather than defended. Creating the possibility of relationship without yet knowing what the relationship will require.
+**Bridge-Builder.** The channel of initial entry. Making contact. Showing up curious rather than defended. Creating the possibility of relationship without yet knowing what the relationship will require.
 
-**Translator** — The channel of rendering meaning. Taking what one party in the field means and translating it into terms another party can actually hear. Not softening, not betraying — bridging the gap between ways of being in the world.
+**Translator.** The channel of rendering meaning. Taking what one party in the field means and translating it into terms another party can actually hear. Not softening, not betraying — bridging the gap between ways of being in the world.
 
-**Field-Holder** — The channel of maintained safety. The work of keeping the relational space open and charged enough that difficult conversations remain possible. Not solving — holding.
+**Field-Holder.** The channel of maintained safety. The work of keeping the relational space open and charged enough that difficult conversations remain possible. Not solving — holding.
 
-**Repairer** — The channel of healing ruptures. The work of addressing harm that has occurred within the field without pretending the harm did not occur, and without letting the repair process create new harm.
+**Repairer.** The channel of healing ruptures. The work of addressing harm that has occurred within the field without pretending the harm did not occur, and without letting the repair process create new harm.
 
-**Integrative Negotiator** — The channel of honest closing. Surfacing stakes, interests, and sacrifices; naming what the agreement must hold for everyone — and closing so the field moves.
+**Integrative Negotiator.** The channel of honest closing. Surfacing stakes, interests, and sacrifices; naming what the agreement must hold for everyone — and closing so the field moves.
 
 ### EA Channel Alignment — How Each Mode Moves Energy
 
@@ -646,15 +646,15 @@ Read the left-hand column and you are reading this chapter. Wake Up is a channel
 
 Draw from your twenty rather than the hundred and twenty — though not from a single row. A daemon is a rule in force at every move, which means five failures rather than one. The Victim's:
 
-**Wake Up** — it notices relationships accurately and files them by balance. Asked what relational dynamics matter, it returns who owes whom. The reading is good. The output is an account.
+**Wake Up.** It notices relationships accurately and files them by balance. Asked what relational dynamics matter, it returns who owes whom. The reading is good. The output is an account.
 
-**Open Up** — compassion goes out at full strength in every direction except one. Whatever anyone says about your impact becomes the single thing in the field nobody can relate to compassionately, because relating to it compassionately would mean holding it as true.
+**Open Up.** Compassion goes out at full strength in every direction except one. Whatever anyone says about your impact becomes the single thing in the field nobody can relate to compassionately, because relating to it compassionately would mean holding it as true.
 
-**Clean Up** — it chooses the destination channel that keeps the ledger open. Water over Fire, every time. Sadness reads as blameless and asks nothing of anyone; anger would have to make a request, and a request can be refused.
+**Clean Up.** It chooses the destination channel that keeps the ledger open. Water over Fire, every time. Sadness reads as blameless and asks nothing of anyone; anger would have to make a request, and a request can be refused.
 
-**Grow Up** — asked how this affects others, it answers what others will finally understand about what you carried. Growth as vindication. The people the growth is supposed to reach become the audience for the account.
+**Grow Up.** Asked how this affects others, it answers what others will finally understand about what you carried. Growth as vindication. The people the growth is supposed to reach become the audience for the account.
 
-**Show Up** — the relationship it creates is a witness list. Who must be involved becomes who will corroborate, and the field fills with people who know your side of it and have never met the other one.
+**Show Up.** The relationship it creates is a witness list. Who must be involved becomes who will corroborate, and the field fills with people who know your side of it and have never met the other one.
 
 Where it bites is Open Up. The Victim's remit is what your having paid entitles you to, and entitlement is settled at the exact moment an impact would be received. The other four rows are that settlement arriving early or arriving late.
 

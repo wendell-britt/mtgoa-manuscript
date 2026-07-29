@@ -493,15 +493,15 @@ Read the left-hand column and you are reading this chapter. Wake Up is a mode de
 
 Draw from your twenty rather than the hundred and twenty — though not from a single row. The daemon is a rule, and it is in force at all five moves. The Emotional Body's five:
 
-**Wake Up** — it notices what is convertible. A signal with no structural output does not register as potential; it registers as noise, or as somebody else's department.
+**Wake Up.** It notices what is convertible. A signal with no structural output does not register as potential; it registers as noise, or as somebody else's department.
 
-**Open Up** — nothing is received as energy. It arrives already a proposal. You end up holding the plan the charge became rather than the charge. That is how a situation gets described perfectly by someone who feels nothing about it.
+**Open Up.** Nothing is received as energy. It arrives already a proposal. You end up holding the plan the charge became rather than the charge. That is how a situation gets described perfectly by someone who feels nothing about it.
 
-**Clean Up** — *transcend, translate, or neutralize* is a real choice with three real answers. Left alone the mechanism returns the same one, at speed, and the speed gets called competence.
+**Clean Up:** *transcend, translate, or neutralize* is a real choice with three real answers. Left alone the mechanism returns the same one, at speed, and the speed gets called competence.
 
-**Grow Up** — asked what capability wants strengthening, it strengthens the conversion. The pipeline gets faster. Nothing new gets built, because what wants to grow sits on the far side of a feeling that never finished.
+**Grow Up.** Asked what capability wants strengthening, it strengthens the conversion. The pipeline gets faster. Nothing new gets built, because what wants to grow sits on the far side of a feeling that never finished.
 
-**Show Up** — it builds the structure that makes the conversion permanent. The thing that needed feeling now has a process attached to it, and nobody will have to feel it again. Including the people it happened to.
+**Show Up.** It builds the structure that makes the conversion permanent. The thing that needed feeling now has a process attached to it, and nobody will have to feel it again. Including the people it happened to.
 
 Where it bites is Clean Up. Selecting a transformation is a real move with a real place in the sequence, and this one is being run early and without authorization. The four rows around it are that unauthorized selection showing up before and after itself.
 

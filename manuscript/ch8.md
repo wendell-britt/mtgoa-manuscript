@@ -275,15 +275,15 @@ So before you trust the view, check the one thing that gives it away. Are you in
 
 The Sage sees in five modes. Each one is a tool. Each one, run wrong, becomes a shadow.
 
-**Panoramic Seer** — The mode of taking in the whole field, even briefly. Holding six games at once without collapsing into any of them.
+**Panoramic Seer.** The mode of taking in the whole field, even briefly. Holding six games at once without collapsing into any of them.
 
-**Game-Switcher** — The mode of deliberate movement between games. Stepping into the power game because the moment needs it, and going back down without feeling diminished.
+**Game-Switcher.** The mode of deliberate movement between games. Stepping into the power game because the moment needs it, and going back down without feeling diminished.
 
-**Diagnostician** — The mode of naming out loud which game a group is in, and what the stuckness costs them. Serviceable, precise, kind.
+**Diagnostician.** The mode of naming out loud which game a group is in, and what the stuckness costs them. Serviceable, precise, kind.
 
-**Liberator** — The mode of putting a game down when it's no longer serving. Freedom for yourself and for the people who played it with you.
+**Liberator.** The mode of putting a game down when it's no longer serving. Freedom for yourself and for the people who played it with you.
 
-**Returner** — The mode of coming back into the narrower games without condescension. Dignity intact for everyone.
+**Returner.** The mode of coming back into the narrower games without condescension. Dignity intact for everyone.
 
 ### EA Channel Alignment — How Each Mode Moves Energy
 
@@ -644,15 +644,15 @@ Read the left-hand column and you're reading this chapter. Wake Up is the Panora
 
 Draw from your twenty rather than the hundred and twenty — though not from a single row. A daemon is a rule in force at every move, which means five failures rather than one. The Damaged Self's:
 
-**Wake Up** — the signal registers, and alongside it registers the fact that you noticed it the way you notice things — the suspect way. The noticing is accurate. It arrives with a footnote about the noticer, and the footnote runs longer than the notice.
+**Wake Up.** The signal registers, and alongside it registers the fact that you noticed it the way you notice things — the suspect way. The noticing is accurate. It arrives with a footnote about the noticer, and the footnote runs longer than the notice.
 
-**Open Up** — you can stay with the experience as long as a second process runs underneath, holding the staying to the standard of somebody who doesn't have your problem. The witnessing happens. It happens under audit, which never amounts to the same thing.
+**Open Up.** You can stay with the experience as long as a second process runs underneath, holding the staying to the standard of somebody who doesn't have your problem. The witnessing happens. It happens under audit, which never amounts to the same thing.
 
-**Clean Up** — asked which channel, it returns the diagnosis instead. *This is my thing* is not Fire, Water, Metal, Earth, or Wood. It's a category that swallows all five, and once it's on the table nothing gets named specifically enough to move.
+**Clean Up.** Asked which channel, it returns the diagnosis instead. *This is my thing* is not Fire, Water, Metal, Earth, or Wood. It's a category that swallows all five, and once it's on the table nothing gets named specifically enough to move.
 
-**Grow Up** — asked what wants to grow, it answers: repair. Every time. The capacity that actually wants to grow gets skipped, because a defective instrument doesn't get upgrades, it gets fixed first — and the fixing has no completion condition.
+**Grow Up.** Asked what wants to grow, it answers: repair. Every time. The capacity that actually wants to grow gets skipped, because a defective instrument doesn't get upgrades, it gets fixed first — and the fixing has no completion condition.
 
-**Show Up** — it routes to the domain where being built wrong shows least. Usually that's a framework. Usually it's one more map, handed to somebody who asked for a hand.
+**Show Up.** It routes to the domain where being built wrong shows least. Usually that's a framework. Usually it's one more map, handed to somebody who asked for a hand.
 
 It bites hardest in the Grow Up row. The Damaged Self's remit is whether you're built correctly for this, and that question gets settled at the exact moment something asks to develop. The other four rows show that settlement arriving early or arriving late. Catch it there and the rest have nothing to propagate from.
 
