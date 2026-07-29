@@ -7,11 +7,11 @@
 
 **Which allyship problem is actually alive for you right now?**
 
-Not the most urgent one. Not the one you should be working on. The one that's calling — the territory you keep returning to, the work that pulls at you even when you'd rather rest.
+The one that's calling, rather than the most urgent or the one you think you should be working on — the territory you keep returning to, the work that pulls at you even when you'd rather rest.
 
 There are four of them.
 
-Movement builders knew this before this book existed — before WAVE, before the six Faces, before the gate walks. People who were trying to change the world had already mapped the four types of work any movement needs: gathering resources, organizing conditions, taking direct action, raising awareness. This is inherited vocabulary from sixty years of serious organizing. What MTGOA adds is the interior work that makes each domain real — the capacity to show up in your chosen territory without the shadow running the show.
+Movement builders knew this before this book existed — before WAVE, before the six Faces, before the walk through the Forest. People who were trying to change the world had already mapped the four types of work any movement needs: gathering resources, organizing conditions, taking direct action, raising awareness. This is inherited vocabulary from sixty years of serious organizing. What MTGOA adds is the interior work that makes each domain real — the capacity to show up in your chosen territory without the shadow running the show.
 
 The failure mode that crosses all four domains is the same: most allyship breakdown isn't incompetence. It's domain mismatch. Someone doing Raise Awareness work when the situation needs Direct Action. Someone using Skillful Organizing when Gather Resources is the missing piece. Using the wrong type of work for the actual block — often without knowing there are four types to choose from.
 
@@ -23,7 +23,7 @@ What follows is a map of each territory: what the work actually is, what it look
 
 *Creating the material conditions so others can act. Money, time, access, connections, capacity, credibility — anything someone else needs to do the work they're trying to do.*
 
-Movement builders have known this territory for sixty years. It is the domain organizers tend to underestimate until the money runs out. Gather Resources is the work of ensuring that the people doing the work have what they need to keep doing it — which means understanding, precisely, what is depleted and what would restore it. Not charity. Not generosity as feeling. Transfer: the right thing moving from the person who has it to the person who needs it, at the right time.
+Movement builders have known this territory for sixty years. It is the domain organizers tend to underestimate until the money runs out. Gather Resources is the work of ensuring that the people doing the work have what they need to keep doing it — which means understanding, precisely, what is depleted and what would restore it. Transfer, rather than charity or generosity as a feeling: the right thing moving from the person who has it to the person who needs it, at the right time.
 
 *Who does this work:* donors making strategic investments rather than guilt payments; connectors who build relationships across power differentials; organizational leads managing institutional budgets; mutual aid coordinators tracking material need in real time; anyone whose access or privilege gives them something that could free up someone else's capacity.
 
@@ -85,7 +85,7 @@ The reverse collapse: using Gather Resources when Skillful Organizing is needed 
 
 The most photogenic domain. The one most mistaken for the whole of allyship.
 
-Direct Action is the work of moving — when the moment needs a body in a specific place, a voice in a specific room, a decision made by someone willing to bear the cost of making it. It is irreplaceable and insufficient on its own. A movement made entirely of Direct Action burns through people without building the structures or resources that sustain change.
+Direct Action is the work of moving — when the moment needs a body in a specific place, a voice in a specific conversation, a decision made by someone willing to bear the cost of making it. It is irreplaceable and insufficient on its own. A movement made entirely of Direct Action burns through people without building the structures or resources that sustain change.
 
 *Who does this work:* activists, advocates, anyone with a body or voice to deploy at a moment of consequence. The person who speaks in the meeting when no one else will. The person who shows up when the moment costs something.
 
@@ -99,7 +99,7 @@ The reverse collapse: using Raise Awareness when Direct Action is needed — "I 
 
 *Shaman.* Moves from felt sense — acts when the body says the moment has arrived, stops when it says the moment has passed. Shadow: waits for absolute certainty that the moment is right, which never comes. Gift: can feel when the window is open and move through it without waiting for permission.
 
-*Challenger.* The natural home of Direct Action — the clean "no," the line drawn without apology, the move made without softening it for the room. Shadow: Direct Action as performance of toughness — the confrontation that was for the confronter, not for the change. Gift: the move that's clear, aimed, and stops when it's done — no theater, no martyrdom.
+*Challenger.* The natural home of Direct Action — the clean "no," the line drawn without apology, the move made without softening it for the people watching. Shadow: Direct Action as performance of toughness — the confrontation that was for the confronter, not for the change. Gift: the move that's clear, aimed, and stops when it's done — no theater, no martyrdom.
 
 *Regent.* Acts within and on behalf of structures — uses institutional standing, inherited authority, organizational position as the lever. Shadow: waits for the structure to sanction the action before moving — authority as permission slip rather than resource. Gift: deploys institutional standing at the moment of need, which moves things that an individual acting alone cannot.
 
@@ -113,15 +113,15 @@ The reverse collapse: using Raise Awareness when Direct Action is needed — "I 
 
 ## Raise Awareness
 
-*Making visible what is being avoided. Storytelling, bearing witness, asking the question nobody wants to ask, naming the shadow in the room.*
+*Making visible what is being avoided. Storytelling, bearing witness, asking the question nobody wants to ask, naming the shadow in the space.*
 
 The most devalued domain in white and liberal ally culture — the culture that conflates action with physical presence and calls narrative work "just talking." Raise Awareness is action. It's the kind that's hardest to photograph.
 
 Without it, the other three domains have nothing to organize around. You can't resource what isn't visible. You can't organize people around a problem they haven't felt. You can't take direct action on conditions that haven't been named. Raise Awareness creates the conditions that make all other allyship work possible.
 
-*Who does this work:* storytellers, journalists, educators, witnesses, anyone who carries experience that others need to understand in order to move. The person who asks the question that changes what the meeting is actually about. The one who names what everyone in the room already knows but won't say.
+*Who does this work:* storytellers, journalists, educators, witnesses, anyone who carries experience that others need to understand in order to move. The person who asks the question that changes what the meeting is actually about. The one who names what everyone present already knows but won't say.
 
-*When it's needed:* when the block to change is that people don't know what's actually happening, or can't feel what they already know cognitively. When the story isn't in the room yet. When the invisible thing needs a name before anyone can organize around it.
+*When it's needed:* when the block to change is that people don't know what's actually happening, or can't feel what they already know cognitively. When the story hasn't been said out loud yet. When the invisible thing needs a name before anyone can organize around it.
 
 **The collapse.** Naming the problem as the complete intervention. Raise Awareness done well creates the conditions for other domains to activate. Done as the full move, it becomes slacktivism — the infinite loop of identifying the problem without changing the conditions. The diagnostic: did the awareness you raised lead to someone else's action? If the story stops with the story, the domain collapsed on itself.
 
@@ -131,7 +131,7 @@ The reverse collapse: confusing Raise Awareness with Direct Action — treating 
 
 *Shaman.* Tells the story from inside the experience — not from after it, not from analysis, but from the felt sense of what it was like to be in it. Shadow: stays inside the experience without translating it — the story that lands only for people who already know. Gift: the narrative that transfers the felt sense of the experience into someone who wasn't there, changing what they can see.
 
-*Challenger.* Asks the question nobody wants to ask. Names the thing everyone in the room is organized around not saying. Shadow: names the shadow for the satisfaction of naming it — the call-out that performs awareness without building the conditions for change. Gift: the question that, once asked, cannot be unasked — changes the room's relationship to what it's been avoiding.
+*Challenger.* Asks the question nobody wants to ask. Names the thing everyone present is organized around not saying. Shadow: names the shadow for the satisfaction of naming it — the call-out that performs awareness without building the conditions for change. Gift: the question that, once asked, cannot be unasked — changes the group's relationship to what it's been avoiding.
 
 *Regent.* Bears witness to the lineage — what happened, who built what, what was lost, what was inherited. Shadow: tends the historical record while the current story goes unwitnessed — the expert on what happened then who can't see what's happening now. Gift: connects current experience to historical pattern in a way that makes the invisible visible by giving it a tradition to belong to.
 
@@ -151,12 +151,12 @@ The reverse collapse: confusing Raise Awareness with Direct Action — treating 
 |--------|---------------|
 | Gather Resources | Emotional Body · Vulnerable Child |
 | Skillful Organizing | Protector · Controller |
-| Direct Action | Fixer · Damaged Self |
+| Direct Action | Fixer/Healer · Damaged Self |
 | Raise Awareness | Victim · Skeptic |
 
 Pattern: 2-2-2-2. The system is balanced. No domain is under-resourced by gate.
 
-The affinities reflect gate function, not arbitrary assignment: Emotional Body locates what's depleted before any resource can be moved; Vulnerable Child restores what's been spent. Protector names the conditions a group needs to function; Controller routes coordination across the system. Fixer takes the direct surgical move on the specific broken thing; Damaged Self absorbs the cost of showing up on purpose. Victim carries the story from felt experience; Skeptic asks the question that makes the invisible visible.
+The affinities reflect gate function, not arbitrary assignment: Emotional Body locates what's depleted before any resource can be moved; Vulnerable Child restores what's been spent. Protector names the conditions a group needs to function; Controller routes coordination across the system. the Fixer/Healer takes the direct surgical move on the specific broken thing; Damaged Self absorbs the cost of showing up on purpose. Victim carries the story from felt experience; Skeptic asks the question that makes the invisible visible.
 
 ---
 
@@ -164,7 +164,7 @@ The affinities reflect gate function, not arbitrary assignment: Emotional Body l
 
 Before you draw a card, before you open the app: **which domain is actually alive for you right now?**
 
-Not which is most important. Not which you've been neglecting. The body knows before the mind decides. The domain you keep circling back to, the territory where the charge lives — that's the diagnostic.
+Which matters most and which you have been neglecting are different questions, and neither is this one. The body knows before the mind decides. The domain you keep circling back to, the territory where the charge lives — that's the diagnostic.
 
 The domains are situational routing tools, not identity types. You are not a "Raise Awareness person." You are a person who, right now, is working on a Raise Awareness problem. The question is always situational — *what's calling right now* — not biographical.
 

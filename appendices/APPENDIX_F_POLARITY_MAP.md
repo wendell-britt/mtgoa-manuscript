@@ -3,7 +3,7 @@
 **Location in book:** After Appendix E; before Appendix G (the bibliography). Toolkit cluster (C/D/E/F). Letter locked 2026-06-03 in the appendix-ordering pass and unaffected by the 2026-07-29 retirement of Key Terms.
 
 
-*You met this tool in Chapter 2, drew your first axis in Chapter 4, and ran it in the field in Chapter 6. This is the full version — the one to come back to when a decision keeps refusing to resolve and you start to suspect it was never a decision at all.*
+*You met this tool in Chapter 3, drew your first axis in Chapter 4, and ran it in the field in Chapter 7. This is the full version — the one to come back to when a decision keeps refusing to resolve and you start to suspect it was never a decision at all.*
 
 ---
 
@@ -34,7 +34,7 @@ The pair changes with altitude. The map doesn't.
 
 **3. Mark your position.** Put the dot where you actually are this week — which pole are you over-expressing, which are you starving? The dot is a diagnostic, not a verdict. You're allowed to move it tomorrow; that's the point.
 
-**4. Read the dot.** Each pole has a cost when you live in it too long. Stuck at one end, the thing you've been protecting starts to curdle into the very failure you were avoiding — the loyalty calcifies, or the honesty turns into a weapon. You don't need to feel anything in particular to read this. You can usually just *see* it: what has gone missing from the room while you've been parked at this end?
+**4. Read the dot.** Each pole has a cost when you live in it too long. Stuck at one end, the thing you've been protecting starts to curdle into the very failure you were avoiding — the loyalty calcifies, or the honesty turns into a weapon. You don't need to feel anything in particular to read this. You can usually just *see* it: what has gone missing from the space while you've been parked at this end?
 
 **5. Design one integrated action.** Not A instead of B. One move that carries both poles at once. The integrated-sentence template is the fastest way in:
 
@@ -48,10 +48,10 @@ The word doing the work is *and*. The moment you can say both halves in one brea
 
 These are starting points, not a fixed set. The book names four because four chapters needed them; you will find your own. Each is written as a true tension — both ends right, both costly alone.
 
-- **Honor ↔ Reform** *(the Regent's pair, Chapter 4).* Keep the inheritance that still holds; update the form when the essence requires it. Parked at *honor*, you defend a ritual that stopped doing its job. Parked at *reform*, you tear out load-bearing things to feel clean.
-- **Care ↔ Impact** *(the Diplomat's pair, Chapter 6).* Tend the relationship; move the actual outcome. Parked at *care*, the conversation thickens to molasses and nothing gets said. Parked at *impact*, you win the point and lose the person you needed.
-- **Boundary ↔ Belonging** *(Chapter 2).* Hold the line; keep the connection. Parked at *boundary*, you're principled and alone. Parked at *belonging*, you're included and quietly erased.
-- **Candor ↔ Safety** *(Chapter 2).* Speak what you see; keep the room intact enough to stay in. Parked at *candor*, you're the one who's always right and never invited back. Parked at *safety*, the room stays warm and the true thing never gets said.
+- **Honor ↔ Reform** *(the Regent's pair, Chapter 5).* Keep the inheritance that still holds; update the form when the essence requires it. Parked at *honor*, you defend a ritual that stopped doing its job. Parked at *reform*, you tear out load-bearing things to feel clean.
+- **Care ↔ Impact** *(the Diplomat's pair, Chapter 7).* Tend the relationship; move the actual outcome. Parked at *care*, the conversation thickens to molasses and nothing gets said. Parked at *impact*, you win the point and lose the person you needed.
+- **Boundary ↔ Belonging** *(Chapter 3).* Hold the line; keep the connection. Parked at *boundary*, you're principled and alone. Parked at *belonging*, you're included and erased by degrees.
+- **Candor ↔ Safety** *(Chapter 3).* Speak what you see; keep the space safe enough to stay in. Parked at *candor*, you're the one who's always right and never invited back. Parked at *safety*, the space stays warm and the true thing never gets said.
 
 A pair is yours when you can feel the pull of both ends and can't honestly call either one wrong.
 
@@ -59,7 +59,7 @@ A pair is yours when you can feel the pull of both ends and can't honestly call 
 
 ## Worked example: Care ↔ Impact
 
-Chapter 6 sends you here before you Close with Honest Terms, because you can't close clean if you don't know which end you've been living at. So before that move, run the map on this one pair.
+Chapter 7 sends you here before you Close with Honest Terms, because you can't close clean if you don't know which end you've been living at. So before that move, run the map on this one pair.
 
 **1. The charge:** the specific partnership where you keep softening what you need until it disappears.
 
@@ -73,4 +73,4 @@ The map is preparation. The move is the practice.
 
 ---
 
-*When you run a Polarity Map in the field, capture it: the pair, where your dot sat, and the one integrated move you made. Open bars-engine → Polarity Map. Over time the captures show you which pair is your home tension — the one you keep having to re-center, in room after room.*
+*When you run a Polarity Map in the field, capture it: the pair, where your dot sat, and the one integrated move you made. Open bars-engine → Polarity Map. Over time the captures show you which pair is your home tension — the one you keep having to re-center, in situation after situation.*

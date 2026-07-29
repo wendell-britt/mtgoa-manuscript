@@ -35,7 +35,7 @@ You don't need all three. Learn the one that fits the moment you keep finding yo
 1. Settle, both feet flat. Let the ground hold your weight.
 2. Breathe: in for four, hold for two, out for six. Repeat until the charge slows.
 3. Picture roots running from your feet into the earth; on each exhale, let the intensity drain down through them.
-4. Come back to the room — weight, contact, present moment.
+4. Come back to where you are — weight, contact, present moment.
 
 **Quick version:** three slow breaths, feet down, let the intensity run to ground.
 
