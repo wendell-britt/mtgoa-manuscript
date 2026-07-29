@@ -848,7 +848,7 @@ A quest is a commitment to act that touches somebody other than you, on a date. 
 
 Write yours in one line with four things in it: what you will do, who it reaches, by when, and what it costs you. *Aim the Awareness* becomes: **I will tell Dana what I noticed in Tuesday's meeting and not soften it, before Friday, and it will cost me her thinking I am difficult.** That is a quest. *I will be more aware of my impact* is not one; nobody can tell whether you did it, including you.
 
-The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. Enthusiasm alone usually means you have picked something you were already going to do.
+A live quest arrives as anticipation with some dread underneath it. Enthusiasm alone usually means you have picked something you were already going to do.
 
 *Draw one card from your twenty — by hand, or let the app deal it. Run the five moves on a live situation. Log the BAR, then convert it into one quest with a name and a date in it. → app*
 

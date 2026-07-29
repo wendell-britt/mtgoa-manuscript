@@ -481,7 +481,7 @@ The tell is never the position. The tell is whether impact ever arrives without 
 
 The Victim developed does one thing nothing else in this chapter can do: it lets you know exactly what your presence costs and decline to bill for it. That combination is rarer than it sounds. Most people manage one or the other — they either lose track of the cost entirely and disappear into the field, or they keep perfect count and spend it. Holding both is what makes your staying mean anything, because a cost you can name and are not charging for is the only kind that reads as a choice.
 
-That is the Connector's foundation, and it is not the thing the word usually means. The Diplomat's superpower is not making contact; the Bridge-Builder does that in the first hour. It is connection that has survived being told the truth. Connection nobody has ever closed with is not connection — it is attendance, and attendance is what a field takes for granted. The close is what converts one into the other: you name what this must hold for your staying to remain real, once, in a sentence, and you let the field answer. What remains after that is the part that was ever actually yours.
+That is the Connector's foundation, and it means something narrower than *connection* usually does. The Diplomat's superpower is connection that has survived being told the truth; making contact is the Bridge-Builder's work, finished in the first hour. Connection nobody has ever closed with is attendance, and attendance is what a field takes for granted. The close is what converts one into the other: you name what this must hold for your staying to remain real, once, in a sentence, and you let the field answer. What remains after that is the part that was ever actually yours.
 
 You know what your Victim is for now. That is what you take out.
 
@@ -670,7 +670,7 @@ A card that ends in the app is a card you read. A card that ends in a quest is a
 
 One line, four things: what you will do, who it reaches, by when, and what it costs you. *Bring Them Into the Structure* becomes: **I will put the two people who have been running intake without a title into the decision that names it, at Thursday's meeting, and it will cost me being the one who explains them to everybody else.** That is a quest. *I will be more inclusive in how decisions get made* is not one; nobody can tell whether you did it, including you.
 
-The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For a Diplomat the dread is usually that naming the terms will cost you the belonging, which is occasionally true and is not a reason.
+A live quest arrives as anticipation with some dread underneath it. For a Diplomat the dread is usually that naming the terms will cost you the belonging, which is occasionally true and is not a reason.
 
 *Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it. → app*
 

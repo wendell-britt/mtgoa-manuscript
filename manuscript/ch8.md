@@ -668,7 +668,7 @@ A card that ends in the app is a card you read. A card that ends in a quest is a
 
 One line, four things: what you will do, who it reaches, by when, and what it costs you. *Leave the Game Playable Without You* becomes: **I will write down the three judgment calls I've been making by feel and walk two people through them before the retreat in March, and it will cost me being the one who has to be in the meeting for it to go well.** That's a quest. *I will be less indispensable* is not one; nobody can tell whether you did it, including you.
 
-A live quest arrives as anticipation with some dread underneath. At this altitude the dread is usually that handing it over will prove you were never as necessary as the exhaustion suggested. That's occasionally true and it is not a reason.
+A live quest arrives as anticipation with some dread underneath it. At this altitude the dread is usually that handing it over will prove you were never as necessary as the exhaustion suggested. That's occasionally true and it is not a reason.
 
 *Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it. → app*
 
