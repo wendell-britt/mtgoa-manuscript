@@ -594,6 +594,8 @@ Why it works: Unnamed things feel larger than named things. Naming it reduces it
 
 In practice: Next time you're in a meeting and something happens that you can feel everyone noticing and nobody stating — that's your cue. State it. Plainly. *"That comment about X wasn't accurate. I want to note that before we move on."*
 
+**The test:** The thing is now named, stated plainly, in the moment, with no solution attached. What the group does with it next is the group's. The naming is the whole move.
+
 ---
 
 ### Move 2: Draw the Line
@@ -611,6 +613,8 @@ The Move: State the line. State it without essay, without justification, without
 Why it works: Most people bury their lines in qualifiers. *"I don't know if this is the right time but I just wanted to maybe suggest that it might be worth considering..."* The line, buried in qualifiers, is not actually a line. The Challenger's move is to state the line cleanly, so clean it stands on its own.
 
 In practice: When you feel yourself reaching for a qualifier, stop. Take the qualifier out. State the line. Hold it for one second longer than is comfortable. That's usually all it takes.
+
+**The test:** The line left your mouth without an essay, a justification, or an apology attached. Count the words afterward: more than you needed means you were explaining, whatever they did in response.
 
 ---
 
@@ -630,6 +634,8 @@ Why it works: Most people mistake the three-paragraph explanation for clarity. I
 
 In practice: Practice the one-word no. Not *let me think about it* (which is a soft no) and not *I'm not sure I can* (which is an apologetic no) but *no.* Just no. See what happens. The world does not end. The relationship does not actually end. The clarity you gain is worth the momentary discomfort.
 
+**The test:** It stayed a no — unexplained, unsoftened, still a no by the end of the sentence. Acceptance is theirs. Your part finished when the word did.
+
 ---
 
 ### Move 4: Confront Without Cruelty
@@ -644,6 +650,8 @@ Why it works: The Challenger's practice requires you to hold two things simultan
 
 In practice: Before a hard conversation, write down what you need to say. Then take out everything except the line and the consequence. What remains is the confrontation. Hold to that. The rest is noise.
 
+**The test:** The content stayed hard while the delivery stayed clean. Softening the content to keep the delivery kind is a different move, and you will know which one you did.
+
 ---
 
 ### Move 5: Stay Past the Discomfort
@@ -657,6 +665,8 @@ You do not need their immediate comfort to validate your boundary. You do not ne
 Why it works: Most lines fail not because they were badly drawn but because the person who drew them could not tolerate the discomfort of having drawn it. They softened. They clarified until the line was no longer a line. They apologized until the boundary was no longer a boundary. The Challenger knows: *the discomfort of holding a line is less costly than the cost of not holding it.* The short-term discomfort of staying is always less than the long-term cost of abandoning the boundary.
 
 In practice: Next time you draw a line and feel the urge to soften — pause. Take one breath. Ask: *is the line true?* If yes, hold it. You do not owe anyone immediate comfort for your own clarity.
+
+**The test:** You were still there when the discomfort passed, having neither softened, clarified, nor apologized for what you had already said. How long it took is a separate question.
 
 ---
 

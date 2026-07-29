@@ -391,6 +391,8 @@ In practice: when you're looking at a broken system, don't start with what's bro
 
 **Example:** A team that's constantly in meetings. The leverage point is almost never the meeting structure. It's usually the decision rights. Someone is calling a meeting because they don't know if they're allowed to decide something. Give them the decision. The meeting disappears.
 
+**The test:** You named one place and pushed there, instead of pushing everywhere at once with the same force. Cascades are slow and often invisible. One named point is the move.
+
 ---
 
 ### Move 2: Name the Unstated Assumption
@@ -405,6 +407,8 @@ In practice: when everyone around the table is discussing solutions, pause and a
 
 **Example:** A team that's redesigning their onboarding flow. The unstated assumption is that users read the instructions. They don't. They've never read the instructions. Once you name that assumption, the whole design changes — from how-to guide to just making the thing work without instructions.
 
+**The test:** You got it stated — moved from something everyone treats as given to something on the table that can be examined. Whether it turns out to be false is a separate question.
+
 ---
 
 ### Move 3: Design for Handoff
@@ -418,6 +422,8 @@ Designing for handoff means: before you ship the design, ask who will run this a
 In practice: design as if the person taking over knows less than you do about why you made the choices you made. Because they will. Write the rationale down. Name the trade-offs. Explain what you optimized for and what you gave up. Leave a breadcrumb trail.
 
 **Example:** A process you designed that involves three tools. The handoff version has one tool. You optimized for simplicity instead of comprehensiveness. The person who takes over doesn't need to know about all the tools you tried. They just need to be able to run the one.
+
+**The test:** You asked who runs this after me before you shipped, and wrote down the one thing you were assuming they already knew. The system's survival is next year's evidence.
 
 ---
 
@@ -443,6 +449,8 @@ In practice: before you start designing, ask: what is the one question this desi
 
 **Example:** A new dashboard. The minimum version shows one number. Just one. Does the user look at it? Do they come back? Do they ask for more? That tells you everything you need to know about whether the dashboard is worth building.
 
+**The test:** It reached a real person while it was still embarrassing to show. A version you shipped once you were comfortable with it arrived late, however well that version performed.
+
 ---
 
 ### Move 5: Refactor Kindly
@@ -456,6 +464,8 @@ Refactoring kindly means: you can see clearly that the design needs to change, a
 In practice: when you're revising a design, name what the previous version got right before you change what it got wrong. Make this a practice, not a courtesy. The previous designer in you — past you — needs to hear that they weren't wrong. They were learning.
 
 **Example:** A feature you built two years ago. You can see now it was the wrong solution. Say: we built this with the information we had, and it was the right decision at the time. Now we know more. Let's build what we know now.
+
+**The test:** You changed it without filing the previous version as a mistake. It got you here, and saying so out loud is part of the move. Quality of the new design is a separate question.
 
 ---
 

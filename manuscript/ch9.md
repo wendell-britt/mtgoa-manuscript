@@ -505,6 +505,8 @@ In practice: write the sentence, then delete every clause that is there to make 
 
 **Example:** *I want to help people be better allies* is a topic. *People who have done the reading and the therapy still default to their home Face the moment something lands hard, and there is nowhere to practice the difference* is a problem. The second one tells you what to build by Friday. The first one tells you to read more.
 
+**The test:** A stranger can repeat your sentence back to you without adding anything. Picking the right problem is a separate question. If they have to ask which part you mean, the field is still wide.
+
 ---
 
 ### Move 2: Put It in Front of One Person Before It's Defensible
@@ -516,6 +518,8 @@ In practice: write the sentence, then delete every clause that is there to make 
 In practice: one person, not an audience. The audience version is a launch, and a launch is something you can spend a year preparing for. One person can happen this week. Say what you want from them before you show it — *tell me where you got confused*, or *tell me whether you'd use it twice*. An unspecified ask gets you encouragement, which is the least useful thing a human being can hand you.
 
 **Example:** One facilitator builds a workshop for six months and runs it for the first time on the day it is supposed to be good. Another builds a rough version in three weeks, runs it badly for two friends on a Tuesday, finds out that the second exercise makes people defensive, and rebuilds it before anyone has paid for anything. The second one is not less serious. The second one is the only one holding any information.
+
+**The test:** You showed it at the point you would rather have kept working on it alone, to one person who could answer you. Their verdict is theirs. The showing is yours.
 
 ---
 
@@ -529,6 +533,8 @@ In practice: separate the note from the person delivering it, because your first
 
 **Example:** Somebody tells you the practice you designed only works for people who already have the vocabulary. The cheap repair is a glossary. The expensive repair is admitting the entry point is wrong and rebuilding the first move so it needs no vocabulary at all. The glossary protects your design. The rebuild protects the people you built it for.
 
+**The test:** You rebuilt, having first asked what would follow if the note were true instead of disqualifying the person who gave it. Whether the rebuild is better is a separate question.
+
 ---
 
 ### Move 4: Run It Again With One Thing Changed
@@ -541,6 +547,8 @@ In practice: name the variable before you run it. *This time the opening questio
 
 **Example:** A gathering falls flat. The redesign impulse says new format, new venue, new invitation, new premise. The move says same everything, different first fifteen minutes, next month, and find out whether the first fifteen minutes was ever the problem. One of those produces a working gathering. The other produces four more first attempts.
 
+**The test:** You named the one variable before you ran it and changed nothing else. Two changes at once tell you nothing about either, however the second run went.
+
 ---
 
 ### Move 5: Hand Someone the Pen
@@ -552,6 +560,8 @@ In practice: name the variable before you run it. *This time the opening questio
 In practice: be specific about what they are allowed to change. *You can change anything except the part where people say it out loud* is a real handoff. *Make it your own* is a compliment. Then watch them change it and do not correct the first thing they do differently.
 
 **Example:** Someone runs your practice with a group and drops the step you thought was the heart of it. You have two moves. Put the step back, and you have a franchise. Ask what happened in the space where the step used to be, and you find out whether the step was the heart of it or whether you were.
+
+**The test:** You said, in advance and in specifics, what they were allowed to change. *Make it your own* is a compliment; a handoff names the boundary. What they do inside it is theirs.
 
 ---
 

@@ -512,7 +512,7 @@ Name the Field is not a diagnosis. It is an offering — you are saying *here is
 
 **Why it works:** Most conflicts stay stuck because they are playing at the wrong level — arguing about content while the real conflict is relational. Name the Field moves the conversation to the level where the actual problem lives.
 
-**The test:** You know you've done it when both sides say *yes, that's actually what this is about.* If they don't, you update and try again.
+**The test:** You said what the field is actually about, in one sentence, in front of the people standing in it. Whether they accept the description is theirs to answer, and a correction is the move working rather than failing.
 
 **Working vs. performed:** When Name the Field is working, there's a quality of clearing — the conversation gets simpler as the confusion lifts. When it's being performed, there's a quality of positioning — you're naming the field to establish yourself as the one who sees.
 
@@ -534,7 +534,7 @@ The Diplomat translates: *"What I hear [Camp A] saying, in [Camp B]'s language, 
 
 **Why it works:** Translation builds the bridge that lets both camps move forward together. Without it, camps talk about each other instead of to each other, and the conversation becomes a performance of positions rather than a search for understanding.
 
-**The test:** You know you've done it when both camps say *yes, that's what we mean* — and neither camp says you got it wrong.
+**The test:** You put each camp's position into language the other camp could hear, without softening either one to make the fit easier. Whether both sides accept your rendering is theirs to say.
 
 **Working vs. performed:** When Translate is working, there's a quality of lightness — meaning flows between frameworks without distortion. When it's being performed, there's a quality of cleverness — you're showing how smart you are about both frameworks rather than serving the meaning.
 
@@ -564,7 +564,7 @@ A threat would sound like *do this or I leave.* This is an offering of informati
 
 *If you don't yet know where you actually stand — whether you've been trading impact away for the comfort of caring — go back to the Care ↔ Impact axis you drew in Section 3 before you try to close. The axis is preparation. This move is the practice.*
 
-**The test:** The test of honest terms is not whether they change their behavior when you name them. The test is whether the naming itself was honest. Did you name what you actually need from the agreement, or did you name a softer version because you were afraid to name the real one? If you named the real terms and nothing changed, that's not a failure. That's information.
+**The test:** You named what you actually need from the agreement rather than a softer version, said it once, and left it alone for the field to answer. Their behavior may or may not change. If you named the real terms and nothing moved, that is information.
 
 The close lands clean when there's nothing left to add and you don't reach to fill the silence — you've said the thing, nothing has broken, and for once you let it stay said. The over-care version is the opposite: the talk thickens to molasses, every term softened until nothing's actually been said, the conversation kept intact like a museum piece and nobody moved an inch. Then the performed version: the words are out, but one hand stays on the door, ready to pull it open again the moment they frown.
 
@@ -592,7 +592,7 @@ The structure:
 
 **Why it works:** Ruptures that are named and repaired build more trust than ruptures that never happened. The repair does not undo the break — it proves that the relationship can survive the break, which is the only thing that actually builds confidence in a relationship.
 
-**The test:** You know repair is real when the other person can name the rupture back to you accurately without you needing to explain it, and can name your part without you needing to correct them. If they're still explaining it back to you as if it was entirely your fault, the repair hasn't landed yet. Go back to step one.
+**The test:** You named what broke, named your part in it, named what you were not asking for, and stayed. Whether they can name it back to you accurately yet is a separate question, and often a later one. If it is still landing as entirely your fault, go back to step one.
 
 **Working vs. performed:** When Repair is working, there's a quality of ground underneath — the floor was always there, you just needed to clear the rubble to find it. When it's being performed, there's a quality of urgency — you want the discomfort to end more than you want the repair to actually happen.
 
@@ -618,7 +618,7 @@ Here's what it sounds like: *"I hear where you're coming from. I think we're ope
 
 **Before you refuse false equivalence, ask:** Am I refusing because this position is actually built on a less accurate premise, or because I simply don't want to engage with it? Can the position I'm dismissing offer me something I haven't considered? If the answer is no — if you've done the work of understanding the other position and it still doesn't hold — then Refuse False Equivalence is the honest move. If you haven't done that work, Refuse False Equivalence is just closed-mindedness with a justification attached.
 
-**The test:** You know your refusal is honest when you can paraphrase the opposing position accurately enough that its strongest advocate would recognize it, and then say *here is why I still don't agree.*
+**The test:** You paraphrased the opposing position accurately enough that its strongest advocate would recognize it, and then said *here is why I still don't agree.* Whether they grant the distinction is theirs.
 
 **Working vs. performed:** When Refuse False Equivalence is working, there's a quality of clarity — you've said the hard true thing and nothing has broken. When it's being performed, there's a quality of certainty — you're more interested in being right than in understanding what's actually true.
 

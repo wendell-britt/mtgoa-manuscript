@@ -481,11 +481,15 @@ The Regent's first move is not action. The Regent's first move is witnessing.
 
 *In practice:* When you take on a new role, a new team, a new responsibility — before you make a single change, spend time understanding what was handed to you. Ask: *why is this here? Who built this? What was it trying to do?* You may find the answer changes your entire approach.
 
+**The test:** You named what arrived before you changed any of it. Finding something worth keeping is a bonus, not the bar. If the first change is already made, you skipped the move.
+
 ### Move 2: Honor What Still Serves
 
 Not everything needs to change. Some of what you inherited is load-bearing. The Regent's second move is discrimination — naming what would collapse if you removed it, even if you wish it weren't there.
 
 *In practice:* Make a list of three things in your current inheritance that you would fight to protect. Not because they're perfect — because removing them would break something real. The Regent protects what serves even when the Regent is reforming everything else.
+
+**The test:** You can say what would break if it were removed. Agreement from anyone else is a separate question. A thing you cannot name a breakage for is a preference wearing inheritance.
 
 ### Move 3: Reform Without Erasing
 
@@ -493,17 +497,23 @@ The Reformer changes the tradition while honoring the lineage. The key word is *
 
 *In practice:* When you see something that needs to change, ask two questions: (1) What is this trying to do? (2) Is it still doing it? If the answer to (2) is no, change the form but keep the essence. Tell people what you're doing and why: *I'm not discarding this. I'm updating it.*
 
+**The test:** You named what the tradition was trying to do before you changed how it does it, and you told people which of the two you were changing. Results arrive on their own schedule.
+
 ### Move 4: Keep the Vows
 
 The Keeper of Vows does the unsexy work. The work nobody sees. The ongoing commitments that define you by their presence, not their absence.
 
 *In practice:* Identify one commitment you've made that nobody is watching you keep. Do it anyway. That's the Keeper of Vows in action. That's what makes you someone worth inheriting from.
 
+**The test:** You kept it on the day it would have cost you nothing to drop it and nobody would have known either way. Being noticed is a separate question, and usually the answer is no.
+
 ### Move 5: Entrust Without Clinging
 
 The hardest Regent move. You prepare the next person not as a replica of you, but as someone with enough context to make their own good decisions. You let go without abandoning.
 
 *In practice:* When you're transitioning out of something, ask: *am I giving the next person enough to run with, or am I giving them my anxiety about how it should look?* Let go of the outcome. Trust the inheritance.
+
+**The test:** What you handed over was context rather than anxiety. Context lets them decide; anxiety tells them what you need the outcome to look like. Their version will differ from yours, which is the point.
 
 ---
 

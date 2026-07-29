@@ -674,6 +674,8 @@ In practice: the marker is physical, because the body registers before the accou
 
 **Example:** Someone says something in a meeting and your chest goes tight. The story is already assembling — *they are undermining me, this is the third time, I have to decide whether to say something.* Back up. What you have is heat in the chest and a tight jaw, arriving on a specific sentence. That is Fire, and it is about that sentence. The third-time story is a separate conversation, and you can have it later, with better information.
 
+**The test:** You noticed where it landed in your body before you had a sentence explaining it. Accuracy is a separate question and a later one. If you can name the place and not the reason, you caught it in time.
+
 ---
 
 ### Move 2: Name the Channel Out Loud
@@ -687,6 +689,8 @@ Named out loud, the channel stops being weather and becomes an object on the tab
 In practice: use the channel word, not the euphemism. *Anger* rather than *frustration.* *Fear* rather than *concern.* *Sadness* rather than *disappointment.* The euphemisms exist to keep the channel deniable, and a deniable channel cannot be worked by anyone, including you.
 
 **Example:** A team stuck for three weeks, circling the same decision on logistics. Name it: *I do not think this is a logistics problem. I think we are afraid of what happens if we pick wrong, and we are solving logistics because logistics is the part we know how to solve.* Metal, said where people can hear it. The circling tends to stop inside a minute, because the thing driving it now exists as something that can be addressed.
+
+**The test:** You said it out loud, in the moment, where someone could disagree with it. Agreement is theirs to give or withhold. A channel named only to yourself belongs to Section 4.
 
 ---
 
@@ -702,6 +706,8 @@ In practice: the sentence is shorter than you want it to be. A read is usually o
 
 **Example:** A meeting where two people keep restating positions that are not actually far apart. The stated content is a scoping question. The read is: *I think you two are arguing because something happened between you last month and neither of you has said so.* One clause. Nothing about who was right. The scoping question resolves in four minutes once the actual conversation is available.
 
+**The test:** What you said was the read you actually had, and you said it while it was still live. What the conversation did afterward belongs to the conversation. A true thing said an hour late is a different move.
+
 ---
 
 ### Move 4: Ask for What It Actually Needs
@@ -715,6 +721,8 @@ What happens to the need is a scaling-down, and the scaling-down happens before 
 In practice: say the unreduced version first, out loud, to the person with the standing to refuse it. Refusal is not the failure state here. Being refused a real ask leaves the real need on the record where somebody else can pick it up. Being granted a small ask takes it off.
 
 **Example:** A program that needs a full-time coordinator. The reduced ask is a few hours of somebody's existing time, which gets granted, which produces a coordinator-shaped hole staffed by a person who already has a job. The unreduced ask is a role and a salary. It may be refused this year. Refused, it is a documented need with a number on it, which is a thing a budget cycle can eventually meet. Granted small, it disappears into the goodwill of whoever absorbed it.
+
+**The test:** What left your mouth was the size of the real need rather than the size you were confident would be granted. A no to the real ask beats a yes to the shrunken one, so score the ask.
 
 ---
 
@@ -731,6 +739,8 @@ The banked read is the material the awareness trap is built from. The trap is no
 In practice: give it a window. The read gets spent before the conversation it came from ends, or before the day ends if the conversation is already over. Past that it will not get spent — it will get understood. Log both endings, spent and kept, for two weeks. The ratio tells you something that no further insight is going to tell you.
 
 **Example:** You leave a meeting having noticed that the newest person on the team was talked over three times and has stopped offering anything. The banked version is that you now understand the team's dynamic more accurately than you did at nine that morning. The spent version is one message, that afternoon: *You got cut off three times today and I noticed. I am going to say something about it in Thursday's meeting. Do you want me to use your name or leave it out?* Same read. One of them reached a person.
+
+**The test:** It left you inside the window you set — said, asked, acted on, or deliberately let go. Whether it changed anything is a separate question. A read still under review on Friday was banked.
 
 ---
 
