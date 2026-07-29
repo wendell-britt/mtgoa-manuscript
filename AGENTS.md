@@ -15,6 +15,21 @@ Syncs to Obsidian via `The-Library/The Library/` (workspace) → Mac
 **Rule:** If an agent drafts or rewrites text without approval, that text is a proposal, not canon.
 **Rule:** Anything outside `manuscript/` — including everything in `chapters/`, `compiled/`, and the root-level specs — is process history, a verification surface, or a derived artifact.
 
+## Showing the work (standing rule, 2026-07-29)
+
+**Paste every prose change into the console, before and after, in the reply that
+makes it.** Wendell reviews in the conversation, not by opening files or reading
+diffs. A change he cannot see in the console has not been shown to him.
+
+- Quote the **old text and the new text**, in full, for every line touched. Not
+  a summary of the change, not a file path and line number, not "updated ch5's
+  opener."
+- For a batch, use a table or a per-site before/after block. Group by chapter.
+- Drafts for review go in the console **and nowhere else** — do not write them
+  into `manuscript/` and ask him to look. Apply only what he has approved.
+- Counters and test output still get reported, but they do not replace the
+  prose. `BLOCK 39 -> 38` says nothing about whether the sentence is any good.
+
 ## Editing Protocol
 
 When asked to edit, run the WAVE Editing Spiral:
