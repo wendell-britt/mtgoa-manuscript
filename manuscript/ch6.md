@@ -266,7 +266,7 @@ You do not fire the Emotional Body. Fire your sensor and you are the Architect t
 
 Then put a boundary on the handoff, because the speed of the conversion is the shadow's entire method. The Architect works in loops, so the deadline here is not a breath and it is not a cycle — it is a stage. *The signal gets all of Observe. Nothing gets modeled until Observe closes.* Which in practice means: name the channel and the location before you name the leverage point. Anger, fear, sadness, joy, neutrality; chest, throat, gut, hands. Six seconds of actual data. Then build whatever you were going to build.
 
-Six seconds is enough for the question that is actually being asked. It is not enough for the other one, which is the point.
+Six seconds is enough for the question that is actually being asked. It is not enough for the other one, and that shortfall is the point.
 
 It shows up in a single beat. Someone says the thing in the meeting — the sentence that writes a whole group of people out of the plan. Heat arrives across your chest. That is the Strategist's channel, on time, doing its job: Fire, momentum, *here is where the push goes.* Then the conversion fires, and by the time the agenda has moved one item on you have a restructure of the intake process, three slides deep, and it is good. People will say so. Nobody has addressed what was said. The person it was said about is still sitting there. You will go home with the odd flatness of having done excellent work at something adjacent to what happened.
 
@@ -290,7 +290,7 @@ The tell is never the position. The tell is whether the answer is ever Agency. A
 
 The Emotional Body developed does one thing nothing else in this chapter can do: it tells you where the movement is before the evidence does.
 
-That is the Strategist. Look back at the modes table and notice what the Strategist runs on — Fire, which is anger, resolving to triumph. Momentum is not a calculation. Nobody has ever found the leverage point in a spreadsheet. You find it by feeling where the system is straining, where the workaround has already been invented by somebody who was not asked, where the pressure has built to the point that one push will do what a year of argument could not. Every one of those is a reading before it is a finding. An Architect who has converted their signal into structure on arrival can still produce the analysis. What they lose is timing — the sense of *now,* which is the entire content of the Strategist and is not recoverable from data.
+That is the Strategist. Look back at the modes table and notice what the Strategist runs on — Fire, which is anger, resolving to triumph. Momentum is not a calculation. Nobody has ever found the leverage point in a spreadsheet. You find it by feeling where the system is straining, where the workaround has already been invented by somebody who was not asked, where the pressure has built to the point that one push will do what a year of argument could not. Every one of those is a reading before it is a finding. An Architect who has converted their signal into structure on arrival can still produce the analysis. What they lose is timing — the sense of *now.* That is the entire content of the Strategist, and it is not recoverable from data.
 
 So the map is the artifact, and you already know how to make one. The Architect's superpower is knowing where the push goes and when to make it — and then, because you also know what the map is for, building the thing so the next person can run it without you. Structural generosity is the intent. The Strategist is what makes it arrive on a day it can still matter. A beautiful blueprint delivered eighteen months after the pressure released is not generous. It is just correct.
 
@@ -417,7 +417,7 @@ Draw from your twenty rather than the hundred and twenty — though not from a s
 
 **Wake Up** — it notices what is convertible. A signal with no structural output does not register as potential; it registers as noise, or as somebody else's department.
 
-**Open Up** — nothing is received as energy. It arrives already a proposal. You end up holding the plan the charge became rather than the charge, which is how a situation gets described perfectly by someone who feels nothing about it.
+**Open Up** — nothing is received as energy. It arrives already a proposal. You end up holding the plan the charge became rather than the charge. That is how a situation gets described perfectly by someone who feels nothing about it.
 
 **Clean Up** — *transcend, translate, or neutralize* is a real choice with three real answers. Left alone the mechanism returns the same one, at speed, and the speed gets called competence.
 

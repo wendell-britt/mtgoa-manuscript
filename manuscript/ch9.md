@@ -105,7 +105,7 @@ Before you can design, you have to map your specific terrain. Which Faces do you
 
 The practice: Take inventory. Review the six Faces and ask honestly: *Which one feels like home? Which one have I been avoiding? Which one do I perform rather than embody?*
 
-The Cartographer doesn't judge the map. It just draws it. You might find that you naturally move to Challenger when things get hard — and that the Challenger's game suits you best — most comfortable, most effective, most at home. Or you might find that you live in the Architect's head — and that your gift lies in designing systems while your gap lies in staying embodied long enough to use them. You might find that the Sage's whole-board view feels like yours — and that your shadow uses the panoramic view to avoid committing to any single game.
+The Cartographer doesn't judge the map. It just draws it. You might find that you naturally move to Challenger when things get hard — and that the Challenger's game suits you best: most comfortable, most effective, most at home. Or you might find that you live in the Architect's head — and that your gift lies in designing systems while your gap lies in staying embodied long enough to use them. You might find that the Sage's whole-board view feels like yours — and that your shadow uses the panoramic view to avoid committing to any single game.
 
 The Cartographer's job comes down to honest self-mapping. No judgment. Just the territory.
 
@@ -178,7 +178,7 @@ Each mode also opens a doorway. Depending on which one activates for you, it lea
 - **Cartographer and Designer** → your own ongoing practice. The work is between you and the map.
 - **Founder** → if you have a specific thing to build and you know you need support getting it out, the fastest path is working through it with me, one-on-one. If you want to learn the method itself, deeply enough to run it for others, reach out about certification (wendell@masteringallyship.com) — that's the succession this book is for.
 - **Elder** → if what you're called to do is teach, pass on, run workshops, give other people the vocabulary — the deck is what you run the session from. It works without you standing in the middle of it, once you know it well enough to get out of the way.
-- **Outlaw** → if what you see is a structure that needs to be challenged, broken, or rebuilt — that's also allyship work. It is the mode the deck is worst at prompting on its own, which is exactly why you draw for it on purpose.
+- **Outlaw** → if what you see is a structure that needs to be challenged, broken, or rebuilt — that's also allyship work. It is the mode the deck is worst at prompting on its own, so you draw for it on purpose.
 
 The modes loop. Each pass through goes deeper. The walk is the thing.
 
