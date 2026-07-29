@@ -192,7 +192,9 @@ AI_SHAPES = [
     (DENYING_GENERAL, "denying negation (X is not A. X is B)"),
     (r"(?i)\bit'?s not\s+[^.;]{3,40}[.;]\s*(it'?s|that'?s)\b", "denying negation (It's not X. It's Y)"),
     (r"(?i)\bnot\s+(just|only|merely)\s+[^,;.]{3,50},\s*but\b", "not-just-but construction"),
-    (r"(?i),\s*which is (?:the|a|what|why|how)\b", "appositive 'which is' tail"),
+    # Widened 2026-07-29: the narrow form required which-is-the/a/what/why/how and
+    # let ", which is easy to mistake for" through my own pre-flight.
+    (r"(?i),\s*which\s+(?:is|was|are|were)\b", "appositive 'which is' tail"),
     (r"(?i)\bisn'?t (?:about|the) [^.;]{3,40}[.;]\s*(it'?s|that'?s)\b", "denying negation variant"),
     (r"(?i)\bin a world where\b", "AI opener"),
     (r"(?i)\bat the end of the day\b", "filler idiom"),
