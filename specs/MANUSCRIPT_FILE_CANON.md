@@ -113,6 +113,28 @@ Front matter, table of contents, and back matter are also unwritten.
 
 ## Standing editorial rules
 
+### The decision rule — does this help the ICA move forward?
+
+**Ruled 2026-07-29, and it governs every other rule on this page.** Every
+editorial decision is made against one question: *does this help the ICA keep
+moving?* Not whether it is consistent, not whether it is clever, not whether it
+satisfies a linter. Whether the reader this book was written for gets further
+because of it.
+
+The rule exists because consistency is the cheaper thing to optimize and it
+reads like rigor. Chapter 1's subtitle is the worked example: three candidates
+were offered, two of them accurate descriptions of the chapter — the confession
+of a late book — and the chosen one names the reader's problem instead.
+*The Game You Didn't Know You Were Playing* does not describe Chapter 1. It
+tells the ICA why she should keep reading.
+
+Applied to the open questions on this page: a formatting inconsistency the
+reader never sees is not worth a canon edit; a cross-reference pointing at the
+wrong chapter is, because it stops her. When a rule and the ICA disagree, the
+ICA wins and the exception gets recorded here.
+
+### Voice and shape
+
 Banned words: *room*, *quiet*, *quietly*, *genuinely*. (*Genuine* is not banned.) No sentence opens with *And* or *But*. The "Not X. Not Y." negation stack is banned. "Make room" becomes "make space." Never narrate the reader's unnamed history back to her as fact.
 
 ### The three grammar moves — run `instruments/prose_diet.py` on new prose
