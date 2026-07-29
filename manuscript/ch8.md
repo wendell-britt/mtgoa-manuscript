@@ -660,7 +660,7 @@ Take **Who the Fight Makes You** — Grow Up, Direct Action, Sage. Its question 
 
 Run it once, on something real. Bring a fight you are currently in — an actual one, with people in it. Wake Up: name the game, and notice the footnote about yourself that arrives with it. Open Up: witness one minute of what it's like to be inside this fight, without auditing the witnessing. Clean Up: name the channel. Fire, Water, Metal, Earth, Wood — one of them, not *my thing.* Grow Up: name what this fight is building in you, stated as a capacity rather than a repair. Show Up: pick a domain and name what you'd leave behind if you stopped playing tomorrow.
 
-Five moves, one card, ninety seconds. The Sage's version is the only one in the book where the hard part is refusing to run a second pass.
+Five moves, five minutes. The Sage's version is the only one in the book where the hard part is refusing to run a second pass.
 
 ### From Card to Quest
 

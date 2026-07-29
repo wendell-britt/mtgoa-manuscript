@@ -704,7 +704,7 @@ Take **The Story About the Truth** — Clean Up, Raise Awareness, Challenger. It
 
 Run it once, on something real. Bring the last time you decided somebody was overreacting. Wake Up: name what you were resisting in what they said. Open Up: one breath, the discomfort you skipped past on the way to the assessment. Clean Up: write the story you were believing as a flat sentence — *this is exaggerated, this is about something else, this person is unreliable.* Grow Up: name the edge that sentence is protecting you from. Show Up: pick a domain and name the intervention.
 
-Five moves, one card, ninety seconds.
+Five moves, five minutes.
 
 ### From Card to Quest
 

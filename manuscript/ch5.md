@@ -551,7 +551,7 @@ Take **Can You Hold the Whole** — Open Up, Skillful Organizing, Regent. Its qu
 
 Run it once, on something real. Bring an inheritance you are currently carrying: a practice, a role, a piece of institutional memory nobody wrote down. Wake Up: name what it is that deserves tending. Open Up: ask whether you can stay with it *as it is*, unrepaired, for one cycle. Clean Up: name the capability the structure lacks — the structure, not you. Grow Up: name what deserves practice rather than rescue. Show Up: name what you would keep going even after you hand it over.
 
-Five moves, one card. The Regent's version runs slower than the others — give it the length of a walk rather than ninety seconds.
+Five moves. The Regent's version runs slower than the others — give it the length of a walk rather than five minutes.
 
 ### From Card to Quest
 

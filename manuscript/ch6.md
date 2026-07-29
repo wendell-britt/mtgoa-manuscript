@@ -509,7 +509,7 @@ Take **Forge the Anger** — Clean Up, Direct Action, Architect. Sit with how un
 
 Run it once, on something real. Bring the last decision that landed badly on people who had no say in it. Wake Up: which mode caught it, and what was it detecting. Open Up: six seconds, channel and location, before anything gets modeled. Clean Up: now choose, deliberately — does this get transcended, translated, or neutralized, and why that one. Grow Up: name the capability that gets stronger in someone else if you build this. Show Up: pick a domain and size the intervention against the problem rather than against the charge.
 
-Five moves, one card, ninety seconds — six of which are the only ones your Emotional Body will fight you for.
+Five moves, five minutes — and six seconds of it are the only ones your Emotional Body will fight you for.
 
 ### From Card to Quest
 

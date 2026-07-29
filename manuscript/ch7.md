@@ -662,7 +662,7 @@ Take **What This Costs the Teller** — Open Up, Raise Awareness, Diplomat. Its 
 
 Run it once, on something real. Bring the last time someone told you about your impact. Wake Up: name the relational dynamic that was actually live — not the content, the standing. Open Up: what did it cost them to say it, and stay there for one sentence' worth of time without answering. Clean Up: name the channel you routed to, and the one that would have served better. Grow Up: name who is affected by whether you can receive this. Show Up: name the one person who must be involved in what happens next.
 
-Five moves, one card, ninety seconds. The Diplomat's version is the shortest in the book and the one most likely to get interrupted by a balance.
+Five moves, five minutes. The Diplomat's version is the shortest in the book and the one most likely to get interrupted by a balance.
 
 ### From Card to Quest
 

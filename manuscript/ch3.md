@@ -838,7 +838,7 @@ Take **What Seeing Costs** — Open Up, Raise Awareness, Shaman. Its question is
 
 Run it once, on something real. Bring a time you were told something true about harm you had a hand in. Wake Up: what arrived, and where in your body. Open Up: stay there for the length of an exhale without converting it into a response. Clean Up: name the channel — Fire, Water, Metal, Earth, Wood. Grow Up: name the capability that channel restores when it completes. Show Up: pick one of the four domains and say where this goes.
 
-Five moves, one card, about ninety seconds. That is a full pass of the spiral with an instrument in your hand.
+Five moves, five minutes. That is a full pass of the spiral with an instrument in your hand.
 
 ### From Card to Quest
 
