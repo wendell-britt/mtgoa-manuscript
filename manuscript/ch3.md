@@ -824,7 +824,7 @@ They are not clean. A daemon is not a defect at one stage of the spiral. It is a
 
 Five failures, one rule. The rule is enforced in a single place. The Controller's whole remit is how you are permitted to behave while feeling something, and behavior is at stake the moment an experience would show — which is Open Up. The other four are what the rule costs upstream and downstream of the place it bites. Catch it there and the rest have nothing to propagate from.
 
-Take **What Seeing Costs** — Open Up, Raise Awareness, Shaman. Its question is the one the Controller exists to route around: *what am I actually feeling?* Not what the situation warrants. Not what a person at your level of understanding ought to feel. What is here.
+Take **What Seeing Costs** — Open Up, Raise Awareness, Shaman. Its question is the one the Controller exists to route around: *what am I actually feeling?* The card does not want the feeling the situation warrants, or the one a person at your level of understanding ought to have. It wants what is here.
 
 Run it once, on something real. Bring a time you were told something true about harm you had a hand in. Wake Up: what arrived, and where in your body. Open Up: stay there for the length of an exhale without converting it into a response. Clean Up: name the channel — Fire, Water, Metal, Earth, Wood. Grow Up: name the capability that channel restores when it completes. Show Up: pick one of the four domains and say where this goes.
 

@@ -92,7 +92,7 @@ The village version is the ultimatum. Terms are what someone says when they have
 
 That decision is not cowardice, and it is not a failure of nerve. It is an accurate reading of a specific misuse. The problem is what it costs to generalize from it.
 
-Honest terms are the opposite instrument. **A term is a statement of what this field must hold for your staying to remain real — offered as information, once, to a field that is then free to answer.** Not a demand. Not a condition of continued affection. A fact about the arrangement, delivered while there is still time for anyone to do something with it.
+Honest terms are the opposite instrument. **A term is a statement of what this field must hold for your staying to remain real — offered as information, once, to a field that is then free to answer.** It is a fact about the arrangement rather than a demand or a condition of continued affection, and it is delivered while there is still time for anyone to do something with it.
 
 The difference is not tone. This is where the Diplomat's altitude gets it wrong most often, because tone is what this altitude is best at. An ultimatum said warmly is still an ultimatum. An honest term said flatly is still an honest term. The difference is structural: an ultimatum removes the other party's freedom to answer, and an honest term is the specific act of giving it back to them. You cannot decline something you were never told about. A field that does not know what your staying requires has never once had the chance to choose you.
 

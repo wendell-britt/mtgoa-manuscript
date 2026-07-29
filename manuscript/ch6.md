@@ -129,9 +129,7 @@ Doing the right thing in the wrong system is a specific kind of expensive. Recog
 ## Section 3: The Concept
 ### *What Structural Design Actually Is (And Why It's Not What You've Been Told)*
 
-Let's be clear about what we mean when we say *structural design.*
-
-It's not organizational design. That's the village version — the org chart, the RACI matrix, the role description, the meeting cadence. Those are outputs of structural thinking, not structural thinking itself. You can have all those things and still have a broken system.
+The village version of *structural design* is organizational design — the org chart, the RACI matrix, the role description, the meeting cadence. Those are outputs of structural thinking, not structural thinking itself. You can have all those things and still have a broken system.
 
 Structural design is the practice of understanding *why* a system produces the outcomes it produces — and redesigning the system so that the right outcome becomes the natural outcome.
 
@@ -149,7 +147,7 @@ This is what the Architect means when they say *design for the actual incentive,
 
 Here is how it works at the deepest level:
 
-**Every system produces the outcomes it's designed to produce.** Not the outcomes the founders intended. Not the outcomes the mission statement describes. The outcomes the incentive structure actually rewards. If your system keeps producing the wrong result, the system is not broken — the system is working exactly as designed. You just didn't design it. You inherited it. The person who designed it had different goals than you do.
+**Every system produces the outcomes it's designed to produce** — the outcomes the incentive structure actually rewards, which are rarely the ones the founders intended or the ones the mission statement describes. If your system keeps producing the wrong result, the system is not broken — the system is working exactly as designed. You just didn't design it. You inherited it. The person who designed it had different goals than you do.
 
 This is not a metaphor. This is an engineering fact. It has profound implications for allyship.
 
@@ -474,7 +472,7 @@ The grid again, fourth operation of six. Five moves down, four domains across, t
 |  | Gather Resources | Raise Awareness | Direct Action | Skillful Organizing |
 |---|---|---|---|---|
 | **Wake Up** · *notice potential — what value wants to increase?* | The Untapped Vein | The Story That Could Land | The Pressure Point | The Structure That Wants to Exist |
-| **Open Up** · *receive the resource — what energy is hidden here?* | The Hidden Supply | The Energy in the Story | The Power in the Anger | The Capacity in the Room |
+| **Open Up** · *receive the resource — what energy is hidden here?* | The Hidden Supply | The Energy in the Story | The Power in the Anger | The Capacity in the Group |
 | **Clean Up** · *select the transformation — transcend, translate, or neutralize?* | Move the Charge | From Outrage to Aim | Forge the Anger | Redirect the Strain |
 | **Grow Up** · *amplify capacity — what capability wants strengthening?* | Strengthen the Channel | Sharpen the Signal | Strengthen Your Stance | Strengthen the System |
 | **Show Up** · *create structure — what value am I amplifying?* | Build the Ladder | Build the Megaphone | Build the Leverage | Build to Last |
