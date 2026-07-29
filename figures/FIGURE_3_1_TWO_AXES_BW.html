@@ -1,0 +1,185 @@
+<title>Figure — The Two Axes of Emotional Alchemy</title>
+<style>
+  /* Print figure. Black and white only: no hue anywhere, so it survives
+     one-colour offset printing and photocopying. Channel identity is carried by
+     dot fill and rule weight instead of colour, which is the constraint doing
+     the design work rather than a limitation worked around. */
+  :root {
+    --paper:  #ffffff;
+    --ink:    #000000;
+    --ink-70: #4d4d4d;
+    --ink-45: #8c8c8c;
+    --ink-20: #cccccc;
+    --ink-08: #ededed;
+    --display: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+    --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  }
+  /* The figure is print artwork and commits to paper in both themes. Only the
+     surrounding page furniture responds to the viewer's theme. */
+  @media (prefers-color-scheme: dark) { :root { --page: #101010; --page-ink: #d8d6d0; --page-rule: #2e2e2e; } }
+  @media (prefers-color-scheme: light) { :root { --page: #f6f5f2; --page-ink: #26251f; --page-rule: #d6d4cb; } }
+  :root[data-theme="dark"]  { --page: #101010; --page-ink: #d8d6d0; --page-rule: #2e2e2e; }
+  :root[data-theme="light"] { --page: #f6f5f2; --page-ink: #26251f; --page-rule: #d6d4cb; }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--page); color: var(--page-ink);
+    font-family: var(--display); line-height: 1.55;
+  }
+  .shell { max-width: 58rem; margin: 0 auto; padding: clamp(1.4rem,4vw,3.5rem) clamp(1rem,4vw,2rem) 4rem; }
+  .note { font-family: var(--mono); font-size: .74rem; letter-spacing: .12em; text-transform: uppercase; color: var(--page-ink); opacity: .55; margin: 0 0 1.2rem; }
+  .shell > p.caption-outer { font-size: .92rem; max-width: 60ch; opacity: .8; }
+
+  /* ---- the figure itself: paper, always ---- */
+  .figure {
+    background: var(--paper); color: var(--ink);
+    border: 1px solid var(--page-rule);
+    padding: clamp(1.4rem, 3vw, 2.6rem);
+  }
+  .fignum {
+    font-family: var(--mono); font-size: .7rem; letter-spacing: .16em;
+    text-transform: uppercase; color: var(--ink-45); margin: 0 0 .5rem;
+  }
+  .figtitle { font-size: clamp(1.25rem,2.6vw,1.7rem); font-weight: 600; letter-spacing: -.01em; margin: 0 0 .35rem; line-height: 1.15; text-wrap: balance; }
+  .figdek { font-size: .95rem; color: var(--ink-70); margin: 0 0 1.8rem; max-width: 52ch; }
+
+  .scroller { overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; min-width: 40rem; font-family: var(--mono); }
+  caption { caption-side: bottom; text-align: left; font-family: var(--display); font-size: .86rem; color: var(--ink-70); padding-top: 1rem; max-width: 60ch; }
+  th, td { text-align: left; vertical-align: top; padding: .7rem .8rem; font-size: .76rem; line-height: 1.45; }
+  thead th { border-bottom: 2px solid var(--ink); font-size: .68rem; letter-spacing: .11em; text-transform: uppercase; color: var(--ink); font-weight: 700; }
+  thead th small { display: block; font-family: var(--display); letter-spacing: 0; text-transform: none; font-size: .8rem; font-weight: 400; color: var(--ink-70); margin-top: .2rem; }
+  tbody th { border-bottom: 1px solid var(--ink-20); border-right: 1px solid var(--ink-20); font-weight: 400; white-space: nowrap; }
+  tbody td { border-bottom: 1px solid var(--ink-20); }
+  tbody tr:last-child th, tbody tr:last-child td { border-bottom: 2px solid var(--ink); }
+  .chan { display: flex; align-items: baseline; gap: .5rem; }
+  .dot { width: .62rem; height: .62rem; border: 1.5px solid var(--ink); border-radius: 50%; flex: 0 0 auto; transform: translateY(-.02em); }
+  /* Channel identity without colour: fill pattern per element. */
+  .dot.metal { background: var(--paper); }
+  .dot.water { background: var(--ink); }
+  .dot.wood  { background: linear-gradient(to right, var(--ink) 50%, var(--paper) 50%); }
+  .dot.fire  { background: var(--ink-45); }
+  .dot.earth { background: repeating-linear-gradient(45deg, var(--ink) 0 1.5px, var(--paper) 1.5px 3px); }
+  .chan b { font-family: var(--display); font-size: .95rem; font-weight: 600; }
+  .chan span { color: var(--ink-70); font-size: .72rem; display: block; }
+  .sat b { font-family: var(--display); font-size: 1.02rem; font-weight: 600; display: block; }
+  .fn { color: var(--ink-70); }
+
+  /* the mid column is the Neutral operating range */
+  col.mid { background: var(--ink-08); }
+  .truen { box-shadow: inset 0 0 0 2px var(--ink); }
+  .truen b { font-family: var(--mono); font-size: .68rem; letter-spacing: .1em; text-transform: uppercase; display: block; margin-bottom: .3rem; }
+
+  /* ---- the two operations, drawn ---- */
+  .ops { display: grid; gap: 1px; grid-template-columns: repeat(auto-fit, minmax(16rem,1fr)); background: var(--ink-20); border: 1px solid var(--ink-20); margin: 2rem 0 0; }
+  .op { background: var(--paper); padding: 1rem 1.1rem 1.1rem; }
+  .op h4 { font-family: var(--mono); font-size: .7rem; letter-spacing: .12em; text-transform: uppercase; margin: 0 0 .55rem; }
+  .op p { font-size: .8rem; color: var(--ink-70); margin: 0 0 .6rem; }
+  .op p:last-child { margin: 0; }
+  .op .glyph { font-family: var(--mono); font-size: .74rem; color: var(--ink); border: 1px solid var(--ink-20); padding: .45rem .6rem; display: block; margin-bottom: .6rem; white-space: pre; overflow-x: auto; }
+
+  /* ---- the naming rule ---- */
+  .rule { border-top: 2px solid var(--ink); margin: 2rem 0 0; padding-top: 1.1rem; }
+  .rule h4 { font-family: var(--mono); font-size: .7rem; letter-spacing: .12em; text-transform: uppercase; margin: 0 0 .7rem; }
+  .rule dl { margin: 0; display: grid; grid-template-columns: auto 1fr; gap: .35rem 1rem; font-size: .8rem; }
+  .rule dt { font-family: var(--mono); white-space: nowrap; }
+  .rule dt.bad { text-decoration: line-through; color: var(--ink-45); }
+  .rule dd { margin: 0; color: var(--ink-70); }
+  footer { margin-top: 2.5rem; font-family: var(--mono); font-size: .72rem; opacity: .6; }
+</style>
+
+<div class="shell">
+  <p class="note">Book figure · black and white · canon-locked 29 July 2026</p>
+
+  <div class="figure">
+    <p class="fignum">Figure 3.1</p>
+    <h2 class="figtitle">Two axes, and a word that sits on both</h2>
+    <p class="figdek">A charge has two coordinates: <strong>which channel</strong> is reading, and
+      <strong>which range</strong> it is moving through. <em>Neutral</em> is a legal value on each
+      of them, and it does not mean the same thing twice.</p>
+
+    <div class="scroller">
+      <table>
+        <caption><strong>Reading the grid.</strong> Down the side, the five channels — the instrument
+          a signal arrives through. Across the top, the three operating ranges every channel moves
+          through. The outlined cell is where both axes read <em>neutral</em>: neutrality, in
+          process. That cell is the reason the word needs its axis named every time it is used.</caption>
+        <colgroup><col><col><col class="mid"><col></colgroup>
+        <thead>
+          <tr>
+            <th scope="col">Channel</th>
+            <th scope="col">Dissatisfied<small>the shadow of the job</small></th>
+            <th scope="col">Neutral<small>in process</small></th>
+            <th scope="col">Satisfied<small>the work completed</small></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row"><span class="chan"><span class="dot fire"></span><span><b>Fire</b><span>Anger</span></span></span></th>
+            <td>Frustration, resentment, hatred, domination<span class="fn"><br>Agency, boundaries, decisive action</span></td>
+            <td>in process</td>
+            <td class="sat"><b>Triumph</b>Agency has been restored.</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="chan"><span class="dot water"></span><span><b>Water</b><span>Sadness</span></span></span></th>
+            <td>Despair, collapse, helplessness<span class="fn"><br>Connection, meaning, letting go</span></td>
+            <td>in process</td>
+            <td class="sat"><b>Poignance</b>Loss has become meaning.</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="chan"><span class="dot metal"></span><span><b>Metal</b><span>Fear</span></span></span></th>
+            <td>Anxiety, paralysis, hypervigilance<span class="fn"><br>Discernment, preparation, possibility</span></td>
+            <td>in process</td>
+            <td class="sat"><b>Wonder</b>Uncertainty has become possibility.</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="chan"><span class="dot earth"></span><span><b>Earth</b><span>Neutrality</span></span></span></th>
+            <td>Numbness, apathy, dissociation<span class="fn"><br>Stability, observation, integration</span></td>
+            <td class="truen"><b>Both axes read neutral</b>Neutrality, in process.</td>
+            <td class="sat"><b>Peace</b>The system has stabilized.</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="chan"><span class="dot wood"></span><span><b>Wood</b><span>Joy</span></span></span></th>
+            <td>Manic distraction, novelty-seeking, sarcasm<span class="fn"><br>Growth, attraction, creativity</span></td>
+            <td>in process</td>
+            <td class="sat"><b>Bliss</b>Life is expanding through authentic expression.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="ops">
+      <div class="op">
+        <h4>Operation 1 &mdash; Transmute</h4>
+        <span class="glyph">one row · dissatisfied ──▶ satisfied</span>
+        <p>Stay in the same channel and mature its quality. Frustration to triumph. Grief to
+          poignance. Apathy to peace.</p>
+        <p><strong>It has a channel, because a row is a channel.</strong></p>
+      </div>
+      <div class="op">
+        <h4>Operation 2 &mdash; Translate</h4>
+        <span class="glyph">row to row · metal ──▶ fire</span>
+        <p>Move the energy into a different channel. Fear becomes anger when preparation becomes
+          action. Anger becomes peace once the boundary holds.</p>
+        <p><strong>It names two channels, because it crosses rows.</strong></p>
+      </div>
+    </div>
+
+    <div class="rule">
+      <h4>The naming rule</h4>
+      <dl>
+        <dt>Earth/Neutrality</dt><dd>the channel &mdash; a row. One of five.</dd>
+        <dt>Neutral range</dt><dd>the middle operating range &mdash; a column. Exists inside every channel.</dd>
+        <dt>Transmute · Translate</dt><dd>the two operations, and the only two.</dd>
+        <dt class="bad">Neutral Channel</dt><dd>attaches a column's word to the noun used for rows. Ambiguous by construction, so context cannot repair it.</dd>
+      </dl>
+    </div>
+  </div>
+
+  <p class="caption-outer" style="margin-top:1.6rem">Every cell is canon. Channels, core functions,
+    shadow states and satisfied states come from <em>Emotional Alchemy</em> as locked on
+    2026-07-29; the two operations are that document's own two. Channel identity is carried by dot
+    fill rather than hue so the figure prints in one colour and photocopies without loss.</p>
+
+  <footer>specs/SPEC_EMOTIONAL_ALCHEMY_CANON.md · specs/PANEL_NEUTRAL_CHANNEL_2026-07-29.md</footer>
+</div>

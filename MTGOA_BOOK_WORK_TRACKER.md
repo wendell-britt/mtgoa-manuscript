@@ -271,6 +271,47 @@ Status:
 
 ### P0 — Must Fix Before Any Other Editorial Work
 
+**🔴 A0 — Emotional Alchemy canon is LOCKED; reconcile the drift**
+- **Priority: HIGH.** Locked 2026-07-29 by Wendell: "we need to lock in the
+  canonical version of emotional alchemy because it's drifted."
+- Canon: `specs/SPEC_EMOTIONAL_ALCHEMY_CANON.md` §1, verbatim. Single authority.
+- Supersedes: `EMOTIONAL_ALCHEMY_TRANSLATOR.md`,
+  `SPEC_EMOTIONAL_ALCHEMY_TRANSLATOR.md`, `AGENTS.md` EA Standards,
+  `LEARNING_METABOLISM_CH6` §14, and ch6/ch7's local taxonomies.
+- **Canon has TWO operations: Transmute and Translate.** Four different
+  taxonomies are currently live in the repo, three of them with three operations
+  each. `Generative` and `Control` were never operations — they were the two
+  directions of Translate (the Wu Xing nourishing and overcoming cycles).
+- Sound already, measured: the five element/emotion pairs, all five satisfied
+  states, the three operating ranges, charge-first, and all nine of ch7's
+  Translate keyings. The drift is in the operation vocabulary only.
+- Steps: E1 settle names (retire `Transcend` x4, `neutralize` x3, `Control` as an
+  operation x15). **E2 BLOCKING — Wendell:** do ch7/ch8's `Control` moves become
+  `Translate` (into Earth/structure) or lose the operation label entirely? Canon
+  does not name them. E3 rewrite ch7:175, the book's own definition, which names
+  the three ranges as if they were operations. E4 put the two axes in ch3 via the
+  figure. E5 carry the Core Function column into ch3's table. **E6 Wendell:** does
+  the cooperative Emotional Process sequence (Stimulus -> ... -> Controller ->
+  Skeptic -> Conscious Action) enter the book? It reframes Controller and Skeptic
+  from antagonists to stages — doctrinal, not a copy-edit. E7 point every
+  superseded file here, or all of the above regenerates.
+- Figure: `figures/FIGURE_3_1_TWO_AXES_BW.html` — black and white per Wendell,
+  channel identity by dot fill not hue so it prints in one colour.
+- Check: `grep -rin "transcend\|neutralize" manuscript/` and
+  `grep -rn "\[CONTROL\]\|Control Move\|Neutral Channel" manuscript/` both 0.
+
+**🟠 A3 — "The Face" means two different sets of six**
+- Priority: MEDIUM-HIGH. Same class of bug as Neutral Channel, found while
+  locking EA canon.
+- `appendices/APPENDIX_C_KEY_TERMS.md` defines **The Face** as "one of six
+  interior voices (Protector, Controller, Skeptic, Fixer, Victim, Damaged Self)."
+  The manuscript uses "the six Faces" **26 times** to mean Shaman, Challenger,
+  Regent, Architect, Diplomat, Sage.
+- Two different sets of six share the name, and the glossary — the one place a
+  confused reader looks — defines it as the other one.
+- Fix: needs Wendell's call on which set keeps "Face". Not yet specced.
+
+
 **🔴 A1 — Strip the deprecated bracket move tags (28) and settle *Neutral Channel***
 - **Priority: HIGH. Print blocker.** Set 2026-07-29 by Wendell.
 - Spec: `specs/SPEC_BRACKET_TAGS_2026-07-29.md`
