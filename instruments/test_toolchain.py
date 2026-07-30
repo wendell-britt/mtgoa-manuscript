@@ -188,4 +188,29 @@ check("paired dashes name their shape",
 _cur = {"ch1.md": 10}
 check("ratchet refuses a rise", 20 > _cur["ch1.md"], True)
 
+# --- the appositive `which` tail, widened 2026-07-30 -------------------------
+# These cases exist because the rule was widened twice and the second widening had
+# to be proved not to lose the first one's catches. Two are historical: `which is
+# the point` is the shape the 2026-07-29 sweep cleared 64 of, and `six of which`
+# is the R16 false alarm, where a correct sentence was reported as broken and a
+# real edit was nearly made against it.
+import re as _re, sys as _sys, os as _os2
+_sys.path.insert(0, _os2.path.join(_os2.path.dirname(_os2.path.abspath(__file__)), _os2.pardir, "marginalia"))
+import review as _rv
+_WHICH = next(p for p, n in _rv.AI_SHAPES if n == "appositive 'which' tail")
+
+for _probe, _want in [
+    (", which is the point",                     True),   # the original shape
+    (", which describes a pecking order",        True),   # missed before the widening
+    (", which should tell you what it is worth", True),   # missed before the widening
+    (", which means you are not holding it",     True),   # tail verb beats guard 2
+    (", which channel you are running",          False),  # embedded question
+    (", which he had built",                     False),  # `which` is the object
+    ("Which daemon had the joystick?",           False),  # the chapter asking
+    ("Which are you suppressing?",               False),  # ditto, and the old guard
+    ("ninety seconds, six of which are Open Up", False),  # R16
+]:
+    check("which-tail: %s" % _probe.strip()[:38],
+          bool(_re.search(_WHICH, _probe)), _want)
+
 print("all cases pass")

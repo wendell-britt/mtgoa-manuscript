@@ -196,14 +196,47 @@ AI_SHAPES = [
     (r"(?i)\bit'?s not\s+[^.;]{3,40}[.;]\s*(it'?s|that'?s)\b", "denying negation (It's not X. It's Y)"),
     (r"(?i)\bnot\s+(just|only|merely)\s+[^,;.]{3,50},\s*but\b", "not-just-but construction"),
     # Widened 2026-07-29: the narrow form required which-is-the/a/what/why/how and
-    # let ", which is easy to mistake for" through my own pre-flight.
-    # Both the comma-tail and the sentence-initial fragment. The earlier rule
-    # required a preceding comma, so ". Which is its own kind of problem."
-    # slipped past it; 9 were sitting in the manuscript.
-    # The negative lookahead spares the interrogative: "Which are you
-    # suppressing?" is a question the chapter asks the reader, not a tail.
-    (r"(?i)(?:,\s*|(?<=[.!?])\s+)which\s+(?:is|was|are|were)\b"
-     r"(?!\s+(?:you|we|I|they|he|she|it)\b[^.!?]{0,40}\?)", "appositive 'which is' tail"),
+    # let ", which is easy to mistake for" through my own pre-flight. It caught both
+    # the comma-tail and the sentence-initial fragment, since ". Which is its own
+    # kind of problem." had been slipping past a comma-anchored rule.
+    #
+    # Widened again 2026-07-30, ruled a blocker by Wendell. The verb slot was still
+    # is/was/are/were, so the tic went undetected the moment it wore a different
+    # verb. Three went into the author's note on three consecutive review rounds —
+    # `which describes`, `which should`, `which is` — and only the last was visible
+    # to this instrument. The other two were caught by reading, which is exactly the
+    # work an instrument exists to stop doing. Against the shipping surfaces the
+    # count goes 22 -> 79, with no case the old pattern caught and this one misses.
+    #
+    # The tic is `which` acting as the SUBJECT of a clause that comments on what
+    # precedes it. Three guards separate that from ordinary English, and all three
+    # sit ahead of the \w+ so backtracking cannot dodge one — an earlier attempt put
+    # the question guard after \w+, and the engine matched "Which ar" so the
+    # lookahead would pass.
+    #
+    #   1. no question. "Which daemon had the joystick?" is the chapter asking.
+    #   2. no embedded question. "which channel you are running" is a noun clause.
+    #   3. no following subject. "the house, which he had built" is a relative
+    #      clause where `which` is the object, and is not the tic.
+    #
+    # Guard 2 would also swallow "which means you are not holding an archetype",
+    # a real tail, so the common tail verbs are whitelisted ahead of it and bypass
+    # it. Missing a tail is the failure this widening exists to fix; a false
+    # positive only costs an adjudication, and this rule is a WARN.
+    (r"(?i)(?:,\s*|(?<=[.!?])\s+)which\s+"
+     r"(?![^.!?]{0,90}\?)"
+     r"(?:"
+     r"(?:is|was|are|were|means|meant|makes|made|gives|gave|leaves|left|has|had"
+     r"|helps|helped|hands|handed|turns|keeps|kept|costs|lets|allows|requires"
+     r"|involves|includes|suggests|explains|describes|sounds|looks|becomes"
+     r"|comes|came|should|would|could|will|may|might|can|does|did|do)\b"
+     r"|"
+     r"(?![\w-]+\s+(?:you|we|they|I|he|she|it)\b)"
+     r"(?!(?:he|she|it|they|we|i|you|the|a|an|his|her|their|its|my|our|your"
+     r"|anyone|someone|everyone|nobody|of|one|ever|way|kind|sort|type|other"
+     r"|two|three|four|five|six|twenty)\b)"
+     r"\w+"
+     r")", "appositive 'which' tail"),
     (r"(?i)\bisn'?t (?:about|the) [^.;]{3,40}[.;]\s*(it'?s|that'?s)\b", "denying negation variant"),
     (r"(?i)\bin a world where\b", "AI opener"),
     (r"(?i)\bat the end of the day\b", "filler idiom"),
