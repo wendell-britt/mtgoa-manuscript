@@ -49,6 +49,24 @@ insertions S3 proposes, but it is not an unkept promise.
 
 ### STILL LIVE, measured 2026-07-30
 
+**Break 3 — inverted, not stale.** It says *"the perform layer is not uniform, and
+the Diplomat is the chapter without it."* Measured: `ch7` is the **only** chapter
+carrying an explicit `**Working vs. performed:**` block, on four of five moves. No
+other chapter has one at all. ch7 also averages 450 words per move, second only to
+ch3's 621. Whatever is thin in this book, it is not the Diplomat's perform layer.
+
+**S6 — ruled 2026-07-30, and its premise was wrong.** It asks whether "Chapters 7
+and 8 adopt the labelled `**Example:**` block used by Chapters 3, 4, 5, 6, and 9."
+The label is in **ch3, ch6, ch9 only** — zero in ch4, ch5, ch7, ch8. Ruled
+optional: every chapter supplies a concrete instance, as a labelled Example in
+ch3/ch6/ch9 and as a scripted line in ch4/ch7/ch8. Full table in
+`MANUSCRIPT_FILE_CANON.md`.
+
+**What S6 was pointing near, and missed: ch5.** 119 words per move against a 336
+average, and every one of its moves is internal — *make a list, identify, ask
+yourself*. The Regent is the one Face that never hands the reader a sentence to say
+out loud. That is a live gap and a real one.
+
 **Break 4 / S1 — the altitude ladder.** `ch8:201` still reads *"Red, Amber,
 Orange, Green, Teal"* with no teaching, and *Teal* appears unglossed at `ch8:191`
 and `ch8:269`. The finding holds and the ruling is open.

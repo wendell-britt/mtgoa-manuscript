@@ -109,6 +109,39 @@ The Reflection Prompts convention is retired. It appears in zero chapters as of 
 
 Chapter 2's sections renumber 1 through 10. The old Section 9 (Reflection Prompts) was cut and Sections 10 and 11 moved up.
 
+## The move-section conventions — S6 ruled 2026-07-30
+
+**The `**Example:**` label is optional.** Three conventions exist across the seven
+move chapters, each doing the same job differently, and standardising them would
+flatten a real difference:
+
+| ch | words/move | `Example:` | scripted line | working-vs-performed |
+|---|---|---|---|---|
+| 3 | 621 | ✓ | ✗ | ✗ |
+| 4 | 210 | ✗ | ✓ | ✗ |
+| 5 | **119** | ✗ | ✗ | ✗ |
+| 6 | 250 | ✓ | ✗ | ✗ |
+| 7 | 450 | ✗ | ✓ | **✓** |
+| 8 | 301 | ✗ | ✓ | ✗ |
+| 9 | 399 | ✓ | ✓ | ✗ |
+
+What the reader needs is a concrete instance she can act on, and every chapter
+supplies one — as a labelled Example in ch3/ch6/ch9, as a scripted line in
+ch4/ch7/ch8, as both in ch9. **The label is a navigation aid, not the substance.**
+Stop flagging its absence.
+
+**Two things this measurement overturned.** `SPEC_STRUCTURAL_DELIVERY.md` S6 says
+the label is used by "Chapters 3, 4, 5, 6, and 9" — it is in ch3, ch6, ch9 only.
+And its Break 3 says the Diplomat is the chapter *without* a perform layer: ch7 is
+the only chapter that **has** one, an explicit `**Working vs. performed:**` block on
+four of five moves, which no other chapter carries.
+
+**The real gap is ch5, and it is not about labels.** At 119 words per move it is
+half the next thinnest and a fifth of ch3. More to the point, its moves are all
+internal — *make a list, identify, ask yourself* — so the Regent is the one Face
+that never hands the reader a sentence to say out loud. Move 3 is the sole
+exception. Open as a ruling; drafts exist in the session record.
+
 ## Still missing from the book
 
 **Corrected 2026-07-29. The previous version of this section was wrong**, and it
