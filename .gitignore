@@ -16,3 +16,6 @@ sources/
 # Python bytecode
 __pycache__/
 *.pyc
+
+# Built print deliverable — regenerate with instruments/build_book.py --write
+build/

@@ -2,7 +2,7 @@
 
 **Status:** Draft — written 2026-06-03 from appendix design spec (`docs/plans/2026-05-21-appendix-design.md`) + per-chapter WB-1 centerpieces + `GATE_GIFTS_ALLYSHIP_MOVES.md`. De-somatized per the no-somatic-prescription directive.
 **Authority:** Integral design spec 2026-05-21 (Hex 50, The Cauldron); quest/gate/domain table locked there.
-**Location in book:** After Appendix A; before Appendix C.
+**Location in book:** After Appendix A; before Appendix C (The Five Channels in Practice).
 **Timing dependency:** Each quest routes to the app for BAR capture. The bars-engine quest structures named below (`→ app: [Quest Name]`) must exist before this appendix goes to press. Coordinate before press.
 
 ---
@@ -11,7 +11,7 @@ You crossed the forest. You met the Faces. You know the moves.
 
 This is the game board.
 
-What follows isn't homework and it isn't a recap — the book already taught the framework. These are the reps. Eight **quests**, one per chapter, that you run alone. Four **campaigns**, one per domain, that you can run with other people. Each one takes something you learned and turns it into a week (or a session, or a month) of actual practice, with a place to capture what happened.
+What follows isn't homework and it isn't a recap — the book already taught the framework. These are the reps. Eight **quests**, one for each chapter of the walk, that you run alone. Four **campaigns**, one per domain, that you can run with other people. Each one takes something you learned and turns it into a week (or a session, or a month) of actual practice, with a place to capture what happened.
 
 Pick the one that's pulling at you. Not the one you should do. The one that's already calling.
 
@@ -26,7 +26,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 ---
 
 ### Quest 1 — The Forest Walk
-*Chapter 1 · Gate: Emotional Body · Domain: Gather Resources · 7 days*
+*Chapter 2 · Gate: Emotional Body · Domain: Gather Resources · 7 days*
 
 ***The shadow running:*** You walk the forest blindfolded — reacting all day without ever knowing which gate is driving. You can't work with what you can't name.
 
@@ -39,85 +39,85 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 ---
 
 ### Quest 2 — The Shaman Read
-*Chapter 2 · Gate: Emotional Body · Domain: Gather Resources · 7 days*
+*Chapter 3 · Gate: Emotional Body · Domain: Gather Resources · 7 days*
 
-***The shadow running:*** You read the room perfectly and then do nothing with it — attunement without transfer. Sensing what's needed is not the same as moving it.
+***The shadow running:*** You read the space perfectly and then do nothing with it — attunement without transfer. Sensing what's needed is not the same as moving it.
 
 ***The gift:*** You name which of the five channels is running — anger, fear, sadness, joy, neutrality — and let the read change what you actually offer.
 
 1. Before you respond to anything charged this week, name the channel that's running. Out loud if you can.
-2. Run one full WAVE in a live moment — the one from Chapter 2 — and let the read change your next move, not just your understanding of it.
+2. Run one full WAVE in a live moment — the one from Chapter 3 — and let the read change your next move, not just your understanding of it.
 3. Capture what the channel did once you worked *with* it instead of around it. → app: *The Shaman Read.*
 
 ---
 
 ### Quest 3 — The Challenger's Question
-*Chapter 3 · Gate: Skeptic · Domain: Raise Awareness · 7 days*
+*Chapter 4 · Gate: Skeptic · Domain: Raise Awareness · 7 days*
 
 ***The shadow running:*** Either the question that paralyzes you (the Skeptic aimed at yourself — "I'll get this wrong") or the cheap shot dressed up as inquiry.
 
 ***The gift:*** Deliberate deceleration. You slow down long enough to find the question that's actually about the essence — and you ask it out loud.
 
-1. When you feel the pull to react fast this week, run the 30-Second Protocol from Chapter 3 first. The pause is the move.
-2. Ask one person the question nobody in the room is asking — aimed at what the situation is actually about, not at scoring a point.
+1. When you feel the pull to react fast this week, run the 30-Second Protocol from Chapter 4 first. The pause is the move.
+2. Ask one person the question nobody present is asking — aimed at what the situation is actually about, not at scoring a point.
 3. Capture what the second look showed you that the first reaction missed. → app: *The Challenger's Question.*
 
 ---
 
 ### Quest 4 — The Regent's Inventory
-*Chapter 4 · Gate: Protector · Domain: Skillful Organizing · One session (~2 hours)*
+*Chapter 5 · Gate: Protector · Domain: Skillful Organizing · One session (~2 hours)*
 
 ***The shadow running:*** You hold inherited standing without ever naming it — or you guard it so hard nothing moves through it.
 
 ***The gift:*** You take stock of what you were handed, claim it out loud, and set the one limit that keeps your capacity intact.
 
 1. List what you've inherited that gives you standing here: access, credibility, position, relationships, the benefit of the doubt.
-2. Name one inheritance out loud to the people who actually hold it — and say whether you're claiming it or moving to reform it (the Chapter 4 move).
+2. Name one inheritance out loud to the people who actually hold it — and say whether you're claiming it or moving to reform it (the Chapter 5 move).
 3. Set one concrete limit that keeps you functional, and capture: what did you name, and what did it make possible? → app: *The Regent's Inventory.*
 
 ---
 
 ### Quest 5 — The Architect's Blueprint
-*Chapter 5 · Gate: Controller · Domain: Skillful Organizing · 7 days*
+*Chapter 6 · Gate: Controller · Domain: Skillful Organizing · 7 days*
 
 ***The shadow running:*** You design the whole thing in your head and never say the load-bearing part — or you enforce a standard nobody agreed to.
 
 ***The gift:*** You name what's working and what isn't, choose the standard on purpose, and build one condition around it.
 
 1. Find the unstated assumption holding a situation in place. Name it to yourself first, exactly.
-2. Say it out loud to the people inside the situation — hold the flinch, stay warm while you stay clear (the Chapter 5 move).
+2. Say it out loud to the people inside the situation — hold the flinch, stay warm while you stay clear (the Chapter 6 move).
 3. Choose one standard deliberately and design a single condition that holds it. Capture what you built. → app: *The Architect's Blueprint.*
 
 ---
 
 ### Quest 6 — The Diplomat's Bridge
-*Chapter 6 · Gate: Vulnerable Child · Domain: Gather Resources · 7 days*
+*Chapter 7 · Gate: Vulnerable Child · Domain: Gather Resources · 7 days*
 
 ***The shadow running:*** You manage the container so smoothly that nothing real ever crosses it — politeness as a way to avoid contact.
 
 ***The gift:*** Genuine curiosity. You enter to find out, not to be right, and you're willing to be changed by what you learn.
 
 1. Enter one situation this week to learn something, not to win it. Pick your orientation: grow, learn, play, or explore.
-2. Close with honest terms — say the true thing about where things actually stand, then make real contact across the gap (the Chapter 6 move).
+2. Close with honest terms — say the true thing about where things actually stand, then make real contact across the gap (the Chapter 7 move).
 3. Capture the surprise — what happened that you didn't see coming? If nothing surprised you, curiosity wasn't leading. → app: *The Diplomat's Bridge.*
 
 ---
 
 ### Quest 7 — The Sage's Principle
-*Chapter 7 · Gate: Skeptic · Domain: Raise Awareness · 7 days*
+*Chapter 8 · Gate: Skeptic · Domain: Raise Awareness · 7 days*
 
 ***The shadow running:*** You see the whole game and use the seeing to float above everyone in it. Altitude as a place to hide.
 
 ***The gift:*** You name the game without leaving the table — make the pattern visible to someone who's still in it, and stay.
 
-1. **See it.** Name the pattern actually running in a room you're in — the game underneath the conversation.
+1. **See it.** Name the pattern actually running in a space you're in — the game underneath the conversation.
 2. **Say it.** One sentence that makes the game visible to someone caught inside it. Plain, not clever.
 3. **Stay.** Don't drift up after you've named it. Remain at the table. Capture what shifted when you stayed. → app: *The Sage's Principle.*
 
 ---
 
 ### Quest 8 — The Player's Full Game
-*Chapter 8 · All gates · All domains · 30 days*
+*Chapter 9 · All gates · All domains · 30 days*
 
 ***The shadow running:*** You collect moves like a scoreboard — allyship as another thing to be good at, another way to win.
 
@@ -140,7 +140,7 @@ A quest is solo. A campaign is the same kind of practice, run longer and out lou
 
 **What it builds:** the habit of sensing what's actually depleted — in you, in the people you're allied with — and moving the real resource, not the gesture.
 
-- **Week 1 — Name it.** Capture what's genuinely depleted in your circle. Not the obvious ask; the real shortage.
+- **Week 1 — Name it.** Capture what is actually depleted in your circle. Not the obvious ask; the real shortage.
 - **Week 2 — Move it.** Transfer one real resource to someone who needs it. It has to cost you something. Capture what moved.
 - **Week 3 — Track it.** What did the transfer free up? Capture the downstream effect.
 
@@ -162,7 +162,7 @@ A quest is solo. A campaign is the same kind of practice, run longer and out lou
 ---
 
 ### Direct Action Campaign
-*Domain: Direct Action · Gates: Fixer + Damaged Self · 21 days · Accountability partner*
+*Domain: Direct Action · Gates: Fixer/Healer + Damaged Self · 21 days · Accountability partner*
 
 **What it builds:** surgical action inside your actual scope — and the damage you take on purpose instead of by default.
 
