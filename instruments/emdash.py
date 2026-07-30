@@ -36,7 +36,12 @@ def prose_lines(text):
         s = line.strip()
         if not s or s.startswith("|") or s.startswith("—"):
             continue
-        if "←" in s or "→" in s or "●" in s:
+        # The bullet is the reliable axis-diagram marker. Keying on the arrows
+        # instead was a false negative worth 70 prose em-dashes: this book uses
+        # "→" constantly in ordinary sentences (Fire/Anger → Triumph, Obedience →
+        # True Allegiance), and every one of those lines was being skipped. Only
+        # four lines in the manuscript are real diagrams, and all four have "●".
+        if "●" in s:
             continue
         if HEADING.match(s):
             continue
