@@ -55,7 +55,7 @@ The Challenger didn't dislike the Shaman. The Challenger just believed that *som
 
 At first, this seemed right. There were problems that needed solving. The village needed someone who could draw a line in the sand. Someone who could say "this is unacceptable" without softening it. Someone who could move while others still gathered information. The Challenger could do that. The Challenger *did* that.
 
-It worked. For a while.
+It worked. The cost landed somewhere the village never thought to look.
 
 <!-- MARGINALIA -->
 > *We put in once at Oreve, which is a port and a poor one — the moorings were rotten and the

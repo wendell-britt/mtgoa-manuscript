@@ -299,7 +299,7 @@ The map does not show you what failure looks like. Real failure — the kind whe
 
 The map also doesn't show you what success looks like from the inside. The moment when someone plays bars-engine and something opens in them that you didn't know was closed. The moment when a player names a feeling they've never been able to name before and you realize the game did that. The moment when the thing you built does exactly what you designed it to do and you feel nothing — because you're already thinking about the next version.
 
-The map doesn't show you that the walk takes as long as it takes. That you will not finish the map. That the point is not to finish. That the walk is the thing.
+The map doesn't show you that the walk takes as long as it takes. That you will not finish the map. That the point is not to finish.
 
 The map stays silent about all of that. I want you to know it — so that when the walking takes longer than you thought, you don't read that as evidence that you took the wrong path.
 
@@ -639,7 +639,7 @@ So here are six moments. Read each one and write down two things before you go o
 
 **One is the Challenger.** Nothing here needs translating. Everyone at that table understood what happened, including the person it happened to, which means the field is not confused, it is silent. The pull is toward the Diplomat, who has a version of this that costs nothing: catch the director afterward, catch the newest person afterward, be warm to both, bring the temperature down. That version leaves the four seconds exactly as they were. The move is **Name the Unnameable** (Chapter 4), and its entire value is that it happens inside the four seconds rather than in the hallway.
 
-**Two is the Architect.** Three people have failed at this role and every one of them experienced it as a personal failure — the signature of a design problem wearing a people problem's clothes. The pull is toward the Regent, and it is an honorable one: keep the vows, carry the thing, cover again. Covering again is what produced the third departure. The move is **Design for Handoff** (Chapter 6), run before the new coordinator's first week instead of after their last.
+**Two is the Architect.** Three people have failed at this role and every one of them experienced it as a personal failure — the signature of a design problem wearing a people problem's clothes. The pull is toward the Regent, and it is an honorable one: keep the vows, carry the load, cover again. Covering again is what produced the third departure. The move is **Design for Handoff** (Chapter 6), run before the new coordinator's first week instead of after their last.
 
 **Three is the Shaman.** You have a spike you have not named and you are already building a response on top of it, which means whatever you say next will be carrying cargo neither of you can see. The pull is toward the Architect or the Diplomat, since both have something useful to hand her, and the thing you are assembling really might be right. The move is **Catch It Before the Story** (Chapter 3). What it costs you is a few seconds and the sentence you had ready.
 

@@ -266,7 +266,7 @@ That is the Architect's practice. Logic as a living instrument. Structure as gen
 
 ### Name One Unstated Assumption, in the Village
 
-Everything above builds the instrument. One move takes it out of the Forest. Structural clarity, kept in your head, costs nothing — and risks nothing. The moment you say it out loud in front of the people who built the thing, it costs something. That's the Architect's exile wound in miniature: clarity gets heard as judgment. This week, you say it anyway.
+Everything above builds the instrument. One move takes it out of the Forest. Structural clarity, kept in your head, costs nothing — and risks nothing. The moment you say it out loud in front of the people who built the system, it costs something. That's the Architect's exile wound in miniature: clarity gets heard as judgment. This week, you say it anyway.
 
 Pick a group you're actually in — a team, a committee, a coalition — where everyone keeps busy solving the visible problem and nobody has named the thing underneath it: the load-bearing assumption nobody sees, because it has held true so long no one remembers deciding it. Then name it. Out loud. Not as a question you can retreat from (*"do we maybe want to think about whether…?"*) — as a flat observation: *"We're assuming X. I don't think that's true anymore, and everything we're building sits on top of it."*
 
