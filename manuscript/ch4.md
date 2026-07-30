@@ -574,13 +574,13 @@ The Challenger's game is simple: **draw the line, name the cost, mean it.**
 
 You know when you're winning at this altitude because the boundary exists out loud. Out of your head, out of the follow-up email you rehearse but never send. Said. Held.
 
-The Challenger's game has five concrete moves. You can use them today.
+The Challenger's game has five concrete moves. They are the same five stages you ran with the Shaman, run at a table where the other person can answer back. You can use them today.
 
 Egan spent forty years studying one skill: the capacity to act clearly in a charged interpersonal moment. Not to think clearly — that's the easy part — but to act. *The Skilled Helper* makes a case that most people don't make explicit: you don't develop this capacity by understanding it. You develop it by doing it badly, noticing what failed, and doing it again with that information. The model is always: here is where you are, here is where you want to be, here is the next move to practice. That is what these five moves are built for. Not to be read. To be practiced until they become reliable.
 
 ---
 
-### Move 1: Name the Unnameable
+### Move 1 · Wake Up — Name the Unnameable
 
 **The Situation:** Someone says or does something. Everyone can feel it. Nobody names it.
 
@@ -588,17 +588,67 @@ Egan spent forty years studying one skill: the capacity to act clearly in a char
 
 *We're not addressing the thing that just happened. I'd like to.*
 
-That's it. That's the move. The naming does the work. Most situations have a specific thing — a violation, a dismissal, a boundary crossed — that everyone has noticed and nobody has stated. You state it. You don't need a solution. You just need the thing to exist as a named reality.
+The naming does the work. Most situations have a specific thing, a violation or a dismissal or a boundary crossed, that everyone has noticed and nobody has stated. You state it. You don't need a solution. You just need the thing to exist as a named reality.
 
 **Why it matters:** Unnamed things feel larger than named things. Naming it reduces it. It demonstrates, for everyone watching, that the line exists.
 
-In practice: Next time you're in a meeting and something happens that you can feel everyone noticing and nobody stating — that's your cue. State it. Plainly. *"That comment about X wasn't accurate. I want to note that before we move on."*
+In practice: Next time you're in a meeting and something happens that you can feel everyone noticing and nobody stating, that is your cue. State it. Plainly. *"That comment about X wasn't accurate. I want to note that before we move on."*
+
+**Example:** A senior colleague says a contractor "isn't going to be here long enough to matter," and the contractor is on the call. Nobody picks it up, and the agenda moves on. What you say, forty seconds later, is *we skipped past something. Priya is on this call and that was about her.* You stop there. The cost of not saying it lands on her rather than on you. She works the next three weeks knowing the others heard it and let it stand. You don't know whether she wanted it named, and that is a real risk you are taking on her behalf. The alternative was six people agreeing by saying nothing, and she would have had to read that too.
 
 **The test:** The thing is now named, stated plainly, in the moment, with no solution attached. What the group does with it next is the group's. The naming is the whole move.
 
 ---
 
-### Move 2: Draw the Line
+### Move 2 · Open Up — Take the Full Charge
+
+**The Situation:** The fire has arrived and you have not said anything yet. Two exits are open. You can spend it now, on the first sentence available, or you can talk it down to a size that would not embarrass you.
+
+**What it is:** You take neither exit. You let the charge stay at the strength it arrived at, unspent, long enough to read what it is pointing at.
+
+**Why it matters:** Aim runs on the charge at full size. Talk it down and you aim the smaller thing, so you draw the line a mild irritation would draw, which gives you a preference in a firmer voice. Spend it on arrival and you never aim at all, because the first sentence available is aimed at whoever is nearest and the fire is not reliably about them. Holding it unspent is uncomfortable in a specific way. The pressure arrives feeling like urgency, and urgency is the most convincing wrong reason to say something.
+
+In practice: when the charge lands, start a clock instead of a sentence. Thirty seconds, and you may think about anything except what you are going to say. Where it sits in your body. How big it is. What it is pointing at. If the size drops while you are watching it, you did the talking down, and the reading you now have is a reading of the smaller thing.
+
+**Example:** Your manager reassigns the project you built to somebody hired last month, and says so in a channel with forty people in it. The charge is at an eight. Two sentences arrive in the first three seconds and both are aimed at the new hire, who has done nothing. Thirty seconds of saying neither one, and the size holds, and what it points at moves. A manager gets to reassign a project. What you are carrying is the forty people, and that you learned it the same way they did. That one is drawable. *I need to hear this kind of thing before the channel does.* Spending the eight in those first three seconds costs you the new hire for a year and leaves the line undrawn, because the sentence you would have said was about the wrong person.
+
+**The test:** Thirty seconds passed, you said nothing, and the charge is the size it was. If it shrank, that is information about what you do with fire rather than a failed attempt. If you spent it, you will know, because the sentence was about a person instead of about a line.
+
+---
+
+### Move 3 · Clean Up — Confront Without Cruelty
+
+**The Situation:** You have to say something hard to someone, and you have twenty minutes before you say it.
+
+**What it is:** Name which channel you are carrying before you open your mouth. Fire or Water. A line was crossed, or something was lost. You are going to say the hard thing either way, and which one you are actually carrying decides what comes out.
+
+**Why it matters:** Cruelty in a confrontation is usually a mismatch rather than a decision. Anger delivered as anger lands hard and lands clean, because Fire asks for agency and the other person can hand agency over. Hurt delivered as anger lands as an attack, and nothing they do can satisfy it, because Water wanted to be met and you asked to win instead. So they defend, you escalate, and afterward you cannot say what you were actually after. Naming the channel first does not soften the content. It aims it.
+
+In practice: before the conversation, finish one of two sentences out loud. *A line was crossed and I want it to stop.* Or: *something was lost and I want you to know what it cost.* Say the truer one when you get there, whichever it is. The second sentence costs more to say, and it is the only one that can be answered.
+
+**Example:** A colleague cut off a junior teammate twice in one review and you let both go. Walking to the conversation, the sentence that wants out is *you talk over people and it's arrogant.* Fire: a line was crossed, stop crossing it. Checked against the other sentence it does not hold up, because the true one runs: *Dara has not volunteered an idea since that meeting, I think you cost us her, and I mind.* Water. Say the second one and name the cost in the currency the team runs on, which is one person's ideas out of a pipeline that has six people in it. Your colleague does not defend, because a defence answers an accusation and Water made a report. Delivered as Fire, the same twenty minutes end with your colleague explaining the review process and Dara still saying nothing.
+
+**The test:** You named the channel before you spoke, and the sentence you actually said matched the one you named. The content did not get softer once the channel was named, which is how you know you used the naming to aim and not as an exit.
+
+---
+
+### Move 4 · Grow Up — Find What You Keep Defending
+
+**The Situation:** You have drawn a few lines by now, and swallowed more than you drew. You have judged each one on its own.
+
+**What it is:** Put the last five side by side. The ones you drew and the ones you let go. Find the thing all five have in common.
+
+**Why it matters:** One line tells you almost nothing about yourself. You cannot tell from a single instance whether you met the thing in front of you or an old thing wearing today's clothes, and that question is what the whole chapter turns on. Five instances answer it, because lines cluster and the cluster has a subject. Somebody who draws every line around being talked over is protecting something different from somebody who draws every line around other people's workload. While the subject stays unnamed you draw when the trigger arrives. Named, you choose.
+
+In practice: list five moments from the last month where a line was available. Four words each, no explanation. Then read the five together and say what they are all about.
+
+**Example:** *Manager rewrote my summary. Colleague took the client call. Teammate presented my slide. Nobody credited the doc. My name came off the deck.* Separately, five ordinary irritations, four of which you let go. Together, they have one subject: attribution, the record of who did the thing. Knowing that changes the next month twice over. It tells you which fights are yours, and it tells you the four you swallowed were all the same fight.
+
+**The test:** You can name the subject in one noun, and it surprises you a little. A subject you already knew is the story you tell about yourself rather than the pattern underneath it. If five moments give you five subjects, collect more moments instead of reaching for a tidier answer.
+
+---
+
+### Move 5 · Show Up — Draw the Line
 
 **The Situation:** Someone is about to cross a line, or has just crossed one, or keeps crossing one.
 
@@ -614,65 +664,15 @@ In practice: Next time you're in a meeting and something happens that you can fe
 
 In practice: When you feel yourself reaching for a qualifier, stop. Take the qualifier out. State the line. Hold it for one second longer than is comfortable. That's usually all it takes.
 
+**Example:** A hiring panel is closing out a no on a candidate because she would not be a culture fit, and nobody has said what that means. The line: *I'm not able to support a no on culture fit unless somebody names the behavior. Name it and I'll vote with you.* One sentence of line and one of offer, in front of five people who will remember which side you took. It costs you the next twenty minutes, which turn uncomfortable when they were going to be efficient. The candidate gets a decision made on something a person can be wrong about out loud. The sentence does not argue that she should be hired. Drawing a line for somebody else means insisting on the standard rather than delivering the outcome, and confusing the two is how advocacy becomes speaking for a person who never asked you to.
+
 **The test:** The line left your mouth without an essay, a justification, or an apology attached. Count the words afterward: more than you needed means you were explaining, whatever they did in response.
-
----
-
-### Move 3: Refuse Cleanly
-
-**The Situation:** Someone asks you to do something you cannot or will not do. A request that violates a boundary. A demand that requires you to abandon yourself.
-
-**What it is:** Say no. Just the word. The essay stays unwritten, and so does the three-paragraph explanation that actually apologizes for saying no.
-
-*No.*
-
-*No, that doesn't work for me.*
-
-*No, I won't be doing that.*
-
-**Why it matters:** Most people mistake the three-paragraph explanation for clarity. The explanation is *hiding.* The explanation signals that the no needs justifying, that the boundary needs defending. The Challenger knows: the no stands on its own. The explanation is optional. The no is not.
-
-In practice: Practice the one-word no. Not *let me think about it* (which is a soft no) and not *I'm not sure I can* (which is an apologetic no) but *no.* Just no. See what happens. The world does not end. The relationship does not actually end. The clarity you gain repays the momentary discomfort.
-
-**The test:** It stayed a no — unexplained, unsoftened, still a no by the end of the sentence. Acceptance is theirs. Your part finished when the word did.
-
----
-
-### Move 4: Confront Without Cruelty
-
-**The Situation:** You need to say something hard to someone. A boundary has been crossed. A line has been violated. The confrontation has to happen.
-
-**What it is:** Hard content. Clean delivery.
-
-*I want to talk with you about what happened in the meeting on Tuesday. You've done this before and I've asked you to stop. It keeps happening. I need you to know: I can't work with you on this project if it continues. That's not a threat — it's a boundary. I'm naming it clearly so you have the information you need.*
-
-**Why it matters:** The Challenger's practice requires you to hold two things simultaneously: the boundary is real, and the relationship is real. Most people who are clear about boundaries are harsh. Most people who are gentle about boundaries are unclear. The Challenger holds both. Hard content. Clean delivery. You can hold both in the same sentence: *I need you to stop,* and *I want to work this out with you.*
-
-In practice: Before a hard conversation, write down what you need to say. Then take out everything except the line and the consequence. What remains is the confrontation. Hold to that. The rest is noise.
-
-**The test:** The content stayed hard while the delivery stayed clean. Softening the content to keep the delivery kind is a different move, and you will know which one you did.
-
----
-
-### Move 5: Stay Past the Discomfort
-
-**The Situation:** You've drawn the line. You've stated the boundary. Now the discomfort spreads. People shift in their seats. Someone looks upset. The old impulse pulls you to soften, to clarify, to apologize for the discomfort you just created.
-
-**What it is:** Stay.
-
-You do not need their immediate comfort to validate your boundary. You do not need everyone to immediately reorganize around your no. You drew the line, it is true, and holding it is now the entire job.
-
-**Why it matters:** Most lines fail not because they were badly drawn but because the person who drew them could not tolerate the discomfort of having drawn it. They softened. They clarified until the line was no longer a line. They apologized until the boundary was no longer a boundary. The Challenger knows: *the discomfort of holding a line is less costly than the cost of not holding it.* The short-term discomfort of staying always costs less than abandoning the boundary.
-
-In practice: Next time you draw a line and feel the urge to soften — pause. Take one breath. Ask: *is the line true?* If yes, hold it. You do not owe anyone immediate comfort for your own clarity.
-
-**The test:** You were still there when the discomfort passed, having neither softened, clarified, nor apologized for what you had already said. How long it took is a separate question.
 
 ---
 
 ## Your Twenty Cards
 
-Same grid as the Shaman's, one operation over. Five basic moves down — the WAVE-Spiral, which you have been running since Chapter 3 — four domains across, twenty cards. These are the Challenger's.
+Same grid as the Shaman's, one operation over. Five basic moves down (the WAVE-Spiral, which you have been running since Chapter 3), four domains across, twenty cards. These are the Challenger's.
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
@@ -723,7 +723,7 @@ The Challenger does not build. The Challenger clears the ground.
 
 The belief this chapter came to dismantle is that allyship is a matter of following the right people. It is the most defensible myth in the book, and its defensibility is what makes it durable. Following the right people is how anyone learns what to aim at; nobody develops a read on a system they have no relationship to, and deference is the correct posture more often than the reader of this chapter tends to get credit for. The myth converts a source of learning into a permanent substitute for judgment. If the right people are the only ones who can rule on what counts as a violation, then a charge that arrives at 2:14 in a meeting they missed has no standing until somebody ratifies it — and ratification does not arrive inside the thirty seconds the moment lasts. The exchange looks like humility and functions as an exit. What goes in its place is smaller and holds weight: **I can check the charge and act on it in the same breath, and be corrected afterward by the people I am accountable to.**
 
-The chapter leaves you holding a practice whose parts fit together. The five modes of confrontation — Line, Interrupt, Demand, Refusal, Reckoning — name the shape the fire arrives in, and each one runs on a different EA channel, so knowing which mode a moment wants tells you which signal in your body you are working with. Charge → Aim → Act → Stand → Exit keeps a mode from becoming an explosion; the aim is the stage almost everyone skips, and the standing is the stage almost everyone collapses at — four seconds of not adding a sentence, where most lines get taken back before anyone has objected to them. The will ecology tells you afterward whether a move turned charge into a line or spent it, and it asks not whether you were right but whether you can draw the next clean line better than you could an hour ago. Force ↔ Restraint is the axis all of it sits on, so the chapter gave you a polarity rather than a rule. 3-2-1 at Challenger altitude reclaims the line you projected onto somebody you have been calling domineering. Naming the voice puts a half step between you and the fear — the only condition under which aiming happens at all. The Skeptic up close is the auditor that makes your no expensive, the judge that audits your standing instead of your charge, and the one breath that separates them. The five game moves — Name the Unnameable, Draw the Line, Refuse Cleanly, Confront Without Cruelty, Stay Past the Discomfort — compress all of it into what a person actually does at a table.
+The chapter leaves you holding a practice whose parts fit together. The five modes of confrontation — Line, Interrupt, Demand, Refusal, Reckoning — name the shape the fire arrives in, and each one runs on a different EA channel, so knowing which mode a moment wants tells you which signal in your body you are working with. Charge → Aim → Act → Stand → Exit keeps a mode from becoming an explosion; the aim is the stage almost everyone skips, and the standing is the stage almost everyone collapses at — four seconds of not adding a sentence, where most lines get taken back before anyone has objected to them. The will ecology tells you afterward whether a move turned charge into a line or spent it, and it asks not whether you were right but whether you can draw the next clean line better than you could an hour ago. Force ↔ Restraint is the axis all of it sits on, so the chapter gave you a polarity rather than a rule. 3-2-1 at Challenger altitude reclaims the line you projected onto somebody you have been calling domineering. Naming the voice puts a half step between you and the fear — the only condition under which aiming happens at all. The Skeptic up close is the auditor that makes your no expensive, the judge that audits your standing instead of your charge, and the one breath that separates them. The five game moves (Name the Unnameable, Take the Full Charge, Confront Without Cruelty, Find What You Keep Defending, Draw the Line) compress all of it into what a person actually does at a table, in the order the spiral runs.
 
 Underneath every part of it is the Disruptor: the willingness to be unwelcome on a charge you have checked and chosen to trust.
 
