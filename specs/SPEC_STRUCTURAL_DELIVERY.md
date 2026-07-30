@@ -1,4 +1,73 @@
 # SPEC — CAN JORDAN ACTUALLY DO THIS?
+
+## ⚠ CORRECTION HEADER — added 2026-07-30. Read this before the audit below.
+
+**This audit was run against a snapshot ~3,200 words smaller than canon, and its
+headline finding is false against the book as it stands.** It measured 95,075
+words; `manuscript/ch1.md`–`ch9.md` measure **98,323** body words. Verify any
+claim here against the files before acting on it. The same failure mode is already
+on record for the handoff baseline in `SPEC_FINISHING_PASS_2026-07-29.md`, which
+quoted its numbers against the stale compiled set.
+
+**The danger in this document is not that it is wrong. It is that it is
+persuasive, well-argued, and recommends building something that already exists.**
+A session that trusts §3 Break 1 and §7 S4 will spend a day writing a duplicate of
+`ch9`'s *The Last Rep*.
+
+### FALSE against canon
+
+**Break 1 — "There is no transfer test anywhere in the book."** There is.
+`ch9` carries `## The Last Rep` — *"Six moments. Read each one, name the Face,
+play the move"* — roughly 1,400 words: six staged situations, one per Face, each
+followed by a read that names the Face, the move, its chapter, **and the plausible
+wrong Face the moment pulls you toward.** It is precisely what S4 recommends, down
+to being consolidated in Chapter 9 rather than distributed.
+
+Provenance: it was drafted as `drafts/ch9_transfer_drill.md`, 1,311 words, of
+which 50 of 52 sentences now appear verbatim in `ch9`. So the likeliest reading is
+that the audit was run, the drill was written to answer it, and the drill merged —
+all inside 2026-07-28, leaving the audit describing a book that had already been
+fixed. The drill accounts for about 40% of the 3,248-word gap between what the
+audit measured and canon; other late additions make up the rest.
+
+Item 5 also does something the recommendation did not ask for and should be kept:
+it is the one where the reader's default Face is the correct call, so the drill
+does not train a reflex of always overriding your instinct.
+
+**S4 — the transfer drill.** Closed by the above. Nothing to rule on.
+
+**S5 — "Chapter 9 needs a do-it-now block like every other chapter."** *The Last
+Rep* is one, and it is the most demanding exercise in the book.
+
+**Break 2 — "Chapter 1 builds an artifact … and never returns to it"** — mostly
+false. `ch9:643` returns to the character sheet by name: *"Chapter 1 told you this
+would happen and left a line open on your character sheet for it. Fill it in now,
+with the Face and the number."* It then sends the reader to the Face that never
+came up and to the quest she named in Chapter 1. The thread is closed at the end
+rather than woven through, which may be a weaker structure than the seven
+insertions S3 proposes, but it is not an unkept promise.
+
+### STILL LIVE, measured 2026-07-30
+
+**Break 4 / S1 — the altitude ladder.** `ch8:201` still reads *"Red, Amber,
+Orange, Green, Teal"* with no teaching, and *Teal* appears unglossed at `ch8:191`
+and `ch8:269`. The finding holds and the ruling is open.
+
+**S2 — the Vulnerable Child.** The audit says both Chapter 8 references. There is
+**one**, at `ch8:169`. Still live, half the size.
+
+**Break 3 / S6 — the Example convention.** The audit says the labelled
+`**Example:**` block is used by Chapters 3, 4, 5, 6, and 9. Measured now: **ch3 5,
+ch6 5, ch9 5, and zero in ch4, ch5, ch7, ch8.** So the gap is wider than described
+and the audit's own inventory is stale. Whatever gets ruled, rule it against these
+numbers.
+
+**S3 — the character-sheet thread.** Partly answered by `ch9:643`. The open
+question is narrower than the audit frames it: whether the end-of-book return is
+enough, or whether the mid-book insertions are still wanted.
+
+---
+
 ## Structural and pedagogical audit, MTGOA, 2026-07-28
 
 ---

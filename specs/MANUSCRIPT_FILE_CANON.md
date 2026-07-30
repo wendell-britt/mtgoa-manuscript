@@ -84,7 +84,7 @@ See `marginalia/README.md` and `marginalia/HANDOFF.md`.
   say-the-noun, hedge density, per-Head genre markers). Findings are
   adjudicated, never auto-fixed. It complements `instruments/gate.py`; it does
   not replace it. Voice doctrine in `marginalia/specs/SEVEN_VOICES.md`.
-- `drafts/` — working prose not merged into any chapter. `ch9_transfer_drill.md` is a finished piece; `ch3_rebuild.md`, `ch4_section5_rebuild.md`, `newsec5.md`, and `CH2_LINE_LEDGER.md` are partial. (`appendix_channels.md` left this directory on 2026-07-29 — it is now `appendices/APPENDIX_C_FIVE_CHANNELS.md`.)
+- `drafts/` — working prose. `ch3_rebuild.md`, `ch4_section5_rebuild.md`, `newsec5.md`, and `CH2_LINE_LEDGER.md` are partial and unmerged. Two files here are **already in the book** and the directory name misleads: `ch9_transfer_drill.md` is `ch9`'s *The Last Rep* (50 of its 52 sentences appear verbatim in canon), and `appendix_channels.md` left on 2026-07-29 to become `appendices/APPENDIX_C_FIVE_CHANNELS.md`. Check canon before treating anything in `drafts/` as unbuilt.
 - `chapters/ch0-infinite-arcade/` — kept out of the 2026-07-28 retirement because the Chapter 0 → Chapter 1 rewrite dropped material rather than revising it. `MONOPOLY_ORIGIN_STORY.md`, `BRIDGE_1_DRAFT.md`, and the `GM_SECTION` drafts are the only surviving copies of that prose; none of it is in the current manuscript.
 
 ## Docs that are stale and will mislead you
@@ -95,6 +95,7 @@ These describe the book as it was, not as it is. Do not plan from them without c
 - `CHAPTER_TEMPLATE_GUIDE.md`, `claude/DAEMON_CANON.md`, `claude/ArgumentMap.md`, `claude/MTGOA_OUTLINE.md`, `DAEMON_ARCHITECT_CONSISTENCY_CHECK_2026-07-15.md` — carry the retired 8-gate walk, the retired four-stage sequences, and the retired "jeppi" naming.
 - `claude/MTGOA_CROSS_BOOK_SYNTHESIS_CH3_9.md`, `CHAPTER_COMPLETION_AUDIT.md`, `claude/CH8_PRINT_READINESS_PLAN.md`, `claude/SPEC_PRINT_SPRINT_2026-07-26.md` — superseded by later work.
 - `SPEC_BOOK_TOOL_PLACEMENT.md` — its appendix lettering is desynced from current appendix naming, and more so since letter C changed hands on 2026-07-29.
+- `specs/SPEC_STRUCTURAL_DELIVERY.md` — a persuasive audit whose headline finding is false. It says the book has no transfer test; `ch9`'s *The Last Rep* is one. It was measured against a snapshot 3,200 words smaller than canon. It now carries a correction header listing which of its findings survive; read that before acting on any of it.
 - Anything calling Chapter 9 "The Player." Canon's heading is `CHAPTER 9: CREATING YOUR OWN ALLYSHIP GAME`. Chapters 3–8 are named for their Face and ch9 for its action, which under the ICA rule is the better heading — so the docs were corrected to match canon rather than the reverse.
 - The source-analysis stubs credit "Bob Elliott" for *Existential Kink*. The author is **Carolyn Elliott, PhD**.
 

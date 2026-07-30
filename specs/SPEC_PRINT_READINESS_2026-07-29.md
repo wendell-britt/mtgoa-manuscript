@@ -25,9 +25,16 @@ state.
 2. **R13–R15, R17, R18**, opened while doing the work and listed in
    `SPEC_FINISHING_PASS_2026-07-29.md`. **R16 is withdrawn — it was my misreading**,
    not a defect in the manuscript; see that spec for the correction.
-3. W3, the genre-marker pass, untouched and waiting on R3.
-4. ch4's hedge particles — the last voice BLOCK.
-5. 167 punchline-last INFO hits. Pattern data, not defects.
+3. **Three rulings recovered from `SPEC_STRUCTURAL_DELIVERY.md`**, which was audited
+   on 2026-07-30 and found to be part stale. Still live: **S1**, the untaught
+   altitude ladder at `ch8:201` (*Red, Amber, Orange, Green, Teal*); **S2**, the one
+   surviving Vulnerable Child reference at `ch8:169`; **S6**, the `**Example:**`
+   convention, which is in ch3, ch6, and ch9 and absent from ch4, ch5, ch7, ch8.
+   Its Break 1 and S4/S5 are closed — `ch9`'s *The Last Rep* is the transfer test
+   they asked for.
+4. W3, the genre-marker pass, untouched and waiting on R3.
+5. ch4's hedge particles — the last voice BLOCK.
+6. 167 punchline-last INFO hits. Pattern data, not defects.
 
 **Withdrawn as a defect:** `rather than`, 103 uses. Exactly one sentence carries
 two and exactly one paragraph carries three, and that paragraph is a deliberate
