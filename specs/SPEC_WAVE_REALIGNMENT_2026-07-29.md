@@ -308,3 +308,130 @@ because a new Move needs a form to be written into.
 3. **Write the 12** into the normalised form, each naming what blocks that
    chapter's Show Up.
 4. **Frame the 12 MEDIUM** so their stage claim is earned.
+
+---
+
+## 10 · The target layout — authoring spec
+
+**2026-07-29. Wendell: A yes, B write them, and the 12 get authored tonight.** On C:
+the estimate is withdrawn. These are not written from scratch. The ontology is
+closed (five channels, five stages, six Faces), canon is locked, the voice gate
+runs, per-Head registers exist, and `deck/BAR_GRIDS.md` plus the retired blocks are
+source material. Filling scoped slots is not authoring a book.
+
+**Every chapter ends at:** Move 1 Wake Up · Move 2 Open Up · Move 3 Clean Up ·
+Move 4 Grow Up · Move 5 Show Up. Show Up is Move 5 in every chapter because it is
+the payoff (§8).
+
+`KEEP` = existing Move moves to that slot. `NEW` = write it. `RETIRE` = a duplicate
+Show Up whose slot the new Move takes.
+
+### ch3 · Shaman
+| slot | Move | source |
+|---|---|---|
+| 1 Wake | Catch It Before the Story | KEEP (was M1) |
+| 2 Open | — | **NEW** |
+| 3 Clean | Name the Channel Out Loud | KEEP (was M2) |
+| 4 Grow | — | **NEW** |
+| 5 Show | Say the Thing Under the Thing | KEEP (was M3) |
+
+RETIRE: *Ask for What It Actually Needs*, *Spend the Read Don't Bank It* — both
+Show Up in a different domain, which is what made them duplicates.
+
+### ch4 · Challenger
+| slot | Move | source |
+|---|---|---|
+| 1 Wake | Name the Unnameable | KEEP (was M1) |
+| 2 Open | Stay Past the Discomfort | KEEP (was M5) |
+| 3 Clean | Confront Without Cruelty | **RECAST** — the channel question *is* "is this anger or is this hurt?" |
+| 4 Grow | — | **NEW** |
+| 5 Show | Draw the Line | KEEP (was M2) |
+
+RETIRE: *Refuse Cleanly* — closest duplicate of Draw the Line. Recasting Confront
+Without Cruelty rather than retiring it costs one new Move instead of two and keeps
+material that is doing work.
+
+### ch5 · Regent
+| slot | Move | source |
+|---|---|---|
+| 1 Wake | Name the Inheritance | KEEP (was M1) |
+| 2 Open | Honor What Still Serves | KEEP (was M2) |
+| 3 Clean | — | **NEW** |
+| 4 Grow | Keep the Vows | **RECAST** — vows kept unwatched *is* capacity built |
+| 5 Show | Entrust Without Clinging | **RECAST** — the handover is the external act |
+
+RETIRE: *Reform Without Erasing* folds into the Clean Up slot as its subject matter.
+
+### ch6 · Architect
+| slot | Move | source |
+|---|---|---|
+| 1 Wake | Find the Leverage Point | KEEP (was M1) |
+| 2 Open | — | **NEW** |
+| 3 Clean | Name the Unstated Assumption | **RECAST** — naming the assumption is the channel call |
+| 4 Grow | Refactor Kindly | KEEP (was M5) |
+| 5 Show | Design for Handoff | KEEP (was M3) |
+
+RETIRE: *Ship the Minimum* — duplicate of Design for Handoff.
+
+### ch7 · Diplomat — the one that is short a slot
+| slot | Move | source |
+|---|---|---|
+| 1 Wake | Name the Field | KEEP (was M1) |
+| 2 Open | — | **NEW** |
+| 3 Clean | Translate Across Camps | KEEP (was M2) |
+| 4 Grow | — | **NEW** |
+| 5 Show | Close with Honest Terms | KEEP (was M3) |
+
+RETIRE: *Refuse False Equivalence* and *Repair After Rupture*.
+
+**Flag for Wendell.** ch7 needs two new Moves but only has one weak slot, because it
+carries two Clean Ups. *Repair After Rupture* is a **STRONG** Clean Up — Appendix C
+glosses Clean Up as *"repair the rupture"* — so it is the best-fitting Move in the
+chapter and it still has to leave, because Translate Across Camps is the Diplomat's
+named channel and cannot. **Repair is the one real content loss in this whole
+layout.** Alternative: keep Repair as Clean Up, move Translate into Open Up, and
+ch7 needs only one new Move. That trades the Diplomat's second channel for its
+fourth. Wendell's call.
+
+### ch8 · Sage
+| slot | Move | source |
+|---|---|---|
+| 1 Wake | Name the Game | KEEP (was M1) |
+| 2 Open | Return Without Condescension | **RECAST** — coming back down *is* allowing the experience |
+| 3 Clean | — | **NEW** |
+| 4 Grow | Hold the Meta Without Losing the Ground | KEEP (was M5) |
+| 5 Show | Switch Games Deliberately | KEEP (was M2) |
+
+RETIRE: *Put a Game Down* — its release material folds into Grow Up.
+
+### ch9 · Player
+| slot | Move | source |
+|---|---|---|
+| 1 Wake | Cut the Field to One Problem | KEEP (was M1) |
+| 2 Open | Take the Note That Costs You the Design | KEEP (was M3) |
+| 3 Clean | — | **NEW** |
+| 4 Grow | Run It Again With One Thing Changed | KEEP (was M4) |
+| 5 Show | Put It in Front of One Person | KEEP (was M2) |
+
+RETIRE: *Hand Someone the Pen* — duplicate of Put It in Front of One Person.
+
+### Tally
+
+**7 NEW Moves, not 12** — because recasting beats retiring in five places:
+Confront Without Cruelty, Keep the Vows, Entrust Without Clinging, Name the
+Unstated Assumption, Return Without Condescension. Each already does its stage's
+job under a different name.
+
+| chapter | new Moves needed |
+|---|---|
+| ch3 | 2 — Open, Grow |
+| ch4 | 1 — Grow |
+| ch5 | 1 — Clean |
+| ch6 | 1 — Open |
+| ch7 | 2, or 1 if Repair is kept |
+| ch8 | 1 — Clean |
+| ch9 | 1 — Clean |
+| | **9, or 8** |
+
+**8 retirements**, every one a duplicate Show Up except ch7's Repair, which is the
+flagged loss.
