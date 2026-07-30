@@ -19,7 +19,7 @@ clears the membrane:
 
 | the memoir, below the seam | the register, above it |
 |---|---|
-| three traditions he came up in | four hundred and eleven practices in the register |
+| three traditions he came up in | two hundred and thirty-one practices in the register |
 | movements where inheritance reads as a threat | a founding generation drawing the wrong conclusion about structure |
 | the crown worn under the hood | *said something careful, and said less than they knew* |
 | the ones who wanted the crown wanted a patriarch | whoever is willing to hold the role, unselected |
@@ -34,11 +34,11 @@ one man it happened to. That order is what makes the memoir evidence rather than
 **Clause four.** A practice that cannot be named to a stranger in one sitting has already been
 lost, whatever its members believe about it.
 
-Note. The register of this school holds four hundred and eleven discontinued practices,
+Note. The register of this school holds two hundred and thirty-one discontinued practices,
 gathered across as many worlds as the ship has touched. Merrow ordered them by cause of death.
-The ordering is his and the finding is mine: three hundred and six of the four hundred and
-eleven were dissolved by their own members, on purpose, and not one of the three hundred and
-six recorded the dissolution as a loss at the time.
+The ordering is his and the finding is mine: one hundred and seventy-two of the two hundred and
+thirty-one were dissolved by their own members, on purpose, and not one of the one hundred and
+seventy-two recorded the dissolution as a loss at the time.
 
 **Clause five.** A body that declines to hold a role will be held by whoever is willing to hold
 it, and that person will not have been selected.
