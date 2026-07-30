@@ -40,10 +40,13 @@ HEAD = {3: "Maera Voss", 4: "Corin Ash", 5: "Sera Quill",
         6: "Irix Vale", 7: "Elian Cross", 8: "Thalen Orr"}
 
 T1 = ("BOOK", re.compile(
-    r"\bthis book\b|\bthe book\b|\bChapter\s+\d|\bChapters\s+\d|\bthis chapter\b"
-    r"|\bthe (?:next|last|previous|coming) chapter\b|\bAppendi(?:x|ces)\b"
-    r"|\bearlier in\b|\blater in\b|\bthe rest of the chapter\b|\bthis section\b"
-    r"|\bpart (?:one|two|three) of\b|\bwhat follows\b|\bby the end of the book\b", re.I))
+    # Widened 2026-07-30: the first version keyed on "this chapter" and missed
+    # "the whole chapter", "the chapter", "the reader", "the ideal reader". Any
+    # determiner in front of chapter/section/book is the same breach.
+    r"\b(?:this|the|that|a|each|every|whole)\s+(?:whole\s+)?(?:book|chapter|section)\b"
+    r"|\bChapters?\s+\d|\bAppendi(?:x|ces)\b|\bearlier in\b|\blater in\b"
+    r"|\bthe (?:ideal )?reader\b|\bpart (?:one|two|three) of\b"
+    r"|\bwhat follows\b|\bby the end of the book\b", re.I))
 
 T2 = ("AUTHOR", re.compile(
     r"bars-engine|Igniting Joy|\bI wrote\b|\bmy book\b|\bthis manuscript\b"

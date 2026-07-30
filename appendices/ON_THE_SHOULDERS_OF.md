@@ -25,6 +25,8 @@ The five emotional channels in Chapter 3 — Metal, Water, Wood, Fire, Earth —
 
 The Six Faces follow a developmental arc — the movement from the Shaman's fire through order, strategy, and care toward the Sage's altitude. That arc is **Ken Wilber's**, drawn from *Integral Life Practice* (with Terry Patten, Adam Leonard, and Marco Morelli) and the broader Integral model, which itself builds on the Spiral Dynamics work of Clare Graves and Don Beck. The book deliberately keeps the altitude language in the background — the colors and stage-names carry baggage that gets in the way on the page — but the architecture underneath is Wilber's. *A Theory of Everything* is the most accessible entry; *Integral Life Practice* is where the practice lives. Wilber is also the source of the "transcend and include" principle — that each capacity carries the gifts of all the ones before it — which is the structural logic of the whole book.
 
+The Teal language in Chapter 8 has a second source. **Frederic Laloux's *Reinventing Organizations*** (Nelson Parker, 2014) is where the altitudes stop being a model of individual development and start describing how a group of people actually organizes itself — which is the version Chapter 8 needs, because the Sage's question is about rooms rather than about people. *Evolutionary purpose*, the term Chapter 8 borrows, is one of his three breakthroughs, alongside self-management and wholeness: the idea that the work has a direction of its own and the job is to listen for it rather than to set it. Wilber wrote the foreword, which tells you how closely the two books sit. Read Laloux if the altitude material lands and you want to see it running in real organizations with names and payrolls.
+
 ---
 
 ## The Practice
