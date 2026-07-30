@@ -318,7 +318,7 @@ The Regent does not need you to score loyalty. The Regent needs you to tell the 
 
 Some moves replenish stewardship because they convert compulsory carrying into chosen loyalty:
 
-1. **Obedience → True Allegiance.** Compliance collapses under pressure. Allegiance holds — because you chose it.
+1. **Obedience → True Allegiance.** Compliance collapses under pressure. Allegiance holds, because you chose it.
 2. **Duty → Service.** Duty is obligation. Service is choice. The person doing duty burns out. Service implies reciprocity.
 3. **Rigidity → Integrity.** Rigid traditions break. Traditions with integrity hold because they are rooted in principle, not form.
 4. **Dogma → Faithfulness.** Dogma is belief without understanding. Faithfulness is keeping the commitment even when you no longer remember why you made it.
@@ -397,7 +397,7 @@ Either you **claim** it: *"I'm going to carry this. I'm not waiting until I'm su
 
 Both cost something. Claiming it means you can no longer hide behind not-yet-ready. (That's the Fixer's whole racket — one more cycle of reform before you commit. You're committing first.) Reforming it out loud means risking the loyalty of people who hear "this needs to change" as "you don't love what we built." You hold both: *I love this enough to change it.* That sentence, said to their faces, compresses the Regent's entire practice into one breath.
 
-*You named an inheritance out loud — claimed it or reformed it — or you watched yourself keep performing it instead. Before the moment closes: which inheritance, what exactly you said (or didn't), and what it cost you to say it. Two minutes in the app, while the weight of it is still on you. → app*
+*You named an inheritance out loud, claimed it or reformed it, or you watched yourself keep performing it instead. Before the moment closes: which inheritance, what exactly you said (or didn't), and what it cost you to say it. Two minutes in the app, while the weight of it is still on you. → app*
 
 ---
 
@@ -440,7 +440,7 @@ Then put a number on it, because open-ended repair runs the shadow's entire meth
 
 It shows up in a single beat. Someone asks you to take the role — chair the thing, hold the practice, put your name on it. Something in you says yes before you do; the inheritance lands, on time, doing its job. Then the condition opens: *not until the charter gets rewritten, not while the last person's mess is still in it, not with the funding the way it is.* Each is true. Each is repairable. Two years on, the charter has been rewritten twice, the role still has no name, and no list anywhere names the person doing all of it — because the job is a shape a body makes, not a thing anyone can take over. On the narrow jurisdiction the same part returns the same report and the answer changes: *here is what is broken, here is what I will fix in the first year, I am taking it now.* Same rigor. Same eye for damage. The only thing that changed is what you gave it authority over.
 
-*Bring one inheritance you have been repairing instead of accepting — a role you keep improving the conditions for, a practice you hold together personally because the structure will not. Name which move your Fixer is running: postponing the commitment, or substituting for the structure. Then name the cycle you would give it. Two minutes to capture it as a BAR. → app*
+*Bring one inheritance you have been repairing instead of accepting, a role you keep improving the conditions for, a practice you hold together personally because the structure will not. Name which move your Fixer is running: postponing the commitment, or substituting for the structure. Then name the cycle you would give it. Two minutes to capture it as a BAR. → app*
 
 ---
 

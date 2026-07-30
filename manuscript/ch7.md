@@ -273,11 +273,11 @@ The alchemy: *I stop apologizing for having a position I am translating from.* I
 
 The Translate layer forms the operational core of the channel: you take the meaning you have received and move it forward into a form the other camp can receive.
 
-**Water → Fire: Conviction translated into urgency.** When a camp holds its meaning deeply but expresses it passively — resigned, beaten down, without heat — the Translate move carries the meaning forward into the channel where it becomes actionable. The sadness of "we have been hurt" becomes the fire of "we will not accept this again." The translation does not change the meaning; it moves the meaning into the register where it can do work.
+**Water → Fire: Conviction translated into urgency.** When a camp holds its meaning deeply but expresses it passively (resigned, beaten down, without heat) the Translate move carries the meaning forward into the channel where it becomes actionable. The sadness of "we have been hurt" becomes the fire of "we will not accept this again." The translation does not change the meaning; it moves the meaning into the register where it can do work.
 
-**Fire → Water: Intensity translated into depth.** When a camp holds its meaning hot but shallow — righteous anger that has not yet done the work of understanding its own depth — the Translate move carries it down into the register where it becomes something that lasts. The anger becomes sadness. The demand becomes an immovable request that no longer needs volume. The translation takes the heat and turns it into something that can sit in a field for a long time without burning out.
+**Fire → Water: Intensity translated into depth.** When a camp holds its meaning hot but shallow (righteous anger that has not yet done the work of understanding its own depth) the Translate move carries it down into the register where it becomes something that lasts. The anger becomes sadness. The demand becomes an immovable request that no longer needs volume. The translation takes the heat and turns it into something that can sit in a field for a long time without burning out.
 
-**Wood → Fire: Joy translated into invitation.** When a camp holds its meaning celebratory, expansive, full of possibility — the Translate move carries it forward into the channel where it becomes a call. The joy becomes an invitation: "come and see what is possible." The translation takes what is good and makes it available.
+**Wood → Fire: Joy translated into invitation.** When a camp holds its meaning celebratory, expansive, full of possibility, the Translate move carries it forward into the channel where it becomes a call. The joy becomes an invitation: "come and see what is possible." The translation takes what is good and makes it available.
 
 **[CONTROL] — Neutral Channel: Intellectual Superiority Pattern**
 
@@ -313,9 +313,9 @@ The alchemy: *I stop performing calm and start doing containment.* The stillness
 
 **[TRANSLATE] — From Presence to Structure**
 
-**Fire → Earth: Heat translated into form.** When conflict charges a field — hot, fast, potentially explosive — the Translate move gives that charge a structure it can move through. The field will not cool down. It will move, and the Translate move gives the movement a shape. A boundary. A format. A pause that says: *let's do this deliberately.* The fire doesn't go out — it becomes a fireplace instead of a wildfire.
+**Fire → Earth: Heat translated into form.** When conflict charges a field (hot, fast, potentially explosive) the Translate move gives that charge a structure it can move through. The field will not cool down. It will move, and the Translate move gives the movement a shape. A boundary. A format. A pause that says: *let's do this deliberately.* The fire doesn't go out. It becomes a fireplace instead of a wildfire.
 
-**Water → Wood: Sadness translated into forward motion.** When a field sits stuck in sadness — slow, heavy, collapsed — the Translate move carries that energy forward into possibility. The field has been hurt. It needs to grieve. It also needs to know it can still move. The Translate move carries the depth of the sadness into the channel where something new can begin to grow.
+**Water → Wood: Sadness translated into forward motion.** When a field sits stuck in sadness (slow, heavy, collapsed) the Translate move carries that energy forward into possibility. The field has been hurt. It needs to grieve. It also needs to know it can still move. The Translate move carries the depth of the sadness into the channel where something new can begin to grow.
 
 **[CONTROL] — Neutral Channel: Presence Collapse Pattern**
 
@@ -351,9 +351,9 @@ The alchemy: *I stop skipping the wound and start sitting in it.* Real repair re
 
 **[TRANSLATE] — From Wound to Restoration**
 
-**Water → Wood: Sadness translated into new soil.** When a rupture has left a field in mourning — heavy, still, honoring what was lost — the Translate move recognizes that the sadness contains the nutrients for something new to grow. The sadness of what broke becomes the foundation of what gets rebuilt. The Translate move carries the honoring of the loss into the channel where something new can take root.
+**Water → Wood: Sadness translated into new soil.** When a rupture has left a field in mourning (heavy, still, honoring what was lost) the Translate move recognizes that the sadness contains the nutrients for something new to grow. The sadness of what broke becomes the foundation of what gets rebuilt. The Translate move carries the honoring of the loss into the channel where something new can take root.
 
-**Earth → Fire: Structure translated into warmth.** When the repair has been negotiated — the terms agreed, the path forward established — the Translate move is to bring warmth back to the structure. The field now has a shape, a format, an agreement. Agreements are cold things. The Translate move carries the heat of real reconnection into the structure, so that the repair is not just formal but real.
+**Earth → Fire: Structure translated into warmth.** When the repair has been negotiated (the terms agreed, the path forward established) the Translate move is to bring warmth back to the structure. The field now has a shape, a format, an agreement. Agreements are cold things. The Translate move carries the heat of real reconnection into the structure, so that the repair is not just formal but real.
 
 **[CONTROL] — Neutral Channel: Premature Closure Pattern**
 
@@ -395,9 +395,9 @@ The alchemy: *I ask what each position is guarding, not just what it says.* Posi
 
 **[TRANSLATE] — From Positions to Closure**
 
-**Fire → Earth: Heat translated into structure.** When competing demands charge a field — hot, righteous, each side certain — the Translate move does not cool the fire down. It gives the fire a shape it can move through. *What would each of you need to see change for this to be workable?* The anger does not get suppressed. It becomes the material from which terms are built.
+**Fire → Earth: Heat translated into structure.** When competing demands charge a field (hot, righteous, each side certain) the Translate move does not cool the fire down. It gives the fire a shape it can move through. *What would each of you need to see change for this to be workable?* The anger does not get suppressed. It becomes the material from which terms are built.
 
-**Earth → Fire: Vague agreement translated into committed close.** When a field has done the listening work and arrived at something that sounds aligned but isn't yet specific — the Translate move carries the structure forward into commitment. *What are we actually agreeing to? By when? Who does what?* The Integrative Negotiator does not leave the field in principled ambiguity. The Diplomat's altitude loves process. This channel loves a close.
+**Earth → Fire: Vague agreement translated into committed close.** When a field has done the listening work and arrived at something that sounds aligned but isn't yet specific, the Translate move carries the structure forward into commitment. *What are we actually agreeing to? By when? Who does what?* The Integrative Negotiator does not leave the field in principled ambiguity. The Diplomat's altitude loves process. This channel loves a close.
 
 **[CONTROL] — Neutral Channel: Endless Process Pattern**
 
@@ -461,7 +461,7 @@ Then put a limit on it, because an open ledger is the shadow's whole method. The
 
 It shows up in a single beat. Someone tells you that something you did landed badly on them. Something in you goes still and attentive; that is the Repairer arriving, on time, doing its job. Then the ledger opens underneath it, and what surfaces is not a defence. A defence you would catch. What surfaces is a balance. *After everything I have carried here.* You do not say it. You would never say it. What you say is *I hear you,* the ledger's most efficient instrument, because it accepts the words without admitting the entry. The conversation ends warm. Nothing has been received. On the narrow jurisdiction the same part returns the same accurate report and the answer changes: *that is true, I did that, and here is what it cost you*, with your own column left closed, in your pocket, entirely real and not currently the subject.
 
-*Bring one time somebody named an impact you had and you agreed with them out loud without anything landing. Name what the ledger produced in the half-second before you spoke — the entry, not the feeling about it. Then write the one sentence you would have had to say instead. Two minutes to capture it as a BAR. → app*
+*Bring one time somebody named an impact you had and you agreed with them out loud without anything landing. Name what the ledger produced in the half-second before you spoke: the entry, not the feeling about it. Then write the one sentence you would have had to say instead. Two minutes to capture it as a BAR. → app*
 
 ---
 
@@ -570,7 +570,7 @@ The close lands clean when there's nothing left to add and you don't reach to fi
 
 **Before you name them, ask:** Am I naming this because I know what the agreement requires, or because I'm hoping the other person will talk me out of it? If you're hoping they'll talk you out of it, you're not ready to name it yet. Wait. Sit with it. Come back when you mean it.
 
-*You named your terms in a real conversation — or you softened them until they were safe, or you let the round run one more time instead. Whatever you actually did: get it down before the story tidies it up. → app*
+*You named your terms in a real conversation, or you softened them until they were safe, or you let the round run one more time instead. Whatever you actually did: get it down before the story tidies it up. → app*
 
 ---
 

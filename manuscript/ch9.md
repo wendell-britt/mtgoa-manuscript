@@ -189,9 +189,9 @@ Most people try to skip this mode. It costs something to say *this isn't working
 Each mode also opens a doorway. Depending on which one activates for you, it leads to different ground. The deck runs underneath all five of them — whichever mode runs, the practice stays the same hundred and twenty cards. The mode only changes what you do with what the draw turns up.
 
 - **Cartographer and Designer** → your own ongoing practice. The work is between you and the map.
-- **Founder** → if you have a specific thing to build and you know you need support getting it out, the fastest path is working through it with me, one-on-one. If you want to learn the method itself, deeply enough to run it for others, reach out about certification (wendell@masteringallyship.com) — that's the succession this book is for.
-- **Elder** → if what you're called to do is teach, pass on, run workshops, give other people the vocabulary — the deck is what you run the session from. It works without you standing in the middle of it, once you know it well enough to get out of the way.
-- **Outlaw** → if what you see is a structure that needs to be challenged, broken, or rebuilt — that's also allyship work. It is the mode the deck is worst at prompting on its own, so you draw for it on purpose.
+- **Founder** → if you have a specific thing to build and you know you need support getting it out, the fastest path is working through it with me, one-on-one. If you want to learn the method itself, deeply enough to run it for others, reach out about certification (wendell@masteringallyship.com). That is the succession this book is for.
+- **Elder** → if what you're called to do is teach, pass on, run workshops, give other people the vocabulary. The deck is what you run the session from. It works without you standing in the middle of it, once you know it well enough to get out of the way.
+- **Outlaw** → if what you see is a structure that needs to be challenged, broken, or rebuilt. That is also allyship work. It is the mode the deck is worst at prompting on its own, so you draw for it on purpose.
 
 The modes loop. Each pass through goes deeper. The walk is the thing.
 
@@ -465,21 +465,21 @@ You are ready to be useful.
 
 *Before you step into the game: a gate scan. Eight gates, eight questions. One of them is live in you right now — the Face that showed up most in your building work. Find it. Capture it. Bring it into the app.*
 
-*The Protector showed up in your building. Not the old guardedness — something specific you've been protecting about what you're building, or from the people who might encounter it. Name what the protection is actually guarding. That's what you have. → app*
+*The Protector showed up in your building, and not as the old guardedness. Something specific you've been protecting about what you're building, or from the people who might encounter it. Name what the protection is actually guarding. That's what you have. → app*
 
-*The Controller showed up in your building — the standard for how it should look, who should receive it, whether you're doing it right. Name the standard in its exact words. Then: what would happen if you built it without the standard running the build? → app*
+*The Controller showed up in your building: the standard for how it should look, who should receive it, whether you're doing it right. Name the standard in its exact words. Then: what would happen if you built it without the standard running the build? → app*
 
-*The Skeptic showed up with a question about what you're building — whether it's real, whether it matters, whether you're the right person to build it. The doubt is the fire. Write the specific question the Skeptic asked. Then: what's still standing after the question burns through? → app*
+*The Skeptic showed up with a question about what you're building: whether it's real, whether it matters, whether you're the right person to build it. The doubt is the fire. Write the specific question the Skeptic asked. Then: what's still standing after the question burns through? → app*
 
-*The Fixer showed up in your building and pointed at something specific — an obstacle, a gap, a thing that needs to be cleared before the next move. Not a person. What's the specific obstacle the Fixer identified? And: is it in the way of the build, or is it a distraction from it? → app*
+*The Fixer showed up in your building and pointed at something specific: an obstacle, a gap, a thing that needs to be cleared before the next move. Not a person. What's the specific obstacle the Fixer identified? And: is it in the way of the build, or is it a distraction from it? → app*
 
-*The Victim showed up in your building with a story about why it won't work, why you don't have what it takes, why this has failed before. Write the story exactly as the Victim tells it. Then: what's the thing that story is circling — what the Cauldron needs to transform? → app*
+*The Victim showed up in your building with a story about why it won't work, why you don't have what it takes, why this has failed before. Write the story exactly as the Victim tells it. Then: what's the thing that story is circling, the thing the Cauldron needs to transform? → app*
 
-*The Emotional Body showed up at this point in the build. Set the work aside for a second — what's actually running in you, underneath the project? Anger, fear, sadness, joy, or neutrality: name the one that's alive before the work is finished. It's carrying information about what this moment actually is. → app*
+*The Emotional Body showed up at this point in the build. Set the work aside for a second. What is actually running in you, underneath the project? Anger, fear, sadness, joy, or neutrality: name the one that's alive before the work is finished. It's carrying information about what this moment actually is. → app*
 
-*The Damaged Self showed up in your building — what you know because of what you survived. Not as a limitation. What specific thing have you survived that equips you to build this that nobody else could? The Wanderer carries it. Name it. → app*
+*The Damaged Self showed up in your building: what you know because of what you survived. Not as a limitation. What specific thing have you survived that equips you to build this that nobody else could? The Wanderer carries it. Name it. → app*
 
-*What's moving in you that wasn't moving before you started building? Not the project — you. Where is the genuine curiosity still alive, the thing that would keep you building even if nobody noticed? That's the Vulnerable Child leading. That's progress. Name what's advancing. → app*
+*What's moving in you that wasn't moving before you started building? Not the project. You. Where is the genuine curiosity still alive, the thing that would keep you building even if nobody noticed? That's the Vulnerable Child leading. That's progress. Name what's advancing. → app*
 
 ---
 

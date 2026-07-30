@@ -302,7 +302,7 @@ Five modes, five channels, no overlap. The Sage's practice runs the full spectru
 ---
 
 **Alchemy Move 1: Panoramic Seer**
-[DISSATISFACTION → SATISFACTION] Blank-field contraction — **Fear** → *Wonder*
+Blank-field contraction: **Fear** → *Wonder*
 
 Underneath the Panoramic Seer's first failure is the fear that what you see will be smaller than what you hoped. That the field you've opened to holds just a handful of tired people, that the altitude you glimpsed marks a ceiling, that everyone present already decided what they're doing and the seeing only helped you feel above it.
 
@@ -312,7 +312,7 @@ The alchemy: you feel the field close down, you name it as a report rather than 
 
 ---
 **Alchemy Move 2: Game-Switcher**
-[DISSATISFACTION → SATISFACTION] Altitude-arrogance — **Anger** → *Triumph*
+Altitude-arrogance: **Anger** → *Triumph*
 
 Underneath the Game-Switcher's first failure is the rage at being somewhere that can't hold what you see. The *I am at Teal and you are at Green and this conversation is beneath my time* that fires the moment you have to go down to where they are.
 
@@ -322,7 +322,7 @@ The alchemy: you feel the arrogance rise, you name it — *I am using the altitu
 
 ---
 **Alchemy Move 3: Diagnostician**
-[DISSATISFACTION → SATISFACTION] Flat sight — **Neutrality** → *Peace*
+Flat sight: **Neutrality** → *Peace*
 
 Underneath the Diagnostician's first failure is flatness. Not sadness about what people can't see — something colder. The pattern shows fully and nothing in you moves about it. *This is a Red dynamic. This is Green stuckness. This is an Orange problem wearing Teal vocabulary.* All accurate, all delivered from a place with no stake in the outcome.
 
@@ -332,7 +332,7 @@ The alchemy: you notice the flatness, you name it — *I have gone unstaked, and
 
 ---
 **Alchemy Move 4: Liberator**
-[DISSATISFACTION → SATISFACTION] Joy fused to the game — **Joy** → *Bliss*
+Joy fused to the game: **Joy** → *Bliss*
 
 Underneath the Liberator's first failure is something almost nobody names out loud: the game is fun. Not pleasant — fun. The fight has a rhythm you're good at. The struggle doubles as its own perverse entertainment. Whatever else it costs, a specific kind of aliveness lives there for you, and putting it down means putting that down too.
 
@@ -342,7 +342,7 @@ The alchemy: you notice that the joy has fused to this particular game rather th
 
 ---
 **Alchemy Move 5: Returner**
-[DISSATISFACTION → SATISFACTION] Altitude-loss — **Sadness** → *Poignance*
+Altitude-loss: **Sadness** → *Poignance*
 
 Underneath the Returner's first failure is the sadness of leaving the view. You've seen from Teal — the whole map, where everyone stands, why they're stuck, what altitude they're operating from — and now you have to come back to a table that doesn't see it.
 
@@ -499,7 +499,7 @@ Then put a limit on it, because an open repair schedule is the shadow's whole me
 
 It shows up in a single beat. Someone asks you for help with something real. Something in you goes wide and attentive — the Panoramic Seer arriving on time, doing its job. Then the Damaged Self opens underneath it, and what surfaces is not doubt; doubt you would catch. What surfaces is a project. *I know exactly what's happening here, and I know it because I've been the broken version of it.* So you hand them the map. The map is good. The map is also the fourth one this quarter, and nobody has ever asked you for a map. What they asked for was a hand. The conversation ends well. They leave with reading. On the narrow jurisdiction, the same part returns the same accurate report and the answer changes: *I run differently, which is why I can see this, and what I'm going to do about it is sit here and ask you a question.*
 
-*Bring one time you answered a person's problem with a framework. Name what the Damaged Self produced in the half-second before you spoke — the reading about yourself, not the feeling about it. Then write the question you would have asked instead. Two minutes to capture it as a BAR. → app*
+*Bring one time you answered a person's problem with a framework. Name what the Damaged Self produced in the half-second before you spoke: the reading about yourself, not the feeling about it. Then write the question you would have asked instead. Two minutes to capture it as a BAR. → app*
 
 ---
 
@@ -682,7 +682,7 @@ You don't take all five moves into the world this week. You take the one the Sag
 
 That's the whole Sage in a single move: the seeing, said out loud, and the not-leaving.
 
-*You saw the thing — and you named it and stayed, or you held it, or you said it from above and watched them flinch. Whatever actually happened: get it down before you talk yourself into the version where you handled it perfectly. → app*
+*You saw the thing, and you named it and stayed, or you held it, or you said it from above and watched them flinch. Whatever actually happened: get it down before you talk yourself into the version where you handled it perfectly. → app*
 
 ---
 

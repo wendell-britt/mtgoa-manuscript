@@ -42,7 +42,7 @@ The village built rituals around this. The Challenger would speak first at counc
 
 The Regent noticed first.
 
-The Regent didn't dislike the Challenger. The Regent just believed that *power had to be organized.* That raw will — even clean will — could not sustain anything across time. That the Challenger's gift was real but limited: the Challenger could draw a line, but the Challenger could not hold that line across seasons. Could not build the tradition that carried it forward. Could not make the line inherit itself.
+The Regent didn't dislike the Challenger. The Regent just believed that *power had to be organized.* That raw will, even clean will, could not sustain anything across time. That the Challenger's gift was real but limited: the Challenger could draw a line, but the Challenger could not hold that line across seasons. Could not build the tradition that carried it forward. Could not make the line inherit itself.
 
 So the Regent built walls instead. Institutions. Roles with names. Traditions with histories. The Regent said: *give me your line and I will make it a law. Give me your boundary and I will make it an institution. Give me your 'this far and no further' and I will make it a founding principle that outlasts your lifetime.*
 
@@ -54,7 +54,7 @@ The Regent was more efficient. The Regent was more scalable. The Regent was more
 
 So nobody banished the Challenger. The Challenger was just... sidelined. Without ceremony. (The Regent stayed very gracious about it. There was nothing to push against. That was the point.) The councils stopped asking first. The rituals started referencing the Regent's walls instead of the Challenger's lines. The stories changed from "remember when the Challenger said no to that?" to "thank the Regent for building the structure that holds that no."
 
-The Challenger noticed, and saw the choice: become a historical footnote — the one who used to draw lines before the Regent made lines into laws — or leave.
+The Challenger noticed, and saw the choice: become a historical footnote, the one who used to draw lines before the Regent made lines into laws, or leave.
 
 The Challenger left.
 
@@ -245,11 +245,11 @@ Five modes, five channels, no overlap. That tidiness is no coincidence — it ex
 
 **The Interrupt** (Metal/Fear → Wonder): Breaking a pattern mid-flight means you do not know what the next thirty seconds contain. Fear reads that correctly. The contraction attempts to know in advance. Nothing can be known in advance, so no amount of thinking harder resolves the fear. Wonder is what the same not-knowing becomes when you stop treating it as threat: the field after an interrupt opens in a way it had not a second earlier, and open is the condition Metal is for. *I can explore.* You interrupted, and now something unscripted is happening, and you are still here.
 
-**The Demand** (Wood/Joy → Bliss): A demand insists that something change, which makes it a claim on a shared future. Wood stuck is defiance with no future in it — the no that is only a no, refusal as identity, the fight enjoyed for its own sake. That version can run for years and produce nothing. Bliss is Wood satisfied, and its capability is participation: *I can participate.* The demand that lands is the one where the refusal opened a space and you are willing to stand in it. The no that becomes a yes to something new.
+**The Demand** (Wood/Joy → Bliss): A demand insists that something change, which makes it a claim on a shared future. Wood stuck is defiance with no future in it: the no that is only a no, refusal as identity, the fight enjoyed for its own sake. That version can run for years and produce nothing. Bliss is Wood satisfied, and its capability is participation: *I can participate.* The demand that lands is the one where the refusal opened a space and you are willing to stand in it. The no that becomes a yes to something new.
 
-**The Refusal** (Earth/Neutrality → Peace): This one surprises people who expect the clean no to run on anger. It does not. Anger is the Line's fuel. The Refusal's opposing force is Earth gone flat — compliance that has stopped requiring a decision, the automatic yes, going along because going along costs nothing you can feel in the moment. Numbness is Neutrality stuck, and it explains why most nos never get said: nothing arrived to say them with. Peace is Neutrality satisfied, and its capability is rest. *I can rest.* The test of a real refusal is not how it sounded. It is whether you slept.
+**The Refusal** (Earth/Neutrality → Peace): This one surprises people who expect the clean no to run on anger. It does not. Anger is the Line's fuel. The Refusal's opposing force is Earth gone flat: compliance that has stopped requiring a decision, the automatic yes, going along because going along costs nothing you can feel in the moment. Numbness is Neutrality stuck, and it explains why most nos never get said: nothing arrived to say them with. Peace is Neutrality satisfied, and its capability is rest. *I can rest.* The test of a real refusal is not how it sounded. It is whether you slept.
 
-**The Reckoning** (Water/Sadness → Poignance): Naming a cost requires the sadness underneath the anger — what it costs to watch something you love get violated by someone still at the table. Sadness stuck turns the reckoning into an accusation. Let it anchor instead of drown, and it becomes Poignance, whose capability is connection: *I can connect.* The consequence gets named and the person stays someone you are in relationship with. That combination makes the whole difference between a reckoning and a threat.
+**The Reckoning** (Water/Sadness → Poignance): Naming a cost requires the sadness underneath the anger, which is what it costs to watch something you love get violated by someone still at the table. Sadness stuck turns the reckoning into an accusation. Let it anchor instead of drown, and it becomes Poignance, whose capability is connection: *I can connect.* The consequence gets named and the person stays someone you are in relationship with. That combination makes the whole difference between a reckoning and a threat.
 
 ---
 
@@ -299,14 +299,14 @@ Some moves sustain will because they keep the confrontation workable:
 
 - **Line → Interrupt:** Once the line is drawn, you can break the pattern that was crossing it.
 - **Interrupt → Demand:** Once the pattern is broken, you can insist on the change that replaces it.
-- **Demand → Refusal:** The demand clarifies your own non-negotiables — the places where you will not move regardless of pressure.
-- **Refusal → Reckoning:** Your no becomes visible as a consequence. The line you drew is not just stated — it is backed.
+- **Demand → Refusal:** The demand clarifies your own non-negotiables, the places where you will not move regardless of pressure.
+- **Refusal → Reckoning:** Your no becomes visible as a consequence. The line you drew is stated and also backed.
 
 Some moves spend fire without protecting anything:
 
-- **Charge → Swallow:** You feel it and push it down. This is repression. It does not eliminate the charge — it stores it. The swallowed charge eventually finds a sideways exit: passive aggression, chronic irritability, sudden explosions over small things.
+- **Charge → Swallow:** You feel it and push it down. This is repression. It does not eliminate the charge. It stores it. The swallowed charge eventually finds a sideways exit: passive aggression, chronic irritability, sudden explosions over small things.
 
-- **Charge → Performative outrage:** You express the charge, but for the audience — not the line. This is venting without risking. You get the feeling out, but you don't draw the actual boundary. The charge is spent and nothing has changed.
+- **Charge → Performative outrage:** You express the charge for the audience rather than for the line. This is venting without risking. You get the feeling out, but you don't draw the actual boundary. The charge is spent and nothing has changed.
 
 - **Charge → Collapse:** The fire turns inward. The anger that should be directed outward becomes self-directed shame. *I shouldn't have to feel this. Something is wrong with me for feeling this.* The charge implodes and the boundary dissolves.
 
@@ -364,7 +364,7 @@ Most people skip all of this. Most people either say nothing (and resent the per
 
 **This is the rep. This week, run it once.** Not the hardest line you're avoiding — the next real one. A meeting, a thread, a table where something crosses and you'd normally let it go. Feel the charge, aim, act in one sentence, exit. Thirty seconds. You don't need it to land well. You need it to *exist.*
 
-*You drew a line in the Village — or you watched yourself not. Before the story sets: what was the charge in your body, what did you actually say (or swallow), and what did it cost? Two minutes in the app, while it's still warm. → app*
+*You drew a line in the Village, or you watched yourself not. Before the story sets: what was the charge in your body, what did you actually say (or swallow), and what did it cost? Two minutes in the app, while it's still warm. → app*
 
 **When the Line Has Been Crossed Before: The Reckoning**
 
@@ -376,7 +376,7 @@ This is the moment for the Reckoning. Not anger — *consequence.* You state the
 
 Notice the shape of it: a clear line, clearly stated, with a consequence clearly named. Not a threat — a *foresight.* You tell them what you will do before you have to do it. That is the Reckoning. That is the Challenger's sharpest tool.
 
-Most people do not do this because they fear looking punitive. The Challenger knows: *not* naming the consequence is not kindness. It is cruelty wearing kindness as a disguise — because it sets the other person up to cross the line again, not knowing what will follow.
+Most people do not do this because they fear looking punitive. The Challenger knows: *not* naming the consequence is not kindness. It is cruelty wearing kindness as a disguise, because it sets the other person up to cross the line again, not knowing what will follow.
 
 Name the consequence. Then mean it.
 
@@ -487,7 +487,7 @@ The naming does not remove the fear. The naming separates the past from the pres
 
 Find the voice. Give it a name. Say the name out loud.
 
-*You named it, or you tried. Before the name landed, while it was still just running: what channel was it? Anger, fear, sadness, joy, neutrality — one word, from your body, not your analysis. What did the naming free? → app*
+*You named it, or you tried. Before the name landed, while it was still just running: what channel was it? Anger, fear, sadness, joy, neutrality: one word, from your body, not your analysis. What did the naming free? → app*
 
 ---
 
@@ -529,13 +529,13 @@ Then give the audit a deadline, because running out the clock is the shadow's en
 
 It shows up in a single beat. Someone says the thing in the meeting. Heat arrives in your chest — that is Charge, on time, doing its job. On the widened remit the audit opens before you can aim: *am I sure that is what they meant, is this even mine to call, there are people here closer to it than me* — and by the time the audit has finished weighing its own evidence the agenda has moved two items on and the heat has nowhere to go but home with you. On the narrow remit the same auditor gets the same breath and returns the verdict it could have returned all along: *real, and current.* Then you say the sentence. The same part applies the same rigor either way. Only the jurisdiction you gave it changed.
 
-*Bring one real moment the Skeptic closed the case on a charge before you could aim it — a crossing you talked yourself out of with "I'm probably overreacting," or a read you handed to someone with more standing and then walked away from. Name which question it was actually running: was it auditing the charge, or auditing you? Two minutes to capture it as a BAR. → app*
+*Bring one real moment the Skeptic closed the case on a charge before you could aim it, a crossing you talked yourself out of with "I'm probably overreacting," or a read you handed to someone with more standing and then walked away from. Name which question it was actually running: was it auditing the charge, or auditing you? Two minutes to capture it as a BAR. → app*
 
 ---
 
 ### Force and Restraint: Why the Audit Is So Hard to Catch
 
-You drew the Force ↔ Restraint axis in Section 3. Here is why the Skeptic is nearly impossible to catch standing on it — and why the chapter gave you a polarity instead of a rule.
+You drew the Force ↔ Restraint axis in Section 3. Here is why the Skeptic is nearly impossible to catch standing on it, and why the chapter gave you a polarity instead of a rule.
 
 Both poles are real goods. A Challenger who cannot restrain is a hazard — every charge becomes a line, every line becomes a confrontation, and the people around them start managing them instead of working with them. A Challenger who cannot force is furniture. Every live moment sits somewhere on that axis, and where it sits takes a judgment call. Judgment calls are precisely what an auditor is for.
 

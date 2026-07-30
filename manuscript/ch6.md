@@ -272,7 +272,7 @@ Pick a group you're actually in — a team, a committee, a coalition — where e
 
 Then hold the flinch. Somebody will hear it as criticism — that's the cost, and you don't pay it by softening. You pay it by staying warm while you stay clear: *I'm not saying anyone failed. I'm saying the structure is doing exactly what it was built to do — and it was built for a world we're not in anymore.* That sentence carries the whole chapter: structural sight delivered as love instead of indictment.
 
-*You named an assumption out loud in a real meeting — or you watched yourself swallow it and solve the visible problem instead. Before it fades: which assumption, what you actually said, and what the flinch cost you. Two minutes in the app while it is still in your body. → app*
+*You named an assumption out loud in a real meeting, or you watched yourself swallow it and solve the visible problem instead. Before it fades: which assumption, what you actually said, and what the flinch cost you. Two minutes in the app while it is still in your body. → app*
 
 ---
 
@@ -340,13 +340,13 @@ It shows up in a single beat. Someone says the thing in the meeting — the sent
 
 On the narrow jurisdiction the same sensor gets the same six seconds and returns something you can use twice: *Fire. Chest. This one is about the sentence, not the intake form.* Then you say the sentence back — the small, unarchitected, in-the-meeting sentence — and the restructure still gets built on Thursday, sized correctly this time, because by Thursday you know what it is for. Same instrument. Same rigor. The only thing that changed is what you gave it authority over.
 
-*Bring one design you shipped fast — a fix, a process, a proposal that arrived within an hour of something landing wrong. Reconstruct the order: what did you build, and what were you feeling before you built it? If you cannot recover the feeling, that is the finding, not a failure. Name the channel now, late, from memory. Then name the size of the fix against the size of the problem. Two minutes to capture it as a BAR. → app*
+*Bring one design you shipped fast: a fix, a process, a proposal that arrived within an hour of something landing wrong. Reconstruct the order: what did you build, and what were you feeling before you built it? If you cannot recover the feeling, that is the finding, not a failure. Name the channel now, late, from memory. Then name the size of the fix against the size of the problem. Two minutes to capture it as a BAR. → app*
 
 ---
 
 ### Structure and Agency: Why the Fix Always Sounds Like Systems Thinking
 
-You drew the Structure ↔ Agency axis in Section 3. Here is why the Emotional Body is nearly impossible to catch standing on it — and why the chapter gave you a polarity instead of a rule.
+You drew the Structure ↔ Agency axis in Section 3. Here is why the Emotional Body is nearly impossible to catch standing on it, and why the chapter gave you a polarity instead of a rule.
 
 Both poles are real goods. That condition is what makes the shadow workable. A distortion that had to argue for something false would be caught in a week. The Emotional Body does not argue for coldness — you would notice coldness. It argues for Structure, and Structure is half the truth. *This is not about that person, it is about the incentive. Blame is a dead end. The individual is not the leverage point.* Each of those can be correct. Each of them is correct sometimes. You can spend an entire career at the Structure end of a real polarity and call it sophistication, and no single instance will look like an evasion — because no single instance is one.
 
