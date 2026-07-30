@@ -662,7 +662,7 @@ Everything in Section 4 was the instrument. These five are what you do with the 
 
 ---
 
-### Move 1: Catch It Before the Story
+### Move 1 · Wake Up — Catch It Before the Story
 
 **What it is:** You catch the signal in the second before your mind writes the account of what it means.
 
@@ -676,9 +676,19 @@ In practice: the marker arrives in the body, because the body registers before t
 
 **The test:** You noticed where it landed in your body before you had a sentence explaining it. Accuracy is a separate question and a later one. If you can name the place and not the reason, you caught it in time.
 
----
+### Move 2 · Open Up — Turn the Dial Up
 
-### Move 2: Name the Channel Out Loud
+**What it is:** In the second you would normally compose yourself, turn the sensitivity up instead. Six seconds is enough.
+
+**Why it matters:** You cannot affect what you cannot feel, and the dial in your hand only ever moved one direction. A reading taken at that setting arrives a beat after the moment it was for. Turn it up and you find what the low setting was covering. A part of you is getting something out of the very dynamic you say you want to end. The charge of being the good one. The relief when the conversation stays comfortable. That part steers better in the dark, and the low setting is the dark.
+
+In practice: the marker is the urge to sit up straight and sound reasonable. That urge is your hand on the dial, moving it down. Leave it where it is. Count six seconds and let the situation reach you at full strength, including the part of it you would rather not have found.
+
+**Example:** Someone takes credit for your work in a meeting. The composed version arrives instantly, fully formed: measured voice, generous face, a note to yourself to raise it later. Turn the dial up instead and two things arrive together. The anger, which you expected, and underneath it the small relief that you now hold a grievance you never had to ask for.
+
+**The test:** You can say what you were getting out of the moment, not only what it cost you. Liking some part of it is information rather than a confession. What stays hidden runs the moment, and what you can feel, you can play.
+
+### Move 3 · Clean Up — Name the Channel Out Loud
 
 **What it is:** You say which channel runs, yours or the field's, where other people can hear it.
 
@@ -692,9 +702,19 @@ In practice: use the channel word, not the euphemism. *Anger* rather than *frust
 
 **The test:** You said it out loud, in the moment, where someone could disagree with it. Agreement is theirs to give or withhold. A channel named only to yourself belongs to Section 4.
 
----
+### Move 4 · Grow Up — Say What You Can Do Now
 
-### Move 3: Say the Thing Under the Thing
+**What it is:** After the read lands, name the capability it left behind. One sentence, present tense.
+
+**Why it matters:** A read you understand and then set down leaves you where you started with better vocabulary. This stage converts information into equipment. Fear that showed you what matters becomes a value you hold rather than one you argue for. Anger that showed you a line becomes a line you are allowed to have. The feeling stops being something that happened to you and becomes something you own.
+
+In practice: say it to your own nervous system, plainly, in the seconds after the read. *I get it. The message landed.* Then finish the sentence with the equipment. *I can tell when a plan is being agreed to and not believed.* *I can hold a hard look without going away.*
+
+**Example:** You clock that a colleague's enthusiasm in a planning meeting is performance. Two weeks later the plan stalls exactly where you felt it would. Being right cost you nothing and bought you nothing. The Grow move is the sentence you say in the seconds after the original read: *I can feel the difference between agreement and compliance, and I get to act on it before the evidence arrives.*
+
+**The test:** You can state the capability in the present tense with no story attached. If the sentence only makes sense once you explain the meeting, it has not landed yet.
+
+### Move 5 · Show Up — Say the Thing Under the Thing
 
 **What it is:** You say the read, what moves underneath the stated discussion, to the people it concerns, while it is live.
 
@@ -707,40 +727,6 @@ In practice: the sentence is shorter than you want it to be. A read usually runs
 **Example:** A meeting where two people keep restating positions that barely differ. The stated content is a scoping question. The read is: *I think you two are arguing because something happened between you last month and neither of you has said so.* One clause. Nothing about who was right. The scoping question resolves in four minutes once the actual conversation becomes available.
 
 **The test:** You said the read you actually had, and you said it while it was still live. What the conversation did afterward belongs to the conversation. A true thing said an hour late is a different move.
-
----
-
-### Move 4: Ask for What It Actually Needs
-
-**What it is:** You name the real need the situation has, unreduced, and ask the person who can grant it or refuse it.
-
-**Why it matters:** The read does more than register feeling. It also tells you what the situation lacks. A Shaman who can feel a situation accurately can usually say what it requires: more time, a different person in the conversation, an apology, money, somebody with authority saying out loud that the decision already got made. The need comes attached to the read.
-
-The need gets scaled down, and the scaling-down happens before you notice yourself performing it. The ask shrinks to what you feel confident of getting, so what leaves your mouth is the need minus the risk of hearing no. Then the situation gets negotiated downward from an already-reduced position, what arrives covers a fraction of what the situation required, and everyone agrees it was the best anyone could have done under the circumstances.
-
-In practice: say the unreduced version first, out loud, to the person with the standing to refuse it. Refusal is not the failure state here. Being refused a real ask leaves the real need on the record where somebody else can pick it up. Being granted a small ask takes it off.
-
-**Example:** A program that needs a full-time coordinator. The reduced ask is a few hours of somebody's existing time, which gets granted, which produces a coordinator-shaped hole staffed by a person who already has a job. The unreduced ask is a role and a salary. The budget may refuse it this year. Refused, it stands on the record as a documented need with a number on it, something a budget cycle can eventually meet. Granted small, it disappears into the goodwill of whoever absorbed it.
-
-**The test:** What left your mouth matched the size of the real need rather than the size you felt sure of getting. A no to the real ask beats a yes to the shrunken one, so score the ask.
-
----
-
-### Move 5: Spend the Read, Don't Bank It
-
-**What it is:** You convert the read into a move inside a set window, or you let it go on purpose.
-
-**Why it matters:** Every read has two possible endings. It gets spent: said, asked, acted on, put somewhere it can change something. Or it gets banked, which means it stays with you, gets refined, becomes part of how well you understand the situation, and costs nobody anything.
-
-Banking feels like the responsible ending every single time. A reason always presents itself: the timing is bad, you want certainty, you are still forming a view, somebody else stands better placed to say it. The reasons are frequently correct. None of them explains why the count of banked reads only goes up.
-
-The banked read is the material the awareness trap builds from. The trap is a large private collection of accurate reads, none of them spent, held by somebody who can describe the dynamic better than anyone else at the table and has never once changed it. That is a Shaman with a full account and an empty ledger.
-
-In practice: give it a window. The read gets spent before the conversation it came from ends, or before the day ends if the conversation already ended. Past that it will not get spent. It will get understood. Log both endings, spent and kept, for two weeks. The ratio tells you something no further insight will tell you.
-
-**Example:** You leave a meeting having noticed that the team talked over its newest person three times and that she has stopped offering anything. The banked version leaves you understanding the team's dynamic more accurately than you did at nine that morning. The spent version is one message, that afternoon: *You got cut off three times today and I noticed. I am going to say something about it in Thursday's meeting. Do you want me to use your name or leave it out?* Same read. One of them reached a person.
-
-**The test:** It left you inside the window you set: said, asked, acted on, or deliberately let go. Whether it changed anything is a separate question. A read still under review on Friday was banked.
 
 ---
 
