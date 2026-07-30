@@ -14,6 +14,42 @@
 > — Halvane, the year after
 <!-- /EPIGRAPH-BYLINE -->
 
+<!-- HANDBOOK -->
+> **THE SCHOOL OF THE OATH**
+> *Admissions. Filed as required, under clause one.*
+>
+> **Clause one.** Each school shall produce an account of itself for those considering entry.
+> The clause as written requires an account. The clause as kept, since Merrow, has produced a
+> recruitment notice. What follows is an account.
+>
+> **Clause two, admission.** Two conditions, both required. First, that the applicant has
+> found a practice they belong to altered in the part concerning them, without notice, and
+> learned of it afterward and from a third party. Second, that the applicant has kept a thing
+> they knew to be costing someone. The first condition without the second produces a candidate
+> who breaks well and cannot hold. Several were admitted regardless and it is recorded.
+>
+> **Clause three, the capability conferred.** To pass a practice on intact and named. Named is
+> the difficult half and the entire point: a practice handed over without its record passes to
+> someone who must now guess what it was for, and the guessing is where alterations begin.
+>
+> **Clause four, the cost.** Time, at a scale candidates do not anticipate. Nothing here
+> resolves inside a season. Those requiring resolution inside a season have suffered as a
+> result, and two are named in the ledger with their consent.
+>
+> **Clause five, what is not taught.** Repair of the machine that produced the alteration.
+> This school holds and hands on. It does not redesign, and a school that redesigns while
+> claiming to preserve is the failure this one exists downstream of. Such cases go to the
+> School of the Pattern.
+>
+> **Clause six, entry.** Prior standing at the School of the Line is required. One must be
+> able to refuse a thing before one can be trusted to keep it.
+>
+> **A note from the Head, appended outside the clauses.** I can pass an inheritance intact and
+> named, which is the whole of what is claimed above. I have not learned to hand one to
+> somebody who will change it without entering the change as damage. My own ledgers are the
+> reason that is hard.
+<!-- /HANDBOOK -->
+
 <!-- MARGINALIA -->
 > *Sera hands new students something inherited — a role, a ledger, a duty nobody wants — and
 > watches whether they keep the purpose or only the shape of it. Most keep the shape. She does not

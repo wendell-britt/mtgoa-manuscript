@@ -14,6 +14,38 @@
 > — a foreman, name withheld at his request
 <!-- /EPIGRAPH-BYLINE -->
 
+<!-- HANDBOOK -->
+> **THE SCHOOL OF THE PATTERN**
+> *Admissions. Specification 0.1.*
+>
+> **1. Who we are for.** Specification: an applicant has (a) taken a path costing them more
+> than it cost the person beside them, for reasons neither chose, and (b) watched another take
+> that path and concluded *the process is fine, they are struggling.* Both required.
+> Applicants presenting only (b) are declined and told the reason, which takes an afternoon
+> and saves four years.
+>
+> **2. Capability conferred.** Location of the point at which a system produces the outcome it
+> produces. Not the person standing at that point. The point. In practice the consequence
+> arrives about a season later: people stop apologising for things that were never theirs,
+> because the apology has stopped being accepted.
+>
+> **3. Cost.** Tolerance, stated. This training holds to roughly the third redesign. Past
+> that, candidates begin producing designs to correct designs, each further from anybody
+> living inside them, and the drift is the mechanism rather than the error. Those who did not
+> stop at three have suffered as a result. See figure two.
+>
+> **4. Not taught.** Disposition of the person the redesign will not reach in time. There is
+> always one. The specification does not cover them and I decline to pretend otherwise. Such
+> cases go to the School of the Horizon.
+>
+> **5. Entry.** Prior standing at the School of the Oath. Something must have been kept before
+> something may be changed, and the order is not stylistic.
+>
+> **6. A word from the Head.** The designs hold. I ask first now, which I did not for nineteen
+> years. In practice I remain slower at asking than at designing, and the asking takes an
+> afternoon.
+<!-- /HANDBOOK -->
+
 <!-- MARGINALIA -->
 > *Irix asks every student to draw the system and then asks whose face disappeared from the
 > diagram. They have been asking it for thirty years and it is the best question anybody at this

@@ -14,6 +14,40 @@
 > — a delegate, second session
 <!-- /EPIGRAPH-BYLINE -->
 
+<!-- HANDBOOK -->
+> **THE SCHOOL OF THE BRIDGE**
+> *Admissions. Filed as required.*
+>
+> **1. Who we are for.** Two positions, both recorded. One applicant wrote: *I had no leverage
+> and I sat down anyway, and I was frightened the entire time.* Admitted. Another wrote: *I
+> watched a woman bargain with nothing but somebody's goodwill and I said nothing, because it
+> was not my table, and I have thought about it since.* Admitted, and only in combination with
+> the first. One without the other produces a translator with nothing at stake. Several were
+> trained and it did not hold.
+>
+> **2. What you will be able to do when you leave.** Name what each party is protecting,
+> aloud, including the party judged to be wrong. Consequence: a conversation stops being about
+> who is right roughly four minutes earlier than it did before, and four minutes is more than
+> it sounds.
+>
+> **3. What it costs.** Acknowledgement. A student once put it this way at the end of her
+> fourth year: *the terms held and nobody knew I wrote them, and I did not expect to mind, and
+> I mind.* She was right to say so and no version of this training removes it. Those who came
+> for the thanks have suffered as a result.
+>
+> **4. What we do not teach.** How to make terms outlast the people who agreed to them. This
+> school gets the agreement. It cannot get the century. Such cases go to the School of the
+> Oath, which can, and which will be dry about it.
+>
+> **5. Entry.** Prior standing at the School of the Pattern. The design producing the pressure
+> must be visible before one sits down inside the pressure, or the negotiation will be with a
+> person about a machine.
+>
+> **6. A word from the Head.** The terms hold. Whether wanting the sentence is a defect in me
+> or a condition of the work is the open question here, and I am the wrong person to settle
+> it.
+<!-- /HANDBOOK -->
+
 <!-- MARGINALIA -->
 > *Elian makes every student answer three questions before they are allowed into a difficult conversation:
 > what you believe, what the other side needs, and what would make staying here dishonest. Students

@@ -14,6 +14,38 @@
 > — a clerk of Oreve
 <!-- /EPIGRAPH-BYLINE -->
 
+<!-- HANDBOOK -->
+> **THE SCHOOL OF THE LINE**
+> *Admissions. Filed as required.*
+>
+> **1. Who we are for.** You have said no and had it not take. You said it in a meeting,
+> pleasantly, and the thing went ahead; you said it again six weeks later and were told you
+> had raised that already. You have also watched it happen to somebody with less standing than
+> you, and done nothing, and known at the time you were doing nothing. Both. Applicants with
+> one are declined.
+>
+> **2. What you will be able to do when you leave.** State a limit in one sentence and not
+> take it back in the four seconds afterward. The specific thing stops. Then the second thing,
+> which students underestimate for about a year: the people watching learn that limits can be
+> stated here, and some of them start stating their own.
+>
+> **3. What it costs.** You will be unwelcome in small ways, more often than you have budgeted
+> for, and somebody whose opinion you value will call you difficult where you can hear it.
+> Students who wait until they feel ready have suffered as a result!
+>
+> **4. What we do not teach.** Repair. You will object that a limit without repair is cruelty.
+> It is not, it is incomplete, and incomplete is a different problem with a different address.
+> Send it to the School of the Bridge. Failing to send it is the error here, not sending it.
+>
+> **5. Entry.** You must be able to say what you felt in the last moment you said nothing. Not
+> what you thought. What you felt, and where. If you cannot, the School of the Body takes
+> first-years every season and we will still be here.
+>
+> **6. A word from the Head.** The lines land now. What I am working is the four seconds after
+> a line drawn on somebody else's behalf, when they go on living in the place where I said it
+> and I do not.
+<!-- /HANDBOOK -->
+
 <!-- MARGINALIA -->
 > *Corin held a verdict open once. One time that I know of, against every instinct they have, for
 > the four days it took the evidence to arrive. It changed the outcome and they have never

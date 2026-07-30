@@ -14,6 +14,41 @@
 > — unsigned, left at the Horizon door
 <!-- /EPIGRAPH-BYLINE -->
 
+<!-- HANDBOOK -->
+> **THE SCHOOL OF THE HORIZON**
+> *Admissions. Filed as required, and late.*
+>
+> **1. Who we are for.** Maera would say we take the person who has stopped registering their
+> own signal, and Corin would say we take the person who cannot spend a line, and both are
+> describing the same applicant from inside their own school, which is the difficulty with
+> this document and with us. We take the one who has sat with something that would not resolve
+> and did not try to close it, and who has also been sat with, once, by somebody who fixed
+> nothing, and can still describe the afternoon.
+>
+> **2. What you will be able to do when you leave.** We teach the telling of which school a
+> moment belongs to, and the handing of it over, which is most of what we do and reads to
+> visitors as doing nothing. The consequence is that the people we send arrive at the right
+> school on the first attempt rather than the third, and Irix will tell you what the first two
+> cost.
+>
+> **3. What it costs.** Range, which sounds like a gift when we say it. We stop being simply
+> at home in any one school, including the one we came from, and I have watched that land as
+> loss in students who expected it to land as freedom. Those who came to be above the other
+> five have suffered as a result, and left, and one has come back.
+>
+> **4. What we do not teach.** Any of it. We do not teach the reading, the line, the keeping,
+> the design, or the terms. We teach which of the five a moment is asking for, and then we
+> send, and the sending is the entire curriculum. All five take our referrals and Sera is dry
+> about ours in particular.
+>
+> **5. Entry.** Standing at all five. There is no way to shorten this and we are asked every
+> year.
+>
+> **6. A word from the Head.** I have read all five schools for thirty years and nobody has
+> read me, which I arranged, and which I am now told is a course I never took. I am the oldest
+> first-year here. That is a joke and it is also the timetable.
+<!-- /HANDBOOK -->
+
 ---
 
 
