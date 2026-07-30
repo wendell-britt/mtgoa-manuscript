@@ -481,11 +481,11 @@ The grid again, fourth operation of six. Five moves down, four domains across, t
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
-Read the left-hand column and you are reading this chapter. Wake Up is a mode detecting. Open Up is the six seconds. Clean Up is the conversion — performed on purpose, in its own slot, rather than on reflex a quarter-second after the signal lands. Grow Up is the capability the design is supposed to leave behind in other people. Show Up is the thing you build, and every card in that row starts with the same verb. Read across a row instead and you are choosing the arena. Down is the sequence, across is where it lands.
+The five moves are this chapter, in order. Wake Up is a mode detecting. Open Up is the six seconds. Clean Up is the conversion — performed on purpose, in its own slot, rather than on reflex a quarter-second after the signal lands. Grow Up is the capability the design is supposed to leave behind in other people. Show Up is the thing you build, and every card at that stage starts with the same verb. Pick a domain instead and you are choosing the arena. Down is the sequence, across is where it lands.
 
 ### Drawing Against the Shadow
 
-Draw from your twenty rather than the hundred and twenty — though not from a single row. The daemon is a rule, and it is in force at all five moves. The Emotional Body's five:
+Draw from your twenty rather than the hundred and twenty — though not all from one move. The daemon is a rule, and it is in force at all five moves. The Emotional Body's five:
 
 **Wake Up.** It notices what is convertible. A signal with no structural output does not register as potential; it registers as noise, or as somebody else's department.
 
@@ -507,7 +507,7 @@ Five moves, one card, ninety seconds — six of which are the only ones your Emo
 
 ### From Card to Quest
 
-A card that ends in the app is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up row, because that row ends in artifacts and an artifact is something another person can encounter.
+A card that ends in the app is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
 
 One line, four things: what you will do, who it reaches, by when, and what it costs you. *Build the Ladder* becomes: **I will hand the vendor relationship to Jess with the three things I never wrote down, by the fifteenth, and it will cost me being the person they call.** That is a quest. *I will build more sustainable systems* is not one; nobody can tell whether you did it, including you.
 

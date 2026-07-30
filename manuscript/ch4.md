@@ -582,15 +582,15 @@ Egan spent forty years studying one skill: the capacity to act clearly in a char
 
 ### Move 1: Name the Unnameable
 
-The Situation: Someone says or does something. Everyone can feel it. Nobody names it.
+**The Situation:** Someone says or does something. Everyone can feel it. Nobody names it.
 
-The Move: You name it.
+**What it is:** You name it.
 
 *We're not addressing the thing that just happened. I'd like to.*
 
 That's it. That's the move. The naming does the work. Most situations have a specific thing — a violation, a dismissal, a boundary crossed — that everyone has noticed and nobody has stated. You state it. You don't need a solution. You just need the thing to exist as a named reality.
 
-Why it works: Unnamed things feel larger than named things. Naming it reduces it. It demonstrates, for everyone watching, that the line exists.
+**Why it matters:** Unnamed things feel larger than named things. Naming it reduces it. It demonstrates, for everyone watching, that the line exists.
 
 In practice: Next time you're in a meeting and something happens that you can feel everyone noticing and nobody stating — that's your cue. State it. Plainly. *"That comment about X wasn't accurate. I want to note that before we move on."*
 
@@ -600,9 +600,9 @@ In practice: Next time you're in a meeting and something happens that you can fe
 
 ### Move 2: Draw the Line
 
-The Situation: Someone is about to cross a line, or has just crossed one, or keeps crossing one.
+**The Situation:** Someone is about to cross a line, or has just crossed one, or keeps crossing one.
 
-The Move: State the line. State it without essay, without justification, without apology.
+**What it is:** State the line. State it without essay, without justification, without apology.
 
 *I want to be direct: I'm not able to support this approach.*
 
@@ -610,7 +610,7 @@ The Move: State the line. State it without essay, without justification, without
 
 *This is where I need the line to be.*
 
-Why it works: Most people bury their lines in qualifiers. *"I don't know if this is the right time but I just wanted to maybe suggest that it might be worth considering..."* The line, buried in qualifiers, is not actually a line. The Challenger states the line cleanly, so clean it stands on its own.
+**Why it matters:** Most people bury their lines in qualifiers. *"I don't know if this is the right time but I just wanted to maybe suggest that it might be worth considering..."* The line, buried in qualifiers, is not actually a line. The Challenger states the line cleanly, so clean it stands on its own.
 
 In practice: When you feel yourself reaching for a qualifier, stop. Take the qualifier out. State the line. Hold it for one second longer than is comfortable. That's usually all it takes.
 
@@ -620,9 +620,9 @@ In practice: When you feel yourself reaching for a qualifier, stop. Take the qua
 
 ### Move 3: Refuse Cleanly
 
-The Situation: Someone asks you to do something you cannot or will not do. A request that violates a boundary. A demand that requires you to abandon yourself.
+**The Situation:** Someone asks you to do something you cannot or will not do. A request that violates a boundary. A demand that requires you to abandon yourself.
 
-The Move: Say no. Just the word. The essay stays unwritten, and so does the three-paragraph explanation that actually apologizes for saying no.
+**What it is:** Say no. Just the word. The essay stays unwritten, and so does the three-paragraph explanation that actually apologizes for saying no.
 
 *No.*
 
@@ -630,7 +630,7 @@ The Move: Say no. Just the word. The essay stays unwritten, and so does the thre
 
 *No, I won't be doing that.*
 
-Why it works: Most people mistake the three-paragraph explanation for clarity. The explanation is *hiding.* The explanation signals that the no needs justifying, that the boundary needs defending. The Challenger knows: the no stands on its own. The explanation is optional. The no is not.
+**Why it matters:** Most people mistake the three-paragraph explanation for clarity. The explanation is *hiding.* The explanation signals that the no needs justifying, that the boundary needs defending. The Challenger knows: the no stands on its own. The explanation is optional. The no is not.
 
 In practice: Practice the one-word no. Not *let me think about it* (which is a soft no) and not *I'm not sure I can* (which is an apologetic no) but *no.* Just no. See what happens. The world does not end. The relationship does not actually end. The clarity you gain repays the momentary discomfort.
 
@@ -640,13 +640,13 @@ In practice: Practice the one-word no. Not *let me think about it* (which is a s
 
 ### Move 4: Confront Without Cruelty
 
-The Situation: You need to say something hard to someone. A boundary has been crossed. A line has been violated. The confrontation has to happen.
+**The Situation:** You need to say something hard to someone. A boundary has been crossed. A line has been violated. The confrontation has to happen.
 
-The Move: Hard content. Clean delivery.
+**What it is:** Hard content. Clean delivery.
 
 *I want to talk with you about what happened in the meeting on Tuesday. You've done this before and I've asked you to stop. It keeps happening. I need you to know: I can't work with you on this project if it continues. That's not a threat — it's a boundary. I'm naming it clearly so you have the information you need.*
 
-Why it works: The Challenger's practice requires you to hold two things simultaneously: the boundary is real, and the relationship is real. Most people who are clear about boundaries are harsh. Most people who are gentle about boundaries are unclear. The Challenger holds both. Hard content. Clean delivery. You can hold both in the same sentence: *I need you to stop,* and *I want to work this out with you.*
+**Why it matters:** The Challenger's practice requires you to hold two things simultaneously: the boundary is real, and the relationship is real. Most people who are clear about boundaries are harsh. Most people who are gentle about boundaries are unclear. The Challenger holds both. Hard content. Clean delivery. You can hold both in the same sentence: *I need you to stop,* and *I want to work this out with you.*
 
 In practice: Before a hard conversation, write down what you need to say. Then take out everything except the line and the consequence. What remains is the confrontation. Hold to that. The rest is noise.
 
@@ -656,13 +656,13 @@ In practice: Before a hard conversation, write down what you need to say. Then t
 
 ### Move 5: Stay Past the Discomfort
 
-The Situation: You've drawn the line. You've stated the boundary. Now the discomfort spreads. People shift in their seats. Someone looks upset. The old impulse pulls you to soften, to clarify, to apologize for the discomfort you just created.
+**The Situation:** You've drawn the line. You've stated the boundary. Now the discomfort spreads. People shift in their seats. Someone looks upset. The old impulse pulls you to soften, to clarify, to apologize for the discomfort you just created.
 
-The Move: Stay.
+**What it is:** Stay.
 
 You do not need their immediate comfort to validate your boundary. You do not need everyone to immediately reorganize around your no. You said the thing. The thing is true. You hold it.
 
-Why it works: Most lines fail not because they were badly drawn but because the person who drew them could not tolerate the discomfort of having drawn it. They softened. They clarified until the line was no longer a line. They apologized until the boundary was no longer a boundary. The Challenger knows: *the discomfort of holding a line is less costly than the cost of not holding it.* The short-term discomfort of staying always costs less than abandoning the boundary.
+**Why it matters:** Most lines fail not because they were badly drawn but because the person who drew them could not tolerate the discomfort of having drawn it. They softened. They clarified until the line was no longer a line. They apologized until the boundary was no longer a boundary. The Challenger knows: *the discomfort of holding a line is less costly than the cost of not holding it.* The short-term discomfort of staying always costs less than abandoning the boundary.
 
 In practice: Next time you draw a line and feel the urge to soften — pause. Take one breath. Ask: *is the line true?* If yes, hold it. You do not owe anyone immediate comfort for your own clarity.
 
@@ -676,11 +676,11 @@ Same grid as the Shaman's, one operation over. Five basic moves down — the WAV
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
-Notice what happens to the titles as you go down. The Wake Up row names four things you do not look at. The Show Up row names four things that happen in front of other people. That is the Challenger's arc compressed into twenty phrases: it starts at what you refuse to see and ends at something you did with witnesses. Read across a row instead and you choose the arena. Down is the sequence, across is where it lands.
+Notice what happens as you go down the five. Wake Up names four things you do not look at. Show Up names four things that happen in front of other people. That is the Challenger's arc compressed into twenty phrases: it starts at what you refuse to see and ends at something you did with witnesses. Pick a domain instead and you choose the arena. Down is the sequence, across is where it lands.
 
 ### Drawing Against the Shadow
 
-Draw from your twenty rather than the hundred and twenty — though not from a single row of them. A daemon is a rule, and a rule in force the whole way down produces a different failure at every move. The Skeptic's five:
+Draw from your twenty rather than the hundred and twenty — though not all from one move. A daemon is a rule, and a rule in force the whole way down produces a different failure at every move. The Skeptic's five:
 
 **Wake Up.** It notices resistance, always somebody else's. What resists being seen gets located outside you before the noticing has finished, and the hand holding the instrument escapes it.
 
@@ -702,7 +702,7 @@ Five moves, one card, ninety seconds.
 
 ### From Card to Quest
 
-A card that ends in the app is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up row, because that row ends in artifacts and an artifact is something another person can encounter.
+A card that ends in the app is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
 
 One line, four things: what you will do, who it reaches, by when, and what it costs you. *Say the Thing* becomes: **I will tell Marcus on Thursday that I was wrong to call his read on the hiring panel an overreaction, without adding a defence of why I thought so, and it will cost me the version of myself that gets things right the first time.** That is a quest. *I will be less dismissive* is not one; nobody can tell whether you did it, including you.
 

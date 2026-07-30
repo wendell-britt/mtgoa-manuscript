@@ -634,11 +634,11 @@ The grid again, fifth operation of six. Five moves down, four domains across, tw
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
-Read the left-hand column and you are reading this chapter. Wake Up is a channel detecting who is in the field and on what terms. Open Up is the move this chapter's daemon exists to prevent: receiving what something costs somebody else without converting it into what it costs you. Clean Up is the destination choice, and every card in that row is written as a route because that is what the move is: *from* somewhere, *to* somewhere. Grow Up is the only row in the deck that asks about other people by design. Show Up is the relationship you build, and every card there starts with the same verb, because at this altitude showing up means bringing somebody with you. Read across a row instead and you are choosing the arena. Down is the sequence, across is where it lands.
+The five moves are this chapter, in order. Wake Up is a channel detecting who is in the field and on what terms. Open Up is the move this chapter's daemon exists to prevent: receiving what something costs somebody else without converting it into what it costs you. Clean Up is the destination choice, and every card at that stage is written as a route because that is what the move is: *from* somewhere, *to* somewhere. Grow Up is the only move in the deck that asks about other people by design. Show Up is the relationship you build, and every card there starts with the same verb, because at this altitude showing up means bringing somebody with you. Pick a domain instead and you are choosing the arena. Down is the sequence, across is where it lands.
 
 ### Drawing Against the Shadow
 
-Draw from your twenty rather than the hundred and twenty, though not from a single row. A daemon is a rule in force at every move, which means five failures rather than one. The Victim's:
+Draw from your twenty rather than the hundred and twenty, though not all from one move. A daemon is a rule in force at every move, which means five failures rather than one. The Victim's:
 
 **Wake Up.** It notices relationships accurately and files them by balance. Asked what relational dynamics matter, it returns who owes whom. The reading is good. The output is an account.
 
@@ -660,7 +660,7 @@ Five moves, one card, ninety seconds. The Diplomat's version is the shortest in 
 
 ### From Card to Quest
 
-A card that ends in the app is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up row, because that row ends in artifacts and an artifact is something another person can encounter.
+A card that ends in the app is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
 
 One line, four things: what you will do, who it reaches, by when, and what it costs you. *Bring Them Into the Structure* becomes: **I will put the two people who have been running intake without a title into the decision that names it, at Thursday's meeting, and it will cost me being the one who explains them to everybody else.** That is a quest. *I will be more inclusive in how decisions get made* is not one; nobody can tell whether you did it, including you.
 

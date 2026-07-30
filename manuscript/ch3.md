@@ -808,13 +808,13 @@ Here is where they come from. The deck runs five basic moves, and you already kn
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
-Read the left-hand column and you are reading this chapter. Every stage you practiced is a row. The Clean Up row holds the five channels, one per domain, which is why all four of those cards begin with the same verb: *name.* Read across a row instead and you are choosing where the move lands. That is the whole grid: down is the sequence, across is the arena.
+The five moves are this chapter, in order. Every stage you practiced is one of them. Clean Up holds the five channels, one per domain, which is why all four of those cards begin with the same verb: *name.* Pick a domain instead and you are choosing where the move lands. The five are the sequence; the four domains are the arena.
 
 ### Drawing Against the Shadow
 
 Draw from your twenty rather than the hundred and twenty. Which twenty is easy. Which of the five rows is the real question, and a tempting wrong answer waits: that a shadow lives at one move and the other four are clean.
 
-They are not clean. A daemon is not a defect at one stage of the spiral. It is a rule, and the rule is in force the whole way down. Run the Controller through all five moves and five different failures come out, one per row, exactly what makes the grid worth having, because each of those failures has cards sitting beside it.
+They are not clean. A daemon is not a defect at one stage of the spiral. It is a rule, and the rule is in force the whole way down. Run the Controller through all five moves and five different failures come out, one per move, exactly what makes the five worth having, because each of those failures has cards sitting beside it.
 
 **Wake Up.** The signal arrives at full strength and gets logged at a strength you are cleared to be seen having. Nothing is missed. Everything is downgraded on the way in.
 
@@ -838,7 +838,7 @@ Five moves, one card, about ninety seconds. That is a full pass of the spiral wi
 
 A card that ends in the app is a card you read. A card that ends in a quest is a card you played, and the difference is a person.
 
-A quest is a commitment to act that touches somebody other than you, on a date. It is not a resolution and it is not a value. It has a verb, a name in it, and a deadline. Quests come from the Show Up row, and every card in it ends in an artifact, and an artifact is something another person can encounter.
+A quest is a commitment to act that touches somebody other than you, on a date. It is not a resolution and it is not a value. It has a verb, a name in it, and a deadline. Quests come from the Show Up cards, and every card in it ends in an artifact, and an artifact is something another person can encounter.
 
 Write yours in one line with four things in it: what you will do, who it reaches, by when, and what it costs you. *Aim the Awareness* becomes: **I will tell Dana what I noticed in Tuesday's meeting and not soften it, before Friday, and it will cost me her thinking I am difficult.** That is a quest. *I will be more aware of my impact* is not one; nobody can tell whether you did it, including you.
 

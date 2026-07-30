@@ -636,11 +636,11 @@ The grid again, sixth operation of six, the last one. Five moves down, four doma
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
-Read the left-hand column and you're reading this chapter. Wake Up is the Panoramic Seer with an instrument in its hand — every card in that row asks the same question about a different arena. Open Up finds the Sage weakest by design, because witnessing a game from inside it is the one thing the whole-board view makes harder rather than easier. Clean Up is where insight either becomes a diagnosis or hardens into a verdict, and two of those four cards read as a fork for exactly that reason. Grow Up is the row this chapter's daemon exists to prevent, the only row in the deck that asks what the playing does to the player. Show Up is legacy, and every card there names what remains once you stop holding it. Read across a row and you're choosing the arena instead. Down is the sequence. Across is where it lands.
+The five moves are this chapter, in order. Wake Up is the Panoramic Seer with an instrument in its hand — every card at that stage asks the same question about a different arena. Open Up finds the Sage weakest by design, because witnessing a game from inside it is the one thing the whole-board view makes harder rather than easier. Clean Up is where insight either becomes a diagnosis or hardens into a verdict, and two of those four cards read as a fork for exactly that reason. Grow Up is the move this chapter's daemon exists to prevent, the only move in the deck that asks what the playing does to the player. Show Up is legacy, and every card there names what remains once you stop holding it. Pick a domain and you're choosing the arena instead. Down is the sequence. Across is where it lands.
 
 ### Drawing Against the Shadow
 
-Draw from your twenty rather than the hundred and twenty — though not from a single row. A daemon is a rule in force at every move, which means five failures rather than one. The Damaged Self's:
+Draw from your twenty rather than the hundred and twenty — though not all from one move. A daemon is a rule in force at every move, which means five failures rather than one. The Damaged Self's:
 
 **Wake Up.** The signal registers, and alongside it registers the fact that you noticed it the way you notice things — the suspect way. The noticing is accurate. It arrives with a footnote about the noticer, and the footnote runs longer than the notice.
 
@@ -652,7 +652,7 @@ Draw from your twenty rather than the hundred and twenty — though not from a s
 
 **Show Up.** It routes to the domain where being built wrong shows least. Usually that's a framework. Usually it's one more map, handed to somebody who asked for a hand.
 
-It bites hardest in the Grow Up row. The Damaged Self's remit is whether you're built correctly for this, and that question gets settled at the exact moment something asks to develop. The other four rows show that settlement arriving early or arriving late. Catch it there and the rest have nothing to propagate from.
+It bites hardest in the Grow Up cards. The Damaged Self's remit is whether you're built correctly for this, and that question gets settled at the exact moment something asks to develop. The other four rows show that settlement arriving early or arriving late. Catch it there and the rest have nothing to propagate from.
 
 Take **Who the Fight Makes You** — Grow Up, Direct Action, Sage. Its question is the one the Damaged Self exists to route around: *what does playing this make me?* Not what's wrong with the player. What the playing builds. The card assumes the instrument works and asks what it's becoming — the assumption the daemon cannot make on its own.
 
@@ -662,7 +662,7 @@ Five moves, one card, ninety seconds. The Sage's version stands alone in the boo
 
 ### From Card to Quest
 
-A card that ends in the app is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up row, because that row ends in artifacts and an artifact is something another person can encounter.
+A card that ends in the app is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
 
 One line, four things: what you will do, who it reaches, by when, and what it costs you. *Leave the Game Playable Without You* becomes: **I will write down the three judgment calls I've been making by feel and walk two people through them before the retreat in March, and it will cost me being the one who has to be in the meeting for it to go well.** That's a quest. *I will be less indispensable* is not one; nobody can tell whether you did it, including you.
 

@@ -523,11 +523,11 @@ Same grid, one operation further along. Five moves down — the WAVE-Spiral — 
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
-The Regent's Show Up row is the only one in the deck built entirely out of verbs for keeping: hold, keep, sustain, tend. Nothing in it is made. That marks the difference between building something and inheriting it, and it makes this operation the slowest of the six. Read down for the sequence, across for the arena.
+The Regent's Show Up cards is the only one in the deck built entirely out of verbs for keeping: hold, keep, sustain, tend. Nothing in it is made. That marks the difference between building something and inheriting it, and it makes this operation the slowest of the six. Read down for the sequence, across for the arena.
 
 ### Drawing Against the Shadow
 
-Draw from your twenty rather than the hundred and twenty — though not from a single row. A daemon is a rule in force at every move, which means five failures rather than one. The Fixer-Healer's:
+Draw from your twenty rather than the hundred and twenty — though not all from one move. A daemon is a rule in force at every move, which means five failures rather than one. The Fixer-Healer's:
 
 **Wake Up.** Asked what deserves attention, it returns what is damaged. Those are not the same list. You will never accept an inheritance you can only see the breaks in.
 
@@ -549,7 +549,7 @@ Five moves, one card. The Regent's version runs slower than the others — give 
 
 ### From Card to Quest
 
-A card that ends in the app is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up row, because that row ends in artifacts and an artifact is something another person can encounter.
+A card that ends in the app is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
 
 One line, four things: what you will do, who it reaches, by when, and what it costs you. *Tend the Structure* becomes: **I will write down how the intake process actually works, give it to Priya by the end of the month, and walk her through it once, and it will cost me being the only person who knows.** That is a quest. *I will delegate more* is not one; nobody can tell whether you did it, including you.
 
