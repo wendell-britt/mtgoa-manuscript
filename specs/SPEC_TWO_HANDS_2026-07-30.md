@@ -188,20 +188,70 @@ looking and found that somebody had mapped the same territory two thousand years
 That is a character beat, and it carries no attribution weight, so it can sit above her
 signature without taking the credit away from the apparatus. Offered, not decided.
 
-### The sweep this creates
+### CORRECTION — `ch3:384` was never inside the treatise
 
-`ch3:384` is the known case. The convention requires the rest: **six chapters, Sections 1–3,
-every sentence only Wendell could have written.** A measurement, not a judgment, and it does
-not need the four Head facts.
+The sweep settles it and it settles it against me. **The wu xing paragraph is at ch3:384.
+Section 3 runs 125–223. Section 4 begins at 224.** The paragraph is in **Section 4**, which
+is already Wendell's back half under this spec's own definition.
 
-**Voss is she/her**, ruled by Wendell 2026-07-30. `HEAD_REGISTERS` and `SEVEN_VOICES` already
-had it right. Spelling is **Maera**, 46 occurrences across the repo, 0 for *Meara*.
+I asserted twice that it *"sits inside Section 3"* without checking the section boundaries,
+and two rounds of ruling were spent on a passage that was already where it belongs. **No
+move is required.** Nothing about the Earth-travel discussion was wasted — that ruling is
+canon now and it opens real things — but the passage that prompted it was not a defect.
 
-**One thing found on the way, and it is worse than the wu xing paragraph.** Measured in ch3:
-**Voss appears 0 times in the body text.** Both occurrences are in the margin and the
-epigraph. The Head who signs the first treatise is not in it. That is the flatness finding
-from §3 in its most extreme form, and it means ch3's register paragraph is not a touch-up —
-there is no character on the page to touch up.
+The two apparatus pointers, `copyright.md`'s *"Chapter 3 says what the remix changed"* and
+Appendix G's *"as I confess in that chapter"*, are both already correct and untouched.
+
+### The sweep — 23 real breaches, and they are one defect
+
+Run: `python3 instruments/on_body.py 'python3 instruments/seam_sweep.py'`
+
+| ch | Head | BOOK | AUTHOR | CREDIT | total |
+|---|---|---|---|---|---|
+| 3 | Maera Voss | 5 | 0 | 0 | 5 |
+| 4 | Corin Ash | 2 | 0 | 0 | 2 |
+| 5 | Sera Quill | 3 | 0 | 0 | 3 |
+| 6 | Irix Vale | 4 | 0 | 0 | 4 |
+| 7 | Elian Cross | 6 | 0 | 0 | 6 |
+| 8 | Thalen Orr | 2 | 0 | 1 | 3 |
+| | **TOTAL** | **22** | **0** | **1** | **23** |
+
+**AUTHOR is zero.** No Head talks about Wendell's life or work anywhere above the seam. The
+autobiography is already correctly placed, every time.
+
+**CREDIT is one:** ch8:191, *"Wilber makes the structural point…"*. That is the entire
+real-world-attribution problem in six treatises.
+
+**BOOK is 22, and 20 of them are the same sentence-shape:** the Head referring to the
+chapter they are inside. *"This chapter is asking for the trust." "The rest of the chapter
+recovers both ends." "Every move in this chapter runs downstream of that myth."* A Head
+cannot know they are in a chapter. This is the one defect, repeated.
+
+Two of the 22 are already apparatus wearing prose clothes and are the cheapest fixes in the
+book:
+
+- `*For the full process and additional pairs, see Appendix F: The Polarity Map.*` —
+  **identical in ch4, ch5, ch6, ch7**, already set in italics, already a cross-reference. It
+  is the last line before the seam in all four. It moves below the signature and stops being
+  a problem.
+- `You met the Polarity Map in Chapter 3.` — **identical in ch4, ch5, ch7.**
+
+So of 22: seven are two boilerplate lines repeated, one is a citation, and the remaining
+fourteen are *"this chapter"* in six different mouths.
+
+### The convention already exists in the book
+
+`ch6:105` — `## A Note Before the Concept`. `ch8:22` — `## A Note Before the Exile`, which
+opens *"The first course I built for this work, I built out of spite"* and runs through
+George Floyd in May 2020, the 2014 burnout, and a course with under ten percent completion.
+
+**That is Wendell Britt, under his own heading, inside a treatise chapter, and it does not
+break anything** — because the heading marks it. The book already solved this twice and
+never generalised it.
+
+So the apparatus proposal in this spec has a precedent in the manuscript rather than only in
+theory, and it has a house style: `## A Note Before …`. The sweep excludes these blocks
+deliberately; counting them as breaches overstated the problem by a third on the first run.
 
 ## 3 · Why the voices are flat: the register pass never shipped for five of six Heads
 
