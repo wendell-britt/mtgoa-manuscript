@@ -435,3 +435,80 @@ job under a different name.
 
 **8 retirements**, every one a duplicate Show Up except ch7's Repair, which is the
 flagged loss.
+
+---
+
+## 11 · The Example beats are the self-versus-other opportunity
+
+**2026-07-29. Wendell, on the ch4 Grow Up draft:**
+
+> *"Make a note on the examples. These are solid but the biggest opportunity to give
+> Jordan the gory details of how someone advocates for themselves vs advocating for
+> other people."*
+
+### 11.1 The asymmetry, counted
+
+All 20 existing `**Example:**` beats, classified by what the reader is actually
+doing in them:
+
+| what the Example shows | count | where |
+|---|---|---|
+| the reader's **own** interests | 10 | ch3 ×2, ch7 ×3, ch9 ×5 |
+| an abstract **system** | 8 | ch6 ×5, ch3 ×2, ch8 ×1 |
+| **advocating for another person** | **1–2** | ch8, and arguably ch3's logistics line |
+
+ch6's five are all systems design — a team, an onboarding flow, a process, a
+dashboard, a feature. ch9's five are all about building your own thing — your
+practice, your workshop, your gathering, your design. ch7's three are scripted
+first-person lines about your own position in a negotiation.
+
+**In a book about allyship, one or two of twenty Examples show a reader standing up
+for somebody else.**
+
+Jordan's craving, from `EDITING_PLAN.md`, is *"I want to show up for others without
+losing myself in the process."* The Examples currently teach the second half of that
+sentence and barely touch the first.
+
+### 11.2 Why this lands on the Examples specifically
+
+The theory layer already carries the distinction — the Faces, the channels, the
+distortions all describe it. **The Examples are where it becomes something Jordan
+can recognise in her own week**, and they are what she stops for. Nothing else in
+the apparatus does that job, and 15 of them are still to write (§B: ch4 ×5, ch5 ×5,
+ch7 ×2, ch8 ×3).
+
+So this is not a repair. It is a brief for work that has not happened yet, which is
+the cheapest possible time to receive it.
+
+### 11.3 The brief for the 15
+
+**Show the two kinds of advocacy at the same altitude, and show what separates
+them.** The gory details are the point: the specific cost, the specific hesitation,
+the specific thing you lose. An Example that says *you speak up for a colleague* is
+worth nothing. One that says *what it cost you to speak up for a colleague when the
+person you were contradicting controls your review* is the whole lesson.
+
+Concretely, per Example:
+
+- **Name who benefits.** Self, another person, or the field. If it is always the
+  reader, the chapter is teaching assertiveness rather than allyship.
+- **Name the specific cost, in the currency of the scene.** Standing, a
+  relationship, a promotion, being the difficult one at that table. Not "it costs
+  something."
+- **Where the two kinds diverge, show it.** Advocating for yourself risks being
+  called self-interested. Advocating for somebody else risks being called a saviour,
+  and risks getting it wrong on their behalf — which is Jordan's stated fear, *"I'm
+  doing more harm than I know."* Those are different fears with different tells, and
+  the Examples are where a reader learns to feel the difference.
+- **Balance the set.** Across each chapter's five, at least two should have another
+  person as the beneficiary. That is a floor rather than a quota, and it is currently
+  unmet in every chapter.
+
+### 11.4 What this does not license
+
+Do not rewrite the 20 that exist to hit a ratio. The ch3 attribution example is
+self-advocacy and correctly so: the Shaman's read starts in your own body, and a
+Grow Up about your own pattern of lines is genuinely about you. **The imbalance is a
+gap in what was written, not an error in what was written.** The fix is the 15
+still to come, plus a later pass over ch6 and ch9 if the count still reads 1-of-20
+once they are in.

@@ -349,6 +349,26 @@ Status:
 
 ### P0 — Must Fix Before Any Other Editorial Work
 
+**🔴 A10 — the Examples teach self-advocacy, not allyship. Brief for the 15 unwritten.**
+- Wendell 2026-07-29: "the biggest opportunity to give Jordan the gory details of how
+  someone advocates for themselves vs advocating for other people."
+- Counted all 20 existing `**Example:**` beats: **10 show the reader's own interests,
+  8 show an abstract system, 1-2 show advocating for another person.** ch6's five are
+  all systems design; ch9's five are all building your own thing; ch7's three are
+  first-person lines about your own position.
+- Jordan's craving is "show up for others without losing myself." The Examples teach
+  the second half and barely touch the first, in a book about allyship.
+- **15 Examples are still unwritten** (ch4 x5, ch5 x5, ch7 x2, ch8 x3), so this is a
+  brief rather than a repair — received at the cheapest possible moment.
+- Brief per Example, full version in WAVE spec §11.3: name who benefits; name the
+  specific cost in the currency of the scene; show where the two kinds of advocacy
+  diverge (self-advocacy risks reading as self-interest, other-advocacy risks reading
+  as saviourism and risks getting it wrong on their behalf, which is Jordan's stated
+  fear); at least two of each chapter's five should have another person as beneficiary.
+- Does NOT license rewriting the 20 that exist to hit a ratio. ch3's attribution
+  example is correctly self-facing. The imbalance is a gap in what was written.
+
+
 **🔴 A9 — the Move template is inconsistent four ways; ch8 has none. DO FIRST.**
 - Found auditing the STRONG Moves against the ICA per Wendell's ask.
 - Jordan "will stop for a named move with a practice", so the practice must be
