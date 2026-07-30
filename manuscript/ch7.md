@@ -103,7 +103,7 @@ The difference is not tone. The Diplomat's altitude gets it wrong here most ofte
 <!-- /MARGINALIA -->
 
 
-Which produces the sentence the School of the Bridge exists to disprove, the most protected sentence a student arrives carrying.
+A field that was never told produces the sentence the School of the Bridge exists to disprove, the most protected sentence a student arrives carrying.
 
 **The myth: allyship means never causing harm.**
 
@@ -138,7 +138,7 @@ The Diplomat's pair: care for the relationship versus impact on the situation.
 
 Both poles have a failure state, and the failure states do not look alike. Care without impact is attendance: warm, dependable, and doing nothing. Everyone likes you. Nothing changes. Impact without care is the Challenger's altitude imported into a conversation that needed this one: the true thing said in a way that ends the possibility of saying the next true thing.
 
-One part of this belongs specifically to this reader, and it explains why the axis reads as hard to see rather than hard to accept. You are fluent in one pole and suspicious of the other. The Care end has a vocabulary (holding, tending, centering, making space) and the Impact end, at this altitude, mostly has warnings attached to it. Which means the drift runs one direction and never announces itself. Nobody drifts toward Care in a single dramatic act of avoidance. It happens one reasonable call at a time, and each call is defensible.
+One part of this belongs specifically to this reader, and it explains why the axis reads as hard to see rather than hard to accept. You are fluent in one pole and suspicious of the other. The Care end has a vocabulary (holding, tending, centering, making space) and the Impact end, at this altitude, mostly has warnings attached to it. So the drift runs one direction and never announces itself. Nobody drifts toward Care in a single dramatic act of avoidance. It happens one reasonable call at a time, and each call is defensible.
 
 The draw is relational. Not solo. Pick a live field with actual people in it, because this axis only shows its position when something is at stake between you and somebody else.
 
@@ -641,7 +641,7 @@ The five moves are this chapter, in order. Wake Up is a channel detecting who is
 
 ### Drawing Against the Shadow
 
-Draw from your twenty rather than the hundred and twenty, though not all from one move. A daemon is a rule in force at every move, which means five failures rather than one. The Victim's:
+Draw from your twenty rather than the hundred and twenty — though not all from one move. A daemon is a rule in force at every move, which means five failures rather than one. The Victim's:
 
 **Wake Up.** It notices relationships accurately and files them by balance. Asked what relational dynamics matter, it returns who owes whom. The reading is good. The output is an account.
 

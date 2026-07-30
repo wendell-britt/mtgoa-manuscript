@@ -453,7 +453,7 @@ You drew the Honor ↔ Reform axis in Section 3. Here is why the Fixer-Healer is
 
 Both poles are real goods. A Regent who cannot honor will strip a tradition of the parts holding it up, because those parts are old and old reads as suspect. A Regent who cannot reform becomes a curator of a building nobody lives in. Every live inheritance sits somewhere on that axis, and where it sits comes down to a judgment call, and judgment calls about damage are precisely what a Fixer is for.
 
-Which makes the shadow nearly invisible in the act. It does not argue against commitment; you would notice that. It argues for Reform, and Reform is half the truth. *This part has to change first. This is not ready. I would be signing off on something I can see is broken.* Each of those can be correct. Each of them is correct sometimes. You can spend fifteen years at the Reform end of a real polarity and call it standards, and no single instance looks like an evasion.
+The shadow hides inside that judgment call, nearly invisible in the act. It does not argue against commitment; you would notice that. It argues for Reform, and Reform is half the truth. *This part has to change first. This is not ready. I would be signing off on something I can see is broken.* Each of those can be correct. Each of them is correct sometimes. You can spend fifteen years at the Reform end of a real polarity and call it standards, and no single instance looks like an evasion.
 
 The tell is never the position. The tell is whether anything ever gets accepted. A Fixer that has returned *not yet* through four cycles has stopped assessing and started ruling. Look at the sequence, not the verdict — the pattern shows nowhere else, and that is why the app keeps count.
 
