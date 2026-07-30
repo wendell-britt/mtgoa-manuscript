@@ -136,11 +136,22 @@ And its Break 3 says the Diplomat is the chapter *without* a perform layer: ch7 
 the only chapter that **has** one, an explicit `**Working vs. performed:**` block on
 four of five moves, which no other chapter carries.
 
-**The real gap is ch5, and it is not about labels.** At 119 words per move it is
-half the next thinnest and a fifth of ch3. More to the point, its moves are all
-internal — *make a list, identify, ask yourself* — so the Regent is the one Face
-that never hands the reader a sentence to say out loud. Move 3 is the sole
-exception. Open as a ruling; drafts exist in the session record.
+**The real gap was ch5, and it was not about labels. Closed 2026-07-30.** At 119
+words per move it was half the next thinnest and a fifth of ch3, and every move was
+internal — *make a list, identify, ask yourself* — so the Regent was the one Face
+that never handed the reader a sentence to say out loud. Move 3 was the sole
+exception.
+
+Fixed by adding a spoken line to Moves 1, 2, and 5, each introduced by the same
+lead-in, `Say it out loud:`. **Four of five moves now carry speech; 131 words per
+move.** Move 4 is deliberately silent — keeping a vow nobody is watching has nobody
+to say anything to.
+
+One thing that pass settled about conventions generally: inside a single chapter, a
+**repeated** label goes invisible and **varied** labels are a device the reader
+notices. ch3, ch6, and ch9 each use the identical `**Example:**` five times and it
+disappears into the page. First drafts of these three lines used three different
+lead-ins and read worse for it.
 
 ## Still missing from the book
 

@@ -30,9 +30,11 @@ state.
    altitude ladder at `ch8:201` (*Red, Amber, Orange, Green, Teal*); **S2**, the one
    surviving Vulnerable Child reference at `ch8:169`. **S6 is ruled** (2026-07-30):
    the label is optional and its premise was wrong — see `MANUSCRIPT_FILE_CANON.md`.
-   In its place it surfaced a real gap: ch5 averages 119 words per move against 336,
-   and none of its moves give the reader a sentence to say out loud. Break 1 and
-   S4/S5 are closed — `ch9`'s *The Last Rep* is the transfer test they asked for.
+   The real gap it surfaced — ch5 giving the reader no sentence to
+   say out loud — is **also closed** (2026-07-30): Moves 1, 2, and 5 gained a spoken
+   line, so four of five now carry speech and the chapter runs 131 words per move.
+   Break 1 and S4/S5 are closed too — `ch9`'s *The Last Rep* is the transfer test
+   they asked for.
 4. W3, the genre-marker pass, untouched and waiting on R3.
 5. ch4's hedge particles — the last voice BLOCK.
 6. 167 punchline-last INFO hits. Pattern data, not defects.

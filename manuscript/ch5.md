@@ -475,7 +475,7 @@ The Regent's game is inheritance and stewardship. The Regent's question in any s
 
 ### Move 1: Name the Inheritance
 
-Before you try to change anything, name what arrived. Who held this before you? What did they build? What did they sacrifice? What did they get wrong?
+Before you try to change anything, name what arrived. Who held this before you? What did they build? What did they sacrifice? What did they get wrong? Say it out loud: *Before I change anything, who built this, and what were they trying to fix?*
 
 The instinct is to act. The Regent's first move is witnessing.
 
@@ -487,7 +487,7 @@ The instinct is to act. The Regent's first move is witnessing.
 
 Not everything needs to change. Some of what you inherited is load-bearing. The Regent's second move is discrimination — naming what would collapse if you removed it, even if you wish it weren't there.
 
-*In practice:* Make a list of three things in your current inheritance that you would fight to protect. Not because they're perfect — because removing them would break something real. The Regent protects what serves even when the Regent is reforming everything else.
+*In practice:* Make a list of three things in your current inheritance that you would fight to protect. Not because they're perfect — because removing them would break something real. The Regent protects what serves even when the Regent is reforming everything else. Say it out loud: *I'm leaving this one alone. If it goes, what it was holding up comes down with it.*
 
 **The test:** You can say what would break if it were removed. Agreement from anyone else is a separate question. A thing you cannot name a breakage for is a preference wearing inheritance.
 
@@ -511,7 +511,7 @@ The Keeper of Vows does the unsexy work. The work nobody sees. The ongoing commi
 
 The hardest Regent move. You prepare the next person not as a replica of you, but as someone with enough context to make their own good decisions. You let go without abandoning.
 
-*In practice:* When you're transitioning out of something, ask: *am I giving the next person enough to run with, or am I giving them my anxiety about how it should look?* Let go of the outcome. Trust the inheritance.
+*In practice:* When you're transitioning out of something, ask: *am I giving the next person enough to run with, or am I giving them my anxiety about how it should look?* Let go of the outcome. Trust the inheritance. Say it out loud: *Nobody wrote this part down. You have it now, and what you do with it is yours.*
 
 **The test:** What you handed over was context rather than anxiety. Context lets them decide; anxiety tells them what you need the outcome to look like. Their version will differ from yours, which is the point.
 
