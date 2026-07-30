@@ -8,7 +8,7 @@ block is the state here.
 
 | Blocker | State |
 |---|---|
-| B1 — gate fails | **2 hits.** Both `⟦ASH-AGE⟧` / `⟦ASH-SPAN⟧` in ch4 (**R9**). R8 was ruled on master; the A0 counter reads 0. |
+| B1 — gate fails | **Closed. 0 hits, GATE PASS.** R9 filled 2026-07-30; R8 was ruled on master; the A0 counter reads 0. |
 | B2 — appendices never gated | **Closed.** First gated run found 1 hit, in master's own new Appendix C prose. |
 | B3 — front and back matter | **Closed.** Zero placeholders. ISBN lines absent by decision — none assigned, an ebook needs none. |
 | B4 — nothing built a book | **Closed.** `build_book.py --write` emits 112,054 words. Spine complete. |
@@ -17,11 +17,13 @@ block is the state here.
 | §5 — reference style | **Master's style, not mine.** Master normalised to `Appendix: Title`. Consistent, but no letter, so the contents page cannot be matched against it. Low priority. |
 | §6 — heading styles | **Still four.** Master did not normalise; only ch1 gained the subtitle every other chapter had. |
 
-**R9 is the only thing between this branch and a green gate.**
+**The gate is green as of 2026-07-30.** R9 is closed.
 
-### The three rulings that need Wendell
+### The rulings that need Wendell
 
-1. **R9** — `⟦ASH-AGE⟧` and `⟦ASH-SPAN⟧`, two facts about Corin Ash's biography.
+1. ~~**R9**~~ — **closed 2026-07-30.** Ash was told at **nineteen** and believed it
+   for **another thirty years**. The same ruling settled Ash's pronouns as
+   **they/them**, which ch4's marginalia already used and ch8:225 contradicted.
 2. **Appendix C.** Master is repairing the Key Terms glossary in place; a parallel
    branch retired it and gave letter C to The Five Channels. Master's repair is real
    but partial — the glossary still carries 1 eight-gate definition, 3 Vulnerable
@@ -102,10 +104,10 @@ marginalia          0        0        0        0        0        0
 appendices          4       20        0        0        3        0
 ```
 
-`⟦ASH-AGE⟧` and `⟦ASH-SPAN⟧` are live in ch4 Section 3. **These cannot be
-resolved by anybody but Wendell** — they are two facts about Corin Ash's
-biography, deferred by ruling under R9. Nothing else on this list is blocked on a
-person. Everything else can proceed while they are open, and the gate stays red
+`⟦ASH-AGE⟧` and `⟦ASH-SPAN⟧` were the last two, and Wendell filled them on
+2026-07-30: **nineteen** and **another thirty years**. Nothing on this list is
+blocked on a person now, and the gate reads 0 on all four surfaces. The four
+dormant tokens are not in canon and do not hold it
 until they are filled.
 
 The body A0 hit is ch3's *"a time you were told something true"* — **R8**, still
@@ -244,12 +246,12 @@ is quality work with a deadline in front of it.
 3. **B3** — draft half title, title page, copyright, about-the-author.
 4. **§4, §5, §6** — settle appendix lettering, one reference style, one heading
    style. All three are decisions, then a mechanical pass.
-5. **B1** — fill `⟦ASH-AGE⟧` / `⟦ASH-SPAN⟧`, rule R8. Wendell only.
+5. ~~**B1**~~ — done. Tokens filled 2026-07-30, R8 ruled on master.
 
 ## 9 · Rulings this document needs
 
-- **R9 (live blocker)** — the two Ash biography facts. The gate cannot go green
-  without them and nobody else can supply them.
+- ~~**R9**~~ — **closed 2026-07-30.** nineteen / another thirty years, and Ash is
+  they/them. The gate went green on the same commit.
 - **R8** — ch3's A0 hit: license as recall-prompt, or rewrite.
 - **R10 (new)** — the Five Channels appendix: give it a letter, or cut the ch3
   reference.

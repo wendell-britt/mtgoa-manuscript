@@ -77,7 +77,8 @@ drafts before insertion.
 
 **Still open after this session:** front matter, back matter and the TOC, all
 drafted on the print-readiness branch and none on master. The ten front-matter
-facts, `⟦ASH-AGE⟧`, `⟦ASH-SPAN⟧` and R8 are Wendell-only and hold the gate red.
+facts and R8 are Wendell-only. `⟦ASH-AGE⟧` and `⟦ASH-SPAN⟧` were filled
+2026-07-30 and the gate now reads 0 on all four surfaces.
 The retired 0-indexed chapter numbering survives in appendix cross-references on
 master; the print-readiness branch has already renumbered them.
 
