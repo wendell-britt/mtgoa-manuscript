@@ -33,30 +33,19 @@ drifted from the files. Measure instead — and use one measure consistently:
 python3 -c "import glob;print(sum(len(open(f).read().split()) for f in glob.glob('manuscript/ch*.md')))"
 ```
 
-Since 2026-07-28 that counts the marginalia too, and reports **102,145**. Strip
+Since 2026-07-28 that counts the marginalia too, and reports **102,875**. Strip
 first for the body-text figure:
 
 ```
-python3 marginalia/compile.py --strip     # -> 97,013 body text
+python3 marginalia/compile.py --strip     # -> 97,738 body text
 python3 marginalia/compile.py --apply     # put the frame back
 ```
 
-**97,013** is the body text and the figure in `MANIFEST.md`. The frame adds
-**5,132**. Note that `wc -w` reports 95,937 for the same body text — it splits
+**97,738** is the body text and the figure in `MANIFEST.md`. The frame adds
+**5,137**. Note that `wc -w` reports 96,260 for the same body text — it splits
 differently around em dashes and markdown punctuation. Both are correct; they
 answer different questions. Quote the whitespace-split figure, because that is
 what the manifest and every planning doc use.
-
-**All four figures re-measured 2026-07-30.** The set this section carried before
-that (102,875 / 97,738 / 5,137 / 96,260) overstated the body text by 1,245 words.
-The old figure was not wrong when it was taken — 97,738 is the true count at
-`e662f84`, before the register fan-out, and
-`specs/SPEC_EMDASH_AND_DENSITY_2026-07-29.md` tracks the decline from there:
-97,006 after the fan-out, 96,835 after the W8 and W9 batches, 96,468 by
-`ebf5fda`. This section was simply never re-run against any of them. That is the
-drift the paragraph above warns about, and it was caught by running the
-instrument rather than by reading. Re-measure after any pass that cuts or adds
-prose.
 
 ## The marginalia frame
 
