@@ -42,8 +42,8 @@ what the files on disk contain. Strip before measuring anything else.
 | File | With frame |
 |---|---|
 | ch1.md — The Infinite Arcade | 7,470 |
-| ch2.md — The Forest | 7,834 |
-| ch3.md — The Shaman | 16,128 |
+| ch2.md — The Forest | 7,889 |
+| ch3.md — The Shaman | 16,073 |
 | ch4.md — The Challenger | 11,637 |
 | ch5.md — The Regent | 9,354 |
 | ch6.md — The Architect | 10,290 |
