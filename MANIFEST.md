@@ -10,9 +10,16 @@ python3 instruments/gate.py                  # four printed surfaces
 python3 marginalia/compile.py --verify       # frame round-trips byte-identical
 ```
 
-**This branch is `master` plus the print apparatus.** It deliberately carries none
-of the chapter-prose work from `claude/book-print-readiness-august-ar95mo`, which
-collided with master's register fan-out across 91 hunks. See §Deferred.
+**This branch is `master`, plus the print apparatus, plus the self-sabotage belief
+work.** It deliberately carries none of the chapter-prose work from
+`claude/book-print-readiness-august-ar95mo`, which collided with master's register
+fan-out across 91 hunks. See §Deferred.
+
+`claude/self-sabotage-ally-beliefs-a9lhzu` merged with **zero conflicts**, into both
+master and here. It works inside named sections — ch2 §6, ch3 §4/§5 — rather than
+sweeping every chapter, which is why it merges where the other branch does not.
+Localized section work merges; book-wide passes collide. That is the whole lesson of
+this split.
 
 **An earlier version of this file was wrong in a way that cost a session.** It
 reported 97,738 words and said both the Polarity Map and the 3-2-1 Shadow Process
@@ -24,19 +31,19 @@ without running the instrument.
 
 `instruments/build_book.py --write` assembles front matter, generated contents,
 nine chapters with the frame applied, appendices A–G, and back matter into one
-file. **112,054 words.** Nothing built a book before 2026-07-29; `compiled/` holds
+file. **112,776 words.** Nothing built a book before 2026-07-29; `compiled/` holds
 a stale 2026-05-29 artifact whose builder reads the retired `chapters/` tree.
 
 ## manuscript/ — the nine chapters
 
-**95,633 words of body text. 100,765 with the marginalia frame applied**, which is
+**96,355 words of body text. 101,487 with the marginalia frame applied**, which is
 what the files on disk contain. Strip before measuring anything else.
 
 | File | With frame |
 |---|---|
 | ch1.md — The Infinite Arcade | 7,470 |
-| ch2.md — The Forest | 7,796 |
-| ch3.md — The Shaman | 15,444 |
+| ch2.md — The Forest | 7,834 |
+| ch3.md — The Shaman | 16,128 |
 | ch4.md — The Challenger | 11,637 |
 | ch5.md — The Regent | 9,354 |
 | ch6.md — The Architect | 10,290 |
@@ -131,7 +138,7 @@ branch, most of it is superseded and some of it is not:
 | Denying negations | **2** | 9 |
 | `which is` tails | **9** | 64 |
 | say-the-noun | 25 | **6** |
-| Body words | **95,633** | 98,383 |
+| Body words | **96,355** | 98,383 |
 
 Master's register fan-out went further on two of the three, so **the W7 and
 `which is` work on that branch is superseded and should be dropped rather than
