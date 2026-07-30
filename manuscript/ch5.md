@@ -69,21 +69,41 @@ The village never meant for that to happen.
 
 ---
 
-I came up in traditions. Martial arts, church, academia — all of them Regent organizations, all of them built on the assumption that the person before you learned something worth receiving. You showed up, and the tradition showed up with you, and over time it became part of what you could offer.
+**Clause four.** A practice that cannot be named to a stranger in one sitting has already been
+lost, whatever its members believe about it.
 
-I've spent most of my adult life in movements where that reads as a threat.
+Note. The register of this school holds four hundred and eleven discontinued practices,
+gathered across as many worlds as the ship has touched. Merrow ordered them by cause of death.
+The ordering is his and the finding is mine: three hundred and six of the four hundred and
+eleven were dissolved by their own members, on purpose, and not one of the three hundred and
+six recorded the dissolution as a loss at the time.
 
-I belonged to a collective for a few years. Progressive, justice-focused, the right values on paper, and absolutely no governance. They had decided structure was suspect. Roles meant hierarchy meant oppression. *We'll figure it out as we go* was a principle, not a gap.
+**Clause five.** A body that declines to hold a role will be held by whoever is willing to hold
+it, and that person will not have been selected.
 
-I could feel it coming. The way you can feel a building that's going to fail. The people inside are fine. No floor holds them up. I said things. Careful things, the kind you say to a group allergic to structure. I tried to name what I was watching without naming it in the way they feared: the authoritarian, the traditionalist, the one who wants to run things. So I held back some of what I knew. I wore the crown under my hood.
+Note. The founding generation of such a body has commonly come out of an older order that used
+its structure to protect itself, and has drawn the correct conclusion about that order and the
+wrong conclusion about structure. Roles are refused on principle. The refusal is entered in the
+minutes as a value. Nothing is entered after it, which is the observation.
 
-The ones who wanted the crown were looking for a patriarch to give themselves to, and a patriarch does its own kind of damage.
+Second note. Three crises are typical and their shapes are stable enough to record. At the
+first the body adapts, and the adaptation is cited afterward as proof that no structure was
+needed. At the second it closes ranks. At the third its members are found arguing the first
+crisis again from new positions, with no record of what the first argument had been for,
+because nobody was charged with keeping one.
 
-The first crisis, they adapted. The second, they circled. By the third, they were arguing about the same things from different angles with no memory of what the original argument had been for.
+Third note. Members who could name the pattern in advance are present in most cases. The
+register carries their accounts. They report having said something careful, and having said
+less than they knew, on the ground that the whole of it would have been heard as an
+application for the crown. Merrow filed these accounts under *insufficient courage.* They are
+refiled under *correct reading, withheld,* and the refiling is the more accurate of the two.
 
-I stayed. I helped pick up the pieces. Martial arts and the church and watching things dissolve for twenty years actually prepare you for that. You hold what's worth holding. You help people sort out what happened.
+**Clause six.** An inheritance offered before it is wanted is not an inheritance. It is an
+opinion.
 
-I've never figured out how to offer the floor before the crisis. The tradition only becomes legible to people who've already lost something. By then, the invitation to receive it has a very different shape than I wanted it to have.
+Note. This is the clause I would amend, and amendment is not within the office. The register
+records no case of a practice handed successfully to a body that had not yet lost something.
+It records no case of a keeper who stopped attempting it either.
 
 ---
 
@@ -248,6 +268,22 @@ The draw is solo. Not a conflict between you and another person. Your inheritanc
 
 ## Section 4: The Practice
 ### *The Cycle of Inheritance — How Loyalty Actually Works*
+
+I came up in traditions. Martial arts, church, academia — all of them Regent organizations, all of them built on the assumption that the person before you learned something worth receiving. You showed up, and the tradition showed up with you, and over time it became part of what you could offer.
+
+I've spent most of my adult life in movements where that reads as a threat.
+
+I belonged to a collective for a few years. Progressive, justice-focused, the right values on paper, and absolutely no governance. They had decided structure was suspect. Roles meant hierarchy meant oppression. *We'll figure it out as we go* was a principle, not a gap.
+
+I could feel it coming. The way you can feel a building that's going to fail. The people inside are fine. No floor holds them up. I said things. Careful things, the kind you say to a group allergic to structure. I tried to name what I was watching without naming it in the way they feared: the authoritarian, the traditionalist, the one who wants to run things. So I held back some of what I knew. I wore the crown under my hood.
+
+The ones who wanted the crown were looking for a patriarch to give themselves to, and a patriarch does its own kind of damage.
+
+The first crisis, they adapted. The second, they circled. By the third, they were arguing about the same things from different angles with no memory of what the original argument had been for.
+
+I stayed. I helped pick up the pieces. Martial arts and the church and watching things dissolve for twenty years actually prepare you for that. You hold what's worth holding. You help people sort out what happened.
+
+I've never figured out how to offer the floor before the crisis. The tradition only becomes legible to people who've already lost something. By then, the invitation to receive it has a very different shape than I wanted it to have.
 
 The village never taught you this question: what did you inherit?
 
