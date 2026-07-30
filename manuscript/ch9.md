@@ -329,6 +329,32 @@ Let me tell you honestly what the walk actually looks like, because the book wou
 
 The walk begins before you're ready. That's the first thing nobody tells you. You don't finish learning the Faces and then start building. You start building while you're still confused, still triggered, still defaulting to your home game when things get hard. The map isn't complete. The WAVE isn't mastered. You don't arrive and then act — you act from somewhere on the path, and the acting belongs to the walking.
 
+The first course I built for this work, I built out of spite.
+
+George Floyd was murdered in May 2020. Within a week my phone had more messages in it than I'd gotten in the previous year. Most of them came from white friends. Many of them knew no other Black person. I'd done this work informally for years — coaching people through the emotional labor of showing up differently in their relationships, their workplaces, their lives. I had the tools. I decided to repackage them.
+
+I'd made a promise to myself back in 2014, after burning out writing about race and nerd culture. I was done. Activism ran like a machine that ate people and produced very little, and I had quit feeding it. Now people needed something, and I had something to offer, and I wanted to get paid for the emotional labor already extracted from me for free. So I built the course.
+
+I started from a simple premise: allyship is just applied friendship and skilled helping. I'd already learned to make my own life feel like a game worth playing. If I could make this work fun, people would do it. How hard could it be to translate that?
+
+The course had less than a ten percent completion rate.
+
+I did what I always do. I doubled down. Made more content. Pushed harder. Got feedback mid-course that it wasn't fun — which meant I had to build a section about finding the source of fun inside a course I'd promised would be fun. The horses ran up to me talking about how thirsty they were. When I brought them to water, they walked away. Turns out thirst and wanting to drink are different things.
+
+I was right and it cost me nothing and everything at the same time. I'd done everything right except meet people where they were instead of where I was annoyed they weren't. Then I burned out.
+
+I caught myself at the bottom of a depression well. The catching unnerved me. I hadn't known I was depressed — I'm someone who can keep moving even when I'm sad. The lesson of sadness is: what do I care about, and how far away am I from it? I was very far away. I didn't know how long the digging had taken.
+
+I found myself sad but also relieved — the relief coming from ending a fight I no longer wanted to fight.
+
+I'd run a Captain Save-a-Kid game and called it course design. The uncomfortable truth: the struggle had become its own kind of perverse fun. At the bottom of that well I saw it: I'd taken agency for an experience that belonged to them.
+
+A game can fail to be fun, and fun on its own can fail to make a great game.
+
+The ones who finished changed their relationship to the emotions that had made allyship impossible. They allied with the guilt, the shame, the avoidance — and alchemized them into the capacity to show up better for others.
+
+The book in your hands came from the bottom of that well. The spite did not produce it. Proving I was right did not produce it. It came from the moment I connected back to myself after failing to make money or create the allies I'd wanted to create — and found that I'd learned something true about the places where my own unresolved stuff had limited my allyship.
+
 When I started building bars-engine, I didn't have it figured out. I had a felt sense of what was missing — a game that actually taught the WAVE, that made the emotional alchemy something you could practice instead of just understand — and I had enough of the six Faces to know what I was trying to do. The game itself refused to come clear, and the mechanics kept changing. I ran sessions that failed. I redesigned the token economy three times. I threw out entire systems and rebuilt them. The walk never ran straight from plan to execution. It ran on iteration. Review. Discern. Design. Build. Pass On. Loop.
 
 That's what the walk feels like. Not ascending. Circling. Each circle goes a little deeper.

@@ -16,39 +16,6 @@
 
 ---
 
-## A Note Before the Exile
-
-The first course I built for this work, I built out of spite.
-
-George Floyd was murdered in May 2020. Within a week my phone had more messages in it than I'd gotten in the previous year. Most of them came from white friends. Many of them knew no other Black person. I'd done this work informally for years — coaching people through the emotional labor of showing up differently in their relationships, their workplaces, their lives. I had the tools. I decided to repackage them.
-
-I'd made a promise to myself back in 2014, after burning out writing about race and nerd culture. I was done. Activism ran like a machine that ate people and produced very little, and I had quit feeding it. Now people needed something, and I had something to offer, and I wanted to get paid for the emotional labor already extracted from me for free. So I built the course.
-
-I started from a simple premise: allyship is just applied friendship and skilled helping. I'd already learned to make my own life feel like a game worth playing. If I could make this work fun, people would do it. How hard could it be to translate that?
-
-The course had less than a ten percent completion rate.
-
-I did what I always do. I doubled down. Made more content. Pushed harder. Got feedback mid-course that it wasn't fun — which meant I had to build a section about finding the source of fun inside a course I'd promised would be fun. The horses ran up to me talking about how thirsty they were. When I brought them to water, they walked away. Turns out thirst and wanting to drink are different things.
-
-I was right and it cost me nothing and everything at the same time. I'd done everything right except meet people where they were instead of where I was annoyed they weren't. Then I burned out.
-
-I caught myself at the bottom of a depression well. The catching unnerved me. I hadn't known I was depressed — I'm someone who can keep moving even when I'm sad. The lesson of sadness is: what do I care about, and how far away am I from it? I was very far away. I didn't know how long the digging had taken.
-
-I found myself sad but also relieved — the relief coming from ending a fight I no longer wanted to fight.
-
-I'd run a Captain Save-a-Kid game and called it course design. The uncomfortable truth: the struggle had become its own kind of perverse fun. At the bottom of that well I saw it: I'd taken agency for an experience that belonged to them.
-
-A game can fail to be fun, and fun on its own can fail to make a great game.
-
-The ones who finished changed their relationship to the emotions that had made allyship impossible. They allied with the guilt, the shame, the avoidance — and alchemized them into the capacity to show up better for others.
-
-The book in your hands came from the bottom of that well. The spite did not produce it. Proving I was right did not produce it. It came from the moment I connected back to myself after failing to make money or create the allies I'd wanted to create — and found that I'd learned something true about the places where my own unresolved stuff had limited my allyship.
-
-The Sage isn't the person who sees furthest. It's the person who looked at himself long enough to stop performing the view.
-
-That is the thesis, and it comes with a limit case attached. This chapter applies when your allyship has become fluent enough to risk turning into performance, superiority, or escape. It does not apply while harm happens in front of you. In that case, do not sit there polishing your interiority. Draw the line, call the help, interrupt the damage. Inner work keeps the response clean enough to still work tomorrow. It looks like delay from outside, and from inside on a bad day.
-
----
 
 ## Section 1: The Exile
 ### *Why the Sage Left the Village (And What the Village Lost)*
@@ -61,6 +28,10 @@ That is the thesis, and it comes with a limit case attached. This chapter applie
 > *He reads a company better than I do. He has never said so. I am saying it.*
 <!-- /MARGINALIA -->
 
+
+The Sage isn't the person who sees furthest. It's the person who looked at himself long enough to stop performing the view.
+
+That is the thesis, and it comes with a limit case attached. The School of the Horizon applies when your allyship has become fluent enough to risk turning into performance, superiority, or escape. It does not apply while harm happens in front of you. In that case, do not sit there polishing your interiority. Draw the line, call the help, interrupt the damage. Inner work keeps the response clean enough to still work tomorrow. It looks like delay from outside, and from inside on a bad day.
 
 Once, the Sage lived inside the village's conversations.
 
