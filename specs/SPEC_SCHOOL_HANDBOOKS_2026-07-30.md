@@ -1,4 +1,4 @@
-# SPEC — The School Handbooks, and the Caretaker's Letter
+# SPEC — The School Handbooks, and the Headmaster's Letter
 
 **2026-07-30. Wendell: "we need to make a spec where the face introduces themselves to the
 reader as though they are a prospective student of the school. We can lean into the genre of
@@ -48,7 +48,7 @@ TO KNOW AND HOW TO FIND THEM`.
 > your advisor early and often."*
 
 A handbook that opens by saying *this is not the real document and cannot replace talking to a
-person.* For a book about allyship that is not a joke, it is the thesis. **The Caretaker's
+person.* For a book about allyship that is not a joke, it is the thesis. **The Headmaster's
 Letter should make this move, and it should be the letter's central gesture:** the page cannot
 substitute for the person in front of you, and mistaking the page for the person is the
 failure the whole institution exists to prevent.
@@ -91,7 +91,7 @@ over-explained, slightly patronising. The mythos lives in the school names and n
 The signature move already made each chapter a bounded document. This completes the stack:
 
 ```
-                        THE CARETAKER'S LETTER      ** new, once, before ch3 **
+                        THE HEADMASTER'S LETTER     ** new, once, before ch3 **
 
 # CHAPTER 4: THE CHALLENGER
   EPIGRAPH-BYLINE   ← what a student and a citizen say about this school
@@ -106,16 +106,46 @@ The signature move already made each chapter a bounded document. This completes 
 The handbook goes above the marginalia: the annotator is commenting on the Head, and that
 reads better once the Head has spoken.
 
-## 3 · The Caretaker's Letter
+## 3 · The Headmaster's Letter
 
 Wendell: *"I think this also means that we can have a Letter from the headmaster to the
 students before the Shaman Chapter. Not as a separate chapter but to build the immersion."*
 
-**Proposed author: Bram Tull, Caretaker.** He is established, ch2 already signs off *"set
-down by Bram Tull, Caretaker, who was asked eleven times,"* and — decisively — **he heads no
-school**, so he is the only figure who can speak across all six without one Head outranking
-another. If the institution has a different steward, that is Wendell's to name and this is a
-one-line change.
+**Author: the Headmaster, signed exactly that way and never named.** Ruled by Wendell
+2026-07-30: *"The headmaster is writing the letter is what I had in mind. I sense you're
+worried of breaking the reveal at the end that the headmaster is the head of the 6th school.
+We can solve this by just saying the head master."*
+
+My Tull proposal is withdrawn. It was solving a problem the title solves by itself: an
+unsigned office needs no protecting, because there is nothing yet to give away.
+
+**The reveal, as ruled.** The Headmaster is the Sage — Thalen Orr, Head of the School of the
+Horizon — and the reader assembles that at the end rather than being told. The marginalia
+stays unnamed throughout.
+
+**One reading I need confirmed, because it changes the marginalia rules.** Wendell's sentence
+— *"the marginalia is still going unnamed until they piece together at the end that the
+headmaster is the sage"* — reads to me as **annotator = Headmaster = Sage, one person under
+three names.** That fits `MARGIN_ARC`'s ch8 beats exactly: *he has not been annotated by
+anyone* (nobody outranks him), and *the school's name was a place before it was a school, and
+he is the one who stopped saying it that way* (the Horizon). It also makes ch8 a man
+annotating his own treatise, which is worth having on purpose. **If they are instead two or
+three people, one word fixes this and the rest of the section still stands.**
+
+### The plant, which costs nothing
+
+If the Headmaster is Orr, then **the letter at the front and the School of the Horizon's
+handbook in ch8 are written by the same hand.** A reader who notices that the ch8 admissions
+page sounds exactly like the letter has found the reveal on her own, six chapters early, and
+been right.
+
+That satisfies `MARGIN_ARC`'s hardest rule — *"nothing is ever set up"* — without spending
+anything, because **both documents were required by the institution anyway.** The clue is not
+planted. It is what happens when one person fills in two copies of the same form.
+
+**Consequence for drafting order: ch8's handbook and the letter must be written together**, by
+the same hand, close enough in register that the match is findable and far enough apart that
+it is not obvious. Written months apart they will not match, and the plant is lost.
 
 **What the letter does.** One page, before ch3. It enrols the reader. It explains that each
 school is required to produce an admissions page to a common form, which sets up the six and
@@ -136,8 +166,9 @@ Same membrane rule as everything else on the fiction's side.
 ~200–280 words, provisionally — the first sample came in at 421 and the budget may be the thing that is wrong. A school that has nothing to say under a heading still has to fill it in,
 which is its own characterisation.
 
-1. **Who we are for.** The person this school's students are trained to help. **Written as a
-   scene the reader can check herself against, not as a category.**
+1. **Who we are for.** **Two conditions, both required: the student has the problem, and the
+   student has watched somebody else have it.** Written as a scene she can check herself
+   against, not as a category. See §4a — this clause is doing more work than the others.
 2. **What you will be able to do when you leave.** One concrete capability, plus **what
    follows from it in the world.** Consequence is a separate question from cost and both are
    required.
@@ -148,6 +179,31 @@ which is its own characterisation.
    along the arc.
 6. **A word from the Head.** The only clause in first person, and the only one where the
    Head's biography may be spent.
+
+### 4a · Clause 1 carries the book's hardest principle
+
+Wendell 2026-07-30: *"this is bringing up the tension between allyship for the self and
+allyship for others. If you can't give what you don't have then the school is for people who
+have this problem and who want to help others who have this problem. this subtly teaches one
+of the principles of the book which is you have to ally with yourself in order to ally with
+others."*
+
+**Draft 2's clause 1 made the student a witness.** She watched somebody else's no fail to take.
+That is only half the position, and the wrong half to lead with, because it makes the school a
+bystander-training programme.
+
+**The doubled position is the correction: she has the problem, and she has seen it in somebody
+else.** Both required for admission. Stated as an entry criterion rather than as a principle,
+which is why the handbook is the right place for it — a bar you have to clear teaches harder
+than a claim you have to agree with.
+
+**This resolves something that has been failing all session.** The Examples were rejected twice
+for being self-advocacy dressed as allyship, and I kept treating that as a choice to be made
+per Example: is this one about her or about somebody else. **It was never a choice.** The skill
+is learned on yourself and then given away, so a good Example has both in it and the two are
+not in competition. Every remaining Example brief in `SPEC_WAVE_REALIGNMENT` §11 and every
+target line in `SPEC_FACE_TARGETS` §2 should be re-read against this, because both were written
+assuming a self-versus-other trade-off that does not exist.
 
 ## 5 · What it carries that the book needs
 
@@ -169,11 +225,14 @@ Ash is the only Head whose register landed and whose facts are filled.
 > **THE SCHOOL OF THE LINE**
 > *Admissions, for students considering the second treatise*
 >
-> **1. Who we are for.** You have watched somebody say no and watched it not take. They said
-> it in a meeting, politely, and the thing went ahead anyway. They said it again six weeks
-> later and were told they had raised that already. Then you said the same sentence, and it
-> took immediately, and you have not known what to do with that since. If any of the above
-> has happened where you could see it, you are the student we mean.
+> **1. Who we are for.** Two things have to be true, and applicants who can only manage one
+> are declined. The first is that you have said no and had it not take. You said it in a
+> meeting, politely, and the thing went ahead anyway; you said it again six weeks later and
+> were told you had raised that already. The second is that you have watched the same thing
+> happen to somebody else, noticed it, and not known what to do with the noticing. We train
+> people who have the problem and want to hand somebody else the way out of it. We do not
+> train people who only have the second half. You cannot give away a thing you have never had
+> in your hands.
 >
 > **2. What you will be able to do when you leave.** State a limit, in one sentence, in the
 > moment, in front of the people it concerns, and not take it back in the four seconds
@@ -208,7 +267,7 @@ the sentence have suffered as a result"* is the observed-history warning, and th
 exclamation mark at the end of clause 3 is the one permitted break in the flatness — earned by
 two flat paragraphs before it, and the only one on the page.
 
-**437 words**, which is over the 200–280 the clause set calls for. Recorded rather than
+**477 words**, which is over the 200–280 the clause set calls for. Recorded rather than
 trimmed: it is the first one written to the corrected brief, and the honest reading is that
 concrete beats compressed, so the budget in §4 is probably the thing that is wrong. Wendell
 should say which gives.
@@ -269,7 +328,7 @@ about her.**
    `ORR-DEFLECTION`. Clause 6 is unwritable without them for five of six.
 3. **The referral map.** Which school each sends to. Line → Bridge is obvious; the other five
    are a ruling, and this is the book's only teaching on not being the carrier.
-4. **The Caretaker's Letter author** — Tull, or somebody else.
+4. **Confirmation that annotator, Headmaster and Sage are one person** — §3. One word.
 5. **Whether the schools get qualifying examinations**, per the source's junior qual. The
    book already has the fixture in the Gates, so this is a naming decision rather than new
    machinery, and it would give clause 5 teeth.
