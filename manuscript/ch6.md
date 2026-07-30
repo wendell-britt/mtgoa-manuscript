@@ -108,6 +108,16 @@ The School of the Pattern teaches in language that has a bad record.
 
 Let me set something next to it, as a proposition rather than a diagnosis, because only you know whether it belongs to you: *the organizations that exiled structural clarity and kept all the heart burn out the people inside them, and they do it faster than the cold ones.*
 
+Specification 1.1. A design that requires an advocate has failed. I held that for nineteen years and it is correct.
+
+See figure four. The first system served two hundred and cost four of them their place. The second was built to correct the first and cost nine. The third corrected the second. In practice each revision moved the specification one step further from anybody living inside it, and the drift is the mechanism rather than the error.
+
+The drift is also elegant, and I want to be precise about that word. The third design is beautiful. I can still admire it. Four people and then nine people paid for my admiring it, and both of those sentences are true at once.
+
+Do not ask me to estimate what the next system will cost before it is built. The estimate is the failure. Whoever wrote the original specification made one, and I have spent nineteen years despising him and becoming him.
+
+I ask first now. In practice I am slower at asking than at designing. The asking takes an afternoon.
+
 If that proposition holds in your experience, it has a consequence worth naming. In a system that does not hold, somebody has to close the gap, and that somebody is always a person with presence to spend. More relational attentiveness. More of themselves in the seam. The cost does not show up in any report, because the report says the process worked — and it did work, on the backs of whoever paid the difference. That names a design outcome, not a character outcome. No amount of caring more will change it, because caring more works as the mechanism by which the broken structure keeps functioning.
 
 The Architect who turns a relational field into a leverage point and a living thing into a KPI has already lost the reason the design mattered. Exiling that one makes sense. The discipline goes out with it, and the discipline alone addresses the thing above.

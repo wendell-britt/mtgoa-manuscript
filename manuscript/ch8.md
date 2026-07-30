@@ -174,6 +174,12 @@ The Sage sees the whole thing. That's not a contradiction — it's the whole poi
 
 Mastery is knowing which game you're playing and being able to put it down.
 
+Maera would enter it as an absence and Corin would want a number, and both are asking the same question in the only form their own school permits, which is whether the Horizon has returned more than it has taken. We keep a register of who arrived and a register of where they went, and between those two documents sits a third thing that nobody here has found a way to write down.
+
+Sera would say the ledger holds it. The ledger holds what a ledger can hold. Irix would build a better ledger, and it would be a better ledger, and it would hold the same nothing more elegantly.
+
+I have read all five of them for thirty years and nobody has read me, which I arranged, and which I am now told is a course I never took. I am the oldest first-year at this school. That is a joke and it is also the timetable.
+
 None of this describes the guru on the mountain who has risen above it all. Detachment is a real capacity with real uses; the Sage runs it deliberately, for a purpose and a duration, the way you'd use any other instrument. This describes something else. Call it *committed seeing*: the capacity to take in all the altitudes — Red, Amber, Orange, Green, Teal — and still choose to stand somewhere. To play the game the moment requires without mistaking it for the only game there is. To know when to draw the line and when to step back. To see the whole map and still walk your piece of it.
 
 The Sage arrives when you've been all the other Faces long enough to see them from the outside. You've felt with the Shaman. You've drawn lines with the Challenger. You've carried forward with the Regent. You've built with the Architect. You've held the field with the Diplomat. At each step, you also watched: *which game am I in, and which one does this moment actually require?*

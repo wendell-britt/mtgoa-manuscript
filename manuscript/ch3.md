@@ -128,6 +128,14 @@ Emotional alchemy is the practice of staying in relationship with the full spect
 
 The Shaman's practice is that staying.
 
+Thirty-first session. Jaw, then the back of the neck. I recorded contempt in the man at the head of the table. Grief, four days old. I did not have that until the funeral.
+
+Sessions thirty-two through four hundred and six. Chest: nothing. Throat: nothing. Hands: nothing. Three years of nothing, entered in my own hand, four hundred times.
+
+I called it discipline. The entry correcting that is dated later and reads: the numbness began the morning after the funeral, not the morning of the error. It was not protecting me from being wrong. It was protecting him from being read a second time by somebody who had got it wrong in front of witnesses, and the only instrument it could reach was mine.
+
+Present session. Jaw, at the word correctly. The reading came back and it is better than it was. What I am working now is what it costs a person to be read accurately by somebody they did not ask.
+
 The Shaman's practice may already feel familiar. You have likely built some language for a felt sense, some practice in reading what a group holds under its words. That part is real, and it matters.
 
 That signal raises a different question the moment it disagrees with the group.

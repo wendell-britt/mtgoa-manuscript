@@ -147,6 +147,14 @@ The village keeps tradition instead of passing it on: "we do it this way because
 
 The Regent's actual practice is something harder and more alive: **the deliberate passing down of what works, across time, so that the next person doesn't have to figure it out from scratch.**
 
+Clause nine. A promise made by the dead is kept until the last person it protected has died, at which point it is reviewed rather than renewed.
+
+Note. The clause as written permits the review. The clause as kept forbade it, and had forbidden it since Merrow, whose reasoning survives in the margin here in his own hand and is wrong. I conducted the review. Which promise it was is not recorded and will not be.
+
+Second note. Two households withdrew from the practice. One has not returned. The practice that replaced it has run forty years and the other household sends its children to it.
+
+Third note, added this year. I can pass an inheritance intact and named, which is the whole of what this school claims. I have not learned to hand one to somebody who will change it without entering the change as damage, and my own ledgers are the reason that is hard.
+
 That's inheritance as a living act. It builds a lineage where preservation would build a fossil. It *prepares* the future with the lessons you learned, where keeping the past alive would only hold the past in place.
 
 Here's what this means in practice:

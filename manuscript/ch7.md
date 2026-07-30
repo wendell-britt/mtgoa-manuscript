@@ -89,6 +89,18 @@ The village hardens terms into ultimatums. Terms are what someone says when they
 
 That decision is an accurate reading of a specific misuse. Accuracy explains why nobody has talked her out of it. The problem is what it costs to generalize from it.
 
+Case forty-one. Both transcripts, hers first.
+
+She said: I need you to stop. Later, to me: I thought I was asking.
+
+He said: She gave me an ultimatum. Later, to me: Was it not one? I have gone over it. I still hear one.
+
+She was protecting the possibility of saying it again next week. He was protecting a man who had never been told to stop and had no way to be told. I record both, and I record him at length, because he was wrong about the ultimatum and leaving out the wrong one is how a case stops being a case.
+
+I will not say which of them was right. Forty-one cases and I have not said it once.
+
+The terms I wrote at that table have held eleven years. Nobody has mentioned them. I notice that I have written that down. Whether wanting the sentence is a defect in me or a condition of the work is the open question here, and I am the wrong person to settle it.
+
 Honest terms work as the opposite instrument. **A term is a statement of what this field must hold for your staying to remain real, offered as information, once, to a field that is then free to answer.** It states a fact about the arrangement rather than a demand or a condition of continued affection, and it arrives while anyone still has time to do something with it.
 
 The difference is not tone. The Diplomat's altitude gets it wrong here most often, because this altitude excels at tone. An ultimatum said warmly is still an ultimatum. An honest term said flatly is still an honest term. The difference is structural: an ultimatum removes the other party's freedom to answer, and an honest term is the specific act of giving it back to them. You cannot decline something you were never told about. A field that does not know what your staying requires has never once had the chance to choose you.
