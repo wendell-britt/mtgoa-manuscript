@@ -502,15 +502,15 @@ The Diplomat's game creates the conditions where connection remains possible, ev
 
 *Prerequisite: none — this is the entry point*
 
-The first move in the Diplomat's game is also the one most commonly skipped: saying out loud what this conversation is actually about and what it is not.
+**What it is:** The first move in the Diplomat's game is also the one most commonly skipped: saying out loud what this conversation is actually about and what it is not.
 
 Most difficult conversations run deeper than their surface. Two people arguing about a decision are often really negotiating about trust. Two people disagreeing about a plan are often really having a fight about recognition, about whose reality gets to count. The Diplomat's first move surfaces this layer without making anyone wrong for the confusion.
 
-Here's what it sounds like: *"I want to name something I'm noticing. On the surface this is about the budget decision. Underneath, I think it might be about something else: whether this team sees your concerns as real. I want to check if that's what's actually here."*
+**Example:** *"I want to name something I'm noticing. On the surface this is about the budget decision. Underneath, I think it might be about something else: whether this team sees your concerns as real. I want to check if that's what's actually here."*
 
 Name the Field makes no diagnosis. It makes an offering. You say *here is what I think is happening, and I want to know if I'm right.* The move either lands and the conversation opens, or the other person corrects you and you update. Either way, the field gets clearer.
 
-**Why it works:** Most conflicts stay stuck because they are playing at the wrong level, arguing about content while the real conflict is relational. Name the Field moves the conversation to the level where the actual problem lives.
+**Why it matters:** Most conflicts stay stuck because they are playing at the wrong level, arguing about content while the real conflict is relational. Name the Field moves the conversation to the level where the actual problem lives.
 
 **The test:** You said what the field is actually about, in one sentence, in front of the people standing in it. Whether they accept the description is theirs to answer, and a correction is the move working rather than failing.
 
@@ -522,7 +522,7 @@ Name the Field makes no diagnosis. It makes an offering. You say *here is what I
 
 *Prerequisite: Move 1 (the field is named, now you can work with it)*
 
-Once the field is named, the Diplomat's second move is to take what one camp is saying and render it faithfully into the language of another.
+**What it is:** Once the field is named, the Diplomat's second move is to take what one camp is saying and render it faithfully into the language of another.
 
 This is not summarizing. Summarizing is compression: you take the essence of what's being said and make it shorter. Translating is conversion: you take the meaning and render it into an entirely different framework without losing the truth of it.
 
@@ -532,7 +532,7 @@ The Diplomat translates: *"What I hear [Camp A] saying, in [Camp B]'s language, 
 
 **The art of the translation:** You have to hold your own position lightly enough to truly receive the meaning before you transmit it. If you're already formulating your response while they're speaking, you're not translating. You're performing translation.
 
-**Why it works:** Translation builds the bridge that lets both camps move forward together. Without it, camps talk about each other instead of to each other, and the conversation becomes a performance of positions rather than a search for understanding.
+**Why it matters:** Translation builds the bridge that lets both camps move forward together. Without it, camps talk about each other instead of to each other, and the conversation becomes a performance of positions rather than a search for understanding.
 
 **The test:** You put each camp's position into language the other camp could hear, without softening either one to make the fit easier. Whether both sides accept your rendering is theirs to say.
 
@@ -554,11 +554,11 @@ The Diplomat translates: *"What I hear [Camp A] saying, in [Camp B]'s language, 
 
 *Prerequisite: Moves 1 and 2. You cannot close on a field you have not named or translated*
 
-Bridge, translate, hold, repair, and then this. The close. It is the move the whole chapter has been building toward, and the one the Diplomat's altitude skips most reliably, because closing feels like conflict and the field can always make space for one more round.
+**What it is:** Bridge, translate, hold, repair, and then this. The close. It is the move the whole chapter has been building toward, and the one the Diplomat's altitude skips most reliably, because closing feels like conflict and the field can always make space for one more round.
 
 Close with Honest Terms is one clear sentence naming what this field must hold for your staying to remain real, said once and then left alone for the field to answer. The leaving-alone separates it from an ultimatum.
 
-Here is what that sounds like: *"I want to say something I don't say often. I can work with almost anything in this partnership except one thing. If we get to a place where I have to choose between being honest with you and being honest with myself, I will choose myself. I need you to know that about me, because it means when I do push back, it's because we're close to losing an agreement that works for both of us, not because I'm running a strategy."*
+**Example:** *"I want to say something I don't say often. I can work with almost anything in this partnership except one thing. If we get to a place where I have to choose between being honest with you and being honest with myself, I will choose myself. I need you to know that about me, because it means when I do push back, it's because we're close to losing an agreement that works for both of us, not because I'm running a strategy."*
 
 A threat would sound like *do this or I leave.* This is an offering of information: here is what this field must hold for my staying to remain real. Then the field gets to respond.
 
@@ -578,7 +578,7 @@ The close lands clean when there's nothing left to add and you don't reach to fi
 
 *Prerequisite: some real trust has been built. This move requires a history*
 
-When trust breaks, and it will, the Diplomat has a specific structure for repair that most people skip because it requires saying things that are uncomfortable in a specific order.
+**What it is:** When trust breaks, and it will, the Diplomat has a specific structure for repair that most people skip because it requires saying things that are uncomfortable in a specific order.
 
 The structure:
 
@@ -590,7 +590,7 @@ The structure:
 
 **4. Stay.** After the repair is offered, the instinct is to leave: to give them space, to give the moment space. Don't. Stay present through the discomfort of having said it. The staying is the actual repair work.
 
-**Why it works:** Ruptures named and repaired build more trust than ruptures that never happened. The repair does not undo the break. It proves that the relationship can survive the break, the only thing that builds confidence in a relationship.
+**Why it matters:** Ruptures named and repaired build more trust than ruptures that never happened. The repair does not undo the break. It proves that the relationship can survive the break, the only thing that builds confidence in a relationship.
 
 **The test:** You named what broke, named your part in it, named what you were not asking for, and stayed. Whether they can name it back to you accurately yet is a separate question, and often a later one. If it is still landing as entirely your fault, go back to step one.
 
@@ -602,7 +602,7 @@ The structure:
 
 *Prerequisite: Move 2. You have not earned a refusal until you can translate the position you are refusing*
 
-Not all positions deserve equal weight. Say so, clearly, without apology, and without pretending your refusal is neutral when it is a position.
+**What it is:** Not all positions deserve equal weight. Say so, clearly, without apology, and without pretending your refusal is neutral when it is a position.
 
 This is the Diplomat's most contested move. The Diplomat's altitude values inclusion, and inclusion can curdle into a relativistic posture where every position is treated as equally valid, where *making space* becomes *giving equal legitimacy to positions that do not deserve it.* The Diplomat who refuses false equivalence is the one who holds real inclusion while also refusing to pretend that all framings are equally accurate.
 
@@ -614,7 +614,7 @@ Equal endorsement means: all positions are treated as equally valid interpretati
 
 The Refuse False Equivalence move is this: you name the difference between hearing and endorsement, and you name your position on which camp is closer to what you consider true, without invalidating the people in the camp you disagree with.
 
-Here's what it sounds like: *"I hear where you're coming from. I think we're operating from different facts, not just different opinions. I think the evidence points in a direction I have to stand behind, and I understand that you disagree, and I'm not asking you to stop disagreeing. I'm asking you to know that I hold this position because I think it's more accurate, not because I don't see you."*
+**Example:** *"I hear where you're coming from. I think we're operating from different facts, not just different opinions. I think the evidence points in a direction I have to stand behind, and I understand that you disagree, and I'm not asking you to stop disagreeing. I'm asking you to know that I hold this position because I think it's more accurate, not because I don't see you."*
 
 **Before you refuse false equivalence, ask:** Am I refusing because this position is actually built on a less accurate premise, or because I simply don't want to engage with it? Can the position I'm dismissing offer me something I haven't considered? If the answer is no, if you've done the work of understanding the other position and it still doesn't hold, then Refuse False Equivalence is the honest move. If you haven't done that work, Refuse False Equivalence is just closed-mindedness with a justification attached.
 

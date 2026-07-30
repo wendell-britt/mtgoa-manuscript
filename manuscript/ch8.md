@@ -562,23 +562,25 @@ The kit does have a logic. Seeing without naming is silence. Naming without swit
 
 ### Move 1: Name the Game
 
-Before you enter a conversation, a meeting, a conflict — name the game. Power, strategy, harmony, whole-board. Name it out loud or inside. The naming is the first move and the first freedom.
+**What it is:** Before you enter a conversation, a meeting, a conflict, name the game. Power, strategy, harmony, whole-board. Name it out loud or inside. The naming is the first move and the first freedom.
 
 You pause at the door. You take one breath. You ask: *which game are we actually in, and what game is being played underneath the one we're talking about?*
 
-You might sit in a meeting that's discussing strategy and turning on a boundary someone crossed. A conversation arguing about process that's actually about somebody not feeling heard. A conflict framed as a values disagreement that's actually a structural problem nobody wants to name.
+**Example:** You might sit in a meeting that's discussing strategy and turning on a boundary someone crossed. A conversation arguing about process that's actually about somebody not feeling heard. A conflict framed as a values disagreement that's actually a structural problem nobody wants to name.
 
-The naming doesn't solve it. It makes it possible to choose what to do next. Once you've named the game, you're no longer being played by it — you're choosing whether to play it.
+**Why it matters:** The naming doesn't solve it. It makes it possible to choose what to do next. Once you've named the game, you're no longer being played by it. You're choosing whether to play it.
 
-The shadow version: you name it and then feel superior for knowing. *This is a power-game table* said with the energy of a diagnosis is service. Said with the energy of *I see what you can't* is shadow. The test: do people settle when you name it, or do they brace? Settling is service. Bracing is shadow.
+**Working vs. performed:** The shadow version names it and then feels superior for knowing. *This is a power-game table* said with the energy of a diagnosis is service. Said with the energy of *I see what you can't* is shadow. 
+
+**The test:** Do people settle when you name it, or do they brace? Settling is service. Bracing is shadow.
 
 Do not use this move to stay in your own head while somebody needs a line, a decision, or an apology. Do not use it to explain why you're above the mess while everyone else stays inside it. If the naming only makes you harder to reach, the distortion is already driving.
 
 ### Move 2: Switch Games Deliberately
 
-Once named, choose. Which game does this moment actually require?
+**What it is:** Once named, choose. Which game does this moment actually require?
 
-Most people have a home game. The Challenger defaults to power. The Architect defaults to strategy. The Diplomat defaults to harmony. The home game feels comfortable, and it means you treat every situation as though it were your house. Useful when the moment calls for your house. A problem the rest of the time.
+**Why it matters:** Most people have a home game. The Challenger defaults to power. The Architect defaults to strategy. The Diplomat defaults to harmony. The home game feels comfortable, and it means you treat every situation as though it were your house. Useful when the moment calls for your house. A problem the rest of the time.
 
 You've been playing strategy — systems, process, the search for the right lever. The people in front of you sit in the power game: somebody's line got crossed, and no amount of process will touch that until someone names the line. Switch. Draw the line. Do what that game calls for. Then come back.
 
@@ -588,43 +590,47 @@ The switch is the Sage's most deliberate move. It requires knowing all six games
 
 Chou calls this playing the right game. In *10,000 Hours of Play*, he describes the experienced player as the one who knows when to be serious and when to be playful, when to push and when to yield, when to stay and when to leave — from choice rather than default. The Sage is that player. Not because they transcended the lower games. Because they've been all of them enough to choose.
 
-The shadow version: switching becomes inconsistency. The Sage who can't hold a game long enough to be useful isn't practicing the Game-Switcher — they're uncomfortable with commitment. The test: after you switch, does the situation stabilize in the new game, or does it keep asking you to go somewhere else? Stabilizing is the practice. Being pulled three directions is the shadow.
+**Working vs. performed:** Switching becomes inconsistency. The Sage who can't hold a game long enough to be useful isn't practicing the Game-Switcher — they're uncomfortable with commitment. 
 
-I've watched this at the coalition level. A planning team keeps trying to process a power-game harm as though it were a strategy problem — three meetings of process design for something that needed one person to name a line. Somebody finally named it, and the thrashing stopped inside ten minutes.
+**The test:** After you switch, does the situation stabilize in the new game, or does it keep asking you to go somewhere else? Stabilizing is the practice. Being pulled three directions is the shadow.
+
+**Example:** I've watched this at the coalition level. A planning team keeps trying to process a power-game harm as though it were a strategy problem — three meetings of process design for something that needed one person to name a line. Somebody finally named it, and the thrashing stopped inside ten minutes.
 
 ### Move 3: Return Without Condescension
 
-The Sage's most underrated move: coming back to a narrower game — staying with people in the game they can actually be in — without treating them as less, without making them feel seen-and-judged, without the body language of *if only you could see what I see.*
+**What it is:** The Sage's most underrated move, coming back to a narrower game — staying with people in the game they can actually be in — without treating them as less, without making them feel seen-and-judged, without the body language of *if only you could see what I see.*
 
-Return as an equal. Return as someone who is *with*, not *above.* The Sage who has seen the whole board and come back returns as a more complete version of themselves rather than a diminished one, because they know where they are and where they've been and can carry both.
+**Why it matters:** Return as an equal. Return as someone who is *with*, not *above.* The Sage who has seen the whole board and come back returns as a more complete version of themselves rather than a diminished one, because they know where they are and where they've been and can carry both.
 
 The distortion skips this move and stays at the whole-board view, because coming down feels uncomfortable — the view from up there is so much clearer than the view from inside the power game that returning feels like losing something. That's attachment to the view, wearing the view's voice. The whole-board view is always available, including from inside the narrower games, because it works as a capacity rather than a location. You don't have to stay up there to hold it. You have to know you can go back.
 
-The shadow version: returning becomes retreating. The Sage who can't hold the view uses the return to avoid the weight of what they saw. *I was too serious up there. Let me come back to where things are simpler.* That's exhaustion calling itself wisdom, and it does a passable impression of the Returner. The test: when you return, does it feel like coming home to the people in front of you, or like abandoning the view? Coming home is the practice.
+**Working vs. performed:** Returning becomes retreating. The Sage who can't hold the view uses the return to avoid the weight of what they saw. *I was too serious up there. Let me come back to where things are simpler.* That's exhaustion calling itself wisdom, and it does a passable impression of the Returner. The test: when you return, does it feel like coming home to the people in front of you, or like abandoning the view? Coming home is the practice.
 
 ### Move 4: Put a Game Down
 
-Identify a game you no longer need to play. A fight you inherited from a version of yourself that needed it. A role you grew past. An identity that was useful once and now keeps you small. Put it down. Cleanly. Not because it didn't matter — because it mattered and it's over.
+**What it is:** Identify a game you no longer need to play. A fight you inherited from a version of yourself that needed it. A role you grew past. An identity that was useful once and now keeps you small. Put it down. Cleanly. Not because it didn't matter — because it mattered and it's over.
 
-The release is harder than it sounds, because games have identity attached. *I am the person who holds this together.* *I am the person who fights for this.* *I am the person who keeps this safe.* The game becomes who you are rather than what you do, and putting it down means sitting with the loss of that — not pretending it didn't matter, letting it be finished.
+**Why it matters:** The release is harder than it sounds, because games have identity attached. *I am the person who holds this together.* *I am the person who fights for this.* *I am the person who keeps this safe.* The game becomes who you are rather than what you do, and putting it down means sitting with the loss of that — not pretending it didn't matter, letting it be finished.
 
 This is what the Release stage actually asks. Not ascent. Completion. The game ran its course. You learned what it had to teach. The next move isn't up, it's open-handed. Letting go says *this game was mine for a time, and it isn't anymore, and that's allowed.* Giving up never bothers to say anything.
 
-The shadow version: putting down becomes giving up. The Sage who keeps dropping games before they've given what they have to give isn't practicing the Liberator, they're practicing avoidance. The test: can you name what the game taught you before you put it down? If you can't, it was never really yours. If you can, and you put it down anyway — that's the practice.
+**Working vs. performed:** Putting down becomes giving up. The Sage who keeps dropping games before they've given what they have to give isn't practicing the Liberator, they're practicing avoidance. 
+
+**The test:** Can you name what the game taught you before you put it down? If you can't, it was never really yours. If you can, and you put it down anyway — that's the practice.
 
 Do not call it maturity when you simply got tired of being accountable. Do not call it freedom when what you did was leave before the repair.
 
 ### Move 5: Hold the Meta Without Losing the Ground
 
-This is the last move, the one that takes years, the one that earns the name.
+**What it is:** This is the last move, the one that takes years, the one that earns the name.
 
 You can see the whole board. You can name every game. You know which one you're in, which one the moment requires, and which one you just came from. With all of that seen, you can still choose to stand on the board — inside a game, with people playing a different one, who don't see what you see and may never see it.
 
 You can hold the whole-board view inside while your body sits in the power game. In the fight. In the work. You can know that this conflict is one expression of a pattern that recurs everywhere and still draw the line this moment requires. You can know that this relationship is one iteration of a form that will keep recurring and still show up for it fully. You can know you're mortal and the game is older than you and none of this will matter in a hundred years, and still care — not despite knowing, because of it.
 
-That's mastery. Not instead of choosing. *Along with* choosing. Holding the meta means keeping the view and still doing the thing the view is for. Standing outside is the cheaper version.
+**Why it matters:** That's mastery. Not instead of choosing. *Along with* choosing. Holding the meta means keeping the view and still doing the thing the view is for. Standing outside is the cheaper version.
 
-The shadow version: the meta without the ground. Seeing everything, committing to nothing. The view without the practice. Always above, never in. The real Sage is in it, has skin in it, draws the line and holds the field and builds the thing and stays — and knows which game they're doing it from.
+**Working vs. performed:** The meta without the ground. Seeing everything, committing to nothing. The view without the practice. Always above, never in. The real Sage is in it, has skin in it, draws the line and holds the field and builds the thing and stays — and knows which game they're doing it from.
 
 Do not use the meta-view to make yourself unaccountable. If your clarity only makes you harder to pin down, it isn't wisdom yet. It's avoidance with better vocabulary.
 

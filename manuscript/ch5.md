@@ -475,43 +475,43 @@ The Regent's game is inheritance and stewardship. The Regent asks, in any situat
 
 ### Move 1: Name the Inheritance
 
-Before you try to change anything, name what arrived. Who held this before you? What did they build? What did they sacrifice? What did they get wrong?
+**What it is:** Before you try to change anything, name what arrived. Who held this before you? What did they build? What did they sacrifice? What did they get wrong?
 
-The Regent's first move is witnessing. Action comes second.
+**Why it matters:** The Regent's first move is witnessing. Action comes second.
 
-*In practice:* When you take on a new role, a new team, a new responsibility — before you make a single change, spend time understanding what was handed to you. Ask: *why is this here? Who built this? What was it trying to do?* You may find the answer changes your entire approach.
+In practice: When you take on a new role, a new team, a new responsibility — before you make a single change, spend time understanding what was handed to you. Ask: *why is this here? Who built this? What was it trying to do?* You may find the answer changes your entire approach.
 
 **The test:** You named what arrived before you changed any of it. Finding something worth keeping is a bonus, not the bar. If the first change is already made, you skipped the move.
 
 ### Move 2: Honor What Still Serves
 
-Not everything needs to change. Some of what you inherited is load-bearing. The Regent's second move is discrimination — naming what would collapse if you removed it, even if you wish it weren't there.
+**What it is:** Not everything needs to change. Some of what you inherited is load-bearing. The Regent's second move is discrimination — naming what would collapse if you removed it, even if you wish it weren't there.
 
-*In practice:* Make a list of three things in your current inheritance that you would fight to protect. Not because they're perfect — because removing them would break something real. The Regent protects what serves even while the Regent reforms everything else.
+In practice: Make a list of three things in your current inheritance that you would fight to protect. Not because they're perfect — because removing them would break something real. The Regent protects what serves even while the Regent reforms everything else.
 
 **The test:** You can say what would break if it were removed. Agreement from anyone else is a separate question. A thing you cannot name a breakage for is a preference wearing inheritance.
 
 ### Move 3: Reform Without Erasing
 
-The Reformer changes the tradition while honoring the lineage. The key word is *while.* You can reform and honor simultaneously. Ask: what essential thing does this tradition try to do — and does the current form still do it?
+**What it is:** The Reformer changes the tradition while honoring the lineage. The key word is *while.* You can reform and honor simultaneously. Ask: what essential thing does this tradition try to do — and does the current form still do it?
 
-*In practice:* When you see something that needs to change, ask two questions: (1) What is this trying to do? (2) Is it still doing it? If the answer to (2) is no, change the form but keep the essence. Tell people what you're doing and why: *I'm not discarding this. I'm updating it.*
+In practice: When you see something that needs to change, ask two questions: (1) What is this trying to do? (2) Is it still doing it? If the answer to (2) is no, change the form but keep the essence. Tell people what you're doing and why: *I'm not discarding this. I'm updating it.*
 
 **The test:** You named what the tradition was trying to do before you changed how it does it, and you told people which of the two you were changing. Results arrive on their own schedule.
 
 ### Move 4: Keep the Vows
 
-The Keeper of Vows does the unsexy work. The work nobody sees. The ongoing commitments that define you by their presence, not their absence.
+**What it is:** The Keeper of Vows does the unsexy work. The work nobody sees. The ongoing commitments that define you by their presence, not their absence.
 
-*In practice:* Identify one commitment you've made that nobody watches you keep. Do it anyway. That's the Keeper of Vows in action. That's what makes you someone worth inheriting from.
+In practice: Identify one commitment you've made that nobody watches you keep. Do it anyway. That's the Keeper of Vows in action. That's what makes you someone worth inheriting from.
 
 **The test:** You kept it on the day it would have cost you nothing to drop it and nobody would have known either way. Being noticed is a separate question, and usually the answer is no.
 
 ### Move 5: Entrust Without Clinging
 
-The hardest Regent move. You prepare the next person not as a replica of you, but as someone with enough context to make their own good decisions. You let go without abandoning.
+**What it is:** The hardest Regent move. You prepare the next person not as a replica of you, but as someone with enough context to make their own good decisions. You let go without abandoning.
 
-*In practice:* When you're transitioning out of something, ask: *am I giving the next person enough to run with, or am I giving them my anxiety about how it should look?* Let go of the outcome. Trust the inheritance.
+In practice: When you're transitioning out of something, ask: *am I giving the next person enough to run with, or am I giving them my anxiety about how it should look?* Let go of the outcome. Trust the inheritance.
 
 **The test:** What you handed over was context rather than anxiety. Context lets them decide; anxiety tells them what you need the outcome to look like. Their version will differ from yours. Let it.
 
@@ -523,7 +523,7 @@ Same grid, one operation further along. Five moves down — the WAVE-Spiral — 
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
-The Regent's Show Up cards is the only one in the deck built entirely out of verbs for keeping: hold, keep, sustain, tend. Nothing in it is made. That marks the difference between building something and inheriting it, and it makes this operation the slowest of the six. Read down for the sequence, across for the arena.
+The Regent's Show Up cards are the only ones in the deck built entirely out of verbs for keeping: hold, keep, sustain, tend. Nothing in it is made. That marks the difference between building something and inheriting it, and it makes this operation the slowest of the six. Read down for the sequence, across for the arena.
 
 ### Drawing Against the Shadow
 
