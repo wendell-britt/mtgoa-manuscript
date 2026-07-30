@@ -31,11 +31,56 @@ proposed that a school could skip a clause and characterise itself by the omissi
 wrong twice over — it breaks the mandated-form premise, and it removes the variation the
 reader is there for.
 
-**Genre note.** The reference is an academic department's student handbook: numbered
-sections, direct address, over-explanation, requirements and prerequisites, warnings phrased
-as helpfulness. Style parody rather than rigour. *(I could not reach the Reed economics
-handbook Wendell linked — the proxy refuses it — so this is written from the genre rather
-than from that document. If a specific passage should be mirrored, it needs pasting in.)*
+**Genre note, from the source.** Wendell supplied the Reed College *Department of Economics
+Student Handbook* (2006, 28pp) after the proxy refused it. Read. Its structure is FOREWORD,
+then numbered sections — `1. CURRICULUM`, `2. THE MAJOR`, `3. ECONOMICS FACULTY`,
+`4. RESOURCES AND OPPORTUNITIES` — then `NOTES`, `IMPORTANT DEADLINES`, and `IMPORTANT PEOPLE
+TO KNOW AND HOW TO FIND THEM`.
+
+**Four devices worth stealing, all of them real:**
+
+**1. The foreword disclaims its own authority, and this is the best thing in the document.**
+
+> *"The Reed College Catalog, however, remains the definitive source for all information on
+> curriculum and requirements. Nothing in this document should be construed as amending the
+> Catalog in any way. Moreover, this document cannot serve as a substitute for direct advising
+> by members of the faculty — only as appropriate preparation for such advising. Meet with
+> your advisor early and often."*
+
+A handbook that opens by saying *this is not the real document and cannot replace talking to a
+person.* For a book about allyship that is not a joke, it is the thesis. **The Caretaker's
+Letter should make this move, and it should be the letter's central gesture:** the page cannot
+substitute for the person in front of you, and mistaking the page for the person is the
+failure the whole institution exists to prevent.
+
+**2. Institutional prose that breaks into an exclamation mark when it means it.**
+
+> *"If you do not submit the thesis before the first day of the following semester, you must
+> begin another one and retake the entire senior year in order to graduate from Reed!"*
+>
+> *"This deadline is enforced ruthlessly; failure to submit the first draft on time will
+> prevent you from graduating with your class in May!"*
+
+Flat, procedural, then one exclamation mark. Funnier than any joke written on purpose. **One
+per handbook, maximum, and it has to be earned by three paragraphs of flatness first.**
+
+**3. Warnings as observed history rather than threat.**
+
+> *"Many students who have postponed science or foreign-language courses to the senior year
+> have suffered as a result."*
+>
+> *"Students who miss this deadline but submit the thesis on the following Monday are fined."*
+
+*Have suffered as a result* is the register in four words: no menace, no advice, just a
+recorded pattern with the consequence left implied. Every clause 3 should have one.
+
+**4. A qualifying examination between the years.** Reed's junior qual: *"Students who perform
+satisfactorily on all parts of the qual will be advanced to senior standing."* The schools can
+have these, and the book already has the fixture — the Gates. Optional, flagged in §10.
+
+**A handbook condescends, and that is licence.** Wendell: *"we do get to condescend a bit
+because we need to be legible if we are enrolling students. no handwaving."* Plain language,
+over-explained, slightly patronising. The mythos lives in the school names and nowhere else.
 
 **A handbook condescends, and that is licence.** Wendell: *"we do get to condescend a bit
 because we need to be legible if we are enrolling students. no handwaving."* Plain language,
@@ -74,8 +119,14 @@ one-line change.
 
 **What the letter does.** One page, before ch3. It enrols the reader. It explains that each
 school is required to produce an admissions page to a common form, which sets up the six and
-makes their sameness a fact about the institution rather than a fact about the writing. It
-says something about the order of the schools and about what an incomplete enrolment costs.
+makes their sameness a fact about the institution rather than a fact about the writing.
+
+**And it disclaims itself**, in the Reed foreword's exact move: this document is not the
+definitive source, nothing in it amends anything, and it cannot substitute for direct
+instruction — only prepare you for it. In a handbook about allyship that disclaimer stops
+being bureaucratic boilerplate and becomes the institution's actual position. **The page is
+not the person.** Tull can say that in a sentence a registrar would sign off on, and it will
+be the most load-bearing line in the front of the book.
 
 **What it must not do.** Mention the book, the chapters, the reader-as-reader, or the author.
 Same membrane rule as everything else on the fiction's side.
@@ -133,8 +184,9 @@ Ash is the only Head whose register landed and whose facts are filled.
 >
 > **3. What it costs.** You will be unwelcome, in small ways, more often than you have
 > budgeted for, and at least one person whose opinion you value will call you difficult where
-> you can hear it. If being liked is how you know you are safe, this training takes something
-> before it gives anything back, and the order is not negotiable.
+> you can hear it. Students who wait until they feel ready to say the sentence have suffered
+> as a result. If being liked is how you know you are safe, this training takes something
+> before it gives anything back, and the order is not negotiable!
 >
 > **4. What we do not teach.** Repair. We can get you to the sentence. We cannot get you
 > through the conversation that comes after it, and those are separate skills taught by
@@ -151,7 +203,12 @@ Ash is the only Head whose register landed and whose facts are filled.
 > out of that instruction. I will make you say the sentence out loud, in front of people,
 > until you can hear for yourself which of us was right. I am aware of how that sounds.
 
-**421 words**, which is over the 200–280 the clause set calls for. Recorded rather than
+Two devices from the source are working here: *"Students who wait until they feel ready to say
+the sentence have suffered as a result"* is the observed-history warning, and the single
+exclamation mark at the end of clause 3 is the one permitted break in the flatness — earned by
+two flat paragraphs before it, and the only one on the page.
+
+**437 words**, which is over the 200–280 the clause set calls for. Recorded rather than
 trimmed: it is the first one written to the corrected brief, and the honest reading is that
 concrete beats compressed, so the budget in §4 is probably the thing that is wrong. Wendell
 should say which gives.
@@ -213,7 +270,10 @@ about her.**
 3. **The referral map.** Which school each sends to. Line → Bridge is obvious; the other five
    are a ruling, and this is the book's only teaching on not being the carrier.
 4. **The Caretaker's Letter author** — Tull, or somebody else.
-5. **Whether the Horizon gets a page.** `MARGIN_ARC` makes the Horizon's name load-bearing
+5. **Whether the schools get qualifying examinations**, per the source's junior qual. The
+   book already has the fixture in the Gates, so this is a naming decision rather than new
+   machinery, and it would give clause 5 teeth.
+6. **Whether the Horizon gets a page.** `MARGIN_ARC` makes the Horizon's name load-bearing
    for the ch8 reveal, and an admissions page touches it.
 
 ## 11 · How this gets checked
