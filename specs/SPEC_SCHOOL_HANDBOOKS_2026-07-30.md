@@ -123,14 +123,22 @@ unsigned office needs no protecting, because there is nothing yet to give away.
 Horizon — and the reader assembles that at the end rather than being told. The marginalia
 stays unnamed throughout.
 
-**One reading I need confirmed, because it changes the marginalia rules.** Wendell's sentence
-— *"the marginalia is still going unnamed until they piece together at the end that the
-headmaster is the sage"* — reads to me as **annotator = Headmaster = Sage, one person under
-three names.** That fits `MARGIN_ARC`'s ch8 beats exactly: *he has not been annotated by
-anyone* (nobody outranks him), and *the school's name was a place before it was a school, and
-he is the one who stopped saying it that way* (the Horizon). It also makes ch8 a man
-annotating his own treatise, which is worth having on purpose. **If they are instead two or
-three people, one word fixes this and the rest of the section still stands.**
+**Annotator, Headmaster and Sage are one person under three names.** Confirmed by Wendell's
+two rulings together: *"the headmaster is the sage"*, and *"he HAS been annotated. HE's going
+to be annotated by the other school heads."* The second only means anything if the man being
+annotated in ch8 is the man who has been annotating everyone else.
+
+**And ch8's margin changes hands.** I had proposed that ch8 was a man annotating his own
+treatise. Wendell overruled it: the five other Heads write ch8's margin. That is better in four
+ways and is recorded in full at `marginalia/specs/MARGIN_ARC.md`, where it replaces the third
+ch8 reveal. The short version: the annotator becomes the annotated, so the reveal is
+demonstrated rather than stated; it is the only place in the book where the six Heads speak to
+each other; and it hands five flat voices one more turn in the chapter where the reader is most
+alert.
+
+One consequence for this spec: **`MARGIN_ARC`'s support for the identity reading is gone**, since
+*he has not been annotated by anyone* was one of the two beats I cited for it. The reading holds
+on Wendell's rulings instead, which is firmer ground than my inference was.
 
 ### The plant, which costs nothing
 
@@ -328,7 +336,9 @@ about her.**
    `ORR-DEFLECTION`. Clause 6 is unwritable without them for five of six.
 3. **The referral map.** Which school each sends to. Line → Bridge is obvious; the other five
    are a ruling, and this is the book's only teaching on not being the carrier.
-4. **Confirmation that annotator, Headmaster and Sage are one person** — §3. One word.
+4. **The *home* beat in ch8** — whether the annotator writes exactly one note in his own
+   margin beside the five named ones, or stays silent and lets somebody quote him. See
+   `MARGIN_ARC`.
 5. **Whether the schools get qualifying examinations**, per the source's junior qual. The
    book already has the fixture in the Gates, so this is a naming decision rather than new
    machinery, and it would give clause 5 teeth.

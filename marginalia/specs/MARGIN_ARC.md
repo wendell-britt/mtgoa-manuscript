@@ -120,11 +120,44 @@ the people who went before her are secretly broken, the invitation in Chapter 9 
 - the word *home* — first and only use by the annotator
 - that the school's name was a place before it was a school, and that he is the one who stopped
   saying it that way
-- that he has not been annotated by anyone
+- ~~that he has not been annotated by anyone~~ — **OVERTURNED 2026-07-30**
 
-The third is the Damaged Self, and it is the quietest of the three: he has spent eight chapters
-catching six people's blind spots so students would not inherit them, and nobody has been in
-his margin.
+**The third beat is replaced.** Wendell: *"he HAS been annotated. HE's going to be annotated by
+the other school heads (faces)."*
+
+The original read: he has spent eight chapters catching six people's blind spots so students
+would not inherit them, and nobody has been in his margin. That was the Damaged Self stated.
+**The replacement demonstrates it and repairs it in the same gesture: in Chapter 8 the margin
+changes hands, and the five other Heads are in it.**
+
+Why the replacement is stronger:
+
+- **It shows rather than says.** The reader has had seven chapters of one anonymous hand. In
+  the eighth that hand is not commenting, it is being commented on, by five people who are
+  named. Nobody has to write the sentence *nobody has ever annotated him*; its inverse is on
+  the page, and the absence reads backwards.
+- **It carries the identity reveal on the same beat.** The annotator becomes the annotated at
+  the moment the reader is inside the Sage's treatise, which is the whole connection:
+  annotator, Headmaster, Sage.
+- **It is the only place the Heads speak to each other.** Six treatises and the six never meet.
+  Chapter 8 is where they do, and it costs nothing structurally, because the margin is already
+  there.
+- **It gives five flat voices one more turn**, in the chapter where the reader is most alert.
+  That is the cheapest available fix for the problem `SPEC_TWO_HANDS` §3 measures.
+
+**Wendell's call — the *home* beat.** Chapter 8's arc beat belongs to the annotator, and if he
+is silent in his own chapter somebody else has to carry it. **Recommendation: he writes exactly
+one note in ch8, the *home* one, and the other five write the rest.** The anonymous hand
+appearing once beside five named ones is the reveal, and it lets the word arrive in the mouth it
+belongs to. Having one of the five quote him saying it is weaker, because the grief becomes
+hearsay.
+
+**Mechanism.** `NOTES[8]` holds six unattributed notes today. Attribution is a new shape for the
+system: `insertions.py` needs a speaker per note for ch8 and `compile.py` needs to render it.
+The other eight chapters are untouched.
+
+**Chapter 9 is unchanged.** The anonymous hand returns for the handoff, which now reads as him
+coming back to his own margin after the one chapter he did not hold it.
 
 ---
 
