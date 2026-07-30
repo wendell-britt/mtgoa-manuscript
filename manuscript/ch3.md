@@ -806,13 +806,7 @@ The Shaman is a Face. In the deck it is also an *operation*, a thing every move 
 
 Here is where they come from. The deck runs five basic moves, and you already know all five, because they are the WAVE-Spiral: Wake Up, Open Up, Clean Up, Grow Up, Show Up. Cross those against the four domains where allyship stops being interior and goes external (gathering resources, raising awareness, direct action, skillful organizing), and five times four gives twenty. Twenty cards per operation, a hundred and twenty in the deck. These twenty are the Shaman's.
 
-|  | Gather Resources | Raise Awareness | Direct Action | Skillful Organizing |
-|---|---|---|---|---|
-| **Wake Up** · *notice the signal — what is here?* | What's Actually Scarce | What's Going Unseen | Where the Harm Is | What's Holding It Together |
-| **Open Up** · *allow experience — what am I actually feeling?* | The Empty Cup | What Seeing Costs | The Fear Under the Fight | What the Mess Feels Like |
-| **Clean Up** · *identify the channel — Fire, Water, Metal, Earth, or Wood?* | Name the Money Feeling | Name the Awareness Feeling | Name the Fight Feeling | Name the Organizing Feeling |
-| **Grow Up** · *identify emerging capacity — what wants to grow?* | The Capacity Trying to Grow | The Witness Growing in You | The Courage Trying to Grow | The Organizer Growing in You |
-| **Show Up** · *choose the domain — where will I invest this?* | Aim the Resources | Aim the Awareness | Aim the Action | Aim the Structure |
+*Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
 Read the left-hand column and you are reading this chapter. Every stage you practiced is a row. The Clean Up row holds the five channels, one per domain, which is why all four of those cards begin with the same verb: *name.* Read across a row instead and you are choosing where the move lands. That is the whole grid: down is the sequence, across is the arena.
 

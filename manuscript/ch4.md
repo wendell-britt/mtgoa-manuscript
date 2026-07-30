@@ -674,13 +674,7 @@ In practice: Next time you draw a line and feel the urge to soften — pause. Ta
 
 Same grid as the Shaman's, one operation over. Five basic moves down — the WAVE-Spiral, which you have been running since Chapter 3 — four domains across, twenty cards. These are the Challenger's.
 
-|  | Gather Resources | Raise Awareness | Direct Action | Skillful Organizing |
-|---|---|---|---|---|
-| **Wake Up** · *notice resistance — what resists being seen?* | The Number You Won't Look At | What Doesn't Want Light | The Line You Won't Draw | The Dysfunction No One Names |
-| **Open Up** · *allow discomfort — what am I avoiding feeling?* | The Ask You're Avoiding | The Truth You're Numb To | What Action Asks of You | The Role You're Avoiding |
-| **Clean Up** · *challenge the interpretation — what story am I believing?* | The Money Story | The Story About the Truth | The Enemy Story | The "Only I Can" Story |
-| **Grow Up** · *find the developmental edge — what must evolve?* | The Edge of the Ask | The Edge of Speaking | The Edge of the Line | The Edge of Letting Go |
-| **Show Up** · *create the intervention — what must change?* | The Ask Goes Live | Say the Thing | Make the Move | Ship the System |
+*Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
 Notice what happens to the titles as you go down. The Wake Up row names four things you do not look at. The Show Up row names four things that happen in front of other people. That is the Challenger's arc compressed into twenty phrases: it starts at what you refuse to see and ends at something you did with witnesses. Read across a row instead and you choose the arena. Down is the sequence, across is where it lands.
 

@@ -634,13 +634,7 @@ Do not use the meta-view to make yourself unaccountable. If your clarity only ma
 
 The grid again, sixth operation of six, the last one. Five moves down, four domains across, twenty cards. These are the Sage's.
 
-|  | Gather Resources | Raise Awareness | Direct Action | Skillful Organizing |
-|---|---|---|---|---|
-| **Wake Up** · *notice meaning — which game is this actually?* | What This Game Costs to Play | The Pattern Beneath the Incident | Which Game Are We Actually In | The Game the Table Thinks It's Playing |
-| **Open Up** · *witness experience — what is it like inside this game?* | Take In the Whole Board | What You See and Cannot Say | Stay In It While You See It | Sit In the Game You Did Not Choose |
-| **Clean Up** · *extract insight — what does this pattern actually say?* | Name the Altitude, Not the Person | Diagnosis or Verdict | Which Line Belongs to This Game | Where the Stuckness Actually Lives |
-| **Grow Up** · *integrate growth — what does playing this make me?* | The Map You Keep Reaching For | Teach It or Hold It | Who the Fight Makes You | Build the View Into the Structure |
-| **Show Up** · *create legacy — what stays playable after I go?* | Hand the Map Over | Say It Once, Then Stay | Put the Game Down in Public | Leave the Game Playable Without You |
+*Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
 Read the left-hand column and you're reading this chapter. Wake Up is the Panoramic Seer with an instrument in its hand — every card in that row asks the same question about a different arena. Open Up finds the Sage weakest by design, because witnessing a game from inside it is the one thing the whole-board view makes harder rather than easier. Clean Up is where insight either becomes a diagnosis or hardens into a verdict, and two of those four cards read as a fork for exactly that reason. Grow Up is the row this chapter's daemon exists to prevent, the only row in the deck that asks what the playing does to the player. Show Up is legacy, and every card there names what remains once you stop holding it. Read across a row and you're choosing the arena instead. Down is the sequence. Across is where it lands.
 

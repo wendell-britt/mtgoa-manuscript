@@ -271,6 +271,38 @@ Status:
 
 ### P0 — Must Fix Before Any Other Editorial Work
 
+**✅ A7 — Seam 1 DONE 2026-07-29: the six BAR grids left the book**
+- Wendell: "Taking them out makes sense, but let's keep em in the repo as things
+  that we can design against." Done: `deck/BAR_GRIDS.md`.
+- 6 grids, 120 cards, out of ch3-ch8. **Book load 219 -> 99 named units.**
+- Kept on purpose: the framing paragraph naming the five basic moves as the
+  WAVE-Spiral (that is the book stating its own spine), and `Drawing Against the
+  Shadow`, which teaches the five stages in prose.
+- Frame round-tripped, gate at the two R9 tokens, suite green.
+
+**🔴 A8 — the 35 Moves do not run the WAVE. Spec drafted, needs a ruling.**
+- `specs/SPEC_WAVE_REALIGNMENT_2026-07-29.md`. Wendell's Seam 3 ruling: each
+  chapter should bring Jordan through Wake/Open/Clean/Grow/Show. ch3 already SAYS
+  this on the page. Zero of the 35 Section 5 Moves is tagged to a stage.
+- Payoff: 35 differently-named moves become ONE sequence seen seven times. Largest
+  single reduction left, and it deletes no content.
+- Map scored: **14 STRONG, 12 MEDIUM, 9 WEAK.** Move 1 is already Wake Up in all
+  seven chapters, so the structure is one-fifth built consistently book-wide.
+- **The finding that outranks the realignment: Show Up carries 17 of 35 Moves;
+  Open Up and Grow Up carry 3 each, with ZERO strong fits between them.** The book
+  under-teaches Open Up — its own addition to Wilber's four, the Shaman's whole
+  contribution, the stage ch7:540 calls "the move this chapter's daemon exists to
+  prevent", and the stage APPENDIX_C drops entirely (A6).
+- True scope is not relabelling: it is **9 new Moves**, each an Open Up or Grow Up
+  written where a duplicate Show Up now sits. That is authoring, not editing.
+- Recommended split: tag the 14 STRONG now (ships, claims only what the map
+  supports); the 12 framings and 9 replacements are second edition with the Open Up
+  gap as the brief.
+- Open question for Wendell (spec §6): is action-weighting a flaw or a choice? For a
+  reader who fears doing harm and wants to show up without losing herself, the
+  missing stages are the ones serving the second half of that sentence.
+
+
 **🔴 A4 — ch3 does not teach the two operations. LOAD BEARING.**
 - Wendell 2026-07-29: "We need to make sure chapter 3 actually teaches emotional
   alchemy. This is load bearing." Audit: `specs/SPEC_SYSTEM_COLLISIONS_2026-07-29.md`

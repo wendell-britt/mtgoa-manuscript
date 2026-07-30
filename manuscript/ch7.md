@@ -632,13 +632,7 @@ The Diplomat who has mastered these moves does not run a sequence. They hold the
 
 The grid again, fifth operation of six. Five moves down, four domains across, twenty cards. These are the Diplomat's.
 
-|  | Gather Resources | Raise Awareness | Direct Action | Skillful Organizing |
-|---|---|---|---|---|
-| **Wake Up** · *notice relationships — what relational dynamics matter?* | Who Is Not Being Asked | Who Gets Believed | Who Absorbs the Cost | Who Is Actually Deciding |
-| **Open Up** · *care for experience — how can I relate compassionately to this?* | What the Asking Costs | What This Costs the Teller | What the Line Costs Them | What the Structure Costs People |
-| **Clean Up** · *choose the destination — which channel would serve this better?* | From Obligation to Offer | From Blame to Account | From Accommodation to Terms | From Resentment to Agreement |
-| **Grow Up** · *relate growth — how does this affect others?* | Who Grows If You Ask | Who Grows If You Name It | Who Grows If You Hold | Who Grows If You Step Back |
-| **Show Up** · *create relationship — who must be involved?* | Bring Them Into the Ask | Bring Them Into the Telling | Bring Them Into the Line | Bring Them Into the Structure |
+*Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
 Read the left-hand column and you are reading this chapter. Wake Up is a channel detecting who is in the field and on what terms. Open Up is the move this chapter's daemon exists to prevent: receiving what something costs somebody else without converting it into what it costs you. Clean Up is the destination choice, and every card in that row is written as a route because that is what the move is: *from* somewhere, *to* somewhere. Grow Up is the only row in the deck that asks about other people by design. Show Up is the relationship you build, and every card there starts with the same verb, because at this altitude showing up means bringing somebody with you. Read across a row instead and you are choosing the arena. Down is the sequence, across is where it lands.
 

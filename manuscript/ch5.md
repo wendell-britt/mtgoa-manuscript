@@ -521,13 +521,7 @@ The hardest Regent move. You prepare the next person not as a replica of you, bu
 
 Same grid, one operation further along. Five moves down — the WAVE-Spiral — four domains across. Twenty cards, and these are the Regent's.
 
-|  | Gather Resources | Raise Awareness | Direct Action | Skillful Organizing |
-|---|---|---|---|---|
-| **Wake Up** · *notice stewardship — what deserves attention?* | What's Worth Funding | What Deserves the Spotlight | Which Fight Is Yours | What Needs Tending |
-| **Open Up** · *hold responsibility — can I stay with this?* | Stay With the Need | Stay Awake to It | Can You Hold the Line | Can You Hold the Whole |
-| **Clean Up** · *identify the missing move — what capability is unavailable?* | The Capability You're Missing | What Awareness Lacks | What the Fight Needs | What the System Lacks |
-| **Grow Up** · *steward growth — what deserves practice?* | Worth Practicing | Practice the Hard Conversation | Practice Holding the Line | Practice Delegating |
-| **Show Up** · *create stewardship — what deserves ongoing support?* | Hold the Funds Well | Keep the Truth Alive | Sustain the Pressure | Tend the Structure |
+*Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
 The Regent's Show Up row is the only one in the deck built entirely out of verbs for keeping: hold, keep, sustain, tend. Nothing in it is made. That marks the difference between building something and inheriting it, and it makes this operation the slowest of the six. Read down for the sequence, across for the arena.
 

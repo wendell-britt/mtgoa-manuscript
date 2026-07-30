@@ -479,13 +479,7 @@ That's what winning looks like at this altitude.
 
 The grid again, fourth operation of six. Five moves down, four domains across, twenty cards. These are the Architect's.
 
-|  | Gather Resources | Raise Awareness | Direct Action | Skillful Organizing |
-|---|---|---|---|---|
-| **Wake Up** · *notice potential — what value wants to increase?* | The Untapped Vein | The Story That Could Land | The Pressure Point | The Structure That Wants to Exist |
-| **Open Up** · *receive the resource — what energy is hidden here?* | The Hidden Supply | The Energy in the Story | The Power in the Anger | The Capacity in the Group |
-| **Clean Up** · *select the transformation — transcend, translate, or neutralize?* | Move the Charge | From Outrage to Aim | Forge the Anger | Redirect the Strain |
-| **Grow Up** · *amplify capacity — what capability wants strengthening?* | Strengthen the Channel | Sharpen the Signal | Strengthen Your Stance | Strengthen the System |
-| **Show Up** · *create structure — what value am I amplifying?* | Build the Ladder | Build the Megaphone | Build the Leverage | Build to Last |
+*Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
 Read the left-hand column and you are reading this chapter. Wake Up is a mode detecting. Open Up is the six seconds. Clean Up is the conversion — performed on purpose, in its own slot, rather than on reflex a quarter-second after the signal lands. Grow Up is the capability the design is supposed to leave behind in other people. Show Up is the thing you build, and every card in that row starts with the same verb. Read across a row instead and you are choosing the arena. Down is the sequence, across is where it lands.
 
