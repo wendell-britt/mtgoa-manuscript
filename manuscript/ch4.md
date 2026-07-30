@@ -175,26 +175,26 @@ Here is the part specific to this reader. The suspicion runs one direction. Forc
 
 The draw is situational. Not solo, not relational — pick a specific moment where a crossing happened and something in you decided.
 
-```
-Try this now.
+**Try this now.**
 
 1. Name one moment in the last month where something crossed
    and you did not say it. (One sentence, no explanation.)
 
 2. Draw the axis:
-   FORCE  ←——●——→  RESTRAINT
+
+   **FORCE** ←——●——→ **RESTRAINT**
+
    Mark where you actually stood in that moment.
    Not where you'd defend standing.
 
 3. Write one integrated sentence — both poles in the same statement:
-   "I held back __________ because __________ was real,
-    and the line I did not draw was __________."
+   *"I held back __________ because __________ was real,
+   and the line I did not draw was __________."*
 
 4. Sit 30 seconds. Notice: heat with nowhere to go (Force stuck
    inside), heaviness (Restraint stuck), or ground (integrated).
 
-Back to the chapter.
-```
+*Back to the chapter.*
 
 *For the full process and additional pairs, see Appendix: The Polarity Map.*
 

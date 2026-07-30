@@ -560,10 +560,9 @@ That is not a problem. Problems have solutions. This is a **polarity**: two nece
 
 The pair changes with altitude. The map doesn't.
 
-```
-    POLE A  ←——————————●——————————→  POLE B
-                  (you are here)
-```
+**POLE A** ←——●——→ **POLE B**
+
+*The dot is where you are.*
 
 Draw a line. Name the poles. Mark where you are today. The dot is a diagnostic, not a verdict. You are allowed to move.
 
