@@ -401,7 +401,7 @@ Each channel carries intelligence. You're not trying to "get over" any of them. 
 
 ---
 
-*Channel-by-channel mechanics, the triage rule, and four worked scenarios: Appendix: The Five Channels in Practice.*
+*Channel-by-channel mechanics, the triage rule, and four worked scenarios: Appendix C: The Five Channels in Practice.*
 
 <!-- MARGINALIA -->
 > *Triage is the part of this chapter you will actually use, and it is in an appendix. Maera does

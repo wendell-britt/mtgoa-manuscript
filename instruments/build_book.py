@@ -69,13 +69,15 @@ SPINE = [
     ("chapter",  "Chapter 8",               "manuscript/ch8.md",                 BLOCKER),
     ("chapter",  "Chapter 9",               "manuscript/ch9.md",                 BLOCKER),
 
-    # Appendix C is the Key Terms glossary. A parallel branch retired it and gave
-    # the letter to The Five Channels in Practice; master is instead repairing the
-    # glossary in place. That is an open decision, so this spine follows master and
-    # the Five Channels stays unplaced — see the UNPLACED report below.
+    # Appendix C went to The Five Channels in Practice on 2026-07-30, by Wendell's
+    # ruling. It was never a close call once the neighbours were read: Appendix B
+    # already said "before Appendix C (The Five Channels in Practice)" and Appendix
+    # D already named "the toolkit cluster (C Five Channels / D Emotional Alchemy /
+    # E 3-2-1 Shadow)". The Key Terms glossary is not a toolkit and no chapter ever
+    # pointed at it. The file stays on disk, marked retired, and off the spine.
     ("appendix", "Appendix A",  "appendices/APPENDIX_A_FOUR_ALLYSHIP_DOMAINS.md",     BLOCKER),
     ("appendix", "Appendix B",  "appendices/APPENDIX_B_QUESTS_CAMPAIGNS.md",          BLOCKER),
-    ("appendix", "Appendix C",  "appendices/APPENDIX_C_KEY_TERMS.md",                 BLOCKER),
+    ("appendix", "Appendix C",  "appendices/APPENDIX_C_FIVE_CHANNELS.md",             BLOCKER),
     ("appendix", "Appendix D",  "appendices/APPENDIX_D_EMOTIONAL_ALCHEMY_PRACTICES.md", BLOCKER),
     ("appendix", "Appendix E",  "appendices/APPENDIX_E_321_SHADOW_PROCESS.md",        BLOCKER),
     ("appendix", "Appendix F",  "appendices/APPENDIX_F_POLARITY_MAP.md",              BLOCKER),
@@ -92,7 +94,7 @@ SPINE = [
 # letter. Each has to resolve to a lettered file in the spine before print, or a
 # reader follows a pointer to nothing.
 NAMED_REFERENCES = {
-    "The Five Channels in Practice": "drafts/appendix_channels.md",
+    "The Five Channels in Practice": "appendices/APPENDIX_C_FIVE_CHANNELS.md",
     "3-2-1 Shadow Process":          "appendices/APPENDIX_E_321_SHADOW_PROCESS.md",
     "Polarity Map":                  "appendices/APPENDIX_F_POLARITY_MAP.md",
 }
