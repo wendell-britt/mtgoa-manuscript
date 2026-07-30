@@ -38,7 +38,8 @@ APX = os.path.join(ROOT, "appendices")
 SHIPPING_APPENDICES = [
     "APPENDIX_A_FOUR_ALLYSHIP_DOMAINS.md",
     "APPENDIX_B_QUESTS_CAMPAIGNS.md",
-    "APPENDIX_C_KEY_TERMS.md",
+    "APPENDIX_C_FIVE_CHANNELS.md",   # C changed hands 2026-07-30 by Wendell's
+                                     # ruling; the Key Terms glossary is retired
     "APPENDIX_D_EMOTIONAL_ALCHEMY_PRACTICES.md",
     "APPENDIX_E_321_SHADOW_PROCESS.md",
     "APPENDIX_F_POLARITY_MAP.md",

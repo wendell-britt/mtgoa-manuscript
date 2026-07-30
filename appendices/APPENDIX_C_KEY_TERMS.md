@@ -1,4 +1,8 @@
-# Appendix C: Key Terms
+# Key Terms (RETIRED — not in the book)
+**Status:** Retired 2026-07-30 by Wendell's ruling. Appendix C is now The Five
+Channels in Practice. This file is kept as reference and is off the spine, out of
+the gate's shipping list, and unreferenced by any chapter. Do not re-letter it
+without a new ruling.
 **Type:** Reference
 **Authority:** MTGOA manuscript; gate × chapter trigram architecture (BARS_ICHING_ARCHITECTURE.md)
 **Format:** Term → one-sentence definition → [chapter] → related terms
