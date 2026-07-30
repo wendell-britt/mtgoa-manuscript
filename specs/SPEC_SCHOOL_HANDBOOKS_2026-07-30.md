@@ -240,9 +240,26 @@ false modesty.
 The Horizon's clause is the odd one and it should be. A school that refers to all five is
 telling you what it is, and it is the only clause 4 in the set that is also a curriculum.
 
-**One consequence worth seeing:** Body → Line → Bridge → Oath → Pattern → Horizon is the
-book's chapter order. The referrals run forward through the arc without being made to, which
-means the reader meets each school already knowing why the last one handed her on.
+**A claim I made here was wrong.** I wrote that the referral chain reproduces the book's
+chapter order. It does not. Referral runs Body → Line → Bridge → Oath → Pattern → Horizon;
+chapter order is Body → Line → Oath → Pattern → Bridge → Horizon. Bridge and Oath swap.
+
+The map stands on its merits anyway, because **referral and sequence are different relations
+and should not be forced to agree.** Referral answers *who is better at the thing we cannot
+do*; sequence answers *what you must already be able to do before you arrive here*. Clause 5
+carries the sequence and it does follow chapter order:
+
+| school | entry requires |
+|---|---|
+| Body | nothing. It is where people start |
+| Line | the Body |
+| Oath | the Line |
+| Pattern | the Oath |
+| Bridge | the Pattern |
+| Horizon | all five, and it says so |
+
+So each handbook points **backward** in clause 5 and **sideways** in clause 4, which is a
+better piece of worldbuilding than the tidy chain I thought I had found.
 
 ## 5b · Candidate facts — pick, edit, or reject
 
