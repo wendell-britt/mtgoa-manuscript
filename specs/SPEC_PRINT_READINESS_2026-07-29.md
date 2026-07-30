@@ -28,13 +28,11 @@ state.
 3. **Three rulings recovered from `SPEC_STRUCTURAL_DELIVERY.md`**, which was audited
    on 2026-07-30 and found to be part stale. Still live: **S1**, the untaught
    altitude ladder at `ch8:201` (*Red, Amber, Orange, Green, Teal*); **S2**, the one
-   surviving Vulnerable Child reference at `ch8:169`; ~~S6~~, **ruled
-   2026-07-30 — the label is optional, and its premise was wrong; see
-   `MANUSCRIPT_FILE_CANON.md`. It surfaced a real gap in its place: **ch5 averages
-   119 words per move against 336, and none of its moves give the reader a sentence
-   to say out loud.**
-   Its Break 1 and S4/S5 are closed — `ch9`'s *The Last Rep* is the transfer test
-   they asked for.
+   surviving Vulnerable Child reference at `ch8:169`. **S6 is ruled** (2026-07-30):
+   the label is optional and its premise was wrong — see `MANUSCRIPT_FILE_CANON.md`.
+   In its place it surfaced a real gap: ch5 averages 119 words per move against 336,
+   and none of its moves give the reader a sentence to say out loud. Break 1 and
+   S4/S5 are closed — `ch9`'s *The Last Rep* is the transfer test they asked for.
 4. W3, the genre-marker pass, untouched and waiting on R3.
 5. ch4's hedge particles — the last voice BLOCK.
 6. 167 punchline-last INFO hits. Pattern data, not defects.
