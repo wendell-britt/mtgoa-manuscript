@@ -46,30 +46,79 @@ author lands the plane.* Nothing needs restructuring. The seam is simply unmarke
 additional pairs, see Appendix F"* (or equivalent), then `---`, then Section 4 opens cold.
 **Zero of six carry any change-of-hand signal.**
 
-### The fix: a hand-off line at the Section 3/4 seam
+### The fix has to be apparatus, not voice
 
-Six lines, one per chapter, in Wendell's own ruled register — `SEVEN_VOICES` gives him
-*Assistant Director Baldwin (2014): busy, courteous, unbothered; has a queue.* That
-register is perfect for an editorial hand-off, and it is the one voice in the book with a
-spec and no prose.
+**Rejected 2026-07-30.** The first draft of this section proposed a hand-off line in
+Wendell's voice: *"Cross submitted the above and declined to write an exercise… He is
+right, and I have a book to finish, so the rest of this chapter is mine."*
 
-Worked sample, ch7:
+Wendell: *"we cannot do this because the back half is me talking about allyship as wendell
+britt NOT as Baldwin."*
 
-> *Cross submitted the above and declined to write an exercise, on the grounds that the
-> Bridge is not taught from a page. He is right, and I have a book to finish, so the rest
-> of this chapter is mine.*
+He is right, and the failure is bigger than a register mismatch. **That line makes him a
+character in the fiction** — a man who receives submissions from Corin Ash, adjudicates
+them (*"He is right"*), and manages a workload alongside him. The moment the author speaks
+*to* or *about* the Head inside the book's body, the membrane the seam exists to mark is
+the thing the marker breaks. And the back half is not a persona at all. It is Wendell
+Britt on allyship, which is the one voice in the book that must not be costumed.
 
-That marks the seam, keeps the frame, is funny without being arch, and takes twenty-eight
-words. It also converts the byline problem into a solved problem: the treatise is Sections
-1–3, and the byline can say so.
+**So nothing may cross the membrane. The marker cannot be anybody's voice.**
+
+It has to be **apparatus** — running heads, labels, signatures, rules. Apparatus belongs
+to the book rather than to a person, so it can point at the fiction without anyone
+stepping into it, and it can point at the author without putting him in a scene.
+
+### The move: sign the treatise where it ends
+
+The byline already exists. It is currently at the **top** of each chapter, closing the
+epigraph block:
+
+> *the second treatise, submitted by Corin Ash, Master of the Clean No,*
+> *Head of the School of the Line*
+
+If the treatise is Sections 1–3, that signature is in the wrong place. **A submitted
+document is signed at the end of itself.** Move it to the close of Section 3 and the
+treatise becomes bounded the way a real document is bounded: it opens, it runs, it is
+signed, and then the book resumes in the author's own voice without commenting on it.
+
+What stays at the top: the two testimonial voices — the student and the citizen — which
+are *about* the Head rather than *by* the Head, so they work as an epigraph and always did.
+Nothing is lost from the chapter opening, because `# CHAPTER 4: THE CHALLENGER` already
+names the Face and the student's attribution already names the school.
+
+**Cost: zero new words.** It relocates text that is already written, and it uses the one
+convention that needs no narrator.
+
+Optional second layer, for the typesetter rather than the manuscript: a running head
+reading `FROM THE SECOND TREATISE` across Sections 1–3 that drops away at Section 4. Pure
+apparatus, no voice, and it makes the seam visible on every spread rather than once. Print
+only — ebook running heads are unreliable, so the signature carries it alone in the digital
+edition.
+
+### The convention gets explained once, in front matter
+
+`front_matter/copyright.md` already carries **"A note on what this book is not"** — Wendell
+Britt, real voice, speaking about his own book from outside it. That is the precedent and
+the correct slot. One short note there, in the same register: six chapters open with a
+treatise written in the voice of the Head who teaches that school, the practice sections
+are the author's own, and the signature marks the turn.
+
+Said once in apparatus, the reader carries the convention through all six chapters and no
+line in the body ever has to reach across.
 
 ### One honest complication
 
 **`ch3:384` is Wendell's, and it sits inside Section 3** — the *wu xing* sourcing note,
-which is the most clearly authorial paragraph in the front half of any chapter. Either it
-moves below the seam, or ch3 gets its hand-off earlier than the others. It is also good
-and load-bearing prose (it is the book's only attribution of its own central taxonomy), so
-it should move rather than go. Flagging rather than deciding.
+which is the most clearly authorial paragraph in the front half of any chapter. Under the
+signature convention it stops being a judgment call and becomes a defect: Voss cannot cite
+classical Chinese medicine or say *"what follows is my remix"* above her own signature. **It
+moves below the seam.** It stays inside ch3, so `copyright.md`'s existing pointer — *"Chapter
+3 says what the remix changed"* — survives the move untouched.
+
+The same sweep has to catch every other authorial sentence sitting above a signature. That
+is a measurement rather than a judgment, and it is the one piece of work this convention
+creates: **six chapters, Sections 1–3, find every sentence only Wendell could have
+written.**
 
 ## 3 · Why the voices are flat: the register pass never shipped for five of six Heads
 
@@ -158,11 +207,12 @@ unthanked years are what he keeps).
 1. **The four facts** — `VOSS-SPAN`, `QUILL-CLAUSE`, `VALE-SYSTEM`, `ORR-DEFLECTION`. One
    line each, same shape as the two he filled for Ash today. These block five of six
    register paragraphs and therefore block the flatness fix.
-2. **Sign-off on the seam at Section 3/4**, and on the hand-off line as the marker.
-3. **The ch3:384 call** — move the *wu xing* sourcing note below the seam, or give ch3 an
-   earlier hand-off.
-4. **Whether the byline is rescoped** from *"the second treatise, submitted by Corin Ash"*
-   to something that claims Sections 1–3 rather than the chapter.
+2. **Sign-off on the signature move** — byline relocated from the chapter head to the
+   close of Section 3, so the treatise is signed where it ends and no voice crosses the
+   membrane.
+3. **Sign-off on the front-matter note**, one paragraph beside *"A note on what this book
+   is not."*
+4. **Whether the print edition also gets the running head** across Sections 1–3.
 
 Cross needs none of these and can be drafted now, since his fact is canon and his chapter
 is the flattest in the book.
@@ -172,6 +222,6 @@ is the flattest in the book.
 ```
 grep -rc "⟦" manuscript/                      # 0 — gate already enforces
 grep -rn "alchemiz\|alchemical" manuscript/ch7.md manuscript/ch8.md   # 3 rule-1 breaks today
-grep -rn "the rest of this chapter is mine" manuscript/   # 0 today, 6 after
+grep -c "submitted by" manuscript/ch4.md   # 1 — must sit below Section 3, not above Section 1
 python3 -c "…"   # first-person per 1k in S1-S3; ch7 must leave 0.0
 ```
