@@ -121,7 +121,7 @@ The first reading puts the gap between you and the village.
 
 The second reading puts the gap inside you.
 
-You'll know which one belongs to you. The chapter keeps going either way.
+You'll know which one belongs to you. The work keeps going either way.
 
 Keep the terms apart so they don't blur together. Shadow is the move that stays hidden because exposure feels too expensive: you know the line, and you say nothing, so nobody can call you difficult. Distortion is the gift turned sideways: you can name a group perfectly, and you use the naming to stand above it. Cost is the bill that follows: people start calling you insightful while nobody feels helped.
 
@@ -212,7 +212,7 @@ The Sage arrives when you've been all the other Faces long enough to see them fr
 
 That's the Sage. Not a new game above the others. A meta-view of all of them — the capacity to see the whole system and choose where to stand inside it.
 
-Big Mind gives this chapter its vocabulary for the inner voices. Shamanic training gives it the body-first reading and the return to felt sense. The Faces framework gives it the developmental arc, so the language doesn't collapse into one personality theory wearing five hats. You don't have to convert to any of them to use the chapter. You just have to keep the maps from folding into each other.
+Big Mind gives this chapter its vocabulary for the inner voices. Shamanic training gives it the body-first reading and the return to felt sense. The Faces framework gives it the developmental arc, so the language doesn't collapse into one personality theory wearing five hats. You don't have to convert to any of them to use the work. You just have to keep the maps from folding into each other.
 
 This is the Vulnerable Child's gift, held all the way up. The child who wanted to be in the game and see the game. Who wanted to belong and see. Who refused to choose between presence and perspective.
 
@@ -242,7 +242,7 @@ Laloux names something he calls evolutionary purpose: once you can see the whole
 
 ### Polarity Encounter — Which Game ↔ Which Altitude
 
-The Sage runs two questions at all times, and the whole chapter turns on keeping them apart.
+The Sage runs two questions at all times, and everything the School of the Horizon teaches turns on keeping them apart.
 
 *Which game is this?* is a horizontal question. Power, strategy, harmony, whole-board. It asks what the situation requires right now. Watch what people actually do rather than what they say, and it answers itself.
 

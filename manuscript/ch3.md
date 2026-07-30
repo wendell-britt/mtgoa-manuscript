@@ -203,7 +203,7 @@ That is the Shaman's superpower. That is what the village lost when the Shaman l
 
 Everything above is one pole.
 
-A polarity is two capacities, both right, that turn costly the moment they come apart. The full map for working one comes later in this chapter. You need the pair itself here, because the chapter stands on it and the back half will hand you the other end.
+A polarity is two capacities, both right, that turn costly the moment they come apart. The full map for working one comes later in this chapter. You need the pair itself here, because the School of the Body stands on it, and you get the other end once you can hold the first.
 
 The Shaman's pair: the feeling that gives you the read versus the function that makes the read matter to somebody else.
 

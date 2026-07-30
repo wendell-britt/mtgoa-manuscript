@@ -110,7 +110,7 @@ Which produces the sentence the School of the Bridge exists to disprove, the mos
 
 **The myth: allyship means never causing harm.**
 
-It sounds like a floor. It functions as a ceiling. If your presence only counts as legitimate for as long as it has cost no one anything, then naming a term becomes a risk you cannot take, because a term might land badly, and something that lands badly is harm, and harm is disqualifying. So the terms stay unnamed. The staying stays weightless. The reader stays (pleasant, reliable, and slowly becoming furniture) and calls the whole arrangement care.
+It sounds like a floor. It functions as a ceiling. If your presence only counts as legitimate for as long as it has cost no one anything, then naming a term becomes a risk you cannot take, because a term might land badly, and something that lands badly is harm, and harm is disqualifying. So the terms stay unnamed. The staying stays weightless. The student stays (pleasant, reliable, and slowly becoming furniture) and calls the whole arrangement care.
 
 Every move the School of the Bridge teaches runs downstream of that myth. The School of the Bridge replaces it with something a person can stand on, which is not *I have never caused harm* but *I can be told what I cost and stay in the conversation afterward.*
 
