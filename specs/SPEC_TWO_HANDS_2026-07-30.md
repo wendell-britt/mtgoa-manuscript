@@ -138,27 +138,64 @@ reader who goes looking, which is the moment Appendix G exists for and already c
 **Moving it below the seam keeps it in ch3, so both cross-references survive untouched.**
 Deleting it would break two.
 
-### Why not open Earth travel
+### Earth travel is open — CORRECTED 2026-07-30
 
-It is available and it costs more than the paragraph is worth. `MARGIN_ARC.md` puts
-travel-between-worlds in the **annotator's** hands and makes it the Chapter 8 reveal — *"the
-school's name was a place before it was a school"*, *"you can visit homes like yours and
-never live in one again"*, *"the ship is that condition with a hull around it"* — under an
-explicit rule that **nothing is ever set up.** Establishing in Chapter 3 that a Head has been
-to Earth spends that reveal five chapters early, for one citation the apparatus already
-carries.
+An earlier draft of this section argued that letting a Head have been to Earth would spend
+the Chapter 8 reveal. **That was wrong.** `MARGIN_ARC.md` lists exactly three things the
+reveal gives up: **the word *home***, that **the school's name was a place before it was a
+school and he is the one who stopped saying it that way**, and that **he has not been
+annotated by anyone.** None of them is world travel. The line *"the ship is that condition
+with a hull around it"* is a metaphor for the condition of not being able to live at home,
+not a secret about transit.
 
-It would also generalise: if the Schools can reach Earth, the reader will ask why no other
-Head cites anything, and five more treatises acquire a question they cannot answer.
+Wendell 2026-07-30: *"I don't know if it follows that the people haven't been to earth. if
+not for the simple fact how did the reader get their hands on the book. the surprise is that
+he's left the school not that he's a world traveler. the ship is a world traveler."*
 
-**Ruling recorded: `ch3:384` moves below the seam, stays in ch3, Earth travel stays closed
-and stays the annotator's.**
+**Canon, recorded:** traffic between the worlds is ordinary, and the book's own existence in
+the reader's hands is the proof. The ship travels. The Heads may have travelled. **The ch8
+reveal is about leaving, not about transit.**
+
+This is worth more than it costs to admit, because it opens things the earlier ruling had
+closed off:
+
+- **The reader's possession of the book is in-fiction evidence.** That is a found-manuscript
+  frame the book is already running without saying so, and the front-matter note proposed
+  above is where it can be said once, in apparatus, at no cost to any chapter.
+- **A Head may reference having been here.** Which is a whimsy budget, in the sense §4 means:
+  manner and texture, not backstory.
+- **Chapter 9's invitation is a berth**, per `MARGIN_ARC` — the reader is offered a place on
+  a ship that goes. That was always consistent; now it is legible.
+
+### The `ch3:384` ruling survives on its other two legs
+
+Earth travel was one of three arguments and it is withdrawn. The conclusion does not change,
+because the other two were the load-bearing ones and neither depended on it:
+
+1. **The attribution is discharged twice in apparatus**, with a real citation attached
+   (Kaptchuk). The chapter passage is a third copy.
+2. **It fails Wendell's own teaching test at its own position.** It prefaces a table that
+   teaches the five channels without it. What it adds is provenance.
+
+**Ruling stands: `ch3:384` moves below the seam and stays in ch3**, so both apparatus
+pointers survive. Not because Voss *cannot* have been to Earth, but because the passage is
+crediting rather than teaching, and credit belongs to the author rather than to a character.
+**Ted Kaptchuk should be thanked by Wendell Britt, not by Maera Voss.**
+
+**What is now available, and was not before.** If Voss should be *in* her own chapter (§3 —
+she currently is not, at all), her having been here is usable texture: a Shaman who went
+looking and found that somebody had mapped the same territory two thousand years earlier.
+That is a character beat, and it carries no attribution weight, so it can sit above her
+signature without taking the credit away from the apparatus. Offered, not decided.
 
 ### The sweep this creates
 
 `ch3:384` is the known case. The convention requires the rest: **six chapters, Sections 1–3,
 every sentence only Wendell could have written.** A measurement, not a judgment, and it does
 not need the four Head facts.
+
+**Voss is she/her**, ruled by Wendell 2026-07-30. `HEAD_REGISTERS` and `SEVEN_VOICES` already
+had it right. Spelling is **Maera**, 46 occurrences across the repo, 0 for *Meara*.
 
 **One thing found on the way, and it is worse than the wu xing paragraph.** Measured in ch3:
 **Voss appears 0 times in the body text.** Both occurrences are in the margin and the
