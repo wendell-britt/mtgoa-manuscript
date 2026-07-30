@@ -69,6 +69,9 @@ See `marginalia/README.md` and `marginalia/HANDOFF.md`.
 ## The rest of the durable set
 
 - `instruments/` — the measurement tools, now committed as runnable files rather than pasted from a toolkit doc. `spec_edit.py` is the safe-edit pattern every manuscript edit goes through; it aborts and writes nothing on a missed or duplicated anchor. `dupes.py` is the cross-chapter duplicate scanner. Also: practice surfaces, chain check, stylometry, term debt, negation stacks, repetition sweep, construction sites. Run them against `manuscript/ch1.md`–`ch9.md`. Every claim about this manuscript should come from one of these, not from a planning document.
+- `instruments/build_book.py` — assembles the print deliverable from canon, generates the contents, and exits non-zero while a required component is missing. Added 2026-07-30; nothing built a whole book before it. `compiled/` is a stale 2026-05-29 artifact whose builder reads the retired `chapters/` tree.
+- `instruments/gate.py` reads **four** printed surfaces as of 2026-07-30 — body, marginalia, appendices, and front/back matter. Before that it read only `manuscript/`, so roughly 10,500 words of shipping prose had never been held to the standing list. Its first gated run of the appendices found a banned word in newly written Appendix C prose.
+- `front_matter/` and `back_matter/` — half title, title page, copyright, about-the-author. Complete, zero placeholders. The copyright page carries every source permission the book owes; add to it there, not in a chapter.
 - `specs/MTGOA_INSTRUMENTS_TOOLKIT.md` — documents the reviewer gate and what each instrument measures.
 - `visuals/` — the built HTML visuals, self-contained with no external assets: `chapter_engine`, `ch2_seven_daemons`, `ch3_process_shape`, `structural_delivery`, `register_remediation`, `structure_comparison`, `voice_comparison`.
 - The open specs: `specs/SPEC_FINISHING_PASS_2026-07-29.md` — **the active work
@@ -111,6 +114,32 @@ Neither appendix exists as prose anywhere — not in the project, not on any dis
 - **Appendix — The 3-2-1 Shadow Process** (~1,500 words). Closes `ch3:456`, `ch3:593`, `ch4:374`. Carries the book's only Wilber credit.
 
 Front matter, table of contents, and back matter are also unwritten.
+
+## Two branches touched the chapters at once — read this before merging
+
+**2026-07-30.** `master` and `claude/book-print-readiness-august-ar95mo` both ran a
+prose pass over all nine chapters in parallel, and they conflict across **91
+hunks**. This branch is master plus the print apparatus; it carries none of the
+other branch's chapter work except two items that had to travel (ch4's reversed
+cruelty/kindness disguise, and ch1's subtitle).
+
+Measured, master's register fan-out went further on most axes, so most of the other
+branch is superseded:
+
+| | master | the prose branch |
+|---|---|---|
+| Denying negations | **2** | 9 |
+| `which is` tails | **9** | 64 |
+| say-the-noun | 25 | **6** |
+
+**Drop that branch's W7 and `which is` work rather than merging it.** Its
+say-the-noun pass is the one prose item still worth re-applying. Anything else from
+it must be re-measured against master before it is trusted — one line of reasoning
+on that branch depended on the BAR grids, which master's Seam 1 removed.
+
+**The lesson worth keeping:** two sessions editing the same nine files produce work
+that cannot be cheaply reconciled. Land apparatus and prose on separate branches, or
+sequence the sessions.
 
 ## Standing editorial rules
 

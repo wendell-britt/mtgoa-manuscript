@@ -2,7 +2,7 @@
 
 **Status:** REVIEWED 2026-06-04 — accuracy-checked line-by-line against the *Igniting Joy* source (pp. 29–47: Happy Apples, Rose, Grounding); approved by Wendell. Two fidelity fixes applied (Happy Apples Step 4 restored to the source's gradual transform; Rose petals restored to "recognition, love, understanding"). Load-bearing specifics verified faithful: 5×/5× apple intensities, 4-2-6 grounding breath, petals=desire/thorns=defense. Ported 2026-06-03 from the appendix design spec; 3-2-1 Shadow Process routed to Appendix E by design.
 **Authority:** *Igniting Joy* (Wendell Britt); appendix design spec 2026-05-21 (Decision 5).
-**Location in book:** After Appendix C; before Appendix E. First of the toolkit cluster (D Emotional Alchemy / E 3-2-1 Shadow Process / F Polarity Map), which sits before Appendix G (the bibliography).
+**Location in book:** After Appendix C; before Appendix E. In the toolkit cluster (C Five Channels / D Emotional Alchemy / E 3-2-1 Shadow Process / F Polarity Map), which sits before Appendix G (the bibliography).
 
 > **Note on the no-somatic directive.** The book's prose never narrates the reader's interior — that reads as manipulation, and it's barred everywhere in the body of the book. This appendix is the one deliberate exception, and it earns the exception the same way the book earns its other body claims: by sourcing them. These are three named, opt-in practices from a prior, published book of mine. The reader chooses to open this page and run them. That's a toolkit you reach for, not a felt-sense I assert about you. Keep it framed that way — invitation and lineage, never prescription mid-argument.
 
@@ -35,7 +35,7 @@ You don't need all three. Learn the one that fits the moment you keep finding yo
 1. Settle, both feet flat. Let the ground hold your weight.
 2. Breathe: in for four, hold for two, out for six. Repeat until the charge slows.
 3. Picture roots running from your feet into the earth; on each exhale, let the intensity drain down through them.
-4. Come back to the room — weight, contact, present moment.
+4. Come back to where you are — weight, contact, present moment.
 
 **Quick version:** three slow breaths, feet down, let the intensity run to ground.
 
