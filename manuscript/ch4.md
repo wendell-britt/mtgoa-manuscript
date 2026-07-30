@@ -196,7 +196,7 @@ The draw is situational. Not solo, not relational — pick a specific moment whe
 
 *Back to the chapter.*
 
-*For the full process and additional pairs, see Appendix: The Polarity Map.*
+*For the full process and additional pairs, see Appendix F: The Polarity Map.*
 
 ---
 

@@ -231,7 +231,7 @@ The draw is solo. Not a conflict between you and another person. Your inheritanc
 
 *Back to the chapter.*
 
-*For the full process and additional pairs, see Appendix: The Polarity Map.*
+*For the full process and additional pairs, see Appendix F: The Polarity Map.*
 
 ---
 

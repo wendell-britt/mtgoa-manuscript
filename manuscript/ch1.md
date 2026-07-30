@@ -63,7 +63,7 @@ So pick one: the community you keep trying to help from the cheap seats, the cau
 
 ## The Myths That Keep You Playing the Wrong Game
 
-Most people do not come to allyship empty-handed. They come carrying a few questions they would never say out loud. Am I good enough? Do I matter? Do I belong here? If I get this wrong, do I get cast out?
+Most people do not come to allyship empty-handed. They come because something is wrong and they want to be the kind of person who does something about it. They also come carrying a few questions they would never say out loud. Am I good enough? Do I matter? Do I belong here? If I get this wrong, do I get cast out?
 
 You answered those questions with myths, the way everyone does. Myths are how human beings make sense of a world too big to hold; they give reality a shape you can move around in. Here is what the guilt never tells you: every one of these myths is a solvable puzzle, and this book hands you the moves to take each one apart. Just seeing the whole map of them, before you solve a single one, makes you a sharper ally than you were a page ago.
 

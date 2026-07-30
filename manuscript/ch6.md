@@ -188,7 +188,7 @@ Take the last workplace failure you explained to somebody.
 Five marks. Read the column, not any single row. A run of five in one direction
 is not five judgments. It is one habit, applied five times.
 
-*For the full process and additional pairs, see Appendix: The Polarity Map.*
+*For the full process and additional pairs, see Appendix F: The Polarity Map.*
 
 ---
 
