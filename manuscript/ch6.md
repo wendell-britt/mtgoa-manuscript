@@ -99,9 +99,10 @@ The village didn't realize any of this. It thought itself practical. What it act
 
 ---
 
-## A Note Before the Concept
+## Section 3: The Concept
+### *What Structural Design Actually Is (And Why It's Not What You've Been Told)*
 
-This chapter will start using language that has a bad record.
+The School of the Pattern teaches in language that has a bad record.
 
 *Incentive structure. Leverage point. Systems thinking.* Those words have a documented second career explaining why the funding got cut, why the team got restructured, why the program that worked got killed because nobody could measure it correctly. The most analytical person at the table frequently drains the life out of something that had finally started moving, and they do it in exactly this vocabulary. Anyone who has watched that happen holds the words at arm's length, rightly. You earned the suspicion, and I am not going to argue you out of it.
 
@@ -117,14 +118,11 @@ That's structural generosity.
 
 The five modes, the stage sequence, the part of you that feels the system before it models it — those show what structural clarity looks like when it has not lost the love at its center. Not optimization theater. A practice for the person who already holds the relational field and needs the blueprint underneath it.
 
-Somewhere in this chapter you will recognize a design failure. A process that looked correct and failed anyway. An accountability structure nobody trusted. A meeting format that produced nothing and cost everyone something. The chapter makes the same claim about all of them: the structure did exactly what it got built to do, and that was the wrong thing. Not who failed it. Why it could not have done otherwise.
+Somewhere in the training you will recognize a design failure. A process that looked correct and failed anyway. An accountability structure nobody trusted. A meeting format that produced nothing and cost everyone something. The School of the Pattern makes the same claim about all of them: the structure did exactly what it got built to do, and that was the wrong thing. Not who failed it. Why it could not have done otherwise.
 
 Doing the right thing in the wrong system is a specific kind of expensive. The Architect starts by recognizing it as a system problem rather than an effort problem.
 
 ---
-
-## Section 3: The Concept
-### *What Structural Design Actually Is (And Why It's Not What You've Been Told)*
 
 The village reduces structural design to its outputs: the org chart, the RACI matrix, the role description, the meeting cadence. Those name what structural thinking produces, not structural thinking itself. You can have all of them and still have a broken system.
 
