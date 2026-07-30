@@ -27,9 +27,36 @@ anecdote with the bill paid, and a paid bill is a display case.
 Ash's works precisely because it does not resolve. He is still making students say the
 sentence out loud, and the reason is that he is still not certain which of them was right.
 
-**Rule 1 — leave it live.** Every Head is currently, this season, still paying. At least one
-sentence in present tense. The reader should be able to name a thing the Head is getting
-wrong *now*.
+**Rule 1, first draft — WRONG, and corrected below.** It read: *every Head is currently still
+paying; the reader should be able to name a thing the Head is getting wrong now.*
+
+Wendell 2026-07-30: *"I think we are being a little intense about them not having completed
+the move. a master who hasn't learned their lesson shouldn't be teaching. I think what's
+essential here is that they are still learning even as they've achieved mastery. This is more
+aligned to the ethos of the book."*
+
+He is right, and the error was mine in a specific way: **I conflated two different axes that
+`HEAD_REGISTERS` keeps apart.** A Head still failing at the craft they teach is not a live
+character, it is a fraud, and no student would enrol.
+
+### Rule 1, corrected — three axes, and only two of them are open
+
+| axis | state | evidence |
+|---|---|---|
+| **The craft** | **mastered.** They can do the thing. It is why the school exists and why anybody enrols | authority |
+| **The emotional satisfaction** | **still reaching.** `HEAD_REGISTERS`: *"Corin hands out a triumph they have not fully had."* This is the channel completing, not the skill | the engine |
+| **The learning edge** | **open, and adjacent.** Mastery opened onto a harder question and they are working on it now | aliveness |
+
+The first draft put the craft axis in the second row's state. That is the whole defect.
+
+**Why the corrected version is the book's own ethos.** Carse is in the lineage already:
+*a finite game is played to win and ends; an infinite game is played to keep the play alive.*
+A master still learning is the infinite game applied to expertise. It is also the promise the
+book makes the reader, which is a circle of helpfulness that keeps widening rather than a
+competence you arrive at and stop.
+
+**So: at least one present-tense sentence, and it names what they are learning now, not what
+they are still failing.** The distinction is the difference between a teacher and a warning.
 
 ## 2 · The six dials
 
@@ -43,7 +70,7 @@ person, and each is exaggerated one click past comfortable.
 | **The pleasure** | what they enjoy despite themselves | a person who only suffers is a position, not a character |
 | **The refusal** | what they will not discuss, visibly | the shape of an absence is a shape |
 | **The interlocutor** | who they are arguing with who is not in the text | explains the pressure in the prose without narrating it |
-| **The live cost** | what it is costing them this season | rule 1, above |
+| **The learning edge** | what mastery opened onto, that they are working on now | rule 1, above |
 
 ## 3 · Per Head
 
@@ -55,7 +82,7 @@ Genre from `SEVEN_VOICES`. Everything else is this document.
 - **Pleasure** — being wrong in an interesting way. She logs her errors with more detail than her successes and the ratio is visible.
 - **Refusal** — she does not say what a sensation means until she has been wrong about it once. Asked directly, she gives the sensation again.
 - **Interlocutor** — the student who wants the answer now.
-- **Live cost** — she is faster than she is accurate and has been for three years. She knows which way that error runs and has not fixed it.
+- **Learning edge** — she reads accurately and quickly and has for years. What she is working on now is what it costs a person to be read correctly by somebody they did not ask.
 
 ### Corin Ash · School of the Line · a drill manual
 - **Tic** — interrupts the instruction with the objection, then answers it. *You will say it in eleven words. That is not enough words. It is.*
@@ -63,7 +90,7 @@ Genre from `SEVEN_VOICES`. Everything else is this document.
 - **Pleasure** — the four seconds after a student holds a line and does not add a sentence.
 - **Refusal** — will not discuss whether the person deserved it.
 - **Interlocutor** — the people who told them at nineteen, still being argued with.
-- **Live cost** — still cannot tell in the moment whether a line is theirs or the old instruction firing. Runs the drill on themselves weekly.
+- **Learning edge** — the lines land. What they are working on is the four seconds after, in the one case they still get wrong: a line drawn for somebody who then has to live with the result.
 
 ### Sera Quill · School of the Oath · an annotated charter
 - **Tic** — every claim gets a clause number and a note, and the note is where she says the true thing.
@@ -71,7 +98,7 @@ Genre from `SEVEN_VOICES`. Everything else is this document.
 - **Pleasure** — a marginal annotation by a predecessor she disagrees with. She keeps those.
 - **Refusal** — will not name which promise she broke.
 - **Interlocutor** — Merrow, dead, whose reasoning she cites in order to overrule.
-- **Live cost** — she is currently keeping a clause she believes is wrong, and has recorded that she believes it is wrong, and is keeping it anyway.
+- **Learning edge** — she can keep an inheritance intact and named. What she is working on is how to hand one to somebody who will change it, without recording the change as damage.
 
 ### Irix Vale · School of the Pattern · an engineering monograph
 - **Tic** — *in practice*, and references to figures that are not reproduced. Numbers things that do not need numbering.
@@ -79,7 +106,7 @@ Genre from `SEVEN_VOICES`. Everything else is this document.
 - **Pleasure** — elegance, openly. He will admire a mechanism that hurt somebody and say so in the same paragraph.
 - **Refusal** — will not estimate how many people a system will cost before it is built. Says the estimate is the failure.
 - **Interlocutor** — whoever wrote the original specification, whom he holds in contempt and resembles.
-- **Live cost** — he still designs before he asks. He has a rule against it, in writing, which he has broken twice this year.
+- **Learning edge** — his designs hold. What he is working on is asking first, which he now does, and which he is still slower at than designing.
 
 ### Elian Cross · School of the Bridge · a negotiation casebook
 - **Tic** — presents both positions before offering one, always, even when one is obviously wrong.
@@ -87,7 +114,7 @@ Genre from `SEVEN_VOICES`. Everything else is this document.
 - **Pleasure** — a transcript where both parties changed a word and neither noticed.
 - **Refusal** — will not say who was right. Ends cases without verdicts.
 - **Interlocutor** — the delegate he translated accurately and who lost anyway.
-- **Live cost** — the eleven years unthanked, ongoing, not eleven years ago.
+- **Learning edge** — the terms hold. What he is working on is the eleven years unthanked, ongoing, and whether wanting the sentence is a defect in him or a condition of the work.
 
 ### Thalen Orr · School of the Horizon · a commentary on the other five
 - **Tic** — cites the others by name, agrees with them inside their own school, then qualifies. Longest sentences in the book.
@@ -95,7 +122,7 @@ Genre from `SEVEN_VOICES`. Everything else is this document.
 - **Pleasure** — a joke that is true. The only Head funny on purpose, per `HEAD_REGISTERS`.
 - **Refusal** — whether the school has returned more than it has taken.
 - **Interlocutor** — all five of them at once, which is why the sentences run long.
-- **Live cost** — he is still writing in other people's margins and nobody writes in his. Chapter 8 is where that changes.
+- **Learning edge** — he can read all five schools at once. What he is working on is being read, which he has no practice at. Chapter 8 is where that starts.
 
 ## 4 · How a pass gets judged
 
@@ -110,9 +137,10 @@ spread is worse**, whatever else it did. Ash and Cross want measuring when draft
 sorts them. `SEVEN_VOICES` sets this bar itself: *the reader adjusts inside two sentences
 without being told.* If two passages could swap Heads, the pass failed.
 
-**c · Live cost present.** Grep each Head's material for a present-tense admission. Absent
-means the Head has completed their move, which `HEAD_REGISTERS` says leaves them nothing to
-teach.
+**c · Learning edge present.** Grep each Head's material for a present-tense sentence naming
+what they are working on. Absent means the Head has arrived, and an arrived teacher has
+nothing to model. Present but phrased as failure means the craft axis has slipped into the
+satisfaction axis, which is the error corrected in §1.
 
 ## 5 · What exaggeration is not
 
