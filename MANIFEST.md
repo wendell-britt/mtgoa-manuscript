@@ -5,19 +5,24 @@ Book ships 2026-08-01.
 
 ## manuscript/
 
-The nine chapter files. This is the book. 97,738 words.
+The nine chapter files. This is the book. 97,013 words of body text.
+
+Re-measured 2026-07-30, frame stripped, whitespace-split. The 97,738 total this
+file carried was a true figure at `e662f84`, before the register fan-out. The
+fan-out and the W8/W9 passes then cut 1,245 words and this file was never re-run.
+`specs/SPEC_EMDASH_AND_DENSITY_2026-07-29.md` documents the decline.
 
 | File | Words |
 |---|---|
-| ch1.md — The Infinite Arcade | 7,527 |
-| ch2.md — The Forest | 7,187 |
-| ch3.md — Shaman | 15,096 |
-| ch4.md — Challenger | 11,093 |
-| ch5.md — Regent | 8,820 |
-| ch6.md — Architect | 9,835 |
-| ch7.md — Diplomat | 12,818 |
-| ch8.md — Sage | 13,292 |
-| ch9.md — The Player | 12,070 |
+| ch1.md — The Infinite Arcade | 7,461 |
+| ch2.md — The Forest | 7,193 |
+| ch3.md — Shaman | 15,237 |
+| ch4.md — Challenger | 11,042 |
+| ch5.md — Regent | 8,859 |
+| ch6.md — Architect | 9,771 |
+| ch7.md — Diplomat | 12,307 |
+| ch8.md — Sage | 13,086 |
+| ch9.md — The Player | 12,057 |
 
 **Not written, and both are hard print blockers:** Appendix — The Polarity Map
 (closes open references at ch3:623, ch4:148, ch5:188, ch6:151, ch7:121) and

@@ -40,7 +40,7 @@ Four tools plus one editorial agent (§2b), one loop. They are complementary, no
 |---|---|---|
 | `instruments/gate.py` | **Hard canon gate** — banned words, And/But openers, A0, negation stacks, em-dash joins. Scores body and margin separately. | **Yes.** Both surfaces. Margin passes clean today; body carries 6 pre-existing hits (see §4·W1). |
 | `marginalia/review.py` | **Candidate finder** — AI shapes, say-the-noun, hedges, voice/genre markers, moves-without-test. | No. Every finding is adjudicated by a human or a review agent. BLOCK means *adjudicate before Wendell sees it*, not *auto-fix*. |
-| `marginalia/compile.py` | Frame build. `--check` / `--apply` / `--strip` / `--verify`. | `--verify` must stay byte-identical at 97,738 body words. |
+| `marginalia/compile.py` | Frame build. `--check` / `--apply` / `--strip` / `--verify`. | `--verify` must stay byte-identical at 97,013 body words (re-measured 2026-07-30; the 97,738 this row carried was stale). |
 | `instruments/dupes.py` | Cross-chapter duplicate scanner. | Run on all new prose before insertion. |
 
 **The loop, repo-native** (replaces the handoff's §The loop):

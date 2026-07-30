@@ -1,7 +1,51 @@
 # Book Work Tracker — MTGOA
 **Created:** 2026-04-14
-**Last Updated:** 2026-07-29
+**Last Updated:** 2026-07-30
 **Status:** All 8 chapters complete — Editorial Pass Phase
+
+---
+
+## Session — 2026-07-30 · the developmental beliefs, and a word-count correction
+
+Branch `claude/self-sabotage-ally-beliefs-a9lhzu`.
+
+**ch3 §5 — "What You Install Instead" (new subsection, +427 body words).** The six
+Controller verdicts now come with the developmental belief that replaces each one,
+in a three-column table: the verdict, the flat inversion that re-enters the same
+court, and the belief that installs because it names a process rather than a
+standing. Sits between the don't-argue-with-the-verdict paragraph and the
+Feeling/Function hinge, whose opening pronoun was repointed at the named move. The
+Section 7 recap names the second set, and its "separating them" got its noun.
+
+**The six stay six.** "I'm not safe" was drafted in as a seventh and pulled back
+out: sabotage begins with the Controller, and safety is the Protector's ruling.
+
+**ch2 §6 — blanket bracing vs. vigilance (+93 body words).** Answers "not safe"
+behaviorally instead, in "The Protector, up close": bracing everywhere is the
+cheap way to do the job, and vigilance costs aim. Connects ch2's untargeted
+vigilance that "just hums" to the threat-discrimination move already written four
+paragraphs later. Chosen over a seventh belief on the ICA evidence — the 8 Gates
+are the book's biggest stay-stuck risk, Protector is the gate this reader is
+likeliest to claim as hers, and ch5 is praised in the ideal-reader report for
+dropping the 6-beliefs block rather than extending it.
+
+**Word counts re-measured, and they were wrong before this session.** Body text is
+**97,013** (frame stripped, whitespace-split), not the 97,738 in `MANIFEST.md` and
+`specs/MANUSCRIPT_FILE_CANON.md` — those overstated it by 1,245 words. 97,738 was
+true at `e662f84`, before the register fan-out; the fan-out and the W8/W9 passes
+cut it to 96,468 and neither doc was re-run. `MANIFEST.md` (total plus all nine
+rows), `MANUSCRIPT_FILE_CANON.md` (four figures), `SPEC_FINISHING_PASS` (the
+`--verify` gate) and the em-dash spec's historical table are corrected and dated.
+
+**Gates, every counter against the pre-session commit:** `gate.py` body 0/0/0/0/0
+plus the 2 pre-existing ch4 Ash token placeholders; `review.py` voice BLOCK 1 /
+WARN 18 / INFO 3 and body BLOCK 28 / WARN 43 / INFO 162, both identical; anchors
+clean; `compile.py --verify` byte-identical; `dupes.py` clean. New prose scored
+under baseline on all five `prose_diet.py` measures. `/no-ai-slop` run on both
+drafts before insertion.
+
+**Still open:** both appendices, front matter, TOC, back matter, the wu xing
+acknowledgment.
 
 ---
 

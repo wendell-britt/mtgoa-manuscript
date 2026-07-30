@@ -106,6 +106,11 @@ splitter and are not comparable to one another.
 | `2d7d866` after the fan-out | 41.3 | 1.44× | 25.6% | 1,290 | 97,006 |
 | after the W8 and W9 batches | 40.9 | 1.42× | 25.7% | 1,222 | 96,835 |
 
+The word column is a historical record, not the current figure. The decline
+continued to 96,468 by `ebf5fda`; body text stands at **97,013** as of
+2026-07-30. `MANIFEST.md` and `specs/MANUSCRIPT_FILE_CANON.md` carried the
+`e662f84` figure until then.
+
 Two things fall out of that table, one reassuring and one not:
 
 - **The register fan-out did not buy its copula win with short sentences.**
