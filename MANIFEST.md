@@ -81,10 +81,21 @@ token — that counter is the only thing between a placeholder and the typesette
 | Component | Words | State |
 |---|---|---|
 | `front_matter/half_title.md` | 6 | done |
-| `front_matter/title_page.md` | 24 | `⟦IMPRINT⟧` |
-| `front_matter/copyright.md` | 340 | 5 tokens; carries all source permissions |
+| `front_matter/title_page.md` | 21 | done |
+| `front_matter/copyright.md` | 336 | done — carries all source permissions |
 | Table of contents | generated | `build_book.py --toc` |
-| `back_matter/about_the_author.md` | 23 | 3 tokens; structure only |
+| `back_matter/about_the_author.md` | 47 | done |
+
+**All ten placeholders closed 2026-07-30**, on three facts: the book is
+self-published, Wendell designed it, and no ISBN has been assigned. Those settle
+the page rather than leaving it blank — the imprint and publisher-address blanks
+were asking for things that do not exist, so `Published by Wendell Britt` replaces
+both, and the designer credit is his. Author website is `masteringallyship.com`,
+the domain ch9 already prints as the certification contact.
+
+**No ISBN is assigned, so the ISBN lines are out of this edition rather than
+blank.** An ebook needs none to ship on most platforms. They go back in when a
+print run makes one necessary; nothing in the build depends on them.
 
 Optional and unwritten: dedication, author's note, acknowledgements, enrollment
 page. The enrollment page waits on R1.

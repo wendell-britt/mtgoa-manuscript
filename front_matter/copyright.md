@@ -3,18 +3,14 @@
 Copyright © 2026 by Wendell Britt
 
 All rights reserved. No part of this book may be reproduced in any form without
-written permission from the publisher, except by a reviewer quoting brief
-passages in a review.
+written permission from the author, except by a reviewer quoting brief passages in
+a review.
 
-Published by ⟦IMPRINT⟧
-⟦PUBLISHER-ADDRESS⟧
+Published by Wendell Britt
 
 First edition, 2026
 
-ISBN ⟦ISBN-PRINT⟧ (paperback)
-ISBN ⟦ISBN-EBOOK⟧ (ebook)
-
-Cover and interior design by ⟦DESIGNER⟧
+Cover and interior design by Wendell Britt
 
 ## Sources and permissions
 
@@ -42,6 +38,10 @@ The Genius Demon Ally, which is where the daemons in Chapter 2 come from, is
 *Leverage points*, used throughout Chapter 6, is **Donella Meadows'** term of art,
 from *Thinking in Systems* and "Leverage Points: Places to Intervene in a System."
 
+The five emotional channels are a remix of **wu xing**, the five-phase system of
+classical Chinese medicine. Chapter 3 says what the remix changed and Appendix G
+points at the original.
+
 The three emotional-body practices in Appendix D are drawn from the author's
 *Igniting Joy*.
 
@@ -55,4 +55,4 @@ failure of it.
 
 Names and identifying details in the examples have been changed.
 
-⟦AUTHOR-WEBSITE⟧
+masteringallyship.com

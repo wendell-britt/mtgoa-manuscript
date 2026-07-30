@@ -8,9 +8,9 @@ state.
 
 | Blocker | State |
 |---|---|
-| B1 — gate fails | **13 hits, all Wendell's.** `⟦ASH-AGE⟧` / `⟦ASH-SPAN⟧` in ch4 (R9), ch3's A0 (R8), ten front-matter facts. |
+| B1 — gate fails | **3 hits, down from 13.** Only `⟦ASH-AGE⟧` / `⟦ASH-SPAN⟧` in ch4 (R9) and ch3's A0 (R8). The ten front-matter facts closed 2026-07-30. |
 | B2 — appendices never gated | **Closed.** 27 hits on first run, now 0 across every counter. |
-| B3 — front and back matter | **Drafted.** Half title, title page, copyright, about-the-author. Every unsourced fact is a `⟦TOKEN⟧` the gate fails on. |
+| B3 — front and back matter | **Closed 2026-07-30.** Half title, title page, copyright, about-the-author all complete; zero tokens. ISBN lines deliberately absent — none assigned, and an ebook needs none. |
 | B4 — nothing built a book | **Closed.** `instruments/build_book.py --write` emits 114,691 words. Spine complete. |
 | §3 — appendices describe the retired book | **Closed.** C retired, A/B/F/G revised, D/E gated. |
 | §4 — Five Channels unlettered | **Closed.** Took letter C. |
@@ -20,8 +20,10 @@ state.
 
 **What is left, in order:**
 
-1. The ten front-matter facts, `⟦ASH-AGE⟧` / `⟦ASH-SPAN⟧`, and R8. Wendell only —
-   the gate cannot go green without them.
+1. **`⟦ASH-AGE⟧` / `⟦ASH-SPAN⟧` (R9) and ch3's A0 (R8). These are the only two
+   things left between this book and a green gate**, and both are Wendell's. The ten
+   front-matter facts closed 2026-07-30.
+   *Deferred, not blocking:* an ISBN, when a print run needs one.
 2. **R13–R15, R17, R18**, opened while doing the work and listed in
    `SPEC_FINISHING_PASS_2026-07-29.md`. **R16 is withdrawn — it was my misreading**,
    not a defect in the manuscript; see that spec for the correction.
