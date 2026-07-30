@@ -193,7 +193,7 @@ Each mode also opens a doorway. Depending on which one activates for you, it lea
 - **Elder** → if what you're called to do is teach, pass on, run workshops, give other people the vocabulary — the deck is what you run the session from. It works without you standing in the middle of it, once you know it well enough to get out of the way.
 - **Outlaw** → if what you see is a structure that needs to be challenged, broken, or rebuilt — that's also allyship work. It is the mode the deck is worst at prompting on its own, so you draw for it on purpose.
 
-The modes loop. Each pass through goes deeper. The walk is the thing.
+The modes loop, and each pass through goes deeper. The deck outlasts any single trip through it.
 
 ---
 

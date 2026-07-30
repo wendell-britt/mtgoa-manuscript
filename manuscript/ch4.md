@@ -660,7 +660,7 @@ In practice: Before a hard conversation, write down what you need to say. Then t
 
 **What it is:** Stay.
 
-You do not need their immediate comfort to validate your boundary. You do not need everyone to immediately reorganize around your no. You said the thing. The thing is true. You hold it.
+You do not need their immediate comfort to validate your boundary. You do not need everyone to immediately reorganize around your no. You drew the line, it is true, and holding it is now the entire job.
 
 **Why it matters:** Most lines fail not because they were badly drawn but because the person who drew them could not tolerate the discomfort of having drawn it. They softened. They clarified until the line was no longer a line. They apologized until the boundary was no longer a boundary. The Challenger knows: *the discomfort of holding a line is less costly than the cost of not holding it.* The short-term discomfort of staying always costs less than abandoning the boundary.
 

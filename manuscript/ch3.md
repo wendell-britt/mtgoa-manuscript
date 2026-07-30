@@ -125,8 +125,6 @@ Nothing says "belonging" quite like replacing the people who had to love you wit
 ## Section 3: The Concept
 ### *What Emotional Alchemy Actually Is (And Why It's Not What You've Been Told)*
 
-Before the practice comes the word, because it gets used for something much smaller than what this chapter teaches.
-
 The village shrinks alchemy into processing: *identify* the emotion, *understand* where it came from, *release* it, and then *move on.* That model treats emotions like a problem that has a solution. Once you solve it, it's gone.
 
 Emotional alchemy is the practice of staying in relationship with the full spectrum of human feeling, and letting those feelings teach you something that changes who you are.
