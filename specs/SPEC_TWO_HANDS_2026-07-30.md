@@ -106,19 +106,65 @@ are the author's own, and the signature marks the turn.
 Said once in apparatus, the reader carries the convention through all six chapters and no
 line in the body ever has to reach across.
 
-### One honest complication
+### The `ch3:384` call, settled by Wendell's own test
 
-**`ch3:384` is Wendell's, and it sits inside Section 3** — the *wu xing* sourcing note,
-which is the most clearly authorial paragraph in the front half of any chapter. Under the
-signature convention it stops being a judgment call and becomes a defect: Voss cannot cite
-classical Chinese medicine or say *"what follows is my remix"* above her own signature. **It
-moves below the seam.** It stays inside ch3, so `copyright.md`'s existing pointer — *"Chapter
-3 says what the remix changed"* — survives the move untouched.
+Wendell 2026-07-30: *"Voss COULD cite classical chinese medicine if they have been to earth,
+which I do think we can allow for in the fiction, but we'd have to say that. Otherwise we
+need that attribution to exist later in the book. Since Voss is writing his treatise then we
+just need to make sure he's met his teaching goals and if emotional alchemy NEED wuxing to
+get the point across at that part of the text."*
 
-The same sweep has to catch every other authorial sentence sitting above a signature. That
-is a measurement rather than a judgment, and it is the one piece of work this convention
-creates: **six chapters, Sections 1–3, find every sentence only Wendell could have
-written.**
+Three measurements answer it.
+
+**1. The attribution is already discharged twice outside the fiction.**
+
+| where | what it says |
+|---|---|
+| `front_matter/copyright.md:41` | *"The five emotional channels are a remix of **wu xing**… Chapter 3 says what the remix changed and Appendix G points at the original."* |
+| `appendices/ON_THE_SHOULDERS_OF.md:20` — **this is Appendix G** | the full paragraph, with 五行, the two-thousand-year gap, the relocation of grief and fear *"against their will"*, and a real citation: **Ted Kaptchuk, *The Web That Has No Weaver*** |
+| `manuscript/ch3.md:384` | the same three claims, inside Voss's treatise |
+
+So *"otherwise we need that attribution to exist later in the book"* is already satisfied,
+in apparatus, with a source attached. The chapter passage is the third copy.
+
+**2. It fails the teaching test at its own position.** `ch3:384` sits between
+`### The Five Elements` (373) and the channel table (392) — it is a preface to a table. The
+table teaches the five channels without it. What the passage adds is *provenance*, plus a
+warning that the correspondences are non-standard, and that warning is only usable by a
+reader who goes looking, which is the moment Appendix G exists for and already covers.
+
+**3. Both apparatus pointers depend on the passage staying in ch3.** copyright.md says
+*"Chapter 3 says what the remix changed"*; Appendix G says *"As I confess in that chapter."*
+**Moving it below the seam keeps it in ch3, so both cross-references survive untouched.**
+Deleting it would break two.
+
+### Why not open Earth travel
+
+It is available and it costs more than the paragraph is worth. `MARGIN_ARC.md` puts
+travel-between-worlds in the **annotator's** hands and makes it the Chapter 8 reveal — *"the
+school's name was a place before it was a school"*, *"you can visit homes like yours and
+never live in one again"*, *"the ship is that condition with a hull around it"* — under an
+explicit rule that **nothing is ever set up.** Establishing in Chapter 3 that a Head has been
+to Earth spends that reveal five chapters early, for one citation the apparatus already
+carries.
+
+It would also generalise: if the Schools can reach Earth, the reader will ask why no other
+Head cites anything, and five more treatises acquire a question they cannot answer.
+
+**Ruling recorded: `ch3:384` moves below the seam, stays in ch3, Earth travel stays closed
+and stays the annotator's.**
+
+### The sweep this creates
+
+`ch3:384` is the known case. The convention requires the rest: **six chapters, Sections 1–3,
+every sentence only Wendell could have written.** A measurement, not a judgment, and it does
+not need the four Head facts.
+
+**One thing found on the way, and it is worse than the wu xing paragraph.** Measured in ch3:
+**Voss appears 0 times in the body text.** Both occurrences are in the margin and the
+epigraph. The Head who signs the first treatise is not in it. That is the flatness finding
+from §3 in its most extreme form, and it means ch3's register paragraph is not a touch-up —
+there is no character on the page to touch up.
 
 ## 3 · Why the voices are flat: the register pass never shipped for five of six Heads
 
