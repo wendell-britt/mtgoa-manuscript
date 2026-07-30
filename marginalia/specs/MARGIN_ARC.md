@@ -145,12 +145,15 @@ Why the replacement is stronger:
 - **It gives five flat voices one more turn**, in the chapter where the reader is most alert.
   That is the cheapest available fix for the problem `SPEC_TWO_HANDS` §3 measures.
 
-**Wendell's call — the *home* beat.** Chapter 8's arc beat belongs to the annotator, and if he
-is silent in his own chapter somebody else has to carry it. **Recommendation: he writes exactly
-one note in ch8, the *home* one, and the other five write the rest.** The anonymous hand
-appearing once beside five named ones is the reveal, and it lets the word arrive in the mouth it
-belongs to. Having one of the five quote him saying it is weaker, because the grief becomes
-hearsay.
+**RULED 2026-07-30 — the *home* beat is his.** Wendell: *"ok he writes one in his own chapter."*
+
+So ch8's margin holds **six notes: five signed by the other Heads, one unsigned.** The unsigned
+one carries *home*. The anonymous hand appearing exactly once, beside five named ones, is the
+reveal — and the word arrives in the mouth it belongs to instead of becoming hearsay in
+somebody else's.
+
+`NOTES[8]` already holds six notes, so the count is right without adding any. The existing
+*Damaged Self, Up Close* anchor is the natural site for the unsigned one.
 
 **Mechanism.** `NOTES[8]` holds six unattributed notes today. Attribution is a new shape for the
 system: `insertions.py` needs a speaker per note for ch8 and `compile.py` needs to render it.

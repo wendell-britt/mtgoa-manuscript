@@ -82,10 +82,6 @@ have these, and the book already has the fixture — the Gates. Optional, flagge
 because we need to be legible if we are enrolling students. no handwaving."* Plain language,
 over-explained, slightly patronising. The mythos lives in the school names and nowhere else.
 
-**A handbook condescends, and that is licence.** Wendell: *"we do get to condescend a bit
-because we need to be legible if we are enrolling students. no handwaving."* Plain language,
-over-explained, slightly patronising. The mythos lives in the school names and nowhere else.
-
 ## 2 · Where it sits
 
 The signature move already made each chapter a bounded document. This completes the stack:
@@ -225,6 +221,61 @@ assuming a self-versus-other trade-off that does not exist.
 Clause 4 is the strongest argument for the feature. The gap analysis books referral for a
 second edition. A school that says *"send it to the School of the Bridge"* **teaches referral
 by performing it**, in a genre where referral is unremarkable.
+
+## 5a · The referral map — PROPOSED, approve or veto
+
+Clause 4 needs this for all six and it was blocking every page. Each referral is a genuine
+limit of that school rather than a courtesy, which is what keeps the clause from reading as
+false modesty.
+
+| school | what it cannot do | sends to |
+|---|---|---|
+| **Body** | reads the signal, cannot act on it | **the Line** |
+| **Line** | draws the limit, cannot repair afterward | **the Bridge** |
+| **Bridge** | gets terms, cannot make them outlast the people who signed them | **the Oath** |
+| **Oath** | keeps and changes an inheritance, cannot fix the machine that keeps producing the erasure | **the Pattern** |
+| **Pattern** | redesigns the system, cannot help the person the redesign will not reach in time | **the Horizon** |
+| **Horizon** | sees which game is being played, does not play any of them | **whichever of the five the moment needs** |
+
+The Horizon's clause is the odd one and it should be. A school that refers to all five is
+telling you what it is, and it is the only clause 4 in the set that is also a curriculum.
+
+**One consequence worth seeing:** Body → Line → Bridge → Oath → Pattern → Horizon is the
+book's chapter order. The referrals run forward through the arc without being made to, which
+means the reader meets each school already knowing why the last one handed her on.
+
+## 5b · Candidate facts — pick, edit, or reject
+
+`HEAD_REGISTERS` specifies the shape of each and leaves the content to Wendell, and four are
+still empty. They block clause 6 for five of six handbooks **and** the five register paragraphs
+in `SPEC_TWO_HANDS` §3. Offered as candidates purely to save a blank page — every one is
+disposable and none is canon until Wendell says so.
+
+**`⟦VOSS-SPAN⟧`** — how long she knew the thing before she said it.
+  · *eleven years* (matches the citizen epigraph's *"I had been carrying it eleven years"*, so
+    the student's line and the Head's line rhyme without either explaining the other)
+  · *two winters*
+  · *the length of somebody's marriage*
+
+**`⟦QUILL-CLAUSE⟧`** — the clause she kept that cost her.
+  · *a naming rule she did not believe in, kept because the people it named were not there to
+    be asked*
+  · *the clause that let a predecessor be remembered accurately*
+  · *a right of refusal nobody had used in forty years*
+
+**`⟦VALE-SYSTEM⟧`** — the system whose specification ate someone.
+  · *a rota he designed that was correct and cost one person their house*
+  · *an intake process that worked perfectly and was never once used by the people it was for*
+  · *a queue that a man died at the back of*
+
+**`⟦ORR-DEFLECTION⟧`** — the question he will not answer about himself.
+  · *whether he would go back*
+  · *what he was doing the year the school was still a place*
+  · *who taught him*
+
+`⟦ORR-DEFLECTION⟧` now carries extra weight: he is the Headmaster and the annotator, so his
+refusal is the book's last withheld thing before ch9 offers the berth. Worth Wendell's own
+words rather than mine.
 
 ## 6 · Worked sample — the School of the Line
 
