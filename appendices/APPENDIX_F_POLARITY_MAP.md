@@ -23,10 +23,9 @@ The pair changes with altitude. The map doesn't.
 
 ## The full process
 
-```
-    POLE A  ←——————————●——————————→  POLE B
-                  (you are here)
-```
+**POLE A** ←——●——→ **POLE B**
+
+*The dot is where you are.*
 
 **1. Name the charge.** The specific scene, not the abstract issue. "Yesterday's meeting when I said nothing," not "speaking up at work."
 

@@ -212,26 +212,26 @@ You know this tension from the inside. The practices you inherited from the work
 
 The draw is solo. Not a conflict between you and another person. Your inheritance. Your axis. What you personally received, kept, and are now in the middle of deciding about.
 
-```
-Try this now.
+**Try this now.**
 
 1. Name one inheritance you carry in allyship work — a practice, norm, or loyalty
    you didn't invent but keep performing. (One sentence.)
 
 2. Draw the axis:
-   HONOR WHAT WAS PASSED  ←——●——→  REFORM WHAT NO LONGER SERVES
+
+   **HONOR WHAT WAS PASSED** ←——●——→ **REFORM WHAT NO LONGER SERVES**
+
    Mark where you are today.
 
 3. Write one integrated sentence — both poles in the same statement:
-   "I stay with __________ because it still __________,
-    and I need __________ to change before I can keep showing up honestly."
+   *"I stay with __________ because it still __________,
+   and I need __________ to change before I can keep showing up honestly."*
 
 4. Sit 30 seconds. Notice: heaviness (pole A stuck) or heat (pole B stuck) or ground (integrated).
 
-Back to the chapter.
-```
+*Back to the chapter.*
 
-*For the full process and additional pairs, see Appendix: The Polarity Map.*
+*For the full process and additional pairs, see Appendix F: The Polarity Map.*
 
 ---
 

@@ -145,27 +145,27 @@ One part of this belongs specifically to this reader, and it explains why the ax
 
 The draw is relational. Not solo. Pick a live field with actual people in it, because this axis only shows its position when something is at stake between you and somebody else.
 
-```
-Try this now.
+**Try this now.**
 
 1. Name one relationship in your allyship work where something needed
    saying and has not been said. (One sentence.)
 
 2. Draw the axis:
-   CARE FOR THE RELATIONSHIP  ←——●——→  IMPACT ON THE SITUATION
+
+   **CARE FOR THE RELATIONSHIP** ←——●——→ **IMPACT ON THE SITUATION**
+
    Mark where you have actually been sitting. Not where you'd like to be.
 
 3. Write one integrated sentence — both poles in the same statement:
-   "I protect __________ because it makes __________ possible,
-    and the thing I have not yet said is __________."
+   *"I protect __________ because it makes __________ possible,
+   and the thing I have not yet said is __________."*
 
 4. Sit 30 seconds. Notice: heaviness (Care stuck) or heat (Impact stuck)
    or ground (integrated).
 
-Back to the chapter.
-```
+*Back to the chapter.*
 
-*For the full process and additional pairs, see Appendix: The Polarity Map.*
+*For the full process and additional pairs, see Appendix F: The Polarity Map.*
 
 ---
 

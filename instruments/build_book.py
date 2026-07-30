@@ -27,47 +27,65 @@ APX = os.path.join(ROOT, "appendices")
 FRONT = os.path.join(ROOT, "front_matter")
 BUILD = os.path.join(ROOT, "build")
 
-# The book, in printed order. `required` means the build fails without it.
+# The book, in printed order.
 #
-#   kind   front | chapter | appendix | back
-#   path   relative to repo root, or None where nothing has been written yet
+#   kind    front | chapter | appendix | back
+#   path    relative to repo root, or None where the component is generated
+#   level   BLOCKER | GAP | OPTIONAL
 #
-# Front and back matter carry path=None until somebody writes them. That is the
-# point: the gap is enforced by the builder rather than asserted in a planning
-# document, because the planning documents have been wrong about exactly this.
-SPINE = [
-    ("front",    "Half title",              "front_matter/half_title.md",        True),
-    ("front",    "Title page",              "front_matter/title_page.md",        True),
-    ("front",    "Copyright page",          "front_matter/copyright.md",         True),
-    ("front",    "Dedication",              "front_matter/dedication.md",        False),
-    ("front",    "Table of contents",       None,                                True),  # generated
-    ("front",    "Author's note",           "front_matter/authors_note.md",      False),
+# Three levels, not two, because the two-level version lied. Acknowledgements, the
+# author's note, and the enrollment page were all marked "not required" so that the
+# spine would report complete, and it did — while three components Wendell counts as
+# necessary were missing. A reader notices their absence; the builder did not.
+#
+#   BLOCKER   there is no book without it. --write refuses.
+#   GAP       the book assembles and the reader will notice. --write emits, and
+#             stamps a banner naming what shipped incomplete.
+#   OPTIONAL  a book is allowed not to have one.
+#
+# GAP exists because the deliverable is an ebook that gets updated after release.
+# Refusing to build over a missing acknowledgements page would be the instrument
+# substituting its judgment for a shipping decision that is Wendell's to make. Its
+# job is to make the gap impossible to forget, not impossible to ship.
+BLOCKER, GAP, OPTIONAL = "BLOCKER", "GAP", "OPTIONAL"
 
-    ("chapter",  "Chapter 1",               "manuscript/ch1.md",                 True),
-    ("chapter",  "Chapter 2",               "manuscript/ch2.md",                 True),
-    ("chapter",  "Chapter 3",               "manuscript/ch3.md",                 True),
-    ("chapter",  "Chapter 4",               "manuscript/ch4.md",                 True),
-    ("chapter",  "Chapter 5",               "manuscript/ch5.md",                 True),
-    ("chapter",  "Chapter 6",               "manuscript/ch6.md",                 True),
-    ("chapter",  "Chapter 7",               "manuscript/ch7.md",                 True),
-    ("chapter",  "Chapter 8",               "manuscript/ch8.md",                 True),
-    ("chapter",  "Chapter 9",               "manuscript/ch9.md",                 True),
+SPINE = [
+    ("front",    "Half title",              "front_matter/half_title.md",        BLOCKER),
+    ("front",    "Title page",              "front_matter/title_page.md",        BLOCKER),
+    ("front",    "Copyright page",          "front_matter/copyright.md",         BLOCKER),
+    ("front",    "Dedication",              "front_matter/dedication.md",        OPTIONAL),
+    ("front",    "Table of contents",       None,                                BLOCKER),  # generated
+    # The author's note is where the edition states what it is and is not. On a
+    # book that ships deliberately incomplete, that page is the integrity.
+    ("front",    "Author's note",           "front_matter/authors_note.md",      GAP),
+
+    ("chapter",  "Chapter 1",               "manuscript/ch1.md",                 BLOCKER),
+    ("chapter",  "Chapter 2",               "manuscript/ch2.md",                 BLOCKER),
+    ("chapter",  "Chapter 3",               "manuscript/ch3.md",                 BLOCKER),
+    ("chapter",  "Chapter 4",               "manuscript/ch4.md",                 BLOCKER),
+    ("chapter",  "Chapter 5",               "manuscript/ch5.md",                 BLOCKER),
+    ("chapter",  "Chapter 6",               "manuscript/ch6.md",                 BLOCKER),
+    ("chapter",  "Chapter 7",               "manuscript/ch7.md",                 BLOCKER),
+    ("chapter",  "Chapter 8",               "manuscript/ch8.md",                 BLOCKER),
+    ("chapter",  "Chapter 9",               "manuscript/ch9.md",                 BLOCKER),
 
     # Appendix C is the Key Terms glossary. A parallel branch retired it and gave
     # the letter to The Five Channels in Practice; master is instead repairing the
     # glossary in place. That is an open decision, so this spine follows master and
     # the Five Channels stays unplaced — see the UNPLACED report below.
-    ("appendix", "Appendix A",  "appendices/APPENDIX_A_FOUR_ALLYSHIP_DOMAINS.md",     True),
-    ("appendix", "Appendix B",  "appendices/APPENDIX_B_QUESTS_CAMPAIGNS.md",          True),
-    ("appendix", "Appendix C",  "appendices/APPENDIX_C_KEY_TERMS.md",                 True),
-    ("appendix", "Appendix D",  "appendices/APPENDIX_D_EMOTIONAL_ALCHEMY_PRACTICES.md", True),
-    ("appendix", "Appendix E",  "appendices/APPENDIX_E_321_SHADOW_PROCESS.md",        True),
-    ("appendix", "Appendix F",  "appendices/APPENDIX_F_POLARITY_MAP.md",              True),
-    ("appendix", "Appendix G",  "appendices/ON_THE_SHOULDERS_OF.md",                  True),
+    ("appendix", "Appendix A",  "appendices/APPENDIX_A_FOUR_ALLYSHIP_DOMAINS.md",     BLOCKER),
+    ("appendix", "Appendix B",  "appendices/APPENDIX_B_QUESTS_CAMPAIGNS.md",          BLOCKER),
+    ("appendix", "Appendix C",  "appendices/APPENDIX_C_KEY_TERMS.md",                 BLOCKER),
+    ("appendix", "Appendix D",  "appendices/APPENDIX_D_EMOTIONAL_ALCHEMY_PRACTICES.md", BLOCKER),
+    ("appendix", "Appendix E",  "appendices/APPENDIX_E_321_SHADOW_PROCESS.md",        BLOCKER),
+    ("appendix", "Appendix F",  "appendices/APPENDIX_F_POLARITY_MAP.md",              BLOCKER),
+    ("appendix", "Appendix G",  "appendices/ON_THE_SHOULDERS_OF.md",                  BLOCKER),
 
-    ("back",     "Acknowledgements",        "back_matter/acknowledgements.md",   False),
-    ("back",     "About the author",        "back_matter/about_the_author.md",   True),
-    ("back",     "Enrollment page",         "back_matter/enrollment.md",         False),
+    ("back",     "Acknowledgements",        "back_matter/acknowledgements.md",   GAP),
+    ("back",     "About the author",        "back_matter/about_the_author.md",   BLOCKER),
+    # The enrollment page is the only place the book can hand a reader the app
+    # deliberately. Twelve mentions of bars-engine and no address is a dead end.
+    ("back",     "Enrollment page",         "back_matter/enrollment.md",         GAP),
 ]
 
 # Live cross-references in canon that name an appendix by title rather than by
@@ -151,7 +169,7 @@ def main():
     frame_blocks = 0
     toc_slot = toc_entry = None
 
-    for kind, label, rel, required in SPINE:
+    for kind, label, rel, level in SPINE:
         if rel is None:                       # generated, not authored
             toc_entry = len(entries)
             present.append((label, 0, "generated"))
@@ -160,7 +178,7 @@ def main():
             continue
         text = read(rel)
         if text is None:
-            missing.append((label, rel, required))
+            missing.append((label, rel, level))
             continue
         frame_blocks += len(MARGINALIA.findall(text))
         entries.append((kind, label, title_of(text, label), subtitle_of(text)))
@@ -199,8 +217,9 @@ def main():
 
     if missing:
         print("\nMISSING — %d component(s):" % len(missing))
-        for label, rel, required in missing:
-            print("  %-8s %-22s %s" % ("BLOCKER" if required else "optional", label, rel))
+        order = {BLOCKER: 0, GAP: 1, OPTIONAL: 2}
+        for label, rel, level in sorted(missing, key=lambda m: order[m[2]]):
+            print("  %-9s %-22s %s" % (level, label, rel))
 
     unresolved = [(name, rel) for name, rel in NAMED_REFERENCES.items()
                   if read(rel) is None or not rel.startswith("appendices/")]
@@ -211,10 +230,15 @@ def main():
             state = "written, unlettered" if read(rel) is not None else "not written"
             print("  %-34s %-38s %s" % (name, rel, state))
 
-    blockers = [m for m in missing if m[2]]
+    # Compare against the level, not its truthiness. Every level is a non-empty
+    # string, so `if m[2]` was true for GAP and OPTIONAL alike and would have made
+    # a missing dedication refuse the build.
+    blockers = [m for m in missing if m[2] == BLOCKER]
+    gaps = [m for m in missing if m[2] == GAP]
+
     if write:
         if blockers:
-            print("\nRefusing to write: %d required component(s) missing." % len(blockers))
+            print("\nRefusing to write: %d BLOCKER(s) missing." % len(blockers))
             return 1
         os.makedirs(BUILD, exist_ok=True)
         stamp = datetime.date.today().isoformat()
@@ -222,11 +246,23 @@ def main():
         body = "\n\n\\newpage\n\n".join(p for p in parts if p is not None)
         io.open(out, "w", encoding="utf-8").write(body)
         print("\nWrote %s (%d words)" % (out, total))
+        if gaps:
+            # Loud, and after the success line, because the success line is the
+            # part that gets read. This edition ships without these.
+            print("\n" + "!" * 62)
+            print("SHIPPING WITH %d GAP(S) — the reader will notice each one:" % len(gaps))
+            for label, rel, _ in gaps:
+                print("  %-22s %s" % (label, rel))
+            print("!" * 62)
         return 0
 
     if blockers:
-        print("\n%d blocker(s) between here and a printable file." % len(blockers))
+        print("\n%d BLOCKER(s) between here and a book." % len(blockers))
         return 1
+    if gaps:
+        print("\nSpine assembles, with %d gap(s): %s."
+              % (len(gaps), ", ".join(m[0] for m in gaps)))
+        return 0
     print("\nSpine complete.")
     return 0
 

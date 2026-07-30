@@ -177,8 +177,7 @@ Here the pair gets specific for the reader this book addresses. The suspicion ru
 
 Neither pole is the answer. The position takes a judgment call every time, and only a directional diagnostic works.
 
-```
-SITUATIONAL DRAW — Structure ↔ Agency
+**Situational draw: Structure ↔ Agency**
 
 Take the last workplace failure you explained to somebody.
 
@@ -186,12 +185,10 @@ Take the last workplace failure you explained to somebody.
 2. Mark it: Structure, Agency, or both.
 3. Now do the same for the four before it.
 
-Five marks. Read the column, not any single row.
-A run of five in one direction is not five judgments.
-It is one habit, applied five times.
-```
+Five marks. Read the column, not any single row. A run of five in one direction
+is not five judgments. It is one habit, applied five times.
 
-*For the full process and additional pairs, see Appendix: The Polarity Map.*
+*For the full process and additional pairs, see Appendix F: The Polarity Map.*
 
 ---
 

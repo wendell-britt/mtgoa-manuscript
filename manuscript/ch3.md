@@ -546,7 +546,7 @@ When the charge is in a **person**, a figure who makes your jaw tighten, start w
 | Stuck between two *rights* | Polarity Map (Chapter 5 → Chapter 7) |
 | Charge is in *body* now | WAVE-Spiral |
 
-*Full process and source (Ken Wilber, Integral Life Practice): Appendix: 3-2-1 Shadow Process. First practice: Chapter 4.*
+*Full process and source (Ken Wilber, Integral Life Practice): Appendix E: The 3-2-1 Shadow Process. First practice: Chapter 4.*
 
 ---
 
@@ -560,10 +560,9 @@ That is not a problem. Problems have solutions. This is a **polarity**: two nece
 
 The pair changes with altitude. The map doesn't.
 
-```
-    POLE A  ←——————————●——————————→  POLE B
-                  (you are here)
-```
+**POLE A** ←——●——→ **POLE B**
+
+*The dot is where you are.*
 
 Draw a line. Name the poles. Mark where you are today. The dot is a diagnostic, not a verdict. You are allowed to move.
 
@@ -576,7 +575,7 @@ Draw a line. Name the poles. Mark where you are today. The dot is a diagnostic, 
 
 Use 3-2-1 when the trigger is a *person*. Use the Polarity Map when you're stuck between two things that both seem necessary. Use WAVE when the charge already sits in your body, ready to move.
 
-*Full polarity reference: Appendix: Polarity Map. First draw: Chapter 4. First field practice: Chapter 7.*
+*Full polarity reference: Appendix F: The Polarity Map. First draw: Chapter 4. First field practice: Chapter 7.*
 
 ---
 
