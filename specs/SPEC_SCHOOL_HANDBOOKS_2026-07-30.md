@@ -267,7 +267,7 @@ the sentence have suffered as a result"* is the observed-history warning, and th
 exclamation mark at the end of clause 3 is the one permitted break in the flatness — earned by
 two flat paragraphs before it, and the only one on the page.
 
-**477 words**, which is over the 200–280 the clause set calls for. Recorded rather than
+**482 words**, which is over the 200–280 the clause set calls for. Recorded rather than
 trimmed: it is the first one written to the corrected brief, and the honest reading is that
 concrete beats compressed, so the budget in §4 is probably the thing that is wrong. Wendell
 should say which gives.
