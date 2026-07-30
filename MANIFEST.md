@@ -1,6 +1,6 @@
-# MTGOA export — measured 2026-07-29
+# MTGOA export — measured 2026-07-30
 
-Book ships 2026-08-01. Every figure below came out of an instrument on 2026-07-29
+Book ships 2026-08-01. Every figure below came out of an instrument on 2026-07-30
 and is reproducible:
 
 ```bash
@@ -20,25 +20,25 @@ without running the instrument.
 
 `instruments/build_book.py --write` assembles front matter, generated contents,
 nine chapters with the frame applied, appendices A–G, and back matter into one
-file. **114,691 words.** Nothing built a book before 2026-07-29; `compiled/` holds
+file. **114,811 words.** Nothing built a book before 2026-07-29; `compiled/` holds
 a stale 2026-05-29 artifact whose builder reads the retired `chapters/` tree.
 
 ## manuscript/ — the nine chapters
 
-**98,332 words of body text. 103,464 with the marginalia frame applied**, which is
+**98,383 words of body text. 103,515 with the marginalia frame applied**, which is
 what the files on disk contain. Strip before measuring anything else.
 
 | File | Body | With frame |
 |---|---|---|
 | ch1.md — The Infinite Arcade | 7,527 | 7,527 |
 | ch2.md — The Forest | 7,190 | 7,886 |
-| ch3.md — The Shaman | 15,264 | 16,040 |
-| ch4.md — The Challenger | 11,258 | 11,993 |
-| ch5.md — The Regent | 8,966 | 9,586 |
-| ch6.md — The Architect | 9,896 | 10,546 |
-| ch7.md — The Diplomat | 12,736 | 13,575 |
-| ch8.md — The Sage | 13,245 | 13,912 |
-| ch9.md — The Player | 12,250 | 12,399 |
+| ch3.md — The Shaman | 15,261 | 16,037 |
+| ch4.md — The Challenger | 11,256 | 11,991 |
+| ch5.md — The Regent | 9,024 | 9,644 |
+| ch6.md — The Architect | 9,898 | 10,548 |
+| ch7.md — The Diplomat | 12,734 | 13,573 |
+| ch8.md — The Sage | 13,243 | 13,910 |
+| ch9.md — Creating Your Own Allyship Game | 12,250 | 12,399 |
 
 Chapter 1 carries no marginalia by design. The frame is **53 blocks** and adds
 5,132 words; `compile.py --verify` confirms the body round-trips byte-identical.
@@ -74,9 +74,9 @@ chapter numbers in B were each one short, F contradicted canon's own statement a
 
 ## front_matter/ and back_matter/
 
-Written 2026-07-29 as drafts on the working branch. Every fact that could not be
-sourced is a `⟦TOKEN⟧` rather than a guess, and `gate.py` fails on any surviving
-token — that counter is the only thing between a placeholder and the typesetter.
+Written 2026-07-29, completed 2026-07-30. Zero placeholders remain. `gate.py`
+fails on any surviving `⟦TOKEN⟧`, and that counter is what kept these honest while
+the facts were still open.
 
 | Component | Words | State |
 |---|---|---|
@@ -115,21 +115,25 @@ found by hand this week. `prose_diet.py` measures the three grammar moves.
 | | |
 |---|---|
 | Gate — body, marginalia, appendices | **0 across every counter** |
-| Gate — front/back matter | **10 tokens**, all awaiting Wendell |
-| `review.py --mode body` | BLOCK **16** · WARN **75** · INFO **167** |
+| Gate — front/back matter | **0** |
+| `review.py --mode body` | BLOCK **16** · WARN **75** · INFO **168** |
 | `review.py --mode voice` | BLOCK **1** — ch4's hedge particles |
 | Denying negations | **9**, every one an adjudicated keep |
 | `which is` appositive tails | **64**, down from 91 |
 | `rather than` | 103 — measured and **withdrawn as a defect**, see the print-readiness spec |
 
-## The 13 open gate hits, all of them Wendell's
+## The 3 open gate hits, and both causes are Wendell's
 
-- `⟦ASH-AGE⟧` and `⟦ASH-SPAN⟧` live in ch4 Section 3 (**R9**)
-- ch3's A0 hit, *"a time you were told something true"* (**R8**)
-- the ten front-matter facts: imprint, two ISBNs, designer, publisher address,
-  website ×2, and three author-bio lines
+- `⟦ASH-AGE⟧` and `⟦ASH-SPAN⟧` live in ch4 Section 3 (**R9**) — two facts about
+  Corin Ash's biography that nobody else can supply
+- ch3's A0 hit, *"a time you were told something true"* (**R8**) — license as a
+  recall-prompt or rewrite
 
-Nothing else in the book is blocked on a person.
+**These two rulings are the whole distance between this book and a green gate.**
+The ten front-matter facts closed on 2026-07-30. Nothing else in the book is
+blocked on a person.
+
+Deferred and not blocking: an ISBN, when a print run needs one.
 
 ## specs/
 
