@@ -48,16 +48,28 @@ T1 = ("BOOK", re.compile(
     r"|\bthe (?:ideal )?reader\b|\bpart (?:one|two|three) of\b"
     r"|\bwhat follows\b|\bby the end of the book\b", re.I))
 
+# WIDENED 2026-07-30 after Wendell asked whether I had read ch3 or only grepped it.
+# I had only grepped it. The first version keyed on named artifacts -- bars-engine, the
+# other title -- and so reported AUTHOR: 0 across all six chapters while ch3:91-107 sat
+# there carrying Wendell's customer-service years, a real book he read, and a game he
+# invented. A tier that only catches proper nouns cannot see a memoir.
+#
+# So this now catches the shape instead: first-person past-tense narration of a life.
+# It over-reports by design, because a Head's own biography in clause 6 looks identical
+# from the outside and the difference is a judgment only a reader can make.
 T2 = ("AUTHOR", re.compile(
-    r"bars-engine|Igniting Joy|\bI wrote\b|\bmy book\b|\bthis manuscript\b"
-    r"|\bI threw out\b|\bwhen I started building\b", re.I))
+    r"bars-engine|Igniting Joy|\bthis manuscript\b"
+    r"|\bI (?:used to|eventually|had to|kept|spent|quit|built|invented|wrote|threw out|"
+    r"started|learned|remember|would|was|am|have been|took|converted|stayed|said)\b"
+    r"|\bI'?d\b|\bI'?ve\b|\bI'?m\b|\bmy (?:book|chest|own|father|mother|life|career|phone)\b"
+    r"|\bwhen I started building\b", re.I))
 
 # Real-world names and systems. Every one of these is checked against the repo's own
 # source appendix rather than guessed at.
 T3 = ("CREDIT", re.compile(
     r"wu xing|五行|Chinese|Kaptchuk|Wilber|\bIntegral\b|Spiral Dynamics|\bGraves\b|\bBeck\b"
     r"|\bEgan\b|Maslach|Meadows|Barry Johnson|Gorski|Yu-kai|\bChou\b|Octalysis"
-    r"|Alan Watts|\bCarse\b|Robin Rice|Wilberian", re.I))
+    r"|Alan Watts|\bCarse\b|Robin Rice|Wilberian|Courage to Be Disliked|Kishimi|Adler", re.I))
 
 # Reported, never flagged: the Earth-world texture the 2026-07-30 ruling permits.
 EARTH = re.compile(r"\bmeeting\b|\bemail\b|\bSlack\b|\boffice\b|\bmanager\b|\bteam\b"
