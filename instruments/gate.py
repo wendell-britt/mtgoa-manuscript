@@ -66,6 +66,33 @@ COUNTERS = [
 ]
 
 
+# Sentence-level exemptions, each one ruled by Wendell on a named date. Keyed on the
+# exact sentence rather than the word, so an exemption cannot silently spread: change
+# the sentence and the exemption stops applying, which is the behaviour we want.
+#
+# The alternative was weakening a counter's pattern book-wide, which trades one
+# approved site for an unbounded number of unapproved ones.
+EXEMPT = [
+    ("banned",
+     "the Sage's question is about rooms rather than about people",
+     "2026-07-30 — Laloux entry, Appendix G. Wendell: \"we can leave rooms in this "
+     "example. It's not load bearing.\""),
+]
+
+
+def exempt_spans(text, counter):
+    """Character spans in `text` that this counter must ignore."""
+    spans = []
+    for name, phrase, _reason in EXEMPT:
+        if name != counter:
+            continue
+        i = text.find(phrase)
+        while i >= 0:
+            spans.append((i, i + len(phrase)))
+            i = text.find(phrase, i + 1)
+    return spans
+
+
 def split_surfaces(text):
     """Return (body, marginalia) for one chapter."""
     marg = "\n".join(m.group(2) for m in BLOCK.finditer(text))
@@ -73,7 +100,12 @@ def split_surfaces(text):
 
 
 def score(text):
-    return [(n, [m for m in re.finditer(p, text, f)]) for n, p, f in COUNTERS]
+    out = []
+    for n, p, f in COUNTERS:
+        skip = exempt_spans(text, n)
+        out.append((n, [m for m in re.finditer(p, text, f)
+                        if not any(a <= m.start() < b for a, b in skip)]))
+    return out
 
 
 def main():
