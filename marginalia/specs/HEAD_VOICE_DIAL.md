@@ -172,10 +172,27 @@ about:
 | Cross — a casebook of other people's words | **0.0** | **5** |
 
 That is the fix rather than a new problem. **Voss's casebook records what a body did; Cross's
-records what people said.** Pass 3 pushes both harder in their own direction: Voss to more
-sensation and less narration, Cross to transcript with commentary, since his ruled
-idiosyncrasy is *quotes people directly, including the ones who were wrong* and pass 2 gave
-him one quotation in a hundred and forty words.
+records what people said.**
+
+**Pass 3, applied and passing.** Voss went to entries rather than narration, with the log
+correcting its own earlier entry, and her body nouns went 21.4 to 37.0 while her first person
+dropped 42.9 to 24.7 — she narrates less and records more, which is what a casebook is. Cross
+went to two transcripts before any commentary, and now carries the highest first person and
+the most reported speech in the set.
+
+**The blind test passes.** Every Head is the sole extreme on at least one feature, which means
+the genre sorts them with the names stripped:
+
+| Head | sole extreme |
+|---|---|
+| Voss | body nouns per 1k, highest — 37.0, and nobody else is above zero |
+| Ash | imperative sentences, highest — 18.2% |
+| Quill | numbered labels highest at 28.6%, first person lowest at 19.1 |
+| Vale | sentences over 25 words, lowest — 0.0%, the only Head with none |
+| Cross | first person highest at 74.7, reported speech highest at 5 |
+| Orr | fragments lowest at 0.0%, long sentences highest at 37.5% |
+
+Drafts at `marginalia/new_prose/HEAD_FACTS_pass3.md`.
 
 **c · Learning edge present.** Grep each Head's material for a present-tense sentence naming
 what they are working on. Absent means the Head has arrived, and an arrived teacher has
