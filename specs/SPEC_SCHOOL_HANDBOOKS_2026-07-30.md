@@ -1,177 +1,226 @@
-# SPEC — The School Handbooks
+# SPEC — The School Handbooks, and the Caretaker's Letter
 
-**2026-07-30. Wendell: "we need to make a spec where the face introduces themselves to
-the reader as though they are a prospective student of the school. We can lean into the
-genre of the student handbook style HARD here in a way that will deepen immersion."**
+**2026-07-30. Wendell: "we need to make a spec where the face introduces themselves to the
+reader as though they are a prospective student of the school. We can lean into the genre of
+the student handbook style HARD here in a way that will deepen immersion."**
+
+**Rewritten same day against his review of draft 1.** Every correction is recorded in §9 with
+what it changed, because most of them were about the same defect and it is a defect I will
+otherwise repeat.
 
 ---
 
-## 1 · What this is
+## 1 · The frame that makes it work
 
-A short admissions page at the head of each treatise chapter, written by the Head, addressed
-to the reader as somebody thinking about enrolling. Six of them, ch3–ch8.
+Not "each Head writes an introduction." **The institution requires every school to produce
+the same document, to the same form, and six different temperaments comply.**
 
-**The genre is the point.** A prospectus has furniture nobody has to be taught: who we take,
-what you will be able to do, what it costs, what we do not teach, entry requirements, a
-warning. Dropping emotional content into that form is the whole joke and the whole
-immersion, and it works because the form is doing the explaining. *"We are for the person
-whose no does not carry"* reads as an admissions criterion and lands as a definition of
-allyship.
+Wendell: *"we can imagine a world where every school has to produce something like this to
+orient students and each of the heads has their own literary style to meet these
+requirements."*
 
-## 2 · Where it sits, and why the chapter becomes a document stack
+That is the engine. The form is mandated and identical; what leaks through is personality.
+Corin Ash filling out a required admissions form is funnier and more revealing than Corin Ash
+introducing himself, because the constraint is doing the characterisation.
 
-The signature move already made each chapter a bounded document. The handbook completes the
-stack:
+It also settles the repetition worry. Wendell: *"we've got a comedic pass coming that should
+make it so the joke doesn't wear out. It's a conceptual joke so people will want to see the
+variations. Being able to make sure the schools use the same structure but speak about their
+problems differently is KEY."* **So: same six clauses, every school, no exceptions.** Draft 1
+proposed that a school could skip a clause and characterise itself by the omission. That was
+wrong twice over — it breaks the mandated-form premise, and it removes the variation the
+reader is there for.
+
+**Genre note.** The reference is an academic department's student handbook: numbered
+sections, direct address, over-explanation, requirements and prerequisites, warnings phrased
+as helpfulness. Style parody rather than rigour. *(I could not reach the Reed economics
+handbook Wendell linked — the proxy refuses it — so this is written from the genre rather
+than from that document. If a specific passage should be mirrored, it needs pasting in.)*
+
+**A handbook condescends, and that is licence.** Wendell: *"we do get to condescend a bit
+because we need to be legible if we are enrolling students. no handwaving."* Plain language,
+over-explained, slightly patronising. The mythos lives in the school names and nowhere else.
+
+## 2 · Where it sits
+
+The signature move already made each chapter a bounded document. This completes the stack:
 
 ```
-# CHAPTER 4: THE CHALLENGER
-## The Clean "No" as the Foundation of Real Allyship
+                        THE CARETAKER'S LETTER      ** new, once, before ch3 **
 
+# CHAPTER 4: THE CHALLENGER
   EPIGRAPH-BYLINE   ← what a student and a citizen say about this school
-  HANDBOOK          ← what the school says about itself          ** new **
+  HANDBOOK          ← the school's required admissions page   ** new, six times **
   MARGINALIA        ← what the annotator says about the Head
 
-## Section 1: The Exile        ┐
-## Section 2: The Distortion   │ the treatise
-## Section 3: The Concept      ┘
-        SIGNATURE              ← the treatise closes
-
-## Section 4–7                 ← Wendell Britt on allyship
+## Sections 1–3     ← the treatise
+        SIGNATURE   ← the treatise closes
+## Sections 4–7     ← Wendell Britt on allyship
 ```
 
-Testimonial, prospectus, treatise, signature. Every surface is a document type a reader
-already knows how to read, and no voice has to explain another.
+The handbook goes above the marginalia: the annotator is commenting on the Head, and that
+reads better once the Head has spoken.
 
-**It goes above the marginalia deliberately.** The annotator is commenting on the Head; the
-annotator's note reads better once the Head has spoken for themselves.
+## 3 · The Caretaker's Letter
 
-## 3 · What it carries that the book actually needs
+Wendell: *"I think this also means that we can have a Letter from the headmaster to the
+students before the Shaman Chapter. Not as a separate chapter but to build the immersion."*
 
-This is not flavour with a job bolted on. Four things the book is currently missing have no
-better home:
+**Proposed author: Bram Tull, Caretaker.** He is established, ch2 already signs off *"set
+down by Bram Tull, Caretaker, who was asked eleven times,"* and — decisively — **he heads no
+school**, so he is the only figure who can speak across all six without one Head outranking
+another. If the institution has a different steward, that is Wendell's to name and this is a
+one-line change.
 
-| clause | what it delivers | currently |
+**What the letter does.** One page, before ch3. It enrols the reader. It explains that each
+school is required to produce an admissions page to a common form, which sets up the six and
+makes their sameness a fact about the institution rather than a fact about the writing. It
+says something about the order of the schools and about what an incomplete enrolment costs.
+
+**What it must not do.** Mention the book, the chapters, the reader-as-reader, or the author.
+Same membrane rule as everything else on the fiction's side.
+
+## 4 · The six clauses — required, in order, every school
+
+~200–280 words, provisionally — the first sample came in at 421 and the budget may be the thing that is wrong. A school that has nothing to say under a heading still has to fill it in,
+which is its own characterisation.
+
+1. **Who we are for.** The person this school's students are trained to help. **Written as a
+   scene the reader can check herself against, not as a category.**
+2. **What you will be able to do when you leave.** One concrete capability, plus **what
+   follows from it in the world.** Consequence is a separate question from cost and both are
+   required.
+3. **What it costs.** What the training takes out of the student.
+4. **What we do not teach.** The referral clause. Names another school and hands the work
+   over without hedging.
+5. **Entry.** What you must already be able to do, and where to go if you cannot. Points back
+   along the arc.
+6. **A word from the Head.** The only clause in first person, and the only one where the
+   Head's biography may be spent.
+
+## 5 · What it carries that the book needs
+
+| clause | delivers | today |
 |---|---|---|
-| **Who we are for** | the six Face targets from `SPEC_FACE_TARGETS_2026-07-30.md` §2 | specced, nowhere in the book |
-| **What you will be able to do** | Loop A's graded success, stated as an outcome | specced, nowhere in the book |
-| **Entry requirements** | the developmental arc made concrete — each school points back one | asserted, never operationalised |
-| **What we do not teach** | **referral**, which is Loop A's GAP 4: *"A good ally is not always the carrier. Connection, referral, delegation, or decline can be the most skillful contribution."* The gap analysis calls this *"real missing content"* and books it for a second edition | **absent from nine chapters** |
+| 1 · Who we are for | the six Face targets, `SPEC_FACE_TARGETS_2026-07-30.md` §2 | specced, nowhere in the book |
+| 2 · What you will be able to do | Loop A's graded success, as an outcome | specced, nowhere in the book |
+| 4 · What we do not teach | **referral** — Loop A's GAP 4, *"a good ally is not always the carrier"* | **absent from all nine chapters** |
+| 5 · Entry | the developmental arc, made concrete | asserted, never operationalised |
 
-The last row is the strongest argument for the whole feature. A school that says *"if what
-they need is repair, the School of the Bridge is across the yard and better at it than we
-are"* **teaches referral by performing it**, in a genre where referral is unremarkable. That
-closes a documented loop gap for free, in a place a reader will actually read.
+Clause 4 is the strongest argument for the feature. The gap analysis books referral for a
+second edition. A school that says *"send it to the School of the Bridge"* **teaches referral
+by performing it**, in a genre where referral is unremarkable.
 
-## 4 · The clause set
+## 6 · Worked sample — the School of the Line
 
-Six clauses, in this order, ~180–250 words total. Not every school uses every clause; a
-school that skips one is characterising itself by the omission.
-
-1. **Who we are for.** The target, in the school's own words. One or two sentences, and it
-   names the person helped rather than the student.
-2. **What you will be able to do.** Concrete and small. The smaller the better — a school
-   that promises little and means it is more convincing than one that promises range.
-3. **What it costs.** Not fees. What the training takes out of you.
-4. **What we do not teach.** The referral clause. Names another school by name.
-5. **Entry.** What you must already be able to do. Points back along the arc.
-6. **A word from the Head.** The one place first person appears, and the only place the
-   Head's single biographical fact may be spent.
-
-## 5 · Constraints, all of them already ruled
-
-- **`HEAD_REGISTERS` rule 1 holds.** No Head names a channel, a feeling-word, or an
-  operation. The handbook describes; Chapter 3 names.
-- **One fact per Head, reused.** Clause 6 may reference the Head's single fact. It may not
-  add a second. `PRODUCTION_PLAN`'s do-not-build list bans backstory.
-- **First person only where the cost is** — so clauses 1–5 are institutional *we*, and
-  clause 6 is *I*. That asymmetry is the register doing its job for free.
-- **Nothing crosses the membrane.** No clause mentions the book, the chapter, the reader-as-
-  reader, or the author. The sweep will enforce this: `seam_sweep.py` brackets from Section 1
-  today and must be widened to start at the handbook.
-- **Banned-word gate applies.** *Rooms* in particular — an admissions page wants to say
-  "read the room" and cannot.
-
-## 6 · Worked sample — the School of the Line (ch4)
-
-Ash is the only Head whose register landed and whose facts are filled, so he is the honest
-test case.
+Ash is the only Head whose register landed and whose facts are filled.
 
 > **THE SCHOOL OF THE LINE**
-> *for those considering the second treatise*
+> *Admissions, for students considering the second treatise*
 >
-> **Who we are for.** The person whose *no* does not carry. They have refused twice,
-> pleasantly, and been heard both times as opening a negotiation. We do not train them. They
-> are not the problem. We train the person standing next to them who has the standing to
-> spend and has not spent it.
+> **1. Who we are for.** You have watched somebody say no and watched it not take. They said
+> it in a meeting, politely, and the thing went ahead anyway. They said it again six weeks
+> later and were told they had raised that already. Then you said the same sentence, and it
+> took immediately, and you have not known what to do with that since. If any of the above
+> has happened where you could see it, you are the student we mean.
 >
-> **What you will be able to do.** Say one sentence and not add a second. That is the entire
-> curriculum. Most students need a year.
+> **2. What you will be able to do when you leave.** State a limit, in one sentence, in the
+> moment, in front of the people it concerns, and not take it back in the four seconds
+> afterward. Two things follow and they are worth keeping apart. The specific thing stops.
+> And the people watching learn that limits can be stated here, after which some of them
+> start stating their own. Students underestimate the second one for about a year. It is the
+> reason we exist.
 >
-> **What it costs.** You will be unwelcome. Not always and not forever, but reliably, and
-> sooner than you have planned for. Students who need to be liked do finish. They finish
-> slower and they pay in instalments.
+> **3. What it costs.** You will be unwelcome, in small ways, more often than you have
+> budgeted for, and at least one person whose opinion you value will call you difficult where
+> you can hear it. If being liked is how you know you are safe, this training takes something
+> before it gives anything back, and the order is not negotiable.
 >
-> **What we do not teach.** Repair. If what the situation needs is a relationship that
-> survives the line, the School of the Bridge is across the yard and better at it than we
-> are. Send them. Sending them is not a failure of this school; failing to is.
+> **4. What we do not teach.** Repair. We can get you to the sentence. We cannot get you
+> through the conversation that comes after it, and those are separate skills taught by
+> separate people. When what the situation needs is a relationship that survives, send it to
+> the School of the Bridge. Knowing which school a problem belongs to is a skill in itself,
+> and the students who never learn it do harm here.
 >
-> **Entry.** You must be able to name what you felt in the last moment you said nothing. If
-> you cannot, the School of the Body takes first-years every season and we will still be here.
+> **5. Entry.** You must be able to name what you felt in the last moment you said nothing.
+> If you cannot, the School of the Body takes first-years every season and we will still be
+> here.
 >
-> **A word from the Head.** I was told at nineteen that a clean no was aggression, by people
-> who meant well, and I believed them for another thirty years. I am not going to argue you
-> out of the same instruction. I am going to make you say the sentence out loud until you can
-> hear which one of us is right.
+> **6. A word from the Head.** I was told at nineteen that a clean no was aggression, by
+> people who meant well, and I believed them for another thirty years. I will not argue you
+> out of that instruction. I will make you say the sentence out loud, in front of people,
+> until you can hear for yourself which of us was right. I am aware of how that sounds.
 
-248 words. No channel named, no second fact, institutional *we* through five clauses and *I*
-only in the last. The referral clause names the School of the Bridge and gives it away
-without hedging.
+**421 words**, which is over the 200–280 the clause set calls for. Recorded rather than
+trimmed: it is the first one written to the corrected brief, and the honest reading is that
+concrete beats compressed, so the budget in §4 is probably the thing that is wrong. Wendell
+should say which gives.
 
-## 7 · Mechanism
+Checked: no channel named, no banned words, zero em-dashes, and **the word *line* does not
+appear anywhere outside the school's own name.**
 
-Identical to the signature, which is now a proven pattern: a `HANDBOOK` dict in
-`marginalia/insertions.py`, a fourth entry in `compile.py`'s `KINDS`, and an anchor. The
-anchor is the end of the `EPIGRAPH-BYLINE` block, which is inserted before it in the same
-pass, so ordering is deterministic.
+## 7 · Constraints
 
-Two things must be done or the frame corrupts:
+- **`HEAD_REGISTERS` rule 1 holds.** No Head names a channel, a feeling-word, or an
+  operation. Chapter 3 owns that vocabulary.
+- **Facts: more than one now, with a test.** Wendell: *"I think we might need more than one
+  fact. I think this is a hedge against getting too verbose and smart, but we can be clever."*
+  So the one-fact rule is lifted and replaced by a rule that still stops sprawl: **a fact
+  earns its place by answering a clause's question.** Ash's age and span answer *why should I
+  believe you about this.* A fact that only explains the Head is backstory and stays out.
+- **First person only in clause 6.** Institutional *we* through 1–5. The asymmetry does the
+  register's work for free.
+- **Nothing crosses the membrane.** No clause mentions the book, chapter, reader-as-reader, or
+  author. `seam_sweep.py`'s bracket must move up to the handbook or six new pages of Head
+  prose go unmeasured.
+- **The gate applies.** *Rooms* especially: an admissions page wants to say "read the room."
 
-- **`KINDS` must learn the new kind** or `--strip` orphans the block and `--apply`
-  duplicates it, compounding every cycle.
-- **`--verify` must pass** before and after. It round-trips every chapter to byte-identical
-  body text and is the only real proof.
+## 8 · Mechanism
 
-`seam_sweep.py` needs its bracket moved up to the handbook, or six new blocks of Head prose
-go unmeasured.
+The signature's, now proven: a `HANDBOOK` dict in `marginalia/insertions.py`, a fourth entry
+in `compile.py`'s `KINDS`, an anchor at the end of the `EPIGRAPH-BYLINE` block. The letter is
+a seventh block, or front matter — it sits before ch3 rather than inside it, so front matter
+is likely simpler.
 
-## 8 · What Wendell supplies
+**`KINDS` must learn the new kind** or `--strip` orphans it and `--apply` duplicates it,
+compounding each cycle. **`--verify` must pass before and after.**
 
-1. **Sign-off on the clause set and the order** (§4), and on the sample's register (§6).
+## 9 · Wendell's review of draft 1, and what each note changed
+
+| his note | what was wrong | change |
+|---|---|---|
+| *"if it's a handbook then I do think every school needs every clause"* | clause omission broke the mandated-form premise and removed the variation the reader is there for | all six clauses required, §1 and §4 |
+| *"The person whose no does not carry. This is too vague. I have to spend work to make sense of it… Carry to where? to whom?"* | an abstraction wearing a definition's clothes. The reader cannot check herself against it | clause 1 is now a scene, built from ch4's own citizen epigraph — said no, ignored, said it again, then somebody else said it and it took |
+| *"We do not train them… Also nonsense. Who is them? Isn't a school's job to train people who…"* | it split the audience, could not survive the question *who*, and implied the school declines to train the people it is for | cut entirely. The school states who it helps and what students learn; it does not editorialise about non-students |
+| *"this is the glib version… how will Jordan recognize herself in this. What are the consequences (separate from cost)"* | "say one sentence and not add a second" is a punchline standing where a promise should be | clause 2 now requires the capability **and** its consequence, and names the second-order effect: others start stating their own limits |
+| *"this use of the line over and over is adding a mythical weight that isn't landing… no handwaving"* | the school name was being used as a mood rather than a noun | *line* appears once in the sample, in the school's name. Mythos stays in the names |
+| *"It seems that this whole spec needs the /no-ai-slop pass because it's being cute and losing specificity"* | correct, and it is the single defect underneath all of the above | the sample was rewritten against the skill and its eval, not just tidied |
+| *"I think we might need more than one fact"* | the one-fact rule was a blunt hedge against verbosity | lifted, replaced with the earns-its-place test, §7 |
+| *"we've got a comedic pass coming"* | draft 1's defence against repetition was clause omission | replaced: identical structure, differentiated problems and literary style |
+
+**The pattern, stated so it stops recurring: every rejected line was a phrase that sounded
+like a definition and could not be checked.** *Whose no does not carry. The person standing
+next to them. Say one sentence and not add a second.* Each is compressed to the point where
+the reader has to reconstruct the meaning, and reconstruction is work I moved onto her. The
+test for the remaining five handbooks is not *is it sharp* but **can she tell whether it is
+about her.**
+
+## 10 · What Wendell supplies
+
+1. **Sign-off on the clause set and the sample's register.**
 2. **The four missing Head facts** — `VOSS-SPAN`, `QUILL-CLAUSE`, `VALE-SYSTEM`,
-   `ORR-DEFLECTION`. Clause 6 cannot be written without them, for five of the six.
-3. **The referral map.** Which school each school sends people to. Ash → Bridge is obvious;
-   the other five are a ruling, and they are worth getting right because this is the book's
-   only teaching on not being the carrier.
-4. **Whether the Horizon gets one.** `MARGIN_ARC` establishes that the Horizon was a place
-   before it was a school and that the annotator is the one who stopped saying it that way.
-   An admissions page for the Horizon touches that, and the ch8 reveal is worth protecting.
+   `ORR-DEFLECTION`. Clause 6 is unwritable without them for five of six.
+3. **The referral map.** Which school each sends to. Line → Bridge is obvious; the other five
+   are a ruling, and this is the book's only teaching on not being the carrier.
+4. **The Caretaker's Letter author** — Tull, or somebody else.
+5. **Whether the Horizon gets a page.** `MARGIN_ARC` makes the Horizon's name load-bearing
+   for the ch8 reveal, and an admissions page touches it.
 
-## 9 · Risks
-
-- **Length.** Six pages of new front-of-chapter material in a book that was just cut from 219
-  named units to 99. It adds words, not units, and the reader can skip a prospectus in a way
-  they cannot skip a move list — but it is real and it should be watched.
-- **The joke wearing out.** Six of anything is where a bit becomes a format. The defence is
-  clause omission: a school that declines to state what it costs has told you something.
-- **Competing with the Exile.** Section 1 already explains why the Face left the village. The
-  handbook must not re-explain it. The handbook says who the school is *for*; the Exile says
-  why it *exists*. Different questions, and the drafts should be checked against each other.
-
-## 10 · How this gets checked
+## 11 · How this gets checked
 
 ```
-python3 marginalia/compile.py --verify            # must round-trip, before and after
-python3 instruments/gate.py                       # rooms/quiet/genuinely in six new pages
-python3 instruments/on_body.py 'python3 instruments/seam_sweep.py'   # bracket must start at the handbook
-grep -c "School of the" manuscript/ch[3-8].md     # every referral clause names one
+python3 marginalia/compile.py --verify         # round-trip, before and after
+python3 instruments/gate.py                    # six new pages against the banned list
+python3 instruments/on_body.py 'python3 instruments/seam_sweep.py'   # bracket starts at the handbook
+grep -c "School of the" manuscript/ch[3-8].md  # every referral clause names one
 ```
