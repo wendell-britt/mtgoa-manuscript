@@ -1,7 +1,85 @@
 # Book Work Tracker — MTGOA
 **Created:** 2026-04-14
-**Last Updated:** 2026-07-29
+**Last Updated:** 2026-07-30
 **Status:** All 8 chapters complete — Editorial Pass Phase
+
+---
+
+## Session — 2026-07-30 · the developmental beliefs, and the five-element confession
+
+Branch `claude/self-sabotage-ally-beliefs-a9lhzu`.
+
+**ch3 §5 — "What You Install Instead" (new subsection, +427 body words).** The six
+Controller verdicts now come with the developmental belief that replaces each one,
+in a three-column table: the verdict, the flat inversion that re-enters the same
+court, and the belief that installs because it names a process rather than a
+standing. Sits between the don't-argue-with-the-verdict paragraph and the
+Feeling/Function hinge, whose opening pronoun was repointed at the named move. The
+Section 7 recap names the second set, and its "separating them" got its noun.
+
+**The six stay six.** "I'm not safe" was drafted in as a seventh and pulled back
+out: sabotage begins with the Controller, and safety is the Protector's ruling.
+
+**ch2 §6 — blanket bracing vs. vigilance (+93 body words).** Answers "not safe"
+behaviorally instead, in "The Protector, up close": bracing everywhere is the
+cheap way to do the job, and vigilance costs aim. Connects ch2's untargeted
+vigilance that "just hums" to the threat-discrimination move already written four
+paragraphs later. Chosen over a seventh belief on the ICA evidence — the 8 Gates
+are the book's biggest stay-stuck risk, Protector is the gate this reader is
+likeliest to claim as hers, and ch5 is praised in the ideal-reader report for
+dropping the 6-beliefs block rather than extending it.
+
+**ch3 §4 — the five-element confession (+202 body words).** Before the channel
+table, in Wendell's first person: the five channels come from **wu xing**, the job
+they were bent to, the correspondences moved, grief and fear not filed where the
+tradition files them, and the tie back to Chapter 1's own admission about fluency
+opening doors it closes for other people. Modelled on ch6's "A Note Before the
+Concept" — name the suspicion, do not argue it away.
+
+This closes the highest-severity defense trigger in the ideal-reader report, and
+it was the only item on the open list that no branch was working. Half of it was
+already closed: `appendices/ON_THE_SHOULDERS_OF.md` carries a strong wu xing and I
+Ching credit and points at Kaptchuk. That appendix says *"As I confess in that
+chapter"* — a confession that did not exist in any of the nine chapters until now.
+Deliberately not duplicating the appendix's wording; the chapter admits, the
+appendix sources.
+
+**Word counts: deferred, not measured away.** They are wrong in `MANIFEST.md` and
+`MANUSCRIPT_FILE_CANON.md` — 97,738 was true at `e662f84` and the register
+fan-out plus the W8/W9 passes cut it to 96,468 without either doc being re-run.
+`82898f5` on `claude/book-print-readiness-august-ar95mo` already fixed all four
+docs more thoroughly than this branch did, and added `instruments/build_book.py`.
+This session's own correction was reverted rather than left to conflict. **The two
+branches report different totals (97,013 here, 98,332 there) because they measure
+different trees**, and neither figure survives a merge — see below.
+
+**Two parallel finishing passes are unmerged, and both edit all nine chapters.**
+`claude/book-print-readiness-august-ar95mo` is 22 ahead of master and 35 behind,
+last commit 39 seconds before master's. It closed front matter, back matter, the
+generated TOC, the Five Channels appendix taking letter C, and the appendix
+renumbering — none of which is on master. It also independently found the same
+word-count error and the same "both hard blockers are already written" correction.
+Deciding which line is canon is Wendell's call and blocks re-measurement.
+
+**Both "hard print blockers" were already written and the docs said otherwise.**
+`appendices/APPENDIX_F_POLARITY_MAP.md` (933 words) and
+`appendices/APPENDIX_E_321_SHADOW_PROCESS.md` (1,063) are on master.
+`MANUSCRIPT_FILE_CANON.md`'s "Still missing" section says they exist "not in the
+project, not on any disk." `SPEC_PRINT_READINESS_2026-07-29.md` §1 found this
+first, on the other branch.
+
+**Gates, every counter against the pre-session commit:** `gate.py` body 0/0/0/0/0
+plus the 2 pre-existing ch4 Ash token placeholders; `review.py` voice BLOCK 1 /
+WARN 18 / INFO 3 and body BLOCK 28 / WARN 43 / INFO 162, both identical; anchors
+clean; `compile.py --verify` byte-identical; `dupes.py` clean. New prose scored
+under baseline on all five `prose_diet.py` measures. `/no-ai-slop` run on both
+drafts before insertion.
+
+**Still open after this session:** front matter, back matter and the TOC, all
+drafted on the print-readiness branch and none on master. The ten front-matter
+facts, `⟦ASH-AGE⟧`, `⟦ASH-SPAN⟧` and R8 are Wendell-only and hold the gate red.
+The retired 0-indexed chapter numbering survives in appendix cross-references on
+master; the print-readiness branch has already renumbered them.
 
 ---
 

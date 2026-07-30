@@ -1,4 +1,5 @@
 # Chapter 1 — The Infinite Arcade
+## *The Game You Didn't Know You Were Playing*
 
 This book is three years late.
 

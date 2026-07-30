@@ -376,7 +376,7 @@ This is the moment for the Reckoning. Not anger — *consequence.* You state the
 
 Notice the shape of it: a clear line, clearly stated, with a consequence clearly named. Not a threat — a *foresight.* You tell them what you will do before you have to do it. That is the Reckoning. That is the Challenger's sharpest tool.
 
-Most people do not do this because they fear looking punitive. The Challenger knows: *not* naming the consequence is not kindness. It is a kindness-deceiving-as-cruelty — because it sets the other person up to cross the line again, not knowing what will follow.
+Most people do not do this because they fear looking punitive. The Challenger knows: *not* naming the consequence is not kindness. It is cruelty wearing kindness as a disguise — because it sets the other person up to cross the line again, not knowing what will follow.
 
 Name the consequence. Then mean it.
 

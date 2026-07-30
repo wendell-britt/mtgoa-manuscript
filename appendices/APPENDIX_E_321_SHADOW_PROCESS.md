@@ -2,8 +2,8 @@
 
 **Status:** Reader appendix — promoted from reference 2026-06-03 (appendix-ordering pass). Content relocated from pre-compression Ch2 (2026-05-24).
 **Authority:** `CH3_321_PHASE2_SPEC.md` Part G
-**Location in book:** After Appendix D; before Appendix F. Toolkit cluster (D/E/F), before the bibliography.
-**Book body:** Phase 1 catalog in Ch2; **first practice in Ch3** (Challenger / oppressor projection).
+**Location in book:** After Appendix D; before Appendix F. Toolkit cluster (C/D/E/F), before the bibliography.
+**Book body:** Phase 1 catalog in Chapter 3; **first practice in Chapter 4** (Challenger / oppressor projection). Renumbered 2026-07-29 — the old figures were 0-indexed and disagreed with `ch3.md:545`.
 
 ---
 
@@ -11,9 +11,9 @@
 
 Before you can alchemize, you need to see what you're working with.
 
-The WAVE-Spiral works with charge you're already feeling in your body — fear in the meeting, grief after the rupture, anger that arrived on schedule. But a lot of the charge that drains allyship doesn't arrive that way. It arrives dressed as someone else. The colleague who makes your jaw tighten. The movement leader whose certainty feels like a personal attack. The person on the other side of the issue who has become, in your inner world, a cartoon.
+The WAVE-Spiral works with charge you're already feeling in your body — fear in the meeting, grief after the rupture, anger that arrived on schedule. A lot of the charge that drains allyship doesn't arrive that way. It arrives dressed as someone else. The colleague who makes your jaw tighten. The movement leader whose certainty feels like a personal attack. The person on the other side of the issue who has become, in your inner world, a cartoon.
 
-That charge is projection. And projection is shadow work waiting to happen.
+That charge is projection, which is shadow work waiting to happen.
 
 The **3-2-1 practice** is how you metabolize it. Three vantage points. One charged figure. You move from observing it, to talking with it, to owning it — and the energy that was leaking out through judgment comes back into your system, available for the WAVE-Spiral to use.
 
@@ -25,7 +25,7 @@ This is not abstract therapy. It is a diagnostic move. It tells you which part o
 
 **Pronoun:** *They / he / she / it*
 
-**Action:** Describe the person, part, or figure you're charged by as if you're a journalist writing about someone in the next room. What do they look like? How do they move? What do they say? What happens in your body when you think about them?
+**Action:** Describe the person, part, or figure you're charged by as if you're a journalist writing about someone on the far side of a door. What do they look like? How do they move? What do they say? What happens in your body when you think about them?
 
 **Goal:** Externalize the projection. Create enough distance that you can see the charge as a pattern, not as reality.
 
