@@ -86,7 +86,7 @@ Each mode's full arc, the dissatisfaction it carries and the alchemy that transm
 ## Section 3: The Concept
 ### *What Honest Terms Actually Are (And Why It's Not What You've Been Told)*
 
-You have already met a version of "terms," and that version forces this chapter to define the word before it can use it.
+You have already met a version of "terms," and that version forces the School of the Bridge to define the word before it can use it.
 
 The village hardens terms into ultimatums. Terms are what someone says when they have decided to leave and want you to know it is your fault. Terms come with a deadline attached and a threat underneath. The person with leverage produces them at the end of a negotiation that was never a negotiation. That version of the word holds real (people do this), and it explains why a certain kind of capable, relationally fluent person will run an entire career without ever naming a single term of her own. She has seen what terms look like in the hands of someone playing a power game. She has decided not to be that.
 
@@ -106,13 +106,13 @@ The difference is not tone. The Diplomat's altitude gets it wrong here most ofte
 <!-- /MARGINALIA -->
 
 
-Which produces the sentence this chapter exists to disprove, the most protected sentence the ideal reader carries.
+Which produces the sentence the School of the Bridge exists to disprove, the most protected sentence a student arrives carrying.
 
 **The myth: allyship means never causing harm.**
 
 It sounds like a floor. It functions as a ceiling. If your presence only counts as legitimate for as long as it has cost no one anything, then naming a term becomes a risk you cannot take, because a term might land badly, and something that lands badly is harm, and harm is disqualifying. So the terms stay unnamed. The staying stays weightless. The reader stays (pleasant, reliable, and slowly becoming furniture) and calls the whole arrangement care.
 
-Every move in this chapter runs downstream of that myth. This chapter replaces it with something a person can actually stand on: not *I have never caused harm*, but *I can be told what I cost and stay in the conversation afterward.*
+Every move the School of the Bridge teaches runs downstream of that myth. The School of the Bridge replaces it with something a person can stand on, which is not *I have never caused harm* but *I can be told what I cost and stay in the conversation afterward.*
 
 ---
 
@@ -129,7 +129,7 @@ Every move in this chapter runs downstream of that myth. This chapter replaces i
 <!-- /MARGINALIA -->
 
 
-You met the Polarity Map in Chapter 3. Here is the Diplomat's pair.
+You met the Polarity Map at the School of the Body. Here is the Diplomat's pair.
 
 A polarity is not a problem to solve. It has two poles, and both of them are right. The charge comes not from one side being wrong but from getting stuck on one so long that the other stops existing for you.
 

@@ -131,7 +131,7 @@ It went slowly, the way a fire goes out when you stop feeding it — a gradual l
 
 You know which part of that paragraph is yours. I don't need to name it.
 
-Here's what this chapter is not: a defense of the organizations that used tradition to protect power. That happened. It kept happening. The thing you walked away from was real.
+The School of the Oath is not a defense of the organizations that used tradition to protect power. That happened. It kept happening. The thing you walked away from was real.
 
 Here's what it is: a question about what you built instead, and whether it lasted, and whether you can see the connection.
 
@@ -198,7 +198,7 @@ Real stewardship includes the possibility of reform. Real inheritance includes t
 <!-- /MARGINALIA -->
 
 
-You met the Polarity Map in Chapter 3. Here is the Regent's pair.
+You met the Polarity Map at the School of the Body. Here is the Regent's pair.
 
 A polarity is not a problem to solve. It has two poles, and both of them are right. The charge comes not from one side being wrong but from getting stuck there so long the other pole stops existing for you.
 

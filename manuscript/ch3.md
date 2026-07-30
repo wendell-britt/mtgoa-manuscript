@@ -159,7 +159,7 @@ That is the Shaman's practice with a governor on it, one installed by instructio
 
 Checking whether your read is distorted differs from making *probably my stuff* the default answer whenever the read turns inconvenient. The first is discernment. The second is the village's solution to the Shaman problem: keep the language, remove the trust.
 
-This chapter is asking for the trust.
+The School of the Body is asking for the trust.
 
 In emotional processing, the emotion is the problem. In emotional alchemy, the emotion is the teacher. The problem is that you've lost contact with what it's trying to show you.
 
@@ -179,7 +179,7 @@ When you do this with anger, when you let yourself be angry instead of convertin
 
 When you do this with sadness, when you grieve instead of rushing past it, sadness teaches you what was real. Because sadness is the feeling that only arrives when you lose something that truly mattered. Sadness says "this was true. This connection was real. This loss is significant." In a world that constantly tries to convince you that you're overreacting, that it wasn't a big deal, that you should move on. Sadness is the voice that says "no. This mattered. I'm allowed to feel that."
 
-When you do this with joy, and most people skip this one, because joy feels like the easy one and it is not (it requires you to stop moving, harder than anything in this chapter), when you *land* in joy instead of using it for fuel, joy teaches you what's aligned. Joy shows up when you're doing something that matches your actual values, your actual gifts, your actual becoming. Joy is not the same as happiness or productivity. Joy is the feeling that says "yes. This is real. I am home."
+When you do this with joy, and most people skip this one, because joy feels like the easy one and it is not (it requires you to stop moving, harder than anything else the School of the Body teaches), when you *land* in joy instead of using it for fuel, joy teaches you what's aligned. Joy shows up when you're doing something that matches your actual values, your actual gifts, your actual becoming. Joy is not the same as happiness or productivity. Joy is the feeling that says "yes. This is real. I am home."
 
 This is emotional alchemy. Other practices manage emotions. Other practices optimize them. This one is the education by emotions.
 
@@ -207,7 +207,7 @@ A polarity is two capacities, both right, that turn costly the moment they come 
 
 The Shaman's pair: the feeling that gives you the read versus the function that makes the read matter to somebody else.
 
-**Feeling** means the charge arriving and being allowed to arrive: the heat in the chest, the drop in the stomach, the thing your body registered about a situation two beats before anyone said a word. Feeling is the instrument. Everything in this section argues for keeping it calibrated, and the argument holds: a read you never let yourself have is a read you can never act on.
+**Feeling** means the charge arriving and being allowed to arrive: the heat in the chest, the drop in the stomach, the thing your body registered about a situation two beats before anyone said a word. Feeling is the instrument. Everything the School of the Body teaches argues for keeping it calibrated. A read you never let yourself have is a read you can never act on.
 
 **Function** means what the read does once it leaves you. The sentence said to the face it concerns. The decision that went differently because somebody said it. The water that moved. Function is the difference between sensing a thing and the thing sensed *in the world*, where the person you came for can get something out of it. You felt it in your chest. Function is whether anybody else ever did.
 

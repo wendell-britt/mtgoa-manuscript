@@ -103,7 +103,7 @@ The village never meant for that to happen. It never said *go.* It just lost the
 
 One kind of meeting runs a stated agenda of strategy over a real agenda of who gets to claim the victory. A circle where everyone processes together and one person uses the processing to stay at the center. A conversation where somebody draws a line, and the line lands correctly, and the drawing does more to prove someone right than to protect anyone.
 
-If you have sat at one of those tables and felt the gap between what people said and what they played — the game underneath the language, running the whole time — then you have the Sage's capacity. That much is not in question. This chapter takes up what happened next.
+If you have sat at one of those tables and felt the gap between what people said and what they played — the game underneath the language, running the whole time — then you have the Sage's capacity. That much is not in question. The School of the Horizon takes up what happened next.
 
 One pattern shows up most often at this altitude. Offer it to yourself as a thing to check rather than a thing I already know about you. Naming the game costs something. The naming lands as judgment even when it isn't. The people at the table hear *you think you're above this* where you said *here's what I notice.* That happens two or three times and the arithmetic changes. The cost of saying it rises above what it seems worth. So the seeing continues and the saying stops. You hold the pattern without putting it into words. You stay present without offering the particular usefulness you happen to be capable of.
 

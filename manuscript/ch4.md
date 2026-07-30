@@ -159,7 +159,7 @@ The village, without the Challenger, has forgotten the difference.
 <!-- /MARGINALIA -->
 
 
-You met the Polarity Map in Chapter 3. Here is the Challenger's pair.
+You met the Polarity Map at the School of the Body. Here is the Challenger's pair.
 
 A polarity is not a problem to solve. It has two poles, and both of them are right. The charge comes not from one side being wrong but from getting stuck on one so long that the other stops existing for you.
 
