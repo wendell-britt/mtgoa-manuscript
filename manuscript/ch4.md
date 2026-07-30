@@ -165,7 +165,7 @@ A polarity is not a problem to solve. It has two poles, and both of them are rig
 
 The Challenger's pair: the force it takes to move something versus the restraint it takes to leave it alone.
 
-**Force** means spending yourself on a crossing — saying the thing, drawing the line, making the demand, accepting the cost of being the one who did. Force is the willingness for a moment to be more expensive because you were in it. Agree to be the one who pays for the crossing and the aggression becomes force.
+**Force** means spending yourself on a crossing — saying the unwelcome sentence, drawing the line, making the demand, accepting the cost of being the one who did. Force is the willingness for a moment to be more expensive because you were in it. Agree to be the one who pays for the crossing and the aggression becomes force.
 
 **Restraint** means declining to spend. Not this one, not yet, not from me. Restraint is what keeps a no worth something; a person who draws a line at everything has not drawn one, because the line stops being information about the world and turns into weather. You will look like a coward. The coward could not have spoken. You could.
 
@@ -279,7 +279,7 @@ Standing is the decision not to fill that space. It does not glare, and it does 
 
 The Diplomat has a stage called Hold, five chapters from here, a different animal entirely — sustained containment of a charged field over the length of a hard conversation, sometimes over months. This one lasts four seconds and its only content is subtraction. Stand is what you do with your own line. Hold is what you do with everyone else's.
 
-**Stage 5: Exit.** You leave the confrontation cleanly. This means you don't need their reaction to validate your move. You said the thing. You drew the line. The response belongs to them. You are not responsible for managing their feelings about your boundary. You are responsible only for having drawn it.
+**Stage 5: Exit.** You leave the confrontation cleanly. This means you don't need their reaction to validate your move. You drew the line. The response belongs to them. You are not responsible for managing their feelings about your boundary. You are responsible only for having drawn it.
 
 Exit fails differently from Stand, so the sequence keeps them apart. Stand fails in the four seconds after the line, in the presence of the other person, and it fails by adding words. Exit fails afterward — in the follow-up message, the hallway clarification, the *hey, I hope that landed okay* sent three hours later. Both of them take the line back. The Challenger stated. The Challenger stood. The Challenger left, and trusted that the line, once drawn, can do its work without constant tending.
 
@@ -356,7 +356,7 @@ Second, *aim.* Ask yourself: what line did that cross? Not the story you could t
 
 Third, *act.* Name it. Plainly. *"That framing isn't accurate — X community has specifically raised this concern and the data shows Y."* One sentence. No essay. State and hold.
 
-Fourth, *exit.* Don't wait for their response. You've said the thing. Move on with the meeting. You do not need them to agree. You do not need them to apologize. You needed the line to exist. It now exists.
+Fourth, *exit.* Don't wait for their response. You've named the line. Move on with the meeting. You do not need them to agree. You do not need them to apologize. You needed the line to exist. It now exists.
 
 Total time: thirty seconds.
 
