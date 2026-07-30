@@ -95,34 +95,69 @@ performance trap the whole book is written against.
 purpose for the individual target is *"the way you can actually track if someone was
 helped,"* and `better off` appears exactly once in 113,000 words.
 
-Two time horizons are being conflated and the book should separate them out loud:
+### RULED 2026-07-30 — the absence is a boundary, not a hole
 
-| | measures | horizon | exists? |
-|---|---|---|---|
-| **The test** | did you complete the move | this moment | yes, 33 of them |
-| **missing** | is the person better off | across the arc | no |
+This section originally proposed writing a second instrument to measure whether the other
+person ended up better off. **Wendell ruled against it, and the ruling is load-bearing
+enough that it belongs in the appendix rather than only here:**
 
-The resolution is not to weaken the 33 tests. It is to say plainly that they are
-move-completion checks, and to give the domain level its own check, which is the one the
-individual target was invented to make possible.
+> *"You can only make your move. You can have the intention for another person's
+> satisfaction, but you can't make them. This is why consent is necessary and why emotional
+> alchemy is taught in chapter 3. Sometimes allyship is just helping people realize they can
+> access satisfaction on their own without material life changing. You can't give what you
+> don't have, so being able to practice those moves yourself allows you to teach them to
+> others."*
 
-**This blocks a live claim.** The author's note drafted 2026-07-30 promises *"one person,
-measurably better off, in a way the two of you could both point at."* Until §4 is resolved,
-that sentence promises an instrument the book does not ship. Either the instrument gets
-written, or the note stops promising it.
+So the 33 tests are correct and complete. A stopping condition that waited on the other
+person's outcome would hand the reader's completion back to somebody who never agreed to
+grade her, which is the fawn the book is written against and the performance review it
+opens by indicting. **There is no missing instrument.**
+
+What the individual target governs is **aim, not outcome**:
+
+| | |
+|---|---|
+| **one target** | so the move has a direction and can be checked at all |
+| **the move** | yours, completable, measured by the 33 tests |
+| **the satisfaction** | theirs, reachable, and never yours to produce |
+
+Three consequences the appendix has to carry, because each one is currently invisible:
+
+1. **Consent is structural, not courtesy.** If the satisfaction is theirs to take, their
+   agreement to be aimed at is a precondition rather than a politeness. This is the same
+   ruling the Loop A consent mechanics are working from.
+2. **Emotional alchemy is prerequisite, not enrichment.** You cannot hand someone a channel
+   you have not run. ch3's placement is the argument, and Appendix A should say why the
+   practice chapter precedes the domains.
+3. **Some allyship changes nothing material.** Helping a person find satisfaction they can
+   already reach is a complete move. An appendix that only describes resources, organizing,
+   action, and awareness reads as though material change is the point, and this is the
+   fourth way the current text teaches the inverse of the rule.
+
+**Correction applied to a live claim.** The author's note drafted 2026-07-30 promised *"one
+person, measurably better off, in a way the two of you could both point at."* Under this
+ruling that sentence over-promises, since the second half is outside the reader's control.
+The note has been rewritten to *"you aim at one person, by name, and you make the move
+cleanly, and what they do with it stays theirs."*
+
+**P6 · Carry the §4 ruling into the appendix.** Aim is the reader's, satisfaction is the
+other person's, and the three consequences above. Without it, P1's rule block reads as a
+promise to deliver an outcome, which is the thing this whole spec exists to prevent.
 
 ## 5 · Order
 
-1. P1 and P2, which are small and stop the appendix teaching the inverse.
-2. §4's ruling, because it decides whether the author's note can keep its last promise.
-3. P3, P4, P5.
+1. P1, P2, P6 — small, and together they stop the appendix teaching the inverse.
+2. P3, P4, P5.
 
 ## 6 · Open, for Wendell
 
-- **Does the domain-level check get written for this edition, or does the note retreat?**
 - **Who names the one person — the reader, before the move, or in retrospect?** If before,
   it belongs in the Diagnostic and in the app's pre-draw. If in retrospect, it is a review
   instrument and belongs near ch9's Clean Up.
-- **What counts as "better off"?** The book's own answer is likely the five channels
-  completing into their satisfactions, since that vocabulary already exists and is already
-  checkable. That would make Appendix C the instrument rather than requiring a new one.
+- **Does "aim at one person, by name" survive contact with Raise Awareness?** That domain's
+  characteristic move reaches a room, and it is the one where the individual target will be
+  hardest for a reader to believe. It is also the domain whose stated collapse is *"naming
+  the problem as the complete intervention,"* so it is where the rule matters most.
+
+**Closed 2026-07-30:** whether a domain-level outcome instrument gets written. It does not.
+See §4.
