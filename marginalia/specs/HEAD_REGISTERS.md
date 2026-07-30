@@ -79,9 +79,9 @@ markers rather than added beside them.
 1. **Never name the channel, the feeling-word, or the move.** No Head writes
    *anger*, *triumph*, *poignance*, *wonder*, or *alchemy* about himself. Ch3
    owns that vocabulary. The Heads own the experience.
-2. **The satisfaction is offered, not achieved.** A Head who has completed his
-   own move has nothing left to teach. Corin hands his students a triumph he
-   has not fully had.
+2. **The satisfaction is offered, not achieved.** A Head who has completed their
+   own move has nothing left to teach. Corin hands out a triumph they have not
+   fully had.
 3. **The dissatisfaction arrives as biography, the satisfaction as
    instruction.** This is the load-bearing asymmetry: what he feels shows up as
    something that happened to him; what he offers shows up as what he tells you
@@ -94,17 +94,17 @@ markers rather than added beside them.
 Rule 3 requires biography, and biography is where a frame like this usually
 goes wrong. It grows.
 
-- **One fact per Head, reused.** Corin's is a span of years he was wrong.
+- **One fact per Head, reused.** Corin's is a span of years they were wrong.
   Cross's is eleven years unthanked (already in canon). One fact, referenced
   more than once, is a character. Three facts is a backstory, and
   `PRODUCTION_PLAN`'s do-not-build list already bans that.
 - **State the cost, never explain it.** *"I believed them for ⟦SPAN⟧"* is a
   register. *"I believed them for ⟦SPAN⟧ because my father…"* is a novel.
 - **First person for the cost, third person for the Face.** The Head keeps
-  saying *the Challenger* — it is the role his school teaches, not his name for
-  himself. The **I** appears only where the cost does. This resolves the 138
+  saying *the Challenger* — it is the role their school teaches, not their name
+  for themselves. The **I** appears only where the cost does. This resolves the 138
   third-person self-references in Sections 1–3 without touching any of them:
-  the stance problem is fixed by adding the *I*, not by converting the *he*.
+  the stance problem is fixed by adding the *I*, not by converting the third person.
 
 ### Placeholders — Wendell fills these
 
@@ -114,8 +114,8 @@ one fact, from Wendell:
 
 | Token | Head | What it is |
 |---|---|---|
-| `⟦ASH-AGE⟧` | Corin Ash | how old he was when he was told the clean no was aggression |
-| `⟦ASH-SPAN⟧` | Corin Ash | how long he believed it |
+| ~~`⟦ASH-AGE⟧`~~ | Corin Ash | how old they were when they were told the clean no was aggression — **filled 2026-07-30: nineteen** |
+| ~~`⟦ASH-SPAN⟧`~~ | Corin Ash | how long they believed it — **filled 2026-07-30: another thirty years** |
 | `⟦VOSS-SPAN⟧` | Maera Voss | how long she knew the thing before she said it |
 | `⟦QUILL-CLAUSE⟧` | Sera Quill | the clause she kept that cost her |
 | `⟦VALE-SYSTEM⟧` | Irix Vale | the system whose specification ate someone |

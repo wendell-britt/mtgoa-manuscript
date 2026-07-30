@@ -59,7 +59,7 @@ Everything else is doing the ordinary marginalia jobs.
 | **1** | *(arcade — unchanged)* | none. Establish the hand and the wit only. | a funny stranger in the margin |
 | **2** | Forest · Protector | pure Snicket. Wry, distant, no cost anywhere. | comic relief |
 | **3** | Shaman · Maera Voss | he is fonder than the note requires about a world he put in at. | affection for a place |
-| **4** | Challenger · Corin Ash | he has clearly been on the receiving end of a clean no. Does not say from whom. | a wince, played for laughs |
+| **4** | Challenger · Corin Ash | they have clearly been on the receiving end of a clean no. Does not say from whom. | a wince, played for laughs |
 | **5** | Regent · Sera Quill | a world that reminded him of somewhere. He does not use the word *home*. | a small digression |
 
 *Read under the corrected lesson 5, beats 3–5 are instalments being paid, not cracks in a

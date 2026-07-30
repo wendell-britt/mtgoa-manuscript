@@ -115,7 +115,7 @@ room."* That is what the extension is for.
 
 | | |
 |---|---|
-| Gate — all four surfaces | **2 hits**, both `⟦ASH-AGE⟧` / `⟦ASH-SPAN⟧` in ch4 (**R9**) |
+| Gate — all four surfaces | **0 hits. GATE PASS**, first time in the project (R9 closed 2026-07-30) |
 | `review.py --mode body` | BLOCK **28** · WARN **43** · INFO **159** |
 | `review.py --mode voice` | BLOCK **1** — ch4's hedge particles |
 | Denying negations | **2** |
@@ -123,9 +123,13 @@ room."* That is what the extension is for.
 | say-the-noun | **25** |
 | Abstraction nouns in subject slots | **25** |
 
-**R9 is the only thing between this branch and a green gate.** Two facts about
-Corin Ash's biography, in ch4 Section 3, that nobody but Wendell can supply. R8 is
-already ruled on master and the A0 counter reads 0.
+**The gate is green.** R9 closed 2026-07-30: Corin Ash was told the clean no was
+aggression at **nineteen** and believed it for **another thirty years**, filled in
+ch4 Section 3 by Wendell's ruling. R8 was already ruled on master and the A0
+counter reads 0. Four HEAD_REGISTERS tokens remain unfilled — `⟦VOSS-SPAN⟧`,
+`⟦QUILL-CLAUSE⟧`, `⟦VALE-SYSTEM⟧`, `⟦ORR-DEFLECTION⟧` — but none is in canon, so
+none holds the gate. They come due only if the register pass extends to the other
+five Heads.
 
 ## Deferred — the prose branch
 

@@ -104,7 +104,7 @@ The village never realized it had traded the capacity to draw lines for the comf
 
 You already have a version of the clean no. You've been calling it something else.
 
-The village hears the clean no as aggression: the angry one, the difficult one, the one who makes things worse before they get better, someone who says no because they want to win. I was told that at ⟦ASH-AGE⟧, by people who meant well, and I believed them for ⟦ASH-SPAN⟧. The version they described does exist, and you've probably met them, and it is not what we're talking about here.
+The village hears the clean no as aggression: the angry one, the difficult one, the one who makes things worse before they get better, someone who says no because they want to win. I was told that at nineteen, by people who meant well, and I believed them for another thirty years. The version they described does exist, and you've probably met them, and it is not what we're talking about here.
 
 The clean no is something different. The clean no is the practice of **stating a boundary without apologizing for it, collapsing it, or converting it into a request.**
 
