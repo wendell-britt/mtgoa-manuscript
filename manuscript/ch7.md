@@ -12,9 +12,6 @@
 > still deciding whether I prefer it.*
 >
 > — a delegate, second session
->
-> the fifth treatise, submitted by Elian Cross, Keeper of the Walk-Away Terms,
-> Head of the School of the Bridge
 <!-- /EPIGRAPH-BYLINE -->
 
 <!-- MARGINALIA -->
@@ -162,6 +159,12 @@ The draw is relational. Not solo. Pick a live field with actual people in it, be
 
 4. Sit 30 seconds. Notice: heaviness (Care stuck) or heat (Impact stuck)
    or ground (integrated).
+
+<!-- SIGNATURE -->
+> the fifth treatise, submitted by Elian Cross, Keeper of the Walk-Away Terms,
+> Head of the School of the Bridge
+<!-- /SIGNATURE -->
+
 
 *Back to the chapter.*
 

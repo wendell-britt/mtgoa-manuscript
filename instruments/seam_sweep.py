@@ -67,7 +67,7 @@ SENT = re.compile(r'(?<=[.!?])["”’\')]?\s+(?=[A-Z"“\'(*])')
 
 
 def sections_1_to_3(text):
-    """Section 1 up to Section 4, minus any `## A Note Before …` block.
+    """Section 1 up to the treatise signature, minus any `## A Note Before …` block.
 
     Those Notes are Wendell stepping in under his own heading, which is the
     convention this spec was reaching for and which the book already runs in ch6
@@ -78,7 +78,18 @@ def sections_1_to_3(text):
     i = next((k for k, l in enumerate(lines) if l.startswith("## Section 1")), None)
     j = next((k for k, l in enumerate(lines) if l.startswith("## Section 4")), None)
     if i is None or j is None:
-        raise SystemExit("could not bracket Sections 1-3")
+        raise SystemExit("could not bracket the treatise")
+    # The treatise ends at its signature, and marginalia/compile.py puts that above
+    # any trailing italic apparatus at the foot of Section 3. This sweep runs on
+    # stripped body text, where the signature block does not exist, so it recomputes
+    # the same boundary by the same rule. Both must agree or the sweep will report
+    # lines that are already on the author's side of the seam.
+    while j > i and (not lines[j - 1].strip()
+                     or lines[j - 1].strip() in ("---",)
+                     or (lines[j - 1].strip().startswith("*")
+                         and lines[j - 1].strip().endswith("*")
+                         and not lines[j - 1].strip().startswith("**"))):
+        j -= 1
     out, keep = [], True
     for k in range(i, j):
         if lines[k].startswith("## "):

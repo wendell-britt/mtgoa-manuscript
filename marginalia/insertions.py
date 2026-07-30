@@ -26,9 +26,6 @@ morning, out loud, so I would know the difference in my mouth.*
 corridor, like it was the weather.*
 
 — recorded at Sethen, third visit
-
-the first treatise, submitted by Maera Voss, Keeper of First Signals,
-Head of the School of the Body
 """,
 4: """
 *Ash stopped me four times in one hour. The fourth time I had nothing left to protect, and that
@@ -40,9 +37,6 @@ was the first useful thing I said.*
 I am grateful, and I am aware of what that tells me. Both of those are permanent.*
 
 — a clerk of Oreve
-
-the second treatise, submitted by Corin Ash, Master of the Clean No,
-Head of the School of the Line
 """,
 5: """
 *Quill handed me the ledger in my first week and did not mention for a full term that the
@@ -54,9 +48,6 @@ previous keeper had falsified it. She wanted to see what I would keep.*
 my daughter came home knowing the new words.*
 
 — Halvane, the year after
-
-the third treatise, submitted by Sera Quill, Keeper of Continuance,
-Head of the School of the Oath
 """,
 6: """
 *Vale asked whose face had gone from my diagram. It was mine. I had drawn myself out of my own
@@ -68,9 +59,6 @@ family and been pleased with the drawing.*
 being angry about it. It took another to notice I would not change it back.*
 
 — a foreman, name withheld at his request
-
-the fourth treatise, submitted by Irix Vale, Patternwright,
-Head of the School of the Pattern
 """,
 7: """
 *Cross made me say what would make staying dishonest. I could not answer. I have thought about
@@ -82,9 +70,6 @@ that failure more than any examination I passed.*
 still deciding whether I prefer it.*
 
 — a delegate, second session
-
-the fifth treatise, submitted by Elian Cross, Keeper of the Walk-Away Terms,
-Head of the School of the Bridge
 """,
 8: """
 *Orr let me climb as high as I liked and then asked what I was going to do on Thursday. I have
@@ -96,9 +81,6 @@ never forgiven the question and I ask it constantly.*
 thought about that day for six years.*
 
 — unsigned, left at the Horizon door
-
-the sixth treatise, submitted by Thalen Orr, Keeper of the Far Game,
-Head of the School of the Horizon
 """,
 9: """
 *The ones who go do not write much. The ones who stay write constantly. Draw your own
@@ -448,3 +430,23 @@ record and it is already in my head, which she will find annoying.*
 *The word for what we do here is not flattering. I have started using it.*
 
 *— T.*"""
+
+SIGNATURE = {
+    # Moved out of FRONT 2026-07-30. A submitted document is signed at the end of
+    # itself, so these close Section 3 rather than opening the chapter. Wendell
+    # ruled no date and no place: the signature stays a name and a title.
+    # ch2 keeps its "set down by Bram Tull" line at the top -- Tull heads no school
+    # and ch2 is not a treatise. ch9 never had a signature line.
+    3: """the first treatise, submitted by Maera Voss, Keeper of First Signals,
+Head of the School of the Body""",
+    4: """the second treatise, submitted by Corin Ash, Master of the Clean No,
+Head of the School of the Line""",
+    5: """the third treatise, submitted by Sera Quill, Keeper of Continuance,
+Head of the School of the Oath""",
+    6: """the fourth treatise, submitted by Irix Vale, Patternwright,
+Head of the School of the Pattern""",
+    7: """the fifth treatise, submitted by Elian Cross, Keeper of the Walk-Away Terms,
+Head of the School of the Bridge""",
+    8: """the sixth treatise, submitted by Thalen Orr, Keeper of the Far Game,
+Head of the School of the Horizon""",
+}

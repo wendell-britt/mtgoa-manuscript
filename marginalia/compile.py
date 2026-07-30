@@ -27,10 +27,10 @@ ROOT = os.path.join(HERE, os.pardir)
 MS = os.path.join(ROOT, "manuscript")
 sys.path.insert(0, HERE)
 
-from insertions import FRONT, BYLINE_NOTE, NOTES, POSTCARD
+from insertions import FRONT, BYLINE_NOTE, NOTES, POSTCARD, SIGNATURE
 
 CHAPTERS = [2, 3, 4, 5, 6, 7, 8, 9]
-KINDS = ("MARGINALIA", "EPIGRAPH-BYLINE")
+KINDS = ("MARGINALIA", "EPIGRAPH-BYLINE", "SIGNATURE")
 BLOCK_RE = re.compile(
     r"\n?\n<!-- (%s) -->\n.*?\n<!-- /\1 -->\n" % "|".join(KINDS), re.S)
 # The postcard carries its own horizontal rule. Match the rule together with the
@@ -39,6 +39,14 @@ BLOCK_RE = re.compile(
 POSTCARD_RE = re.compile(r"\n+---\n+<!-- POSTCARD -->\n.*?\n<!-- /POSTCARD -->\n?", re.S)
 ANY_BLOCK_RE = re.compile(r"<!-- (%s|POSTCARD) -->" % "|".join(KINDS))
 FRONT_RE = re.compile(r"(^# CHAPTER.*?\n(?:.*?\n)??^## \*.*?\*\s*$)", re.M)
+# The seam: the rule that closes Section 3. Verified 2026-07-30 to occur exactly once
+# in each of ch3-ch8.
+SEAM_RE = re.compile(r"\n---\n\n## Section 4", re.M)
+# Trailing italic apparatus at the foot of Section 3 -- `*Back to the chapter.*` and the
+# Appendix F pointer. These belong to the book rather than to the Head, so the signature
+# goes ABOVE them and they land on the author's side of the boundary without moving.
+# That is what makes this a zero-word change instead of a seven-line relocation.
+APPARATUS_RE = re.compile(r"^\*[^*\n][^\n]*\*$")
 
 
 def path(ch):
@@ -49,6 +57,18 @@ def block(text, kind):
     body = "\n".join("> " + l if l.strip() else ">"
                      for l in text.strip().split("\n"))
     return "\n<!-- %s -->\n%s\n<!-- /%s -->\n" % (kind, body, kind)
+
+
+def seam_point(txt):
+    """Index where a treatise signature is inserted: the end of Section 3, above any
+    trailing italic apparatus. Returns None if the chapter has no Section 4."""
+    m = SEAM_RE.search(txt)
+    if not m:
+        return None
+    lines = txt[:m.start()].split("\n")
+    while lines and (not lines[-1].strip() or APPARATUS_RE.match(lines[-1].strip())):
+        lines.pop()
+    return len("\n".join(lines))
 
 
 def strip_marginalia(txt):
@@ -81,6 +101,14 @@ def apply_chapter(ch, txt):
         j = len(txt) if j == -1 else j
         txt = txt[:j] + "\n" + block(note, "MARGINALIA") + txt[j:]
         n += 1
+
+    if ch in SIGNATURE:
+        i = seam_point(txt)
+        if i is None:
+            problems.append("SEAM anchor miss")
+        else:
+            txt = txt[:i] + "\n" + block(SIGNATURE[ch], "SIGNATURE") + txt[i:]
+            n += 1
 
     if ch == 9:
         txt = txt.rstrip() + "\n\n---\n" + block(POSTCARD, "POSTCARD")

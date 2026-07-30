@@ -12,9 +12,6 @@
 > corridor, like it was the weather.*
 >
 > — recorded at Sethen, third visit
->
-> the first treatise, submitted by Maera Voss, Keeper of First Signals,
-> Head of the School of the Body
 <!-- /EPIGRAPH-BYLINE -->
 
 <!-- MARGINALIA -->
@@ -218,6 +215,12 @@ Here is the part specific to this reader, and its shape is a squeeze rather than
 That squeeze leaves one position standing, the one costing nothing: feeling out loud, together, at length, about a situation, and changing none of it. Everyone leaves moved. The fields keep failing.
 
 The rest of the chapter recovers both ends. It will ask you to hold them at the same time before it ends.
+
+<!-- SIGNATURE -->
+> the first treatise, submitted by Maera Voss, Keeper of First Signals,
+> Head of the School of the Body
+<!-- /SIGNATURE -->
+
 
 ---
 

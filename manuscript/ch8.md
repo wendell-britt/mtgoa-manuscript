@@ -12,9 +12,6 @@
 > thought about that day for six years.*
 >
 > — unsigned, left at the Horizon door
->
-> the sixth treatise, submitted by Thalen Orr, Keeper of the Far Game,
-> Head of the School of the Horizon
 <!-- /EPIGRAPH-BYLINE -->
 
 ---
@@ -267,6 +264,12 @@ Real Sage sight carries the orientation of someone who walked all the way in and
 Perspective-as-avoidance runs the opposite way, and it has a tell you can catch: you're looking at the people the way a tourist looks at a museum. Everything's interesting; nothing is yours. You can describe what happens with perfect accuracy and still stand outside it, and the clearer the view gets, the further away you've drifted.
 
 So before you trust the view, check the one thing that gives it away. Are you in it, or watching from the doorway? With the people, or above them? That's the whole difference — a question about where you're standing, not a sensation you have to manufacture.
+
+<!-- SIGNATURE -->
+> the sixth treatise, submitted by Thalen Orr, Keeper of the Far Game,
+> Head of the School of the Horizon
+<!-- /SIGNATURE -->
+
 
 ---
 
