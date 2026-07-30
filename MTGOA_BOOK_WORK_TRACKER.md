@@ -271,6 +271,36 @@ Status:
 
 ### P0 — Must Fix Before Any Other Editorial Work
 
+**🔴 A9 — the Move template is inconsistent four ways; ch8 has none. DO FIRST.**
+- Found auditing the STRONG Moves against the ICA per Wendell's ask.
+- Jordan "will stop for a named move with a practice", so the practice must be
+  findable. Measured:
+
+      ch3, ch6, ch9   **What it is** / **Why it matters** / **Example** / **The test**, bolded  -> scannable
+      ch4             The Situation / The Move / Why it works / In practice, UNBOLDED  -> partly
+      ch5             **The test** only  -> weak
+      ch7             **Why it works** only  -> weak
+      ch8             NO LABELS AT ALL, continuous prose  -> not scannable
+
+- ch8's Move 1 has every beat — situation, practice, payoff — and labels none of
+  them, so Jordan must read the block to find the do-this.
+- **The 11 STRONG Move NAMES all pass the ICA**: plain, verb-first, jargon-free.
+  The problem is the container, not the naming.
+- Fix: normalise to ch3/ch6/ch9's four bolded beats across all seven chapters.
+  Editing, not authoring — the content exists in every chapter already.
+- **Highest reader-value, lowest-risk item in the whole WAVE spec, and it is the
+  prerequisite for the 12 new Moves**, which need a form to be written into.
+
+**RULED — Show Up is the promise, not an over-weighting.** Wendell 2026-07-29:
+"Show up is the impactful moves... the promise is that they will show up better. The
+process of completing the process is teaching them about the other moves and how NOT
+knowing those moves is stopping them from showing up." This closes the open question
+in WAVE spec §6: action-weighting is a CHOICE. The five stages are a diagnosis plus a
+payoff, not a balanced taxonomy — Wake/Open/Clean/Grow each name a reason the Show Up
+misses. So 17 Show Ups is not 17 mislabelled Moves, it is COMPETING PAYOFFS, and the
+12 new Moves each name what blocks that chapter's Show Up. Recorded as WAVE spec §8.
+
+
 **✅ A7 — Seam 1 DONE 2026-07-29: the six BAR grids left the book**
 - Wendell: "Taking them out makes sense, but let's keep em in the repo as things
   that we can design against." Done: `deck/BAR_GRIDS.md`.
@@ -286,17 +316,17 @@ Status:
   this on the page. Zero of the 35 Section 5 Moves is tagged to a stage.
 - Payoff: 35 differently-named moves become ONE sequence seen seven times. Largest
   single reduction left, and it deletes no content.
-- Map scored: **14 STRONG, 12 MEDIUM, 9 WEAK.** Move 1 is already Wake Up in all
+- Map scored: **11 STRONG, 12 MEDIUM, 12 WEAK** (corrected from 14/12/9). Move 1 is already Wake Up in all
   seven chapters, so the structure is one-fifth built consistently book-wide.
 - **The finding that outranks the realignment: Show Up carries 17 of 35 Moves;
   Open Up and Grow Up carry 3 each, with ZERO strong fits between them.** The book
   under-teaches Open Up — its own addition to Wilber's four, the Shaman's whole
   contribution, the stage ch7:540 calls "the move this chapter's daemon exists to
   prevent", and the stage APPENDIX_C drops entirely (A6).
-- True scope is not relabelling: it is **9 new Moves**, each an Open Up or Grow Up
+- True scope is not relabelling: it is **12 new Moves**, each an Open Up or Grow Up
   written where a duplicate Show Up now sits. That is authoring, not editing.
-- Recommended split: tag the 14 STRONG now (ships, claims only what the map
-  supports); the 12 framings and 9 replacements are second edition with the Open Up
+- Recommended split: tag the 11 STRONG now (ships, claims only what the map
+  supports); the 12 framings and 12 replacements are second edition with the Open Up
   gap as the brief.
 - Open question for Wendell (spec §6): is action-weighting a flaw or a choice? For a
   reader who fears doing harm and wants to show up without losing herself, the

@@ -138,11 +138,16 @@ Counting the whole book:
 
 | stage | Moves landing there | STRONG fits |
 |---|---|---|
-| Wake Up | 8 | 6 |
+| Wake Up | 8 | 5 |
 | Clean Up | 4 | 2 |
 | **Open Up** | **3** | **0** |
 | **Grow Up** | **3** | **0** |
-| **Show Up** | **17** | 5 |
+| **Show Up** | **17** | 4 |
+
+*(Corrected 2026-07-29. An earlier version of this table read 6 and 5, and §5 read
+"14 STRONG, 12 MEDIUM, 9 WEAK". Recounted row by row: **11 STRONG, 12 MEDIUM, 12
+WEAK**, summing to 35. The scope figure that follows from the WEAK column is
+therefore **12 new Moves, not 9.**)*
 
 **Seventeen of 35 Moves are Show Up.** That is the whole finding: the book's
 Section 5 teaches the output end of the sequence and skips the two interior stages.
@@ -158,21 +163,21 @@ realignment: **the book under-teaches its own distinctive stage.**
 
 ## 5 · Scope, honestly
 
-**14 STRONG, 12 MEDIUM, 9 WEAK.**
+**11 STRONG, 12 MEDIUM, 12 WEAK.**
 
-- **14 relabel.** Add the stage to the Move heading. Near-zero prose.
+- **11 relabel.** Add the stage to the Move heading. Near-zero prose.
 - **12 need a framing sentence** so the stage claim is earned rather than asserted.
-- **9 need rewriting**, because they are second and third Show Ups. These are the
+- **12 need rewriting**, because they are second and third Show Ups. These are the
   real work, and the honest description is not *relabel* — it is *replace this Move
   with the Open Up or Grow Up the chapter is missing.*
 
-**So the true scope is 9 new Moves across the book**, roughly one to two per
+**So the true scope is 12 new Moves across the book**, roughly one to two per
 chapter, each one an Open Up or a Grow Up written where a duplicate Show Up
 currently sits.
 
 ### This is not an August 1 job
 
-Nine new Moves is authoring, and each one has to be a real practice Jordan can
+Twelve new Moves is authoring, and each one has to be a real practice Jordan can
 perform, in the right Face's voice, at the right stage. Written well this is the
 change that makes the book's spine visible. Written in three days it is nine
 labels that do not survive a reader asking why Move 4 is different from Move 3 —
@@ -180,12 +185,12 @@ which is the question the WEAK column already fails.
 
 **Recommended split:**
 
-**Ships now, and it is worth shipping alone:** tag the **14 STRONG** Moves with
+**Ships now, and it is worth shipping alone:** tag the **11 STRONG** Moves with
 their stage. Jordan then sees `Move 1 · Wake Up — Name the Field` in every chapter
 and the sequence starts teaching itself from the strongest evidence in the map.
 Nothing is claimed that the map does not support.
 
-**Second edition:** the 12 MEDIUM framings and the 9 replacements. That is the
+**Second edition:** the 12 MEDIUM framings and the 12 replacements. That is the
 real realignment, and it should be done with the Open Up finding in §4 as its
 brief, because the gap is the point.
 
@@ -207,3 +212,99 @@ an artefact of thirty-five Moves being named one chapter at a time.
 grep -c "^### Move . · " manuscript/ch*.md     # tagged Moves, after the STRONG pass
 python3 instruments/gate.py                    # unchanged by tagging
 ```
+
+
+---
+
+## 8 · RULED — Show Up is the promise, not an over-weighting
+
+**2026-07-29, Wendell, answering §6:**
+
+> *"Show up is the impactful moves. the ones that prove that the book works because
+> the promise is that they will show up better. The process of completing the
+> process is teaching them about the other moves and how NOT knowing those moves is
+> stopping them from showing up"*
+
+**This settles §6 and it changes what the 12 new Moves are for.**
+
+§6 asked whether the action-weighting was a flaw or a choice. It is a choice, and
+the reason is structural rather than stylistic: **Show Up carries the book's
+promise.** Jordan bought a book that says she will show up better. Show Up is where
+that gets proved.
+
+So the five stages are **not a balanced taxonomy.** They are a diagnosis and a
+payoff:
+
+| | role in the chapter |
+|---|---|
+| **Wake Up** | why your Show Up misses — you did not notice the signal |
+| **Open Up** | why your Show Up misses — you would not stay with what you felt |
+| **Clean Up** | why your Show Up misses — you named the wrong channel |
+| **Grow Up** | why your Show Up misses — the capacity was never built |
+| **Show Up** | **the promise, delivered** |
+
+**Not knowing the first four is what stops the fifth from working.** That is the
+engine, and it reframes the finding in §4. Seventeen Show Ups across seven chapters
+is not seventeen mislabelled Moves. It is **competing payoffs**: chapters offering
+Jordan two and three versions of the win while never showing her what was blocking
+it.
+
+### What this changes about the 12
+
+They are not slots to fill so a table balances. **Each one names the specific thing
+stopping Jordan's Show Up in that chapter** — which is the most motivating content
+the book can carry, because it speaks directly to her fear (*"I'm doing more harm
+than I know"*) and explains a failure she has already lived.
+
+It also explains why the Open Up gap is the worst one. Open Up is *"I would not stay
+with what I felt"* — and Jordan's craving is *"I want to show up for others without
+losing myself."* **Open Up is the stage that protects the self in that sentence.**
+The book promises the second half and never teaches the stage that delivers it.
+
+### Consequence for chapter shape
+
+One Show Up per chapter, earned, at Move 5. Moves 1–4 are the diagnosis. Where a
+chapter currently has three Show Ups (ch3, ch8), two of them are the slots the new
+Moves take.
+
+## 9 · ICA audit of the 11 STRONG Moves — the names are fine, the template is not
+
+Wendell: *"the main key is to go back and make sure these strong moves are
+appropriate for the ICA and keeps them reading the book."*
+
+**The names pass.** All 11 are plain, verb-first, and jargon-free: *Catch It Before
+the Story, Name the Unnameable, Draw the Line, Name the Inheritance, Design for
+Handoff, Name the Field, Close with Honest Terms, Repair After Rupture, Name the
+Game, Put It in Front of One Person, Name the Channel Out Loud.* Nothing there
+trips Jordan's #1 trigger, and every one is a thing a person does.
+
+**The template fails, four different ways.** Jordan *"will stop for a named move
+with a practice"* — so the practice has to be findable. Measured:
+
+| ch | Move sub-structure | scannable? |
+|---|---|---|
+| ch3, ch6, ch9 | **What it is** / **Why it matters** / **Example** / **The test** — bolded | **yes** |
+| ch4 | The Situation / The Move / Why it works / In practice — **unbolded** | partly |
+| ch5 | **The test** only | weak |
+| ch7 | **Why it works** only | weak |
+| **ch8** | **no labels at all — continuous prose** | **no** |
+
+**Four templates across seven chapters, and ch8 has none.** ch8's Move 1 carries a
+situation, a practice and a payoff — every beat is present — but nothing is
+labelled, so Jordan has to read the whole block to find the do-this. That is the
+difference between a move she performs and a passage she skims.
+
+**A9 — normalise the Move template to ch3/ch6/ch9's four bolded beats.** This is
+the highest reader-value, lowest-risk change identified in this whole spec: the
+content already exists in every chapter, and the work is labelling and light
+reordering rather than writing. It is also the prerequisite for the 12 new Moves,
+because a new Move needs a form to be written into.
+
+**Order of operations, revised:**
+
+1. **A9 first** — normalise the template across all seven chapters. Editing, not
+   authoring. Makes every existing Move findable.
+2. **Tag the 11 STRONG** with their stage.
+3. **Write the 12** into the normalised form, each naming what blocks that
+   chapter's Show Up.
+4. **Frame the 12 MEDIUM** so their stage claim is earned.
