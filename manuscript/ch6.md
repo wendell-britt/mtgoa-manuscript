@@ -12,9 +12,6 @@
 > being angry about it. It took another to notice I would not change it back.*
 >
 > — a foreman, name withheld at his request
->
-> the fourth treatise, submitted by Irix Vale, Patternwright,
-> Head of the School of the Pattern
 <!-- /EPIGRAPH-BYLINE -->
 
 <!-- MARGINALIA -->
@@ -187,6 +184,12 @@ Take the last workplace failure you explained to somebody.
 
 Five marks. Read the column, not any single row. A run of five in one direction
 is not five judgments. It is one habit, applied five times.
+
+<!-- SIGNATURE -->
+> the fourth treatise, submitted by Irix Vale, Patternwright,
+> Head of the School of the Pattern
+<!-- /SIGNATURE -->
+
 
 *For the full process and additional pairs, see Appendix F: The Polarity Map.*
 

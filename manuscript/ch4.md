@@ -12,9 +12,6 @@
 > I am grateful, and I am aware of what that tells me. Both of those are permanent.*
 >
 > — a clerk of Oreve
->
-> the second treatise, submitted by Corin Ash, Master of the Clean No,
-> Head of the School of the Line
 <!-- /EPIGRAPH-BYLINE -->
 
 <!-- MARGINALIA -->
@@ -193,6 +190,12 @@ The draw is situational. Not solo, not relational — pick a specific moment whe
 
 4. Sit 30 seconds. Notice: heat with nowhere to go (Force stuck
    inside), heaviness (Restraint stuck), or ground (integrated).
+
+<!-- SIGNATURE -->
+> the second treatise, submitted by Corin Ash, Master of the Clean No,
+> Head of the School of the Line
+<!-- /SIGNATURE -->
+
 
 *Back to the chapter.*
 

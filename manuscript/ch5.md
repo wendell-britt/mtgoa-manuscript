@@ -12,9 +12,6 @@
 > my daughter came home knowing the new words.*
 >
 > — Halvane, the year after
->
-> the third treatise, submitted by Sera Quill, Keeper of Continuance,
-> Head of the School of the Oath
 <!-- /EPIGRAPH-BYLINE -->
 
 <!-- MARGINALIA -->
@@ -228,6 +225,12 @@ The draw is solo. Not a conflict between you and another person. Your inheritanc
    and I need __________ to change before I can keep showing up honestly."*
 
 4. Sit 30 seconds. Notice: heaviness (pole A stuck) or heat (pole B stuck) or ground (integrated).
+
+<!-- SIGNATURE -->
+> the third treatise, submitted by Sera Quill, Keeper of Continuance,
+> Head of the School of the Oath
+<!-- /SIGNATURE -->
+
 
 *Back to the chapter.*
 
