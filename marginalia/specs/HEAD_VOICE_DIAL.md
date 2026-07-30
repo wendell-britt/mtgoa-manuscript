@@ -129,13 +129,53 @@ Genre from `SEVEN_VOICES`. Everything else is this document.
 Wendell: *"unless it gets worse we'll keep what we get."* That needs *worse* to be
 detectable rather than felt, so three checks, cheapest first.
 
-**a · The spread.** Mean sentence length should stay wide across the six. Measured on the
-four current facts: Voss 8.1, Vale 10.0, Quill 11.7, Orr 22.8. **A pass that narrows the
-spread is worse**, whatever else it did. Ash and Cross want measuring when drafted.
+**a · The signature features. REPLACED 2026-07-30 after pass 2.**
+
+The first version of this check used **mean sentence length**, and pass 2 proved it the wrong
+instrument. Across six drafted Heads it collapsed to a 9.9–11.7 band for five of the six,
+which would have condemned a pass that in fact separated them well. Mean length measures how
+long somebody's sentences are; it does not measure how they build them.
+
+Four features do the work, measured on the pass-2 drafts:
+
+| Head | frag <6 words | sents >25 | imperative | numbered label | I per 1k |
+|---|---|---|---|---|---|
+| Voss | 33.3 | 8.3 | 0.0 | 8.3 | 42.9 |
+| Ash | 27.3 | 9.1 | **18.2** | 0.0 | **67.8** |
+| Quill | 42.9 | 14.3 | 0.0 | **28.6** | **19.1** |
+| Vale | **44.4** | **0.0** | 5.6 | 11.1 | 33.5 |
+| Cross | 30.8 | 7.7 | 0.0 | 7.7 | **64.3** |
+| Orr | **0.0** | **37.5** | 0.0 | 0.0 | 31.6 |
+
+**Four of the six are unmistakable on one feature each.** Orr has no fragments and 37.5%
+long sentences, alone. Ash is the only Head above 5.6% imperative and carries the highest
+first person. Quill runs 28.6% numbered labels and the *lowest* first person, which is the
+charter doing its job. Vale is the most clipped and has no long sentences at all.
+
+**A pass is worse if a Head loses its signature feature**, not if the means converge.
+
+**b · The blind test.** Unchanged, and it is the real bar. `SEVEN_VOICES`: *the reader adjusts
+inside two sentences without being told.*
 
 **b · The blind test.** Strip the names off six passages and see whether the genre alone
 sorts them. `SEVEN_VOICES` sets this bar itself: *the reader adjusts inside two sentences
 without being told.* If two passages could swap Heads, the pass failed.
+
+**b-fail, recorded — Voss and Cross overlap.** On every feature above they sit within a few
+points of each other: fragments 33.3 against 30.8, long sentences 8.3 against 7.7, imperatives
+zero and zero. They separate on one thing only, and it is the thing their genres are actually
+about:
+
+| | body nouns per 1k | reported speech |
+|---|---|---|
+| Voss — a casebook of her own sensations | **21.4** | **0** |
+| Cross — a casebook of other people's words | **0.0** | **5** |
+
+That is the fix rather than a new problem. **Voss's casebook records what a body did; Cross's
+records what people said.** Pass 3 pushes both harder in their own direction: Voss to more
+sensation and less narration, Cross to transcript with commentary, since his ruled
+idiosyncrasy is *quotes people directly, including the ones who were wrong* and pass 2 gave
+him one quotation in a hundred and forty words.
 
 **c · Learning edge present.** Grep each Head's material for a present-tense sentence naming
 what they are working on. Absent means the Head has arrived, and an arrived teacher has
