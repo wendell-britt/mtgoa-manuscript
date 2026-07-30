@@ -72,6 +72,48 @@ person, and each is exaggerated one click past comfortable.
 | **The interlocutor** | who they are arguing with who is not in the text | explains the pressure in the prose without narrating it |
 | **The learning edge** | what mastery opened onto, that they are working on now | rule 1, above |
 
+## 2a · The seventh dial — person, and feeling against fact
+
+**Wendell 2026-07-30: "I think we should vary between who uses feeling words and who works on
+facts. Who works in 3rd person 2nd person or 1st person."**
+
+Measured on the handbook drafts, and both axes had collapsed:
+
+| school | I/1k | you/1k | we/1k | feel/1k | fact/1k | default person |
+|---|---|---|---|---|---|---|
+| Body | 10.2 | 44.1 | 13.6 | **3.4** | 0.0 | 2nd |
+| Line | 9.3 | **65.2** | 9.3 | 15.5 | 0.0 | 2nd |
+| Oath | 5.9 | 0.0 | 14.7 | 8.8 | 35.2 | we |
+| Pattern | 14.0 | 17.5 | 3.5 | 10.5 | **38.5** | 2nd |
+| Bridge | 18.5 | 30.9 | 18.5 | **0.0** | 6.2 | 2nd |
+| Horizon | 16.4 | 21.9 | 21.9 | 5.5 | 2.7 | 2nd |
+
+**Five of six default to second person**, so the form is varying and the address is not. And
+the feeling axis is backwards where it matters most: **the School of the Body scores 3.4 on
+feeling words, the second lowest in the set.** The school whose whole subject is sensation is
+writing like everybody else.
+
+### The assignment
+
+Person follows from genre rather than being chosen beside it. A casebook of your own sensations
+is first person; a drill manual is second; a charter has no persons in it at all.
+
+| school | person | why the genre requires it | feeling vs fact |
+|---|---|---|---|
+| **Body** | **1st singular** — she logs herself | a practitioner's casebook records the practitioner | **feeling, highest.** Near-zero fact vocabulary |
+| **Line** | **2nd imperative** — *you will* | a drill manual addresses the person drilling | feeling as **cost**: unwelcome, difficult, the four seconds |
+| **Oath** | **3rd impersonal** — *one must*, *applicants shall*. No *you* at all | a charter binds parties, it does not talk to them | **fact and record.** Feeling appears only as something entered in a ledger |
+| **Pattern** | **3rd, passive spec**, with 1st only where he admits something | a specification has no addressee | **fact, highest.** Feeling arrives already converted, which is his daemon |
+| **Bridge** | **3rd reporting others** — *she said*, *he heard*. Least *you* after Oath | a negotiation casebook is other people's words | **feeling in other mouths, never his own.** He reports what each party felt and does not report his |
+| **Horizon** | **1st plural, ambiguous** — *we*, and it is never clear how much of it he means | a commentary speaks for an institution it is also inside | **both, held together.** He is the only Head who gets to do that, and holding the contradiction is his ruled move |
+
+**Two of these are the same fix twice.** Body must go up on feeling and down on *you*; Bridge
+must go down on *you* and put its feeling into quoted mouths. Both are currently writing in
+the register of a drill manual, which belongs to Line alone.
+
+**The check.** No two schools share a default person, and *feel/1k* and *fact/1k* should
+anti-correlate across the set, with Body and Pattern at opposite ends.
+
 ## 3 · Per Head
 
 Genre from `SEVEN_VOICES`. Everything else is this document.
