@@ -681,7 +681,7 @@ You know what emotional alchemy is. You have run the five stages. You have met t
 
 Winning at the Shaman's altitude is smaller than you want it to be: one true sentence, said to a person who can hear it, while it is still live. That is the whole win. Insight does not count. A more accurate model of the group than anyone else has does not count. One sentence counts: the one that left your body, entered the situation, and changed what was possible inside it. The woman at the council did not bring the elders a framework. She brought them four sentences she had been holding for three seasons, said to the one face that could act on them.
 
-Everything in Section 4 was the instrument. These five are what you do with the instrument when other people are present and the clock is running. None of them is a stage of the spiral wearing a new name. The spiral gets you the read. These five are what the read costs.
+Everything in Section 4 was the instrument. These five are what you do with the instrument when other people are present and the clock is running. They run in the spiral's order, because the spiral is the order: you catch the signal, you let it up, you name the channel, you find what it grew, you spend it. Section 4 taught you to run that alone. These five are what it costs to run it where somebody is watching.
 
 ---
 
