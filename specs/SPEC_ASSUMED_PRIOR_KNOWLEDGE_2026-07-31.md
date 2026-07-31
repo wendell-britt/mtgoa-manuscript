@@ -321,3 +321,42 @@ topical — which is likely what made the pattern read as a formula.
 
 **Approved set, ready to apply:** `drafts/APPROVED_unearned_recall_2026-07-31.md`.
 Every anchor verified unique; `spec_edit.py` would abort on any that were not.
+
+---
+
+## 10 · A6 re-measured, 2026-07-31 20:05 — site 1 moved rather than closed
+
+**Site 1 was edited today by another session** (`069bcbd`, *"Seat the
+Headmaster's Letter, and keep ch1's loop promise"*). The promise was preserved
+and re-pointed:
+
+> **was** — "the process that runs every one of these faces: **the loop you meet
+> in the next chapter.**"
+> **now** — "the process that runs every one of these faces: **the loop, which
+> the Headmaster sets out in the letter standing at the door of the six
+> schools.**"
+
+**The letter does not set out the loop.** Measured: the five WAVE stage names
+appear **0 times** in `front_matter/headmasters_letter.md` and **18 times** in
+`manuscript/ch3.md`. *Loop* and *WAVE* also read 0 in the letter.
+
+Read in full and judged fairly, the letter is strong prose and it does set out a
+sequence — the shape of a term (*arrive carrying something · say what you are
+taking on · be taught one move · make it outside, on a person, by a date · come
+back and report*). That is a **pedagogy**, not the emotional-alchemy loop the
+Face chapters run. ch1's own sentence settles which one it means: *"the process
+that runs every one of these faces"* and *"the loop is how you play it."*
+
+**So the defect relocated rather than closing**, and it is arguably tighter now:
+the previous target (ch2) at least contained five moves, wrong ones. The letter
+contains none.
+
+**Two readings, and they need different fixes.** Either *the loop* still means
+the WAVE — in which case ch1 points at the wrong document — or the term-shape has
+been promoted to *the loop*, in which case **the book now has two loops** and ch3
+defines the other one.
+
+**Not drafted, deliberately.** That session is live (9 commits ahead, last at
+20:03) and this is their active work. Drafting a competing fix is the 91-hunk
+mistake in miniature. Sites 2 and 3 are untouched and unaffected by their work,
+and remain as specified.
