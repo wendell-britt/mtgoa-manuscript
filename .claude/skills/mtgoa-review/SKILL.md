@@ -80,6 +80,31 @@ counters, the worst-scoring prose of that session.
 draft file: write it to a file, run `review.py` on it, then paste it. Composing in the reply
 is where the check gets skipped, every time.
 
+## Show the diff before applying a sweep
+
+Added 2026-07-31, after applying twelve edits to ch7 and then four corrections on top of
+them, both times without showing Wendell first. He asked: *"Did you already correct those.
+I'd like to see the before and after before I approve them."* By then the answer was yes,
+twice.
+
+**A sweep is three or more edits driven by one counter, or any edit to prose already in the
+manuscript.** For a sweep:
+
+1. **Write the before-and-after out before touching the file**, one row per edit, each one
+   quoting **the whole sentence** rather than the fragment the counter highlighted.
+2. **Paste it and wait.** A counter finds candidates; only a reader approves them.
+3. Apply, then re-run the counter.
+
+**The fragment is enough to find an edit and not enough to judge one.** Four of those twelve
+were worse than what they replaced, and every one of the four looked fine as a six-word span:
+a correlative broken because only half of a *through … through* pair changed; *settled*
+meaning decided rewritten as *settles* meaning coming to rest; a passive replaced by
+something vaguer, in a sentence where nobody was doing the losing so there was no doer to
+promote. All three read correctly in isolation and wrongly in the sentence.
+
+**Single edits to fresh drafts do not need this.** The cost of the ceremony is only worth
+paying where the prose already exists and a reader has already accepted it.
+
 ## Registers, and when heavy is correct
 
 **A number is not a verdict.** The baseline is nine chapters of Wendell's expository prose,
