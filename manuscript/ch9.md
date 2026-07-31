@@ -281,7 +281,7 @@ Everything on that list started as something you learned and became something yo
 
 ---
 
-You now know the WAVE. Wake up. Open up. Clean up. Grow up. Show up. Come back.
+You now know the WAVE. Wake up. Open up. Clean up. Grow up. Show up. Then you come back, and coming back is what turns one pass into a practice.
 
 You know that the return is not optional, that coming back makes the work real. That carrying what you found back to the village is the whole point.
 
@@ -365,7 +365,7 @@ The iteration is the walk. Every detour that feels like a detour just shows you 
 
 Every version of bars-engine was the walk, not a step toward it. The first design was the walk. The third redesign was the walk. The version that failed in front of people was the walk. You will plan, then execute, then find the plan was a draft. That shape holds all the way through.
 
-The WAVE already taught you how to do this. Wake up: notice what happened. Open up: let the failure land at full strength before you start explaining it. Clean up: name what didn't work. Grow up: ask what the failure is actually telling you. Show up: do the next version. Come back: notice what shifted. What you learned.
+The WAVE already taught you how to do this. Wake up: notice what happened. Open up: let the failure land at full strength before you start explaining it. Clean up: name what didn't work. Grow up: ask what the failure is actually telling you. Show up: do the next version. Then come back: notice what shifted. What you learned.
 
 ---
 
@@ -379,7 +379,7 @@ Here's what I've noticed about my own fear of building: it rehearses. The fear w
 
 Rehearsing failure and doing the thing feel identical from inside your head. Only one of them produces information. The mind will run the scenario for as long as you let it. It will produce the same anxiety whether you've done nothing or whether the thing has already failed. The rehearsal feels like work. The actual thing runs simpler and scarier. Put it in front of someone and see what happens.
 
-The WAVE doesn't end when you leave the book. The WAVE runs through your actual life. Wake up: notice what's happening inside you when your mother calls, when the group chat erupts, when you read the news and feel it land. Open up: stay with it before you do anything with it. Clean up: name the channel and let it run to completion. Grow up: ask what this moment asks you to become. Show up: act from that place, not from the reactive place the old habit would have sent you to. Come back: notice what happened, what shifted, what you learned.
+The WAVE doesn't end when you leave the book. The WAVE runs through your actual life. Wake up: notice what's happening inside you when your mother calls, when the group chat erupts, when you read the news and feel it land. Open up: stay with it before you do anything with it. Clean up: name the channel and let it run to completion. Grow up: ask what this moment asks you to become. Show up: act from that place, not from the reactive place the old habit would have sent you to. Then come back: notice what happened, what shifted, what you learned.
 
 The WAVE runs through your parenting. Through your partnership. Through your work. Through the group chat and the town hall and the election and the pandemic and whatever comes next. That's what it means to have the WAVE as a practice. It's how you walk through the world. The morning version trains you for the rest of the day.
 

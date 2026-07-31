@@ -477,7 +477,7 @@ Panoramic vision is lonely, and nobody says so. Not because you can't be with pe
 
 Egan, in *The Skilled Helper*, writes about the helper's presence as the primary instrument of change. The technique ranks below it. The framework ranks below it. The work gets done by the capacity to be fully present with the client: without agenda, without rescue, without needing them to be anything other than what they are. That's what the return practices: the presence of the person who climbed the mountain, came back down, and can now say: *I know what it's like up there. I also know what it's like here. I'm staying here with you.*
 
-The practice has four moves. Run them in order the first several times. After that they stop being steps.
+Return has four moves inside it. Run them in order the first several times. After that they stop being steps.
 
 **1. Name what you saw, honestly, without performance.** Share it, imperfectly if that's all you have. *I've been thinking about which game we're in. Here's what I notice.* Say it as an offering rather than as a diagnosis or a verdict. What people do with it is theirs. They might hear it. They might get defensive. They might say nothing. You name it anyway, not because the naming will change anything, but because declining to name it also counts as a choice, one that serves no one. Before you speak, though, check why you're speaking. Is it because the moment needs it, or because you need them to see what you see? The first is service. The second is shadow.
 
