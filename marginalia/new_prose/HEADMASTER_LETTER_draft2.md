@@ -65,6 +65,35 @@ is the letter's best line and an imperative rather than a fragment for effect. S
 25 words 31.0%, the highest in the set with ch8 second at 20.0%. First person 15.8 against
 Orr's 16.0. Zero colons, zero Face names, one em-dash and it is the byline.
 
+## Wendell's second read, and one paragraph I should not have written
+
+*"Say the smaller number"* had a broken referent. No number appears anywhere before it; it
+points back at *you say how much of it you are taking on*, which is not a number. It read like
+a maxim because it had the shape of one, which was the only reason it was there. *"Less is not
+a lesser enrolment"* said the same thing again in less/lesser wordplay and an abstract noun.
+Both are the scope rule, which is essential, since it is the one line in the letter aimed
+straight at Jordan's craving. Badly said rather than wrong to be there.
+
+*"A term runs the same way at all six"* is broken twice: **a term runs** is not a thing a term
+does, and **at all six** has no noun.
+
+**The entry-requirement paragraph is cut, and his question is what exposed it.** He asked what
+concern of Jordan's it speaks to. None. It says *the prerequisites are not gatekeeping*, which
+answers an objection she never raises and a worry that was mine about how the ordering would
+look. That is draft 1's disease returning: the letter defending the institution rather than
+talking to her.
+
+One thing in it was worth rescuing under a different frame. *A line drawn without knowing what
+you felt lands on the wrong thing* is her documented fear, **"I'm doing more harm than I
+know."** So the order now exists to protect the people she practises on, and the paragraph ends
+by offering her a safe place to get it wrong. The gatekeeping defense is gone.
+
+The scope paragraph now fuses her fear and her craving, which for her are one worry: the
+student who overcommits burns out **and** leaves somebody holding a half-done thing.
+
+Fragments 3.3%, and the survivor is the salutation. Sentences over 25 words 36.7% against
+ch8's 20.0%. 632 to 660 words.
+
 ---
 
 # A LETTER TO THE READER
@@ -89,22 +118,24 @@ one of them to the bottom and you become the person somebody travels a long way 
 is rarer and is not better. Nobody here will tell you which you are for, and I have guessed
 wrong in both directions.
 
-The school that teaches you to hold a line will not take you until you can say what you felt in
-the last moment you said nothing, because a line drawn without that lands on the wrong thing
-and holds. Every entry requirement in the packet is a version of that sentence. They are there because we have watched what happens without them, and
-not because anyone here enjoys turning people away.
+The schools are in an order, and the order is there to protect the people you will be
+practising on. Someone who has not yet learned to notice what they felt will still draw a line
+when the moment comes, and it will land on the nearest available person rather than the one who
+needed it. I would rather you did that here, in your third week, on somebody who signed up to be
+practised on, than out there on somebody who came to you for help.
 
-A term runs the same way at all six. You arrive carrying something that is actually happening to
+The shape of a term is the same wherever you land. You arrive carrying something that is actually happening to
 you rather than a case you picked for its clarity. You say how much of it you are taking on,
 out loud, before anybody teaches you anything. You are taught one move, and the school will
 decline to teach you a second until the first has been made outside the building, on a person,
 by a date, at a cost you named in advance. Then you come back and say what happened, and it goes
 in the record.
 
-Say the smaller number. A student who takes on what they can carry finishes the term; a student
-who takes on what they believe is expected of them has enrolled in the expectation, and I have
-watched that produce three good months and a departure often enough that I now ask at the door
-instead of in the spring. Less is not a lesser enrolment.
+When we ask how much you are taking on, answer with what you could still carry through a bad
+week, and not with what you think a serious person would say. Students who give the larger
+answer have three good months, and then they are gone, and whoever they were helping is left
+holding something half done. Nobody here thinks less of the smaller answer. We have too much
+evidence about where the larger one goes.
 
 There are two warnings worth having in advance. You will be wrong out loud, on a schedule, in
 front of the same faces, and none of the six has found a kinder way to teach anyone to read
