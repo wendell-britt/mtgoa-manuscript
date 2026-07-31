@@ -777,7 +777,7 @@ In practice: use the channel word, not the euphemism. *Anger* rather than *frust
 
 In practice: say it to your own nervous system, plainly, in the seconds after the read. *I get it. The message landed.* Then finish the sentence with the equipment. *I can tell when a plan is being agreed to and not believed.* *I can hold a hard look without going away.*
 
-**Example:** You noticed months ago that Priya is not disorganised, and that the week costs her something it does not cost anyone else. Neither of you has a word for it. You were right, and being right bought her nothing. Say what you can do now, to her, once: *I can tell the difference between someone struggling and a schedule that is expensive for one person. I am going to say so before I can prove it.* If you have misread it, she watches you misread it. What she does with it is hers, including nothing.
+**Example:** You noticed months ago that Jo is not disorganised, and that the week costs her something it does not cost anyone else. Neither of you has a word for it. You were right, and being right bought her nothing. Say what you can do now, to her, once: *I can tell the difference between someone struggling and a schedule that is expensive for one person. I am going to say so before I can prove it.* If you have misread it, she watches you misread it. What she does with it is hers, including nothing.
 
 **The test:** You can state the capability in the present tense with no story attached. If the sentence only makes sense once you explain the meeting, it has not landed yet.
 

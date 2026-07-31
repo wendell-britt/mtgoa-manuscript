@@ -12,7 +12,7 @@ experience does not have words yet**, and each teaches its own Move.
 | 1 · Wake Up | Ines | gender identity | the read, before the story |
 | 2 · Open Up | **the reader** | the designated self-Example | anger, and what sits under it |
 | 3 · Clean Up | Ravi | race and color, pattern-shaped | **Metal, which is Fear.** ch3:441 |
-| 4 · Grow Up | Priya | disability, undiagnosed | the read acted on early |
+| 4 · Grow Up | Jo | disability, undiagnosed | the read acted on early |
 | 5 · Show Up | Nadia | **outside the statutory list** | the thing under the stated thing |
 
 **What the first draft got wrong, beyond the prose.** Move 3 kept the label *Metal* and removed
@@ -30,6 +30,9 @@ it. Move 3 is now a retro, which suits the School of the Body better anyway: `SP
 §2 puts the Shaman wherever harm is pattern-shaped rather than incident-shaped, and *two other
 times that happened to him and to nobody else* is that pattern where a single hiring decision
 is not.
+
+**Name collision, fixed 2026-07-31.** ch3's Move 4 and ch4's Move 1 both used Priya. ch4's is
+from the approved original, so ch3's became Jo.
 
 **Measured as a set**, which is the right unit: single Examples are too short to score.
 
@@ -55,7 +58,7 @@ ask for. Keep the relief. The anger was the part you already knew about.
 
 ### Move 4 · Grow Up — Say What You Can Do Now
 
-**Example:** You noticed months ago that Priya is not disorganised, and that the week costs her
+**Example:** You noticed months ago that Jo is not disorganised, and that the week costs her
 something it does not cost anyone else. Neither of you has a word for it. You were right, and
 being right bought her nothing. Say what you can do now, to her, once: *I can tell the
 difference between someone struggling and a schedule that is expensive for one person. I am

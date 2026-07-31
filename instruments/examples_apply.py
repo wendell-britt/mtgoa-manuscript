@@ -55,14 +55,27 @@ def main():
         elif s.startswith("**Example:**"):
             seats.setdefault(head, []).append(i)
 
-    plan, problems = [], []
+    # Where an Example could be inserted: ch5's Moves run What it is / In practice / The
+    # test, with no Example slot at all, which is why that chapter has never carried one.
+    # The scene belongs between the instruction and the check.
+    tests, head = {}, None
+    for i, l in enumerate(lines):
+        s = l.strip()
+        if s.startswith("#"):
+            head = s.lstrip("#").strip()
+        elif s.startswith("**The test:**") and head:
+            tests.setdefault(head, i)
+
+    plan, inserts, problems = [], [], []
     for h, new in pairs:
         got = seats.get(h, [])
-        if len(got) != 1:
-            problems.append("draft heading %r matches %d Example(s) in ch%d"
-                            % (h[:44], len(got), ch))
-            continue
-        plan.append((got[0], h, new))
+        if len(got) == 1:
+            plan.append((got[0], h, new))
+        elif not got and h in tests:
+            inserts.append((tests[h], h, new))
+        else:
+            problems.append("draft heading %r matches %d Example(s) and %s a test line"
+                            % (h[:40], len(got), "has" if h in tests else "has no"))
     claimed = set(i for i, _, _ in plan)
     for h, idxs in seats.items():
         for i in idxs:
@@ -75,18 +88,25 @@ def main():
         raise SystemExit("%d problem(s). Nothing written." % len(problems))
 
     if dry:
+        for i, h, new in inserts:
+            print("L%-5d %s" % (i + 1, h[:56]))
+            print("    INSERT %3d words  %s...\n" % (len(new.split()), new[13:75]))
         for i, h, new in plan:
             old = lines[i].strip()
             print("L%-5d %s" % (i + 1, h[:56]))
             print("    was %3d words  %s..." % (len(old.split()), old[13:75]))
             print("    now %3d words  %s...\n" % (len(new.split()), new[13:75]))
-        print("%d Example(s), every heading matched exactly once" % len(plan))
+        print("%d replaced, %d inserted, every heading matched exactly once"
+              % (len(plan), len(inserts)))
         return 0
 
     for i, _, new in plan:
         lines[i] = new
+    # Insert from the bottom up so earlier indices stay valid.
+    for i, _, new in sorted(inserts, key=lambda x: -x[0]):
+        lines[i:i] = [new, ""]
     io.open(path, "w", encoding="utf-8").write("\n".join(lines))
-    print("ch%d: seated %d Examples" % (ch, len(plan)))
+    print("ch%d: %d replaced, %d inserted" % (ch, len(plan), len(inserts)))
     return 0
 
 
