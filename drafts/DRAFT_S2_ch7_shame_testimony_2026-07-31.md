@@ -15,7 +15,12 @@ the worst in the book at receiving it"* and *"You do not fire the Victim."*
   clauses into short sentences, moved the *smart Black man* lines against the
   audit sentence.
 - **v3** — 197 words, after `no-ai-slop`. Six patterns found and fixed; two rule
-  hits kept deliberately. See §Slop pass.
+  hits kept deliberately. Wendell: *"this doesn't have the flavor anymore."*
+- **v4** — 176 words. **Rebuilt from a different unit.** v1–v3 all retold the
+  confession at `ch9:326`–`358` in compressed form, which is why each revision
+  read flatter than the last. See the zoom-out in
+  `specs/SPEC_SHAME_REINJECTION_2026-07-31.md` §S2. The author slot came back
+  filled on 2026-07-31 and it is the whole passage.
 
 **Every biographical fact below comes from Wendell's 3-2-1 of 2026-07-31 and is
 quoted or paraphrased from his own words.** Nothing is invented. The one thing
@@ -36,18 +41,31 @@ and what you said instead of hearing it. Not the lesson. The beat. ~150-200 word
 ## AFTER
 
 ```
-I built a course about allyship before I learned the subject. Six years of the program. Four years of this book. Three cities. Customer service rep, crypto documentarian, smoothie maker, shoe salesman, event organizer. All of it accurate.
+Somebody told me mid-course that it wasn't fun.
 
-The finding came the day I told a cohort to run a 3-2-1 on the dead self and every one of them stopped. I had sold hundreds of people that walk. I had never taken my own course.
+They were right. In the half-second before I answered, the ledger opened and produced a number. Six years of doing this for free. Every one of those conversations. Every time I was the only Black person somebody could think to ask. I did not think *look what this cost me.* I did not think anything. The number arrived and set the terms of what I was allowed to hear.
 
-In that half-second the ledger produced a number. *Look what this cost me.* Look at the column. The column was true. A false invoice you would catch; mine was accurate to the dollar, and it was doing one job, which was keeping me from saying the sentence I had been sitting on. *I have not done this.*
+What I said was: *You don't think deep introspection and shadow work and uncovering all your hidden motivations isn't fun?*
 
-The verdict was right, I was not ready. The invoice was right, I had paid. Between a true verdict and a true invoice, nobody runs the audit. I did not run mine for four years. Allyship was for other people. I was a smart Black man. I did not need to learn how to be helpful.
+Read it again. It is a question with no question in it. There is a double negative in the middle because I was arguing with two things at once and only one of them had been said out loud. They had told me something true about the thing I made. I answered from the column.
 
-I can still get a laugh out of *I never took my own course.* That means the part is still wild. So here is the audit, four years late, run where you can watch.
+I have known that sentence by heart for four years. It still gets a laugh out of me. What sits in the second after the laugh is shame, and I have not found a way to make that second shorter.
 ```
 
 ---
+
+## Provenance of every fact in v4
+
+| In the passage | Source |
+|---|---|
+| Somebody said mid-course that it wasn't fun | `ch9:340`, Wendell's own text |
+| *"You don't think deep introspection and shadow work and uncovering all your hidden motivations isn't fun?"* | **Wendell, verbatim, 2026-07-31.** Kept exactly as given, double negative and all |
+| Six years of doing this for free | `ch9:336` — *"the emotional labor already extracted from me for free"* |
+| The only Black person somebody could think to ask | `ch9:334` — *"Most of them came from white friends. Many of them knew no other Black person"* |
+| Four years | his 3-2-1, 2026-07-31 |
+
+The person is unnamed and takes **they**, since Wendell did not say. One word to
+change if he wants it specific.
 
 ## Why it is built this way
 
