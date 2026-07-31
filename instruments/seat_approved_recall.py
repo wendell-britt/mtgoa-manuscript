@@ -36,8 +36,11 @@ EDITS = [
     ("R1R2", "ch3.md",
      "Chapter 1 taught you to read the meter: what a move costs you. The Shaman adds "
      "the next layer: what that spending does to the living field.",
+     # Ruled to a colon by Wendell, 2026-07-31, after the W9 sweep took the other
+     # eight chapters to zero and left this the only em-dash in the manuscript. The
+     # approved draft carried a dash; the ruling is later than the approval.
      FUEL + " The Shaman adds the next layer: what that spending does to the living "
-     "field — to the people around you, and what it leaves them carrying."),
+     "field: to the people around you, and what it leaves them carrying."),
 
     ("R1cut", "ch4.md",
      "Chapter 1 taught you to read the meter: what a move costs you. Chapter 3 taught "

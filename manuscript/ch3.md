@@ -484,7 +484,7 @@ These are the five renewable tokens, and you reach every one of them the same wa
 
 ### The Energy Ecology: Why Some Moves Restore You and Others Hollow You Out
 
-Chapter 1 taught you to read your own fuel: what a move costs you. The Shaman adds the next layer: what that spending does to the living field — to the people around you, and what it leaves them carrying.
+Chapter 1 taught you to read your own fuel: what a move costs you. The Shaman adds the next layer: what that spending does to the living field: to the people around you, and what it leaves them carrying.
 
 The WAVE-Spiral does not make every move easy. It was never going to.
 
