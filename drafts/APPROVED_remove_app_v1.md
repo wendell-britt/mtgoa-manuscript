@@ -27,25 +27,34 @@ survives the cut untouched.
 | ch7 | `Look at the sequence, not the verdict. That is why the app keeps count.` | `Look at the sequence, not the verdict.` |
 | ch8 | …`that is why the app keeps count.` | …`that is where the pattern shows.` |
 
-### ch3 — the one that is not a trailing clause
+### ch3 — the deeper cut, ruled 2026-07-31
 
-`ch3` carries the sting rather than the justification, so a bare cut loses the
-warning:
+**Wendell: cut the six weeks too.** The threat invents a timeline the book does
+not own. Measured: no six-week or N-week arc is promised anywhere in
+`manuscript/`. The only other hits are a narrative example at `ch4:22` and the
+app trial itself at `ch1:269`, which is also going — so after this pass the book
+makes **no day-count or week-count promise at all**.
 
-**OLD**
+**OLD** — cut the trailing sentence entire, including the space before it:
 ```
-You practiced it. The app keeps count, and it will tell you when you have been feeling deeply for six weeks and calling it allyship.
+ The app keeps count, and it will tell you when you have been feeling deeply for six weeks and calling it allyship.
 ```
+**NEW** — nothing.
 
-**Option A — reframe, promise removed, warning kept.** *Recommended.* The
-sentence's job is to catch the reader performing insight instead of acting, which
-is the Shaman's signature failure and worth keeping.
-```
-You practiced it. Six weeks of feeling deeply and calling it allyship is a thing that happens, and you are the only one positioned to catch it.
-```
+The paragraph then ends:
 
-**Option B — pure cut.** Leaves `You practiced it.` carrying the beat alone.
-Cheapest, and it loses the book's sharpest line about self-deception in ch3.
+> …If the read only ever circles back into your own head, refined and unsaid, or
+> comes out dressed in the words no one can fault, you never made the Shaman's
+> move. **You practiced it.**
+
+**This is the better ending, and not only the safer one.** *You practiced it* is
+a two-word verdict, and the cut sentence was an external enforcer bolted onto a
+line that already lands. The earlier draft reframed the warning to keep it; the
+warning did not need keeping, because the sentence above it already delivers it
+harder.
+
+Gate clean · be 0.28 · copula 1.15 · waste 1.00 · zombie 0.00 · expletive 0.00 ·
+passive 0.00.
 
 ## 2 · Appendix A — the pre-draw diagnostic, not shipping
 
