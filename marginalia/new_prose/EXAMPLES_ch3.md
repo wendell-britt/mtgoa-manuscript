@@ -37,9 +37,8 @@ You caught it because you have been the person holding your face still.
 
 ### Move 2 · Open Up — Turn the Dial Up
 
-**Example:** A colleague presents your analysis as his own and you say nothing. The polite
-version arrives first and fully built: level voice, easy face, a note to raise it with him
-later. Turn the dial up instead. The anger arrives, which you expected. Underneath it sits
+**Example:** A colleague presents your analysis as his own and you say nothing. You compose the polite
+version instantly: level voice, easy face, a note to raise it with him later. Turn the dial up instead. The anger arrives, which you expected. Underneath it sits
 something you did not expect, a small relief, because now you hold a grievance you never had to
 ask for. Keep the relief. The anger was the part you already knew about.
 
