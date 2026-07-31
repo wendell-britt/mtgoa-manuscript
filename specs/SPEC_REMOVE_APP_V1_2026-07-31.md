@@ -111,10 +111,13 @@ the thing that makes that practice better.
 
 ## 5 · Rulings needed
 
-1. **B1 — what replaces "the app keeps count"?** It is the book's accountability
-   mechanism at six sites and cannot simply be deleted.
-2. **The pre-draw domain diagnostic** (`APPENDIX_A:171`) — shipping with the
-   Myths Read, or out?
+1. ~~**B1 — what replaces "the app keeps count"?**~~ **RULED: nothing replaces
+   it.** The promise comes out at all six sites; paper does not keep count and
+   the book will not claim it does. The tracking promise returns in a later
+   edition — a fully interactive digital workbook is already designed. Drafted
+   in `drafts/APPROVED_remove_app_v1.md`.
+2. ~~**The pre-draw domain diagnostic**~~ **RULED: not shipping.** Cut from
+   `APPENDIX_A:165` and `:171`. Drafted.
 3. **The superpower quiz** — write it a reference, or leave it unlinked?
 4. **`about_the_author`** — *"builder of bars-engine, the app this book routes
    to"* is a biography line, not a routing line. Keep as biography, or cut?
