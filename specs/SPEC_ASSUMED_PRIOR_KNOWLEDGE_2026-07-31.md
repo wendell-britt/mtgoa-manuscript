@@ -168,7 +168,83 @@ the numbers drift with every commit that session makes.
 Each through `instruments/spec_edit.py`, each gated, each one commit answering
 one editorial question.
 
-## 7 · Rulings needed
+## 7 · Rulings needed — with options
+
+Drafted 2026-07-31. Each option is written out so the choice is between
+sentences rather than between abstractions. None is applied; all await Wendell.
+
+### R1 · The meter becomes what?
+
+`ch1:125` is the moment the escalator is pointing at: *"After you engage it, do
+you walk away with more fuel in the tank or less? That answer is your real
+score."* Chapter 1's nouns are **the Token System** (2), **the tank** (2),
+**renewable / non-renewable tokens** (2), **your real score** (1).
+
+| | Option | Cost |
+|---|---|---|
+| **A** | *"Chapter 1 taught you to read the tank: what a move costs you."* | 3 sites, one noun. Keeps the gauge image the ladder wants — a tank has a level you read |
+| **B** | *"Chapter 1 taught you to read your own fuel: what a move costs you."* | 3 sites. Warmer, slightly less precise |
+| **C** | *"Chapter 1 taught you what a move costs you."* — cut the metaphor | 3 sites. Zero risk, loses the *read the X* parallel the ladder is built on |
+| **D** | **Reverse it — put *meter* into ch1** at `ch1:125`, so all three downstream claims become true | **1 site.** Cheapest by count, but it invents ch1 vocabulary to satisfy ch3–ch5, which is the tail wagging the dog |
+
+**Recommend A.** *The tank* is already ch1's word, it survives three repetitions,
+and *read the tank* keeps the ladder's parallel intact. D is tempting on cost and
+worth considering only if the word *meter* is one you actively want.
+
+### R2 · The living field
+
+`ch3` names it **once**, inside the escalator sentence itself, though the chapter
+teaches field-reading throughout — it is the Shaman's whole job.
+
+| | Option | Cost |
+|---|---|---|
+| **A** | Seat the phrase once in ch3's teaching, before the escalator | 1 insertion in ch3. Makes both downstream claims true |
+| **B** | Soften ch4 and ch5 to describe rather than cite: *"Chapter 3 taught you to ask what a move does to the people around it"* | 2 sites, no new prose |
+| **C** | Leave it. The claim is technically true | 0 |
+
+**Recommend A.** The concept is genuinely taught; only the label is thin, and one
+sentence in ch3 converts a thin claim into an earned one for two later chapters.
+
+### R3 · The ladder stops after ch5
+
+ch6, ch7 and ch8 do not continue it. Each has a natural rung already written into
+its own material — the design question, the price question, the game question.
+
+| | Option | Cost |
+|---|---|---|
+| **A** | Finish it: three more escalator sentences at ch6, ch7, ch8 | 3 insertions, ~40 words each. Turns an abandoned device into the book's cumulative spine, and strengthens ch9's payoff |
+| **B** | End it deliberately at ch5 with one closing beat, so it reads as complete | 1 insertion |
+| **C** | Cut it from ch3, ch4, ch5 | 3 deletions. Loses a good device |
+
+**Recommend A**, if any prose work happens after ship. The ladder is the spiral
+curriculum working, and it is the single clearest answer to the unearned-recall
+defect: recall that is built rung by rung cannot be unearned.
+
+### R4 · The altar
+
+Two uses, both in ch9, and the first glosses itself:
+
+> `ch9:83` — "The six Faces are your toolkit. The WAVE is your process. **The
+> altar — the practice of returning — is your anchor.**"
+> `ch9:286` — "**You know that the altar is not optional** — that coming back
+> makes the work real."
+
+The problem is not the gloss. It is that `ch9:83` gives the altar **equal billing
+with the Faces and the WAVE** — three pillars, two of which the book spent nine
+chapters teaching — and `ch9:286` then asserts recall. ch8 teaches the concept
+thoroughly as the **Returner** (`ch8:307`, `ch8:368`); it never calls it an altar.
+
+| | Option | Cost |
+|---|---|---|
+| **A** | Cut the name, keep the concept: *"The practice of returning is your anchor"* / *"You know that the return is not optional"* | 2 sites, no new prose. Zero loss — the gloss already carries the meaning |
+| **B** | Seat the name in ch8 beside the Returner, so both ch9 uses become earned | 1 insertion in ch8 + 2 sites left alone. Keeps a good image and earns the third pillar |
+| **C** | Keep `ch9:83`'s gloss, soften only `ch9:286` | 1 site. Leaves the equal-billing problem |
+
+**Recommend B if the altar is an image you want**, A if it is not. This is the
+one ruling where the cheap fix and the good fix differ, because a third pillar
+named at the close is worth having — provided the book taught it.
+
+## 8 · Rulings needed
 
 1. **The meter → what noun?** Chapter 1's own vocabulary is *the Token System*,
    *tokens*, *the tank*, *fuel*. Wendell's call which one the escalator should
