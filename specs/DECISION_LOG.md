@@ -21,14 +21,26 @@ Format: `ID | location | reader problem | evidence | decision | intended result 
 | DL-7 | book-wide register | Short-declarative register defended as voice | `SPEC_REPETITION_AND_CUTS.md`, three outside controls + *Igniting Joy* | It is drift, not voice; `prose_diet.py` targets *Igniting Joy*, never the book's own average | The bar is Wendell's voice working | DECIDED |
 | DL-11 | book-wide | Copula density 2.14× the control | `SPEC_REGISTER_2026-07-29.md` | — | — | OPEN, awaiting Wendell |
 
+## Closed — verified by instrument 2026-07-31
+
+**These three were seeded from `MANIFEST.md` and were already ruled.** The
+manifest was stale; `build_book.py` and `grep` settle all three. This is the
+repo's own standing lesson arriving on the first day the log existed: *do not
+plan from a claim in a planning document without running the instrument.*
+
+| ID | Location | Evidence | Ruling | Status |
+|---|---|---|---|---|
+| DL-8 | Appendix C | `appendices/APPENDIX_C_KEY_TERMS.md` header: retired 2026-07-30 by Wendell, off the spine, unreferenced. `build_book.py` seats Appendix C = `APPENDIX_C_FIVE_CHANNELS.md`, 1,206 words | Glossary retired; C is The Five Channels in Practice | CLOSED |
+| DL-9 | `ch3:415` (was cited as `ch3:400`) | Reference reads *Appendix C: The Five Channels in Practice*; that letter now exists; `build_book.py` reports no UNPLACED | Lettered. Reference resolves | CLOSED |
+| DL-10 | "Head Sura" | Appears in **zero** chapter files and **zero** marginalia insertions. Only `FACE_AUTHORS.md` quoting a note that never shipped | Not a canon conflict and not a print blocker. Spec hygiene only | CLOSED |
+
 ## Open items that block or shape print
 
 | ID | Location | Reader problem | Evidence | Decision | Intended result | Status |
 |---|---|---|---|---|---|---|
-| DL-8 | Appendix C | Glossary carries retired canon (1 eight-gate def, 3 Vulnerable Child refs, 4 `[Ch0]` tags, 11 trigram refs) | `MANIFEST.md` | Keep repaired glossary, or retire it and give C to the Five Channels | One coherent Appendix C | OPEN |
-| DL-9 | `ch3:400` | Reader sent to an appendix that has no letter | `build_book.py` UNPLACED every run; prose written, 1,176 words, `drafts/appendix_channels.md` | Assign a letter or remove the reference | No dangling reference | OPEN |
-| DL-10 | Line marginalia | "Head Sura" vs Corin Ash, Head of the Line | `FACE_AUTHORS.md` canon conflict | Predecessor, lieutenant, or leftover — name it | No contradicted name in print | OPEN |
-| DL-12 | four `⟦…⟧` register tokens | None in canon | `MANIFEST.md` | Due only if the register pass extends to the other five Heads | — | DEFERRED, not gating |
+| DL-16 | `back_matter/kickstarter_backers.md` | Backers promised a credit do not find one | `build_book.py` — GAP, spine assembles with 2 gaps | Supply the list, or drop the component | Spine builds with no gaps | OPEN — needs Wendell |
+| DL-17 | `back_matter/enrollment.md` | Reader finishes the book with no next step | `build_book.py` — GAP; `MANIFEST.md` notes it waits on R1 | Write it, or ship without it | Spine builds with no gaps | OPEN — needs Wendell |
+| DL-12 | four `⟦…⟧` register tokens | None in canon | `gate.py` tokens column reads 0 on all four surfaces | Due only if the register pass extends to the other five Heads | — | DEFERRED, not gating |
 
 ## This session (2026-07-31)
 

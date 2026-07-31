@@ -147,12 +147,19 @@ For any editorial work from today forward:
 
 ### The ship-window subset (next 24 hours)
 
-The gate is green and the book builds. Between now and delivery, only the
-following applies: the final Book Architect scan (§2, capped at five findings,
-console only), rulings on the open log items that block print (DL-8 Appendix C,
-DL-9 the Five Channels letter, DL-10 Sura/Ash), `gate.py` on anything touched,
-and nothing else. Every heavier item in this spec is standing machinery for
-post-ship editions, not a reason to open the manuscript tonight.
+The gate is green on four surfaces and the spine assembles at 115,887 words.
+Between now and delivery, only the following applies: the final Book Architect
+scan (§2, capped at five findings, console only), the two back-matter gaps
+(DL-16 Kickstarter backers, DL-17 enrollment page) which are the only items
+`build_book.py` still reports, `gate.py` on anything touched, and nothing else.
+Every heavier item in this spec is standing machinery for post-ship editions,
+not a reason to open the manuscript tonight.
+
+**Recorded, because it is the point of the log.** Three items were entered here
+from `MANIFEST.md` and were already ruled — Appendix C, the Five Channels
+letter, and Sura. The instruments closed all three in one command. A ledger
+seeded from a planning document inherits that document's errors; seed it from
+instrument output.
 
 ---
 
