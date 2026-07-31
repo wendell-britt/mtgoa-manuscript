@@ -253,3 +253,47 @@ named at the close is worth having — provided the book taught it.
 3. **The ladder stops after ch5** — finish it through ch6–ch8, or end it
    deliberately at ch5.
 4. **The altar** (`ch9`) — define it, or cut both uses.
+
+---
+
+## 9 · RULED by Wendell, 2026-07-31 — R1 B · R2 A · R3 A · R4 A
+
+Drafts written, gated, and **awaiting approval before any chapter is touched**.
+Prose lives in the console and the session scratchpad only, per AGENTS.md.
+
+**Review pass run, per `.claude/skills/mtgoa-review`:** gate clean; diet
+**be 0.25 · copula 0.53 · waste 0.45 · zombie 1.02 · expletive 0.00 · passive
+0.00** — every counter under the 1.30 line. `/no-ai-slop` detect mode found four
+real defects in draft 1, all fixed in draft 3: a person shift into first person
+in the ch7 and ch8 questions, a two-referent pronoun stack in the ch8 question, a
+mixed metaphor (*"the people standing inside the move"*), and a passive tail.
+
+**One trade recorded, because it nearly shipped.** Draft 2 compressed the refrain
+to avoid six verbatim repetitions and drove **zombie to 1.94** by adding five
+*"the X question"* pairs. Repetition was traded for nominalization, which is the
+worse defect and the one the reader cannot see. Draft 3 restores the full refrain
+— which is ch4 and ch5's existing pattern regardless, so compressing it was a
+voice change I had no ruling for.
+
+### R3 is larger than it was priced
+
+**ch6, ch7 and ch8 have no Ecology section at all.** Only ch3, ch4 and ch5 carry
+one. So R3-A is three *new sections*, not three sentences — roughly 90 words each
+including heading. Proposed placement, mirroring where ch4 and ch5 put theirs
+(immediately after the stage sequence):
+
+| Chapter | New heading | Seat between |
+|---|---|---|
+| ch6 | `### The Design Ecology` | after the flow cycle at `ch6:301`, before `Name One Unstated Assumption` at `ch6:309` |
+| ch7 | `### The Presence Ecology` | after Channel 5 at `ch7:419`, before `The Ledger That Became a Standing` at `ch7:476` |
+| ch8 | `### The Sight Ecology` | after the stage sequence at `ch8:436`, before `The Walk Back` at `ch8:460` |
+
+ch8's slot mirrors ch4 and ch5 exactly. ch6 and ch7 diverge structurally and
+their slots are a judgment call.
+
+### Still open
+
+The refrain reaches **six sites** under R3-A. It works as a mnemonic at two and
+risks reading as boilerplate by the fifth. Draft 3 keeps it verbatim because that
+is the established pattern; whether it survives six repetitions is Wendell's call
+and the only piece of this set that is not settled.
