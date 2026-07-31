@@ -173,7 +173,7 @@ has · one move from the thirty · the failure condition · the date · the cost
 the person who receives it. Every field is already canon; nothing is new
 vocabulary.
 
-**And the framing move, which is Orr's and which I think is the whole rewrite:**
+**The framing move is Orr's, and I think it is the whole rewrite:**
 
 > The chapter should not ask her what she wants to build. It should show her that
 > she has been building it since Chapter 1 and hand her the page where it already
