@@ -80,7 +80,7 @@ You have been the Sage. You know how to see which game you're in, switch deliber
 
 That's a design system. You have already lived every line of that list. That is what makes it usable.
 
-The six Faces are your toolkit. The WAVE is your process. The altar — the practice of returning — is your anchor. Now you get to design your specific practice: your own combination of all six, grounded in your specific survival, your specific superpowers, your specific village.
+The six Faces are your toolkit. The WAVE is your process. The practice of returning is your anchor. Now you get to design your specific practice: your own combination of all six, grounded in your specific survival, your specific superpowers, your specific village.
 
 Nobody else can design this game. Nobody else has your specific combination of gifts and gaps, your specific history, your specific people. The village needed the six Faces as a teaching instrument — and now the teaching instrument passes to you. You can use it to build whatever this book could not build. You can design the allyship practice that this book only points toward.
 
@@ -283,7 +283,7 @@ Everything on that list started as something you learned and became something yo
 
 You now know the WAVE. Wake up. Open up. Clean up. Grow up. Show up. Come back.
 
-You know that the altar is not optional — that coming back makes the work real. That the return to the village, carrying what you found, is the whole point.
+You know that the return is not optional — that coming back makes the work real. That carrying what you found back to the village is the whole point.
 
 You know that the five emotional channels do more than name things — they map the territory this book has been walking you into. Fear, anger, sadness, joy, neutrality: each one a gate you can walk through instead of a threat to manage.
 
