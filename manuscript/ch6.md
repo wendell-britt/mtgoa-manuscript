@@ -549,7 +549,7 @@ Draw from your twenty rather than the hundred and twenty, though not all from on
 
 **Show Up.** It builds the structure that makes the conversion permanent. The thing that needed feeling now has a process attached to it, and nobody will have to feel it again. Including the people it happened to.
 
-Where it bites is Clean Up. Selecting a transformation is a real move with a real place in the sequence, and this one is being run early and without authorization. The four rows around it are that unauthorized selection showing up before and after itself.
+Where it bites is Clean Up. Selecting a transformation is a real move with a real place in the sequence, and this one is being run early and without authorization. The four rows around it are what that early selection does to the stages on either side of it.
 
 Take **Forge the Anger**: Clean Up, Direct Action, Architect. Sit with how uncomfortable it is that the card asks you to choose at all. The answer the mechanism keeps arriving at is translate: heat into structure, because structure is the one output this Face trusts. The card's job is to make that choice happen in the open, once, where you can watch yourself make it.
 

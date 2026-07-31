@@ -54,7 +54,12 @@ COUNTERS = [
     ("andbut", r'(^|[.?!]["“”\'’]? |\*|\*\*|— |; )(And|But) ', re.M),
     # "rooms" plural banned 2026-07-29 by Wendell. The earlier rule read
     # \broom\b, which let the plural through; ch5 carried three.
-    ("banned", r'\brooms?\b|\bquiet(ly)?\b|\bgenuinely\b', re.I),
+    # 2026-07-31: the comparative and superlative were invisible. `quiet(ly)?` matched
+    # `quiet` and `quietly` and walked past `quieter`, which sat in ch1 and ch5. Wendell
+    # on the ch5 site: "how can you claim to hear something when you don't have ears. You
+    # do have eyes so harder to see makes sense." The word was wrong there as a metaphor
+    # before it was wrong as a banned word.
+    ("banned", r'\brooms?\b|\bquiet(ly|er|est)?\b|\bgenuinely\b', re.I),
     ("emdash", r'[a-zA-Z0-9,]—[a-zA-Z0-9]', 0),
     ("A0", r'you (were|was) (taught|told|raised|trained)|somewhere along the way'
            r'|the village taught you', re.I),

@@ -239,7 +239,7 @@ Now the question, what comes next?
 
 The question at the end of this book lands simpler and harder than which Face you should become next, or how you stay at Sage forever, or which game ranks highest. It comes to this: *what game do you want to play, and what are you going to build?*
 
-That's what this final journey does. Ascending belongs to a different journey, and so does perfecting. This one walks out into the village with everything you've learned and makes something real.
+That's what this final journey does. Ascending belongs to somebody else's book, and so does perfecting. This one walks out into the village with everything you've learned and makes something real.
 
 You came to this book as someone who wanted to do allyship better.
 
@@ -361,7 +361,7 @@ That's what the walk feels like. Not ascending. Circling. Each circle goes a lit
 
 ---
 
-The iteration is the walk. Every detour that feels like a detour just shows you what walking looks like.
+The iteration is the walk. Every detour that feels like a detour is another stretch of the same road.
 
 Every version of bars-engine was the walk, not a step toward it. The first design was the walk. The third redesign was the walk. The version that failed in front of people was the walk. You will plan, then execute, then find the plan was a draft. That shape holds all the way through.
 

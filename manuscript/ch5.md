@@ -75,7 +75,7 @@ The Challenger didn't stay. The Challenger didn't need to: the lines were drawn,
 
 The Regent showed up at exactly that moment.
 
-The Regent didn't arrive with fire. The Regent arrived with something quieter and harder to see: *structure.* The Regent said: "You've drawn the lines. Now let me show you how to build the city around them." The Regent built the first walls. Not walls to keep people out. Walls to hold what the village had agreed to. The Regent created the first traditions: the weekly council that opened with a reading of the village's stated values, the yearly ceremony that renewed the vows, the roles that passed from person to person so that when one person left, the *role* stayed and the next person could step into it.
+The Regent didn't arrive with fire. The Regent arrived with something slower and harder to see: *structure.* The Regent said: "You've drawn the lines. Now let me show you how to build the city around them." The Regent built the first walls. Not walls to keep people out. Walls to hold what the village had agreed to. The Regent created the first traditions: the weekly council that opened with a reading of the village's stated values, the yearly ceremony that renewed the vows, the roles that passed from person to person so that when one person left, the *role* stayed and the next person could step into it.
 
 For a generation, this worked beautifully.
 
