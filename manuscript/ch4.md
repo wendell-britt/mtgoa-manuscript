@@ -274,7 +274,7 @@ The Shaman (Ch3) taught you to read the five EA channels: Metal/Fear, Water/Sadn
 | **The Refusal** | Earth/Neutrality | Compliance gone numb → Peace |
 | **The Reckoning** | Water/Sadness | Sadness under the anger → Poignance |
 
-Each mode names a different signal in the body asking to be spent a different way.
+Each mode names a different signal in the body asking to be spent a different way. Whatever you are carrying when the moment comes, one of these five will spend it. Confrontation makes no demand on your mood at the door.
 
 **The Line** (Fire/Anger → Triumph): Outrage is Fire arriving with nowhere to land, so it vents. The line is the vessel. Triumph here is the specific satisfaction of *I can act*, which Fire wants and almost never gets. Winning the exchange has nothing to do with it. A stated line is anger that made it all the way out of the body and into the world without deforming on the way.
 

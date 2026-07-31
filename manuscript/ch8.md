@@ -318,7 +318,7 @@ Each mode grounds in one EA signal and carries its own alchemical arc:
 | **Liberator** | Wood/Joy | Joy fused to the game → Bliss |
 | **Returner** | Water/Sadness | Altitude-loss → Poignance |
 
-The Sage's practice runs the full spectrum, and that makes this the last Face before the Player: the emotional range has nowhere left to hide.
+The Sage's practice runs the full spectrum, and that makes this the last Face before the Player: the emotional range has nowhere left to hide. You will feel the game from inside it, and one of these five sees from exactly there. No other vantage was ever on offer.
 
 ---
 

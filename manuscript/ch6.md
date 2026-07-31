@@ -284,7 +284,7 @@ The five Architect modes are five ways logic moves through a problem. Each one w
 | **Inventor** | Wood/Joy | Joy with no structure to live in → Bliss |
 | **Optimizer** | Water/Sadness | Sadness about what stopped working → Poignance |
 
-The mapping answers the question this chapter gets asked most often: how a Face whose native material is logic belongs in a book built on emotional alchemy. The logic is what the Architect does with the signal. The signal is what tells the Architect there is anything to do.
+The mapping answers the question this chapter gets asked most often: how a Face whose native material is logic belongs in a book built on emotional alchemy. The logic is what the Architect does with the signal. The signal is what tells the Architect there is anything to do. A failing system will leave you feeling one of the five, and a mode here runs on each of them. The Strategist wants your anger in particular.
 
 The **Mapmaker** runs on Metal. Fear is the channel that detects what could go wrong, and dread is that channel stuck, the break you can see coming and cannot name, so you carry it around instead of drawing it. Drawn, the same signal converts: the risk becomes a feature of the terrain rather than a thing waiting behind you. *I can explore.* That is why mapping a failure mode is a relief rather than a burden, and why a team that has named its risks moves faster than a team that hasn't.
 
