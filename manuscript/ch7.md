@@ -104,11 +104,11 @@ The Diplomat's practice works across the full spectrum. Each bridging mode rests
 
 | Mode | EA Signal | Dissatisfaction → Satisfaction |
 |------|-----------|-------------------------------|
-| **Bridge-Builder** | Metal/Fear | Anxiety → Curiosity (primary) / Stage-Fright → Authentic Presence |
-| **Translator** | Earth/Neutrality | Disagreement → Dialogue |
-| **Field-Holder** | Wood/Joy | Inclusion-performance → Genuine inclusion |
-| **Repairer** | Water/Sadness | Rupture → Repair (moral equivalence → discerned equivalence) |
-| **Integrative Negotiator** | Fire/Anger | Accommodation → Honest terms (resentful peace → agreement naming all stakes) |
+| **Bridge-Builder** | Metal/Fear | Anxiety → Curiosity → **Wonder** (primary) / Stage-Fright → Authentic Presence |
+| **Translator** | Earth/Neutrality | Disagreement → Dialogue → **Peace** |
+| **Field-Holder** | Wood/Joy | Inclusion-performance → Genuine inclusion → **Bliss** |
+| **Repairer** | Water/Sadness | Rupture → Repair (moral equivalence → discerned equivalence) → **Poignance** |
+| **Integrative Negotiator** | Fire/Anger | Accommodation → Honest terms (resentful peace → agreement naming all stakes) → **Triumph** |
 
 Each mode's full arc, the dissatisfaction it carries and the alchemy that transmutes it, is worked through in the five channel deep-dives in Section 4.
 
@@ -251,7 +251,7 @@ The stage-fright, acknowledged as the shame of being a learner instead of an exp
 
 **[TRANSLATE] Translate 1 — Anxiety → Interest**
 
-The Bridge-Builder's primary Translate move runs channel-wide, from Metal (fear/anxiety) to Wood (joy/interest). When the nervous system registers the approach as threat (will I be rejected?), the Translate moves the charge forward in the elemental cycle: instead of contracting around the anxiety, you let it inform your interest. *What if this goes well? What is actually present here that I want to learn about?*
+The Bridge-Builder's primary Translate move runs the length of one channel, from the fear end of Metal to the curiosity at its far end. When the nervous system registers the approach as threat (will I be rejected?), the Translate moves the charge forward in the elemental cycle: instead of contracting around the anxiety, you let it inform your interest. *What if this goes well? What is actually present here that I want to learn about?*
 
 The anxiety becomes the fuel for engagement rather than the signal to withdraw. A sustaining move: the charge becomes contact instead of withdrawal.
 

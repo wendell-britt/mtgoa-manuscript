@@ -357,11 +357,11 @@ The Regent's practice is generational, not moment-to-moment. Energy still flows.
 
 | Mode | EA Signal | Dissatisfaction → Satisfaction |
 |------|-----------|-------------------------------|
-| **The Custodian** | Earth/Neutrality | Obedience → True allegiance |
-| **The Inheritor** | Water/Sadness | Inheritance-shame → Inheritance-gift |
-| **The Teacher** | Wood/Joy | Duty → Service |
-| **The Reformer** | Fire/Anger | Rigidity → Integrity |
-| **The Keeper of Vows** | Metal/Fear | Dogma → Faithfulness |
+| **The Custodian** | Earth/Neutrality | Obedience → True allegiance → **Peace** |
+| **The Inheritor** | Water/Sadness | Inheritance-shame → Inheritance-gift → **Poignance** |
+| **The Teacher** | Wood/Joy | Duty → Service → **Bliss** |
+| **The Reformer** | Fire/Anger | Rigidity → Integrity → **Triumph** |
+| **The Keeper of Vows** | Metal/Fear | Dogma → Faithfulness → **Wonder** |
 
 **The Custodian** (Earth/Neutrality): Caring for what exists begins as a surrender: you did not choose this. The alchemy moves obedience (compliance) into true allegiance (chosen loyalty). You are not carrying this because you have to. You are carrying it because you said yes to it. The shift from obligation to choice converts the Neutral channel's heaviness into the spaciousness of genuine stewardship.
 
