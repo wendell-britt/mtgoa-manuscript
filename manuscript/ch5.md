@@ -197,7 +197,7 @@ It makes the things you build last longer than you do.
 ## Section 3: The Concept
 ### *What the Regent's Practice Actually Is (And Why It's Not What You've Been Told)*
 
-You already have a version of what "tradition" means. You've been carrying it since the last time someone used it against you.
+You already have a version of what "tradition" means. Most people got theirs the last time somebody used the word against them.
 
 The village keeps tradition instead of passing it on: "we do it this way because we've always done it this way." That treats a practice as a *relic* — preserved because it is old, rather than because it works. That makes a cargo cult of the Regent's practice.
 
@@ -455,7 +455,7 @@ You start with Inherit: *this is what I received.* You spend time actually looki
 
 **Scenario 2: The Family Pattern You Didn't Choose**
 
-You grew up in a family with a specific pattern — around money, around conflict, around who speaks and who stays silent. You inherited it. You have been living it, either repeating it or raging against it, for your entire adult life.
+Every family runs a pattern — around money, around conflict, around who speaks and who stays silent. Whatever yours was, you inherited it, and most of adult life goes into either repeating it or raging against it.
 
 The Regent asks you to: Inherit — *this is what came to me.* Honor — *this part of how I was raised gave me something real.* Steward — *I'm going to tend this consciously even while I'm still angry about it.* Reform — *I'm going to stop passing the wound forward, and name it as a change rather than leaving it to not happen on its own.* Entrust — *I'm going to hand something different to the people who come after me.*
 
