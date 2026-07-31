@@ -79,60 +79,59 @@ You are enrolled. We put that in the first line rather than working up to it, on
 that a student who spends a page wondering whether they qualify has already started the wrong
 course, and we would rather not teach that course.
 
-Six schools operate here, and we require each of them to file an admissions page to a common
-form. The six documents ahead of you were therefore written to the same six questions by six people
-who agree about very little, which makes the differences between them the most reliable
-information in this packet. Read the form once, and then read what each of them does to it:
-Maera will be exact where the form invites vagueness, Corin will answer in fewer words than the
-question took, Sera will number things at you, Irix will refer you to a figure he has not
-enclosed, Elian will give you both sides of an argument you did not raise, and the sixth school
-will file late and have an explanation ready.
+Six schools operate here, and we require each of them to file an admissions page to a common form.
+The six documents ahead of you were therefore written to the same six questions by six people who
+agree about very little, which makes the differences between them the most reliable information in
+this packet. Read the form once, and then read what each of them does to it: Maera will be exact
+where the form invites vagueness, Corin will answer in fewer words than the question took, Sera
+will number things at you, Irix will refer you to a figure he has not enclosed, Elian will give
+you both sides of an argument you did not raise, and the sixth school will file late and have an
+explanation ready.
 
-A word about the order, since it is the first thing students argue with. The schools are
-arranged and the arrangement is real: the School of the Line declines a student who cannot yet
-say what they felt in the last moment they said nothing, and the School of the Horizon declines
-anyone who has not stood in the other five. **We rank the courses and we do not rank the people
-taking them.** An entry requirement states what we are able to teach you next, which is a fact
-about our curriculum rather than a fact about you. We have never found a way to say that
-sentence that stops a first-year from hearing *you are less*, and we have stopped looking,
-because the correction arrives on its own around the third week, generally in the form of a
-fourth-year who is conspicuously worse at something the first-year came in already able to do.
+A word about the order, since it is the first thing students argue with. The schools are arranged
+and the arrangement is real: the School of the Line declines a student who cannot yet say what
+they felt in the last moment they said nothing, and the School of the Horizon declines anyone who
+has not stood in the other five. **We rank the courses and we do not rank the people taking
+them.** An entry requirement states what we are able to teach you next, which is a fact about our
+curriculum rather than a fact about you. We have never found a way to say that sentence that stops
+a first-year from hearing *you are less*, and we have stopped looking, because the correction
+arrives on its own around the third week, generally in the form of a fourth-year who is
+conspicuously worse at something the first-year came in already able to do.
 
 Everyone begins at the School of the Body, including those who arrive certain they are past it,
-and Maera's records on how that generally turns out are worth considerably more than any
-assurance of mine.
+and Maera's records on how that generally turns out are worth considerably more than any assurance
+of mine.
 
-We run a term the same way at all six schools, and the shape of it is old enough that none of
-us will admit to having invented it. You arrive carrying something that is actually happening to
-you rather than a case you have selected for its clarity. You say how much of it you are taking
-on this term, out loud, before anybody teaches you anything. You are taught one move, one, and
-the school will decline to teach you a second until the first has been made outside the
-building, on a person, by a date, at a cost you were able to name in advance. Then you come
-back and say what happened, and it is entered.
+We run a term the same way at all six schools, and the shape of it is old enough that none of us
+will admit to having invented it. You arrive carrying something that is actually happening to you
+rather than a case you have selected for its clarity. You say how much of it you are taking on
+this term, out loud, before anybody teaches you anything. You are taught one move, one, and the
+school will decline to teach you a second until the first has been made outside the building, on a
+person, by a date, at a cost you were able to name in advance. Then you come back and say what
+happened, and it is entered.
 
-What the person did with your move is theirs, and we do not enter it as your result. Students
-who want it entered as their result we ask to say why, and that is usually the most useful
+What the person did with your move is theirs, and we do not enter it as your result. Students who
+want it entered as their result we ask to say why, and that is usually the most useful
 conversation we have with them all year.
 
 **On scope.** You may enrol at any depth, and we do not distinguish in the register. A student who
-takes a term at the size they can actually carry has enrolled; a student who takes a term at
-the size they believe is expected of them has enrolled in the expectation. We have watched the
-second kind of enrolment produce three good months and a departure often enough that we now ask
-the question at the door instead of in the spring.
+takes a term at the size they can actually carry has enrolled; a student who takes a term at the
+size they believe is expected of them has enrolled in the expectation. We have watched the second
+kind of enrolment produce three good months and a departure often enough that we now ask the
+question at the door instead of in the spring.
 
-**On the roll.** We do not publish who is enrolled here, and we will not confirm it to anyone
-who asks. This is not modesty and it is not security. A course whose completion can be shown to
-others will be taken for the showing, by perfectly sincere people, and the work will bend toward
-whatever part of it happens to be visible, so we removed the audience rather than ask students
-to keep resisting it. What you do here is yours to disclose, to whoever you choose, or to
-nobody at all.
+**On the roll.** We do not publish who is enrolled here, and we will not confirm it to anyone who
+asks. A course whose completion can be shown to others will be taken for the showing, by perfectly
+sincere people, and the work will bend toward whatever part of it happens to be visible, so we
+removed the audience rather than ask students to keep resisting it. What you do here is yours to
+disclose, to whoever you choose, or to nobody at all.
 
-Last, and the schools would want this stated plainly: **this letter is not the authority on any
-of it.** Nothing here amends a clause, overrides a Head, or settles a question between two
-schools, and I have been asked to settle such questions a great deal more often than I have
-agreed to. A document at the door can prepare you for instruction and cannot stand in for it,
-and we would be teaching you the wrong thing on the first page if we let it try.
+Last, and the schools would want it stated plainly. **This letter is not the authority on any of
+it.** Nothing here amends a clause, overrides a Head, or settles a question between two schools,
+and I have been asked to settle such questions a great deal more often than I have agreed to. A
+document at the door can prepare you for instruction and cannot stand in for it, and we would be
+teaching you the wrong thing on the first page if we let it try.
 
-Come in, and bring the thing that is actually happening rather than the one you have prepared.
+The School of the Body takes first-years every season, and Maera is expecting you.
 
 *— the Headmaster*
