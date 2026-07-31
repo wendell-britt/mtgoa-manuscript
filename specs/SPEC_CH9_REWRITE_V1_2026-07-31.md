@@ -285,3 +285,92 @@ passive 0.00. Roughly 260 words, against Section 5's 5,144.
 **Every claim in it is sourced to existing prose.** Nothing is invented; the
 hallucination risk Wendell named is answered by the fact that the answers were
 already on the page, in Chapter 1, waiting for a form.
+
+---
+
+## 10 · Second pass — Wendell's correction
+
+**Wendell:** *"Nice but shallow. We've made it a bit too tidy… I was an
+architect diplomat and she needed a sage, which meant I needed to confront the
+other faces. The shaman and the challenger and the regent… We can twist the knife
+on the cost. This is where we can mirror their own cost for not showing up as an
+effective ally."*
+
+**The correction makes the book's own thesis do the work.** `THESIS_DRAFT`: *to
+be an effective allyship game master you must master all six levels; if you skip
+one, the shadow of that level is what blocks you.* Two Faces home, four missing,
+and the missing four had to be gone and got. **That is why the book has nine
+chapters, and it is a better answer to "what justifies this book existing" than
+anything in §9.**
+
+Both home Faces are already evidenced: Diplomat at `ch1:187`, Architect at
+`ch6:365` — *"I have a part of me I call the Collapse… it still cringes at the
+system I built that nobody used."*
+
+### The move — five options, all canon
+
+The Sage's five are at `ch8:590`–`650`. Wendell picks.
+
+| | Move | Why it fits | What it costs |
+|---|---|---|---|
+| **1** | **Return Without Condescension** (`ch8:626`) | The book *is* the return — the Sage goes up, sees the map, comes back down carrying it. ch9's own subtitle is *The Return*, so the chapter's frame and the move become the same thing | The safest and the most expected. It confirms rather than surprises |
+| **2** | **Hold the Meta Without Losing the Ground** (`ch8:650`) | Writing about six Faces while being two, without floating off. **It would also close the book's only bare claim** — `ch8:603` is the one move in the manuscript with no worked example, and this page would be it | The hardest to make concrete, which is why it has no example yet |
+| **3** | **Put a Game Down** (`ch8:636`) | He put down the good-ally game, and the applause counter is already confessed at `ch1:119` | Points at what he stopped rather than what he made — a subtraction where the reader wants a build |
+| **4** | **Switch Games Deliberately** (`ch8:606`) | Diplomat to Challenger, on purpose, once the anger arrived (`ch1:10`) | Reads as a Challenger move wearing a Sage label |
+| **5** | **Name the Game** (`ch8:590`) | Naming that he had been playing for applause | It is the first move of the chapter, and this is the last chapter |
+
+**Recommend 2, with 1 as the safe alternative.** *Hold the Meta Without Losing
+the Ground* is the only one that describes writing this specific book, and it
+retires a real defect: `ch8:603` is currently the single move in the manuscript
+taught without an example, and Wendell's page is the example.
+
+### The cost — the mirror
+
+`ch1:189` sets the terms the whole book turns on: *"The reason to widen your
+range is the person in front of you — the one who needed a move you did not
+have."*
+
+**So the cost is not the delay. It is the reader's three years without it, and
+the person on the other side of her conversations during them.** His narrow range
+cost her exactly the way her narrow range costs whoever is in front of her. Stated
+that way the page stops being confession and becomes the book's thesis run on its
+author, in the same grammar it will run on her ten lines later.
+
+### Draft — the deeper version
+
+Gate clean · be 0.60 · copula 0.46 · waste 0.93 · zombie 0.25 · expletive 0.00 ·
+passive 0.00. Every counter improved on §9's draft.
+
+> **The quest:** you. Not allyship in general. You, who has done the reading and
+> the therapy and the work, and still drives home from the hard conversation
+> running it back.
+>
+> **The Face it needed, against the Faces I had:** I am an Architect and a
+> Diplomat. I can see the system and I can keep everyone at the table, and between
+> those two I kept this book in conversation for three years, everyone
+> comfortable, nothing decided. What you needed was a Sage — somebody who could
+> hold all six games at once and tell you which one you were in. I could hold two.
+> To write the other four I had to go and get them, which is the reason this book
+> has nine chapters instead of three. The Shaman was the worst of it. I had spent
+> an adult life converting what I felt into what I could diagram, and Chapter 3 is
+> what it cost me to stop.
+>
+> **What it cost:** three years in which you did not have this. I want to be
+> exact, because you are about to write your own version of this line and
+> vagueness is how it gets survived. It did not cost me a deadline. It cost the
+> conversations you went into during those three years without a move you needed,
+> and the person on the other side of them, who did not get what they came for and
+> has no idea why. I have thought about that person more than I have thought about
+> the delay.
+>
+> **Who gets it after me:** you do. Not to keep. To change.
+
+**The move and the failure condition are left blank in this draft**, pending the
+ruling above. `ch1:239` still supplies the failure condition verbatim — *"Moved,
+and unchanged"* — and it needs no rewriting.
+
+**One line is doing work that should be flagged.** *"I want to be exact, because
+you are about to write your own version of this line and vagueness is how it gets
+survived"* is `REVISION_INSTRUMENT` #14, **Break Frame** — the text confessing what
+it is doing to her, one beat before it asks her to do it. It is the hinge between
+his page and hers, and it is the line to cut first if the page runs long.
