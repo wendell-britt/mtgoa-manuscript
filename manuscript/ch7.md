@@ -555,7 +555,7 @@ The Diplomat's game creates the conditions where connection remains possible, ev
 
 Most difficult conversations run deeper than their surface. Two people arguing about a decision are often really negotiating about trust. Two people disagreeing about a plan are often really having a fight about recognition, about whose reality gets to count. The Diplomat's first move surfaces this layer without making anyone wrong for the confusion.
 
-**Example:** *"I want to name something I'm noticing. On the surface this is about the budget decision. Underneath, I think it might be about something else: whether this team sees your concerns as real. I want to check if that's what's actually here."*
+**Example:** A letting agent has spent ten minutes on whether the flat suits a family that size. Dele has two children and a housing voucher, and the agent has said neither thing out loud. Name the field: *I want to say what I think this is about. On the surface it is bedroom count. I think it may be the voucher, and I would rather we discussed that.* It costs you the agent's goodwill and you may want that next month. Dele decides what happens next.
 
 Name the Field makes no diagnosis. It makes an offering. You say *here is what I think is happening, and I want to know if I'm right.* The move either lands and the conversation opens, or the other person corrects you and you update. Either way, the field gets clearer.
 
@@ -583,6 +583,8 @@ The Diplomat translates: *"What I hear [Camp A] saying, in [Camp B]'s language, 
 
 **Why it matters:** Translation builds the bridge that lets both camps move forward together. Without it, camps talk about each other instead of to each other, and the conversation becomes a performance of positions rather than a search for understanding.
 
+**Example:** In the review meeting the clinician calls Nia's mother non-compliant. Nia calls her frightened. Both describe the same eight weeks. Translate, without softening either side: *the clinic is telling us the plan is not being followed and the risk is climbing. Nia is telling us nobody has explained what happens if it goes wrong. Those are one fact.* It costs you your standing with the clinician, who had you down as easy to work with.
+
 **The test:** You put each camp's position into language the other camp could hear, without softening either one to make the fit easier. Whether both sides accept your rendering is theirs to say.
 
 **Working vs. performed:** When Translate works, there's a quality of lightness: meaning flows between frameworks without distortion. When it's being performed, there's a quality of cleverness. You're showing how smart you are about both frameworks rather than serving the meaning.
@@ -607,7 +609,7 @@ The Diplomat translates: *"What I hear [Camp A] saying, in [Camp B]'s language, 
 
 Close with Honest Terms is one clear sentence naming what this field must hold for your staying to remain real, said once and then left alone for the field to answer. The leaving-alone separates it from an ultimatum.
 
-**Example:** *"I want to say something I don't say often. I can work with almost anything in this partnership except one thing. If we get to a place where I have to choose between being honest with you and being honest with myself, I will choose myself. I need you to know that about me, because it means when I do push back, it's because we're close to losing an agreement that works for both of us, not because I'm running a strategy."*
+**Example:** Eighteen months into a partnership you have never said the one thing you will not trade. Say it once and do not soften it: *I can work with almost anything here except one. If I have to choose between being honest with you and being honest with myself, I choose myself. When I push back we are close to losing an agreement that works for both of us, and I am not running a strategy.* Then stop talking. What they do with it is theirs.
 
 A threat would sound like *do this or I leave.* This is an offering of information: here is what this field must hold for my staying to remain real. Then the field gets to respond.
 
@@ -641,6 +643,8 @@ The structure:
 
 **Why it matters:** Ruptures named and repaired build more trust than ruptures that never happened. The repair does not undo the break. It proves that the relationship can survive the break, the only thing that builds confidence in a relationship.
 
+**Example:** You argued for the restructure that moved Alan sideways at fifty-eight, and you were sure at the time. Six weeks on you can see what it cost him and that nobody asked him first. Repair: *I pushed for that change, I never asked what you wanted, and I read your options as narrower than they were. I am not asking you to be fine with it.* Name your part, name what you are not asking for, and stay in the meeting afterwards.
+
 **The test:** You named what broke, named your part in it, named what you were not asking for, and stayed. Whether they can name it back to you accurately yet is a separate question, and often a later one. If it is still landing as entirely your fault, go back to step one.
 
 **Working vs. performed:** When Repair works, there's a quality of ground underneath: the floor was always there, you just needed to clear the rubble to find it. When it's being performed, there's a quality of urgency. You want the discomfort to end more than you want the repair to actually happen.
@@ -663,7 +667,7 @@ Equal endorsement means: all positions are treated as equally valid interpretati
 
 The Refuse False Equivalence move is this: you name the difference between hearing and endorsement, and you name your position on which camp is closer to what you consider true, without invalidating the people in the camp you disagree with.
 
-**Example:** *"I hear where you're coming from. I think we're operating from different facts, not just different opinions. I think the evidence points in a direction I have to stand behind, and I understand that you disagree, and I'm not asking you to stop disagreeing. I'm asking you to know that I hold this position because I think it's more accurate, not because I don't see you."*
+**Example:** A working group is weighing two claims equally: that the new fee is affordable, and that a third of members have said they will leave. One is a projection and one is a survey of eleven hundred people. Put the other side first and put it well: *the case for the fee is that the shortfall is real and the alternative is closing.* Then refuse: *I can state both and I do not weigh them the same.* They will write partisan in the notes.
 
 **Before you refuse false equivalence, ask:** Am I refusing because this position is actually built on a less accurate premise, or because I simply don't want to engage with it? Can the position I'm dismissing offer me something I haven't considered? If the answer is no, if you've done the work of understanding the other position and it still doesn't hold, then Refuse False Equivalence is the honest move. If you haven't done that work, Refuse False Equivalence is just closed-mindedness with a justification attached.
 
