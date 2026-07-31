@@ -122,6 +122,53 @@ Did the whole view send you back down into the game, or did it hand you somewher
 The Sage does not need you to rank the games. The Sage needs you to tell the truth about whether seeing more made you easier to reach or harder.
 ```
 
+## 4 · Fix 2 — the joystick, ruled 2026-07-31
+
+**Wendell's call, and it is the better one.** The original plan patched `ch2` in
+two places. He ruled the opposite direction: change ch1 to say *joystick*, which
+makes `ch2:276`'s claim true without editing ch2 at all.
+
+The asymmetry that justifies it: **`the controls` appears nowhere but ch1** — a
+one-chapter synonym — while **`joystick` appears 32 times across ch2–ch8** and
+carries the whole daemon system. The synonym had seniority only by page order.
+
+It also introduces the term better than any gloss would have: joystick now first
+appears in a sentence that hands it to the reader.
+
+### ch1 — replacement 1
+
+**OLD**
+```
+This is where you pick up the controls.
+```
+**NEW**
+```
+This is where you pick up the joystick.
+```
+
+### ch1 — replacement 2
+
+**OLD**
+```
+You just put your hands on the controls.
+```
+**NEW**
+```
+You just put your hands on the joystick.
+```
+
+**Ruled kept, not changed:** ch1's second control image — *"you take the seat"*
+(`ch1:16`) and the Reader's Oath *"I take the seat, and from here every move is
+chosen"* (`ch1:221`). Different picture, no collision: you sit down at the
+machine, then you pick up the joystick. The Oath is ceremonial language written
+to be said aloud and is not touched.
+
+**Measurement note.** The two edited sentences score `be 1.24 · copula 1.72 ·
+waste 1.11` — **identical before and after**, because the copula belongs to the
+existing sentence and only the final noun changes. On a 14-word sample the
+ratios are noise, which is what `.claude/skills/mtgoa-review` warns about below
+~300 words. Recorded so nobody re-opens it as a heavy-prose finding.
+
 ---
 
 ## What this closes
@@ -131,10 +178,10 @@ The Sage does not need you to rank the games. The Sage needs you to tell the tru
 | **4 of 9** machine-verified false back-references — every *"Chapter 1 taught you to read the meter"* site plus the ch3 living-field gloss that made two downstream claims true | R1, R2 |
 | The abandoned escalator ladder, now running ch3 → ch8 | R3 |
 | A term asserted as known that the book never contained | R4 |
+| The book's most-used metaphor, arriving unintroduced and mis-credited | Fix 2 |
 | A coined-label formula that measured as the draft's largest defect | the cut |
 
-**Not closed by this file, and still open in the spec:** the joystick
-mis-attribution at `ch2:276` (Fix 2), A6's three edits, and Tier 3 — the ~77
+**Not closed by this file, and still open in the spec:** A6's three edits, and Tier 3 — the ~77
 unadjudicated candidates from `instruments/assumed.py`.
 
 ## Applying it
