@@ -42,6 +42,22 @@ plan from a claim in a planning document without running the instrument.*
 | DL-17 | `back_matter/enrollment.md` | Reader finishes the book with no next step | `build_book.py` — GAP; `MANIFEST.md` notes it waits on R1 | Write it, or ship without it | Spine builds with no gaps | OPEN — needs Wendell |
 | DL-12 | four `⟦…⟧` register tokens | None in canon | `gate.py` tokens column reads 0 on all four surfaces | Due only if the register pass extends to the other five Heads | — | DEFERRED, not gating |
 
+## Book Architect scan — 2026-07-31
+
+Full report with quoted evidence and disproof tests:
+`editorial_reports/2026-07-31/ARCHITECT_WHOLE_BOOK.md`. Diagnosis only; no prose
+was changed and the gate stayed green. Each of these is a Chapter 1 promise
+measured against the eight chapters after it, or a prerequisite arriving after
+the reader needs it.
+
+| ID | Location | Reader problem | Evidence | Decision | Intended result | Status |
+|---|---|---|---|---|---|---|
+| A1 | `ch1:149`, `ch1:173`; 0 hits ch2–ch9 | Jordan sorts her quest into Chance/Skill/Passion and the taxonomy never returns | *"Everything ahead is built to strengthen your hand in all three"* — measured 0 occurrences in eight chapters | Narrow the ch1 claim, or seat the taxonomy | The book's stated spine is true | OPEN — recommend fix locally |
+| A2 | `ch1:207`, `ch2:480`, `ch9:669`; silent ch3–ch8 | The sheet ch9 turns back to is nearly empty | *"a line added in every chapter ahead"* — promised 8, delivered 2 | Narrow the promise, or seat one line per chapter using ch2:480 as the template | The reader's record of her own change actually accumulates | OPEN — structural decision |
+| A3 | `ch1:68`, `ch1:73` | *Helping the less powerful* — the paternalism myth — is named and never taken apart | 9 of 10 myths map to a teardown; this one returns 0 hits ch2–ch9 | Soften *"each one"*, or assign the orphan | The stated inventory is accurate | OPEN — fix locally |
+| A4 | `ch8:138` | Five-term developmental scale, undefined, 100k words in, in her integration chapter | *"all the altitudes — Red, Amber, Orange, Green, Teal"*; `termdebt.py` NEVER DEFINED; Magenta absent book-wide | Define, cut the colour names, or route to a definition | No jargon without translation | OPEN — recommend cut |
+| A5 | `ch3:680`, `699`, `703`, `707` | "One of the four" back-references a set she has not met | Domains NEVER DEFINED in body; defined only in Appendix A; ch3's own italic routing convention at `415`/`560`/`589` is not applied here | Add the pointer in the existing convention | Prerequisite reachable where needed | OPEN — fix locally |
+
 ## This session (2026-07-31)
 
 | ID | Location | Reader problem | Evidence | Decision | Intended result | Status |
