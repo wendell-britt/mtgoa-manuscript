@@ -129,3 +129,42 @@ the thing that makes that practice better.
 `claude/mtgoa-manuscript-changes-swmp78` was 12 commits ahead at 20:26 and still
 holds chapter work. Same rule as the last branch: **inventory and drafts here,
 no chapter edit until that lands.** Every site above is anchored on quoted text.
+
+---
+
+## 7 · Found while doing this: production metadata is printing
+
+**2026-07-31, and it outranks everything else on this branch.** Tracing Appendix
+B's app coupling turned up the header block above it, and the same block sits in
+**six shipping appendices** — A, B, C, D, E, F. `build_book.py` copies it
+straight into the deliverable. **15 lines reached
+`build/MTGOA_PRINT_2026-07-31.md`.**
+
+What a reader would find:
+
+> `**Status:** Draft — written 2026-06-03 from appendix design spec
+> (docs/plans/2026-05-21-appendix-design.md) + per-chapter WB-1 centerpieces +
+> GATE_GIFTS_ALLYSHIP_MOVES.md`
+>
+> `**Timing dependency:** Each quest routes to the app for BAR capture… must
+> exist before this appendix goes to press. **Coordinate before press.**`
+>
+> `**Status:** REVIEWED 2026-06-04 — accuracy-checked line-by-line against the
+> *Igniting Joy* source… **approved by Wendell**`
+>
+> `**Location in book:** After Appendix B; before Appendix D. Lettered
+> 2026-07-29, **taking the slot vacated by the retired Key Terms glossary.**`
+
+Internal file paths, approval records, a **Draft** flag on a shipping appendix,
+an instruction addressed to the production team, and the editorial history of a
+retired glossary. This is the testimony slot's defect class at five times the
+scale, and **the gate passes, the build passes, and the reader gets all of it.**
+
+**`instruments/placeholders.py` now catches it** — the scanner reports **21**
+and exits non-zero. The lines are legitimate provenance in the repository and
+must simply never reach a reader.
+
+**The durable fix is in `build_book.py`:** strip `**Key:**` metadata lines from
+each component's header block at assembly time. That keeps provenance where it
+belongs and makes the whole class impossible rather than merely detectable. One
+function, and it protects every appendix written after today.

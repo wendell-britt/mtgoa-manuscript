@@ -46,6 +46,20 @@ RULES = [
      'a slot for a value nobody has supplied'),
     ('placeholder-name', r'\bJOHN DOE\b|\bYOUR NAME HERE\b|\bINSERT\b',
      'template text'),
+    # Production metadata. Found 2026-07-31: six shipping appendices carry
+    # provenance headers - Status, Authority, Location in book, Timing
+    # dependency - and build_book.py copies them straight into the deliverable.
+    # 15 lines reached build/MTGOA_PRINT_2026-07-31.md, including internal file
+    # paths (docs/plans/..., GATE_GIFTS_ALLYSHIP_MOVES.md), approval records
+    # ("approved by Wendell"), a "Draft" status flag on a shipping appendix, and
+    # an instruction to the production team ("Coordinate before press").
+    #
+    # These lines are legitimate in the repo and must never reach a reader. The
+    # durable fix is for build_book.py to strip them; until it does, this rule
+    # is what stands between them and the typesetter.
+    ('production-metadata',
+     r'^\*\*(Status|Authority|Location in book|Timing dependency|Depends on|Blocked by|Revised|Ported):\*\*',
+     'internal provenance that belongs in the repo, not in the book'),
 ]
 
 # Legitimate in-world constructions that must never be "fixed". The Diplomat's
