@@ -59,7 +59,7 @@ You came here to get better at this, and "this" will not hold still. Every year 
 
 Here is the good news, and it happens to be the whole design of the book: you do not have to learn everyone. You learn one process, and you run it on one person, or one community, or one cause, all the way to the end. Then you shuffle up and run it again on the next one. That replay is on purpose. It is the difference between a book you finish and a game you keep coming back to. You did not burn out from caring too much. You burned out from starting the process on everyone and finishing it with no one.
 
-So pick one: the community you keep trying to help from the cheap seats, the cause that has been billing you for years, or the person whose fight you want to stand next to without turning it into a documentary about your growth. Choose the one where you care the most and change the least (you already know which one it is), and bring it with you into every chapter. You do not have to fix it today. You just have to keep it where you can see it. This is where you pick up the controls.
+So pick one: the community you keep trying to help from the cheap seats, the cause that has been billing you for years, or the person whose fight you want to stand next to without turning it into a documentary about your growth. Choose the one where you care the most and change the least (you already know which one it is), and bring it with you into every chapter. You do not have to fix it today. You just have to keep it where you can see it. This is where you pick up the joystick.
 
 ## The Myths That Keep You Playing the Wrong Game
 
@@ -172,7 +172,7 @@ Then comes the game you would put your own quarters into. It has chance and skil
 
 This game keeps you in the Arcade at all. Chance needs you present for years before the jackpot lands. Skill needs you practicing long past boredom. Neither one survives on discipline alone — what keeps you at the machine through the dry spells is that some part of this you would do for love. Most frameworks call that love a liability, too invested, too irrational. In the Arcade it is the power supply. It is the reason you are still here, holding a book about allyship, when quitting was always the easier play.
 
-So take the one you brought with you and sort it, once. Where is it Chance — moving on its own clock, asking only that you stay in the game? Where is it Skill — waiting for you to get better, and to carry that better to people who want it? Where is it Passion — the part you would keep playing after every reasonable person told you to stop? You do not need a clean answer. You just put your hands on the controls.
+So take the one you brought with you and sort it, once. Where is it Chance — moving on its own clock, asking only that you stay in the game? Where is it Skill — waiting for you to get better, and to carry that better to people who want it? Where is it Passion — the part you would keep playing after every reasonable person told you to stop? You do not need a clean answer. You just put your hands on the joystick.
 
 ## The Six Faces
 
