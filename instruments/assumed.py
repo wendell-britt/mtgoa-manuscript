@@ -47,6 +47,28 @@ CLAIMS = [
     ('you-have-been',  r'\byou have been (running|playing|doing|practicing)\b'),
 ]
 
+# Narrated history: the prose asserts a specific unnamed event in the reader's
+# past as fact. Canon's standing rule bans it; `gate.py`'s A0 regex is far too
+# narrow to find it, matching only "you were taught/told/raised/trained",
+# "somewhere along the way" and "the village taught you". Added 2026-07-31 after
+# Tier 3 turned up ch5:200 and ch5:458, neither of which the gate can see.
+#
+# Two false-positive classes are excluded below, both found by reading:
+#   * transfer-drill scenarios ("**Six.** You have been making the same argument
+#     in the same meeting for two years") — a hypothetical she practises on
+#   * conditional framing ("If you learned to over-prepare because mistakes were
+#     punished") — the correct way to write this, and common in ch2
+HISTORY = [
+    ('youve-been',    r"You(?:'ve| have) been [a-z]+ing\b"),
+    ('since-the-time', r"since the (?:last )?time (?:you|somebody|someone)\b"),
+    ('the-first-time', r"[Tt]he first time you\b"),
+    ('you-stopped',   r"\byou stopped [a-z]+ing\b"),
+    ('you-learned',   r"\byou learned (?:to|that|this)\b"),
+    ('back-when',     r"\bback when you\b"),
+    ('you-spent',     r"[Yy]ou (?:have )?spent (?:years|a decade|your)\b"),
+]
+HIST_ALLOW = re.compile(r'^\s*\*\*(One|Two|Three|Four|Five|Six)\.\*\*|\bIf you (learned|grew|were)\b')
+
 # Definite constructions pointing at an antecedent that may not exist: "This is
 # the X's gift" presumes X was introduced.
 DEFINITE = re.compile(r'\bThis is the ([A-Z][a-z]+(?: [A-Z][a-z]+)?)\'s\b')
@@ -83,6 +105,10 @@ def scan():
                     hits.append((ch, n, name, m.group(0), s))
             for m in DEFINITE.finditer(s):
                 hits.append((ch, n, 'definite-ref', m.group(0), s))
+            if not HIST_ALLOW.search(s):
+                for name, pat in HISTORY:
+                    for m in re.finditer(pat, s):
+                        hits.append((ch, n, 'HISTORY:' + name, m.group(0), s))
     return hits
 
 
