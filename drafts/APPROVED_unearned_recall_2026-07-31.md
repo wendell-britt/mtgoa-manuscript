@@ -285,6 +285,69 @@ reader's unnamed history as fact, and `gate.py`'s A0 rule matches four fixed
 phrases — it caught neither of these. The rule was effectively unenforced.
 `assumed.py` now enforces it.
 
+## 7 · P0 placeholders — ruled 2026-07-31
+
+Two of three closed. The third is deferred by Wendell and **remains a print
+blocker**.
+
+### ch7 — cut the testimony slot
+
+**Ruled: cut.** The slot asked for 150–200 words of Wendell's own memory. Writing
+it was not available — inventing a personal memory and attributing it to the
+author is fabrication, not drafting.
+
+**Cost, recorded honestly:** ch7 carries **6** first-person beats against ch3's
+**17**, so it was already the thinnest chapter for testimony, and Wendell's
+register is testimony-before-instruction. Cutting makes it thinner. The seam
+still works — diagnosis runs straight into the instruction.
+
+**OLD** — remove this block *and the blank line beneath it*:
+```
+[[TESTIMONY SLOT — WENDELL. This is where Ch5 puts Mr. Inadequate and Ch3 puts the harm passage.
+Needed: one time the ledger opened while somebody was telling you the truth about your impact,
+and what you said instead of hearing it. Not the lesson. The beat. ~150-200 words in your voice.]]
+```
+**NEW** — nothing.
+
+**Care needed on the newlines.** Removing the block plus the blank line *above*
+it merges two paragraphs. The correct cut is the block plus the blank line
+*below* it. Verified: the seam keeps its paragraph break.
+
+Resulting seam:
+> …The Face whose whole chapter is about repair is, in shadow, structurally the
+> worst in the book at receiving it.
+>
+> You do not fire the Victim. Fire the part of you that counts and you will spend
+> the rest of your life absorbing costs you cannot name…
+
+### ch1 — cut the visual marker
+
+The sentence already names all six Faces with a gloss each, so the marker was
+redundant with prose doing the job.
+
+**OLD**
+```
+ *[visual: the six Game Masters]*
+```
+**NEW** — nothing. (Note the leading space, so the sentence ends on its full stop.)
+
+Gate clean. The `passive` counter reads heavy on this line **before and after**
+(2.96 → 3.10) — it belongs to the existing sentence, and the ratio moved only
+because the sample lost five words.
+
+### ch1 — the app CTA: DEFERRED, still blocking
+
+**`**[ URL / QR ]**` stays in the manuscript.** Wendell is still setting the
+links up. This is not closed and must not be read as closed:
+
+> `ch1:269` — "Activate it, and find the hundred-and-twenty-card deck for when
+> you want the moves in your hands, at **[ URL / QR ]**."
+
+It is the book's only call to action, for an app referenced six times and never
+named, and two of ch1's four practices route through it.
+`instruments/placeholders.py` will keep reporting **1 hit and exiting non-zero**
+until the URL lands. That is the intended behaviour — do not allowlist it.
+
 ---
 
 ## What this closes
@@ -298,6 +361,7 @@ phrases — it caught neither of these. The rule was effectively unenforced.
 | A coined-label formula that measured as the draft's largest defect | the cut |
 | **The book's central promise, misnamed at first mention** — *the loop* was never this book's word for the WAVE | **A6** |
 | Two invented biographies, and a canon rule the gate could not enforce | Tier 3 |
+| An authoring note addressed to Wendell, and a missing-asset marker, both printing | P0 — 2 of 3 |
 
 **Not closed by this file, and still open in the spec:** Tier 3 — the ~77
 unadjudicated candidates from `instruments/assumed.py`. A6 is closed here, at one
