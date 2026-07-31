@@ -72,7 +72,7 @@ The Diplomat's gift has a name: integrative negotiation. It surfaces what each p
 
 Most people stay past the point of their usefulness. Most people absorb cost until they empty out and then leave without warning. Most people never surface what the agreement actually requires, so nobody treats their presence as the precious, chosen thing it is. The Diplomat understands that a staying which cannot name its terms is a staying without weight. A staying without weight is a staying that slowly, invisibly, stops meaning anything at all.
 
-The Diplomat is the negotiator who has learned that love is demonstrated through honest stake-surfacing, timely closure, and the willingness to let the field decide what it can actually hold, rather than through infinite presence.
+The Diplomat is the negotiator who has learned that love shows up as honest stake-surfacing, timely closure, and the willingness to let the field decide what it can actually hold, rather than through infinite presence.
 
 The five stages of the Diplomat's work run as a journey in sequence rather than a checklist. **Bridge** is the initial entry, the act of showing up in the field with curiosity rather than judgment, making contact without yet knowing what the relationship will require. **Translate** is the work of rendering one camp's language into terms another camp can hear, betraying neither side and finding the common ground of meaning. **Hold** is the maintenance of enough safety that difficult conversation remains possible even when the field is charged, not the four seconds of Stand you learned from the Challenger, where one person declines to take back one line, but the sustained containment of a whole field over the length of a hard conversation, sometimes over months. **Repair** is the healing of ruptures without the pretense that they did not occur: cleaning the wound without pretending nobody made it. **Negotiate** is the culmination: surfacing what each party protects, naming the terms under which staying remains possible, and closing so that everyone is heard *and* something moves.
 
@@ -380,11 +380,11 @@ Staying spends real capacity. Naming that cost belongs to the holding, because u
 
 ### Channel 4 — Repairer
 
-The Repairer is the Diplomat's deepest channel: the work of healing ruptures that have already occurred, restoring what was broken without pretending the break didn't happen. Unlike the Field-Holder who maintains safety, the Repairer rebuilds it after it has been lost.
+The Repairer is the Diplomat's deepest channel: the work of healing ruptures that have already occurred, restoring what was broken without pretending the break didn't happen. Unlike the Field-Holder who maintains safety, the Repairer rebuilds it after it goes.
 
 Here is what its absence looks like: a relationship that cannot survive its own ruptures. Where every breach becomes permanent, every mistake closes a door, every conflict leaves a scar that never heals. The Repairer's absence shows up as a kind of relational brittleness. People stay together and never recover from the times they hurt each other. They accumulate damage until something breaks that cannot be repaired, and then it is over.
 
-Here is what its distortion looks like: a premature forgiveness that skips the repair entirely. The distorted Repairer rushes to close the wound before it has been cleaned. They say *it's fine, let's move on, I forgive you*, and in fact they abandon the relationship to its damage. Real repair requires sitting in the wound long enough to understand it. Skipping that step means the wound closes over with the infection still inside.
+Here is what its distortion looks like: a premature forgiveness that skips the repair entirely. The distorted Repairer rushes to close the wound before anyone has cleaned it. They say *it's fine, let's move on, I forgive you*, and in fact they abandon the relationship to its damage. Real repair requires sitting in the wound long enough to understand it. Skipping that step means the wound closes over with the infection still inside.
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 1 — Betrayal Wound → Discerning Trust**
 
@@ -408,7 +408,7 @@ The alchemy: *I stop skipping the wound and start sitting in it.* Real repair re
 
 The Neutral Channel pattern here is **premature closure**: the behavioral pattern of rushing to close the wound before it has been understood. The Repairer who has not done this work wants to finish the repair before the other person has finished with the damage. They close before they have opened. They move on before they have arrived.
 
-**The structure of the Three-Part Repair:** You build a practice of repair that does not skip: (1) **Witness:** the full accounting of what happened, without defense or justification. (2) **Impact:** the honest naming of what the rupture cost, for both parties. (3) **Agreement:** what each person commits to doing differently, not as a performance of remorse but as a real change in behavior. The premature closure pattern dissolves into a structure that actually allows the wound to heal before it is closed.
+**The structure of the Three-Part Repair:** You build a practice of repair that does not skip: (1) **Witness:** the full accounting of what happened, without defense or justification. (2) **Impact:** the honest naming of what the rupture cost, for both parties. (3) **Agreement:** what each person commits to doing differently, not as a performance of remorse but as a real change in behavior. The premature closure pattern dissolves into a structure that actually allows the wound to heal before you close it.
 
 The cost here is time. Real repair takes longer than performance repair, and that slower pace is what makes the repair trustworthy.
 
@@ -444,7 +444,7 @@ The alchemy: *I ask what each position is guarding, not just what it says.* Posi
 
 **[TRANSLATE] — From Positions to Closure**
 
-**Fire → Earth: Heat translated into structure.** When competing demands charge a field (hot, righteous, each side certain) the Translate move does not cool the fire down. It gives the fire a shape it can move through. *What would each of you need to see change for this to be workable?* The anger does not get suppressed. It becomes the material from which terms are built.
+**Fire → Earth: Heat translated into structure.** When competing demands charge a field (hot, righteous, each side certain) the Translate move does not cool the fire down. It gives the fire a shape it can move through. *What would each of you need to see change for this to be workable?* The anger does not get suppressed. It becomes the material you build the terms from.
 
 **Earth → Fire: Vague agreement translated into committed close.** When a field has done the listening work and arrived at something that sounds aligned but isn't yet specific, the Translate move carries the structure forward into commitment. *What are we actually agreeing to? By when? Who does what?* The Integrative Negotiator does not leave the field in principled ambiguity. The Diplomat's altitude loves process. This channel loves a close.
 
@@ -458,7 +458,7 @@ The hard part is the close: it takes more courage than extending. The field will
 
 **[CONTROL] — Neutral Channel: False Closure Pattern**
 
-The second Control pattern is **false closure**, the agreement that sounds resolved but wasn't. *Great, we're aligned* spoken over interests that were never surfaced. Or: every position given equal weight in the final terms when some positions are built on premises the field cannot actually hold.
+The second Control pattern is **false closure**, the agreement that sounds resolved but wasn't. *Great, we're aligned* spoken over interests that were never surfaced. Or: every position given equal weight in the final terms when some positions rest on premises the field cannot actually hold.
 
 This is where **Refuse False Equivalence** lives inside the Fire channel, not as a separate performance of righteousness, but as discernment in the close. Equal hearing is precious. Equal endorsement is not automatic. The Integrative Negotiator asks: *Are we closing on terms that honor what each party actually needs, or on terms that pretend all framings are equally accurate?* If one camp's position requires ignoring evidence another camp lives with, honest terms name that difference. You can refuse false equivalence and still refuse to abandon the field.
 
@@ -496,7 +496,7 @@ Now here is why this daemon stands where it stands, in a book about allyship. Al
 
 This is where the chapter's myth comes due. You met it in Section 3: allyship means never causing harm. The Victim is the daemon that makes that feel like integrity rather than what it actually is: a solvency requirement. If your legitimacy comes from having been harmed, then having caused harm is not a mistake you can absorb and repair. It is a disqualification. It voids the ledger. So the Victim cannot afford for you to have caused harm, and a part of you that cannot afford a finding is a part of you that will not run the audit.
 
-The cost lands in exactly the place this chapter cannot afford to lose it. You become unavailable for repair. Read that again against Section 4, because the Repairer is one of your five channels and Move 4 is a structure for receiving rupture. None of it can run. Someone names an impact you had, and before the sentence is finished the ledger has opened and produced a number, and the number says this is impossible: look at what I have absorbed, look at the column, I am the one in the red here. The Face whose whole chapter is about repair is, in shadow, structurally the worst in the book at receiving it.
+The cost lands in exactly the place this chapter cannot afford to lose it. You become unavailable for repair. Read that again against Section 4, because the Repairer is one of your five channels and Move 4 is a structure for receiving rupture. None of it can run. Someone names an impact you had, and before they finish the sentence the ledger has opened and produced a number, and the number says this is impossible: look at what I have absorbed, look at the column, I am the one in the red here. The Face whose whole chapter is about repair is, in shadow, structurally the worst in the book at receiving it.
 
 [[TESTIMONY SLOT — WENDELL. This is where Ch5 puts Mr. Inadequate and Ch3 puts the harm passage.
 Needed: one time the ledger opened while somebody was telling you the truth about your impact,
@@ -639,7 +639,7 @@ The structure:
 
 **3. Name what you're not asking for.** This is the step most people skip. Repair is not the same as reconciliation. You are naming what happened and your role in it. You are not asking them to pretend it didn't happen, or to trust you again immediately, or to change their response to it. *"I'm not asking you to feel better about it. I'm not even asking you to trust me again yet. I just needed you to know I know what happened and I know my part."*
 
-**4. Stay.** After the repair is offered, the instinct is to leave: to give them space, to give the moment space. Don't. Stay present through the discomfort of having said it. The staying is the actual repair work.
+**4. Stay.** After you offer the repair, the instinct is to leave: to give them space, to give the moment space. Don't. Stay present through the discomfort of having said it. The staying is the actual repair work.
 
 **Why it matters:** Ruptures named and repaired build more trust than ruptures that never happened. The repair does not undo the break. It proves that the relationship can survive the break, the only thing that builds confidence in a relationship.
 
@@ -663,13 +663,13 @@ The distinction that matters: the difference between *positions that deserve equ
 
 Equal hearing means: everyone gets to say their thing, everyone gets to feel heard, the field makes space for the full range of perspectives present. Relativism is the easy misreading. This is the basic work of the Diplomat's altitude, and it is precious.
 
-Equal endorsement means: all positions are treated as equally valid interpretations of reality. This is where the Diplomat's gift curdles. Some positions are not equally valid. Some are built on inaccurate premises. Some require ignoring evidence that others have to live with. Some cause harm that others have to absorb. Treating these positions as if they were equally valid is a failure of discernment disguised as open-mindedness.
+Equal endorsement means: all positions are treated as equally valid interpretations of reality. This is where the Diplomat's gift curdles. Some positions are not equally valid. Some rest on inaccurate premises. Some require ignoring evidence that others have to live with. Some cause harm that others have to absorb. Treating these positions as if they were equally valid is a failure of discernment disguised as open-mindedness.
 
 The Refuse False Equivalence move is this: you name the difference between hearing and endorsement, and you name your position on which camp is closer to what you consider true, without invalidating the people in the camp you disagree with.
 
 **Example:** A working group is weighing two claims equally: that the new fee is affordable, and that a third of members have said they will leave. One is a projection and one is a survey of eleven hundred people. Put the other side first and put it well: *the case for the fee is that the shortfall is real and the alternative is closing.* Then refuse: *I can state both and I do not weigh them the same.* They will write partisan in the notes.
 
-**Before you refuse false equivalence, ask:** Am I refusing because this position is actually built on a less accurate premise, or because I simply don't want to engage with it? Can the position I'm dismissing offer me something I haven't considered? If the answer is no, if you've done the work of understanding the other position and it still doesn't hold, then Refuse False Equivalence is the honest move. If you haven't done that work, Refuse False Equivalence is just closed-mindedness with a justification attached.
+**Before you refuse false equivalence, ask:** Am I refusing because this position actually rests on a less accurate premise, or because I simply don't want to engage with it? Can the position I'm dismissing offer me something I haven't considered? If the answer is no, if you've done the work of understanding the other position and it still doesn't hold, then Refuse False Equivalence is the honest move. If you haven't done that work, Refuse False Equivalence is just closed-mindedness with a justification attached.
 
 **The test:** You paraphrased the opposing position accurately enough that its strongest advocate would recognize it, and then said *here is why I still don't agree.* Whether they grant the distinction is theirs.
 
@@ -703,7 +703,7 @@ Draw from your twenty rather than the hundred and twenty, though not all from on
 
 **Show Up.** The relationship it creates is a witness list. Who must be involved becomes who will corroborate, and the field fills with people who know your side of it and have never met the other one.
 
-Where it bites is Open Up. The Victim's remit is what your having paid entitles you to, and entitlement is settled at the exact moment an impact would be received. The other four rows are that settlement arriving early or arriving late.
+Where it bites is Open Up. The Victim's remit is what your having paid entitles you to, and entitlement settles at the exact moment an impact would be received. The other four rows are that settlement arriving early or arriving late.
 
 Take **What This Costs the Teller**: Open Up, Raise Awareness, Diplomat. Its question is the one the Victim exists to route around: *how can I relate compassionately to this?* Pointed not at the situation, not at the people harmed in general, but at the specific person in front of you who is spending something to tell you what you did.
 
@@ -738,7 +738,7 @@ The tell that a quest is alive is not enthusiasm. It is anticipation with some d
 
 Neutrality is the easy guess. The Diplomat's gift is the capacity to be a partisan who can still hold the field.
 
-The belief this chapter came to dismantle is that allyship means never causing harm. It is a load-bearing belief for anyone whose presence in this work has been built out of being reliably safe to be around, and it is worth saying plainly what replaces it. Not *I have never caused harm.* Not *I will be more careful.* Something a person can actually stand on: **I can be told what I cost and stay in the conversation afterward.** Every move in this chapter is an instrument for making that sentence true.
+The belief this chapter came to dismantle is that allyship means never causing harm. It is a load-bearing belief for anyone who built their presence in this work out of being reliably safe to be around, and it is worth saying plainly what replaces it. Not *I have never caused harm.* Not *I will be more careful.* Something a person can actually stand on: **I can be told what I cost and stay in the conversation afterward.** Every move in this chapter is an instrument for making that sentence true.
 
 The five stages form the chapter's spine, and you have now practiced all five: Bridge, Translate, Hold, Repair, Negotiate. Each requires a different internal alchemy. The Bridge-Builder moves through the terror of real contact. The Translator transmutes intellectual superiority into faithful interpretation. The Field-Holder stays present through the charge of everyone's discomfort. The Repairer grieves what broke while acting toward its repair. The Integrative Negotiator finds the courage to surface what each party protects and close, not as a threat, not as manipulation, but as a clear, calm, loving act of honest agreement.
 

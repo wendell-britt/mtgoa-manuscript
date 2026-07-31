@@ -38,7 +38,14 @@ import re, io, os, sys, glob
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 MS = os.path.join(HERE, os.pardir, "manuscript")
-BLOCK = re.compile(r"\n?\n<!-- (MARGINALIA|EPIGRAPH-BYLINE|POSTCARD) -->\n.*?\n<!-- /\1 -->\n", re.S)
+# HANDBOOK and SIGNATURE added 2026-07-31, when they turned out to be counted inside every
+# chapter's expository score. Measured on ch7 the effect is small, passive 1.75 against 1.77
+# stripped, so it was not the cause of anything; stripping them is correct regardless, because
+# an admissions page and a treatise signature are not the chapter's prose and are governed by
+# HEAD_VOICE_DIAL rather than by this baseline.
+BLOCK = re.compile(
+    r"\n?\n<!-- (MARGINALIA|EPIGRAPH-BYLINE|POSTCARD|HANDBOOK|SIGNATURE) -->\n"
+    r".*?\n<!-- /\1 -->\n", re.S)
 
 BE     = re.compile(r"\b(is|are|was|were|be|been|being)\b", re.I)
 COPULA = re.compile(r"^\W*[\w'][\w' ]{0,30}\s(is|are|was|were)\s", re.I)
