@@ -240,6 +240,51 @@ It simply is not where the WAVE lives, so only the claim about it changes.
 Gate clean · be 0.31 · copula 0.00 · waste 0.55 · zombie 1.03 · expletive 0.00 ·
 passive 0.00.
 
+## 6 · Narrated reader-history — 2 sites, both ch5
+
+**Tier 3 yield, and the number matters.** `assumed.py`'s history rules flag 18
+sites. Read individually, **14 are legitimate or false positives** — ch1's *"You
+have been running your own allyship campaign for years — whether you named it or
+not"* is the book's stated premise and hedges itself; `ch4:492` sits inside a
+quoted script the reader might say; `ch9:660` is Wendell about himself;
+`ch7:622` is already conditional. Two more are borderline and left alone
+(`ch4:134`, `ch8:612`).
+
+**Two are real, and both are in ch5.** Converting them measured *better*, not
+merely safer: **be 0.62 → 0.34, waste 1.67 → 0.90**, gate clean, history hits
+2 → 0.
+
+The fix pattern is the book's own, from `ch2:401`: state the mechanism generally
+or conditionally, and let the reader recognise herself in it. Never assert the
+biography.
+
+### ch5 — replacement 1
+
+**OLD**
+```
+You already have a version of what "tradition" means. You've been carrying it since the last time someone used it against you.
+```
+**NEW**
+```
+You already have a version of what "tradition" means. Most people got theirs the last time somebody used the word against them.
+```
+
+### ch5 — replacement 2
+
+**OLD**
+```
+You grew up in a family with a specific pattern — around money, around conflict, around who speaks and who stays silent. You inherited it. You have been living it, either repeating it or raging against it, for your entire adult life.
+```
+**NEW**
+```
+Every family runs a pattern — around money, around conflict, around who speaks and who stays silent. Whatever yours was, you inherited it, and most of adult life goes into either repeating it or raging against it.
+```
+
+**Why this class matters beyond two sentences.** Canon bans narrating the
+reader's unnamed history as fact, and `gate.py`'s A0 rule matches four fixed
+phrases — it caught neither of these. The rule was effectively unenforced.
+`assumed.py` now enforces it.
+
 ---
 
 ## What this closes
@@ -252,6 +297,7 @@ passive 0.00.
 | The book's most-used metaphor, arriving unintroduced and mis-credited | Fix 2 |
 | A coined-label formula that measured as the draft's largest defect | the cut |
 | **The book's central promise, misnamed at first mention** — *the loop* was never this book's word for the WAVE | **A6** |
+| Two invented biographies, and a canon rule the gate could not enforce | Tier 3 |
 
 **Not closed by this file, and still open in the spec:** Tier 3 — the ~77
 unadjudicated candidates from `instruments/assumed.py`. A6 is closed here, at one
