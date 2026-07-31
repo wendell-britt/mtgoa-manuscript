@@ -13,6 +13,8 @@ The method at the heart of this book — emotional alchemy, the conviction that 
 - **Bessel van der Kolk — *The Body Keeps the Score*.** The now-canonical account of how experience lives in the body and how it heals. Accessible, rigorous, and the best single entry point to the whole field.
 - **Stephen Porges — Polyvagal Theory** (see also Deb Dana's *The Polyvagal Theory in Therapy* for an accessible version). The map of how safety, threat, and connection get registered below conscious thought — the architecture beneath what the chapters call old wiring.
 
+One more, and it is a debt with a disagreement attached. **Ichiro Kishimi and Fumitake Koga's *The Courage to Be Disliked*** (Atria Books, 2018) is a book-length dialogue on the psychology of Alfred Adler, and Chapter 3 quotes one line from it before departing from it: all problems are relational problems. Chapter 3 then pushes that somewhere Adler did not, to all problems are emotional problems, on the grounds that the rupture exists where something has gone unfelt. That is a change rather than a refinement and the change is mine, so the disagreement belongs on this page rather than buried in the chapter. Read them for the original, which is more careful than my one-line version of it.
+
 ---
 
 ## The Five Channels

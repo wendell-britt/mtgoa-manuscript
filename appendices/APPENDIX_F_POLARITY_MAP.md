@@ -5,6 +5,8 @@
 
 *You met this tool in Chapter 3, drew your first axis in Chapter 4, and ran it in the field in Chapter 7. This is the full version — the one to come back to when a decision keeps refusing to resolve and you start to suspect it was never a decision at all.*
 
+*The tool is Barry Johnson's. His term is polarity management, and the distinction it rests on — that some tensions are problems to solve and others are pairs to hold — is his. Appendix G says where to read him.*
+
 ---
 
 ## When to reach for it
