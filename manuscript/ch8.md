@@ -61,6 +61,8 @@
 > any longer.*
 >
 > *He reads a company better than I do. He has never said so. I am saying it.*
+>
+> Maera Voss, School of the Body
 <!-- /MARGINALIA -->
 
 
@@ -142,6 +144,8 @@ Keep the terms apart so they don't blur together. Shadow is the move that stays 
 > busy.*
 >
 > *So the six of us wrote it down. It is finished. He does not know.*
+>
+> Sera Quill, School of the Oath
 <!-- /MARGINALIA -->
 
 
@@ -200,6 +204,8 @@ Without that question, help becomes interference. Diagnosis becomes lecturing. P
 > *He has never stated one for himself. So we have written one for him. It is short and it has a
 > date on it, and he will find it unreasonable, and he will comply — because he taught us that a
 > term stated plainly is not a negotiation.*
+>
+> Elian Cross, School of the Bridge
 <!-- /MARGINALIA -->
 
 
@@ -487,6 +493,8 @@ The practice has four moves. Run them in order the first several times. After th
 >
 > *We have all been drawing the same diagram. None of us put him on it either. That is not an
 > oversight anyone can lay at his door.*
+>
+> Irix Vale, School of the Pattern
 <!-- /MARGINALIA -->
 
 
@@ -529,6 +537,8 @@ It shows up in a single beat. Someone asks you for help with something real. Som
 >
 > *You have read eight chapters of his handwriting. You know the sound he makes when he says he is
 > fine. We are counting on you having noticed.*
+>
+> Corin Ash, School of the Line
 <!-- /MARGINALIA -->
 
 
@@ -562,6 +572,8 @@ You know what your Damaged Self is for now. That is what you take out.
 > where he will walk into it. He thinks the galley is badly organised.*
 >
 > *He is a good man and this ship is lucky. That is all I have to say about it.*
+>
+> Bram Tull
 <!-- /MARGINALIA -->
 
 
@@ -703,6 +715,24 @@ That's the whole Sage in a single move: the seeing, said out loud, and the not-l
 
 ## Section 7: Recap and Transition
 ### *What the Sage Teaches — and Why the Player Comes Next*
+
+<!-- MARGINALIA -->
+> *Five of them and Bram, all in my margin, and not one of them asked. I find I do not mind, which
+> is new.*
+>
+> *The Horizon is a place. It was a place before it was a school, and the school carries the name
+> because I brought it with me. I stopped saying it the old way about twenty years ago, when a
+> student asked me where I was from and I gave her the school instead of the answer. It was easier.
+> I have given the school every time since.*
+>
+> *Home. I have gone this far without the word and I would have gone the rest of the way.*
+>
+> *I am fine. I want that in my own hand, since six people have now put the opposite in writing and
+> been courteous about it. I am fine, and I am still paying for this, and both are true on the same
+> day. That is the one thing I have that none of them can teach you, and it took all six of them
+> writing in here to get me to set it down.*
+<!-- /MARGINALIA -->
+
 
 The Sage's gift is not wisdom. Wisdom is a side effect. The gift is perspective with commitment — the capacity to see all the games, know which one you're in, and still choose to be there fully.
 

@@ -172,7 +172,7 @@ does it in earnest. Ask anyone in engineering. They will tell you the hull is th
 this ship that has never once sat in a meeting about its own performance. It braces. It has no
 opinion. It is thanked annually, by tradition, on a day nobody can attend, because we are always
 underway.*"""),
-("### The Seven", """*You will not meet all seven. Most students finish with two, perhaps three, and go home entirely
+("### The Seven", """*You will not meet all seven. Most students finish with two, perhaps three, and leave entirely
 competent. The full set arrives only if you take all six schools, which almost nobody does, and
 which is not a recommendation.*
 
@@ -376,11 +376,33 @@ immaculate. It has never been anything but ready.*"""),
 ]
 
 NOTES[8] = [
+# ---------------------------------------------------------------------------
+# ch8's margin changes hands. RULED by Wendell 2026-07-30: "he HAS been
+# annotated. HE's going to be annotated by the other school heads (faces)."
+# `MARGIN_ARC.md` carries the reasoning; the short version is that the reader
+# has had seven chapters of one anonymous hand, and in the eighth that hand is
+# being written about by people who sign their names.
+#
+# ATTRIBUTION, and one correction to MARGIN_ARC. The spec assumed five signed
+# notes plus one unsigned, on the count that NOTES[8] already held six. Reading
+# the six against the Heads gives SIX speakers rather than five: note 6 leaves
+# food out and lets him go on believing the galley is disorganised, which is
+# nobody's school and pays off in ch9's postcard, where he writes to Bram about
+# the galley. So Tull signs it and the unsigned note is added rather than
+# converted. Seven notes; ch3 and ch7 already carry eight.
+#
+# Each entry is (anchor, text, signature). A signature of None is the anonymous
+# hand. The name line is deliberately NOT italic and carries no dash: it is
+# apparatus rather than anybody's voice, which is the same rule the treatise
+# signatures follow, and it spends none of ch8's em-dash budget.
+# ---------------------------------------------------------------------------
 ("## Section 1", """*He took the accountability for my bad readings for a year while I learned to stop grading them.
 He has never mentioned it, which I understand is the point, and I have decided not to respect it
 any longer.*
 
-*He reads a company better than I do. He has never said so. I am saying it.*"""),
+*He reads a company better than I do. He has never said so. I am saying it.*""",
+ "Maera Voss, School of the Body"),
+
 ("## Section 2", """*A partial list of things this school runs on that exist nowhere in writing: the intake sequence,
 the reason we stopped the second-year review, four agreements with three worlds, and the whole of
 what we do when a student leaves badly.*
@@ -388,14 +410,18 @@ what we do when a student leaves badly.*
 *All of it is in his head. I have asked him twice to write it down. He says he will. He is very
 busy.*
 
-*So the six of us wrote it down. It is finished. He does not know.*"""),
+*So the six of us wrote it down. It is finished. He does not know.*""",
+ "Sera Quill, School of the Oath"),
+
 ("## Section 3", """*I have taught the walk-away terms for eleven years and I require every student to state one
 before entering a difficult conversation. He has stated one for me. He stated one for Maera, and for two
 students I will not name. He is better at it than I am, and I teach it.*
 
 *He has never stated one for himself. So we have written one for him. It is short and it has a
 date on it, and he will find it unreasonable, and he will comply — because he taught us that a
-term stated plainly is not a negotiation.*"""),
+term stated plainly is not a negotiation.*""",
+ "Elian Cross, School of the Bridge"),
+
 ("The Damaged Self, Up Close", """*I ask every student to draw the system and then name whose face disappeared from the diagram.*
 
 *I drew this school last spring, for an unrelated purpose. The diagram was accurate and complete
@@ -403,7 +429,9 @@ and I was pleased with it. I looked at it again this week and found the omission
 that Sera had found it in the spring, and Maera the year before that.*
 
 *We have all been drawing the same diagram. None of us put him on it either. That is not an
-oversight anyone can lay at his door.*"""),
+oversight anyone can lay at his door.*""",
+ "Irix Vale, School of the Pattern"),
+
 ("Why the Defect Story Always Sounds Like Humility", """*I held a verdict open once for four days. Everyone tells that story. Nobody tells the part where
 somebody stood in front of a very angry hall for four days holding nothing, and it was him, and
 when I asked afterwards whether it had been difficult he said the hall had been reasonable.*
@@ -411,11 +439,33 @@ when I asked afterwards whether it had been difficult he said the hall had been 
 *The hall was not reasonable. I have let him keep that sentence for nine years.*
 
 *You have read eight chapters of his handwriting. You know the sound he makes when he says he is
-fine. We are counting on you having noticed.*"""),
+fine. We are counting on you having noticed.*""",
+ "Corin Ash, School of the Line"),
+
 ("## Section 6", """*He does not sleep the week before an intake. I have known this for eleven years. I leave food
 where he will walk into it. He thinks the galley is badly organised.*
 
-*He is a good man and this ship is lucky. That is all I have to say about it.*"""),
+*He is a good man and this ship is lucky. That is all I have to say about it.*""",
+ "Bram Tull"),
+
+# The anonymous hand, once, after six signed notes. `MARGIN_ARC` gives this beat
+# three things and no more: the word *home*, that the school's name was a place
+# first, and that he is fine and still paying, which are true on the same day.
+("## Section 7", """*Five of them and Bram, all in my margin, and not one of them asked. I find I do not mind, which
+is new.*
+
+*The Horizon is a place. It was a place before it was a school, and the school carries the name
+because I brought it with me. I stopped saying it the old way about twenty years ago, when a
+student asked me where I was from and I gave her the school instead of the answer. It was easier.
+I have given the school every time since.*
+
+*Home. I have gone this far without the word and I would have gone the rest of the way.*
+
+*I am fine. I want that in my own hand, since six people have now put the opposite in writing and
+been courteous about it. I am fine, and I am still paying for this, and both are true on the same
+day. That is the one thing I have that none of them can teach you, and it took all six of them
+writing in here to get me to set it down.*""",
+ None),
 ]
 
 NOTES[9] = []

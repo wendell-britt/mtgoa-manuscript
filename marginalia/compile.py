@@ -97,7 +97,13 @@ def apply_chapter(ch, txt):
         front += block(BYLINE_NOTE[ch], "MARGINALIA")
     txt = txt[:m.end()] + "\n" + front + txt[m.end():]
 
-    for anchor, note in NOTES[ch]:
+    for entry in NOTES[ch]:
+        # ch8's notes carry a third field, the signature, because in that chapter the
+        # margin changes hands and five Heads plus Tull sign what they wrote. Every
+        # other chapter is a 2-tuple and stays anonymous. A signature of None inside
+        # ch8 is the anonymous hand returning, which is the reveal.
+        anchor, note = entry[0], entry[1]
+        signature = entry[2] if len(entry) > 2 else None
         c = txt.count(anchor)
         if c != 1:
             problems.append("anchor %s (%d matches): %r"
@@ -106,6 +112,10 @@ def apply_chapter(ch, txt):
         i = txt.find(anchor)
         j = txt.find("\n\n", i)
         j = len(txt) if j == -1 else j
+        if signature:
+            # Not italic and no dash. The name is apparatus rather than anybody's
+            # voice, which is the rule the treatise signatures already follow.
+            note = note.rstrip() + "\n\n" + signature
         txt = txt[:j] + "\n" + block(note, "MARGINALIA") + txt[j:]
         n += 1
 
