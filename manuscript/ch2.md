@@ -341,7 +341,7 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 **As a demon:** it keeps people in the drama triangle. In the rush to resonate with someone's pain, it allies with their victimhood and smallness instead of their wellbeing, meeting the wound so completely that it confirms them in it and keeps them in the role rather than helping them move through it. *In play:* someone shares how they were wronged, and you resonate so hard with the injury that they leave more settled into being a victim of it, no more able to act than before.
 
 **The Damaged Self**
-**Job:** To take the damage. When nothing else can keep a hit out, it absorbs the hit itself, so what it's carrying survives. It's the Protector's last resort, and you'll meet it nearer the center.
+**Job:** To take the damage. When nothing else can keep a hit out, it absorbs the hit itself, so what it's carrying survives. It's the Protector's last resort.
 **As an ally:** it turns what it survives into strength, sorting the damage that builds you from the damage that only breaks you. *In play:* you take a real hit standing up for someone, and instead of wrecking you, it leaves you steadier and more able to do it again.
 **As a demon:** it absorbs every hit going, without a word, until it's soaking up harm that was never yours to carry. *In play:* you take on more and more of someone else's load without ever saying so, until you're depleted and no one, including you, has noticed what it's costing.
 
