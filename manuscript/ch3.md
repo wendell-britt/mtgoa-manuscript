@@ -361,7 +361,7 @@ This is the first difference between the Shaman's practice and the village's dis
 #### Stage 4: Grow
 **What it means:** Extract the lesson. Integrate the insight the feeling offered.
 
-Now you understand what the feeling shows you. The third stage lets that understanding actually *change* you. Not dramatically. You integrate the information so that your nervous system knows something it didn't know before.
+Now you understand what the feeling shows you. The fourth stage lets that understanding actually *change* you. Not dramatically. You integrate the information so that your nervous system knows something it didn't know before.
 
 If fear showed you what matters, your system integrates "this is what I'm protecting" as a real value, not something you have to earn.
 
@@ -590,7 +590,7 @@ When the charge is in a **person**, a figure who makes your jaw tighten, start w
 | Stuck because… | Tool |
 |----------------|------|
 | Charge is in a *person* | 3-2-1 (Chapter 4) |
-| Stuck between two *rights* | Polarity Map (Chapter 5 → Chapter 7) |
+| Stuck between two *rights* | Polarity Map (Chapter 4 → Chapter 7) |
 | Charge is in *body* now | WAVE-Spiral |
 
 *Full process and source (Ken Wilber, Integral Life Practice): Appendix E: The 3-2-1 Shadow Process. First practice: Chapter 4.*
@@ -861,7 +861,7 @@ Here is where they come from. The deck runs five basic moves, and you already kn
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
-The five moves are this chapter, in order. Every stage you practiced is one of them. Clean Up holds the five channels, one per domain, which is why all four of those cards begin with the same verb: *name.* Pick a domain instead and you are choosing where the move lands. The five are the sequence; the four domains are the arena.
+The five moves are this chapter, in order. Every stage you practiced is one of them. Clean Up holds the five channels, which is why all four of those cards begin with the same verb: *name.* Pick a domain instead and you are choosing where the move lands. The five are the sequence; the four domains are the arena.
 
 ### Drawing Against the Shadow
 

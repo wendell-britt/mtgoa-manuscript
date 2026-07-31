@@ -421,7 +421,7 @@ You know what your Emotional Body is for now. That is what you take out.
 ## Section 6: The Game
 ### *What Winning Looks Like at the Architect's Altitude*
 
-Okay. You've learned what strategic design is, and you've met the part of you that converts a signal into a spec before you can read it. Now, what does it actually look like in a real situation?
+Okay. You've learned what structural design is, and you've met the part of you that converts a signal into a spec before you can read it. Now, what does it actually look like in a real situation?
 
 Here's what I've noticed about the Architect's game: the Architect wins when the right thing happens without them having to be there. When a system works and nobody had to manage it. When a process runs and nobody had to micromanage it. When a design serves the user and the designer can move on to the next thing.
 

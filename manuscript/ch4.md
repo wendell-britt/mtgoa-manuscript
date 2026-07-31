@@ -312,7 +312,7 @@ Taking it back has a specific sound. *I mean, obviously there's context.* *I'm p
 
 Standing is the decision not to fill that space. It does not glare, and it does not wait for capitulation: the line does not need to win, it needs to still stand when the conversation moves on. In practice it takes a small physical act rather than a mental one: you finish the sentence, and then you do not add another one. That is the whole stage. It runs the shortest of the five and fails the most often.
 
-The Diplomat has a stage called Hold, five chapters from here, a different animal entirely, sustained containment of a charged field over the length of a hard conversation, sometimes over months. This one lasts four seconds and its only content is subtraction. Stand is what you do with your own line. Hold is what you do with everyone else's.
+The Diplomat has a stage called Hold, three chapters from here, a different animal entirely, sustained containment of a charged field over the length of a hard conversation, sometimes over months. This one lasts four seconds and its only content is subtraction. Stand is what you do with your own line. Hold is what you do with everyone else's.
 
 **Stage 5: Exit.** You leave the confrontation cleanly. This means you don't need their reaction to validate your move. You drew the line. The response belongs to them. You are not responsible for managing their feelings about your boundary. You are responsible only for having drawn it.
 
@@ -609,7 +609,7 @@ The Challenger's game is simple: **draw the line, name the cost, mean it.**
 
 You know when you're winning at this altitude because the boundary exists out loud. Out of your head, out of the follow-up email you rehearse but never send. Said. Held.
 
-The Challenger's game has five concrete moves. They are the same five stages you ran with the Shaman, run at a table where the other person can answer back. You can use them today.
+The Challenger's game has five concrete moves. They are the same five WAVE stages you ran with the Shaman, run at a table where the other person can answer back. You can use them today.
 
 Egan spent forty years studying one skill: the capacity to act clearly in a charged interpersonal moment. Not to think clearly (that's the easy part) but to act. *The Skilled Helper* makes a case that most people don't make explicit: you don't develop this capacity by understanding it. You develop it by doing it badly, noticing what failed, and doing it again with that information. The model is always: here is where you are, here is where you want to be, here is the next move to practice. That is what these five moves are built for. Not to be read. To be practiced until they become reliable.
 
