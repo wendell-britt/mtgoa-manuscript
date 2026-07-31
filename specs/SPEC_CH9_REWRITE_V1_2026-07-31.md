@@ -374,3 +374,95 @@ you are about to write your own version of this line and vagueness is how it get
 survived"* is `REVISION_INSTRUMENT` #14, **Break Frame** — the text confessing what
 it is doing to her, one beat before it asks her to do it. It is the hinge between
 his page and hers, and it is the line to cut first if the page runs long.
+
+---
+
+## 11 · All five — yes, and the book already runs them
+
+**Wendell:** *"is there a case to be made for keeping all 5? and having the
+examples be my own examples? or is that too much."*
+
+**There is, and ch9 already does it.** `ch9:608` runs all five **Player** moves
+against bars-engine in a single paragraph. Swapping the subject keeps the form.
+
+**Note which five.** `ch9:608` runs ch9's own Player moves — *Cut the Field · Put
+It in Front of One Person · Take the Note That Costs You the Design · Run It Again
+With One Thing Changed · Hand Someone the Pen* — not ch8's Sage moves. So the two
+questions do not compete:
+
+- **The page** carries **one Sage move** — why the book exists. Vale's field.
+- **`ch9:608`** carries **all five Player moves** — what building it cost, move by
+  move. One paragraph, already written, already the right length.
+
+**Not too much.** It is one paragraph and it is the chapter's best compression.
+
+## 12 · The error I made drafting it, recorded
+
+Drafting the swap, **I invented biography**: a person who read Chapter 3 aloud,
+where they stopped, a count of drafts, a diagram cut in revision. None of it is
+known. I filled five specific slots because the form demands five specifics, and
+that is precisely the failure this session refused twice — the ch7 testimony slot
+and `ch9:300` were both left blank for exactly this reason, and here the pressure
+of a good paragraph shape produced what the blank pages had prevented.
+
+**Recording it because the mechanism is general.** A form that requires N concrete
+instances will generate N concrete instances. The safeguard is not care; it is
+never drafting into a slot only the author can fill.
+
+The scored version was also worse — `be` **0.81 → 1.52**, copula **0.00 → 0.86** —
+because invented specifics arrive as *the note was that my best chapter was the
+one where*, which is three copulas propping up a fact that does not exist.
+
+### The honest version
+
+Slots marked, not filled. `be 0.18` against the original's `0.81`, waste `1.44`
+against `1.68`, zombie `0.00` against `0.90` — better on every counter than the
+bars-engine original, because the invention is gone rather than because the
+prose improved.
+
+> This book has cost me all five of these. *Cut the field* — not allyship in
+> general; the gap between people who understand the theory and people who can run
+> it when something lands hard. *Put it in front of one person* — **WENDELL: the
+> first person who read a chapter before you wanted anyone to, and where they
+> stopped.** *Take the note that costs you the design* — **WENDELL: the note that
+> cost you something structural, and what you cut because of it.** *Run it again
+> with one thing changed* — **WENDELL: how many drafts, and the one change that
+> mattered.** *Hand someone the pen* — you are holding it.
+
+Two of the five need nothing: *Cut the field* is already true and already written,
+and *Hand someone the pen* resolves to the reader, which is the whole conceit.
+**Three slots, one sentence each.**
+
+### `placeholders.py` does not catch these
+
+Verified: the `WENDELL:` slots match no existing rule. If this drafting convention
+is used, the scanner needs a rule for it before anything is committed to a chapter
+— otherwise it is the testimony slot again, in a new costume.
+
+## 13 · Why Move 5 could not be answered
+
+**Wendell:** *"How can I hold the meta without losing the ground lol"*
+
+Measured, the ch8 move template degrades across the five:
+
+| Move | Example | Test |
+|---|---|---|
+| 1 Name the Game | yes | yes |
+| 2 Switch Games Deliberately | yes | yes |
+| 3 Return Without Condescension | **no** | **no** |
+| 4 Put a Game Down | **no** | yes |
+| **5 Hold the Meta Without Losing the Ground** | **no** | **no** |
+
+**The question could not be answered because the book does not answer it.** Move
+5 carries roughly 400 words of accurate abstract prose and no instance of anybody
+performing it. The author wrote the move and cannot execute it on demand, which is
+exactly the reader's position.
+
+**The answer is the page itself.** Writing a book about six Faces while being two,
+for three years, without floating off into theory — the ground was the promise,
+the deadline, and her. That is the move, performed, at length, and it is the
+missing example.
+
+**So the recommendation from §10 stands and strengthens:** the page's one Sage
+move is *Hold the Meta Without Losing the Ground*, and seating it closes
+`ch8:603`, the only move in the manuscript taught without one.
