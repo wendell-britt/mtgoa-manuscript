@@ -40,7 +40,7 @@ the distribution is **a book-length setup with a payoff**:
 >
 > The absence in Ch7 only lands because of the abundance before it. Three
 > chapters of comfortable laughing at other people's daemons builds a habit; Ch7
-> removes the target and leaves her in the room alone… **The Ch7 withdrawal is
+> removes the target and leaves her standing there alone… **The Ch7 withdrawal is
 > what retroactively earns Ch4 through Ch6.**
 
 Measured, `instruments/humor.py`:
