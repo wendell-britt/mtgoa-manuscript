@@ -10,6 +10,40 @@ the six are ours and can be closed on sight: `CH6 [S1]`, five Examples containin
 which were all replaced today, and `CH7 [C3]`, the authoring note in shipped prose, which was
 cut today.
 
+## Cross-branch state, 2026-07-31
+
+**Three sessions are live and only one of them touches `manuscript/`.**
+
+| branch | `manuscript/` | state |
+|---|---|---|
+| `claude/mtgoa-manuscript-changes-swmp78` | **8 chapters, applied** | this branch |
+| `claude/editorial-system-book-integration-umo641` | 0, apparatus only | merged to master |
+| `claude/edit-assumed-prior-knowledge` | **0 — approved but unapplied** | 825 insertions, 1 deletion |
+
+**Already closed across branches, so nobody duplicates them.** A7, found independently on
+both and fixed here. `CH6 [S1]`, the five Examples with no person, replaced here. `CH7 [C3]`,
+the authoring note in shipped prose, cut here.
+
+### A6 — their diagnosis beat mine, and their edit is now applied here
+
+`069bcbd` fixed ch1's unkept promise by re-pointing it at the Headmaster's Letter. The
+assumed-prior-knowledge branch calls that wrong by commit hash: *"Both moved a pointer
+instead of correcting a noun."* **Verified before accepting it.**
+
+- `ch9:103` reads *"They don't run in sequence the way the WAVE's stages do — they loop."*
+  The book contrasts *loop* with *the WAVE* explicitly.
+- WAVE stage names run 10 to 18 times in every one of ch3 to ch8.
+- *loop* appeared twice in ch1 and nowhere else named the process.
+
+So ch1 calling it *the loop* contradicted ch9, and I had corrected the pointer while leaving
+the wrong noun in place. **Their replacement is applied here verbatim**, because this is the
+branch with prose already seated and a second branch editing the same two sentences is the
+91-hunk collision their own check warns about. ch1 now contains the word *loop* zero times.
+
+**Their branch stays apparatus-and-drafts**, which is the rule its collision check already
+set. The remaining approved edits in `drafts/APPROVED_unearned_recall_2026-07-31.md` cover
+ch1, ch3, ch4, ch5, ch6, ch7, ch8 and ch9 and are **not** applied anywhere yet.
+
 ## How the ordering works
 
 Cost to act on, cheapest first, because a stated fact that is wrong is both the cheapest thing
