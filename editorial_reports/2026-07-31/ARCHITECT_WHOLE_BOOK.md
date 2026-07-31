@@ -154,6 +154,8 @@ already contains the counter-move.
 the searched vocabulary — ch7's harm material is the likeliest place. Worth one
 human read of ch7 §3 before acting.
 
+</details>
+
 ---
 
 ## A4 · The altitude colours arrive in Chapter 8, undefined, carrying the ladder
@@ -181,6 +183,34 @@ definitions.
 **Why structural, not preference.** A missing prerequisite, arriving eight
 chapters after first use, in the chapter that depends on it most.
 
+**Corrected scope, 2026-07-31: this is six sites, not one.** The colour
+vocabulary runs through ch8 and appears nowhere else in the manuscript:
+
+| Site | What it does |
+|---|---|
+| `ch8:183` | "all the altitudes — Red, Amber, Orange, Green, Teal" — first use |
+| `ch8:213` | "The Teal view doesn't mean you've stopped being Red" — the carry-forward claim |
+| `ch8:223` | "*Which altitude is this?* is a vertical question. Red, Amber, Orange, Green, Teal." — **load-bearing: the answer-set to the Sage's central diagnostic** |
+| `ch8:297` | "*I am at Teal and you are at Green…*" — a shadow line |
+| `ch8:307` | "*This is a Red dynamic. This is Green stuckness…*" — the Diagnostician's flatness |
+| `ch8:327` | "You've seen from Teal" |
+
+**The golden-monkey problem, stated precisely.** *Altitude* itself is load-bearing
+and well established — 62 uses across ch3–ch9, 25 in ch8 alone. The colours are
+the only thing in the book that says **what the altitudes are**. Cut them without
+a replacement and `ch8:223` teaches the reader to ask *"which altitude is this?"*
+with no vocabulary to answer it. That is the bag of sand: the weight is real even
+though the object is undefined.
+
+**The replacement already exists in the chapter.** `ch8:213` ends: "The Sage
+doesn't leave the Faces behind. The Sage holds them all and knows which one the
+moment asks for." And `ch8:185` runs the whole idea in taught vocabulary — "You've
+felt with the Shaman. You've drawn lines with the Challenger…" **The six Faces are
+the answer-set the reader has actually been taught, for seven chapters.** Swapping
+the colour scale for the Face scale keeps the vertical claim (the book's thesis
+already holds the six as developmental levels in order) and loses an undefined
+borrowed vocabulary.
+
 **Disposition — structural decision required.** Three options: define the scale
 where it is first needed; cut the colour vocabulary from `ch8:183` and let
 *altitude* carry the idea unlabelled, which costs one clause; or route the
@@ -188,6 +218,41 @@ reader to a definition surface. **Cutting is the cheapest and loses least** —
 the sentence works without the five colour names.
 
 ---
+
+## A5 · ~~The four allyship domains are defined only in an appendix~~ — **WITHDRAWN**
+
+**Withdrawn 2026-07-31. The finding was wrong and the premise was mine.** The
+domains are introduced *and* routed to their appendix in ch2, then defined
+individually in ch3 with a pass condition each:
+
+> `ch2:558` — "the work in this book unfolds in four directions — gathering
+> resources, skillful organizing, taking direct action, and raising awareness.
+> All four are real allyship. **Appendix A holds the full map**, and a way to find
+> which direction is calling you right now."
+
+> `ch3:786`–`ch3:800` — **Direct Action — the true thing said to the face** ·
+> **Raise Awareness — the true thing over the right thing** · **Gather Resources
+> — the real need named** · **Skillful Organizing — the thing the group won't
+> say**, each followed by a *"You're winning when:"* pass condition.
+
+That is a better-taught term than most in the book: named with a pointer in ch2,
+defined with a test in ch3, then used as the deck's horizontal axis in every
+chapter after.
+
+**Why the instrument said NEVER DEFINED.** `termdebt.py`'s `bold-gloss` rule is
+`\*\*…TERM…\*\*\s*[—:-]` — it expects the dash *after* the closing `**`. These
+headings put the gloss *inside* the bold span, so the rule cannot fire. Verified:
+the same string matches once the dash is allowed inside. **The detector has a
+blind spot for the book's most common definition form**, which means other
+"NEVER DEFINED" rows in that ledger are suspect and should be re-checked by eye
+before anyone acts on them. A4's colours were re-checked this way and genuinely
+have no definition in any form.
+
+**This also clears a note logged for the ch3 pass.** The four *"You're winning
+when"* tests that appear in ch3 and nowhere else are these four domain tests. Not
+an abandoned convention — a device local to one section, doing one job.
+
+<details><summary>Original finding, retained for the record</summary>
 
 ## A5 · The four allyship domains are a taxonomy in ch3 and defined only in an appendix
 
