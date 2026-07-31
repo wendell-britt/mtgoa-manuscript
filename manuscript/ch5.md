@@ -361,7 +361,7 @@ The Regent's practice is generational, not moment-to-moment. Energy still flows.
 | **The Inheritor** | Water/Sadness | Inheritance-shame → Inheritance-gift |
 | **The Teacher** | Wood/Joy | Duty → Service |
 | **The Reformer** | Fire/Anger | Rigidity → Integrity |
-| **The Keeper of Vows** | Earth/Neutrality | Dogma → Faithfulness |
+| **The Keeper of Vows** | Metal/Fear | Dogma → Faithfulness |
 
 **The Custodian** (Earth/Neutrality): Caring for what exists begins as a surrender: you did not choose this. The alchemy moves obedience (compliance) into true allegiance (chosen loyalty). You are not carrying this because you have to. You are carrying it because you said yes to it. The shift from obligation to choice converts the Neutral channel's heaviness into the spaciousness of genuine stewardship.
 
@@ -371,7 +371,7 @@ The Regent's practice is generational, not moment-to-moment. Energy still flows.
 
 **The Reformer** (Fire/Anger): Changing the tradition while honoring the lineage requires the fire of conviction, the willingness to say *this part no longer serves* without becoming the enemy of what came before. Rigidity (holding form because it's old) alchemizes into integrity (holding form because it works). The Reformer loves the tradition enough to change it.
 
-**The Keeper of Vows** (Earth/Neutrality): Honoring commitment across time, when no one watches, becomes the silent practice. Dogma (the rote performance of loyalty) alchemizes into faithfulness (the lived commitment). The Keeper does not need to be seen. The Keeper needs to be steady. The Neutral channel's stillness becomes the foundation for everything else the Regent builds.
+**The Keeper of Vows** (Metal/Fear): Honoring commitment across time, when no one watches, becomes the silent practice. Dogma (the rote performance of loyalty, and what fear does to a vow: hold the form and you cannot lose the thing) alchemizes into faithfulness (the lived commitment). The Keeper does not need to be seen. The Keeper needs to be steady. The Metal channel's discernment becomes the foundation for everything else the Regent builds.
 
 ---
 
