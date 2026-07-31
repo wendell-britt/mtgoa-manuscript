@@ -22,6 +22,7 @@ something that exists, which is the cheap half, and leaves the expensive half to
 
     python3 instruments/rescan.py            # the summary
     python3 instruments/rescan.py --gone     # every GONE finding, with its dead quotes
+    python3 instruments/rescan.py --list     # the working list, ordered by what it costs
 """
 import io, os, re, sys, glob
 
@@ -61,8 +62,31 @@ def findings(path):
         ev = ""
         em = re.search(r"\*\*Evidence:?\*\*:?(.*?)(?=\n- \*\*|\Z)", body, re.S)
         ev = em.group(1) if em else body
-        out.append((fid, title.strip(), QUOTE.findall(ev)))
+        meta = {}
+        for k in ("Location", "Category", "Disposition", "Reader problem"):
+            km = re.search(r"\*\*%s:\*\*\s*(.+?)\s*$" % k, body, re.M)
+            if km:
+                meta[k] = km.group(1)
+        out.append((fid, title.strip(), QUOTE.findall(ev), meta))
     return out
+
+
+# What a finding costs to act on, cheapest first. A claim error is a fact that is wrong and
+# is both the cheapest to fix and the most expensive to ship, so it leads.
+def rank(fid, title, meta):
+    cat = meta.get("Category", "")
+    dis = meta.get("Disposition", "")
+    if "ERROR" in title or cat.startswith("claim-error"):
+        return (0, "1 CLAIM ERROR   a stated fact is wrong")
+    if "AWAITS STRUCTURAL RULING" in dis:
+        return (1, "2 BLOCKED       needs a ruling before anyone can edit")
+    if cat == "continuity":
+        return (2, "3 CONTINUITY    the book contradicts itself")
+    if "VERIFY" in title or cat == "claim-verify":
+        return (3, "4 VERIFY        a claim that needs checking, not fixing")
+    if dis.startswith("structural decision"):
+        return (4, "5 STRUCTURAL    a decision, then an edit")
+    return (5, "6 LINE          fix locally")
 
 
 def norm(s):
@@ -83,20 +107,22 @@ def main():
     show_gone = "--gone" in sys.argv
     C = corpus()
     rows, tot = [], {"LIVE": 0, "GONE": 0, "PARTIAL": 0, "NOQUOTE": 0}
-    detail = []
+    detail, work = [], []
 
     for path in sorted(glob.glob(os.path.join(REPORTS, "*.md"))):
         name = os.path.basename(path)
         live = gone = partial = noq = 0
-        for fid, title, quotes in findings(path):
+        for fid, title, quotes, meta in findings(path):
             if not quotes:
                 noq += 1
                 continue
             hits = [q for q in quotes if norm(q)[:60] in norm(C["__ALL__"])]
             if len(hits) == len(quotes):
                 live += 1
+                work.append((rank(fid, title, meta), name, fid, title, meta, "LIVE"))
             elif hits:
                 partial += 1
+                work.append((rank(fid, title, meta), name, fid, title, meta, "PARTIAL"))
             else:
                 gone += 1
                 detail.append((name, fid, title, quotes))
@@ -115,6 +141,20 @@ def main():
     print("\n%d findings. %d still quote text that is on the page." % (n, tot["LIVE"]))
     print("%d do not and need a reader to say whether the edit fixed them "
           "or the prose moved." % (tot["GONE"] + tot["PARTIAL"]))
+
+    if "--list" in sys.argv:
+        print("\n" + "=" * 96)
+        print("THE WORKING LIST — %d actionable findings, ordered by what they cost" % len(work))
+        print("=" * 96)
+        cur = None
+        for (n, label), rep, fid, title, meta, state in sorted(work, key=lambda x: (x[0], x[1])):
+            if label != cur:
+                cur = label
+                print("\n### %s  (%d)\n" % (label, sum(1 for w in work if w[0][1] == label)))
+            print("  %-9s %-7s %-6s %s" % (rep.replace(".md", ""), fid, state, title[:78]))
+            if meta.get("Location"):
+                print("  %-24s %s" % ("", meta["Location"][:86]))
+        return 0
 
     if show_gone:
         print("\n" + "=" * 62 + "\nGONE — evidence no longer in any shipping file\n" + "=" * 62)
