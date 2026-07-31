@@ -348,17 +348,19 @@ Here is what its absence looks like: a person who can hold a conversation only w
 
 Here is what its distortion looks like: a performative calm, actually a freeze response. The distorted Field-Holder mistakes stillness for safety. They sit in the middle of chaos and perform peace, believing that their equanimity will regulate the field. This is collapse masquerading as calm. Real Field-Holding contains the charge rather than removing it. The field stays charged. The Field-Holder does not calm it down. They give it a shape. Note the difference from the Challenger's Stand, a subtraction: you finish the sentence and add nothing. Hold is addition, and it costs, and it does not end when the silence does. They say: *this charge has somewhere to go. It can move through here without destroying anything.*
 
-**[DISSATISFACTION → SATISFACTION] Alchemy 1 — Anxiety → Grounded Presence**
+**[DISSATISFACTION → SATISFACTION] Alchemy 1 — Inclusion-Performance → Genuine Inclusion**
 
-The Dissatisfaction here is **anxiety**. The Field-Holder's nervous system reads a charged field as danger, even when no danger exists. Things get tense and the Field-Holder's body starts to signal: something is wrong here. Get out. The anxiety reads the field accurately. Unprocessed, though, it makes the Field-Holder contract, which removes the very presence the field needs.
+The Dissatisfaction here is **inclusion-performance**. You open the retro by telling everyone no topic is off the table, and you mean it, and then the hour runs, everyone reports status, and what actually happened last sprint never comes up. You ran a good meeting and never got near the field.
 
-The alchemy: *I let the anxiety teach me where the field needs attention.* Anxiety signals you to lean in more deliberately. The fear of the field destabilizing becomes the anchor that keeps you rooted in it. You are not anxious despite your holding. You are anxious *because* you hold something that matters. The alchemy transmutes the charge of anxiety into the energy of real presence.
+The table is the furniture. The field is what sits between the people at it, and it lasts only as long as they are all still there. The field has to stay open while people move around inside it, which is why Hold costs more, and why it is the one move here you cannot make alone.
 
-**[DISSATISFACTION → SATISFACTION] Alchemy 2 — Collapsed Calm → Active Containment**
+The alchemy: *I stop announcing that the field is open and find out whether anyone will use it.* Anxiety shows up while you do this, and it reads the situation correctly, because a charged field costs more to hold than a calm one. Treat it as the weather you work in. What you are watching for is growth, and you know it arrived when somebody says what they had decided in the parking lot not to say. Their sentence is in the field now, and you could not have put it there. That is the Wood channel completing, and Bliss is what it feels like to hold a field that grew what you did not plant.
 
-The Field-Holder's secondary Dissatisfaction is **performative stillness**, the belief that good holding looks calm. The distorted Field-Holder sits in the middle of chaos and performs peace, believing that equanimity will regulate everyone else. This is collapse masquerading as calm. Real Field-Holding works as an active, energetic practice. It requires as much charge as the field itself.
+**[DISSATISFACTION → SATISFACTION] Alchemy 2 — Hothouse Safety → Hardy Field**
 
-The alchemy: *I stop performing calm and start doing containment.* The stillness becomes the shape of the containment, not the absence of charge. My grounded presence does not sit passive. It forms the active structure that says: *you can feel what you feel here, and this will hold it.* The collapsed calm transmutes into the vitality of real Field-Holding.
+The Field-Holder's secondary Dissatisfaction is **hothouse safety**, a field you keep so comfortable that nobody says the sentence that would cost them anything. From inside it looks like health. The family dinner stays warm, the standup stays pleasant, the two of you stay kind with each other, the community meeting ends on time, and everyone leaves carrying what they walked in with. A field protected from charge stays small, and the people in it learn to bring less of themselves to match.
+
+The alchemy: *I stop protecting the field and start building one that can take weather.* You let the hard sentence land, and you stay, and the field turns out to hold. Now they know by experience what nobody could have told them, that the field survives contact. Each round of that raises what it carries next time.
 
 **[TRANSLATE] — From Presence to Structure**
 

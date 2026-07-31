@@ -22,14 +22,43 @@ python3 instruments/review.py DRAFT_FILE        # before it lands
 
 Then read the output and act on it, in this order.
 
+**0 · ELI5 first — write the passage twice.** Before drafting in register, write the
+same passage the way you would explain it to a five-year-old. Plain words, a person
+doing something, no house vocabulary. Then write the register version, and keep the
+ELI5 open beside it.
+
+Two things fall out, and both are cheap:
+
+- **If you cannot write the ELI5, you do not have the passage yet.** Stop and work out
+  what it says before spending words on how it says it.
+- **The diff between the two versions is the audit.** Every word in the register version
+  that is not in the ELI5 is either doing work or it is style. Ask which, one at a time.
+
+Wendell, 2026-07-31, after an ELI5 explained a passage better than the passage did:
+*"These ELI5 are violating the stylistic rules, but they are getting at the essence. We
+need to split the difference on this."* Measured on that pair, the ELI5 broke exactly one
+counter — `waste`, at 1.42 against the chapter's 0.58 — and it broke it because it used
+pronouns, which is the same reason it was readable. The register draft that scored 0.06
+on the same counter was the unreadable one.
+
+**So `waste` has a floor as well as a ceiling.** Aim for the chapter's own band, roughly
+0.5 to 0.9. A passage that almost never says *it* has stopped pointing at things.
+
+
 **1 · gate — hard fail.** Banned words (`rooms`, `quiet`, `genuinely`), sentence-initial
 *And*/*But*, glued em-dashes, negative stacks, live `⟦tokens⟧`. Any hit is a defect. Fix it,
 do not argue with it. A live token is the one thing standing between a placeholder and the
 typesetter.
 
 **2 · diet — a number for a thing you cannot see by eye.** Be-verbs, copula openings, waste
-words (*it / this / that / there*), zombie nouns, expletive openers, each as a ratio against
-the book's own baseline. Over 1.30 is heavy.
+words (*it / this / that / there*), zombie nouns, expletive openers, passives, and empty
+nouns (*thing / something / version / way / part / room*), each as a ratio against the
+book's own baseline. Over 1.30 is heavy.
+
+`empty` was added 2026-07-31 because the other six could not see the defect. Driving
+`waste` down removes pronouns, and empty nouns move in to replace them. The draft that
+prompted it measured 23.1 empty nouns per thousand against 0.0 in both sections it was
+written to sit beside, while every existing counter called it clean.
 
 Read the `-v` output for the actual sites rather than guessing:
 

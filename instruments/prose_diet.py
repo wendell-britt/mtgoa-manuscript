@@ -55,6 +55,19 @@ WASTE  = re.compile(r"\b(it|this|that|there)\b", re.I)
 # WIDENED 2026-07-31. The first version required the noun immediately after the article, so
 # "the polite version" and "the composed version" both walked through on one adjective.
 # Wendell caught both by eye, twice, which is the whole argument for widening it.
+# EMPTY, added 2026-07-31. Wendell, on a draft that passed all six counters:
+# "I'm starting to hate the word 'Thing' like I'm starting to hate the word room.
+# It's a wack-a-mole of empty words."
+#
+# He is describing a hole, not a preference. Driving `waste` down removes pronouns,
+# and what replaces them is an empty noun the other six counters cannot see. Measured
+# on the draft that prompted this: 23.1 per thousand, against 0.0 in both of the
+# sections it was written to sit beside and 14.0 book-wide, while every existing
+# counter reported it clean.
+EMPTY = re.compile(r"\b(thing|things|something|anything|nothing|version|versions"
+                   r"|stuff|way|ways|part|parts|aspect|aspects|element|elements"
+                   r"|area|areas|piece|pieces|room|rooms)\b", re.I)
+
 ZOMBIE = re.compile(r"\b(?:the|a|an)\s+(?:\w+\s+){0,2}"
                     r"\w+(?:tion|ment|ance|ence|ness|ity|ism|sion)\b", re.I)
 
@@ -112,7 +125,9 @@ BASE = {"be": 50.3, "copula": 29.1, "waste": 56.3, "zombie": 15.0, "expletive": 
         # MEASURED across the nine chapters 2026-07-31, the day the counter was added.
         # The first value here was 5.6 and I had typed it rather than measured it, which is
         # the exact failure this file exists to catch. The book runs 3.1.
-        "passive": 3.1}
+        "passive": 3.1,
+        # measured across manuscript/ch*.md, 2026-07-31
+        "empty": 14.0}
 
 # REGISTERS — the criteria adjusting to the book, added 2026-07-31.
 #
@@ -238,6 +253,7 @@ def score(text):
         "zombie":    len(ZOMBIE.findall(text)) / w * 1000,
         "expletive": sum(1 for s in S if EXPLETIVE.match(s)) / n * 100,
         "passive":   len(PASSIVE.findall(text)) / w * 1000,
+        "empty":     len(EMPTY.findall(text)) / w * 1000,
     }
 
 
@@ -275,7 +291,7 @@ def main():
         files = sorted(glob.glob(os.path.join(MS, "ch*.md")),
                        key=lambda f: int(re.search(r"ch(\d+)", os.path.basename(f)).group(1)))
 
-    keys = ["be", "copula", "waste", "zombie", "expletive", "passive"]
+    keys = ["be", "copula", "waste", "zombie", "expletive", "passive", "empty"]
     print("ratio against the book's own baseline — 1.00 is average, >1.30 is heavy")
     print("a * marks a counter covered by a named register in REGISTERS\n")
     print(f"{'file':<12}" + "".join(f"{k:>11}" for k in keys))
