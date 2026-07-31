@@ -130,3 +130,99 @@ driest voice — then the whole architecture becomes an insertions job in
 `marginalia/insertions.py` rather than nine chapters of body prose. That is a
 second-edition project with a written spec and one worked example, which is a
 good place for it to be.
+
+---
+
+## 7 · Hostile review — where the punch-up opportunities are
+
+**Wendell, 2026-07-31:** *"where are the opportunities to punch up the text… I
+don't know if [Rao, Wilber, Adams] are in the humor section or the voice passes."*
+
+### First, the answer to the question
+
+**They are in neither, and the distinction matters.**
+`marginalia/specs/REVISION_INSTRUMENT.md` Part 4 splits the dials in two:
+
+| Prose dials — change the sentences | Analysis dials — change what is understood |
+|---|---|
+| `+ADAMSY` · `+SNICKETY` · `+CLOWN` · `+JERK` · `+CULT LEADER` · `+NAVAL` | `LIKE WILBER` · `LIKE RAO` · `LIKE MILLER` |
+
+**Adams is a humor dial. Wilber and Rao are not.** They are analysis dials, and
+the spec's guardrail is explicit: *"An analysis dial always round-trips: it
+changes the understanding, and the sentence comes back in house voice.
+`LIKE WILBER` is never an instruction to write like Wilber."*
+
+So there is no missing "Rao/Wilber voice pass" to slot into the editorial system.
+They are already correctly placed, in the generative instrument, as a third thing
+that is neither humor nor voice. **What was missing is that nothing in the
+editorial system ever *called* them.**
+
+### The instrument
+
+`instruments/punchup.py` mechanises Part 2 — the six diagnostic checks that
+select a color. Checks 1, 3, 4 and 5 are mechanical; 2 and 6 need judgment and
+are left to a human. The spec's own routing table names the dial.
+
+```
+python3 instruments/punchup.py            # ranked
+python3 instruments/punchup.py --ch 9     # one chapter
+```
+
+**57 paragraphs score ≥4 of a possible ~8.**
+
+| ch1 | ch2 | ch3 | ch4 | ch5 | ch6 | ch7 | ch8 | ch9 |
+|---|---|---|---|---|---|---|---|---|
+| 6 | 2 | 7 | 5 | 5 | 8 | 4 | 8 | **12** |
+
+### A hypothesis I had, tested, and dropped
+
+I expected the flatness to concentrate in the Section 7 recaps — they are
+formulaic, and two chapters open theirs with the identical sentence *"The chapter
+leaves you holding a practice whose parts fit together"* (`ch3`, `ch4`).
+
+**Measured: 5 of 57 sit in Section 7. Fifty-two are in the body.** The recaps are
+not the problem; the flatness is distributed through the teaching itself. Recorded
+because it was a good guess and it was wrong.
+
+### The finding that matters — ch9
+
+**ch9 carries the most flat paragraphs in the book, and it is the chapter where
+that costs most.** The grid rules ch9's humor as *evidence* rather than charge:
+
+> If comedy is a script running unattended, and at Ch9 nobody is unattended,
+> there is nothing left to release. So the jokes stop generating charge and start
+> being **evidence**: a person who can be light about a thing is demonstrating
+> they are not gripped by it. **Play is the tell.**
+>
+> Ch3–Ch8 humor metabolizes charge. Ch9 humor is charge-free. **It is the sound
+> of someone playing.**
+
+Twelve flat paragraphs in the chapter whose humor *is* the demonstration of
+mastery. **ch9 was ruled to sound like someone playing, and it scores as the
+least playful chapter in the book.** That is a structural failure of the payoff,
+not a shortage of jokes — and it is the same shape as A2 and A6: a chapter 9 that
+performs a completion the middle of the book never accumulated.
+
+Top of the list, `ch9:300`, indicated dial **Testimony / +CLOWN**:
+
+> The map also doesn't show you what success looks like from the inside. The
+> moment when someone plays bars-engine and something opens in them that you
+> recognise…
+
+Nobody present, nothing happening, three abstraction subjects — in a paragraph
+about the feeling of watching someone get it.
+
+### The other standing gap, restated as an opportunity
+
+The Jerk is absent book-wide (§2). Sixteen of the 57 route to `+CULT LEADER /
+Symmetry`, which the book already writes well — `ch4:115` is proof. **The cheapest
+punch-up available is not the missing archetype; it is the one the book is
+already good at, applied to paragraphs the instrument has already found.**
+
+### Recommendation, unchanged in shape
+
+**Not before ship.** But when it happens, the order is: ch9 first, because its
+flatness breaks a ruled payoff rather than merely costing a laugh; then the
+sixteen Cult Leader candidates, because the book has demonstrated it can write
+them; and the Jerk last, or never, as a deliberate ruling rather than an
+accident.
