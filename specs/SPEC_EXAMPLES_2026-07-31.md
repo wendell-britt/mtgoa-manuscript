@@ -53,7 +53,10 @@ Six requirements. An Example that misses one is not finished.
 3. **The move, executed, in words.** The sentence said, or the specific thing done. Not *you
    speak up.*
 4. **The cost, in the currency of the scene.** Standing, a review, a relationship, being the
-   difficult one at that table. Never *it costs something.*
+   difficult one at that table. Never *it costs something.* **Binds where the move is
+   external.** Wake Up is a read rather than an act, and its Example ends before anything is
+   spent; forcing a cost there produces a manufactured one. Limit added 2026-07-31 on drafting
+   ch3, rather than taken quietly.
 5. **The outcome stays theirs.** What the other person does with it is not entered as the
    reader's result. This is Loop A's consent hinge and the book's one non-negotiable rule.
 6. **Legible to Jordan.** A scene she could have been in this week.
@@ -95,8 +98,15 @@ entry says it is that Face's home class.
 
 **The floor clause, from §1.** The list is a floor rather than a ceiling, and the moves work
 identically on positions no statute protects: class, caste, a record, body size, caregiving,
-being new, being the only one. **At least one Example per chapter should sit outside the
-statutory list**, or the book teaches that unprotected harm is permitted harm.
+being new, being the only one. **At least one Example per chapter sits outside the statutory
+list**, or the book teaches that unprotected harm is permitted harm.
+
+**CORRECTED before drafting ch3, because the arithmetic did not close.** Five slots, of which
+one is the reader's own position under §3, leaves four. Requiring all four of a Face's classes
+*and* one outside the list needs five. So the rule is **three of the Face's four, plus one
+outside it**, and the fourth class is carried by another chapter that also lists it. The
+alternative was to drop the floor clause, and the floor clause is the more important of the
+two: a list presented as complete teaches that unprotected harm is permitted harm.
 
 **Disability appears in all six**, which §1.3 says is a teaching point rather than a gap.
 
