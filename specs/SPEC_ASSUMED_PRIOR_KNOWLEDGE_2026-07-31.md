@@ -202,7 +202,7 @@ teaches field-reading throughout — it is the Shaman's whole job.
 | **B** | Soften ch4 and ch5 to describe rather than cite: *"Chapter 3 taught you to ask what a move does to the people around it"* | 2 sites, no new prose |
 | **C** | Leave it. The claim is technically true | 0 |
 
-**Recommend A.** The concept is genuinely taught; only the label is thin, and one
+**Recommend A.** The concept is taught in full; only the label is thin, and one
 sentence in ch3 converts a thin claim into an earned one for two later chapters.
 
 ### R3 · The ladder stops after ch5
