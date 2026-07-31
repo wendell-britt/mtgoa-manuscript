@@ -297,3 +297,27 @@ The refrain reaches **six sites** under R3-A. It works as a mnemonic at two and
 risks reading as boilerplate by the fifth. Draft 3 keeps it verbatim because that
 is the established pattern; whether it survives six repetitions is Wendell's call
 and the only piece of this set that is not settled.
+
+### FINAL — approved 2026-07-31
+
+Wendell: *"the X question — as a format is hitting as clunky."* The label is cut
+at all five sites. **The measurement agreed with his ear**: *the fire question*,
+*the design question* and their siblings are article-plus-nominalization, and
+removing them moved the draft from **zombie 1.02 / be 0.25 / copula 0.53** to
+**zombie 0.37 / be 0.00 / copula 0.00**. The clunky formula was the largest
+measurable defect in the draft.
+
+Recorded because it changes scope: *"the fire question"* (`ch4`) and *"the
+stewardship question"* (`ch5`) are **shipped prose**, from commit `db3f534` — not
+drafts. Cutting the label edits two existing sites as well as declining the
+format at three new ones. Wendell approved that wider scope.
+
+Also recorded: the label was not baseless. Fire is a canonical channel
+(`ch3:444` — Fire · Anger · *the clarity of your limits*) and ch4 is titled *How
+to Wield the Fire*. The label was grounded and still wrong, because it required a
+decode for something the question underneath it already said in concrete words.
+The two labels were also different kinds — *fire* elemental, *stewardship*
+topical — which is likely what made the pattern read as a formula.
+
+**Approved set, ready to apply:** `drafts/APPROVED_unearned_recall_2026-07-31.md`.
+Every anchor verified unique; `spec_edit.py` would abort on any that were not.
