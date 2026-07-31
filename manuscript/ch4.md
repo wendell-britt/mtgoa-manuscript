@@ -322,7 +322,7 @@ Exit fails differently from Stand, so the sequence keeps them apart. Stand fails
 
 ### The Will Ecology
 
-Chapter 1 taught you to read the meter: what a move costs you. Chapter 3 taught you to ask what a move does to the living field. The Challenger adds the fire question:
+Chapter 1 taught you to read your own fuel: what a move costs you. Chapter 3 taught you to ask what a move does to the living field. The Challenger adds:
 
 Did this charge become a line, or did it become smoke?
 

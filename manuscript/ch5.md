@@ -393,7 +393,7 @@ The Regent's practice moves through five stages. Unlike the Shaman's WAVE, fast 
 
 ### The Stewardship Ecology
 
-Chapter 1 taught you to read the meter: what a move costs you. Chapter 3 taught you to ask what a move does to the living field. The Regent adds the stewardship question:
+Chapter 1 taught you to read your own fuel: what a move costs you. Chapter 3 taught you to ask what a move does to the living field. The Regent adds:
 
 Does this way of carrying make the inheritance more alive, or does it preserve the form while draining the life?
 
