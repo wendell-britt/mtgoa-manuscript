@@ -268,7 +268,7 @@ The Architect's practice has five stages:
 
 This stage turns the other four from a loop into a practice. Observe, Model, Design, Deploy will iterate forever (each deployment producing new observations, each set of observations justifying another cycle) and nothing inside that loop ever declares the Architect finished, because the loop has no exit built into it. An Architect can spend a decade there and produce a measurably better system every year, and the system will still stop working the month they leave, because nobody ever designed it to run without them. Hand Off turns the practice away from the system and toward the next person: what they need to know that you assume they know, what has to go on paper, what has to get simpler so that it survives contact with someone who was not in the meetings. Operating it is the low bar. The test is whether they can *change* it, whether you handed over a machine or a machine plus the reasoning that would let them redesign it when the conditions move.
 
-Hand Off also carries the highest desertion rate, and workload has nothing to do with it. The four-stage loop is where the Architect is most valuable and most visible, and stepping out of it costs exactly that. Every argument for staying one more cycle is a good argument. That fact makes it a stage rather than an afterthought.
+Hand Off is also where the Architect most often walks away, and workload has nothing to do with it. The four-stage loop is where the Architect is most valuable and most visible, and stepping out of it costs exactly that. Every argument for staying one more cycle is a good argument. That fact makes it a stage rather than an afterthought.
 
 ---
 
