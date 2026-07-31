@@ -275,7 +275,7 @@ The draw is solo. Not a conflict between you and another person. Your inheritanc
 
 **Try this now.**
 
-1. Name one inheritance you carry in allyship work — a practice, norm, or loyalty
+1. Name one inheritance you carry in allyship work: a practice, norm, or loyalty
    you didn't invent but keep performing. (One sentence.)
 
 2. Draw the axis:
@@ -284,7 +284,7 @@ The draw is solo. Not a conflict between you and another person. Your inheritanc
 
    Mark where you are today.
 
-3. Write one integrated sentence — both poles in the same statement:
+3. Write one integrated sentence that holds both poles at once:
    *"I stay with __________ because it still __________,
    and I need __________ to change before I can keep showing up honestly."*
 

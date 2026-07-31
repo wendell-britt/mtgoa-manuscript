@@ -216,7 +216,7 @@ The draw is situational. Not solo, not relational — pick a specific moment whe
    Mark where you actually stood in that moment.
    Not where you'd defend standing.
 
-3. Write one integrated sentence — both poles in the same statement:
+3. Write one integrated sentence that holds both poles at once:
    *"I held back __________ because __________ was real,
    and the line I did not draw was __________."*
 

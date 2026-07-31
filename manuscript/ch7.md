@@ -199,7 +199,7 @@ The draw is relational. Not solo. Pick a live field with actual people in it, be
 
    Mark where you have actually been sitting. Not where you'd like to be.
 
-3. Write one integrated sentence — both poles in the same statement:
+3. Write one integrated sentence that holds both poles at once:
    *"I protect __________ because it makes __________ possible,
    and the thing I have not yet said is __________."*
 
@@ -687,7 +687,7 @@ The five moves are this chapter, in order. Wake Up is a channel detecting who is
 
 ### Drawing Against the Shadow
 
-Draw from your twenty rather than the hundred and twenty — though not all from one move. A daemon is a rule in force at every move, which means five failures rather than one. The Victim's:
+Draw from your twenty rather than the hundred and twenty, though not all from one move. A daemon is a rule in force at every move, which means five failures rather than one. The Victim's:
 
 **Wake Up.** It notices relationships accurately and files them by balance. Asked what relational dynamics matter, it returns who owes whom. The reading is good. The output is an account.
 

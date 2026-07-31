@@ -230,3 +230,31 @@ is the one edit to `gate.py` that requires Wendell.
 That mechanism exists because of §1.1: **the author has said he cannot see this
 defect in his own prose.** Every other rule in this book has a human backstop.
 This one does not, so the tool is the backstop, and it has to be unable to drift.
+
+### 3.1 · The 2026-07-31 rebaseline, and what it did not license
+
+Wendell authorised a rebaseline with four chapters reading OVER. **Three of the four turned
+out not to need one**, and finding that out is the only reason this entry is short.
+
+I had been reporting ch4, ch5 and ch7 as *classifier drift under reflow, raw counts
+identical*. Half right. Raw counts were identical, measured against the commit that set the
+budget: ch4 114 then and now, ch5 103 then and now. But the cause was not drift. At
+`5c9a3e9` those Polarity Encounter exercises sat **inside a code fence**, and `FENCE` blanks
+fenced text before counting. The fence came out later and the exercise was reformatted as
+markdown, which exposed four em-dashes that had been there the whole time and had never been
+counted.
+
+So the budget was never the thing that was wrong. **The four dashes were fixed instead of
+licensed**, and ch4, ch5 and ch7 all sit at cap without the cap moving.
+
+**ch7 also carried a real regression**, which the ratchet caught exactly as designed. One
+em-dash entered at `cfcbe95`, a *which*-tail sweep: *"Draw from your twenty rather than the
+hundred and twenty — though not all from one move."* Now a comma. Raw ch7 goes 48 back to 47.
+
+**Only ch8 and ch9 moved, and they moved against each other.** The ch8 memoir transfer is
+net-zero and now measured rather than asserted: raw ch8 150 to 144, raw ch9 141 to 147, the
+same six dashes. ch8's cap ratchets down 143 to 137. ch9's cap rises 135 to 141, which is the
+one raise in this pass and the reason it needed Wendell.
+
+**Book-wide budget before and after: 641 and 641.** Nothing was licensed. Every chapter is at
+cap and the instrument reads *within budget* for the first time.
