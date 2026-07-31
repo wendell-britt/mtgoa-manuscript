@@ -101,10 +101,16 @@ seam. 230 is the urgent one because it breaches twice.
 
 Recorded so nobody re-opens them.
 
-- **Meadows and *leverage point*, 18 hits in ch6.** Not a borrowing. ch6:122 uses the phrase
-  as the business jargon it has become and mocks people who say it without doing the work.
-  Taking a phrase back from common usage is not taking it from her. The pattern is removed
-  from the instrument with the reason recorded.
+- ~~**Meadows and *leverage point*.** Not a borrowing.~~ **WRONG, and corrected an hour
+  later.** I read two of eighteen hits and generalised. ch6:122 does mock the phrase as
+  jargon and it is the only hit that does. ch6:261 asks *"where is the actual leverage
+  point?"*, ch6:349 says *"you will have a leverage point before you have a channel"*, and
+  ch6:512 sets *"the leverage point instead of the brute-force push"* against the Architect's
+  five moves. That is the concept carrying weight, and Appendix G was right where I was
+  wrong: it *"runs through the Architect chapter as a term of art, and it is hers."* The
+  pattern is restored, and ch6 now carries an attribution below its seam, the same fix
+  Appendix F got. **Eighteen uses of a coined term with the author named nowhere was the
+  second-largest finding in this audit and I nearly closed it as a false positive.**
 - **wu xing.** ch3:431 carries a full, bolded confession of the borrowing and what was
   changed. Kaptchuk is a further-reading pointer rather than the source, so his living only
   in Appendix G and `copyright.md` is correct.

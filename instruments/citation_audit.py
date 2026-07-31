@@ -49,10 +49,14 @@ BORROWED = [
     (r"pre/?trans fallacy", "Wilber"),
     (r"evolutionary purpose|\bTeal\b", "Laloux"),
     (r"skilled helper", "Egan"),
-    # NOT Meadows. Checked 2026-07-31: all 18 hits in ch6 use "leverage point" as the
-    # business jargon it has become, and ch6:122 explicitly mocks people who say it
-    # without doing the work. Borrowing the phrase back from common usage is not
-    # borrowing it from her.
+    # RESTORED 2026-07-31, an hour after I removed it, and the removal was my error.
+    # I read two of eighteen hits and generalised from them. ch6:122 does mock the phrase
+    # as jargon, and it is the only hit that does: ch6:261 asks "where is the actual
+    # leverage point", ch6:349 says "you will have a leverage point before you have a
+    # channel", ch6:512 sets "the leverage point instead of the brute-force push". That is
+    # Meadows's concept carrying weight, and Appendix G was right that it "runs through
+    # the Architect chapter as a term of art".
+    (r"leverage points?", "Meadows"),
     (r"polarity map|both/and", "Johnson"),
     (r"big mind", "Merzel|Genpo"),   # he is credited by his teaching name in ch8
     (r"genius demon ally", "Rice"),
@@ -62,7 +66,9 @@ BORROWED = [
     (r"striving play|agency as art", "Nguyen"),
     (r"identity fusion", "Gorski"),
     (r"depersonalization|inefficacy", "Maslach"),
-    (r"hide[- ]and[- ]seek", "Watts"),
+    # Watts removed from Appendix G 2026-07-31 by Wendell's ruling, after the audit found
+    # him credited as the philosophical ground of the game frame and absent from all
+    # 92,000 words. Nothing to check for now, and this comment is the record.
     # Adler by way of Kishimi and Koga. The book's one non-negotiable rule -- you make the
     # move, what they do with it stays theirs -- is the separation of tasks.
     (r"separation of tasks|whose task", "Adler"),
