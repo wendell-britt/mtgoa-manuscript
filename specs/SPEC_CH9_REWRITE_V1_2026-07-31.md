@@ -197,3 +197,91 @@ substitute for it. Routing goes; memoir stays; the chapter gets shorter.
 The panel derived the instrument. It did not derive **the worked example** — one
 short pass of Wendell's own page, filled in. That is his to write, and it is
 perhaps 200 words rather than 5,144.
+
+---
+
+## 9 · Wendell's pushback, and why it is structurally true
+
+**Wendell, 2026-07-31:** *"Instead of bars-engine let's say that the book itself
+was created off of my own page filled in… What answer from every chapter would
+justify a book like this being created? The person I'm allying with IS Jordan."*
+
+**Worked backwards, and Chapter 1 already contains the filled page.** Every field
+of the instrument is answered there, in prose, three years before the form
+existed:
+
+| Field | The answer | Already written at |
+|---|---|---|
+| **The quest** | Jordan. The reader | `ch1:6` *"I made a promise to readers who trusted me with their money and their hope"* · `ch1:14` *"You're the person I made that promise to"* |
+| **The Face it required, against the Face he had** | Home: **Diplomat**. Required: **Challenger** | `ch1:187` *"I kept this very book in conversation for three years, everyone comfortable, nothing decided"* · `ch1:10` *"It wasn't until I gave myself permission to actually be mad"* |
+| **The one move** | Challenger Move 5 — **Draw the Line** (`ch4:686`) | `ch1:14` *"This is me showing up — late, imperfect, and in the game"* |
+| **The condition that will make it fail** | *"Moved, and unchanged"* | `ch1:239` *"If that is all this book does, I have failed"* — **stated verbatim, and it is Vale's fourth field** |
+| **The date** | Three years late, then a date | `ch1:4` *"This book is three years late"* |
+| **The cost** | Three years on guilt; chapters thrown out | `ch1:109` · `ch1:119` |
+| **Who receives it** | Her, and she writes her own | ch9's *Hand Someone the Pen* |
+
+### Why this is better than a joke
+
+**The book passes its own definition.** `ch1:91`: *allyship is the practice of
+increasing another person's well-being while protecting the conditions that allow
+both of you to remain full players.* `ch1:231` protects those conditions
+explicitly — *"This oath is not to me. You can't fail me — you can only fail
+yourself."* **The book is an allyship move, made on Jordan, that satisfies the
+book's own test.** That is not a conceit; it is the thesis demonstrated on the
+only case the author fully controls.
+
+**And the comedy is load-bearing rather than decorative.** Per `HUMOR_GRID`, the
+engine is *a script running with total commitment in a situation that stopped
+calling for it*, and the **Clown** is self as the butt. A man ran the Diplomat for
+three years on a book about not doing that. It is `REVISION_INSTRUMENT` #14,
+**Break Frame** — *confess in the open what the text is doing to her* — and #2,
+Clown, at once. Wendell's instinct that it is funny and the grid's account of why
+are the same account.
+
+### What it does to the rewrite
+
+**ch1 and ch9 become the same form, filled and blank.** ch1 is the worked example
+told as confession; ch9 hands her the identical seven lines, empty. Nothing has to
+be built to make that true — ch1 is already written. Section 5 stops being 5,144
+words of one man's product and becomes **one short page of his, and then hers.**
+
+bars-engine leaves without taking anything with it, because the worked example was
+never the app. It was the book.
+
+### Draft — Wendell's page, ch9
+
+Gate clean · be 1.03 · copula 0.69 · waste 1.21 · zombie 0.53 · expletive 0.00 ·
+passive 0.00. Roughly 260 words, against Section 5's 5,144.
+
+> Here is mine. I filled this page out three years before I had the form, which is
+> the only reason I can hand it to you now.
+>
+> **The quest:** you. Not allyship in general, and not people who want to be better
+> allies. You, the one who has done the reading and the therapy and the work, who
+> still goes home from the hard conversation running it back. I made a promise to
+> readers who trusted me with their money and their hope, and then I spent three
+> years not keeping it.
+>
+> **The Face it needed, against the Face I had:** I am a Diplomat. I kept this book
+> in conversation for three years, everyone comfortable, nothing decided. What it
+> needed was a Challenger, and I could not reach one until I let myself be angry at
+> the delay.
+>
+> **The move:** draw the line. Ship it late, imperfect, and in the game, or do not
+> ship it.
+>
+> **What would make it fail:** you are moved tonight and unchanged by morning. That
+> is the whole risk, and it is why there is a card in your hand instead of a
+> conclusion at the end.
+>
+> **What it cost:** three years on the wrong fuel, and a stack of chapters written
+> at the applause counter that had to be thrown out.
+>
+> **Who gets it after me:** you do. That is what the last page is for.
+>
+> Now yours. Same seven lines, and you have been filling most of them in since
+> Chapter 1.
+
+**Every claim in it is sourced to existing prose.** Nothing is invented; the
+hallucination risk Wendell named is answered by the fact that the answers were
+already on the page, in Chapter 1, waiting for a form.
