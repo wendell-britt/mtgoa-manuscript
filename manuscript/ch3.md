@@ -797,7 +797,7 @@ In practice: the sentence is shorter than you want it to be. A read usually runs
 
 ---
 
-That is the Shaman's game. Five moves. Catch it before the story rewrites it. Name the channel where people can hear it. Say the thing under the thing. Ask for the unreduced version. Spend the read inside the window. Every one of them takes something accurate and private and makes it public and useful, the only transaction this Face performs.
+That is the Shaman's game. Five moves. Catch it before the story rewrites it. Turn the dial up instead of down. Name the channel out loud. Say what you can do now. Say the thing under the thing. Every one of them takes something accurate and private and makes it public and useful, the only transaction this Face performs.
 
 The moves are what you do. The next question is where.
 

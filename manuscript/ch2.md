@@ -133,7 +133,7 @@ The world is not fine. The people trying to fix it keep running into the same pr
 
 Before you entered this chapter, you were already playing. You didn't choose to; the game was already running.
 
-Every workplace conflict, every family rupture, every coalition meeting where people nodded and left resentful, every moment where you chose silence, performance, attack, appeasement, or repair, those were all game moves. When you see it as pattern, the incidents don't look the same after that. The board is social reality. The stakes are human dignity, trust, and who gets to belong.
+Every workplace conflict, every family rupture, every coalition meeting where people nodded and left resentful, every moment where you chose silence, performance, attack, appeasement, or repair, those were all game moves. When you see the pattern, the incidents stop looking the same. The board is social reality. The stakes are human dignity, trust, and who gets to belong.
 
 Most of us were trained to treat these moments like isolated incidents. They are connected rounds in one larger game:
 

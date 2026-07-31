@@ -145,7 +145,7 @@ The clean no does not dissolve. The clean no states.
 
 **The clean no has three parts.** The first is *the line itself*: what you will not do, will not accept, will not stand. The second is *the delivery*: said plainly, without essay, without justification, without the three-paragraph explanation that actually signals "please don't be mad at me for saying this." The third is *the cost*: what happens if someone crosses it. Not a threat. A consequence. A natural result of what happens when someone crosses you.
 
-Most people can do part one. Some people can do parts one and two. Very few people can do all three without flinching. (One of those three stops you. We're going to get there.)
+Most people can do part one. Some people can do parts one and two. Very few people can do all three without flinching, and the third is where most people stop.
 
 <!-- MARGINALIA -->
 > *Very few people can do all three without flinching. Somebody did all three to me once, in eleven

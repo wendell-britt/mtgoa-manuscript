@@ -715,7 +715,7 @@ Where it bites is Open Up. The Victim's remit is what your having paid entitles 
 
 Take **What This Costs the Teller**: Open Up, Raise Awareness, Diplomat. Its question is the one the Victim exists to route around: *how can I relate compassionately to this?* Pointed not at the situation, not at the people harmed in general, but at the specific person in front of you who is spending something to tell you what you did.
 
-Run it once, on something real. Bring the last time someone told you about your impact. Wake Up: name the relational dynamic that was live, not the content but the standing. Open Up: what did it cost them to say it, and stay there for one sentence' worth of time without answering. Clean Up: name the channel you routed to, and the one that would have served better. Grow Up: name who is affected by whether you can receive this. Show Up: name the one person who must be involved in what happens next.
+Run it once, on something real. Bring the last time someone told you about your impact. Wake Up: name the relational dynamic that was live, not the content but the standing. Open Up: what did it cost them to say it, and stay there for one sentence's worth of time without answering. Clean Up: name the channel you routed to, and the one that would have served better. Grow Up: name who is affected by whether you can receive this. Show Up: name the one person who must be involved in what happens next.
 
 Five moves, one card, ninety seconds. The Diplomat's version is the one most likely to get interrupted by a balance.
 

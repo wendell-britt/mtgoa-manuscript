@@ -467,7 +467,7 @@ The willingness to be the Player.
 
 Here's what I want you to know before you go.
 
-The village is not just the people who will receive what you build. The village is the people already building. bars-engine works as more than a solo project: a structure already alive before you finished this book. Campaigns run. Quests stay active. Players show up. Space remains for what you're going to add.
+The village is not just the people who will receive what you build. The village is the people already building. Bars-engine works as more than a solo project: a structure already alive before you finished this book. Campaigns run. Quests stay active. Players show up. Space remains for what you're going to add.
 
 You don't have to figure out how to start from nothing. You don't have to build the whole thing yourself. You bring your specific gift: the thing this book helped you name, the thing you figured out how to do by walking your own terrain. Other people bring theirs. The game is bigger than any one person.
 
