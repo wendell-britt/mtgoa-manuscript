@@ -38,6 +38,7 @@ plan from a claim in a planning document without running the instrument.*
 
 | ID | Location | Reader problem | Evidence | Decision | Intended result | Status |
 |---|---|---|---|---|---|---|
+| **P0** | `ch7:467`, `ch1:179`, `ch1:267` | **Three placeholders print verbatim, including an authoring note addressed to Wendell** | `[[TESTIMONY SLOT — WENDELL…]]`, `*[visual: the six Game Masters]*`, `**[ URL / QR ]**`; all verified in `build/MTGOA_PRINT_2026-07-31.md`. `gate.py` passes clean — it has no placeholder rule | Fill or cut all three | Nothing addressed to the author reaches a reader | **OPEN — blocks print** |
 | DL-16 | `back_matter/kickstarter_backers.md` | Backers promised a credit do not find one | `build_book.py` — GAP, spine assembles with 2 gaps | Supply the list, or drop the component | Spine builds with no gaps | OPEN — needs Wendell |
 | DL-17 | `back_matter/enrollment.md` | Reader finishes the book with no next step | `build_book.py` — GAP; `MANIFEST.md` notes it waits on R1 | Write it, or ship without it | Spine builds with no gaps | OPEN — needs Wendell |
 | DL-12 | four `⟦…⟧` register tokens | None in canon | `gate.py` tokens column reads 0 on all four surfaces | Due only if the register pass extends to the other five Heads | — | DEFERRED, not gating |

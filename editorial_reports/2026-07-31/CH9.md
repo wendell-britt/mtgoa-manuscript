@@ -323,13 +323,13 @@ alone as deliberate voice.
 - **Disposition:** fix locally
 - **What would disprove this:** A colloquial reading of *mode* ("in this way") that the surrounding technical use does not contaminate.
 
-### [L6] The chapter's own product is capitalised two ways — AWAITS STRUCTURAL RULING
-- **Location:** ch9:153, ch9:400, ch9:608, ch9:696 vs ch9:300, ch9:358, ch9:366, ch9:394, ch9:440, ch9:470, ch9:610 (body)
-- **Evidence:** ch9:153 — "**Bars-engine** is my Founder move." ch9:470 — "**bars-engine** works as more than a solo project."
-- **Reader problem:** Four capitalised against eleven lowercase, several within the same paragraph (`ch9:470` and `ch9:696` sit in the same closing sequence). A reader deciding whether this is a product, a project, or a category gets a different answer from the typography each time, in the chapter where she is being asked to go find it.
+### [L6] One sentence-initial *bars-engine* breaks the chapter's own capitalisation — AWAITS STRUCTURAL RULING
+- **Location:** ch9:470 (body)
+- **Evidence:** ch9:470 — "The village is the people already building. **bars-engine** works as more than a solo project — a structure already alive before you finished this book."
+- **Reader problem:** The chapter otherwise runs a consistent convention — lowercase mid-sentence (300, 358, 366, 394, 440, 610), capitalised sentence-initially (153, 400, 608, 696). `ch9:470` is the one sentence-initial lowercase, so it reads as a typo in the closing offer, three lines above the paid ask. Small, but it sits in the passage a reader is scanning for the URL.
 - **Category:** line
 - **Disposition:** fix locally
-- **What would disprove this:** A house convention that lowercases the noun and capitalises it sentence-initially; `ch9:400` and `ch9:696` are sentence-initial, but `ch9:153` and `ch9:608` are too, which would make the convention consistent — worth one check before treating this as a defect.
+- **What would disprove this:** A deliberate all-lowercase brand style that `ch9:153`, `ch9:400`, `ch9:608`, and `ch9:696` are the violations of rather than the rule — in which case the same flag stands with four sites instead of one.
 
 ---
 
