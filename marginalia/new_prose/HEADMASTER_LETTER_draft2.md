@@ -39,7 +39,31 @@ of the schools reading as a verdict on the student, and draft 2 does not need de
 packet (an apology for the handbooks), and every sentence that explained the letter's own
 construction.
 
-**799 words to 621.**
+**799 words to 632.**
+
+## The slop pass, and Wendell's name-drop ruling
+
+Run after his read. *"We name drop only one of the faces and I think we should drop it for
+something for generic."* Two, in fact, Corin and Maera, and both are gone. The cost is that
+Orr's tic is *cites the others by name*, so the plant loses one marker. It was the weakest of
+the three and the craft argument runs the same way regardless: a stranger who has read nothing
+yet does not know who Corin is, so the name spends her attention and returns nothing.
+
+Six patterns fixed, all of them mine:
+
+| pattern | the line | fix |
+|---|---|---|
+| meta-commentary | *"I want a page to make sure…"* | the draft-1 tic in miniature. Cut to *"I would rather you were not disappointed"* |
+| stacked fragments | five sentences opening *Inside a…* | folded into one sentence. Orr is the only Head with no fragments, so this repaired the dial and the slop in one edit |
+| negative listing | *"The order is not a ranking and it is not tradition"* | cut. The paragraph now leads with the example, which was always the stronger opening |
+| aphoristic escalation | *"It is the only kind that has ever worked"* | cut. *Less is not a lesser enrolment* had already landed, and the evidence came before it |
+| dramatic fragment | *"Two warnings."* | *"There are two warnings worth having in advance."* |
+| colon reveal | *"The second one costs students more: what the person…"* | split into two sentences |
+
+**Measured after.** Fragments 6.9%, and the one that remains is *Say the smaller number*, which
+is the letter's best line and an imperative rather than a fragment for effect. Sentences over
+25 words 31.0%, the highest in the set with ch8 second at 20.0%. First person 15.8 against
+Orr's 16.0. Zero colons, zero Face names, one em-dash and it is the byline.
 
 ---
 
@@ -47,17 +71,17 @@ construction.
 
 Dear reader,
 
-I am glad this reached you, and I want a page to make sure you are not disappointed in us for
-the wrong reasons.
+I am glad this reached you, and I would rather you were not disappointed in us for the wrong
+reasons.
 
 Helping does not happen in one world. The person in front of you is standing somewhere
 particular when they need something, and it is rarely where you are standing. They are inside a
-body that has already decided something their mouth has not caught up to. Inside a rule they
-cannot say no to. Inside an inheritance nobody asked them whether they wanted. Inside a design
-that costs them more than it costs the person beside them, for reasons neither of them chose.
-Inside a bargain where their only leverage is somebody else's goodwill. Those are five
-different kinds of trouble and help shaped for one of them does very little in another, which
-is the whole reason there are six of us here instead of one of me.
+body that has already decided something their mouth has not caught up to, or inside a rule they
+cannot say no to, or an inheritance nobody asked them whether they wanted, or a design that
+costs them more than it costs the person beside them for reasons neither of them chose, or a
+bargain where their only leverage is somebody else's goodwill. Those are five different kinds
+of trouble and help shaped for one of them does very little in another, which is the whole
+reason there are six of us here instead of one of me.
 
 Two ways through, and I have watched both work. Take all six and you will be useful in most
 situations you walk into, which is what most students come for and is not a small thing. Take
@@ -65,10 +89,9 @@ one of them to the bottom and you become the person somebody travels a long way 
 is rarer and is not better. Nobody here will tell you which you are for, and I have guessed
 wrong in both directions.
 
-The order is not a ranking and it is not tradition. Corin will not teach you to hold a line
-until you can say what you felt in the last moment you said nothing, because a line drawn
-without that lands on the wrong thing and holds. Every entry requirement in the packet is a
-version of that sentence. They are there because we have watched what happens without them, and
+The school that teaches you to hold a line will not take you until you can say what you felt in
+the last moment you said nothing, because a line drawn without that lands on the wrong thing
+and holds. Every entry requirement in the packet is a version of that sentence. They are there because we have watched what happens without them, and
 not because anyone here enjoys turning people away.
 
 A term runs the same way at all six. You arrive carrying something that is actually happening to
@@ -81,19 +104,19 @@ in the record.
 Say the smaller number. A student who takes on what they can carry finishes the term; a student
 who takes on what they believe is expected of them has enrolled in the expectation, and I have
 watched that produce three good months and a departure often enough that I now ask at the door
-instead of in the spring. Less is not a lesser enrolment. It is the only kind that has ever
-worked.
+instead of in the spring. Less is not a lesser enrolment.
 
-Two warnings. You will be wrong out loud, on a schedule, in front of the same faces, and none
-of the six has found a kinder way to teach anyone to read anything accurately. The second one
-costs students more: what the person you helped does with your move is theirs, and we do not
-record it as your result.
+There are two warnings worth having in advance. You will be wrong out loud, on a schedule, in
+front of the same faces, and none of the six has found a kinder way to teach anyone to read
+anything accurately. The second one costs students more. What the person you helped does with
+your move is theirs, and we do not record it as your result.
 
 I have been at this a long time and the third week of a first term is still the best thing in
 my year. That is when a student stops performing the school at me and starts being in it, and I
 have never once been able to predict which week it will be for which person, which is most of
 why I am still here.
 
-Maera takes first-years every season. She is expecting you.
+The School of the Body takes first-years every season, and everyone begins there, including
+the ones who arrive certain they are past it. I would like to see what you do with it.
 
 *— the Headmaster*
