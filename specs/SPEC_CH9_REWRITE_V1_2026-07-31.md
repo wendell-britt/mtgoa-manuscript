@@ -546,3 +546,118 @@ assessment. A quiz that hands her the answer up front competes with that. The
 version that does not: point at the quiz as a **second opinion after she has
 spotted it**, which keeps the book's method intact and gives the quiz a job the
 book cannot do.
+
+---
+
+## 16 · Shame — measured, and Wendell's read confirmed
+
+**Wendell, mid-3-2-1:** *"Is the word shame even in the book. He's ashamed of
+shame. It's sanded down. But yes shame turns into emotional alchemy. Shame is the
+experience of dissatisfaction itself. So he's worked his way around it. But it's
+not obvious that this is the case. And it needs to be obvious."*
+
+### The count
+
+| word | uses in 96,355 words |
+|---|---|
+| fear | 94 |
+| anger | 87 |
+| sadness | 84 |
+| guilt | 15 |
+| **shame / ashamed** | **9** |
+
+Per chapter: ch1 **0** · ch2 **0** · ch3 2 · ch4 1 · ch5 3 · ch6 **0** · ch7 1 ·
+ch8 **0** · ch9 1.
+
+**Zero in the chapter that promises to take the guilt apart.**
+
+### The part that is worse than absence
+
+**Every one of the nine is already an alchemy.** The book does not avoid shame —
+it performs the conversion and declines to name what it is converting:
+
+- `ch5:408` — **"Inheritance-Shame → Inheritance-Gift.** The shame says: this
+  wound was done to me, therefore I am broken."
+- `ch7:250` — "the **shame of being a learner instead of an expert**, converts
+  into the groundedness…"
+- `ch3:341` — the Clean stage strips "the secondary reactions (**shame**…)"
+- `ch4:346` — "Charge → Collapse: the anger that should be directed outward
+  becomes self-directed **shame**"
+
+**So the mechanism is already in the book, twice, fully worked.** It appears as a
+local move inside two chapters rather than as the thing the engine runs on.
+
+### The structural claim, tested
+
+*Shame is the experience of dissatisfaction itself.* The book's engine is
+`[DISSATISFACTION → SATISFACTION]`. Measured: **dissatisfaction appears 29 times,
+23 of them in ch7.** ch1 **0** · ch2 **0** · ch9 **0**.
+
+So both halves are near-invisible in the same places. **The engine's substrate and
+the engine's own word are both missing from the opening and the close**, and both
+are concentrated in single chapters in the middle.
+
+Shame is also **not one of the five channels** — Metal/Fear, Water/Sadness,
+Wood/Joy, Fire/Anger, Earth/Neutrality. That is consistent with Wendell's reading
+rather than against it: shame is not one of the five feelings, it is **the state
+the five are being metabolised out of.** The taxonomy has no slot for it because
+it is the substrate, and the book never says so.
+
+### Can the promise be made
+
+`ch1` promises to take apart guilt and it uses the word. It never uses *shame*.
+**The promise as made is narrower than the book Wendell thinks he wrote**, and
+the two places where the book actually does shame-work — `ch5:408`, `ch7:250` —
+are not in the chapter where the promise lives.
+
+**This is a real finding and it is not a ship-blocker.** It is one paragraph in
+ch1 naming what the engine runs on, and possibly one line in ch9. Everything
+downstream already works; what is missing is the sentence that makes it legible.
+
+## 17 · The three slots, answered — in Wendell's own words
+
+His 3-2-1 supplied all three. Nothing below is drafted; it is his transcript,
+which is why it can be used.
+
+**1 · *Put it in front of one person*** — the answer is that he did not.
+
+> *"we put it in front of hundreds of people WAY before we were supposed to. Then
+> we SOLD a BOOK to them, even still before we were ready. No one told us it was
+> crazy. They believed in us. And life was the one that taught us we weren't
+> ready."*
+
+And where they stopped, which is the exact thing the slot asks for:
+
+> *"In the course everyone stopped when I told them to do a 3-2-1 on the dead
+> self. They didn't want to confront the part of them that was pretending to be
+> dead so they didn't have to show up as an ally."*
+
+**2 · *Take the note that costs you the design*** — the note came from himself,
+and it is the funniest and worst line in the transcript:
+
+> *"Did you confront that part?"* — *"I didn't. I almost forgot. **I never took my
+> own course.** lol"*
+
+**3 · *Run it again with one thing changed*** — the cost, itemised, and it needs
+no editing:
+
+> *"6 years of the mastering the game of allyship program. 4 years writing the
+> book. 3 cities. Jobs as a customer service rep, a crypto company documentarian,
+> a smoothie maker, a shoe salesman, an event organizer and all sorts of things to
+> keep my head above water while I made this happen."*
+
+### And a fourth thing he did not know he was answering
+
+The dialogue asks *"So where are people stopping now?"* and the answer is a
+cleaner statement of the book's thesis than anything currently in ch1:
+
+> *"They are stopping seeking growth and wellbeing. They've been told that they
+> can't personal-development their way into being a better ally and they can't
+> heal their way into being a better ally, and they are partially right. But I
+> have benefited from being a player of the game of allyship. And that game
+> involved showing up and finding ways to pay down the tokens, and keeping it
+> moving."*
+
+**That is the paternalism-adjacent myth A3 found orphaned**, answered — and it is
+also the shame paragraph, because *stopping seeking growth and wellbeing* is what
+shame does. Two open findings close on one paragraph of his own transcript.
