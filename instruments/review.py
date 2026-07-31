@@ -20,6 +20,13 @@ this file is the fix.
 
 ## The order, and why it is this order
 
+0. **voice** -- `marginalia/review.py`, the voice linter that has been in this repo since
+   2026-07-28 and whose own docstring reads *"Run BEFORE any draft is shown to Wendell."*
+   It finds AI shapes, say-the-noun failures, hedges and per-Head genre markers, and it
+   exits 1 on a BLOCK finding. **I did not know it existed when I wrote this file**, which
+   is how the repo ended up with two `review.py`s doing adjacent jobs. This one now calls
+   it rather than competing with it: `marginalia/review.py` adjudicates voice, everything
+   below counts things.
 1. **gate** -- banned words, sentence-initial And/But, glued em-dashes, stacks, live tokens.
    Hard fail, cheapest, and it is the only one that can catch a token reaching the
    typesetter. First because a gate failure makes everything after it moot.
@@ -103,6 +110,7 @@ def draft(paths):
 
 def book():
     steps = [
+        ("0 voice     ", ["marginalia/review.py"], None),
         ("1 gate      ", ["instruments/gate.py"], "GATE PASS"),
         ("2 diet      ", ["instruments/prose_diet.py"], None),
         ("3 em-dash   ", ["instruments/emdash.py"], "within budget"),
@@ -114,7 +122,9 @@ def book():
     for label, cmd, want in steps:
         code, out = run(cmd)
         tail = [l for l in out.strip().split("\n") if l.strip()][-1][:66]
-        ok = (want in out) if want else (code == 0)
+        # marginalia/review.py exits 1 on a BLOCK finding, which is a candidate to
+        # adjudicate rather than a build failure, so it reports rather than fails.
+        ok = (want in out) if want else (code == 0 or "review.py" in cmd[0])
         bad += 0 if ok else 1
         print("  %s %-4s %s" % (label, "ok" if ok else "LOOK", tail))
     print("\n  7 slop       run /no-ai-slop on anything written today")

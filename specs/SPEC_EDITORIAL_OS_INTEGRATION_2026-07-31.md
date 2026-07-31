@@ -61,6 +61,49 @@ boundaries, and a sequencing rule this repo had been keeping informally.
    problem or do not touch the sentence. The reader has a name here. The
    question is always *what does this fix for Jordan.*
 
+## 2a · What landed on 2026-07-31 after this map was written
+
+**Both branches forked from `625aaab` and touched no file in common**, 37 against 16, and the
+merge was clean. The map above is accurate as far as it goes and now misses five things.
+
+| new | what it is | which role owns it |
+|---|---|---|
+| `instruments/review.py` | the sequence, seven steps in a fixed order, runnable on a draft file or book-wide | **all four.** It is the harness the roles run inside rather than a role |
+| `.claude/skills/mtgoa-review/` | fires the sequence after every generation, and carries the fix that works per finding | Voice Guardian and Line Editor, at the point of writing rather than after |
+| `instruments/citation_audit.py` | UNCREDITED, DEAD and BORROWED against Appendix G | **Continuity and Claims Auditor.** This is the claims half, mechanised |
+| `instruments/examples_apply.py` | seats a chapter's Examples from its drafts file, matched by Move heading | safe-edit discipline, alongside `spec_edit.py` |
+| `prose_diet.py` gains `passive` and `agent` | a be-verb with a past participle; an abstraction given a human verb | **Line Editor.** Wendell: *"we don't seem to be able to pick up something that a high school English teacher could catch"* |
+
+### The two review.py problem, named
+
+**This repo now has two files called `review.py`** and they are not versions of each other.
+`marginalia/review.py` is the voice linter, in place since 2026-07-28, whose docstring reads
+*"Run BEFORE any draft is shown to Wendell."* `instruments/review.py` was written on
+2026-07-31 by somebody who did not know it existed, which is the honest account of it.
+
+They are not redundant. **The margin one adjudicates voice; the instruments one counts
+things.** The fix applied today is that `instruments/review.py` calls
+`marginalia/review.py` as step 0 rather than competing with it, so there is one entry point
+and the voice linter stops being orphaned. Its exit code 1 reports rather than fails, because
+a BLOCK finding is a candidate to adjudicate and not a build failure, which is the doctrine
+in §1 of this document.
+
+**Worth stating plainly, because it is the argument for this whole spec:** the rule I broke
+and then spent a session re-deriving was already written down, in a docstring, in this
+repository. The Lean OS's *diagnosis before revision* is the same rule a third time.
+
+### The reports are a snapshot of a book that has changed
+
+`editorial_reports/2026-07-31/` analyses the manuscript at `625aaab`. Since then ch1 gained
+Carse, ch3 gained five Examples and lost two book-awareness breaches, ch4 ch6 and ch7 had
+every Example replaced, ch5 gained a register and five Examples it never had, and ch8's three
+attributions moved below the seam. **Measured: of 35 quoted fragments in `CH6.md`, 10 no
+longer appear in the chapter.**
+
+The findings are not wrong. Their evidence has moved. **Re-run the scan against the merged
+manuscript before actioning any per-chapter finding**, and treat line numbers in those reports
+as historical.
+
 ## 3 · Where the repo's measured lessons override the Lean OS
 
 Three of the Lean OS defaults are adapted, each against evidence already paid for:
