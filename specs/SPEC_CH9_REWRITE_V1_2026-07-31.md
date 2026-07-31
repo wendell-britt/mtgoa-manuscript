@@ -466,3 +466,83 @@ missing example.
 **So the recommendation from §10 stands and strengthens:** the page's one Sage
 move is *Hold the Meta Without Losing the Ground*, and seating it closes
 `ch8:603`, the only move in the manuscript taught without one.
+
+---
+
+## 14 · The 3-2-1, measured — it is not slotting in, and the book says so itself
+
+**Wendell:** *"how is the 321 tool slotting into the book? It's in an appendix,
+but it's a core tool… This could even be one of the things that I cut."*
+
+`ch3:623` sets a **three-tool triage**, in the book's own words:
+
+> Use **3-2-1** when the trigger is a *person*. Use the **Polarity Map** when
+> you're stuck between two things that both seem necessary. Use **WAVE** when the
+> charge already sits in your body, ready to move.
+
+Measured across the six Face chapters:
+
+| Tool | ch3 | ch4 | ch5 | ch6 | ch7 | ch8 |
+|---|---|---|---|---|---|---|
+| Polarity Encounter | 1 | 1 | 1 | 1 | 1 | 1 |
+| WAVE stages | 13 | 10 | 6 | 7 | 7 | 5 |
+| **3-2-1** | 8 | 7 | **0** | **0** | **0** | **0** |
+
+**Two legs of the triage run the whole book. The third stops after ch4.** It is
+taught at `ch3:576`, practised once at `ch4:458` — *3-2-1 — Reclaim the Line You
+Projected* — and never appears again.
+
+**So the answer to "how is it slotting in" is: it isn't.** It is the odd one out
+in a set the book itself defined, and it is the abandoned-convention pattern that
+has now appeared five times in this pass.
+
+### The ruling this actually asks for
+
+**Not "cut or keep." Three options, and the cheap one is not the cut.**
+
+1. **Cut it.** Removes `ch3:576`, `ch4:458`, the triage's first clause and
+   Appendix E's 1,077 words. Also removes **the book's only Ken Wilber credit**,
+   which `MANUSCRIPT_FILE_CANON` records as the reason Appendix E exists. Wilber
+   is load-bearing elsewhere — `ch8:213`'s carry-the-lower-altitudes rule is his —
+   so the credit would need rehoming in Appendix G.
+2. **Keep it as it is** and amend `ch3:623` so the triage stops claiming three
+   equal legs. One clause. **The cheapest honest fix.**
+3. **Seat it in one later chapter** so the triage is true. ch7 is the natural
+   host — its whole subject is a person you are in conflict with, and its daemon
+   is the Victim, which is the projection engine 3-2-1 exists to reclaim.
+
+**Recommend 2 now, 3 in a second edition.** The tool is not broken and the
+appendix is written; what is false is the sentence promising three tools she will
+use throughout.
+
+**On its being core to Wendell's own practice:** that is an argument for the
+second edition, not against the ruling. The book is better for handing people
+what they need, and a tool used twice is not yet what the book needs. It is what
+the *course* needed, which is a different product with a different contract.
+
+## 15 · The superpower — the premise is wrong, and that is good news
+
+**Wendell:** *"I could also talk about the superpower concept in brief… It didn't
+make it into the book."*
+
+**It did.** Measured, every chapter carries it — ch1:1 · ch2:5 · ch3:6 · ch4:1 ·
+ch5:1 · ch6:2 · ch7:2 · ch8:2 · ch9:1 — **21 references**, and it is defined
+cleanly at `ch2:394`:
+
+> Your superpower is the reliable capacity you built to survive your wounds, once
+> that capacity is made conscious, ethical, and usable in service of others.
+
+It is also **promised on the character sheet** at `ch1:207` — *"a superpower you
+will only spot in motion."*
+
+**What did not make it in is the quiz, not the concept.** So the job is not to
+write a superpower section. It is **one sentence pointing at the quiz**, and the
+place it belongs is beside the definition at `ch2:394` or beside the promise at
+`ch1:207`.
+
+**One tension worth naming before it is written.** `ch1:207` promises she will
+*spot it in motion* — the book's method is recognition through play, not
+assessment. A quiz that hands her the answer up front competes with that. The
+version that does not: point at the quiz as a **second opinion after she has
+spotted it**, which keeps the book's method intact and gives the quiz a job the
+book cannot do.

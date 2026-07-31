@@ -46,6 +46,15 @@ RULES = [
      'a slot for a value nobody has supplied'),
     ('placeholder-name', r'\bJOHN DOE\b|\bYOUR NAME HERE\b|\bINSERT\b',
      'template text'),
+    # Author-slot convention, added 2026-07-31. When a form requires N concrete
+    # instances only Wendell can supply - a remembered moment, a draft count, a
+    # note somebody actually gave him - the slot is marked `WENDELL:` and left
+    # unfilled rather than drafted. This rule exists because the alternative was
+    # demonstrated the same day: drafting into those slots produced invented
+    # biography that read well and was false. A form requiring N specifics will
+    # generate N specifics; the safeguard is the empty slot plus this rule.
+    ('author-slot', r'\bWENDELL:',
+     'a slot only the author can fill, deliberately left empty'),
 ]
 
 # Legitimate in-world constructions that must never be "fixed". The Diplomat's
