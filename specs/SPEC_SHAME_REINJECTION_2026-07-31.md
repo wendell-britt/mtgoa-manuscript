@@ -143,6 +143,106 @@ landed in the manuscript.** The comedy pass and the shame pass are one job.
 
 ## 5. The design — four placements, in priority order
 
+### S2 — ZOOM-OUT, 2026-07-31, after three failed drafts
+
+Wendell on v3: *"this doesn't have the flavor anymore. Let's zoom out and explore
+exactly what we were writing this for."* He is right, and the reason is
+measurable rather than stylistic.
+
+**The confession already exists, at `ch9:326`–`358`, and it is better.** Spite.
+George Floyd, May 2020. *"The course had less than a ten percent completion
+rate."* *"The horses ran up to me talking about how thirsty they were. When I
+brought them to water, they walked away."* *"I was right and it cost me nothing
+and everything at the same time."* Captain Save-a-Kid. The depression well.
+
+**All three of my drafts were a compressed retelling of that passage, moved 200
+lines earlier and stripped of its specifics.** That is why each revision got
+flatter — I was summarising the best prose in the book and calling it new
+material. The slop pass then removed the last of what was borrowed. Nothing was
+underneath.
+
+**The unit was wrong.** Ch9 confesses **four years.** The ch7 slot asks for **a
+half-second** — its own brief says *"one time the ledger opened while somebody
+was telling you the truth about your impact, and what you said instead of hearing
+it. Not the lesson. The beat."* A career is not a beat.
+
+**The actual gap is the feeling, not the failure.** In all thirty-three lines of
+`ch9:326`–`358` the word *shame* appears once, at `ch9:354`, describing **the
+students**: *"They allied with the guilt, the shame, the avoidance."* He confesses
+spite, being right, doubling down, burnout, taking agency. He never confesses
+being ashamed. **The book hands the reader the entire failure with the feeling
+removed, and hands the feeling to somebody else in the same sentence.** That is
+the sanding, located.
+
+#### What the ch7 passage is for
+
+| | `ch9:326` | ch7 slot |
+|---|---|---|
+| Unit | four years | one half-second |
+| Tense | retrospective, from the far side | mid-walk, unfinished |
+| Subject | what he built and why it failed | what opened in him while somebody was talking |
+| Lesson | attached to every beat | **none attached** |
+
+#### What Jordan should feel
+
+Not sympathy, and not *"he is honest too."* **Caught.** The passage should make
+her aware of her own column while she is holding the book. Recognition with heat
+in it — the laugh, then the stop.
+
+The mechanism is the boggart, stated plainly: **a reader cannot alchemise a
+feeling she has never let arrive.** Watching somebody carry shame without
+contempt for himself is what gives her permission to let hers land long enough to
+work on. Every current instance converts before she can feel it, which teaches
+her the conversion is free.
+
+#### The transformation ch7 owes her
+
+Ch7's Move 4 is receiving rupture, and the chapter's own diagnosis at `ch7:497`
+is that the Victim makes this structurally impossible. So the deliverable is not
+*understand the Victim.* It is: **hear an impact you caused without the ledger
+opening.** One half-second of not reaching for the column.
+
+#### How it helps her in Chapter 9 — the structural argument
+
+Ch9 asks her to design from her six character-sheet lines, and those lines were
+written about failures. Two consequences:
+
+1. **A reader who cannot feel shame without collapsing writes six sanded lines**,
+   then designs a game for the person she wishes she were. Ch7 is where the
+   ledger stops deciding her standing, which is the only thing that makes ch9's
+   inputs honest. **Ch7 is the prerequisite for ch9's raw material being real.**
+2. **The humor diagnostic needs something to bite on.** S4 hands her *read your
+   six lines and mark the one you can still laugh at.* That instrument returns
+   nothing from a reader whose six lines have all been pre-forgiven.
+
+One repair in the other direction: `ch9:326`–`358` is fully processed, every beat
+with its lesson attached, so she meets a man who has finished. If ch7 gives her
+one beat he has **not** finished, ch9's arrival reads as earned rather than as
+the genre convention it currently risks.
+
+#### Direction for v4
+
+- The half-second, not the career.
+- **One person**, not a field. The cohort going still is ambient, and it is ch9's
+  territory anyway.
+- The exact number the ledger produced, and **the exact thing he said instead.**
+- **No lesson attached.** Ch9 pays it off.
+- The laugh comes from the gap between the number and the moment. No punchline.
+
+**The one candidate already in canon.** `ch9:340`: *"Got feedback mid-course that
+it wasn't fun — which meant I had to build a section about finding the source of
+fun inside a course I'd promised would be fun."* Somebody named an impact, and
+what he produced instead of receiving it was **a work order.** `ch5:516` names
+that racket in his own voice: *"The Fixer turns I might not be equal to this into
+a project plan, and a project plan holds much more comfortably than a verdict."*
+Ch7 needs the version where the ledger, rather than the Fixer, holds the pen.
+
+**What I do not have and cannot supply.** The person, and the sentence he said
+back. The 3-2-1 gave four years of material and no half-second. **Both failed
+drafts were me writing around that absence.** Logged in §7 as an author slot.
+
+---
+
 ### S1 · Name it once, in ch2, as substrate rather than an eighth daemon (P1)
 
 `ch2` teaches the seven and contains **zero** uses of the word. One paragraph
@@ -234,8 +334,15 @@ Per the `author-slot` rule in `instruments/placeholders.py`, marked and left
 empty rather than drafted. Drafting into these produced invented biography once
 today already.
 
+- `WENDELL:` **the half-second.** One person who told him something true about
+  his impact, what the ledger produced in the moment before he answered, and the
+  exact thing he said instead. Three sentences. Everything else in S2 can be
+  built around them, and nothing can be built without them — demonstrated by
+  three drafts that tried. The strongest candidate is the mid-course feedback at
+  `ch9:340`, if he can remember who said it.
 - `WENDELL:` the class that stopped at the dead-self 3-2-1 — what he actually
-  said next, in the moment, to the people who had stopped.
+  said next. Second candidate for the same slot, weaker, because a field going
+  still is not a person speaking.
 - `WENDELL:` whether the *"smart black man who didn't need to learn how to be
   helpful"* line goes in the book under his own name. It is the sharpest thing in
   the transcript and it is his to spend.
