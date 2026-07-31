@@ -258,3 +258,42 @@ one raise in this pass and the reason it needed Wendell.
 
 **Book-wide budget before and after: 641 and 641.** Nothing was licensed. Every chapter is at
 cap and the instrument reads *within budget* for the first time.
+
+---
+
+## 4 · The passive counter, and Wendell's ruling on ch7
+
+**Added 2026-07-31**, when `prose_diet.py` gained a `passive` counter and ch7 came in at 1.75,
+the worst in the book. Seventy hits, classified rather than swept.
+
+**Most were not defects.** Four are a deliberate refrain across the five modes. Around fifteen
+are psychological state nouns, *being seen*, *being abandoned*, *being told*, where the passive
+is the idiom and the subject at once. Five sit inside quoted translation scripts. Several are
+headings. And a group of modal passives carries the meaning in the agentlessness itself.
+
+**Twelve were genuinely agentless with a doer available. Wendell ruled on all twelve and kept
+the passive in five of them.**
+
+| kept as passive, by ruling | the reason it survives |
+|---|---|
+| *love is demonstrated through … rather than through infinite presence* | a correlative. Only a rewrite of both halves works, and neither reads better |
+| *the Repairer rebuilds it after it has been lost* | nobody does the losing, so there is no doer to promote |
+| *before it has been cleaned* | the cleaning has no agent worth naming |
+| *before it is closed* | same, and the active version shifts person mid-paragraph |
+| *the material from which terms are built* | the active version strands a preposition |
+
+| changed, by ruling |
+|---|
+| *are built on* to *rest on*, twice |
+| *entitlement is settled … would be received* to *the ledger settles that account … would arrive* |
+| *whose presence has been built out of* to *who built their presence out of* |
+
+**ch7 sits at 1.57 and that is where it stays.** The number went 1.75 to 1.44 and back up,
+which is the correct direction of travel: **a counter finds candidates and a reader rules.**
+Five of twelve says the counter over-reports on this chapter by roughly forty per cent, which
+is a fact about the Diplomat's subject rather than about the prose.
+
+**Three rows were not ruled on** and stay changed pending a word: *before the sentence is
+finished* to *before they finish the sentence*, *after the repair is offered* to *after you
+offer the repair*, and one of the two *are built on* to *rest on* changes.
+
