@@ -306,6 +306,16 @@ That is the Architect's practice. Logic as a living instrument. Structure as gen
 
 ---
 
+### The Design Ecology
+
+Chapter 1 taught you to read your own fuel: what a move costs you. Chapter 3 taught you to ask what a move does to the living field. The Architect adds:
+
+Did this change the condition, or did it clear the incident?
+
+The Architect does not need you to count what you shipped. The Architect needs you to tell the truth about whether the next person walks into the same wall.
+
+---
+
 ### Name One Unstated Assumption, in the Village
 
 Everything above builds the instrument. One move takes it out of the Forest. Structural clarity, kept in your head, costs nothing — and risks nothing. The moment you say it out loud in front of the people who built the system, it costs something. That's the Architect's exile wound in miniature: clarity gets heard as judgment. This week, you say it anyway.

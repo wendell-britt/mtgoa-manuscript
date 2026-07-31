@@ -472,6 +472,16 @@ Discernment at the close asks more than comfortable vagueness. It is worth it wh
 
 ---
 
+### The Presence Ecology
+
+Chapter 1 taught you to read your own fuel: what a move costs you. Chapter 3 taught you to ask what a move does to the living field. The Diplomat adds:
+
+Did staying cost something you agreed to spend, or something you never named?
+
+The Diplomat does not need you to tally what you gave. The Diplomat needs you to tell the truth about whether you set the price or somebody set it for you.
+
+---
+
 ## Section 5: The Victim, Up Close
 ### *The Ledger That Became a Standing*
 

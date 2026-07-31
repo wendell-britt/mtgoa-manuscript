@@ -457,6 +457,14 @@ Then the Liberator asks: *is this game mine? Am I the one who has to hold this b
 
 Then the Returner. You come back down. You sit with what you released. You don't stay up at the whole-board view looking down at what you just did. You come back to where they are and you say: *here's where I landed, and I'm staying.*
 
+### The Sight Ecology
+
+Chapter 1 taught you to read your own fuel: what a move costs you. Chapter 3 taught you to ask what a move does to the living field. The Sage adds:
+
+Did the whole view send you back down into the game, or did it hand you somewhere to stand outside it?
+
+The Sage does not need you to rank the games. The Sage needs you to tell the truth about whether seeing more made you easier to reach or harder.
+
 ### *The Walk Back: Coming Down Without Losing What You Found*
 
 The walk back is the hardest part, and you can drill it like anything else.
