@@ -50,14 +50,36 @@ the sanding.** Wendell's diagnosis is confirmed by count and by placement.
 
 ## 2. The finding that changes the job
 
-**Shame is not missing from the book. Shame is three of the seven daemons, and
-the book never says the word.**
+**Shame is not missing from the book, and it is not a daemon. Shame is a
+compound: the Damaged Self's damage, run through the Victim's story.**
 
-| Daemon | Where | What it is, restated | Shame's role |
-|---|---|---|---|
-| **The Controller** | `ch3:666` | *"It blocks with a verdict about you, and it has six of them, the same six every time: I'm not good enough. I'm not ready. I don't belong. I'm insignificant. I'm not worthy. I'm not capable."* | **The voice.** Those six are shame's whistle-calls, printed in full, in a table, with replacements — under another name. |
-| **The Victim** | `ch7:497` | *"If your legitimacy comes from having been harmed, then having caused harm is not a mistake you can absorb and repair. It voids the ledger… a part of you that cannot afford a finding is a part of you that will not run the audit."* | **The alibi.** The reason the audit never runs is that shame is what a finding would cost. |
-| **The Damaged Self** | `ch8:501` | *"seventh in line, one gate before the center… decides whether you are built correctly for any of this."* | **The identity claim.** `ch5:408`'s *"therefore I am broken"* is this daemon's whole sentence. |
+**Corrected 2026-07-31 by Wendell**, and the correction holds up against the
+text. My first draft of this section assigned shame to the Damaged Self. Wrong:
+*the Damaged Self is only about the damage.* The damage is a fact. Shame is what
+happens when the Victim's *therefore* gets pointed at the one who was damaged
+rather than at the field.
+
+**The seam is visible inside a single canonical sentence.** `ch5:408`:
+
+> *"The shame says: this wound was done to me, therefore I am broken."*
+
+Two clauses. **"This wound was done to me"** is the Damaged Self, reporting
+accurately. **"Therefore I am broken"** is the Victim's move, and the Victim's
+own section names that move in the same grammar — `ch7:490`: *"Not `this cost me`
+but `this cost me, therefore`."* Outward, the therefore produces standing:
+*therefore I have earned the right to speak here.* Inward, the same therefore
+produces shame. **One operation, two directions.**
+
+| Part | Where | Its contribution |
+|---|---|---|
+| **The Damaged Self** | `ch8:501` — *"whether you are built correctly for any of this"* | **The damage.** A true report. On its own it is not shame and carries no verdict. |
+| **The Victim** | `ch7:490`, `ch7:497` — *"this cost me, therefore"*; *"a part of you that cannot afford a finding is a part of you that will not run the audit"* | **The story.** The *therefore*. Turned inward it makes the damage mean something about the one it happened to. Turned outward it makes the same damage into a standing, which is why the audit never runs either way. |
+| **The Controller** | `ch3:666` — *"a verdict about you, and it has six of them, the same six every time"* | **The enforcement.** The six verdicts are the compound already formed and on patrol. That is why arguing with them fails: you are contesting a conclusion whose premise was filed two daemons ago. |
+
+**What this changes downstream.** Nothing about placement, and one thing about
+S3: ch8 is the wrong place to say the word *shame*, because ch8 is where the
+damage gets reported without the story attached, and that separation is the
+chapter's work. §5 revised accordingly.
 
 The two uses of *integrity* in the body sit on exactly the two daemons
 Wendell named, unprompted, four hours before this measurement:
@@ -126,17 +148,26 @@ landed in the manuscript.** The comedy pass and the shame pass are one job.
 `ch2` teaches the seven and contains **zero** uses of the word. One paragraph
 after the seven are introduced, before `ch2:388` turns the gang into the party.
 
-The claim: shame is not one of the seven and is not one of the five channels
-(Metal/Fear, Water/Sadness, Wood/Joy, Fire/Anger, Earth/Neutrality). It is what
-three of the seven are employed to prevent you feeling. This is consistent with
-Wendell's own line — *"shame is the experience of dissatisfaction itself"* — and
-with `ch3:341`, where shame is classed a **secondary** reaction. Naming it as
-substrate rather than channel is the only placement the existing ontology permits.
+The claim, per §2: shame is not one of the seven and is not one of the five
+channels (Metal/Fear, Water/Sadness, Wood/Joy, Fire/Anger, Earth/Neutrality). It
+is **what two of the seven produce together** — the Damaged Self's report plus the
+Victim's *therefore*, aimed inward — and the Controller is what enforces the
+result. This is consistent with `ch3:341`, where shame is classed a **secondary**
+reaction rather than a channel, and with Wendell's own line: *"shame is the
+experience of dissatisfaction itself."* A compound, not an eighth part.
 
 **Risk if skipped:** the Controller's six verdicts stay unnamed, and the reader
 who recognises them has no word for what she just recognised.
 
-### S2 · The Clown passage, ch7 (P0 — this is the ask)
+### S2 · The Clown passage, ch7 (P0 — this is the ask, and it closes a print blocker)
+
+**It fills `ch7:508`, the `[[TESTIMONY SLOT — WENDELL]]`** — one of the three P0
+placeholders currently printing verbatim in `build/MTGOA_PRINT_2026-07-31.md`.
+The slot's own brief asks for *"one time the ledger opened while somebody was
+telling you the truth about your impact, and what you said instead of hearing it.
+Not the lesson. The beat."* That is the shame passage. The approved set had this
+slot down for a **cut**; filling it is strictly better and takes P0 from three
+blockers to two.
 
 Ch7 is the Victim's chapter, already carries *"the shame of being a learner
 instead of an expert"* at `ch7:250`, and holds 23 of the book's 29 uses of
@@ -161,12 +192,16 @@ support: **shame told the truth about the gap; the lie was that the gap
 disqualified him from closing it in public.** Running the audit anyway, out loud,
 with the verdict still talking, is `ch3`'s Shaman move performed by the author.
 
-### S3 · One line in ch8, where integrity reads zero (P2)
+### S3 · REVISED — ch8 names the *separation*, not the feeling (P2)
 
-`ch8:501` — the Damaged Self, *"whether you are built correctly for any of this."*
-Ch8 has zero uses of both *shame* and *integrity*. The Damaged Self is shame's
-identity claim and the chapter never names either the feeling or its antidote.
-One sentence, in the existing Section 5 structure.
+Superseded by §2's correction. The Damaged Self is the damage, and ch8's job is
+to let the damage be reported without the story riding on it. Saying *shame* at
+`ch8:501` would re-merge in the chapter built to pull them apart.
+
+What ch8 can carry instead is one sentence marking the seam: **the damage is a
+true report, and the sentence that follows it is a separate part speaking.** That
+is the distinction the reader needs and the chapter currently leaves implicit.
+Integrity still reads zero in ch8; that is a separate finding, not this one.
 
 ### S4 · Ch9 inherits it (P2, blocked on the ch9 rewrite)
 
@@ -204,8 +239,8 @@ today already.
 - `WENDELL:` whether the *"smart black man who didn't need to learn how to be
   helpful"* line goes in the book under his own name. It is the sharpest thing in
   the transcript and it is his to spend.
-- `WENDELL:` the S3 ch8 sentence — whether the Damaged Self gets the word *shame*
-  or whether ch8 stays wordless on purpose.
+- `WENDELL:` the S3 ch8 sentence — whether the seam gets marked in ch8 at all, or
+  whether the separation stays something the chapter performs without narrating.
 
 ---
 
@@ -215,7 +250,7 @@ today already.
 |---|---|---|
 | R1 | Name shame in ch2 as substrate? | **Yes.** One paragraph. Cheapest fix with the widest reach. |
 | R2 | Clown passage in ch7 under Wendell's own name? | **Yes.** It is the entire brief. Nothing else draws her in. |
-| R3 | Ch8 line? | **Yes**, subject to §7. |
+| R3 | Ch8 line? | **Revised.** Marks the seam between damage and story; does not say *shame*. Subject to §7. |
 | R4 | Ch9 laugh-diagnostic? | **Yes**, after the ch9 rewrite lands. |
 | R5 | Import the word *boggart*? | **No.** §3. |
 
