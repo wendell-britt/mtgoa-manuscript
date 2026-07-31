@@ -74,6 +74,52 @@ MTGOA_WAS = {"copula_1k": 62.8, "mean_sent": 13.4, "short_pct": 27.5, "hedge_1k"
 # comparative one. Book figures, not targets.
 BASE = {"be": 50.3, "copula": 29.1, "waste": 56.3, "zombie": 11.1, "expletive": 2.4}
 
+# REGISTERS — the criteria adjusting to the book, added 2026-07-31.
+#
+# Wendell: "the letter is ok because it is the register of a personal letter… I think ch5
+# is also a reasonable exception. We should be updating our review criteria to adjust to
+# these stylistic changes we are making as well."
+#
+# BASE was measured before the book grew genres. It is nine chapters of Wendell's own
+# expository prose, and by that ruler a charter, a personal letter, a drill manual and a
+# practitioner's casebook all read as defects. They are not defects. They are the
+# `HEAD_VOICE_DIAL` doing exactly what it was written to do, and a ruler that punishes a
+# voice the author ruled is a ruler measuring the wrong thing.
+#
+# So: a named register raises the ceiling on the specific counters its genre inflates, and
+# on nothing else. Every entry carries the date, the ruling and the reason, which is
+# `gate.py`'s EXEMPT convention. **An unnamed file gets BASE**, so this cannot spread by
+# accident: a new file has to be added here on purpose, with a reason, by a person.
+REGISTERS = {
+    "headmasters_letter.md": {
+        "be": 1.30, "copula": 1.30,
+        "why": "a personal letter from one man to one reader. First person singular "
+               "carries I am, we are, it is at a rate expository prose does not. Ruled "
+               "2026-07-31: 'the letter is ok because it is the register of a personal "
+               "letter.'",
+    },
+    "CH5_REGISTER": {
+        "zombie": 1.60, "be": 1.60, "expletive": 2.00,
+        "why": "Quill's annotated charter. HEAD_VOICE_DIAL 2a rules her third impersonal, "
+               "fact and record, feeling only as a ledger entry, and a charter is nominal "
+               "by construction: the dissolution, the refusal, the observation. Flattening "
+               "the nominalisation would flatten the voice. Ruled 2026-07-31: 'I think ch5 "
+               "is also a reasonable exception.'",
+    },
+}
+
+# A limit worth knowing. The register is 400 words inside a 10,000-word chapter, so once it
+# lands in ch5.md the chapter's own score swamps it and the exemption never fires. It fires
+# on the draft file, which is where the check belongs anyway: before it lands.
+
+
+def register_for(name):
+    """The allowances that apply to a file, or {} for the book baseline."""
+    for key, spec in REGISTERS.items():
+        if key.lower() in name.lower():
+            return spec
+    return {}
+
 # Two rulers, deliberately, because they answer different questions.
 #
 # COPULA_JUNE reproduces the regex SPEC_REPETITION_AND_CUTS used, so the book can
@@ -144,23 +190,29 @@ def main():
                        key=lambda f: int(re.search(r"ch(\d+)", os.path.basename(f)).group(1)))
 
     keys = ["be", "copula", "waste", "zombie", "expletive"]
-    print("ratio against the book's own baseline — 1.00 is average, >1.30 is heavy\n")
+    print("ratio against the book's own baseline — 1.00 is average, >1.30 is heavy")
+    print("a * marks a counter covered by a named register in REGISTERS\n")
     print(f"{'file':<12}" + "".join(f"{k:>11}" for k in keys))
     print("-" * (12 + 11 * len(keys)))
     worst = []
     for f in files:
         t = BLOCK.sub("", io.open(f, encoding="utf-8").read())
         s = score(t)
-        row = "".join(f"{s[k]/BASE[k]:>11.2f}" for k in keys)
-        print(f"{os.path.basename(f):<12}{row}")
+        reg = register_for(os.path.basename(f))
+        cells = []
         for k in keys:
-            if s[k] / BASE[k] > 1.30:
-                worst.append((os.path.basename(f), k, s[k] / BASE[k]))
+            r = s[k] / BASE[k]
+            cells.append(f"{r:>10.2f}" + ("*" if k in reg else " "))
+            if r > reg.get(k, 1.30):
+                worst.append((os.path.basename(f), k, r, k in reg))
+        print(f"{os.path.basename(f):<12}" + "".join(cells))
 
     if worst:
-        print("\nheavy (>1.30):")
-        for f, k, r in sorted(worst, key=lambda x: -x[2]):
-            print(f"  {f} {k} {r:.2f}")
+        print("\nheavy:")
+        for f, k, r, covered in sorted(worst, key=lambda x: -x[2]):
+            ceiling = register_for(f).get(k, 1.30)
+            print(f"  {f} {k} {r:.2f} over {ceiling:.2f}"
+                  + (" (register ceiling)" if covered else ""))
 
     if verbose:
         print("\n--- expletive / orphan openers: no noun behind the pronoun ---")

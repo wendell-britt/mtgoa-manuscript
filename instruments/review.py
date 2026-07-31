@@ -38,6 +38,10 @@ apply to a draft, which is the point: **run them before it lands, not after.**
 
     python3 instruments/review.py FILE [FILE...]   # a draft, steps 1, 2 and a reminder
     python3 instruments/review.py                  # the whole book, all six measurable steps
+
+**Invoked by `.claude/skills/mtgoa-review/`**, which is what makes this run after every
+generation rather than when somebody remembers. The skill carries the fixes that work per
+finding and the rule on registers; this file carries the sequence.
 """
 import io, os, re, sys, subprocess
 
