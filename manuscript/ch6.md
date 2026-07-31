@@ -238,8 +238,6 @@ is not five judgments. It is one habit, applied five times.
 ## Section 4: The Practice
 ### *What the Architect Actually Does With a Broken System*
 
-One piece of vocabulary in this chapter is borrowed and load-bearing, so here is whose it is. *Leverage point* is Donella Meadows'. Her claim is that a system has places where a small, well-aimed push moves more than a large one, and that the obvious places are usually the weak ones. The phrase has since escaped into business language, where it means roughly nothing, and this chapter uses it in her sense throughout. Appendix G says where to read her.
-
 <!-- MARGINALIA -->
 > *A council I put in at had surveyed its people about exhaustion. The people, being honest, said
 > yes. A rest hour appeared on the shared calendar, placed at the only hour nobody had claimed — and
@@ -249,6 +247,8 @@ One piece of vocabulary in this chapter is borrowed and load-bearing, so here is
 > question than the one the survey asked. I liked them enormously.*
 <!-- /MARGINALIA -->
 
+
+One piece of vocabulary in this chapter is borrowed and load-bearing, so here is whose it is. *Leverage point* is Donella Meadows'. Her claim is that a system has places where a small, well-aimed push moves more than a large one, and that the obvious places are usually the weak ones. The phrase has since escaped into business language, where it means roughly nothing, and this chapter uses it in her sense throughout. Appendix G says where to read her.
 
 At the Architect's altitude, the native material is not emotion — it is *logic.* The raw material comes down to the relationship between cause and effect: the structures that produce outcomes, the leverage points that change systems, the mental models that explain why things are the way they are.
 
