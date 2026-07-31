@@ -230,7 +230,7 @@ yourself."* **The book is an allyship move, made on Jordan, that satisfies the
 book's own test.** That is not a conceit; it is the thesis demonstrated on the
 only case the author fully controls.
 
-**And the comedy is load-bearing rather than decorative.** Per `HUMOR_GRID`, the
+**The comedy is load-bearing rather than decorative.** Per `HUMOR_GRID`, the
 engine is *a script running with total commitment in a situation that stopped
 calling for it*, and the **Clown** is self as the butt. A man ran the Diplomat for
 three years on a book about not doing that. It is `REVISION_INSTRUMENT` #14,
