@@ -294,7 +294,7 @@ Reading the twelve rather than trusting the score, **the instrument over-flags**
   **That paragraph is already doing what the grid asks ch9 to do.**
 - `ch9:240` ends on the book's closing question and earns its plainness.
 
-**Genuinely worth punching: three or four, not twelve.** `ch9:300` leads, and it
+**Worth punching, on a real read: three or four, not twelve.** `ch9:300` leads, and it
 is blocked on Wendell's memory rather than on drafting.
 
 This is the same lesson as the recap hypothesis in §7, arriving twice in one
