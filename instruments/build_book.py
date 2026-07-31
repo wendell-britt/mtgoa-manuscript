@@ -61,6 +61,14 @@ SPINE = [
 
     ("chapter",  "Chapter 1",               "manuscript/ch1.md",                 BLOCKER),
     ("chapter",  "Chapter 2",               "manuscript/ch2.md",                 BLOCKER),
+
+    # The Headmaster's letter stands at the door of the six schools, so it sits here
+    # rather than at the front of the book. It is stored under front_matter/ because
+    # that directory holds standalone documents carrying no marginalia frame, and
+    # because gate.py's matter surface already sweeps it; position in this spine is
+    # what places a page, not the directory it lives in.
+    ("front",    "A Letter to the Reader",  "front_matter/headmasters_letter.md", BLOCKER),
+
     ("chapter",  "Chapter 3",               "manuscript/ch3.md",                 BLOCKER),
     ("chapter",  "Chapter 4",               "manuscript/ch4.md",                 BLOCKER),
     ("chapter",  "Chapter 5",               "manuscript/ch5.md",                 BLOCKER),

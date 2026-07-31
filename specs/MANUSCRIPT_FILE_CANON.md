@@ -18,6 +18,14 @@ The nine chapter files below are the manuscript. Edit these, and write edits bac
 | 8 | `manuscript/ch8.md` | The Sage |
 | 9 | `manuscript/ch9.md` | The Player |
 
+**One document is not a chapter and is not front matter either.**
+`front_matter/headmasters_letter.md` sits between Chapter 2 and Chapter 3, at the
+door of the six schools. It carries no marginalia frame, so `compile.py` never
+touches it, and it is deliberately outside the `manuscript/ch*.md` glob that
+`gate.py` and `emdash.py` use for chapters. `gate.py` reads it on the **matter**
+surface instead. Position comes from the spine in `instruments/build_book.py`,
+never from the directory.
+
 **Canon moved to git on 2026-07-28.** This repository is now the durable store,
 and these nine files are the book. The Claude project docs that used to hold
 canon (`claude/CHAPTER*.md`) and the Obsidian vault are upstream history — do
