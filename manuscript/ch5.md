@@ -67,7 +67,7 @@
 
 For a time the village tried to run on fire alone.
 
-The Challenger had drawn lines. The Challenger had said no. The Challenger had refused, demanded, interrupted, and named the cost of crossing the village's boundaries. All of that worked while the fire was lit. Problems that had festered for years were finally named. Long-standing violations were finally stopped. The village felt, for the first time in a long time, *clear about what it stood for.*
+The Challenger had drawn lines. The Challenger had said no. The Challenger had refused, demanded, interrupted, and named the cost of crossing the village's boundaries. All of that worked while the fire was lit. The Challenger named problems that had festered for years, and stopped violations the village had lived with for as long. The village felt, for the first time in a long time, *clear about what it stood for.*
 
 Fire burns out. When the fire burned out, nothing held underneath.
 
@@ -663,7 +663,7 @@ The Architect becomes necessary here: the Regent can carry the tradition across 
 
 Every tradition, at some point, needs more than stewardship. It needs a redesign. A new structure. A system that makes the right thing the easy thing for the people inside it. That is the Architect's work.
 
-The Architect was exiled for a specific reason: the village mistook *seeing the system* for *not loving the people inside it.* If you can analyze it, the village said, you don't really love it.
+The village exiled the Architect for a specific reason: it mistook *seeing the system* for *not loving the people inside it.* If you can analyze it, the village said, you don't really love it.
 
 The village was wrong. The Architect's love is structural. The Architect builds something better. The Architect has the Regent's stewardship in their blood, because the Architect knows that every system is also an inheritance, and every redesign is also a hand-off.
 

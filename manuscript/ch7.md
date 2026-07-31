@@ -72,7 +72,7 @@ The Diplomat's gift has a name: integrative negotiation. It surfaces what each p
 
 Most people stay past the point of their usefulness. Most people absorb cost until they empty out and then leave without warning. Most people never surface what the agreement actually requires, so nobody treats their presence as the precious, chosen thing it is. The Diplomat understands that a staying which cannot name its terms is a staying without weight. A staying without weight is a staying that slowly, invisibly, stops meaning anything at all.
 
-The Diplomat is the negotiator who has learned that love is demonstrated through honest stake-surfacing, timely closure, and the willingness to let the field decide what it can actually hold, rather than through infinite presence.
+The Diplomat is the negotiator who has learned that honest stake-surfacing, timely closure, and the willingness to let the field decide what it can actually hold demonstrate love better than infinite presence does.
 
 The five stages of the Diplomat's work run as a journey in sequence rather than a checklist. **Bridge** is the initial entry, the act of showing up in the field with curiosity rather than judgment, making contact without yet knowing what the relationship will require. **Translate** is the work of rendering one camp's language into terms another camp can hear, betraying neither side and finding the common ground of meaning. **Hold** is the maintenance of enough safety that difficult conversation remains possible even when the field is charged, not the four seconds of Stand you learned from the Challenger, where one person declines to take back one line, but the sustained containment of a whole field over the length of a hard conversation, sometimes over months. **Repair** is the healing of ruptures without the pretense that they did not occur: cleaning the wound without pretending nobody made it. **Negotiate** is the culmination: surfacing what each party protects, naming the terms under which staying remains possible, and closing so that everyone is heard *and* something moves.
 
@@ -110,7 +110,7 @@ The Diplomat's practice works across the full spectrum. Each bridging mode rests
 | **Repairer** | Water/Sadness | Rupture → Repair (moral equivalence → discerned equivalence) → **Poignance** |
 | **Integrative Negotiator** | Fire/Anger | Accommodation → Honest terms (resentful peace → agreement naming all stakes) → **Triumph** |
 
-Each mode's full arc, the dissatisfaction it carries and the alchemy that transmutes it, is worked through in the five channel deep-dives in Section 4. Calm is not the entry fee. Whatever you feel as you sit down, one of these five works with that feeling rather than around it.
+Section 4 works each mode's full arc through in its five channel deep-dives, the dissatisfaction it carries and the alchemy that transmutes it. Calm is not the entry fee. Whatever you feel as you sit down, one of these five works with that feeling rather than around it.
 
 ---
 
