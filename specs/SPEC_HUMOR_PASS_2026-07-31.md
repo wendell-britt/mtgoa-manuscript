@@ -226,3 +226,77 @@ flatness breaks a ruled payoff rather than merely costing a laugh; then the
 sixteen Cult Leader candidates, because the book has demonstrated it can write
 them; and the Jerk last, or never, as a deliberate ruling rather than an
 accident.
+
+---
+
+## 8 · The ch9 pass — and a miss in the app inventory it uncovered
+
+### The app inventory undercounted, and ch9 is where it matters
+
+`specs/SPEC_REMOVE_APP_V1_2026-07-31.md` searched for `\bapps?\b` and reported
+**one** hit in ch9. It searched the common noun and missed the product name.
+
+**`bars-engine` appears 23 times — eleven of them in ch9**, plus Appendix A, B,
+C, F and the author bio. None was in the app-removal scope.
+
+### The distinction that resolves it
+
+ch9's eleven do **two different jobs**, and only one of them is app routing:
+
+**ROUTING — the reader is sent to a product.** In scope for removal.
+> `ch9:400` — "When you're ready, a place waits for you. **Bars-engine is the
+> village's common ground** — the playground where players arrive after
+> finishing…"
+
+**TESTIMONY — Wendell's own story of having built something.** Out of scope, and
+**it is the best prose in the chapter.**
+> `ch9:358` — "**When I started building bars-engine, I didn't have it figured
+> out.** I had a felt sense of what was missing…"
+> `ch9:608` — "**Bars-engine has cost me all five of these.** *Cut the field* —
+> it is not about allyship in general; it is about the gap between people who…"
+
+**Removing the app must not remove the memoir.** ch9's argument is *build your
+version of what this is for your problem*, and it is credible only because the
+author built one. Strip the testimony and the chapter is a person recommending a
+journey he did not take.
+
+`ch9:610` shows the two jobs colliding in one sentence: *"You don't have to build
+bars-engine. You have to build your version of what bars-engine is for your
+specific problem."* The first clause routes; the second is the chapter's thesis.
+
+### The punch-up and the app removal are the same edit
+
+`ch9:300` is the highest-scoring flat paragraph in the book — nobody present,
+nothing happening, three abstraction subjects — **and it is flat precisely
+because it describes the product abstractly**:
+
+> The map also doesn't show you what success looks like from the inside. **The
+> moment when someone plays bars-engine and something opens in them that you
+> didn't know was closed.** The moment when a player names a feeling they've never
+> been able to name before and you realize the game did that.
+
+The indicated dial is **Testimony**, and the paragraph is *about* a felt moment
+the author has had. Converting it from a generic *someone* to a specific
+remembered instance would fix the flatness and the routing in one edit.
+
+**It cannot be drafted here.** It needs a real moment Wendell watched, which is
+the same constraint that ruled the ch7 testimony slot. Flagged for him, not
+written.
+
+### Honest correction: ch9's list is shorter than twelve
+
+Reading the twelve rather than trusting the score, **the instrument over-flags**:
+
+- `ch9:167`, `ch9:181` are `**The practice:**` instruction blocks. Correctly
+  flat — a list of moves is not supposed to have a person in it.
+- `ch9:604` scores as flat and is not. *"Running it. Messing it up. Running it
+  again. Running it with someone else watching."* — the anaphora is the play.
+  **That paragraph is already doing what the grid asks ch9 to do.**
+- `ch9:240` ends on the book's closing question and earns its plainness.
+
+**Genuinely worth punching: three or four, not twelve.** `ch9:300` leads, and it
+is blocked on Wendell's memory rather than on drafting.
+
+This is the same lesson as the recap hypothesis in §7, arriving twice in one
+pass: **the score locates candidates, the reading rules them**, and on this
+chapter the reading rejected two thirds.
