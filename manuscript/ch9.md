@@ -497,7 +497,7 @@ You are ready to be useful.
 
 *The Skeptic showed up with a question about what you're building: whether it's real, whether it matters, whether you're the right person to build it. The doubt is the fire. Write the specific question the Skeptic asked. Then: what's still standing after the question burns through? → app*
 
-*The Fixer showed up in your building and pointed at something specific: an obstacle, a gap, a thing that needs to be cleared before the next move. Not a person. What's the specific obstacle the Fixer identified? And: is it in the way of the build, or is it a distraction from it? → app*
+*The Fixer/Healer showed up in your building and pointed at something specific: an obstacle, a gap, a thing that needs to be cleared before the next move. Not a person. What's the specific obstacle the Fixer identified? And: is it in the way of the build, or is it a distraction from it? → app*
 
 *The Victim showed up in your building with a story about why it won't work, why you don't have what it takes, why this has failed before. Write the story exactly as the Victim tells it. Then: what's the thing that story is circling, the thing the Cauldron needs to transform? → app*
 

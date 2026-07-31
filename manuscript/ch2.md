@@ -431,7 +431,7 @@ You fold into a verdict about yourself. The Damaged Self takes it: *this is just
 
 Seven parts, each one snatching the joystick from the last, and not one of them is you.
 
-Underneath all of it, at the center, the youngest part of you still waits: the player, the one who should have been holding it the whole time. *Please don't leave me here again.*
+Underneath all of it, at the center, the youngest part of you still waits: the Vulnerable Child, the player who should have been holding it the whole time. *Please don't leave me here again.*
 
 The whole walk is reaching her: getting to the center where she is, and putting the joystick back in her hands.
 
