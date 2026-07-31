@@ -116,6 +116,45 @@ a future excepted block below the seam would still want A.
 a treatise-only ruler has to be measured before it means anything, and per-Head is probably
 the honest unit rather than per-book.
 
+## 3a · Implemented 2026-07-31, and what it found
+
+Wendell: *"let's do option A. And implement it now."* Built as specced. All three checks pass.
+
+| check | result |
+|---|---|
+| ch5's body reads 1.42 on passive, charter as its own row | **yes.** 1.83 to 1.42, and `block 1` prints indented beneath it |
+| every other chapter byte-identical | **yes.** The diff is one line and it is ch5's |
+| a broken anchor fails the run | **yes.** `exit 1: register anchor '**Clause forty.**' matched 0 times, expected 1` |
+
+**The ceilings in §2 of this document were guesses and two of them are wrong.** Measured on
+the 399-word charter, against the book per thousand:
+
+| counter | measured | the ceiling I wrote | verdict |
+|---|---|---|---|
+| be | **1.40x** | 1.60 | holds |
+| copula | 1.25x | none, so 1.30 | holds |
+| waste | 0.85x | none | holds |
+| zombie | **1.84x** | 1.60 | **too low** |
+| expletive | **1.89x** | 2.00 | holds, barely |
+| passive | **11.32x** | 2.00 | **too low by a factor of five** |
+
+**The ceilings stay as written and the block reports heavy.** Raising a ceiling to whatever
+the prose happens to measure is not a ceiling, it is a rubber stamp, and
+`SPEC_EMDASH_AND_DENSITY` §3 already rules that case: *"it cannot be raised to make a batch
+pass."* **Only Wendell rules a register.**
+
+**What the 11.32 actually says.** Fourteen passives in 399 words is thirty-five per thousand
+against the book's 3.1. That is not drift and it is not a near miss; **an annotated charter
+runs an order of magnitude more passive than expository prose**, because stating what shall be
+done without naming who does it is the entire grammatical form. The number is larger than I
+guessed when writing §2 and larger than the ch5 classification implied. It is the strongest
+single piece of evidence that a per-register ruler is the right idea, which is Option B's
+argument arriving from Option A's data.
+
+**The ruling needed:** set the charter's `passive` ceiling from the measurement, at 11.32 or
+just above, or leave it reporting heavy as a standing note that this passage is measured by
+the wrong ruler. Either is defensible. Neither is mine to take.
+
 ## 4 · The recommendation
 
 **Option A, and not before the book ships.** It is the smaller change, it closes the exact hole

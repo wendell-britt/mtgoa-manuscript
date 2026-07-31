@@ -138,6 +138,19 @@ REGISTERS = {
                "2026-07-31: 'the letter is ok because it is the register of a personal "
                "letter.'",
     },
+    # The same ruling as CH5_REGISTER below, reached through the chapter rather than the
+    # draft. SPEC_REGISTER_BLOCKS_2026-07-31 §1: the charter is 409 words inside a
+    # 10,000-word file, so a file-level exception fires on the draft and never on ch5.md.
+    "ch5.md": {
+        "blocks": [{
+            "start": "**Clause four.**",
+            "end": "It records no case of a keeper who stopped attempting it either.",
+            "zombie": 1.60, "be": 1.60, "expletive": 2.00, "passive": 2.00,
+            "why": "Quill's annotated charter, seated in ch5 Section 3. A charter states "
+                   "what shall be done without naming who does it, which is what makes it "
+                   "a charter. Ruled 2026-07-31.",
+        }],
+    },
     "CH5_REGISTER": {
         "zombie": 1.60, "be": 1.60, "expletive": 2.00,
         "why": "Quill's annotated charter. HEAD_VOICE_DIAL 2a rules her third impersonal, "
@@ -221,6 +234,31 @@ def score(text):
     }
 
 
+def split_blocks(text, spec):
+    """Return (body, [(block_text, block_spec), ...]).
+
+    An anchor matching zero times or more than once is a HARD ERROR rather than a silent
+    pass. A register is an exemption, and an exemption that stops applying without saying
+    so is how a defect gets licensed by accident."""
+    out = []
+    for b in spec.get("blocks", []):
+        for key in ("start", "end"):
+            if text.count(b[key]) != 1:
+                raise SystemExit("register anchor %r matched %d times, expected 1"
+                                 % (b[key][:56], text.count(b[key])))
+        i = text.index(b["start"])
+        j = text.index(b["end"]) + len(b["end"])
+        out.append((text[i:j], b))
+        text = text[:i] + text[j:]
+    return text, out
+
+
+def read(f):
+    """The scored surface of a file: frame blocks stripped, excepted blocks lifted out."""
+    t = BLOCK.sub("", io.open(f, encoding="utf-8").read())
+    return split_blocks(t, register_for(os.path.basename(f)))
+
+
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("-")]
     verbose = "-v" in sys.argv
@@ -237,28 +275,32 @@ def main():
     print("-" * (12 + 11 * len(keys)))
     worst = []
     for f in files:
-        t = BLOCK.sub("", io.open(f, encoding="utf-8").read())
-        s = score(t)
-        reg = register_for(os.path.basename(f))
-        cells = []
-        for k in keys:
-            r = s[k] / BASE[k]
-            cells.append(f"{r:>10.2f}" + ("*" if k in reg else " "))
-            if r > reg.get(k, 1.30):
-                worst.append((os.path.basename(f), k, r, k in reg))
-        print(f"{os.path.basename(f):<12}" + "".join(cells))
+        name = os.path.basename(f)
+        body, blocks = read(f)
+        reg = register_for(name)
+        for label, text, spec in ([(name, body, reg)]
+                                  + [("  block %d" % (n + 1), bt, bs)
+                                     for n, (bt, bs) in enumerate(blocks)]):
+            s = score(text)
+            cells = []
+            for k in keys:
+                r = s[k] / BASE[k]
+                cells.append(f"{r:>10.2f}" + ("*" if k in spec else " "))
+                if r > spec.get(k, 1.30):
+                    worst.append((label.strip() or name, k, r, k in spec, spec))
+            print(f"{label:<12}" + "".join(cells))
 
     if worst:
         print("\nheavy:")
-        for f, k, r, covered in sorted(worst, key=lambda x: -x[2]):
-            ceiling = register_for(f).get(k, 1.30)
+        for f, k, r, covered, spec in sorted(worst, key=lambda x: -x[2]):
+            ceiling = spec.get(k, 1.30)
             print(f"  {f} {k} {r:.2f} over {ceiling:.2f}"
                   + (" (register ceiling)" if covered else ""))
 
     if verbose:
         print("\n--- passive: a verb with no doer ---")
         for f in files:
-            t = BLOCK.sub("", io.open(f, encoding="utf-8").read())
+            t, _ = read(f)
             for s in sentences(t):
                 m = PASSIVE.search(s)
                 if m:
@@ -266,7 +308,7 @@ def main():
 
         print("\n--- agency: an abstraction doing a human verb (judgement) ---")
         for f in files:
-            t = BLOCK.sub("", io.open(f, encoding="utf-8").read())
+            t, _ = read(f)
             for s in sentences(t):
                 m = AGENT.search(s)
                 if m:
@@ -274,7 +316,7 @@ def main():
 
         print("\n--- expletive / orphan openers: no noun behind the pronoun ---")
         for f in files:
-            t = BLOCK.sub("", io.open(f, encoding="utf-8").read())
+            t, _ = read(f)
             for s in sentences(t):
                 if EXPLETIVE.match(s):
                     print(f"  {os.path.basename(f)}: {s[:96]}")
