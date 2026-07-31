@@ -1,90 +1,72 @@
 # ch3 · the five Examples, under the doubled position
 
-**2026-07-31.** Written to `specs/SPEC_EXAMPLES_2026-07-31.md`. ch3 is the Shaman and the
-School of the Body, so every Example aims at **the person whose experience does not have words
-yet** (`SPEC_FACE_TARGETS` §2).
+**2026-07-31, second draft.** Wendell on the first: *"trying to be clever and pretty and have a
+vibe to them, but it's getting in the way of clarity."* Rebuilt to the register and the four
+beats now recorded at `specs/SPEC_EXAMPLES_2026-07-31.md` §2a.
 
-**ch3's em-dash count is zero and its cap is zero**, so none of these carries one.
+ch3 is the Shaman and the School of the Body. Every Example aims at **the person whose
+experience does not have words yet**, and each teaches its own Move.
 
-| Move | beneficiary | position shown |
-|---|---|---|
-| 1 · Wake Up | Ines | gender identity, the misgendering everyone agrees was a slip |
-| 2 · Open Up | **the reader** | the designated self-Example, §3. Unchanged in substance |
-| 3 · Clean Up | Marcus | race and color, the point that gets absorbed rather than answered |
-| 4 · Grow Up | Priya | disability, undiagnosed, the years before a name exists |
-| 5 · Show Up | the third person | **outside the statutory list** — the only one who did not come through the same programme |
+| Move | beneficiary | position | channel |
+|---|---|---|---|
+| 1 · Wake Up | Ines | gender identity | the read, before the story |
+| 2 · Open Up | **the reader** | the designated self-Example | anger, and what sits under it |
+| 3 · Clean Up | Ravi | race and color | **Metal, which is Fear.** ch3:441 |
+| 4 · Grow Up | Priya | disability, undiagnosed | the read acted on early |
+| 5 · Show Up | Nadia | **outside the statutory list** | the thing under the stated thing |
 
-Religion is ch3's unused fourth and is carried by ch5 and ch6, which both list it.
+**What the first draft got wrong, beyond the prose.** Move 3 kept the label *Metal* and removed
+the fear from the scene. Metal is Fear at ch3:441, so the Example named a channel it no longer
+demonstrated. The channel now outranks the class, recorded in the spec as a correctness rule.
 
-**The slop pass, run after drafting.** Seven fixes, and two of them were clarity bugs rather
-than slop. *"The read is hers rather than yours"* was a binary contrast and also wrong: the
-read belongs to the reader and the information is about Ines. *"Recognising it is the entire
-qualification"* was an aphoristic kicker, now the mechanism it was decorating. *"Which is the
-point"* was throat-clearing and *"spent his once"* had no object. In Move 4 *"either"* had no
-referent and *"expensive for exactly one of us"* pointed at the wrong person. And Move 5
-introduced two people and then called the next one the fourth.
+**The doubled position appears once**, in Move 1, per the gradient. It claims recognition and
+not understanding, which is Cross's test: *you caught it because you have been the person
+holding your face still* is a fact about the reader. It says nothing about what the moment was
+like for Ines.
 
-**Move 5 also had no cost**, which §1.4 requires, so it has one now. **Move 1 still has none**,
-and that is deliberate: Wake Up is a read rather than an act, and the Example ends before
-anything is spent. §1.4 binds Examples where the move is external, which is a limit the spec
-should state rather than one I should quietly take.
-
-**On the doubled position and identity.** The reader recognises the *position*, never the
-class. Move 1 says *you know that stillness from somewhere in your own life*, which is true of
-anyone who has held a face while something landed. It does not say the reader is trans. That
-distinction is the whole difference between the doubled position and the saviour move wearing
-humility, and it is the sentence most likely to go wrong across the remaining thirty.
+**Measured as a set**, which is the right unit: single Examples are too short to score.
 
 ---
 
 ### Move 1 · Wake Up — Catch It Before the Story
 
-**Example:** Somebody uses the wrong pronoun for Ines in a status meeting, corrects it inside a
-second, and the agenda moves on. Your chest goes tight and the story is already assembling:
-*that is the fourth time, somebody should say something, it should probably be me.* Back up.
-The heat in your chest arrived on one specific half-second. The correction did not cause it.
-The second after did, when Ines kept her face completely still. You know that
-stillness from somewhere in your own life, which is why it registered with you and not with the
-six other people watching. What you caught belongs to Ines. You caught it early because you have
-made that face.
+**Example:** Somebody uses the wrong pronoun for Ines in a status meeting, corrects it, and
+moves on. Your chest tightens. Check the timing. The tightening did not land on the correction.
+It landed a second later, when Ines did not change her face. Your body read her, not the slip.
+You caught it because you have been the person holding your face still.
 
 ### Move 2 · Open Up — Turn the Dial Up
 
-**Example:** Someone takes credit for your work in a meeting. The composed version arrives
-instantly, fully formed: measured voice, generous face, a note to yourself to raise it later.
-Turn the dial up instead and two things arrive together. The anger, which you expected, and
-underneath it the small relief that you now hold a grievance you never had to ask for. That
-relief is the find. Once you have felt it, you can spot it on somebody else's face a year from
-now, in a meeting that has nothing to do with you.
+**Example:** A colleague presents your analysis as his own and you say nothing. The polite
+version arrives first and fully built: level voice, easy face, a note to raise it with him
+later. Turn the dial up instead. The anger arrives, which you expected. Underneath it sits
+something you did not expect, a small relief, because now you hold a grievance you never had to
+ask for. Keep the relief. The anger was the part you already knew about.
 
 ### Move 3 · Clean Up — Name the Channel Out Loud
 
-**Example:** A hiring debrief has been circling the same candidate for twenty minutes on
-things that keep almost being reasons. Marcus said in the first five minutes that the last two
-people off that shortlist got the same treatment, and the conversation absorbed it and carried
-on. Name the channel: *I do not think this is about the candidate. I think Marcus said
-something true twenty minutes ago and we have been busy ever since.* Metal, said where people
-can hear it. It costs you whatever you had in the way of being easy to work with. It costs
-Marcus nothing more, because he spent his standing on this twenty minutes ago and watched it
-get absorbed.
+**Example:** A hiring debrief has spent twenty minutes on whether Ravi is a culture fit and
+nobody has said what that means. Annoyance is the wrong name for it. What you feel is fear, and
+everyone at that table has some, because naming this means saying something about the team out
+loud. That is Metal. Say it: *I think we are avoiding a word. I am not sure Ravi would get this
+treatment if his last job had a different name on it.* You become the difficult one in that
+debrief and in the next one. What the panel does with it is the panel's.
 
 ### Move 4 · Grow Up — Say What You Can Do Now
 
-**Example:** You clocked months ago that Priya is not disorganised, that the way the week is
-built takes something out of her it does not take out of anybody else, and that neither of you
-has a name for it. You were right, and being right bought her nothing. The Grow move is the
-sentence in the seconds after the next read: *I can tell the difference between a person
-struggling and a schedule that is expensive for one person, and I am going to say so before
-I can prove it.* Say it to her first, and say it once. What she does with it is hers,
-including nothing.
+**Example:** You noticed months ago that Priya is not disorganised, and that the week costs her
+something it does not cost anyone else. Neither of you has a word for it. You were right, and
+being right bought her nothing. Say what you can do now, to her, once: *I can tell the
+difference between someone struggling and a schedule that is expensive for one person. I am
+going to say so before I can prove it.* If you have misread it, she watches you misread it. What
+she does with it is hers, including nothing.
 
 ### Move 5 · Show Up — Say the Thing Under the Thing
 
-**Example:** Two people keep restating positions on a scoping question that barely differ, and a
-third has said nothing for forty minutes. She is the only person on the call who did not
-come up through the same programme as everyone else, and the shorthand being used is that
-programme's. The read is: *I think we are three layers into a vocabulary and one of us has been
-outside it since the start.* One clause. Nothing about who is right. It costs you a little with the two
-who were arguing, because you have just told them their shorthand is a wall. The scoping
-question resolves in four minutes once the actual conversation becomes available, and she is in
-it.
+**Example:** Two colleagues have restated the same scoping position four times. Nadia has said
+nothing for forty minutes. She did not come up through the graduate scheme and everyone else
+did, and the shorthand on the call belongs to the scheme. Say the thing under the thing: *I
+think we are three layers into a vocabulary and one of us has been outside it since the start.*
+One sentence, and nothing about who is right. It costs you with the two who were arguing,
+because you have told them their shorthand is a wall. The question resolves in four minutes, and
+Nadia joins it.

@@ -110,6 +110,62 @@ two: a list presented as complete teaches that unprotected harm is permitted har
 
 **Disability appears in all six**, which §1.3 says is a teaching point rather than a gap.
 
+## 2a · The register, and the four beats
+
+**Ruled 2026-07-31 after Wendell read the ch3 batch.** *"The diagnosis for these examples is
+that they are trying to be clever and pretty and have a vibe to them, but it's getting in the
+way of clarity… these pieces need to have a specific register to make sure they are
+digestible."*
+
+**The genre is a worked example, not a scene.** A worked problem in a textbook, a case in a
+training manual. Jordan skims theory and stops at the Move; the Example is what she stops for,
+and she should get it on one pass.
+
+- Present tense throughout. Mixed tense is half of what reads as meandering.
+- The person is named in the first sentence. Nothing withheld for effect.
+- One idea per sentence. Short.
+- No sentence exists for rhythm. If it can come out and nothing is lost, it comes out.
+- No metaphor. The move is the interesting thing; the prose is not.
+- The move is quoted, so she sees the words.
+
+**Four beats, 5 to 7 sentences, 70 to 90 words.** The form carries the requirements so no
+sentence has to carry three, which is what produced the flowery in the first place.
+
+| beat | length | what it carries |
+|---|---|---|
+| 1 · Situation | 1 to 2 sentences, flat | the person, and the class shown rather than labelled |
+| 2 · What you notice | 1 sentence | the read, and the channel where the Move teaches one |
+| 3 · The move | 1 quoted sentence | requirement 3 |
+| 4 · Cost and what follows | 1 to 2 sentences | requirements 4 and 5 |
+
+### The doubled position is now a gradient, not a clause in every Example
+
+Ruled by Wendell 2026-07-31 off a six-Face analysis. The clause was the single sentence that
+kept going purple, and every flowery line he flagged was this one wearing a costume.
+
+- **ch3 and ch4: explicit, once each**, while Jordan is still learning the rule.
+- **ch5 to ch9: carried in beat 1**, as a fact of the setup rather than a claim about the
+  reader's inner life. Vale's point: a patch applied thirty-five times means the structure is
+  not carrying the meaning, so change the form rather than the count.
+- **Cross's test, on every one of them.** The clause may claim **recognition**, which is a fact
+  about the reader. It may never claim **understanding**, which is a claim about the other
+  person and is the injury the beneficiary epigraphs keep naming. If a sentence can only be
+  written as *I know what that is like for you*, it comes out.
+- Ash's objection stands and is answered by the count: thirty-five repetitions read as the
+  reader apologising for having standing. Two do not.
+- Quill's condition is this section. The reasoning is recorded so the next pass does not
+  quietly restore it.
+
+### The channel outranks the class
+
+**Also 2026-07-31, and this one is a correctness rule rather than a preference.** Drafting ch3
+I replaced the Move 3 Example, kept its `Metal` label, and removed the fear from the scene.
+ch3:441 maps **Metal to Fear**. The Example named a channel it no longer demonstrated, which
+broke the thing the Move exists to teach.
+
+**Where a channel and a protected class compete for a scene, the channel wins.** Classes
+distribute across a chapter's five. Each Example still has to teach its own Move.
+
 ## 3 · The balance rule, replacing §11.3's floor
 
 §11.3 asked for at least two of five with another person as beneficiary. Under the doubled
