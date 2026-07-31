@@ -614,6 +614,14 @@ are not in the chapter where the promise lives.
 ch1 naming what the engine runs on, and possibly one line in ch9. Everything
 downstream already works; what is missing is the sentence that makes it legible.
 
+**Gate note.** This section trips `andbut` six times and every hit is inside a
+quotation of Wendell's own transcript — *"And life was the one that taught us…"*,
+*"But I have benefited…"*, *"And that game involved…"*. The rule governs the
+book's prose, not a record of what somebody said. **Do not edit the transcript to
+satisfy a linter.** `MTGOA_INSTRUMENTS_TOOLKIT` already records the same caveat
+for the `stacks` rule: it fires on legitimate quotations of a defect inside
+editorial documents, and inspection precedes fixing.
+
 ## 17 · The three slots, answered — in Wendell's own words
 
 His 3-2-1 supplied all three. Nothing below is drafted; it is his transcript,
@@ -626,7 +634,7 @@ which is why it can be used.
 > crazy. They believed in us. And life was the one that taught us we weren't
 > ready."*
 
-And where they stopped, which is the exact thing the slot asks for:
+Where they stopped is the exact thing the slot asks for, and he supplied it:
 
 > *"In the course everyone stopped when I told them to do a 3-2-1 on the dead
 > self. They didn't want to confront the part of them that was pretending to be
