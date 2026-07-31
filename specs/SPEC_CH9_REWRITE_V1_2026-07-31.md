@@ -139,3 +139,61 @@ about which five it means at any moment, and it is currently the least clear.
    quest she runs on the cause she chose in ch1? The answer sets the instrument,
    and it is the one piece of this that cannot be derived from what already
    exists.
+
+---
+
+## 8 · Ruling 4 answered — what she builds
+
+Panel: `specs/PANEL_HEADS_CH9_BUILD_2026-07-31.md`. Wendell's constraint test
+held: every input was already canon, so the six answers are composition rather
+than invention.
+
+**The convergence, which Orr names and which the book built first.** Five Heads
+gave five different instruments, and they map one-to-one onto ch9's existing
+stage sequence:
+
+| Stage (`ch9:200`) | Head | The instrument |
+|---|---|---|
+| **Review** | Voss | Her six sheet lines, together, for the first time. Read them as one document and say what they share |
+| **Discern / Design** | Vale | One page. Four fields: the ch1 quest · the Face it requires · the single move · **the condition that will make it fail** |
+| **Build** | Ash | One rep. One quest, one person, one Face she does not reach for, **by a date, at a cost named in advance** |
+| *(the test on Build)* | Cross | One scheduled conversation with a named person, **before it is ready**, asking what it would cost them to use it |
+| **Pass On** | Quill | A named inheritor, entered at the time of writing, not when she next feels moved to |
+
+That is not five options. **It is one instrument seen from five seats, and the
+sequence it fills is already printed in the chapter.**
+
+### The recommendation
+
+**She builds a one-page game for the quest she named in Chapter 1, and runs one
+rep of it inside a week.**
+
+The page carries: the quest · the Face the quest needs rather than the Face she
+has · one move from the thirty · the failure condition · the date · the cost ·
+the person who receives it. Every field is already canon; nothing is new
+vocabulary.
+
+**And the framing move, which is Orr's and which I think is the whole rewrite:**
+
+> The chapter should not ask her what she wants to build. It should show her that
+> she has been building it since Chapter 1 and hand her the page where it already
+> exists. **A person who is told to start will start something new. A person who
+> is shown what she has already accumulated will finish it.**
+
+That reframes Section 5 from *5,144 words of how one man built one thing* to
+*here is what you have been assembling for nine chapters, on one page, with the
+gaps visible.* It is shorter, it is hers, and it converts A2's six sheet lines
+from a closed promise into the chapter's raw material.
+
+### Why this also fixes the app problem
+
+The reader's build has been bars-engine-shaped because the only worked example
+was bars-engine. Once the build is her one page, Wendell's testimony becomes what
+it should always have been — **the short worked example beside hers**, not the
+substitute for it. Routing goes; memoir stays; the chapter gets shorter.
+
+### What is still Wendell's
+
+The panel derived the instrument. It did not derive **the worked example** — one
+short pass of Wendell's own page, filled in. That is his to write, and it is
+perhaps 200 words rather than 5,144.
