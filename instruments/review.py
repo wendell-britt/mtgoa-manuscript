@@ -88,15 +88,15 @@ def draft(paths):
         os.remove(tmp)
         row = [l for l in out.split("\n") if os.path.basename(path)[:14] in l]
         print("  2 diet    %s" % (row[0].strip() if row else "no score"))
-        heavy = [l.strip() for l in out.split("\n") if re.search(r"\d\.\d\d$", l)
-                 and "heavy" not in l and os.path.basename(path)[:14] in l]
-        for l in out.split("\n"):
-            if l.strip().startswith(os.path.basename(path)[:14]) and l is not row:
-                pass
-        if "heavy (>1.30)" in out:
-            print("            HEAVY: %s" % ", ".join(
-                l.strip() for l in out.split("heavy (>1.30):")[1].split("\n") if l.strip()))
-            bad += 1
+        # Keyed on the marker prose_diet prints, not on its wording. The first version
+        # matched the literal "heavy (>1.30)"; renaming that heading to "heavy:" when the
+        # register ceilings landed made this silently stop firing, and review.py then
+        # reported ch6's Examples clean with zombie at 1.34 and passive at 1.44.
+        if "\nheavy:" in out:
+            for l in out.split("\nheavy:")[1].split("\n"):
+                if l.strip():
+                    print("            HEAVY %s" % l.strip())
+                    bad += 1
         print("  7 slop    run /no-ai-slop by hand, then re-run this")
     return bad
 
