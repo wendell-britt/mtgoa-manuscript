@@ -169,6 +169,77 @@ existing sentence and only the final noun changes. On a 14-word sample the
 ratios are noise, which is what `.claude/skills/mtgoa-review` warns about below
 ~300 words. Recorded so nobody re-opens it as a heavy-prose finding.
 
+## 5 · A6 — the spine. Ruled 2026-07-31, and it is ONE edit, not three
+
+**The finding was right and its scope was wrong.** A6 was logged as three edits.
+Measured against current master, two of the three are not defects at all — both
+were artifacts of the ch1 mis-pointer:
+
+- **ch2 never claims to be the loop.** It says *"Here's an opening game, five
+  moves you can run the next time a daemon grabs the joystick."* That is accurate
+  labelling. The defect was ch1 pointing at it.
+- **ch3's recall is earned.** The WAVE-Spiral is defined at `ch3:278`; *"you
+  already know all five"* sits at `ch3:860` — **582 lines later in the same
+  chapter.** She was taught them.
+
+### The real defect: *the loop* is not this book's name for anything
+
+Every use of *loop* in the manuscript, measured:
+
+| Site | Refers to |
+|---|---|
+| `ch2:172` | a rumination loop — a pathology |
+| `ch6:269`, `271` | the Architect's four-stage loop |
+| `ch8:438`, `446` | the five modes as a commitment loop |
+| `ch9:103`, `196`, `604` | the five modes looping |
+
+**None is the WAVE**, and `ch9:103` rules against it directly: *"They don't run in
+sequence the way the WAVE's stages do — they loop."* Calling the WAVE *the loop*
+in ch1 contradicts ch9.
+
+What actually runs every Face chapter is the **WAVE** — 10 to 18 stage-name uses
+in each of ch3–ch8, no exceptions.
+
+So the referent was never missing. **The name was never adopted.** Pointing the
+sentence at ch2 was wrong; re-pointing it at the Headmaster's Letter in `069bcbd`
+was wrong the same way. Both moved a pointer instead of correcting a noun.
+
+**Priority, per the Lean OS ladder:** question 1 — *does this threaten the book's
+central promise?* Yes. The promise is *you learn one process*, and this is that
+sentence at first mention. First yes beats everything below it.
+
+### ch1 — replacement
+
+**OLD**
+```
+You already have the process that runs every one of these faces: the loop, which the Headmaster sets out in the letter standing at the door of the six schools.
+```
+**NEW**
+```
+One process runs every one of these faces: the WAVE, which the Shaman hands you in Chapter 3 and every school after that one uses.
+```
+
+The rest of the paragraph needs *the loop* → *the WAVE* in its second sentence:
+
+**OLD**
+```
+Each Game Master takes a chapter to teach you their game, and the loop is how you play it.
+```
+**NEW**
+```
+Each Game Master takes a chapter to teach you their game, and the WAVE is how you play it.
+```
+
+Three things in one edit: names the spine with the book's own word, points at
+where it is taught, and drops *"You already have"* — itself unearned recall, in
+the sentence this branch exists to fix.
+
+**`069bcbd` stands.** The Headmaster's Letter is good and belongs at the door.
+It simply is not where the WAVE lives, so only the claim about it changes.
+
+Gate clean · be 0.31 · copula 0.00 · waste 0.55 · zombie 1.03 · expletive 0.00 ·
+passive 0.00.
+
 ---
 
 ## What this closes
@@ -180,9 +251,11 @@ ratios are noise, which is what `.claude/skills/mtgoa-review` warns about below
 | A term asserted as known that the book never contained | R4 |
 | The book's most-used metaphor, arriving unintroduced and mis-credited | Fix 2 |
 | A coined-label formula that measured as the draft's largest defect | the cut |
+| **The book's central promise, misnamed at first mention** — *the loop* was never this book's word for the WAVE | **A6** |
 
-**Not closed by this file, and still open in the spec:** A6's three edits, and Tier 3 — the ~77
-unadjudicated candidates from `instruments/assumed.py`.
+**Not closed by this file, and still open in the spec:** Tier 3 — the ~77
+unadjudicated candidates from `instruments/assumed.py`. A6 is closed here, at one
+edit rather than three.
 
 ## Applying it
 
