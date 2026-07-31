@@ -14,6 +14,38 @@
 > — a foreman, name withheld at his request
 <!-- /EPIGRAPH-BYLINE -->
 
+<!-- HANDBOOK -->
+> **THE SCHOOL OF THE PATTERN**
+> *Admissions. Specification 0.1.*
+>
+> **1. Who we are for.** Specification: an applicant has (a) taken a path costing them more
+> than it cost the person beside them, for reasons neither chose, and (b) watched another take
+> that path and concluded *the process is fine, they are struggling.* Both required.
+> Applicants presenting only (b) are declined and told the reason, which takes an afternoon
+> and saves four years.
+>
+> **2. Capability conferred.** Location of the point at which a system produces the outcome it
+> produces. Not the person standing at that point. The point. In practice the consequence
+> arrives about a season later: people stop apologising for things that were never theirs,
+> because the apology has stopped being accepted.
+>
+> **3. Cost.** Tolerance, stated. This training holds to roughly the third redesign. Past
+> that, candidates begin producing designs to correct designs, each further from anybody
+> living inside them, and the drift is the mechanism rather than the error. Those who did not
+> stop at three have suffered as a result. See figure two.
+>
+> **4. Not taught.** Disposition of the person the redesign will not reach in time. There is
+> always one. The specification does not cover them and I decline to pretend otherwise. Such
+> cases go to the School of the Horizon.
+>
+> **5. Entry.** Prior standing at the School of the Oath. Something must have been kept before
+> something may be changed, and the order is not stylistic.
+>
+> **6. A word from the Head.** The designs hold. I ask first now, which I did not for nineteen
+> years. In practice I remain slower at asking than at designing, and the asking takes an
+> afternoon.
+<!-- /HANDBOOK -->
+
 <!-- MARGINALIA -->
 > *Irix asks every student to draw the system and then asks whose face disappeared from the
 > diagram. They have been asking it for thirty years and it is the best question anybody at this
@@ -216,6 +248,8 @@ is not five judgments. It is one habit, applied five times.
 <!-- /MARGINALIA -->
 
 
+One piece of vocabulary in this chapter is borrowed and load-bearing, so here is whose it is. *Leverage point* is Donella Meadows'. Her claim is that a system has places where a small, well-aimed push moves more than a large one, and that the obvious places are usually the weak ones. The phrase has since escaped into business language, where it means roughly nothing, and this chapter uses it in her sense throughout. Appendix G says where to read her.
+
 At the Architect's altitude, the native material is not emotion — it is *logic.* The raw material comes down to the relationship between cause and effect: the structures that produce outcomes, the leverage points that change systems, the mental models that explain why things are the way they are.
 
 This is not abstract theory. The Architect uses logic the way the Shaman uses emotion: as a living instrument for reading reality. A system is not working. The Architect asks: why does this system produce this outcome? Where is the smallest push that creates the largest movement?
@@ -397,7 +431,7 @@ Finding the leverage point is the discipline of asking: what is the one place in
 
 In practice: when you're looking at a broken system, don't start with what's broken. Start with where the pressure is already building. Where is the system under the most strain? Where are people already trying to work around the problem? That's usually the leverage point. The workaround is a sign. Follow it.
 
-**Example:** A team that's constantly in meetings. The leverage point is almost never the meeting structure. It's usually the decision rights. Someone is calling a meeting because they don't know if they're allowed to decide something. Give them the decision. The meeting disappears.
+**Example:** Meera asks three times for the weekly deck in a format her screen reader can use, and three times somebody sends a fixed copy that afternoon. The fixed copy is not the fix. The leverage point sits in the template everybody builds the deck from and nobody owns. Change the template and the request stops existing. It costs you a fortnight of arguing with people who like their fonts. Meera did not ask you to do this and may never notice you did.
 
 **The test:** You named one place and pushed there, instead of pushing everywhere at once with the same force. Cascades are slow and often invisible. One named point is the move.
 
@@ -413,7 +447,7 @@ Naming an unstated assumption is the move that turns a good designer into a grea
 
 In practice: when everyone around the table is discussing solutions, pause and ask: what are we assuming that nobody has said out loud? Usually there's one assumption that, if you named it, would change the entire conversation. Find it. Say it. See who flinches.
 
-**Example:** A team that's redesigning their onboarding flow. The unstated assumption is that users read the instructions. They don't. They've never read the instructions. Once you name that assumption, the whole design changes — from how-to guide to just making the thing work without instructions.
+**Example:** The volunteer sign-up asks for a bank account before it will reimburse anything, and the team keeps calling the drop-off a form-length problem. Name the assumption out loud: *we have built this for somebody who can front forty pounds for six weeks.* Form length was never the problem. Two of last year's volunteers paid it and said nothing. Once that sits on the table the design changes from shorter form to advance payment, and people stop arguing about fields.
 
 **The test:** You got it stated — moved from something everyone treats as given to something on the table that can be examined. Whether it turns out to be false is a separate question.
 
@@ -429,7 +463,7 @@ Designing for handoff means: before you ship the design, ask who will run this a
 
 In practice: design as if the person taking over knows less than you do about why you made the choices you made. Because they will. Write the rationale down. Name the trade-offs. Explain what you optimized for and what you gave up. Leave a breadcrumb trail.
 
-**Example:** A process you designed that involves three tools. The handoff version has one tool. You optimized for simplicity instead of comprehensiveness. The person who takes over doesn't need to know about all the tools you tried. They just need to be able to run the one.
+**Example:** You built the intake process, you run it, and you also translate for the three families who cannot use an English form. Design the handoff on the assumption that the next person will not speak Somali. Put the translating in the process rather than in yourself, which means paid interpreters on the calendar and a form in two languages, and it costs the programme more than you do. The families get something that survives you leaving. You stop being the reason it works.
 
 **The test:** You asked who runs this after me before you shipped, and wrote down the one thing you were assuming they already knew. The system's survival is next year's evidence.
 
@@ -455,7 +489,7 @@ Shipping the minimum means: what is the simplest version of this that still test
 
 In practice: before you start designing, ask: what is the one question this design needs to answer? Everything else is detail. The minimum version is the one that answers that one question. Ship it. Learn. Then design.
 
-**Example:** A new dashboard. The minimum version shows one number. Just one. Does the user look at it? Do they come back? Do they ask for more? That tells you everything you need to know about whether the dashboard is worth building.
+**Example:** The rota redesign has sat in committee since March because nobody can agree on the whole model. Bea collects her son at six and has spent those months swapping shifts through a group chat. Ship the minimum, which is one rule: swaps get posted in one place and anybody may take one. Run it for a month. It will not fix the rota. It tells you whether the swapping was ever the problem, and Bea stops negotiating in private.
 
 **The test:** It reached a real person while it was still embarrassing to show. A version you shipped once you were comfortable with it arrived late, however well that version performed.
 
@@ -471,7 +505,7 @@ Refactoring kindly means: you can see clearly that the design needs to change, a
 
 In practice: when you're revising a design, name what the previous version got right before you change what it got wrong. Make this a practice, not a courtesy. The previous designer in you — past you — needs to hear that they weren't wrong. They were learning.
 
-**Example:** A feature you built two years ago. You can see now it was the wrong solution. Say: we built this with the information we had, and it was the right decision at the time. Now we know more. Let's build what we know now.
+**Example:** You built the escalation path two years ago and you can see now that it routes everything through one person, who is you. Say it in front of the team: *we built this with what we knew, and it was the right call then. We know more now.* Then change it. The kindness is not for them. A person who cannot say that about their own work stops being able to see it, and you will need to see the next one.
 
 **The test:** You changed it without filing the previous version as a mistake. It got you here, and saying so out loud is part of the move. Quality of the new design is a separate question.
 

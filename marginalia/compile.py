@@ -27,10 +27,12 @@ ROOT = os.path.join(HERE, os.pardir)
 MS = os.path.join(ROOT, "manuscript")
 sys.path.insert(0, HERE)
 
-from insertions import FRONT, BYLINE_NOTE, NOTES, POSTCARD, SIGNATURE
+from insertions import FRONT, BYLINE_NOTE, HANDBOOK, NOTES, POSTCARD, SIGNATURE
 
 CHAPTERS = [2, 3, 4, 5, 6, 7, 8, 9]
-KINDS = ("MARGINALIA", "EPIGRAPH-BYLINE", "SIGNATURE")
+# HANDBOOK added 2026-07-30. SPEC_SCHOOL_HANDBOOKS §8: it must join KINDS or --strip
+# orphans six pages and --apply duplicates them, compounding on every cycle.
+KINDS = ("MARGINALIA", "EPIGRAPH-BYLINE", "HANDBOOK", "SIGNATURE")
 BLOCK_RE = re.compile(
     r"\n?\n<!-- (%s) -->\n.*?\n<!-- /\1 -->\n" % "|".join(KINDS), re.S)
 # The postcard carries its own horizontal rule. Match the rule together with the
@@ -85,12 +87,23 @@ def apply_chapter(ch, txt):
     if not m:
         return txt, 0, ["FRONT anchor miss"]
     front = block(FRONT[ch], "EPIGRAPH-BYLINE")
+    n = 1
+    # The school's admissions page sits between the testimonials and the margin: the
+    # annotator is commenting on the Head, and that reads better once the Head has spoken.
+    if ch in HANDBOOK:
+        front += block(HANDBOOK[ch], "HANDBOOK")
+        n += 1
     if ch in BYLINE_NOTE:
         front += block(BYLINE_NOTE[ch], "MARGINALIA")
     txt = txt[:m.end()] + "\n" + front + txt[m.end():]
-    n = 1
 
-    for anchor, note in NOTES[ch]:
+    for entry in NOTES[ch]:
+        # ch8's notes carry a third field, the signature, because in that chapter the
+        # margin changes hands and five Heads plus Tull sign what they wrote. Every
+        # other chapter is a 2-tuple and stays anonymous. A signature of None inside
+        # ch8 is the anonymous hand returning, which is the reveal.
+        anchor, note = entry[0], entry[1]
+        signature = entry[2] if len(entry) > 2 else None
         c = txt.count(anchor)
         if c != 1:
             problems.append("anchor %s (%d matches): %r"
@@ -99,6 +112,10 @@ def apply_chapter(ch, txt):
         i = txt.find(anchor)
         j = txt.find("\n\n", i)
         j = len(txt) if j == -1 else j
+        if signature:
+            # Not italic and no dash. The name is apparatus rather than anybody's
+            # voice, which is the rule the treatise signatures already follow.
+            note = note.rstrip() + "\n\n" + signature
         txt = txt[:j] + "\n" + block(note, "MARGINALIA") + txt[j:]
         n += 1
 

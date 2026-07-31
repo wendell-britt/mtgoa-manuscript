@@ -26,6 +26,17 @@ meetings, email, offices, therapy. Before the Earth-travel ruling those were
 suspect. They are not any more, and the count of them is reported so the size of
 what is being left alone is visible rather than assumed.
 
+Line labels: `L` is a file line in Sections 1-3. `HB` is a line inside that school's
+handbook, which lives in `marginalia/insertions.py` and has no stable file line until the
+frame is applied.
+
+**The total moved 28 to 42 on 2026-07-30** when the six handbooks came under the sweep for
+the first time. Nothing was added to the treatises; 2,027 words that had never been measured
+started being measured. Twelve of the fourteen are AUTHOR hits on Heads narrating their own
+lives in clause 6, which is what clause 6 is for and what this tier over-reports by design.
+The two BOOK hits are both *what follows* pointing at the rest of the handbook rather than at
+the rest of the book, which a bounded document is entitled to do.
+
 Run through on_body.py so the marginalia frame is stripped and restored:
 
     python3 instruments/on_body.py 'python3 instruments/seam_sweep.py'
@@ -35,6 +46,14 @@ import io, os, re, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 MS = os.path.join(HERE, os.pardir, "manuscript")
+sys.path.insert(0, os.path.join(HERE, os.pardir, "marginalia"))
+# The handbooks are Head prose too, and they sit ABOVE Section 1, so the Section 1 to
+# Section 4 bracket below never sees them -- SPEC_SCHOOL_HANDBOOKS §11 called this out
+# before they were written. Reading them from `insertions` rather than from the page makes
+# the sweep independent of whether the marginalia frame is currently applied, which matters
+# because this runs both ways: directly, and under `on_body.py` on stripped text.
+from insertions import HANDBOOK
+
 CHAPTERS = [3, 4, 5, 6, 7, 8]
 HEAD = {3: "Maera Voss", 4: "Corin Ash", 5: "Sera Quill",
         6: "Irix Vale", 7: "Elian Cross", 8: "Thalen Orr"}
@@ -118,31 +137,40 @@ def main():
     for n in CHAPTERS:
         path = os.path.join(MS, "ch%d.md" % n)
         lines, offset = sections_1_to_3(io.open(path, encoding="utf-8").read())
-        hits, earth = [], 0
-        for k, line in enumerate(lines):
-            s = line.strip()
-            # Headings, rules, tables and the exercise prompts are apparatus, not
-            # the Head's prose. A heading is the book's furniture in every book.
-            if not s or s.startswith(("#", "|", "---", ">", "<!--", "*[")):
-                continue
-            for sent in SENT.split(s):
-                sent = sent.strip()
-                if len(sent.split()) < 3:
+        # Two regions of Head prose, swept identically. The handbook is labelled HB
+        # because it has no stable file line: it lives in insertions.py and lands on the
+        # page only once the frame is applied.
+        regions = [("HB", HANDBOOK[n].split("\n"), 1)] if n in HANDBOOK else []
+        regions.append(("L", lines, offset))
+
+        hits, earth, scanned = [], 0, 0
+        for label, region, base in regions:
+            scanned += len(region)
+            for k, line in enumerate(region):
+                s = line.strip()
+                # Headings, rules, tables and the exercise prompts are apparatus, not
+                # the Head's prose. A heading is the book's furniture in every book.
+                if not s or s.startswith(("#", "|", "---", ">", "<!--", "*[")):
                     continue
-                if EARTH.search(sent):
-                    earth += 1
-                for tier, pat in (T1, T2, T3):
-                    m = pat.search(sent)
-                    if m:
-                        hits.append((offset + k, tier, m.group(0), sent))
-                        totals[tier] += 1
-                        break
-        per_ch[n] = (hits, earth, len(lines))
+                for sent in SENT.split(s):
+                    sent = sent.strip()
+                    if len(sent.split()) < 3:
+                        continue
+                    if EARTH.search(sent):
+                        earth += 1
+                    for tier, pat in (T1, T2, T3):
+                        m = pat.search(sent)
+                        if m:
+                            hits.append(("%s%d" % (label, base + k),
+                                         tier, m.group(0), sent))
+                            totals[tier] += 1
+                            break
+        per_ch[n] = (hits, earth, scanned)
         if not quiet and hits:
             print("\n%s ch%d  ·  %s  %s" % ("=" * 4, n, HEAD[n], "=" * 40))
             for ln, tier, tok, sent in hits:
                 body = sent if len(sent) <= 175 else sent[:172] + "..."
-                print("  %-6s L%-5d [%s]  %s" % (tier, ln, tok, body))
+                print("  %-6s %-6s [%s]  %s" % (tier, ln, tok, body))
 
     print("\n" + "=" * 78)
     print("%-6s %-14s %6s %6s %6s %7s   %s" %

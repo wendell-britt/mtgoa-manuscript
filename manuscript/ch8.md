@@ -14,6 +14,41 @@
 > — unsigned, left at the Horizon door
 <!-- /EPIGRAPH-BYLINE -->
 
+<!-- HANDBOOK -->
+> **THE SCHOOL OF THE HORIZON**
+> *Admissions. Filed as required, and late.*
+>
+> **1. Who we are for.** Maera would say we take the person who has stopped registering their
+> own signal, and Corin would say we take the person who cannot spend a line, and both are
+> describing the same applicant from inside their own school, which is the difficulty with
+> this document and with us. We take the one who has sat with something that would not resolve
+> and did not try to close it, and who has also been sat with, once, by somebody who fixed
+> nothing, and can still describe the afternoon.
+>
+> **2. What you will be able to do when you leave.** We teach the telling of which school a
+> moment belongs to, and the handing of it over, which is most of what we do and reads to
+> visitors as doing nothing. The consequence is that the people we send arrive at the right
+> school on the first attempt rather than the third, and Irix will tell you what the first two
+> cost.
+>
+> **3. What it costs.** Range, which sounds like a gift when we say it. We stop being simply
+> at home in any one school, including the one we came from, and I have watched that land as
+> loss in students who expected it to land as freedom. Those who came to be above the other
+> five have suffered as a result, and left, and one has come back.
+>
+> **4. What we do not teach.** Any of it. We do not teach the reading, the line, the keeping,
+> the design, or the terms. We teach which of the five a moment is asking for, and then we
+> send, and the sending is the entire curriculum. All five take our referrals and Sera is dry
+> about ours in particular.
+>
+> **5. Entry.** Standing at all five. There is no way to shorten this and we are asked every
+> year.
+>
+> **6. A word from the Head.** I have read all five schools for thirty years and nobody has
+> read me, which I arranged, and which I am now told is a course I never took. I am the oldest
+> first-year here. That is a joke and it is also the timetable.
+<!-- /HANDBOOK -->
+
 ---
 
 
@@ -26,6 +61,8 @@
 > any longer.*
 >
 > *He reads a company better than I do. He has never said so. I am saying it.*
+>
+> Maera Voss, School of the Body
 <!-- /MARGINALIA -->
 
 
@@ -107,6 +144,8 @@ Keep the terms apart so they don't blur together. Shadow is the move that stays 
 > busy.*
 >
 > *So the six of us wrote it down. It is finished. He does not know.*
+>
+> Sera Quill, School of the Oath
 <!-- /MARGINALIA -->
 
 
@@ -165,6 +204,8 @@ Without that question, help becomes interference. Diagnosis becomes lecturing. P
 > *He has never stated one for himself. So we have written one for him. It is short and it has a
 > date on it, and he will find it unreasonable, and he will comply — because he taught us that a
 > term stated plainly is not a negotiation.*
+>
+> Elian Cross, School of the Bridge
 <!-- /MARGINALIA -->
 
 
@@ -185,8 +226,6 @@ None of this describes the guru on the mountain who has risen above it all. Deta
 The Sage arrives when you've been all the other Faces long enough to see them from the outside. You've felt with the Shaman. You've drawn lines with the Challenger. You've carried forward with the Regent. You've built with the Architect. You've held the field with the Diplomat. At each step, you also watched: *which game am I in, and which one does this moment actually require?*
 
 That's the Sage. Not a new game above the others. A meta-view of all of them — the capacity to see the whole system and choose where to stand inside it.
-
-Big Mind gives this chapter its vocabulary for the inner voices. Shamanic training gives it the body-first reading and the return to felt sense. The Faces framework gives it the developmental arc, so the language doesn't collapse into one personality theory wearing five hats. You don't have to convert to any of them to use the work. You just have to keep the maps from folding into each other.
 
 This is the Vulnerable Child's gift, held all the way up. The child who wanted to be in the game and see the game. Who wanted to belong and see. Who refused to choose between presence and perspective.
 
@@ -210,9 +249,9 @@ The Sage's journey runs inward and then back. Corin would call going inward a re
 
 The Sage holds all five at once. Not to judge. To understand. Not to hold above — to hold with. That marks the whole difference between the Sage and the Sage in distortion. The Sage sees so they can serve. The distortion sees so it can be right.
 
-Wilber makes the structural point: you don't abandon the lower altitudes when you arrive at a higher one. You carry them. The Teal view doesn't mean you've stopped being Red. It means you know when you're Red, you can choose to stay there deliberately, and you can come back. The Sage doesn't leave the Faces behind. The Sage holds them all and knows which one the moment asks for.
+The structural point is that you don't abandon the lower altitudes when you arrive at a higher one. You carry them. The Teal view doesn't mean you've stopped being Red. It means you know when you're Red, you can choose to stay there deliberately, and you can come back. The Sage doesn't leave the Faces behind. The Sage holds them all and knows which one the moment asks for.
 
-Laloux names something he calls evolutionary purpose: once you can see the whole board, you start to feel the pull of something larger than your own survival. It outruns your team's goals and your organization's mission, and it carries its own direction, as though the work pulled you forward rather than you pushing it. The Sage hears that pull and asks: *which game is this? Is this my game's pull, or something else's?* Sometimes the pull is real. Sometimes it's a beautiful story you've told yourself about why the work matters. The Sage can tell the difference, and the telling takes skill rather than temperament.
+Something arrives once you can see the whole board, and the name for it is evolutionary purpose: the pull of something larger than your own survival. It outruns your team's goals and your organization's mission, and it carries its own direction, as though the work pulled you forward rather than you pushing it. The Sage hears that pull and asks: *which game is this? Is this my game's pull, or something else's?* Sometimes the pull is real. Sometimes it's a beautiful story you've told yourself about why the work matters. The Sage can tell the difference, and the telling takes skill rather than temperament.
 
 ### Polarity Encounter — Which Game ↔ Which Altitude
 
@@ -252,6 +291,8 @@ So before you trust the view, check the one thing that gives it away. Are you in
 
 ## Section 4: The Practice
 ### *The Five Modes of Sight*
+
+Three of the maps in this chapter are not mine, and you should know whose they are before you use them. The inner voices, and the practice of speaking as each one rather than about it, come from Genpo Roshi's Big Mind Process. The rule that you carry the lower altitudes instead of leaving them behind is Ken Wilber's, and it is the structural logic of the whole book. *Evolutionary purpose* is Frederic Laloux's, and in his hands it describes something that happens to an organization rather than to a person, so I have borrowed it down a level and the borrowing is mine to answer for. Shamanic training gives the chapter its body-first reading and its return to felt sense. The Faces framework gives it the developmental arc, so the language doesn't collapse into one personality theory wearing five hats. You don't have to convert to any of them to use the work. You have to keep the maps from folding into each other. Appendix G says where to read each one.
 
 The Sage sees in five modes. Each one is a tool. Each one, run wrong, becomes a shadow.
 
@@ -452,6 +493,8 @@ The practice has four moves. Run them in order the first several times. After th
 >
 > *We have all been drawing the same diagram. None of us put him on it either. That is not an
 > oversight anyone can lay at his door.*
+>
+> Irix Vale, School of the Pattern
 <!-- /MARGINALIA -->
 
 
@@ -494,6 +537,8 @@ It shows up in a single beat. Someone asks you for help with something real. Som
 >
 > *You have read eight chapters of his handwriting. You know the sound he makes when he says he is
 > fine. We are counting on you having noticed.*
+>
+> Corin Ash, School of the Line
 <!-- /MARGINALIA -->
 
 
@@ -527,6 +572,8 @@ You know what your Damaged Self is for now. That is what you take out.
 > where he will walk into it. He thinks the galley is badly organised.*
 >
 > *He is a good man and this ship is lucky. That is all I have to say about it.*
+>
+> Bram Tull
 <!-- /MARGINALIA -->
 
 
@@ -668,6 +715,24 @@ That's the whole Sage in a single move: the seeing, said out loud, and the not-l
 
 ## Section 7: Recap and Transition
 ### *What the Sage Teaches — and Why the Player Comes Next*
+
+<!-- MARGINALIA -->
+> *Five of them and Bram, all in my margin, and not one of them asked. I find I do not mind, which
+> is new.*
+>
+> *The Horizon is a place. It was a place before it was a school, and the school carries the name
+> because I brought it with me. I stopped saying it the old way about twenty years ago, when a
+> student asked me where I was from and I gave her the school instead of the answer. It was easier.
+> I have given the school every time since.*
+>
+> *Home. I have gone this far without the word and I would have gone the rest of the way.*
+>
+> *I am fine. I want that in my own hand, since six people have now put the opposite in writing and
+> been courteous about it. I am fine, and I am still paying for this, and both are true on the same
+> day. That is the one thing I have that none of them can teach you, and it took all six of them
+> writing in here to get me to set it down.*
+<!-- /MARGINALIA -->
+
 
 The Sage's gift is not wisdom. Wisdom is a side effect. The gift is perspective with commitment — the capacity to see all the games, know which one you're in, and still choose to be there fully.
 

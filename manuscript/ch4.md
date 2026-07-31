@@ -14,6 +14,38 @@
 > — a clerk of Oreve
 <!-- /EPIGRAPH-BYLINE -->
 
+<!-- HANDBOOK -->
+> **THE SCHOOL OF THE LINE**
+> *Admissions. Filed as required.*
+>
+> **1. Who we are for.** You have said no and had it not take. You said it in a meeting,
+> pleasantly, and the thing went ahead; you said it again six weeks later and were told you
+> had raised that already. You have also watched it happen to somebody with less standing than
+> you, and done nothing, and known at the time you were doing nothing. Both. Applicants with
+> one are declined.
+>
+> **2. What you will be able to do when you leave.** State a limit in one sentence and not
+> take it back in the four seconds afterward. The specific thing stops. Then the second thing,
+> which students underestimate for about a year: the people watching learn that limits can be
+> stated here, and some of them start stating their own.
+>
+> **3. What it costs.** You will be unwelcome in small ways, more often than you have budgeted
+> for, and somebody whose opinion you value will call you difficult where you can hear it.
+> Students who wait until they feel ready have suffered as a result!
+>
+> **4. What we do not teach.** Repair. You will object that a limit without repair is cruelty.
+> It is not, it is incomplete, and incomplete is a different problem with a different address.
+> Send it to the School of the Bridge. Failing to send it is the error here, not sending it.
+>
+> **5. Entry.** You must be able to say what you felt in the last moment you said nothing. Not
+> what you thought. What you felt, and where. If you cannot, the School of the Body takes
+> first-years every season and we will still be here.
+>
+> **6. A word from the Head.** The lines land now. What I am working is the four seconds after
+> a line drawn on somebody else's behalf, when they go on living in the place where I said it
+> and I do not.
+<!-- /HANDBOOK -->
+
 <!-- MARGINALIA -->
 > *Corin held a verdict open once. One time that I know of, against every instinct they have, for
 > the four days it took the evidence to arrive. It changed the outcome and they have never
@@ -184,7 +216,7 @@ The draw is situational. Not solo, not relational — pick a specific moment whe
    Mark where you actually stood in that moment.
    Not where you'd defend standing.
 
-3. Write one integrated sentence — both poles in the same statement:
+3. Write one integrated sentence that holds both poles at once:
    *"I held back __________ because __________ was real,
    and the line I did not draw was __________."*
 
@@ -597,7 +629,7 @@ The naming does the work. Most situations have a specific thing, a violation or 
 
 In practice: Next time you're in a meeting and something happens that you can feel everyone noticing and nobody stating, that is your cue. State it. Plainly. *"That comment about X wasn't accurate. I want to note that before we move on."*
 
-**Example:** A senior colleague says a contractor "isn't going to be here long enough to matter," and the contractor is on the call. Nobody picks it up, and the agenda moves on. What you say, forty seconds later, is *we skipped past something. Priya is on this call and that was about her.* You stop there. The cost of not saying it lands on her rather than on you. She works the next three weeks knowing the others heard it and let it stand. You don't know whether she wanted it named, and that is a real risk you are taking on her behalf. The alternative was six people agreeing by saying nothing, and she would have had to read that too.
+**Example:** A senior colleague says a contractor is not going to be here long enough to matter. Priya is on the call. Nobody picks it up and the agenda moves. Forty seconds later you say *we skipped past something, and it was about Priya, who is on this call.* Stop there. You know what her next three weeks look like, because you have been the contractor. Your silence would have cost her, not you. She did not ask you to name it, and that risk is yours.
 
 **The test:** The thing is now named, stated plainly, in the moment, with no solution attached. What the group does with it next is the group's. The naming is the whole move.
 
@@ -613,7 +645,7 @@ In practice: Next time you're in a meeting and something happens that you can fe
 
 In practice: when the charge lands, start a clock instead of a sentence. Thirty seconds, and you may think about anything except what you are going to say. Where it sits in your body. How big it is. What it is pointing at. If the size drops while you are watching it, you did the talking down, and the reading you now have is a reading of the smaller thing.
 
-**Example:** Your manager reassigns the project you built to somebody hired last month, and says so in a channel with forty people in it. The charge is at an eight. Two sentences arrive in the first three seconds and both are aimed at the new hire, who has done nothing. Thirty seconds of saying neither one, and the size holds, and what it points at moves. A manager gets to reassign a project. What you are carrying is the forty people, and that you learned it the same way they did. That one is drawable. *I need to hear this kind of thing before the channel does.* Spending the eight in those first three seconds costs you the new hire for a year and leaves the line undrawn, because the sentence you would have said was about the wrong person.
+**Example:** Tomas asks for a start date in writing and the reply says it will be sorted. His visa runs on that date. The charge in you is at an eight and two sentences arrive in the first three seconds, both aimed at the coordinator, who did not build this. Say neither for thirty seconds. The size holds and what it points at moves. A coordinator gets to be slow. What you are actually carrying is that nobody in the thread has asked what the date is for. That one is drawable.
 
 **The test:** Thirty seconds passed, you said nothing, and the charge is the size it was. If it shrank, that is information about what you do with fire rather than a failed attempt. If you spent it, you will know, because the sentence was about a person instead of about a line.
 
@@ -629,7 +661,7 @@ In practice: when the charge lands, start a clock instead of a sentence. Thirty 
 
 In practice: before the conversation, finish one of two sentences out loud. *A line was crossed and I want it to stop.* Or: *something was lost and I want you to know what it cost.* Say the truer one when you get there, whichever it is. The second sentence costs more to say, and it is the only one that can be answered.
 
-**Example:** A colleague cut off a junior teammate twice in one review and you let both go. Walking to the conversation, the sentence that wants out is *you talk over people and it's arrogant.* Fire: a line was crossed, stop crossing it. Checked against the other sentence it does not hold up, because the true one runs: *Dara has not volunteered an idea since that meeting, I think you cost us her, and I mind.* Water. Say the second one and name the cost in the currency the team runs on, which is one person's ideas out of a pipeline that has six people in it. Your colleague does not defend, because a defence answers an accusation and Water made a report. Delivered as Fire, the same twenty minutes end with your colleague explaining the review process and Dara still saying nothing.
+**Example:** Dara's leave starts in March and your colleague has staffed every March project around her without asking her. The sentence that wants out is *you have written her off and it is insulting.* Fire. The truer one runs: *Dara found out she was off the spring work from a calendar invite, and I think we have told her what we think she is worth for the next year.* Water. Say the second. Your colleague does not defend, because a defence answers an accusation and Water made a report.
 
 **The test:** You named the channel before you spoke, and the sentence you actually said matched the one you named. The content did not get softer once the channel was named, which is how you know you used the naming to aim and not as an exit.
 
@@ -645,7 +677,7 @@ In practice: before the conversation, finish one of two sentences out loud. *A l
 
 In practice: list five moments from the last month where a line was available. Four words each, no explanation. Then read the five together and say what they are all about.
 
-**Example:** *Manager rewrote my summary. Colleague took the client call. Teammate presented my slide. Nobody credited the doc. My name came off the deck.* Separately, five ordinary irritations, four of which you let go. Together, they have one subject: attribution, the record of who did the thing. Knowing that changes the next month twice over. It tells you which fights are yours, and it tells you the four you swallowed were all the same fight.
+**Example:** *Manager rewrote my summary. Colleague took the client call. Teammate presented my slide. Nobody credited the doc. My name came off the deck.* Five ordinary irritations, four of which you let go. Together they have one subject, which is attribution, the record of who did the thing. Knowing that changes the next month twice. It tells you which fights are yours, and it tells you the four you swallowed were all the same fight.
 
 **The test:** You can name the subject in one noun, and it surprises you a little. A subject you already knew is the story you tell about yourself rather than the pattern underneath it. If five moments give you five subjects, collect more moments instead of reaching for a tidier answer.
 
@@ -667,7 +699,7 @@ In practice: list five moments from the last month where a line was available. F
 
 In practice: When you feel yourself reaching for a qualifier, stop. Take the qualifier out. State the line. Hold it for one second longer than is comfortable. That's usually all it takes.
 
-**Example:** A hiring panel is closing out a no on a candidate because she would not be a culture fit, and nobody has said what that means. The line: *I'm not able to support a no on culture fit unless somebody names the behavior. Name it and I'll vote with you.* One sentence of line and one of offer, in front of five people who will remember which side you took. It costs you the next twenty minutes, which turn uncomfortable when they were going to be efficient. The candidate gets a decision made on something a person can be wrong about out loud. The sentence does not argue that she should be hired. Drawing a line for somebody else means insisting on the standard rather than delivering the outcome, and confusing the two is how advocacy becomes speaking for a person who never asked you to.
+**Example:** A hiring panel is closing out a no because the candidate asked about remote days in the first interview and somebody called it high maintenance. Draw the line: *I am not able to support a no on that unless somebody names the behaviour. Name it and I will vote with you.* One sentence of line and one of offer, in front of five people who will remember. It costs you twenty minutes that were going to be efficient. The line insists on the standard and does not deliver the outcome, and confusing those is how advocacy becomes speaking for somebody who never asked.
 
 **The test:** The line left your mouth without an essay, a justification, or an apology attached. Count the words afterward: more than you needed means you were explaining, whatever they did in response.
 

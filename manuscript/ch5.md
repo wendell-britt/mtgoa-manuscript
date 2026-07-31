@@ -14,6 +14,42 @@
 > — Halvane, the year after
 <!-- /EPIGRAPH-BYLINE -->
 
+<!-- HANDBOOK -->
+> **THE SCHOOL OF THE OATH**
+> *Admissions. Filed as required, under clause one.*
+>
+> **Clause one.** Each school shall produce an account of itself for those considering entry.
+> The clause as written requires an account. The clause as kept, since Merrow, has produced a
+> recruitment notice. What follows is an account.
+>
+> **Clause two, admission.** Two conditions, both required. First, that the applicant has
+> found a practice they belong to altered in the part concerning them, without notice, and
+> learned of it afterward and from a third party. Second, that the applicant has kept a thing
+> they knew to be costing someone. The first condition without the second produces a candidate
+> who breaks well and cannot hold. Several were admitted regardless and it is recorded.
+>
+> **Clause three, the capability conferred.** To pass a practice on intact and named. Named is
+> the difficult half and the entire point: a practice handed over without its record passes to
+> someone who must now guess what it was for, and the guessing is where alterations begin.
+>
+> **Clause four, the cost.** Time, at a scale candidates do not anticipate. Nothing here
+> resolves inside a season. Those requiring resolution inside a season have suffered as a
+> result, and two are named in the ledger with their consent.
+>
+> **Clause five, what is not taught.** Repair of the machine that produced the alteration.
+> This school holds and hands on. It does not redesign, and a school that redesigns while
+> claiming to preserve is the failure this one exists downstream of. Such cases go to the
+> School of the Pattern.
+>
+> **Clause six, entry.** Prior standing at the School of the Line is required. One must be
+> able to refuse a thing before one can be trusted to keep it.
+>
+> **A note from the Head, appended outside the clauses.** I can pass an inheritance intact and
+> named, which is the whole of what is claimed above. I have not learned to hand one to
+> somebody who will change it without entering the change as damage. My own ledgers are the
+> reason that is hard.
+<!-- /HANDBOOK -->
+
 <!-- MARGINALIA -->
 > *Sera hands new students something inherited — a role, a ledger, a duty nobody wants — and
 > watches whether they keep the purpose or only the shape of it. Most keep the shape. She does not
@@ -69,21 +105,41 @@ The village never meant for that to happen.
 
 ---
 
-I came up in traditions. Martial arts, church, academia — all of them Regent organizations, all of them built on the assumption that the person before you learned something worth receiving. You showed up, and the tradition showed up with you, and over time it became part of what you could offer.
+**Clause four.** A practice that cannot be named to a stranger in one sitting has already been
+lost, whatever its members believe about it.
 
-I've spent most of my adult life in movements where that reads as a threat.
+Note. The register of this school holds two hundred and thirty-one discontinued practices,
+gathered across as many worlds as the ship has touched. Merrow ordered them by cause of death.
+The ordering is his and the finding is mine: one hundred and seventy-two of the two hundred and
+thirty-one were dissolved by their own members, on purpose, and not one of the one hundred and
+seventy-two recorded the dissolution as a loss at the time.
 
-I belonged to a collective for a few years. Progressive, justice-focused, the right values on paper, and absolutely no governance. They had decided structure was suspect. Roles meant hierarchy meant oppression. *We'll figure it out as we go* was a principle, not a gap.
+**Clause five.** A body that declines to hold a role will be held by whoever is willing to hold
+it, and that person will not have been selected.
 
-I could feel it coming. The way you can feel a building that's going to fail. The people inside are fine. No floor holds them up. I said things. Careful things, the kind you say to a group allergic to structure. I tried to name what I was watching without naming it in the way they feared: the authoritarian, the traditionalist, the one who wants to run things. So I held back some of what I knew. I wore the crown under my hood.
+Note. The founding generation of such a body has commonly come out of an older order that used
+its structure to protect itself, and has drawn the correct conclusion about that order and the
+wrong conclusion about structure. Roles are refused on principle. The refusal is entered in the
+minutes as a value. Nothing is entered after it, which is the observation.
 
-The ones who wanted the crown were looking for a patriarch to give themselves to, and a patriarch does its own kind of damage.
+Second note. Three crises are typical and their shapes are stable enough to record. At the
+first the body adapts, and the adaptation is cited afterward as proof that no structure was
+needed. At the second it closes ranks. At the third its members are found arguing the first
+crisis again from new positions, with no record of what the first argument had been for,
+because nobody was charged with keeping one.
 
-The first crisis, they adapted. The second, they circled. By the third, they were arguing about the same things from different angles with no memory of what the original argument had been for.
+Third note. Members who could name the pattern in advance are present in most cases. The
+register carries their accounts. They report having said something careful, and having said
+less than they knew, on the ground that the whole of it would have been heard as an
+application for the crown. Merrow filed these accounts under *insufficient courage.* They are
+refiled under *correct reading, withheld,* and the refiling is the more accurate of the two.
 
-I stayed. I helped pick up the pieces. Martial arts and the church and watching things dissolve for twenty years actually prepare you for that. You hold what's worth holding. You help people sort out what happened.
+**Clause six.** An inheritance offered before it is wanted is not an inheritance. It is an
+opinion.
 
-I've never figured out how to offer the floor before the crisis. The tradition only becomes legible to people who've already lost something. By then, the invitation to receive it has a very different shape than I wanted it to have.
+Note. This is the clause I would amend, and amendment is not within the office. The register
+records no case of a practice handed successfully to a body that had not yet lost something.
+It records no case of a keeper who stopped attempting it either.
 
 ---
 
@@ -219,7 +275,7 @@ The draw is solo. Not a conflict between you and another person. Your inheritanc
 
 **Try this now.**
 
-1. Name one inheritance you carry in allyship work — a practice, norm, or loyalty
+1. Name one inheritance you carry in allyship work: a practice, norm, or loyalty
    you didn't invent but keep performing. (One sentence.)
 
 2. Draw the axis:
@@ -228,7 +284,7 @@ The draw is solo. Not a conflict between you and another person. Your inheritanc
 
    Mark where you are today.
 
-3. Write one integrated sentence — both poles in the same statement:
+3. Write one integrated sentence that holds both poles at once:
    *"I stay with __________ because it still __________,
    and I need __________ to change before I can keep showing up honestly."*
 
@@ -248,6 +304,22 @@ The draw is solo. Not a conflict between you and another person. Your inheritanc
 
 ## Section 4: The Practice
 ### *The Cycle of Inheritance — How Loyalty Actually Works*
+
+I came up in traditions. Martial arts, church, academia — all of them Regent organizations, all of them built on the assumption that the person before you learned something worth receiving. You showed up, and the tradition showed up with you, and over time it became part of what you could offer.
+
+I've spent most of my adult life in movements where that reads as a threat.
+
+I belonged to a collective for a few years. Progressive, justice-focused, the right values on paper, and absolutely no governance. They had decided structure was suspect. Roles meant hierarchy meant oppression. *We'll figure it out as we go* was a principle, not a gap.
+
+I could feel it coming. The way you can feel a building that's going to fail. The people inside are fine. No floor holds them up. I said things. Careful things, the kind you say to a group allergic to structure. I tried to name what I was watching without naming it in the way they feared: the authoritarian, the traditionalist, the one who wants to run things. So I held back some of what I knew. I wore the crown under my hood.
+
+The ones who wanted the crown were looking for a patriarch to give themselves to, and a patriarch does its own kind of damage.
+
+The first crisis, they adapted. The second, they circled. By the third, they were arguing about the same things from different angles with no memory of what the original argument had been for.
+
+I stayed. I helped pick up the pieces. Martial arts and the church and watching things dissolve for twenty years actually prepare you for that. You hold what's worth holding. You help people sort out what happened.
+
+I've never figured out how to offer the floor before the crisis. The tradition only becomes legible to people who've already lost something. By then, the invitation to receive it has a very different shape than I wanted it to have.
 
 The village never taught you this question: what did you inherit?
 
@@ -492,6 +564,8 @@ The Regent's game is inheritance and stewardship. The Regent asks, in any situat
 
 In practice: When you take on a new role, a new team, a new responsibility — before you make a single change, spend time understanding what was handed to you. Ask: *why is this here? Who built this? What was it trying to do?* You may find the answer changes your entire approach.
 
+**Example:** You take over the team calendar and find a standing Friday-afternoon review that Yusuf has never once been able to make. Nobody built it against him and nobody has moved it in four years. Before you move it, find out what the Friday was for. A manager set it so the week would end on a decision, and it still does that. Say both out loud: *this exists for a reason, and it has been costing one person for four years.* Naming both is the whole move. Moving it is Move 3.
+
 **The test:** You named what arrived before you changed any of it. Finding something worth keeping is a bonus, not the bar. If the first change is already made, you skipped the move.
 
 ### Move 2: Honor What Still Serves
@@ -499,6 +573,8 @@ In practice: When you take on a new role, a new team, a new responsibility — b
 **What it is:** Not everything needs to change. Some of what you inherited is load-bearing. The Regent's second move is discrimination — naming what would collapse if you removed it, even if you wish it weren't there.
 
 In practice: Make a list of three things in your current inheritance that you would fight to protect. Not because they're perfect — because removing them would break something real. The Regent protects what serves even while the Regent reforms everything else.
+
+**Example:** New leadership wants to retire the quarterly all-hands because attendance is down. Make the list of what breaks. One item on that list is Ruth, nineteen years in, the only person who can say why the escalation policy exists at all. The all-hands is where she says it. Name the breakage: *if we drop this we lose the one place the history gets told, and the person who tells it retires in three years.* You may still lose the argument. Losing it with the breakage named is a different loss.
 
 **The test:** You can say what would break if it were removed. Agreement from anyone else is a separate question. A thing you cannot name a breakage for is a preference wearing inheritance.
 
@@ -508,6 +584,8 @@ In practice: Make a list of three things in your current inheritance that you wo
 
 In practice: When you see something that needs to change, ask two questions: (1) What is this trying to do? (2) Is it still doing it? If the answer to (2) is no, change the form but keep the essence. Tell people what you're doing and why: *I'm not discarding this. I'm updating it.*
 
+**Example:** The intake form has a legal name field and a preferred name field, and Ana has corrected the same record for two years because the sync overwrites her preferred name every night. Ask the two questions. The form is trying to match people to legal records, and it still does that. The sync is not doing anything anyone designed it to do. Fix the sync, keep the field, and tell people which of the two you changed and why.
+
 **The test:** You named what the tradition was trying to do before you changed how it does it, and you told people which of the two you were changing. Results arrive on their own schedule.
 
 ### Move 4: Keep the Vows
@@ -516,6 +594,8 @@ In practice: When you see something that needs to change, ask two questions: (1)
 
 In practice: Identify one commitment you've made that nobody watches you keep. Do it anyway. That's the Keeper of Vows in action. That's what makes you someone worth inheriting from.
 
+**Example:** Two years ago you told a team you would read every incident report yourself, and nobody has checked since. This month brings eleven, and nine are routine. Read the nine. Nobody will know either way, which is the point. The vow is not the reading. The vow is that a thing you said was true stays true on the day it costs you an hour and buys you nothing.
+
 **The test:** You kept it on the day it would have cost you nothing to drop it and nobody would have known either way. Being noticed is a separate question, and usually the answer is no.
 
 ### Move 5: Entrust Without Clinging
@@ -523,6 +603,8 @@ In practice: Identify one commitment you've made that nobody watches you keep. D
 **What it is:** The hardest Regent move. You prepare the next person not as a replica of you, but as someone with enough context to make their own good decisions. You let go without abandoning.
 
 In practice: When you're transitioning out of something, ask: *am I giving the next person enough to run with, or am I giving them my anxiety about how it should look?* Let go of the outcome. Trust the inheritance.
+
+**Example:** You are handing the community fund to Marcus, who has run nothing this size and did not come up through the board. Your instinct is to give him the spreadsheet, the calendar, and forty minutes on what went wrong in 2019. Give him the 2019 story and the reason the rule exists. Leave out the part where you tell him what you would do. He will spend the fund on something you would not have chosen, and the choosing is the thing you handed him.
 
 **The test:** What you handed over was context rather than anxiety. Context lets them decide; anxiety tells them what you need the outcome to look like. Their version will differ from yours. Let it.
 

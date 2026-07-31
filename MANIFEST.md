@@ -90,6 +90,7 @@ New on 2026-07-30. Zero placeholders.
 | `front_matter/title_page.md` | done |
 | `front_matter/copyright.md` | done — carries every source permission the book owes |
 | Table of contents | generated — `build_book.py --toc` |
+| `front_matter/headmasters_letter.md` | done — 2026-07-31. Stands between ch2 and ch3, not at the front. Stored here because this directory holds standalone documents with no marginalia frame, and because `gate.py`'s matter surface already sweeps it; the spine in `build_book.py` is what places a page |
 | `back_matter/about_the_author.md` | done |
 
 Self-published, self-designed, and **no ISBN assigned**, so the ISBN lines are

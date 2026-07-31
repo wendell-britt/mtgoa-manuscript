@@ -298,7 +298,7 @@ Seven daemons live in the Forest, and the player at its center is you. You're no
 ### The Seven
 
 <!-- MARGINALIA -->
-> *You will not meet all seven. Most students finish with two, perhaps three, and go home entirely
+> *You will not meet all seven. Most students finish with two, perhaps three, and leave entirely
 > competent. The full set arrives only if you take all six schools, which almost nobody does, and
 > which is not a recommendation.*
 >

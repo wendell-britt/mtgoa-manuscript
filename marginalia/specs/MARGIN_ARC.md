@@ -152,8 +152,23 @@ one carries *home*. The anonymous hand appearing exactly once, beside five named
 reveal — and the word arrives in the mouth it belongs to instead of becoming hearsay in
 somebody else's.
 
-`NOTES[8]` already holds six notes, so the count is right without adding any. The existing
-*Damaged Self, Up Close* anchor is the natural site for the unsigned one.
+**CORRECTED 2026-07-31, on building it.** The count was wrong, and attributing the six is
+what showed it. Reading them against the Heads gives **six speakers, not five**: note 6 leaves
+food where he will walk into it and lets him go on believing the galley is disorganised, which
+belongs to no school and pays off in ch9's postcard, where he writes to Bram about the galley.
+So Bram Tull signs it, the five Heads sign the rest, and the unsigned note is **added rather
+than converted**. Seven notes in ch8; ch3 and ch7 already carry eight.
+
+The unsigned note opens **Section 7** rather than *Damaged Self*, because *Damaged Self* is
+unmistakably Vale's, down to the diagram and the naming of Sera and Maera. Section 7 is better
+anyway: the anonymous hand returns at the chapter's close, after six people have signed their
+names, and it looks structurally identical to theirs with the name missing.
+
+**And one live collision, fixed.** *"the word `home` — first and only use by the annotator"*
+was not true when checked. ch2's margin read *"go home entirely competent."* Idiomatic, and
+invisible on the page, but the claim in this document was false and the ch8 beat depends on
+the word arriving new. ch2 now reads *"leave entirely competent."* One word, same meaning,
+and the spec's claim is true again.
 
 **Mechanism.** `NOTES[8]` holds six unattributed notes today. Attribution is a new shape for the
 system: `insertions.py` needs a speaker per note for ch8 and `compile.py` needs to render it.

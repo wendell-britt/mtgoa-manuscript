@@ -13,6 +13,8 @@ The method at the heart of this book — emotional alchemy, the conviction that 
 - **Bessel van der Kolk — *The Body Keeps the Score*.** The now-canonical account of how experience lives in the body and how it heals. Accessible, rigorous, and the best single entry point to the whole field.
 - **Stephen Porges — Polyvagal Theory** (see also Deb Dana's *The Polyvagal Theory in Therapy* for an accessible version). The map of how safety, threat, and connection get registered below conscious thought — the architecture beneath what the chapters call old wiring.
 
+One more, and it is a debt with a disagreement attached. **Ichiro Kishimi and Fumitake Koga's *The Courage to Be Disliked*** (Atria Books, 2018) is a book-length dialogue on the psychology of Alfred Adler, and Chapter 3 quotes one line from it before departing from it: all problems are relational problems. Chapter 3 then pushes that somewhere Adler did not, to all problems are emotional problems, on the grounds that the rupture exists where something has gone unfelt. That is a change rather than a refinement and the change is mine, so the disagreement belongs on this page rather than buried in the chapter. Read them for the original, which is more careful than my one-line version of it. Read them also for the separation of tasks, which is the discipline underneath this book's one non-negotiable rule: you make your move, and what the other person does with it is their business and not your result. Adler gets there by a different road than I do, and he gets there first.
+
 ---
 
 ## The Five Channels
@@ -63,13 +65,13 @@ The daemons are a marriage of three lineages. The architecture — the named voi
 
 ## The Game
 
-The game frame isn't a metaphor I reached for — it's a claim I inherited from four thinkers. **Alan Watts** (*You're It!*, *Out of Your Mind*) is the philosophical ground: his lifelong point that the most fundamental game is hide-and-seek — consciousness forgetting itself in order to find itself — is what makes the frame serious rather than cute. **James Carse** (*Finite and Infinite Games*) sharpened it into something usable: a finite game is played to win and ends; an infinite game is played to keep the play alive. Burnout, hitting the wall, "losing" at allyship — that's the felt experience of finite-game architecture applied to work that has no finish line, which is exactly why this book proposes redesigning the game rather than trying harder inside the old one.
+The game frame isn't a metaphor I reached for — it's a claim I inherited from three thinkers. **James Carse** (*Finite and Infinite Games*) is the one Chapter 1 leans on by name, and the distinction is his: a finite game is played to win and ends; an infinite game is played to keep the play alive. Burnout, hitting the wall, "losing" at allyship — that's the felt experience of finite-game architecture applied to work that has no finish line, which is exactly why this book proposes redesigning the game rather than trying harder inside the old one.
 
 **Yu-kai Chou** (*10,000 Hours of Play*, with Mark Diaz) is the game-mechanics tradition underneath the Tokens and Tickets — his Octalysis map of the core drives of motivation, and his quest grammar, are what give the moves their stakes. One distinction of his does more work in this book than any other: Chou separates the drives that leave a person feeling powerful and creative from the drives that leave them anxious and compliant, and both sets produce action. Scarcity, loss avoidance, and social pressure will get someone moving, and they will also burn that person down over a few years. Most of what currently motivates allyship runs on exactly those drives. Redesigning the game means moving the same work onto the other set.
 
 **C. Thi Nguyen** (*Games: Agency as Art*, Oxford University Press, 2020) is the reason this book asks you to play rather than to improve. Nguyen's argument is that games are the art form of agency: a designer sculpts a way of acting, and you put it on for a while the way you put on a character. He calls the mode *striving play* — you adopt a goal for the sake of the struggle it creates, and the goal is disposable afterward even when you wanted it badly at the time. That is the whole mechanism behind the Faces. You do not have to already be the person who draws the clean line in order to practice drawing it, because the agency is on loan from the game and you can hand it back. If you have wondered why the exercises here ask you to play a role rather than to become a better person, this is the book that answers it.
 
-Read Watts for the why, Carse for the frame, Chou for the mechanics, and Nguyen for what playing does to you while you do it.
+Read Carse for the frame, Chou for the mechanics, and Nguyen for what playing does to you while you do it.
 
 ---
 

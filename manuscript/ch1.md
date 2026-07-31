@@ -132,6 +132,8 @@ Here is the second, and I will say it plainly, because it is the objection that 
 
 If making allyship a game feels like it cheapens something sacred, look at what the alternative actually costs. Most allyship is built as a chore — a duty, a debt, a weight good people carry — and it runs on the fuel we already named as the kind that empties you: obligation, guilt, the grim credit of having suffered for the cause. That model does not fail because people care too little. It fails because caring, run as suffering, burns down to nothing, and the person you showed up for is left standing there the day you finally collapse. Unless you are built to find meaning in your own depletion, a version of this work that offers you no engagement is a version you will quit.
 
+James Carse put the distinction in its cleanest form. A finite game is played to win and it ends. An infinite game is played to keep the play going, and the only way to lose is to stop playing. Allyship has no finish line, which makes it infinite by nature, and nearly everything built to support it is finite: the campaign, the pledge, the training you complete, the bar you clear and then clear again. Burnout is what it feels like to run finite equipment on an infinite road. That is why this chapter is called the Infinite Arcade, and it is why the answer is a better game rather than more willpower.
+
 Yu-kai Chou spent a decade mapping what actually keeps a human being playing — what pulls people back to some things for years and drives them out of others for good. Games are engineered around the first kind of pull. Allyship, almost always, is built out of the second. Calling a game a trick for making serious work go down easier gets it backwards. A game is the only structure that generates the energy to keep doing serious work for a lifetime instead of one burnout cycle.
 
 The third reason changes everything: a game is the only frame that will get you to look straight at the part of your allyship you least want to see — and enjoy it.
@@ -188,7 +190,7 @@ You do care too much, and it costs you. You care about everyone — you would sa
 
 Sometimes the friend, the coworker, the kid, the community you show up for needs a Challenger — one clean, costly line — and all you have is the Diplomat, so you keep the peace and they never get what they came for. Sometimes they need an Architect to change the rule that keeps hurting them, and you give them the Shaman's feel for what everyone is carrying, and the rule does not move. The reason to widen your range is the person in front of you — the one who needed a move you did not have.
 
-You already have the process that runs every one of these faces: the loop you meet in the next chapter. Each Game Master takes a chapter to teach you their game, and the loop is how you play it. By the end you reach for the face the moment needs instead of the one your hands find on their own.
+You already have the process that runs every one of these faces: the loop, which the Headmaster sets out in the letter standing at the door of the six schools. Each Game Master takes a chapter to teach you their game, and the loop is how you play it. By the end you reach for the face the moment needs instead of the one your hands find on their own.
 
 You can feel which face is your home. Hold onto it. In the next section you put it on paper.
 
