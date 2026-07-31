@@ -39,7 +39,7 @@ answer have three good months, and then they are gone, and whoever they were hel
 holding something half done. Nobody here thinks less of the smaller answer. We have too much
 evidence about where the larger one goes.
 
-There are two warnings worth having in advance. You will be wrong out loud, on a schedule, in
+Take two warnings with you. You will be wrong out loud, on a schedule, in
 front of the same faces, and none of the six has found a kinder way to teach anyone to read
 anything accurately. The second one costs students more. What the person you helped does with
 your move is theirs, and we do not record it as your result.

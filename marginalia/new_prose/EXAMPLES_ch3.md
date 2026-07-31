@@ -42,10 +42,10 @@ humility, and it is the sentence most likely to go wrong across the remaining th
 **Example:** Somebody uses the wrong pronoun for Ines in a status meeting, corrects it inside a
 second, and the agenda moves on. Your chest goes tight and the story is already assembling:
 *that is the fourth time, somebody should say something, it should probably be me.* Back up.
-What you have is heat in the chest arriving on one specific half-second, and it was not the
-correction. It was the second after, when Ines kept her face completely still. You know that
+The heat in your chest arrived on one specific half-second. The correction did not cause it.
+The second after did, when Ines kept her face completely still. You know that
 stillness from somewhere in your own life, which is why it registered with you and not with the
-six other people watching. The information is about Ines. You have it early because you have
+six other people watching. What you caught belongs to Ines. You caught it early because you have
 made that face.
 
 ### Move 2 · Open Up — Turn the Dial Up
@@ -54,8 +54,8 @@ made that face.
 instantly, fully formed: measured voice, generous face, a note to yourself to raise it later.
 Turn the dial up instead and two things arrive together. The anger, which you expected, and
 underneath it the small relief that you now hold a grievance you never had to ask for. That
-relief is the find. Having felt it once is what lets you see it on somebody else's face a year
-from now, in a meeting that has nothing to do with you.
+relief is the find. Once you have felt it, you can spot it on somebody else's face a year from
+now, in a meeting that has nothing to do with you.
 
 ### Move 3 · Clean Up — Name the Channel Out Loud
 
