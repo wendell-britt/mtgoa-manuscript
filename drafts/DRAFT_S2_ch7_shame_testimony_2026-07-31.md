@@ -6,12 +6,16 @@ Section 5 (*The Victim, Up Close*), between the paragraph ending *"structurally
 the worst in the book at receiving it"* and *"You do not fire the Victim."*
 **Spec:** `specs/SPEC_SHAME_REINJECTION_2026-07-31.md` §5, S2.
 **Register:** Part 2, Wendell's own hand. Modelled on `ch5:516` (Mr. Inadequate).
-**Length:** 216 words, inside the slot's stated ~150–200 range at the top end.
-**Revision:** v2, 2026-07-31. Wendell on v1 — *"overly verbose and not quite
-punchy enough."* Cut 35 words, broke the long clauses into short sentences, moved
-the *smart Black man* lines up against the audit sentence where they hit hardest,
-and cut the meta-frame (*"you are reading a book by a man who…"*, *"the laugh is
-the instrument"*) so the laugh does its own work rather than being announced.
+**Length:** 197 words, inside the slot's stated ~150–200.
+
+**Revision history**
+
+- **v1** — 251 words. Wendell: *"overly verbose and not quite punchy enough."*
+- **v2** — 216 words. Cut the meta-frame that announced the joke, broke long
+  clauses into short sentences, moved the *smart Black man* lines against the
+  audit sentence.
+- **v3** — 197 words, after `no-ai-slop`. Six patterns found and fixed; two rule
+  hits kept deliberately. See §Slop pass.
 
 **Every biographical fact below comes from Wendell's 3-2-1 of 2026-07-31 and is
 quoted or paraphrased from his own words.** Nothing is invented. The one thing
@@ -32,15 +36,15 @@ and what you said instead of hearing it. Not the lesson. The beat. ~150-200 word
 ## AFTER
 
 ```
-I built a course about allyship before I learned the subject. Six years of the program. Four years of this book. Three cities. Customer service rep, crypto documentarian, smoothie maker, shoe salesman, event organizer. All accurate. None of it the finding.
+I built a course about allyship before I learned the subject. Six years of the program. Four years of this book. Three cities. Customer service rep, crypto documentarian, smoothie maker, shoe salesman, event organizer. All of it accurate.
 
 The finding came the day I told a cohort to run a 3-2-1 on the dead self and every one of them stopped. I had sold hundreds of people that walk. I had never taken my own course.
 
-Here is what the ledger produced in that half-second. *Look what this cost me.* Six years. Three cities. Look at the column. The column was true. A false invoice you would catch. Mine was accurate to the dollar, and it was doing one job: keeping me from saying the sentence already sitting in my chest. *I have not done this.*
+In that half-second the ledger produced a number. *Look what this cost me.* Look at the column. The column was true. A false invoice you would catch; mine was accurate to the dollar, and it was doing one job, which was keeping me from saying the sentence I had been sitting on. *I have not done this.*
 
-The verdict was right. I was not ready. The invoice was right. I had paid. Between a true verdict and a true invoice, nobody runs the audit. I did not run mine for four years. Allyship was for other people. I was a smart Black man. I did not need to learn how to be helpful.
+The verdict was right, I was not ready. The invoice was right, I had paid. Between a true verdict and a true invoice, nobody runs the audit. I did not run mine for four years. Allyship was for other people. I was a smart Black man. I did not need to learn how to be helpful.
 
-I can still get a laugh out of *I never took my own course.* That means the part is still wild. Integrity was never getting ready first. It is running the audit where somebody can watch.
+I can still get a laugh out of *I never took my own course.* That means the part is still wild. So here is the audit, four years late, run where you can watch.
 ```
 
 ---
@@ -75,6 +79,37 @@ the book can make that the conversion is survivable.
 **Integrity gets a definition it can be held to** — *running the audit where
 somebody can watch* — in the chapter that already names integrity's counterfeit
 at `ch7:497`.
+
+## Slop pass — 2026-07-31
+
+Six fixed:
+
+| Pattern | v2 | v3 |
+|---|---|---|
+| Negative listing | *"All accurate. None of it the finding."* | *"All of it accurate."* — paragraph 2 opens on the finding, so the contrast was doing the same job twice |
+| Throat-clearing opener | *"Here is what the ledger produced in that half-second."* | *"In that half-second the ledger produced a number."* |
+| Colon reveal | *"…already sitting in my chest: I have not done this."* | Full stop instead of the colon; *"the sentence I had been sitting on."* |
+| Echo / second fragment stack | *"Six years. Three cities."* repeated verbatim in paragraph 3 | Cut. *"Look at the column"* carries it |
+| Robotic rhythm | Four identical shapes: *"The verdict was right. I was not ready. The invoice was right. I had paid."* | Two comma-joined sentences. Parallel survives, metronome does not |
+| **Fake-profound kicker** | *"Integrity was never getting ready first. It is running the audit where somebody can watch."* | *"So here is the audit, four years late, run where you can watch."* |
+
+**The kicker is the one that needs a ruling.** It was a binary contrast and an
+aphorism at once, which is the pattern's textbook shape, and it was also the
+sentence carrying the brief's stated lesson. v3 ends on the act rather than the
+definition. Integrity stays unnamed and is carried by placement: this passage
+sits four lines under `ch7:497`, where the counterfeit already has the word.
+**If the word has to appear, it goes back and the passage takes the slop hit.**
+
+Two rule hits kept on purpose:
+
+- **The paragraph-1 fragment stack** (*"Six years. Four years. Three cities."*).
+  The rule calls it dramatic fragmentation. Here the form is the content — it is
+  an invoice being read aloud, and the chapter's whole subject is a ledger.
+- **The paragraph-4 parallel** (*"The verdict was right… The invoice was
+  right…"*). The symmetry is the argument: two accurate parts, one stalemate.
+  Softened rather than removed.
+
+Em dashes: 0 in the passage. Banned-word list: 0.
 
 ## Gate
 
