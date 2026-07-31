@@ -529,7 +529,7 @@ The five modes describe who you are while you work. Review, Discern, Design, Bui
 
 In practice: write the sentence, then delete every clause that is there to make the problem sound bigger than it is. What survives is usually one group of people, one situation that keeps recurring, and one thing that keeps not happening. If you cannot say who it is for, you have named a topic rather than a problem.
 
-**Example:** *I want to help people be better allies* is a topic. *People who have done the reading and the therapy still default to their home Face the moment something lands hard, and there is nowhere to practice the difference* is a problem. The second one tells you what to build by Friday. The first one tells you to read more.
+**Example:** *I want to help people be better allies* is a topic. *People who have done the reading still default to their home Face the moment something lands hard, and there is nowhere to practise the difference* is a problem. The second tells you what to build by Friday. Then cut once more, to whose problem: *the three on my team who stopped putting anything forward after the restructure.* Now a stranger can repeat it back, and you know whose Friday you are building for.
 
 **The test:** A stranger can repeat your sentence back to you without adding anything. Picking the right problem is a separate question. If they have to ask which part you mean, the field is still wide.
 
@@ -543,7 +543,7 @@ In practice: write the sentence, then delete every clause that is there to make 
 
 In practice: one person, not an audience. The audience version becomes a launch, and you can spend a year preparing for a launch. One person can happen this week. Say what you want from them before you show it — *tell me where you got confused*, or *tell me whether you'd use it twice*. An unspecified ask gets you encouragement — the least useful thing a human being can hand you.
 
-**Example:** One facilitator builds a workshop for six months and runs it for the first time on the day it is supposed to be good. Another builds a rough version in three weeks, runs it badly for two friends on a Tuesday, finds out that the second exercise makes people defensive, and rebuilds it before anyone has paid for anything. The second one sounds smaller and is the only one holding any information.
+**Example:** One facilitator builds a workshop for six months and runs it for the first time on the day it is supposed to be good. Another builds a rough version in three weeks, runs it badly for Rosa on a Tuesday, finds out the second exercise makes people defensive, and rebuilds before anyone has paid for anything. Rosa is not a test audience. She is the first person it was for, and she got the worst version of it, which is what the showing costs her.
 
 **The test:** You showed it at the point you would rather have kept working on it alone, to one person who could answer you. Their verdict is theirs. The showing is yours.
 
@@ -557,7 +557,7 @@ In practice: one person, not an audience. The audience version becomes a launch,
 
 In practice: separate the note from the person delivering it, because your first instinct will be to disqualify the person. Ask one question before responding to any hard note: *if this were true, what would I have to change?* Answer that before you decide whether it is true. Deciding first is how you never find out.
 
-**Example:** Somebody tells you the practice you designed only works for people who already have the vocabulary. The cheap repair is a glossary. The expensive repair is admitting the entry point is wrong and rebuilding the first move so it needs no vocabulary at all. The glossary protects your design. The rebuild protects the people you built it for.
+**Example:** Femi tells you the practice only works for people who already have the vocabulary. The cheap repair is a glossary. The expensive repair is admitting the entry point is wrong and rebuilding the first move so it needs no vocabulary at all. The glossary protects your design. The rebuild protects Femi, who said it at some cost to herself and does not owe you a second telling.
 
 **The test:** You rebuilt, having first asked what would follow if the note were true instead of disqualifying the person who gave it. Whether the rebuild is better is a separate question.
 
@@ -585,7 +585,7 @@ In practice: name the variable before you run it. *This time the opening questio
 
 In practice: be specific about what they are allowed to change. *You can change anything except the part where people say it out loud* is a real handoff. *Make it your own* is a compliment. Then watch them change it and do not correct the first thing they do differently.
 
-**Example:** Someone runs your practice with a group and drops the step you thought was the heart of it. You have two moves. Put the step back, and you have a franchise. Ask what happened in the space where the step used to be, and you find out whether the step was the heart of it or whether you were.
+**Example:** Tess runs your practice with her group and drops the step you thought was the heart of it. You have two moves. Put the step back and you have a franchise. Ask what happened in the space where the step used to be, and you find out whether the step was the heart of it or whether you were. Say in advance which parts she may change. What she does inside that is hers.
 
 **The test:** You said, in advance and in specifics, what they were allowed to change. *Make it your own* is a compliment; a handoff names the boundary. What they do inside it is theirs.
 
