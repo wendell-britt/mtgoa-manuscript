@@ -11,7 +11,7 @@ experience does not have words yet**, and each teaches its own Move.
 |---|---|---|---|
 | 1 · Wake Up | Ines | gender identity | the read, before the story |
 | 2 · Open Up | **the reader** | the designated self-Example | anger, and what sits under it |
-| 3 · Clean Up | Ravi | race and color | **Metal, which is Fear.** ch3:441 |
+| 3 · Clean Up | Ravi | race and color, pattern-shaped | **Metal, which is Fear.** ch3:441 |
 | 4 · Grow Up | Priya | disability, undiagnosed | the read acted on early |
 | 5 · Show Up | Nadia | **outside the statutory list** | the thing under the stated thing |
 
@@ -23,6 +23,13 @@ demonstrated. The channel now outranks the class, recorded in the spec as a corr
 not understanding, which is Cross's test: *you caught it because you have been the person
 holding your face still* is a fact about the reader. It says nothing about what the moment was
 like for Ines.
+
+**A collision, caught on drafting ch4 and fixed here.** Move 3's first scene was a hiring
+debrief on culture fit, which is ch4's Move 5, already written and already approved. ch4 keeps
+it. Move 3 is now a retro, which suits the School of the Body better anyway: `SPEC_FACE_TARGETS`
+§2 puts the Shaman wherever harm is pattern-shaped rather than incident-shaped, and *two other
+times that happened to him and to nobody else* is that pattern where a single hiring decision
+is not.
 
 **Measured as a set**, which is the right unit: single Examples are too short to score.
 
@@ -44,12 +51,7 @@ ask for. Keep the relief. The anger was the part you already knew about.
 
 ### Move 3 · Clean Up — Name the Channel Out Loud
 
-**Example:** A hiring debrief has spent twenty minutes on whether Ravi is a culture fit and
-nobody has said what that means. Annoyance is the wrong name for it. What you feel is fear, and
-everyone at that table has some, because naming this means saying something about the team out
-loud. That is Metal. Say it: *I think we are avoiding a word. I am not sure Ravi would get this
-treatment if his last job had a different name on it.* You become the difficult one in that
-debrief and in the next one. What the panel does with it is the panel's.
+**Example:** A retro has spent twenty minutes on process. Nobody has said that Ravi flagged this in March and got told it was fine, and you can name two other times that happened to him and to nobody else. Annoyance is the wrong name for what you feel. What you feel is fear, because saying it means saying something about this team out loud. That is Metal. Say it: *I think we are avoiding a word. Ravi raised this in March, and I would like to know why that landed differently.* You become the difficult one in that retro and in the next one. What the team does with it is the team's.
 
 ### Move 4 · Grow Up — Say What You Can Do Now
 

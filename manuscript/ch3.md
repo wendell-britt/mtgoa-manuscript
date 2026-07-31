@@ -739,7 +739,7 @@ The Shaman's read is the data, not the document. Everything downstream (the chan
 
 In practice: the marker arrives in the body, because the body registers before the account exists. Heat in the chest, a drop in the stomach, the jaw. When you notice one, do not ask what it means. Ask where it is and what it is doing. Meaning keeps; it will still be there later. The raw signal will not.
 
-**Example:** Someone says something in a meeting and your chest goes tight. The story is already assembling: *they are undermining me, this is the third time, I have to decide whether to say something.* Back up. You have heat in the chest and a tight jaw, arriving on a specific sentence. That is Fire, and it points at that sentence. The third-time story is a separate conversation, and you can have it later, with better information.
+**Example:** Somebody uses the wrong pronoun for Ines in a status meeting, corrects it, and moves on. Your chest tightens. Check the timing. The tightening did not land on the correction. It landed a second later, when Ines did not change her face. Your body read her, not the slip. You caught it because you have been the person holding your face still.
 
 **The test:** You noticed where it landed in your body before you had a sentence explaining it. Accuracy is a separate question and a later one. If you can name the place and not the reason, you caught it in time.
 
@@ -751,7 +751,7 @@ In practice: the marker arrives in the body, because the body registers before t
 
 In practice: the marker is the urge to sit up straight and sound reasonable. That urge is your hand on the dial, moving it down. Leave it where it is. Count six seconds and let the situation reach you at full strength, including the part of it you would rather not have found.
 
-**Example:** Someone takes credit for your work in a meeting. The composed version arrives instantly, fully formed: measured voice, generous face, a note to yourself to raise it later. Turn the dial up instead and two things arrive together. The anger, which you expected, and underneath it the small relief that you now hold a grievance you never had to ask for.
+**Example:** A colleague presents your analysis as his own and you say nothing. You compose the polite version instantly: level voice, easy face, a note to raise it with him later. Turn the dial up instead. The anger arrives, which you expected. Underneath it sits something you did not expect, a small relief, because now you hold a grievance you never had to ask for. Keep the relief. The anger was the part you already knew about.
 
 **The test:** You can say what you were getting out of the moment, not only what it cost you. Liking some part of it is information rather than a confession. What stays hidden runs the moment, and what you can feel, you can play.
 
@@ -765,7 +765,7 @@ Named out loud, the channel stops being weather and becomes an object on the tab
 
 In practice: use the channel word, not the euphemism. *Anger* rather than *frustration.* *Fear* rather than *concern.* *Sadness* rather than *disappointment.* The euphemisms exist to keep the channel deniable, and nobody can work a deniable channel, including you.
 
-**Example:** A team stuck for three weeks, circling the same decision on logistics. Name it: *I do not think this is a logistics problem. I think we are afraid of what happens if we pick wrong, and we are solving logistics because logistics is the part we know how to solve.* Metal, said where people can hear it. The circling tends to stop inside a minute, because the thing driving it now exists as something anyone can address.
+**Example:** A retro has spent twenty minutes on process. Nobody has said that Ravi flagged this in March and got told it was fine, and you can name two other times that happened to him and to nobody else. Annoyance is the wrong name for what you feel. What you feel is fear, because saying it means saying something about this team out loud. That is Metal. Say it: *I think we are avoiding a word. Ravi raised this in March, and I would like to know why that landed differently.* You become the difficult one in that retro and in the next one. What the team does with it is the team's.
 
 **The test:** You said it out loud, in the moment, where someone could disagree with it. Agreement is theirs to give or withhold. A channel named only to yourself belongs to Section 4.
 
@@ -777,7 +777,7 @@ In practice: use the channel word, not the euphemism. *Anger* rather than *frust
 
 In practice: say it to your own nervous system, plainly, in the seconds after the read. *I get it. The message landed.* Then finish the sentence with the equipment. *I can tell when a plan is being agreed to and not believed.* *I can hold a hard look without going away.*
 
-**Example:** You clock that a colleague's enthusiasm in a planning meeting is performance. Two weeks later the plan stalls exactly where you felt it would. Being right cost you nothing and bought you nothing. The Grow move is the sentence you say in the seconds after the original read: *I can feel the difference between agreement and compliance, and I get to act on it before the evidence arrives.*
+**Example:** You noticed months ago that Priya is not disorganised, and that the week costs her something it does not cost anyone else. Neither of you has a word for it. You were right, and being right bought her nothing. Say what you can do now, to her, once: *I can tell the difference between someone struggling and a schedule that is expensive for one person. I am going to say so before I can prove it.* If you have misread it, she watches you misread it. What she does with it is hers, including nothing.
 
 **The test:** You can state the capability in the present tense with no story attached. If the sentence only makes sense once you explain the meeting, it has not landed yet.
 
@@ -791,7 +791,7 @@ The Challenger has a move that looks like this from the outside and is a differe
 
 In practice: the sentence is shorter than you want it to be. A read usually runs one clause long. What extends it: the case you build so that nobody can argue with you, and the case is where the read goes to die, because a case invites a rebuttal and a read invites a response. Say the clause. Stop talking.
 
-**Example:** A meeting where two people keep restating positions that barely differ. The stated content is a scoping question. The read is: *I think you two are arguing because something happened between you last month and neither of you has said so.* One clause. Nothing about who was right. The scoping question resolves in four minutes once the actual conversation becomes available.
+**Example:** Two colleagues have restated the same scoping position four times. Nadia has said nothing for forty minutes. She did not come up through the graduate scheme and everyone else did, and the shorthand on the call belongs to the scheme. Say the thing under the thing: *I think we are three layers into a vocabulary and one of us has been outside it since the start.* One sentence, and nothing about who is right. It costs you with the two who were arguing, because you have told them their shorthand is a wall. The question resolves in four minutes, and Nadia joins it.
 
 **The test:** You said the read you actually had, and you said it while it was still live. What the conversation did afterward belongs to the conversation. A true thing said an hour late is a different move.
 
