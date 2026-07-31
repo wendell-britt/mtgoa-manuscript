@@ -20,7 +20,31 @@ the worst in the book at receiving it"* and *"You do not fire the Victim."*
   confession at `ch9:326`–`358` in compressed form, which is why each revision
   read flatter than the last. See the zoom-out in
   `specs/SPEC_SHAME_REINJECTION_2026-07-31.md` §S2. The author slot came back
-  filled on 2026-07-31 and it is the whole passage.
+  filled on 2026-07-31 and it is the whole passage. Wendell: *"still too long and
+  convoluted… this register doesn't make sense."*
+- **v5** — 137 words, **one paragraph.** Two errors fixed, and the second one is
+  the important one.
+
+  **Register.** The model for this slot is `ch5:516`, Mr. Inadequate: a single
+  paragraph, first person, deployed *inside* the argument as an illustration,
+  built from the chapter's own machinery, closing on a rule. It never interrupts
+  the chapter. v1–v4 were a five-paragraph memoir scene containing a close-reading
+  of its own punchline (*"Read it again. It is a question with no question in
+  it"*), set between two long second-person analytic paragraphs. A personal essay
+  dropped into a treatise. v5 matches `ch5:516`'s shape, and drops narration
+  contractions to match ch7 while keeping them inside the quoted speech.
+
+  **The finding was wrong.** v4 said the sentence was a deflection and the shame
+  was about the cost. Wendell, 2026-07-31: *"the sentence I said was true, and the
+  shame that it brought up was that I thought I understood what was fun for
+  everyone because I was having fun. I needed to step outside of myself."* So the
+  sentence is **true and load-bearing**, which is worse and more useful — it is
+  `ch7:527`'s *"I hear you"* mechanism exactly: *"the ledger's most efficient
+  instrument, because it accepts the words without admitting the entry."* The
+  ledger does not argue in v5. It sets the range of what he can hear. The shame is
+  a projection failure rather than an entitlement failure, and it sits on ch7's own
+  Care ↔ Impact axis: he was at the Care pole, having a wonderful time, and never
+  checked the impact.
 
 **Every biographical fact below comes from Wendell's 3-2-1 of 2026-07-31 and is
 quoted or paraphrased from his own words.** Nothing is invented. The one thing
@@ -41,15 +65,7 @@ and what you said instead of hearing it. Not the lesson. The beat. ~150-200 word
 ## AFTER
 
 ```
-Somebody told me mid-course that it wasn't fun.
-
-They were right. In the half-second before I answered, the ledger opened and produced a number. Six years of doing this for free. Every one of those conversations. Every time I was the only Black person somebody could think to ask. I did not think *look what this cost me.* I did not think anything. The number arrived and set the terms of what I was allowed to hear.
-
-What I said was: *You don't think deep introspection and shadow work and uncovering all your hidden motivations isn't fun?*
-
-Read it again. It is a question with no question in it. There is a double negative in the middle because I was arguing with two things at once and only one of them had been said out loud. They had told me something true about the thing I made. I answered from the column.
-
-I have known that sentence by heart for four years. It still gets a laugh out of me. What sits in the second after the laugh is shame, and I have not found a way to make that second shorter.
+Somebody told me, mid-course, that the course was not fun. What I said back was *you don't think deep introspection and shadow work and uncovering all your hidden motivations isn't fun?* I meant it, and that is what made it useful. I was having a wonderful time in there. I had built the whole thing out of what I found fun and it had not occurred to me to check whether my fun was anybody else's. The ledger was open underneath the exchange, six years of doing this for free, and it never argued with them; it only set what I was able to hear. A true sentence, said warmly, will spare you from stepping outside yourself, and that is the racket. Four years on it still gets a laugh out of me, and what arrives a second behind the laugh is shame.
 ```
 
 ---
