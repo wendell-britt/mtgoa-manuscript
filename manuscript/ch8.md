@@ -296,7 +296,7 @@ Three of the maps in this chapter are not mine, and you should know whose they a
 
 The Sage sees in five modes. Each one is a tool. Each one, run wrong, becomes a shadow.
 
-**Panoramic Seer.** The mode of taking in the whole field, even briefly. Holding six games at once without collapsing into any of them.
+**Panoramic Seer.** The mode of taking in the whole field, even briefly. Holding all four games at once without collapsing into any of them.
 
 **Game-Switcher.** The mode of deliberate movement between games. Stepping into the power game because the moment needs it, and going back down without feeling diminished.
 
@@ -506,7 +506,7 @@ The practice has four moves. Run them in order the first several times. After th
 <!-- /MARGINALIA -->
 
 
-You met the Damaged Self deep in the Forest, seventh in line, one gate before the center. The Protector decides whether you go in at all. The Controller decides how you're allowed to behave once you're inside. The Skeptic decides whether what you're reacting to was ever real. The Fixer-Healer decides whether the thing in front of you holds up well enough to be given yourself to. The Victim decides what your having paid entitles you to. The Damaged Self decides something none of them touch: whether you are built correctly for any of this.
+You met the Damaged Self deep in the Forest, seventh in line, closest to the center. The Protector decides whether you go in at all. The Controller decides how you're allowed to behave once you're inside. The Skeptic decides whether what you're reacting to was ever real. The Fixer-Healer decides whether the thing in front of you holds up well enough to be given yourself to. The Victim decides what your having paid entitles you to. The Damaged Self decides something none of them touch: whether you are built correctly for any of this.
 
 At its best, this part of you registers difference accurately. Something about how you process runs off-standard. That happens frequently, and at this altitude almost always, because panoramic vision is not the common configuration. A part of you that can hold *I am running differently from the people around me* without panic does real work. It keeps you from expecting your own experience to be universal, the single most useful correction available to anyone who sees more than the people they're sitting with.
 
@@ -605,7 +605,7 @@ You pause at the door. You take one breath. You ask: *which game are we actually
 
 **Why it matters:** The naming doesn't solve it. It makes it possible to choose what to do next. Once you've named the game, you're no longer being played by it. You're choosing whether to play it.
 
-**Working vs. performed:** The shadow version names it and then feels superior for knowing. *This is a power-game table* said with the energy of a diagnosis is service. Said with the energy of *I see what you can't* is shadow. 
+**Working vs. performed:** The shadow version names it and then feels superior for knowing. *This is a power-game table* said with the energy of an offering is service. Said with the energy of *I see what you can't* is shadow. 
 
 **The test:** Do people settle when you name it, or do they brace? Settling is service. Bracing is shadow.
 
@@ -621,7 +621,7 @@ You've been playing strategy: systems, process, the search for the right lever. 
 
 Or you've been playing power (holding boundaries, staying clear about what you won't accept) and things have moved to harmony. Now people need to feel heard, now the relationship needs repair, now the work is inclusion rather than confrontation. Switch. Hold the field. Let people be heard.
 
-The switch is the Sage's most deliberate move. It requires knowing all six games well enough to move between them without feeling like you're betraying one for another: the Challenger who can go to harmony without feeling soft, the Diplomat who can go to power without feeling like they abandoned the field.
+The switch is the Sage's most deliberate move. It requires knowing all four games well enough to move between them without feeling like you're betraying one for another: the Challenger who can go to harmony without feeling soft, the Diplomat who can go to power without feeling like they abandoned the field.
 
 Chou calls this playing the right game. In *10,000 Hours of Play*, he describes the experienced player as the one who knows when to be serious and when to be playful, when to push and when to yield, when to stay and when to leave, from choice rather than default. The Sage is that player. Not because they transcended the lower games. Because they've been all of them enough to choose.
 
