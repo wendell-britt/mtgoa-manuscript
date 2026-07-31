@@ -70,5 +70,5 @@ the reader needs it.
 | ID | Location | Reader problem | Evidence | Decision | Intended result | Status |
 |---|---|---|---|---|---|---|
 | DL-13 | `SPEC_EDITORIAL_OS_INTEGRATION` §4 | Editorial passes lack a one-page brief to judge against | Lean OS anchor 1; pieces existed in `THESIS_DRAFT.md` + Jordan ICA | Confirm or amend the assembled book brief | Every role prompt gets the same brief | OPEN, awaiting Wendell |
-| DL-14 | Part 2 register | Voice guarding compares to statistics, not to the book at its best | Lean OS anchor 2 | Wendell selects 3–5 passages as the Part-2 voice anchor | Edits cannot become flatter than the anchor set | OPEN, awaiting Wendell |
+| ~~DL-14~~ | `specs/VOICE_ANCHOR.md` | — | Lean OS anchor 2 | **CLOSED 2026-07-31.** Wendell selected five: `ch1:10` · `ch1:119` · `ch4:115` · `ch5:516` · `ch8:342`. `ch4:115` is in deliberately to keep humor in the comparison set | Voice Guardian can run; first pass done — 22 ACCEPT, 2 REVISE, 1 accepted with a recorded loss | **CLOSED** |
 | DL-15 | this file | Rulings scattered across seven-plus specs get re-argued | Lean OS anchor 3; July precedent | Adopt this log as the single ledger; spec rulings sections feed it | Rediscovery loops end | OPEN, awaiting Wendell |
