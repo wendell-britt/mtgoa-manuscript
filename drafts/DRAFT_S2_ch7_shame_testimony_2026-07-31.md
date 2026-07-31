@@ -1,9 +1,13 @@
 # DRAFT — S2, the Clown passage / ch7 testimony slot
 
 **Status:** DRAFT. Not applied. Awaiting Wendell's approval.
-**Target:** `manuscript/ch7.md`, the `[[TESTIMONY SLOT — WENDELL …]]` block,
-Section 5 (*The Victim, Up Close*), between the paragraph ending *"structurally
-the worst in the book at receiving it"* and *"You do not fire the Victim."*
+**Target, from v6:** `manuscript/ch9.md`, a new paragraph after `ch9:342`, inside
+the existing confession in Section 5. The ch7 slot is **cut** — see
+`specs/SPEC_DL19_AUTHOR_COLLISION_2026-07-31.md` Move 4.
+
+**Target, v1–v5 (superseded):** `manuscript/ch7.md`, the `[[TESTIMONY SLOT —
+WENDELL …]]` block in Section 5. Illegal under DL-4: ch7's body is Elian Cross's
+document.
 **Spec:** `specs/SPEC_SHAME_REINJECTION_2026-07-31.md` §5, S2.
 **Register:** Part 2, Wendell's own hand. Modelled on `ch5:516` (Mr. Inadequate).
 **Length:** 197 words, inside the slot's stated ~150–200.
@@ -65,10 +69,37 @@ and what you said instead of hearing it. Not the lesson. The beat. ~150-200 word
 ## AFTER
 
 ```
-Somebody told me, mid-course, that the course was not fun. What I said back was *you don't think deep introspection and shadow work and uncovering all your hidden motivations isn't fun?* I meant it, and that is what made it useful. I was having a wonderful time in there. I had built the whole thing out of what I found fun and it had not occurred to me to check whether my fun was anybody else's. The ledger was open underneath the exchange, six years of doing this for free, and it never argued with them; it only set what I was able to hear. A true sentence, said warmly, will spare you from stepping outside yourself, and that is the racket. Four years on it still gets a laugh out of me, and what arrives a second behind the laugh is shame.
+What I said back, when that feedback came, was *you don't think deep introspection and shadow work and uncovering all your hidden motivations isn't fun?* I meant it. That's what made it useful. I was having a wonderful time in there. I'd built the whole thing out of what I found fun and it hadn't occurred to me to check whether my fun was anybody else's. Four years on that sentence still gets a laugh out of me, and what arrives a second behind the laugh is shame.
 ```
 
 ---
+
+## v6 — 85 words, relocated to ch9
+
+Wendell ruled DL-4 enforced. There is no legal seat for his first person in ch7,
+and the marginalia cannot take it either, because the annotator is an in-world
+character. See `specs/SPEC_DL19_AUTHOR_COLLISION_2026-07-31.md` §4.
+
+**ch9 was the right chapter the whole time.** His register is legal there, the
+confession already lives at `ch9:332`–`358`, and the beat this passage is built
+from is already on the page three lines above the insertion point — `ch9:342`,
+*"Got feedback mid-course that it wasn't fun."*
+
+**What relocating buys.** v1–v5 each had to rebuild the context they needed:
+who he was, what he had made, what it had cost. In ch9 all of that is standing
+prose in the paragraphs above, so the passage drops to one job — the sentence he
+said, and what sits behind the laugh. It also fixes the register problem for
+free, since ch9 is contraction-heavy first person and v5's ch7-matched formality
+was one more thing making it read stiff.
+
+**What it costs.** The ledger framing goes. The Victim's *"accepts the words
+without admitting the entry"* mechanism was the strongest analytic frame this
+passage had, and ch9 has no ledger in it. The passage now shows the move instead
+of naming it. Given that ch9's whole confession works that way, this reads as
+fitting in rather than as a loss.
+
+**Placement:** immediately after `ch9:342`, before *"I was right and it cost me
+nothing and everything at the same time."*
 
 ## Provenance of every fact in v4
 
