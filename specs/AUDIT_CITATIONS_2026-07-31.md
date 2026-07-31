@@ -114,10 +114,36 @@ Recorded so nobody re-opens them.
 - **Elliott and *Existential Kink*.** Named in ch1, ch2, ch3 and `copyright.md`.
 - **Wilber.** Named in the author's note, ch3:596 and ch8:254.
 
-## 6 · What the instrument reports now
+## 6 · Wendell's rulings, applied
+
+**Carse is now in ch1**, one paragraph, seated where the chapter argues that a chore model
+burns people down. The finite and infinite distinction is stated plainly and then used: allyship
+has no finish line, nearly everything built to support it is finite, and burnout is what it
+feels like to run finite equipment on an infinite road. It pays off the chapter's title, which
+was standing there uncredited the whole time. ch1's em-dash count is unchanged and still at cap.
+
+**The three ch8 attributions are below the seam.** The Big Mind paragraph was already a lineage
+note rather than treatise, so it moved whole and grew: it now credits Merzel, Wilber and Laloux
+together at the head of Section 4, in Wendell's voice, where credit belongs. Above the seam Orr
+states the two principles without the names, which the Earth-travel ruling allows and which
+CREDIT requires. ch8's BOOK and CREDIT hits both go to zero.
+
+**The separation of tasks is named**, in the Kishimi entry, as the discipline underneath the
+book's one non-negotiable rule.
+
+**Two states that will keep being reported, on purpose.** *Evolutionary purpose* and *Teal* now
+appear above ch8's seam with the credit sitting below it, which is exactly what the two-hands
+rule asks for and exactly what a 400-character window cannot see. Leaving them visible is
+correct: if the lineage note is ever cut, the finding should come back.
+
+**Watts is the one thing left.** Appendix G still credits him as the philosophical ground of
+the game frame and he appears nowhere. Unlike Carse he has no single distinction to seat, so
+the honest options are still to use him or to move him to a further-reading line.
+
+## 7 · What the instrument reports now
 
 ```
-0 uncredited, 7 borrowed, 4 dead
+0 uncredited, 7 borrowed, 3 dead
 ```
 
 The seven BORROWED are all cleared in §5 and remain reported on purpose: the tier is

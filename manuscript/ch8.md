@@ -227,8 +227,6 @@ The Sage arrives when you've been all the other Faces long enough to see them fr
 
 That's the Sage. Not a new game above the others. A meta-view of all of them — the capacity to see the whole system and choose where to stand inside it.
 
-Big Mind gives this chapter its vocabulary for the inner voices. Shamanic training gives it the body-first reading and the return to felt sense. The Faces framework gives it the developmental arc, so the language doesn't collapse into one personality theory wearing five hats. You don't have to convert to any of them to use the work. You just have to keep the maps from folding into each other.
-
 This is the Vulnerable Child's gift, held all the way up. The child who wanted to be in the game and see the game. Who wanted to belong and see. Who refused to choose between presence and perspective.
 
 The Sage doesn't get this by leaving. The Sage gets this by staying — by seeing everything and then choosing, while holding the larger view. The Sage can be in the power game and know it. Can be in the strategy game and see it. Can hold the whole-board view and come back down into the harmony game without losing it.
@@ -251,9 +249,9 @@ The Sage's journey runs inward and then back. Corin would call going inward a re
 
 The Sage holds all five at once. Not to judge. To understand. Not to hold above — to hold with. That marks the whole difference between the Sage and the Sage in distortion. The Sage sees so they can serve. The distortion sees so it can be right.
 
-Wilber makes the structural point: you don't abandon the lower altitudes when you arrive at a higher one. You carry them. The Teal view doesn't mean you've stopped being Red. It means you know when you're Red, you can choose to stay there deliberately, and you can come back. The Sage doesn't leave the Faces behind. The Sage holds them all and knows which one the moment asks for.
+The structural point is that you don't abandon the lower altitudes when you arrive at a higher one. You carry them. The Teal view doesn't mean you've stopped being Red. It means you know when you're Red, you can choose to stay there deliberately, and you can come back. The Sage doesn't leave the Faces behind. The Sage holds them all and knows which one the moment asks for.
 
-Laloux names something he calls evolutionary purpose: once you can see the whole board, you start to feel the pull of something larger than your own survival. It outruns your team's goals and your organization's mission, and it carries its own direction, as though the work pulled you forward rather than you pushing it. The Sage hears that pull and asks: *which game is this? Is this my game's pull, or something else's?* Sometimes the pull is real. Sometimes it's a beautiful story you've told yourself about why the work matters. The Sage can tell the difference, and the telling takes skill rather than temperament.
+Something arrives once you can see the whole board, and the name for it is evolutionary purpose: the pull of something larger than your own survival. It outruns your team's goals and your organization's mission, and it carries its own direction, as though the work pulled you forward rather than you pushing it. The Sage hears that pull and asks: *which game is this? Is this my game's pull, or something else's?* Sometimes the pull is real. Sometimes it's a beautiful story you've told yourself about why the work matters. The Sage can tell the difference, and the telling takes skill rather than temperament.
 
 ### Polarity Encounter — Which Game ↔ Which Altitude
 
@@ -293,6 +291,8 @@ So before you trust the view, check the one thing that gives it away. Are you in
 
 ## Section 4: The Practice
 ### *The Five Modes of Sight*
+
+Three of the maps in this chapter are not mine, and you should know whose they are before you use them. The inner voices, and the practice of speaking as each one rather than about it, come from Genpo Roshi's Big Mind Process. The rule that you carry the lower altitudes instead of leaving them behind is Ken Wilber's, and it is the structural logic of the whole book. *Evolutionary purpose* is Frederic Laloux's, and in his hands it describes something that happens to an organization rather than to a person, so I have borrowed it down a level and the borrowing is mine to answer for. Shamanic training gives the chapter its body-first reading and its return to felt sense. The Faces framework gives it the developmental arc, so the language doesn't collapse into one personality theory wearing five hats. You don't have to convert to any of them to use the work. You have to keep the maps from folding into each other. Appendix G says where to read each one.
 
 The Sage sees in five modes. Each one is a tool. Each one, run wrong, becomes a shadow.
 

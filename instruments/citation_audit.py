@@ -54,7 +54,7 @@ BORROWED = [
     # without doing the work. Borrowing the phrase back from common usage is not
     # borrowing it from her.
     (r"polarity map|both/and", "Johnson"),
-    (r"big mind", "Merzel"),
+    (r"big mind", "Merzel|Genpo"),   # he is credited by his teaching name in ch8
     (r"genius demon ally", "Rice"),
     (r"existential kink", "Elliott"),
     (r"finite (?:and infinite )?game|infinite game", "Carse"),
