@@ -593,7 +593,7 @@ The kit does have a logic. Seeing without naming is silence. Naming without swit
 
 You pause at the door. You take one breath. You ask: *which game are we actually in, and what game is being played underneath the one we're talking about?*
 
-**Example:** You might sit in a meeting that's discussing strategy and turning on a boundary someone crossed. A conversation arguing about process that's actually about somebody not feeling heard. A conflict framed as a values disagreement that's actually a structural problem nobody wants to name.
+**Example:** A support group is forty minutes into whether Ellis should apply for the review board, and the argument has become logistics. Ellis has said twice that he does not want the board to decide whether what he did was defensible. Name the game: *I think we are running a strategy game and Ellis is in a different one. He is not asking us how to win this.* Some people settle and some brace. You have named it and not solved it, which is the move, and Ellis says nothing for a while.
 
 **Why it matters:** The naming doesn't solve it. It makes it possible to choose what to do next. Once you've named the game, you're no longer being played by it. You're choosing whether to play it.
 
@@ -619,9 +619,10 @@ Chou calls this playing the right game. In *10,000 Hours of Play*, he describes 
 
 **Working vs. performed:** Switching becomes inconsistency. The Sage who can't hold a game long enough to be useful isn't practicing the Game-Switcher — they're uncomfortable with commitment. 
 
+**Example:** You are ten minutes into helping Sam plan the week and Sam has stopped answering in sentences. The plan is good. The plan was the wrong game twenty minutes ago. Switch deliberately and say so: *I think I have been solving and you needed me to stay. I can go back to the plan whenever you want it.* Put the notebook down. The week does not get planned. Sam texts you two days later about something unrelated, which is the whole result.
+
 **The test:** After you switch, does the situation stabilize in the new game, or does it keep asking you to go somewhere else? Stabilizing is the practice. Being pulled three directions is the shadow.
 
-**Example:** I've watched this at the coalition level. A planning team keeps trying to process a power-game harm as though it were a strategy problem — three meetings of process design for something that needed one person to name a line. Somebody finally named it, and the thrashing stopped inside ten minutes.
 
 ### Move 3: Return Without Condescension
 
@@ -633,6 +634,8 @@ The distortion skips this move and stays at the whole-board view, because coming
 
 **Working vs. performed:** Returning becomes retreating. The Sage who can't hold the view uses the return to avoid the weight of what they saw. *I was too serious up there. Let me come back to where things are simpler.* That's exhaustion calling itself wisdom, and it does a passable impression of the Returner. The test: when you return, does it feel like coming home to the people in front of you, or like abandoning the view? Coming home is the practice.
 
+**Example:** Kit's mother died in March and Kit is running the same three arguments about the funeral that they ran in April. You can see the whole board, including the part where none of this is about the funeral. Go back to the narrower game anyway: talk about the caterer, at length, seriously. Do not name the pattern. Naming it would be accurate and would tell Kit they are being watched from above, and the caterer is the only game they can be in this month.
+
 ### Move 4: Put a Game Down
 
 **What it is:** Identify a game you no longer need to play. A fight you inherited from a version of yourself that needed it. A role you grew past. An identity that was useful once and now keeps you small. Put it down. Cleanly. Not because it didn't matter — because it mattered and it's over.
@@ -642,6 +645,8 @@ The distortion skips this move and stays at the whole-board view, because coming
 This is what the Release stage actually asks. Not ascent. Completion. The game ran its course. You learned what it had to teach. The next move isn't up, it's open-handed. Letting go says *this game was mine for a time, and it isn't anymore, and that's allowed.* Giving up never bothers to say anything.
 
 **Working vs. performed:** Putting down becomes giving up. The Sage who keeps dropping games before they've given what they have to give isn't practicing the Liberator, they're practicing avoidance. 
+
+**Example:** You have spent nine years being the person who never misses the thing everyone else misses, and you can name what that bought you: it got you taken seriously at twenty-eight, in an outfit that took nobody seriously at twenty-eight. Say what it taught you before you set it down. Then set it down, and let a meeting go past with something unnamed in it. Nobody notices. That is not the same as nothing happening.
 
 **The test:** Can you name what the game taught you before you put it down? If you can't, it was never really yours. If you can, and you put it down anyway — that's the practice.
 
@@ -662,6 +667,8 @@ You can hold the whole-board view inside while your body sits in the power game.
 Do not use the meta-view to make yourself unaccountable. If your clarity only makes you harder to pin down, it isn't wisdom yet. It's avoidance with better vocabulary.
 
 ---
+
+**Example:** Ade has the test result and a fifty per cent chance of the thing that killed his father at sixty. He has decided not to tell his brother. You can see the whole of it: the brother's right to know, the family pattern of not saying, the ten years of managing this alone. Hold all of it and stand on the ground: *what do you want to do on Sunday.* The whole board stays available to you and does nothing on the table. Ade decides about his brother.
 
 ## Your Twenty Cards
 
