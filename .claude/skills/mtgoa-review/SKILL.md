@@ -58,6 +58,28 @@ python3 instruments/review.py
 Six steps: gate, diet, em-dash budget, seam sweep, citation audit, `compile.py --verify`. All
 six must be `ok` before committing a manuscript change.
 
+## Score the set, not the sentence
+
+**Ratios on a short sample are noise.** A single 50-word Example scored `zombie 1.80` on one
+occurrence of *the correction*. Below roughly 300 words the counters swing on individual
+words and will send you chasing nothing.
+
+**The unit is the batch**: a chapter's five Examples together, a whole letter, a whole
+handbook. Score a single passage only to compare two candidate versions of it against each
+other, which is what the ratio is genuinely good for.
+
+## Never show unreviewed prose
+
+Added 2026-07-31, one turn after this skill was written, because it was already broken.
+A rewritten Example was composed inline in a message to Wendell and put in front of him
+without a run. He asked *"was this reviewed before we put it in front of me?"* It had not
+been, and it scored **be 1.37, copula 2.06, waste 1.53, zombie 1.55** — heavy on four of five
+counters, the worst-scoring prose of that session.
+
+**Prose in a message is prose.** A candidate sentence written inline gets the same pass as a
+draft file: write it to a file, run `review.py` on it, then paste it. Composing in the reply
+is where the check gets skipped, every time.
+
 ## Registers, and when heavy is correct
 
 **A number is not a verdict.** The baseline is nine chapters of Wendell's expository prose,
