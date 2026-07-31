@@ -6,7 +6,12 @@ Section 5 (*The Victim, Up Close*), between the paragraph ending *"structurally
 the worst in the book at receiving it"* and *"You do not fire the Victim."*
 **Spec:** `specs/SPEC_SHAME_REINJECTION_2026-07-31.md` §5, S2.
 **Register:** Part 2, Wendell's own hand. Modelled on `ch5:516` (Mr. Inadequate).
-**Length:** 251 words against the slot's stated ~150–200.
+**Length:** 216 words, inside the slot's stated ~150–200 range at the top end.
+**Revision:** v2, 2026-07-31. Wendell on v1 — *"overly verbose and not quite
+punchy enough."* Cut 35 words, broke the long clauses into short sentences, moved
+the *smart Black man* lines up against the audit sentence where they hit hardest,
+and cut the meta-frame (*"you are reading a book by a man who…"*, *"the laugh is
+the instrument"*) so the laugh does its own work rather than being announced.
 
 **Every biographical fact below comes from Wendell's 3-2-1 of 2026-07-31 and is
 quoted or paraphrased from his own words.** Nothing is invented. The one thing
@@ -27,11 +32,15 @@ and what you said instead of hearing it. Not the lesson. The beat. ~150-200 word
 ## AFTER
 
 ```
-I built a course about allyship before I had learned the subject. Six years of the program, four years of this book, three cities, and a job list I can recite without pausing: customer service rep, documentarian at a crypto company, smoothie maker, shoe salesman, event organizer. Every line of that is accurate. None of it is the finding.
+I built a course about allyship before I learned the subject. Six years of the program. Four years of this book. Three cities. Customer service rep, crypto documentarian, smoothie maker, shoe salesman, event organizer. All accurate. None of it the finding.
 
-The finding arrived the day I told a cohort to run a 3-2-1 on the dead self and every one of them stopped. I had sold hundreds of people that walk. I had never taken my own course. What the ledger produced in that half-second was *look what this cost me* — six years, three cities, look at the column. The column was true. That is the part I want you to have, because a false invoice you would catch. Mine was accurate to the dollar and it was doing exactly one job, which was keeping me from saying the sentence already sitting in my chest: I have not done this.
+The finding came the day I told a cohort to run a 3-2-1 on the dead self and every one of them stopped. I had sold hundreds of people that walk. I had never taken my own course.
 
-The verdict was right; I was not ready. The invoice was right; I had paid. Between a true verdict and a true invoice, nobody runs the audit. I did not run mine for four years, and I had been big on my britches about it long before that — allyship was for other people, I was a smart Black man, I did not need to learn how to be helpful. So you are reading a book by a man who taught the thing before he had done it, and I am telling you on the page because it is funny. The laugh is the instrument. I can still get one out of *I never took my own course*, which means that part of me is still a little wild. Integrity was never getting ready first. It is running the audit where somebody can see you do it.
+Here is what the ledger produced in that half-second. *Look what this cost me.* Six years. Three cities. Look at the column. The column was true. A false invoice you would catch. Mine was accurate to the dollar, and it was doing one job: keeping me from saying the sentence already sitting in my chest. *I have not done this.*
+
+The verdict was right. I was not ready. The invoice was right. I had paid. Between a true verdict and a true invoice, nobody runs the audit. I did not run mine for four years. Allyship was for other people. I was a smart Black man. I did not need to learn how to be helpful.
+
+I can still get a laugh out of *I never took my own course.* That means the part is still wild. Integrity was never getting ready first. It is running the audit where somebody can watch.
 ```
 
 ---
@@ -54,18 +63,18 @@ is that sentence demonstrated on the author rather than asserted at the reader.
 the damage and the cost, then declines to convert either into a claim about
 himself. That refusal is the alchemy, performed rather than described.
 
-**The laugh is load-bearing, not decoration.** `HUMOR_GRID.md:26` — *"if you can
-still get a laugh out of a part, it's still wild."* The passage says so out loud
-and applies it to him. That is the boggart move: the daemon is let all the way
-in, clowned, and the clowning is the measurement.
+**The laugh is load-bearing.** `HUMOR_GRID.md:26` — *"if you can still get a
+laugh out of a part, it's still wild."* v2 applies the diagnostic without
+explaining it. That is the boggart move: the daemon gets let all the way in,
+clowned, and the clowning is the measurement.
 
 **It draws Jordan in rather than shielding her.** She is handed no exit. She
 watches somebody carry it in public and stay upright, which is the only argument
 the book can make that the conversion is survivable.
 
 **Integrity gets a definition it can be held to** — *running the audit where
-somebody can see you do it* — in the chapter that already names integrity's
-counterfeit at `ch7:497`.
+somebody can watch* — in the chapter that already names integrity's counterfeit
+at `ch7:497`.
 
 ## Gate
 
