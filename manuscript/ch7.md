@@ -498,10 +498,6 @@ This is where the chapter's myth comes due. You met it in Section 3: allyship me
 
 The cost lands in exactly the place this chapter cannot afford to lose it. You become unavailable for repair. Read that again against Section 4, because the Repairer is one of your five channels and Move 4 is a structure for receiving rupture. None of it can run. Someone names an impact you had, and before they finish the sentence the ledger has opened and produced a number, and the number says this is impossible: look at what I have absorbed, look at the column, I am the one in the red here. The Face whose whole chapter is about repair is, in shadow, structurally the worst in the book at receiving it.
 
-[[TESTIMONY SLOT — WENDELL. This is where Ch5 puts Mr. Inadequate and Ch3 puts the harm passage.
-Needed: one time the ledger opened while somebody was telling you the truth about your impact,
-and what you said instead of hearing it. Not the lesson. The beat. ~150-200 words in your voice.]]
-
 You do not fire the Victim. Fire the part of you that counts and you will spend the rest of your life absorbing costs you cannot name, in fields that have no reason to stop taking, calling that generosity. You take the joystick back by giving it its actual jurisdiction and taking away the one it appointed itself to.
 
 *Keep the ledger. Every entry, exact, and read it to me whenever I ask. What the ledger does not do is decide whether I am allowed to speak here, and it does not get a vote on whether I have caused harm.*

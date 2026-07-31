@@ -297,3 +297,43 @@ is a fact about the Diplomat's subject rather than about the prose.
 finished* to *before they finish the sentence*, *after the repair is offered* to *after you
 offer the repair*, and one of the two *are built on* to *rest on* changes.
 
+## 5 · ch5's passive, classified — 1.83 and almost none of it a defect
+
+**Classified 2026-07-31**, on the same instruction as ch7 and with a cleaner answer. Forty-eight
+sentences carry a passive. **Two causes account for nearly all of them, and both are the
+chapter being itself.**
+
+**Cause one: Quill's charter, 14 of the 55 hits in 409 words.** *"Roles are refused on
+principle. The refusal is entered in the minutes as a value. Nothing is entered after it."*
+A charter states what shall be done without naming who does it; that is what makes it a
+charter rather than a memo. `HEAD_VOICE_DIAL` §2a rules Quill third impersonal, fact and
+record, and Wendell already granted this passage a register exception on 2026-07-31.
+**Measured: removing the charter takes ch5 from 1.83 to 1.42.**
+
+**Cause two: the Regent's subject is the agentless past.** Sixteen further hits are
+*was passed*, *was received*, *is kept*, *was handed down*, *be inherited*. An inheritance is
+by definition a thing done to you by people who are no longer available to be named as the
+doer. *Honor what was passed* has no active form that means the same thing, and **HONOR WHAT
+WAS PASSED** is the polarity axis label besides. Rewriting these would not tighten the prose,
+it would deny the premise.
+
+**A third group is the exile narrative.** *"Problems that had festered for years were finally
+named. Long-standing violations were finally stopped."* The village sections are a fable and
+withhold the agent on purpose.
+
+**What is left is two or three.** *Every new person had to be walked through the founding
+vision* has a doer available. *Where it can be postponed indefinitely* has one. That is the
+honest size of the finding.
+
+### The limitation this exposes, recorded rather than worked around
+
+`prose_diet.REGISTERS` exempts **files**. Quill's charter is 409 words inside a 10,000-word
+chapter, so the exception fires on the draft and never on `ch5.md`. The counter will keep
+reporting 1.83 forever and the reason will keep being correct.
+
+**Two ways to close it, and this is Wendell's call because a register is his ruling.** Either
+teach `REGISTERS` to except a named block inside a file, which is the honest fix and costs an
+afternoon, or add a `ch5.md` passive ceiling with this section as its reason, which costs
+nothing and is blunter. **Neither is worth doing before the book ships.** The finding is
+recorded; the number stays reported; nobody should act on it.
+
