@@ -135,7 +135,7 @@ Not yet adjudicated. The protocol, cheapest test first:
      → *"X is Y."* Costs nothing, loses nothing, and is right most of the time.
    - **Move the teaching earlier**, where it is short and the chapter allows.
    - **Move the assertion later.**
-   - **Seat the teaching**, only where the object is genuinely missing and load-
+   - **Seat the teaching**, only where the object is absent from the book and load-
      bearing — `ch9`'s altar is the candidate.
 5. **Never** repair by deleting a legitimate back-reference. Earned recall is the
    spiral curriculum doing its job.
