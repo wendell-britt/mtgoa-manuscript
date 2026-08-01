@@ -21,7 +21,21 @@ import io, os, re, sys, glob, subprocess
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, os.pardir)
-SURFACES = ("manuscript/*.md", "appendices/*.md", "front_matter/*.md", "back_matter/*.md")
+# Scan what the spine actually assembles, not the directories it lives in. Until
+# 2026-08-01 this globbed `appendices/*.md` and counted two files that do not ship --
+# APPENDIX_C_KEY_TERMS.md, superseded by APPENDIX_C_FIVE_CHANNELS.md, and
+# BAR_PROMPT_VOICE_AUDIT.md, an audit artefact -- which inflated blocker one by four
+# sites. A ship check that counts non-shipping files is not measuring shipping.
+def spine_files():
+    import importlib.util
+    spec = importlib.util.spec_from_file_location(
+        "bb", os.path.join(HERE, "build_book.py"))
+    bb = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(bb)
+    out = [os.path.join(ROOT, rel) for _, _, rel, _ in bb.SPINE
+           if rel and os.path.exists(os.path.join(ROOT, rel))]
+    out += sorted(glob.glob(os.path.join(ROOT, "manuscript", "ch*.md")))
+    return out
 
 # Generic uses that are not this product and must survive any app sweep. Keyed on the
 # sentence, same discipline as gate.py's EXEMPT: change the sentence and the exemption
@@ -34,10 +48,10 @@ APP = re.compile(r"→ app|\bthe app\b|\bapp's\b|bars-engine", re.I)
 
 
 def files():
-    for pat in SURFACES:
-        for p in sorted(glob.glob(os.path.join(ROOT, pat))):
-            if "backup" in os.path.basename(p):
-                continue
+    seen = set()
+    for p in spine_files():
+        if p not in seen:
+            seen.add(p)
             yield p
 
 

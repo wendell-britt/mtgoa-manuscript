@@ -77,7 +77,7 @@ Read Carse for the frame, Chou for the mechanics, and Nguyen for what playing do
 
 ## The Oracle
 
-The hexagrams that structure the oracle cards — which live in the companion deck and the app rather than in these pages — come from **the I Ching** — the Chinese *Book of Changes*, a three-thousand-year-old system for reading the quality of a moment. I use the Richard Wilhelm translation, rendered into English by Cary F. Baynes (Princeton University Press, Bollingen Series). The Image text that opens each card is from this tradition. Its core insight — that situations have qualities, and that naming the quality of a moment is already a form of guidance — is what makes the cards oracular rather than instructional. As with the five channels: the wisdom belongs to a tradition I didn't create. I applied it to allyship practice; I don't own it.
+The hexagrams that structure the oracle cards — which live in the companion deck rather than in these pages — come from **the I Ching** — the Chinese *Book of Changes*, a three-thousand-year-old system for reading the quality of a moment. I use the Richard Wilhelm translation, rendered into English by Cary F. Baynes (Princeton University Press, Bollingen Series). The Image text that opens each card is from this tradition. Its core insight — that situations have qualities, and that naming the quality of a moment is already a form of guidance — is what makes the cards oracular rather than instructional. As with the five channels: the wisdom belongs to a tradition I didn't create. I applied it to allyship practice; I don't own it.
 
 ---
 

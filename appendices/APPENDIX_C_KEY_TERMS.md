@@ -13,7 +13,7 @@ without a new ruling.
 
 **Allyship Domains** — The four ways allyship shows up as concrete action: Gather Resources, Skillful Organizing, Direct Action, Raise Awareness. *[Ch1/Appendix A] — See also: WAVE, Gate*
 
-**Bars-engine** — The app that implements the MTGOA practice: BAR captures (behavior, affect, what's clearer) route to oracle card unlocks and track the player's domain distribution over time. *[Ch0] — See also: Oracle Deck, BAR*
+**Bars-engine** — The game system Wendell built from this practice. Chapter 9 uses it as the worked example of a Founder move. *[Ch0] — See also: Oracle Deck, BAR*
 
 **The Book's Failure Mode** — The specific way allyship breaks when the WAVE is skipped: Show Up without Wake Up (performing the move), Clean Up without Grow Up (cleaning up someone else's mess), Grow Up without Show Up (becoming wise without acting). *[Ch0] — See also: WAVE*
 

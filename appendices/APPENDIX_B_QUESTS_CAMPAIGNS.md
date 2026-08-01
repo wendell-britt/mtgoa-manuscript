@@ -14,7 +14,7 @@ What follows isn't homework and it isn't a recap — the book already taught the
 
 Pick the one that's pulling at you. Not the one you should do. The one that's already calling.
 
-Every quest ends the same way: you open the app and capture what moved. That capture is the BAR — the record that turns a single rep into a pattern you can see. Without it, the quest is just a nice afternoon. With it, it's data on who you're becoming.
+Every quest ends the same way: you capture what moved. That capture is the BAR — the record that turns a single rep into a pattern you can see. Without it, the quest is just a nice afternoon. With it, it's data on who you're becoming.
 
 ---
 
@@ -186,4 +186,4 @@ A quest is solo. A campaign is the same kind of practice, run longer and out lou
 
 ---
 
-*Every quest and campaign routes to the app for capture. The capture is the point — it's how a single rep becomes a record, and a record becomes the player you're becoming. Lost which gate or domain is yours right now? Appendix A has the diagnostic.*
+*Every quest and campaign ends in a capture. The capture is the point — it's how a single rep becomes a record, and a record becomes the player you're becoming. Lost which gate or domain is yours right now? Appendix A has the diagnostic.*
