@@ -1,5 +1,5 @@
 # CHAPTER 4: THE CHALLENGER — Who Pays When Nobody Says No
-## *The Clean "No" as the Foundation of Real Allyship*
+## *The Willingness to Be Unwelcome*
 
 
 <!-- EPIGRAPH-BYLINE -->
