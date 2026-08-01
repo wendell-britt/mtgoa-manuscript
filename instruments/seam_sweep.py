@@ -114,6 +114,51 @@ T3 = ("CREDIT", re.compile(
     r"|\bEgan\b|Maslach|Meadows|Barry Johnson|Gorski|Yu-kai|\bChou\b|Octalysis"
     r"|Alan Watts|\bCarse\b|Robin Rice|Wilberian|Courage to Be Disliked|Kishimi|Adler", re.I))
 
+# T4 VOCAB, added 2026-08-01. Wendell caught ch8's treatise saying "the six Faces you
+# have spent this book learning" and then, on the fix, caught that "Face" itself is wrong:
+# "within the fiction the faces aren't called faces. They are the headmasters of the
+# schools." Neither T1, T2 nor T3 can see that. A Head using the AUTHOR'S VOCABULARY is a
+# fourth kind of breach: not a Head who knows about the book, not the author's biography,
+# not a real-world credit -- a Head reaching for a word only Wendell has.
+#
+# The measurement that designed this tier. Counting candidate terms above each signature:
+#
+#     village    30 34 35 32  7 21    6/6   in-world, obviously
+#     quest       1  0  2  5  1 15    5/6   in-world
+#     altitude    3  1  0  1  6  9    5/6   in-world
+#     Face        0  0  0  0  0  5    1/6   the leak Wendell found
+#
+# **Distribution alone is not the test, and the near-miss proves it.** "emotional alchemy"
+# scores 1/6 -- five uses, all in ch3 -- and is entirely legitimate, because ch3 is Voss's
+# treatise and alchemy is what her school teaches. Concentration in the chapter that OWNS a
+# concept is the concept being taught. The same word in a chapter that does not own it is a
+# Head reaching across schools for somebody else's taxonomy, which is exactly what
+# SPEC_TWO_HANDS flagged in ch7 as "the clearest single break in the book."
+#
+# So the tier has two lists. OWNED fires only outside the owning chapter. AUTHORS_ONLY has
+# no owner anywhere in the fiction and fires above any signature.
+#
+# This is a candidate finder, never a gate. Some hits are ordinary English -- "channeled
+# into righteous action" is a verb, not the EA taxonomy -- and only a reader can tell.
+AUTHORS_ONLY = {
+    "Faces":      r"\bFaces\b|\bthe Face\b|\bsix Faces\b",
+    "BAR":        r"\bBARs?\b",
+    "superpower": r"\bsuperpowers?\b",
+    "Shadow":     r"\bShadow\b",
+    "WAVE":       r"\bWAVE\b",
+    "GameMaster": r"\bGame Master\b",
+}
+
+# term -> the chapter whose school teaches it. Legal there, suspect elsewhere.
+OWNED = {
+    3: {"alchemy":  r"\balchemiz\w*|\balchemical\b|\bemotional alchemy\b",
+        # "EA" is the book's abbreviation, not a word anybody in the fiction has.
+        # Added after the tier's first run caught "its own alchemical arc" in ch7 and
+        # walked straight past "a specific EA signal" in the same sentence.
+        "channels": r"\bfive channels\b|\bEA\b",
+        "spiral":   r"\bWake Up\b|\bOpen Up\b|\bClean Up\b|\bGrow Up\b|\bShow Up\b"},
+}
+
 # Reported, never flagged: the Earth-world texture the 2026-07-30 ruling permits.
 EARTH = re.compile(r"\bmeeting\b|\bemail\b|\bSlack\b|\boffice\b|\bmanager\b|\bteam\b"
                    r"|\btherapy\b|\bHR\b|\bcalendar\b|\bproject\b", re.I)
@@ -155,7 +200,7 @@ def sections_1_to_3(text):
 
 def main():
     quiet = "--quiet" in sys.argv
-    totals = {"BOOK": 0, "AUTHOR": 0, "CREDIT": 0}
+    totals = {"BOOK": 0, "AUTHOR": 0, "CREDIT": 0, "VOCAB": 0}
     per_ch = {}
 
     for n in CHAPTERS:
@@ -182,12 +227,29 @@ def main():
                         continue
                     if EARTH.search(sent):
                         earth += 1
+                    matched = False
                     for tier, pat in (T1, T2, T3):
                         m = pat.search(sent)
                         if m:
                             hits.append(("%s%d" % (label, base + k),
                                          tier, m.group(0), sent))
                             totals[tier] += 1
+                            matched = True
+                            break
+                    if matched:
+                        continue
+                    # T4: the author's vocabulary in a Head's mouth. AUTHORS_ONLY has no
+                    # owner anywhere; OWNED belongs to one school and is a reach outside it.
+                    probes = list(AUTHORS_ONLY.items())
+                    for owner, terms in OWNED.items():
+                        if owner != n:
+                            probes += list(terms.items())
+                    for name, pat in probes:
+                        m = re.search(pat, sent)
+                        if m:
+                            hits.append(("%s%d" % (label, base + k),
+                                         "VOCAB", m.group(0), sent))
+                            totals["VOCAB"] += 1
                             break
         per_ch[n] = (hits, earth, scanned)
         if not quiet and hits:
@@ -197,24 +259,29 @@ def main():
                 print("  %-6s %-6s [%s]  %s" % (tier, ln, tok, body))
 
     print("\n" + "=" * 78)
-    print("%-6s %-14s %6s %6s %6s %7s   %s" %
-          ("ch", "Head", "BOOK", "AUTHOR", "CREDIT", "total", "Earth-texture (allowed)"))
-    print("-" * 78)
+    print("%-6s %-14s %6s %6s %6s %6s %7s   %s" %
+          ("ch", "Head", "BOOK", "AUTHOR", "CREDIT", "VOCAB", "total",
+           "Earth-texture (allowed)"))
+    print("-" * 86)
     grand = 0
     for n in CHAPTERS:
         hits, earth, _ = per_ch[n]
-        c = {"BOOK": 0, "AUTHOR": 0, "CREDIT": 0}
+        c = {"BOOK": 0, "AUTHOR": 0, "CREDIT": 0, "VOCAB": 0}
         for _, tier, _, _ in hits:
             c[tier] += 1
         grand += len(hits)
-        print("%-6d %-14s %6d %6d %6d %7d   %d" %
-              (n, HEAD[n], c["BOOK"], c["AUTHOR"], c["CREDIT"], len(hits), earth))
-    print("-" * 78)
-    print("%-21s %6d %6d %6d %7d" %
-          ("TOTAL", totals["BOOK"], totals["AUTHOR"], totals["CREDIT"], grand))
+        print("%-6d %-14s %6d %6d %6d %6d %7d   %d" %
+              (n, HEAD[n], c["BOOK"], c["AUTHOR"], c["CREDIT"], c["VOCAB"],
+               len(hits), earth))
+    print("-" * 86)
+    print("%-21s %6d %6d %6d %6d %7d" %
+          ("TOTAL", totals["BOOK"], totals["AUTHOR"], totals["CREDIT"],
+           totals["VOCAB"], grand))
     print("\nBOOK and AUTHOR are impossible for a Head and must move below the seam.")
     print("CREDIT is possible since the Earth-travel ruling, and moves anyway:")
     print("attribution belongs to the author, not to a character.")
+    print("VOCAB is a candidate finder, not a gate. Some hits are ordinary English;")
+    print("only a reader can tell a taught concept from a borrowed one.")
     return 0
 
 
