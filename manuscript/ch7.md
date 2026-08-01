@@ -60,7 +60,9 @@
 
 ---
 
-## Section 1: The Diplomat's Thesis
+## Section 1: The Exile
+
+### *Why the Diplomat Left the Village (And What the Village Lost)*
 
 You recognize a woman in the village. She is always there. She shows up to every gathering, every working bee, every moment of conflict and every moment of celebration. Her presence reads as devotion, except it isn't, because devotion implies choice, and she has forgotten how to choose. She stays because she has forgotten that she could leave.
 
@@ -68,54 +70,38 @@ One day she stops showing up. The village barely notices at first. Then slowly, 
 
 Across the village, a man operates differently. He is present too. He shows up, he contributes, he holds. He has also, once in a hard moment, surfaced what each side protected and named what staying would actually require. He said it without heat. He did not make it a threat. He did not weaponize it. He simply told the truth about the agreement: what it would hold, what it would cost each of them, what would have to change for his staying to remain real. In the weeks that followed, the village noticed something. His presence had become more valuable precisely because he had now chosen it, not scarce in the way of withholding, but scarce in the way of a person who had closed an honest negotiation and meant it. The village started treating his presence as something that could be lost. In treating it as something that could be lost, they started treating it as something that mattered.
 
-The Diplomat's gift has a name: integrative negotiation. It surfaces what each party protects, names stakes and sacrifices honestly, and closes toward terms the field can live with so that staying means something.
-
-Most people stay past the point of their usefulness. Most people absorb cost until they empty out and then leave without warning. Most people never surface what the agreement actually requires, so nobody treats their presence as the precious, chosen thing it is. The Diplomat understands that a staying which cannot name its terms is a staying without weight. A staying without weight is a staying that slowly, invisibly, stops meaning anything at all.
-
-The Diplomat is the negotiator who has learned that honest stake-surfacing, timely closure, and the willingness to let the field decide what it can actually hold demonstrate love better than infinite presence does.
-
-The five modes of the Diplomat's work run as a journey in sequence rather than a checklist. **Bridge** is the initial entry, the act of showing up in the field with curiosity rather than judgment, making contact without yet knowing what the relationship will require. **Translate** is the work of rendering one camp's language into terms another camp can hear, betraying neither side and finding the common ground of meaning. **Hold** is the maintenance of enough safety that difficult conversation remains possible even when the field is charged, not the four seconds of Stand you learned from the Challenger, where one person declines to take back one line, but the sustained containment of a whole field over the length of a hard conversation, sometimes over months. **Repair** is the healing of ruptures without the pretense that they did not occur: cleaning the wound without pretending nobody made it. **Negotiate** is the culmination: surfacing what each party protects, naming the terms under which staying remains possible, and closing so that everyone is heard *and* something moves.
-
-Each mode earns the next. Bridge without Translate is noise. Translate without Hold is a promise no one trusts. Hold without Repair is a wound left to fester. Repair without Negotiate is generosity without closure, and generosity without closure stops being a gift; it becomes a slow form of self-destruction that the field learns to take for granted.
-
 ---
 
-## Section 2: What It Is
+## Section 2: The Distortion
 
-The Diplomat lives at the relational altitude of human development: pluralistic, relational, oriented toward inclusion. Where the Regent operates through tradition and inherited structure, and the Challenger operates through decisive will and confrontation, the Diplomat operates through the relational field. What matters lies not in what any single person thinks or wants but in what becomes possible between people when someone holds the conditions rightly.
+### *What the Village Does With Honest Terms When the Diplomat Is Gone*
 
-People commonly misunderstand the Diplomat's stance. Niceness, conflict-avoidance dressed in the language of harmony, and the absence of judgment in the service of false peace all get mistaken for it. It is the altitude at which a person can hold multiple valid perspectives simultaneously. They can be a partisan and still make space, can stand for something and still listen, can name their own position and still honor the legitimacy of a position they disagree with. The Diplomat's working capacity is honest multiplicity: holding the field without requiring it to resolve into one thing, holding the tension between positions without rushing to collapse it. That capacity supplies the raw material. What it is *for* arrives at the end of Section 5.
+Here's what happened after the Diplomat left: the village didn't stop needing people to stay. It just stopped knowing how to say what staying would cost.
 
-The Diplomat operates through five modes:
+Newcomers still arrived, and arrival became an audition: you showed up with a contribution ready, because showing up empty-handed had stopped working. Camps that wanted the same outcome got louder in their own languages instead of learning each other's. Hard conversations moved into corridors and private messages, where they cost nothing and changed nothing. Ruptures hardened by default, and when people stopped turning up the village called the thinning natural. Meetings ended in warmth and vagueness: everyone accommodated, nothing settled, another session scheduled.
 
-**Bridge-Builder.** The mode of initial entry. Making contact. Showing up curious rather than defended. Creating the possibility of relationship without yet knowing what the relationship will require.
+The village did this on purpose, and for a reason it could defend. After the Challenger it had lines. After the Regent it had continuity. What it did not have was a way to keep people through either one, and the fastest substitute for a practice is a mood. So the village chose harmony over honesty, inclusion over closure, and hearing everyone over closing the question.
 
-**Translator.** The mode of rendering meaning. Taking what one party in the field means and translating it into terms another party can actually hear. Bridging the gap between ways of being in the world, without softening it and without betraying it.
+Harmony worked. The village argued less and reported higher satisfaction whenever anyone asked. Underneath ran a slow leak: the people who held the village together did it without saying so, absorbed what it cost, and left without warning, which the village experienced as a series of unrelated departures. The ones who stayed kept count instead, and a count kept long enough starts to feel like a position.
 
-**Field-Holder.** The mode of maintained safety. The work of keeping the relational space open and charged enough that difficult conversations remain possible. Holding rather than solving.
+Notice what the village kept and what it dropped. It kept every ounce of care. What it lost was impact, meaning anything the caring was supposed to move. A village with all of the care and none of the impact makes a waiting area rather than a warm place, and everyone in it stays kind and slightly stuck.
 
-**Repairer.** The mode of healing ruptures. The work of addressing harm that has occurred within the field without pretending the harm did not occur, and without letting the repair process create new harm.
-
-**Integrative Negotiator.** The mode of honest closing. Surfacing stakes, interests, and sacrifices; naming what the agreement must hold for everyone, and closing so the field moves.
-
-### EA Channel Alignment — How Each Mode Moves Energy
-
-The Diplomat's practice works across the full spectrum. Each bridging mode rests on a specific EA signal and its own alchemical arc:
-
-| Mode | EA Signal | Dissatisfaction → Satisfaction |
-|------|-----------|-------------------------------|
-| **Bridge-Builder** | Metal/Fear | Anxiety → Curiosity → **Wonder** (primary) / Stage-Fright → Authentic Presence |
-| **Translator** | Earth/Neutrality | Disagreement → Dialogue → **Peace** |
-| **Field-Holder** | Wood/Joy | Inclusion-performance → Genuine inclusion → **Bliss** |
-| **Repairer** | Water/Sadness | Rupture → Repair (moral equivalence → discerned equivalence) → **Poignance** |
-| **Integrative Negotiator** | Fire/Anger | Accommodation → Honest terms (resentful peace → agreement naming all stakes) → **Triumph** |
-
-Section 4 works each mode's full arc through in its five mode deep-dives, the dissatisfaction it carries and the alchemy that transmutes it. Calm is not the entry fee. Whatever you feel as you sit down, one of these five works with that feeling rather than around it.
+This is what the village does with honest terms when the Diplomat is gone: it stops believing that staying can have conditions. Presence becomes unconditional, which sounds like love and works like a tax. The village never noticed. It called the pattern kindness, and the pattern emptied it one person at a time.
 
 ---
 
 ## Section 3: The Concept
 ### *What Honest Terms Actually Are (And Why It's Not What You've Been Told)*
+
+The Diplomat lives at the relational altitude of human development: pluralistic, relational, oriented toward inclusion. Where the Regent operates through tradition and inherited structure, and the Challenger operates through decisive will and confrontation, the Diplomat operates through the relational field. What matters lies not in what any single person thinks or wants but in what becomes possible between people when someone holds the conditions rightly.
+
+People commonly misunderstand the Diplomat's stance. Niceness, conflict-avoidance dressed in the language of harmony, and the absence of judgment in the service of false peace all get mistaken for it. It is the altitude at which a person can hold multiple valid perspectives simultaneously. They can be a partisan and still make space, can stand for something and still listen, can name their own position and still honor the legitimacy of a position they disagree with. The Diplomat's working capacity is honest multiplicity: holding the field without requiring it to resolve into one thing, holding the tension between positions without rushing to collapse it. That capacity supplies the raw material. What it is *for* arrives at the end of Section 5.
+
+The Diplomat's gift has a name: integrative negotiation. It surfaces what each party protects, names stakes and sacrifices honestly, and closes toward terms the field can live with so that staying means something.
+
+Most people never surface what the agreement actually requires, so nobody treats their presence as the precious, chosen thing it is. The Diplomat understands that a staying which cannot name its terms is a staying without weight. A staying without weight is a staying that slowly, invisibly, stops meaning anything at all.
+
+The Diplomat is the negotiator who has learned that honest stake-surfacing, timely closure, and the willingness to let the field decide what it can actually hold demonstrate love better than infinite presence does.
 
 You have already met a version of "terms," and that version forces the School of the Bridge to define the word before it can use it.
 
@@ -220,6 +206,22 @@ The draw is relational. Not solo. Pick a live field with actual people in it, be
 
 ## Section 4: The Practice
 ### *The Five Modes — How the Diplomat Actually Works*
+
+Each mode earns the next. Bridge without Translate is noise. Translate without Hold is a promise no one trusts. Hold without Repair is a wound left to fester. Repair without Negotiate is generosity without closure, and generosity without closure stops being a gift; it becomes a slow form of self-destruction that the field learns to take for granted.
+
+### EA Channel Alignment — How Each Mode Moves Energy
+
+The Diplomat's practice works across the full spectrum. Each bridging mode rests on a specific EA signal and its own alchemical arc:
+
+| Mode | EA Signal | Dissatisfaction → Satisfaction |
+|------|-----------|-------------------------------|
+| **Bridge-Builder** | Metal/Fear | Anxiety → Curiosity → **Wonder** (primary) / Stage-Fright → Authentic Presence |
+| **Translator** | Earth/Neutrality | Disagreement → Dialogue → **Peace** |
+| **Field-Holder** | Wood/Joy | Inclusion-performance → Genuine inclusion → **Bliss** |
+| **Repairer** | Water/Sadness | Rupture → Repair (moral equivalence → discerned equivalence) → **Poignance** |
+| **Integrative Negotiator** | Fire/Anger | Accommodation → Honest terms (resentful peace → agreement naming all stakes) → **Triumph** |
+
+The deep-dives below work each mode's full arc through, the dissatisfaction it carries and the alchemy that transmutes it. Calm is not the entry fee. Whatever you feel as you sit down, one of these five works with that feeling rather than around it.
 
 ---
 
