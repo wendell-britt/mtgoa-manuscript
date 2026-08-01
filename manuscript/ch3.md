@@ -612,7 +612,7 @@ This is emotional processing, and the material it works on has weight. Some of w
 | Stuck because… | Tool |
 |----------------|------|
 | Charge is in a *person* | 3-2-1 — here, and in every chapter after this one |
-| Stuck between two *rights* | Polarity Map |
+| Stuck between two *rights* | Polarity Map — here, and in every chapter after this one |
 | Charge is in *body* now | WAVE-Spiral |
 
 *Full process, worked examples, and source (Ken Wilber, Integral Life Practice): Appendix E: The 3-2-1 Shadow Process.*
@@ -644,7 +644,32 @@ Draw a line. Name the poles. Mark where you are today. The dot is a diagnostic, 
 
 Use 3-2-1 when the trigger is a *person*. Use the Polarity Map when you're stuck between two things that both seem necessary. Use WAVE when the charge already sits in your body, ready to move.
 
-*Full polarity reference: Appendix F: The Polarity Map. First draw: Chapter 4. First field practice: Chapter 7.*
+*Full polarity reference: Appendix F: The Polarity Map. Every chapter after this one draws its own pair.*
+
+---
+
+### Draw the Axis — Feeling ↔ Function
+
+The draw wants a read you already had, and specifically the most recent one that never left your body.
+
+**Try this now.**
+
+1. Name one moment in the last month when you read a situation
+   accurately and said nothing. (One sentence.)
+
+2. Draw the axis:
+
+   **FEELING** ←——●——→ **FUNCTION**
+
+   Mark where you actually sat in that moment.
+   Not where the read deserved to sit.
+
+3. Write one integrated sentence that holds both poles at once:
+   *"I felt __________ and I kept it because __________,
+   and the sentence that never got said was __________."*
+
+4. Sit 30 seconds. Notice: pressure with nowhere to go (Feeling stuck),
+   flatness (Function stuck), or ground (integrated).
 
 ---
 

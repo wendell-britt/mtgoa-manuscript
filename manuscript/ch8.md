@@ -306,6 +306,31 @@ The Sage sees in five modes. Each one is a tool. Each one, run wrong, becomes a 
 
 **Returner.** The mode of coming back into the narrower games without condescension. Dignity intact for everyone.
 
+### Draw the Axis — Which Game ↔ Which Altitude
+
+The draw takes a situation you are already inside and already have a view about, because the failure this axis names is a view that arrived before its evidence did.
+
+**Try this now.**
+
+1. Name one situation where you have already decided what kind of
+   problem it is. (One sentence.)
+
+2. Draw the axis:
+
+   **WHICH GAME** ←——●——→ **WHICH ALTITUDE**
+
+   Mark which question you answered first, and whether that answer
+   settled the other one for you.
+
+3. Write one integrated sentence that holds both poles at once:
+   *"They are playing __________, and what has actually landed with
+   these people before is __________."*
+
+4. Sit 30 seconds. Notice whether you had evidence for the second half
+   or only an assumption you had been carrying.
+
+---
+
 ### EA Channel Alignment — How Each Mode Moves Energy
 
 Each mode grounds in one EA signal and carries its own alchemical arc:

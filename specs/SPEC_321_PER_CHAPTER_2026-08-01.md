@@ -28,8 +28,10 @@ Four rulings on the same day, in his words:
    **Every territory in §3b is rewritten on that axis**, and each is now read off the chapter's
    own account of the reader's failure rather than invented.
 
-**Status 2026-08-01: ch3, ch4 and ch5 applied and approved.** ch6–ch8, ch2's plant, the
-two polarity draws and the cross-reference sweep remain. Nothing lands without approval.
+**Status 2026-08-01: complete.** ch3–ch8 each carry a figure pass, a daemon pass and a
+polarity draw — eighteen blocks. ch2 carries the plant. The polarity draws were relocated
+out of the treatises by a ruling this spec did not anticipate (§7a). Remaining: ch8:262's
+pre-existing *"this book"* breach, filed not fixed.
 
 ---
 
@@ -386,6 +388,25 @@ in full, at the ch3 teaching; carried by Appendix E; not repeated in twelve bloc
 **And the copyright page needs one edit of its own:** *"Chapters 2 through 4"* becomes
 **"Chapters 2 through 8"** once 3-2-1 runs the length of the book. Missing this would leave the
 book's only medical disclaimer scoped to a third of the shadow work it now contains.
+
+## 7a · The polarity relocation — ruled 2026-08-01, outside this spec's original scope
+
+§1 recorded that four chapters already carried a polarity draw and treated that as settled.
+Wendell asked the question this spec should have: *"Should the polarities be up there if the
+rest of the book doesn't do that?"*
+
+Measured: `**Try this now.**` appeared above the treatise signature in ch4, ch5 and ch7, and
+ch6 carried the same thing under another label. **Every other reader practice in the book —
+every Try It Now, every 3-2-1, every BAR, card draw and quest — sat below it.** Four blocks,
+one exception, no rule.
+
+The draws moved to the head of Section 4 as `### Draw the Axis — [Pair]`. Section 3 keeps the
+doctrine, which is genuinely the Head's. 440 words moved verbatim; the four headings are the
+only new prose. ch3 and ch8, which had no draw, were written straight into the new position.
+
+**This is the fourth instance of the pattern §2 names.** The seam was applied to bylines, then
+to the trailing italics — `compile.py`'s seam_point reasons *"these belong to the book rather
+than to the Head"* — and stopped one block short of the practice.
 
 ## 7 · Cross-references that go stale, all of them measured
 

@@ -110,5 +110,5 @@ This process is for **alliance-work projection** — charge outsourced to a figu
 | Stuck because… | Tool |
 |----------------|------|
 | Charge is in a *person* | 3-2-1 (Chapter 3 first practice) |
-| Stuck between two *rights* | Polarity Map (Chapter 4 → Chapter 6) |
+| Stuck between two *rights* | Polarity Map (Chapter 3, and every chapter after) |
 | Charge is in *body* now | WAVE-Spiral |
