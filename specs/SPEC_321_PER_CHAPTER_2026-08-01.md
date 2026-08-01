@@ -16,6 +16,18 @@ Four rulings on the same day, in his words:
    would give them."* The per-chapter blocks name a territory, never a figure.
 4. **The full teaching moves to Chapter 3**, out of Chapter 4.
 
+**Two further rulings, same day, after the first draft of this spec — they change the axis:**
+
+5. **The magic words are *"There is a part of me that…"***. See §3a. The first draft had no
+   ownership formula at all, which left Step 1 as a stage direction rather than a sentence.
+6. **The charge to work is negative.** *"321s are most powerful as they alchemize negative
+   charge. So for beginners the negative charged feelings and projections."* The first draft
+   framed ch3 and ch4 as admired capacities the reader lacks — the golden shadow. Wendell's
+   correction, in his own words: *"There is a part of me that is disconnected from my
+   feelings," "There is a part of me that doesn't say no because they have bad boundaries."*
+   **Every territory in §3b is rewritten on that axis**, and each is now read off the chapter's
+   own account of the reader's failure rather than invented.
+
 Spec only. Nothing applied. `manuscript/` takes nothing without approval.
 
 ---
@@ -85,23 +97,66 @@ to Quest → Recap.
 or an *example shape*. Those belong to the ch3 teaching, once, and to Appendix E. A per-chapter
 block that hands the reader a figure hands them the wrong one.
 
-### The territory per chapter, derived from each chapter's own Section 2
+## 3a · The magic words
 
-Section 2 is `The Distortion — What the Village Does With [X] When the [Face] Is Gone`. The
-figure the reader has been projecting is the one that carries the disowned Face, so the
-territory comes from there rather than from invention.
+**Ruled by Wendell 2026-08-01: the ownership sentence is *"There is a part of me that…"***
 
-| ch | Face | Figure-pass territory | Daemon |
-|---|---|---|---|
-| 3 | Shaman | the one who feels out loud without asking permission | Controller |
-| 4 | Challenger | the one who says no without apologising — **already written** | Skeptic |
-| 5 | Regent | the one who guards a tradition you find indefensible | Fixer-Healer |
-| 6 | Architect | the one who changes the structure and does not consult the feelings | Emotional Body |
-| 7 | Diplomat | the one who stays in the tent with people you would have walked out on | Victim |
-| 8 | Sage | the one who sees the whole board and declines to be moved by any of it | Damaged Self |
+It takes two forms and the reader will use both:
 
-**Each row needs Wendell's eye.** They are read off the chapters, and the figure-pass territory
-is the one field in this spec that is a judgement rather than a measurement.
+| form | example |
+|---|---|
+| **Trait** | *"There is a part of me that is disconnected from my feelings."* |
+| **Figure-carrying** | *"There is a part of me that is my friend Ryeder who feels out loud without asking for permission."* |
+
+The second is the one that does the reclaiming, because it names the person the charge was
+parked on and takes it back in the same sentence. The first is where the reader usually lands
+once the figure has been metabolised. **Neither replaces speaking as the part** — the magic
+words are the claim, and the paragraph after them is where the reader inhabits it.
+
+### This resolves a live defect in ch4, which nobody could have caught without the ruling
+
+`ch4:485` currently instructs, in full:
+
+> **3. STEP 1: OWN IT (first person)**
+> Speak AS the part. One paragraph. No "I notice a part of me."
+
+The ban is right and the instruction is incomplete. *"I notice a part of me"* is observer
+distance — the reader watching the part from outside, which is the failure Step 1 exists to
+prevent. But ch4 bans a sentence without supplying the one that works, so Step 1 is currently a
+stage direction with no way in.
+
+**The two are not in conflict once both are on the page:**
+
+- **Banned:** *"I notice a part of me that…"* — observation, and the reader stays outside.
+- **Required:** *"There is a part of me that…"* — the claim, and then speak as it.
+
+This distinction goes in the ch3 teaching, once, in full. Every later block carries the formula
+and not the argument for it.
+
+## 3b · The territory per chapter — negative charge, in each chapter's own words
+
+**Rewritten under ruling 6.** Each is the reader's failure at that Face, quoted or compressed
+from the chapter's own account of it, which is what makes them land rather than read as
+accusations the book invented.
+
+| ch | Face | *"There is a part of me that…"* | Source | Daemon |
+|---|---|---|---|---|
+| 3 | Shaman | …is disconnected from my feelings | **Wendell's words**; ch3:241 *"feeling out loud, together, at length… and changing none of it"* | Controller |
+| 4 | Challenger | …doesn't say no because I have bad boundaries | **Wendell's words** | Skeptic |
+| 5 | Regent | …keeps the form because dropping it would feel like a betrayal | ch5, Section 2, *"obedience without understanding… performed the role and forgot the person"* | Fixer-Healer |
+| 6 | Architect | …explains the system so I never have to have been there as a person | ch6 polarity, near-verbatim: *"the one account that never requires you to have been there as a person… cruelty, specified as rigour"* | Emotional Body |
+| 7 | Diplomat | …is warm, dependable, and doing nothing | ch7:185, verbatim: *"Care without impact is attendance: warm, dependable, and doing nothing"* | Victim |
+| 8 | Sage | …watches from the doorway and calls it perspective | ch8:282, near-verbatim: *"Are you in it, or watching from the doorway?"*; ch8:280 *"a tourist looks at a museum"* | Damaged Self |
+
+**ch8 was the row Wendell flagged** (*"except for maybe chapter 8"*). The first draft had *"the
+one who sees the whole board and declines to be moved"* — an admired detachment, which is the
+golden-shadow framing ruling 6 rejects. The doorway line is the chapter's own name for the same
+thing seen as a cost, and it is already three paragraphs from where the pass will sit.
+
+**How the two doors work.** The territory is stated as the trait, because that is what the
+chapter can name. The reader enters through whichever door is live: a person who carries the
+charge, or the trait worked directly. The block says so in one clause and does not choose for
+them, per ruling 3.
 
 ### Chapter 2 and Chapter 9
 
@@ -127,15 +182,18 @@ Solo, written or spoken. Fifteen to twenty-five minutes.
 
 **Try this now.**
 
-Pick the figure. [One sentence naming the territory, not the person.]
+Start here: *There is a part of me that [TERRITORY].*
+Work it as a person who carries that charge for you, or work the trait itself.
+Whichever one you already flinched at is the live one.
 
-**3 · FACE IT.** Third person. Describe them like a journalist: body, voice, the thing
+**3 · FACE IT.** Third person. Describe it like a journalist: body, voice, the thing
 that tightens your jaw. Two short paragraphs.
 
 **2 · TALK TO IT.** Second person. Three exchanges minimum. Ask what it is protecting.
 Let it answer, and do not polite the dialogue.
 
-**1 · OWN IT.** First person. Speak as the part, one paragraph. No *"a part of me."*
+**1 · OWN IT.** Say the sentence, with the name in it if there is a name:
+*There is a part of me that is ______ who ______.* Then speak as it, one paragraph.
 
 **RECEIPT.** Thirty seconds. Did the charge move?
 
@@ -152,7 +210,8 @@ for the other two.
 
 **2 · TALK TO IT.** [One Face-specific opening question.] Let it answer.
 
-**1 · OWN IT.** Speak as it, one paragraph, in its own logic rather than your apology for it.
+**1 · OWN IT.** *There is a part of me that [what this daemon does].* Then speak as it,
+one paragraph, in its own logic rather than your apology for it.
 
 **RECEIPT.** Thirty seconds. Did it loosen, or did it dig in? Both are information.
 
@@ -253,7 +312,9 @@ this manuscript has ever run; `build_book.py` for the new page count.
 
 | # | Question | Recommendation |
 |---|---|---|
-| R1 | The six figure-pass territories in §3 | Read them; this is the one judgement call in the spec |
+| R1 | The six territories in §3b, now on the negative-charge axis | Read them. Two are your words; four are quoted or compressed from the chapters. Still the one judgement call in the spec |
+| R1b | ch4:485's *"No 'I notice a part of me'"* stands, with the magic words added beside it | **Yes.** The ban is right and was never paired with the sentence that works |
+| R1c | The block offers both doors — a person carrying the charge, or the trait worked directly — and picks neither | **Yes**, per ruling 3 |
 | R2 | ch9 gets neither pass, making it 12 + the ch2 plant | **Yes.** ch9 has no daemon and inventing one to reach fourteen is the wrong reason |
 | R3 | Safety re-aligned to the copyright page's framing rather than deleted | **Yes.** It is your ruling and it keeps the referral |
 | R4 | Copyright page: *Chapters 2 through 4* → *2 through 8* | **Yes.** Otherwise the disclaimer under-scopes |
