@@ -125,9 +125,9 @@ the thing that makes that practice better.
    spot in motion"* — and a quiz there lets the reader skip the motion the design
    requires. It sits instead in ch9's *The Sheet You Started*, where she has moved
    six times and is being asked to fill the line in, as the fallback for a reader
-   who cannot name it unaided. **Unverified:** WebFetch returned 403 from the site
-   (proxy healthy, no relay failures), so the page was not confirmed to render.
-   Confirm before press — a dead pointer in print is the defect DL-20 exists for.
+   who cannot name it unaided. WebFetch returned 403 from the site (proxy healthy,
+   no relay failures), so the page could not be machine-verified from here;
+   **Wendell confirmed 2026-08-01 that the link works.** Cleared.
 4. ~~**`about_the_author`** — *"builder of bars-engine, the app this book routes
    to"* is a biography line, not a routing line. Keep as biography, or cut?~~
    **RULED 2026-08-01: cut.** Wendell: *"Cut it. The bio needs to focus on other
