@@ -669,6 +669,18 @@ If your six answers came out spread across six different Faces, run the drill ag
 
 ---
 
+## The Sheet You Started
+
+Go back to the sheet you filled in before the Forest. Two of those lines you could not have written yet, and one you swore.
+
+Your myth sits at the top, the one that runs you hardest, picked from ten before you had run a single move against it. Read it again. It will look either smaller than it did or worse than it did, and either way you were paying attention.
+
+Chapter 1 left your superpower blank on purpose, because you only spot it in motion and you had not moved yet. You have moved six times since. Write it down now: the thing you did in the Regent's chapter or the Diplomat's that nobody had to teach you.
+
+Then the oath. You said it out loud or you did not, and either way you have spent nine chapters finding out what the words cost. *I am here to keep playing.* Say it from here. The same sentence, from somebody who now knows the price of it, does different work.
+
+---
+
 ## The Village Is Already Playing
 
 You already have a deck. Every BAR you logged since the Shaman went into it, written in your hand, about your own play, caught while the heat was still on. Chapter 1 promised a deck nobody else could have built. The deck you built while reading is that one. Nobody sells it to you.
