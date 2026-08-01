@@ -42,6 +42,7 @@ is not a build failure. That is `EDITORIAL_OPERATING_SYSTEM.md` rule 1, diagnosi
 before revision.
 
     python3 instruments/line_scan.py              # per chapter, counts by rule
+    python3 instruments/line_scan.py --margin -v  # the frame as its own surface (DL-6)
     python3 instruments/line_scan.py -v           # every hit with its line and quote
     python3 instruments/line_scan.py ch7          # one chapter, verbose
     python3 instruments/line_scan.py FILE.md      # any file, verbose
@@ -145,14 +146,52 @@ def paragraphs(mapped):
     return paras
 
 
+def margin_map(lines):
+    """The frame only, blockquote and emphasis markup stripped, one entry per line.
+
+    Added 2026-08-01 for the margin's own pass. `--mode body` cannot double as this:
+    the annotator is a different hand in a different genre, and DL-6 already rules the
+    margin a separately scored surface. Returned in the same (lineno, text, in_block)
+    shape as body_map so every rule downstream works unchanged, with in_block inverted —
+    body lines become the thing that is skipped.
+
+    Also returns {lineno: block type}, so a flag can say whether it landed in an unsigned
+    annotation, an epigraph byline, the postcard, a handbook page or a signature. Those
+    are five genres and the adjudication is different in each.
+    """
+    out, kinds, kind = [], {}, None
+    for i, l in enumerate(lines, 1):
+        m = BLOCK_OPEN.search(l)
+        if m:
+            kind = m.group(1)
+            out.append((i, "", False)); continue
+        if BLOCK_CLOSE.search(l):
+            kind = None
+            out.append((i, "", False)); continue
+        if kind is None:
+            out.append((i, "", False)); continue
+        t = re.sub(r"^\s*>\s?", "", l)          # blockquote marker
+        t = re.sub(r"^\s*\*(.*?)\*\s*$", r"\1", t.strip())  # the note's wrapping italics
+        out.append((i, t, True)); kinds[i] = kind
+    return out, kinds
+
+
 def quote(s, n=100):
     s = re.sub(r"\s+", " ", s).strip()
     return s if len(s) <= n else s[:n - 1] + "…"
 
 
-def scan(path):
+def scan(path, margin=False):
     lines = lines_of(path)
-    mapped = body_map(lines)
+    kinds = {}
+    if margin:
+        mapped, kinds = margin_map(lines)
+    else:
+        mapped = body_map(lines)
+    if margin:
+        # Invert: the rules skip `in_block`, and in margin mode the body is what gets
+        # skipped. Blank entries stand in for it, so line numbers stay true to the file.
+        mapped = [(i, t, not inb) for i, t, inb in mapped]
     paras = paragraphs(mapped)
     hits = []
 
@@ -212,12 +251,15 @@ def scan(path):
         if m:
             hits.append(("banned-kin", i, quote(l), m.group(0)))
 
+    if kinds:
+        hits = [(r, l, t, "%s · in %s" % (w, kinds.get(l, "?"))) for r, l, t, w in hits]
     hits.sort(key=lambda h: (h[1], RULES.index(h[0])))
     return hits
 
 
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("-")]
+    margin = "--margin" in sys.argv
     verbose = "-v" in sys.argv or bool(args)
     if args:
         a = args[0]
@@ -225,12 +267,13 @@ def main():
     else:
         files = sorted(glob.glob(os.path.join(MS, "ch[1-9].md")))
 
-    print("candidates, not defects — every hit needs a reader before it becomes a flag\n")
+    print("candidates, not defects — every hit needs a reader before it becomes a flag")
+    print("surface: %s\n" % ("marginalia — the frame only" if margin else "body — the frame stripped"))
     head = "%-10s" % "file" + "".join("%12s" % r for r in RULES) + "%8s" % "total"
     print(head); print("-" * len(head))
     grand = Counter()
     for f in files:
-        hits = scan(f)
+        hits = scan(f, margin=margin)
         c = Counter(h[0] for h in hits)
         grand.update(c)
         print("%-10s" % os.path.basename(f)
