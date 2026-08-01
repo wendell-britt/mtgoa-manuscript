@@ -117,11 +117,44 @@ MARGINALIA = re.compile(
     r"<!-- (MARGINALIA|EPIGRAPH-BYLINE|POSTCARD) -->\n(.*?)\n<!-- /\1 -->", re.S)
 
 
+# Provenance headers. Every appendix carries a block of editorial metadata under
+# its H1 — Status, Authority, Location in book, Timing dependency — and it is
+# genuinely useful in the repository: it is how anybody knows Appendix D was
+# checked line-by-line against the *Igniting Joy* source and approved.
+#
+# Until 2026-07-31 this builder copied it straight into the deliverable. Fifteen
+# lines reached build/MTGOA_PRINT_2026-07-31.md across six shipping appendices,
+# including internal file paths (docs/plans/..., GATE_GIFTS_ALLYSHIP_MOVES.md),
+# "approved by Wendell", a **Status: Draft** flag on an appendix that was
+# shipping, and "Coordinate before press" — an instruction addressed to the
+# production team, printed for the reader.
+#
+# gate.py passed the whole time. It scores banned words; this is not one.
+# build_book.py passed. It scores missing files; these files were present.
+#
+# Stripped only inside the header block — above the first `---` rule — so a
+# legitimate bolded label in body prose is never touched.
+META_KEY = re.compile(
+    r"^\*\*(Status|Authority|Location in book|Timing dependency|Depends on|"
+    r"Blocked by|Revised|Ported|Type|Source|Created):\*\*.*$", re.M)
+
+
+def strip_provenance(text):
+    """Remove editorial metadata from a component's header block."""
+    parts = text.split("\n---\n", 1)
+    if len(parts) == 1:
+        return text
+    head, rest = parts
+    head = META_KEY.sub("", head)
+    head = re.sub(r"\n{3,}", "\n\n", head).rstrip() + "\n"
+    return head + "\n---\n" + rest
+
+
 def read(rel):
     path = os.path.join(ROOT, rel)
     if not os.path.exists(path):
         return None
-    return io.open(path, encoding="utf-8").read()
+    return strip_provenance(io.open(path, encoding="utf-8").read())
 
 
 def words(text):
