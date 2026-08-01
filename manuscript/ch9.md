@@ -671,9 +671,11 @@ If your six answers came out spread across six different Faces, run the drill ag
 
 ## The Village Is Already Playing
 
+You already have a deck. Every BAR you logged since the Shaman went into it, written in your hand, about your own play, caught while the heat was still on. Chapter 1 promised a deck nobody else could have built. The deck you built while reading is that one. Nobody sells it to you.
+
 Two things exist on the other side of this book. They are not the same size, and they don't ask the same thing of you.
 
-**The deck.** A hundred and twenty BARs: Wake Up, Open Up, Clean Up, Grow Up, Show Up, crossed against gathering resources, raising awareness, direct action, and skillful organizing, run once for each of the six Faces. You have met every one of them twenty at a time. The private use comes first: draw against the Face you have been performing and see what you do when the card names it. The public use comes after: run it for a group. It is the smaller of the two steps and the only one you can take this week. It costs you nothing except the willingness to sit with a card you would rather have shuffled back.
+**The deck.** A hundred and twenty cards: Wake Up, Open Up, Clean Up, Grow Up, Show Up, crossed against gathering resources, raising awareness, direct action, and skillful organizing, run once for each of the six Faces. You have met every one of them twenty at a time. The private use comes first: draw against the Face you have been performing and see what you do when the card names it. The public use comes after: run it for a group. It is the smaller of the two steps and the only one you can take this week. It costs you nothing except the willingness to sit with a card you would rather have shuffled back.
 
 **The coaching.** The more expensive of the two, in every sense of the word. If you have a Founder move and you already know it has to be you, working it through with me one-on-one is the fastest path I know. If what you want is the method itself (to run these six Faces for other people, not just for the thing you're building) that is the succession I wrote this book to make possible, and it is the work I most want to hand off. wendell@masteringallyship.com.
 
