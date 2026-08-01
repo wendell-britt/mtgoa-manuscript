@@ -1,5 +1,5 @@
 # CHAPTER 4: THE CHALLENGER
-## *The Clean "No" as the Foundation of Real Allyship*
+## *The Willingness to Be Unwelcome*
 
 
 <!-- EPIGRAPH-BYLINE -->
