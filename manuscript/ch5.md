@@ -271,25 +271,6 @@ Reform what no longer serves means updating the form when the essence requires i
 
 You know this tension from the inside. The practices you inherited from the work (the frameworks, the vocabulary, the rituals someone before you built with real stakes): some of them are still load-bearing. Some of them became something else: a form that performs the commitment without keeping it. You know which ones. You've stood in circles where the acknowledgment was said and the land was not returned. You've used vocabulary that used to mean something and now signals membership more than it moves anything. You keep the forms because dropping them would feel like a betrayal of someone whose effort you still respect. That is the Regent's pair in active tension. It is named here because from the inside the tension reads as weakness, and keepers before you have filed it under that name.
 
-The draw is solo. Not a conflict between you and another person. Your inheritance. Your axis. What you personally received, kept, and are now in the middle of deciding about.
-
-**Try this now.**
-
-1. Name one inheritance you carry in allyship work: a practice, norm, or loyalty
-   you didn't invent but keep performing. (One sentence.)
-
-2. Draw the axis:
-
-   **HONOR WHAT WAS PASSED** ←——●——→ **REFORM WHAT NO LONGER SERVES**
-
-   Mark where you are today.
-
-3. Write one integrated sentence that holds both poles at once:
-   *"I stay with __________ because it still __________,
-   and I need __________ to change before I can keep showing up honestly."*
-
-4. Sit 30 seconds. Notice: heaviness (pole A stuck) or heat (pole B stuck) or ground (integrated).
-
 <!-- SIGNATURE -->
 > the third treatise, submitted by Sera Quill, Keeper of Continuance,
 > Head of the School of the Oath
@@ -334,6 +315,29 @@ Loyalty is deeply unfashionable in progressive circles. It sounds like obedience
 Real loyalty is chosen. Real loyalty sees the whole inheritance (the gift and the damage) and decides, with full knowledge, to carry it forward. Real loyalty can be broken when the tradition breaks you. Real loyalty can be reformed when the tradition no longer serves what it originally served. That's the most loyal thing there is, and it will read as disloyalty.
 
 This section teaches the Regent's cycle: how to work with your inheritance consciously, move through it cleanly, and pass it forward without passing on the wounds.
+
+---
+
+### Draw the Axis — Honor ↔ Reform
+
+The draw is solo. Not a conflict between you and another person. Your inheritance. Your axis. What you personally received, kept, and are now in the middle of deciding about.
+
+**Try this now.**
+
+1. Name one inheritance you carry in allyship work: a practice, norm, or loyalty
+   you didn't invent but keep performing. (One sentence.)
+
+2. Draw the axis:
+
+   **HONOR WHAT WAS PASSED** ←——●——→ **REFORM WHAT NO LONGER SERVES**
+
+   Mark where you are today.
+
+3. Write one integrated sentence that holds both poles at once:
+   *"I stay with __________ because it still __________,
+   and I need __________ to change before I can keep showing up honestly."*
+
+4. Sit 30 seconds. Notice: heaviness (pole A stuck) or heat (pole B stuck) or ground (integrated).
 
 ---
 
@@ -576,7 +580,7 @@ The one described above is the generic Fixer-Healer. Yours has its own shape, an
 
 ### Honor and Reform: Why the Repair Always Sounds Like Reform
 
-You drew the Honor ↔ Reform axis in Section 3. Here is why the Fixer-Healer is so hard to catch standing on it.
+You drew the Honor ↔ Reform axis in Section 4. Here is why the Fixer-Healer is so hard to catch standing on it.
 
 Both poles are real goods. A Regent who cannot honor will strip a tradition of the parts holding it up, because those parts are old and old reads as suspect. A Regent who cannot reform becomes a curator of a building nobody lives in. Every live inheritance sits somewhere on that axis, and where it sits comes down to a judgment call, and judgment calls about damage are precisely what a Fixer is for.
 

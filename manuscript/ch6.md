@@ -212,19 +212,6 @@ You can picture the failure at each end. Structure without Agency builds a machi
 
 The pair gets specific for the student the School of the Pattern attracts. The suspicion runs one direction. Agency language has warnings attached to it at this altitude, and rightly: *personal responsibility* has done a great deal of work for people who wanted nothing to change. Structure language has none. It arrives sounding like analysis, like sophistication, like the opposite of blame. So the drift runs toward a structural account of every situation you were personally in, the one account that never requires you to have been there as a person. In practice it is cruelty, specified as rigour.
 
-Neither pole is the answer. The position takes a judgment call every time, and only a directional diagnostic works.
-
-**Situational draw: Structure ↔ Agency**
-
-Take the last workplace failure you explained to somebody.
-
-1. Write the explanation you gave, in one sentence.
-2. Mark it: Structure, Agency, or both.
-3. Now do the same for the four before it.
-
-Five marks. Read the column, not any single row. A run of five in one direction
-is not five judgments. It is one habit, applied five times.
-
 <!-- SIGNATURE -->
 > the fourth treatise, submitted by Irix Vale, Patternwright,
 > Head of the School of the Pattern
@@ -273,6 +260,21 @@ Hand Off is also where the Architect most often walks away, and workload has not
 ---
 
 The five Architect modes are five ways logic moves through a problem. Each one works as a channel doing detection work.
+
+### Draw the Axis — Structure ↔ Agency
+
+Neither pole is the answer. The position takes a judgment call every time, and only a directional diagnostic works.
+
+Take the last workplace failure you explained to somebody.
+
+1. Write the explanation you gave, in one sentence.
+2. Mark it: Structure, Agency, or both.
+3. Now do the same for the four before it.
+
+Five marks. Read the column, not any single row. A run of five in one direction
+is not five judgments. It is one habit, applied five times.
+
+---
 
 ### EA Channel Alignment — How Each Mode Moves Energy
 
@@ -445,7 +447,7 @@ The one described above is the generic version. Yours converts in its own way, a
 
 ### Structure and Agency: Why the Fix Always Sounds Like Systems Thinking
 
-You drew the Structure ↔ Agency axis in Section 3. Here is why the Emotional Body is nearly impossible to catch standing on it, and why the chapter gave you a polarity instead of a rule.
+You drew the Structure ↔ Agency axis in Section 4. Here is why the Emotional Body is nearly impossible to catch standing on it, and why the chapter gave you a polarity instead of a rule.
 
 Both poles are real goods. That condition is what makes the shadow workable. A distortion that had to argue for something false would be caught in a week. The Emotional Body does not argue for coldness: you would notice coldness. It argues for Structure, and Structure is half the truth. *This is not about that person, it is about the incentive. Blame is a dead end. The individual is not the leverage point.* Each of those can be correct. Each of them is correct sometimes. You can spend an entire career at the Structure end of a real polarity and call it sophistication, and no single instance will look like an evasion, because no single instance is one.
 

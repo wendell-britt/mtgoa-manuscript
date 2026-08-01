@@ -186,6 +186,27 @@ Both poles have a failure state, and the failure states do not look alike. Care 
 
 One part of this belongs specifically to this reader, and it explains why the axis reads as hard to see rather than hard to accept. You are fluent in one pole and suspicious of the other. The Care end has a vocabulary (holding, tending, centering, making space) and the Impact end, at this altitude, mostly has warnings attached to it. So the drift runs one direction and never announces itself. Nobody drifts toward Care in a single dramatic act of avoidance. It happens one reasonable call at a time, and each call is defensible.
 
+<!-- SIGNATURE -->
+> the fifth treatise, submitted by Elian Cross, Keeper of the Walk-Away Terms,
+> Head of the School of the Bridge
+<!-- /SIGNATURE -->
+
+
+*Back to the chapter.*
+
+*For the full process and additional pairs, see Appendix F: The Polarity Map.*
+
+---
+
+## Section 4: The Practice
+### *The Five Channels — How the Diplomat Actually Works*
+
+*Emotional alchemy vocabulary: every move below carries a type label. **Dissatisfaction moves** alchemize a negative charge into a positive one. **Neutral channel moves** redirect a negative pattern into a neutral structure. **Satisfaction moves** amplify what is already working. If these terms are unfamiliar, Chapter 3 (The Shaman) has the full system.*
+
+---
+
+### Draw the Axis — Care ↔ Impact
+
 The draw is relational. Not solo. Pick a live field with actual people in it, because this axis only shows its position when something is at stake between you and somebody else.
 
 **Try this now.**
@@ -205,23 +226,6 @@ The draw is relational. Not solo. Pick a live field with actual people in it, be
 
 4. Sit 30 seconds. Notice: heaviness (Care stuck) or heat (Impact stuck)
    or ground (integrated).
-
-<!-- SIGNATURE -->
-> the fifth treatise, submitted by Elian Cross, Keeper of the Walk-Away Terms,
-> Head of the School of the Bridge
-<!-- /SIGNATURE -->
-
-
-*Back to the chapter.*
-
-*For the full process and additional pairs, see Appendix F: The Polarity Map.*
-
----
-
-## Section 4: The Practice
-### *The Five Channels — How the Diplomat Actually Works*
-
-*Emotional alchemy vocabulary: every move below carries a type label. **Dissatisfaction moves** alchemize a negative charge into a positive one. **Neutral channel moves** redirect a negative pattern into a neutral structure. **Satisfaction moves** amplify what is already working. If these terms are unfamiliar, Chapter 3 (The Shaman) has the full system.*
 
 ---
 
@@ -524,7 +528,7 @@ It shows up in a single beat. Someone tells you that something you did landed ba
 
 ### Care and Impact: Why the Ledger Always Sounds Like Care
 
-You drew the Care ↔ Impact axis in Section 3. Here is why the Victim is nearly impossible to catch standing on it.
+You drew the Care ↔ Impact axis in Section 4. Here is why the Victim is nearly impossible to catch standing on it.
 
 Both poles are real goods, and this chapter is unusual in the book because its reader is fluent in one of them and suspicious of the other. You know both failure states: the warm attendance that changes nothing, and the true thing said in a way that ends the conversation. Every live relationship sits somewhere on that axis, and where it sits is a judgment call, and judgment calls about what something costs are precisely what a ledger is for.
 

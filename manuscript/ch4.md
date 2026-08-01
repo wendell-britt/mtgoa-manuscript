@@ -202,27 +202,6 @@ Both poles have a failure state, and the failure states do not mirror each other
 
 Here is the part specific to this reader. The suspicion runs one direction. Force has warnings attached to it at this altitude and Restraint has a vocabulary: discernment, deference, not centering yourself, waiting to be invited. Every word in that vocabulary names something real. They also make one end of the axis sound like a virtue and the other end sound like a risk, which means the drift never has to announce itself. Nobody sits down at Restraint in a single decision. It accumulates one defensible call at a time.
 
-The draw is situational. Not solo, not relational: pick a specific moment where a crossing happened and something in you decided.
-
-**Try this now.**
-
-1. Name one moment in the last month where something crossed
-   and you did not say it. (One sentence, no explanation.)
-
-2. Draw the axis:
-
-   **FORCE** ←——●——→ **RESTRAINT**
-
-   Mark where you actually stood in that moment.
-   Not where you'd defend standing.
-
-3. Write one integrated sentence that holds both poles at once:
-   *"I held back __________ because __________ was real,
-   and the line I did not draw was __________."*
-
-4. Sit 30 seconds. Notice: heat with nowhere to go (Force stuck
-   inside), heaviness (Restraint stuck), or ground (integrated).
-
 <!-- SIGNATURE -->
 > the second treatise, submitted by Corin Ash, Master of the Clean No,
 > Head of the School of the Line
@@ -243,6 +222,31 @@ Here's what the Challenger actually does. Not the idea of confrontation. The act
 The Challenger's native material is *will.* Not willpower, not determination: the raw energy of pushing back, drawing lines, refusing, demanding, confronting. The Challenger works the same Fire/Anger channel the Shaman taught you to read, but at a different altitude: not "what is this anger telling me" but "how do I wield this anger cleanly in the world."
 
 This distinction matters. The Shaman reads the fire. The Challenger uses it.
+
+---
+
+### Draw the Axis — Force ↔ Restraint
+
+The draw is situational. Not solo, not relational: pick a specific moment where a crossing happened and something in you decided.
+
+**Try this now.**
+
+1. Name one moment in the last month where something crossed
+   and you did not say it. (One sentence, no explanation.)
+
+2. Draw the axis:
+
+   **FORCE** ←——●——→ **RESTRAINT**
+
+   Mark where you actually stood in that moment.
+   Not where you'd defend standing.
+
+3. Write one integrated sentence that holds both poles at once:
+   *"I held back __________ because __________ was real,
+   and the line I did not draw was __________."*
+
+4. Sit 30 seconds. Notice: heat with nowhere to go (Force stuck
+   inside), heaviness (Restraint stuck), or ground (integrated).
 
 ---
 
@@ -557,7 +561,7 @@ It shows up in a single beat. Someone says the thing in the meeting. Heat arrive
 
 ### Force and Restraint: Why the Audit Is So Hard to Catch
 
-You drew the Force ↔ Restraint axis in Section 3. Here is why the Skeptic is nearly impossible to catch standing on it, and why the chapter gave you a polarity instead of a rule.
+You drew the Force ↔ Restraint axis in Section 4. Here is why the Skeptic is nearly impossible to catch standing on it, and why the chapter gave you a polarity instead of a rule.
 
 Both poles are real goods. A Challenger who cannot restrain is a hazard: every charge becomes a line, every line becomes a confrontation, and the people around them start managing them instead of working with them. A Challenger who cannot force is furniture. Every live moment sits somewhere on that axis, and where it sits takes a judgment call. Judgment calls are precisely what an auditor is for.
 
