@@ -60,7 +60,7 @@ RULES = [
     # kept as the regression guard: remove or break that strip and the headers
     # reappear in the scanned text and this fires again.
     ('production-metadata',
-     r'^\*\*(Status|Authority|Location in book|Timing dependency|Depends on|'
+     r'^\*\*(Status|Authority|Location in book|Book body|Timing dependency|Depends on|'
      r'Blocked by|Revised|Ported):\*\*',
      'internal provenance that belongs in the repo, not in the book'),
     # Author-slot convention, added 2026-07-31. When a form requires N concrete

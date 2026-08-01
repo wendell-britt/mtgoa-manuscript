@@ -4,8 +4,6 @@
 **Authority:** *Igniting Joy* (Wendell Britt); appendix design spec 2026-05-21 (Decision 5).
 **Location in book:** After Appendix C; before Appendix E. In the toolkit cluster (C Five Channels / D Emotional Alchemy / E 3-2-1 Shadow Process / F Polarity Map), which sits before Appendix G (the bibliography).
 
-> **Note on the no-somatic directive.** The book's prose never narrates the reader's interior — that reads as manipulation, and it's barred everywhere in the body of the book. This appendix is the one deliberate exception, and it earns the exception the same way the book earns its other body claims: by sourcing them. These are three named, opt-in practices from a prior, published book of mine. The reader chooses to open this page and run them. That's a toolkit you reach for, not a felt-sense I assert about you. Keep it framed that way — invitation and lineage, never prescription mid-argument.
-
 ---
 
 The book asks you to do things with your emotions that are hard to do when the charge is already running — read a channel, run a WAVE, stay at the table after you've named the game. These three practices are the body's way in. They predate this book; they come from *Igniting Joy*. Use them when the framework asks for something your state won't let you reach yet.

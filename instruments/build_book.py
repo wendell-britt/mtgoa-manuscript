@@ -135,7 +135,7 @@ MARGINALIA = re.compile(
 # Stripped only inside the header block — above the first `---` rule — so a
 # legitimate bolded label in body prose is never touched.
 META_KEY = re.compile(
-    r"^\*\*(Status|Authority|Location in book|Timing dependency|Depends on|"
+    r"^\*\*(Status|Authority|Location in book|Book body|Timing dependency|Depends on|"
     r"Blocked by|Revised|Ported|Type|Source|Created):\*\*.*$", re.M)
 
 
