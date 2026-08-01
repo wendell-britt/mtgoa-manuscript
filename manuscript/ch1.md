@@ -80,7 +80,7 @@ Allyship looks like the honorable place to bring those questions, and springs th
 - Allyship means never causing harm.
 - Allyship means having the right framework.
 
-(The app runs a short, unflattering diagnostic that tells you which of these are yours and hands each one back with the page that takes it apart. It scores how you actually behave, and it will not tell you which kind of ally you are, because that question belongs to the trap.)
+(A short, unflattering diagnostic at masteringallyship.com tells you which of these are yours and hands each one back with the page that takes it apart. It scores how you actually behave, and it will not tell you which kind of ally you are, because that question belongs to the trap.)
 
 Every one of them holds a little truth, and that truth keeps them alive. Goodness matters, language matters, repair matters. The damage starts when one of them becomes the whole definition. The day allyship means being good, every exchange turns into a test you are taking, and the person in front of you stops being a person and becomes the examiner. You stop watching them and start watching yourself for proof that you passed. The help never lands, because you were looking at the scoreboard in your own head the whole time. You spend everything, they receive almost nothing, and you go home wondering why caring this much leaves you this empty. That emptiness is the receipt for a game that was never built to be won. It was built to keep you playing.
 
@@ -202,13 +202,13 @@ This is your character sheet, a few lines filled in for who you are right now.
 
 **Your shadow.** Your home face has a bad night. Tired, scared, or spent, it stops being your strength and turns into the thing you overplay: the Diplomat who keeps the peace until nothing gets decided, the Challenger who scorches the people he came to protect. You catch this one by feel: under strain it comes in heavier, tighter, more reactive than your real move. Write down the version of your face you fall into on empty. Treat it as your tell rather than your enemy.
 
-**Your myth.** Back at the start you met the ten versions of *allyship means being good*. Write down the one that runs you hardest, the rule you have been playing by without ever agreeing to it. (The app's Myths Read sorts your real top few, unflattering and exact, and turns each one into a first move.)
+**Your myth.** Back at the start you met the ten versions of *allyship means being good*. Write down the one that runs you hardest, the rule you have been playing by without ever agreeing to it. (The Myths Read sorts your real top few, unflattering and exact, and turns each one into a first move.)
 
 **Your quest.** Not "get better at allyship." A cause. The specific fight, community, or person you are actually in this for. Name them. This is who your range is for.
 
 That is the sheet for now. It fills in as you play: a superpower you will only spot in motion, an autopilot pattern you will catch yourself running, a line added in every chapter ahead.
 
-Pen and paper hold this fine. The app holds it better: it keeps the sheet somewhere you will actually find it, dates every version, and shows you how your face, your shadow, and your myths move across a year of play, the change you cannot see from inside a single week. It is the same app that keeps your BARs, and your book comes with thirty days in it.
+Pen and paper hold this. Date every version, and across a year of play you can watch your face, your shadow and your myths move, which is the change you cannot see from inside a single week.
 
 ## The Reader's Oath
 
@@ -246,7 +246,7 @@ A **BAR** is that card. Captured charge: one moment of your own play, caught whi
 
 The name is the method. **B**reakthrough: what hit you. **A**ction: the one move it points to. **R**eflection: what changed when you moved. The first is what you write while the charge is live; the other two after you have spent it on a move.
 
-The cards live in the app now, so you are not carrying a paper deck in your coat. Every BAR becomes a card in a deck that is yours, built from what actually hit you instead of someone else's checklist. Read, capture, move, and by the last chapter you hold a deck no one else could have built. Stuck in a live moment a year from now, you draw from it and it hands you back something you earned once already. That is what the notebook on the shelf never did: it kept the thing that changed you where you could pick it up and play it again.
+Every BAR becomes a card in a deck that is yours, built from what actually hit you instead of someone else's checklist. Read, capture, move, and by the last chapter you hold a deck no one else could have built. Stuck in a live moment a year from now, you draw from it and it hands you back something you earned once already. That is what the notebook on the shelf never did: it kept the thing that changed you where you could pick it up and play it again.
 
 ## Your First BAR
 
@@ -254,7 +254,7 @@ Before you go in, make your first BAR.
 
 Something in this chapter hit you, or something from the last few days still sits with you. Find that one thing and write it down. One or two sentences, in whatever words are already in your head. You are not solving it or explaining it. You are catching it before it fades, the way I caught mine on those poker cards.
 
-Then keep it on you. Put it in the app, where it becomes the first card in your deck and stays in reach for the rest of the book.
+Then keep it on you. That card is the first in your deck, and it stays in reach for the rest of the book.
 
 That is the whole move. You wrote down something that impacted you, and you kept it somewhere you will actually find it again. Reading gave you the hit. This is you keeping it.
 
@@ -266,4 +266,4 @@ Make the move.
 
 *Playing along*
 
-Your book comes with thirty days in the app, where the BAR you just wrote becomes the first card in your deck and your captures stay in reach as you read. Activate it, and find the hundred-and-twenty-card deck for when you want the moves in your hands, at **[ URL / QR ]**.
+Find the hundred-and-twenty-card deck, for when you want the moves in your hands, at **[ URL / QR ]**.
