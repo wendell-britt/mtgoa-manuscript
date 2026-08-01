@@ -128,10 +128,21 @@ the thing that makes that practice better.
    who cannot name it unaided. **Unverified:** WebFetch returned 403 from the site
    (proxy healthy, no relay failures), so the page was not confirmed to render.
    Confirm before press — a dead pointer in print is the defect DL-20 exists for.
-4. **`about_the_author`** — *"builder of bars-engine, the app this book routes
-   to"* is a biography line, not a routing line. Keep as biography, or cut?
-5. **Appendix B's quest routing** — quests end in a capture, full stop, or does
-   the capture get a named home?
+4. ~~**`about_the_author`** — *"builder of bars-engine, the app this book routes
+   to"* is a biography line, not a routing line. Keep as biography, or cut?~~
+   **RULED 2026-08-01: cut.** Wendell: *"Cut it. The bio needs to focus on other
+   things anyway."* bars-engine leaves the book entirely and the bio was replaced
+   with his own copy. The *Igniting Joy* credit survives at `APPENDIX_D:58` and
+   `copyright.md:46`, and `masteringallyship.com` at `copyright.md:58` and `ch1:83`,
+   so nothing structural went with it. **shipcheck `app routing` now reads clear.**
+5. ~~**Appendix B's quest routing** — quests end in a capture, full stop, or does
+   the capture get a named home?~~ **RULED 2026-08-01: the capture gets a named
+   home, and the home is her own deck.** Wendell: *"Put it in your deck."* Applied
+   once at `APPENDIX_B:17`, the formula line all eleven quest captures inherit,
+   rather than at each quest. The home is the deck ch9 now points at — the BARs she
+   has been logging since ch3, written in her hand — so the pointer resolves to
+   paper she already owns, with nothing unshipped behind it. Improves the line it
+   joins: waste 1.93 to 1.57, empty 1.55 to 1.05.
 
 ## 6 · Sequencing
 

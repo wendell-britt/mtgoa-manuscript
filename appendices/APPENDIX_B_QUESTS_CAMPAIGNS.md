@@ -14,7 +14,7 @@ What follows isn't homework and it isn't a recap — the book already taught the
 
 Pick the one that's pulling at you. Not the one you should do. The one that's already calling.
 
-Every quest ends the same way: you capture what moved. That capture is the BAR — the record that turns a single rep into a pattern you can see. Without it, the quest is just a nice afternoon. With it, it's data on who you're becoming.
+Every quest ends the same way: you capture what moved. That capture is the BAR — the record that turns a single rep into a pattern you can see. Put it in your deck, the one you have been building since the Shaman, written in your hand about your own play. Without it, the quest is just a nice afternoon. With it, it's data on who you're becoming.
 
 ---
 
