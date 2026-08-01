@@ -575,11 +575,11 @@ Name the Field makes no diagnosis. It makes an offering. You say *here is what I
 
 ---
 
-### Move 2: Translate Across Camps
+### Move 2: Carry the Other Camp's Case
 
 *Prerequisite: Move 1 (the field is named, now you can work with it)*
 
-**What it is:** Once the field is named, the Diplomat's second move is to take what one camp is saying and render it faithfully into the language of another.
+**What it is:** After you name the field, you state one camp's case in the other camp's language, out loud, with your own side listening. The Translator mode taught you how to carry meaning across. Here you carry it where the people who expect your loyalty can hear you do it.
 
 This is not summarizing. Summarizing is compression: you take the essence of what's being said and make it shorter. Translating is conversion: you take the meaning and render it into an entirely different framework without losing the truth of it.
 
@@ -633,11 +633,11 @@ The close lands clean when there's nothing left to add and you don't reach to fi
 
 ---
 
-### Move 4: Repair After Rupture
+### Move 4: Go Back First
 
 *Prerequisite: some real trust has been built. This move requires a history*
 
-**What it is:** When trust breaks, and it will, the Diplomat has a specific structure for repair that most people skip because it requires saying things that are uncomfortable in a specific order.
+**What it is:** When trust breaks, and it will, somebody has to reopen the conversation. The Repairer mode taught you the order to say things in. You go back before the other person does, and going back first costs more than the saying does.
 
 The structure:
 
@@ -755,7 +755,7 @@ Here is what the Diplomat carries forward into the book:
 - The five modes: Bridge-Builder, Translator, Field-Holder, Repairer, Integrative Negotiator
 - The Care ↔ Impact axis, and the knowledge that the drift is one-directional
 - The Victim, the part that keeps an exact ledger, and what it is for once it stops setting the terms of your standing
-- The five game moves: Name the Field, Translate Across Camps, Close with Honest Terms, Repair After Rupture, Refuse False Equivalence
+- The five game moves: Name the Field, Carry the Other Camp's Case, Close with Honest Terms, Go Back First, Refuse False Equivalence
 - The Diplomat's twenty cards, and the superpower they are for: Connector, connection that has survived being told the truth
 
 Here is the question that carries you out of this chapter and into the next: **When the Diplomat's tools are not enough, when one camp is playing a power game and the other is playing a harmony game and the conflict is altitudinal, who names that?**

@@ -294,7 +294,7 @@ So before you trust the view, check the one thing that gives it away. Are you in
 
 Three of the maps in this chapter are not mine, and you should know whose they are before you use them. The inner voices, and the practice of speaking as each one rather than about it, come from Genpo Roshi's Big Mind Process. The rule that you carry the lower altitudes instead of leaving them behind is Ken Wilber's, and it is the structural logic of the whole book. *Evolutionary purpose* is Frederic Laloux's, and in his hands it describes something that happens to an organization rather than to a person, so I have borrowed it down a level and the borrowing is mine to answer for. Shamanic training gives the chapter its body-first reading and its return to felt sense. The Faces framework gives it the developmental arc, so the language doesn't collapse into one personality theory wearing five hats. You don't have to convert to any of them to use the work. You have to keep the maps from folding into each other. Appendix G says where to read each one.
 
-The Sage sees in five modes. Each one is a tool. Each one, run wrong, becomes a shadow.
+The Sage sees in five modes. Each one is a tool. Each one, run wrong, becomes a shadow. They run as a loop rather than a ladder: you do not climb them, you go around them, and going around once takes a moment or a year depending on the game.
 
 **Panoramic Seer.** The mode of taking in the whole field, even briefly. Holding all four games at once without collapsing into any of them.
 
@@ -433,19 +433,7 @@ The fix: before you return, check. *Am I coming back because the moment is done,
 
 ---
 
-### *The Stage Sequence: See → Switch → Serve → Release → Return*
-
-The five modes run as a loop. Call it a commitment loop rather than a developmental ladder: you don't climb it, you go around it.
-
-1. **See.** Take in the whole field. Name all the games in play. Don't collapse yet. *(Panoramic Seer, Metal/Fear)*
-2. **Switch.** Move to the game the situation actually requires. Choose deliberately, not from default. *(Game-Switcher, Fire/Anger)*
-3. **Serve.** Do the work that game calls for, and name what you see while you do it. Without superiority. Without checking out. *(Diagnostician, Earth/Neutrality)*
-4. **Release.** When the game ends, or when it stops being yours, put it down cleanly. *(Liberator, Wood/Joy)*
-5. **Return.** Come back to where the people are. Same game. Same person. Dignity intact for everyone. *(Returner, Water/Sadness)*
-
-The full loop takes a moment or a year, depending on the game. The sequence stays the same.
-
-Run it as a lived minute.
+Run the five as a lived minute.
 
 You walk into a meeting. Before anyone speaks, the Panoramic Seer takes one breath and reads it: *power-game table, and there's a boundary issue someone is working hard to avoid.* You note it. You don't act on it yet.
 
@@ -650,7 +638,7 @@ The distortion skips this move and stays at the whole-board view, because coming
 
 **Why it matters:** The release is harder than it sounds, because games have identity attached. *I am the person who holds this together.* *I am the person who fights for this.* *I am the person who keeps this safe.* The game becomes who you are rather than what you do, and putting it down means sitting with the loss of that: not pretending it didn't matter, letting it be finished.
 
-This is what the Release stage actually asks. Not ascent. Completion. The game ran its course. You learned what it had to teach. The next move isn't up, it's open-handed. Letting go says *this game was mine for a time, and it isn't anymore, and that's allowed.* Giving up never bothers to say anything.
+This is what putting a game down actually asks. Not ascent. Completion. The game ran its course. You learned what it had to teach. The next move isn't up, it's open-handed. Letting go says *this game was mine for a time, and it isn't anymore, and that's allowed.* Giving up never bothers to say anything.
 
 **Working vs. performed:** Putting down becomes giving up. The Sage who keeps dropping games before they've given what they have to give isn't practicing the Liberator, they're practicing avoidance. 
 
