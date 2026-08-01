@@ -155,6 +155,23 @@ always *is this the voice or is this drift*, and the default answer is drift.
 one, exactly as with the em-dash budget, which can ratchet down on its own and can only be
 raised by him.
 
+## Ship state is a different question
+
+`review.py` and `rescan.py` answer *is this prose good* and *what does this finding cost*.
+Neither answers *can the book ship*, and from 2026-08-01 that is the question that ranks:
+
+```
+python3 instruments/shipcheck.py        # the board
+python3 instruments/shipcheck.py -v     # every blocking site
+```
+
+Six categories, ordered by DL-20: app routing, placeholders, build gaps, gate, em-dash
+budget, marginalia round-trip. A blocker is something that reaches a reader wrong or
+incomplete. Everything else is quality, and quality does not stop a press.
+
+**Run it before proposing work.** A quality finding that outranks a blocker in your
+attention is the failure this instrument exists to prevent.
+
 ## What this does not replace
 
 `specs/SPEC_EXAMPLES_2026-07-31.md`, `SPEC_TWO_HANDS`, `SPEC_FACE_TARGETS` and
