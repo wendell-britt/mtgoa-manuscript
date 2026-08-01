@@ -63,6 +63,15 @@ RULES = [
      r'^\*\*(Status|Authority|Location in book|Timing dependency|Depends on|'
      r'Blocked by|Revised|Ported):\*\*',
      'internal provenance that belongs in the repo, not in the book'),
+    # Author-slot convention, added 2026-07-31. When a form requires N concrete
+    # instances only Wendell can supply - a remembered moment, a draft count, a
+    # note somebody actually gave him - the slot is marked `WENDELL:` and left
+    # unfilled rather than drafted. This rule exists because the alternative was
+    # demonstrated the same day: drafting into those slots produced invented
+    # biography that read well and was false. A form requiring N specifics will
+    # generate N specifics; the safeguard is the empty slot plus this rule.
+    ('author-slot', r'\bWENDELL:',
+     'a slot only the author can fill, deliberately left empty'),
 ]
 
 # Scan what SHIPS, not what sits on disk. `build_book.py` strips each component's
