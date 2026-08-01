@@ -29,7 +29,10 @@ sys.path.insert(0, HERE)
 
 from insertions import FRONT, BYLINE_NOTE, HANDBOOK, NOTES, POSTCARD, SIGNATURE
 
-CHAPTERS = [2, 3, 4, 5, 6, 7, 8, 9]
+# Ch2 left the frame on 2026-08-01 and now sits with ch1: no byline, no epigraph, no
+# margin. The fiction opens at front_matter/headmasters_letter.md, which falls between
+# ch2 and ch3 in the spine, so nothing in-world may appear before it.
+CHAPTERS = [3, 4, 5, 6, 7, 8, 9]
 # HANDBOOK added 2026-07-30. SPEC_SCHOOL_HANDBOOKS §8: it must join KINDS or --strip
 # orphans six pages and --apply duplicates them, compounding on every cycle.
 KINDS = ("MARGINALIA", "EPIGRAPH-BYLINE", "HANDBOOK", "SIGNATURE")

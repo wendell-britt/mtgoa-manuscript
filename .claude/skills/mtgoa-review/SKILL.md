@@ -22,14 +22,43 @@ python3 instruments/review.py DRAFT_FILE        # before it lands
 
 Then read the output and act on it, in this order.
 
+**0 · ELI5 first — write the passage twice.** Before drafting in register, write the
+same passage the way you would explain it to a five-year-old. Plain words, a person
+doing something, no house vocabulary. Then write the register version, and keep the
+ELI5 open beside it.
+
+Two things fall out, and both are cheap:
+
+- **If you cannot write the ELI5, you do not have the passage yet.** Stop and work out
+  what it says before spending words on how it says it.
+- **The diff between the two versions is the audit.** Every word in the register version
+  that is not in the ELI5 is either doing work or it is style. Ask which, one at a time.
+
+Wendell, 2026-07-31, after an ELI5 explained a passage better than the passage did:
+*"These ELI5 are violating the stylistic rules, but they are getting at the essence. We
+need to split the difference on this."* Measured on that pair, the ELI5 broke exactly one
+counter — `waste`, at 1.42 against the chapter's 0.58 — and it broke it because it used
+pronouns, which is the same reason it was readable. The register draft that scored 0.06
+on the same counter was the unreadable one.
+
+**So `waste` has a floor as well as a ceiling.** Aim for the chapter's own band, roughly
+0.5 to 0.9. A passage that almost never says *it* has stopped pointing at things.
+
+
 **1 · gate — hard fail.** Banned words (`rooms`, `quiet`, `genuinely`), sentence-initial
 *And*/*But*, glued em-dashes, negative stacks, live `⟦tokens⟧`. Any hit is a defect. Fix it,
 do not argue with it. A live token is the one thing standing between a placeholder and the
 typesetter.
 
 **2 · diet — a number for a thing you cannot see by eye.** Be-verbs, copula openings, waste
-words (*it / this / that / there*), zombie nouns, expletive openers, each as a ratio against
-the book's own baseline. Over 1.30 is heavy.
+words (*it / this / that / there*), zombie nouns, expletive openers, passives, and empty
+nouns (*thing / something / version / way / part / room*), each as a ratio against the
+book's own baseline. Over 1.30 is heavy.
+
+`empty` was added 2026-07-31 because the other six could not see the defect. Driving
+`waste` down removes pronouns, and empty nouns move in to replace them. The draft that
+prompted it measured 23.1 empty nouns per thousand against 0.0 in both sections it was
+written to sit beside, while every existing counter called it clean.
 
 Read the `-v` output for the actual sites rather than guessing:
 
@@ -80,6 +109,31 @@ counters, the worst-scoring prose of that session.
 draft file: write it to a file, run `review.py` on it, then paste it. Composing in the reply
 is where the check gets skipped, every time.
 
+## Show the diff before applying a sweep
+
+Added 2026-07-31, after applying twelve edits to ch7 and then four corrections on top of
+them, both times without showing Wendell first. He asked: *"Did you already correct those.
+I'd like to see the before and after before I approve them."* By then the answer was yes,
+twice.
+
+**A sweep is three or more edits driven by one counter, or any edit to prose already in the
+manuscript.** For a sweep:
+
+1. **Write the before-and-after out before touching the file**, one row per edit, each one
+   quoting **the whole sentence** rather than the fragment the counter highlighted.
+2. **Paste it and wait.** A counter finds candidates; only a reader approves them.
+3. Apply, then re-run the counter.
+
+**The fragment is enough to find an edit and not enough to judge one.** Four of those twelve
+were worse than what they replaced, and every one of the four looked fine as a six-word span:
+a correlative broken because only half of a *through … through* pair changed; *settled*
+meaning decided rewritten as *settles* meaning coming to rest; a passive replaced by
+something vaguer, in a sentence where nobody was doing the losing so there was no doer to
+promote. All three read correctly in isolation and wrongly in the sentence.
+
+**Single edits to fresh drafts do not need this.** The cost of the ceremony is only worth
+paying where the prose already exists and a reader has already accepted it.
+
 ## Registers, and when heavy is correct
 
 **A number is not a verdict.** The baseline is nine chapters of Wendell's expository prose,
@@ -100,6 +154,23 @@ always *is this the voice or is this drift*, and the default answer is drift.
 **Ask before adding one.** A register entry is a standing exemption and only Wendell can rule
 one, exactly as with the em-dash budget, which can ratchet down on its own and can only be
 raised by him.
+
+## Ship state is a different question
+
+`review.py` and `rescan.py` answer *is this prose good* and *what does this finding cost*.
+Neither answers *can the book ship*, and from 2026-08-01 that is the question that ranks:
+
+```
+python3 instruments/shipcheck.py        # the board
+python3 instruments/shipcheck.py -v     # every blocking site
+```
+
+Six categories, ordered by DL-20: app routing, placeholders, build gaps, gate, em-dash
+budget, marginalia round-trip. A blocker is something that reaches a reader wrong or
+incomplete. Everything else is quality, and quality does not stop a press.
+
+**Run it before proposing work.** A quality finding that outranks a blocker in your
+attention is the failure this instrument exists to prevent.
 
 ## What this does not replace
 

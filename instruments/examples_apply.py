@@ -58,25 +58,39 @@ def main():
     # Where an Example could be inserted: ch5's Moves run What it is / In practice / The
     # test, with no Example slot at all, which is why that chapter has never carried one.
     # The scene belongs between the instruction and the check.
-    tests, head = {}, None
+    tests, ends, head = {}, {}, None
     for i, l in enumerate(lines):
         s = l.strip()
         if s.startswith("#"):
+            if head:
+                ends[head] = i
             head = s.lstrip("#").strip()
         elif s.startswith("**The test:**") and head:
             tests.setdefault(head, i)
+    if head:
+        ends[head] = len(lines)
 
-    plan, inserts, problems = [], [], []
+    plan, inserts, moves, problems = [], [], [], []
     for h, new in pairs:
         got = seats.get(h, [])
         if len(got) == 1:
-            plan.append((got[0], h, new))
+            # ch8's Move 2 carries its Example AFTER its test, which every other Move in
+            # the book has the other way round. Replacing in place would preserve the
+            # inversion, so an out-of-order Example is lifted and reseated.
+            if h in tests and got[0] > tests[h]:
+                moves.append((got[0], tests[h], h, new))
+            else:
+                plan.append((got[0], h, new))
         elif not got and h in tests:
             inserts.append((tests[h], h, new))
+        elif not got and h in ends:
+            # ch8's Moves 3 and 5 have neither an Example nor a test, so the scene goes at
+            # the end of the Move's own section, before the next heading.
+            inserts.append((ends[h], h, new))
         else:
-            problems.append("draft heading %r matches %d Example(s) and %s a test line"
-                            % (h[:40], len(got), "has" if h in tests else "has no"))
-    claimed = set(i for i, _, _ in plan)
+            problems.append("draft heading %r matches %d Example(s), no test and no end"
+                            % (h[:40], len(got)))
+    claimed = set(i for i, _, _ in plan) | set(i for i, _, _, _ in moves)
     for h, idxs in seats.items():
         for i in idxs:
             if i not in claimed:
@@ -96,17 +110,26 @@ def main():
             print("L%-5d %s" % (i + 1, h[:56]))
             print("    was %3d words  %s..." % (len(old.split()), old[13:75]))
             print("    now %3d words  %s...\n" % (len(new.split()), new[13:75]))
-        print("%d replaced, %d inserted, every heading matched exactly once"
-              % (len(plan), len(inserts)))
+        for old, new_i, h, new in moves:
+            print("L%-5d %s" % (old + 1, h[:56]))
+            print("    REORDER to L%d  %s...\n" % (new_i + 1, new[13:70]))
+        print("%d replaced, %d inserted, %d reordered, every heading matched exactly once"
+              % (len(plan), len(inserts), len(moves)))
         return 0
 
     for i, _, new in plan:
         lines[i] = new
-    # Insert from the bottom up so earlier indices stay valid.
-    for i, _, new in sorted(inserts, key=lambda x: -x[0]):
+    # Drop the out-of-order originals first, marking rather than deleting so the indices
+    # gathered above stay valid, then insert everything bottom-up.
+    for old, _, _, _ in moves:
+        lines[old] = None
+    for i, _, new in sorted(inserts + [(n, h, x) for _, n, h, x in moves],
+                            key=lambda x: -x[0]):
         lines[i:i] = [new, ""]
+    lines = [l for l in lines if l is not None]
     io.open(path, "w", encoding="utf-8").write("\n".join(lines))
-    print("ch%d: %d replaced, %d inserted" % (ch, len(plan), len(inserts)))
+    print("ch%d: %d replaced, %d inserted, %d reordered"
+          % (ch, len(plan), len(inserts), len(moves)))
     return 0
 
 

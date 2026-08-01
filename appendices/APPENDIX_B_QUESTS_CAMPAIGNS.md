@@ -3,7 +3,6 @@
 **Status:** Draft — written 2026-06-03 from appendix design spec (`docs/plans/2026-05-21-appendix-design.md`) + per-chapter WB-1 centerpieces + `GATE_GIFTS_ALLYSHIP_MOVES.md`. De-somatized per the no-somatic-prescription directive.
 **Authority:** Integral design spec 2026-05-21 (Hex 50, The Cauldron); quest/gate/domain table locked there.
 **Location in book:** After Appendix A; before Appendix C (The Five Channels in Practice).
-**Timing dependency:** Each quest routes to the app for BAR capture. The bars-engine quest structures named below (`→ app: [Quest Name]`) must exist before this appendix goes to press. Coordinate before press.
 
 ---
 
@@ -15,7 +14,7 @@ What follows isn't homework and it isn't a recap — the book already taught the
 
 Pick the one that's pulling at you. Not the one you should do. The one that's already calling.
 
-Every quest ends the same way: you open the app and capture what moved. That capture is the BAR — the record that turns a single rep into a pattern you can see. Without it, the quest is just a nice afternoon. With it, it's data on who you're becoming.
+Every quest ends the same way: you capture what moved. That capture is the BAR — the record that turns a single rep into a pattern you can see. Without it, the quest is just a nice afternoon. With it, it's data on who you're becoming.
 
 ---
 
@@ -34,7 +33,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 
 1. Once a day, after a moment where you tried to help, name which gate was running in you. Just name it. Don't manage it.
 2. By the end of the week, name your two most-traveled gates — the ones that show up first when the pressure is on.
-3. Capture each day's gate, one line. → app: *The Forest Walk.*
+3. Capture each day's gate, one line.
 
 ---
 
@@ -47,7 +46,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 
 1. Before you respond to anything charged this week, name the channel that's running. Out loud if you can.
 2. Run one full WAVE in a live moment — the one from Chapter 3 — and let the read change your next move, not just your understanding of it.
-3. Capture what the channel did once you worked *with* it instead of around it. → app: *The Shaman Read.*
+3. Capture what the channel did once you worked *with* it instead of around it.
 
 ---
 
@@ -60,7 +59,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 
 1. When you feel the pull to react fast this week, run the 30-Second Protocol from Chapter 4 first. The pause is the move.
 2. Ask one person the question nobody present is asking — aimed at what the situation is actually about, not at scoring a point.
-3. Capture what the second look showed you that the first reaction missed. → app: *The Challenger's Question.*
+3. Capture what the second look showed you that the first reaction missed.
 
 ---
 
@@ -73,7 +72,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 
 1. List what you've inherited that gives you standing here: access, credibility, position, relationships, the benefit of the doubt.
 2. Name one inheritance out loud to the people who actually hold it — and say whether you're claiming it or moving to reform it (the Chapter 5 move).
-3. Set one concrete limit that keeps you functional, and capture: what did you name, and what did it make possible? → app: *The Regent's Inventory.*
+3. Set one concrete limit that keeps you functional, and capture: what did you name, and what did it make possible?
 
 ---
 
@@ -86,7 +85,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 
 1. Find the unstated assumption holding a situation in place. Name it to yourself first, exactly.
 2. Say it out loud to the people inside the situation — hold the flinch, stay warm while you stay clear (the Chapter 6 move).
-3. Choose one standard deliberately and design a single condition that holds it. Capture what you built. → app: *The Architect's Blueprint.*
+3. Choose one standard deliberately and design a single condition that holds it. Capture what you built.
 
 ---
 
@@ -99,7 +98,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 
 1. Enter one situation this week to learn something, not to win it. Pick your orientation: grow, learn, play, or explore.
 2. Close with honest terms — say the true thing about where things actually stand, then make real contact across the gap (the Chapter 7 move).
-3. Capture the surprise — what happened that you didn't see coming? If nothing surprised you, curiosity wasn't leading. → app: *The Diplomat's Bridge.*
+3. Capture the surprise — what happened that you didn't see coming? If nothing surprised you, curiosity wasn't leading.
 
 ---
 
@@ -112,7 +111,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 
 1. **See it.** Name the pattern actually running in a space you're in — the game underneath the conversation.
 2. **Say it.** One sentence that makes the game visible to someone caught inside it. Plain, not clever.
-3. **Stay.** Don't drift up after you've named it. Remain at the table. Capture what shifted when you stayed. → app: *The Sage's Principle.*
+3. **Stay.** Don't drift up after you've named it. Remain at the table. Capture what shifted when you stayed.
 
 ---
 
@@ -125,7 +124,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 
 1. Each week, pick a different domain — Gather Resources, Skillful Organizing, Direct Action, Raise Awareness — and run one rep in it.
 2. Each day, one small move from any gate. Capture it the same day.
-3. At thirty days, read your BARs back. Which gate grew? Which domain is calling next? That answer is your next quest. → app: *The Player's Full Game.*
+3. At thirty days, read your BARs back. Which gate grew? Which domain is calling next? That answer is your next quest.
 
 ---
 
@@ -144,7 +143,7 @@ A quest is solo. A campaign is the same kind of practice, run longer and out lou
 - **Week 2 — Move it.** Transfer one real resource to someone who needs it. It has to cost you something. Capture what moved.
 - **Week 3 — Track it.** What did the transfer free up? Capture the downstream effect.
 
-**Run it with a partner:** check each other's transfers. Did something actually move, or did it just feel generous? → app: *Gather Resources Campaign.*
+**Run it with a partner:** check each other's transfers. Did something actually move, or did it just feel generous?
 
 ---
 
@@ -157,7 +156,7 @@ A quest is solo. A campaign is the same kind of practice, run longer and out lou
 - **Week 2 — Set the terms.** Name the standards and the limits out loud. Capture what held.
 - **Week 3 — Build one thing.** Make a single condition durable — one that keeps running after you step back. Capture it.
 
-**Run it with a group:** a team holds the container together; no one carries it alone. → app: *Skillful Organizing Campaign.*
+**Run it with a group:** a team holds the container together; no one carries it alone.
 
 ---
 
@@ -170,7 +169,7 @@ A quest is solo. A campaign is the same kind of practice, run longer and out lou
 - **Week 2 — Intervene once.** One clean intervention on the thing within your scope. Capture what you did.
 - **Week 3 — Step back and account.** Does it still need you, or does it run without you? Name the damage you chose to take. Capture both.
 
-**Run it with an accountability partner:** they hold you to scope (no overreach) and to chosen damage (not the kind that just accumulates). → app: *Direct Action Campaign.*
+**Run it with an accountability partner:** they hold you to scope (no overreach) and to chosen damage (not the kind that just accumulates).
 
 ---
 
@@ -183,8 +182,8 @@ A quest is solo. A campaign is the same kind of practice, run longer and out lou
 - **Week 2 — Tell it.** Put the story in the right form — a post, a conversation, a document, a message to one person. Capture how you told it.
 - **Week 3 — Track the shift.** What awareness actually moved? Not how it performed — what changed in someone. Capture it.
 
-**Run it with an audience:** community or public, where the story can do its work. → app: *Raise Awareness Campaign.*
+**Run it with an audience:** community or public, where the story can do its work.
 
 ---
 
-*Every quest and campaign routes to the app for capture. The capture is the point — it's how a single rep becomes a record, and a record becomes the player you're becoming. Lost which gate or domain is yours right now? Appendix A has the diagnostic.*
+*Every quest and campaign ends in a capture. The capture is the point — it's how a single rep becomes a record, and a record becomes the player you're becoming. Lost which gate or domain is yours right now? Appendix A has the diagnostic.*

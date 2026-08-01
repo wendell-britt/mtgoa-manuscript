@@ -74,4 +74,4 @@ The map is preparation. The move is the practice.
 
 ---
 
-*When you run a Polarity Map in the field, capture it: the pair, where your dot sat, and the one integrated move you made. Open bars-engine → Polarity Map. Over time the captures show you which pair is your home tension — the one you keep having to re-center, in situation after situation.*
+*When you run a Polarity Map in the field, capture it: the pair, where your dot sat, and the one integrated move you made. Over time the captures show you which pair is your home tension — the one you keep having to re-center, in situation after situation.*

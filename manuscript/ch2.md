@@ -1,33 +1,6 @@
 # CHAPTER 2: THE FOREST — Why Allyship Keeps Failing (and Where to Start)
 ## *You Cannot Ally from a Place You Have Not Explored*
 
-
-<!-- EPIGRAPH-BYLINE -->
-> *Tull walked me out and said nothing for an hour. At the treeline he said "you can stop here,"
-> and I understood that he meant it, which is the only reason I did not stop.*
->
-> — first walk, name not recorded
->
-> *They came ashore and fixed nothing for eleven days. On the twelfth they did one thing, and the
-> harbour has worked since. I do not know how they chose it. I have stopped needing to.*
->
-> — Oreve, harbour records
->
-> set down by Bram Tull, Caretaker, who was asked eleven times
-<!-- /EPIGRAPH-BYLINE -->
-
-<!-- MARGINALIA -->
-> *Bram is not faculty. He has declined to become faculty on eleven occasions, four of them in
-> writing. The Heads each carry an epithet, selected with a certain amount of ceremony. Bram has a
-> job, and has indicated that he finds this arrangement satisfactory and would prefer we stop
-> raising it.*
->
-> *He agreed to set this down because he is the only person aboard who has walked every new student
-> out the first time, and because the alternative was a committee. I want you to know what these
-> pages cost. They cost a favour I am still paying off, and a silence in a corridor that I would
-> describe as the longest of my career.*
-<!-- /MARGINALIA -->
-
 ---
 
 ## Section 1: Urgency
@@ -39,22 +12,11 @@ It shows up closer in than the headlines: the meeting that goes sideways, the co
 
 It usually starts small. A conversation that goes wrong. A relationship that fractures over something that shouldn't have been able to break it. A moment when showing up to help turns out to have made it worse.
 
-Nothing gives it a name at first. Just the feeling — the one that shows up late at night, or early in the morning, or in the middle of a conversation that's going fine on the surface and completely wrong underneath.
+Nothing gives it a name at first. Just the feeling, the one that shows up late at night, or early in the morning, or in the middle of a conversation that's going fine on the surface and completely wrong underneath.
 
 The feeling is this: *this isn't working.*
 
-<!-- MARGINALIA -->
-> *Every world we put in at has a version of this paragraph. The wording varies. Once it was a
-> song.*
->
-> *You are not being told something new — you are being told it somewhere it is finally
-> allowed to be said out loud, which is a different service and worth more than it sounds. I have
-> heard it delivered by a harbour official who had been awake for two days, and by a child who was
-> entirely calm about it. The child was more accurate.*
-<!-- /MARGINALIA -->
-
-
-The subject of that sentence is the work. Your effort is real. Your intentions are real. Something else is failing.
+*This isn't working* is a verdict on the work, not on you. Your effort is real. Your intentions are real. Something else is failing.
 
 That hum doesn't go away when you put down the phone. It lives in the body before it reaches the mind, and it doesn't resolve with the next action item.
 
@@ -74,7 +36,7 @@ Carolyn Elliott, whose work on shadow retrieval grounds the daemon work in this 
 
 Hold these three words, because the whole book turns on them. The **Shadow** is the disowned material itself. When one of your Faces runs *from* that material instead of being chosen, you get that **Face in distortion**: the gift turned against the people it was meant to serve. When a daemon runs the show instead of you, it exacts a **cost**, paid by you and by whoever you were trying to help. One word each: Shadow, distortion, cost. They are not the same thing, and the work is to tell them apart.
 
-The daemon work doesn't ask you to fix the Shadow — it asks you to find out what it has been protecting. That is a different project entirely, and it produces different results.
+The daemon work doesn't ask you to fix the Shadow. It asks you to find out what it has been protecting. That is a different project entirely, and it produces different results.
 
 Here's why: we're trying to navigate terrain we haven't mapped. We're trying to be allies in a world that demands capacities we were never taught to build. We don't build them because we weren't told the work starts somewhere deeper than performative showing up.
 
@@ -96,7 +58,7 @@ The old allyship tells you what to do. It doesn't tell you how to be the kind of
 
 The old allyship produces moments of brilliance and long stretches of exhaustion. It produces people who care enormously and accomplish less than they could because they keep hitting the same wall. The wall that's not in the world, it's in them.
 
-Most people who do this work long enough hit a moment when the map turns out to be wrong — not about the destination, about where they had to start. The walking went in the wrong direction, and no one had mentioned a different starting point. By the time that lands, something has usually already been spent: energy, time, sometimes a relationship, sometimes the belief that you could be the kind of ally you wanted to be.
+Most people who do this work long enough hit a moment when the map turns out to be wrong, not about the destination, about where they had to start. The walking went in the wrong direction, and no one had mentioned a different starting point. By the time that lands, something has usually already been spent: energy, time, sometimes a relationship, sometimes the belief that you could be the kind of ally you wanted to be.
 
 Some of what gets called burnout is that cost still being carried. It sits closer to sadness than to fatigue: the sadness of having done your best against a broken map, of loving the work and finding it wasn't enough. The terms were set wrong from the beginning, and no one failed.
 
@@ -104,13 +66,13 @@ That sadness is information. It tells you what mattered.
 
 Every time we hit the wall, we have a choice: turn back, or go through.
 
-Most people turn back. The ones who don't push through instead of going through — they override the sensation, run on fumes, and eventually the body stops cooperating. Or they do the inner work in private and never find the way to carry it back to where it's needed. This is the failure mode we're building a way out of.
+Most people turn back. Of the ones who don't, most push through instead of going through: they override the sensation, run on fumes, and eventually the body stops cooperating. Or they do the inner work in private and never find the way to carry it back to where it's needed. This is the failure mode we're building a way out of.
 
 ### What's Different Now
 
 Something has shifted. It shows up as a tightening that doesn't quite release between hard conversations, a vigilance that no longer has a clear target and just hums.
 
-The conversations come with more charge. Coalitions that held through the last hard thing are fraying at edges that shouldn't be weak. The feedback — when it comes — comes fast, doesn't wait for you to be ready, doesn't come with enough context to land cleanly. The language keeps shifting, not because people move the goalposts but because the situation actually moves, and the words you practiced last year don't cover the new terrain. It can start to feel like falling behind, with no clear sense of what falling behind even means.
+The conversations come with more charge. Coalitions that held through the last hard thing are fraying at edges that shouldn't be weak. The feedback, when it comes, comes fast, doesn't wait for you to be ready, doesn't come with enough context to land cleanly. The language keeps shifting, not because people move the goalposts but because the situation actually moves, and the words you practiced last year don't cover the new terrain. It can start to feel like falling behind, with no clear sense of what falling behind even means.
 
 The inner work, the part most trainings skip, keeps showing up as the chokepoint.
 
@@ -133,7 +95,7 @@ The world is not fine. The people trying to fix it keep running into the same pr
 
 Before you entered this chapter, you were already playing. You didn't choose to; the game was already running.
 
-Every workplace conflict, every family rupture, every coalition meeting where people nodded and left resentful, every moment where you chose silence, performance, attack, appeasement, or repair, those were all game moves. When you see it as pattern, the incidents don't look the same after that. The board is social reality. The stakes are human dignity, trust, and who gets to belong.
+Every workplace conflict, every family rupture, every coalition meeting where people nodded and left resentful, every moment where you chose silence, performance, attack, appeasement, or repair, those were all game moves. When you see the pattern, the incidents stop looking the same. The board is social reality. The stakes are human dignity, trust, and who gets to belong.
 
 Most of us were trained to treat these moments like isolated incidents. They are connected rounds in one larger game:
 
@@ -155,18 +117,6 @@ For the full game taxonomy and mechanics, see Chapter 1. This chapter uses that 
 ## Section 3: The Forest
 ### *The Place Where the Work Actually Happens*
 
-<!-- MARGINALIA -->
-> *Skip the decision question. It is a good question and you will answer it flatteringly, because
-> it is phrased as a choice between being shallow and being brave, and nobody picks shallow at a
-> trailhead.*
->
-> *Better: think of the last time you did not say the true thing. Do not judge it. Only notice
-> whether you knew, at the time, that you were not saying it. If you knew, you were in the village.
-> If you did not know until afterwards, you were already in the forest and the forest was
-> working.*
-<!-- /MARGINALIA -->
-
-
 The Forest is a place you may not realize you've been circling.
 
 A familiar loop keeps running: the moment after a hard conversation spent rehearsing what you should have said, the 2am inventory of what went wrong, the same pattern surfacing in a different building, with different people, wearing different faces. That loop is the edge of the Forest.
@@ -179,7 +129,7 @@ Underneath the effort waits a question worth sitting with:
 
 Were you doing this to change something, or to seem like the kind of person who would? Ask it without flinching.
 
-Picture a meeting that goes cold. The body knows exactly what is happening, maybe before anyone speaks, and the read gets set aside for the consensus — not for lack of capacity, but because body-knowing, in a certain framework, belongs to people closer to their roots, and claiming it can feel like appropriation. So the literacy gets built and the read goes unused.
+Picture a meeting that goes cold. The body knows exactly what is happening, maybe before anyone speaks, and the read gets set aside for the consensus, not for lack of capacity, but because body-knowing, in a certain framework, belongs to people closer to their roots, and claiming it can feel like appropriation. So the literacy gets built and the read goes unused.
 
 The body doing that reading never appropriated anything. It is yours. You already have the Shaman's first move. This chapter asks whether you will stop treating your own somatic intelligence as something that belongs to someone else.
 
@@ -220,19 +170,19 @@ The Forest is where you meet the daemons. Each one is a part of you to be faced,
 
 The origin of this book is a rock in my shoe.
 
-George Floyd was murdered in May of 2020. My phone started filling up — white friends, mostly, checking in, asking if I was okay. I was glad they called. Something in the reaching out mattered.
+George Floyd was murdered in May of 2020. My phone started filling up: white friends, mostly, checking in, asking if I was okay. I was glad they called. Something in the reaching out mattered.
 
-Something else came with it. A sensation I couldn't name, small enough that I almost dismissed it — just a low friction, persistent, the way a stone in your shoe is not agony but is also not nothing. I had learned enough by then to know that small is not the same as unimportant. So I followed it.
+Something else came with it. A sensation I couldn't name, small enough that I almost dismissed it (just a low friction, persistent, the way a stone in your shoe is not agony but is also not nothing). I had learned enough by then to know that small is not the same as unimportant. So I followed it.
 
 What I found was rage, not sadness. (The body is specific like that.)
 
 The part I did not say out loud: the rage was not new.
 
-I had learned, for reasons that started early and went deep, to keep my feelings below the waterline — away from other people's awareness, and often away from my own. This produces a permanent low-grade charge that the people around you never suspect. The rage wasn't new. I had just gotten very good at not knowing it was there.
+I had learned, for reasons that started early and went deep, to keep my feelings below the waterline, away from other people's awareness, and often away from my own. This produces a permanent low-grade charge that the people around you never suspect. The rage wasn't new. I had just gotten very good at not knowing it was there.
 
 The rock in my shoe was the tip of something that went down a long way.
 
-My friends called to see if I was okay. They were not okay — disturbed, shaken, holding something they didn't know how to hold — and they delivered it to me, gift-wrapped as concern. I was the only Black person most of them knew. My well-being had become a stand-in for all of Black America's well-being. The call meant to support me asked me to hold their unprocessed feelings about a Black man's murder.
+My friends called to see if I was okay. They were not okay (disturbed, shaken, holding something they didn't know how to hold), and they delivered it to me, gift-wrapped as concern. I was the only Black person most of them knew. My well-being had become a stand-in for all of Black America's well-being. The call meant to support me asked me to hold their unprocessed feelings about a Black man's murder.
 
 I was not okay, and not for the reasons they assumed.
 
@@ -273,6 +223,10 @@ That structure trains performance. It does not train play.
 
 A game teaches differently. It gives you a map, lets you make a move, shows you what happened, and lets you try again with better information. You do not become capable by memorizing the whole map before touching the joystick. You become capable by learning what it does while something is actually happening.
 
+A game also needs a somewhere. You do not make a move in the abstract. You make it in a place, against people who want something, under rules that hold still long enough for you to test them. So I set the six chapters ahead in one: a school that does not exist, on a ship, where six people teach six different ways of helping and argue with each other about the rest.
+
+The school is somewhere to stand while you practice, and that is the whole of its job. Nobody will quiz you on the plot. A teacher who has to answer for what her method costs will tell you more than a framework that answers to nobody, and the only route I found to letting you argue with a Face was to give it a mouth that argues back.
+
 Chapter 1 put the joystick in your hands. This chapter teaches you how to walk the book.
 
 You are going to meet more language than you can use all at once. That is normal. You will see the daemons more than once: first as a map, then as a walk, then as a move. The repetition is deliberate. It is how the book teaches recognition.
@@ -296,16 +250,6 @@ Those parts are daemons. A daemon runs in the background, on its own, with no on
 Seven daemons live in the Forest, and the player at its center is you. You're not here to slay these daemons but to befriend them, one by one, until the parts that have been running you are working for you instead. That is your first game of allyship: making allies of the very parts that would keep you from reaching the center.
 
 ### The Seven
-
-<!-- MARGINALIA -->
-> *You will not meet all seven. Most students finish with two, perhaps three, and leave entirely
-> competent. The full set arrives only if you take all six schools, which almost nobody does, and
-> which is not a recommendation.*
->
-> *You already have the first one. It came with the body. Bram is fond of observing that it is the
-> only member of the party that has never once had to be persuaded to turn up.*
-<!-- /MARGINALIA -->
-
 
 You meet the seven walking in, in this order. Each one gets a short entry: what it does, how it shows up once it's your ally, how it shows up as a demon still running the show, and a moment you might catch each one in play.
 
@@ -341,43 +285,31 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 **As a demon:** it keeps people in the drama triangle. In the rush to resonate with someone's pain, it allies with their victimhood and smallness instead of their wellbeing, meeting the wound so completely that it confirms them in it and keeps them in the role rather than helping them move through it. *In play:* someone shares how they were wronged, and you resonate so hard with the injury that they leave more settled into being a victim of it, no more able to act than before.
 
 **The Damaged Self**
-**Job:** To take the damage. When nothing else can keep a hit out, it absorbs the hit itself, so what it's carrying survives. It's the Protector's last resort, and you'll meet it nearer the center.
+**Job:** To take the damage. When nothing else can keep a hit out, it absorbs the hit itself, so what it's carrying survives. It's the Protector's last resort.
 **As an ally:** it turns what it survives into strength, sorting the damage that builds you from the damage that only breaks you. *In play:* you take a real hit standing up for someone, and instead of wrecking you, it leaves you steadier and more able to do it again.
 **As a demon:** it absorbs every hit going, without a word, until it's soaking up harm that was never yours to carry. *In play:* you take on more and more of someone else's load without ever saying so, until you're depleted and no one, including you, has noticed what it's costing.
 
 ### The Protector, up close
 
-<!-- MARGINALIA -->
-> *The hull image is not one the school invented for teaching purposes.*
->
-> *You are shortly going to be asked to thank a part of yourself, the request will sound
-> sentimental, and I would like you to have a picture of what it looks like when an institution
-> does it in earnest. Ask anyone in engineering. They will tell you the hull is the only part of
-> this ship that has never once sat in a meeting about its own performance. It braces. It has no
-> opinion. It is thanked annually, by tradition, on a day nobody can attend, because we are always
-> underway.*
-<!-- /MARGINALIA -->
+The Protector works the door of the Forest. You meet it first, the most physical of the seven. The Protector is the hull of the ship, the body itself, holding its shape, keeping the water out, taking the hit when a hit comes. It is the embodied feeling of self-preservation. It does not argue or explain; it braces. It knows danger before you could prove it to anyone, because a hull that waits for proof is already taking on water.
 
-
-The Protector works the door of the Forest. You meet it first, the most physical of the seven. The Protector is the hull of the ship — the body itself, holding its shape, keeping the water out, taking the hit when a hit comes. It is the embodied feeling of self-preservation. It does not argue or explain; it braces. It knows danger before you could prove it to anyone, because a hull that waits for proof is already taking on water.
-
-The instant something reads as a threat — a shift in tone, a move for power — the Protector has already braced to meet it, faster than thought. That speed has kept you alive, and you want to keep it. The next chapter takes up what sets it off and how you learn to steer it.
+The instant something reads as a threat (a shift in tone, a move for power), the Protector has already braced to meet it, faster than thought. That speed has kept you alive, and you want to keep it. The next chapter teaches you to read the fear channel it runs on, which is where steering it starts.
 
 The trouble: a hull built to survive cannot always tell which century it is in. To the Protector, losing your place in the group registers the same as getting left to die, because for most of human history those were one event. So it runs your social life on survival settings, meeting a hard conversation or a public challenge with machinery built for a predator. That is why it gets so tired: it has been holding the whole ship rigid against threats that were never going to sink you.
 
 The Protector does the job cheaply by bracing everywhere. A hull that treats every century as the dangerous one never misses a threat, and never has to work out which threat is here, which is the reason the Protector prefers that setting, and the reason the tightening between hard conversations stops having a target and just hums. Vigilance runs at a higher price and buys aim: this tone, this move for power, this person, now. A Protector on survival settings has stopped looking, and blanket bracing feels identical from the inside to paying attention.
 
-When the Protector holds the joystick, I walk into a conversation already armored, braced against something that has not happened, and the person across from me meets the hull before they meet me. It trades contact for control and calls the trade safety.
+When the Protector holds the joystick, you walk into a conversation already armored, braced against something that has not happened, and the person across from you meets the hull before they meet you. It trades contact for control and calls the trade safety.
 
-This daemon, of all seven, stands at the threshold of a book about allyship for a reason. You can hardly protect anyone else while your own hull is breached. When you are frightened, depleted, or under real threat, the Protector spends everything you have on you, and nothing remains to carry into someone else's fight. The body knows one shortcut around this, worth naming because it looks like love: you pull the other person inside your own hull, so that protecting them and protecting yourself become a single act. A mother does this with a child, and it is real. It also takes the wrong shape for allyship, because it only works by making the other person part of you — and the person you are allying with is not you. They are their own ship. To stand with them as someone separate, you have to be resourced enough that your Protector has not already spent your last reserves keeping you afloat.
+This daemon, of all seven, stands at the threshold of a book about allyship for a reason. You can hardly protect anyone else while your own hull is breached. When you are frightened, depleted, or under real threat, the Protector spends everything you have on you, and nothing remains to carry into someone else's fight. The body knows one shortcut around this, worth naming because it looks like love: you pull the other person inside your own hull, so that protecting them and protecting yourself become a single act. A mother does this with a child, and it is real. It also takes the wrong shape for allyship, because it only works by making the other person part of you, and the person you are allying with is not you. They are their own ship. To stand with them as someone separate, you have to be resourced enough that your Protector has not already spent your last reserves keeping you afloat.
 
 When the hull cannot keep a blow out, it does the last thing a hull can do: it takes the damage itself, so that what it carries survives. That absorbed weight is the Damaged Self, a daemon you will meet nearer the center.
 
-You do not fight the Protector, and you do not shove past it. You thank it, and you help it tell a real threat from a social one. *Thank you for keeping me alive. This one is not life or death. Show me the one real danger here, if there is any, and let me set a single boundary instead of bracing my whole body.* Do that, and the Protector goes back to its real job — protecting you when you actually need it — and stops running every hard conversation as though your life were on the line.
+You do not fight the Protector, and you do not shove past it. You thank it, and you help it tell a real threat from a social one. *Thank you for keeping me alive. This one is not life or death. Show me the one real danger here, if there is any, and let me set a single boundary instead of bracing my whole body.* Do that, and the Protector goes back to its real job (protecting you when you actually need it) and stops running every hard conversation as though your life were on the line.
 
-The difference shows up in a single moment — say someone challenges you in a meeting. On survival settings, the Protector treats the challenge as an attack: you armor up, over-explain to defend your position, and wait for everyone to prove the ground safe before you will say anything true. Doing its real job, it lets you name one line — "I'm open to challenge; I'm not available for personal attacks" — and stay in the conversation. The same daemon at the same speed, protecting you when a real threat arrives and standing easy when none does.
+The difference shows up in a single moment: say someone challenges you in a meeting. On survival settings, the Protector treats the challenge as an attack: you armor up, over-explain to defend your position, and wait for everyone to prove the ground safe before you will say anything true. Doing its real job, it lets you name one line, "I'm open to challenge; I'm not available for personal attacks," and stay in the conversation. The same daemon at the same speed, protecting you when a real threat arrives and standing easy when none does.
 
-*Bring one real time the Protector grabbed the joystick before you did: a moment your whole body braced against something that turned out not to threaten your life, or much else. Name the gap between what it prepared for and what was there. Two minutes to capture it as a BAR. → app*
+*Bring one real time the Protector grabbed the joystick before you did: a moment your whole body braced against something that turned out not to threaten your life, or much else. Name the gap between what it prepared for and what was there. Two minutes to capture it as a BAR.*
 
 ### Taking the Joystick
 
@@ -402,7 +334,7 @@ Two concrete examples:
 
 The wound does not become your identity. It becomes signal, then skill, then contribution.
 
-Before Chapter 3 teaches full emotional alchemy, carry this much: the charge you feel has channels — fear, anger, sadness, joy, neutrality — and each one is information, not noise. Chapter 3 trains you to read and move each one. For now it's enough to know they're distinct, and that none of them is the enemy.
+Before Chapter 3 teaches full emotional alchemy, carry this much: the charge you feel has channels (fear, anger, sadness, joy, neutrality), and each one is information, not noise. Chapter 3 trains you to read and move each one. For now it's enough to know they're distinct, and that none of them is the enemy.
 
 A daemon you befriend joins your party. A daemon left running on its own stays a saboteur.
 
@@ -431,7 +363,7 @@ You fold into a verdict about yourself. The Damaged Self takes it: *this is just
 
 Seven parts, each one snatching the joystick from the last, and not one of them is you.
 
-Underneath all of it, at the center, the youngest part of you still waits: the player, the one who should have been holding it the whole time. *Please don't leave me here again.*
+Underneath all of it, at the center, the youngest part of you still waits: the Vulnerable Child, the player who should have been holding it the whole time. *Please don't leave me here again.*
 
 The whole walk is reaching her: getting to the center where she is, and putting the joystick back in her hands.
 
@@ -448,7 +380,7 @@ The Forest is where you get back to the center. From there, your next move gets 
 
 ---
 
-The practice format in this book — naming where you are now, finding where you want to be, and building the path between them — comes from Gerard Egan's *The Skilled Helper*. Egan spent forty years mapping what skilled helping actually looks like as a reproducible practice, not just a set of good intentions. His three-stage model (current picture, preferred picture, way forward) runs underneath every "Try It Now" in this book. The first application starts here.
+The practice format in this book (naming where you are now, finding where you want to be, and building the path between them) comes from Gerard Egan's *The Skilled Helper*. Egan spent forty years mapping what skilled helping actually looks like as a reproducible practice, not just a set of good intentions. His three-stage model (current picture, preferred picture, way forward) runs underneath every "Try It Now" in this book. The first application starts here.
 
 ## Try It Now: The First Shaman Move
 
@@ -458,7 +390,7 @@ Don't analyze it yet.
 
 Find it in your body first.
 
-Where does it live? Chest, throat, jaw, belly — somewhere in there sits a sensation that hasn't resolved. Find it.
+Where does it live? Chest, throat, jaw, belly: somewhere in there sits a sensation that hasn't resolved. Find it.
 
 Put your hand there if that helps.
 
@@ -468,20 +400,12 @@ You don't have to know what it means. You just have to locate it.
 
 That location is data. The Shaman's first move never changes: find out where the information lives before deciding what to do with it. Before the script. Before the strategy. Before the conversation you will have in your head on the way home.
 
-*You just made the first move. Before the feeling fades, get down what you noticed, where it lived, and what it might be trying to say. Two minutes to capture it as a BAR. → app*
+*You just made the first move. Before the feeling fades, get down what you noticed, where it lived, and what it might be trying to say. Two minutes to capture it as a BAR.*
 
 ---
 
 ## Section 8: The Game
 ### *Five Moves for the Threshold*
-
-<!-- MARGINALIA -->
-> *I have taught these five for a long time and I still cannot do the second one without rehearsing
-> it in a corridor first.*
->
-> *I am told this is common. I am told this by people who are being kind.*
-<!-- /MARGINALIA -->
-
 
 If you're still reading, you've already been playing. Here's an opening game, five moves you can run the next time a daemon grabs the joystick.
 
@@ -515,27 +439,27 @@ By the end of this chapter, you should know:
 
 You found the sensation. Now let it be heard.
 
-Within the next two days, say one body-read out loud to another person — and say it to someone where it isn't already safe to, in a live moment, not a debrief afterward. One sentence, small enough that it is neither a confession nor a processing session, and placed where it costs something: *"Something just shifted in my chest — give me a second."* Even when your voice isn't steady. Even when you're not sure you've got the word right: *"I think that landed as anger. I'm not certain. Something moved though."*
+Within the next two days, say one body-read out loud to another person, and say it to someone where it isn't already safe to, in a live moment, not a debrief afterward. One sentence, small enough that it is neither a confession nor a processing session, and placed where it costs something: *"Something just shifted in my chest. Give me a second."* Even when your voice isn't steady. Even when you're not sure you've got the word right: *"I think that landed as anger. I'm not certain. Something moved though."*
 
 That's the whole action. One read, said out loud, to one person who doesn't already know, inside forty-eight hours.
 
-Look at what you're actually doing, underneath the instruction. The part of you that reads a group — the one that clocks when a meeting has gone cold before anyone speaks — has been living in exile. You sent it away because claiming it felt like taking something that wasn't yours. So it reads, and reads, and never gets to speak. Saying it out loud is how that part comes home. It finds out it's allowed to speak.
+Look at what you're actually doing, underneath the instruction. The part of you that reads a group (the one that clocks when a meeting has gone cold before anyone speaks) has been living in exile. You sent it away because claiming it felt like taking something that wasn't yours. So it reads, and reads, and never gets to speak. Saying it out loud is how that part comes home. It finds out it's allowed to speak.
 
 (If naming it out loud feels like claiming something that isn't yours, that's the exile talking. Say it anyway. The body that did the reading was yours the whole time.)
 
-*You said it out loud. Before the moment closes, get down what you noticed, who you said it to, and what shifted after. The read becomes a move, and the part that reads comes a little further home. Two minutes to capture it as a BAR. → app*
+*You said it out loud. Before the moment closes, get down what you noticed, who you said it to, and what shifted after. The read becomes a move, and the part that reads comes a little further home. Two minutes to capture it as a BAR.*
 
 ---
 
 ## Section 9: The First BAR
 ### *Breakthrough → Action → Reflection*
 
-A BAR is game tape, not journaling. Run it right after the next hard moment — not at the end of the week, not when you have time, right after, while the feeling is still close enough to name.
+A BAR is game tape, not journaling. Run it right after the next hard moment, not at the end of the week, not when you have time, right after, while the feeling is still close enough to name.
 
 **BAR template:**
 - **Breakthrough:** What did I notice about my pattern, daemon, or emotional channel?
 - **Action:** What one concrete move will I take in the next 24 hours?
-- **Reflection:** After the action, what changed in me, others, or the situation — and what will I run next time?
+- **Reflection:** After the action, what changed in me, others, or the situation, and what will I run next time?
 
 **Mini example:**
 - **Breakthrough:** In conflict, my Protector armors up and over-explains.
@@ -555,13 +479,19 @@ Now you have a first map of the daemons you will meet on the way.
 
 The Forest is where those daemons are met and befriended. Six guides know that terrain, and one of their questions may already have landed.
 
-Before you walk on: the work in this book unfolds in four directions — gathering resources, skillful organizing, taking direct action, and raising awareness. All four are real allyship. Appendix A holds the full map, and a way to find which direction is calling you right now.
+Before you walk on: the work in this book unfolds in four directions: gathering resources, skillful organizing, taking direct action, and raising awareness. All four are real allyship. Appendix A holds the full map, and a way to find which direction is calling you right now.
 
 Add a line to the sheet before you go. In Chapter 1 you wrote down the myth that runs you hardest, the rule you had been playing by without ever agreeing to it. Underneath it, write the daemon that took the joystick first when you ran the five moves, and the job it has been doing for you. Those two lines are the same mechanism seen from two directions, and most of the rest of this book works on the seam between them.
 
 From here you have two routes:
 
-1. **Straight through (recommended):** continue to Chapter 3 and build the sequence in order. The Shaman trains emotional signal-reading and regulation — the base layer the other faces depend on, and the reason to start there.
+1. **Straight through (recommended):** continue to Chapter 3 and build the sequence in order. The Shaman trains emotional signal-reading and regulation, the base layer the other faces depend on, and the reason to start there.
 2. **Guide-first:** jump to the chapter of the guide question that hit you hardest, then come back to fill the sequence.
+
+Turn the page and a letter is waiting, from the Headmaster of that school. After it, six chapters, and each opens with a treatise by the person who runs one of the six schools: their method, in their voice, carrying their bias and their quarrel with the other five. It runs as ordinary text until you reach a signature at the close of its third section. That is where a submitted document signs itself. Everything past that signature is me.
+
+The boxed inserts belong to the school as well: an admissions page saying who they take and what it costs, students and citizens on the record about what the teaching did to them, and a margin in a hand that never signs.
+
+Read those pages the way you would read a teacher you have not made up your mind about. Six people each solved one part of this and cannot agree on the rest, and I would rather hand you the argument than the summary.
 
 Either way, the Forest is ahead and your hands are on the joystick. The only move left is through.

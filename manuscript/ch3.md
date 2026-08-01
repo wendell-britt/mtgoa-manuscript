@@ -1,4 +1,4 @@
-# CHAPTER 3: THE SHAMAN
+# CHAPTER 3: THE SHAMAN — What to Do With What You Feel
 ## *Emotional Alchemy as the Foundation of Real Allyship*
 
 
@@ -58,7 +58,7 @@
 > *She used to grade her readings. Scored them in a book, against what turned out to be true. She
 > stopped in her fourth year here and has described the time since as the first she could hear
 > anything at all. I mention it because she will not, and because you are shortly to be taught by
-> somebody who spent a decade marking her own homework.*
+> somebody who spent years marking her own homework.*
 <!-- /MARGINALIA -->
 
 This chapter runs longest in the book, and you deserve to know why before you start it.
@@ -255,23 +255,23 @@ I recover both ends before I am done, and I will ask you to hold them at the sam
 
 If emotional alchemy means learning from emotions instead of managing them, then how do you actually *do it* when you're in the middle of a hard conversation, a crisis, a moment where the feeling is rising and you have thirty seconds to respond?
 
-I used to be very good at putting feelings away.
+Some people are very good at putting feelings away.
 
-Customer service. Someone on the phone, upset. The emotion would arrive, theirs and mine, and my chest would do this particular thing: a tightening, a pulling inward, like a door closing fast. Then I'd be gone. Not literally. I stayed on the call, professional, efficient. The part of me that could feel the situation had left the building.
+A voice on the phone, upset. The emotion arrives, theirs and yours, and the chest does a particular thing: a tightening, a pulling inward, like a door closing fast. Then you are gone. Not literally. You stay on the call, professional, efficient. The part of you that could feel the situation has left the building.
 
-I'd locate the problem. Solve the problem. Move on.
+Locate the problem. Solve the problem. Move on.
 
-It didn't work. Not because I solved the wrong problem. Because the problem wasn't the problem. *The Courage to Be Disliked* has a line: all problems are relational problems. I took it further. All problems are emotional problems. The rupture exists because something has gone unfelt. Solve for the emotion and you can move to service, the thing I thought I was doing all along.
+It does not work. Not because the wrong problem got solved. Because the problem wasn't the problem. *The Courage to Be Disliked* has a line: all problems are relational problems. Take it further. All problems are emotional problems. The rupture exists because something has gone unfelt. Solve for the emotion and you can move to service, which you thought you were doing all along.
 
-I was solving for my own emotion. The tightening in my chest when someone got upset was my discomfort, not theirs. I converted it into competence and action as fast as possible. They got efficiency. They needed presence.
+You are solving for your own emotion. The tightening in your chest when someone gets upset is your discomfort, not theirs. You convert it into competence and action as fast as possible. They get efficiency. They needed presence.
 
-I eventually invented a game, Tough Conversations. One person says: *I have something tough to say and I don't know how to say it.* The other person can only respond two ways: *tell me more,* or *in response to what I've heard, I have something _____ to say and I don't know how to say it.* Back and forth. The game removes the option of solving.
+A game exists for exactly this, Tough Conversations. One person says: *I have something tough to say and I don't know how to say it.* The other person can only respond two ways: *tell me more,* or *in response to what I've heard, I have something _____ to say and I don't know how to say it.* Back and forth. The game removes the option of solving.
 
-The first time I played it, I had to say "tell me more" to something that made me want to fix it immediately. I said the words. I stayed. The person went somewhere they wouldn't have gone if I'd moved. The thing they said next was the real thing, not the complaint, not the position, the feeling underneath it. Fear dressed as criticism. Sadness wearing the costume of an argument.
+The first time you play it, you will have to say "tell me more" to something that makes you want to fix it immediately. You say the words. You stay. The person goes somewhere they would not have gone if you had moved. What they say next is the real one, not the complaint, not the position, the feeling underneath it. Fear dressed as criticism. Sadness wearing the costume of an argument.
 
 The feeling was always there. It was waiting for someone to stay with it.
 
-Most allyship has the same problem I had on those calls. The ally solves for their own emotional problem: the need to feel useful, effective, like a good person in a hard moment. The person they came to help gets efficiency. A real partnership has two people actually getting something from the encounter, both parties more real at the end than at the start. That requires staying with the feeling long enough to find out what it actually is. Not what you want it to be. What it is.
+Most allyship has the same problem those calls had. The ally solves for their own emotional problem: the need to feel useful, effective, like a good person in a hard moment. The person they came to help gets efficiency. A real partnership has two people actually getting something from the encounter, both parties more real at the end than at the start. That requires staying with the feeling long enough to find out what it actually is. Not what you want it to be. What it is.
 
 You need a practice. A structure. Something that repeats reliably so you can get better at it.
 
@@ -308,7 +308,7 @@ The Wake stage honors that moment, without immediately trying to fix it, manage 
 
 Where do you feel it in your body? Chest? Belly? Legs? Throat? Jaw? Let your nervous system have its full response for a moment. Skip the question of whether the feeling qualifies, and skip the question of why it came. Just: this feeling is present. I notice it.
 
-This stage can take five seconds or can run throughout, and you keep noticing the feeling across the whole experience.
+This stage can take five seconds or run the length of the encounter, and you keep noticing the feeling the whole way through.
 
 #### Stage 2: Open Up
 **What it means:** Turn the sensitivity up, and let what's there reach you.
@@ -361,7 +361,7 @@ This is the first difference between the Shaman's practice and the village's dis
 #### Stage 4: Grow
 **What it means:** Extract the lesson. Integrate the insight the feeling offered.
 
-Now you understand what the feeling shows you. The third stage lets that understanding actually *change* you. Not dramatically. You integrate the information so that your nervous system knows something it didn't know before.
+Now you understand what the feeling shows you. The fourth stage lets that understanding actually *change* you. Not dramatically. You integrate the information so that your nervous system knows something it didn't know before.
 
 If fear showed you what matters, your system integrates "this is what I'm protecting" as a real value, not something you have to earn.
 
@@ -484,7 +484,7 @@ These are the five renewable tokens, and you reach every one of them the same wa
 
 ### The Energy Ecology: Why Some Moves Restore You and Others Hollow You Out
 
-Chapter 1 taught you to read the meter: what a move costs you. The Shaman adds the next layer: what that spending does to the living field.
+Chapter 1 taught you to read your own fuel: what a move costs you. The Shaman adds the next layer: what that spending does to the living field: to the people around you, and what it leaves them carrying.
 
 The WAVE-Spiral does not make every move easy. It was never going to.
 
@@ -590,7 +590,7 @@ When the charge is in a **person**, a figure who makes your jaw tighten, start w
 | Stuck because… | Tool |
 |----------------|------|
 | Charge is in a *person* | 3-2-1 (Chapter 4) |
-| Stuck between two *rights* | Polarity Map (Chapter 5 → Chapter 7) |
+| Stuck between two *rights* | Polarity Map (Chapter 4 → Chapter 7) |
 | Charge is in *body* now | WAVE-Spiral |
 
 *Full process and source (Ken Wilber, Integral Life Practice): Appendix E: The 3-2-1 Shadow Process. First practice: Chapter 4.*
@@ -657,7 +657,7 @@ You do not fire the Controller. Fire the referee and your follow-through goes wi
 
 It shows up in a single beat. Someone on your team pushes through a decision a part of you clocks as wrong. On the old standard, the Controller rules the read inadmissible before you can speak (*probably just my stuff*), and you go along with the group. Refereeing the game you chose, it lets the read onto the field and holds you to your own rule, and you say the one true sentence, *"Something here doesn't sit right with me. Can we slow down?"*, even while your nerve tells you to let it go. It is the same part, blowing the same whistle. Only one thing changed: whose rules it enforces.
 
-*Bring one real moment the Controller ruled a feeling out of order before you could act on it, a read you talked yourself out of with "probably just my stuff," or a move you didn't make until it could be perfect. Name the rule it was enforcing, and whose rule it was. Two minutes to capture it as a BAR. → app*
+*Bring one real moment the Controller ruled a feeling out of order before you could act on it, a read you talked yourself out of with "probably just my stuff," or a move you didn't make until it could be perfect. Name the rule it was enforcing, and whose rule it was. Two minutes to capture it as a BAR.*
 
 ---
 
@@ -688,7 +688,7 @@ Six verdicts, six replacements. The middle column holds the version that keeps t
 
 Every line in the third column names a process, which leaves the judge nothing to convene over, and which also means none of them installs by repetition. A belief about what action does can only be put in by action. You make the proportionate move while the verdict is still talking, the move returns a result the verdict did not predict, and the belief picks up a piece of evidence that cannot be struck from the record. *Something here doesn't sit right with me. Can we slow down?*, said at that meeting, out loud, with your nerve telling you to let it go, deposits one. You were unready, you spoke, the ceiling held. Run that enough times and *I become more ready through proportionate action* describes a thing you have watched happen rather than a phrase you are trying to talk yourself into.
 
-The move onto the field with the belief still talking is the hinge of the whole chapter, and the chapter's real axis: Feeling and Function. The first half was Feeling: the charge sensed cleanly. This half is Function: the read becoming a move that changes something. Feeling without Function is the whole awareness trap worn by one person: endless sensing, nothing done. So take the move where it counts, out of the forest, where nothing costs you and no one is watching, and into the places allyship actually happens. The read does nothing for the person you came to help until it leaves your body and changes what happens next. Here the Shaman stops sensing and starts doing.
+The move onto the field with the belief still talking is the hinge of the whole chapter, and the chapter's real axis: Feeling and Function. The first half was Feeling: the charge sensed cleanly. This half is Function: the read becoming a move that changes something. Feeling without Function is endless sensing, nothing done. So take the move out of the forest, where nothing costs you and no one is watching, and into the places allyship actually happens, where it counts. The read does nothing for the person you came to help until it leaves your body and changes what happens next. Here the Shaman stops sensing and starts doing.
 
 ### The Word Everyone Knew and No One Said
 
@@ -797,7 +797,7 @@ In practice: the sentence is shorter than you want it to be. A read usually runs
 
 ---
 
-That is the Shaman's game. Five moves. Catch it before the story rewrites it. Name the channel where people can hear it. Say the thing under the thing. Ask for the unreduced version. Spend the read inside the window. Every one of them takes something accurate and private and makes it public and useful, the only transaction this Face performs.
+That is the Shaman's game. Five moves. Catch it before the story rewrites it. Turn the dial up instead of down. Name the channel out loud. Say what you can do now. Say the thing under the thing. Every one of them takes something accurate and private and makes it public and useful, the only transaction this Face performs.
 
 The moves are what you do. The next question is where.
 
@@ -807,9 +807,9 @@ The moves are what you do. The next question is where.
 
 The parable showed one of the four: Direct Action, the true thing said to a face. It is the Shaman's steepest, the domain where the read has to leave you and cost you something in front of the person it concerns.
 
-The read has four domains, and one cheap habit that is none of them. The cheap habit is the read you keep: you sense what moves, refine it, and never say it, your body never on the line. Reading under the surface is real skill, and it asks nothing of you, because no one ever has to watch you get it wrong. A louder version of the same safety runs alongside it. You do say something, but only the correct words, the ones no one can fault, and that is the awareness trap, the domain that swallowed the others because you can run it from the chair. Both keep the true thing unsaid. The four domains are where it finally leaves: the true thing said to a face, the true thing said out loud in place of the right thing, the honest need named and asked for, the unsaid thing put on the table so a group can work. Each costs more than sensing, because each trades the safety of the accurate private read for the risk of getting it wrong out loud.
+The read has four domains, and one cheap habit that is none of them. The cheap habit is the read you keep: you sense what moves, refine it, and never say it, your body never on the line. Reading under the surface is real skill, and it asks nothing of you, because no one ever has to watch you get it wrong. A louder version of the same safety runs alongside it. You do say something, but only the correct words, the ones no one can fault, and that is the awareness trap, the habit that swallowed the others because you can run it from the chair. Both keep the true thing unsaid. The four domains are where it finally leaves: the true thing said to a face, the true thing said out loud in place of the right thing, the honest need named and asked for, the unsaid thing put on the table so a group can work. Each costs more than sensing, because each trades the safety of the accurate private read for the risk of getting it wrong out loud.
 
-So here are all four, and before them the three things that decide whether saying it helps or wounds. Not to study: pick where you'll spend the read this week, and pick the domain you keep avoiding. If the read only ever circles back into your own head, refined and unsaid, or comes out dressed in the words no one can fault, you never made the Shaman's move. You practiced it. The app keeps count, and it will tell you when you have been feeling deeply for six weeks and calling it allyship.
+So here are all four, and before them the three things that decide whether saying it helps or wounds. Not to study: pick where you'll spend the read this week, and pick the domain you keep avoiding. If the read only ever circles back into your own head, refined and unsaid, or comes out dressed in the words no one can fault, you never made the Shaman's move. You practiced it.
 
 ### How to Say It So It Helps
 When you say the true thing, what you do next decides whether it helps the person or wounds them, and the same three moves decide it in every domain.
@@ -840,9 +840,9 @@ When you say the true thing, what you do next decides whether it helps the perso
 
 The Diplomat's close, the Challenger's line, the Regent's stand, the Architect's design: not one of them is worth anything built on a bad read. You are the first face for a reason. Every move the other five make begins here, with someone who can feel what is actually happening and say it where it counts. The Challenger aims the read into a line. The Architect builds structure from it. The Regent keeps what the read found worth keeping. The read comes first, and a read that never leaves the chair stalls the whole game. That is why you start with the Shaman, and why one true sentence, said and not only felt, is the move everything else will stand on.
 
-### The App Layer (the Tell)
+### The Tell
 
-None of the four markers asked why you said it. That question is real. A Shaman who names the unsaid to be seen as the most perceptive person present has run the awareness trap with better production values. It is also the easiest thing in the world to lie to yourself about, in the moment you most want to be seen seeing. So the app holds it. When you log the rep, it asks the one thing the marker didn't:
+None of the four markers asked why you said it. That question is real. A Shaman who names the unsaid to be seen as the most perceptive person present has run the awareness trap with better production values. It is also the easiest thing in the world to lie to yourself about, in the moment you most want to be seen seeing. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer the one thing the marker didn't ask:
 
 - **Direct Action.** Did you say the true thing to change the moment, or to be the one brave enough to have said it?
 - **Raise Awareness.** Did you name what is happening to move the group, or to be seen as the one who sees deepest?
@@ -861,7 +861,7 @@ Here is where they come from. The deck runs five basic moves, and you already kn
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
-The five moves are this chapter, in order. Every stage you practiced is one of them. Clean Up holds the five channels, one per domain, which is why all four of those cards begin with the same verb: *name.* Pick a domain instead and you are choosing where the move lands. The five are the sequence; the four domains are the arena.
+The five moves are this chapter, in order. Every stage you practiced is one of them. Clean Up holds the five channels, which is why all four of those cards begin with the same verb: *name.* Pick a domain instead and you are choosing where the move lands. The five are the sequence; the four domains are the arena.
 
 ### Drawing Against the Shadow
 
@@ -889,15 +889,15 @@ Five moves, one card, about ninety seconds. That is a full pass of the spiral wi
 
 ### From Card to Quest
 
-A card that ends in the app is a card you read. A card that ends in a quest is a card you played, and the difference is a person.
+A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played, and the difference is a person.
 
-A quest is a commitment to act that touches somebody other than you, on a date. It is not a resolution and it is not a value. It has a verb, a name in it, and a deadline. Quests come from the Show Up cards, and every card in it ends in an artifact, and an artifact is something another person can encounter.
+A quest is a commitment to act that touches somebody other than you, on a date. It is not a resolution and it is not a value. It has a verb, a name in it, and a deadline. Quests come from the Show Up cards, and every one of them ends in an artifact, and an artifact is something another person can encounter.
 
-Write yours in one line with four things in it: what you will do, who it reaches, by when, and what it costs you. *Aim the Awareness* becomes: **I will tell Dana what I noticed in Tuesday's meeting and not soften it, before Friday, and it will cost me her thinking I am difficult.** That is a quest. *I will be more aware of my impact* is not one; nobody can tell whether you did it, including you.
+Write yours in one line with four things in it: what you will do, who it reaches, by when, and what it costs you. *Say the Thing Under the Thing* becomes: **I will tell Dana what I noticed in Tuesday's meeting and not soften it, before Friday, and it will cost me her thinking I am difficult.** That is a quest. *I will be more aware of my impact* is not one; nobody can tell whether you did it, including you.
 
 The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. Enthusiasm alone usually means you have picked something you were already going to do.
 
-*Draw one card from your twenty, by hand or by letting the app deal it. Run the five moves on a live situation. Log the BAR, then convert it into one quest with a name and a date in it. → app*
+*Draw one card from your twenty. Run the five moves on a live situation. Log the BAR, then convert it into one quest with a name and a date in it.*
 
 ---
 
@@ -917,5 +917,7 @@ The chapter leaves you holding a practice whose parts fit together. Your body re
 Underneath every part of it is the Alchemist: the willingness to spend a charge while it is still live, instead of waiting for the conditions that never arrive.
 
 The system did not give you your superpower. Your specific survival shaped it, your specific losses, your specific adaptations. The Shaman's work is recovering that superpower. Making it conscious. Making it available. Taking it back into the village.
+
+Add a line to the sheet. Under the daemon you wrote down in Chapter 2, write the channel you skip: of Fear, Sadness, Joy, Anger and Neutrality, the one you turn into a task before it has finished telling you anything. All five ran through this chapter. One of them you left early.
 
 ---

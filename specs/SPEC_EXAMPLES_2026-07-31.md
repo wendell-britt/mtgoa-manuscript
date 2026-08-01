@@ -176,6 +176,60 @@ four.** A chapter with no self-Example teaches rescue.
 `SPEC_WAVE_REALIGNMENT` §11.4 was right that ch3's attribution Example is correctly
 self-advocacy. Under this rule it becomes the designated fifth rather than an exception.
 
+## 3a · Done, 2026-07-31 — all 35
+
+| ch | Face | state | set score, be / copula / zombie / passive |
+|---|---|---|---|
+| 3 | Shaman | 5 rewritten | 0.70 / 0.80 / 0.78 / 0.00 |
+| 4 | Challenger | 5 revised | 0.99 / 0.64 / 0.40 / 0.65 |
+| 5 | Regent | **5 written from nothing** | 0.84 / 0.89 / 0.74 / 0.00 |
+| 6 | Architect | 5 replaced | 0.40 / 0.26 / 0.75 / 0.00 |
+| 7 | Diplomat | 3 rewritten, 2 written | 1.07 / 0.86 / 0.30 / 0.72 |
+| 8 | Sage | 2 rewritten, 3 written, 1 reordered | 0.86 / 0.53 / 0.14 / 0.70 |
+| 9 | Player | 5 given a beneficiary | 0.95 / 0.72 / 0.80 / 0.00 |
+
+**Every chapter carries five, every Example names a person, every one names a cost where the
+move is external, and every one leaves the outcome with the person it reached.** Seven
+self-Examples, one per chapter, each in the Move that is genuinely about the reader's own
+pattern.
+
+### The class ledger, and the two that went unused
+
+| class | where |
+|---|---|
+| race and color | ch3 Ravi, ch7 Dele |
+| gender identity | ch3 Ines |
+| disability | ch3 Jo, ch4 the candidate, ch6 Meera, ch7 Nia's mother, ch8 Sam |
+| citizenship and immigration | ch4 Tomas |
+| pregnancy | ch4 Dara |
+| religion | ch5 Yusuf |
+| age 40 and over | ch5 Ruth, ch7 Alan |
+| national origin | ch5 Ana, ch6 three families |
+| familial status | ch6 Bea, ch7 Dele |
+| genetic information | ch8 Ade |
+| veteran status | ch8 Ellis |
+| **outside the statutory list** | ch3 Nadia, ch4 Priya, ch5 Marcus, ch6 volunteers, ch7 members, ch8 Kit |
+
+**Disability appears five times**, which `SPEC_FACE_TARGETS` §1.3 predicted: it is the only
+class that occupies all six positions, and that is a teaching point rather than a gap. **The
+floor clause holds in every chapter**, six Examples outside the statutory list, so the book
+never teaches that unprotected harm is permitted harm.
+
+**Two of a Face's four went unused and both are recorded rather than quietly dropped.** ch3's
+religion is carried by ch5. ch8's age is carried by ch5 and ch7, and ch8 spent its fourth slot
+on veteran status instead, because veteran status appears in no other Face's list and ch8 is
+its only possible home.
+
+### Where the form bent, and why
+
+- **ch5 had no Example slot at all.** Its Moves run *What it is → In practice → The test*. The
+  five went between the instruction and the check.
+- **ch8's Move 2 carried its Example after its test**, alone in the book. Lifted and reseated.
+- **ch8's Moves 3 and 5 had neither an Example nor a test**, so those two took the end of their
+  own section.
+- **ch9's Move 4 runs 54 words against the 70 to 90 band** and stays there. Padding it to hit a
+  range would put the range in charge of the prose.
+
 ## 4 · How this gets checked
 
 - `instruments/example_audit.py`, to be written: person present, beneficiary, class shown,

@@ -162,10 +162,10 @@ The affinities reflect gate function, not arbitrary assignment: Emotional Body l
 
 ## The Diagnostic
 
-Before you draw a card, before you open the app: **which domain is actually alive for you right now?**
+Before you draw a card: **which domain is actually alive for you right now?**
 
 Which matters most and which you have been neglecting are different questions, and neither is this one. The body knows before the mind decides. The domain you keep circling back to, the territory where the charge lives — that's the diagnostic.
 
 The domains are situational routing tools, not identity types. You are not a "Raise Awareness person." You are a person who, right now, is working on a Raise Awareness problem. The question is always situational — *what's calling right now* — not biographical.
 
-If you don't know, open the bars-engine app. The pre-draw diagnostic will ask you.
+

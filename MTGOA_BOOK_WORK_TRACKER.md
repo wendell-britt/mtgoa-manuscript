@@ -1,7 +1,42 @@
 # Book Work Tracker — MTGOA
 **Created:** 2026-04-14
-**Last Updated:** 2026-07-30
+**Last Updated:** 2026-08-01
 **Status:** All 8 chapters complete — Editorial Pass Phase
+
+---
+
+## Session — 2026-08-01 · ch2 leaves the fiction
+
+Branch `claude/treatise-wendell-content-boundaries-78sq54`. Full ruling in
+`specs/SPEC_CH2_FRAME_2026-08-01.md`.
+
+**The defect.** Ch2 was claimed twice and reconciled never: DL-19 names it as Wendell's frame
+and the only legal home for his real biography, while `HANDOFF.md` says Bram Tull writes it.
+`SPEC_TWO_HANDS` moved all six treatise bylines to the close of Section 3 so a document would
+stop overclaiming the chapter under it — ch2 was not in that set, so it kept the last
+top-of-chapter byline in the book, over the chapter that is most unmistakably the author's.
+
+**Never measured.** `seam_sweep.py` hardcodes `CHAPTERS = [3..8]`. Its own tiers run over ch2:
+**BOOK 28, AUTHOR 13, CREDIT 2**, against 2/37/0 for all six cleaned treatises combined. Under
+Bram's signature sat the 420-word George Floyd origin story, the only self-naming of the book
+in the manuscript body (`ch2:241`), and credits to Carolyn Elliott, Robin Rice and Gerard Egan.
+
+**Applied.** Bram removed entirely — `FRONT[2]`, `BYLINE_NOTE[2]`, `NOTES[2]` dropped;
+`compile.py` `CHAPTERS` `[2..9]` → `[3..9]`; frame blocks 54 → 47. The 43 sites are not fixed,
+they are made legal: with nobody fictional claiming the chapter, every one is Wendell writing
+his own frame. Bram survives at `ch8:584` and in the ch9 postcard, a pair that never depended
+on ch2.
+
+**The Headmaster's letter is boxed** — body in a blockquote under `<!-- LETTER -->`, heading
+left outside so `build_book.title_of()` still finds it for the contents page.
+
+**+340 body words to ch2**, two passages setting up the school as a teaching device, split as
+Wendell ruled: Section 5 carries why the device exists, Section 10 carries how to read it. The
+ch8 reveal is deliberately not set up in either — `MARGIN_ARC` rule 2 says nothing may pay for
+it in advance.
+
+Book-wide review clean on all six; shipcheck's four blockers are all pre-existing and none
+touches ch2.
 
 ---
 

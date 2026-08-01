@@ -38,7 +38,14 @@ import re, io, os, sys, glob
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 MS = os.path.join(HERE, os.pardir, "manuscript")
-BLOCK = re.compile(r"\n?\n<!-- (MARGINALIA|EPIGRAPH-BYLINE|POSTCARD) -->\n.*?\n<!-- /\1 -->\n", re.S)
+# HANDBOOK and SIGNATURE added 2026-07-31, when they turned out to be counted inside every
+# chapter's expository score. Measured on ch7 the effect is small, passive 1.75 against 1.77
+# stripped, so it was not the cause of anything; stripping them is correct regardless, because
+# an admissions page and a treatise signature are not the chapter's prose and are governed by
+# HEAD_VOICE_DIAL rather than by this baseline.
+BLOCK = re.compile(
+    r"\n?\n<!-- (MARGINALIA|EPIGRAPH-BYLINE|POSTCARD|HANDBOOK|SIGNATURE) -->\n"
+    r".*?\n<!-- /\1 -->\n", re.S)
 
 BE     = re.compile(r"\b(is|are|was|were|be|been|being)\b", re.I)
 COPULA = re.compile(r"^\W*[\w'][\w' ]{0,30}\s(is|are|was|were)\s", re.I)
@@ -48,6 +55,19 @@ WASTE  = re.compile(r"\b(it|this|that|there)\b", re.I)
 # WIDENED 2026-07-31. The first version required the noun immediately after the article, so
 # "the polite version" and "the composed version" both walked through on one adjective.
 # Wendell caught both by eye, twice, which is the whole argument for widening it.
+# EMPTY, added 2026-07-31. Wendell, on a draft that passed all six counters:
+# "I'm starting to hate the word 'Thing' like I'm starting to hate the word room.
+# It's a wack-a-mole of empty words."
+#
+# He is describing a hole, not a preference. Driving `waste` down removes pronouns,
+# and what replaces them is an empty noun the other six counters cannot see. Measured
+# on the draft that prompted this: 23.1 per thousand, against 0.0 in both of the
+# sections it was written to sit beside and 14.0 book-wide, while every existing
+# counter reported it clean.
+EMPTY = re.compile(r"\b(thing|things|something|anything|nothing|version|versions"
+                   r"|stuff|way|ways|part|parts|aspect|aspects|element|elements"
+                   r"|area|areas|piece|pieces|room|rooms)\b", re.I)
+
 ZOMBIE = re.compile(r"\b(?:the|a|an)\s+(?:\w+\s+){0,2}"
                     r"\w+(?:tion|ment|ance|ence|ness|ity|ism|sion)\b", re.I)
 
@@ -105,7 +125,9 @@ BASE = {"be": 50.3, "copula": 29.1, "waste": 56.3, "zombie": 15.0, "expletive": 
         # MEASURED across the nine chapters 2026-07-31, the day the counter was added.
         # The first value here was 5.6 and I had typed it rather than measured it, which is
         # the exact failure this file exists to catch. The book runs 3.1.
-        "passive": 3.1}
+        "passive": 3.1,
+        # measured across manuscript/ch*.md, 2026-07-31
+        "empty": 14.0}
 
 # REGISTERS — the criteria adjusting to the book, added 2026-07-31.
 #
@@ -130,6 +152,26 @@ REGISTERS = {
                "carries I am, we are, it is at a rate expository prose does not. Ruled "
                "2026-07-31: 'the letter is ok because it is the register of a personal "
                "letter.'",
+    },
+    # The same ruling as CH5_REGISTER below, reached through the chapter rather than the
+    # draft. SPEC_REGISTER_BLOCKS_2026-07-31 §1: the charter is 409 words inside a
+    # 10,000-word file, so a file-level exception fires on the draft and never on ch5.md.
+    "ch5.md": {
+        "blocks": [{
+            "start": "**Clause four.**",
+            "end": "It records no case of a keeper who stopped attempting it either.",
+            # RATCHET, ruled by Wendell 2026-07-31. Each ceiling is the measured value of
+            # the passage as it stands, on the em-dash budget's rule: it may be lowered when
+            # the prose improves and it may never be raised to make a batch pass. Two of
+            # these went DOWN from the numbers I guessed writing the spec, be from 1.60 and
+            # expletive from 2.00, because a measurement beats an estimate in both
+            # directions.
+            "be": 1.40, "zombie": 1.84, "expletive": 1.89, "passive": 11.32,
+            "why": "Quill's annotated charter, seated in ch5 Section 3, 399 words. A charter "
+                   "states what shall be done without naming who does it, which is what "
+                   "makes it a charter rather than a memo. It runs eleven times the book's "
+                   "passive rate and that is the form rather than drift. Ruled 2026-07-31.",
+        }],
     },
     "CH5_REGISTER": {
         "zombie": 1.60, "be": 1.60, "expletive": 2.00,
@@ -211,7 +253,33 @@ def score(text):
         "zombie":    len(ZOMBIE.findall(text)) / w * 1000,
         "expletive": sum(1 for s in S if EXPLETIVE.match(s)) / n * 100,
         "passive":   len(PASSIVE.findall(text)) / w * 1000,
+        "empty":     len(EMPTY.findall(text)) / w * 1000,
     }
+
+
+def split_blocks(text, spec):
+    """Return (body, [(block_text, block_spec), ...]).
+
+    An anchor matching zero times or more than once is a HARD ERROR rather than a silent
+    pass. A register is an exemption, and an exemption that stops applying without saying
+    so is how a defect gets licensed by accident."""
+    out = []
+    for b in spec.get("blocks", []):
+        for key in ("start", "end"):
+            if text.count(b[key]) != 1:
+                raise SystemExit("register anchor %r matched %d times, expected 1"
+                                 % (b[key][:56], text.count(b[key])))
+        i = text.index(b["start"])
+        j = text.index(b["end"]) + len(b["end"])
+        out.append((text[i:j], b))
+        text = text[:i] + text[j:]
+    return text, out
+
+
+def read(f):
+    """The scored surface of a file: frame blocks stripped, excepted blocks lifted out."""
+    t = BLOCK.sub("", io.open(f, encoding="utf-8").read())
+    return split_blocks(t, register_for(os.path.basename(f)))
 
 
 def main():
@@ -223,35 +291,43 @@ def main():
         files = sorted(glob.glob(os.path.join(MS, "ch*.md")),
                        key=lambda f: int(re.search(r"ch(\d+)", os.path.basename(f)).group(1)))
 
-    keys = ["be", "copula", "waste", "zombie", "expletive", "passive"]
+    keys = ["be", "copula", "waste", "zombie", "expletive", "passive", "empty"]
     print("ratio against the book's own baseline — 1.00 is average, >1.30 is heavy")
     print("a * marks a counter covered by a named register in REGISTERS\n")
     print(f"{'file':<12}" + "".join(f"{k:>11}" for k in keys))
     print("-" * (12 + 11 * len(keys)))
     worst = []
     for f in files:
-        t = BLOCK.sub("", io.open(f, encoding="utf-8").read())
-        s = score(t)
-        reg = register_for(os.path.basename(f))
-        cells = []
-        for k in keys:
-            r = s[k] / BASE[k]
-            cells.append(f"{r:>10.2f}" + ("*" if k in reg else " "))
-            if r > reg.get(k, 1.30):
-                worst.append((os.path.basename(f), k, r, k in reg))
-        print(f"{os.path.basename(f):<12}" + "".join(cells))
+        name = os.path.basename(f)
+        body, blocks = read(f)
+        reg = register_for(name)
+        for label, text, spec in ([(name, body, reg)]
+                                  + [("  block %d" % (n + 1), bt, bs)
+                                     for n, (bt, bs) in enumerate(blocks)]):
+            s = score(text)
+            cells = []
+            for k in keys:
+                # Compare at the precision that is printed. A ratchet ceiling is copied from
+                # this table by a human, so a true 1.8912 displayed as 1.89 must not report
+                # heavy against a ceiling of 1.89. Rounding first makes the number on the
+                # page and the number in REGISTERS the same number.
+                r = round(s[k] / BASE[k], 2)
+                cells.append(f"{r:>10.2f}" + ("*" if k in spec else " "))
+                if r > spec.get(k, 1.30):
+                    worst.append((label.strip() or name, k, r, k in spec, spec))
+            print(f"{label:<12}" + "".join(cells))
 
     if worst:
         print("\nheavy:")
-        for f, k, r, covered in sorted(worst, key=lambda x: -x[2]):
-            ceiling = register_for(f).get(k, 1.30)
+        for f, k, r, covered, spec in sorted(worst, key=lambda x: -x[2]):
+            ceiling = spec.get(k, 1.30)
             print(f"  {f} {k} {r:.2f} over {ceiling:.2f}"
                   + (" (register ceiling)" if covered else ""))
 
     if verbose:
         print("\n--- passive: a verb with no doer ---")
         for f in files:
-            t = BLOCK.sub("", io.open(f, encoding="utf-8").read())
+            t, _ = read(f)
             for s in sentences(t):
                 m = PASSIVE.search(s)
                 if m:
@@ -259,7 +335,7 @@ def main():
 
         print("\n--- agency: an abstraction doing a human verb (judgement) ---")
         for f in files:
-            t = BLOCK.sub("", io.open(f, encoding="utf-8").read())
+            t, _ = read(f)
             for s in sentences(t):
                 m = AGENT.search(s)
                 if m:
@@ -267,7 +343,7 @@ def main():
 
         print("\n--- expletive / orphan openers: no noun behind the pronoun ---")
         for f in files:
-            t = BLOCK.sub("", io.open(f, encoding="utf-8").read())
+            t, _ = read(f)
             for s in sentences(t):
                 if EXPLETIVE.match(s):
                     print(f"  {os.path.basename(f)}: {s[:96]}")

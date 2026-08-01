@@ -1,19 +1,19 @@
-# Chapter 1 — The Infinite Arcade
+# CHAPTER 1: THE INFINITE ARCADE — What You Spend, and What Comes Back
 ## *The Game You Didn't Know You Were Playing*
 
 This book is three years late.
 
-I made a promise to readers who trusted me with their money and their hope, and then I couldn't deliver. The reason, when I finally let myself look at it clearly, was both embarrassing and fitting: I was writing a book about allyship, and it was making me a worse ally. Not to the people I was trying to serve — to myself, to the people closest to me, to the work itself.
+I made a promise to readers who trusted me with their money and their hope, and then I couldn't deliver. The reason, when I finally let myself look at it clearly, was both embarrassing and fitting: I was writing a book about allyship, and it was making me a worse ally. Not to the people I was trying to serve. To myself, to the people closest to me, to the work itself.
 
 I knew that helping people from a place of scarcity doesn't work. I'd built a whole framework around that idea. So I told myself I wasn't doing that. I was being responsible. I was staying in integrity. Every word of that was true, and every word of it left the guilt nowhere to go. It went underground. The work went with it.
 
-It wasn't until I gave myself permission to actually be mad — at myself, about the delay, about the gap between who I said I was and what I was doing — that I saw what was happening. I was holding myself hostage. Because I couldn't be perfect in the way I'd decided I had to be, I ended up doing the exact opposite of what I set out to do: making the work smaller, slower, less alive. Less fun.
+It wasn't until I gave myself permission to actually be mad (at myself, about the delay, about the gap between who I said I was and what I was doing) that I saw what was happening. I was holding myself hostage. Because I couldn't be perfect in the way I'd decided I had to be, I ended up doing the exact opposite of what I set out to do: making the work smaller, slower, less alive. Less fun.
 
 Realizing this is what finally unlocked my ability to finish. I could see the pattern clearly, and I kept playing. It didn't have to disappear first. In fact, letting the charge of that awareness exist was what let me alchemize it into the book in your hands right now.
 
-You're the person I made that promise to. This is me showing up — late, imperfect, and in the game.
+You're the person I made that promise to. This is me showing up: late, imperfect, and in the game.
 
-You are a Game Master. You have been running your own allyship campaign for years — whether you named it or not. You decided which harm in a moment got named out loud and which one slid past. You set the stakes with a single sentence, or by saying nothing at all. You did almost none of it on purpose. The conscious you never called those moves. The part that runs on default did — inherited reflexes, old wounds, the face you reach for without checking whether it fits. Your unconscious has been the game master. It has run your allyship the whole time, and it plays by one rule: keep you safe. Helping the people you meant to serve was never its assignment. What changes now: you take the seat. This whole book builds toward that move, and that is why so much of it runs on shadow work. Your shadow is the game master. You cannot take the controls from a player you refuse to look at.
+You are a Game Master. You have been running your own allyship campaign for years, whether you named it or not. You decided which harm in a moment got named out loud and which one slid past. You set the stakes with a single sentence, or by saying nothing at all. You did almost none of it on purpose. The conscious you never called those moves. The part that runs on default did: inherited reflexes, old wounds, the face you reach for without checking whether it fits. Your unconscious has been the game master. It has run your allyship the whole time, and it plays by one rule: keep you safe. Helping the people you meant to serve was never its assignment. What changes now: you take the seat. This whole book builds toward that move, and that is why so much of it runs on shadow work. Your shadow is the game master. You cannot take the controls from a player you refuse to look at.
 
 ---
 
@@ -27,25 +27,25 @@ Most calls to allyship arrive like a summons to court: formal, accusatory, and a
 
 That was the beginner's game. You graduated from it years ago.
 
-You are not here because you haven't tried. You've been doing the evolved version — the relational, emotionally literate, I've-done-my-work version — long enough to know that more trying isn't the answer. You've had the conversations. You've done the reading. You've carried the weight. Somewhere underneath all of it, you've been trying to pay down a debt you inherited — to restore something, to be the one whose effort finally offsets the damage. Most of the stories you tell about your allyship end with you falling short. You are not burned out from too little effort. You are burned out from trying to retire a debt designed never to clear — and some part of you has started to wonder whether the game itself is the problem.
+You are not here because you haven't tried. You've been doing the evolved version (the relational, emotionally literate, I've-done-my-work version) long enough to know that more trying isn't the answer. You've had the conversations. You've done the reading. You've carried the weight. Somewhere underneath all of it, you've been trying to pay down a debt you inherited: to restore something, to be the one whose effort finally offsets the damage. Most of the stories you tell about your allyship end with you falling short. You are not burned out from too little effort. You are burned out from trying to retire a debt designed never to clear, and some part of you has started to wonder whether the game itself is the problem.
 
 Christina Maslach mapped burnout in three dimensions: exhaustion, the depersonalization that distances you from the people you serve, and the loss of any sense that your effort matters. Paul Gorski's work on activist burnout adds the mechanism that makes ours specific: when your activism fuses with your identity, you have no way to regulate the cost. When the work is who you are, no mechanism lets you say "I've spent enough today." The selflessness the movement culture rewards is the same mechanism that empties you out.
 
-The debt frame is the identity fusion made conscious: it's the story that justifies why you can't stop. You owe something you inherited rather than chose. Unlike a financial debt, this one has no final payment — no moment when someone hands you a receipt. The debt was always designed to stay unpayable. Recognizing that is accurate accounting.
+The debt frame is the identity fusion made conscious: it's the story that justifies why you can't stop. You owe something you inherited rather than chose. Unlike a financial debt, this one has no final payment, no moment when someone hands you a receipt. The debt was always designed to stay unpayable. Recognizing that is accurate accounting.
 
 The game frame is the medicine for this, and it works because a game does something specific to your relationship with the stakes. It puts distance between you and the outcome. That distance is detachment, the healthy kind: it lets you stay in a charged fight without the charge running you. You are playing this game. You are not the game. The player fused with the outcome can't play well. The player fused with the cause can't serve it for long.
 
-Using the game frame also clears away most of the uncertainty that plagues people who want to be allies. A game gives you a set of rules. Once you've learned them, you no longer have to think about how to play, even while you're still figuring out how to win and succeed.
+Using the game frame also clears away most of the uncertainty that plagues people who want to be allies. A game gives you a set of rules. Once you've learned them, you no longer have to think about how to play, even while you're still figuring out how to win.
 
 The people you've been most loyal to in this work already knew the vocabulary. You built it together. You assembled the frameworks in the college friend group, piece by piece, over years of conversations that felt like the most important conversations you'd ever had. You carried them into the progressive org spaces, where the right term signals safety before you've done anything to prove it. You still use them in the dating profile and the group chat, where fluency in the language is the price of admission, and everyone pays it because the alternative is to start from scratch every time.
 
-I have spent my whole adult life in those spaces, and I have needed them. The shared language does something good: it gives me permission to lower my guard and show up as myself. The same fluency that lets me in keeps other people out. It can also pass for the work itself. Speaking the language starts to feel like helping the people I am trying to serve, when all it has done is get me through the door. That is a game of its own, and it is one I have played for myself. The move looks like allyship. The payout lands in my safety and my belonging, and the person I meant to serve never sees a point of it.
+I have spent my whole adult life in those spaces, and I have needed them. The shared language does something good: it gives me permission to lower my guard and show up as myself. The same fluency that lets me in keeps other people out. It can also pass for the work itself. Speaking the language starts to feel like helping the people I am trying to serve, when all it has done is get me through the door. That is a game of its own, and it is one I have played for myself. The move looks like allyship. The payout lands in my safety and my belonging, and the person I meant to serve never sees a penny of it.
 
-Real allyship happens in plenty of places that game never reaches, and there, fluency earns you nothing. Children receive care or not based on whether you actually understand something, and your theory of harm stays invisible to them. People from cultural traditions different enough from yours meet the language of allyship as an import, one more Western frame explaining their experience back to them. Community organizations do unglamorous, necessary work in a register with no political language at all, where nobody has ever said "center the marginalized" out loud and people are being fed.
+Real allyship happens in plenty of places that game never reaches, and there, fluency earns you nothing. Children receive care or not based on whether you actually understand what they need, and your theory of harm is invisible to them either way. People from cultural traditions different enough from yours meet the language of allyship as an import, one more Western frame explaining their experience back to them. Community organizations do unglamorous, necessary work in a register with no political language at all, where nobody has ever said "center the marginalized" out loud and people are being fed.
 
 You have watched this happen up close. In the summer of 2020, people who had never organized anything showed up ready to help, and some of the spaces they walked into asked them to master a vocabulary and a set of positions before they could hand out a meal or knock on a door. The impulse was earned. Newcomers with good intentions do real damage, and the language was a way to screen for care. Over time, though, the screening became the event. Getting the words right started to count as the help itself, and people who were ready to do the work heard that they had to speak correctly first. A good number of them left.
 
-This is an old pattern wearing new clothes. Missionaries once required the people they came to serve to convert before they would hand out the food, and most of us recognize that now as a betrayal of the help itself. Fewer of us are willing to ask whether the vocabulary we have built does the same quieter thing: a set of conditions to meet before the real help arrives. Sometimes the vocabulary is necessary. We almost never stop to assess whether it is.
+This is an old pattern wearing new clothes. Missionaries once required the people they came to serve to convert before they would hand out the food, and most of us recognize that now as a betrayal of the help itself. Fewer of us are willing to ask whether the vocabulary we have built asks for the same conversion, less visibly: a set of conditions to meet before the real help arrives. Sometimes the vocabulary is necessary. We almost never stop to assess whether it is.
 
 The game you moved into has the same design flaw, and I want to be careful here because I ran it for years. The suffering that actually moves you is enormous and far away, and you cannot reach it. Helplessness like that does not resolve on its own. Left unmetabolized, it turns into a drive to control what you can, and what you can control is the people close enough to touch. The friend who votes wrong, the parent whose politics make you wince, the coworker who says the outdated thing in the meeting: each one becomes a mascot for the helplessness you never worked through. You set out to raise their consciousness the way Pygmalion set out to carve himself the perfect woman, and converting them starts to feel like doing something about the suffering you cannot reach. The words make a very convincing receipt. You said the right thing, so surely you are helping.
 
@@ -59,7 +59,7 @@ You came here to get better at this, and "this" will not hold still. Every year 
 
 Here is the good news, and it happens to be the whole design of the book: you do not have to learn everyone. You learn one process, and you run it on one person, or one community, or one cause, all the way to the end. Then you shuffle up and run it again on the next one. That replay is on purpose. It is the difference between a book you finish and a game you keep coming back to. You did not burn out from caring too much. You burned out from starting the process on everyone and finishing it with no one.
 
-So pick one: the community you keep trying to help from the cheap seats, the cause that has been billing you for years, or the person whose fight you want to stand next to without turning it into a documentary about your growth. Choose the one where you care the most and change the least (you already know which one it is), and bring it with you into every chapter. You do not have to fix it today. You just have to keep it where you can see it. This is where you pick up the controls.
+So pick one: the community you keep trying to help from the cheap seats, the cause that has been billing you for years, or the person whose fight you want to stand next to without turning it into a documentary about your growth. Choose the one where you care the most and change the least (you already know which one it is), and bring it with you into every chapter. You do not have to fix it today. You just have to keep it where you can see it. This is where you pick up the joystick.
 
 ## The Myths That Keep You Playing the Wrong Game
 
@@ -67,7 +67,7 @@ Most people do not come to allyship empty-handed. They come because something is
 
 You answered those questions with myths, the way everyone does. Myths are how human beings make sense of a world too big to hold; they give reality a shape you can move around in. Here is what the guilt never tells you: every one of these myths is a solvable puzzle, and this book hands you the moves to take each one apart. Just seeing the whole map of them, before you solve a single one, makes you a sharper ally than you were a page ago.
 
-Allyship looks like the honorable place to bring those questions — and springs the trap. Bring them here and the question flips underneath you: instead of asking whether you are good, you start trying to prove it, one act of help at a time. That is the master myth, allyship means being good, and it comes in ten versions. A few of them are almost certainly running you right now.
+Allyship looks like the honorable place to bring those questions, and springs the trap. Bring them here and the question flips underneath you: instead of asking whether you are good, you start trying to prove it, one act of help at a time. That is the master myth, allyship means being good, and it comes in ten versions. A few of them are almost certainly running you right now.
 
 - Allyship means being good.
 - Allyship means helping the less powerful.
@@ -80,7 +80,7 @@ Allyship looks like the honorable place to bring those questions — and springs
 - Allyship means never causing harm.
 - Allyship means having the right framework.
 
-(The app runs a short, unflattering diagnostic that tells you which of these are yours and hands each one back with the page that takes it apart. It scores how you actually behave, and it will not tell you which kind of ally you are, because that question belongs to the trap.)
+(A short, unflattering diagnostic at masteringallyship.com tells you which of these are yours and hands each one back with the page that takes it apart. It scores how you actually behave, and it will not tell you which kind of ally you are, because that question belongs to the trap.)
 
 Every one of them holds a little truth, and that truth keeps them alive. Goodness matters, language matters, repair matters. The damage starts when one of them becomes the whole definition. The day allyship means being good, every exchange turns into a test you are taking, and the person in front of you stops being a person and becomes the examiner. You stop watching them and start watching yourself for proof that you passed. The help never lands, because you were looking at the scoreboard in your own head the whole time. You spend everything, they receive almost nothing, and you go home wondering why caring this much leaves you this empty. That emptiness is the receipt for a game that was never built to be won. It was built to keep you playing.
 
@@ -100,7 +100,7 @@ So you are not the defendant waiting on a verdict about your character. You are 
 
 Every game runs on a currency, and the first rule you get to rewrite is what you pay with.
 
-In the Arcade the currency is tokens, and they come in two kinds. Most of us have only ever been handed the first. **Non-renewable tokens** come from scarcity: guilt, obligation, the need to be seen as good, the inherited debt you keep trying to retire. They are accelerant. They move you right now and bill you later, and the bill comes due in feeling worse about yourself, so every drop you burn has to be paid for by burning a little more of you. This is the fuel most allyship runs on. Show up, amplify, center, listen, do more: none of it wrong, all of it silent about the fact that you have been feeding the game your own body. (Yu-kai Chou spent a decade mapping exactly this — why some fuel keeps a player in the game and some burns them out of it.)
+In the Arcade the currency is tokens, and they come in two kinds. Most of us have only ever been handed the first. **Non-renewable tokens** come from scarcity: guilt, obligation, the need to be seen as good, the inherited debt you keep trying to retire. They are accelerant. They move you right now and bill you later, and the bill comes due in feeling worse about yourself, so every drop you burn has to be paid for by burning a little more of you. This is the fuel most allyship runs on. Show up, amplify, center, listen, do more: none of it wrong, all of it silent about the fact that you have been feeding the game your own body. (Yu-kai Chou spent a decade mapping exactly this: why some fuel keeps a player in the game and some burns them out of it.)
 
 Here is the myth this section takes apart. You have believed that the emptier you get, the more the care must have counted. Depletion looked like the proof that devotion leaves behind. It is a design flaw. You have been using yourself as the fuel, and a fire that eats its own hearth goes out.
 
@@ -128,27 +128,27 @@ Return to the thing you brought with you. After you engage it, do you walk away 
 
 The opening gave you one reason to run allyship as a game: the frame sets distance between you and the outcome, and it hands you clear rules and objectives in a place where most people are improvising blind. Detachment and clarity. That is the first reason.
 
-Here is the second, and I will say it plainly, because it is the objection that makes serious people wave the whole idea away: a game is fun. If "fun" sounds too small for work this heavy, call it by its real name — engaging. A chore needs you to supply the motivation; you brace, you discipline, you drag yourself toward it. A game supplies the motivation itself. That is the entire difference between the two.
+Here is the second, and I will say it plainly, because it is the objection that makes serious people wave the whole idea away: a game is fun. If "fun" sounds too small for work this heavy, call it by its real name: engaging. A chore needs you to supply the motivation; you brace, you discipline, you drag yourself toward it. A game supplies the motivation itself. That is the entire difference between the two.
 
-If making allyship a game feels like it cheapens something sacred, look at what the alternative actually costs. Most allyship is built as a chore — a duty, a debt, a weight good people carry — and it runs on the fuel we already named as the kind that empties you: obligation, guilt, the grim credit of having suffered for the cause. That model does not fail because people care too little. It fails because caring, run as suffering, burns down to nothing, and the person you showed up for is left standing there the day you finally collapse. Unless you are built to find meaning in your own depletion, a version of this work that offers you no engagement is a version you will quit.
+If making allyship a game feels like it cheapens something sacred, look at what the alternative actually costs. Most allyship is built as a chore (a duty, a debt, a weight good people carry), and it runs on the fuel we already named as the kind that empties you: obligation, guilt, the grim credit of having suffered for the cause. That model does not fail because people care too little. It fails because caring, run as suffering, burns down to nothing, and the person you showed up for is left standing there the day you finally collapse. Unless you are built to find meaning in your own depletion, a version of this work that offers you no engagement is a version you will quit.
 
 James Carse put the distinction in its cleanest form. A finite game is played to win and it ends. An infinite game is played to keep the play going, and the only way to lose is to stop playing. Allyship has no finish line, which makes it infinite by nature, and nearly everything built to support it is finite: the campaign, the pledge, the training you complete, the bar you clear and then clear again. Burnout is what it feels like to run finite equipment on an infinite road. That is why this chapter is called the Infinite Arcade, and it is why the answer is a better game rather than more willpower.
 
-Yu-kai Chou spent a decade mapping what actually keeps a human being playing — what pulls people back to some things for years and drives them out of others for good. Games are engineered around the first kind of pull. Allyship, almost always, is built out of the second. Calling a game a trick for making serious work go down easier gets it backwards. A game is the only structure that generates the energy to keep doing serious work for a lifetime instead of one burnout cycle.
+Chou's decade of mapping answers a second question: what pulls people back to some things for years and drives them out of others for good. Games are engineered around the first kind of pull. Allyship, almost always, is built out of the second. Calling a game a trick for making serious work go down easier gets it backwards. A game is the only structure that generates the energy to keep doing serious work for a lifetime instead of one burnout cycle.
 
-The third reason changes everything: a game is the only frame that will get you to look straight at the part of your allyship you least want to see — and enjoy it.
+The third reason changes everything: a game is the only frame that will get you to look straight at the part of your allyship you least want to see, and enjoy it.
 
-Here is what I left out of the story I told you at the start. When I said I held myself hostage for three years, I made it sound like something that happened to me. It wasn't. Some part of me was getting off on it — the martyrdom, the being-behind, the noble suffering of the ally who cares too much to finish. A hidden part of me was feeding on all of it, and that's exactly why I couldn't stop by deciding to. You cannot quit a pattern you don't know you're enjoying.
+Here is what I left out of the story I told you at the start. When I said I held myself hostage for three years, I made it sound like something that happened to me. It wasn't. Some part of me was getting off on it: the martyrdom, the being-behind, the noble suffering of the ally who cares too much to finish. A hidden part of me was feeding on all of it, and that's exactly why I couldn't stop by deciding to. You cannot quit a pattern you don't know you're enjoying.
 
-Carolyn Elliott calls this existential kink: the shadow doesn't run you because it feels bad. It runs you because, somewhere out of sight, it feels *good*, and you've never let yourself admit it. The being-needed. The safety of the line you never cross. The exhaustion you wear like proof. Some part of you is delighted by the very thing you complain about — and as long as that delight stays in the dark, it owns you.
+Carolyn Elliott calls this existential kink: the shadow doesn't run you because it feels bad. It runs you because, somewhere out of sight, it feels *good*, and you've never let yourself admit it. The being-needed. The safety of the line you never cross. The exhaustion you wear like proof. Some part of you is delighted by the very thing you complain about, and as long as that delight stays in the dark, it owns you.
 
-A game turns the lights on: it takes the charge you've been running in secret and sets it on the board, where you can finally see what you're getting out of it, say so, and — this is the whole move — enjoy it on purpose instead of by accident. The moment the pleasure turns conscious, it stops being your driver and becomes your fuel. A chore asks you to grit your teeth against the pattern. A game invites you to catch yourself in the act, name your own existential kink, and grin.
+A game turns the lights on: it takes the charge you've been running in secret and sets it on the board, where you can finally see what you're getting out of it, say so, and (this is the whole move) enjoy it on purpose instead of by accident. The moment the pleasure turns conscious, it stops being your driver and becomes your fuel. A chore asks you to grit your teeth against the pattern. A game invites you to catch yourself in the act, name your own existential kink, and grin.
 
-If that landed as an accusation, notice the flinch — that's the shadow guarding its stash. If it landed as relief, you were already ready to hear it.
+If that landed as an accusation, notice the flinch. That's the shadow guarding its stash. If it landed as relief, you were already ready to hear it.
 
-Look at what the payoff really buys you. It buys safety, so fear sits at the center of the work. Raw, fear freezes you or turns you back. A game turns it into the thing standing right beside it — wonder, the same charge, now pointed at the door instead of away from it.
+Look at what that stash really buys you. It buys safety, so fear sits at the center of the work. Raw, fear freezes you or turns you back. A game turns it into the thing standing right beside it: wonder, the same charge, now pointed at the door instead of away from it.
 
-Detachment, engagement, and the nerve to look at what you'd rather not: three reasons the game frame is medicine and not a gimmick, and the rest of this book builds that engine. Allyship reaches you as three games running at once: the lucky breaks you cannot schedule, the skills you can actually build, and the love that keeps you coming back. Everything ahead is built to strengthen your hand in all three — to keep you present for the breaks when they come, to sharpen the moves that are yours to make, and to deepen the passion that keeps you at the machine long after discipline would have quit. That is the board we are about to map.
+Detachment, engagement, and the nerve to look at what you'd rather not: three reasons the game frame is medicine and not a gimmick, and the rest of this book builds that engine. Allyship reaches you as three games running at once: the lucky breaks you cannot schedule, the skills you can actually build, and the love that keeps you coming back. Everything ahead is built to strengthen your hand in all three: to keep you present for the breaks when they come, to sharpen the moves that are yours to make, and to deepen the passion that keeps you at the machine long after discipline would have quit. That is the board we are about to map.
 
 ## Which Game Are You Playing
 
@@ -156,63 +156,63 @@ Here they are, and each one pays out differently. Most frameworks teach one and 
 
 **Games of Chance — right place, right time.**
 
-You cannot control the right place or the right time. You can only control whether you are standing there when they arrive. A Game of Chance is the reorg that dissolves the case your coworker spent two weeks building the week before she files — timing you never touched, three floors up, deciding everything. It runs the opposite way too: you are on a group thread you got copied on by habit, you catch that a hire is about to go sideways, and the one message you send, because you happened to be there to send it, lands the right person the job. Same game. You do not get to schedule either one.
+You cannot control the right place or the right time. You can only control whether you are standing there when they arrive. A Game of Chance is the reorg that dissolves the case your coworker spent two weeks building the week before she files: timing you never touched, three floors up, deciding everything. It runs the opposite way too: you are on a group thread you got copied on by habit, you catch that a hire is about to go sideways, and the one message you send, because you happened to be there to send it, lands the right person the job. Same game. You do not get to schedule either one.
 
-That is why Chance pays the biggest of the three — jackpot money, the wins that reshape things. The price of that ceiling is that you cannot make it hit on command. So you play a Game of Chance one way: stay in the game. Keep showing up in the places where the break could land, and refuse to read the losses as failure. When the reorg eats the case, you did not misplay it. You were in the game, the only move Chance rewards — and the jackpot you are still there for is real.
+That is why Chance pays the biggest of the three: jackpot money, the wins that reshape things. The price of that ceiling is that you cannot make it hit on command. So you play a Game of Chance one way: stay in the game. Keep showing up in the places where the break could land, and refuse to read the losses as failure. When the reorg eats the case, you did not misplay it. You were in the game, the only move Chance rewards, and the jackpot you are still there for is real.
 
 **Games of Skill — the part you can build.**
 
-A Game of Skill is the one you actually control. Hearing what a person means underneath what they say is a skill. Naming your walk-away price and saying it before the pressure says it for you is a skill. Nobody is born fluent; you get them the way you get any skill, doing it badly and then less badly. The payout is honest and proportional — you get back about what your skill earns, no jackpot, no leverage, a steady wage for competence.
+A Game of Skill is the one you actually control. Hearing what a person means underneath what they say is a skill. Naming your walk-away price and saying it before the pressure says it for you is a skill. Nobody is born fluent; you get them the way you get any skill, doing it badly and then less badly. The payout is honest and proportional: you get back about what your skill earns, no jackpot, no leverage, a steady wage for competence.
 
 With one catch: a skill only pays where someone wants it. Bring the sharpest skeeball game in the world to an arcade whose owner is exhausted and going under, and you will not make a dime, because nobody there is playing. Skill is worth exactly what someone nearby actually needs from it. So it is two moves, not one: build the skill, and take it to a floor where people are reaching for it.
 
 **Games of Passion — the ones you would play for free.**
 
-Then comes the game you would put your own quarters into. It has chance and skill inside it — every Game of Passion does — but the payout is not why you are at the machine. You are there because you love playing it, because it keeps handing you another corner of the world to explore, because you would come back tomorrow whether or not it ever paid. That is the tell of a Game of Passion: the playing is the prize.
+Then comes the game you would put your own quarters into. It has chance and skill inside it (every Game of Passion does), but the payout is not why you are at the machine. You are there because you love playing it, because it keeps handing you another corner of the world to explore, because you would come back tomorrow whether or not it ever paid. That is the tell of a Game of Passion: the playing is the prize.
 
-This game keeps you in the Arcade at all. Chance needs you present for years before the jackpot lands. Skill needs you practicing long past boredom. Neither one survives on discipline alone — what keeps you at the machine through the dry spells is that some part of this you would do for love. Most frameworks call that love a liability, too invested, too irrational. In the Arcade it is the power supply. It is the reason you are still here, holding a book about allyship, when quitting was always the easier play.
+This game keeps you in the Arcade at all. Chance needs you present for years before the jackpot lands. Skill needs you practicing long past boredom. Neither one survives on discipline alone: what keeps you at the machine through the dry spells is that some part of this you would do for love. Most frameworks call that love a liability, too invested, too irrational. In the Arcade it is the power supply. It is the reason you are still here, holding a book about allyship, when quitting was always the easier play.
 
-So take the one you brought with you and sort it, once. Where is it Chance — moving on its own clock, asking only that you stay in the game? Where is it Skill — waiting for you to get better, and to carry that better to people who want it? Where is it Passion — the part you would keep playing after every reasonable person told you to stop? You do not need a clean answer. You just put your hands on the controls.
+So take the one you brought with you and sort it, once. Where is it Chance, moving on its own clock, asking only that you stay in the game? Where is it Skill, waiting for you to get better, and to carry that better to people who want it? Where is it Passion, the part you would keep playing after every reasonable person told you to stop? You do not need a clean answer. You just put your hands on the joystick.
 
 ## The Six Faces
 
 You just sorted your situation into three kinds of game. Now meet the six who can teach you to play it.
 
-Six Game Masters run the Infinite Arcade, and each one has spent a lifetime on a different kind of allyship game. The **Shaman** feels the thing before anyone can name it. The **Challenger** moves when everyone else freezes. The **Regent** keeps what works and hands it on. The **Architect** makes the right move the easy move. The **Diplomat** keeps people at the table who should have walked out an hour ago. The **Sage** sees which game is actually being played. Each of them plays all three games you just met — a jackpot they chase, a signature skill, a reason they keep coming back. *[visual: the six Game Masters]*
+Six Game Masters run the Infinite Arcade, and each one has spent a lifetime on a different kind of allyship game. The **Shaman** feels the thing before anyone can name it. The **Challenger** moves when everyone else freezes. The **Regent** keeps what works and hands it on. The **Architect** makes the right move the easy move. The **Diplomat** keeps people at the table who should have walked out an hour ago. The **Sage** sees which game is actually being played. Each of them plays all three games you just met: a jackpot they chase, a signature skill, a reason they keep coming back.
 
 You walked in already knowing how to play one of these games.
 
-You have a home face — one you reach for without deciding to, one that feels like plain decency rather than a strategy. *That "without deciding" is your unconscious game master, still calling the moves.* You are good at this face. You have spent years sharpening it. You have also played it so hard, so long, that you have started to run its shadow.
+You have a home face, one you reach for without deciding to, one that feels like plain decency rather than a strategy. *That "without deciding" is your unconscious game master, still calling the moves.* You are good at this face. You have spent years sharpening it. You have also played it so hard, so long, that you have started to run its shadow.
 
-The shadow lives in the face you overplay. Every face has one: its own strength pushed past the point where it still helps. The Diplomat keeps everyone at the table until nothing can be decided. The Challenger draws a clean line straight through the people he meant to protect. The Architect falls for the blueprint and never shows up in person. (If the first half of this chapter felt like it was reading your mail, that is one face's shadow — the Diplomat's — worn so long it stopped looking like a choice. I know that shadow from the inside: I kept this very book in conversation for three years, everyone comfortable, nothing decided. If the Diplomat is your home face, you already know. If a different one is, you know it by its own shadow.)
+The shadow lives in the face you overplay. Every face has one: its own strength pushed past the point where it still helps. The Diplomat keeps everyone at the table until nothing can be decided. The Challenger draws a clean line straight through the people he meant to protect. The Architect falls for the blueprint and never shows up in person. (If the first half of this chapter felt like it was reading your mail, that is one face's shadow, the Diplomat's, worn so long it stopped looking like a choice. I know that shadow from the inside: I kept this very book in conversation for three years, everyone comfortable, nothing decided. If the Diplomat is your home face, you already know. If a different one is, you know it by its own shadow.)
 
-You do care too much, and it costs you. You care about everyone — you would say so, and mean it — and you run all of that care through one face, on a field too narrow to hold it. It burns you down, because one face cannot carry that much. It misses, because one face is the wrong move as often as the right one.
+You do care too much, and it costs you. You care about everyone (you would say so, and mean it), and you run all of that care through one face, on a field too narrow to hold it. It burns you down, because one face cannot carry that much. It misses, because one face is the wrong move as often as the right one.
 
-Sometimes the friend, the coworker, the kid, the community you show up for needs a Challenger — one clean, costly line — and all you have is the Diplomat, so you keep the peace and they never get what they came for. Sometimes they need an Architect to change the rule that keeps hurting them, and you give them the Shaman's feel for what everyone is carrying, and the rule does not move. The reason to widen your range is the person in front of you — the one who needed a move you did not have.
+Sometimes the friend, the coworker, the kid, the community you show up for needs a Challenger (one clean, costly line), and all you have is the Diplomat, so you keep the peace and they never get what they came for. Sometimes they need an Architect to change the rule that keeps hurting them, and you give them the Shaman's feel for what everyone is carrying, and the rule does not move. The reason to widen your range is the person in front of you, the one who needed a move you did not have.
 
-You already have the process that runs every one of these faces: the loop, which the Headmaster sets out in the letter standing at the door of the six schools. Each Game Master takes a chapter to teach you their game, and the loop is how you play it. By the end you reach for the face the moment needs instead of the one your hands find on their own.
+One process runs every one of these faces: the WAVE, which the Shaman hands you in Chapter 3 and every school after that one uses. Each Game Master takes a chapter to teach you their game, and the WAVE is how you play it. By the end you reach for the face the moment needs instead of the one your hands find on their own.
 
 You can feel which face is your home. Hold onto it. In the next section you put it on paper.
 
 ## Build Your Allyship Character
 
-This is your character sheet — a few lines, filled in for who you are right now.
+This is your character sheet, a few lines filled in for who you are right now.
 
-**Your home face.** The one you already play — the one you just recognized as yours. Write it down.
+**Your home face.** The one you already play, the one you just recognized as yours. Write it down.
 
-**Your shadow.** Your home face has a bad night. Tired, scared, or spent, it stops being your strength and turns into the thing you overplay — the Diplomat who keeps the peace until nothing gets decided, the Challenger who scorches the people he came to protect. You catch this one by feel: under strain it comes in heavier, tighter, more reactive than your real move. Write down the version of your face you fall into on empty. Treat it as your tell rather than your enemy.
+**Your shadow.** Your home face has a bad night. Tired, scared, or spent, it stops being your strength and turns into the thing you overplay: the Diplomat who keeps the peace until nothing gets decided, the Challenger who scorches the people he came to protect. You catch this one by feel: under strain it comes in heavier, tighter, more reactive than your real move. Write down the version of your face you fall into on empty. Treat it as your tell rather than your enemy.
 
-**Your myth.** Back at the start you met the ten versions of *allyship means being good*. Write down the one that runs you hardest — the rule you have been playing by without ever agreeing to it. (The app's Myths Read sorts your real top few, unflattering and exact, and turns each one into a first move.)
+**Your myth.** Back at the start you met the ten versions of *allyship means being good*. Write down the one that runs you hardest, the rule you have been playing by without ever agreeing to it. (The Myths Read sorts your real top few, unflattering and exact, and turns each one into a first move.)
 
 **Your quest.** Not "get better at allyship." A cause. The specific fight, community, or person you are actually in this for. Name them. This is who your range is for.
 
 That is the sheet for now. It fills in as you play: a superpower you will only spot in motion, an autopilot pattern you will catch yourself running, a line added in every chapter ahead.
 
-Pen and paper hold this fine. The app holds it better — it keeps the sheet somewhere you will actually find it, dates every version, and shows you how your face, your shadow, and your myths move across a year of play, the change you cannot see from inside a single week. It is the same app that keeps your BARs, and your book comes with thirty days in it.
+Pen and paper hold this. Date every version, and across a year of play you can watch your face, your shadow and your myths move, which is the change you cannot see from inside a single week.
 
 ## The Reader's Oath
 
-What follows is a bit of theater. Do it anyway. Every serious game keeps an oath — the scout's, the athlete's, the doctor's — and you say the words out loud to drive them past your thinking mind, into the place where you actually make your moves.
+What follows is a bit of theater. Do it anyway. Every serious game keeps an oath (the scout's, the athlete's, the doctor's), and you say the words out loud to drive them past your thinking mind, into the place where you actually make your moves.
 
 So say it. Out loud if you can, because a thing said out loud is harder to take back.
 
@@ -230,23 +230,23 @@ So say it. Out loud if you can, because a thing said out loud is harder to take 
 
 *I am not here to be good. I am here to keep playing.*
 
-This oath is not to me. You can't fail me — you can only fail yourself.
+This oath is not to me. You can't fail me: you can only fail yourself.
 
 The only way to lose is to stop playing.
 
 ## Capture What Lands — The BAR Deck
 
-I wrote this chapter to hit you. That is the craft, and by now some of it has. I have also sat on the other side of a book that hit me — more times than I can count — and I know what comes next, because it kept happening to me. The impact fades. By morning the charge is gone and I am the same person I was before I opened it. Moved, and unchanged. If that is all this book does, I have failed, and so has every book you pick up after it.
+I wrote this chapter to hit you. That is the craft, and by now some of it has. I have also sat on the other side of a book that hit me (more times than I can count), and I know what comes next, because it kept happening to me. The impact fades. By morning the charge is gone and I am the same person I was before I opened it. Moved, and unchanged. If that is all this book does, I have failed, and so has every book you pick up after it.
 
-The part of you that believes your life will change because you wrote it down in a journal is part of the problem. Writing is not the issue — putting the thought, the feeling, the experience on a page is halfway to something. Everything breaks in what happens to the page next. It goes into a notebook you will almost never reopen, because reviewing a journal is real work and no one has made that part work. The impact goes in. It does not come back out.
+The part of you that believes your life will change because you wrote it down in a journal is part of the problem. Writing is not the issue: putting the thought, the feeling, the experience on a page is halfway to something. Everything breaks in what happens to the page next. It goes into a notebook you will almost never reopen, because reviewing a journal is real work and no one has made that part work. The impact goes in. It does not come back out.
 
-BARs came out of a fix for this. Years ago I started carrying blank poker cards, and when something hit me — the kind of hit you know you will lose by morning — I wrote it on a card. The cards came with me. Here is the part I did not plan: even when I could not remember what a card said, I remembered where it lived. I was carrying a map of the moments that had changed me. The thing that hit me was in my pocket, in the palm of my hand, instead of on a shelf at home. That is what the notebook could not do.
+BARs came out of a fix for this. Years ago I started carrying blank poker cards, and when something hit me (the kind of hit you know you will lose by morning), I wrote it on a card. The cards came with me. Here is the part I did not plan: even when I could not remember what a card said, I remembered where it lived. I was carrying a map of the moments that had changed me. The thing that hit me was in my pocket, in the palm of my hand, instead of on a shelf at home. That is what the notebook could not do.
 
-A **BAR** is that card. Captured charge — one moment of your own play, caught while the heat is still on it, carried where you can reach it instead of filed where you cannot.
+A **BAR** is that card. Captured charge: one moment of your own play, caught while the heat is still on it, carried where you can reach it instead of filed where you cannot.
 
 The name is the method. **B**reakthrough: what hit you. **A**ction: the one move it points to. **R**eflection: what changed when you moved. The first is what you write while the charge is live; the other two after you have spent it on a move.
 
-The cards live in the app now, so you are not carrying a paper deck in your coat. Every BAR becomes a card in a deck that is yours, built from what actually hit you instead of someone else's checklist. Read, capture, move, and by the last chapter you hold a deck no one else could have built. Stuck in a live moment a year from now, you draw from it and it hands you back something you earned once already. That is what the notebook on the shelf never did: it kept the thing that changed you where you could pick it up and play it again.
+Every BAR becomes a card in a deck that is yours, built from what actually hit you instead of someone else's checklist. Read, capture, move, and by the last chapter you hold a deck no one else could have built. Stuck in a live moment a year from now, you draw from it and it hands you back something you earned once already. That is what the notebook on the shelf never did: it kept the thing that changed you where you could pick it up and play it again.
 
 ## Your First BAR
 
@@ -254,7 +254,7 @@ Before you go in, make your first BAR.
 
 Something in this chapter hit you, or something from the last few days still sits with you. Find that one thing and write it down. One or two sentences, in whatever words are already in your head. You are not solving it or explaining it. You are catching it before it fades, the way I caught mine on those poker cards.
 
-Then keep it on you. Put it in the app, where it becomes the first card in your deck and stays in reach for the rest of the book.
+Then keep it on you. That card is the first in your deck, and it stays in reach for the rest of the book.
 
 That is the whole move. You wrote down something that impacted you, and you kept it somewhere you will actually find it again. Reading gave you the hit. This is you keeping it.
 
@@ -266,4 +266,4 @@ Make the move.
 
 *Playing along*
 
-Your book comes with thirty days in the app, where the BAR you just wrote becomes the first card in your deck and your captures stay in reach as you read. Activate it, and find the hundred-and-twenty-card deck for when you want the moves in your hands, at **[ URL / QR ]**.
+Find the hundred-and-twenty-card deck, for when you want the moves in your hands, at **[ URL / QR ]**.
