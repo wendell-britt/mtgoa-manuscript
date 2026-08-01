@@ -305,11 +305,11 @@ The draw is solo. Not a conflict between you and another person. Your inheritanc
 ## Section 4: The Practice
 ### *The Cycle of Inheritance — How Loyalty Actually Works*
 
-I came up in traditions. Martial arts, church, academia: all of them Regent organizations, all of them built on the assumption that the person before you learned something worth receiving. You showed up, and the tradition showed up with you, and over time it became part of what you could offer.
+I came up in traditions. A house, an archive, a bench: all of them Regent organizations, all of them built on the assumption that the person before you learned something worth receiving. You showed up, and the tradition showed up with you, and over time it became part of what you could offer.
 
 I've spent most of my adult life in movements where that reads as a threat.
 
-I belonged to a collective for a few years. Progressive, justice-focused, the right values on paper, and absolutely no governance. They had decided structure was suspect. Roles meant hierarchy meant oppression. *We'll figure it out as we go* was a principle, not a gap.
+I sat some years with a body that had unwritten its own charter. The right principles, agreed and then struck, and no governance at all. They had decided structure was suspect. Roles meant hierarchy meant oppression. *We'll figure it out as we go* was a principle, not a gap.
 
 I could feel it coming. The way you can feel a building that's going to fail. The people inside are fine. No floor holds them up. I said things. Careful things, the kind you say to a group allergic to structure. I tried to name what I was watching without naming it in the way they feared: the authoritarian, the traditionalist, the one who wants to run things. So I held back some of what I knew. I wore the crown under my hood.
 
@@ -317,7 +317,7 @@ The ones who wanted the crown were looking for a patriarch to give themselves to
 
 The first crisis, they adapted. The second, they circled. By the third, they were arguing about the same things from different angles with no memory of what the original argument had been for.
 
-I stayed. I helped pick up the pieces. Martial arts and the church and watching things dissolve for twenty years actually prepare you for that. You hold what's worth holding. You help people sort out what happened.
+I stayed. I helped pick up the pieces. The house and the bench and watching things dissolve for twenty years actually prepare you for that. You hold what's worth holding. You help people sort out what happened.
 
 I've never figured out how to offer the floor before the crisis. The tradition only becomes legible to people who've already lost something. By then, the invitation to receive it has a very different shape than I wanted it to have.
 

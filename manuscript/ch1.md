@@ -178,7 +178,7 @@ So take the one you brought with you and sort it, once. Where is it Chance, movi
 
 You just sorted your situation into three kinds of game. Now meet the six who can teach you to play it.
 
-Six Game Masters run the Infinite Arcade, and each one has spent a lifetime on a different kind of allyship game. The **Shaman** feels the thing before anyone can name it. The **Challenger** moves when everyone else freezes. The **Regent** keeps what works and hands it on. The **Architect** makes the right move the easy move. The **Diplomat** keeps people at the table who should have walked out an hour ago. The **Sage** sees which game is actually being played. Each of them plays all three games you just met: a jackpot they chase, a signature skill, a reason they keep coming back. *[visual: the six Game Masters]*
+Six Game Masters run the Infinite Arcade, and each one has spent a lifetime on a different kind of allyship game. The **Shaman** feels the thing before anyone can name it. The **Challenger** moves when everyone else freezes. The **Regent** keeps what works and hands it on. The **Architect** makes the right move the easy move. The **Diplomat** keeps people at the table who should have walked out an hour ago. The **Sage** sees which game is actually being played. Each of them plays all three games you just met: a jackpot they chase, a signature skill, a reason they keep coming back.
 
 You walked in already knowing how to play one of these games.
 

@@ -255,23 +255,23 @@ I recover both ends before I am done, and I will ask you to hold them at the sam
 
 If emotional alchemy means learning from emotions instead of managing them, then how do you actually *do it* when you're in the middle of a hard conversation, a crisis, a moment where the feeling is rising and you have thirty seconds to respond?
 
-I used to be very good at putting feelings away.
+Some people are very good at putting feelings away.
 
-Customer service. Someone on the phone, upset. The emotion would arrive, theirs and mine, and my chest would do this particular thing: a tightening, a pulling inward, like a door closing fast. Then I'd be gone. Not literally. I stayed on the call, professional, efficient. The part of me that could feel the situation had left the building.
+A voice on the phone, upset. The emotion arrives, theirs and yours, and the chest does a particular thing: a tightening, a pulling inward, like a door closing fast. Then you are gone. Not literally. You stay on the call, professional, efficient. The part of you that could feel the situation has left the building.
 
-I'd locate the problem. Solve the problem. Move on.
+Locate the problem. Solve the problem. Move on.
 
-It didn't work. Not because I solved the wrong problem. Because the problem wasn't the problem. *The Courage to Be Disliked* has a line: all problems are relational problems. I took it further. All problems are emotional problems. The rupture exists because something has gone unfelt. Solve for the emotion and you can move to service, the thing I thought I was doing all along.
+It does not work. Not because the wrong problem got solved. Because the problem wasn't the problem. *The Courage to Be Disliked* has a line: all problems are relational problems. Take it further. All problems are emotional problems. The rupture exists because something has gone unfelt. Solve for the emotion and you can move to service, which you thought you were doing all along.
 
-I was solving for my own emotion. The tightening in my chest when someone got upset was my discomfort, not theirs. I converted it into competence and action as fast as possible. They got efficiency. They needed presence.
+You are solving for your own emotion. The tightening in your chest when someone gets upset is your discomfort, not theirs. You convert it into competence and action as fast as possible. They get efficiency. They needed presence.
 
-I eventually invented a game, Tough Conversations. One person says: *I have something tough to say and I don't know how to say it.* The other person can only respond two ways: *tell me more,* or *in response to what I've heard, I have something _____ to say and I don't know how to say it.* Back and forth. The game removes the option of solving.
+A game exists for exactly this, Tough Conversations. One person says: *I have something tough to say and I don't know how to say it.* The other person can only respond two ways: *tell me more,* or *in response to what I've heard, I have something _____ to say and I don't know how to say it.* Back and forth. The game removes the option of solving.
 
-The first time I played it, I had to say "tell me more" to something that made me want to fix it immediately. I said the words. I stayed. The person went somewhere they wouldn't have gone if I'd moved. The thing they said next was the real thing, not the complaint, not the position, the feeling underneath it. Fear dressed as criticism. Sadness wearing the costume of an argument.
+The first time you play it, you will have to say "tell me more" to something that makes you want to fix it immediately. You say the words. You stay. The person goes somewhere they would not have gone if you had moved. What they say next is the real one, not the complaint, not the position, the feeling underneath it. Fear dressed as criticism. Sadness wearing the costume of an argument.
 
 The feeling was always there. It was waiting for someone to stay with it.
 
-Most allyship has the same problem I had on those calls. The ally solves for their own emotional problem: the need to feel useful, effective, like a good person in a hard moment. The person they came to help gets efficiency. A real partnership has two people actually getting something from the encounter, both parties more real at the end than at the start. That requires staying with the feeling long enough to find out what it actually is. Not what you want it to be. What it is.
+Most allyship has the same problem those calls had. The ally solves for their own emotional problem: the need to feel useful, effective, like a good person in a hard moment. The person they came to help gets efficiency. A real partnership has two people actually getting something from the encounter, both parties more real at the end than at the start. That requires staying with the feeling long enough to find out what it actually is. Not what you want it to be. What it is.
 
 You need a practice. A structure. Something that repeats reliably so you can get better at it.
 
