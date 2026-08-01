@@ -1,4 +1,4 @@
-# CHAPTER 3: THE SHAMAN
+# CHAPTER 3: THE SHAMAN — What to Do With What You Feel
 ## *Emotional Alchemy as the Foundation of Real Allyship*
 
 

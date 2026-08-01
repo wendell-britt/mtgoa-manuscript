@@ -1,4 +1,4 @@
-# CHAPTER 6: THE ARCHITECT
+# CHAPTER 6: THE ARCHITECT — Fixing the Condition Instead of the Person
 ## *The System That Makes the Right Thing the Easy Thing*
 
 
