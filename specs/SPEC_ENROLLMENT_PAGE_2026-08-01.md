@@ -125,14 +125,15 @@ practice rather than about the reader, which keeps `gate.py`'s A0 counter at 0.
 
 ### Five conflicts this surfaced
 
-1. **Certification is in the book and absent from the offer stack.** The book
-   promises it three times — `ch9:159`, `ch9:192`, `ch9:698` — and
-   `about_the_author.md` says he *"certifies others to run them."* The stack has
-   no certification line; the nearest thing is the cohort producing *"the
-   capacity to become an Allyship Game Master."* **The book cannot promise a
-   product that does not exist.** The draft routes that language into the cohort
-   and stops short of promising a credential. Either certification becomes a real
-   offer or the three ch9 sites need softening. **Wendell's call.**
+1. ~~**Certification is in the book and absent from the offer stack.**~~
+   **RESOLVED — Wendell 2026-08-01: *"certification isn't real yet. Let's remove
+   from the book."*** Four sites, measured by grep, not recalled: `ch9:159`,
+   `ch9:192`, `ch9:698`, and `about_the_author.md`. Edits drafted in
+   `drafts/APPROVED_remove_certification_2026-08-01.md`. The back-matter one is
+   applied on this branch; the three ch9 sites are held by DL-18 and go to the
+   swmp78 queue. **The succession survives every cut** — wanting to hand the
+   method off is a real position and the clearest Teal beat in the book. What
+   goes is the credential, which is a product.
 2. **Cohort duration is unresolved** — the source says 12 weeks in the operating
    code and six months in the workshop-series document, and rules explicitly:
    *"Do not publish either duration as final."* The draft says **"run in a
@@ -146,8 +147,15 @@ practice rather than about the reader, which keeps `gate.py`'s A0 counter at 0.
    physical book cannot be repriced. Every figure routes to
    masteringallyship.com. **Recommend keeping it that way even for the $22 deck**
    — one rule is easier to hold than an exception.
-5. **Naming.** *Allyship Dojo* and *Oracle Deck* appear **nowhere** in the
-   manuscript, and *Dojo* has no in-world gloss. `PRODUCTION_PLAN`'s diegetic
+5. **Naming — partly RESOLVED. Wendell 2026-08-01: the official term is *the
+   Allyship Deck*, and the Oracle Deck is the same object.** The draft says
+   *Allyship Deck* on first mention and *the deck* after, which matches the
+   manuscript: all fifteen of its references say *the deck* and none says
+   *oracle*. **One site still disagrees on a shipping surface** —
+   `ON_THE_SHOULDERS_OF.md:80`, *"the oracle cards — which live in the companion
+   deck and the app rather than in these pages"* — which also names the app the
+   v1 removal cuts. Still open: *Allyship Dojo* appears nowhere in the manuscript
+   and has no in-world gloss. `PRODUCTION_PLAN`'s diegetic
    instinct is right, and a page that never says the product's real name cannot
    convert, because the reader will not recognise it on the site. The draft uses
    the real names and lets the surrounding prose carry the fiction. Worth a
@@ -174,9 +182,10 @@ Taken while the draft was staged at `back_matter/enrollment.md`, then moved out.
 
 ## 5. Open
 
-- **The certification question (conflict 1) is the one that matters** — it is a
-  promise the book makes three times against a product the stack does not list.
-- Ruling on real product names versus in-world names (conflict 5).
+- `ON_THE_SHOULDERS_OF.md:80` — *oracle cards* and the app, both on a shipping
+  surface. One sentence.
+- Whether *Allyship Dojo* needs an in-world gloss anywhere, given it appears
+  nowhere in the nine chapters.
 - Placement question: `about_the_author.md` currently calls Wendell *"the builder
   of bars-engine, the app this book routes to."* That line is already on the
   app-removal cut list and sits on the page immediately before this one.

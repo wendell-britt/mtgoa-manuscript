@@ -8,7 +8,7 @@ Four doors sit on the other side of this book. They are not a ladder. Nobody
 graduates from one into the next, the cheapest is the one most people use
 longest, and some of them will be wrong for you.
 
-**The Oracle Deck.** A hundred and twenty cards. Wake Up, Open Up, Clean Up, Grow
+**The Allyship Deck.** A hundred and twenty cards. Wake Up, Open Up, Clean Up, Grow
 Up, Show Up, crossed against gathering resources, raising awareness, direct
 action and skillful organizing, run through all six Faces. You have met every one
 of them, twenty at a time, in the chapters behind you. The private use comes
