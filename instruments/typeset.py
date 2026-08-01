@@ -308,32 +308,33 @@ BOLD_LINE = re.compile(r"^\*\*[^*].*\*\*$")
 def joined_lines(body, label, flags):
     """Bold label lines the author put on their own line, which markdown joins.
 
-    Markdown folds a single newline inside a paragraph into a space. Obsidian does
-    not — it renders the break — so what Wendell sees in the vault is not what a
-    converter produces, and this is invisible until something is set.
+    Markdown folds a single newline inside a paragraph into a space, so a label
+    written on its own line sets run-in with the line under it. Obsidian renders
+    the break, which is why nobody sees this until something is typeset.
 
-    Thirteen sites, and they do not all want the same answer. Chapter 2's
-    `**Move 1: Spot who's holding the joystick.** In a charged moment...` reads
-    correctly as a bold run-in lead. Chapter 8's
-    `**Alchemy Move 1: Panoramic Seer**` over `Blank-field contraction: **Fear** →
-    *Wonder*` is two labels, and joined it reads as one sentence that is not one.
+    **Only where the author did not already ask for the break.** The first version
+    of this check flagged thirteen sites and eight of them were correct on disk:
+    Chapter 2's five moves and Chapter 4's three steps all end in the two trailing
+    spaces that are markdown's hard line break, and they set on their own line in
+    both editions. Reporting them as defects would have sent Wendell to fix eight
+    lines that were already right.
 
-    So it is reported per site rather than fixed by rule. Four of the Chapter 8
-    sites are worse than a style question: the `---` above them let pandoc read
-    the pair as a *table*, and the old build set four passages of Chapter 8 in a
-    table. Resolving the rules already ended that; how the two lines sit is still
-    open.
+    That leaves Chapter 8's five alchemy moves, which end at the `**` with nothing
+    after it. The book's own convention — set twice, in two chapters, by the same
+    hand — says what they should be.
     """
     lines = body.split("\n")
     for i, line in enumerate(lines[:-1]):
         nxt = lines[i + 1].strip()
         if not BOLD_LINE.match(line.strip()) or not nxt:
             continue
+        if line.endswith("  ") or line.rstrip().endswith("\\"):
+            continue                       # already a hard break; renders correctly
         if nxt.startswith(("#", "|", "-", ">", "*", "+", ":::")):
             continue
         flags.append(("RULING", label,
-                      "two authored lines set as one: %s + %s"
-                      % (line.strip()[:44], nxt[:38])))
+                      "two authored lines set as one, and no hard break: %s + %s"
+                      % (line.strip()[:40], nxt[:34])))
 
 
 def attr(**kw):
