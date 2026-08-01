@@ -461,9 +461,9 @@ Before you meet the part that audits your charge, one piece of work belongs here
 
 Chapter 3 ran this on a trait. Here it runs on a person, and on one you have negative feelings about, which is where the practice does its heaviest work.
 
-None of this lets real harm off the hook. It reclaims the energy you have spent on a cartoon. Real harm and real accountability stay real: 3-2-1 owns **your** split, not **their** innocence.
+None of this lets real harm off the hook. It reclaims the energy you have spent on a cartoon. Real harm and real accountability stay real. What 3-2-1 owns is your split, and it makes no claim about their innocence.
 
-The Challenger in distortion controls. The real Challenger protects. 3-2-1 finds which one you're fighting in **them** that's actually **in you.**
+The same fire controls or protects depending on where it is aimed, and 3-2-1 finds which one you are fighting in them that is actually in you.
 
 Solo, written or spoken, fifteen to twenty-five minutes.
 
