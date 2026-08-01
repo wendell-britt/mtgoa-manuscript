@@ -357,7 +357,7 @@ The ones who finished changed their relationship to the emotions that had made a
 
 The book in your hands came from the bottom of that well. The spite did not produce it. Proving I was right did not produce it. It came from the moment I connected back to myself after failing to make money or create the allies I'd wanted to create, and found that I'd learned something true about the places where my own unresolved stuff had limited my allyship.
 
-When I started building bars-engine, I didn't have it figured out. I had a felt sense of what was missing (a game that actually taught the WAVE, that made the emotional alchemy something you could practice instead of just understand), and I had enough of the six Faces to know what I was trying to do. The game itself refused to come clear, and the mechanics kept changing. I ran sessions that failed. I redesigned the token economy three times. I threw out entire systems and rebuilt them. The walk never ran straight from plan to execution. It ran on iteration. Review. Discern. Design. Build. Pass On. Loop.
+When I started writing this book, I didn't have it figured out. I had a felt sense of what was missing (a practice that actually taught the WAVE, that turned the emotional alchemy into moves you could run instead of only understand), and I had enough of the six Faces to know what I was trying to do. The book refused to come clear. The shape kept changing. I sat in front of chapters I could not write with no way to tell tired from done, and I started them again anyway. The walk never ran straight from plan to execution. It ran on iteration. Review. Discern. Design. Build. Pass On. Loop.
 
 That's what the walk feels like. Not ascending. Circling. Each circle goes a little deeper.
 
@@ -365,7 +365,7 @@ That's what the walk feels like. Not ascending. Circling. Each circle goes a lit
 
 The iteration is the walk. Every detour that feels like a detour is another stretch of the same road.
 
-Every version of bars-engine was the walk, not a step toward it. The first design was the walk. The third redesign was the walk. The version that failed in front of people was the walk. You will plan, then execute, then find the plan was a draft. That shape holds all the way through.
+Every draft of this book was the walk, not a step toward it. The first draft was the walk. The third rewrite was the walk. The chapter I could not write was the walk. You will plan, then execute, then find the plan was a draft. That shape holds all the way through.
 
 The WAVE already taught you how to do this. Wake up: notice what happened. Open up: let the failure land at full strength before you start explaining it. Clean up: name what didn't work. Grow up: ask what the failure is actually telling you. Show up: do the next version. Then come back: notice what shifted. What you learned.
 
@@ -393,15 +393,9 @@ Most people don't come to a book like this with a general question. They come wi
 
 The walk is walking into that specific problem. Not a better version of the problem. The actual one.
 
-My specific problem, the one I designed bars-engine to solve: people who want to do inner work, who understand the theory, who have done the therapy and read the books and know all the vocabulary, and who still don't have a practice. Who still default to their home game when things get hard. Who still mistake understanding for transformation. The gap between knowing and doing is the problem I keep trying to solve. Everything I build (this book, bars-engine, the next thing) walks me further into that specific problem.
+My specific problem, the one I wrote this book to solve: people who want to do inner work, who understand the theory, who have done the therapy and read the books and know all the vocabulary, and who still don't have a practice. Who still default to their home game when things get hard. Who still mistake understanding for transformation. The gap between knowing and doing is the problem I keep trying to solve. Everything I make walks me further into it.
 
 What's yours?
-
----
-
-When you're ready, a place waits for you. Bars-engine is the village's common ground: the playground where players arrive after finishing the book, where the allyship work becomes real. Campaigns. Quests. Allyship programs run through the non-profit. A structure people already started building before you got here, with space for what you're going to add. You don't have to build bars-engine from scratch. You don't have to build the infrastructure alone. You bring your specific gift. The structure plugs in around it. The village already stands there, doing the work, and what you make fits into what they're doing.
-
-Walking into the specific problem looks like this when you're ready: not figuring out how to start from nothing, but finding where you fit in something that's already alive. The game is bigger than any one person. That's the point. That's the gift.
 
 ---
 
@@ -439,7 +433,7 @@ If you found it, you have already been the Founder. You just didn't call it that
 
 The question is not *are you a founder type.* The question is *are you willing to do it on purpose.* To look at the thing that keeps showing up in your life and decide: *I'm going to make something out of this. I'm going to create the thing that should exist.*
 
-That's all it takes. You don't have to build bars-engine. You don't have to start a nonprofit. You don't have to have a platform or an audience or funding. You just have to decide that the problem you're carrying deserves solving, and start making something toward it. The scale doesn't matter. The specificity does.
+That's all it takes. You don't have to write a book. You don't have to start a nonprofit. You don't have to have a platform or an audience or funding. You just have to decide that the problem you're carrying deserves solving, and start making something toward it. The scale doesn't matter. The specificity does.
 
 ---
 
@@ -465,20 +459,6 @@ The willingness to be the Player.
 
 ---
 
-**You don't have to build alone.**
-
-Here's what I want you to know before you go.
-
-The village is not just the people who will receive what you build. The village is the people already building. Bars-engine works as more than a solo project: a structure already alive before you finished this book. Campaigns run. Quests stay active. Players show up. Space remains for what you're going to add.
-
-You don't have to figure out how to start from nothing. You don't have to build the whole thing yourself. You bring your specific gift: the thing this book helped you name, the thing you figured out how to do by walking your own terrain. Other people bring theirs. The game is bigger than any one person.
-
-The non-profit holds all of this, built so that individual Founder moves plug into a larger architecture. So that one person's practice connects to everyone else's. So that when you make something, it lives somewhere the people who need it can find it.
-
-The village already stands out there, and you walk into it rather than found it. The question comes down to where you fit in, and that's something you'll only discover by walking into it.
-
----
-
 **Come back.**
 
 You have been through something that was hard.
@@ -491,7 +471,7 @@ You are ready to be useful.
 
 ---
 
-*Before you step into the game: a gate scan. Eight gates, eight questions. One of them is live in you right now: the Face that showed up most in your building work. Find it. Capture it. Bring it into the app.*
+*Before you step into the game: a gate scan. Eight gates, eight questions. One of them is live in you right now: the Face that showed up most in your building work. Find it. Capture it.*
 
 *The Protector showed up in your building, and not as the old guardedness. Something specific you've been protecting about what you're building, or from the people who might encounter it. Name what the protection is actually guarding. That's what you have.*
 

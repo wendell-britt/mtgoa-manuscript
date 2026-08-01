@@ -782,4 +782,6 @@ The Regent can organize power. The Regent can build institutions. The Regent can
 
 Before the Regent can build, the Challenger has to know what line is worth building around.
 
+Add a line to the sheet. Under the channel you skip, write the line you have not drawn: what you owe a specific person and have been softening since before you picked up this book. Name the person. Every move in this chapter is a rehearsal for saying it once and not adding a sentence afterward.
+
 Now you're ready for the Regent.

@@ -765,6 +765,8 @@ It's *which game am I designing?*
 
 That question was never the Sage's to answer, only to hand you. The Sage gives you the seeing. The building comes next, and that one was always going to be yours. You've carried the whole map this far. You don't need anyone reading it over your shoulder anymore.
 
+Add a line to the sheet, the last one before you build. Under your walk-away price, write the game you reach for when you are past what you can hold: the altitude you drop to when the real one costs more than you have. Name it, and name what it saves you from having to do. You cannot put down a game you have not named.
+
 This is where the Sage stops and the Player starts. Not the Sage looking down from anywhere, the Player out ahead on the road, already walking, building it as they go.
 
 That's the next Face. That's you.

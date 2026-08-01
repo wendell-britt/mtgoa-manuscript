@@ -918,4 +918,6 @@ Underneath every part of it is the Alchemist: the willingness to spend a charge 
 
 The system did not give you your superpower. Your specific survival shaped it, your specific losses, your specific adaptations. The Shaman's work is recovering that superpower. Making it conscious. Making it available. Taking it back into the village.
 
+Add a line to the sheet. Under the daemon you wrote down in Chapter 2, write the channel you skip: of Fear, Sadness, Joy, Anger and Neutrality, the one you turn into a task before it has finished telling you anything. All five ran through this chapter. One of them you left early.
+
 ---

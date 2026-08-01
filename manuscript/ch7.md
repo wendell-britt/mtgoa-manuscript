@@ -764,4 +764,6 @@ The Sage does.
 
 ---
 
+Add a line to the sheet. Under the harm you keep fixing, write your walk-away price: what would have to happen, or keep happening, before you left the field instead of staying in it and disappearing. Write it so you could say it out loud to the people it concerns. A price you have not named is one you pay in instalments and call patience.
+
 **Next:** The Sage, the one who sees all six altitudes and knows which one the game actually plays at.

@@ -584,4 +584,6 @@ Here is the limit built into all of it. The Architect can design the system and 
 
 That is the Diplomat's work, and it comes after the Architect's rather than instead of it. What the Architect hands forward is the thing the Diplomat does not have yet: that the best systems make the right thing the easy thing, not through mandates and not through enforcement, but through design.
 
+Add a line to the sheet. Under the inheritance, write the harm you keep fixing: the one that comes back, that you have handled so often you stopped counting it as work. Then name the condition that keeps producing it. The first name gets you a queue that never empties. The second gets you a design you could hand to somebody else.
+
 Now you're ready for the Diplomat.

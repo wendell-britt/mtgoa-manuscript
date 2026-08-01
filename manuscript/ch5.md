@@ -667,6 +667,8 @@ The village exiled the Architect for a specific reason: it mistook *seeing the s
 
 The village was wrong. The Architect's love is structural. The Architect builds something better. The Architect has the Regent's stewardship in their blood, because the Architect knows that every system is also an inheritance, and every redesign is also a hand-off.
 
+Add a line to the sheet. Under the line you have not drawn, write the inheritance you carry: one rule, practice or loyalty you took from a house you belonged to and still run without ever having agreed to it. Mark it *protect* or *break*. Being wrong about which is allowed. Leaving it unmarked is not.
+
 Now you're ready for the Architect.
 
 ---
