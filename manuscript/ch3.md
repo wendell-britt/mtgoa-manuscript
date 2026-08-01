@@ -889,7 +889,7 @@ Five moves, one card, about ninety seconds. That is a full pass of the spiral wi
 
 ### From Card to Quest
 
-A card that ends in the app is a card you read. A card that ends in a quest is a card you played, and the difference is a person.
+A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played, and the difference is a person.
 
 A quest is a commitment to act that touches somebody other than you, on a date. It is not a resolution and it is not a value. It has a verb, a name in it, and a deadline. Quests come from the Show Up cards, and every card in it ends in an artifact, and an artifact is something another person can encounter.
 
@@ -897,7 +897,7 @@ Write yours in one line with four things in it: what you will do, who it reaches
 
 The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. Enthusiasm alone usually means you have picked something you were already going to do.
 
-*Draw one card from your twenty, by hand or by letting the app deal it. Run the five moves on a live situation. Log the BAR, then convert it into one quest with a name and a date in it.*
+*Draw one card from your twenty. Run the five moves on a live situation. Log the BAR, then convert it into one quest with a name and a date in it.*
 
 ---
 

@@ -710,7 +710,7 @@ Five moves, one card, ninety seconds. The Sage's version stands alone in the boo
 
 ### From Card to Quest
 
-A card that ends in the app is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
+A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
 
 One line, four things: what you will do, who it reaches, by when, and what it costs you. *Leave the Game Playable Without You* becomes: **I will write down the three judgment calls I've been making by feel and walk two people through them before the retreat in March, and it will cost me being the one who has to be in the meeting for it to go well.** That's a quest. *I will be less indispensable* is not one; nobody can tell whether you did it, including you.
 

@@ -399,7 +399,7 @@ Most people skip all of this. Most people either say nothing (and resent the per
 
 **This is the rep. This week, run it once.** Not the hardest line you're avoiding: the next real one. A meeting, a thread, a table where something crosses and you'd normally let it go. Feel the charge, aim, act in one sentence, exit. Thirty seconds. You don't need it to land well. You need it to *exist.*
 
-*You drew a line in the Village, or you watched yourself not. Before the story sets: what was the charge in your body, what did you actually say (or swallow), and what did it cost? Two minutes in the app, while it's still warm.*
+*You drew a line in the Village, or you watched yourself not. Before the story sets: what was the charge in your body, what did you actually say (or swallow), and what did it cost? Two minutes to capture it as a BAR, while it's still warm.*
 
 **When the Line Has Been Crossed Before: The Reckoning**
 
@@ -737,7 +737,7 @@ Five moves, one card, ninety seconds.
 
 ### From Card to Quest
 
-A card that ends in the app is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
+A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
 
 One line, four things: what you will do, who it reaches, by when, and what it costs you. *Say the Thing* becomes: **I will tell Marcus on Thursday that I was wrong to call his read on the hiring panel an overreaction, without adding a defence of why I thought so, and it will cost me the version of myself that gets things right the first time.** That is a quest. *I will be less dismissive* is not one; nobody can tell whether you did it, including you.
 

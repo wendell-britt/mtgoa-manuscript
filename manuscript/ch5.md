@@ -480,7 +480,7 @@ Either you **claim** it: *"I'm going to carry this. I'm not waiting until I'm su
 
 Both cost something. Claiming it means you can no longer hide behind not-yet-ready. (That's the Fixer's whole racket: one more cycle of reform before you commit. You're committing first.) Reforming it out loud means risking the loyalty of people who hear "this needs to change" as "you don't love what we built." You hold both: *I love this enough to change it.* That sentence, said to their faces, compresses the Regent's entire practice into one breath.
 
-*You named an inheritance out loud, claimed it or reformed it, or you watched yourself keep performing it instead. Before the moment closes: which inheritance, what exactly you said (or didn't), and what it cost you to say it. Two minutes in the app, while the weight of it is still on you.*
+*You named an inheritance out loud, claimed it or reformed it, or you watched yourself keep performing it instead. Before the moment closes: which inheritance, what exactly you said (or didn't), and what it cost you to say it. Two minutes to capture it as a BAR, while the weight of it is still on you.*
 
 ---
 
@@ -642,7 +642,7 @@ Five moves, one card. The Regent's version runs slower than the others: give it 
 
 ### From Card to Quest
 
-A card that ends in the app is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
+A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
 
 One line, four things: what you will do, who it reaches, by when, and what it costs you. *Tend the Structure* becomes: **I will write down how the intake process actually works, give it to Priya by the end of the month, and walk her through it once, and it will cost me being the only person who knows.** That is a quest. *I will delegate more* is not one; nobody can tell whether you did it, including you.
 

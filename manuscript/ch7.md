@@ -721,7 +721,7 @@ Five moves, one card, ninety seconds. The Diplomat's version is the one most lik
 
 ### From Card to Quest
 
-A card that ends in the app is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
+A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
 
 One line, four things: what you will do, who it reaches, by when, and what it costs you. *Bring Them Into the Structure* becomes: **I will put the two people who have been running intake without a title into the decision that names it, at Thursday's meeting, and it will cost me being the one who explains them to everybody else.** That is a quest. *I will be more inclusive in how decisions get made* is not one; nobody can tell whether you did it, including you.
 

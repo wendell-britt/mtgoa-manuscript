@@ -324,7 +324,7 @@ Pick a group you're actually in (a team, a committee, a coalition) where everyon
 
 Then hold the flinch. Somebody will hear it as criticism: that's the cost, and you don't pay it by softening. You pay it by staying warm while you stay clear: *I'm not saying anyone failed. I'm saying the structure is doing exactly what it was built to do, and it was built for a world we're not in anymore.* That sentence carries the whole chapter: structural sight delivered as love instead of indictment.
 
-*You named an assumption out loud in a real meeting, or you watched yourself swallow it and solve the visible problem instead. Before it fades: which assumption, what you actually said, and what the flinch cost you. Two minutes in the app while it is still in your body.*
+*You named an assumption out loud in a real meeting, or you watched yourself swallow it and solve the visible problem instead. Before it fades: which assumption, what you actually said, and what the flinch cost you. Two minutes to capture it as a BAR while it is still in your body.*
 
 ---
 
@@ -559,7 +559,7 @@ Five moves, one card, ninety seconds, six of which are the only ones your Emotio
 
 ### From Card to Quest
 
-A card that ends in the app is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
+A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
 
 One line, four things: what you will do, who it reaches, by when, and what it costs you. *Build the Ladder* becomes: **I will hand the vendor relationship to Jess with the three things I never wrote down, by the fifteenth, and it will cost me being the person they call.** That is a quest. *I will build more sustainable systems* is not one; nobody can tell whether you did it, including you.
 
