@@ -122,6 +122,8 @@ The Shaman left.
 
 The village never meant for that to happen. It never said "go." It just stopped listening. Which, it turns out, amounts to exile.
 
+As above, so below; as within, so without. The village is one scale of that pattern. You will meet it again in the chapters ahead, and each time it will look like somewhere you have worked or grown up or tried to belong. It lives in those places. It also lives in you: a council of your own, holding the same power to consult a voice or stop consulting it. Whether yours still consults the Shaman, only you hold the record.
+
 ---
 
 ## Section 2: The Distortion
