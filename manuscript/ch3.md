@@ -887,7 +887,7 @@ Run it once, on something real. Bring a time somebody told you something true ab
 
 Five moves, one card, about ninety seconds. That is a full pass of the spiral with an instrument in your hand.
 
-### From Card to Quest
+## From Card to Quest
 
 A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played, and the difference is a person.
 

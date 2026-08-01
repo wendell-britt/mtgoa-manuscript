@@ -696,7 +696,7 @@ Run it once, on something real. Bring a fight you're carrying right now: an actu
 
 Five moves, one card, ninety seconds. The Sage's version stands alone in the book: here the hard part is refusing to run a second pass.
 
-### From Card to Quest
+## From Card to Quest
 
 A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
 
@@ -706,7 +706,7 @@ A live quest does not announce itself through enthusiasm. It's anticipation with
 
 *Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
 
-### The One Rep
+## The One Rep
 
 You don't take all five moves into the world this week. You take the one the Sage keeps skipping. You see something true (the game underneath the game, the thing everyone can feel and nobody says) and instead of holding it, or going up, you say it. Once. As an offering, not a verdict. Then you stay while they do whatever they do with it.
 

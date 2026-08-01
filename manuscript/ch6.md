@@ -557,7 +557,7 @@ Run it once, on something real. Bring the last decision that landed badly on peo
 
 Five moves, one card, ninety seconds, six of which are the only ones your Emotional Body will fight you for.
 
-### From Card to Quest
+## From Card to Quest
 
 A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
 
