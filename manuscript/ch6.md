@@ -316,6 +316,34 @@ The Architect does not need you to count what you shipped. The Architect needs y
 
 ---
 
+### 3-2-1 — Reclaim the One Who Named a Person
+
+Fluency in systems comes with a word for people who name a person instead of a structure. The word is usually *simplistic*. Notice what that word saves you from having to do.
+
+Solo, written or spoken, fifteen to twenty-five minutes.
+
+**Try this now.**
+
+*There is a part of me that is obsessed with trying to understand and fix systems so I don't have to show up to the problems right in front of me.* If that is not your charge, say the one that is.
+
+Its opposite already has a face in your head. Pick them. Someone who names a person where you would name a structure, who said *that was cruel* while you were still mapping the incentive. Not somebody you would defend in a meeting.
+
+**3 · FACE IT.** Two paragraphs, third person, as much detail as you can hold. How big is the charge, and where does it sit in you?
+
+**2 · TALK TO IT.** Greet them, then ask, and let them answer. Three exchanges at minimum.
+
+— *What do you see that I route around?*
+— *What are you protecting?*
+— *What would it cost me to say it as plainly as you do?*
+
+**1 · BE IT.** Speak as *I*, one paragraph, and say what you have to say about showing up as an ally.
+
+**RECEIPT.** Sit thirty seconds. Did the charge move?
+
+*Two minutes to capture it as a BAR.*
+
+---
+
 ### Name One Unstated Assumption, in the Village
 
 Everything above builds the instrument. One move takes it out of the Forest. Structural clarity, kept in your head, costs nothing, and risks nothing. The moment you say it out loud in front of the people who built the system, it costs something. That's the Architect's exile wound in miniature: clarity gets heard as judgment. This week, you say it anyway.
@@ -393,6 +421,25 @@ It shows up in a single beat. Someone says the thing in the meeting, the sentenc
 On the narrow jurisdiction the same sensor gets the same six seconds and returns something you can use twice: *Fire. Chest. This one is about the sentence, not the intake form.* Then you say the sentence back (the small, unarchitected, in-the-meeting sentence) and the restructure still gets built on Thursday, sized correctly this time, because by Thursday you know what it is for. Same instrument. Same rigor. The only thing that changed is what you gave it authority over.
 
 *Bring one design you shipped fast: a fix, a process, a proposal that arrived within an hour of something landing wrong. Reconstruct the order: what did you build, and what were you feeling before you built it? If you cannot recover the feeling, that is the finding, not a failure. Name the channel now, late, from memory. Then name the size of the fix against the size of the problem. Two minutes to capture it as a BAR.*
+
+---
+
+### 3-2-1 on Your Emotional Body
+
+The one described above is the generic version. Yours converts in its own way, and that is the one to work. Ten to fifteen minutes.
+
+**3 · FACE IT.** Third person, and not the version in this chapter. What does yours turn a feeling into, most reliably: a proposal, a risk register, a retrospective, a message you draft and never send? How fast does the handoff happen? What was the last thing it converted? A paragraph, as much detail as you can hold, and give it a name if a name comes, the way the Collapse got one.
+
+**2 · TALK TO IT.** Greet it, then ask, and let it answer.
+
+— *What are you keeping me from feeling?*
+— *What happens to you if I stay in it for six seconds?*
+
+**1 · BE IT.** Speak as *I*, one paragraph, and say what you have to say about showing up as an ally.
+
+**RECEIPT.** Sit thirty seconds. Did it loosen, or did it dig in? Both are information.
+
+*Two minutes to capture it as a BAR.*
 
 ---
 
