@@ -1,0 +1,422 @@
+# -*- coding: utf-8 -*-
+"""
+Turn the assembled book into a source a typesetter can style, without touching canon.
+
+`build_book.py` answers *is the book complete*. This answers *can it be set*, and
+they are different questions. The assembled markdown is correct and unstylable:
+five different frame devices all arrive as the same blockquote, four chapters
+announce themselves in four different heading styles, and 251 `---` rules mean two
+unrelated things depending on what follows them. A designer handed that file has to
+guess, and a converter has no way to guess at all.
+
+This is the layer where the guessing gets done once, in code, with the reasoning
+written down. Both `build_pdf.py` and `build_epub.py` read its output, so the two
+editions cannot drift apart in how they treat a marginal note.
+
+Nothing here edits `manuscript/`. Every transform runs on the assembled copy.
+
+    python3 instruments/typeset.py             # report the transforms and the flags
+    python3 instruments/typeset.py --write     # emit build/MTGOA_TYPESET_<date>.md
+    python3 instruments/typeset.py --flags     # the flags alone, for a ruling pass
+
+## The three transforms
+
+**1 · The frame becomes five named devices.** The Calrunia frame is the book's
+signature: each chapter is a document by one character annotated by another. On
+disk all five kinds are HTML-commented blockquotes, which is right for the
+repository — greppable, strippable, safe to hand anybody. Set as blockquotes they
+collapse into one undifferentiated grey, and a postcard from Tull reads exactly
+like an admissions handbook. Each kind becomes a div carrying its own class, and
+the `> ` marks come off so the design owns the indent rather than inheriting it.
+
+**2 · The chapter openers get one form.** Canon opens chapters four ways —
+`Chapter 1 — The Infinite Arcade`, `CHAPTER 2: THE FOREST — Why Allyship Keeps
+Failing (and Where to Start)`, `CHAPTER 7 — THE DIPLOMAT`, and ch9 with no Face
+name. `SPEC_PRINT_READINESS_2026-07-29.md` §6 has carried this as open since
+2026-07-29. Normalising in canon is a prose edit and needs Wendell; normalising in
+the build is typesetting, which is this file's job. DISPLAY holds the result, and
+RAW_HEADING pins the input it was derived from, so a chapter retitled upstream
+fails the check instead of silently keeping a stale display title.
+
+**3 · The rules get read.** 188 of the 251 `---` sit immediately before a heading,
+where the heading already supplies the break and a printed line is noise. 63 fall
+mid-prose, where they are the scene break and have to stay visible. Same
+character, two jobs. The first group is dropped and the second becomes a marked
+break the design can set as an ornament.
+"""
+import re, io, os, sys, glob, datetime, importlib.util
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.join(HERE, os.pardir)
+BUILD = os.path.join(ROOT, "build")
+
+
+def _load_build_book():
+    """Import build_book as a module so the spine has exactly one definition."""
+    spec = importlib.util.spec_from_file_location(
+        "build_book", os.path.join(HERE, "build_book.py"))
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
+bb = _load_build_book()
+
+
+# ---------------------------------------------------------------- frame devices
+
+# The five kinds, in the order a reader meets them. The class name is what both
+# the Typst template and the EPUB stylesheet key off, so changing one of these
+# strings means changing it in three files.
+FRAME_KINDS = ("MARGINALIA", "EPIGRAPH-BYLINE", "HANDBOOK", "SIGNATURE", "POSTCARD")
+FRAME_CLASS = {
+    "MARGINALIA":      "marginalia",       # another hand, in the margin
+    "EPIGRAPH-BYLINE": "epigraph",         # the voices before a chapter opens
+    "HANDBOOK":        "handbook",         # a document inside the document
+    "SIGNATURE":       "signature",        # who set the treatise down
+    "POSTCARD":        "postcard",         # correspondence, not instruction
+}
+
+FRAME = re.compile(
+    r"<!-- (%s) -->\n(.*?)\n<!-- /\1 -->" % "|".join(re.escape(k) for k in FRAME_KINDS),
+    re.S)
+
+
+def unquote(block):
+    """Strip the `> ` marks. The device owns its indent; markdown should not."""
+    out = []
+    for line in block.split("\n"):
+        out.append(re.sub(r"^>[ ]?", "", line))
+    return "\n".join(out)
+
+
+def frame_to_divs(text, tally):
+    def sub(m):
+        kind, body = m.group(1), m.group(2)
+        tally[kind] = tally.get(kind, 0) + 1
+        return "::: {.%s}\n%s\n:::" % (FRAME_CLASS[kind], unquote(body).strip())
+    return FRAME.sub(sub, text)
+
+
+# ------------------------------------------------------------- chapter openers
+
+# The display title for each component, and the raw heading it was read off.
+#
+# Derived by hand from the nine chapter files on 2026-08-01, not generated, because
+# two of the four styles cannot be normalised by rule:
+#
+#   ch2 carries a second subtitle inside its H1 — "THE FOREST — Why Allyship Keeps
+#   Failing (and Where to Start)" — on top of the italic H2 subtitle every chapter
+#   has. No other chapter does this. Setting both reads as a stutter and no rule
+#   can pick which one survives, so the display title is "The Forest" and the tail
+#   is reported as a flag rather than deleted quietly.
+#
+#   ch9 has no Face name in its heading. `specs/MANUSCRIPT_FILE_CANON.md` calls it
+#   The Player; the chapter calls itself Creating Your Own Allyship Game, and
+#   MANIFEST.md agrees with the chapter. The chapter's own title wins.
+#
+# RAW_HEADING is the guard. It is checked on every run, and a mismatch is a
+# BLOCKER, because a chapter renamed upstream would otherwise keep printing under
+# the name it had in August.
+DISPLAY = {
+    "Chapter 1": "The Infinite Arcade",
+    "Chapter 2": "The Forest",
+    "Chapter 3": "The Shaman",
+    "Chapter 4": "The Challenger",
+    "Chapter 5": "The Regent",
+    "Chapter 6": "The Architect",
+    "Chapter 7": "The Diplomat",
+    "Chapter 8": "The Sage",
+    "Chapter 9": "Creating Your Own Allyship Game",
+}
+
+RAW_HEADING = {
+    "Chapter 1": "# Chapter 1 — The Infinite Arcade",
+    "Chapter 2": "# CHAPTER 2: THE FOREST — Why Allyship Keeps Failing (and Where to Start)",
+    "Chapter 3": "# CHAPTER 3: THE SHAMAN",
+    "Chapter 4": "# CHAPTER 4: THE CHALLENGER",
+    "Chapter 5": "# CHAPTER 5: THE REGENT",
+    "Chapter 6": "# CHAPTER 6: THE ARCHITECT",
+    "Chapter 7": "# CHAPTER 7 — THE DIPLOMAT",
+    "Chapter 8": "# CHAPTER 8: THE SAGE",
+    "Chapter 9": "# CHAPTER 9: CREATING YOUR OWN ALLYSHIP GAME",
+}
+
+# Text dropped from a heading by the normalisation above, and why. Reported every
+# run so it stays a live question rather than becoming invisible.
+DROPPED = {
+    "Chapter 2": "— Why Allyship Keeps Failing (and Where to Start)",
+}
+
+# The slot id becomes the anchor in both editions and the filename stem in the
+# EPUB, so it is stable and readable rather than generated from the title.
+SLOT = {
+    "Half title": "half-title", "Title page": "title-page",
+    "Copyright page": "copyright", "Dedication": "dedication",
+    "Table of contents": "contents", "Author's note": "authors-note",
+    "A Letter to the Reader": "letter",
+    "Acknowledgements": "acknowledgements", "Kickstarter backers": "backers",
+    "About the author": "about-the-author", "Enrollment page": "enrollment",
+}
+
+H1 = re.compile(r"^#[ \t]+(.+?)[ \t]*$", re.M)
+H2_SUBTITLE = re.compile(r"^##[ \t]*\*(.+?)\*[ \t]*$", re.M)
+ITALIC_H3 = re.compile(r"^###[ \t]*(\*[^\n]+\*)[ \t]*$", re.M)
+
+
+def split_opener(text, label):
+    """Peel the H1 and the italic H2 subtitle off a component's body.
+
+    Returns (title, subtitle, body). The heading pair is metadata about the
+    component, not the first two lines of it — a chapter opener is a designed page
+    and cannot be built from a heading that has already been set.
+    """
+    m = H1.search(text)
+    raw_title = m.group(1).strip() if m else label
+    body = text[:m.start()] + text[m.end():] if m else text
+
+    subtitle = None
+    m2 = H2_SUBTITLE.search(body)
+    # Only if it leads the component. An italic H2 deep in a chapter is prose.
+    if m2 and not body[:m2.start()].strip():
+        subtitle = m2.group(1).strip()
+        body = body[:m2.start()] + body[m2.end():]
+
+    title = DISPLAY.get(label)
+    if title is None:
+        # Front, back, and appendix components keep their own heading, minus the
+        # label the design sets separately: "Appendix F: The Polarity Map".
+        title = re.sub(r"^Appendix\s+[A-Z]\s*[—:-]\s*", "", raw_title).strip()
+    return title, subtitle, body.lstrip("\n")
+
+
+def demote_section_subtitles(text, tally):
+    """An italic H3 directly under its H2 is that section's subtitle, not a head.
+
+    `## Section 1: Urgency` / `### *"The World Didn't Get Safer..."*` is one
+    two-line unit. Left as a heading it enters the contents and the EPUB nav as a
+    peer of the section above it, and every navigation surface doubles in length
+    with entries that are not places.
+    """
+    lines = text.split("\n")
+    out, i = [], 0
+    while i < len(lines):
+        out.append(lines[i])
+        if lines[i].startswith("## ") and not lines[i].startswith("###"):
+            j = i + 1
+            while j < len(lines) and not lines[j].strip():
+                j += 1
+            m = ITALIC_H3.match(lines[j]) if j < len(lines) else None
+            if m:
+                out.append("")
+                out.append("::: {.sectionsubtitle}")
+                out.append(m.group(1))
+                out.append(":::")
+                tally["sectionsubtitle"] = tally.get("sectionsubtitle", 0) + 1
+                i = j + 1
+                continue
+        i += 1
+    return "\n".join(out)
+
+
+# ------------------------------------------------------------------- the rules
+
+def resolve_rules(text, tally):
+    """Drop the rules a heading already makes; mark the ones that are scene breaks."""
+    lines = text.split("\n")
+    out, seen_content = [], False
+    for i, line in enumerate(lines):
+        if line.strip() != "---":
+            if line.strip():
+                seen_content = True
+            out.append(line)
+            continue
+        j = i + 1
+        while j < len(lines) and not lines[j].strip():
+            j += 1
+        if j < len(lines) and lines[j].lstrip().startswith("#"):
+            tally["rule_dropped"] = tally.get("rule_dropped", 0) + 1
+            continue                       # the heading is the break
+        if not seen_content:
+            # A rule with nothing above it separates nothing. Every appendix has
+            # one: it closed the provenance header that `build_book.py` strips, so
+            # it survived into the build as a scene break under the title, marking
+            # a break between the chapter title and the appendix's first sentence.
+            tally["rule_leading"] = tally.get("rule_leading", 0) + 1
+            continue
+        tally["rule_kept"] = tally.get("rule_kept", 0) + 1
+        out.append("::: {.scenebreak}")
+        out.append(":::")
+    return "\n".join(out)
+
+
+# --------------------------------------------------------------------- assembly
+
+# ------------------------------------------------------- the joined-lines ruling
+
+BOLD_LINE = re.compile(r"^\*\*[^*].*\*\*$")
+
+
+def joined_lines(body, label, flags):
+    """Bold label lines the author put on their own line, which markdown joins.
+
+    Markdown folds a single newline inside a paragraph into a space. Obsidian does
+    not — it renders the break — so what Wendell sees in the vault is not what a
+    converter produces, and this is invisible until something is set.
+
+    Thirteen sites, and they do not all want the same answer. Chapter 2's
+    `**Move 1: Spot who's holding the joystick.** In a charged moment...` reads
+    correctly as a bold run-in lead. Chapter 8's
+    `**Alchemy Move 1: Panoramic Seer**` over `Blank-field contraction: **Fear** →
+    *Wonder*` is two labels, and joined it reads as one sentence that is not one.
+
+    So it is reported per site rather than fixed by rule. Four of the Chapter 8
+    sites are worse than a style question: the `---` above them let pandoc read
+    the pair as a *table*, and the old build set four passages of Chapter 8 in a
+    table. Resolving the rules already ended that; how the two lines sit is still
+    open.
+    """
+    lines = body.split("\n")
+    for i, line in enumerate(lines[:-1]):
+        nxt = lines[i + 1].strip()
+        if not BOLD_LINE.match(line.strip()) or not nxt:
+            continue
+        if nxt.startswith(("#", "|", "-", ">", "*", "+", ":::")):
+            continue
+        flags.append(("RULING", label,
+                      "two authored lines set as one: %s + %s"
+                      % (line.strip()[:44], nxt[:38])))
+
+
+def attr(**kw):
+    """Pandoc attribute syntax, with quotes in a value escaped rather than eaten."""
+    bits = []
+    for k, v in kw.items():
+        if v is None:
+            continue
+        bits.append('%s="%s"' % (k, str(v).replace('"', '\\"')))
+    return " ".join(bits)
+
+
+def components():
+    """Every spine component that exists on disk, normalised and ready to set."""
+    tally, flags, out = {}, [], []
+
+    for kind, label, rel, level in bb.SPINE:
+        if rel is None:                                  # the generated contents
+            out.append({"kind": "contents", "label": label, "slot": SLOT[label],
+                        "title": "Contents", "subtitle": None, "body": ""})
+            continue
+
+        text = bb.read(rel)
+        if text is None:
+            if level == bb.BLOCKER:
+                flags.append(("BLOCKER", label, "missing: %s" % rel))
+            elif level == bb.GAP:
+                flags.append(("GAP", label, "missing: %s" % rel))
+            continue
+
+        expected = RAW_HEADING.get(label)
+        if expected is not None:
+            found = H1.search(text)
+            found = "# " + found.group(1).strip() if found else "(no H1)"
+            if found != expected:
+                flags.append(("BLOCKER", label,
+                              "heading changed upstream — DISPLAY may be stale.\n"
+                              "                   expected %s\n"
+                              "                   found    %s" % (expected, found)))
+
+        title, subtitle, body = split_opener(text, label)
+
+        # The title page's byline is the one piece of body prose that belongs to
+        # the page design rather than to the reading. It stays authored content —
+        # dropping it into a template variable would take the author's name out of
+        # the manuscript — so it is marked instead, and each edition centres it.
+        if SLOT.get(label) == "title-page" and body.strip():
+            body = "::: {.centered}\n%s\n:::\n" % body.strip()
+
+        joined_lines(body, label, flags)
+        body = frame_to_divs(body, tally)
+        body = demote_section_subtitles(body, tally)
+        body = resolve_rules(body, tally)
+        body = re.sub(r"\n{3,}", "\n\n", body).strip() + "\n"
+
+        out.append({"kind": kind, "label": label,
+                    "slot": SLOT.get(label, re.sub(r"[^a-z0-9]+", "-", label.lower())),
+                    "title": title, "subtitle": subtitle, "body": body})
+
+    for label, tail in DROPPED.items():
+        flags.append(("RULING", label,
+                      "heading tail dropped for display: %r\n"
+                      "                   Set it as a second subtitle, fold it into the "
+                      "italic one, or let it go." % tail))
+    return out, tally, flags
+
+
+def to_markdown(comps):
+    """One file, every component announced by an H1 carrying its own metadata.
+
+    The metadata rides on the heading rather than a wrapper div on purpose: pandoc
+    splits an EPUB on headings, and a div around the heading takes the split with
+    it — one 120,000-word XHTML file instead of twenty-four.
+    """
+    parts = []
+    for c in comps:
+        head = "# %s {%s}" % (c["title"], attr(
+            **{"id": c["slot"], "class": c["kind"], "label": c["label"],
+               "subtitle": c["subtitle"]}))
+        # `class` is not a valid keyword name in the call above; rebuild it here so
+        # the attribute reads `.chapter` the way pandoc expects a class to.
+        head = head.replace('class="%s"' % c["kind"], ".%s" % c["kind"])
+        parts.append(head + ("\n\n" + c["body"] if c["body"].strip() else "\n"))
+    return "\n\n".join(parts)
+
+
+def main():
+    comps, tally, flags = components()
+
+    print("%-24s %-9s %-14s %s" % ("component", "kind", "slot", "title"))
+    print("-" * 78)
+    for c in comps:
+        print("%-24s %-9s %-14s %s%s" % (
+            c["label"], c["kind"], c["slot"], c["title"],
+            "  ·  %s" % c["subtitle"] if c["subtitle"] else ""))
+
+    print("-" * 78)
+    print("frame devices resolved")
+    for kind in FRAME_KINDS:
+        print("  %-16s %3d  -> .%s" % (kind, tally.get(kind, 0), FRAME_CLASS[kind]))
+    print("  %-16s %3d  -> .sectionsubtitle" % ("italic H3 subtitle",
+                                                tally.get("sectionsubtitle", 0)))
+    print("rules")
+    print("  %-16s %3d  dropped — the heading after it is the break"
+          % ("before a heading", tally.get("rule_dropped", 0)))
+    print("  %-16s %3d  dropped — nothing above it to separate"
+          % ("opening a body", tally.get("rule_leading", 0)))
+    print("  %-16s %3d  kept    -> .scenebreak" % ("mid-prose",
+                                                   tally.get("rule_kept", 0)))
+
+    if "--flags" in sys.argv or flags:
+        print("-" * 78)
+        if not flags:
+            print("No flags.")
+        for level, label, note in flags:
+            print("  %-8s %-16s %s" % (level, label, note))
+
+    blockers = [f for f in flags if f[0] == "BLOCKER"]
+
+    if "--write" in sys.argv:
+        if blockers:
+            print("\nRefusing to write: %d BLOCKER flag(s)." % len(blockers))
+            return 1
+        os.makedirs(BUILD, exist_ok=True)
+        out = os.path.join(BUILD, "MTGOA_TYPESET_%s.md" % datetime.date.today())
+        io.open(out, "w", encoding="utf-8").write(to_markdown(comps))
+        print("\nWrote %s (%d components)" % (os.path.relpath(out, ROOT), len(comps)))
+        return 0
+
+    return 1 if blockers else 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

@@ -34,6 +34,44 @@ nine chapters with the frame applied, appendices A–G, and back matter into one
 file. **112,776 words.** Nothing built a book before 2026-07-29; `compiled/` holds
 a stale 2026-05-29 artifact whose builder reads the retired `chapters/` tree.
 
+## The two deliverables — new 2026-08-01
+
+`build_book.py` produces a manuscript, not a book anyone can read. Two builders
+now take it the rest of the way, through one shared normalisation layer so the
+editions cannot drift apart in how they treat a marginal note or a chapter title.
+Brief: **`instruments/book/README.md`**.
+
+```bash
+pip install -r instruments/requirements.txt
+python3 marginalia/compile.py --apply
+python3 instruments/typeset.py            # the transforms, and what needs a ruling
+python3 instruments/build_pdf.py          # -> build/MTGOA_<date>.pdf
+python3 instruments/build_epub.py         # -> build/MTGOA_<date>.epub
+```
+
+| | |
+|---|---|
+| PDF | **345 pages**, 6×9in trade, mirrored margins, Libertinus Serif 11/16. Roman front matter, arabic from Chapter 1, running heads, every chapter and appendix opening on a recto. |
+| EPUB | EPUB 3, **22 documents**, one per component, reflowing. Frame verified device-by-device against the source, `<pre>` count 0. |
+
+Both refuse to ship on a structural failure. What they caught on their first runs
+is in the pipeline README; three items are worth carrying here.
+
+**Four passages of Chapter 8 were being set as tables.** A `---` above a pair of
+lines is a valid multiline-table rule in pandoc's markdown, so the Game-Switcher,
+Diagnostician, and Returner alchemy moves converted as tables in every build
+before this one. Resolving the rules ended it. The EPUB table count is **10**, not
+the 14 the old constant recorded.
+
+**`五行` in Appendix G prints as two boxes.** No font embedded in Typst carries
+CJK, and it renders on this container only because a system font happens to be
+installed. Reported as a GAP every build — transliterate, or commit a font.
+
+**Thirteen sites set two authored lines as one.** Markdown folds a single newline
+into a space and Obsidian does not, so the vault does not show what prints.
+Chapter 8's five are the ones that read wrong. `typeset.py` flags them per site
+and rules on none of them.
+
 ## manuscript/ — the nine chapters
 
 **96,355 words of body text. 101,487 with the marginalia frame applied**, which is
