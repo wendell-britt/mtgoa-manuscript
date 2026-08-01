@@ -12,7 +12,7 @@ cannot say no to, or an inheritance nobody asked them whether they wanted, or a 
 costs them more than it costs the person beside them for reasons neither of them chose, or a
 bargain where their only leverage is somebody else's goodwill. Those are five different kinds
 of trouble and help shaped for one of them does very little in another, which is the whole
-reason there are six of us here instead of one of me.
+reason there are six of us at the Horizon instead of one of me.
 
 Two ways through, and I have watched both work. Take all six and you will be useful in most
 situations you walk into, which is what most students come for and is not a small thing. Take

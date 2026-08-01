@@ -457,7 +457,10 @@ enrollment page, author's-note dates.
 
 ## 6 · Rulings awaiting Wendell
 
-1. **R1 — School name.** Blocks half-title and enrollment page only. (Carried.)
+1. ~~**R1 — School name.** Blocks half-title and enrollment page only. (Carried.)~~
+   **CLOSED 2026-08-01 — the school is the Horizon**, already named in the
+   Headmaster's ch8 margin note and never read. See DL-24. Half-title half
+   rejected: it carries the book title, which is the convention.
 2. **R2 — Part 1 / Part 2 split at Section 4.** ~20 of 38 notes would move from
    *argue with the treatise* to *update the teaching*. (Carried.)
 3. **R3 — Genre scope.** SEVEN_VOICES recommends the ~150-word marker version

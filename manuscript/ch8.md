@@ -136,7 +136,7 @@ Keep the terms apart so they don't blur together. Shadow is the move that stays 
 ### *What the Village Does When It Can't See the Games It's Playing*
 
 <!-- MARGINALIA -->
-> *A partial list of things this school runs on that exist nowhere in writing: the intake sequence,
+> *A partial list of things the Horizon runs on that exist nowhere in writing: the intake sequence,
 > the reason we stopped the second-year review, four agreements with three worlds, and the whole of
 > what we do when a student leaves badly.*
 >

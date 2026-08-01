@@ -348,7 +348,7 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 ### The Protector, up close
 
 <!-- MARGINALIA -->
-> *The hull image is not one the school invented for teaching purposes.*
+> *The hull image is not one the Horizon invented for teaching purposes.*
 >
 > *You are shortly going to be asked to thank a part of yourself, the request will sound
 > sentimental, and I would like you to have a picture of what it looks like when an institution

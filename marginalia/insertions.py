@@ -164,7 +164,7 @@ trailhead.*
 whether you knew, at the time, that you were not saying it. If you knew, you were in the village.
 If you did not know until afterwards, you were already in the forest and the forest was
 working.*"""),
-("The Protector, up close", """*The hull image is not one the school invented for teaching purposes.*
+("The Protector, up close", """*The hull image is not one the Horizon invented for teaching purposes.*
 
 *You are shortly going to be asked to thank a part of yourself, the request will sound
 sentimental, and I would like you to have a picture of what it looks like when an institution
@@ -403,7 +403,7 @@ any longer.*
 *He reads a company better than I do. He has never said so. I am saying it.*""",
  "Maera Voss, School of the Body"),
 
-("## Section 2", """*A partial list of things this school runs on that exist nowhere in writing: the intake sequence,
+("## Section 2", """*A partial list of things the Horizon runs on that exist nowhere in writing: the intake sequence,
 the reason we stopped the second-year review, four agreements with three worlds, and the whole of
 what we do when a student leaves badly.*
 
