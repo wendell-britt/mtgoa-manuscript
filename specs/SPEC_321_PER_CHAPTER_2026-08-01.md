@@ -28,7 +28,8 @@ Four rulings on the same day, in his words:
    **Every territory in §3b is rewritten on that axis**, and each is now read off the chapter's
    own account of the reader's failure rather than invented.
 
-Spec only. Nothing applied. `manuscript/` takes nothing without approval.
+**Status 2026-08-01: ch3, ch4 and ch5 applied and approved.** ch6–ch8, ch2's plant, the
+two polarity draws and the cross-reference sweep remain. Nothing lands without approval.
 
 ---
 
@@ -63,10 +64,28 @@ along with this spec rather than justifying one of its own.
 
 Every one is already `## Section 5: [Daemon], Up Close` (ch2's is `### The Protector, up close`).
 
-**And Section 5 already writes Step 3.** "Face It" is third-person description of the figure;
-an Up Close section is exactly that, at length, in every chapter. **The daemon pass therefore
-does not need the full form** — it needs Steps 2 and 1 and a receipt, which is ~180 words
-rather than 640. This is the single fact that keeps the whole change inside a page budget.
+**Section 5 describes the daemon in third person** — "Face It" is third-person description,
+and an Up Close section is exactly that, at length, in every chapter.
+
+### CORRECTED 2026-08-01 — the portrait does not write Step 3
+
+This section originally claimed the daemon pass "does not need the full form… which is ~180
+words rather than 640," and called that **"the single fact that keeps the whole change inside
+a page budget."** Wendell, reading the ch5 draft built on it: ***"The players need to describe
+the fixer/healer as it shows up for THEM not the generic one."***
+
+He is right and the error was structural. **The portrait describes the generic daemon.** Every
+reader's Fixer-Healer has its own shape, and reading a good description of one is not the same
+as having faced your own. A pass that skips Step 3 hands the reader somebody else's Step 3 and
+calls the practice done.
+
+**What the portrait actually buys** is smaller and still real: it tells the reader *what to
+look for*. ch5's names the two moves — postponing the commitment, or standing in for the
+structure — so the pass can ask four pointed questions instead of teaching the step from
+scratch. That is the saving, and it is a saving on instruction rather than on the work.
+
+**Measured on ch5, the first one built: daemon pass 96 → 171 words.** Across six chapters that
+is roughly +450 against the original estimate. §8 is updated.
 
 **Step 2 is already written, once, for the Protector** — `ch2:308`:
 
@@ -79,17 +98,17 @@ keeps solving a thing once and not propagating it.** Third instance recorded.
 
 ## 3 · The design — two passes, placed where they are earned
 
-Rejected: a single end-of-chapter ritual holding both. It reads as more ergonomic and is not,
-because moving the daemon pass to chapter-end throws away the free Step 3 that makes it cheap,
-and chapter-end is already carrying Your Twenty Cards → Drawing Against the Shadow → From Card
-to Quest → Recap.
+Rejected: a single end-of-chapter ritual holding both. Each pass belongs beside the material
+that motivates it — the figure pass after the practice, the daemon pass at the close of the
+portrait that told the reader what to look for. Chapter-end is also already carrying Your
+Twenty Cards → Drawing Against the Shadow → From Card to Quest → Recap.
 
 | | **The Figure Pass** | **The Daemon Pass** |
 |---|---|---|
 | Target | the charge the reader has outsourced to a person | the chapter's daemon |
 | Position | close of Section 4, The Practice | close of Section 5, [Daemon] Up Close |
-| Steps written | 3, 2, 1, receipt | 2, 1, receipt — **Step 3 is the section above it** |
-| Budget | ~200 words | ~180 words |
+| Steps written | 3, 2, 1, receipt | 3, 2, 1, receipt — Step 3 on **their** daemon, not the chapter's |
+| Budget | ~200 words | ~170 words (measured, ch5) |
 | Time named | 15–25 min | 5–10 min |
 | Examples | none — per ruling 3 | none |
 
@@ -386,16 +405,16 @@ The last row is a live defect independent of this spec.
 
 | | words |
 |---|---:|
-| ch3 teaching, expanded (magic words, substitution, safety) | +500 |
-| ch4 figure pass, compressed from the old full block | −440 |
-| Figure + Daemon passes, ch3–ch8 (12 × ~190) | +2,280 |
+| ch3 teaching, measured (511 words, replacing ~250) | +260 |
+| ch4, compressed from the old full block (measured, 640 → 356) | −284 |
+| Figure + Daemon passes (ch5 measured at 418 for the pair; 5 more chapters) | +2,500 |
 | ch2 Protector plant | +40 |
 | Polarity draws, ch3 and ch8 | +300 |
 | Cross-reference repairs | ~0 |
 | Substitution clause, 11 words × 6 figure passes (not the daemon pass, per R1a) | +70 |
-| **Net** | **≈ +2,750** |
+| **Net** | **≈ +2,650** |
 
-At ~320 words/page that is **9 pages**, under the 10–20 estimate, because ch4 compresses and
+At ~320 words/page that is **8–9 pages**, under the 10–20 estimate, because ch4 compresses and
 the worked examples consolidate into ch3 instead of repeating twelve times.
 
 ## 9 · Sequencing
