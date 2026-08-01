@@ -139,12 +139,35 @@ and not the argument for it.
 from the chapter's own account of it, which is what makes them land rather than read as
 accusations the book invented.
 
+### The shape, established by Wendell's revisions 2026-08-01
+
+He rewrote three of the six, and all three moved the same way: **from outcome to motive.**
+
+| mine | his |
+|---|---|
+| doesn't say no because I have bad boundaries | doesn't say no **because I'm afraid of disappointing people or making them feel uncomfortable** |
+| explains the system so I never have to have been there as a person | **is obsessed with trying to understand and fix systems so** I don't have to show up to the problems right in front of me |
+
+**A 3-2-1 target needs a want, because Step 2 is a conversation.** A part that is afraid of
+disappointing people will answer when the reader asks what it is protecting. *"Warm, dependable,
+and doing nothing"* has nothing to say, because it names a result rather than a driver — it is
+a diagnosis, and you cannot interview a diagnosis.
+
+This also puts the sentences in line with the book's own shadow doctrine, `ch2:73`, from
+Carolyn Elliott: the Shadow is *"a pattern that has been doing something specific for you."* The
+territory should name what the pattern is **doing for the reader**, not what it costs them. The
+cost is what the receipt is for.
+
+**Consequence: they run longer than the first draft, and that is correct.** A motive takes a
+clause. The constraint is that these get said out loud, so the test is the mouth rather than the
+line length.
+
 | ch | Face | *"There is a part of me that…"* | Source | Daemon |
 |---|---|---|---|---|
 | 3 | Shaman | …is disconnected from my feelings | **Wendell's words**; ch3:241 *"feeling out loud, together, at length… and changing none of it"* | Controller |
-| 4 | Challenger | …doesn't say no because I have bad boundaries | **Wendell's words** | Skeptic |
+| 4 | Challenger | …doesn't say no because I'm afraid of disappointing people or making them feel uncomfortable | **Wendell's words, revised 2026-08-01** | Skeptic |
 | 5 | Regent | …keeps the form because dropping it would feel like a betrayal | ch5, Section 2, *"obedience without understanding… performed the role and forgot the person"* | Fixer-Healer |
-| 6 | Architect | …explains the system so I never have to have been there as a person | ch6 polarity, near-verbatim: *"the one account that never requires you to have been there as a person… cruelty, specified as rigour"* | Emotional Body |
+| 6 | Architect | …is obsessed with trying to understand and fix systems so I don't have to show up to the problems right in front of me | **Wendell's words, 2026-08-01**; ch6 polarity supports it: *"the one account that never requires you to have been there as a person"* | Emotional Body |
 | 7 | Diplomat | …is warm, dependable, and doing nothing | ch7:185, verbatim: *"Care without impact is attendance: warm, dependable, and doing nothing"* | Victim |
 | 8 | Sage | …watches from the doorway and calls it perspective | ch8:282, near-verbatim: *"Are you in it, or watching from the doorway?"*; ch8:280 *"a tourist looks at a museum"* | Damaged Self |
 
