@@ -185,4 +185,28 @@ batch** — no new per-Head genre violation was introduced by any of the 33.
 3. **LE-7** — restore the bare formula, and name a card Chapter 3 actually taught.
 4. **LE-27, LE-11** — two edits inside a Head's voice that a Head's owner should confirm.
 
-*Nothing in this pass has been applied.*
+---
+
+## 5 · Applied — 2026-08-01
+
+All five revisions are in. LE-4 went in with the pass itself, as a live regression;
+LE-7, LE-9, LE-14 and LE-26 followed on Wendell's word.
+
+| flag | applied |
+|---|---|
+| LE-4 `ch2:107` | *Of the ones who don't, most push through instead of going through:* |
+| LE-7 `ch3:896` | ***Say the Thing Under the Thing* becomes:** — the bare formula restored, and the card named |
+| LE-9 `ch3:691` | *…and into the places allyship actually happens, **where it counts.*** |
+| LE-14 `ch4:360` | *You let the field settle. **Going back before the moment has passed retraumatizes the person you confronted.*** |
+| LE-26 `ch7:529` | *You know both failure states: **the warm attendance that changes nothing, and the true thing said in a way that ends the conversation.*** |
+
+**LE-7 resolved itself once the right question was asked.** The Guardian's verdict was
+*restore the bare formula and name a card the chapter actually taught* — and the
+chapter's Move 5 is **Say the Thing Under the Thing** (`ch3:784`), which is exactly what
+the worked example does: *tell Dana what I noticed and not soften it*. Every other
+chapter's quest example uses its own Show Up move — ch4's *Say the Thing*, ch5's *Tend
+the Structure*, ch7's *Bring Them Into the Structure*, ch8's *Leave the Game Playable
+Without You*. ch3 was the only one naming a card that appears nowhere else in the book.
+**`Aim the Awareness` now returns 0 hits**; the convention holds in all six chapters.
+
+Gate 0 on four surfaces, `dupes.py` 0, `compile.py --check` green.

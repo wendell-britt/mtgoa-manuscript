@@ -162,11 +162,19 @@ def words(text):
     return len(text.split())
 
 
-# The nine chapters open in four different heading styles — "Chapter 1 — The
-# Infinite Arcade", "CHAPTER 2: THE FOREST — subtitle", "CHAPTER 7 — THE
-# DIPLOMAT", and ch9 with no Face name at all. A typesetter needs one form, so
-# the TOC normalizes rather than reproducing the inconsistency. `--headings`
-# reports the raw forms so they can be fixed at source.
+# The nine chapters used to open in four different heading styles, and this comment
+# used to list them. They were fixed at source on 2026-08-01 (CA-3, CA-4): every H1 now
+# reads "CHAPTER N: THE FACE — clause". The normalizing stays, because a contents page
+# is not a manuscript file and wants neither the caps nor a second em-dash:
+#
+#   in the file   # CHAPTER 1: THE INFINITE ARCADE — What You Spend, and What Comes Back
+#   in the TOC    **Chapter 1** — The Infinite Arcade: What You Spend, and What Comes Back
+#
+# Two em-dashes in one contents line is the reason. The first one separates the label
+# from the title and is the page's own punctuation; the second belongs to the title and
+# collides with it. A colon holds the clause without competing. The Face name drops to
+# title case so the chapter block and the appendix block below it read as one list.
+# `--headings` still reports the raw forms.
 HEADING = re.compile(r"^#\s*(?:CHAPTER|Chapter)\s*\d+\s*[—:-]?\s*(.*)$", re.M)
 SUBTITLE = re.compile(r"^##\s*\*(.+?)\*\s*$", re.M)
 
@@ -181,6 +189,19 @@ def title_of(text, fallback):
         return fallback
     # "Appendix F: The Polarity Map" -> "The Polarity Map"
     return re.sub(r"^Appendix\s+[A-G]\s*[—:-]\s*", "", m.group(1).strip())
+
+
+def toc_title(title):
+    """Render one title for a contents page: title-case the name, colon the clause.
+
+    Splits on the em-dash the H1 uses to hold its clause. Appendix titles carry no
+    clause and pass through untouched; a chapter name in caps comes down to title case,
+    because SHOUTING is a manuscript-file convention and a contents page is not one.
+    """
+    name, sep, clause = title.partition(" — ")
+    if name.isupper():
+        name = name.title()
+    return "%s: %s" % (name, clause) if sep else name
 
 
 def subtitle_of(text):
@@ -202,7 +223,7 @@ def build_toc(entries):
                 lines.append("")
             section = kind
         if kind in ("chapter", "appendix"):
-            lines.append("**%s** — %s" % (label, title))
+            lines.append("**%s** — %s" % (label, toc_title(title)))
             if subtitle:
                 lines.append("  *%s*" % subtitle)
         else:
