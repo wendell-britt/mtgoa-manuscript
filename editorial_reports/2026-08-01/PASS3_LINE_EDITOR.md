@@ -1,10 +1,17 @@
 # PASS 3 · LINE EDITOR — book-wide scan, 2026-08-01
 
 **Role:** Line Editor, `specs/EDITORIAL_OPERATING_SYSTEM.md` §3 — readability only.
-**Branch:** `claude/pass-3-line-editor-scan-09nc6f`. Apparatus only; **no file in
-`manuscript/` is touched by this branch**, per DL-18.
-**Doctrine:** diagnosis before revision. Nothing here is applied. Every flag is a
-candidate for Wendell, and *leave as-is* is a first-class outcome.
+**Branch:** `claude/pass-3-line-editor-scan-09nc6f`.
+**Doctrine:** diagnosis before revision. The scan changed nothing; the application
+came after, and only after a ruling.
+
+> **RULED AND APPLIED — Wendell, 2026-08-01.** *"All of these are blockers to be
+> updated."* All 33 flags are work. **LE-3's proposed edit was rejected and has been
+> rewritten** — see §4. The 33 edits are applied to `manuscript/ch1.md`–`ch9.md` on
+> this branch by `instruments/pass3_apply.py`; the application record, with what every
+> counter did, is §8. This branch is therefore **no longer apparatus-only**, which
+> changes its DL-18 posture: it now edits nine chapter files and must be sequenced
+> against any other branch doing the same, not merged alongside one.
 
 Scanned against the merged manuscript at `ee18459` — the book as it stands after the
 DL-19 and DL-20 work of 2026-08-01, not the `625aaab` snapshot the July reports analyse.
@@ -116,8 +123,15 @@ sections (ch7:335, 375, 413, 457, 467). A convention used five times is a conven
 ## 4 · The flags — 33, chapter by chapter
 
 Format is the Lean OS Line Editor's own: location · original · diagnosis · minimal
-proposed edit · reader problem solved · risk to voice · leave-as-is rationale. Line
-numbers are on-disk, in the files as they stand on this branch.
+proposed edit · reader problem solved · risk to voice · leave-as-is rationale.
+
+**All 33 are applied.** Line numbers and the quoted *original* are the state
+**before** the edit — the diagnosis is kept as written so the record shows what was
+found, not only what it became. `instruments/pass3_apply.py` holds the exact anchor
+and replacement for every one of them, and is re-runnable against a fresh checkout.
+Two entries changed between the scan and the application and both are marked in place:
+**LE-3**, rewritten on Wendell's ruling, and **LE-17**, reworked when the first
+replacement bought its fix with a passive.
 
 ---
 
@@ -153,18 +167,26 @@ numbers are on-disk, in the files as they stand on this branch.
 
 ### Chapter 2 — 3 flags
 
-**LE-3 · `ch2:57` · antecedent across a marginalia block** *(carry-forward, CH2 L2)*
+**LE-3 · `ch2:57` · antecedent across a marginalia block** *(carry-forward, CH2 L2 · **proposal rewritten**)*
 > The subject of that sentence is the work. Your effort is real.
 
 - **Diagnosis:** *that sentence* is `ch2:44` — "The feeling is this: *this isn't
   working.*" — thirteen lines and a nine-line margin block back. The margin is a
   different voice, so the reader's eye has left the body and returned.
-- **Minimal edit:** "The subject of *this isn't working* is the work."
+- **Minimal edit:** "***This isn't working* is a verdict on the work, not on you.**
+  Your effort is real. Your intentions are real. Something else is failing."
+- **Rejected first proposal:** "The subject of *this isn't working* is the work."
+  Wendell, 2026-08-01: *"This proposed change is crazy."* He is right — it nests the
+  quoted line inside the sentence as a noun phrase and cannot be read aloud. The
+  replacement quotes the line in subject position, where it reads as itself, and says
+  what the paragraph is for rather than diagramming it.
 - **Reader problem solved:** the chapter's first reframe stops depending on a pointer
-  that crosses a voice change.
-- **Risk to voice:** none — it quotes the book's own line.
-- **Leave as-is if:** the margin is understood to be skippable and the pointer reads
-  cleanly to someone who skipped it.
+  that crosses a voice change, **and** it now states the thing the reader needs — the
+  sentence is a verdict on the work, not on her.
+- **Risk to voice:** none — it quotes the book's own line and keeps the four beats.
+- **Alternative if the grammar move is wanted:** "The subject of that feeling is the
+  work, not you." *Feeling* is repeated at `ch2:42` and `ch2:44`, so it survives the
+  margin block where *that sentence* does not.
 
 **LE-4 · `ch2:107` · parse failure** *(carry-forward, CH2 L1)*
 > Most people turn back. The ones who don't push through instead of going through: they override the sensation, run on fumes, and eventually the body stops cooperating.
@@ -345,8 +367,13 @@ numbers are on-disk, in the files as they stand on this branch.
   next as an indefinite subject. The reader binds them to the same person and has to
   unbind them a clause later.
 - **Minimal edit:** "…and it will look like meddling to somebody. **Every tradition
-  still worth having was repaired by someone who noticed it failing** and did something
-  about it instead of calling the failure sacred."
+  still worth having had someone who noticed it failing** and did something about it
+  instead of calling the failure sacred."
+- **Reworked during application.** The first replacement read *was repaired by someone
+  who noticed*, which fixed the garden path and paid for it with a passive:
+  `prose_diet.py` moved ch5 from 1.35 to 1.38 on a counter the chapter is already heavy
+  on. The active version holds the same subject and returns ch5 to 1.35. Recorded
+  because the pass is supposed to catch exactly this.
 - **Reader problem solved:** the Fixer-Healer's defence lands on the first read.
 - **Risk to voice:** low, and the rewrite puts the tradition in the subject where the
   argument is.
@@ -634,3 +661,36 @@ numbers are on-disk, in the files as they stand on this branch.
 
 *Instruments: `instruments/line_scan.py` (new), `instruments/rescan.py` (corrected).
 Nothing in `manuscript/` was modified on this branch.*
+
+---
+
+## 8 · Application record — 2026-08-01
+
+Ruled by Wendell: all 33 flags are blockers to be updated. Applied by
+`instruments/pass3_apply.py`, which verifies every anchor is present **exactly once**
+across all nine files and writes nothing at all if any anchor is missed or duplicated.
+`--check` re-runs the verification without writing.
+
+| counter | before | after | note |
+|---|---|---|---|
+| `gate.py`, four surfaces | 0 | **0** | GATE PASS both sides |
+| `dupes.py` | 1 (ch7) | **0** | LE-26 removed the last verbatim repeat in ch2–ch9 |
+| `line_scan.py` total | 186 | **182** | |
+| — `notbut` | 2 | **1** | LE-24 split the 56-word Hold sentence |
+| — `hard` | 105 | **103** | LE-23, LE-24 |
+| — `repeat` | 63 | **62** | LE-26 |
+| — `orphan-ref` | 6 | **6** | see below |
+| `marginalia/review.py` | BLOCK 13 · WARN 106 | **BLOCK 13 · WARN 105** | no new BLOCK introduced |
+| `prose_diet.py` ch5 passive | 1.35 | **1.35** | after LE-17 was reworked; the first version pushed it to 1.38 |
+| `prose_diet.py` ch7 passive | 1.49 | **1.49** | untouched — ruled register, not this pass's business |
+| `placeholders.py` | 1 | **1** | `ch1:269`, still P0, still not ours |
+
+**The rule flagged its own fix.** LE-3's replacement opens on an italic quotation —
+*This isn't working* — and `orphan-ref` matched the demonstrative, calling the repair
+the defect. A demonstrative inside an italic quotation carries its antecedent with it,
+so the rule no longer accepts an italic opener. Bold still counts, because bold marks
+emphasis on the book's own sentence rather than a quotation. Written into the rule
+next to the pattern, with the reason.
+
+**Not touched, deliberately:** every structural, continuity and claim finding; ch7 and
+ch5 passive rates; `ch1:269`. One job at a time, and DL-20 is still blocker one.

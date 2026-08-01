@@ -54,7 +54,7 @@ The feeling is this: *this isn't working.*
 <!-- /MARGINALIA -->
 
 
-The subject of that sentence is the work. Your effort is real. Your intentions are real. Something else is failing.
+*This isn't working* is a verdict on the work, not on you. Your effort is real. Your intentions are real. Something else is failing.
 
 That hum doesn't go away when you put down the phone. It lives in the body before it reaches the mind, and it doesn't resolve with the next action item.
 
@@ -104,7 +104,7 @@ That sadness is information. It tells you what mattered.
 
 Every time we hit the wall, we have a choice: turn back, or go through.
 
-Most people turn back. The ones who don't push through instead of going through: they override the sensation, run on fumes, and eventually the body stops cooperating. Or they do the inner work in private and never find the way to carry it back to where it's needed. This is the failure mode we're building a way out of.
+Most people turn back. The ones who don't often push through instead of going through: they override the sensation, run on fumes, and eventually the body stops cooperating. Or they do the inner work in private and never find the way to carry it back to where it's needed. This is the failure mode we're building a way out of.
 
 ### What's Different Now
 
@@ -367,7 +367,7 @@ The trouble: a hull built to survive cannot always tell which century it is in. 
 
 The Protector does the job cheaply by bracing everywhere. A hull that treats every century as the dangerous one never misses a threat, and never has to work out which threat is here, which is the reason the Protector prefers that setting, and the reason the tightening between hard conversations stops having a target and just hums. Vigilance runs at a higher price and buys aim: this tone, this move for power, this person, now. A Protector on survival settings has stopped looking, and blanket bracing feels identical from the inside to paying attention.
 
-When the Protector holds the joystick, I walk into a conversation already armored, braced against something that has not happened, and the person across from me meets the hull before they meet me. It trades contact for control and calls the trade safety.
+When the Protector holds the joystick, you walk into a conversation already armored, braced against something that has not happened, and the person across from you meets the hull before they meet you. It trades contact for control and calls the trade safety.
 
 This daemon, of all seven, stands at the threshold of a book about allyship for a reason. You can hardly protect anyone else while your own hull is breached. When you are frightened, depleted, or under real threat, the Protector spends everything you have on you, and nothing remains to carry into someone else's fight. The body knows one shortcut around this, worth naming because it looks like love: you pull the other person inside your own hull, so that protecting them and protecting yourself become a single act. A mother does this with a child, and it is real. It also takes the wrong shape for allyship, because it only works by making the other person part of you, and the person you are allying with is not you. They are their own ship. To stand with them as someone separate, you have to be resourced enough that your Protector has not already spent your last reserves keeping you afloat.
 

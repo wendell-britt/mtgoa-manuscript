@@ -65,7 +65,12 @@ HEADING = re.compile(r"^\s{0,3}#{1,6}\s")
 TABLE = re.compile(r"^\s*\|")
 BULLET = re.compile(r"^\s*(?:[-*+]\s|\d+[.)]\s)")
 
-PRONOUN_OPEN = re.compile(r"^\s*(?:\*\*|\*|>\s*)?(It|This|That|These|Those|They)\b"
+# The italic opener is deliberately NOT accepted. Found by this rule firing on its own
+# fix: LE-3 repaired a cross-block pointer by quoting the line it pointed at
+# (*This isn't working* is a verdict on the work), and the rule then flagged the repair
+# as the defect. A demonstrative inside an italic quotation carries its antecedent with
+# it. Bold is still accepted, because bold marks emphasis on the book's own sentence.
+PRONOUN_OPEN = re.compile(r"^\s*(?:\*\*|>\s*)?(It|This|That|These|Those|They)\b"
                           r"(?!\s+(?:is|was|are|were)\s+(?:the\s+)?\w+ing\b)")
 DOUBLED = re.compile(r"\b(the|a|an|and|of|to|in|is|that|you|it|for|with|but|on)\s+\1\b", re.I)
 # "the The Emotional Body" — the second word capitalised, which is why a case-sensitive
