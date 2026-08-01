@@ -75,12 +75,6 @@ Read Carse for the frame, Chou for the mechanics, and Nguyen for what playing do
 
 ---
 
-## The Oracle
-
-The hexagrams that structure the oracle cards — which live in the companion deck rather than in these pages — come from **the I Ching** — the Chinese *Book of Changes*, a three-thousand-year-old system for reading the quality of a moment. I use the Richard Wilhelm translation, rendered into English by Cary F. Baynes (Princeton University Press, Bollingen Series). The Image text that opens each card is from this tradition. Its core insight — that situations have qualities, and that naming the quality of a moment is already a form of guidance — is what makes the cards oracular rather than instructional. As with the five channels: the wisdom belongs to a tradition I didn't create. I applied it to allyship practice; I don't own it.
-
----
-
 ## A Note on the Research
 
 The burnout claims in this book aren't impressions — they're grounded in **Christina Maslach's** clinical research (the Maslach Burnout Inventory and associated papers identify three dimensions: exhaustion, depersonalization, and inefficacy) and **Paul Gorski's** research on activist burnout specifically ("Burnout in Social Justice and Human Rights Activists: Symptoms, Causes, and Implications," 2015). Gorski's finding is the one that reorganized my thinking: identity fusion is the mechanism — when the work *is* who you are, there's nothing left to regulate the cost. Their work is the backbone of the book's central empirical claim: the problem isn't the practitioner. It's the design of the game.
