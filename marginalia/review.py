@@ -343,7 +343,12 @@ def check_anchors(insertions_path, chapter_dir):
         # from the prose beside it, so on an applied manuscript the anchor text
         # legitimately appears twice — once in the body, once quoted in the note.
         txt = MARG_BLOCK.sub("", open(files[ch]).read())
-        for anchor, _ in rows:
+        # ch8's rows carry a third field, the attributed speaker, because that
+        # chapter's margin is the six-voice chorus. Unpacking exactly two raised
+        # ValueError on the first ch8 row and aborted the whole check, so every
+        # anchor from ch8 onward went unverified. Index instead of unpack.
+        for row in rows:
+            anchor = row[0]
             n = txt.count(anchor)
             if n != 1:
                 flag("BLOCK", "anchor not unique", f"ch{ch}",

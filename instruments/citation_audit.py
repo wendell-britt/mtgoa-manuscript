@@ -28,6 +28,18 @@ stripped first -- an in-world character citing Ted Kaptchuk is a separate proble
 
     python3 instruments/citation_audit.py
     python3 instruments/citation_audit.py --quiet
+
+
+DEAD is a weak rule and 2026-08-01 showed why. It reported Peter Levine and Stephen
+Porges as credited-but-unused, because it looks for the author's name or their branded
+term -- *polyvagal*, *somatic experiencing* -- in the body. Appendix G is built to do the
+opposite: it credits the lineage under ideas the book states in its own words, and says
+so ("an honest map of which parts of the book are indebted to which sources"). Both
+entries name their referent, and both referents are load-bearing. Levine's is "why
+staying with a feeling lets it finish its cycle" -- ch3:197, ch9:268, and *charge* 104
+times across the manuscript. Porges's is "how safety, threat, and connection get
+registered below conscious thought" -- ch3:740 and ch3:915, the second inside the chapter
+recap. Read DEAD as "check the referent by hand", never as a defect.
 """
 import io, os, re, sys, glob
 

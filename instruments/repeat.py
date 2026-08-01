@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import re, io
+import re, io, os
 CH=['ch1','ch2','ch3','ch4','ch5','ch6','ch7','ch8','ch9']
 CONCEPTS={
  'Forest':r'\bForest\b','Village':r'\bvillage\b','daemon':r'\bdaemons?\b',
@@ -26,7 +26,8 @@ def paras(fn):
         buf.append(s)
     if buf: out.append((start,' '.join(buf)))
     return out
-P={c:paras(c+'.md') for c in CH}
+MS=os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir, 'manuscript')
+P={c:paras(os.path.join(MS,c+'.md')) for c in CH}
 print('%-18s %s'%('CONCEPT','definition-events per chapter (ch:line,line)'))
 print('-'*100)
 for name,pat in CONCEPTS.items():
