@@ -46,7 +46,46 @@ RULES = [
      'a slot for a value nobody has supplied'),
     ('placeholder-name', r'\bJOHN DOE\b|\bYOUR NAME HERE\b|\bINSERT\b',
      'template text'),
+    # Production metadata. Found 2026-07-31: six shipping appendices carry
+    # provenance headers - Status, Authority, Location in book, Timing
+    # dependency - and build_book.py copies them straight into the deliverable.
+    # 15 lines reached build/MTGOA_PRINT_2026-07-31.md, including internal file
+    # paths (docs/plans/..., GATE_GIFTS_ALLYSHIP_MOVES.md), approval records
+    # ("approved by Wendell"), a "Draft" status flag on a shipping appendix, and
+    # an instruction to the production team ("Coordinate before press").
+    #
+    # These lines are legitimate in the repo and must never reach a reader.
+    # `build_book.py` now strips them at assembly, and this scanner applies the
+    # same strip below — so under normal conditions this rule is silent. It is
+    # kept as the regression guard: remove or break that strip and the headers
+    # reappear in the scanned text and this fires again.
+    ('production-metadata',
+     r'^\*\*(Status|Authority|Location in book|Timing dependency|Depends on|'
+     r'Blocked by|Revised|Ported):\*\*',
+     'internal provenance that belongs in the repo, not in the book'),
+    # Author-slot convention, added 2026-07-31. When a form requires N concrete
+    # instances only Wendell can supply - a remembered moment, a draft count, a
+    # note somebody actually gave him - the slot is marked `WENDELL:` and left
+    # unfilled rather than drafted. This rule exists because the alternative was
+    # demonstrated the same day: drafting into those slots produced invented
+    # biography that read well and was false. A form requiring N specifics will
+    # generate N specifics; the safeguard is the empty slot plus this rule.
+    ('author-slot', r'\bWENDELL:',
+     'a slot only the author can fill, deliberately left empty'),
 ]
+
+# Scan what SHIPS, not what sits on disk. `build_book.py` strips each component's
+# provenance header at assembly, so those lines are legitimate in the repository
+# and never reach a reader. Applying the same strip here keeps this scanner
+# honest in both directions: it stops reporting metadata as a blocker, and if
+# that strip is ever removed from the builder, these lines reappear here and the
+# scanner starts failing again. That is the intended coupling.
+try:
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from build_book import strip_provenance
+except Exception:                                    # builder moved or broken
+    def strip_provenance(text):
+        return text
 
 # Legitimate in-world constructions that must never be "fixed". The Diplomat's
 # worked translation uses [Camp A]/[Camp B] as generic party labels, five times
@@ -61,7 +100,8 @@ def scan():
         for path in files:
             if not os.path.exists(path):
                 continue
-            for n, line in enumerate(io.open(path, encoding='utf-8').read().split('\n'), 1):
+            for n, line in enumerate(strip_provenance(
+                    io.open(path, encoding='utf-8').read()).split('\n'), 1):
                 if ALLOW.search(line):
                     continue
                 for name, pat, why in RULES:
