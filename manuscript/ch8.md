@@ -259,7 +259,7 @@ The Sage runs two questions at all times, and everything the School of the Horiz
 
 *Which game is this?* is a horizontal question. Power, strategy, harmony, whole-board. It asks what the situation requires right now. Watch what people actually do rather than what they say, and it answers itself.
 
-*Which altitude is this?* is a vertical question, and its answer-set is the six Faces you have spent this book learning. It asks what a person can currently hold: the size of the frame they operate from, a fact about their development and not a fact about their worth.
+*Which altitude is this?* is a vertical question, and its answer-set is the six Faces the schools teach. It asks what a person can currently hold: the size of the frame they operate from, a fact about their development and not a fact about their worth.
 
 Both are real. Both are load-bearing. The game read tells you what to do. The altitude read tells you how to say it. A Sage who only reads games will keep saying accurate things in a register nobody present can receive. A Sage who only reads altitudes will keep making sophisticated assessments of people while the actual situation goes unaddressed.
 
