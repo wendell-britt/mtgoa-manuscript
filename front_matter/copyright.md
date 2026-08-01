@@ -38,6 +38,9 @@ The Genius Demon Ally, which is where the daemons in Chapter 2 come from, is
 *Leverage points*, used throughout Chapter 6, is **Donella Meadows'** term of art,
 from *Thinking in Systems* and "Leverage Points: Places to Intervene in a System."
 
+*Felt sense*, used in Chapters 1, 3, 5, 8 and 9 and in Appendix A, is **Eugene
+Gendlin's**, from *Focusing*.
+
 The five emotional channels are a remix of **wu xing**, the five-phase system of
 classical Chinese medicine. Chapter 3 says what the remix changed and Appendix G
 points at the original.

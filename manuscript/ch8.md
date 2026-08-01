@@ -1,4 +1,4 @@
-# CHAPTER 8: THE SAGE
+# CHAPTER 8: THE SAGE — Seeing the Whole Board Without Leaving the Table
 ## *Mastery Is Knowing Which Game You're Playing and Being Able to Put It Down*
 
 
@@ -68,7 +68,7 @@
 
 The Sage isn't the person who sees furthest. It's the person who looked at himself long enough to stop performing the view.
 
-That is the thesis, and it comes with a limit case attached. The School of the Horizon applies when your allyship has become fluent enough to risk turning into performance, superiority, or escape. It does not apply while harm happens in front of you. In that case, do not sit there polishing your interiority. Draw the line, call the help, interrupt the damage. Inner work keeps the response clean enough to still work tomorrow. It looks like delay from outside, and from inside on a bad day.
+That is the thesis, and it comes with a limit case attached. The School of the Horizon applies when your allyship has become fluent enough to risk turning into performance, superiority, or escape. It does not apply while harm happens in front of you. In that case, do not sit there polishing your interiority. Draw the line, call the help, interrupt the damage. Inner work keeps the response clean enough to still work tomorrow. It looks like delay from outside, and on a bad day it looks like delay from inside too.
 
 Once, the Sage lived inside the village's conversations.
 
@@ -171,7 +171,7 @@ Three games make up the distortion's home territory.
 
 **The Trauma Olympics.** Every conversation becomes a competition to prove whose pain is more formative. The distortion navigates these with perfect equanimity: able to see both sides, able to validate everyone's injury, unable to take a side, because taking a side would mean the seeing was *for* something. The Trauma Olympics has no winners. It also has no end.
 
-Nobody names the obvious: the competition runs for real, and somebody loses it. The person most wounded gets the most airtime, not because their pain is more valid, but because pain has become the credential. The Sage who could name that dynamic chooses instead to hold space for it. To validate. To see. Holding space participates in it. When the most wounded reads as the most credible, the people who have metabolized their pain go unheard. The Trauma Olympics rewards unprocessed pain, and the Sage who declines to name it rewards it too.
+Nobody names the obvious: the competition runs for real, and somebody loses it. The person most wounded gets the most airtime, not because their pain is more valid, but because pain has become the credential. The Sage who could name that dynamic chooses instead to hold space for it. To validate. To see. Holding space participates in the competition. When the most wounded reads as the most credible, the people who have metabolized their pain go unheard. The Trauma Olympics rewards unprocessed pain, and the Sage who declines to name it rewards it too.
 
 The test: where pain gets performed, does the Sage notice who isn't speaking? Who has done the work? Who is speaking from healed territory rather than fresh wound? The real Sage sees all of it, including the hierarchy of pain, and names what they see. Not with judgment. With precision.
 
@@ -221,7 +221,7 @@ Sera would say the ledger holds it. The ledger holds what a ledger can hold. Iri
 
 I have read all five of them for thirty years and nobody has read me, which I arranged, and which I am now told is a course I never took. I am the oldest first-year at this school. That is a joke and it is also the timetable.
 
-None of this describes the guru on the mountain who has risen above it all. Detachment is a real capacity with real uses; the Sage runs it deliberately, for a purpose and a duration, the way you'd use any other instrument. This describes something else. Call it *committed seeing*: the capacity to take in all the altitudes (Red, Amber, Orange, Green, Teal) and still choose to stand somewhere. To play the game the moment requires without mistaking it for the only game there is. To know when to draw the line and when to step back. To see the whole map and still walk your piece of it.
+The Sage described here is not the guru on the mountain who has risen above it all. Detachment is a real capacity with real uses; the Sage runs it deliberately, for a purpose and a duration, the way you'd use any other instrument. This describes something else. Call it *committed seeing*: the capacity to take in all the altitudes and still choose to stand somewhere. To play the game the moment requires without mistaking it for the only game there is. To know when to draw the line and when to step back. To see the whole map and still walk your piece of it.
 
 The Sage arrives when you've been all the other Faces long enough to see them from the outside. You've felt with the Shaman. You've drawn lines with the Challenger. You've carried forward with the Regent. You've built with the Architect. You've held the field with the Diplomat. At each step, you also watched: *which game am I in, and which one does this moment actually require?*
 
@@ -249,7 +249,7 @@ The Sage's journey runs inward and then back. Corin would call going inward a re
 
 The Sage holds all five at once. Not to judge. To understand. Not to hold above, to hold with. That marks the whole difference between the Sage and the Sage in distortion. The Sage sees so they can serve. The distortion sees so it can be right.
 
-The structural point is that you don't abandon the lower altitudes when you arrive at a higher one. You carry them. The Teal view doesn't mean you've stopped being Red. It means you know when you're Red, you can choose to stay there deliberately, and you can come back. The Sage doesn't leave the Faces behind. The Sage holds them all and knows which one the moment asks for.
+The structural point is that you don't abandon the lower altitudes when you arrive at a higher one. You carry them. The widest view doesn't mean you have stopped being able to stand in a narrow one. It means you know when you are standing there, you can choose to stay deliberately, and you can come back. The Sage doesn't leave the Faces behind. The Sage holds them all and knows which one the moment asks for.
 
 Something arrives once you can see the whole board, and the name for it is evolutionary purpose: the pull of something larger than your own survival. It outruns your team's goals and your organization's mission, and it carries its own direction, as though the work pulled you forward rather than you pushing it. The Sage hears that pull and asks: *which game is this? Is this my game's pull, or something else's?* Sometimes the pull is real. Sometimes it's a beautiful story you've told yourself about why the work matters. The Sage can tell the difference, and the telling takes skill rather than temperament.
 
@@ -259,7 +259,7 @@ The Sage runs two questions at all times, and everything the School of the Horiz
 
 *Which game is this?* is a horizontal question. Power, strategy, harmony, whole-board. It asks what the situation requires right now. Watch what people actually do rather than what they say, and it answers itself.
 
-*Which altitude is this?* is a vertical question. Red, Amber, Orange, Green, Teal. It asks what a person can currently hold: the size of the frame they operate from, a fact about their development and not a fact about their worth.
+*Which altitude is this?* is a vertical question, and its answer-set is the six Faces you have spent this book learning. It asks what a person can currently hold: the size of the frame they operate from, a fact about their development and not a fact about their worth.
 
 Both are real. Both are load-bearing. The game read tells you what to do. The altitude read tells you how to say it. A Sage who only reads games will keep saying accurate things in a register nobody present can receive. A Sage who only reads altitudes will keep making sophisticated assessments of people while the actual situation goes unaddressed.
 
@@ -267,7 +267,7 @@ You may choose one. The failure comes when one answers the other's question.
 
 That collapse has a signature and it runs in one direction far more often than the other: the game read gets converted into an altitude verdict. Somebody is in the power game, therefore they're at Red, therefore this conversation is beneath the frame you brought to it. Each step feels like an inference. The last one is contempt with a diagram attached.
 
-It runs the other way too, less often and just as expensively. You decide the group sits at Green, so you treat every conflict as a Green conflict, and the boundary violation sitting in the middle of the table goes unnamed because your altitude read has already told you what kind of problem this must be.
+It runs the other way too, less often and just as expensively. You decide the group sits at one altitude, so you treat every conflict as that kind of conflict, and the boundary violation sitting in the middle of the table goes unnamed because your altitude read has already told you what kind of problem this must be.
 
 The discipline has no glamour in it: answer each question with its own evidence. What gets played, from behavior. What gets heard, from what has actually landed with these people before. Then act on the first and speak in the language of the second. Somebody in the power game may be a person of enormous developmental range having a bad week, and if your map can't hold that, your map is running you.
 
@@ -335,7 +335,7 @@ The alchemy: you feel the field close down, you name it as a report rather than 
 **Alchemy Move 2: Game-Switcher**
 Altitude-arrogance: **Anger** → *Triumph*
 
-Underneath the Game-Switcher's first failure is the rage at being somewhere that can't hold what you see. The *I am at Teal and you are at Green and this conversation is beneath my time* that fires the moment you have to go down to where they are.
+Underneath the Game-Switcher's first failure is the rage at being somewhere that can't hold what you see. The *I can see the whole board and you are playing one square of it and this conversation is beneath my time* that fires the moment you have to go down to where they are.
 
 The anger is real, and the situation is sometimes exactly that limited. *The judgment is accurate, and it is also the trap: because the moment you stand above them, you cannot be with them, and this practice is always about being with.*
 
@@ -345,7 +345,7 @@ The alchemy: you feel the arrogance rise, you name it (*I am using the altitude 
 **Alchemy Move 3: Diagnostician**
 Flat sight: **Neutrality** → *Peace*
 
-Underneath the Diagnostician's first failure is flatness. Not sadness about what people can't see, something colder. The pattern shows fully and nothing in you moves about it. *This is a Red dynamic. This is Green stuckness. This is an Orange problem wearing Teal vocabulary.* All accurate, all delivered from a place with no stake in the outcome.
+Underneath the Diagnostician's first failure is flatness. Not sadness about what people can't see, something colder. The pattern shows fully and nothing in you moves about it. *This is a power game. This is harmony stuckness. This is a strategy problem wearing whole-board vocabulary.* All accurate, all delivered from a place with no stake in the outcome.
 
 Flat sight feels like objectivity and amounts to the Neutral channel stuck. The tell is that the naming costs you nothing. Real diagnosis has a temperature to it, because you name something that matters to you about people you intend to stay with.
 
@@ -365,7 +365,7 @@ The alchemy: you notice that the joy has fused to this particular game rather th
 **Alchemy Move 5: Returner**
 Altitude-loss: **Sadness** → *Poignance*
 
-Underneath the Returner's first failure is the sadness of leaving the view. You've seen from Teal (the whole map, where everyone stands, why they're stuck, what altitude they're operating from) and now you have to come back to a table that doesn't see it.
+Underneath the Returner's first failure is the sadness of leaving the view. You've seen the whole map (where everyone stands, why they're stuck, what altitude they're operating from) and now you have to come back to a table that doesn't see it.
 
 The sadness is the cost of the gift, and it will feel like weakness every time. The Sage who has gone up can't unsee it, and coming back down means sitting with people while you can see exactly what happens and they can't, and finding a way to say it that doesn't leave them feeling seen-and-judged. That's the work. That's the price.
 
@@ -496,8 +496,8 @@ Return has four moves inside it. Run them in order the first several times. Afte
 > *I ask every student to draw the system and then name whose face disappeared from the diagram.*
 >
 > *I drew this school last spring, for an unrelated purpose. The diagram was accurate and complete
-> and I was pleased with it. I looked at it again this week and found the omission — and then found
-> that Sera had found it in the spring, and Maera the year before that.*
+> and I was pleased with it. I looked at it again this week and found the omission — and then learned
+> that Sera had seen it in the spring, and Maera the year before that.*
 >
 > *We have all been drawing the same diagram. None of us put him on it either. That is not an
 > oversight anyone can lay at his door.*
@@ -508,7 +508,7 @@ Return has four moves inside it. Run them in order the first several times. Afte
 
 You met the Damaged Self deep in the Forest, seventh in line, closest to the center. The Protector decides whether you go in at all. The Controller decides how you're allowed to behave once you're inside. The Skeptic decides whether what you're reacting to was ever real. The Fixer-Healer decides whether the thing in front of you holds up well enough to be given yourself to. The Victim decides what your having paid entitles you to. The Damaged Self decides something none of them touch: whether you are built correctly for any of this.
 
-At its best, this part of you registers difference accurately. Something about how you process runs off-standard. That happens frequently, and at this altitude almost always, because panoramic vision is not the common configuration. A part of you that can hold *I am running differently from the people around me* without panic does real work. It keeps you from expecting your own experience to be universal, the single most useful correction available to anyone who sees more than the people they're sitting with.
+At its best, this part of you registers difference accurately. Something about how you process runs off-standard. It does for a lot of people, and at this altitude almost always, because panoramic vision is not the common configuration. A part of you that can hold *I am running differently from the people around me* without panic does real work. It keeps you from expecting your own experience to be universal, the single most useful correction available to anyone who sees more than the people they're sitting with.
 
 Registering the difference is the gift working. The distortion arrives in what it does with the reading.
 
@@ -524,11 +524,11 @@ The cost lands precisely where this chapter cannot afford it. You lose the capac
 
 You do not fire the Damaged Self. Fire the part of you that registers difference and you will spend your life assuming everyone sees what you see, its own catastrophe, and a louder one. You take the joystick back by giving it its actual jurisdiction and removing the one it appointed itself.
 
-*Keep the reading. Something in me runs differently, and that is usually accurate and sometimes the whole instrument. What the reading does not do is decide what is allowed to grow in me, and it does not get to answer a question about capacity with a question about repair.*
+*Keep the reading. Something in me runs differently, and that reading is usually accurate, and sometimes it is the whole instrument. What the reading does not do is decide what is allowed to grow in me, and it does not get to answer a question about capacity with a question about repair.*
 
 Then put a limit on it, because an open repair schedule is the shadow's whole method. The Challenger's deadline is a breath. The Regent's is a cycle. The Architect's is a stage. The Diplomat's is one sentence. The Sage's is not measured in time at all: the last joke this Forest plays on you: *you get one map.* One framework per live problem. When you reach for the second map for the same problem, that is not deepening. That is the Damaged Self with the joystick, and the tell is that the second map arrives before you have tried anything with the first.
 
-It shows up in a single beat. Someone asks you for help with something real. Something in you goes wide and attentive: the Panoramic Seer arriving on time, doing its job. Then the Damaged Self opens underneath it, and what surfaces is not doubt; doubt you would catch. What surfaces is a project. *I know exactly what's happening here, and I know it because I've been the broken version of it.* So you hand them the map. The map is good. The map is also the fourth one this quarter, and nobody has ever asked you for a map. What they asked for was a hand. The conversation ends well. They leave with reading. On the narrow jurisdiction, the same part returns the same accurate report and the answer changes: *I run differently, which is why I can see this, and what I'm going to do about it is sit here and ask you a question.*
+It shows up in a single beat. Someone asks you for help with something real. Something in you goes wide and attentive: the Panoramic Seer arriving on time, doing its job. Then the Damaged Self opens underneath it, and what surfaces is not doubt; doubt you would catch. What surfaces is a project. *I know exactly what's happening here, and I know it because I've been the broken version of it.* So you hand them the map. The map is good. The map is also the fourth one this quarter, and nobody has ever asked you for a map. What they asked for was a hand. The conversation ends well. They leave with reading. Give that same part its narrow jurisdiction and it returns the same accurate report, but the answer changes: *I run differently, which is why I can see this, and what I'm going to do about it is sit here and ask you a question.*
 
 *Bring one time you answered a person's problem with a framework. Name what the Damaged Self produced in the half-second before you spoke: the reading about yourself, not the feeling about it. Then write the question you would have asked instead. Two minutes to capture it as a BAR.*
 
@@ -576,7 +576,7 @@ You know what your Damaged Self is for now. That is what you take out.
 ### *What Winning Looks Like at the Sage's Altitude*
 
 <!-- MARGINALIA -->
-> *He does not sleep the week before an intake. I have known this for eleven years. I leave food
+> *He does not sleep the week before an intake. I have known this since he came aboard. I leave food
 > where he will walk into it. He thinks the galley is badly organised.*
 >
 > *He is a good man and this ship is lucky. That is all I have to say about it.*

@@ -1,4 +1,4 @@
-# CHAPTER 3: THE SHAMAN
+# CHAPTER 3: THE SHAMAN — What to Do With What You Feel
 ## *Emotional Alchemy as the Foundation of Real Allyship*
 
 
@@ -58,7 +58,7 @@
 > *She used to grade her readings. Scored them in a book, against what turned out to be true. She
 > stopped in her fourth year here and has described the time since as the first she could hear
 > anything at all. I mention it because she will not, and because you are shortly to be taught by
-> somebody who spent a decade marking her own homework.*
+> somebody who spent years marking her own homework.*
 <!-- /MARGINALIA -->
 
 This chapter runs longest in the book, and you deserve to know why before you start it.
@@ -308,7 +308,7 @@ The Wake stage honors that moment, without immediately trying to fix it, manage 
 
 Where do you feel it in your body? Chest? Belly? Legs? Throat? Jaw? Let your nervous system have its full response for a moment. Skip the question of whether the feeling qualifies, and skip the question of why it came. Just: this feeling is present. I notice it.
 
-This stage can take five seconds or can run throughout, and you keep noticing the feeling across the whole experience.
+This stage can take five seconds or run the length of the encounter, and you keep noticing the feeling the whole way through.
 
 #### Stage 2: Open Up
 **What it means:** Turn the sensitivity up, and let what's there reach you.
@@ -688,7 +688,7 @@ Six verdicts, six replacements. The middle column holds the version that keeps t
 
 Every line in the third column names a process, which leaves the judge nothing to convene over, and which also means none of them installs by repetition. A belief about what action does can only be put in by action. You make the proportionate move while the verdict is still talking, the move returns a result the verdict did not predict, and the belief picks up a piece of evidence that cannot be struck from the record. *Something here doesn't sit right with me. Can we slow down?*, said at that meeting, out loud, with your nerve telling you to let it go, deposits one. You were unready, you spoke, the ceiling held. Run that enough times and *I become more ready through proportionate action* describes a thing you have watched happen rather than a phrase you are trying to talk yourself into.
 
-The move onto the field with the belief still talking is the hinge of the whole chapter, and the chapter's real axis: Feeling and Function. The first half was Feeling: the charge sensed cleanly. This half is Function: the read becoming a move that changes something. Feeling without Function is endless sensing, nothing done. So take the move where it counts, out of the forest, where nothing costs you and no one is watching, and into the places allyship actually happens. The read does nothing for the person you came to help until it leaves your body and changes what happens next. Here the Shaman stops sensing and starts doing.
+The move onto the field with the belief still talking is the hinge of the whole chapter, and the chapter's real axis: Feeling and Function. The first half was Feeling: the charge sensed cleanly. This half is Function: the read becoming a move that changes something. Feeling without Function is endless sensing, nothing done. So take the move out of the forest, where nothing costs you and no one is watching, and into the places allyship actually happens, where it counts. The read does nothing for the person you came to help until it leaves your body and changes what happens next. Here the Shaman stops sensing and starts doing.
 
 ### The Word Everyone Knew and No One Said
 
@@ -807,7 +807,7 @@ The moves are what you do. The next question is where.
 
 The parable showed one of the four: Direct Action, the true thing said to a face. It is the Shaman's steepest, the domain where the read has to leave you and cost you something in front of the person it concerns.
 
-The read has four domains, and one cheap habit that is none of them. The cheap habit is the read you keep: you sense what moves, refine it, and never say it, your body never on the line. Reading under the surface is real skill, and it asks nothing of you, because no one ever has to watch you get it wrong. A louder version of the same safety runs alongside it. You do say something, but only the correct words, the ones no one can fault, and that is the awareness trap, the domain that swallowed the others because you can run it from the chair. Both keep the true thing unsaid. The four domains are where it finally leaves: the true thing said to a face, the true thing said out loud in place of the right thing, the honest need named and asked for, the unsaid thing put on the table so a group can work. Each costs more than sensing, because each trades the safety of the accurate private read for the risk of getting it wrong out loud.
+The read has four domains, and one cheap habit that is none of them. The cheap habit is the read you keep: you sense what moves, refine it, and never say it, your body never on the line. Reading under the surface is real skill, and it asks nothing of you, because no one ever has to watch you get it wrong. A louder version of the same safety runs alongside it. You do say something, but only the correct words, the ones no one can fault, and that is the awareness trap, the habit that swallowed the others because you can run it from the chair. Both keep the true thing unsaid. The four domains are where it finally leaves: the true thing said to a face, the true thing said out loud in place of the right thing, the honest need named and asked for, the unsaid thing put on the table so a group can work. Each costs more than sensing, because each trades the safety of the accurate private read for the risk of getting it wrong out loud.
 
 So here are all four, and before them the three things that decide whether saying it helps or wounds. Not to study: pick where you'll spend the read this week, and pick the domain you keep avoiding. If the read only ever circles back into your own head, refined and unsaid, or comes out dressed in the words no one can fault, you never made the Shaman's move. You practiced it.
 
@@ -891,9 +891,9 @@ Five moves, one card, about ninety seconds. That is a full pass of the spiral wi
 
 A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played, and the difference is a person.
 
-A quest is a commitment to act that touches somebody other than you, on a date. It is not a resolution and it is not a value. It has a verb, a name in it, and a deadline. Quests come from the Show Up cards, and every card in it ends in an artifact, and an artifact is something another person can encounter.
+A quest is a commitment to act that touches somebody other than you, on a date. It is not a resolution and it is not a value. It has a verb, a name in it, and a deadline. Quests come from the Show Up cards, and every one of them ends in an artifact, and an artifact is something another person can encounter.
 
-Write yours in one line with four things in it: what you will do, who it reaches, by when, and what it costs you. *Aim the Awareness* becomes: **I will tell Dana what I noticed in Tuesday's meeting and not soften it, before Friday, and it will cost me her thinking I am difficult.** That is a quest. *I will be more aware of my impact* is not one; nobody can tell whether you did it, including you.
+Write yours in one line with four things in it: what you will do, who it reaches, by when, and what it costs you. *Say the Thing Under the Thing* becomes: **I will tell Dana what I noticed in Tuesday's meeting and not soften it, before Friday, and it will cost me her thinking I am difficult.** That is a quest. *I will be more aware of my impact* is not one; nobody can tell whether you did it, including you.
 
 The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. Enthusiasm alone usually means you have picked something you were already going to do.
 

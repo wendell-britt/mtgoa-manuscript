@@ -1,4 +1,4 @@
-# CHAPTER 7 — THE DIPLOMAT
+# CHAPTER 7: THE DIPLOMAT — Why Being Good at Care Is Only Half of It
 ## *The Terms That Let You Stay Without Disappearing*
 
 
@@ -74,7 +74,7 @@ Most people stay past the point of their usefulness. Most people absorb cost unt
 
 The Diplomat is the negotiator who has learned that honest stake-surfacing, timely closure, and the willingness to let the field decide what it can actually hold demonstrate love better than infinite presence does.
 
-The five stages of the Diplomat's work run as a journey in sequence rather than a checklist. **Bridge** is the initial entry, the act of showing up in the field with curiosity rather than judgment, making contact without yet knowing what the relationship will require. **Translate** is the work of rendering one camp's language into terms another camp can hear, betraying neither side and finding the common ground of meaning. **Hold** is the maintenance of enough safety that difficult conversation remains possible even when the field is charged, not the four seconds of Stand you learned from the Challenger, where one person declines to take back one line, but the sustained containment of a whole field over the length of a hard conversation, sometimes over months. **Repair** is the healing of ruptures without the pretense that they did not occur: cleaning the wound without pretending nobody made it. **Negotiate** is the culmination: surfacing what each party protects, naming the terms under which staying remains possible, and closing so that everyone is heard *and* something moves.
+The five stages of the Diplomat's work run as a journey in sequence rather than a checklist. **Bridge** is the initial entry, the act of showing up in the field with curiosity rather than judgment, making contact without yet knowing what the relationship will require. **Translate** is the work of rendering one camp's language into terms another camp can hear, betraying neither side and finding the common ground of meaning. **Hold** is the maintenance of enough safety that difficult conversation remains possible even when the field is charged. It is not the four seconds of Stand you learned from the Challenger, where one person declines to take back one line; it is the sustained containment of a whole field over the length of a hard conversation, sometimes over months. **Repair** is the healing of ruptures without the pretense that they did not occur: cleaning the wound without pretending nobody made it. **Negotiate** is the culmination: surfacing what each party protects, naming the terms under which staying remains possible, and closing so that everyone is heard *and* something moves.
 
 Each stage earns the next. Bridge without Translate is noise. Translate without Hold is a promise no one trusts. Hold without Repair is a wound left to fester. Repair without Negotiate is generosity without closure, and generosity without closure stops being a gift; it becomes a slow form of self-destruction that the field learns to take for granted.
 
@@ -84,19 +84,19 @@ Each stage earns the next. Bridge without Translate is noise. Translate without 
 
 The Diplomat lives at the relational altitude of human development: pluralistic, relational, oriented toward inclusion. Where the Regent operates through tradition and inherited structure, and the Challenger operates through decisive will and confrontation, the Diplomat operates through the relational field. What matters lies not in what any single person thinks or wants but in what becomes possible between people when someone holds the conditions rightly.
 
-People commonly misunderstand the Diplomat's stance. Niceness, conflict-avoidance dressed in the language of harmony, and the absence of judgment in the service of false peace all get mistaken for it. It is the altitude at which a person can hold multiple valid perspectives simultaneously. They can be a partisan and still make space, can stand for something and still listen, can name their own position and still honor the legitimacy of a position they disagree with. The Diplomat's working capacity is honest multiplicity: holding the field without requiring it to resolve into one thing, holding the tension between positions without rushing to collapse it. That capacity supplies the raw material. What it is *for* arrives at the end of Section 5.
+People commonly misunderstand the Diplomat's stance. Niceness, conflict-avoidance dressed in the language of harmony, and the absence of judgment in the service of false peace all get mistaken for it. The Diplomat's altitude is the one at which a person can hold multiple valid perspectives simultaneously. They can be a partisan and still make space, can stand for something and still listen, can name their own position and still honor the legitimacy of a position they disagree with. The Diplomat's working capacity is honest multiplicity: holding the field without requiring it to resolve into one thing, holding the tension between positions without rushing to collapse it. That capacity supplies the raw material. What it is *for* arrives at the end of Section 5.
 
-The Diplomat operates through five channels:
+The Diplomat operates through five modes:
 
-**Bridge-Builder.** The channel of initial entry. Making contact. Showing up curious rather than defended. Creating the possibility of relationship without yet knowing what the relationship will require.
+**Bridge-Builder.** The mode of initial entry. Making contact. Showing up curious rather than defended. Creating the possibility of relationship without yet knowing what the relationship will require.
 
-**Translator.** The channel of rendering meaning. Taking what one party in the field means and translating it into terms another party can actually hear. Bridging the gap between ways of being in the world, without softening it and without betraying it.
+**Translator.** The mode of rendering meaning. Taking what one party in the field means and translating it into terms another party can actually hear. Bridging the gap between ways of being in the world, without softening it and without betraying it.
 
-**Field-Holder.** The channel of maintained safety. The work of keeping the relational space open and charged enough that difficult conversations remain possible. Holding rather than solving.
+**Field-Holder.** The mode of maintained safety. The work of keeping the relational space open and charged enough that difficult conversations remain possible. Holding rather than solving.
 
-**Repairer.** The channel of healing ruptures. The work of addressing harm that has occurred within the field without pretending the harm did not occur, and without letting the repair process create new harm.
+**Repairer.** The mode of healing ruptures. The work of addressing harm that has occurred within the field without pretending the harm did not occur, and without letting the repair process create new harm.
 
-**Integrative Negotiator.** The channel of honest closing. Surfacing stakes, interests, and sacrifices; naming what the agreement must hold for everyone, and closing so the field moves.
+**Integrative Negotiator.** The mode of honest closing. Surfacing stakes, interests, and sacrifices; naming what the agreement must hold for everyone, and closing so the field moves.
 
 ### EA Channel Alignment — How Each Mode Moves Energy
 
@@ -110,7 +110,7 @@ The Diplomat's practice works across the full spectrum. Each bridging mode rests
 | **Repairer** | Water/Sadness | Rupture → Repair (moral equivalence → discerned equivalence) → **Poignance** |
 | **Integrative Negotiator** | Fire/Anger | Accommodation → Honest terms (resentful peace → agreement naming all stakes) → **Triumph** |
 
-Section 4 works each mode's full arc through in its five channel deep-dives, the dissatisfaction it carries and the alchemy that transmutes it. Calm is not the entry fee. Whatever you feel as you sit down, one of these five works with that feeling rather than around it.
+Section 4 works each mode's full arc through in its five deep-dives, the dissatisfaction it carries and the alchemy that transmutes it. Calm is not the entry fee. Whatever you feel as you sit down, one of these five works with that feeling rather than around it.
 
 ---
 
@@ -227,7 +227,7 @@ The draw is relational. Not solo. Pick a live field with actual people in it, be
 
 ### Channel 1 — Bridge-Builder
 
-The Bridge-Builder is the Diplomat's entry point: the channel through which contact happens, curiosity replaces judgment, and the field allows a new presence to enter. It is the Diplomat's most fundamental skill and the one most easily distorted.
+The Bridge-Builder is the Diplomat's entry point: the mode through which contact happens, curiosity replaces judgment, and the field allows a new presence to enter. It is the Diplomat's most fundamental skill and the one most easily distorted.
 
 Here is what its absence looks like: a person who cannot enter a gathering without an agenda. Who approaches every relational field as a transaction. What can I get, what do I need, what is this interaction worth to me. Who makes contact only when they want something, and loses the capacity for contact-for-contact's-sake. The Bridge-Builder's absence shows up as a kind of relational instrumentalization: everyone in the field becomes a means to an end.
 
@@ -277,11 +277,11 @@ The Control move: ground the performance in actual feeling. *What is the actual 
 
 ### Channel 2 — Translator
 
-The Translator is the Diplomat's most cognitively demanding channel: the work of taking meaning from one camp and rendering it faithfully into terms another camp can actually receive. It requires the Translator to hold their own position lightly enough to truly hear what the other says, and to transmit it without contaminating it with their own biases.
+The Translator is the Diplomat's most cognitively demanding mode: the work of taking meaning from one camp and rendering it faithfully into terms another camp can actually receive. It requires the Translator to hold their own position lightly enough to truly hear what the other says, and to transmit it without contaminating it with their own biases.
 
 Here is what its absence looks like: a person who can only speak their own language. Who translates everything through their own lens, who hears only what they already believe, who approaches every conversation as a performance of their own position. The Translator's absence shows up as a kind of relational deafness. Not literally unable to hear, but incapable of receiving meaning that originates outside their own framework. The Diplomat without Translator is two ends of a wire that never connected.
 
-Here is what its distortion looks like: a person who abandons their own voice entirely in the service of translation. Who becomes a relay, a passive conduit, transmitting without judgment and also without any anchor of their own. The distorted Translator has no position: the perfect channel, and therefore useless, because a translation without the Translator's own interpretive presence loses something essential. Every real translation is an act of interpretation, and an interpretation requires an interpreter with a point of view.
+Here is what its distortion looks like: a person who abandons their own voice entirely in the service of translation. Who becomes a relay, a passive conduit, transmitting without judgment and also without any anchor of their own. The distorted Translator has no position: the perfect conduit, and therefore useless, because a translation without the Translator's own interpretive presence loses something essential. Every real translation is an act of interpretation, and an interpretation requires an interpreter with a point of view.
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 1 — Arrogant Distance → Generous Hearing**
 
@@ -320,7 +320,7 @@ The alchemy: *I stop apologizing for having a position I am translating from.* I
 
 **[TRANSLATE] — From Understanding to Transmission**
 
-The Translate layer forms the operational core of the channel: you take the meaning you have received and move it forward into a form the other camp can receive.
+The Translate layer forms the operational core of the mode: you take the meaning you have received and move it forward into a form the other camp can receive.
 
 **Water → Fire: Conviction translated into urgency.** When a camp holds its meaning deeply but expresses it passively (resigned, beaten down, without heat) the Translate move carries the meaning forward into the channel where it becomes actionable. The sadness of "we have been hurt" becomes the fire of "we will not accept this again." The translation does not change the meaning; it moves the meaning into the register where it can do work.
 
@@ -342,7 +342,7 @@ Precision costs here: the containment structure takes extra effort, and it pays 
 
 ### Channel 3 — Field-Holder
 
-The Field-Holder demands more sheer presence than any other Diplomat channel. The work is maintaining enough safety that difficult conversation remains possible, even when charge runs high, even when the ground shifts, even when everyone present wants to fight, flee, or freeze.
+The Field-Holder demands more sheer presence than any other Diplomat mode. The work is maintaining enough safety that difficult conversation remains possible, even when charge runs high, even when the ground shifts, even when everyone present wants to fight, flee, or freeze.
 
 Here is what its absence looks like: a person who can hold a conversation only when it is already safe. Who can mediate in calm conditions, but who falls apart the moment the field becomes truly charged. The Field-Holder's absence shows up as a kind of presence collapse. The moment something difficult happens, they either escalate into the conflict or disappear from the field entirely. They can hold the good conditions; they cannot hold the bad ones.
 
@@ -382,7 +382,7 @@ Staying spends real capacity. Naming that cost belongs to the holding, because u
 
 ### Channel 4 — Repairer
 
-The Repairer is the Diplomat's deepest channel: the work of healing ruptures that have already occurred, restoring what was broken without pretending the break didn't happen. Unlike the Field-Holder who maintains safety, the Repairer rebuilds it after it has been lost.
+The Repairer is the Diplomat's deepest mode: the work of healing ruptures that have already occurred, restoring what was broken without pretending the break didn't happen. Unlike the Field-Holder who maintains safety, the Repairer rebuilds it after it has been lost.
 
 Here is what its absence looks like: a relationship that cannot survive its own ruptures. Where every breach becomes permanent, every mistake closes a door, every conflict leaves a scar that never heals. The Repairer's absence shows up as a kind of relational brittleness. People stay together and never recover from the times they hurt each other. They accumulate damage until something breaks that cannot be repaired, and then it is over.
 
@@ -420,7 +420,7 @@ The cost here is time. Real repair takes longer than performance repair, and tha
 
 ### Channel 5 — Integrative Negotiator
 
-The Integrative Negotiator is the Diplomat's closing channel, the Fire/Anger application at the Diplomat's altitude. The Challenger's line in the sand does different work, and so does the Regent's decree. This channel surfaces what each party protects, translates positions into interests, and closes toward terms the field can actually live with. Bridge, translate, hold, repair, and then **negotiate**. Heard *and* something moves.
+The Integrative Negotiator is the Diplomat's closing mode, the Fire/Anger application at the Diplomat's altitude. The Challenger's line in the sand does different work, and so does the Regent's decree. This mode surfaces what each party protects, translates positions into interests, and closes toward terms the field can actually live with. Bridge, translate, hold, repair, and then **negotiate**. Heard *and* something moves.
 
 Here is what its absence looks like: a field that can stay in conversation forever and never arrive anywhere. Meetings that end in warmth and vagueness. Everyone accommodated, nothing decided. The person who keeps the harmony going because closing feels like conflict, who treats every hard question as something to defer to the next conversation, the next working group, the next season when conditions might be better. The Integrative Negotiator's absence shows up as relational molasses: pleasant, inclusive, and slowly failing the task.
 
@@ -508,7 +508,7 @@ Now here is why this daemon stands where it stands, in a book about allyship. Al
 
 This is where the chapter's myth comes due. You met it in Section 3: allyship means never causing harm. The Victim is the daemon that makes that feel like integrity rather than what it actually is: a solvency requirement. If your legitimacy comes from having been harmed, then having caused harm is not a mistake you can absorb and repair. It is a disqualification. It voids the ledger. So the Victim cannot afford for you to have caused harm, and a part of you that cannot afford a finding is a part of you that will not run the audit.
 
-The cost lands in exactly the place this chapter cannot afford to lose it. You become unavailable for repair. Read that again against Section 4, because the Repairer is one of your five channels and Move 4 is a structure for receiving rupture. None of it can run. Someone names an impact you had, and before they finish the sentence the ledger has opened and produced a number, and the number says this is impossible: look at what I have absorbed, look at the column, I am the one in the red here. The Face whose whole chapter is about repair is, in shadow, structurally the worst in the book at receiving it.
+The cost lands in exactly the place this chapter cannot afford to lose it. You become unavailable for repair. Read that again against Section 4, because the Repairer is one of your five modes and Move 4 is a structure for receiving rupture. None of it can run. Someone names an impact you had, and before they finish the sentence the ledger has opened and produced a number, and the number says this is impossible: look at what I have absorbed, look at the column, I am the one in the red here. The Face whose whole chapter is about repair is, in shadow, structurally the worst in the book at receiving it.
 
 You do not fire the Victim. Fire the part of you that counts and you will spend the rest of your life absorbing costs you cannot name, in fields that have no reason to stop taking, calling that generosity. You take the joystick back by giving it its actual jurisdiction and taking away the one it appointed itself to.
 
@@ -526,7 +526,7 @@ It shows up in a single beat. Someone tells you that something you did landed ba
 
 You drew the Care ↔ Impact axis in Section 3. Here is why the Victim is nearly impossible to catch standing on it.
 
-Both poles are real goods, and this chapter is unusual in the book because its reader is fluent in one of them and suspicious of the other. Care without impact is attendance: warm, dependable, and doing nothing. Impact without care is the Challenger's altitude imported into a conversation that needed this one. Every live relationship sits somewhere on that axis, and where it sits is a judgment call, and judgment calls about what something costs are precisely what a ledger is for.
+Both poles are real goods, and this chapter is unusual in the book because its reader is fluent in one of them and suspicious of the other. You know both failure states: the warm attendance that changes nothing, and the true thing said in a way that ends the conversation. Every live relationship sits somewhere on that axis, and where it sits is a judgment call, and judgment calls about what something costs are precisely what a ledger is for.
 
 So the shadow hides inside the act. It does not argue against impact; you would notice that. It argues for Care, and Care is half the truth, and it is the half you are good at. *This is not the moment. They are not ready to hear it. Pushing now would cost more than it gains.* Each of those can be correct. Each of them is correct sometimes. You can spend a decade at the Care end of a real polarity and call it discernment, and no single instance looks like an evasion.
 
@@ -695,7 +695,7 @@ The grid again, fifth operation of six. Five moves down, four domains across, tw
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
-The five moves are this chapter, in order. Wake Up is a channel detecting who is in the field and on what terms. Open Up is the move this chapter's daemon exists to prevent: receiving what something costs somebody else without converting it into what it costs you. Clean Up is the destination choice, and every card at that stage is written as a route because that is what the move is: *from* somewhere, *to* somewhere. Grow Up is the only move in the deck that asks about other people by design. Show Up is the relationship you build, and every card there starts with the same verb, because at this altitude showing up means bringing somebody with you. Pick a domain instead and you are choosing the arena. Down is the sequence, across is where it lands.
+The five moves are this chapter, in order. Wake Up is a mode detecting who is in the field and on what terms. Open Up is the move this chapter's daemon exists to prevent: receiving what something costs somebody else without converting it into what it costs you. Clean Up is the destination choice, and every card at that stage is written as a route because that is what the move is: *from* somewhere, *to* somewhere. Grow Up is the only move in the deck that asks about other people by design. Show Up is the relationship you build, and every card there starts with the same verb, because at this altitude showing up means bringing somebody with you. Pick a domain instead and you are choosing the arena. Down is the sequence, across is where it lands.
 
 ### Drawing Against the Shadow
 
@@ -752,7 +752,7 @@ The five stages form the chapter's spine, and you have now met all five: Bridge,
 
 Here is what the Diplomat carries forward into the book:
 
-- The five channels: Bridge-Builder, Translator, Field-Holder, Repairer, Integrative Negotiator
+- The five modes: Bridge-Builder, Translator, Field-Holder, Repairer, Integrative Negotiator
 - The Care ↔ Impact axis, and the knowledge that the drift is one-directional
 - The Victim, the part that keeps an exact ledger, and what it is for once it stops setting the terms of your standing
 - The five game moves: Name the Field, Translate Across Camps, Close with Honest Terms, Repair After Rupture, Refuse False Equivalence

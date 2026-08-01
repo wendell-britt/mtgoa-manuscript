@@ -97,7 +97,7 @@ including her own.*
 *She used to grade her readings. Scored them in a book, against what turned out to be true. She
 stopped in her fourth year here and has described the time since as the first she could hear
 anything at all. I mention it because she will not, and because you are shortly to be taught by
-somebody who spent a decade marking her own homework.*""",
+somebody who spent years marking her own homework.*""",
 4: """*Corin held a verdict open once. One time that I know of, against every instinct they have, for
 the four days it took the evidence to arrive. It changed the outcome and they have never
 mentioned it, and it is the hardest thing I have watched anyone on this staff do.*
@@ -119,7 +119,7 @@ diagram. They have been asking it for thirty years and it is the best question a
 school asks.*
 
 *They ask it of their own diagrams now. Not always in time — twice in one week I watched it
-arrive a day late, both times about somebody I liked — but they ask, which they did not used to,
+arrive a day late, both times about somebody I liked — but they ask, which they did not do before,
 and the asking is all of what changed.*""",
 7: """*Elian makes every student answer three questions before they are allowed into a difficult conversation:
 what you believe, what the other side needs, and what would make staying here dishonest. Students
@@ -378,8 +378,8 @@ term stated plainly is not a negotiation.*""",
 ("The Damaged Self, Up Close", """*I ask every student to draw the system and then name whose face disappeared from the diagram.*
 
 *I drew this school last spring, for an unrelated purpose. The diagram was accurate and complete
-and I was pleased with it. I looked at it again this week and found the omission — and then found
-that Sera had found it in the spring, and Maera the year before that.*
+and I was pleased with it. I looked at it again this week and found the omission — and then learned
+that Sera had seen it in the spring, and Maera the year before that.*
 
 *We have all been drawing the same diagram. None of us put him on it either. That is not an
 oversight anyone can lay at his door.*""",
@@ -395,7 +395,7 @@ when I asked afterwards whether it had been difficult he said the hall had been 
 fine. We are counting on you having noticed.*""",
  "Corin Ash, School of the Line"),
 
-("## Section 6", """*He does not sleep the week before an intake. I have known this for eleven years. I leave food
+("## Section 6", """*He does not sleep the week before an intake. I have known this since he came aboard. I leave food
 where he will walk into it. He thinks the galley is badly organised.*
 
 *He is a good man and this ship is lucky. That is all I have to say about it.*""",
@@ -513,7 +513,7 @@ stated here, and some of them start stating their own.
 
 **3. What it costs.** You will be unwelcome in small ways, more often than you have budgeted
 for, and somebody whose opinion you value will call you difficult where you can hear it.
-Students who wait until they feel ready have suffered as a result!
+Students who wait until they feel ready have suffered as a result.
 
 **4. What we do not teach.** Repair. You will object that a limit without repair is cruelty.
 It is not, it is incomplete, and incomplete is a different problem with a different address.

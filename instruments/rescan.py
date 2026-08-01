@@ -89,6 +89,37 @@ def rank(fid, title, meta):
     return (5, "6 LINE          fix locally")
 
 
+SENTENCE = re.compile(r"(?<=[.!?])\s+|…|\.\.\.")
+
+
+def pieces(q):
+    """A quotation, split into the units that can independently survive an edit.
+
+    CORRECTED 2026-08-01, during the Pass 3 line-editor scan. The original test was
+    `norm(q)[:60] in corpus` — the first sixty characters of the quotation. Sixty
+    characters is roughly a clause, and every defect this repo fixes sits later in the
+    sentence than that, so a fixed line kept reporting LIVE:
+
+      ch1 L2  "…never sees a point of it"  ->  now reads "a penny of it"   reported LIVE
+      ch1 L4  "…how to win and succeed"    ->  the doublet is gone         reported LIVE
+      ch1 L6  "…the same quieter thing"    ->  the banned word is gone     reported LIVE
+      ch6 L1  "the The Emotional Body"     ->  the doubled article is gone reported LIVE
+
+    Four fixed lines sitting in a working list as actionable work. The prefix was not a
+    careless choice — the reports elide long evidence with an ellipsis, and a full-string
+    match fails on every one of those. Splitting the quotation on sentence ends and on the
+    ellipsis itself keeps that working and tests each piece on its own, which is also the
+    honest verdict for a two-sentence quotation whose second sentence was rewritten: not
+    LIVE, not GONE, PARTIAL.
+
+    Measured on the eleven 2026-07-31 reports: 102/31/39 LIVE/PARTIAL/GONE becomes
+    85/48/39. Forty-one verdicts change; none of the changes moves a finding *into* work
+    that was not already there.
+    """
+    out = [p.strip() for p in SENTENCE.split(norm(q)) if len(p.strip()) >= 25]
+    return out or [norm(q)]
+
+
 def norm(s):
     """Compare on words, not on markup.
 
@@ -116,8 +147,10 @@ def main():
             if not quotes:
                 noq += 1
                 continue
-            hits = [q for q in quotes if norm(q)[:60] in norm(C["__ALL__"])]
-            if len(hits) == len(quotes):
+            body = norm(C["__ALL__"])
+            parts = [p for q in quotes for p in pieces(q)]
+            hits = [p for p in parts if p in body]
+            if len(hits) == len(parts):
                 live += 1
                 work.append((rank(fid, title, meta), name, fid, title, meta, "LIVE"))
             elif hits:
