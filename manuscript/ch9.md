@@ -166,7 +166,7 @@ The Elder doesn't start new things. The Elder hands things forward.
 
 The practice: Take what you built and make it pass-onable. Write it down. Name the mistakes. Show the next person where the traps are. The Elder's move hands down an inheritance: not building something new, but making sure the thing you built doesn't depend on you to survive.
 
-The deck starts earning its keep here. You have been handed twenty cards six times in this book: the Shaman's twenty, then the Challenger's, the Regent's, the Architect's, the Diplomat's, the Sage's. A hundred and twenty cards. Five moves crossed against four domains, six operations deep. Nobody built that as a reference table. It works as the practice surface, and you have been holding all of it since Chapter 3.
+The deck starts earning its keep here. You have been handed twenty cards six times in this book: the Shaman's twenty, then the Challenger's, the Regent's, the Architect's, the Diplomat's, the Sage's. A hundred and twenty cards. Five moves crossed against four domains, once for each of the six Faces. Nobody built that as a reference table. It works as the practice surface, and you have been holding all of it since Chapter 3.
 
 The Elder's use of the deck comes second. The first one belongs to you, alone, with nobody watching: draw against the Face you have been performing and find out what you actually do when a card names the thing you have been routing around. Running it for a group becomes possible after that: a session, a team, a family, a class, a vocabulary handed to people who already know how to do the thing and have never been able to name it. That is how the work goes forward without everyone starting from zero. It also keeps the practice from calcifying, because a deck you actually play will keep dealing you the card you did not want.
 
@@ -367,7 +367,7 @@ The iteration is the walk. Every detour that feels like a detour is another stre
 
 Every draft of this book was the walk, not a step toward it. The first draft was the walk. The third rewrite was the walk. The chapter I could not write was the walk. You will plan, then execute, then find the plan was a draft. That shape holds all the way through.
 
-The WAVE already taught you how to do this. Wake up: notice what happened. Open up: let the failure land at full strength before you start explaining it. Clean up: name what didn't work. Grow up: ask what the failure is actually telling you. Show up: do the next version. Then come back: notice what shifted. What you learned.
+The WAVE already taught you how to do this. Wake up: notice what happened. Open up: let the failure land at full strength before you start explaining it. Clean up: name what didn't work. Grow up: ask what the failure is actually telling you. Show up: do the next version. Then you come back, and notice what shifted and what you learned.
 
 ---
 
@@ -381,7 +381,7 @@ Here's what I've noticed about my own fear of building: it rehearses. The fear w
 
 Rehearsing failure and doing the thing feel identical from inside your head. Only one of them produces information. The mind will run the scenario for as long as you let it. It will produce the same anxiety whether you've done nothing or whether the thing has already failed. The rehearsal feels like work. The actual thing runs simpler and scarier. Put it in front of someone and see what happens.
 
-The WAVE doesn't end when you leave the book. The WAVE runs through your actual life. Wake up: notice what's happening inside you when your mother calls, when the group chat erupts, when you read the news and feel it land. Open up: stay with it before you do anything with it. Clean up: name the channel and let it run to completion. Grow up: ask what this moment asks you to become. Show up: act from that place, not from the reactive place the old habit would have sent you to. Then come back: notice what happened, what shifted, what you learned.
+The WAVE doesn't end when you leave the book. The WAVE runs through your actual life. Wake up: notice what's happening inside you when your mother calls, when the group chat erupts, when you read the news and feel it land. Open up: stay with it before you do anything with it. Clean up: name the channel and let it run to completion. Grow up: ask what this moment asks you to become. Show up: act from that place, not from the reactive place the old habit would have sent you to. Then you come back, and notice what happened, what shifted, what you learned.
 
 The WAVE runs through your parenting. Through your partnership. Through your work. Through the group chat and the town hall and the election and the pandemic and whatever comes next. That's what it means to have the WAVE as a practice. It's how you walk through the world. The morning version trains you for the rest of the day.
 
@@ -471,7 +471,7 @@ You are ready to be useful.
 
 ---
 
-*Before you step into the game: a gate scan. Eight gates, eight questions. One of them is live in you right now: the Face that showed up most in your building work. Find it. Capture it.*
+*Before you step into the game: a gate scan. Eight gates, eight questions: the seven daemons, and then you. One of them is live in you right now, the one that took the joystick while you were building. Find it. Capture it.*
 
 *The Protector showed up in your building, and not as the old guardedness. Something specific you've been protecting about what you're building, or from the people who might encounter it. Name what the protection is actually guarding. That's what you have.*
 
@@ -673,7 +673,7 @@ If your six answers came out spread across six different Faces, run the drill ag
 
 Two things exist on the other side of this book. They are not the same size, and they don't ask the same thing of you.
 
-**The deck.** A hundred and twenty BARs: Wake Up, Open Up, Clean Up, Grow Up, Show Up, crossed against gathering resources, raising awareness, direct action, and skillful organizing, run through all six operations, one per Face. You have met every one of them twenty at a time. The private use comes first: draw against the Face you have been performing and see what you do when the card names it. The public use comes after: run it for a group. It is the smaller of the two steps and the only one you can take this week. It costs you nothing except the willingness to sit with a card you would rather have shuffled back.
+**The deck.** A hundred and twenty BARs: Wake Up, Open Up, Clean Up, Grow Up, Show Up, crossed against gathering resources, raising awareness, direct action, and skillful organizing, run once for each of the six Faces. You have met every one of them twenty at a time. The private use comes first: draw against the Face you have been performing and see what you do when the card names it. The public use comes after: run it for a group. It is the smaller of the two steps and the only one you can take this week. It costs you nothing except the willingness to sit with a card you would rather have shuffled back.
 
 **The coaching.** The more expensive of the two, in every sense of the word. If you have a Founder move and you already know it has to be you, working it through with me one-on-one is the fastest path I know. If what you want is the method itself (to run these six Faces for other people, not just for the thing you're building) that is the succession I wrote this book to make possible, and it is the work I most want to hand off. wendell@masteringallyship.com.
 
