@@ -210,7 +210,7 @@ The practice comes down to one thing: Feel what's real. Let it teach you. Become
 
 What you can feel and move sets the ceiling on what you can do for anyone else. Emotional alchemy does not sit beside the work; it powers the work from underneath.
 
-That is the Shaman's superpower. That is what the village lost when the Shaman left.
+That is what the Shaman is for. That is what the village lost when the Shaman left.
 
 ### Polarity Encounter — Feeling ↔ Function
 

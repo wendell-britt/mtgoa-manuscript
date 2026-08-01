@@ -144,7 +144,10 @@ AUTHORS_ONLY = {
     "Faces":      r"\bFaces\b|\bthe Face\b|\bsix Faces\b",
     "BAR":        r"\bBARs?\b",
     "superpower": r"\bsuperpowers?\b",
-    "Shadow":     r"\bShadow\b",
+    # "Shadow" was on this list and came off. Ruled in-world by Wendell 2026-08-01 on
+    # reading ch8's use of it: the Heads may name the disowned material. What they may
+    # not have is the author's word for the reclaimed capacity, which is why
+    # "superpower" stays.
     "WAVE":       r"\bWAVE\b",
     "GameMaster": r"\bGame Master\b",
 }

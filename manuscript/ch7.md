@@ -98,19 +98,7 @@ The Diplomat operates through five modes:
 
 **Integrative Negotiator.** The mode of honest closing. Surfacing stakes, interests, and sacrifices; naming what the agreement must hold for everyone, and closing so the field moves.
 
-### EA Channel Alignment — How Each Mode Moves Energy
 
-The Diplomat's practice works across the full spectrum. Each bridging mode rests on a specific EA signal and its own alchemical arc:
-
-| Mode | EA Signal | Dissatisfaction → Satisfaction |
-|------|-----------|-------------------------------|
-| **Bridge-Builder** | Metal/Fear | Anxiety → Curiosity → **Wonder** (primary) / Stage-Fright → Authentic Presence |
-| **Translator** | Earth/Neutrality | Disagreement → Dialogue → **Peace** |
-| **Field-Holder** | Wood/Joy | Inclusion-performance → Genuine inclusion → **Bliss** |
-| **Repairer** | Water/Sadness | Rupture → Repair (moral equivalence → discerned equivalence) → **Poignance** |
-| **Integrative Negotiator** | Fire/Anger | Accommodation → Honest terms (resentful peace → agreement naming all stakes) → **Triumph** |
-
-Section 4 works each mode's full arc through in its five deep-dives, the dissatisfaction it carries and the alchemy that transmutes it. Calm is not the entry fee. Whatever you feel as you sit down, one of these five works with that feeling rather than around it.
 
 ---
 
@@ -226,6 +214,22 @@ The draw is relational. Not solo. Pick a live field with actual people in it, be
 
 4. Sit 30 seconds. Notice: heaviness (Care stuck) or heat (Impact stuck)
    or ground (integrated).
+
+---
+
+### EA Channel Alignment — How Each Mode Moves Energy
+
+The Diplomat's practice works across the full spectrum. Each bridging mode rests on a specific EA signal and its own alchemical arc:
+
+| Mode | EA Signal | Dissatisfaction → Satisfaction |
+|------|-----------|-------------------------------|
+| **Bridge-Builder** | Metal/Fear | Anxiety → Curiosity → **Wonder** (primary) / Stage-Fright → Authentic Presence |
+| **Translator** | Earth/Neutrality | Disagreement → Dialogue → **Peace** |
+| **Field-Holder** | Wood/Joy | Inclusion-performance → Genuine inclusion → **Bliss** |
+| **Repairer** | Water/Sadness | Rupture → Repair (moral equivalence → discerned equivalence) → **Poignance** |
+| **Integrative Negotiator** | Fire/Anger | Accommodation → Honest terms (resentful peace → agreement naming all stakes) → **Triumph** |
+
+The five deep-dives below work each mode's full arc through: the dissatisfaction it carries, and the alchemy that transmutes it. Calm is not the entry fee. Whatever you feel as you sit down, one of these five works with that feeling rather than around it.
 
 ---
 
