@@ -223,6 +223,10 @@ That structure trains performance. It does not train play.
 
 A game teaches differently. It gives you a map, lets you make a move, shows you what happened, and lets you try again with better information. You do not become capable by memorizing the whole map before touching the joystick. You become capable by learning what it does while something is actually happening.
 
+A game also needs a somewhere. You do not make a move in the abstract. You make it in a place, against people who want something, under rules that hold still long enough for you to test them. So I set the six chapters ahead in one: a school that does not exist, on a ship, where six people teach six different ways of helping and argue with each other about the rest.
+
+The school is somewhere to stand while you practice, and that is the whole of its job. Nobody will quiz you on the plot. A teacher who has to answer for what her method costs will tell you more than a framework that answers to nobody, and the only route I found to letting you argue with a Face was to give it a mouth that argues back.
+
 Chapter 1 put the joystick in your hands. This chapter teaches you how to walk the book.
 
 You are going to meet more language than you can use all at once. That is normal. You will see the daemons more than once: first as a map, then as a walk, then as a move. The repetition is deliberate. It is how the book teaches recognition.
@@ -483,5 +487,11 @@ From here you have two routes:
 
 1. **Straight through (recommended):** continue to Chapter 3 and build the sequence in order. The Shaman trains emotional signal-reading and regulation, the base layer the other faces depend on, and the reason to start there.
 2. **Guide-first:** jump to the chapter of the guide question that hit you hardest, then come back to fill the sequence.
+
+Turn the page and a letter is waiting, from the Headmaster of that school. After it, six chapters, and each opens with a treatise by the person who runs one of the six schools: their method, in their voice, carrying their bias and their quarrel with the other five. It runs as ordinary text until you reach a signature at the close of its third section. That is where a submitted document signs itself. Everything past that signature is me.
+
+The boxed inserts belong to the school as well: an admissions page saying who they take and what it costs, students and citizens on the record about what the teaching did to them, and a margin in a hand that never signs.
+
+Read those pages the way you would read a teacher you have not made up your mind about. Six people each solved one part of this and cannot agree on the rest, and I would rather hand you the argument than the summary.
 
 Either way, the Forest is ahead and your hands are on the joystick. The only move left is through.
