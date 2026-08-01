@@ -42,9 +42,12 @@ EDITS = [
     ("LE-3", "ch2.md",
      "The subject of that sentence is the work.",
      "*This isn't working* is a verdict on the work, not on you."),
+    # LE-4's first replacement inserted "often" and produced a second reading -- "the ones
+    # who do not often push through" -- which is the opposite of the sentence, so the flag
+    # was closed without being fixed. Caught by the Voice Guardian pass, DL-27.
     ("LE-4", "ch2.md",
      "The ones who don't push through instead of going through:",
-     "The ones who don't often push through instead of going through:"),
+     "Of the ones who don't, most push through instead of going through:"),
     ("LE-5", "ch2.md",
      "When the Protector holds the joystick, I walk into a conversation already armored, "
      "braced against something that has not happened, and the person across from me meets "

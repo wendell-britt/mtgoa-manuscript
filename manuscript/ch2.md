@@ -104,7 +104,7 @@ That sadness is information. It tells you what mattered.
 
 Every time we hit the wall, we have a choice: turn back, or go through.
 
-Most people turn back. The ones who don't often push through instead of going through: they override the sensation, run on fumes, and eventually the body stops cooperating. Or they do the inner work in private and never find the way to carry it back to where it's needed. This is the failure mode we're building a way out of.
+Most people turn back. Of the ones who don't, most push through instead of going through: they override the sensation, run on fumes, and eventually the body stops cooperating. Or they do the inner work in private and never find the way to carry it back to where it's needed. This is the failure mode we're building a way out of.
 
 ### What's Different Now
 
