@@ -107,13 +107,25 @@ Provenance, site by site:
 
 **AFTER**
 
-> You don't have to build this book. You have to build your version of what this
-> book is for your specific problem. That's the Player's move.
+> You don't have to write a whole book about it. You have to build your version
+> of what this book is for the specific problem you want to solve for the people
+> you want to help. That's the Player's move.
 
-**This is the sentence that made me argue for keeping the app, and the ruling
-improves it.** It is the chapter's whole teaching move, and pointing it at the
-object in her hands closes the loop `SPEC_CH9_REWRITE_V1` §9 describes: *"ch1 and
-ch9 become the same form, filled and blank."*
+**Wendell's line edit, 2026-08-01, and both halves of it are corrections.** My
+draft read *"You don't have to build this book"* — you do not build a book, you
+write one, and the verb collision made the sentence read as a riddle. And
+*"your specific problem"* was thinner than the book's own definition of a quest.
+
+**The expansion lands the quest.** `ch1:205`: *"Your quest. A cause. The specific
+fight, community, or person you are actually in this for. Name them. **This is
+who your range is for.**"* *The people you want to help* is that field, restated
+in the last section that can still ask for it. A problem with nobody attached is
+the Architect's failure mode, which `ch9:151` already separates from the
+Founder's.
+
+It is the chapter's whole teaching move, and pointing it at the object in her
+hands closes the loop `SPEC_CH9_REWRITE_V1` §9 describes: *"ch1 and ch9 become
+the same form, filled and blank."*
 
 ---
 
@@ -126,6 +138,11 @@ mindfulness app"*, which is generic prose and not this product. Then `gate.py` a
 0 on all four surfaces.
 
 ## What does not change
+
+**One parallel for whoever applies Section 5.** `ch9:442` runs the same
+construction — *"You don't have to build bars-engine. You don't have to start a
+nonprofit."* It falls inside the replaced block, so it needs no separate edit,
+and the replacement should carry Wendell's corrected verb: **write**, not build.
 
 The **coaching** paragraphs at `ch9:155`–`157` stand. They never named the app,
 they are a real offer in the stack, and `ch9:157` supplies the *hand someone the
