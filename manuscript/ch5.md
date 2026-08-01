@@ -339,7 +339,7 @@ This section teaches the Regent's cycle: how to work with your inheritance consc
 
 ### EA Channel Alignment — How Each Mode Moves Energy
 
-The Regent works with loyalty in five modes, each standing somewhere different toward what arrived. The practice spans generations rather than moments. Energy still flows, and each mode grounds in a specific EA signal:
+The Regent works with loyalty in five modes, each standing somewhere different toward what arrived. The Shaman's WAVE runs in minutes. The Regent's practice spans generations. Energy still flows, and each mode grounds in a specific EA signal:
 
 | Mode | Asks | EA Signal | Dissatisfaction → Satisfaction |
 |------|------|-----------|-------------------------------|
@@ -358,22 +358,6 @@ The Regent works with loyalty in five modes, each standing somewhere different t
 **The Reformer** (Fire/Anger): Changing the tradition while honoring the lineage requires the fire of conviction, the willingness to say *this part no longer serves* without becoming the enemy of what came before. Rigidity (holding form because it's old) alchemizes into integrity (holding form because it works). The Reformer loves the tradition enough to change it.
 
 **The Keeper of Vows** (Metal/Fear): Honoring commitment across time, when no one watches, becomes the silent practice. Dogma (the rote performance of loyalty, and what fear does to a vow: hold the form and you cannot lose the thing) alchemizes into faithfulness (the lived commitment). The Keeper does not need to be seen. The Keeper needs to be steady. The Metal channel's discernment becomes the foundation for everything else the Regent builds. Fury at what you inherited does not disqualify you. One of these five carries the inheritance forward on exactly that fire.
-
----
-
-### The Stage Sequence: Inherit → Honor → Steward → Reform → Entrust
-
-The Regent's practice moves through five stages. Unlike the Shaman's WAVE, fast enough to happen in minutes, the Regent's cycle moves at the speed of years.
-
-**Inherit.** You receive what was handed to you. This includes things you would not have chosen. Family patterns. Organizational cultures. Traditions with their wounds attached. The first move acknowledges what arrived, before you change any of it: *I am carrying this. I did not create this. It is mine now.*
-
-**Honor.** You name what in the inheritance still serves. Not everything is broken. Some of what you received is load-bearing: remove it and the whole structure collapses. *This part is medicine. This part was always the wound. I am going to stop blaming the inheritance and start sorting it.*
-
-**Steward.** You carry it and maintain it. This is the longest stage, and the least visible. The practice of showing up, again and again, to do the work the inheritance requires: the meeting that gets run because someone has to run it, the vow kept on a day nobody was watching, the form held steady long enough for the people inside it to trust that it will be there next year. Stewarding costs what it takes to keep something alive while you figure out what it needs. It looks like doing nothing and costs more. *I am not just preserving this. I am tending it.*
-
-**Reform.** You change what no longer serves, while it is still yours to carry. The sequence used to hide this stage inside Steward, and hiding it there is how a Regent spends thirty years tending something they knew in year four had stopped working. Reform is a separate act with a separate cost, and the cost is the thing that makes it separate: stewardship earns you loyalty, and reform spends it. No version of it costs nothing. That is precisely why it gets folded into the tending, where it can be postponed indefinitely as a thing you are already doing. *This part has to change, and I am the one who has to say so, out loud, to people who will hear it as disloyalty.*
-
-**Entrust.** You hand it on, cleanly, to whoever comes next. The hardest stage. The Regent's test asks whether you can let go without abandoning, whether you can pass the tradition forward without clinging to it. *Have I given the next person enough to run with, without crushing them under the weight of what I thought it should be?*
 
 ---
 
@@ -544,7 +528,7 @@ The Regent's game is inheritance and stewardship. The Regent asks, in any situat
 
 ### Move 1: Name the Inheritance
 
-**What it is:** Before you try to change anything, name what arrived. Who held this before you? What did they build? What did they sacrifice? What did they get wrong?
+**What it is:** Before you try to change anything, name what arrived. Who held this before you? What did they build? What did they sacrifice? What did they get wrong? An inheritance arrives as family patterns, as organizational cultures, as traditions with their wounds still attached, and much of it you would not have chosen.
 
 **Why it matters:** The Regent's first move is witnessing. Action comes second.
 
@@ -566,7 +550,7 @@ In practice: Make a list of three things in your current inheritance that you wo
 
 ### Move 3: Reform Without Erasing
 
-**What it is:** The Reformer changes the tradition while honoring the lineage. The key word is *while.* You can reform and honor simultaneously. Ask: what essential thing does this tradition try to do, and does the current form still do it?
+**What it is:** The Reformer changes the tradition while honoring the lineage. The key word is *while.* You can reform and honor simultaneously. Ask: what essential thing does this tradition try to do, and does the current form still do it? Stewardship earns you loyalty. Reform spends it. Reform always costs, which is why it hides inside the tending, where a Regent can spend thirty years on a form they knew in year four had stopped working.
 
 In practice: When you see something that needs to change, ask two questions: (1) What is this trying to do? (2) Is it still doing it? If the answer to (2) is no, change the form but keep the essence. Tell people what you're doing and why: *I'm not discarding this. I'm updating it.*
 
