@@ -86,6 +86,21 @@ have been accidentally duplicated across five chapters before.
 ## EA Standards
 
 Every move in the book:
-**[DISSATISFACTION → SATISFACTION] Transcend [X] — Emotion Name → Alchemical Outcome**
+**Alchemy N — Emotion Name → Alchemical Outcome**
+
+**Rule:** the bracketed production tags — `[DISSATISFACTION → SATISFACTION]`,
+`[TRANSLATE]`, `[CONTROL]` — are deprecated and must not be reintroduced. They
+were never reader-facing. Deprecated 2026-06-03 by `SPEC_WB8_ARTIFACT_SWEEP`,
+stripped from `manuscript/` on 2026-08-01 per
+`specs/SPEC_BRACKET_TAGS_2026-07-29.md`. This line said otherwise for two
+months, which is why they survived: anything generating a move from this file
+reproduced the tag, correctly, because this file still called it canon.
+
+**Rule:** the verb is *Alchemy*, not *Transcend*. That migration completed; the
+word *Transcend* appears nowhere in the body.
+
+**Rule:** *Neutral* is an altitude state that exists inside every channel
+(Dissatisfied / Neutral / Satisfied), never a channel of its own. Write *Neutral
+pattern*, not *Neutral Channel*.
 
 Energy economy (+2/+1/-1) — context for writer only, NOT in book content.
