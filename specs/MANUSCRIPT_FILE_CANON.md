@@ -107,6 +107,17 @@ These describe the book as it was, not as it is. Do not plan from them without c
 
 ## Structural facts that are current
 
+**Every chapter opens `# CHAPTER N: THE FACE — clause`** — ruled 2026-08-01,
+closing §6 of `specs/SPEC_PRINT_READINESS_2026-07-29.md`. Canon had four forms and
+only Chapter 2 carried a plain clause; the ruling gave the other eight one, drafted
+against each chapter's own argument, and kept the italic subtitle underneath.
+Chapter openers in both editions therefore set three lines of display type, in
+descending size: the Face name, the clause, the subtitle.
+
+`instruments/typeset.py` reads the form rather than remembering it, and refuses to
+build a chapter that departs from it, so a retitled chapter fails loudly rather
+than printing under a stale name.
+
 The gate walk is removed from Chapters 4 through 8. Chapters 2 and 9 keep theirs. Chapter 2's daemon roster carries seven, not eight — the Vulnerable Child left with the gate walk.
 
 Every stage sequence is five beats. There are no four-stage models left in the book.

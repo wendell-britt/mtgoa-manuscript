@@ -29,14 +29,17 @@ collapse into one undifferentiated grey, and a postcard from Tull reads exactly
 like an admissions handbook. Each kind becomes a div carrying its own class, and
 the `> ` marks come off so the design owns the indent rather than inheriting it.
 
-**2 · The chapter openers get one form.** Canon opens chapters four ways —
-`Chapter 1 — The Infinite Arcade`, `CHAPTER 2: THE FOREST — Why Allyship Keeps
-Failing (and Where to Start)`, `CHAPTER 7 — THE DIPLOMAT`, and ch9 with no Face
-name. `SPEC_PRINT_READINESS_2026-07-29.md` §6 has carried this as open since
-2026-07-29. Normalising in canon is a prose edit and needs Wendell; normalising in
-the build is typesetting, which is this file's job. DISPLAY holds the result, and
-RAW_HEADING pins the input it was derived from, so a chapter retitled upstream
-fails the check instead of silently keeping a stale display title.
+**2 · The chapter openers are read, not remembered.** Canon settled on one form on
+2026-08-01, closing §6 of `SPEC_PRINT_READINESS_2026-07-29.md`:
+
+    # CHAPTER 3: THE SHAMAN — What to Do With What You Feel
+    ## *Emotional Alchemy as the Foundation of Real Allyship*
+
+Until then this file carried a hand-written display title for each of the nine
+chapters plus a frozen copy of the raw heading each was read off — eighteen
+strings to keep in step with canon by hand. All eighteen are gone. One regex takes
+the number for the label, the name for the title, and the em-dash tail for the
+clause; a chapter that does not match the form is a BLOCKER.
 
 **3 · The rules get read.** 188 of the 251 `---` sit immediately before a heading,
 where the heading already supplies the break and a printed line is noise. 2 open a
@@ -108,53 +111,29 @@ def frame_to_divs(text, tally):
 
 # ------------------------------------------------------------- chapter openers
 
-# The display title for each component, and the raw heading it was read off.
+# Canon opens every chapter the same way as of 2026-08-01 (CA-3, CA-4):
 #
-# Derived by hand from the nine chapter files on 2026-08-01, not generated, because
-# two of the four styles cannot be normalised by rule:
+#     # CHAPTER 3: THE SHAMAN — What to Do With What You Feel
+#     ## *Emotional Alchemy as the Foundation of Real Allyship*
 #
-#   ch2 carries a second subtitle inside its H1 — "THE FOREST — Why Allyship Keeps
-#   Failing (and Where to Start)" — on top of the italic H2 subtitle every chapter
-#   has. No other chapter does this. Setting both reads as a stutter and no rule
-#   can pick which one survives, so the display title is "The Forest" and the tail
-#   is reported as a flag rather than deleted quietly.
+# That closes §6 of `specs/SPEC_PRINT_READINESS_2026-07-29.md`, open since July,
+# and it replaces the table that used to live here — a hand-written display title
+# for each of the nine chapters plus a frozen copy of the raw heading each was read
+# off. Eighteen strings to keep in step with canon by hand, gone.
 #
-#   ch9 has no Face name in its heading. `specs/MANUSCRIPT_FILE_CANON.md` calls it
-#   The Player; the chapter calls itself Creating Your Own Allyship Game, and
-#   MANIFEST.md agrees with the chapter. The chapter's own title wins.
+# **The clause is new and it is not the subtitle.** Every chapter now carries both:
+# a plain clause in the H1, drafted against that chapter's own argument, and the
+# italic subtitle it always had, which `d65ba78` ruled a feature. Three lines of
+# display type on an opening page, and the design has to make them read as a
+# descending hierarchy rather than as the same thing said three times.
 #
-# RAW_HEADING is the guard. It is checked on every run, and a mismatch is a
-# BLOCKER, because a chapter renamed upstream would otherwise keep printing under
-# the name it had in August.
-DISPLAY = {
-    "Chapter 1": "The Infinite Arcade",
-    "Chapter 2": "The Forest",
-    "Chapter 3": "The Shaman",
-    "Chapter 4": "The Challenger",
-    "Chapter 5": "The Regent",
-    "Chapter 6": "The Architect",
-    "Chapter 7": "The Diplomat",
-    "Chapter 8": "The Sage",
-    "Chapter 9": "Creating Your Own Allyship Game",
-}
-
-RAW_HEADING = {
-    "Chapter 1": "# Chapter 1 — The Infinite Arcade",
-    "Chapter 2": "# CHAPTER 2: THE FOREST — Why Allyship Keeps Failing (and Where to Start)",
-    "Chapter 3": "# CHAPTER 3: THE SHAMAN",
-    "Chapter 4": "# CHAPTER 4: THE CHALLENGER",
-    "Chapter 5": "# CHAPTER 5: THE REGENT",
-    "Chapter 6": "# CHAPTER 6: THE ARCHITECT",
-    "Chapter 7": "# CHAPTER 7 — THE DIPLOMAT",
-    "Chapter 8": "# CHAPTER 8: THE SAGE",
-    "Chapter 9": "# CHAPTER 9: CREATING YOUR OWN ALLYSHIP GAME",
-}
-
-# Text dropped from a heading by the normalisation above, and why. Reported every
-# run so it stays a live question rather than becoming invisible.
-DROPPED = {
-    "Chapter 2": "— Why Allyship Keeps Failing (and Where to Start)",
-}
+# Two earlier answers to this were wrong and are worth naming. The first hand-wrote
+# nine display titles. The second cherry-picked `6026b06` off
+# `claude/book-print-readiness-august-ar95mo`, which normalised the form by
+# *deleting* Chapter 2's clause — the exact opposite of the ruling that landed on
+# master hours later, which gave the other eight a clause of their own. A branch
+# that answers a question is not the same as the branch that answered it last.
+CHAPTER_HEADING = re.compile(r"^CHAPTER\s+(\d+):\s+([^—]+?)(?:\s+—\s+(.+))?$")
 
 # The slot id becomes the anchor in both editions and the filename stem in the
 # EPUB, so it is stable and readable rather than generated from the title.
@@ -190,12 +169,22 @@ def split_opener(text, label):
         subtitle = m2.group(1).strip()
         body = body[:m2.start()] + body[m2.end():]
 
-    title = DISPLAY.get(label)
-    if title is None:
+    # A chapter names itself `CHAPTER 3: THE SHAMAN — What to Do With What You
+    # Feel`. The number is the label, which the design sets above the rule; the
+    # name is the title, and comes back mixed-case for the small caps to work on;
+    # the clause is its own line.
+    clause = None
+    m3 = CHAPTER_HEADING.match(raw_title)
+    if m3:
+        title = m3.group(2).strip()
+        if title.isupper():
+            title = title.title()          # the same rule build_book.py's TOC uses
+        clause = (m3.group(3) or "").strip() or None
+    else:
         # Front, back, and appendix components keep their own heading, minus the
         # label the design sets separately: "Appendix F: The Polarity Map".
         title = re.sub(r"^Appendix\s+[A-Z]\s*[—:-]\s*", "", raw_title).strip()
-    return title, subtitle, body.lstrip("\n")
+    return title, clause, subtitle, body.lstrip("\n")
 
 
 def demote_section_subtitles(text, tally):
@@ -354,7 +343,8 @@ def components():
     for kind, label, rel, level in bb.SPINE:
         if rel is None:                                  # the generated contents
             out.append({"kind": "contents", "label": label, "slot": SLOT[label],
-                        "title": "Contents", "subtitle": None, "body": ""})
+                        "title": "Contents", "clause": None, "subtitle": None,
+                        "toctitle": "Contents", "body": ""})
             continue
 
         text = bb.read(rel)
@@ -365,17 +355,19 @@ def components():
                 flags.append(("GAP", label, "missing: %s" % rel))
             continue
 
-        expected = RAW_HEADING.get(label)
-        if expected is not None:
+        # One heading form, enforced rather than remembered. This replaced a frozen
+        # copy of all nine raw headings — which guarded the right thing and cost a
+        # hand edit every time a chapter was retitled. The form is the guard now.
+        if kind == "chapter":
             found = H1.search(text)
-            found = "# " + found.group(1).strip() if found else "(no H1)"
-            if found != expected:
+            found = found.group(1).strip() if found else "(no H1)"
+            if not CHAPTER_HEADING.match(found):
                 flags.append(("BLOCKER", label,
-                              "heading changed upstream — DISPLAY may be stale.\n"
-                              "                   expected %s\n"
-                              "                   found    %s" % (expected, found)))
+                              "heading is not the one canon form.\n"
+                              "                   expected  # CHAPTER N: THE NAME\n"
+                              "                   found     # %s" % found))
 
-        title, subtitle, body = split_opener(text, label)
+        title, clause, subtitle, body = split_opener(text, label)
 
         # The title page's byline is the one piece of body prose that belongs to
         # the page design rather than to the reading. It stays authored content —
@@ -391,15 +383,16 @@ def components():
         body = resolve_rules(body, tally)
         body = re.sub(r"\n{3,}", "\n\n", body).strip() + "\n"
 
+        # `toctitle` is how a contents line reads it: name, colon, clause. The rule
+        # is build_book.py's, reused rather than restated, so the generated
+        # contents in the PDF and the one build_book.py prints cannot disagree.
         out.append({"kind": kind, "label": label,
                     "slot": SLOT.get(label, re.sub(r"[^a-z0-9]+", "-", label.lower())),
-                    "title": title, "subtitle": subtitle, "body": body})
+                    "title": title, "clause": clause, "subtitle": subtitle,
+                    "toctitle": bb.toc_title(
+                        "%s — %s" % (title, clause) if clause else title),
+                    "body": body})
 
-    for label, tail in DROPPED.items():
-        flags.append(("RULING", label,
-                      "heading tail dropped for display: %r\n"
-                      "                   Set it as a second subtitle, fold it into the "
-                      "italic one, or let it go." % tail))
     return out, tally, flags
 
 
@@ -414,7 +407,8 @@ def to_markdown(comps):
     for c in comps:
         head = "# %s {%s}" % (c["title"], attr(
             **{"id": c["slot"], "class": c["kind"], "label": c["label"],
-               "subtitle": c["subtitle"]}))
+               "clause": c["clause"], "subtitle": c["subtitle"],
+               "toctitle": c["toctitle"]}))
         # `class` is not a valid keyword name in the call above; rebuild it here so
         # the attribute reads `.chapter` the way pandoc expects a class to.
         head = head.replace('class="%s"' % c["kind"], ".%s" % c["kind"])
@@ -428,8 +422,9 @@ def main():
     print("%-24s %-9s %-14s %s" % ("component", "kind", "slot", "title"))
     print("-" * 78)
     for c in comps:
-        print("%-24s %-9s %-14s %s%s" % (
+        print("%-24s %-9s %-14s %s%s%s" % (
             c["label"], c["kind"], c["slot"], c["title"],
+            "  :  %s" % c["clause"] if c["clause"] else "",
             "  ·  %s" % c["subtitle"] if c["subtitle"] else ""))
 
     print("-" * 78)

@@ -68,6 +68,12 @@ TEMPLATE = os.path.join(BOOK, "mtgoa.typ")
 FILTER = os.path.join(BOOK, "devices.lua")
 TABLES = os.path.join(BOOK, "tables.lua")
 
+# Committed fonts. One file, 2.8KB, holding 五 and 行 — see fonts/make_subset.py
+# for why it exists and what its licence asks. Loading it by path rather than by
+# installing it is what keeps `ignore_system_fonts` usable: the build sees exactly
+# the Typst embeds plus this, on every machine.
+FONTS = os.path.join(BOOK, "fonts")
+
 # Presets, and the one number `tables.lua` needs that it cannot work out for
 # itself: the usable measure in characters at the table's 9.6pt setting. It sets a
 # column's floor — the width below which a word breaks across lines — so it has to
@@ -103,9 +109,13 @@ FORMAT = "markdown-yaml_metadata_block"
 # the credit to the five-phase system. No embedded Typst font carries CJK. It
 # rendered here only because this container happens to have WenQuanYi installed,
 # which is exactly the accident the whole reproducible-font rule exists to catch.
+# The probe sets the same font stack the interior does, or it would report every
+# character the fallback covers as missing. \u4e94 and \u884c were the finding; they are
+# covered now, and the check has to say so.
 TOFU_PROBE = "\uffff"
 GLYPH_PAGE = ('#set page(width: 40pt, height: 40pt, margin: 6pt)\n'
-              '#set text(font: "Libertinus Serif", size: 18pt)\n')
+              '#set text(font: ("Libertinus Serif", "MTGOA CJK Subset"), '
+              'size: 18pt)\n')
 
 
 def pandoc(args):
@@ -152,7 +162,7 @@ def missing_glyphs(path):
 
     def render(ch):
         return typst.compile((GLYPH_PAGE + ch).encode("utf-8"), format="png",
-                             ppi=60, ignore_system_fonts=True)
+                             ppi=60, font_paths=[FONTS], ignore_system_fonts=True)
 
     text = io.open(path, encoding="utf-8").read()
     counts = {}
@@ -260,7 +270,8 @@ def build(src, trim, check_only, proof, keep_typst):
     # `ignore_system_fonts` is what makes this build the same book everywhere. With
     # system fonts on, the container's WenQuanYi silently supplies the CJK above
     # and the PDF differs from one built on a machine without it.
-    compiler = typst.Compiler(typ, root=ROOT, ignore_system_fonts=True)
+    compiler = typst.Compiler(typ, root=ROOT, font_paths=[FONTS],
+                              ignore_system_fonts=True)
     try:
         _, warnings = compiler.compile_with_warnings(output=pdf)
     except Exception as exc:

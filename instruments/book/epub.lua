@@ -38,11 +38,17 @@ function Header(el)
   end
   head:extend(el.content)
 
+  -- Both decks, in the order the printed page sets them: the plain clause from
+  -- the H1, then the italic subtitle. Neither goes inside the heading, so neither
+  -- reaches the navigation, where they would triple the length of every entry.
   local out = pandoc.List()
   out:insert(pandoc.Header(1, head, pandoc.Attr(id, { kind })))
-  if subtitle and subtitle ~= "" then
-    out:insert(pandoc.Div({ pandoc.Plain({ pandoc.Str(subtitle) }) },
-                          pandoc.Attr("", { "c-subtitle" })))
+  for _, deck in ipairs({ { el.attributes["clause"], "c-clause" },
+                          { subtitle, "c-subtitle" } }) do
+    if deck[1] and deck[1] ~= "" then
+      out:insert(pandoc.Div({ pandoc.Plain({ pandoc.Str(deck[1]) }) },
+                            pandoc.Attr("", { deck[2] })))
+    end
   end
   return out
 end

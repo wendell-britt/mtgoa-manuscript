@@ -10,9 +10,9 @@
 //
 // Trim comes from a preset — see PRESETS immediately below. Margins are mirrored,
 // so `inside` is the binding edge and swaps sides every page. Fonts are the two
-// Typst embeds — no system font is referenced anywhere in this file, which is the
-// whole reason a build on a fresh container produces the same PDF as a build on
-// Wendell's machine.
+// Typst embeds plus a two-glyph subset committed under `fonts/` — no *system*
+// font is referenced anywhere in this file, which is the whole reason a build on
+// a fresh container produces the same PDF as a build on Wendell's machine.
 // ===========================================================================
 
 // --------------------------------------------------------------------- presets
@@ -63,7 +63,14 @@
 #let TRIM-H = PRESET.height
 #let MARGIN = PRESET.margin
 
-#let SERIF = "Libertinus Serif"
+// Libertinus and DejaVu ship inside the Typst binary. The CJK subset does not —
+// it is two glyphs committed under `fonts/`, because Appendix G credits the
+// five-phase system as "wu xing (五行)" and no embedded font carries CJK. Typst
+// draws a box for a glyph it cannot set and says nothing about it, so without
+// this the credit prints as two boxes on any machine that lacks a system CJK
+// font — and prints correctly on any machine that has one, which is worse,
+// because then nobody catches it.
+#let SERIF = ("Libertinus Serif", "MTGOA CJK Subset")
 #let MONO = "DejaVu Sans Mono"
 
 #let BODY-SIZE = PRESET.size
@@ -297,8 +304,8 @@
 
 // ------------------------------------------------------------------- the openers
 
-#let opener(kind: "front", label: "", title: "", subtitle: "", id: "",
-             book: BOOK-TITLE) = {
+#let opener(kind: "front", label: "", title: "", clause: "", subtitle: "",
+             toctitle: "", id: "", book: BOOK-TITLE) = {
   // Dropped before the break, so it lands on the last page of the component that
   // just ended. `is-blank` above reads these; nothing else does.
   [#metadata(id) <mtgoa-tail>]
@@ -313,7 +320,8 @@
     pagebreak(to: "odd", weak: true)
   }
 
-  [#metadata((kind: kind, id: id, label: label, title: title, book: book)) <mtgoa-opener>]
+  [#metadata((kind: kind, id: id, label: label, title: title, book: book,
+              toctitle: if toctitle != "" { toctitle } else { title })) <mtgoa-opener>]
 
   // Everything a display page draws goes inside one block, and the reason is the
   // paragraph after it. `first-line-indent: (all: false)` skips the indent on the
@@ -349,9 +357,17 @@
         v(1.1em)
       }
       text(size: sz(19pt), tracking: 0.06em, smallcaps(title))
+      // Three lines of display type, and the only thing keeping them from reading
+      // as the same sentence three times is that each is smaller and quieter than
+      // the one above it. The clause is the plain-language one, so it stays roman;
+      // the subtitle is the book's own register, so it stays italic.
+      if clause != "" {
+        v(0.9em)
+        block(width: 86%, text(size: sz(12pt), clause))
+      }
       if subtitle != "" {
-        v(1.0em)
-        block(width: 84%, text(size: sz(11pt), style: "italic", subtitle))
+        v(if clause != "" { 0.65em } else { 1.0em })
+        block(width: 84%, text(size: sz(10.5pt), style: "italic", subtitle))
       }
     } else {
       // Front and back matter: same family, quieter. No drop, no rule.
@@ -381,6 +397,10 @@
 // Listing starts after the contents page. Nothing that precedes a table of
 // contents appears in one.
 
+// Wide enough for "Appendix A" at 9pt with its tracking, which is the longest
+// label the contents carries.
+#let LABEL-COL = 5.2em
+
 #let contents-page() = context {
   let self = query(OPENER-MARK).find(o => o.value.id == "contents")
   let start = if self == none { 0 } else { self.location().page() }
@@ -389,6 +409,10 @@
     o.location().page() > start and o.value.id != "contents"))
 
   set par(justify: false, first-line-indent: 0pt, leading: 0.55em)
+  // A contents page is scanned, not read. A word broken across two lines of
+  // an entry — "Without Leav- / ing the Table" — costs more than the ragged
+  // edge it buys.
+  set text(hyphenate: false)
   let last-kind = none
   for o in rows {
     let e = o.value
@@ -396,16 +420,22 @@
     if last-kind != none and e.kind != last-kind { v(0.7em) }
     last-kind = e.kind
 
+    // Three columns, not two, and the reason is the clause. Since every chapter
+    // gained one the titles run long enough to wrap, and with the label in the
+    // same cell the second line started under "Chapter 5" instead of under the
+    // title — so the list had no left edge to read down. Its own column gives it
+    // one, and it lines the front and back matter entries up with the chapter
+    // titles rather than with the labels.
+    //
+    // The folio sits `top` for the same reason: on a two-line entry, `bottom` put
+    // the page number beside the wrapped tail, a line below the entry it belongs to.
     block(width: 100%, above: 0.55em, below: 0em, {
-      grid(columns: (1fr, auto), column-gutter: 0.8em,
-        {
-          if e.label != "" and e.kind in ("chapter", "appendix") {
-            text(size: sz(9pt), tracking: 0.12em, smallcaps(e.label))
-            h(0.6em)
-          }
-          text(size: sz(11pt), e.title)
-        },
-        align(bottom + right, text(size: sz(10pt), if p == none { "" } else { p })),
+      grid(columns: (LABEL-COL, 1fr, auto), column-gutter: 0.55em,
+        if e.label != "" and e.kind in ("chapter", "appendix") {
+          align(top, text(size: sz(9pt), tracking: 0.12em, smallcaps(e.label)))
+        } else { [] },
+        text(size: sz(11pt), e.at("toctitle", default: e.title)),
+        align(top + right, text(size: sz(10pt), if p == none { "" } else { p })),
       )
     })
   }

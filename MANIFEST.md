@@ -59,6 +59,26 @@ python3 instruments/build_epub.py         # -> build/MTGOA_<date>.epub
 Both refuse to ship on a structural failure. What they caught on their first runs
 is in the pipeline README; five items are worth carrying here.
 
+**The three pipeline rulings closed 2026-08-01.**
+
+*The heading form* was settled on master, not here: `6cbdf8d` gave the other eight
+chapters the plain clause Chapter 2 always had, and `ff942d3` taught the contents
+page to set the pair. §6 of `SPEC_PRINT_READINESS_2026-07-29.md` closes with it.
+The pipeline dropped its nine hand-written display titles and reads the form
+instead, reusing `build_book.py`'s own `toc_title` so the generated contents in the
+PDF and the one `build_book.py --toc` prints cannot disagree. **A July branch,
+`claude/book-print-readiness-august-ar95mo` commit `6026b06`, normalised the same
+headings by deleting Chapter 2's clause — the opposite ruling, and superseded.**
+
+*`五行` in Appendix G* now sets from a 2.8KB two-glyph font committed under
+`instruments/book/fonts/`. No font embedded in Typst carries CJK, and Typst draws a
+box for a glyph it cannot set without saying so.
+
+*Chapter 8's five alchemy-move headers* took the two trailing spaces — markdown's
+hard line break — that Chapter 2's five moves and Chapter 4's three steps already
+carried. Whitespace only. The check that found them had reported thirteen sites;
+eight were already correct and were the check's error, not the manuscript's.
+
 **Every table's column widths were dash counts.** In a pandoc pipe table the
 dashes in the delimiter row are a width spec. `ch3:440` reads
 `|---------|---------|-----------------|------------|---|`, so the Five Channels

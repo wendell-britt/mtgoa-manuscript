@@ -37,7 +37,7 @@ p {
 }
 
 h1 + p, h2 + p, h3 + p, h4 + p,
-.c-subtitle + p,
+.c-clause + p, .c-subtitle + p,
 .marginalia + p, .epigraph + p, .handbook + p, .signature + p,
 .postcard + p, .scenebreak + p, .sectionsubtitle + p,
 blockquote + p, table + p, ul + p, ol + p,
@@ -68,12 +68,22 @@ h1 .c-label {
   margin-bottom: 1.2em;
 }
 
+/* Two decks under the title, and the only thing keeping them from reading as one
+ * sentence said twice is that each is smaller and quieter than the one above. */
+.c-clause {
+  text-align: center;
+  font-size: 1.05em;
+  margin: 0.7em 8% 0;
+}
+
 .c-subtitle {
   text-align: center;
   font-style: italic;
   font-size: 0.95em;
-  margin: 0.6em 10% 2em;
+  margin: 0.5em 10% 2em;
 }
+
+.c-clause p, .c-subtitle p { text-indent: 0; text-align: center; }
 
 h2, h3, h4 {
   font-weight: bold;

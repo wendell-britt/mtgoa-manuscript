@@ -48,11 +48,14 @@ function Header(el)
 
   local kind = el.classes[1] or "front"
   local call = string.format(
-    "#opener(kind: %s, label: %s, title: %s, subtitle: %s, id: %s)",
+    "#opener(kind: %s, label: %s, title: %s, clause: %s, subtitle: %s, " ..
+    "toctitle: %s, id: %s)",
     q(kind == "contents" and "front" or kind),
     q(el.attributes["label"]),
     q(stringify(el.content)),
+    q(el.attributes["clause"]),
     q(el.attributes["subtitle"]),
+    q(el.attributes["toctitle"]),
     q(el.identifier))
 
   -- The contents is the one component with no authored body. Its page follows

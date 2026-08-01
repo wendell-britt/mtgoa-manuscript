@@ -15,7 +15,7 @@ block is the state here.
 | §3 — appendices describe the retired book | **A, B, D, E, F, G revised.** Appendix C is an open ruling — see below. |
 | §4 — Five Channels unlettered | **Still open.** `ch3:400` points at it; it has no letter and sits in `drafts/`. Reported UNPLACED every build. |
 | §5 — reference style | **Master's style, not mine.** Master normalised to `Appendix: Title`. Consistent, but no letter, so the contents page cannot be matched against it. Low priority. |
-| §6 — heading styles | **Still four.** Master did not normalise; only ch1 gained the subtitle every other chapter had. |
+| §6 — heading styles | **Closed 2026-08-01 on master.** One form, and every chapter now carries a plain clause as well: `# CHAPTER N: THE FACE — clause`, over the italic subtitle `d65ba78` ruled a feature. `6cbdf8d` drafted the eight new clauses against each chapter's own argument; `ff942d3` taught the contents page to set the pair as `The Shaman: What to Do With What You Feel`. `instruments/typeset.py` reads the form, reuses `build_book.py`'s `toc_title` so the two contents pages cannot disagree, and BLOCKs on a chapter that departs from it — the nine hand-maintained display titles are gone. **Note for anyone reading the July branches:** `claude/book-print-readiness-august-ar95mo` commit `6026b06` also normalised the form, by *deleting* Chapter 2's clause. It is superseded — master went the other way and gave the other eight one. |
 
 **The gate is green as of 2026-07-30.** R9 is closed.
 

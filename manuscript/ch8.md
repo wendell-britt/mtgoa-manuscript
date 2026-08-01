@@ -322,7 +322,7 @@ The Sage's practice runs the full spectrum, and that makes this the last Face be
 
 ---
 
-**Alchemy Move 1: Panoramic Seer**
+**Alchemy Move 1: Panoramic Seer**  
 Blank-field contraction: **Fear** → *Wonder*
 
 Underneath the Panoramic Seer's first failure is the fear that what you see will be smaller than what you hoped. That the field you've opened to holds just a handful of tired people, that the altitude you glimpsed marks a ceiling, that everyone present already decided what they're doing and the seeing only helped you feel above it.
@@ -332,7 +332,7 @@ The fear is real and the blank field is possible. *The contraction is the body r
 The alchemy: you feel the field close down, you name it as a report rather than a prophecy, and you let the contraction sharpen your interest. *What is actually here? Who is actually present, and what are they actually carrying?* The wonder is the field being exactly what it is, and you staying curious about that anyway. Nothing has to turn out bigger than it looked.
 
 ---
-**Alchemy Move 2: Game-Switcher**
+**Alchemy Move 2: Game-Switcher**  
 Altitude-arrogance: **Anger** → *Triumph*
 
 Underneath the Game-Switcher's first failure is the rage at being somewhere that can't hold what you see. The *I can see the whole board and you are playing one square of it and this conversation is beneath my time* that fires the moment you have to go down to where they are.
@@ -342,7 +342,7 @@ The anger is real, and the situation is sometimes exactly that limited. *The jud
 The alchemy: you feel the arrogance rise, you name it (*I am using the altitude to make distance instead of service*) and you let the judgment become the capacity to meet them. *What altitude are they actually at, and what would it mean to go there with them rather than at them?* The triumph is going down and coming back without feeling diminished by the trip. The view from above was the easy half.
 
 ---
-**Alchemy Move 3: Diagnostician**
+**Alchemy Move 3: Diagnostician**  
 Flat sight: **Neutrality** → *Peace*
 
 Underneath the Diagnostician's first failure is flatness. Not sadness about what people can't see, something colder. The pattern shows fully and nothing in you moves about it. *This is a power game. This is harmony stuckness. This is a strategy problem wearing whole-board vocabulary.* All accurate, all delivered from a place with no stake in the outcome.
@@ -352,7 +352,7 @@ Flat sight feels like objectivity and amounts to the Neutral channel stuck. The 
 The alchemy: you notice the flatness, you name it (*I have gone unstaked, and unstaked naming reads as verdict*) and you let the numbness resolve into actual stillness. The two differ enormously. Numbness has nothing underneath it. Stillness has everything underneath it and isn't moving. The peace is what makes precision survivable for the person receiving it: *this is what I see, this is where we are, and I'm staying.*
 
 ---
-**Alchemy Move 4: Liberator**
+**Alchemy Move 4: Liberator**  
 Joy fused to the game: **Joy** → *Bliss*
 
 Underneath the Liberator's first failure is something almost nobody names out loud: the game is fun. Not pleasant, fun. The fight has a rhythm you're good at. The struggle doubles as its own perverse entertainment. Whatever else it costs, a specific kind of aliveness lives there for you, and putting it down means putting that down too.
@@ -362,7 +362,7 @@ This is stuck Joy, and stuck Joy is the hardest of the five to catch, because it
 The alchemy: you notice that the joy has fused to this particular game rather than to playing, and you name it: *I don't want to give this up because giving it up means being someone who doesn't do this anymore.* Then you let the attachment loosen from the object. The game was yours for a time, the time was real, and the ending is not the same as the failure. The game taught you what it had to teach. The bliss is discovering that the aliveness was never the game's property. It was yours, it travels, and the game is allowed to end.
 
 ---
-**Alchemy Move 5: Returner**
+**Alchemy Move 5: Returner**  
 Altitude-loss: **Sadness** → *Poignance*
 
 Underneath the Returner's first failure is the sadness of leaving the view. You've seen the whole map (where everyone stands, why they're stuck, what altitude they're operating from) and now you have to come back to a table that doesn't see it.

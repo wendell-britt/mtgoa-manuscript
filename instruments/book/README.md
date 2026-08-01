@@ -64,10 +64,13 @@ strippable, and unusable in a converter, which sees one grey slab. Each becomes 
 classed div, and the two designs style them apart by measure, rule, and space —
 never by colour, because a third of readers are on e-ink.
 
-**Four chapter heading styles.** `SPEC_PRINT_READINESS_2026-07-29.md` §6 has
-carried this open since July. `typeset.py` normalises for display only, pinned to
-`RAW_HEADING` so a chapter renamed upstream fails the build instead of quietly
-printing under its old name.
+**One chapter heading form, carrying two decks.** `# CHAPTER N: THE FACE — clause`
+over the italic subtitle, ruled on master 2026-08-01, closing §6 of
+`SPEC_PRINT_READINESS_2026-07-29.md`. Before that canon opened chapters four ways
+and `typeset.py` carried a hand-written title per chapter to paper over it. It
+reads the heading now; a chapter that does not match the form is a BLOCKER. Both
+designs set the three lines in descending size so they read as a hierarchy rather
+than as the same thing said three times.
 
 **251 horizontal rules doing two jobs.** 188 sit before a heading, which already
 supplies the break. 2 open a component body with nothing above them to separate —
@@ -104,8 +107,9 @@ Every one of these caught something real on its first run.
   independently, both said yes, and every opening page printed its number twice.
 - **The interior font can set every character** — `build_pdf.py`. Typst emits no
   warning for a missing glyph; it just draws a box. Rendering each character
-  against U+FFFF found `五行` in Appendix G, which sets here only because this
-  container happens to carry a CJK font.
+  against U+FFFF found `五行` in Appendix G, which was setting here only because
+  this container happens to carry a CJK font. Closed 2026-08-01 by committing
+  those two glyphs — see `fonts/make_subset.py`, 2.8KB, and the licence beside it.
 - **The frame survives conversion** — `build_epub.py`. Per device, in against out.
   A frame that fails to convert produces an ebook that opens, reads, and has one
   voice in it instead of two.
@@ -134,21 +138,31 @@ still in the PDF.
 build, which makes every rebuild a different book to a library. No ISBN is
 assigned — that is a decision on record in `MANIFEST.md`, not an oversight.
 
+## Closed 2026-08-01
+
+The pipeline's first three rulings, all landed.
+
+- **The heading form** — settled on master, not here. The pipeline's job was to
+  stop guessing: nine hand-written display titles deleted, the form read instead,
+  and `build_book.py`'s `toc_title` reused so the two contents pages agree.
+  **Worth knowing before you read the July branches:**
+  `claude/book-print-readiness-august-ar95mo` commit `6026b06` normalised the same
+  headings by *deleting* Chapter 2's clause. This pipeline cherry-picked it, and
+  had to back it out hours later — master had ruled the opposite way and given the
+  other eight chapters a clause of their own. A branch that answers a question is
+  not the branch that answered it last.
+- **`五行`.** Two glyphs committed, 2.8KB, in `fonts/`.
+- **Chapter 8's five alchemy moves.** Two trailing spaces each, matching the hard
+  break Chapter 2's moves and Chapter 4's steps already used. Whitespace only. The
+  check had reported thirteen sites; the other eight were already correct, and that
+  was the check's defect rather than the manuscript's.
+
 ## Open, and waiting on Wendell
 
 Run `python3 instruments/typeset.py --flags` for the live list.
 
-- **`五行` in Appendix G** prints as two boxes. Transliterate, or commit a CJK font
-  and widen the stack.
-- **Thirteen joined lines** in ch2, ch4, and ch8, where two authored lines are set
-  as one because markdown folds a single newline into a space. Obsidian renders
-  the break, so the vault does not show what prints. Chapter 8's five are the ones
-  that read wrong. Four of them were being set as *tables* before this pipeline
-  existed — a `---` above a pair of lines is a valid multiline-table rule.
-- **Chapter 2's heading tail**, `— Why Allyship Keeps Failing (and Where to
-  Start)`, dropped for display because ch2 is the only chapter carrying both that
-  and an italic subtitle.
 - **No cover.** `front_matter/cover.jpg` or `.png` is picked up automatically when
   it exists.
-- **Two GAP components**, from `build_book.py`: the Kickstarter backer list and the
-  enrollment page.
+- **Two GAP components**, from `build_book.py`: the Kickstarter backer list, which
+  waits on the export, and the enrollment page, which waits on R1. Both build; both
+  are named loudly every run.
