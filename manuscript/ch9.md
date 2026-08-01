@@ -1,4 +1,4 @@
-# CHAPTER 9: CREATING YOUR OWN ALLYSHIP GAME
+# CHAPTER 9: THE PLAYER
 ## *The Return — From Playing the Game to Designing It*
 
 
@@ -471,7 +471,7 @@ You are ready to be useful.
 
 ---
 
-*Before you step into the game: a gate scan. Eight gates, eight questions. One of them is live in you right now: the Face that showed up most in your building work. Find it. Capture it.*
+*Before you step into the game: a gate scan. Seven daemons and the child at the center: eight gates, eight questions. One of them is live in you right now: the Face that showed up most in your building work. Find it. Capture it.*
 
 *The Protector showed up in your building, and not as the old guardedness. Something specific you've been protecting about what you're building, or from the people who might encounter it. Name what the protection is actually guarding. That's what you have.*
 

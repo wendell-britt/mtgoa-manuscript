@@ -221,7 +221,7 @@ Sera would say the ledger holds it. The ledger holds what a ledger can hold. Iri
 
 I have read all five of them for thirty years and nobody has read me, which I arranged, and which I am now told is a course I never took. I am the oldest first-year at this school. That is a joke and it is also the timetable.
 
-The Sage described here is not the guru on the mountain who has risen above it all. Detachment is a real capacity with real uses; the Sage runs it deliberately, for a purpose and a duration, the way you'd use any other instrument. This describes something else. Call it *committed seeing*: the capacity to take in all the altitudes (Red, Amber, Orange, Green, Teal) and still choose to stand somewhere. To play the game the moment requires without mistaking it for the only game there is. To know when to draw the line and when to step back. To see the whole map and still walk your piece of it.
+The Sage described here is not the guru on the mountain who has risen above it all. Detachment is a real capacity with real uses; the Sage runs it deliberately, for a purpose and a duration, the way you'd use any other instrument. This describes something else. Call it *committed seeing*: the capacity to take in all the altitudes and still choose to stand somewhere. To play the game the moment requires without mistaking it for the only game there is. To know when to draw the line and when to step back. To see the whole map and still walk your piece of it.
 
 The Sage arrives when you've been all the other Faces long enough to see them from the outside. You've felt with the Shaman. You've drawn lines with the Challenger. You've carried forward with the Regent. You've built with the Architect. You've held the field with the Diplomat. At each step, you also watched: *which game am I in, and which one does this moment actually require?*
 
@@ -249,7 +249,7 @@ The Sage's journey runs inward and then back. Corin would call going inward a re
 
 The Sage holds all five at once. Not to judge. To understand. Not to hold above, to hold with. That marks the whole difference between the Sage and the Sage in distortion. The Sage sees so they can serve. The distortion sees so it can be right.
 
-The structural point is that you don't abandon the lower altitudes when you arrive at a higher one. You carry them. The Teal view doesn't mean you've stopped being Red. It means you know when you're Red, you can choose to stay there deliberately, and you can come back. The Sage doesn't leave the Faces behind. The Sage holds them all and knows which one the moment asks for.
+The structural point is that you don't abandon the lower altitudes when you arrive at a higher one. You carry them. The widest view doesn't mean you have stopped being able to stand in a narrow one. It means you know when you are standing there, you can choose to stay deliberately, and you can come back. The Sage doesn't leave the Faces behind. The Sage holds them all and knows which one the moment asks for.
 
 Something arrives once you can see the whole board, and the name for it is evolutionary purpose: the pull of something larger than your own survival. It outruns your team's goals and your organization's mission, and it carries its own direction, as though the work pulled you forward rather than you pushing it. The Sage hears that pull and asks: *which game is this? Is this my game's pull, or something else's?* Sometimes the pull is real. Sometimes it's a beautiful story you've told yourself about why the work matters. The Sage can tell the difference, and the telling takes skill rather than temperament.
 
@@ -259,7 +259,7 @@ The Sage runs two questions at all times, and everything the School of the Horiz
 
 *Which game is this?* is a horizontal question. Power, strategy, harmony, whole-board. It asks what the situation requires right now. Watch what people actually do rather than what they say, and it answers itself.
 
-*Which altitude is this?* is a vertical question. Red, Amber, Orange, Green, Teal. It asks what a person can currently hold: the size of the frame they operate from, a fact about their development and not a fact about their worth.
+*Which altitude is this?* is a vertical question, and its answer-set is the six Faces you have spent this book learning. It asks what a person can currently hold: the size of the frame they operate from, a fact about their development and not a fact about their worth.
 
 Both are real. Both are load-bearing. The game read tells you what to do. The altitude read tells you how to say it. A Sage who only reads games will keep saying accurate things in a register nobody present can receive. A Sage who only reads altitudes will keep making sophisticated assessments of people while the actual situation goes unaddressed.
 
@@ -267,7 +267,7 @@ You may choose one. The failure comes when one answers the other's question.
 
 That collapse has a signature and it runs in one direction far more often than the other: the game read gets converted into an altitude verdict. Somebody is in the power game, therefore they're at Red, therefore this conversation is beneath the frame you brought to it. Each step feels like an inference. The last one is contempt with a diagram attached.
 
-It runs the other way too, less often and just as expensively. You decide the group sits at Green, so you treat every conflict as a Green conflict, and the boundary violation sitting in the middle of the table goes unnamed because your altitude read has already told you what kind of problem this must be.
+It runs the other way too, less often and just as expensively. You decide the group sits at one altitude, so you treat every conflict as that kind of conflict, and the boundary violation sitting in the middle of the table goes unnamed because your altitude read has already told you what kind of problem this must be.
 
 The discipline has no glamour in it: answer each question with its own evidence. What gets played, from behavior. What gets heard, from what has actually landed with these people before. Then act on the first and speak in the language of the second. Somebody in the power game may be a person of enormous developmental range having a bad week, and if your map can't hold that, your map is running you.
 
@@ -335,7 +335,7 @@ The alchemy: you feel the field close down, you name it as a report rather than 
 **Alchemy Move 2: Game-Switcher**
 Altitude-arrogance: **Anger** → *Triumph*
 
-Underneath the Game-Switcher's first failure is the rage at being somewhere that can't hold what you see. The *I am at Teal and you are at Green and this conversation is beneath my time* that fires the moment you have to go down to where they are.
+Underneath the Game-Switcher's first failure is the rage at being somewhere that can't hold what you see. The *I can see the whole board and you are playing one square of it and this conversation is beneath my time* that fires the moment you have to go down to where they are.
 
 The anger is real, and the situation is sometimes exactly that limited. *The judgment is accurate, and it is also the trap: because the moment you stand above them, you cannot be with them, and this practice is always about being with.*
 
@@ -345,7 +345,7 @@ The alchemy: you feel the arrogance rise, you name it (*I am using the altitude 
 **Alchemy Move 3: Diagnostician**
 Flat sight: **Neutrality** → *Peace*
 
-Underneath the Diagnostician's first failure is flatness. Not sadness about what people can't see, something colder. The pattern shows fully and nothing in you moves about it. *This is a Red dynamic. This is Green stuckness. This is an Orange problem wearing Teal vocabulary.* All accurate, all delivered from a place with no stake in the outcome.
+Underneath the Diagnostician's first failure is flatness. Not sadness about what people can't see, something colder. The pattern shows fully and nothing in you moves about it. *This is a power game. This is harmony stuckness. This is a strategy problem wearing whole-board vocabulary.* All accurate, all delivered from a place with no stake in the outcome.
 
 Flat sight feels like objectivity and amounts to the Neutral channel stuck. The tell is that the naming costs you nothing. Real diagnosis has a temperature to it, because you name something that matters to you about people you intend to stay with.
 
@@ -365,7 +365,7 @@ The alchemy: you notice that the joy has fused to this particular game rather th
 **Alchemy Move 5: Returner**
 Altitude-loss: **Sadness** → *Poignance*
 
-Underneath the Returner's first failure is the sadness of leaving the view. You've seen from Teal (the whole map, where everyone stands, why they're stuck, what altitude they're operating from) and now you have to come back to a table that doesn't see it.
+Underneath the Returner's first failure is the sadness of leaving the view. You've seen the whole map (where everyone stands, why they're stuck, what altitude they're operating from) and now you have to come back to a table that doesn't see it.
 
 The sadness is the cost of the gift, and it will feel like weakness every time. The Sage who has gone up can't unsee it, and coming back down means sitting with people while you can see exactly what happens and they can't, and finding a way to say it that doesn't leave them feeling seen-and-judged. That's the work. That's the price.
 

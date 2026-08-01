@@ -4,7 +4,9 @@
 consistency before polish. Not a proofreader, not a rewriter.
 **Scope:** nine chapters, seven shipping appendices, front and back matter — 120,141
 words as `build_book.py` assembles them.
-**Status: DIAGNOSIS ONLY.** Nothing applied.
+**Status: RULED AND APPLIED — Wendell, 2026-08-01.** *"let's make the changes for
+these."* CA-1 to CA-6 applied by `instruments/pass2_apply.py`, 30 edits across five
+files. The application record is §7.
 
 **This is the pass that had never run book-wide.** The July reports carry a continuity
 section per chapter, and `citation_audit.py` mechanised the claims half on 2026-07-31,
@@ -211,3 +213,39 @@ specific, repeatable way.
 5. **CA-6** — eight gates: leave, or add the clause.
 
 *No file changed by this pass.*
+
+---
+
+## 7 · Application record — 2026-08-01
+
+30 edits, five files, applied by `instruments/pass2_apply.py` — exact anchors, every
+one verified present exactly once before anything is written.
+
+| | |
+|---|---|
+| **CA-1** · the ruled cut, applied at last | 7 sites in ch8. `ch8:224` loses the colour list; `ch8:262` gets the answer-set Wendell's ruling named — *"its answer-set is the six Faces you have spent this book learning"*; `ch8:252`, `338`, `348`, `368` and `270` take the chapter's own taught vocabulary instead of a colour — the four games at `ch8:260`, or the whole-board view |
+| **CA-2** · channels → modes | 18 sites in ch7. **The EA channels keep the word** — the Fire channel, the destination channel, *the length of one channel from the fear end of Metal* are untouched, because those are the wu xing five the copyright page names |
+| **CA-3 · CA-4** · titles | `# CHAPTER 1: THE INFINITE ARCADE` · `# CHAPTER 7: THE DIPLOMAT` · `# CHAPTER 9: THE PLAYER` |
+| **CA-5** · the credit | copyright page, above the wu xing paragraph: *"Felt sense, used in Chapters 1, 3, 5, 8 and 9 and in Appendix A, is **Eugene Gendlin's**, from Focusing."* |
+| **CA-6** · the gate count | *"a gate scan. **Seven daemons and the child at the center:** eight gates, eight questions."* |
+
+| check | before | after |
+|---|---|---|
+| altitude colours in `manuscript/` | 7 sites | **0 — none anywhere** |
+| `termdebt.py` Red / Amber / Orange / Green / Teal | Teal used, glossed 114 lines later; three never defined | **all four rows read 0 uses** |
+| `citation_audit.py` | 9 borrowed | **8** — Gendlin closed |
+| `gate.py` four surfaces | 0 | **0 — PASS** |
+| `compile.py --check` | green | **green** |
+| `build_book.py` | 2 gaps | **2 gaps** — DL-16, DL-17, unchanged and not ours |
+
+**Four sites the first run missed, and how they were caught.** Six anchors covered the
+colour scale and fourteen covered the rename; re-running `termdebt.py` afterwards
+reported **`Green`, one use, defined nowhere** at `ch8:270`, and re-reading every
+surviving *channel* in ch7 found three more in the Diplomat's sense. Both are now folded
+into the script. *Measure after applying, not only before* — the first run would have
+left a single undefined colour in a chapter the pass exists to clear.
+
+**Left open, deliberately:** ch2's H1 still carries a trailing clause — `# CHAPTER 2:
+THE FOREST — Why Allyship Keeps Failing (and Where to Start)` — where the other eight
+stop at the Face name and put the rest on the subtitle line. That is a fourth variance
+and a content question rather than a format one, so it is flagged rather than changed.
