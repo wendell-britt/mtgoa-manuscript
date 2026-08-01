@@ -45,17 +45,31 @@ Brief: **`instruments/book/README.md`**.
 pip install -r instruments/requirements.txt
 python3 marginalia/compile.py --apply
 python3 instruments/typeset.py            # the transforms, and what needs a ruling
-python3 instruments/build_pdf.py          # -> build/MTGOA_<date>.pdf
+python3 instruments/build_pdf.py          # -> build/MTGOA_<date>_trade.pdf
+python3 instruments/build_pdf.py --trim=all
 python3 instruments/build_epub.py         # -> build/MTGOA_<date>.epub
 ```
 
 | | |
 |---|---|
-| PDF | **345 pages**, 6×9in trade, mirrored margins, Libertinus Serif 11/16. Roman front matter, arabic from Chapter 1, running heads, every chapter and appendix opening on a recto. |
+| PDF `trade` | **347 pages**, 6×9in, Libertinus Serif 11/16, mirrored margins. Roman front matter, arabic from Chapter 1, running heads, every chapter and appendix opening on a recto. |
+| PDF `workbook` | **355 pages**, 7.5×9.25in — *The Artist's Way* trim. 12/17 type and a 1.35in outside margin as a working rail. `workbook-9` is the same at 9.00in, 363 pages. |
 | EPUB | EPUB 3, **22 documents**, one per component, reflowing. Frame verified device-by-device against the source, `<pre>` count 0. |
 
 Both refuse to ship on a structural failure. What they caught on their first runs
-is in the pipeline README; three items are worth carrying here.
+is in the pipeline README; five items are worth carrying here.
+
+**Every table's column widths were dash counts.** In a pandoc pipe table the
+dashes in the delimiter row are a width spec. `ch3:440` reads
+`|---------|---------|-----------------|------------|---|`, so the Five Channels
+table gave its last column 6% of the measure and set "The Superpower" as
+`The / Su- / per- / power`. Nobody typing a manuscript is writing a width spec, so
+`instruments/book/tables.lua` overrides all ten and sizes by content.
+
+**Eleven lists were setting as run-on paragraphs.** A lead-in with its items
+directly beneath and no blank line between is one paragraph to any converter.
+Obsidian renders the list, so the vault never showed it. Five of the eleven are
+the five channel entries in Appendix C.
 
 **Four passages of Chapter 8 were being set as tables.** A `---` above a pair of
 lines is a valid multiline-table rule in pandoc's markdown, so the Game-Switcher,

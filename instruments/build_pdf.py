@@ -3,10 +3,22 @@
 Render the print interior, and refuse to emit one that would come back wrong from
 the printer.
 
-    python3 instruments/build_pdf.py                # build build/MTGOA_<date>.pdf
-    python3 instruments/build_pdf.py --check        # build, verify, delete
-    python3 instruments/build_pdf.py --proof        # also write proof PNGs
-    python3 instruments/build_pdf.py --keep-typst   # leave the .typ for inspection
+    python3 instruments/build_pdf.py                     # 6x9 trade interior
+    python3 instruments/build_pdf.py --trim=workbook     # 7.5x9.25 workbook
+    python3 instruments/build_pdf.py --trim=all          # every preset, one run
+    python3 instruments/build_pdf.py --check             # build, verify, delete
+    python3 instruments/build_pdf.py --proof             # also write proof PNGs
+    python3 instruments/build_pdf.py --keep-typst        # leave the .typ
+
+## The presets
+
+`trade` is 6x9in, the reading edition. `workbook` is 7.5x9.25in — the trim *The
+Artist's Way* and most workbooks print at — with 12pt type and a 1.35in outside
+margin that is a working rail rather than white space. `workbook-9` is the same
+thing at 9.00in, because retail listings quote 9 and 9.25 interchangeably and it
+is better to be able to test both than to guess. The geometry lives in `PRESETS`
+at the top of `instruments/book/mtgoa.typ`; everything else in that file is a
+multiple of the preset's body size, so one design serves all three.
 
 ## Why Typst
 
@@ -54,6 +66,17 @@ BUILD = os.path.join(ROOT, "build")
 
 TEMPLATE = os.path.join(BOOK, "mtgoa.typ")
 FILTER = os.path.join(BOOK, "devices.lua")
+TABLES = os.path.join(BOOK, "tables.lua")
+
+# Presets, and the one number `tables.lua` needs that it cannot work out for
+# itself: the usable measure in characters at the table's 9.6pt setting. It sets a
+# column's floor — the width below which a word breaks across lines — so it has to
+# track the trim. Keep in step with PRESETS in instruments/book/mtgoa.typ.
+TRIMS = {
+    "trade":       {"measure": 58},
+    "workbook":    {"measure": 68},
+    "workbook-9":  {"measure": 68},
+}
 
 TITLE = "Mastering the Game of Allyship"
 AUTHOR = "Wendell Britt"
@@ -105,7 +128,7 @@ def typeset_source():
     return newest("MTGOA_TYPESET_*.md")
 
 
-def to_typst(src, out):
+def to_typst(src, out, trim):
     try:
         import pypandoc
     except ImportError:
@@ -114,7 +137,10 @@ def to_typst(src, out):
     pypandoc.convert_file(
         src, "typst", format=FORMAT, outputfile=out,
         extra_args=["--wrap=preserve", "--template=%s" % TEMPLATE,
+                    "--lua-filter=%s" % TABLES,
                     "--lua-filter=%s" % FILTER,
+                    "--variable", "preset=%s" % trim,
+                    "--metadata", "table-measure=%d" % TRIMS[trim]["measure"],
                     "--metadata", "title=%s" % TITLE,
                     "--metadata", "author=%s" % AUTHOR])
     return True
@@ -139,13 +165,21 @@ def missing_glyphs(path):
     return {ch: n for ch, n in sorted(counts.items()) if render(ch) == tofu}
 
 
-def verify(report, problems, notes):
+def verify(report, expect_preset, problems, notes):
     """Read the template's record and hold the interior to the three rules."""
     openers = report["openers"]
     pages = report["pages"]
 
     by_id = {o["id"]: o for o in openers}
-    notes.append("%d pages, %d components" % (pages, len(openers)))
+    notes.append("%s, %s trim — %d pages, %d components"
+                 % (report["preset"], report["trim"], pages, len(openers)))
+
+    # The preset name is read by the Typst template out of a pandoc variable, and a
+    # typo in it falls back to trade silently. Comparing what came back against
+    # what was asked for is the only place that would surface.
+    if report["preset"] != expect_preset:
+        problems.append("asked for the %r preset and the document reports %r — "
+                        "the template fell back." % (expect_preset, report["preset"]))
 
     # 1 — every chapter and appendix opens on a recto.
     wrong = [o for o in openers
@@ -198,27 +232,15 @@ def roman(n):
     return out
 
 
-def main():
-    check_only = "--check" in sys.argv
-    proof = "--proof" in sys.argv
-    keep_typst = "--keep-typst" in sys.argv or check_only
-
-    try:
-        import typst
-    except ImportError:
-        sys.stderr.write("typst missing. pip install typst\n")
-        return 1
-
-    src = typeset_source()
-    if src is None:
-        return 1
-    print("source   %s" % os.path.relpath(src, ROOT))
+def build(src, trim, check_only, proof, keep_typst):
+    import typst
 
     stamp = datetime.date.today().isoformat()
-    typ = os.path.join(BUILD, "MTGOA_%s.typ" % stamp)
-    pdf = os.path.join(BUILD, "MTGOA_%s.pdf" % stamp)
+    typ = os.path.join(BUILD, "MTGOA_%s_%s.typ" % (stamp, trim))
+    pdf = os.path.join(BUILD, "MTGOA_%s_%s.pdf" % (stamp, trim))
 
-    if not to_typst(src, typ):
+    print("\n=== %s ===" % trim)
+    if not to_typst(src, typ, trim):
         return 1
     print("typst    %s (%d bytes)" % (os.path.relpath(typ, ROOT), os.path.getsize(typ)))
 
@@ -260,7 +282,7 @@ def main():
 
     report = json.loads(compiler.query("<mtgoa-report>", field="value",
                                        one=True, format="json"))
-    verify(report, problems, notes)
+    verify(report, trim, problems, notes)
 
     print("pdf      %s (%d bytes)" % (os.path.relpath(pdf, ROOT), os.path.getsize(pdf)))
     print("-" * 70)
@@ -277,7 +299,7 @@ def main():
         want = sorted({p for o in report["openers"]
                        for p in (o["page"] - 1, o["page"], o["page"] + 1)
                        if 1 <= p <= report["pages"]})
-        pdir = os.path.join(BUILD, "proof_%s" % stamp)
+        pdir = os.path.join(BUILD, "proof_%s_%s" % (stamp, trim))
         shutil.rmtree(pdir, ignore_errors=True)
         os.makedirs(pdir)
         compiler.compile(output=os.path.join(pdir, "p{p}.png"), format="png", ppi=110)
@@ -310,6 +332,44 @@ def main():
             print("  " + g)
         print("!" * 62)
     return 0
+
+
+def main():
+    check_only = "--check" in sys.argv
+    proof = "--proof" in sys.argv
+    keep_typst = "--keep-typst" in sys.argv or check_only
+
+    trims = ["trade"]
+    for arg in sys.argv[1:]:
+        if not arg.startswith("--trim="):
+            continue
+        want = arg.split("=", 1)[1]
+        if want == "all":
+            trims = list(TRIMS)
+        elif want in TRIMS:
+            trims = [want]
+        else:
+            sys.stderr.write("Unknown trim %r. Known: %s, all\n"
+                             % (want, ", ".join(TRIMS)))
+            return 1
+
+    try:
+        import typst  # noqa: F401
+    except ImportError:
+        sys.stderr.write("typst missing. pip install typst\n")
+        return 1
+
+    # Normalised once and rendered into every trim, so two editions of the same
+    # book cannot be built from two different states of the manuscript.
+    src = typeset_source()
+    if src is None:
+        return 1
+    print("source   %s" % os.path.relpath(src, ROOT))
+
+    rc = 0
+    for trim in trims:
+        rc |= build(src, trim, check_only, proof, keep_typst)
+    return rc
 
 
 if __name__ == "__main__":

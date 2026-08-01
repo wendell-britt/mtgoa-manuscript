@@ -19,7 +19,7 @@ Nothing here edits `manuscript/`. Every transform runs on the assembled copy.
     python3 instruments/typeset.py --write     # emit build/MTGOA_TYPESET_<date>.md
     python3 instruments/typeset.py --flags     # the flags alone, for a ruling pass
 
-## The three transforms
+## The four transforms
 
 **1 · The frame becomes five named devices.** The Calrunia frame is the book's
 signature: each chapter is a document by one character annotated by another. On
@@ -39,10 +39,18 @@ RAW_HEADING pins the input it was derived from, so a chapter retitled upstream
 fails the check instead of silently keeping a stale display title.
 
 **3 · The rules get read.** 188 of the 251 `---` sit immediately before a heading,
-where the heading already supplies the break and a printed line is noise. 63 fall
-mid-prose, where they are the scene break and have to stay visible. Same
-character, two jobs. The first group is dropped and the second becomes a marked
-break the design can set as an ornament.
+where the heading already supplies the break and a printed line is noise. 2 open a
+component with nothing above them to separate. 61 fall mid-prose, where they are
+the scene break and have to stay visible. Same character, three jobs. Only the
+last group survives, as a marked break the design sets as an ornament.
+
+**4 · The lists get their blank line.** Eleven places write a lead-in and then the
+items directly under it, with no blank line between. Markdown wants one, and
+without it the whole thing is a single paragraph — `This might look like: - A deep
+breath - A shift in your thinking`, hyphens running inline like stray dashes.
+Obsidian renders the list, which is why it survived: the vault shows the author
+what the author meant. Five of the eleven are the five channel entries in Appendix
+C, so that entire appendix was setting as run-on prose.
 """
 import re, io, os, sys, glob, datetime, importlib.util
 
@@ -219,6 +227,46 @@ def demote_section_subtitles(text, tally):
     return "\n".join(out)
 
 
+# ------------------------------------------------------------------- the lists
+
+LIST_ITEM = re.compile(r"^\s*([-*+]|\d+\.)\s+\S")
+
+
+def open_lists(text, tally):
+    """Give a list the blank line markdown needs before it will be a list.
+
+    Eleven places in the shipping components write a lead-in and then the items
+    directly under it:
+
+        This might look like:
+        - A deep breath where you actually feel your body relax slightly
+        - A shift in your thinking from "why is this happening?" to ...
+
+    Markdown wants a blank line after the lead-in. Without one the whole thing is
+    a single paragraph, and it sets as `This might look like: - A deep breath
+    where you actually feel your body relax slightly - A shift in your thinking`,
+    with the hyphens running inline like stray dashes.
+
+    Obsidian renders it as a list, which is why it survived: the vault shows the
+    author what the author meant. Five of the eleven are the five channel entries
+    in Appendix C, so the whole of that appendix was setting as run-on prose.
+
+    Same class of thing as the rules — a mechanical gap between what markdown
+    requires and what the file says, resolved by the layer that exists for it, and
+    counted in the report so a new one gets noticed.
+    """
+    lines = text.split("\n")
+    out = []
+    for line in lines:
+        if (out and out[-1].strip() and LIST_ITEM.match(line)
+                and not LIST_ITEM.match(out[-1])
+                and not out[-1].lstrip().startswith(("#", ">", "|", ":::"))):
+            out.append("")
+            tally["list_opened"] = tally.get("list_opened", 0) + 1
+        out.append(line)
+    return "\n".join(out)
+
+
 # ------------------------------------------------------------------- the rules
 
 def resolve_rules(text, tally):
@@ -337,6 +385,7 @@ def components():
 
         joined_lines(body, label, flags)
         body = frame_to_divs(body, tally)
+        body = open_lists(body, tally)
         body = demote_section_subtitles(body, tally)
         body = resolve_rules(body, tally)
         body = re.sub(r"\n{3,}", "\n\n", body).strip() + "\n"
@@ -388,6 +437,9 @@ def main():
         print("  %-16s %3d  -> .%s" % (kind, tally.get(kind, 0), FRAME_CLASS[kind]))
     print("  %-16s %3d  -> .sectionsubtitle" % ("italic H3 subtitle",
                                                 tally.get("sectionsubtitle", 0)))
+    print("lists")
+    print("  %-16s %3d  blank line inserted so the items are a list"
+          % ("run into prose", tally.get("list_opened", 0)))
     print("rules")
     print("  %-16s %3d  dropped — the heading after it is the break"
           % ("before a heading", tally.get("rule_dropped", 0)))

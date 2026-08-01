@@ -8,9 +8,32 @@ pip install pypandoc-binary typst      # or: pip install -r instruments/requirem
 python3 marginalia/compile.py --apply  # the frame is part of both editions
 python3 instruments/build_book.py      # is the book complete?
 python3 instruments/typeset.py         # can it be set? — the transforms and the flags
-python3 instruments/build_pdf.py       # -> build/MTGOA_<date>.pdf   (6x9 interior)
+python3 instruments/build_pdf.py       # -> build/MTGOA_<date>_trade.pdf   (6x9)
+python3 instruments/build_pdf.py --trim=all      # every trim preset
 python3 instruments/build_epub.py      # -> build/MTGOA_<date>.epub
 ```
+
+## The trim presets
+
+| preset | trim | type | outside margin | pages |
+|---|---|---|---|---|
+| `trade` (default) | 6 × 9in | 11/16 | 0.70in | 347 |
+| `workbook` | 7.5 × 9.25in | 12/17 | 1.35in | 355 |
+| `workbook-9` | 7.5 × 9.00in | 12/17 | 1.35in | 363 |
+
+`workbook` is the trim *The Artist's Way* and most workbooks print at, and a
+standard size at both KDP and IngramSpark. It is not the trade page enlarged: 11pt
+across 7.5in is a line nobody wants to track back from, so the type goes up, and
+the outside margin becomes a working rail rather than white space — on a book
+whose method is stopping to do something, the reader needs somewhere to do it.
+
+`workbook-9` exists because retail listings quote 9 and 9.25 interchangeably. Ship
+`workbook` unless a printer says otherwise.
+
+Geometry lives in `PRESETS` at the top of `book/mtgoa.typ`. Everything else in
+that file is a multiple of the preset's body size, so one design serves all three
+and the build verifies that the preset it asked for is the one the document
+reports.
 
 Both builders call `typeset.py --write` themselves, so a stale intermediate cannot
 be shipped by accident. `build/` is gitignored; the artifacts are derived.
@@ -50,6 +73,21 @@ printing under its old name.
 supplies the break. 2 open a component body with nothing above them to separate —
 the residue of the provenance headers `build_book.py` strips. 61 are real scene
 breaks and become a centred ornament.
+
+**Eleven lists that markdown does not read as lists.** A lead-in with the items
+directly under it and no blank line between is one paragraph to any converter, so
+`This might look like:` came out with its four items run inline and the hyphens
+reading as stray dashes. Obsidian renders the list, which is why it survived —
+the vault shows the author what the author meant. Five of the eleven are the five
+channel entries in Appendix C.
+
+**Column widths that are really dash counts.** In a pandoc pipe table the dashes
+in the delimiter row *are* a width spec. `|---------|---------|---------|------------|---|`
+in `manuscript/ch3.md` gave the Five Channels table's last column 6% of the
+measure, and "The Superpower" set as `The / Su- / per- / power`. Every table in the
+book is specified by whatever the author's hyphen key happened to produce, so
+`book/tables.lua` overrides all of them and sizes each column by its content, with
+a floor at the longest word it has to hold.
 
 ## The checks that earn their keep
 

@@ -8,25 +8,71 @@
 // Read `instruments/build_pdf.py` first — it says why Typst and not LaTeX, and
 // it owns the checks that decide whether a rendered PDF is allowed to ship.
 //
-// Trim is 6x9in, the US trade size this book is priced and positioned for.
-// Margins are mirrored, so `inside` is the binding edge and swaps sides every
-// page. Fonts are the two Typst embeds — no system font is referenced anywhere
-// in this file, which is the whole reason a build on a fresh container produces
-// the same PDF as a build on Wendell's machine.
+// Trim comes from a preset — see PRESETS immediately below. Margins are mirrored,
+// so `inside` is the binding edge and swaps sides every page. Fonts are the two
+// Typst embeds — no system font is referenced anywhere in this file, which is the
+// whole reason a build on a fresh container produces the same PDF as a build on
+// Wendell's machine.
 // ===========================================================================
 
-#let TRIM-W = 6in
-#let TRIM-H = 9in
+// --------------------------------------------------------------------- presets
+//
+// One design, three page sizes. Everything below the geometry is written against
+// BODY-SIZE rather than in absolute points, so a preset sets four numbers and the
+// whole interior follows: display type, devices, running head, folio.
+//
+// `inside` runs wider than `outside` because the gutter eats it. Both are sized
+// for perfect binding at this page count; a different binding wants a different
+// inside margin.
+//
+// **trade** — 6x9in, the US trade paperback. The reading edition.
+//
+// **workbook** — 7.5x9.25in, the size *The Artist's Way* and most workbooks are
+// printed at, and a standard trim at both KDP and IngramSpark. Two things change
+// besides the sheet. Type goes up to 12pt, because 11pt across a 7.5in page is a
+// line nobody wants to track back from. And the outside margin goes to 1.35in,
+// which is a working rail: on a book whose whole method is stopping to do
+// something, the reader needs somewhere to do it.
+//
+// **workbook-9** — 7.5x9.00in. The same thing a quarter inch shorter. It is here
+// because the two numbers get quoted interchangeably from retail listings, and
+// which one a printer will accept is worth being able to test rather than guess.
+// 9.25 is the one to ship unless a printer says otherwise.
+#let PRESETS = (
+  trade: (
+    width: 6in, height: 9in,
+    margin: (inside: 0.95in, outside: 0.70in, top: 0.85in, bottom: 0.90in),
+    size: 11pt, lead: 0.62em,
+  ),
+  workbook: (
+    width: 7.5in, height: 9.25in,
+    margin: (inside: 1.00in, outside: 1.35in, top: 0.90in, bottom: 1.00in),
+    size: 12pt, lead: 0.64em,
+  ),
+  "workbook-9": (
+    width: 7.5in, height: 9in,
+    margin: (inside: 1.00in, outside: 1.35in, top: 0.85in, bottom: 0.95in),
+    size: 12pt, lead: 0.64em,
+  ),
+)
 
-// Inside runs wider than outside because the gutter eats it. 0.95in is sized for
-// perfect binding at this page count; a spiral or a thinner book would want less.
-#let MARGIN = (inside: 0.95in, outside: 0.70in, top: 0.85in, bottom: 0.90in)
+#let PRESET-NAME = "$if(preset)$$preset$$else$trade$endif$"
+#let PRESET = PRESETS.at(PRESET-NAME, default: PRESETS.trade)
+
+#let TRIM-W = PRESET.width
+#let TRIM-H = PRESET.height
+#let MARGIN = PRESET.margin
 
 #let SERIF = "Libertinus Serif"
 #let MONO = "DejaVu Sans Mono"
 
-#let BODY-SIZE = 11pt
-#let BODY-LEAD = 0.62em
+#let BODY-SIZE = PRESET.size
+#let BODY-LEAD = PRESET.lead
+
+// Every other size in this file is a multiple of the body size. `sz(19pt)` means
+// "19pt at the trade setting", which is the setting the design was drawn at.
+#let S = BODY-SIZE / 11pt
+#let sz(x) = x * S
 
 // Hairlines only, and no grey text anywhere in the body. Grey type screens to a
 // halftone on a print-on-demand press and comes back muddy at this size.
@@ -138,7 +184,7 @@
   let right-slot = if verso { smallcaps(v.book) } else { f }
 
   block(width: 100%, {
-    set text(size: 9pt, tracking: 0.04em)
+    set text(size: sz(9pt), tracking: 0.04em)
     grid(columns: (auto, 1fr, auto),
       align(left, left-slot), [], align(right, right-slot))
   })
@@ -147,7 +193,7 @@
 #let running-foot() = context {
   let loc = here()
   if page-role(loc) != "foot" { return }
-  align(center, text(size: 9.5pt, folio(loc)))
+  align(center, text(size: sz(9.5pt), folio(loc)))
 }
 
 
@@ -165,7 +211,7 @@
   stroke: (left: HAIR-SOFT),
   breakable: true,
   {
-    set text(size: 9.4pt)
+    set text(size: sz(9.4pt))
     set par(leading: 0.58em, spacing: 0.95em, justify: false, first-line-indent: 0pt)
     body
   },
@@ -177,7 +223,7 @@
   inset: (left: 1.6em, right: 1.6em),
   breakable: true,
   {
-    set text(size: 9.7pt)
+    set text(size: sz(9.7pt))
     set par(leading: 0.60em, spacing: 0.95em, justify: false, first-line-indent: 0pt)
     body
     v(0.9em)
@@ -196,7 +242,7 @@
   radius: 1pt,
   breakable: true,
   {
-    set text(size: 9.7pt)
+    set text(size: sz(9.7pt))
     set par(leading: 0.60em, spacing: 0.95em, justify: true, first-line-indent: 0pt)
     body
   },
@@ -207,7 +253,7 @@
   above: 1.4em, below: 1.8em,
   breakable: false,
   align(right, {
-    set text(size: 9.2pt, tracking: 0.02em)
+    set text(size: sz(9.2pt), tracking: 0.02em)
     set par(leading: 0.55em, spacing: 0.8em, justify: false, first-line-indent: 0pt)
     body
   }),
@@ -224,7 +270,7 @@
   {
     // The card is centred on the page; the writing on it is not.
     set align(left)
-    set text(size: 9.5pt)
+    set text(size: sz(9.5pt))
     set par(leading: 0.60em, spacing: 0.95em, justify: false, first-line-indent: 0pt)
     body
   },
@@ -233,7 +279,7 @@
 #let dev-sectionsubtitle(body) = block(
   width: 100%, above: -0.35em, below: 1.1em,
   {
-    set text(size: 10.2pt)
+    set text(size: sz(10.2pt))
     set par(leading: 0.58em, spacing: 0.8em, justify: false, first-line-indent: 0pt)
     body
   },
@@ -243,7 +289,7 @@
 // between parts; these are scene breaks inside one argument, so they get the
 // conventional mark instead.
 #let scenebreak() = block(width: 100%, above: 1.3em, below: 1.3em,
-  align(center, text(size: 10pt, tracking: 0.7em, "···")))
+  align(center, text(size: sz(10pt), tracking: 0.7em, "···")))
 
 #let horizontalrule = block(width: 100%, above: 1.3em, below: 1.3em,
   align(center, line(length: 22%, stroke: HAIR-SOFT)))
@@ -288,31 +334,31 @@
   v(drop)
   block(width: 100%, above: 0em, below: below, align(center, {
     if id == "half-title" {
-      text(size: 15pt, tracking: 0.14em, smallcaps(title))
+      text(size: sz(15pt), tracking: 0.14em, smallcaps(title))
     } else if id == "title-page" {
-      text(size: 23pt, tracking: 0.03em, title)
+      text(size: sz(23pt), tracking: 0.03em, title)
       if subtitle != "" {
         v(0.9em)
-        block(width: 78%, text(size: 11.5pt, style: "italic", subtitle))
+        block(width: 78%, text(size: sz(11.5pt), style: "italic", subtitle))
       }
     } else if kind == "chapter" or kind == "appendix" {
       if label != "" {
-        text(size: 9.5pt, tracking: 0.22em, smallcaps(label))
+        text(size: sz(9.5pt), tracking: 0.22em, smallcaps(label))
         v(0.85em)
         line(length: 12%, stroke: HAIR)
         v(1.1em)
       }
-      text(size: 19pt, tracking: 0.06em, smallcaps(title))
+      text(size: sz(19pt), tracking: 0.06em, smallcaps(title))
       if subtitle != "" {
         v(1.0em)
-        block(width: 84%, text(size: 11pt, style: "italic", subtitle))
+        block(width: 84%, text(size: sz(11pt), style: "italic", subtitle))
       }
     } else {
       // Front and back matter: same family, quieter. No drop, no rule.
-      text(size: 15pt, tracking: 0.08em, smallcaps(title))
+      text(size: sz(15pt), tracking: 0.08em, smallcaps(title))
       if subtitle != "" {
         v(0.8em)
-        block(width: 84%, text(size: 10.5pt, style: "italic", subtitle))
+        block(width: 84%, text(size: sz(10.5pt), style: "italic", subtitle))
       }
     }
   }))
@@ -354,12 +400,12 @@
       grid(columns: (1fr, auto), column-gutter: 0.8em,
         {
           if e.label != "" and e.kind in ("chapter", "appendix") {
-            text(size: 9pt, tracking: 0.12em, smallcaps(e.label))
+            text(size: sz(9pt), tracking: 0.12em, smallcaps(e.label))
             h(0.6em)
           }
-          text(size: 11pt, e.title)
+          text(size: sz(11pt), e.title)
         },
-        align(bottom + right, text(size: 10pt, if p == none { "" } else { p })),
+        align(bottom + right, text(size: sz(10pt), if p == none { "" } else { p })),
       )
     })
   }
@@ -408,17 +454,17 @@
 #show heading: set block(sticky: true)
 
 #show heading.where(level: 2): it => block(above: 2.0em, below: 0.9em, {
-  set text(size: 12pt, weight: "regular", tracking: 0.05em)
+  set text(size: sz(12pt), weight: "regular", tracking: 0.05em)
   smallcaps(it.body)
 })
 
 #show heading.where(level: 3): it => block(above: 1.5em, below: 0.7em, {
-  set text(size: 11pt, weight: "bold")
+  set text(size: sz(11pt), weight: "bold")
   it.body
 })
 
 #show heading.where(level: 4): it => block(above: 1.2em, below: 0.5em, {
-  set text(size: 11pt, weight: "regular", style: "italic")
+  set text(size: sz(11pt), weight: "regular", style: "italic")
   it.body
 })
 
@@ -427,11 +473,17 @@
 #show figure: set block(breakable: true)
 #show figure.where(kind: table): set figure(gap: 0.9em)
 
-#set table(stroke: none, inset: (x: 0.55em, y: 0.42em))
-#show table: set text(size: 9.6pt)
+#set table(stroke: none, inset: (x: 0.45em, y: 0.42em))
+#show table: set text(size: sz(9.6pt), hyphenate: false)
 // Pandoc centres the whole table, and centring propagates into the cells. These
 // are text columns; they read from the left edge.
 #show table: set align(left)
+// A table cell is a two-inch column, and the body's two defaults are both wrong
+// in one. Justified, a three-word line opens gaps you can put a thumb through.
+// Hyphenated, the column header itself breaks — the Five Channels table was
+// setting "Chan-nel" and "Super-power" over a column wide enough for neither.
+// Ragged and unbroken; `tables.lua` sizes each column so no word has to split.
+#show table: set par(justify: false, leading: 0.55em)
 
 #set list(indent: 0.6em, spacing: BODY-LEAD, marker: [–])
 #set enum(indent: 0.6em, spacing: BODY-LEAD)
@@ -439,13 +491,13 @@
 #show quote.where(block: true): it => block(
   width: 100%, above: 1.3em, below: 1.3em, inset: (left: 1.4em, right: 0.8em),
   {
-    set text(size: 10.2pt)
+    set text(size: sz(10.2pt))
     set par(leading: 0.58em, spacing: 0.9em, first-line-indent: 0pt)
     it.body
   },
 )
 
-#show raw: set text(font: MONO, size: 9pt)
+#show raw: set text(font: MONO, size: sz(9pt))
 
 $body$
 
@@ -456,6 +508,8 @@ $body$
 #context [
   #metadata((
     pages: counter(page).final().first(),
+    preset: PRESET-NAME,
+    trim: str(TRIM-W.inches()) + "x" + str(TRIM-H.inches()) + "in",
     openers: query(<mtgoa-opener>).map(o => (
       id: o.value.id,
       kind: o.value.kind,
