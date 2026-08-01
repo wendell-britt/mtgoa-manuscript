@@ -459,46 +459,33 @@ The difference shows plainly once you look straight at it. Trusting the differen
 
 Before you meet the part that audits your charge, one piece of work belongs here. The conclusion named a few pages back, that the clean no is what oppressors do, does not stay an idea. It gets installed as a figure, and the figure walks around wearing somebody's face.
 
-You met 3-2-1 in Chapter 3; this is the Challenger's application.
-
-The 3-2-1 practice asks a harder question: *Who is the oppressor in your inner world?* Not who hurt you in history. The **figure** your nervous system built to hold everything you aren't allowed to be. The one who draws lines while you stay pleasant. The colleague who said no without apologizing. The public figure you call domineering. The **inner Challenger you disowned.**
+Chapter 3 ran this on a trait. Here it runs on a person, and on one you have negative feelings about, which is where the practice does its heaviest work.
 
 None of this lets real harm off the hook. It reclaims the energy you have spent on a cartoon. Real harm and real accountability stay real: 3-2-1 owns **your** split, not **their** innocence.
 
 The Challenger in distortion controls. The real Challenger protects. 3-2-1 finds which one you're fighting in **them** that's actually **in you.**
 
-Solo, written or spoken. Fifteen to twenty-five minutes. If the charge is trauma-level, pause: the appendix has the full process; this exercise is for **alliance-work projection**, not emergency processing.
+Solo, written or spoken, fifteen to twenty-five minutes.
 
 **Try this now.**
 
-Pick the figure you call "oppressor energy," someone who draws lines, says no, takes space without apologizing. NOT someone you're allied with. The one who provokes the thought: *that's domination.*
+*There is a part of me that doesn't say no because I'm afraid of disappointing people or making them feel uncomfortable.* If that is not your charge, say the one that is.
 
-**1. STEP 3: FACE IT (third person)**  
-Describe them like a journalist. Body, voice, what they do that tightens your jaw. Two short paragraphs. This is the figure on the other side of the door, not the real person.
+That part has an opposite, and your nervous system has already given the opposite a face. Pick them. Someone who draws lines, says no, takes space without apologizing, and who provokes the thought *that's domination.* Not someone you are allied with.
 
-*Example shape:* "He enters already decided. Shoulders back. He names what's wrong without softening it. He doesn't ask if everyone is comfortable. When he says no, people believe him."
+**3 · FACE IT.** Two paragraphs, third person, as much detail as you can hold. How big is the charge, and where does it sit in you?
 
-**2. STEP 2: TALK TO IT (second person)**  
-At least three exchanges. Suggested opens:
+**2 · TALK TO IT.** Greet them, then ask, and let them answer. Three exchanges at minimum.
 
-— *"Why do you get to say no when I can't?"*  
-— *"What are you protecting?"*  
-— *"What would happen if I had your certainty?"*
+— *Why do you get to say no when I can't?*
+— *What are you protecting?*
+— *What would happen to me if I had your certainty?*
 
-Let it answer. Don't polite the dialogue.
+**1 · BE IT.** Speak as *I*, one paragraph, and say what you have to say about showing up as an ally.
 
-*Example exchange:*  
-*"Why do you get to be the one who pushes?"*  
-*"Because if I don't, the meeting ends with everyone exhausted and nothing changed. Because pleasant is how you learned to survive."*
+**RECEIPT.** Sit thirty seconds. Did the charge move? That is fuel returning, available for a clean line rather than an explosion.
 
-**3. STEP 1: OWN IT (first person)**  
-Speak AS the part. One paragraph. No "I notice a part of me."
-
-*Example shape:* "I push because I love what we're building enough to risk being unwelcome. I say no because the line protects the work, and the people in it, from slow death by accommodation."
-
-**4. RECEIPT.** Sit thirty seconds. Did the charge move? Up, down, into clarity? That's fuel returning, available for a clean line, not an explosion.
-
-**:** Capture what landed. `/shadow/321`
+*Two minutes to capture it as a BAR.*
 
 Back to the chapter. You didn't become the villain. You recovered the capacity you split off.
 
