@@ -10,7 +10,7 @@ You crossed the forest. You met the Faces. You know the moves.
 
 This is the game board.
 
-What follows isn't homework and it isn't a recap — the book already taught the framework. These are the reps. Eight **quests**, one for each chapter of the walk, that you run alone. Four **campaigns**, one per domain, that you can run with other people. Each one takes something you learned and turns it into a week (or a session, or a month) of actual practice, with a place to capture what happened.
+What follows isn't homework and it isn't a recap — the book already taught the framework. These are the reps. Eight **quests**, one for each chapter of the walk, and three more indexed on a domain rather than a chapter. All of them you run alone. Four **campaigns**, one per domain, that you can run with other people. Each one takes something you learned and turns it into a week (or a session, or a month) of actual practice, with a place to capture what happened.
 
 Pick the one that's pulling at you. Not the one you should do. The one that's already calling.
 
@@ -125,6 +125,38 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 1. Each week, pick a different domain — Gather Resources, Skillful Organizing, Direct Action, Raise Awareness — and run one rep in it.
 2. Each day, one small move from any daemon. Capture it the same day.
 3. At thirty days, read your BARs back. Which daemon grew? Which domain is calling next? That answer is your next quest.
+
+---
+
+## Two More, for Direct Action
+
+The eight above follow the chapters, and between them they reach three of the four domains. Direct Action is the fourth, and it is the one most people came here for. These two are indexed on the domain instead, so you can run either from wherever you are in the book.
+
+---
+
+### Direct Action Quest — The One That's Yours
+*Daemon: Fixer/Healer · Domain: Direct Action · 7 days*
+
+***The shadow running:*** You lunge at the nearest breakage because lunging feels like helping, and the reach makes the repair yours forever.
+
+***The gift:*** The surgical move inside your actual scope. One cut, in the place where you have standing to cut.
+
+1. Name three problems in a situation you are close to. Cross out the two that are not yours to touch.
+2. Make one clean intervention on the one left. Small enough to finish inside the week.
+3. Capture whether it still needs you a week later. If it does, you treated a symptom, and the condition underneath it is your next quest.
+
+---
+
+### Direct Action Quest — Going First
+*Daemon: Damaged Self · Domain: Direct Action · 7 days*
+
+***The shadow running:*** You wait for somebody with less protection than you to say the costly true one, and you call the waiting politeness.
+
+***The gift:*** You take the first hit on purpose, in the one place where your standing is worth more to somebody else than your comfort is to you.
+
+1. Name one group where you have standing that somebody else there does not. Say where that standing comes from.
+2. This week, say the costly true one first, before the person with less cover has to.
+3. Capture what it cost you and what it saved them. If it cost you nothing, you did not go first.
 
 ---
 

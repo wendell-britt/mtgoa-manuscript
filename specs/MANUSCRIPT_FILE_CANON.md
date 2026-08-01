@@ -110,7 +110,7 @@ Chapter 2 runs the **daemon walk**: sequential, all seven grabbing the joystick 
 
 The word is **daemon** on every surface. *gate* was retired 2026-08-01, measured at three occurrences in ch9 against 45 for *daemon* across eight chapters.
 
-Chapter 2's daemon roster carries seven. The Vulnerable Child is not the eighth daemon; she is the player — at the center of ch2's walk, and leading the eighth question of ch9's scan (ruled 2026-08-01).
+Chapter 2's daemon roster carries seven in the Forest. **The Vulnerable Child is the eighth daemon and the player at once** (ruled 2026-08-01): she sits at the center of ch2's walk and leads the eighth question of ch9's scan, and she runs the same demon/ally rule as the other seven. A daemon side and an ally side apply to her exactly as they do to the Protector. So `Daemon: Vulnerable Child` is a legal label wherever the other seven are legal, including Appendix B's Quest 6 and the Gather Resources campaign.
 
 Every stage sequence is five beats. There are no four-stage models left in the book.
 
