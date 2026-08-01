@@ -92,6 +92,67 @@ and control it.
 bars-engine and the non-profit; the classes take that seat, which is what
 `PRODUCTION_PLAN` intended (*"Classes are terms"*).
 
+## 3b. REVISION — the real offer stack arrived
+
+**Wendell supplied `MTGOA_Backend_Offer_Stack__Dojo_and_Cohort.md`, 2026-08-01.**
+The draft was rebuilt against it. Three doors became four, and the two
+`WENDELL:` slots are closed.
+
+| Offer | Price | Role |
+|---|---:|---|
+| Ebook | $15 | entry — irrelevant here, she already owns the book |
+| Oracle Deck | $22 | practice tool |
+| Allyship Dojo | $99/month | recurring practice container |
+| Cohort | $2,500 | application-based transformation container |
+| 1:1 with Wendell | $150 | one 90-minute call, a bridge while the cohort is dark |
+
+The source document names the book-buyer sequence itself — *"Do not lead with
+another book sale"* — and the draft follows it: deck, Dojo, cohort, 1:1.
+
+**What the offer stack replaced in the draft.** The middle offer had been *"the
+classes,"* my inference from `PRODUCTION_PLAN`'s *"Classes are terms."* The real
+product is the **Allyship Dojo**, monthly, four domain tracks that map onto the
+four domains in Appendix A, running alchemy → trainable skill → Wake Up through
+Show Up → quest. That mapping is better than what I invented, because the reader
+has already met the architecture.
+
+**The Dojo section also takes the source's own positioning formula** — *offer =
+surface desire + sabotaging belief + emotional satisfaction + superpower* — for
+one beat rather than four, since running it on every door would produce exactly
+the patterned rhythm the slop pass exists to catch. The belief is stated as
+*"doing it alone is what proves you were up to it,"* phrased as a claim about the
+practice rather than about the reader, which keeps `gate.py`'s A0 counter at 0.
+
+### Five conflicts this surfaced
+
+1. **Certification is in the book and absent from the offer stack.** The book
+   promises it three times — `ch9:159`, `ch9:192`, `ch9:698` — and
+   `about_the_author.md` says he *"certifies others to run them."* The stack has
+   no certification line; the nearest thing is the cohort producing *"the
+   capacity to become an Allyship Game Master."* **The book cannot promise a
+   product that does not exist.** The draft routes that language into the cohort
+   and stops short of promising a credential. Either certification becomes a real
+   offer or the three ch9 sites need softening. **Wendell's call.**
+2. **Cohort duration is unresolved** — the source says 12 weeks in the operating
+   code and six months in the workshop-series document, and rules explicitly:
+   *"Do not publish either duration as final."* The draft says **"run in a
+   season,"** which is true under both.
+3. **The Dojo may not be live at print.** The source says *"$99/month when
+   available."* A printed page pointing at a closed door is worse than no page.
+   The draft's routing line handles this: *"with what each one costs and what is
+   open right now."*
+4. **Print permanence, and this is why no price appears.** $99/month and $2,500
+   are current operating figures with three open decisions behind them, and a
+   physical book cannot be repriced. Every figure routes to
+   masteringallyship.com. **Recommend keeping it that way even for the $22 deck**
+   — one rule is easier to hold than an exception.
+5. **Naming.** *Allyship Dojo* and *Oracle Deck* appear **nowhere** in the
+   manuscript, and *Dojo* has no in-world gloss. `PRODUCTION_PLAN`'s diegetic
+   instinct is right, and a page that never says the product's real name cannot
+   convert, because the reader will not recognise it on the site. The draft uses
+   the real names and lets the surrounding prose carry the fiction. Worth a
+   deliberate ruling rather than a default.
+
 ## 4. Measurement
 
 Taken while the draft was staged at `back_matter/enrollment.md`, then moved out.
@@ -100,21 +161,22 @@ Taken while the draft was staged at `back_matter/enrollment.md`, then moved out.
   `matter`.
 - **`build_book.py`** — gaps drop from **2 to 1**. Only Kickstarter backers
   (DL-16) remains.
-- **`placeholders.py`** — 2 new `author-slot` hits, which is the rule working.
-  Prices and term length are Wendell's to supply and are not draftable.
-- **`prose_diet.py`** — after three fixes, all six counters under 1.30:
-  be 1.07 · copula 1.11 · waste 1.07 · zombie 0.54 · expletive 1.13 · passive 0.53.
-  First pass read passive **1.56**; three constructions had a hidden doer
-  (*"was written to make possible"* → *"I wrote this book to make possible"*;
-  *"cannot be delivered in a book"* → *"no book can deliver that"*; *"the money
-  is well spent"* → *"the money buys anything"*). The one remaining passive is
-  *"signed up to be practised on"*, lifted from the Headmaster's letter.
-- **612 words.**
+- **`placeholders.py`** — **3 hits, down from 5.** Both `WENDELL:` slots are
+  gone: prices and calendar route to the site rather than into print. The three
+  remaining are the pre-existing ch1/ch7 blockers.
+- **`prose_diet.py`** — every counter under 1.30:
+  be 0.98 · copula 1.23 · waste 1.09 · zombie 0.70 · expletive 0.99 ·
+  **passive 0.00**. The first pass read passive **1.56**; three constructions had
+  a hidden doer (*"was written to make possible"* → *"I wrote this book to make
+  possible"*; *"cannot be delivered in a book"* → *"no book can deliver that"*;
+  *"the money is well spent"* → *"the money buys anything"*).
+- **668 words.**
 
 ## 5. Open
 
-- **`WENDELL:` prices** for all three, and whether the deck ships or pre-orders.
-- **`WENDELL:` the length of a term**, and when the next one opens.
+- **The certification question (conflict 1) is the one that matters** — it is a
+  promise the book makes three times against a product the stack does not list.
+- Ruling on real product names versus in-world names (conflict 5).
 - Placement question: `about_the_author.md` currently calls Wendell *"the builder
   of bars-engine, the app this book routes to."* That line is already on the
   app-removal cut list and sits on the page immediately before this one.
