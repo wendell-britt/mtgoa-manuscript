@@ -840,9 +840,9 @@ When you say the true thing, what you do next decides whether it helps the perso
 
 The Diplomat's close, the Challenger's line, the Regent's stand, the Architect's design: not one of them is worth anything built on a bad read. You are the first face for a reason. Every move the other five make begins here, with someone who can feel what is actually happening and say it where it counts. The Challenger aims the read into a line. The Architect builds structure from it. The Regent keeps what the read found worth keeping. The read comes first, and a read that never leaves the chair stalls the whole game. That is why you start with the Shaman, and why one true sentence, said and not only felt, is the move everything else will stand on.
 
-### The App Layer (the Tell)
+### The Tell
 
-None of the four markers asked why you said it. That question is real. A Shaman who names the unsaid to be seen as the most perceptive person present has run the awareness trap with better production values. It is also the easiest thing in the world to lie to yourself about, in the moment you most want to be seen seeing. So the app holds it. When you log the rep, it asks the one thing the marker didn't:
+None of the four markers asked why you said it. That question is real. A Shaman who names the unsaid to be seen as the most perceptive person present has run the awareness trap with better production values. It is also the easiest thing in the world to lie to yourself about, in the moment you most want to be seen seeing. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer the one thing the marker didn't ask:
 
 - **Direct Action.** Did you say the true thing to change the moment, or to be the one brave enough to have said it?
 - **Raise Awareness.** Did you name what is happening to move the group, or to be seen as the one who sees deepest?
