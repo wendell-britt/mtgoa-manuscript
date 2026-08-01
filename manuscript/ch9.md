@@ -156,7 +156,7 @@ If that describes you, if you have a specific thing you want to build and you kn
 
 Let me say plainly what that means. I built a method. Right now I'm essentially the only one running it in this mode. That's true today. It won't stay true, I wrote this down so the map would live in more hands than mine. You've been holding that map since Chapter 2. The coaching adds a second set of eyes already trained on these six Faces, because you almost always need the Face you've spent years avoiding by performing another, and catching yourself at that alone is the hard part. Someone who already knows the terrain finds it faster than you will by yourself. That's the whole job.
 
-If you want the method itself (to run it for other people, not just for the thing you're building) that's the succession this whole book has been pointing at, and it's the work I most want to hand off. Reach out: wendell@masteringallyship.com. I am looking for people to carry this and eventually get certified to teach it.
+If you want the method itself (to run it for other people, not just for the thing you're building) that's the succession this whole book has been pointing at, and it's the work I most want to hand off. Reach out: wendell@masteringallyship.com. I am looking for people to carry this.
 
 ---
 
@@ -189,7 +189,7 @@ Most people try to skip this mode. It costs something to say *this isn't working
 Each mode also opens a doorway. Depending on which one activates for you, it leads to different ground. The deck runs underneath all five of them: whichever mode runs, the practice stays the same hundred and twenty cards. The mode only changes what you do with what the draw turns up.
 
 - **Cartographer and Designer** → your own ongoing practice. The work is between you and the map.
-- **Founder** → if you have a specific thing to build and you know you need support getting it out, the fastest path is working through it with me, one-on-one. If you want to learn the method itself, deeply enough to run it for others, reach out about certification (wendell@masteringallyship.com). That is the succession this book is for.
+- **Founder** → if you have a specific thing to build and you know you need support getting it out, the fastest path is working through it with me, one-on-one. If you want to learn the method itself, deeply enough to run it for others, say so (wendell@masteringallyship.com). That is the succession this book is for.
 - **Elder** → if what you're called to do is teach, pass on, run workshops, give other people the vocabulary. The deck is what you run the session from. It works without you standing in the middle of it, once you know it well enough to get out of the way.
 - **Outlaw** → if what you see is a structure that needs to be challenged, broken, or rebuilt. That is also allyship work. It is the mode the deck is worst at prompting on its own, so you draw for it on purpose.
 
@@ -691,13 +691,11 @@ If your six answers came out spread across six different Faces, run the drill ag
 
 ## The Village Is Already Playing
 
-Three things exist on the other side of this book. They are not the same size, and they don't ask the same thing of you.
+Two things exist on the other side of this book. They are not the same size, and they don't ask the same thing of you.
 
-**The deck.** A hundred and twenty BARs: Wake Up, Open Up, Clean Up, Grow Up, Show Up, crossed against gathering resources, raising awareness, direct action, and skillful organizing, run through all six operations, one per Face. You have met every one of them twenty at a time. The private use comes first: draw against the Face you have been performing and see what you do when the card names it. The public use comes after: run it for a group. It is the smallest of the three steps and the only one you can take this week. It costs you nothing except the willingness to sit with a card you would rather have shuffled back.
+**The deck.** A hundred and twenty BARs: Wake Up, Open Up, Clean Up, Grow Up, Show Up, crossed against gathering resources, raising awareness, direct action, and skillful organizing, run through all six operations, one per Face. You have met every one of them twenty at a time. The private use comes first: draw against the Face you have been performing and see what you do when the card names it. The public use comes after: run it for a group. It is the smaller of the two steps and the only one you can take this week. It costs you nothing except the willingness to sit with a card you would rather have shuffled back.
 
-**Bars-engine, and the non-profit that holds it.** The live game. Campaigns, quests, allyship programs, other players already mid-move. This is where the practice stops being something you do alone with a deck and starts having other people's outcomes attached to it. It was running before you finished this book. It does not need your admiration. It needs whatever you cut the field down to in Section 6.
-
-**The coaching, and the certification behind it.** The most expensive of the three, in every sense of the word. If you have a Founder move and you already know it has to be you, working it through with me one-on-one is the fastest path I know. If what you want is the method itself (to run these six Faces for other people, not just for the thing you're building) that is the succession this whole book was written to make possible, and it is the work I most want to hand off. wendell@masteringallyship.com.
+**The coaching.** The more expensive of the two, in every sense of the word. If you have a Founder move and you already know it has to be you, working it through with me one-on-one is the fastest path I know. If what you want is the method itself (to run these six Faces for other people, not just for the thing you're building) that is the succession I wrote this book to make possible, and it is the work I most want to hand off. wendell@masteringallyship.com.
 
 Start with the deck. It is the one that begins the moment you open the box.
 
