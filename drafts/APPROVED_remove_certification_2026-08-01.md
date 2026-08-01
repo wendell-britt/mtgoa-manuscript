@@ -129,3 +129,45 @@ cards *oracle cards* where Wendell's ruling of 2026-08-01 makes the official ter
 **the Allyship Deck**. The manuscript itself is already consistent — every one of
 its fifteen references says *the deck* and none says *oracle*. **Wendell's call**,
 filed with the enrollment spec.
+
+---
+
+# ADDENDUM — the Oracle section, cut
+
+**Ruled by Wendell 2026-08-01:** *"fix the oracle cards line in
+ON_THE_SHOULDERS_OF. We gotta get rid of those. The book no longer has hexagrams
+in it."*
+
+**It was not a line. It was the whole section, and the measurement is why.**
+
+`grep -rni "hexagram|trigram|i ching|wilhelm|baynes|book of changes|oracle"`
+across every shipping surface returned **two hits, both inside `## The
+Oracle`.** The book contains no hexagrams, no trigrams, no I Ching, and no
+oracle cards. The section credits a source the book does not use, and says so in
+its own first clause: *"which live in the companion deck and the app rather than
+in these pages."*
+
+A credits appendix crediting material that is not in the book is the defect. Cut
+in full, 771 characters, `## The Oracle` heading and its single paragraph.
+
+**Nothing breaks.** The only cross-reference was internal — *"As with the five
+channels"* — and `## The Five Channels` at line 20 stands on its own. Nothing
+else in the manuscript, front matter, back matter or the other six shipping
+appendices refers to the Oracle section. Verified by grep after the cut: **0
+hits**. `gate.py` passes on all four surfaces.
+
+`APPENDIX_C_KEY_TERMS.md` still defines *Oracle Card*, *Hexagram*,
+*Double-Trigram Card* and *Trigram*, and does not ship — retired under DL-8. Left
+alone.
+
+## The one thing this does not settle
+
+**Dropping a credit from the book does not end the obligation; it moves it.** If
+the Allyship Deck still opens its cards with Image text from the I Ching, that
+text is from the Richard Wilhelm translation rendered by Cary F. Baynes,
+published by Princeton University Press in the Bollingen Series — **a translation
+in copyright, not a public-domain source.** The credit and any permission belong
+with the deck.
+
+Recording it because a quiet deletion is how an attribution obligation gets lost.
+Nothing here needs doing to the book.
