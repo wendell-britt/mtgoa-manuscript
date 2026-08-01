@@ -106,7 +106,7 @@ These describe the book as it was, not as it is. Do not plan from them without c
 
 ## Structural facts that are current
 
-The gate walk is removed from Chapters 4 through 8. Chapters 2 and 9 keep theirs. Chapter 2's daemon roster carries seven, not eight — the Vulnerable Child left with the gate walk.
+The daemon walk is removed from Chapters 4 through 8. Chapters 2 and 9 keep theirs. The word is **daemon** on every surface: *gate* was retired 2026-08-01, when it was measured at three occurrences in ch9 against 45 for *daemon* across eight chapters. Chapter 2's daemon roster carries seven, not eight — the Vulnerable Child left with the gate walk.
 
 Every stage sequence is five beats. There are no four-stage models left in the book.
 

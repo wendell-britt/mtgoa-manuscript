@@ -285,7 +285,7 @@ You now know the WAVE. Wake up. Open up. Clean up. Grow up. Show up. Then you co
 
 You know that the return is not optional, that coming back makes the work real. That carrying what you found back to the village is the whole point.
 
-You know that the five emotional channels do more than name things: they map the territory this book has been walking you into. Fear, anger, sadness, joy, neutrality: each one a gate you can walk through instead of a threat to manage.
+You know that the five emotional channels do more than name things: they map the territory this book has been walking you into. Fear, anger, sadness, joy, neutrality: each one a door you can walk through instead of a threat to manage.
 
 ---
 
@@ -293,7 +293,7 @@ You know that the five emotional channels do more than name things: they map the
 
 The map is honest about the terrain. It is not honest about the weather.
 
-The map shows you where the gates stand. It does not show you how long it takes to walk through them. It does not show you what it feels like the third time you arrive at the same gate and discover it was still on duty. It does not show you the morning you wake up and realize you've been walking for months and you're not done and you can't remember why you started.
+The map shows you where the daemons stand. It does not show you how long it takes to befriend them. It does not show you what it feels like to meet the same daemon the third time and discover it was still on duty. It does not show you the morning you wake up and realize you've been walking for months and you're not done and you can't remember why you started.
 
 The map does not show you what failure looks like. Real failure: the kind where someone looks at what you built and says *this isn't for me.* The kind where you present the thing you made with love and care and the village says *we don't want this.* The kind where the mechanic you designed to solve a problem creates a different problem you didn't anticipate. The map shows the path. The map doesn't show the rain.
 
@@ -471,7 +471,7 @@ You are ready to be useful.
 
 ---
 
-*Before you step into the game: a gate scan. Eight gates, eight questions: the seven daemons, and then you. One of them is live in you right now, the one that took the joystick while you were building. Find it. Capture it.*
+*Before you step into the game: a daemon scan. Eight questions: the seven daemons, and then you. One of them is live in you right now, the one that took the joystick while you were building. Find it. Capture it.*
 
 *The Protector showed up in your building, and not as the old guardedness. Something specific you've been protecting about what you're building, or from the people who might encounter it. Name what the protection is actually guarding. That's what you have.*
 

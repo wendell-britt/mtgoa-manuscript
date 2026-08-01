@@ -1,6 +1,6 @@
 # Appendix A: The Four Allyship Domains
 **Status:** Expanded draft — depth pass complete 2026-05-29
-**Authority:** Integral design spec 2026-05-21; gate-domain affinity table confirmed with Wendell 2026-05-21; depth pass 2026-05-29
+**Authority:** Integral design spec 2026-05-21; daemon-domain affinity table confirmed with Wendell 2026-05-21; depth pass 2026-05-29
 **Location in book:** After Chapter 9; before Appendix B. First appendix.
 
 ---
@@ -143,20 +143,20 @@ The reverse collapse: confusing Raise Awareness with Direct Action — treating 
 
 ---
 
-## Gate-Domain Affinity Table
+## Daemon-Domain Affinity Table
 
-*Affinities are starting defaults, not rules. Any gate can serve any domain.*
+*Affinities are starting defaults, not rules. Any daemon can serve any domain.*
 
-| Domain | Primary Gates |
+| Domain | Primary Daemons |
 |--------|---------------|
 | Gather Resources | Emotional Body · Vulnerable Child |
 | Skillful Organizing | Protector · Controller |
 | Direct Action | Fixer/Healer · Damaged Self |
 | Raise Awareness | Victim · Skeptic |
 
-Pattern: 2-2-2-2. The system is balanced. No domain is under-resourced by gate.
+Pattern: 2-2-2-2. The system is balanced. No domain is under-resourced by daemon.
 
-The affinities reflect gate function, not arbitrary assignment: Emotional Body locates what's depleted before any resource can be moved; Vulnerable Child restores what's been spent. Protector names the conditions a group needs to function; Controller routes coordination across the system. the Fixer/Healer takes the direct surgical move on the specific broken thing; Damaged Self absorbs the cost of showing up on purpose. Victim carries the story from felt experience; Skeptic asks the question that makes the invisible visible.
+The affinities reflect daemon function, not arbitrary assignment: Emotional Body locates what's depleted before any resource can be moved; Vulnerable Child restores what's been spent. Protector names the conditions a group needs to function; Controller routes coordination across the system. the Fixer/Healer takes the direct surgical move on the specific broken thing; Damaged Self absorbs the cost of showing up on purpose. Victim carries the story from felt experience; Skeptic asks the question that makes the invisible visible.
 
 ---
 
