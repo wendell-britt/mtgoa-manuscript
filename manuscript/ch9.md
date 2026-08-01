@@ -297,7 +297,7 @@ The map shows you where the gates stand. It does not show you how long it takes 
 
 The map does not show you what failure looks like. Real failure: the kind where someone looks at what you built and says *this isn't for me.* The kind where you present the thing you made with love and care and the village says *we don't want this.* The kind where the mechanic you designed to solve a problem creates a different problem you didn't anticipate. The map shows the path. The map doesn't show the rain.
 
-The map also doesn't show you what success looks like from the inside. The moment when someone plays bars-engine and something opens in them that you didn't know was closed. The moment when a player names a feeling they've never been able to name before and you realize the game did that. The moment when the thing you built does exactly what you designed it to do and you feel nothing, because you're already thinking about the next version.
+The map also doesn't show you what success looks like from the inside. The moment when a player names a feeling they've never been able to name before and you realize the game did that. The moment when the thing you built does exactly what you designed it to do and you feel nothing, because you're already thinking about the next version.
 
 The map doesn't show you that the walk takes as long as it takes. That you will not finish the map. That the point is not to finish.
 
