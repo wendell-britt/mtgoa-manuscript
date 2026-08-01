@@ -150,7 +150,7 @@ The practice: Name it. Give it a name specific to you, specific to your village,
 
 The Founder and the Architect do different work. The Architect designs systems for others to use. The Founder uses all six Faces to build a specific practice of their own. The Founder says, at the end of it: *I've been through all of this. Here's what I made with it.*
 
-Bars-engine is my Founder move. I built the thing I needed and couldn't find: an actual game system that lets people practice the WAVE, that makes the emotional alchemy mechanical, that gives the six Faces a practice context instead of just a conceptual one. I didn't design it as a product. I designed it because I could see the gap and I couldn't stop seeing it. When you're in Founder and you see something that needs to exist and nobody else has built it, you build it yourself or it stays missing.
+This book is my Founder move. I built the thing I needed and couldn't find: a practice you could actually run, that makes the emotional alchemy mechanical, that gives the six Faces a context instead of a vocabulary. I didn't design it as a product. I designed it because I could see the gap and I couldn't stop seeing it. When you're in Founder and you see something that needs to exist and nobody else has built it, you build it yourself or it stays missing.
 
 If that describes you, if you have a specific thing you want to build and you know it has to be you, the fastest path I know runs through working on it with me, one-on-one. That's the coaching. It's what I do.
 
@@ -607,9 +607,9 @@ The practice is the loop, and the list is only what the loop leaves behind. Runn
 
 ---
 
-Bars-engine has cost me all five of these. *Cut the field*: it is not about allyship in general; it is about the gap between people who understand the theory and people who can run it when something lands hard. *Put it in front of one person*: it went in front of players before it was good, and the sessions that failed are the reason the current version works. *Take the note that costs you the design*: the token economy did not get adjusted, it got rebuilt, three times, because each time the note was structural. *Run it again with one thing changed*: every failed session became the next session with something named and different in it. *Hand someone the pen*: the goal is for bars-engine to outlive its founder, which means whoever runs it later gets to change it, not just operate it.
+This book has cost me all five of these. *Cut the field*: it is not about allyship in general; it is about the gap between people who understand the theory and people who can run it when something lands hard. *Put it in front of one person*: the course went in front of hundreds of people before it was good, and the ones who did not finish are the reason this exists. *Take the note that costs you the design*: a stack of chapters written at the applause counter did not get revised, they got thrown out. *Run it again with one thing changed*: every version that failed became the next one with something named and different in it. *Hand someone the pen*: the point is for this to live in more hands than mine, which means whoever runs it later gets to change it, not just repeat it.
 
-You don't have to build bars-engine. You have to build your version of what bars-engine is for your specific problem. That's the Player's move.
+You don't have to write a whole book about it. You have to build your version of what this book is for the specific problem you want to solve for the people you want to help. That's the Player's move.
 
 ---
 
