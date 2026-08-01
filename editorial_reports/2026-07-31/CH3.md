@@ -206,7 +206,7 @@ what follows it as "the Controller."
 - **Disposition:** fix locally
 - **What would disprove this:** "the third stage" referring to Clean rather than Grow — impossible, since the sentence describes what Grow does.
 
-### [C2] The tool table sends the Polarity Map to Chapter 5; the chapter's two other pointers send it to Chapter 4
+### [C2] **FIXED 2026-08-01** ~~The tool table sends the Polarity Map to Chapter 5; the chapter's two other pointers send it to Chapter 4~~ — the tool table reads "Polarity Map (Chapter 4 to Chapter 7)" and ch3:627 reads "First draw: Chapter 4. First field practice: Chapter 7." All three pointers agree.
 - **Location:** ch3:557 (body), against ch3:589 and ch3:879 (body)
 - **Evidence:** ch3:557 — "| Stuck between two *rights* | Polarity Map (Chapter 5 → Chapter 7) |". ch3:879 — "the Polarity Map is here by name as well, first drawn in Chapter 4".
 - **Reader problem:** Three statements, two answers, 322 lines apart, about where to go next. Verified against canon: `ch4:145` carries "Polarity Encounter — Force ↔ Restraint" and `ch4:159` says "You met the Polarity Map at the School of the Body. Here is the Challenger's pair." The first draw is Chapter 4; the table is wrong. `ch5:206` also carries one, which is presumably where the "Chapter 5" came from.

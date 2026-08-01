@@ -213,7 +213,7 @@ ch6, ch7 and ch8; only ch3 and ch4 bind. Neither is a ch7 finding.
 - **Disposition:** structural decision — this is 30+ instances and a section title (ch7:188), and it interacts with the unapplied `Neutral Channel` ruling in `specs/PANEL_NEUTRAL_CHANNEL_2026-07-29.md`. Do not fix piecemeal.
 - **What would disprove this:** a ruling on record that *channel* is deliberately polysemous at the Diplomat's altitude. Nothing in `specs/` says so, and ch4/ch6/ch8's shared sentence is evidence of the opposite intent.
 
-### [C2] "The shortest in the book" is contradicted by the sentence in front of it
+### [C2] **FIXED 2026-08-01** ~~"The shortest in the book" is contradicted by the sentence in front of it~~ — the phrase does not appear anywhere in manuscript/.
 - **Location:** ch7:674 (body)
 - **Evidence:** "Five moves, one card, ninety seconds. **The Diplomat's version is the shortest in the book** and the one most likely to get interrupted by a balance."
 - **Reader problem:** Four other chapters state the identical duration for the identical exercise: ch3:852 "about ninety seconds", ch4:704 "ninety seconds", ch6:514 "ninety seconds", ch8:647 "ninety seconds". Only ch5:559 differs, and it is explicitly *longer* ("give it the length of a walk rather than ninety seconds"). So ch7's version is tied with four chapters and shorter than one — it is not the shortest, and the number disproving the claim is nine words earlier in the same line. This is exactly the kind of small falsifiable boast that costs a sceptical reader her trust in the larger claims.

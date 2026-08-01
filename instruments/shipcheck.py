@@ -123,7 +123,13 @@ def claim_errors():
     if not blk:
         return 0
     rows = re.findall(r"^  CH\d+\s+\S+\s+(LIVE|PARTIAL)\s+(.*)$", blk.group(0), re.M)
-    return sum(1 for _, text in rows if "WITHDRAWN" not in text.upper())
+    # Two ways a finding stops counting, and they mean different things. WITHDRAWN: it was
+    # never an error. FIXED: it was, and the prose now says otherwise. Before FIXED existed
+    # (added 2026-08-01) ten repaired findings still counted, because rescan checks whether a
+    # finding's quote survives, not whether its claim is still true, and only a reader can
+    # close that gap. A board that cannot record a repair overstates the category it ranks first.
+    CLOSED = ("WITHDRAWN", "FIXED")
+    return sum(1 for _, text in rows if not any(k in text.upper() for k in CLOSED))
 
 
 def toolchain_ok():

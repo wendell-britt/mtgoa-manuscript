@@ -119,7 +119,7 @@ of ch4 prose should be altered on this finding.
 - **Disposition:** fix locally
 - **What would disprove this:** A chapter renumbering not reflected in `specs/MANUSCRIPT_FILE_CANON.md`; the canon table lists ch7 as The Diplomat.
 
-### [C2] ERROR — "five stages you ran with the Shaman" collides with this chapter's own stage vocabulary
+### [C2] **FIXED 2026-08-01** ~~ERROR — "five stages you ran with the Shaman" collides with this chapter's own stage vocabulary~~ — ch4's own five became The Confrontation Protocol, Step 1 through Step 5, on 2026-08-01. The single surviving "stages" in ch4 is the WAVE reference this finding quotes, and it collides with nothing.
 - **Location:** ch4:580 (body)
 - **Evidence:** "The Challenger's game has five concrete moves. They are the same five stages you ran with the Shaman, run at a table where the other person can answer back."
 - **Reader problem:** In this chapter, "stage" has been claimed by Charge/Aim/Act/Stand/Exit — five numbered Stages at 263–287, re-invoked at 521. The five things Jordan ran with the Shaman are the WAVE-Spiral, which this same chapter calls **moves** 98 lines later ("Five basic moves down (the WAVE-Spiral, which you have been running since Chapter 3)", 678), and which ch3:696–748 heads as Move 1–5. So at 580 a reader reasonably expects Move 1 to be Charge. It is Wake Up. The sentence sends her into the five-move sequence with the wrong mapping loaded.

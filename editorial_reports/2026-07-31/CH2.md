@@ -84,7 +84,7 @@ taxonomy, not a stage sequence, and does not violate the five-beat rule.
 
 ## B. CONTINUITY AND CLAIMS
 
-### [C1] "Chapter 1 put the joystick in your hands" — Chapter 1 contains no joystick
+### [C1] **FIXED 2026-08-01** ~~"Chapter 1 put the joystick in your hands" — Chapter 1 contains no joystick~~ — ch1 now carries the metaphor twice: "This is where you pick up the joystick" and "You just put your hands on the joystick." The measurement behind this finding, 0 hits in ch1, no longer holds.
 - **Location:** ch2:276 (body)
 - **Evidence:** ch2:276 — "Chapter 1 put the joystick in your hands. This chapter teaches you how to walk the book."
 - **Supporting measurement:** `joystick` returns **0 hits in `manuscript/ch1.md`**. Ch1's control metaphor is different vocabulary — tokens, the Arcade, and "You cannot take **the controls** from a player you refuse to look at" (`ch1:16`). First occurrence of `joystick` in the manuscript is `ch2:274`.
@@ -101,7 +101,7 @@ taxonomy, not a stage sequence, and does not violate the five-beat rule.
 - **Disposition:** structural decision
 - **What would disprove this:** a reading in which "the youngest part of you" is a figure of speech for the reader's own unperformed self rather than a distinct part — but "reaching her" and the quoted plea at 434 both treat it as a separate addressee.
 
-### [C3] The Protector's forward promise points at a chapter that does not take it up
+### [C3] **FIXED 2026-08-01** ~~The Protector's forward promise points at a chapter that does not take it up~~ — ch2:364 now promises the fear channel, which ch3 teaches as Metal/Fear. The promise and the payoff agree.
 - **Location:** ch2:364 (body)
 - **Evidence:** ch2:364 — "That speed has kept you alive, and you want to keep it. **The next chapter takes up what sets it off and how you learn to steer it.**"
 - **Supporting measurement:** `Protector` appears **once** in `manuscript/ch3.md`, at `ch3:606`, and only as a contrast in the Controller's definition: "The Protector decides whether you live. The Controller decides how." Ch3's up-close daemon section is **Section 5: The Controller, Up Close**. What sets the Protector off, and how to steer it, is not ch3's subject.

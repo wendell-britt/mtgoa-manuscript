@@ -191,7 +191,7 @@ Reported clean.
 
 ## B · Continuity and claims
 
-### [CN-1] The Vulnerable Child is a retired term used as though established
+### [CN-1] **FIXED 2026-08-01** ~~The Vulnerable Child is a retired term used as though established~~ — superseded by canon. specs/MANUSCRIPT_FILE_CANON.md:113, ruled 2026-08-01: "The Vulnerable Child is the eighth daemon and the player at once." The term is established, not retired.
 - **Location:** ch8:191 (body); also ch9:508 (body)
 - **Evidence:** "This is the Vulnerable Child's gift, held all the way up." (ch8:191)
 - **Reader problem:** See Verdict 2. A definite reference to a daemon that is not on the roster of seven Jordan was given in ch2.
@@ -199,7 +199,7 @@ Reported clean.
 - **Disposition:** structural decision
 - **What would disprove this:** A surviving definition of the Vulnerable Child in ch2–ch7 that `grep` over `manuscript/` did not find — it returned exactly two hits book-wide, ch8:191 and ch9:508.
 
-### [CN-2] The daemon roster at ch8:458 enumerates six and calls the last one seventh
+### [CN-2] **FIXED 2026-08-01** ~~The daemon roster at ch8:458 enumerates six and calls the last one seventh~~ — the Emotional Body was missing from the roster and is restored in Forest order on 2026-08-01. Seven named, seventh in line, count and claim agree.
 - **Location:** ch8:458 (body)
 - **Evidence:** "You met the Damaged Self deep in the Forest, seventh in line… The Protector… The Controller… The Skeptic… The Fixer-Healer… The Victim… The Damaged Self decides something none of them touch."
 - **Reader problem:** ch2's seven are Protector, Controller, Skeptic, Fixer/Healer, **Emotional Body**, Victim, Damaged Self. ch8 drops the Emotional Body from the walk-back and still says "seventh." A reader counting along gets six and concludes she missed one — in the section that is supposed to be her closing account of the Forest. The chapter also spells it "Fixer-Healer" where ch2:328 has "The Fixer/Healer".
@@ -207,7 +207,7 @@ Reported clean.
 - **Disposition:** fix locally
 - **What would disprove this:** An intentional convention of omitting the Emotional Body from daemon recaps, visible in ch4–ch7's equivalent walk-backs.
 
-### [CN-3] Surviving gate-walk vocabulary in a chapter the gate walk was removed from
+### [CN-3] **FIXED 2026-08-01** ~~Surviving gate-walk vocabulary in a chapter the gate walk was removed from~~ — ch8 returns zero hits for gate walk, gate-walk and eight gates.
 - **Location:** ch8:458 (body)
 - **Evidence:** "You met the Damaged Self deep in the Forest, seventh in line, **one gate before the center**."
 - **Reader problem:** Canon (`MANUSCRIPT_FILE_CANON.md:101`) removes the gate walk from ch4–ch8. This is the only occurrence of *gate* in ch8, and it is doing load-bearing positional work in the daemon recap. Jordan has no gates in her ch4–ch8 experience to count back from, so the locator locates nothing.
@@ -223,7 +223,7 @@ Reported clean.
 - **Disposition:** structural decision
 - **What would disprove this:** A ruling that the retired-four-stage prohibition covers only named developmental stage sequences and not practice checklists, in which case this is a numeric collision rather than a canon breach — but the collision remains.
 
-### [CN-5] The chapter says six games twice and defines four
+### [CN-5] **FIXED 2026-08-01** ~~The chapter says six games twice and defines four~~ — ch8 says "four games" twice and "six games" zero times.
 - **Location:** ch8:258, ch8:569 (body); definition at ch8:221 and ch8:545
 - **Evidence:** "Holding six games at once without collapsing into any of them." (258) and "It requires knowing all six games well enough to move between them" (569), against "Power, strategy, harmony, whole-board." (221, repeated verbatim at 545).
 - **Reader problem:** This is the chapter whose entire thesis is *know which game you're playing*. Jordan is given a four-item list twice and a count of six twice, with no reconciliation. The likeliest origin is the six Faces, which would mean *game* and *Face* are being silently equated — but the chapter elsewhere insists they are different things ("Not a new game above the others", 187).
