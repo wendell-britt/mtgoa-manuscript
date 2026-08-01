@@ -228,7 +228,7 @@ fix closes A1; withdrawing or narrowing `ch1:149` remains the cheap option.
 - **Disposition:** structural decision — the count, the eighth block, and the *gate*/*daemon* vocabulary are one ruling
 - **What would disprove this:** A ruling that the Vulnerable Child is retired from ch2 but retained at ch8:191 and ch9:508 as a deliberate late reveal, which would make the "eight" correct and only the introduction missing.
 
-### [C3] The WAVE has six beats in ch9 and five everywhere else — ERROR
+### [C3] **FIXED 2026-08-01** ~~The WAVE has six beats in ch9 and five everywhere else — ERROR~~ — ch9:284 now reads "Wake up. Open up. Clean up. Grow up. Show up. Then you come back, and coming back is what turns one pass into a practice." Five enumerated as five, with the return framed as the loop that makes it a Spiral. ch9:169 and ch9:676 both say five.
 - **Location:** ch9:284, ch9:368, ch9:382 (body)
 - **Evidence:** ch9:284 — "You now know the WAVE. Wake up. Open up. Clean up. Grow up. Show up. Come back." ch3:244 — "The WAVE-Spiral is a progression through **five stages**"; ch3:824 — "The deck runs five basic moves… they are the WAVE-Spiral: Wake Up, Open Up, Clean Up, Grow Up, Show Up."
 - **Reader problem:** Ch9 adds a sixth stage, *Come back*, and runs it three times (284, 368, 382) as recall — "You now know the WAVE" — of something the reader was never taught. It also contradicts ch9 itself: `ch9:694` describes the deck as "Wake Up, Open Up, Clean Up, Grow Up, Show Up" crossed against four domains, five moves, and `ch9:169` says "Five moves crossed against four domains" — so the same chapter uses both counts eighty lines apart. Canon at `MANUSCRIPT_FILE_CANON.md:103` reads "Every stage sequence is five beats. There are no four-stage models left in the book." A reader who tries to run the WAVE from ch9's version will look for a sixth card row that does not exist in the hundred and twenty.
@@ -252,7 +252,7 @@ fix closes A1; withdrawing or narrowing `ch1:149` remains the cheap option.
 - **Disposition:** structural decision
 - **What would disprove this:** A deliberate ruling that the oath is a ch1-local device not meant to recur.
 
-### [C6] "The altar" is used twice as recall and is defined nowhere in the book — ERROR
+### [C6] **FIXED 2026-08-01** ~~"The altar" is used twice as recall and is defined nowhere in the book — ERROR~~ — "altar" returns zero hits across manuscript/, appendices/ and front_matter/. The term is gone.
 - **Location:** ch9:83 and ch9:286 (body)
 - **Evidence:** ch9:83 — "The six Faces are your toolkit. The WAVE is your process. **The altar — the practice of returning — is your anchor.**" ch9:286 — "**You know that the altar is not optional** — that coming back makes the work real."
 - **Reader problem:** `grep -rn altar manuscript/` returns exactly these two lines and nothing else in ch1–ch8. Ch9 gives it a one-clause gloss at 83 and then at 286 asserts she already knows it, inside the passage whose entire rhetorical work is "you now know" — flanked by six Faces she does know and a WAVE she does. Jordan's first drop-off trigger is jargon without translation, and this is a named third pillar of the practice, given equal billing with the Faces and the WAVE, that has no chapter behind it. Related: `ch1:207` promises "a superpower you will only spot in motion" as a sheet line and `ch2:392–404` defines superpower; ch9 mentions "your specific superpowers" once in passing at 83 and never asks her to write it down, so that line closes nowhere either.

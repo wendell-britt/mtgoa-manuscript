@@ -239,7 +239,7 @@ Reported clean.
 - **Disposition:** fix locally
 - **What would disprove this:** A ruling that the final teaching chapter deliberately drops the training wheels, which would need stating rather than inferring.
 
-### [CN-7] "Diagnosis" is used as both the healthy pole and the shadow pole
+### [CN-7] **FIXED 2026-08-01** ~~"Diagnosis" is used as both the healthy pole and the shadow pole~~ — the offending sentence, "a diagnosis is service", returns zero. The two that define diagnosis as the failure mode survive and agree with each other.
 - **Location:** ch8:553 (body), against ch8:153 and ch8:433
 - **Evidence:** "*This is a power-game table* said with the energy of **a diagnosis is service**." (553) against "**Diagnosis becomes lecturing.**" (153) and "Say it as an offering rather than **as a diagnosis or a verdict**." (433).
 - **Reader problem:** Jordan is given a named test at 553 that turns on a word the chapter has twice defined as the failure mode. If she has been reading carefully, 553 reads as an error; if she has not, she takes away the opposite of the instruction at 433. The Diagnostician mode (262) sits under the same strain.
