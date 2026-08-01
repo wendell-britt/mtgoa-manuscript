@@ -75,6 +75,66 @@ def run(cmd):
         return 1, str(e)
 
 
+# ---------------------------------------------------------------- elevated 2026-08-01
+# Wendell: "elevate existing problems into the blockers for ship." Three rows added, each
+# because it makes the artefact wrong or incomplete in a reader's hands, which is this
+# file's whole test. Quality findings stay in `rescan.py --list` where they belong.
+#
+# PROMISES. Chapter 1 tells the reader, in the imperative, that specific things will be
+# hers by the end. A promise the book makes and does not keep is the failure mode the
+# editorial OS ranks first -- it threatens the central promise -- and it cannot be patched
+# after printing. Each row states the ch1 anchor and the test for closure on ch9, so the
+# count is auditable rather than asserted. Two of the six close; `a line in every chapter`
+# closed 2026-08-01 when A2's six sheet lines were seated.
+PROMISES = [
+    ("the Reader's Oath", "ch1:213-233, sworn out loud",
+     r"\boath\b"),
+    ("the myth she wrote", "ch1:203, 'the one that runs you hardest'",
+     r"\bmyth"),
+    ("her superpower", "ch1:209, 'you will only spot in motion'",
+     r"superpower.{0,200}?\b(name it|write it|write down|capture it|fill it)"),
+    ("the BAR deck", "ch1:249, 'a deck no one else could have built'",
+     r"your deck\b|deck you (built|made)|deck of your own"),
+    ("her autopilot", "ch1:209, 'you will catch yourself running'",
+     r"autopilot.{0,300}?Fill it in"),
+]
+
+
+def unkept():
+    """ch1 promises that ch9 never closes. Each test is a regex on ch9 alone."""
+    ch9 = io.open(os.path.join(ROOT, "manuscript", "ch9.md"), encoding="utf-8").read()
+    out = [(n, w) for n, w, pat in PROMISES if not re.search(pat, ch9, re.I | re.S)]
+    # The sixth promise is not a ch9 test: ch1:209 promises "a line added in every
+    # chapter ahead", which is kept in ch3-ch8 or nowhere.
+    seated = sum(1 for i in range(3, 9)
+                 if "Add a line to the sheet" in io.open(
+                     os.path.join(ROOT, "manuscript", "ch%d.md" % i),
+                     encoding="utf-8").read())
+    if seated != 6:
+        out.append(("a line in every chapter", "ch1:209, seated in %d/6" % seated))
+    return out
+
+
+def claim_errors():
+    """Live band-1 findings. `rescan.py` re-derives against the page, so a finding whose
+    quote has moved does not count. A stated fact that is wrong prints wrong."""
+    code, out = run(["instruments/rescan.py", "--list"])
+    blk = re.search(r"### 1 CLAIM ERROR.*?(?=\n### )", out, re.S)
+    if not blk:
+        return 0
+    rows = re.findall(r"^  CH\d+\s+\S+\s+(LIVE|PARTIAL)\s+(.*)$", blk.group(0), re.M)
+    return sum(1 for _, text in rows if "WITHDRAWN" not in text.upper())
+
+
+def toolchain_ok():
+    """The guard on every other row. On 2026-08-01 `check_anchors` was raising ValueError
+    on ch8's three-field rows and aborting the whole self-test, so ch8's anchors went
+    unverified and the suite reported nothing after that point. A crashed guard and a
+    clean guard look identical from outside; this row tells them apart."""
+    code, out = run(["instruments/test_toolchain.py"])
+    return "all cases pass" in out and "Traceback" not in out
+
+
 def main():
     verbose = "-v" in sys.argv
     rows = []
@@ -83,30 +143,40 @@ def main():
     rows.append(("1", "app routing", len(sites),
                  "the book points readers at a product not shipping with v1"))
 
+    miss = unkept()
+    rows.append(("2", "unkept ch1 promises", len(miss),
+                 "the book promises these by the last chapter and never closes them"))
+
+    rows.append(("3", "claim errors", claim_errors(),
+                 "a stated fact is wrong, and print cannot be patched"))
+
     code, out = run(["instruments/placeholders.py"])
     n = 0
     m = re.search(r"PLACEHOLDERS FOUND: (\d+)", out)
     if m:
         n = int(m.group(1))
-    rows.append(("2", "placeholders", n, "these typeset verbatim"))
+    rows.append(("4", "placeholders", n, "these typeset verbatim"))
 
     code, out = run(["instruments/build_book.py"])
     gaps = re.findall(r"^\s*GAP\s+(.+?)\s{2,}", out, re.M)
-    rows.append(("3", "build gaps", len(gaps),
+    rows.append(("5", "build gaps", len(gaps),
                  "the spine does not assemble complete: " + ", ".join(gaps) if gaps
                  else "the spine assembles"))
 
     code, out = run(["instruments/gate.py"])
-    rows.append(("4", "gate", 0 if "GATE PASS" in out else 1,
+    rows.append(("6", "gate", 0 if "GATE PASS" in out else 1,
                  "banned words, And/But openers, glued em-dashes, live tokens"))
 
     code, out = run(["instruments/emdash.py"])
-    rows.append(("5", "em-dash budget", 0 if "within budget" in out else 1,
+    rows.append(("7", "em-dash budget", 0 if "within budget" in out else 1,
                  "the ratchet only goes down"))
 
     code, out = run(["marginalia/compile.py", "--verify"])
-    rows.append(("6", "marginalia round-trip", 0 if "byte-identical" in out else 1,
+    rows.append(("8", "marginalia round-trip", 0 if "byte-identical" in out else 1,
                  "the frame must not alter the body"))
+
+    rows.append(("9", "toolchain self-test", 0 if toolchain_ok() else 1,
+                 "a crashed guard and a clean guard look identical from outside"))
 
     print("SHIP CHECK — what stops this book reaching a reader\n")
     print("%-3s %-24s %8s   %s" % ("#", "blocker", "count", "why it blocks"))
@@ -119,6 +189,13 @@ def main():
     print("\n%s" % ("SHIPPABLE — no blocker outstanding" if not total
                     else "%d blocking item(s) across %d categor(y/ies)"
                     % (total, sum(1 for r in rows if r[2]))))
+
+    if verbose and miss:
+        print("\n" + "=" * 96)
+        print("UNKEPT PROMISES — %d" % len(miss))
+        print("=" * 96)
+        for name, where in miss:
+            print("  %-26s %s" % (name, where))
 
     if verbose and sites:
         print("\n" + "=" * 96)
