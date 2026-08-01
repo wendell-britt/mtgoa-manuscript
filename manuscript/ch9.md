@@ -197,7 +197,7 @@ The modes loop, and each pass through goes deeper. The deck outlasts any single 
 
 ---
 
-### The Stage Sequence: Review → Discern → Design → Build → Pass On
+### How the Work Moves: Review → Discern → Design → Build → Pass On
 
 The Player runs this sequence:
 

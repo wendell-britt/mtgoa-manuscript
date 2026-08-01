@@ -158,7 +158,7 @@ The Architect's actual practice builds the map that makes you unnecessary. *Here
 
 That's structural generosity.
 
-The five modes, the stage sequence, the part of you that feels the system before it models it, those show what structural clarity looks like when it has not lost the love at its center. Not optimization theater. A practice for the person who already holds the relational field and needs the blueprint underneath it.
+The five modes, the design loop, the part of you that feels the system before it models it, those show what structural clarity looks like when it has not lost the love at its center. Not optimization theater. A practice for the person who already holds the relational field and needs the blueprint underneath it.
 
 Somewhere in the training you will recognize a design failure. A process that looked correct and failed anyway. An accountability structure nobody trusted. A meeting format that produced nothing and cost everyone something. The School of the Pattern makes the same claim about all of them: the structure did exactly what it got built to do, and that was the wrong thing. Not who failed it. Why it could not have done otherwise.
 
@@ -254,7 +254,7 @@ At the Architect's altitude, the native material is not emotion: it is *logic.* 
 
 This is not abstract theory. The Architect uses logic the way the Shaman uses emotion: as a living instrument for reading reality. A system is not working. The Architect asks: why does this system produce this outcome? Where is the smallest push that creates the largest movement?
 
-The Architect's practice has five stages:
+The Architect's practice has five steps:
 
 **Observe:** What is actually happening? Not what the org chart says should happen. What is actually happening, measured, traced to its source. The Architect talks to the people inside the system. Reads the data. Looks at outcomes, not intentions.
 
@@ -266,9 +266,9 @@ The Architect's practice has five stages:
 
 **Hand Off:** Give it away, on purpose, to someone who can run it without you.
 
-This stage turns the other four from a loop into a practice. Observe, Model, Design, Deploy will iterate forever (each deployment producing new observations, each set of observations justifying another cycle) and nothing inside that loop ever declares the Architect finished, because the loop has no exit built into it. An Architect can spend a decade there and produce a measurably better system every year, and the system will still stop working the month they leave, because nobody ever designed it to run without them. Hand Off turns the practice away from the system and toward the next person: what they need to know that you assume they know, what has to go on paper, what has to get simpler so that it survives contact with someone who was not in the meetings. Operating it is the low bar. The test is whether they can *change* it, whether you handed over a machine or a machine plus the reasoning that would let them redesign it when the conditions move.
+This step turns the other four from a loop into a practice. Observe, Model, Design, Deploy will iterate forever (each deployment producing new observations, each set of observations justifying another cycle) and nothing inside that loop ever declares the Architect finished, because the loop has no exit built into it. An Architect can spend a decade there and produce a measurably better system every year, and the system will still stop working the month they leave, because nobody ever designed it to run without them. Hand Off turns the practice away from the system and toward the next person: what they need to know that you assume they know, what has to go on paper, what has to get simpler so that it survives contact with someone who was not in the meetings. Operating it is the low bar. The test is whether they can *change* it, whether you handed over a machine or a machine plus the reasoning that would let them redesign it when the conditions move.
 
-Hand Off is also where the Architect most often walks away, and workload has nothing to do with it. The four-stage loop is where the Architect is most valuable and most visible, and stepping out of it costs exactly that. Every argument for staying one more cycle is a good argument. That fact makes it a stage rather than an afterthought.
+Hand Off is also where the Architect most often walks away, and workload has nothing to do with it. The four-step loop is where the Architect is most valuable and most visible, and stepping out of it costs exactly that. Every argument for staying one more cycle is a good argument. That fact makes it a step rather than an afterthought.
 
 ---
 
@@ -337,7 +337,7 @@ The Protector decides whether you go in. The Controller decides how you may beha
 
 The Emotional Body turns up everywhere for that reason, and it has kept turning up in this book since the Forest was first drawn. It is the instrument the roles argue with. No wonder it never gets a seat.
 
-At its best it is the finest sensor you own, and at the Architect's altitude it functions as the input stage rather than optional equipment. You already saw this in the five modes. The Mapmaker detects risk on Metal, which is fear. The Optimizer detects what has stopped working on Water, which is sadness. The Strategist detects where the movement is on Fire, which is anger. Take the Emotional Body out of the Architect and you do not get a colder Architect. You get an Architect with no readings, someone modeling a system on the basis of what the system says about itself. The reason you can walk into an organization and know, before you have seen a single number, that something has gone wrong under the third floor of the org chart, comes down to this: the Emotional Body registered it and the rest of you is still catching up. That is the first stage of the practice, running on time. Calling it intuition undersells it by a stage.
+At its best it is the finest sensor you own, and at the Architect's altitude it functions as the input step rather than optional equipment. You already saw this in the five modes. The Mapmaker detects risk on Metal, which is fear. The Optimizer detects what has stopped working on Water, which is sadness. The Strategist detects where the movement is on Fire, which is anger. Take the Emotional Body out of the Architect and you do not get a colder Architect. You get an Architect with no readings, someone modeling a system on the basis of what the system says about itself. The reason you can walk into an organization and know, before you have seen a single number, that something has gone wrong under the third floor of the org chart, comes down to this: the Emotional Body registered it and the rest of you is still catching up. That is the first step of the practice, running on time. Calling it intuition undersells it by a step.
 
 The distortion is how fast it hands the feeling off. Feeling it was never the issue.
 
@@ -362,7 +362,7 @@ The tell is a sequence, and it is easy to check. When something goes wrong, whic
 
 Now for why this daemon stands where it stands, in a book about allyship.
 
-Everything this chapter teaches runs on Observe. Observe is the first stage and the one everything else rests on: what is actually happening, traced to its source, not what the org chart says should happen. The Emotional Body in shadow does not stop you observing. It edits the observation on the way in. It removes the part of the data arriving through you, because that part feels uncomfortable and unrigorous and does not belong in a model. Then you build a true, careful, well-evidenced model of a system you were not permitted to feel. Every stage downstream inherits the omission. The Model is clean. The Design is elegant. The Deploy fails in a way nobody can trace, because nobody ever wrote the missing variable down.
+Everything this chapter teaches runs on Observe. Observe is the first step and the one everything else rests on: what is actually happening, traced to its source, not what the org chart says should happen. The Emotional Body in shadow does not stop you observing. It edits the observation on the way in. It removes the part of the data arriving through you, because that part feels uncomfortable and unrigorous and does not belong in a model. Then you build a true, careful, well-evidenced model of a system you were not permitted to feel. Every step downstream inherits the omission. The Model is clean. The Design is elegant. The Deploy fails in a way nobody can trace, because nobody ever wrote the missing variable down.
 
 The cost lands on the people the design is for. A structure built by someone who did not feel their way through it arrives in front of people who are feeling their way through it, and it does not fit, and they cannot say why, and the designer experiences this as resistance to change. That repeats the exile in Section 1, in miniature and in slow motion. The village did not exile the Architect for being wrong. It exiled the Architect for arriving with the answer already assembled, which looks from outside exactly like a feeling converted before anyone else could get near it.
 
@@ -384,7 +384,7 @@ You do not fire the Emotional Body. Fire your sensor and you are the Architect t
 
 *Bring me the signal. All of it, raw, before it means anything: the channel, the place it landed, what it did. That report I want, and I will use it. What gets built is not in your remit. That decision happens downstream of you, after you have finished.*
 
-Then put a boundary on the handoff, because the speed of the conversion is the shadow's entire method. The Architect works in loops, so the deadline here is not a breath and it is not a cycle: it is a stage. *The signal gets all of Observe. Nothing gets modeled until Observe closes.* Which in practice means: name the channel and the location before you name the leverage point. Anger, fear, sadness, joy, neutrality; chest, throat, gut, hands. Six seconds of actual data. Then build whatever you were going to build.
+Then put a boundary on the handoff, because the speed of the conversion is the shadow's entire method. The Architect works in loops, so the deadline here is not a breath and it is not a cycle: it is a step. *The signal gets all of Observe. Nothing gets modeled until Observe closes.* Which in practice means: name the channel and the location before you name the leverage point. Anger, fear, sadness, joy, neutrality; chest, throat, gut, hands. Six seconds of actual data. Then build whatever you were going to build.
 
 Six seconds is enough for the question that is actually being asked. It is not enough for the other one, and that shortfall is the point.
 
@@ -549,7 +549,7 @@ Draw from your twenty rather than the hundred and twenty, though not all from on
 
 **Show Up.** It builds the structure that makes the conversion permanent. The thing that needed feeling now has a process attached to it, and nobody will have to feel it again. Including the people it happened to.
 
-Where it bites is Clean Up. Selecting a transformation is a real move with a real place in the sequence, and this one is being run early and without authorization. The four rows around it are what that early selection does to the stages on either side of it.
+Where it bites is Clean Up. Selecting a transformation is a real move with a real place in the sequence, and this one is being run early and without authorization. The four rows around it are what that early selection does to the steps on either side of it.
 
 Take **Forge the Anger**: Clean Up, Direct Action, Architect. Sit with how uncomfortable it is that the card asks you to choose at all. The answer the mechanism keeps arriving at is translate: heat into structure, because structure is the one output this Face trusts. The card's job is to make that choice happen in the open, once, where you can watch yourself make it.
 
@@ -578,7 +578,7 @@ The belief this chapter came to dismantle is that allyship is a matter of fixing
 
 That last clause is the whole chapter. The Architect does not build to be admired and does not measure success by indispensability. The Architect measures it by obsolescence, a system that still runs after they have walked away from it. That is structural generosity, and it is the intent behind every one of the five moves. Intent, though, is not the superpower. The superpower is the **Strategist**: knowing where the push goes and when to make it. That is a reading before it is a finding, and it is the one part of the Architect's practice that cannot be recovered from data.
 
-You have the five modes and the channels underneath them, the five stages of Observe → Model → Design → Deploy → Hand Off, and the Emotional Body up close, the sensor that turns a feeling into a spec before you can read it, and what it costs when the conversion beats the reading. You have the Structure ↔ Agency axis and the directional test that is the only honest way to check yourself on it.
+You have the five modes and the channels underneath them, the five steps of Observe → Model → Design → Deploy → Hand Off, and the Emotional Body up close, the sensor that turns a feeling into a spec before you can read it, and what it costs when the conversion beats the reading. You have the Structure ↔ Agency axis and the directional test that is the only honest way to check yourself on it.
 
 Here is the limit built into all of it. The Architect can design the system and cannot hold the relational field the design lives inside. A blueprint fails when the people using it do not trust each other, and design assumes a goodwill it has no way to manufacture. When goodwill is missing, someone has to go build it: hold the field when the map does not tell the whole story, stay in relationship when the structure says the relationship should be working and it is not. Every elegant design nobody trusted was a failed design. Every brilliant blueprint that could not survive contact with the relational field was a theoretical exercise.
 
