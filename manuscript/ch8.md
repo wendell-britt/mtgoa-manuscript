@@ -114,7 +114,7 @@ One pattern shows up most often at this altitude. Offer it to yourself as a thin
 
 That withholding becomes its own kind of exile. Not the loud kind, not being asked to leave, not being told you were wrong. The other kind: when you have something specific to offer and you've learned not to offer it, because the table doesn't have the architecture to receive it. That's where we left the Sage. Whether you've spent time there too, only you can say.
 
-You just read a story about someone who sees clearly and gets exiled for it. If something moved while you read, a recognition, a *yes*, the story located something real. You know this test by now. You've taken it since the first page. Take it again here, where it cuts sharpest, because the Sage makes the two readings hardest to tell apart.
+You just read a story about someone who sees clearly and gets exiled for it. If something moved while you read, a recognition, a *yes*, the story located something real. You have carried this since the Shaman: the village in the story, and the village in you. Take it again here, where it cuts sharpest, because the Sage makes the two readings hardest to tell apart.
 
 Read it first as this: you have the Sage's gift, and you have lived the Sage's exile. You can see which game the table really plays. You can feel the gap between what a group says and what it actually does, and you've stopped naming it because nobody around you knew what to do with that capacity, not because the seeing itself had anything wrong with it.
 
