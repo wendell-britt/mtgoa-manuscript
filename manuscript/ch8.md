@@ -465,6 +465,34 @@ Did the whole view send you back down into the game, or did it hand you somewher
 
 The Sage does not need you to rank the games. The Sage needs you to tell the truth about whether seeing more made you easier to reach or harder.
 
+### 3-2-1 — Reclaim the One Who Went Anyway
+
+Somebody moves before they have understood it. They get a piece of it wrong in public, adjust, and keep going. You have an assessment of them that you have never said out loud, and it has been saving you something.
+
+Solo, written or spoken, fifteen to twenty-five minutes.
+
+**Try this now.**
+
+*There is a part of me that is always working on myself so I never have to be judged on what I actually did.* If that is not your charge, say the one that is.
+
+You already know who this is. Someone who acted at the altitude they had rather than the one they were working toward, and who is further along than the arithmetic says they should be. Somebody whose readiness you privately doubt.
+
+**3 · FACE IT.** Two paragraphs, third person, as much detail as you can hold. How big is the charge, and where does it sit in you?
+
+**2 · TALK TO IT.** Greet them, then ask, and let them answer. Three exchanges at minimum.
+
+— *What made it enough for you?*
+— *What do you do with being wrong in front of people?*
+— *What have you got that I have been preparing for?*
+
+**1 · BE IT.** Speak as *I*, one paragraph, and say what you have to say about showing up as an ally.
+
+**RECEIPT.** Sit thirty seconds. Did the charge move?
+
+*Two minutes to capture it as a BAR.*
+
+---
+
 ### *The Walk Back: Coming Down Without Losing What You Found*
 
 The walk back is the hardest part, and you can drill it like anything else.
@@ -531,6 +559,25 @@ Then put a limit on it, because an open repair schedule is the shadow's whole me
 It shows up in a single beat. Someone asks you for help with something real. Something in you goes wide and attentive: the Panoramic Seer arriving on time, doing its job. Then the Damaged Self opens underneath it, and what surfaces is not doubt; doubt you would catch. What surfaces is a project. *I know exactly what's happening here, and I know it because I've been the broken version of it.* So you hand them the map. The map is good. The map is also the fourth one this quarter, and nobody has ever asked you for a map. What they asked for was a hand. The conversation ends well. They leave with reading. Give that same part its narrow jurisdiction and it returns the same accurate report, but the answer changes: *I run differently, which is why I can see this, and what I'm going to do about it is sit here and ask you a question.*
 
 *Bring one time you answered a person's problem with a framework. Name what the Damaged Self produced in the half-second before you spoke: the reading about yourself, not the feeling about it. Then write the question you would have asked instead. Two minutes to capture it as a BAR.*
+
+---
+
+### 3-2-1 on Your Damaged Self
+
+The one described above turns difference into defect in general. Yours has a specific defect it has settled on, and that is the one to work. Ten to fifteen minutes.
+
+**3 · FACE IT.** Third person, and not the version in this chapter. What has yours decided is wrong with you, in its own words? What was the last map you reached for, and what problem was still sitting there when it arrived? What is it waiting for you to fix before you are allowed to be useful to anyone? A paragraph, as much detail as you can hold, and give it a name if a name comes.
+
+**2 · TALK TO IT.** Greet it, then ask, and let it answer.
+
+— *What are you preparing me for?*
+— *What happens to you if I go before I am ready?*
+
+**1 · BE IT.** Speak as *I*, one paragraph, and say what you have to say about showing up as an ally.
+
+**RECEIPT.** Sit thirty seconds. Did it loosen, or did it dig in? Both are information.
+
+*Two minutes to capture it as a BAR.*
 
 ---
 

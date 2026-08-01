@@ -730,6 +730,25 @@ That is the myth this chapter breaks. Allyship is not saying the right words. Th
 
 The superpower under that move is the Alchemist. The Alchemist is the one who takes the charge the Controller called a foul (the fear, the "not ready," the "not good enough") and burns it for fuel instead of waiting for it to go away. The woman on the council did not speak once the fear left. She spoke while it still burned, and used it. That is the Shaman's whole practice. The sensing, the WAVE, the Controller pried off the joystick, all aimed at one outcome: one true sentence, out of your body and into the world, where it can move the water.
 
+### 3-2-1 on Your Controller
+
+The one described above enforces a generic rulebook. Yours enforces a specific one, and that is what to work. Ten to fifteen minutes.
+
+**3 · FACE IT.** Third person, and not the version in this chapter. What rules does yours actually enforce about how you are allowed to feel? Whose rules are they, and when did you agree to them? Which of the six calls does it blow the whistle with most: not good enough, not ready, don't belong, insignificant, not worthy, not capable? A paragraph, as much detail as you can hold, and give it a name if a name comes.
+
+**2 · TALK TO IT.** Greet it, then ask, and let it answer.
+
+— *Whose rulebook are you holding?*
+— *What happens to you if I feel it anyway?*
+
+**1 · BE IT.** Speak as *I*, one paragraph, and say what you have to say about showing up as an ally.
+
+**RECEIPT.** Sit thirty seconds. Did it loosen, or did it dig in? Both are information.
+
+*Two minutes to capture it as a BAR.*
+
+---
+
 ### What You Take Out of the Forest
 
 The Controller developed does one thing nothing else in this chapter can do: it admits a feeling onto the field and holds you to a line in the same motion. Those two rarely travel together. A person who has loosened the standard enough to feel everything has usually loosened it enough to owe nothing, and a person with a standard they never break has usually kept it by ruling out most of what they feel. The Shaman's move needs both at once: the read let all the way in, and something in you that will not let you leave the table with it unsaid.

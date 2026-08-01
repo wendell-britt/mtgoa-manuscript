@@ -559,6 +559,25 @@ It shows up in a single beat. Someone says the thing in the meeting. Heat arrive
 
 ---
 
+### 3-2-1 on Your Skeptic
+
+The one described above audits in general. Yours has a house style, and that is what to work. Ten to fifteen minutes.
+
+**3 · FACE IT.** Third person, and not the version in this chapter. What does yours sound like in the seconds after a charge arrives? Where is the seam where it stops asking about the situation and starts asking about you? What was the last audit it ran past the moment? A paragraph, as much detail as you can hold, and give it a name if a name comes.
+
+**2 · TALK TO IT.** Greet it, then ask, and let it answer.
+
+— *What would it cost you to finish?*
+— *What are you keeping me out of by never closing?*
+
+**1 · BE IT.** Speak as *I*, one paragraph, and say what you have to say about showing up as an ally.
+
+**RECEIPT.** Sit thirty seconds. Did it loosen, or did it dig in? Both are information.
+
+*Two minutes to capture it as a BAR.*
+
+---
+
 ### Force and Restraint: Why the Audit Is So Hard to Catch
 
 You drew the Force ↔ Restraint axis in Section 4. Here is why the Skeptic is nearly impossible to catch standing on it, and why the chapter gave you a polarity instead of a rule.
