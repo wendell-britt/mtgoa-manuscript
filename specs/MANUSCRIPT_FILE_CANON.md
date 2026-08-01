@@ -106,7 +106,11 @@ These describe the book as it was, not as it is. Do not plan from them without c
 
 ## Structural facts that are current
 
-The daemon walk is removed from Chapters 4 through 8. Chapters 2 and 9 keep theirs. The word is **daemon** on every surface: *gate* was retired 2026-08-01, when it was measured at three occurrences in ch9 against 45 for *daemon* across eight chapters. Chapter 2's daemon roster carries seven, not eight — the Vulnerable Child left with the gate walk.
+Chapter 2 runs the **daemon walk**: sequential, all seven grabbing the joystick in order, arriving at the center. Chapter 9 runs the **daemon scan**: parallel, eight questions, stop at whichever one is live. Same roster, different instruments, and Chapters 4 through 8 run neither. ch9 cannot borrow *walk* — it has spent that word on the builder's journey, about twenty times, including a section title.
+
+The word is **daemon** on every surface. *gate* was retired 2026-08-01, measured at three occurrences in ch9 against 45 for *daemon* across eight chapters.
+
+Chapter 2's daemon roster carries seven. The Vulnerable Child is not the eighth daemon; she is the player — at the center of ch2's walk, and leading the eighth question of ch9's scan (ruled 2026-08-01).
 
 Every stage sequence is five beats. There are no four-stage models left in the book.
 
