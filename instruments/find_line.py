@@ -139,14 +139,23 @@ def row(note_id, query, how, hit):
 
 
 def main():
-    args = [a for a in sys.argv[1:] if not a.startswith("--")]
-    notes = None
-    for a in sys.argv[1:]:
-        if a.startswith("--file"):
-            notes = a.split("=", 1)[1] if "=" in a else DEFAULT_NOTES
-    if "--file" in sys.argv:
-        i = sys.argv.index("--file")
-        notes = sys.argv[i + 1] if i + 1 < len(sys.argv) else DEFAULT_NOTES
+    # Parse positionally, and consume the value after `--file`. The first version
+    # took every non-`--` token as a query, so `--file NOTES.md` searched the book
+    # for "NOTES.md", found nothing, and filed a NOT FOUND row naming the notes
+    # file itself.
+    argv, args, notes = sys.argv[1:], [], None
+    i = 0
+    while i < len(argv):
+        a = argv[i]
+        if a == "--file":
+            notes = argv[i + 1] if i + 1 < len(argv) else DEFAULT_NOTES
+            i += 2 if i + 1 < len(argv) else 1
+            continue
+        if a.startswith("--file="):
+            notes = a.split("=", 1)[1] or DEFAULT_NOTES
+        elif not a.startswith("--"):
+            args.append(a)
+        i += 1
 
     if not args:
         sys.stderr.write(__doc__.split("## What it searches")[0])
