@@ -674,7 +674,7 @@ The grid again, sixth operation of six, the last one. Five moves down, four doma
 
 The five moves are this chapter, in order. Wake Up is the Panoramic Seer with an instrument in its hand: every card at that stage asks the same question about a different arena. Open Up finds the Sage weakest by design, because witnessing a game from inside it is the one thing the whole-board view makes harder rather than easier. Clean Up is where insight either becomes a diagnosis or hardens into a verdict, and two of those four cards read as a fork for exactly that reason. Grow Up is the move this chapter's daemon exists to prevent, the only move in the deck that asks what the playing does to the player. Show Up is legacy, and every card there names what remains once you stop holding it. Pick a domain and you're choosing the arena instead. Down is the sequence. Across is where it lands.
 
-### Drawing Against the Shadow
+## Drawing Against Your Shadow
 
 Draw from your twenty rather than the hundred and twenty, though not all from one move. A daemon is a rule in force at every move, which means five failures rather than one. The Damaged Self's:
 

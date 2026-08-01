@@ -863,7 +863,7 @@ Here is where they come from. The deck runs five basic moves, and you already kn
 
 The five moves are this chapter, in order. Every stage you practiced is one of them. Clean Up holds the five channels, which is why all four of those cards begin with the same verb: *name.* Pick a domain instead and you are choosing where the move lands. The five are the sequence; the four domains are the arena.
 
-### Drawing Against the Shadow
+## Drawing Against Your Shadow
 
 Draw from your twenty rather than the hundred and twenty. Which twenty is easy. Which of the five rows is the real question, and a tempting wrong answer waits: that a shadow lives at one move and the other four are clean.
 

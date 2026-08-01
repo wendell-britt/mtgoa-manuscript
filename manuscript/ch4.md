@@ -713,7 +713,7 @@ Same grid as the Shaman's, one operation over. Five basic moves down (the WAVE-S
 
 Notice what happens as you go down the five. Wake Up names four things you do not look at. Show Up names four things that happen in front of other people. That is the Challenger's arc compressed into twenty phrases: it starts at what you refuse to see and ends at something you did with witnesses. Pick a domain instead and you choose the arena. Down is the sequence, across is where it lands.
 
-### Drawing Against the Shadow
+## Drawing Against Your Shadow
 
 Draw from your twenty rather than the hundred and twenty, though not all from one move. A daemon is a rule, and a rule in force the whole way down produces a different failure at every move. The Skeptic's five:
 

@@ -695,7 +695,7 @@ The grid again, fifth operation of six. Five moves down, four domains across, tw
 
 The five moves are this chapter, in order. Wake Up is a channel detecting who is in the field and on what terms. Open Up is the move this chapter's daemon exists to prevent: receiving what something costs somebody else without converting it into what it costs you. Clean Up is the destination choice, and every card at that stage is written as a route because that is what the move is: *from* somewhere, *to* somewhere. Grow Up is the only move in the deck that asks about other people by design. Show Up is the relationship you build, and every card there starts with the same verb, because at this altitude showing up means bringing somebody with you. Pick a domain instead and you are choosing the arena. Down is the sequence, across is where it lands.
 
-### Drawing Against the Shadow
+## Drawing Against Your Shadow
 
 Draw from your twenty rather than the hundred and twenty, though not all from one move. A daemon is a rule in force at every move, which means five failures rather than one. The Victim's:
 

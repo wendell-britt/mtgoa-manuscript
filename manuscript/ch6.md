@@ -535,7 +535,7 @@ The grid again, fourth operation of six. Five moves down, four domains across, t
 
 The five moves are this chapter, in order. Wake Up is a mode detecting. Open Up is the six seconds. Clean Up is the conversion, performed on purpose, in its own slot, rather than on reflex a quarter-second after the signal lands. Grow Up is the capability the design is supposed to leave behind in other people. Show Up is the thing you build, and every card at that stage starts with the same verb. Pick a domain instead and you are choosing the arena. Down is the sequence, across is where it lands.
 
-### Drawing Against the Shadow
+## Drawing Against Your Shadow
 
 Draw from your twenty rather than the hundred and twenty, though not all from one move. The daemon is a rule, and it is in force at all five moves. The Emotional Body's five:
 

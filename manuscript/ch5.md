@@ -588,7 +588,7 @@ Same grid, one operation further along. Five moves down (the WAVE-Spiral), four 
 
 The Regent's Show Up cards are the only ones in the deck built entirely out of verbs for keeping: hold, keep, sustain, tend. Nothing in it is made. That marks the difference between building something and inheriting it, and it makes this operation the slowest of the six. Read down for the sequence, across for the arena.
 
-### Drawing Against the Shadow
+## Drawing Against Your Shadow
 
 Draw from your twenty rather than the hundred and twenty, though not all from one move. A daemon is a rule in force at every move, which means five failures rather than one. The Fixer-Healer's:
 
