@@ -496,8 +496,8 @@ Return has four moves inside it. Run them in order the first several times. Afte
 > *I ask every student to draw the system and then name whose face disappeared from the diagram.*
 >
 > *I drew this school last spring, for an unrelated purpose. The diagram was accurate and complete
-> and I was pleased with it. I looked at it again this week and found the omission — and then found
-> that Sera had found it in the spring, and Maera the year before that.*
+> and I was pleased with it. I looked at it again this week and found the omission — and then learned
+> that Sera had seen it in the spring, and Maera the year before that.*
 >
 > *We have all been drawing the same diagram. None of us put him on it either. That is not an
 > oversight anyone can lay at his door.*
@@ -576,7 +576,7 @@ You know what your Damaged Self is for now. That is what you take out.
 ### *What Winning Looks Like at the Sage's Altitude*
 
 <!-- MARGINALIA -->
-> *He does not sleep the week before an intake. I have known this for eleven years. I leave food
+> *He does not sleep the week before an intake. I have known this since he came aboard. I leave food
 > where he will walk into it. He thinks the galley is badly organised.*
 >
 > *He is a good man and this ship is lucky. That is all I have to say about it.*

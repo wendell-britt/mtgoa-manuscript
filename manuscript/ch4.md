@@ -31,7 +31,7 @@
 >
 > **3. What it costs.** You will be unwelcome in small ways, more often than you have budgeted
 > for, and somebody whose opinion you value will call you difficult where you can hear it.
-> Students who wait until they feel ready have suffered as a result!
+> Students who wait until they feel ready have suffered as a result.
 >
 > **4. What we do not teach.** Repair. You will object that a limit without repair is cruelty.
 > It is not, it is incomplete, and incomplete is a different problem with a different address.

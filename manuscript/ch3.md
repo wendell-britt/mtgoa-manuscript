@@ -58,7 +58,7 @@
 > *She used to grade her readings. Scored them in a book, against what turned out to be true. She
 > stopped in her fourth year here and has described the time since as the first she could hear
 > anything at all. I mention it because she will not, and because you are shortly to be taught by
-> somebody who spent a decade marking her own homework.*
+> somebody who spent years marking her own homework.*
 <!-- /MARGINALIA -->
 
 This chapter runs longest in the book, and you deserve to know why before you start it.

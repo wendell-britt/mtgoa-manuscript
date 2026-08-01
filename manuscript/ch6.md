@@ -52,7 +52,7 @@
 > school asks.*
 >
 > *They ask it of their own diagrams now. Not always in time — twice in one week I watched it
-> arrive a day late, both times about somebody I liked — but they ask, which they did not used to,
+> arrive a day late, both times about somebody I liked — but they ask, which they did not do before,
 > and the asking is all of what changed.*
 <!-- /MARGINALIA -->
 

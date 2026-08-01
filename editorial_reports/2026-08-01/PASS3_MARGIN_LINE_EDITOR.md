@@ -3,8 +3,11 @@
 **Role:** Line Editor, `specs/EDITORIAL_OPERATING_SYSTEM.md` §3 — readability only.
 **Surface:** the frame. 66 blocks, 6,656 words, in `manuscript/ch2.md`–`ch9.md`.
 **Ruled by Wendell 2026-08-01:** the margin gets its own pass, not a column in the body's.
-**Status: DIAGNOSIS ONLY. Nothing is applied.** The body pass was applied on a ruling;
-this one has not been ruled on yet.
+**Status: RULED AND APPLIED — Wendell, 2026-08-01.** *"apply them both places."*
+MG-1 through MG-5 are applied to **`marginalia/insertions.py` and `manuscript/`**, by
+`instruments/margin_apply.py`. MG-6 stands as recorded, unchanged, on the
+recommendation to leave it. The application record is §7, and it carries one residual
+the ruling did not cover.
 
 DL-6 already says the margin is its own scored surface. It had never had a line pass —
 `line_scan.py` stripped it, `prose_diet.py` strips it, and `marginalia/review.py` reads
@@ -207,3 +210,45 @@ life in eleven years:**
    unreviewable.
 
 *Instrument: `instruments/line_scan.py --margin` (new mode). No file changed by this pass.*
+
+---
+
+## 7 · Application record — 2026-08-01
+
+Applied by `instruments/margin_apply.py`, which requires every anchor to be present
+**exactly once in `insertions.py` and exactly once across the nine chapter files**, and
+writes nothing at all if either side misses. Six entries for five flags — MG-3 crosses
+a line break and the two copies wrap it identically, so it is split in two.
+
+| | before → after |
+|---|---|
+| MG-1 `ch4` | have suffered as a result**!** → have suffered as a result**.** |
+| MG-2 `ch6` | but they ask, which they **did not used to**, → but they ask, which they **did not do before**, |
+| MG-3 `ch8` | found the omission — and then **found** … that Sera had **found** it in the spring → and then **learned** … that Sera had **seen** it in the spring |
+| MG-4 `ch3` | somebody who spent **a decade** marking her own homework. → somebody who spent **years** marking her own homework. |
+| MG-5 `ch8` | I have known this **for eleven years**. → I have known this **since he came aboard**. |
+
+| check | result |
+|---|---|
+| `compile.py --check` | all anchors resolve, eight chapters, unchanged |
+| block count | 66 before, **66** after |
+| `gate.py`, marginalia surface | 0 before, **0** after |
+| exclamation marks in the frame | 1 → **0** |
+| `line_scan --margin` | 9 → **9** — expected: four of the five flags are not what any rule counts, and MG-2's `notbut` was ruled to survive on purpose |
+| body surface | **untouched** — 182, unchanged |
+
+### The residual MG-5 did not cover
+
+MG-5 was scoped to the collision I proposed removing, and it removed it. Measured after:
+**`eleven years` still appears four times**, and two of them are tenures.
+
+| | |
+|---|---|
+| `ch7:136` | **body** — Elian's treatise: *"The terms I wrote at that table have held eleven years."* |
+| `ch7:741` | margin — the annotator: *"In eleven years I have known it used four times."* |
+| `ch8:200` | margin — Elian: *"I have taught the walk-away terms for eleven years."* |
+| `ch3:11` | epigraph — *"I had been carrying it eleven years"* — a feeling, not a tenure. Not in scope |
+
+Elian's two are consistent with each other and may well be deliberate. The annotator's
+is a third, independent eleven-year span. **Flagged, not touched** — the ruling was on
+Bram's line, and choosing which of the remaining two moves is the same kind of call.
