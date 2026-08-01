@@ -108,17 +108,15 @@ Sometimes it required someone to say *no.*
 
 Nobody present knew how to do that without feeling wrong for doing it.
 
-The village started mistaking politeness for peace. Started confusing *everyone being comfortable* with *everyone being safe.* The Regent had built walls, and the walls held, but the Regent's walls could not tell you when someone leaned against them in a way that would eventually bring them down. Only the Challenger could feel that. Only the Challenger's fire could detect the subtle shift from *boundary held* to *boundary eroding.*
+The village still needed someone to say *this is not acceptable*, and drew a preference instead. *I'd rather we didn't* names a taste, and anyone can outvote a taste.
 
-Without the Challenger, the village developed a sophisticated language for everything except the clean no.
+It still needed someone to stop a thing while it was still happening, and scheduled a follow-up. By the time the follow-up arrived the pattern had completed, and everyone agreed that it was regrettable.
 
-It got very good at *assertive communication.* At *using "I" statements.* At framing a boundary as a preference rather than a line. (The workshops teach the scripts. The scripts do not work the way the workshops promise, which anyone who has run one in a live moment already knows.) "I prefer not to be spoken to that way." "I would appreciate it if we could revisit that decision." The village learned to make its nos sound like yeses because yeses cost less. Because a no, even a gentle no, even a well-crafted I-statement no, still carried the risk of being unwelcome.
+It still needed someone to insist, and made a request. People answer requests when convenient, which is not the same as answering them.
 
-So the village started letting things slide. Small violations first. Then larger ones. Not because the village didn't feel them (the village felt every one of them) but because the village had lost the Challenger's gift: the willingness to name the violation as a violation without also naming it as a catastrophe. The Challenger could say *this is not okay* and *we can still be in relationship* at the same time. The village, without the Challenger, could no longer hold those two things together.
+It still needed someone to decline outright, and offered availability with conditions. Nobody could say *I will not* without a sentence after it explaining why they were still a good person.
 
-Without the Challenger, the village also lost something else: the willingness to *be* unwelcome.
-
-The village became afraid of conflict the way a body becomes afraid of a low-grade fever, something to be suppressed rather than something to be read. Conflict became evidence of failure. Disagreement became evidence of dysfunction. The Challenger's fire (the willingness to push back, to name, to stand) became something the village treated as a symptom of its own inadequacy rather than a capacity it needed to develop.
+It still needed someone to say plainly what an arrangement already cost, and issued a warning instead. A warning threatens what the village would have to do next. What the village had lost was the nerve to report what its own arrangements were doing already, without anybody having to lift a hand.
 
 The village does this with the clean no once the Challenger has gone: it transforms it into *performative diplomacy.* Into "let's find common ground" when the crossing violated the common ground itself. Into *understanding the other person's perspective* when the other person's perspective includes your erasure.
 
