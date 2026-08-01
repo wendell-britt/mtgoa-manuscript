@@ -169,14 +169,23 @@ exercise: the reader does nothing, or the reader runs a competent 3-2-1 on a cha
 actually have and concludes the practice does not work. A guessed charge that lands is a gift;
 a guessed charge that misses has to have an exit.
 
-**Stated in full once, in the ch3 teaching:**
+**Stated once, in the ch3 teaching:**
 
-> Each chapter ahead opens the pass with a sentence. Treat it as a starting sentence rather
-> than an assignment. It is a good guess about where a reader of that chapter tends to be
-> stuck, and a guess is the most it can be, because the charge is yours and I have never met
-> it. If the sentence does not move anything in you, replace it with the one that does. A
-> 3-2-1 run on a real charge you found beats one run on the right-sounding charge somebody
-> handed you, every time.
+> Each chapter opens the pass with a sentence. Work it if it moves something in you. If it
+> doesn't, work the charge that does. This runs on a live charge and does nothing on a
+> plausible one.
+
+**37 words, cut from 87.** Wendell on the first version: *"verbose… we have to earn every word
+and the only thing earned here is 'why you shouldn't be mad at me for doing XYZ'."* He is right,
+and the diagnosis is more useful than the cut. What went was all one thing — the author
+defending his own guess: *a good guess about where a reader tends to be stuck*, *a guess is the
+most it can be*, *the charge is yours and I have never met it*, *the right-sounding charge
+somebody handed you*. Four hedges apologising for the same decision.
+
+What is earned is the instruction and the mechanism. The last sentence stays because it is a
+fact about how the practice fails — a plausible charge produces a competent exercise and no
+alchemy — rather than a defence of having offered one. **The rule this establishes for the
+whole spec: state the mechanism, never the apology for the mechanism.**
 
 **Carried in every later block in one line**, immediately under the territory sentence:
 
@@ -271,7 +280,7 @@ practice it fully in Chapter 4."* That deferral is what started this problem.
 5. Ruling 3 stated plainly: the form is generic, the charge is theirs, and no book can supply
    it.
 
-Budget **~800 words**, up ~550 from today.
+Budget **~750 words**, up ~500 from today.
 
 `ch4:458` then compresses from ~640 words to a standard Figure Pass at ~200, since its teaching
 load has moved. Its content is not lost; it relocates. **ch4 is the one chapter that gets
@@ -321,14 +330,14 @@ The last row is a live defect independent of this spec.
 
 | | words |
 |---|---:|
-| ch3 teaching, expanded (magic words, substitution, safety) | +550 |
+| ch3 teaching, expanded (magic words, substitution, safety) | +500 |
 | ch4 figure pass, compressed from the old full block | −440 |
 | Figure + Daemon passes, ch3–ch8 (12 × ~190) | +2,280 |
 | ch2 Protector plant | +40 |
 | Polarity draws, ch3 and ch8 | +300 |
 | Cross-reference repairs | ~0 |
-| Substitution clause, 11 words × 12 blocks | +130 |
-| **Net** | **≈ +2,860** |
+| Substitution clause, 11 words × 6 figure passes (not the daemon pass, per R1a) | +70 |
+| **Net** | **≈ +2,750** |
 
 At ~320 words/page that is **9 pages**, under the 10–20 estimate, because ch4 compresses and
 the worked examples consolidate into ch3 instead of repeating twelve times.
