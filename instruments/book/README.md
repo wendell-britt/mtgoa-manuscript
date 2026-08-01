@@ -129,6 +129,13 @@ made the build unreproducible. Any font warning fails the build.
 **6x9in, mirrored margins**, inside 0.95in for a perfect-bound gutter at this page
 count. A different binding wants a different inside margin.
 
+**The contents runs two pages, and that is the design.** Each chapter gets three
+lines — Face name, clause, subtitle — rather than the joined
+`The Shaman: What to Do With What You Feel` that `build_book.py --toc` prints.
+Same content; the plain-text list has one line per entry to work with and a page
+does not. Squeezed onto one page it wrapped mid-phrase on six of the nine, which
+is what a cramped contents actually looks like.
+
 **The EPUB drops the half title and the generated contents.** A half title is a
 leaf protecting the title page and an ebook has no leaves; the contents is a print
 component, and a reader already has a nav document plus pandoc's TOC. Both are

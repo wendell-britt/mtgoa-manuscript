@@ -321,6 +321,7 @@
   }
 
   [#metadata((kind: kind, id: id, label: label, title: title, book: book,
+              clause: clause, subtitle: subtitle,
               toctitle: if toctitle != "" { toctitle } else { title })) <mtgoa-opener>]
 
   // Everything a display page draws goes inside one block, and the reason is the
@@ -408,7 +409,7 @@
   let rows = query(OPENER-MARK).filter(o => (
     o.location().page() > start and o.value.id != "contents"))
 
-  set par(justify: false, first-line-indent: 0pt, leading: 0.55em)
+  set par(justify: false, first-line-indent: 0pt, leading: 0.5em)
   // A contents page is scanned, not read. A word broken across two lines of
   // an entry — "Without Leav- / ing the Table" — costs more than the ragged
   // edge it buys.
@@ -417,24 +418,41 @@
   for o in rows {
     let e = o.value
     let p = folio(o.location())
-    if last-kind != none and e.kind != last-kind { v(0.7em) }
+    if last-kind != none and e.kind != last-kind { v(1.1em) }
     last-kind = e.kind
 
-    // Three columns, not two, and the reason is the clause. Since every chapter
-    // gained one the titles run long enough to wrap, and with the label in the
-    // same cell the second line started under "Chapter 5" instead of under the
-    // title — so the list had no left edge to read down. Its own column gives it
-    // one, and it lines the front and back matter entries up with the chapter
-    // titles rather than with the labels.
+    // Three columns, not two, and the reason is the clause. With the label in the
+    // same cell as the title, a wrapped second line started under "Chapter 5"
+    // instead of under the title, so the list had no left edge to read down. Its
+    // own column gives it one, and it lines the front and back matter entries up
+    // with the chapter titles rather than with the labels.
     //
-    // The folio sits `top` for the same reason: on a two-line entry, `bottom` put
-    // the page number beside the wrapped tail, a line below the entry it belongs to.
-    block(width: 100%, above: 0.55em, below: 0em, {
+    // The folio sits `top` because an entry is three lines deep and the number
+    // belongs beside the first of them.
+    block(width: 100%, above: 0.95em, below: 0em, breakable: false, {
       grid(columns: (LABEL-COL, 1fr, auto), column-gutter: 0.55em,
         if e.label != "" and e.kind in ("chapter", "appendix") {
           align(top, text(size: sz(9pt), tracking: 0.12em, smallcaps(e.label)))
         } else { [] },
-        text(size: sz(11pt), e.at("toctitle", default: e.title)),
+        // Each deck on its own line rather than run together with a colon.
+        // `build_book.py`'s `toc_title` sets the pair as one string because it
+        // prints a plain-text list; a page has the room to give them a line each,
+        // and after the clause landed on all nine the joined form was wrapping
+        // mid-phrase on six of them. Same content, better line breaks — and the
+        // subtitle comes too, which is what build_book.py's contents lists.
+        {
+          text(size: sz(12pt), e.title)
+          let clause = e.at("clause", default: "")
+          let subtitle = e.at("subtitle", default: "")
+          if clause != "" {
+            linebreak()
+            text(size: sz(10pt), clause)
+          }
+          if subtitle != "" {
+            linebreak()
+            text(size: sz(9.5pt), style: "italic", subtitle)
+          }
+        },
         align(top + right, text(size: sz(10pt), if p == none { "" } else { p })),
       )
     })
