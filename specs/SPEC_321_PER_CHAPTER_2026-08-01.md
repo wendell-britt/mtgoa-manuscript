@@ -139,28 +139,35 @@ and not the argument for it.
 from the chapter's own account of it, which is what makes them land rather than read as
 accusations the book invented.
 
-### The shape, established by Wendell's revisions 2026-08-01
+### The shape — CORRECTED 2026-08-01
 
-He rewrote three of the six, and all three moved the same way: **from outcome to motive.**
+Wendell's revisions moved three rows from outcome to motive, and I wrote that up as a
+requirement: *"a 3-2-1 target needs a want, because Step 2 is a conversation."* **He overruled
+it: *"We don't NEED a motive."*** He is right, and the same error had already been made once
+today, in §3c — an observation that held for three cases promoted to a law that governs all six.
 
-| mine | his |
+**The actual test is whether the reader can say the sentence and mean it.** A motive often gets
+it there and is not the only thing that does. The six as ruled use four different shapes:
+
+| shape | rows |
 |---|---|
-| doesn't say no because I have bad boundaries | doesn't say no **because I'm afraid of disappointing people or making them feel uncomfortable** |
-| explains the system so I never have to have been there as a person | **is obsessed with trying to understand and fix systems so** I don't have to show up to the problems right in front of me |
+| a state | ch3 — *is disconnected from my feelings* |
+| a felt reason | ch5 — *because dropping it would feel like a betrayal* |
+| a belief | ch7 — *believes that if I hear everyone out I've done my part* |
+| a motive | ch4, ch6, ch8 |
 
-**A 3-2-1 target needs a want, because Step 2 is a conversation.** A part that is afraid of
-disappointing people will answer when the reader asks what it is protecting. *"Warm, dependable,
-and doing nothing"* has nothing to say, because it names a result rather than a driver — it is
-a diagnosis, and you cannot interview a diagnosis.
+**The variety is worth more than the consistency would have been.** Twelve blocks are going into
+this book, and six territories built to one formula would rhyme down the length of it — the
+robotic-rhythm defect the §4 variance rule exists to prevent, arriving through the back door of
+a well-intentioned pattern.
 
-This also puts the sentences in line with the book's own shadow doctrine, `ch2:73`, from
-Carolyn Elliott: the Shadow is *"a pattern that has been doing something specific for you."* The
-territory should name what the pattern is **doing for the reader**, not what it costs them. The
-cost is what the receipt is for.
+**ch3 stays a state, deliberately.** Numbness does not feel like it wants anything from the
+inside, which is the ch3 reader's whole problem. Giving it a motive would make the sentence
+tidier and stop it being true.
 
-**Consequence: they run longer than the first draft, and that is correct.** A motive takes a
-clause. The constraint is that these get said out loud, so the test is the mouth rather than the
-line length.
+The one thing every row still has to do is name what the pattern is **doing for the reader**
+rather than what it costs them — `ch2:73`, Carolyn Elliott, the Shadow as *"a pattern that has
+been doing something specific for you."* The cost is what the receipt is for.
 
 | ch | Face | *"There is a part of me that…"* | Source | Daemon |
 |---|---|---|---|---|
@@ -168,13 +175,19 @@ line length.
 | 4 | Challenger | …doesn't say no because I'm afraid of disappointing people or making them feel uncomfortable | **Wendell's words, revised 2026-08-01** | Skeptic |
 | 5 | Regent | …keeps the form because dropping it would feel like a betrayal | ch5, Section 2, *"obedience without understanding… performed the role and forgot the person"* | Fixer-Healer |
 | 6 | Architect | …is obsessed with trying to understand and fix systems so I don't have to show up to the problems right in front of me | **Wendell's words, 2026-08-01**; ch6 polarity supports it: *"the one account that never requires you to have been there as a person"* | Emotional Body |
-| 7 | Diplomat | …is warm, dependable, and doing nothing | ch7:185, verbatim: *"Care without impact is attendance: warm, dependable, and doing nothing"* | Victim |
-| 8 | Sage | …watches from the doorway and calls it perspective | ch8:282, near-verbatim: *"Are you in it, or watching from the doorway?"*; ch8:280 *"a tourist looks at a museum"* | Damaged Self |
+| 7 | Diplomat | …believes that if I hear everyone out I've done my part | **Wendell's, ruled 2026-08-01**, full stop — the payoff clause was offered and declined | Victim |
+| 8 | Sage | …is always working on myself so I never have to be judged on what I actually did | **Wendell's, ruled 2026-08-01** | Damaged Self |
 
-**ch8 was the row Wendell flagged** (*"except for maybe chapter 8"*). The first draft had *"the
-one who sees the whole board and declines to be moved"* — an admired detachment, which is the
-golden-shadow framing ruling 6 rejects. The doorway line is the chapter's own name for the same
-thing seen as a cost, and it is already three paragraphs from where the pass will sit.
+**ch8 took two passes.** The first draft had *"sees the whole board and declines to be moved"* —
+admired detachment, the golden-shadow framing ruling 6 rejects. The second had *"watches from
+the doorway and calls it perspective,"* faithful to `ch8:282` and carrying a defect Wendell
+caught first: **it rhymed with ch6.** Both would have escaped into an activity so as not to show
+up, and two adjacent Faces cannot share a failure or the reader stops telling them apart.
+
+The ruled version separates them on the escape route rather than the tail. **ch6 escapes into
+the system; ch8 escapes into its own development.** It is also the row most specific to this
+book's reader — therapy, coaching, workshops, *Reinventing Organizations* — for whom the
+eternal-student trap is not a hypothetical.
 
 **How the two doors work.** The territory is stated as the trait, because that is what the
 chapter can name. The reader enters through whichever door is live: a person who carries the
