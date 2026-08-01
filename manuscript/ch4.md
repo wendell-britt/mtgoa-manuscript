@@ -399,7 +399,7 @@ Most people skip all of this. Most people either say nothing (and resent the per
 
 **This is the rep. This week, run it once.** Not the hardest line you're avoiding: the next real one. A meeting, a thread, a table where something crosses and you'd normally let it go. Feel the charge, aim, act in one sentence, exit. Thirty seconds. You don't need it to land well. You need it to *exist.*
 
-*You drew a line in the Village, or you watched yourself not. Before the story sets: what was the charge in your body, what did you actually say (or swallow), and what did it cost? Two minutes in the app, while it's still warm. → app*
+*You drew a line in the Village, or you watched yourself not. Before the story sets: what was the charge in your body, what did you actually say (or swallow), and what did it cost? Two minutes in the app, while it's still warm.*
 
 **When the Line Has Been Crossed Before: The Reckoning**
 
@@ -498,7 +498,7 @@ Speak AS the part. One paragraph. No "I notice a part of me."
 
 **4. RECEIPT.** Sit thirty seconds. Did the charge move? Up, down, into clarity? That's fuel returning, available for a clean line, not an explosion.
 
-**→ app:** Capture what landed. `/shadow/321`
+**:** Capture what landed. `/shadow/321`
 
 Back to the chapter. You didn't become the villain. You recovered the capacity you split off.
 
@@ -522,7 +522,7 @@ The naming does not remove the fear. The naming separates the past from the pres
 
 Find the voice. Give it a name. Say the name out loud.
 
-*You named it, or you tried. Before the name landed, while it was still just running: what channel was it? Anger, fear, sadness, joy, neutrality: one word, from your body, not your analysis. What did the naming free? → app*
+*You named it, or you tried. Before the name landed, while it was still just running: what channel was it? Anger, fear, sadness, joy, neutrality: one word, from your body, not your analysis. What did the naming free?*
 
 ---
 
@@ -564,7 +564,7 @@ Then give the audit a deadline, because running out the clock is the shadow's en
 
 It shows up in a single beat. Someone says the thing in the meeting. Heat arrives in your chest: that is Charge, on time, doing its job. On the widened remit the audit opens before you can aim: *am I sure that is what they meant, is this even mine to call, there are people here closer to it than me*, and by the time the audit has finished weighing its own evidence the agenda has moved two items on and the heat has nowhere to go but home with you. On the narrow remit the same auditor gets the same breath and returns the verdict it could have returned all along: *real, and current.* Then you say the sentence. The same part applies the same rigor either way. Only the jurisdiction you gave it changed.
 
-*Bring one real moment the Skeptic closed the case on a charge before you could aim it, a crossing you talked yourself out of with "I'm probably overreacting," or a read you handed to someone with more standing and then walked away from. Name which question it was actually running: was it auditing the charge, or auditing you? Two minutes to capture it as a BAR. → app*
+*Bring one real moment the Skeptic closed the case on a charge before you could aim it, a crossing you talked yourself out of with "I'm probably overreacting," or a read you handed to someone with more standing and then walked away from. Name which question it was actually running: was it auditing the charge, or auditing you? Two minutes to capture it as a BAR.*
 
 ---
 
@@ -576,7 +576,7 @@ Both poles are real goods. A Challenger who cannot restrain is a hazard: every c
 
 So nobody catches the shadow in the act. It does not argue for cowardice; you would notice cowardice. It argues for Restraint, and Restraint is half of the truth. *This is not the one. This is not the moment. This is not mine to say.* Each of those can be correct. Each of them is correct sometimes. You can spend a whole career at the Restraint end of a real polarity and call it discernment, and no single instance will look like a failure.
 
-The tell is never the position. The tell is whether you ever move. An auditor that has returned *not this one* eleven times running has stopped auditing and started ruling. Look at the sequence, not the verdict, the only place the pattern shows, and the reason the app keeps count.
+The tell is never the position. The tell is whether you ever move. An auditor that has returned *not this one* eleven times running has stopped auditing and started ruling. Look at the sequence, not the verdict, the only place the pattern shows.
 
 ---
 
@@ -743,7 +743,7 @@ One line, four things: what you will do, who it reaches, by when, and what it co
 
 The tell that a quest is alive is not enthusiasm. It arrives as anticipation with some dread underneath it. For a Challenger the dread usually arrives first. Good sign, hard one.
 
-*Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it. → app*
+*Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
 
 ---
 

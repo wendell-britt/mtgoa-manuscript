@@ -480,7 +480,7 @@ Either you **claim** it: *"I'm going to carry this. I'm not waiting until I'm su
 
 Both cost something. Claiming it means you can no longer hide behind not-yet-ready. (That's the Fixer's whole racket: one more cycle of reform before you commit. You're committing first.) Reforming it out loud means risking the loyalty of people who hear "this needs to change" as "you don't love what we built." You hold both: *I love this enough to change it.* That sentence, said to their faces, compresses the Regent's entire practice into one breath.
 
-*You named an inheritance out loud, claimed it or reformed it, or you watched yourself keep performing it instead. Before the moment closes: which inheritance, what exactly you said (or didn't), and what it cost you to say it. Two minutes in the app, while the weight of it is still on you. → app*
+*You named an inheritance out loud, claimed it or reformed it, or you watched yourself keep performing it instead. Before the moment closes: which inheritance, what exactly you said (or didn't), and what it cost you to say it. Two minutes in the app, while the weight of it is still on you.*
 
 ---
 
@@ -523,7 +523,7 @@ Then put a number on it, because open-ended repair runs the shadow's entire meth
 
 It shows up in a single beat. Someone asks you to take the role: chair the meeting, hold the practice, put your name on it. Something in you says yes before you do; the inheritance lands, on time, doing its job. Then the condition opens: *not until the charter gets rewritten, not while the last person's mess is still in it, not with the funding the way it is.* Each is true. Each is repairable. Two years on, the charter has been rewritten twice, the role still has no name, and no list anywhere names the person doing all of it, because the job is a shape a body makes, not a thing anyone can take over. On the narrow jurisdiction the same part returns the same report and the answer changes: *here is what is broken, here is what I will fix in the first year, I am taking it now.* Same rigor. Same eye for damage. The only thing that changed is what you gave it authority over.
 
-*Bring one inheritance you have been repairing instead of accepting, a role you keep improving the conditions for, a practice you hold together personally because the structure will not. Name which move your Fixer is running: postponing the commitment, or substituting for the structure. Then name the cycle you would give it. Two minutes to capture it as a BAR. → app*
+*Bring one inheritance you have been repairing instead of accepting, a role you keep improving the conditions for, a practice you hold together personally because the structure will not. Name which move your Fixer is running: postponing the commitment, or substituting for the structure. Then name the cycle you would give it. Two minutes to capture it as a BAR.*
 
 ---
 
@@ -535,7 +535,7 @@ Both poles are real goods. A Regent who cannot honor will strip a tradition of t
 
 The shadow hides inside that judgment call, nearly invisible in the act. It does not argue against commitment; you would notice that. It argues for Reform, and Reform is half the truth. *This part has to change first. This is not ready. I would be signing off on something I can see is broken.* Each of those can be correct. Each of them is correct sometimes. You can spend fifteen years at the Reform end of a real polarity and call it standards, and no single instance looks like an evasion.
 
-The tell is never the position. The tell is whether anything ever gets accepted. A Fixer that has returned *not yet* through four cycles has stopped assessing and started ruling. Look at the sequence, not the verdict, the pattern shows nowhere else, and that is why the app keeps count.
+The tell is never the position. The tell is whether anything ever gets accepted. A Fixer that has returned *not yet* through four cycles has stopped assessing and started ruling. Look at the sequence, not the verdict, the pattern shows nowhere else.
 
 ---
 
@@ -648,7 +648,7 @@ One line, four things: what you will do, who it reaches, by when, and what it co
 
 The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For a Regent the dread usually concerns becoming unnecessary, and that is the dread to trust.
 
-*Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it. → app*
+*Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
 
 ---
 

@@ -377,7 +377,7 @@ You do not fight the Protector, and you do not shove past it. You thank it, and 
 
 The difference shows up in a single moment: say someone challenges you in a meeting. On survival settings, the Protector treats the challenge as an attack: you armor up, over-explain to defend your position, and wait for everyone to prove the ground safe before you will say anything true. Doing its real job, it lets you name one line, "I'm open to challenge; I'm not available for personal attacks," and stay in the conversation. The same daemon at the same speed, protecting you when a real threat arrives and standing easy when none does.
 
-*Bring one real time the Protector grabbed the joystick before you did: a moment your whole body braced against something that turned out not to threaten your life, or much else. Name the gap between what it prepared for and what was there. Two minutes to capture it as a BAR. → app*
+*Bring one real time the Protector grabbed the joystick before you did: a moment your whole body braced against something that turned out not to threaten your life, or much else. Name the gap between what it prepared for and what was there. Two minutes to capture it as a BAR.*
 
 ### Taking the Joystick
 
@@ -468,7 +468,7 @@ You don't have to know what it means. You just have to locate it.
 
 That location is data. The Shaman's first move never changes: find out where the information lives before deciding what to do with it. Before the script. Before the strategy. Before the conversation you will have in your head on the way home.
 
-*You just made the first move. Before the feeling fades, get down what you noticed, where it lived, and what it might be trying to say. Two minutes to capture it as a BAR. → app*
+*You just made the first move. Before the feeling fades, get down what you noticed, where it lived, and what it might be trying to say. Two minutes to capture it as a BAR.*
 
 ---
 
@@ -523,7 +523,7 @@ Look at what you're actually doing, underneath the instruction. The part of you 
 
 (If naming it out loud feels like claiming something that isn't yours, that's the exile talking. Say it anyway. The body that did the reading was yours the whole time.)
 
-*You said it out loud. Before the moment closes, get down what you noticed, who you said it to, and what shifted after. The read becomes a move, and the part that reads comes a little further home. Two minutes to capture it as a BAR. → app*
+*You said it out loud. Before the moment closes, get down what you noticed, who you said it to, and what shifted after. The read becomes a move, and the part that reads comes a little further home. Two minutes to capture it as a BAR.*
 
 ---
 

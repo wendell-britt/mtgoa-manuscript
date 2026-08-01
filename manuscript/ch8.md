@@ -530,7 +530,7 @@ Then put a limit on it, because an open repair schedule is the shadow's whole me
 
 It shows up in a single beat. Someone asks you for help with something real. Something in you goes wide and attentive: the Panoramic Seer arriving on time, doing its job. Then the Damaged Self opens underneath it, and what surfaces is not doubt; doubt you would catch. What surfaces is a project. *I know exactly what's happening here, and I know it because I've been the broken version of it.* So you hand them the map. The map is good. The map is also the fourth one this quarter, and nobody has ever asked you for a map. What they asked for was a hand. The conversation ends well. They leave with reading. On the narrow jurisdiction, the same part returns the same accurate report and the answer changes: *I run differently, which is why I can see this, and what I'm going to do about it is sit here and ask you a question.*
 
-*Bring one time you answered a person's problem with a framework. Name what the Damaged Self produced in the half-second before you spoke: the reading about yourself, not the feeling about it. Then write the question you would have asked instead. Two minutes to capture it as a BAR. → app*
+*Bring one time you answered a person's problem with a framework. Name what the Damaged Self produced in the half-second before you spoke: the reading about yourself, not the feeling about it. Then write the question you would have asked instead. Two minutes to capture it as a BAR.*
 
 ---
 
@@ -556,7 +556,7 @@ The Damaged Self does not argue about the game. It argues about the instrument, 
 
 The collapse runs like this. A real altitude read asks what a person can currently hold, and it applies to you as much as to anyone. The Damaged Self takes that legitimate self-read and converts it into a standing verdict: not *I can hold this much right now* but *I am the wrong size for this permanently.* Then it uses the verdict to answer game questions. Which game is this? Doesn't matter, I'm not calibrated for it. Should I name the line? Not from a broken instrument. The vertical question has eaten the horizontal one, and the eating happened in the name of accuracy.
 
-The tell is never the content of the self-assessment. Self-assessments should feel uncomfortable. The tell is whether anything downstream of one ever gets done. A self-read that has ended four consecutive situations with a decision to work on yourself first has stopped being a read and started being a jurisdiction. Look at the sequence, not the verdict, that is why the app keeps count.
+The tell is never the content of the self-assessment. Self-assessments should feel uncomfortable. The tell is whether anything downstream of one ever gets done. A self-read that has ended four consecutive situations with a decision to work on yourself first has stopped being a read and started being a jurisdiction. Look at the sequence, not the verdict, that is where the pattern shows.
 
 ---
 
@@ -716,7 +716,7 @@ One line, four things: what you will do, who it reaches, by when, and what it co
 
 A live quest does not announce itself through enthusiasm. It's anticipation with some dread underneath. At this altitude the dread usually runs like this: handing it over will prove you were never as necessary as the exhaustion suggested. That happens, and it still doesn't count as a reason.
 
-*Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it. → app*
+*Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
 
 ### The One Rep
 
@@ -724,7 +724,7 @@ You don't take all five moves into the world this week. You take the one the Sag
 
 That's the whole Sage in a single move: the seeing, said out loud, and the not-leaving.
 
-*You saw the thing, and you named it and stayed, or you held it, or you said it from above and watched them flinch. Whatever actually happened: get it down before you talk yourself into the version where you handled it perfectly. → app*
+*You saw the thing, and you named it and stayed, or you held it, or you said it from above and watched them flinch. Whatever actually happened: get it down before you talk yourself into the version where you handled it perfectly.*
 
 ---
 

@@ -324,7 +324,7 @@ Pick a group you're actually in (a team, a committee, a coalition) where everyon
 
 Then hold the flinch. Somebody will hear it as criticism: that's the cost, and you don't pay it by softening. You pay it by staying warm while you stay clear: *I'm not saying anyone failed. I'm saying the structure is doing exactly what it was built to do, and it was built for a world we're not in anymore.* That sentence carries the whole chapter: structural sight delivered as love instead of indictment.
 
-*You named an assumption out loud in a real meeting, or you watched yourself swallow it and solve the visible problem instead. Before it fades: which assumption, what you actually said, and what the flinch cost you. Two minutes in the app while it is still in your body. → app*
+*You named an assumption out loud in a real meeting, or you watched yourself swallow it and solve the visible problem instead. Before it fades: which assumption, what you actually said, and what the flinch cost you. Two minutes in the app while it is still in your body.*
 
 ---
 
@@ -392,7 +392,7 @@ It shows up in a single beat. Someone says the thing in the meeting, the sentenc
 
 On the narrow jurisdiction the same sensor gets the same six seconds and returns something you can use twice: *Fire. Chest. This one is about the sentence, not the intake form.* Then you say the sentence back (the small, unarchitected, in-the-meeting sentence) and the restructure still gets built on Thursday, sized correctly this time, because by Thursday you know what it is for. Same instrument. Same rigor. The only thing that changed is what you gave it authority over.
 
-*Bring one design you shipped fast: a fix, a process, a proposal that arrived within an hour of something landing wrong. Reconstruct the order: what did you build, and what were you feeling before you built it? If you cannot recover the feeling, that is the finding, not a failure. Name the channel now, late, from memory. Then name the size of the fix against the size of the problem. Two minutes to capture it as a BAR. → app*
+*Bring one design you shipped fast: a fix, a process, a proposal that arrived within an hour of something landing wrong. Reconstruct the order: what did you build, and what were you feeling before you built it? If you cannot recover the feeling, that is the finding, not a failure. Name the channel now, late, from memory. Then name the size of the fix against the size of the problem. Two minutes to capture it as a BAR.*
 
 ---
 
@@ -402,7 +402,7 @@ You drew the Structure ↔ Agency axis in Section 3. Here is why the Emotional B
 
 Both poles are real goods. That condition is what makes the shadow workable. A distortion that had to argue for something false would be caught in a week. The Emotional Body does not argue for coldness: you would notice coldness. It argues for Structure, and Structure is half the truth. *This is not about that person, it is about the incentive. Blame is a dead end. The individual is not the leverage point.* Each of those can be correct. Each of them is correct sometimes. You can spend an entire career at the Structure end of a real polarity and call it sophistication, and no single instance will look like an evasion, because no single instance is one.
 
-The tell is never the position. The tell is whether the answer is ever Agency. A sensor that has routed eleven consecutive events into a structural claim has stopped reading and started deflecting, and the eleventh claim is as defensible as the first. Section 3 named the drift; this is what the drift looks like from inside, where it does not feel like drift at all but like getting it right eleven times. Look at the sequence, not the verdict, that is the only place the pattern shows, and it is why the app keeps count.
+The tell is never the position. The tell is whether the answer is ever Agency. A sensor that has routed eleven consecutive events into a structural claim has stopped reading and started deflecting, and the eleventh claim is as defensible as the first. Section 3 named the drift; this is what the drift looks like from inside, where it does not feel like drift at all but like getting it right eleven times. Look at the sequence, not the verdict, that is the only place the pattern shows.
 
 ---
 
@@ -565,7 +565,7 @@ One line, four things: what you will do, who it reaches, by when, and what it co
 
 The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For an Architect the dread is usually that the thing will be built worse without you. That is frequently true and it is not a reason.
 
-*Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it. → app*
+*Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
 
 ---
 

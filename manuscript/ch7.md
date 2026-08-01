@@ -518,7 +518,7 @@ Then put a limit on it, because an open ledger is the shadow's whole method. The
 
 It shows up in a single beat. Someone tells you that something you did landed badly on them. Something in you goes still and attentive; that is the Repairer arriving, on time, doing its job. Then the ledger opens underneath it, and what surfaces is not a defence. A defence you would catch. What surfaces is a balance. *After everything I have carried here.* You do not say it. You would never say it. What you say is *I hear you,* the ledger's most efficient instrument, because it accepts the words without admitting the entry. The conversation ends warm. Nothing has been received. On the narrow jurisdiction the same part returns the same accurate report and the answer changes: *that is true, I did that, and here is what it cost you*, with your own column left closed, in your pocket, entirely real and not currently the subject.
 
-*Bring one time somebody named an impact you had and you agreed with them out loud without anything landing. Name what the ledger produced in the half-second before you spoke: the entry, not the feeling about it. Then write the one sentence you would have had to say instead. Two minutes to capture it as a BAR. → app*
+*Bring one time somebody named an impact you had and you agreed with them out loud without anything landing. Name what the ledger produced in the half-second before you spoke: the entry, not the feeling about it. Then write the one sentence you would have had to say instead. Two minutes to capture it as a BAR.*
 
 ---
 
@@ -530,7 +530,7 @@ Both poles are real goods, and this chapter is unusual in the book because its r
 
 So the shadow hides inside the act. It does not argue against impact; you would notice that. It argues for Care, and Care is half the truth, and it is the half you are good at. *This is not the moment. They are not ready to hear it. Pushing now would cost more than it gains.* Each of those can be correct. Each of them is correct sometimes. You can spend a decade at the Care end of a real polarity and call it discernment, and no single instance looks like an evasion.
 
-The tell is never the position. The tell is whether impact ever arrives without being converted into cost, whether anything anyone says about what you did gets to stay a fact about them instead of becoming an entry about you. A ledger that has answered four consecutive pieces of feedback with a balance has stopped accounting and started ruling. Look at the sequence, not the verdict. That is why the app keeps count.
+The tell is never the position. The tell is whether impact ever arrives without being converted into cost, whether anything anyone says about what you did gets to stay a fact about them instead of becoming an entry about you. A ledger that has answered four consecutive pieces of feedback with a balance has stopped accounting and started ruling. Look at the sequence, not the verdict.
 
 ---
 
@@ -629,7 +629,7 @@ The close lands clean when there's nothing left to add and you don't reach to fi
 
 **Before you name them, ask:** Am I naming this because I know what the agreement requires, or because I'm hoping the other person will talk me out of it? If you're hoping they'll talk you out of it, you're not ready to name it yet. Wait. Sit with it. Come back when you mean it.
 
-*You named your terms in a real conversation, or you softened them until they were safe, or you let the round run one more time instead. Whatever you actually did: get it down before the story tidies it up. → app*
+*You named your terms in a real conversation, or you softened them until they were safe, or you let the round run one more time instead. Whatever you actually did: get it down before the story tidies it up.*
 
 ---
 
@@ -727,7 +727,7 @@ One line, four things: what you will do, who it reaches, by when, and what it co
 
 The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For a Diplomat the dread usually says that naming the terms will cost you the belonging. Occasionally true, and not a reason.
 
-*Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it. → app*
+*Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
 
 ---
 

@@ -657,7 +657,7 @@ You do not fire the Controller. Fire the referee and your follow-through goes wi
 
 It shows up in a single beat. Someone on your team pushes through a decision a part of you clocks as wrong. On the old standard, the Controller rules the read inadmissible before you can speak (*probably just my stuff*), and you go along with the group. Refereeing the game you chose, it lets the read onto the field and holds you to your own rule, and you say the one true sentence, *"Something here doesn't sit right with me. Can we slow down?"*, even while your nerve tells you to let it go. It is the same part, blowing the same whistle. Only one thing changed: whose rules it enforces.
 
-*Bring one real moment the Controller ruled a feeling out of order before you could act on it, a read you talked yourself out of with "probably just my stuff," or a move you didn't make until it could be perfect. Name the rule it was enforcing, and whose rule it was. Two minutes to capture it as a BAR. → app*
+*Bring one real moment the Controller ruled a feeling out of order before you could act on it, a read you talked yourself out of with "probably just my stuff," or a move you didn't make until it could be perfect. Name the rule it was enforcing, and whose rule it was. Two minutes to capture it as a BAR.*
 
 ---
 
@@ -809,7 +809,7 @@ The parable showed one of the four: Direct Action, the true thing said to a face
 
 The read has four domains, and one cheap habit that is none of them. The cheap habit is the read you keep: you sense what moves, refine it, and never say it, your body never on the line. Reading under the surface is real skill, and it asks nothing of you, because no one ever has to watch you get it wrong. A louder version of the same safety runs alongside it. You do say something, but only the correct words, the ones no one can fault, and that is the awareness trap, the domain that swallowed the others because you can run it from the chair. Both keep the true thing unsaid. The four domains are where it finally leaves: the true thing said to a face, the true thing said out loud in place of the right thing, the honest need named and asked for, the unsaid thing put on the table so a group can work. Each costs more than sensing, because each trades the safety of the accurate private read for the risk of getting it wrong out loud.
 
-So here are all four, and before them the three things that decide whether saying it helps or wounds. Not to study: pick where you'll spend the read this week, and pick the domain you keep avoiding. If the read only ever circles back into your own head, refined and unsaid, or comes out dressed in the words no one can fault, you never made the Shaman's move. You practiced it. The app keeps count, and it will tell you when you have been feeling deeply for six weeks and calling it allyship.
+So here are all four, and before them the three things that decide whether saying it helps or wounds. Not to study: pick where you'll spend the read this week, and pick the domain you keep avoiding. If the read only ever circles back into your own head, refined and unsaid, or comes out dressed in the words no one can fault, you never made the Shaman's move. You practiced it.
 
 ### How to Say It So It Helps
 When you say the true thing, what you do next decides whether it helps the person or wounds them, and the same three moves decide it in every domain.
@@ -897,7 +897,7 @@ Write yours in one line with four things in it: what you will do, who it reaches
 
 The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. Enthusiasm alone usually means you have picked something you were already going to do.
 
-*Draw one card from your twenty, by hand or by letting the app deal it. Run the five moves on a live situation. Log the BAR, then convert it into one quest with a name and a date in it. → app*
+*Draw one card from your twenty, by hand or by letting the app deal it. Run the five moves on a live situation. Log the BAR, then convert it into one quest with a name and a date in it.*
 
 ---
 
