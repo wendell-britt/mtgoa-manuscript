@@ -101,7 +101,7 @@ what the files on disk contain. Strip before measuring anything else.
 | ch6.md — The Architect | 10,290 |
 | ch7.md — The Diplomat | 12,991 |
 | ch8.md — The Sage | 13,577 |
-| ch9.md — Creating Your Own Allyship Game | 12,206 |
+| ch9.md — The Player | 12,206 |
 
 Chapter 1 carries no marginalia by design. The frame is **53 blocks**;
 `compile.py --verify` confirms the body round-trips byte-identical.

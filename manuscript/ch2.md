@@ -1,33 +1,6 @@
 # CHAPTER 2: THE FOREST — Why Allyship Keeps Failing (and Where to Start)
 ## *You Cannot Ally from a Place You Have Not Explored*
 
-
-<!-- EPIGRAPH-BYLINE -->
-> *Tull walked me out and said nothing for an hour. At the treeline he said "you can stop here,"
-> and I understood that he meant it, which is the only reason I did not stop.*
->
-> — first walk, name not recorded
->
-> *They came ashore and fixed nothing for eleven days. On the twelfth they did one thing, and the
-> harbour has worked since. I do not know how they chose it. I have stopped needing to.*
->
-> — Oreve, harbour records
->
-> set down by Bram Tull, Caretaker, who was asked eleven times
-<!-- /EPIGRAPH-BYLINE -->
-
-<!-- MARGINALIA -->
-> *Bram is not faculty. He has declined to become faculty on eleven occasions, four of them in
-> writing. The Heads each carry an epithet, selected with a certain amount of ceremony. Bram has a
-> job, and has indicated that he finds this arrangement satisfactory and would prefer we stop
-> raising it.*
->
-> *He agreed to set this down because he is the only person aboard who has walked every new student
-> out the first time, and because the alternative was a committee. I want you to know what these
-> pages cost. They cost a favour I am still paying off, and a silence in a corridor that I would
-> describe as the longest of my career.*
-<!-- /MARGINALIA -->
-
 ---
 
 ## Section 1: Urgency
@@ -43,18 +16,7 @@ Nothing gives it a name at first. Just the feeling, the one that shows up late a
 
 The feeling is this: *this isn't working.*
 
-<!-- MARGINALIA -->
-> *Every world we put in at has a version of this paragraph. The wording varies. Once it was a
-> song.*
->
-> *You are not being told something new — you are being told it somewhere it is finally
-> allowed to be said out loud, which is a different service and worth more than it sounds. I have
-> heard it delivered by a harbour official who had been awake for two days, and by a child who was
-> entirely calm about it. The child was more accurate.*
-<!-- /MARGINALIA -->
-
-
-The subject of that sentence is the work. Your effort is real. Your intentions are real. Something else is failing.
+*This isn't working* is a verdict on the work, not on you. Your effort is real. Your intentions are real. Something else is failing.
 
 That hum doesn't go away when you put down the phone. It lives in the body before it reaches the mind, and it doesn't resolve with the next action item.
 
@@ -104,7 +66,7 @@ That sadness is information. It tells you what mattered.
 
 Every time we hit the wall, we have a choice: turn back, or go through.
 
-Most people turn back. The ones who don't push through instead of going through: they override the sensation, run on fumes, and eventually the body stops cooperating. Or they do the inner work in private and never find the way to carry it back to where it's needed. This is the failure mode we're building a way out of.
+Most people turn back. Of the ones who don't, most push through instead of going through: they override the sensation, run on fumes, and eventually the body stops cooperating. Or they do the inner work in private and never find the way to carry it back to where it's needed. This is the failure mode we're building a way out of.
 
 ### What's Different Now
 
@@ -154,18 +116,6 @@ For the full game taxonomy and mechanics, see Chapter 1. This chapter uses that 
 
 ## Section 3: The Forest
 ### *The Place Where the Work Actually Happens*
-
-<!-- MARGINALIA -->
-> *Skip the decision question. It is a good question and you will answer it flatteringly, because
-> it is phrased as a choice between being shallow and being brave, and nobody picks shallow at a
-> trailhead.*
->
-> *Better: think of the last time you did not say the true thing. Do not judge it. Only notice
-> whether you knew, at the time, that you were not saying it. If you knew, you were in the village.
-> If you did not know until afterwards, you were already in the forest and the forest was
-> working.*
-<!-- /MARGINALIA -->
-
 
 The Forest is a place you may not realize you've been circling.
 
@@ -273,6 +223,10 @@ That structure trains performance. It does not train play.
 
 A game teaches differently. It gives you a map, lets you make a move, shows you what happened, and lets you try again with better information. You do not become capable by memorizing the whole map before touching the joystick. You become capable by learning what it does while something is actually happening.
 
+A game also needs a somewhere. You do not make a move in the abstract. You make it in a place, against people who want something, under rules that hold still long enough for you to test them. So I set the six chapters ahead in one: a school that does not exist, on a ship, where six people teach six different ways of helping and argue with each other about the rest.
+
+The school is somewhere to stand while you practice, and that is the whole of its job. Nobody will quiz you on the plot. A teacher who has to answer for what her method costs will tell you more than a framework that answers to nobody, and the only route I found to letting you argue with a Face was to give it a mouth that argues back.
+
 Chapter 1 put the joystick in your hands. This chapter teaches you how to walk the book.
 
 You are going to meet more language than you can use all at once. That is normal. You will see the daemons more than once: first as a map, then as a walk, then as a move. The repetition is deliberate. It is how the book teaches recognition.
@@ -296,16 +250,6 @@ Those parts are daemons. A daemon runs in the background, on its own, with no on
 Seven daemons live in the Forest, and the player at its center is you. You're not here to slay these daemons but to befriend them, one by one, until the parts that have been running you are working for you instead. That is your first game of allyship: making allies of the very parts that would keep you from reaching the center.
 
 ### The Seven
-
-<!-- MARGINALIA -->
-> *You will not meet all seven. Most students finish with two, perhaps three, and leave entirely
-> competent. The full set arrives only if you take all six schools, which almost nobody does, and
-> which is not a recommendation.*
->
-> *You already have the first one. It came with the body. Bram is fond of observing that it is the
-> only member of the party that has never once had to be persuaded to turn up.*
-<!-- /MARGINALIA -->
-
 
 You meet the seven walking in, in this order. Each one gets a short entry: what it does, how it shows up once it's your ally, how it shows up as a demon still running the show, and a moment you might catch each one in play.
 
@@ -347,18 +291,6 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 
 ### The Protector, up close
 
-<!-- MARGINALIA -->
-> *The hull image is not one the school invented for teaching purposes.*
->
-> *You are shortly going to be asked to thank a part of yourself, the request will sound
-> sentimental, and I would like you to have a picture of what it looks like when an institution
-> does it in earnest. Ask anyone in engineering. They will tell you the hull is the only part of
-> this ship that has never once sat in a meeting about its own performance. It braces. It has no
-> opinion. It is thanked annually, by tradition, on a day nobody can attend, because we are always
-> underway.*
-<!-- /MARGINALIA -->
-
-
 The Protector works the door of the Forest. You meet it first, the most physical of the seven. The Protector is the hull of the ship, the body itself, holding its shape, keeping the water out, taking the hit when a hit comes. It is the embodied feeling of self-preservation. It does not argue or explain; it braces. It knows danger before you could prove it to anyone, because a hull that waits for proof is already taking on water.
 
 The instant something reads as a threat (a shift in tone, a move for power), the Protector has already braced to meet it, faster than thought. That speed has kept you alive, and you want to keep it. The next chapter teaches you to read the fear channel it runs on, which is where steering it starts.
@@ -367,7 +299,7 @@ The trouble: a hull built to survive cannot always tell which century it is in. 
 
 The Protector does the job cheaply by bracing everywhere. A hull that treats every century as the dangerous one never misses a threat, and never has to work out which threat is here, which is the reason the Protector prefers that setting, and the reason the tightening between hard conversations stops having a target and just hums. Vigilance runs at a higher price and buys aim: this tone, this move for power, this person, now. A Protector on survival settings has stopped looking, and blanket bracing feels identical from the inside to paying attention.
 
-When the Protector holds the joystick, I walk into a conversation already armored, braced against something that has not happened, and the person across from me meets the hull before they meet me. It trades contact for control and calls the trade safety.
+When the Protector holds the joystick, you walk into a conversation already armored, braced against something that has not happened, and the person across from you meets the hull before they meet you. It trades contact for control and calls the trade safety.
 
 This daemon, of all seven, stands at the threshold of a book about allyship for a reason. You can hardly protect anyone else while your own hull is breached. When you are frightened, depleted, or under real threat, the Protector spends everything you have on you, and nothing remains to carry into someone else's fight. The body knows one shortcut around this, worth naming because it looks like love: you pull the other person inside your own hull, so that protecting them and protecting yourself become a single act. A mother does this with a child, and it is real. It also takes the wrong shape for allyship, because it only works by making the other person part of you, and the person you are allying with is not you. They are their own ship. To stand with them as someone separate, you have to be resourced enough that your Protector has not already spent your last reserves keeping you afloat.
 
@@ -475,14 +407,6 @@ That location is data. The Shaman's first move never changes: find out where the
 ## Section 8: The Game
 ### *Five Moves for the Threshold*
 
-<!-- MARGINALIA -->
-> *I have taught these five for a long time and I still cannot do the second one without rehearsing
-> it in a corridor first.*
->
-> *I am told this is common. I am told this by people who are being kind.*
-<!-- /MARGINALIA -->
-
-
 If you're still reading, you've already been playing. Here's an opening game, five moves you can run the next time a daemon grabs the joystick.
 
 **Move 1: Spot who's holding the joystick.**  
@@ -563,5 +487,11 @@ From here you have two routes:
 
 1. **Straight through (recommended):** continue to Chapter 3 and build the sequence in order. The Shaman trains emotional signal-reading and regulation, the base layer the other faces depend on, and the reason to start there.
 2. **Guide-first:** jump to the chapter of the guide question that hit you hardest, then come back to fill the sequence.
+
+Turn the page and a letter is waiting, from the Headmaster of that school. After it, six chapters, and each opens with a treatise by the person who runs one of the six schools: their method, in their voice, carrying their bias and their quarrel with the other five. It runs as ordinary text until you reach a signature at the close of its third section. That is where a submitted document signs itself. Everything past that signature is me.
+
+The boxed inserts belong to the school as well: an admissions page saying who they take and what it costs, students and citizens on the record about what the teaching did to them, and a margin in a hand that never signs.
+
+Read those pages the way you would read a teacher you have not made up your mind about. Six people each solved one part of this and cannot agree on the rest, and I would rather hand you the argument than the summary.
 
 Either way, the Forest is ahead and your hands are on the joystick. The only move left is through.

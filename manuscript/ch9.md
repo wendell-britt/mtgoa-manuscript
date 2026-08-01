@@ -1,4 +1,4 @@
-# CHAPTER 9: CREATING YOUR OWN ALLYSHIP GAME
+# CHAPTER 9: THE PLAYER — Building Something and Putting It in Front of One Person
 ## *The Return — From Playing the Game to Designing It*
 
 
@@ -154,7 +154,7 @@ This book is my Founder move. I built the thing I needed and couldn't find: a pr
 
 If that describes you, if you have a specific thing you want to build and you know it has to be you, the fastest path I know runs through working on it with me, one-on-one. That's the coaching. It's what I do.
 
-Let me say plainly what that means. I built a method. Right now I'm essentially the only one running it in this mode. That's true today. It won't stay true, I wrote this down so the map would live in more hands than mine. You've been holding that map since Chapter 2. The coaching adds a second set of eyes already trained on these six Faces, because you almost always need the Face you've spent years avoiding by performing another, and catching yourself at that alone is the hard part. Someone who already knows the terrain finds it faster than you will by yourself. That's the whole job.
+Let me say plainly what that means. I built a method. Right now I'm essentially the only one teaching it this way. That's true today. It won't stay true, I wrote this down so the map would live in more hands than mine. You've been holding that map since Chapter 2. The coaching adds a second set of eyes already trained on these six Faces, because you almost always need the Face you've spent years avoiding by performing another, and catching yourself at that alone is the hard part. Someone who already knows the terrain finds it faster than you will by yourself. That's the whole job.
 
 If you want the method itself (to run it for other people, not just for the thing you're building) that's the succession this whole book has been pointing at, and it's the work I most want to hand off. Reach out: wendell@masteringallyship.com. I am looking for people to carry this.
 
@@ -471,7 +471,7 @@ You are ready to be useful.
 
 ---
 
-*Before you step into the game: a gate scan. Eight gates, eight questions. One of them is live in you right now: the Face that showed up most in your building work. Find it. Capture it.*
+*Before you step into the game: a gate scan. Seven daemons and the child at the center: eight gates, eight questions. One of them is live in you right now: the Face that showed up most in your building work. Find it. Capture it.*
 
 *The Protector showed up in your building, and not as the old guardedness. Something specific you've been protecting about what you're building, or from the people who might encounter it. Name what the protection is actually guarding. That's what you have.*
 

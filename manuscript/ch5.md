@@ -1,4 +1,4 @@
-# CHAPTER 5: THE REGENT
+# CHAPTER 5: THE REGENT — What You Inherited, and What You Do With It
 ## *Traditions Worth Protecting and Worth Breaking*
 
 
@@ -186,7 +186,7 @@ You know which part of that paragraph is yours. I don't need to name it.
 
 The School of the Oath is not a defense of the organizations that used tradition to protect power. That happened. It kept happening. The thing you walked away from was real.
 
-Here's what it is: a question about what you built instead, and whether it lasted, and whether you can see the connection.
+Here's what it asks: what you built instead, whether it lasted, and whether you can see the connection.
 
 The Regent's gift passes something down, builds a thing bigger than any one person's presence in it, a thing that knows how to receive a new person and what to give them, that can survive the loss of its founder. The gift is loyalty kept for those who have not yet arrived. That gift is distinct from conservatism, from rigidity, and from "this is how we've always done it."
 
@@ -269,7 +269,7 @@ Honor what was passed means keeping the form, protecting what works, staying loy
 
 Reform what no longer serves means updating the form when the essence requires it. Naming what broke without dismantling what still holds. Changing what loyalty actually demands, not just what loyalty has always looked like.
 
-You know this tension from the inside. The practices you inherited from the work (the frameworks, the vocabulary, the rituals someone before you built with real stakes): some of them are still load-bearing. Some of them became something else: a form that performs the commitment without keeping it. You know which ones. You've stood in circles where the acknowledgment was said and the land was not returned. You've used vocabulary that used to mean something and now signals membership more than it moves anything. You keep the forms because dropping them would feel like a betrayal of someone whose effort you still respect. That is the Regent's pair in active tension. It goes on record here because from the inside it reads as weakness, and keepers before you have filed the tension under that name.
+You know this tension from the inside. The practices you inherited from the work (the frameworks, the vocabulary, the rituals someone before you built with real stakes): some of them are still load-bearing. Some of them became something else: a form that performs the commitment without keeping it. You know which ones. You've stood in circles where the acknowledgment was said and the land was not returned. You've used vocabulary that used to mean something and now signals membership more than it moves anything. You keep the forms because dropping them would feel like a betrayal of someone whose effort you still respect. That is the Regent's pair in active tension. It is named here because from the inside the tension reads as weakness, and keepers before you have filed it under that name.
 
 The draw is solo. Not a conflict between you and another person. Your inheritance. Your axis. What you personally received, kept, and are now in the middle of deciding about.
 
@@ -489,7 +489,7 @@ Both cost something. Claiming it means you can no longer hide behind not-yet-rea
 
 You met the Fixer-Healer at the door of the Forest, fourth in line, one step past the Skeptic. The Protector decides whether you go in. The Controller decides how you may behave once you are inside. The Skeptic decides whether what you react to was ever real. The Fixer-Healer decides something none of them touch: whether the thing in front of you is in good enough condition to be given yourself to.
 
-At its best this part of you does not look away from damage. Something you inherited is broken: an organization with a founding story that stopped being true, a practice that has drifted from what it was for, a family pattern nobody has named in three generations. Most people manage the discomfort of that by not seeing it. The Fixer-Healer sees it, names it, and starts work. That is the only reason anything inherited ever improves, and it will look like meddling to somebody. Somebody repaired every tradition still worth having, noticed it failing, and did something about it instead of calling the failure sacred.
+At its best this part of you does not look away from damage. Something you inherited is broken: an organization with a founding story that stopped being true, a practice that has drifted from what it was for, a family pattern nobody has named in three generations. Most people manage the discomfort of that by not seeing it. The Fixer-Healer sees it, names it, and starts work. That is the only reason anything inherited ever improves, and it will look like meddling to somebody. Every tradition still worth having had someone who noticed it failing and did something about it instead of calling the failure sacred.
 
 The repair itself is sound. The distortion is what gets attached to it.
 
@@ -517,7 +517,7 @@ I have a part of me I call Mr. Inadequate. He has been showing up since I was tw
 
 You do not fire the Fixer-Healer. Fire the part of you that notices damage and you will spend your life tending things that stopped working before you arrived, calling that faithfulness. You take the joystick back by giving it its actual jurisdiction and taking away the one it appointed itself to.
 
-*Tell me what is broken. All of it, in detail: that is the report I want, and I will act on it. Whether I commit is not in your remit. That was settled when I accepted this.*
+*Tell me what is broken. All of it, in detail: that is the report I want, and I will act on it. Whether I commit is not yours to decide. That was settled when I accepted this.*
 
 Then put a number on it, because open-ended repair runs the shadow's entire method. The Regent works in years, so the deadline is not a breath: it is a count. *One cycle. Name what changes in that cycle, and I will do the work. At the end of it I am carrying this either way.* One cycle is enough for the question actually asked. It is not enough for the other one, and it was never meant to be.
 
@@ -543,7 +543,7 @@ The tell is never the position. The tell is whether anything ever gets accepted.
 
 The Fixer-Healer developed does one thing nothing else in this chapter can do: it lets you say what is wrong with something you have already committed to. That combination comes rarer than it sounds. Most people manage one or the other, loyal and blind, or clear-eyed and uncommitted. Holding both makes an inheritance transmissible, because the next person needs the damage report and the commitment in the same hand. A tradition handed over with all its flaws named is a tradition someone can actually take.
 
-That lays the foundation of the Regent's superpower, which puts what you received into a form the next person can receive (endurance and loyalty are the entry requirements): the account of where this came from, what it cost, what broke, what still holds, and why any of it is worth their time. That is how something survives its carrier. Not by being held. By being told, in full, to someone who can pick it up. That is the Storyteller.
+That lays the foundation of the Regent's superpower, which puts what you received into a form the next person can receive: the account of where this came from, what it cost, what broke, what still holds, and why any of it is worth their time. That is how something survives its carrier. Not by being held. By being told, in full, to someone who can pick it up. That is the Storyteller.
 
 You know what your Fixer is for now. That is what you take out.
 
@@ -616,7 +616,7 @@ Same grid, one operation further along. Five moves down (the WAVE-Spiral), four 
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
-The Regent's Show Up cards are the only ones in the deck built entirely out of verbs for keeping: hold, keep, sustain, tend. Nothing in it is made. That marks the difference between building something and inheriting it, and it makes this operation the slowest of the six. Read down for the sequence, across for the arena.
+The Regent's Show Up cards are the only ones in the deck built entirely out of verbs for keeping: hold, keep, sustain, tend. Not one of them makes anything new. That marks the difference between building something and inheriting it, and it makes this operation the slowest of the six. Read down for the sequence, across for the arena.
 
 ### Drawing Against the Shadow
 

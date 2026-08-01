@@ -343,7 +343,13 @@ def check_anchors(insertions_path, chapter_dir):
         # from the prose beside it, so on an applied manuscript the anchor text
         # legitimately appears twice — once in the body, once quoted in the note.
         txt = MARG_BLOCK.sub("", open(files[ch]).read())
-        for anchor, _ in rows:
+        # ch8's rows carry a third field, the signature, because in that chapter the
+        # margin changes hands and six people sign what they wrote. Every other chapter
+        # is a 2-tuple. Unpacking exactly two crashed check_anchors on ch8 from the day
+        # the signatures landed (2026-07-30) until this was found on 2026-08-01, which
+        # meant test_toolchain.py had been dying before its last assertion ran.
+        for row in rows:
+            anchor = row[0]
             n = txt.count(anchor)
             if n != 1:
                 flag("BLOCK", "anchor not unique", f"ch{ch}",

@@ -1,5 +1,5 @@
-# CHAPTER 4: THE CHALLENGER
-## *The Clean "No" as the Foundation of Real Allyship*
+# CHAPTER 4: THE CHALLENGER — Who Pays When Nobody Says No
+## *The Willingness to Be Unwelcome*
 
 
 <!-- EPIGRAPH-BYLINE -->
@@ -31,7 +31,7 @@
 >
 > **3. What it costs.** You will be unwelcome in small ways, more often than you have budgeted
 > for, and somebody whose opinion you value will call you difficult where you can hear it.
-> Students who wait until they feel ready have suffered as a result!
+> Students who wait until they feel ready have suffered as a result.
 >
 > **4. What we do not teach.** Repair. You will object that a limit without repair is cruelty.
 > It is not, it is incomplete, and incomplete is a different problem with a different address.
@@ -160,7 +160,7 @@ Most people can do part one. Some people can do parts one and two. Very few peop
 
 Because a boundary that does not include the cost is not a boundary. It is a request you haven't stopped making yet. It is the hope that someone will respect your line without you having to enforce it. Hope, in the domain of boundaries, is not a strategy.
 
-The Challenger learned this the hard way, by watching boundaries dissolve, relationships violate, and lines get crossed because someone stated a preference instead of drawing a line.
+The Challenger learned this the hard way, by watching boundaries dissolve, relationships rupture, and lines get crossed because someone stated a preference instead of drawing a line.
 
 Real allyship requires the clean no. Not because allyship is about conflict. Allyship means being present with people across power differentials. Power differentials require the ability to *name* them, *hold* them, and *respond* to their violation without collapsing.
 
@@ -168,7 +168,7 @@ The village without the Challenger cannot do this. The village can feel the viol
 
 Compassion is not the same as clarity. Clarity, in the domain of allyship, sometimes does the more loving work.
 
-The Challenger's gift is meaning it. From outside it will look like fighting. Ignore that. To draw a line and hold it. To say no and mean no. To be unwelcome in service of what is actually true.
+The Challenger's gift is meaning it. From outside it will look like fighting. Let it look like that. To draw a line and hold it. To say no and mean no. To be unwelcome in service of what is actually true.
 
 Keep the anger past the heat. What remains is will.
 
@@ -357,7 +357,7 @@ The Challenger's natural flow moves through the channels in this order:
 
 **Charge → Aim → Push → Rest → Repair → Charge.**
 
-You do not sustain the fire indefinitely. The Challenger's cycle teaches you to *strike and then tend.* After the push (after you draw the line, make the demand, state the refusal), you rest. You let the field settle. You do not retraumatize the other person by returning to the confrontation before the moment has passed.
+You do not sustain the fire indefinitely. The Challenger's cycle teaches you to *strike and then tend.* After the push (after you draw the line, make the demand, state the refusal), you rest. You let the field settle. Going back before the moment has passed retraumatizes the person you confronted.
 
 Then you repair, not apologize for, not soften, but *repair.* Meaning: you make clear that the line addressed the behavior, not the person. That your willingness to be unwelcome does not mean your willingness to be cruel. That you drew the boundary in service of the relationship, not against it.
 
@@ -431,7 +431,7 @@ I don't even remember their name. I can remember their story, but the person ins
 
 I drew the line. I lost the relationship. That's the deal.
 
-What I've watched happen when the line doesn't get drawn does more damage. Well-meaning people who had decided their perspective didn't belong in the conversation, keeping their mouths shut while the charge built. Then it found an exit: not as a clean line, but as an explosion. Months of swallowed charge, wrong target, wrong register. Everything stopped in a particular way. They didn't come back after that.
+What I've watched happen when the line doesn't get drawn does more damage. Well-meaning people who had decided their perspective didn't belong in the conversation, keeping their mouths shut while the charge built. Then it found an exit: not as a clean line, but as an explosion. Months of swallowed charge, wrong target, wrong register. Everything stopped. The people on the other end of it didn't come back.
 
 The fire was real. The line was real. Without the practice to draw it clean, the fire just burned everything down.
 

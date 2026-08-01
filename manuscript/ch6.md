@@ -1,4 +1,4 @@
-# CHAPTER 6: THE ARCHITECT
+# CHAPTER 6: THE ARCHITECT — Fixing the Condition Instead of the Person
 ## *The System That Makes the Right Thing the Easy Thing*
 
 
@@ -52,7 +52,7 @@
 > school asks.*
 >
 > *They ask it of their own diagrams now. Not always in time — twice in one week I watched it
-> arrive a day late, both times about somebody I liked — but they ask, which they did not used to,
+> arrive a day late, both times about somebody I liked — but they ask, which they did not do before,
 > and the asking is all of what changed.*
 <!-- /MARGINALIA -->
 
@@ -152,7 +152,7 @@ I ask first now. In practice I am slower at asking than at designing. The asking
 
 If that proposition holds in your experience, it has a consequence worth naming. In a system that does not hold, somebody has to close the gap, and that somebody is always a person with presence to spend. More relational attentiveness. More of themselves in the seam. The cost does not show up in any report, because the report says the process worked, and it did work, on the backs of whoever paid the difference. That names a design outcome, not a character outcome. No amount of caring more will change it, because caring more works as the mechanism by which the broken structure keeps functioning.
 
-The Architect who turns a relational field into a leverage point and a living thing into a KPI has already lost the reason the design mattered. Exiling that one makes sense. The discipline goes out with it, and the discipline alone addresses the thing above.
+The Architect who turns a relational field into a leverage point and a living thing into a KPI has already lost the reason the design mattered. Exiling that one makes sense. The discipline goes out with it, and the discipline is the only thing that keeps a relational field from becoming a leverage point in the first place.
 
 The Architect's actual practice builds the map that makes you unnecessary. *Here's what you're doing wrong* is a critique. *Here's how the system should work* is a lecture. *Here's a path you can follow without me* is a map.
 
@@ -337,7 +337,7 @@ The Protector decides whether you go in. The Controller decides how you may beha
 
 The Emotional Body turns up everywhere for that reason, and it has kept turning up in this book since the Forest was first drawn. It is the instrument the roles argue with. No wonder it never gets a seat.
 
-At its best it is the finest sensor you own, and at the Architect's altitude it functions as the input stage rather than optional equipment. You already saw this in the five modes. The Mapmaker detects risk on Metal, which is fear. The Optimizer detects what has stopped working on Water, which is sadness. The Strategist detects where the movement is on Fire, which is anger. Take the Emotional Body out of the Architect and you do not get a colder Architect. You get an Architect with no readings, someone modeling a system on the basis of what the system says about itself. The reason you can walk into an organization and know, before you have seen a single number, that something has gone wrong under the third floor of the org chart, comes down to this: the Emotional Body registered it and the rest of you is still catching up. That is the first stage of the practice, running on time. Calling it intuition undersells it by a stage.
+At its best it is the finest sensor you own, and at the Architect's altitude it functions as the input stage rather than optional equipment. You already saw this in the five modes. The Mapmaker detects risk on Metal, which is fear. The Optimizer detects what has stopped working on Water, which is sadness. The Strategist detects where the movement is on Fire, which is anger. Take the Emotional Body out of the Architect and you do not get a colder Architect. You get an Architect with no readings, someone modeling a system on the basis of what the system says about itself. You can walk into an organization and know something has gone wrong under the third floor of the org chart before you have seen a single number. The Emotional Body registered it; the rest of you is still catching up. That is the first stage of the practice, running on time. Calling it intuition undersells it by a stage.
 
 The distortion is how fast it hands the feeling off. Feeling it was never the issue.
 
@@ -386,7 +386,7 @@ You do not fire the Emotional Body. Fire your sensor and you are the Architect t
 
 Then put a boundary on the handoff, because the speed of the conversion is the shadow's entire method. The Architect works in loops, so the deadline here is not a breath and it is not a cycle: it is a stage. *The signal gets all of Observe. Nothing gets modeled until Observe closes.* Which in practice means: name the channel and the location before you name the leverage point. Anger, fear, sadness, joy, neutrality; chest, throat, gut, hands. Six seconds of actual data. Then build whatever you were going to build.
 
-Six seconds is enough for the question that is actually being asked. It is not enough for the other one, and that shortfall is the point.
+Six seconds is enough for the question that is actually being asked. It is not enough for the question underneath it, and that shortfall is the point.
 
 It shows up in a single beat. Someone says the thing in the meeting, the sentence that writes a whole group of people out of the plan. Heat arrives across your chest. That is the Strategist's channel, on time, doing its job: Fire, momentum, *here is where the push goes.* Then the conversion fires, and by the time the agenda has moved one item on you have a restructure of the intake process, three slides deep, and it is good. People will say so. Nobody has addressed what was said. The person it was said about is still sitting there. You will go home with the odd flatness of having done excellent work at something adjacent to what happened.
 

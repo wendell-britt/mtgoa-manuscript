@@ -2,20 +2,12 @@
 # MTGOA marginalia insertion data. 2026-07-28.
 # Each chapter: front = title-block additions; notes = [(anchor, text), ...]
 
+# Ch2 carries no frame. Ruled 2026-08-01: the fiction opens at the Headmaster's letter,
+# which sits between ch2 and ch3, and nothing in-world may precede it. Ch2 is Wendell's
+# frame the way ch1 is — his origin story, his sources, and the book's own navigation all
+# live there legally, and a byline over them made a fictional caretaker sign for all of it.
+# See specs/SPEC_CH2_FRAME_2026-08-01.md.
 FRONT = {
-2: """
-*Tull walked me out and said nothing for an hour. At the treeline he said "you can stop here,"
-and I understood that he meant it, which is the only reason I did not stop.*
-
-— first walk, name not recorded
-
-*They came ashore and fixed nothing for eleven days. On the twelfth they did one thing, and the
-harbour has worked since. I do not know how they chose it. I have stopped needing to.*
-
-— Oreve, harbour records
-
-set down by Bram Tull, Caretaker, who was asked eleven times
-""",
 3: """
 *I said what the field felt like and I was wrong. Voss made me say the wrong one again the next
 morning, out loud, so I would know the difference in my mouth.*
@@ -95,17 +87,9 @@ and I have not replaced it.*
 """,
 }
 
-# byline notes (Headmaster). Ch8 deliberately absent. Ch9 none.
+# byline notes (Headmaster). Ch2 removed 2026-08-01 with the rest of its frame.
+# Ch8 deliberately absent. Ch9 none.
 BYLINE_NOTE = {
-2: """*Bram is not faculty. He has declined to become faculty on eleven occasions, four of them in
-writing. The Heads each carry an epithet, selected with a certain amount of ceremony. Bram has a
-job, and has indicated that he finds this arrangement satisfactory and would prefer we stop
-raising it.*
-
-*He agreed to set this down because he is the only person aboard who has walked every new student
-out the first time, and because the alternative was a committee. I want you to know what these
-pages cost. They cost a favour I am still paying off, and a silence in a corridor that I would
-describe as the longest of my career.*""",
 3: """*Maera asks one question of everyone who comes to the Body: can you feel the field before you
 explain it. She has been asking it a long time and she has never been satisfied with an answer,
 including her own.*
@@ -113,7 +97,7 @@ including her own.*
 *She used to grade her readings. Scored them in a book, against what turned out to be true. She
 stopped in her fourth year here and has described the time since as the first she could hear
 anything at all. I mention it because she will not, and because you are shortly to be taught by
-somebody who spent a decade marking her own homework.*""",
+somebody who spent years marking her own homework.*""",
 4: """*Corin held a verdict open once. One time that I know of, against every instinct they have, for
 the four days it took the evidence to arrive. It changed the outcome and they have never
 mentioned it, and it is the hardest thing I have watched anyone on this staff do.*
@@ -135,7 +119,7 @@ diagram. They have been asking it for thirty years and it is the best question a
 school asks.*
 
 *They ask it of their own diagrams now. Not always in time — twice in one week I watched it
-arrive a day late, both times about somebody I liked — but they ask, which they did not used to,
+arrive a day late, both times about somebody I liked — but they ask, which they did not do before,
 and the asking is all of what changed.*""",
 7: """*Elian makes every student answer three questions before they are allowed into a difficult conversation:
 what you believe, what the other side needs, and what would make staying here dishonest. Students
@@ -147,42 +131,11 @@ warmly, in a way that left each of them feeling included in the refusal.*""",
 }
 
 # (anchor, note_text) — anchors verified unique 2026-07-28
+# NOTES[2] removed 2026-08-01. The annotating hand now first appears in ch3, after the
+# Headmaster's letter has opened the fiction. The one piece of canon those notes carried
+# that nothing else did — take all six or take one deep, and nobody will tell you which
+# you are for — is already in the letter, two pages later, in the mouth it belongs to.
 NOTES = {
-2: [
-("The feeling is this", """*Every world we put in at has a version of this paragraph. The wording varies. Once it was a
-song.*
-
-*You are not being told something new — you are being told it somewhere it is finally
-allowed to be said out loud, which is a different service and worth more than it sounds. I have
-heard it delivered by a harbour official who had been awake for two days, and by a child who was
-entirely calm about it. The child was more accurate.*"""),
-("## Section 3", """*Skip the decision question. It is a good question and you will answer it flatteringly, because
-it is phrased as a choice between being shallow and being brave, and nobody picks shallow at a
-trailhead.*
-
-*Better: think of the last time you did not say the true thing. Do not judge it. Only notice
-whether you knew, at the time, that you were not saying it. If you knew, you were in the village.
-If you did not know until afterwards, you were already in the forest and the forest was
-working.*"""),
-("The Protector, up close", """*The hull image is not one the school invented for teaching purposes.*
-
-*You are shortly going to be asked to thank a part of yourself, the request will sound
-sentimental, and I would like you to have a picture of what it looks like when an institution
-does it in earnest. Ask anyone in engineering. They will tell you the hull is the only part of
-this ship that has never once sat in a meeting about its own performance. It braces. It has no
-opinion. It is thanked annually, by tradition, on a day nobody can attend, because we are always
-underway.*"""),
-("### The Seven", """*You will not meet all seven. Most students finish with two, perhaps three, and leave entirely
-competent. The full set arrives only if you take all six schools, which almost nobody does, and
-which is not a recommendation.*
-
-*You already have the first one. It came with the body. Bram is fond of observing that it is the
-only member of the party that has never once had to be persuaded to turn up.*"""),
-("## Section 8", """*I have taught these five for a long time and I still cannot do the second one without rehearsing
-it in a corridor first.*
-
-*I am told this is common. I am told this by people who are being kind.*"""),
-],
 3: [
 ("It worked. The cost landed somewhere the village never thought to look.", """*We put in once at Oreve, which is a port and a poor one — the moorings were rotten and the
 harbourmaster kept his ledgers in his head and got them wrong.*
@@ -425,8 +378,8 @@ term stated plainly is not a negotiation.*""",
 ("The Damaged Self, Up Close", """*I ask every student to draw the system and then name whose face disappeared from the diagram.*
 
 *I drew this school last spring, for an unrelated purpose. The diagram was accurate and complete
-and I was pleased with it. I looked at it again this week and found the omission — and then found
-that Sera had found it in the spring, and Maera the year before that.*
+and I was pleased with it. I looked at it again this week and found the omission — and then learned
+that Sera had seen it in the spring, and Maera the year before that.*
 
 *We have all been drawing the same diagram. None of us put him on it either. That is not an
 oversight anyone can lay at his door.*""",
@@ -442,7 +395,7 @@ when I asked afterwards whether it had been difficult he said the hall had been 
 fine. We are counting on you having noticed.*""",
  "Corin Ash, School of the Line"),
 
-("## Section 6", """*He does not sleep the week before an intake. I have known this for eleven years. I leave food
+("## Section 6", """*He does not sleep the week before an intake. I have known this since he came aboard. I leave food
 where he will walk into it. He thinks the galley is badly organised.*
 
 *He is a good man and this ship is lucky. That is all I have to say about it.*""",
@@ -560,7 +513,7 @@ stated here, and some of them start stating their own.
 
 **3. What it costs.** You will be unwelcome in small ways, more often than you have budgeted
 for, and somebody whose opinion you value will call you difficult where you can hear it.
-Students who wait until they feel ready have suffered as a result!
+Students who wait until they feel ready have suffered as a result.
 
 **4. What we do not teach.** Repair. You will object that a limit without repair is cruelty.
 It is not, it is incomplete, and incomplete is a different problem with a different address.
