@@ -337,37 +337,23 @@ This section teaches the Regent's cycle: how to work with your inheritance consc
 
 ---
 
-### The Five Modes of Loyalty
-
-The Regent works with loyalty in five distinct modes. Each names a different relationship to what was passed down.
-
-**1. The Custodian.** The mode of caring for what exists, ahead of changing it and ahead of judging it. Just noticing: this is here. This has lasted. Someone tended this before me. *What have I been given that still works?*
-
-**2. The Inheritor.** The mode of receiving, including receiving the damage. The Inheritor knows that every inheritance carries both medicine and wound. *What came with my inheritance that I didn't choose?*
-
-**3. The Teacher.** The mode of passing it forward in a form the next person can actually receive. The Teacher knows that a tradition that cannot be received is a tradition that will die. *Who is coming after me, and what do they actually need?*
-
-**4. The Reformer.** The mode of changing the tradition while honoring the lineage. The Reformer loves what came before enough to change what no longer works. *What needs to change so this survives?*
-
-**5. The Keeper of Vows.** The mode of honoring commitment across time, especially when no one is watching. The Keeper of Vows does not perform loyalty. The Keeper of Vows lives it. *What did I say I would do, and am I still doing it?*
-
 ### EA Channel Alignment — How Each Mode Moves Energy
 
-The Regent's practice is generational, not moment-to-moment. Energy still flows. Each stewardship mode grounds in a specific EA signal:
+The Regent works with loyalty in five modes, each standing somewhere different toward what arrived. The practice spans generations rather than moments. Energy still flows, and each mode grounds in a specific EA signal:
 
-| Mode | EA Signal | Dissatisfaction → Satisfaction |
-|------|-----------|-------------------------------|
-| **The Custodian** | Earth/Neutrality | Obedience → True allegiance → **Peace** |
-| **The Inheritor** | Water/Sadness | Inheritance-shame → Inheritance-gift → **Poignance** |
-| **The Teacher** | Wood/Joy | Duty → Service → **Bliss** |
-| **The Reformer** | Fire/Anger | Rigidity → Integrity → **Triumph** |
-| **The Keeper of Vows** | Metal/Fear | Dogma → Faithfulness → **Wonder** |
+| Mode | Asks | EA Signal | Dissatisfaction → Satisfaction |
+|------|------|-----------|-------------------------------|
+| **The Custodian** | *What have I been given that still works?* | Earth/Neutrality | Obedience → True allegiance → **Peace** |
+| **The Inheritor** | *What came with my inheritance that I didn't choose?* | Water/Sadness | Inheritance-shame → Inheritance-gift → **Poignance** |
+| **The Teacher** | *Who is coming after me, and what do they actually need?* | Wood/Joy | Duty → Service → **Bliss** |
+| **The Reformer** | *What needs to change so this survives?* | Fire/Anger | Rigidity → Integrity → **Triumph** |
+| **The Keeper of Vows** | *What did I say I would do, and am I still doing it?* | Metal/Fear | Dogma → Faithfulness → **Wonder** |
 
 **The Custodian** (Earth/Neutrality): Caring for what exists begins as a surrender: you did not choose this. The alchemy moves obedience (compliance) into true allegiance (chosen loyalty). You are not carrying this because you have to. You are carrying it because you said yes to it. The shift from obligation to choice converts the Neutral channel's heaviness into the spaciousness of genuine stewardship.
 
 **The Inheritor** (Water/Sadness): Receiving includes receiving the damage. Every inheritance carries the wound of its origin. The sadness of *I didn't ask for this* becomes the gift when you stop blaming the inheritance and start sorting it. What was shame becomes medicine when you can say: *This part was never mine to carry. This part is mine to pass.*
 
-**The Teacher** (Wood/Joy): Passing it forward requires vitality, the aliveness of knowing that what you carry matters. The shift from duty to service moves the energy from obligation into the pleasure of genuine transmission. The Teacher does not lecture. The Teacher passes the thing in a form the next person can actually receive.
+**The Teacher** (Wood/Joy): Passing it forward requires vitality, the aliveness of knowing that what you carry matters. The shift from duty to service moves the energy from obligation into the pleasure of genuine transmission. The Teacher does not lecture. The Teacher passes the thing in a form the next person can actually receive. A tradition that cannot be received is a tradition that will die.
 
 **The Reformer** (Fire/Anger): Changing the tradition while honoring the lineage requires the fire of conviction, the willingness to say *this part no longer serves* without becoming the enemy of what came before. Rigidity (holding form because it's old) alchemizes into integrity (holding form because it works). The Reformer loves the tradition enough to change it.
 
@@ -590,7 +576,7 @@ In practice: When you see something that needs to change, ask two questions: (1)
 
 ### Move 4: Keep the Vows
 
-**What it is:** The Keeper of Vows does the unsexy work. The work nobody sees. The ongoing commitments that define you by their presence, not their absence.
+**What it is:** The Keeper of Vows does the unsexy work. The work nobody sees. The ongoing commitments that define you by their presence, not their absence. The longest ones cost most. You hold a form steady, year after year, so the people inside it trust it will still stand. Holding steady looks like idleness and costs more than motion.
 
 In practice: Identify one commitment you've made that nobody watches you keep. Do it anyway. That's the Keeper of Vows in action. That's what makes you someone worth inheriting from.
 
