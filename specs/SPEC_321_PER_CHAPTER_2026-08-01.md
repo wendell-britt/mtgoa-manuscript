@@ -172,20 +172,40 @@ a guessed charge that misses has to have an exit.
 **Stated once, in the ch3 teaching:**
 
 > Each chapter opens the pass with a sentence. Work it if it moves something in you. If it
-> doesn't, work the charge that does. This runs on a live charge and does nothing on a
-> plausible one.
+> doesn't, work the charge that does. A live charge does more than a fabricated one. If nothing
+> is live yet, run it dry; reaching the charge is the capacity you are building.
 
-**37 words, cut from 87.** Wendell on the first version: *"verbose… we have to earn every word
+**50 words, cut from 87.** Wendell on the first version: *"verbose… we have to earn every word
 and the only thing earned here is 'why you shouldn't be mad at me for doing XYZ'."* He is right,
 and the diagnosis is more useful than the cut. What went was all one thing — the author
 defending his own guess: *a good guess about where a reader tends to be stuck*, *a guess is the
 most it can be*, *the charge is yours and I have never met it*, *the right-sounding charge
-somebody handed you*. Four hedges apologising for the same decision.
+somebody handed you*. Four hedges apologising for the same decision. **The rule this establishes
+for the whole spec: state the mechanism, never the apology for the mechanism.**
 
-What is earned is the instruction and the mechanism. The last sentence stays because it is a
-fact about how the practice fails — a plausible charge produces a competent exercise and no
-alchemy — rather than a defence of having offered one. **The rule this establishes for the
-whole spec: state the mechanism, never the apology for the mechanism.**
+### The last two sentences, and why the first cut of them was wrong
+
+The 37-word version ended *"This runs on a live charge and does nothing on a plausible one."*
+Wendell: *"Its not that the process won't work without an authentic charge, but that a fabricated
+charge is always less than something that's alive. If you ARE numb and struggling to access
+charge you can still get benefits by going through the motions as you work on increasing your
+capacity."*
+
+**That correction is load-bearing at exactly the chapter this teaching lives in.** ch3's
+territory is *"There is a part of me that is disconnected from my feelings"* — **the numb reader
+is the ch3 reader.** A sentence saying the practice does nothing without a live charge closes
+the door on the exact person the chapter is written for, in the paragraph that invites them in.
+The book would have shipped an instruction that disqualifies its own audience.
+
+So the claim is now a ranking rather than a gate: live beats fabricated, and running it dry is
+a legitimate move with a named payoff. *Run it dry* rather than *go through the motions*,
+because going through the motions names a failure and running it dry names a condition — and the
+second sentence tells the reader what the dry run is buying, which is the thing that keeps them
+doing it.
+
+**Absolutes are the risk in every remaining block.** Twelve passes written in a compressed,
+declarative register will reach for *always*, *never*, *does nothing* to sound certain. Each one
+is a claim that some real reader falsifies on the page.
 
 **Carried in every later block in one line**, immediately under the territory sentence:
 
