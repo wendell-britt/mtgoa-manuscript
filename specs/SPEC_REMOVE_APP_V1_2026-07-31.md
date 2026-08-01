@@ -118,7 +118,16 @@ the thing that makes that practice better.
    in `drafts/APPROVED_remove_app_v1.md`.
 2. ~~**The pre-draw domain diagnostic**~~ **RULED: not shipping.** Cut from
    `APPENDIX_A:165` and `:171`. Drafted.
-3. **The superpower quiz** — write it a reference, or leave it unlinked?
+3. ~~**The superpower quiz** — write it a reference, or leave it unlinked?~~
+   **RULED 2026-08-01: write it a reference, at `masteringallyship.com/superpower`.**
+   Placed at ch9, not ch1. The spec proposed ch1 beside the Myths Read; ch1:209
+   leaves the superpower line blank *on purpose* — *"a superpower you will only
+   spot in motion"* — and a quiz there lets the reader skip the motion the design
+   requires. It sits instead in ch9's *The Sheet You Started*, where she has moved
+   six times and is being asked to fill the line in, as the fallback for a reader
+   who cannot name it unaided. **Unverified:** WebFetch returned 403 from the site
+   (proxy healthy, no relay failures), so the page was not confirmed to render.
+   Confirm before press — a dead pointer in print is the defect DL-20 exists for.
 4. **`about_the_author`** — *"builder of bars-engine, the app this book routes
    to"* is a biography line, not a routing line. Keep as biography, or cut?
 5. **Appendix B's quest routing** — quests end in a capture, full stop, or does
