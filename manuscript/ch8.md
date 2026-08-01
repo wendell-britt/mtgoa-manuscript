@@ -223,7 +223,7 @@ I have read all five of them for thirty years and nobody has read me, which I ar
 
 The Sage described here is not the guru on the mountain who has risen above it all. Detachment is a real capacity with real uses; the Sage runs it deliberately, for a purpose and a duration, the way you'd use any other instrument. This describes something else. Call it *committed seeing*: the capacity to take in all the altitudes and still choose to stand somewhere. To play the game the moment requires without mistaking it for the only game there is. To know when to draw the line and when to step back. To see the whole map and still walk your piece of it.
 
-The Sage arrives when you've been all the other Faces long enough to see them from the outside. You've felt with the Shaman. You've drawn lines with the Challenger. You've carried forward with the Regent. You've built with the Architect. You've held the field with the Diplomat. At each step, you also watched: *which game am I in, and which one does this moment actually require?*
+The Sage arrives when you've stood in the other five long enough to see them from the outside. You've felt with the Shaman. You've drawn lines with the Challenger. You've carried forward with the Regent. You've built with the Architect. You've held the field with the Diplomat. At each step, you also watched: *which game am I in, and which one does this moment actually require?*
 
 That's the Sage. Not a new game above the others. A meta-view of all of them: the capacity to see the whole system and choose where to stand inside it.
 
@@ -233,9 +233,9 @@ The Sage doesn't get this by leaving. The Sage gets this by staying: by seeing e
 
 Not *instead of* choosing. *Along with* choosing.
 
-### *The Ladder Underneath: What the Sage Knows That the Other Faces Cannot See*
+### *The Ladder Underneath: What the Sage Knows That the Other Five Cannot See*
 
-The Sage's journey runs inward and then back. Corin would call going inward a retreat, and they would have the movement right and the destination wrong. At each Face, you did the work and also watched yourself do it. That watcher is the Sage, and the watcher accumulates a specific kind of knowledge: the gift and the limit of every Face, held at the same time.
+The Sage's journey runs inward and then back. Corin would call going inward a retreat, and they would have the movement right and the destination wrong. At each school, you did the work and also watched yourself do it. That watcher is the Sage, and the watcher accumulates a specific kind of knowledge: the gift and the limit of each one, held at the same time.
 
 **The Shaman's feeling is always true and always incomplete.** True, because feeling is information: the body reports honestly on what it encounters. Incomplete, because a feeling doesn't tell you what to do about it. The Shaman knows what's present. The Sage knows what game the Shaman plays by feeling, and whether that game is the one the moment needs.
 
@@ -249,7 +249,7 @@ The Sage's journey runs inward and then back. Corin would call going inward a re
 
 The Sage holds all five at once. Not to judge. To understand. Not to hold above, to hold with. That marks the whole difference between the Sage and the Sage in distortion. The Sage sees so they can serve. The distortion sees so it can be right.
 
-The structural point is that you don't abandon the lower altitudes when you arrive at a higher one. You carry them. The widest view doesn't mean you have stopped being able to stand in a narrow one. It means you know when you are standing there, you can choose to stay deliberately, and you can come back. The Sage doesn't leave the Faces behind. The Sage holds them all and knows which one the moment asks for.
+The structural point is that you don't abandon the lower altitudes when you arrive at a higher one. You carry them. The widest view doesn't mean you have stopped being able to stand in a narrow one. It means you know when you are standing there, you can choose to stay deliberately, and you can come back. The Sage doesn't leave the others behind. The Sage holds them all and knows which one the moment asks for.
 
 Something arrives once you can see the whole board, and the name for it is evolutionary purpose: the pull of something larger than your own survival. It outruns your team's goals and your organization's mission, and it carries its own direction, as though the work pulled you forward rather than you pushing it. The Sage hears that pull and asks: *which game is this? Is this my game's pull, or something else's?* Sometimes the pull is real. Sometimes it's a beautiful story you've told yourself about why the work matters. The Sage can tell the difference, and the telling takes skill rather than temperament.
 
@@ -259,7 +259,7 @@ The Sage runs two questions at all times, and everything the School of the Horiz
 
 *Which game is this?* is a horizontal question. Power, strategy, harmony, whole-board. It asks what the situation requires right now. Watch what people actually do rather than what they say, and it answers itself.
 
-*Which altitude is this?* is a vertical question, and its answer-set is the six Faces the schools teach. It asks what a person can currently hold: the size of the frame they operate from, a fact about their development and not a fact about their worth.
+*Which altitude is this?* is a vertical question, and its answer-set is the six roles the schools teach. It asks what a person can currently hold: the size of the frame they operate from, a fact about their development and not a fact about their worth.
 
 Both are real. Both are load-bearing. The game read tells you what to do. The altitude read tells you how to say it. A Sage who only reads games will keep saying accurate things in a register nobody present can receive. A Sage who only reads altitudes will keep making sophisticated assessments of people while the actual situation goes unaddressed.
 
