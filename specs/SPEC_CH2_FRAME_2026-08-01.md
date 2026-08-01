@@ -118,8 +118,32 @@ grep -c "Bram\|Tull" manuscript/ch2.md     # 0
 grep -c "Bram" manuscript/ch8.md manuscript/ch9.md   # 2, 1
 ```
 
-## 6 · Open
+## 6 · The instruments, brought up to date
 
-`instruments/seam_sweep.py` still reads `CHAPTERS = [3..8]`. That is now correct rather than
-accidental — ch2 has no seam because it has no fictional author — but the reason should be
-recorded in the docstring so the next reader does not re-derive it.
+**Closed 2026-08-01**, on Wendell's ruling: *"we should edit the instrument now that that
+change has landed."*
+
+**`seam_sweep.py`.** `CHAPTERS = [3..8]` was correct by accident and is now correct on the
+record. The docstring carries why ch1, ch2 and ch9 are absent — a frame chapter has no seam
+because it has no fictional author — along with the ch2 measurement, and the general lesson:
+**when this sweep fires on a frame chapter, ask who is signing before asking what the sentence
+says.** Adding a frame chapter to `CHAPTERS` reports the author's own frame as a breach.
+
+**`marginalia/review.py` — a real bug, found by this work and predating it.** `check_anchors`
+unpacked every note row as a 2-tuple:
+
+```python
+for anchor, _ in rows:          # ValueError on ch8
+```
+
+`NOTES[8]` has held 3-tuples since 2026-07-30, when the margin changed hands and six people
+signed what they wrote. So `check_anchors` raised on ch8 for two days, and because
+`test_toolchain.py` calls it second-to-last, **the toolchain self-test had been dying before
+its final assertions ever ran.** Both were silent: the crash surfaced only when the test was
+run directly.
+
+Fixed by indexing instead of unpacking. `test_toolchain.py` now reaches the end and reports
+`all cases pass`; `review.py --anchors` reports `clean — no findings`.
+
+**Not caused by the ch2 change**, and worth recording as its own lesson: a self-test that
+crashes reports nothing, and nothing reads the same as passing when the exit is never checked.

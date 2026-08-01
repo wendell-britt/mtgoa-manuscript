@@ -30,6 +30,28 @@ Line labels: `L` is a file line in Sections 1-3. `HB` is a line inside that scho
 handbook, which lives in `marginalia/insertions.py` and has no stable file line until the
 frame is applied.
 
+**Why ch1, ch2 and ch9 are not in CHAPTERS.** They are Wendell's frame: `SPEC_DL19` ruled
+that his real biography has exactly one legal home and this is it. A frame chapter has no
+seam because it has no fictional author, so there is no membrane for a sentence to cross.
+
+That was true of ch1 and ch9 from the start and became true of ch2 only on 2026-08-01.
+Until then ch2 carried `set down by Bram Tull, Caretaker` at the top of the chapter -- the
+last top-of-chapter byline in the book, in the configuration `SPEC_TWO_HANDS` condemned as
+overclaiming -- while this sweep was hardcoded to skip it. Running these same three tiers
+over ch2 that day returned **BOOK 28, AUTHOR 13, CREDIT 2**, against 2/37/0 for all six
+cleaned treatises combined: the George Floyd origin story, the book naming itself at
+ch2:241, and credits to Carolyn Elliott, Robin Rice and Gerard Egan, all under a fictional
+caretaker's signature.
+
+**None of those 43 sites was edited.** Bram was removed instead, and they became legal in
+place. That is the shape of the fix to reach for when this sweep fires on a frame chapter:
+ask who is signing, before asking what the sentence says. See
+`specs/SPEC_CH2_FRAME_2026-08-01.md`.
+
+One consequence worth knowing if you extend this: ch2 no longer round-trips through
+`compile.py`, because it left `CHAPTERS` there too. Running this under `on_body.py` is
+still correct -- ch2 simply has no frame to strip.
+
 **The total moved 28 to 42 on 2026-07-30** when the six handbooks came under the sweep for
 the first time. Nothing was added to the treatises; 2,027 words that had never been measured
 started being measured. Twelve of the fourteen are AUTHOR hits on Heads narrating their own
@@ -54,6 +76,8 @@ sys.path.insert(0, os.path.join(HERE, os.pardir, "marginalia"))
 # because this runs both ways: directly, and under `on_body.py` on stripped text.
 from insertions import HANDBOOK
 
+# The six treatise chapters, and deliberately not ch1/ch2/ch9 -- see the docstring.
+# Adding a frame chapter here reports the author's own frame as a breach.
 CHAPTERS = [3, 4, 5, 6, 7, 8]
 HEAD = {3: "Maera Voss", 4: "Corin Ash", 5: "Sera Quill",
         6: "Irix Vale", 7: "Elian Cross", 8: "Thalen Orr"}
