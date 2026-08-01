@@ -132,6 +132,21 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 
 A quest is solo. A campaign is the same kind of practice, run longer and out loud — 21 days, built to share with a partner, a team, or a community. Allyship is relational; the campaigns make it so. Each names what it builds, the milestone captures along the way, and how to run it with other people.
 
+Every campaign needs one other person, and the book has been solo until now. So the first rep is finding them, and it is a quest in its own right.
+
+---
+
+### Before Any Campaign — The Ask
+*Daemon: Victim · Domain: Raise Awareness · One conversation*
+
+***The shadow running:*** You already know who you would ask, and you have the reason ready for why they would say no. The Victim carries that reason, and it always arrives sounding like realism.
+
+***The gift:*** You ask, and find out instead of deciding. Asking is the first public rep of this practice, which makes it Raise Awareness before it is anything else.
+
+1. Name one person who has watched you try at something and not laughed. Not necessarily your closest friend. The one who would take it seriously.
+2. Tell them what you are practicing and what you want from them: hear one capture a week for three weeks, and ask you one question about it. Give them the end date when you ask, so they are agreeing to something finite.
+3. Capture what you predicted they would say, next to what they said.
+
 ---
 
 ### Gather Resources Campaign
