@@ -158,6 +158,35 @@ chapter can name. The reader enters through whichever door is live: a person who
 charge, or the trait worked directly. The block says so in one clause and does not choose for
 them, per ruling 3.
 
+### 3c · The substitution clause — ruled 2026-08-01
+
+Wendell, on the six territories above: *"this is close I think the thing that covers it is
+letting people choose their own charge if that doesn't vibe with them."*
+
+**This is what makes a prescribed territory safe to prescribe.** Without it the six sentences
+are assignments, and an assignment that misses produces one of two failures, both worse than no
+exercise: the reader does nothing, or the reader runs a competent 3-2-1 on a charge they do not
+actually have and concludes the practice does not work. A guessed charge that lands is a gift;
+a guessed charge that misses has to have an exit.
+
+**Stated in full once, in the ch3 teaching:**
+
+> Each chapter ahead opens the pass with a sentence. Treat it as a starting sentence rather
+> than an assignment. It is a good guess about where a reader of that chapter tends to be
+> stuck, and a guess is the most it can be, because the charge is yours and I have never met
+> it. If the sentence does not move anything in you, replace it with the one that does. A
+> 3-2-1 run on a real charge you found beats one run on the right-sounding charge somebody
+> handed you, every time.
+
+**Carried in every later block in one line**, immediately under the territory sentence:
+
+> *If that is not your charge, say the one that is.*
+
+Eleven words, and it is the difference between the six territories reading as diagnosis and
+reading as an offer. It is scaffolding rather than prose, so it is allowed to repeat verbatim
+under the §4 variance rule — and it should, because a reader who needs it needs to find it in
+the same place every time.
+
 ### Chapter 2 and Chapter 9
 
 **ch2** precedes the teaching, so it cannot run a pass. What it gets instead is ~40 words
@@ -183,6 +212,7 @@ Solo, written or spoken. Fifteen to twenty-five minutes.
 **Try this now.**
 
 Start here: *There is a part of me that [TERRITORY].*
+*If that is not your charge, say the one that is.*
 Work it as a person who carries that charge for you, or work the trait itself.
 Whichever one you already flinched at is the live one.
 
@@ -229,10 +259,19 @@ register.** Fixed scaffolding is apparatus and is allowed to repeat. Prose is no
 `ch3:576–596` currently names 3-2-1, explains it in three sentences, and defers: *"You'll
 practice it fully in Chapter 4."* That deferral is what started this problem.
 
-**It becomes the full teaching**, absorbing what `ch4:458` currently carries alone: the three
-steps with their *example shape* text, the suggested openings, the worked exchange, the receipt,
-the safety statement per §6, and one sentence carrying ruling 3 — that the form is generic and
-the charge is theirs and no book can supply it. Budget **~700 words**, up ~450 from today.
+**It becomes the full teaching**, and it is the only place several things are said once:
+
+1. The three steps with their *example shape* text, the suggested openings, the worked
+   exchange and the receipt — absorbed from `ch4:458`, which currently carries them alone.
+2. **The magic words**, both forms, per §3a — plus the *"I notice"* distinction, which is the
+   one piece of this that a reader can get wrong while following the instruction correctly.
+3. **The substitution principle**, per §3c, in full. Every later block gets the eleven-word
+   version and none of them re-argues it.
+4. The safety statement, per §6.
+5. Ruling 3 stated plainly: the form is generic, the charge is theirs, and no book can supply
+   it.
+
+Budget **~800 words**, up ~550 from today.
 
 `ch4:458` then compresses from ~640 words to a standard Figure Pass at ~200, since its teaching
 load has moved. Its content is not lost; it relocates. **ch4 is the one chapter that gets
@@ -282,15 +321,16 @@ The last row is a live defect independent of this spec.
 
 | | words |
 |---|---:|
-| ch3 teaching, expanded | +450 |
+| ch3 teaching, expanded (magic words, substitution, safety) | +550 |
 | ch4 figure pass, compressed from the old full block | −440 |
 | Figure + Daemon passes, ch3–ch8 (12 × ~190) | +2,280 |
 | ch2 Protector plant | +40 |
 | Polarity draws, ch3 and ch8 | +300 |
 | Cross-reference repairs | ~0 |
-| **Net** | **≈ +2,630** |
+| Substitution clause, 11 words × 12 blocks | +130 |
+| **Net** | **≈ +2,860** |
 
-At ~320 words/page that is **8–9 pages**, under the 10–20 estimate, because ch4 compresses and
+At ~320 words/page that is **9 pages**, under the 10–20 estimate, because ch4 compresses and
 the worked examples consolidate into ch3 instead of repeating twelve times.
 
 ## 9 · Sequencing
@@ -312,7 +352,8 @@ this manuscript has ever run; `build_book.py` for the new page count.
 
 | # | Question | Recommendation |
 |---|---|---|
-| R1 | The six territories in §3b, now on the negative-charge axis | Read them. Two are your words; four are quoted or compressed from the chapters. Still the one judgement call in the spec |
+| R1 | The six territories in §3b, now on the negative-charge axis | Read them, but **the substitution clause lowers the stakes on this row**: a territory that misses now costs the reader one sentence instead of the exercise |
+| R1a | Substitution clause on the figure pass, **not** on the daemon pass | **Yes.** The chapter's daemon is fixed by architecture and every reader has all seven, so there is nothing to substitute. Recorded so its absence reads as a decision |
 | R1b | ch4:485's *"No 'I notice a part of me'"* stands, with the magic words added beside it | **Yes.** The ban is right and was never paired with the sentence that works |
 | R1c | The block offers both doors — a person carrying the charge, or the trait worked directly — and picks neither | **Yes**, per ruling 3 |
 | R2 | ch9 gets neither pass, making it 12 + the ch2 plant | **Yes.** ch9 has no daemon and inventing one to reach fourteen is the wrong reason |
