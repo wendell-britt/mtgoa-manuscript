@@ -1,4 +1,4 @@
-# CHAPTER 4: THE CHALLENGER
+# CHAPTER 4: THE CHALLENGER — Who Pays When Nobody Says No
 ## *The Willingness to Be Unwelcome*
 
 

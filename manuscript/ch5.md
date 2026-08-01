@@ -1,4 +1,4 @@
-# CHAPTER 5: THE REGENT
+# CHAPTER 5: THE REGENT — What You Inherited, and What You Do With It
 ## *Traditions Worth Protecting and Worth Breaking*
 
 

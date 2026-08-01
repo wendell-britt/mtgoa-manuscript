@@ -1,4 +1,4 @@
-# CHAPTER 8: THE SAGE
+# CHAPTER 8: THE SAGE — Seeing the Whole Board Without Leaving the Table
 ## *Mastery Is Knowing Which Game You're Playing and Being Able to Put It Down*
 
 

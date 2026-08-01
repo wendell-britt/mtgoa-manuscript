@@ -1,4 +1,4 @@
-# CHAPTER 9: THE PLAYER
+# CHAPTER 9: THE PLAYER — Building Something and Putting It in Front of One Person
 ## *The Return — From Playing the Game to Designing It*
 
 

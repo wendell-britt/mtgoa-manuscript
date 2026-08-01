@@ -1,4 +1,4 @@
-# CHAPTER 7: THE DIPLOMAT
+# CHAPTER 7: THE DIPLOMAT — Why Being Good at Care Is Only Half of It
 ## *The Terms That Let You Stay Without Disappearing*
 
 
