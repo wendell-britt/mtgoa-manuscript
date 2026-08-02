@@ -88,7 +88,12 @@ EXPLETIVE = re.compile(
 DET_NEXT = ("NN", "NNS", "NNP", "NNPS", "JJ", "JJR", "JJS", "CD")
 
 NOUN_S = ("NN", "NNP")
-NOUN_P = ("NNS", "NNPS")
+# Singular `they` is house style in this book — Ash is they/them, and the prose uses
+# it for an unnamed person throughout. So a singular noun is a legal antecedent for a
+# plural pronoun, and requiring NNS produced a false-positive class: *"what somebody
+# means underneath what they said"* was reported as having no antecedent four words
+# after `somebody`. Added 2026-08-01 after it fired twice on one drafted paragraph.
+NOUN_P = ("NNS", "NNPS", "NN", "NNP")
 
 DISTANCE_LIMIT = 30      # words back inside the paragraph; beyond this, searching
 
