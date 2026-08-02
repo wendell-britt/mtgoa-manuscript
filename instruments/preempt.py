@@ -87,6 +87,18 @@ SHAPES = [
     ("unfounded appeal",
      r"(every \w+ you have ever \w+|any \w+ you have ever \w+|"
      r"we all know|as everyone knows|you already know that)"),
+    # ADDED 2026-08-01, batch six. Wendell on `ch1:139` — "The third reason changes
+    # everything:" — *"don't announce what it changes. If it isn't obvious then we're
+    # projecting."* The first version of this file did not catch it: the sentence has
+    # no throat-clearing opener and no phantom comparative. It grades its own payload
+    # instead, which is the same defect one step further in — the prose telling the
+    # reader how much the next clause matters rather than making it matter.
+    ("stakes announcement",
+     r"(changes everything|this is the (?:whole|entire|real) (?:move|point|thing)|"
+     r"and that (?:is|'s) the (?:whole|entire) (?:point|move|thing)|"
+     r"the most important (?:thing|part|move)|"
+     r"if you (?:take|remember) (?:only )?one thing|"
+     r"everything (?:changes|else) (?:from )?here)"),
     ("objection staged inside the claim",
      r"(because it is the objection|the objection that makes|"
      r"if that (?:sounds|feels|seems|landed)|if this (?:sounds|feels|seems)|"

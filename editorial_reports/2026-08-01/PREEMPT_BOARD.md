@@ -8,29 +8,30 @@ docstring for the pattern and the three shapes.
 stated, granted, answered — is good nonfiction. The defect is the
 anticipation collapsed into the sentence that was meant to carry the claim.
 
-## Totals — 81 sites
+## Totals — 83 sites
 
 | Shape | sites |
 |---|---|
 | meta-narration | **69** |
 | phantom contrast | **9** |
 | unfounded appeal | **1** |
+| stakes announcement | **2** |
 | objection staged inside the claim | **2** |
 
 ## Per component
 
-| Component | meta-narration | phantom contrast | unfounded appeal | objection staged inside the claim | total |
-|---|---|---|---|---|---|
-| authors_note.md | 1 | 0 | 0 | 0 | **1** |
-| ch1.md | 12 | 1 | 1 | 1 | **15** |
-| ch2.md | 1 | 1 | 0 | 0 | **2** |
-| ch3.md | 8 | 4 | 0 | 1 | **13** |
-| ch4.md | 11 | 1 | 0 | 0 | **12** |
-| ch5.md | 4 | 0 | 0 | 0 | **4** |
-| ch6.md | 6 | 1 | 0 | 0 | **7** |
-| ch7.md | 15 | 0 | 0 | 0 | **15** |
-| ch8.md | 1 | 1 | 0 | 0 | **2** |
-| ch9.md | 10 | 0 | 0 | 0 | **10** |
+| Component | meta-narration | phantom contrast | unfounded appeal | stakes announcement | objection staged inside the claim | total |
+|---|---|---|---|---|---|---|
+| authors_note.md | 1 | 0 | 0 | 0 | 0 | **1** |
+| ch1.md | 12 | 1 | 1 | 2 | 1 | **17** |
+| ch2.md | 1 | 1 | 0 | 0 | 0 | **2** |
+| ch3.md | 8 | 4 | 0 | 0 | 1 | **13** |
+| ch4.md | 11 | 1 | 0 | 0 | 0 | **12** |
+| ch5.md | 4 | 0 | 0 | 0 | 0 | **4** |
+| ch6.md | 6 | 1 | 0 | 0 | 0 | **7** |
+| ch7.md | 15 | 0 | 0 | 0 | 0 | **15** |
+| ch8.md | 1 | 1 | 0 | 0 | 0 | **2** |
+| ch9.md | 10 | 0 | 0 | 0 | 0 | **10** |
 
 ## meta-narration — 69
 
@@ -100,6 +101,13 @@ anticipation collapsed into the sentence that was meant to carry the claim.
 
 - `every arcade you have ever played` · manuscript/ch1.md:123
   > Here is where the allyship Arcade breaks the rule of every arcade you have ever played. With the skee-ball and the stuffed bears, the prize is a dead end: you win the bea…
+
+## stakes announcement — 2
+
+- `changes everything` · manuscript/ch1.md:139
+  > The third reason changes everything: a game is the only frame that will get you to look straight at the part of your allyship you least want to see, and enjoy it.…
+- `this is the whole move` · manuscript/ch1.md:145
+  > A game turns the lights on: it takes the charge you've been running in secret and sets it on the board, where you can finally see what you're getting out of it, say so, a…
 
 ## objection staged inside the claim — 2
 

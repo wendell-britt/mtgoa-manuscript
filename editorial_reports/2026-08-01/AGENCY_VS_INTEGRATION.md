@@ -1,10 +1,15 @@
 # Compare and contrast — Wendell's patterns against the measured one
 
 > **Updated 2026-08-01, batch five.** A third pattern arrived and it is neither of
-> the two below: **the prose explains itself before it is challenged.** 81 sites,
+> the two below: **the prose explains itself before it is challenged.** 83 sites,
 > `instruments/preempt.py`, board in `PREEMPT_BOARD.md`. It is independent of both
 > the agency defect and the integration cost, which now makes three separate
 > passes. See §8.
+>
+> **Updated again, batch six.** A fourth, and the cheapest: **surface shapes that
+> stand in for a plain statement** — binary contrast, definite-article series,
+> determiner run. 221 sites, `instruments/shapes.py`, board in `SHAPES_BOARD.md`.
+> All ten notes in that batch land in one section, `ch1:131`–`151`. See §9.
 
 Wendell, 2026-08-01, asked for his read-through findings to be set against what
 the instruments have been asserting. This is that comparison. Two real defects,
@@ -213,3 +218,108 @@ over the body, and the defect accumulates while the board reads clean.
 the game would rather you not notice"* — were filed under other headings. Both are
 this pattern. N30 is both: an abstraction with a mental verb **and** a
 faux-insight frame, which is why one sentence can need two different fixes.
+
+---
+
+## 9 · Batch six — the shapes, and one number that was worse than the note
+
+Ten pastes, `N37`–`N46`. **All ten land in one stretch: `ch1:131`–`151`, which is
+the whole of the *Why a Game* section.** The section runs twelve paragraphs and ten
+of them are flagged. That is worth saying before any pattern is named — the unit
+Wendell is reacting to here is a section, not a set of lines.
+
+### The three-years mention is worse than the note says
+
+`N41`: *"this is the third time we talk vaguely about the 3 years thing and it's
+reading as repetitive in a book that's already overlong."*
+
+It is the **sixth** time, all in Chapter 1:
+
+| line | how it lands |
+|---|---|
+| `ch1:4` | *This book is three years late.* |
+| `ch1:10` | *I was holding myself hostage.* |
+| `ch1:87` | *I ran it for three years while writing a book that told other people not to.* |
+| `ch1:109` | *For three years I ran this book on guilt.* |
+| `ch1:141` | *When I said I held myself hostage for three years…* |
+| `ch1:187` | *I kept this very book in conversation for three years.* |
+
+*Three years* also lands twice in the author's note before the chapter starts
+(`:9`, `:25`), carrying a different claim — the burnout timeline — so a reader meets
+the number twice in one sense and six times in another before Chapter 2.
+
+### Three surface shapes, none of which had an instrument
+
+`instruments/shapes.py`, board in `SHAPES_BOARD.md`. **221 sites.**
+
+| Shape | sites | Wendell's words |
+|---|---|---|
+| binary contrast | 56 | *"Not X but Y — simplify"* (`N38`) |
+| definite-article series | 50 | *"definite articles creeping in in a repetitive way with no referent"* (`N39`) |
+| determiner run | 115 | *"more of the sentence fragments and definite articles"* (`N42`) |
+
+**Chapter 1 carries 10 of the 50 definite-article series — more than any other
+component**, and three of them are inside this one section (`:135`, `:141`, `:151`).
+Wendell's question was whether the rule on *the* needs to be stricter. On this
+evidence the answer is that the shape concentrates exactly where he is reading.
+
+**The binary-contrast count needs one deduction.** Five of the 56 are the same
+sentence — *The tell that a quest is alive is not enthusiasm. It is anticipation
+with some dread underneath it.* — closing the quest section of five chapters. That
+is one decision, not five defects. It also drifts once: `ch4:744` says *It arrives
+as anticipation*, so the refrain is inconsistent in exactly one place.
+
+### The third time a banned family has been found accumulating unmeasured
+
+`/no-ai-slop` bans binary contrasts by name and has since it was written:
+
+> **Binary contrasts.** *"This is not X. It's Y." / "The question isn't X, it's Y."*
+> State Y directly.
+
+No instrument checked. That is the same failure as `prose_diet.py`'s agency check
+returning zero and as the 69 unmeasured meta-narration sites — but this one has a
+sharper edge. **The batch-edit scripts in `instruments/` have repeatedly rewritten
+*into* the shape.** `w9_ch5.py:254` turns
+
+> `Not because they're perfect — because removing them would break something real.`
+
+into
+
+> `Not because they're perfect. Because removing them would break something real.`
+
+The em-dash was the target and the em-dash is gone. The binary contrast passed
+through the edit untouched, and now reads as deliberate. `w8_batch_a.py`,
+`w8_batch_b.py`, `w9_ch4.py`, `w9_ch8.py` and `dl19_moves.py` all do the same thing.
+A pass that fixes punctuation inside a banned shape launders the shape.
+
+### One note that is the agency defect again, and one that is bigger than a note
+
+`N43` — *"A game turns the lights on… A game turns it into wonder"* — is `agency.py`
+Tier 2 exactly: an abstraction performing a volitional act. Wendell's correction
+names the repair precisely: *a game sets the conditions for the players to do this,
+or you could even say game designers do.*
+
+Then he goes past the line: **"The larger game is figuring out how to find out who
+the designers are and change their game."** That is not a sentence fix. It is a
+claim about what the book is for, and Chapter 1 does not currently make it. Filed
+with `N43` and flagged here because it is the only note in six batches that proposes
+an argument rather than repairs one.
+
+### And one shape that belongs to the pre-emption pass
+
+`N40` — *"The third reason changes everything:"* — *"don't announce what it changes.
+If it isn't obvious then we're projecting."* `preempt.py` missed it: no
+throat-clearing opener, no phantom comparative. It grades its own payload instead. A
+**stakes announcement** shape has been added; it finds **2 sites, both in ch1**, which
+is the right size for a shape this specific.
+
+### Where this leaves the pass count
+
+Four now, not three, and the fourth is the cheapest:
+
+1. **Agency** — sentence-level, 207 Tier-1 sites.
+2. **Integration** — transition-level, 79% against a 57% control. The biggest.
+3. **Pre-emption** — drafting-process-level, 83 sites.
+4. **Surface shapes** — phrase-level, 221 sites, and the only one of the four a
+   reader can rule on at a glance. It is also the only one with a written rule
+   already in the repository that nothing was enforcing.
