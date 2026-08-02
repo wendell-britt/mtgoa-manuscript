@@ -114,23 +114,42 @@ def build_index(reg):
                 # is the one that survives.
                 verb2class.setdefault(s.lower(), cls)
 
-    ent2grade, licensed = {}, {}
+    ent2grade, licensed, partial = {}, {}, {}
     for g in reg["grades"]:
         gid = g["id"]
         licensed[gid] = set(g.get("verb_classes") or [])
+        # W-1 left Grade 3 with a PARTIAL license: the intention class is not
+        # open, but `want`/`seek`/`aim` inside it are. Without this the net
+        # re-flags "which Fire wants" on every run.
+        for cls, lemmas in (g.get("verb_classes_partial") or {}).items():
+            for lemma in lemmas:
+                partial.setdefault(gid, {}).setdefault(cls, set()).update(
+                    s.lower() for s in surfaces(lemma))
         for e in g.get("entities") or []:
             e = e.strip().lower()
             # Grade 1's list carries category labels, not literal strings.
             if e in ("named characters", "proper names", "personal pronouns"):
                 continue
             ent2grade.setdefault(e, gid)
-    return verb2class, class_sev, ent2grade, licensed
+
+    # E-1: the education-by-emotions register. An ontological carve-out that
+    # sits OUTSIDE the grade system -- `teach`/`say`/`report` on a channel are
+    # the book's thesis being stated, not unearned agency. Suppressed here so
+    # the net stops surfacing the signature passage as a severity-4 finding.
+    e1 = set()
+    for lemma in ((reg.get("exceptions") or {}).get("E-1") or {}).get("licensed_verbs") or []:
+        e1.update(s.lower() for s in surfaces(lemma))
+    return verb2class, class_sev, ent2grade, licensed, partial, e1
 
 
-def tier(cls, grade, licensed):
+def tier(cls, grade, licensed, verb=None, partial=None, e1=None):
     """Severity tier per the registry's `tiers` block."""
     if cls in licensed.get(grade, set()):
         return 0                                   # licensed; not a finding
+    if verb and (partial or {}).get(grade, {}).get(cls) and verb in partial[grade][cls]:
+        return 0                                   # W-1 partial license
+    if verb and e1 and grade == 3 and verb in e1:
+        return 0                                   # E-1, ruled STANDING
     if cls in ("perception", "intention"):
         return 3
     if cls == "social-causal":
@@ -155,7 +174,7 @@ def read_body(path):
     return KEEP_BLOCK.sub("", raw)
 
 
-def scan(path, verb2class, ent2grade, licensed):
+def scan(path, verb2class, ent2grade, licensed, partial=None, e1=None):
     """Every (entity, verb) pair inside a ±5-token window. High recall by design."""
     hits = []
     body = read_body(path)
@@ -182,7 +201,7 @@ def scan(path, verb2class, ent2grade, licensed):
                         # a person intervening owns the verb, not the abstraction
                         if any(ent2grade.get(toks[k]) == 1 for k in range(i + 1, j)):
                             break
-                        t_ = tier(cls, grade, licensed)
+                        t_ = tier(cls, grade, licensed, toks[j], partial, e1)
                         if t_ == 0:
                             break
                         hits.append({
@@ -199,10 +218,14 @@ def flags_for(ent, grade, cls, sent):
     f = []
     if "game" in ent:
         f.append("AMBIGUOUS-REFERENT")
+    # W-1 and W-2 were both ruled on 2026-08-02, so the PENDING tags are gone.
+    # What survives the partial license is a real finding, not a held question.
     if grade == 3 and cls == "intention":
-        f.append("W-1-PENDING")
+        f.append("W-1-ILLEGAL")          # not want/seek/aim, so deliberation
+    if grade == 3 and cls in ("speech", "social-causal"):
+        f.append("CHECK-E-1")            # E-1 shape, or a genuine violation
     if grade == 0 and ent in ("the book", "this chapter", "the chapter", "the section"):
-        f.append("W-2-PENDING")
+        f.append("W-2-ILLEGAL")
     return f
 
 
@@ -304,12 +327,12 @@ def main():
     a = ap.parse_args()
 
     reg = load_registry()
-    v2c, _sev, e2g, lic = build_index(reg)
+    v2c, _sev, e2g, lic, partial, e1 = build_index(reg)
     files = [os.path.join(ROOT, p) for p in a.paths] or targets(a.include_legacy)
 
     rows = []
     for f in files:
-        rows += scan(f, v2c, e2g, lic)
+        rows += scan(f, v2c, e2g, lic, partial, e1)
     report(rows, files, a.report)
     return 0
 

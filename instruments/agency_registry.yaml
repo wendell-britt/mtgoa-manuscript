@@ -4,7 +4,8 @@
 # Lives in instruments/ rather than the spec's tools/ because this repo has no
 # tools/ directory; instruments/ is where every measurement lives.
 #
-# STATUS 2026-08-02: W-1 and W-2 are RULED and CLOSED. W-3 and W-4 remain open.
+# STATUS 2026-08-02: W-1 and W-2 are RULED and CLOSED. E-1 is STANDING. W-3 and
+# W-4 remain open.
 # Wendell's method was to scan first and rule on evidence, and it paid: both
 # rulings came out narrower than the spec proposed, and W-2's proposal turned
 # out to be aimed at the wrong pronoun. See `open_rulings` below.
@@ -135,6 +136,15 @@ grades:
       EVERY OTHER intention verb stays illegal: tries, decides, refuses,
       promises, convinces, means-to. Those ascribe deliberation, and a channel
       that deliberates is a channel with a mind.
+
+      CORRECTION 2026-08-02: the W-1 analysis described the liturgical register
+      as "all perception and directional". That was wrong. It runs on `teach`
+      (social-causal, severity 4) and `says` (speech, severity 3), both of which
+      outrank the intention class W-1 was arguing about. The W-1 ruling is
+      unaffected -- the register still contains no intention verb, so licensing
+      `want` costs the signature device nothing -- but the register is NOT
+      inside Grade 3's licensed classes at all. It is an ontological exception.
+      See `exceptions: E-1`.
 
       Note on verb SENSE, which cost the first two scans their accuracy:
       `mean` in the semantic sense ("fear meant something" = signified) is not
@@ -369,6 +379,73 @@ tiers:
   1: "mechanical or directional on an unlicensed subject; isolated causal-bare"
 
 # ---------------------------------------------------------------- open rulings
+# ---------------------------------------------------------------- exceptions
+# Carve-outs that sit OUTSIDE the grade system rather than inside it. A grade
+# says which verb classes an entity may take. An exception says a device is
+# constitutive of the book's argument, so the Traceability Rule is satisfied by
+# the thesis itself rather than by a mechanism in the local passage.
+#
+# Exceptions are Wendell-only. Do not add, widen, or infer one.
+
+exceptions:
+  E-1:
+    name: The education-by-emotions register
+    ruled_by: Wendell Britt
+    date: 2026-08-02
+    status: STANDING
+    basis: >
+      Ontological, not stylistic-only. The book's thesis is that emotions
+      educate -- ch3:207 states it outright: "Other practices manage emotions.
+      Other practices optimize them. This one is the education by emotions."
+      A channel that teaches is therefore not unearned agency. The mechanism is
+      the argument of the book, which satisfies C1 at the level of the whole
+      work rather than the local sentence. Grading it as a severity-4
+      social-causal violation inverts the relationship: it would flag the thesis
+      for being stated.
+    licensed_verbs: [teach, say, report]
+    licensed_shape: >
+      The channel DELIVERS A TRUE CONTENT ABOUT THE PERSON'S OWN STATE OR
+      VALUES. That is the whole of it. "Fear teaches you what you actually care
+      about." "Sadness says: this was true." The channel is a source of
+      information about its bearer.
+    still_illegal: >
+      The channel exerting SOCIAL FORCE ON ANOTHER PARTY. A channel may not
+      reward, punish, judge, blame, shame, invite, forbid, permit, demand of, or
+      require of anyone. It may not argue, insist, claim, warn, persuade or
+      concede. Those verbs need a counterparty and a will, and neither is in the
+      model. The line is delivery-of-signal versus exertion-of-pressure, and it
+      is not negotiable by resemblance -- `teach` being legal does not make
+      `train` legal, and `say` being legal does not make `insist` legal.
+    scope_is_the_device_not_a_line_range: >
+      E-1 travels with the device, not with ch3. It covers ch9:380 ("The fear
+      does not say don't do this. The fear says this matters enough to be
+      afraid of.") and ch4:674 ("a defence answers an accusation and Water made
+      a report") on the same grounds as the ch3 block, because all three are the
+      channel delivering a true content about its bearer.
+    sites:
+      # Every instance in the manuscript, from a full sweep of social-causal and
+      # speech verbs against all Grade-3 entities. Nine sites, three verbs. No
+      # other social-causal or speech verb touches a channel anywhere in the
+      # book, which is why this reads as a device under control rather than as
+      # leakage.
+      - ch3:138  "They forgot how to let sadness teach."
+      - ch3:199  "fear teaches you what you actually care about"
+      - ch3:201  "anger teaches you where you are willing to stand"
+      - ch3:203  "sadness teaches you what was real"
+      - ch3:203  "Sadness says: this was true. This connection was real."
+      - ch3:205  "joy teaches you what is aligned"
+      - ch4:222  "what is this anger teaching me"
+      - ch4:674  "a defence answers an accusation and Water made a report"
+      - ch9:380  "The fear does not say / The fear says"
+    handling: NEVER FLAG. Not an R-op. Not a W-question. Do not convert.
+    near_misses:
+      # Caught by the sweep, cleared on SENSE rather than on E-1. Recorded so a
+      # later pass does not re-flag them and then wrongly file them under E-1.
+      - ch3:150  "fear answers to imposter syndrome" -- `answers to` = goes by
+                 the name of, not a speech act
+      - ch4:670  "Fire asks for agency" -- `asks for` = calls for / requires,
+                 the same sense as "this dish asks for salt", not a speech act
+
 open_rulings:
   W-1:
     status_final: RULED 2026-08-02 — license `want` only, not the class
