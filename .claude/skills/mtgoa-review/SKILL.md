@@ -111,6 +111,22 @@ recurring private failure, which nothing has earned and nothing can. The A0 gate
 guards one corner of this (`you were taught / told / raised / trained`) and four fixed
 phrases are all it has.
 
+**The body is the worst place to reach for a subject, and it is the first place you will
+reach.** Added 2026-08-02, one turn after the rule above, because the same move came back
+wearing a body. A draft turned *the bracing fired exactly when it should* into *your body
+braced exactly when it should* — the nominalization gone, and a claim about somebody's
+somatic experience in its place. Wendell: *"you can't narrate someone's somatic experience.
+What is actually being described here and describe it. Don't make up how someone is
+feeling."*
+
+Sensation is unfalsifiable and unshared, which is what makes it such an easy subject and
+such a bad one. **Ask what is actually being described.** In that sentence it was the
+reflex outrunning the decision, and whether that is correct — a mechanism and a judgement,
+both of which the book can assert. *"You are out of its path before you have decided
+anything. When the danger is real, the Protector does not wait for you, and it should
+not."* Observable outcome, named mechanism, the book's verdict in the book's voice, and
+nothing invented about anyone's chest.
+
 **Four legal subjects when the abstraction has to go:**
 
 | | |
