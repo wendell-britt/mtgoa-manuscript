@@ -124,13 +124,11 @@ Here is where the allyship Arcade breaks the rule of every arcade you have ever 
 
 Return to the thing you brought with you. After you engage it, do you walk away with more fuel in the tank or less? That answer is your real score, whatever you looked like earning it.
 
-## The Trust System — What You're Allowed to Spend
+## The Trust System — What They Decide
 
-I have been calling the Arcade a floor full of machines. In allyship the machines are people. The person you came to help is the cabinet, and arriving with tokens does not mean you get to play.
+I have been calling the Arcade a floor full of machines, which holds up until the moment allyship starts. The person you came to help is not a machine. Nothing about them is sitting there waiting to be operated.
 
-Every cabinet reads whoever walks up to it, and the reading decides how many coins you get to put in. Some people will take a handful from you on the first day. Somebody who has never met you will take one, and there is nothing wrong with that person.
-
-So the question stops being how much you have to give. It becomes what one coin buys. Saying what you noticed, to one person, costs one. Saying the true thing to somebody's face in front of other people costs a great deal more, and that move needs a history behind it before the slot will take it. You will meet it with the Diplomat in Chapter 7.
+The person decides whether you get near. Something older than their opinion of you is doing the deciding, and its whole job is keeping them safe from people who arrive offering help. Some of the people who hurt them arrived exactly like that. So it reads you, fast, before anybody has said much.
 
 Three things get read. Whether you can actually help. Whether you do what you said you would do. Whether you meant well. Capability, integrity and benevolence, if you want the words for them.
 
@@ -140,11 +138,13 @@ So you cannot work on the third one directly. You can become a kinder person, an
 
 I have just handed you a diagram of how trust gets built, and a diagram like that doubles as instructions for faking it. I know, because I have used it that way. Looking capable is cheaper than getting good. Sounding reliable is cheaper than being reliable. The shortcut works, which is the honest problem with it. It just pays nothing. Tricking somebody into believing you are a good person is not a feeling anybody enjoys, including the person doing it.
 
+The reading changes the size of the question. The useful one is how small a move you can make that still counts. Saying what you noticed, to one person, is about as small as it gets, and almost anybody can receive it. Saying the true thing to somebody's face in front of other people asks for far more, and it needs a history behind it before it lands at all. You will meet that one with the Diplomat in Chapter 7.
+
 Which brings me back to the prize counter. What I collected there for years was praise, and praise has a shape to it. Somebody stands above you and grades you. That is the trade, every time. Take your winnings in praise and you have agreed to be judged by the person handing it over, which puts one of you above the other, and you are now doing something other than allyship.
 
-Encouragement is the smaller word and the better one. *That helped.* *Thank you.* *I know where I am now.* None of those grade you. Every one of them tells you the coin went in.
+Encouragement is the smaller word and the better one. *That helped.* *Thank you.* *I know where I am now.* None of those grade you. Every one of them tells you the move landed.
 
-So the move this week is a small one. Go back to what you brought with you and find the person inside it. Work out what one coin buys. Spend it, and let them tell you what it was worth.
+So the move this week is a small one. Go back to what you brought with you and find the person inside it. Work out the smallest move that would actually help. Do that, and let them tell you what it was worth.
 
 ## Why a Game
 
