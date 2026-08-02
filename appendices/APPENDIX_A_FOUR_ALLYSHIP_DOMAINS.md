@@ -73,9 +73,9 @@ The reverse collapse: using Gather Resources when Skillful Organizing is needed 
 
 *Architect.* Designs coordination systems with full rigor — roles, decision-making protocols, feedback loops, succession planning. Shadow: builds elegant structures that nobody can use because they were designed for the designer's level of sophistication, not the users'. Gift: builds the simplest structure that actually coordinates the complexity the group is working with.
 
-*Diplomat.* Holds the relational field that makes coordination possible across difference — the trust-building, translation, and repair work that keeps people in the coalition. Shadow: maintains surface cohesion without addressing the coordination failures underneath — harmonizing instead of organizing. Gift: can hold enough genuine relationship across real difference that the structure includes people who wouldn't otherwise be at the table.
+*Diplomat.* Holds the relational field that makes coordination possible across difference — the trust-building, translation, and repair work that keeps people in the coalition. Shadow: maintains surface cohesion without addressing the coordination failures underneath — harmonizing instead of organizing. Gift: can hold enough genuine relationship across real difference that people who wouldn't otherwise be at the table end up at it.
 
-*Sage.* Sees the whole coordination system and can tell when a structure has outlived its purpose. Shadow: panoramic view without engagement — wise about what the structure needs without being in it. Gift: knows when to dissolve a structure that's finished its work, and can do it in a way that honors what it accomplished and seeds what comes next.
+*Sage.* Sees the whole coordination system and can tell when a structure has outlived its purpose. Shadow: panoramic view without engagement — wise about what the structure lacks without being in it. Gift: knows when to dissolve a structure that's finished its work, and can do it in a way that honors what it accomplished and seeds what comes next.
 
 ---
 

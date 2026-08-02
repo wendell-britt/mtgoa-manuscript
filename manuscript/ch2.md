@@ -100,8 +100,8 @@ Every workplace conflict, every family rupture, every coalition meeting where pe
 Most of us were trained to treat these moments like isolated incidents. They are connected rounds in one larger game:
 
 - What pattern do I run when pressure rises?
-- What pattern does this group reward when things get uncertain?
-- What pattern does this system punish when someone tells the truth?
+- What pattern do the people here reward when things get uncertain?
+- What pattern do they punish when someone tells the truth?
 
 If you don't name the game, you mistake your reaction for your identity.
 If you do name the game, your reaction becomes information.
@@ -219,7 +219,7 @@ Before the map gets bigger, let me tell you how this game teaches.
 
 Most of the allyship training you've been handed works like school, compliance, or court. Learn the terms. Prove you understand them. Perform the correct response. Avoid getting it wrong. Repeat until the rules change.
 
-That structure trains performance. It does not train play.
+Trained that way, you perform. You do not play.
 
 A game teaches differently. It gives you a map, lets you make a move, shows you what happened, and lets you try again with better information. You do not become capable by memorizing the whole map before touching the joystick. You become capable by learning what it does while something is actually happening.
 
