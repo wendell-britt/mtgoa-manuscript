@@ -126,9 +126,11 @@ Return to the thing you brought with you. After you engage it, do you walk away 
 
 ## The Trust System — What They Decide
 
-I have been calling the Arcade a floor full of machines, which holds up until the moment allyship starts. The person you came to help is not a machine. Nothing about them is sitting there waiting to be operated.
+I have been calling the Arcade a floor full of machines, which holds up until the moment allyship starts. The person you came to help is not a machine. They are a player, running a game of their own, and you are the one who walked onto their floor.
 
-The person decides whether you get near. Something older than their opinion of you is doing the deciding, and its whole job is keeping them safe from people who arrive offering help. Some of the people who hurt them arrived exactly like that. So it reads you, fast, before anybody has said much.
+Some machines on that floor have a bouncer in front of them, and there is nothing human about it. Built long before you showed up, running on its own, answering to nobody, with one job written into it: keep everything away from the player it guards until that thing proves harmless.
+
+The bouncers are there for a reason. Some of the people who hurt this person arrived offering help, and a bouncer that has seen that once never forgets the shape of it. So it reads you before anybody has said much, and it reads fast.
 
 Three things get read. Whether you can actually help. Whether you do what you said you would do. Whether you meant well. Capability, integrity and benevolence, if you want the words for them.
 
@@ -139,6 +141,8 @@ So you cannot work on the third one directly. You can become a kinder person, an
 I have just handed you a diagram of how trust gets built, and a diagram like that doubles as instructions for faking it. I know, because I have used it that way. Looking capable is cheaper than getting good. Sounding reliable is cheaper than being reliable. The shortcut works, which is the honest problem with it. It just pays nothing. Tricking somebody into believing you are a good person is not a feeling anybody enjoys, including the person doing it.
 
 The reading changes the size of the question. The useful one is how small a move you can make that still counts. Saying what you noticed, to one person, is about as small as it gets, and almost anybody can receive it. Saying the true thing to somebody's face in front of other people asks for far more, and it needs a history behind it before it lands at all. You will meet that one with the Diplomat in Chapter 7.
+
+Which means some games on this floor stay shut to you for now, however many tokens you brought. You prove yourself first, and not to the person. To whatever is standing in front of them. You will find out who those bouncers are in the next chapter, and you will meet your own first, because you have a set of them too and they are why certain doors never open for you either.
 
 Which brings me back to the prize counter. What I collected there for years was praise, and praise has a shape to it. Somebody stands above you and grades you. That is the trade, every time. Take your winnings in praise and you have agreed to be judged by the person handing it over, which puts one of you above the other, and you are now doing something other than allyship.
 
