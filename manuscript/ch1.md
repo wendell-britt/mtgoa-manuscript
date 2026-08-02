@@ -124,6 +124,28 @@ Here is where the allyship Arcade breaks the rule of every arcade you have ever 
 
 Return to the thing you brought with you. After you engage it, do you walk away with more fuel in the tank or less? That answer is your real score, whatever you looked like earning it.
 
+## The Trust System — What You're Allowed to Spend
+
+I have been calling the Arcade a floor full of machines. In allyship the machines are people. The person you came to help is the cabinet, and arriving with tokens does not mean you get to play.
+
+Every cabinet reads whoever walks up to it, and the reading decides how many coins you get to put in. Some people will take a handful from you on the first day. Somebody who has never met you will take one, and there is nothing wrong with that person.
+
+So the question stops being how much you have to give. It becomes what one coin buys. Saying what you noticed, to one person, costs one. Saying the true thing to somebody's face in front of other people costs a great deal more, and that move needs a history behind it before the slot will take it. You will meet it with the Diplomat in Chapter 7.
+
+Three things get read. Whether you can actually help. Whether you do what you said you would do. Whether you meant well. Capability, integrity and benevolence, if you want the words for them.
+
+The first two are things you do. The third is a thing you are, and that difference runs the whole economy. Doing leaves a record somebody else can check. You got better at it or you did not. You kept your word or you did not. What you are leaves no record, so they guess.
+
+So you cannot work on the third one directly. You can become a kinder person, and it matters, and it still does not put the finding in their head. A decade of being read wrong is available to anybody who wants one.
+
+I have just handed you a diagram of how trust gets built, and a diagram like that doubles as instructions for faking it. I know, because I have used it that way. Looking capable is cheaper than getting good. Sounding reliable is cheaper than being reliable. The shortcut works, which is the honest problem with it. It just pays nothing. Tricking somebody into believing you are a good person is not a feeling anybody enjoys, including the person doing it.
+
+Which brings me back to the prize counter. What I collected there for years was praise, and praise has a shape to it. Somebody stands above you and grades you. That is the trade, every time. Take your winnings in praise and you have agreed to be judged by the person handing it over, which puts one of you above the other, and you are now doing something other than allyship.
+
+Encouragement is the smaller word and the better one. *That helped.* *Thank you.* *I know where I am now.* None of those grade you. Every one of them tells you the coin went in.
+
+So the move this week is a small one. Go back to what you brought with you and find the person inside it. Work out what one coin buys. Spend it, and let them tell you what it was worth.
+
 ## Why a Game
 
 The opening gave you one reason to run allyship as a game: the frame sets distance between you and the outcome, and it hands you clear rules and objectives in a place where most people are improvising blind. Detachment and clarity. That is the first reason.
