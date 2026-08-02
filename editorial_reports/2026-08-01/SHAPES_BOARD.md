@@ -14,12 +14,12 @@ the quest section of ch3, ch4, ch5, ch6 and ch7. It is not five defects. It
 is one decision, and `ch4:744` says *It arrives as anticipation*, which makes
 the refrain inconsistent in exactly one place.
 
-## Totals — 221 sites
+## Totals — 220 sites
 
 | Shape | sites |
 |---|---|
 | binary contrast | **56** |
-| definite-article series | **50** |
+| definite-article series | **49** |
 | determiner run | **115** |
 
 ## Per component
@@ -27,7 +27,7 @@ the refrain inconsistent in exactly one place.
 | Component | binary contrast | definite-article series | determiner run | total |
 |---|---|---|---|---|
 | authors_note.md | 1 | 0 | 1 | **2** |
-| ch1.md | 2 | 10 | 2 | **14** |
+| ch1.md | 2 | 9 | 2 | **13** |
 | ch2.md | 0 | 2 | 4 | **6** |
 | ch3.md | 4 | 10 | 12 | **26** |
 | ch4.md | 9 | 3 | 18 | **30** |
@@ -64,44 +64,8 @@ the refrain inconsistent in exactly one place.
 - `not a rule. A t` · manuscript/ch5.md:218
 - `Not because they're perfect. B` · manuscript/ch5.md:575
 - `not the reading. The v` · manuscript/ch5.md:597
-- `is not enthusiasm. It is` · manuscript/ch5.md:649
-- `Not the person standing at that point. The p` · manuscript/ch6.md:28
-- `Not the job description, the actual incentive. The o` · manuscript/ch6.md:173
-- `is not a rounding error in the model. It is` · manuscript/ch6.md:209
-- `is not five judgments. It is` · manuscript/ch6.md:226
-- `is not the territory. It is` · manuscript/ch6.md:261
-- `not the point. The A` · manuscript/ch6.md:301
-- `is not generous. It is` · manuscript/ch6.md:415
-- `not the fix. The l` · manuscript/ch6.md:444
-- `not a courtesy. The p` · manuscript/ch6.md:516
-- `is not enthusiasm. It is` · manuscript/ch6.md:566
-- `not the superpower. The s` · manuscript/ch6.md:579
-- `is not softer at the close. It is` · manuscript/ch7.md:473
-- `is not a mistake you can absorb and repair. It is` · manuscript/ch7.md:509
-- `not a defence. A d` · manuscript/ch7.md:519
-- `is not making contact; the Bridge-Builder does that in the first hour. It is` · manuscript/ch7.md:541
-- `is not enthusiasm. It is` · manuscript/ch7.md:728
-- `Not the real Sage, the village's version. The o` · manuscript/ch8.md:162
-- `Not a new game above the others. A m` · manuscript/ch8.md:228
-- `not the same as the failure. The g` · manuscript/ch8.md:362
-- `Not because the terrain is hard. B` · manuscript/ch8.md:472
-- `Not because you can't be with people. B` · manuscript/ch8.md:476
-- `not the common configuration. A p` · manuscript/ch8.md:511
-- `Not because they transcended the lower games. B` · manuscript/ch8.md:626
-- `is not Fire, Water, Metal, Earth, or Wood. It's` · manuscript/ch8.md:697
-- `not a step toward it. The f` · manuscript/ch9.md:368
-- `Not a better version of the problem. The a` · manuscript/ch9.md:394
-- `not the Player in distortion. The P` · manuscript/ch9.md:414
-- `not an audience. The a` · manuscript/ch9.md:526
-- `is not a design. It is` · manuscript/ch9.md:538
-- `not a method but a path. The p` · manuscript/ch9.md:620
-- `Not the one you should do. The o` · appendices/APPENDIX_B_QUESTS_CAMPAIGNS.md:15
-- `is not to classify every move perfectly. It is` · appendices/APPENDIX_C_FIVE_CHANNELS.md:88
-- `is not abstract therapy. It is` · appendices/APPENDIX_E_321_SHADOW_PROCESS.md:20
-- `is not one practice. It is` · appendices/APPENDIX_E_321_SHADOW_PROCESS.md:92
-- `not a fixed set. The b` · appendices/APPENDIX_F_POLARITY_MAP.md:50
 
-## definite-article series — 50
+## definite-article series — 49
 
 - `The friend who votes wrong, the parent whose politics make you wince, the coworker who says the outdated thing` · manuscript/ch1.md:50
 - `the fear, the anger, the sadness most people are trained to keep down) and turns it i` · manuscript/ch1.md:111
@@ -112,7 +76,6 @@ the refrain inconsistent in exactly one place.
 - `the game, the only move Chance rewards, and the jackpot you are still there for is real` · manuscript/ch1.md:161
 - `the friend, the coworker, the kid` · manuscript/ch1.md:191
 - `the scout's, the athlete's, the doctor's)` · manuscript/ch1.md:215
-- `the thought, the feeling, the experience on a page is halfway to something` · manuscript/ch1.md:241
 - `the meeting that goes sideways, the community built to hold and doesn't, the low hum of something wrong that a` · manuscript/ch2.md:11
 - `the ones you inherited, the ones you performed, the ones you never examined because you were too busy showing ` · manuscript/ch2.md:144
 - `The Architect, the Diplomat, the Sage` · manuscript/ch3.md:66
@@ -124,35 +87,6 @@ the refrain inconsistent in exactly one place.
 - `The stated content is the agenda item, the disagreement, the plan` · manuscript/ch3.md:788
 - `the right thing, the honest need named and asked for, the unsaid thing put on the table so a group can work` · manuscript/ch3.md:810
 - `the resentment, the power nobody names, the silence everyone is keeping) to the group` · manuscript/ch3.md:837
-- `The Diplomat's close, the Challenger's line, the Regent's stand` · manuscript/ch3.md:841
-- `the angry one, the difficult one, the one who makes things worse before they get better` · manuscript/ch4.md:136
-- `the follow-up message, the hallway clarification, the *hey` · manuscript/ch4.md:319
-- `the Forest and into the Village this week, the meeting, the group chat` · manuscript/ch4.md:382
-- `the lines were drawn, the costs were named, the boundaries were set` · manuscript/ch5.md:74
-- `the village's stated values, the yearly ceremony that renewed the vows, the roles that passed from person to p` · manuscript/ch5.md:78
-- `the work (the frameworks, the vocabulary, the rituals someone before you built with real stakes)` · manuscript/ch5.md:272
-- `the authoritarian, the traditionalist, the one who wants to run things` · manuscript/ch5.md:314
-- `The Shaman works in emotion, the Challenger in will, the Architect in logic` · manuscript/ch5.md:330
-- `the damage inventory, the personal workaround, the practice of carrying` · manuscript/ch5.md:635
-- `The five modes, the stage sequence, the part of you that feels the system before it models it` · manuscript/ch6.md:161
-- `the org chart, the RACI matrix, the role description` · manuscript/ch6.md:169
-- `the structures that produce outcomes, the leverage points that change systems, the mental models that explain ` · manuscript/ch6.md:253
-- `The family dinner stays warm, the standup stays pleasant, the two of you stay kind with each other` · manuscript/ch7.md:361
-- `the next conversation, the next working group, the next season when conditions might be better` · manuscript/ch7.md:425
-- `the reading, the line, the keeping` · manuscript/ch8.md:39
-- `The game was yours for a time, the time was real, and the ending is not the same as the failure` · manuscript/ch8.md:362
-- `the last move, the one that takes years, the one that earns the name` · manuscript/ch8.md:665
-- `the brother's right to know, the family pattern of not saying, the ten years of managing this alone` · manuscript/ch8.md:679
-- `the Challenger's, the Regent's, the Architect's` · manuscript/ch9.md:169
-- `the protest, the meeting, the difficult conversation` · manuscript/ch9.md:252
-- `the guilt, the shame, the avoidance` · manuscript/ch9.md:356
-- `the entire scenario (the failure, the criticism, the public collapse) before I've taken a single real action` · manuscript/ch9.md:380
-- `the election, the pandemic, the ongoing catastrophe) where you felt morally obligated to act` · manuscript/ch9.md:392
-- `the Shaman's Forest, the Challenger's Battle Lines, the Regent's Legacy` · manuscript/ch9.md:466
-- `the Architect's Blueprint, the Diplomat's Field, the Sage's Panoramic View` · manuscript/ch9.md:466
-- `the infrastructure of giving, the pipelines, the systemic conditions that move resources sustainably` · appendices/APPENDIX_A_FOUR_ALLYSHIP_DOMAINS.md:44
-- `the systemic pattern legible — the data, the structural analysis, the map of how this keeps happening` · appendices/APPENDIX_A_FOUR_ALLYSHIP_DOMAINS.md:138
-- `the charge, the fixation, the rehearsed arguments in the shower — lives in you` · appendices/APPENDIX_E_321_SHADOW_PROCESS.md:64
 
 ## determiner run — 115
 
@@ -176,99 +110,4 @@ the refrain inconsistent in exactly one place.
 - `The Challenger aims the read into a line. The Architect builds structure from it. The Regent keeps what the re` · manuscript/ch3.md:841
 - `The record is complete. The undergoing did not happen.` · manuscript/ch3.md:874
 - `The village built rituals around this. The Challenger would speak first at councils.` · manuscript/ch4.md:70
-- `The Regent was more efficient. The Regent was more scalable. The Regent was more *sustainable.*` · manuscript/ch4.md:82
-- `The clean no does not dissolve. The clean no states.` · manuscript/ch4.md:144
-- `The Shaman reads the fire. The Challenger uses it.` · manuscript/ch4.md:245
-- `A Line without a Reckoning is a request. A Demand without a Refusal is a plea.` · manuscript/ch4.md:263
-- `The Challenger does not suppress it. The Challenger receives it.` · manuscript/ch4.md:295
-- `The Shaman taught you to read this. The Challenger teaches you to use it.` · manuscript/ch4.md:297
-- `A line being crossed. A commitment being violated. A cost being ignored.` · manuscript/ch4.md:299
-- `The Challenger aims first. The aiming turns raw fire into clean action.` · manuscript/ch4.md:301
-- `The Challenger stated. The Challenger stood.` · manuscript/ch4.md:319
-- `The fire was real. The line was real.` · manuscript/ch4.md:436
-- `The one who draws lines while you stay pleasant. The colleague who said no without apologizing. The public fig` · manuscript/ch4.md:464
-- `The Challenger in distortion controls. The real Challenger protects.` · manuscript/ch4.md:468
-- `The naming does not remove the fear. The naming separates the past from the present.` · manuscript/ch4.md:521
-- `The tell is never the position. The tell is whether you ever move.` · manuscript/ch4.md:579
-- `The Challenger does not build. The Challenger clears the ground.` · manuscript/ch4.md:757
-- `The Challenger clears the ground. The Regent builds what stays.` · manuscript/ch4.md:775
-- `The Regent can organize power. The Regent can build institutions.` · manuscript/ch4.md:781
-- `The Challenger had drawn lines. The Challenger had said no.` · manuscript/ch5.md:70
-- `The village loved the Regent. The Regent gave them permanence.` · manuscript/ch5.md:82
-- `The Regent didn't notice at first. The Regent was busy.` · manuscript/ch5.md:92
-- `The village kept the traditions. The village kept the roles.` · manuscript/ch5.md:100
-- `The founding energy burned through. The people who cared most burned out.` · manuscript/ch5.md:183
-- `A ceremony. A role. A practice. A language.` · manuscript/ch5.md:218
-- `Your inheritance. Your axis.` · manuscript/ch5.md:274
-- `The first crisis, they adapted. The second, they circled.` · manuscript/ch5.md:318
-- `The Keeper of Vows does not perform loyalty. The Keeper of Vows lives it.` · manuscript/ch5.md:352
-- `The Keeper does not need to be seen. The Keeper needs to be steady.` · manuscript/ch5.md:374
-- `The repair itself is sound. The distortion is what gets attached to it.` · manuscript/ch5.md:494
-- `The tell is never the position. The tell is whether anything ever gets accepted.` · manuscript/ch5.md:538
-- `The Regent cannot *design* what the tradition should become. The Regent inherits and tends. The Architect envi` · manuscript/ch5.md:662
-- `The village was wrong. The Architect's love is structural. The Architect builds something better.` · manuscript/ch5.md:668
-- `The Architect didn't mean it that way. The Architect never meant it that way. The Architect was also not not s` · manuscript/ch6.md:74
-- `The village did not want to be shown. The village wanted to be heard.` · manuscript/ch6.md:91
-- `The Architect's oldest wound lives inside the gift. The Architect's clarity doubles as the Architect's blind s` · manuscript/ch6.md:93
-- `The Architect had that capacity. The Architect had simply spent it elsewhere.` · manuscript/ch6.md:97
-- `The village built accountability structures that nobody trusted. The village built meeting formats that everyo` · manuscript/ch6.md:116
-- `The Architect does not fall in love with designs. The Architect falls in love with outcomes.` · manuscript/ch6.md:265
-- `The heat becomes a proposal. The dread becomes a risk register. The sadness becomes a retrospective.` · manuscript/ch6.md:344
-- `The Model is clean. The Design is elegant.` · manuscript/ch6.md:365
-- `The problem gets fixed. The person stays unmet.` · manuscript/ch6.md:373
-- `Your name is on it. Your thinking is in it.` · manuscript/ch6.md:375
-- `The tell is never the position. The tell is whether the answer is ever Agency.` · manuscript/ch6.md:405
-- `The system barely moves. The designer gets exhausted.` · manuscript/ch6.md:438
-- `The design is the thought. The thought is the designer.` · manuscript/ch6.md:512
-- `The map that makes you unnecessary. The leverage point instead of the brute-force push. The unstated assumptio` · manuscript/ch6.md:524
-- `The field stays charged. The Field-Holder does not calm it down.` · manuscript/ch7.md:349
-- `A boundary. A format.` · manuscript/ch7.md:367
-- `The Challenger's deadline is a breath. The Regent's is a cycle.` · manuscript/ch7.md:517
-- `The reading is good. The output is an account.` · manuscript/ch7.md:704
-- `The Bridge-Builder moves through the terror of real contact. The Translator transmutes intellectual superiorit` · manuscript/ch7.md:751
-- `The guru on the mountain. The teacher who has risen above it all.` · manuscript/ch8.md:87
-- `The village wanted wisdom to look like departure. The Sage kept showing up like it was simple.` · manuscript/ch8.md:97
-- `The Sage who sees everything and commits to nothing. The Sage who has risen above the fray.` · manuscript/ch8.md:99
-- `A good story. A story that isn't wrong.)*` · manuscript/ch8.md:121
-- `The person who needed the pattern named gets validation. The Sage walks away having helped. The other person w` · manuscript/ch8.md:180
-- `The horse wasn't thirsty. The design was elegant. The horse was not thirsty.` · manuscript/ch8.md:182
-- `The Shaman knows what they feel. The Challenger knows what line to draw. The Regent knows what tradition to ca` · manuscript/ch8.md:212
-- `The Sage sees so they can serve. The distortion sees so it can be right.` · manuscript/ch8.md:250
-- `The game read tells you what to do. The altitude read tells you how to say it.` · manuscript/ch8.md:264
-- `The fight has a rhythm you're good at. The struggle doubles as its own perverse entertainment.` · manuscript/ch8.md:358
-- `The body is present. The person is not.` · manuscript/ch8.md:384
-- `The Sage who names it gets called difficult. The Sage who doesn't gets called wise. The village prefers the se` · manuscript/ch8.md:476
-- `The technique ranks below it. The framework ranks below it.` · manuscript/ch8.md:478
-- `The first is service. The second is shadow.` · manuscript/ch8.md:482
-- `The bookshelf is the symptom. The bookshelf looks exactly like diligence.` · manuscript/ch8.md:521
-- `The Challenger's deadline is a breath. The Regent's is a cycle. The Architect's is a stage. The Diplomat's is ` · manuscript/ch8.md:529
-- `The Challenger defaults to power. The Architect defaults to strategy. The Diplomat defaults to harmony.` · manuscript/ch8.md:618
-- `The plan is good. The plan was the wrong game twenty minutes ago.` · manuscript/ch8.md:630
-- `The Player had learned all the Faces. The Player had run the WAVE.` · manuscript/ch9.md:31
-- `The village was glad to see it. The village needed someone to go first.` · manuscript/ch9.md:33
-- `A finished product. A fully-realized identity you arrived at and then maintained.` · manuscript/ch9.md:45
-- `The Challenger type. The Regent type. The Architect type. The Diplomat type. The Sage type.` · manuscript/ch9.md:49
-- `The six Faces are your toolkit. The WAVE is your process. The practice of returning is your anchor.` · manuscript/ch9.md:83
-- `The WAVE. The six Faces. The emotional channels.` · manuscript/ch9.md:95
-- `The Founder and the Architect do different work. The Architect designs systems for others to use.` · manuscript/ch9.md:151
-- `The Elder doesn't start new things. The Elder hands things forward.` · manuscript/ch9.md:165
-- `The modes loop, and each pass through goes deeper. The deck outlasts any single trip through it.` · manuscript/ch9.md:196
-- `The Player is always mapping. The Player is always designing. The Player is never finished.` · manuscript/ch9.md:210
-- `The map shows the path. The map doesn't show the rain.` · manuscript/ch9.md:298
-- `The map isn't complete. The WAVE isn't mastered.` · manuscript/ch9.md:330
-- `The book refused to come clear. The shape kept changing.` · manuscript/ch9.md:360
-- `The first draft was the walk. The third rewrite was the walk. The chapter I could not write was the walk.` · manuscript/ch9.md:368
-- `The fear doesn't go away. The relationship to the fear changes.` · manuscript/ch9.md:378
-- `The rehearsal feels like work. The actual thing runs simpler and scarier.` · manuscript/ch9.md:382
-- `The WAVE doesn't end when you leave the book. The WAVE runs through your actual life.` · manuscript/ch9.md:384
-- `The scale doesn't matter. The specificity does.` · manuscript/ch9.md:436
-- `The design was wrong. The timing was wrong.` · manuscript/ch9.md:444
-- `The Player walks. The Player builds. The Player makes mistakes. The Player reviews, discerns, designs, builds,` · manuscript/ch9.md:454
-- `The design does not have to be finished. The system does not have to anticipate every case.` · manuscript/ch9.md:500
-- `The practice is what you do between the moves. The moves name what to do.` · manuscript/ch9.md:582
-- `The organization can't pay staff. The campaign can't afford the venue.` · appendices/APPENDIX_A_FOUR_ALLYSHIP_DOMAINS.md:30
-- `The most photogenic domain. The one most mistaken for the whole of allyship.` · appendices/APPENDIX_A_FOUR_ALLYSHIP_DOMAINS.md:86
-- `A colleague. A family member. A public figure. A part of yourself you keep calling "not me."` · appendices/APPENDIX_E_321_SHADOW_PROCESS.md:70
-- `The pair changes with altitude. The map doesn't.` · appendices/APPENDIX_F_POLARITY_MAP.md:22
-- `The map is preparation. The move is the practice.` · appendices/APPENDIX_F_POLARITY_MAP.md:73
 

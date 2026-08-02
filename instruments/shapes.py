@@ -88,6 +88,10 @@ BINARY = re.compile(
     r"(?:(?<=[.!?] )|(?<=\n)|^)Not because\b[^.!?]{0,120}[.!?]\s*(?:But )?[A-Z]"
     r"|\bdoes not \w+ because\b[^.!?]{0,120}\.\s*It \w+ because\b"
     r"|\bis not \w[^.!?]{0,80}\.\s*It(?:'s| is)\b"
+    # ADDED 2026-08-02. Missed a real one in a drafted ch1 section: "The honest
+    # problem with that shortcut is not that it fails. It often works." The rule
+    # above required `It is`/`It's` to follow, so any other verb slipped through.
+    r"|\bis not that\b[^.!?]{0,60}\.\s*It \w+"
     r"|[Tt]he question is ?n(?:'|o)t\b[^.!?]{0,80},? it(?:'s| is)\b"
     r"|[Ii]t(?:'s| is) not just \w[^.!?]{0,60}\bbut\b"
     r"|[Nn]ot (?:a|an|the) \w[^.!?]{0,40}\. (?:A|An|The) \w")
