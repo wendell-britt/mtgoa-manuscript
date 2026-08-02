@@ -84,7 +84,7 @@ The six Faces are your toolkit. The WAVE is your process. The practice of return
 
 Nobody else can design this game. Nobody else has your specific combination of gifts and gaps, your specific history, your specific people. The village needed the six Faces as a teaching instrument, and now the teaching instrument passes to you. You can use it to build whatever this book could not build. You can design the allyship practice that this book only points toward.
 
-The book has been preparing you for this. Not to consume the six Faces. To design your own.
+You have been preparing for this. Not to consume the six Faces. To design your own.
 
 People mistake a practice for a personality type, a morning routine, or a values statement written once and forgotten.
 
@@ -92,7 +92,7 @@ A practice is what you actually do when something hard happens.
 
 That's the only definition that matters. What you believe about allyship is a separate question. What you intend to do when you're calm is a separate question. This one names what you do when you're activated, when your mother calls, when the group chat erupts, when someone says something that lands wrong and you have to decide in real time whether to say something or say nothing. The practice happens when it costs you something to do it.
 
-This book has been teaching you what to do in those moments. The WAVE. The six Faces. The emotional channels. These aren't concepts to understand: they're moves to make. Like any moves, they require practice, the doing kind, repeated, a different thing from having read about them.
+You have been learning what to do in those moments. The WAVE. The six Faces. The emotional channels. These aren't concepts to understand: they're moves to make. Like any moves, they require practice, the doing kind, repeated, a different thing from having read about them.
 
 ---
 
@@ -259,7 +259,7 @@ Here's what I've noticed about my own arrival at this work: I came to it the way
 
 The shift happened when I stopped asking *what should I do* and started asking *what is actually happening inside me when I see this.* That's the Shaman's move. Not fixing the outward problem. Feeling what's true. Naming what's actually there. Staying with it long enough to let it complete its cycle before acting.
 
-That's what this book has been teaching you. Not what to do. How to be capable before you do.
+That's what you have been learning. Not what to do. How to be capable before you do.
 
 ---
 
@@ -285,7 +285,7 @@ You now know the WAVE. Wake up. Open up. Clean up. Grow up. Show up. Then you co
 
 You know that the return is not optional, that coming back makes the work real. That carrying what you found back to the village is the whole point.
 
-You know that the five emotional channels do more than name things: they map the territory this book has been walking you into. Fear, anger, sadness, joy, neutrality: each one a gate you can walk through instead of a threat to manage.
+You know that the five emotional channels do more than name things: they map the territory you have been walking into. Fear, anger, sadness, joy, neutrality: each one a gate you can walk through instead of a threat to manage.
 
 ---
 

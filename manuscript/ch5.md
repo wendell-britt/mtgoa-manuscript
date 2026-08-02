@@ -314,7 +314,7 @@ Loyalty is deeply unfashionable in progressive circles. It sounds like obedience
 
 Real loyalty is chosen. Real loyalty sees the whole inheritance (the gift and the damage) and decides, with full knowledge, to carry it forward. Real loyalty can be broken when the tradition breaks you. Real loyalty can be reformed when the tradition no longer serves what it originally served. That's the most loyal thing there is, and it will read as disloyalty.
 
-This section teaches the Regent's cycle: how to work with your inheritance consciously, move through it cleanly, and pass it forward without passing on the wounds.
+Here is the Regent's cycle: how to work with your inheritance consciously, move through it cleanly, and pass it forward without passing on the wounds.
 
 ---
 
@@ -539,7 +539,7 @@ Then comes the second move, the Healer half, and it costs you more. When the rep
 <!-- /MARGINALIA -->
 
 
-This daemon stands where it stands for a reason, in a book about allyship. Everything this chapter teaches runs on receiving something before you have finished evaluating it. Inherit, then Honor: take on what arrived, then sort what in it still serves. The Fixer-Healer ends the cycle between those two steps, not by arguing that the inheritance is bad, but by ruling that it is not yet in a condition to be inherited. The evaluation never closes. You never get to Honor, because Honor requires having accepted the inheritance, and acceptance keeps getting deferred to the far side of a repair that has no far side.
+This daemon stands where it stands for a reason, in a book about allyship. Everything in this cycle runs on receiving something before you have finished evaluating it. Inherit, then Honor: take on what arrived, then sort what in it still serves. The Fixer-Healer ends the cycle between those two steps, not by arguing that the inheritance is bad, but by ruling that it is not yet in a condition to be inherited. The evaluation never closes. You never get to Honor, because Honor requires having accepted the inheritance, and acceptance keeps getting deferred to the far side of a repair that has no far side.
 
 The cost is generational, so it takes a long time to surface. The people coming after need something receivable: a role with a shape, a practice with the reason still attached, an account of why any of this is here. A personally-held inheritance offers them competence instead, unwritten, undelegated, and available only while its carrier is. Nobody gets wronged in a way anyone can name. Nothing remains to hand over when the hand-over comes.
 

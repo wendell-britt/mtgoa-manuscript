@@ -47,7 +47,7 @@ The word doing the work is *and*. The moment you can say both halves in one brea
 
 ## The pairs
 
-These are starting points, not a fixed set. The book names four because four chapters needed them; you will find your own. Each is written as a true tension — both ends right, both costly alone.
+These are starting points, not a fixed set. I name four because four chapters needed them; you will find your own. Each is written as a true tension — both ends right, both costly alone.
 
 - **Honor ↔ Reform** *(the Regent's pair, Chapter 5).* Keep the inheritance that still holds; update the form when the essence requires it. Parked at *honor*, you defend a ritual that stopped doing its job. Parked at *reform*, you tear out load-bearing things to feel clean.
 - **Care ↔ Impact** *(the Diplomat's pair, Chapter 7).* Tend the relationship; move the actual outcome. Parked at *care*, the conversation thickens to molasses and nothing gets said. Parked at *impact*, you win the point and lose the person you needed.

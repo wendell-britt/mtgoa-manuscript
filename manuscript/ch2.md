@@ -106,7 +106,7 @@ Most of us were trained to treat these moments like isolated incidents. They are
 If you don't name the game, you mistake your reaction for your identity.
 If you do name the game, your reaction becomes information.
 
-That's the pivot this chapter needs from you. We are not pretending life is tidy or fair. We are recognizing that repeated social pressure creates repeated moves, and repeated moves create character, culture, and consequence.
+That's the pivot I need from you. We are not pretending life is tidy or fair. We are recognizing that repeated social pressure creates repeated moves, and repeated moves create character, culture, and consequence.
 
 The Forest is where you learn to interrupt automatic play. You don't need to master the whole game today. You need to become a conscious player in the next move.
 
@@ -131,7 +131,7 @@ Were you doing this to change something, or to seem like the kind of person who 
 
 Picture a meeting that goes cold. The body knows exactly what is happening, maybe before anyone speaks, and the read gets set aside for the consensus, not for lack of capacity, but because body-knowing, in a certain framework, belongs to people closer to their roots, and claiming it can feel like appropriation. So the literacy gets built and the read goes unused.
 
-The body doing that reading never appropriated anything. It is yours. You already have the Shaman's first move. This chapter asks whether you will stop treating your own somatic intelligence as something that belongs to someone else.
+The body doing that reading never appropriated anything. It is yours. You already have the Shaman's first move. I am asking whether you will stop treating your own somatic intelligence as something that belongs to someone else.
 
 Wanting to be good was never the problem. Trying to seem good takes the whole body. That leaves nothing over. The face you're holding in place and the face underneath it run at the same time, and the exhaustion actually lives in that split.
 
@@ -227,9 +227,9 @@ A game also needs a somewhere. You do not make a move in the abstract. You make 
 
 The school is somewhere to stand while you practice, and that is the whole of its job. Nobody will quiz you on the plot. A teacher who has to answer for what her method costs will tell you more than a framework that answers to nobody, and the only route I found to letting you argue with a Face was to give it a mouth that argues back.
 
-Chapter 1 put the joystick in your hands. This chapter teaches you how to walk the book.
+Chapter 1 put the joystick in your hands. Here you learn how to walk the book.
 
-You are going to meet more language than you can use all at once. That is normal. You will see the daemons more than once: first as a map, then as a walk, then as a move. The repetition is deliberate. It is how the book teaches recognition.
+You are going to meet more language than you can use all at once. That is normal. You will see the daemons more than once: first as a map, then as a walk, then as a move. The repetition is deliberate. It is how you come to recognise them.
 
 The work is to notice the first place you recognize yourself in the map, in place of memorizing the roster, mastering the Guides, or becoming the kind of person who can explain the whole system at dinner.
 

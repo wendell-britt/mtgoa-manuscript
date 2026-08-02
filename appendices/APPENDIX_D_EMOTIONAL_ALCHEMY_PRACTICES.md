@@ -8,7 +8,7 @@
 
 ---
 
-The book asks you to do things with your emotions that are hard to do when the charge is already running — read a channel, run a WAVE, stay at the table after you've named the game. These three practices are the body's way in. They predate this book; they come from *Igniting Joy*. Use them when the framework asks for something your state won't let you reach yet.
+I ask you to do things with your emotions that are hard to do when the charge is already running — read a channel, run a WAVE, stay at the table after you've named the game. These three practices are the body's way in. They predate this book; they come from *Igniting Joy*. Use them when I ask for something your state won't let you reach yet.
 
 You don't need all three. Learn the one that fits the moment you keep finding yourself in.
 

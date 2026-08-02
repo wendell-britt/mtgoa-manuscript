@@ -31,7 +31,7 @@ without a new ruling.
 
 **Exile** — The condition of each Face after leaving the village — present but not trusted, needed but not asked, carrying a gift nobody remembers requesting. The Exile is not the Face's choice; it is what happens to the gift when the village stops needing it. *[Ch1] — See also: Distortion, Gate*
 
-**The Face** — One of six archetypal roles (Shaman, Challenger, Regent, Architect, Diplomat, Sage) that map to the chapters of this book. The book teaches allyship through working with the Faces — each chapter's work is the work of a specific Face, named so the reader knows who they are being asked to be. *[Ch1] — See also: Gate, Channel*
+**The Face** — One of six archetypal roles (Shaman, Challenger, Regent, Architect, Diplomat, Sage) that map to the chapters of this book. You learn allyship by working with the Faces — each chapter's work is the work of a specific Face, named so the reader knows who they are being asked to be. *[Ch1] — See also: Gate, Channel*
 
 **Fire (Li ☲)** — The I Ching trigram for Clarity, Illumination, What Clings to Light. Upper trigram of Ch8 (Player). Color: red. *[Ch8] — See also: Trigram, Hexagram*
 

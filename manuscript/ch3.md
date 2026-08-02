@@ -430,7 +430,7 @@ Before the table, the part I owe you.
 
 These five channels did not start with me. Metal, Water, Wood, Fire and Earth come from **wu xing**, the five-phase system that sits under classical Chinese medicine and cosmology, and it predates everything else in this book by roughly two thousand years. I have used it hard. I narrowed a cosmology down to one job it was never designed for, telling you what the feeling in your chest is for in the ten seconds you have to decide something, and I moved correspondences around to make that job work. The tradition does not put grief and fear where I have put them. What follows is my remix, not the system it came from.
 
-I am naming this in the chapter rather than in a footnote because Chapter 1 put my own fluency on the table as a thing that gets me through doors and keeps other people outside them, and running a borrowed vocabulary past you unmarked is the same move with the credit taken off. The original goes far deeper than my use of it and repays reading on its own terms; the back of the book says where to start.
+I am naming this in the chapter rather than in a footnote because Chapter 1 put my own fluency on the table as a thing that gets me through doors and keeps other people outside them, and running a borrowed vocabulary past you unmarked is the same move with the credit taken off. The original goes far deeper than my use of it and repays reading on its own terms; the back of the book points you to where to start.
 
 Every feeling you experience falls into one of five channels. Understanding which channel you're in helps you know what the feeling means to teach, and what move to make next.
 
@@ -498,7 +498,7 @@ Some moves cost. Sometimes they are still the right moves. Staying in the conver
 
 This is where a lot of allyship burns people out. They keep spending non-renewable fuel (guilt, obligation, optics, inherited debt) and calling the spending virtue. They confuse depletion with devotion.
 
-This is the fuel economy Chapter 1 handed to the Shaman to finish. Back in the Arcade, that non-renewable fuel was one of two kinds of token, the fixed supply that empties you as you spend it. The other kind, the renewable one, hands back more than you spent, and it comes from a single place: a feeling taken all the way through. That clean tiredness after a move that cost you and fed you at once is a renewable token going back in the tank. Chapter 1 named the fuel; this chapter teaches you to make it.
+This is the fuel economy Chapter 1 handed to the Shaman to finish. Back in the Arcade, that non-renewable fuel was one of two kinds of token, the fixed supply that empties you as you spend it. The other kind, the renewable one, hands back more than you spent, and it comes from a single place: a feeling taken all the way through. That clean tiredness after a move that cost you and fed you at once is a renewable token going back in the tank. Chapter 1 left you the fuel; here you learn to make it.
 
 Emotional Alchemy gives you a different test:
 

@@ -15,7 +15,7 @@ Movement builders knew this before this book existed — before WAVE, before the
 
 The failure mode that crosses all four domains is the same: most allyship breakdown isn't incompetence. It's domain mismatch. Someone doing Raise Awareness work when the situation needs Direct Action. Someone using Skillful Organizing when Gather Resources is the missing piece. Using the wrong type of work for the actual block — often without knowing there are four types to choose from.
 
-What follows is a map of each territory: what the work actually is, what it looks like when someone brings it skillfully, what happens when domains collapse into each other, and how mastery develops across each of the six capacities the book names.
+What follows is a map of each territory: what the work actually is, what it looks like when someone brings it skillfully, what happens when domains collapse into each other, and how mastery develops across each of the six capacities I name.
 
 ---
 
