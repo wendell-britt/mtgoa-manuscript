@@ -54,8 +54,8 @@ something.
 ## 3 · `ch4:115` — satire aimed at a practice
 
 > It got very good at *assertive communication.* At *using "I" statements.* At
-> framing a boundary as a preference rather than a line. **(The workshops teach
-> the scripts. The scripts do not work the way the workshops promise, which
+> framing a boundary as a preference rather than a line. **(I believed those
+> scripts for thirty years. They do not do what the trainers promise, which
 > anyone who has run one in a live moment already knows.)** … The village learned
 > to make its nos sound like yeses because yeses cost less.
 
@@ -65,10 +65,17 @@ It is in this set deliberately: **an anchor with no comedy in it will let the
 Voice Guardian approve a book that has stopped being funny**, because nothing in
 its comparison set would show that anything was lost.
 
-**Delivers via: ⚠️ collective-as-mind — and that mechanism is NOT protected.**
-*The village learned* · *the workshops teach* · *the workshops promise.* The joke
-is protected. The grammar carrying it is not. Anchor 4 is the same archetype
-delivered clean, and it is funnier, because the agent is specific.
+**Delivers via: the author's chair, and the trainers.** *I believed those scripts
+for thirty years* · *what the trainers promise.* Amended 2026-08-02, and the
+quotation above is the amended text.
+
+**What it used to deliver via, kept because it is the lesson.** *The workshops
+teach the scripts. The scripts do not work the way the workshops promise.* A
+workshop is a recurring event, not a population, so R8 had no number to change
+and the sentence carrying the actual joke was untouchable by the rule aimed at
+this passage. The joke was protected; the grammar carrying it was not. Anchor 4
+was already the same archetype delivered clean, and funnier, because the agent
+was specific. **This anchor now delivers the way anchor 4 does.**
 
 **The targeting rule, completed (amended 2026-08-02).** Mock the process that
 took someone's joystick, never the person — **and seat the mockery on a subject
@@ -83,9 +90,26 @@ order of preference:
 3. **the persons, plural** — the villagers, the trainers, the people in the room.
 4. **a machine, mechanical verbs only** — *the structure pays out nothing for optics.*
 
-**Known limit.** Pluralizing does not rescue this passage on its own. *The
-workshops* is already plural and is not a population, so the sentence carrying
-the actual joke is untouched by a number change and needs a different move.
+**Known limit — CLOSED 2026-08-02, and one half still open.** Pluralizing never
+rescued this passage on its own: *the workshops* is already plural and is not a
+population, so the sentence carrying the actual joke was untouched by a number
+change and needed a different move. That move is now made, using carrier 2 and
+carrier 3 above. **The remaining half is the village clause** — *The village
+learned to make its nos sound like yeses* — which R8 does reach and which is
+part of ch4's outstanding hand pass.
+
+**⚠️ Unruled, flagged 2026-08-02: this anchor sits outside this file's own
+scope.** §Scope reads *"These anchor Wendell's register only… Never judge a
+treatise against this file."* `ch4:115` is in Section 2, above Corin Ash's
+signature at `ch4:205`, so it is treatise prose. The comparison set for Wendell's
+register contains a passage in a Head's voice, and nothing in the file notices.
+This is why the first proposed repair here was wrong: it put Wendell's *"I have
+taught those scripts"* into Ash's mouth, which is the DL-19 author collision. The
+version that shipped uses Ash's own recorded credential from `HEAD_FACTS_pass3`
+— *"I believed them for another thirty years, and that is the only credential I
+have that matters here"* — because Ash's relationship to the bad teaching is as
+a believer, never a teacher. Whether a treatise passage may anchor Wendell's
+register at all is Wendell's call, not this file's.
 
 ## 4 · `ch5:516` — the named part, and a closing line with teeth
 
