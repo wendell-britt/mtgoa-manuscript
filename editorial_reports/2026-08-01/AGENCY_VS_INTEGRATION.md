@@ -152,7 +152,11 @@ the easiest sentence to write. Appendix A runs 84%.
 2. **The unit differs.** Agency is a sentence-level fix. Integration is a
    *transition*-level fix; rewriting single sentences will not move it.
 3. **Read ch6 and ch7 for agency**, not ch1.
-4. **The currency claim** (`ch1:101`) goes to `rescan.py` as a claim error.
+4. **The currency claim** (`ch1:101`) goes to `rescan.py` as a claim error. **Done** —
+   filed as `CL-1` in `CLAIM_ERRORS.md`, and `rescan.py` reads every dated report
+   directory now instead of only `2026-07-31/`, which is why it could be filed at all.
+   Two prior passes read that sentence closely and neither asked whether it was true;
+   the earlier of them graded it **✅ STRONG**.
 5. **Do not run these as one sweep.** They score independently, and a combined
    pass would report the agency fix as progress on the reading cost.
 
