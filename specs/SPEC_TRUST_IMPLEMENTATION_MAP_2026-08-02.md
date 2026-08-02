@@ -140,8 +140,8 @@ names the structure the chapters were built with.
 
 ### ch1 · The Infinite Arcade
 
-**Confidence: high.** The economy completes. Tokens are energy, consent is the slot,
-trust is whether the slot opens, the prize is satisfaction. The myth list reorders by
+**Confidence: high.** The economy completes. Tokens are energy, consent is the slot
+taking a coin, trust is how many coins it will take, the prize is satisfaction. The myth list reorders by
 dimension and the absence gets named. The applause counter gets the praise/encouragement
 mechanism — **not a relabel, an explanation of why it is a bad counter.**
 
