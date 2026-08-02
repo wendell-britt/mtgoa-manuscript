@@ -131,6 +131,45 @@ draft raises the fallacy and then declines the fight.
 
 ---
 
+## 2b · CORRECTION — the levels are not about whether you collect, but whose tickets count
+
+**Wendell, 2026-08-01, on the drafted paragraph:**
+
+> *"They are chasing tickets, but it's egocentric tickets. Preconventionality is
+> always egocentric. Conventionality is subject to the collective ego.
+> Postconventionality transcends that."*
+
+The draft above said the pre-conventional player *is not chasing tickets*. That is
+wrong, and wrong in a way that makes the whole thing mushy. **Nobody in this picture
+has stopped wanting a payout. What moves is whose payout counts.**
+
+| Altitude | Whose tickets |
+|---|---|
+| **pre-conventional** | mine. Nobody else's have ever counted. |
+| **conventional** | the group's. Approval, standing, being seen as good. |
+| **post-conventional** | neither. Not collecting at that counter, and not collecting at the first one either. |
+
+**This maps onto machinery the book already built,** which is why the correction makes
+the passage easier rather than harder. `ch1:119` already names *the counter marked
+applause* and says what it pays: *"being seen as good, in the right people nodding, in
+the post that does numbers… they vanish the moment the crowd turns."*
+
+**The applause counter is the collective ego.** Wilber's conventional altitude and the
+book's worthless prize counter are the same object, and neither passage knows about
+the other.
+
+So the confusion has a precise mechanism now, rather than a vibe. **The conventional
+middle sorts people by whether they turn up at its counter.** Two players never do:
+the one who was never interested in anybody's tickets but their own, and the one who
+stood at that counter for years and walked off because the approval stopped being the
+reason. From the counter, both read as *not collecting here*.
+
+**And this sharpens the cost test rather than replacing it.** Egocentric collecting is
+cheap for the collector. Collecting group approval is also cheap — it buys standing.
+Only the third pays, which is why cost still discriminates.
+
+---
+
 ## 3 · The test — the two are symmetric in appearance and not in cost
 
 The fallacy is usually stated as a symmetry, which leaves a reader with a name for
