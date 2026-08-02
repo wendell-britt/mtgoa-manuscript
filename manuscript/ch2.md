@@ -111,9 +111,9 @@ The world is not fine. The people trying to fix it keep running into the same pr
 
 Before you entered this chapter, you were already playing. You didn't choose to; the game was already running.
 
-Every workplace conflict, every family rupture, every coalition meeting where people nodded and left resentful, every moment where you chose silence, performance, attack, appeasement, or repair, those were all game moves. When you see the pattern, the incidents stop looking the same. The board is social reality. The stakes are human dignity, trust, and who gets to belong.
+Every workplace conflict, every family rupture, every coalition meeting where people nodded and left resentful, every moment where you chose silence, performance, attack, appeasement, or repair, those were all game moves. See the pattern once and you stop reading them as unrelated. The board is social reality. The stakes are human dignity, trust, and who gets to belong.
 
-Most of us were trained to treat these moments like isolated incidents. They are connected rounds in one larger game:
+Most people treat these moments as isolated incidents. They are connected rounds in one larger game:
 
 - What pattern do I run when pressure rises?
 - What pattern do the people here reward when things get uncertain?
@@ -122,7 +122,7 @@ Most of us were trained to treat these moments like isolated incidents. They are
 If you don't name the game, you mistake your reaction for your identity.
 If you do name the game, your reaction becomes information.
 
-That's the pivot I need from you. We are not pretending life is tidy or fair. We are recognizing that repeated social pressure creates repeated moves, and repeated moves create character, culture, and consequence.
+That's the pivot this chapter needs from you. Nobody here claims life is tidy or fair. Pressure repeats, so your moves repeat, and the moves you repeat build your character, the culture around you, and the consequences everybody lives with.
 
 The Forest is where you learn to interrupt automatic play. You don't need to master the whole game today. You need to become a conscious player in the next move.
 
