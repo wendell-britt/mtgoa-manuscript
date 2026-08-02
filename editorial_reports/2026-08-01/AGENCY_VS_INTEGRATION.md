@@ -1,4 +1,10 @@
-# Compare and contrast — Wendell's pattern against the measured one
+# Compare and contrast — Wendell's patterns against the measured one
+
+> **Updated 2026-08-01, batch five.** A third pattern arrived and it is neither of
+> the two below: **the prose explains itself before it is challenged.** 81 sites,
+> `instruments/preempt.py`, board in `PREEMPT_BOARD.md`. It is independent of both
+> the agency defect and the integration cost, which now makes three separate
+> passes. See §8.
 
 Wendell, 2026-08-01, asked for his read-through findings to be set against what
 the instruments have been asserting. This is that comparison. Two real defects,
@@ -149,3 +155,57 @@ the easiest sentence to write. Appendix A runs 84%.
 4. **The currency claim** (`ch1:101`) goes to `rescan.py` as a claim error.
 5. **Do not run these as one sweep.** They score independently, and a combined
    pass would report the agency fix as progress on the reading cost.
+
+---
+
+## 8 · The third pattern — the prose explaining itself
+
+Wendell, batch five:
+
+> *"an emergent pattern is where the work is explaining itself before it is
+> challenged. Instead of anticipating objections, validating them and writing the
+> text on purpose, we've created modes that collapse that process and make insane
+> sentences."*
+
+**81 sites**, in three shapes: 69 meta-narration (`Here is the…`, `I will say it
+plainly`), 9 phantom contrast (`the real prize`, `the one nobody can take back`),
+1 unfounded appeal (`every arcade you have ever played`), 2 objections staged
+inside the claim.
+
+| ch1 | ch2 | ch3 | ch4 | ch5 | ch6 | ch7 | ch8 | ch9 |
+|---|---|---|---|---|---|---|---|---|
+| **15** | 2 | 13 | 12 | 4 | 7 | **15** | 2 | 10 |
+
+### It is a third defect, not a face of the other two
+
+- **Not agency.** *"Here is the good news"* has a perfectly ordinary subject. The
+  problem is that the sentence announces a move instead of making it.
+- **Not integration.** These sentences are heavily connected — over-connected.
+  They spend their words on the join and never arrive at the thing being joined.
+
+So: **three passes, three units of work.** Agency is a sentence-level fix.
+Integration is a transition-level fix. This one is a *drafting-process* fix —
+Wendell's own diagnosis, that anticipating an objection, granting it and answering
+it are three acts of writing, and collapsing them into one sentence is what
+produces the defect.
+
+### The part that should not have needed a reader
+
+The repository's own `/no-ai-slop` skill has banned this family since it was
+written, by name: **throat-clearing openers** (*"Here's the thing," "Let me be
+clear"*) and **faux-insight setups** (*"This is the part most people skip," "Here's
+what nobody tells you"*).
+
+**No instrument has ever checked for it.** `gate.py`, `line_scan.py`,
+`prose_diet.py` and `marginalia/review.py` carry no rule of this shape — grep
+returns nothing. The skill is run by hand on new prose; the 69 sites already in
+the manuscript predate it and were never swept. That is the same failure mode as
+`prose_diet.py`'s agency check reporting zero: a rule exists, nothing enforces it
+over the body, and the defect accumulates while the board reads clean.
+
+### Two of the earlier notes belong here
+
+`N05` — *"Here is the part worth sitting with"* — and `N30` — *"Here is the part
+the game would rather you not notice"* — were filed under other headings. Both are
+this pattern. N30 is both: an abstraction with a mental verb **and** a
+faux-insight frame, which is why one sentence can need two different fixes.
