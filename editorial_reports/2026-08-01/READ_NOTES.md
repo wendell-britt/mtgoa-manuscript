@@ -10,6 +10,11 @@ line by line.
 otherwise.** A line arriving without a stated reason is still work; the reason
 comes later, or the line gets read again together. Nothing pasted is context.
 
+**Posture, from N56 onward: cut rather than keep.** *"We're at the moment where
+we should be cutting things."* An idea that cannot be explained in a way useful to
+Jordan goes to the parking lot or goes away. A ruling of `cut` needs no replacement
+drafted.
+
 ## The loop
 
 **1 · Paste.** Any number of lines, blank line between them. Curly quotes,
@@ -98,3 +103,6 @@ annotator's hand is a different kind of note.
 | N53 | Chapter 1 · body | manuscript/ch1.md:241 | It goes into a notebook you will almost never reopen, because reviewing a journal is real work and no one has made that part work. | *work* and *work* — clunky. And which part has nobody made work? Which people? | | **ruled** |
 | N54 | Chapter 1 · body | manuscript/ch1.md:243 | Here is the part I did not plan: even when I could not remember what a card said, I remembered where it lived. | Slop. Nobody cares that I did not plan it. Mark it as surprising and move on. The important part is that BARs create a persistent kind of memory, more recallable than a journal. | | **ruled** |
 | N55 | Chapter 1 · body | manuscript/ch1.md:245 | A **BAR** is that card. Captured charge… carried where you can reach it | Where can they reach it? They are notes that go in your pocket. Recommend pocket-sized notecards to carry. Turn their insights into Pokémon cards. | | **ruled** |
+| N56 | Chapter 1 · body | manuscript/ch1.md:159 | A Game of Chance is the reorg that dissolves the case your coworker spent two weeks building the week before she files | Bad and confusing example; it does not connect to the jackpot and is not a jackpot at all. Chance has a positive pole (right place and time to help someone) and a negative one (wrong place, wrong time — Trayvon Martin and others brutalised by police). This threads neither. **Ruling: cut.** It does not make sense and has not been explained in a way useful to Jordan or to Wendell. Parking lot at most; the posture now is cutting. | | **ruled · cut** |
+| N57 | Draft (not canon) · body | proposed ch1 Chance section | …you catch that a hire is about to go sideways… | Jargon. What does it mean for a hire to *go sideways*? Rewrite for someone who does not have the idiom. | | **ruled** |
+| N58 | Draft (not canon) · body | proposed ch1 Chance section | You've been on the paying end of this. | **This sentence structure is banned.** We do not know they have been on the paying end, and *paying end* is a strange way to describe winning a jackpot. Inviting them to imagine solves the whole class. These assertions are a blocker for the book and need a plan in the readiness guide. **212 sites, 14 invitations book-wide** — `instruments/assumed.py`, and see §10 of `SPEC_PRINT_READINESS_2026-07-29.md`. | | **ruled** |

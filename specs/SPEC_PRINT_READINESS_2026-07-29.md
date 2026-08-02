@@ -264,5 +264,86 @@ is quality work with a deadline in front of it.
 
 ---
 
+## 10 · The assertion blocker — asserted reader experience
+
+**Added 2026-08-01, batch nine.** Wendell, ruling on a drafted line of mine:
+
+> *"This sentence structure needs to get banned. We don't know they've been on the
+> paying end of this. We can invite them to imagine and it solves all of these
+> assertions. But these types of assertions have become a blocker for the book. We
+> need a plan to solve for this and add it to the readiness guide."*
+
+### What it is
+
+A declarative about what the reader has done, felt, seen or become, stated as fact.
+Distinct from assumed prior *knowledge* (a term used before its definition), which
+`assumed.py` already tracked. This is assumed prior *experience*, and it fails
+differently: a reader who has not had the experience is not confused, they are
+excluded, and they close the book on the sentence that told them who they are.
+
+**It has been arriving as read-through notes since batch two and was never
+consolidated.** `N12` (*You are a Game Master*), `N15` (*You have done this before*
+— Wendell: *"done what before? I hate all intros like this, vague and weird"*),
+`N17` (*You graduated from it years ago*), the ch1-opener note about assumed secret
+competence, and now `N58`. Five notes, four batches, one defect.
+
+### The measurement
+
+`instruments/assumed.py` gains an `EXP:` tier and counts the licensed alternative
+alongside it, because Wendell's repair is a conversion rather than a deletion.
+
+| | ch1 | ch2 | ch3 | ch4 | ch5 | ch6 | ch7 | ch8 | ch9 |
+|---|---|---|---|---|---|---|---|---|---|
+| assertions | **37** | 5 | 19 | 25 | 23 | 11 | 18 | 24 | **50** |
+| of those, asserted experience | 19 | 1 | 4 | 9 | 10 | 3 | 5 | 12 | **35** |
+| invitations | 2 | 3 | 2 | 1 | **0** | 1 | **0** | **0** | 5 |
+
+**212 assertions against 14 invitations, book-wide.** The count nearly doubled when
+the experience tier was added, which means roughly half of this defect was invisible
+to the instrument that was supposedly watching it.
+
+**Three chapters extend no invitation at all** — ch5, ch7, ch8. Chapter 9 is the
+worst on both counts and is also the chapter that closes the book.
+
+### The plan
+
+**The repair is a conversion, not a cut.** Every one of these sentences is trying to
+create recognition, which is the right instinct; asserting it is what breaks. The
+grammar of the fix is small and mechanical:
+
+| Asserted | Invited |
+|---|---|
+| You've been on the paying end of this. | Picture yourself on the paying end of this. |
+| You have done this before. | If you have ever done this — and most people have — |
+| That was the beginner's game. You graduated from it years ago. | If the beginner's game is behind you… |
+
+**Sequence.**
+
+1. **Rule the 35 in ch9 first.** It is the largest block, the last thing a reader
+   reads, and it has five invitations already, so the register exists in the chapter
+   and does not have to be invented.
+2. **Then ch1 (19) and ch8 (12).** Chapter 1 sets the contract for the whole book;
+   if it asserts, every later assertion is licensed by it.
+3. **The zero-invitation chapters get one invitation before any assertion is
+   converted.** A chapter with no invitational register anywhere reads as instruction;
+   converting sentences inside it without establishing the register produces a chapter
+   that hedges instead of one that invites.
+4. **Re-run `assumed.py` after each chapter.** The target is the ratio, not the raw
+   count. A chapter is not fixed by deleting assertions.
+
+**Gate condition for print.** No chapter ships with zero invitations. That is a
+condition a person can check and an instrument can enforce, unlike "fewer
+assertions".
+
+### What this document should not pretend
+
+The instrument cannot tell an earned assertion from an unearned one. A reader who
+has been taught the thing by page 200 genuinely has done it before, and saying so is
+correct. Every site is a candidate and needs Wendell. What the instrument removes is
+the possibility of the defect being invisible, which is what it has been.
+
+
+---
+
 *Created 2026-07-29. Instruments: `gate.py` (extended to the appendices surface
 this session), `build_book.py` (new), `review.py`, `compile.py --verify`.*
