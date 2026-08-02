@@ -137,7 +137,7 @@ warmly, in a way that left each of them feeling included in the refusal.*""",
 # you are for — is already in the letter, two pages later, in the mouth it belongs to.
 NOTES = {
 3: [
-("It worked. The cost landed somewhere the village never thought to look.", """*We put in once at Oreve, which is a port and a poor one — the moorings were rotten and the
+("It worked. The cost landed somewhere the villagers never thought to look.", """*We put in once at Oreve, which is a port and a poor one — the moorings were rotten and the
 harbourmaster kept his ledgers in his head and got them wrong.*
 
 *Their council chamber had no chairs. You stood, and the first business of any session was that

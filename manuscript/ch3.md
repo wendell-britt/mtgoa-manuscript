@@ -76,7 +76,7 @@ There was a time when the Shaman lived in the village.
 
 Inside it. One of them. The Shaman served as the village's oldest advisor: the one who knew how to read the feeling in the village before anyone else could name it. The one who said "wait, something is wrong here" when everything looked fine on the surface. The one who knew that fear meant something. That anger meant something. That sadness, when you let yourself feel it fully, was information, not weakness.
 
-The village trusted this once. It built rituals around it. Coming-of-age ceremonies that made space for sadness. Councils that opened with a moment to feel the ground underneath. Stories that taught: your body knows before your mind catches up. Listen to it.
+The villagers trusted this once. They built rituals around it. Coming-of-age ceremonies that made space for sadness. Councils that opened with a moment to feel the ground underneath. Stories that taught: your body knows before your mind catches up. Listen to it.
 
 Then something shifted.
 
@@ -84,11 +84,11 @@ It wasn't sudden. It came on gradually, the way a house gets colder when a windo
 
 The Challenger arrived.
 
-The Challenger didn't dislike the Shaman. The Challenger just believed that *something had to be done.* Doing something required making a decision, and decisions, the Challenger said, couldn't wait for everyone to process their feelings. Decisions couldn't be delayed by sadness or fear or the complicated texture of a moment. There was a problem. The village had to act. *Now.*
+The Challenger didn't dislike the Shaman. The Challenger just believed that *something had to be done.* Doing something required making a decision, and decisions, the Challenger said, couldn't wait for everyone to process their feelings. Decisions couldn't be delayed by sadness or fear or the complicated texture of a moment. There was a problem. The villagers had to act. *Now.*
 
-At first, this seemed right. There were problems that needed solving. The village needed someone who could draw a line in the sand. Someone who could say "this is unacceptable" without softening it. Someone who could move while others still gathered information. The Challenger could do that. The Challenger *did* that.
+At first, this seemed right. There were problems that needed solving. The villagers needed someone who could draw a line in the sand. Someone who could say "this is unacceptable" without softening it. Someone who could move while others still gathered information. The Challenger could do that. The Challenger *did* that.
 
-It worked. The cost landed somewhere the village never thought to look.
+It worked. The cost landed somewhere the villagers never thought to look.
 
 <!-- MARGINALIA -->
 > *We put in once at Oreve, which is a port and a poor one — the moorings were rotten and the
@@ -112,7 +112,7 @@ When the Challenger started making decisions without consulting the Shaman, the 
 
 They also got colder.
 
-When the village started following the Challenger's lead, valuing speed over discernment, action over feeling, certainty over the wisdom that comes from sitting with complexity, the Shaman became less necessary. Even confusing. Why do we need to feel the field when the Challenger can already tell us what to do? Why make space for sadness when there's work to be done? Why listen to the body's whisper when the mind can calculate a faster route?
+When the villagers started following the Challenger's lead, valuing speed over discernment, action over feeling, certainty over the wisdom that comes from sitting with complexity, the Shaman became less necessary. Even confusing. Why do we need to feel the field when the Challenger can already tell us what to do? Why make space for sadness when there's work to be done? Why listen to the body's whisper when the mind can calculate a faster route?
 
 The Shaman wasn't banished with words. It was slower than that. It was the Shaman gradually having less to say in councils. It was the ceremonies that made space for sadness getting shorter. It was the stories about trusting your body being reframed as superstition. It was being present less and needed less and finally, one day, the Shaman realized: *not trusted anymore.*
 
@@ -127,29 +127,29 @@ The village never meant for that to happen. It never said "go." It just stopped 
 ## Section 2: The Distortion
 ### *What the Village Does With Emotional Alchemy When the Shaman Is Gone*
 
-Here's what happened after the Shaman left: the village didn't stop feeling.
+Here's what happened after the Shaman left: the villagers didn't stop feeling.
 
 It just stopped *knowing what to do with feelings.*
 
-The village still experienced fear. Fear of things going wrong. Fear of not being good enough. Fear of getting blamed if something in the allyship went sideways. Without the Shaman to say "fear is your compass, it's showing you where the real risk lives," fear became noise. A thing to be managed, suppressed, medicated away. The village learned to not-feel the fear, which meant the village also missed the intelligence fear kept trying to deliver. The village became brittle. Reactive. Defended.
+The villagers still experienced fear. Fear of things going wrong. Fear of not being good enough. Fear of getting blamed if something in the allyship went sideways. Without the Shaman to say "fear is your compass, it's showing you where the real risk lives," fear became noise. A thing to be managed, suppressed, medicated away. They learned to not-feel the fear, which meant they also missed the intelligence fear kept trying to deliver. They became brittle. Reactive. Defended.
 
-The village still experienced anger. Righteous anger at systems that needed to change, anger at injustice, anger at the slowness of change. Without the Shaman to say "anger is a boundary signal, it's telling you what matters," anger became dangerous. Something to be careful with. The village learned to redirect anger *outward* at the systems, the bad people, the ones who weren't as woke. It forgot that anger could also point inward, showing you where your own boundaries got crossed, what you actually cared about beneath the performance.
+The villagers still experienced anger. Righteous anger at systems that needed to change, anger at injustice, anger at the slowness of change. Without the Shaman to say "anger is a boundary signal, it's telling you what matters," anger became dangerous. Something to be careful with. They learned to redirect anger *outward* at the systems, the bad people, the ones who weren't as woke. They forgot that anger could also point inward, showing you where your own boundaries got crossed, what you actually cared about beneath the performance.
 
-The village still experienced sadness. The sadness of loss, of failed attempts, of communities that broke. Without the Shaman to say "sadness is how we honor what mattered," sadness became shameful. A sign that you weren't resilient enough. The village learned to skip over sadness, to move quickly past it into "lessons learned" and action items. It forgot how to let sadness teach. So it kept hitting the same losses over and over, unable to actually grieve what it had lost.
+The villagers still experienced sadness. The sadness of loss, of failed attempts, of communities that broke. Without the Shaman to say "sadness is how we honor what mattered," sadness became shameful. A sign that you weren't resilient enough. They learned to skip over sadness, to move quickly past it into "lessons learned" and action items. They forgot how to let sadness teach. So they kept hitting the same losses over and over, unable to actually grieve what they had lost.
 
-The village still experienced joy. The joy of moments of real connection, of barriers broken, of someone finally getting it. Without the Shaman there to distinguish between real joy and the manic performance of joy (the "yay team, we're doing good" energy that masks exhaustion), the village learned to celebrate *doing the work* instead of celebrating *becoming the kind of person who can do the work sustainably.* So joy became tied to output. To productivity. The village forgot that joy was also information, a signal that something true was happening, something aligned.
+The villagers still experienced joy. The joy of moments of real connection, of barriers broken, of someone finally getting it. Without the Shaman there to distinguish between real joy and the manic performance of joy (the "yay team, we're doing good" energy that masks exhaustion), the villagers learned to celebrate *doing the work* instead of celebrating *becoming the kind of person who can do the work sustainably.* So joy became tied to output. To productivity. They forgot that joy was also information, a signal that something true was happening, something aligned.
 
-Without the Shaman, the village became very busy managing emotions instead of listening to them. Very skilled at pushing through discomfort, very poor at learning from it. Very good at *appearing* evolved, very bad at *actually becoming* evolved.
+Without the Shaman, the villagers became very busy managing emotions instead of listening to them. Very skilled at pushing through discomfort, very poor at learning from it. Very good at *appearing* evolved, very bad at *actually becoming* evolved.
 
-The village did all of this on purpose. Because the Challenger was right: *something had to be done.* You cannot do something while you are still feeling into it. You cannot move quickly if you are tending to your sadness. You cannot draw a hard line if you are holding the complexity.
+The villagers did all of this on purpose. Because the Challenger was right: *something had to be done.* You cannot do something while you are still feeling into it. You cannot move quickly if you are tending to your sadness. You cannot draw a hard line if you are holding the complexity.
 
-So the village made a choice: efficiency over wisdom. Output over presence. Action over discernment.
+So the villagers made a choice: efficiency over wisdom. Output over presence. Action over discernment.
 
-It *worked.* The village solved some problems. It moved some mountains. It changed some systems, temporarily, in specific places. All while running on fumes. All while the people doing the work got more and more depleted, more and more cut off from the very source of energy that would have sustained them.
+It *worked.* The villagers solved some problems. They moved some mountains. They changed some systems, temporarily, in specific places. All while running on fumes. All while the people doing the work got more and more depleted, more and more cut off from the very source of energy that would have sustained them.
 
-This is what the village does with emotional alchemy when the Shaman is gone: it transforms it into *performance management.* Into *emotional labor that must be optimized.* Into a system where feeling gets permission only if it makes you more productive. Where sadness comes back relabelled as growth. Where fear answers to "imposter syndrome" and takes a mindfulness app. Where anger gets channeled into "righteous action" but never, ever examined for what it might be trying to tell you about yourself.
+This is what the villagers do with emotional alchemy when the Shaman is gone: they transform it into *performance management.* Into *emotional labor that must be optimized.* Into a system where feeling gets permission only if it makes you more productive. Where sadness comes back relabelled as growth. Where fear answers to "imposter syndrome" and takes a mindfulness app. Where anger gets channeled into "righteous action" but never, ever examined for what it might be trying to tell you about yourself.
 
-The village never saw itself doing this. It called the pattern efficiency, and the pattern starved it.
+No one in the village saw it happening. They called the pattern efficiency, and the pattern starved them.
 
 Nothing says "belonging" quite like replacing the people who had to love you with a committee that can vote you out and call it growth.
 
@@ -158,7 +158,7 @@ Nothing says "belonging" quite like replacing the people who had to love you wit
 ## Section 3: The Concept
 ### *What Emotional Alchemy Actually Is (And Why It's Not What You've Been Told)*
 
-The village shrinks alchemy into processing: *identify* the emotion, *understand* where it came from, *release* it, and then *move on.* That model treats emotions like a problem that has a solution. Once you solve it, it's gone.
+The villagers shrink alchemy into processing: *identify* the emotion, *understand* where it came from, *release* it, and then *move on.* That model treats emotions like a problem that has a solution. Once you solve it, it's gone.
 
 Emotional alchemy is the practice of staying in relationship with the full spectrum of human feeling, and letting those feelings teach you something that changes who you are.
 
@@ -210,7 +210,7 @@ The practice comes down to one thing: Feel what's real. Let it teach you. Become
 
 What you can feel and move sets the ceiling on what you can do for anyone else. Emotional alchemy does not sit beside the work; it powers the work from underneath.
 
-That is the Shaman's superpower. That is what the village lost when the Shaman left.
+That is the Shaman's superpower. That is what the villagers lost when the Shaman left.
 
 ### Polarity Encounter — Feeling ↔ Function
 
@@ -313,7 +313,7 @@ This stage can take five seconds or run the length of the encounter, and you kee
 #### Stage 2: Open Up
 **What it means:** Turn the sensitivity up, and let what's there reach you.
 
-The village trains everyone to turn feeling down. It hands you a dial in childhood and teaches one direction: lower it. Stay composed, stay reasonable, keep it together. Turn the dial that low and most of what moves in the situation slips past before it registers, and we call that setting *calm*. Opening turns the dial the other way. You deliberately raise your sensitivity to everything actually present, in your own body first, then in the people around you.
+The people who raised you hand you a dial in childhood and teach one direction: lower it. Stay composed, stay reasonable, keep it together. Turn the dial that low and most of what moves in the situation slips past before it registers, and we call that setting *calm*. Opening turns the dial the other way. You deliberately raise your sensitivity to everything actually present, in your own body first, then in the people around you.
 
 This matters for one reason: you cannot affect what you cannot feel. The Shaman works by sensitivity, and an instrument kept behind glass reads nothing. When a moment turns and you register it a beat late, the charge has already passed, and the move that could have met it went with it. Contact is the precondition for impact. Every skill later in this chapter runs on the signal that opening lets in; with the dial down, the rest of the game has nothing to work with.
 
@@ -356,7 +356,7 @@ If it's neutrality: what perspective am I suddenly able to see from here?
 
 You're not trying to think your way to an answer. You're sensing into the feeling and letting it show you. This usually takes a few seconds to a few minutes. It happens best when you stay in your body, not in your thinking mind.
 
-This is the first difference between the Shaman's practice and the village's distortion: the village tries to speed past this stage. The Shaman lingers here long enough to actually get the teaching.
+This is the first difference between the Shaman's practice and its distortion: the villagers try to speed past this stage. The Shaman lingers here long enough to actually get the teaching.
 
 #### Stage 4: Grow
 **What it means:** Extract the lesson. Integrate the insight the feeling offered.
@@ -561,7 +561,7 @@ If you move through all five stages and you don't feel *any* of these somatic sh
 
 The Shaman's practice (the WAVE-Spiral) prevents the distortion described in Section 2.
 
-Without the Shaman, the village manages emotions instead of learning from them. The WAVE-Spiral is how you learn instead of manage.
+Without the Shaman, the villagers manage emotions instead of learning from them. The WAVE-Spiral is how you learn instead of manage.
 
 Every time you practice the WAVE-Spiral:
 - You recover the intelligence of your emotions (fear shows you what matters)
@@ -569,7 +569,7 @@ Every time you practice the WAVE-Spiral:
 - You learn which moves replenish you, which moves sustain the field, and which moves cost capacity
 - You create the only foundation that real allyship can build on: your own integrated wisdom
 
-The village took a thousand years to forget this. The Shaman's practice is how you remember, in five stages, as many times as you need, until it becomes who you are.
+Forgetting this took a thousand years. The Shaman's practice is how you remember, in five stages, as many times as you need, until it becomes who you are.
 
 ---
 
