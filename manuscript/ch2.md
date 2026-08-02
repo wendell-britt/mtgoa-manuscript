@@ -122,7 +122,7 @@ Most people treat these moments as isolated incidents. They are connected rounds
 If you don't name the game, you mistake your reaction for your identity.
 If you do name the game, your reaction becomes information.
 
-That's the pivot this chapter needs from you. Nobody here claims life is tidy or fair. Pressure repeats, so your moves repeat, and the moves you repeat build your character, the culture around you, and the consequences everybody lives with.
+That's the pivot I need from you. Nobody here claims life is tidy or fair. Pressure repeats, so your moves repeat, and the moves you repeat build your character, the culture around you, and the consequences everybody lives with.
 
 The Forest is where you learn to interrupt automatic play. You don't need to master the whole game today. You need to become a conscious player in the next move.
 
@@ -149,7 +149,7 @@ All that effort has been sitting on top of one question.
 
 Were you doing this to change something, or to seem like the kind of person who would? Ask it without flinching.
 
-Your body was never appropriating anything. It is yours. You already have the Shaman's first move. This chapter asks whether you will stop treating your own somatic intelligence as something that belongs to someone else.
+Your body was never appropriating anything. It is yours. You already have the Shaman's first move. I am asking whether you will stop treating your own somatic intelligence as something that belongs to someone else.
 
 Wanting to be good was never the problem. Performing it costs a great deal, and punishing yourself for falling short of the performance costs a great deal more. Run both and you are funding two expensive processes, neither of which does anything for the person in front of you.
 
@@ -247,7 +247,7 @@ The school is somewhere to stand while you practice, and that is the whole of it
 
 Chapter 1 put the joystick in your hands. Here you learn how to walk the book.
 
-You are going to meet more language than you can use all at once. That is normal. You will see the daemons more than once: first as a map, then as a walk, then as a move. The repetition is deliberate. It is how you come to recognise them.
+You are going to meet more language than you can use all at once. That is normal. You will see the daemons more than once: first as a map, then as a walk, then as a move. The repetition is deliberate. It is how you come to recognize them.
 
 Notice the first place you recognize yourself in the map. You are not here to memorize the roster, master the Guides, or become the kind of person who can explain the whole system at dinner.
 
