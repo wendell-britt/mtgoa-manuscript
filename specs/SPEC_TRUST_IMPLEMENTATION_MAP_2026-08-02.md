@@ -35,13 +35,44 @@ one further: **they are not other players on the floor. They are the cabinet.**
 Which makes the whole economy resolve:
 
 - **Tokens** are the energy you bring to the machine.
-- **Consent** is the coin slot accepting the coin.
-- **Trust** is whether the slot is open at all.
+- **Consent** is the slot accepting a coin.
+- **Trust** is **how many coins the machine will take.**
 - **The prize** is emotional satisfaction, and the machine decides whether it pays.
 
-And it makes one thing unarguable: **a machine that will not take your coin is not a
-machine you can beat with skill.** No amount of capability substitutes for the slot being
-open. That is the sentence the third-currency section is for.
+### Trust is a limit, not a gate — and the correction does real work
+
+**Wendell, correcting the line above:** *"Trust is how many coins are able to be put into
+the machine."*
+
+A gate is binary and a limit is a quantity, and five things follow from the second that
+do not follow from the first.
+
+**1 · Moves cost different numbers of coins.** A small move is one coin and almost
+anybody can make it. A hard conversation costs a handful. `ch7:638` already prices one:
+*"Prerequisite: some real trust has been built. This move requires a history."* **That is
+not a locked door. That is an expensive play.**
+
+**2 · A first move is always available.** This matters for Jordan more than anything else
+in the model. She does not need a relationship before she can act — **she needs to pick a
+move that costs one coin.** A gate would have told her to wait.
+
+**3 · The limit is set by the other person, and it moves.** It goes down when you
+overspend and up when you repair — `ch7:652`, *"ruptures named and repaired build more
+trust than ruptures that never happened"*, which says repair can raise the limit **above
+where it started.**
+
+**4 · Overreach has a mechanic now, and it is Jordan's fear.** *"I'm doing more harm than
+I know"* is, in this model, **making a move that costs more coins than the machine will
+take.** The overdraft does not land on her. It lands on them. That is the harm she cannot
+see, and the model finally says what it is.
+
+**5 · Energy is not the constraint people think it is.** You can arrive full of tokens
+and be allowed to spend one. **A person with a lot of energy and a low limit burns their
+fuel on machines that will not take it** — which is what *the help never lands* has always
+described, and the first mechanical account of it the book has had.
+
+And the anti-farming safeguard survives intact: **you cannot raise your own limit.** You
+can only be somebody whose limit gets raised.
 
 ### c · Faking benevolence does not pay a prize
 
