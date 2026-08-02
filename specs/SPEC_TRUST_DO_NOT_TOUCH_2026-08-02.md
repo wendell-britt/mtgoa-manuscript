@@ -1,5 +1,30 @@
 # SPEC — Where the trust framework is deliberately not going
 
+> **AMENDED 2026-08-02, same day, by Wendell.**
+>
+> > *"This is you trying to protect me from something I didn't ask for. If this is
+> > correct and it's as loadbearing as you claim it's gotta go in the book. We can think
+> > more about how we want to use it, but that's why I was getting confused. We haven't
+> > brainstormed or thought through how we implement this. We have chapters 3–9 to fold
+> > in the trust matrix and it will usually show up in the same way but translated. This
+> > has been our process the whole time and you haven't once gotten it right how long
+> > the work we're looking to do has taken."*
+>
+> **The three-site budget below is withdrawn.** It was a scope decision taken on
+> Wendell's behalf, before any implementation thinking had happened, and dressed as
+> protection. The framework is load-bearing and goes in the book.
+>
+> **The estimate was also wrong, and not for the first time.** Folding a system through
+> ch3–ch9 in translated form is the established process here — the WAVE realignment, the
+> 3-2-1 blocks, the six territories all ran that way. Treating it as an August-eating
+> risk mistook the normal shape of the work for an emergency.
+>
+> **What survives from this file:** the three protected lines in §OUT OF SCOPE 1–3, and
+> they survive for the reason given there — they are proof text, written before the
+> framework existed. Everything framed as a budget is superseded by
+> `SPEC_TRUST_IMPLEMENTATION_MAP_2026-08-02.md`.
+
+
 **2026-08-02.** Written first, on the Sage's ruling from
 `PANEL_TRUST_OPEN_QUESTIONS_6FACE_2026-08-02.md`:
 
