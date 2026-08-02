@@ -178,3 +178,126 @@ after the prose is written.
 5. **Is benevolence ever legitimate?** The framework says you cannot work on it. It does
    not say it is worthless — trust genuinely requires it. The honest version is that it
    is a *result*, not a *target*, and the book should say which.
+
+---
+
+# Part 2 — Shadow trust
+
+**Wendell, 2026-08-02, on the missing dimension:**
+
+> *"The absence is interesting because now we can start talking about SHADOW trust. You
+> can always trust yourself to show up how you are habituated to show up. Your daemons
+> have capabilities, integrity and benevolence of their own. The definition of
+> benevolence changes depending on what Game Master face you are working with and what
+> daemon is online."*
+
+## 8 · Why integrity was missing, and it is not an oversight
+
+`ch2:261`–`263`, the Controller:
+
+> **Job:** *"If the Protector decides whether you live or die, the Controller decides
+> how you live. It sets the standard for what's good and what's bad."*
+>
+> **As an ally:** *"it maintains your conceptual sense of integrity, keeping your
+> actions in alignment with your values."*
+
+**Canon already assigns integrity to a daemon, by name.** It is absent from the ten
+myths because the conscious player never took the job. The Controller has been holding
+it, automatically, since before Jordan could read — which is exactly why no myth grew
+up around it. **Myths form where you are anxious. Nobody is anxious about a job they
+never knew was theirs.**
+
+And the Controller also *"sets the standard for what's good and what's bad"* — which
+makes it the daemon that issues the benevolence definition too. One daemon, holding two
+of the three dimensions, unsupervised.
+
+## 9 · The daemon template is already the trust template
+
+Every daemon in `ch2` is written to the same three-part shape:
+
+| Daemon field | Trust dimension |
+|---|---|
+| **Job** | **Capability** — what it can do |
+| **As an ally / As a demon** | **Benevolence** — what it believes *good* means here |
+| *(unstated, and the point)* | **Integrity** — it does the job every single time |
+
+**The third one is unstated because it is total.** A daemon that sometimes did its job
+would be a mood. What makes it a daemon is that it never misses.
+
+So: **shadow trust is the most reliable trust you have.** The Protector will armour up
+every time. The Fixer will take over every time. The Damaged Self will absorb the hit
+every time. You can bank on all of it, and people do — *"you can always trust yourself
+to show up how you are habituated to show up."*
+
+### Which turns the question inside out
+
+Not *am I trustworthy*. **What am I trustworthy for, right now, and who set that
+objective?**
+
+That is a question Jordan can actually answer, and it is unavailable to her while
+trust is one undivided thing. It also answers her documented fear — *"I'm doing more
+harm than I know"* — with a mechanism rather than reassurance: **the harm is not coming
+from unreliability. It is coming from something extremely reliable, aimed by somebody
+she has not met.**
+
+## 10 · Benevolence is Face-relative, and this is the largest claim here
+
+Capability and integrity are objective enough to argue about. **Benevolence is defined
+by whichever Face is holding the joystick**, and the six do not agree:
+
+| Face | *Good* means |
+|---|---|
+| **Shaman** | the feeling got honoured before anyone moved |
+| **Challenger** | the true thing got said out loud |
+| **Regent** | what mattered got kept |
+| **Architect** | the right move became the easy move |
+| **Diplomat** | nobody left the table |
+| **Sage** | everyone could see which game they were in |
+
+**Six dictionaries, one word.** Two people arguing about whether somebody acted well
+are frequently not disagreeing about the facts at all — they are running different
+definitions of the operative term and neither has noticed.
+
+**`ch7:564` already says this and cannot explain it:** *"Two people arguing about a
+decision are often really negotiating about trust."* With the Face-relative definition
+in hand, that sentence stops being an observation and becomes diagnosable. **They are
+negotiating about benevolence, in two languages.**
+
+### And the distortion is the same definition run past its limit
+
+Each Face's shadow is its own benevolence definition with the volume up and nothing
+else in the room. The Diplomat keeps everyone at the table until nothing can be
+decided; *nobody left the table* was the definition, and it was never wrong, it was
+only alone.
+
+**That is a cleaner account of the shadow than the book currently gives**, because it
+explains why the shadow feels virtuous from inside. It is not a lapse. **It is your
+benevolence definition, correctly applied, with no other definition present to bound
+it.**
+
+## 11 · What this unlocks that was previously stuck
+
+- **The pre/trans problem gets a mechanism at the level of the reader.** From the
+  middle, a Challenger's move looks unkind to a Diplomat. Not because either is wrong,
+  but because the observer is scoring benevolence in a dictionary the actor is not
+  using.
+- **`ch2`'s ally/demon split gets a spine.** Seven daemons × three dimensions is a
+  structure rather than a list.
+- **The Myths Read has a scoring model.** Sorting ten myths into three dimensions is a
+  different product from ranking ten flat.
+- **And the reason the book's definition works** — `ch1:91` asks for capability and
+  integrity and refuses benevolence — is now sayable in one sentence: **it is written
+  in the two dimensions everybody can agree on.**
+
+## 12 · Open questions this part raises
+
+1. **Does the reader meet shadow trust in ch1 or ch2?** It needs the daemons, so ch2 is
+   the natural home — but ch1's economy is where the third currency lands, and the two
+   want to be near each other.
+2. **Does each of the six Faces get its benevolence definition stated?** It is one line
+   per chapter, and each chapter already opens on that Face.
+3. **Is *shadow trust* the term?** It is accurate and it is a fourth compound on top of
+   Shadow, daemon, and Face.
+4. **Does this replace or sit beside the three-currency model?** They are the same
+   model at two scales: the three-currency version says who holds trust, the shadow
+   version says what is inside it.
