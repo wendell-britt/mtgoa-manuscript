@@ -54,9 +54,9 @@ Hold these three words, because the whole book turns on them. The **Shadow** is 
 
 The daemon work doesn't ask you to fix the Shadow. It asks you to find out what it has been protecting. That is a different project entirely, and it produces different results.
 
-Here's why: we're trying to navigate terrain we haven't mapped. We're trying to be allies in a world that demands capacities we were never taught to build. We don't build them because we weren't told the work starts somewhere deeper than performative showing up.
+The terrain here has no map. Allyship asks for capacities no training builds, and no training admits it. The curriculum opens where the work becomes visible, which is a long way past where it starts.
 
-The world is not fine. The way we've been trying to fix it is not fine either. It rests on a bad premise: that allyship is mainly about what you do in public. The deeper truth is this:
+The world is not fine. The method for fixing it is not fine either. It rests on a bad premise: that allyship is mainly about what you do in public. The deeper truth is this:
 
 **Allyship is about what you are capable of becoming before you walk into the world.**
 
@@ -80,9 +80,9 @@ Some of what gets called burnout is that cost still being carried. It sits close
 
 That sadness is information. It tells you what mattered.
 
-Every time we hit the wall, we have a choice: turn back, or go through.
+Everybody who hits that wall gets the same choice: turn back, or go through.
 
-Most people turn back. Of the ones who don't, most push through instead of going through: they override the sensation, run on fumes, and eventually the body stops cooperating. Or they do the inner work in private and never find the way to carry it back to where it's needed. This is the failure mode we're building a way out of.
+Most people turn back. Of the ones who don't, most push through instead of going through: they override the sensation, run on fumes, and eventually the body stops cooperating. Or they do the inner work in private and never find the way to carry it back to where it's needed. That is the failure mode you are here to get out of.
 
 ### What's Different Now
 
@@ -92,7 +92,7 @@ The conversations come with more charge. Coalitions that held through the last h
 
 The inner work, the part most trainings skip, keeps showing up as the chokepoint.
 
-Here's what we know now:
+So here is the rule:
 
 **You cannot ally from a place you have not explored.**
 
