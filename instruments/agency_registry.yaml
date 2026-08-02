@@ -86,7 +86,10 @@ grades:
     name: Persons
     entities: [Heads, Bram Tull, Headmaster, ICAs, reader, author, I, you, we,
                they, he, she, Corin Ash, Sim Orrel, Vale, Voss, Quill, Orr,
-               named characters, proper names, personal pronouns]
+               named characters, proper names, personal pronouns,
+               # Added 2026-08-02. The population reading of the fables. R8 is
+               # the conversion from grade 6 `the village` to this.
+               the villagers, the people there, everyone at the table]
     verb_classes: [perception, intention, speech, social-causal, mechanical,
                    directional, causal-bare, pattern]
     trace: n/a
@@ -144,9 +147,29 @@ grades:
                capitalism, patriarchy, "white supremacy", racism, sexism,
                ableism, the hierarchy, the structure, the norm, the norms,
                the pattern, the dynamic, the market, the economy, the company,
-               the industry, the workplace, the team, the family, the school]
+               the industry, the workplace, the team, the family, the school,
+               # Added 2026-08-02 on Wendell's instruction, after the audit found
+               # both used heavily and defined nowhere. Two agents refused to
+               # grade "the village" rather than guess, which is C2 working.
+               the village, the field]
     verb_classes: [pattern]
     trace: "patterns as residue of person-action"
+    entity_notes:
+      the field: >
+        ch7's central conceit, ~40 agentive uses. Its mechanism IS on the page
+        at ch7:359 — a space contingent on the people occupying it, existing
+        only "as long as they are all still there." Under C1 that trace
+        licenses pattern, directional and mechanical verbs. It does NOT license
+        cognition: a thing whose existence depends on people being present
+        cannot independently know, decide or trust. ~30 of its ~40 sites are
+        therefore not defects; the ~9 cognition sites route to R6.
+      the village: >
+        Singular collective standing in for a population. This is the Grade 6
+        reading and the one the audit repairs. The SAME word read as a
+        population is Grade 1 — see grade 1 `the villagers` — and R8 is the
+        conversion between them. Where "the village" means the settlement
+        rather than the people, it is a place and takes neither: see R8
+        pre-flight check 3.
     constraints: >
       PERCEPTION, INTENTION, AND SOCIAL-CAUSAL ARE ALL ILLEGAL AT THIS GRADE.
       Culture does not train, reward, or punish. People do those things, and
@@ -224,8 +247,57 @@ r_ops:
     move: "Pull into the author's chair, first person, per A0."
     trigger: "Any site where the convincing/knowing actually happened in Wendell's head."
     risk: none
-  - id: R1
+  - id: R8
     priority: 2
+    name: Pluralize the collective
+    move: "Change the number. Keep every other word unless grammar forces it."
+    trigger: >
+      A fictional collective whose members are persons takes a perception,
+      intention, speech or social-causal verb. "The village learned" becomes
+      "the villagers learned" — the subject moves from Grade 6 to Grade 1 and
+      is then licensed for every class.
+    added: "2026-08-02, after six stress tests across every village surface"
+    measured: "~122 in-scope sites, 10 outright breaks, ~8%. Range 0% (ch7 parable, glossary) to 19% (ch4)."
+    preflight:
+      # ANY hit routes elsewhere. Four checks, three of them found by testing
+      # rather than predicted.
+      1_possessive_or_reflexive: >
+        Does the collective act on or contain its own members (its, itself)?
+        "it taught its people" cannot become "the villagers taught their
+        people." Reflexives are the same trap in different grammar: "the
+        village never saw itself doing this" pluralizes into a grammatical
+        sentence that asserts a quietly weaker claim. → R6 or compression.
+      2_is_it_a_population: >
+        Does the noun name a practice, document, place, medium, role or
+        emotion? workshops, rituals, stories, the pattern, loyalty, leadership,
+        organizations — none has a number to change. → R1, R2 or R6.
+      3_place_or_people: >
+        Does the sentence mean the settlement rather than the inhabitants?
+        "the village becomes a museum", "the village's boundaries", "than the
+        village extended" all break. Where one sentence uses the word both
+        ways, fix it whole, never clause by clause.
+      4_density: >
+        More than two in a paragraph, or more than four in a section? Variation
+        is MANDATORY, not taste. A licensed noun drumbeating is still a
+        drumbeat — ch8 produces four "the villagers" in nine sentences under a
+        mechanical pass.
+    variation_set: >
+      Full noun on first mention · pronoun continuation · the passage's own
+      concrete nouns (people there, the room, everyone at the table) · no one /
+      nobody for negation-class sites. Derived from ch8; the prose already
+      reaches for it unaided at ch8:87 and ch5:153/157/161.
+    verification: >
+      SYLLABLE COUNT IS NOT SUFFICIENT. Three of the ten known breaks are
+      metrically silent (ch4:68, ch5:70, ch5:171), and the read-aloud pass the
+      voice system tells editors to trust cannot see them. Every R8 site is
+      checked for meaning-drift against the original.
+    risk: >
+      Not cheaper than R1 at volume — measured, it costs the same editorial
+      attention, differently shaped. What it buys is a licensed subject, not a
+      smaller job. Do not quote the "96 to 25" estimate without this caveat.
+
+  - id: R1
+    priority: 3
     name: Restore human agent
     move: "Abstraction's social verb becomes the persons who did it, with the pattern as residue."
     trigger: "Primary op for Grade 6/7 social-causal violations."
@@ -235,31 +307,31 @@ r_ops:
       critical-discomfortment-not-scolding. Vary the construction, prefer R4
       where the author's chair can carry it, profile-check R1-heavy batches.
   - id: R3
-    priority: 3
+    priority: 4
     name: Route to a part
     move: "Reassign the mind-verb to the daemon it belongs to."
     trigger: "Perception/intention that is really internal experience."
     risk: "Daemon inflation. >2 per daemon per chapter is a flag. Verbs must match the daemon's canonical job."
   - id: R2
-    priority: 4
+    priority: 5
     name: Mechanize
     move: "Perception/intention verb on a Grade 4/6/7 subject becomes a structural mechanism."
     trigger: "Mind-verb on a machine or system."
     risk: "None. The house's proven move — the Token/Ticket ruling."
   - id: R6
-    priority: 5
+    priority: 6
     name: Dissolve to transmission
     move: "Rewrite the system's action as its transmission path — the persons, incentives, and trained parts the effect travels through."
     trigger: "Grade 6 social-causal where naming individual actors would be false precision."
     risk: "Added length. Run against the AC-4 profile check."
   - id: R5
-    priority: 6
+    priority: 7
     name: Demote to function
     move: "wants becomes moves toward / is built to"
     trigger: "Only if W-1 rules against channel intention."
     risk: "Flatness. The liturgical passages are protected regardless."
   - id: R7
-    priority: 7
+    priority: 8
     name: Licensed keep
     move: "Log in the keep-ledger with justification."
     trigger: "Deliberate device."

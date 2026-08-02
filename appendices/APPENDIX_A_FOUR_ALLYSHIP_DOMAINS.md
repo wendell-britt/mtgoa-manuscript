@@ -156,7 +156,7 @@ The reverse collapse: confusing Raise Awareness with Direct Action — treating 
 
 Pattern: 2-2-2-2. The system is balanced. No domain is under-resourced by gate.
 
-The affinities reflect gate function, not arbitrary assignment: Emotional Body locates what's depleted before any resource can be moved; Vulnerable Child restores what's been spent. Protector names the conditions a group needs to function; Controller routes coordination across the system. the Fixer/Healer takes the direct surgical move on the specific broken thing; Damaged Self absorbs the cost of showing up on purpose. Victim carries the story from felt experience; Skeptic asks the question that makes the invisible visible.
+The affinities reflect gate function, not arbitrary assignment: Emotional Body locates what's depleted before any resource can be moved; Vulnerable Child restores what's been spent. Protector guards the conditions a group needs to function; Controller routes coordination across the system. the Fixer/Healer takes the direct surgical move on the specific broken thing; Damaged Self absorbs the cost of showing up on purpose. Victim carries the story from felt experience; Skeptic asks the question that makes the invisible visible.
 
 ---
 

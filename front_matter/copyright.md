@@ -52,7 +52,7 @@ The three emotional-body practices in Appendix D are drawn from the author's
 
 This book is a practice, not a treatment. It is not psychotherapy, medical
 advice, or a substitute for either. The shadow work in Chapters 2 through 4 can
-surface material that wants a trained person in the chair with you. If it does,
+surface material heavy enough that you want a trained person in the chair with you. If it does,
 that is the practice working, and getting help is the next move rather than a
 failure of it.
 

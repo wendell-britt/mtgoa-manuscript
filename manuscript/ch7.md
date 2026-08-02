@@ -135,7 +135,7 @@ I will not say which of them was right. Forty-one cases and I have not said it o
 
 The terms I wrote at that table have held eleven years. Nobody has mentioned them. I notice that I have written that down. Whether wanting the sentence is a defect in me or a condition of the work is the open question here, and I am the wrong person to settle it.
 
-Honest terms work as the opposite instrument. **A term is a statement of what this field must hold for your staying to remain real, offered as information, once, to a field that is then free to answer.** It states a fact about the arrangement rather than a demand or a condition of continued affection, and it arrives while anyone still has time to do something with it.
+Honest terms work as the opposite instrument. **A term is a statement of what this field must hold for your staying to remain real, offered as information, once, to the people who are then free to answer.** It states a fact about the arrangement rather than a demand or a condition of continued affection, and it arrives while anyone still has time to do something with it.
 
 The difference is not tone. The Diplomat's altitude gets it wrong here most often, because this altitude excels at tone. An ultimatum said warmly is still an ultimatum. An honest term said flatly is still an honest term. The difference is structural: an ultimatum removes the other party's freedom to answer, and an honest term is the specific act of giving it back to them. You cannot decline something you were never told about. A field that does not know what your staying requires has never once had the chance to choose you.
 
