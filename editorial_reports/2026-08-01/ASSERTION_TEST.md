@@ -113,3 +113,91 @@ confirming it.
 
 The sequence stands. The conversion table does not — it offered two moves where the
 control shows three, and it named the weaker one as the target. Corrected in place.
+
+---
+
+## 5 · Wendell's own diagnosis, tested
+
+> *"What's missing is that I need to put more of 'I' in the story. I've been pushing
+> that work to the readers when it's about my own experience."*
+
+### The voice ratio
+
+First- and second-person density per thousand words, body prose only:
+
+| | I/1k | you/1k | you per I |
+|---|---|---|---|
+| **the five voice anchors** | **66.0** | 17.5 | **0.3** |
+| ch1 | 20.0 | 64.8 | 3.2 |
+| ch9 | 20.9 | 49.1 | 2.3 |
+| ch5 | 13.8 | 32.9 | 2.4 |
+| ch7 | 11.3 | 28.6 | 2.5 |
+| ch8 | 9.8 | 40.7 | 4.1 |
+| ch4 | 8.5 | 36.7 | 4.3 |
+| ch3 | 7.4 | 52.5 | 7.1 |
+| ch2 | 6.6 | 48.9 | 7.4 |
+| ch6 | 5.8 | 26.0 | 4.5 |
+
+In the passages he chose as the book at its best he talks about himself **three times
+for every time he addresses the reader**. In ch2 and ch3 he addresses the reader
+**seven times for every time he appears**.
+
+**This number is directional and must not be a target.** The anchors are five
+paragraphs, 515 words, and three of them were chosen partly because they are
+personal. A whole book at 66 I/1k is a memoir. The gap says which chapters have no
+personal spine; it does not say every chapter should hit the anchor rate.
+
+### Where he is actually absent
+
+Paragraphs of 40+ words carrying four or more first-person tokens — sustained
+narration rather than an aside:
+
+| ch1 | ch2 | ch3 | ch4 | ch5 | ch6 | ch7 | ch8 | ch9 |
+|---|---|---|---|---|---|---|---|---|
+| 16.2% | 6.8% | 5.0% | 4.3% | 5.5% | **2.8%** | 10.5% | 6.6% | 16.5% |
+
+**Chapter 6 has three, and one of them is a BAR template.** The Architect chapter has
+effectively two first-person passages in 106 paragraphs, and they are adjacent —
+`ch6:375` and `ch6:377`. Wendell appears in that chapter once.
+
+Chapter 3 is the longest in the book at 12,700 words and three of its seven hits are
+scripts or templates that happen to contain *I*.
+
+### The part of his diagnosis that is wrong, and the part that is exactly right
+
+**At chapter scale the hypothesis is refuted.** If assertion substituted for memoir,
+the chapters thinnest on his story would be heaviest on reader-assertion. They are
+not. ch1 and ch9 are highest on **both** (16% memoir, 19 and 35 assertions); ch2 and
+ch6 are lowest on **both**. The correlation runs the wrong way.
+
+**At paragraph scale it is exactly right.** Distance from each asserted-experience
+site to the nearest sustained first-person paragraph:
+
+- **ch1: nine of eleven sites sit within fourteen lines of one.**
+- **Two sites are at distance zero** — the assertion is inside a paragraph that is
+  already first person.
+
+`ch9:157` is the clearest instance in the book:
+
+> *"I built a method. Right now I'm essentially the only one teaching it this way…
+> I wrote this down so the map would live in more hands than mine.* **You've been
+> holding that map since Chapter 2.**"
+
+The subject flips mid-paragraph, from what he did to a claim about what the reader
+has been doing. (The same paragraph opens *"Let me say plainly what that means"*,
+which `preempt.py` flags, so it carries two independent defects.)
+
+And `ch1:30`'s four stacked assertions — *You've had the conversations. You've done
+the reading. You've carried the weight.* — sit twelve lines from `ch1:42`:
+
+> *"I have spent my whole adult life in those spaces, and I have needed them."*
+
+### Why this is good news
+
+He is not missing the material. **The material is in the paragraph next door, and
+twice it is in the same paragraph.** He reaches his own experience, and then hands it
+to the reader as theirs. That makes most of the repair a subject swap rather than new
+writing, and it is why the `ch1:30` conversion took one pass.
+
+**Chapter 6 is the exception and the real gap.** No amount of subject-swapping fills
+a chapter where he appears once. That one needs writing, not editing.
