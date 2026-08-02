@@ -86,7 +86,7 @@ Most people turn back. Of the ones who don't, most push through instead of going
 
 ### What's Different Now
 
-Something has shifted. It shows up as a tightening that doesn't quite release between hard conversations, a vigilance that no longer has a clear target and just hums.
+Something has shifted. Hard conversations arrive close enough together now that nothing stands down in between, and vigilance with no particular target starts passing for ordinary alertness.
 
 The conversations come with more charge. Coalitions that held through the last hard thing are fraying at edges that shouldn't be weak. The feedback, when it comes, comes fast, doesn't wait for you to be ready, doesn't come with enough context to land cleanly. The language keeps shifting, not because people move the goalposts but because the situation actually moves, and the words you practiced last year don't cover the new terrain. It can start to feel like falling behind, with no clear sense of what falling behind even means.
 
@@ -274,7 +274,7 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 **The Protector**
 **Job:** To keep you alive. It is the body's embodied sense of self-preservation.
 **As an ally:** it guards you against real danger, the kind that would actually threaten your body. *In play:* a car swerves toward you and you are out of its path before you have decided anything. When the danger is real, the Protector does not wait for you, and it should not.
-**As a demon:** it protects the self at all costs, and won't extend that protection to anyone else unless it widens its own identity to include them. When it does, those people stop being separate people you're allying with and become an extension of your body to protect. *In play:* a hard email lands and your whole body braces as if it were a physical threat; you answer armored, and the other person meets the armor before they reach you.
+**As a demon:** it protects the self at all costs, and won't extend that protection to anyone else unless it widens its own identity to include them. When it does, those people stop being separate people you're allying with and become an extension of your body to protect. *In play:* a hard email lands and the Protector runs it as a physical threat. You answer armored, and the other person meets the armor before they reach you.
 
 **The Controller**
 **Job:** If the Protector decides whether you live or die, the Controller decides *how* you live. It sets the standard for what's good and what's bad.
@@ -293,13 +293,13 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 
 **The Emotional Body**
 **Job:** The seat of your emotional life, where feeling gets processed into meaning.
-**As an ally:** the feeling runs clean and becomes information you can use. *In play:* something stings in a conversation; you feel it all the way through, and it tells you something true about what just happened.
+**As an ally:** the feeling runs clean and becomes information you can use. *In play:* someone says something and it lands hard. The charge runs its course instead of lodging, and by the end of the conversation you can name what happened and why it mattered.
 **As a demon:** the feeling gets stuck, buried or spilling out sideways, because it never gets metabolized. *In play:* an unprocessed feeling spills out of you, and the person you came to support ends up taking care of you.
 *(Learning its language is the whole of the next chapter.)*
 
 **The Victim**
 **Job:** To win sympathy through stories. Telling what happened is how it gets another person to feel it with you.
-**As an ally:** it lets you feel with someone and resonate with what they're carrying, without collapsing into their story. *In play:* someone tells you something hard and you feel it with them, moved by it, without losing yourself in it or making it yours; you stay steady enough to actually help.
+**As an ally:** it lets you feel with someone and resonate with what they're carrying, without collapsing into their story. *In play:* someone tells you something hard and it reaches you without taking you over. You can still see them, and you stay steady enough to be useful.
 **As a demon:** it keeps people in the drama triangle. In the rush to resonate with someone's pain, it allies with their victimhood and smallness instead of their wellbeing, meeting the wound so completely that it confirms them in it and keeps them in the role rather than helping them move through it. *In play:* someone shares how they were wronged, and you resonate so hard with the injury that they leave more settled into being a victim of it, no more able to act than before.
 
 **The Damaged Self**
@@ -315,7 +315,7 @@ The instant something reads as a threat (a shift in tone, a move for power), the
 
 The trouble: a hull built to survive cannot always tell which century it is in. To the Protector, losing your place in the group registers the same as getting left to die, because for most of human history those were one event. So it runs your social life on survival settings, meeting a hard conversation or a public challenge with machinery built for a predator. That is why it gets so tired: it has been holding the whole ship rigid against threats that were never going to sink you.
 
-The Protector does the job cheaply by bracing everywhere. A hull that treats every century as the dangerous one never misses a threat, and never has to work out which threat is here, which is the reason the Protector prefers that setting, and the reason the tightening between hard conversations stops having a target and just hums. Vigilance runs at a higher price and buys aim: this tone, this move for power, this person, now. A Protector on survival settings has stopped looking, and blanket bracing feels identical from the inside to paying attention.
+The Protector does the job cheaply by bracing everywhere. A hull that treats every century as the dangerous one never misses a threat, and never has to work out which threat is here, which is the reason the Protector prefers that setting, and the reason the bracing between hard conversations stops having a target at all. Vigilance runs at a higher price and buys aim: this tone, this move for power, this person, now. A Protector on survival settings has stopped looking, and blanket bracing feels identical from the inside to paying attention.
 
 When the Protector holds the joystick, you walk into a conversation already armored, braced against something that has not happened, and the person across from you meets the hull before they meet you. It trades contact for control, and the trade feels like safety.
 
