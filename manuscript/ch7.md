@@ -72,7 +72,7 @@ The Diplomat's gift has a name: integrative negotiation. It surfaces what each p
 
 Most people stay past the point of their usefulness. Most people absorb cost until they empty out and then leave without warning. Most people never surface what the agreement actually requires, so nobody treats their presence as the precious, chosen thing it is. The Diplomat understands that a staying which cannot name its terms is a staying without weight. A staying without weight is a staying that slowly, invisibly, stops meaning anything at all.
 
-The Diplomat is the negotiator who has learned that honest stake-surfacing, timely closure, and the willingness to let the field decide what it can actually hold demonstrate love better than infinite presence does.
+The Diplomat is the negotiator who has learned that honest stake-surfacing, timely closure, and the willingness to let the people in the field decide what they can actually hold demonstrate love better than infinite presence does.
 
 The five stages of the Diplomat's work run as a journey in sequence rather than a checklist. **Bridge** is the initial entry, the act of showing up in the field with curiosity rather than judgment, making contact without yet knowing what the relationship will require. **Translate** is the work of rendering one camp's language into terms another camp can hear, betraying neither side and finding the common ground of meaning. **Hold** is the maintenance of enough safety that difficult conversation remains possible even when the field is charged. It is not the four seconds of Stand you learned from the Challenger, where one person declines to take back one line; it is the sustained containment of a whole field over the length of a hard conversation, sometimes over months. **Repair** is the healing of ruptures without the pretense that they did not occur: cleaning the wound without pretending nobody made it. **Negotiate** is the culmination: surfacing what each party protects, naming the terms under which staying remains possible, and closing so that everyone is heard *and* something moves.
 
@@ -137,7 +137,7 @@ The terms I wrote at that table have held eleven years. Nobody has mentioned the
 
 Honest terms work as the opposite instrument. **A term is a statement of what this field must hold for your staying to remain real, offered as information, once, to the people who are then free to answer.** It states a fact about the arrangement rather than a demand or a condition of continued affection, and it arrives while anyone still has time to do something with it.
 
-The difference is not tone. The Diplomat's altitude gets it wrong here most often, because this altitude excels at tone. An ultimatum said warmly is still an ultimatum. An honest term said flatly is still an honest term. The difference is structural: an ultimatum removes the other party's freedom to answer, and an honest term is the specific act of giving it back to them. You cannot decline something you were never told about. A field that does not know what your staying requires has never once had the chance to choose you.
+The difference is not tone. The Diplomat's altitude gets it wrong here most often, because this altitude excels at tone. An ultimatum said warmly is still an ultimatum. An honest term said flatly is still an honest term. The difference is structural: an ultimatum removes the other party's freedom to answer, and an honest term is the specific act of giving it back to them. You cannot decline something you were never told about. A person who was never told what your staying requires has never once had the chance to choose you.
 
 <!-- MARGINALIA -->
 > *This is the sentence in the treatise I have quoted most and understood last.*
@@ -269,7 +269,7 @@ Call it optimism if you want. The discipline extends to the present the same hyp
 
 The Bridge-Builder's Control challenge runs on depletion: the person who over-bridges, who connects past their capacity, who treats every bridge as urgent and every connection as required. The Neutral Channel pattern is **untracked depletion**: you bridge and bridge and never notice how much it costs until you are empty.
 
-The Control move: build the bridge → check the fuel gauge before crossing. *Do I have capacity for this contact? Am I bridging because the field needs me, or because I can't say no to the request?* This fixes structure, not emotion. Bridging has a real cost, and the Control move names that cost before warmth turns into depletion.
+The Control move: build the bridge → check the fuel gauge before crossing. *Do I have capacity for this contact? Am I bridging because someone here actually needs me, or because I can't say no to the request?* This fixes structure, not emotion. Bridging has a real cost, and the Control move names that cost before warmth turns into depletion.
 
 **[CONTROL] Control 2 — Performative Presence**
 
@@ -340,7 +340,7 @@ The Neutral Channel pattern here is **intellectual superiority**: the behavioral
 
 Precision costs here: the containment structure takes extra effort, and it pays off when accuracy matters.
 
-*What the Translator is for is faithful interpretation rather than neutral transmission. The Translator who has no partiality has no interpretive power. The Translator who knows what they believe and translates from that anchor, honestly, is the one the field can trust.*
+*What the Translator is for is faithful interpretation rather than neutral transmission. The Translator who has no partiality has no interpretive power. The Translator who knows what they believe and translates from that anchor, honestly, is the one the people in the field can trust.*
 
 ---
 
@@ -380,7 +380,7 @@ The Neutral Channel pattern here is **presence collapse**, the behavioral patter
 
 Staying spends real capacity. Naming that cost belongs to the holding, because unnamed depletion eventually becomes disappearance.
 
-*What the Field-Holder is for is the willingness to stay when staying is difficult. Not to fix the field, not to calm it down, not to make it better. To be the presence that makes it possible for the field to move through what it needs to move through without anyone getting destroyed in the process.*
+*What the Field-Holder is for is the willingness to stay when staying is difficult. Not to fix the field, not to calm it down, not to make it better. To be the presence that makes it possible for the people in it to move through what they need to move through without anyone getting destroyed in the process.*
 
 ---
 
@@ -666,15 +666,15 @@ The Diplomat translates: *"What I hear [Camp A] saying, in [Camp B]'s language, 
 
 **What it is:** Bridge, translate, hold, repair, and then this. The close. It is the move the whole chapter has been building toward, and the one the Diplomat's altitude skips most reliably, because closing feels like conflict and the field can always make space for one more round.
 
-Close with Honest Terms is one clear sentence naming what this field must hold for your staying to remain real, said once and then left alone for the field to answer. The leaving-alone separates it from an ultimatum.
+Close with Honest Terms is one clear sentence naming what this field must hold for your staying to remain real, said once and then left alone for the people in it to answer. The leaving-alone separates it from an ultimatum.
 
 **Example:** Eighteen months into a partnership you have never said the one thing you will not trade. Say it once and do not soften it: *I can work with almost anything here except one. If I have to choose between being honest with you and being honest with myself, I choose myself. When I push back we are close to losing an agreement that works for both of us, and I am not running a strategy.* Then stop talking. What they do with it is theirs.
 
-A threat would sound like *do this or I leave.* This is an offering of information: here is what this field must hold for my staying to remain real. Then the field gets to respond.
+A threat would sound like *do this or I leave.* This is an offering of information: here is what this field must hold for my staying to remain real. Then the people in it get to respond.
 
 *If you don't yet know where you stand, whether you've been trading impact away for the comfort of caring, go back to the Care ↔ Impact axis you drew in Section 3 before you try to close. The axis is preparation. This move is the practice.*
 
-**The test:** You named what you actually need from the agreement rather than a softer version, said it once, and left it alone for the field to answer. Their behavior may or may not change. If you named the real terms and nothing moved, that is information.
+**The test:** You named what you actually need from the agreement rather than a softer version, said it once, and left it alone for the people in it to answer. Their behavior may or may not change. If you named the real terms and nothing moved, that is information.
 
 The close lands clean when there's nothing left to add and you don't reach to fill the silence. You've said the terms, nothing has broken, and for once you let it stay said. The over-care version is the opposite: the talk thickens to molasses, every term softened until nothing's actually been said, the conversation kept intact like a museum piece and nobody moved an inch. Then the performed version: the words are out, but one hand stays on the door, ready to pull it open again the moment they frown.
 
