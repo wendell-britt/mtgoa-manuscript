@@ -1,0 +1,314 @@
+# agency_registry.yaml — The Healthy Animism Registry
+# Canon per SPEC_AGENCY_TRACEABILITY_AUDIT_20260802 §C2.
+#
+# Lives in instruments/ rather than the spec's tools/ because this repo has no
+# tools/ directory; instruments/ is where every measurement lives.
+#
+# STATUS: W-1 and W-2 are UNRULED. Per Wendell's 2026-08-02 decision, the scan
+# runs first and the rulings land on evidence. Sites touching an unruled
+# question are tagged, not resolved. See `open_rulings` below.
+#
+# C1 — The Traceability Rule: any entity may take an agentive verb if and only
+# if its mechanism of action is on the page or in canon. The defect is not
+# nonhuman agency. The defect is UNEARNED agency — attribution with no
+# traceable mechanism.
+
+meta:
+  spec: SPEC_AGENCY_TRACEABILITY_AUDIT_20260802
+  ruled_by: Wendell Britt
+  date: 2026-08-02
+  amendable_by: Wendell only
+  outranked_by:
+    - specs/SPEC_EMOTIONAL_ALCHEMY_CANON.md
+    # NOTE: C2 names DAEMON_CANON.md as superior canon. No file by that name
+    # exists in this repo. Grade 2's constraint column therefore has no
+    # authority to defer to. FLAGGED FOR WENDELL.
+    - DAEMON_CANON.md   # MISSING FROM REPO — see note above
+
+# ---------------------------------------------------------------- verb classes
+# §3. Severity ordering for UNLICENSED subjects:
+#   perception > intention > speech > social-causal > causal
+# Mechanical and directional on unlicensed subjects are low-severity — usually
+# dead metaphor, not category error.
+
+verb_classes:
+  perception:
+    severity: 1
+    note: "shows/reveals are perception-class even when aimed outward"
+    lemmas: [see, know, notice, show, reveal, tell, recognize, recognise,
+             perceive, understand, realize, realise, observe, watch, detect,
+             sense, remember, forget, learn, discover, spot]
+  intention:
+    severity: 2
+    note: "the most dangerous class on unlicensed subjects"
+    lemmas: [want, decide, promise, refuse, try, convince, intend, mean,
+             choose, prefer, seek, aim, hope, expect, demand, insist, allow,
+             permit, let, need, wish, plan, attempt, persuade]
+  speech:
+    severity: 3
+    lemmas: [say, argue, whisper, insist, claim, declare, announce, state,
+             ask, answer, reply, warn, admit, confess, explain, suggest]
+  social-causal:
+    severity: 4
+    note: "the systemic-agency class; conditionally licensed at Grade 6 — NO. See grade 6."
+    lemmas: [reward, punish, train, select, teach, invite, judge, forgive,
+             blame, praise, shame, humiliate, exclude, include, welcome,
+             betray, protect, abandon, demand, require, expect, permit,
+             forbid, sanction, discipline, groom, condition]
+  mechanical:
+    severity: 6
+    note: "mind-free by definition"
+    lemmas: [convert, jam, pay, compound, reset, overlay, distort, fuse,
+             route, meter, tally, score, cost, charge, drain, fill, spend,
+             accumulate, multiply, divide, lock, unlock, gate, throttle]
+  directional:
+    severity: 6
+    note: "current-model verbs"
+    lemmas: [move, carry, rise, flood, point, flow, run, pull, push, draw,
+             sink, climb, travel, head, turn, bend, spread]
+  causal-bare:
+    severity: 5
+    note: "most forgivable; flag only in clusters"
+    lemmas: [create, produce, shape, generate, make, cause, drive, force,
+             leave, bring, give, put, set, build, form]
+  pattern:
+    severity: 7
+    note: "the Grade 6 ceiling — residue verbs, no mind, no social act"
+    lemmas: [concentrate, compound, correlate, accumulate, persist, recur,
+             cluster, distribute, propagate, replicate, aggregate, skew]
+
+# ---------------------------------------------------------------- grades
+# §4. Licensed = may take these classes. Everything else at that grade is a
+# violation and routes to an R-op.
+
+grades:
+  - id: 1
+    name: Persons
+    entities: [Heads, Bram Tull, Headmaster, ICAs, reader, author, I, you, we,
+               they, he, she, Corin Ash, Sim Orrel, Vale, Voss, Quill, Orr,
+               named characters, proper names, personal pronouns]
+    verb_classes: [perception, intention, speech, social-causal, mechanical,
+                   directional, causal-bare, pattern]
+    trace: n/a
+    constraints: none
+
+  - id: 2
+    name: Animate parts
+    entities: [Seven Daemons, Vulnerable Child, Protector, Emotional Body,
+               Damaged Self, Victim, Diplomat shadow, "a part of you",
+               "the part that", inner critic]
+    verb_classes: [perception, intention, speech, somatic]
+    trace: "IFS architecture (ch2)"
+    constraints: >
+      Verbs stay inside each daemon's canonical job. The embodied three
+      (Protector, Emotional Body, Damaged Self) act SOMATICALLY, not verbally,
+      per the ch2 §6 roster ruling. Daemon inflation is a real risk: more than
+      two R3 routings per daemon per chapter is a flag.
+
+  - id: 3
+    name: Living currents
+    entities: [Fire, Water, Metal, Wood, Earth, the five channels, fear, anger,
+               grief, joy, the channel, the current]
+    verb_classes: [directional, perception]
+    verb_classes_pending: [intention]      # W-1
+    trace: "current model, taught in ch3"
+    constraints: >
+      Full license activates once ch3 has taught the model. Pre-ch3 usage is
+      light. The liturgical register ("Fear shows you what matters. Anger
+      points to boundaries.") is this license at full power and is PROTECTED —
+      it must never be flagged. Intention verbs pend W-1.
+
+  - id: 4
+    name: Machines
+    entities: [Arcade, the arcade, tokens, tickets, scoreboard, the app,
+               the machine, the cabinet, the prize counter, the joystick]
+    verb_classes: [mechanical]
+    trace: "arcade conceit"
+    constraints: >
+      Never perceives. Never wants. B6 stays banned verbatim — "the game can
+      tell the difference" is illegal forever. Payout is legal forever.
+
+  - id: 5
+    name: The ship
+    entities: [Calrunia, the Calrunia, the ship]
+    verb_classes: [directional, holding]
+    trace: "maritime register + frame fiction"
+    constraints: >
+      Nothing cognitive. Heads may in-fiction believe otherwise — that belief
+      is theirs and belongs to Grade 1, not to the ship.
+
+  - id: 6
+    name: Patterns
+    entities: [culture, the culture, institutions, the institution, The Game,
+               the system, the systems, org structure, organizations, society,
+               capitalism, patriarchy, "white supremacy", racism, sexism,
+               ableism, the hierarchy, the structure, the norm, the norms,
+               the pattern, the dynamic, the market, the economy, the company,
+               the industry, the workplace, the team, the family, the school]
+    verb_classes: [pattern]
+    trace: "patterns as residue of person-action"
+    constraints: >
+      PERCEPTION, INTENTION, AND SOCIAL-CAUSAL ARE ALL ILLEGAL AT THIS GRADE.
+      Culture does not train, reward, or punish. People do those things, and
+      the pattern is the name for what their doing leaves behind. Social-causal
+      verbs on Grade 6 subjects convert via R1 or R6. Per the C1 corollary this
+      demotion IS the book's argument enacted in grammar; the argument is made
+      explicitly on the page (W-4).
+
+  - id: 7
+    name: Shame and stuck states
+    entities: [shame, worry, rage, despair, guilt, anxiety, dread, resentment,
+               contempt, the freeze, the shutdown, burnout, "the stuck"]
+    verb_classes: [mechanical]
+    verb_classes_via_grade_2: [perception, intention, speech]
+    trace: "jammed-token model / IFS routing"
+    constraints: >
+      Legal as a jammed-token MECHANISM, or at full license when routed
+      through a part (Grade 2) as an internalized voice. ILLEGAL as a social
+      agent — shame does not punish, reward, or promise. Those verbs belong to
+      Grade 1 persons, with shame as the residue their doing leaves behind.
+
+  - id: 0
+    name: Unlicensed
+    entities: [the framework, frameworks, this chapter, the chapter, the book,
+               the model, the concept, the idea, "the work", "the practice",
+               "the process", "the approach", "the method", "the theory",
+               "the research", "the data", "the argument", "the section"]
+    verb_classes: []
+    trace: none
+    constraints: >
+      Authorial metonymy ("this chapter asks", "the book returns to") pends
+      W-2. Tag, do not resolve.
+
+# ---------------------------------------------------------------- ambiguity
+disambiguation:
+  game:
+    note: >
+      At least four referents share the token. The scan cannot disambiguate.
+      EVERY "game"-subject hit routes to human triage tagged AMBIGUOUS-REFERENT.
+    referents:
+      - {sense: "the arcade conceit", grade: 4}
+      - {sense: "The Game as systemic dynamic", grade: 6}
+      - {sense: "the RPG companion product", grade: 0}
+      - {sense: "the app's game system", grade: 4}
+
+# ---------------------------------------------------------------- registers
+# In-world documents authored by Heads are Grade 1 persons speaking in
+# character. A category error there may be characterization, not defect.
+# Ledger separately; never fold into chapter counts.
+registers:
+  - block: MARGINALIA
+    tag: CHARACTER-VOICE
+    scanned: false          # out of scope this pass (Wendell, 2026-08-02)
+  - block: EPIGRAPH-BYLINE
+    tag: CHARACTER-VOICE
+    scanned: false
+  - block: POSTCARD
+    tag: CHARACTER-VOICE
+    scanned: false
+  - block: HANDBOOK
+    tag: HANDBOOK-REGISTER
+    scanned: true
+    note: "Not stripped by MARG_BLOCK. In-world School admissions specs, Head-authored."
+  - block: SIGNATURE
+    tag: HANDBOOK-REGISTER
+    scanned: true
+
+# ---------------------------------------------------------------- remediation
+# C5 precedence, highest first. Where several apply to one site, take the
+# highest-priority op that fits.
+r_ops:
+  - id: R4
+    priority: 1
+    name: Testimony
+    move: "Pull into the author's chair, first person, per A0."
+    trigger: "Any site where the convincing/knowing actually happened in Wendell's head."
+    risk: none
+  - id: R1
+    priority: 2
+    name: Restore human agent
+    move: "Abstraction's social verb becomes the persons who did it, with the pattern as residue."
+    trigger: "Primary op for Grade 6/7 social-causal violations."
+    risk: >
+      STYLISTIC ONLY, not political. At scale, identical "people do X to each
+      other" constructions drumbeat into scolding, which violates
+      critical-discomfortment-not-scolding. Vary the construction, prefer R4
+      where the author's chair can carry it, profile-check R1-heavy batches.
+  - id: R3
+    priority: 3
+    name: Route to a part
+    move: "Reassign the mind-verb to the daemon it belongs to."
+    trigger: "Perception/intention that is really internal experience."
+    risk: "Daemon inflation. >2 per daemon per chapter is a flag. Verbs must match the daemon's canonical job."
+  - id: R2
+    priority: 4
+    name: Mechanize
+    move: "Perception/intention verb on a Grade 4/6/7 subject becomes a structural mechanism."
+    trigger: "Mind-verb on a machine or system."
+    risk: "None. The house's proven move — the Token/Ticket ruling."
+  - id: R6
+    priority: 5
+    name: Dissolve to transmission
+    move: "Rewrite the system's action as its transmission path — the persons, incentives, and trained parts the effect travels through."
+    trigger: "Grade 6 social-causal where naming individual actors would be false precision."
+    risk: "Added length. Run against the AC-4 profile check."
+  - id: R5
+    priority: 6
+    name: Demote to function
+    move: "wants becomes moves toward / is built to"
+    trigger: "Only if W-1 rules against channel intention."
+    risk: "Flatness. The liturgical passages are protected regardless."
+  - id: R7
+    priority: 7
+    name: Licensed keep
+    move: "Log in the keep-ledger with justification."
+    trigger: "Deliberate device."
+    risk: >
+      C3: NO automated check and NO Claude judgment may rule a keep. The
+      pipeline's authority ends at sorting and flagging. Machine and Claude
+      dispositions may be `fix` or `parked`, NEVER `keep`. Keep-candidates
+      queue to Wendell's read-aloud pass and carry his dated ruling.
+
+# ---------------------------------------------------------------- severity tiers
+tiers:
+  3: "perception or intention on a Grade 0/4/5/6/7 subject; any social-causal on Grade 6/7"
+  2: "speech on an unlicensed subject; social-causal on Grade 0/4/5; causal-bare in a cluster"
+  1: "mechanical or directional on an unlicensed subject; isolated causal-bare"
+
+# ---------------------------------------------------------------- open rulings
+open_rulings:
+  W-1:
+    question: "Do the five channels get intention verbs?"
+    proposal: >
+      `wants` is legal for channels because the current model defines each
+      channel as a directed movement, so "wants" describes vector, not
+      psychology.
+    status: UNRULED
+    handling: "Tag sites W-1-PENDING. Do not resolve. Do not fix."
+    propagates_to: "canon EA docs"
+  W-2:
+    question: >
+      Does the book/chapter get a minimal discourse license (covers, returns
+      to, asks) as standard authorial metonymy, or does everything convert to
+      the author's chair?
+    proposal: "Convert to `I` per A0; the author's chair is the book's authority engine."
+    status: UNRULED
+    handling: "Tag sites W-2-PENDING. Do not resolve. Do not fix."
+  W-3:
+    question: "Print scope severity cutoff."
+    proposal: >
+      Perception + intention verbs on unlicensed/violating subjects in the
+      nine shipping chapters; all else parked to edition two.
+    status: UNRULED
+    handling: "Fix-phase only. Does not gate this analysis pass."
+  W-4:
+    question: "Placement of the confrontation beat (the C1 corollary dependency)."
+    proposal: >
+      A Game So Far beat — systemic language as the Diplomat shadow's hiding
+      place ("the culture here is toxic" said instead of "Dave, you interrupted
+      her three times"; the abstraction absorbs the confrontation the Diplomat
+      is avoiding).
+    status: UNRULED
+    handling: >
+      Ship-phase only. This pass reports WHERE the Grade-6 violations cluster,
+      which is evidence toward placement.
