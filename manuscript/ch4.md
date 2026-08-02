@@ -65,7 +65,7 @@
 
 The Challenger once lived in the village.
 
-Inside it. One of them. The Challenger was the one who drew the lines. Who said "this far and no further." Who stood in the place where everyone else kept negotiating and planted a flag and said *this is where we stand.* The village needed that. The village was full of people who could feel what was wrong but couldn't say it out loud. The Challenger could say it. The Challenger could say it and mean it and hold the line while everyone else figured out how to catch up.
+Inside it. One of them. The Challenger was the one who drew the lines. Who said "this far and no further." Who stood in the place where everyone else kept negotiating and planted a flag and said *this is where we stand.* The villagers needed that. Plenty of them could feel what was wrong but couldn't say it out loud. The Challenger could say it. The Challenger could say it and mean it and hold the line while everyone else figured out how to catch up.
 
 The village built rituals around this. The Challenger would speak first at councils. Not because they were the eldest or the wisest but because they could say the thing that needed saying before anyone else could bear to hear it. "This is not acceptable." "That boundary has been crossed." "We will not do this." The words were simple. The weight behind them was not.
 
@@ -81,7 +81,7 @@ Not because the Challenger was wrong. Because the Challenger was *expensive.* Th
 
 The Regent was more efficient. The Regent was more scalable. The Regent was more *sustainable.*
 
-So nobody banished the Challenger. The Challenger was just... sidelined. Without ceremony. (The Regent stayed very gracious about it. There was nothing to push against. That was the point.) The councils stopped asking first. The rituals started referencing the Regent's walls instead of the Challenger's lines. The stories changed from "remember when the Challenger said no to that?" to "thank the Regent for building the structure that holds that no."
+So nobody banished the Challenger. The Challenger was just... sidelined. Without ceremony. (The Regent stayed very gracious about it. There was nothing to push against. That was the point.) The people at the councils stopped asking first. They started building the rituals around the Regent's walls instead of the Challenger's lines. The stories they told changed from "remember when the Challenger said no to that?" to "thank the Regent for building the structure that holds that no."
 
 The Challenger noticed, and saw the choice: become a historical footnote, the one who used to draw lines before the Regent made lines into laws, or leave.
 
@@ -124,7 +124,7 @@ The village does this with the clean no once the Challenger has gone: it transfo
 
 The village did all of this with good intentions. Because the Regent was right: *power had to be organized.* Because walls cost less than lines. Because saying no cost something and the village had decided, without ever announcing it, to stop paying.
 
-The village never realized it had traded the capacity to draw lines for the comfort of not having to. That every time it chose the facilitated conversation over the clean no, it taught its people that the clean no no longer belonged to them. That the Challenger's gift (the willingness to be unwelcome in service of what is true) was draining away, not just from the village, but from the village's *capacity to even recognize* when the moment called for it.
+The villagers never realized they had traded the capacity to draw lines for the comfort of not having to. That every time they chose the facilitated conversation over the clean no, they taught each other that the clean no no longer belonged to them. That the Challenger's gift (the willingness to be unwelcome in service of what is true) was draining away, not just from the village, but from their *capacity to even recognize* when the moment called for it.
 
 ---
 
