@@ -52,9 +52,9 @@ Carolyn Elliott, whose work on shadow retrieval grounds the daemon work in this 
 
 Hold these three words, because the whole book turns on them. The **Shadow** is the disowned material itself. When one of your Faces runs *from* that material instead of being chosen, you get that **Face in distortion**: the gift turned against the people it was meant to serve. When a daemon runs the show instead of you, it exacts a **cost**, paid by you and by whoever you were trying to help. One word each: Shadow, distortion, cost. They are not the same thing, and the work is to tell them apart.
 
-The daemon work doesn't ask you to fix the Shadow. It asks you to find out what it has been protecting. That is a different project entirely, and it produces different results.
+I don't ask you to fix the Shadow. I ask you to find out what it has been protecting. That is a different project entirely, and it produces different results.
 
-The terrain here has no map. Allyship asks for capacities most training never reaches, and most training does not say so. The curriculum opens where the work becomes visible, which is a long way past where it starts.
+The terrain here has no map. Employers, movements and communities expect capacities that most training never reaches, and most training does not say so. The curriculum opens where the work becomes visible, which is a long way past where it starts.
 
 The world is not fine. Neither is the method for fixing it. It rests on a bad premise: that allyship is mainly about what you do in public. The deeper truth is this:
 
@@ -62,15 +62,15 @@ The world is not fine. Neither is the method for fixing it. It rests on a bad pr
 
 ### What the Old Allyship Got Wrong
 
-The old allyship's fatal flaw was mistaking information for transformation. It had a theory of change. It went like this:
+The trainers who built the old allyship mistook information for transformation. Their theory of change went like this:
 
 *Learn. Feel. Act.*
 
 This theory is incomplete rather than wrong. The old allyship produced real wins: doors that opened, conversations that happened, power that shifted in small amounts, temporarily, in specific places. It also produced a generation of exhausted practitioners who kept burning out on good intentions. Both of these things are true.
 
-You bring a body to every one of those actions. Sometimes that body runs on three hours of sleep. Sometimes it has been braced since the morning meeting. The old allyship does not ask about that. It assumes the person executing the right actions has the body to do it.
+You bring a body to every one of those actions. Sometimes that body runs on three hours of sleep. Sometimes it has been braced since the morning meeting. The trainers behind the old allyship never asked about that. They assumed you would have the body to execute the actions regardless.
 
-The old allyship tells you what to do. It doesn't tell you how to be the kind of person who can do it sustainably. Who can show up in the hardest moments without freezing. Who can hold complexity without collapsing. Who can take feedback without disappearing. Who can stay in the conversation when it gets hard.
+Coaches and workshops told you what to do. Very few of them told you how to be the kind of person who can do it sustainably. Who can show up in the hardest moments without freezing. Who can hold complexity without collapsing. Who can take feedback without disappearing. Who can stay in the conversation when it gets hard.
 
 The old allyship produces moments of brilliance and long stretches of exhaustion. It produces people who care enormously and accomplish less than they could because they keep hitting the same wall. The wall that's not in the world, it's in them.
 
@@ -116,8 +116,8 @@ Every workplace conflict, every family rupture, every coalition meeting where pe
 Most people treat these moments as isolated incidents. They are connected rounds in one larger game:
 
 - What pattern do I run when pressure rises?
-- What pattern do the people here reward when things get uncertain?
-- What pattern do they punish when someone tells the truth?
+- What pattern do the people in this group end up rewarding when things get uncertain?
+- What pattern do the people running this system end up punishing when someone tells the truth?
 
 If you don't name the game, you mistake your reaction for your identity.
 If you do name the game, your reaction becomes information.
@@ -141,7 +141,7 @@ Whatever the situation, part of you stays braced for the judgment. That vigilanc
 
 That gap, between the people in front of you and how much of you is there to meet them, is the edge of the Forest.
 
-Maybe you did everything the work asked. Showed up. Listened. Went to the training and listened there too. Read the book, adjusted the language, listened harder after that. Asked better questions. Stopped centering yourself, or tried to. Checked the assumptions. Sat with the discomfort. Maybe, somewhere in all of it, you started holding still by default.
+Maybe you did everything your teachers and workshops asked of you. Showed up. Listened. Went to the training and listened there too. Read the book, adjusted the language, listened harder after that. Asked better questions. Stopped centering yourself, or tried to. Checked the assumptions. Sat with the discomfort. Maybe, somewhere in all of it, you started holding still by default.
 
 No one reports back. You cannot tell whether any of it is working, or what working would even look like.
 
@@ -200,7 +200,7 @@ I had learned, for reasons that started early and went deep, to keep my feelings
 
 The rock in my shoe was the tip of something that went down a long way.
 
-My friends called to see if I was okay. They were not okay (disturbed, shaken, holding something they didn't know how to hold), and they delivered it to me, gift-wrapped as concern. I was the only Black person most of them knew. My well-being had become a stand-in for all of Black America's well-being. The call meant to support me asked me to hold their unprocessed feelings about a Black man's murder.
+My friends called to see if I was okay. They were not okay (disturbed, shaken, holding something they didn't know how to hold), and they delivered it to me, gift-wrapped as concern. I was the only Black person most of them knew. My well-being had become a stand-in for all of Black America's well-being. Meant to support me, they were really asking me to hold their unprocessed feelings about a Black man's murder.
 
 I was not okay, and not for the reasons they assumed.
 
