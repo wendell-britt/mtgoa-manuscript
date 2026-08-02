@@ -236,13 +236,15 @@ The only way to lose is to stop playing.
 
 ## Capture What Lands — The BAR Deck
 
-I wrote this chapter to hit you. That is the craft, and by now some of it has. I have also sat on the other side of a book that hit me (more times than I can count), and I know what comes next, because it kept happening to me. The impact fades. By morning the charge is gone and I am the same person I was before I opened it. Moved, and unchanged. If that is all this book does, I have failed, and so has every book you pick up after it.
+I wrote this chapter to challenge you, because writing this book is my allyship practice and you are the person I am making my move on.
 
-The part of you that believes your life will change because you wrote it down in a journal is part of the problem. Writing is not the issue: putting the thought, the feeling, the experience on a page is halfway to something. Everything breaks in what happens to the page next. It goes into a notebook you will almost never reopen, because reviewing a journal is real work and no one has made that part work. The impact goes in. It does not come back out.
+What happens next keeps happening to me. A sentence in somebody else's book lands hard enough that I stop reading. By morning the charge is gone and I am the same person who opened the book. Moved, and unchanged.
 
-BARs came out of a fix for this. Years ago I started carrying blank poker cards, and when something hit me (the kind of hit you know you will lose by morning), I wrote it on a card. The cards came with me. Here is the part I did not plan: even when I could not remember what a card said, I remembered where it lived. I was carrying a map of the moments that had changed me. The thing that hit me was in my pocket, in the palm of my hand, instead of on a shelf at home. That is what the notebook could not do.
+Writing things down is supposed to stop that fade. I have filled notebooks. Years of them. I can count on one hand the times I have gone back to read one. Getting a thought out of your head and onto a page is halfway to something, and then everything breaks in what happens next. Nobody has ever sold a notebook on how good it feels to reread it, and rereading one is a job. The charge goes in. It does not come back out.
 
-A **BAR** is that card. Captured charge: one moment of your own play, caught while the heat is still on it, carried where you can reach it instead of filed where you cannot.
+Years ago I started carrying blank poker cards instead. When something landed hard, I wrote it on a card and the card came with me. The surprise was where the memory went. Even when I could not remember what a card said, I remembered where it lived — third from the back, the one with the bent corner. A notebook stores a sentence you have to go find. A deck stores a place you already know, and the place hands the sentence back.
+
+A **BAR** is that card. Buy a pack of blank pocket-sized ones before the next chapter. The size is the point: a card you can hold on a train is a card you will look at, and a deck you can shuffle is a deck you will reread.
 
 The name is the method. **B**reakthrough: what hit you. **A**ction: the one move it points to. **R**eflection: what changed when you moved. The first is what you write while the charge is live; the other two after you have spent it on a move.
 
