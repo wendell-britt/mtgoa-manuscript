@@ -123,14 +123,56 @@ also takes roughly 90 words off a section currently running 67% over its canon l
 
 ---
 
-## What I need from Wendell
+## RESOLVED — one story carries both
 
-Two memories, and neither can be written without him.
+**Wendell supplied it, 2026-08-01.** Trip sitting at an event. Somebody came to tell
+him that something he had said had sent another person into a very bad place. He did
+not want it to be true and could not prove it was not him, *"because I say a lot of
+wild stuff."* He went to find the person anyway, held space, had a real conversation,
+and it landed. Then the accuser worked out that it had not been him at all — it was
+somebody who looked like him.
 
-1. **A time something good happened that he did not cause** — and what he told himself
-   about his own part in it at the time.
-2. **A time somebody who had done the work got read as somebody who hadn't** — either
-   watched, or received.
+His own reading: *"I was able to show up as an ally because of chance. In skilled
+helping this is a kind of jackpot."*
 
-Everything else in both bridges either exists in canon or follows from the material
-already worked out this session.
+**It carries both bridges, in two distinct beats, and they should not be conflated.**
+
+### Beat one — the pre/trans instance
+
+Not the mistaken identity. **The decision to go without defending himself first.**
+
+From outside, walking straight at a person you have been accused of harming with
+nothing said in your own defence looks like guilt. It looks identical if the walker
+has simply never cared what a room thinks. Three people make that move for three
+reasons and no observer can sort them.
+
+That is a true instance of the fallacy rather than an analogy, and it is Wendell's
+own move, which puts him in the subject where the voice anchors say the book works
+best.
+
+**The lookalike is not the fallacy.** Two people who physically resemble each other
+being confused is adjacent to the pre/trans confusion and is not the same object.
+Claiming it as an instance would be sloppy, and it is not needed — the story has a
+real one in it already.
+
+### Beat two — the three-games instance
+
+The mistaken identity is the Chance beat, and it is stronger than the abstract
+version because **it shows two games interlocking rather than asserting that Chance
+exists.** Chance put him in the room: a stranger with his face and somebody's honest
+mistake. Skill is what happened once he was there, built over years and available on
+purpose.
+
+And the tail of it earns a line the section currently asserts. *If the mistake had
+landed on anyone without the skill, the person in trouble would have had nobody* is
+**your presence is somebody else's odds**, arrived at through a story instead of
+stated as a maxim.
+
+### One decision for Wendell
+
+**The setting is a psychedelic event and the role is trip sitting.** The book already
+works in shadow material and existential kink, so the register is not foreign, but
+drug context is a distribution decision rather than a craft one — it may matter for
+institutional adoption. The story survives generalisation (*somebody having a very
+bad time at an event*) at a real cost in specificity, which is where its power is.
+Not mine to decide.
