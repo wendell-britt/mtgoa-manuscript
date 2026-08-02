@@ -26,7 +26,15 @@ The whole thing has a structural flaw:
 
 We see a problem. We respond. We post, we protest, we speak up, we show up. Then we wonder why three months later the problem still sits there, or worse, has grown, or has transformed into something that our original response can't touch.
 
-We wonder why we're exhausted. Why we're burned out. Why the allyship feels like more than we can carry. (Some of us have been calling this burnout for five years. Burnout names the depletion. It doesn't name the cause.)
+I spent years refusing a capacity I already had.
+
+I was trained in shamanism, and I did not want to learn it. I had no affinity for the practices it draws on, and it did not feel like mine to pick up. People whose judgment I trusted had advised me never to trust the exact kind of spooky white lady now teaching me. I stayed because her chops were impeccable. That was the whole reason, and it held.
+
+She taught me to read a body. Mine first, then the bodies of everyone else. Most of what we were calling shamanism was presence, and we read the research next to the practice: the same moves keep surfacing in mainstream psychology under other names, because they work on a nervous system. Stephen Porges had already mapped why.
+
+I use it every time I teach now, in dance and in writing and in this. I can walk into a group and hold it steady, because I trust my body to read what moves in it before anybody says so.
+
+I could not do any of that while I believed the knowledge belonged to somebody else. The capacity sat in my body the whole time. Nobody was ever going to hand me permission to use it.
 
 If we're honest with ourselves, we've also been the one who couldn't hold it. Who froze. Who said the wrong thing. Who meant well and made it worse. Who showed up wanting to help and left feeling like the problem was us.
 
@@ -129,9 +137,7 @@ Underneath the effort waits a question worth sitting with:
 
 Were you doing this to change something, or to seem like the kind of person who would? Ask it without flinching.
 
-Picture a meeting that goes cold. The body knows exactly what is happening, maybe before anyone speaks, and the read gets set aside for the consensus, not for lack of capacity, but because body-knowing, in a certain framework, belongs to people closer to their roots, and claiming it can feel like appropriation. So the literacy gets built and the read goes unused.
-
-The body doing that reading never appropriated anything. It is yours. You already have the Shaman's first move. I am asking whether you will stop treating your own somatic intelligence as something that belongs to someone else.
+Your body was never appropriating anything. It is yours. You already have the Shaman's first move. This chapter asks whether you will stop treating your own somatic intelligence as something that belongs to someone else.
 
 Wanting to be good was never the problem. Trying to seem good takes the whole body. That leaves nothing over. The face you're holding in place and the face underneath it run at the same time, and the exhaustion actually lives in that split.
 
