@@ -86,7 +86,7 @@ Most people turn back. Of the ones who don't, most push through instead of going
 
 ### What's Different Now
 
-Something has shifted. Hard conversations arrive close enough together now that nothing stands down in between, and vigilance with no particular target starts passing for ordinary alertness.
+Something has shifted. Everyone is on edge, so a hard conversation could be around any corner, and vigilance that once made sense now runs as background noise.
 
 The conversations come with more charge. Coalitions that held through the last hard thing are fraying at edges that shouldn't be weak. The feedback, when it comes, comes fast, doesn't wait for you to be ready, doesn't come with enough context to land cleanly. The language keeps shifting, not because people move the goalposts but because the situation actually moves, and the words you practiced last year don't cover the new terrain. It can start to feel like falling behind, with no clear sense of what falling behind even means.
 
@@ -315,7 +315,7 @@ The instant something reads as a threat (a shift in tone, a move for power), the
 
 The trouble: a hull built to survive cannot always tell which century it is in. To the Protector, losing your place in the group registers the same as getting left to die, because for most of human history those were one event. So it runs your social life on survival settings, meeting a hard conversation or a public challenge with machinery built for a predator. That is why it gets so tired: it has been holding the whole ship rigid against threats that were never going to sink you.
 
-The Protector does the job cheaply by bracing everywhere. A hull that treats every century as the dangerous one never misses a threat, and never has to work out which threat is here, which is the reason the Protector prefers that setting, and the reason the bracing between hard conversations stops having a target at all. Vigilance runs at a higher price and buys aim: this tone, this move for power, this person, now. A Protector on survival settings has stopped looking, and blanket bracing feels identical from the inside to paying attention.
+The Protector does the job cheaply by bracing everywhere. A hull that treats every century as the dangerous one never misses a threat, and never has to work out which threat is here, which is the reason the Protector prefers that setting, and the reason you end up walking on eggshells with everyone, including the people who have never once been a threat. Vigilance runs at a higher price and buys aim: this tone, this move for power, this person, now. A Protector on survival settings has stopped looking, and blanket bracing feels identical from the inside to paying attention.
 
 When the Protector holds the joystick, you walk into a conversation already armored, braced against something that has not happened, and the person across from you meets the hull before they meet you. It trades contact for control, and the trade feels like safety.
 
