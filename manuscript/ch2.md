@@ -42,7 +42,7 @@ I use it every time I teach now, in dance and in writing and in this. I can walk
 
 I could not do any of that while I believed the knowledge belonged to somebody else. The capacity sat in my body the whole time. Nobody was ever going to hand me permission to use it.
 
-Anyone who's been in this work long enough has met themselves at the edge of their capacity. Froze. Said the thing. Meant it and made it worse. Came to help and left certain they were the problem.
+Anyone who's been in this work long enough has met themselves at the edge of their capacity. They froze when the moment needed them, or said the sentence they cannot take back, or meant well and made it worse, or came to help and left certain they were the problem.
 
 You know which time was yours. You know the feeling that came with it.
 
@@ -56,7 +56,7 @@ The daemon work doesn't ask you to fix the Shadow. It asks you to find out what 
 
 The terrain here has no map. Allyship asks for capacities most training never reaches, and most training does not say so. The curriculum opens where the work becomes visible, which is a long way past where it starts.
 
-The world is not fine. The method for fixing it is not fine either. It rests on a bad premise: that allyship is mainly about what you do in public. The deeper truth is this:
+The world is not fine. Neither is the method for fixing it. It rests on a bad premise: that allyship is mainly about what you do in public. The deeper truth is this:
 
 **Allyship is about what you are capable of becoming before you walk into the world.**
 

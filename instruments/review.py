@@ -76,6 +76,37 @@ def draft(paths):
         if "new_prose" in path and "\n---\n" in text:
             text = text.rsplit("\n---\n", 1)[1]
         print("\n%s %s" % ("=" * 4, path))
+
+        # STEP 0 WAS MISSING FROM THIS FUNCTION UNTIL 2026-08-02, and it is the step this
+        # file's own docstring lists first.
+        #
+        # `marginalia/review.py` owns say-the-noun, AI shapes and hedges, and its docstring
+        # reads "Run BEFORE any draft is shown to Wendell." `book()` called it. `draft()`
+        # never did — so the only check that catches a withheld noun ran exclusively AFTER
+        # the prose had already landed in the manuscript.
+        #
+        # Wendell 2026-08-02, on `Froze. Said the thing.` reaching him in a draft that had
+        # been reported clean: "I swear to god. We HAVE to stop using this phrasing. WE have
+        # rules against this. Did you run any of the reviews? ... What do I need to do to
+        # stop having to make this correction?"
+        #
+        # Nothing, is the answer. The rule existed, the linter fired on that exact sentence,
+        # and the draft path did not call it. `MANUSCRIPT_FILE_CANON:240` records that
+        # `the thing` appears 132 times in this manuscript and is the same defect
+        # `review.py` reports as say-the-noun.
+        #
+        # A BLOCK counts here, unlike in `book()`. Book-wide it is a candidate to
+        # adjudicate against prose already ruled; on a draft it means fix it before showing
+        # anyone, which is what the linter's own legend says.
+        code, out = run(["marginalia/review.py", path])
+        nblock = len([l for l in out.split("\n") if l.strip().startswith("[BLOCK]")])
+        print("  0 voice   %s" % ("clean" if not nblock else "%d BLOCK" % nblock))
+        for l in out.split("\n"):
+            if l.strip().startswith("say the noun:") or l.strip().startswith("hedge:") \
+                    or l.strip().startswith("ai shape:"):
+                print("        %s" % l.strip()[:96])
+        bad += nblock
+
         hits = []
         for name, pat, flags in COUNTERS:
             for m in re.finditer(pat, text, flags):
