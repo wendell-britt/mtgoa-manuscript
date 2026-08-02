@@ -219,7 +219,7 @@ Before the map gets bigger, let me tell you how this game teaches.
 
 Most of the allyship training you've been handed works like school, compliance, or court. Learn the terms. Prove you understand them. Perform the correct response. Avoid getting it wrong. Repeat until the rules change.
 
-Trained that way, you perform. You do not play.
+Trained that way, you perform. You do not learn to be playful.
 
 A game teaches differently. It gives you a map, lets you make a move, shows you what happened, and lets you try again with better information. You do not become capable by memorizing the whole map before touching the joystick. You become capable by learning what it does while something is actually happening.
 
