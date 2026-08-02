@@ -235,7 +235,7 @@ One of those questions hit different. (If more than one hit, start with the one 
 
 Before the map gets bigger, let me tell you how this game teaches.
 
-Most of the allyship training you've been handed works like school, compliance, or court. Learn the terms. Prove you understand them. Perform the correct response. Avoid getting it wrong. Repeat until the rules change.
+Most allyship training works like school, compliance, or court. Learn the terms. Prove you understand them. Perform the correct response. Avoid getting it wrong. Repeat until the rules change.
 
 Trained that way, you perform. You do not learn to be playful.
 
@@ -249,7 +249,7 @@ Chapter 1 put the joystick in your hands. Here you learn how to walk the book.
 
 You are going to meet more language than you can use all at once. That is normal. You will see the daemons more than once: first as a map, then as a walk, then as a move. The repetition is deliberate. It is how you come to recognise them.
 
-The work is to notice the first place you recognize yourself in the map, in place of memorizing the roster, mastering the Guides, or becoming the kind of person who can explain the whole system at dinner.
+Notice the first place you recognize yourself in the map. You are not here to memorize the roster, master the Guides, or become the kind of person who can explain the whole system at dinner.
 
 When a daemon lands, stop there. When a Guide's question makes something in you lean forward, start there. When a sentence names the thing you have been circling for years, stay with it.
 
@@ -273,7 +273,7 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 
 **The Protector**
 **Job:** To keep you alive. It is the body's embodied sense of self-preservation.
-**As an ally:** it guards you against real danger, the kind that would actually threaten your body. *In play:* a car swerves toward you and you're already moving before you've thought about it; the bracing fired exactly when it should.
+**As an ally:** it guards you against real danger, the kind that would actually threaten your body. *In play:* a car swerves toward you and you are out of its path before you have decided anything. When the danger is real, the Protector does not wait for you, and it should not.
 **As a demon:** it protects the self at all costs, and won't extend that protection to anyone else unless it widens its own identity to include them. When it does, those people stop being separate people you're allying with and become an extension of your body to protect. *In play:* a hard email lands and your whole body braces as if it were a physical threat; you answer armored, and the other person meets the armor before they reach you.
 
 **The Controller**
@@ -341,14 +341,14 @@ That is the game itself, not the tutorial for it. It's a skill with a difficulty
 
 ### Superpower Definition
 
-Your superpower is the reliable capacity you built to survive your wounds, once that capacity is made conscious, ethical, and usable in service of others.
+Your superpower is the reliable capacity you built to survive your wounds, once you have made that capacity conscious, ethical, and usable in service of others.
 
 Formula: **adaptation under pressure → conscious integration → intentional contribution**.
 
 Two concrete examples:
 
-1. If you grew up reading emotional weather to stay safe, your integrated superpower can be early conflict sensing and de-escalation in teams before harm escalates.
-2. If you learned to over-prepare because mistakes were punished, your integrated superpower can be rigorous planning that protects vulnerable people from preventable failure without slipping into control.
+1. If you grew up reading emotional weather to stay safe, you can be the person who feels a conflict building and cools it while it is still small.
+2. If you learned to over-prepare because mistakes were punished, you can be the person who plans so carefully that a preventable failure never reaches the people least able to absorb it.
 
 The wound does not become your identity. It becomes signal, then skill, then contribution.
 
@@ -361,7 +361,7 @@ A daemon you befriend joins your party. A daemon left running on its own stays a
 ## Section 7: Journey to the Center
 ### *A First Walk Through the Forest*
 
-Let's make it concrete. Watch what happens to the joystick.
+Now the walk itself. Watch what happens to the joystick.
 
 Picture a real moment from your last month. A hard conversation. A call you delayed. A conflict you replayed after it ended. Drop back into it, and watch the daemons grab the joystick, one after another.
 
@@ -387,14 +387,14 @@ The whole walk is reaching her: getting to the center where she is, and putting 
 
 That center is an ordinary, lived moment: the one where you stop performing and tell the truth about what is actually happening in you. The seven settle once someone finally shows up to play.
 
-From there, with your hands back on the joystick, different moves become available:
+From there, with your hands back on the joystick, you can make moves you could not reach before:
 
 - Name one feeling instead of a theory.
 - Draw one boundary instead of ten arguments.
 - Ask one true question instead of managing the whole conversation.
 - Stay present for one breath longer than your old pattern.
 
-The Forest is where you get back to the center. From there, your next move gets cleaner.
+The Forest is where you get back to the center. From there you play the next move cleanly.
 
 ---
 
