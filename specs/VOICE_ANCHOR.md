@@ -31,6 +31,10 @@ this file.
 rather than something profound. *Less fun* is two words after a sixty-word
 sentence, and no measurement instrument can see the rhythm it makes.
 
+**Delivers via:** first person. *I* holds every verb in the passage — gave, saw,
+was holding, ended up doing. The turn lands on the author, and nothing abstract
+is asked to carry it.
+
 ## 2 · `ch1:119` — the parenthetical self-indictment
 
 > …you already know what they are worth: you perform the care, you feel like
@@ -42,6 +46,10 @@ sentence, and no measurement instrument can see the rhythm it makes.
 **Protects:** naming your own bad prose inside good prose, in an aside, without
 breaking stride. The admission is parenthetical *and* the sharpest sentence in
 the paragraph.
+
+**Delivers via:** the author's chair. *I wrote whole chapters of this book
+standing at it.* The indictment has a person in it, which is what makes it cost
+something.
 
 ## 3 · `ch4:115` — satire aimed at a practice
 
@@ -57,6 +65,28 @@ It is in this set deliberately: **an anchor with no comedy in it will let the
 Voice Guardian approve a book that has stopped being funny**, because nothing in
 its comparison set would show that anything was lost.
 
+**Delivers via: ⚠️ collective-as-mind — and that mechanism is NOT protected.**
+*The village learned* · *the workshops teach* · *the workshops promise.* The joke
+is protected. The grammar carrying it is not. Anchor 4 is the same archetype
+delivered clean, and it is funnier, because the agent is specific.
+
+**The targeting rule, completed (amended 2026-08-02).** Mock the process that
+took someone's joystick, never the person — **and seat the mockery on a subject
+that can hold the verb.** The original rule forbids the only obvious subject and
+names no replacement, so the process arrives in the subject slot by default.
+That is not a stylistic accident; it is the mechanism that produced 131 agency
+sites in a manuscript with four linters and a green gate. Licensed carriers, in
+order of preference:
+
+1. **a named part** — *The Fixer is happy to take him.* Funniest, most specific.
+2. **the author's chair** — *I wrote whole chapters standing at it.*
+3. **the persons, plural** — the villagers, the trainers, the people in the room.
+4. **a machine, mechanical verbs only** — *the structure pays out nothing for optics.*
+
+**Known limit.** Pluralizing does not rescue this passage on its own. *The
+workshops* is already plural and is not a population, so the sentence carrying
+the actual joke is untouched by a number change and needs a different move.
+
 ## 4 · `ch5:516` — the named part, and a closing line with teeth
 
 > I have a part of me I call Mr. Inadequate. He has been showing up since I was
@@ -70,6 +100,12 @@ its comparison set would show that anything was lost.
 without softening. *Laundered into a work order* is the register's high-water
 mark for a verb.
 
+**Delivers via:** a named part. *The Fixer is happy to take him* — a licensed
+interior agent with its mechanism in canon, not an abstraction borrowing a mind.
+**This anchor is the model for anchor 3.** Both mock a process; this one seats
+the mockery on something that can hold the verb, and it is the better joke for
+it.
+
 ## 5 · `ch8:342` — the landing line that reverses
 
 > The triumph is going down and coming back without feeling diminished by the
@@ -77,6 +113,35 @@ mark for a verb.
 
 **Protects:** a seven-word sentence that inverts what the reader had assumed for
 a whole section. Compression as an argument.
+
+**Delivers via:** no agent claimed. *The view* and *the triumph* are named
+without being asked to act. Compression works here because nothing in the
+sentence has to be traced.
+
+---
+
+## Counter-anchor · `ch7:138` — the passage that passes every check and still fails
+
+**Added 2026-08-02.** The set's own logic runs both ways: an anchor set with no
+comedy in it lets the Guardian approve a book that has stopped being funny, and
+an anchor set with no failure in it lets the Guardian approve prose that has
+stopped being **traceable**. This is the negative space.
+
+> …offered as information, once, to **a field that is then free to answer**.
+
+*(As it stood before 2026-08-02. Now: "to the people who are then free to answer.")*
+
+**Fails on:** who holds the verb. Specific, rhythmic, authoritative, warm,
+naturally-syntaxed — it scores well on all five of the Guardian's original
+criteria, and it is Chapter 7 defining its own key term in a sentence where the
+field answers. It passed every instrument and every gate in this project until
+the agency audit read it by hand.
+
+**Why it is here:** because nothing else in the comparison set shows the
+Guardian what this failure looks like, and this failure is invisible to rhythm.
+Three of the ten known breaks in the village repair are syllable-neutral. **The
+read-aloud pass cannot catch them.** An anchor set that only demonstrates
+liveness will keep approving untraceable prose forever.
 
 ---
 
@@ -94,8 +159,8 @@ selection were both sincere confessions without a turn.
 ## How the Guardian uses it
 
 For each original/revision pair, rule **ACCEPT · RESTORE ORIGINAL · REVISE
-MINIMALLY**, and assess specificity, rhythm, authority, emotional temperature and
-natural syntax in one sentence. Reject anything generic, over-smoothed, verbose,
+MINIMALLY**, and assess specificity, rhythm, authority, emotional temperature,
+natural syntax, **and who holds the verb** in one sentence. Reject anything generic, over-smoothed, verbose,
 corporate, falsely certain, or **less alive than the original**.
 
 The gate, `prose_diet.py` and `/no-ai-slop` do not do this job. They catch banned
