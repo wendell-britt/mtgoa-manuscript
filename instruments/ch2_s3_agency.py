@@ -57,15 +57,15 @@ E.append((
     "That loop is the edge of the Forest.",
 
     "Trying to seem right costs energy. Trying to seem good costs more. Run both at once "
-    "and most of the attention goes to how you are landing. The situation itself gets "
+    "and most of the attention goes to how you are landing. Whoever you came to help gets "
     "what is left.\n"
     "\n"
-    "Then everybody in the situation registers first as somebody who might be judging you, "
-    "and not as somebody with a need you could meet. The openings sit in front of you and "
-    "do not read as openings.\n"
+    "Whatever the situation, part of you stays braced for the judgment. That vigilance "
+    "costs you presence, and if you cannot be present with them you cannot ally with "
+    "them.\n"
     "\n"
-    "That gap, between what the situation is offering and what you can see while you are "
-    "managing how you look, is the edge of the Forest."))
+    "That gap, between the people in front of you and how much of you is there to meet "
+    "them, is the edge of the Forest."))
 
 # E2 — a default nobody installs.
 E.append((

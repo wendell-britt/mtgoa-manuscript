@@ -135,11 +135,11 @@ For the full game taxonomy and mechanics, see Chapter 1. This chapter uses that 
 
 The Forest is a place you may not realize you've been circling.
 
-Trying to seem right costs energy. Trying to seem good costs more. Run both at once and most of the attention goes to how you are landing. The situation itself gets what is left.
+Trying to seem right costs energy. Trying to seem good costs more. Run both at once and most of the attention goes to how you are landing. Whoever you came to help gets what is left.
 
-Then everybody in the situation registers first as somebody who might be judging you, and not as somebody with a need you could meet. The openings sit in front of you and do not read as openings.
+Whatever the situation, part of you stays braced for the judgment. That vigilance costs you presence, and if you cannot be present with them you cannot ally with them.
 
-That gap, between what the situation is offering and what you can see while you are managing how you look, is the edge of the Forest.
+That gap, between the people in front of you and how much of you is there to meet them, is the edge of the Forest.
 
 Maybe you did everything the work asked. Showed up. Listened. Went to the training and listened there too. Read the book, adjusted the language, listened harder after that. Asked better questions. Stopped centering yourself, or tried to. Checked the assumptions. Sat with the discomfort. Maybe, somewhere in all of it, you started holding still by default.
 
