@@ -4,9 +4,10 @@
 # Lives in instruments/ rather than the spec's tools/ because this repo has no
 # tools/ directory; instruments/ is where every measurement lives.
 #
-# STATUS: W-1 and W-2 are UNRULED. Per Wendell's 2026-08-02 decision, the scan
-# runs first and the rulings land on evidence. Sites touching an unruled
-# question are tagged, not resolved. See `open_rulings` below.
+# STATUS 2026-08-02: W-1 and W-2 are RULED and CLOSED. W-3 and W-4 remain open.
+# Wendell's method was to scan first and rule on evidence, and it paid: both
+# rulings came out narrower than the spec proposed, and W-2's proposal turned
+# out to be aimed at the wrong pronoun. See `open_rulings` below.
 #
 # C1 — The Traceability Rule: any entity may take an agentive verb if and only
 # if its mechanism of action is on the page or in canon. The defect is not
@@ -111,15 +112,35 @@ grades:
   - id: 3
     name: Living currents
     entities: [Fire, Water, Metal, Wood, Earth, the five channels, fear, anger,
-               grief, joy, the channel, the current]
+               grief, joy, the channel, the current,
+               # Added 2026-08-02: both are named channels the book uses
+               # constantly and neither was in the list, so the first W-1 scan
+               # under-counted until they went in.
+               sadness, neutrality, the feeling, the charge]
     verb_classes: [directional, perception]
-    verb_classes_pending: [intention]      # W-1
+    verb_classes_partial:
+      # W-1 RULED by Wendell, 2026-08-02: license `want`, not the class.
+      intention: [want, seek, aim]
     trace: "current model, taught in ch3"
     constraints: >
       Full license activates once ch3 has taught the model. Pre-ch3 usage is
       light. The liturgical register ("Fear shows you what matters. Anger
       points to boundaries.") is this license at full power and is PROTECTED —
-      it must never be flagged. Intention verbs pend W-1.
+      it must never be flagged.
+
+      W-1 ruling: `want` is legal because the current model defines each
+      channel as a directed movement, and `wants` is the natural English word
+      for a vector with an object — it names where the current is going, not
+      what it thinks. `seek` and `aim` ride along as pure vector cousins.
+      EVERY OTHER intention verb stays illegal: tries, decides, refuses,
+      promises, convinces, means-to. Those ascribe deliberation, and a channel
+      that deliberates is a channel with a mind.
+
+      Note on verb SENSE, which cost the first two scans their accuracy:
+      `mean` in the semantic sense ("fear meant something" = signified) is not
+      an intention verb at all, and `show` in the intransitive sense ("the only
+      place the pattern shows" = is visible) is not a perception verb. Check
+      the sense before the lemma.
 
   - id: 4
     name: Machines
@@ -350,22 +371,41 @@ tiers:
 # ---------------------------------------------------------------- open rulings
 open_rulings:
   W-1:
+    status_final: RULED 2026-08-02 — license `want` only, not the class
     question: "Do the five channels get intention verbs?"
     proposal: >
       `wants` is legal for channels because the current model defines each
       channel as a directed movement, so "wants" describes vector, not
       psychology.
-    status: UNRULED
-    handling: "Tag sites W-1-PENDING. Do not resolve. Do not fix."
+    status: RULED
+    ruling: >
+      License `want` (plus `seek`, `aim`). All other intention verbs stay
+      illegal. 7 sites found: 3 stand under the license, 3 cleared on verb
+      sense (`meant` = signified), 2 converted. The liturgical register never
+      once reaches for an intention verb across its 15-18 instances, so the
+      signature device was never at stake either way.
+    handling: "CLOSED. Converted in instruments/agency_w1.py."
     propagates_to: "canon EA docs"
   W-2:
+    status_final: RULED 2026-08-02 — narrow license, navigation only
     question: >
       Does the book/chapter get a minimal discourse license (covers, returns
       to, asks) as standard authorial metonymy, or does everything convert to
       the author's chair?
     proposal: "Convert to `I` per A0; the author's chair is the book's authority engine."
-    status: UNRULED
-    handling: "Tag sites W-2-PENDING. Do not resolve. Do not fix."
+    status: RULED
+    ruling: >
+      Narrow license. The book and chapter may take mechanical and directional
+      verbs for structural navigation (covers, returns to, points to, put,
+      handed, left). They may NOT take perception, intention, speech or
+      social-causal verbs (asks, teaches, needs, wants, names, proposes, says).
+      The conversion target is not automatic: -> `you` where the sentence is
+      about what the reader gained, -> `I` where it is about a choice the
+      author made. 22 sites, 11 to `you`, 8 to `I`, 1 re-verbed as navigation.
+      The proposal to send everything to `I` was wrong for the largest group:
+      "This book has been teaching you" makes the book the agent and the reader
+      the seat, when the true subject is the reader.
+    handling: "CLOSED. Converted in instruments/agency_w2.py and agency_w2b.py."
   W-3:
     question: "Print scope severity cutoff."
     proposal: >

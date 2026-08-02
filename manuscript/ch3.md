@@ -131,7 +131,7 @@ Here's what happened after the Shaman left: the villagers didn't stop feeling.
 
 It just stopped *knowing what to do with feelings.*
 
-The villagers still experienced fear. Fear of things going wrong. Fear of not being good enough. Fear of getting blamed if something in the allyship went sideways. Without the Shaman to say "fear is your compass, it's showing you where the real risk lives," fear became noise. A thing to be managed, suppressed, medicated away. They learned to not-feel the fear, which meant they also missed the intelligence fear kept trying to deliver. They became brittle. Reactive. Defended.
+The villagers still experienced fear. Fear of things going wrong. Fear of not being good enough. Fear of getting blamed if something in the allyship went sideways. Without the Shaman to say "fear is your compass, it's showing you where the real risk lives," fear became noise. A thing to be managed, suppressed, medicated away. They learned to not-feel the fear, which meant they also missed the intelligence the fear was carrying. They became brittle. Reactive. Defended.
 
 The villagers still experienced anger. Righteous anger at systems that needed to change, anger at injustice, anger at the slowness of change. Without the Shaman to say "anger is a boundary signal, it's telling you what matters," anger became dangerous. Something to be careful with. They learned to redirect anger *outward* at the systems, the bad people, the ones who weren't as woke. They forgot that anger could also point inward, showing you where your own boundaries got crossed, what you actually cared about beneath the performance.
 
@@ -432,7 +432,7 @@ These five channels did not start with me. Metal, Water, Wood, Fire and Earth co
 
 I am naming this in the chapter rather than in a footnote because Chapter 1 put my own fluency on the table as a thing that gets me through doors and keeps other people outside them, and running a borrowed vocabulary past you unmarked is the same move with the credit taken off. The original goes far deeper than my use of it and repays reading on its own terms; the back of the book points you to where to start.
 
-Every feeling you experience falls into one of five channels. Understanding which channel you're in helps you know what the feeling means to teach, and what move to make next.
+Every feeling you experience falls into one of five channels. Understanding which channel you're in helps you know what the feeling has to teach, and what move to make next.
 
 #### The 5 Channels and Their Lessons
 
