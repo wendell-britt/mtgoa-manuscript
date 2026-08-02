@@ -125,6 +125,27 @@ def book():
         # marginalia/review.py exits 1 on a BLOCK finding, which is a candidate to
         # adjudicate rather than a build failure, so it reports rather than fails.
         ok = (want in out) if want else (code == 0 or "review.py" in cmd[0])
+        # DIET IS A SPECIAL CASE, and it was silently broken until 2026-08-02.
+        #
+        # prose_diet.py exits 0 whatever it finds — heaviness is a candidate, not a build
+        # failure — so this loop marked it `ok`, and `tail` printed **only the last line of
+        # the heavy block** as if that line were the summary. On the day this was found the
+        # book had three heavy counters and the step reported one of them, over the word ok.
+        #
+        # Exactly the failure the comment forty lines up describes, in the other half of the
+        # same file: `draft()` was taught to parse the heavy block and `book()` never was.
+        # A step that cannot fail reads the same as a step that passed.
+        if "diet" in label:
+            heavy = ([l.strip() for l in out.split("\nheavy:")[1].split("\n") if l.strip()]
+                     if "\nheavy:" in out else [])
+            ok = not heavy
+            bad += len(heavy)
+            print("  %s %-4s %s" % (label, "ok" if ok else "LOOK",
+                                    "%d heavy" % len(heavy) if heavy else "all counters "
+                                    "within baseline"))
+            for l in heavy:
+                print("               HEAVY %s" % l)
+            continue
         bad += 0 if ok else 1
         print("  %s %-4s %s" % (label, "ok" if ok else "LOOK", tail))
     print("\n  7 slop       run /no-ai-slop on anything written today")
