@@ -65,13 +65,13 @@
 ## Section 1: The Exile
 ### *Why the Regent Left the Village (And What the Village Lost)*
 
-For a time the village tried to run on fire alone.
+For a time the villagers tried to run on fire alone.
 
-The Challenger had drawn lines. The Challenger had said no. The Challenger had refused, demanded, interrupted, and named the cost of crossing the village's boundaries. All of that worked while the fire was lit. The Challenger named problems that had festered for years, and stopped violations the village had lived with for as long. The village felt, for the first time in a long time, *clear about what it stood for.*
+The Challenger had drawn lines. The Challenger had said no. The Challenger had refused, demanded, interrupted, and named the cost of crossing the village's boundaries. All of that worked while the fire was lit. The Challenger named problems that had festered for years, and stopped violations the village had lived with for as long. The villagers felt, for the first time in a long time, *clear about what they stood for.*
 
 Fire burns out. When the fire burned out, nothing held underneath.
 
-The Challenger didn't stay. The Challenger didn't need to: the lines were drawn, the costs were named, the boundaries were set. After the Challenger left, the village realized it had a different problem: nobody knew how to *hold* the lines across time. The Challenger had been the one to draw them, but the Challenger had no interest in guarding them. The Challenger said "this is the line" and then moved on to the next fight. That left the village with boundaries that existed in the moment but evaporated by next week.
+The Challenger didn't stay. The Challenger didn't need to: the lines were drawn, the costs were named, the boundaries were set. After the Challenger left, the villagers realized they had a different problem: nobody knew how to *hold* the lines across time. The Challenger had been the one to draw them, but the Challenger had no interest in guarding them. The Challenger said "this is the line" and then moved on to the next fight. That left the village with boundaries that existed in the moment but evaporated by next week.
 
 The Regent showed up at exactly that moment.
 
@@ -79,7 +79,7 @@ The Regent didn't arrive with fire. The Regent arrived with something slower and
 
 For a generation, this worked beautifully.
 
-The village loved the Regent. The Regent gave them permanence. The Regent gave them identity: "this is who we are, this is what we stand for, this is how we do it." The Regent built the first inheritance: the stories that new members learned when they arrived, the language that everyone used to describe their shared work, the rituals that made the abstract feel real. The Regent took the Challenger's fire and turned it into something that could last.
+The villagers loved the Regent. The Regent gave them permanence. The Regent gave them identity: "this is who we are, this is what we stand for, this is how we do it." The Regent built the first inheritance: the stories that new members learned when they arrived, the language that everyone used to describe their shared work, the rituals that made the abstract feel real. The Regent took the Challenger's fire and turned it into something that could last.
 
 The Regent made a mistake that cost everything.
 
@@ -97,11 +97,11 @@ The Architect said: "You're building a city inside a graveyard. The people are g
 
 The Regent didn't take this well.
 
-The Regent said: "If you can see that the people are gone, you don't love the city." The Architect said: "If you can't see it, you're not helping them." The argument escalated. The village took sides. When the dust settled, the Regent was gone, not exiled exactly, but *retired.* The village kept the walls. The village kept the traditions. The village kept the roles. What the village lost was the person who knew how to tend them, who could tell the difference between a tradition that still served and a tradition that had become a comfortable cage.
+The Regent said: "If you can see that the people are gone, you don't love the city." The Architect said: "If you can't see it, you're not helping them." The argument escalated. The villagers took sides. When the dust settled, the Regent was gone, not exiled exactly, but *retired.* The villagers kept the walls. The villagers kept the traditions. The villagers kept the roles. What the villagers lost was the person who knew how to tend them, who could tell the difference between a tradition that still served and a tradition that had become a comfortable cage.
 
-The Regent left because the village no longer knew the difference between protecting and imprisoning.
+The Regent left because the villagers no longer knew the difference between protecting and imprisoning.
 
-The village never meant for that to happen.
+The villagers never meant for that to happen.
 
 ---
 
@@ -150,15 +150,15 @@ After the Regent left, the village didn't stop building.
 
 It just stopped knowing *why.*
 
-The village kept the walls. It kept the ceremonies. It kept the roles and the traditions and the weekly councils and the yearly renewals and all the structures the Regent had built. Without the Regent there to tend them (to ask, every time: *does this still serve the people inside it?*) the structures started to calcify.
+The villagers kept the walls. They kept the ceremonies. They kept the roles and the traditions and the weekly councils and the yearly renewals and all the structures the Regent had built. Without the Regent there to tend them (to ask, every time: *does this still serve the people inside it?*) the structures started to calcify.
 
-The ceremonies became empty. The council meetings ran their agenda and nobody knew why they were actually meeting. The roles got filled by people going through motions, saying words they didn't believe, performing loyalty they didn't feel. The traditions, the ones that used to carry the village's actual values, became cargo cults. The village did the thing the Regent taught them to do, but the meaning underneath it had gone.
+The ceremonies became empty. The council meetings ran their agenda and nobody knew why they were actually meeting. The roles got filled by people going through motions, saying words they didn't believe, performing loyalty they didn't feel. The traditions, the ones that used to carry the village's actual values, became cargo cults. The villagers did the thing the Regent taught them to do, but the meaning underneath it had gone.
 
-The village didn't realize this was happening. The village thought it was *being faithful.* The Regent had said: *guard the tradition.* So the village guarded it. They guarded it hard. They held the line on how things were done. They enforced the roles. They kept the walls high. They said: *this is how we've always done it* and meant it as a defense, as if "how we've always done it" was the same thing as "what actually works."
+The villagers didn't realize this was happening. The villagers thought they were *being faithful.* The Regent had said: *guard the tradition.* So the villagers guarded it. They guarded it hard. They held the line on how things were done. They enforced the roles. They kept the walls high. They said: *this is how we've always done it* and meant it as a defense, as if "how we've always done it" was the same thing as "what actually works."
 
 It wasn't.
 
-The village developed a specific, recognizable distortion: **obedience without understanding.** The village learned to follow the Regent's structures without knowing *why* the structures existed. They kept the form and lost the function. They said the words and missed the meaning. They performed the role and forgot the person.
+The villagers developed a specific, recognizable distortion: **obedience without understanding.** The villagers learned to follow the Regent's structures without knowing *why* the structures existed. They kept the form and lost the function. They said the words and missed the meaning. They performed the role and forgot the person.
 
 This is the Regent in distortion: the cage built out of love. The tradition that stops serving and starts controlling. The role that consumes the human instead of being carried by them.
 
@@ -166,7 +166,7 @@ This distortion resists fixing for one reason: the village truly believed it was
 
 It doesn't. Meaning doesn't survive in an empty structure. You can't will meaning back into a ceremony that has become a habit. You can't resurrect a role that has been filled by a ghost for too long.
 
-The village does this with the Regent's gift once the Regent has gone: it turns protection into imprisonment. It turns inheritance into cargo cult. It turns the beautiful complexity of a living tradition into the comfortable mechanical repetition of its form, and then calls that faithfulness.
+The villagers do this with the Regent's gift once the Regent has gone: they turn protection into imprisonment. They turn inheritance into cargo cult. They turn the beautiful complexity of a living tradition into the comfortable mechanical repetition of its form, and then call that faithfulness.
 
 The village, without the Regent, becomes a museum. Beautiful and empty and slowly falling apart.
 
@@ -302,7 +302,7 @@ I stayed. I helped pick up the pieces. The house and the bench and watching thin
 
 I've never figured out how to offer the floor before the crisis. The tradition only becomes legible to people who've already lost something. By then, the invitation to receive it has a very different shape than I wanted it to have.
 
-The village never taught you this question: what did you inherit?
+The villagers never taught you this question: what did you inherit?
 
 I'm talking about something more specific than genetics and more specific than culture in the abstract: the bundle of practices, wounds, loyalties, and assumptions that arrived in your life before you had any say in the matter, and that you've been carrying ever since, sometimes knowing why, often not.
 
@@ -310,7 +310,7 @@ Every person alive is an inheritor. The Regent's practice works consciously with
 
 The Shaman works in emotion, the Challenger in will, the Architect in logic. The native material at the Regent's altitude is **loyalty**, the felt sense of belonging to something larger than yourself, and the weight that comes with that belonging. What you owe. What you carry. What you pass on.
 
-Loyalty is deeply unfashionable in progressive circles. It sounds like obedience. It sounds like the thing that keeps people inside harmful institutions. The village conflated loyalty with compliance, and then wondered why the institutions it served became so brittle.
+Loyalty is deeply unfashionable in progressive circles. It sounds like obedience. It sounds like the thing that keeps people inside harmful institutions. The villagers conflated loyalty with compliance, and then wondered why the institutions they served became so brittle.
 
 Real loyalty is chosen. Real loyalty sees the whole inheritance (the gift and the damage) and decides, with full knowledge, to carry it forward. Real loyalty can be broken when the tradition breaks you. Real loyalty can be reformed when the tradition no longer serves what it originally served. That's the most loyal thing there is, and it will read as disloyalty.
 
@@ -708,13 +708,13 @@ The tell that a quest is alive is not enthusiasm. It is anticipation with some d
 
 The Regent's contribution to the allyship game is this: **allyship requires something worth belonging to, and the willingness to carry it forward even when it is broken.**
 
-The Regent did not leave the village because the village was wrong to need structure. The Regent left because the village could not tell the difference between loyalty and obedience, between a tradition worth protecting and a cage disguised as belonging. The village needed someone who could hold both, the love of what was handed down and the willingness to reform it.
+The Regent did not leave the village because the villagers were wrong to need structure. The Regent left because the villagers could not tell the difference between loyalty and obedience, between a tradition worth protecting and a cage disguised as belonging. The villagers needed someone who could hold both, the love of what was handed down and the willingness to reform it.
 
 The Architect becomes necessary here: the Regent can carry the tradition across time. The Regent can steward and reform and pass it on. The Regent cannot *design* what the tradition should become. The Regent inherits and tends. The Architect envisions and builds.
 
 Every tradition, at some point, needs more than stewardship. It needs a redesign. A new structure. A system that makes the right thing the easy thing for the people inside it. That is the Architect's work.
 
-The village exiled the Architect for a specific reason: it mistook *seeing the system* for *not loving the people inside it.* If you can analyze it, the village said, you don't really love it.
+The villagers exiled the Architect for a specific reason: they mistook *seeing the system* for *not loving the people inside it.* If you can analyze it, the villagers said, you don't really love it.
 
 The village was wrong. The Architect's love is structural. The Architect builds something better. The Architect has the Regent's stewardship in their blood, because the Architect knows that every system is also an inheritance, and every redesign is also a hand-off.
 

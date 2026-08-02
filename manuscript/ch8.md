@@ -74,7 +74,7 @@ Once, the Sage lived inside the village's conversations.
 
 At the same level as everyone else in them. The Sage could sit at a table and see all the games at once: could feel the Challenger's charge in the air and know exactly which line someone had crossed, could watch the harmony forming and see the strategy underneath it, could notice when a meeting shifted from one game to another before anyone else had caught it.
 
-The village noticed this. At first it seemed useful. The Sage could name which game the meeting was really playing. The Sage could say: *we're treating this like a problem to be seen whole, and it's actually a harmony problem (everyone needs to feel heard first), that's why no amount of vision is fixing it.* The Sage could look at the conflict and say: *this is a boundary issue dressed up in strategy language.* The village would pause. Sometimes that pause did the work.
+The villagers noticed this. At first it seemed useful. The Sage could name which game the meeting was really playing. The Sage could say: *we're treating this like a problem to be seen whole, and it's actually a harmony problem (everyone needs to feel heard first), that's why no amount of vision is fixing it.* The Sage could look at the conflict and say: *this is a boundary issue dressed up in strategy language.* The village would pause. Sometimes that pause did the work.
 
 Then something shifted.
 
@@ -82,27 +82,27 @@ It wasn't sudden. It came on gradually, the way a table goes still when someone 
 
 The Sage said: *I see this and I'm staying.*
 
-The village heard: *I see this and I'm not on your side.*
+What landed instead was: *I see this and I'm not on your side.*
 
-That's not what the Sage meant. The village had gotten used to wisdom as a form of leaving. The guru on the mountain. The teacher who has risen above it all. The sage who sees the game and therefore must be outside the game. When the Sage refused to leave, when the Sage said *I see all of it and I'm still here, still setting the table, still in relationship*, the village didn't know what to do with that. It didn't match the story they'd heard about what seeing meant.
+That's not what the Sage meant. The villagers had gotten used to wisdom as a form of leaving. The guru on the mountain. The teacher who has risen above it all. The sage who sees the game and therefore must be outside the game. When the Sage refused to leave, when the Sage said *I see all of it and I'm still here, still setting the table, still in relationship*, the village didn't know what to do with that. It didn't match the story they'd heard about what seeing meant.
 
-The village had made a rule: if you can see the pattern of the game, you must stop playing. Seeing began the leaving. Wisdom ruled out commitment. The person who saw everything had decided not to belong.
+They had made a rule: if you can see the pattern of the game, you must stop playing. Seeing began the leaving. Wisdom ruled out commitment. The person who saw everything had decided not to belong.
 
 The Sage had not decided that. The Sage had decided something different: *I see the pattern, and I'm choosing to stay inside it, because the staying is the work.*
 
-The Sage's oldest wound: the capacity to see all the games without leaving any of them, and the village reading that as contradiction. The gift mistaken for its opposite, every time.
+The Sage's oldest wound: the capacity to see all the games without leaving any of them, and everyone reading that as contradiction. The gift mistaken for its opposite, every time.
 
-The village did not know this: the Sage contradicted nothing. The Sage had heard a different question. The village asked: *are you in the game or are you wise?* The Sage answered: *those are not different questions. The wise thing to do is to be inside the game, seeing clearly, choosing deliberately, not mistaking your game for the only game there is.*
+The villagers did not know this: the Sage contradicted nothing. The Sage had heard a different question. They asked: *are you in the game or are you wise?* The Sage answered: *those are not different questions. The wise thing to do is to be inside the game, seeing clearly, choosing deliberately, not mistaking your game for the only game there is.*
 
-The village wanted wisdom to look like departure. The Sage kept showing up like it was simple.
+Everyone wanted wisdom to look like departure. The Sage kept showing up like it was simple.
 
-One day, the village made its preference official. The Sage who sees everything and commits to nothing. The Sage who has risen above the fray. The sage-at-a-distance, who can tell you which game you're playing and would never lower themselves to play it. The village kept the caricature. The actual Sage, the one who saw the whole thing and still set the table, stopped speaking. Not banned. Just no longer heard. When you can name the game everyone plays and they keep treating you like a threat for knowing it, you learn to hold your tongue at tables where you'd have something to say.
+One day, the people there made their preference official. The Sage who sees everything and commits to nothing. The Sage who has risen above the fray. The sage-at-a-distance, who can tell you which game you're playing and would never lower themselves to play it. They kept the caricature. The actual Sage, the one who saw the whole thing and still set the table, stopped speaking. Not banned. Just no longer heard. When you can name the game everyone plays and they keep treating you like a threat for knowing it, you learn to hold your tongue at tables where you'd have something to say.
 
 The choice came down to one thing: keep showing up and getting called contradictory, or stop saying what you see and remember who you were.
 
 The Sage stopped saying it.
 
-The village never meant for that to happen. It never said *go.* It just lost the ability to hear what the Sage actually said. Which, it turns out, amounts to the same thing as exile.
+No one meant for that to happen. Nobody said *go.* It just lost the ability to hear what the Sage actually said. Which, it turns out, amounts to the same thing as exile.
 
 ---
 
@@ -149,15 +149,15 @@ Keep the terms apart so they don't blur together. Shadow is the move that stays 
 <!-- /MARGINALIA -->
 
 
-After the Sage stopped naming things, the village kept playing games.
+After the Sage stopped naming things, the villagers kept playing games.
 
-It stopped knowing which ones it was playing.
+They stopped knowing which ones they were playing.
 
-Every conflict became existential. A boundary dispute in a meeting looked exactly like an identity crisis. A systems problem looked exactly like a values problem. Nobody could step back and say: *we're treating this like a harmony problem and it's actually a boundary problem: that's why no amount of vision is fixing it.* Nobody could name which game the village had got stuck in, and every game began to feel like every other game.
+Every conflict became existential. A boundary dispute in a meeting looked exactly like an identity crisis. A systems problem looked exactly like a values problem. Nobody could step back and say: *we're treating this like a harmony problem and it's actually a boundary problem: that's why no amount of vision is fixing it.* Nobody could name which game the villagers had all got stuck in together, and every game began to feel like every other game.
 
-The village mistook motion for progress. It treated arguments as evidence of commitment rather than evidence of stuckness. The more heated the debate, the more certain everyone became that they were doing the work, when actually they were playing the same game at each other without knowing it.
+Everyone mistook motion for progress. They treated arguments as evidence of commitment rather than evidence of stuckness. The more heated the debate, the more certain everyone became that they were doing the work, when actually they were playing the same game at each other without knowing it.
 
-Without the Sage, the village plays every game at once and loses track of which one it occupies.
+Without the Sage, the villagers play every game at once and lose track of which one they occupy.
 
 A Sage in distortion emerged to fill the gap. Not the real Sage, the village's version. The one who sees everything and commits to nothing. Who can name every game and won't choose one. Who has enough perspective to explain why none of it matters and not enough commitment to be useful. Who mistakes seeing for wisdom, and wisdom for the ability to opt out.
 
@@ -522,11 +522,11 @@ You already know who this is. Someone who acted at the altitude they had rather 
 
 The walk back is the hardest part, and you can drill it like anything else.
 
-Not because the terrain is hard. Because the village doesn't always recognize you when you return. You've been up. You've seen from a different vantage, not better, different. The village, seeing from where it stands, may not manage to see what you saw. May not want to. May actively resist, because seeing it and saying it out loud means something has to change, and change is expensive.
+Not because the terrain is hard. Because the villagers don't always recognize you when you return. You've been up. You've seen from a different vantage, not better, different. They, seeing from where they stand, may not manage to see what you saw. May not want to. May actively resist, because seeing it and saying it out loud means something has to change, and change is expensive.
 
 Most people get stuck at exactly this point. They go up. They see. They stay up there, because coming down means sitting with people who aren't where you are, who will call you condescending when you're honest and arrogant when you're precise, who will tell you *you're too much in your head* at the exact moment you are more in your body than you have ever been. The temptation to stay above is real. *They wouldn't understand anyway.* That's the distortion talking. The real Sage comes back.
 
-Panoramic vision is lonely, and nobody says so. Not because you can't be with people. Because you can see the game they're playing and they can't, and they don't always want it named. The Sage who names it gets called difficult. The Sage who doesn't gets called wise. The village prefers the second one. The real Sage refuses that bargain.
+Panoramic vision is lonely, and nobody says so. Not because you can't be with people. Because you can see the game they're playing and they can't, and they don't always want it named. The Sage who names it gets called difficult. The Sage who doesn't gets called wise. The villagers prefer the second one. The real Sage refuses that bargain.
 
 Egan, in *The Skilled Helper*, writes about the helper's presence as the primary instrument of change. The technique ranks below it. The framework ranks below it. The work gets done by the capacity to be fully present with the client: without agenda, without rescue, without needing them to be anything other than what they are. That's what the return practices: the presence of the person who climbed the mountain, came back down, and can now say: *I know what it's like up there. I also know what it's like here. I'm staying here with you.*
 
@@ -538,7 +538,7 @@ Return has four moves inside it. Run them in order the first several times. Afte
 
 **3. Stay embodied, especially when the view is clear.** This move separates the Sage from the distortion. The distortion has an insight and withdraws. The real Sage has the insight and stays in the body: in the conversation, in the mess, in the part that isn't resolved and isn't elegant yet. Keep breathing. Keep the ground under your feet. The Sage who has gone up and come back is worth more than the Sage who stays above, and only when the one who returns arrives fully present.
 
-**4. Let them not understand, and let that be okay.** The village doesn't have to understand what you saw. The gift isn't in their understanding, it's in your offering. You saw something. You named it. You came back. The rest is their work. Nothing at this altitude asks for a harder surrender, because the distortion can't stand the gap between what it sees and what the village receives. The real Sage holds the gap without flinching: *I told you what I see. I don't need you to see it the same way. I need you to know it's available if you want it.* Then the Sage stays. Hope that they'll get there eventually is a different posture. Patience as a tactic is a different posture. That is presence, because staying does the work.
+**4. Let them not understand, and let that be okay.** They don't have to understand what you saw. The gift isn't in their understanding, it's in your offering. You saw something. You named it. You came back. The rest is their work. Nothing at this altitude asks for a harder surrender, because the distortion can't stand the gap between what it sees and what the villagers receive. The real Sage holds the gap without flinching: *I told you what I see. I don't need you to see it the same way. I need you to know it's available if you want it.* Then the Sage stays. Hope that they'll get there eventually is a different posture. Patience as a tactic is a different posture. That is presence, because staying does the work.
 
 ---
 
@@ -825,7 +825,7 @@ The Sage's gift is not wisdom. Wisdom is a side effect. The gift is perspective 
 
 This chapter came to dismantle one belief: that allyship is a matter of having the right framework. It carries load for anyone who came into this work through reading, so the replacement deserves saying plainly. Not *I have the right model now.* Not *I need one more.* Something a person can actually stand on: **I can act from the map I already have, and be developed by the people I'm acting with.** Every move in this chapter is an instrument for making that sentence true.
 
-Four things carry forward. The village needs someone who can name which game it's in, and you can be that person, not from above, from with. Seeing is not the same as opting out; the distortion confuses these and the real Sage doesn't. The hardest game to hold is the one you just left, which makes the return most of the practice rather than its epilogue. Putting a game down is not giving up; it's the most generous thing available at this altitude, for you and for whoever inherits the game.
+Four things carry forward. The villagers need someone who can name which game they're in, and you can be that person, not from above, from with. Seeing is not the same as opting out; the distortion confuses these and the real Sage doesn't. The hardest game to hold is the one you just left, which makes the return most of the practice rather than its epilogue. Putting a game down is not giving up; it's the most generous thing available at this altitude, for you and for whoever inherits the game.
 
 You have now been all six Faces. Shaman. Challenger. Regent. Architect. Diplomat. Sage. Each one is a tool. Each one is a gift. Each one, run wrong, becomes a shadow. You know how to tell the difference now, and you know how to come back.
 
