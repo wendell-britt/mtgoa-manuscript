@@ -22,15 +22,15 @@
 
 Nobody exiled the Player.
 
-The Player left on purpose. The village had made no mistake, and nobody had rejected them. They left because they had learned everything the village could teach them and they wanted to build something specific that required going further out than the village extended.
+The Player left on purpose. The villagers had made no mistake, and nobody had rejected them. They left because they had learned everything the villagers could teach them and they wanted to build something specific that required going further out than the village extended.
 
 The Player had been through all six Faces. Had been the Shaman who names what's true. Had been the Challenger who draws the line. Had been the Regent who builds what lasts. Had been the Architect who designs for the next person. Had been the Diplomat who holds the field across difference. Had been the Sage who sees the whole game and plays their part.
 
-When the village asked *what now?* the Player said: *I'm going to build something.*
+When villagers asked *what now?* the Player said: *I'm going to build something.*
 
-A reaction would have pointed back at the village. So would a protest, and so would a critique of what the village kept getting wrong. This pointed forward. The Player had learned all the Faces. The Player had run the WAVE. The Player knew how to feel, how to draw lines, how to build, how to design, how to hold the field, how to see. Now the Player would make something new.
+A reaction would have pointed back at the village. So would a protest, and so would a critique of what the villagers kept getting wrong. This pointed forward. The Player had learned all the Faces. The Player had run the WAVE. The Player knew how to feel, how to draw lines, how to build, how to design, how to hold the field, how to see. Now the Player would make something new.
 
-The village was glad to see it. The village needed someone to go first. To show that the Faces weren't just a map for understanding: they were a toolkit for building. That after you learned to play all six, you could design your own game.
+The villagers were glad to see it. The villagers needed someone to go first. To show that the Faces weren't just a map for understanding: they were a toolkit for building. That after you learned to play all six, you could design your own game.
 
 The Player left carrying the whole map. With a specific destination in mind.
 
@@ -40,15 +40,15 @@ The Player left carrying the whole map. With a specific destination in mind.
 
 ### *What Emerged Without the Player's Example (And the Shadow That Follows)*
 
-The village taught that the six Faces named a destination.
+Villagers taught that the six Faces named a destination.
 
 That allyship meant becoming a perfect Shaman, or Challenger, or Regent, or Architect, or Diplomat, or Sage. A finished product. A fully-realized identity you arrived at and then maintained. The goal was to *be* one of the Faces, rather than to *use* all of them as tools for whatever the moment required.
 
 This is the distortion. It crept in slowly, the way most distortions do, not as a lie, but as an understandable mistake.
 
-The village heard the six Faces and thought: *these are the types.* The Shaman type. The Challenger type. The Regent type. The Architect type. The Diplomat type. The Sage type. Anyone who wasn't one of those, who didn't naturally feel-first, or draw-lines, or build-systems, wasn't doing it right.
+Villagers heard the six Faces and thought: *these are the types.* The Shaman type. The Challenger type. The Regent type. The Architect type. The Diplomat type. The Sage type. Anyone who wasn't one of those, who didn't naturally feel-first, or draw-lines, or build-systems, wasn't doing it right.
 
-The village forgot that the Faces were a map, not a menu. That you don't *become* one of them: you *move through* all of them, depending on what the moment requires. That the goal asks for something else: playing any game the village needs played, whatever the moment requires, rather than arriving at Sage and staying there.
+Villagers forgot that the Faces were a map, not a menu. That you don't *become* one of them: you *move through* all of them, depending on what the moment requires. That the goal asks for something else: playing any game the villagers need played, whatever the moment requires, rather than arriving at Sage and staying there.
 
 A Player in distortion emerged in its place.
 
@@ -82,7 +82,7 @@ That's a design system. You have already lived every line of that list. That is 
 
 The six Faces are your toolkit. The WAVE is your process. The practice of returning is your anchor. Now you get to design your specific practice: your own combination of all six, grounded in your specific survival, your specific superpowers, your specific village.
 
-Nobody else can design this game. Nobody else has your specific combination of gifts and gaps, your specific history, your specific people. The village needed the six Faces as a teaching instrument, and now the teaching instrument passes to you. You can use it to build whatever this book could not build. You can design the allyship practice that this book only points toward.
+Nobody else can design this game. Nobody else has your specific combination of gifts and gaps, your specific history, your specific people. The villagers needed the six Faces as a teaching instrument, and now the teaching instrument passes to you. You can use it to build whatever this book could not build. You can design the allyship practice that this book only points toward.
 
 You have been preparing for this. Not to consume the six Faces. To design your own.
 
@@ -253,7 +253,7 @@ Maybe you came believing that allyship came down to what you did. What actions y
 
 You now know it was inward.
 
-You now know that allyship begins with what you can become before you walk into the world. You now know that you cannot ally from a place you have not explored. You now know that the work happens in the Forest: finding what was abandoned, reclaiming what was lost, returning with something the village actually needs.
+You now know that allyship begins with what you can become before you walk into the world. You now know that you cannot ally from a place you have not explored. You now know that the work happens in the Forest: finding what was abandoned, reclaiming what was lost, returning with something the villagers actually need.
 
 Here's what I've noticed about my own arrival at this work: I came to it the way most people come to it. I saw something wrong and felt the discomfort of witnessing harm I couldn't fix. Then I did what the culture taught me to do: I looked outward for the solution. I learned the vocabulary. I updated my positions. I performed the correct responses. The discomfort didn't go away. It got worse. Because I kept treating symptoms with the same kind of thinking that produced them.
 
@@ -295,7 +295,7 @@ The map is honest about the terrain. It is not honest about the weather.
 
 The map shows you where the gates stand. It does not show you how long it takes to walk through them. It does not show you what it feels like the third time you arrive at the same gate and discover it was still on duty. It does not show you the morning you wake up and realize you've been walking for months and you're not done and you can't remember why you started.
 
-The map does not show you what failure looks like. Real failure: the kind where someone looks at what you built and says *this isn't for me.* The kind where you present the thing you made with love and care and the village says *we don't want this.* The kind where the mechanic you designed to solve a problem creates a different problem you didn't anticipate. The map shows the path. The map doesn't show the rain.
+The map does not show you what failure looks like. Real failure: the kind where someone looks at what you built and says *this isn't for me.* The kind where you present the thing you made with love and care and the villagers say *we don't want this.* The kind where the mechanic you designed to solve a problem creates a different problem you didn't anticipate. The map shows the path. The map doesn't show the rain.
 
 The map also doesn't show you what success looks like from the inside. The moment when a player names a feeling they've never been able to name before and you realize the game did that. The moment when the thing you built does exactly what you designed it to do and you feel nothing, because you're already thinking about the next version.
 
@@ -309,7 +309,7 @@ You know that the WAVE loops, thousands of times, and that each pass through it 
 
 ---
 
-You now know that the village needs you.
+You now know that the villagers need you.
 
 The actual you, standing where the performed you and the performed ally used to stand: the one who has done the inner work, who knows what they feel, who can draw the line, who can build, who can design, who can hold, who can see, who can come back.
 
@@ -317,7 +317,7 @@ The performed ally is easy to spot. They have the vocabulary. They have the corr
 
 The actual ally is harder to spot. They might not have all the right words. They might say the wrong thing and have to correct. They might not know the current consensus positions on every identity question. They have what the performed ally lacks: the work itself. They've done it. They've walked through their own stuff. They know the difference between feeling and acting. They know how to come back.
 
-The village needs actual allies more than it needs performed ones.
+The villagers need actual allies more than they need performed ones.
 
 ---
 
@@ -373,7 +373,7 @@ The WAVE already taught you how to do this. Wake up: notice what happened. Open 
 
 Here's what the walk will not do for you: it will not eliminate fear.
 
-You will still be afraid. You'll be afraid when you try to build something and it doesn't work. You'll be afraid when the village doesn't receive what you built the way you hoped. You'll be afraid when someone critiques the thing you made and they're right and you have to decide whether to defend it or redesign it. You'll be afraid when you realize the thing you built has a shadow you didn't anticipate, that the tool you made to help people could also help someone hurt themselves or others.
+You will still be afraid. You'll be afraid when you try to build something and it doesn't work. You'll be afraid when the villagers don't receive what you built the way you hoped. You'll be afraid when someone critiques the thing you made and they're right and you have to decide whether to defend it or redesign it. You'll be afraid when you realize the thing you built has a shadow you didn't anticipate, that the tool you made to help people could also help someone hurt themselves or others.
 
 The fear doesn't go away. The relationship to the fear changes.
 
@@ -439,7 +439,7 @@ That's all it takes. You don't have to write a book. You don't have to start a n
 
 The walk includes failure. As an actual thing that happens, rather than as a lesson about resilience.
 
-Some things you build will fail. Some will work and stall. Some will land and go nowhere. Some will meet the village and come apart on contact. You will make something and present it and find that the village wasn't ready for it, that what you built as liberation they experienced as threat. That's the Outlaw's cost, and it arrives dressed as a failure of character. The village often resists the new game until it doesn't, and the period of resistance belongs to the walk.
+Some things you build will fail. Some will work and stall. Some will land and go nowhere. Some will meet the village and come apart on contact. You will make something and present it and find that the villagers weren't ready for it, that what you built as liberation they experienced as threat. That's the Outlaw's cost, and it arrives dressed as a failure of character. The villagers often resist the new game until they don't, and the period of resistance belongs to the walk.
 
 Some failures are just failures. The design was wrong. The timing was wrong. The thing you built didn't solve the problem you thought it would solve. That's data. The Player doesn't treat failure as defeat. The Player treats failure as the WAVE: wake up to what actually happened, open up to it before you explain it, clean up what didn't work, grow up into the next version, show up.
 
@@ -453,7 +453,7 @@ That's the walk. Nobody told you it would look like this.
 
 The Player walks. The Player builds. The Player makes mistakes. The Player reviews, discerns, designs, builds, passes on. The Player loops. The Player continues.
 
-The village doesn't need your perfection. It needs your willingness to go first, not because you have all the answers, but because you have the map and you're willing to walk it and report back.
+The villagers don't need your perfection. They need your willingness to go first, not because you have all the answers, but because you have the map and you're willing to walk it and report back.
 
 The willingness to be the Player.
 
@@ -611,11 +611,11 @@ That's it. Sixty seconds. The design took two lines. The hard part is the next s
 
 The Player's gift is a path. You wanted an answer; this is better and slower.
 
-The Player shows the village what it looks like to walk all six Faces and come out the other side, not above the village, not separate from it, but further along a path the village can follow. The Player doesn't say *I've arrived.* The Player says *I'm walking. Here's what I'm finding. Here's what I'm building.*
+The Player shows the villagers what it looks like to walk all six Faces and come out the other side, not above them, not separate from them, but further along a path they can follow. The Player doesn't say *I've arrived.* The Player says *I'm walking. Here's what I'm finding. Here's what I'm building.*
 
-The Player gives the village permission. Permission to use all six Faces as tools. Permission to design their own practice. Permission to build something new. Permission to go first.
+The Player gives the villagers permission. Permission to use all six Faces as tools. Permission to design their own practice. Permission to build something new. Permission to go first.
 
-The Player shows that the six Faces were never the destination. They were the toolkit. The Player shows that mastery is not about *being* one Face, it's about *playing* all six when the moment requires it. The Player shows that the goal is not to arrive at Sage and stay there. The goal is to be able to play any game the village needs played, whatever the moment requires.
+The Player shows that the six Faces were never the destination. They were the toolkit. The Player shows that mastery is not about *being* one Face, it's about *playing* all six when the moment requires it. The Player shows that the goal is not to arrive at Sage and stay there. The goal is to be able to play any game the villagers need played, whatever the moment requires.
 
 The Player leaves behind not a method but a path. The path continues.
 
