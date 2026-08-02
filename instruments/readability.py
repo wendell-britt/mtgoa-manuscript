@@ -6,6 +6,19 @@ The readability pass — difficulty spikes, rhythm, and cohesion, against this b
     python3 instruments/readability.py -v             # every site
     python3 instruments/readability.py --write FILE   # the full report
 
+## Read `instruments/density.py` first
+
+This instrument was wrong about the thing that matters, and the correction is
+recorded in `editorial_reports/2026-08-01/HOSTILE_REVIEW_READABILITY.md`. It
+explains, correctly, that formulas cannot see cohesion — and then reported the
+formula's grade level as the headline finding anyway.
+
+The construct that predicts reading time is propositional idea density and the
+given-new contract, both in `density.py`. Measured there, the book runs 79% of
+sentence transitions opening on new information against 57% in the passages
+Wendell selected as the book at its best. The formulas below are kept because a
+publisher will ask for them. They are not the finding.
+
 ## Why this does not try to make the book easier
 
 The obvious readability pass runs a formula, finds a grade level, and simplifies
