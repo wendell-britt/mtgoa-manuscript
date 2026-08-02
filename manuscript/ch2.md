@@ -42,7 +42,7 @@ I use it every time I teach now, in dance and in writing and in this. I can walk
 
 I could not do any of that while I believed the knowledge belonged to somebody else. The capacity sat in my body the whole time. Nobody was ever going to hand me permission to use it.
 
-Everybody in this work has also been the one who could not hold it. The one who froze. Who said the thing. Who meant it and made it worse. Who came to help and left certain the problem was them.
+Anyone who's been in this work long enough has met themselves at the edge of their capacity. Froze. Said the thing. Meant it and made it worse. Came to help and left certain they were the problem.
 
 You know which time was yours. You know the feeling that came with it.
 
