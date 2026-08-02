@@ -325,7 +325,7 @@ The village needs actual allies more than it needs performed ones.
 
 The walk goes forward, at ground level, the whole way.
 
-Let me tell you honestly what the walk actually looks like, because the book would fail you if it ended with a rousing speech about your potential and left you to figure out the rest alone. I've learned this about walking with the map.
+Let me tell you honestly what the walk actually looks like, because I would be failing you if I ended this with a rousing speech about your potential and left you to figure out the rest alone. I've learned this about walking with the map.
 
 The walk begins before you're ready. That's the first thing nobody tells you. You don't finish learning the Faces and then start building. You start building while you're still confused, still triggered, still defaulting to your home game when things get hard. The map isn't complete. The WAVE isn't mastered. You don't arrive and then act, you act from somewhere on the path, and the acting belongs to the walking.
 
@@ -357,7 +357,7 @@ The ones who finished changed their relationship to the emotions that had made a
 
 The book in your hands came from the bottom of that well. The spite did not produce it. Proving I was right did not produce it. It came from the moment I connected back to myself after failing to make money or create the allies I'd wanted to create, and found that I'd learned something true about the places where my own unresolved stuff had limited my allyship.
 
-When I started writing this book, I didn't have it figured out. I had a felt sense of what was missing (a practice that actually taught the WAVE, that turned the emotional alchemy into moves you could run instead of only understand), and I had enough of the six Faces to know what I was trying to do. The book refused to come clear. The shape kept changing. I sat in front of chapters I could not write with no way to tell tired from done, and I started them again anyway. The walk never ran straight from plan to execution. It ran on iteration. Review. Discern. Design. Build. Pass On. Loop.
+When I started writing this book, I didn't have it figured out. I had a felt sense of what was missing (a practice that actually taught the WAVE, that turned the emotional alchemy into moves you could run instead of only understand), and I had enough of the six Faces to know what I was trying to do. The book would not come clear. The shape kept changing. I sat in front of chapters I could not write with no way to tell tired from done, and I started them again anyway. The walk never ran straight from plan to execution. It ran on iteration. Review. Discern. Design. Build. Pass On. Loop.
 
 That's what the walk feels like. Not ascending. Circling. Each circle goes a little deeper.
 
@@ -367,7 +367,7 @@ The iteration is the walk. Every detour that feels like a detour is another stre
 
 Every draft of this book was the walk, not a step toward it. The first draft was the walk. The third rewrite was the walk. The chapter I could not write was the walk. You will plan, then execute, then find the plan was a draft. That shape holds all the way through.
 
-The WAVE already taught you how to do this. Wake up: notice what happened. Open up: let the failure land at full strength before you start explaining it. Clean up: name what didn't work. Grow up: ask what the failure is actually telling you. Show up: do the next version. Then come back: notice what shifted. What you learned.
+The WAVE already taught you how to do this. Wake up: notice what happened. Open up: let the failure land at full strength before you start explaining it. Clean up: name what didn't work. Grow up: ask what you were wrong about. Show up: do the next version. Then come back: notice what shifted. What you learned.
 
 ---
 
@@ -381,7 +381,7 @@ Here's what I've noticed about my own fear of building: it rehearses. The fear w
 
 Rehearsing failure and doing the thing feel identical from inside your head. Only one of them produces information. The mind will run the scenario for as long as you let it. It will produce the same anxiety whether you've done nothing or whether the thing has already failed. The rehearsal feels like work. The actual thing runs simpler and scarier. Put it in front of someone and see what happens.
 
-The WAVE doesn't end when you leave the book. The WAVE runs through your actual life. Wake up: notice what's happening inside you when your mother calls, when the group chat erupts, when you read the news and feel it land. Open up: stay with it before you do anything with it. Clean up: name the channel and let it run to completion. Grow up: ask what this moment asks you to become. Show up: act from that place, not from the reactive place the old habit would have sent you to. Then come back: notice what happened, what shifted, what you learned.
+The WAVE doesn't end when you leave the book. The WAVE runs through your actual life. Wake up: notice what's happening inside you when your mother calls, when the group chat erupts, when you read the news and feel it land. Open up: stay with it before you do anything with it. Clean up: name the channel and let it run to completion. Grow up: ask who you are willing to become. Show up: act from that place, not from the reactive place the old habit would have sent you to. Then come back: notice what happened, what shifted, what you learned.
 
 The WAVE runs through your parenting. Through your partnership. Through your work. Through the group chat and the town hall and the election and the pandemic and whatever comes next. That's what it means to have the WAVE as a practice. It's how you walk through the world. The morning version trains you for the rest of the day.
 
@@ -405,7 +405,7 @@ Here's the honest page.
 
 Not everyone finishes this book knowing exactly what they're building. Some of you remain in the middle of the walk: still in the confusion, still in the iteration, still redesigning the same mechanic for the third time. Some of you don't have a Founder move yet. You came to the work, you learned the Faces, you ran the WAVE, and you're still asking: *but what is mine?*
 
-I want to name that directly, because the book would cheat you if it pretended everyone leaves Chapter 9 with a fully-formed game.
+I want to name that directly, because I would be cheating you if I pretended everyone leaves Chapter 9 with a fully-formed game.
 
 You might be a Cartographer who hasn't become a Founder yet. That's the stage you're in, and from inside it feels like failure. The Cartographer keeps mapping until the terrain reveals what needs building. You don't force the Founder move before it's ready. You keep the inventory honest. You keep noticing what gap keeps showing up. When the problem becomes specific enough, when you've mapped it enough times that you can name it in a sentence, the Founder move will become obvious.
 
@@ -637,7 +637,7 @@ So here are six moments. Read each one and write down two things before you go o
 
 **Four.** An organization you helped build twelve years ago has a founding ritual everybody used to love, and the six people who joined most recently find it alienating in a way the old guard keeps calling a misunderstanding. They want it gone by spring. Nobody currently arguing about it was in the parking lot the night it was invented. You were.
 
-**Five.** Two organizations in your coalition have stopped returning each other's calls. One did most of the work on a campaign and watched the other take the press. The other says it was offered the interview, stole nothing, and is now under attack. Both will still talk to you. Both want you to say the other one is the problem.
+**Five.** Two organizations in your coalition have stopped returning each other's calls. The organizers who did most of the work on a campaign watched the other group take the press. The other group's director says they were offered the interview, stole nothing, and are now under attack. Both sides will still talk to you. Each wants you to say the other one is the problem.
 
 **Six.** You have been making the same argument in the same meeting for two years. You have gotten better at making it. The people in it have gotten better at agreeing with you in the meeting and doing nothing afterward, often enough that you have started to hear the agreement as a form of scheduling. Your argument is correct. It has been correct the whole time.
 
