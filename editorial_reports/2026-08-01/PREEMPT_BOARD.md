@@ -8,11 +8,11 @@ docstring for the pattern and the three shapes.
 stated, granted, answered — is good nonfiction. The defect is the
 anticipation collapsed into the sentence that was meant to carry the claim.
 
-## Totals — 83 sites
+## Totals — 84 sites
 
 | Shape | sites |
 |---|---|
-| meta-narration | **69** |
+| meta-narration | **70** |
 | phantom contrast | **9** |
 | unfounded appeal | **1** |
 | stakes announcement | **2** |
@@ -23,7 +23,7 @@ anticipation collapsed into the sentence that was meant to carry the claim.
 | Component | meta-narration | phantom contrast | unfounded appeal | stakes announcement | objection staged inside the claim | total |
 |---|---|---|---|---|---|---|
 | authors_note.md | 1 | 0 | 0 | 0 | 0 | **1** |
-| ch1.md | 12 | 1 | 1 | 2 | 1 | **17** |
+| ch1.md | 13 | 1 | 1 | 2 | 1 | **18** |
 | ch2.md | 1 | 1 | 0 | 0 | 0 | **2** |
 | ch3.md | 8 | 4 | 0 | 0 | 1 | **13** |
 | ch4.md | 11 | 1 | 0 | 0 | 0 | **12** |
@@ -33,7 +33,7 @@ anticipation collapsed into the sentence that was meant to carry the claim.
 | ch8.md | 1 | 1 | 0 | 0 | 0 | **2** |
 | ch9.md | 10 | 0 | 0 | 0 | 0 | **10** |
 
-## meta-narration — 69
+## meta-narration — 70
 
 - `Here is the` · front_matter/authors_note.md:25
   > Here is the part worth sitting with. Allyship is already a game, and it is already gamified. Yu-kai Chou, who maps what actually drives people, separates the motivators t…
@@ -59,6 +59,8 @@ anticipation collapsed into the sentence that was meant to carry the claim.
   > Here is the second, and I will say it plainly, because it is the objection that makes serious people wave the whole idea away: a game is fun. If "fun" sounds too small fo…
 - `Here is what` · manuscript/ch1.md:141
   > Here is what I left out of the story I told you at the start. When I said I held myself hostage for three years, I made it sound like something that happened to me. It wa…
+- `Here they are` · manuscript/ch1.md:155
+  > Here they are, and each one pays out differently. Most frameworks teach one and treat the other two as mistakes. The move is to tell them apart, because you play each wit…
 - `Here is the` · manuscript/ch1.md:243
   > BARs came out of a fix for this. Years ago I started carrying blank poker cards, and when something hit me (the kind of hit you know you will lose by morning), I wrote it…
 - `Here's what` · manuscript/ch2.md:79
@@ -73,8 +75,6 @@ anticipation collapsed into the sentence that was meant to carry the claim.
   > The chapter has taught you to feel each channel all the way through. Here is what "all the way through" arrives at, and why it is the point.…
 - `Here is why` · manuscript/ch3.md:654
   > Here is why this daemon stands second, right behind the one that keeps you alive, in a book about allyship. Everything the first half of this chapter taught you runs on a…
-- `Here is the` · manuscript/ch3.md:656
-  > You do not fire the Controller. Fire the referee and your follow-through goes with it. You take the joystick back by handing it the right rulebook, your rules, the ones y…
 
 ## phantom contrast — 9
 
