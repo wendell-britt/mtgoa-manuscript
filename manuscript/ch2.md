@@ -135,43 +135,47 @@ For the full game taxonomy and mechanics, see Chapter 1. This chapter uses that 
 
 The Forest is a place you may not realize you've been circling.
 
-A familiar loop keeps running: the moment after a hard conversation spent rehearsing what you should have said, the 2am inventory of what went wrong, the same pattern surfacing in a different building, with different people, wearing different faces. That loop is the edge of the Forest.
+Trying to seem right costs energy. Trying to seem good costs more. Run both at once and most of the attention goes to how you are landing. The situation itself gets what is left.
 
-Maybe you did everything the work asked. Showed up. Listened. Went to the training and listened there too. Read the book, adjusted the language, listened harder after that. Asked better questions. Stopped centering yourself, or tried to. Checked the assumptions. Sat with the discomfort. Maybe, somewhere in all of it, holding still became the default.
+Then everybody in the situation registers first as somebody who might be judging you, and not as somebody with a need you could meet. The openings sit in front of you and do not read as openings.
 
-At some point the signal drops out. No clear way to tell if any of it is working, or even what working would look like.
+That gap, between what the situation is offering and what you can see while you are managing how you look, is the edge of the Forest.
 
-Underneath the effort waits a question worth sitting with:
+Maybe you did everything the work asked. Showed up. Listened. Went to the training and listened there too. Read the book, adjusted the language, listened harder after that. Asked better questions. Stopped centering yourself, or tried to. Checked the assumptions. Sat with the discomfort. Maybe, somewhere in all of it, you started holding still by default.
+
+No one reports back. You cannot tell whether any of it is working, or what working would even look like.
+
+All that effort has been sitting on top of one question.
 
 Were you doing this to change something, or to seem like the kind of person who would? Ask it without flinching.
 
 Your body was never appropriating anything. It is yours. You already have the Shaman's first move. This chapter asks whether you will stop treating your own somatic intelligence as something that belongs to someone else.
 
-Wanting to be good was never the problem. Trying to seem good takes the whole body. That leaves nothing over. The face you're holding in place and the face underneath it run at the same time, and the exhaustion actually lives in that split.
+Wanting to be good was never the problem. Performing it costs a great deal, and punishing yourself for falling short of the performance costs a great deal more. Run both and you are funding two expensive processes, neither of which does anything for the person in front of you.
 
 In the village, the mask makes sense. An audience watches. You have roles to play, relationships to manage, impressions to maintain.
 
 The Forest has no audience.
 
-No one in there needs you to seem good, and that makes it the only place where the real work can happen.
+No one in there needs you to seem good, so you can do the real work there and nowhere else.
 
 The Forest holds the parts that have been running your allyship without your permission: the ones you inherited, the ones you performed, the ones you never examined because you were too busy showing up and listening.
 
-The work of the Forest is to meet those parts, not to silence them. To find out where they came from, what they were protecting, and whether they still belong to you.
+In the Forest you meet those parts instead of silencing them. You find out where they came from, what they were protecting, and whether they still belong to you.
 
 ### Forest vs Village
 
-**Village mode** optimizes for appearance, speed, and immediate social safety.  
-**Forest mode** optimizes for truth, integration, and durable capacity.
+In the Village you play for appearance, speed, and getting through the next hour safely.  
+In the Forest you play to understand deeper truths and to build capacity you can sustain.
 
-In the Village, the core move is impression management.  
-In the Forest, the core move is pattern recognition and repurposing.
+In the Village you manage the impression.  
+In the Forest you catch the pattern and put it to work.
 
-In the Village, you ask: *How do I look right now?*  
-In the Forest, you ask: *What keeps repeating in me, and what does it cost if I keep running it?*
+In the Village you ask: *How do I look right now?*  
+In the Forest you ask: *What keeps repeating in me, and what does it cost if I keep running it?*
 
-In the Village, feedback feels like threat to identity.  
-In the Forest, feedback becomes data for development.
+In the Village you hear feedback as a threat to who you are.  
+In the Forest you hear it as information about what to build.
 
 Decision question: **In your next hard moment, will you protect your image in the Village, or grow your capacity in the Forest?**
 
