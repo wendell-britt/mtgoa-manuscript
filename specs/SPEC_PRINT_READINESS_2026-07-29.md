@@ -308,14 +308,30 @@ worst on both counts and is also the chapter that closes the book.
 ### The plan
 
 **The repair is a conversion, not a cut.** Every one of these sentences is trying to
-create recognition, which is the right instinct; asserting it is what breaks. The
-grammar of the fix is small and mechanical:
+create recognition, which is the right instinct; asserting it is what breaks.
 
-| Asserted | Invited |
-|---|---|
-| You've been on the paying end of this. | Picture yourself on the paying end of this. |
-| You have done this before. | If you have ever done this — and most people have — |
-| That was the beginner's game. You graduated from it years ago. | If the beginner's game is behind you… |
+**CORRECTED 2026-08-01, same day.** This section first offered two moves, assert to
+invite, and named invitation as the target. Scored against the five voice anchors
+(`ASSERTION_TEST.md`, test 1) that is wrong: the anchors total **1 assertion and 0
+invitations**. The book at its best does not address the reader's past at all. Three
+of the five put the author in the subject; a fourth describes the phenomenon in the
+third person. Invitation is the second-best move, not the target.
+
+| Move | Grammar | Example |
+|---|---|---|
+| **Describe** (strongest) | author or phenomenon in the subject | *I know that counter. I wrote whole chapters standing at it.* (ch1:119) |
+| **Invite** | *Picture…*, *Maybe you…*, *If you have ever…* | *Picture a real moment from your last month.* (ch2:348) |
+| **Assert** (the defect) | *You have / You've / You did* + the reader's past | *You've been on the paying end of this.* |
+
+Describe costs the most to write, because it needs a real specific instead of a claim
+about the reader. It is also the only one of the three that gets stronger the more
+particular it becomes.
+
+**The rule is tense, not person.** `ch8:342` is an anchor and it is in the second
+person — *you feel the arrogance rise, you name it, you let the judgment become* — and
+the instrument correctly does not fire on it, because every `EXPERIENCE` pattern is
+past or perfect. **You may tell the reader what to do. You may not tell them what they
+have done.**
 
 **Sequence.**
 
