@@ -54,7 +54,7 @@ Hold these three words, because the whole book turns on them. The **Shadow** is 
 
 The daemon work doesn't ask you to fix the Shadow. It asks you to find out what it has been protecting. That is a different project entirely, and it produces different results.
 
-The terrain here has no map. Allyship asks for capacities no training builds, and no training admits it. The curriculum opens where the work becomes visible, which is a long way past where it starts.
+The terrain here has no map. Allyship asks for capacities most training never reaches, and most training does not say so. The curriculum opens where the work becomes visible, which is a long way past where it starts.
 
 The world is not fine. The method for fixing it is not fine either. It rests on a bad premise: that allyship is mainly about what you do in public. The deeper truth is this:
 

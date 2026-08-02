@@ -95,6 +95,31 @@ python3 instruments/prose_diet.py -v DRAFT_FILE
 | waste | *it / this / that* with no clear antecedent | name the thing, or cut the clause |
 | inchoative | *the meeting goes cold*, *a conversation that goes wrong* | ask who did it. *Everybody at the table starts picking their words.* If nobody did it, the sentence is a state report and probably wants cutting |
 
+**The agency fix has one characteristic failure, and it is worse than the defect.** Added
+2026-08-02 after three occurrences in one session. Wendell, on the third: *"all of your
+changes keep reintroducing issues that we've removed from the text. They don't know the
+loop. Whatever produces this assertion has got to go."*
+
+Here is what produces it. Promoting an agentless abstraction requires a subject, and **the
+nearest available subject is always the reader** — so *A familiar loop keeps running*
+becomes *You know the loop*, which is `MANUSCRIPT_FILE_CANON:154` broken in five words.
+The counters all improve. The sentence is now a lie about somebody's life.
+
+**Assert her capacities, never her pathologies.** `ch1:22` says *You are the one who moves*
+— a claim about who she is, which the book has earned. *You know the loop* claims she has a
+recurring private failure, which nothing has earned and nothing can. The A0 gate counter
+guards one corner of this (`you were taught / told / raised / trained`) and four fixed
+phrases are all it has.
+
+**Four legal subjects when the abstraction has to go:**
+
+| | |
+|---|---|
+| a conditional | *Run both at once and most of the attention goes to how you are landing* |
+| the open menu, `ch1:22` | *a meeting, or a group chat, or a Sunday dinner* |
+| a third party who really acts | *No one reports back* beats *the signal drops out* |
+| nobody — cut it | a state report with no doer is often a sentence the passage does not need |
+
 **3 · slop.** Run `/no-ai-slop` on the draft. It is a reading rather than a measurement, so no
 instrument can do it. Then **re-run step 2**, because a slop edit changes the numbers.
 
