@@ -60,6 +60,25 @@ book's own baseline. Over 1.30 is heavy.
 prompted it measured 23.1 empty nouns per thousand against 0.0 in both sections it was
 written to sit beside, while every existing counter called it clean.
 
+`inchoative` was added 2026-08-02 for the same reason, and it is the **third** counter
+added because tightening an earlier one pushed the defect somewhere nothing was looking.
+Assume there is a fourth. `go / goes / went / gone` + adjective means *become* —
+`goes cold` unpacks to `is cold now` — but it has the shape of a verb of motion, so the
+eye reads it as something happening and `be` and `copula` cannot see it at all:
+
+```
+"The meeting goes cold. The table goes careful."     be 0.00   copula 0.00
+"The meeting is cold.  The table is careful."        be 4.97   copula 3.44
+```
+
+Identical sentences. **So driving `copula` down rewards moving copulas into `go`.** The
+counter scores only inanimate subjects, because the construction is legal when a person
+becomes something (`you go cold`, `ch2:358`) and is a defect when the subject cannot act
+(`the meeting that goes sideways`). Book baseline 0.30 per thousand; ch2 runs 1.07.
+
+It is low-frequency, so **the ratio is noise on anything short and the `-v` site list is
+the output.** Two hits in a 300-word draft reads as 22x and means nothing.
+
 Read the `-v` output for the actual sites rather than guessing:
 
 ```
@@ -74,9 +93,37 @@ python3 instruments/prose_diet.py -v DRAFT_FILE
 | copula | *X is Y* as the default sentence | find the verb hiding in the sentence and use it |
 | zombie | *the dissolution*, *a recognition that* | turn the noun back into the verb it came from |
 | waste | *it / this / that* with no clear antecedent | name the thing, or cut the clause |
+| inchoative | *the meeting goes cold*, *a conversation that goes wrong* | ask who did it. *Everybody at the table starts picking their words.* If nobody did it, the sentence is a state report and probably wants cutting |
 
 **3 · slop.** Run `/no-ai-slop` on the draft. It is a reading rather than a measurement, so no
 instrument can do it. Then **re-run step 2**, because a slop edit changes the numbers.
+
+**Run it against `eval.md`, not only against the pattern list in its `SKILL.md`.** Added
+2026-08-02, because half of it was skipped. A ch2 draft was audited against the patterns —
+colon reveals, dramatic fragments, em dashes — reported clean, and put in front of Wendell
+carrying an invented scene: *"Six of you built the group to hold exactly this."* His reply
+was four questions the draft could not answer. *Why six? Who are you? Which group? To hold
+exactly what?*
+
+`eval.md` check 1 is the one that catches it — *does the edit preserve the point **without
+adding claims, examples, stats*** — and it is step 4 of that skill's own workflow. The
+pattern list finds bad sentences. `eval.md` finds invented ones.
+
+**Two failures the whole pass is blind to, both of which shipped past it:**
+
+- **Fabricated specificity.** `MANUSCRIPT_FILE_CANON:154` — *never narrate the reader's
+  unnamed history back to her as fact.* A definite article or a headcount standing over a
+  blank is worse than the abstraction it replaced, because vagueness at least admits what
+  it is. `gate.py`'s A0 counter matches four fixed phrases and nothing else. The legal
+  form is `ch1:22`: an open menu (*a meeting or a dinner or a group chat*), generic
+  actors, and the specificity loaded into **what happens** rather than into invented
+  particulars. **You cannot make a hypothetical concrete by adding details.**
+- **Banned words routed around.** The sentence wanted *the table goes quiet*; `quiet` is
+  banned; `careful` went in instead, a word that does not collocate with *go* and so means
+  nothing; the gate passed clean. The ban exists to force the sentence to be rebuilt, and
+  substituting a synonym evades the work it was there to cause. `inchoative` tags six of
+  these as LAUNDER and that is the nearest a machine gets. **If a banned word is the word
+  the sentence wants, the sentence is wrong, not the word.**
 
 **4 · Once it lands**, run the book-wide pass:
 
