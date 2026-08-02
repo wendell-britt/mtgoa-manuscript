@@ -34,9 +34,13 @@ standing. Comma appositive rather than em-dash: ch4's em-dashes live only in
 headings, epigraph attributions and blockquoted marginalia, never as a
 parenthetical inside body prose.
 
-`the sadness under it` over `sadness` or `the sadness underneath` because the
-book already names a move called Say the Thing Under the Thing (ch3:981), so
-the phrasing lands inside the register rather than beside it.
+Wendell then flipped the appositive so the plain word leads and the element
+glosses it: `sadness, the Water underneath it` rather than `Water, the sadness
+under it`. That is the better order here. The sentence it parallels opens on
+`Anger delivered as anger`, so leading on `sadness` puts the two plain emotion
+words in the same slot on both sides of the parallel and lets Water arrive as
+the technical name. Water stays capitalised -- elements are proper channel
+names everywhere in the book.
 
     python3 instruments/water_gloss.py --dry
     python3 instruments/water_gloss.py
@@ -48,7 +52,7 @@ ROOT = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)),
 EDITS = [
     ("manuscript/ch4.md",
      "because Water wanted to be met and you asked to win instead.",
-     "because Water, the sadness under it, wanted to be met and you asked to win instead."),
+     "because sadness, the Water underneath it, wanted to be met and you asked to win instead."),
 ]
 
 

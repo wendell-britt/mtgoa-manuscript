@@ -667,7 +667,7 @@ In practice: when the charge lands, start a clock instead of a sentence. Thirty 
 
 **What it is:** Name which channel you are carrying before you open your mouth. Fire or Water. A line was crossed, or something was lost. You are going to say the hard thing either way, and which one you are actually carrying decides what comes out.
 
-**Why it matters:** Cruelty in a confrontation is usually a mismatch rather than a decision. Anger delivered as anger lands hard and lands clean, because Fire asks for agency and the other person can hand agency over. Hurt delivered as anger lands as an attack, and nothing they do can satisfy it, because Water, the sadness under it, wanted to be met and you asked to win instead. So they defend, you escalate, and afterward you cannot say what you were actually after. Naming the channel first does not soften the content. It aims it.
+**Why it matters:** Cruelty in a confrontation is usually a mismatch rather than a decision. Anger delivered as anger lands hard and lands clean, because Fire asks for agency and the other person can hand agency over. Hurt delivered as anger lands as an attack, and nothing they do can satisfy it, because sadness, the Water underneath it, wanted to be met and you asked to win instead. So they defend, you escalate, and afterward you cannot say what you were actually after. Naming the channel first does not soften the content. It aims it.
 
 In practice: before the conversation, finish one of two sentences out loud. *A line was crossed and I want it to stop.* Or: *something was lost and I want you to know what it cost.* Say the truer one when you get there, whichever it is. The second sentence costs more to say, and it is the only one that can be answered.
 
