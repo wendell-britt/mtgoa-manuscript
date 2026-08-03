@@ -32,15 +32,17 @@ If we're honest with ourselves, we've also been the one who couldn't hold it. Wh
 
 *That feeling is the Shadow.*
 
-Carolyn Elliott, whose work on shadow retrieval grounds the daemon work in this book, was precise about it: the Shadow is the material you disowned, a pattern that has been doing something specific for you. It protected you when you needed protecting. It made sense once.
+The **Shadow** is material you disowned: a feeling, need, trait, or response you learned was unsafe, unacceptable, or costly to show. Pushing it out of awareness may have helped you stay connected, protected, or accepted. That pattern can keep operating after the conditions that made it necessary have changed. It can still cost the people you want to help. Carolyn Elliott's work on shadow retrieval informs this book's approach to the Shadow.
 
-Hold these three words, because the whole book turns on them. The **Shadow** is the disowned material itself. When one of your Faces runs *from* that material instead of being chosen, you get that **Face in distortion**: the gift turned against the people it was meant to serve. When a daemon runs the show instead of you, it exacts a **cost**, paid by you and by whoever you were trying to help. One word each: Shadow, distortion, cost. They are not the same thing, and the work is to tell them apart.
+A **Face in distortion** shows up when an old pattern takes the lead instead of you choosing how to use that Face. Its gift turns against the people it could otherwise serve. **Cost** is what that pattern makes you or other people pay.
 
-The daemon work doesn't ask you to fix the Shadow. It asks you to find out what it has been protecting. That is a different project entirely, and it produces different results.
+Three questions keep the distinctions clear: What did this pattern protect? What happens when it runs? Who pays?
 
-Here's why: we're trying to navigate terrain we haven't mapped. We're trying to be allies in a world that demands capacities we were never taught to build. We don't build them because we weren't told the work starts somewhere deeper than performative showing up.
+This work does not ask you to fix the Shadow. It asks what the pattern has protected and what it now costs.
 
-The world is not fine. The way we've been trying to fix it is not fine either. It rests on a bad premise: that allyship is mainly about what you do in public. The deeper truth is this:
+We are being asked to act in a world that needs more than information, often before we have learned how to stay present when the work becomes difficult.
+
+Allyship needs more than public action. It asks what capacities you can build before you enter the moment.
 
 **Allyship is about what you are capable of becoming before you walk into the world.**
 
