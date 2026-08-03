@@ -205,27 +205,18 @@ One of those questions hit different. (If more than one hit, start with the one 
 
 Before the map gets bigger, let me tell you how this game teaches.
 
-Most of the allyship training you've been handed works like school, compliance, or court. Learn the terms. Prove you understand them. Perform the correct response. Avoid getting it wrong. Repeat until the rules change.
+Much of the allyship training you have been handed asks for correct answers: learn the terms, prove you understand them, perform the correct response, avoid getting it wrong.
 
-Trained that way, you perform. You do not learn to be playful.
+A game asks something different. You make a move, see what happened, and try again with better information. You become capable by learning what a move does while something is actually happening.
 
-A game teaches differently. It gives you a map, lets you make a move, shows you what happened, and lets you try again with better information. You do not become capable by memorizing the whole map before touching the joystick. You become capable by learning what it does while something is actually happening.
+A game needs a field of play: people, stakes, and rules that can test a move.
 
-A game also needs a somewhere. You do not make a move in the abstract. You make it in a place, against people who want something, under rules that hold still long enough for you to test them. So I set the six chapters ahead in one: a school that does not exist, on a ship, where six people teach six different ways of helping and argue with each other about the rest.
+That is why the six chapters ahead take place in an unnamed fictional school on a ship. It is an imaginative field of play for learning effective allyship. Six teachers offer six different ways of helping, and they argue with each other about the rest.
 
-The school is somewhere to stand while you practice, and that is the whole of its job. Nobody will quiz you on the plot. A teacher who has to answer for what her method costs will tell you more than a framework that answers to nobody, and the only route I found to letting you argue with a Face was to give it a mouth that argues back.
+The school gives you a place to stand while you practice. Nobody will quiz you on the plot. A teacher who has to answer for what her method costs will tell you more than a framework that answers to nobody; giving each Face a voice lets you argue with it directly.
 
 Chapter 1 put the joystick in your hands. Here you learn how to walk the book.
 
-You are going to meet more language than you can use all at once. That is normal. You will see the daemons more than once: first as a map, then as a walk, then as a move. The repetition is deliberate. It is how you come to recognise them.
-
-The work is to notice the first place you recognize yourself in the map, in place of memorizing the roster, mastering the Guides, or becoming the kind of person who can explain the whole system at dinner.
-
-When a daemon lands, stop there. When a Guide's question makes something in you lean forward, start there. When a sentence names the thing you have been circling for years, stay with it.
-
-Recognition is where the move begins, and beginning is all it is.
-
-So do not try to carry the whole Forest at once. Let the first true thing find you. Then do one thing with it.
 
 ---
 
