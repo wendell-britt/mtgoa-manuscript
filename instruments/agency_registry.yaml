@@ -22,10 +22,18 @@ meta:
   amendable_by: Wendell only
   outranked_by:
     - specs/SPEC_EMOTIONAL_ALCHEMY_CANON.md
-    # NOTE: C2 names DAEMON_CANON.md as superior canon. No file by that name
-    # exists in this repo. Grade 2's constraint column therefore has no
-    # authority to defer to. FLAGGED FOR WENDELL.
-    - DAEMON_CANON.md   # MISSING FROM REPO — see note above
+    # RULED by Wendell 2026-08-03. C2 named DAEMON_CANON.md as superior canon
+    # and this registry carried it with a MISSING FROM REPO marker. It is not
+    # missing -- it is RETIRED. specs/MANUSCRIPT_FILE_CANON.md lists
+    # `claude/DAEMON_CANON.md` under "Docs that are stale and will mislead you",
+    # as carrying the retired 8-gate walk, the retired four-stage sequences and
+    # the retired "jeppi" naming. Deferring to it would not have failed
+    # silently; it would have reintroduced three retired systems.
+    #
+    # Replaced with the live sources. Canon points at the manuscript, not at a
+    # retired planning doc.
+    - manuscript/ch2.md            # the roster itself, ch2:270-420
+    - specs/MANUSCRIPT_FILE_CANON.md   # its "Structural facts that are current"
 
 # ---------------------------------------------------------------- verb classes
 # §3. Severity ordering for UNLICENSED subjects:
@@ -147,16 +155,80 @@ grades:
 
   - id: 2
     name: Animate parts
-    entities: [Seven Daemons, Vulnerable Child, Protector, Emotional Body,
-               Damaged Self, Victim, Diplomat shadow, "a part of you",
+    entities: [Seven Daemons, Protector, Controller, Skeptic, "Fixer/Healer",
+               Fixer, Healer, Emotional Body, Victim, Damaged Self,
+               Vulnerable Child, Diplomat shadow, "a part of you",
                "the part that", inner critic]
     verb_classes: [perception, intention, speech, somatic]
-    trace: "IFS architecture (ch2)"
+    trace: "IFS architecture; the roster is manuscript/ch2.md:270-420"
+    roster:
+      # RULED 2026-08-03. Taken from ch2 itself rather than from any planning
+      # doc. Each daemon's stated Job is the boundary its verbs must stay
+      # inside, which is what `constraints` has always required and never had a
+      # live source for.
+      Protector:       "To keep you alive. The body's embodied sense of self-preservation."
+      Controller:      "Decides HOW you live. Sets the standard for good and bad."
+      Skeptic:         "To doubt, so you don't get fooled."
+      Fixer/Healer:    "To fix in both senses: repair what's broken, and hold something in place."
+      Emotional Body:  "The seat of emotional life, where feeling gets processed into meaning."
+      Victim:          "To win sympathy through stories."
+      Damaged Self:    "To take the damage. Absorbs the hit so what it carries survives."
     constraints: >
-      Verbs stay inside each daemon's canonical job. The embodied three
-      (Protector, Emotional Body, Damaged Self) act SOMATICALLY, not verbally,
-      per the ch2 §6 roster ruling. Daemon inflation is a real risk: more than
-      two R3 routings per daemon per chapter is a flag.
+      Verbs stay inside each daemon's canonical job, and `roster` above is now
+      that job list, quoted from ch2. The embodied three (Protector, Emotional
+      Body, Damaged Self) act SOMATICALLY, not verbally, per the ch2 roster
+      ruling. Daemon inflation is a real risk: more than two R3 routings per
+      daemon per chapter is a flag.
+
+      ROSTER CORRECTED 2026-08-03. Three of the seven were missing from this
+      list and were therefore invisible to the recall net at every grade:
+      CONTROLLER (18 uses, the most-used daemon in the book, and heavily
+      agentive -- "the Controller decides how you live", "the Controller rules
+      the read inadmissible before you can speak"), SKEPTIC (14), and
+      FIXER/HEALER (10). The Fixer's absence was the sharpest: it carries
+      VOICE_ANCHOR.md anchor 4, "The Fixer is happy to take him", which that
+      document names as the model of licensed interior agency. The registry's
+      own exemplar was not in the registry.
+
+      VULNERABLE CHILD is NOT one of the Seven and never should have been listed
+      as though it were. MANUSCRIPT_FILE_CANON's structural facts: "Chapter 2's
+      daemon roster carries seven, not eight -- the Vulnerable Child left with
+      the gate walk." It survives in ch2 exactly once, at ch2:384, and not as a
+      roster member: "at the center, the youngest part of you still waits: the
+      Vulnerable Child, the player who should have been holding it the whole
+      time." It KEEPS Grade 2, because it is still a named interior part and the
+      grade is about that, not about roster membership. What changes is its
+      trace: it is the part the Seven form around, not one of them, so the
+      per-daemon job constraint does not apply to it and neither does the
+      two-routings-per-chapter inflation rule.
+
+      TWO STRUCTURAL FAULTS FOUND WHILE CORRECTING THE ROSTER. Both are FLAGGED
+      FOR WENDELL, not fixed here, because both are substantive amendments
+      rather than corrections.
+
+      (a) `somatic` IS NOT A DEFINED VERB CLASS. This grade's verb_classes list
+      names it, and the constraint above requires the embodied three to act
+      "SOMATICALLY, not verbally", but there is no `somatic` entry in the
+      verb_classes block and therefore no lemma list behind it. The rule has
+      never been machine-checkable. Defining it needs an authored lemma set,
+      which is Wendell's call.
+
+      (b) THIS GRADE LICENSES THE DANGEROUS CLASSES AND NOT THE HARMLESS ONES.
+      verb_classes here is [perception, intention, speech, somatic] -- the three
+      highest-severity classes in the taxonomy -- while mechanical, directional
+      and causal-bare are absent. So a daemon may THINK and SPEAK but flags for
+      MOVING. Adding the three missing daemons surfaced 13 findings and every
+      one is this fault rather than a defect: "the Controller routes coordination"
+      (mechanical), "the Fixer turns I might not be equal to this into a project
+      plan" (directional), "the Healer costs you more" (mechanical), "the
+      Skeptic is what makes you pressure-test it" (causal-bare). All licensed by
+      any reading of C1, all flagged by the table.
+
+      The general principle, if Wendell wants it applied: an entity licensed for
+      a high-severity class is licensed a fortiori for the low-severity ones,
+      because if it can think it can move. Grade 3 has the same shape and the
+      same symptom -- 17 mechanical findings on channels, where "the charge
+      accumulates" is exactly what a current does.
 
   - id: 3
     name: Living currents
