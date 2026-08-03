@@ -100,7 +100,7 @@ Here's what happened after the Challenger left: the villagers didn't stop needin
 
 They just forgot how to do it without apologizing.
 
-The village still experienced violations. Slights. Moments where someone crossed a boundary and everyone knew it and nobody said it. Without the Challenger to say *"this is not acceptable"* without softening it, without the Challenger's willingness to be unwelcome in service of what was true, the villagers learned to *process* these moments instead of *respond* to them. To have conversations about boundaries. To schedule dialogues. To bring in a facilitator.
+The villagers still experienced violations. Slights. Moments where someone crossed a boundary and everyone knew it and nobody said it. Without the Challenger to say *"this is not acceptable"* without softening it, without the Challenger's willingness to be unwelcome in service of what was true, the villagers learned to *process* these moments instead of *respond* to them. To have conversations about boundaries. To schedule dialogues. To bring in a facilitator.
 
 Sometimes that was exactly right. Sometimes the situation actually required a facilitated conversation.
 
@@ -124,7 +124,7 @@ The villagers do this with the clean no once the Challenger has gone: they trans
 
 The villagers did all of this with good intentions. Because the Regent was right: *power had to be organized.* Because walls cost less than lines. Because saying no cost something and they had decided, without ever announcing it, to stop paying.
 
-The villagers never realized they had traded the capacity to draw lines for the comfort of not having to. That every time they chose the facilitated conversation over the clean no, they taught each other that the clean no no longer belonged to them. That the Challenger's gift (the willingness to be unwelcome in service of what is true) was draining away, not just from the village, but from their *capacity to even recognize* when the moment called for it.
+The villagers never realized they had traded the capacity to draw lines for the comfort of not having to. That every time they chose the facilitated conversation over the clean no, one generation taught the next that the clean no was not theirs. That the Challenger's gift (the willingness to be unwelcome in service of what is true) was draining away, not just from the village, but from their *capacity to even recognize* when the moment called for it.
 
 ---
 
