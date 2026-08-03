@@ -1,7 +1,7 @@
 # Compare and contrast — Wendell's patterns against the measured one
 
 > **Updated 2026-08-01, batch five.** A third pattern arrived and it is neither of
-> the two below: **the prose explains itself before it is challenged.** 83 sites,
+> the two below: **the prose explains itself before it is challenged.** 117 sites,
 > `instruments/preempt.py`, board in `PREEMPT_BOARD.md`. It is independent of both
 > the agency defect and the integration cost, which now makes three separate
 > passes. See §8.
@@ -183,10 +183,20 @@ Wendell, batch five:
 > text on purpose, we've created modes that collapse that process and make insane
 > sentences."*
 
-**81 sites**, in three shapes: 69 meta-narration (`Here is the…`, `I will say it
-plainly`), 9 phantom contrast (`the real prize`, `the one nobody can take back`),
-1 unfounded appeal (`every arcade you have ever played`), 2 objections staged
-inside the claim.
+**117 sites**, in five shapes: 100 meta-narration (`Here is the…`, `I will say it
+plainly`), 11 phantom contrast (`the real prize`, `the one nobody can take back`),
+3 objections staged inside the claim, 2 stakes announcements, 1 unfounded appeal
+(`every arcade you have ever played`).
+
+**Revised up from 83 on 2026-08-03**, when Wendell ruled the patterns
+case-insensitive. Most of the alternatives are lowercase-anchored — `let me be
+clear`, `we all know`, `the uncomfortable truth`, `the real prize` — so a
+case-sensitive scan could never see them at the start of a sentence, which is
+exactly where a throat-clearing opener lives. The 32 sites it adds are 25
+mid-sentence `here is the / what / why / how / where`, plus `The real prize`
+(`ch1:121`) and `If that landed` (`ch1:173`). **The second of those is a
+defect Wendell had already caught by eye in batch six and marked *cut*,** which
+is the closest thing to a validation this instrument has had.
 
 | ch1 | ch2 | ch3 | ch4 | ch5 | ch6 | ch7 | ch8 | ch9 |
 |---|---|---|---|---|---|---|---|---|
@@ -326,7 +336,7 @@ Four now, not three, and the fourth is the cheapest:
 
 1. **Agency** — sentence-level, 177 Tier-1 sites.
 2. **Integration** — transition-level, 79% against a 57% control. The biggest.
-3. **Pre-emption** — drafting-process-level, 83 sites.
+3. **Pre-emption** — drafting-process-level, 117 sites.
 4. **Surface shapes** — phrase-level, 221 sites, and the only one of the four a
    reader can rule on at a glance. It is also the only one with a written rule
    already in the repository that nothing was enforcing.

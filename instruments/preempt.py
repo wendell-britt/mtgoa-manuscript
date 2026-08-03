@@ -74,6 +74,11 @@ def _load(name, path):
 
 fl = _load("find_line", os.path.join(HERE, "find_line.py"))
 
+# RULED 2026-08-03 by Wendell: these match case-insensitively. Most of the
+# alternatives below are lowercase-anchored (`let me be clear`, `we all know`,
+# `the uncomfortable truth`, `the part most people`), so a case-sensitive scan
+# could never see them at the start of a sentence -- exactly where a
+# throat-clearing opener lives. The board moves 83 sites to 117.
 SHAPES = [
     ("meta-narration",
      # `Here they are` added 2026-08-01, batch seven: Wendell flagged it opening the
@@ -123,7 +128,7 @@ def main():
     per = defaultdict(lambda: defaultdict(int))
     for l in lines:
         for name, pat in SHAPES:
-            for m in re.finditer(pat, l["text"]):
+            for m in re.finditer(pat, l["text"], re.I):
                 found[name].append((l, m.group(0)))
                 per[l["rel"]][name] += 1
 
