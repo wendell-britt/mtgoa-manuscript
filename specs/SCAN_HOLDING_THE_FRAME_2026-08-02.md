@@ -159,8 +159,21 @@ overrun is the two things the estimate had no way to see — a worked scene, and
 **projection**, which is what makes the inner work load-bearing instead of
 asserted. `clearance` is ruled and live in canon.
 
-**ch1, ch3–ch9 remain as scanned**, with one addition: `ch1:133` and `ch1:135`
-run a *reading* metaphor that ch2 now contradicts, and need the same pass.
+**ch1, ch3–ch9 are applied too, and the scan is closed except for the appendix.**
+
+| | landed | words |
+|---|---|---|
+| ch1 · the two-games line | `ch1:147`, after the bouncer telegraph | 47 |
+| ch1 · the reading metaphor | `ch1:133`, `:135`, `:139`, `:143` — a fix the scan did not predict | — |
+| **ch2** · the second walk | `ch2:381`, beside the first walk | **1,304** |
+| ch3–ch8 · the twelve mirrors | each after *You know what your X is for now* | 354 |
+| ch9 · the consent line | `ch9:528` | 36 |
+| `APPENDIX_A` · the third axis | **not done** | — |
+
+The ch1 reading fix was not in this scan and turned out to be load-bearing: the
+bouncer was described as *reading* you three times, which ch2's second walk now
+contradicts directly. Fixing it split the work between the door and the person,
+which is what `ch1:137` had already assumed and nothing had said.
 
 ## 6 · What this scan does not settle
 
