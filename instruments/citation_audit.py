@@ -58,6 +58,11 @@ BORROWED = [
     # the Architect chapter as a term of art".
     (r"leverage points?", "Meadows"),
     (r"polarity map|both/and", "Johnson"),
+    # ADDED 2026-08-03, ruled by Wendell. ch1:135 states the ABI model outright --
+    # "Capability, integrity and benevolence, if you want the words for them" -- and
+    # the audit reported 0 uncredited because it had never been told whose model it
+    # is. Their word is `ability`; the book says `capability`, so both are matched.
+    (r"integrity and benevolence|benevolence", "Mayer"),
     (r"big mind", "Merzel|Genpo"),   # he is credited by his teaching name in ch8
     (r"genius demon ally", "Rice"),
     (r"existential kink", "Elliott"),

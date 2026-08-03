@@ -49,6 +49,12 @@ source of the discipline the Architect chapter asks for most often: find where
 the system's own structure is producing the outcome, rather than blaming the
 people caught inside it.
 
+## The Trust Model
+
+Chapter 1's three questions — whether you can actually help, whether you do what you said you would do, whether you meant well — are **Roger Mayer, James Davis and F. David Schoorman's**. Their "An Integrative Model of Organizational Trust" (*Academy of Management Review*, 1995) split trustworthiness into ability, integrity and benevolence and showed that a person earns and loses the three separately. Thirty years of research sits on top of it, and it earned that for the reason Chapter 1 needs it: it stops trust being one undifferentiated feeling and gives somebody three separate jobs, two of which leave a record. Their word is *ability*; I say *capability*, which changes the word and not the meaning.
+
+I did two things to it that count as departures rather than refinements, so they belong here. Their model describes one person appraising another, and appraisal is a conscious act by a rational actor. This book puts a Protector at the door first, and a Protector appraises nothing. It holds a shape and checks you against it, and the three questions belong to the person standing behind it, who takes a good deal longer. Second, their model points outward, toward somebody else. Chapter 2 turns it around and asks what your own parts have earned from you, which their paper never asks. Read the original for the account with evidence under it.
+
 ---
 
 ## The Polarity Map

@@ -144,7 +144,7 @@ A door like that changes the question. The useful one is how small a move you ca
 
 Which means some games on this floor stay shut to you for now, however many tokens you brought. You prove yourself first, and not to the person. To whatever is standing in front of them. You will find out who those bouncers are in the next chapter, and you will meet your own first, because you have a set of them too and they are why certain doors never open for you either.
 
-You and the person you came to help are not playing the same game. You walk a floor picking machines, spend what you brought, and leave whenever you like. They are holding a line they never chose, and it does not come down because you arrived meaning well.
+You and the person you came to help are not playing the same game. You walk a floor picking machines, spend what you brought, and leave whenever you like. They are holding a line, drawn long ago by parts of them they have never met, and it does not come down because you arrived meaning well.
 
 Which brings me back to the prize counter. What I collected there for years was praise, and praise has a shape to it. Somebody stands above you and grades you. That is the trade, every time. Take your winnings in praise and you have agreed to be judged by the person handing it over, which puts one of you above the other, and you are now doing something other than allyship.
 
