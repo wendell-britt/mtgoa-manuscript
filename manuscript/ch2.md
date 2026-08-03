@@ -109,23 +109,19 @@ For the full game taxonomy and mechanics, see Chapter 1. This chapter uses that 
 ## Section 3: The Forest
 ### *The Place Where the Work Actually Happens*
 
-The Forest is a place you may not realize you've been circling.
+The Forest is where you notice a pattern before it makes its next move.
 
-A familiar loop keeps running: the moment after a hard conversation spent rehearsing what you should have said, the 2am inventory of what went wrong, the same pattern surfacing in a different building, with different people, wearing different faces. That loop is the edge of the Forest.
+You may recognize its edge: the hour after a hard conversation spent rehearsing what you should have said; the 2am inventory of what went wrong; the same pattern surfacing in a different building, with different people, wearing different faces.
 
-Maybe you did everything the work asked. Showed up. Listened. Went to the training and listened there too. Read the book, adjusted the language, listened harder after that. Asked better questions. Stopped centering yourself, or tried to. Checked the assumptions. Sat with the discomfort. Maybe, somewhere in all of it, holding still became the default.
+You may have done everything the work asked: showed up, listened, gone to the training, read the book, adjusted your language, asked better questions, checked your assumptions, sat with discomfort. Still, holding still can become the default.
 
-At some point the signal drops out. No clear way to tell if any of it is working, or even what working would look like.
+The question is: Were you doing this to change something, or to seem like the kind of person who would?
 
-Underneath the effort waits a question worth sitting with:
+In a meeting, someone stops answering the central question. The room begins circling safer topics. Agreement matters more than honesty. You notice what is happening, then set that read aside.
 
-Were you doing this to change something, or to seem like the kind of person who would? Ask it without flinching.
+In the same way you do not need permission to notice what is going on in your body, you do not need permission to notice what is going on in the places where your body is. You might not be correct in your read, but it is better than not being present at all.
 
-Picture a meeting that goes cold. The body knows exactly what is happening, maybe before anyone speaks, and the read gets set aside for the consensus, not for lack of capacity, but because body-knowing, in a certain framework, belongs to people closer to their roots, and claiming it can feel like appropriation. So the literacy gets built and the read goes unused.
-
-The body doing that reading never appropriated anything. It is yours. You already have the Shaman's first move. I am asking whether you will stop treating your own somatic intelligence as something that belongs to someone else.
-
-Wanting to be good was never the problem. Trying to seem good takes the whole body. That leaves nothing over. The face you're holding in place and the face underneath it run at the same time, and the exhaustion actually lives in that split.
+Wanting to be good was never the problem. Image management diverts attention from the person in front of you.
 
 In the village, the mask makes sense. An audience watches. You have roles to play, relationships to manage, impressions to maintain.
 
@@ -133,9 +129,9 @@ The Forest has no audience.
 
 No one in there needs you to seem good, and that makes it the only place where the real work can happen.
 
-The Forest holds the parts that have been running your allyship without your permission: the ones you inherited, the ones you performed, the ones you never examined because you were too busy showing up and listening.
+In the Forest, you can notice the patterns that have been shaping your allyship: patterns you inherited, performed, or never examined because you were busy showing up and listening.
 
-The work of the Forest is to meet those parts, not to silence them. To find out where they came from, what they were protecting, and whether they still belong to you.
+You do not enter the Forest to silence those patterns. You enter to learn where they came from, what they protected, and whether they still belong to you.
 
 ### Forest vs Village
 
@@ -153,7 +149,7 @@ In the Forest, feedback becomes data for development.
 
 Decision question: **In your next hard moment, will you protect your image in the Village, or grow your capacity in the Forest?**
 
-The Forest is where you meet the daemons. Each one is a part of you to be faced, understood, and befriended before what it carries can come back to the village with you. The Forest gives you the terrain. You decide what you do with it.
+The Forest gives you terrain in which to see a pattern clearly. What you notice there changes your next move.
 
 ---
 
