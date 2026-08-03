@@ -148,6 +148,20 @@ work with in herself are the seven she will meet in everyone she ever tries to h
 
 ---
 
+## 5b · Status, 2026-08-03
+
+**ch2 is applied.** The section landed as `A Second Walk, Through Somebody Else's
+Forest` at `ch2:381`, after the first walk rather than at the line 323 slot this
+scan proposed. Wendell's 3-2-1 redirected it: the mirror works as **a second walk
+in the first walk's own seven-beat rhythm** (`ch2:350`–`362`), so it belongs
+beside its twin. 1,304 words against the 350–450 this scan estimated, and the
+overrun is the two things the estimate had no way to see — a worked scene, and
+**projection**, which is what makes the inner work load-bearing instead of
+asserted. `clearance` is ruled and live in canon.
+
+**ch1, ch3–ch9 remain as scanned**, with one addition: `ch1:133` and `ch1:135`
+run a *reading* metaphor that ch2 now contradicts, and need the same pass.
+
 ## 6 · What this scan does not settle
 
 1. **The term.** `clearance` is still the recommendation and still unruled. Nothing in
