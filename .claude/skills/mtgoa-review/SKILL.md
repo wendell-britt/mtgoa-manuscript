@@ -172,8 +172,45 @@ pattern list finds bad sentences. `eval.md` finds invented ones.
 python3 instruments/review.py
 ```
 
-Six steps: gate, diet, em-dash budget, seam sweep, citation audit, `compile.py --verify`. All
-six must be `ok` before committing a manuscript change.
+Seven steps: gate, diet, em-dash budget, seam sweep, citation audit, `compile.py --verify`,
+empty head. All seven must be `ok` before committing a manuscript change.
+
+## The empty head noun — the defect a repair pass creates while fixing another one
+
+Added 2026-08-03. Wendell: *"we've got to solve this definite article issue once and for all.
+It's the new AI slop issue that our passes are creating faster than we can get rid of them."*
+Narrowed by him one turn later: *"'empty head noun' is what I'm looking for… It's not in my
+writing style to use the word 'thing' because of how unspecific it is."*
+
+**`the X` is a presupposition.** It tells the reader *you already know which one I mean.*
+Legal four ways: an antecedent, a referent unique in the world, a clause that supplies it on
+the spot, or canon the book has taught her. When none holds it is the same lie as *"you know
+the loop"* — grammar asserting shared knowledge that was never established.
+
+**The article is the symptom. The empty head noun is the disease.** `the field`, `the charge`,
+`the table` are contentful heads — the noun names something and the reader can picture it.
+`the thing`, `the part`, `the piece`, `the work`, `the others` are placeholders: the modifier
+does all the work, which is what it means for a head noun to contribute nothing.
+
+**A restrictive clause is aggravating, not exculpating.** `the thing that charges the field`
+is worse than `the thing.`, because the clause is carrying the meaning the noun refused to.
+`marginalia/review.py`'s comment says the opposite — *"'the thing that gets done' is fine"* —
+and that written exemption is why it caught 4 of 106 sites.
+
+**Why this is our defect specifically.** Every agency repair evicts an abstraction from a
+subject slot and has to put something back. The cheapest legal filler is a definite noun
+phrase with a human-shaped head and no antecedent. One 23-edit R-B pass produced `the people
+it concerns`, `the work`, `everybody involved` and `both camps` — four new ones while removing
+twenty-three old ones. **Assume every repair pass you run has this byproduct and check for it
+before showing the batch.**
+
+Run `instruments/empty_head.py` — it is step 7 of `review.py` on both paths. It tests the
+condition rather than matching strings, so it catches the phrase nobody has written yet, which
+is the only version of "once and for all" that holds. `Say the Thing Under the Thing` is a
+named move in ch3 and ch4 and is carved out.
+
+**When it fires, name the noun.** Not a synonym for `thing` — the actual referent. If you
+cannot name it, that is the finding: the sentence does not know what it is about yet.
 
 ## Score the set, not the sentence
 

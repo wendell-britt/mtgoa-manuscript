@@ -135,7 +135,16 @@ def draft(paths):
                 if l.strip():
                     print("            HEAVY %s" % l.strip())
                     bad += 1
-        print("  7 slop    run /no-ai-slop by hand, then re-run this")
+        # STEP 7 on a draft, added 2026-08-03, and it belongs here more than book-wide.
+        # `specs/MANUSCRIPT_FILE_CANON.md:240` logged "`the thing` appears 132 times in this
+        # manuscript" and ruled it "a candidate finder, never a gate." Wendell overruled
+        # that: "we've got to solve this definite article issue once and for all. It's the
+        # new AI slop issue that our passes are creating faster than we can get rid of
+        # them." A finder nobody gates on is how a count sits in canon for weeks.
+        code, out = run([os.path.join(HERE, "empty_head.py"), path])
+        row = [l for l in out.split("\n") if os.path.basename(path)[:14] in l]
+        print("  7 head    %s" % (row[0].strip() if row else "no score"))
+        print("  8 slop    run /no-ai-slop by hand, then re-run this")
     return bad
 
 
@@ -148,6 +157,11 @@ def book():
         ("4 seam      ", ["instruments/seam_sweep.py", "--quiet"], None),
         ("5 citations ", ["instruments/citation_audit.py"], None),
         ("6 round-trip", ["marginalia/compile.py", "--verify"], "byte-identical"),
+        # Added 2026-08-03. Wendell: "we've got to solve this definite article issue once
+        # and for all. It's the new AI slop issue that our passes are creating faster than
+        # we can get rid of them." Reports rather than gates while the standing 266 sites
+        # are worked; `empty_head.py --strict` is the promotion path.
+        ("7 empty head", ["instruments/empty_head.py"], "reporting only"),
     ]
     bad = 0
     for label, cmd, want in steps:
@@ -179,7 +193,7 @@ def book():
             continue
         bad += 0 if ok else 1
         print("  %s %-4s %s" % (label, "ok" if ok else "LOOK", tail))
-    print("\n  7 slop       run /no-ai-slop on anything written today")
+    print("\n  8 slop       run /no-ai-slop on anything written today")
     return bad
 
 
