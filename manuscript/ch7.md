@@ -94,7 +94,7 @@ The Diplomat operates through five modes:
 
 **Field-Holder.** The mode of maintained safety. The work of keeping the relational space open and charged enough that difficult conversations remain possible. Holding rather than solving.
 
-**Repairer.** The mode of healing ruptures. The work of addressing harm one party did to another without pretending it did not occur, and without letting the repair process create new harm.
+**Repairer.** The mode of healing ruptures. The work of addressing harm somebody did, without pretending it did not occur, and without letting the repair process create new harm.
 
 **Integrative Negotiator.** The mode of honest closing. Surfacing stakes, interests, and sacrifices; naming what the agreement must hold for everyone, and closing so the field moves.
 
@@ -233,7 +233,7 @@ The draw is relational. Not solo. Pick a live field with actual people making it
 
 The Bridge-Builder is the Diplomat's entry point: the mode through which contact happens, curiosity replaces judgment, and the field allows a new presence to enter. It is the Diplomat's most fundamental skill and the one most easily distorted.
 
-Here is what its absence looks like: a person who cannot enter a gathering without an agenda. Who approaches every relational field as a transaction. What can I get, what do I need, what is this interaction worth to me. Who makes contact only when they want something, and loses the capacity for contact-for-contact's-sake. The Bridge-Builder's absence shows up as a kind of relational instrumentalization: everyone they make contact with becomes a means to an end.
+Here is what its absence looks like: a person who cannot enter a gathering without an agenda. Who approaches every relational field as a transaction. What can I get, what do I need, what is this interaction worth to me. Who makes contact only when they want something, and loses the capacity for contact-for-contact's-sake. The Bridge-Builder's absence shows up as a kind of relational instrumentalization: everyone they meet becomes a means to an end.
 
 Here is what its distortion looks like: a person who is always reaching out, always connecting, always bridging, and who cannot stop. Who treats every relationship as a bridge to build and maintain, even when nobody needs the crossing. The distorted Bridge-Builder confuses movement for connection, presence for performance. They are always bridging because stopping feels like abandonment.
 
@@ -348,7 +348,7 @@ Precision costs here: the containment structure takes extra effort, and it pays 
 
 The Field-Holder demands more sheer presence than any other Diplomat mode. The work is maintaining enough safety that difficult conversation remains possible, even when charge runs high, even when the ground shifts, even when everyone present wants to fight, flee, or freeze.
 
-Here is what its absence looks like: a person who can hold a conversation only when it is already safe. Who can mediate in calm conditions, but who falls apart the moment the field becomes truly charged. The Field-Holder's absence shows up as a kind of presence collapse. The moment something difficult happens, they either escalate into the conflict or withdraw until there is no field left to hold. They can hold the good conditions; they cannot hold the bad ones.
+Here is what its absence looks like: a person who can hold a conversation only when it is already safe. Who can mediate in calm conditions, but who falls apart the moment the field becomes truly charged. The Field-Holder's absence shows up as a kind of presence collapse. The moment something difficult happens, they either escalate into the conflict or withdraw until there is no field left. They can hold the good conditions; they cannot hold the bad ones.
 
 Here is what its distortion looks like: a performative calm, actually a freeze response. The distorted Field-Holder mistakes stillness for safety. They sit in the middle of chaos and perform peace, believing that their equanimity will regulate the field. This is collapse masquerading as calm. Real Field-Holding contains the charge rather than removing it. The field stays charged. The Field-Holder does not calm it down. They give it a shape. Note the difference from the Challenger's Stand, a subtraction: you finish the sentence and add nothing. Hold is addition, and it costs, and it does not end when the silence does. They say: *this charge has somewhere to go. It can move through here without destroying anything.*
 
@@ -358,11 +358,11 @@ The Dissatisfaction here is **inclusion-performance**. You open the retro by tel
 
 The field is what happens between people in relationship with each other, and allyship is a relationship. Everyone there makes it, and it lasts only as long as they are all still there. A physical field holds itself. This one needs tending, which is why Hold costs more, and why it is the one move you cannot make alone.
 
-The alchemy: *I stop announcing that the field is open and find out whether anyone will use it.* Anxiety shows up while you do this, and it reads the situation correctly, because a charged field costs more to hold than a calm one. Treat it as the weather you work in. What you are watching for is growth, and you know it arrived when somebody says what they had decided in the parking lot not to say. Their sentence is between all of you now, and you could not have said it for them. That is the Wood channel completing, and Bliss is what it feels like to hold a field that grew what you did not plant.
+The alchemy: *I stop announcing that the field is open and find out whether anyone will use it.* Anxiety shows up while you do this, and it reads the situation correctly, because a charged field costs more to hold than a calm one. Treat it as the weather you work in. What you are watching for is growth, and you know it arrived when somebody says what they had decided in the parking lot not to say. Their sentence is between everyone now, and you could not have said it for them. That is the Wood channel completing, and Bliss is what it feels like to hold a field that grew what you did not plant.
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 2 — Hothouse Safety → Hardy Field**
 
-The Field-Holder's secondary Dissatisfaction is **hothouse safety**, a field you keep so comfortable that nobody says the sentence that would cost them anything. To everyone making it, it looks like health. The family dinner stays warm, the standup stays pleasant, the two of you stay kind with each other, the community meeting ends on time, and everyone leaves carrying what they walked in with. A field protected from charge stays small, and the people making it learn to bring less of themselves to match.
+The Field-Holder's secondary Dissatisfaction is **hothouse safety**, a field you keep so comfortable that nobody says the sentence that would cost them anything. It looks like health to everyone keeping it that way. The family dinner stays warm, the standup stays pleasant, the two of you stay kind with each other, the community meeting ends on time, and everyone leaves carrying what they walked in with. A field protected from charge stays small, and the people making it learn to bring less of themselves to match.
 
 The alchemy: *I stop protecting the field and start building one that can take weather.* You let the hard sentence land, and you stay, and the field turns out to hold. Now they know by experience what nobody could have told them, that the field survives contact. Each round of that raises what it carries next time.
 
