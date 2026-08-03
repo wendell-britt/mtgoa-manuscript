@@ -130,17 +130,17 @@ I have been calling the Arcade a floor full of machines, which holds up until th
 
 Some machines on that floor have a bouncer in front of them, and there is nothing human about it. Built long before you showed up, running on its own, answering to nobody, with one job written into it: keep everything away from the player it guards until that thing proves harmless.
 
-The bouncers are there for a reason. Some of the people who hurt this person arrived offering help, and a bouncer that has seen that once never forgets the shape of it. So it reads you before anybody has said much, and it reads fast.
+The bouncers are there for a reason. Some of the people who hurt this person arrived offering help, and a bouncer that has met one of those keeps the shape. It does not weigh you up, and it does not wonder about you. It checks you against the shape, before anybody has said much, and it checks fast.
 
-Three things get read. Whether you can actually help. Whether you do what you said you would do. Whether you meant well. Capability, integrity and benevolence, if you want the words for them.
+Behind the bouncer, the person is working out three things about you, and that takes a good deal longer than the door does. Whether you can actually help. Whether you do what you said you would do. Whether you meant well. Capability, integrity and benevolence, if you want the words for them.
 
 The first two are things you do. The third is a thing you are, and that difference runs the whole economy. Doing leaves a record somebody else can check. You got better at it or you did not. You kept your word or you did not. What you are leaves no record, so they guess.
 
-So you cannot work on the third one directly. You can become a kinder person, and it matters, and it still does not put the finding in their head. A decade of being read wrong is available to anybody who wants one.
+So you cannot work on the third one directly. You can become a kinder person, and it matters, and it still does not put the finding in their head. A decade of somebody having you wrong is available to anybody who wants one.
 
 I have just handed you a diagram of how trust gets built, and a diagram like that doubles as instructions for faking it. I know, because I have used it that way. Looking capable is cheaper than getting good. Sounding reliable is cheaper than being reliable. The shortcut works, which is the honest problem with it. It just pays nothing. Tricking somebody into believing you are a good person is not a feeling anybody enjoys, including the person doing it.
 
-The reading changes the size of the question. The useful one is how small a move you can make that still counts. Saying what you noticed, to one person, is about as small as it gets, and almost anybody can receive it. Saying the true thing to somebody's face in front of other people asks for far more, and it needs a history behind it before it lands at all. You will meet that one with the Diplomat in Chapter 7.
+A door like that changes the question. The useful one is how small a move you can make that still counts. Saying what you noticed, to one person, is about as small as it gets, and almost anybody can receive it. Saying the true thing to somebody's face in front of other people asks for far more, and it needs a history behind it before it lands at all. You will meet that one with the Diplomat in Chapter 7.
 
 Which means some games on this floor stay shut to you for now, however many tokens you brought. You prove yourself first, and not to the person. To whatever is standing in front of them. You will find out who those bouncers are in the next chapter, and you will meet your own first, because you have a set of them too and they are why certain doors never open for you either.
 
