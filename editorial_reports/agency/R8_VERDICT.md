@@ -154,10 +154,17 @@ what the Jerk archetype forbids. That pattern needs R1 or R2, never R8.
 
 ## Held for Wendell, not ruled
 
+> **Item 1 partly closed 2026-08-03.** Its twin — the `ch9:672` section heading — is
+> **RULED KEEP**, along with all 16 village headings in the manuscript. Headings are
+> display type and are now out of scope for the audit at every grade: a heading names
+> the pattern, the body names the people. See DL-38 and the `HEADING` entry in the
+> registry's `registers` block. **The last sentence itself is still open** — it is not a
+> heading, and the ruling did not reach it.
+
 1. **The last sentence of the book.** *"Now go build yours: the village is waiting."*
    Pluralized it is grammatical, and it trades a one-on-one closing image — singular Player,
    singular Village — for many-against-one. Twin at the ch9 section heading *"The Village Is
-   Already Playing."*
+   Already Playing"* — **that twin is now ruled keep; this sentence is not.**
 2. **ch8:164's triple anaphora.** *"It learned… It learned… It learned…"* reads as one
    organism quietly acquiring bad habits. *"They learned"* dilutes it to crowd narration. It
    may be doing the same work anchor 3 protects.

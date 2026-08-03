@@ -298,6 +298,53 @@ registers:
     tag: HANDBOOK-REGISTER
     scanned: true
 
+  # RULED by Wendell 2026-08-03: "keep all 16, log the ruling."
+  - block: HEADING
+    tag: DISPLAY-REGISTER
+    scanned: false
+    note: >
+      Markdown headings are display type, not prose claims, and are OUT OF SCOPE
+      for the agency audit at every grade. agency_grep.py already skips lines
+      beginning with `#`; this entry makes that intentional rather than
+      incidental.
+
+      The ruling was taken on the village headings, which are the whole
+      population of the question -- 16 across the manuscript, and no other
+      abstraction holds a heading anywhere in the book. Zero converted.
+
+      THE REASON, which generalises past the village: a heading names the
+      PATTERN and the body beneath it names the PEOPLE. That is C1's own
+      formulation -- patterns don't teach, people do, and the pattern is what
+      their teaching leaves behind. So "What the Village Does With Tradition"
+      sitting above a body that says "the villagers" is not a mismatch left over
+      from the R8 pass. It is the model working, with the signpost at pattern
+      altitude and the claim at person altitude.
+
+      The 16 are three different things, and only one of them was ever arguable:
+
+      ARENA (4) -- ch2:166, ch4:374, ch5:496, ch6:349. "Forest vs Village",
+      "Run the 30-Second Protocol in the Village". This is the book's central
+      polarity, where the Village is the place a move costs something and the
+      Forest is where it costs nothing. Never a candidate, and converting one
+      would be a category error, not a style choice.
+
+      FABLE FORMULA (10) -- ch3, ch4, ch5, ch6, ch8, two each:
+        "Why the [Face] Left the Village (And What the Village Lost)"
+        "What the Village Does With [X] When the [Face] Is Gone"
+      Only the second of each pair carries agency at all. "Left the Village" is
+      locative and was never a defect. So the real question was five headings of
+      one formula, not sixteen.
+
+      MYTHIC COUNTERPART (2) -- ch9:610, ch9:672. "The Village Is Already
+      Playing" is the last place the book states Player against Village,
+      singular against singular, two screens from the end.
+
+      Worth recording that the book had already answered this itself. ch7 has no
+      village heading anywhere, and ch9's own fable headings dropped the word --
+      "Why the Player Left (And What They Carried With Them)", not "Left the
+      Village". The formula was five chapters, never the book, and the closing
+      chapter had already walked away from it.
+
 # ---------------------------------------------------------------- remediation
 # C5 precedence, highest first. Where several apply to one site, take the
 # highest-priority op that fits.
