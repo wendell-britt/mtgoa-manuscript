@@ -159,7 +159,9 @@ grades:
                Fixer, Healer, Emotional Body, Victim, Damaged Self,
                Vulnerable Child, Diplomat shadow, "a part of you",
                "the part that", inner critic]
-    verb_classes: [perception, intention, speech, somatic]
+    verb_classes: [perception, intention, speech, somatic,
+                   # a fortiori, 2026-08-03 -- see constraints
+                   mechanical, directional, causal-bare, pattern]
     trace: "IFS architecture; the roster is manuscript/ch2.md:270-420"
     roster:
       # RULED 2026-08-03. Taken from ch2 itself rather than from any planning
@@ -213,7 +215,26 @@ grades:
       never been machine-checkable. Defining it needs an authored lemma set,
       which is Wendell's call.
 
-      (b) THIS GRADE LICENSES THE DANGEROUS CLASSES AND NOT THE HARMLESS ONES.
+      A FORTIORI, ruled by Wendell 2026-08-03. An entity licensed for a
+      high-severity class is licensed for the MIND-FREE classes as well --
+      mechanical, directional, causal-bare, pattern -- because if it can think
+      it can move. Those four require no mind by the taxonomy's own notes
+      ("mind-free by definition", "usually dead metaphor, not category error"),
+      so flagging them on an entity already licensed to perceive or intend was
+      the table contradicting itself.
+
+      THE BOUNDARY, and why it is not strict severity ordering: a naive a
+      fortiori from perception (severity 1) would license every class including
+      SOCIAL-CAUSAL, and that is wrong. Social-causal needs a counterparty and a
+      will directed at another party, which is an ADDITIONAL claim rather than a
+      weaker one, and nothing about being able to think implies it. This is the
+      same line E-1 draws for the channels -- delivery of signal versus exertion
+      of pressure -- and it holds here for the same reason. Social-causal and
+      speech stay restricted at both grades.
+
+      What (b) said before it was ruled, kept because it is the evidence:
+
+      (b) THIS GRADE LICENSED THE DANGEROUS CLASSES AND NOT THE HARMLESS ONES.
       verb_classes here is [perception, intention, speech, somatic] -- the three
       highest-severity classes in the taxonomy -- while mechanical, directional
       and causal-bare are absent. So a daemon may THINK and SPEAK but flags for
@@ -238,7 +259,11 @@ grades:
                # constantly and neither was in the list, so the first W-1 scan
                # under-counted until they went in.
                sadness, neutrality, the feeling, the charge]
-    verb_classes: [directional, perception]
+    verb_classes: [directional, perception,
+                   # a fortiori, 2026-08-03 -- see Grade 2's constraints for the
+                   # reasoning and the boundary. Social-causal stays out, which
+                   # is what leaves room for E-1 to be the narrow exception it is.
+                   mechanical, causal-bare, pattern]
     verb_classes_partial:
       # W-1 RULED by Wendell, 2026-08-02: license `want`, not the class.
       intention: [want, seek, aim]
