@@ -154,7 +154,13 @@ what the Jerk archetype forbids. That pattern needs R1 or R2, never R8.
 
 ## Held for Wendell, not ruled
 
-> **Item 1 partly closed 2026-08-03.** Its twin — the `ch9:672` section heading — is
+> **Item 1 CLOSED 2026-08-03 — RULED KEEP (DL-39).** The sentence ships as written, on
+> register grounds: it closes the book on one figure addressing one figure, and the plural
+> is a different last beat rather than a cleaner version of the same one. With DL-38 this
+> closes the village question entirely — every site in the book is now converted, ruled
+> keep, or ruled out of scope.
+>
+> **Original note, 2026-08-03.** Its twin — the `ch9:672` section heading — is
 > **RULED KEEP**, along with all 16 village headings in the manuscript. Headings are
 > display type and are now out of scope for the audit at every grade: a heading names
 > the pattern, the body names the people. See DL-38 and the `HEADING` entry in the
