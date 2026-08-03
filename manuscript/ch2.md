@@ -32,7 +32,7 @@ If we're honest with ourselves, we've also been the one who couldn't hold it. Wh
 
 *That feeling is the Shadow.*
 
-The **Shadow** is material you disowned: a feeling, need, trait, or response you learned was unsafe, unacceptable, or costly to show. Pushing it out of awareness may have helped you stay connected, protected, or accepted. That pattern can keep operating after the conditions that made it necessary have changed. It can still cost the people you want to help. Carolyn Elliott's work on shadow retrieval informs this book's approach to the Shadow.
+The **Shadow** is material you disowned: a feeling, need, trait, or response you learned was unsafe, unacceptable, or costly to show. You learned to push it out of awareness to stay connected, protected, or accepted. That pattern can keep operating after the conditions that made it necessary have changed. It can still cost the people you want to help. Carolyn Elliott's work on shadow retrieval informs this book's approach to the Shadow.
 
 A **Face in distortion** shows up when an old pattern takes the lead instead of you choosing how to use that Face. Its gift turns against the people it could otherwise serve. **Cost** is what that pattern makes you or other people pay.
 
@@ -48,23 +48,19 @@ Allyship needs more than public action. It asks what capacities you can build be
 
 ### What the Old Allyship Got Wrong
 
-The old allyship's fatal flaw was mistaking information for transformation. It had a theory of change. It went like this:
+Old allyship mistook information for transformation. Its theory of change was simple:
 
 *Learn. Feel. Act.*
 
-This theory is incomplete rather than wrong. The old allyship produced real wins: doors that opened, conversations that happened, power that shifted in small amounts, temporarily, in specific places. It also produced a generation of exhausted practitioners who kept burning out on good intentions. Both of these things are true.
+People working from that model opened doors, started conversations, and shifted power in particular places. The same model left many practitioners exhausted: it asked them to act before it had taught them how to recover after a hard meeting, take feedback without disappearing, or stay present when a plan failed.
 
-You bring a body to every one of those actions. Sometimes that body runs on three hours of sleep. Sometimes it has been braced since the morning meeting. The old allyship does not ask about that. It assumes the person executing the right actions has the body to do it.
+The model assumed that knowing the right action meant you could carry it out. It did not account for ordinary conditions that shape how anyone shows up: too little sleep, conflict carried out of a morning meeting, attention already spent keeping the workday moving.
 
-The old allyship tells you what to do. It doesn't tell you how to be the kind of person who can do it sustainably. Who can show up in the hardest moments without freezing. Who can hold complexity without collapsing. Who can take feedback without disappearing. Who can stay in the conversation when it gets hard.
+You can know what to do and still freeze under pressure, answer defensively when feedback comes, take over because you cannot bear waiting, or avoid the next conversation.
 
-The old allyship produces moments of brilliance and long stretches of exhaustion. It produces people who care enormously and accomplish less than they could because they keep hitting the same wall. The wall that's not in the world, it's in them.
+Sometimes the obstacle is external: policy, resources, or another person's decision. Sometimes a pattern you bring to the moment makes the work harder. By the time you realize the map has sent you in the wrong direction, you may have already paid for it: a relationship damaged by a bad intervention, a role you cannot sustain, work you begin to avoid.
 
-Most people who do this work long enough hit a moment when the map turns out to be wrong, not about the destination, about where they had to start. The walking went in the wrong direction, and no one had mentioned a different starting point. By the time that lands, something has usually already been spent: energy, time, sometimes a relationship, sometimes the belief that you could be the kind of ally you wanted to be.
-
-Some of what gets called burnout is that cost still being carried. It sits closer to sadness than to fatigue: the sadness of having done your best against a broken map, of loving the work and finding it wasn't enough. The terms were set wrong from the beginning, and no one failed.
-
-That sadness is information. It tells you what mattered.
+Some of what gets called burnout includes grief, anger, exhaustion, and relief. Those feelings can coexist after you learn that effort alone was not enough. They tell you different things about what happened and what mattered.
 
 Every time we hit the wall, we have a choice: turn back, or go through.
 
