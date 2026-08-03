@@ -350,7 +350,7 @@ The Field-Holder demands more sheer presence than any other Diplomat mode. The w
 
 Here is what its absence looks like: a person who can hold a conversation only when it is already safe. Who can mediate in calm conditions, but who falls apart the moment the field becomes truly charged. The Field-Holder's absence shows up as a kind of presence collapse. The moment something difficult happens, they either escalate into the conflict or withdraw until there is no field left. They can hold the good conditions; they cannot hold the bad ones.
 
-Here is what its distortion looks like: a performative calm, actually a freeze response. The distorted Field-Holder mistakes stillness for safety. They sit in the middle of chaos and perform peace, believing that their equanimity will regulate the field. This is collapse masquerading as calm. Real Field-Holding contains the charge rather than removing it. The field stays charged. The Field-Holder does not calm it down. They give it a shape. Note the difference from the Challenger's Stand, a subtraction: you finish the sentence and add nothing. Hold is addition, and it costs, and it does not end when the silence does. They say: *this charge has somewhere to go. It can move through here without destroying anything.*
+Here is what its distortion looks like: a performative calm, actually a freeze response. The distorted Field-Holder mistakes stillness for safety. They sit in the middle of chaos and perform peace, believing that their equanimity will regulate the field. This is collapse masquerading as calm. Real Field-Holding contains the charge rather than removing it. Whoever brought the charge keeps it. The Field-Holder does not take it off them or talk anyone down. They give it a shape. Note the difference from the Challenger's Stand, a subtraction: you finish the sentence and add nothing. Hold is addition, and it costs, and it does not end when the silence does. They say: *this charge has somewhere to go. It can move through here without destroying anything.*
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 1 — Inclusion-Performance → Genuine Inclusion**
 
@@ -358,7 +358,7 @@ The Dissatisfaction here is **inclusion-performance**. You open the retro by tel
 
 The field is what happens between people in relationship with each other, and allyship is a relationship. Everyone there makes it, and it lasts only as long as they are all still there. A physical field holds itself. This one needs tending, which is why Hold costs more, and why it is the one move you cannot make alone.
 
-The alchemy: *I stop announcing that the field is open and find out whether anyone will use it.* Anxiety shows up while you do this, and it reads the situation correctly, because a charged field costs more to hold than a calm one. Treat it as the weather you work in. What you are watching for is growth, and you know it arrived when somebody says what they had decided in the parking lot not to say. Their sentence is between everyone now, and you could not have said it for them. That is the Wood channel completing, and Bliss is what it feels like to hold a field that grew what you did not plant.
+The alchemy: *I stop announcing that the field is open and find out whether anyone will use it.* Anxiety shows up while you do this, and it reads the situation correctly, because a field with somebody's real stake in it costs more to hold than a calm one. Treat it as the weather you work in. What you are watching for is growth, and you know it arrived when somebody says what they had decided in the parking lot not to say. Their sentence is between everyone now, and you could not have said it for them. That is the Wood channel completing, and Bliss is what it feels like to hold a field that grew what you did not plant.
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 2 — Hothouse Safety → Hardy Field**
 
@@ -374,9 +374,9 @@ The alchemy: *I stop protecting the field and start building one that can take w
 
 **[CONTROL] — Neutral Channel: Presence Collapse Pattern**
 
-The Neutral Channel pattern here is **presence collapse**, the behavioral pattern of withdrawing the moment the field becomes charged. The Field-Holder who has not done their internal work shows up for every calm conversation and vanishes from every difficult one. The Control move redirects this pattern into structure:
+The Neutral Channel pattern here is **presence collapse**, the behavioral pattern of withdrawing the moment somebody charges it. The Field-Holder who has not done their internal work shows up for every calm conversation and vanishes from every difficult one. The Control move redirects this pattern into structure:
 
-**The structure of the Precedent of Presence:** You establish, in advance, a commitment to staying present when the field becomes charged. You decided on it; nothing obliged you. The commitment is the structure. You say so in advance: *I don't leave when it gets hard. I practice that rather than declare it.* The collapse pattern dissolves into a personal precedent the people around you can depend on. You have made yourself a reliable structure because you decided in advance, before the charge arrived.
+**The structure of the Precedent of Presence:** You establish, in advance, a commitment to staying present when somebody charges it. You decided on it; nothing obliged you. The commitment is the structure. You say so in advance: *I don't leave when it gets hard. I practice that rather than declare it.* The collapse pattern dissolves into a personal precedent the people around you can depend on. You have made yourself a reliable structure because you decided in advance, before anybody charged it.
 
 Staying spends real capacity. Naming that cost belongs to the holding, because unnamed depletion eventually becomes disappearance.
 
