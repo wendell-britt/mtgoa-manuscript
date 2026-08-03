@@ -91,11 +91,59 @@ grades:
                named characters, proper names, personal pronouns,
                # Added 2026-08-02. The population reading of the fables. R8 is
                # the conversion from grade 6 `the village` to this.
-               the villagers, the people there, everyone at the table]
+               the villagers, the people there, everyone at the table,
+               # RULED by Wendell 2026-08-03. The six Faces plus the Player.
+               # See `constraints` below -- they are ROLE NOUNS, and a role noun
+               # takes the verbs of whoever fills the role.
+               the Shaman, the Challenger, the Regent, the Architect,
+               the Diplomat, the Sage, the Player]
     verb_classes: [perception, intention, speech, social-causal, mechanical,
                    directional, causal-bare, pattern]
-    trace: n/a
-    constraints: none
+    trace: >
+      n/a for persons. For the Faces: role noun, and the occupant is the reader,
+      a named Head, or a fable character.
+    constraints: >
+      THE FACES, ruled 2026-08-03. They had never been in this registry at any
+      grade, so 127 Face-subject instances across 69 distinct verbs had never
+      been scanned by anything. Only `Diplomat shadow` was listed, at Grade 2.
+      The open question was recorded as "are the Faces Grade 2 or Grade 6", and
+      the answer is neither.
+
+      NOT GRADE 2. That grade is INTERIOR parts, and its own voice anchor is
+      built on one: "I have a part of me I call Mr. Inadequate ... the Fixer is
+      happy to take him" (VOICE_ANCHOR.md anchor 4, ch5:516). The Faces are not
+      interior to anyone. They are modes any reader can occupy, and in the
+      fables they are characters with independent biographies.
+
+      NOT GRADE 6. That grade is pattern residue. A Face is not the residue of
+      anything; it is a mode of acting.
+
+      THEY ARE ROLE NOUNS, and a role noun takes the verbs of whoever fills the
+      role -- the surgeon operates, the referee calls it. The book states the
+      occupant outright at ch9:51: "you don't *become* one of them: you *move
+      through* all of them, depending on what the moment requires." A map, not a
+      menu. So C1 is satisfied directly, the mechanism being the person in the
+      seat: the reader, a named Head (Maera Voss, Keeper of First Signals; Corin
+      Ash, Master of the Clean No; Quill, Keeper of Continuance), or a character
+      inside an origin fable.
+
+      This also answers the census's own puzzle, "you cannot pluralize the
+      Regent". Correct -- a role noun is already generic, and R8 has nothing to
+      do here in either direction.
+
+      THE ONE CONSTRAINT, which keeps Grade 1 from being a blank cheque: THE
+      OCCUPANT MUST BE RECOVERABLE. If a Face acts where no person could be
+      filling the seat, that is the flag. This is the test, not a verb-class
+      list -- Grade 1 licenses every class, so a class list would say nothing.
+
+      Known strain, recorded so a later pass does not think it found something:
+      ch1:193, "the WAVE, which the Shaman hands you in Chapter 3", is the only
+      instance in the book of a Face acting on the reader from outside the
+      frame. It reads as "which Chapter 3 hands you". Licensed at Grade 1, not a
+      defect, and the lone exception to the pattern.
+
+      `Diplomat shadow` stays at GRADE 2. A shadow is an interior distortion,
+      which is a different thing from the Face itself.
 
   - id: 2
     name: Animate parts

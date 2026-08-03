@@ -176,7 +176,12 @@ what the Jerk archetype forbids. That pattern needs R1 or R2, never R8.
    may be doing the same work anchor 3 protects.
 3. **ch3:123**, the *"never meant"* exile sentence — pluralizing risks converting a
    diffuse-drift claim into an individually-exculpatory one.
-4. **Are the Faces Grade 2 or Grade 6?** Anchor 4 licenses named-part personification, but
+4. **CLOSED 2026-08-03 — RULED GRADE 1 (DL-40).** Neither branch was right: the Faces are
+   **role nouns**, and a role noun takes the verbs of whoever fills the role. The book names
+   the occupant at ch9:51 — *"you don't become one of them: you move through all of them."*
+   The constraint is that **the occupant must be recoverable**. The note below stands as the
+   correct diagnosis of why Grade 2 did not fit. ~~Original question:~~
+   **Are the Faces Grade 2 or Grade 6?** Anchor 4 licenses named-part personification, but
    every uncontested Grade 2 use is framed *"a part of me"* — interior to one person — while
    the Faces act externally on a population with independent biographies. R8 cannot apply
    either way; you cannot pluralize the Regent.
