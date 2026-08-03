@@ -35,7 +35,10 @@ diffs. A change he cannot see in the console has not been shown to him.
 When asked to edit, run the WAVE Editing Spiral:
 **Full spec:** `The-Library/The Library/07 Book OS/SPEC_BOOK_EDITING_PROCESS.md`
 
-**Rule:** ALWAYS do pre-session 321 somatic practice (https://wendellbritt.zo.space/321)
+**Practice:** The 321 somatic practice is author-led and optional. Do not access
+or require the Zo surface as an automated precondition for analysis, planning,
+drafting, review, or canonical edits. It never blocks editorial work. Wendell may
+choose to do a somatic practice independently or request one explicitly.
 **Rule:** ALWAYS git commit before and after editing
 **Rule:** ALWAYS update tracker after session
 
