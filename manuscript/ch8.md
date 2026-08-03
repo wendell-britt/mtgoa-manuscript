@@ -570,6 +570,8 @@ Put them together and you get the thing the last chapter of a book about allyshi
 
 You know what your Damaged Self is for now. That is what you take out.
 
+Theirs is doing the same job in a Forest you cannot see into. A stranger's Damaged Self carries weight it has already agreed to carry, and asking it to account for the weight is one more thing to carry. Take load off without requiring the account, and the door opens.
+
 ---
 
 ## Section 6: The Game

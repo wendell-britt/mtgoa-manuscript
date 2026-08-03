@@ -716,6 +716,8 @@ That is what the Alchemist runs on. You cannot burn a charge you never let yours
 
 You know what your Controller is for now. That is what you take out.
 
+Theirs is doing the same job in a Forest you cannot see into. A stranger's Controller enforces a rulebook you have never read, so it fires when you arrive holding a better standard, and it opens when you meet the one they already keep. You earn clearance with a Controller by keeping their rule.
+
 ---
 
 ## Section 6: The Game

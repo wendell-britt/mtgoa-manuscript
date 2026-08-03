@@ -79,7 +79,7 @@ SHAPES = [
      # `Here they are` added 2026-08-01, batch seven: Wendell flagged it opening the
      # *Which Game Are You Playing* section. Same move as `Here is the`, one pronoun over.
      r"(Here is (?:what|where|why|how|the)\b|Here's (?:what|where|the)\b|"
-     r"Here they are\b|Here is the (?:thing|point)\b|"
+     r"\bHere they are\b|Here is the (?:thing|point)\b|"
      r"I will say it plainly|let me be clear|I want to be careful here|"
      r"What most people get wrong|the part (?:most people|everyone)|"
      r"what nobody tells you|the uncomfortable truth)"),

@@ -416,6 +416,8 @@ So the map is the artifact, and you already know how to make one. The Architect'
 
 You know what your Emotional Body is for now. That is what you take out.
 
+Theirs is doing the same job in a Forest you cannot see into. A stranger's Emotional Body is a sensor that learned not to output in front of people, so naming out loud what you can see it doing is the fastest way to close a door. Clearance opens when the feeling gets to stay theirs.
+
 ---
 
 ## Section 6: The Game

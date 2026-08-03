@@ -542,6 +542,8 @@ That forms the Connector's foundation, and the word usually means something else
 
 You know what your Victim is for now. That is what you take out.
 
+Theirs is doing the same job in a Forest you cannot see into. A stranger's Victim guards a story and the returns on telling it, and some of those returns are real: sympathy, an exemption, a reason to stay where they are. Say that out loud and the door shuts for good. Clearance here comes from feeling it with them without confirming them in it, which is the line this chapter has been drawing for you all along.
+
 ---
 
 ## Section 6: The Game
