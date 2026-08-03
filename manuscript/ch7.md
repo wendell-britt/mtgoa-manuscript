@@ -356,7 +356,7 @@ Here is what its distortion looks like: a performative calm, actually a freeze r
 
 The Dissatisfaction here is **inclusion-performance**. You open the retro by telling everyone no topic is off the table, and you mean it, and then the hour runs, everyone reports status, and what actually happened last sprint never comes up. You ran a good meeting and never got near the field.
 
-The table is the furniture. The field is what sits between the people at it, and it lasts only as long as they are all still there. The field has to stay open while people move around inside it, which is why Hold costs more, and why it is the one move here you cannot make alone.
+The field is what happens between people in relationship with each other, and allyship is a relationship. Everyone there makes it, and it lasts only as long as they are all still there. A physical field holds itself. This one needs tending, which is why Hold costs more, and why it is the one move you cannot make alone.
 
 The alchemy: *I stop announcing that the field is open and find out whether anyone will use it.* Anxiety shows up while you do this, and it reads the situation correctly, because a charged field costs more to hold than a calm one. Treat it as the weather you work in. What you are watching for is growth, and you know it arrived when somebody says what they had decided in the parking lot not to say. Their sentence is in the field now, and you could not have put it there. That is the Wood channel completing, and Bliss is what it feels like to hold a field that grew what you did not plant.
 

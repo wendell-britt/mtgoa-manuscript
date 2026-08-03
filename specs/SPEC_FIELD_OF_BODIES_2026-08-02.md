@@ -81,9 +81,26 @@ source term the sentence was missing.
 14 sites in ch7, **including `ch7:359`'s own second clause** — *"people move around inside
 it"* — four clauses after the definition says *between*.
 
-**R-C · Field means the charge, never the place.** The place words are the ones the book
+**R-C · Field means the charge, never the place.** ~~The place words are the ones the book
 already owns and ch7 already names: **the table** — *"The table is the furniture"* — which
-runs 4 times in ch7 against `field`'s 119. The distinction is canon, stated once, unused.
+runs 4 times in ch7 against `field`'s 119. The distinction is canon, stated once, unused.~~
+
+**WITHDRAWN 2026-08-02, by Wendell, in the same ruling that rewrote ch7:359.** His words:
+*"Why does it matter that a table is a thing? Specifically a thing you can touch? I think
+there's too much handwaving over what a field is not."* Then: *"I still have no idea why we
+are talking about a table in this context. I want to cut it."*
+
+The table sentence is gone from ch7:359 and R-C has no anchor left. **This is a correction
+of the analysis, not a change of mind about the physics.** R-C was built on a contrast — a
+field is not furniture — and a contrast is a definition by negation, which is the weakest
+form available and the one the rewrite replaced with a positive mechanism: *the people make
+it, and it needs tending.* A reader who knows what generates a field does not need to be
+told what a field is not.
+
+**What R-C was actually catching now routes to R-B**, and the two were never separable:
+every place-sense site in ch7 is a place-sense site *because of its preposition*. Fix the
+preposition and the sense follows. The residue R-B cannot reach — the handful of sites that
+say `field` where they mean the meeting or the room — is a small hand list, not a rule.
 
 ---
 
@@ -110,38 +127,61 @@ So R-A adds bodies as **sources and as questions**, never as reports:
 
 ---
 
-## 5 · Worked example — `ch7:359`, the definition
+## 5 · `ch7:359`, the definition — **DONE 2026-08-02**
 
-The whole ruling lands or fails on this sentence, and it is the one that currently contains
-both readings.
+The whole ruling landed on this sentence, and it was the one that contained both readings.
 
-> **now** — The table is the furniture. The field is what sits between the people at it, and
+> **was** — The table is the furniture. The field is what sits between the people at it, and
 > it lasts only as long as they are all still there. **The field has to stay open while
 > people move around inside it**, which is why Hold costs more, and why it is the one move
 > here you cannot make alone.
+>
+> **now** — The field is what happens between people in relationship with each other, and
+> allyship is a relationship. **Everyone there makes it**, and it lasts only as long as they
+> are all still there. A physical field holds itself. **This one needs tending**, which is
+> why Hold costs more, and why it is the one move you cannot make alone.
 
-Three defects in one sentence: the field is *what sits between* (correct) but nothing says
-the people **make** it; *inside it* contradicts *between* four clauses later; and the
-bodies are called *people* without ever being the source.
+Three defects went out. The field was *what sits between* — correct, but nothing said the
+people **make** it: now *Everyone there makes it*, which is R-A stated in the definition
+itself. *Inside it* contradicted *between* four clauses later: gone, and with it the
+chapter's most-cited instance of R-B. And the bodies were called *people* without ever being
+the source.
 
-**Not drafted here.** This sentence is the chapter's definition of its own key term and the
-one the agency registry's entire `the field` entry derives from. It wants Wendell's hand or
-his explicit go, not a proposal buried in a spec.
+**What the sentence gained that the spec had not asked for.** The physics comparison now
+runs as a contrast rather than an identity — *a physical field holds itself; this one needs
+tending* — which is more accurate than the frame as originally stated. A gravitational field
+is a free consequence of mass. A relational field is not free, and Hold costing more is the
+whole reason the Diplomat is a hard Face. **The energetic frame survives; the free-lunch
+part of it does not.**
+
+Scores: copula 2.29 → 0.86, be 1.74 → 1.68. Voice, gate, seam, round-trip all clean. 55
+words.
 
 ---
 
-## 6 · Proposed order
+## 6 · Order — state as of 2026-08-02
 
-1. **`ch7:359` first**, because every other site inherits from it and the registry entry
-   quotes it.
-2. **R-B, the prepositions.** 14 sites, mechanical, verifiable, no new prose.
-3. **R-C, place-sense to the table.** Small in ch7. Ch3's six pitch sites are a **separate
-   ruling** — zero vocabulary overlap, and they are doing coherent work inside the game
-   frame with a referee and bounds that a table does not have.
-4. **R-A, bodies as sources.** Last, because it is the only one that writes new prose, and
-   it should be written against a definition that has already been fixed.
-5. **Redo the eight relocations from earlier today.** They used *the people in the field*
-   and *the people in it* — the container reading — and are on the wrong side of R-B. They
-   want *the people at it*, the definition's own preposition.
-6. **Amend `agency_registry.yaml`'s `the field` entry**, whose trace currently derives from
-   the unrepaired ch7:359.
+1. ~~**`ch7:359` first**, because every other site inherits from it and the registry entry
+   quotes it.~~ **DONE** — §5.
+2. ~~**Amend `agency_registry.yaml`'s `the field` entry**, whose trace derives from the
+   unrepaired ch7:359.~~ **DONE** — the note now quotes the rewrite, records that the people
+   *generate* the field rather than occupy it, and carries the preposition rule forward.
+3. ~~**R-C, place-sense to the table.**~~ **WITHDRAWN** — §3, and what it caught folds into
+   R-B.
+4. **R-B, the prepositions.** 13 sites remaining in ch7 — ch7:359's own was the fourteenth
+   and went out with the rewrite. Mechanical, verifiable, no new prose. **Next.**
+5. **Redo the eight relocations from 2026-08-02.** They used *the people in the field* and
+   *the people in it* — the container reading — and are on the wrong side of R-B. They want
+   *the people at it*, the definition's own preposition. Fold into 4; same rule, same file,
+   and running them apart risks a second pass contradicting the first the way this one
+   contradicted the ledger.
+6. **R-A, bodies as sources.** Last, because it is the only one that writes new prose, and
+   it should be written against a definition that has already been fixed. The definition now
+   is: *Everyone there makes it.* R-A's job in the rest of the chapter is to keep saying so
+   in the body's vocabulary rather than the abstract one. BODY = 6 per 78,461 chars is the
+   measurement it has to move.
+
+**Still separately unruled, and unchanged by any of this:** ch3's six `onto the field` pitch
+sites, and the `Hothouse Safety → Hardy Field` heading at ch7:363/365 — which the rewrite
+may have quietly rescued, since a hardy field is one that *needs tending and gets it*, and
+that is now the definition's own second half rather than a stray cultivation metaphor.
