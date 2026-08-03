@@ -136,7 +136,7 @@ Behind the bouncer, the person is working out three things about you, and that t
 
 The first two are things you do. The third is a thing you are, and that difference runs the whole economy. Doing leaves a record somebody else can check. You got better at it or you did not. You kept your word or you did not. What you are leaves no record, so they guess.
 
-So you cannot work on the third one directly. You can become a kinder person, and it matters, and it still does not put the finding in their head. A decade of somebody having you wrong is available to anybody who wants one.
+So you cannot work on the third one directly. You can become a kinder person, and it matters, and it still does not put the finding in their head. A decade of being seen incorrectly is available to anybody who wants one.
 
 I have just handed you a diagram of how trust gets built, and a diagram like that doubles as instructions for faking it. I know, because I have used it that way. Looking capable is cheaper than getting good. Sounding reliable is cheaper than being reliable. The shortcut works, which is the honest problem with it. It just pays nothing. Tricking somebody into believing you are a good person is not a feeling anybody enjoys, including the person doing it.
 
