@@ -509,11 +509,11 @@ The five modes describe who you are while you work. Review, Discern, Design, Bui
 
 **Why it matters:** A wide field never requires a choice. The Player in distortion keeps it wide for exactly that reason. As long as the problem stays *injustice*, or *the culture*, or *how people treat each other*, no specific act ever announces itself as the next one, and nothing you do can ever count as having failed. The cut matters because the cut makes the work falsifiable. A problem narrow enough to fail is a problem narrow enough to solve.
 
-In practice: write the sentence, then delete every clause that is there to make the problem sound bigger than it is. What survives is usually one group of people, one situation that keeps recurring, and one thing that keeps not happening. If you cannot say who it is for, you have named a topic rather than a problem.
+In practice: write the sentence, then delete every clause that is there to make the problem sound bigger than it is. What survives is usually one group of people, one situation that keeps recurring, and one thing that keeps not happening. Take the sentence to somebody living with the problem and ask what you missed. If you cannot say who it is for, or the people named say you have named it wrong, you have a topic rather than a problem.
 
 **Example:** *I want to help people be better allies* is a topic. *People who have done the reading still default to their home Face the moment something lands hard, and there is nowhere to practise the difference* is a problem. The second tells you what to build by Friday. Then cut once more, to whose problem: *the three on my team who stopped putting anything forward after the restructure.* Now a stranger can repeat it back, and you know whose Friday you are building for.
 
-**The test:** A stranger can repeat your sentence back to you without adding anything. Picking the right problem is a separate question. If they have to ask which part you mean, the field is still wide.
+**The test:** A stranger can repeat your sentence back to you, and somebody affected by it can recognize their problem without having to translate you first. They may correct the cut. Let them.
 
 ---
 
@@ -523,9 +523,9 @@ In practice: write the sentence, then delete every clause that is there to make 
 
 **Why it matters:** Earlier in this chapter the tell was direction, is the work moving toward contact with someone, or away from it. This move is that tell converted into an act, and it is the only one of the five that cannot be performed alone. Contact is also the only information a build cannot generate about itself. Refinement is a closed loop: you will not find out whether the thing works by looking at it harder, for longer, with better taste. A person who is not you is the instrument.
 
-In practice: one person, not an audience. The audience version becomes a launch, and you can spend a year preparing for a launch. One person can happen this week. Say what you want from them before you show it, *tell me where you got confused*, or *tell me whether you'd use it twice*. An unspecified ask gets you encouragement: the least useful thing a human being can hand you.
+In practice: one person, not an audience. The audience version becomes a launch, and you can spend a year preparing for a launch. One person can happen this week. Ask before you show it: *Would you be willing to try this unfinished thing with me? I want to know where you got confused, and I will use your answer to change it.* Make refusal easy. If the ask costs them time, access, or labor, decide what you can give back before you make it. An unspecified ask gets you encouragement: the least useful thing a human being can hand you.
 
-**Example:** One facilitator builds a workshop for six months and runs it for the first time on the day it is supposed to be good. Another builds a rough version in three weeks, runs it badly for Rosa on a Tuesday, finds out the second exercise makes people defensive, and rebuilds before anyone has paid for anything. Rosa is not a test audience. She is the first person it was for, and she got the worst version of it, which is what the showing costs her.
+**Example:** One facilitator builds a workshop for six months and runs it for the first time on the day it is supposed to be good. Another asks Rosa to try a rough version on a Tuesday, tells her the second exercise may be wrong, and listens when she says it makes people defensive. Rosa can decline, and she knows what her answer will change. She is not a test audience. She is the first person it was for, and she got the worst version of it, which is what the showing costs her.
 
 **The test:** You showed it at the point you would rather have kept working on it alone, to one person who could answer you. Their verdict is theirs. The showing is yours.
 
@@ -565,11 +565,11 @@ In practice: name the variable before you run it. *This time the opening questio
 
 **Why it matters:** The Architect designs a system that runs without them, that is handoff, and it is a different move at a different altitude. This one goes further and costs more, because the Player hands over the right to alter the design itself. A practice that can only be run as written is already a tradition, and the Outlaw is coming for it. Handing over the pen is how a thing survives being wrong about something its maker could not see.
 
-In practice: be specific about what they are allowed to change. *You can change anything except the part where people say it out loud* is a real handoff. *Make it your own* is a compliment. Then watch them change it and do not correct the first thing they do differently.
+In practice: be specific about what they can change, stop, or replace, and ask what access they need for that authority to be real. *You can change anything except the part where people say it out loud* is a real handoff when they also have the materials, time, and standing to make the change. *Make it your own* is a compliment. Then watch them change it and do not correct the first thing they do differently.
 
 **Example:** Tess runs your practice with her group and drops the step you thought was the heart of it. You have two moves. Put the step back and you have a franchise. Ask what happened in the space where the step used to be, and you find out whether the step was the heart of it or whether you were. Say in advance which parts she may change. What she does inside that is hers.
 
-**The test:** You said, in advance and in specifics, what they were allowed to change. *Make it your own* is a compliment; a handoff names the boundary. What they do inside it is theirs.
+**The test:** You named the authority in advance, made the means to use it available, and accepted that the person may decide the practice should end. What they do inside that authority is theirs.
 
 ---
 
