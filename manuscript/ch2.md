@@ -68,23 +68,17 @@ Most people turn back. Of the ones who don't, most push through instead of going
 
 ### What's Different Now
 
-Something has shifted. It shows up as a tightening that doesn't quite release between hard conversations, a vigilance that no longer has a clear target and just hums.
+You can see the signs of a coalition starting to fray: a disagreement that once led to a hard conversation now leaves people on separate sides; someone stops bringing a concern because the last attempt went badly; feedback arrives after the decision has already been made.
 
-The conversations come with more charge. Coalitions that held through the last hard thing are fraying at edges that shouldn't be weak. The feedback, when it comes, comes fast, doesn't wait for you to be ready, doesn't come with enough context to land cleanly. The language keeps shifting, not because people move the goalposts but because the situation actually moves, and the words you practiced last year don't cover the new terrain. It can start to feel like falling behind, with no clear sense of what falling behind even means.
+The language changes because conditions change. People can also use new language to avoid accountability. Both make it harder to know what a situation requires.
 
-The inner work, the part most trainings skip, keeps showing up as the chokepoint.
-
-Here's what we know now:
+Inner work keeps appearing at the point where action breaks down.
 
 **You cannot ally from a place you have not explored.**
 
-You cannot draw a boundary you have not felt. You cannot hold someone else's pain without first being able to hold your own. You cannot challenge a system you do not understand. You cannot stay in the conversation when it gets hard unless you know what you're made of.
+Hard moments ask for more than the right language. They ask you to notice a boundary, another person, and the system in front of you—without defending, disappearing, or taking over.
 
-Knowing what you're made of requires going somewhere the world doesn't see. That somewhere is the Forest.
-
-The Forest is the place where the work actually happens: the inner landscape where the daemons wait, where you finally meet the parts that have been running the show, and where you can recognize the superpower shaped by your specific history and put it to work.
-
-The world is not fine. The people trying to fix it keep running into the same problem: themselves. This chapter is the threshold map.
+This chapter starts where allyship breaks down inside a hard moment.
 
 ---
 
