@@ -158,13 +158,13 @@ The Forest gives you terrain in which to see a pattern clearly. What you notice 
 
 The origin of this book is a rock in my shoe.
 
-George Floyd was murdered in May of 2020. My phone started filling up: white friends, mostly, checking in, asking if I was okay. I was glad they called. Something in the reaching out mattered.
+After George Floyd was murdered in May 2020, my phone began filling with messages from white friends: *Are you okay?* I was glad they called.
 
 Something else came with it. A sensation I couldn't name, small enough that I almost dismissed it (just a low friction, persistent, the way a stone in your shoe is not agony but is also not nothing). I had learned enough by then to know that small is not the same as unimportant. So I followed it.
 
 What I found was rage, not sadness. (The body is specific like that.)
 
-The part I did not say out loud: the rage was not new.
+The rage was old, but small enough that I had learned to treat it as background noise.
 
 I had learned, for reasons that started early and went deep, to keep my feelings below the waterline, away from other people's awareness, and often away from my own. This produces a permanent low-grade charge that the people around you never suspect. The rage wasn't new. I had just gotten very good at not knowing it was there.
 
@@ -174,9 +174,9 @@ My friends called to see if I was okay. They were not okay (disturbed, shaken, h
 
 I was not okay, and not for the reasons they assumed.
 
-The shamanic training I'd been doing said: everything can be used. Nothing is waste. The anger that shows up is signal. It is starting material. The Shaman's job is to find what the feeling wants to build, in place of managing it into something acceptable.
+I learned in shamanic training to treat anger as material: something to work with, not something to manage into acceptability. The Shaman's job is to find what a feeling wants to build.
 
-So I built something. The first version of Mastering the Game of Allyship was written from that anger, not despite it. Because my friends didn't need someone to absorb their feelings. They needed tools. I had spent years building tools that could do exactly this, and no one had thought to aim them at allyship yet.
+So I built something. The first version of Mastering the Game of Allyship was inspired by that anger. My friends didn't need someone to absorb their feelings. They needed tools. I had spent years building tools that could do exactly this, and no one had thought to aim them at allyship yet.
 
 The book is the alchemy. It came from a rock in my shoe. The framework came after. The research came after that.
 
