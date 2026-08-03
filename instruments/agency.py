@@ -79,7 +79,18 @@ friend friends parent parents child children partner partners manager
 teacher teachers head heads headmaster caretaker keeper somebody someone
 anyone everyone nobody wendell jordan maera ash quill vale cross orr bram tull
 architect challenger regent diplomat sage shaman player villager villagers
-one""".split())
+one
+protector controller skeptic fixer healer victim daemon daemons
+self body""".split())
+
+# The seven daemons joined ANIMATE on 2026-08-03, ruled by Wendell. They were
+# absent while the six Faces were present, which is the same class of subject:
+# `ch2:248` defines a daemon as a part that runs on its own, and Section 7's
+# whole walk is `The Protector has the joystick` seven times over. 39 of the
+# 207 Tier-1 sites this instrument reported were that personification, so 19%
+# of the book's headline agency number was the book working correctly.
+# `self` and `body` are here for the Damaged Self and the Emotional Body, whose
+# head noun is the second word.
 
 # An abstraction cannot hold a mental state or perform a speech act. Wendell's
 # test: "games can't want things like this."

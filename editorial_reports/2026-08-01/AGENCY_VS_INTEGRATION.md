@@ -122,9 +122,16 @@ the trap*), and its noun list holds none of the abstractions this book is built
 from: guilt, shame, help, harm, damage, definition, game, myth, trap. The check
 was not wrong; it was too small to find anything, and it had been reporting clean.
 
-`instruments/agency.py` replaces it, on real part-of-speech tags: **207 Tier-1
+`instruments/agency.py` replaces it, on real part-of-speech tags: **177 Tier-1
 sites** — an abstraction with a mental or speech verb, which cannot be metaphor —
-and 293 Tier-2 candidates where it might be.
+and 285 Tier-2 candidates where it might be.
+
+**Revised down from 207/294 on 2026-08-03**, when Wendell ruled the seven daemons
+into ANIMATE. They had been absent while the six Faces were present, so 30 Tier-1
+sites and 9 Tier-2 candidates were the book's own deliberate personification
+being counted as defects — `ch2:248` defines a daemon as a part that runs on its
+own, and Section 7's walk is *The Protector has the joystick* seven times over.
+The agentless rate moves 63% to 61%, and the five voice anchors 54% to 46%.
 
 **A caveat on the count.** The subject finder walks to the first finite verb and
 takes the last nominal before it, so a relative clause fools it: *"The people
@@ -152,7 +159,7 @@ the easiest sentence to write. Appendix A runs 84%.
 ## 7 · What follows
 
 1. **Two passes, sequenced.** Agency first — it is the one Wendell can see and
-   rule on, and 207 Tier-1 sites is a finite list. Integration second, and it is
+   rule on, and 177 Tier-1 sites is a finite list. Integration second, and it is
    the bigger number.
 2. **The unit differs.** Agency is a sentence-level fix. Integration is a
    *transition*-level fix; rewriting single sentences will not move it.
@@ -317,7 +324,7 @@ is the right size for a shape this specific.
 
 Four now, not three, and the fourth is the cheapest:
 
-1. **Agency** — sentence-level, 207 Tier-1 sites.
+1. **Agency** — sentence-level, 177 Tier-1 sites.
 2. **Integration** — transition-level, 79% against a 57% control. The biggest.
 3. **Pre-emption** — drafting-process-level, 83 sites.
 4. **Surface shapes** — phrase-level, 221 sites, and the only one of the four a

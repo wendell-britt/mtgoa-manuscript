@@ -21,12 +21,11 @@ trust that decides it` in a draft that had passed gate, diet and a hand slop
 pass -- `agency.py`'s own lists score it Tier 1, because `trust` is not in
 ANIMATE and `decides` is in MENTAL.
 
-**And its ANIMATE list holds the six Faces but not the seven daemons**, which
-this book personifies on purpose: `ch2:248` defines a daemon as a part that
-acts on its own, and the first walk is `The Protector has the joystick` seven
-times over. 39 of the board's 207 Tier 1 sites are daemon subjects. The board's
-number is cited in specs, so it is left alone; BOOK_ANIMATE below rules them
-for drafts and prints the ruling rather than hiding it.
+**Its ANIMATE list held the six Faces and not the seven daemons** until
+2026-08-03, when Wendell ruled the daemons in. That fix lives upstream now and
+the board moved 207/294 to 177/285. BOOK_ANIMATE below carries what is left:
+the named hypothetical people the Examples use, who score zero on the board
+today and appear the moment a draft introduces a new one.
 
 ## The two checks defined here rather than imported
 
@@ -74,12 +73,11 @@ ADVERBIAL_NOT = re.compile(
     r"(?:at|in|on|for|about|because of)\b[^.!?]{0,60}", re.I)
 
 
-# Subjects agency.py's ANIMATE does not carry but this book treats as agents:
-# the seven daemons, and the named hypothetical people the Examples use
-# (Dana ch3:896, Priya ch4:632, Marcus ch5:607, Nia ch7:594, Sam ch8:630,
-# Rosa ch9:528). Reported as RULED rather than dropped.
-BOOK_ANIMATE = set("""protector controller skeptic fixer healer victim daemon
-daemons self body dana priya marcus nia sam rosa imani""".split())
+# Named hypothetical people the Examples use (Dana ch3:896, Priya ch4:632,
+# Marcus ch5:607, Nia ch7:594, Sam ch8:630, Rosa ch9:528) are people and are
+# missing from agency.py's ANIMATE. They score zero on the board, so this is a
+# draft-time list only. Reported as RULED rather than dropped.
+BOOK_ANIMATE = set("""dana priya marcus nia sam rosa imani""".split())
 
 
 def compiled(entry):

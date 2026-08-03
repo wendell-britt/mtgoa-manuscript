@@ -14,14 +14,14 @@ sentence** — asked of every sentence in the book.
 
 | | sentences | animate subject | agentless |
 |---|---|---|---|
-| **whole body** | 5856 | 2125 | **64%** |
-| **the five voice anchors** | 26 | 12 | **54%** |
+| **whole body** | 5900 | 2273 | **61%** |
+| **the five voice anchors** | 26 | 14 | **46%** |
 
 ## 2 · Tier 1 — an abstraction with a mental or speech verb
 
 An abstraction cannot want, tell, ask, decide or notice. These are defects.
 
-**207 sites.**
+**177 sites.**
 
 - `rules` **tell** · front_matter/authors_note.md:19
   > The rules cannot tell the two directions apart, so they defend against both, and the believer pays for the defense.
@@ -33,9 +33,9 @@ An abstraction cannot want, tell, ask, decide or notice. These are defects.
   > The day allyship means being good, every exchange turns into a test you are taking, and the person in front of you stops being a person and becomes the examiner.
 - `it` **asks** · manuscript/ch1.md:93
   > Nothing in it asks whether you are good.
-- `chore` **asks** · manuscript/ch1.md:145
+- `chore` **asks** · manuscript/ch1.md:171
   > A chore asks you to grit your teeth against the pattern.
-- `pressure` **says** · manuscript/ch1.md:165
+- `pressure` **says** · manuscript/ch1.md:191
   > Naming your walk-away price and saying it before the pressure says it for you is a skill.
 - `work` **ask** · manuscript/ch2.md:39
   > The daemon work doesn't ask you to fix the Shadow.
@@ -47,12 +47,8 @@ An abstraction cannot want, tell, ask, decide or notice. These are defects.
   > The old allyship tells you what to do.
 - `it` **tell** · manuscript/ch2.md:57
   > It doesn't tell you how to be the kind of person who can do it sustainably.
-- `body` **knows** · manuscript/ch2.md:132
-  > The body knows exactly what is happening, maybe before anyone speaks, and the read gets set aside for the consensus, not for lack of capacity, but because body-knowing, i
 - `chapter` **asks** · manuscript/ch2.md:134
   > This chapter asks whether you will stop treating your own somatic intelligence as something that belongs to someone else.
-- `protector` **decides** · manuscript/ch2.md:262
-  > **Job:** If the Protector decides whether you live or die, the Controller decides *how* you live.
 - `it` **believes** · manuscript/ch2.md:264
   > It believes everyone should operate the way it believes the world should operate.
 - `it` **asks** · manuscript/ch2.md:268
@@ -65,8 +61,6 @@ An abstraction cannot want, tell, ask, decide or notice. These are defects.
   > It knows danger before you could prove it to anyone, because a hull that waits for proof is already taking on water.
 - `hull` **tell** · manuscript/ch2.md:298
   > The trouble: a hull built to survive cannot always tell which century it is in.
-- `body` **knows** · manuscript/ch2.md:304
-  > The body knows one shortcut around this, worth naming because it looks like love: you pull the other person inside your own hull, so that protecting them and protecting y
 - `days` **say** · manuscript/ch2.md:442
   > Within the next two days, say one body-read out loud to another person, and say it to someone where it isn't already safe to, in a live moment, not a debrief afterward.
 - `anger` **meant** · manuscript/ch3.md:77
@@ -83,12 +77,18 @@ An abstraction cannot want, tell, ask, decide or notice. These are defects.
   > Everything the School of the Body teaches argues for keeping it calibrated.
 - `function` **means** · manuscript/ch3.md:235
   > **Function** means what the read does once it leaves you.
+- `sentence` **said** · manuscript/ch3.md:235
+  > The sentence said to the face it concerns.
+- `situation` **says** · manuscript/ch3.md:652
+  > So the most careful, most informed person in the situation says nothing, and calls the silence rigor.
+- `council` **knew** · manuscript/ch3.md:697
+  > Everyone on the council knew it.
 
 ## 3 · Tier 2 — an abstraction with a volitional physical verb
 
 Live metaphor sometimes, defect sometimes. Candidates for a reader.
 
-**293 sites.**
+**285 sites.**
 
 - `assessment` **runs** · front_matter/authors_note.md:7
   > Everywhere else the assessment runs continuously, unwritten, delivered by people who will never read it back to you.
@@ -128,7 +128,7 @@ Live metaphor sometimes, defect sometimes. Candidates for a reader.
   > The definition guards one thing: the conditions where both of us can keep making real moves.
 - `it` **takes** · manuscript/ch1.md:111
   > It takes the charge you are most afraid to spend (the fear, the anger, the sadness most people are trained to keep down) and turns it into fuel that returns.
-- `opening` **gave** · manuscript/ch1.md:129
+- `opening` **gave** · manuscript/ch1.md:155
   > The opening gave you one reason to run allyship as a game: the frame sets distance between you and the outcome, and it hands you clear rules and objectives in a place whe
 
 ## 4 · Per component
@@ -136,22 +136,22 @@ Live metaphor sometimes, defect sometimes. Candidates for a reader.
 | Component | sentences | agentless | tier 1 | tier 2 |
 |---|---|---|---|---|
 | authors_note.md | 56 | **62%** | 1 | 5 |
-| ch1.md | 371 | **53%** | 6 | 27 |
-| ch2.md | 337 | **66%** | 16 | 30 |
-| ch3.md | 766 | **67%** | 23 | 29 |
-| ch4.md | 637 | **62%** | 23 | 23 |
-| ch5.md | 532 | **60%** | 17 | 26 |
-| ch6.md | 611 | **71%** | 26 | 28 |
-| ch7.md | 659 | **68%** | 28 | 25 |
-| ch8.md | 785 | **59%** | 34 | 36 |
-| ch9.md | 730 | **56%** | 22 | 30 |
-| APPENDIX_A_FOUR_ALLYSHIP_DOMAINS.md | 153 | **84%** | 6 | 22 |
+| ch1.md | 415 | **51%** | 6 | 28 |
+| ch2.md | 337 | **58%** | 13 | 26 |
+| ch3.md | 766 | **65%** | 20 | 29 |
+| ch4.md | 637 | **61%** | 20 | 22 |
+| ch5.md | 532 | **59%** | 14 | 26 |
+| ch6.md | 611 | **69%** | 21 | 27 |
+| ch7.md | 659 | **67%** | 24 | 25 |
+| ch8.md | 785 | **57%** | 28 | 34 |
+| ch9.md | 730 | **55%** | 20 | 30 |
+| APPENDIX_A_FOUR_ALLYSHIP_DOMAINS.md | 153 | **82%** | 5 | 21 |
 | APPENDIX_B_QUESTS_CAMPAIGNS.md | 19 | **63%** | 0 | 1 |
 | APPENDIX_C_FIVE_CHANNELS.md | 29 | **45%** | 0 | 1 |
 | APPENDIX_D_EMOTIONAL_ALCHEMY_PRACTICES.md | 14 | **79%** | 2 | 0 |
 | APPENDIX_E_321_SHADOW_PROCESS.md | 56 | **73%** | 1 | 0 |
 | APPENDIX_F_POLARITY_MAP.md | 33 | **76%** | 1 | 3 |
-| ON_THE_SHOULDERS_OF.md | 58 | **76%** | 1 | 5 |
+| ON_THE_SHOULDERS_OF.md | 58 | **74%** | 1 | 5 |
 | acknowledgements.md | 10 | **90%** | 0 | 2 |
 
 ## 5 · Does agency explain the reading cost?
@@ -162,6 +162,6 @@ before it, the two findings are one finding. Measured directly:
 
 | Sentence subject | transitions | starts on new information |
 |---|---|---|
-| a person | 1640 | **79%** |
-| not a person | 2757 | **78%** |
+| a person | 1749 | **79%** |
+| not a person | 2684 | **78%** |
 
