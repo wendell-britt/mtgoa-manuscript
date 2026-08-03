@@ -468,6 +468,29 @@ exceptions:
       - ch4:674  "a defence answers an accusation and Water made a report"
       - ch9:380  "The fear does not say / The fear says"
     handling: NEVER FLAG. Not an R-op. Not a W-question. Do not convert.
+    precedence: >
+      E-1 OUTRANKS SPEC_JORDAN_METAPHOR_ARC_CH1_CH3_2026-08-02.md section 5,
+      [METAPHOR_OVERREACH] "Feelings are information for inquiry, not messages
+      with fixed meanings", which requires that a feeling be framed as something
+      to investigate rather than obey and names "deliver a message" phrasing as
+      the risk.
+
+      The two documents were written the same day and pull opposite ways on the
+      same sentences. The Jordan spec was drafted from master, which did not
+      carry this exception. Wendell ruled 2026-08-03: "sadness says stands as
+      ontology, E-1 wins."
+
+      So the liturgical register keeps its authority-voice. `teach`, `say` and
+      `report` on a channel are not hedged, softened, or given a corrigibility
+      qualifier. "Sadness says: this was true. This connection was real." ships
+      as written.
+
+      What the Jordan spec still governs, because the ruling did not reach it:
+      the ETHICAL_GAP in the same section, on "Name the channel out loud"
+      becoming an unauthorized diagnosis in unequal-power settings. That is
+      about the reader naming a channel in someone ELSE, which is a different
+      act from a channel delivering a content about its own bearer. E-1 says
+      nothing about it and does not shield it.
     near_misses:
       # Caught by the sweep, cleared on SENSE rather than on E-1. Recorded so a
       # later pass does not re-flag them and then wrongly file them under E-1.
