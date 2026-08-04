@@ -68,7 +68,7 @@ One day she stops showing up. The village barely notices at first. Then slowly, 
 
 Across the village, a man operates differently. He is present too. He shows up, he contributes, he holds. He has also, once in a hard moment, surfaced what each side protected and named what staying would actually require. He said it without heat. He did not make it a threat. He did not weaponize it. He simply told the truth about the agreement: what it would hold, what it would cost each of them, what would have to change for his staying to remain real. In the weeks that followed, the village noticed something. His presence had become more valuable precisely because he had now chosen it, not scarce in the way of withholding, but scarce in the way of a person who had closed an honest negotiation and meant it. The village started treating his presence as something that could be lost. In treating it as something that could be lost, they started treating it as something that mattered.
 
-The Diplomat's gift has a name: integrative negotiation. It surfaces what each party protects, names stakes and sacrifices honestly, and closes toward terms the field can live with so that staying means something.
+The Diplomat's gift has a name: integrative negotiation. It surfaces what each party protects, names stakes and sacrifices honestly, and closes toward terms people can accept, refuse, or counteroffer, so chosen staying means something.
 
 Most people stay past the point of their usefulness. Most people absorb cost until they empty out and then leave without warning. Most people never surface what the agreement actually requires, so nobody treats their presence as the precious, chosen thing it is. The Diplomat understands that a staying which cannot name its terms is a staying without weight. A staying without weight is a staying that slowly, invisibly, stops meaning anything at all.
 
@@ -137,7 +137,7 @@ The terms I wrote at that table have held eleven years. Nobody has mentioned the
 
 Honest terms work as the opposite instrument. **A term is a statement of what this field must hold for your staying to remain real, offered as information, once, to the people who are then free to answer.** It states a fact about the arrangement rather than a demand or a condition of continued affection, and it arrives while anyone still has time to do something with it.
 
-The difference is not tone. The Diplomat's altitude gets it wrong here most often, because this altitude excels at tone. An ultimatum said warmly is still an ultimatum. An honest term said flatly is still an honest term. The difference is structural: an ultimatum removes the other party's freedom to answer, and an honest term is the specific act of giving it back to them. You cannot decline something you were never told about. A field that does not know what your staying requires has never once had the chance to choose you.
+The difference is not tone. The Diplomat's altitude gets it wrong here most often, because this altitude excels at tone. An ultimatum said warmly is still an ultimatum. An honest term said flatly is still an honest term. The difference is structural: an ultimatum removes the other party's freedom to answer, and an honest term gives the answer back to them. That answer is only free when refusal will not cost them safety, livelihood, or standing. A clean sentence cannot make an unequal negotiation equal. You cannot decline something you were never told about. People who do not know what your staying requires have never had the chance to choose it.
 
 <!-- MARGINALIA -->
 > *This is the sentence in the treatise I have quoted most and understood last.*
@@ -336,7 +336,7 @@ The Translate layer forms the operational core of the mode: you take the meaning
 
 The Neutral Channel pattern here is **intellectual superiority**: the behavioral pattern of using your fluency in multiple frameworks as a way to position yourself above the parties you translate between. "I see what you don't see about yourselves." The Control move redirects this pattern into neutral structure:
 
-**The structure of the Interpreter's Discipline:** You build a practice of checking your interpretation against the source. You develop a method: after translating, you return to the original speaker and ask: "did I get this right?" Not as performance, but as real correction. The superiority pattern dissolves into a discipline that actually improves your translations. The charge that contaminated your work becomes the structure that makes your work trustworthy.
+**The structure of the Interpreter's Discipline:** Before you carry an account across a divide, ask whether the person wants you to carry it. If they do, return after translating and ask: “did I get this right?” Let their answer correct the version you gave. If they do not want a translator, do not appoint yourself one. You may name your own position, or leave the account with the person who owns it. The superiority pattern dissolves into a discipline that improves your translations because it gives the source the right to refuse them.
 
 Precision costs here: the containment structure takes extra effort, and it pays off when accuracy matters.
 
