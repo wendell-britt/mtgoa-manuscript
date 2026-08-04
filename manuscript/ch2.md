@@ -267,14 +267,14 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 **As a demon:** it treats your standard as the rule everyone else should follow. *In play:* someone you are supporting gets a result their own way, and you focus on how they did it instead of recognizing that they got what they needed.
 
 #### The Skeptic
-**Job:** To doubt, so you don't get fooled.
-**As an ally:** it asks the hard question that makes a plan survive contact with reality. *In play:* a campaign is about to launch on a shaky assumption, and the Skeptic is what makes you pressure-test it before real people are counting on it.
-**As a demon:** it turns doubt into a barrier, making people prove they're worth believing before it will act. *In play:* a coworker tells you what they went through, and you find yourself needing more evidence before you'll take it seriously. The moment to help passes while you're still vetting it.
+**Job:** To question what you are being asked to believe, so you do not get fooled.
+**As an ally:** it tests an assumption before other people have to live with its consequences. *In play:* a campaign is about to launch on a shaky assumption, and you pressure-test it before real people are counting on it.
+**As a demon:** it demands proof before it will act. *In play:* a coworker tells you what they went through, and you keep looking for more evidence instead of taking their account seriously. The moment to help passes while you are still vetting it.
 
 #### The Fixer/Healer
-**Job:** To fix, in both senses of the word: to repair what's broken, and to hold something in place. It mends what's damaged, and it keeps what's settled from moving.
-**As an ally:** it repairs the circumstance and leaves the other person's healing in their own hands, and it holds steady what truly should stay put. *In play:* you change something about the situation so the other person can solve it themselves, rather than solving it for them.
-**As a demon:** it takes over, fixing people who never asked to be fixed; or it holds in place what ought to change, freezing a bad situation because moving it feels riskier than the harm it's doing. *In play:* a friend shares something hard and you're already three solutions deep, and they walk away having lost their own say in it.
+**Job:** To repair what is damaged and hold steady what needs stability.
+**As an ally:** it changes the conditions that need changing without taking over another person's healing. *In play:* you change something about a situation so the other person can address the problem themselves.
+**As a demon:** it takes over when no one asked it to, or keeps a harmful situation in place because change feels riskier. *In play:* a friend shares something hard, and you are already three solutions deep before you have asked what they need.
 
 #### The Emotional Body
 **Job:** The seat of your emotional life, where feeling gets processed into meaning.
