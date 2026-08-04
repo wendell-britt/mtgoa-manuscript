@@ -90,13 +90,19 @@ entries, spend*):
 
 ch7 runs `charge` in the energy sense 28 times, including inside this same section.
 
-**This may be a pun rather than a defect**, and that is why it is not on a fix list. The
-Victim's shadow *is* the ledger, and a word that means both *the feeling you carry* and
-*the bill you present* is doing real work if it is on purpose. If it is not on purpose, it
-is one word carrying the chapter's central term and its central metaphor at once, in the
-same sentence, and `bill` is available for one of them.
+**RULED 2026-08-03 — Wendell: *"do the charge and board collisions."*** Not a pun, so
+`charge` gives the accounting slot up:
 
-**Wendell's call, and it is a small one either way.** The whole exposure is two sentences.
+> `ch7:590` — *"only a cost you can name and **do not bill for** reads as a choice"*
+
+The fix was already sitting in the same paragraph. `bill` appears two sentences earlier in
+*"decline to bill for it"*, so the passage had picked its accounting verb and then reached
+for `charge` on the restatement. One word changed, and `charge` now means energy everywhere
+in the manuscript.
+
+The repetition of `bill` across the two sentences is deliberate: they are the same claim
+stated twice, once as the Victim's capacity and once as the reason it matters, and matching
+the verb makes the parallel visible.
 
 ---
 
@@ -110,11 +116,17 @@ game.
 > *"handing the community fund to Marcus, who has run nothing this size and **did not come
 > up through the board**"*
 
-That is a board of directors, in a book where `the board` is where the pieces are. One
-instance, in a chapter that has no other use of the word, so a reader is unlikely to
-stumble — but it is the only site in the manuscript where `board` means an institution, and
-`the committee` or `the council` would cost nothing. **ch5 already runs `the council`**,
-and the village fable uses councils throughout.
+That is a board of directors, in a book where `the board` is where the pieces are. The only
+site in the manuscript where `board` means an institution.
+
+**RULED 2026-08-03, same instruction.** → *"did not come up through the **committee**."*
+
+`committee` over `council`, which was the first candidate: ch5's six councils are all the
+village fable's, and the Marcus scene is a present-day handover. Borrowing the fable's word
+for it would trade a small collision for a larger one. `committee` is unused in ch5 and
+carries no game sense anywhere in the book.
+
+`board` now means the game board at all 37 sites.
 
 ---
 

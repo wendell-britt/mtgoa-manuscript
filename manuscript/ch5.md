@@ -655,7 +655,7 @@ In practice: Identify one commitment you've made that nobody watches you keep. D
 
 In practice: When you're transitioning out of something, ask: *am I giving the next person enough to run with, or am I giving them my anxiety about how it should look?* Let go of the outcome. Trust the inheritance.
 
-**Example:** You are handing the community fund to Marcus, who has run nothing this size and did not come up through the board. Your instinct is to give him the spreadsheet, the calendar, and forty minutes on what went wrong in 2019. Give him the 2019 story and the reason the rule exists. Leave out the part where you tell him what you would do. He will spend the fund on something you would not have chosen, and the choosing is what you handed him.
+**Example:** You are handing the community fund to Marcus, who has run nothing this size and did not come up through the committee. Your instinct is to give him the spreadsheet, the calendar, and forty minutes on what went wrong in 2019. Give him the 2019 story and the reason the rule exists. Leave out the part where you tell him what you would do. He will spend the fund on something you would not have chosen, and the choosing is what you handed him.
 
 **The test:** What you handed over was context rather than anxiety. Context lets them decide; anxiety tells them what you need the outcome to look like. Their version will differ from yours. Let it.
 
