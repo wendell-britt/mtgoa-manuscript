@@ -5,6 +5,32 @@
 
 ---
 
+## Session — 2026-08-04 · Ch2 reader-run application
+
+Branch `editorial/ch2-reader-run-application`. Applies the approved Chapter 2 reader-run
+ledger against the current review baseline, in bounded commits.
+
+**Applied.** The opening now defines Shadow before crediting Carolyn Elliott; Face in distortion
+and cost have direct reader-facing definitions. The old-allyship diagnosis names concrete
+conditions, responses, and costs rather than generic body claims. The Forest is introduced as
+noticing a pattern before its next move, demonstrated in a meeting, and kept separate from
+daemon teaching. The origin story grounds the George Floyd check-ins and treats anger as
+material. The game-and-school bridge establishes the unnamed fictional school on a ship as the
+field of play. The daemon order is now Protector encounter → Robin Rice lineage and daemon
+definition → seven-daemon roster → recognition guidance; roster names are `####` headings.
+The Headmaster transition now names the school and its function.
+
+**Protector.** The opening replaces the unsupported evolutionary account and generic bracing
+claims with threat discrimination, boundaries, and the felt-safety/contact trade. The remaining
+Protector material and individual daemon entries are candidates for a later focused line pass,
+not unfinished structural work.
+
+**Verification.** `dupes.py` clean; `marginalia/review.py manuscript/ch2.md` reports BLOCK 0,
+WARN 0; `gate.py` reports 0 on every surface; anchor verification clean; `compile.py --check`
+passes. The pass changed only `manuscript/ch2.md` and this tracker on this branch.
+
+---
+
 ## Session — 2026-08-01 · ch2 leaves the fiction
 
 Branch `claude/treatise-wendell-content-boundaries-78sq54`. Full ruling in

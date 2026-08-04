@@ -76,7 +76,7 @@ Inner work keeps appearing at the point where action breaks down.
 
 **You cannot ally from a place you have not explored.**
 
-Hard moments ask for more than the right language. They ask you to notice a boundary, another person, and the system in front of you—without defending, disappearing, or taking over.
+Hard moments ask for more than the right language. They ask you to notice a boundary, another person, and the system in front of you, without defending, disappearing, or taking over.
 
 This chapter starts where allyship breaks down inside a hard moment.
 
@@ -117,7 +117,7 @@ You may have done everything the work asked: showed up, listened, gone to the tr
 
 The question is: Were you doing this to change something, or to seem like the kind of person who would?
 
-In a meeting, someone stops answering the central question. The room begins circling safer topics. Agreement matters more than honesty. You notice what is happening, then set that read aside.
+In a meeting, someone stops answering the central question. The conversation shifts to safer topics. Agreement matters more than honesty. You notice what is happening, then set that read aside.
 
 In the same way you do not need permission to notice what is going on in your body, you do not need permission to notice what is going on in the places where your body is. You might not be correct in your read, but it is better than not being present at all.
 
@@ -230,7 +230,7 @@ The Protector works the door of the Forest. It is the part of you that responds 
 
 The Protector does not need to be right every time to do its job. As long as it believes it is protecting you, it can be imprecise about the threat in front of you.
 
-The work is to let the Protector respond to what is actually happening, rather than to every danger it can imagine. When it treats the whole room as dangerous, it stops distinguishing between behavior that calls for a boundary and discomfort you can remain present through.
+The work is to let the Protector respond to what is actually happening, rather than to every danger it can imagine. When it treats the whole situation as dangerous, it stops distinguishing between behavior that calls for a boundary and discomfort you can remain present through.
 
 When the Protector holds the joystick, the person across from you meets your defense before they meet you. The Protector will unconsciously attempt to gain a felt sense of safety at the expense of actual contact.
 
@@ -469,7 +469,7 @@ From here you have two routes:
 1. **Straight through (recommended):** continue to Chapter 3 and build the sequence in order. The Shaman trains emotional signal-reading and regulation, the base layer the other faces depend on, and the reason to start there.
 2. **Guide-first:** jump to the chapter of the guide question that hit you hardest, then come back to fill the sequence.
 
-Turn the page and a letter is waiting, from the Headmaster of that school. After it, six chapters, and each opens with a treatise by the person who runs one of the six schools: their method, in their voice, carrying their bias and their quarrel with the other five. It runs as ordinary text until you reach a signature at the close of its third section. That is where a submitted document signs itself. Everything past that signature is me.
+Turn the page and a letter from the Headmaster is waiting. He will orient you to the fictional school on the ship: the imaginative field of play where you will learn to become a more effective ally. After it, six chapters, each opening with a treatise by the person who runs one of the six schools: their method, in their voice, carrying their bias and quarrel with the other five. The treatise runs as ordinary text until you reach a signature at the close of its third section. That is where a submitted document signs itself. Everything past that signature is me.
 
 The boxed inserts belong to the school as well: an admissions page saying who they take and what it costs, students and citizens on the record about what the teaching did to them, and a margin in a hand that never signs.
 
