@@ -726,7 +726,7 @@ This is what the Release stage actually asks. Not ascent. Completion. The game r
 
 **Working vs. performed:** Putting down becomes giving up. The Sage who keeps dropping games before they've given what they have to give isn't practicing the Liberator, they're practicing avoidance. 
 
-**Example:** You have spent nine years being the person who never misses the thing everyone else misses, and you can name what that bought you: it got you taken seriously at twenty-eight, in an outfit that took nobody seriously at twenty-eight. Say what it taught you before you set it down. Then set it down, and let a meeting go past with something unnamed in it. Nobody notices. That is not the same as nothing happening.
+**Example:** You have spent nine years being the person who never misses the thing everyone else misses, and you can name what that bought you: it got you taken seriously at twenty-eight, in an outfit that took nobody seriously at twenty-eight. Say what you learned before you set it down. Then set it down, and let a meeting go past with something unnamed in it. Nobody notices. That is not the same as nothing happening.
 
 **The test:** Can you name what you learned from it before you put it down? If you can't, it was never really yours. If you can, and you put it down anyway, that's the practice.
 
