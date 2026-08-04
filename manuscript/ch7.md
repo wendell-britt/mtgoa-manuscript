@@ -550,7 +550,7 @@ Then put a limit on it, because an open ledger is the shadow's whole method. The
 
 It shows up in a single beat. Someone tells you that something you did landed badly on them. Something in you goes still and attentive; that is the Repairer arriving, on time, doing its job. Then the ledger opens underneath it, and what surfaces is not a defence. A defence you would catch. What surfaces is a balance. *After everything I have carried here.* You do not say it. You would never say it. What you say is *I hear you,* the ledger's most efficient instrument, because it accepts the words without admitting the entry. The conversation ends warm. Nothing has been received. On the narrow jurisdiction the same part returns the same accurate report and the answer changes: *that is true, I did that, and here is what it cost you*, with your own column left closed, in your pocket, entirely real and not currently the subject.
 
-*Bring one time somebody named an impact you had and you agreed with them out loud without anything landing. Name what the ledger produced in the half-second before you spoke: the entry, not the feeling about it. Then write the one sentence you would have had to say instead. Two minutes to capture it as a BAR.*
+*Bring one time somebody named an impact you had and you agreed with them out loud without anything landing. Name what the ledger produced before you spoke: the entry, not the feeling about it. Then write the one sentence you would have had to say instead. Two minutes to capture it as a BAR.*
 
 ---
 

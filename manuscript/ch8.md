@@ -583,7 +583,7 @@ Then put a limit on it, because an open repair schedule is the shadow's whole me
 
 It shows up in a single beat. Someone asks you for help with something real. Something in you goes wide and attentive: the Panoramic Seer arriving on time, doing its job. Then the Damaged Self opens underneath it, and what surfaces is not doubt; doubt you would catch. What surfaces is a project. *I know exactly what's happening here, and I know it because I've been the broken version of it.* So you hand them the map. The map is good. The map is also the fourth one this quarter, and nobody has ever asked you for a map. What they asked for was a hand. The conversation ends well. They leave with reading. Give that same part its narrow jurisdiction and it returns the same accurate report, but the answer changes: *I run differently, which is why I can see this, and what I'm going to do about it is sit here and ask you a question.*
 
-*Bring one time you answered a person's problem with a framework. Name what the Damaged Self produced in the half-second before you spoke: the reading about yourself, not the feeling about it. Then write the question you would have asked instead. Two minutes to capture it as a BAR.*
+*Bring one time you answered a person's problem with a framework. Name what the Damaged Self produced before you spoke: the reading about yourself, not the feeling about it. Then write the question you would have asked instead. Two minutes to capture it as a BAR.*
 
 ---
 
