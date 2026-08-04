@@ -296,4 +296,4 @@ Make the move.
 
 *Playing along*
 
-Find the hundred-and-twenty-card deck, for when you want the moves in your hands, at **[ URL / QR ]**.
+Find the hundred-and-twenty-card deck, for when you want the moves in your hands, at **masteringallyship.com**.
