@@ -257,14 +257,14 @@ Seven daemons live in the Forest, and the player at its center is you. You're no
 You meet the seven walking in, in this order. Each one gets a short entry: what it does, how it shows up once it's your ally, how it shows up as a demon still running the show, and a moment you might catch each one in play.
 
 #### The Protector
-**Job:** To keep you alive. It is the body's embodied sense of self-preservation.
-**As an ally:** it guards you against real danger, the kind that would actually threaten your body. *In play:* a car swerves toward you and you're already moving before you've thought about it; the bracing fired exactly when it should.
-**As a demon:** it protects the self at all costs, and won't extend that protection to anyone else unless it widens its own identity to include them. When it does, those people stop being separate people you're allying with and become an extension of your body to protect. *In play:* a hard email lands and your whole body braces as if it were a physical threat; you answer armored, and the other person meets the armor before they reach you.
+**Job:** To respond when something may threaten your physical safety.
+**As an ally:** it moves you before deliberation can slow you down. *In play:* a car swerves toward you, and you move before you have time to think it through.
+**As a demon:** it treats a hard email, public challenge, or conflict as though your physical safety were at risk. *In play:* you write to defend yourself before you have worked out what happened or what the other person needs.
 
 #### The Controller
-**Job:** If the Protector decides whether you live or die, the Controller decides *how* you live. It sets the standard for what's good and what's bad.
-**As an ally:** it maintains your conceptual sense of integrity, keeping your actions in alignment with your values. *In play:* you said you'd show up for someone, and when it gets inconvenient, the Controller is what holds you to your word.
-**As a demon:** it's rigid, controlling, and judgmental. It believes everyone should operate the way it believes the world should operate. *In play:* someone you're supporting gets the result their own way, and you catch yourself docking points for how they did it instead of registering that they did it at all.
+**Job:** To set the standard you use to judge your behavior and the behavior of others.
+**As an ally:** it helps you act in line with your values. *In play:* you promised to show up for someone; when doing so becomes inconvenient, it helps you keep your word.
+**As a demon:** it treats your standard as the rule everyone else should follow. *In play:* someone you are supporting gets a result their own way, and you focus on how they did it instead of recognizing that they got what they needed.
 
 #### The Skeptic
 **Job:** To doubt, so you don't get fooled.
