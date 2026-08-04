@@ -202,7 +202,7 @@ When you do this with anger, when you let yourself be angry instead of convertin
 
 When you do this with sadness, when you grieve instead of rushing past it, sadness teaches you what was real. Because sadness is the feeling that only arrives when you lose something that truly mattered. Sadness says "this was true. This connection was real. This loss is significant." In a world that constantly tries to convince you that you're overreacting, that it wasn't a big deal, that you should move on. Sadness is the voice that says "no. This mattered. I'm allowed to feel that."
 
-When you do this with joy, and most people skip this one, because joy feels like the easy one and it is not (it requires you to stop moving, harder than anything else the School of the Body teaches), when you *land* in joy instead of using it for fuel, joy teaches you what's aligned. Joy shows up when you're doing something that matches your actual values, your actual gifts, your actual becoming. Joy is not the same as happiness or productivity. Joy is the feeling that says "yes. This is real. I am home."
+When you do this with joy, which feels like the easy one and is not (it requires you to stop moving, harder than anything else the School of the Body teaches), when you *land* in joy instead of using it for fuel, joy teaches you what's aligned. Joy shows up when you're doing something that matches your actual values, your actual gifts, your actual becoming. Joy is not the same as happiness or productivity. Joy is the feeling that says "yes. This is real. I am home."
 
 This is emotional alchemy. Other practices manage emotions. Other practices optimize them. This one is the education by emotions.
 

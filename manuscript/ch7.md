@@ -688,7 +688,7 @@ The close lands clean when there's nothing left to add and you don't reach to fi
 
 *Prerequisite: some real trust has been built. This move requires a history*
 
-**What it is:** When trust breaks, and it will, the Diplomat has a specific structure for repair that most people skip because it requires uncomfortable sentences in a specific order.
+**What it is:** When trust breaks, and it will, the Diplomat has a specific structure for repair, and it runs on uncomfortable sentences in a specific order.
 
 The structure:
 
@@ -696,7 +696,7 @@ The structure:
 
 **2. Name your part.** Not their part. Yours. What did you do or fail to do that contributed to the rupture? *"I know I've been more withdrawn the last two weeks, and I know that reads as pulling away, and I wasn't communicating why, and that must have felt like a punishment."*
 
-**3. Name what you're not asking for.** This is the step most people skip. Repair is not the same as reconciliation. You are naming what happened and your role in it. You are not asking them to pretend it didn't happen, or to trust you again immediately, or to change their response to it. *"I'm not asking you to feel better about it. I'm not even asking you to trust me again yet. I just needed you to know I know what happened and I know my part."*
+**3. Name what you're not asking for.** Repair is not the same as reconciliation. You are naming what happened and your role in it. You are not asking them to pretend it didn't happen, or to trust you again immediately, or to change their response to it. *"I'm not asking you to feel better about it. I'm not even asking you to trust me again yet. I just needed you to know I know what happened and I know my part."*
 
 **4. Stay.** After you offer the repair, the instinct is to leave: to give them space, to give the moment space. Don't. Stay present through the discomfort of having said it. The staying is the actual repair work.
 
