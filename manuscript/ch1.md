@@ -31,6 +31,10 @@ You are not here because you haven't tried. You've been doing the evolved versio
 
 Christina Maslach mapped burnout in three dimensions: exhaustion, the depersonalization that distances you from the people you serve, and the loss of any sense that your effort matters. Paul Gorski's work on activist burnout adds the mechanism that makes ours specific: when your activism fuses with your identity, you have no way to regulate the cost. When the work is who you are, no mechanism lets you say "I've spent enough today." The selflessness the movement culture rewards is the same mechanism that empties you out.
 
+Turn that instrument around. Exhaustion, the depersonalization that puts distance between a person and everyone near them, and the loss of any sense that it matters describe the person you came to help at least as well as they describe you. The Trevor Project finds that trans and nonbinary young people whose pronouns most people in their lives get right attempt suicide at about half the rate of those who do not, and that fewer than half of them get that.
+
+The same three numbers come back from either chair. So a move that lands wrong does not only cost you. It spends theirs as well, and meaning well does not reduce the bill. That is what the burnout story leaves out when only your side tells it.
+
 The debt frame is the identity fusion made conscious: it's the story that justifies why you can't stop. You owe something you inherited rather than chose. Unlike a financial debt, this one has no final payment, no moment when someone hands you a receipt. The debt was always designed to stay unpayable. Recognizing that is accurate accounting.
 
 The game frame is the medicine for this, and it works because a game does something specific to your relationship with the stakes. It puts distance between you and the outcome. That distance is detachment, the healthy kind: it lets you stay in a charged fight without the charge running you. You are playing this game. You are not the game. The player fused with the outcome can't play well. The player fused with the cause can't serve it for long.

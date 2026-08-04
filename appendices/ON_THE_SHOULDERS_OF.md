@@ -85,6 +85,8 @@ Read Carse for the frame, Chou for the mechanics, and Nguyen for what playing do
 
 The burnout claims in this book aren't impressions — they're grounded in **Christina Maslach's** clinical research (the Maslach Burnout Inventory and associated papers identify three dimensions: exhaustion, depersonalization, and inefficacy) and **Paul Gorski's** research on activist burnout specifically ("Burnout in Social Justice and Human Rights Activists: Symptoms, Causes, and Implications," 2015). Gorski's finding is the one that reorganized my thinking: identity fusion is the mechanism — when the work *is* who you are, there's nothing left to regulate the cost. Their work is the backbone of the book's central empirical claim: the problem isn't the practitioner. It's the design of the game.
 
+The pronoun figures in Chapter 1 come from **The Trevor Project**, whose national surveys of LGBTQ young people are the largest of their kind. Their 2020 research brief on pronoun usage found that trans and nonbinary young people whose pronouns most people in their lives got right attempted suicide at half the rate of the young people whose pronouns most people got wrong. Their 2024 national survey found that fewer than half report getting that consistently. I have used one finding from a body of work that is free, public, and updated every year. If the numbers in this book have aged by the time you read it, theirs will not have.
+
 ---
 
 *These are influences, gratefully named — not authorities I'm hiding behind. Take what's useful; the work is yours.*

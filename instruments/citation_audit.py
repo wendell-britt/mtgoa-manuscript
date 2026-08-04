@@ -58,6 +58,10 @@ BORROWED = [
     # the Architect chapter as a term of art".
     (r"leverage points?", "Meadows"),
     (r"polarity map|both/and", "Johnson"),
+    # ADDED 2026-08-03 with the Maslach reversal at ch1:34. The pronoun figures are
+    # the Trevor Project's and the book names them inline, which is house style for
+    # an empirical citation -- ch1:32 does the same for Maslach and Gorski.
+    (r"pronouns most people|attempt suicide|Trevor Project", "Trevor"),
     # ADDED 2026-08-03, ruled by Wendell. ch1:135 states the ABI model outright --
     # "Capability, integrity and benevolence, if you want the words for them" -- and
     # the audit reported 0 uncredited because it had never been told whose model it

@@ -133,8 +133,19 @@ Children, where `ch1:44` says the work matters most, generate no charge at all.
 
 ## 6 · What this asks of the book
 
-1. **The Maslach reversal, one paragraph, probably ch1.** The triad already in the book,
-   turned around. This is the highest-value item in the spec and the cheapest.
+1. ~~**The Maslach reversal**~~ — **APPLIED 2026-08-03 at `ch1:34`**, the paragraph
+   straight after the triad, so *the bill* hands into `ch1:36`'s *no final payment, no
+   moment when someone hands you a receipt*. 128 words. **Note for the record: Maslach
+   was already introduced at `ch1:32` and credited in Appendix G**, so this extended an
+   introduction rather than making one. The Trevor Project is the genuinely new
+   citation and now has an Appendix G entry and a `citation_audit.py` rule.
+
+   **One claim was cut on the way in.** The draft said researchers have *measured* the
+   triad on the other side. That finding came to me through secondary reporting and I
+   could not source it to a paper I had read, so `eval.md`'s weasel-attribution check
+   killed it. **The reversal ships as Wendell's argument with the Trevor Project
+   carrying the stakes.** If the empirical version is wanted, it needs a primary
+   citation first.
 2. **Relocate four Examples** per `SPEC_EXAMPLE_DIVERSITY` §5, choosing arenas from the
    matrix's *Where* column rather than at random.
 3. **At least one Example involving a child.** `ch1:44` promises it and nine chapters do
@@ -150,10 +161,17 @@ Children, where `ch1:44` says the work matters most, generate no charge at all.
 
 ## 7 · Open, and two of them are Wendell's alone
 
-1. **How hard does the book name white women?** Jordan is the reader persona and the
-   research is specifically about white women's failures of solidarity. The book
-   currently never says so. Naming it is more honest and it changes who finishes the
-   book.
+1. ~~**How hard does the book name white women?**~~ — **RULED 2026-08-03: it does not
+   name her.** Wendell: *"We don't need to name her specifically. If everyone solved the
+   white women problem in allyship everyone would get better. She's the captain of the
+   ship that the rising tide is carrying."*
+
+   **This is a design principle rather than a hedge, and it should be stated as one:
+   write to the captain, not about her.** The book aims at the hardest case and skips
+   the label, because the label costs the reader and buys nothing the prose cannot get
+   another way. Every row of the matrix stays; what goes is the demographic naming of
+   who is failing. The harmed population still gets named, with citation, because that
+   is the evidence and it is not the same act.
 2. **Does the microaggression row use Sue's taxonomy by name?** *Microinvalidation* is
    the precise term for the failure the book keeps describing, and it is one word.
 3. **Does the elder row survive?** It is the only row where the book's existing Example
