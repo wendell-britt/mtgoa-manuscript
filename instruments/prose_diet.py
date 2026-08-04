@@ -153,6 +153,14 @@ HUMAN_SUBJ = {
     "somebody", "someone", "everybody", "everyone", "nobody", "anyone", "people",
     "person", "friend", "friends", "ally", "allies", "reader", "child", "kid",
     "partner", "colleague", "everybody's", "man", "woman", "body",
+    # Added 2026-08-03 during the ch1 inchoative pass. `ch1:167` -- "an arcade whose
+    # OWNER is exhausted and going under" -- scored DEFECT, and the counter's own rule
+    # says a person becoming something is legal. The list held pronouns and relationship
+    # words and no occupations, so every role noun in the book was a false positive
+    # waiting to happen. These are the ones the manuscript actually uses.
+    "owner", "coworker", "boss", "manager", "facilitator", "student", "teacher",
+    "candidate", "neighbour", "neighbor", "parent", "mother", "father", "brother",
+    "sister", "daughter", "son", "villager", "villagers",
     "village", "shaman", "challenger", "regent", "architect", "diplomat", "sage",
     "player", "headmaster", "caretaker", "annotator",
 }

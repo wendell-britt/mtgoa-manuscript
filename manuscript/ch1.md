@@ -84,7 +84,7 @@ Allyship looks like the honorable place to bring those questions, and springs th
 
 Every one of them holds a little truth, and that truth keeps them alive. Goodness matters, language matters, repair matters. The damage starts when one of them becomes the whole definition. The day allyship means being good, every exchange turns into a test you are taking, and the person in front of you stops being a person and becomes the examiner. You stop watching them and start watching yourself for proof that you passed. The help never lands, because you were looking at the scoreboard in your own head the whole time. You spend everything, they receive almost nothing, and you go home wondering why caring this much leaves you this empty. That emptiness is the receipt for a game that was never built to be won. It was built to keep you playing.
 
-I know the machine from the inside; I ran it for three years while writing a book that told other people not to. It broke the day someone I had been "helping" told me, plainly, that my help had been about me the whole time. I wanted to argue. I could not. The scoreboard went dark, and behind it sat a question I had never asked: what if being good was never the game?
+I know the machine from the inside; I ran it for three years while writing a book that told other people not to. It broke the day someone I had been "helping" told me, plainly, that my help had been about me the whole time. I wanted to argue. I could not. The scoreboard shut off, and behind it sat a question I had never asked: what if being good was never the game?
 
 Here is the definition this book is built on.
 
@@ -156,7 +156,7 @@ Here they are, and each one pays out differently. Most frameworks teach one and 
 
 **Games of Chance — right place, right time.**
 
-You cannot control the right place or the right time. You can only control whether you are standing there when they arrive. A Game of Chance is the reorg that dissolves the case your coworker spent two weeks building the week before she files: timing you never touched, three floors up, deciding everything. It runs the opposite way too: you are on a group thread you got copied on by habit, you catch that a hire is about to go sideways, and the one message you send, because you happened to be there to send it, lands the right person the job. Same game. You do not get to schedule either one.
+You cannot control the right place or the right time. You can only control whether you are standing there when they arrive. A Game of Chance is the reorg that dissolves the case your coworker spent two weeks building the week before she files: timing you never touched, three floors up, deciding everything. It runs the opposite way too: you are on a group thread you got copied on by habit, you catch that the panel is about to hire the wrong person, and the one message you send, because you happened to be there to send it, lands the right person the job. Same game. You do not get to schedule either one.
 
 That is why Chance pays the biggest of the three: jackpot money, the wins that reshape the board. The price of that ceiling is that you cannot make it hit on command. So you play a Game of Chance one way: stay in the game. Keep showing up in the places where the break could land, and refuse to read the losses as failure. When the reorg eats the case, you did not misplay it. You were in the game, the only move Chance rewards, and the jackpot you are still there for is real.
 
