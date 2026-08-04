@@ -183,6 +183,10 @@ which is what `ch1:137` had already assumed and nothing had said.
 2. **Whether ch3–ch8 mirrors are two lines or a short block.** Two lines is the estimate;
    ch7's Victim may need more, because the goodies claim is the hardest thing in the book
    to say without contempt.
-3. **Whether `ch1:52` gets amended** — *"the ones who refuse to be carved become the
-   enemy"* is currently describing the failure. With the frame in place it could name it,
-   which is one clause and a real gain, and it is prose that predates all of this.
+3. **Whether `ch1:52` gets amended — RESOLVED 2026-08-03: no.** The clause was drafted
+   and cut. It asserted that a part of them held, that holding is its one job, and that
+   it predates the reader — three claims that all depend on the daemons, which arrive in
+   ch2. At line 52 the chapter has not opened an account for any of them. What the line
+   did get is a fix the scan never asked for: *refuse to be carved* was passive with its
+   doer one paragraph away at `ch1:50`, so it now reads **the ones who will not let you
+   carve them become your enemy.**
