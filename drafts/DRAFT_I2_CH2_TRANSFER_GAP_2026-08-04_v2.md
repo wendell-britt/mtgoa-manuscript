@@ -20,12 +20,12 @@ and the review skill. If the ruling says something v1 did not quote, §6 is unve
 
 ## 1 · What was wrong with v1, measured
 
-`python3 instruments/review.py` on v1's 248 new words, then on v2's 250:
+`python3 instruments/review.py` on v1's 248 new words, then on v2's 278:
 
 | | gate | be | copula | waste | zombie | expletive | passive | empty |
 |---|---|---|---|---|---|---|---|---|
 | v1 insert | **4 hits** | 1.17 | 1.25 | 1.18 | 0.98 | **3.79** | 0.00 | **2.89** |
-| v2 insert | clean | 0.80 | 0.90 | 0.71 | 1.07 | 0.00 | 0.00 | 0.29 |
+| v2 insert | clean | 0.79 | 0.78 | 0.89 | 0.72 | 0.00 | 0.00 | 0.51 |
 | ch2.md, for scale | clean | 0.63 | 0.59 | 1.02 | 0.71 | 0.44 | 0.82 | 0.97 |
 
 **The four gate hits.** `And in the half-second something older gets there first` —
@@ -90,10 +90,10 @@ duplicate of it.
 > of them reaches the half-second where you actually move.
 >
 > **[NEW]** Holding a concept and running one are different skills. What you hold, you can turn
-> over, weigh, and choose between. What you run fires before any of that arrives: the jaw sets,
-> the voice goes even, the sentence leaves your mouth already shaped. You can hold an idea
-> accurately for ten years and never once run it. The holding does not become the running on
-> its own.
+> over, weigh, and choose between. What you run fires before any of that arrives: in the
+> half-second, with somebody waiting, while your face is still doing whatever your face does.
+> You can hold an idea accurately for ten years and never once run it. The holding does not
+> become the running on its own.
 >
 > **[NEW]** The years hand you one and not the other. You have the analysis, faster and sharper
 > than most people at the table. Then the half-second comes, an older pattern moves first, and
@@ -105,8 +105,10 @@ duplicate of it.
 > every book you finish.
 >
 > **[NEW]** The accurate explanation is duller. What you built is real, and it is half of a
-> two-part skill. More of the first half was never going to turn into the second. The method
-> has a missing step. You are not the missing step.
+> two-part skill. You build the other half live: run a concept while something is happening,
+> catch an older pattern in the act, give it a different job, and do that enough times that
+> your hands know it before you do. Reading further into your half was never going to start
+> the other one.
 >
 > *[P5 deleted — see §4.]*
 >
@@ -129,7 +131,7 @@ Why: this is the passage the new material replaces. *Doesn't tell you how to be 
 person who can do it sustainably* is the stamina framing of the same claim, and leaving both
 in makes the chapter say it twice, the second time weaker.
 
-The insertion is 250 new words and touches no existing sentence. **Nothing shipped is
+The insertion is 278 new words and touches no existing sentence. **Nothing shipped is
 rewritten** — v1 rewrote three paragraphs to make room; v2 rewrites none.
 
 Line-level, what changed from v1 to v2 and why:
@@ -138,11 +140,11 @@ Line-level, what changed from v1 to v2 and why:
 |---|---|---|
 | Those are different possessions and the difference is not one of degree. | Holding a concept and running one are different skills. | *possessions*, *difference*, *degree* — three abstractions, no person. Verbs instead. |
 | A thing you have sits in the part of you that considers, weighs, and chooses. | What you hold, you can turn over, weigh, and choose between. | *a thing*, *the part of you* → the reader does the verbs. |
-| in the half-second, in the room, while your face is still doing whatever your face does | the jaw sets, the voice goes even, the sentence leaves your mouth already shaped | gate: *room*. Also three named body events instead of one joke about a face. |
+| in the half-second, in the room, while your face is still doing whatever your face does | in the half-second, with somebody waiting, while your face is still doing whatever your face does | gate: *room*. Sentence otherwise kept — an earlier v2 replaced the whole tail with *the jaw sets, the voice goes even, the sentence leaves your mouth already shaped*, three definite articles fronting three nouns, which is the tic rather than the fix. Ruled 2026-08-04: keep the original if the room cannot be solved. *with somebody waiting* solves it. |
 | You have it faster and better than most people in the room. And in the half-second something older gets there first | You have the analysis, faster and sharper than most people at the table. Then the half-second comes, an older pattern moves first | gate: *room*, sentence-initial *And*. *pattern* is the chapter's own word and pre-seeds Section 6. |
 | You have probably been carrying some version of that quietly for a while | You have carried some form of that for a while now | gate: *quietly*. *version* is an empty noun. |
-| Here is the accurate one. What you built is real. It is also the wrong half, and no amount of more of it was ever going to turn into the other half. | The accurate explanation is duller. What you built is real, and it is half of a two-part skill. More of the first half was never going to turn into the second. | two expletive openers removed. *the wrong half* / *the other half* named once as *a two-part skill*, so the reader knows what the halves are. |
-| That is not a verdict on you. It is a description of a method with a missing step. | The method has a missing step. You are not the missing step. | the acquittal was carried by two pronoun subjects. Now the noun is in the subject both times, and the two sentences turn on the same word. |
+| Here is the accurate one. What you built is real. It is also the wrong half, and no amount of more of it was ever going to turn into the other half. | The accurate explanation is duller. What you built is real, and it is half of a two-part skill. | two expletive openers removed. *the wrong half* / *the other half* named once as *a two-part skill*, so the reader knows what the halves are. |
+| That is not a verdict on you. It is a description of a method with a missing step. | You build the other half live: run a concept while something is happening, catch an older pattern in the act, give it a different job, and do that enough times that your hands know it before you do. Reading further into your half was never going to start the other one. | v1 protests innocence, and so did an earlier v2 (*The method has a missing step. You are not the missing step*). Ruled 2026-08-04: handwringing — nobody is on trial for identifying with the missing step. Describe the step. So the paragraph now says what the second half is and how it gets built, in the chapter's own verbs: *run*, *catch*, *give it a job* (`ch2.md:248`), hands. |
 
 Also run: `/no-ai-slop`, which took out one throat-clearing opener (*Try the accurate one
 instead* → *The accurate explanation is duller*) and one *Which is* fragment tail flagged by
@@ -152,20 +154,22 @@ instead* → *The accurate explanation is duller*) and one *Which is* fragment t
 
 | Change | Words |
 |---|---|
-| New: the transfer gap (5 paragraphs) | **+250** |
+| New: the transfer gap (5 paragraphs) | **+278** |
 | Cut P5 entirely | −56 |
-| **Net** | **+194** |
+| **Net** | **+222** |
 
-Section goes 379 → 578 words. v1 was +159 but bought it by cutting into three shipped
-paragraphs; v2 buys nothing and cuts only the paragraph it supersedes.
+Section goes 379 → 601 words. v1 was +159 but bought it by cutting into three shipped
+paragraphs; v2 buys nothing and cuts only the paragraph it supersedes. The last paragraph
+cost 28 words more than the version that only acquitted her, which is what describing the
+step costs.
 
 **Optional further cut, not taken:** P7 (76 words, the broken-map paragraph) now makes the
 wrong-direction claim a second time and in weaker terms. Cutting it brings the net to
-**+118**. I did not take it, for v1's reason and it is a good one: P7 is the on-ramp to the
+**+146**. I did not take it, for v1's reason and it is a good one: P7 is the on-ramp to the
 sadness paragraph, and that is Water material under the Shaman's protection. Your call.
 
 **Section-level diet, before and after the insert:** `passive` reads 2.55 on the section as
-shipped and 1.67 with the insert in place. Both are over 1.30 and neither is mine — the
+shipped and 1.61 with the insert in place. Both are over 1.30 and neither is mine — the
 passives are in P8 (*The terms were set wrong from the beginning*), which is deliberate and
 which the insert dilutes. Flagging it so it is not read as new drift.
 
@@ -175,9 +179,11 @@ which the insert dilutes. Flagging it so it is not read as new drift.
 verbatim, including the two v1 cut. Its first appearance in the book is untouched and it
 still arrives before the argument that depends on it.
 
-**Jordan — method acquittal, not map acquittal.** *What you built is real, and it is half of
-a two-part skill. … The method has a missing step. You are not the missing step.* Blames
-neither her nor the map. The map acquittal stays in P8's grief, doing grief work.
+**Jordan — method acquittal, not map acquittal, and no protest.** The acquittal is carried by
+*What you built is real*, once, in passing, and then the paragraph gets on with describing the
+step. Ruled 2026-08-04: *nobody is putting them on trial for identifying with the missing
+step*, so the passage no longer argues she is innocent. Blames neither her nor the map. The map
+acquittal stays in P8's grief, doing grief work.
 
 **Jordan — the two stories, refused by name.** *Not committed enough, not brave enough, still
 too attached to being comfortable* names the doing-well story and the performing story in one
@@ -193,12 +199,16 @@ pressure rises?*), so the insert borrows the chapter's vocabulary rather than im
 vocabulary. No term is introduced or defined, and the word *register* does not appear.
 
 **Metaphor arc spec — Ch2 gives Jordan forest, joystick, pattern, protector.** *An older
-pattern moves first* is that vocabulary, arriving in Section 1 where the chapter names it in
-Section 2 and puts a joystick in it in Section 6. Nothing here promises a prerequisite ladder.
+pattern moves first* and *give it a different job* are both that vocabulary, arriving in
+Section 1 where the chapter names the pattern in Section 2 and hands a daemon a job in
+Section 6 (`ch2.md:248`, *an ally the moment you take the joystick and give it a job*). The
+last line closes on *your hands*, which is where Chapter 1 put the joystick. Nothing here
+promises a prerequisite ladder.
 
 **Half-second is book vocabulary, not a new coinage.** `ch7.md:553` and `ch8.md:586` both run
 BARs on *the half-second before you spoke*. Ch2 seeding it makes those two prompts land on a
-phrase the reader already owns.
+phrase the reader already owns. It runs three times in 278 words, deliberately: it is the
+spine of the passage and rotating synonyms onto it would be the worse failure.
 
 ## 7 · Two seam defects in v1, fixed
 
@@ -209,7 +219,7 @@ people who care enormously…*, with the last-named subject four paragraphs upst
 P6 whole, so *It* keeps its noun.
 2. **Stranded demonstrative.** v1 put five new paragraphs between *Both of these things are
 true* and *You bring a body to every one of those actions* — *those actions* then points across
-250 words of new material. v2 leaves the body paragraph where it is and inserts after it.
+278 words of new material. v2 leaves the body paragraph where it is and inserts after it.
 
 ## 8 · Gate 1: Appendix G — clear, re-verified
 
