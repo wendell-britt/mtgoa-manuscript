@@ -65,7 +65,21 @@ courage shame grief rage safety belonging power privilege consent intention
 attention repair reckoning practice discipline vulnerability accountability
 labor labour wound wounding""".split()
 
+# EMPTY nouns are reported on EVERY occurrence, with no antecedent logic at all.
+# Added 2026-08-03 after Wendell caught `the thing runs after you leave` in prose
+# that had passed gate, diet and the abstraction check. The check missed it for a
+# reason worth keeping: it suppresses a noun once the stem appears earlier in the
+# passage, and an earlier `the true thing` had put `thing` on the seen list.
+#
+# **For an abstraction a prior mention is a real antecedent. For an empty noun it
+# never is.** `the trust` after `their trust` points at something; `the thing`
+# after `the true thing` points at nothing, twice. `prose_diet`'s `empty` counter
+# sees these words but only as a ratio, and a ratio cannot fail one sentence.
+EMPTY = """thing things something version versions way ways part parts
+result results point points""".split()
+
 BARE_DEF = re.compile(r"\bthe (%s)\b" % "|".join(ABSTRACTION), re.I)
+BARE_EMPTY = re.compile(r"\bthe (%s)\b" % "|".join(EMPTY), re.I)
 
 # The not-X-but-Y form shapes.BINARY cannot see.
 ADVERBIAL_NOT = re.compile(
@@ -125,6 +139,11 @@ def main():
         hits += 1
         s = body.rfind(".", 0, m.start()) + 1
         print("  %-28s [the %s] %s" % ("bare definite abstraction", noun,
+                                       body[s:s + 80].strip().replace("\n", " ")))
+    for m in BARE_EMPTY.finditer(body):
+        hits += 1
+        s = body.rfind(".", 0, m.start()) + 1
+        print("  %-28s [the %s] %s" % ("definite + empty noun", m.group(1).lower(),
                                        body[s:s + 80].strip().replace("\n", " ")))
 
     print("=== preempt ===")

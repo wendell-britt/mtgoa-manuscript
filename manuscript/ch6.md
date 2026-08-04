@@ -104,7 +104,7 @@ The Architect left.
 
 The village never meant for that to happen. It never said *go.* It just stopped listening to the design. Which, it turns out, amounts to exile.
 
-**The Architect means: the thing runs after you leave.** That scores a design nobody thanks you for above a conversation everybody remembers, and it is right about that more often than the village believes.
+**The Architect means: what you built runs after you leave.** That scores a design nobody thanks you for above a conversation everybody remembers, and it is right about that more often than the village believes.
 
 ---
 
