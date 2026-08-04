@@ -212,6 +212,27 @@ named move in ch3 and ch4 and is carved out.
 **When it fires, name the noun.** Not a synonym for `thing` — the actual referent. If you
 cannot name it, that is the finding: the sentence does not know what it is about yet.
 
+**Then check whether the line should exist at all.** Added 2026-08-03 after `ch2:197` went
+through three states — a colon reveal, a rewrite, and a cut — and the cut was right because
+the next paragraph already said it with a mechanism attached. **A placeholder can be marking
+a redundant sentence rather than a missing noun.** Before reaching for a replacement, read
+the surrounding paragraphs and ask whether anything nearby already says this. Three passes
+hunted for the right word and the answer was that the sentence was a weaker draft of one
+four lines below it.
+
+**Run `empty_head.py --diff` after every repair pass, not `empty_head.py`.** The book-wide
+number answers the wrong question. What matters is whether *your* pass put in more
+placeholders than it took out, and the tiers behave completely differently on that measure:
+
+```
+HARD   added 5   removed 135   net -130     the sweep worked
+SOFT   added 66  removed  63   net   +3     neutral, not a leak
+```
+
+`the work` is canon in the manuscript and suspicious in a line you added ten minutes ago. A
+book-wide count cannot tell those apart. The diff can, and it exits 1 when a pass is
+net-positive on either tier.
+
 ## Score the set, not the sentence
 
 **Ratios on a short sample are noise.** A single 50-word Example scored `zombie 1.80` on one
