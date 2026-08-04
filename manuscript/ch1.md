@@ -240,7 +240,7 @@ I wrote this chapter to hit you. That is the craft, and by now some of it has. I
 
 The part of you that believes your life will change because you wrote it down in a journal is part of the problem. Writing is not the issue: putting the thought, the feeling, the experience on a page is halfway to something. Everything breaks in what happens to the page next. It goes into a notebook you will almost never reopen, because reviewing a journal is real work and no one has made that part work. The impact goes in. It does not come back out.
 
-BARs came out of a fix for this. Years ago I started carrying blank poker cards, and when something hit me (the kind of hit you know you will lose by morning), I wrote it on a card. The cards came with me. Here is the part I did not plan: even when I could not remember what a card said, I remembered where it lived. I was carrying a map of the moments that had changed me. The card that hit me was in my pocket, in the palm of my hand, instead of on a shelf at home. That is what the notebook could not do.
+BARs came out of a fix for this. Years ago I started carrying blank poker cards, and when something hit me (the kind of hit you know you will lose by morning), I wrote it on a card. The cards came with me, and the carrying did more than the writing. Even when I could not remember what a card said, I remembered where it lived. I was carrying a map of the moments that had changed me. The card that hit me was in my pocket, in the palm of my hand, instead of on a shelf at home. That is what the notebook could not do.
 
 A **BAR** is that card. Captured charge: one moment of your own play, caught while the heat is still on it, carried where you can reach it instead of filed where you cannot.
 
