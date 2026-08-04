@@ -74,7 +74,7 @@ Most people stay past the point of their usefulness. Most people absorb cost unt
 
 The Diplomat is the negotiator who has learned that honest stake-surfacing, timely closure, and the willingness to let everybody involved decide what they can actually hold demonstrate love better than infinite presence does.
 
-The five stages of the Diplomat's work run as a journey in sequence rather than a checklist. **Bridge** is the initial entry, the act of showing up with curiosity rather than judgment, making contact without yet knowing what the relationship will require. **Translate** is the work of rendering one camp's language into terms another camp can hear, betraying neither side and finding the common ground of meaning. **Hold** is the maintenance of enough safety that difficult conversation remains possible even when the field is charged. It is not the four seconds of Stand you learned from the Challenger, where one person declines to take back one line; it is the sustained containment of a whole field over the length of a hard conversation, sometimes over months. **Repair** is the healing of ruptures without the pretense that they did not occur: cleaning the wound without pretending nobody made it. **Negotiate** is the culmination: surfacing what each party protects, naming the terms under which staying remains possible, and closing so that everyone is heard *and* something moves.
+The five stages of the Diplomat's work run as a journey in sequence rather than a checklist. **Bridge** is the initial entry, the act of showing up with curiosity rather than judgment, making contact without yet knowing what the relationship will require. **Translate** is the work of rendering one camp's language into terms another camp can hear, betraying neither side and finding the common ground of meaning. **Hold** is the maintenance of enough safety that difficult conversation remains possible even when the charge runs high. It is not the four seconds of Stand you learned from the Challenger, where one person declines to take back one line; it is the sustained containment of a whole field over the length of a hard conversation, sometimes over months. **Repair** is the healing of ruptures without the pretense that they did not occur: cleaning the wound without pretending nobody made it. **Negotiate** is the culmination: surfacing what each party protects, naming the terms under which staying remains possible, and closing so that everyone is heard *and* something moves.
 
 Each stage earns the next. Bridge without Translate is noise. Translate without Hold is a promise no one trusts. Hold without Repair is a wound left to fester. Repair without Negotiate is generosity without closure, and generosity without closure stops being a gift; it becomes a slow form of self-destruction that the field learns to take for granted.
 
@@ -450,7 +450,7 @@ The alchemy: *I ask what each position is guarding, not just what it says.* Posi
 
 **[TRANSLATE] — From Positions to Closure**
 
-**Fire → Earth: Heat translated into structure.** When competing demands charge a field (hot, righteous, each side certain) the Translate move does not cool the fire down. It gives the fire a shape it can move through. *What would each of you need to see change for this to be workable?* The anger does not get suppressed. It becomes the material from which terms are built.
+**Fire → Earth: Heat translated into structure.** When competing demands charge a field (hot, righteous, each side certain) the Translate move does not cool the fire down. It gives the fire a shape it can move through. *What would each of you need to see change for this to be workable?* The anger does not get suppressed. It becomes the material you build terms from.
 
 **Earth → Fire: Vague agreement translated into committed close.** When a field has done the listening work and arrived at something that sounds aligned but isn't yet specific, the Translate move carries the structure forward into commitment. *What are we actually agreeing to? By when? Who does what?* The Integrative Negotiator does not leave the field in principled ambiguity. The Diplomat's altitude loves process. This channel loves a close.
 
@@ -474,7 +474,7 @@ Discernment at the close asks more than comfortable vagueness. It is worth it wh
 
 *When negotiation fails, when someone refuses to name stakes, when harmony is cover for harm, when the field cannot hold truth, the Challenger's clean no is the next move. That is Chapter 4's game. Negotiate first. Line when the field cannot hold truth.*
 
-*What the Integrative Negotiator is for is the capacity to close: to surface what everyone is protecting, name what the agreement must hold, and let the field move. Not harmony instead of truth. Harmony that includes truth. The field that has been truly negotiated is not softer at the close. It is more real.*
+*What the Integrative Negotiator is for is the capacity to close: to surface what everyone is protecting, name what the agreement must hold, and let the field move. Not harmony instead of truth. Harmony that includes truth. A field the parties have truly negotiated is not softer at the close. It is more real.*
 
 ---
 
@@ -628,7 +628,7 @@ Name the Field makes no diagnosis. It makes an offering. You say *here is what I
 
 ### Move 2: Translate Across Camps
 
-*Prerequisite: Move 1 (the field is named, now you can work with it)*
+*Prerequisite: Move 1 (you have named the field, now you can work with it)*
 
 **What it is:** Once the field is named, the Diplomat's second move is to take what one camp is saying and render it faithfully into the language of another.
 
@@ -746,7 +746,7 @@ The grid again, fifth operation of six. Five moves down, four domains across, tw
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
-The five moves are this chapter, in order. Wake Up is a mode detecting who is in the field and on what terms. Open Up is the move this chapter's daemon exists to prevent: receiving what something costs somebody else without converting it into what it costs you. Clean Up is the destination choice, and every card at that stage is written as a route because that is what the move is: *from* somewhere, *to* somewhere. Grow Up is the only move in the deck that asks about other people by design. Show Up is the relationship you build, and every card there starts with the same verb, because at this altitude showing up means bringing somebody with you. Pick a domain instead and you are choosing the arena. Down is the sequence, across is where it lands.
+The five moves are this chapter, in order. Wake Up is a mode detecting who is in the field and on what terms. Open Up is the move this chapter's daemon exists to prevent: receiving what something costs somebody else without converting it into what it costs you. Clean Up is the destination choice, and every card at that stage is a route because that is what the move is: *from* somewhere, *to* somewhere. Grow Up is the only move in the deck that asks about other people by design. Show Up is the relationship you build, and every card there starts with the same verb, because at this altitude showing up means bringing somebody with you. Pick a domain instead and you are choosing the arena. Down is the sequence, across is where it lands.
 
 ### Drawing Against the Shadow
 
