@@ -749,7 +749,7 @@ Five moves, one card, ninety seconds.
 
 A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
 
-One line: what you will do, who it reaches, by when, and what it costs you. *Say the Thing* becomes: **I will tell Marcus on Thursday that I was wrong to call his read on the hiring panel an overreaction, without adding a defence of why I thought so, and it will cost me the version of myself that gets it right the first time.** That is a quest. *I will be less dismissive* is not one; nobody can tell whether you did it, including you.
+One line: what you will do, who it reaches, by when, and what it costs you. *Draw the Line* becomes: **I will tell the hiring panel on Thursday that I cannot support the no unless somebody names the behaviour, without softening it into a question, and it will cost me being the easy vote on that panel.** That is a quest. *I will be more direct* is not one; nobody can tell whether you did it, including you.
 
 The tell that a quest is alive is not enthusiasm. It arrives as anticipation with some dread underneath it. For a Challenger the dread usually arrives first. Good sign, hard one.
 

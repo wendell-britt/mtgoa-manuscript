@@ -52,15 +52,22 @@ carrying the meaning the noun refused to.
 
 ## Status
 
-Reports; does not block. **266 hard sites and 288 soft** are standing in the manuscript
-today, and gating on them would fail every review until the sweep lands. Promote to
-`gate.py`'s banned pattern after the sweep — the carve-out is `Say the Thing Under the
-Thing`, a named move in ch3 and ch4.
+Reports; does not block.
 
-First run, HARD per 1,000 words: ch5 **4.51**, ch9 2.84, ch3 2.75 · ch7 **1.19**, ch8 1.96.
-A 3.8× spread across chapters of one book is the argument that this is a defect rather
-than a voice: ch7 already reads at a rate the rest of the book does not, without anybody
-having tried.
+    first run  2026-08-03    HARD 266   (89 aggravated)   SOFT 288   2.44 /1k
+    after the `thing` sweep  HARD 136   (28 aggravated)   SOFT 291   1.25 /1k
+
+`thing` is done book-wide: 405 body instances to 31, and the 31 are the three carve-outs
+below plus five odds. **HARD is now the rest of tier 1** — `part`, `piece`, `stuff`,
+`aspect`, `element`, `factor`, `area`, `matter` — which nobody has swept yet and which is
+the obvious next pass.
+
+The first run reported a 3.8× spread across chapters, ch5 at 4.51 against ch7 at 1.19, and
+argued from it that this was a defect rather than a voice. The sweep confirmed it: nothing
+was lost anywhere, and fourteen sampled sites tested one at a time all improved.
+
+**Promotion path.** `\bthings?\b` into `gate.py`'s banned pattern, with the three CANON
+carve-outs. Not done here, because the 26 marginalia sites and the five odds are unruled.
 
     python3 instruments/empty_head.py                 # per file, both tiers
     python3 instruments/empty_head.py --sites         # every site with context
@@ -93,7 +100,13 @@ CLAUSE = r"(?:\s+(?:that|which|who|whom|you|he|she|they|I|we|it)\b)"
 
 # Canon. `Say the Thing Under the Thing` is a named move — ch3 Move 5, and ch4's variant.
 CANON = [
+    # Ruled by Wendell 2026-08-03, option b: move and card names survive the sweep.
     re.compile(r"Say the Thing(?: Under the Thing)?"),
+    re.compile(r"Run It Again With One Thing Changed", re.I),
+    # Ruled 2026-08-03: "keep the right thing the easy thing." The Architect's thesis --
+    # ch6's subtitle, quoted three times inside ch6, once from ch5's closing handoff and
+    # twice in ch9. Twelve instances across three chapters, so a thesis, not a heading.
+    re.compile(r"(?:right|easy) thing", re.I),
 ]
 
 # Marginalia are a different voice and out of scope, same convention as gate.py.
