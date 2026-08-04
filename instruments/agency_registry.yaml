@@ -178,7 +178,12 @@ grades:
     entities: [Seven Daemons, Protector, Controller, Skeptic, "Fixer/Healer",
                Fixer, Healer, Emotional Body, Victim, Damaged Self,
                Vulnerable Child, Diplomat shadow, "a part of you",
-               "the part that", inner critic]
+               "the part that", inner critic,
+               # RULED by Wendell 2026-08-03. Both were in NO grade -- Grade 2
+               # listed only `Diplomat shadow`, and Grade 0's eighteen nouns of
+               # argument (the framework, the model, the theory) held neither.
+               # See `non_daemon_parts` below for why they are interior.
+               the shadow, shadow, the distortion, distortion]
     verb_classes: [perception, intention, speech, somatic,
                    # a fortiori, 2026-08-03 -- see constraints
                    mechanical, directional, causal-bare, pattern]
@@ -195,9 +200,37 @@ grades:
       Emotional Body:  "The seat of emotional life, where feeling gets processed into meaning."
       Victim:          "To win sympathy through stories."
       Damaged Self:    "To take the damage. Absorbs the hit so what it carries survives."
+    non_daemon_parts:
+      # Interior, but not on the ch2 roster, so the per-daemon job rule and the
+      # two-routings-per-chapter inflation rule do not apply to them.
+      the shadow: >
+        Holds what you disowned and takes the covert payoff for it. The book
+        states the mechanism at ch1:143, crediting Carolyn Elliott's existential
+        kink: "the shadow doesn't run you because it feels bad. It runs you
+        because, somewhere out of sight, it feels GOOD, and you've never let
+        yourself admit it." It is yours, it acts on you, and its verbs across
+        the book are exactly an interior part's -- runs you, guards its stash,
+        hides inside the act, lives at one move.
+      the distortion: >
+        A Face's capacity running without its corrective. Interior at both
+        scales the book uses: individually, "That's the distortion talking"
+        (ch8:527) is the same construction as "that's your Protector talking",
+        and "the distortion is already driving" (ch8:684) puts it on the
+        joystick, which is this book's own image for which part has control.
+        Collectively, the fable's Section 2 distortion is the same thing carried
+        by a population. Both are LEFT-HAND in the AQAL terms Wendell set for
+        the field -- interior -- so the pattern-only ceiling of Grade 6 was
+        never the right shelf.
+
     constraints: >
       Verbs stay inside each daemon's canonical job, and `roster` above is now
-      that job list, quoted from ch2. The embodied three (Protector, Emotional
+      that job list, quoted from ch2.
+
+      THE SHADOW AND THE DISTORTION, ruled 2026-08-03, are Grade 2 but are NOT
+      daemons -- see `non_daemon_parts`. The constraint that keeps this from
+      being a blank cheque is the Grade 1 Faces test in the other direction:
+      THE PART MUST BE SOMEONE'S. A shadow or a distortion acting where no
+      person is carrying it is the flag. That is the test, not a verb list. The embodied three (Protector, Emotional
       Body, Damaged Self) act SOMATICALLY, not verbally, per the ch2 roster
       ruling. Daemon inflation is a real risk: more than two R3 routings per
       daemon per chapter is a flag.
