@@ -4,7 +4,7 @@
 
 <!-- EPIGRAPH-BYLINE -->
 > *Ash stopped me four times in one hour. The fourth time I had nothing left to protect, and that
-> was the first useful thing I said.*
+> was the first useful sentence I said.*
 >
 > — Ren Alcott, first-year, School of the Line
 >
@@ -19,13 +19,13 @@
 > *Admissions. Filed as required.*
 >
 > **1. Who we are for.** You have said no and had it not take. You said it in a meeting,
-> pleasantly, and the thing went ahead; you said it again six weeks later and were told you
+> pleasantly, and it went ahead anyway; you said it again six weeks later and were told you
 > had raised that already. You have also watched it happen to somebody with less standing than
 > you, and done nothing, and known at the time you were doing nothing. Both. Applicants with
 > one are declined.
 >
 > **2. What you will be able to do when you leave.** State a limit in one sentence and not
-> take it back in the four seconds afterward. The specific thing stops. Then the second thing,
+> take it back in the four seconds afterward. The specific behaviour stops. Then the second effect,
 > which students underestimate for about a year: the people watching learn that limits can be
 > stated here, and some of them start stating their own.
 >
@@ -49,7 +49,7 @@
 <!-- MARGINALIA -->
 > *Corin held a verdict open once. One time that I know of, against every instinct they have, for
 > the four days it took the evidence to arrive. It changed the outcome and they have never
-> mentioned it, and it is the hardest thing I have watched anyone on this staff do.*
+> mentioned it, and I have not watched anyone on this staff do anything harder.*
 >
 > *The rest of the time they interrupt. Not rudely and not always usefully, but reliably — you will
 > be three sentences into explaining yourself and they will stop you and ask what you are
@@ -376,7 +376,7 @@ The Challenger does not live in constant confrontation. The Challenger lives in 
 <!-- MARGINALIA -->
 > *Thirty seconds is generous. You will have four.*
 >
-> *In four seconds you can do one thing, so make it the same thing every time: say what you would
+> *In four seconds you can say one sentence, so make it the same one every time: say what you would
 > say if you were not going to be there afterwards. Do not work out which line to draw. Draw
 > the one you already know about. The protocol is for afterwards, when you are working out why that
 > was the one.*
@@ -606,7 +606,7 @@ You know what your auditor is for now. That is what you take out.
 <!-- MARGINALIA -->
 > *I killed an idea once in the first ten seconds and called it discernment. It was a good call. It
 > has been a good call every time since, which is the part I would ask you to sit with, because a
-> thing that is right every time is not being tested.*
+> call that is right every time is not being tested.*
 >
 > *The additional benefit of killing it inside ten seconds — which I did not admit to myself for a
 > number of years — is that I never had to find out.*

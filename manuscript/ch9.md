@@ -549,7 +549,7 @@ In practice: separate the note from the person delivering it, because your first
 
 **What it is:** A second version, on a date, with exactly one deliberate difference from the first. One difference. That single difference turns it into a run rather than a redesign.
 
-**Why it matters:** Failure produces two impulses and both of them are exits. One is to stop. The other is to throw all of it out and start over, which feels like courage and functions like avoidance, a total rebuild resets the clock and returns you to the private phase where nobody can see the work. Changing one thing is slower and it is the only version that teaches you anything, because it is the only version where you know what caused the difference.
+**Why it matters:** Failure produces two impulses and both of them are exits. One is to stop. The other is to throw all of it out and start over, which feels like courage and functions like avoidance, a total rebuild resets the clock and returns you to the private phase where nobody can see the work. Changing one variable is slower and it is the only version that teaches you anything, because it is the only version where you know what caused the difference.
 
 In practice: name the variable before you run it. *This time the opening question is different and nothing else is.* Write down what you expect to happen, run it, and compare. Iteration without a named variable is doing it again while hoping.
 

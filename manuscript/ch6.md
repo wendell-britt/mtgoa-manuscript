@@ -26,7 +26,7 @@
 >
 > **2. Capability conferred.** Location of the point at which a system produces the outcome it
 > produces. Not the person standing at that point. The point. In practice the consequence
-> arrives about a season later: people stop apologising for things that were never theirs,
+> arrives about a season later: people stop apologising for what was never theirs,
 > because the apology has stopped being accepted.
 >
 > **3. Cost.** Tolerance, stated. This training holds to roughly the third redesign. Past

@@ -136,7 +136,7 @@ Keep the terms apart so they don't blur together. Shadow is the move that stays 
 ### *What the Village Does When It Can't See the Games It's Playing*
 
 <!-- MARGINALIA -->
-> *A partial list of things this school runs on that exist nowhere in writing: the intake sequence,
+> *A partial list of what this school runs on that exists nowhere in writing: the intake sequence,
 > the reason we stopped the second-year review, four agreements with three worlds, and the whole of
 > what we do when a student leaves badly.*
 >
@@ -816,7 +816,7 @@ That's the whole Sage in a single move: the seeing, said out loud, and the not-l
 >
 > *I am fine. I want that in my own hand, since six people have now put the opposite in writing and
 > been courteous about it. I am fine, and I am still paying for this, and both are true on the same
-> day. That is the one thing I have that none of them can teach you, and it took all six of them
+> day. That is the one lesson I have that none of them can teach you, and it took all six of them
 > writing in here to get me to set it down.*
 <!-- /MARGINALIA -->
 

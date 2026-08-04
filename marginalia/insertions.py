@@ -21,7 +21,7 @@ corridor, like it was the weather.*
 """,
 4: """
 *Ash stopped me four times in one hour. The fourth time I had nothing left to protect, and that
-was the first useful thing I said.*
+was the first useful sentence I said.*
 
 — Ren Alcott, first-year, School of the Line
 
@@ -100,7 +100,7 @@ anything at all. I mention it because she will not, and because you are shortly 
 somebody who spent years marking her own homework.*""",
 4: """*Corin held a verdict open once. One time that I know of, against every instinct they have, for
 the four days it took the evidence to arrive. It changed the outcome and they have never
-mentioned it, and it is the hardest thing I have watched anyone on this staff do.*
+mentioned it, and I have not watched anyone on this staff do anything harder.*
 
 *The rest of the time they interrupt. Not rudely and not always usefully, but reliably — you will
 be three sentences into explaining yourself and they will stop you and ask what you are
@@ -150,7 +150,7 @@ question. She thought I was asking when the building went up.*
 ("### Polarity Encounter — Feeling ↔ Function", """*Watch for the point where you get good at this and it becomes enough.*
 
 *You will start reading a company accurately. That is a real skill, rarer than it sounds, and
-each accurate read will feel like a thing accomplished. It is not one. A read that never becomes
+each accurate read will feel like an accomplishment. It is not one. A read that never becomes
 a move is a very sophisticated way of standing still, and I have watched people build whole
 careers in that spot and be admired the entire time.*"""),
 ("### The Five Stages of the WAVE-Spiral", """*Maera says the spiral can run in ten seconds. She is right, and she has been practising for
@@ -194,7 +194,7 @@ are waiting for. If they can tell you, it is not cowardice. If they say "just a 
 have your answer, and so do they.*"""),
 ("30-Second Protocol", """*Thirty seconds is generous. You will have four.*
 
-*In four seconds you can do one thing, so make it the same thing every time: say what you would
+*In four seconds you can say one sentence, so make it the same one every time: say what you would
 say if you were not going to be there afterwards. Do not work out which line to draw. Draw
 the one you already know about. The protocol is for afterwards, when you are working out why that
 was the one.*"""),
@@ -207,7 +207,7 @@ committee doing its job is nearly impossible to argue with. Which is why nobody 
 and why nothing has been approved since I came aboard.*"""),
 ("## Section 6", """*I killed an idea once in the first ten seconds and called it discernment. It was a good call. It
 has been a good call every time since, which is the part I would ask you to sit with, because a
-thing that is right every time is not being tested.*
+call that is right every time is not being tested.*
 
 *The additional benefit of killing it inside ten seconds — which I did not admit to myself for a
 number of years — is that I never had to find out.*"""),
@@ -221,7 +221,7 @@ a ceiling with six colours in it is worth more than a ceiling with one. Their fo
 They have kept the recipes.*
 
 *I knew what the colours meant before the guide explained them. I did not mention it.*"""),
-("Polarity Encounter — Honor", """*This is the polarity Sera lives in and it is where she is least reliable. She will hold a thing
+("Polarity Encounter — Honor", """*This is the polarity Sera lives in and it is where she is least reliable. She will hold a practice
 one season longer than it can bear, every time, and she will have a good reason.*
 
 *The reason will be true. That is what makes it hard. The test is not whether the reason is good
@@ -236,13 +236,13 @@ you have.*"""),
 Heads believe it predates the ship, which it cannot, because we invented it in the fourth year —
 I was there and I remember the argument about the candles.*
 
-*It is the best-attended thing we do. I have stopped correcting people.*"""),
-("what you were holding was you", """*Sera does this. Not the repair half — the second one. She is the reason four separate things on
+*It is the best-attended ceremony we have. I have stopped correcting people.*"""),
+("what you were holding was you", """*Sera does this. Not the repair half — the second one. She is the reason four separate systems on
 this ship still function, none of them written down, all of them in her head, and she will tell
 you she is simply the person who happens to remember.*
 
 *I have raised it with her twice. Both times she agreed, thanked me, and changed nothing, and I
-let it go, because the four things kept working and I had a term to run.*"""),
+let it go, because the four systems kept working and I had a term to run.*"""),
 ]
 
 NOTES[6] = [
@@ -283,7 +283,7 @@ have not told them.*"""),
 NOTES[7] = [
 ("You cannot decline something you were never told about", """*This is the sentence in the treatise I have quoted most and understood last.*
 
-*For years I read it as being about other people failing to tell me things. Every set of terms I
+*For years I read it as being about other people failing to tell me their terms. Every set of terms I
 have not stated was a set of terms I had already decided somebody would find unreasonable — which
 means I ran their side of the conversation for them, alone, and then held the result against
 them.*"""),
@@ -292,7 +292,7 @@ cost somebody other than its owner.*
 
 *They stay. They have stayed in company that had already chosen harm, well past the point where
 staying did anything but lend that company their reputation. They know this. They will tell you the
-walk-away terms are the hardest thing they teach because they are the thing they are worst at,
+walk-away terms are the hardest lesson they teach because they are the one they are worst at,
 and then they will teach them better than anyone alive.*"""),
 ("the truth rather than an interpretation", """*Elian's fix is humility, and humility is the right fix for the ordinary case. The harder one
 arrives with two names.*
@@ -356,7 +356,7 @@ any longer.*
 *He reads a company better than I do. He has never said so. I am saying it.*""",
  "Maera Voss, School of the Body"),
 
-("## Section 2", """*A partial list of things this school runs on that exist nowhere in writing: the intake sequence,
+("## Section 2", """*A partial list of what this school runs on that exists nowhere in writing: the intake sequence,
 the reason we stopped the second-year review, four agreements with three worlds, and the whole of
 what we do when a student leaves badly.*
 
@@ -416,7 +416,7 @@ I have given the school every time since.*
 
 *I am fine. I want that in my own hand, since six people have now put the opposite in writing and
 been courteous about it. I am fine, and I am still paying for this, and both are true on the same
-day. That is the one thing I have that none of them can teach you, and it took all six of them
+day. That is the one lesson I have that none of them can teach you, and it took all six of them
 writing in here to get me to set it down.*""",
  None),
 ]
@@ -467,16 +467,16 @@ HANDBOOK = {
     3: """**THE SCHOOL OF THE BODY**
 *Admissions. Filed as required.*
 
-**1. Who we are for.** I look for two things and will not take one without the other. First,
+**1. Who we are for.** I look for two qualities and will not take one without the other. First,
 that the applicant has felt something in a gathering before anybody named it, said nothing,
 and been right. Second, that they have watched somebody else feel something and hold it in,
 and noticed the holding in, and minded it afterward. I decline applicants who bring only the
 second. I cannot teach a person to hand over an instrument they have never held.
 
-**2. What you will be able to do when you leave.** I teach one thing. A student learns to
+**2. What you will be able to do when you leave.** I teach one skill. A student learns to
 name where a feeling landed in the body before naming what it means. Chest, throat, the back
 of the neck, the jaw. It sounds small to me as well, and I have watched what follows from
-it: the people around that student begin saying things earlier, because somebody present is
+it: the people around that student begin speaking earlier, because somebody present is
 visibly not waiting to be sure.
 
 **3. What it costs.** Being wrong out loud, on a schedule, in front of the same faces. I
@@ -485,9 +485,9 @@ for about a term. Those who arranged to be wrong only in private have suffered a
 The instrument does not recalibrate in private. Three have come back after a decade to begin
 again, and I took them.
 
-**4. What we do not teach.** What to do about the feeling once I have it. Two things can be
-done and neither of them is mine. If the situation needs a sentence said to a face, that is
-the School of the Line. If it needs the shape of the thing changed so the feeling stops
+**4. What we do not teach.** What to do about the feeling once I have it. Two responses are possible and
+neither of them is mine. If the situation needs a sentence said to a face, that is
+the School of the Line. If it needs the pattern changed so the feeling stops
 arriving in the first place, that is the School of the Pattern. I send more students to the
 Pattern than I expected to.
 
@@ -501,13 +501,13 @@ solved it. I teach here anyway.""",
 *Admissions. Filed as required.*
 
 **1. Who we are for.** You have said no and had it not take. You said it in a meeting,
-pleasantly, and the thing went ahead; you said it again six weeks later and were told you
+pleasantly, and it went ahead anyway; you said it again six weeks later and were told you
 had raised that already. You have also watched it happen to somebody with less standing than
 you, and done nothing, and known at the time you were doing nothing. Both. Applicants with
 one are declined.
 
 **2. What you will be able to do when you leave.** State a limit in one sentence and not
-take it back in the four seconds afterward. The specific thing stops. Then the second thing,
+take it back in the four seconds afterward. The specific behaviour stops. Then the second effect,
 which students underestimate for about a year: the people watching learn that limits can be
 stated here, and some of them start stating their own.
 
@@ -535,7 +535,7 @@ recruitment notice. What follows is an account.
 
 **Clause two, admission.** Two conditions, both required. First, that the applicant has
 found a practice they belong to altered in the part concerning them, without notice, and
-learned of it afterward and from a third party. Second, that the applicant has kept a thing
+learned of it afterward and from a third party. Second, that the applicant has kept a practice
 they knew to be costing someone. The first condition without the second produces a candidate
 who breaks well and cannot hold. Several were admitted regardless and it is recorded.
 
@@ -553,7 +553,7 @@ claiming to preserve is the failure this one exists downstream of. Such cases go
 School of the Pattern.
 
 **Clause six, entry.** Prior standing at the School of the Line is required. One must be
-able to refuse a thing before one can be trusted to keep it.
+able to refuse before one can be trusted to keep.
 
 **A note from the Head, appended outside the clauses.** I can pass an inheritance intact and
 named, which is the whole of what is claimed above. I have not learned to hand one to
@@ -570,7 +570,7 @@ and saves four years.
 
 **2. Capability conferred.** Location of the point at which a system produces the outcome it
 produces. Not the person standing at that point. The point. In practice the consequence
-arrives about a season later: people stop apologising for things that were never theirs,
+arrives about a season later: people stop apologising for what was never theirs,
 because the apology has stopped being accepted.
 
 **3. Cost.** Tolerance, stated. This training holds to roughly the third redesign. Past

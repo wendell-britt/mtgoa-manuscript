@@ -142,7 +142,7 @@ The difference is not tone. The Diplomat's altitude gets it wrong here most ofte
 <!-- MARGINALIA -->
 > *This is the sentence in the treatise I have quoted most and understood last.*
 >
-> *For years I read it as being about other people failing to tell me things. Every set of terms I
+> *For years I read it as being about other people failing to tell me their terms. Every set of terms I
 > have not stated was a set of terms I had already decided somebody would find unreasonable — which
 > means I ran their side of the conversation for them, alone, and then held the result against
 > them.*
@@ -167,7 +167,7 @@ Every move the School of the Bridge teaches runs downstream of that myth. The Sc
 >
 > *They stay. They have stayed in company that had already chosen harm, well past the point where
 > staying did anything but lend that company their reputation. They know this. They will tell you the
-> walk-away terms are the hardest thing they teach because they are the thing they are worst at,
+> walk-away terms are the hardest lesson they teach because they are the one they are worst at,
 > and then they will teach them better than anyone alive.*
 <!-- /MARGINALIA -->
 

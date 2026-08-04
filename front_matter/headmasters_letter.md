@@ -16,7 +16,7 @@
 > reason there are six of us here instead of one of me.
 >
 > Two ways through, and I have watched both work. Take all six and you will be useful in most
-> situations you walk into, which is what most students come for and is not a small thing. Take
+> situations you walk into, which is what most students come for, and it is not nothing. Take
 > one of them to the bottom and you become the person somebody travels a long way to find, which
 > is rarer and is not better. Nobody here will tell you which you are for, and I have guessed
 > wrong in both directions.
@@ -45,7 +45,7 @@
 > anything accurately. The second one costs students more. What the person you helped does with
 > your move is theirs, and we do not record it as your result.
 >
-> I have been at this a long time and the third week of a first term is still the best thing in
+> I have been at this a long time and the third week of a first term is still the best week in
 > my year. That is when a student stops performing the school at me and starts being in it, and I
 > have never once been able to predict which week it will be for which person, which is most of
 > why I am still here.

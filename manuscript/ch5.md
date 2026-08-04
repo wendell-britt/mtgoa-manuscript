@@ -24,7 +24,7 @@
 >
 > **Clause two, admission.** Two conditions, both required. First, that the applicant has
 > found a practice they belong to altered in the part concerning them, without notice, and
-> learned of it afterward and from a third party. Second, that the applicant has kept a thing
+> learned of it afterward and from a third party. Second, that the applicant has kept a practice
 > they knew to be costing someone. The first condition without the second produces a candidate
 > who breaks well and cannot hold. Several were admitted regardless and it is recorded.
 >
@@ -42,7 +42,7 @@
 > School of the Pattern.
 >
 > **Clause six, entry.** Prior standing at the School of the Line is required. One must be
-> able to refuse a thing before one can be trusted to keep it.
+> able to refuse before one can be trusted to keep.
 >
 > **A note from the Head, appended outside the clauses.** I can pass an inheritance intact and
 > named, which is the whole of what is claimed above. I have not learned to hand one to
@@ -250,7 +250,7 @@ Real stewardship includes the possibility of reform. Real inheritance includes t
 ### Polarity Encounter — Honor ↔ Reform
 
 <!-- MARGINALIA -->
-> *This is the polarity Sera lives in and it is where she is least reliable. She will hold a thing
+> *This is the polarity Sera lives in and it is where she is least reliable. She will hold a practice
 > one season longer than it can bear, every time, and she will have a good reason.*
 >
 > *The reason will be true. That is what makes it hard. The test is not whether the reason is good
@@ -435,7 +435,7 @@ The test is simple: does this move make the inheritance more alive and more rece
 > Heads believe it predates the ship, which it cannot, because we invented it in the fourth year —
 > I was there and I remember the argument about the candles.*
 >
-> *It is the best-attended thing we do. I have stopped correcting people.*
+> *It is the best-attended ceremony we have. I have stopped correcting people.*
 <!-- /MARGINALIA -->
 
 
@@ -530,12 +530,12 @@ It arrives with a condition, and the condition sounds responsible. *I will commi
 Then comes the second move, the Healer half, and it costs you more. When the repair does not arrive, you supply it. Personally. Out of your own body. The structure the organization lacks becomes the structure you hold in your head. The continuity it cannot generate becomes your continuity. The institutional memory nobody wrote down becomes your memory, and you become load-bearing in a way nobody voted on and nobody can see. You are not committing to the tradition. You are substituting for it. From outside, those look identical, until you leave, and everyone discovers that what you were holding was you.
 
 <!-- MARGINALIA -->
-> *Sera does this. Not the repair half — the second one. She is the reason four separate things on
+> *Sera does this. Not the repair half — the second one. She is the reason four separate systems on
 > this ship still function, none of them written down, all of them in her head, and she will tell
 > you she is simply the person who happens to remember.*
 >
 > *I have raised it with her twice. Both times she agreed, thanked me, and changed nothing, and I
-> let it go, because the four things kept working and I had a term to run.*
+> let it go, because the four systems kept working and I had a term to run.*
 <!-- /MARGINALIA -->
 
 
