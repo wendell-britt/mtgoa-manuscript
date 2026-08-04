@@ -277,15 +277,15 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 **As a demon:** it takes over when no one asked it to, or keeps a harmful situation in place because change feels riskier. *In play:* a friend shares something hard, and you are already three solutions deep before you have asked what they need.
 
 #### The Emotional Body
-**Job:** The seat of your emotional life, where feeling gets processed into meaning.
-**As an ally:** the feeling runs clean and becomes information you can use. *In play:* something stings in a conversation; you feel it all the way through, and it tells you something true about what just happened.
-**As a demon:** the feeling gets stuck, buried or spilling out sideways, because it never gets metabolized. *In play:* an unprocessed feeling spills out of you, and the person you came to support ends up taking care of you.
-*(Learning its language is the whole of the next chapter.)*
+**Job:** To turn feeling into information you can use.
+**As an ally:** it helps you feel a response clearly enough to learn from it. *In play:* something stings in a conversation; you stay with the feeling long enough to notice what it tells you about what happened.
+**As a demon:** it leaves feeling buried or spilling into another interaction. *In play:* a feeling you have not processed takes over a conversation, and the person you came to support ends up taking care of you.
+*(Chapter 3 teaches you to read its language.)*
 
 #### The Victim
-**Job:** To win sympathy through stories. Telling what happened is how it gets another person to feel it with you.
-**As an ally:** it lets you feel with someone and resonate with what they're carrying, without collapsing into their story. *In play:* someone tells you something hard and you feel it with them, moved by it, without losing yourself in it or making it yours; you stay steady enough to actually help.
-**As a demon:** it keeps people in the drama triangle. In the rush to resonate with someone's pain, it allies with their victimhood and smallness instead of their wellbeing, meeting the wound so completely that it confirms them in it and keeps them in the role rather than helping them move through it. *In play:* someone shares how they were wronged, and you resonate so hard with the injury that they leave more settled into being a victim of it, no more able to act than before.
+**Job:** To make sure pain is witnessed and taken seriously.
+**As an ally:** it lets you feel with someone without taking over their story. *In play:* someone tells you something hard; you are moved by it, stay steady, and help them decide what they need next.
+**As a demon:** it turns a story of harm into the only thing anyone can see, leaving the person with less access to their choices. *In play:* someone tells you how they were wronged, and you focus so completely on the injury that neither of you can see what support or action would help now.
 
 #### The Damaged Self
 **Job:** To take the damage. When nothing else can keep a hit out, it absorbs the hit itself, so what it's carrying survives. It's the Protector's last resort.
