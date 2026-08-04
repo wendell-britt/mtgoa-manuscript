@@ -58,6 +58,8 @@ BORROWED = [
     # the Architect chapter as a term of art".
     (r"leverage points?", "Meadows"),
     (r"polarity map|both/and", "Johnson"),
+    # Added 2026-08-03 with ch1:50. Wendell: "go ahead and cite selligman."
+    (r"learned helplessness", "Seligman"),
     (r"big mind", "Merzel|Genpo"),   # he is credited by his teaching name in ch8
     (r"genius demon ally", "Rice"),
     (r"existential kink", "Elliott"),
