@@ -237,7 +237,7 @@ Heads believe it predates the ship, which it cannot, because we invented it in t
 I was there and I remember the argument about the candles.*
 
 *It is the best-attended thing we do. I have stopped correcting people.*"""),
-("the thing you were holding was you", """*Sera does this. Not the repair half — the second one. She is the reason four separate things on
+("what you were holding was you", """*Sera does this. Not the repair half — the second one. She is the reason four separate things on
 this ship still function, none of them written down, all of them in her head, and she will tell
 you she is simply the person who happens to remember.*
 
