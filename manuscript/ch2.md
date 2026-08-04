@@ -54,7 +54,15 @@ This theory is incomplete rather than wrong. The old allyship produced real wins
 
 You bring a body to every one of those actions. Sometimes that body runs on three hours of sleep. Sometimes it has been braced since the morning meeting. The old allyship does not ask about that. It assumes the person executing the right actions has the body to do it.
 
-The old allyship tells you what to do. It doesn't tell you how to be the kind of person who can do it sustainably. Who can show up in the hardest moments without freezing. Who can hold complexity without collapsing. Who can take feedback without disappearing. Who can stay in the conversation when it gets hard.
+Look at the three steps again, and watch what each one hands you. *Learn* hands you a concept. *Feel* gives it weight. *Act* sends it out. All three work on what you know. None of them reaches what moves before you decide anything.
+
+Holding a concept and running one are different skills. What you hold waits for you: you can turn it over, weigh it, choose whether to use it. What you run has already fired by the time you turn to consider it, with somebody waiting, while your face is still doing whatever your face does. You can hold an idea accurately for ten years and never once run it. The holding does not become the running on its own.
+
+The years hand you one and not the other. You have the analysis, faster and sharper than most people at the table. Then an older pattern moves, and you arrive after it, able to name exactly what happened. Naming it is the skill that just failed.
+
+The gap comes with an explanation attached, and the explanation is wrong. It says the problem is you: not committed enough, not brave enough, still too attached to being comfortable. You have carried some form of that for a while now, and it gets heavier with every book you finish.
+
+The accurate explanation is duller. What you built is real, and it is half of a two-part skill. You build the other half live: run a concept while something is happening, catch an older pattern in the act, give it a different job, and do that enough times that your hands know it before you do. Reading further into your half was never going to start the other one.
 
 The old allyship produces moments of brilliance and long stretches of exhaustion. It produces people who care enormously and accomplish less than they could because they keep hitting the same wall. The wall that's not in the world, it's in them.
 

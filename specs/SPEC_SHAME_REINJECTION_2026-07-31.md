@@ -334,7 +334,10 @@ Per the `author-slot` rule in `instruments/placeholders.py`, marked and left
 empty rather than drafted. Drafting into these produced invented biography once
 today already.
 
-- `WENDELL:` **the half-second.** One person who told him something true about
+- `WENDELL:` **the beat.** Renamed 2026-08-04, when the word came out of the two reader-facing
+  BAR prompts at `ch7:553` and `ch8:586` as needless precision. The analysis above keeps
+  *half-second* as the record of the 2026-07-31 ruling; this slot uses what the reader sees.
+  One person who told him something true about
   his impact, what the ledger produced in the moment before he answered, and the
   exact thing he said instead. Three sentences. Everything else in S2 can be
   built around them, and nothing can be built without them — demonstrated by

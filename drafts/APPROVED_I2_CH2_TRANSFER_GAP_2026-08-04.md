@@ -1,10 +1,26 @@
-# I2 — DRAFT FOR APPROVAL, v2
+# APPROVED — I2, the transfer gap, applied to ch2
 
 **Date:** 2026-08-04
 **File:** `manuscript/ch2.md`, section *What the Old Allyship Got Wrong*
 **Base:** `master` @ `3d441f2`
 **Supersedes:** `DRAFT_I2_CH2_TRANSFER_GAP_20260804.md` (v1, the Lakoff pass)
-**Status:** proposal. Nothing enters `manuscript/` until you approve this text.
+**Status:** **applied 2026-08-04.** Ruled by Wendell in four passes, in order:
+
+1. *the jaw sets, the voice goes even, the sentence leaves your mouth* fails on the definite
+   article; keep the original line if the room cannot be solved. It could — *with somebody
+   waiting*.
+2. *You are not the missing step* is handwringing; nobody is on trial for identifying with the
+   missing step. Describe the step.
+3. *half-second* is needlessly specific, does too much work, and does not explain the mechanic.
+   What it points at is the gap between automatic and chosen action. Removed from the insert,
+   and from `ch7:553` and `ch8:586` on option B of the sweep in §9.
+4. **Keep P7. Rename the spec slot. Apply.**
+
+Applied to `manuscript/ch2.md`: the five paragraphs inserted after the body paragraph, P5
+deleted, P7 kept, nothing else touched. Book-wide `review.py` green on all six: voice, gate,
+diet, em-dash, seam, citations, round-trip byte-identical. ch2 after the insert reads
+`be 0.64 · copula 0.60 · waste 1.02 · zombie 0.71 · expletive 0.43 · passive 0.79 · empty 0.97`,
+which is where it read before it.
 
 **What v2 changes.** v1 has the right idea and would have failed the review pass. It was
 written without one: four gate hits and two heavy counters, measured below. v2 keeps the
@@ -164,10 +180,10 @@ paragraphs; v2 buys nothing and cuts only the paragraph it supersedes. The last 
 cost 28 words more than the version that only acquitted her, which is what describing the
 step costs.
 
-**Optional further cut, not taken:** P7 (76 words, the broken-map paragraph) now makes the
-wrong-direction claim a second time and in weaker terms. Cutting it brings the net to
-**+154**. I did not take it, for v1's reason and it is a good one: P7 is the on-ramp to the
-sadness paragraph, and that is Water material under the Shaman's protection. Your call.
+**Optional further cut, offered and declined.** P7 (76 words, the broken-map paragraph) makes
+the wrong-direction claim a second time and in weaker terms; cutting it would have brought the
+net to **+154**. **Ruled 2026-08-04: keep P7.** It is the on-ramp to the sadness paragraph, and
+that is Water material under the Shaman's protection.
 
 **Section-level diet, before and after the insert:** `passive` reads 2.55 on the section as
 shipped and 1.59 with the insert in place. Both are over 1.30 and neither is mine — the
