@@ -391,6 +391,31 @@ grades:
       demotion IS the book's argument enacted in grammar; the argument is made
       explicitly on the page (W-4).
 
+    entity_partial:
+      # RULED by Wendell 2026-08-03. NOT a grade-wide license -- Grade 6's other
+      # entities (the game, the culture, the system, organizations) keep the
+      # pattern-verbs-only ceiling. This is `the field` alone.
+      #
+      # SPEC_FIELD_OF_BODIES_2026-08-02 made the field physical: it is generated
+      # by the bodies present, exists between them and nowhere else, and stops
+      # existing when they leave. ch7:359 now reads "Everyone there makes it."
+      # A thing like that legitimately pushes and carries, the way a magnet
+      # pulls without having a brain. Filing it with the leftovers of what
+      # people did was the wrong shelf.
+      #
+      # SIX VERBS, NOT TWO CLASSES. The first proposal was to license
+      # `directional` + `mechanical` outright, about forty verbs. Wendell
+      # rejected it on his own W-1 precedent -- license `want`, not the
+      # intention class -- and he was right twice. These are the six that
+      # actually appear on the page. A seventh force verb in new prose FLAGS,
+      # and somebody looks at it, which is the point: the sentence where a field
+      # pushes is the sentence most likely to be hiding a person who pushed.
+      #
+      # Still barred at every strength: perception, intention, speech,
+      # social-causal. A field does not learn, allow, ask or answer.
+      the field: [carry, move, push, fill, run, turn]
+
+
   - id: 7
     name: Shame and stuck states
     entities: [shame, worry, rage, despair, guilt, anxiety, dread, resentment,

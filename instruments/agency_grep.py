@@ -131,7 +131,7 @@ def build_index(reg):
                 # is the one that survives.
                 verb2class.setdefault(s.lower(), cls)
 
-    ent2grade, licensed, partial = {}, {}, {}
+    ent2grade, licensed, partial, ent_partial = {}, {}, {}, {}
     for g in reg["grades"]:
         gid = g["id"]
         licensed[gid] = set(g.get("verb_classes") or [])
@@ -141,6 +141,13 @@ def build_index(reg):
         for cls, lemmas in (g.get("verb_classes_partial") or {}).items():
             for lemma in lemmas:
                 partial.setdefault(gid, {}).setdefault(cls, set()).update(
+                    s.lower() for s in surfaces(lemma))
+        # ENTITY-level partial license: one named entity inside a grade, not
+        # the grade. `the field` is physical per SPEC_FIELD_OF_BODIES while the
+        # rest of Grade 6 stays on the pattern-verbs-only ceiling.
+        for ename, lemmas in (g.get("entity_partial") or {}).items():
+            for lemma in lemmas:
+                ent_partial.setdefault(ename.strip().lower(), set()).update(
                     s.lower() for s in surfaces(lemma))
         for e in g.get("entities") or []:
             e = e.strip().lower()
@@ -156,10 +163,11 @@ def build_index(reg):
     e1 = set()
     for lemma in ((reg.get("exceptions") or {}).get("E-1") or {}).get("licensed_verbs") or []:
         e1.update(s.lower() for s in surfaces(lemma))
-    return verb2class, class_sev, ent2grade, licensed, partial, e1
+    return verb2class, class_sev, ent2grade, licensed, partial, e1, ent_partial
 
 
-def tier(cls, grade, licensed, verb=None, partial=None, e1=None):
+def tier(cls, grade, licensed, verb=None, partial=None, e1=None,
+         ent=None, ent_partial=None):
     """Severity tier per the registry's `tiers` block."""
     if cls in licensed.get(grade, set()):
         return 0                                   # licensed; not a finding
@@ -167,6 +175,8 @@ def tier(cls, grade, licensed, verb=None, partial=None, e1=None):
         return 0                                   # W-1 partial license
     if verb and e1 and grade == 3 and verb in e1:
         return 0                                   # E-1, ruled STANDING
+    if verb and ent and (ent_partial or {}).get(ent) and verb in ent_partial[ent]:
+        return 0                                   # entity-level license
     if cls in ("perception", "intention"):
         return 3
     if cls == "social-causal":
@@ -321,7 +331,8 @@ def _is_noun(toks, j):
     return toks[j - 1] in DET or toks[j - 1] in MOD
 
 
-def scan(path, verb2class, ent2grade, licensed, partial=None, e1=None, loose=False):
+def scan(path, verb2class, ent2grade, licensed, partial=None, e1=None,
+         loose=False, ent_partial=None):
     """Every (entity, verb) pair inside a ±5-token window. High recall by design."""
     hits = []
     body = read_body(path)
@@ -383,7 +394,8 @@ def scan(path, verb2class, ent2grade, licensed, partial=None, e1=None, loose=Fal
                         # a person intervening owns the verb, not the abstraction
                         if any(ent2grade.get(toks[k]) == 1 for k in range(i + 1, j)):
                             break
-                        t_ = tier(cls, grade, licensed, toks[j], partial, e1)
+                        t_ = tier(cls, grade, licensed, toks[j], partial, e1,
+                                  ent, ent_partial)
                         if t_ == 0:
                             break
                         hits.append({
@@ -513,12 +525,12 @@ def main():
     a = ap.parse_args()
 
     reg = load_registry()
-    v2c, _sev, e2g, lic, partial, e1 = build_index(reg)
+    v2c, _sev, e2g, lic, partial, e1, entp = build_index(reg)
     files = [os.path.join(ROOT, p) for p in a.paths] or targets(a.include_legacy)
 
     rows = []
     for f in files:
-        rows += scan(f, v2c, e2g, lic, partial, e1, a.loose)
+        rows += scan(f, v2c, e2g, lic, partial, e1, a.loose, entp)
     report(rows, files, a.report)
     return 0
 
