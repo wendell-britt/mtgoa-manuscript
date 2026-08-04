@@ -120,7 +120,7 @@ The choice came down to one thing: Stay and become invisible. Or leave and remem
 
 The Shaman left.
 
-The village never meant for that to happen. It never said "go." It just stopped listening. Which, it turns out, amounts to exile.
+The villagers never meant for that to happen. They never said "go." They just stopped listening. Which, it turns out, amounts to exile.
 
 ---
 
