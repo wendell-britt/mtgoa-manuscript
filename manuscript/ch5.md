@@ -695,7 +695,7 @@ Five moves, one card. The Regent's version runs slower than the others: give it 
 
 A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
 
-One line: what you will do, who it reaches, by when, and what it costs you. *Tend the Structure* becomes: **I will write down how the intake process actually works, give it to Priya by the end of the month, and walk her through it once, and it will cost me being the only person who knows.** That is a quest. *I will delegate more* is not one; nobody can tell whether you did it, including you.
+One sentence: what you will do, who it reaches, by when, and what it costs you. *Tend the Structure* becomes: **I will write down how the intake process actually works, give it to Priya by the end of the month, and walk her through it once, and it will cost me being the only person who knows.** That is a quest. *I will delegate more* is not one; nobody can tell whether you did it, including you.
 
 The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For a Regent the dread usually concerns becoming unnecessary, and that is the dread to trust.
 
@@ -718,7 +718,7 @@ The villagers exiled the Architect for a specific reason: they mistook *seeing t
 
 The village was wrong. The Architect's love is structural. The Architect builds something better. The Architect has the Regent's stewardship in their blood, because the Architect knows that every system is also an inheritance, and every redesign is also a hand-off.
 
-Add a line to the sheet. Under the line you have not drawn, write the inheritance you carry: one rule, practice or loyalty you took from a house you belonged to and still run without ever having agreed to it. Mark it *protect* or *break*. Being wrong about which is allowed. Leaving it unmarked is not.
+Add a row to the sheet. Under the line you have not drawn, write the inheritance you carry: one rule, practice or loyalty you took from a house you belonged to and still run without ever having agreed to it. Mark it *protect* or *break*. Being wrong about which is allowed. Leaving it unmarked is not.
 
 Now you're ready for the Architect.
 

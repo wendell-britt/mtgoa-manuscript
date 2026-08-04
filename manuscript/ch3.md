@@ -959,7 +959,7 @@ A card that ends in a notebook is a card you read. A card that ends in a quest i
 
 A quest is a commitment to act that touches somebody other than you, on a date. It is not a resolution and it is not a value. It has a verb, a name in it, and a deadline. Quests come from the Show Up cards, and every one of them ends in an artifact, and an artifact is something another person can encounter.
 
-Write yours in one line: what you will do, who it reaches, by when, and what it costs you. *Say the Thing Under the Thing* becomes: **I will tell Dana what I noticed in Tuesday's meeting and not soften it, before Friday, and it will cost me her thinking I am difficult.** That is a quest. *I will be more aware of my impact* is not one; nobody can tell whether you did it, including you.
+Write yours in one sentence: what you will do, who it reaches, by when, and what it costs you. *Say the Thing Under the Thing* becomes: **I will tell Dana what I noticed in Tuesday's meeting and not soften it, before Friday, and it will cost me her thinking I am difficult.** That is a quest. *I will be more aware of my impact* is not one; nobody can tell whether you did it, including you.
 
 The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. Enthusiasm alone usually means you have picked something you were already going to do.
 
@@ -984,6 +984,6 @@ Underneath every part of it is the Alchemist: the willingness to spend a charge 
 
 The system did not give you your superpower. Your specific survival shaped it, your specific losses, your specific adaptations. The Shaman's work is recovering that superpower. Making it conscious. Making it available. Taking it back into the village.
 
-Add a line to the sheet. Under the daemon you wrote down in Chapter 2, write the channel you skip: of Fear, Sadness, Joy, Anger and Neutrality, the one you turn into a task before it has finished telling you anything. All five ran through this chapter. One of them you left early.
+Add a row to the sheet. Under the daemon you wrote down in Chapter 2, write the channel you skip: of Fear, Sadness, Joy, Anger and Neutrality, the one you turn into a task before it has finished telling you anything. All five ran through this chapter. One of them you left early.
 
 ---

@@ -58,17 +58,20 @@ elements. That fix is right everywhere and it removed the one word — `things` 
 signalling *a line of text* rather than *a boundary*. The formula is now maximally ambiguous
 in exactly the chapter where it matters.
 
-**Options, and this wants a ruling:**
+**RULED 2026-08-03 — Wendell: *"do the line fix, one sentence and add a row."*** Applied by
+`instruments/line_collision.py`, 13 sites across seven chapters:
 
-| | |
-|---|---|
-| **a** | Change the worksheet sense book-wide: `One line:` → `One sentence:`, `Add a line to the sheet` → `Add a row to the sheet`. Consistent, mechanical, 13 sites. `sentence` is already the book's word for a said thing in ch3 and ch7. |
-| **b** | Change it in ch4 only. Cheapest, and leaves the book with two versions of a repeated formula. |
-| **c** | Leave it. The senses are far enough apart in six of seven chapters that only ch4:795 genuinely misreads. |
+    One line: / Write yours in one line:   ->  One sentence:          6 sites
+    Add a line to the sheet                ->  Add a row to the sheet 7 sites
 
-**a** is my read. The quest formula is asking for *one sentence a stranger could repeat* —
-ch9:508 says exactly that — so `One sentence:` is more accurate as well as unambiguous, and
-`Add a row to the sheet` is what the instruction physically means.
+Both replacements are more accurate as well as unambiguous. `ch9:508` already defines the
+artifact as *"said in a sentence a stranger could repeat"* and `ch4:712` already writes *"One
+sentence of line and one of offer"* — the formula was asking for a sentence and calling it a
+line. And the sheet is a table built across the book (myth, daemon, channel, line,
+inheritance, harm, walk-away price, game), one entry per chapter, so a row is what it takes.
+
+`line` now means the boundary everywhere in the manuscript except `ch2:328` and `ch7:77`,
+which are the boundary sense too.
 
 ---
 

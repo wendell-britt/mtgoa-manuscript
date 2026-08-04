@@ -610,7 +610,7 @@ Five moves, one card, ninety seconds, six of which are the only ones your Emotio
 
 A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
 
-One line: what you will do, who it reaches, by when, and what it costs you. *Build the Ladder* becomes: **I will hand the vendor relationship to Jess with the three details I never wrote down, by the fifteenth, and it will cost me being the person they call.** That is a quest. *I will build more sustainable systems* is not one; nobody can tell whether you did it, including you.
+One sentence: what you will do, who it reaches, by when, and what it costs you. *Build the Ladder* becomes: **I will hand the vendor relationship to Jess with the three details I never wrote down, by the fifteenth, and it will cost me being the person they call.** That is a quest. *I will build more sustainable systems* is not one; nobody can tell whether you did it, including you.
 
 The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For an Architect the dread is usually that it will be built worse without you. That is frequently true and it is not a reason.
 
@@ -633,6 +633,6 @@ Here is the limit built into all of it. The Architect can design the system and 
 
 That is the Diplomat's work, and it comes after the Architect's rather than instead of it. What the Architect hands forward is what the Diplomat does not have yet: that the best systems make the right thing the easy thing, not through mandates and not through enforcement, but through design.
 
-Add a line to the sheet. Under the inheritance, write the harm you keep fixing: the one that comes back, that you have handled so often you stopped counting it as work. Then name the condition that keeps producing it. The first name gets you a queue that never empties. The second gets you a design you could hand to somebody else.
+Add a row to the sheet. Under the inheritance, write the harm you keep fixing: the one that comes back, that you have handled so often you stopped counting it as work. Then name the condition that keeps producing it. The first name gets you a queue that never empties. The second gets you a design you could hand to somebody else.
 
 Now you're ready for the Diplomat.

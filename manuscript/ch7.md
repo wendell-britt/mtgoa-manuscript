@@ -774,7 +774,7 @@ Five moves, one card, ninety seconds. The Diplomat's version is the one most lik
 
 A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
 
-One line: what you will do, who it reaches, by when, and what it costs you. *Bring Them Into the Structure* becomes: **I will put the two people who have been running intake without a title into the decision that names it, at Thursday's meeting, and it will cost me being the one who explains them to everybody else.** That is a quest. *I will be more inclusive in how decisions get made* is not one; nobody can tell whether you did it, including you.
+One sentence: what you will do, who it reaches, by when, and what it costs you. *Bring Them Into the Structure* becomes: **I will put the two people who have been running intake without a title into the decision that names it, at Thursday's meeting, and it will cost me being the one who explains them to everybody else.** That is a quest. *I will be more inclusive in how decisions get made* is not one; nobody can tell whether you did it, including you.
 
 The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For a Diplomat the dread usually says that naming the terms will cost you the belonging. Occasionally true, and not a reason.
 
@@ -815,6 +815,6 @@ The Sage does.
 
 ---
 
-Add a line to the sheet. Under the harm you keep fixing, write your walk-away price: what would have to happen, or keep happening, before you walked out instead of staying and disappearing. Write it so you could say it out loud to the people it concerns. A price you have not named is one you pay in instalments and call patience.
+Add a row to the sheet. Under the harm you keep fixing, write your walk-away price: what would have to happen, or keep happening, before you walked out instead of staying and disappearing. Write it so you could say it out loud to the people it concerns. A price you have not named is one you pay in instalments and call patience.
 
 **Next:** The Sage, the one who sees all six altitudes and knows which one the game actually plays at.

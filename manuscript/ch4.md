@@ -749,7 +749,7 @@ Five moves, one card, ninety seconds.
 
 A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
 
-One line: what you will do, who it reaches, by when, and what it costs you. *Draw the Line* becomes: **I will tell the hiring panel on Thursday that I cannot support rejecting her unless somebody names the behaviour, without softening it into a question, and it will cost me being the easy vote on that panel.** That is a quest. *I will be more direct* is not one; nobody can tell whether you did it, including you.
+One sentence: what you will do, who it reaches, by when, and what it costs you. *Draw the Line* becomes: **I will tell the hiring panel on Thursday that I cannot support rejecting her unless somebody names the behaviour, without softening it into a question, and it will cost me being the easy vote on that panel.** That is a quest. *I will be more direct* is not one; nobody can tell whether you did it, including you.
 
 The tell that a quest is alive is not enthusiasm. It arrives as anticipation with some dread underneath it. For a Challenger the dread usually arrives first. Good sign, hard one.
 
@@ -792,6 +792,6 @@ The Regent can organize power. The Regent can build institutions. The Regent can
 
 Before the Regent can build, the Challenger has to know what line is worth building around.
 
-Add a line to the sheet. Under the channel you skip, write the line you have not drawn: what you owe a specific person and have been softening since before you picked up this book. Name the person. Every move in this chapter is a rehearsal for saying it once and not adding a sentence afterward.
+Add a row to the sheet. Under the channel you skip, write the line you have not drawn: what you owe a specific person and have been softening since before you picked up this book. Name the person. Every move in this chapter is a rehearsal for saying it once and not adding a sentence afterward.
 
 Now you're ready for the Regent.

@@ -499,7 +499,7 @@ The Forest is where those daemons are met and befriended. Six guides know that t
 
 Before you walk on: the work in this book unfolds in four directions: gathering resources, skillful organizing, taking direct action, and raising awareness. All four are real allyship. Appendix A holds the full map, and a way to find which direction is calling you right now.
 
-Add a line to the sheet before you go. In Chapter 1 you wrote down the myth that runs you hardest, the rule you had been playing by without ever agreeing to it. Underneath it, write the daemon that took the joystick first when you ran the five moves, and the job it has been doing for you. Those two lines are the same mechanism seen from two directions, and most of the rest of this book works on the seam between them.
+Add a row to the sheet before you go. In Chapter 1 you wrote down the myth that runs you hardest, the rule you had been playing by without ever agreeing to it. Underneath it, write the daemon that took the joystick first when you ran the five moves, and the job it has been doing for you. Those two lines are the same mechanism seen from two directions, and most of the rest of this book works on the seam between them.
 
 From here you have two routes:
 
