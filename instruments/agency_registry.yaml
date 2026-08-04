@@ -63,7 +63,15 @@ verb_classes:
     note: "the most dangerous class on unlicensed subjects"
     lemmas: [want, decide, promise, refuse, try, convince, intend, mean,
              choose, prefer, seek, aim, hope, expect, demand, insist, allow,
-             permit, let, need, wish, plan, attempt, persuade]
+             permit, let, need, wish, plan, attempt, persuade,
+             # Added 2026-08-03. The avoidance family was absent entirely --
+             # dodge, avoid, hide, skip, duck, evade -- in a book substantially
+             # ABOUT avoidance ("putting down becomes giving up", "a very
+             # sophisticated way of hiding"). ch9:213's "every redesign DODGES
+             # the one thing the work actually needs" was invisible, and it is
+             # the shape that matters most: an artifact performing the evasion
+             # its author is performing. Avoiding takes a will, so intention.
+             dodge, avoid, hide, skip, duck, evade, sidestep, defer]
   speech:
     severity: 3
     lemmas: [say, argue, whisper, insist, claim, declare, announce, state,
@@ -473,13 +481,37 @@ grades:
                the model, the concept, the idea, "the work", "the practice",
                "the process", "the approach", "the method", "the theory",
                "the research", "the data", "the argument", "the section"]
-    verb_classes: []
+    verb_classes: [mechanical, directional]
     trace: none
     constraints: >
       Authorial metonymy ("this chapter asks", "the book returns to") pends
       W-2. Tag, do not resolve.
 
 # ---------------------------------------------------------------- ambiguity
+    constraints: >
+      RULED by Wendell 2026-08-03. This grade licensed NOTHING, which made it
+      the strictest in the registry -- and it is the DEFAULT bucket, where every
+      unlisted abstraction lands: the work, the book, this chapter, the
+      practice, the method. So ch9's own named diagnostic, "does the work move
+      toward contact with someone, or away from it", run three times as a test
+      the reader performs, flagged on every pass.
+
+      Mechanical and directional are now licensed. NOT by the a fortiori
+      argument used for Grades 2 and 3 -- that reasons from a high-severity
+      license down, and this grade had none to reason from. The ground here is
+      simpler and the registry's own header already states it: mechanical is
+      "mind-free by definition", and mechanical and directional on unlicensed
+      subjects are "usually dead metaphor, not category error". A verb that
+      cannot carry a mind cannot constitute unearned mind, whatever the subject.
+
+      DELIBERATELY NOT LICENSED: causal-bare and pattern. W-2 ruled that the
+      book may take "mechanical and directional for structural navigation" and
+      named those two classes exactly. Licensing causal-bare here would reopen
+      sites W-2 closed -- "the book left you to figure out the rest" is a
+      causal-bare verb on a Grade 0 subject, and it was converted to the
+      author's chair on purpose.
+
+
 disambiguation:
   game:
     note: >
