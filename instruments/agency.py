@@ -81,7 +81,9 @@ anyone everyone nobody wendell jordan maera ash quill vale cross orr bram tull
 architect challenger regent diplomat sage shaman player villager villagers
 one
 protector controller skeptic fixer healer victim daemon daemons
-self body""".split())
+self body
+face faces
+dana priya marcus nia sam rosa imani""".split())
 
 # The seven daemons joined ANIMATE on 2026-08-03, ruled by Wendell. They were
 # absent while the six Faces were present, which is the same class of subject:
@@ -91,6 +93,15 @@ self body""".split())
 # of the book's headline agency number was the book working correctly.
 # `self` and `body` are here for the Damaged Self and the Emotional Body, whose
 # head noun is the second word.
+#
+# `face`/`faces` and the named people joined on the same ruling, 2026-08-03. The six
+# Faces were already here by name and the generic word was not, so `the six Faces
+# carries its own word` scored while `the Diplomat carries` did not. The named
+# hypothetical people the Examples use -- Dana ch3:896, Priya ch4:632, Marcus
+# ch5:607, Nia ch7:594, Sam ch8:630, Rosa ch9:528, Imani ch2 -- are people, and the
+# gap stayed invisible only while no Example subject had a name: `imani` **want** at
+# ch2:393 was the single new Tier 1 site across a day of added canon, and it was a
+# false positive.
 
 # An abstraction cannot hold a mental state or perform a speech act. Wendell's
 # test: "games can't want things like this."

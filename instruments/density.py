@@ -61,9 +61,41 @@ ROOT = os.path.join(HERE, os.pardir)
 LETTER = "front_matter/headmasters_letter.md"
 
 # The five passages Wendell picked as the book at its best, DL-14 / VOICE_ANCHOR.md.
-ANCHOR = [("manuscript/ch1.md", 10), ("manuscript/ch1.md", 119),
-          ("manuscript/ch4.md", 115), ("manuscript/ch5.md", 516),
-          ("manuscript/ch8.md", 342)]
+#
+# RESOLVED BY CONTENT, 2026-08-03. These were five hardcoded line numbers, and on
+# 2026-08-03 three of them silently went stale: inserting a paragraph into Section 1
+# of ch4, ch5 and ch8 pushed each anchor down two lines, so the control was scoring
+# paragraphs Wendell never picked. The agentless rate on the anchors read 63% against
+# a real 46%, and nothing failed -- a line number cannot tell you it is pointing at
+# the wrong thing.
+#
+# The fix is to anchor on a distinctive phrase from each passage and resolve the line
+# at import. If a passage is ever edited past recognition this raises rather than
+# drifting, which is the behaviour a control needs.
+ANCHOR_TEXT = [
+    ("manuscript/ch1.md", "It wasn't until I gave myself permission"),
+    ("manuscript/ch1.md", "you perform the care, you feel like"),
+    ("manuscript/ch4.md", 'At *using "I" statements.*'),
+    ("manuscript/ch5.md", "I have a part of me I call Mr. Inadequate"),
+    ("manuscript/ch8.md", "The view from above was the easy half"),
+]
+
+
+def _resolve_anchors():
+    out = []
+    for rel, needle in ANCHOR_TEXT:
+        lines = io.open(os.path.join(ROOT, rel), encoding="utf-8").read().split("\n")
+        hits = [i + 1 for i, l in enumerate(lines) if needle in l]
+        if len(hits) != 1:
+            raise SystemExit(
+                "VOICE_ANCHOR drift: %r matches %d lines in %s. The passage moved or "
+                "changed; re-read specs/VOICE_ANCHOR.md and update ANCHOR_TEXT."
+                % (needle, len(hits), rel))
+        out.append((rel, hits[0]))
+    return out
+
+
+ANCHOR = _resolve_anchors()
 
 
 def _load(name, path):
