@@ -194,7 +194,7 @@ Most people learned to interrupt this logic. To say *but people should just know
 
 Real structural design works differently. Real structural design means looking at the system you're inside and asking: *what is this system actually rewarding? Is that what I want it to reward? If not, where is the actual leverage point for change?*
 
-Then (here comes the part most people skip) *and now: how do I redesign the system so the right thing becomes the thing that actually gets done?*
+Then (here comes the step most people skip) *and now: how do I redesign the system so the right thing becomes the thing that actually gets done?*
 
 That's the Architect's practice: the redesign, one step past the analysis. *Here's why this keeps breaking* stops one move short of *here's what we build instead.*
 

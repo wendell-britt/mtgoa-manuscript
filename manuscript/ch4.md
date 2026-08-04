@@ -200,7 +200,7 @@ The Challenger's pair: the force it takes to move something versus the restraint
 
 Both poles have a failure state, and the failure states do not mirror each other. Force without restraint is a hazard: every charge becomes a line, every line becomes a confrontation, and the people around you begin managing you instead of working with you. Restraint without force is furniture: present at every table, costing no one anything, changing nothing that would have happened anyway.
 
-Here is the part specific to this reader. The suspicion runs one direction. Force has warnings attached to it at this altitude and Restraint has a vocabulary: discernment, deference, not centering yourself, waiting to be invited. Every word in that vocabulary names something real. They also make one end of the axis sound like a virtue and the other end sound like a risk, which means the drift never has to announce itself. Nobody sits down at Restraint in a single decision. It accumulates one defensible call at a time.
+Here is what is specific to this reader. The suspicion runs one direction. Force has warnings attached to it at this altitude and Restraint has a vocabulary: discernment, deference, not centering yourself, waiting to be invited. Every word in that vocabulary names something real. They also make one end of the axis sound like a virtue and the other end sound like a risk, which means the drift never has to announce itself. Nobody sits down at Restraint in a single decision. It accumulates one defensible call at a time.
 
 <!-- SIGNATURE -->
 > the second treatise, submitted by Corin Ash, Master of the Clean No,
@@ -501,7 +501,7 @@ One more move belongs here, the smallest one in the chapter.
 
 A voice arrives right before you draw a line. It is not the auditor: the auditor asks a question. This one has already decided. It says the same sentence every time, in the same tone: *do this and you become the difficult one, and what you have with these people will not survive it.* Tight. Pinched. Completely certain.
 
-Here is the part almost nobody gets told about that voice: it is not lying to you. It is a memory. Somewhere behind it sits a real occasion when pushing did cost something, a relationship that cooled, a table nobody invited you back to. The voice reports accurately.
+That voice is not lying to you. It is a memory. Somewhere behind it sits a real occasion when pushing did cost something, a relationship that cooled, a table nobody invited you back to. The voice reports accurately.
 
 What it gets wrong is the timestamp. It files a past event as live coverage. It stands at the door of the conversation happening now and narrates something that already finished, in the present tense, at the volume of an emergency.
 

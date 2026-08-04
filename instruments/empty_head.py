@@ -54,8 +54,9 @@ carrying the meaning the noun refused to.
 
 Reports; does not block.
 
-    first run  2026-08-03    HARD 266   (89 aggravated)   SOFT 288   2.44 /1k
-    after the `thing` sweep  HARD 136   (28 aggravated)   SOFT 291   1.25 /1k
+    first run  2026-08-03      HARD 266  (89 aggravated)  SOFT 288  2.44 /1k
+    after the `thing` sweep    HARD 136  (28 aggravated)  SOFT 291  1.25 /1k
+    after the tier-1 sweep     HARD  16  ( 5 aggravated)  SOFT 291  0.15 /1k
 
 `thing` is done book-wide: 405 body instances to 31, and the 31 are the three carve-outs
 below plus five odds. **HARD is now the rest of tier 1** — `part`, `piece`, `stuff`,
@@ -77,10 +78,26 @@ import io, os, re, sys, glob
 
 DET = r"(?:the|this|that|these|those)"
 
-# Tier 1 — the head contributes no content in any context. Wendell 2026-08-03 on `thing`:
+# Tier 1 — the head contributes no content IN THIS BOOK. Wendell 2026-08-03 on `thing`:
 # "because of how unspecific it is."
-HARD = r"(?:thing|things|stuff|part|parts|piece|pieces|bit|bits|aspect|aspects|" \
-       r"element|elements|factor|factors|area|areas|matter)"
+#
+# CORRECTED 2026-08-03 after the tier-1 sweep, which found the list over-broad by 98 of
+# 125. `part` and `parts` are OUT: the daemon system is parts work -- "Those parts are
+# daemons", "a part of you has already felt", "the part that audits your charge", and ch8's
+# section heading "The Part That Turned a Difference Into a Defect". ch5 and ch6 add a
+# second contentful sense, a part of a structure: "This part is load-bearing", "whether the
+# parts add up to a whole".
+#
+# `piece`, `pieces` and `matter` are OUT for the same reason, in fixed compounds where the
+# head works: a piece of evidence, a piece of feedback, moving a piece on the board,
+# allyship is a matter of following the right people, any say in the matter.
+#
+# THE LESSON, and it is the same one `field` and `charge` taught from the other direction:
+# a head noun is empty only in a particular book. `thing` was empty everywhere here. `part`
+# is a term of art here. A generic list cannot know that, so this one is now a list of
+# words THIS MANUSCRIPT has no use for.
+HARD = r"(?:thing|things|stuff|bit|bits|aspect|aspects|" \
+       r"element|elements|factor|factors|area|areas)"
 
 # Tier 2 — the fillers the repair passes themselves produce. Scoped deliberately narrow.
 #

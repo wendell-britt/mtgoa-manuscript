@@ -92,7 +92,7 @@ Here is the definition this book is built on.
 
 Nothing in it asks whether you are good. The moment my help requires me to disappear, or turns you into a project or proof that I am good, we have left allyship. The definition guards the conditions where both of us can keep making real moves.
 
-So you are not the defendant waiting on a verdict about your character. You are a player who has spent years inside a game someone else built. The myths are its rules, handed to you by people you trusted or absorbed so early you never saw them arrive, and you have been straining to win something that was rigged before you sat down. Here is the part the game would rather you not notice: you can look straight at it, decide it is not yours, and stand up. Once you are on your feet, you get to build a different game, with rules you would actually choose. That is what the rest of this book is for.
+So you are not the defendant waiting on a verdict about your character. You are a player who has spent years inside a game someone else built. The myths are its rules, handed to you by people you trusted or absorbed so early you never saw them arrive, and you have been straining to win something that was rigged before you sat down. You can look straight at it, decide it is not yours, and stand up. Once you are on your feet, you get to build a different game, with rules you would actually choose. That is what the rest of this book is for.
 
 ---
 
