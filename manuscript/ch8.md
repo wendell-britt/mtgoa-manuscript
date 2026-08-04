@@ -384,7 +384,7 @@ Underneath the Liberator's first failure is something almost nobody names out lo
 
 This is stuck Joy, and stuck Joy is the hardest of the five to catch, because it doesn't feel like a problem. It feels like commitment. *I am the person who holds this together* names the feeling, and saying it feels good.
 
-The alchemy: you notice that the joy has fused to this particular game rather than to playing, and you name it: *I don't want to give this up because giving it up means being someone who doesn't do this anymore.* Then you let the attachment loosen from the object. The game was yours for a time, the time was real, and the ending is not the same as the failure. The game taught you what it had to teach. The bliss is discovering that the aliveness was never the game's property. It was yours, it travels, and the game is allowed to end.
+The alchemy: you notice that the joy has fused to this particular game rather than to playing, and you name it: *I don't want to give this up because giving it up means being someone who doesn't do this anymore.* Then you let the attachment loosen from the object. The game was yours for a time, the time was real, and the ending is not the same as the failure. Nothing is left in it you did not already get. The bliss is discovering that the aliveness was never the game's property. It was yours, it travels, and the game is allowed to end.
 
 ---
 **Alchemy Move 5: Returner**
@@ -728,7 +728,7 @@ This is what the Release stage actually asks. Not ascent. Completion. The game r
 
 **Example:** You have spent nine years being the person who never misses the thing everyone else misses, and you can name what that bought you: it got you taken seriously at twenty-eight, in an outfit that took nobody seriously at twenty-eight. Say what it taught you before you set it down. Then set it down, and let a meeting go past with something unnamed in it. Nobody notices. That is not the same as nothing happening.
 
-**The test:** Can you name what the game taught you before you put it down? If you can't, it was never really yours. If you can, and you put it down anyway, that's the practice.
+**The test:** Can you name what you learned from it before you put it down? If you can't, it was never really yours. If you can, and you put it down anyway, that's the practice.
 
 Do not call it maturity when you simply got tired of being accountable. Do not call it freedom when what you did was leave before the repair.
 
