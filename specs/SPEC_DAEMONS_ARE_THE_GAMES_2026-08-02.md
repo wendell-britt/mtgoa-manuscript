@@ -149,9 +149,14 @@ completion, not an addition to it.
 
 ## 6 · Open
 
-1. **Does `APPENDIX_A` get the daemon axis in this edition**, or does ch2 state the
-   grammar and leave the appendix to a second pass?
-2. **How many worked multiplications get printed** — three, four, or one per domain?
+1. ~~**Does `APPENDIX_A` get the daemon axis in this edition**~~ — **RESOLVED
+   2026-08-03: yes, applied at `APPENDIX_A:161`.** And the framing in this spec was
+   half wrong: the appendix was not missing the daemon axis, it had one at `:146` as
+   the Gate-Domain Affinity Table. What it was missing is **direction** — that table
+   routes the reader's own gates to a domain, and had never asked what a move in that
+   domain is *for* on the other side.
+2. ~~**How many worked multiplications get printed**~~ — **three**, with the note
+   that thirty-two cells is homework rather than a grammar.
 3. **Does each of ch3–ch8 name its most common guard?** Cheap, and it is the same
    one-line-per-chapter shape as the benevolence definitions, which are still open.
 4. **The `ch1` revision** needs drafting either way, because the coin language is in canon

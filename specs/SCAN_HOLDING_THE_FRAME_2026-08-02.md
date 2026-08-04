@@ -159,7 +159,7 @@ overrun is the two things the estimate had no way to see — a worked scene, and
 **projection**, which is what makes the inner work load-bearing instead of
 asserted. `clearance` is ruled and live in canon.
 
-**ch1, ch3–ch9 are applied too, and the scan is closed except for the appendix.**
+**Applied end to end. The scan is closed.**
 
 | | landed | words |
 |---|---|---|
@@ -168,7 +168,7 @@ asserted. `clearance` is ruled and live in canon.
 | **ch2** · the second walk | `ch2:381`, beside the first walk | **1,304** |
 | ch3–ch8 · the twelve mirrors | each after *You know what your X is for now* | 354 |
 | ch9 · the consent line | `ch9:528` | 36 |
-| `APPENDIX_A` · the third axis | **not done** | — |
+| `APPENDIX_A` · the third axis | `APPENDIX_A:161`, after the affinity table | 380 |
 
 The ch1 reading fix was not in this scan and turned out to be load-bearing: the
 bouncer was described as *reading* you three times, which ch2's second walk now
