@@ -270,7 +270,7 @@ What happens next keeps happening to me. A sentence in somebody else's book land
 
 Writing things down is supposed to stop that fade. I have filled notebooks. Years of them. I can count on one hand the times I have gone back to read one. Getting a thought out of your head and onto a page is halfway to something, and then everything breaks in what happens next. Nobody has ever sold a notebook on how good it feels to reread it, and rereading one is a job. The charge goes in. It does not come back out.
 
-Years ago I started carrying blank poker cards instead. When something landed hard, I wrote it on a card and the card came with me. The surprise was where the memory went. Even when I could not remember what a card said, I remembered where it lived — third from the back, the one with the bent corner. A notebook stores a sentence you have to go find. A deck stores a place you already know, and the place hands the sentence back.
+Years ago I started carrying blank poker cards instead. When something landed hard, I wrote it on a card and the card came with me. The surprise was where the memory went. Even when I could not remember what a card said, I remembered where it lived, third from the back, the one with the bent corner. A notebook stores a sentence you have to go find. A deck stores a place you already know, and the place hands the sentence back.
 
 A **BAR** is that card. Buy a pack of blank pocket-sized ones before the next chapter. The size is the point: a card you can hold on a train is a card you will look at, and a deck you can shuffle is a deck you will reread.
 
