@@ -47,7 +47,17 @@ verb_classes:
     note: "shows/reveals are perception-class even when aimed outward"
     lemmas: [see, know, notice, show, reveal, tell, recognize, recognise,
              perceive, understand, realize, realise, observe, watch, detect,
-             sense, remember, forget, learn, discover, spot]
+             sense, remember, forget, learn, discover, spot,
+             # Added 2026-08-03. The class had no `think` and no `believe` --
+             # the two commonest cognition verbs in English -- so an entire
+             # paragraph like ch5:165 ("the village truly BELIEVED it was doing
+             # the right thing. The village THOUGHT loyalty was the same thing
+             # as obedience...") returned zero findings. An abstraction
+             # believing something is the purest form of the defect this audit
+             # exists to catch. Hand count on the village block was 16 where the
+             # net reported 3.
+             think, believe, consider, assume, doubt, trust, wonder, suspect,
+             conclude, imagine, expect, presume, reckon, figure]
   intention:
     severity: 2
     note: "the most dangerous class on unlicensed subjects"
@@ -57,7 +67,9 @@ verb_classes:
   speech:
     severity: 3
     lemmas: [say, argue, whisper, insist, claim, declare, announce, state,
-             ask, answer, reply, warn, admit, confess, explain, suggest]
+             ask, answer, reply, warn, admit, confess, explain, suggest,
+             # Added 2026-08-03 alongside the cognition set.
+             agree, concede, object, protest, deny]
   social-causal:
     severity: 4
     note: "the systemic-agency class; conditionally licensed at Grade 6 — NO. See grade 6."

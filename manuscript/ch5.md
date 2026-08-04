@@ -67,7 +67,7 @@
 
 For a time the villagers tried to run on fire alone.
 
-The Challenger had drawn lines. The Challenger had said no. The Challenger had refused, demanded, interrupted, and named the cost of crossing the village's boundaries. All of that worked while the fire was lit. The Challenger named problems that had festered for years, and stopped violations the village had lived with for as long. The villagers felt, for the first time in a long time, *clear about what they stood for.*
+The Challenger had drawn lines. The Challenger had said no. The Challenger had refused, demanded, interrupted, and named the cost of crossing the village's boundaries. All of that worked while the fire was lit. The Challenger named problems that had festered for years, and stopped violations the villagers had lived with for as long. The villagers felt, for the first time in a long time, *clear about what they stood for.*
 
 Fire burns out. When the fire burned out, nothing held underneath.
 
@@ -75,7 +75,7 @@ The Challenger didn't stay. The Challenger didn't need to: the lines were drawn,
 
 The Regent showed up at exactly that moment.
 
-The Regent didn't arrive with fire. The Regent arrived with something slower and harder to see: *structure.* The Regent said: "You've drawn the lines. Now let me show you how to build the city around them." The Regent built the first walls. Not walls to keep people out. Walls to hold what the village had agreed to. The Regent created the first traditions: the weekly council that opened with a reading of the village's stated values, the yearly ceremony that renewed the vows, the roles that passed from person to person so that when one person left, the *role* stayed and the next person could step into it.
+The Regent didn't arrive with fire. The Regent arrived with something slower and harder to see: *structure.* The Regent said: "You've drawn the lines. Now let me show you how to build the city around them." The Regent built the first walls. Not walls to keep people out. Walls to hold what the villagers had agreed to. The Regent created the first traditions: the weekly council that opened with a reading of the village's stated values, the yearly ceremony that renewed the vows, the roles that passed from person to person so that when one person left, the *role* stayed and the next person could step into it.
 
 For a generation, this worked beautifully.
 
@@ -83,7 +83,7 @@ The villagers loved the Regent. The Regent gave them permanence. The Regent gave
 
 The Regent made a mistake that cost everything.
 
-The Regent started to confuse *what the village had built* with *what the village actually was.* The walls became more important than what they were protecting. The traditions became more important than the people they were meant to serve. The roles became more important than the humans who filled them. The Regent started to believe that the structure *was* the village, that if you kept the walls intact, everything inside them was fine.
+The Regent started to confuse *what the villagers had built* with *what the villagers actually were.* The walls became more important than what they were protecting. The traditions became more important than the people they were meant to serve. The roles became more important than the humans who filled them. The Regent started to believe that the structure *was* the villagers, that if you kept the walls intact, everything inside them was fine.
 
 It wasn't fine.
 
@@ -146,7 +146,7 @@ It records no case of a keeper who stopped attempting it either.
 ## Section 2: The Distortion
 ### *What the Village Does With Tradition When the Regent Is Gone*
 
-After the Regent left, the village didn't stop building.
+After the Regent left, the villagers didn't stop building.
 
 It just stopped knowing *why.*
 
@@ -162,7 +162,7 @@ The villagers developed a specific, recognizable distortion: **obedience without
 
 This is the Regent in distortion: the cage built out of love. The tradition that stops serving and starts controlling. The role that consumes the human instead of being carried by them.
 
-This distortion resists fixing for one reason: the village truly believed it was doing the right thing. The village thought loyalty was the same thing as obedience. The village thought tradition was the same thing as wisdom. The village thought: *if we just hold the line long enough, the meaning will come back.*
+This distortion resists fixing for one reason: the villagers truly believed they were doing the right thing. They thought loyalty was the same thing as obedience. They thought tradition was the same thing as wisdom. They thought: *if we just hold the line long enough, the meaning will come back.*
 
 It doesn't. Meaning doesn't survive in an empty structure. You can't will meaning back into a ceremony that has become a habit. You can't resurrect a role that has been filled by a ghost for too long.
 
@@ -199,7 +199,7 @@ It makes the things you build last longer than you do.
 
 You already have a version of what "tradition" means. Most people got theirs the last time somebody used the word against them.
 
-The village keeps tradition instead of passing it on: "we do it this way because we've always done it this way." That treats a practice as a *relic*, preserved because it is old, rather than because it works. That makes a cargo cult of the Regent's practice.
+The villagers keep tradition instead of passing it on: "we do it this way because we've always done it this way." That treats a practice as a *relic*, preserved because it is old, rather than because it works. That makes a cargo cult of the Regent's practice.
 
 The Regent's actual practice is something harder and more alive: **the deliberate passing down of what works, across time, so that the next person doesn't have to figure it out from scratch.**
 
@@ -716,7 +716,7 @@ Every tradition, at some point, needs more than stewardship. It needs a redesign
 
 The villagers exiled the Architect for a specific reason: they mistook *seeing the system* for *not loving the people inside it.* If you can analyze it, the villagers said, you don't really love it.
 
-The village was wrong. The Architect's love is structural. The Architect builds something better. The Architect has the Regent's stewardship in their blood, because the Architect knows that every system is also an inheritance, and every redesign is also a hand-off.
+The villagers were wrong. The Architect's love is structural. The Architect builds something better. The Architect has the Regent's stewardship in their blood, because the Architect knows that every system is also an inheritance, and every redesign is also a hand-off.
 
 Add a line to the sheet. Under the line you have not drawn, write the inheritance you carry: one rule, practice or loyalty you took from a house you belonged to and still run without ever having agreed to it. Mark it *protect* or *break*. Being wrong about which is allowed. Leaving it unmarked is not.
 

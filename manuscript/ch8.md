@@ -74,7 +74,7 @@ Once, the Sage lived inside the village's conversations.
 
 At the same level as everyone else in them. The Sage could sit at a table and see all the games at once: could feel the Challenger's charge in the air and know exactly which line someone had crossed, could watch the harmony forming and see the strategy underneath it, could notice when a meeting shifted from one game to another before anyone else had caught it.
 
-The villagers noticed this. At first it seemed useful. The Sage could name which game the meeting was really playing. The Sage could say: *we're treating this like a problem to be seen whole, and it's actually a harmony problem (everyone needs to feel heard first), that's why no amount of vision is fixing it.* The Sage could look at the conflict and say: *this is a boundary issue dressed up in strategy language.* The village would pause. Sometimes that pause did the work.
+The villagers noticed this. At first it seemed useful. The Sage could name which game the meeting was really playing. The Sage could say: *we're treating this like a problem to be seen whole, and it's actually a harmony problem (everyone needs to feel heard first), that's why no amount of vision is fixing it.* The Sage could look at the conflict and say: *this is a boundary issue dressed up in strategy language.* The villagers would pause. Sometimes that pause did the work.
 
 Then something shifted.
 
@@ -84,7 +84,7 @@ The Sage said: *I see this and I'm staying.*
 
 What landed instead was: *I see this and I'm not on your side.*
 
-That's not what the Sage meant. The villagers had gotten used to wisdom as a form of leaving. The guru on the mountain. The teacher who has risen above it all. The sage who sees the game and therefore must be outside the game. When the Sage refused to leave, when the Sage said *I see all of it and I'm still here, still setting the table, still in relationship*, the village didn't know what to do with that. It didn't match the story they'd heard about what seeing meant.
+That's not what the Sage meant. The villagers had gotten used to wisdom as a form of leaving. The guru on the mountain. The teacher who has risen above it all. The sage who sees the game and therefore must be outside the game. When the Sage refused to leave, when the Sage said *I see all of it and I'm still here, still setting the table, still in relationship*, the villagers didn't know what to do with that. It didn't match the story they'd heard about what seeing meant.
 
 They had made a rule: if you can see the pattern of the game, you must stop playing. Seeing began the leaving. Wisdom ruled out commitment. The person who saw everything had decided not to belong.
 
@@ -161,7 +161,7 @@ Without the Sage, the villagers play every game at once and lose track of which 
 
 A Sage in distortion emerged to fill the gap. Not the real Sage, the village's version. The one who sees everything and commits to nothing. Who can name every game and won't choose one. Who has enough perspective to explain why none of it matters and not enough commitment to be useful. Who mistakes seeing for wisdom, and wisdom for the ability to opt out.
 
-The village kept the Sage's vocabulary and dropped the practice. It learned to say *I see all the games* without learning what it costs to hold that view while still choosing to be present. It learned to name the games other people were playing without noticing it was also playing one. It learned to *describe* perspective without *practicing* it.
+The villagers kept the Sage's vocabulary and dropped the practice. They learned to say *I see all the games* without learning what it costs to hold that view while still choosing to be present. They learned to name the games other people were playing without noticing they were also playing one. They learned to *describe* perspective without *practicing* it.
 
 The trap works one way: seeing becomes a way to avoid being in the game. You can name every game, which means you never have to commit to any of them. You can diagnose everyone's stuckness, which means you never have to look at your own. You can see the whole board, which means you never have to play a piece of it. Perspective without commitment. Vision without embodiment. The guru on the mountain: not because the guru chose the mountain, but because the mountain is cheaper than the table.
 

@@ -59,6 +59,15 @@ KEEP_BLOCK = re.compile(r"<!-- /?(HANDBOOK|SIGNATURE) -->")
 
 # Irregular verb surfaces the naive -s/-ed/-ing expansion cannot reach.
 IRREGULAR = {
+    # Added 2026-08-03 with the cognition lemmas. `think` was the costly one:
+    # the taxonomy gained `think`, the inflector could not produce `thought`,
+    # and ch5:165's three "The village thought" clauses stayed invisible even
+    # after the lemma landed. A lemma the inflector cannot inflect is a lemma
+    # that is not really in the list.
+    "think": ["thinks", "thinking", "thought"],
+    "pay": ["pays", "paying", "paid"],
+    "drive": ["drives", "driving", "drove", "driven"],
+
     "see": ["sees", "saw", "seen", "seeing"],
     "know": ["knows", "knew", "known", "knowing"],
     "tell": ["tells", "told", "telling"],
