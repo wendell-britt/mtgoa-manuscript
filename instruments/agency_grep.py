@@ -169,10 +169,22 @@ def build_index(reg):
     # sits OUTSIDE the grade system -- `teach`/`say`/`report` on a channel are
     # the book's thesis being stated, not unearned agency. Suppressed here so
     # the net stops surfacing the signature passage as a severity-4 finding.
+    senses = {}
+    for e in (reg.get("sense_exceptions") or []):
+        senses.setdefault(e["verb"], set()).update(
+            s.lower() for s in surfaces(e["verb"]))
+        senses[e["verb"]] = (senses[e["verb"]], e["action"])
+    # flatten to {verb: surfaces} plus {verb: action}
+    sense_surf = {v: s for v, (s, _a) in senses.items()}
+    sense_act = {v: a for v, (_s, a) in senses.items()}
+    sense_clear = {v: s for v, s in sense_surf.items() if sense_act[v] == "clear"}
+    sense_tagd = {v: s for v, s in sense_surf.items() if sense_act[v] == "tag"}
+
     e1 = set()
     for lemma in ((reg.get("exceptions") or {}).get("E-1") or {}).get("licensed_verbs") or []:
         e1.update(s.lower() for s in surfaces(lemma))
-    return verb2class, class_sev, ent2grade, licensed, partial, e1, ent_partial
+    return (verb2class, class_sev, ent2grade, licensed, partial, e1,
+            ent_partial, sense_clear, sense_tagd)
 
 
 def tier(cls, grade, licensed, verb=None, partial=None, e1=None,
@@ -333,6 +345,40 @@ def _is_state(toks, j, i=None):
     return False
 
 
+# --------------------------------------------------------- sense exceptions
+# A lemma names a WORD; a class names a SENSE. Five verbs sit in a class that is
+# right for one of their senses and wrong for the one this book uses, and each
+# cost a block before being recorded. Rules are read from the registry's
+# `sense_exceptions` -- these functions implement the syntactic tests it names.
+
+def _sense_clear(toks, j, senses):
+    """True when the classed verb is being used in its non-agentive sense."""
+    w = toks[j]
+    nxt = toks[j + 1] if j + 1 < len(toks) else ""
+    if w in senses.get("mean", ()):
+        # intention sense is "mean TO do"; without it the sense is `signifies`
+        return nxt != "to"
+    if w in senses.get("ask", ()):
+        return nxt == "for"        # calls for, as "this dish asks for salt"
+    if w in senses.get("answer", ()):
+        return nxt == "to"         # goes by the name of
+    if w in senses.get("show", ()):
+        # perception sense is TRANSITIVE -- something shows something. Bare, or
+        # followed by an adverbial, it means `is visible`: "the pattern shows
+        # nowhere else", "The pattern shows fully", "shows up".
+        return (nxt == "" or nxt.endswith("ly")
+                or nxt in ("up", "through", "nowhere", "everywhere", "here",
+                           "there", "again", "later", "now", "only", "clearly"))
+    return False
+
+
+def _sense_tag(toks, j, grade, senses):
+    """True when the sense needs a reader rather than a rule."""
+    if toks[j] in senses.get("require", ()) and grade in (4, 6, 7):
+        return True                # entailment reading is the common one here
+    return False
+
+
 def _is_noun(toks, j):
     """Candidate verb is being used as a noun."""
     if j == 0:
@@ -341,7 +387,7 @@ def _is_noun(toks, j):
 
 
 def scan(path, verb2class, ent2grade, licensed, partial=None, e1=None,
-         loose=False, ent_partial=None):
+         loose=False, ent_partial=None, sense_clear=None, sense_tag=None):
     """Every (entity, verb) pair inside a ±5-token window. High recall by design."""
     hits = []
     body = read_body(path)
@@ -387,6 +433,9 @@ def scan(path, verb2class, ent2grade, licensed, partial=None, e1=None,
                             continue
                         if not loose and (_is_noun(toks, j) or _is_state(toks, j, i)):
                             continue
+                        # right lemma, wrong sense -- registry-ruled
+                        if not loose and sense_clear and _sense_clear(toks, j, sense_clear):
+                            continue
                         # a determiner or preposition between subject and verb
                         # starts a new noun phrase, and that phrase owns the
                         # verb: "the work NOBODY SEES", "the work THE
@@ -411,7 +460,9 @@ def scan(path, verb2class, ent2grade, licensed, partial=None, e1=None,
                             "file": os.path.relpath(path, ROOT), "line": lineno,
                             "subject": ent, "grade": grade, "verb": toks[j],
                             "class": cls, "tier": t_, "sentence": sent,
-                            "flags": flags_for(ent, grade, cls, sent),
+                            "flags": flags_for(ent, grade, cls, sent)
+                                     + (["SENSE-CHECK"] if sense_tag
+                                        and _sense_tag(toks, j, grade, sense_tag) else []),
                         })
                         break
     return dedupe(hits)
@@ -534,12 +585,12 @@ def main():
     a = ap.parse_args()
 
     reg = load_registry()
-    v2c, _sev, e2g, lic, partial, e1, entp = build_index(reg)
+    v2c, _sev, e2g, lic, partial, e1, entp, sclr, stag = build_index(reg)
     files = [os.path.join(ROOT, p) for p in a.paths] or targets(a.include_legacy)
 
     rows = []
     for f in files:
-        rows += scan(f, v2c, e2g, lic, partial, e1, a.loose, entp)
+        rows += scan(f, v2c, e2g, lic, partial, e1, a.loose, entp, sclr, stag)
     report(rows, files, a.report)
     return 0
 

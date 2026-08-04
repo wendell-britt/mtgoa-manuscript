@@ -671,6 +671,76 @@ tiers:
   1: "mechanical or directional on an unlicensed subject; isolated causal-bare"
 
 # ---------------------------------------------------------------- open rulings
+# ------------------------------------------------------------ sense exceptions
+# RULED by Wendell 2026-08-03, after the same problem cost four separate blocks.
+#
+# A lemma names a WORD. A class names a SENSE. The taxonomy conflates them, so
+# every verb here sits in a class that is right for one of its senses and wrong
+# for the one the book uses. Each was caught by reading, recorded as a note, and
+# then raised again by the next scan, because a note in prose is not something
+# an instrument can read.
+#
+# Where the sense has a clean syntactic test, the net now clears it outright.
+# Where it needs judgement, the net tags it SENSE-CHECK so a reader knows the
+# site has been seen before rather than meeting it fresh.
+
+sense_exceptions:
+
+  - verb: mean
+    classed_as: intention
+    wrong_because: >
+      `mean` is in the intention list because of "I MEAN TO do X". The book uses
+      the semantic sense almost everywhere -- "fear meant something", "anger
+      meant something", "Redesigning the game means moving the same work onto
+      the other set". That is SIGNIFIES, and signifying is not intending.
+    rule: "intention sense requires a following `to`; without it the sense is semantic"
+    action: clear
+    found_in: [W-1 ch3:56, W-1 ch3:101, ON_THE_SHOULDERS_OF:70]
+
+  - verb: ask
+    classed_as: speech
+    wrong_because: >
+      "Fire asks for agency" is not Fire speaking. `ask for` means CALLS FOR, the
+      same sense as "this dish asks for salt". The speech sense is `ask` with a
+      question or a person as object.
+    rule: "followed by `for` -> calls-for sense, not a speech act"
+    action: clear
+    found_in: [ch4:670, the ch7 field read]
+
+  - verb: answer
+    classed_as: speech
+    wrong_because: >
+      "Where fear answers to imposter syndrome" means GOES BY THE NAME OF. No
+      speech act occurs.
+    rule: "followed by `to` -> named-as sense"
+    action: clear
+    found_in: [ch3:150]
+
+  - verb: show
+    classed_as: perception
+    wrong_because: >
+      "the only place the pattern shows" is intransitive and means IS VISIBLE.
+      The perception sense is transitive -- something shows something to someone.
+    rule: >
+      the perception sense is TRANSITIVE -- something shows something. Bare, or
+      followed by an adverbial, it means is-visible: "the pattern shows nowhere
+      else", "The pattern shows fully", "shows up". The first draft of this rule
+      tested only for bare-or-`up` and missed both real sites.
+    action: clear
+    found_in: [the Grade 6 batch]
+
+  - verb: require
+    classed_as: social-causal
+    wrong_because: >
+      "Do the work the game requires" is structural entailment, the same as "the
+      recipe requires flour". No mind, no counterparty, no pressure exerted on
+      anyone. But `require` on a structure CAN be a real social act -- a system
+      that requires you to file three forms is a system exerting -- so this one
+      does not clear on syntax alone.
+    rule: "on grades 4, 6 and 7 the entailment reading is the common one"
+    action: tag            # SENSE-CHECK, not cleared
+    found_in: [ch8:381]
+
 # ---------------------------------------------------------------- exceptions
 # Carve-outs that sit OUTSIDE the grade system rather than inside it. A grade
 # says which verb classes an entity may take. An exception says a device is
