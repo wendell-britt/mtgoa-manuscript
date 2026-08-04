@@ -224,50 +224,6 @@ Chapter 1 put the joystick in your hands. Here you learn how to walk the book.
 
 Most of your allyship gets run by parts of you that act on their own, before you've decided anything.
 
-Those parts are daemons. A daemon runs in the background, on its own, with no one holding the joystick. Robin Rice calls hers the Genius Demon Ally: genius because it knows you completely and moves faster than thought; a demon when it runs you; an ally the moment you take the joystick and give it a job. It is the same part throughout; what changes is who's holding the joystick.
-
-Seven daemons live in the Forest, and the player at its center is you. You're not here to slay these daemons but to befriend them, one by one, until the parts that have been running you are working for you instead. That is your first game of allyship: making allies of the very parts that would keep you from reaching the center.
-
-### The Seven
-
-You meet the seven walking in, in this order. Each one gets a short entry: what it does, how it shows up once it's your ally, how it shows up as a demon still running the show, and a moment you might catch each one in play.
-
-**The Protector**
-**Job:** To keep you alive. It is the body's embodied sense of self-preservation.
-**As an ally:** it guards you against real danger, the kind that would actually threaten your body. *In play:* a car swerves toward you and you're already moving before you've thought about it; the bracing fired exactly when it should.
-**As a demon:** it protects the self at all costs, and won't extend that protection to anyone else unless it widens its own identity to include them. When it does, those people stop being separate people you're allying with and become an extension of your body to protect. *In play:* a hard email lands and your whole body braces as if it were a physical threat; you answer armored, and the other person meets the armor before they reach you.
-
-**The Controller**
-**Job:** If the Protector decides whether you live or die, the Controller decides *how* you live. It sets the standard for what's good and what's bad.
-**As an ally:** it maintains your conceptual sense of integrity, keeping your actions in alignment with your values. *In play:* you said you'd show up for someone, and when it gets inconvenient, the Controller is what holds you to your word.
-**As a demon:** it's rigid, controlling, and judgmental. It believes everyone should operate the way it believes the world should operate. *In play:* someone you're supporting gets the result their own way, and you catch yourself docking points for how they did it instead of registering that they did it at all.
-
-**The Skeptic**
-**Job:** To doubt, so you don't get fooled.
-**As an ally:** it asks the hard question that makes a plan survive contact with reality. *In play:* a campaign is about to launch on a shaky assumption, and the Skeptic is what makes you pressure-test it before real people are counting on it.
-**As a demon:** it turns doubt into a barrier, making people prove they're worth believing before it will act. *In play:* a coworker tells you what they went through, and you find yourself needing more evidence before you'll take it seriously. The moment to help passes while you're still vetting it.
-
-**The Fixer/Healer**
-**Job:** To fix, in both senses of the word: to repair what's broken, and to hold something in place. It mends what's damaged, and it keeps what's settled from moving.
-**As an ally:** it repairs the circumstance and leaves the other person's healing in their own hands, and it holds steady what truly should stay put. *In play:* you change something about the situation so the other person can solve it themselves, rather than solving it for them.
-**As a demon:** it takes over, fixing people who never asked to be fixed; or it holds in place what ought to change, freezing a bad situation because moving it feels riskier than the harm it's doing. *In play:* a friend shares something hard and you're already three solutions deep, and they walk away having lost their own say in it.
-
-**The Emotional Body**
-**Job:** The seat of your emotional life, where feeling gets processed into meaning.
-**As an ally:** the feeling runs clean and becomes information you can use. *In play:* something stings in a conversation; you feel it all the way through, and it tells you something true about what just happened.
-**As a demon:** the feeling gets stuck, buried or spilling out sideways, because it never gets metabolized. *In play:* an unprocessed feeling spills out of you, and the person you came to support ends up taking care of you.
-*(Learning its language is the whole of the next chapter.)*
-
-**The Victim**
-**Job:** To win sympathy through stories. Telling what happened is how it gets another person to feel it with you.
-**As an ally:** it lets you feel with someone and resonate with what they're carrying, without collapsing into their story. *In play:* someone tells you something hard and you feel it with them, moved by it, without losing yourself in it or making it yours; you stay steady enough to actually help.
-**As a demon:** it keeps people in the drama triangle. In the rush to resonate with someone's pain, it allies with their victimhood and smallness instead of their wellbeing, meeting the wound so completely that it confirms them in it and keeps them in the role rather than helping them move through it. *In play:* someone shares how they were wronged, and you resonate so hard with the injury that they leave more settled into being a victim of it, no more able to act than before.
-
-**The Damaged Self**
-**Job:** To take the damage. When nothing else can keep a hit out, it absorbs the hit itself, so what it's carrying survives. It's the Protector's last resort.
-**As an ally:** it turns what it survives into strength, sorting the damage that builds you from the damage that only breaks you. *In play:* you take a real hit standing up for someone, and instead of wrecking you, it leaves you steadier and more able to do it again.
-**As a demon:** it absorbs every hit going, without a word, until it's soaking up harm that was never yours to carry. *In play:* you take on more and more of someone else's load without ever saying so, until you're depleted and no one, including you, has noticed what it's costing.
-
 ### The Protector, up close
 
 The Protector works the door of the Forest. You meet it first, the most physical of the seven. The Protector is the hull of the ship, the body itself, holding its shape, keeping the water out, taking the hit when a hit comes. It is the embodied feeling of self-preservation. It does not argue or explain; it braces. It knows danger before you could prove it to anyone, because a hull that waits for proof is already taking on water.
@@ -280,15 +236,63 @@ The Protector does the job cheaply by bracing everywhere. A hull that treats eve
 
 When the Protector holds the joystick, you walk into a conversation already armored, braced against something that has not happened, and the person across from you meets the hull before they meet you. It trades contact for control, and the trade feels like safety.
 
-This daemon, of all seven, stands at the threshold of a book about allyship for a reason. You can hardly protect anyone else while your own hull is breached. When you are frightened, depleted, or under real threat, the Protector spends everything you have on you, and nothing remains to carry into someone else's fight. The body knows one shortcut around this, worth naming because it looks like love: you pull the other person inside your own hull, so that protecting them and protecting yourself become a single act. A mother does this with a child, and it is real. It also takes the wrong shape for allyship, because it only works by making the other person part of you, and the person you are allying with is not you. They are their own ship. To stand with them as someone separate, you have to be resourced enough that your Protector has not already spent your last reserves keeping you afloat.
+The Protector stands at the threshold of a book about allyship for a reason. You can hardly protect anyone else while your own hull is breached. When you are frightened, depleted, or under real threat, the Protector spends everything you have on you, and nothing remains to carry into someone else's fight. The body knows one shortcut around this, worth naming because it looks like love: you pull the other person inside your own hull, so that protecting them and protecting yourself become a single act. A mother does this with a child, and it is real. It also takes the wrong shape for allyship, because it only works by making the other person part of you, and the person you are allying with is not you. They are their own ship. To stand with them as someone separate, you have to be resourced enough that your Protector has not already spent your last reserves keeping you afloat.
 
-When the hull cannot keep a blow out, it does the last thing a hull can do: it takes the damage itself, so that what it carries survives. That absorbed weight is the Damaged Self, a daemon you will meet nearer the center.
+When the hull cannot keep a blow out, it does the last thing a hull can do: it takes the damage itself, so that what it carries survives. That absorbed weight is the Damaged Self. You will meet it nearer the center.
 
 You do not fight the Protector, and you do not shove past it. You thank it, and you help it tell a real threat from a social one. *Thank you for keeping me alive. This one is not life or death. Show me the one real danger here, if there is any, and let me set a single boundary instead of bracing my whole body.* Do that, and the Protector goes back to its real job (protecting you when you actually need it) and stops running every hard conversation as though your life were on the line. That exchange has a name and a form. Chapter 3 gives you both, and every chapter after it runs the same shape.
 
-The difference shows up in a single moment: say someone challenges you in a meeting. On survival settings, the Protector treats the challenge as an attack: you armor up, over-explain to defend your position, and wait for everyone to prove the ground safe before you will say anything true. Doing its real job, it lets you name one line, "I'm open to challenge; I'm not available for personal attacks," and stay in the conversation. The same daemon at the same speed, protecting you when a real threat arrives and standing easy when none does.
+The difference shows up in a single moment: say someone challenges you in a meeting. On survival settings, the Protector treats the challenge as an attack: you armor up, over-explain to defend your position, and wait for everyone to prove the ground safe before you will say anything true. Doing its real job, it lets you name one line, "I'm open to challenge; I'm not available for personal attacks," and stay in the conversation. The same pattern at the same speed, protecting you when a real threat arrives and standing easy when none does.
 
 *Bring one real time the Protector grabbed the joystick before you did: a moment your whole body braced against something that turned out not to threaten your life, or much else. Name the gap between what it prepared for and what was there. Two minutes to capture it as a BAR.*
+
+Robin Rice calls a pattern like this a Genius Demon Ally: it is genius because it knows you completely and moves faster than thought; a demon when it runs you; an ally when you can work with it on purpose.
+
+Those parts are daemons. A daemon runs in the background, on its own, with no one holding the joystick. It is the same part throughout; what changes is who's holding the joystick.
+
+Seven daemons live in the Forest, and the player at its center is you. You're not here to slay these daemons but to befriend them, one by one, until the parts that have been running you are working for you instead. That is your first game of allyship: making allies of the very parts that would keep you from reaching the center.
+
+### The Seven
+
+You meet the seven walking in, in this order. Each one gets a short entry: what it does, how it shows up once it's your ally, how it shows up as a demon still running the show, and a moment you might catch each one in play.
+
+#### The Protector
+**Job:** To keep you alive. It is the body's embodied sense of self-preservation.
+**As an ally:** it guards you against real danger, the kind that would actually threaten your body. *In play:* a car swerves toward you and you're already moving before you've thought about it; the bracing fired exactly when it should.
+**As a demon:** it protects the self at all costs, and won't extend that protection to anyone else unless it widens its own identity to include them. When it does, those people stop being separate people you're allying with and become an extension of your body to protect. *In play:* a hard email lands and your whole body braces as if it were a physical threat; you answer armored, and the other person meets the armor before they reach you.
+
+#### The Controller
+**Job:** If the Protector decides whether you live or die, the Controller decides *how* you live. It sets the standard for what's good and what's bad.
+**As an ally:** it maintains your conceptual sense of integrity, keeping your actions in alignment with your values. *In play:* you said you'd show up for someone, and when it gets inconvenient, the Controller is what holds you to your word.
+**As a demon:** it's rigid, controlling, and judgmental. It believes everyone should operate the way it believes the world should operate. *In play:* someone you're supporting gets the result their own way, and you catch yourself docking points for how they did it instead of registering that they did it at all.
+
+#### The Skeptic
+**Job:** To doubt, so you don't get fooled.
+**As an ally:** it asks the hard question that makes a plan survive contact with reality. *In play:* a campaign is about to launch on a shaky assumption, and the Skeptic is what makes you pressure-test it before real people are counting on it.
+**As a demon:** it turns doubt into a barrier, making people prove they're worth believing before it will act. *In play:* a coworker tells you what they went through, and you find yourself needing more evidence before you'll take it seriously. The moment to help passes while you're still vetting it.
+
+#### The Fixer/Healer
+**Job:** To fix, in both senses of the word: to repair what's broken, and to hold something in place. It mends what's damaged, and it keeps what's settled from moving.
+**As an ally:** it repairs the circumstance and leaves the other person's healing in their own hands, and it holds steady what truly should stay put. *In play:* you change something about the situation so the other person can solve it themselves, rather than solving it for them.
+**As a demon:** it takes over, fixing people who never asked to be fixed; or it holds in place what ought to change, freezing a bad situation because moving it feels riskier than the harm it's doing. *In play:* a friend shares something hard and you're already three solutions deep, and they walk away having lost their own say in it.
+
+#### The Emotional Body
+**Job:** The seat of your emotional life, where feeling gets processed into meaning.
+**As an ally:** the feeling runs clean and becomes information you can use. *In play:* something stings in a conversation; you feel it all the way through, and it tells you something true about what just happened.
+**As a demon:** the feeling gets stuck, buried or spilling out sideways, because it never gets metabolized. *In play:* an unprocessed feeling spills out of you, and the person you came to support ends up taking care of you.
+*(Learning its language is the whole of the next chapter.)*
+
+#### The Victim
+**Job:** To win sympathy through stories. Telling what happened is how it gets another person to feel it with you.
+**As an ally:** it lets you feel with someone and resonate with what they're carrying, without collapsing into their story. *In play:* someone tells you something hard and you feel it with them, moved by it, without losing yourself in it or making it yours; you stay steady enough to actually help.
+**As a demon:** it keeps people in the drama triangle. In the rush to resonate with someone's pain, it allies with their victimhood and smallness instead of their wellbeing, meeting the wound so completely that it confirms them in it and keeps them in the role rather than helping them move through it. *In play:* someone shares how they were wronged, and you resonate so hard with the injury that they leave more settled into being a victim of it, no more able to act than before.
+
+#### The Damaged Self
+**Job:** To take the damage. When nothing else can keep a hit out, it absorbs the hit itself, so what it's carrying survives. It's the Protector's last resort.
+**As an ally:** it turns what it survives into strength, sorting the damage that builds you from the damage that only breaks you. *In play:* you take a real hit standing up for someone, and instead of wrecking you, it leaves you steadier and more able to do it again.
+**As a demon:** it absorbs every hit going, without a word, until it's soaking up harm that was never yours to carry. *In play:* you take on more and more of someone else's load without ever saying so, until you're depleted and no one, including you, has noticed what it's costing.
+
+Start with the first daemon you recognize. You do not need to memorize the roster or master the Guides before you begin. Recognition is where a move begins.
 
 ### Taking the Joystick
 
