@@ -460,7 +460,7 @@ Each channel carries intelligence. You're not trying to "get over" any of them. 
 
 ### The Satisfied States: What the Feeling Is For
 
-The chapter has taught you to feel each channel all the way through. Here is what "all the way through" arrives at, and why it is the point.
+You have learned to feel each channel all the way through. Here is what "all the way through" arrives at, and why it is the point.
 
 Each channel has a completed state, and you get there by making a move. A feeling can settle on its own sometimes, given enough time, but the game does not wait on that. You play a move, and the move carries the stuck charge into the state that hands capability back. Doing the moves is how you play.
 
@@ -698,7 +698,7 @@ When the Controller has the joystick, it runs as the inner critic. It blows the 
 
 Its other move never blows a whistle at all, because the play never starts. Perfectionism is the Controller refusing to let you onto the field until the conditions are perfect: the exact right words, the unimpeachable position, the certainty that nobody can criticize you. The conditions are never perfect. So the most careful, most informed person in the situation says nothing, and calls the silence rigor.
 
-Here is why this daemon stands second, right behind the one that keeps you alive, in a book about allyship. Everything the first half of this chapter taught you runs on a feeling being allowed onto the field. You cannot alchemize a charge that got called out of bounds at the whistle. Wake, Open, Clean, Grow, Show: every stage assumes the feeling made it into play. The shadow Controller is the part that can end the whole practice before Stage One, by ruling that the feeling never had permission in the first place. Sensitivity is the Shaman's instrument; this hand keeps it in its case. The cost lands twice: you lose the read that would have told you what the moment actually needed, and the person in front of you loses the ally who could have named it. They get your composure instead of your help.
+Here is why this daemon stands second, right behind the one that keeps you alive, in a book about allyship. Everything you learned in the first half of this chapter runs on a feeling being allowed onto the field. You cannot alchemize a charge that got called out of bounds at the whistle. Wake, Open, Clean, Grow, Show: every stage assumes the feeling made it into play. The shadow Controller is the part that can end the whole practice before Stage One, by ruling that the feeling never had permission in the first place. Sensitivity is the Shaman's instrument; this hand keeps it in its case. The cost lands twice: you lose the read that would have told you what the moment actually needed, and the person in front of you loses the ally who could have named it. They get your composure instead of your help.
 
 You do not fire the Controller. Fire the referee and your follow-through goes with it. You take the joystick back by handing it the right rulebook, your rules, the ones you would choose on your clearest day. *Here is the ally I actually want to be: the one who names the unsaid even when her voice shakes. Hold me to that one. When a feeling shows up, let it onto the field. It is in bounds.* Do that, and the referee goes back to its real work: keeping your integrity when it costs you, and keeping the game honest, which now includes letting you feel.
 

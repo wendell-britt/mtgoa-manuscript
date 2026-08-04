@@ -513,7 +513,13 @@ grades:
     entities: [the framework, frameworks, this chapter, the chapter, the book,
                the model, the concept, the idea, "the work", "the practice",
                "the process", "the approach", "the method", "the theory",
-               "the research", "the data", "the argument", "the section"]
+               "the research", "the data", "the argument", "the section",
+               # Added 2026-08-03. "The next chapter teaches you to read the
+               # fear channel" was invisible because only `the chapter` and
+               # `this chapter` were listed. The book writes the deictic forms
+               # too, and they are the same entity.
+               the next chapter, the last chapter, the previous chapter,
+               the first chapter, the next section, the last section]
     verb_classes: [mechanical, directional]
     trace: none
     constraints: >
@@ -543,6 +549,28 @@ grades:
       sites W-2 closed -- "the book left you to figure out the rest" is a
       causal-bare verb on a Grade 0 subject, and it was converted to the
       author's chair on purpose.
+
+    entity_partial:
+      # W-2's navigation license, finally encoded. Wendell ruled it 2026-08-02:
+      # "The book and chapter may take mechanical and directional verbs for
+      # structural navigation (covers, returns to, points to, put, handed,
+      # left)." That ruling has been prose in `open_rulings` ever since and the
+      # instrument could not read it, so all six navigation sites kept flagging
+      # W-2-ILLEGAL when W-2 had explicitly permitted them.
+      #
+      # The named verbs live in causal-bare, which this grade deliberately does
+      # NOT license -- see `constraints` -- so they need an entity-level list
+      # rather than a class. `leave` and `give` are here because W-2's own list
+      # names `left` and `handed`, and "the chapter leaves you holding a
+      # practice" and "the chapter gave you a polarity" are the same structural
+      # delivery in different words.
+      #
+      # Still barred at every strength: perception, intention, speech, and
+      # social-causal. A chapter does not teach, ask, want or name.
+      the book: [cover, return, point, put, hand, leave, give]
+      the chapter: [cover, return, point, put, hand, leave, give]
+      this chapter: [cover, return, point, put, hand, leave, give]
+      the section: [cover, return, point, put, hand, leave, give]
 
 
 disambiguation:

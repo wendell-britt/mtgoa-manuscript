@@ -443,7 +443,7 @@ The fire was real. The line was real. Without the practice to draw it clean, the
 
 A version of this chapter gets braced against, and it should be named before we go further.
 
-Challenger energy gets used as control. Power asserted over people who have less of it, with the vocabulary of directness doing the asserting. That is not a caricature. It happens, you recognize it on sight, and anyone who has been on the receiving end of it has a good reason to distrust everything this chapter has just taught.
+Challenger energy gets used as control. Power asserted over people who have less of it, with the vocabulary of directness doing the asserting. That is not a caricature. It happens, you recognize it on sight, and anyone who has been on the receiving end of it has a good reason to distrust everything you have just read.
 
 Here is the conclusion that tends to follow. I put it as a proposition rather than a diagnosis, because only you know whether it is yours: *the clean no is what oppressors do. Drawing lines is how power protects itself. My job is to listen, to make space, to find common ground, not to draw lines.*
 
@@ -541,7 +541,7 @@ Then it speaks, and it always sounds reasonable. *Am I overreacting. Other peopl
 
 Here is the tell that separates the auditor from the judge: the auditor finishes. It asks its question, gets an answer, hands the charge back to you either confirmed or dismissed, and stops. The Skeptic in shadow never finishes. No evidence closes the case, because the case was never about evidence. Ask yourself whether you feel certain and you will always find you could feel less certain. The audit runs until the moment has passed, and that outcome was always its purpose.
 
-Now here is why this daemon stands where it stands, in a book about allyship. Everything this chapter has taught you runs on a charge you trust enough to aim. Charge, Aim, Act, Stand, Exit: the whole sequence assumes Stage 1 got permission to count. The Skeptic can end the practice between Stage 1 and Stage 2, not by arguing that the line is wrong but by ruling that you have not established the line is yours to draw. It does not put the fire out, either. The fire burned. You felt every degree of it. You filed it instead of aiming it, and you carried it home.
+Now here is why this daemon stands where it stands, in a book about allyship. Everything you have learned in this chapter runs on a charge you trust enough to aim. Charge, Aim, Act, Stand, Exit: the whole sequence assumes Stage 1 got permission to count. The Skeptic can end the practice between Stage 1 and Stage 2, not by arguing that the line is wrong but by ruling that you have not established the line is yours to draw. It does not put the fire out, either. The fire burned. You felt every degree of it. You filed it instead of aiming it, and you carried it home.
 
 The cost lands twice: you lose the line, and the person who needed the line ends up somewhere nobody drew one, where the crossing went unremarked, and everyone present, the one who crossed included, learned that it was uncrossable in principle and crossable in fact. They did not need your certainty. They needed the sentence.
 
