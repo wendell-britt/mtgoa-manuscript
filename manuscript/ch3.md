@@ -490,7 +490,7 @@ The WAVE-Spiral does not make every move easy. It was never going to.
 
 What it promises is discernment.
 
-Some moves replenish as they cost. You draw the boundary, and you walk away tired but clear. You name the sadness, and the sadness gives you back the love underneath it. You say the thing that needed saying, and something in you comes back online because you stopped abandoning yourself.
+Some moves replenish as they cost. You draw the boundary, and you walk away tired but clear. You name the sadness, and the sadness gives you back the love underneath it. You say the sentence that needed saying, and something in you comes back online because you stopped abandoning yourself.
 
 Some moves sustain. They do not refill you all at once, but they keep the field workable. A pause. A clean question. One honest sentence instead of the whole speech. Enough structure for the feeling to teach without flooding the field.
 
@@ -716,7 +716,7 @@ The Controller does not block your read with a vague no. It blocks with a verdic
 
 These are the whistle-calls. When something true moves in a moment and a part of you feels it, the Controller does not argue that the feeling is wrong. It disqualifies the one who would name it. Who are you to say this: you're not ready, you don't belong, you're not good enough. The read never reaches the field because the referee who would call it has been ruled ineligible. That is the mechanism. The six beliefs read like stray bad thoughts about yourself. They are the specific tool the Controller uses to keep your Shaman move from ever getting made.
 
-This is why you do not beat them by arguing. Argue *I am good enough* and you have already accepted the court. Now you are litigating your own standing while the moment passes, and the judge already has every past ruling on file and infinite patience. It wins on points every time. The Shaman's move is to notice that a court is even sitting, catch the belief in the act of disqualifying your read, and make the play anyway. Name the ruling. Name whose rule it is. Let the read onto the field with the belief still talking: *there it is, "not ready." Noted. Here is the true thing anyway.*
+This is why you do not beat them by arguing. Argue *I am good enough* and you have already accepted the court. Now you are litigating your own standing while the moment passes, and the judge already has every past ruling on file and infinite patience. It wins on points every time. The Shaman's move is to notice that a court is even sitting, catch the belief in the act of disqualifying your read, and make the play anyway. Name the ruling. Name whose rule it is. Let the read onto the field with the belief still talking: *there it is, "not ready." Noted. Here is the true sentence anyway.*
 
 ### What You Install Instead
 
@@ -741,17 +741,17 @@ The move onto the field with the belief still talking is the hinge of the whole 
 
 There is a council that meets when the season turns, and it has beautiful words. It has words for welcome, words for loss, words for honoring the ancestors and the ones not yet born. Everyone knows them. You can tell a good council member by how well they say the words.
 
-One year the river changed course, and the lower fields, three families' fields, began to fail. Everyone on the council knew it. They also knew whose plan had moved the water, and that the one whose plan it was sat at the head of the circle, owed great respect by everyone there. So the council said its words. It spoke of resilience. It spoke of the hard seasons the ancestors had survived. It named the suffering of the lower families with real feeling, and it moved not one handful of earth. The words were all correct. That was the problem. Correct words let everyone leave the fire without having said the one true thing.
+One year the river changed course, and the lower fields, three families' fields, began to fail. Everyone on the council knew it. They also knew whose plan had moved the water, and that the one whose plan it was sat at the head of the circle, owed great respect by everyone there. So the council said its words. It spoke of resilience. It spoke of the hard seasons the ancestors had survived. It named the suffering of the lower families with real feeling, and it moved not one handful of earth. The words were all correct. That was the problem. Correct words let everyone leave the fire without having said the one true sentence.
 
-There was a woman on that council who caught it every time, the way the circle warmed as the words went round and everyone settled, satisfied, while the lower fields kept dying. She could feel the whole council agree, without a word passing, that feeling the families' ruin was the same as answering it. It was not. No one said so for the reason she never did: to say the true thing was to cross the man at the head of the circle. She had read it that clearly for three seasons. Every time, a verdict fired before she could speak: *who are you to say it. You're the newest here. You don't have the standing. You'll get it wrong and shame yourself.* So she said the beautiful words with everyone else and went home each time with the true one still sitting in her chest.
+There was a woman on that council who caught it every time, the way the circle warmed as the words went round and everyone settled, satisfied, while the lower fields kept dying. She could feel the whole council agree, without a word passing, that feeling the families' ruin was the same as answering it. It was not. No one said so for the reason she never did: to say the true sentence was to cross the man at the head of the circle. She had read it that clearly for three seasons. Every time, a verdict fired before she could speak: *who are you to say it. You're the newest here. You don't have the standing. You'll get it wrong and shame yourself.* So she said the beautiful words with everyone else and went home each time with the true one still sitting in her chest.
 
-The season the fields failed for good, she stopped waiting to feel ready, because she was never going to feel ready. She let the fear be all the way there (she was going to be disliked, and she was going to say it anyway) and turned to the one at the head of the circle and said the true thing, to his face, in front of everyone: *Your plan moved the river. Three families are losing their fields. We have honored their suffering for three years and we have not moved the water back. I think we owe them the work, not the words.*
+The season the fields failed for good, she stopped waiting to feel ready, because she was never going to feel ready. She let the fear be all the way there (she was going to be disliked, and she was going to say it anyway) and turned to the one at the head of the circle and said the true sentence, to his face, in front of everyone: *Your plan moved the river. Three families are losing their fields. We have honored their suffering for three years and we have not moved the water back. I think we owe them the work, not the words.*
 
-The fire went silent. It was not a warm silence. Someone was cornered; the respected one felt his standing questioned in front of the circle; and for that moment she was, exactly as the verdict promised, the one who broke the beautiful thing.
+The fire went silent. It was not a warm silence. Someone was cornered; the respected one felt his standing questioned in front of the circle; and for that moment she was, exactly as the verdict promised, the one who broke the beautiful surface.
 
-Then the true thing sat in the circle, and no one could unsay it, and the council had to answer it, not her feeling, the fact she had finally let out of her body. The water moved the next season. It moved because one sentence was true and said to the face that could change it. The correct words, for all their beauty, never were.
+Then the true sentence sat in the circle, and no one could unsay it, and the council had to answer it, not her feeling, the fact she had finally let out of her body. The water moved the next season. It moved because one sentence was true and said to the face that could change it. The correct words, for all their beauty, never were.
 
-That is the myth this chapter breaks. Allyship is not saying the right words. The council had the right words, and the right words were the wall. Allyship is saying the true one, the thing a part of you has already felt, that everyone already half-knows, to the face it concerns, at the cost of being, for one cold moment, the person who said it.
+That is the myth this chapter breaks. Allyship is not saying the right words. The council had the right words, and the right words were the wall. Allyship is saying the true one, the sentence a part of you has already felt, that everyone already half-knows, to the face it concerns, at the cost of being, for one cold moment, the person who said it.
 
 The superpower under that move is the Alchemist. The Alchemist is the one who takes the charge the Controller called a foul (the fear, the "not ready," the "not good enough") and burns it for fuel instead of waiting for it to go away. The woman on the council did not speak once the fear left. She spoke while it still burned, and used it. That is the Shaman's whole practice. The sensing, the WAVE, the Controller pried off the joystick, all aimed at one outcome: one true sentence, out of your body and into the world, where it can move the water.
 
@@ -778,7 +778,7 @@ The one described above enforces a generic rulebook. Yours enforces a specific o
 
 The Controller developed does what nothing else in this chapter can do: it admits a feeling onto the field and holds you to a line in the same motion. Those two rarely travel together. A person who has loosened the standard enough to feel everything has usually loosened it enough to owe nothing, and a person with a standard they never break has usually kept it by ruling out most of what they feel. The Shaman's move needs both at once: the read let all the way in, and something in you that will not let you leave the table with it unsaid.
 
-That is what the Alchemist runs on. You cannot burn a charge you never let yourself have, and you will not spend one while the fear is still live unless some part of you enforces a rule you set on a clearer day. The woman at the council had both. The verdict fired (*you don't have the standing*), and it fired against a rule she had already made about what she does when the true thing sits in her chest and the fields are dying. The rule won. That is the mechanism: a referee doing its job rather than a feeling that finally got loud enough.
+That is what the Alchemist runs on. You cannot burn a charge you never let yourself have, and you will not spend one while the fear is still live unless some part of you enforces a rule you set on a clearer day. The woman at the council had both. The verdict fired (*you don't have the standing*), and it fired against a rule she had already made about what she does when the true sentence sits in her chest and the fields are dying. The rule won. That is the mechanism: a referee doing its job rather than a feeling that finally got loud enough.
 
 You know what your Controller is for now. That is what you take out.
 
@@ -859,7 +859,7 @@ In practice: the sentence is shorter than you want it to be. A read usually runs
 
 **Example:** Two colleagues have restated the same scoping position four times. Nadia has said nothing for forty minutes. She did not come up through the graduate scheme and everyone else did, and the shorthand on the call belongs to the scheme. Say the thing under the thing: *I think we are three layers into a vocabulary and one of us has been outside it since the start.* One sentence, and nothing about who is right. It costs you with the two who were arguing, because you have told them their shorthand is a wall. The question resolves in four minutes, and Nadia joins it.
 
-**The test:** You said the read you actually had, and you said it while it was still live. What the conversation did afterward belongs to the conversation. A true thing said an hour late is a different move.
+**The test:** You said the read you actually had, and you said it while it was still live. What the conversation did afterward belongs to the conversation. A true sentence said an hour late is a different move.
 
 ---
 
@@ -871,36 +871,36 @@ The moves are what you do. The next question is where.
 
 ### Where You'll Actually Spend the Read
 
-The parable showed one of the four: Direct Action, the true thing said to a face. It is the Shaman's steepest, the domain where the read has to leave you and cost you something in front of the person it concerns.
+The parable showed one of the four: Direct Action, the true sentence said to a face. It is the Shaman's steepest, the domain where the read has to leave you and cost you something in front of the person it concerns.
 
-The read has four domains, and one cheap habit that is none of them. The cheap habit is the read you keep: you sense what moves, refine it, and never say it, your body never on the line. Reading under the surface is real skill, and it asks nothing of you, because no one ever has to watch you get it wrong. A louder version of the same safety runs alongside it. You do say something, but only the correct words, the ones no one can fault, and that is the awareness trap, the habit that swallowed the others because you can run it from the chair. Both keep the true thing unsaid. The four domains are where it finally leaves: the true thing said to a face, the true thing said out loud in place of the right thing, the honest need named and asked for, the unsaid thing put on the table so a group can work. Each costs more than sensing, because each trades the safety of the accurate private read for the risk of getting it wrong out loud.
+The read has four domains, and one cheap habit that is none of them. The cheap habit is the read you keep: you sense what moves, refine it, and never say it, your body never on the line. Reading under the surface is real skill, and it asks nothing of you, because no one ever has to watch you get it wrong. A louder version of the same safety runs alongside it. You do say something, but only the correct words, the ones no one can fault, and that is the awareness trap, the habit that swallowed the others because you can run it from the chair. Both keep the true sentence unsaid. The four domains are where it finally leaves: the true sentence said to a face, the true sentence said out loud in place of the right words, the honest need named and asked for, the unsaid sentence put on the table so a group can work. Each costs more than sensing, because each trades the safety of the accurate private read for the risk of getting it wrong out loud.
 
 So here are all four, and before them the three moves that decide whether saying it helps or wounds. Not to study: pick where you'll spend the read this week, and pick the domain you keep avoiding. If the read only ever circles back into your own head, refined and unsaid, or comes out dressed in the words no one can fault, you never made the Shaman's move. You practiced it.
 
 ### How to Say It So It Helps
-When you say the true thing, what you do next decides whether it helps the person or wounds them, and the same three moves decide it in every domain.
+When you say the true sentence, what you do next decides whether it helps the person or wounds them, and the same three moves decide it in every domain.
 
-**Don't manage their reaction away.** You name the real thing and the read tells you it landed: they get defensive, or shut down, or well up. Now the old Controller reaches to put a lid on it, theirs this time: *no, no, I didn't mean it like that.* That's the same lid you've been prying off your own feeling, now reaching for someone else's. The referee holds a different rule: feelings are allowed on the field, theirs too. Let the reaction be there, and stay in it with them instead of smoothing it flat.
+**Don't manage their reaction away.** You say the true sentence and the read tells you it landed: they get defensive, or shut down, or well up. Now the old Controller reaches to put a lid on it, theirs this time: *no, no, I didn't mean it like that.* That's the same lid you've been prying off your own feeling, now reaching for someone else's. The referee holds a different rule: feelings are allowed on the field, theirs too. Let the reaction be there, and stay in it with them instead of smoothing it flat.
 
 **Say it as yourself, not from above.** Watch the moment you shift from feeling it to pronouncing it. "What's really going on here is…" is the judge handing down a verdict from above, something to defend against. "This is what I feel is happening, and I could be wrong" is the same read offered as your own, something they can meet. The referee keeps you at eye level: name what's in play, don't sentence anyone.
 
 **Don't say it and leave.** The riskiest second comes right after the words are out, when the fear grabs for the exit: soften it, make a joke, change the subject. Leaving strands the person with what you just handed them. This is the referee's purest move: it holds you to what you started when everything in you wants to quit the field. Staying present, without defending and without adding anything, lets the truth land as care instead of an ambush.
 
-**Direct Action — the true thing said to the face**
+**Direct Action — the true sentence said to the face**
 
-*You're winning when:* you said the one true thing you had been feeling, the unsaid charge and not the softened hint, to the face it concerns, in the live moment and not in a message you draft and never send, and it cost you the safety of being the one who never breaks the surface. The proof is that the true thing existed between you, said and left said. What they do with it is information for your next move, not your grade.
+*You're winning when:* you said the one true sentence you had been feeling, the unsaid charge and not the softened hint, to the face it concerns, in the live moment and not in a message you draft and never send, and it cost you the safety of being the one who never breaks the surface. The proof is that the true sentence existed between you, said and left said. What they do with it is information for your next move, not your grade.
 
-**Raise Awareness — the true thing over the right thing**
+**Raise Awareness — the true sentence over the right words**
 
-*You're winning when:* you said what was actually happening, the read under the approved language, to the real people who needed to hear it, including the one it implicates, instead of the correct-sounding version that keeps you safe. It cost you the cover of the right words. The proof is that the group met the real thing and not the performance of it.
+*You're winning when:* you said what was actually happening, the read under the approved language, to the real people who needed to hear it, including the one it implicates, instead of the correct-sounding version that keeps you safe. It cost you the cover of the right words. The proof is that the group met what was true and not the performance of it.
 
 **Gather Resources — the real need named**
 
 *You're winning when:* you sensed and named what a situation actually needs, the real ask and not the palatable one you were already sure would be granted, and you asked the person who can grant it or refuse it. It cost you the exposure of naming a need you might be wrong about. The proof is that the true need got asked out loud, not managed down to something comfortable.
 
-**Skillful Organizing — the thing the group won't say**
+**Skillful Organizing — the sentence the group won't say**
 
-*You're winning when:* you named the unsaid thing the whole coalition feels and no one will touch (the resentment, the power nobody names, the silence everyone is keeping) to the group, so the work could move. It cost you the comfort of the polite surface. The proof is that the unsaid thing got onto the table and the group could work with it instead of around it.
+*You're winning when:* you named what the whole coalition feels and no one will touch (the resentment, the power nobody names, the silence everyone is keeping) to the group, so the work could move. It cost you the comfort of the polite surface. The proof is that the unsaid sentence got onto the table and the group could work with it instead of around it.
 
 ### After this, everything stands on it
 
@@ -910,10 +910,10 @@ The Diplomat's close, the Challenger's line, the Regent's stand, the Architect's
 
 None of the four markers asked why you said it. That question is real. A Shaman who names the unsaid to be seen as the most perceptive person present has run the awareness trap with better production values. It is also the easiest lie to tell yourself, in the moment you most want to be seen seeing. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer the question the marker didn't ask:
 
-- **Direct Action.** Did you say the true thing to change the moment, or to be the one brave enough to have said it?
+- **Direct Action.** Did you say the true sentence to change the moment, or to be the one brave enough to have said it?
 - **Raise Awareness.** Did you name what is happening to move the group, or to be seen as the one who sees deepest?
 - **Gather Resources.** Did you ask for what the situation needs, or for what makes you look most attuned?
-- **Skillful Organizing.** Did you name the unsaid thing to free the work, or to be the one who finally said it?
+- **Skillful Organizing.** Did you name the unsaid sentence to free the work, or to be the one who finally said it?
 
 Each Tell targets the Shaman's signature failure: the read spent on being seen as perceptive instead of on changing something.
 
@@ -974,7 +974,7 @@ The Shaman contributes this to the allyship game: **before strategy, before stru
 
 The Shaman teaches you to read that pattern, in yourself, in others, in the group.
 
-One more voice waits on the other side of the read. The moment you take it into the world and say the true thing, the doubt speaks up first: *is it even real? Are you sure, or are you making it up?* That is the Skeptic, the part that doubts your own knowing before anyone else can, and the next face begins there. The Challenger cannot do their work without the Shaman's work done first. The Challenger's superpower is the ability to name what's unacceptable. To draw a line. To say "this is not okay." If you don't know what you *feel* about what's unacceptable, if you haven't read the emotional truth underneath, then the Challenger's line is performance. It's strategy without root.
+One more voice waits on the other side of the read. The moment you take it into the world and say the true sentence, the doubt speaks up first: *is it even real? Are you sure, or are you making it up?* That is the Skeptic, the part that doubts your own knowing before anyone else can, and the next face begins there. The Challenger cannot do their work without the Shaman's work done first. The Challenger's superpower is the ability to name what's unacceptable. To draw a line. To say "this is not okay." If you don't know what you *feel* about what's unacceptable, if you haven't read the emotional truth underneath, then the Challenger's line is performance. It's strategy without root.
 
 Every great boundary is rooted in a feeling. Every genuine "no" comes from a Shaman who knows what they actually care about.
 
