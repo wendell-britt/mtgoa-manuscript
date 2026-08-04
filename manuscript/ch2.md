@@ -226,15 +226,13 @@ Most of your allyship gets run by parts of you that act on their own, before you
 
 ### The Protector, up close
 
-The Protector works the door of the Forest. You meet it first, the most physical of the seven. The Protector is the hull of the ship, the body itself, holding its shape, keeping the water out, taking the hit when a hit comes. It is the embodied feeling of self-preservation. It does not argue or explain; it braces. It knows danger before you could prove it to anyone, because a hull that waits for proof is already taking on water.
+The Protector works the door of the Forest. It is the part of you that responds to threat before you have decided what the threat means. Like a ship's hull, it keeps you intact when something can actually hurt you.
 
-The instant something reads as a threat (a shift in tone, a move for power), the Protector has already braced to meet it, faster than thought. That speed has kept you alive, and you want to keep it. The next chapter teaches you to read the fear channel it runs on, which is where steering it starts.
+The Protector does not need to be right every time to do its job. As long as it believes it is protecting you, it can be imprecise about the threat in front of you.
 
-The trouble: a hull built to survive cannot always tell which century it is in. To the Protector, losing your place in the group registers the same as getting left to die, because for most of human history those were one event. So it runs your social life on survival settings, meeting a hard conversation or a public challenge with machinery built for a predator. That is why it gets so tired: it has been holding the whole ship rigid against threats that were never going to sink you.
+The work is to let the Protector respond to what is actually happening, rather than to every danger it can imagine. When it treats the whole room as dangerous, it stops distinguishing between behavior that calls for a boundary and discomfort you can remain present through.
 
-The Protector does the job cheaply by bracing everywhere. A hull that treats every century as the dangerous one never misses a threat, and never has to work out which threat is here, which is the reason the Protector prefers that setting, and the reason the tightening between hard conversations stops having a target and just hums. Vigilance runs at a higher price and buys aim: this tone, this move for power, this person, now. A Protector on survival settings has stopped looking, and blanket bracing feels identical from the inside to paying attention.
-
-When the Protector holds the joystick, you walk into a conversation already armored, braced against something that has not happened, and the person across from you meets the hull before they meet you. It trades contact for control, and the trade feels like safety.
+When the Protector holds the joystick, the person across from you meets your defense before they meet you. The Protector will unconsciously attempt to gain a felt sense of safety at the expense of actual contact.
 
 The Protector stands at the threshold of a book about allyship for a reason. You can hardly protect anyone else while your own hull is breached. When you are frightened, depleted, or under real threat, the Protector spends everything you have on you, and nothing remains to carry into someone else's fight. The body knows one shortcut around this, worth naming because it looks like love: you pull the other person inside your own hull, so that protecting them and protecting yourself become a single act. A mother does this with a child, and it is real. It also takes the wrong shape for allyship, because it only works by making the other person part of you, and the person you are allying with is not you. They are their own ship. To stand with them as someone separate, you have to be resourced enough that your Protector has not already spent your last reserves keeping you afloat.
 
