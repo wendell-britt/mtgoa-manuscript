@@ -194,8 +194,6 @@ Something else came with it. A sensation I couldn't name, small enough that I al
 
 What I found was rage, not sadness. (The body is specific like that.)
 
-I said the rage out loud. I did not say how long it had been there.
-
 I had learned, for reasons that started early and went deep, to keep my feelings below the waterline, away from other people's awareness, and often away from my own. This produces a permanent low-grade charge that the people around you never suspect. The rage wasn't new. I had just gotten very good at not knowing it was there.
 
 The rock in my shoe was the tip of something that went down a long way.
