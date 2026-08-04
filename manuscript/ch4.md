@@ -709,7 +709,7 @@ In practice: list five moments from the last month where a line was available. F
 
 In practice: When you feel yourself reaching for a qualifier, stop. Take the qualifier out. State the line. Hold it for one second longer than is comfortable. That's usually all it takes.
 
-**Example:** A hiring panel is closing out a no because the candidate asked about remote days in the first interview and somebody called it high maintenance. Draw the line: *I am not able to support a no on that unless somebody names the behaviour. Name it and I will vote with you.* One sentence of line and one of offer, in front of five people who will remember. It costs you twenty minutes that were going to be efficient. The line insists on the standard and does not deliver the outcome, and confusing those is how advocacy becomes speaking for somebody who never asked.
+**Example:** A hiring panel is about to reject a candidate because she asked about remote days in the first interview and somebody called it high maintenance. Draw the line: *I am not able to support rejecting her unless somebody names the behaviour. Name it and I will vote with you.* One sentence of line and one of offer, in front of five people who will remember. It costs you twenty minutes that were going to be efficient. The line insists on the standard and does not deliver the outcome, and confusing those is how advocacy becomes speaking for somebody who never asked.
 
 **The test:** The line left your mouth without an essay, a justification, or an apology attached. Count the words afterward: more than you needed means you were explaining, whatever they did in response.
 
@@ -749,7 +749,7 @@ Five moves, one card, ninety seconds.
 
 A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
 
-One line: what you will do, who it reaches, by when, and what it costs you. *Draw the Line* becomes: **I will tell the hiring panel on Thursday that I cannot support the no unless somebody names the behaviour, without softening it into a question, and it will cost me being the easy vote on that panel.** That is a quest. *I will be more direct* is not one; nobody can tell whether you did it, including you.
+One line: what you will do, who it reaches, by when, and what it costs you. *Draw the Line* becomes: **I will tell the hiring panel on Thursday that I cannot support rejecting her unless somebody names the behaviour, without softening it into a question, and it will cost me being the easy vote on that panel.** That is a quest. *I will be more direct* is not one; nobody can tell whether you did it, including you.
 
 The tell that a quest is alive is not enthusiasm. It arrives as anticipation with some dread underneath it. For a Challenger the dread usually arrives first. Good sign, hard one.
 
