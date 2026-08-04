@@ -37,6 +37,19 @@ a single `the <abstraction>` standing over nothing passed clean. Full
 coreference is out of scope, so this reports `the` + an uncountable abstraction
 whose stem has not appeared earlier in the passage. A reader rules each one.
 
+**antecedent.** Added 2026-08-03, closing the last of the five. It reports a
+pronoun with no candidate noun anywhere in its paragraph, plus one whose nearest
+candidate sits past the distance limit -- 172 and 5 sites respectively, book-wide.
+
+**And it would not have caught the sentence that prompted it, which is worth
+recording rather than papering over.** The bio's first draft read *Wendell Britt
+spent fifteen years in customer service. For the rest of it he has been the
+meddling kid.* `it` points at nothing -- the sentence never said *life* -- but
+`service` sits three words back, so distance reports the paragraph clean. **The
+defect is a pronoun whose nearest noun is close and wrong**, and no instrument in
+this harness can see that: they all measure position, and this one needs meaning.
+A reader caught it and a reader is what it takes.
+
 **not-at-the-level-of.** `shapes.BINARY` does not match *Not at the level of X,
 and not at the level of Y* -- the negation is adverbial rather than a bare
 predicate, so every anchored alternative in that regex misses it. Reported here
@@ -107,6 +120,7 @@ def main():
     preempt = load("preempt")
     assumed = load("assumed")
     agency = load("agency")
+    antecedent = load("antecedent")
 
     hits = 0
 
@@ -161,6 +175,22 @@ def main():
                 print("  %-10s %-22s %s" % (name, label, m.group(0)[:66].replace("\n", " ")))
     for m in assumed.INVITE.finditer(body):
         print("  %-10s %-22s %s" % ("INVITE", "(good)", m.group(0)[:66].replace("\n", " ")))
+
+    # antecedent.sites() works per paragraph, because the defect it names is a
+    # pronoun whose referent sits outside the paragraph holding it.
+    print("=== antecedent ===")
+    ap, aw = antecedent.dn.tagger()
+    if ap is None:
+        print("  tagger unavailable")
+    else:
+        for para in paras:
+            if para.lstrip().startswith(("|", ">")):
+                continue
+            for pron, sent, dist, _ in antecedent.sites(para, ap, aw):
+                hits += 1
+                why = "no antecedent in the paragraph" if dist is None else "%d words back" % dist
+                print("  %-28s [%s] %s -- %s" % ("orphan pronoun", pron,
+                                                 sent.strip()[:56], why))
 
     # agency.py's own classify(), over the draft's sentences and its subclauses.
     # head_of_subject walks to the first finite verb, so a defect sitting inside
