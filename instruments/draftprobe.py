@@ -5,8 +5,8 @@
 
 ## Why this exists
 
-`shapes`, `preempt`, `assumed`, `antecedent` and `agency` are board-only: they
-walk the manuscript spine and ignore any path handed to them. So step 3 of the
+`shapes`, `preempt`, `assumed`, `antecedent`, `agency` and `fragment` are
+board-only: they walk the manuscript spine and ignore any path handed to them. So step 3 of the
 review process has been checking those families by eye on every draft since
 they were built. This harness imports their compiled patterns and applies them
 to one file.
@@ -49,6 +49,11 @@ meddling kid.* `it` points at nothing -- the sentence never said *life* -- but
 defect is a pronoun whose nearest noun is close and wrong**, and no instrument in
 this harness can see that: they all measure position, and this one needs meaning.
 A reader caught it and a reader is what it takes.
+
+**fragment.** Added 2026-08-03, the sixth and the last of the always-on
+constraints to get an instrument. It needs the corpus verb lexicon rather than
+the draft's own words, because one paragraph does not contain enough verbs to
+learn from, so it builds the lexicon off the spine and scans the draft with it.
 
 **not-at-the-level-of.** `shapes.BINARY` does not match *Not at the level of X,
 and not at the level of Y* -- the negation is adverbial rather than a bare
@@ -121,6 +126,7 @@ def main():
     assumed = load("assumed")
     agency = load("agency")
     antecedent = load("antecedent")
+    fragment = load("fragment")
 
     hits = 0
 
@@ -159,6 +165,24 @@ def main():
         s = body.rfind(".", 0, m.start()) + 1
         print("  %-28s [the %s] %s" % ("definite + empty noun", m.group(1).lower(),
                                        body[s:s + 80].strip().replace("\n", " ")))
+
+    # fragment.py needs the corpus verb lexicon, which is built from the spine and
+    # not from the draft: one paragraph does not contain enough verbs to learn from.
+    print("=== fragment ===")
+    fp, fw = fragment.dn.tagger()
+    if fp is None:
+        print("  tagger unavailable")
+    else:
+        flines = [l for l in fragment.fl.surfaces()
+                  if not l["text"].lstrip().startswith(fragment.SKIP_LINE)]
+        flex = fragment.verb_lexicon(flines, fp, fw)
+        for para in paras:
+            if para.lstrip().startswith(fragment.SKIP_LINE):
+                continue
+            for kind, n, st in fragment.sites(para, flex, fp, fw):
+                if kind != "LANDING":
+                    hits += 1
+                print("  %-28s [%s %dw] %s" % ("fragment", kind, n, st[:58]))
 
     print("=== preempt ===")
     for label, pat in preempt.SHAPES:
