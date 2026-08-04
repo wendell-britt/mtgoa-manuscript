@@ -91,6 +91,8 @@ Not in anger. In clarity. The Challenger understood what the village did not: th
 
 The village never meant for that to happen. It never said "go." It just stopped asking. Which, it turns out, is the same thing as exile.
 
+**The Challenger means: somebody drew the line on the day it needed drawing.** A Diplomat can watch your best hour and see damage, and mean it sincerely.
+
 ---
 
 ## Section 2: The Distortion

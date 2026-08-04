@@ -78,6 +78,8 @@ The five stages of the Diplomat's work run as a journey in sequence rather than 
 
 Each stage earns the next. Bridge without Translate is noise. Translate without Hold is a promise no one trusts. Hold without Repair is a wound left to fester. Repair without Negotiate is generosity without closure, and generosity without closure stops being a gift; it becomes a slow form of self-destruction that the field learns to take for granted.
 
+**The Diplomat means: nobody left the table.** It is the most generous of the six and the easiest to overspend, because a table nobody leaves also decides nothing.
+
 ---
 
 ## Section 2: What It Is

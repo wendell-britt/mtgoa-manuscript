@@ -103,6 +103,8 @@ The Regent left because the village no longer knew the difference between protec
 
 The village never meant for that to happen.
 
+**The Regent means: somebody carried the inheritance far enough that the next person can pick it up.** A keeper who holds a rule for fifteen years earns faithful from one person and immovable from the next, on identical evidence.
+
 ---
 
 **Clause four.** A practice that cannot be named to a stranger in one sitting has already been

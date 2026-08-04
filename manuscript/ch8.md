@@ -130,6 +130,8 @@ You'll know which one belongs to you. The work keeps going either way.
 
 Keep the terms apart so they don't blur together. Shadow is the move that stays hidden because exposure feels too expensive: you know the line, and you say nothing, so nobody can call you difficult. Distortion is the gift turned sideways: you can name a group perfectly, and you use the naming to stand above it. Cost is the bill that follows: people start calling you insightful while nobody feels helped.
 
+**The Sage means: they can do it without you.** It is the only one of the six that counts your absence as the result, and the other five mistake that for indifference more often than not.
+
 ---
 
 ## Section 2: The Distortion
