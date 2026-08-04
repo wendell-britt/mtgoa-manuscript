@@ -20,7 +20,7 @@ The feeling is this: *this isn't working.*
 
 *This isn't working* is a verdict on the method, not on you. Your effort is real. Your intentions are real. Something else is failing.
 
-You put the phone down and carry it anyway. It sits in your body before your mind finds a word for it, and no action item takes it out.
+You put the phone down and carry it anyway. It arrives before the words do, and no action item takes it out.
 
 The failure is structural. It starts with a map that covers half the ground:
 
