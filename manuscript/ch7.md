@@ -72,9 +72,9 @@ The Diplomat's gift has a name: integrative negotiation. It surfaces what each p
 
 Most people stay past the point of their usefulness. Most people absorb cost until they empty out and then leave without warning. Most people never surface what the agreement actually requires, so nobody treats their presence as the precious, chosen thing it is. The Diplomat understands that a staying which cannot name its terms is a staying without weight. A staying without weight is a staying that slowly, invisibly, stops meaning anything at all.
 
-The Diplomat is the negotiator who has learned that honest stake-surfacing, timely closure, and the willingness to let the people in the field decide what they can actually hold demonstrate love better than infinite presence does.
+The Diplomat is the negotiator who has learned that honest stake-surfacing, timely closure, and the willingness to let everybody involved decide what they can actually hold demonstrate love better than infinite presence does.
 
-The five stages of the Diplomat's work run as a journey in sequence rather than a checklist. **Bridge** is the initial entry, the act of showing up in the field with curiosity rather than judgment, making contact without yet knowing what the relationship will require. **Translate** is the work of rendering one camp's language into terms another camp can hear, betraying neither side and finding the common ground of meaning. **Hold** is the maintenance of enough safety that difficult conversation remains possible even when the field is charged. It is not the four seconds of Stand you learned from the Challenger, where one person declines to take back one line; it is the sustained containment of a whole field over the length of a hard conversation, sometimes over months. **Repair** is the healing of ruptures without the pretense that they did not occur: cleaning the wound without pretending nobody made it. **Negotiate** is the culmination: surfacing what each party protects, naming the terms under which staying remains possible, and closing so that everyone is heard *and* something moves.
+The five stages of the Diplomat's work run as a journey in sequence rather than a checklist. **Bridge** is the initial entry, the act of showing up with curiosity rather than judgment, making contact without yet knowing what the relationship will require. **Translate** is the work of rendering one camp's language into terms another camp can hear, betraying neither side and finding the common ground of meaning. **Hold** is the maintenance of enough safety that difficult conversation remains possible even when the field is charged. It is not the four seconds of Stand you learned from the Challenger, where one person declines to take back one line; it is the sustained containment of a whole field over the length of a hard conversation, sometimes over months. **Repair** is the healing of ruptures without the pretense that they did not occur: cleaning the wound without pretending nobody made it. **Negotiate** is the culmination: surfacing what each party protects, naming the terms under which staying remains possible, and closing so that everyone is heard *and* something moves.
 
 Each stage earns the next. Bridge without Translate is noise. Translate without Hold is a promise no one trusts. Hold without Repair is a wound left to fester. Repair without Negotiate is generosity without closure, and generosity without closure stops being a gift; it becomes a slow form of self-destruction that the field learns to take for granted.
 
@@ -90,11 +90,11 @@ The Diplomat operates through five modes:
 
 **Bridge-Builder.** The mode of initial entry. Making contact. Showing up curious rather than defended. Creating the possibility of relationship without yet knowing what the relationship will require.
 
-**Translator.** The mode of rendering meaning. Taking what one party in the field means and translating it into terms another party can actually hear. Bridging the gap between ways of being in the world, without softening it and without betraying it.
+**Translator.** The mode of rendering meaning. Taking what one party means and translating it into terms another party can actually hear. Bridging the gap between ways of being in the world, without softening it and without betraying it.
 
 **Field-Holder.** The mode of maintained safety. The work of keeping the relational space open and charged enough that difficult conversations remain possible. Holding rather than solving.
 
-**Repairer.** The mode of healing ruptures. The work of addressing harm that has occurred within the field without pretending the harm did not occur, and without letting the repair process create new harm.
+**Repairer.** The mode of healing ruptures. The work of addressing harm somebody did, without pretending it did not occur, and without letting the repair process create new harm.
 
 **Integrative Negotiator.** The mode of honest closing. Surfacing stakes, interests, and sacrifices; naming what the agreement must hold for everyone, and closing so the field moves.
 
@@ -178,7 +178,7 @@ A polarity is not a problem to solve. It has two poles, and both of them are rig
 
 The Diplomat's pair: care for the relationship versus impact on the situation.
 
-**Care** means protecting the connection itself: the trust, the willingness of people to stay in contact with each other, the conditions under which anyone can say anything difficult at all. Care maintains the only medium through which anything relational travels. Sentiment protects how the connection feels; care protects whether it still works. A field with no care in it cannot be told anything.
+**Care** means protecting the connection itself: the trust, the willingness of people to stay in contact with each other, the conditions under which anyone can say anything difficult at all. Care maintains the only medium through which anything relational travels. Sentiment protects how the connection feels; care protects whether it still works. Take the care out and the field carries nothing.
 
 **Impact** means the actual change in the world outside the relationship. What moves, what stops, who is materially better off after the conversation than before it. Impact means the willingness to spend a relationship on something rather than preserve it as an end in itself. Brutality spends the relationship without pricing it. Impact names the price first and spends it anyway.
 
@@ -207,7 +207,7 @@ One part of this belongs specifically to this reader, and it explains why the ax
 
 ### Draw the Axis — Care ↔ Impact
 
-The draw is relational. Not solo. Pick a live field with actual people in it, because this axis only shows its position when something is at stake between you and somebody else.
+The draw is relational. Not solo. Pick a live field with actual people making it, because this axis only shows its position when something is at stake between you and somebody else.
 
 **Try this now.**
 
@@ -233,7 +233,7 @@ The draw is relational. Not solo. Pick a live field with actual people in it, be
 
 The Bridge-Builder is the Diplomat's entry point: the mode through which contact happens, curiosity replaces judgment, and the field allows a new presence to enter. It is the Diplomat's most fundamental skill and the one most easily distorted.
 
-Here is what its absence looks like: a person who cannot enter a gathering without an agenda. Who approaches every relational field as a transaction. What can I get, what do I need, what is this interaction worth to me. Who makes contact only when they want something, and loses the capacity for contact-for-contact's-sake. The Bridge-Builder's absence shows up as a kind of relational instrumentalization: everyone in the field becomes a means to an end.
+Here is what its absence looks like: a person who cannot enter a gathering without an agenda. Who approaches every relational field as a transaction. What can I get, what do I need, what is this interaction worth to me. Who makes contact only when they want something, and loses the capacity for contact-for-contact's-sake. The Bridge-Builder's absence shows up as a kind of relational instrumentalization: everyone they meet becomes a means to an end.
 
 Here is what its distortion looks like: a person who is always reaching out, always connecting, always bridging, and who cannot stop. Who treats every relationship as a bridge to build and maintain, even when nobody needs the crossing. The distorted Bridge-Builder confuses movement for connection, presence for performance. They are always bridging because stopping feels like abandonment.
 
@@ -340,7 +340,7 @@ The Neutral Channel pattern here is **intellectual superiority**: the behavioral
 
 Precision costs here: the containment structure takes extra effort, and it pays off when accuracy matters.
 
-*What the Translator is for is faithful interpretation rather than neutral transmission. The Translator who has no partiality has no interpretive power. The Translator who knows what they believe and translates from that anchor, honestly, is the one the people in the field can trust.*
+*What the Translator is for is faithful interpretation rather than neutral transmission. The Translator who has no partiality has no interpretive power. The Translator who knows what they believe and translates from that anchor, honestly, is the one both camps can trust.*
 
 ---
 
@@ -348,21 +348,21 @@ Precision costs here: the containment structure takes extra effort, and it pays 
 
 The Field-Holder demands more sheer presence than any other Diplomat mode. The work is maintaining enough safety that difficult conversation remains possible, even when charge runs high, even when the ground shifts, even when everyone present wants to fight, flee, or freeze.
 
-Here is what its absence looks like: a person who can hold a conversation only when it is already safe. Who can mediate in calm conditions, but who falls apart the moment the field becomes truly charged. The Field-Holder's absence shows up as a kind of presence collapse. The moment something difficult happens, they either escalate into the conflict or disappear from the field entirely. They can hold the good conditions; they cannot hold the bad ones.
+Here is what its absence looks like: a person who can hold a conversation only when it is already safe. Who can mediate in calm conditions, but who falls apart the moment the field becomes truly charged. The Field-Holder's absence shows up as a kind of presence collapse. The moment something difficult happens, they either escalate into the conflict or withdraw until there is no field left. They can hold the good conditions; they cannot hold the bad ones.
 
-Here is what its distortion looks like: a performative calm, actually a freeze response. The distorted Field-Holder mistakes stillness for safety. They sit in the middle of chaos and perform peace, believing that their equanimity will regulate the field. This is collapse masquerading as calm. Real Field-Holding contains the charge rather than removing it. The field stays charged. The Field-Holder does not calm it down. They give it a shape. Note the difference from the Challenger's Stand, a subtraction: you finish the sentence and add nothing. Hold is addition, and it costs, and it does not end when the silence does. They say: *this charge has somewhere to go. It can move through here without destroying anything.*
+Here is what its distortion looks like: a performative calm, actually a freeze response. The distorted Field-Holder mistakes stillness for safety. They sit in the middle of chaos and perform peace, believing that their equanimity will regulate the field. This is collapse masquerading as calm. Real Field-Holding contains the charge rather than removing it. Whoever brought the charge keeps it. The Field-Holder does not take it off them or talk anyone down. They give it a shape. Note the difference from the Challenger's Stand, a subtraction: you finish the sentence and add nothing. Hold is addition, and it costs, and it does not end when the silence does. They say: *this charge has somewhere to go. It can move through here without destroying anything.*
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 1 — Inclusion-Performance → Genuine Inclusion**
 
 The Dissatisfaction here is **inclusion-performance**. You open the retro by telling everyone no topic is off the table, and you mean it, and then the hour runs, everyone reports status, and what actually happened last sprint never comes up. You ran a good meeting and never got near the field.
 
-The table is the furniture. The field is what sits between the people at it, and it lasts only as long as they are all still there. The field has to stay open while people move around inside it, which is why Hold costs more, and why it is the one move here you cannot make alone.
+The field is what happens between people in relationship with each other, and allyship is a relationship. Everyone there makes it, and it lasts only as long as they are all still there. A physical field holds itself. This one needs tending, which is why Hold costs more, and why it is the one move you cannot make alone.
 
-The alchemy: *I stop announcing that the field is open and find out whether anyone will use it.* Anxiety shows up while you do this, and it reads the situation correctly, because a charged field costs more to hold than a calm one. Treat it as the weather you work in. What you are watching for is growth, and you know it arrived when somebody says what they had decided in the parking lot not to say. Their sentence is in the field now, and you could not have put it there. That is the Wood channel completing, and Bliss is what it feels like to hold a field that grew what you did not plant.
+The alchemy: *I stop announcing that the field is open and find out whether anyone will use it.* Anxiety shows up while you do this, and it reads the situation correctly, because a field with somebody's real stake in it costs more to hold than a calm one. Treat it as the weather you work in. What you are watching for is growth, and you know it arrived when somebody says what they had decided in the parking lot not to say. Their sentence is between everyone now, and you could not have said it for them. That is the Wood channel completing, and Bliss is what it feels like to hold a field that grew what you did not plant.
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 2 — Hothouse Safety → Hardy Field**
 
-The Field-Holder's secondary Dissatisfaction is **hothouse safety**, a field you keep so comfortable that nobody says the sentence that would cost them anything. From inside it looks like health. The family dinner stays warm, the standup stays pleasant, the two of you stay kind with each other, the community meeting ends on time, and everyone leaves carrying what they walked in with. A field protected from charge stays small, and the people in it learn to bring less of themselves to match.
+The Field-Holder's secondary Dissatisfaction is **hothouse safety**, a field you keep so comfortable that nobody says the sentence that would cost them anything. It looks like health to everyone keeping it that way. The family dinner stays warm, the standup stays pleasant, the two of you stay kind with each other, the community meeting ends on time, and everyone leaves carrying what they walked in with. A field protected from charge stays small, and the people making it learn to bring less of themselves to match.
 
 The alchemy: *I stop protecting the field and start building one that can take weather.* You let the hard sentence land, and you stay, and the field turns out to hold. Now they know by experience what nobody could have told them, that the field survives contact. Each round of that raises what it carries next time.
 
@@ -374,13 +374,13 @@ The alchemy: *I stop protecting the field and start building one that can take w
 
 **[CONTROL] — Neutral Channel: Presence Collapse Pattern**
 
-The Neutral Channel pattern here is **presence collapse**, the behavioral pattern of disappearing from the field the moment it becomes charged. The Field-Holder who has not done their internal work shows up for every calm conversation and vanishes from every difficult one. The Control move redirects this pattern into structure:
+The Neutral Channel pattern here is **presence collapse**, the behavioral pattern of withdrawing the moment somebody charges it. The Field-Holder who has not done their internal work shows up for every calm conversation and vanishes from every difficult one. The Control move redirects this pattern into structure:
 
-**The structure of the Precedent of Presence:** You establish, in advance, a commitment to remaining in the field when it becomes charged. You decided on it; nothing obliged you. The commitment is the structure. You tell the field in advance: *I don't leave when it gets hard. I practice that rather than declare it.* The collapse pattern dissolves into a personal precedent that the field can depend on. You have made yourself a reliable structure because you decided in advance, before the charge arrived.
+**The structure of the Precedent of Presence:** You establish, in advance, a commitment to staying present when somebody charges it. You decided on it; nothing obliged you. The commitment is the structure. You say so in advance: *I don't leave when it gets hard. I practice that rather than declare it.* The collapse pattern dissolves into a personal precedent the people around you can depend on. You have made yourself a reliable structure because you decided in advance, before anybody charged it.
 
 Staying spends real capacity. Naming that cost belongs to the holding, because unnamed depletion eventually becomes disappearance.
 
-*What the Field-Holder is for is the willingness to stay when staying is difficult. Not to fix the field, not to calm it down, not to make it better. To be the presence that makes it possible for the people in it to move through what they need to move through without anyone getting destroyed in the process.*
+*What the Field-Holder is for is the willingness to stay when staying is difficult. Not to fix the field, not to calm it down, not to make it better. To be the presence that makes it possible for the people making it to move through what they need to move through without anyone getting destroyed in the process.*
 
 ---
 
@@ -587,7 +587,7 @@ The tell is never the position. The tell is whether impact ever arrives without 
 
 ### What You Take Out of the Forest
 
-The Victim developed does one thing nothing else in this chapter can do: it lets you know exactly what your presence costs and decline to bill for it. That combination is rarer than it sounds. Most people manage one or the other. They either lose track of the cost entirely and disappear into the field, or they keep perfect count and spend it. Holding both is what makes your staying mean anything, because only a cost you can name and do not charge for reads as a choice.
+The Victim developed does one thing nothing else in this chapter can do: it lets you know exactly what your presence costs and decline to bill for it. That combination is rarer than it sounds. Most people manage one or the other. They either lose track of the cost entirely and disappear into the work, or they keep perfect count and spend it. Holding both is what makes your staying mean anything, because only a cost you can name and do not charge for reads as a choice.
 
 That forms the Connector's foundation, and the word usually means something else. The Diplomat's superpower is not making contact; the Bridge-Builder does that in the first hour. It is connection that has survived being told the truth. Connection nobody has ever closed with is attendance, and attendance is what a field takes for granted. The close is what converts one into the other: you name what this must hold for your staying to remain real, once, in a sentence, and you let the field answer. What remains after that is the part that was ever actually yours.
 
@@ -620,7 +620,7 @@ Name the Field makes no diagnosis. It makes an offering. You say *here is what I
 
 **Why it matters:** Most conflicts stay stuck because they are playing at the wrong level, arguing about content while the real conflict is relational. Name the Field moves the conversation to the level where the actual problem lives.
 
-**The test:** You said what the field is actually about, in one sentence, in front of the people standing in it. Whether they accept the description is theirs to answer, and a correction is the move working rather than failing.
+**The test:** You said what the field is actually about, in one sentence, in front of the people making it. Whether they accept the description is theirs to answer, and a correction is the move working rather than failing.
 
 **Working vs. performed:** When Name the Field works, there's a quality of clearing: the conversation gets simpler as the confusion lifts. When it's being performed, there's a quality of positioning. You're naming the field to establish yourself as the one who sees.
 
@@ -666,15 +666,15 @@ The Diplomat translates: *"What I hear [Camp A] saying, in [Camp B]'s language, 
 
 **What it is:** Bridge, translate, hold, repair, and then this. The close. It is the move the whole chapter has been building toward, and the one the Diplomat's altitude skips most reliably, because closing feels like conflict and the field can always make space for one more round.
 
-Close with Honest Terms is one clear sentence naming what this field must hold for your staying to remain real, said once and then left alone for the people in it to answer. The leaving-alone separates it from an ultimatum.
+Close with Honest Terms is one clear sentence naming what this field must hold for your staying to remain real, said once and then left alone for the people it concerns to answer. The leaving-alone separates it from an ultimatum.
 
 **Example:** Eighteen months into a partnership you have never said the one thing you will not trade. Say it once and do not soften it: *I can work with almost anything here except one. If I have to choose between being honest with you and being honest with myself, I choose myself. When I push back we are close to losing an agreement that works for both of us, and I am not running a strategy.* Then stop talking. What they do with it is theirs.
 
-A threat would sound like *do this or I leave.* This is an offering of information: here is what this field must hold for my staying to remain real. Then the people in it get to respond.
+A threat would sound like *do this or I leave.* This is an offering of information: here is what this field must hold for my staying to remain real. Then the people it concerns get to respond.
 
 *If you don't yet know where you stand, whether you've been trading impact away for the comfort of caring, go back to the Care ↔ Impact axis you drew in Section 3 before you try to close. The axis is preparation. This move is the practice.*
 
-**The test:** You named what you actually need from the agreement rather than a softer version, said it once, and left it alone for the people in it to answer. Their behavior may or may not change. If you named the real terms and nothing moved, that is information.
+**The test:** You named what you actually need from the agreement rather than a softer version, said it once, and left it alone for the people it concerns to answer. Their behavior may or may not change. If you named the real terms and nothing moved, that is information.
 
 The close lands clean when there's nothing left to add and you don't reach to fill the silence. You've said the terms, nothing has broken, and for once you let it stay said. The over-care version is the opposite: the talk thickens to molasses, every term softened until nothing's actually been said, the conversation kept intact like a museum piece and nobody moved an inch. Then the performed version: the words are out, but one hand stays on the door, ready to pull it open again the moment they frown.
 
@@ -815,6 +815,6 @@ The Sage does.
 
 ---
 
-Add a line to the sheet. Under the harm you keep fixing, write your walk-away price: what would have to happen, or keep happening, before you left the field instead of staying in it and disappearing. Write it so you could say it out loud to the people it concerns. A price you have not named is one you pay in instalments and call patience.
+Add a line to the sheet. Under the harm you keep fixing, write your walk-away price: what would have to happen, or keep happening, before you walked out instead of staying and disappearing. Write it so you could say it out loud to the people it concerns. A price you have not named is one you pay in instalments and call patience.
 
 **Next:** The Sage, the one who sees all six altitudes and knows which one the game actually plays at.
