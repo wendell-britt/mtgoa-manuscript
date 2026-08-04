@@ -379,6 +379,25 @@ def _sense_tag(toks, j, grade, senses):
     return False
 
 
+# 7. COLON LABEL. APPENDIX_A runs a four-part parallel list per domain --
+#    "*Regent.* Stewards inherited resources ... Shadow: protects the resource
+#    pool ... Gift: understands that a resource held in perpetuity serves no
+#    one." `Shadow:` is a LIST LABEL, not a grammatical subject; the elliptical
+#    subject is the Face, which is Grade 1. Its siblings use `sits`, `withholds`
+#    and `maps`, none of them classed, so only the one flagged, and only by
+#    accident of vocabulary. Same shape at ch8:410, "The pattern: going up,
+#    seeing the whole thing", and at every "**Job:**" line in the ch2 roster.
+LABEL = re.compile(r"[A-Za-z][A-Za-z' ]*\*{0,2}\s*:")
+
+
+def _is_label(sent, ent):
+    """Entity is a colon-label heading its own list item, not a subject."""
+    head = ent.split()[-1]
+    for m in re.finditer(r"\b%s\b\*{0,2}\s*:" % re.escape(head), sent, re.I):
+        return True
+    return False
+
+
 def _is_noun(toks, j):
     """Candidate verb is being used as a noun."""
     if j == 0:
@@ -405,6 +424,9 @@ def scan(path, verb2class, ent2grade, licensed, partial=None, e1=None,
                     continue
                 head = ent.split()[-1]
                 if head not in toks:
+                    continue
+                # a colon-label is not a subject; skip the whole entity here
+                if not loose and _is_label(sent, ent):
                     continue
                 ent_len = len(ent.split())
                 for i, t in enumerate(toks):
