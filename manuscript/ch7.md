@@ -530,7 +530,7 @@ You met the Victim at the door of the Forest, sixth in line. The Protector decid
 <!-- /MARGINALIA -->
 
 
-At its best this is the part of you that keeps an exact ledger. Something cost you and the Victim will not let the cost be called nothing. It remembers the meetings you carried, the accommodations nobody asked for and everybody used, the years of being the reasonable one. Every entry is accurate. This matters more in relational work than anywhere else in the book, because relational work forms the one arena where people routinely absorb costs without ever entering them anywhere. Without a part of you keeping count, you will absorb harm indefinitely and call it fine, and nobody there will stop you, because a person who does not send an invoice is a person nobody has to pay.
+At its best this is the part of you that keeps an exact ledger. Something cost you and the Victim will not let the cost be called nothing. It remembers the meetings you carried, the accommodations nobody asked for and everybody used, the years of being the reasonable one. Every entry is accurate. This matters more in relational work than anywhere else in the book, because relational work forms the one arena where people routinely absorb costs without ever entering them anywhere. Without a part of you keeping count, you will absorb harm indefinitely and call it fine, and nobody there will stop you. A person who does not send an invoice does not get paid.
 
 The distortion arrives in what it does with the balance.
 
