@@ -5,11 +5,28 @@ agency_grep.py — the recall net under the agency audit.
 Spec: SPEC_AGENCY_TRACEABILITY_AUDIT_20260802, task T2.
 
 This is NOT the detector. Wendell ruled on 2026-08-02 that agents read the
-prose and this script runs beneath them to catch what they missed. It is
-deliberately high-recall and low-precision: it fires on every registry entity
-that appears near an agentive verb, and it does not attempt to parse. Its
-output is a candidate list to diff against the agents' ledgers, so that a site
-found by neither is at least a site nobody silently dropped.
+prose and this script runs beneath them to catch what they missed. It fires on
+registry entities appearing near an agentive verb and it does not attempt to
+parse. Its output is a candidate list to diff against the agents' ledgers, so
+that a site found by neither is at least a site nobody silently dropped.
+
+That last part only works if somebody reads the output. Measured 2026-08-03,
+precision was low enough that nobody would: 1 of 8 candidates survived reading
+on `the field`, 0 of 14 on Grade-3 intention. Six filters were added against
+hand-read samples -- object position, clause boundary, noun-not-verb, passive
+or adjectival state, hyphenated compounds, and an intervening noun phrase.
+Together they remove about 63% of raw candidates. 32 dropped sites were
+hand-read to confirm the losses are noise, and the one real finding that fell
+out (`organizations that used tradition to protect power`) drove the restrictive
+relative rule.
+
+Recall is one flag away: --loose disables all six and restores the original
+behaviour exactly. Use it when a chapter's ledger and this net disagree.
+
+What the filters cannot fix is WORD SENSE. "fear meant something" (signified,
+not intended) still reads as an intention verb here, and "the pattern shows"
+(is visible) still reads as perception. The registry carries a standing note on
+this; a reader resolves it, not a filter.
 
 Two things it will never do:
   - rule a keep (C3 — that authority is Wendell's alone)
@@ -174,7 +191,137 @@ def read_body(path):
     return KEEP_BLOCK.sub("", raw)
 
 
-def scan(path, verb2class, ent2grade, licensed, partial=None, e1=None):
+# --------------------------------------------------------------- precision
+# Three faults measured 2026-08-03 against hand-read samples. On `the field`
+# only 1 of 8 candidates survived reading; on Grade-3 intention, 0 of 14. At
+# that rate the output stops being read at all, which defeats the recall net's
+# whole purpose -- a site found by neither agents nor net is a site nobody
+# silently dropped, and that only holds if somebody reads the net.
+#
+# These are three filters, not a parser. Each is reversible with --loose, so
+# the high-recall behaviour the file was built for is one flag away.
+
+# 1. OBJECT POSITION. "hold the field when the map leaves out half the story" --
+#    `leaves` belongs to the map; the field is the object of `hold`. The net
+#    only checked that a verb sat to the right of the entity, which is true of
+#    objects too. A preposition before the entity makes it oblique or locative
+#    ("into the village", "back to the village", "onto the field"); a verb
+#    before it makes it an object.
+PREP = {"in", "into", "at", "to", "for", "from", "on", "with", "onto", "of",
+        "across", "through", "toward", "towards", "inside", "outside", "over",
+        "under", "beyond", "past", "against", "about", "around", "beside"}
+
+#    Governors that take these abstractions as objects. Deliberately short and
+#    literal -- every one was read off a false positive in the measured sample,
+#    not guessed at.
+GOVERN = {"hold", "holds", "held", "holding", "keep", "keeps", "kept", "keeping",
+          "sustain", "sustains", "sustained", "meet", "meets", "met", "meeting",
+          "enter", "enters", "entered", "join", "joins", "joined", "leave",
+          "leaves", "left", "leaving", "read", "reads", "serve", "serves",
+          "change", "changes", "changed", "fix", "fixes", "fixed", "run", "runs",
+          "play", "plays", "played", "playing", "build", "builds", "built",
+          "carry", "carries", "carried", "watch", "watches", "watched",
+          "name", "names", "named", "naming", "give", "gives", "gave", "take",
+          "takes", "took", "taking", "cut", "cuts", "shape", "shapes"}
+
+# 2. CLAUSE BOUNDARY. "the fear, which meant they also missed", "systems that
+#    needed to change", "what obstacle needs overcoming", "sensing into the
+#    feeling and letting it show you" -- in every case the verb belongs to a
+#    subject that starts after the entity. The tokenizer drops punctuation, so
+#    commas are invisible; these words are what survives of the boundary.
+BOUNDARY = {"which", "that", "who", "whose", "whom", "what", "and", "or", "but",
+            "because", "when", "while", "if", "since", "though", "although",
+            "where", "whether", "so", "then", "as"}
+
+#    ...with one exception, found by hand-reading the drops. A RESTRICTIVE
+#    RELATIVE immediately after the entity takes the entity as its antecedent,
+#    so the verb after it DOES belong to the entity: "the organizations THAT
+#    USED tradition to protect power" is organizations protecting power. Only
+#    `that`/`who`/`whose` behave this way here. `which` is excluded because in
+#    this book it overwhelmingly refers back to a whole clause rather than to
+#    the noun beside it -- "they learned to not-feel the fear, WHICH MEANT they
+#    also missed" is the learning that meant it, not the fear.
+RELATIVE = {"that", "who", "whose"}
+
+# 3. NOUN, NOT VERB. `attempt`, `demand`, `plan`, `move`, `report`, `claim`,
+#    `state`, `answer`, `need`, `charge` are all noun-or-verb. A determiner or a
+#    pre-nominal modifier immediately before the candidate settles it: "a demand
+#    insists", "of failed attempts", "reaching for the plan".
+DET = {"a", "an", "the", "its", "their", "your", "my", "his", "her", "our",
+       "this", "that", "these", "those", "some", "any", "no", "one", "each",
+       "every", "another", "both", "either", "neither"}
+#    Bare pronouns and quantifiers that start a zero-relative clause. The
+#    Grade-1 intervening check already catches `you`/`they`; these are the ones
+#    no grade lists.
+NEWSUBJ = {"nobody", "somebody", "anybody", "everybody", "everyone", "someone",
+           "anyone", "none", "people", "whoever", "whatever",
+           # `it` is in no grade, so the Grade-1 check never caught it: "the
+           # work IT ASKED of you" is the zero-relative shape again.
+           "it"}
+
+MOD = {"failed", "same", "next", "real", "own", "first", "last", "only", "whole",
+       "new", "old", "good", "bad", "single", "specific", "actual", "entire",
+       "clean", "hard", "quiet", "second", "third", "final", "further", "other"}
+
+
+#    `to` belongs in PREP for the object test ("back to the village") but NOT in
+#    the intervening test: there it is usually an infinitive marker, and the
+#    infinitive's implied subject is the entity -- "the organizations that used
+#    tradition TO PROTECT power" is organizations protecting power, which is
+#    exactly the Grade-6 social-causal shape the audit exists to catch.
+INTERVENE = PREP - {"to"}
+
+
+def _is_object(toks, i, ent_len):
+    """Entity sits in object or oblique position, so the verb to its right is
+    not its verb."""
+    start = i - ent_len + 1                        # first token of the entity
+    for back in (1, 2):                            # skip a determiner if present
+        k = start - back
+        if k < 0:
+            break
+        w = toks[k]
+        if w in DET:
+            continue
+        return w in PREP or w in GOVERN
+    return False
+
+
+# 4. PASSIVE OR ADJECTIVAL. "even when the field is charged", "the moment the
+#    field becomes truly charged" -- a copula before the candidate means the
+#    entity is in a state, not doing something. `charge` is a mechanical lemma,
+#    so both read as findings without this.
+COPULA = {"is", "are", "was", "were", "be", "been", "being", "am",
+          "becomes", "became", "become", "seems", "seemed", "feels", "felt",
+          "remains", "remained", "stays", "stayed", "gets", "got", "looks"}
+
+
+def _is_state(toks, j, i=None):
+    """Copula before the candidate: passive, predicate adjective, or an
+    infinitive complement -- "the work IS TO TELL them apart" defines the work
+    rather than reporting it doing something."""
+    if i is not None and toks[j - 1] == "to" and any(
+            toks[k] in COPULA for k in range(i + 1, j)):
+        return True
+    for back in (1, 2):                            # allow one adverb between
+        k = j - back
+        if k < 0:
+            return False
+        if toks[k] in COPULA:
+            return True
+        if not toks[k].endswith("ly"):
+            return False
+    return False
+
+
+def _is_noun(toks, j):
+    """Candidate verb is being used as a noun."""
+    if j == 0:
+        return False
+    return toks[j - 1] in DET or toks[j - 1] in MOD
+
+
+def scan(path, verb2class, ent2grade, licensed, partial=None, e1=None, loose=False):
     """Every (entity, verb) pair inside a ±5-token window. High recall by design."""
     hits = []
     body = read_body(path)
@@ -183,21 +330,56 @@ def scan(path, verb2class, ent2grade, licensed, partial=None, e1=None):
             continue
         for sent in sentences(line):
             low = sent.lower()
-            toks = re.findall(r"[a-z']+", low)
+            # hyphenated compounds stay whole, so "the Field-Holder demands"
+            # does not read as "the field ... demands". That one compound
+            # accounted for three false positives in ch7 alone.
+            toks = re.findall(r"[a-z']+(?:-[a-z']+)*", low)
             for ent, grade in ent2grade.items():
                 if ent not in low:
                     continue
                 head = ent.split()[-1]
                 if head not in toks:
                     continue
+                ent_len = len(ent.split())
                 for i, t in enumerate(toks):
                     if t != head:
                         continue
+                    # the entity is an object or an oblique, not a subject --
+                    # unless a restrictive relative follows it, in which case it
+                    # is the subject INSIDE that clause whatever precedes it:
+                    # "a defense of the organizations THAT USED tradition to
+                    # protect power" is object of `of` and subject of `used`.
+                    rel_follows = toks[i + 1] in RELATIVE if i + 1 < len(toks) else False
+                    if not loose and not rel_follows and _is_object(toks, i, ent_len):
+                        continue
                     # subject window: the verb sits to the RIGHT of the subject
                     for j in range(i + 1, min(i + 6, len(toks))):
+                        # a new clause starts here, so whatever follows has its
+                        # own subject and this entity is not it
+                        if not loose and toks[j] in BOUNDARY:
+                            # restrictive relative on the entity itself: the
+                            # verb after it is the entity's verb, so keep going
+                            if j == i + 1 and toks[j] in RELATIVE:
+                                continue
+                            break
                         cls = verb2class.get(toks[j])
                         if not cls:
                             continue
+                        if not loose and (_is_noun(toks, j) or _is_state(toks, j, i)):
+                            continue
+                        # a determiner or preposition between subject and verb
+                        # starts a new noun phrase, and that phrase owns the
+                        # verb: "the work NOBODY SEES", "the work THE
+                        # INHERITANCE requires", "the work OF UNDERSTANDING".
+                        # start past the relative pronoun when there is one --
+                        # `that` is also a determiner, so without this the
+                        # intervening check re-breaks on the very word the
+                        # RELATIVE rule just allowed through.
+                        first = i + 2 if rel_follows else i + 1
+                        if not loose and any(toks[k] in DET or toks[k] in INTERVENE
+                                             or toks[k] in NEWSUBJ
+                                             for k in range(first, j)):
+                            break
                         # a person intervening owns the verb, not the abstraction
                         if any(ent2grade.get(toks[k]) == 1 for k in range(i + 1, j)):
                             break
@@ -322,6 +504,10 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("paths", nargs="*")
     ap.add_argument("--report", help="write markdown here instead of stdout")
+    ap.add_argument("--loose", action="store_true",
+                    help="disable the three precision filters (object position, "
+                         "clause boundary, noun-not-verb) and restore the "
+                         "original high-recall behaviour")
     ap.add_argument("--include-legacy", action="store_true",
                     help="add MTGOA_TEAL_080525.md as the untreated baseline")
     a = ap.parse_args()
@@ -332,7 +518,7 @@ def main():
 
     rows = []
     for f in files:
-        rows += scan(f, v2c, e2g, lic, partial, e1)
+        rows += scan(f, v2c, e2g, lic, partial, e1, a.loose)
     report(rows, files, a.report)
     return 0
 
