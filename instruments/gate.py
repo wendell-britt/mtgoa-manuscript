@@ -104,9 +104,16 @@ EXEMPT = [
 CANON = [
     ("banned", "Say the Thing Under the Thing",
      "ch3 Move 5. Ruled: option b, keep the move name and sweep the prose around it."),
+    # FLAG WITHDRAWN 2026-08-03. I recorded this as an inconsistency and it is a rule.
+    # ch3 lowercases a move name when the sentence is TELLING YOU TO DO IT and capitalises
+    # it when the sentence is NAMING IT, and all five moves obey it:
+    #   820 "Turn the dial up instead"      846 "Say what you can do now, to her, once"
+    #   860 "Say the thing under the thing:" 866 all five lowercase in one run
+    #   850 the heading   962 "*Say the Thing Under the Thing* becomes:"   981 the list
+    # Capitalising 860 and 866 would have broken a set that was already consistent, so both
+    # spellings are canon and both are exempt.
     ("banned", "Say the thing under the thing",
-     "the same move, lowercase, at ch3:860 and ch3:866. FLAGGED: it is capitalised at 850, "
-     "962 and 981, so the book cites one move name two ways. Wendell has not ruled."),
+     "the same move as an imperative in running prose, ch3:860 and ch3:866."),
     ("banned", "*Say the Thing*",
      "ch4:752, the quest card."),
     ("banned", "Run It Again With One Thing Changed",
