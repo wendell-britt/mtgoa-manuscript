@@ -257,7 +257,7 @@ If emotional alchemy means learning from emotions instead of managing them, then
 
 Some people are very good at putting feelings away.
 
-A voice on the phone, upset. The emotion arrives, theirs and yours, and the chest does a particular thing: a tightening, a pulling inward, like a door closing fast. Then you are gone. Not literally. You stay on the call, professional, efficient. The part of you that could feel the situation has left the building.
+A voice on the phone, upset. Before they finish speaking, you are asking questions to identify the problem. By the time they pause, you have a plan. You stay on the call, professional, efficient. The part of you that could feel the situation has left the building.
 
 Locate the problem. Solve the problem. Move on.
 

@@ -61,6 +61,12 @@ warranted distrust of directness used to control people with less power, then na
 directly. Reader-run scan now holds one intentional candidate (the phone-call image); gate,
 duplicate, and spine-anchor checks pass. No other prose changed.
 
+**Phone-call revision.** On reconsideration, the remaining Chapter 3 candidate became a focused
+edit: the scene now shows the move—asking questions, identifying a problem, and having a plan
+before the speaker pauses—rather than explaining the move through a chest-tightening image. The
+following "Locate the problem. Solve the problem. Move on." now lands as the demonstrated
+sequence. Full reader-run scan is 0 candidates; gate, duplicate, and spine-anchor checks pass.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
