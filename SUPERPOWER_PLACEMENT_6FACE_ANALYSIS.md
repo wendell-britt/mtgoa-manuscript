@@ -2,6 +2,10 @@
 ## *Where does Jordan find hers?*
 
 **Created:** 2026-08-04
+**Updated 2026-08-04, two rulings by Wendell:** the Regent's superpower is the **Storyteller** and the
+Architect's is the **Strategist**, both now bound to the word *superpower* in the prose. And the
+superpower page has a **stable URL**, which closes condition 1 below — the permanence risk that was
+the only thing standing against option A.
 **Question:** Route the reader to the superpower page at masteringallyship.com, **or** seat a section / appendix in the book explaining the six superpowers.
 **Origin:** A2 residual. `ch1:209` promises the character sheet fills in with *"a superpower you will only spot in motion."* The line is never written. See `specs/DECISION_LOG.md` A2.
 **Companions:** `SPEC_6_SABOTAGING_BELIEFS.md`, `SOURCES/SELF_SABOTAGING_BELIEFS.md`, `specs/SPEC_CH3_CH8_POLISH_LEDGER_2026-08-03.md` (P1), `specs/DECISION_LOG.md` DL-20.
@@ -16,8 +20,8 @@
 |---|---|---|
 | Shaman | `ch3:756` | **The Alchemist** — takes the charge the Controller called a foul and spends it |
 | Challenger | `ch4:597` | **The Disruptor** — willingness to be unwelcome on a charge you have checked |
-| Regent | `ch5:597` | the account of where this came from, what it cost — inheritance put in receivable form |
-| Architect | `ch6:464` | knowing where the push goes and when, then building so the next person runs it without you |
+| Regent | `ch5:597` | **The Storyteller** — what you received put in a form the next person can receive |
+| Architect | `ch6:464` | **The Strategist** — where the push goes and when, then built so the next person runs it without you |
 | Diplomat | `ch7:592` | **The Connector** — connection that has survived being told the truth |
 | Sage | `ch8:639` | **Escape Artist + Coach**, a compound: get out cleanly, stay useful to those still inside |
 
@@ -236,7 +240,7 @@ page sharpens an answer she already has rather than supplying one she lacks.
 
 ## Open questions for Wendell
 
-1. **Does the superpower page have a stable URL that will outlive the print run?** DL-20's rule makes this the whole risk of A. If the answer is "not yet," A waits and nothing else changes.
+1. ~~**Does the superpower page have a stable URL that will outlive the print run?**~~ **CLOSED 2026-08-04: it does.** Recommended that the pointer still name `masteringallyship.com` the way `ch1:83` does rather than printing a deep link, so a later path change cannot strand the book.
 2. **Does the page diagnose the six Faces' superpowers, or the personal wound-to-capacity formula at `ch2:334`?** They are different instruments and the pointer's wording depends on which.
 3. **Sheet line wording** — the A2 candidate at `ch9:664` is drafted and measured, awaiting the same ruling.
 
