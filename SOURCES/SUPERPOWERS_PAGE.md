@@ -85,6 +85,58 @@ is the likeliest drift site in the set.
 
 ---
 
+## TEAL side — the definitions in the source manuscript
+
+`MTGOA_TEAL_080525.md` is the earlier version of the text the superpower content came from, and it
+carries **all six**, each with a full chapter: Alchemist 123 mentions, Storyteller 155, Strategist
+131, Connector 135, Escape Artist 133, Disruptor 117. **These are not the page**, and they do not
+fill the `WENDELL:` slots above — but if the page was built from this material, this is the closest
+thing to it the repo holds, and it is what the drift check can run against today.
+
+| Superpower | TEAL | The definition as TEAL states it |
+|---|---|---|
+| **Alchemist** | `:14236` | "carries the rare ability to transform raw emotional charge into usable power. Where others recoil from grief, anger, or despair, the Alchemist listens for the signal inside the storm." |
+| **Strategist** | `:5528` | "carry the superpower of clarity in complexity. They are the cartographers of chaos, mapping patterns where others see only noise. Their gift is not just seeing what is, but intuiting what will be." |
+| **Connector** | `:7156` | "gift is a living network, a weave of threads, bridges, and gathering spaces. Through their presence, strangers become acquaintances, acquaintances become friends, and friends become co-conspirators." |
+| **Disruptor** | `:11992` | "Some powers arrive quietly, slipping into the room like intuition. The Disruptor does not. This superpower is the sound of glass breaking, of silence cracking open, of a truth too jagged to leave unspoken." |
+| **Escape Artist** | `:9188` | "honors the wisdom of fear… Their gift is movement, not just toward, but away, aside, beneath, beyond. They are the ones who know that retreat, well-timed and intentional, can be as powerful as a charge." |
+| **Storyteller** | `:16788` | "gift is poignance, the art of feeling the weight of loss and weaving it into meaning. Where others see only fragments, the Storyteller threads them into coherence." |
+
+### What TEAL settles, and it is the important thing
+
+**In TEAL, superpower and Face are two axes that cross. In the book they are one axis.**
+
+The Strategist chapter walks all six Faces by name and hyphenates them: *the Shaman-Strategist*,
+*the Challenger-Strategist*, *the Regent-Strategist*, *the Diplomat-Strategist*, *the
+Sage-Strategist* (`:6472`–`:6552`). The Escape Artist section names Faces 63 times. So the source
+model is a **6 × 6**: any superpower can be played through any Face.
+
+The book collapsed that to a **1:1** — each Face chapter names one superpower — which is a
+book-era design decision layered on the source rather than something the source says.
+
+**This is why `ch9:664` had to be corrected**, and it turns out to be righter than the reasoning
+that produced it. The page diagnoses superpowers; the book's sheet line derives one from her Face.
+On the TEAL model those are independent axes, so the two answers *routinely* differ, and the
+sentence now in the book —
+
+> Its answer does not have to match the superpower your Face came with.
+
+— is not a hedge about two instruments disagreeing at the margin. It is the source model stated
+plainly.
+
+**Two smaller findings:**
+
+- **Coach appears 8 times in TEAL**, against 117–155 for each of the six. The Sage's
+  *Escape Artist + Coach* compound at `ch8:639` is book-era, not source. A page built from TEAL
+  will almost certainly carry **Escape Artist alone**, which is drift test 2 firing before anyone
+  has looked at the page.
+- **TEAL's Storyteller is Water** — *"poignance… the weight of loss"*. The book gives the
+  Storyteller to the **Regent**, whose material is inheritance and stewardship, and puts
+  poignance/Water on the Regent's Optimizer-equivalent instead. Same name, adjacent but not
+  identical claim. Worth a look when the page arrives.
+
+---
+
 ## The reader's own superpower, which is a different object
 
 `ch2:334` defines the personal superpower, and the `ch9:664` pointer could plausibly be read as
