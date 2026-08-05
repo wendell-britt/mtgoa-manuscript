@@ -8,53 +8,69 @@
 
 The world is not fine.
 
-It shows up closer in than the headlines: the meeting that goes sideways, the community built to hold and doesn't, the low hum of something wrong that arrives ahead of any language for it.
+You do not learn that from the news. You learn it in a meeting, or a group chat, or a Sunday dinner, when somebody finally says what has been sitting there for months and everybody at the table starts picking their words. Somebody gets talked over and nobody names it. Somebody names it and pays for it all week. Two people who agree with each other end up arguing about a word, while the person everybody is talking around says nothing at all.
 
-It usually starts small. A conversation that goes wrong. A relationship that fractures over something that shouldn't have been able to break it. A moment when showing up to help turns out to have made it worse.
+Nobody can say afterwards what broke. Everybody leaves knowing something did.
 
-Nothing gives it a name at first. Just the feeling, the one that shows up late at night, or early in the morning, or in the middle of a conversation that's going fine on the surface and completely wrong underneath.
+Most of it starts smaller. You say the sentence you rehearsed and your friend agrees with you and never brings it up again. You call to check on the person who took the worst of it and you can hear them managing you. You defend somebody in public and they spend the next week repairing what your defense cost them.
+
+Nobody names any of it at the time. You just get the feeling, at 2am, or in the middle of a conversation going fine on the surface and wrong underneath.
 
 The feeling is this: *this isn't working.*
 
-*This isn't working* is a verdict on the work, not on you. Your effort is real. Your intentions are real. Something else is failing.
+*This isn't working* is a verdict on the method, not on you. Your effort is real. Your intentions are real. Something else is failing.
 
-That hum doesn't go away when you put down the phone. It lives in the body before it reaches the mind, and it doesn't resolve with the next action item.
+You put the phone down and carry it anyway. It arrives before the words do, and no action item takes it out.
 
-The whole thing has a structural flaw:
+The failure is structural. It starts with a map that covers half the ground:
 
-**We keep trying to fix the village without knowing what's in us.**
+**People keep trying to fix the village without knowing what they carry into it.**
 
-We see a problem. We respond. We post, we protest, we speak up, we show up. Then we wonder why three months later the problem still sits there, or worse, has grown, or has transformed into something that our original response can't touch.
+The village is every place with an audience: the workplace, the coalition, the family table, the group chat, anywhere other people can see what you did and adjust their read on you. Harm happens in the village, and repair has to land there, so the village is a reasonable place to have put all the tools. Allyship put all of them there.
 
-We wonder why we're exhausted. Why we're burned out. Why the allyship feels like more than we can carry. (Some of us have been calling this burnout for five years. Burnout names the depletion. It doesn't name the cause.)
+So the practice runs one direction. See a problem, respond. Post, protest, speak up, show up. Three months later the problem sits where it sat, or has grown, or has become something the response cannot reach, and the person who responded has nothing left.
 
-If we're honest with ourselves, we've also been the one who couldn't hold it. Who froze. Who said the wrong thing. Who meant well and made it worse. Who showed up wanting to help and left feeling like the problem was us.
+Nobody equipped the other half. No curriculum covers the reflex that fires before you decide anything, or the read you set aside, or the part of you that took the wheel during those forty minutes. Most training files that under private, or therapy, or somebody else's field.
+
+I spent years refusing a capacity I already had.
+
+I was trained in shamanism, and I did not want to learn it. I had no affinity for the practices it draws on, and it did not feel like mine to pick up. People whose judgment I trusted had advised me never to trust the exact kind of spooky white lady now teaching me. I stayed because her chops were impeccable. That was the whole reason, and it held.
+
+She taught me to read a body. Mine first, then the bodies of everyone else. Most of what we were calling shamanism was presence, and we read the research next to the practice: the same moves keep surfacing in mainstream psychology under other names, because they work on a nervous system. Stephen Porges had already mapped why.
+
+I use it every time I teach now, in dance and in writing and in this. I can walk into a group and hold it steady, because I trust my body to read what moves in it before anybody says so.
+
+I could not do any of that while I believed the knowledge belonged to somebody else. The capacity sat in my body the whole time. Nobody was ever going to hand me permission to use it.
+
+Anyone who's been in this work long enough has met themselves at the edge of their capacity. They froze when the moment needed them, or said the sentence they cannot take back, or meant well and made it worse, or came to help and left certain they were the problem.
+
+You know which time was yours. You know the feeling that came with it.
 
 *That feeling is the Shadow.*
 
 Carolyn Elliott, whose work on shadow retrieval grounds the daemon work in this book, was precise about it: the Shadow is the material you disowned, a pattern that has been doing something specific for you. It protected you when you needed protecting. It made sense once.
 
-Hold these three words, because the whole book turns on them. The **Shadow** is the disowned material itself. When one of your Faces runs *from* that material instead of being chosen, you get that **Face in distortion**: the gift turned against the people it was meant to serve. When a daemon runs the show instead of you, it exacts a **cost**, paid by you and by whoever you were trying to help. One word each: Shadow, distortion, cost. They are not the same thing, and the work is to tell them apart.
+Hold these three words, because the whole book turns on them. The **Shadow** is the disowned material itself. When one of your Faces runs *from* that material instead of being chosen, you get that **Face in distortion**: the gift turned against the people it was meant to serve. When a daemon runs the show instead of you, it exacts a **cost**, paid by you and by whoever you were trying to help. One word each: Shadow, distortion, cost. They are not the same, and the work is to tell them apart.
 
-The daemon work doesn't ask you to fix the Shadow. It asks you to find out what it has been protecting. That is a different project entirely, and it produces different results.
+I don't ask you to fix the Shadow. I ask you to find out what it has been protecting. That is a different project entirely, and it produces different results.
 
-Here's why: we're trying to navigate terrain we haven't mapped. We're trying to be allies in a world that demands capacities we were never taught to build. We don't build them because we weren't told the work starts somewhere deeper than performative showing up.
+The terrain here has no map. Employers, movements and communities expect capacities that most training never reaches, and most training does not say so. The curriculum opens where the work becomes visible, which is a long way past where it starts.
 
-The world is not fine. The way we've been trying to fix it is not fine either. It rests on a bad premise: that allyship is mainly about what you do in public. The deeper truth is this:
+The world is not fine. Neither is the method for fixing it. It rests on a bad premise: that allyship is mainly about what you do in public. The deeper truth is this:
 
 **Allyship is about what you are capable of becoming before you walk into the world.**
 
 ### What the Old Allyship Got Wrong
 
-The old allyship's fatal flaw was mistaking information for transformation. It had a theory of change. It went like this:
+The trainers who built the old allyship mistook information for transformation. Their theory of change went like this:
 
 *Learn. Feel. Act.*
 
-This theory is incomplete rather than wrong. The old allyship produced real wins: doors that opened, conversations that happened, power that shifted in small amounts, temporarily, in specific places. It also produced a generation of exhausted practitioners who kept burning out on good intentions. Both of these things are true.
+This theory is incomplete rather than wrong. The old allyship produced real wins: doors that opened, conversations that happened, power that shifted in small amounts, temporarily, in specific places. It also produced a generation of exhausted practitioners who kept burning out on good intentions. Both are true.
 
-You bring a body to every one of those actions. Sometimes that body runs on three hours of sleep. Sometimes it has been braced since the morning meeting. The old allyship does not ask about that. It assumes the person executing the right actions has the body to do it.
+You bring a body to every one of those actions. Sometimes that body runs on three hours of sleep. Sometimes it has been braced since the morning meeting. The trainers behind the old allyship never asked about that. They assumed you would have the body to execute the actions regardless.
 
-The old allyship tells you what to do. It doesn't tell you how to be the kind of person who can do it sustainably. Who can show up in the hardest moments without freezing. Who can hold complexity without collapsing. Who can take feedback without disappearing. Who can stay in the conversation when it gets hard.
+Coaches and workshops told you what to do. Very few of them told you how to be the kind of person who can do it sustainably. Who can show up in the hardest moments without freezing. Who can hold complexity without collapsing. Who can take feedback without disappearing. Who can stay in the conversation when it gets hard.
 
 The old allyship produces moments of brilliance and long stretches of exhaustion. It produces people who care enormously and accomplish less than they could because they keep hitting the same wall. The wall that's not in the world, it's in them.
 
@@ -64,19 +80,19 @@ Some of what gets called burnout is that cost still being carried. It sits close
 
 That sadness is information. It tells you what mattered.
 
-Every time we hit the wall, we have a choice: turn back, or go through.
+Everybody who hits that wall gets the same choice: turn back, or go through.
 
-Most people turn back. Of the ones who don't, most push through instead of going through: they override the sensation, run on fumes, and eventually the body stops cooperating. Or they do the inner work in private and never find the way to carry it back to where it's needed. This is the failure mode we're building a way out of.
+Most people turn back. Of the ones who don't, most push through instead of going through: they override the sensation, run on fumes, and eventually the body stops cooperating. Or they do the inner work in private and never find the way to carry it back to where it's needed. That is the failure mode you are here to get out of.
 
 ### What's Different Now
 
-Something has shifted. It shows up as a tightening that doesn't quite release between hard conversations, a vigilance that no longer has a clear target and just hums.
+Something has shifted. Everyone is on edge, so a hard conversation could be around any corner, and vigilance that once made sense now runs as background noise.
 
-The conversations come with more charge. Coalitions that held through the last hard thing are fraying at edges that shouldn't be weak. The feedback, when it comes, comes fast, doesn't wait for you to be ready, doesn't come with enough context to land cleanly. The language keeps shifting, not because people move the goalposts but because the situation actually moves, and the words you practiced last year don't cover the new terrain. It can start to feel like falling behind, with no clear sense of what falling behind even means.
+The conversations come with more charge. Coalitions that held through the last crisis are fraying at edges that shouldn't be weak. The feedback, when it comes, comes fast, doesn't wait for you to be ready, doesn't come with enough context to land cleanly. The language keeps shifting, not because people move the goalposts but because the situation actually moves, and the words you practiced last year don't cover the new terrain. It can start to feel like falling behind, with no clear sense of what falling behind even means.
 
 The inner work, the part most trainings skip, keeps showing up as the chokepoint.
 
-Here's what we know now:
+So here is the rule:
 
 **You cannot ally from a place you have not explored.**
 
@@ -95,18 +111,18 @@ The world is not fine. The people trying to fix it keep running into the same pr
 
 Before you entered this chapter, you were already playing. You didn't choose to; the game was already running.
 
-Every workplace conflict, every family rupture, every coalition meeting where people nodded and left resentful, every moment where you chose silence, performance, attack, appeasement, or repair, those were all game moves. When you see the pattern, the incidents stop looking the same. The board is social reality. The stakes are human dignity, trust, and who gets to belong.
+Every workplace conflict, every family rupture, every coalition meeting where people nodded and left resentful, every moment where you chose silence, performance, attack, appeasement, or repair, those were all game moves. See the pattern once and you stop reading them as unrelated. The board is social reality. The stakes are human dignity, trust, and who gets to belong.
 
-Most of us were trained to treat these moments like isolated incidents. They are connected rounds in one larger game:
+Most people treat these moments as isolated incidents. They are connected rounds in one larger game:
 
 - What pattern do I run when pressure rises?
-- What pattern do the people here reward when things get uncertain?
-- What pattern do they punish when someone tells the truth?
+- What pattern do the people in this group end up rewarding when nobody knows what happens next?
+- What pattern do the people running this system end up punishing when someone tells the truth?
 
 If you don't name the game, you mistake your reaction for your identity.
 If you do name the game, your reaction becomes information.
 
-That's the pivot I need from you. We are not pretending life is tidy or fair. We are recognizing that repeated social pressure creates repeated moves, and repeated moves create character, culture, and consequence.
+That's the pivot I need from you. Nobody here claims life is tidy or fair. Pressure repeats, so your moves repeat, and the moves you repeat build your character, the culture around you, and the consequences everybody lives with.
 
 The Forest is where you learn to interrupt automatic play. You don't need to master the whole game today. You need to become a conscious player in the next move.
 
@@ -119,45 +135,47 @@ For the full game taxonomy and mechanics, see Chapter 1. This chapter uses that 
 
 The Forest is a place you may not realize you've been circling.
 
-A familiar loop keeps running: the moment after a hard conversation spent rehearsing what you should have said, the 2am inventory of what went wrong, the same pattern surfacing in a different building, with different people, wearing different faces. That loop is the edge of the Forest.
+Trying to seem right costs energy. Trying to seem good costs more. Run both at once and most of the attention goes to how you are landing. Whoever you came to help gets what is left.
 
-Maybe you did everything the work asked. Showed up. Listened. Went to the training and listened there too. Read the book, adjusted the language, listened harder after that. Asked better questions. Stopped centering yourself, or tried to. Checked the assumptions. Sat with the discomfort. Maybe, somewhere in all of it, holding still became the default.
+Whatever the situation, part of you stays braced for the judgment. That vigilance costs you presence, and if you cannot be present with them you cannot ally with them.
 
-At some point the signal drops out. No clear way to tell if any of it is working, or even what working would look like.
+That gap, between the people in front of you and how much of you is there to meet them, is the edge of the Forest.
 
-Underneath the effort waits a question worth sitting with:
+Maybe you did everything your teachers and workshops asked of you. Showed up. Listened. Went to the training and listened there too. Read the book, adjusted the language, listened harder after that. Asked better questions. Stopped centering yourself, or tried to. Checked the assumptions. Sat with the discomfort. Maybe, somewhere in all of it, you started holding still by default.
+
+No one reports back. You cannot tell whether any of it is working, or what working would even look like.
+
+All that effort has been sitting on top of one question.
 
 Were you doing this to change something, or to seem like the kind of person who would? Ask it without flinching.
 
-Picture a meeting that goes cold. The body knows exactly what is happening, maybe before anyone speaks, and the read gets set aside for the consensus, not for lack of capacity, but because body-knowing, in a certain framework, belongs to people closer to their roots, and claiming it can feel like appropriation. So the literacy gets built and the read goes unused.
+Your body was never appropriating anything. It is yours. You already have the Shaman's first move. I am asking whether you will stop treating your own somatic intelligence as something that belongs to someone else.
 
-The body doing that reading never appropriated anything. It is yours. You already have the Shaman's first move. I am asking whether you will stop treating your own somatic intelligence as something that belongs to someone else.
-
-Wanting to be good was never the problem. Trying to seem good takes the whole body. That leaves nothing over. The face you're holding in place and the face underneath it run at the same time, and the exhaustion actually lives in that split.
+Wanting to be good was never the problem. Performing it costs a great deal, and punishing yourself for falling short of the performance costs a great deal more. Run both and you are funding two expensive processes, neither of which does anything for the person in front of you.
 
 In the village, the mask makes sense. An audience watches. You have roles to play, relationships to manage, impressions to maintain.
 
 The Forest has no audience.
 
-No one in there needs you to seem good, and that makes it the only place where the real work can happen.
+No one in there needs you to seem good, so you can do the real work there and nowhere else.
 
 The Forest holds the parts that have been running your allyship without your permission: the ones you inherited, the ones you performed, the ones you never examined because you were too busy showing up and listening.
 
-The work of the Forest is to meet those parts, not to silence them. To find out where they came from, what they were protecting, and whether they still belong to you.
+In the Forest you meet those parts instead of silencing them. You find out where they came from, what they were protecting, and whether they still belong to you.
 
 ### Forest vs Village
 
-**Village mode** optimizes for appearance, speed, and immediate social safety.  
-**Forest mode** optimizes for truth, integration, and durable capacity.
+In the Village you play for appearance, speed, and getting through the next hour safely.  
+In the Forest you play to understand deeper truths and to build capacity you can sustain.
 
-In the Village, the core move is impression management.  
-In the Forest, the core move is pattern recognition and repurposing.
+In the Village you manage the impression.  
+In the Forest you catch the pattern and put it to work.
 
-In the Village, you ask: *How do I look right now?*  
-In the Forest, you ask: *What keeps repeating in me, and what does it cost if I keep running it?*
+In the Village you ask: *How do I look right now?*  
+In the Forest you ask: *What keeps repeating in me, and what does it cost if I keep running it?*
 
-In the Village, feedback feels like threat to identity.  
-In the Forest, feedback becomes data for development.
+In the Village you hear feedback as a threat to who you are.  
+In the Forest you hear it as information about what to build.
 
 Decision question: **In your next hard moment, will you protect your image in the Village, or grow your capacity in the Forest?**
 
@@ -176,13 +194,11 @@ Something else came with it. A sensation I couldn't name, small enough that I al
 
 What I found was rage, not sadness. (The body is specific like that.)
 
-The part I did not say out loud: the rage was not new.
-
 I had learned, for reasons that started early and went deep, to keep my feelings below the waterline, away from other people's awareness, and often away from my own. This produces a permanent low-grade charge that the people around you never suspect. The rage wasn't new. I had just gotten very good at not knowing it was there.
 
 The rock in my shoe was the tip of something that went down a long way.
 
-My friends called to see if I was okay. They were not okay (disturbed, shaken, holding something they didn't know how to hold), and they delivered it to me, gift-wrapped as concern. I was the only Black person most of them knew. My well-being had become a stand-in for all of Black America's well-being. The call meant to support me asked me to hold their unprocessed feelings about a Black man's murder.
+My friends called to see if I was okay. They were not okay (disturbed, shaken, holding something they didn't know how to hold), and they delivered it to me, gift-wrapped as concern. I was the only Black person most of them knew. My well-being had become a stand-in for all of Black America's well-being. Meant to support me, they were really asking me to hold their unprocessed feelings about a Black man's murder.
 
 I was not okay, and not for the reasons they assumed.
 
@@ -217,7 +233,7 @@ One of those questions hit different. (If more than one hit, start with the one 
 
 Before the map gets bigger, let me tell you how this game teaches.
 
-Most of the allyship training you've been handed works like school, compliance, or court. Learn the terms. Prove you understand them. Perform the correct response. Avoid getting it wrong. Repeat until the rules change.
+Most allyship training works like school, compliance, or court. Learn the terms. Prove you understand them. Perform the correct response. Avoid getting it wrong. Repeat until the rules change.
 
 Trained that way, you perform. You do not learn to be playful.
 
@@ -229,15 +245,15 @@ The school is somewhere to stand while you practice, and that is the whole of it
 
 Chapter 1 put the joystick in your hands. Here you learn how to walk the book.
 
-You are going to meet more language than you can use all at once. That is normal. You will see the daemons more than once: first as a map, then as a walk, then as a move. The repetition is deliberate. It is how you come to recognise them.
+You are going to meet more language than you can use all at once. That is normal. You will see the daemons more than once: first as a map, then as a walk, then as a move. The repetition is deliberate. It is how you come to recognize them.
 
-The work is to notice the first place you recognize yourself in the map, in place of memorizing the roster, mastering the Guides, or becoming the kind of person who can explain the whole system at dinner.
+Notice the first place you recognize yourself in the map. You are not here to memorize the roster, master the Guides, or become the kind of person who can explain the whole system at dinner.
 
-When a daemon lands, stop there. When a Guide's question makes something in you lean forward, start there. When a sentence names the thing you have been circling for years, stay with it.
+When a daemon lands, stop there. When a Guide's question makes something in you lean forward, start there. When a sentence names what you have been circling for years, stay with it.
 
 Recognition is where the move begins, and beginning is all it is.
 
-So do not try to carry the whole Forest at once. Let the first true thing find you. Then do one thing with it.
+So do not try to carry the whole Forest at once. Let the first true recognition find you. Then take one action on it.
 
 ---
 
@@ -255,8 +271,8 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 
 **The Protector**
 **Job:** To keep you alive. It is the body's embodied sense of self-preservation.
-**As an ally:** it guards you against real danger, the kind that would actually threaten your body. *In play:* a car swerves toward you and you're already moving before you've thought about it; the bracing fired exactly when it should.
-**As a demon:** it protects the self at all costs, and won't extend that protection to anyone else unless it widens its own identity to include them. When it does, those people stop being separate people you're allying with and become an extension of your body to protect. *In play:* a hard email lands and your whole body braces as if it were a physical threat; you answer armored, and the other person meets the armor before they reach you.
+**As an ally:** it guards you against real danger, the kind that would actually threaten your body. *In play:* a car swerves toward you and you are out of its path before you have decided anything. When the danger is real, the Protector does not wait for you, and it should not.
+**As a demon:** it protects the self at all costs, and won't extend that protection to anyone else unless it widens its own identity to include them. When it does, those people stop being separate people you're allying with and become an extension of your body to protect. *In play:* a hard email lands and the Protector runs it as a physical threat. You answer armored, and the other person meets the armor before they reach you.
 
 **The Controller**
 **Job:** If the Protector decides whether you live or die, the Controller decides *how* you live. It sets the standard for what's good and what's bad.
@@ -275,13 +291,13 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 
 **The Emotional Body**
 **Job:** The seat of your emotional life, where feeling gets processed into meaning.
-**As an ally:** the feeling runs clean and becomes information you can use. *In play:* something stings in a conversation; you feel it all the way through, and it tells you something true about what just happened.
+**As an ally:** the feeling runs clean and becomes information you can use. *In play:* someone says something and it lands hard. The charge runs its course instead of lodging, and by the end of the conversation you can name what happened and why it mattered.
 **As a demon:** the feeling gets stuck, buried or spilling out sideways, because it never gets metabolized. *In play:* an unprocessed feeling spills out of you, and the person you came to support ends up taking care of you.
 *(Learning its language is the whole of the next chapter.)*
 
 **The Victim**
 **Job:** To win sympathy through stories. Telling what happened is how it gets another person to feel it with you.
-**As an ally:** it lets you feel with someone and resonate with what they're carrying, without collapsing into their story. *In play:* someone tells you something hard and you feel it with them, moved by it, without losing yourself in it or making it yours; you stay steady enough to actually help.
+**As an ally:** it lets you feel with someone and resonate with what they're carrying, without collapsing into their story. *In play:* someone tells you something hard and it reaches you without taking you over. You can still see them, and you stay steady enough to be useful.
 **As a demon:** it keeps people in the drama triangle. In the rush to resonate with someone's pain, it allies with their victimhood and smallness instead of their wellbeing, meeting the wound so completely that it confirms them in it and keeps them in the role rather than helping them move through it. *In play:* someone shares how they were wronged, and you resonate so hard with the injury that they leave more settled into being a victim of it, no more able to act than before.
 
 **The Damaged Self**
@@ -297,13 +313,13 @@ The instant something reads as a threat (a shift in tone, a move for power), the
 
 The trouble: a hull built to survive cannot always tell which century it is in. To the Protector, losing your place in the group registers the same as getting left to die, because for most of human history those were one event. So it runs your social life on survival settings, meeting a hard conversation or a public challenge with machinery built for a predator. That is why it gets so tired: it has been holding the whole ship rigid against threats that were never going to sink you.
 
-The Protector does the job cheaply by bracing everywhere. A hull that treats every century as the dangerous one never misses a threat, and never has to work out which threat is here, which is the reason the Protector prefers that setting, and the reason the tightening between hard conversations stops having a target and just hums. Vigilance runs at a higher price and buys aim: this tone, this move for power, this person, now. A Protector on survival settings has stopped looking, and blanket bracing feels identical from the inside to paying attention.
+The Protector does the job cheaply by bracing everywhere. A hull that treats every century as the dangerous one never misses a threat, and never has to work out which threat is here, which is the reason the Protector prefers that setting, and the reason you end up walking on eggshells with everyone, including the people who have never once been a threat. Vigilance runs at a higher price and buys aim: this tone, this move for power, this person, now. A Protector on survival settings has stopped looking, and blanket bracing feels identical from the inside to paying attention.
 
 When the Protector holds the joystick, you walk into a conversation already armored, braced against something that has not happened, and the person across from you meets the hull before they meet you. It trades contact for control, and the trade feels like safety.
 
 This daemon, of all seven, stands at the threshold of a book about allyship for a reason. You can hardly protect anyone else while your own hull is breached. When you are frightened, depleted, or under real threat, the Protector spends everything you have on you, and nothing remains to carry into someone else's fight. The body knows one shortcut around this, worth naming because it looks like love: you pull the other person inside your own hull, so that protecting them and protecting yourself become a single act. A mother does this with a child, and it is real. It also takes the wrong shape for allyship, because it only works by making the other person part of you, and the person you are allying with is not you. They are their own ship. To stand with them as someone separate, you have to be resourced enough that your Protector has not already spent your last reserves keeping you afloat.
 
-When the hull cannot keep a blow out, it does the last thing a hull can do: it takes the damage itself, so that what it carries survives. That absorbed weight is the Damaged Self, a daemon you will meet nearer the center.
+When the hull cannot keep a blow out, it does what a hull does last: it takes the damage itself, so that what it carries survives. That absorbed weight is the Damaged Self, a daemon you will meet nearer the center.
 
 You do not fight the Protector, and you do not shove past it. You thank it, and you help it tell a real threat from a social one. *Thank you for keeping me alive. This one is not life or death. Show me the one real danger here, if there is any, and let me set a single boundary instead of bracing my whole body.* Do that, and the Protector goes back to its real job (protecting you when you actually need it) and stops running every hard conversation as though your life were on the line. That exchange has a name and a form. Chapter 3 gives you both, and every chapter after it runs the same shape.
 
@@ -313,7 +329,7 @@ The difference shows up in a single moment: say someone challenges you in a meet
 
 ### Taking the Joystick
 
-You just saw the Protector grab the joystick and meet a hard conversation with machinery built for a predator. It only comes first; any of the seven can end up holding the joystick. When one of them does, it plays the only way it knows how: not to lose. It defends, it performs, it manages how things look, and the person on the other side of your help can feel it. The care underneath is real; the missing piece is you on the joystick, while a part of you plays the game on its own.
+You just saw the Protector grab the joystick and meet a hard conversation with machinery built for a predator. It only comes first; any of the seven can end up holding the joystick. When one of them does, it plays the only way it knows how: not to lose. It defends, it performs, it manages appearances, and the person on the other side of your help can feel it. The care underneath is real; the missing piece is you on the joystick, while a part of you plays the game on its own.
 
 The whole of this book is one move, made over and over: getting you back on the joystick. You are the player at the center of the Forest, and reaching that center and taking the joystick are the same motion. Fight your way back to yourself, and your hands close on the joystick in the same instant.
 
@@ -323,14 +339,14 @@ That is the game itself, not the tutorial for it. It's a skill with a difficulty
 
 ### Superpower Definition
 
-Your superpower is the reliable capacity you built to survive your wounds, once that capacity is made conscious, ethical, and usable in service of others.
+Your superpower is the reliable capacity you built to survive your wounds, once you have made that capacity conscious, ethical, and usable in service of others.
 
 Formula: **adaptation under pressure → conscious integration → intentional contribution**.
 
 Two concrete examples:
 
-1. If you grew up reading emotional weather to stay safe, your integrated superpower can be early conflict sensing and de-escalation in teams before harm escalates.
-2. If you learned to over-prepare because mistakes were punished, your integrated superpower can be rigorous planning that protects vulnerable people from preventable failure without slipping into control.
+1. If you grew up reading emotional weather to stay safe, you can be the person who feels a conflict building and cools it while it is still small.
+2. If you learned to over-prepare because mistakes were punished, you can be the person who plans so carefully that a preventable failure never reaches the people least able to absorb it.
 
 The wound does not become your identity. It becomes signal, then skill, then contribution.
 
@@ -343,7 +359,7 @@ A daemon you befriend joins your party. A daemon left running on its own stays a
 ## Section 7: Journey to the Center
 ### *A First Walk Through the Forest*
 
-Let's make it concrete. Watch what happens to the joystick.
+Now the walk itself. Watch what happens to the joystick.
 
 Picture a real moment from your last month. A hard conversation. A call you delayed. A conflict you replayed after it ended. Drop back into it, and watch the daemons grab the joystick, one after another.
 
@@ -353,7 +369,7 @@ You start rehearsing every possible outcome. The Controller takes it: *manage th
 
 You decide it won't work before it has been tried. The Skeptic takes it: *don't expect anything to change.*
 
-You lunge for the one thing you can repair. The Fixer/Healer takes it: *patch this before it breaks further.*
+You lunge for whatever you can repair. The Fixer/Healer takes it: *patch this before it breaks further.*
 
 A charge rises that you can't name, and you go cold. The Emotional Body has it now: *something is happening in here and I don't know what to do with it.*
 
@@ -369,14 +385,14 @@ The whole walk is reaching her: getting to the center where she is, and putting 
 
 That center is an ordinary, lived moment: the one where you stop performing and tell the truth about what is actually happening in you. The seven settle once someone finally shows up to play.
 
-From there, with your hands back on the joystick, different moves become available:
+From there, with your hands back on the joystick, you can make moves you could not reach before:
 
 - Name one feeling instead of a theory.
 - Draw one boundary instead of ten arguments.
 - Ask one true question instead of managing the whole conversation.
 - Stay present for one breath longer than your old pattern.
 
-The Forest is where you get back to the center. From there, your next move gets cleaner.
+The Forest is where you get back to the center. From there you play the next move cleanly.
 
 ---
 
@@ -481,7 +497,7 @@ The Forest is where those daemons are met and befriended. Six guides know that t
 
 Before you walk on: the work in this book unfolds in four directions: gathering resources, skillful organizing, taking direct action, and raising awareness. All four are real allyship. Appendix A holds the full map, and a way to find which direction is calling you right now.
 
-Add a line to the sheet before you go. In Chapter 1 you wrote down the myth that runs you hardest, the rule you had been playing by without ever agreeing to it. Underneath it, write the daemon that took the joystick first when you ran the five moves, and the job it has been doing for you. Those two lines are the same mechanism seen from two directions, and most of the rest of this book works on the seam between them.
+Add a row to the sheet before you go. In Chapter 1 you wrote down the myth that runs you hardest, the rule you had been playing by without ever agreeing to it. Underneath it, write the daemon that took the joystick first when you ran the five moves, and the job it has been doing for you. Those two lines are the same mechanism seen from two directions, and most of the rest of this book works on the seam between them.
 
 From here you have two routes:
 

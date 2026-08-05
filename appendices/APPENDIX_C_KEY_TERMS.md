@@ -19,7 +19,7 @@ without a new ruling.
 
 **Capture Window** — The brief moment after a gate encounter when a BAR can be made before the felt-sense fades into interpretation. The book's intervention is specifically to capture before the reader processes the experience into insight. *[Ch1] — See also: BAR, Gate*
 
-**Distortion** — The specific failure mode of each Face — what the village does when the Face is gone and its gift is needed. The Distortion is not the opposite of the gift; it is the gift collapsed into its shadow. *[Ch1] — See also: Exile, Gate*
+**Distortion** — The specific failure mode of each Face — what the villagers do when the Face is gone and its gift is needed. The Distortion is not the opposite of the gift; it is the gift collapsed into its shadow. *[Ch1] — See also: Exile, Gate*
 
 **Double-Trigram Card** — The deepest oracle card in a chapter, where the lower and upper trigrams are the same (e.g., Kan ☵ × Kan ☵ = Hex 29). The gate's home territory; the moment where the chapter's work is most fully itself. *[Ch1] — See also: Oracle Card, Trigram*
 
@@ -29,7 +29,7 @@ without a new ruling.
 
 **Emotional Alchemy (EA)** — The practice of naming which channel is running (Anger/Fear/Sadness/Joy/Neutrality) and deploying its specific function rather than being run by undifferentiated charge. The core technology of the Shaman chapter. *[Ch2] — See also: Channel, Shaman*
 
-**Exile** — The condition of each Face after leaving the village — present but not trusted, needed but not asked, carrying a gift nobody remembers requesting. The Exile is not the Face's choice; it is what happens to the gift when the village stops needing it. *[Ch1] — See also: Distortion, Gate*
+**Exile** — The condition of each Face after leaving the village — present but not trusted, needed but not asked, carrying a gift nobody remembers requesting. The Exile is not the Face's choice; it is what happens to the gift when the villagers stop needing it. *[Ch1] — See also: Distortion, Gate*
 
 **The Face** — One of six archetypal roles (Shaman, Challenger, Regent, Architect, Diplomat, Sage) that map to the chapters of this book. You learn allyship by working with the Faces — each chapter's work is the work of a specific Face, named so the reader knows who they are being asked to be. *[Ch1] — See also: Gate, Channel*
 
