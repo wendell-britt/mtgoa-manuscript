@@ -132,3 +132,26 @@ Run by eye whenever the page changes or the book's superpower sites change:
 6. **The page still exists at masteringallyship.com** and the book's parenthetical still describes
    what it does. `ch9:664` and `ch1:83` are the two sites that point out; DL-20's rule is that a
    printed pointer cannot be patched.
+
+---
+
+## Checking the pages
+
+**Two pointers leave the book**, and neither is checkable from this repo:
+
+| Site | Points at | What the book claims about it | Verified? |
+|---|---|---|---|
+| `ch9:664` | the superpower page | it answers the superpower you built out of your own history, and its answer need not match your Face's | **no** |
+| `ch1:83` | the Myths Read | it marks which of the ten myths are yours **and takes each one apart** | **no** |
+
+`ch1:83`'s claim is the sharper one, because it was narrowed to make it true. It previously read
+*hands each one back with the page that takes it apart*, which on one reading promised the **book**
+took apart all ten, and A3 records that only 9 of 10 do. The fix moved the job to the site, which is
+correct only if the site actually does it for all ten, **including *helping the less powerful***, the
+one the book leaves alone. **That is the single most important thing to check on either page.**
+
+**Why this stays manual, and when it stops.** Both pages sit outside every instrument here, and this
+environment's network policy blocks masteringallyship.com, so no automated check is possible today.
+**Wendell, 2026-08-04: this gets easy once the manuscript is added to the bars-engine repo** — with
+book and pages under one roof, both claims become greppable and the drift check below becomes a
+script rather than a reading. Until then it is a reading, and this file is where it is recorded.

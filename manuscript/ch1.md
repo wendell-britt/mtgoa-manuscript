@@ -80,7 +80,7 @@ Allyship looks like the honorable place to bring those questions, and springs th
 - Allyship means never causing harm.
 - Allyship means having the right framework.
 
-(A short, unflattering diagnostic at masteringallyship.com marks which of these are yours and hands each one back with the page that takes it apart. It scores how you actually behave, and it has no score for which kind of ally you are, because that question belongs to the trap.)
+(A short, unflattering diagnostic at masteringallyship.com marks which of these are yours and takes each one apart. It scores how you actually behave, and it has no score for which kind of ally you are, because that question belongs to the trap.)
 
 Every one of them holds a little truth, and that truth keeps them alive. Goodness matters, language matters, repair matters. The damage starts when one of them becomes the whole definition. The day allyship means being good, every exchange turns into a test you are taking, and the person in front of you stops being a person and becomes the examiner. You stop watching them and start watching yourself for proof that you passed. The help never lands, because you were looking at the scoreboard in your own head the whole time. You spend everything, they receive almost nothing, and you go home wondering why caring this much leaves you this empty. That emptiness is the receipt for a game that was never built to be won. It was built to keep you playing.
 
