@@ -441,9 +441,9 @@ The fire was real. The line was real. Without the practice to draw it clean, the
 
 ---
 
-A version of this chapter gets braced against, and it should be named before we go further.
+Some readers have learned to distrust directness because they have watched it used to control people with less power. That version of Challenger energy needs to be named before we go further.
 
-Challenger energy gets used as control. Power asserted over people who have less of it, with the vocabulary of directness doing the asserting. That is not a caricature. It happens, you recognize it on sight, and anyone who has been on the receiving end of it has a good reason to distrust everything this chapter has just taught.
+Challenger energy turns directness into control when someone with more power uses it on someone with less. That is not a caricature. It happens, you recognize it on sight, and anyone who has been on the receiving end of it has a good reason to distrust everything this chapter has just taught.
 
 Here is the conclusion that tends to follow. I put it as a proposition rather than a diagnosis, because only you know whether it is yours: *the clean no is what oppressors do. Drawing lines is how power protects itself. My job is to listen, to make space, to find common ground, not to draw lines.*
 

@@ -53,6 +53,14 @@ the standalone Headmaster letter between ch2 and ch3 for this audit, matching `b
 candidates, and 0 candidates in revised Chapter 2. The three candidates are retained for a
 future chapter-level reader decision; no prose outside Chapter 2 changed.
 
+**First reader-run follow-up.** Kept the Chapter 3 phone-call image because it names an
+observable situation and behavioral consequence. Replaced Chapter 3's vague "not braced against
+anything" with a recognizable capacity to leave a situation unresolved without checking out or
+forcing a side. Replaced Chapter 4's passive, unspecified "gets braced against" with the reader's
+warranted distrust of directness used to control people with less power, then named the mechanism
+directly. Reader-run scan now holds one intentional candidate (the phone-call image); gate,
+duplicate, and spine-anchor checks pass. No other prose changed.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction

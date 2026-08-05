@@ -476,7 +476,7 @@ Here are the five, each with the move that reaches it and the thing it hands you
 
 **Joy completes into bliss.** Cashed in, joy evaporates; landed in, it completes into bliss, being in the thing instead of watching yourself do it. The move here is the hard one: stop, and actually be here for the good part. What it restores is participation: you can be in this, not just run it. You can tell you are there when you are not already narrating the moment to post about later.
 
-**Neutrality completes into peace.** Numbed, neutrality is checking out; opened to the whole, it completes into peace, the stillness that can hold two true things at once without picking. The move is to widen until you can see the whole field, then rest there. What it restores is rest: *I can rest.* You can tell you are there when you are not braced against anything and still fully awake.
+**Neutrality completes into peace.** Numbed, neutrality is checking out; opened to the whole, it completes into peace, the stillness that can hold two true things at once without picking. The move is to widen until you can see the whole field, then rest there. What it restores is rest: *I can rest.* You can tell you are there when the situation can stay unresolved for a moment without you checking out or forcing it toward a side.
 
 These are the five renewable tokens, and you reach every one of them the same way: not by feeling less, but by feeling the channel all the way to its end. That is the whole promise of the WAVE-Spiral: taking a feeling all the way through to the state that hands you back more than you spent.
 
