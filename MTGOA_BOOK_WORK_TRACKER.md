@@ -1,6 +1,6 @@
 # Book Work Tracker — MTGOA
 **Created:** 2026-04-14
-**Last Updated:** 2026-08-01
+**Last Updated:** 2026-08-05
 **Status:** All 8 chapters complete — Editorial Pass Phase
 
 ---
@@ -33,6 +33,25 @@ passes. The pass changed only `manuscript/ch2.md` and this tracker on this branc
 the Damaged Self bridge, and the practice through concrete decisions. Every daemon roster entry
 now has a direct job, ally use, and distortion example; the closing joystick handoff now matches
 the Protector teaching. The same verification set remains clean.
+
+---
+
+## Session — 2026-08-05 · Reader-run audit system
+
+**Applied to the system, not to manuscript prose.** `EDITORIAL_OPERATING_SYSTEM.md` now adds a
+seven-question reader-run supplement to the Line Editor: name before reference; consequential
+actor; observation before interpretation; earned embodiment; real both/ands; no rhetorical
+staging; and teaching order in the assembled reader spine. The actor rule is not duplicated:
+`agency_grep.py` and `VOICE_ANCHOR.md` already carry it.
+
+**New recall net.** `instruments/reader_run_scan.py` reports narrow candidates for generic
+somatic inference and rhetorical staging, always as candidates rather than defects. The other
+five questions remain human judgment rather than fabricated regex certainty. `--spine` places
+the standalone Headmaster letter between ch2 and ch3 for this audit, matching `build_book.py`.
+
+**Initial scan.** Full reader-spine run: 3 somatic-inference candidates, 0 rhetorical-staging
+candidates, and 0 candidates in revised Chapter 2. The three candidates are retained for a
+future chapter-level reader decision; no prose outside Chapter 2 changed.
 
 ---
 
