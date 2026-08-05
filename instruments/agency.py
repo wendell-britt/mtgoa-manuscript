@@ -83,7 +83,15 @@ one
 protector controller skeptic fixer healer victim daemon daemons
 self body auditor referee
 face faces
+man men woman women
 dana priya marcus nia sam rosa imani""".split())
+
+# man/men/woman/women added 2026-08-05. The list already carried `person`, `people`,
+# `somebody` and `villager` and had never been asked about the plainest word for a
+# person. ch7's parable turned it up: `the man in the village simply told the truth`
+# scored TIER 1 mental, because `head_of_subject` takes the last noun in the noun
+# phrase and `village` is not animate. A man telling the truth is not an abstraction
+# with a speech verb. Board effect: ch7 agentless 67% -> 66%, tier counts unchanged.
 
 # The seven daemons joined ANIMATE on 2026-08-03, ruled by Wendell. They were
 # absent while the six Faces were present, which is the same class of subject:

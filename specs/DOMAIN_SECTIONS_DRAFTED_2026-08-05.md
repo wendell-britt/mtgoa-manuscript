@@ -231,3 +231,40 @@ four read 0.00.**
 The section now runs: **callback · cheap habit · instruction · three universal moves ·
 four markers · The Tell · nothing.** Each chapter's Section 7 does the placement argument
 fifty lines later, where it belongs and where the book always put it.
+
+---
+
+## RULED — ch7 is Direct Action, ch8 is Raise Awareness
+
+**Wendell, 2026-08-05:** *"let's do the ch7 direct action and ch8 raise awareness."*
+Option 2 of §2. Both callbacks rewritten off the parable, both quotes verified verbatim.
+
+**ch7**, `:69`, and this reading is the stronger one: *He simply told the truth about the
+agreement: what it would hold, what it would cost each of them, what would have to change
+for his staying to remain real.* That is ch7's own Direct Action gloss — **the terms said
+to the person they bind** — almost word for word, and the section's Direct Action marker
+opens *you said what this field must hold for your staying to remain real.*
+
+**ch8**, `:77`: *The Sage could look at the conflict and say: this is a boundary issue
+dressed up in strategy language.* The agenda under the agenda, named to the meeting
+running it, which is ch8's Raise Awareness gloss.
+
+**The distribution across the six openers is now** Direct Action ×2 (ch3, ch7) ·
+Skillful Organizing ×3 (ch4, ch5, ch6) · Raise Awareness ×1 (ch8). **ch4, ch5 and ch6 are
+still three in a row**, and of those ch5's and ch6's are unarguable while ch4's has a live
+alternative: `ch4:70`'s *they could say the thing that needed saying before anyone else
+could bear to hear it* also reads as Raise Awareness, named where naming it costs you.
+**Left as drafted; flagged as the only one still movable.**
+
+### One instrument fix fell out of it
+
+`agency.py` scored *the man in the village simply told the truth* as **TIER 1 mental**, an
+abstraction with a speech verb. `ANIMATE` already carried `person`, `people`, `somebody`
+and `villager`, and had never been asked about **`man`**. Added, with `men woman women`.
+**Board effect: ch7 agentless 67% → 66%, tier counts unchanged.**
+
+**It did not clear the draft sentence, and that is the more useful finding.**
+`head_of_subject` takes the last noun in the noun phrase, so *the man in the village*
+resolves to **village** whatever `ANIMATE` says. The addition is correct on its own merits
+and the sentence needed rewriting anyway: **one villager** now heads the phrase. A
+vocabulary fix cannot repair a parse.

@@ -1,20 +1,21 @@
 # The five domain sections
 
-**2026-08-05.** Drafted to `ch3:810`'s template, condensed on Wendell's note that a
-section repeated six times does not restate its rationale each time, then **part 6 cut
-on his ruling — ch3 keeps its own.** 6,622 → 5,714 words, **908 out, 14%.** Every counter
-improved. Nothing below is in the manuscript.
+**2026-08-05.** Drafted to `ch3:810`'s template, condensed, part 6 cut on Wendell's
+ruling (ch3 keeps its own), and ch7's and ch8's callbacks re-read off their parables.
+**6,622 → 5,733 words.** Nothing below is in the manuscript.
 
-| | Face | noun | goes after | words |
-|---|---|---|---|---|
-| **ch4** | Challenger | the Line | `ch4:708` | 1,000 |
-| **ch5** | Regent | the Inheritance | `ch5:613` | 1,208 |
-| **ch6** | Architect | the Design | `ch6:530` | 1,168 |
-| **ch7** | Diplomat | the Close | `ch7:692` | 1,194 |
-| **ch8** | Sage | the View | `ch8:683` | 1,144 |
+| | Face | noun | parable's domain | goes after | words |
+|---|---|---|---|---|---|
+| **ch4** | Challenger | the Line | Skillful Organizing | `ch4:708` | 1,000 |
+| **ch5** | Regent | the Inheritance | Skillful Organizing | `ch5:613` | 1,208 |
+| **ch6** | Architect | the Design | Skillful Organizing | `ch6:530` | 1,168 |
+| **ch7** | Diplomat | the Close | Direct Action | `ch7:692` | 1,207 |
+| **ch8** | Sage | the View | Raise Awareness | `ch8:683` | 1,157 |
+
+ch3's canon reads its own parable as **Direct Action**.
 
 All five: `gate` PASS · `fragment` clean · `preempt` clean · no counter over 1.30.
-Seven parts now: callback · cheap habit · instruction · three moves · four markers · The Tell.
+Seven parts: callback · cheap habit · instruction · three moves · four markers · The Tell.
 
 ---
 
@@ -185,7 +186,7 @@ The moves are what you do. The next question is where.
 
 ### Where You'll Actually Spend the Close
 
-The parable showed one of the four: Skillful Organizing. The man in the village had, once in a hard moment, *surfaced what each side protected and named what staying would actually require* — sides, plural, in front of everybody with a stake in whether he stayed. That is the domain where a close stops being an account of what you have carried and becomes something a group has to answer.
+The parable showed one of the four: Direct Action. Once, in a hard moment, one villager *simply told the truth about the agreement: what it would hold, what it would cost each of them, what would have to change for his staying to remain real* — said to the people it bound, while they could still do something about it. That is the domain where a close stops being an account of what you have carried and becomes something somebody has to answer.
 
 The close has four domains, and one cheap habit that is none of them. The cheap habit is the ledger kept and never closed. You hold an exact account of what your staying costs and never read it to anybody who could do something about it. Keeping the count is real skill, and the part of you that does it stays. It also asks nothing of you, because nobody ever has to watch you get the column wrong. Nobody declines a price they were never quoted. That is why it survives for years, gaining accuracy the whole time. The four domains are where the account finally gets read out: the terms said to the person they bind, the cost of the arrangement named where it gets set, what your staying requires asked for while somebody can still grant it, and the agreement a group has been running without. Each costs more than the ledger, because each hands the field what a private column withholds: the chance to say no.
 
@@ -238,7 +239,7 @@ The moves are what you do. The next question is where.
 
 ### Where You'll Actually Spend the View
 
-The parable showed one of the four: Skillful Organizing. *The Sage could name which game the meeting was really playing*, the village would pause, and *sometimes that pause did the work.* That is the domain where the view stops being yours and turns into work a group can do, and it is the Sage's steepest, because naming a group's game to the group is where this gift gets heard as its opposite.
+The parable showed one of the four: Raise Awareness. *The Sage could look at the conflict and say: this is a boundary issue dressed up in strategy language* — the agenda under the agenda, named in front of the meeting running it. That is the domain where the view stops being yours and becomes something a table has to account for, and it is the Sage's steepest, because naming a group's real subject to the group is where this gift gets heard as its opposite.
 
 The view has four domains, and one cheap habit that is none of them. The cheap habit is the second map. You look at a live problem, the first framework explains most of it, and rather than do anything with what it explains, you go and find a framework that explains more. The maps are good, one at a time. Reaching for another one costs you nothing, because nobody at the table has to answer a map, and from the inside it looks exactly like taking the problem more seriously, which is why it lasts for years. Nothing at the table moves. The four domains are where the view finally leaves you: the game named to the person inside it, the real agenda said out loud at the table running it, the specific help asked for where the framework was easier, the game a group is stuck in named so the group can move. Each costs more than a map, because each one puts the view where a person other than you can tell whether it helped.
 
