@@ -1,8 +1,8 @@
 # SOURCE — the six superpowers, book side and page side
 
 **Created:** 2026-08-04
-**Why this file exists:** `ch9:664` now routes the reader to masteringallyship.com for the longer
-version of her superpower. The page sits outside the repo, so no instrument here can read it:
+**Why this file exists:** `ch9:664` now routes the reader to masteringallyship.com for the superpower
+she built out of her own history. The page sits outside the repo, so no instrument here can read it:
 `gate.py` cannot scan it, `citation_audit.py` cannot check it, `compile.py --verify` cannot
 round-trip it. **Drift between what the page says and what the book says would be invisible.**
 This file is the drift check, and it is the third condition of
