@@ -857,6 +857,8 @@ The Challenger has a move that looks like this from the outside and is a differe
 
 In practice: the sentence is shorter than you want it to be. A read usually runs one clause long. What extends it: the case you build so that nobody can argue with you, and the case is where the read goes to die, because a case invites a rebuttal and a read invites a response. Say the clause. Stop talking.
 
+You reach for the category instead of the person, and that kills a read faster than any case: *the culture here is toxic* rather than *Dave, you interrupted her three times.* The category feels braver and costs less, because nobody has to be Dave. Name a system and nobody has to answer you.
+
 **Example:** Two colleagues have restated the same scoping position four times. Nadia has said nothing for forty minutes. She did not come up through the graduate scheme and everyone else did, and the shorthand on the call belongs to the scheme. Say the thing under the thing: *I think we are three layers into a vocabulary and one of us has been outside it since the start.* One sentence, and nothing about who is right. It costs you with the two who were arguing, because you have told them their shorthand is a wall. The question resolves in four minutes, and Nadia joins it.
 
 **The test:** You said the read you actually had, and you said it while it was still live. What the conversation did afterward belongs to the conversation. A true thing said an hour late is a different move.

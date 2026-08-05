@@ -4,8 +4,8 @@
 # Lives in instruments/ rather than the spec's tools/ because this repo has no
 # tools/ directory; instruments/ is where every measurement lives.
 #
-# STATUS 2026-08-03: W-1, W-2 and W-3 are RULED and CLOSED. E-1 is STANDING and
-# now covers Grades 3 and 7. W-4 is the last open question.
+# STATUS 2026-08-03: W-1, W-2, W-3 and W-4 are ALL RULED AND CLOSED. E-1 is
+# STANDING and covers Grades 3 and 7. No open questions remain in this registry.
 # Wendell's method was to scan first and rule on evidence, and it paid: both
 # rulings came out narrower than the spec proposed, and W-2's proposal turned
 # out to be aimed at the wrong pronoun. See `open_rulings` below.
@@ -1272,13 +1272,49 @@ open_rulings:
       cutoff half simply stopped applying.
     handling: "CLOSED. Conversions in this commit; the E-1 extension carries the rest."
   W-4:
+    status_final: RULED 2026-08-03 — no new name. Extend the move already sworn to.
     question: "Placement of the confrontation beat (the C1 corollary dependency)."
     proposal: >
-      A Game So Far beat — systemic language as the Diplomat shadow's hiding
-      place ("the culture here is toxic" said instead of "Dave, you interrupted
-      her three times"; the abstraction absorbs the confrontation the Diplomat
-      is avoiding).
-    status: UNRULED
-    handling: >
-      Ship-phase only. This pass reports WHERE the Grade-6 violations cluster,
-      which is evidence toward placement.
+      A Game So Far beat — systemic language as the Diplomat shadow's hiding place
+      ("the culture here is toxic" said instead of "Dave, you interrupted her three
+      times"; the abstraction absorbs the confrontation the Diplomat is avoiding).
+    status: RULED
+    ruling: >
+      THE PROPOSAL'S VEHICLE DOES NOT EXIST. `The Game So Far` has zero hits across
+      all nine chapters. SPEC_REPETITION_AND_CUTS.md:140 established this and noted
+      the project glossary describes it as recurring seven times.
+
+      THE DEMONSTRATION ALREADY EXISTS, unnamed, at ch6:122 -- "They could then
+      dismiss structural insight with the vocabulary itself: we already looked at
+      the incentives, we're addressing the leverage points." ch3's council parable
+      and ch7's letting-agent example are the same genus. Three demonstrations,
+      zero labels.
+
+      Wendell took the Regent's option from the 6 Game Master read: the book has
+      already sworn to a move that does this job. `Say the Thing Under the Thing`
+      is a named game move at ch3:850, in the roster the reader carries into every
+      chapter after. Minting a second name for it is how a roster becomes a
+      glossary.
+
+      So: no new move, no new name, no new slot. ONE PARAGRAPH added to Move 5's
+      `In practice`, which already teaches the first way a read dies -- the case.
+      This is the second way:
+
+        You reach for the category instead of the person, and that kills a read
+        faster than any case: *the culture here is toxic* rather than *Dave, you
+        interrupted her three times.* The category feels braver and costs less,
+        because nobody has to be Dave. Name a system and nobody has to answer you.
+
+      The example pair is W-4's own, verbatim from the proposal above, so nothing
+      was invented to fill it. `Dave` follows the book's placeholder convention
+      (Ade, Dara, Femi, Kit, Meera) and the specificity sits in what happens
+      rather than in invented particulars, which is the legal form per ch1:22.
+
+      WHAT THIS RULING DECLINES. The note assigned the beat to the Diplomat's
+      shadow. The evidence says the Architect supplies the vocabulary and the
+      Diplomat reaches for it, which made the Ch6->Ch7 seam the obvious home and
+      would have needed a new name to occupy it. Placing it on an existing Shaman
+      move costs that reading -- the beat no longer sits where the handoff
+      happens. It buys the reader no new vocabulary at a point where she is
+      already carrying ten named moves.
+    handling: "CLOSED. One paragraph in ch3 Move 5. Reviewed under the mtgoa-review pass."
