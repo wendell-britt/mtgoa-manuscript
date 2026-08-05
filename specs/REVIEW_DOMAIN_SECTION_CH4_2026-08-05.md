@@ -170,4 +170,55 @@ A short section makes a small count into a large ratio. Two instances is the fin
   person crossing it*, and is the chapter's own governing phrase (`ch4:115`, the clean
   no). The capacity claim was already carried by the marker.
 
-`gate` PASS · `fragment` clean · `preempt` clean.
+`fragment` clean · `preempt` clean.
+
+---
+
+## CORRECTION, same day — the gate result above was not a reading of this draft
+
+**This section originally reported `gate` PASS. That was false, and the reason is the
+seventh instrument gap of this class.**
+
+`instruments/gate.py` **globbed `manuscript/ch*.md` and discarded any path handed to it.**
+`python3 instruments/gate.py somedraft.md` printed a verdict on the shipped book. The
+PASS was real; it was a PASS on nine chapters that already pass, printed under a draft's
+filename.
+
+**It was caught by the ch8 agent**, which noticed the argument was being ignored, imported
+`gate.score` directly, and found eleven live failures in its own draft that the command
+had called clean. The other three agents — and this review — reported the false PASS.
+
+**Measured properly, three of the four drafts failed, fifteen hits:**
+
+| | andbut | banned | emdash | A0 | stacks | tokens |
+|---|---|---|---|---|---|---|
+| ch4 | 0 | 0 | 0 | 0 | **1** | 0 |
+| ch6 | 0 | **8** | 0 | 0 | 0 | 0 |
+| ch7 | 0 | **6** | 0 | 0 | 0 | 0 |
+| ch8 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+- **`room` and `quietly` are banned, and neither word appears once in the manuscript.**
+  ch6 had six and two, ch7 had six. The book says *the table*, *the meeting*, *where it
+  gets decided*. All fourteen replaced.
+- **ch4's `stacks` hit was mine**, in the move I had written that morning to replace F1:
+  *not a line, a note. Not now, later. Not you, somebody closer to it.* Three stacked
+  fragments, which is also a beat-placement violation — fragments carrying claims,
+  mid-paragraph. Recast as one sentence: *from a line to a note, from now to later, from
+  you to somebody standing closer to it.*
+
+**All five drafts now read 0 across all six counters.**
+
+### The fix
+
+`gate.py` takes file paths as of 2026-08-05 and scores them as their own surfaces,
+marginalia split out, with the board reachable by passing nothing. The docstring on
+`draft_surfaces` carries the reason.
+
+**The lesson is the one `draftprobe.py` was built on and it did not transfer:** six
+instruments were board-only, so `draftprobe.py` was written to wrap them — **and `gate.py`
+was left out of it, because `gate.py` accepts an argument and therefore looked like it
+took one.** An instrument that refuses a path is safe. An instrument that accepts a path
+and ignores it is worse than no instrument, because the answer looks fine.
+
+**Every "gate PASS on a draft" reported in this session before this entry should be read
+as unverified.** The board itself was never in question and still passes.
