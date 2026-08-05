@@ -80,27 +80,56 @@ which is the standard failure of everybody who acquires systems vocabulary.
 
 **Status: resolvable.** Internal first, external second, and the sequence is the answer.
 
-### E2 · The obligation gap — *Architect*. **The largest finding of the day.**
+### E2 · The obligation gap — *Architect*. **CHALLENGED BY WENDELL, AND HE IS RIGHT.**
 
-> Naming external designers creates an obligation the book does not meet. Nine chapters
-> deliver personal practice. **The four domains are the only structural answer in the
-> book, and they are one appendix.**
+The Architect's claim was:
 
-This is not an opener problem. **It is a question about the book's architecture:** eight
-of nine chapters are inner work, `APPENDIX_A` is the only place the reader is handed a
-way to act on a system, and today's third-axis addition made that appendix better
-without making it larger.
+> Naming external designers creates an obligation the book does not meet. **The four
+> domains are the only structural answer in the book, and they are one appendix.**
 
-**Three responses, and they are not equal:**
+**Wendell:** *"Does this hold? The domains should be in every chapter as a move that
+people can practice that should show up in the exterior world."*
 
-1. **Cut the promise.** The book is about the inner work and says so. Honest, cheap, and
-   it gives up the sentence Wendell called a book-level idea.
-2. **Name the limit.** Say once that this book gets you to the door of the systems work
-   and does not walk through it. **Cheapest honest option.**
-3. **Promote the domains.** `APPENDIX_A` becomes a chapter. **Real work, and it changes
-   what the book is.**
+**Measured, and the claim is false.** `ch3:810`–`:907` is a complete four-domain section,
+**2,180 words**, titled *Where You'll Actually Spend the Read*, and it does exactly what
+Wendell describes:
 
-**Status: open, and it should not be decided inside an opener draft.**
+| | |
+|---|---|
+| **the frame** | *The read has four domains, and one cheap habit that is none of them* — the cheap habit being the read you keep and never say |
+| **three universal moves** | don't manage their reaction away · say it as yourself, not from above · don't say it and leave |
+| **four domain entries** | each with a *You're winning when* marker written in that Face's terms |
+| **The Tell** | one question per domain, aimed at that Face's signature failure: *Did you say the true thing to change the moment, or to be the one brave enough to have said it?* |
+
+**And it sits in a repeatable slot.** `ch3:806`: *"The moves are what you do. The next
+question is where."* It comes after Section 6's five moves and before the deck — a
+position every chapter has.
+
+### So the real gap is smaller and much more actionable
+
+**The template ships once.** ch4 through ch9 go straight from Section 5 to Section 6's
+five moves and never ask *where*. The domains do appear in all nine chapters, but only as
+**card metadata** — *Take **The Story About the Truth**: Clean Up, Raise Awareness,
+Challenger* — which is a label on a deck entry, not a practice.
+
+**This changes the pricing of E2 completely.** The three responses were:
+
+1. ~~Cut the promise.~~
+2. ~~Name the limit.~~
+3. ~~Promote the domains. **Real work, and it changes what the book is.**~~
+
+**Option 3 is not a new chapter. It is eight copies of a section that already exists**,
+in a slot that already exists, written to a template the book has already proved. That
+is real work — roughly 2,000 words a chapter if they match ch3, and less if they are
+tighter — but it is **replication rather than invention**, and it is the difference
+between changing what the book is and finishing what the book started.
+
+**And it settles the designers question.** Once every chapter says where the read, the
+line, the inheritance, the design, the close and the game **leave the room**, naming
+external designers commits the book to something it delivers nine times.
+
+**Status: open, and the decision is now `ch3`'s section replicated in eight chapters or
+not. Not whether the book can carry the promise — it demonstrably can, once.**
 
 ### E3 · Date it and it becomes a record — *Architect*
 
