@@ -268,3 +268,74 @@ and `villager`, and had never been asked about **`man`**. Added, with `men woman
 resolves to **village** whatever `ANIMATE` says. The addition is correct on its own merits
 and the sentence needed rewriting anyway: **one villager** now heads the phrase. A
 vocabulary fix cannot repair a parse.
+
+---
+
+## APPLIED — and step 7, the slop read
+
+Inserted at the five verified points. `review.py` clean on all seven steps, `shipcheck`
+**SHIPPABLE**. `/no-ai-slop` run in detect mode against `eval.md`.
+
+### The em-dash budget caught a real drift, and it was not the dashes
+
+Every chapter's cap is **zero** and the five sections put **18** in. Three were prose
+dashes and were rewritten. **The other fifteen were the domain labels.** `emdash.py`
+exempts bold structural headings **up to 60 characters** — and that bound turned out to
+be a ruler nobody had held these against:
+
+| | shortest | longest |
+|---|---|---|
+| **ch3, canon** | 38 | **53** |
+| the five as drafted | 47 | **90** |
+
+**Fourteen of twenty glosses had grown from labels into sentences.** Shortened into ch3's
+band. All nine chapters back at cap, and the labels read better for it — the marker
+underneath already carries the detail the gloss was duplicating.
+
+### The sections lowered the chapters they landed in
+
+| | passive before | after |
+|---|---|---|
+| ch5 | **1.33** | 1.31 |
+| ch7 | **1.47** | 1.35 |
+
+Both were over the ceiling before this work and neither was pushed there by it.
+
+### Slop, detect mode — nothing to fix
+
+**Zero** banned words · empty phrases · binary contrasts · throat-clearing · faux-insight
+setups · superficial `-ing` clauses · importance puffery · **weasel attribution** ·
+rhetorical setups · negative listing · dramatic fragmentation · prose em dashes.
+
+**Colon reveals, 10 — inherited and legal.** Two forms, both verbatim from ch3: *The
+parable showed one of the four: [Domain]* and *Each Tell targets the [Face]'s signature
+failure: [x]*. The skill permits colons for **labels**, which is what both are.
+
+**Summary-recap endings, 5 — flagged, ruled keep.** Every section closes on *Each Tell
+targets the [Face]'s signature failure*, after four concrete bullets. Against patterns
+check 5 that is a recap. **It is not one here**, because F4 deliberately withheld the fork
+from the Tell's opener so this line is its **first** statement, not its second.
+
+**Stacked short sentences, 2.** ch4's *Adding a softener is taking it back. So is a joke.
+So is* does that make sense? and ch5's *A named job is a role. Roles pass from person to
+person. People do not.* Final-read check 2 flags stacks. Both are landing-position beats,
+legal under `REVISION_INSTRUMENT` constraint 5, and both are the best line in their
+paragraph.
+
+**Adverbs, 11 in 5,740 words**, and four are protected: *Actually* is in ch3's own section
+title, *simply* is inside the verbatim `ch7:69` quote, *really* inside `ch8:77`'s.
+
+**Synonym cycling, none — and ch6 proves it.** It says *design* 18 times, *system* 11, and
+**`structure` zero.** A draft reaching for variants would have used it.
+
+**One watch item.** ch7 runs *ledger* 3, *column* 5, *account* 4. They are three distinct
+things in ch7's own vocabulary — the habit, the entry, the total — but they are the
+closest thing in the set to rotation, and a later pass should confirm each is used for its
+own referent.
+
+### `eval.md` check 1 — no added claims, examples or stats
+
+The only place this could have failed is **ch7's first-person beat**, and it is sourced
+entirely to `ch5:314`–`:322`: *I held back some of what I knew. I wore the crown under my
+hood. I stayed.* Every factual element is canon. The only new material is the re-reading
+from the Diplomat's side, which is interpretation of a published scene.
