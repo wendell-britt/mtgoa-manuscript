@@ -138,3 +138,68 @@ five copies of one form.
    own cheapest cuts and each said the overage is in the four three-part markers, which
    the spec forbids shortening to two parts. **Either the target moves to ~1,350 or the
    marker form gives**, and the marker form is the part §4 of the spec calls unskippable.
+
+---
+
+# CONDENSING PASS — same day
+
+**Wendell:** *"let's do the review process on the drafted text looking for opportunities
+to condense. There's a lot of handwringing for a process that's going to be repeated."*
+
+**Step 0 of the review is ELI5 first, and it is the whole finding.** The section says:
+*here are the four places you can actually use this; one of them is easy and doesn't
+count; pick a hard one, do it this week, and afterwards write down whether you did it to
+help or to look good.* **Forty words against 1,370.** The gap is not all handwringing —
+the four markers and the three moves are the payload — but the diff is where to look.
+
+**486 words out. 6,622 → 6,136. Every counter improved and none got worse.**
+
+| | be | copula | waste | zombie | expletive | passive | empty |
+|---|---|---|---|---|---|---|---|
+| ch4 | 0.75 | 1.19 | 1.08 | 1.01 | **1.60 → 0.85** | 0.61 | 0.68 |
+| ch5 | 0.75 | 1.19 | 1.25 | 0.93 | 0.76 → **0.00** | 1.00 | 0.66 |
+| ch6 | 0.57 | 0.91 | 1.10 | 1.16 | 0.73 → **0.00** | 0.51 | 0.34 |
+| ch7 | 0.61 | 1.12 | 1.09 | 1.05 | 0.72 → **0.00** | 0.00 | 0.56 |
+| ch8 | 0.98 | 1.19 | 0.95 | 0.37 | 0.77 → **0.00** | 0.26 | 0.34 |
+
+**The set's only heavy counter was inside the handwringing.** ch4's expletive 1.60 was
+two sentence-initial *It is* constructions and one of them was the sentence this pass
+cut. `draftprobe` hits fell from 71 to 62 across the five. **Nothing had to be traded.**
+
+## The four classes
+
+**A · part 6 duplicates a section fifty lines below it — the one I should have caught
+before drafting.** Every chapter's Section 7 is *"What the [Face] Teaches — and Why the
+[Next] Comes Next"*, opening *"The [Face]'s contribution to the allyship game is this:"*.
+Part 6 makes that argument again, one Face at a time. **The spec offered *"each chapter
+needs its own or none"* and I took *its own* five times without checking.** Each part 6
+lost its Face-by-Face enumeration and kept its closing turn: **601 → 422.**
+
+**B · the Tell's third sentence.** *"It is also the easiest thing in the world to lie to
+yourself about, in [X]."* Six times counting ch3. It argues for an exercise the reader
+accepted in ch3 and the instruction stands without it. Cut from all five, with *"answer
+the one thing the marker did not ask"* — which restates the paragraph's own first
+sentence — cut to *"answer it."*
+
+**C · part 3's signpost.** *"So here are all four, and before them the three things that
+decide whether [X]."* Pure navigation, and the two headings underneath it do the
+navigating. Now: *"These are not four things to study. Pick where you'll spend the [X]
+this week…"* ch3 keeps its version; it is the one arriving first.
+
+**D · the fourth beat in the universal moves.** The shape was instruction → mechanism →
+price → mechanism restated. The fourth beat went wherever it appeared.
+
+## Not cut, and why
+
+**The four markers, 1,788 words, the largest block in the set.** They are the payload,
+and §4 of `SPEC_DOMAIN_SECTIONS` calls the three-part form (what you did · what it cost ·
+what the proof is) the part that cannot be shortened to two. Trimming them would buy ~300
+words by taking out the thing the section exists to deliver.
+
+## Still on the table, and it is Wendell's
+
+**Part 6 could go entirely: another 422 words, and the set lands at 5,714 — under the
+1,150-a-section target.** The argument for cutting it is the same Section 7 duplication
+that motivated compressing it, and the argument against is that **ch3's canon has one**,
+so deleting it from five leaves ch3 the odd section out. Cutting ch3's too is a
+manuscript edit and a separate ruling.

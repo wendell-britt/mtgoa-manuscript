@@ -1,18 +1,18 @@
-# The five domain sections, for review
+# The five domain sections, condensed
 
-**2026-08-05.** Drafted to the template at `ch3:810`–`:896`, four in parallel.
-Nothing below is in the manuscript. Each section is preceded by the seam line,
-which exists only in ch3 and has to be written into the other five chapters.
+**2026-08-05.** Drafted to `ch3:810`'s template, then put through a condensing pass on
+Wendell's note: *there's a lot of handwringing for a process that's going to be repeated.*
+**486 words out. Every counter improved.** Nothing below is in the manuscript.
 
 | | Face | noun | goes after | words |
 |---|---|---|---|---|
-| **ch4** | Challenger | the Line | `ch4:708` | 1128 |
-| **ch5** | Regent | the Inheritance | `ch5:613` | 1386 |
-| **ch6** | Architect | the Design | `ch6:530` | 1374 |
-| **ch7** | Diplomat | the Close | `ch7:692` | 1360 |
-| **ch8** | Sage | the View | `ch8:683` | 1351 |
+| **ch4** | Challenger | the Line | `ch4:708` | 1055 |
+| **ch5** | Regent | the Inheritance | `ch5:613` | 1296 |
+| **ch6** | Architect | the Design | `ch6:530` | 1261 |
+| **ch7** | Diplomat | the Close | `ch7:692` | 1266 |
+| **ch8** | Sage | the View | `ch8:683` | 1258 |
 
-All five: `gate` PASS · `fragment` clean · `preempt` clean.
+All five: `gate` PASS · `fragment` clean · `preempt` clean · no counter over 1.30.
 
 ---
 
@@ -28,7 +28,7 @@ The parable showed one of the four: Skillful Organizing, the Challenger speaking
 
 The line has four domains, and one cheap habit that is none of them. The cheap habit is the assessment. You see exactly what is wrong, you name it accurately, more accurately than anyone else at the table, and nothing in the world moves. An assessment costs nothing, because being right is not a position anybody has to argue with. It also feels almost identical to courage from the inside. That is why it lasts for years. The four domains are where the line finally lands: the limit said to the person crossing it, the truth named where naming it costs you, the no said in your own name, and the boundary a group has been negotiating around for months. Each costs more than an assessment, because each one puts something on the table that somebody now has to answer.
 
-So here are all four, and before them the three things that decide whether a line holds or collapses. Not to study: pick where you'll spend the line this week, and pick the domain you keep avoiding. If the line only ever arrives as analysis, delivered well, to people who already agree with you, you did not make the Challenger's move. You described it.
+These are not four things to study. Pick where you'll spend the line this week, and pick the domain you keep avoiding. If the line only ever arrives as analysis, delivered well, to people who already agree with you, you did not make the Challenger's move. You described it.
 
 ### How to Draw It So It Holds
 
@@ -58,11 +58,11 @@ When you draw a line, the seconds on either side of it decide whether it stands,
 
 ### Why the Challenger draws before the rest can build
 
-The Regent cannot keep what nobody defended, and the Architect cannot design inside a boundary nobody set. The Diplomat's close needs terms, and terms are lines with names on them. The Challenger comes second for a reason: the Shaman's read tells you what is true, and until somebody draws a line around it, the truth stays a private accuracy. Every structural move the other five make begins with an edge that somebody was willing to be disliked for.
+The Regent cannot keep what nobody defended, the Architect cannot design inside a boundary nobody set, and the Diplomat's terms are lines with names on them. Every structural move the other five make begins with an edge that somebody was willing to be disliked for.
 
 ### The Tell
 
-None of the four markers asked why you drew it. That question is real, and it belongs to the Challenger, because a Challenger who draws a line so that a line will have been drawn has run the assessment at a higher volume. It is also the easiest thing in the world to lie to yourself about, in the four seconds after you have been brave. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer the one thing the marker did not ask:
+None of the four markers asked why you drew it. That question is real, and it belongs to the Challenger, because a Challenger who draws a line so that a line will have been drawn has run the assessment at a higher volume. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer it:
 
 - **Direct Action.** Did you say the limit to change what happens next, or to be the one who would not let it pass?
 - **Raise Awareness.** Did you name it to move the group, or to be on record having named it?
@@ -85,13 +85,13 @@ The parable showed one of the four: Skillful Organizing, the Regent building the
 
 The inheritance has four domains, and one cheap habit that is none of them. The cheap habit is the reform that postpones the commitment. You see what is wrong with what you were handed, name it accurately, and name it as a condition: this has to change before I can carry it. Most of those conditions are correct, and each is defensible on the day you say it. It costs nothing, because real reform spends loyalty you earned by carrying something, and you have not carried anything yet. One cycle of it never reads as a refusal, which is how it runs for a decade without once showing up as a decision anybody made. A second habit runs beside the first and looks like its opposite: rather than commit, you supply. The continuity the structure cannot generate becomes yours, held in your head, and from outside that reads as devotion. Neither one accepts anything. The four domains are where the accepting shows: the inheritance claimed to the people who hold it with you, the reason said out loud while somebody still knows it, the hours asked for so one body stops being the structure, and the practice handed to a group in a shape it can run without you. Each costs more than a repair, because each puts your name against something you have agreed is yours.
 
-So here are all four, and before them the three things that decide whether what you carry outlasts you or leaves when you do. Not to study: pick where you'll spend the inheritance this week, and pick the domain you keep avoiding. If what you were handed only ever gets improved, one more cycle at a time, you did not make the Regent's move. You maintained it.
+These are not four things to study. Pick where you'll spend the inheritance this week, and pick the domain you keep avoiding. If what you were handed only ever gets improved, one more cycle at a time, you did not make the Regent's move. You maintained it.
 
 ### How to Carry It So It Outlives You
 
 You carry an inheritance for years, and the same three moves decide, in every domain, whether anybody can take it off you at the end.
 
-**Take it on in the condition it reached you in.** Nothing you inherit arrives in working order, so a rule that you will commit once the repairs are through is a rule with no day on it. The Fixer-Healer will always find you one more cycle, and the damage it reports is usually real. Watch what accepting buys: a repair named by somebody who has not committed is a request, and requests wait on whoever is in charge; the same repair named by somebody carrying it is a decision with a name against it. You take it on first, in all four domains, and never the other way round.
+**Take it on in the condition it reached you in.** Nothing you inherit arrives in working order, so a rule that you will commit once the repairs are through is a rule with no day on it. The Fixer-Healer will always find you one more cycle, and the damage it reports is usually real. Watch what accepting buys: a repair named by somebody who has not committed is a request, and requests wait on whoever is in charge; the same repair named by somebody carrying it is a decision with a name against it. You take it on first, and never the other way round.
 
 **Put a name on what you are actually holding.** Most of a keeper's work leaves no trace, and the Healer half of your Fixer will take all of it into your own head, where it works and nobody else can hold it. Name it out loud instead, to whoever decides: this runs because somebody does these four jobs, and the somebody is me. A named job is a role. Roles pass from person to person. People do not.
 
@@ -115,11 +115,11 @@ You carry an inheritance for years, and the same three moves decide, in every do
 
 ### Why the other five need somebody who stays
 
-The Shaman says the read once, and a read nobody wrote down leaves with the people who heard it. The Challenger draws the line and moves on; it lasts as long as somebody keeps it after the person who drew it has gone. Whoever inherits the Architect's structure without its reasons has to guess what it was for, and those guesses are what people mean when they say a practice has drifted. The Diplomat closes an agreement, and an agreement is a promise somebody has to still be keeping in year four. Every other Face answers for the move it made. This one answers for what is still standing when nobody remembers who made it.
+A read nobody wrote down leaves with the people who heard it. A line lasts as long as somebody keeps it after the person who drew it has gone, and whoever inherits a structure without its reasons has to guess what it was for, which is what people mean when they say a practice has drifted. Every other Face answers for the move it made. This one answers for what is still standing when nobody remembers who made it.
 
 ### The Tell
 
-None of the four markers asked why you kept it. That question is real, and it belongs to the Regent, because a Regent who takes an inheritance on so that everybody can watch somebody finally take one on has run the same repair cycle with a ceremony attached. It is also the easiest thing in the world to lie to yourself about, in a practice that pays out over years and gets graded by nobody. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer the one thing the marker did not ask:
+None of the four markers asked why you kept it. That question is real, and it belongs to the Regent, because a Regent who takes an inheritance on so that everybody can watch somebody finally take one on has run the same repair cycle with a ceremony attached. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer it:
 
 - **Direct Action.** Did you claim it so the work had somebody in it, or so nobody could call you the one still deciding?
 - **Raise Awareness.** Name who the reason was for. The next person who has to run this, or the people watching somebody who was there at the founding?
@@ -142,7 +142,7 @@ The parable showed one of the four: Skillful Organizing. The Architect designed 
 
 The design has four domains, and one cheap habit that is none of them. The cheap habit is the structural account: you say why the system keeps breaking, precisely, to people who mostly agree, and you stop one move short of what gets built instead. Reading a system that way is real skill, and it asks nothing of you, because nobody has ever needed courage to say *the system did it.* The account is also correct. The habit survives for years because no single instance of it looks like an evasion from inside, where each one looks like getting it right for the eleventh time. The four domains are where the design finally leaves the page: the condition changed where one person is standing in it, the load-bearing assumption said out loud at the table built on it, the cost moved off a person and into the budget, the machinery a group runs on handed to somebody who can change it. Each costs more than an account, because each puts something into the world with your name on it and somebody else's week inside it.
 
-So here are all four, and before them the three things that decide whether a design runs or sits in a diagram. Not to study: pick where you'll spend the design this week, and pick the domain you keep avoiding. If the design only ever gets explained, accurately, to people who were never going to have to build it, you did not make the Architect's move. You drafted it.
+These are not four things to study. Pick where you'll spend the design this week, and pick the domain you keep avoiding. If the design only ever gets explained, accurately, to people who were never going to have to build it, you did not make the Architect's move. You drafted it.
 
 ### How to Build It So It Runs
 
@@ -150,9 +150,9 @@ Three points decide whether what you build survives contact with the people insi
 
 **Ask somebody inside it before you draw.** The Emotional Body hands you a proposal before it hands you a channel, and both before you have asked anybody a question, so what you hold is a careful model of the account the system gives of itself. The people inside already know which rule everybody stopped following years ago and which form gets filled in twice. They will tell you in an afternoon. An afternoon costs less than the second design, the one built to correct the first.
 
-**Do not soften the accusation out of it.** Every structural design carries one claim: the current system is failing, and somebody built the current system. The design was not written as an accusation and it is also not not one. Deny that and the denial holds one way only: you keep the design vague enough that nobody has to answer it. Vague enough turns a design into a recommendation, and a recommendation is a design that has agreed in advance not to happen.
+**Do not soften the accusation out of it.** Every structural design carries one claim: the current system is failing, and somebody built the current system. The design was not written as an accusation and it is also not not one. Deny that and you keep the design vague enough that nobody has to answer it. Vague enough turns a design into a recommendation, and a recommendation is a design that has agreed in advance not to happen.
 
-**Hand it over while you are still the most useful person on it.** Observe, model, design, deploy is a loop with no exit built into it. The loop will produce a better system every year and never once declare you finished, and the reasons to run one more cycle are good reasons, one arriving fresh each quarter. Stepping out costs exactly what the loop pays you: being the most valuable and most visible person inside. Hand over on a day when doing so still costs you that. Leave it longer and you hand over a system that has already failed once without you there.
+**Hand it over while you are still the most useful person on it.** Observe, model, design, deploy is a loop with no exit built into it. The loop will produce a better system every year and never once declare you finished, and the reason to run one more cycle arrives fresh each quarter. Stepping out costs exactly what the loop pays you, so hand over on a day when it still costs you that. Leave it longer and you hand over a system that has already failed once without you there.
 
 **Direct Action — the condition changed where one person is standing in it**
 
@@ -172,11 +172,11 @@ Three points decide whether what you build survives contact with the people insi
 
 ### Why the other five keep paying for a table nobody redesigned
 
-The Shaman reads what is actually happening, and in three weeks the same meeting reconvenes and the read is the same read. The Challenger draws the line at the person crossing it, and the structure sends a different person to cross it next quarter. The Diplomat closes the agreement, and the terms last exactly as long as the conditions that made them necessary. The Regent keeps what is worth keeping, by hand, forever, because nothing was ever built that would keep it. Every one of those moves lands inside a moment, and the moment comes back. Only the Architect can stop the moment coming back, and the work leaves nothing behind for anybody to point at: a harm that stops happening has no witnesses.
+The Challenger draws the line at the person crossing it, and the structure sends a different person to cross it next quarter. The Regent keeps what is worth keeping, by hand, forever, because nothing was ever built that would keep it. Every one of those moves lands inside a moment, and the moment comes back. Only the Architect stops it coming back, and that work leaves nothing behind for anybody to point at: a harm that stops happening has no witnesses.
 
 ### The Tell
 
-None of the four markers asked why you built it. That question is real, and it belongs to the Architect, because a design is the one move in this book that carries a signature. An Architect who redesigns the intake so that a redesign will have been made has run the structural account with a launch date on it. It is also the easiest thing in the world to lie to yourself about, in the hour after something has landed badly, when the fix is already drafted and good. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer the one thing the marker did not ask:
+None of the four markers asked why you built it. That question is real, and it belongs to the Architect, because a design is the one move in this book that carries a signature. An Architect who redesigns the intake so that a redesign will have been made has run the structural account with a launch date on it. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer it:
 
 - **Direct Action.** Did you change the condition so the harm stops, or so the record shows who found the condition?
 - **Raise Awareness.** The assumption got named. Did that move the table, or move you to the front of it?
@@ -199,15 +199,15 @@ The parable showed one of the four: Skillful Organizing. The man in the village 
 
 The close has four domains, and one cheap habit that is none of them. The cheap habit is the ledger kept and never closed. You hold an exact account of what your staying costs and never read it to anybody who could do something about it. Keeping the count is real skill, and the part of you that does it stays. It also asks nothing of you, because nobody ever has to watch you get the column wrong. Nobody declines a price they were never quoted. That is why it survives for years, gaining accuracy the whole time. The four domains are where the account finally gets read out: the terms said to the person they bind, the cost of the arrangement named where it gets set, what your staying requires asked for while somebody can still grant it, and the agreement a group has been running without. Each costs more than the ledger, because each hands the field what a private column withholds: the chance to say no.
 
-So here are all four, and before them the three things that decide whether a close holds or curdles. Not to study: pick where you'll spend the close this week, and pick the domain you keep avoiding. If the terms only ever get said in the car on the way in, or to a friend with no power to grant them, you did not make the Diplomat's move. You rehearsed it.
+These are not four things to study. Pick where you'll spend the close this week, and pick the domain you keep avoiding. If the terms only ever get said in the car on the way in, or to a friend with no power to grant them, you did not make the Diplomat's move. You rehearsed it.
 
 ### How to Close It So It Holds
 
 When you close, the sentence and the weeks after it decide whether the terms hold, and the same three moves decide it in every domain.
 
-**Name what they stand to lose first.** A term that lands before the other party has heard you describe their side accurately gets answered as a charge against them, and an answer spent on themselves never reaches your terms. So say what the other camp is guarding, in one sentence, before you say what you require. You lose the clean drama of coming out with it and you get a field that can answer.
+**Name what they stand to lose first.** A term that lands before they have heard you describe their side accurately gets answered as a charge, and an answer spent on themselves never reaches your terms. So say what the other camp is guarding, in one sentence, before you say what you require. You lose the clean drama of coming out with it and you get a field that can answer.
 
-**Put the cost in the words, not in the delivery.** The account gets signalled long before it gets stated: the pause before you agree, the extra weight on *sure*, the tone that means somebody ought to ask. A signal costs nothing to send and nobody can answer one, because it leaves the field to work the number out alone, and a field working out its own number gets it low. Say what this is costing, in figures, once. Nobody has ever renegotiated with a sigh.
+**Put the cost in the words, not in the delivery.** The account gets signalled long before it gets stated: the pause before you agree, the extra weight on *sure*, the tone that means somebody ought to ask. A signal costs nothing to send and nobody can answer one, because it leaves the field to work the number out alone, and it will work it out low. Say what this is costing, in figures, once. Nobody has ever renegotiated with a sigh.
 
 **Let them say what your staying cost them, and answer that.** A close is an invitation, and it gets accepted the moment somebody tells you what the arrangement cost on their side. That is where the Victim opens the column, on time and exact, and turns a negotiation into a comparison of totals only one person is running. (Chapter 5 has me holding back what I knew in a body I stayed with for years, with the crown under my hood. I told it as a Regent's story and it is one. Read it from here and a second story sits inside it: nobody there ever got to decide whether they wanted what I was carrying, because I never put it where they could refuse it.) You owe their term an answer. Your balance keeps. It has kept for years.
 
@@ -229,11 +229,11 @@ When you close, the sentence and the weeks after it decide whether the terms hol
 
 ### Why the other five need a field that is still there in the morning
 
-The Challenger draws a line and somebody has to sit with those people on Monday. The Architect designs for people who have to live inside the design, and consent nobody asked for is compliance with better manners. The Regent keeps what a body actually agreed to, and a body that never closed on anything has nothing to hand the next people. The Sage names the altitude a conflict runs at, which is worth nothing to camps that have stopped speaking. The rest can win the moment. This one decides whether there is anybody left to win the next one with.
+The Challenger draws a line and somebody has to sit with those people on Monday. The Architect designs for people who have to live inside the design, and consent nobody asked for is compliance with better manners. The rest can win the moment. This one decides whether there is anybody left to win the next one with.
 
 ### The Tell
 
-None of the four markers asked why you closed it. That question is real, and it belongs to the Diplomat, because you have kept an exact record of what this costs you, and a record kept that long gives every honest sentence a second job. A Diplomat who closes so that somebody will finally hear the column has read the ledger out and called it terms. It is also the easiest thing in the world to lie to yourself about, in the sentence where you finally say what you have been carrying. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer the one thing the marker did not ask:
+None of the four markers asked why you closed it. That question is real, and it belongs to the Diplomat, because you have kept an exact record of what this costs you, and a record kept that long gives every honest sentence a second job. A Diplomat who closes so that somebody will finally hear the column has read the ledger out and called it terms. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer it:
 
 - **Direct Action.** Did you say the terms so they could answer them, or so somebody would finally know the price?
 - **Raise Awareness.** You read the cost out. Check the address: the people who set the arrangement, or the people who would be sorry about it?
@@ -256,7 +256,7 @@ The parable showed one of the four: Skillful Organizing. *The Sage could name wh
 
 The view has four domains, and one cheap habit that is none of them. The cheap habit is the second map. You look at a live problem, the first framework explains most of it, and rather than do anything with what it explains, you go and find a framework that explains more. The maps are good, one at a time. Reaching for another one costs you nothing, because nobody at the table has to answer a map, and from the inside it looks exactly like taking the problem more seriously, which is why it lasts for years. Nothing at the table moves. The four domains are where the view finally leaves you: the game named to the person inside it, the real agenda said out loud at the table running it, the specific help asked for where the framework was easier, the game a group is stuck in named so the group can move. Each costs more than a map, because each one puts the view where a person other than you can tell whether it helped.
 
-So here are all four, and before them the three things that decide whether the view serves the table or separates you from it. Not to study: pick where you'll spend the view this week, and pick the domain you keep avoiding. If the view only ever comes back around as a better account of what is happening here, held in your own head and delivered nowhere, you did not make the Sage's move. You mapped it.
+These are not four things to study. Pick where you'll spend the view this week, and pick the domain you keep avoiding. If the view only ever comes back around as a better account of what is happening here, held in your own head and delivered nowhere, you did not make the Sage's move. You mapped it.
 
 ### How to Spend It So It Serves
 
@@ -264,9 +264,9 @@ When you spend the view, the minute around it decides whether the table can use 
 
 **Say it in the game they are playing, not from the whole board.** One read has two vocabularies. *We are running a strategy conversation over a power problem* is accurate, and it comes from a place nobody at the table is standing in, so it arrives as a grade. The in-game sentence has to name a particular: what got crossed, who has been waiting since March, what the plan does not cover. Same read, same size, and the words start where the work is.
 
-**Give what the game costs.** Seeing which game somebody is in tells you what would help, and what would help is usually specific and dull: an hour on Thursday, a name said to somebody with authority, a seat held while they say the worst of it, a no said in front of them. The Damaged Self offers a framework instead, because a framework travels across a table without you having to be anywhere, and asks nothing of your calendar. In all four domains, the test is whether what you gave came out of your week.
+**Give what the game costs.** Seeing which game somebody is in tells you what would help, and what would help is usually specific and dull: an hour on Thursday, a name said to somebody with authority, a seat held while they say the worst of it, a no said in front of them. The Damaged Self offers a framework instead, because a framework travels across a table without you having to be anywhere, and asks nothing of your calendar. The test is whether what you gave came out of your week.
 
-**Don't go up afterward.** The expensive stretch comes after the naming, and the Sage's exit does not use the door. You keep your seat and your pleasant face and you leave by altitude: the table turns into a case, the people turn into material, and what you said becomes a line you delivered rather than a place you are standing. What staying looks like is small. The next sentence out of you is about the work in front of everyone, not about the pattern you noticed. The exit even has a courteous phrasing, *I'll leave you to sit with that*, and it is only ever spoken on the way out.
+**Don't go up afterward.** The expensive stretch comes after the naming, and the Sage's exit does not use the door. You keep your seat and your pleasant face and you leave by altitude: the table turns into a case and the people turn into material. What staying looks like is small. The next sentence out of you is about the work in front of everyone, not about the pattern you noticed. The exit even has a courteous phrasing, *I'll leave you to sit with that*, and it is only ever spoken on the way out.
 
 **Direct Action — the game named to the person inside it**
 
@@ -286,11 +286,11 @@ When you spend the view, the minute around it decides whether the table can use 
 
 ### The other five cannot tell whether the hour is theirs
 
-The Shaman's read is true and does not say whether this hour is a reading problem. The Challenger's line is necessary and does damage in the wrong game. The Regent keeps, the Architect designs, the Diplomat holds, and every one of them is right inside the school that trained them. The read that settles which of the five the hour is asking for has to come from somebody at the table who has been all five and is not defending any of them today. That is what the view is for, and it counts as spent only when it lands where somebody else is working. Five faces, five right answers, and the question of which one the hour was asking has never belonged to any of them.
+The Shaman's read is true and does not say whether this hour is a reading problem. The Challenger's line is necessary and does damage in the wrong game. The Regent keeps, the Architect designs, the Diplomat holds, and every one of them is right inside the school that trained them. The read that settles which of the five the hour is asking for has to come from somebody who has been all five and is not defending any of them today. Five faces, five right answers, and the question of which one the hour was asking has never belonged to any of them.
 
 ### The Tell
 
-None of the four markers asked why you named it. That question is real, and it lands harder on the Sage than on the five before, because a Sage who names the game so the table will know the game could be named has taken the second map out in public. It is also the easiest thing in the world to lie to yourself about, in the second after a naming lands and nobody at the table answers it. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer the one thing the marker did not ask:
+None of the four markers asked why you named it. That question is real, and it lands harder on the Sage than on the five before, because a Sage who names the game so the table will know the game could be named has taken the second map out in public. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer it:
 
 - **Direct Action.** Did you name their game so they could move inside it, or so they would know you had seen it?
 - **Raise Awareness.** Could the meeting use what you said, or could it only tell what you are?
