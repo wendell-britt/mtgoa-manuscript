@@ -43,7 +43,7 @@ chapter has that seam: five moves, then the deck.
 
 ---
 
-## 3 · The template, eight parts
+## 3 · The template, seven parts (eight in ch3)
 
 **Part 1 · the callback.** Name which domain the chapter's parable already showed, and
 say why it is that Face's steepest. *ch3: "The parable showed one of the four: Direct
@@ -77,9 +77,19 @@ terms, each drawn from the chapter's own material rather than invented.
 winning when:*` a single long marker carrying **what you did · what it cost · what the
 proof is.** The three-part marker is the form; do not shorten it to two.
 
-**Part 6 · the placement argument** — one paragraph on why this Face's domain work
-matters to the other five. ch3's is *After this, everything stands on it*, which is a
-first-Face argument and does not generalise. Each chapter needs its own or none.
+**Part 6 · the placement argument — CUT 2026-08-05, ch3 keeps its own.** Wendell:
+*"cut part 6 except for ch 3."*
+
+It was one paragraph on why this Face's domain work matters to the other five, and it
+**duplicated a section fifty lines below it.** Every chapter's Section 7 is *"What the
+[Face] Teaches — and Why the [Next Face] Comes Next"*, opening *"The [Face]'s contribution
+to the allyship game is this:"* — the same argument, made properly, in the slot built for
+it. The five drafts each spent 88–138 words making it a second time.
+
+This spec offered *"each chapter needs its own or none"* and all five were drafted with
+their own, without anyone checking whether the chapter already had one. **422 words cut,
+and every counter improved.** ch3's stays: it is canon, and *After this, everything stands
+on it* is a first-Face argument the other five could not have made anyway.
 
 **Part 7 · `### The Tell`** — the question the four markers did not ask, then four
 bullets, one per domain, each a fork between the result and the credit. Close on one

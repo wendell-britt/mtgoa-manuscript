@@ -1,18 +1,20 @@
-# The five domain sections, condensed
+# The five domain sections
 
-**2026-08-05.** Drafted to `ch3:810`'s template, then put through a condensing pass on
-Wendell's note: *there's a lot of handwringing for a process that's going to be repeated.*
-**486 words out. Every counter improved.** Nothing below is in the manuscript.
+**2026-08-05.** Drafted to `ch3:810`'s template, condensed on Wendell's note that a
+section repeated six times does not restate its rationale each time, then **part 6 cut
+on his ruling — ch3 keeps its own.** 6,622 → 5,714 words, **908 out, 14%.** Every counter
+improved. Nothing below is in the manuscript.
 
 | | Face | noun | goes after | words |
 |---|---|---|---|---|
-| **ch4** | Challenger | the Line | `ch4:708` | 1055 |
-| **ch5** | Regent | the Inheritance | `ch5:613` | 1296 |
-| **ch6** | Architect | the Design | `ch6:530` | 1261 |
-| **ch7** | Diplomat | the Close | `ch7:692` | 1266 |
-| **ch8** | Sage | the View | `ch8:683` | 1258 |
+| **ch4** | Challenger | the Line | `ch4:708` | 1,000 |
+| **ch5** | Regent | the Inheritance | `ch5:613` | 1,208 |
+| **ch6** | Architect | the Design | `ch6:530` | 1,168 |
+| **ch7** | Diplomat | the Close | `ch7:692` | 1,194 |
+| **ch8** | Sage | the View | `ch8:683` | 1,144 |
 
 All five: `gate` PASS · `fragment` clean · `preempt` clean · no counter over 1.30.
+Seven parts now: callback · cheap habit · instruction · three moves · four markers · The Tell.
 
 ---
 
@@ -55,10 +57,6 @@ When you draw a line, the seconds on either side of it decide whether it stands,
 **Skillful Organizing — the boundary a group will not draw for itself**
 
 *You're winning when:* you drew the line the coalition has been negotiating around for months, the one everybody can feel and nobody will name, so that the work had an edge to move against. It cost you the position of the reasonable one. The proof is that the group now has a limit to organize inside instead of a fog to keep meeting about.
-
-### Why the Challenger draws before the rest can build
-
-The Regent cannot keep what nobody defended, the Architect cannot design inside a boundary nobody set, and the Diplomat's terms are lines with names on them. Every structural move the other five make begins with an edge that somebody was willing to be disliked for.
 
 ### The Tell
 
@@ -113,10 +111,6 @@ You carry an inheritance for years, and the same three moves decide, in every do
 
 *You're winning when:* you handed a practice you had been holding personally to the group, with its reasons, its record and a name against each job, while you were still around to be asked about it, and it cost you being the reason it worked. The proof is that it ran a full cycle without you and stayed the practice it was, instead of drifting into whatever people could remember of it.
 
-### Why the other five need somebody who stays
-
-A read nobody wrote down leaves with the people who heard it. A line lasts as long as somebody keeps it after the person who drew it has gone, and whoever inherits a structure without its reasons has to guess what it was for, which is what people mean when they say a practice has drifted. Every other Face answers for the move it made. This one answers for what is still standing when nobody remembers who made it.
-
 ### The Tell
 
 None of the four markers asked why you kept it. That question is real, and it belongs to the Regent, because a Regent who takes an inheritance on so that everybody can watch somebody finally take one on has run the same repair cycle with a ceremony attached. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer it:
@@ -169,10 +163,6 @@ Three points decide whether what you build survives contact with the people insi
 **Skillful Organizing — the machinery a group runs on, handed to somebody who can change it**
 
 *You're winning when:* you changed how the group actually works, the format, the rota, the job nobody has been given, and handed it on with the reasoning attached and not only the instructions, so the next person can redesign it when the conditions move. It cost you being the one everybody depends on. The proof is that the format ran through a month you were not in, and came out altered by somebody who is not you.
-
-### Why the other five keep paying for a table nobody redesigned
-
-The Challenger draws the line at the person crossing it, and the structure sends a different person to cross it next quarter. The Regent keeps what is worth keeping, by hand, forever, because nothing was ever built that would keep it. Every one of those moves lands inside a moment, and the moment comes back. Only the Architect stops it coming back, and that work leaves nothing behind for anybody to point at: a harm that stops happening has no witnesses.
 
 ### The Tell
 
@@ -227,10 +217,6 @@ When you close, the sentence and the weeks after it decide whether the terms hol
 
 *You're winning when:* you closed the group on what it has to hold, who does what and what happens when somebody does not, rather than booking the fourth conversation of its kind, and it cost you being the one everybody agreed was still listening. The proof is that the group now has terms somebody can hold it to, and the people who carried it unnamed are in them by name.
 
-### Why the other five need a field that is still there in the morning
-
-The Challenger draws a line and somebody has to sit with those people on Monday. The Architect designs for people who have to live inside the design, and consent nobody asked for is compliance with better manners. The rest can win the moment. This one decides whether there is anybody left to win the next one with.
-
 ### The Tell
 
 None of the four markers asked why you closed it. That question is real, and it belongs to the Diplomat, because you have kept an exact record of what this costs you, and a record kept that long gives every honest sentence a second job. A Diplomat who closes so that somebody will finally hear the column has read the ledger out and called it terms. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer it:
@@ -283,10 +269,6 @@ When you spend the view, the minute around it decides whether the table can use 
 **Skillful Organizing — the game a group is stuck in, named so the group can move**
 
 *You're winning when:* you told a group which game it had been playing for a month, while it was still playing it, in the group's own words and without a diagram, and it cost you being read as one of them for a while afterward. The proof is that the group argued about the real game next, which is worse to sit in and is the only argument that finishes.
-
-### The other five cannot tell whether the hour is theirs
-
-The Shaman's read is true and does not say whether this hour is a reading problem. The Challenger's line is necessary and does damage in the wrong game. The Regent keeps, the Architect designs, the Diplomat holds, and every one of them is right inside the school that trained them. The read that settles which of the five the hour is asking for has to come from somebody who has been all five and is not defending any of them today. Five faces, five right answers, and the question of which one the hour was asking has never belonged to any of them.
 
 ### The Tell
 

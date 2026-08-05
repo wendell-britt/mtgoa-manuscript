@@ -203,3 +203,31 @@ words by taking out the thing the section exists to deliver.
 that motivated compressing it, and the argument against is that **ch3's canon has one**,
 so deleting it from five leaves ch3 the odd section out. Cutting ch3's too is a
 manuscript edit and a separate ruling.
+
+---
+
+## RULED — part 6 is cut
+
+**Wendell, 2026-08-05:** *"cut part 6 except for ch 3."*
+
+Applied. `SPEC_DOMAIN_SECTIONS_2026-08-03` §3 updated: **seven parts, eight in ch3.**
+
+| | drafted | condensed | part 6 cut |
+|---|---|---|---|
+| ch4 | 1,133 | 1,055 | **1,000** |
+| ch5 | 1,390 | 1,296 | **1,208** |
+| ch6 | 1,378 | 1,261 | **1,168** |
+| ch7 | 1,365 | 1,266 | **1,194** |
+| ch8 | 1,356 | 1,258 | **1,144** |
+| **set** | **6,622** | 6,136 | **5,714** |
+
+**908 words out, 14%, and every counter improved.** No section is now over 1,210, against
+the 1,100 target and ch3's 1,980.
+
+`gate` PASS · `fragment` clean · `preempt` clean · nothing over 1.30. `draftprobe` 71 → 61.
+**ch4's expletive, the set's only heavy reading at 1.60, now reads 0.89, and the other
+four read 0.00.**
+
+The section now runs: **callback · cheap habit · instruction · three universal moves ·
+four markers · The Tell · nothing.** Each chapter's Section 7 does the placement argument
+fifty lines later, where it belongs and where the book always put it.
