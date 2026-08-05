@@ -227,7 +227,8 @@ grades:
                # argument (the framework, the model, the theory) held neither.
                # See `non_daemon_parts` below for why they are interior.
                the shadow, shadow, the distortion, distortion]
-    verb_classes: [perception, intention, speech, somatic,
+    verb_classes: [perception, intention, speech,
+                   # `somatic` DELETED 2026-08-03 -- see constraints
                    # a fortiori, 2026-08-03 -- see constraints
                    mechanical, directional, causal-bare, pattern]
     trace: "IFS architecture; the roster is manuscript/ch2.md:270-420"
@@ -273,10 +274,33 @@ grades:
       daemons -- see `non_daemon_parts`. The constraint that keeps this from
       being a blank cheque is the Grade 1 Faces test in the other direction:
       THE PART MUST BE SOMEONE'S. A shadow or a distortion acting where no
-      person is carrying it is the flag. That is the test, not a verb list. The embodied three (Protector, Emotional
-      Body, Damaged Self) act SOMATICALLY, not verbally, per the ch2 roster
-      ruling. Daemon inflation is a real risk: more than two R3 routings per
-      daemon per chapter is a flag.
+      person is carrying it is the flag. That is the test, not a verb list.
+      Daemon inflation is a real risk: more than two R3 routings per daemon per
+      chapter is a flag.
+
+      `somatic` DELETED 2026-08-03 by Wendell, and with it the rule that the
+      embodied three (Protector, Emotional Body, Damaged Self) act somatically
+      rather than verbally. Two reasons, and the second is the one that matters.
+
+      First, `somatic` was never a defined verb class. It sat in this grade's
+      licence list looking exactly like the other seven, with no lemma set
+      behind it, so the rule was unenforceable from the day the registry was
+      built. Same defect as `DAEMON_CANON.md`, retired under DL-41: a name in a
+      spec reads exactly like a name for something real.
+
+      Second, and decisively: THE RULE DESCRIBED A BOOK NOBODY WROTE. Measured
+      across the manuscript, the verbs those three daemons actually take are
+      `decides` 8, `does` 4, `has` 4, `takes` 3, `showed` 3, `developed` 2,
+      `prefers`, `holds`, `spends`, `runs`, `works`, `goes`. Not one is somatic
+      -- no bracing, tightening, flooding or dropping anywhere. The constraint
+      was aspirational, not descriptive.
+
+      Writing the lemma list would have been the obvious move and the wrong one.
+      It would have ruled that the constraint is right and the prose is wrong --
+      a real editorial decision, arriving disguised as a technical artifact,
+      that nobody made. If the embodied three should sound somatic, that is a
+      prose pass and a class can follow it. Until then the honest state is no
+      rule rather than an unenforceable one.
 
       ROSTER CORRECTED 2026-08-03. Three of the seven were missing from this
       list and were therefore invisible to the recall net at every grade:
@@ -304,7 +328,8 @@ grades:
       FOR WENDELL, not fixed here, because both are substantive amendments
       rather than corrections.
 
-      (a) `somatic` IS NOT A DEFINED VERB CLASS. This grade's verb_classes list
+      (a) RESOLVED 2026-08-03 -- the class and its rule were deleted rather
+      than defined. `somatic` IS NOT A DEFINED VERB CLASS. This grade's verb_classes list
       names it, and the constraint above requires the embodied three to act
       "SOMATICALLY, not verbally", but there is no `somatic` entry in the
       verb_classes block and therefore no lemma list behind it. The rule has
@@ -331,7 +356,7 @@ grades:
       What (b) said before it was ruled, kept because it is the evidence:
 
       (b) THIS GRADE LICENSED THE DANGEROUS CLASSES AND NOT THE HARMLESS ONES.
-      verb_classes here is [perception, intention, speech, somatic] -- the three
+      verb_classes here was [perception, intention, speech, somatic] -- the three
       highest-severity classes in the taxonomy -- while mechanical, directional
       and causal-bare are absent. So a daemon may THINK and SPEAK but flags for
       MOVING. Adding the three missing daemons surfaced 13 findings and every
@@ -857,6 +882,103 @@ tiers:
   1: "mechanical or directional on an unlicensed subject; isolated causal-bare"
 
 # ---------------------------------------------------------------- open rulings
+# ---------------------------------------------------------------------- holds
+# RULED by Wendell 2026-08-03: "put the don't touch notes where the machine
+# reads them."
+#
+# A hold is a site somebody looked at, decided not to change, and recorded. Until
+# now holds lived in editorial_reports/agency/R8_VERDICT.md and in commit
+# messages -- neither of which agency_grep.py has ever opened. On 2026-08-03 a
+# village pass converted ch8:164's triple anaphora, which R8_VERDICT had held for
+# Wendell, because the pass was reading the registry and the hold was somewhere
+# else. That is the failure this block exists to prevent.
+#
+# The net matches `anchor` as a substring of the sentence and suppresses the
+# finding with a HELD tag. `--loose` ignores holds along with every other filter,
+# so a full census is still one flag away.
+#
+# THIS IS THE FOURTH TIME THIS WEEK the answer has been "move the decision into
+# the registry as data" -- after `registers`, `sense_exceptions` and
+# `entity_partial`. A ruling that lives in prose is a ruling the instrument
+# cannot honour.
+
+holds:
+  - anchor: "what is this system actually rewarding"
+    file: manuscript/ch6.md
+    why: >
+      RULED KEEP by Wendell, DL-45 era. SPEC_JORDAN_METAPHOR_ARC_CH4_CH6 names
+      `reward` as a verb to convert, but its stated purpose is telling Jordan
+      where to look, and asking what a system rewards is exactly where to look.
+      Converting it costs the reader the question.
+
+  - anchor: "The game read tells you what to do"
+    file: manuscript/ch8.md
+    why: >
+      The subject is the read YOU produced, and the line is deliberately
+      parallel with "The altitude read tells you how to say it." Not B6, which
+      is clean across the whole book.
+
+  - anchor: "Do the work the game requires"
+    file: manuscript/ch8.md
+    why: >
+      `require` is classed social-causal but the sense here is structural
+      entailment, like "the recipe requires flour". Carries a SENSE-CHECK tag
+      from `sense_exceptions` rather than clearing on syntax, because a system
+      that requires you to file three forms IS exerting.
+
+  - anchor: "the one thing the work actually needs"
+    file: manuscript/ch9.md
+    why: >
+      `need` on an artifact is LACKS, not desires. Different from "the village
+      needed someone to go first", where a population wanting something was the
+      point. The real defect in this sentence was `dodges`, converted 2026-08-03.
+
+  - anchor: "the data shows Y"
+    file: manuscript/ch4.md
+    why: >
+      Transitive `show`, so `sense_exceptions` correctly does not clear it -- but
+      it sits inside a quoted example sentence the reader is meant to SAY. The
+      `registers` block covers marginalia, epigraphs, postcards, handbooks and
+      signatures, not inline quoted dialogue. A real register gap, recorded
+      rather than papered over with a filter.
+
+  - anchor: "the pattern starved them"
+    file: manuscript/ch3.md
+    why: >
+      `starve` is in no class and should stay out. Starving is a DEPRIVATION,
+      low-order and exterior -- a famine starves people and claims no mind. The
+      mechanism is on the page one paragraph up: "cut off from the very source
+      of energy that would have sustained them."
+
+  - anchor: "which the Shaman hands you in Chapter 3"
+    file: manuscript/ch1.md
+    why: >
+      The only instance in the book of a Face acting on the reader from outside
+      the frame; it reads as "which Chapter 3 hands you". Licensed at Grade 1
+      and not a defect, recorded so a later pass does not think it found
+      something.
+
+  - anchor: "The system did not give you your superpower"
+    file: manuscript/ch3.md
+    why: >
+      A NEGATION. The book denying system agency, not asserting it.
+
+  - anchor: "They learned to say *I see all the games*"
+    file: manuscript/ch8.md
+    status: CONTESTED — converted while held, awaiting a read-aloud
+    why: >
+      R8_VERDICT held this: "It learned... It learned... It learned... reads as
+      one organism quietly acquiring bad habits. They learned dilutes it to
+      crowd narration. It may be doing the same work anchor 3 protects."
+      instruments/ch578_village.py converted all three instances on 2026-08-03
+      as part of the ch5/ch7/ch8 village pass. Its docstring discusses an
+      anaphora -- ch5's -- and never mentions this one.
+
+      The claim R8_VERDICT made is about VOICE and can only be settled by
+      reading both versions aloud. Nobody has. The conversion ships in the
+      meantime; if the singular has the menace, it is one revert. Held here so
+      the contest stays open rather than closing by default a second time.
+
 # ------------------------------------------------------------ sense exceptions
 # RULED by Wendell 2026-08-03, after the same problem cost four separate blocks.
 #

@@ -180,11 +180,18 @@ def build_index(reg):
     sense_clear = {v: s for v, s in sense_surf.items() if sense_act[v] == "clear"}
     sense_tagd = {v: s for v, s in sense_surf.items() if sense_act[v] == "tag"}
 
+    # HOLDS: sites somebody looked at, decided not to change, and recorded.
+    # Until 2026-08-03 these lived in R8_VERDICT.md and in commit messages,
+    # neither of which this script has ever opened -- and a village pass
+    # converted a held site because of exactly that. Matched as substrings of
+    # the sentence and suppressed with a HELD tag. `--loose` ignores them.
+    holds = [h["anchor"].lower() for h in (reg.get("holds") or [])]
+
     e1 = set()
     for lemma in ((reg.get("exceptions") or {}).get("E-1") or {}).get("licensed_verbs") or []:
         e1.update(s.lower() for s in surfaces(lemma))
     return (verb2class, class_sev, ent2grade, licensed, partial, e1,
-            ent_partial, sense_clear, sense_tagd)
+            ent_partial, sense_clear, sense_tagd, holds)
 
 
 def tier(cls, grade, licensed, verb=None, partial=None, e1=None,
@@ -417,7 +424,8 @@ def _is_noun(toks, j):
 
 
 def scan(path, verb2class, ent2grade, licensed, partial=None, e1=None,
-         loose=False, ent_partial=None, sense_clear=None, sense_tag=None):
+         loose=False, ent_partial=None, sense_clear=None, sense_tag=None,
+         holds=None):
     """Every (entity, verb) pair inside a ±5-token window. High recall by design."""
     hits = []
     body = read_body(path)
@@ -426,6 +434,9 @@ def scan(path, verb2class, ent2grade, licensed, partial=None, e1=None,
             continue
         for sent in sentences(line):
             low = sent.lower()
+            # a recorded hold: somebody has already looked at this and ruled
+            if not loose and holds and any(h in low for h in holds):
+                continue
             # hyphenated compounds stay whole, so "the Field-Holder demands"
             # does not read as "the field ... demands". That one compound
             # accounted for three false positives in ch7 alone.
@@ -618,12 +629,13 @@ def main():
     a = ap.parse_args()
 
     reg = load_registry()
-    v2c, _sev, e2g, lic, partial, e1, entp, sclr, stag = build_index(reg)
+    v2c, _sev, e2g, lic, partial, e1, entp, sclr, stag, holds = build_index(reg)
     files = [os.path.join(ROOT, p) for p in a.paths] or targets(a.include_legacy)
 
     rows = []
     for f in files:
-        rows += scan(f, v2c, e2g, lic, partial, e1, a.loose, entp, sclr, stag)
+        rows += scan(f, v2c, e2g, lic, partial, e1, a.loose, entp, sclr, stag,
+                     holds)
     report(rows, files, a.report)
     return 0
 

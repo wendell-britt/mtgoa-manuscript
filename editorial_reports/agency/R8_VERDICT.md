@@ -171,7 +171,14 @@ what the Jerk archetype forbids. That pattern needs R1 or R2, never R8.
    Pluralized it is grammatical, and it trades a one-on-one closing image — singular Player,
    singular Village — for many-against-one. Twin at the ch9 section heading *"The Village Is
    Already Playing"* — **that twin is now ruled keep; this sentence is not.**
-2. **ch8:164's triple anaphora.** *"It learned… It learned… It learned…"* reads as one
+2. **CONTESTED 2026-08-03 — converted while held, awaiting a read-aloud.** A village
+   pass converted all three instances as part of the ch5/ch7/ch8 sweep, without seeing
+   this hold. The claim below is about voice and can only be settled by reading both
+   versions aloud; nobody has. The conversion ships meanwhile. **This item now lives in
+   the registry's `holds:` block, where the instrument reads it** — the whole reason it
+   got converted is that holds lived here and the scanner has never opened this file.
+   ~~Original note:~~
+   **ch8:164's triple anaphora.** *"It learned… It learned… It learned…"* reads as one
    organism quietly acquiring bad habits. *"They learned"* dilutes it to crowd narration. It
    may be doing the same work anchor 3 protects.
 3. **ch3:123**, the *"never meant"* exile sentence — pluralizing risks converting a
