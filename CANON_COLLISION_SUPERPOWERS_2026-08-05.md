@@ -5,7 +5,7 @@
 authored by codex. Declares itself *"the repository-local source of truth for the superpower
 taxonomy."*
 **The book:** `manuscript/ch2.md`–`ch9.md` on this branch.
-**Status:** comparison and two drafted paths. **No prose changed by this document.**
+**Status:** comparison, three paths, **Path C ruled 2026-08-05**. No prose changed by this document.
 
 **Shape of the branch, which matters for anything that follows:** 346 files, **none in
 `manuscript/`**, 71 commits, and **no merge base with `master`**. It is a parallel documentation
@@ -161,6 +161,50 @@ as the superpower with coaching as the practice beside it, which is the canon's 
 
 **Cost:** six edits to shipped prose plus one new sentence, and it unwinds the naming that was
 ruled on 2026-08-04 — the names stay, their ownership goes.
+
+---
+
+## 4.5 · Path C — the school trains the class. **RULED 2026-08-05.**
+
+Wendell: *"a mix of A and B is necessary. It seems like the school trains certain classes (which
+would be the superpowers), so this can help with the collision even though in the real world all of
+the superpowers can be applied at any level."*
+
+**This resolves the collision on a frame the book already owns.** Every Face chapter is already a
+school, reader-facing, in shipped prose, and the six map one to one onto the six Faces:
+
+| Chapter | School | trains |
+|---|---|---|
+| ch3 Shaman | **School of the Body** (11 uses) | the Alchemist |
+| ch4 Challenger | **School of the Line** (5) | the Disruptor |
+| ch5 Regent | **School of the Oath** (5) | the Storyteller |
+| ch6 Architect | **School of the Pattern** (10) | the Strategist |
+| ch7 Diplomat | **School of the Bridge** (8) | the Connector |
+| ch8 Sage | **School of the Horizon** (5) | the Escape Artist |
+
+A school **trains** a class. It does not own it, and a graduate uses it anywhere. That is Path B's
+compliance — no Face possesses a superpower — carried by Path A's seating, which survives intact
+because a school teaching one class is what a school is for. `ch2:236` already states the principle
+the ruling needs: *"The school is somewhere to stand while you practice, and that is the whole of
+its job."*
+
+**Against the canon:** *Do not map Superpower → Face one-to-one* is satisfied, because the mapping
+is now school-to-curriculum rather than Face-to-property. **Coach resolves inside ch8's rewrite**,
+where the compound becomes a class and a practice, which is the canon's position.
+
+**Measured against the same six spans as they currently stand:**
+
+| | be | copula | waste | zombie | expletive | passive | empty |
+|---|---|---|---|---|---|---|---|
+| the six sites now | 1.23 | 2.29 | 0.94 | 0.83 | 2.31 | 1.00 | 0.67 |
+| Path C | **0.86** | **1.37** | 1.05 | 0.79 | **0.00** | 1.28 | 0.85 |
+
+Better on five of seven, and the two that rise stay in band. Copula still reads over 1.30 and it is
+**inherited**: the current prose runs 2.29 there, so Path C cuts it by 40% without reaching the
+line. Gate clean, voice linter clean.
+
+**Path C is what gets drafted and applied. A and B below are kept as the record of what was
+weighed.**
 
 ---
 
