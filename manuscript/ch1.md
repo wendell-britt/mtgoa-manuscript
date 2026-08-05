@@ -158,7 +158,7 @@ So the move this week is a small one. Go back to what you brought with you and f
 
 ## Why a Game
 
-The opening gave you one reason to run allyship as a game: the frame sets distance between you and the outcome, and it hands you clear rules and objectives in a place where most people are improvising blind. Detachment and clarity. That is the first reason.
+The opening gave you one reason to run allyship as a game: the frame sets distance between you and the outcome, and it hands you clear rules and objectives in a place where most people are improvising blind. Detachment and clarity are the first reason.
 
 Here is the second, and I will say it plainly, because it is the objection that makes serious people wave the whole idea away: a game is fun. If "fun" sounds too small for work this heavy, call it by its real name: engaging. A chore needs you to supply the motivation; you brace, you discipline, you drag yourself toward it. A game supplies the motivation itself. That is the entire difference between the two.
 
@@ -172,7 +172,7 @@ The third reason changes everything: a game is the only frame that will get you 
 
 Here is what I left out of the story I told you at the start. When I said I held myself hostage for three years, I made it sound like something that happened to me. It wasn't. Some part of me was getting off on it: the martyrdom, the being-behind, the noble suffering of the ally who cares too much to finish. A hidden part of me was feeding on all of it, and that's exactly why I couldn't stop by deciding to. You cannot quit a pattern you don't know you're enjoying.
 
-Carolyn Elliott calls this existential kink: the shadow doesn't run you because it feels bad. It runs you because, somewhere out of sight, it feels *good*, and you've never let yourself admit it. The being-needed. The safety of the line you never cross. The exhaustion you wear like proof. Some part of you is delighted by the very thing you complain about, and as long as that delight stays in the dark, it owns you.
+Carolyn Elliott calls this existential kink: the shadow doesn't run you because it feels bad. It runs you because, somewhere out of sight, it feels *good*, and you've never let yourself admit it. People needing you feels good. So does a line you never have to cross, and so does an exhaustion other people can see. Some part of you is delighted by the very thing you complain about, and as long as that delight stays in the dark, it owns you.
 
 A game turns the lights on: it takes the charge you've been running in secret and sets it on the board, where you can finally see what you're getting out of it, say so, and (this is the whole move) enjoy it on purpose instead of by accident. The moment the pleasure turns conscious, it stops being your driver and becomes your fuel. A chore asks you to grit your teeth against the pattern. A game invites you to catch yourself in the act, name your own existential kink, and grin.
 
@@ -188,7 +188,7 @@ Here they are, and each one pays out differently. Most frameworks teach one and 
 
 **Games of Chance — right place, right time.**
 
-You cannot control the right place or the right time. You can only control whether you are standing there when they arrive. A Game of Chance is the reorg that dissolves the case your coworker spent two weeks building the week before she files: timing you never touched, three floors up, deciding everything. It runs the opposite way too: you are on a group thread you got copied on by habit, you catch that a hire is about to go sideways, and the one message you send, because you happened to be there to send it, lands the right person the job. Same game. You do not get to schedule either one.
+You cannot control the right place or the right time. You can only control whether you are standing there when they arrive. A Game of Chance is the reorg that dissolves the case your coworker spent two weeks building the week before she files: timing you never touched, three floors up, deciding everything. It runs the opposite way too: you are on a group thread you got copied on by habit, you catch that a hire is about to go sideways, and the one message you send, because you happened to be there to send it, lands the right person the job. That is the same game, and you do not get to schedule either one.
 
 That is why Chance pays the biggest of the three: jackpot money, the wins that reshape things. The price of that ceiling is that you cannot make it hit on command. So you play a Game of Chance one way: stay in the game. Keep showing up in the places where the break could land, and refuse to read the losses as failure. When the reorg eats the case, you did not misplay it. You were in the game, the only move Chance rewards, and the jackpot you are still there for is real.
 

@@ -10,18 +10,18 @@ to get an instrument.
 **MID** is a candidate. **NEG** is a fragment opening on a negation, which is
 `/no-ai-slop`'s *negative listing* found from the other direction.
 
-Verb lexicon: **1869 words**, derived from the corpus because the tagger cannot
+Verb lexicon: **1870 words**, derived from the corpus because the tagger cannot
 be trusted on any single sentence. See the module docstring.
 
 ## Totals
 
 | class | sites | rule |
 |---|---|---|
-| **MID** | 109 | candidate — a fragment outside landing position |
-| **NEG** | 16 | candidate — negative listing |
+| **MID** | 104 | candidate — a fragment outside landing position |
+| **NEG** | 15 | candidate — negative listing |
 | **LANDING** | 45 | legal — printed, not counted |
 
-**125 candidate(s)** across 13 component(s).
+**119 candidate(s)** across 13 component(s).
 
 ## Per component
 
@@ -31,24 +31,22 @@ be trusted on any single sentence. See the module docstring.
 | `appendices/APPENDIX_C_FIVE_CHANNELS.md` | 2 | 0 | 0 |
 | `appendices/APPENDIX_E_321_SHADOW_PROCESS.md` | 2 | 0 | 0 |
 | `appendices/ON_THE_SHOULDERS_OF.md` | 1 | 0 | 0 |
-| `manuscript/ch1.md` | 5 | 0 | 1 |
+| `manuscript/ch1.md` | 2 | 0 | 1 |
 | `manuscript/ch2.md` | 5 | 0 | 3 |
 | `manuscript/ch3.md` | 15 | 2 | 5 |
-| `manuscript/ch4.md` | 16 | 3 | 8 |
+| `manuscript/ch4.md` | 15 | 2 | 8 |
 | `manuscript/ch5.md` | 12 | 4 | 4 |
 | `manuscript/ch6.md` | 18 | 2 | 5 |
 | `manuscript/ch7.md` | 5 | 0 | 5 |
-| `manuscript/ch8.md` | 9 | 3 | 6 |
+| `manuscript/ch8.md` | 8 | 3 | 6 |
 | `manuscript/ch9.md` | 16 | 2 | 6 |
 
-## Negative openers — 16
+## Negative openers — 15
 
 - **11w** · `manuscript/ch6.md:432`
   > Not unnecessary in a dismissive way, unnecessary in a generous way.
 - **8w** · `manuscript/ch5.md:276`
   > Not a conflict between you and another person.
-- **7w** · `manuscript/ch4.md:587`
-  > Not to other people first, to yourself.
 - **7w** · `manuscript/ch8.md:230`
   > Not a new game above the others.
 - **7w** · `manuscript/ch9.md:394`
@@ -76,7 +74,7 @@ be trusted on any single sentence. See the module docstring.
 - **2w** · `manuscript/ch9.md:123`
   > No judgment.
 
-## Outside landing position — 109
+## Outside landing position — 104
 
 - **10w** · `manuscript/ch8.md:687`
   > The grid again, sixth operation of six, the last one.
@@ -106,8 +104,6 @@ be trusted on any single sentence. See the module docstring.
   > The minimum instead of the masterpiece.
 - **6w** · `manuscript/ch7.md:67`
   > The village barely notices at first.
-- **6w** · `manuscript/ch8.md:284`
-  > With the people, or above them?
 - **6w** · `manuscript/ch8.md:721`
   > It's anticipation with some dread underneath.
 - **5w** · `manuscript/ch3.md:175`
@@ -118,8 +114,10 @@ be trusted on any single sentence. See the module docstring.
   > Four words each, no explanation.
 - **5w** · `manuscript/ch5.md:500`
   > Out of your own body.
+- **5w** · `manuscript/ch8.md:87`
+  > The guru on the mountain.
 
-*89 more. Run with `-v`.*
+*84 more. Run with `-v`.*
 
 ## Landing position — legal — 45
 
