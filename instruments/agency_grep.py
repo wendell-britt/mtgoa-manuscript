@@ -194,8 +194,9 @@ def tier(cls, grade, licensed, verb=None, partial=None, e1=None,
         return 0                                   # licensed; not a finding
     if verb and (partial or {}).get(grade, {}).get(cls) and verb in partial[grade][cls]:
         return 0                                   # W-1 partial license
-    if verb and e1 and grade == 3 and verb in e1:
-        return 0                                   # E-1, ruled STANDING
+    if verb and e1 and grade in (3, 7) and verb in e1:
+        return 0                                   # E-1, ruled STANDING; Grade 7
+                                                   # added 2026-08-03 closing W-3
     if verb and ent and (ent_partial or {}).get(ent) and verb in ent_partial[ent]:
         return 0                                   # entity-level license
     if cls in ("perception", "intention"):

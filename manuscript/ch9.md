@@ -255,7 +255,7 @@ You now know it was inward.
 
 You now know that allyship begins with what you can become before you walk into the world. You now know that you cannot ally from a place you have not explored. You now know that the work happens in the Forest: finding what was abandoned, reclaiming what was lost, returning with something the villagers actually need.
 
-Here's what I've noticed about my own arrival at this work: I came to it the way most people come to it. I saw something wrong and felt the discomfort of witnessing harm I couldn't fix. Then I did what the culture taught me to do: I looked outward for the solution. I learned the vocabulary. I updated my positions. I performed the correct responses. The discomfort didn't go away. It got worse. Because I kept treating symptoms with the same kind of thinking that produced them.
+Here's what I've noticed about my own arrival at this work: I came to it the way most people come to it. I saw something wrong and felt the discomfort of witnessing harm I couldn't fix. Then I did what every teacher, workshop, and well-meaning friend had told me to do: I looked outward for the solution. I learned the vocabulary. I updated my positions. I performed the correct responses. The discomfort didn't go away. It got worse. Because I kept treating symptoms with the same kind of thinking that produced them.
 
 The shift happened when I stopped asking *what should I do* and started asking *what is actually happening inside me when I see this.* That's the Shaman's move. Not fixing the outward problem. Feeling what's true. Naming what's actually there. Staying with it long enough to let it complete its cycle before acting.
 
@@ -427,7 +427,7 @@ I hear that. Let me name what's actually happening with that resistance.
 
 Founder is not a personality type. Founder is a mode. The mode activates the moment you decide to create something that didn't exist before you, whether it's a conversation, a practice, a tradition in your family, a way of showing up at work that nobody had named before. The Founder arrives the moment you stop consuming and start creating. Sometimes an organization comes out of that. Usually nothing does.
 
-The culture never tells you this: the Founder move probably already sits somewhere in your history. A tradition in a family that wasn't there until somebody started it. A conversation held differently than the generation before would have held it. A pattern broken with a child, a sibling, a friend. A community that exists because one person kept inviting people until it did. Look for the one that's yours.
+Nobody tells you this: the Founder move probably already sits somewhere in your history. A tradition in a family that wasn't there until somebody started it. A conversation held differently than the generation before would have held it. A pattern broken with a child, a sibling, a friend. A community that exists because one person kept inviting people until it did. Look for the one that's yours.
 
 If you found it, you have already been the Founder. You just didn't call it that.
 

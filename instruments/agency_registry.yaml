@@ -4,8 +4,8 @@
 # Lives in instruments/ rather than the spec's tools/ because this repo has no
 # tools/ directory; instruments/ is where every measurement lives.
 #
-# STATUS 2026-08-02: W-1 and W-2 are RULED and CLOSED. E-1 is STANDING. W-3 and
-# W-4 remain open.
+# STATUS 2026-08-03: W-1, W-2 and W-3 are RULED and CLOSED. E-1 is STANDING and
+# now covers Grades 3 and 7. W-4 is the last open question.
 # Wendell's method was to scan first and rule on evidence, and it paid: both
 # rulings came out narrower than the spec proposed, and W-2's proposal turned
 # out to be aimed at the wrong pronoun. See `open_rulings` below.
@@ -930,7 +930,20 @@ exceptions:
       work rather than the local sentence. Grading it as a severity-4
       social-causal violation inverts the relationship: it would flag the thesis
       for being stated.
-    licensed_verbs: [teach, say, report]
+    licensed_verbs: [teach, say, report, tell]
+    # `tell` added 2026-08-03 with the Grade 7 extension. The original three
+    # were read off the ch3 liturgical block, which happens not to use it, so
+    # the list was a census of one passage rather than of the device. `tell` is
+    # the same act as `say` -- delivering a content -- and extending to Grade 7
+    # surfaced two sites that use it: "what the guilt never tells you" and
+    # "anxiety tells them what you need the outcome to look like".
+    #
+    # The second is worth a note, because its recipient is not the bearer:
+    # anxiety tells THEM, the people watching. That is still the emotion
+    # delivering a true content ABOUT its bearer, which is what E-1 licenses,
+    # and it is signal leaking rather than pressure exerted -- so it stays
+    # inside the boundary. An emotion telling a third party what to DO would
+    # not.
     licensed_shape: >
       The channel DELIVERS A TRUE CONTENT ABOUT THE PERSON'S OWN STATE OR
       VALUES. That is the whole of it. "Fear teaches you what you actually care
@@ -965,6 +978,38 @@ exceptions:
       - ch4:222  "what is this anger teaching me"
       - ch4:674  "a defence answers an accusation and Water made a report"
       - ch9:380  "The fear does not say / The fear says"
+    extended_to_grade_7: >
+      RULED by Wendell 2026-08-03, closing W-3. E-1 originally covered Grade 3,
+      the five channels. It now covers GRADE 7 as well -- shame, guilt, anxiety,
+      dread, worry, despair, resentment, contempt, burnout, the freeze, the
+      shutdown, the stuck.
+
+      The construction is identical and the registry was treating one as thesis
+      and the other as defect:
+
+        Sadness says "this was true. This connection was real."   ch3, protected
+        The shame says: this wound was done to me, therefore      ch5, Tier 2
+        I am broken.
+
+      ch5:376 settles it, because it runs the device as a matched pair one line
+      apart -- "The shame says: this wound was done to me, therefore I am
+      broken. The gift says: I know how to recognize it and stop it." A stuck
+      state reporting its content is the same act as a channel reporting its
+      content, and the book corrects the first with the second. That IS the
+      education-by-emotions register; it was never confined to the five that
+      happen to be channels.
+
+      The boundary is unchanged and still does the work: DELIVERY OF A TRUE
+      CONTENT ABOUT THE BEARER'S OWN STATE. A stuck state may say what it says
+      and tell what it tells. It still may not reward, punish, shame, blame or
+      forbid anyone -- exertion of pressure on another party stays illegal at
+      Grade 7 exactly as it does at Grade 3.
+
+      Four sites move under this: ch1:68 "what the guilt never tells you",
+      ch5:376 "The shame says", ch5:602 "anxiety tells them what you need the
+      outcome to look like", ch7:710 "the dread usually says that naming the
+      terms will cost you the belonging".
+
     handling: NEVER FLAG. Not an R-op. Not a W-question. Do not convert.
     precedence: >
       E-1 OUTRANKS SPEC_JORDAN_METAPHOR_ARC_CH1_CH3_2026-08-02.md section 5,
@@ -1035,12 +1080,49 @@ open_rulings:
       the seat, when the true subject is the reader.
     handling: "CLOSED. Converted in instruments/agency_w2.py and agency_w2b.py."
   W-3:
+    status_final: RULED 2026-08-03 — no cutoff. The premise expired.
     question: "Print scope severity cutoff."
     proposal: >
-      Perception + intention verbs on unlicensed/violating subjects in the
-      nine shipping chapters; all else parked to edition two.
-    status: UNRULED
-    handling: "Fix-phase only. Does not gate this analysis pass."
+      Perception + intention verbs on unlicensed/violating subjects in the nine
+      shipping chapters; all else parked to edition two.
+    status: RULED
+    ruling: >
+      NO CUTOFF, because there is nothing left to cut. W-3 was written to triage
+      a backlog and the backlog is gone.
+
+      Read on 2026-08-03, all 39 findings then standing: 18 at Tier 3, 15 at
+      Tier 2, 6 at Tier 1 -- and EIGHT of the 39 were real. The rest were
+      recorded keeps or false positives: `including` read as social-causal, "the
+      burnout claims in this book" where claims is a noun, "the game system
+      Wendell built" where Wendell built it.
+
+      Eight sites is not an edition-two problem. All eight were closed the same
+      day, four by extending E-1 to Grade 7 and four by conversion:
+
+        Most frameworks teach one
+        -> Most frameworks pick one
+
+        not a defense of the organizations that used tradition to protect power
+        -> not a defense of the people who used tradition to protect power
+
+        Then I did what the culture taught me to do
+        -> Then I did what every teacher, workshop, and well-meaning friend had
+           told me to do
+
+        The culture never tells you this
+        -> Nobody tells you this
+
+      The last two are LEDGER_CH9's own R4 and R1, drafted when that ledger was
+      written and unapplied until now.
+
+      WHAT THE QUESTION TURNED INTO. Stripped of the triage framing, W-3's real
+      content was a boundary question hiding inside it: four of the eight were
+      Grade 7 stuck states speaking, in a construction identical to the one E-1
+      protects at Grade 3. The registry was calling "Sadness says" thesis and
+      "The shame says" a defect. That is settled in `exceptions: E-1`, under
+      `extended_to_grade_7`, and it is the durable half of this ruling. The
+      cutoff half simply stopped applying.
+    handling: "CLOSED. Conversions in this commit; the E-1 extension carries the rest."
   W-4:
     question: "Placement of the confrontation beat (the C1 corollary dependency)."
     proposal: >

@@ -152,7 +152,7 @@ Detachment, engagement, and the nerve to look at what you'd rather not: three re
 
 ## Which Game Are You Playing
 
-Here they are, and each one pays out differently. Most frameworks teach one and treat the other two as mistakes. The move is to tell them apart, because you play each with a different hand.
+Here they are, and each one pays out differently. Most frameworks pick one and treat the other two as mistakes. The move is to tell them apart, because you play each with a different hand.
 
 **Games of Chance — right place, right time.**
 

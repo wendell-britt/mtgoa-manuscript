@@ -184,7 +184,7 @@ It went slowly, the way a fire goes out when you stop feeding it, a gradual loss
 
 You know which part of that paragraph is yours. I don't need to name it.
 
-The School of the Oath is not a defense of the organizations that used tradition to protect power. That happened. It kept happening. The thing you walked away from was real.
+The School of the Oath is not a defense of the people who used tradition to protect power. That happened. It kept happening. The thing you walked away from was real.
 
 Here's what it asks: what you built instead, whether it lasted, and whether you can see the connection.
 
