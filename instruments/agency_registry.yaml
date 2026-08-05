@@ -124,7 +124,14 @@ grades:
                # See `constraints` below -- they are ROLE NOUNS, and a role noun
                # takes the verbs of whoever fills the role.
                the Shaman, the Challenger, the Regent, the Architect,
-               the Diplomat, the Sage, the Player]
+               the Diplomat, the Sage, the Player,
+               # RULED by Wendell 2026-08-03. The six Schools, moved here from
+               # Grade 6. See `constraints` -- every one is signed by a named
+               # Head, so the mechanism is not merely recoverable, it is on the
+               # page in the chapter's own signature block.
+               the school, the School of the Body, the School of the Line,
+               the School of the Oath, the School of the Pattern,
+               the School of the Bridge, the School of the Horizon]
     verb_classes: [perception, intention, speech, social-causal, mechanical,
                    directional, causal-bare, pattern]
     trace: >
@@ -172,6 +179,42 @@ grades:
 
       `Diplomat shadow` stays at GRADE 2. A shadow is an interior distortion,
       which is a different thing from the Face itself.
+
+      THE SCHOOLS, ruled 2026-08-03, moved here from Grade 6 where the pattern
+      ceiling made every one of their verbs a violation. Twelve constructions
+      across five chapters -- teaches x5, takes x2, makes, attracts, applies,
+      replaces, exists, stands -- and none of them was ever a defect.
+
+      An institution noun takes the verbs of whoever staffs it, the way "the
+      university announced" does. That is the Faces argument one step out, and
+      here it is stronger, because the staff are not merely recoverable -- they
+      are NAMED, TITLED, AND THEY SIGN THE CHAPTERS:
+
+        the Body      Maera Voss, Keeper of First Signals
+        the Line      Corin Ash, Master of the Clean No
+        the Oath      Sera Quill, Keeper of Continuance
+        the Pattern   Irix Vale, Patternwright
+        the Bridge    Elian Cross, Keeper of the Walk-Away Terms
+        the Horizon   Thalen Orr, Keeper of the Far Game
+
+      Each signs "Head of the School of the X" beneath their chapter's treatise.
+      So "The School of the Pattern teaches in language that has a bad record"
+      is Irix Vale and the faculty teaching, and C1 is satisfied more explicitly
+      here than for any other entity in the book.
+
+      The gap was that `Heads` has been a Grade 1 entity since the registry was
+      built while the Schools they head sat at Grade 6 -- the people licensed,
+      the institution they run not.
+
+      THE CONSTRAINT, matching the Faces: THE HEAD MUST BE RECOVERABLE. A School
+      acting where no Head is nameable is the flag. All six are nameable today.
+
+      The full names are listed as entities in their own right, not just `the
+      school`, because the recall net breaks a match when a registry entity is a
+      PREFIX of a longer proper name -- it read `of` in "the School of the
+      Pattern teaches" as an intervening phrase and lost all twelve sites. That
+      limit is recorded at the filter in agency_grep.py; listing the full names
+      is what resolves it here.
 
   - id: 2
     name: Animate parts
@@ -376,7 +419,7 @@ grades:
                capitalism, patriarchy, "white supremacy", racism, sexism,
                ableism, the hierarchy, the structure, the norm, the norms,
                the pattern, the dynamic, the market, the economy, the company,
-               the industry, the workplace, the team, the family, the school,
+               the industry, the workplace, the team, the family,
                # Added 2026-08-02 on Wendell's instruction, after the audit found
                # both used heavily and defined nowhere. Two agents refused to
                # grade "the village" rather than guess, which is C2 working.
