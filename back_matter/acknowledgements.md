@@ -8,7 +8,7 @@ Janet Robinson, who is the reason BARs exist at all. JJ Airuoyo, who took me in 
 
 Zephyr James and Sam Scharrer, who marketed and launched the Kickstarter. That is a different skill from writing a book, and it is the one I have least of.
 
-The backers who funded it. Their names are on the page that follows, and the book exists because they paid for it before there was anything to pay for. The same goes for everyone who has put money into a fundraiser somewhere along the road to getting this finished.
+The backers who funded it. The book exists because they paid for it before there was anything to pay for. The same goes for everyone who has put money into a fundraiser somewhere along the road to getting this finished.
 
 Dan and Sunny. Jacob Canter. AJ Cohen. Red Proschaka. The Meddling Aunties group chat.
 
