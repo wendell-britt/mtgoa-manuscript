@@ -303,6 +303,16 @@ MOD = {"failed", "same", "next", "real", "own", "first", "last", "only", "whole"
 INTERVENE = PREP - {"to"}
 
 
+#    KNOWN LIMIT, measured 2026-08-03 on the pattern block. When a registry
+#    entity is a PREFIX of a longer proper name, everything between the entity's
+#    head and the verb reads as intervening material and breaks the match. The
+#    registry lists `the school`; the book writes "the School of the Pattern
+#    teaches", so `of` triggers the break and the site is invisible. Twelve
+#    School-of-the-X constructions are hidden this way, five of them `teaches`.
+#    The fix is to register the six School names as entities in their own right,
+#    which waits on the open ruling about what grade the Schools take.
+
+
 def _is_object(toks, i, ent_len):
     """Entity sits in object or oblique position, so the verb to its right is
     not its verb."""
