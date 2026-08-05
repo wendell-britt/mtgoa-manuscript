@@ -221,7 +221,7 @@ Sera would say the ledger holds it. The ledger holds what a ledger can hold. Iri
 
 I have read all five of them for thirty years and nobody has read me, which I arranged, and which I am now told is a course I never took. I am the oldest first-year at this school. That is a joke and it is also the timetable.
 
-The Sage described here is not the guru on the mountain who has risen above it all. Detachment is a real capacity with real uses; the Sage runs it deliberately, for a purpose and a duration, the way you'd use any other instrument. This describes something else. Call it *committed seeing*: the capacity to take in all the altitudes and still choose to stand somewhere. To play the game the moment requires without mistaking it for the only game there is. To know when to draw the line and when to step back. To see the whole map and still walk your piece of it.
+The Sage described here is not the guru on the mountain who has risen above it all. Detachment has uses; the Sage runs it deliberately, for a purpose and a duration, the way you'd use any other instrument. This describes something else. Call it *committed seeing*: the capacity to take in all the altitudes and still choose to stand somewhere. The map is a claim you test against the people living inside it, not a perch you use to read them from. You play the game the moment requires without mistaking it for the only game there is. You draw the line or step back, then find out what your choice did.
 
 The Sage arrives when you've stood in the other five long enough to see them from the outside. You've felt with the Shaman. You've drawn lines with the Challenger. You've carried forward with the Regent. You've built with the Architect. You've held the field with the Diplomat. At each step, you also watched: *which game am I in, and which one does this moment actually require?*
 
@@ -677,11 +677,11 @@ You pause at the door. You take one breath. You ask: *which game are we actually
 
 **Why it matters:** The naming doesn't solve it. It makes it possible to choose what to do next. Once you've named the game, you're no longer being played by it. You're choosing whether to play it.
 
-**Working vs. performed:** The shadow version names it and then feels superior for knowing. *This is a power-game table* said with the energy of an offering is service. Said with the energy of *I see what you can't* is shadow. 
+**Working vs. performed:** The shadow version names the game and feels superior for knowing. Service names what you see as an offer people can correct: *I think we may be treating this as a strategy problem when somebody needs a line. Does that fit for you?* The sentence carries your reading without demanding that anyone live inside it.
 
-**The test:** Do people settle when you name it, or do they brace? Settling is service. Bracing is shadow.
+**The test:** After you name it, can the people affected correct you, and does your next move change if they do? A reading that cannot be corrected is a verdict wearing a framework.
 
-Do not use this move to stay in your own head while somebody needs a line, a decision, or an apology. Do not use it to explain why you're above the mess while everyone else stays inside it. If the naming only makes you harder to reach, the distortion is already driving.
+Do not use this move to stay in your own head while somebody needs a line, a decision, or an apology. Do not use it to explain why you're above the mess while everyone else stays inside it. If the naming makes you harder to reach, or gives you less to answer for, the distortion is already driving.
 
 ### Move 2: Switch Games Deliberately
 
@@ -714,7 +714,7 @@ The distortion skips this move and stays at the whole-board view, because coming
 
 **Working vs. performed:** Returning becomes retreating. The Sage who can't hold the view uses the return to avoid the weight of what they saw. *I was too serious up there. Let me come back to where it is simpler.* That's exhaustion calling itself wisdom, and it does a passable impression of the Returner. The test: when you return, does it feel like coming home to the people in front of you, or like abandoning the view? Coming home is the practice.
 
-**Example:** Kit's mother died in March and Kit is running the same three arguments about the funeral that they ran in April. You can see the whole board, including the part where none of this is about the funeral. Go back to the narrower game anyway: talk about the caterer, at length, seriously. Do not name the pattern. Naming it would be accurate and would tell Kit they are being watched from above, and the caterer is the only game they can be in this month.
+**Example:** Kit's mother died in March and Kit is running the same three arguments about the funeral that they ran in April. You can see the whole board, including the part where none of this is about the funeral. Ask what help would feel useful before you name the pattern. If Kit wants to talk about the caterer, talk about the caterer at length, seriously. If Kit asks what you see, offer it as a question they can refuse. The whole board does not give you the right to decide which game Kit can be in this month.
 
 ### Move 4: Put a Game Down
 
