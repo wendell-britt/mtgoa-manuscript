@@ -682,6 +682,57 @@ Do not use the meta-view to make yourself unaccountable. If your clarity only ma
 
 **Example:** Ade has the test result and a fifty per cent chance of the thing that killed his father at sixty. He has decided not to tell his brother. You can see the whole of it: the brother's right to know, the family pattern of not saying, the ten years of managing this alone. Hold all of it and stand on the ground: *what do you want to do on Sunday.* The whole board stays available to you and does nothing on the table. Ade decides about his brother.
 
+The moves are what you do. The next question is where.
+
+---
+
+### Where You'll Actually Spend the View
+
+The parable showed one of the four: Raise Awareness. *The Sage could look at the conflict and say: this is a boundary issue dressed up in strategy language*, naming the agenda under the agenda in front of the meeting running it. That is the domain where the view stops being yours and becomes something a table has to account for, and it is the Sage's steepest, because naming a group's real subject to the group is where this gift gets heard as its opposite.
+
+The view has four domains, and one cheap habit that is none of them. The cheap habit is the second map. You look at a live problem, the first framework explains most of it, and rather than do anything with what it explains, you go and find a framework that explains more. The maps are good, one at a time. Reaching for another one costs you nothing, because nobody at the table has to answer a map, and from the inside it looks exactly like taking the problem more seriously, which is why it lasts for years. Nothing at the table moves. The four domains are where the view finally leaves you: the game named to the person inside it, the real agenda said out loud at the table running it, the specific help asked for where the framework was easier, the game a group is stuck in named so the group can move. Each costs more than a map, because each one puts the view where a person other than you can tell whether it helped.
+
+These are not four things to study. Pick where you'll spend the view this week, and pick the domain you keep avoiding. If the view only ever comes back around as a better account of what is happening here, held in your own head and delivered nowhere, you did not make the Sage's move. You mapped it.
+
+### How to Spend It So It Serves
+
+When you spend the view, the minute around it decides whether the table can use what you saw, and the same three moves decide it in every domain.
+
+**Say it in the game they are playing, not from the whole board.** One read has two vocabularies. *We are running a strategy conversation over a power problem* is accurate, and it comes from a place nobody at the table is standing in, so it arrives as a grade. The in-game sentence has to name a particular: what got crossed, who has been waiting since March, what the plan does not cover. Same read, same size, and the words start where the work is.
+
+**Give what the game costs.** Seeing which game somebody is in tells you what would help, and what would help is usually specific and dull: an hour on Thursday, a name said to somebody with authority, a seat held while they say the worst of it, a no said in front of them. The Damaged Self offers a framework instead, because a framework travels across a table without you having to be anywhere, and asks nothing of your calendar. The test is whether what you gave came out of your week.
+
+**Don't go up afterward.** The expensive stretch comes after the naming, and the Sage's exit does not use the door. You keep your seat and your pleasant face and you leave by altitude: the table turns into a case and the people turn into material. What staying looks like is small. The next sentence out of you is about the work in front of everyone, not about the pattern you noticed. The exit even has a courteous phrasing, *I'll leave you to sit with that*, and it is only ever spoken on the way out.
+
+**Direct Action — the game named to the person inside it**
+
+*You're winning when:* you told the person in front of you which game they were in, in the words of that game and to their face rather than to somebody else afterward, and you were still sitting there when they answered. It cost you your standing as the one who notices everything and is easy to be around. The proof is that they could use it that day.
+
+**Raise Awareness — the real agenda said at the table**
+
+*You're winning when:* you said what the meeting was actually about, the agenda underneath the agenda, in front of the people running it rather than to the two who already saw it, and it cost you your seat as the one nobody has to account to. The proof is that the meeting spent the rest of the hour on the game it was really in.
+
+**Gather Resources — the specific help asked for, not the map**
+
+*You're winning when:* you named what this particular game takes (the hour, the person, the money, the cover) and asked somebody who could grant it or refuse it, instead of the account of the situation you are better at giving. It cost you the position of the one who understands the problem best and carries none of it. The proof is that the help arrived in a form somebody could use that week.
+
+**Skillful Organizing — the game a group is stuck in, named**
+
+*You're winning when:* you told a group which game it had been playing for a month, while it was still playing it, in the group's own words and without a diagram, and it cost you being read as one of them for a while afterward. The proof is that the group argued about the real game next, which is worse to sit in and is the only argument that finishes.
+
+### The Tell
+
+None of the four markers asked why you named it. That question is real, and it lands harder on the Sage than on the five before, because a Sage who names the game so the table will know the game could be named has taken the second map out in public. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer it:
+
+- **Direct Action.** Did you name their game so they could move inside it, or so they would know you had seen it?
+- **Raise Awareness.** Could the meeting use what you said, or could it only tell what you are?
+- **Gather Resources.** You asked for the hour, and the account of the problem was sitting right there. Which one were you reaching for?
+- **Skillful Organizing.** The group got unstuck; did it have to be your sentence that unstuck it?
+
+Each Tell targets the Sage's signature failure: the view spent on standing above the table instead of on the people at it.
+
+---
+
 ## Your Twenty Cards
 
 The grid again, sixth operation of six, the last one. Five moves down, four domains across, twenty cards. These are the Sage's.

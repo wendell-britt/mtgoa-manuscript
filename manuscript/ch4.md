@@ -707,6 +707,55 @@ In practice: When you feel yourself reaching for a qualifier, stop. Take the qua
 
 **The test:** The line left your mouth without an essay, a justification, or an apology attached. Count the words afterward: more than you needed means you were explaining, whatever they did in response.
 
+The moves are what you do. The next question is where.
+
+---
+
+### Where You'll Actually Spend the Line
+
+The parable showed one of the four: Skillful Organizing, the Challenger speaking first at councils, saying the thing that needed saying before anybody could bear to hear it. That is the domain where a line stops belonging to you and starts holding a group up.
+
+The line has four domains, and one cheap habit that is none of them. The cheap habit is the assessment. You see exactly what is wrong, you name it accurately, more accurately than anyone else at the table, and nothing in the world moves. An assessment costs nothing, because being right is not a position anybody has to argue with. It also feels almost identical to courage from the inside. That is why it lasts for years. The four domains are where the line finally lands: the limit said to the person crossing it, the truth named where naming it costs you, the no said in your own name, and the boundary a group has been negotiating around for months. Each costs more than an assessment, because each one puts something on the table that somebody now has to answer.
+
+These are not four things to study. Pick where you'll spend the line this week, and pick the domain you keep avoiding. If the line only ever arrives as analysis, delivered well, to people who already agree with you, you did not make the Challenger's move. You described it.
+
+### How to Draw It So It Holds
+
+When you draw a line, the seconds on either side of it decide whether it stands, and the same three moves decide it in every domain.
+
+**Draw it at the size it arrived.** The charge tells you how big the crossing was, and the auditor's first offer is always to round it down, from a line to a note, from now to later, from you to somebody standing closer to it. Take the offer and you draw the line a mild irritation would draw, which is a preference in a firmer voice. The size of the line has to match the size of the crossing, in every one of the four domains, or you filed it.
+
+**Aim at what happened, not at who they are.** *That decision put the cost on the person least able to carry it* is a line. *You never think about anyone but yourself* is a verdict on a character, and a verdict gives the other person something to defend instead of something to answer. The auditor will tell you the second version is more honest. It is only more satisfying.
+
+**Do not take it back in the next four seconds.** The silence after a line is the most expensive four seconds you will spend in any of the four domains, and most lines get withdrawn there, before anybody has objected to them, by the person who drew them. Let the silence do its work, and let them answer it. Adding a softener is taking it back. So is a joke. So is *does that make sense?* That has never once been a question about whether it made sense.
+
+**Direct Action — the limit said to the person crossing it**
+
+*You're winning when:* you said the limit to the person who was crossing it, in the moment and not afterward to somebody else, in one sentence with nothing attached to the end of it, and it cost you their read of you as easy to work with. The proof is that the limit now exists between you, out loud, and they have to decide what to do about it.
+
+**Raise Awareness — named where naming it costs you**
+
+*You're winning when:* you said what was actually happening in front of the people who would rather it stayed unnamed, including the person it implicates, rather than to the people who already agreed with you. It cost you the safety of the accurate private complaint. The proof is that it sits on the record, in the place where it can change something.
+
+**Gather Resources — the no said in your own name**
+
+*You're winning when:* you refused a demand on time, money or attention that somebody with less standing could not have refused, and you refused it in your own name rather than on their behalf without asking. It cost you your reputation as the person who absorbs. The proof is that the capacity stayed with the person who needed it.
+
+**Skillful Organizing — the boundary the group won't draw**
+
+*You're winning when:* you drew the line the coalition has been negotiating around for months, the one everybody can feel and nobody will name, so that the work had an edge to move against. It cost you the position of the reasonable one. The proof is that the group now has a limit to organize inside instead of a fog to keep meeting about.
+
+### The Tell
+
+None of the four markers asked why you drew it. That question is real, and it belongs to the Challenger, because a Challenger who draws a line so that a line will have been drawn has run the assessment at a higher volume. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer it:
+
+- **Direct Action.** Did you say the limit to change what happens next, or to be the one who would not let it pass?
+- **Raise Awareness.** Did you name it to move the group, or to be on record having named it?
+- **Gather Resources.** Did you refuse to protect somebody's capacity, or to be the one with standards?
+- **Skillful Organizing.** Did you draw the boundary so the work could move, or so everybody would know where you stand?
+
+Each Tell targets the Challenger's signature failure: the line drawn for the record instead of for the outcome.
+
 ---
 
 ## Your Twenty Cards
