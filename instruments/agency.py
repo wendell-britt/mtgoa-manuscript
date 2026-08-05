@@ -81,7 +81,7 @@ anyone everyone nobody wendell jordan maera ash quill vale cross orr bram tull
 architect challenger regent diplomat sage shaman player villager villagers
 one
 protector controller skeptic fixer healer victim daemon daemons
-self body
+self body auditor referee
 face faces
 dana priya marcus nia sam rosa imani""".split())
 
@@ -93,6 +93,11 @@ dana priya marcus nia sam rosa imani""".split())
 # of the book's headline agency number was the book working correctly.
 # `self` and `body` are here for the Damaged Self and the Emotional Body, whose
 # head noun is the second word.
+#
+# `auditor` and `referee` joined 2026-08-03 on the same reasoning: they are the
+# Skeptic's and the Controller's names inside ch4 and ch3, used as often as the
+# formal terms. `The auditor will tell you...` is a daemon speaking, not an
+# abstraction acting.
 #
 # `face`/`faces` and the named people joined on the same ruling, 2026-08-03. The six
 # Faces were already here by name and the generic word was not, so `the six Faces
