@@ -29,6 +29,11 @@ not unfinished structural work.
 WARN 0; `gate.py` reports 0 on every surface; anchor verification clean; `compile.py --check`
 passes. The pass changed only `manuscript/ch2.md` and this tracker on this branch.
 
+**Focused follow-up.** The remaining Protector passage now defines the allyship consequence,
+the Damaged Self bridge, and the practice through concrete decisions. Every daemon roster entry
+now has a direct job, ally use, and distortion example; the closing joystick handoff now matches
+the Protector teaching. The same verification set remains clean.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction

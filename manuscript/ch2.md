@@ -288,21 +288,21 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 **As a demon:** it turns a story of harm into the only thing anyone can see, leaving the person with less access to their choices. *In play:* someone tells you how they were wronged, and you focus so completely on the injury that neither of you can see what support or action would help now.
 
 #### The Damaged Self
-**Job:** To take the damage. When nothing else can keep a hit out, it absorbs the hit itself, so what it's carrying survives. It's the Protector's last resort.
-**As an ally:** it turns what it survives into strength, sorting the damage that builds you from the damage that only breaks you. *In play:* you take a real hit standing up for someone, and instead of wrecking you, it leaves you steadier and more able to do it again.
-**As a demon:** it absorbs every hit going, without a word, until it's soaking up harm that was never yours to carry. *In play:* you take on more and more of someone else's load without ever saying so, until you're depleted and no one, including you, has noticed what it's costing.
+**Job:** To absorb harm when no other defense keeps it out. It is the Protector's last resort.
+**As an ally:** it helps you recognize what you survived without making the harm your identity. *In play:* you take a real hit standing up for someone, recover from it, and learn what support or boundary would help you do the work again.
+**As a demon:** it takes on harm without telling anyone, including you, what it costs. *In play:* you carry more and more of someone else's load until you are depleted and no one has named what you have been carrying.
 
-Start with the first daemon you recognize. You do not need to memorize the roster or master the Guides before you begin. Recognition is where a move begins.
+Start with the first daemon you recognize. You do not need to memorize the roster or master the Guides before you begin. Recognition gives you a place to make a choice.
 
 ### Taking the Joystick
 
-You just saw the Protector grab the joystick and meet a hard conversation with machinery built for a predator. It only comes first; any of the seven can end up holding the joystick. When one of them does, it plays the only way it knows how: not to lose. It defends, it performs, it manages how things look, and the person on the other side of your help can feel it. The care underneath is real; the missing piece is you on the joystick, while a part of you plays the game on its own.
+The Protector is only the first pattern you may meet. Any of the seven can take the joystick before you know it. When a daemon holds it, the pattern runs its job without your judgment: it may defend, perform, manage appearances, or take over. The care underneath can be real, but the person you mean to support feels the pattern before they feel that care.
 
-The whole of this book is one move, made over and over: getting you back on the joystick. You are the player at the center of the Forest, and reaching that center and taking the joystick are the same motion. Fight your way back to yourself, and your hands close on the joystick in the same instant.
+The book teaches one move again and again: notice the pattern, then return yourself to the choice. That is what taking the joystick means.
 
-When you're the one holding it, the gang becomes a party. Same seven daemons, same seven jobs, pointed a different direction. The Skeptic still doubts, now to pressure-test a plan so it holds up. The Controller still sets the standard, and the standard becomes "how do I grow" in place of "how do I avoid getting caught." The Victim still tells the story, now to invite someone in. The parts that were running you become the party that plays alongside you.
+When you hold the joystick, the same seven jobs become capacities you can direct. The Skeptic pressure-tests a plan. The Controller helps you act by your values. The Victim helps you witness another person's pain without taking over their story. A pattern that once ran you becomes a capacity you can use with intention.
 
-That is the game itself, not the tutorial for it. It's a skill with a difficulty curve, one you can visibly get better at: taking the joystick more often, faster, when the stakes are higher. You have been playing this game for years. From here, you get to play it on purpose.
+This is the game itself. You get better at taking the joystick more often, sooner, and when the stakes are higher. You have been playing it for years. From here, you get to play it on purpose.
 
 ### Superpower Definition
 
