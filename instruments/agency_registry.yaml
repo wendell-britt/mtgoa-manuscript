@@ -843,6 +843,15 @@ sense_exceptions:
     action: clear
     found_in: [the Grade 6 batch]
 
+  # NOT a sense exception. Recorded here because the pattern block was read on
+  # 2026-08-03 and this is where a later pass will look. ch3:152, "They called
+  # the pattern efficiency, and the pattern starved them." `starve` is in no
+  # class and should stay out: starving is a DEPRIVATION, low-order and exterior
+  # in the AQAL terms Wendell set for the field. A famine starves people and no
+  # mind is claimed. The mechanism is on the page one paragraph up -- "cut off
+  # from the very source of energy that would have sustained them" -- so C1 is
+  # satisfied, and the sentence is a closing turn worth keeping.
+
   - verb: require
     classed_as: social-causal
     wrong_because: >
