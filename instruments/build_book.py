@@ -94,10 +94,14 @@ SPINE = [
     ("back",     "Acknowledgements",        "back_matter/acknowledgements.md",   GAP),
     # The acknowledgements say "their names are on the page that follows", so this
     # is a live forward reference and has to sit immediately after them. Alphabetical
-    # by Wendell's ruling 2026-07-30, no tiers. It stays a GAP rather than a BLOCKER
-    # because only the backer list is missing, and holding the whole build hostage to
-    # a list that arrives from Kickstarter would stop the book for a data export.
-    ("back",     "Kickstarter backers",     "back_matter/kickstarter_backers.md", GAP),
+    # by Wendell's ruling 2026-07-30, no tiers.
+    #
+    # OPTIONAL from 2026-08-03, ruled by Wendell: *"we're removing kickstarter backers
+    # as necessary for this build."* It was a GAP on the reasoning that a reader would
+    # notice its absence. For this build they will not, because there is nothing yet
+    # for the page to list, and a gap banner that fires every build is a banner nobody
+    # reads. Raise it back to GAP when the backer export exists.
+    ("back",     "Kickstarter backers",     "back_matter/kickstarter_backers.md", OPTIONAL),
     ("back",     "About the author",        "back_matter/about_the_author.md",   BLOCKER),
     # The enrollment page is the only place the book can hand a reader the app
     # deliberately. Twelve mentions of bars-engine and no address is a dead end.
