@@ -554,6 +554,35 @@ grades:
       # names that boundary independently -- "prefer the decision-maker,
       # incentive, record, or process ... over systems that say, teach, reward
       # or understand" -- and the two documents agree here.
+      # RULED by Wendell 2026-08-03, reverting two conversions made earlier the
+      # same day. LEDGER_CH9's R4 and R1 were applied and then taken back out.
+      #
+      #   kept  Then I did what THE CULTURE TAUGHT ME to do: I looked outward
+      #         for the solution.
+      #   kept  THE CULTURE NEVER TELLS YOU THIS: the Founder move probably
+      #         already sits somewhere in your history.
+      #
+      # My reading of why, recorded as mine rather than as his: R4 replaced "the
+      # culture" with "every teacher, workshop, and well-meaning friend", which
+      # invents a specific roster where the original was honestly general. DL-36
+      # names that exact failure -- fabricated specificity, "you cannot make a
+      # hypothetical concrete by adding details" -- and closes on "vagueness
+      # admits what it is; a definite article over a blank does not." R1's
+      # "Nobody tells you this" is the milder loss: it drops the source of the
+      # silence, and naming the source is the sentence's whole point.
+      #
+      # Two verbs, and the mechanism is the same one the Schools ruling used:
+      # a culture transmits through the people carrying it, and in ch9:247 the
+      # transmitters are the paragraph's own subject -- "I came to it the way
+      # most people come to it."
+      #
+      # Still barred: intention, and every social-causal verb other than teach.
+      # The culture may teach and tell. It may not reward, punish, shame or
+      # forbid, because those need a party on the receiving end and a will
+      # aimed at them.
+      the culture: [teach, tell]
+      culture: [teach, tell]
+
       the system: [produce, move]
       the systems: [produce, move]
       a system: [produce, move]
@@ -1105,15 +1134,12 @@ open_rulings:
         not a defense of the organizations that used tradition to protect power
         -> not a defense of the people who used tradition to protect power
 
-        Then I did what the culture taught me to do
-        -> Then I did what every teacher, workshop, and well-meaning friend had
-           told me to do
-
-        The culture never tells you this
-        -> Nobody tells you this
-
-      The last two are LEDGER_CH9's own R4 and R1, drafted when that ledger was
-      written and unapplied until now.
+      The last two conversions were LEDGER_CH9's own R4 and R1, drafted when
+      that ledger was written. They were applied and then REVERTED the same day
+      on Wendell's ruling -- "keep these and lose the rest" -- so `the culture
+      taught me to do` and `The culture never tells you this` both ship as
+      written, under an entity_partial in Grade 6. So W-3 closed at two
+      conversions, not four, plus the four the E-1 extension carries.
 
       WHAT THE QUESTION TURNED INTO. Stripped of the triage framing, W-3's real
       content was a boundary question hiding inside it: four of the eight were
