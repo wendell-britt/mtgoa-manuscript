@@ -90,7 +90,7 @@ The Architect, confronted with this, did what Architects do: doubled down on the
 
 The villagers did not want to be shown. They wanted to be heard. The Architect, in the Architect's characteristic way, had already moved past hearing to designing.
 
-The Architect's oldest wound lives inside the gift. The Architect's clarity doubles as the Architect's blind spot. The Architect sees systems so clearly that the people inside the systems become abstractions: inputs, outputs, leverage points. The Architect can design for people the system has forgotten while simultaneously forgetting to ask the people what they need. The Architect can commit so hard to the elegant solution that the solution arrives before anyone gets asked.
+The Architect's oldest wound lives inside the gift. The Architect's clarity doubles as the Architect's blind spot. The Architect sees systems so clearly that the people inside the systems become abstractions: inputs, outputs, leverage points. The Architect can design for people everyone else forgot while simultaneously forgetting to ask the people what they need. The Architect can commit so hard to the elegant solution that the solution arrives before anyone gets asked.
 
 The villagers needed something the Architect didn't know how to give: presence. Warmth. The simple act of sitting with the difficulty before trying to redesign it.
 
@@ -298,7 +298,7 @@ The **Inventor** runs on Wood. Joy detects vitality (what wants to exist and doe
 
 The **Optimizer** runs on Water. Sadness detects decay, the process that used to work and doesn't anymore, and stuck Sadness keeps the dead process running out of loyalty to the people who built it. Metabolized, it becomes Poignance: you can honor what a structure did and retire it in the same motion. *I can connect.* Most systems fail here, not from missing the decay, but from failing to feel the loss all the way through and so never letting the thing go.
 
-The five modes are also the five ways the Architect moves through the WAVE-Spiral at altitude. Wake: notice which mode fires and what it detects. Open: let the signal in before it becomes a proposal. Clean: locate where it landed, and stabilize there. Grow: find what the system has to teach. Show: move from the integrated understanding. Here the Architect's practice and the Shaman's emotional alchemy work together, not as two systems, but as one system seen from two altitudes.
+The five modes are also the five ways the Architect moves through the WAVE-Spiral at altitude. Wake: notice which mode fires and what it detects. Open: let the signal in before it becomes a proposal. Clean: locate where it landed, and stabilize there. Grow: find what you learned from it. Show: move from the integrated understanding. Here the Architect's practice and the Shaman's emotional alchemy work together, not as two systems, but as one system seen from two altitudes.
 
 The Architect's flow cycle: Observe → Model → Design → Deploy → Observe (new state), and out through Hand Off. Each deployment produces new observations, which produce new models, which produce new designs; the iteration is genuine and it is not the point. The Architect is finished when somebody else can run it and change it. Everything before that is the work of getting to a system worth handing over.
 

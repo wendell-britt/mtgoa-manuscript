@@ -494,6 +494,27 @@ grades:
       # capacity belongs to, never by flattening the sentence.
       the field: [carry, move, push, fill, run, turn]
 
+      # RULED by Wendell 2026-08-03. ch6 is The Architect, "Fixing the Condition
+      # Instead of the Person", and the mechanism by which a system produces an
+      # outcome is that chapter's entire content -- incentive structure,
+      # leverage point, "the system is working exactly as designed". No entity
+      # in the book has its mechanism more explicitly on the page, which is what
+      # C1 asks for. "Understanding WHY a system produces the outcomes it
+      # produces" is the chapter's own definition of structural design.
+      #
+      # Two verbs, on the same narrow principle as the field: the ones actually
+      # on the page, not the classes they belong to. `produce` is causal-bare
+      # and `move` is directional, and Grade 6 licenses neither.
+      #
+      # Still barred: perception, intention, speech, social-causal. A system
+      # does not teach, forget, want or say. SPEC_JORDAN_METAPHOR_ARC_CH4_CH6
+      # names that boundary independently -- "prefer the decision-maker,
+      # incentive, record, or process ... over systems that say, teach, reward
+      # or understand" -- and the two documents agree here.
+      the system: [produce, move]
+      the systems: [produce, move]
+      a system: [produce, move]
+
 
   - id: 7
     name: Shame and stuck states
