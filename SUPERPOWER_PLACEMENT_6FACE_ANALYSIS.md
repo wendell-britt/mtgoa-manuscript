@@ -241,7 +241,7 @@ page sharpens an answer she already has rather than supplying one she lacks.
 ## Open questions for Wendell
 
 1. ~~**Does the superpower page have a stable URL that will outlive the print run?**~~ **CLOSED 2026-08-04: it does.** Recommended that the pointer still name `masteringallyship.com` the way `ch1:83` does rather than printing a deep link, so a later path change cannot strand the book.
-2. **Does the page diagnose the six Faces' superpowers, or the personal wound-to-capacity formula at `ch2:334`?** They are different instruments and the pointer's wording depends on which.
+2. ~~**Does the page diagnose the six Faces' superpowers, or the personal wound-to-capacity formula at `ch2:334`?**~~ **CLOSED 2026-08-04: the superpowers, not the Faces.** Which made the two objects' difference load-bearing — `ch2:334` derives a superpower from her history, `ch3`–`ch8` derive six from Faces, and the two instruments can disagree. `ch9:664` now says so rather than implying the page is a longer version of the same answer.
 3. **Sheet line wording** — the A2 candidate at `ch9:664` is drafted and measured, awaiting the same ruling.
 
 ---

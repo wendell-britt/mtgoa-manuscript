@@ -8,6 +8,9 @@ round-trip it. **Drift between what the page says and what the book says would b
 This file is the drift check, and it is the third condition of
 `SUPERPOWER_PLACEMENT_6FACE_ANALYSIS.md`.
 
+**What the page is, ruled 2026-08-04:** it diagnoses **the superpowers, not the Faces**. See the section
+below on why that distinction had to reach the prose.
+
 **Status:** book side filled from the manuscript. **Page side is empty and only Wendell can fill
 it** — the environment's network policy blocks masteringallyship.com, so the page could not be
 read from here. Not drafted, on the `author-slot` rule: inventing what the page says is exactly
@@ -92,10 +95,22 @@ routing to either instrument:
 >
 > Formula: **adaptation under pressure → conscious integration → intentional contribution**.
 
-`WENDELL:` **does the page diagnose the six Faces' superpowers, or this personal formula, or both?**
-Open question 2 of `SUPERPOWER_PLACEMENT_6FACE_ANALYSIS.md`, and the pointer's wording at `ch9:664`
-reads correctly for either, so nothing is blocked on the answer. It only changes how sharp the
-parenthetical can be.
+**ANSWERED 2026-08-04, by Wendell: the page diagnoses the superpowers, not the Faces.** So the page
+answers *this* question — the wound-derived one — and not the Face-derived one the six sections above
+carry.
+
+**That distinction is load-bearing and the book nearly lost it.** `ch2:334`'s superpower is built from
+what happened to her. The six at `ch3`–`ch8` are built from a Face. They share a word and they are not
+the same object, and a reader who runs both instruments can get two different answers with nothing
+telling her that is expected. The first version of the `ch9:664` pointer called the page *a longer
+version of this*, which read the two as one thing. Corrected the same day:
+
+> (The one you built out of your own history is a different question, and the page at
+> masteringallyship.com answers it. Its answer does not have to match the superpower your Face came
+> with.)
+
+The sheet line above it still routes through her Face, which is what keeps it answerable with the book
+shut. The page is the second instrument, named as a second instrument.
 
 ---
 
@@ -107,7 +122,10 @@ Run by eye whenever the page changes or the book's superpower sites change:
 2. **The Sage is a compound**, not a single name.
 3. **Storyteller and Strategist appear at all** — both were named 2026-08-04 and any page built
    before that date predates them.
-4. **No seventh superpower**, and no superpower attached to a Face the book gives a different one.
+4. **No seventh superpower.** Face-attachment is *not* a drift test: the page diagnoses superpowers
+   directly and may not organise by Face at all. What would be a defect is the page implying a reader's
+   superpower follows from her Face, since `ch2:334` derives it from her history instead, and `ch9:664`
+   now says in the book that the two answers need not match.
 5. **The page does not explain the six as a set in a way the book contradicts.** The book teaches
    each at its own altitude and never as a table; the page may table them, and that is fine as
    long as no definition disagrees with the quotes above.
