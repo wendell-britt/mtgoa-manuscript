@@ -62,7 +62,7 @@ The years hand you one and not the other. You have the analysis, faster and shar
 
 The gap comes with an explanation attached, and the explanation is wrong. It says the problem is you: not committed enough, not brave enough, still too attached to being comfortable. You have carried some form of that for a while now, and it gets heavier with every book you finish.
 
-The accurate explanation is duller. What you built is real, and it is half of a two-part skill. You build the other half live: run a concept while something is happening, catch an older pattern in the act, give it a different job, and do that enough times that your hands know it before you do. Reading further into your half was never going to start the other one.
+The accurate explanation is duller. What you built is real, and it is half of a two-part skill. The half you have describes what is happening. The half you are missing changes it. You build that one live: run a concept while something is happening, catch an older pattern in the act, give it a different job, and do that enough times that your hands know it before you do. Reading further into your half was never going to start the other one.
 
 The old allyship produces moments of brilliance and long stretches of exhaustion. It produces people who care enormously and accomplish less than they could because they keep hitting the same wall. The wall that's not in the world, it's in them.
 

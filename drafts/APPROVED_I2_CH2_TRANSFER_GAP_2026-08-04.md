@@ -171,11 +171,11 @@ instead* → *The accurate explanation is duller*) and one *Which is* fragment t
 
 | Change | Words |
 |---|---|
-| New: the transfer gap (5 paragraphs) | **+286** |
+| New: the transfer gap (5 paragraphs) | **+300** |
 | Cut P5 entirely | −56 |
-| **Net** | **+230** |
+| **Net** | **+244** |
 
-Section goes 379 → 609 words. v1 was +159 but bought it by cutting into three shipped
+Section goes 379 → 623 words. v1 was +159 but bought it by cutting into three shipped
 paragraphs; v2 buys nothing and cuts only the paragraph it supersedes. The last paragraph
 cost 28 words more than the version that only acquitted her, which is what describing the
 step costs.
@@ -207,8 +207,37 @@ too attached to being comfortable* names the doing-well story and the performing
 breath, offers neither, argues with neither, and the accurate account arrives in the next
 paragraph.
 
-**Sage/Diplomat — no Orange premise.** No appeal to effectiveness, results, or strategic
-self-interest. The argument runs on Jordan's own experience of arriving after her own move.
+**Orange — no bribe, and no allergy either. Corrected 2026-08-04.**
+
+v1 stated this constraint as *no Orange premise — nothing here appeals to effectiveness,
+results, or strategic self-interest*, and when I re-anchored this section I cited
+`MTGOA_LEVEL_MAP_CANONICAL.md` as its ground. **The map says close to the opposite and the
+citation was mine, not the ruling's.** Line 42 gives Green's power allergy as *"Control
+disguised as inclusion — Shadow of 'lower complexity but high effectiveness' — limiting
+through relativistic flattening"*: Green is allergic to effectiveness and reads an output as
+control. Line 20 defines Teal as *"the first stage that can consciously use the moves of all
+lower levels"*, and `ch8:295` names Wilber's carry-the-lower-altitudes rule as the structural
+logic of the whole book. **There is no Teal that skipped Orange.** Wendell, 2026-08-04:
+*"effective ally is the level up from good ally, which is shadow Amber for Jordan… a secret
+aim of the book is to get Green allies to focus more on Orange outputs because they have
+dissociated from it and it is making the world worse."*
+
+So the true constraint is narrower than v1's. **The passage may not bribe her with results,
+and it must not treat an output as beneath the work.** As applied it does neither: the case
+for the second half runs on her own experience of arriving after her own move, and the second
+half is defined by what it changes.
+
+That definition was missing until this correction. The paragraph described the second half
+entirely from the inside — reps, catching, hands — which reads to a dissociated Green reader
+as *the missing half is more interior work*, the failure mode in new vocabulary. Two sentences
+were added on Wendell's ruling of 2026-08-04:
+
+> The half you have describes what is happening. The half you are missing changes it.
+
+Also the payoff for *Naming it is the skill that just failed*: naming describes, and describing
+is not the half that moves anything. The same direction the chapter already runs three sections
+later at `ch2:138` — *Were you doing this to change something, or to seem like the kind of
+person who would?* — which is the Amber good-ally move.
 
 **Register spec — no collision.** *Hold* and *run* are plain verbs. *Run* is already the
 chapter's verb for a pattern that plays on its own (`ch2.md:102`, *What pattern do I run when
