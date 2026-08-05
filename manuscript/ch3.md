@@ -253,6 +253,8 @@ I recover both ends before I am done, and I will ask you to hold them at the sam
 ## Section 4: The Practice
 ### *The WAVE-Spiral: Emotional Alchemy as Repeatable Technique and Living Art*
 
+Several of the tools in this chapter came from somewhere else, and you should know whose they are before you run them. *Felt sense* comes from Eugene Gendlin's *Focusing*: the body's knowing that arrives before you have words for it, which is what the read in this chapter reads. Peter Levine supplies the claim underneath the whole practice. A feeling carries energy that has to finish moving, and it jams when you cut it off. He works with trauma, where the jam runs deep enough to want a trained person in the chair with you; this chapter practices on the everyday version, and I answer for borrowing it down a level. The Polarity Map belongs to Barry Johnson, who calls it polarity management. The five channels carry their own debt, and the note that pays it arrives with them a few pages on. Appendix G says where to read each one.
+
 If emotional alchemy means learning from emotions instead of managing them, then how do you actually *do it* when you're in the middle of a hard conversation, a crisis, a moment where the feeling is rising and you have thirty seconds to respond?
 
 Some people are very good at putting feelings away.
