@@ -64,7 +64,7 @@
 
 You recognize a woman in the village. She is always there. She shows up to every gathering, every working bee, every moment of conflict and every moment of celebration. Her presence reads as devotion, except it isn't, because devotion implies choice, and she has forgotten how to choose. She stays because she has forgotten that she could leave.
 
-One day she stops showing up. The villagers barely notice at first. Then slowly, in her absence, something becomes visible: the shape of what she held together without ever naming that she held it. Ruptures that were repaired before anyone saw them. Tensions that never escalated because she stood in the middle of them. The villagers discover they have lost something but cannot name the loss, because she never told them what her presence cost. She never gave them the chance to treat it as precious.
+One day she stops showing up. The villagers barely notice at first. Then slowly, in her absence, something becomes visible: the shape of what she held together without ever naming that she held it. Ruptures she repaired before anyone saw them. Tensions that never escalated because she stood in the middle of them. The villagers discover they have lost something but cannot name the loss, because she never told them what her presence cost. She never gave them the chance to treat it as precious.
 
 Across the village, a man operates differently. He is present too. He shows up, he contributes, he holds. He has also, once in a hard moment, surfaced what each side protected and named what staying would actually require. He said it without heat. He did not make it a threat. He did not weaponize it. He simply told the truth about the agreement: what it would hold, what it would cost each of them, what would have to change for his staying to remain real. In the weeks that followed, the villagers noticed something. His presence had become more valuable precisely because he had now chosen it, not scarce in the way of withholding, but scarce in the way of a person who had closed an honest negotiation and meant it. They started treating his presence as something that could be lost. In treating it as something that could be lost, they started treating it as something that mattered.
 
@@ -392,7 +392,7 @@ The Repairer is the Diplomat's deepest mode: the work of healing ruptures that h
 
 Here is what its absence looks like: a relationship that cannot survive its own ruptures. Where every breach becomes permanent, every mistake closes a door, every conflict leaves a scar that never heals. The Repairer's absence shows up as a kind of relational brittleness. People stay together and never recover from the times they hurt each other. They accumulate damage until something breaks that cannot be repaired, and then it is over.
 
-Here is what its distortion looks like: a premature forgiveness that skips the repair entirely. The distorted Repairer rushes to close the wound before it has been cleaned. They say *it's fine, let's move on, I forgive you*, and in fact they abandon the relationship to its damage. Real repair requires sitting in the wound long enough to understand it. Skipping that step means the wound closes over with the infection still inside.
+Here is what its distortion looks like: a premature forgiveness that skips the repair entirely. The distorted Repairer rushes to close the wound before cleaning it. They say *it's fine, let's move on, I forgive you*, and in fact they abandon the relationship to its damage. Real repair requires sitting in the wound long enough to understand it. Skipping that step means the wound closes over with the infection still inside.
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 1 — Betrayal Wound → Discerning Trust**
 
@@ -410,13 +410,13 @@ The alchemy: *I stop skipping the wound and start sitting in it.* Real repair re
 
 **Water → Wood: Sadness translated into new soil.** When a rupture has left a field in mourning (heavy, still, honoring what was lost) the Translate move recognizes that the sadness contains the nutrients for something new to grow. The sadness of what broke becomes the foundation of what gets rebuilt. The Translate move carries the honoring of the loss into the channel where something new can take root.
 
-**Earth → Fire: Structure translated into warmth.** When the repair has been negotiated (the terms agreed, the path forward established) the Translate move is to bring warmth back to the structure. The field now has a shape, a format, an agreement. Agreements are cold things. The Translate move carries the heat of real reconnection into the structure, so that the repair is not just formal but real.
+**Earth → Fire: Structure translated into warmth.** When you have negotiated the repair (terms agreed, path forward established) the Translate move is to bring warmth back to the structure. The field now has a shape, a format, an agreement. Agreements are cold things. The Translate move carries the heat of real reconnection into the structure, so that the repair is not just formal but real.
 
 **[CONTROL] — Neutral Channel: Premature Closure Pattern**
 
 The Neutral Channel pattern here is **premature closure**: the behavioral pattern of rushing to close the wound before it has been understood. The Repairer who has not done this work wants to finish the repair before the other person has finished with the damage. They close before they have opened. They move on before they have arrived.
 
-**The structure of the Three-Part Repair:** You build a practice of repair that does not skip: (1) **Witness:** the full accounting of what happened, without defense or justification. (2) **Impact:** the honest naming of what the rupture cost, for both parties. (3) **Agreement:** what each person commits to doing differently, not as a performance of remorse but as a real change in behavior. The premature closure pattern dissolves into a structure that actually allows the wound to heal before it is closed.
+**The structure of the Three-Part Repair:** You build a practice of repair that does not skip: (1) **Witness:** the full accounting of what happened, without defense or justification. (2) **Impact:** the honest naming of what the rupture cost, for both parties. (3) **Agreement:** what each person commits to doing differently, not as a performance of remorse but as a real change in behavior. The premature closure pattern dissolves into a structure that actually allows the wound to heal before you close it.
 
 The cost here is time. Real repair takes longer than performance repair, and that slower pace is what makes the repair trustworthy.
 
