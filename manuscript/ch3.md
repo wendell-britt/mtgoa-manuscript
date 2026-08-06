@@ -275,13 +275,13 @@ Most allyship has the same problem those calls had. The ally solves for their ow
 
 You need a practice. A structure. Something that repeats reliably so you can get better at it.
 
-That structure has a name: the WAVE-Spiral.
+A jazz instructor once gave me the advice: *know the form, know the changes.* The form tells you where you are in a song. The changes tell you what the music asks of you there.
 
-The WAVE-Spiral is a progression through five stages that can happen in ten seconds or ten hours depending on the depth and context. It moves emotional energy from activation (I feel something) → contact (I let it fully reach me) → clarity (I understand what it means) → integration (the feeling has taught me something) → action (I move from that understanding).
+This book works the same way. Its form is the **Five-Move Form**: Wake Up, Open Up, Clean Up, Grow Up, Show Up. The five movements are adapted from Ken Wilber’s *Finding Radical Wholeness*. You will learn the form here with the Shaman, then learn how each Face runs its own changes on it.
 
 ---
 
-### The Five Stages of the WAVE-Spiral
+### The Five-Move Form
 
 <!-- MARGINALIA -->
 > *Maera says the spiral can run in ten seconds. She is right, and she has been practising for

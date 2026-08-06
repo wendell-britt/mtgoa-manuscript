@@ -99,6 +99,12 @@ keeps Exhale conditional on whether the charge supports aligned allyship. The Fi
 bridge remains a separate pending unit. Reader-run scan is 0 book-wide; duplicate, gate, and
 spine-anchor checks pass.
 
+**Five-Move Form bridge applied.** Chapter 3 now introduces the Five-Move Form before its five
+stages: Wake Up, Open Up, Clean Up, Grow Up, Show Up. The passage credits Ken Wilber's *Finding
+Radical Wholeness* and uses the jazz distinction between a stable form and each Face's changing
+application. The WAVE introduction remains separate in Open Up. The linked marginal note anchor
+now follows the renamed heading; its existing prose is held for a later contextual revision.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
