@@ -91,6 +91,8 @@ Not in anger. In clarity. The Challenger understood what the villagers did not: 
 
 The villagers never meant for that to happen. They never said "go." They just stopped asking. Which, it turns out, is the same thing as exile.
 
+**The Challenger means: somebody drew the line on the day it needed drawing.** A Diplomat can watch your best hour and see damage, and mean it sincerely.
+
 ---
 
 ## Section 2: The Distortion
@@ -597,6 +599,8 @@ The Skeptic developed does one thing for you that nothing else in this chapter c
 That is the Disruptor's foundation. The Challenger's superpower is the willingness to be unwelcome on a charge you have checked and chosen to trust, clarity without cruelty, held steady long enough to say one sentence and stay for what follows. Fighting comes easy by comparison, and so does certainty.
 
 You know what your auditor is for now. That is what you take out.
+
+Theirs is doing the same job in a Forest you cannot see into. A stranger's Skeptic is an auditor somebody fooled once, so confidence is the one thing it will not take as evidence. What you admit you do not know is the cheapest clearance available anywhere in this book.
 
 ---
 

@@ -122,6 +122,8 @@ The Shaman left.
 
 The villagers never meant for that to happen. They never said "go." They just stopped listening. Which, it turns out, amounts to exile.
 
+Each of the six Faces carries its own word for being good to somebody. **The Shaman means one thing by it: somebody said the true thing, and it landed.** People who share that definition call you kind. People who hold a different one call you cold. Neither scores you wrong. They score you in another dictionary.
+
 ---
 
 ## Section 2: The Distortion
@@ -783,6 +785,8 @@ The Controller developed does one thing nothing else in this chapter can do: it 
 That is what the Alchemist runs on. You cannot burn a charge you never let yourself have, and you will not spend one while the fear is still live unless some part of you enforces a rule you set on a clearer day. The woman at the council had both. The verdict fired (*you don't have the standing*), and it fired against a rule she had already made about what she does when the true thing sits in her chest and the fields are dying. The rule won. That is the mechanism: a referee doing its job rather than a feeling that finally got loud enough.
 
 You know what your Controller is for now. That is what you take out.
+
+Theirs is doing the same job in a Forest you cannot see into. A stranger's Controller enforces a rulebook you have never read, so it fires when you arrive holding a better standard, and it opens when you meet the one they already keep. You earn clearance with a Controller by keeping their rule.
 
 ---
 

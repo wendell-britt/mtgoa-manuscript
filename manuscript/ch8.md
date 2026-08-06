@@ -130,6 +130,8 @@ You'll know which one belongs to you. The work keeps going either way.
 
 Keep the terms apart so they don't blur together. Shadow is the move that stays hidden because exposure feels too expensive: you know the line, and you say nothing, so nobody can call you difficult. Distortion is the gift turned sideways: you can name a group perfectly, and you use the naming to stand above it. Cost is the bill that follows: people start calling you insightful while nobody feels helped.
 
+**The Sage means: they can do it without you.** It is the only one of the six that counts your absence as success, and the other five mistake that for indifference more often than not.
+
 ---
 
 ## Section 2: The Distortion
@@ -641,6 +643,8 @@ That combination makes the Sage's superpower possible, and the superpower is a c
 Put them together and you get the thing the last chapter of a book about allyship actually needs: someone who can be in it fully, get out cleanly, and stay useful to the people still inside. Still in the game, still playing it, and free enough inside it to have both hands available for somebody else.
 
 You know what your Damaged Self is for now. That is what you take out.
+
+Theirs is doing the same job in a Forest you cannot see into. A stranger's Damaged Self carries weight it has already agreed to carry, and asking it to account for the weight is one more thing to carry. Take load off without requiring the account, and the door opens.
 
 ---
 

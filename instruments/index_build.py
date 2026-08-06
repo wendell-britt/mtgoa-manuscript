@@ -216,6 +216,9 @@ PRIMARY = {
     # concepts
     "felt sense": "Ch 3 §4", "leverage point": "Ch 6 §4",
     "evolutionary purpose": "Ch 8 §4", "existential kink": "Ch 1",
+    # Defined in the Second Walk -- "That distance is your clearance, and it is the only
+    # currency on this side of the floor" -- then spent once per chapter after it.
+    "clearance": "Ch 2 §7",
     "pre/trans fallacy": "Author's note",
 }
 

@@ -525,6 +525,8 @@ In practice: write the sentence, then delete every clause that is there to make 
 
 In practice: one person, not an audience. The audience version becomes a launch, and you can spend a year preparing for a launch. One person can happen this week. Say what you want from them before you show it, *tell me where you got confused*, or *tell me whether you'd use it twice*. An unspecified ask gets you encouragement: the least useful thing a human being can hand you.
 
+One person is also the smallest ask you can make of anybody's Protector. An audience needs a door opened wide on a day nobody chose; one person, asked for one thing, fits through almost any clearance you already hold.
+
 **Example:** One facilitator builds a workshop for six months and runs it for the first time on the day it is supposed to be good. Another builds a rough version in three weeks, runs it badly for Rosa on a Tuesday, finds out the second exercise makes people defensive, and rebuilds before anyone has paid for anything. Rosa is not a test audience. She is the first person it was for, and she got the worst version of it, which is what the showing costs her.
 
 **The test:** You showed it at the point you would rather have kept working on it alone, to one person who could answer you. Their verdict is theirs. The showing is yours.

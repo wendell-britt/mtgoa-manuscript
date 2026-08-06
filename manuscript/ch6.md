@@ -104,6 +104,8 @@ The Architect left.
 
 The villagers never meant for that to happen. They never said *go.* They just stopped listening to the design. Which, it turns out, amounts to exile.
 
+**The Architect means: what you built runs after you leave.** That scores a design nobody thanks you for above a conversation everybody remembers, and it is right about that more often than the villagers believe.
+
 ---
 
 ## Section 2: The Distortion
@@ -464,6 +466,8 @@ That is the Strategist. Look back at the modes table and notice what the Strateg
 So the map is the artifact, and you already know how to make one. The Architect's superpower is knowing where the push goes and when to make it, and then, because you also know what the map is for, building the thing so the next person can run it without you. Structural generosity is the intent. The Strategist is what makes it arrive on a day it can still matter. A beautiful blueprint delivered eighteen months after the pressure released is not generous. It is just correct.
 
 You know what your Emotional Body is for now. That is what you take out.
+
+Theirs is doing the same job in a Forest you cannot see into. A stranger's Emotional Body is a sensor that learned not to output in front of people, so naming out loud what you can see it doing is the fastest way to close a door. Clearance opens when the feeling gets to stay theirs.
 
 ---
 

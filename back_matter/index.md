@@ -140,7 +140,7 @@ Locators are chapter and section rather than page. **Bold** marks where a term i
 
 **charge, the** — throughout
 
-**clearance** — Ch 2 §7
+**clearance** — **Ch 2 §7**, Ch 3 §5, Ch 4 §5, Ch 6 §5, Ch 7 §5, Ch 9 §6
 
 **evolutionary purpose** — Ch 8 §3, **Ch 8 §4**, App G
 

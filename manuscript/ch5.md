@@ -103,6 +103,8 @@ The Regent left because the villagers no longer knew the difference between prot
 
 The villagers never meant for that to happen.
 
+**The Regent means: somebody carried the inheritance far enough that the next person can pick it up.** A keeper who holds a rule for fifteen years earns faithful from one person and immovable from the next, on identical evidence.
+
 ---
 
 **Clause four.** A practice that cannot be named to a stranger in one sitting has already been
@@ -597,6 +599,8 @@ The Fixer-Healer developed does one thing nothing else in this chapter can do: i
 That lays the foundation of the Regent's superpower, which puts what you received into a form the next person can receive: the account of where this came from, what it cost, what broke, what still holds, and why any of it is worth their time. That is how something survives its carrier. Not by being held. By being told, in full, to someone who can pick it up. That is the Storyteller.
 
 You know what your Fixer is for now. That is what you take out.
+
+Theirs is doing the same job in a Forest you cannot see into. A stranger's Fixer is holding something in place on purpose, and they will not always tell you which thing, or why. Repair what they chose to keep and the door shuts, however broken it looked from outside.
 
 ---
 

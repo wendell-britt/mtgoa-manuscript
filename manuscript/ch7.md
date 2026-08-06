@@ -78,6 +78,8 @@ The five stages of the Diplomat's work run as a journey in sequence rather than 
 
 Each stage earns the next. Bridge without Translate is noise. Translate without Hold is a promise no one trusts. Hold without Repair is a wound left to fester. Repair without Negotiate is generosity without closure, and generosity without closure stops being a gift; it becomes a slow form of self-destruction that everyone in the field learns to take for granted.
 
+**The Diplomat means: nobody left the table.** It is the most generous of the six and the easiest to overspend, because a table nobody leaves also decides nothing.
+
 ---
 
 ## Section 2: What It Is
@@ -592,6 +594,8 @@ The Victim developed does one thing nothing else in this chapter can do: it lets
 That forms the Connector's foundation, and the word usually means something else. The Diplomat's superpower is not making contact; the Bridge-Builder does that in the first hour. It is connection that has survived being told the truth. Connection nobody has ever closed with is attendance, and attendance is what everyone in a field takes for granted. The close is what converts one into the other: you name what this must hold for your staying to remain real, once, in a sentence, and you let them answer. What remains after that is the part that was ever actually yours.
 
 You know what your Victim is for now. That is what you take out.
+
+Theirs is doing the same job in a Forest you cannot see into. A stranger's Victim guards a story and the returns on telling it, and some of those returns are real: sympathy, an exemption, a reason to stay where they are. Say that out loud and the door shuts for good. Clearance here comes from feeling it with them without confirming them in it, which is the line this chapter has been drawing for you all along.
 
 ---
 
