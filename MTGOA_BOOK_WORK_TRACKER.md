@@ -154,6 +154,10 @@ reference, then use “the Form” for their associated card exercises. Face-spe
 modes remain distinct: Regent, Architect, Diplomat, and Sage each retain their own vocabulary.
 Chapter 9's Player-specific moves remain a separate contextual decision.
 
+**Chapter 9 Player bridge applied.** The Player's five game moves now explicitly follow the
+Five-Move Form in the territory of authorship, while the Player's modes and its Review / Discern
+/ Design / Build / Pass On work sequence remain distinct systems.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction

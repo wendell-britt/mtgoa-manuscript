@@ -499,7 +499,7 @@ You know what the six Faces are for. Section 4 asked which ones you live in and 
 
 Here is what winning looks like at the Player's altitude, and it is smaller than the word *game* makes it sound: one thing exists that did not exist before you, and somebody who is not you has it in their hands. That is the whole win. The design does not have to be finished. The system does not have to anticipate every case. The thing has to get made, get handed over, and come back changed.
 
-The five modes describe who you are while you work. Review, Discern, Design, Build, Pass On tracks how the work moves. These five moves do something else: they name what you do when another person sits across from you and the thing you made lies on the table between you. Everything up to this point in the chapter covered authorship in private. These five measure what authorship costs when it stops being yours alone.
+The five modes describe who you are while you work. Review, Discern, Design, Build, Pass On tracks how the work moves. The Player's five game moves follow the Five-Move Form in the territory of authorship: identify the live problem, let someone else meet the unfinished work, receive what changes it, build the next version, and hand the work over. They name what you do when another person sits across from you and the thing you made lies on the table between you. Everything up to this point in the chapter covered authorship in private. These five measure what authorship costs when it stops being yours alone.
 
 ---
 
