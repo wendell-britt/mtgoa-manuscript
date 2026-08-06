@@ -469,3 +469,59 @@ reads **Which Game Are You Playing**.
 **Checked before cutting the middle:** `:196` reads *Each of the three pays out
 differently* and takes its antecedent from that sentence. **`:192`'s middle is not padding
 and it stays.** This is the check the N44 orphan should have had.
+
+### `N41` — the three-years story, ruled and applied 2026-08-05
+
+Six-Face panel: `specs/PANEL_N41_THREE_YEARS_6FACE_2026-08-05.md`. Wendell: **cut `:14`
+and give `:91` its own paragraph.**
+
+**The panel's answer to *how many times does she need to hear it*: it is not a count.** A
+thing sticks by varied retrieval, not by repetition, so the unit is **turns** — how many
+times does the story arrive and change what she knows. **Five of six do.** `:4` opens ·
+`:10` adds the feeling · `:91` adds the witness · `:113` adds the mechanism · `:183` adds
+the payoff.
+
+**`:14` was the sixth and it added nothing**, restating *late* from `:4` ten lines above.
+Shaman, Sage and Architect reached it from three directions: no charge of its own, no turn,
+and nothing after it depends on it.
+
+> **Before:** You're the person I made that promise to. **This book is me showing up: late,
+> imperfect, and in the game.**
+>
+> **After:** You're the person I made that promise to.
+
+**The promise stays.** `:6` is *I made a promise to readers who trusted me with their money
+and their hope*, and `:14` is where it gets paid. **Deleting the whole paragraph would have
+orphaned `:6` the way `N44`'s cut orphaned `that stash` two commits ago** — the third time
+today that a cut would have been an edit to something else.
+
+Nine words now close the opening and hand the chapter from *I* to *you*, one line before
+`:16` opens *Your allyship has been run by a part of you that you have never met.*
+
+**One cost, recorded:** `N11` changed *This is me showing up* to **This book is** me showing
+up four commits ago. That fix is now cut. It was correct when it was made.
+
+### `:91` — the only telling with a witness in it
+
+The Regent's finding, and nobody would have reached it without counting the six:
+
+> **`:91` is the landing that will outlive the others and it is the one the chapter treats
+> most cheaply.** It is the only one with another person in it. Interior does not inherit;
+> a sentence somebody said to him does. Ask what she repeats to a friend — nobody repeats
+> *he gave himself permission to be angry*, and everybody repeats *somebody he was helping
+> told him it had been about him the whole time.*
+
+It was the second sentence of a five-sentence paragraph, sharing space with its own setup.
+Split so it **opens** its own:
+
+> I know the machine from the inside; I ran it for three years while writing a book that
+> told other people not to.
+>
+> **It broke the day someone I had been "helping" told me, plainly, that my help had been
+> about me the whole time.** I wanted to argue. I could not. The scoreboard went dark…
+
+**The break goes before the blow and not after it.** *I wanted to argue. I could not.* is
+the flinch, and separating it from the sentence that caused it would have put white space
+between a hit and a reaction that happen in the same second.
+
+`gate` PASS · every counter flat · book-wide review clean · **SHIPPABLE**.

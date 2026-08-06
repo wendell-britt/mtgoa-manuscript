@@ -11,7 +11,7 @@ It wasn't until I gave myself permission to actually be mad (at myself, about th
 
 Seeing the pattern is what let me finish. It didn't have to disappear first. I kept playing, and the charge that came off looking at it is what I alchemized into the book you are holding.
 
-You're the person I made that promise to. This book is me showing up: late, imperfect, and in the game.
+You're the person I made that promise to.
 
 Your allyship has been run by a part of you that you have never met. In the second where a harm gets named out loud or slides past, that part decides, and it decides before the conscious you arrives. It works from inherited reflexes, old wounds, and the face you reach for without checking whether it fits. It plays by one rule, and the rule is keep you safe. Helping the people you meant to serve was never its assignment. What changes now: you take the seat. This whole book builds toward that move, and that is why so much of it runs on shadow work. Your shadow is the game master. You cannot take the controls from a player you refuse to look at.
 
@@ -88,7 +88,9 @@ Allyship looks like the honorable place to bring those questions, and springs th
 
 Every one of them holds a little truth, and that truth keeps them alive. Goodness matters, language matters, repair matters. The damage starts when one of them becomes the whole definition. The day allyship means being good, every exchange turns into a test you are taking, and the person in front of you stops being a person and becomes the examiner. You stop watching them and start watching yourself for proof that you passed. The help never lands, because you were looking at the scoreboard in your own head the whole time. You spend everything, they receive almost nothing, and you go home wondering why caring this much leaves you this empty. That emptiness is the receipt for a game that was never built to be won. It was built to keep you playing.
 
-I know the machine from the inside; I ran it for three years while writing a book that told other people not to. It broke the day someone I had been "helping" told me, plainly, that my help had been about me the whole time. I wanted to argue. I could not. The scoreboard went dark, and behind it sat a question I had never asked: what if being good was never the game?
+I know the machine from the inside; I ran it for three years while writing a book that told other people not to.
+
+It broke the day someone I had been "helping" told me, plainly, that my help had been about me the whole time. I wanted to argue. I could not. The scoreboard went dark, and behind it sat a question I had never asked: what if being good was never the game?
 
 Here is the definition this book is built on.
 
