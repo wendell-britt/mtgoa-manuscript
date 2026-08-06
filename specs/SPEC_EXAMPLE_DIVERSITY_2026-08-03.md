@@ -280,3 +280,68 @@ spec rules on it.
 
 All three questions in §6 are ruled and applied: `ch1:44` stands, a child Example exists at
 `ch5:591`, and the manager default is named once at `ch1:48`.
+
+---
+
+## ch9's cluster — measured, and it is not structural
+
+**Wendell:** *"let's look at the ch9 examples."*
+
+Three of ch9's five Examples assumed the reader runs a practice and a fourth assumed she
+has a team. The question was whether that is required by the chapter, since the Player
+chapter is about designing your own game.
+
+**`ch9:412` answers it, and it is the `ch1:44` pattern again:**
+
+> *You might also be someone who has a practice that isn't named yet. Something you already
+> do, some way you already show up, some specific thing you already do **with your family
+> or your team or your community** that already counts as your game.*
+
+**The chapter claims family, team and community and then demonstrates workshops, practices
+and groups five times running** — in the last chapter, which is the reader's final
+impression of who the book is for.
+
+**Two relocated. The moves are untouched.**
+
+| | from | to |
+|---|---|---|
+| `ch9:514` | *the three on my team who stopped putting anything forward after the restructure* | *the two friends who stopped saying anything true at dinner after the argument in March* |
+| `ch9:572` | *Tess runs your practice with her group and drops the step you thought was the heart of it* | *Tess takes over the Sunday call and drops the round you thought was the heart of it* |
+
+`ch9:530`'s facilitator and workshop stay: it is the clearest illustration of showing a
+rough version early, and after these two changes it is no longer part of a run.
+
+**`ch9:572` improves on the move.** Move 5 is *Hand Someone the Pen*, and its turn is
+*you find out whether the step was the heart of it or whether you were.* **That line lands
+harder when the person who took it over is family.**
+
+`gate` PASS · `empty` 1.34 in both old and new · probe 1 in both · book-wide review clean.
+
+### Two defects of mine, caught before applying
+
+*the real thing at dinner* was both an empty noun and a phantom contrast; now *anything
+true*. And I wrote *the way you used to*, adding a definite-plus-empty-noun the original
+did not have; now *takes over*.
+
+### Two instrument gaps fell out of it
+
+**1 · `agency.ANIMATE` held 5 of the book's 23 named Example people.** Wendell ruled
+*agency.py gets the named people* on 2026-08-03, and the list built then came from the
+six-name hypothetical convention rather than from the Examples. **Eighteen named people
+were being scored as abstractions with verbs.** Seventeen added.
+
+**Board: tier-1 173 to 162.** ch3 20→19 · ch4 21→20 · ch6 22→20 · ch7 28→27 · ch8 29→27 ·
+ch9 20→18. **Eleven false positives, and every one of them was a person doing something.**
+
+**`kit` deliberately excluded**, the only one of the eighteen that is also a common noun
+(`ch8:598`, *The kit does have a logic*). **Measured rather than assumed:** admitting it
+would not suppress a tier finding — that sentence scores tier None either way — but it
+would move it from agentless to animate, and a kit of parts is not a person. Recorded
+accurately, because the first version of this note overstated the cost.
+
+**2 · `citation_audit.py` reported *the Sunday call* as an uncredited source.** The name
+pattern is `[a-z] ([A-Z][a-z]{3,}) (calls?|names?|…)`, and `calls?` matches the noun, so it
+read *Sunday* as a person calling something. **`March`, `Friday` and `Tuesday` were already
+in the book and escaped only because no cue verb happened to follow them** — a latent false
+positive, not a new one. A `CALENDAR` exclusion now covers days, months and seasons.
+Citations back to **0 uncredited**.

@@ -93,6 +93,15 @@ EXEMPT_DEAD = {
 }
 
 # Names the audit should not report: characters, places, and the author.
+# Capitalised and not people. Added 2026-08-05 after `the Sunday call` was reported as an
+# uncredited source: the name pattern reads `[a-z] Sunday call` as Sunday *calling*
+# something, because `calls?` matches the noun too. March, Friday and Tuesday were already
+# in the book and escaped only because no cue verb happened to follow them, so this was a
+# latent false positive rather than a new one.
+CALENDAR = set("""Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+January February March April May June July August September October November December
+Spring Summer Autumn Winter""".split())
+
 FICTION = set("""Voss Ash Quill Vale Cross Orr Maera Corin Sera Irix Elian Thalen Tull Bram
 Merrow Calrunia Halvane Veyra Sol Sim Orrel Jordan Wendell Britt Shaman Challenger Regent
 Architect Diplomat Sage Player Forest Village Horizon Oath Bridge Pattern Line Body
@@ -176,7 +185,8 @@ def main():
 
         for full, ctx in hits:
             parts = [w for w in full.split() if not w.endswith(".")]
-            if any(w in FICTION for w in parts) or any(w in names for w in parts):
+            if (any(w in FICTION for w in parts) or any(w in names for w in parts)
+                    or any(w in CALENDAR for w in parts)):
                 continue
             uncredited.setdefault(full, []).append((rel, " ".join(ctx.split())))
 

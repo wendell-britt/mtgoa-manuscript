@@ -511,7 +511,7 @@ The five modes describe who you are while you work. Review, Discern, Design, Bui
 
 In practice: write the sentence, then delete every clause that is there to make the problem sound bigger than it is. What survives is usually one group of people, one situation that keeps recurring, and one thing that keeps not happening. If you cannot say who it is for, you have named a topic rather than a problem.
 
-**Example:** *I want to help people be better allies* is a topic. *People who have done the reading still default to their home Face the moment something lands hard, and there is nowhere to practise the difference* is a problem. The second tells you what to build by Friday. Then cut once more, to whose problem: *the three on my team who stopped putting anything forward after the restructure.* Now a stranger can repeat it back, and you know whose Friday you are building for.
+**Example:** *I want to help people be better allies* is a topic. *People who have done the reading still default to their home Face the moment something lands hard, and there is nowhere to practise the difference* is a problem. The second tells you what to build by Friday. Then cut once more, to whose problem: *the two friends who stopped saying anything true at dinner after the argument in March.* Now a stranger can repeat it back, and you know whose Friday you are building for.
 
 **The test:** A stranger can repeat your sentence back to you without adding anything. Picking the right problem is a separate question. If they have to ask which part you mean, the field is still wide.
 
@@ -569,7 +569,7 @@ In practice: name the variable before you run it. *This time the opening questio
 
 In practice: be specific about what they are allowed to change. *You can change anything except the part where people say it out loud* is a real handoff. *Make it your own* is a compliment. Then watch them change it and do not correct the first thing they do differently.
 
-**Example:** Tess runs your practice with her group and drops the step you thought was the heart of it. You have two moves. Put the step back and you have a franchise. Ask what happened in the space where the step used to be, and you find out whether the step was the heart of it or whether you were. Say in advance which parts she may change. What she does inside that is hers.
+**Example:** Tess takes over the Sunday call and drops the round you thought was the heart of it. You have two moves. Put the round back and you have a franchise. Ask what happened in the space where it used to be, and you find out whether the round was the heart of it or whether you were. Say in advance which parts she may change. What she does inside that is hers.
 
 **The test:** You said, in advance and in specifics, what they were allowed to change. *Make it your own* is a compliment; a handoff names the boundary. What they do inside it is theirs.
 

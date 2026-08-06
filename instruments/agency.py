@@ -84,7 +84,21 @@ protector controller skeptic fixer healer victim daemon daemons
 self body auditor referee
 face faces
 man men woman women
-dana priya marcus nia sam rosa imani""".split())
+dana priya marcus nia sam rosa imani
+ines ravi nadia tomas dara yusuf ana meera dele alan ellis ade femi tess bea ruth jo""".split())
+
+# The Examples' cast joined 2026-08-05. Wendell ruled "agency.py gets the named people"
+# on 2026-08-03 and the list built then came from the six-name hypothetical convention
+# (Dana, Priya, Marcus, Nia, Sam, Rosa, Imani), not from the Examples, which name 23 people
+# across 35 blocks. Eighteen of them were being scored as abstractions with verbs.
+#
+# `kit` is deliberately excluded, and it is the only one of the eighteen that is also a
+# common noun: ch8:598 reads "The kit does have a logic." Measured, admitting the word
+# would not suppress a tier finding -- that sentence scores tier None either way -- but it
+# would flip it from agentless to animate, and a kit of parts is not a person. The general
+# hazard is the one that bit fragment.py's verb lexicon, where one token admitted to a list
+# clears every sentence containing it; here the cost is smaller and the exclusion is still
+# right.
 
 # man/men/woman/women added 2026-08-05. The list already carried `person`, `people`,
 # `somebody` and `villager` and had never been asked about the plainest word for a
