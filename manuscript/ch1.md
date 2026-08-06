@@ -3,15 +3,15 @@
 
 This book is three years late.
 
-I made a promise to readers who trusted me with their money and their hope, and then I couldn't deliver. The reason, when I finally let myself look at it clearly, was both embarrassing and fitting: I was writing a book about allyship, and it was making me a worse ally. Not to the people I was trying to serve. To myself, to the people closest to me, to the work itself.
+I made a promise to readers who trusted me with their money and their hope, and then I couldn't deliver. The reason, when I finally let myself look at it clearly, was both embarrassing and fitting: I was writing a book about allyship, and it was making me feel like a worse ally. Not to the people I was trying to serve. To myself, to the people closest to me, to the work itself.
 
 I knew that helping people from a place of scarcity doesn't work. I'd built a whole framework around that idea. So I told myself I wasn't doing that. I was being responsible. I was staying in integrity. Every word of that was true, and every word of it left the guilt nowhere to go. It went underground. The work went with it.
 
 It wasn't until I gave myself permission to actually be mad (at myself, about the delay, about the gap between who I said I was and what I was doing) that I saw what was happening. I was holding myself hostage. Because I couldn't be perfect in the way I'd decided I had to be, I ended up doing the exact opposite of what I set out to do: making the work smaller, slower, less alive. Less fun.
 
-Realizing this is what finally unlocked my ability to finish. I could see the pattern clearly, and I kept playing. It didn't have to disappear first. In fact, letting the charge of that awareness exist was what let me alchemize it into the book in your hands right now.
+Seeing the pattern is what let me finish. It didn't have to disappear first. I kept playing, and the charge that came off looking at it is what I alchemized into the book you are holding.
 
-You're the person I made that promise to. This is me showing up: late, imperfect, and in the game.
+You're the person I made that promise to. This book is me showing up: late, imperfect, and in the game.
 
 Your allyship has been run by a part of you that you have never met. In the second where a harm gets named out loud or slides past, that part decides, and it decides before the conscious you arrives. It works from inherited reflexes, old wounds, and the face you reach for without checking whether it fits. It plays by one rule, and the rule is keep you safe. Helping the people you meant to serve was never its assignment. What changes now: you take the seat. This whole book builds toward that move, and that is why so much of it runs on shadow work. Your shadow is the game master. You cannot take the controls from a player you refuse to look at.
 
@@ -67,7 +67,7 @@ So pick one: the community you keep trying to help from the cheap seats, the cau
 
 ## The Myths That Keep You Playing the Wrong Game
 
-Most people do not come to allyship empty-handed. They come because something is wrong and they want to be the kind of person who does something about it. They also come carrying a few questions they would never say out loud. Am I good enough? Do I matter? Do I belong here? If I get this wrong, do I get cast out?
+Most people arrive at allyship carrying two things. The first is something wrong that will not leave them alone, and the wish to be someone who does something about it. The second is a set of questions they would never say out loud. Am I good enough? Do I matter? Do I belong here? If I get this wrong, do I get cast out?
 
 You answered those questions with myths, the way everyone does. Myths are how human beings make sense of a world too big to hold; they give reality a shape you can move around in. Here is what the guilt never tells you: every one of these myths is a solvable puzzle, and this book hands you the moves to take each one apart. Just seeing the whole map of them, before you solve a single one, makes you a sharper ally than you were a page ago.
 
@@ -84,7 +84,7 @@ Allyship looks like the honorable place to bring those questions, and springs th
 - Allyship means never causing harm.
 - Allyship means having the right framework.
 
-(A short, unflattering diagnostic at masteringallyship.com tells you which of these are yours and hands each one back with the page that takes it apart. It scores how you actually behave, and it will not tell you which kind of ally you are, because that question belongs to the trap.)
+(A short, unflattering diagnostic at masteringallyship.com tells you which of these myths are yours and points you at the page that takes each one apart. It scores how you actually behave, and it will not tell you which kind of ally you are, because that question belongs to the trap.)
 
 Every one of them holds a little truth, and that truth keeps them alive. Goodness matters, language matters, repair matters. The damage starts when one of them becomes the whole definition. The day allyship means being good, every exchange turns into a test you are taking, and the person in front of you stops being a person and becomes the examiner. You stop watching them and start watching yourself for proof that you passed. The help never lands, because you were looking at the scoreboard in your own head the whole time. You spend everything, they receive almost nothing, and you go home wondering why caring this much leaves you this empty. That emptiness is the receipt for a game that was never built to be won. It was built to keep you playing.
 
@@ -102,7 +102,7 @@ So you are not the defendant waiting on a verdict about your character. You are 
 
 ## The Token System — What You're Spending
 
-Every game runs on a currency, and the first rule you get to rewrite is what you pay with.
+You pay attention to play any game, and in an arcade you pay a currency on top of it. The first rule you get to rewrite is what you pay with.
 
 In the Arcade the currency is tokens, and they come in two kinds. Most of us have only ever been handed the first. **Non-renewable tokens** come from scarcity: guilt, obligation, the need to be seen as good, the inherited debt you keep trying to retire. They are accelerant. They move you right now and bill you later, and the bill comes due in feeling worse about yourself, so every drop you burn has to be paid for by burning a little more of you. This is the fuel most allyship runs on. Show up, amplify, center, listen, do more: none of it wrong, all of it silent about the fact that you have been feeding the game your own body. (Yu-kai Chou spent a decade mapping exactly this: why some fuel keeps a player in the game and some burns them out of it.)
 
@@ -110,7 +110,7 @@ Here is the myth this section takes apart. You have believed that the emptier yo
 
 The second kind is renewable tokens. They come from the satisfied states you reach by metabolizing a feeling all the way through, the ones you will meet by name in Chapter 3. They cost something too, and they hand back more than you spent. Nobody leaves them lying around to be collected. You make them.
 
-Remember the anger I told you about, the anger I finally let myself feel? Here is the machine underneath that moment. For three years I ran this book on guilt, and guilt is that first kind of fuel: it got me to the desk and left me stranded there, emptier every month, until I was sitting in front of a chapter I could not write with no way to tell tired from done. The whole time there was a full tank I would not touch, the anger at the delay and at myself and at the gap between who I said I was and what I was doing, because a good ally stays in integrity and does not get mad. The day I stopped swallowing it and actually burned it, it did not drain me. It moved me. The book got written on the fuel I had been treating as contraband.
+Remember the anger I told you about, the anger I finally let myself feel? Here is the machine underneath that moment. For three years I fueled this book with guilt, and guilt is that first kind: it got me to the desk and left me stranded there, emptier every month, until I was sitting in front of a chapter I could not write with no way to tell tired from done. The whole time there was a full tank I would not touch, the anger at the delay and at myself and at the gap between who I said I was and what I was doing, because a good ally stays in integrity and does not get mad. The day I stopped swallowing it and actually burned it, it did not drain me. It moved me. The book got written on the fuel I had been treating as contraband.
 
 That conversion has a name: Emotional Alchemy, the engine under the whole book. It takes the charge you are most afraid to spend (the fear, the anger, the sadness most people are trained to keep down) and turns it into fuel that returns. What you can carry off this page is smaller and immediate: the charge that rises in a hard moment is ore, and you have been spending it as pure loss. The question stops being *can I afford to feel this*, and becomes *what is this, and can I burn it clean?*
 

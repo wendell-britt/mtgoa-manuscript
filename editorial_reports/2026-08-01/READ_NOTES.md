@@ -317,3 +317,54 @@ is nothing and we'll have to go back and fix it after."* Correct, and structural
 runs entirely on *the prize is a dead end* and *the prize converts back into tokens*.
 Dropping the noun at `:125` would have broken the chain two lines downstream. The
 replacement keeps **prize** and drops both flagged shapes.
+
+### Group F swept — applied 2026-08-05
+
+Ten singles. **Seven edited, two closed without an edit, one left as canon on Wendell's
+ruling.** Gate passes, every diet counter flat, `agency` unchanged at 28 tier-2, `preempt`
+9, `shapes` 11, book-wide review clean.
+
+| | before | after |
+|---|---|---|
+| `N08` `:6` | it **was making me a worse ally** | it **was making me feel like a worse ally** |
+| `N10` `:12` | **Realizing this is what finally unlocked my ability to finish. I could see the pattern clearly, and I kept playing.** … **In fact, letting the charge of that awareness exist was what let me alchemize it into the book in your hands right now.** | **Seeing the pattern is what let me finish.** … **I kept playing, and the charge that came off looking at it is what I alchemized into the book you are holding.** |
+| `N11` `:14` | **This is** me showing up | **This book is** me showing up |
+| `N20` `:70` | **Most people do not come to allyship empty-handed.** They come because… **They also come carrying a few questions** | **Most people arrive at allyship carrying two things. The first is something wrong that will not leave them alone**… **The second is a set of questions** |
+| `N25` `:87` | which **of these** are yours and **hands each one back with the page that takes it apart** | which **of these myths** are yours and **points you at the page that takes each one apart** |
+| `N31` `:105` | **Every game runs on a currency**, and the first rule you get to rewrite is what you pay with. | **You pay attention to play any game, and in an arcade you pay a currency on top of it.** The first rule you get to rewrite is what you pay with. |
+| `N32` `:113` | I **ran this book on guilt**, and guilt is that first kind **of fuel** | I **fueled this book with guilt**, and guilt is that first kind |
+
+### `N31` was the only claim error, `CL-1`, and the fix earns its own heading
+
+Wendell: *what do games actually run on — attention. Arcade games run on currency, and it's
+tokens.* The first draft split it into *Games run on attention. An arcade also runs on a
+currency*, which was true and **added a tier-2 agency hit**: an inanimate subject with a
+verb, the class `N30` and `N43` are about, introduced while fixing a different defect.
+
+Putting the player in the subject removed it and produced the better line. **Under a
+heading that reads *The Token System — What You're Spending*, the sentence now runs the
+verb three times:** *You **pay** attention to play any game, and in an arcade you **pay** a
+currency on top of it. The first rule you get to rewrite is what you **pay** with.*
+
+### Two closed without an edit
+
+**`N19` — the game frame is set up, in the front matter.** `authors_note:25`: *Allyship is
+already a game, and it is already gamified*, with Chou on the drives; `:29` brings Nguyen
+on games as the art form of agency. `SPEC_OPENER_CLEARANCE §0` already ruled ch1 does not
+re-argue this.
+
+**This is the third time in these sweeps that a note flagged something as unestablished
+when it was established elsewhere** — `N33` one paragraph up, `N35` in its own next clause,
+`N19` four pages earlier in the front matter. **A note written while reading forward cannot
+see what the book already did.** Worth carrying into the remaining groups.
+
+**`N09` — nothing left to contract.** `:8` already carries *doesn't*, *I'd* and *wasn't*,
+and no un-contracted *do not / it is / that is / I have* survives in the paragraph. Either
+it was satisfied before the note was filed, or the spot Wendell meant is not recorded.
+
+### `N26` — ruled, no change
+
+The note reads *The problems begin when one of them becomes the whole definition.* Canon
+reads **The damage starts**. `git log -S` confirms *The problems begin* has **never** been
+in `ch1.md`. **Wendell: leave it as damage.** *Damage* is the more precise noun and the
+note would have downgraded it.
