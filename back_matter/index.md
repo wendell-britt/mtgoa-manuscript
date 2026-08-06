@@ -140,6 +140,8 @@ Locators are chapter and section rather than page. **Bold** marks where a term i
 
 **charge, the** — throughout
 
+**clearance** — Ch 2 §7
+
 **evolutionary purpose** — Ch 8 §3, **Ch 8 §4**, App G
 
 **existential kink** — Copyright page, **Ch 1**, Ch 3 §4, App G

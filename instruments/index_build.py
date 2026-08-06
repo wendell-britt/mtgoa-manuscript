@@ -146,6 +146,8 @@ TERMS = {
     "Concepts": [
         ("altitude",             r"\baltitudes?\b"),
         ("charge, the",          r"\bthe charge\b"),
+        # Coined in ch2 §7's second walk, ported 2026-08-05. Four uses, all there.
+        ("clearance",            r"\bclearance\b"),
         ("field, the",           r"\bthe field\b"),
         ("felt sense",           r"felt sense"),
         ("existential kink",     r"existential kink"),
