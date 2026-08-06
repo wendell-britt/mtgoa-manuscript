@@ -315,6 +315,16 @@ This stage can take five seconds or run the length of the encounter, and you kee
 
 The people who raised you hand you a dial in childhood and teach one direction: lower it. Stay composed, stay reasonable, keep it together. Turn the dial that low and most of what moves in the situation slips past before it registers, and we call that setting *calm*. Opening turns the dial the other way. You deliberately raise your sensitivity to everything actually present, in your own body first, then in the people around you.
 
+When a charge arrives, try WAVE.
+
+**Welcome.** Imagine what is coming up in you as a guest at your door. Invite it in. Make space for it.
+
+**Acknowledge.** See it for who it is. If a name comes, give it one. If no name comes, greet it anyway. With practice, this becomes the place where you allow it to stay, accept it as it is, or appreciate what it has been trying to provide.
+
+**Validate.** Your body has a right to experience this feeling, charge, or belief. It is here for a reason. Pushing it away is often what taught it to shout this loudly in the first place.
+
+**Exhale.** Ask whether this is helping you become a more effective, aligned ally. If it is, let it stay and kick up its feet. If it is only pulling you away from the moment, breathe it out of your space. Take with you the fact that you held it a little longer this time.
+
 This matters for one reason: you cannot affect what you cannot feel. The Shaman works by sensitivity, and an instrument kept behind glass reads nothing. When a moment turns and you register it a beat late, the charge has already passed, and the move that could have met it went with it. Contact is the precondition for impact. Every skill later in this chapter runs on the signal that opening lets in; with the dial down, the rest of the game has nothing to work with.
 
 Here is where most well-meaning allies flinch, so let me say it straight: you did not burn out from too much empathy. You burned out because you took in everything and nobody ever trained you to hold any of it. It all came in at once, no skill stood in place to carry the weight, and so you turned the dial all the way back down, the only relief anyone had shown you. You will expect Opening to mean feeling more and coping worse. Opening trains you to hold sensation on purpose: your own charge first, until you can stand inside it without going under, then the other person's, until their reality reaches you without dragging you down with it. That capacity separates help that flatters you from help the person actually needed. Compassion that has felt the full weight and stayed on its feet is the only compassion that informs a good move.

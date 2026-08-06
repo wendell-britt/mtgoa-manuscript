@@ -93,6 +93,12 @@ were once conflated. The Five-Move Form enters before Chapter 3's five stages wi
 credit and the form/changes image. WAVE enters separately inside Open Up, when the reader needs
 the breath-length practice. Neither first-use passage explains the naming collision.
 
+**WAVE introduction applied.** Chapter 3 Open Up now teaches WAVE as Welcome, Acknowledge,
+Validate, Exhale through the guest-at-the-door practice. It gives each action a concrete job and
+keeps Exhale conditional on whether the charge supports aligned allyship. The Five-Move Form
+bridge remains a separate pending unit. Reader-run scan is 0 book-wide; duplicate, gate, and
+spine-anchor checks pass.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
