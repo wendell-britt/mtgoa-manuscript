@@ -69,9 +69,8 @@ document's position. There is no seventh primary anywhere in the manuscript.
   superpower your Face came with."*
 - **A superpower is not a chapter's property.** Any of the six may be used as an example or reader
   practice in any Face chapter, per the Chapter rules above.
-- **The manuscript is not the taxonomy.** Where the book's wording is narrower than a definition
-  above — Storyteller is the clearest case, seated in ch5 on inheritance rather than on public
-  imagination — this document governs.
+- **This document governs the taxonomy itself** — what the six are, what Coach is, what may not be
+  mapped to what. **Reader-facing wording is the other way round; see below.**
 
 ### The second names — ruled 2026-08-05
 
@@ -94,11 +93,41 @@ Two consequences worth stating:
 - **The definitions in this document still govern**, second names included. They are held back from
   the reader, not retired.
 
+### Which definition the quiz returns — ruled 2026-08-05
+
+**The book's definition governs for the quiz.** Where this document and the manuscript describe the
+same superpower in different words, the reader meets the book's version first and at length, so the
+book's is what a result must sound like.
+
+Storyteller is the case that forced the ruling. Three live definitions:
+
+| Source | The claim |
+|---|---|
+| this document | shapes *"meaning, memory, morale, narrative, and public imagination"* |
+| **the book, `ch5:597`** | **what you received, put into a form the next person can receive: the account of where this came from, what it cost, what broke, what still holds** |
+| `MTGOA_TEAL_080525.md:16788` | *"poignance, the art of feeling the weight of loss and weaving it into meaning"* |
+
+**The book's is the one the quiz returns.** Same ruling as the second names, and the same reason:
+one vocabulary between the book and the quiz, because `ch9:664` sends the reader out and she has to
+come back holding something she recognises.
+
+**Two things this does not mean.**
+
+- **The taxonomy is untouched.** This document still decides what the six *are*, that Coach is not a
+  seventh, and what may not be mapped one-to-one. The ruling governs **wording a reader sees**, not
+  the model.
+- **The book's Storyteller is narrower than this document's**, and that is a real cost, stated
+  plainly: a reader whose leverage is public narrative rather than inheritance may not recognise
+  herself in an inheritance-shaped result. If that shows up in how people answer, the fix is to
+  widen `ch5:597`, not to widen the quiz away from the book.
+
+**Generalised from a single ruling.** Wendell ruled this on Storyteller. It is written here as the
+rule for all six because the reasoning does not depend on which superpower it was — but if it was
+meant to settle Storyteller only, narrow this section.
+
 ### Open against this section
 
-- **Storyteller has three live definitions** — this document's, the book's at `ch5:597`, and
-  `MTGOA_TEAL_080525.md:16788`'s *"poignance, the art of feeling the weight of loss."* They are
-  adjacent rather than contradictory, and nobody has ruled which the quiz should return.
+Nothing.
 
 ## ⌃ paste to here ⌃
 

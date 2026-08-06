@@ -181,10 +181,19 @@ Run by eye whenever the page changes or the book's superpower sites change:
    directly and may not organise by Face at all. What would be a defect is the page implying a reader's
    superpower follows from her Face, since `ch2:334` derives it from her history instead, and `ch9:664`
    now says in the book that the two answers need not match.
-5. **The page does not explain the six as a set in a way the book contradicts.** The book teaches
-   each at its own altitude and never as a table; the page may table them, and that is fine as
-   long as no definition disagrees with the quotes above.
-6. **The page still exists at masteringallyship.com** and the book's parenthetical still describes
+5. **The page's definitions match the book's, not the canon's.** Ruled 2026-08-05: where
+   `CANONICAL_ALLYSHIP_SUPERPOWERS.md` and the manuscript word the same superpower differently, the
+   **book's version is what the quiz returns**, because that is the one the reader has already met
+   at length. The six quotes above are therefore the strings to check against, and **Storyteller is
+   the one to check first** — the canon has it as meaning, memory and public imagination, the book
+   has it as inheritance put in receivable form. The book wins.
+6. **The page leads with the primary name.** Connector, Strategist, Disruptor, Escape Artist,
+   Alchemist, Storyteller. The canon's second names — Webweaver, System Seer and the rest — are
+   deferred to the RPG manual and must not surface in a result. See `BACKLOG_TOOL_LIBRARY_SPEC.md`.
+7. **The page does not table the six in a way the book contradicts.** The book teaches each at its
+   own altitude and never as a set; the page may table them, as long as no definition disagrees
+   with the quotes above.
+8. **The page still exists at masteringallyship.com** and the book's parenthetical still describes
    what it does. `ch9:664` and `ch1:83` are the two sites that point out; DL-20's rule is that a
    printed pointer cannot be patched.
 
