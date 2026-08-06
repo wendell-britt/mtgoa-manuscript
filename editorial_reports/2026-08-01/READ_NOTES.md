@@ -368,3 +368,46 @@ The note reads *The problems begin when one of them becomes the whole definition
 reads **The damage starts**. `git log -S` confirms *The problems begin* has **never** been
 in `ch1.md`. **Wendell: leave it as damage.** *Damage* is the more precise noun and the
 note would have downgraded it.
+
+### `N34` — the prize passage rewritten, applied 2026-08-05
+
+**Wendell:** *Whole passage needs rewriting. In ch1 the reader does not know what line was
+held, what thing was repaired that was going to be avoided, and it sets up a clean
+tiredness as a prize that connects to nowhere.*
+
+> **Before:** …a felt sense of satisfaction that only shows up when you actually played.
+> **You named the line and drew it. You held the field without giving up your walk-away
+> price. You repaired the thing you would rather have avoided. You walk out tired and
+> clear, and that clean tiredness is the prize, one of the satisfied states you will meet
+> with the Shaman in Chapter 3.**
+>
+> **After:** …a felt sense of satisfaction that only shows up when you actually played.
+> **You said out loud, in the meeting, that the decision was landing on the person with
+> the least power to absorb it. You stayed in the hard part of the conversation instead of
+> smoothing it flat. You went back to somebody you got it wrong with and said so. You walk
+> out tired, and the satisfaction is still there at dinner. Chapter 3 is where you learn
+> to make it on purpose.**
+
+**1 · The vocabulary was three chapters early.** *The line*, *the field* and *the
+walk-away price* are Challenger and Diplomat terms that arrive in ch4 and ch7. The three
+examples now run on the scene the chapter already gave her at `ch1:22` — *a decision lands
+on the person with the least power to absorb it* — in that paragraph's own words.
+
+**2 · *the thing you would rather have avoided* was an empty noun over a blank.** Now
+*somebody you got it wrong with.*
+
+**3 · The clean tiredness was worse than disconnected. It was a forward reference to a
+state that does not exist.** `ch1:125` called it *one of the satisfied states you will meet
+with the Shaman in Chapter 3.* **The satisfied states are wonder, poignance, triumph and
+bliss** (`ch3:463`ff). Clean tiredness is not among them, and `ch3:471` states what ch1 is
+actually meant to hand forward: *These five states are the renewable fuel Chapter 1 pointed
+you here to make.*
+
+**The replacement lands on `:123`'s own clock instead.** That paragraph ends *you perform
+the care, you feel like somebody for an hour, and you are **empty by dinner**.* This one
+now ends *you walk out tired, and the satisfaction is **still there at dinner**.* **Same
+clock, opposite result** — which is what the two-counter structure was built for, and what
+*clean tiredness* had been standing in front of. And *Chapter 3 is where you learn to make
+it on purpose* is a promise ch3 keeps in its own words.
+
+`gate` PASS · `agency` 28 · `preempt` 9 · `shapes` 11 · every diet counter within band.
