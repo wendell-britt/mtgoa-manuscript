@@ -83,8 +83,13 @@ SHAPES = [
     ("meta-narration",
      # `Here they are` added 2026-08-01, batch seven: Wendell flagged it opening the
      # *Which Game Are You Playing* section. Same move as `Here is the`, one pronoun over.
-     r"(Here is (?:what|where|why|how|the)\b|Here's (?:what|where|the)\b|"
-     r"\bHere they are\b|Here is the (?:thing|point)\b|"
+     # Word boundaries added 2026-08-05. The shape is matched case-insensitively by
+     # Wendell's ruling, and without a leading \b `here is the` fires inside
+     # *there is the* and *where is the*. `Here they are` already carried one for
+     # the same reason -- it had been matching *where they are*. Same bug, three
+     # alternatives over, four days later.
+     r"(\bHere is (?:what|where|why|how|the)\b|\bHere's (?:what|where|the)\b|"
+     r"\bHere they are\b|\bHere is the (?:thing|point)\b|"
      r"I will say it plainly|let me be clear|I want to be careful here|"
      r"What most people get wrong|the part (?:most people|everyone)|"
      r"what nobody tells you|the uncomfortable truth)"),
