@@ -663,9 +663,9 @@ In practice: When you're transitioning out of something, ask: *am I giving the n
 
 ## Your Twenty Cards
 
-Same grid, one operation further along. Five moves down (the Five-Move Form), four domains across. Twenty cards, and these are the Regent's.
+Same grid, one operation further along. The five movements of the Five-Move Form run down, four domains across. Twenty cards, and these are the Regent's.
 
-*Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
+*Your twenty live in the deck rather than on this page: the five movements of the Five-Move Form against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the movements that get you there.*
 
 The Regent's Show Up cards are the only ones in the deck built entirely out of verbs for keeping: hold, keep, sustain, tend. Not one of them makes anything new. That marks the difference between building something and inheriting it, and it makes this operation the slowest of the six. Read down for the sequence, across for the arena.
 
@@ -689,7 +689,7 @@ Take **Can You Hold the Whole**: Open Up, Skillful Organizing, Regent. Its quest
 
 Run it once, on something real. Bring an inheritance you are currently carrying: a practice, a role, a piece of institutional memory nobody wrote down. Wake Up: name precisely what deserves tending. Open Up: ask whether you can stay with it *as it is*, unrepaired, for one cycle. Clean Up: name the capability the structure lacks, the structure, not you. Grow Up: name what deserves practice rather than rescue. Show Up: name what you would keep going even after you hand it over.
 
-Five moves, one card. The Regent's version runs slower than the others: give it the length of a walk rather than ninety seconds.
+One pass through the Form, one card. The Regent's version runs slower than the others: give it the length of a walk rather than ninety seconds.
 
 ### From Card to Quest
 
@@ -699,7 +699,7 @@ One line, four things: what you will do, who it reaches, by when, and what it co
 
 The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For a Regent the dread usually concerns becoming unnecessary, and that is the dread to trust.
 
-*Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
+*Draw one from your twenty. Run the Form on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
 
 ---
 

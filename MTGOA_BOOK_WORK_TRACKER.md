@@ -149,6 +149,11 @@ this editorial branch.
 **Chapter 4 recap aligned.** The Challenger's five game moves now explicitly follow the
 Five-Move Form in the closing recap, matching the Chapter 1 hierarchy and Chapter 3 bridge.
 
+**Chapters 5–8 card practice aligned.** The card grids now name the Five-Move Form at first
+reference, then use “the Form” for their associated card exercises. Face-specific cycles and
+modes remain distinct: Regent, Architect, Diplomat, and Sage each retain their own vocabulary.
+Chapter 9's Player-specific moves remain a separate contextual decision.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction

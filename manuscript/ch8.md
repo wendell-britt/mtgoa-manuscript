@@ -752,11 +752,11 @@ Do not use the meta-view to make yourself unaccountable. If your clarity only ma
 
 ## Your Twenty Cards
 
-The grid again, sixth operation of six, the last one. Five moves down, four domains across, twenty cards. These are the Sage's.
+The grid again, sixth operation of six, the last one. The five movements of the Five-Move Form run down, four domains across, twenty cards. These are the Sage's.
 
-*Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
+*Your twenty live in the deck rather than on this page: the five movements of the Five-Move Form against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the movements that get you there.*
 
-The five moves are this chapter, in order. Wake Up is the Panoramic Seer with an instrument in its hand: every card at that stage asks the same question about a different arena. Open Up finds the Sage weakest by design, because witnessing a game from inside it is the one thing the whole-board view makes harder rather than easier. Clean Up is where insight either becomes a diagnosis or hardens into a verdict, and two of those four cards read as a fork for exactly that reason. Grow Up is the move this chapter's daemon exists to prevent, the only move in the deck that asks what the playing does to the player. Show Up is legacy, and every card there names what remains once you stop holding it. Pick a domain and you're choosing the arena instead. Down is the sequence. Across is where it lands.
+The five movements of the Form are this chapter, in order. Wake Up is the Panoramic Seer with an instrument in its hand: every card at that stage asks the same question about a different arena. Open Up finds the Sage weakest by design, because witnessing a game from inside it is the one thing the whole-board view makes harder rather than easier. Clean Up is where insight either becomes a diagnosis or hardens into a verdict, and two of those four cards read as a fork for exactly that reason. Grow Up is the move this chapter's daemon exists to prevent, the only move in the deck that asks what the playing does to the player. Show Up is legacy, and every card there names what remains once you stop holding it. Pick a domain and you're choosing the arena instead. Down is the sequence. Across is where it lands.
 
 ### Drawing Against the Shadow
 
@@ -778,7 +778,7 @@ Take **Who the Fight Makes You**: Grow Up, Direct Action, Sage. Its question is 
 
 Run it once, on something real. Bring a fight you're carrying right now: an actual one, with people in it. Wake Up: name the game, and notice the footnote about yourself that arrives with it. Open Up: witness one minute of what it's like to be inside this fight, without auditing the witnessing. Clean Up: name the channel. Fire, Water, Metal, Earth, Wood, one of them, not *my thing.* Grow Up: name what this fight is building in you, stated as a capacity rather than a repair. Show Up: pick a domain and name what you'd leave behind if you stopped playing tomorrow.
 
-Five moves, one card, ninety seconds. The Sage's version stands alone in the book: here the hard part is refusing to run a second pass.
+One pass through the Form, one card, ninety seconds. The Sage's version stands alone in the book: here the hard part is refusing to run a second pass.
 
 ### From Card to Quest
 
@@ -788,7 +788,7 @@ One line, four things: what you will do, who it reaches, by when, and what it co
 
 A live quest does not announce itself through enthusiasm. It's anticipation with some dread underneath. At this altitude the dread usually runs like this: handing it over will prove you were never as necessary as the exhaustion suggested. That happens, and it still doesn't count as a reason.
 
-*Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
+*Draw one from your twenty. Run the Form on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
 
 ### The One Rep
 

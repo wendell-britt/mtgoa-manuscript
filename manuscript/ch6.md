@@ -578,11 +578,11 @@ That's what winning looks like at this altitude.
 
 ## Your Twenty Cards
 
-The grid again, fourth operation of six. Five moves down, four domains across, twenty cards. These are the Architect's.
+The grid again, fourth operation of six. The five movements of the Five-Move Form run down, four domains across, twenty cards. These are the Architect's.
 
-*Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
+*Your twenty live in the deck rather than on this page: the five movements of the Five-Move Form against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the movements that get you there.*
 
-The five moves are this chapter, in order. Wake Up is a mode detecting. Open Up is the six seconds. Clean Up is the conversion, performed on purpose, in its own slot, rather than on reflex a quarter-second after the signal lands. Grow Up is the capability the design is supposed to leave behind in other people. Show Up is the thing you build, and every card at that stage starts with the same verb. Pick a domain instead and you are choosing the arena. Down is the sequence, across is where it lands.
+The five movements of the Form are this chapter, in order. Wake Up is a mode detecting. Open Up is the six seconds. Clean Up is the conversion, performed on purpose, in its own slot, rather than on reflex a quarter-second after the signal lands. Grow Up is the capability the design is supposed to leave behind in other people. Show Up is the thing you build, and every card at that stage starts with the same verb. Pick a domain instead and you are choosing the arena. Down is the sequence, across is where it lands.
 
 ### Drawing Against the Shadow
 
@@ -604,7 +604,7 @@ Take **Forge the Anger**: Clean Up, Direct Action, Architect. Sit with how uncom
 
 Run it once, on something real. Bring the last decision that landed badly on people who had no say in it. Wake Up: which mode caught it, and what was it detecting. Open Up: six seconds, channel and location, before anything gets modeled. Clean Up: now choose, deliberately, does this get transcended, translated, or neutralized, and why that one. Grow Up: name the capability that gets stronger in someone else if you build this. Show Up: pick a domain and size the intervention against the problem rather than against the charge.
 
-Five moves, one card, ninety seconds, six of which are the only ones your Emotional Body will fight you for.
+One pass through the Form, one card, ninety seconds, six of which are the only ones your Emotional Body will fight you for.
 
 ### From Card to Quest
 
@@ -614,7 +614,7 @@ One line, four things: what you will do, who it reaches, by when, and what it co
 
 The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For an Architect the dread is usually that the thing will be built worse without you. That is frequently true and it is not a reason.
 
-*Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
+*Draw one from your twenty. Run the Form on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
 
 ---
 
