@@ -50,9 +50,9 @@ agree with.
 > received, put into a form the next person can receive. The account of where this came from, what
 > it cost, what broke, what still holds, and why any of it is worth their time.
 >
-> The same holds for whatever group you belong to. Its story about where it came from and who it
-> has been decides what gets protected and who counts as one of us. Tell it accurately and the
-> choice comes back. Tell it to flatter and it hardens into a rule nobody may question.
+> Your group carries a story about where it came from and who it has been, and that story
+> decides what the group protects and who belongs. Tell the story accurately and the group gets
+> its choice back. Flatter the story and it hardens into a rule nobody may question.
 
 **Widened 2026-08-05.** The Storyteller was the one definition materially narrower than the canon's.
 It now covers inheritance **and** the story a group runs on, so the book's version and the canon's

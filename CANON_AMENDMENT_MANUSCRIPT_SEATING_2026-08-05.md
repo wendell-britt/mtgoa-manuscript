@@ -120,9 +120,9 @@ come back holding something she recognises.
   section named rather than by moving the quiz away from the book. `ch5:597` now carries the second
   half:
 
-  > The same holds for whatever group you belong to. Its story about where it came from and who it
-  > has been decides what gets protected and who counts as one of us. Tell it accurately and the
-  > choice comes back. Tell it to flatter and it hardens into a rule nobody may question.
+  > Your group carries a story about where it came from and who it has been, and that story
+  > decides what the group protects and who belongs. Tell the story accurately and the group gets
+  > its choice back. Flatter the story and it hardens into a rule nobody may question.
 
   So the book's Storyteller is now inheritance **and** the story a group carries about itself —
   this document's *memory, morale, narrative* — in the book's own words. A reader whose leverage is
