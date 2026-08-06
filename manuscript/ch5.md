@@ -596,7 +596,7 @@ The Fixer-Healer developed does one thing nothing else in this chapter can do: i
 
 That lays the foundation this chapter builds on, and what it trains is the Storyteller: what you received, put into a form the next person can receive. The account of where this came from, what it cost, what broke, what still holds, and why any of it is worth their time. That is how something survives its carrier. Not by being held. By being told, in full, to someone who can pick it up.
 
-That much you can hold in your hands. The rest has no object in it. Every group runs on a story about itself, usually one nobody chose and nobody says out loud, and that story sets what the group believes it can do. Name it accurately, offer a truer one, and the group gets a different set of moves. Both come to the same work: telling people where they actually are, in a form they can use.
+That much you can hold in your hands. The rest has no object in it. A group carries a story about where it came from and who it has been, and the story decides what the group protects and who counts as its own. Told accurately, the story hands that choice back. Told to flatter, the story hardens into a rule nobody may question.
 
 You know what your Fixer is for now. That is what you take out.
 

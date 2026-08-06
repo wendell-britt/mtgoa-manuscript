@@ -120,16 +120,23 @@ come back holding something she recognises.
   section named rather than by moving the quiz away from the book. `ch5:597` now carries the second
   half:
 
-  > That much you can hold in your hands. The rest has no object in it. Every group runs on a story
-  > about itself, usually one nobody chose and nobody says out loud, and that story sets what the
-  > group believes it can do. Name it accurately, offer a truer one, and the group gets a different
-  > set of moves. Both come to the same work: telling people where they actually are, in a form they
-  > can use.
+  > That much you can hold in your hands. The rest has no object in it. A group carries a story about
+  > where it came from and who it has been, and the story decides what the group protects and who
+  > counts as its own. Told accurately, the story hands that choice back. Told to flatter, the story
+  > hardens into a rule nobody may question.
 
-  So the book's Storyteller is now inheritance **and** the story a group runs on, which is this
-  document's *"recognizes the story organizing behavior and offers a truer frame for action"* in the
-  book's own words. A reader whose leverage is public narrative can now find herself in the
-  chapter.
+  So the book's Storyteller is now inheritance **and** the story a group carries about itself —
+  this document's *memory, morale, narrative* — in the book's own words. A reader whose leverage is
+  narrative rather than transmission can find herself in the chapter.
+
+  **The first version of this widening was withdrawn the same day.** It read *"Every group runs on
+  a story about itself, usually one nobody chose and nobody says out loud… Name it accurately,
+  offer a truer one, and the group gets a different set of moves."* That is **Name the Game**, the
+  Sage's Move 1 at `ch8:670`, arriving unnamed in ch5 three chapters early — *"what game is being
+  played underneath the one we're talking about."* Reaching for the canon's *public imagination*
+  had pulled ch5 to the Sage's altitude. The replacement stays at the Regent's: **memory,
+  belonging, and what a group refuses to reconsider**, which is Amber's own material — culture,
+  rules, traditions, taboos.
 
 **Generalised from a single ruling.** Wendell ruled this on Storyteller. It is written here as the
 rule for all six because the reasoning does not depend on which superpower it was — but if it was
