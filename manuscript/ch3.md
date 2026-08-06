@@ -623,7 +623,7 @@ This is emotional processing, and the material it works on has weight. Some of w
 |----------------|------|
 | Charge is in a *person* | 3-2-1 — here, and in every chapter after this one |
 | Stuck between two *rights* | Polarity Map — here, and in every chapter after this one |
-| Charge is in *body* now | Five-Move Form |
+| Charge is in *body* now | WAVE |
 
 *Full process, worked examples, and source (Ken Wilber, Integral Life Practice): Appendix E: The 3-2-1 Shadow Process.*
 

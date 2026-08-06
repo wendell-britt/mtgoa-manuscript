@@ -158,6 +158,11 @@ Chapter 9's Player-specific moves remain a separate contextual decision.
 Five-Move Form in the territory of authorship, while the Player's modes and its Review / Discern
 / Design / Build / Pass On work sequence remain distinct systems.
 
+**WAVE / Form acceptance audit closed.** The remaining Chapter 3 and Appendix E routing tables
+now direct body-present charge to WAVE first. The prose then directs the reader to work owned,
+workable charge through the Five-Move Form. No reader-facing `WAVE-Spiral` or macro-WAVE use
+remains.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
