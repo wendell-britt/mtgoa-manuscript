@@ -232,3 +232,46 @@ dirty?* has an answer: **every prize on that shelf is the kind you carry home by
 yourself.** A counter that only pays out in personal standing can never cost its owner
 anything structural. Fifteen words, and only reachable because the metaphor was made to
 justify itself.
+
+### `ch1:155` — the encouragement test, applied 2026-08-05
+
+**Wendell:** *"None of those grade you. none of what grade you on what?"* Then, on the
+first replacement: *"a verdict is the only thing praise has ever handed me. What does this
+mean. praise has given me a lot of things. This claim is weird and I don't know how its
+supposed to help Jordan."*
+
+**Both questions had canon answers the line was not using.** `ch1:97` — *Nothing in it asks
+whether you are good.* `ch1:99` — *you are not the defendant waiting on a verdict about
+your character.* The chapter establishes **character** as the thing being graded, twice,
+and then `:155` said *grade you* with the object dropped and *those* pointing at three
+italic fragments.
+
+> **Before:** *That helped.* *Thank you.* *I know where I am now.* None of those grade
+> you. Every one of them tells you the move landed.
+>
+> **After:** *That helped.* *Thank you.* *I know where I am now.* Each of those three tells
+> you what happened to the person saying it. None of them says anything about your
+> character. That is the test, and you can run it on anything anybody hands you.
+
+**Three defects in one drafted sentence, and Wendell caught the one the instruments could
+not.**
+
+1. **A claim the book contradicts twice.** *A verdict is the only thing praise has ever
+   handed me* against `ch1:123` (*pays out in being seen as good, in the right people
+   nodding, in the post that does numbers*) and `ch1:42` (*the payout lands in my safety
+   and my belonging*). **Praise hands over a great deal — that is why the counter works.**
+   Written while working three paragraphs from the passage that says so.
+2. **A false absolute.** *The only thing* where the true statement is about subject
+   matter rather than quantity.
+3. **A flourish in a teaching slot**, and this is the instructive one. I chose the
+   first-person ending *because* `E4` says the author's cost precedes the reader's.
+   **E4 governs passages that ask her to look at herself. This one hands her an
+   instrument.** The rule did not apply and I applied it anyway.
+
+**What the paragraph now does.** `:153` diagnoses the praise trade; `:155` is its fix. *None
+of those grade you* only said what encouragement is not. Naming what the three examples
+**do** — report an effect on the speaker — is what makes one recognisable when she hears
+it, and the test is portable: *is this about me, or about what my move did to them?*
+
+`gate` PASS · 0 probe hits · every ch1 counter flat in place. **A meaning fix, not a
+numbers fix**, which is the class the instruments are blind to by design.

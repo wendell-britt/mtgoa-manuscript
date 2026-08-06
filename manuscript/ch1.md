@@ -152,7 +152,7 @@ You and the person you came to help are not playing the same game. You walk a fl
 
 Which brings me back to the prize counter. What I collected there for years was praise, and praise has a shape to it. Somebody stands above you and grades you. That is the trade, every time. Take your winnings in praise and you have agreed to be judged by the person handing it over, which puts one of you above the other, and you are now doing something other than allyship.
 
-Encouragement is the smaller word and the better one. *That helped.* *Thank you.* *I know where I am now.* None of those grade you. Every one of them tells you the move landed.
+Encouragement is the smaller word and the better one. *That helped.* *Thank you.* *I know where I am now.* Each of those three tells you what happened to the person saying it. None of them says anything about your character. That is the test, and you can run it on anything anybody hands you.
 
 Somebody owns the prize counter.
 
