@@ -232,3 +232,51 @@ fonts*, *may never notice you did*.
 assume she has a team, a budget, a calendar to take over and a panel to sit on. Untouched
 by this pass, and it is a different kind of fix: one sentence somewhere, rather than four
 relocations.
+
+---
+
+## §6.3 APPLIED — the reader-as-manager default gets named once
+
+Added to the end of `ch1:48`, the paragraph that already claims the real work happens where
+fluency earns you nothing. **The admission attaches to the claim it qualifies**, and the
+book never explains what an Example is, so there was no framing slot to use instead.
+
+> Most of the examples ahead happen at work, and several assume you have a budget or a say
+> in how things run. An office leaves its machinery where you can see it, and I have spent
+> my hours there. If your hardest hour this week happens at a kitchen table or in a queue,
+> and nobody has ever asked your opinion about the rota, the move is the same. The
+> furniture is yours to change.
+
+**Two reasons, and one of them costs him.** *An office leaves its machinery where you can
+see it* is why the Examples work at all — you can point at the form, the rota, the panel.
+*I have spent my hours there* is `E4`'s requirement that the author's cost precede the
+reader's, and the Skeptic reads an admission as the cheapest clearance available.
+
+**And it ends on an instruction rather than an apology.** *The furniture is yours to
+change* is the same operation performed four times above, handed to the reader.
+
+`gate` PASS · zero probe hits · in place ch1 moves `passive` 0.88 to 0.87 and `inchoative`
+1.18 to 1.17, everything else flat. Standalone it reads 0.00 on both passive and copula
+after two verbs went active.
+
+### What re-measuring changed about the finding
+
+The spec's original count was **8 institutional / 7 peer / 4 outside**. Re-classifying all
+35 Examples after today's four relocations, the outside bucket roughly triples. **But the
+assumption does not spread evenly, it clusters:**
+
+- **ch5 and ch6 assume you built or run the thing in 5 of 10** — `ch5:571` you take over
+  the team calendar, `ch5:601` you told a team, `ch5:611` you are handing over the fund,
+  `ch6:480` you built the intake process and you run it, `ch6:522` you built the escalation
+  path.
+- **ch9 assumes you run a practice in 3 of 5** — `:530` builds a workshop, `:558` runs a
+  gathering, `:572` owns a practice other people teach.
+
+The added sentence covers the class. **Whether ch9's cluster is structural is a separate
+question**, since the Player chapter is about running your own game, and nothing in this
+spec rules on it.
+
+## Spec closed
+
+All three questions in §6 are ruled and applied: `ch1:44` stands, a child Example exists at
+`ch5:591`, and the manager default is named once at `ch1:48`.
