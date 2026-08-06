@@ -127,6 +127,10 @@ teaches as a move.
 **Title-page subtitle revised.** The subtitle is now *How to Build an Allyship Practice That
 Lasts*. It states the book's reader promise without listing partial or internal practice language.
 
+**School hierarchy ratified.** Chapter 1 now establishes that the Five-Move Form is shared across
+the schools: the Shaman teaches it first, and every later school teaches Face-specific changes on
+that form. This governs the remaining Chapter 3 marginalia and five-move terminology cleanup.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
