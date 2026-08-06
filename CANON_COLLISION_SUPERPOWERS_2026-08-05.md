@@ -25,12 +25,26 @@ work is a **contrast** — structural generosity is the intent, and the Strategi
 intent is not — so *superpower* becomes *skill* and the site stops making a taxonomy claim at all.
 The chapter's one binding now lives at `ch6:464` and nowhere else.
 
-> Intent, though, is not the skill. The skill is the **Strategist**: knowing where the push goes
-> and when to make it.
+**Corrected the same day, twice over.** The first attempt read *"The skill is the Strategist"*, and
+Wendell: *"awkward. The skill isn't the Strategist. The Strategist is the name for the superpower."*
+Subject and predicate were the wrong way round — a name was being equated with the thing it names.
+He also caught **`the push`**, a definite article with nothing behind it. Final:
 
-**Measured identically before and after** — `be 2.59 · copula 2.58 · waste 1.93` on both, since the
-edit swaps one noun for another of the same shape. Those numbers are the existing sentence's on a
-44-word sample, well under the noise floor, and this edit neither helps nor hurts them.
+> Intent, though, is not the skill. **Strategist** names the skill: knowing where a small push
+> moves the most, and when to make it.
+
+`Strategist` now does what a name does, and the push is indefinite and self-contained, echoing the
+chapter's own formulation at `ch6:485`: *"where does the smallest push create the largest
+movement?"*
+
+**Measured against the shipped sentence:** `be 2.59 → 2.07 · copula 2.58 → 1.72 · waste 1.93 →
+1.85`. The residual heaviness belongs to the neighbouring shipped sentences, which is what the
+voice linter's abstraction-in-subject warning points at.
+
+**`ch6:464` uses `the push` as well and is left alone**, because there it has an antecedent two
+paragraphs up at `ch6:462`: *"the pressure has built to the point that one push will do what a year
+of argument could not."* Recoverable, so the article is earned. `ch6:628` sat 164 lines downstream
+of that with nothing in between, which is what made it orphaned rather than merely repeated.
 
 **Full inventory after the sweep**, every remaining *superpower* in the manuscript, classified by
 which side of the membrane it sits on:
