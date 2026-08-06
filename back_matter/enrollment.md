@@ -6,7 +6,7 @@ A level sits above that one, and the fastest way to it is working with me direct
 
 **Coaching.** One-on-one, on your own six Faces and on whichever daemon keeps taking your joystick. This is the shortest distance between where the book left you and where you were trying to get. Chapter 9 calls it the smallest version of showing the work, one person and not an audience, and it runs the same way pointed in this direction.
 
-**Speaking.** For a company or an organization where somebody wants the game named out loud, in front of everybody, on purpose. A group moves at a different speed than a person, and it needs the frame set up in the space rather than in one head. I said in Chapter 1 that a move like that asks for far more and needs a history behind it. I have that history.
+**Speaking.** For a company or an organization where somebody wants the game named out loud, in front of everybody, on purpose. A group moves at a different speed than a person, and it needs the frame set up in the space rather than in one head. A move like that asks for far more, and it needs a history behind it. I have that history.
 
 **The deck.** A hundred and twenty cards, so the moves sit in your hands instead of on a page. If Chapter 9 left you looking for somewhere to put the work, the deck is where it goes.
 
