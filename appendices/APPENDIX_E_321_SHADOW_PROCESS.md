@@ -87,7 +87,7 @@ These tools work together, not in competition.
 
 **The Five-Move Form** moves the charge — once it's yours again, through Wake Up, Open Up, Clean Up, Grow Up, Show Up.
 
-If you're stuck in a channel — always translating, never feeling; always holding the field, never naming your stake — 3-2-1 often reveals which gate or part is intercepting the spiral before it completes. Do 3-2-1 first when the trigger is a *person*. Do WAVE first when the trigger is a *feeling already in your body*. Many hard moments need both.
+If you're stuck in a channel — always translating, never feeling; always holding the field, never naming your stake — 3-2-1 can show you which gate or part is holding the charge outside your awareness. Start with WAVE when a feeling is already in your body; start with 3-2-1 when it is wearing another person's face. Once the charge is yours, work it through the Five-Move Form. Many hard moments need both.
 
 The Shaman's toolkit is not one practice. It is a loop: find the shadow, alchemize the charge, walk the gates, show up in the field. 3-2-1 is how the loop starts when the charge is wearing someone else's face.
 

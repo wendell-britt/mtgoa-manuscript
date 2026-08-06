@@ -117,6 +117,13 @@ decisions remain open: the Chapter 3 marginal note's “spiral,” Appendix E's 
 instruction, the title page's incomplete move list, and distinct formal credit for Wilber's
 *Finding Radical Wholeness*.
 
+**Practice routing and source credit applied.** Appendix E now routes body-present charge to
+WAVE, person-shaped charge to 3-2-1, then directs the reader to work owned charge through the
+Five-Move Form. The copyright page now separately credits *Finding Radical Wholeness* for the
+Five-Move Form, without collapsing that source into *Integral Life Practice*. The Chapter 3
+marginal note and title-page subtitle remain open pending a whole-book check of what the school
+teaches as a move.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
