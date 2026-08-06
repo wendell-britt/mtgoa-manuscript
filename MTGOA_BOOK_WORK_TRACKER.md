@@ -140,6 +140,12 @@ its rendered Chapter 3 block remain synchronized.
 the Five-Move Form rather than claiming to be the same list. The later Face chapters will use
 this distinction as their cross-reference pattern.
 
+**Retired glossary aligned.** `APPENDIX_C_KEY_TERMS.md` remains off the reader spine, but its
+internal entries now distinguish WAVE (Welcome, Acknowledge, Validate, Exhale), the Five-Move
+Form, and Face-specific changes. An uncommitted parallel proposal for “Five-Move BAR Flow” in
+the main worktree was inspected and deliberately not adopted; the ratified terminology governs
+this editorial branch.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
