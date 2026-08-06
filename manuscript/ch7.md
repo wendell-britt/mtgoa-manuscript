@@ -550,7 +550,7 @@ Then put a limit on it, because an open ledger is the shadow's whole method. The
 
 It shows up in a single beat. Someone tells you that something you did landed badly on them. Something in you goes still and attentive; that is the Repairer arriving, on time, doing its job. Then the ledger opens underneath it, and what surfaces is not a defence. A defence you would catch. What surfaces is a balance. *After everything I have carried here.* You do not say it. You would never say it. What you say is *I hear you,* the ledger's most efficient instrument, because it accepts the words without admitting the entry. The conversation ends warm. Nothing has been received. On the narrow jurisdiction the same part returns the same accurate report and the answer changes: *that is true, I did that, and here is what it cost you*, with your own column left closed, in your pocket, entirely real and not currently the subject.
 
-*Bring one time somebody named an impact you had and you agreed with them out loud without anything landing. Name what the ledger produced in the half-second before you spoke: the entry, not the feeling about it. Then write the one sentence you would have had to say instead. Two minutes to capture it as a BAR.*
+*Bring one time somebody named an impact you had and you agreed with them out loud without anything landing. Name what the ledger produced before you spoke: the entry, not the feeling about it. Then write the one sentence you would have had to say instead. Two minutes to capture it as a BAR.*
 
 ---
 
@@ -589,7 +589,7 @@ The tell is never the position. The tell is whether impact ever arrives without 
 
 The Victim developed does what nothing else in this chapter can do: it lets you know exactly what your presence costs and decline to bill for it. That combination is rarer than it sounds. Most people manage one or the other. They either lose track of the cost entirely and disappear into the work, or they keep perfect count and spend it. Holding both is what makes your staying mean anything, because only a cost you can name and do not bill for reads as a choice.
 
-That forms the Connector's foundation, and the word usually means something else. The Diplomat's superpower is not making contact; the Bridge-Builder does that in the first hour. It is connection that has survived being told the truth. Connection nobody has ever closed with is attendance, and attendance is what a field takes for granted. The close is what converts one into the other: you name what this must hold for your staying to remain real, once, in a sentence, and you let the field answer. What remains after that is the part that was ever actually yours.
+That forms the Connector's foundation, and the word usually means something else. This chapter does not train contact; the Bridge-Builder makes that in the first hour. It trains connection that has survived being told the truth. Connection nobody has ever closed with is attendance, and attendance is what a field takes for granted. The close is what converts one into the other: you name what this must hold for your staying to remain real, once, in a sentence, and you let the field answer. What remains after that is the part that was ever actually yours.
 
 You know what your Victim is for now. That is what you take out.
 

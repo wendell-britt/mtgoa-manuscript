@@ -753,7 +753,7 @@ Then it sat in the circle, and no one could unsay it, and the council had to ans
 
 That is the myth this chapter breaks. Allyship is not saying the right words. The council had the right words, and the right words were the wall. Allyship is saying the true one, what a part of you has already felt, that everyone already half-knows, to the face it concerns, at the cost of being, for one cold moment, the person who said it.
 
-The superpower under that move is the Alchemist. The Alchemist is the one who takes the charge the Controller called a foul (the fear, the "not ready," the "not good enough") and burns it for fuel instead of waiting for it to go away. The woman on the council did not speak once the fear left. She spoke while it still burned, and used it. That is the Shaman's whole practice. The sensing, the WAVE, the Controller pried off the joystick, all aimed at one outcome: one true sentence, out of your body and into the world, where it can move the water.
+That move trains the Alchemist. The Alchemist is the one who takes the charge the Controller called a foul (the fear, the "not ready," the "not good enough") and burns it for fuel instead of waiting for it to go away. The woman on the council did not speak once the fear left. She spoke while it still burned, and used it. That is the Shaman's whole practice. The sensing, the WAVE, the Controller pried off the joystick, all aimed at one outcome: one true sentence, out of your body and into the world, where it can move the water.
 
 ### 3-2-1 on Your Controller
 

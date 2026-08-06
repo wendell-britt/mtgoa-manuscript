@@ -594,7 +594,9 @@ The tell is never the position. The tell is whether anything ever gets accepted.
 
 The Fixer-Healer developed does what nothing else in this chapter can do: it lets you say what is wrong with something you have already committed to. That combination comes rarer than it sounds. Most people manage one or the other, loyal and blind, or clear-eyed and uncommitted. Holding both makes an inheritance transmissible, because the next person needs the damage report and the commitment in the same hand. A tradition handed over with all its flaws named is a tradition someone can actually take.
 
-That lays the foundation of the Regent's superpower, which puts what you received into a form the next person can receive: the account of where this came from, what it cost, what broke, what still holds, and why any of it is worth their time. That is how something survives its carrier. Not by being held. By being told, in full, to someone who can pick it up. That is the Storyteller.
+That lays the foundation this chapter builds on, and what it trains is the Storyteller: what you received, put into a form the next person can receive. The account of where this came from, what it cost, what broke, what still holds, and why any of it is worth their time. That is how something survives its carrier. Not by being held. By being told, in full, to someone who can pick it up.
+
+Your group carries a story about where it came from and who it has been, and that story decides what the group protects and who belongs. Tell the story accurately and the group gets its choice back. Flatter the story and it hardens into a rule nobody may question.
 
 You know what your Fixer is for now. That is what you take out.
 

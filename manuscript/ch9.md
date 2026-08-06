@@ -661,7 +661,7 @@ So here are six moments. Read each one and write down two answers before you go 
 
 **Now count your answers.**
 
-If one Face showed up in four or more of the six, you have just watched your autopilot run. Chapter 1 told you this would happen and left a line open on your character sheet for it. Fill it in now, with the Face and the number, because a pattern you caught yourself running is worth more than any diagnosis I could have handed you in Chapter 2.
+If one Face showed up in four or more of the six, you have just watched your autopilot run. Chapter 1 told you this would happen and left a line open on your character sheet for it. Fill it in now, with the Face and the number, because a pattern you caught yourself running is worth more than any diagnosis I could have handed you in Chapter 2. Then write that Face a second time, on its own line, this time as a tool rather than a habit: the superpower its chapter named, and what it does for people when you are the one aiming it. Chapter 1 promised you a superpower you would only spot in motion. You just watched it move. The Face that runs you and the Face worth having are the same Face, and the sheet should carry both. (The one you built out of your own history is a different question, and the page at masteringallyship.com answers it. Its answer does not have to match the superpower your Face came with.)
 
 Then go to the Face that never came up at all. Open its chapter, find the one move you have never run in your life, and put it against the cause you named as your quest back in Chapter 1. Give it a name and a date, or it is a resolution.
 

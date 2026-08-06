@@ -583,7 +583,7 @@ Then put a limit on it, because an open repair schedule is the shadow's whole me
 
 It shows up in a single beat. Someone asks you for help with something real. Something in you goes wide and attentive: the Panoramic Seer arriving on time, doing its job. Then the Damaged Self opens underneath it, and what surfaces is not doubt; doubt you would catch. What surfaces is a project. *I know exactly what's happening here, and I know it because I've been the broken version of it.* So you hand them the map. The map is good. The map is also the fourth one this quarter, and nobody has ever asked you for a map. What they asked for was a hand. The conversation ends well. They leave with reading. Give that same part its narrow jurisdiction and it returns the same accurate report, but the answer changes: *I run differently, which is why I can see this, and what I'm going to do about it is sit here and ask you a question.*
 
-*Bring one time you answered a person's problem with a framework. Name what the Damaged Self produced in the half-second before you spoke: the reading about yourself, not the feeling about it. Then write the question you would have asked instead. Two minutes to capture it as a BAR.*
+*Bring one time you answered a person's problem with a framework. Name what the Damaged Self produced before you spoke: the reading about yourself, not the feeling about it. Then write the question you would have asked instead. Two minutes to capture it as a BAR.*
 
 ---
 
@@ -636,7 +636,7 @@ The tell is never the content of the self-assessment. Self-assessments should fe
 
 The Damaged Self developed does what nothing else in this chapter can do: it lets you know that you are configured differently and decline to treat that as a qualification or a disqualification. Just a fact about the instrument, held steady, informing the work without ruling on it.
 
-That combination makes the Sage's superpower possible, and the superpower is a compound for a reason. The Escape Artist half is the capacity to get out of a game: to put down a fight, a role, an identity that was load-bearing once, without needing the exit to be a verdict on the game or on yourself. The Coach half is what the exit makes available. A coach who cannot leave the game is not coaching. They are recruiting, and everything they offer arrives with their own stake attached to it. The escape has to come first because developing another person requires you to want something for them that you do not need for yourself, and you cannot want that while you are still playing for something.
+That combination is what this chapter trains, and it trains two things rather than one. The Escape Artist is the capacity to get out of a game: to put down a fight, a role, an identity that was load-bearing once, without needing the exit to be a verdict on the game or on yourself. Coaching is what the exit makes available. A coach who cannot leave the game is not coaching. They are recruiting, and everything they offer arrives with their own stake attached to it. The escape has to come first because developing another person requires you to want something for them that you do not need for yourself, and you cannot want that while you are still playing for something.
 
 Put them together and you get what the last chapter of a book about allyship actually needs: someone who can be in it fully, get out cleanly, and stay useful to the people still inside. Still in the game, still playing it, and free enough inside it to have both hands available for somebody else.
 
