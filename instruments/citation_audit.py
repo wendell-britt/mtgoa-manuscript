@@ -81,6 +81,12 @@ BORROWED = [
     # Adler by way of Kishimi and Koga. The book's one non-negotiable rule -- you make the
     # move, what they do with it stays theirs -- is the separation of tasks.
     (r"separation of tasks|whose task", "Adler"),
+    # Added 2026-08-05 with the credit itself. ch1's Trust System ran the ABI model
+    # uncredited from the day it was ported, and this instrument could not see it: the
+    # UNCREDITED check keys on a name beside a claim verb, and the passage named nobody.
+    # A term of art with no name attached is invisible to a name-based audit, which is
+    # what the BORROWED table is for.
+    (r"\bbenevolence\b", "Mayer|Davis|Schoorman"),
 ]
 
 # Credited in Appendix G, absent by surname, and NOT a dead credit. Each one is

@@ -63,6 +63,19 @@ The daemons are a marriage of three lineages. The architecture — the named voi
 
 ---
 
+## On Trust
+
+The three things Chapter 1 says somebody is working out about you — whether you can
+actually help, whether you do what you said you would do, whether you meant well — come
+from **Roger Mayer, James Davis and David Schoorman**, who call them ability, benevolence
+and integrity in "An Integrative Model of Organizational Trust" (*Academy of Management
+Review*, 1995). Their paper also separates trusting from being trustworthy, which the
+whole Trust System runs on. Chapter 1 adds the asymmetry between the three: the first two
+leave a record somebody can check, the third leaves none, so they guess. The paper does
+not say that; I do.
+
+---
+
 ## The Game
 
 The game frame isn't a metaphor I reached for — it's a claim I inherited from three thinkers. **James Carse** (*Finite and Infinite Games*) is the one Chapter 1 leans on by name, and the distinction is his: a finite game is played to win and ends; an infinite game is played to keep the play alive. Burnout, hitting the wall, "losing" at allyship — that's the felt experience of finite-game architecture applied to work that has no finish line, which is exactly why I propose redesigning the game rather than trying harder inside the old one.

@@ -32,6 +32,10 @@ a narrower job comes from the **Big Mind Process** of **Dennis Genpo Merzel**
 The approach to shadow — that a disowned pattern is doing a job for you rather
 than defecting from you — is **Carolyn Elliott's**, from *Existential Kink*.
 
+The three-factor account of trust in Chapter 1 — ability, benevolence and integrity —
+is **Roger Mayer, James Davis and David Schoorman's**, from "An Integrative Model of
+Organizational Trust."
+
 The Genius Demon Ally, which is where the daemons in Chapter 2 come from, is
 **Robin Rice's**.
 
