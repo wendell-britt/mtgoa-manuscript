@@ -11,6 +11,8 @@ This file is the drift check, and it is the third condition of
 **What the page is, ruled 2026-08-04:** it diagnoses **the superpowers, not the Faces**. See the section
 below on why that distinction had to reach the prose.
 
+**Book side refreshed 2026-08-05** after the Path C sweep; every quote below is current.
+
 **Status:** book side filled from the manuscript. **Page side is empty and only Wendell can fill
 it** — the environment's network policy blocks masteringallyship.com, so the page could not be
 read from here. Not drafted, on the `author-slot` rule: inventing what the page says is exactly
@@ -29,24 +31,24 @@ agree with.
 
 ### Shaman — **the Alchemist** · `ch3:756`
 
-> The superpower under that move is the Alchemist. The Alchemist is the one who takes the charge
-> the Controller called a foul (the fear, the "not ready," the "not yet") and spends it.
+> That move trains the Alchemist. The Alchemist is the one who takes the charge the Controller
+> called a foul (the fear, the "not ready," the "not yet") and spends it.
 
 `WENDELL:` the page's wording for the Alchemist.
 
 ### Challenger — **the Disruptor** · `ch4:597`
 
-> The Challenger's superpower is the willingness to be unwelcome on a charge you have checked and
-> chosen to trust, clarity without cruelty, held steady long enough to say one sentence and stay
-> for what follows.
+> That is the Disruptor's foundation. This chapter trains it as the willingness to be unwelcome on
+> a charge you have checked and chosen to trust, clarity without cruelty, held steady long enough
+> to say one sentence and stay for what follows.
 
 `WENDELL:` the page's wording for the Disruptor.
 
 ### Regent — **the Storyteller** · `ch5:597`
 
-> That lays the foundation of the Regent's superpower, and the superpower is the Storyteller: what
-> you received, put into a form the next person can receive. The account of where this came from,
-> what it cost, what broke, what still holds, and why any of it is worth their time.
+> That lays the foundation this chapter builds on, and what it trains is the Storyteller: what you
+> received, put into a form the next person can receive. The account of where this came from, what
+> it cost, what broke, what still holds, and why any of it is worth their time.
 
 Named 2026-08-04 by Wendell's ruling. **If the page predates that ruling it will not carry this
 name at all** — first thing to check.
@@ -55,9 +57,9 @@ name at all** — first thing to check.
 
 ### Architect — **the Strategist** · `ch6:464`
 
-> The Architect's superpower is the Strategist: knowing where the push goes and when to make it,
-> and then, because you also know what the map is for, building the thing so the next person can
-> run it without you.
+> This chapter trains the Strategist: knowing where the push goes and when to make it, and then,
+> because you also know what the map is for, building the thing so the next person can run it
+> without you.
 
 Named 2026-08-04 by the same ruling, same caveat. Note also that **Strategist is the Fire/Anger
 mode in the ch6 table at `ch6:285`** — the only Face where the superpower shares a name with one
@@ -68,18 +70,19 @@ known and accepted.
 
 ### Diplomat — **the Connector** · `ch7:592`
 
-> The Diplomat's superpower is not making contact; the Bridge-Builder does that in the first hour.
-> It is connection that has survived being told the truth.
+> This chapter does not train contact; the Bridge-Builder makes that in the first hour. It trains
+> connection that has survived being told the truth.
 
 `WENDELL:` the page's wording for the Connector.
 
-### Sage — **Escape Artist + Coach**, a compound · `ch8:639`
+### Sage — **the Escape Artist**, with coaching as the practice beside it · `ch8:639`
 
-> The Escape Artist half is the capacity to get out of a game… The Coach half is what the exit
-> makes available. A coach who cannot leave the game is not coaching.
+> That combination is what this chapter trains, and it trains two things rather than one. The
+> Escape Artist is the capacity to get out of a game… Coaching is what the exit makes available.
 
-The only compound of the six. **A page that lists six single names will be wrong here**, and this
-is the likeliest drift site in the set.
+**Resolved 2026-08-05.** The compound came out under Path C: the Escape Artist is the class, and
+coaching is the practice the exit makes available, which is the canon's position. A page listing
+six single names is now correct here.
 
 `WENDELL:` the page's wording for the Sage compound.
 

@@ -753,7 +753,7 @@ Then the true thing sat in the circle, and no one could unsay it, and the counci
 
 That is the myth this chapter breaks. Allyship is not saying the right words. The council had the right words, and the right words were the wall. Allyship is saying the true one, the thing a part of you has already felt, that everyone already half-knows, to the face it concerns, at the cost of being, for one cold moment, the person who said it.
 
-The superpower under that move is the Alchemist. The Alchemist is the one who takes the charge the Controller called a foul (the fear, the "not ready," the "not good enough") and burns it for fuel instead of waiting for it to go away. The woman on the council did not speak once the fear left. She spoke while it still burned, and used it. That is the Shaman's whole practice. The sensing, the WAVE, the Controller pried off the joystick, all aimed at one outcome: one true sentence, out of your body and into the world, where it can move the water.
+That move trains the Alchemist. The Alchemist is the one who takes the charge the Controller called a foul (the fear, the "not ready," the "not good enough") and burns it for fuel instead of waiting for it to go away. The woman on the council did not speak once the fear left. She spoke while it still burned, and used it. That is the Shaman's whole practice. The sensing, the WAVE, the Controller pried off the joystick, all aimed at one outcome: one true sentence, out of your body and into the world, where it can move the water.
 
 ### 3-2-1 on Your Controller
 
@@ -974,7 +974,7 @@ The Shaman contributes this to the allyship game: **before strategy, before stru
 
 The Shaman teaches you to read that pattern, in yourself, in others, in the group.
 
-One more voice waits on the other side of the read. The moment you take it into the world and say the true thing, the doubt speaks up first: *is it even real? Are you sure, or are you making it up?* That is the Skeptic, the part that doubts your own knowing before anyone else can, and the next face begins there. The Challenger cannot do their work without the Shaman's work done first. The Challenger's superpower is the ability to name what's unacceptable. To draw a line. To say "this is not okay." If you don't know what you *feel* about what's unacceptable, if you haven't read the emotional truth underneath, then the Challenger's line is performance. It's strategy without root.
+One more voice waits on the other side of the read. The moment you take it into the world and say the true thing, the doubt speaks up first: *is it even real? Are you sure, or are you making it up?* That is the Skeptic, the part that doubts your own knowing before anyone else can, and the next face begins there. The Challenger cannot do their work without the Shaman's work done first. The next chapter trains the ability to name what's unacceptable. To draw a line. To say "this is not okay." If you don't know what you *feel* about what's unacceptable, if you haven't read the emotional truth underneath, then the Challenger's line is performance. It's strategy without root.
 
 Every great boundary is rooted in a feeling. Every genuine "no" comes from a Shaman who knows what they actually care about.
 

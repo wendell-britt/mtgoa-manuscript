@@ -342,6 +342,8 @@ Two concrete examples:
 
 The wound does not become your identity. It becomes signal, then skill, then contribution.
 
+A superpower is not a Face, and no chapter owns one. Each one ahead trains a single superpower, the way a school teaches one class: somewhere to stand while you practice it. Out in the village any of the six runs at any altitude, in anybody's hands.
+
 Before Chapter 3 teaches full emotional alchemy, carry this much: the charge you feel has channels (fear, anger, sadness, joy, neutrality), and each one is information, not noise. Chapter 3 trains you to read and move each one. For now it's enough to know they're distinct, and that none of them is the enemy.
 
 A daemon you befriend joins your party. A daemon left running on its own stays a saboteur.

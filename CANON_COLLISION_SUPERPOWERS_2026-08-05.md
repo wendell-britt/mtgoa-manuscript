@@ -5,7 +5,23 @@
 authored by codex. Declares itself *"the repository-local source of truth for the superpower
 taxonomy."*
 **The book:** `manuscript/ch2.md`–`ch9.md` on this branch.
-**Status:** comparison, three paths, **Path C ruled 2026-08-05**. No prose changed by this document.
+**Status:** comparison, three paths, **Path C ruled and APPLIED 2026-08-05.**
+
+**Applied, eight edits.** Seven drafted and reviewed, one found during application:
+`ch3:756`, `ch3:977` (found in the sweep — a second possessive, *The Challenger's superpower is the
+ability to name what's unacceptable*, now *The next chapter trains…*), `ch4:597`, `ch5:597`,
+`ch6:464`, `ch7:592`, `ch8:639` twice (the compound and the Coach half), and the new distinction
+sentence after `ch2:334`. Book-wide `review.py` green on all six; round-trip byte-identical.
+
+**The membrane held.** Re-counted after applying: **0** unquoted *school* mentions in the teaching
+voice of every one of ch3–ch8, unchanged from before the sweep. The word *school* appears in the
+new prose exactly once, at `ch2:334`, in the voice that already discusses the apparatus at
+`ch2:236`.
+
+**One site left open, deliberately.** `ch6:628` reads *"Intent, though, is not the superpower. The
+superpower is the Strategist."* It binds the superpower to the chapter without a Face possessive,
+so it is weaker than the seven that were swept, and rewriting it would put *this chapter trains the
+Strategist* into ch6 twice. Flagged rather than edited.
 
 **Shape of the branch, which matters for anything that follows:** 346 files, **none in
 `manuscript/`**, 71 commits, and **no merge base with `master`**. It is a parallel documentation
