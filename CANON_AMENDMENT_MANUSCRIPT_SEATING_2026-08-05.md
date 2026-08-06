@@ -116,10 +116,20 @@ come back holding something she recognises.
 - **The taxonomy is untouched.** This document still decides what the six *are*, that Coach is not a
   seventh, and what may not be mapped one-to-one. The ruling governs **wording a reader sees**, not
   the model.
-- **The book's Storyteller is narrower than this document's**, and that is a real cost, stated
-  plainly: a reader whose leverage is public narrative rather than inheritance may not recognise
-  herself in an inheritance-shaped result. If that shows up in how people answer, the fix is to
-  widen `ch5:597`, not to widen the quiz away from the book.
+- **The book's Storyteller was narrower than this document's. Widened 2026-08-05**, on the fix this
+  section named rather than by moving the quiz away from the book. `ch5:597` now carries the second
+  half:
+
+  > That much you can hold in your hands. The rest has no object in it. Every group runs on a story
+  > about itself, usually one nobody chose and nobody says out loud, and that story sets what the
+  > group believes it can do. Name it accurately, offer a truer one, and the group gets a different
+  > set of moves. Both come to the same work: telling people where they actually are, in a form they
+  > can use.
+
+  So the book's Storyteller is now inheritance **and** the story a group runs on, which is this
+  document's *"recognizes the story organizing behavior and offers a truer frame for action"* in the
+  book's own words. A reader whose leverage is public narrative can now find herself in the
+  chapter.
 
 **Generalised from a single ruling.** Wendell ruled this on Storyteller. It is written here as the
 rule for all six because the reasoning does not depend on which superpower it was — but if it was

@@ -49,6 +49,14 @@ agree with.
 > That lays the foundation this chapter builds on, and what it trains is the Storyteller: what you
 > received, put into a form the next person can receive. The account of where this came from, what
 > it cost, what broke, what still holds, and why any of it is worth their time.
+>
+> That much you can hold in your hands. The rest has no object in it. Every group runs on a story
+> about itself… Name it accurately, offer a truer one, and the group gets a different set of moves.
+> Both come to the same work: telling people where they actually are, in a form they can use.
+
+**Widened 2026-08-05.** The Storyteller was the one definition materially narrower than the canon's.
+It now covers inheritance **and** the story a group runs on, so the book's version and the canon's
+no longer diverge and the quiz can return the book's wording without losing the narrative half.
 
 Named 2026-08-04 by Wendell's ruling. **If the page predates that ruling it will not carry this
 name at all** — first thing to check.
@@ -184,9 +192,9 @@ Run by eye whenever the page changes or the book's superpower sites change:
 5. **The page's definitions match the book's, not the canon's.** Ruled 2026-08-05: where
    `CANONICAL_ALLYSHIP_SUPERPOWERS.md` and the manuscript word the same superpower differently, the
    **book's version is what the quiz returns**, because that is the one the reader has already met
-   at length. The six quotes above are therefore the strings to check against, and **Storyteller is
-   the one to check first** — the canon has it as meaning, memory and public imagination, the book
-   has it as inheritance put in receivable form. The book wins.
+   at length. The six quotes above are therefore the strings to check against, and Storyteller was the divergent
+   one and **was widened on 2026-08-05** to cover the story a group runs on as well as inheritance,
+   so book and canon now agree in substance. The book's wording still governs.
 6. **The page leads with the primary name.** Connector, Strategist, Disruptor, Escape Artist,
    Alchemist, Storyteller. The canon's second names — Webweaver, System Seer and the rest — are
    deferred to the RPG manual and must not surface in a result. See `BACKLOG_TOOL_LIBRARY_SPEC.md`.
