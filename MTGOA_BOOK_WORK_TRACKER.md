@@ -69,6 +69,23 @@ sequence. Full reader-run scan is 0 candidates; gate, duplicate, and spine-ancho
 
 ---
 
+## Session — 2026-08-06 · WAVE / Five-Move Form separation spec
+
+**Specification only; no manuscript prose changed.** Reader feedback exposed a collision: the
+book calls the five Ken Wilber practices `WAVE`/`WAVE-Spiral`, while Appendix C already defines
+WAVE-Somatic as Welcome, Acknowledge, Validate, Exhale. `SPEC_WAVE_AND_FIVE_MOVE_FORM_2026-08-06`
+records the proposed separation: WAVE is the breath-length somatic practice; the repeated
+Wake Up / Open Up / Clean Up / Grow Up / Show Up sequence is the Five-Move Form, adapted from
+Wilber's *Finding Radical Wholeness*.
+
+**Panel and scope.** Six Game Masters converge 6–0: retain both practices, use WAVE in Wake Up,
+Open Up, or Clean Up (especially Open Up), and never let it replace the whole form or a needed
+action. The spec inventories the migration across Chapter 1, Chapters 3–6 and 9, and appendices;
+it also corrects the obsolete claim that Open Up was the book's addition to Wilber's four. The
+next work is author ratification, then a Chapter 3 first-use proposal before any global rename.
+
+---
+
 ## Session — 2026-08-01 · ch2 leaves the fiction
 
 Branch `claude/treatise-wendell-content-boundaries-78sq54`. Full ruling in
