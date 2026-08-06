@@ -131,6 +131,11 @@ Lasts*. It states the book's reader promise without listing partial or internal 
 the schools: the Shaman teaches it first, and every later school teaches Face-specific changes on
 that form. This governs the remaining Chapter 3 marginalia and five-move terminology cleanup.
 
+**Chapter 3 Form / game-move distinction applied.** The Shaman's five game moves now explicitly
+follow the Five-Move Form rather than an unnamed “spiral.” The first marginal note, daemon
+passage, and card exercise now name a pass through the Form directly. The marginalia source and
+its rendered Chapter 3 block remain synchronized.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
