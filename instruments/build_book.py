@@ -100,6 +100,12 @@ SPINE = [
     ("appendix", "Appendix E",  "appendices/APPENDIX_E_321_SHADOW_PROCESS.md",        BLOCKER),
     ("appendix", "Appendix F",  "appendices/APPENDIX_F_POLARITY_MAP.md",              BLOCKER),
     ("appendix", "Appendix G",  "appendices/ON_THE_SHOULDERS_OF.md",                  BLOCKER),
+    # The character sheet, added 2026-08-05 on Wendell's ruling (DL-63). The book tells a
+    # reader to add a line to the sheet nine times and never shows her one. Assembled from
+    # the sheet's own instructions rather than designed: thirteen lines, each traceable to
+    # the chapter that asks for it. GAP rather than BLOCKER because the instructions are in
+    # the chapters and a reader can rule one up without this page; she should not have to.
+    ("appendix", "Appendix H",  "appendices/APPENDIX_H_CHARACTER_SHEET.md",           GAP),
 
     # Acknowledgements came OFF the spine 2026-08-05, ruled by Wendell: *"we're also
     # cutting acknowledgements this version."* Off the spine rather than OPTIONAL,
