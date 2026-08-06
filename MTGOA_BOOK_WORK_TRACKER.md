@@ -27,6 +27,22 @@ Ch9 and none introduced by this edit. Full rerun record:
 
 ---
 
+## Session — 2026-08-06 · Pilot 0 resumed, P-06 spectator test
+
+**Desk pilot complete.** P-06 begins with no invitation, role, or standing in
+the local library group. The revised Ch2 bridge distinguishes that
+insufficient-trust condition from avoidance and routes the reader to a smaller,
+permission-based first contact. The coordinator redirects the persona from a
+strategy conversation to a routine shift or unrestricted donation; the persona
+accepts the redirect without seeking a more flattering role.
+
+**Result:** no new repeated action-conversion failure across the three fictional
+cards. This is not validation with actual readers. Next research layer is
+voluntary human-reader calibration. Full trace:
+`editorial_reports/2026-08-06/PILOT_0_P06_RESUMED_2026-08-06.md`.
+
+---
+
 ## Session — 2026-08-03 · Jordan arc, Chapters 7–9
 
 **Approved and applied.** Nine review-approved replacements across Diplomat,
