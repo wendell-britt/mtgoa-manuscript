@@ -179,3 +179,56 @@ annotator's hand is a different kind of note.
 | N130 | **Ruling** | `specs/PANEL_OPENER_OPEN_QUESTIONS_6FACE_2026-08-03.md` Q1 | *One in seven of the firms that rolled back has since called the rollback a mistake* | **Wendell overrules the Diplomat.** The panel priced the clause as a scoreline that closes half the field. Wendell: *"I actually like this and I think it would give Jordan hope that they are on the right side of history."* **A reading the panel did not consider** — the clause is not a verdict on the rollback, it is evidence that the direction of travel reversed. The clause stays. | | **ruled** |
 | N131 | **Analysis** | `specs/ANALYSIS_EMERGENT_2026-08-03.md` | The drop, and the six emergent questions | **The full ch1 read settles the drop without a new paragraph.** `ch1:54`–`:66` is already a complete descent protocol: mechanism, shock, double-bind, lightness, author's cost, release, one action. **Adding a catcher after the 2026 numbers would give ch1 three descents in sixty lines**, and `:58`'s is the earned one — it arrives after the Pygmalion mechanism, where the numbers' drop lands in paragraph three on a reader with no mechanism yet. **A free drop preceding an earned one does not add to it, it spends it.** The fix costs nothing: **relief at the top, shame at `:58`**, one connecting clause. Six emergent questions recorded, of which **only E2 blocks** — the Architect's obligation gap: naming external designers commits an architecture in which eight of nine chapters are personal practice and the four domains are one appendix. Three responses priced: cut the promise, name the limit, or promote the domains to a chapter. **That is a decision about what the book is and it should not be made inside an opener draft.** | | **1 blocked** |
 | N132 | **USER CHALLENGE, upheld** | `ch3:810`–`:907` | *The four domains are the only structural answer in the book, and they are one appendix* | **Wendell:** *"Does this hold? The domains should be in every chapter as a move that people can practice that should show up in the exterior world."* **Measured: the Architect's claim is false.** `ch3` carries a complete four-domain section, **2,180 words**, *Where You'll Actually Spend the Read* — the frame, three universal moves, four domain entries each with a *You're winning when* marker, and **The Tell**, one question per domain aimed at that Face's signature failure. **It sits in a slot every chapter has**, after Section 6's five moves: `ch3:806` *The moves are what you do. The next question is where.* **ch4–ch9 never ask where.** The domains appear in all nine chapters only as card metadata, which is a label on a deck entry rather than a practice. **This re-prices E2 from *changing what the book is* to *eight copies of a section that already exists, in a slot that already exists, to a template the book has already proved.*** | | **open · re-priced** |
+
+## Group A and the designers — applied 2026-08-05
+
+**Group A, 8 notes** (`N12` `N13` `N14` `N15` `N16` `N17` `N18` `N21`). Wendell wrote the
+ruling himself at `N16`: *the opening assumes a secret competence, which is not the point
+of the book, when what people actually experience is a pressure to do good they cannot
+satisfy.* Four paragraphs changed, three untouched.
+
+**ch1 assertions of prior knowledge 37 to 24** — it was the worst ratio in the book. Inside
+the changed stretch, **18 to 2**; `draftprobe` hits there 23 to 6; passive 0.57 to 0.00;
+65 words shorter.
+
+- `ch1:16` no longer awards the Game Master title before the mechanism earns it. Every
+  mechanism survives and the closing four sentences are identical.
+- `ch1:22` loses *You have done this before.* The scene stays: `MANUSCRIPT_FILE_CANON:154`
+  cites it as the legal form of a hypothetical.
+- `ch1:28` loses the graduation.
+- `ch1:30` loses the *you've-had / you've-done / you've-carried* stack, and *You are not
+  burned out from too little effort* becomes **The effort was real**, which ranks rather
+  than denies.
+
+**The designers passage — `Q4`, group B's blocker — applied at `ch1:157`.** The Architect's
+condition (*name them only if ch1 also names what the book will and will not do about
+them*) was unpayable until the five domain sections shipped this morning. `Every chapter
+with a Face in it closes by asking where the work lands` is now a true sentence.
+
+### Three of my own errors, caught by Wendell and by the instruments
+
+1. **I wrote the group B defect into the group B fix**, twice. First draft: *It can teach
+   you to read the price* — the book teaching, an abstraction with volition, which is
+   `N30` and `N43` exactly. `agency.py` caught it. Putting **I** in the subject fixed the
+   defect and satisfied E6's first-person constraint in one move.
+2. **Wendell's eight notes were all one defect: metaphor where the mechanism belonged**,
+   in the passage that promises exactness. *nobody signed anything* (a conspiracy reading
+   nobody was having), *somebody collects* (who? when? how?), *a fight* (with whom?), *my
+   vocabulary is free* (free to whom?). Answered concretely: a budget line, a promotion
+   that goes elsewhere, a schedule that stops being convenient · **keeping that shelf
+   stocked is how they collect** · *I paid for the lessons. They kept the budget line.*
+3. **I had the placement backwards and said so out loud.** I told Wendell the prize
+   counter was established *eighty lines earlier* than `ch1:42`. It is established
+   **eighty lines later**, at `:107`–`:127`. Wendell caught the term first — *"it's a
+   prize counter"* — and checking the term surfaced the placement error behind it. The
+   passage moved from `:42` to `:155`, where the machine is live and `:153` has just said
+   *Somebody stands above you and grades you* without asking who put them there.
+
+**`ch1:42` stays as written**, ruled by Wendell. It is the internal designer's territory
+and the Sage's sequencing wants a gap before the external ones.
+
+**Chasing Wendell's last question produced the passage's best line.** *What makes a counter
+dirty?* has an answer: **every prize on that shelf is the kind you carry home by
+yourself.** A counter that only pays out in personal standing can never cost its owner
+anything structural. Fifteen words, and only reachable because the metaphor was made to
+justify itself.
