@@ -135,7 +135,7 @@ You already have a version of the clean no. You've been calling it something els
 
 The villagers hear the clean no as aggression: the angry one, the difficult one, the one who makes things worse before they get better, someone who says no because they want to win. I was told that at nineteen, by people who meant well, and I believed them for another thirty years. The version they described does exist, and you've probably met them, and it is not what we're talking about here.
 
-The School of the Line does not teach you to be harder. The clean no is something different. The clean no is the practice of **stating a boundary without apologizing for it, collapsing it, or converting it into a request.**
+The School of the Line will not turn you into an asshole. The clean no is the practice of **stating a boundary without apologizing for it, collapsing it, or converting it into a request.**
 
 Notice what that last part says: *without converting it into a request.* Because the villagers have gotten very sophisticated about this. The villagers have learned to make their nos sound like preferences, their lines sound like suggestions, their non-negotiables sound like flexible guidelines. "I'd prefer not to" when the actual truth is "I won't." "I'd appreciate it if we could" when the actual truth is "this has to stop." (That email gets written more than any other in professional life.)
 
