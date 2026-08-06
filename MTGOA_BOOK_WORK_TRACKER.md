@@ -136,6 +136,10 @@ follow the Five-Move Form rather than an unnamed “spiral.” The first margina
 passage, and card exercise now name a pass through the Form directly. The marginalia source and
 its rendered Chapter 3 block remain synchronized.
 
+**Chapter 4 template applied.** The Challenger's five concrete game moves now explicitly follow
+the Five-Move Form rather than claiming to be the same list. The later Face chapters will use
+this distinction as their cross-reference pattern.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
