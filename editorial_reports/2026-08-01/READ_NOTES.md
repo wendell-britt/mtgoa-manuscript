@@ -525,3 +525,40 @@ the flinch, and separating it from the sentence that caused it would have put wh
 between a hit and a reaction that happen in the same second.
 
 `gate` PASS · every counter flat · book-wide review clean · **SHIPPABLE**.
+
+### `ch1:91` — *told other people not to what?* — applied 2026-08-05
+
+**Wendell, on the sentence the `N41` split had just promoted to its own paragraph.** Three
+defects, and the third was the serious one.
+
+> **Before:** I know **the machine** from the inside; I ran **it** for three years while
+> writing a book that told other people **not to**.
+>
+> **After:** I know **that game** from the inside. For three years **I helped people in
+> order to prove I was good**, and I spent every one of them writing the book that tells
+> you **not to**.
+
+**1 · The ellipsis had three hops.** *not to* → *ran it* → *it* → *the machine* → the
+previous paragraph. It now completes to a full verb phrase fifteen words back in its own
+sentence.
+
+**2 · `the machine` was a bare definite abstraction** whose referent lived next door and
+was never called a machine. **`that game` is `:89`'s own word**, one sentence back: *the
+receipt for a game that was never built to be won.*
+
+**3 · And `machine` collides.** From `:123` on, **machine means the arcade cabinet** — you
+spend tokens in it, it pays out tickets, and it is the chapter's governing image across
+seven uses. At `:91` it meant the goodness-engine, a different referent arriving thirty
+lines before the arcade sense is established.
+
+### The finding worth keeping
+
+**Splitting the paragraph an hour earlier is what exposed this.** Buried mid-paragraph, *the
+machine* could lean on `:89` next door. Standing alone it had to carry its own referent and
+could not.
+
+**Promoting a sentence is a test of whether it can hold the weight.** Both `N41` edits were
+right and the second one broke the first open. Worth running deliberately next time
+something gets its own paragraph.
+
+`gate` PASS · every counter flat · `agency` 4 / 27 · **SHIPPABLE**.

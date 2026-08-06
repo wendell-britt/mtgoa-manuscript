@@ -88,7 +88,7 @@ Allyship looks like the honorable place to bring those questions, and springs th
 
 Every one of them holds a little truth, and that truth keeps them alive. Goodness matters, language matters, repair matters. The damage starts when one of them becomes the whole definition. The day allyship means being good, every exchange turns into a test you are taking, and the person in front of you stops being a person and becomes the examiner. You stop watching them and start watching yourself for proof that you passed. The help never lands, because you were looking at the scoreboard in your own head the whole time. You spend everything, they receive almost nothing, and you go home wondering why caring this much leaves you this empty. That emptiness is the receipt for a game that was never built to be won. It was built to keep you playing.
 
-I know the machine from the inside; I ran it for three years while writing a book that told other people not to.
+I know that game from the inside. For three years I helped people in order to prove I was good, and I spent every one of them writing the book that tells you not to.
 
 It broke the day someone I had been "helping" told me, plainly, that my help had been about me the whole time. I wanted to argue. I could not. The scoreboard went dark, and behind it sat a question I had never asked: what if being good was never the game?
 
