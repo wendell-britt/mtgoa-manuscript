@@ -50,8 +50,7 @@ agree with.
 > received, put into a form the next person can receive. The account of where this came from, what
 > it cost, what broke, what still holds, and why any of it is worth their time.
 >
-> That much you can hold in your hands. The rest has no object in it. A group carries a story about
-> where it came from and who it has been, and the story decides what the group protects and who
+> A group carries a story too, about where it came from and who it has been, and the story decides what the group protects and who
 > counts as its own. Told accurately, the story hands that choice back. Told to flatter, the story
 > hardens into a rule nobody may question.
 

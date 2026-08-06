@@ -120,8 +120,7 @@ come back holding something she recognises.
   section named rather than by moving the quiz away from the book. `ch5:597` now carries the second
   half:
 
-  > That much you can hold in your hands. The rest has no object in it. A group carries a story about
-  > where it came from and who it has been, and the story decides what the group protects and who
+  > A group carries a story too, about where it came from and who it has been, and the story decides what the group protects and who
   > counts as its own. Told accurately, the story hands that choice back. Told to flatter, the story
   > hardens into a rule nobody may question.
 
