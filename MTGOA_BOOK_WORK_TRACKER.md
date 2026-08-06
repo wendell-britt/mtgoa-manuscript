@@ -5,6 +5,28 @@
 
 ---
 
+## Session — 2026-08-06 · Ch2 placement bridge, SIM-001 rerun
+
+**Approved and applied.** A Pilot 0 desk simulation found one repeated failure
+in Ch2's Second Move: a reader could either avoid speaking or turn a body-read
+into self-aware disclosure that made the listener contain them. The approved
+bridge now asks whether the statement is theirs to name in that context, whether
+it helps or burdens the listener, and which condition, need, or boundary it
+identifies. When trust is insufficient, it offers a smaller move instead of
+forced intimacy.
+
+**Rerun:** P-03 moved from private consolation to a condition-focused agenda
+ask; P-04 moved from urgency disclosure to a permission-based, feedback-scoped
+prototype request. Both counterpart paths included a credible no or redirection.
+This is a desk-simulation result, not human-reader validation.
+
+**Verification:** Exact insertion anchor matched once; `dupes.py` clean; `git
+diff --check` clean. `gate.py` remains at four body hits, all pre-existing in
+Ch9 and none introduced by this edit. Full rerun record:
+`editorial_reports/2026-08-06/SIM_001_CH2_PLACEMENT_RERUN_2026-08-06.md`.
+
+---
+
 ## Session — 2026-08-03 · Jordan arc, Chapters 7–9
 
 **Approved and applied.** Nine review-approved replacements across Diplomat,

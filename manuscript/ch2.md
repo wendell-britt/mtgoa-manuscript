@@ -515,6 +515,8 @@ You found the sensation. Now let it be heard.
 
 Within the next two days, say one body-read out loud to another person, and say it to someone where it isn't already safe to, in a live moment, not a debrief afterward. One sentence, small enough that it is neither a confession nor a processing session, and placed where it costs something: *"Something just shifted in my chest. Give me a second."* Even when your voice isn't steady. Even when you're not sure you've got the word right: *"I think that landed as anger. I'm not certain. Something moved though."*
 
+Before you say it, ask: *Is this mine to name here? Does saying it help this person or ask them to hold me? What condition, need, or boundary is the feeling pointing toward?* If you do not yet have enough trust for the sentence, do not force intimacy. Choose one smaller move: ask permission to return to it, name the condition rather than the person, or bring the read to someone whose role is to help you prepare.
+
 That's the whole action. One read, said out loud, to one person who doesn't already know, inside forty-eight hours.
 
 Look at what you're actually doing, underneath the instruction. The part of you that reads a group (the one that clocks when a meeting has gone cold before anyone speaks) has been living in exile. You sent it away because claiming it felt like taking something that wasn't yours. So it reads, and reads, and never gets to speak. Saying it out loud is how that part comes home. It finds out it's allowed to speak.
