@@ -146,6 +146,9 @@ Form, and Face-specific changes. An uncommitted parallel proposal for “Five-Mo
 the main worktree was inspected and deliberately not adopted; the ratified terminology governs
 this editorial branch.
 
+**Chapter 4 recap aligned.** The Challenger's five game moves now explicitly follow the
+Five-Move Form in the closing recap, matching the Chapter 1 hierarchy and Chapter 3 bridge.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
