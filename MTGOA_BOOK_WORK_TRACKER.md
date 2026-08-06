@@ -124,6 +124,9 @@ Five-Move Form, without collapsing that source into *Integral Life Practice*. Th
 marginal note and title-page subtitle remain open pending a whole-book check of what the school
 teaches as a move.
 
+**Title-page subtitle revised.** The subtitle is now *How to Build an Allyship Practice That
+Lasts*. It states the book's reader promise without listing partial or internal practice language.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
