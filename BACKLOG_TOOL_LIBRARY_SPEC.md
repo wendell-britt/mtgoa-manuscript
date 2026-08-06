@@ -137,3 +137,32 @@ SPEC_TOOL_LIBRARY.md
 **Next action:** Spec TOOL_LIBRARY.md — populate all known tools, resolve name collisions, write entry template for each tool. Estimated 1–2 sessions.
 
 **Blocking:** WAVE/W.A.V.E. naming decision, BARs framework decision.
+
+---
+
+# BACKLOG ITEM — the superpowers' second names
+## Source: canon collision, 2026-08-05
+
+**Status:** BACKLOG
+**Type:** Content expansion
+**Owner:** Wendell
+**Priority:** P3 — deliberately deferred, nothing blocked
+**Trigger:** the RPG manual, or expanded School content, whichever comes first
+
+**The ask.** `CANONICAL_ALLYSHIP_SUPERPOWERS.md` gives every superpower a second name — Connector
+*the Webweaver*, Strategist *the System Seer*, Disruptor *the Sacred Spark*, Escape Artist *the
+Framebreaker*, Alchemist *the Emotional Transmuter*, Storyteller *the Meaning Weaver* — plus two
+named shadows each: Chaos Bringer, Caged Rebel, Ghost, Martyr, Emotional Overload, Detached
+Observer, Manipulator, Lost Author, and for Coach the Taskmaster and the Empty Cheerleader.
+
+**All of them read 0 hits in `manuscript/`.** Ruled 2026-08-05: the quiz leads with the primary
+name, the book and the quiz share one vocabulary, and the second names wait for the RPG manual or
+the expanded School material. They are held back from the reader rather than retired — the canon's
+definitions still govern.
+
+**Check before adopting them:** `System Seer` collides with `Panoramic Seer`, one of the Sage's
+five modes at `ch8:340`. Two Seers on two different Faces, harmless while the epithet is unused and
+live the moment it is not.
+
+**Context:** `CANON_AMENDMENT_MANUSCRIPT_SEATING_2026-08-05.md`,
+`CANON_COLLISION_SUPERPOWERS_2026-08-05.md`.

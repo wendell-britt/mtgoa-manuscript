@@ -73,15 +73,29 @@ document's position. There is no seventh primary anywhere in the manuscript.
   above — Storyteller is the clearest case, seated in ch5 on inheritance rather than on public
   imagination — this document governs.
 
+### The second names — ruled 2026-08-05
+
+**The quiz leads with the primary name.** Connector, Strategist, Disruptor, Escape Artist,
+Alchemist, Storyteller — the six as this document lists them, and those are the words a reader
+sees when a result comes back.
+
+**The second names are not needed in this version.** *Webweaver, System Seer, Sacred Spark,
+Framebreaker, Emotional Transmuter, Meaning Weaver* and all twelve shadow names appear **0 times**
+in the manuscript. Ruled by Wendell: they go to the **RPG manual, or to expanded School content
+later**. Until then the book and the quiz share one vocabulary, which is the whole point of the
+ruling — `ch9:664` sends the reader out to the quiz, and she has to come back holding a word the
+book uses.
+
+Two consequences worth stating:
+
+- **`System Seer` against `Panoramic Seer`** — one of the Sage's five modes at `ch8:340` — stops
+  mattering for this version, because the second name never reaches a reader. It becomes live again
+  the moment the RPG manual adopts the epithets, and whoever does that should check it first.
+- **The definitions in this document still govern**, second names included. They are held back from
+  the reader, not retired.
+
 ### Open against this section
 
-- **The second names have zero adoption.** *Webweaver, System Seer, Sacred Spark, Framebreaker,
-  Emotional Transmuter, Meaning Weaver* appear **0 times** in the manuscript, as do all twelve
-  shadow names. A quiz result that leads with a second name hands the reader vocabulary the book
-  never uses, and `ch9:664` is the site that sends her to that quiz. Either the book adopts them,
-  the quiz leads with the primary name, or the mismatch is accepted on purpose.
-- **`System Seer` against `Panoramic Seer`**, which is one of the Sage's five modes at `ch8:340`.
-  Two Seers on two different Faces.
 - **Storyteller has three live definitions** — this document's, the book's at `ch5:597`, and
   `MTGOA_TEAL_080525.md:16788`'s *"poignance, the art of feeling the weight of loss."* They are
   adjacent rather than contradictory, and nobody has ruled which the quiz should return.
