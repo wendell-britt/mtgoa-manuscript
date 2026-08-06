@@ -184,12 +184,14 @@ Here is what I left out of the story I told you at the start. When I said I held
 
 Carolyn Elliott calls this existential kink: the shadow doesn't run you because it feels bad. It runs you because, somewhere out of sight, it feels *good*, and you've never let yourself admit it. People needing you feels good. So does a line you never have to cross, and so does an exhaustion other people can see. Some part of you is delighted by the very thing you complain about, and as long as that delight stays in the dark, it owns you.
 
-A game turns the lights on: it takes the charge you've been running in secret and sets it on the board, where you can finally see what you're getting out of it, say so, and (this is the whole move) enjoy it on purpose instead of by accident. The moment the pleasure turns conscious, it stops being your driver and becomes your fuel. A chore asks you to grit your teeth against the pattern. A game invites you to catch yourself in the act, name your own existential kink, and grin.
+In a game you turn the lights on. You take the charge you have been running in secret and set it on the board, where you can finally see what you are getting out of it, say so, and (this is the whole move) enjoy it on purpose instead of by accident. The moment the pleasure turns conscious, it stops being your driver and becomes your fuel. Grit your teeth against the pattern and you are doing a chore. Catch yourself in the act, name your own existential kink, grin, and you are playing.
 
 
-Look at what that stash really buys you. It buys safety, so fear sits at the center of the work. Raw, fear freezes you or turns you back. A game turns it into the thing standing right beside it: wonder, the same charge, now pointed at the door instead of away from it.
+Look at what that hidden delight actually buys you. It buys safety: while you are the one who cares too much and never quite finishes, nothing you might get wrong ever gets attempted. So fear has been sitting at the center of the work, and you have been paying it off instead of feeling it. Fear you fight freezes you or turns you back. Fear you look straight at opens into wonder, the same charge pointed at the door instead of away from it.
 
-Detachment, engagement, and the nerve to look at what you'd rather not: three reasons the game frame is medicine and not a gimmick, and the rest of this book builds that engine. Allyship reaches you as three games running at once: the lucky breaks you cannot schedule, the skills you can actually build, and the love that keeps you coming back. Everything ahead is built to strengthen your hand in all three: to keep you present for the breaks when they come, to sharpen the moves that are yours to make, and to deepen the passion that keeps you at the machine long after discipline would have quit. That is the board we are about to map.
+Detachment, engagement, and the nerve to look at what you would rather not. Those are the three reasons, and the rest of this book is built on them.
+
+Allyship reaches you as three games running at once: the lucky breaks you cannot schedule, the skills you can actually build, and the love that keeps you coming back. Everything ahead is built to strengthen your hand in all three.
 
 ## Which Game Are You Playing
 

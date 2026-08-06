@@ -411,3 +411,61 @@ clock, opposite result** — which is what the two-counter structure was built f
 it on purpose* is a promise ch3 keeps in its own words.
 
 `gate` PASS · `agency` 28 · `preempt` 9 · `shapes` 11 · every diet counter within band.
+
+### `N43` `N45` `N46` — the existential-kink stretch, applied 2026-08-05
+
+Worked as one stretch, which is how `N45` was filed. **`agency` ch1: tier-1 5 to 4, tier-2
+28 to 27, agentless 52% to 51%** — the first movement in either tier all day. Gate passes,
+every diet counter in band, 14 words shorter.
+
+**`N43` — the game does not do this.** Wendell: *A game sets the conditions for the
+players to do it, or the game designers do.*
+
+> **Before:** **A game turns the lights on: it takes** the charge you've been running in
+> secret **and sets it** on the board…
+>
+> **After:** **In a game you turn the lights on. You take** the charge you have been
+> running in secret **and set it** on the board…
+
+Wendell also ruled the two remaining hits in the same paragraph, which `agency` scored
+tier-1 and tier-2 and no note had flagged:
+
+> **Before:** **A chore asks you** to grit your teeth against the pattern. **A game invites
+> you** to catch yourself in the act, name your own existential kink, and grin.
+>
+> **After:** **Grit your teeth** against the pattern and you are doing a chore. **Catch
+> yourself** in the act, name your own existential kink, grin, and you are playing.
+
+**`N45` — three defects, and one of them was made two commits earlier.**
+
+**`that stash` had been orphaned by `N44`'s cut.** The only other use of the word was in
+the paragraph the C-sweep deleted. **Second of the nine C+D edits with a downstream
+consequence**, after `N37` left twin sentences. **A cut is an edit to everything that
+pointed at it.**
+
+> **Before:** Look at what **that stash** really buys you. **It buys safety, so fear sits
+> at the center of the work.** Raw, fear freezes you or turns you back. **A game turns it
+> into** the thing standing right beside it: wonder…
+>
+> **After:** Look at what **that hidden delight** actually buys you. **It buys safety:
+> while you are the one who cares too much and never quite finishes, nothing you might get
+> wrong ever gets attempted. So fear has been sitting at the center of the work, and you
+> have been paying it off instead of feeling it.** Fear you fight freezes you or turns you
+> back. **Fear you look straight at opens into** wonder, the same charge pointed at the
+> door instead of away from it.
+
+*that hidden delight* points at `:185`, one paragraph up. The leap from *buys safety* to
+*fear at the center* now carries its mechanism: the martyrdom protects you from ever
+attempting the thing you might get wrong. And *fear opens into wonder* is `ch3:475`'s own
+completion rather than a game doing it to you.
+
+**`N46` — two jobs in one paragraph, so they got split rather than simplified.**
+
+Cut: the binary contrast (*medicine and not a gimmick*), the vague *builds that engine*, a
+triple of infinitives restating the three games in the same breath that introduced them,
+and *That is the board we are about to map* — throat-clearing into a heading that already
+reads **Which Game Are You Playing**.
+
+**Checked before cutting the middle:** `:196` reads *Each of the three pays out
+differently* and takes its antecedent from that sentence. **`:192`'s middle is not padding
+and it stays.** This is the check the N44 orphan should have had.
