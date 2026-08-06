@@ -150,12 +150,17 @@ def main():
         # The first version of this check allowed sentence-initial matches and reported
         # forty capitalised common nouns -- Accuracy, Nobody, Each, Opening.
         hits = []
-        for m in re.finditer(r"\b([A-Z][a-z]{2,}\s+(?:[A-Z]\.\s+)?[A-Z][a-z]{2,})(?:'s)?\s+"
+        # `\s+` used to match newlines, so a heading's last word ran into the next
+        # paragraph's first: "## Which Game Are You Playing" above "Somebody found me..."
+        # was read as a person called Playing Somebody who *found* something. Names do not
+        # span line breaks, and the manuscript does not wrap inside a paragraph, so the
+        # separators are now horizontal whitespace only. Fixed 2026-08-05.
+        for m in re.finditer(r"\b([A-Z][a-z]{2,}[^\S\n]+(?:[A-Z]\.[^\S\n]+)?[A-Z][a-z]{2,})(?:'s)?[^\S\n]+"
                              r"(?:calls?|names?|argues?|writes?|showed?|shows?|found|"
                              r"separates?|explains?|puts? it|research|work|finding|term|"
                              r"insight|distinction|makes? the)\b", text):
             hits.append((m.group(1), m.group(0)))
-        for m in re.finditer(r"[a-z,]\s+([A-Z][a-z]{3,})(?:'s)?\s+"
+        for m in re.finditer(r"[a-z,][^\S\n]+([A-Z][a-z]{3,})(?:'s)?[^\S\n]+"
                              r"(?:calls?|names?|argues?|writes?|showed?|shows?|found|"
                              r"separates?|explains?|puts? it|research|finding|"
                              r"insight|distinction)\b", text):
