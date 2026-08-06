@@ -120,6 +120,24 @@ rule is unchanged.
 
 ---
 
+## Session — 2026-08-06 · Regression pilot, P-07 across revised Ch3–8
+
+**Desk regression passes; no canonical prose changed.** P-07 carried the new
+Ch3 relational-placement gate through the remaining Face chapters. The gate
+keeps the reader's Challenger line inside their own organizational conduct,
+limits Regent stewardship to the resource agreement they actually carry, and
+limits Architect design to the nonprofit system they control. Ch7 and Ch8
+reinforce the rule through their own permission and correction tests.
+
+**Result:** no later instruction forces the reader to convert a narrow resource
+agreement into coalition strategy, public voice, mediation, or governance.
+Later chapters do not repeat the gate verbatim; whether readers retain it under
+charge is a post-ship v2 human-calibration question, not a new prose defect.
+Full trace:
+`editorial_reports/2026-08-06/REGRESSION_P07_REVISED_CH3_CROSS_FACE_2026-08-06.md`.
+
+---
+
 ## Session — 2026-08-03 · Jordan arc, Chapters 7–9
 
 **Approved and applied.** Nine review-approved replacements across Diplomat,
