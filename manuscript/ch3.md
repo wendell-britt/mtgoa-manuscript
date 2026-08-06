@@ -251,7 +251,7 @@ I recover both ends before I am done, and I will ask you to hold them at the sam
 ---
 
 ## Section 4: The Practice
-### *The WAVE-Spiral: Emotional Alchemy as Repeatable Technique and Living Art*
+### *The Five-Move Form: Emotional Alchemy as Repeatable Technique and Living Art*
 
 If emotional alchemy means learning from emotions instead of managing them, then how do you actually *do it* when you're in the middle of a hard conversation, a crisis, a moment where the feeling is rising and you have thirty seconds to respond?
 
@@ -427,7 +427,7 @@ This stage can happen in real-time (in the next ten seconds) or can unfold over 
 
 ---
 
-### The Five Elements: How Different Feelings Flow Through the WAVE-Spiral
+### The Five Elements: How Different Feelings Flow Through the Five-Move Form
 
 <!-- MARGINALIA -->
 > *The Body teaches these in a low-lit hall with the windows open, on the theory that a student who
@@ -488,7 +488,7 @@ Here are the five, each with the move that reaches it and the thing it hands you
 
 **Neutrality completes into peace.** Numbed, neutrality is checking out; opened to the whole, it completes into peace, the stillness that can hold two true things at once without picking. The move is to widen until you can see the whole field, then rest there. What it restores is rest: *I can rest.* You can tell you are there when the situation can stay unresolved for a moment without you checking out or forcing it toward a side.
 
-These are the five renewable tokens, and you reach every one of them the same way: not by feeling less, but by feeling the channel all the way to its end. That is the whole promise of the WAVE-Spiral: taking a feeling all the way through to the state that hands you back more than you spent.
+These are the five renewable tokens, and you reach every one of them the same way: not by feeling less, but by feeling the channel all the way to its end. That is the whole promise of the Five-Move Form: taking a feeling all the way through to the state that hands you back more than you spent.
 
 ---
 
@@ -496,7 +496,7 @@ These are the five renewable tokens, and you reach every one of them the same wa
 
 Chapter 1 taught you to read your own fuel: what a move costs you. The Shaman adds the next layer: what that spending does to the living field: to the people around you, and what it leaves them carrying.
 
-The WAVE-Spiral does not make every move easy. It was never going to.
+The Five-Move Form does not make every move easy. It was never going to.
 
 What it promises is discernment.
 
@@ -535,7 +535,7 @@ You do not need to score the move. You need to tell the truth about what it did 
 <!-- /MARGINALIA -->
 
 
-The Shaman's mastery lies in knowing, in real time, which WAVE-Spiral stage you have reached, which channel you are running, and what move to make next.
+The Shaman's mastery lies in knowing, in real time, which movement of the Five-Move Form you have reached, which channel you are running, and what move to make next.
 
 A new practitioner goes:  Wake → Open → Clean → Grow → Show (slowly, carefully).
 
@@ -551,7 +551,7 @@ You practice this until it becomes your nervous system's operating system. Learn
 
 ### Somatic Markers: How to Know You're Actually Practicing
 
-The WAVE-Spiral is not just a thinking exercise. Your body should know you're doing it.
+The Five-Move Form is not just a thinking exercise. Your body should know you're doing it.
 
 **Wake:** You pause. Your thinking slows. You sense inward.
 
@@ -563,17 +563,17 @@ The WAVE-Spiral is not just a thinking exercise. Your body should know you're do
 
 **Show:** You feel resourced enough to move. Not manic. Grounded. Your body says "I know what to do now."
 
-If you move through all five stages and you don't feel *any* of these somatic shifts, you might be thinking the WAVE-Spiral instead of practicing it. Come back to the body. Feel what's actually present.
+If you move through all five stages and you don't feel *any* of these somatic shifts, you might be thinking the Five-Move Form instead of practicing it. Come back to the body. Feel what's actually present.
 
 ---
 
-### The Promise of the WAVE-Spiral
+### The Promise of the Five-Move Form
 
-The Shaman's practice (the WAVE-Spiral) prevents the distortion described in Section 2.
+The Shaman's practice (the Five-Move Form) prevents the distortion described in Section 2.
 
-Without the Shaman, the villagers manage emotions instead of learning from them. The WAVE-Spiral is how you learn instead of manage.
+Without the Shaman, the villagers manage emotions instead of learning from them. The Five-Move Form is how you learn instead of manage.
 
-Every time you practice the WAVE-Spiral:
+Every time you practice the Five-Move Form:
 - You recover the intelligence of your emotions (fear shows you what matters)
 - You develop the capacity to feel and act at the same time (not either/or)
 - You learn which moves replenish you, which moves sustain the field, and which moves cost capacity
@@ -587,11 +587,11 @@ Forgetting this took a thousand years. The Shaman's practice is how you remember
 
 Before you can alchemize, you need to see what you're working with.
 
-The WAVE-Spiral works with charge you're already feeling in your body: fear in the meeting, sadness after a rupture, anger that arrived on schedule. A lot of the charge that drains allyship doesn't arrive that way. It arrives dressed as someone else. The colleague who makes your jaw tighten. The movement leader whose certainty feels like a personal attack. The person who has become, in your inner world, a cartoon.
+The Five-Move Form works with charge you're already feeling in your body: fear in the meeting, sadness after a rupture, anger that arrived on schedule. A lot of the charge that drains allyship doesn't arrive that way. It arrives dressed as someone else. The colleague who makes your jaw tighten. The movement leader whose certainty feels like a personal attack. The person who has become, in your inner world, a cartoon.
 
 That charge is projection. Projection is shadow work waiting to happen.
 
-The 3-2-1 practice brings the charge back to where you can spend it, through three vantage points: face the figure in third person (3), talk with it in second person (2), be it in first person (1). The energy you were spending on them comes back to you, available for the WAVE-Spiral.
+The 3-2-1 practice brings the charge back to where you can spend it, through three vantage points: face the figure in third person (3), talk with it in second person (2), be it in first person (1). The energy you were spending on them comes back to you, available for the Five-Move Form.
 
 Solo, written or spoken, fifteen to twenty-five minutes.
 
@@ -623,7 +623,7 @@ This is emotional processing, and the material it works on has weight. Some of w
 |----------------|------|
 | Charge is in a *person* | 3-2-1 — here, and in every chapter after this one |
 | Stuck between two *rights* | Polarity Map — here, and in every chapter after this one |
-| Charge is in *body* now | WAVE-Spiral |
+| Charge is in *body* now | Five-Move Form |
 
 *Full process, worked examples, and source (Ken Wilber, Integral Life Practice): Appendix E: The 3-2-1 Shadow Process.*
 
@@ -933,7 +933,7 @@ Each Tell targets the Shaman's signature failure: the read spent on being seen a
 
 The Shaman is a Face. In the deck it is also an *operation*, a thing every move can do, which means you are not holding an archetype. You are holding twenty specific cards.
 
-Here is where they come from. The deck runs five basic moves, and you already know all five, because they are the WAVE-Spiral: Wake Up, Open Up, Clean Up, Grow Up, Show Up. Cross those against the four domains where allyship stops being interior and goes external (gathering resources, raising awareness, direct action, skillful organizing), and five times four gives twenty. Twenty cards per operation, a hundred and twenty in the deck. These twenty are the Shaman's.
+Here is where they come from. The deck runs five basic moves, and you already know all five, because they are the Five-Move Form: Wake Up, Open Up, Clean Up, Grow Up, Show Up. Cross those against the four domains where allyship stops being interior and goes external (gathering resources, raising awareness, direct action, skillful organizing), and five times four gives twenty. Twenty cards per operation, a hundred and twenty in the deck. These twenty are the Shaman's.
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 

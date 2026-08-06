@@ -45,7 +45,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 ***The gift:*** You name which of the five channels is running — anger, fear, sadness, joy, neutrality — and let the read change what you actually offer.
 
 1. Before you respond to anything charged this week, name the channel that's running. Out loud if you can.
-2. Run one full WAVE in a live moment — the one from Chapter 3 — and let the read change your next move, not just your understanding of it.
+2. Run one full Five-Move Form in a live moment — the one from Chapter 3 — and let the read change your next move, not just your understanding of it.
 3. Capture what the channel did once you worked *with* it instead of around it.
 
 ---

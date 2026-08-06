@@ -6,7 +6,7 @@
 
 ## On the Body and Emotion
 
-The method at the heart of this book — emotional alchemy, the conviction that feeling carries usable intelligence and that a part of us reads a situation before the conscious mind catches up — rests on a lineage of teachers who spent careers mapping it. I don't use their clinical vocabulary in the chapters, on purpose: I'd rather evoke the experience than narrate yours back to you. The science is real, and it shaped me. If the WAVE-Spiral or the Shaman's read (both Chapter 3) landed for you, start here:
+The method at the heart of this book — emotional alchemy, the conviction that feeling carries usable intelligence and that a part of us reads a situation before the conscious mind catches up — rests on a lineage of teachers who spent careers mapping it. I don't use their clinical vocabulary in the chapters, on purpose: I'd rather evoke the experience than narrate yours back to you. The science is real, and it shaped me. If the Five-Move Form or the Shaman's read (both Chapter 3) landed for you, start here:
 
 - **Eugene Gendlin — *Focusing*.** The origin of the "felt sense": the precise, pre-verbal way the body holds the meaning of a situation before words arrive. The single closest source for what Chapter 3 calls reading a space before you have language for it.
 - **Peter Levine — *Waking the Tiger* (and Somatic Experiencing).** How activated emotional energy moves, completes, or gets stuck — the physiology under "the charge" and why staying with a feeling lets it finish its cycle.

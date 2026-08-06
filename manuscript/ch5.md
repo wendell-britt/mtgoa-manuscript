@@ -381,7 +381,7 @@ The Regent's practice is generational, not moment-to-moment. Energy still flows.
 
 ### The Stage Sequence: Inherit → Honor → Steward → Reform → Entrust
 
-The Regent's practice moves through five stages. Unlike the Shaman's WAVE, fast enough to happen in minutes, the Regent's cycle moves at the speed of years.
+The Regent's practice moves through five stages. Unlike the Shaman's Five-Move Form, fast enough to happen in minutes, the Regent's cycle moves at the speed of years.
 
 **Inherit.** You receive what was handed to you. This includes things you would not have chosen. Family patterns. Organizational cultures. Traditions with their wounds attached. The first move acknowledges what arrived, before you change any of it: *I am carrying this. I did not create this. It is mine now.*
 
@@ -663,7 +663,7 @@ In practice: When you're transitioning out of something, ask: *am I giving the n
 
 ## Your Twenty Cards
 
-Same grid, one operation further along. Five moves down (the WAVE-Spiral), four domains across. Twenty cards, and these are the Regent's.
+Same grid, one operation further along. Five moves down (the Five-Move Form), four domains across. Twenty cards, and these are the Regent's.
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 

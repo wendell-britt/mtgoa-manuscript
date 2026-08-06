@@ -190,7 +190,7 @@ You do care too much, and it costs you. You care about everyone (you would say s
 
 Sometimes the friend, the coworker, the kid, the community you show up for needs a Challenger (one clean, costly line), and all you have is the Diplomat, so you keep the peace and they never get what they came for. Sometimes they need an Architect to change the rule that keeps hurting them, and you give them the Shaman's feel for what everyone is carrying, and the rule does not move. The reason to widen your range is the person in front of you, the one who needed a move you did not have.
 
-One process runs every one of these faces: the WAVE, which the Shaman hands you in Chapter 3 and every school after that one uses. Each Game Master takes a chapter to teach you their game, and the WAVE is how you play it. By the end you reach for the face the moment needs instead of the one your hands find on their own.
+One process runs every one of these faces: the Five-Move Form, which the Shaman hands you in Chapter 3 and every school after that one uses. Each Game Master takes a chapter to teach you their game, and the Five-Move Form is how you play it. By the end you reach for the face the moment needs instead of the one your hands find on their own.
 
 You can feel which face is your home. Hold onto it. In the next section you put it on paper.
 

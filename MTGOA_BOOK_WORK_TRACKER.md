@@ -109,6 +109,14 @@ now follows the renamed heading; its existing prose is held for a later contextu
 Five-Move Form at the scale of a group, then names the work at each move. This replaces the
 unexplained phrase “at altitude”; it is a contextual revision, not a blanket rename.
 
+**Macro terminology migration applied.** Unambiguous references to the former `WAVE`/
+`WAVE-Spiral` five-move practice now use `Five-Move Form` across Chapters 1 and 3–6 and 9,
+Appendices A, B, and E, and *On the Shoulders Of*. The actual Welcome / Acknowledge / Validate /
+Exhale practice remains WAVE in Chapter 3 and the relevant appendices. Four meaning-level
+decisions remain open: the Chapter 3 marginal note's “spiral,” Appendix E's first-practice
+instruction, the title page's incomplete move list, and distinct formal credit for Wilber's
+*Finding Radical Wholeness*.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction

@@ -11,11 +11,11 @@
 
 Before you can alchemize, you need to see what you're working with.
 
-The WAVE-Spiral works with charge you're already feeling in your body — fear in the meeting, grief after the rupture, anger that arrived on schedule. A lot of the charge that drains allyship doesn't arrive that way. It arrives dressed as someone else. The colleague who makes your jaw tighten. The movement leader whose certainty feels like a personal attack. The person on the other side of the issue who has become, in your inner world, a cartoon.
+The Five-Move Form works with charge you're already feeling in your body — fear in the meeting, grief after the rupture, anger that arrived on schedule. A lot of the charge that drains allyship doesn't arrive that way. It arrives dressed as someone else. The colleague who makes your jaw tighten. The movement leader whose certainty feels like a personal attack. The person on the other side of the issue who has become, in your inner world, a cartoon.
 
 That charge is projection, which is shadow work waiting to happen.
 
-The **3-2-1 practice** is how you metabolize it. Three vantage points. One charged figure. You move from observing it, to talking with it, to being it — and the energy that was leaking out through judgment comes back into your system, available for the WAVE-Spiral to use.
+The **3-2-1 practice** is how you metabolize it. Three vantage points. One charged figure. You move from observing it, to talking with it, to being it — and the energy that was leaking out through judgment comes back into your system, available for the Five-Move Form to use.
 
 This is not abstract therapy. It is a diagnostic move. It tells you which part of you is running the show when you think you're responding to them.
 
@@ -79,13 +79,13 @@ When you're done, sit for thirty seconds. Notice whether the charge moved — up
 
 ---
 
-### 3-2-1 and the WAVE-Spiral
+### 3-2-1 and the Five-Move Form
 
 These tools work together, not in competition.
 
 **3-2-1** finds the charge — especially charge you've outsourced to someone else. It tells you *which part* is running and *what it's protecting*.
 
-**The WAVE-Spiral** moves the charge — once it's yours again, through Wake, Clean, Grow, Show.
+**The Five-Move Form** moves the charge — once it's yours again, through Wake Up, Open Up, Clean Up, Grow Up, Show Up.
 
 If you're stuck in a channel — always translating, never feeling; always holding the field, never naming your stake — 3-2-1 often reveals which gate or part is intercepting the spiral before it completes. Do 3-2-1 first when the trigger is a *person*. Do WAVE first when the trigger is a *feeling already in your body*. Many hard moments need both.
 
@@ -111,4 +111,4 @@ This process is for **alliance-work projection** — charge outsourced to a figu
 |----------------|------|
 | Charge is in a *person* | 3-2-1 (Chapter 3 first practice) |
 | Stuck between two *rights* | Polarity Map (Chapter 3, and every chapter after) |
-| Charge is in *body* now | WAVE-Spiral |
+| Charge is in *body* now | Five-Move Form |

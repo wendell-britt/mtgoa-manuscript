@@ -619,7 +619,7 @@ The Challenger's game is simple: **draw the line, name the cost, mean it.**
 
 You know when you're winning at this altitude because the boundary exists out loud. Out of your head, out of the follow-up email you rehearse but never send. Said. Held.
 
-The Challenger's game has five concrete moves. They are the same five WAVE stages you ran with the Shaman, run at a table where the other person can answer back. You can use them today.
+The Challenger's game has five concrete moves. They are the same five movements of the Five-Move Form you ran with the Shaman, run at a table where the other person can answer back. You can use them today.
 
 Egan spent forty years studying one skill: the capacity to act clearly in a charged interpersonal moment. Not to think clearly (that's the easy part) but to act. *The Skilled Helper* makes a case that most people don't make explicit: you don't develop this capacity by understanding it. You develop it by doing it badly, noticing what failed, and doing it again with that information. The model is always: here is where you are, here is where you want to be, here is the next move to practice. That is what these five moves are built for. Not to be read. To be practiced until they become reliable.
 
@@ -717,7 +717,7 @@ In practice: When you feel yourself reaching for a qualifier, stop. Take the qua
 
 ## Your Twenty Cards
 
-Same grid as the Shaman's, one operation over. Five basic moves down (the WAVE-Spiral, which you have been running since Chapter 3), four domains across, twenty cards. These are the Challenger's.
+Same grid as the Shaman's, one operation over. Five basic moves down (the Five-Move Form, which you have been running since Chapter 3), four domains across, twenty cards. These are the Challenger's.
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
