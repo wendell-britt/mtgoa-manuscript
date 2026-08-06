@@ -285,7 +285,7 @@ You now know the WAVE. Wake up. Open up. Clean up. Grow up. Show up. Then you co
 
 You know that the return is not optional, that coming back makes the work real. That carrying what you found back to the village is the whole point.
 
-You know that the five emotional channels do more than name things: they map the territory you have been walking into. Fear, anger, sadness, joy, neutrality: each one a gate you can walk through instead of a threat to manage.
+You know that the five emotional channels do more than name things: they map the territory you have been walking into. Fear, anger, sadness, joy, neutrality: each one a road you can walk instead of a threat to manage.
 
 ---
 
