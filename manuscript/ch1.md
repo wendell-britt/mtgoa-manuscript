@@ -197,6 +197,20 @@ Allyship reaches you as three games running at once: the lucky breaks you cannot
 
 ## Which Game Are You Playing
 
+Somebody found me at an event once to tell me that something I had said had given another person a bad trip. I did not want it to be true. I also could not prove it was not me, because I say a lot of wild stuff. So I went to find them.
+
+The person I found was hours in and frightened. I know how to sit with that. Trip sitting is harm reduction, and harm reduction is allyship whether or not anybody in the space would use the word. I had learned trip sitting a long time before that night, for its own reasons, and I never once thought it would come in handy. We talked for a long time, and they came out the other side.
+
+Afterwards the person who had come to find me worked out that it had not been me at all. It had been somebody at that event who looked like me.
+
+Two moments from that night matter here. The first is that I went without saying a word in my own defence. I could not tell you how that looked from outside, because I was not watching for that. I was going to find somebody.
+
+You cannot read allyship off how it looks. The evidence arrives too late. Nobody can see your intention. What people can see is what your move did to somebody, and that lands late, sometimes years late, while the performance lands at once. So the confusion does not fall evenly. Whoever performs well collects before anybody can check, because the counter pays out on the performance and the impact is still on its way.
+
+The second moment came once I was in the doorway. Everything I did in there was skill. I had built it slowly, for reasons that had nothing to do with that night, and it was there when I reached for it. What put me in the doorway was a stranger with my face saying something to somebody, and somebody else getting the two of us confused. If that mix-up had landed on anyone else in the building, the person in trouble would have had nobody.
+
+Two different games were running that night, and I had spent years calling them by one name.
+
 Each of the three pays out differently. Most frameworks teach one and treat the other two as mistakes. The move is to tell them apart, because you play each with a different hand.
 
 **Games of Chance — right place, right time.**
