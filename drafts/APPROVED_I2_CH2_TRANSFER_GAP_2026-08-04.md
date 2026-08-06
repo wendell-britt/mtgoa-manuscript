@@ -115,14 +115,14 @@ duplicate of it.
 > than most people at the table. Then an older pattern moves, and you arrive after it, able to
 > name exactly what happened. Naming it is the skill that just failed.
 >
-> **[NEW]** The gap comes with an explanation attached, and the explanation is wrong. It says
+> **[NEW]** That gap comes with an explanation attached, and the explanation is wrong. It says
 > the problem is you: not committed enough, not brave enough, still too attached to being
 > comfortable. You have carried some form of that for a while now, and it gets heavier with
 > every book you finish.
 >
 > **[NEW]** The accurate explanation is duller. What you built is real, and it is half of a
 > two-part skill. You build the other half live: run a concept while something is happening,
-> catch an older pattern in the act, give it a different job, and do that enough times that
+> interrupt an older pattern in the act, give it a different job, and do that enough times that
 > your hands know it before you do. Reading further into your half was never going to start
 > the other one.
 >
@@ -160,7 +160,7 @@ Line-level, what changed from v1 to v2 and why:
 | You have it faster and better than most people in the room. And in the half-second something older gets there first | You have the analysis, faster and sharper than most people at the table. Then an older pattern moves, and you arrive after it | gate: *room*, sentence-initial *And*. *pattern* is the chapter's own word and pre-seeds Section 6. |
 | You have probably been carrying some version of that quietly for a while | You have carried some form of that for a while now | gate: *quietly*. *version* is an empty noun. |
 | Here is the accurate one. What you built is real. It is also the wrong half, and no amount of more of it was ever going to turn into the other half. | The accurate explanation is duller. What you built is real, and it is half of a two-part skill. | two expletive openers removed. *the wrong half* / *the other half* named once as *a two-part skill*, so the reader knows what the halves are. |
-| That is not a verdict on you. It is a description of a method with a missing step. | You build the other half live: run a concept while something is happening, catch an older pattern in the act, give it a different job, and do that enough times that your hands know it before you do. Reading further into your half was never going to start the other one. | v1 protests innocence, and so did an earlier v2 (*The method has a missing step. You are not the missing step*). Ruled 2026-08-04: handwringing — nobody is on trial for identifying with the missing step. Describe the step. So the paragraph now says what the second half is and how it gets built, in the chapter's own verbs: *run*, *catch*, *give it a job* (`ch2.md:248`), hands. |
+| That is not a verdict on you. It is a description of a method with a missing step. | You build the other half live: run a concept while something is happening, interrupt an older pattern in the act, give it a different job, and do that enough times that your hands know it before you do. Reading further into your half was never going to start the other one. | v1 protests innocence, and so did an earlier v2 (*The method has a missing step. You are not the missing step*). Ruled 2026-08-04: handwringing — nobody is on trial for identifying with the missing step. Describe the step. So the paragraph now says what the second half is and how it gets built, in the chapter's own verbs: *run*, *catch*, *give it a job* (`ch2.md:248`), hands. |
 | None of them reaches the half-second where you actually move. *(and two further uses)* | None of them reaches what moves before you decide anything. | ruled 2026-08-04: the phrase is needlessly specific, does too much work, and does not explain the mechanic. What it pointed at is the gap between automatic and chosen action, so each site now states that ordering instead of naming a duration. |
 
 Also run: `/no-ai-slop`, which took out one throat-clearing opener (*Try the accurate one
@@ -300,3 +300,35 @@ harder draft — then Ch4.
 **One open question for you:** the P7 cut in §5. Taking it makes the net +118 and removes a
 claim the new material now makes better; leaving it protects the on-ramp to the sadness
 paragraph. I would leave it, and I would rather you rule than have me guess.
+
+---
+
+## 10 · Stance pass, 2026-08-05
+
+Run a day after this landed, under `.claude/skills/mtgoa-review/SKILL.md` §3.5, which was written
+because five of today's defects were invisible to the counters. Three checks clean, two edits.
+
+**Person — clean.** No `we/us/our` in the insert, and none in ch2 above it. Pure second person on
+both sides of the seam.
+
+**Doer — clean.** No get-passives. One deliberate withhold: *"None of them reaches what moves
+before you decide anything"* leaves the doer of *moves* unnamed and pays it off two paragraphs
+later as *an older pattern*. It resolves inside the passage.
+
+**Back-pointer — one hit, fixed.** *"**The** gap comes with an explanation attached"* used a
+definite article for a noun that appears **nowhere earlier in ch2**. The passage is about a gap and
+never calls it one until this sentence, so the article pointed at something the reader had to
+assemble. Now *"**That** gap"*, which points at the two paragraphs that just described it. Same
+defect class as `ch6:628`'s orphaned *the push*.
+
+**Borrowed move — one adjacency, changed.** *"catch an older pattern in the act"* sat beside
+**Catch It Before the Story**, ch3's Move 1: *"You catch the signal in the second before your mind
+writes the account of what it means."* The objects differ — ch3 catches a signal before the story
+forms, ch2 catches a pattern already running — and ch2 is upstream, so the reader has not met the
+move yet. Changed to **interrupt** anyway, on Wendell's word: one word for daylight around a move
+that belongs to another chapter.
+
+**Membrane — clean.** No fiction vocabulary; ch2 carries no treatise signature to cross.
+
+Measured before and after: `be 0.86 · copula 0.86 · zombie 0.67 · expletive 0.00 · passive 0.00 ·
+empty 0.71` unchanged, `waste 1.18 → 1.24` from *That*. Book-wide green on all six.
