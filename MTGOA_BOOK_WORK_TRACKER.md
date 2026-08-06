@@ -65,6 +65,23 @@ It is intentionally not a release gate. Full audit:
 
 ---
 
+## Session — 2026-08-06 · Pilot 1, no-standing cross-Face test
+
+**Desk simulation complete; no canonical prose changed.** P-07, an adjacent
+nonprofit convenor with resources but no coalition role, was run across Ch3–8.
+Ch7's explicit trust prerequisite and Ch8's correction/usefulness tests route
+the reader to a narrow resource offer or clean step-back. Ch3, Ch4, and Ch6
+repeatedly risk converting a valid read into an unearned mandate to speak,
+confront, or redesign.
+
+**Finding:** relational placement is a repeated action-conversion issue, not a
+Ch2-only edge case. The next editorial hypothesis is a short portable gate
+before the first recurring Ch3 quest instruction; it requires a rerun against
+P-03, P-04, P-06, and P-07 before any canonical proposal is made. Full trace:
+`editorial_reports/2026-08-06/PILOT_1_P07_NO_STANDING_CROSS_FACE_2026-08-06.md`.
+
+---
+
 ## Session — 2026-08-03 · Jordan arc, Chapters 7–9
 
 **Approved and applied.** Nine review-approved replacements across Diplomat,
