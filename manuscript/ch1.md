@@ -224,7 +224,11 @@ You can feel which face is your home. Hold onto it. In the next section you put 
 
 ## Build Your Allyship Character
 
-This is your character sheet, a few lines filled in for who you are right now.
+Every roleplaying game hands you a sheet before it hands you a story. You write down who your character is, and from then on the table can hold you to it: what you are good at, what you avoid, what you swore. Nobody changes into somebody else between sessions without the table seeing it, because the claim sits on paper in front of everyone.
+
+Allyship gets played without one. You can be held to a sentence you wrote. You cannot be held to one you only meant.
+
+Appendix H is the sheet. This is yours, a few lines filled in for who you are right now, and every chapter after this one adds another.
 
 **Your home face.** The one you already play, the one you just recognized as yours. Write it down.
 
