@@ -105,6 +105,10 @@ Radical Wholeness* and uses the jazz distinction between a stable form and each 
 application. The WAVE introduction remains separate in Open Up. The linked marginal note anchor
 now follows the renamed heading; its existing prose is held for a later contextual revision.
 
+**Architect scale language revised.** Chapter 6 now says directly that the Architect uses the
+Five-Move Form at the scale of a group, then names the work at each move. This replaces the
+unexplained phrase “at altitude”; it is a contextual revision, not a blanket rename.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
