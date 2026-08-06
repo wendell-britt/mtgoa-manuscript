@@ -74,35 +74,35 @@ Once, the Sage lived inside the village's conversations.
 
 At the same level as everyone else in them. The Sage could sit at a table and see all the games at once: could feel the Challenger's charge in the air and know exactly which line someone had crossed, could watch the harmony forming and see the strategy underneath it, could notice when a meeting shifted from one game to another before anyone else had caught it.
 
-The village noticed this. At first it seemed useful. The Sage could name which game the meeting was really playing. The Sage could say: *we're treating this like a problem to be seen whole, and it's actually a harmony problem (everyone needs to feel heard first), that's why no amount of vision is fixing it.* The Sage could look at the conflict and say: *this is a boundary issue dressed up in strategy language.* The village would pause. Sometimes that pause did the work.
+The villagers noticed this. At first it seemed useful. The Sage could name which game the meeting was really playing. The Sage could say: *we're treating this like a problem to be seen whole, and it's actually a harmony problem (everyone needs to feel heard first), that's why no amount of vision is fixing it.* The Sage could look at the conflict and say: *this is a boundary issue dressed up in strategy language.* The village would pause. Sometimes that pause did the work.
 
 Then something shifted.
 
-It wasn't sudden. It came on gradually, the way a table goes still when someone says a thing nobody knows how to answer.
+It wasn't sudden. It came on gradually, the way a table goes still when someone says something nobody knows how to answer.
 
 The Sage said: *I see this and I'm staying.*
 
-The village heard: *I see this and I'm not on your side.*
+What landed instead was: *I see this and I'm not on your side.*
 
-That's not what the Sage meant. The village had gotten used to wisdom as a form of leaving. The guru on the mountain. The teacher who has risen above it all. The sage who sees the game and therefore must be outside the game. When the Sage refused to leave, when the Sage said *I see all of it and I'm still here, still setting the table, still in relationship*, the village didn't know what to do with that. It didn't match the story they'd heard about what seeing meant.
+That's not what the Sage meant. The villagers had gotten used to wisdom as a form of leaving. The guru on the mountain. The teacher who has risen above it all. The sage who sees the game and therefore must be outside the game. When the Sage refused to leave, when the Sage said *I see all of it and I'm still here, still setting the table, still in relationship*, the village didn't know what to do with that. It didn't match the story they'd heard about what seeing meant.
 
-The village had made a rule: if you can see the pattern of the game, you must stop playing. Seeing began the leaving. Wisdom ruled out commitment. The person who saw everything had decided not to belong.
+They had made a rule: if you can see the pattern of the game, you must stop playing. Seeing began the leaving. Wisdom ruled out commitment. The person who saw everything had decided not to belong.
 
 The Sage had not decided that. The Sage had decided something different: *I see the pattern, and I'm choosing to stay inside it, because the staying is the work.*
 
-The Sage's oldest wound: the capacity to see all the games without leaving any of them, and the village reading that as contradiction. The gift mistaken for its opposite, every time.
+The Sage's oldest wound: the capacity to see all the games without leaving any of them, and everyone reading that as contradiction. The gift mistaken for its opposite, every time.
 
-The village did not know this: the Sage contradicted nothing. The Sage had heard a different question. The village asked: *are you in the game or are you wise?* The Sage answered: *those are not different questions. The wise thing to do is to be inside the game, seeing clearly, choosing deliberately, not mistaking your game for the only game there is.*
+The villagers did not know this: the Sage contradicted nothing. The Sage had heard a different question. They asked: *are you in the game or are you wise?* The Sage answered: *those are not different questions. Wisdom is being inside the game, seeing clearly, choosing deliberately, not mistaking your game for the only game there is.*
 
-The village wanted wisdom to look like departure. The Sage kept showing up like it was simple.
+Everyone wanted wisdom to look like departure. The Sage kept showing up like it was simple.
 
-One day, the village made its preference official. The Sage who sees everything and commits to nothing. The Sage who has risen above the fray. The sage-at-a-distance, who can tell you which game you're playing and would never lower themselves to play it. The village kept the caricature. The actual Sage, the one who saw the whole thing and still set the table, stopped speaking. Not banned. Just no longer heard. When you can name the game everyone plays and they keep treating you like a threat for knowing it, you learn to hold your tongue at tables where you'd have something to say.
+One day, the people there made their preference official. The Sage who sees everything and commits to nothing. The Sage who has risen above the fray. The sage-at-a-distance, who can tell you which game you're playing and would never lower themselves to play it. They kept the caricature. The actual Sage, the one who saw the whole board and still set the table, stopped speaking. Not banned. Just no longer heard. When you can name the game everyone plays and they keep treating you like a threat for knowing it, you learn to hold your tongue at tables where you'd have something to say.
 
-The choice came down to one thing: keep showing up and getting called contradictory, or stop saying what you see and remember who you were.
+The choice came down to this: keep showing up and getting called contradictory, or stop saying what you see and remember who you were.
 
 The Sage stopped saying it.
 
-The village never meant for that to happen. It never said *go.* It just lost the ability to hear what the Sage actually said. Which, it turns out, amounts to the same thing as exile.
+No one meant for that to happen. Nobody said *go.* It just lost the ability to hear what the Sage actually said. Which, it turns out, amounts to the same as exile.
 
 ---
 
@@ -110,7 +110,7 @@ One kind of meeting runs a stated agenda of strategy over a real agenda of who g
 
 If you have sat at one of those tables and felt the gap between what people said and what they played (the game underneath the language, running the whole time) then you have the Sage's capacity. That much is not in question. The School of the Horizon takes up what happened next.
 
-One pattern shows up most often at this altitude. Offer it to yourself as a thing to check rather than a thing I already know about you. Naming the game costs something. The naming lands as judgment even when it isn't. The people at the table hear *you think you're above this* where you said *here's what I notice.* That happens two or three times and the arithmetic changes. The cost of saying it rises above what it seems worth. So the seeing continues and the saying stops. You hold the pattern without putting it into words. You stay present without offering the particular usefulness you happen to be capable of.
+One pattern shows up most often at this altitude. Offer it to yourself as a question to check rather than a verdict I already hold about you. Naming the game costs something. The naming lands as judgment even when it isn't. The people at the table hear *you think you're above this* where you said *here's what I notice.* That happens two or three times and the arithmetic changes. The cost of saying it rises above what it seems worth. So the seeing continues and the saying stops. You hold the pattern without putting it into words. You stay present without offering the particular usefulness you happen to be capable of.
 
 That withholding becomes its own kind of exile. Not the loud kind, not being asked to leave, not being told you were wrong. The other kind: when you have something specific to offer and you've learned not to offer it, because the table doesn't have the architecture to receive it. That's where we left the Sage. Whether you've spent time there too, only you can say.
 
@@ -136,7 +136,7 @@ Keep the terms apart so they don't blur together. Shadow is the move that stays 
 ### *What the Village Does When It Can't See the Games It's Playing*
 
 <!-- MARGINALIA -->
-> *A partial list of things this school runs on that exist nowhere in writing: the intake sequence,
+> *A partial list of what this school runs on that exists nowhere in writing: the intake sequence,
 > the reason we stopped the second-year review, four agreements with three worlds, and the whole of
 > what we do when a student leaves badly.*
 >
@@ -149,15 +149,15 @@ Keep the terms apart so they don't blur together. Shadow is the move that stays 
 <!-- /MARGINALIA -->
 
 
-After the Sage stopped naming things, the village kept playing games.
+After the Sage stopped naming the games, the villagers kept playing them.
 
-It stopped knowing which ones it was playing.
+They stopped knowing which ones they were playing.
 
-Every conflict became existential. A boundary dispute in a meeting looked exactly like an identity crisis. A systems problem looked exactly like a values problem. Nobody could step back and say: *we're treating this like a harmony problem and it's actually a boundary problem: that's why no amount of vision is fixing it.* Nobody could name which game the village had got stuck in, and every game began to feel like every other game.
+Every conflict became existential. A boundary dispute in a meeting looked exactly like an identity crisis. A systems problem looked exactly like a values problem. Nobody could step back and say: *we're treating this like a harmony problem and it's actually a boundary problem: that's why no amount of vision is fixing it.* Nobody could name which game the villagers had all got stuck in together, and every game began to feel like every other game.
 
-The village mistook motion for progress. It treated arguments as evidence of commitment rather than evidence of stuckness. The more heated the debate, the more certain everyone became that they were doing the work, when actually they were playing the same game at each other without knowing it.
+Everyone mistook motion for progress. They treated arguments as evidence of commitment rather than evidence of stuckness. The more heated the debate, the more certain everyone became that they were doing the work, when actually they were playing the same game at each other without knowing it.
 
-Without the Sage, the village plays every game at once and loses track of which one it occupies.
+Without the Sage, the villagers play every game at once and lose track of which one they occupy.
 
 A Sage in distortion emerged to fill the gap. Not the real Sage, the village's version. The one who sees everything and commits to nothing. Who can name every game and won't choose one. Who has enough perspective to explain why none of it matters and not enough commitment to be useful. Who mistakes seeing for wisdom, and wisdom for the ability to opt out.
 
@@ -185,7 +185,7 @@ The Architect builds knowing they're designing for fallible humans. The Sage in 
 
 The test: when a system fails, does the Sage redesign the system or redesign the people? Redesigning the system is the Architect. Redesigning the people is the distortion. The real Sage names which game the people are actually in and designs for that, not for the game they wish the people were in.
 
-Each of these three looks defensible. The Sage in distortion is doing versions of useful things (mediating pain, solving problems, designing systems) without the one diagnosis that would make any of them useful.
+Each of these three looks defensible. The Sage in distortion is doing versions of useful work (mediating pain, solving problems, designing systems) without the one diagnosis that would make any of them useful.
 
 One move is missing, and it comes first: *which game is this, actually?*
 
@@ -211,11 +211,11 @@ Without that question, help becomes interference. Diagnosis becomes lecturing. P
 
 The Shaman knows what they feel. The Challenger knows what line to draw. The Regent knows what tradition to carry forward. The Architect knows what to build. The Diplomat knows how to hold the field for people playing different games. Each one is right. Each one is also incomplete.
 
-The Sage sees the whole thing. That's not a contradiction: it's the whole point.
+The Sage sees the whole board. That's not a contradiction: it's the whole point.
 
 Mastery is knowing which game you're playing and being able to put it down.
 
-Maera would enter it as an absence and Corin would want a number, and both are asking the same question in the only form their own school permits, which is whether the Horizon has returned more than it has taken. We keep a register of who arrived and a register of where they went, and between those two documents sits a third thing that nobody here has found a way to write down.
+Maera would enter it as an absence and Corin would want a number, and both are asking the same question in the only form their own school permits, which is whether the Horizon has returned more than it has taken. We keep a register of who arrived and a register of where they went, and between those two documents sits a third document that nobody here has found a way to write down.
 
 Sera would say the ledger holds it. The ledger holds what a ledger can hold. Irix would build a better ledger, and it would be a better ledger, and it would hold the same nothing more elegantly.
 
@@ -261,7 +261,7 @@ The Sage runs two questions at all times, and everything the School of the Horiz
 
 *Which altitude is this?* is a vertical question, and its answer-set is the six roles the schools teach. It asks what a person can currently hold: the size of the frame they operate from, a fact about their development and not a fact about their worth.
 
-Both are real. Both are load-bearing. The game read tells you what to do. The altitude read tells you how to say it. A Sage who only reads games will keep saying accurate things in a register nobody present can receive. A Sage who only reads altitudes will keep making sophisticated assessments of people while the actual situation goes unaddressed.
+Both are real. Both are load-bearing. The game read tells you what to do. The altitude read tells you how to say it. A Sage who only reads games will keep saying accurate sentences in a register nobody present can receive. A Sage who only reads altitudes will keep making sophisticated assessments of people while the actual situation goes unaddressed.
 
 You may choose one. The failure comes when one answers the other's question.
 
@@ -279,7 +279,7 @@ Real Sage sight carries the orientation of someone who walked all the way in and
 
 Perspective-as-avoidance runs the opposite way, and it has a tell you can catch: you're looking at the people the way a tourist looks at a museum. Everything's interesting; nothing is yours. You can describe what happens with perfect accuracy and still stand outside it, and the clearer the view gets, the further away you've drifted.
 
-So before you trust the view, check the one thing that gives it away. Are you in it, or watching from the doorway? With the people, or above them? That's the whole difference: a question about where you're standing, not a sensation you have to manufacture.
+So before you trust the view, check what gives it away. Are you in it, or watching from the doorway? With the people, or above them? That's the whole difference: a question about where you're standing, not a sensation you have to manufacture.
 
 <!-- SIGNATURE -->
 > the sixth treatise, submitted by Thalen Orr, Keeper of the Far Game,
@@ -394,7 +394,7 @@ Underneath the Returner's first failure is the sadness of leaving the view. You'
 
 The sadness is the cost of the gift, and it will feel like weakness every time. The Sage who has gone up can't unsee it, and coming back down means sitting with people while you can see exactly what happens and they can't, and finding a way to say it that doesn't leave them feeling seen-and-judged. That's the work. That's the price.
 
-The alchemy: you feel the loss of altitude (the way things look smaller from inside than they did from above) and you let the sadness become tenderness. *I see it from here. I saw it from up there. I'm here, with you, and the seeing is still mine.* The poignance is the moment the distance between what you see and where they are becomes the place love happens. The loss carries you there. You came back. That's the love.
+The alchemy: you feel the loss of altitude (the way everything looks smaller from inside than it did from above) and you let the sadness become tenderness. *I see it from here. I saw it from up there. I'm here, with you, and the seeing is still mine.* The poignance is the moment the distance between what you see and where they are becomes the place love happens. The loss carries you there. You came back. That's the love.
 
 ---
 
@@ -404,7 +404,7 @@ ask before you act rather than a feeling to work.
 
 **Panoramic Seer: *perspective as performance***
 
-The distortion: the capacity to see all the games becomes a thing you do for an audience. *Look, I can name the power game and the harmony game and the strategy game all running at once, isn't that something?* The view becomes a demonstration. Seeing turns into a way of being seen to be wise.
+The distortion: the capacity to see all the games becomes a performance for an audience. *Look, I can name the power game and the harmony game and the strategy game all running at once, isn't that something?* The view becomes a demonstration. Seeing turns into a way of being seen to be wise.
 
 The pattern: narrating instead of inhabiting. Describing from above instead of participating from within. Able to tell you exactly which game the meeting is playing and unable to sit inside the meeting. The body is present. The person is not.
 
@@ -450,7 +450,7 @@ The fix: before you put it down, check. *Has this taught me what it came to teac
 
 The distortion: the capacity to come back from the overview becomes a way to not have to hold the overview. *I've been up here long enough.* The return becomes relief from the weight of what you saw.
 
-The pattern: going up, seeing the whole thing, and immediately needing to come back, not because the moment asks for it, but because the weight grows too heavy to hold while staying embodied. Coming back to the harmony game or the strategy game as escape rather than as service.
+The pattern: going up, seeing the whole board, and immediately needing to come back, not because the moment asks for it, but because the weight grows too heavy to hold while staying embodied. Coming back to the harmony game or the strategy game as escape rather than as service.
 
 The cost: people learn you can't be trusted with the view. If you always retreat before you've done the work up there, they stop expecting you to stay, which means they stop expecting you to see clearly at all.
 
@@ -476,7 +476,7 @@ You walk into a meeting. Before anyone speaks, the Panoramic Seer takes one brea
 
 The conversation starts. Someone makes a strategy-game move: proposes a system, reaches for the process fix. The Game-Switcher checks: *is this asking for strategy? It's presenting that way. Is it actually a strategy problem? No: the problem is in the power game and we're dressing it as strategy.* You switch. You name the line. You name what's actually at stake. You do the work that game calls for.
 
-The Diagnostician runs the whole time. You notice when things move from the power game back toward harmony, someone names the boundary and now everyone needs to feel heard. You adjust. You meet them there without dropping the line you just drew.
+The Diagnostician runs the whole time. You notice when the table moves from the power game back toward harmony, someone names the boundary and now everyone needs to feel heard. You adjust. You meet them there without dropping the line you just drew.
 
 Then the Liberator asks: *is this game mine? Am I the one who has to hold this boundary, or did I name it so someone else could?* You release. The boundary belongs to the group now, not to you.
 
@@ -522,11 +522,11 @@ You already know who this is. Someone who acted at the altitude they had rather 
 
 The walk back is the hardest part, and you can drill it like anything else.
 
-Not because the terrain is hard. Because the village doesn't always recognize you when you return. You've been up. You've seen from a different vantage, not better, different. The village, seeing from where it stands, may not manage to see what you saw. May not want to. May actively resist, because seeing it and saying it out loud means something has to change, and change is expensive.
+Not because the terrain is hard. Because the villagers don't always recognize you when you return. You've been up. You've seen from a different vantage, not better, different. They, seeing from where they stand, may not manage to see what you saw. May not want to. May actively resist, because seeing it and saying it out loud means something has to change, and change is expensive.
 
 Most people get stuck at exactly this point. They go up. They see. They stay up there, because coming down means sitting with people who aren't where you are, who will call you condescending when you're honest and arrogant when you're precise, who will tell you *you're too much in your head* at the exact moment you are more in your body than you have ever been. The temptation to stay above is real. *They wouldn't understand anyway.* That's the distortion talking. The real Sage comes back.
 
-Panoramic vision is lonely, and nobody says so. Not because you can't be with people. Because you can see the game they're playing and they can't, and they don't always want it named. The Sage who names it gets called difficult. The Sage who doesn't gets called wise. The village prefers the second one. The real Sage refuses that bargain.
+Panoramic vision is lonely, and nobody says so. Not because you can't be with people. Because you can see the game they're playing and they can't, and they don't always want it named. The Sage who names it gets called difficult. The Sage who doesn't gets called wise. The villagers prefer the second one. The real Sage refuses that bargain.
 
 Egan, in *The Skilled Helper*, writes about the helper's presence as the primary instrument of change. The technique ranks below it. The framework ranks below it. The work gets done by the capacity to be fully present with the client: without agenda, without rescue, without needing them to be anything other than what they are. That's what the return practices: the presence of the person who climbed the mountain, came back down, and can now say: *I know what it's like up there. I also know what it's like here. I'm staying here with you.*
 
@@ -538,7 +538,7 @@ Return has four moves inside it. Run them in order the first several times. Afte
 
 **3. Stay embodied, especially when the view is clear.** This move separates the Sage from the distortion. The distortion has an insight and withdraws. The real Sage has the insight and stays in the body: in the conversation, in the mess, in the part that isn't resolved and isn't elegant yet. Keep breathing. Keep the ground under your feet. The Sage who has gone up and come back is worth more than the Sage who stays above, and only when the one who returns arrives fully present.
 
-**4. Let them not understand, and let that be okay.** The village doesn't have to understand what you saw. The gift isn't in their understanding, it's in your offering. You saw something. You named it. You came back. The rest is their work. Nothing at this altitude asks for a harder surrender, because the distortion can't stand the gap between what it sees and what the village receives. The real Sage holds the gap without flinching: *I told you what I see. I don't need you to see it the same way. I need you to know it's available if you want it.* Then the Sage stays. Hope that they'll get there eventually is a different posture. Patience as a tactic is a different posture. That is presence, because staying does the work.
+**4. Let them not understand, and let that be okay.** They don't have to understand what you saw. The gift isn't in their understanding, it's in your offering. You saw something. You named it. You came back. The rest is their work. Nothing at this altitude asks for a harder surrender, because the distortion can't stand the gap between what it sees and what the villagers receive. The real Sage holds the gap without flinching: *I told you what I see. I don't need you to see it the same way. I need you to know it's available if you want it.* Then the Sage stays. Hope that they'll get there eventually is a different posture. Patience as a tactic is a different posture. That is presence, because staying does the work.
 
 ---
 
@@ -559,21 +559,21 @@ Return has four moves inside it. Run them in order the first several times. Afte
 <!-- /MARGINALIA -->
 
 
-You met the Damaged Self deep in the Forest, seventh in line, closest to the center. The Protector decides whether you go in at all. The Controller decides how you're allowed to behave once you're inside. The Skeptic decides whether what you're reacting to was ever real. The Fixer-Healer decides whether the thing in front of you holds up well enough to be given yourself to. The Victim decides what your having paid entitles you to. The Damaged Self decides something none of them touch: whether you are built correctly for any of this.
+You met the Damaged Self deep in the Forest, seventh in line, closest to the center. The Protector decides whether you go in at all. The Controller decides how you're allowed to behave once you're inside. The Skeptic decides whether what you're reacting to was ever real. The Fixer-Healer decides whether what is in front of you holds up well enough to be given yourself to. The Victim decides what your having paid entitles you to. The Damaged Self decides something none of them touch: whether you are built correctly for any of this.
 
 At its best, this part of you registers difference accurately. Something about how you process runs off-standard. It does for a lot of people, and at this altitude almost always, because panoramic vision is not the common configuration. A part of you that can hold *I am running differently from the people around me* without panic does real work. It keeps you from expecting your own experience to be universal, the single most useful correction available to anyone who sees more than the people they're sitting with.
 
 Registering the difference is the gift working. The distortion arrives in what it does with the reading.
 
-It converts difference into defect. Not *I process this differently* but *I process this wrong.* And the conversion is nearly invisible, because it arrives wearing humility. Everything the Damaged Self says sounds like the opposite of arrogance. *Normal people don't have to carry this much. I should be able to turn it off. Something in me is miscalibrated.* You will not catch this by listening for grandiosity. It doesn't sound like grandiosity. It sounds like the most self-aware thing in the vicinity.
+It converts difference into defect. Not *I process this differently* but *I process this wrong.* And the conversion is nearly invisible, because it arrives wearing humility. Everything the Damaged Self says sounds like the opposite of arrogance. *Normal people don't have to carry this much. I should be able to turn it off. Something in me is miscalibrated.* You will not catch this by listening for grandiosity. It doesn't sound like grandiosity. It sounds like the most self-aware voice in the vicinity.
 
-Once difference is defect, the remit widens on its own, and it widens in a direction nothing else in the Forest can reach. A defective instrument does not get used. It gets repaired first. So the Damaged Self takes a question about what you should do and returns an answer about what needs fixing in you, and the thing that needs fixing is always upstream of the thing that needed doing.
+Once difference is defect, the remit widens on its own, and it widens in a direction nothing else in the Forest can reach. A defective instrument does not get used. It gets repaired first. So the Damaged Self takes a question about what you should do and returns an answer about what needs fixing in you, and what needs fixing is always upstream of what needed doing.
 
-This daemon stands where it stands for a reason, in a book about allyship. Allyship run by a Damaged Self stays permanently in preparation. One more thing always waits to be worked through before you're clean enough to be useful. Meanwhile the person you meant to stand beside waits on a repair schedule nobody showed them and nobody lets them influence. That's the structural cost, and it doesn't require any bad intent to produce. It requires only the belief that you're the part of the system that isn't working yet.
+This daemon stands where it stands for a reason, in a book about allyship. Allyship run by a Damaged Self stays permanently in preparation. One more wound always waits to be worked through before you're clean enough to be useful. Meanwhile the person you meant to stand beside waits on a repair schedule nobody showed them and nobody lets them influence. That's the structural cost, and it doesn't require any bad intent to produce. It requires only the belief that you're the part of the system that isn't working yet.
 
 The chapter's myth lives here: that allyship is a matter of having the right framework. The Damaged Self is the daemon that makes framework-collection feel like healing. If the instrument is broken, the fix is a better map. So you get another one, then another. Each map is good, each one explains more than the last, and the accumulation never becomes knowledge, it stays a prosthetic for a defect that was a difference the whole time. The bookshelf is the symptom. The bookshelf looks exactly like diligence.
 
-The cost lands precisely where this chapter cannot afford it. You lose the capacity to be developed by anyone. Somebody offers you something, a correction, a piece of feedback, an opening, and it doesn't get received as input, because input is for functioning systems. It gets received as further evidence, filed against the defect, and answered with a map. The Face whose superpower includes coaching is, in shadow, the least coachable thing in the book.
+The cost lands precisely where this chapter cannot afford it. You lose the capacity to be developed by anyone. Somebody offers you something, a correction, a piece of feedback, an opening, and it doesn't get received as input, because input is for functioning systems. It gets received as further evidence, filed against the defect, and answered with a map. The Face whose superpower includes coaching is, in shadow, the least coachable Face in the book.
 
 You do not fire the Damaged Self. Fire the part of you that registers difference and you will spend your life assuming everyone sees what you see, its own catastrophe, and a louder one. You take the joystick back by giving it its actual jurisdiction and removing the one it appointed itself.
 
@@ -624,7 +624,7 @@ The one described above turns difference into defect in general. Yours has a spe
 
 You drew the Which Game ↔ Which Altitude axis in Section 3. The Damaged Self slips past it more reliably than anything else in the Forest, and the mechanism repays a close look.
 
-The Damaged Self does not argue about the game. It argues about the instrument, and an argument about the instrument looks like the most rigorous thing available. *Before I read this situation, I should account for how my own wiring distorts the read.* That sentence is correct. It also serves as the entry point, because nothing ends it naturally. You can check every read one more time against the possibility that you're the problem, and the checking feels like exactly the discipline you have been building.
+The Damaged Self does not argue about the game. It argues about the instrument, and an argument about the instrument looks like the most rigorous move available. *Before I read this situation, I should account for how my own wiring distorts the read.* That sentence is correct. It also serves as the entry point, because nothing ends it naturally. You can check every read one more time against the possibility that you're the problem, and the checking feels like exactly the discipline you have been building.
 
 The collapse runs like this. A real altitude read asks what a person can currently hold, and it applies to you as much as to anyone. The Damaged Self takes that legitimate self-read and converts it into a standing verdict: not *I can hold this much right now* but *I am the wrong size for this permanently.* Then it uses the verdict to answer game questions. Which game is this? Doesn't matter, I'm not calibrated for it. Should I name the line? Not from a broken instrument. The vertical question has eaten the horizontal one, and the eating happened in the name of accuracy.
 
@@ -634,11 +634,11 @@ The tell is never the content of the self-assessment. Self-assessments should fe
 
 ### What You Take Out of the Forest
 
-The Damaged Self developed does one thing nothing else in this chapter can do: it lets you know that you are configured differently and decline to treat that as a qualification or a disqualification. Just a fact about the instrument, held steady, informing the work without ruling on it.
+The Damaged Self developed does what nothing else in this chapter can do: it lets you know that you are configured differently and decline to treat that as a qualification or a disqualification. Just a fact about the instrument, held steady, informing the work without ruling on it.
 
 That combination is what this chapter trains, and it trains two things rather than one. The Escape Artist is the capacity to get out of a game: to put down a fight, a role, an identity that was load-bearing once, without needing the exit to be a verdict on the game or on yourself. Coaching is what the exit makes available. A coach who cannot leave the game is not coaching. They are recruiting, and everything they offer arrives with their own stake attached to it. The escape has to come first because developing another person requires you to want something for them that you do not need for yourself, and you cannot want that while you are still playing for something.
 
-Put them together and you get the thing the last chapter of a book about allyship actually needs: someone who can be in it fully, get out cleanly, and stay useful to the people still inside. Still in the game, still playing it, and free enough inside it to have both hands available for somebody else.
+Put them together and you get what the last chapter of a book about allyship actually needs: someone who can be in it fully, get out cleanly, and stay useful to the people still inside. Still in the game, still playing it, and free enough inside it to have both hands available for somebody else.
 
 You know what your Damaged Self is for now. That is what you take out.
 
@@ -661,7 +661,7 @@ The Sage's game is the meta-game. Not a game *about* something: the game of know
 
 The whole book has built toward this through-line. You've learned six Faces. You've felt, drawn lines, carried forward, built, held the field, and seen the whole map. Now the question stops being *which Face am I being?* and starts being *which game am I designing?*
 
-The five moves are a toolkit. You reach in and pull out what the moment requires. Sometimes the first move is Name the Game. Sometimes it's Switch. Sometimes, often, it's Return, because you've been above things too long and nobody can hear you anymore.
+The five moves are a toolkit. You reach in and pull out what the moment requires. Sometimes the first move is Name the Game. Sometimes it's Switch. Sometimes, often, it's Return, because you've been above the table too long and nobody can hear you anymore.
 
 The kit does have a logic. Seeing without naming is silence. Naming without switching is paralysis. Switching without returning is exile. Returning without putting down is accumulation. Putting down without holding the meta is escape. Each move checks the others.
 
@@ -691,7 +691,7 @@ Do not use this move to stay in your own head while somebody needs a line, a dec
 
 You've been playing strategy: systems, process, the search for the right lever. The people in front of you sit in the power game: somebody's line got crossed, and no amount of process will touch that until someone names the line. Switch. Draw the line. Do what that game calls for. Then come back.
 
-Or you've been playing power (holding boundaries, staying clear about what you won't accept) and things have moved to harmony. Now people need to feel heard, now the relationship needs repair, now the work is inclusion rather than confrontation. Switch. Hold the field. Let people be heard.
+Or you've been playing power (holding boundaries, staying clear about what you won't accept) and the table has moved to harmony. Now people need to feel heard, now the relationship needs repair, now the work is inclusion rather than confrontation. Switch. Hold the field. Let people be heard.
 
 The switch is the Sage's most deliberate move. It requires knowing all four games well enough to move between them without feeling like you're betraying one for another: the Challenger who can go to harmony without feeling soft, the Diplomat who can go to power without feeling like they abandoned the field.
 
@@ -712,7 +712,7 @@ Chou calls this playing the right game. In *10,000 Hours of Play*, he describes 
 
 The distortion skips this move and stays at the whole-board view, because coming down feels uncomfortable: the view from up there is so much clearer than the view from inside the power game that returning feels like losing something. That's attachment to the view, wearing the view's voice. The whole-board view is always available, including from inside the narrower games, because it works as a capacity rather than a location. You don't have to stay up there to hold it. You have to know you can go back.
 
-**Working vs. performed:** Returning becomes retreating. The Sage who can't hold the view uses the return to avoid the weight of what they saw. *I was too serious up there. Let me come back to where things are simpler.* That's exhaustion calling itself wisdom, and it does a passable impression of the Returner. The test: when you return, does it feel like coming home to the people in front of you, or like abandoning the view? Coming home is the practice.
+**Working vs. performed:** Returning becomes retreating. The Sage who can't hold the view uses the return to avoid the weight of what they saw. *I was too serious up there. Let me come back to where it is simpler.* That's exhaustion calling itself wisdom, and it does a passable impression of the Returner. The test: when you return, does it feel like coming home to the people in front of you, or like abandoning the view? Coming home is the practice.
 
 **Example:** Kit's mother died in March and Kit is running the same three arguments about the funeral that they ran in April. You can see the whole board, including the part where none of this is about the funeral. Ask what help would feel useful before you name the pattern. If Kit wants to talk about the caterer, talk about the caterer at length, seriously. If Kit asks what you see, offer it as a question they can refuse. The whole board does not give you the right to decide which game Kit can be in this month.
 
@@ -726,7 +726,7 @@ This is what the Release stage actually asks. Not ascent. Completion. The game r
 
 **Working vs. performed:** Putting down becomes giving up. The Sage who keeps dropping games before they've given what they have to give isn't practicing the Liberator, they're practicing avoidance. 
 
-**Example:** You have spent nine years being the person who never misses the thing everyone else misses, and you can name what that bought you: it got you taken seriously at twenty-eight, in an outfit that took nobody seriously at twenty-eight. Say what it taught you before you set it down. Then set it down, and let a meeting go past with something unnamed in it. Nobody notices. That is not the same as nothing happening.
+**Example:** You have spent nine years being the person who never misses what everyone else misses, and you can name what that bought you: it got you taken seriously at twenty-eight, in an outfit that took nobody seriously at twenty-eight. Say what it taught you before you set it down. Then set it down, and let a meeting go past with something unnamed in it. Nobody notices. That is not the same as nothing happening.
 
 **The test:** Can you name what the game taught you before you put it down? If you can't, it was never really yours. If you can, and you put it down anyway, that's the practice.
 
@@ -740,15 +740,15 @@ You can see the whole board. You can name every game. You know which one you're 
 
 You can hold the whole-board view inside while your body sits in the power game. In the fight. In the work. You can know that this conflict is one expression of a pattern that recurs everywhere and still draw the line this moment requires. You can know that this relationship is one iteration of a form that will keep recurring and still show up for it fully. You can know you're mortal and the game is older than you and none of this will matter in a hundred years, and still care, not despite knowing, because of it.
 
-**Why it matters:** That's mastery. Not instead of choosing. *Along with* choosing. Holding the meta means keeping the view and still doing the thing the view is for. Standing outside is the cheaper version.
+**Why it matters:** That's mastery. Not instead of choosing. *Along with* choosing. Holding the meta means keeping the view and still doing what the view is for. Standing outside is the cheaper version.
 
-**Working vs. performed:** The meta without the ground. Seeing everything, committing to nothing. The view without the practice. Always above, never in. The real Sage is in it, has skin in it, draws the line and holds the field and builds the thing and stays, and knows which game they're doing it from.
+**Working vs. performed:** The meta without the ground. Seeing everything, committing to nothing. The view without the practice. Always above, never in. The real Sage is in it, has skin in it, draws the line and holds the field and builds the structure and stays, and knows which game they're doing it from.
 
 Do not use the meta-view to make yourself unaccountable. If your clarity only makes you harder to pin down, it isn't wisdom yet. It's avoidance with better vocabulary.
 
 ---
 
-**Example:** Ade has the test result and a fifty per cent chance of the thing that killed his father at sixty. He has decided not to tell his brother. You can see the whole of it: the brother's right to know, the family pattern of not saying, the ten years of managing this alone. Hold all of it and stand on the ground: *what do you want to do on Sunday.* The whole board stays available to you and does nothing on the table. Ade decides about his brother.
+**Example:** Ade has the test result and a fifty per cent chance of what killed his father at sixty. He has decided not to tell his brother. You can see the whole of it: the brother's right to know, the family pattern of not saying, the ten years of managing this alone. Hold all of it and stand on the ground: *what do you want to do on Sunday.* The whole board stays available to you and does nothing on the table. Ade decides about his brother.
 
 ## Your Twenty Cards
 
@@ -756,15 +756,15 @@ The grid again, sixth operation of six, the last one. Five moves down, four doma
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
-The five moves are this chapter, in order. Wake Up is the Panoramic Seer with an instrument in its hand: every card at that stage asks the same question about a different arena. Open Up finds the Sage weakest by design, because witnessing a game from inside it is the one thing the whole-board view makes harder rather than easier. Clean Up is where insight either becomes a diagnosis or hardens into a verdict, and two of those four cards read as a fork for exactly that reason. Grow Up is the move this chapter's daemon exists to prevent, the only move in the deck that asks what the playing does to the player. Show Up is legacy, and every card there names what remains once you stop holding it. Pick a domain and you're choosing the arena instead. Down is the sequence. Across is where it lands.
+The five moves are this chapter, in order. Wake Up is the Panoramic Seer with an instrument in its hand: every card at that stage asks the same question about a different arena. Open Up finds the Sage weakest by design, because witnessing a game from inside it is what the whole-board view makes harder rather than easier. Clean Up is where insight either becomes a diagnosis or hardens into a verdict, and two of those four cards read as a fork for exactly that reason. Grow Up is the move this chapter's daemon exists to prevent, the only move in the deck that asks what the playing does to the player. Show Up is legacy, and every card there names what remains once you stop holding it. Pick a domain and you're choosing the arena instead. Down is the sequence. Across is where it lands.
 
 ### Drawing Against the Shadow
 
 Draw from your twenty rather than the hundred and twenty, though not all from one move. A daemon is a rule in force at every move, which means five failures rather than one. The Damaged Self's:
 
-**Wake Up.** The signal registers, and alongside it registers the fact that you noticed it the way you notice things: the suspect way. The noticing is accurate. It arrives with a footnote about the noticer, and the footnote runs longer than the notice.
+**Wake Up.** The signal registers, and alongside it registers the fact that you noticed it the way you notice everything: the suspect way. The noticing is accurate. It arrives with a footnote about the noticer, and the footnote runs longer than the notice.
 
-**Open Up.** You can stay with the experience as long as a second process runs underneath, holding the staying to the standard of somebody who doesn't have your problem. The witnessing happens. It happens under audit, which never amounts to the same thing.
+**Open Up.** You can stay with the experience as long as a second process runs underneath, holding the staying to the standard of somebody who doesn't have your problem. The witnessing happens. It happens under audit, which never amounts to the same.
 
 **Clean Up.** Asked which channel, it returns the diagnosis instead. *This is my thing* is not Fire, Water, Metal, Earth, or Wood. It's a category that swallows all five, and once it's on the table nothing gets named specifically enough to move.
 
@@ -784,7 +784,7 @@ Five moves, one card, ninety seconds. The Sage's version stands alone in the boo
 
 A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
 
-One line, four things: what you will do, who it reaches, by when, and what it costs you. *Leave the Game Playable Without You* becomes: **I will write down the three judgment calls I've been making by feel and walk two people through them before the retreat in March, and it will cost me being the one who has to be in the meeting for it to go well.** That's a quest. *I will be less indispensable* is not one; nobody can tell whether you did it, including you.
+One sentence: what you will do, who it reaches, by when, and what it costs you. *Leave the Game Playable Without You* becomes: **I will write down the three judgment calls I've been making by feel and walk two people through them before the retreat in March, and it will cost me being the one who has to be in the meeting for it to go well.** That's a quest. *I will be less indispensable* is not one; nobody can tell whether you did it, including you.
 
 A live quest does not announce itself through enthusiasm. It's anticipation with some dread underneath. At this altitude the dread usually runs like this: handing it over will prove you were never as necessary as the exhaustion suggested. That happens, and it still doesn't count as a reason.
 
@@ -792,11 +792,11 @@ A live quest does not announce itself through enthusiasm. It's anticipation with
 
 ### The One Rep
 
-You don't take all five moves into the world this week. You take the one the Sage keeps skipping. You see something true (the game underneath the game, the thing everyone can feel and nobody says) and instead of holding it, or going up, you say it. Once. As an offering, not a verdict. Then you stay while they do whatever they do with it.
+You don't take all five moves into the world this week. You take the one the Sage keeps skipping. You see something true (the game underneath the game, what everyone can feel and nobody says) and instead of holding it, or going up, you say it. Once. As an offering, not a verdict. Then you stay while they do whatever they do with it.
 
 That's the whole Sage in a single move: the seeing, said out loud, and the not-leaving.
 
-*You saw the thing, and you named it and stayed, or you held it, or you said it from above and watched them flinch. Whatever actually happened: get it down before you talk yourself into the version where you handled it perfectly.*
+*You saw it, and you named it and stayed, or you held it, or you said it from above and watched them flinch. Whatever actually happened: get it down before you talk yourself into the version where you handled it perfectly.*
 
 ---
 
@@ -816,7 +816,7 @@ That's the whole Sage in a single move: the seeing, said out loud, and the not-l
 >
 > *I am fine. I want that in my own hand, since six people have now put the opposite in writing and
 > been courteous about it. I am fine, and I am still paying for this, and both are true on the same
-> day. That is the one thing I have that none of them can teach you, and it took all six of them
+> day. That is the one lesson I have that none of them can teach you, and it took all six of them
 > writing in here to get me to set it down.*
 <!-- /MARGINALIA -->
 
@@ -825,7 +825,7 @@ The Sage's gift is not wisdom. Wisdom is a side effect. The gift is perspective 
 
 This chapter came to dismantle one belief: that allyship is a matter of having the right framework. It carries load for anyone who came into this work through reading, so the replacement deserves saying plainly. Not *I have the right model now.* Not *I need one more.* Something a person can actually stand on: **I can act from the map I already have, and be developed by the people I'm acting with.** Every move in this chapter is an instrument for making that sentence true.
 
-Four things carry forward. The village needs someone who can name which game it's in, and you can be that person, not from above, from with. Seeing is not the same as opting out; the distortion confuses these and the real Sage doesn't. The hardest game to hold is the one you just left, which makes the return most of the practice rather than its epilogue. Putting a game down is not giving up; it's the most generous thing available at this altitude, for you and for whoever inherits the game.
+Four capacities carry forward. The villagers need someone who can name which game they're in, and you can be that person, not from above, from with. Seeing is not the same as opting out; the distortion confuses these and the real Sage doesn't. The hardest game to hold is the one you just left, which makes the return most of the practice rather than its epilogue. Putting a game down is not giving up; it's the most generous move available at this altitude, for you and for whoever inherits the game.
 
 You have now been all six Faces. Shaman. Challenger. Regent. Architect. Diplomat. Sage. Each one is a tool. Each one is a gift. Each one, run wrong, becomes a shadow. You know how to tell the difference now, and you know how to come back.
 
@@ -837,7 +837,7 @@ It's *which game am I designing?*
 
 That question was never the Sage's to answer, only to hand you. The Sage gives you the seeing. The building comes next, and that one was always going to be yours. You've carried the whole map this far. You don't need anyone reading it over your shoulder anymore.
 
-Add a line to the sheet, the last one before you build. Under your walk-away price, write the game you reach for when you are past what you can hold: the altitude you drop to when the real one costs more than you have. Name it, and name what it saves you from having to do. You cannot put down a game you have not named.
+Add a row to the sheet, the last one before you build. Under your walk-away price, write the game you reach for when you are past what you can hold: the altitude you drop to when the real one costs more than you have. Name it, and name what it saves you from having to do. You cannot put down a game you have not named.
 
 This is where the Sage stops and the Player starts. Not the Sage looking down from anywhere, the Player out ahead on the road, already walking, building it as they go.
 

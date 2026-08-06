@@ -120,7 +120,7 @@ second read, *"I had a term to run"* is the same sentence Sera would use.
 |---|---|
 | **Arc beat** | Note 2 only. Note 6 is dramatic irony, not confession — no cost is paid and nothing is admitted. |
 | **Invisible Cities rule** | Halvane carries all four: name, physical consequence, unglamorous detail, a local blind to the premise. |
-| **Anchor check** | 6 of 6 grab a named phrase. Note 2 takes *"still moving because nobody noticed"*; note 6 takes *"the thing you were holding was you."* |
+| **Anchor check** | 6 of 6 grab a named phrase. Note 2 takes *"still moving because nobody noticed"*; note 6 takes *"what you were holding was you."* |
 | **Clear not clever** | No figure requires unpacking. The colours are explained inside the note. |
 | **Denying negations** | 2, both ranking. *"not whether the reason is good"* — it stays good. *"Not the repair half"* — both halves stay real. |
 | **Punchline last** | 4 of 6. Notes 1 and 2 land on the alliance and the beat respectively — see exception below. |
