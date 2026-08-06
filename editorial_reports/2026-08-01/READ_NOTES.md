@@ -275,3 +275,45 @@ it, and the test is portable: *is this about me, or about what my move did to th
 
 `gate` PASS · 0 probe hits · every ch1 counter flat in place. **A meaning fix, not a
 numbers fix**, which is the class the instruments are blind to by design.
+
+### Groups C and D swept — applied 2026-08-05
+
+Nine notes, no rulings needed, all instrumented. **`preempt` ch1 19 to 9. `shapes` ch1 12
+to 11.** Gate passes, every diet counter flat, book-wide review clean.
+
+| | before | after |
+|---|---|---|
+| `N33` `:125` | **The real prize is the one nobody can take back:** a felt sense of satisfaction… | **The other counter pays out a prize nobody can take back:** … |
+| `N35` `:127` | **Here is where the allyship Arcade breaks the rule of every arcade you have ever played.** With the skee-ball… the game ends. **Here,** the prize converts back into tokens. | **In a real arcade the prize is a dead end:** you win the bear… the game ends. **The allyship Arcade runs the other way, and** the prize converts back into tokens. |
+| `N36` `:173` | **Here is the second, and I will say it plainly, because it is the objection** that makes serious people wave the whole idea away | **The second reason is the one** that makes serious people wave the whole idea away |
+| `N37` `:173` | A chore needs you to supply the motivation; **you brace, you discipline, you drag yourself toward it. A game supplies the motivation itself.** | A chore needs you to supply the motivation; **a game supplies its own.** |
+| `N38` `:175` | **That model does not fail because people care too little. It fails because** caring, run as suffering… | **That model fails because** caring, run as suffering… |
+| `N39` `:177` | is finite: **the** campaign, **the** pledge, **the** training you complete, **the** bar you clear | is finite: **a** campaign, **a** pledge, **a** training you complete, **a** bar you clear |
+| `N40` `:181` | **The third reason changes everything:** a game is the only frame | **The third is that** a game is the only frame |
+| `N44` `:189` | If that landed as an accusation, notice the flinch… | **cut**, ruled |
+| `N47` `:197` | **Here they are, and each one pays out differently.** | **Each of the three pays out differently.** |
+
+### Three findings the sweep produced
+
+**`N33` did not need reframing.** The note calls it a phantom contrast whose other half was
+never established. **It was established one paragraph up.** `ch1:123`: *the counter marked
+applause… they vanish the moment the crowd turns.* The sentence simply was not pointing at
+it. Naming the counter connects them and clears both `preempt` hits (`The real prize` and
+`the one nobody can`) at once.
+
+**`N35` only needed inverting.** The rule it claims to break is stated in its own next
+clause. Lead with the rule and the break is earned, and the unearned *every arcade you have
+ever played* goes with it.
+
+**`N37` done literally creates a new defect, and `shapes.py` caught it.** Cutting *you
+brace, you discipline, you drag yourself toward it* exactly as the note instructs leaves
+*A chore needs you to supply the motivation. A game supplies the motivation itself.* —
+twin sentences the deleted clause had been masking. **A note that says cut can still be
+right about the clause and wrong about the result.** Merged to one sentence, so `shapes`
+went to 11 instead of holding at 12.
+
+**Wendell on `N33`'s replacement:** *"we need to keep the word prize. counter without prize
+is nothing and we'll have to go back and fix it after."* Correct, and structural: `:127`
+runs entirely on *the prize is a dead end* and *the prize converts back into tokens*.
+Dropping the noun at `:125` would have broken the chain two lines downstream. The
+replacement keeps **prize** and drops both flagged shapes.

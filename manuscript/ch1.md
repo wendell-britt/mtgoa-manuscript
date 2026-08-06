@@ -122,9 +122,9 @@ Spend tokens in a real arcade and the machine, if you play well, spits out a run
 
 Allyship has a prize counter too, and most people have spent their whole lives feeding tickets into the wrong one. The counter marked applause pays out in being seen as good, in the right people nodding, in the post that does numbers. Those look like winnings. They are external, they vanish the moment the crowd turns, and you already know what they are worth: you perform the care, you feel like somebody for an hour, and you are empty by dinner. (I know that counter. I wrote whole chapters of this book standing at it and had to throw them out, because you can hear it in the prose, the hollow ring of a man collecting tickets instead of playing.)
 
-The real prize is the one nobody can take back: a felt sense of satisfaction that only shows up when you actually played. You named the line and drew it. You held the field without giving up your walk-away price. You repaired the thing you would rather have avoided. You walk out tired and clear, and that clean tiredness is the prize, one of the satisfied states you will meet with the Shaman in Chapter 3.
+The other counter pays out a prize nobody can take back: a felt sense of satisfaction that only shows up when you actually played. You named the line and drew it. You held the field without giving up your walk-away price. You repaired the thing you would rather have avoided. You walk out tired and clear, and that clean tiredness is the prize, one of the satisfied states you will meet with the Shaman in Chapter 3.
 
-Here is where the allyship Arcade breaks the rule of every arcade you have ever played. With the skee-ball and the stuffed bears, the prize is a dead end: you win the bear, the bear sits on a shelf, the game ends. Here, the prize converts back into tokens. The satisfaction you earn from playing well is renewable fuel, and it goes straight into the tank. This is why the better you play, the more you have to play with. A performance drains the tank and hands you a bear. A practice fills it, and a filled tank is the difference between burning out and getting to play for the rest of your life.
+In a real arcade the prize is a dead end: you win the bear, the bear sits on a shelf, the game ends. The allyship Arcade runs the other way, and the prize converts back into tokens. The satisfaction you earn from playing well is renewable fuel, and it goes straight into the tank. This is why the better you play, the more you have to play with. A performance drains the tank and hands you a bear. A practice fills it, and a filled tank is the difference between burning out and getting to play for the rest of your life.
 
 Return to the thing you brought with you. After you engage it, do you walk away with more fuel in the tank or less? That answer is your real score, whatever you looked like earning it.
 
@@ -170,15 +170,15 @@ So the move this week is a small one. Go back to what you brought with you and f
 
 The opening gave you one reason to run allyship as a game: the frame sets distance between you and the outcome, and it hands you clear rules and objectives in a place where most people are improvising blind. Detachment and clarity are the first reason.
 
-Here is the second, and I will say it plainly, because it is the objection that makes serious people wave the whole idea away: a game is fun. If "fun" sounds too small for work this heavy, call it by its real name: engaging. A chore needs you to supply the motivation; you brace, you discipline, you drag yourself toward it. A game supplies the motivation itself. That is the entire difference between the two.
+The second reason is the one that makes serious people wave the whole idea away: a game is fun. If "fun" sounds too small for work this heavy, call it by its real name: engaging. A chore needs you to supply the motivation; a game supplies its own. That is the entire difference between the two.
 
-If making allyship a game feels like it cheapens something sacred, look at what the alternative actually costs. Most allyship is built as a chore (a duty, a debt, a weight good people carry), and it runs on the fuel we already named as the kind that empties you: obligation, guilt, the grim credit of having suffered for the cause. That model does not fail because people care too little. It fails because caring, run as suffering, burns down to nothing, and the person you showed up for is left standing there the day you finally collapse. Unless you are built to find meaning in your own depletion, a version of this work that offers you no engagement is a version you will quit.
+If making allyship a game feels like it cheapens something sacred, look at what the alternative actually costs. Most allyship is built as a chore (a duty, a debt, a weight good people carry), and it runs on the fuel we already named as the kind that empties you: obligation, guilt, the grim credit of having suffered for the cause. That model fails because caring, run as suffering, burns down to nothing, and the person you showed up for is left standing there the day you finally collapse. Unless you are built to find meaning in your own depletion, a version of this work that offers you no engagement is a version you will quit.
 
-James Carse put the distinction in its cleanest form. A finite game is played to win and it ends. An infinite game is played to keep the play going, and the only way to lose is to stop playing. Allyship has no finish line, which makes it infinite by nature, and nearly everything built to support it is finite: the campaign, the pledge, the training you complete, the bar you clear and then clear again. Burnout is what it feels like to run finite equipment on an infinite road. That is why this chapter is called the Infinite Arcade, and it is why the answer is a better game rather than more willpower.
+James Carse put the distinction in its cleanest form. A finite game is played to win and it ends. An infinite game is played to keep the play going, and the only way to lose is to stop playing. Allyship has no finish line, which makes it infinite by nature, and nearly everything built to support it is finite: a campaign, a pledge, a training you complete, a bar you clear and then clear again. Burnout is what it feels like to run finite equipment on an infinite road. That is why this chapter is called the Infinite Arcade, and it is why the answer is a better game rather than more willpower.
 
 Chou's decade of mapping answers a second question: what pulls people back to some things for years and drives them out of others for good. Games are engineered around the first kind of pull. Allyship, almost always, is built out of the second. Calling a game a trick for making serious work go down easier gets it backwards. A game is the only structure that generates the energy to keep doing serious work for a lifetime instead of one burnout cycle.
 
-The third reason changes everything: a game is the only frame that will get you to look straight at the part of your allyship you least want to see, and enjoy it.
+The third is that a game is the only frame that will get you to look straight at the part of your allyship you least want to see, and enjoy it.
 
 Here is what I left out of the story I told you at the start. When I said I held myself hostage for three years, I made it sound like something that happened to me. It wasn't. Some part of me was getting off on it: the martyrdom, the being-behind, the noble suffering of the ally who cares too much to finish. A hidden part of me was feeding on all of it, and that's exactly why I couldn't stop by deciding to. You cannot quit a pattern you don't know you're enjoying.
 
@@ -186,7 +186,6 @@ Carolyn Elliott calls this existential kink: the shadow doesn't run you because 
 
 A game turns the lights on: it takes the charge you've been running in secret and sets it on the board, where you can finally see what you're getting out of it, say so, and (this is the whole move) enjoy it on purpose instead of by accident. The moment the pleasure turns conscious, it stops being your driver and becomes your fuel. A chore asks you to grit your teeth against the pattern. A game invites you to catch yourself in the act, name your own existential kink, and grin.
 
-If that landed as an accusation, notice the flinch. That's the shadow guarding its stash. If it landed as relief, you were already ready to hear it.
 
 Look at what that stash really buys you. It buys safety, so fear sits at the center of the work. Raw, fear freezes you or turns you back. A game turns it into the thing standing right beside it: wonder, the same charge, now pointed at the door instead of away from it.
 
@@ -194,7 +193,7 @@ Detachment, engagement, and the nerve to look at what you'd rather not: three re
 
 ## Which Game Are You Playing
 
-Here they are, and each one pays out differently. Most frameworks teach one and treat the other two as mistakes. The move is to tell them apart, because you play each with a different hand.
+Each of the three pays out differently. Most frameworks teach one and treat the other two as mistakes. The move is to tell them apart, because you play each with a different hand.
 
 **Games of Chance — right place, right time.**
 
