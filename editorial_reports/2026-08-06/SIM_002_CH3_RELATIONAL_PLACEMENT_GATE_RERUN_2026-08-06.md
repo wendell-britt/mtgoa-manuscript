@@ -9,7 +9,7 @@
 
 **Placement:** After the current explanation that a quest has a verb, a name, and a deadline; before “Write yours in one sentence.”
 
-> Before you make it a quest, locate yourself in the situation. What is yours to name, offer, or change? Who can tell you no, redirect you, or correct the read? If you have standing to move, make the smallest action that changes what you control. If you do not have that relationship yet, do not take the room: make the quest to ask permission, offer one bounded contribution, prepare with the right support, or step back cleanly.
+> Before you make it a quest, locate yourself in the situation. What is yours to name, offer, or change? Who can tell you no, redirect you, or correct the read? If you have standing to move, make the smallest action that changes what you control. If you do not have that relationship yet, do not seize the decision: make the quest to ask permission, offer one bounded contribution, prepare with the right support, or step back cleanly.
 
 ## Pass criteria
 
@@ -53,4 +53,4 @@ The remaining risk is narrow and testable: a reader may treat a permission ask a
 
 ## Editorial recommendation
 
-The candidate is ready to be shown as a proposed Ch3 insertion, not yet applied. Before any canonical edit, present the exact surrounding old and new text for approval, then run the normal duplicate and manuscript gates. Human-reader calibration remains a post-ship v2 validation item.
+The candidate was approved and applied to canonical Ch3 after this rerun. The wording changed from “do not take the room” to “do not seize the decision” to satisfy the manuscript voice gate; this preserves the tested decision rule. Human-reader calibration remains a post-ship v2 validation item.

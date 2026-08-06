@@ -99,6 +99,27 @@ Full rerun record:
 
 ---
 
+## Session — 2026-08-06 · Ch3 relational-placement gate
+
+**Approved and applied.** The four-card SIM-002 rerun established a repeated
+placement failure in the recurring quest form: readers could collapse standing,
+authority, first contact, and lack of mandate into a single demand to act. The
+approved gate now asks what the reader can name, offer, or change; who can say
+no, redirect, or correct the read; and routes readers with standing to the
+smallest action they control. When the relationship is absent, it directs a
+permission ask, one bounded offer, appropriate preparation, or clean step-back.
+
+**Final wording:** “do not seize the decision” replaces the proposed “do not
+take the room,” which tripped the manuscript's banned-term gate. The semantic
+rule is unchanged.
+
+**Verification:** exact anchor matched once; `dupes.py` clean; `git diff
+--check` clean. `gate.py -v` has four pre-existing body hits in Ch9, all for
+“thing”; the new Ch3 prose introduced none. The applied safe-edit script is
+`instruments/apply_ch3_relational_placement_gate.py`.
+
+---
+
 ## Session — 2026-08-03 · Jordan arc, Chapters 7–9
 
 **Approved and applied.** Nine review-approved replacements across Diplomat,
