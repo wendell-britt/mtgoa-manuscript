@@ -52,13 +52,18 @@ must be credited to Ken Wilber.
 Growing Up, Opening Up, Cleaning Up, and Showing Up. The book adapts their order and
 application to allyship; it does not claim to have invented the fivefold practice.
 
-### Required first-use credit
+### Required first-use credits
 
-The first Chapter 3 definition of the Five-Move Form must say, in plain prose:
+The practices need **two separate first encounters**, each solving the immediate
+reader problem. A reader must not need to know that a naming collision once existed.
 
-- the five movements are adapted from Ken Wilber's *Finding Radical Wholeness*;
-- this book applies them as a repeatable allyship form;
-- WAVE is a different, breath-length somatic practice.
+1. **Five-Move Form — Chapter 3, before the five stages.** Name the five movements,
+   credit Ken Wilber's *Finding Radical Wholeness*, and use the form/changes image to
+   explain why the same structure recurs through the later Faces. Do not mention WAVE.
+2. **WAVE — Chapter 3, inside Open Up.** Introduce Welcome, Acknowledge, Validate,
+   Exhale when the reader needs a breath-length way to remain with charge. Teach its
+   use in that moment. Do not introduce it as a contrast, correction, or alternate
+   name for the Form.
 
 The exact prose awaits the Chapter 3 proposal batch. Do not describe Open Up as this
 book's addition to Wilber. That statement is false.
@@ -106,7 +111,7 @@ structural tests, not competing authorial voices.
 | **Challenger** | Does WAVE become a way to delay the sentence or boundary the situation needs? | It will if WAVE is presented as the whole process. As support for Wake, Open, and Clean, it creates enough contact to make a cleaner Show Up possible. | **WAVE may prepare action; it may not replace it.** |
 | **Regent** | Does the naming preserve an inheritance rather than flatten it into a book-owned system? | The Five-Move Form needs explicit Wilber credit. The jazz phrase names Wendell's instructional inheritance without claiming jazz created the five moves. | **Credit both lineages at their proper level.** |
 | **Architect** | Is there one stable taxonomy that can be maintained across chapters, appendices, cards, and source notes? | No, not now: WAVE names two objects, `WAVE-Spiral` names the wrong one, and older specs contradict the source. One public name per practice removes the workaround. | **One registry: WAVE = four breath actions; Five-Move Form = five macro movements.** |
-| **Diplomat** | Can a reader who does not know jazz or martial arts use the distinction without being asked to learn another theory? | Yes, if the first use explains form in ordinary language and treats “changes” as a teaching image, not a second taxonomy the reader must memorize. | **Name the form plainly; explain the metaphor once.** |
+| **Diplomat** | Can a reader who does not know jazz or martial arts use the distinction without being asked to learn another theory? | Yes, if each practice receives its own first encounter and the form/changes image is explained in ordinary language, not made into a second taxonomy. | **Name each practice when its job arrives; explain the metaphor once.** |
 | **Sage** | Does the distinction keep a quick regulating practice from posing as a complete answer to a complex situation? | Yes. WAVE makes room for experience; the Five-Move Form gives that experience a place in a larger cycle. Neither guarantees correctness or removes the need for the other Faces. | **Keep scale and limits explicit.** |
 
 ### Panel result
@@ -157,9 +162,9 @@ Every hit must be classified by meaning before it changes.
 
 1. **Ratify this terminology.** The author confirms `WAVE` and `Five-Move Form`
    as the public names.
-2. **Write and approve Chapter 3's first-use bridge.** It must teach the difference,
-   credit Wilber, and introduce the form/changes teaching image without expanding
-   the chapter into a source essay.
+2. **Write and approve two Chapter 3 first-use passages.** The Form bridge credits
+   Wilber and introduces form/changes. The WAVE passage belongs inside Open Up and
+   teaches one breath-length somatic action. Neither passage explains the collision.
 3. **Apply the Chapter 3 rename and context-safe line edits.** No downstream rename
    begins until the authority chapter is settled.
 4. **Migrate downstream prose by meaning.** Work Chapter 1, Chapters 4–9, then
@@ -178,8 +183,9 @@ Every hit must be classified by meaning before it changes.
   adapted from Ken Wilber's *Finding Radical Wholeness*.**
 - No shipping sentence uses `WAVE` or `WAVE-Spiral` to name the five movements.
 - No shipping source says or implies that Open Up was invented by this book.
-- The first Chapter 3 explanation makes the relationship operational: WAVE can
-  support Wake Up, Open Up, or Clean Up, and it is especially useful in Open Up.
+- The first Five-Move Form explanation introduces the recurring form and its source
+  without mentioning WAVE. The first WAVE explanation arrives inside Open Up and
+  teaches the breath practice without mentioning the Form.
 - Every later Face uses the Five-Move Form consistently while showing its own
   changes; no chapter invents a third name for the same sequence.
 - All old four-move definitions remain retired and cannot return through a template
@@ -193,7 +199,8 @@ Every hit must be classified by meaning before it changes.
 1. **WAVE** means Welcome, Acknowledge, Validate, Exhale. **Five-Move Form** means
    Wake Up, Open Up, Clean Up, Grow Up, Show Up.
 2. WAVE may support Wake Up, Open Up, and Clean Up; it is especially at home in
-   Open Up; it is neither mandatory nor the whole practice.
+   Open Up; it is neither mandatory nor the whole practice. The two practices have
+   separate introductions; readers are never asked to understand their collision.
 3. The Five-Move Form adapts Wilber. “Know the form, know the changes” is
    Wendell's jazz-training inheritance, explained once in ordinary language rather
    than turned into a second reader taxonomy.

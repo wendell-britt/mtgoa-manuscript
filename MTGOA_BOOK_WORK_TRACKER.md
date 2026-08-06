@@ -88,6 +88,11 @@ next work is author ratification, then a Chapter 3 first-use proposal before any
 implementation unit is Chapter 3's first-use bridge; no global rename begins before that wording
 is approved in context.
 
+**First-use correction.** The Form and WAVE must not be introduced as if the reader knows they
+were once conflated. The Five-Move Form enters before Chapter 3's five stages with its Wilber
+credit and the form/changes image. WAVE enters separately inside Open Up, when the reader needs
+the breath-length practice. Neither first-use passage explains the naming collision.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
