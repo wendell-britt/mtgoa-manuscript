@@ -82,6 +82,23 @@ P-03, P-04, P-06, and P-07 before any canonical proposal is made. Full trace:
 
 ---
 
+## Session — 2026-08-06 · SIM-002, Ch3 relational-placement gate rerun
+
+**Desk rerun passes; no canonical prose changed.** A proposal-level gate before
+Ch3's first recurring quest instruction was tested against P-03, P-04, P-06,
+and P-07. It routes readers with standing to the smallest accountable action
+they control, and readers without the relationship or mandate to a
+permission-based first contact, bounded contribution, appropriate preparation,
+or clean step-back.
+
+**Regression watch:** the gate must not make a permission request into a demand
+for unpaid education, reassurance, or a bespoke role. If proposed for canonical
+use, include a bounded-offer/refusal-safe example and rerun P-04 and P-07.
+Full rerun record:
+`editorial_reports/2026-08-06/SIM_002_CH3_RELATIONAL_PLACEMENT_GATE_RERUN_2026-08-06.md`.
+
+---
+
 ## Session — 2026-08-03 · Jordan arc, Chapters 7–9
 
 **Approved and applied.** Nine review-approved replacements across Diplomat,
