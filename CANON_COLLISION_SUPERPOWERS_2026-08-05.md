@@ -18,10 +18,46 @@ voice of every one of ch3–ch8, unchanged from before the sweep. The word *scho
 new prose exactly once, at `ch2:334`, in the voice that already discusses the apparatus at
 `ch2:236`.
 
-**One site left open, deliberately.** `ch6:628` reads *"Intent, though, is not the superpower. The
-superpower is the Strategist."* It binds the superpower to the chapter without a Face possessive,
-so it is weaker than the seven that were swept, and rewriting it would put *this chapter trains the
-Strategist* into ch6 twice. Flagged rather than edited.
+**`ch6:628` closed 2026-08-05**, a ninth edit, on Wendell's word. It read *"Intent, though, is not
+the superpower. The superpower is the Strategist."* Repeating the sweep's phrasing would have put
+*this chapter trains the Strategist* into ch6 twice, so the fix went the other way: the passage's
+work is a **contrast** — structural generosity is the intent, and the Strategist is the thing the
+intent is not — so *superpower* becomes *skill* and the site stops making a taxonomy claim at all.
+The chapter's one binding now lives at `ch6:464` and nowhere else.
+
+> Intent, though, is not the skill. The skill is the **Strategist**: knowing where the push goes
+> and when to make it.
+
+**Measured identically before and after** — `be 2.59 · copula 2.58 · waste 1.93` on both, since the
+edit swaps one noun for another of the same shape. Those numbers are the existing sentence's on a
+44-word sample, well under the noise floor, and this edit neither helps nor hurts them.
+
+**Full inventory after the sweep**, every remaining *superpower* in the manuscript, classified by
+which side of the membrane it sits on:
+
+| Site | Side | What it is | Verdict |
+|---|---|---|---|
+| `ch2:95`, `ch2:334`, `ch2:340`, `ch2:341` | teaching | the reader's own, wound-derived, second person | correct, must stay |
+| `ch2:345` | teaching | the new distinction sentence | applied 2026-08-05 |
+| `ch3:213` | **fiction** | *"That is the Shaman's superpower"* | **left, correctly** — see below |
+| `ch3:985` | teaching | *"The system did not give you your superpower"*, the reader's own | correct |
+| `ch7:810` | teaching | chapter-summary bullet: *"The Diplomat's twenty cards, and the superpower they are for: Connector"* | **open, see below** |
+| `ch8:576` | teaching | no binding; the word appears in unrelated prose | fine |
+| `ch9:83`, `ch9:664` | teaching | the toolkit line and the sheet line | fine |
+
+**`ch3:213` is the sweep stopping at the membrane, and that is the correct behaviour.** It sits at
+line 213 against ch3's signature at 245, so it is inside the treatise — **Maera Voss, Keeper of
+First Signals, Head of the School of the Body**, speaking. Her own paragraph two lines up says
+*"harder than anything else the School of the Body teaches."* A character in the fiction may call
+emotional alchemy the Shaman's superpower; that is her voice, not the book asserting a taxonomy.
+Sweeping it would have done the reverse of the damage this sweep was checked for — flattening the
+fiction into the teaching text instead of the other way round.
+
+**`ch7:810` is genuinely open.** *"The Diplomat's twenty cards, and the superpower they are for:
+Connector"* binds a Face's card set to a superpower rather than the Face itself, and cards are not
+in the canon's forbidden list (Face, Domain, Role). The deck's own architecture may group those
+twenty cards by superpower, in which case the bullet is a fact about the deck. Not edited without
+a ruling.
 
 **Shape of the branch, which matters for anything that follows:** 346 files, **none in
 `manuscript/`**, 71 commits, and **no merge base with `master`**. It is a parallel documentation
