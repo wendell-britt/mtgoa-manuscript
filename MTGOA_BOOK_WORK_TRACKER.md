@@ -43,6 +43,28 @@ voluntary human-reader calibration. Full trace:
 
 ---
 
+## Session — 2026-08-06 · Mindset shift and action-scaffold audit
+
+**Desk analysis complete; no canonical prose changed.** The audit traced the
+mindset shift, scaffold, and first consequential action in every canonical
+chapter. Ch1–Ch2 establish interior agency; Ch9 establishes an accountable
+feedback loop. The recurring Ch3–Ch8 quest instruction is the pressure point:
+it makes action concrete but does not consistently carry forward the relational
+placement test developed in Ch2 and made operational in Ch7 and Ch9.
+
+**Next desk test:** run a no-standing card across Ch3–Ch8. A valid result may
+be a permission request, bounded contribution, appropriate support, or a
+deliberate step-back; it should not be mislabeled avoidance. No revision is
+proposed for canonical application until that cross-Face simulation identifies
+a repeated failure.
+
+**Post-ship v2 backlog:** voluntary human-reader calibration of the desk
+findings, with pre-read context, post-chapter checks, and a 7–14-day follow-up.
+It is intentionally not a release gate. Full audit:
+`editorial_reports/2026-08-06/MINDSET_SHIFT_AND_ACTION_SCAFFOLD_AUDIT_2026-08-06.md`.
+
+---
+
 ## Session — 2026-08-03 · Jordan arc, Chapters 7–9
 
 **Approved and applied.** Nine review-approved replacements across Diplomat,
