@@ -649,7 +649,7 @@ In practice: Next time you're in a meeting and something happens that you can fe
 
 In practice: when the charge lands, start a clock instead of a sentence. Thirty seconds, and you may think about anything except what you are going to say. Where it sits in your body. How big it is. What it is pointing at. If the size drops while you are watching it, you did the talking down, and the reading you now have is a reading of the smaller thing.
 
-**Example:** Tomas asks for a start date in writing and the reply says it will be sorted. His visa runs on that date. The charge in you is at an eight and two sentences arrive in the first three seconds, both aimed at the coordinator, who did not build this. Say neither for thirty seconds. The size holds and what it points at moves. A coordinator gets to be slow. What you are actually carrying is that nobody in the thread has asked what the date is for. That one is drawable.
+**Example:** Tomas asks the council for the hearing date in writing and the reply says it will be sorted. His housing claim runs on that date. The charge in you is at an eight and two sentences arrive in the first three seconds, both aimed at the officer who answered, who did not build this. Say neither for thirty seconds. The size holds and what it points at moves. What you are actually carrying is that nobody in the chain has asked what the date is for. That one is drawable.
 
 **The test:** Thirty seconds passed, you said nothing, and the charge is the size it was. If it shrank, that is information about what you do with fire rather than a failed attempt. If you spent it, you will know, because the sentence was about a person instead of about a line.
 

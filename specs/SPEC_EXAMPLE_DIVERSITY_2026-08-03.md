@@ -158,3 +158,77 @@ Example whose move needs an institution.
    her job, and about ninety seconds in you notice a spike in your chest you have not
    named.* One person, one relationship, no institution, and the move is entirely
    internal. **More of the book should look like that one.**
+
+---
+
+## APPLIED — 2026-08-05
+
+Both open questions were already ruled by the six-Face panel and neither needed reopening.
+**Q5:** *Amend nothing. `ch1:44` is the truest paragraph in the chapter. The Examples are
+the ones lying* — Challenger and Architect, unopposed. **Q6, a child:** yes, and the Regent
+called it *the most durable thing on the list*. Nobody argued against either.
+
+**Four relocations, and `ch5` does three jobs at once.**
+
+| | from | to | arena |
+|---|---|---|---|
+| `ch3:784` | Jo's week at work | **your sister Jo, every family visit** | family and household |
+| `ch4:652` | Tomas's visa, a coordinator, a thread | **the council, a hearing date, a housing claim** | community and public |
+| `ch5:591` | an intake form, Ana correcting a record | **a school register, and Ana is nine** | **caregiving across a power gap** |
+| `ch6:448` | the weekly deck, a screen reader | **the weekly order of service, a congregation** | community and public |
+
+**The fifteen-Example workplace run across ch3, ch4 and ch5 is broken.** No Example's move
+was rewritten; each had its furniture changed, which is what §5 said the fix was.
+
+**`ch5:591` is the child Example** and it is the same defect at higher stakes. The Regent's
+move survives untouched: the form still matches children to legal records, the sync is
+still the part nobody designed, fix the sync and keep the field. **A nine-year-old
+answering to the wrong name at register every morning is what `ch1:44` means by *Children
+receive care or not based on whether you actually understand what they need*.** That claim
+had no evidence in the book for nine chapters.
+
+### Three defects the review caught, and only one was measurable
+
+**1 · `ch4` had the book taking the institution's side.** The original reads *A coordinator
+gets to be slow*, which is generous toward a **peer** and is the move: do not aim the
+charge at somebody who did not build the system. Relocated to a council, the identical
+sentence excuses a person who **holds power over the reader** while her housing claim runs
+on the date. **Cut.** *who did not build this* already redirects, and *nobody in the chain
+has asked what the date is for* names the real target. No counter could see this.
+
+**2 · *She is nine.* was reaching for effect.** A three-word sentence dropped mid-paragraph,
+the only one in the set that existed for the punch, and it arrived *after* the two years so
+the age landed as a hit rather than a condition. Integrated: **Ana is nine and has answered
+to the wrong name at register for two years.**
+
+**3 · Two passives and a lost joke, mine.** The first draft ran `passive` **1.72** against
+the originals' 0.92. Both additions were mine: *Ana has been read out wrong at register*
+and *the template every week's sheet is built from*, where canon had the active *everybody
+builds the deck from*. **Making Ana the agent fixed the counter and wrote the better
+sentence** — she *answers to* the wrong name. I had also replaced `ch6`'s *people who like
+their fonts* with *people who like the way it looks*, an empty noun where canon had a
+concrete jab. Restored.
+
+### The board
+
+| | be | copula | waste | zombie | expletive | passive | empty |
+|---|---|---|---|---|---|---|---|
+| the four originals | 0.85 | 1.10 | 1.06 | 0.19 | 0.00 | 0.92 | 0.81 |
+| **as relocated** | **0.81** | 1.15 | **1.01** | **0.18** | 0.00 | **0.88** | **0.78** |
+
+Six of seven counters at or better than canon. `gate` PASS · `draftprobe` 6, identical to
+the originals · book-wide review clean · **SHIPPABLE**.
+
+**Slop, detect mode: one hit in each, and it is the same one** — `leverage` in `ch6`'s
+*leverage point*, its own term of art, present in the original and the noun rather than the
+banned verb. Zero binary contrasts, throat-clearing, faux-insight, superficial `-ing`,
+puffery, weasel attribution, rhetorical setups, negative listing, em dashes or colon
+reveals. All three jokes survived the move: *including nothing*, *people who like their
+fonts*, *may never notice you did*.
+
+## Still open
+
+**§6.3 — does the reader-as-manager default get named anywhere?** Eight Examples still
+assume she has a team, a budget, a calendar to take over and a panel to sit on. Untouched
+by this pass, and it is a different kind of fix: one sentence somewhere, rather than four
+relocations.

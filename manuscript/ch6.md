@@ -445,7 +445,7 @@ Finding the leverage point is the discipline of asking: what is the one place in
 
 In practice: when you're looking at a broken system, don't start with what's broken. Start with where the pressure is already building. Where is the system under the most strain? Where are people already trying to work around the problem? That's usually the leverage point. The workaround is a sign. Follow it.
 
-**Example:** Meera asks three times for the weekly deck in a format her screen reader can use, and three times somebody sends a fixed copy that afternoon. The fixed copy is not the fix. The leverage point sits in the template everybody builds the deck from and nobody owns. Change the template and the request stops existing. It costs you a fortnight of arguing with people who like their fonts. Meera did not ask you to do this and may never notice you did.
+**Example:** Meera asks three times for the weekly order of service in a format her screen reader can use, and three times somebody prints her a large copy that morning. The large copy is not the fix. The leverage point sits in the template everybody builds the sheet from and nobody owns. Change the template and the request stops existing. It costs you a fortnight of arguing with people who like their fonts. Meera did not ask you to do this and may never notice you did.
 
 **The test:** You named one place and pushed there, instead of pushing everywhere at once with the same force. Cascades are slow and often invisible. One named point is the move.
 

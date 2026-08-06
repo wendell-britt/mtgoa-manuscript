@@ -588,7 +588,7 @@ In practice: Make a list of three things in your current inheritance that you wo
 
 In practice: When you see something that needs to change, ask two questions: (1) What is this trying to do? (2) Is it still doing it? If the answer to (2) is no, change the form but keep the essence. Tell people what you're doing and why: *I'm not discarding this. I'm updating it.*
 
-**Example:** The intake form has a legal name field and a preferred name field, and Ana has corrected the same record for two years because the sync overwrites her preferred name every night. Ask the two questions. The form is trying to match people to legal records, and it still does that. The sync is not doing anything anyone designed it to do. Fix the sync, keep the field, and tell people which of the two you changed and why.
+**Example:** The school system has a legal name field and a preferred name field, and Ana is nine and has answered to the wrong name at register for two years, because the sync overwrites her preferred name every night. Ask the two questions. The form is trying to match children to legal records, and it still does that. The sync is not doing anything anyone designed it to do. Fix the sync, keep the field, and tell people which of the two you changed and why.
 
 **The test:** You named what the tradition was trying to do before you changed how it does it, and you told people which of the two you were changing. Results arrive on their own schedule.
 
