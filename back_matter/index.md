@@ -36,6 +36,8 @@ Locators are chapter and section rather than page. **Bold** marks where a term i
 
 **Victim** — **Ch 2 §6**, and throughout
 
+**Vulnerable Child** — Key Terms, Ch 2 §7, Ch 8 §3, Ch 9 §5, App A, App B
+
 ## The five channels
 
 **bliss (joy completed)** — Key Terms, **Ch 3 §4**, Ch 4 §4, Ch 5 §4, Ch 6 §4, Ch 7 §2, Ch 7 §4, Ch 8 §4

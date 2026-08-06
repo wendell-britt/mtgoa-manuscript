@@ -84,8 +84,9 @@ you named it or not. The move the book builds toward is taking the seat on purpo
 running, with tokens you spend, tickets you earn, and doors that open only at your
 clearance. *Ch 1*
 
-**Player, the** — What is at the center of the Forest when no daemon has the joystick. In
-somebody else's Forest, a player waiting for somebody to show up and play. *Ch 2 §6*
+**Player, the** — Who waits at the center of the Forest when no daemon has the joystick:
+the Vulnerable Child, who should have been holding it the whole time. In somebody else's
+Forest, a player waiting for somebody to show up and play. *Ch 2 §6, §7*
 
 **Polarity Map, the** — For two things that are both necessary and pull against each other.
 Name the poles, mark where you are, design one action containing both. Barry Johnson's, and
@@ -121,6 +122,10 @@ with someone; as a demon it confirms them in the role. *Ch 2 §6*
 **Village, the** — Every place with an audience: the workplace, the coalition, the family
 table, the group chat, anywhere other people can see what you did and adjust their read on
 you. *Ch 2 §3*
+
+**Vulnerable Child, the** — The youngest part of you, waiting at the center of the Forest
+underneath the seven. She is the Player, and the whole walk reaches her: getting to the
+center and putting the joystick back in her hands. *Ch 2 §7; her gift carried up at Ch 8 §3*
 
 **WAVE-Spiral, the** — Wake, Open, Clean, Grow, Show. Notice the signal, let it reach you,
 name what it is telling you, take the lesson, make the move. The five stages run as the five

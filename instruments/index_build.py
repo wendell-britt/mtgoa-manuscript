@@ -88,6 +88,10 @@ TERMS = {
         ("Victim",         r"\bVictim\b"),
         ("Damaged Self",   r"\bDamaged Self\b"),
         ("shadow, the",    r"\bthe shadow\b"),
+        # Not an eighth daemon -- ch2:384 makes her the Player at the centre. Missing
+        # from both index and glossary until 2026-08-05, which is why check 3 could not
+        # see the gap: it can only require an entry for a term the index already knows.
+        ("Vulnerable Child", r"Vulnerable Child"),
     ],
     "The five channels": [
         ("Metal / fear",        r"\bMetal\b"),
