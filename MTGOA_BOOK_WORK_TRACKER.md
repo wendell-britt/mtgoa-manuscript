@@ -1,6 +1,6 @@
 # Book Work Tracker — MTGOA
 **Created:** 2026-04-14
-**Last Updated:** 2026-08-05
+**Last Updated:** 2026-08-06
 **Status:** All 8 chapters complete — Editorial Pass Phase
 
 ---
@@ -83,6 +83,10 @@ Open Up, or Clean Up (especially Open Up), and never let it replace the whole fo
 action. The spec inventories the migration across Chapter 1, Chapters 3–6 and 9, and appendices;
 it also corrects the obsolete claim that Open Up was the book's addition to Wilber's four. The
 next work is author ratification, then a Chapter 3 first-use proposal before any global rename.
+
+**Ratified.** Wendell ratified the terminology and lineage language on 2026-08-06. The first
+implementation unit is Chapter 3's first-use bridge; no global rename begins before that wording
+is approved in context.
 
 ---
 

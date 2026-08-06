@@ -1,6 +1,6 @@
 # SPEC — WAVE and the Five-Move Form
 
-**Status:** proposed structural ruling; no manuscript prose changed by this document.
+**Status:** ratified structural ruling, 2026-08-06; no manuscript prose changed by this document.
 
 **Opened by Wendell, 2026-08-06.** The reader question is plain: *what does WAVE
 stand for?* The manuscript cannot answer because it currently gives one name to two
@@ -188,14 +188,14 @@ Every hit must be classified by meaning before it changes.
   `marginalia/review.py`, `marginalia/compile.py --check`, and a full-spine
   terminology search pass after each migration batch.
 
-## 9 · Ruling requested
+## 9 · Rulings ratified
 
-1. Ratify **WAVE** as Welcome, Acknowledge, Validate, Exhale and **Five-Move Form**
-   as Wake Up, Open Up, Clean Up, Grow Up, Show Up.
-2. Ratify the relationship: WAVE may support Wake Up, Open Up, and Clean Up; it is
-   especially at home in Open Up; it is neither mandatory nor the whole practice.
-3. Ratify the lineage language: Five-Move Form adapts Wilber; “know the form, know
-   the changes” is Wendell's jazz-training inheritance, explained once in ordinary
-   language rather than turned into a second reader taxonomy.
+1. **WAVE** means Welcome, Acknowledge, Validate, Exhale. **Five-Move Form** means
+   Wake Up, Open Up, Clean Up, Grow Up, Show Up.
+2. WAVE may support Wake Up, Open Up, and Clean Up; it is especially at home in
+   Open Up; it is neither mandatory nor the whole practice.
+3. The Five-Move Form adapts Wilber. “Know the form, know the changes” is
+   Wendell's jazz-training inheritance, explained once in ordinary language rather
+   than turned into a second reader taxonomy.
 
 No manuscript prose should be altered until these rulings are approved.
