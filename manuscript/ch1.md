@@ -124,6 +124,34 @@ Here is where the allyship Arcade breaks the rule of every arcade you have ever 
 
 Return to whatever you brought with you. After you engage it, do you walk away with more fuel in the tank or less? That answer is your real score, whatever you looked like earning it.
 
+## The Trust System — What They Decide
+
+I have been calling the Arcade a floor full of machines, which holds up until the moment allyship starts. The person you came to help is not a machine. They are a player, running a game of their own, and you are the one who walked onto their floor.
+
+Some machines on that floor have a bouncer in front of them, and there is nothing human about it. Built long before you showed up, running on its own, answering to nobody, with one job written into it: keep everything away from the player it guards until that thing proves harmless.
+
+The bouncers are there for a reason. Some of the people who hurt this person arrived offering help, and a bouncer that has met one of those keeps the shape. It does not weigh you up, and it does not wonder about you. It checks you against the shape, before anybody has said much, and it checks fast.
+
+Behind the bouncer, the person is working out three things about you, and that takes a good deal longer than the door does. Whether you can actually help. Whether you do what you said you would do. Whether you meant well. Capability, integrity and benevolence, if you want the words for them.
+
+The first two are things you do. The third is a thing you are, and that difference runs the whole economy. Doing leaves a record somebody else can check. You got better at it or you did not. You kept your word or you did not. What you are leaves no record, so they guess.
+
+So you cannot work on the third one directly. You can become a kinder person, and it matters, and it still does not put the finding in their head. A decade of being seen incorrectly is available to anybody who wants one.
+
+I have just handed you a diagram of how trust gets built, and a diagram like that doubles as instructions for faking it. I know, because I have used it that way. Looking capable is cheaper than getting good. Sounding reliable is cheaper than being reliable. The shortcut works, which is the honest problem with it. It just pays nothing. Tricking somebody into believing you are a good person is not a feeling anybody enjoys, including the person doing it.
+
+A door like that changes the question. The useful one is how small a move you can make that still counts. Saying what you noticed, to one person, is about as small as it gets, and almost anybody can receive it. Saying the true thing to somebody's face in front of other people asks for far more, and it needs a history behind it before it lands at all. You will meet that one with the Diplomat in Chapter 7.
+
+Which means some games on this floor stay shut to you for now, however many tokens you brought. You prove yourself first, and not to the person. To whatever is standing in front of them. You will find out who those bouncers are in the next chapter, and you will meet your own first, because you have a set of them too and they are why certain doors never open for you either.
+
+You and the person you came to help are not playing the same game. You walk a floor picking machines, spend what you brought, and leave whenever you like. They are holding lines, drawn long ago by parts of them they have never met. They won't be taking them down no matter how hard you intend to mean well.
+
+Which brings me back to the prize counter. What I collected there for years was praise, and praise has a shape to it. Somebody stands above you and grades you. That is the trade, every time. Take your winnings in praise and you have agreed to be judged by the person handing it over, which puts one of you above the other, and you are now doing something other than allyship.
+
+Encouragement is the smaller word and the better one. *That helped.* *Thank you.* *I know where I am now.* None of those grade you. Every one of them tells you the move landed.
+
+So the move this week is a small one. Go back to what you brought with you and find the person inside it. Work out the smallest move that would actually help. Do that, and let them tell you what it was worth.
+
 ## Why a Game
 
 The opening gave you one reason to run allyship as a game: the frame sets distance between you and the outcome, and it hands you clear rules and objectives in a place where most people are improvising blind. Detachment and clarity. That is the first reason.
