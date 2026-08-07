@@ -969,6 +969,8 @@ A card that ends in a notebook is a card you read. A card that ends in a quest i
 
 A quest is a commitment to act that touches somebody other than you, on a date. It is not a resolution and it is not a value. It has a verb, a name in it, and a deadline. Quests come from the Show Up cards, and every one of them ends in an artifact, and an artifact is something another person can encounter.
 
+Before you make it a quest, locate yourself in the situation. What is yours to name, offer, or change? Who can tell you no, redirect you, or correct the read? If you have standing to move, make the smallest action that changes what you control. When your move changes other people’s conditions, name the decision that shapes those conditions and whether it is still open. If it is, say what affected people can change and give them the means to do it. If it is closed, say that plainly and do not call advice shared power. If you do not have that relationship yet, do not seize the decision: make the quest to ask permission, offer one bounded contribution, prepare with the right support, or step back cleanly.
+
 Write yours in one sentence: what you will do, who it reaches, by when, and what it costs you. *Say the Thing Under the Thing* becomes: **I will tell Dana what I noticed in Tuesday's meeting and not soften it, before Friday, and it will cost me her thinking I am difficult.** That is a quest. *I will be more aware of my impact* is not one; nobody can tell whether you did it, including you.
 
 The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. Enthusiasm alone usually means you have picked something you were already going to do.

@@ -5,6 +5,346 @@
 
 ---
 
+## Session — 2026-08-06 · Ch2 placement bridge, SIM-001 rerun
+
+**Approved and applied.** A Pilot 0 desk simulation found one repeated failure
+in Ch2's Second Move: a reader could either avoid speaking or turn a body-read
+into self-aware disclosure that made the listener contain them. The approved
+bridge now asks whether the statement is theirs to name in that context, whether
+it helps or burdens the listener, and which condition, need, or boundary it
+identifies. When trust is insufficient, it offers a smaller move instead of
+forced intimacy.
+
+**Rerun:** P-03 moved from private consolation to a condition-focused agenda
+ask; P-04 moved from urgency disclosure to a permission-based, feedback-scoped
+prototype request. Both counterpart paths included a credible no or redirection.
+This is a desk-simulation result, not human-reader validation.
+
+**Verification:** Exact insertion anchor matched once; `dupes.py` clean; `git
+diff --check` clean. `gate.py` remains at four body hits, all pre-existing in
+Ch9 and none introduced by this edit. Full rerun record:
+`editorial_reports/2026-08-06/SIM_001_CH2_PLACEMENT_RERUN_2026-08-06.md`.
+
+---
+
+## Session — 2026-08-06 · Pilot 0 resumed, P-06 spectator test
+
+**Desk pilot complete.** P-06 begins with no invitation, role, or standing in
+the local library group. The revised Ch2 bridge distinguishes that
+insufficient-trust condition from avoidance and routes the reader to a smaller,
+permission-based first contact. The coordinator redirects the persona from a
+strategy conversation to a routine shift or unrestricted donation; the persona
+accepts the redirect without seeking a more flattering role.
+
+**Result:** no new repeated action-conversion failure across the three fictional
+cards. This is not validation with actual readers. Next research layer is
+voluntary human-reader calibration. Full trace:
+`editorial_reports/2026-08-06/PILOT_0_P06_RESUMED_2026-08-06.md`.
+
+---
+
+## Session — 2026-08-06 · Mindset shift and action-scaffold audit
+
+**Desk analysis complete; no canonical prose changed.** The audit traced the
+mindset shift, scaffold, and first consequential action in every canonical
+chapter. Ch1–Ch2 establish interior agency; Ch9 establishes an accountable
+feedback loop. The recurring Ch3–Ch8 quest instruction is the pressure point:
+it makes action concrete but does not consistently carry forward the relational
+placement test developed in Ch2 and made operational in Ch7 and Ch9.
+
+**Next desk test:** run a no-standing card across Ch3–Ch8. A valid result may
+be a permission request, bounded contribution, appropriate support, or a
+deliberate step-back; it should not be mislabeled avoidance. No revision is
+proposed for canonical application until that cross-Face simulation identifies
+a repeated failure.
+
+**Post-ship v2 backlog:** voluntary human-reader calibration of the desk
+findings, with pre-read context, post-chapter checks, and a 7–14-day follow-up.
+It is intentionally not a release gate. Full audit:
+`editorial_reports/2026-08-06/MINDSET_SHIFT_AND_ACTION_SCAFFOLD_AUDIT_2026-08-06.md`.
+
+---
+
+## Session — 2026-08-06 · Pilot 1, no-standing cross-Face test
+
+**Desk simulation complete; no canonical prose changed.** P-07, an adjacent
+nonprofit convenor with resources but no coalition role, was run across Ch3–8.
+Ch7's explicit trust prerequisite and Ch8's correction/usefulness tests route
+the reader to a narrow resource offer or clean step-back. Ch3, Ch4, and Ch6
+repeatedly risk converting a valid read into an unearned mandate to speak,
+confront, or redesign.
+
+**Finding:** relational placement is a repeated action-conversion issue, not a
+Ch2-only edge case. The next editorial hypothesis is a short portable gate
+before the first recurring Ch3 quest instruction; it requires a rerun against
+P-03, P-04, P-06, and P-07 before any canonical proposal is made. Full trace:
+`editorial_reports/2026-08-06/PILOT_1_P07_NO_STANDING_CROSS_FACE_2026-08-06.md`.
+
+---
+
+## Session — 2026-08-06 · SIM-002, Ch3 relational-placement gate rerun
+
+**Desk rerun passes; no canonical prose changed.** A proposal-level gate before
+Ch3's first recurring quest instruction was tested against P-03, P-04, P-06,
+and P-07. It routes readers with standing to the smallest accountable action
+they control, and readers without the relationship or mandate to a
+permission-based first contact, bounded contribution, appropriate preparation,
+or clean step-back.
+
+**Regression watch:** the gate must not make a permission request into a demand
+for unpaid education, reassurance, or a bespoke role. If proposed for canonical
+use, include a bounded-offer/refusal-safe example and rerun P-04 and P-07.
+Full rerun record:
+`editorial_reports/2026-08-06/SIM_002_CH3_RELATIONAL_PLACEMENT_GATE_RERUN_2026-08-06.md`.
+
+---
+
+## Session — 2026-08-06 · Ch3 relational-placement gate
+
+**Approved and applied.** The four-card SIM-002 rerun established a repeated
+placement failure in the recurring quest form: readers could collapse standing,
+authority, first contact, and lack of mandate into a single demand to act. The
+approved gate now asks what the reader can name, offer, or change; who can say
+no, redirect, or correct the read; and routes readers with standing to the
+smallest action they control. When the relationship is absent, it directs a
+permission ask, one bounded offer, appropriate preparation, or clean step-back.
+
+**Final wording:** “do not seize the decision” replaces the proposed “do not
+take the room,” which tripped the manuscript's banned-term gate. The semantic
+rule is unchanged.
+
+**Verification:** exact anchor matched once; `dupes.py` clean; `git diff
+--check` clean. `gate.py -v` has four pre-existing body hits in Ch9, all for
+“thing”; the new Ch3 prose introduced none. The applied safe-edit script is
+`instruments/apply_ch3_relational_placement_gate.py`.
+
+---
+
+## Session — 2026-08-06 · Regression pilot, P-07 across revised Ch3–8
+
+**Desk regression passes; no canonical prose changed.** P-07 carried the new
+Ch3 relational-placement gate through the remaining Face chapters. The gate
+keeps the reader's Challenger line inside their own organizational conduct,
+limits Regent stewardship to the resource agreement they actually carry, and
+limits Architect design to the nonprofit system they control. Ch7 and Ch8
+reinforce the rule through their own permission and correction tests.
+
+**Result:** no later instruction forces the reader to convert a narrow resource
+agreement into coalition strategy, public voice, mediation, or governance.
+Later chapters do not repeat the gate verbatim; whether readers retain it under
+charge is a post-ship v2 human-calibration question, not a new prose defect.
+Full trace:
+`editorial_reports/2026-08-06/REGRESSION_P07_REVISED_CH3_CROSS_FACE_2026-08-06.md`.
+
+---
+
+## Session — 2026-08-06 · P-08 Authority Holder buyer-reader card
+
+**Fictional composite created; no canonical prose changed.** P-08 is a
+six-figure nonprofit COO with DEI/allyship commitments, real operational
+authority, a discretionary budget, and a shadow pattern of offering voice while
+retaining decision rights. The card tests whether the book can turn
+“empowerment” into shared authority without equating responsible leadership
+with unilateral control.
+
+**Commercial boundary:** ebook, workshop, coaching, or consulting interest is
+never a simulation success measure. Any paid offer must follow—not replace—open
+decisions, participant compensation and access support, and an accountable
+feedback-to-decision loop. Full card:
+`editorial_reports/2026-08-06/P08_AUTHORITY_HOLDER_JOURNEY_CARD_2026-08-06.md`.
+
+---
+
+## Session — 2026-08-06 · Pilot 2, P-08 Authority Holder whole-book run
+
+**Desk pilot complete; no canonical prose changed.** P-08 is action-capable by
+the end of the book: Ch9's “Hand Someone the Pen” distinguishes permission to
+run a design from authority to change, stop, or replace it. The simulated
+outcome transfers defined access decisions to compensated staff and patient
+advisors, includes a pause/scope-change mechanism, and requires a written
+leadership response.
+
+**Timing finding:** Ch3's relational-placement gate requires correction but can
+still be satisfied by improved consultation; Ch6's handoff can be misread as
+delegation. A six-week live decision could close before the reader reaches
+Ch9's explicit authority transfer. Next test is proposal-level only: add a
+narrow authority clause to the Ch3 gate and rerun P-04 and P-08, preserving
+legitimate executive responsibility. Full trace:
+`editorial_reports/2026-08-06/PILOT_2_P08_AUTHORITY_HOLDER_WHOLE_BOOK_2026-08-06.md`.
+
+---
+
+## Session — 2026-08-06 · SIM-003, Ch3 authority-clause rerun
+
+**Desk rerun complete; no canonical prose changed.** The proposed clause—“When
+your move changes other people's conditions, name what they can actually
+alter—not only how they can advise.”—passes P-04: it creates bounded reviewer
+authority over advance payment, proof requirements, and pilot launch without
+pretending participants control the whole fund.
+
+**P-08 exposes a scope-washing loophole.** An authority-holder can give affected
+people real but cosmetic choices while retaining vendor criteria, accessibility
+requirements, scope, and timing. The clause is therefore not ready for a
+canonical proposal. Next hypothesis: require the reader to name the part of
+the decision that shapes those conditions and what affected people can alter,
+with a truthful leadership-owned route when material decisions cannot reopen.
+Full trace:
+`editorial_reports/2026-08-06/SIM_003_CH3_AUTHORITY_CLAUSE_RERUN_2026-08-06.md`.
+
+---
+
+## Session — 2026-08-06 · SIM-004, Ch3 materiality-and-honesty fork rerun
+
+**Desk rerun passes; no canonical prose changed.** The refined fork requires
+the reader to name the decision that actually shapes affected conditions and
+whether it remains open. When open, it requires named authority and means to
+use it; when closed, it requires leadership to own the decision and not call
+advice shared power.
+
+**Results:** P-04 transfers bounded authority over advance payment, proof, and
+pilot launch while retaining fund/legal limits. P-08 must transfer material
+vendor/access authority or publish the choice as leadership-owned. P-07 retains
+a narrow, refusal-safe resource offer without extracting coalition planning
+labor. The candidate is ready to present as a proposed Ch3 insertion. Full
+trace:
+`editorial_reports/2026-08-06/SIM_004_CH3_MATERIALITY_HONESTY_FORK_RERUN_2026-08-06.md`.
+
+---
+
+## Session — 2026-08-06 · Ch3 materiality-and-honesty fork
+
+**Approved and applied.** The P-04/P-08/P-07 rerun established that a
+correction path alone can support cosmetic participation. The approved fork now
+requires readers whose moves change others' conditions to name the decision
+that shapes those conditions and whether it remains open. Open decisions require
+named affected-person authority and the means to use it; closed decisions must
+be stated as leadership-owned, without calling advice shared power.
+
+**Verification:** exact anchor matched once; `dupes.py` clean; `git diff
+--check` clean. `gate.py -v` remains at four pre-existing body hits in Ch9, all
+for “thing”; the new Ch3 prose introduced none. The applied safe-edit script is
+`instruments/apply_ch3_materiality_honesty_fork.py`.
+
+---
+
+## Session — 2026-08-06 · SIM-005, applied Ch3 authority regression
+
+**Applied-surface desk regression passes; no canonical prose changed.** P-04,
+P-08, and P-07 were rerun against the actual Ch3 materiality-and-honesty fork.
+P-04 produces bounded participant authority over advance payment, proof, and
+pilot launch; P-08 must either transfer material vendor/access authority or
+publish the vendor decision as leadership-owned; P-07 remains limited to a
+refusal-safe resource offer.
+
+**Closure:** the relational-placement, materiality, and honesty failure chain
+is closed for the tested authority patterns at the desk-simulation layer. The
+remaining validation is post-ship v2 human-reader calibration of retention and
+behavior under pressure. Full regression:
+`editorial_reports/2026-08-06/SIM_005_APPLIED_CH3_MATERIALITY_HONESTY_REGRESSION_2026-08-06.md`.
+
+---
+
+## Session — 2026-08-06 · Pilot 3, P-09 recently corrected manager
+
+**Desk pilot complete; no canonical prose changed.** P-09 was corrected by a
+subordinate who explicitly refused a repair meeting and limited contact to
+project logistics. Ch2 routes remorse to an appropriate support role; Ch3–6
+convert correction into workload, attribution, launch-gate, and review-authority
+changes; Ch8–9 preserve boundary-respecting feedback and handoff.
+
+**Safety-relevant finding:** Ch7's Repair move says not to give the harmed
+person space and to stay. For a reader with power and a direct no-contact
+boundary, that can be read as entitlement to continued interpersonal access.
+Next proposal-level test: clarify that staying means accountability and
+reachability on terms the other person chooses, not insistence on access; rerun
+P-09 and a peer-to-peer rupture card. Full trace:
+`editorial_reports/2026-08-06/PILOT_3_P09_RECENTLY_CORRECTED_MANAGER_2026-08-06.md`.
+
+---
+
+## Session — 2026-08-06 · SIM-006, Ch7 boundary-respect rerun
+
+**Desk rerun passes; no canonical prose changed.** The proposed clarification
+to Ch7's Repair move was tested against P-09, a manager facing explicit
+no-contact limits, and P-10, an equal-power peer whose harmed counterpart set a
+timed, written, group-action repair path. The clarification makes staying mean
+continued accountability and reachability on the harmed person's terms.
+
+**Result:** P-09 cannot press for interpersonal access; P-10 cannot call
+disappearance respect when the other person has named a repair path. Neither
+case treats forgiveness or renewed closeness as proof of repair. The candidate
+is ready to present as a proposed Ch7 insertion. Full trace:
+`editorial_reports/2026-08-06/SIM_006_CH7_BOUNDARY_RESPECT_RERUN_2026-08-06.md`.
+
+---
+
+## Session — 2026-08-07 · Ch7 boundary-respect clarification
+
+**Approved and applied.** The P-09/P-10 rerun established that Ch7's repair
+instruction needed to distinguish continued accountability from continued
+interpersonal access. The approved clarification makes staying mean respect for
+the other person's boundary, changed behavior, and reachability on terms they
+choose; it does not make forgiveness or renewed closeness the repair outcome.
+
+**Verification:** exact anchor matched once; `dupes.py` clean; `git diff
+--check` clean. `gate.py -v` remains at four pre-existing body hits in Ch9, all
+for “thing”; the new Ch7 prose introduced none. The applied safe-edit script is
+`instruments/apply_ch7_boundary_respect.py`.
+
+---
+
+## Session — 2026-08-07 · SIM-007 applied Ch7 boundary regression
+
+**Applied-surface desk regression passes.** P-09, a manager facing Kai's
+no-contact limit, stays accountable through permitted and independent channels
+without pursuing interpersonal access. P-10, an equal-power peer, follows
+Leah's requested timing, written channel, and group-level change instead of
+calling disappearance respect. Neither outcome requires forgiveness, renewed
+closeness, or a reply from the harmed person.
+
+**Result:** the Ch7 repair/boundary chain is closed at the desk-simulation
+layer. Post-ship v2 human-reader calibration remains the next validation for
+retention under pressure. Full regression:
+`editorial_reports/2026-08-07/SIM_007_APPLIED_CH7_BOUNDARY_RESPECT_REGRESSION_2026-08-07.md`.
+
+---
+
+## Session — 2026-08-07 · SIM-008 applied P-08 whole-book regression
+
+**Applied-surface desk regression passes.** P-08, the authority-holder buyer
+persona, now encounters the advice-versus-authority distinction in Ch3 before
+the live vendor decision closes. He must name which decisions are open, give
+affected people defined power and the means to exercise it, or plainly own a
+closed leadership decision. Ch6 and Ch9 reinforce that handoff means the ability
+to change the design; Ch7 prevents a rejected charter from becoming a claim on
+participants' access or reassurance.
+
+**Result:** P-08 reaches a materially accountable post-book action: a public
+decision-rights map, compensated and accessible participation, a pause or
+scope-change route, and a written response to recommendations or refusals.
+The earlier authority-transfer timing risk is closed at the desk-simulation
+layer. Human-reader calibration under institutional pressure remains v2 work.
+Full regression:
+`editorial_reports/2026-08-07/SIM_008_APPLIED_P08_WHOLE_BOOK_REGRESSION_2026-08-07.md`.
+
+---
+
+## Session — 2026-08-07 · Simulation closing synthesis
+
+**Desk-simulation release pass closed.** The final synthesis indexes the
+fictional-composite portfolio, the three approved canonical changes, the
+applied-surface regressions, the release boundary, and the post-ship v2
+human-reader calibration backlog. The tested action chain is now: relational
+placement, materiality and honest ownership, structural change, correction and
+boundary-respecting repair, then authority handoff.
+
+**Decision:** no further desk persona reruns are required for this release.
+Human-reader calibration remains intentionally deferred and is not a release
+gate. Full closing record:
+`editorial_reports/2026-08-07/ALLYSHIP_SIMULATION_CLOSING_SYNTHESIS_2026-08-07.md`.
+
+---
+
 ## Session — 2026-08-03 · Jordan arc, Chapters 7–9
 
 **Approved and applied.** Nine review-approved replacements across Diplomat,
