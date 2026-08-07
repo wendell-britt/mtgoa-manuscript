@@ -827,15 +827,15 @@ In practice: connect a channel word to a concrete event. *I am afraid we are avo
 
 ### Move 4 · Grow Up — Say What You Can Do Now
 
-**What it is:** After you notice something, name the capability it left behind. One sentence, present tense.
+**What it is:** Turn what you noticed into one capability you can use in the situation.
 
-**Why it matters:** Something you understand and then set down leaves you where you started with better vocabulary. This stage converts information into equipment. Fear that showed you what matters becomes a value you hold rather than one you argue for. Anger that showed you a line becomes a line you are allowed to have. The feeling stops being something that happened to you and becomes something you own.
+**Why it matters:** Noticing a pattern without changing how you participate leaves you with better vocabulary and the same options. This move asks what the response makes possible. Fear may show you what you care about. Anger may show you a line you need to hold. The capability is the action you can take because you learned something.
 
-In practice: say it to your own nervous system, plainly, in the seconds after you notice it. *I get it. The message landed.* Then finish the sentence with the equipment. *I can tell when a plan is being agreed to and not believed.* *I can hold a hard look without going away.*
+In practice: say the capability in ordinary language. *I can tell when a plan is being agreed to and not believed.* *I can stay with a hard look long enough to ask a question.* Keep it tied to the situation; do not turn it into a claim about who you are.
 
-**Example:** You noticed months ago that Jo is not disorganised, and that the week costs her something it does not cost anyone else. Neither of you has a word for it. You were right, and being right bought her nothing. Say what you can do now, to her, once: *I can tell the difference between someone struggling and a schedule that is expensive for one person. I am going to say so before I can prove it.* If you have misread it, she watches you misread it. What she does with it is hers, including nothing.
+**Example:** You have noticed that Jo is not disorganized; the weekly schedule asks more of her than it asks of anyone else. Rather than privately conclude that you are right, name the capability: *I can notice when a schedule costs one person more, and I can say so before I can prove it.* If you have it wrong, Jo can correct you. If you are right, she has one more person who can help name the cost.
 
-**The test:** You can state the capability in the present tense with no story attached. If the sentence only makes sense once you explain the meeting, it has not landed yet.
+**The test:** You can name a specific action or contribution that follows from what you noticed.
 
 ### Move 5 · Show Up — Say What Is Going Unsaid
 

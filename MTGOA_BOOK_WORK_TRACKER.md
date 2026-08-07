@@ -229,6 +229,10 @@ as the move the reader must make.
 observation that others can confirm, complicate, or reject. It retains the concrete event rather
 than claiming authority to identify what the field is running.
 
+**Chapter 3 Grow Up revision.** The move now identifies a concrete capability the reader can use
+in the situation. It drops the equipment and nervous-system framing, keeps the claim provisional,
+and lets the affected person correct it.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
