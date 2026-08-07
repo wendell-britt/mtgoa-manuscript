@@ -284,36 +284,25 @@ This book works the same way. Its form is the **Five-Move Form**: Wake Up, Open 
 ### The Five-Move Form
 
 <!-- MARGINALIA -->
-> *Maera says you can make one pass through the Five-Move Form in ten seconds. She is right, and she has been practising for
-> thirty years.*
+> *Maera says you can make one pass through the Five-Move Form in ten seconds. She is right, and she has been practising for thirty years.*
 >
-> *For your first year, run two: notice, and say. The other three are what you do afterwards, on
-> your own time, and they are where the training actually happens. She tells you five first because
-> students who learn two never come back for the other three.*
+> *For your first year, run the form slowly. Notice. Stay with your response. Name the pattern. Name what you can do. Then say what the discussion leaves out. She tells you all five at the start because the form tells you where you are.*
 <!-- /MARGINALIA -->
 
 
-#### Stage 1: Wake
-**What it means:** Notice the emotional signal. Detect activation.
+#### Stage 1: Wake Up
+**What it means:** Notice what changes in your attention before you decide what it means.
 
-This is the hardest stage for most people, because it requires that you actually *pause* and notice what you feel, the thing actually here in your body right now, a different question from what you *should* feel and a different question from what counts as productive.
+In the Forest, Wake Up gives you a little distance between a situation and your first explanation. A comment follows you home. Someone stops offering ideas after a decision. You start listening to a conversation differently. That response may matter. It does not prove what happened.
 
-Fear. Anger. Sadness. Joy. Neutrality.
+**In practice:** Name the event and your response separately. *The decision was made. I have opened the meeting notes three times since.* Do not decide why yet. Leave the question open while you consider what else could be true.
 
-The feeling arrives before your thinking mind can name it. Your body tenses before you notice you're afraid. Your chest tightens before you realize you're angry. Your throat closes before you can say "sad."
-
-The Wake stage honors that moment, without immediately trying to fix it, manage it, or convert it into something else. (The converting happens very fast. You have converted your whole life. The pause is the practice.)
-
-**In practice:** When you notice an emotional signal rising, name it. Internally. "Fear." "Anger." "Sadness." "Joy." "Neutrality."
-
-Where do you feel it in your body? Chest? Belly? Legs? Throat? Jaw? Let your nervous system have its full response for a moment. Skip the question of whether the feeling qualifies, and skip the question of why it came. Just: this feeling is present. I notice it.
-
-This stage can take five seconds or run the length of the encounter, and you keep noticing the feeling the whole way through.
+You can take this stage in a few seconds or return to it across an encounter. The task is the same: recognize what happened, recognize what caught your attention, and keep the two distinct.
 
 #### Stage 2: Open Up
-**What it means:** Turn the sensitivity up, and let what's there reach you.
+**What it means:** Use WAVE to stay with what is already present before you compose a response.
 
-The people who raised you hand you a dial in childhood and teach one direction: lower it. Stay composed, stay reasonable, keep it together. Turn the dial that low and most of what moves in the situation slips past before it registers, and we call that setting *calm*. Opening turns the dial the other way. You deliberately raise your sensitivity to everything actually present, in your own body first, then in the people around you.
+The first response often arrives already polished: an explanation, a decision to let it go, a plan to raise it later. Opening asks you to notice what you may be protecting or avoiding before that response becomes public.
 
 When a charge arrives, try WAVE.
 
@@ -325,13 +314,9 @@ When a charge arrives, try WAVE.
 
 **Exhale.** Ask whether this is helping you become a more effective, aligned ally. If it is, let it stay and kick up its feet. If it is only pulling you away from the moment, breathe it out of your space. Take with you the fact that you held it a little longer this time.
 
-This matters for one reason: you cannot affect what you cannot feel. The Shaman works by sensitivity, and an instrument kept behind glass reads nothing. When a moment turns and you register it a beat late, the charge has already passed, and the move that could have met it went with it. Contact is the precondition for impact. Every skill later in this chapter runs on the signal that opening lets in; with the dial down, the rest of the game has nothing to work with.
-
 Opening can feel risky if paying attention has overwhelmed you before. WAVE does not ask you to take in everything. It asks you to notice one response, name it, and decide whether it belongs in the moment. That is enough to keep a charge from deciding for you.
 
-Turn the dial all the way up and something else surfaces, something a part of you has kept down there too. Somewhere in the hard moment, a part of you is getting something out of the very dynamic you say you want to end: the charge of being the good one, the relief when the conversation stays comfortable, the pull of an old hurt that has a use. Carolyn Elliott named this the existential kink, and I will not pretend I stand outside it: I have felt myself drawn toward my own smallness in the same moment I was performing my way past it. Opening makes the payoff visible. You do not have to do anything with it yet. You only have to stop refusing to feel it, because what stays hidden runs the moment, and what you can feel, you can play.
-
-That leaves the fear that has been guarding all of it: the fear of doing more harm than you know. Opening does not make that fear disappear, and it does not turn it into courage the instant you feel it. Opening makes the fear available, fully felt instead of managed from a safe distance, close enough that, later in this chapter, you can learn to move it. That conversion takes a real skill with real steps, and it is coming. The whole job of Open Up is to get the fear into your hands, where the work can reach it.
+Opening does not tell you that the first response is correct. It keeps that response from choosing the move before you have asked what else might be true. You do not have to resolve it here. You are making enough contact to bring a better question into Clean Up.
 
 #### Stage 3: Clean
 **What it means:** Correct distortion. Clarify what the feeling is actually telling you about reality.
