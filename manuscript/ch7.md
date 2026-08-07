@@ -60,7 +60,8 @@
 
 ---
 
-## Section 1: The Diplomat's Thesis
+## Section 1: The Exile
+### *Why the Diplomat Left the Village (And What the Village Lost)*
 
 You recognize a woman in the village. She is always there. She shows up to every gathering, every working bee, every moment of conflict and every moment of celebration. Her presence reads as devotion, except it isn't, because devotion implies choice, and she has forgotten how to choose. She stays because she has forgotten that she could leave.
 
@@ -84,7 +85,26 @@ Each stage earns the next. Bridge without Translate is noise. Translate without 
 
 ---
 
-## Section 2: What It Is
+## Section 2: The Distortion
+
+### *What the Village Does With Honest Terms When the Diplomat Is Gone*
+
+After the Diplomat left, the village still needed people to stay. It had stopped knowing how to say what staying costs.
+
+Newcomers arrived and had to audition: they came bearing gifts, because coming empty-handed had stopped working. Camps that wanted the same outcome got louder in their own languages instead of learning each other's. The hard conversations moved into corridors and private messages, where they cost nothing and changed nothing. Nobody went back after a rupture, and when the injured stopped turning up the village called the thinning natural. Meetings ended in warmth and vagueness: everyone accommodated, nothing settled, another session scheduled.
+
+The village chose this, and it had a reason it could defend. After the Challenger it had lines. After the Regent it had continuity. What neither one gave it was a practice for keeping people, and the fastest substitute for a practice is a mood. So the village picked harmony over honesty, inclusion over closure, and hearing everyone over closing the question.
+
+Harmony worked. The village argued less and reported higher satisfaction whenever anyone asked. Underneath it, the people holding the village together carried it without saying so, absorbed what it cost them, and left without warning, which the village read as a run of unrelated departures. The ones who stayed kept count instead, and a count kept long enough starts to feel like a position.
+
+Look at what the village kept and what it traded. It kept every ounce of care. It gave up impact, which is what care was always for. A village with all the care and none of the impact keeps everybody comfortable and moves nobody, and everyone in it stays kind and slightly stuck.
+
+So the village stopped believing that staying could carry conditions. Presence became unconditional, which sounds like love and works like a tax. Nobody noticed. The village called the pattern kindness, and the pattern emptied it one person at a time.
+
+---
+
+## Section 3: The Concept
+### *What Honest Terms Actually Are (And Why It's Not What You've Been Told)*
 
 The Diplomat lives at the relational altitude of human development: pluralistic, relational, oriented toward inclusion. Where the Regent operates through tradition and inherited structure, and the Challenger operates through decisive will and confrontation, the Diplomat operates through the relational field. What matters lies not in what any single person thinks or wants but in what becomes possible between people when someone holds the conditions rightly.
 
@@ -101,25 +121,6 @@ The Diplomat operates through five modes:
 **Repairer.** The mode of healing ruptures. The work of addressing harm somebody did, without pretending it did not occur, and without letting the repair process create new harm.
 
 **Integrative Negotiator.** The mode of honest closing. Surfacing stakes, interests, and sacrifices; naming what the agreement must hold for everyone, and closing so the field moves.
-
-### EA Channel Alignment — How Each Mode Moves Energy
-
-The Diplomat's practice works across the full spectrum. Each bridging mode rests on a specific EA signal and its own alchemical arc:
-
-| Mode | EA Signal | Dissatisfaction → Satisfaction |
-|------|-----------|-------------------------------|
-| **Bridge-Builder** | Metal/Fear | Anxiety → Curiosity → **Wonder** (primary) / Stage-Fright → Authentic Presence |
-| **Translator** | Earth/Neutrality | Disagreement → Dialogue → **Peace** |
-| **Field-Holder** | Wood/Joy | Inclusion-performance → Genuine inclusion → **Bliss** |
-| **Repairer** | Water/Sadness | Rupture → Repair (moral equivalence → discerned equivalence) → **Poignance** |
-| **Integrative Negotiator** | Fire/Anger | Accommodation → Honest terms (resentful peace → agreement naming all stakes) → **Triumph** |
-
-Section 4 works each mode's full arc through in its five deep-dives, the dissatisfaction it carries and the alchemy that transmutes it. Calm is not the entry fee. Whatever you feel as you sit down, one of these five works with that feeling rather than around it.
-
----
-
-## Section 3: The Concept
-### *What Honest Terms Actually Are (And Why It's Not What You've Been Told)*
 
 You have already met a version of "terms," and that version forces the School of the Bridge to define the word before it can use it.
 
@@ -203,7 +204,7 @@ One part of this belongs specifically to this reader, and it explains why the ax
 ---
 
 ## Section 4: The Practice
-### *The Five Channels — How the Diplomat Actually Works*
+### *The Five Modes — How the Diplomat Actually Works*
 
 *Emotional alchemy vocabulary: every move below carries a type label. **Dissatisfaction moves** alchemize a negative charge into a positive one. **Neutral channel moves** redirect a negative pattern into a neutral structure. **Satisfaction moves** amplify what is already working. If these terms are unfamiliar, Chapter 3 (The Shaman) has the full system.*
 
@@ -233,7 +234,23 @@ The draw is relational. Not solo. Pick a live field with actual people making it
 
 ---
 
-### Channel 1 — Bridge-Builder
+### EA Channel Alignment — How Each Mode Moves Energy
+
+The Diplomat's practice works across the full spectrum. Each bridging mode rests on a specific EA signal and its own alchemical arc:
+
+| Mode | EA Signal | Dissatisfaction → Satisfaction |
+|------|-----------|-------------------------------|
+| **Bridge-Builder** | Metal/Fear | Anxiety → Curiosity → **Wonder** (primary) / Stage-Fright → Authentic Presence |
+| **Translator** | Earth/Neutrality | Disagreement → Dialogue → **Peace** |
+| **Field-Holder** | Wood/Joy | Inclusion-performance → Genuine inclusion → **Bliss** |
+| **Repairer** | Water/Sadness | Rupture → Repair (moral equivalence → discerned equivalence) → **Poignance** |
+| **Integrative Negotiator** | Fire/Anger | Accommodation → Honest terms (resentful peace → agreement naming all stakes) → **Triumph** |
+
+Section 4 works each mode's full arc through in its five deep-dives, the dissatisfaction it carries and the alchemy that transmutes it. Calm is not the entry fee. Whatever you feel as you sit down, one of these five works with that feeling rather than around it.
+
+---
+
+### Mode 1 — Bridge-Builder
 
 The Bridge-Builder is the Diplomat's entry point: the mode through which contact happens, curiosity replaces judgment, and the people there let someone new in. It is the Diplomat's most fundamental skill and the one most easily distorted.
 
@@ -283,7 +300,7 @@ The Control move: ground the performance in actual feeling. *What is the actual 
 
 ---
 
-### Channel 2 — Translator
+### Mode 2 — Translator
 
 The Translator is the Diplomat's most cognitively demanding mode: the work of taking meaning from one camp and rendering it faithfully into terms another camp can actually receive. It requires the Translator to hold their own position lightly enough to truly hear what the other says, and to transmit it without contaminating it with their own biases.
 
@@ -348,7 +365,7 @@ Precision costs here: the containment structure takes extra effort, and it pays 
 
 ---
 
-### Channel 3 — Field-Holder
+### Mode 3 — Field-Holder
 
 The Field-Holder demands more sheer presence than any other Diplomat mode. The work is maintaining enough safety that difficult conversation remains possible, even when charge runs high, even when the ground shifts, even when everyone present wants to fight, flee, or freeze.
 
@@ -388,7 +405,7 @@ Staying spends real capacity. Naming that cost belongs to the holding, because u
 
 ---
 
-### Channel 4 — Repairer
+### Mode 4 — Repairer
 
 The Repairer is the Diplomat's deepest mode: the work of healing ruptures that have already occurred, restoring what was broken without pretending the break didn't happen. Unlike the Field-Holder who maintains safety, the Repairer rebuilds it after it has been lost.
 
@@ -426,7 +443,7 @@ The cost here is time. Real repair takes longer than performance repair, and tha
 
 ---
 
-### Channel 5 — Integrative Negotiator
+### Mode 5 — Integrative Negotiator
 
 The Integrative Negotiator is the Diplomat's closing mode, the Fire/Anger application at the Diplomat's altitude. The Challenger's line in the sand does different work, and so does the Regent's decree. This mode surfaces what each party protects, translates positions into interests, and closes toward terms the field can actually live with. Bridge, translate, hold, repair, and then **negotiate**. Heard *and* something moves.
 

@@ -369,15 +369,15 @@ The Regent's practice is generational, not moment-to-moment. Energy still flows.
 | **The Reformer** | Fire/Anger | Rigidity → Integrity → **Triumph** |
 | **The Keeper of Vows** | Metal/Fear | Dogma → Faithfulness → **Wonder** |
 
-**The Custodian** (Earth/Neutrality): Caring for what exists begins as a surrender: you did not choose this. The alchemy moves obedience (compliance) into true allegiance (chosen loyalty). You are not carrying this because you have to. You are carrying it because you said yes to it. The shift from obligation to choice converts the Neutral channel's heaviness into the spaciousness of genuine stewardship.
+**The Custodian** (Earth/Neutrality): Surrender comes first: you did not choose this. The alchemy moves obedience (compliance) into true allegiance (chosen loyalty). You are not carrying this because you have to. You are carrying it because you said yes to it. The shift from obligation to choice converts the Neutral channel's heaviness into the spaciousness of real stewardship.
 
-**The Inheritor** (Water/Sadness): Receiving includes receiving the damage. Every inheritance carries the wound of its origin. The sadness of *I didn't ask for this* becomes the gift when you stop blaming the inheritance and start sorting it. What was shame becomes medicine when you can say: *This part was never mine to carry. This part is mine to pass.*
+**The Inheritor** (Water/Sadness): The sadness of *I didn't ask for this* becomes the gift when you stop blaming the inheritance and start sorting it. What was shame becomes medicine when you can say: *This part was never mine to carry. This part is mine to pass.*
 
-**The Teacher** (Wood/Joy): Passing it forward requires vitality, the aliveness of knowing that what you carry matters. The shift from duty to service moves the energy from obligation into the pleasure of genuine transmission. The Teacher does not lecture. The Teacher passes it on in a form the next person can actually receive.
+**The Teacher** (Wood/Joy): The Teacher runs on vitality, the aliveness of knowing that what you carry matters. The shift from duty to service moves the energy from obligation into the pleasure of transmission. The Teacher does not lecture.
 
-**The Reformer** (Fire/Anger): Changing the tradition while honoring the lineage requires the fire of conviction, the willingness to say *this part no longer serves* without becoming the enemy of what came before. Rigidity (holding form because it's old) alchemizes into integrity (holding form because it works). The Reformer loves the tradition enough to change it.
+**The Reformer** (Fire/Anger): The Reformer needs the fire of conviction: the willingness to say *this part no longer serves* without becoming the enemy of what came before. Rigidity (holding form because it's old) alchemizes into integrity (holding form because it works).
 
-**The Keeper of Vows** (Metal/Fear): Honoring commitment across time, when no one watches, becomes the silent practice. Dogma (the rote performance of loyalty, and what fear does to a vow: hold the form and you cannot lose what is inside it) alchemizes into faithfulness (the lived commitment). The Keeper does not need to be seen. The Keeper needs to be steady. The Metal channel's discernment becomes the foundation for everything else the Regent builds. Fury at what you inherited does not disqualify you. One of these five carries the inheritance forward on exactly that fire.
+**The Keeper of Vows** (Metal/Fear): Fear turns a vow into dogma, the rote performance of loyalty: hold the form and you cannot lose what is inside it. Dogma alchemizes into faithfulness, the lived commitment, practised where nobody watches. The Keeper does not need to be seen. The Keeper needs to be steady. The Metal channel's discernment becomes the foundation for everything else the Regent builds. Fury at what you inherited does not disqualify you. One of these five carries the inheritance forward on exactly that fire.
 
 ---
 
