@@ -602,7 +602,7 @@ Your group carries a story about where it came from and who it has been, and tha
 
 You know what your Fixer is for now. That is what you take out.
 
-Theirs is doing the same job in a Forest you cannot see into. A stranger's Fixer is holding something in place on purpose, and they will not always tell you which thing, or why. Repair what they chose to keep and the door shuts, however broken it looked from outside.
+Theirs is doing the same job in a Forest you cannot see into. A stranger's Fixer is holding something in place on purpose, and they will not always tell you what they are holding, or why. Repair what they chose to keep and the door shuts, however broken it looked from outside.
 
 ---
 
@@ -675,7 +675,7 @@ The parable showed one of the four: Skillful Organizing, the Regent building the
 
 The inheritance has four domains, and one cheap habit that is none of them. The cheap habit is the reform that postpones the commitment. You see what is wrong with what you were handed, name it accurately, and name it as a condition: this has to change before I can carry it. Most of those conditions are correct, and each is defensible on the day you say it. It costs nothing, because real reform spends loyalty you earned by carrying something, and you have not carried anything yet. One cycle of it never reads as a refusal, which is how it runs for a decade without once showing up as a decision anybody made. A second habit runs beside the first and looks like its opposite: rather than commit, you supply. The continuity the structure cannot generate becomes yours, held in your head, and from outside that reads as devotion. Neither one accepts anything. The four domains are where the accepting shows: the inheritance claimed to the people who hold it with you, the reason said out loud while somebody still knows it, the hours asked for so one body stops being the structure, and the practice handed to a group in a shape it can run without you. Each costs more than a repair, because each puts your name against something you have agreed is yours.
 
-These are not four things to study. Pick where you'll spend the inheritance this week, and pick the domain you keep avoiding. If what you were handed only ever gets improved, one more cycle at a time, you did not make the Regent's move. You maintained it.
+These four are not a syllabus. Pick where you'll spend the inheritance this week, and pick the domain you keep avoiding. If what you were handed only ever gets improved, one more cycle at a time, you did not make the Regent's move. You maintained it.
 
 ### How to Carry It So It Outlives You
 

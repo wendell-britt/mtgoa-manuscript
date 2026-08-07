@@ -463,7 +463,7 @@ The Emotional Body developed does what nothing else in this chapter can do: it t
 
 That is the Strategist. Look back at the modes table and notice what the Strategist runs on: Fire, anger, resolving to triumph. Momentum is not a calculation. Nobody has ever found the leverage point in a spreadsheet. You find it by feeling where the system is straining, where the workaround has already been invented by somebody who was not asked, where the pressure has built to the point that one push will do what a year of argument could not. Every one of those is a reading before it is a finding. An Architect who has converted their signal into structure on arrival can still produce the analysis. What they lose is timing, the sense of *now.* That is the entire content of the Strategist, and it is not recoverable from data.
 
-So the map is the artifact, and you already know how to make one. This chapter trains the Strategist: knowing where the push goes and when to make it, and then, because you also know what the map is for, building the thing so the next person can run it without you. Structural generosity is the intent. Timing is what makes it arrive on a day it can still matter. A beautiful blueprint delivered eighteen months after the pressure released is not generous. It is just correct.
+So the map is the artifact, and you already know how to make one. This chapter trains the Strategist: knowing where the push goes and when to make it, and then, because you also know what it is for, building the map so the next person can run it without you. Structural generosity is the intent. Timing is what makes it arrive on a day it can still matter. A beautiful blueprint delivered eighteen months after the pressure released is not generous. It is just correct.
 
 You know what your Emotional Body is for now. That is what you take out.
 
@@ -588,7 +588,7 @@ The parable showed one of the four: Skillful Organizing. The Architect designed 
 
 The design has four domains, and one cheap habit that is none of them. The cheap habit is the structural account: you say why the system keeps breaking, precisely, to people who mostly agree, and you stop one move short of what gets built instead. Reading a system that way is real skill, and it asks nothing of you, because nobody has ever needed courage to say *the system did it.* The account is also correct. The habit survives for years because no single instance of it looks like an evasion from inside, where each one looks like getting it right for the eleventh time. The four domains are where the design finally leaves the page: the condition changed where one person is standing in it, the load-bearing assumption said out loud at the table built on it, the cost moved off a person and into the budget, the machinery a group runs on handed to somebody who can change it. Each costs more than an account, because each puts something into the world with your name on it and somebody else's week inside it.
 
-These are not four things to study. Pick where you'll spend the design this week, and pick the domain you keep avoiding. If the design only ever gets explained, accurately, to people who were never going to have to build it, you did not make the Architect's move. You drafted it.
+These four are not a syllabus. Pick where you'll spend the design this week, and pick the domain you keep avoiding. If the design only ever gets explained, accurately, to people who were never going to have to build it, you did not make the Architect's move. You drafted it.
 
 ### How to Build It So It Runs
 

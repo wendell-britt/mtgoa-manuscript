@@ -16,7 +16,7 @@ Every one of those is reaching for something real. Look at what they run on. Say
 
 Ken Wilber named this confusion, and his name for it is the most useful idea I can hand you before chapter one. He calls it the pre/trans fallacy. Two very different positions sit on either side of the conventional middle: one that has not reached the rules yet, and one that has been through them and come out the far side. From inside the middle, the two look identical.
 
-Harm reduction is where that costs the most. One person hands out clean needles and gets called an enabler. Another runs a session that leaves a whole team uncomfortable for a week and gets called harsh. One of them may be careless and one may be doing the only thing that moves anybody, and the rules cannot tell, because the only thing the rules measure is whether somebody flinched. The magic and the dominance from a moment ago pass that same test, since both of them use the right words. So the rules defend in both directions at once, and the believer pays for the defense.
+Harm reduction is where that costs the most. One person hands out clean needles and gets called an enabler. Another runs a session that leaves a whole team uncomfortable for a week and gets called harsh. One of them may be careless and one may be doing the only work that moves anybody, and the rules cannot tell, because the only measure the rules have is whether somebody flinched. The magic and the dominance from a moment ago pass that same test, since both of them use the right words. So the rules defend in both directions at once, and the believer pays for the defense.
 
 That is how allyship manages to produce exhausted people and unhelped people at the same time, out of the same instructions, for a decade.
 

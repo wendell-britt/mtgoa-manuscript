@@ -600,7 +600,7 @@ That is the Disruptor's foundation. This chapter trains it as the willingness to
 
 You know what your auditor is for now. That is what you take out.
 
-Theirs is doing the same job in a Forest you cannot see into. A stranger's Skeptic is an auditor somebody fooled once, so confidence is the one thing it will not take as evidence. What you admit you do not know is the cheapest clearance available anywhere in this book.
+Theirs is doing the same job in a Forest you cannot see into. A stranger's Skeptic is an auditor somebody fooled once, so confidence is the one signal it will not take as evidence. What you admit you do not know is the cheapest clearance available anywhere in this book.
 
 ---
 
@@ -723,11 +723,11 @@ The moves are what you do. The next question is where.
 
 ### Where You'll Actually Spend the Line
 
-The parable showed one of the four: Skillful Organizing, the Challenger speaking first at councils, saying the thing that needed saying before anybody could bear to hear it. That is the domain where a line stops belonging to you and starts holding a group up.
+The parable showed one of the four: Skillful Organizing, the Challenger speaking first at councils, saying what needed saying before anybody could bear to hear it. That is the domain where a line stops belonging to you and starts holding a group up.
 
 The line has four domains, and one cheap habit that is none of them. The cheap habit is the assessment. You see exactly what is wrong, you name it accurately, more accurately than anyone else at the table, and nothing in the world moves. An assessment costs nothing, because being right is not a position anybody has to argue with. It also feels almost identical to courage from the inside. That is why it lasts for years. The four domains are where the line finally lands: the limit said to the person crossing it, the truth named where naming it costs you, the no said in your own name, and the boundary a group has been negotiating around for months. Each costs more than an assessment, because each one puts something on the table that somebody now has to answer.
 
-These are not four things to study. Pick where you'll spend the line this week, and pick the domain you keep avoiding. If the line only ever arrives as analysis, delivered well, to people who already agree with you, you did not make the Challenger's move. You described it.
+These four are not a syllabus. Pick where you'll spend the line this week, and pick the domain you keep avoiding. If the line only ever arrives as analysis, delivered well, to people who already agree with you, you did not make the Challenger's move. You described it.
 
 ### How to Draw It So It Holds
 

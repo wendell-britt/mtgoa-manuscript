@@ -438,11 +438,11 @@ That is projection, and it is the trickiest move in shadow work: the parts you h
 
 Six of Imani's seven stand behind the seventh. Her Protector works the door the way yours does. You get past it or you do not, and how far it lets you in decides which of the other six you ever get near. That distance is your **clearance**, and it is the only currency on this side of the floor.
 
-A Protector holds one shape, the shape of whatever got through before, set by a history you were not there for. It does not think about you; it checks you against the shape. Move like the thing that cost Imani and it fires, regardless of your intention, stated or otherwise.
+A Protector holds one shape, the shape of whatever got through before, set by a history you were not there for. It does not think about you; it checks you against the shape. Move like the one who cost Imani and it fires, regardless of your intention, stated or otherwise.
 
-Playing above your clearance is a major error, and your character has nothing to do with it. It usually has an author, and the author is your Controller: it believes it knows the better standard. So you arrive with a higher bar than Imani asked for, or a bar pointing somewhere she was not going, and either one is more than she can metabolize today. The Fixer three solutions deep does the same thing, arriving past a door that never opened.
+Playing above your clearance is a major error, and your character has nothing to do with it. It usually has an author, and the author is your Controller: it believes it knows the better standard. So you arrive with a higher bar than Imani asked for, or a bar pointing somewhere she was not going, and either one is more than she can metabolize today. The Fixer three solutions deep makes the same error, arriving past a door that never opened.
 
-You can go over the wall anyway. People do it every day, and once in a while it is the only thing left. What you do not get to do is go over it and call it help. From the middle those two look the same, and most people will punish both.
+You can go over the wall anyway. People do it every day, and once in a while it is the only move left. What you do not get to do is go over it and call it help. From the middle those two look the same, and most people will punish both.
 
 You are already equipped for her door, because you have started befriending your own. Your job is not to get past Imani's Protector. **Your job is to ally with it**, the same way you allied with yours: you do not fight it, you do not shove past it, you thank it and you help it tell a real threat from a social one. On her door that becomes a slower approach and a smaller ask.
 

@@ -752,7 +752,7 @@ The parable showed one of the four: Direct Action. Once, in a hard moment, one v
 
 The close has four domains, and one cheap habit that is none of them. The cheap habit is the ledger kept and never closed. You hold an exact account of what your staying costs and never read it to anybody who could do something about it. Keeping the count is real skill, and the part of you that does it stays. It also asks nothing of you, because nobody ever has to watch you get the column wrong. Nobody declines a price they were never quoted. That is why it survives for years, gaining accuracy the whole time. The four domains are where the account finally gets read out: the terms said to the person they bind, the cost of the arrangement named where it gets set, what your staying requires asked for while somebody can still grant it, and the agreement a group has been running without. Each costs more than the ledger, because each hands the field what a private column withholds: the chance to say no.
 
-These are not four things to study. Pick where you'll spend the close this week, and pick the domain you keep avoiding. If the terms only ever get said in the car on the way in, or to a friend with no power to grant them, you did not make the Diplomat's move. You rehearsed it.
+These four are not a syllabus. Pick where you'll spend the close this week, and pick the domain you keep avoiding. If the terms only ever get said in the car on the way in, or to a friend with no power to grant them, you did not make the Diplomat's move. You rehearsed it.
 
 ### How to Close It So It Holds
 
