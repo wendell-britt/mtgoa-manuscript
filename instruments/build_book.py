@@ -138,9 +138,13 @@ MARGINALIA = re.compile(
 #
 # Stripped only inside the header block — above the first `---` rule — so a
 # legitimate bolded label in body prose is never touched.
+# `Book body` added 2026-08-01. It was the one provenance key not on this list, and it
+# reached build/ carrying a trailing editorial note -- "Renumbered 2026-07-29 — the old
+# figures were 0-indexed and disagreed with `ch3.md:545`" -- addressed to us and printed
+# for the reader. Same defect this list was written to close, one key short.
 META_KEY = re.compile(
     r"^\*\*(Status|Authority|Location in book|Timing dependency|Depends on|"
-    r"Blocked by|Revised|Ported|Type|Source|Created):\*\*.*$", re.M)
+    r"Blocked by|Revised|Ported|Type|Source|Created|Book body):\*\*.*$", re.M)
 
 
 def strip_provenance(text):

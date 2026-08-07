@@ -67,6 +67,8 @@ BORROWED = [
     # the audit reported 0 uncredited because it had never been told whose model it
     # is. Their word is `ability`; the book says `capability`, so both are matched.
     (r"integrity and benevolence|benevolence", "Mayer"),
+    # Added 2026-08-03 with ch1:50. Wendell: "go ahead and cite selligman."
+    (r"learned helplessness", "Seligman"),
     (r"big mind", "Merzel|Genpo"),   # he is credited by his teaching name in ch8
     (r"genius demon ally", "Rice"),
     (r"existential kink", "Elliott"),

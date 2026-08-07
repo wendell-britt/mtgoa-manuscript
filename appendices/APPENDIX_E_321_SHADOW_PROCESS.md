@@ -3,7 +3,7 @@
 **Status:** Reader appendix — promoted from reference 2026-06-03 (appendix-ordering pass). Content relocated from pre-compression Ch2 (2026-05-24).
 **Authority:** `CH3_321_PHASE2_SPEC.md` Part G
 **Location in book:** After Appendix D; before Appendix F. Toolkit cluster (C/D/E/F), before the bibliography.
-**Book body:** Phase 1 catalog in Chapter 3; **first practice in Chapter 4** (Challenger / oppressor projection). Renumbered 2026-07-29 — the old figures were 0-indexed and disagreed with `ch3.md:545`.
+**Book body:** Taught and first practised in Chapter 3; run again in every chapter after it. Renumbered 2026-07-29 — the old figures were 0-indexed and disagreed with `ch3.md:545`.
 
 ---
 
@@ -15,7 +15,7 @@ The WAVE-Spiral works with charge you're already feeling in your body — fear i
 
 That charge is projection, which is shadow work waiting to happen.
 
-The **3-2-1 practice** is how you metabolize it. Three vantage points. One charged figure. You move from observing it, to talking with it, to owning it — and the energy that was leaking out through judgment comes back into your system, available for the WAVE-Spiral to use.
+The **3-2-1 practice** is how you metabolize it. Three vantage points. One charged figure. You move from observing it, to talking with it, to being it — and the energy that was leaking out through judgment comes back into your system, available for the WAVE-Spiral to use.
 
 This is not abstract therapy. It is a diagnostic move. It tells you which part of you is running the show when you think you're responding to them.
 
@@ -53,7 +53,7 @@ If you get stuck, use the six unpacking questions: *What do you want? What do yo
 
 ---
 
-### Step 1 — Own It (First Person)
+### Step 1 — Be It (First Person)
 
 **Pronoun:** *I*
 
@@ -73,7 +73,7 @@ Work the sequence once, on paper or out loud:
 
 1. **3 — Face it:** Third-person description. Two paragraphs. Include what your body does when this figure appears.
 2. **2 — Talk to it:** At least three exchanges. You ask; it answers. Let the answer surprise you.
-3. **1 — Own it:** First-person statement from the part. One paragraph minimum. No distancing language ("I notice that part of me..."). Speak as it.
+3. **1 — Be it:** First-person statement from the part. One paragraph minimum. No distancing language ("I notice that part of me..."). Speak as it.
 
 When you're done, sit for thirty seconds. Notice whether the charge moved — up, down, sideways, into clarity. That somatic shift is the receipt. The energy is back in your system.
 
@@ -110,5 +110,5 @@ This process is for **alliance-work projection** — charge outsourced to a figu
 | Stuck because… | Tool |
 |----------------|------|
 | Charge is in a *person* | 3-2-1 (Chapter 3 first practice) |
-| Stuck between two *rights* | Polarity Map (Chapter 4 → Chapter 6) |
+| Stuck between two *rights* | Polarity Map (Chapter 3, and every chapter after) |
 | Charge is in *body* now | WAVE-Spiral |

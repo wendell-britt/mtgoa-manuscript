@@ -76,6 +76,37 @@ def draft(paths):
         if "new_prose" in path and "\n---\n" in text:
             text = text.rsplit("\n---\n", 1)[1]
         print("\n%s %s" % ("=" * 4, path))
+
+        # STEP 0 WAS MISSING FROM THIS FUNCTION UNTIL 2026-08-02, and it is the step this
+        # file's own docstring lists first.
+        #
+        # `marginalia/review.py` owns say-the-noun, AI shapes and hedges, and its docstring
+        # reads "Run BEFORE any draft is shown to Wendell." `book()` called it. `draft()`
+        # never did — so the only check that catches a withheld noun ran exclusively AFTER
+        # the prose had already landed in the manuscript.
+        #
+        # Wendell 2026-08-02, on `Froze. Said the thing.` reaching him in a draft that had
+        # been reported clean: "I swear to god. We HAVE to stop using this phrasing. WE have
+        # rules against this. Did you run any of the reviews? ... What do I need to do to
+        # stop having to make this correction?"
+        #
+        # Nothing, is the answer. The rule existed, the linter fired on that exact sentence,
+        # and the draft path did not call it. `MANUSCRIPT_FILE_CANON:240` records that
+        # `the thing` appears 132 times in this manuscript and is the same defect
+        # `review.py` reports as say-the-noun.
+        #
+        # A BLOCK counts here, unlike in `book()`. Book-wide it is a candidate to
+        # adjudicate against prose already ruled; on a draft it means fix it before showing
+        # anyone, which is what the linter's own legend says.
+        code, out = run(["marginalia/review.py", path])
+        nblock = len([l for l in out.split("\n") if l.strip().startswith("[BLOCK]")])
+        print("  0 voice   %s" % ("clean" if not nblock else "%d BLOCK" % nblock))
+        for l in out.split("\n"):
+            if l.strip().startswith("say the noun:") or l.strip().startswith("hedge:") \
+                    or l.strip().startswith("ai shape:"):
+                print("        %s" % l.strip()[:96])
+        bad += nblock
+
         hits = []
         for name, pat, flags in COUNTERS:
             for m in re.finditer(pat, text, flags):
@@ -104,7 +135,16 @@ def draft(paths):
                 if l.strip():
                     print("            HEAVY %s" % l.strip())
                     bad += 1
-        print("  7 slop    run /no-ai-slop by hand, then re-run this")
+        # STEP 7 on a draft, added 2026-08-03, and it belongs here more than book-wide.
+        # `specs/MANUSCRIPT_FILE_CANON.md:240` logged "`the thing` appears 132 times in this
+        # manuscript" and ruled it "a candidate finder, never a gate." Wendell overruled
+        # that: "we've got to solve this definite article issue once and for all. It's the
+        # new AI slop issue that our passes are creating faster than we can get rid of
+        # them." A finder nobody gates on is how a count sits in canon for weeks.
+        code, out = run([os.path.join(HERE, "empty_head.py"), path])
+        row = [l for l in out.split("\n") if os.path.basename(path)[:14] in l]
+        print("  7 head    %s" % (row[0].strip() if row else "no score"))
+        print("  8 slop    run /no-ai-slop by hand, then re-run this")
     return bad
 
 
@@ -117,6 +157,11 @@ def book():
         ("4 seam      ", ["instruments/seam_sweep.py", "--quiet"], None),
         ("5 citations ", ["instruments/citation_audit.py"], None),
         ("6 round-trip", ["marginalia/compile.py", "--verify"], "byte-identical"),
+        # Added 2026-08-03. Wendell: "we've got to solve this definite article issue once
+        # and for all. It's the new AI slop issue that our passes are creating faster than
+        # we can get rid of them." Reports rather than gates while the standing 266 sites
+        # are worked; `empty_head.py --strict` is the promotion path.
+        ("7 empty head", ["instruments/empty_head.py"], "reporting only"),
     ]
     bad = 0
     for label, cmd, want in steps:
@@ -125,9 +170,30 @@ def book():
         # marginalia/review.py exits 1 on a BLOCK finding, which is a candidate to
         # adjudicate rather than a build failure, so it reports rather than fails.
         ok = (want in out) if want else (code == 0 or "review.py" in cmd[0])
+        # DIET IS A SPECIAL CASE, and it was silently broken until 2026-08-02.
+        #
+        # prose_diet.py exits 0 whatever it finds — heaviness is a candidate, not a build
+        # failure — so this loop marked it `ok`, and `tail` printed **only the last line of
+        # the heavy block** as if that line were the summary. On the day this was found the
+        # book had three heavy counters and the step reported one of them, over the word ok.
+        #
+        # Exactly the failure the comment forty lines up describes, in the other half of the
+        # same file: `draft()` was taught to parse the heavy block and `book()` never was.
+        # A step that cannot fail reads the same as a step that passed.
+        if "diet" in label:
+            heavy = ([l.strip() for l in out.split("\nheavy:")[1].split("\n") if l.strip()]
+                     if "\nheavy:" in out else [])
+            ok = not heavy
+            bad += len(heavy)
+            print("  %s %-4s %s" % (label, "ok" if ok else "LOOK",
+                                    "%d heavy" % len(heavy) if heavy else "all counters "
+                                    "within baseline"))
+            for l in heavy:
+                print("               HEAVY %s" % l)
+            continue
         bad += 0 if ok else 1
         print("  %s %-4s %s" % (label, "ok" if ok else "LOOK", tail))
-    print("\n  7 slop       run /no-ai-slop on anything written today")
+    print("\n  8 slop       run /no-ai-slop on anything written today")
     return bad
 
 

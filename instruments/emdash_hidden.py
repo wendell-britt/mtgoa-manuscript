@@ -84,6 +84,10 @@ SINGLES = {
 "ch7.md": [
  ("The fire doesn't go out — it becomes a fireplace instead of a wildfire.",
   "The fire doesn't go out. It becomes a fireplace instead of a wildfire."),
+ # STALE 2026-08-04. Both halves of this pair now read "produced before you spoke": Wendell
+ # ruled the half-second out of the two BAR prompts as needless precision, the sentence four
+ # lines up having already named the unit. The migration ran on 2026-07-31 and the colon is in
+ # the manuscript, so this is a record rather than a pending edit; re-running it is a no-op.
  ("Name what the ledger produced in the half-second before you spoke — the entry, not the feeling",
   "Name what the ledger produced in the half-second before you spoke: the entry, not the feeling"),
  ("*You named your terms in a real conversation — or you softened them",
@@ -92,6 +96,7 @@ SINGLES = {
   "that sounds aligned but isn't yet specific, the Translate move carries the structure"),
 ],
 "ch8.md": [
+ # STALE 2026-08-04, same ruling as the ch7 pair above.
  ("Name what the Damaged Self produced in the half-second before you spoke — the reading about yourself",
   "Name what the Damaged Self produced in the half-second before you spoke: the reading about yourself"),
  ("*You saw the thing — and you named it and stayed,",

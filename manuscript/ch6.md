@@ -26,7 +26,7 @@
 >
 > **2. Capability conferred.** Location of the point at which a system produces the outcome it
 > produces. Not the person standing at that point. The point. In practice the consequence
-> arrives about a season later: people stop apologising for things that were never theirs,
+> arrives about a season later: people stop apologising for what was never theirs,
 > because the apology has stopped being accepted.
 >
 > **3. Cost.** Tolerance, stated. This training holds to roughly the third redesign. Past
@@ -63,7 +63,7 @@
 
 There was a time when the Architect lived in the village.
 
-Inside it. One of them. The Architect drew the first map, looked at the chaos of how things got done and said *wait. I see something. There's a structure here. There's a pattern. If we understand the pattern, we can change the pattern.*
+Inside it. One of them. The Architect drew the first map, looked at the chaos of how work got done and said *wait. I see something. There's a structure here. There's a pattern. If we understand the pattern, we can change the pattern.*
 
 The village listened, at first, because the maps worked. The Architect could look at a broken system and find the part that, if you changed it, would change everything else. The Architect could design the meeting format that actually produced decisions. The Architect could build the role that made accountability real. The Architect said *here is why this keeps breaking, and here is how to redesign it so it holds.*
 
@@ -98,7 +98,7 @@ The Architect had that capacity. The Architect had simply spent it elsewhere.
 
 One day, the Architect realized: the village had stopped asking for maps. The village had started working around the Architect, implementing half the design, ignoring the rest, treating the Architect's clarity as a form of unwanted light. The village used the Architect for outputs and kept the Architect out of decisions. The Architect had become a tool.
 
-The choice came down to one thing: Become invisible and useful, or leave and remember who you were.
+The choice came down to this: Become invisible and useful, or leave and remember who you were.
 
 The Architect left.
 
@@ -115,21 +115,21 @@ After the Architect left, the village didn't stop needing systems.
 
 It just stopped understanding them.
 
-The village still built things. Still created roles and processes and meeting formats and accountability structures. Without the Architect to say *wait, before you build this, let me show you what it will actually produce*, the village built systems that looked correct and failed anyway. The village built planning processes that produced plans nobody followed. The village built accountability structures that nobody trusted. The village built meeting formats that everyone hated attending. The village built all of this with sincere effort and no structural clarity.
+The village still built. Still created roles and processes and meeting formats and accountability structures. Without the Architect to say *wait, before you build this, let me show you what it will actually produce*, the village built systems that looked correct and failed anyway. The village built planning processes that produced plans nobody followed. The village built accountability structures that nobody trusted. The village built meeting formats that everyone hated attending. The village built all of this with sincere effort and no structural clarity.
 
 Because the village had exiled the Architect (had decided that structural clarity meant coldness, that systems thinking meant not loving the people inside the systems) the village lost the ability to tell the difference between a system that worked and a system that merely looked like it worked.
 
 The village started mistaking motion for progress. Started treating activity as evidence of effectiveness. The village became very busy, very purposeful, very committed, and very unable to ask the one question the Architect always asked: *is this actually working?*
 
-The village also started doing something more damaging: it started using the Architect's own tools without the Architect's intent. The village learned to *describe* systems without *understanding* them. Learned to use words like *incentive structure* and *leverage point* without actually redesigning either. The village learned to have the vocabulary of structural thinking without the practice. The village could then dismiss structural insight with the vocabulary itself: *we already looked at the incentives, we're addressing the leverage points, we understand the systemic issues*, while continuing to do the same thing that had always produced the same failure.
+The village also started doing something more damaging: it started using the Architect's own tools without the Architect's intent. The village learned to *describe* systems without *understanding* them. Learned to use words like *incentive structure* and *leverage point* without actually redesigning either. The village learned to have the vocabulary of structural thinking without the practice. The village could then dismiss structural insight with the vocabulary itself: *we already looked at the incentives, we're addressing the leverage points, we understand the systemic issues*, while continuing to do what had always produced the same failure.
 
-The village does one thing with structural design once the Architect leaves: it transforms it into *aesthetic design.* Into systems that look sophisticated without functioning. Into the performance of systemic thinking, the language without the practice, and that costs more than having no language at all, because now the village has enough sophistication to dismiss genuine structural insight while believing it has already accounted for it.
+Once the Architect leaves, the village transforms structural design into *aesthetic design.* Into systems that look sophisticated without functioning. Into the performance of systemic thinking, the language without the practice, and that costs more than having no language at all, because now the village has enough sophistication to dismiss genuine structural insight while believing it has already accounted for it.
 
 The village did all of this without realizing it. It thought itself holistic. It thought itself comprehensive. What it actually did: run on good intentions with no understanding of why good intentions kept producing mediocre outcomes.
 
-The Architect's exile leaves one distortion behind: the village learned to fear its own clarity. Learned to treat the asking of structural questions as a form of judgment. Started to say things like *we don't need to overthink this*, another way of saying *we're afraid of what we'll find if we look too closely.* That fear had grounds. That fear had earned its place. Because without the Architect's discipline, structural examination tends to become structural blame. Structural blame costs more than structural ignorance, because at least a question cures ignorance. Blame builds a system that protects itself by preventing anyone from asking the question.
+The Architect's exile leaves one distortion behind: the village learned to fear its own clarity. Learned to treat the asking of structural questions as a form of judgment. Started saying *we don't need to overthink this*, another way of saying *we're afraid of what we'll find if we look too closely.* That fear had grounds. That fear had earned its place. Because without the Architect's discipline, structural examination tends to become structural blame. Structural blame costs more than structural ignorance, because at least a question cures ignorance. Blame builds a system that protects itself by preventing anyone from asking the question.
 
-The village didn't realize any of this. It thought itself practical. What it actually did: starve itself of the one thing it needed most: someone willing to look at the system honestly, without judgment, and say *here is why this keeps breaking, and here is how to fix it.*
+The village didn't realize any of this. It thought itself practical. What it actually did: starve itself of what it needed most: someone willing to look at the system honestly, without judgment, and say *here is why this keeps breaking, and here is how to fix it.*
 
 ---
 
@@ -154,7 +154,7 @@ I ask first now. In practice I am slower at asking than at designing. The asking
 
 If that proposition holds in your experience, it has a consequence worth naming. In a system that does not hold, somebody has to close the gap, and that somebody is always a person with presence to spend. More relational attentiveness. More of themselves in the seam. The cost does not show up in any report, because the report says the process worked, and it did work, on the backs of whoever paid the difference. That names a design outcome, not a character outcome. No amount of caring more will change it, because caring more works as the mechanism by which the broken structure keeps functioning.
 
-The Architect who turns a relational field into a leverage point and a living thing into a KPI has already lost the reason the design mattered. Exiling that one makes sense. The discipline goes out with it, and the discipline is the only thing that keeps a relational field from becoming a leverage point in the first place.
+The Architect who turns a relational field into a leverage point and a living relationship into a KPI has already lost the reason the design mattered. Exiling that one makes sense. The discipline goes out with it, and the discipline is what keeps a relational field from becoming a leverage point in the first place.
 
 The Architect's actual practice builds the map that makes you unnecessary. *Here's what you're doing wrong* is a critique. *Here's how the system should work* is a lecture. *Here's a path you can follow without me* is a map.
 
@@ -162,7 +162,7 @@ That's structural generosity.
 
 The five modes, the stage sequence, the part of you that feels the system before it models it, those show what structural clarity looks like when it has not lost the love at its center. Not optimization theater. A practice for the person who already holds the relational field and needs the blueprint underneath it.
 
-Somewhere in the training you will recognize a design failure. A process that looked correct and failed anyway. An accountability structure nobody trusted. A meeting format that produced nothing and cost everyone something. The School of the Pattern makes the same claim about all of them: the structure did exactly what it got built to do, and that was the wrong thing. Not who failed it. Why it could not have done otherwise.
+Somewhere in the training you will recognize a design failure. A process that looked correct and failed anyway. An accountability structure nobody trusted. A meeting format that produced nothing and cost everyone something. The School of the Pattern makes the same claim about all of them: the structure did exactly what it got built to do, and that was the problem. Not who failed it. Why it could not have done otherwise.
 
 Doing the right thing in the wrong system is a specific kind of expensive. The Architect starts by recognizing it as a system problem rather than an effort problem.
 
@@ -190,13 +190,13 @@ At the deepest level, it works like this:
 
 Call this an engineering fact rather than a metaphor. It has profound implications for allyship.
 
-Because allyship poses a problem of system design before it poses a problem of individual behavior. Good people do harmful things because the system they're inside rewards harmful behavior and punishes the alternative. Change the system and you change the behavior, not by convincing the person to be better, but by making the better behavior the easier behavior. That's structural design. That's the Architect's practice.
+Because allyship poses a problem of system design before it poses a problem of individual behavior. Good people do harm because the system they're inside rewards harmful behavior and punishes the alternative. Change the system and you change the behavior, not by convincing the person to be better, but by making the better behavior the easier behavior. That's structural design. That's the Architect's practice.
 
 Most people learned to interrupt this logic. To say *but people should just know better. People should just choose differently. Culture is about individual accountability.* While individual accountability matters, it works as a moral appeal rather than a system design strategy. Moral appeals work until the system incentivizes something else. Then they stop working. The people who made the moral appeal wonder why nobody listened, when the answer comes simple: the system was louder than the appeal.
 
 Real structural design works differently. Real structural design means looking at the system you're inside and asking: *what is this system actually rewarding? Is that what I want it to reward? If not, where is the actual leverage point for change?*
 
-Then (here comes the part most people skip) *and now: how do I redesign the system so the right thing becomes the thing that actually gets done?*
+Then the question that finishes it: *and now: how do I redesign the system so the right thing becomes the thing that actually gets done?*
 
 That's the Architect's practice: the redesign, one step past the analysis. *Here's why this keeps breaking* stops one move short of *here's what we build instead.*
 
@@ -208,24 +208,11 @@ The Architect's pair: the structure that produces the outcome versus the agency 
 
 **Structure** says the design did this. People do what they are incentivized to do, the system is working exactly as built, and if you want different behavior you change the conditions rather than lecturing the person. That case is the spine of the School of the Pattern, and it holds.
 
-**Agency** says the person chose. Somebody with the same incentives, in the same seat, on the same day, does the other thing, and the fact that they can is not a rounding error in the model. It is the whole reason any of this is worth doing. A system that could not be defied would not need allies. Every account of a person who broke ranks at cost is an account of Agency, and no incentive map predicts them.
+**Agency** says the person chose. Somebody with the same incentives, in the same seat, on the same day, chooses otherwise, and the fact that they can is not a rounding error in the model. It is the whole reason any of this is worth doing. A system that could not be defied would not need allies. Every account of a person who broke ranks at cost is an account of Agency, and no incentive map predicts them.
 
 You can picture the failure at each end. Structure without Agency builds a machine that treats people as inputs, gets the throughput it designed for, and cannot understand why nobody inside it will meet its eye. It also produces the most comfortable sentence in the discipline (*the system did it*), true, and nobody has ever needed courage to say it. Agency without Structure blames individuals for outcomes the design guarantees, burns through good people looking for better ones, and watches the same failure arrive every eighteen months with a new name attached.
 
 The pair gets specific for the student the School of the Pattern attracts. The suspicion runs one direction. Agency language has warnings attached to it at this altitude, and rightly: *personal responsibility* has done a great deal of work for people who wanted nothing to change. Structure language has none. It arrives sounding like analysis, like sophistication, like the opposite of blame. So the drift runs toward a structural account of every situation you were personally in, the one account that never requires you to have been there as a person. In practice it is cruelty, specified as rigour.
-
-Neither pole is the answer. The position takes a judgment call every time, and only a directional diagnostic works.
-
-**Situational draw: Structure ↔ Agency**
-
-Take the last workplace failure you explained to somebody.
-
-1. Write the explanation you gave, in one sentence.
-2. Mark it: Structure, Agency, or both.
-3. Now do the same for the four before it.
-
-Five marks. Read the column, not any single row. A run of five in one direction
-is not five judgments. It is one habit, applied five times.
 
 <!-- SIGNATURE -->
 > the fourth treatise, submitted by Irix Vale, Patternwright,
@@ -252,7 +239,7 @@ is not five judgments. It is one habit, applied five times.
 
 One piece of vocabulary in this chapter is borrowed and load-bearing, so here is whose it is. *Leverage point* is Donella Meadows'. Her claim is that a system has places where a small, well-aimed push moves more than a large one, and that the obvious places are usually the weak ones. The phrase has since escaped into business language, where it means roughly nothing, and this chapter uses it in her sense throughout. Appendix G says where to read her.
 
-At the Architect's altitude, the native material is not emotion: it is *logic.* The raw material comes down to the relationship between cause and effect: the structures that produce outcomes, the leverage points that change systems, the mental models that explain why things are the way they are.
+At the Architect's altitude, the native material is not emotion: it is *logic.* The raw material comes down to the relationship between cause and effect: the structures that produce outcomes, the leverage points that change systems, the mental models that explain why systems are the way they are.
 
 This is not abstract theory. The Architect uses logic the way the Shaman uses emotion: as a living instrument for reading reality. A system is not working. The Architect asks: why does this system produce this outcome? Where is the smallest push that creates the largest movement?
 
@@ -276,6 +263,21 @@ Hand Off is also where the Architect most often walks away, and workload has not
 
 The five Architect modes are five ways logic moves through a problem. Each one works as a channel doing detection work.
 
+### Draw the Axis — Structure ↔ Agency
+
+Neither pole is the answer. The position takes a judgment call every time, and only a directional diagnostic works.
+
+Take the last workplace failure you explained to somebody.
+
+1. Write the explanation you gave, in one sentence.
+2. Mark it: Structure, Agency, or both.
+3. Now do the same for the four before it.
+
+Five marks. Read the column, not any single row. A run of five in one direction
+is not five judgments. It is one habit, applied five times.
+
+---
+
 ### EA Channel Alignment — How Each Mode Moves Energy
 
 | Mode | EA Signal | Dissatisfaction → Satisfaction |
@@ -288,15 +290,15 @@ The five Architect modes are five ways logic moves through a problem. Each one w
 
 The mapping answers the question this chapter gets asked most often: how a Face whose native material is logic belongs in a book built on emotional alchemy. The logic is what the Architect does with the signal. The signal is what tells the Architect there is anything to do. A failing system will leave you feeling one of the five, and a mode here runs on each of them. The Strategist wants your anger in particular.
 
-The **Mapmaker** runs on Metal. Fear is the channel that detects what could go wrong, and dread is that channel stuck, the break you can see coming and cannot name, so you carry it around instead of drawing it. Drawn, the same signal converts: the risk becomes a feature of the terrain rather than a thing waiting behind you. *I can explore.* That is why mapping a failure mode is a relief rather than a burden, and why a team that has named its risks moves faster than a team that hasn't.
+The **Mapmaker** runs on Metal. Fear is the channel that detects what could go wrong, and dread is that channel stuck, the break you can see coming and cannot name, so you carry it around instead of drawing it. Drawn, the same signal converts: the risk becomes a feature of the terrain rather than an ambush waiting behind you. *I can explore.* That is why mapping a failure mode is a relief rather than a burden, and why a team that has named its risks moves faster than a team that hasn't.
 
 The **Engineer** runs on Earth. Neutrality detects coherence (whether the parts add up to a whole) and stuck Neutrality is flatness, the shrug you give a system you have stopped believing will ever hold together. Working, the same channel produces the settledness of a structure that does not need you watching it. *I can rest.* You measure the Engineer's finished work by how little attention it requires afterward.
 
 The **Strategist** runs on Fire. Anger detects the gap between what is and what should be, and anger with nowhere to put it is the most common condition in this book's readership: accurate, chronic, and expensive. Aimed at a leverage point, it converts to Triumph. *I can act.* The Strategist is the mode that turns being right into something that happened.
 
-The **Inventor** runs on Wood. Joy detects vitality (what wants to exist and doesn't yet) and Joy stuck is the idea you keep having and never build, which curdles a little more each time it comes around. Built into a structure that can hold it, it becomes Bliss. *I can participate.* The thing you were only imagining now exists somewhere other than in you.
+The **Inventor** runs on Wood. Joy detects vitality (what wants to exist and doesn't yet) and Joy stuck is the idea you keep having and never build, which curdles a little more each time it comes around. Built into a structure that can hold it, it becomes Bliss. *I can participate.* What you were only imagining now exists somewhere other than in you.
 
-The **Optimizer** runs on Water. Sadness detects decay, the process that used to work and doesn't anymore, and stuck Sadness keeps the dead process running out of loyalty to the people who built it. Metabolized, it becomes Poignance: you can honor what a structure did and retire it in the same motion. *I can connect.* Most systems fail here, not from missing the decay, but from failing to feel the loss all the way through and so never letting the thing go.
+The **Optimizer** runs on Water. Sadness detects decay, the process that used to work and doesn't anymore, and stuck Sadness keeps the dead process running out of loyalty to the people who built it. Metabolized, it becomes Poignance: you can honor what a structure did and retire it in the same motion. *I can connect.* Most systems fail here, not from missing the decay, but from failing to feel the loss all the way through and so never letting it go.
 
 The five modes are also the five ways the Architect moves through the WAVE-Spiral at altitude. Wake: notice which mode fires and what it detects. Open: let the signal in before it becomes a proposal. Clean: locate where it landed, and stabilize there. Grow: find what the system has to teach. Show: move from the integrated understanding. Here the Architect's practice and the Shaman's emotional alchemy work together, not as two systems, but as one system seen from two altitudes.
 
@@ -318,11 +320,39 @@ The Architect does not need you to count what you shipped. The Architect needs y
 
 ---
 
+### 3-2-1 — Reclaim the One Who Named a Person
+
+Fluency in systems comes with a word for people who name a person instead of a structure. The word is usually *simplistic*. Notice what that word saves you from having to do.
+
+Solo, written or spoken, fifteen to twenty-five minutes.
+
+**Try this now.**
+
+*There is a part of me that is obsessed with trying to understand and fix systems so I don't have to show up to the problems right in front of me.* If that is not your charge, say the one that is.
+
+Its opposite already has a face in your head. Pick them. Someone who names a person where you would name a structure, who said *that was cruel* while you were still mapping the incentive. Not somebody you would defend in a meeting.
+
+**3 · FACE IT.** Two paragraphs, third person, as much detail as you can hold. How big is the charge, and where does it sit in you?
+
+**2 · TALK TO IT.** Greet them, then ask, and let them answer. Three exchanges at minimum.
+
+— *What do you see that I route around?*
+— *What are you protecting?*
+— *What would it cost me to say it as plainly as you do?*
+
+**1 · BE IT.** Speak as *I*, one paragraph, and say what you have to say about showing up as an ally.
+
+**RECEIPT.** Sit thirty seconds. Did the charge move?
+
+*Two minutes to capture it as a BAR.*
+
+---
+
 ### Name One Unstated Assumption, in the Village
 
 Everything above builds the instrument. One move takes it out of the Forest. Structural clarity, kept in your head, costs nothing, and risks nothing. The moment you say it out loud in front of the people who built the system, it costs something. That's the Architect's exile wound in miniature: clarity gets heard as judgment. This week, you say it anyway.
 
-Pick a group you're actually in (a team, a committee, a coalition) where everyone keeps busy solving the visible problem and nobody has named the thing underneath it: the load-bearing assumption nobody sees, because it has held true so long no one remembers deciding it. Then name it. Out loud. Not as a question you can retreat from (*"do we maybe want to think about whether…?"*), as a flat observation: *"We're assuming X. I don't think that's true anymore, and everything we're building sits on top of it."*
+Pick a group you're actually in (a team, a committee, a coalition) where everyone keeps busy solving the visible problem and nobody has named what is underneath it: the load-bearing assumption nobody sees, because it has held true so long no one remembers deciding it. Then name it. Out loud. Not as a question you can retreat from (*"do we maybe want to think about whether…?"*), as a flat observation: *"We're assuming X. I don't think that's true anymore, and everything we're building sits on top of it."*
 
 Then hold the flinch. Somebody will hear it as criticism: that's the cost, and you don't pay it by softening. You pay it by staying warm while you stay clear: *I'm not saying anyone failed. I'm saying the structure is doing exactly what it was built to do, and it was built for a world we're not in anymore.* That sentence carries the whole chapter: structural sight delivered as love instead of indictment.
 
@@ -335,11 +365,11 @@ Then hold the flinch. Somebody will hear it as criticism: that's the cost, and y
 
 You met the Emotional Body at the door of the Forest, fifth in line, one step past the Fixer. It does not belong in that line the way the others do.
 
-The Protector decides whether you go in. The Controller decides how you may behave once you get inside. The Skeptic decides whether what you react to was ever real. The Fixer decides whether the thing in front of you holds up well enough to deserve you. Four parts, four strategies, four different jobs. The Emotional Body is the thing all four strategies are strategies *about.* Every one of them manages something that arrived through it first.
+The Protector decides whether you go in. The Controller decides how you may behave once you get inside. The Skeptic decides whether what you react to was ever real. The Fixer decides whether what is in front of you holds up well enough to deserve you. Four parts, four strategies, four different jobs. The Emotional Body is what all four strategies are strategies *about.* Every one of them manages something that arrived through it first.
 
 The Emotional Body turns up everywhere for that reason, and it has kept turning up in this book since the Forest was first drawn. It is the instrument the roles argue with. No wonder it never gets a seat.
 
-At its best it is the finest sensor you own, and at the Architect's altitude it functions as the input stage rather than optional equipment. You already saw this in the five modes. The Mapmaker detects risk on Metal, which is fear. The Optimizer detects what has stopped working on Water, which is sadness. The Strategist detects where the movement is on Fire, which is anger. Take the Emotional Body out of the Architect and you do not get a colder Architect. You get an Architect with no readings, someone modeling a system on the basis of what the system says about itself. You can walk into an organization and know something has gone wrong under the third floor of the org chart before you have seen a single number. The Emotional Body registered it; the rest of you is still catching up. That is the first stage of the practice, running on time. Calling it intuition undersells it by a stage.
+At its best it is the finest sensor you own, and at the Architect's altitude it functions as the input stage rather than optional equipment. You already saw this in the five modes. The Mapmaker detects risk on Metal, which is fear. The Optimizer detects what has stopped working on Water, which is sadness. The Strategist detects where the movement is on Fire, which is anger. Take the Emotional Body out of the Architect and you do not get a colder Architect. You get an Architect with no readings, someone modeling a system on the basis of the system's own account of itself. You can walk into an organization and know something has gone wrong under the third floor of the org chart before you have seen a single number. The Emotional Body registered it; the rest of you is still catching up. That is the first stage of the practice, running on time. Calling it intuition undersells it by a stage.
 
 The distortion is how fast it hands the feeling off. Feeling it was never the issue.
 
@@ -364,19 +394,19 @@ The tell is a sequence, and it is easy to check. When something goes wrong, whic
 
 Now for why this daemon stands where it stands, in a book about allyship.
 
-Everything this chapter teaches runs on Observe. Observe is the first stage and the one everything else rests on: what is actually happening, traced to its source, not what the org chart says should happen. The Emotional Body in shadow does not stop you observing. It edits the observation on the way in. It removes the part of the data arriving through you, because that part feels uncomfortable and unrigorous and does not belong in a model. Then you build a true, careful, well-evidenced model of a system you were not permitted to feel. Every stage downstream inherits the omission. The Model is clean. The Design is elegant. The Deploy fails in a way nobody can trace, because nobody ever wrote the missing variable down.
+Everything you learn here runs on Observe. Observe is the first stage and the one everything else rests on: what is actually happening, traced to its source, not what the org chart says should happen. The Emotional Body in shadow does not stop you observing. It edits the observation on the way in. It removes the part of the data arriving through you, because that part feels uncomfortable and unrigorous and does not belong in a model. Then you build a true, careful, well-evidenced model of a system you were not permitted to feel. Every stage downstream inherits the omission. The Model is clean. The Design is elegant. The Deploy fails in a way nobody can trace, because nobody ever wrote the missing variable down.
 
 The cost lands on the people the design is for. A structure built by someone who did not feel their way through it arrives in front of people who are feeling their way through it, and it does not fit, and they cannot say why, and the designer experiences this as resistance to change. That repeats the exile in Section 1, in miniature and in slow motion. The village did not exile the Architect for being wrong. It exiled the Architect for arriving with the answer already assembled, which looks from outside exactly like a feeling converted before anyone else could get near it.
 
 Here the chapter's myth lives, and it remains the most competent-looking myth in the book. The myth is that allyship is fixing the problem.
 
-Watch how the Emotional Body makes that feel like the mature response. Something unjust happens in front of you. You feel it, a real, accurate, honest signal. The responsible thing to do with a feeling about injustice, obviously, is not to sit there having it. The responsible thing is to convert it into something that helps. So you build. A policy, a working group, a better process, a redesigned intake form. The conversion takes minutes and it looks exactly like integrity.
+Watch how the Emotional Body makes that feel like the mature response. Something unjust happens in front of you. You feel it, a real, accurate, honest signal. The responsible move with a feeling about injustice, obviously, is not to sit there having it. The responsible move is to convert it into something that helps. So you build. A policy, a working group, a better process, a redesigned intake form. The conversion takes minutes and it looks exactly like integrity.
 
-Run it forward, though. The person the injustice happened to needed to be met. What they got instead: a process improvement. Those are not the same event, and only one of them was about them. A fix delivered at that speed does two jobs: it addresses a structural failure, and it disposes of an intolerable feeling, and the second job sets the deadline. The deadline is why the fix so often arrives before anyone has asked the person what they need: asking would require staying in the feeling long enough to hear the answer, and staying in the feeling is the one thing the conversion exists to prevent. The problem gets fixed. The person stays unmet. The fix, sized to your discomfort rather than to their situation, frequently does not hold, because nobody ever really built it for the thing it got pointed at.
+Run it forward, though. The person the injustice happened to needed to be met. What they got instead: a process improvement. Those are not the same event, and only one of them was about them. A fix delivered at that speed does two jobs: it addresses a structural failure, and it disposes of an intolerable feeling, and the second job sets the deadline. The deadline is why the fix so often arrives before anyone has asked the person what they need: asking would require staying in the feeling long enough to hear the answer, and staying in the feeling is what the conversion exists to prevent. The problem gets fixed. The person stays unmet. The fix, sized to your discomfort rather than to their situation, frequently does not hold, because nobody ever really built it for what it got pointed at.
 
 I have a part of me I call the Collapse. I call it that because that is what it is afraid of. The Collapse watched a design I was proud of get dismantled in a meeting, and it still cringes at the system I built that nobody used. The Collapse is not abstract; it has receipts. What it says to me is specific: *if you design this and it fails, everyone will know it was you. Your name is on it. Your thinking is in it. When it does not work, it will not be forgotten: it will be cited. As evidence. As proof that you were never as smart as everyone thought.*
 
-Here is what I have watched myself do with that, more than once. I hand it to the design. Not to the Fixer, to the design itself. The Collapse says *this could fail publicly* and I answer by making the thing more defensible: another contingency, another dependency mapped, another paragraph of rationale nobody asked for. The fear becomes rigor. Rigor is such a good disguise that I have gone entire quarters without noticing that a specific piece of dread was doing my architecture. That is the arrangement I want you to see, because it is the whole racket: the Emotional Body is being *employed.* It is building things.
+Here is what I have watched myself do with that, more than once. I hand it to the design. Not to the Fixer, to the design itself. The Collapse says *this could fail publicly* and I answer by making the design more defensible: another contingency, another dependency mapped, another paragraph of rationale nobody asked for. The fear becomes rigor. Rigor is such a good disguise that I have gone entire quarters without noticing that a specific piece of dread was doing my architecture. That is the arrangement I want you to see, because it is the whole racket: the Emotional Body is being *employed.* It is building.
 
 The Collapse does not get to decide whether I ship. It also does not get to be laundered into a spec.
 
@@ -390,17 +420,36 @@ Then put a boundary on the handoff, because the speed of the conversion is the s
 
 Six seconds is enough for the question that is actually being asked. It is not enough for the question underneath it, and that shortfall is the point.
 
-It shows up in a single beat. Someone says the thing in the meeting, the sentence that writes a whole group of people out of the plan. Heat arrives across your chest. That is the Strategist's channel, on time, doing its job: Fire, momentum, *here is where the push goes.* Then the conversion fires, and by the time the agenda has moved one item on you have a restructure of the intake process, three slides deep, and it is good. People will say so. Nobody has addressed what was said. The person it was said about is still sitting there. You will go home with the odd flatness of having done excellent work at something adjacent to what happened.
+It shows up in a single beat. Someone says the sentence in the meeting that writes a whole group of people out of the plan. Heat arrives across your chest. That is the Strategist's channel, on time, doing its job: Fire, momentum, *here is where the push goes.* Then the conversion fires, and by the time the agenda has moved one item on you have a restructure of the intake process, three slides deep, and it is good. People will say so. Nobody has addressed what was said. The person it was said about is still sitting there. You will go home with the odd flatness of having done excellent work at something adjacent to what happened.
 
-On the narrow jurisdiction the same sensor gets the same six seconds and returns something you can use twice: *Fire. Chest. This one is about the sentence, not the intake form.* Then you say the sentence back (the small, unarchitected, in-the-meeting sentence) and the restructure still gets built on Thursday, sized correctly this time, because by Thursday you know what it is for. Same instrument. Same rigor. The only thing that changed is what you gave it authority over.
+On the narrow jurisdiction the same sensor gets the same six seconds and returns something you can use twice: *Fire. Chest. This one is about the sentence, not the intake form.* Then you say the sentence back (the small, unarchitected, in-the-meeting sentence) and the restructure still gets built on Thursday, sized correctly this time, because by Thursday you know what it is for. Same instrument. Same rigor. What changed is what you gave it authority over.
 
 *Bring one design you shipped fast: a fix, a process, a proposal that arrived within an hour of something landing wrong. Reconstruct the order: what did you build, and what were you feeling before you built it? If you cannot recover the feeling, that is the finding, not a failure. Name the channel now, late, from memory. Then name the size of the fix against the size of the problem. Two minutes to capture it as a BAR.*
 
 ---
 
+### 3-2-1 on Your Emotional Body
+
+The one described above is the generic version. Yours converts in its own way, and that is the one to work. Ten to fifteen minutes.
+
+**3 · FACE IT.** Third person, and not the version in this chapter. What does yours turn a feeling into, most reliably: a proposal, a risk register, a retrospective, a message you draft and never send? How fast does the handoff happen? What did it convert last? A paragraph, as much detail as you can hold, and give it a name if a name comes, the way the Collapse got one.
+
+**2 · TALK TO IT.** Greet it, then ask, and let it answer.
+
+— *What are you keeping me from feeling?*
+— *What happens to you if I stay in it for six seconds?*
+
+**1 · BE IT.** Speak as *I*, one paragraph, and say what you have to say about showing up as an ally.
+
+**RECEIPT.** Sit thirty seconds. Did it loosen, or did it dig in? Both are information.
+
+*Two minutes to capture it as a BAR.*
+
+---
+
 ### Structure and Agency: Why the Fix Always Sounds Like Systems Thinking
 
-You drew the Structure ↔ Agency axis in Section 3. Here is why the Emotional Body is nearly impossible to catch standing on it, and why the chapter gave you a polarity instead of a rule.
+You drew the Structure ↔ Agency axis in Section 4. Here is why the Emotional Body is nearly impossible to catch standing on it, and why the chapter gave you a polarity instead of a rule.
 
 Both poles are real goods. That condition is what makes the shadow workable. A distortion that had to argue for something false would be caught in a week. The Emotional Body does not argue for coldness: you would notice coldness. It argues for Structure, and Structure is half the truth. *This is not about that person, it is about the incentive. Blame is a dead end. The individual is not the leverage point.* Each of those can be correct. Each of them is correct sometimes. You can spend an entire career at the Structure end of a real polarity and call it sophistication, and no single instance will look like an evasion, because no single instance is one.
 
@@ -410,11 +459,11 @@ The tell is never the position. The tell is whether the answer is ever Agency. A
 
 ### What You Take Out of the Forest
 
-The Emotional Body developed does one thing nothing else in this chapter can do: it tells you where the movement is before the evidence does.
+The Emotional Body developed does what nothing else in this chapter can do: it tells you where the movement is before the evidence does.
 
 That is the Strategist. Look back at the modes table and notice what the Strategist runs on: Fire, anger, resolving to triumph. Momentum is not a calculation. Nobody has ever found the leverage point in a spreadsheet. You find it by feeling where the system is straining, where the workaround has already been invented by somebody who was not asked, where the pressure has built to the point that one push will do what a year of argument could not. Every one of those is a reading before it is a finding. An Architect who has converted their signal into structure on arrival can still produce the analysis. What they lose is timing, the sense of *now.* That is the entire content of the Strategist, and it is not recoverable from data.
 
-So the map is the artifact, and you already know how to make one. The Architect's superpower is knowing where the push goes and when to make it, and then, because you also know what the map is for, building the thing so the next person can run it without you. Structural generosity is the intent. The Strategist is what makes it arrive on a day it can still matter. A beautiful blueprint delivered eighteen months after the pressure released is not generous. It is just correct.
+So the map is the artifact, and you already know how to make one. This chapter trains the Strategist: knowing where the push goes and when to make it, and then, because you also know what the map is for, building the thing so the next person can run it without you. Structural generosity is the intent. Timing is what makes it arrive on a day it can still matter. A beautiful blueprint delivered eighteen months after the pressure released is not generous. It is just correct.
 
 You know what your Emotional Body is for now. That is what you take out.
 
@@ -427,7 +476,7 @@ Theirs is doing the same job in a Forest you cannot see into. A stranger's Emoti
 
 Okay. You've learned what structural design is, and you've met the part of you that converts a signal into a spec before you can read it. Now, what does it actually look like in a real situation?
 
-Here's what I've noticed about the Architect's game: the Architect wins when the right thing happens without them having to be there. When a system works and nobody had to manage it. When a process runs and nobody had to micromanage it. When a design serves the user and the designer can move on to the next thing.
+Here's what I've noticed about the Architect's game: the Architect wins when the right thing happens without them having to be there. When a system works and nobody had to manage it. When a process runs and nobody had to micromanage it. When a design serves the user and the designer can move on.
 
 The Architect's game is building the map that makes you unnecessary. Not unnecessary in a dismissive way, unnecessary in a generous way. You've built something that can survive without you. That's the win.
 
@@ -479,7 +528,7 @@ In practice: design as if the person taking over knows less than you do about wh
 
 **Example:** You built the intake process, you run it, and you also translate for the three families who cannot use an English form. Design the handoff on the assumption that the next person will not speak Somali. Put the translating in the process rather than in yourself, which means paid interpreters on the calendar and a form in two languages, and it costs the programme more than you do. The families get something that survives you leaving. You stop being the reason it works.
 
-**The test:** You asked who runs this after me before you shipped, and wrote down the one thing you were assuming they already knew. The system's survival is next year's evidence.
+**The test:** You asked who runs this after me before you shipped, and wrote down what you were assuming they already knew. The system's survival is next year's evidence.
 
 ---
 
@@ -586,7 +635,7 @@ The grid again, fourth operation of six. Five moves down, four domains across, t
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
-The five moves are this chapter, in order. Wake Up is a mode detecting. Open Up is the six seconds. Clean Up is the conversion, performed on purpose, in its own slot, rather than on reflex a quarter-second after the signal lands. Grow Up is the capability the design is supposed to leave behind in other people. Show Up is the thing you build, and every card at that stage starts with the same verb. Pick a domain instead and you are choosing the arena. Down is the sequence, across is where it lands.
+The five moves are this chapter, in order. Wake Up is a mode detecting. Open Up is the six seconds. Clean Up is the conversion, performed on purpose, in its own slot, rather than on reflex a quarter-second after the signal lands. Grow Up is the capability the design is supposed to leave behind in other people. Show Up is what you build, and every card at that stage starts with the same verb. Pick a domain instead and you are choosing the arena. Down is the sequence, across is where it lands.
 
 ### Drawing Against the Shadow
 
@@ -600,7 +649,7 @@ Draw from your twenty rather than the hundred and twenty, though not all from on
 
 **Grow Up.** Asked what capability wants strengthening, it strengthens the conversion. The pipeline gets faster. Nothing new gets built, because what wants to grow sits on the far side of a feeling that never finished.
 
-**Show Up.** It builds the structure that makes the conversion permanent. The thing that needed feeling now has a process attached to it, and nobody will have to feel it again. Including the people it happened to.
+**Show Up.** It builds the structure that makes the conversion permanent. What needed feeling now has a process attached to it, and nobody will have to feel it again. Including the people it happened to.
 
 Where it bites is Clean Up. Selecting a transformation is a real move with a real place in the sequence, and this one is being run early and without authorization. The four rows around it are what that early selection does to the stages on either side of it.
 
@@ -614,9 +663,9 @@ Five moves, one card, ninety seconds, six of which are the only ones your Emotio
 
 A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
 
-One line, four things: what you will do, who it reaches, by when, and what it costs you. *Build the Ladder* becomes: **I will hand the vendor relationship to Jess with the three things I never wrote down, by the fifteenth, and it will cost me being the person they call.** That is a quest. *I will build more sustainable systems* is not one; nobody can tell whether you did it, including you.
+One sentence: what you will do, who it reaches, by when, and what it costs you. *Build the Ladder* becomes: **I will hand the vendor relationship to Jess with the three details I never wrote down, by the fifteenth, and it will cost me being the person they call.** That is a quest. *I will build more sustainable systems* is not one; nobody can tell whether you did it, including you.
 
-The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For an Architect the dread is usually that the thing will be built worse without you. That is frequently true and it is not a reason.
+The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For an Architect the dread is usually that it will be built worse without you. That is frequently true and it is not a reason.
 
 *Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
 
@@ -629,14 +678,14 @@ The Architect's contribution to the allyship game is this: before relationship, 
 
 The belief this chapter came to dismantle is that allyship is a matter of fixing the problem. It is the most reasonable-sounding myth in the set, and that is why it survives contact with so much good training. A harm occurs, you see it, you address it, the situation improves, and something in you registers the improvement as the work having been done. What the myth does is convert a design question into an intervention queue. The queue never empties, because the structure that produced the first harm is still standing and still producing, and every fix you ship into it is spent restoring a baseline rather than moving one. That is why competent, tireless people find themselves eight years into a practice with a long record of resolved incidents and no changed conditions to point at. The fixing was real. It was also the mechanism by which the system kept working without ever having to be different. What goes in the myth's place is narrower and it holds weight: **I can find the condition that produced the harm, change it, and hand the change to someone who can run it without me.**
 
-That last clause is the whole chapter. The Architect does not build to be admired and does not measure success by indispensability. The Architect measures it by obsolescence, a system that still runs after they have walked away from it. That is structural generosity, and it is the intent behind every one of the five moves. Intent, though, is not the superpower. The superpower is the **Strategist**: knowing where the push goes and when to make it. That is a reading before it is a finding, and it is the one part of the Architect's practice that cannot be recovered from data.
+That last clause is the whole chapter. The Architect does not build to be admired and does not measure success by indispensability. The Architect measures it by obsolescence, a system that still runs after they have walked away from it. That is structural generosity, and it is the intent behind every one of the five moves. Intent, though, is not the skill. **Strategist** names the skill: knowing where a small push moves the most, and when to make it. That is a reading before it is a finding, and it is the one part of the Architect's practice that cannot be recovered from data.
 
 You have the five modes and the channels underneath them, the five stages of Observe → Model → Design → Deploy → Hand Off, and the Emotional Body up close, the sensor that turns a feeling into a spec before you can read it, and what it costs when the conversion beats the reading. You have the Structure ↔ Agency axis and the directional test that is the only honest way to check yourself on it.
 
-Here is the limit built into all of it. The Architect can design the system and cannot hold the relational field the design lives inside. A blueprint fails when the people using it do not trust each other, and design assumes a goodwill it has no way to manufacture. When goodwill is missing, someone has to go build it: hold the field when the map does not tell the whole story, stay in relationship when the structure says the relationship should be working and it is not. Every elegant design nobody trusted was a failed design. Every brilliant blueprint that could not survive contact with the relational field was a theoretical exercise.
+Here is the limit built into all of it. The Architect can design the system and cannot hold the relational field the design lives inside. A blueprint fails when the people using it do not trust each other, and design assumes a goodwill it has no way to manufacture. When goodwill is missing, someone has to go build it: hold the field when the map leaves out half the story, stay in relationship when the structure should be making that relationship work and it is not. Every elegant design nobody trusted was a failed design. Every brilliant blueprint that could not survive contact with the relational field was a theoretical exercise.
 
-That is the Diplomat's work, and it comes after the Architect's rather than instead of it. What the Architect hands forward is the thing the Diplomat does not have yet: that the best systems make the right thing the easy thing, not through mandates and not through enforcement, but through design.
+That is the Diplomat's work, and it comes after the Architect's rather than instead of it. What the Architect hands forward is what the Diplomat does not have yet: that the best systems make the right thing the easy thing, not through mandates and not through enforcement, but through design.
 
-Add a line to the sheet. Under the inheritance, write the harm you keep fixing: the one that comes back, that you have handled so often you stopped counting it as work. Then name the condition that keeps producing it. The first name gets you a queue that never empties. The second gets you a design you could hand to somebody else.
+Add a row to the sheet. Under the inheritance, write the harm you keep fixing: the one that comes back, that you have handled so often you stopped counting it as work. Then name the condition that keeps producing it. The first name gets you a queue that never empties. The second gets you a design you could hand to somebody else.
 
 Now you're ready for the Diplomat.
