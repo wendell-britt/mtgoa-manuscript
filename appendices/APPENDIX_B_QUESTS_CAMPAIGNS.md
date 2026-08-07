@@ -79,7 +79,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 ### Quest 5 — The Architect's Blueprint
 *Chapter 6 · Gate: Controller · Domain: Skillful Organizing · 7 days*
 
-***The shadow running:*** You design the whole thing in your head and never say the load-bearing part — or you enforce a standard nobody agreed to.
+***The shadow running:*** You design all of it in your head and never say the load-bearing part — or you enforce a standard nobody agreed to.
 
 ***The gift:*** You name what's working and what isn't, choose the standard on purpose, and build one condition around it.
 
@@ -97,7 +97,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 ***The gift:*** Genuine curiosity. You enter to find out, not to be right, and you're willing to be changed by what you learn.
 
 1. Enter one situation this week to learn something, not to win it. Pick your orientation: grow, learn, play, or explore.
-2. Close with honest terms — say the true thing about where things actually stand, then make real contact across the gap (the Chapter 7 move).
+2. Close with honest terms — say what is actually true, then make real contact across the gap (the Chapter 7 move).
 3. Capture the surprise — what happened that you didn't see coming? If nothing surprised you, curiosity wasn't leading.
 
 ---
@@ -118,7 +118,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 ### Quest 8 — The Player's Full Game
 *Chapter 9 · All gates · All domains · 30 days*
 
-***The shadow running:*** You collect moves like a scoreboard — allyship as another thing to be good at, another way to win.
+***The shadow running:*** You collect moves like a scoreboard — allyship as another skill to be good at, another way to win.
 
 ***The gift:*** You play. The whole game, across all four domains, for long enough to see who you become.
 
@@ -154,7 +154,7 @@ A quest is solo. A campaign is the same kind of practice, run longer and out lou
 
 - **Week 1 — Inventory.** Name the conditions a situation is missing. Capture the gap.
 - **Week 2 — Set the terms.** Name the standards and the limits out loud. Capture what held.
-- **Week 3 — Build one thing.** Make a single condition durable — one that keeps running after you step back. Capture it.
+- **Week 3 — Build.** Make a single condition durable — one that keeps running after you step back. Capture it.
 
 **Run it with a group:** a team holds the container together; no one carries it alone.
 
@@ -166,7 +166,7 @@ A quest is solo. A campaign is the same kind of practice, run longer and out lou
 **What it builds:** surgical action inside your actual scope — and the damage you take on purpose instead of by default.
 
 - **Week 1 — Name what's yours.** What in this situation is actually yours to fix? If you can't name the object, you don't have permission. Capture it.
-- **Week 2 — Intervene once.** One clean intervention on the thing within your scope. Capture what you did.
+- **Week 2 — Intervene once.** One clean intervention within your scope. Capture what you did.
 - **Week 3 — Step back and account.** Does it still need you, or does it run without you? Name the damage you chose to take. Capture both.
 
 **Run it with an accountability partner:** they hold you to scope (no overreach) and to chosen damage (not the kind that just accumulates).

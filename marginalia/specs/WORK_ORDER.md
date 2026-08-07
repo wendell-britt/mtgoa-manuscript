@@ -39,7 +39,7 @@ no attribution anywhere, including Ch8.
 | 5 | | N3 | `Polarity Encounter — Honor` |
 | 5 | | N4 | `Name One Inheritance Out Loud` |
 | 5 | | N5 | `### The Inheritance Cycle` |
-| 5 | | N6 | `the thing you were holding was you` |
+| 5 | | N6 | `what you were holding was you` |
 | 6 | `claude_CHAPTER6_ARCHITECT_FULL_DRAFT.md` | N1 | *after byline* |
 | 6 | | N2 | `The Architect was also not not saying it` |
 | 6 | | **[BODY]** | `## A Note Before the Concept` — **unchanged, stays in body** |

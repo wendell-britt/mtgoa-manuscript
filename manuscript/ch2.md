@@ -8,7 +8,7 @@
 
 The world is not fine.
 
-You do not learn that from the news. You learn it in a meeting, or a group chat, or a Sunday dinner, when somebody finally says the thing that has been sitting there for months and everybody at the table starts picking their words. Somebody gets talked over and nobody names it. Somebody names it and pays for it all week. Two people who agree with each other end up arguing about a word, while the person everybody is talking around says nothing at all.
+You do not learn that from the news. You learn it in a meeting, or a group chat, or a Sunday dinner, when somebody finally says what has been sitting there for months and everybody at the table starts picking their words. Somebody gets talked over and nobody names it. Somebody names it and pays for it all week. Two people who agree with each other end up arguing about a word, while the person everybody is talking around says nothing at all.
 
 Nobody can say afterwards what broke. Everybody leaves knowing something did.
 
@@ -20,7 +20,7 @@ The feeling is this: *this isn't working.*
 
 *This isn't working* is a verdict on the method, not on you. Your effort is real. Your intentions are real. Something else is failing.
 
-You put the phone down and carry it anyway. It sits in your body before your mind finds a word for it, and no action item takes it out.
+You put the phone down and carry it anyway. It arrives before the words do, and no action item takes it out.
 
 The failure is structural. It starts with a map that covers half the ground:
 
@@ -50,7 +50,7 @@ You know which time was yours. You know the feeling that came with it.
 
 Carolyn Elliott, whose work on shadow retrieval grounds the daemon work in this book, was precise about it: the Shadow is the material you disowned, a pattern that has been doing something specific for you. It protected you when you needed protecting. It made sense once.
 
-Hold these three words, because the whole book turns on them. The **Shadow** is the disowned material itself. When one of your Faces runs *from* that material instead of being chosen, you get that **Face in distortion**: the gift turned against the people it was meant to serve. When a daemon runs the show instead of you, it exacts a **cost**, paid by you and by whoever you were trying to help. One word each: Shadow, distortion, cost. They are not the same thing, and the work is to tell them apart.
+Hold these three words, because the whole book turns on them. The **Shadow** is the disowned material itself. When one of your Faces runs *from* that material instead of being chosen, you get that **Face in distortion**: the gift turned against the people it was meant to serve. When a daemon runs the show instead of you, it exacts a **cost**, paid by you and by whoever you were trying to help. One word each: Shadow, distortion, cost. They are not the same, and the work is to tell them apart.
 
 I don't ask you to fix the Shadow. I ask you to find out what it has been protecting. That is a different project entirely, and it produces different results.
 
@@ -66,7 +66,7 @@ The trainers who built the old allyship mistook information for transformation. 
 
 *Learn. Feel. Act.*
 
-This theory is incomplete rather than wrong. The old allyship produced real wins: doors that opened, conversations that happened, power that shifted in small amounts, temporarily, in specific places. It also produced a generation of exhausted practitioners who kept burning out on good intentions. Both of these things are true.
+This theory is incomplete rather than wrong. The old allyship produced real wins: doors that opened, conversations that happened, power that shifted in small amounts, temporarily, in specific places. It also produced a generation of exhausted practitioners who kept burning out on good intentions. Both are true.
 
 You bring a body to every one of those actions. Sometimes that body runs on three hours of sleep. Sometimes it has been braced since the morning meeting. The trainers behind the old allyship never asked about that. They assumed you would have the body to execute the actions regardless.
 
@@ -88,7 +88,7 @@ Most people turn back. Of the ones who don't, most push through instead of going
 
 Something has shifted. Everyone is on edge, so a hard conversation could be around any corner, and vigilance that once made sense now runs as background noise.
 
-The conversations come with more charge. Coalitions that held through the last hard thing are fraying at edges that shouldn't be weak. The feedback, when it comes, comes fast, doesn't wait for you to be ready, doesn't come with enough context to land cleanly. The language keeps shifting, not because people move the goalposts but because the situation actually moves, and the words you practiced last year don't cover the new terrain. It can start to feel like falling behind, with no clear sense of what falling behind even means.
+The conversations come with more charge. Coalitions that held through the last crisis are fraying at edges that shouldn't be weak. The feedback, when it comes, comes fast, doesn't wait for you to be ready, doesn't come with enough context to land cleanly. The language keeps shifting, not because people move the goalposts but because the situation actually moves, and the words you practiced last year don't cover the new terrain. It can start to feel like falling behind, with no clear sense of what falling behind even means.
 
 The inner work, the part most trainings skip, keeps showing up as the chokepoint.
 
@@ -116,7 +116,7 @@ Every workplace conflict, every family rupture, every coalition meeting where pe
 Most people treat these moments as isolated incidents. They are connected rounds in one larger game:
 
 - What pattern do I run when pressure rises?
-- What pattern do the people in this group end up rewarding when things get uncertain?
+- What pattern do the people in this group end up rewarding when nobody knows what happens next?
 - What pattern do the people running this system end up punishing when someone tells the truth?
 
 If you don't name the game, you mistake your reaction for your identity.
@@ -194,8 +194,6 @@ Something else came with it. A sensation I couldn't name, small enough that I al
 
 What I found was rage, not sadness. (The body is specific like that.)
 
-The part I did not say out loud: the rage was not new.
-
 I had learned, for reasons that started early and went deep, to keep my feelings below the waterline, away from other people's awareness, and often away from my own. This produces a permanent low-grade charge that the people around you never suspect. The rage wasn't new. I had just gotten very good at not knowing it was there.
 
 The rock in my shoe was the tip of something that went down a long way.
@@ -251,11 +249,11 @@ You are going to meet more language than you can use all at once. That is normal
 
 Notice the first place you recognize yourself in the map. You are not here to memorize the roster, master the Guides, or become the kind of person who can explain the whole system at dinner.
 
-When a daemon lands, stop there. When a Guide's question makes something in you lean forward, start there. When a sentence names the thing you have been circling for years, stay with it.
+When a daemon lands, stop there. When a Guide's question makes something in you lean forward, start there. When a sentence names what you have been circling for years, stay with it.
 
 Recognition is where the move begins, and beginning is all it is.
 
-So do not try to carry the whole Forest at once. Let the first true thing find you. Then do one thing with it.
+So do not try to carry the whole Forest at once. Let the first true recognition find you. Then take one action on it.
 
 ---
 
@@ -321,7 +319,7 @@ When the Protector holds the joystick, you walk into a conversation already armo
 
 This daemon, of all seven, stands at the threshold of a book about allyship for a reason. You can hardly protect anyone else while your own hull is breached. When you are frightened, depleted, or under real threat, the Protector spends everything you have on you, and nothing remains to carry into someone else's fight. The body knows one shortcut around this, worth naming because it looks like love: you pull the other person inside your own hull, so that protecting them and protecting yourself become a single act. A mother does this with a child, and it is real. It also takes the wrong shape for allyship, because it only works by making the other person part of you, and the person you are allying with is not you. They are their own ship. To stand with them as someone separate, you have to be resourced enough that your Protector has not already spent your last reserves keeping you afloat.
 
-When the hull cannot keep a blow out, it does the last thing a hull can do: it takes the damage itself, so that what it carries survives. That absorbed weight is the Damaged Self, a daemon you will meet nearer the center.
+When the hull cannot keep a blow out, it does what a hull does last: it takes the damage itself, so that what it carries survives. That absorbed weight is the Damaged Self, a daemon you will meet nearer the center.
 
 You do not fight the Protector, and you do not shove past it. You thank it, and you help it tell a real threat from a social one. *Thank you for keeping me alive. This one is not life or death. Show me the one real danger here, if there is any, and let me set a single boundary instead of bracing my whole body.* Do that, and the Protector goes back to its real job (protecting you when you actually need it) and stops running every hard conversation as though your life were on the line. That exchange has a name and a form. Chapter 3 gives you both, and every chapter after it runs the same shape.
 
@@ -331,7 +329,7 @@ The difference shows up in a single moment: say someone challenges you in a meet
 
 ### Taking the Joystick
 
-You just saw the Protector grab the joystick and meet a hard conversation with machinery built for a predator. It only comes first; any of the seven can end up holding the joystick. When one of them does, it plays the only way it knows how: not to lose. It defends, it performs, it manages how things look, and the person on the other side of your help can feel it. The care underneath is real; the missing piece is you on the joystick, while a part of you plays the game on its own.
+You just saw the Protector grab the joystick and meet a hard conversation with machinery built for a predator. It only comes first; any of the seven can end up holding the joystick. When one of them does, it plays the only way it knows how: not to lose. It defends, it performs, it manages appearances, and the person on the other side of your help can feel it. The care underneath is real; the missing piece is you on the joystick, while a part of you plays the game on its own.
 
 The whole of this book is one move, made over and over: getting you back on the joystick. You are the player at the center of the Forest, and reaching that center and taking the joystick are the same motion. Fight your way back to yourself, and your hands close on the joystick in the same instant.
 
@@ -352,6 +350,8 @@ Two concrete examples:
 
 The wound does not become your identity. It becomes signal, then skill, then contribution.
 
+A superpower is not a Face, and no chapter owns one. Each one ahead trains a single superpower, the way a school teaches one class: somewhere to stand while you practice it. Out in the village any of the six runs at any altitude, in anybody's hands.
+
 Before Chapter 3 teaches full emotional alchemy, carry this much: the charge you feel has channels (fear, anger, sadness, joy, neutrality), and each one is information, not noise. Chapter 3 trains you to read and move each one. For now it's enough to know they're distinct, and that none of them is the enemy.
 
 A daemon you befriend joins your party. A daemon left running on its own stays a saboteur.
@@ -371,7 +371,7 @@ You start rehearsing every possible outcome. The Controller takes it: *manage th
 
 You decide it won't work before it has been tried. The Skeptic takes it: *don't expect anything to change.*
 
-You lunge for the one thing you can repair. The Fixer/Healer takes it: *patch this before it breaks further.*
+You lunge for whatever you can repair. The Fixer/Healer takes it: *patch this before it breaks further.*
 
 A charge rises that you can't name, and you go cold. The Emotional Body has it now: *something is happening in here and I don't know what to do with it.*
 
@@ -555,7 +555,7 @@ The Forest is where those daemons are met and befriended. Six guides know that t
 
 Before you walk on: the work in this book unfolds in four directions: gathering resources, skillful organizing, taking direct action, and raising awareness. All four are real allyship. Appendix A holds the full map, and a way to find which direction is calling you right now.
 
-Add a line to the sheet before you go. In Chapter 1 you wrote down the myth that runs you hardest, the rule you had been playing by without ever agreeing to it. Underneath it, write the daemon that took the joystick first when you ran the five moves, and the job it has been doing for you. Those two lines are the same mechanism seen from two directions, and most of the rest of this book works on the seam between them.
+Add a row to the sheet before you go. In Chapter 1 you wrote down the myth that runs you hardest, the rule you had been playing by without ever agreeing to it. Underneath it, write the daemon that took the joystick first when you ran the five moves, and the job it has been doing for you. Those two lines are the same mechanism seen from two directions, and most of the rest of this book works on the seam between them.
 
 From here you have two routes:
 

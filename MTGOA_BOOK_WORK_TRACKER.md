@@ -1,7 +1,27 @@
 # Book Work Tracker — MTGOA
 **Created:** 2026-04-14
-**Last Updated:** 2026-08-01
+**Last Updated:** 2026-08-03
 **Status:** All 8 chapters complete — Editorial Pass Phase
+
+---
+
+## Session — 2026-08-03 · Jordan arc, Chapters 7–9
+
+**Approved and applied.** Nine review-approved replacements across Diplomat,
+Sage, and Player make the final developmental movement explicit:
+Invitation → Accountability → Transfer.
+
+- **Ch7:** Terms can be accepted, refused, or counteroffered; unequal power
+  limits the freedom of an answer; a source can refuse translation.
+- **Ch8:** Perspective is tested against the people it concerns; naming a game
+  becomes a corrigible offer; Kit determines what help is useful.
+- **Ch9:** Affected people can correct the problem definition; feedback is an
+  invitation rather than extracted labor; handoff includes the means to alter
+  or end the practice.
+
+**Verification:** All nine exact source anchors matched once. `dupes.py`,
+`gate.py`, and `git diff --check` passed. `prose_diet.py` remains clear for the
+touched chapters except the pre-existing Ch7 passive-voice flag (1.43).
 
 ---
 

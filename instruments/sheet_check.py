@@ -41,16 +41,27 @@ APPENDIX = os.path.join(ROOT, "appendices", "APPENDIX_H_CHARACTER_SHEET.md")
 
 # What each chapter must say for a CH stamp to be honest. ch1 seats four lines in Build
 # Your Allyship Character; ch2-ch8 each add one; ch9 collects the autopilot line.
+#
+# These are patterns, not literals, and that is the whole lesson of 2026-08-07. The first
+# draft pinned the exact string "Add a line to the sheet" at seven sites. The merge with
+# `claude/lakoff-integration-readability-299l3y` brought in a deliberate rename -- all
+# seven now read "Add a **row** to the sheet" -- and the check reported the book broken at
+# seven places when nothing was broken. A sheet is a form; a form has rows; the rename is
+# better than what it replaced.
+#
+# This is the sixth time on this branch that a ruling frozen as a string outlived the
+# wording it was copied from. The check has to test the condition -- does this chapter ask
+# the reader to add to the sheet -- and not one sentence's phrasing.
 ASKS = {
-    "CH 1": ("manuscript/ch1.md", "This is yours, a few lines filled in for who you are"),
-    "CH 2": ("manuscript/ch2.md", "Add a line to the sheet"),
-    "CH 3": ("manuscript/ch3.md", "Add a line to the sheet"),
-    "CH 4": ("manuscript/ch4.md", "Add a line to the sheet"),
-    "CH 5": ("manuscript/ch5.md", "Add a line to the sheet"),
-    "CH 6": ("manuscript/ch6.md", "Add a line to the sheet"),
-    "CH 7": ("manuscript/ch7.md", "Add a line to the sheet"),
-    "CH 8": ("manuscript/ch8.md", "Add a line to the sheet"),
-    "CH 9": ("manuscript/ch9.md", "left a line open on your character sheet"),
+    "CH 1": ("manuscript/ch1.md", r"This is yours, a few lines filled in for who you are"),
+    "CH 2": ("manuscript/ch2.md", r"Add a (line|row) to the sheet"),
+    "CH 3": ("manuscript/ch3.md", r"Add a (line|row) to the sheet"),
+    "CH 4": ("manuscript/ch4.md", r"Add a (line|row) to the sheet"),
+    "CH 5": ("manuscript/ch5.md", r"Add a (line|row) to the sheet"),
+    "CH 6": ("manuscript/ch6.md", r"Add a (line|row) to the sheet"),
+    "CH 7": ("manuscript/ch7.md", r"Add a (line|row) to the sheet"),
+    "CH 8": ("manuscript/ch8.md", r"Add a (line|row) to the sheet"),
+    "CH 9": ("manuscript/ch9.md", r"left a (line|row) open on your character sheet"),
 }
 
 
@@ -84,14 +95,14 @@ def main():
     for stamp, _h in apx:
         if stamp == "OPEN":
             continue
-        rel, phrase = ASKS.get(stamp, (None, None))
+        rel, pattern = ASKS.get(stamp, (None, None))
         if rel is None:
             bad.append("UNKNOWN STAMP %s -- no chapter recorded as asking for it" % stamp)
             continue
         text = io.open(os.path.join(ROOT, rel), encoding="utf-8").read()
-        if phrase not in text:
-            bad.append("STAMP %s does not answer to the book: %s no longer contains %r"
-                       % (stamp, rel, phrase))
+        if not re.search(pattern, text):
+            bad.append("STAMP %s does not answer to the book: %s matches nothing for %s"
+                       % (stamp, rel, pattern))
 
     if not quiet or bad:
         print("character sheet -- %d fields, html and appendix" % len(apx))

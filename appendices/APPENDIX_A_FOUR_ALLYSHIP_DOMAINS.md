@@ -93,7 +93,7 @@ Direct Action is the work of moving — when the moment needs a body in a specif
 
 **The collapse.** Mistaking cost for effectiveness. Burning out on the belief that individual sacrifice is systemic change. Martyrdom: spending yourself completely in the wrong domain, on the wrong problem, at the wrong time, and calling it commitment. The diagnostic: did your action change the conditions, or did it change how you felt about the conditions?
 
-The reverse collapse: using Raise Awareness when Direct Action is needed — "I named it publicly" as the complete intervention. Or using Skillful Organizing when the moment requires a move: the working group formed to study the thing that needed to happen last week.
+The reverse collapse: using Raise Awareness when Direct Action is needed — "I named it publicly" as the complete intervention. Or using Skillful Organizing when the moment requires a move: the working group formed to study what needed to happen last week.
 
 **The developmental arc — six Faces:**
 
@@ -101,7 +101,7 @@ The reverse collapse: using Raise Awareness when Direct Action is needed — "I 
 
 *Challenger.* The natural home of Direct Action — the clean "no," the line drawn without apology, the move made without softening it for the people watching. Shadow: Direct Action as performance of toughness — the confrontation that was for the confronter, not for the change. Gift: the move that's clear, aimed, and stops when it's done — no theater, no martyrdom.
 
-*Regent.* Acts within and on behalf of structures — uses institutional standing, inherited authority, organizational position as the lever. Shadow: waits for the structure to sanction the action before moving — authority as permission slip rather than resource. Gift: deploys institutional standing at the moment of need, which moves things that an individual acting alone cannot.
+*Regent.* Acts within and on behalf of structures — uses institutional standing, inherited authority, organizational position as the lever. Shadow: waits for the structure to sanction the action before moving — authority as permission slip rather than resource. Gift: deploys institutional standing at the moment of need, which moves what an individual acting alone cannot.
 
 *Architect.* Takes the specific, surgical action that addresses the precise failure point — knows which move changes the system rather than the symptom. Shadow: analyzes the situation so thoroughly that the window closes before anything happens. Gift: can identify the single intervention that shifts the system and make it before the complexity overwhelms the opportunity.
 
@@ -121,17 +121,17 @@ Without it, the other three domains have nothing to organize around. You can't r
 
 *Who does this work:* storytellers, journalists, educators, witnesses, anyone who carries experience that others need to understand in order to move. The person who asks the question that changes what the meeting is actually about. The one who names what everyone present already knows but won't say.
 
-*When it's needed:* when the block to change is that people don't know what's actually happening, or can't feel what they already know cognitively. When the story hasn't been said out loud yet. When the invisible thing needs a name before anyone can organize around it.
+*When it's needed:* when the block to change is that people don't know what's actually happening, or can't feel what they already know cognitively. When the story hasn't been said out loud yet. When what is invisible needs a name before anyone can organize around it.
 
 **The collapse.** Naming the problem as the complete intervention. Raise Awareness done well creates the conditions for other domains to activate. Done as the full move, it becomes slacktivism — the infinite loop of identifying the problem without changing the conditions. The diagnostic: did the awareness you raised lead to someone else's action? If the story stops with the story, the domain collapsed on itself.
 
-The reverse collapse: confusing Raise Awareness with Direct Action — treating the story as the move rather than as the thing that makes the move possible. Or using Raise Awareness when Gather Resources is actually needed: sharing the narrative of need instead of moving the resource.
+The reverse collapse: confusing Raise Awareness with Direct Action — treating the story as the move rather than as what makes the move possible. Or using Raise Awareness when Gather Resources is actually needed: sharing the narrative of need instead of moving the resource.
 
 **The developmental arc — six Faces:**
 
 *Shaman.* Tells the story from inside the experience — not from after it, not from analysis, but from the felt sense of what it was like to be in it. Shadow: stays inside the experience without translating it — the story that lands only for people who already know. Gift: the narrative that transfers the felt sense of the experience into someone who wasn't there, changing what they can see.
 
-*Challenger.* Asks the question nobody wants to ask. Names the thing everyone present is organized around not saying. Shadow: names the shadow for the satisfaction of naming it — the call-out that performs awareness without building the conditions for change. Gift: the question that, once asked, cannot be unasked — changes the group's relationship to what it's been avoiding.
+*Challenger.* Asks the question nobody wants to ask. Names what everyone present is organized around not saying. Shadow: names the shadow for the satisfaction of naming it — the call-out that performs awareness without building the conditions for change. Gift: the question that, once asked, cannot be unasked — changes the group's relationship to what it's been avoiding.
 
 *Regent.* Bears witness to the lineage — what happened, who built what, what was lost, what was inherited. Shadow: tends the historical record while the current story goes unwitnessed — the expert on what happened then who can't see what's happening now. Gift: connects current experience to historical pattern in a way that makes the invisible visible by giving it a tradition to belong to.
 
@@ -139,7 +139,7 @@ The reverse collapse: confusing Raise Awareness with Direct Action — treating 
 
 *Diplomat.* Translates across frameworks — makes what one camp is saying legible to another without distorting either. Shadow: translates so carefully for palatability that the actual message disappears — awareness managed until nothing is actually raised. Gift: carries the truth across difference intact, so both camps can hear what the other actually said.
 
-*Sage.* Names what the whole system is doing — the meta-pattern, the game underneath the game. Shadow: names it at an altitude where nobody who needs to act can hear it — accurate, inaccessible. Gift: can say the thing that is true at every level in language that lands where action is possible.
+*Sage.* Names what the whole system is doing — the meta-pattern, the game underneath the game. Shadow: names it at an altitude where nobody who needs to act can hear it — accurate, inaccessible. Gift: can say what is true at every level in language that lands where action is possible.
 
 ---
 
@@ -156,7 +156,7 @@ The reverse collapse: confusing Raise Awareness with Direct Action — treating 
 
 Pattern: 2-2-2-2. The system is balanced. No domain is under-resourced by gate.
 
-The affinities reflect gate function, not arbitrary assignment: Emotional Body locates what's depleted before any resource can be moved; Vulnerable Child restores what's been spent. Protector guards the conditions a group needs to function; Controller routes coordination across the system. the Fixer/Healer takes the direct surgical move on the specific broken thing; Damaged Self absorbs the cost of showing up on purpose. Victim carries the story from felt experience; Skeptic asks the question that makes the invisible visible.
+The affinities reflect gate function, not arbitrary assignment: Emotional Body locates what's depleted before any resource can be moved; Vulnerable Child restores what's been spent. Protector guards the conditions a group needs to function; Controller routes coordination across the system. the Fixer/Healer takes the direct surgical move on the specific breakage; Damaged Self absorbs the cost of showing up on purpose. Victim carries the story from felt experience; Skeptic asks the question that makes the invisible visible.
 
 ---
 

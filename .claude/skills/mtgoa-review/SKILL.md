@@ -212,6 +212,27 @@ named move in ch3 and ch4 and is carved out.
 **When it fires, name the noun.** Not a synonym for `thing` — the actual referent. If you
 cannot name it, that is the finding: the sentence does not know what it is about yet.
 
+**Then check whether the line should exist at all.** Added 2026-08-03 after `ch2:197` went
+through three states — a colon reveal, a rewrite, and a cut — and the cut was right because
+the next paragraph already said it with a mechanism attached. **A placeholder can be marking
+a redundant sentence rather than a missing noun.** Before reaching for a replacement, read
+the surrounding paragraphs and ask whether anything nearby already says this. Three passes
+hunted for the right word and the answer was that the sentence was a weaker draft of one
+four lines below it.
+
+**Run `empty_head.py --diff` after every repair pass, not `empty_head.py`.** The book-wide
+number answers the wrong question. What matters is whether *your* pass put in more
+placeholders than it took out, and the tiers behave completely differently on that measure:
+
+```
+HARD   added 5   removed 135   net -130     the sweep worked
+SOFT   added 66  removed  63   net   +3     neutral, not a leak
+```
+
+`the work` is canon in the manuscript and suspicious in a line you added ten minutes ago. A
+book-wide count cannot tell those apart. The diff can, and it exits 1 when a pass is
+net-positive on either tier.
+
 ## Score the set, not the sentence
 
 **Ratios on a short sample are noise.** A single 50-word Example scored `zombie 1.80` on one
@@ -303,3 +324,102 @@ attention is the failure this instrument exists to prevent.
 `HEAD_VOICE_DIAL` say what the prose has to *do*. This pass only says whether it is heavy,
 off-gate, or across the membrane. A passage can pass every check here and still be the wrong
 paragraph.
+
+## 3.5 · The stance pass — five questions no counter can ask
+
+Added 2026-08-05, after a 50-word paragraph went into `ch5` and back out five times in one
+afternoon. Every defect was caught by Wendell reading it. The counters caught **one** thing across
+the whole sequence — `way` as an empty noun — and returned clean on the other four.
+
+**They were all defects of stance rather than mechanics:** whose voice, whose action, whose
+vocabulary, whose antecedent. `gate` and `diet` measure sentences. These five questions ask what
+the sentence is *doing*, and they are a reading, like the slop pass. **Run them after the counters
+come back clean, not instead.**
+
+### 1 · Person — who is being spoken to?
+
+Find the section's address and match it. A passage that drifts from *you* to *a group* to *us* has
+changed who is in the room.
+
+```
+grep -nE '\b(we|us|our)\b' DRAFT          # then ask: does this section use first person plural?
+```
+
+**The failure:** `ch5`'s widening ended *"who counts as one of us."* Measured against the chapter,
+that was the **only** first-person plural in ch5's entire teaching voice — a narrator joining a *we*
+with no referent, in a section titled *What You Take Out of the Forest*. Introduced while moving the
+paragraph **into** second person, which is exactly when person needed watching.
+
+### 2 · Doer — who is doing the verb?
+
+Lanham's question, and `prose_diet`'s `passive` counter only sees half of it. **It matches
+be + participle and walks straight past get-passives.**
+
+```
+grep -nE '\b(gets?|got|getting) +\w+(ed|en)\b' DRAFT
+```
+
+**The failure:** *"what gets protected"* replaced *"what the group protects"* — a doer traded for
+nothing — and every instrument in the repo reported the passage clean, including the whole agency
+workstream.
+
+### 3 · Borrowed move — is this a named move from another chapter, unnamed?
+
+The book has ~30 named moves. New prose that performs one without naming it teaches the move at the
+wrong altitude and steals the chapter that owns it.
+
+```
+grep -rho "Move [0-9]*[:·] .*" manuscript/ch*.md | sed 's/.*[—:] //' | sort -u
+```
+
+**The failure:** ch5's first widening read *"Every group runs on a story about itself, usually one
+nobody chose and nobody says out loud… Name it accurately, offer a truer one."* That is **Name the
+Game**, the Sage's Move 1 at `ch8:670` — *"what game is being played underneath the one we're
+talking about"* — arriving in ch5 three chapters early with *story* swapped for *game*. Reaching for
+a broader definition had quietly pulled the passage to another Face's altitude.
+
+### 4 · Back-pointer — does the opener point at something recoverable?
+
+```
+grep -nE '^(That|This|These|Those|It|The same|The rest) ' DRAFT
+```
+
+For each hit, name the noun it points at and count the distance. Inside a paragraph is fine. Across
+a paragraph break is usually fine. **Across a section, or pointing at a whole preceding paragraph
+rather than a noun, is not.**
+
+**The failures, one revision apart:** *"That much you can hold in your hands. The rest has no object
+in it"* was cut for pointing back at an entire paragraph — and its replacement opened *"The same
+holds for whatever group you belong to,"* doing the identical thing. **Fixing a vague pointer by
+writing another one is the default mistake here.** The fix is usually to delete the bridge and let
+the first real sentence carry the link: *Your group carries a story…*
+
+Same defect class as `ch6:628`'s orphaned *the push*, 164 lines downstream of its antecedent.
+
+### 5 · Membrane — is the fiction talking, or is the author?
+
+`SPEC_TWO_HANDS` §*the membrane*: the author's teaching voice may not step into the fiction, and the
+fiction's voices may not narrate the teaching. Only apparatus — *this chapter*, running heads,
+labels — may point at both.
+
+```
+f=ch5; sig=$(grep -n '<!-- SIGNATURE -->' manuscript/$f.md | head -1 | cut -d: -f1)
+awk -v s=$sig 'NR>s' manuscript/$f.md | grep -v '^>' | grep -ni 'school'
+```
+
+**Zero is the expected answer for every chapter ch3–ch8**, and it was zero before the Path C sweep
+and zero after. **The near-miss:** the first draft of that sweep put *"The School of the Pattern
+trains the Strategist"* into the teaching voice at five of six sites — a fictional institution as the
+subject of the reader's development. Wendell stopped it before it was applied. The applied version
+says *this chapter*, which is apparatus, and states the school-to-class relation once at `ch2:345`
+where the author already discusses the device at `ch2:236`.
+
+**The check runs both ways.** `ch3:213` says *"That is the Shaman's superpower"* and must **stay**,
+because it sits inside Maera Voss's treatise. Sweeping it would flatten the fiction into the teaching
+text, which is the same defect wearing the other hat.
+
+---
+
+**If a passage passes all five and still reads wrong, the passage is wrong.** Nothing above replaces
+`SPEC_EXAMPLES`, `SPEC_TWO_HANDS`, `SPEC_FACE_TARGETS` or `HEAD_VOICE_DIAL`, which say what the prose
+has to *do*.

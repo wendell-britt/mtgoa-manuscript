@@ -106,7 +106,7 @@ Something difficult happened. You have time to let it move through fully.
 **Wake:** You sit with the sadness. You let your body feel the loss.
 **Open:** You stop bracing and let the sadness reach its real size — including whatever is tangled up with it that you would rather not find.
 **Clean:** You ask: What am I grieving? You let the answer come: A relationship that can't survive this.
-**Grow:** You integrate: That relationship was real. It mattered. It didn't fail because I'm broken. It ended because we want different things. That's true even though it hurts.
+**Grow:** You integrate: That relationship was real. It mattered. It didn't fail because I'm broken. It ended because we want different lives. That's true even though it hurts.
 **Show:** You let yourself cry. You reach out to a friend. You write down what you learned about yourself from that relationship.
 
 Total: 1-2 hours. You've moved from raw pain to integrated wisdom. The move replenishes because the sadness gives something back: meaning, self-trust, and the capacity to love without pretending it did not hurt.

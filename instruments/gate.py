@@ -59,7 +59,14 @@ COUNTERS = [
     # on the ch5 site: "how can you claim to hear something when you don't have ears. You
     # do have eyes so harder to see makes sense." The word was wrong there as a metaphor
     # before it was wrong as a banned word.
-    ("banned", r'\brooms?\b|\bquiet(ly|er|est)?\b|\bgenuinely\b', re.I),
+    # `thing` promoted 2026-08-03. Wendell: "sweep the marginalia and promote thing to
+    # the gate." Body went 405 -> 0 uncovered and the marginalia 27 -> 0; everything that
+    # remains is in CANON below. His reasoning, 2026-08-03: "it's not in my writing style
+    # to use the word 'thing' because of how unspecific it is", and, on the classification
+    # that had cleared 320 sites as idiom: "until I see a number of examples of 'the thing'
+    # that are grammatical we're actually preserving something bad and saying it's ok
+    # because we've done it before."
+    ("banned", r'\brooms?\b|\bquiet(ly|er|est)?\b|\bgenuinely\b|\bthings?\b', re.I),
     ("emdash", r'[a-zA-Z0-9,]—[a-zA-Z0-9]', 0),
     ("A0", r'you (were|was) (taught|told|raised|trained)|somewhere along the way'
            r'|the village taught you', re.I),
@@ -85,10 +92,63 @@ EXEMPT = [
 ]
 
 
+# CANON is not EXEMPT, and the difference is the reason there are two lists.
+#
+# EXEMPT approves one sentence. It is keyed on the whole sentence precisely so an approval
+# cannot spread, which is right for a one-off like the Laloux `rooms` line.
+#
+# CANON approves a NAME. A named move keeps its name everywhere it appears, so keying on a
+# sentence would mean re-approving the same title in every chapter that cites it. Each
+# entry below is a ruling by Wendell on 2026-08-03, and each is a title or a thesis rather
+# than a sentence somebody happened to write.
+CANON = [
+    ("banned", "Say the Thing Under the Thing",
+     "ch3 Move 5. Ruled: option b, keep the move name and sweep the prose around it."),
+    # FLAG WITHDRAWN 2026-08-03. I recorded this as an inconsistency and it is a rule.
+    # ch3 lowercases a move name when the sentence is TELLING YOU TO DO IT and capitalises
+    # it when the sentence is NAMING IT, and all five moves obey it:
+    #   820 "Turn the dial up instead"      846 "Say what you can do now, to her, once"
+    #   860 "Say the thing under the thing:" 866 all five lowercase in one run
+    #   850 the heading   962 "*Say the Thing Under the Thing* becomes:"   981 the list
+    # Capitalising 860 and 866 would have broken a set that was already consistent, so both
+    # spellings are canon and both are exempt.
+    ("banned", "Say the thing under the thing",
+     "the same move as an imperative in running prose, ch3:860 and ch3:866."),
+    ("banned", "*Say the Thing*",
+     "ch4:752, the quest card."),
+    ("banned", "Run It Again With One Thing Changed",
+     "ch9 Move 4."),
+    ("banned", "Run it again with one thing changed",
+     "the same move in ch9's recaps at 576 and 590."),
+    ("banned", "Right Thing the Easy Thing",
+     "ch6's chapter subtitle. Wendell 2026-08-03: \"keep the right thing the easy thing.\""),
+    ("banned", "right thing",
+     "the Architect's thesis. Quoted three times inside ch6, once from ch5's closing "
+     "handoff and twice in ch9 — a thesis rather than a heading, which is why it is here "
+     "and not in EXEMPT."),
+    ("banned", "easy thing",
+     "the second half of the same thesis."),
+    ("banned", "the right thing becomes the thing that actually gets done",
+     "ch6:197, the thesis stated as a question. The second `thing` is inside the formula."),
+    # The strongest exemption in the sweep, because the sentence diagnoses the placeholder.
+    ("banned", "*This is my thing*",
+     "ch8:769. Quoted self-talk that the chapter is convicting: \"It's a category that "
+     "swallows all five, and once it's on the table nothing gets named specifically enough "
+     "to move.\" The vagueness IS the diagnosis; naming it would destroy the specimen. "
+     "FLAGGED as my judgement rather than Wendell's ruling."),
+    ("banned", "not *my thing.*",
+     "ch8:779, the same specimen in the recap."),
+    ("banned", "you lose the things that told you who you were",
+     "ch1:54. Ruled an exception by Wendell 2026-08-03. It survives on the rule rather "
+     "than on precedent: the sentence before supplies the referent — \"The game hands you "
+     "every bit of it\" — so the definite article has a real antecedent."),
+]
+
+
 def exempt_spans(text, counter):
     """Character spans in `text` that this counter must ignore."""
     spans = []
-    for name, phrase, _reason in EXEMPT:
+    for name, phrase, _reason in EXEMPT + CANON:
         if name != counter:
             continue
         i = text.find(phrase)
