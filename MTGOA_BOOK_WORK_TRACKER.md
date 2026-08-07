@@ -293,6 +293,22 @@ for “thing”; the new Ch7 prose introduced none. The applied safe-edit script
 
 ---
 
+## Session — 2026-08-07 · SIM-007 applied Ch7 boundary regression
+
+**Applied-surface desk regression passes.** P-09, a manager facing Kai's
+no-contact limit, stays accountable through permitted and independent channels
+without pursuing interpersonal access. P-10, an equal-power peer, follows
+Leah's requested timing, written channel, and group-level change instead of
+calling disappearance respect. Neither outcome requires forgiveness, renewed
+closeness, or a reply from the harmed person.
+
+**Result:** the Ch7 repair/boundary chain is closed at the desk-simulation
+layer. Post-ship v2 human-reader calibration remains the next validation for
+retention under pressure. Full regression:
+`editorial_reports/2026-08-07/SIM_007_APPLIED_CH7_BOUNDARY_RESPECT_REGRESSION_2026-08-07.md`.
+
+---
+
 ## Session — 2026-08-03 · Jordan arc, Chapters 7–9
 
 **Approved and applied.** Nine review-approved replacements across Diplomat,
