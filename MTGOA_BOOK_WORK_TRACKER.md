@@ -262,6 +262,22 @@ P-09 and a peer-to-peer rupture card. Full trace:
 
 ---
 
+## Session — 2026-08-06 · SIM-006, Ch7 boundary-respect rerun
+
+**Desk rerun passes; no canonical prose changed.** The proposed clarification
+to Ch7's Repair move was tested against P-09, a manager facing explicit
+no-contact limits, and P-10, an equal-power peer whose harmed counterpart set a
+timed, written, group-action repair path. The clarification makes staying mean
+continued accountability and reachability on the harmed person's terms.
+
+**Result:** P-09 cannot press for interpersonal access; P-10 cannot call
+disappearance respect when the other person has named a repair path. Neither
+case treats forgiveness or renewed closeness as proof of repair. The candidate
+is ready to present as a proposed Ch7 insertion. Full trace:
+`editorial_reports/2026-08-06/SIM_006_CH7_BOUNDARY_RESPECT_RERUN_2026-08-06.md`.
+
+---
+
 ## Session — 2026-08-03 · Jordan arc, Chapters 7–9
 
 **Approved and applied.** Nine review-approved replacements across Diplomat,
