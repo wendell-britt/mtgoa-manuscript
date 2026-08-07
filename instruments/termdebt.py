@@ -44,8 +44,17 @@ TERMS = [
     # domains
     ('Gather Resources', r'Gather Resources'), ('Raise Awareness', r'Raise Awareness'),
     ('Direct Action', r'Direct Action'), ('Skillful Organizing', r'Skillful Organizing'),
-    # spiral
-    ('Amber', r'\bAmber\b'), ('Orange', r'\bOrange\b'), ('Green', r'\bGreen\b'), ('Teal', r'\bTeal\b'),
+    # The Spiral colours were CUT by Wendell 2026-07-31 (log row A4) -- a five-term
+    # developmental scale used at six sites and defined nowhere, with the six Faces
+    # taking the work. They were cut from the manuscript and left in this list, so the
+    # ledger reported four NEVER DEFINED rows for terms that appear ZERO times in the
+    # book. Measured 2026-08-05: Amber 0, Orange 0, Green 0, Teal 0.
+    #
+    # Same defect as the retired Key Terms glossary and `The Game So Far` -- a name for
+    # something that does not exist, carried in a list because a row in a list reads
+    # exactly like a row for something real. Removed rather than commented, since a
+    # commented row is the next version of the same mistake.
+    #     ('Amber', ...), ('Orange', ...), ('Green', ...), ('Teal', ...)
 ]
 
 LINES = {}
@@ -64,6 +73,29 @@ def is_def(term_rx, line, nxt):
     # inline gloss inside a running sentence: "The **Regent** keeps what works and hands it on."
     if re.search(r'\*\*(The |the )?[^*]{0,30}?' + term_rx + r'[^*]{0,20}?\*\*\s+[a-z]', s): return 'inline'
     if re.search(r'\*\*[^*]{0,30}?' + term_rx + r'[^*]{0,30}?\*\*\s*[—:-]', s): return 'bold-gloss'
+    # Gloss INSIDE the bold span: "**Direct Action — the true thing said to the face**".
+    # The rule above only sees a dash AFTER the closing asterisks, which is why A5 was
+    # reported and then withdrawn on 2026-07-31 -- the four domains are all defined this
+    # way and all four read as NEVER DEFINED for months.
+    if re.search(r'\*\*[^*]{0,30}?' + term_rx + r'[^*]{0,4}[—:-]\s*[^*]{3,60}\*\*', s):
+        return 'bold-gloss'
+    # Appositive: "the Vulnerable Child, the player who should have been holding it" and
+    # "Direct Action, the true thing said to a face". A term followed by a comma and a
+    # noun phrase is the commonest way this book defines something in running prose, and
+    # it was the one shape `is_def` could not see. DL-29 named it after it cost two
+    # withdrawn findings; a third (`Vulnerable Child`, again) turned up 2026-08-05.
+    # The colon is not decoration -- it is the discriminator. Every true appositive
+    # definition in this book announces itself: "That conversion has a name: Emotional
+    # Alchemy, the engine under the whole book"; "the youngest part of you still waits:
+    # the Vulnerable Child, the player who should have been holding it"; "one of the
+    # four: Direct Action, the true thing said to a face."
+    #
+    # Without the colon the rule matched a fronted adverbial and manufactured a
+    # definition -- ch6:242, "At the Architect's altitude, the native material is not
+    # emotion", which defines nothing. That is the worse failure direction: a missing
+    # definition gets reported, a fabricated one is silent.
+    if re.search(r'[:;]\s+(?:the\s+)?' + term_rx + r',\s+(?:the|a|an|your|his|her|its|one|what)\b[^.!?]{4,70}', s):
+        return 'appositive'
     if re.search(term_rx + r'[^.!?]{0,60}?\b(is|are)\b\s+(the|a|an|what|how|your|when|where)', s): return 'copula'
     if re.search(term_rx + r'[^.!?]{0,40}?\b(means|refers to|stands for|is called|we call)\b', s): return 'gloss'
     if re.search(r'\b(call|called|name|named|term)\b[^.!?]{0,30}?' + term_rx, s): return 'naming'
