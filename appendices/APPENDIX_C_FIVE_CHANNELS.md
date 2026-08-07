@@ -6,80 +6,44 @@
 
 ---
 
-## Running the Move, Channel by Channel
+## Using the Channels as Reference
 
-If the channels are going to be useful in real life, they need to be operational, not poetic.
+If the channels are going to be useful in real life, they need to give you a question without
+deciding the answer for you.
 
-Use this sequence whenever activation rises:
+When a response has already arrived and you need a few seconds before deciding what it means or
+what to do, use **WAVE**: Welcome, Acknowledge, Validate, Exhale. WAVE does not tell you what the
+response means. It gives you enough space to choose your next move.
 
-1. Detect channel (2-5 seconds): Name the primary channel in plain language: fear, sadness, joy, anger, or neutrality.
-2. Run `WAVE-Somatic` (5-20 seconds if needed): Welcome, Acknowledge, Validate, Exhale so your body can stop bracing long enough to think clearly.
-3. Interpret signal (10-30 seconds): Ask the channel-specific question below.
-4. Choose move family: Decide whether this moment needs Wake Up, Open Up, Clean Up, Grow Up, or Show Up.
-5. Commit one visible action: One sentence, one boundary, one invitation, one repair, one next beat.
-6. Log consequence: Did closeness, clarity, or trust move up, down, or stay flat?
+The **Five-Move Form** is the larger recurring practice: Wake Up, Open Up, Clean Up, Grow Up,
+Show Up. The Form tells you where you are in a pass. A channel may shape what you notice; it does
+not supply a fixed move sequence.
 
-#### Channel Questions + Default Move Patterns
+#### Channel Questions and Common Distortions
 
 **Metal / Fear**
 - Diagnostic question: *What is actually at stake right now?*
 - Common distortion: Catastrophe movie and anticipatory collapse.
-- Default move pattern:
-  - Wake Up: name the real risk.
-  - Open Up: let the fear land fully, including what it is guarding.
-  - Clean Up: separate present risk from old memory.
-  - Grow Up: define one viable protection move.
-  - Show Up: speak the risk and request in concrete terms.
 
 **Water / Sadness**
 - Diagnostic question: *What mattered enough to grieve?*
 - Common distortion: numbing, productivity theater, “I’m fine.”
-- Default move pattern:
-  - Wake Up: allow the sadness to register.
-  - Open Up: let the loss reach you fully, including any relief hiding beneath it.
-  - Clean Up: name the exact loss.
-  - Grow Up: translate loss into value.
-  - Show Up: honor what mattered with one living act.
 
 **Wood / Joy**
 - Diagnostic question: *What is alive and aligned here?*
 - Common distortion: harvesting joy as fuel, skipping integration.
-- Default move pattern:
-  - Wake Up: notice vitality without grabbing it.
-  - Open Up: let the joy be fully felt, including any guilt about feeling it.
-  - Clean Up: identify what conditions made it possible.
-  - Grow Up: encode those conditions as practice.
-  - Show Up: repeat or share the pattern intentionally.
 
 **Fire / Anger**
 - Diagnostic question: *What boundary or value is being violated?*
 - Common distortion: discharge, domination, righteous theater.
-- Default move pattern:
-  - Wake Up: feel the heat without firing.
-  - Open Up: let the anger land fully, including what it is protecting.
-  - Clean Up: name the violated line.
-  - Grow Up: choose proportionate force.
-  - Show Up: deliver the boundary clearly and cleanly.
 
 **Earth / Neutrality**
 - Diagnostic question: *What whole-system truth can I see now?*
 - Common distortion: dissociation disguised as wisdom.
-- Default move pattern:
-  - Wake Up: check whether this is calm or shutdown.
-  - Open Up: let yourself feel what the calm might be muffling.
-  - Clean Up: map competing truths.
-  - Grow Up: select the integrating principle.
-  - Show Up: make the smallest coherent next move for the whole.
 
-#### Quick Triage Rule (When You’re Overloaded)
-
-- If your body is flooded: start with `WAVE-Somatic`.
-- If the field is unclear: start with Fear (stakes) or Anger (boundary).
-- If the field is brittle: start with Sadness (meaning) before strategy.
-- If the field is fragmented: start with Neutrality (whole view).
-- If the field is exhausted: start with Joy (restore aliveness) and then route to action.
-
-This is the practical contract: name the channel, regulate enough to read it, choose one move, and leave evidence in action.
+Use a channel question to examine what you have noticed. Use WAVE if you need a pause before you
+decide what that observation means. Then run the Form in the way the situation and the Face call
+for, and let other people answer what you have named.
 
 ---
 
