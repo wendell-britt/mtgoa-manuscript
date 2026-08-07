@@ -57,6 +57,26 @@ TERMS = [
     #     ('Amber', ...), ('Orange', ...), ('Green', ...), ('Teal', ...)
 ]
 
+# Terms whose debt is DESIGN, not oversight. A gap between first use and first
+# definition normally means a reader met jargon with no translation. For these it means
+# the book is withholding on purpose, and "fixing" it breaks the structure.
+#
+# Wendell 2026-08-05: the six Faces sit at six different altitudes, and the reader walks
+# that developmental sequence WITHOUT being told it is developmental. The reveal is held
+# to ch8 -- "*Which altitude is this?* is a vertical question, and its answer-set is the
+# six roles the schools teach... a fact about their development and not a fact about
+# their worth" -- and the withholding is aimed at Green's hierarchy allergy: a reader
+# told in Chapter 3 that she occupies a level rejects the ladder before she has walked
+# it. The usage curve is the design, visible in the counts: 0, 0, 4, 6, 2, 7, 14, 30, 3.
+#
+# This entry exists because I glossed `altitude` at ch3:241 on this date (DL-72),
+# cleared the "debt", and broke the reveal. The instrument cannot tell a withheld term
+# from an undefined one, so the ruling has to live where the instrument reads it.
+WITHHELD = {
+    'altitude': 'Held to ch8 by design (DL-73). The six Faces ARE the six altitudes and '
+                'the reader is not told until the Sage. Do not gloss it earlier.',
+}
+
 LINES = {}
 for c in range(1, 10):
     LINES[c] = io.open(MS+'ch%d.md' % c, encoding='utf-8').read().split('\n')
@@ -127,7 +147,9 @@ for name, fu, fd, dk, n, per in sorted(rows, key=lambda r: key(r[1])):
     u = 'ch%d:%d' % (fu[0], fu[1]) if fu else '—'
     d = 'ch%d:%d' % (fd[0], fd[1]) if fd else 'NEVER'
     debt = ''
-    if fu and (fd is None):
+    if name in WITHHELD:
+        debt = 'WITHHELD BY DESIGN'
+    elif fu and (fd is None):
         debt = 'NO DEFINITION'; debts.append((name, fu, fd, dk, 999999))
     elif fu and fd and key(fd) > key(fu):
         gap = 0
