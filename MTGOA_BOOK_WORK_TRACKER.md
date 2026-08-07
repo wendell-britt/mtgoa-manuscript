@@ -163,6 +163,12 @@ now direct body-present charge to WAVE first. The prose then directs the reader 
 workable charge through the Five-Move Form. No reader-facing `WAVE-Spiral` or macro-WAVE use
 remains.
 
+**Chapter 3 Feeling / Function and Move 5 revised.** Feeling is now defined as noticing a
+situation's effect before deciding what it means; Function is what becomes possible when the
+reader acts on the resulting question. The revision removes generic somatic scripting from the
+definition. Move 5 is now “Say What Is Going Unsaid” throughout its heading, example, recap,
+quest, and chapter close.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
