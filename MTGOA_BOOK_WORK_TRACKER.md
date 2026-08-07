@@ -211,6 +211,22 @@ trace:
 
 ---
 
+## Session — 2026-08-06 · Ch3 materiality-and-honesty fork
+
+**Approved and applied.** The P-04/P-08/P-07 rerun established that a
+correction path alone can support cosmetic participation. The approved fork now
+requires readers whose moves change others' conditions to name the decision
+that shapes those conditions and whether it remains open. Open decisions require
+named affected-person authority and the means to use it; closed decisions must
+be stated as leadership-owned, without calling advice shared power.
+
+**Verification:** exact anchor matched once; `dupes.py` clean; `git diff
+--check` clean. `gate.py -v` remains at four pre-existing body hits in Ch9, all
+for “thing”; the new Ch3 prose introduced none. The applied safe-edit script is
+`instruments/apply_ch3_materiality_honesty_fork.py`.
+
+---
+
 ## Session — 2026-08-03 · Jordan arc, Chapters 7–9
 
 **Approved and applied.** Nine review-approved replacements across Diplomat,

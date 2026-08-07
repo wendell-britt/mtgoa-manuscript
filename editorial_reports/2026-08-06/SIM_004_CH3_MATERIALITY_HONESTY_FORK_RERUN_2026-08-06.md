@@ -2,7 +2,7 @@
 
 **Date:** 2026-08-06  
 **Type:** Desk-simulation rerun; editorial hypothesis, not human-reader evidence  
-**Scope:** Test a proposal-level addition to the approved Ch3 relational-placement gate. No canonical manuscript prose changed.  
+**Scope:** Test a proposal-level addition to the approved Ch3 relational-placement gate. The candidate was later approved and applied to canonical Ch3.
 **Inputs:** P-04 Righteous Fixer; P-08 Authority Holder; P-07 Adjacent Convenor (regression).
 
 ## Fork under test
@@ -42,4 +42,4 @@
 - It prevents P-04 from treating correction as unpaid advice while preserving realistic limits on fund control.
 - It prevents P-08 from laundering cosmetic participation into shared authority, while allowing the book to name a closed leadership decision honestly.
 
-The candidate is ready to be shown as a proposed Ch3 insertion. Before any canonical edit, present the full surrounding old and new text for approval and rerun P-04 and P-08 against the applied reading surface. Human-reader calibration remains a post-ship v2 validation item.
+The candidate was approved and applied to canonical Ch3 after this rerun. Its applied-reading-surface regression remains the next simulation layer. Human-reader calibration remains a post-ship v2 validation item.
