@@ -169,6 +169,10 @@ reader acts on the resulting question. The revision removes generic somatic scri
 definition. Move 5 is now “Say What Is Going Unsaid” throughout its heading, example, recap,
 quest, and chapter close.
 
+**Somatic Markers cut.** The Five-Move Form no longer prescribes a bodily sequence or asks the
+reader to use generic somatic cues as proof of practice. WAVE remains the book's short somatic
+practice; the Form remains the larger practice for deciding what to do with what the reader finds.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction

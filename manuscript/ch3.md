@@ -547,26 +547,6 @@ A practiced Shaman moves fluidly:
 
 You practice this until it becomes your nervous system's operating system. Learning it once buys you nothing.
 
----
-
-### Somatic Markers: How to Know You're Actually Practicing
-
-The Five-Move Form is not just a thinking exercise. Your body should know you're doing it.
-
-**Wake:** You pause. Your thinking slows. You sense inward.
-
-**Open:** The muffling drops. What was faint gets closer and more distinct. You are feeling more, on purpose, and staying with it instead of turning it back down.
-
-**Clean:** Something shifts in your nervous system, not relief yet, but *recognition*. Your body says "yes, I feel this, and now I'm looking at it clearly."
-
-**Grow:** Your breathing deepens slightly. Your shoulders drop a millimeter. Your system says "I understand. The message landed."
-
-**Show:** You feel resourced enough to move. Not manic. Grounded. Your body says "I know what to do now."
-
-If you move through all five stages and you don't feel *any* of these somatic shifts, you might be thinking the Five-Move Form instead of practicing it. Come back to the body. Feel what's actually present.
-
----
-
 ### The Promise of the Five-Move Form
 
 The Shaman's practice (the Five-Move Form) prevents the distortion described in Section 2.
