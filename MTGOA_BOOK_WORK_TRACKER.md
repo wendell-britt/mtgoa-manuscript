@@ -213,6 +213,10 @@ an actual target, while the Shaman's contribution is noticing and testing a patt
 **Chapter 3 read audit, card prompt and cross-chapter setup.** The final floating noun uses now
 name an observation, a specific thing noticed, or the Shaman's contribution to the next Face.
 
+**Chapter 3 read audit, marginal note and Ines example.** The marginal note no longer treats a
+“read” as a portable object. The Ines example now gives the reader an observable change and a
+question, without claiming that the body knows what another person experienced.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction

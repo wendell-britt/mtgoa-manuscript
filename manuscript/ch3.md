@@ -217,9 +217,9 @@ That is the Shaman's superpower. That is what the villagers lost when the Shaman
 <!-- MARGINALIA -->
 > *Watch for the point where you get good at this and it becomes enough.*
 >
-> *You will start reading a company accurately. That is a real skill, rarer than it sounds, and
-> each accurate read will feel like a thing accomplished. It is not one. A read that never becomes
-> a move is a very sophisticated way of standing still, and I have watched people build whole
+> *You will start recognizing patterns in a company accurately. That is a real skill, rarer than it
+> sounds, and each accurate observation will feel like a thing accomplished. It is not one. An
+> observation that never changes a move is a very sophisticated way of standing still, and I have watched people build whole
 > careers in that spot and be admired the entire time.*
 <!-- /MARGINALIA -->
 
@@ -795,7 +795,7 @@ What you notice before the narration starts is the data, not the document. Every
 
 In practice: the marker arrives in the body, because the body registers before the account exists. Heat in the chest, a drop in the stomach, the jaw. When you notice one, do not ask what it means. Ask where it is and what it is doing. Meaning keeps; it will still be there later. The raw signal will not.
 
-**Example:** Somebody uses the wrong pronoun for Ines in a status meeting, corrects it, and moves on. Your chest tightens. Check the timing. The tightening did not land on the correction. It landed a second later, when Ines did not change her face. Your body read her, not the slip. You caught it because you have been the person holding your face still.
+**Example:** Somebody uses the wrong pronoun for Ines in a status meeting, corrects it, and moves on. A second later, Ines stops taking notes and does not speak again for the rest of the meeting. You do not know what that change means. You do know the correction did not finish the moment. Hold that question before you build a story about it.
 
 **The test:** You noticed where it landed in your body before you had a sentence explaining it. Accuracy is a separate question and a later one. If you can name the place and not the reason, you caught it in time.
 
