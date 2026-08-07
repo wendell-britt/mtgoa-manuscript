@@ -193,6 +193,24 @@ Full trace:
 
 ---
 
+## Session — 2026-08-06 · SIM-004, Ch3 materiality-and-honesty fork rerun
+
+**Desk rerun passes; no canonical prose changed.** The refined fork requires
+the reader to name the decision that actually shapes affected conditions and
+whether it remains open. When open, it requires named authority and means to
+use it; when closed, it requires leadership to own the decision and not call
+advice shared power.
+
+**Results:** P-04 transfers bounded authority over advance payment, proof, and
+pilot launch while retaining fund/legal limits. P-08 must transfer material
+vendor/access authority or publish the choice as leadership-owned. P-07 retains
+a narrow, refusal-safe resource offer without extracting coalition planning
+labor. The candidate is ready to present as a proposed Ch3 insertion. Full
+trace:
+`editorial_reports/2026-08-06/SIM_004_CH3_MATERIALITY_HONESTY_FORK_RERUN_2026-08-06.md`.
+
+---
+
 ## Session — 2026-08-03 · Jordan arc, Chapters 7–9
 
 **Approved and applied.** Nine review-approved replacements across Diplomat,
