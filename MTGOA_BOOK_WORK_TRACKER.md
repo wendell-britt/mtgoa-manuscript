@@ -198,6 +198,10 @@ defaulting to self-doubt whenever that noticing becomes inconvenient.
 consequences rather than a private “read” or an unnamed inner instrument. The collective/private
 pressure is stated as the questions that discourage the reader from trusting what they notice.
 
+**Chapter 3 read audit, Controller.** Floating noun uses in the Controller teaching now point to
+an objection, an observation, or what the reader noticed in a particular situation. Uses where a
+person actively reads a named target remain intact.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
