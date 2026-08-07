@@ -155,6 +155,25 @@ feedback-to-decision loop. Full card:
 
 ---
 
+## Session — 2026-08-06 · Pilot 2, P-08 Authority Holder whole-book run
+
+**Desk pilot complete; no canonical prose changed.** P-08 is action-capable by
+the end of the book: Ch9's “Hand Someone the Pen” distinguishes permission to
+run a design from authority to change, stop, or replace it. The simulated
+outcome transfers defined access decisions to compensated staff and patient
+advisors, includes a pause/scope-change mechanism, and requires a written
+leadership response.
+
+**Timing finding:** Ch3's relational-placement gate requires correction but can
+still be satisfied by improved consultation; Ch6's handoff can be misread as
+delegation. A six-week live decision could close before the reader reaches
+Ch9's explicit authority transfer. Next test is proposal-level only: add a
+narrow authority clause to the Ch3 gate and rerun P-04 and P-08, preserving
+legitimate executive responsibility. Full trace:
+`editorial_reports/2026-08-06/PILOT_2_P08_AUTHORITY_HOLDER_WHOLE_BOOK_2026-08-06.md`.
+
+---
+
 ## Session — 2026-08-03 · Jordan arc, Chapters 7–9
 
 **Approved and applied.** Nine review-approved replacements across Diplomat,
