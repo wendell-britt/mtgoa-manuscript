@@ -70,7 +70,7 @@ actually help, whether you do what you said you would do, whether you meant well
 from **Roger Mayer, James Davis and David Schoorman**, who call them ability, benevolence
 and integrity in "An Integrative Model of Organizational Trust" (*Academy of Management
 Review*, 1995). Their paper also separates trusting from being trustworthy, which the
-whole Trust System runs on. Chapter 1 adds the asymmetry between the three: the first two
+whole Trust System runs on. Chapter 1 adds the asymmetry between the three. The first two
 leave a record somebody can check, the third leaves none, so they guess. The paper does
 not say that; I do.
 

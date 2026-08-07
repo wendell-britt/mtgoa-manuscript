@@ -7,7 +7,7 @@
 
 ---
 
-Chapter 1 says pen and paper hold this, and it is right: a sheet you can only reach
+Chapter 1 says pen and paper hold this, and it is right. A sheet you can only reach
 through a screen is a sheet you will not open in the four seconds you need it.
 
 Thirteen lines. Each one is stamped with the chapter that asks for it, so the sheet fills
