@@ -5,6 +5,18 @@
 
 ---
 
+## Session — 2026-08-07 · Neutrality definition repair
+
+**Applied.** Chapter 3 now identifies the dissatisfied Earth / Neutrality channel as boredom
+or apathy and its satisfied state as peace. This establishes the source definition before the
+separate Chapter 7 cleanup: that chapter must distinguish a genuine Neutrality pattern from a
+structural control practice inside another Diplomat mode.
+
+**Verification.** `marginalia/review.py manuscript/ch3.md` reports BLOCK 0; `git diff --check`
+passes. The remaining Chapter 3 warnings predate this change.
+
+---
+
 ## Session — 2026-08-04 · Ch2 reader-run application
 
 Branch `editorial/ch2-reader-run-application`. Applies the approved Chapter 2 reader-run
