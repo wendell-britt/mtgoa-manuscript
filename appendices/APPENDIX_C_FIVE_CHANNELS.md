@@ -85,7 +85,7 @@ This is the practical contract: name the channel, regulate enough to read it, ch
 
 ## Four Worked Scenarios
 
-The point of these scenarios is not to classify every move perfectly. It is to feel the difference between a move that keeps the field workable, a move that returns capacity, and a move that spends capacity on purpose.
+These scenarios teach you to feel the difference between a move that keeps the field workable, a move that returns capacity, and a move that spends capacity on purpose. You do not have to classify each one perfectly.
 
 #### Scenario 1: Sustaining Move (In the Middle of a Conversation)
 

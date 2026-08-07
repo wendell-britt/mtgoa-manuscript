@@ -185,7 +185,12 @@ def book():
     bad = 0
     for label, cmd, want in steps:
         code, out = run(cmd)
-        tail = [l for l in out.strip().split("\n") if l.strip()][-1][:66]
+        # A step that prints nothing used to crash this line with IndexError, which is
+        # how wiring `voice_surfaces.py --quiet` in as step 0b took the whole book-wide
+        # pass down the moment its findings reached zero. A quiet success is the normal
+        # case for a check; the runner must survive it.
+        lines = [l for l in out.strip().split("\n") if l.strip()]
+        tail = lines[-1][:66] if lines else "clean"
         # marginalia/review.py exits 1 on a BLOCK finding, which is a candidate to
         # adjudicate rather than a build failure, so it reports rather than fails.
         # `or "review.py" in cmd[0]` exists because marginalia/review.py exits 1 on a

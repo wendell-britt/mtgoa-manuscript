@@ -71,6 +71,10 @@ def main():
         warn += w
         rows.append((rel, b, w))
 
+    if quiet and not block:
+        # Say the number even when it is zero. A check that prints nothing on success
+        # tells a reader it did not run.
+        print("voice surfaces clean -- %d file(s), 0 BLOCK, %d WARN" % (len(rows), warn))
     if not quiet or block:
         print("voice, shipping surfaces outside manuscript/ -- %d file(s)" % len(rows))
         for rel, b, w in rows:

@@ -90,7 +90,7 @@ Read Carse for the frame, Chou for the mechanics, and Nguyen for what playing do
 
 ## A Note on the Research
 
-The burnout claims in this book aren't impressions — they're grounded in **Christina Maslach's** clinical research (the Maslach Burnout Inventory and associated papers identify three dimensions: exhaustion, depersonalization, and inefficacy) and **Paul Gorski's** research on activist burnout specifically ("Burnout in Social Justice and Human Rights Activists: Symptoms, Causes, and Implications," 2015). Gorski's finding is the one that reorganized my thinking: identity fusion is the mechanism — when the work *is* who you are, there's nothing left to regulate the cost. Their work is the backbone of the book's central empirical claim: the problem isn't the practitioner. It's the design of the game.
+The burnout claims in this book aren't impressions — they're grounded in **Christina Maslach's** clinical research (the Maslach Burnout Inventory and associated papers identify three dimensions: exhaustion, depersonalization, and inefficacy) and **Paul Gorski's** research on activist burnout specifically ("Burnout in Social Justice and Human Rights Activists: Symptoms, Causes, and Implications," 2015). Gorski's finding is the one that reorganized my thinking: identity fusion is the mechanism — when the work *is* who you are, there's nothing left to regulate the cost. Their work is the backbone of the book's central empirical claim: the problem is the design of the game, not the practitioner.
 
 ---
 
