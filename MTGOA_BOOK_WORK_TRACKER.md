@@ -177,6 +177,10 @@ practice; the Form remains the larger practice for deciding what to do with what
 enjoying the work while someone is suffering. The move is to receive what is working without
 performing it, declaring the work finished, or looking away from remaining harm.
 
+**Open Up overclaim replaced.** The burnout and empathy diagnosis has been replaced with a
+bounded explanation of why opening can feel risky. WAVE now gives the reader the concrete scale:
+make room for one response, name it, and decide whether it belongs in the moment.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
