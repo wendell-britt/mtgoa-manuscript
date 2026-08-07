@@ -244,6 +244,24 @@ behavior under pressure. Full regression:
 
 ---
 
+## Session — 2026-08-06 · Pilot 3, P-09 recently corrected manager
+
+**Desk pilot complete; no canonical prose changed.** P-09 was corrected by a
+subordinate who explicitly refused a repair meeting and limited contact to
+project logistics. Ch2 routes remorse to an appropriate support role; Ch3–6
+convert correction into workload, attribution, launch-gate, and review-authority
+changes; Ch8–9 preserve boundary-respecting feedback and handoff.
+
+**Safety-relevant finding:** Ch7's Repair move says not to give the harmed
+person space and to stay. For a reader with power and a direct no-contact
+boundary, that can be read as entitlement to continued interpersonal access.
+Next proposal-level test: clarify that staying means accountability and
+reachability on terms the other person chooses, not insistence on access; rerun
+P-09 and a peer-to-peer rupture card. Full trace:
+`editorial_reports/2026-08-06/PILOT_3_P09_RECENTLY_CORRECTED_MANAGER_2026-08-06.md`.
+
+---
+
 ## Session — 2026-08-03 · Jordan arc, Chapters 7–9
 
 **Approved and applied.** Nine review-approved replacements across Diplomat,
