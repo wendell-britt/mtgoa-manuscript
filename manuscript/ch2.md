@@ -117,9 +117,9 @@ You may have done everything the work asked: showed up, listened, gone to the tr
 
 The question is: Were you doing this to change something, or to seem like the kind of person who would?
 
-In a meeting, someone stops answering the central question. The conversation shifts to safer topics. Agreement matters more than honesty. You notice what is happening, then set that read aside.
+In a meeting, someone stops answering the central question. The conversation shifts to safer topics. Agreement matters more than honesty. You notice the change and decide it is safer not to say anything.
 
-In the same way you do not need permission to notice what is going on in your body, you do not need permission to notice what is going on in the places where your body is. You might not be correct in your read, but it is better than not being present at all.
+You do not need permission to notice what is happening around you. Notice does not make you right. Name the event and your response separately, then leave space for other people to add what you could not see.
 
 Wanting to be good was never the problem. Image management diverts attention from the person in front of you.
 
@@ -369,21 +369,15 @@ The practice format in this book (naming where you are now, finding where you wa
 
 Think of a charged situation from your last week. A conversation you replayed on the drive home. A message you drafted and deleted. A decision you kept circling without landing.
 
-Don't analyze it yet.
+Do not decide what it means yet.
 
-Find it in your body first.
+Start with two parts: the event and your response. *The decision stayed with me after the meeting. I drafted a reply three times and did not send it.* A response can be a sensation, a thought, an image, or a detail you cannot stop returning to. If a sensation is part of it, name it in ordinary language. You do not have to locate it or make it explain the event.
 
-Where does it live? Chest, throat, jaw, belly: somewhere in there sits a sensation that hasn't resolved. Find it.
+Write only what you can stand behind: what happened, and what changed for you. Let the meaning stay open long enough to ask what else could be true.
 
-Put your hand there if that helps.
+Chapter 3 gives you WAVE for moments when a response is already charged. Here, the first Shaman move is smaller: make a question before a story closes around the situation.
 
-Now: what is the sensation? The sensation itself, underneath the story of what happened and what you should have said. Hot or cold. Tight or spacious. Moving or still.
-
-You don't have to know what it means. You just have to locate it.
-
-That location is data. The Shaman's first move never changes: find out where the information lives before deciding what to do with it. Before the script. Before the strategy. Before the conversation you will have in your head on the way home.
-
-*You just made the first move. Before the feeling fades, get down what you noticed, where it lived, and what it might be trying to say. Two minutes to capture it as a BAR.*
+*You just made the first move. Before the situation recedes, get down what happened, what you noticed, and one question you are not ready to answer. Two minutes to capture it as a BAR.*
 
 ---
 
@@ -420,17 +414,15 @@ By the end of this chapter, you should know:
 
 ## Try It Now: The Second Move — Say It Out Loud
 
-You found the sensation. Now let it be heard.
+You have named an event and your response. Now give someone else a chance to answer it.
 
-Within the next two days, say one body-read out loud to another person, and say it to someone where it isn't already safe to, in a live moment, not a debrief afterward. One sentence, small enough that it is neither a confession nor a processing session, and placed where it costs something: *"Something just shifted in my chest. Give me a second."* Even when your voice isn't steady. Even when you're not sure you've got the word right: *"I think that landed as anger. I'm not certain. Something moved though."*
+Within the next two days, say one observation out loud in a live moment, to someone who does not already know what you noticed. Keep it to one sentence, small enough that it is neither a confession nor a processing session, and concrete enough for another person to answer: *"That comment stayed with me. I need a second."* Or: *"I want to pause on what just happened. I am not sure I have it right, but I do not want us to move past it."*
 
-That's the whole action. One read, said out loud, to one person who doesn't already know, inside forty-eight hours.
+That is the whole action. One observation, said out loud, to one person who can answer it, inside forty-eight hours.
 
-Look at what you're actually doing, underneath the instruction. The part of you that reads a group (the one that clocks when a meeting has gone cold before anyone speaks) has been living in exile. You sent it away because claiming it felt like taking something that wasn't yours. So it reads, and reads, and never gets to speak. Saying it out loud is how that part comes home. It finds out it's allowed to speak.
+A part of you notices when a conversation moves away from its central question, when someone stops contributing after a decision, or when agreement comes too quickly. That part may have learned to stay silent because naming what it noticed felt like claiming too much. It can still offer a question without claiming certainty.
 
-(If naming it out loud feels like claiming something that isn't yours, that's the exile talking. Say it anyway. The body that did the reading was yours the whole time.)
-
-*You said it out loud. Before the moment closes, get down what you noticed, who you said it to, and what shifted after. The read becomes a move, and the part that reads comes a little further home. Two minutes to capture it as a BAR.*
+*You said it out loud. Before the moment closes, get down what you noticed, who you said it to, and what they said or did next. An observation becomes a move when someone else can respond to it. Two minutes to capture it as a BAR.*
 
 ---
 
