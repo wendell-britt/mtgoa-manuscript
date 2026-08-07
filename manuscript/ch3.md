@@ -859,20 +859,20 @@ The moves are what you do. The next question is where.
 
 ---
 
-### Where You'll Actually Spend the Read
+### Where You'll Actually Make a Move
 
-The parable showed one of the four: Direct Action, the true thing said to a face. It is the Shaman's steepest, the domain where the read has to leave you and cost you something in front of the person it concerns.
+The parable showed one of the four: Direct Action, the true thing said to a face. It is the Shaman's steepest, the domain where you have to say what you noticed to the person it concerns and let it cost you something.
 
-The read has four domains, and one cheap habit that is none of them. The cheap habit is the read you keep: you sense what moves, refine it, and never say it, your body never on the line. Reading under the surface is real skill, and it asks nothing of you, because no one ever has to watch you get it wrong. A louder version of the same safety runs alongside it. You do say something, but only the correct words, the ones no one can fault, and that is the awareness trap, the habit that swallowed the others because you can run it from the chair. Both keep the true thing unsaid. The four domains are where it finally leaves: the true thing said to a face, the true thing said out loud in place of the right thing, the honest need named and asked for, the unsaid thing put on the table so a group can work. Each costs more than sensing, because each trades the safety of the accurate private read for the risk of getting it wrong out loud.
+What you notice can lead into four domains, and one cheap habit that is none of them. The cheap habit is what you keep to yourself: you sense what moves, refine it, and never say it, your body never on the line. Noticing what runs beneath the surface is a real skill, and it asks nothing of you, because no one ever has to watch you get it wrong. A louder version of the same safety runs alongside it. You do say something, but only the correct words, the ones no one can fault, and that is the awareness trap, the habit that swallowed the others because you can run it from the chair. Both keep the true thing unsaid. The four domains are where it finally leaves: the true thing said to a face, the true thing said out loud in place of the right thing, the honest need named and asked for, the unsaid thing put on the table so a group can work. Each costs more than sensing, because each trades the safety of a private observation for the risk of getting it wrong out loud.
 
-So here are all four, and before them the three things that decide whether saying it helps or wounds. Not to study: pick where you'll spend the read this week, and pick the domain you keep avoiding. If the read only ever circles back into your own head, refined and unsaid, or comes out dressed in the words no one can fault, you never made the Shaman's move. You practiced it.
+So here are all four, and before them the three things that decide whether saying it helps or wounds. Not to study: pick one domain for a move this week, and pick the domain you keep avoiding. If what you notice only ever circles back into your own head, refined and unsaid, or comes out dressed in the words no one can fault, you never made the Shaman's move. You practiced it.
 
 ### How to Say It So It Helps
 When you say the true thing, what you do next decides whether it helps the person or wounds them, and the same three moves decide it in every domain.
 
-**Don't manage their reaction away.** You name the real thing and the read tells you it landed: they get defensive, or shut down, or well up. Now the old Controller reaches to put a lid on it, theirs this time: *no, no, I didn't mean it like that.* That's the same lid you've been prying off your own feeling, now reaching for someone else's. The referee holds a different rule: feelings are allowed on the field, theirs too. Let the reaction be there, and stay in it with them instead of smoothing it flat.
+**Don't manage their reaction away.** You name the real thing and can see that it landed: they get defensive, or shut down, or well up. Now the old Controller reaches to put a lid on it, theirs this time: *no, no, I didn't mean it like that.* That's the same lid you've been prying off your own feeling, now reaching for someone else's. The referee holds a different rule: feelings are allowed on the field, theirs too. Let the reaction be there, and stay in it with them instead of smoothing it flat.
 
-**Say it as yourself, not from above.** Watch the moment you shift from feeling the thing to pronouncing it. "What's really going on here is…" is the judge handing down a verdict from above, something to defend against. "This is what I feel is happening, and I could be wrong" is the same read offered as your own, something they can meet. The referee keeps you at eye level: name what's in play, don't sentence anyone.
+**Say it as yourself, not from above.** Watch the moment you shift from feeling the thing to pronouncing it. "What's really going on here is…" is the judge handing down a verdict from above, something to defend against. "This is what I feel is happening, and I could be wrong" is the same intuition, offered as your own, something they can meet. The referee keeps you at eye level: name what's in play, don't sentence anyone.
 
 **Don't say it and leave.** The riskiest second comes right after the words are out, when the fear grabs for the exit: soften it, make a joke, change the subject. Leaving strands the person with the hard thing you just handed them. This is the referee's purest move: it holds you to what you started when everything in you wants to quit the field. Staying present, without defending and without adding anything, lets the truth land as care instead of an ambush.
 
@@ -882,7 +882,7 @@ When you say the true thing, what you do next decides whether it helps the perso
 
 **Raise Awareness — the true thing over the right thing**
 
-*You're winning when:* you said what was actually happening, the read under the approved language, to the real people who needed to hear it, including the one it implicates, instead of the correct-sounding version that keeps you safe. It cost you the cover of the right words. The proof is that the group met the real thing and not the performance of it.
+*You're winning when:* you said what was actually happening underneath the approved language to the real people who needed to hear it, including the one it implicates, instead of the correct-sounding version that keeps you safe. It cost you the cover of the right words. The proof is that the group met the real thing and not the performance of it.
 
 **Gather Resources — the real need named**
 
@@ -894,7 +894,7 @@ When you say the true thing, what you do next decides whether it helps the perso
 
 ### After this, everything stands on it
 
-The Diplomat's close, the Challenger's line, the Regent's stand, the Architect's design: not one of them is worth anything built on a bad read. You are the first face for a reason. Every move the other five make begins here, with someone who can feel what is actually happening and say it where it counts. The Challenger aims the read into a line. The Architect builds structure from it. The Regent keeps what the read found worth keeping. The read comes first, and a read that never leaves the chair stalls the whole game. That is why you start with the Shaman, and why one true sentence, said and not only felt, is the move everything else will stand on.
+The Diplomat's close, the Challenger's line, the Regent's stand, the Architect's design: none of them can do much if the first observation is wrong or never tested. You are the first face for a reason. Every move the other five make begins here, with someone who can feel what is actually happening and say it where it counts. The Challenger turns what you notice into a line. The Architect builds structure from it. The Regent keeps what the observation shows is worth keeping. An observation that never leaves the chair stalls the whole game. That is why you start with the Shaman, and why one true sentence, said and not only felt, is the move everything else will stand on.
 
 ### The Tell
 
@@ -905,7 +905,7 @@ None of the four markers asked why you said it. That question is real. A Shaman 
 - **Gather Resources.** Did you ask for what the situation needs, or for what makes you look most attuned?
 - **Skillful Organizing.** Did you name the unsaid thing to free the work, or to be the one who finally said it?
 
-Each Tell targets the Shaman's signature failure: the read spent on being seen as perceptive instead of on changing something.
+Each Tell targets the Shaman's signature failure: what you notice spent on being seen as perceptive instead of on changing something.
 
 ---
 
@@ -962,9 +962,9 @@ The tell that a quest is alive is not enthusiasm. It is anticipation with some d
 
 The Shaman contributes this to the allyship game: **before strategy, before structure, before any move you make in the world, there is pattern.** Emotional pattern. Somatic pattern. The pattern of what you actually feel, what you actually need, what you actually are.
 
-The Shaman teaches you to read that pattern, in yourself, in others, in the group.
+The Shaman teaches you to notice that pattern, in yourself, in others, in the group.
 
-One more voice waits on the other side of the read. The moment you take it into the world and say the true thing, the doubt speaks up first: *is it even real? Are you sure, or are you making it up?* That is the Skeptic, the part that doubts your own knowing before anyone else can, and the next face begins there. The Challenger cannot do their work without the Shaman's work done first. The Challenger's superpower is the ability to name what's unacceptable. To draw a line. To say "this is not okay." If you don't know what you *feel* about what's unacceptable, if you haven't read the emotional truth underneath, then the Challenger's line is performance. It's strategy without root.
+One more voice waits when you bring what you noticed into the world. The moment you take it into the world and say the true thing, the doubt speaks up first: *is it even real? Are you sure, or are you making it up?* That is the Skeptic, the part that doubts your own knowing before anyone else can, and the next face begins there. The Challenger cannot do their work without the Shaman's work done first. The Challenger's superpower is the ability to name what's unacceptable. To draw a line. To say "this is not okay." If you don't know what you *feel* about what's unacceptable, if you haven't noticed the emotional truth underneath, then the Challenger's line is performance. It's strategy without root.
 
 Every great boundary is rooted in a feeling. Every genuine "no" comes from a Shaman who knows what they actually care about.
 

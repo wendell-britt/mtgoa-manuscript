@@ -206,6 +206,10 @@ person actively reads a named target remain intact.
 notice in a situation and what they say from it, rather than treating “the read” as a transferable
 object.
 
+**Chapter 3 read audit, domains and handoff.** The four domains are now framed as places to make
+a move from an observation. The closing handoff keeps active reading language only where it names
+an actual target, while the Shaman's contribution is noticing and testing a pattern.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
