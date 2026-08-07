@@ -617,7 +617,7 @@ The Player shows the villagers what it looks like to walk all six Faces and come
 
 The Player gives the villagers permission. Permission to use all six Faces as tools. Permission to design their own practice. Permission to build something new. Permission to go first.
 
-The Player shows that the six Faces were never the destination. They were the toolkit. The Player shows that mastery is not about *being* one Face, it's about *playing* all six when the moment requires it. The Player shows that the goal is not to arrive at Sage and stay there. The goal is to be able to play any game the villagers need played, whatever the moment requires.
+The Player shows that the six Faces were never the destination. They were the toolkit. Mastery is playing all six as the moment requires, and Sage is a seat you take and leave like the other five. The goal is to be able to play any game the villagers need played, whatever the moment requires.
 
 The Player leaves behind not a method but a path. The path continues.
 
