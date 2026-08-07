@@ -194,6 +194,10 @@ then run the Form slowly, then use repetition to recognize a live situation and 
 recognizable group patterns. The passage distinguishes checking what the reader noticed from
 defaulting to self-doubt whenever that noticing becomes inconvenient.
 
+**Chapter 3 read audit, Feeling and Function.** The two failure modes now name observable
+consequences rather than a private “read” or an unnamed inner instrument. The collective/private
+pressure is stated as the questions that discourage the reader from trusting what they notice.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
