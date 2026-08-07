@@ -186,6 +186,10 @@ handoff: notice the response, use WAVE and the Form to choose a move, make the r
 to others, then meet the Challenger's question of holding a line. The Alchemist close and
 character-sheet prompt remain in place.
 
+**Form practice language revised.** The punitive claim that one pass “buys you nothing” and the
+generic nervous-system metaphor are replaced with a practical progression: first learn the map,
+then run the Form slowly, then use repetition to recognize a live situation and choose a move.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction

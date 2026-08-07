@@ -545,7 +545,7 @@ A practiced Shaman moves fluidly:
 - Can tell when a move returns capacity, protects capacity, or spends capacity for a worthy reason
 - Moves at the right tempo (10 seconds in a meeting, 10 minutes alone, 10 hours for deep integration)
 
-You practice this until it becomes your nervous system's operating system. Learning it once buys you nothing.
+Your first pass gives you the map. Run the Form slowly at first. Repetition helps you recognize what is happening sooner and find a move with care when the situation is moving faster than you can explain it.
 
 ### The Promise of the Five-Move Form
 
