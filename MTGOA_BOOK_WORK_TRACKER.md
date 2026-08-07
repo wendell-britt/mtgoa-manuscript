@@ -173,6 +173,10 @@ quest, and chapter close.
 reader to use generic somatic cues as proof of practice. WAVE remains the book's short somatic
 practice; the Form remains the larger practice for deciding what to do with what the reader finds.
 
+**Joy subsection revised.** Joy now names the actual social risk for an ally: being seen
+enjoying the work while someone is suffering. The move is to receive what is working without
+performing it, declaring the work finished, or looking away from remaining harm.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
