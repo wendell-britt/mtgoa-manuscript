@@ -217,6 +217,10 @@ name an observation, a specific thing noticed, or the Shaman's contribution to t
 “read” as a portable object. The Ines example now gives the reader an observable change and a
 question, without claiming that the body knows what another person experienced.
 
+**Chapter 3 Wake Up revision.** The practice now separates an observable event from the reader's
+response and makes both provisional. It no longer treats a nonspecific bodily marker as reliable
+early information about someone else's experience.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction

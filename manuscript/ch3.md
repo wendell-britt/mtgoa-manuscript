@@ -787,17 +787,17 @@ Everything in Section 4 was the instrument. These five are what you do with it w
 
 ### Move 1 · Wake Up — Catch It Before the Story
 
-**What it is:** You catch the signal in the second before your mind writes the account of what it means.
+**What it is:** Notice what changes in your attention before you decide what it means.
 
-**Why it matters:** A feeling arrives with about a second of clean data attached to it. The story comes next: who did what, what it says about them, what it says about you, whether you are allowed to be having this at all. The story arrives so fast that it feels like the same event. It is not. It is a second thing built on top of the first, and by the time you are working with it, you are no longer reading the situation. You are reading your explanation of the situation, a document you wrote.
+**Why it matters:** A situation can affect you before you have an explanation. A comment follows you home. Someone stops participating after a decision. You begin listening to a meeting differently. None of those reactions proves what happened. They give you a question before your first story seals it.
 
 What you notice before the narration starts is the data, not the document. Everything downstream (the channel you name, the sentence you say, the domain you spend it in) is only as good as what you caught before the narration started.
 
-In practice: the marker arrives in the body, because the body registers before the account exists. Heat in the chest, a drop in the stomach, the jaw. When you notice one, do not ask what it means. Ask where it is and what it is doing. Meaning keeps; it will still be there later. The raw signal will not.
+In practice: pause long enough to name the event and your response separately. *Ines stopped taking notes after the correction. I keep thinking about it.* Do not decide why yet. Hold the question long enough to ask what else could be true.
 
 **Example:** Somebody uses the wrong pronoun for Ines in a status meeting, corrects it, and moves on. A second later, Ines stops taking notes and does not speak again for the rest of the meeting. You do not know what that change means. You do know the correction did not finish the moment. Hold that question before you build a story about it.
 
-**The test:** You noticed where it landed in your body before you had a sentence explaining it. Accuracy is a separate question and a later one. If you can name the place and not the reason, you caught it in time.
+**The test:** You can name what happened and what you noticed without claiming to know its meaning.
 
 ### Move 2 · Open Up — Turn the Dial Up
 
