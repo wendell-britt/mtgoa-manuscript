@@ -247,6 +247,23 @@ an observation other people can answer.
 **Chapter 3 Challenger urgency framing.** The opening compression is now explicitly the
 Challenger's account of a situation, rather than an unqualified narrator claim.
 
+**Chapter 2 threshold bridge revised.** The Forest and its two Shaman practices now distinguish
+an observable event from the reader's response, hold meaning open for correction, and use an
+observation that another person can answer. Chapter 2 names WAVE as the next chapter's practice
+for a charged response without duplicating its introduction. The old body-location script and
+free-floating “read” language are removed from this sequence.
+
+**Chapter 3 private Form alignment, Wake Up and Open Up.** The Forest’s first pass now teaches
+the same Wake Up and Open Up jobs as the public Form: separate an event from the response it
+evokes, then use WAVE before choosing a move. The old body-detector and sensitivity-dial claims
+are removed; the approved WAVE practice is retained verbatim. Clean Up through Show Up remain
+the next bounded alignment pass.
+
+**Appendix C reference-guide repair.** The appendix now distinguishes WAVE as a short
+Welcome/Acknowledge/Validate/Exhale pause from the Five-Move Form as the recurring practice.
+Channel questions remain reference material; their former fixed Form ladders and regulation claims
+are removed. Worked scenarios remain for a later editorial pass.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
