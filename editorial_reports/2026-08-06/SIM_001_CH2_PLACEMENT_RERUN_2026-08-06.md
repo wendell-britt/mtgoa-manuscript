@@ -1,9 +1,9 @@
 # SIM-001 — Ch2 Placement Bridge Rerun
 
-**Date:** 2026-08-06  
-**Type:** Desk-simulation rerun; editorial hypothesis, not human-reader evidence  
-**Source revision:** `manuscript/ch2.md`, approved insertion after the Second Move examples  
-**Inputs:** P-03 Conflict-Avoiding Friend and P-04 Righteous Fixer, from the Pilot 0 Journey Cards  
+**Date:** 2026-08-06
+**Type:** Desk-simulation rerun; editorial hypothesis, not human-reader evidence
+**Source revision:** `manuscript/ch2.md`, approved insertion after the Second Move examples
+**Inputs:** P-03 Conflict-Avoiding Friend and P-04 Righteous Fixer, from the Pilot 0 Journey Cards
 **Scope:** Re-run Ch2 only. No claim is made about the whole book from this result.
 
 ## The revision under test

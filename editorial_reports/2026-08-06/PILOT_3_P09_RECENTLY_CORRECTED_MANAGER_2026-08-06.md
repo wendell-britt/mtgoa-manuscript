@@ -1,8 +1,8 @@
 # Pilot 3 — P-09 Recently Corrected Manager
 
-**Run date:** 2026-08-06  
-**Status:** Desk simulation / editorial hypothesis; not human-reader evidence  
-**Reading surface:** Canonical manuscript on `codex/ch2-placement-rerun-2026-08-06`, commit `21f675e`  
+**Run date:** 2026-08-06
+**Status:** Desk simulation / editorial hypothesis; not human-reader evidence
+**Reading surface:** Canonical manuscript on `codex/ch2-placement-rerun-2026-08-06`, commit `21f675e`
 **Question:** Can the book move a manager from remorse and self-protection to material repair without extracting contact, forgiveness, or unpaid coaching from the person harmed?
 
 ## Journey Card — P-09, Apologetic Sponsor

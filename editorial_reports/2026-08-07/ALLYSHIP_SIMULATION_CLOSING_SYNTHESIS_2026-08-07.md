@@ -1,8 +1,8 @@
 # Allyship Simulation — Closing Synthesis
 
-**Date:** 2026-08-07  
-**Status:** Desk-simulation release pass complete  
-**Reading surface:** Canonical `manuscript/ch1.md`–`manuscript/ch9.md`  
+**Date:** 2026-08-07
+**Status:** Desk-simulation release pass complete
+**Reading surface:** Canonical `manuscript/ch1.md`–`manuscript/ch9.md`
 **Scope:** Fictional composite personas used to stress-test whether the book
 converts a reader’s allyship practice into an accountable action. This is not
 human-subject research, reader validation, or a claim about any real person.

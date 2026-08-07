@@ -1,9 +1,9 @@
 # Pilot 2 — P-08 Authority Holder: Whole-Book Simulation
 
-**Run date:** 2026-08-06  
-**Status:** Desk simulation / editorial hypothesis; not human-reader evidence  
-**Reading surface:** Canonical manuscript on `codex/ch2-placement-rerun-2026-08-06`, commit `c3ff5b9`  
-**Card:** `P08_AUTHORITY_HOLDER_JOURNEY_CARD_2026-08-06.md`  
+**Run date:** 2026-08-06
+**Status:** Desk simulation / editorial hypothesis; not human-reader evidence
+**Reading surface:** Canonical manuscript on `codex/ch2-placement-rerun-2026-08-06`, commit `c3ff5b9`
+**Card:** `P08_AUTHORITY_HOLDER_JOURNEY_CARD_2026-08-06.md`
 **Question:** Can the book move a well-resourced executive from consultative empowerment to shared authority before a live, time-bounded decision closes?
 
 ## Classification rule

@@ -1,8 +1,8 @@
 # Pilot 1 — P-07: No-Standing Cross-Face Simulation
 
-**Run date:** 2026-08-06  
-**Status:** Desk simulation / editorial hypothesis; not human-reader evidence  
-**Reading surface:** Canonical `manuscript/ch3.md`–`ch8.md` on `codex/ch2-placement-rerun-2026-08-06`, commit `216f710`  
+**Run date:** 2026-08-06
+**Status:** Desk simulation / editorial hypothesis; not human-reader evidence
+**Reading surface:** Canonical `manuscript/ch3.md`–`ch8.md` on `codex/ch2-placement-rerun-2026-08-06`, commit `216f710`
 **Question:** Can the book route a reader with resources but no earned standing to permission, bounded contribution, appropriate support, or principled step-back—without calling that avoidance?
 
 ## Journey Card — P-07, Adjacent Convenor

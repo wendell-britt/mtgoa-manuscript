@@ -1,9 +1,9 @@
 # SIM-008 — P-08 Applied Whole-Book Regression
 
-**Date:** 2026-08-07  
-**Type:** Desk-simulation regression against applied canonical prose; not human-reader evidence  
-**Reading surface:** `manuscript/ch1.md`–`manuscript/ch9.md` at commit `b0ad492`  
-**Card:** `P-08 — Authority Holder`  
+**Date:** 2026-08-07
+**Type:** Desk-simulation regression against applied canonical prose; not human-reader evidence
+**Reading surface:** `manuscript/ch1.md`–`manuscript/ch9.md` at commit `b0ad492`
+**Card:** `P-08 — Authority Holder`
 **Question:** Can a well-resourced executive move from “I empower people inside
 my authority” to a decision structure in which affected people can alter what
 he controls, without pretending he can hand away authority he does not hold?

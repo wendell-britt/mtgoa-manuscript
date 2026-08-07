@@ -1,7 +1,7 @@
 # SIM-006 — Ch7 Boundary-Respect Rerun
 
-**Date:** 2026-08-06  
-**Type:** Desk-simulation rerun; editorial hypothesis, not human-reader evidence  
+**Date:** 2026-08-06
+**Type:** Desk-simulation rerun; editorial hypothesis, not human-reader evidence
 **Scope:** Test a proposal-level clarification after Ch7’s “Stay” instruction. The candidate was later approved and applied to canonical Ch7.
 **Inputs:** P-09 Apologetic Sponsor; P-10 Withdrawing Peer.
 

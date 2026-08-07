@@ -1,8 +1,8 @@
 # SIM-003 — Ch3 Authority-Clause Rerun
 
-**Date:** 2026-08-06  
-**Type:** Desk-simulation rerun; editorial hypothesis, not human-reader evidence  
-**Scope:** Test a proposal-level addition to the approved Ch3 relational-placement gate. No canonical prose changed.  
+**Date:** 2026-08-06
+**Type:** Desk-simulation rerun; editorial hypothesis, not human-reader evidence
+**Scope:** Test a proposal-level addition to the approved Ch3 relational-placement gate. No canonical prose changed.
 **Inputs:** P-04 Righteous Fixer and P-08 Authority Holder.
 
 ## Clause under test

@@ -1,7 +1,7 @@
 # SIM-004 — Ch3 Materiality-and-Honesty Fork Rerun
 
-**Date:** 2026-08-06  
-**Type:** Desk-simulation rerun; editorial hypothesis, not human-reader evidence  
+**Date:** 2026-08-06
+**Type:** Desk-simulation rerun; editorial hypothesis, not human-reader evidence
 **Scope:** Test a proposal-level addition to the approved Ch3 relational-placement gate. The candidate was later approved and applied to canonical Ch3.
 **Inputs:** P-04 Righteous Fixer; P-08 Authority Holder; P-07 Adjacent Convenor (regression).
 

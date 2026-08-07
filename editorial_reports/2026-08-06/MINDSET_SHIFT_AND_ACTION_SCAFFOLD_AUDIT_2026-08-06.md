@@ -1,8 +1,8 @@
 # Mindset Shift and Action-Scaffold Audit
 
-**Date:** 2026-08-06  
-**Status:** Desk analysis of the canonical manuscript; not human-reader evidence  
-**Reading surface:** `codex/ch2-placement-rerun-2026-08-06`, commits `3bf9e20` and `3bc9f8c`  
+**Date:** 2026-08-06
+**Status:** Desk analysis of the canonical manuscript; not human-reader evidence
+**Reading surface:** `codex/ch2-placement-rerun-2026-08-06`, commits `3bf9e20` and `3bc9f8c`
 **Purpose:** Test whether each mindset shift is introduced before its call to action requires it, and whether a reader can distinguish accountable action from overreach, extraction, or avoidance.
 
 ## Scope and decision

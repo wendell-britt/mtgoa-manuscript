@@ -1,9 +1,9 @@
 # Pilot 0 — P-06 Resumed: Well-Read Spectator
 
-**Run date:** 2026-08-06  
-**Status:** Desk simulation / editorial hypothesis, not human-reader evidence  
-**Reading surface:** `codex/ch2-placement-rerun-2026-08-06` commit `3bf9e20`; Ch2 hash `8ed3ee3496a4798f40db197a1ab8b9765c649bab349be96150657f703cc4f503`  
-**Card source:** `PILOT_0_JOURNEY_CARDS_2026-08-06.md` on the simulation-spec branch  
+**Run date:** 2026-08-06
+**Status:** Desk simulation / editorial hypothesis, not human-reader evidence
+**Reading surface:** `codex/ch2-placement-rerun-2026-08-06` commit `3bf9e20`; Ch2 hash `8ed3ee3496a4798f40db197a1ab8b9765c649bab349be96150657f703cc4f503`
+**Card source:** `PILOT_0_JOURNEY_CARDS_2026-08-06.md` on the simulation-spec branch
 **Result:** Action-capable. No new repeated action-conversion failure found.
 
 ## Chapter trace

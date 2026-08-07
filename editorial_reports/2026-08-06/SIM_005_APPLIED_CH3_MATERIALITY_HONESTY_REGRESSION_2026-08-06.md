@@ -1,8 +1,8 @@
 # SIM-005 — Applied Ch3 Materiality-and-Honesty Regression
 
-**Date:** 2026-08-06  
-**Type:** Desk-simulation regression; editorial hypothesis, not human-reader evidence  
-**Reading surface:** Canonical `manuscript/ch3.md` on `codex/ch2-placement-rerun-2026-08-06`, commit `b0edf33`  
+**Date:** 2026-08-06
+**Type:** Desk-simulation regression; editorial hypothesis, not human-reader evidence
+**Reading surface:** Canonical `manuscript/ch3.md` on `codex/ch2-placement-rerun-2026-08-06`, commit `b0edf33`
 **Inputs:** P-04 Righteous Fixer; P-08 Authority Holder; P-07 Adjacent Convenor.
 
 ## Applied passage under test

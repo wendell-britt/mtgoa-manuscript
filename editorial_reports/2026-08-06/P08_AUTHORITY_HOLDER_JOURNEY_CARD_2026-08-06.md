@@ -1,7 +1,7 @@
 # P-08 — Authority Holder Journey Card
 
-**Created:** 2026-08-06  
-**Status:** Fictional composite for desk simulation and buyer-reader design; not a portrait or diagnosis of a real person  
+**Created:** 2026-08-06
+**Status:** Fictional composite for desk simulation and buyer-reader design; not a portrait or diagnosis of a real person
 **Primary use:** Complementary authority test for Chapters 3–8
 
 ## Design premise

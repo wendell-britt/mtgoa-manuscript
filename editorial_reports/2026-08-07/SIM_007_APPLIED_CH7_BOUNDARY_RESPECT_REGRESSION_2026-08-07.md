@@ -1,8 +1,8 @@
 # SIM-007 — Applied Ch7 Boundary-Respect Regression
 
-**Date:** 2026-08-07  
-**Type:** Desk-simulation regression against applied canonical prose; not human-reader evidence  
-**Reading surface:** `manuscript/ch7.md` at commit `6394307`  
+**Date:** 2026-08-07
+**Type:** Desk-simulation regression against applied canonical prose; not human-reader evidence
+**Reading surface:** `manuscript/ch7.md` at commit `6394307`
 **Inputs:** P-09 Apologetic Sponsor; P-10 Withdrawing Peer
 
 ## Applied surface under test

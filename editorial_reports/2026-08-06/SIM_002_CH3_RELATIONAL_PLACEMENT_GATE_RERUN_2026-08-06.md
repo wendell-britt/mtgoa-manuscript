@@ -1,8 +1,8 @@
 # SIM-002 — Ch3 Relational-Placement Gate Rerun
 
-**Date:** 2026-08-06  
-**Type:** Desk-simulation rerun; editorial hypothesis, not human-reader evidence  
-**Scope:** A proposal-level insertion immediately before the first Chapter 3 “From Card to Quest” instruction. No canonical manuscript prose was changed.  
+**Date:** 2026-08-06
+**Type:** Desk-simulation rerun; editorial hypothesis, not human-reader evidence
+**Scope:** A proposal-level insertion immediately before the first Chapter 3 “From Card to Quest” instruction. No canonical manuscript prose was changed.
 **Inputs:** P-03 Conflict-Avoiding Friend; P-04 Righteous Fixer; P-06 Well-Read Spectator; P-07 Adjacent Convenor.
 
 ## Proposal under test

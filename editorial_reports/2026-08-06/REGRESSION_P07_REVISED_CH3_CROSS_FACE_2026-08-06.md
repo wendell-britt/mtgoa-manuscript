@@ -1,8 +1,8 @@
 # Regression Pilot — P-07 Through the Revised Ch3–Ch8 Sequence
 
-**Run date:** 2026-08-06  
-**Status:** Desk simulation / editorial hypothesis; not human-reader evidence  
-**Reading surface:** `codex/ch2-placement-rerun-2026-08-06` at commit `79e0232`  
+**Run date:** 2026-08-06
+**Status:** Desk simulation / editorial hypothesis; not human-reader evidence
+**Reading surface:** `codex/ch2-placement-rerun-2026-08-06` at commit `79e0232`
 **Question:** Once P-07 learns the Ch3 relational-placement gate, do later Face instructions preserve that placement or pull the reader back into unearned confrontation, redesign, or mediation?
 
 ## Starting condition carried into the rerun
