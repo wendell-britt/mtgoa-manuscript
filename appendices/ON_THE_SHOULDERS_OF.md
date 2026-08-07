@@ -49,6 +49,12 @@ source of the discipline the Architect chapter asks for most often: find where
 the system's own structure is producing the outcome, rather than blaming the
 people caught inside it.
 
+## The Trust Model
+
+Chapter 1's three questions — whether you can actually help, whether you do what you said you would do, whether you meant well — are **Roger Mayer, James Davis and F. David Schoorman's**. Their "An Integrative Model of Organizational Trust" (*Academy of Management Review*, 1995) split trustworthiness into ability, integrity and benevolence and showed that a person earns and loses the three separately. Thirty years of research sits on top of it, and it earned that for the reason Chapter 1 needs it: it stops trust being one undifferentiated feeling and gives somebody three separate jobs, two of which leave a record. Their word is *ability*; I say *capability*, which changes the word and not the meaning.
+
+I made two departures from their model rather than refinements, so they belong here. Their model describes one person appraising another, and appraisal is a conscious act by a rational actor. This book puts a Protector at the door first, and a Protector appraises nothing. It holds a shape and checks you against it, and the three questions belong to the person standing behind it, who takes a good deal longer. Second, their model points outward, toward somebody else. Chapter 2 turns it around and asks what your own parts have earned from you, which their paper never asks. Read the original for the account with evidence under it.
+
 ---
 
 ## The Polarity Map
@@ -57,9 +63,22 @@ When a choice has two right answers and you keep ping-ponging between them, you 
 
 ---
 
-## The Shadow Work and the Gates
+## The Shadow Work and the Daemons
 
-The daemons are a marriage of three lineages. The architecture — the named voices you meet in the Forest, the practice of speaking *as* each voice, hearing its logic, and giving it a narrower job instead of trying to destroy it — comes from **Genpo Roshi's Big Mind Process** (Dennis Genpo Merzel), which Chapter 8 names in the text. The word *daemon* and the turn that makes the whole approach workable — that the part running you is a genius who knows you completely, a demon only while nobody is holding the joystick, and an ally the moment you give it a job — is **Robin Rice's** Genius Demon Ally, named in Chapter 2. The approach you take once you're at a gate comes from **Carolyn Elliott's *Existential Kink***: the insight that a shadow isn't a defect to fight but a pattern that has been doing a job for you — you ask it what it's been protecting, you thank it, then you ask it to teach you instead of run you. Big Mind gives the gates their structure; Elliott gives them their spirit. Read *Existential Kink* when the gates start revealing something bigger than the chapter you're in.
+The daemons are a marriage of three lineages. The architecture — the named voices you meet in the Forest, the practice of speaking *as* each voice, hearing its logic, and giving it a narrower job instead of trying to destroy it — comes from **Genpo Roshi's Big Mind Process** (Dennis Genpo Merzel), which Chapter 8 names in the text. The word *daemon* and the turn that makes the whole approach workable — that the part running you is a genius who knows you completely, a demon only while nobody is holding the joystick, and an ally the moment you give it a job — is **Robin Rice's** Genius Demon Ally, named in Chapter 2. The approach you take once you are with a daemon comes from **Carolyn Elliott's *Existential Kink***: the insight that a shadow isn't a defect to fight but a pattern that has been doing a job for you — you ask it what it's been protecting, you thank it, then you ask it to teach you instead of run you. Big Mind gives the daemons their structure; Elliott gives them their spirit. Read *Existential Kink* when the daemons start revealing something bigger than the chapter you're in.
+
+---
+
+## On Trust
+
+Chapter 1's three questions — whether you can
+actually help, whether you do what you said you would do, whether you meant well — come
+from **Roger Mayer, James Davis and David Schoorman**, who call them ability, benevolence
+and integrity in "An Integrative Model of Organizational Trust" (*Academy of Management
+Review*, 1995). Their paper also separates trusting from being trustworthy, which the
+whole Trust System runs on. Chapter 1 adds the asymmetry between the three. The first two
+leave a record somebody can check, the third leaves none, so they guess. The paper does
+not say that; I do.
 
 ---
 
@@ -79,7 +98,9 @@ Read Carse for the frame, Chou for the mechanics, and Nguyen for what playing do
 
 ## A Note on the Research
 
-The burnout claims in this book aren't impressions — they're grounded in **Christina Maslach's** clinical research (the Maslach Burnout Inventory and associated papers identify three dimensions: exhaustion, depersonalization, and inefficacy) and **Paul Gorski's** research on activist burnout specifically ("Burnout in Social Justice and Human Rights Activists: Symptoms, Causes, and Implications," 2015). Gorski's finding is the one that reorganized my thinking: identity fusion is the mechanism — when the work *is* who you are, there's nothing left to regulate the cost. Their work is the backbone of the book's central empirical claim: the problem isn't the practitioner. It's the design of the game.
+The burnout claims in this book aren't impressions — they're grounded in **Christina Maslach's** clinical research (the Maslach Burnout Inventory and associated papers identify three dimensions: exhaustion, depersonalization, and inefficacy) and **Paul Gorski's** research on activist burnout specifically ("Burnout in Social Justice and Human Rights Activists: Symptoms, Causes, and Implications," 2015). Gorski's finding is the one that reorganized my thinking: identity fusion is the mechanism — when the work *is* who you are, there's nothing left to regulate the cost. Their work is the backbone of the book's central empirical claim: the problem is the design of the game, not the practitioner.
+
+The pronoun figures in Chapter 1 come from **The Trevor Project**, whose national surveys of LGBTQ young people are the largest of their kind. Their 2020 research brief on pronoun usage found that trans and nonbinary young people whose pronouns most people in their lives got right attempted suicide at half the rate of the young people whose pronouns most people got wrong. Their 2024 national survey found that fewer than half report getting that consistently. I have used one finding from a body of work that is free, public, and updated every year. If the numbers in this book have aged by the time you read it, theirs will not have.
 
 ---
 

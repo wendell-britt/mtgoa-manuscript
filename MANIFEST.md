@@ -34,6 +34,78 @@ nine chapters with the frame applied, appendices A–G, and back matter into one
 file. **112,776 words.** Nothing built a book before 2026-07-29; `compiled/` holds
 a stale 2026-05-29 artifact whose builder reads the retired `chapters/` tree.
 
+## The two deliverables — new 2026-08-01
+
+`build_book.py` produces a manuscript, not a book anyone can read. Two builders
+now take it the rest of the way, through one shared normalisation layer so the
+editions cannot drift apart in how they treat a marginal note or a chapter title.
+Brief: **`instruments/book/README.md`**.
+
+```bash
+pip install -r instruments/requirements.txt
+python3 marginalia/compile.py --apply
+python3 instruments/typeset.py            # the transforms, and what needs a ruling
+python3 instruments/build_pdf.py          # -> build/MTGOA_<date>_trade.pdf
+python3 instruments/build_pdf.py --trim=all
+python3 instruments/build_epub.py         # -> build/MTGOA_<date>.epub
+```
+
+| | |
+|---|---|
+| PDF `trade` | **347 pages**, 6×9in, Libertinus Serif 11/16, mirrored margins. Roman front matter, arabic from Chapter 1, running heads, every chapter and appendix opening on a recto. |
+| PDF `workbook` | **355 pages**, 7.5×9.25in — *The Artist's Way* trim. 12/17 type and a 1.35in outside margin as a working rail. `workbook-9` is the same at 9.00in, 363 pages. |
+| EPUB | EPUB 3, **22 documents**, one per component, reflowing. Frame verified device-by-device against the source, `<pre>` count 0. |
+
+Both refuse to ship on a structural failure. What they caught on their first runs
+is in the pipeline README; five items are worth carrying here.
+
+**The three pipeline rulings closed 2026-08-01.**
+
+*The heading form* was settled on master, not here: `6cbdf8d` gave the other eight
+chapters the plain clause Chapter 2 always had, and `ff942d3` taught the contents
+page to set the pair. §6 of `SPEC_PRINT_READINESS_2026-07-29.md` closes with it.
+The pipeline dropped its nine hand-written display titles and reads the form
+instead, reusing `build_book.py`'s own `toc_title` so the generated contents in the
+PDF and the one `build_book.py --toc` prints cannot disagree. **A July branch,
+`claude/book-print-readiness-august-ar95mo` commit `6026b06`, normalised the same
+headings by deleting Chapter 2's clause — the opposite ruling, and superseded.**
+
+*`五行` in Appendix G* now sets from a 2.8KB two-glyph font committed under
+`instruments/book/fonts/`. No font embedded in Typst carries CJK, and Typst draws a
+box for a glyph it cannot set without saying so.
+
+*Chapter 8's five alchemy-move headers* took the two trailing spaces — markdown's
+hard line break — that Chapter 2's five moves and Chapter 4's three steps already
+carried. Whitespace only. The check that found them had reported thirteen sites;
+eight were already correct and were the check's error, not the manuscript's.
+
+**Every table's column widths were dash counts.** In a pandoc pipe table the
+dashes in the delimiter row are a width spec. `ch3:440` reads
+`|---------|---------|-----------------|------------|---|`, so the Five Channels
+table gave its last column 6% of the measure and set "The Superpower" as
+`The / Su- / per- / power`. Nobody typing a manuscript is writing a width spec, so
+`instruments/book/tables.lua` overrides all ten and sizes by content.
+
+**Eleven lists were setting as run-on paragraphs.** A lead-in with its items
+directly beneath and no blank line between is one paragraph to any converter.
+Obsidian renders the list, so the vault never showed it. Five of the eleven are
+the five channel entries in Appendix C.
+
+**Four passages of Chapter 8 were being set as tables.** A `---` above a pair of
+lines is a valid multiline-table rule in pandoc's markdown, so the Game-Switcher,
+Diagnostician, and Returner alchemy moves converted as tables in every build
+before this one. Resolving the rules ended it. The EPUB table count is **10**, not
+the 14 the old constant recorded.
+
+**`五行` in Appendix G prints as two boxes.** No font embedded in Typst carries
+CJK, and it renders on this container only because a system font happens to be
+installed. Reported as a GAP every build — transliterate, or commit a font.
+
+**Thirteen sites set two authored lines as one.** Markdown folds a single newline
+into a space and Obsidian does not, so the vault does not show what prints.
+Chapter 8's five are the ones that read wrong. `typeset.py` flags them per site
+and rules on none of them.
+
 ## manuscript/ — the nine chapters
 
 **96,355 words of body text. 101,487 with the marginalia frame applied**, which is

@@ -197,7 +197,7 @@ The modes loop, and each pass through goes deeper. The deck outlasts any single 
 
 ---
 
-### The Stage Sequence: Review → Discern → Design → Build → Pass On
+### How the Work Moves: Review → Discern → Design → Build → Pass On
 
 The Player runs this sequence:
 
@@ -221,7 +221,7 @@ One tell separates real building from the kind that's secretly avoidance, and it
 
 Genuine building points outward. You make it so it can meet a person: a reader, a player, a colleague, your kid. You want it in front of them, even though that's the scary part. The work goes somewhere, and the somewhere has a face.
 
-The Player in distortion builds in the other direction: inward, in circles, away from anyone who might actually receive it. The building becomes abstract. Endless revisions. Infinite drafts. I'll redesign the same mechanic six times, and every redesign dodges what the work actually needs: putting it in front of someone and seeing what happens. It looks like progress. It's a very sophisticated way of hiding.
+The Player in distortion builds in the other direction: inward, in circles, away from anyone who might actually receive it. The building becomes abstract. Endless revisions. Infinite drafts. I'll redesign the same mechanic six times, and every redesign lets me dodge what the work actually needs: putting it in front of someone and seeing what happens. It looks like progress. It's a very sophisticated way of hiding.
 
 So keep asking the question that planning-disguised-as-building cannot survive: *is this draft moving toward someone, or away from them?* Real building gets handed over, even unfinished. Avoidance keeps it safe, and perfect, and unmet.
 
@@ -285,7 +285,7 @@ You now know the WAVE. Wake up. Open up. Clean up. Grow up. Show up. Then you co
 
 You know that the return is not optional, that coming back makes the work real. That carrying what you found back to the village is the whole point.
 
-You know that the five emotional channels do more than name feelings: they map the territory you have been walking into. Fear, anger, sadness, joy, neutrality: each one a gate you can walk through instead of a threat to manage.
+You know that the five emotional channels do more than name feelings: they map the territory you have been walking into. Fear, anger, sadness, joy, neutrality: each one a road you can walk instead of a threat to manage.
 
 ---
 
@@ -471,7 +471,7 @@ You are ready to be useful.
 
 ---
 
-*Before you step into the game: a gate scan. Seven daemons and the child at the center: eight gates, eight questions. One of them is live in you right now: the Face that showed up most in your building work. Find it. Capture it.*
+*Before you step into the game: a daemon scan. Seven of them and the child at the center: eight in all, eight questions. One of them is live in you right now: the Face that showed up most in your building work. Find it. Capture it.*
 
 *The Protector showed up in your building, and not as the old guardedness. Something specific you've been protecting about what you're building, or from the people who might encounter it. Name what the protection is actually guarding. That's what you have.*
 
@@ -509,9 +509,9 @@ The five modes describe who you are while you work. Review, Discern, Design, Bui
 
 **Why it matters:** A wide field never requires a choice. The Player in distortion keeps it wide for exactly that reason. As long as the problem stays *injustice*, or *the culture*, or *how people treat each other*, no specific act ever announces itself as the next one, and nothing you do can ever count as having failed. The cut matters because the cut makes the work falsifiable. A problem narrow enough to fail is a problem narrow enough to solve.
 
-In practice: write the sentence, then delete every clause that is there to make the problem sound bigger than it is. What survives is usually one group of people, one situation that keeps recurring, and one thing that keeps not happening. Take the sentence to somebody living with the problem and ask what you missed. If you cannot say who it is for, or the people named say you have named it wrong, you have a topic rather than a problem.
+In practice: write the sentence, then delete every clause that is there to make the problem sound bigger than it is. What survives is usually one group of people, one situation that keeps recurring, and one outcome that keeps not happening. Take the sentence to somebody living with the problem and ask what you missed. If you cannot say who it is for, or the people named say you have named it wrong, you have a topic rather than a problem.
 
-**Example:** *I want to help people be better allies* is a topic. *People who have done the reading still default to their home Face the moment something lands hard, and there is nowhere to practise the difference* is a problem. The second tells you what to build by Friday. Then cut once more, to whose problem: *the three on my team who stopped putting anything forward after the restructure.* Now a stranger can repeat it back, and you know whose Friday you are building for.
+**Example:** *I want to help people be better allies* is a topic. *People who have done the reading still default to their home Face the moment something lands hard, and there is nowhere to practise the difference* is a problem. The second tells you what to build by Friday. Then cut once more, to whose problem: *the two friends who stopped saying anything true at dinner after the argument in March.* Now a stranger can repeat it back, and you know whose Friday you are building for.
 
 **The test:** A stranger can repeat your sentence back to you, and somebody affected by it can recognize their problem without having to translate you first. They may correct the cut. Let them.
 
@@ -523,7 +523,9 @@ In practice: write the sentence, then delete every clause that is there to make 
 
 **Why it matters:** Earlier in this chapter the tell was direction, is the work moving toward contact with someone, or away from it. This move is that tell converted into an act, and it is the only one of the five that cannot be performed alone. Contact is also the only information a build cannot generate about itself. Refinement is a closed loop: you will not find out whether it works by looking at it harder, for longer, with better taste. A person who is not you is the instrument.
 
-In practice: one person, not an audience. The audience version becomes a launch, and you can spend a year preparing for a launch. One person can happen this week. Ask before you show it: *Would you be willing to try this unfinished thing with me? I want to know where you got confused, and I will use your answer to change it.* Make refusal easy. If the ask costs them time, access, or labor, decide what you can give back before you make it. An unspecified ask gets you encouragement: the least useful thing a human being can hand you.
+In practice: one person, not an audience. The audience version becomes a launch, and you can spend a year preparing for a launch. One person can happen this week. Ask before you show it: *Would you be willing to try this with me before it is finished? I want to know where you got confused, and I will use your answer to change it.* Make refusal easy. If the ask costs them time, access, or labor, decide what you can give back before you make it. An unspecified ask gets you encouragement: the least useful response a human being can hand you.
+
+One person is also the smallest ask you can make of anybody's Protector. An audience needs a door opened wide on a day nobody chose; one person, asked for one favour, fits through almost any clearance you already hold.
 
 **Example:** One facilitator builds a workshop for six months and runs it for the first time on the day it is supposed to be good. Another asks Rosa to try a rough version on a Tuesday, tells her the second exercise may be wrong, and listens when she says it makes people defensive. Rosa can decline, and she knows what her answer will change. She is not a test audience. She is the first person it was for, and she got the worst version of it, which is what the showing costs her.
 
@@ -565,9 +567,9 @@ In practice: name the variable before you run it. *This time the opening questio
 
 **Why it matters:** The Architect designs a system that runs without them, that is handoff, and it is a different move at a different altitude. This one goes further and costs more, because the Player hands over the right to alter the design itself. A practice that can only be run as written is already a tradition, and the Outlaw is coming for it. Handing over the pen is how a design survives being wrong about something its maker could not see.
 
-In practice: be specific about what they can change, stop, or replace, and ask what access they need for that authority to be real. *You can change anything except the part where people say it out loud* is a real handoff when they also have the materials, time, and standing to make the change. *Make it your own* is a compliment. Then watch them change it and do not correct the first thing they do differently.
+In practice: be specific about what they can change, stop, or replace, and ask what access they need for that authority to be real. *You can change anything except the part where people say it out loud* is a real handoff when they also have the materials, time, and standing to make the change. *Make it your own* is a compliment. Then watch them change it and do not correct the first change they make.
 
-**Example:** Tess runs your practice with her group and drops the step you thought was the heart of it. You have two moves. Put the step back and you have a franchise. Ask what happened in the space where the step used to be, and you find out whether the step was the heart of it or whether you were. Say in advance which parts she may change. What she does inside that is hers.
+**Example:** Tess takes over the Sunday call and drops the round you thought was the heart of it. You have two moves. Put the round back and you have a franchise. Ask what happened in the space where it used to be, and you find out whether the round was the heart of it or whether you were. Say in advance which parts she may change. What she does inside that is hers.
 
 **The test:** You named the authority in advance, made the means to use it available, and accepted that the person may decide the practice should end. What they do inside that authority is theirs.
 
@@ -615,7 +617,7 @@ The Player shows the villagers what it looks like to walk all six Faces and come
 
 The Player gives the villagers permission. Permission to use all six Faces as tools. Permission to design their own practice. Permission to build something new. Permission to go first.
 
-The Player shows that the six Faces were never the destination. They were the toolkit. The Player shows that mastery is not about *being* one Face, it's about *playing* all six when the moment requires it. The Player shows that the goal is not to arrive at Sage and stay there. The goal is to be able to play any game the villagers need played, whatever the moment requires.
+The Player shows that the six Faces were never the destination. They were the toolkit. Mastery is playing all six as the moment requires, and Sage is a seat you take and leave like the other five. The goal is to be able to play any game the villagers need played, whatever the moment requires.
 
 The Player leaves behind not a method but a path. The path continues.
 

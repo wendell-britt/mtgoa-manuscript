@@ -65,7 +65,7 @@ There was a time when the Architect lived in the village.
 
 Inside it. One of them. The Architect drew the first map, looked at the chaos of how work got done and said *wait. I see something. There's a structure here. There's a pattern. If we understand the pattern, we can change the pattern.*
 
-The village listened, at first, because the maps worked. The Architect could look at a broken system and find the part that, if you changed it, would change everything else. The Architect could design the meeting format that actually produced decisions. The Architect could build the role that made accountability real. The Architect said *here is why this keeps breaking, and here is how to redesign it so it holds.*
+The villagers listened, at first, because the maps worked. The Architect could look at a broken system and find the part that, if you changed it, would change everything else. The Architect could design the meeting format that actually produced decisions. The Architect could build the role that made accountability real. The Architect said *here is why this keeps breaking, and here is how to redesign it so it holds.*
 
 Then something shifted.
 
@@ -84,50 +84,54 @@ The Architect didn't mean it that way. The Architect never meant it that way. Th
 <!-- /MARGINALIA -->
 
 
-The village started to defend itself against the Architect's maps. Started to see the Architect's structural clarity as a form of judgment. Started to say: *we don't need another analysis: we need action. We don't need to understand why we're stuck: we need to get un-stuck. We don't need you to show us how broken we are.*
+The villagers started to defend themselves against the Architect's maps. Started to see the Architect's structural clarity as a form of judgment. Started to say: *we don't need another analysis: we need action. We don't need to understand why we're stuck: we need to get un-stuck. We don't need you to show us how broken we are.*
 
 The Architect, confronted with this, did what Architects do: doubled down on the clarity. *I'm not saying you're broken. I'm saying the system is broken. If we fix the system, you won't have to keep compensating for it. Let me show you…*
 
-The village did not want to be shown. The village wanted to be heard. The Architect, in the Architect's characteristic way, had already moved past hearing to designing.
+The villagers did not want to be shown. They wanted to be heard. The Architect, in the Architect's characteristic way, had already moved past hearing to designing.
 
-The Architect's oldest wound lives inside the gift. The Architect's clarity doubles as the Architect's blind spot. The Architect sees systems so clearly that the people inside the systems become abstractions: inputs, outputs, leverage points. The Architect can design for people the system has forgotten while simultaneously forgetting to ask the people what they need. The Architect can commit so hard to the elegant solution that the solution arrives before anyone gets asked.
+The Architect's oldest wound lives inside the gift. The Architect's clarity doubles as the Architect's blind spot. The Architect sees systems so clearly that the people inside the systems become abstractions: inputs, outputs, leverage points. The Architect can design for people everyone else forgot while simultaneously forgetting to ask the people what they need. The Architect can commit so hard to the elegant solution that the solution arrives before anyone gets asked.
 
-The village needed something the Architect didn't know how to give: presence. Warmth. The simple act of sitting with the difficulty before trying to redesign it.
+The villagers needed something the Architect didn't know how to give: presence. Warmth. The simple act of sitting with the difficulty before trying to redesign it.
 
 The Architect had that capacity. The Architect had simply spent it elsewhere.
 
-One day, the Architect realized: the village had stopped asking for maps. The village had started working around the Architect, implementing half the design, ignoring the rest, treating the Architect's clarity as a form of unwanted light. The village used the Architect for outputs and kept the Architect out of decisions. The Architect had become a tool.
+One day, the Architect realized: the villagers had stopped asking for maps. They had started working around the Architect, implementing half the design, ignoring the rest, treating the Architect's clarity as a form of unwanted light. They used the Architect for outputs and kept the Architect out of decisions. The Architect had become a tool.
 
 The choice came down to this: Become invisible and useful, or leave and remember who you were.
 
 The Architect left.
 
-The village never meant for that to happen. It never said *go.* It just stopped listening to the design. Which, it turns out, amounts to exile.
+The villagers never meant for that to happen. They never said *go.* They just stopped listening to the design. Which, it turns out, amounts to exile.
+
+**The Architect means: what you built runs after you leave.** That scores a design nobody thanks you for above a conversation everybody remembers, and it is right about that more often than the villagers believe.
+
+**The Architect means: what you built runs after you leave.** That scores a design nobody thanks you for above a conversation everybody remembers, and it is right about that more often than the village believes.
 
 ---
 
 ## Section 2: The Distortion
 ### *What the Village Does With Structural Design When the Architect Is Gone*
 
-After the Architect left, the village didn't stop needing systems.
+After the Architect left, the villagers didn't stop needing systems.
 
 It just stopped understanding them.
 
-The village still built. Still created roles and processes and meeting formats and accountability structures. Without the Architect to say *wait, before you build this, let me show you what it will actually produce*, the village built systems that looked correct and failed anyway. The village built planning processes that produced plans nobody followed. The village built accountability structures that nobody trusted. The village built meeting formats that everyone hated attending. The village built all of this with sincere effort and no structural clarity.
+The villagers still built. Still created roles and processes and meeting formats and accountability structures. Without the Architect to say *wait, before you build this, let me show you what it will actually produce*, they built systems that looked correct and failed anyway. They built planning processes that produced plans nobody followed. They built accountability structures that nobody trusted. They built meeting formats that everyone hated attending. They built all of this with sincere effort and no structural clarity.
 
-Because the village had exiled the Architect (had decided that structural clarity meant coldness, that systems thinking meant not loving the people inside the systems) the village lost the ability to tell the difference between a system that worked and a system that merely looked like it worked.
+Because the villagers had exiled the Architect (had decided that structural clarity meant coldness, that systems thinking meant not loving the people inside the systems) they lost the ability to tell the difference between a system that worked and a system that merely looked like it worked.
 
-The village started mistaking motion for progress. Started treating activity as evidence of effectiveness. The village became very busy, very purposeful, very committed, and very unable to ask the one question the Architect always asked: *is this actually working?*
+The villagers started mistaking motion for progress. Started treating activity as evidence of effectiveness. They became very busy, very purposeful, very committed, and very unable to ask the one question the Architect always asked: *is this actually working?*
 
-The village also started doing something more damaging: it started using the Architect's own tools without the Architect's intent. The village learned to *describe* systems without *understanding* them. Learned to use words like *incentive structure* and *leverage point* without actually redesigning either. The village learned to have the vocabulary of structural thinking without the practice. The village could then dismiss structural insight with the vocabulary itself: *we already looked at the incentives, we're addressing the leverage points, we understand the systemic issues*, while continuing to do what had always produced the same failure.
+The villagers also started doing something more damaging: they started using the Architect's own tools without the Architect's intent. They learned to *describe* systems without *understanding* them. Learned to use words like *incentive structure* and *leverage point* without actually redesigning either. They learned to have the vocabulary of structural thinking without the practice. They could then dismiss structural insight with the vocabulary itself: *we already looked at the incentives, we're addressing the leverage points, we understand the systemic issues*, while continuing to do what had always produced the same failure.
 
-Once the Architect leaves, the village transforms structural design into *aesthetic design.* Into systems that look sophisticated without functioning. Into the performance of systemic thinking, the language without the practice, and that costs more than having no language at all, because now the village has enough sophistication to dismiss genuine structural insight while believing it has already accounted for it.
+Once the Architect leaves, the villagers transform structural design into *aesthetic design.* Into systems that look sophisticated without functioning. Into the performance of systemic thinking, the language without the practice, and that costs more than having no language at all, because now they have enough sophistication to dismiss genuine structural insight while believing they have already accounted for it.
 
-The village did all of this without realizing it. It thought itself holistic. It thought itself comprehensive. What it actually did: run on good intentions with no understanding of why good intentions kept producing mediocre outcomes.
+The villagers did all of this without realizing it. They thought themselves holistic. They thought themselves comprehensive. What they actually did: run on good intentions with no understanding of why good intentions kept producing mediocre outcomes.
 
-The Architect's exile leaves one distortion behind: the village learned to fear its own clarity. Learned to treat the asking of structural questions as a form of judgment. Started saying *we don't need to overthink this*, another way of saying *we're afraid of what we'll find if we look too closely.* That fear had grounds. That fear had earned its place. Because without the Architect's discipline, structural examination tends to become structural blame. Structural blame costs more than structural ignorance, because at least a question cures ignorance. Blame builds a system that protects itself by preventing anyone from asking the question.
+The Architect's exile leaves one distortion behind: the villagers learned to fear their own clarity. Learned to treat the asking of structural questions as a form of judgment. Started saying *we don't need to overthink this*, another way of saying *we're afraid of what we'll find if we look too closely.* That fear had grounds. That fear had earned its place. Because without the Architect's discipline, structural examination tends to become structural blame. Structural blame costs more than structural ignorance, because at least a question cures ignorance. Blame builds a system that protects itself by preventing anyone from asking the question.
 
-The village didn't realize any of this. It thought itself practical. What it actually did: starve itself of what it needed most: someone willing to look at the system honestly, without judgment, and say *here is why this keeps breaking, and here is how to fix it.*
+The villagers didn't realize any of this. They thought themselves practical. What they actually did: starve themselves of what they needed most: someone willing to look at the system honestly, without judgment, and say *here is why this keeps breaking, and here is how to fix it.*
 
 ---
 
@@ -166,7 +170,7 @@ Doing the right thing in the wrong system is a specific kind of expensive. The A
 
 ---
 
-The village reduces structural design to its outputs: the org chart, the RACI matrix, the role description, the meeting cadence. Those name what structural thinking produces, not structural thinking itself. You can have all of them and still have a broken system.
+The villagers reduce structural design to its outputs: the org chart, the RACI matrix, the role description, the meeting cadence. Those name what structural thinking produces, not structural thinking itself. You can have all of them and still have a broken system.
 
 Structural design is the practice of understanding *why* a system produces the outcomes it produces, and redesigning the system so that the right outcome becomes the natural outcome.
 
@@ -298,7 +302,7 @@ The **Inventor** runs on Wood. Joy detects vitality (what wants to exist and doe
 
 The **Optimizer** runs on Water. Sadness detects decay, the process that used to work and doesn't anymore, and stuck Sadness keeps the dead process running out of loyalty to the people who built it. Metabolized, it becomes Poignance: you can honor what a structure did and retire it in the same motion. *I can connect.* Most systems fail here, not from missing the decay, but from failing to feel the loss all the way through and so never letting it go.
 
-The five modes are also the five ways the Architect moves through the WAVE-Spiral at altitude. Wake: notice which mode fires and what it detects. Open: let the signal in before it becomes a proposal. Clean: locate where it landed, and stabilize there. Grow: find what the system has to teach. Show: move from the integrated understanding. Here the Architect's practice and the Shaman's emotional alchemy work together, not as two systems, but as one system seen from two altitudes.
+The five modes are also the five ways the Architect moves through the WAVE-Spiral at altitude. Wake: notice which mode fires and what it detects. Open: let the signal in before it becomes a proposal. Clean: locate where it landed, and stabilize there. Grow: find what you learned from it. Show: move from the integrated understanding. Here the Architect's practice and the Shaman's emotional alchemy work together, not as two systems, but as one system seen from two altitudes.
 
 The Architect's flow cycle: Observe → Model → Design → Deploy → Observe (new state), and out through Hand Off. Each deployment produces new observations, which produce new models, which produce new designs; the iteration is genuine and it is not the point. The Architect is finished when somebody else can run it and change it. Everything before that is the work of getting to a system worth handing over.
 
@@ -394,7 +398,7 @@ Now for why this daemon stands where it stands, in a book about allyship.
 
 Everything you learn here runs on Observe. Observe is the first stage and the one everything else rests on: what is actually happening, traced to its source, not what the org chart says should happen. The Emotional Body in shadow does not stop you observing. It edits the observation on the way in. It removes the part of the data arriving through you, because that part feels uncomfortable and unrigorous and does not belong in a model. Then you build a true, careful, well-evidenced model of a system you were not permitted to feel. Every stage downstream inherits the omission. The Model is clean. The Design is elegant. The Deploy fails in a way nobody can trace, because nobody ever wrote the missing variable down.
 
-The cost lands on the people the design is for. A structure built by someone who did not feel their way through it arrives in front of people who are feeling their way through it, and it does not fit, and they cannot say why, and the designer experiences this as resistance to change. That repeats the exile in Section 1, in miniature and in slow motion. The village did not exile the Architect for being wrong. It exiled the Architect for arriving with the answer already assembled, which looks from outside exactly like a feeling converted before anyone else could get near it.
+The cost lands on the people the design is for. A structure built by someone who did not feel their way through it arrives in front of people who are feeling their way through it, and it does not fit, and they cannot say why, and the designer experiences this as resistance to change. That repeats the exile in Section 1, in miniature and in slow motion. The villagers did not exile the Architect for being wrong. They exiled the Architect for arriving with the answer already assembled, which looks from outside exactly like a feeling converted before anyone else could get near it.
 
 Here the chapter's myth lives, and it remains the most competent-looking myth in the book. The myth is that allyship is fixing the problem.
 
@@ -410,7 +414,7 @@ The Collapse does not get to decide whether I ship. It also does not get to be l
 
 Naming it changes something, and it is worth being precise about what. It does not stop the Collapse. What stops is the narration, the running commentary that had been reading as my own judgment right up until it had a name on it. Named, it is a part of me that is afraid. Unnamed, it is simply what I think about the design.
 
-You do not fire the Emotional Body. Fire your sensor and you are the Architect the village exiled: correct, unreachable, modeling a system from above it. You take the joystick back by giving it its actual jurisdiction and taking away the one it appointed itself to.
+You do not fire the Emotional Body. Fire your sensor and you are the Architect the villagers exiled: correct, unreachable, modeling a system from above it. You take the joystick back by giving it its actual jurisdiction and taking away the one it appointed itself to.
 
 *Bring me the signal. All of it, raw, before it means anything: the channel, the place it landed, what it did. That report I want, and I will use it. What gets built is not in your remit. That decision happens downstream of you, after you have finished.*
 
@@ -461,9 +465,11 @@ The Emotional Body developed does what nothing else in this chapter can do: it t
 
 That is the Strategist. Look back at the modes table and notice what the Strategist runs on: Fire, anger, resolving to triumph. Momentum is not a calculation. Nobody has ever found the leverage point in a spreadsheet. You find it by feeling where the system is straining, where the workaround has already been invented by somebody who was not asked, where the pressure has built to the point that one push will do what a year of argument could not. Every one of those is a reading before it is a finding. An Architect who has converted their signal into structure on arrival can still produce the analysis. What they lose is timing, the sense of *now.* That is the entire content of the Strategist, and it is not recoverable from data.
 
-So the map is the artifact, and you already know how to make one. This chapter trains the Strategist: knowing where the push goes and when to make it, and then, because you also know what the map is for, building the thing so the next person can run it without you. Structural generosity is the intent. Timing is what makes it arrive on a day it can still matter. A beautiful blueprint delivered eighteen months after the pressure released is not generous. It is just correct.
+So the map is the artifact, and you already know how to make one. This chapter trains the Strategist: knowing where the push goes and when to make it, and then, because you also know what it is for, building the map so the next person can run it without you. Structural generosity is the intent. Timing is what makes it arrive on a day it can still matter. A beautiful blueprint delivered eighteen months after the pressure released is not generous. It is just correct.
 
 You know what your Emotional Body is for now. That is what you take out.
+
+Theirs is doing the same job in a Forest you cannot see into. A stranger's Emotional Body is a sensor that learned not to output in front of people, so naming out loud what you can see it doing is the fastest way to close a door. Clearance opens when the feeling gets to stay theirs.
 
 ---
 
@@ -490,7 +496,7 @@ Finding the leverage point is the discipline of asking: what is the one place in
 
 In practice: when you're looking at a broken system, don't start with what's broken. Start with where the pressure is already building. Where is the system under the most strain? Where are people already trying to work around the problem? That's usually the leverage point. The workaround is a sign. Follow it.
 
-**Example:** Meera asks three times for the weekly deck in a format her screen reader can use, and three times somebody sends a fixed copy that afternoon. The fixed copy is not the fix. The leverage point sits in the template everybody builds the deck from and nobody owns. Change the template and the request stops existing. It costs you a fortnight of arguing with people who like their fonts. Meera did not ask you to do this and may never notice you did.
+**Example:** Meera asks three times for the weekly order of service in a format her screen reader can use, and three times somebody prints her a large copy that morning. The large copy is not the fix. The leverage point sits in the template everybody builds the sheet from and nobody owns. Change the template and the request stops existing. It costs you a fortnight of arguing with people who like their fonts. Meera did not ask you to do this and may never notice you did.
 
 **The test:** You named one place and pushed there, instead of pushing everywhere at once with the same force. Cascades are slow and often invisible. One named point is the move.
 
@@ -573,6 +579,55 @@ In practice: when you're revising a design, name what the previous version got r
 That's the Architect's game. Five distinct moves. The map that makes you unnecessary. The leverage point instead of the brute-force push. The unstated assumption instead of the obvious one. The handoff instead of the dependency. The minimum instead of the masterpiece. The refactor instead of the defense.
 
 That's what winning looks like at this altitude.
+
+The moves are what you do. The next question is where.
+
+---
+
+### Where You'll Actually Spend the Design
+
+The parable showed one of the four: Skillful Organizing. The Architect designed the meeting format that actually produced decisions and built the role that made accountability real, machinery a village runs on rather than a sentence said to one person. In Skillful Organizing a design also stops belonging to whoever drew it: the village implemented half, ignored the rest, and never once said no.
+
+The design has four domains, and one cheap habit that is none of them. The cheap habit is the structural account: you say why the system keeps breaking, precisely, to people who mostly agree, and you stop one move short of what gets built instead. Reading a system that way is real skill, and it asks nothing of you, because nobody has ever needed courage to say *the system did it.* The account is also correct. The habit survives for years because no single instance of it looks like an evasion from inside, where each one looks like getting it right for the eleventh time. The four domains are where the design finally leaves the page: the condition changed where one person is standing in it, the load-bearing assumption said out loud at the table built on it, the cost moved off a person and into the budget, the machinery a group runs on handed to somebody who can change it. Each costs more than an account, because each puts something into the world with your name on it and somebody else's week inside it.
+
+These four are not a syllabus. Pick where you'll spend the design this week, and pick the domain you keep avoiding. If the design only ever gets explained, accurately, to people who were never going to have to build it, you did not make the Architect's move. You drafted it.
+
+### How to Build It So It Runs
+
+Three points decide whether what you build survives contact with the people inside the system, and the same three decide it in every domain.
+
+**Ask somebody inside it before you draw.** The Emotional Body hands you a proposal before it hands you a channel, and both before you have asked anybody a question, so what you hold is a careful model of the account the system gives of itself. The people inside already know which rule everybody stopped following years ago and which form gets filled in twice. They will tell you in an afternoon. An afternoon costs less than the second design, the one built to correct the first.
+
+**Do not soften the accusation out of it.** Every structural design carries one claim: the current system is failing, and somebody built the current system. The design was not written as an accusation and it is also not not one. Deny that and you keep the design vague enough that nobody has to answer it. Vague enough turns a design into a recommendation, and a recommendation is a design that has agreed in advance not to happen.
+
+**Hand it over while you are still the most useful person on it.** Observe, model, design, deploy is a loop with no exit built into it. The loop will produce a better system every year and never once declare you finished, and the reason to run one more cycle arrives fresh each quarter. Stepping out costs exactly what the loop pays you, so hand over on a day when it still costs you that. Leave it longer and you hand over a system that has already failed once without you there.
+
+**Direct Action — the condition changed, not the incident**
+
+*You're winning when:* you went at the condition producing the harm rather than the harm in front of you, changed the design while the person carrying it was still there to say whether the change worked, and it cost you a fortnight of arguing with people who like the arrangement and the credit for the quick fix you could have shipped instead. The proof is that the same incident stopped arriving.
+
+**Raise Awareness — the load-bearing assumption said out loud**
+
+*You're winning when:* you named the assumption everybody is building on, flatly, as an observation and not as a question with an exit built in, in front of the people standing on it and whoever wrote it down, rather than to the two colleagues who agree with you already. It cost you their read of you as the reasonable one. The proof is that the assumption now sits on the table where somebody has to defend it out loud, true or not.
+
+**Gather Resources — the cost moved into the budget**
+
+*You're winning when:* you took what the system had been drawing out of one person without ever asking, her translating, his shift swaps, your evenings, and put it into the design where it has a name, a line and somebody who pays, and asked the person who can grant or refuse instead of absorbing it another year. It cost you the standing you had while the system ran on one person's goodwill. The proof is that the work still happens in a week when that person is away.
+
+**Skillful Organizing — the machinery handed to next hands**
+
+*You're winning when:* you changed how the group actually works, the format, the rota, the job nobody has been given, and handed it on with the reasoning attached and not only the instructions, so the next person can redesign it when the conditions move. It cost you being the one everybody depends on. The proof is that the format ran through a month you were not in, and came out altered by somebody who is not you.
+
+### The Tell
+
+None of the four markers asked why you built it. That question is real, and it belongs to the Architect, because a design is the one move in this book that carries a signature. An Architect who redesigns the intake so that a redesign will have been made has run the structural account with a launch date on it. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer it:
+
+- **Direct Action.** Did you change the condition so the harm stops, or so the record shows who found the condition?
+- **Raise Awareness.** The assumption got named. Did that move the table, or move you to the front of it?
+- **Gather Resources.** Did you get the cost paid, or get everybody seeing who had been paying it?
+- **Skillful Organizing.** You handed it over. Did you hand over enough for them to change the design, or enough to keep them calling you?
+
+Each Tell targets the Architect's signature failure: the design built for the signature instead of for the condition.
 
 ---
 

@@ -173,8 +173,32 @@ def score(text):
     return out
 
 
+def draft_surfaces(paths):
+    """Score named files instead of the board.
+
+    Added 2026-08-05. Until today `main` globbed the manuscript and silently
+    discarded any path handed to it, so `gate.py somedraft.md` printed a verdict
+    on the shipped book. Four domain sections were drafted against that reading
+    before one of them checked. Same failure as the six board-only instruments
+    `draftprobe.py` was built to wrap: an instrument that answers a question you
+    did not ask is worse than one that refuses, because the answer looks fine.
+    """
+    surfaces = {}
+    for p in paths:
+        b, m = split_surfaces(io.open(p, encoding="utf-8").read())
+        surfaces[os.path.basename(p)] = b
+        if m.strip():
+            surfaces[os.path.basename(p) + " (marginalia)"] = m
+    return surfaces
+
+
 def main():
     verbose = "-v" in sys.argv
+    paths = [a for a in sys.argv[1:]
+             if not a.startswith("-") and os.path.isfile(a)]
+    if paths:
+        return report(draft_surfaces(paths), verbose)
+
     files = sorted(glob.glob(os.path.join(MS, "ch*.md")),
                    key=lambda f: int(re.search(r"ch(\d+)", os.path.basename(f)).group(1)))
     surfaces = {"body": "", "marginalia": ""}
@@ -197,15 +221,20 @@ def main():
                 matter += "\n" + io.open(path, encoding="utf-8").read()
         surfaces["matter"] = matter
 
+    return report(surfaces, verbose)
+
+
+def report(surfaces, verbose):
+    width = max([12] + [len(l) for l in surfaces])
     names = [n for n, _, _ in COUNTERS]
-    print("%-12s %s" % ("surface", " ".join("%8s" % n for n in names)))
-    print("-" * 62)
+    print("%-*s %s" % (width, "surface", " ".join("%8s" % n for n in names)))
+    print("-" * (width + 50))
     total = 0
     for label, text in surfaces.items():
         s = score(text)
         total += sum(len(ms) for _, ms in s)
-        print("%-12s %s" % (label, " ".join("%8d" % len(ms) for _, ms in s)))
-    print("-" * 62)
+        print("%-*s %s" % (width, label, " ".join("%8d" % len(ms) for _, ms in s)))
+    print("-" * (width + 50))
 
     if verbose:
         for label, text in surfaces.items():

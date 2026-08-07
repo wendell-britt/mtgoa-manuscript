@@ -1,0 +1,564 @@
+# Read-through notes — the PDF pass
+
+Wendell reads `build/MTGOA_<date>_trade.pdf` and pastes the lines that do not
+work. Each one lands here as a row, located back in canon, and then gets worked
+line by line.
+
+## Standing rule for this session
+
+**Wendell, 2026-08-01: everything pasted into the session is a defect until he says
+otherwise.** A line arriving without a stated reason is still work; the reason
+comes later, or the line gets read again together. Nothing pasted is context.
+
+**Posture, from N56 onward: cut rather than keep.** *"We're at the moment where
+we should be cutting things."* An idea that cannot be explained in a way useful to
+Jordan goes to the parking lot or goes away. A ruling of `cut` needs no replacement
+drafted.
+
+## The loop
+
+**1 · Paste.** Any number of lines, blank line between them. Curly quotes,
+em-dashes, and a line the typesetter broke across a page all come through fine —
+`find_line.py` folds them back before it searches.
+
+**2 · Locate.** They get filed here automatically, with the component, the
+surface, and the file and line number:
+
+```bash
+pbpaste | python3 instruments/find_line.py - --file editorial_reports/2026-08-01/READ_NOTES.md
+```
+
+**3 · Rule, one at a time.** Wendell says why a line does not work; the
+replacement goes in the console before it goes near `manuscript/`, per the
+standing rule. Status moves `open` → `ruled` → `applied`.
+
+**4 · Apply and re-measure.** Gate on four surfaces, `compile.py --check`,
+rebuild.
+
+## Two things the locator will tell you that are findings in themselves
+
+**A line found in more than one place.** Sentences have been duplicated across
+chapters in this book before, which is why `dupes.py` exists. If a flagged line
+matches twice, that is worth knowing before deciding what to do with it.
+
+**A line found on the `margin` surface.** The annotator is a character, not
+Wendell, and the margin is scored separately (DL-6, DL-25). A note about the
+annotator's hand is a different kind of note.
+
+## The notes
+
+| ID | Component · surface | Location | Line as it stands | Why it does not work | Replacement | Status |
+|---|---|---|---|---|---|---|
+| N01 | Author's note · body | front_matter/authors_note.md:3 | Everyone with a phone became a marketer. Nobody signed up for that, the training never arrived, and the standard kept rising anyway. The same thing has happened to helping. | Not EVERYONE with a phone became a marketer. A phone plus social media meant everyone became responsible for their own branding. Needs at least another line on that. | **applied** — Wendell's own replacement, applied verbatim (lightly repaired for grammar): the *marketer* opener goes, and the paragraph now says what actually happened — everyone with a phone and a social media account became responsible for their own brand. |
+| N02 | Author's note · body | front_matter/authors_note.md:9 | A system like that produces a predictable game, and the game seats three kinds of player. Some understand that visible allyship converts into standing, and spend accordingly. Some believe the stated mission, do the actual labor, and burn out inside three years. The rest are the people the apparatus is nominally for, who tend to get asked last. | *three kinds of players*, not *player*. | **applied** — *players*. |
+| N03 | Author's note · body | front_matter/authors_note.md:17 | Ken Wilber named this confusion, and his name for it is the most useful thing I can hand you before chapter one. He calls it the pre/trans fallacy. Two very different positions sit on either side of the conventional middle: one that has not reached the rules yet, and one that has been through them and come out the far side. From inside the middle, the two look identical. | Hedging — go straight to what Ken says. And the pre/trans sentence is too baroque: the plain version is that from the conventional position, preconventional and postconventional are hard to tell apart. Wants a one-line example, ideally a jerk joke — harm reduction is where it is most poignant. Some cause harm because they are preconventionally unskilled; others know you sometimes have to cause discomfort to move somebody up, and challenging a paradigm is about the most uncomfortable thing you can do. | **applied** — Hedge cut, pre/trans stated plainly, and harm reduction carries the example: one person hands out clean needles and gets called an enabler, another runs a session that leaves a team uncomfortable and gets called harsh. **The jerk joke is not there** — every version made the joke at one of the two people, which the color forbids. The *magic and dominance* callback to line 15 is preserved. |
+| N05 | Author's note · body | front_matter/authors_note.md:25 | Here is the part worth sitting with. Allyship is already a game, and it is already gamified. Yu-kai Chou, who maps what actually drives people, separates the motivators that leave you feeling capable from the motivators that leave you anxious and compliant. Both get results. Scarcity, social pressure, and fear of losing your standing will absolutely make somebody act, and they will hollow that person out over about three years. Every drive currently powering allyship comes from that second set. The work is not the problem. The drives underneath it are. | Cut. Do not tell people what is worth sitting with. | | **applied** — Cut. |
+| N06 | Author's note · body | front_matter/authors_note.md:27 | So this book moves the same work onto the other set, and it does that by being an actual game, with a world in it, six schools, and the six people who run them, who will argue with you in the margins. | What is *the other set*? Needs to be specific. | | **applied** — *the first set, the drives that leave you feeling capable*. |
+| N07 | Author's note · body | front_matter/authors_note.md:35 | One rule holds the whole practice up. You can make your move. You cannot make another person satisfied, and reaching for that is the exact place where helping curdles into something else. So you aim at one person, by name, you make the move cleanly, and what they do with it stays theirs. It has to stay theirs. Take that away and you are recruiting. | What is *something else*? Name it. | | **applied** — *helping turns into control*, which is `ch1:50`'s own word for the reach. |
+| N08 | Chapter 1 · body | manuscript/ch1.md:6 | I made a promise to readers who trusted me with their money and their hope, and then I couldn't deliver. The reason, when I finally let myself look at it clearly, was both embarrassing and fitting: I was writing a book about allyship, and it was making me a worse ally. Not to the people I was trying to serve. To myself, to the people closest to me, to the work itself. | Should be *made me feel like a worse ally*. | | open |
+| N09 | Chapter 1 · body | manuscript/ch1.md:8 | I knew that helping people from a place of scarcity doesn't work. I'd built a whole framework around that idea. So I told myself I wasn't doing that. I was being responsible. I was staying in integrity. Every word of that was true, and every word of it left the guilt nowhere to go. It went underground. The work went with it. | Add a contraction here. | | open |
+| N10 | Chapter 1 · body | manuscript/ch1.md:12 | Realizing this is what finally unlocked my ability to finish. I could see the pattern clearly, and I kept playing. It didn't have to disappear first. In fact, letting the charge of that awareness exist was what let me alchemize it into the book in your hands right now. | Flagged, reason not yet given. (Standing rule: everything pasted this session is a defect until Wendell says otherwise.) | | open |
+| N11 | Chapter 1 · body | manuscript/ch1.md:14 | You're the person I made that promise to. This is me showing up: late, imperfect, and in the game. | What is *this*? | | open |
+| N12 | Chapter 1 · body | manuscript/ch1.md:16 | You are a Game Master. You have been running your own allyship campaign for years, whether you named it or not. You decided which harm in a moment got named out loud and which one slid past. You set the stakes with a single sentence, or by saying nothing at all. You did almost none of it on purpose. The conscious you never called those moves. The part that runs on default did: inherited reflexes, old wounds, the face you reach for without checking whether it fits. Your unconscious has been the game master. It has run your allyship the whole time, and it plays by one rule: keep you safe. Helping the people you meant to serve was never its assignment. What changes now: you take the seat. This whole book builds toward that move, and that is why so much of it runs on shadow work. Your shadow is the game master. You cannot take the controls from a player you refuse to look at. | Cut, or explain what a Game Master is. | | open |
+| N13 | Chapter 1 · body | manuscript/ch1.md:16 | You are a Game Master. You have been running your own allyship campaign for years, whether you named it or not. You decided which harm in a moment got named out loud and which one slid past. You set the stakes with a single sentence, or by saying nothing at all. You did almost none of it on purpose. The conscious you never called those moves. The part that runs on default did: inherited reflexes, old wounds, the face you reach for without checking whether it fits. Your unconscious has been the game master. It has run your allyship the whole time, and it plays by one rule: keep you safe. Helping the people you meant to serve was never its assignment. What changes now: you take the seat. This whole book builds toward that move, and that is why so much of it runs on shadow work. Your shadow is the game master. You cannot take the controls from a player you refuse to look at. | Flagged, reason not yet given. | | open |
+| N14 | Chapter 1 · body | manuscript/ch1.md:16 | You are a Game Master. You have been running your own allyship campaign for years, whether you named it or not. You decided which harm in a moment got named out loud and which one slid past. You set the stakes with a single sentence, or by saying nothing at all. You did almost none of it on purpose. The conscious you never called those moves. The part that runs on default did: inherited reflexes, old wounds, the face you reach for without checking whether it fits. Your unconscious has been the game master. It has run your allyship the whole time, and it plays by one rule: keep you safe. Helping the people you meant to serve was never its assignment. What changes now: you take the seat. This whole book builds toward that move, and that is why so much of it runs on shadow work. Your shadow is the game master. You cannot take the controls from a player you refuse to look at. | Clunky and weird. | | open |
+| N15 | Chapter 1 · body | manuscript/ch1.md:22 | You have done this before. You walk into a meeting or a dinner or a group chat and you catch something nobody else seems to catch: a game already running under the surface. Somebody gets talked over, or a decision lands on the person with the least power to absorb it, and the temperature drops while everyone keeps talking. You are the one who moves, changing who you look at and slowing the conversation down and saying the sentence that costs you something, even though nobody handed you that job. That pull, to step into a game no one invited you to play because you can see it and cannot leave it alone, is the call. You have been answering it since before you had a word for it. | Done what before? Hates all intros like this — vague and weird. | | open |
+| N16 | Chapter 1 · body | manuscript/ch1.md:24 | Underneath it runs a feeling you have never fully worked through. It sits closest to worry, the low and steady kind that never switches all the way off. You can see how the systems you were born into wear people down by design, and you can see how little your moves seem to move the machine, and you keep playing anyway while the worry keeps running underneath the play. | Whole two-paragraph opening needs an ELI5. It assumes a secret competence, which is not the point of the book. Unconscious skills can be brought to bear, but what people actually experience is a pressure to do good that they cannot act on as consistently as they think they should. | | open |
+| N17 | Chapter 1 · body | manuscript/ch1.md:28 | That was the beginner's game. You graduated from it years ago. | Flagged, reason not yet given. Read as the assumed-competence move again — *you graduated* is a claim about the reader's rank. | | open |
+| N18 | Chapter 1 · body | manuscript/ch1.md:30 | You are not here because you haven't tried. You've been doing the evolved version (the relational, emotionally literate, I've-done-my-work version) long enough to know that more trying isn't the answer. You've had the conversations. You've done the reading. You've carried the weight. Somewhere underneath all of it, you've been trying to pay down a debt you inherited: to restore something, to be the one whose effort finally offsets the damage. Most of the stories you tell about your allyship end with you falling short. You are not burned out from too little effort. You are burned out from trying to retire a debt designed never to clear, and some part of you has started to wonder whether the game itself is the problem. | Flagged, reason not yet given. Read as robotic rhythm — three identical short shapes stacked. | | open |
+| N19 | Chapter 1 · body | manuscript/ch1.md:36 | The game frame is the medicine for this, and it works because a game does something specific to your relationship with the stakes. It puts distance between you and the outcome. That distance is detachment, the healthy kind: it lets you stay in a charged fight without the charge running you. You are playing this game. You are not the game. The player fused with the outcome can't play well. The player fused with the cause can't serve it for long. | Framing this as a game. Also not sure the argument about game has been set up yet. NOTE: `ch1:129` says *"The opening gave you one reason to run allyship as a game"* — the book treats this sentence as the setup, and the *Why a Game* section 91 lines later builds on it. | | open |
+| N20 | Chapter 1 · body | manuscript/ch1.md:66 | Most people do not come to allyship empty-handed. They come because something is wrong and they want to be the kind of person who does something about it. They also come carrying a few questions they would never say out loud. Am I good enough? Do I matter? Do I belong here? If I get this wrong, do I get cast out? | What was in their hands? Never said. Also a denying negation — *do not come empty-handed* defines by what it is not. | | open |
+| N21 | Chapter 1 · body | manuscript/ch1.md:68 | You answered those questions with myths, the way everyone does. Myths are how human beings make sense of a world too big to hold; they give reality a shape you can move around in. Here is what the guilt never tells you: every one of these myths is a solvable puzzle, and this book hands you the moves to take each one apart. Just seeing the whole map of them, before you solve a single one, makes you | Myths emerge as a way to make sense of really hard questions — the reader did not *answer* with them. Agency assigned to the reader for something involuntary. | | open |
+| N22 | Chapter 1 · body | manuscript/ch1.md:68 | You answered those questions with myths, the way everyone does. Myths are how human beings make sense of a world too big to hold; they give reality a shape you can move around in. Here is what the guilt never tells you: every one of these myths is a solvable puzzle, and this book hands you the moves to take each one apart. Just seeing the whole map of them, before you solve a single one, makes you | Guilt doesn't tell you things. Guilt is a signal you have done something bad; the feeling that *you are bad* is the myth. | | open |
+| N23 | Chapter 1 · body | manuscript/ch1.md:70 | Allyship looks like the honorable place to bring those questions, and springs the trap. Bring them here and the question flips underneath you: instead of asking whether you are good, you start trying to prove it, one act of help at a time. That is the master myth, allyship means being good, and it comes in ten versions. A few of them are almost certainly running you right now. | Allyship doesn't spring traps. It might seem reasonable to bring these questions to your allyship practice, but bringing guilt- and shame-laden questions to it puts you in a vicious cycle. | | open |
+| N24 | Chapter 1 · body | manuscript/ch1.md:70 | Allyship looks like the honorable place to bring those questions, and springs the trap. Bring them here and the question flips underneath you: instead of asking whether you are good, you start trying to prove it, one act of help at a time. That is the master myth, allyship means being good, and it comes in ten versions. A few of them are almost certainly running you right now. | The question doesn't flip. *Instead of asking whether you are good you start trying to use your allyship practice to prove you're good.* | | open |
+| N25 | Chapter 1 · body | manuscript/ch1.md:83 | (A short, unflattering diagnostic at masteringallyship.com tells you which of these are yours and hands each one back with the page that takes it apart. It scores how you actually behave, and it will not tell you which kind of ally you are, because that question belongs to the trap.) | Flagged. Non-specific *it*, and a question that 'belongs to the trap'. | | open |
+| N26 | Chapter 1 · body | manuscript/ch1.md:85 | Every one of them holds a little truth, and that truth keeps them alive. Goodness matters, language matters, repair matters. The damage starts when one of them becomes the whole definition. The day allyship means being good, every exchange turns into a test you are taking, and the person in front of you stops being a person and becomes the examiner. You stop watching them and start watching yourse | *The problems begin when one of them becomes the whole definition.* | | open |
+| N27 | Chapter 1 · body | manuscript/ch1.md:85 | Every one of them holds a little truth, and that truth keeps them alive. Goodness matters, language matters, repair matters. The damage starts when one of them becomes the whole definition. The day allyship means being good, every exchange turns into a test you are taking, and the person in front of you stops being a person and becomes the examiner. You stop watching them and start watching yourse | Where would help land? Vague and passive. Where is the agent in the sentence? | | open |
+| N28 | Chapter 1 · body | manuscript/ch1.md:87 | I know the machine from the inside; I ran it for three years while writing a book that told other people not to. It broke the day someone I had been "helping" told me, plainly, that my help had been about me the whole time. I wanted to argue. I could not. The scoreboard went dark, and behind it sat a question I had never asked: what if being good was never the game? | CUT — the whole scoreboard passage. | | open |
+| N29 | Chapter 1 · body | manuscript/ch1.md:93 | Nothing in it asks whether you are good. The moment my help requires me to disappear, or turns you into a project or proof that I am good, we have left allyship. The definition guards one thing: the conditions where both of us can keep making real moves. | The whole paragraph. We are comparing the reader's definition of allyship to the one the book supplies, using a non-specific *it*, and definitions don't ask things of people. **The book in general has a misattributed agent problem.** | | open |
+| N30 | Chapter 1 · body | manuscript/ch1.md:95 | So you are not the defendant waiting on a verdict about your character. You are a player who has spent years inside a game someone else built. The myths are its rules, handed to you by people you trusted or absorbed so early you never saw them arrive, and you have been straining to win something that was rigged before you sat down. Here is the part the game would rather you not notice: you can loo | Games can't want things like this. We're talking about the shadow game designers. | | open |
+| N31 | Chapter 1 · body | manuscript/ch1.md:101 | Every game runs on a currency, and the first rule you get to rewrite is what you pay with. | Is this true? What do games actually run on — attention. Arcade games run on currency, and it's tokens. **Claim error, not an agency defect.** Filed as `CL-1` in `CLAIM_ERRORS.md`; `rescan.py` now carries it at the top of the working list. | | open · routed |
+| N32 | Chapter 1 · body | manuscript/ch1.md:109 | Remember the anger I told you about, the anger I finally let myself feel? Here is the machine underneath that moment. For three years I ran this book on guilt, and guilt is that first kind of fuel: it got me to the desk and left me stranded there, emptier every month, until I was sitting in front of a chapter I could not write with no way to tell tired from done. The whole time there was a full ta | How can one run a book on an emotion? What you mean is: I used the energy of guilt to write the book. | | open |
+| N33 | Chapter 1 · body | manuscript/ch1.md:121 | The real prize is the one nobody can take back: a felt sense of satisfaction that only shows up when you actually played. You named the line and drew it. You held the field without giving up your walk-away price. You repaired the thing you would rather have avoided. You walk out tired and clear, and that clean tiredness is the prize, one of the satisfied states you will meet with the Shaman in Cha | Means nothing unless there are other prizes that CAN be taken back. Needs reframing — a phantom contrast whose other half was never established. | | open |
+| N34 | Chapter 1 · body | manuscript/ch1.md:121 | The real prize is the one nobody can take back: a felt sense of satisfaction that only shows up when you actually played. You named the line and drew it. You held the field without giving up your walk-away price. You repaired the thing you would rather have avoided. You walk out tired and clear, and that clean tiredness is the prize, one of the satisfied states you will meet with the Shaman in Cha | Whole passage needs rewriting. In ch1 the reader does not know what line was held, what thing was repaired that was going to be avoided, and it sets up a clean tiredness as a prize that connects to nowhere. | | open |
+| N35 | Chapter 1 · body | manuscript/ch1.md:123 | Here is where the allyship Arcade breaks the rule of every arcade you have ever played. With the skee-ball and the stuffed bears, the prize is a dead end: you win the bear, the bear sits on a shelf, the game ends. Here, the prize converts back into tokens. The satisfaction you earn from playing well is renewable fuel, and it goes straight into the tank. This is why the better you play, the more yo | We do not know what arcades they have played in, and 'breaks the rule' requires arcade rules that are never set up. It violates expectations, intuitions and experiences — but there are no rules being referred to. | | open |
+| N36 | Chapter 1 · body | manuscript/ch1.md:131 | Here is the second, and I will say it plainly, because it is the objection that makes serious people wave the whole idea away: a game is fun. If "fun" sounds too small for work this heavy, call it by its real name: engaging. A chore needs you to supply the motivation; you brace, you discipline, you drag yourself toward it. A game supplies the motivation itself. That is the entire difference betwee | A clause that has to explain why something needs to be said plainly is not plain. | | open |
+| N37 | Chapter 1 · body | manuscript/ch1.md:131 | A chore needs you to supply the motivation; you brace, you discipline, you drag yourself toward it. | Cut *you brace, you discipline, you drag yourself toward it.* | | open |
+| N38 | Chapter 1 · body | manuscript/ch1.md:133 | That model does not fail because people care too little. It fails because caring, run as suffering, burns down to nothing, and the person you showed up for is left standing there the day you finally collapse. | Not-X-but-Y. Simplify — say Y. **Emergent:** `/no-ai-slop` bans binary contrasts by name; 27 sites in the book and no instrument has ever checked. See `SHAPES_BOARD.md`. | | open |
+| N39 | Chapter 1 · body | manuscript/ch1.md:135 | …nearly everything built to support it is finite: the campaign, the pledge, the training you complete, the bar you clear and then clear again. | Definite articles creeping in repetitively with no referent. **Emergent:** may need a stricter rule on *the* if this keeps up. 48 series of three-or-more in the book; ch1 carries 10, the most of any component. | | open |
+| N40 | Chapter 1 · body | manuscript/ch1.md:139 | The third reason changes everything: | Don't announce what it changes. If it isn't obvious then we're projecting. **Emergent:** pre-emption family — `preempt.py` did not catch it; a `stakes announcement` shape has been added. | | open |
+| N41 | Chapter 1 · body | manuscript/ch1.md:141 | Here is what I left out of the story I told you at the start. When I said I held myself hostage for three years… | Reads as repetitive in a book that is already overlong. Condense the idea. **Correction to the note:** it is not the third mention — the three-years/hostage story lands **six** times in ch1 (`:4`, `:10`, `:87`, `:109`, `:141`, `:187`) and *three years* appears twice more in the author's note (`:9`, `:25`) carrying a different claim. | | open |
+| N42 | Chapter 1 · body | manuscript/ch1.md:175 | The being-needed. The safety of the line you never cross. The exhaustion you wear like proof. | More sentence fragments and definite articles. Same family as N39. **Applied 2026-08-03, and `instruments/fragment.py` was built off this note.** Every clause now carries a verb and the three referent-less definite articles go with them: *People needing you feels good. So does a line you never have to cross, and so does an exhaustion other people can see.* The triple rhythm survives because it is doing the existential-kink work. Every counter improves — `be` 0.53 to 0.24, `passive` 4.30 to 3.93, `waste` 1.66 to 1.52, `empty` 1.90 to 1.74. | | **applied** |
+| N43 | Chapter 1 · body | manuscript/ch1.md:145 | A game turns the lights on: it takes the charge you've been running in secret and sets it on the board… | The game doesn't do this. A game sets the conditions for the *players* to do it — or the game *designers* do. **And a book-level idea:** the larger game is finding out who the designers are and changing their game. Agency defect (`agency.py` Tier 2) plus a possible missing argument. | | open |
+| N44 | Chapter 1 · body | manuscript/ch1.md:147 | If that landed as an accusation, notice the flinch. That's the shadow guarding its stash. If it landed as relief, you were already ready to hear it. | Cut. Cute, and wasting time and space in the chapter. **Emergent:** `preempt.py` already flags `if that landed` as an objection staged inside the claim. | | open |
+| N45 | Chapter 1 · body | manuscript/ch1.md:149 | Look at what that stash really buys you. It buys safety, so fear sits at the center of the work. Raw, fear freezes you or turns you back. A game turns it into the thing standing right beside it… | Flagged with N46 as one stretch; ELI5 needed. Also *a game turns it* — same agency defect as N43. | | open |
+| N46 | Chapter 1 · body | manuscript/ch1.md:151 | Detachment, engagement, and the nerve to look at what you'd rather not: three reasons the game frame is medicine and not a gimmick… That is the board we are about to map. | Doesn't know what it is saying; there is a much simpler way to say it. ELI5. | | open |
+| N47 | Chapter 1 · body | manuscript/ch1.md:155 | Here they are, and each one pays out differently. Most frameworks teach one and treat the other two as mistakes. The move is to tell them apart, because you play each with a different hand. | Throat clearing at the start of a section. **Emergent:** pre-emption family — `preempt.py` missed *Here they are*; added to the meta-narration shape. | | open |
+| N48 | Chapter 1 · body | manuscript/ch1.md:159, :161 | You cannot control the right place or the right time… That is why Chance pays the biggest of the three: jackpot money… | Describe the concept before expanding it into how it applies to allyship. A Game of Chance has to be explained as an arcade thing first, then connected to allyship opportunism, then shown to be one of the three allyship games. | | **ruled** |
+| N49 | Chapter 1 · body | manuscript/ch1.md:153–175 (whole section) | *Which Game Are You Playing* — the section as it stands | **Structural ruling.** The whole section is rewritten to one structure, applied three times: what the arcade game is → how its tokens and tickets pay out → how allyship situations connect → why it is one of the three allyship games. Taxonomy supplied by Wendell; see `WHICH_GAME_SPEC.md`. | | **ruled** |
+| N50 | Chapter 1 · body | manuscript/ch1.md:233 | This oath is not to me. You can't fail me: you can only fail yourself. The only way to lose is to stop playing. | Close. Expand so it is clear who *me* is: the reader is promising themselves, not the authority figure in their head that is wearing my face and using my voice. | | **ruled** |
+| N51 | Chapter 1 · body | manuscript/ch1.md:239 | I wrote this chapter to hit you. That is the craft, and by now some of it has. | Why would I want to *hit* them? I wrote it to **challenge** them — my Challenger is online. I am seeking impact because writing this book is my allyship practice. And what is *the craft*, and how would a reader recognise it? | | **applied** |
+| N52 | Chapter 1 · body | manuscript/ch1.md:241 | The part of you that believes your life will change because you wrote it down in a journal is part of the problem. | *part* twice. There is a joke here about a new journal completely changing someone's life. | | **applied** |
+| N53 | Chapter 1 · body | manuscript/ch1.md:241 | It goes into a notebook you will almost never reopen, because reviewing a journal is real work and no one has made that part work. | *work* and *work* — clunky. And which part has nobody made work? Which people? | | **applied** |
+| N54 | Chapter 1 · body | manuscript/ch1.md:243 | Here is the part I did not plan: even when I could not remember what a card said, I remembered where it lived. | Slop. Nobody cares that I did not plan it. Mark it as surprising and move on. The important part is that BARs create a persistent kind of memory, more recallable than a journal. | | **applied** |
+| N55 | Chapter 1 · body | manuscript/ch1.md:245 | A **BAR** is that card. Captured charge… carried where you can reach it | Where can they reach it? They are notes that go in your pocket. Recommend pocket-sized notecards to carry. Turn their insights into Pokémon cards. | | **applied** |
+| N56 | Chapter 1 · body | manuscript/ch1.md:159 | A Game of Chance is the reorg that dissolves the case your coworker spent two weeks building the week before she files | Bad and confusing example; it does not connect to the jackpot and is not a jackpot at all. Chance has a positive pole (right place and time to help someone) and a negative one (wrong place, wrong time — Trayvon Martin and others brutalised by police). This threads neither. **Ruling: cut.** It does not make sense and has not been explained in a way useful to Jordan or to Wendell. Parking lot at most; the posture now is cutting. | | **ruled · cut** |
+| N57 | Draft (not canon) · body | proposed ch1 Chance section | …you catch that a hire is about to go sideways… | Jargon. What does it mean for a hire to *go sideways*? Rewrite for someone who does not have the idiom. | | **ruled** |
+| N58 | Draft (not canon) · body | proposed ch1 Chance section | You've been on the paying end of this. | **This sentence structure is banned.** We do not know they have been on the paying end, and *paying end* is a strange way to describe winning a jackpot. Inviting them to imagine solves the whole class. These assertions are a blocker for the book and need a plan in the readiness guide. **212 sites, 14 invitations book-wide** — `instruments/assumed.py`, and see §10 of `SPEC_PRINT_READINESS_2026-07-29.md`. | | **ruled** |
+| N59 | Draft (not canon) · body | proposed ch1:239 | That is the craft: pacing, a scene picked because you have been in one near enough to it… | **Cut, and a standing rule with it: stop mentioning the craft.** Jordan does not need to know about it. She needs the instructions. If a sentence about how the book was made does not help her, it does not go in. | | **applied** |
+| N60 | Draft (not canon) · body | proposed ch1:239 | I have been on the other side of it more times than I can count. | On the other side of **what**? The referent is the thing written on a card and it is too far from its pronoun. | | **applied** |
+| N61 | Whole book | pronouns | *it* · *this* · *that* · *they* | **Emergent pattern.** *"We are REALLY bad at this 'it' thing. So much so that this needs to be a pattern to explore the book against."* **424 sites, 337 of them with the referent in another paragraph** — `instruments/antecedent.py`, board in `ANTECEDENT_BOARD.md`. Heaviest: ch8 65, ch3 60, ch7 59. | | **open** |
+| N62 | Draft (not canon) · body | proposed ch1:239 | A book hits me, and by morning the charge is gone | The book does not hit me. The **information** in a book hits me. Agency defect (`agency.py` Tier 2) in a draft written after the instrument was built. | | **applied** |
+| N63 | Draft (not canon) · body | proposed ch1:241 | I have bought a new journal to fix my life more than once, and I have never made it past page twenty. | **Invented fact, and it argued against the point.** Wendell filled many notebooks; what almost never happened was going back to read them. The defect is non-review, not abandonment — which is exactly what the paragraph is arguing, so the fabrication undercut it. | | **applied** || N64 | Draft (not canon) · body | proposed ch1 Passion section | The thing they check is whether you show up at the group's counter | What group, and what is a counter here? Specificity lost from the metaphor. The book has one counter machinery (`ch1:117`–`123`) and names *the counter marked applause*; I invented a third, undefined one instead of using it. | | **applied** |
+| N65 | Chapter 1 · structure | manuscript/ch1.md:36–52, :153–175 | *Which Game Are You Playing* is theory end to end | **Structural.** Jordan *"will skim theory, will not skip a story"* (`EDITING_PLAN.md:63`). Two epiphany bridges needed — one for the three games, one for the pre/trans confusion — and they go in different places. See `EPIPHANY_BRIDGE_CH1.md`. **Blocked on two memories from Wendell.** | | **open · blocked** |
+| N66 | Chapter 1 · structure | manuscript/ch1.md:99–125 | The Token System and The Ticket System | **Structural.** The economy is a closed loop inside one person — tokens, tickets and prize all belong to the player, and the person being helped never enters it. The book's own rule (`authors_note:35`) says the loop cannot close that way. **Trust is the third currency and somebody else holds it; consent is the gate.** *consent* appears once in the whole manuscript, at `ch5:37`, about a ledger. See `specs/SPEC_TRUST_THE_THIRD_CURRENCY_2026-08-02.md`. | | **applied** (ch1:127–147, The Trust System) |
+| N67 | Chapter 1 · body | manuscript/ch1.md:129–133 | In allyship the machines are people… the reading decides how many coins you get to put in | **Register failure, in prose applied today.** A person deciding how many coins you may insert reads as perverted, and worse in a book about consent. The coin-insertion language goes; the machines-are-people reveal stays. See `specs/SPEC_THEIR_DAEMONS_ARE_THE_GATE_2026-08-02.md`. | | **applied** |
+| N68 | Chapter 2 · structure | manuscript/ch2.md | The drafted shadow-trust section | **Superseded before landing.** Their daemons are the gate: the person in front of you has seven guards whose job is keeping them safe from people who would harm them, and some of those people arrived offering help. `ch2:308`'s Protector protocol — do not fight it, do not shove past it, thank it and help it tell a real threat from a social one — **is the allyship move, written for the reader's own psyche and never named as the same move.** | | **ruled** |
+| N69 | Draft (not canon) · body | proposed ch2 *Their Forest* | In Chapter 1 I said you would find out in this chapter who the bouncers are. They are these seven, standing in somebody else's Forest instead of yours. | **Awkward, and a cataphoric pronoun.** *The bouncers to what?* — the callback needs enough context to stand without Chapter 1 open. And *these seven* points forward; a pronoun points back at text that has already happened. Rewritten to set the scene first, answer second, and refer backward to the seven the reader just walked through. | | **applied** |
+| N70 | Draft (not canon) · body | proposed ch2 *Their Forest* | Look at the map again. | **A directive the reader cannot perform.** Same defect class as N55 (*carried where you can reach it* — where?). There is no map. The Forest **is** the map: `ch2:250` already places a player at the center with seven daemons around them, which is a tower-defense layout written a year before the frame existed. Use the Forest and invent nothing. | | **applied** |
+| N71 | Draft (not canon) · body | proposed ch2 *Their Forest* | What a bouncer grants is clearance, and it comes in pieces, one guard at a time. | **Bad and awkward.** A pseudo-cleft (*What X does is Y*) standing in for a definition, plus three words for one thing in a single sentence. Replaced with the behavior: *A daemon lets you in so far and no further. That distance is your clearance with it.* | | **applied** |
+| N72 | Draft (not canon) · body | proposed ch2 *Their Forest* | *bouncer* ×3, *guard* ×5, *daemon* ×4 for one referent | **Metaphor audit, on request.** Synonym cycling, which `/no-ai-slop` bans by name. Fourteen images were live across the section and the pages around it. Two rulings: **daemon is the word** — *bouncer* gets one payoff sentence for Chapter 1's promise and retires, *guard* returns to being a verb — and **`ch2:294` already images the Protector as a hull and `ch2:304` already says of the other person *"They are their own ship"***, so the outward-facing image existed and the draft imported two more on top of it. Final counts: daemon 8, door 5, Forest 3, wall 3, bouncer 1, tower 1, guard 0, perimeter 0, map 0, hull 0. | | **applied** |
+| N73 | Draft (not canon) · body | proposed ch2 *Their Forest* | They hold the edge, and holding it does not end. | **Means nothing.** Cut. The two-games contrast survives in *You came in playing an arcade, and nobody told either of you.* | | **applied** |
+| N74 | Draft (not canon) · body | proposed ch2 *Their Forest* | no version of you is good enough to skip the reading | **The sentence does not parse against its own mechanism** — *how would having the reading help them get past the daemons?* Cut with the whole reading metaphor, see N76. | | **applied** |
+| N75 | Draft (not canon) · body | proposed ch2 *Their Forest* | The whole clearance paragraph | **Rewritten to Wendell's ruling: all seven daemons ultimately work for the Protector, so you can only ally with the parts of a person whose trust you have earned.** Canon supports it — `ch2:294` the Protector works the door and you meet it first, `ch2:288` the Damaged Self is *"the Protector's last resort."* This collapses seven separate clearances into **one gate with six behind it**, and clearance becomes one number instead of a matrix. | | **applied** |
+| N76 | Draft (not canon) · body + **`ch1:133`, `ch1:135` (canon)** | proposed ch2 *Their Forest*; `ch1:133`; `ch1:135` | it reads you before anybody has said much, and it reads fast · Three things get read · *reads as an attack*, *skip the reading*, *theirs reads a braced body* | **The reading metaphor is wrong and it is already in canon.** Wendell: *"Knights at the gate don't read. This is affording an intelligence that the daemons don't necessarily have."* A robotic bouncer holds one shape and checks you against it; it does not interpret. Replaced in the draft with matching and firing — **0 uses of read/reads/reading remain**. **`ch1:133` and `ch1:135` still run it and need the same pass.** | | **draft applied · ch1 open** |
+| N77 | Draft (not canon) · body | proposed ch2 *Their Forest* | The section at 805 words | **Over-verbose.** Cut to 605. The Protector ruling in N75 did most of it by removing the seven-clearances scaffolding; the rest went from folding the seven-jobs paragraph into the Protector paragraph and compressing the closing three paragraphs into one. | | **applied** |
+| N78 | Draft (not canon) · body | proposed ch2 *Their Forest* | The bouncer was a daemon, **one of theirs** · *their Protector, their Skeptic, their Fixer* · heading *Their Forest* | **Pronoun drift.** *they/their* was carrying the person being helped and their daemons at once, so the reader cannot tell whose daemon is meant. Wendell: *"This needs to be a specific person even if it's an abstract person."* Fixed the book's own way — named hypothetical people are house convention (Dana `ch3:896`, Priya `ch4:632`, Marcus `ch5:607`, Nia `ch7:594`, Sam `ch8:630`, Rosa `ch9:528`). The person is now **Imani**, a coworker, with a stable pronoun, and the heading becomes *Somebody Else's Forest*. **Name is provisional and Wendell's to change.** | | **applied** |
+| N79 | Draft (not canon) · body | proposed ch2 *Their Forest* | So you never earn seven separate trusts one daemon at a time. | **Illegal negation** under `REVISION_INSTRUMENT.md` Part 1 — *a negation is legal only if the negated thing is still true when the sentence ends*. This denies a model the reader was never offered. Cut; the positive sentence after it carries the whole ruling. | | **applied** |
+| N80 | Draft (not canon) · body | proposed ch2 *Their Forest* | You take the closing as a verdict on you | **Narrates the reader's interior as fact** — the hero/guide constraint, and the same class as N58. Converted to the licensed invitational form, *If you take the closing as a verdict on you…*, which `assumed.py` counts as an INVITE. | | **applied** |
+| N81 | Draft (not canon) · body | proposed ch2 section | whatever you meant by the move | Should be **regardless of your intention, stated or otherwise.** *What you meant* leaves room for the meaning having been announced; the Protector does not take announcements either. | | **applied** |
+| N82 | Draft (not canon) · body | proposed ch2 section | You already know the move at a door like that, because you made it in this chapter on your own Protector. | **Wrong verb on the reader's job.** Wendell: *"You are already equipped to engage with the Protector because you've hopefully started to befriend your own. Your job isn't to shove past it. Your job is to ally with it."* *Getting past* is the frame conventional allyship already has. Rewritten to name allying with the guard as the job. | | **applied** |
+| N83 | Draft (not canon) · **structure** | proposed ch2 section | The whole section, as exposition | **3-2-1 by Wendell, and it redirects the section.** *"This section is better taken care of as a walk through someone else's interior. The walk should show how the daemons might show up in someone else, how they look from the outside."* ch2 already has *A First Walk Through the Forest* (`ch2:344`), seven beats at `ch2:350`–`362` in the form *you do X / the daemon takes the joystick: **quote***. The section becomes **a second walk in the same rhythm, seen from outside**, and moves from line 323 to sit beside the first walk. | | **applied** |
+| N84 | Draft (not canon) · **argument** | proposed ch2 section | The missing load-bearing move | **Projection**, named in Wendell's 3-2-1 and absent from every draft. The walk cannot only list what her daemons are doing; it has to admit the reading is a guess, and that whichever of *your* seven has your joystick decides what you think you are looking at. **This is what makes the inner work load-bearing rather than asserted** — *the parts you have not befriended in yourself are the parts you will misread hardest in everybody else.* Also from the 3-2-1: the thesis sentence — **you cannot deliver anything until you have trust, and the trust that decides it belongs to their parts, not to them** — and the reader's real objection, *they barely understand what you just told them to do for themselves and now they have to do it for other people.* | | **applied** |
+| N85 | Draft (not canon) · **diagnosis** | proposed ch2 second walk | Thirteen notes, four defects | **The analysis Wendell asked for.** (1) **No scene, so every definite article points at nothing** — *your first question, the meeting, the plan*. The first walk sets a situation before any beat runs (`ch2:348`); the second went straight to behaviors. This generated five of the thirteen notes, and the Fixer and Emotional Body notes are the same defect one layer down: the beats described Imani's general life rather than **her reaction to being offered help**. (2) **Emphasis bought with false absolutes** — *Nobody warns you · Not at caring, not at skill · the whole error · two Protectors never meet* — one of them at other people's expense. (3) **Three dead metaphors from over-compression.** (4) **The `ch2:308` protocol stated twice.** | | **applied** |
+| N86 | Draft (not canon) · body | proposed ch2 second walk | Nobody warns you about what comes next. | **Dishonest posture, and it dunks.** Wendell: *"I'm the one that's telling them what happens next… What does Jordan need to hear from me that will make them a better ally and trust me more without dunking on other people?"* Rewritten to own the authorship and name the size of the ask: *I am going to ask you to make the same walk again, in somebody else, and it is a large ask this early. You barely have the first one.* | | **applied** |
+| N87 | Draft (not canon) · body | proposed ch2 second walk | This is where allyship actually fails. Not at the level of caring, and not at the level of skill. | **Not-X-but-Y**, and `draftprobe` missed it — `shapes.BINARY` does not match *Not at the level of X, and not at the level of Y.* Rewritten as a ranking: *This is where allyship fails, with the caring intact and the skill intact.* **The regex needs the form added.** | | **applied · instrument open** |
+| N88 | Draft (not canon) · body | proposed ch2 second walk | She tells you how she would have run the meeting · She rearranges her whole week around a problem that is not hers · She tells you something painful in a flat voice | **The seven beats had the wrong content, not just missing referents.** Wendell's rulings, applied: the **Controller** holds a standard for the care she is to receive, and the job is to meet hers or help her move it, both of which are allyship. The **Skeptic** can only see the problems and dangers in your plan. The **Fixer/Healer** repairs the problems she sees in *your plan*, or holds her new reality in place. The **Emotional Body** is emotional reactivity — the feeling is looking for a specific satisfaction and your help has to connect to it, and until it arrives she will not look at any plan you bring. | | **applied** |
+| N89 | Draft (not canon) · body | proposed ch2 second walk | Playing above your clearance is the whole error | **Overclaimed, and the mechanism was missing.** Wendell: *"It's not the whole error, but it is a major error. People work above their clearance because their Controller believes they know better. They have a higher standard or orthogonal standard than what the person they are trying to help can metabolize."* Both corrections applied, and they give the error an author. | | **applied** |
+| N90 | Draft (not canon) · body | proposed ch2 second walk | two Protectors never meet · the cost runs in a circle · You break the circle · The move lands above your clearance | **Four factual and metaphor failures.** Two Protectors meet constantly — the meeting is a conflict, not an absence. A cost cannot run in a circle. You break a **cycle**. A move is **attempted** above clearance rather than landing there, which is Wendell's phrasing and is kept verbatim. | | **applied** |
+| N91 | Draft (not canon) · body | proposed ch2 second walk | and it is a large ask this early. You barely have the first one. | **Apologising for the structure.** True and overreaching. Wendell: *"It's essential they come one after another so that the reader understands the concepts and how they work together. Say it without apology, but do provide the context. We can even make a joke about it if need be."* Rewritten to give the reason and take the joke. | | **applied** |
+| N92 | Draft (not canon) · body | proposed ch2 second walk | She has the same seven | Should be **the same daemons within her**. *The same seven* names a count where the sentence needs the thing counted. | | **applied** |
+| N93 | Draft (not canon) · **new standing rule** | proposed ch2 second walk | This is where allyship fails, with the caring intact and the skill intact. | **Illegal definite article, and it needs a rule.** Wendell: *"If we don't have a rule for this we need to make sure that all uses of 'the' have antecedents that are named."* Also *"we're assuming that care and skill are coming un-intact and that's doing too much"* — sentence cut entirely. **`shapes.SERIES` only catches three or more `the` phrases in a comma series**, so a single abstraction standing over nothing passed clean. New check **bare definite abstraction** in `instruments/draftprobe.py`: `the` + an uncountable abstraction whose stem has not appeared earlier in the passage. | | **applied · rule added** |
+| N94 | Draft (not canon) · body + **process** | proposed ch2 second walk | the trust that decides it is not theirs to give | **Agency defect, and a process failure.** Wendell: *"How can trust decide? We're giving agency to a word. I know we have rules against this. We didn't do our review process before getting here."* Correct on both counts. **`agency.py` is in neither of `review.py`'s chains** — not the draft path nor the six-step board — so it never runs as part of the review process and has never seen a draft, while `prose_diet -v` prints a section *labelled* agency that is a narrower separate check. `agency.py`'s own lists score the sentence **Tier 1** (`trust` not in ANIMATE, `decides` in MENTAL). Added to `draftprobe`, with relative-clause splitting, because `head_of_subject` walks to the first finite verb and cannot see a defect inside a `that`-clause. **And the concept was wrong too:** trust is emergent from the whole person and the parts **administer** it. Rewritten. | | **applied · instrument added** |
+| N95 | **Instrument finding** | `instruments/agency.py` | ANIMATE holds the six Faces and not the seven daemons | **39 of the board's 207 Tier 1 sites are daemon subjects** — Protector 8, Skeptic 7, Controller 6, Emotional Body 6, Damaged Self 4, Victim 4, daemon 3, Fixer 1 — which is 19% of the book's headline agency number, and every one is the book's deliberate personification (`ch2:248` defines a daemon as a part that acts on its own; the first walk is *The Protector has the joystick* seven times). Named hypothetical people are missing too. **RULED 2026-08-03: the daemons go into `agency.py`'s ANIMATE.** Applied upstream, and the correction is smaller than the 39 above because those split 30 Tier-1 and 9 Tier-2. **The board moves 207/294 to 177/285**, the agentless rate 63% to 61%, and the five voice anchors 54% to 46%. `AGENCY_BOARD.md` regenerated; the three citations in `AGENCY_VS_INTEGRATION.md` updated with the reason. Named hypothetical people stay in `draftprobe.BOOK_ANIMATE`, because they score zero on the board and only appear when a draft introduces a new one. | | **ruled · applied** |
+| N96 | Draft (not canon) · body | proposed ch2 second walk | without a word for it | They may well have a word for it. What is true is that they do not say it out loud. Rewritten. | | **applied** |
+| N97 | **Chapter 1 · body (canon)** | manuscript/ch1.md:133, :135, :139, :143 | it reads you before anybody has said much, and it reads fast · Three things get read · A decade of being read wrong · The reading changes the size of the question | **N76 carried into canon.** The reading metaphor gives the bouncer an intelligence it does not have, and ch2's second walk now contradicts it directly (*It does not think about you; it checks you against the shape*). Fixed, and the fix **splits the work between the door and the person**, which is a gain rather than a swap: the bouncer keeps a shape and checks you against it, fast and mechanically, while **behind it the person works out Capability, Integrity and Benevolence, and that takes a good deal longer than the door does.** That split is what `ch1:137` already assumed — *what you are leaves no record, so they guess* — and it sets up ch2's ruling that the Protector works the door with the other six behind it. **0 uses of read/reads/reading remain in the section.** | | **applied** |
+| N98 | Chapter 1 · body (canon) | manuscript/ch1.md:139 | A decade of somebody having you wrong | **Nonsense.** Wendell's replacement, applied verbatim: *A decade of being seen incorrectly.* My phrasing was reaching for idiom and landed on nothing. The passive it introduces (`passive` 0.00 to 0.59 on the section) is correct here — the person doing the seeing is deliberately unspecified, because the whole paragraph is about not being able to reach them. | | **applied** |
+| N99 | **Chapters 3–8 · body (canon)** | ch3:718, ch4:590, ch5:549, ch6:418, ch7:544, ch8:572 | The twelve mirror lines | **Applied, and the placement was already built.** Five of the six *Up Close* sections end on the same sentence — *"You know what your Controller / auditor / Fixer / Emotional Body / Victim / Damaged Self is for now. That is what you take out."* The mirror lands immediately after it, converting *what yours is for* into *what theirs is doing*, and opens on one refrain across all six: **Theirs is doing the same job in a Forest you cannot see into.** The book already repeats its take-out line verbatim six times, so matching that is house form rather than robotic rhythm. 354 words total, ~59 a chapter. ch7 runs longest because it carries the returns on staying defended. | | **applied** |
+| N100 | **Instrument finding** | `instruments/preempt.py` | `Here they are\b` had no leading word boundary | Harmless on the board, which runs case-sensitively, and a false positive the moment anything runs it with `re.I`: it matched **w*here they are***. Boundary added; the board is unchanged at 83 sites. **And the case-sensitivity itself is a real gap** — patterns like `let me be clear`, `the uncomfortable truth` and `we all know` are lowercase-anchored and cannot match at the start of a sentence. Measured: **83 sites case-sensitive, 117 case-insensitive, a difference of 34.** **RULED 2026-08-03: yes, case-insensitive.** Applied. **The board moves 83 to 117**, meta-narration 69 to 100 and phantom contrast 9 to 11. The 32 sites it adds are 25 mid-sentence `here is the / what / why / how / where`, plus `The real prize` (`ch1:121`) and **`If that landed` (`ch1:173`) — a defect Wendell had already caught by eye in batch six and marked *cut*.** `PREEMPT_BOARD.md` regenerated; the three citations in `AGENCY_VS_INTEGRATION.md` updated with the reason. | | **ruled · applied** |
+| N101 | **Verification failure, mine** | `instruments/prose_diet.py` REGISTERS | ch5 before 1.76 → after 1.34 on passive | **I reported a 0.42 improvement from adding 45 words, which is not possible, and did not stop at the implausibility.** `register_for()` substring-matches the filename, so my scratch copy `b5.md` got the book baseline while `manuscript/ch5.md` got ch5's block exemption — Quill's 399-word charter, ruled out of the passive count at a ceiling of 11.32. **Two different rulers, reported as a before and after.** Corrected by naming the scratch file so the register fires on both sides: **1.35 → 1.34**, ordinary dilution. Same class as the stash-mid-check error recorded earlier: a comparison is only a comparison when both sides are measured the same way. | | **recorded** |
+| N102 | **Chapter 1 · body (canon)** | manuscript/ch1.md:147 | The two-games line | **Applied.** Sits directly after the bouncer telegraph at `ch1:145`, so the paragraph that says *you prove yourself first, and not to the person* is followed by the reason: **you and the person you came to help are not playing the same game.** Sets ch2's reveal up without spending it — ch1 says *they are holding a line they never chose*, ch2 names the genre. Deliberately does not reuse ch2's *nobody told either of you*. | | **applied** |
+| N103 | **Chapter 9 · body (canon)** | manuscript/ch9.md:528 | The consent line | **Applied.** *One person, not an audience* (`ch9:526`) is now also named as **the smallest ask you can make of anybody's Protector**, which closes the frame on the chapter where the whole subject is showing an unfinished thing to somebody. It is the only place in the book where `clearance` appears as something you already have enough of. | | **applied** |
+| N104 | Chapter 1 · body (canon) | manuscript/ch1.md:147 | They are holding a line they never chose | **Not specific enough, and the imprecision loses the setup.** Wendell: *"It's not that they never chose it but that the line was chosen unconsciously by parts of them they aren't aware of."* Rewritten to **a line, drawn long ago by parts of them they have never met** — which also lands on ch2's own words, `ch2:254` *You meet the seven walking in*. | | **applied** |
+| N105 | **Citation ruling** | `appendices/ON_THE_SHOULDERS_OF.md`, `instruments/citation_audit.py` | Capability, integrity and benevolence (`ch1:135`) | **RULED 2026-08-03: credit Mayer, Davis & Schoorman.** New Appendix G section, *The Trust Model*, crediting *An Integrative Model of Organizational Trust* (Academy of Management Review, 1995), naming the word change (*ability* → *capability*) and the **two departures**: their model is one rational actor appraising another, where this book puts a Protector at the door that appraises nothing; and their trust points outward, where ch2 turns it around onto your own parts. `citation_audit.py` now knows the term, and the reason it had reported **0 uncredited** is recorded there — it had never been told whose model it was. Board moves 11 findings to 12; ch1 does not name them inline, which matches how Gendlin, Meadows and Johnson are handled. | | **ruled · applied** |
+| N106 | Chapter 1 · body (canon) | manuscript/ch1.md:147 | They are holding a line, drawn long ago by parts of them they have never met, and it does not come down because you arrived meaning well. | Wendell's correction, applied verbatim: **plural lines, and the second half split into its own sentence** — *They won't be taking them down no matter how hard you intend to mean well.* *Intend to mean well* is the sharper version: the failure is two removes from the person, not one. | | **applied** |
+| N107 | **Chapters 3–8 · body (canon)** | ch3:125, ch4:94, ch5:104, ch6:107, ch7:81, ch8:133 | The six benevolence definitions | **RULED and applied**, closing the Regent/Diplomat split from `PANEL_TRUST_OPEN_QUESTIONS_6FACE`. Each lands as the **last paragraph of Section 1**, where that Face's parable closes — the panel's *a chapter that already opens on that Face*. ch3 carries the frame once (*people who share that definition call you kind, people who hold a different one call you cold, and neither scores you wrong; they score you in another dictionary*), so ch4–ch8 cost one sentence each. **226 words across six chapters.** This is what makes `ch7:564` diagnosable — *two people arguing about a decision are often really negotiating about trust* — because now the book can say which dictionary each of them is scoring in. | | **applied** |
+| N108 | **Membrane, caught in placement** | manuscript/ch5.md | The Regent's definition landed after *It records no case of a keeper who stopped attempting it either.* | **Inserting at the end of Section 1 put author voice directly after Quill's charter Note, where it reads as a continuation of the charter.** `seam_sweep` passed, because the line carries no attribution and the check is for attribution rather than adjacency. Moved to `ch5:104`, after *The village never meant for that to happen*, which is the last author-voice paragraph before the charter opens. **The uniform rule (last paragraph of Section 1) was wrong for one chapter in six, and only reading it caught that.** | | **applied** |
+| N109 | Chapter 6 · body (canon) + **instrument** | manuscript/ch6.md:107, manuscript/ch8.md:133 | **The Architect means: the thing runs after you leave.** · counts your absence as **the result** | **Illegal definite article on an empty noun, and the check I built for exactly this rule missed it.** Wendell caught *the thing* by eye in prose that had passed gate, diet and `draftprobe`. **The reason is worth keeping:** the check suppresses a noun once its stem appears earlier in the passage, and ch3's *the true thing* had already put `thing` on the seen list. For an abstraction a prior mention is a real antecedent — *the trust* after *their trust* points at something. **For an empty noun it never is** — *the thing* after *the true thing* points at nothing, twice. `EMPTY` is now a separate list reported on **every** occurrence with no antecedent logic, and it catches both sites. Prose fixed to *what you built runs after you leave* and *counts your absence as success*; `empty` on the batch moves 1.26 to 0.95. Every remaining `the` in the six lines audited by hand: all twelve have named antecedents. | | **applied** |
+| N110 | **Chapter 1 · body (canon)** | manuscript/ch1.md:52 | The ones who refuse to be carved become the enemy. | **Amended, closing the last open item from `SCAN_HOLDING_THE_FRAME` §6.** The sentence has always described the failure; with the frame in place it now names it. Added: *Something in them held, which is the one job it has had since long before you arrived, and the game has exactly one name for a person who will not move.* **This is the frame's exact inverse stated 80 lines before the bouncers arrive** — conventional allyship promotes a working defense to adversary, and the paragraph already ended on consent (*you might never have asked whether they wanted your help*). 35 words, no forward pointer, because `ch1:145` already telegraphs to ch2. **WITHDRAWN — see N114.** | | **withdrawn** |
+| N111 | **Instrument finding** | `instruments/agency.py` | `ones` is not in ANIMATE | `The ones who refuse` scores **Tier 1 mental** on a sentence whose subject is people. Same class as the daemons ruled in this session: `one` is in ANIMATE and `ones` is not. **Board impact was exactly one site, `ch1:52` itself, and the rewrite below closed it.** `ones` now scores zero, so this needs no ruling. | | **closed by N112** |
+| N112 | **Chapter 1 · body (canon)** | manuscript/ch1.md:52 | The ones who refuse to be carved become the enemy. | **Passive, and the doer is one paragraph away.** Wendell: *"passive and incoherent? What is doing the carving?"* `ch1:50` names the carver — *you set out to raise their consciousness the way Pygmalion set out to carve himself the perfect woman* — and the passive threw it away one sentence later. Rewritten to **The ones who will not let you carve them become your enemy**, which restores the doer and makes the reclassification yours rather than the game's. The paragraph's passive ratio goes **2.44 to 0.00** — that construction was the only passive in it — and the `ones` Tier 1 hit disappears with it. | | **applied** |
+| N113 | **Instrument finding** | `instruments/agency.py` | ANIMATE does not carry the named hypothetical people | **N78 said they score zero on the board. That is no longer true: `imani` **want** at `ch2:393` is the one new Tier 1 site across ~1,900 words of canon added today**, and it is a false positive — she is a person. The board moves 177 to 178 Tier 1 and 285 to 288 Tier 2, and this is the whole of the Tier 1 movement. `faces` is the second gap, Tier 2 at `ch2:37` (pre-existing) and `ch3:125` (new): the generic plural of a term whose six singulars are all in ANIMATE. **RULED 2026-08-03: yes, both.** Applied. Board moves 178/288 to **177/286**. | | **ruled · applied** |
+| N114 | **Chapter 1 · body (canon)** | manuscript/ch1.md:52 | Something in them held, which is the one job it has had since long before you arrived, and the game has exactly one name for a person who will not move. | **Cut entirely.** Wendell: *"a very bad sentence making unfounded assertions."* Three of them, and none is earned at line 52: that a part of them held, that holding is its one job, and that it predates the reader. **All three depend on the daemons, which arrive in ch2** — the sentence was writing a cheque the chapter had not yet opened an account for. `ch1:52` keeps only the carving fix and stands as it did before, minus the passive. **The scan's §6 item — *does `ch1:52` get amended* — resolves as no.** | | **applied** |
+| N115 | **Fixture drift, mine** | `instruments/density.py` `ANCHOR` | Five hardcoded line numbers | **Three of the five voice anchors went stale today and nothing failed.** Inserting a paragraph into Section 1 of ch4, ch5 and ch8 pushed `ch4:115`, `ch5:516` and `ch8:342` down two lines each, so the control was scoring paragraphs Wendell never picked. It surfaced as a number that made no sense — the anchor row read **19 sentences at 63% agentless** against a real 26 at 46% — and only because I looked at a figure I had no reason to look at. **A line number cannot tell you it is pointing at the wrong thing.** `ANCHOR` now resolves from a distinctive phrase per passage at import, and raises with a pointer to `VOICE_ANCHOR.md` if a passage is edited past recognition. Same class as the `b5.md` register error (N101): a control is only a control while it is measuring what it claims to. | | **applied** |
+| N116 | **Appendix A (canon)** | `appendices/APPENDIX_A_FOUR_ALLYSHIP_DOMAINS.md:161` | The third axis | **Applied, and the appendix already held two thirds of it.** `APPENDIX_A:146` has a **Gate-Domain Affinity Table** crossing the eight gates against the four domains — the daemon axis by another name, since `gate` is the appendices' word and `ch9:474` bridges the two (*seven daemons and the child at the center: eight gates*). What it had never had is **direction**: the affinity routes *your* gates to a domain and answers where to work. The new section, *The Table Turned Around*, does the same crossing for the person you are working with and answers **what the work has to be for once it arrives.** 380 words: one 4-row table in the existing table's shape, three worked pairs, and the caution that thirty-two cells is homework rather than a grammar. **Damaged Self × Gather Resources is the pair that justifies the axis** — same domain, same person, a different guard, a completely different move. | | **applied** |
+| N117 | **Back matter (canon)** | `back_matter/about_the_author.md` | The whole bio | **Rewritten from an interview, after research killed three earlier drafts for the same reason: no fact a reader could picture.** The bios that work run on specific, slightly-odd true detail — Krueger's *kicked out for radical activities… logged timber, worked construction* — and mine had *builds practices · coaches the six Faces · certifies others*, which is a résumé. Wendell's material supplied the spine: **fifteen years in customer service at Apple, Airbnb and T-Mobile, which is where he learned allyship** — the credential question answers itself next to a book about earning trust — plus alumni relations at an animation company, **the meddling kid trying to fix institutions**, the roleplaying-games-and-personal-development integration, *Igniting Joy* on a healthier relationship with anger, and the close on `ch1:16`'s *You are a Game Master*. **Certification cut** (not ready). **bars-engine cut** — it appeared nowhere in the nine chapters, only here and in the superseded `APPENDIX_C_KEY_TERMS.md`, so cutting it from the bio removed it from the book and cleared shipcheck blocker 1. 65 words to 165. | | **applied** |
+| N118 | **Instrument gap** | `instruments/draftprobe.py` | `antecedent.py` is not in the harness | The bio's first draft read *For the rest of it he has been the meddling kid* — **`it` with no antecedent, because the sentence never said *life***. `antecedent.py` exists, is board-only, and is the one pattern instrument `draftprobe` does not carry, so nothing flagged it and a reading caught it. Same shape as the four gaps closed today. **Added 2026-08-03**, closing the last of the five: it reports a pronoun with no candidate in its paragraph (172 book-wide) and one whose nearest candidate is past the distance limit (5). **And it does not catch the sentence that prompted it.** *For the rest of it* has `service` three words back, so distance calls the paragraph clean. The defect is a pronoun whose nearest noun is **close and wrong**, and every instrument in the harness measures position while this one needs meaning. Recorded in the module rather than papered over. | | **applied · limit recorded** |
+| N119 | **USER CORRECTION, and the third of the day** | — | *"this book cannot have a funnel"* | **Wendell:** *"this book IS a funnel. It's just a more humane one… working more closely with me is the fastest and more effective way to get the outcomes they want. But it's not required."* I had ruled the funnel out on `authors_note:35` and called it a principle. **It was the same move as the withdrawn three-site budget and the withdrawn volunteer framing: deciding on his behalf what was too much, and calling the decision care.** The thing it protected was my discomfort with the ask, and it cost him the strongest sentence on the page. The correction is also structurally right — **the book is one altitude and working with him is the next**, which is the book's own developmental spine applied honestly rather than a bait and switch. | | **recorded** |
+| N120 | **Back matter (canon)** | `back_matter/enrollment.md` | The page, written | **Built as a funnel, in the book's language.** Coaching and speaking lead, because funnel strategy puts the actual goal first and my first draft had buried both under three self-serve items. The selling is done by one true limitation: *a book gives every reader the same paragraph, including the paragraph you needed three chapters ago and the one you are not ready for yet.* The close names the trade rather than hedging it — *none of it is required… and it takes longer* — and makes not hiding the ball the proof of the pitch. 343 words. | | **applied** |
+| N121 | **SHIP STATE** | — | `shipcheck` | **SHIPPABLE — no blocker outstanding.** `ch1:299`'s `[ URL / QR ]` resolves to `masteringallyship.com`, which is where the deck lives, so the placeholder and the enrollment page closed on one decision. Spine complete: 123k words, two OPTIONAL components absent (dedication, Kickstarter backers). All seven review steps `ok` for the first time. **Quality work continues; nothing now stops the press.** | | **milestone** |
+| N122 | **Whole book · structure** | 35 `**Example:**` blocks, ch3–ch9 | *We're overusing the example of someone getting talked over in a meeting* | **The repetition Wendell caught is the small version.** *Talked over* runs twice; `meeting` runs **67 times**. **Twenty of 35 Examples are unambiguously workplace and 31 are workplace-adjacent; ch3, ch4 and ch5 are 100% workplace, fifteen consecutive.** Five of ch9's six transfer drills are organizational too. **And `ch1:44` claims the opposite in the book's own voice** — *real allyship happens in plenty of places that game never reaches*, naming children and cultural traditions, neither of which appears in any Example. The reader is also defaulted into institutional power in 8 of 35 and a peer inside the same institution in 7. **What is already good: the naming.** 71 distinct proper nouns, and the people are Ines, Ravi, Nadia, Priya, Tomas, Dara, Yusuf, Ana, Marcus, Meera, Dele, Nia, Alan, Ellis, Sam, Kit, Ade, Femi, Tess, Rosa, Bea, Ruth. **The book did the work on *who* and never did it on *where*.** See `specs/SPEC_EXAMPLE_DIVERSITY_2026-08-03.md` — four relocations clear the run without touching any Example whose move needs an institution. | | **open** |
+| N123 | **Whole book · architecture** | `ch1:32`, `ch1:42`, `ch1:44` | The Jordan charge matrix | **Researched and specced: `specs/SPEC_JORDAN_CHARGE_MATRIX_2026-08-03.md`.** Eight populations, every one already present in the book's Examples, crossed against the documented failure, the arena, Jordan's charge, the Face whose shadow does it, and the daemon at the door. **The finding that changes the architecture: the misgendering research reports harm in Maslach's three dimensions — emotional exhaustion, depersonalization, reduced professional efficacy — which is the triad the book already credits at `ch1:32` for the *helper*.** The book has never turned its own instrument around. A move landing above clearance does not merely fail; it spends the other person's exhaustion budget. **The charge law**, half of which is already at `ch1:42`: charge is highest where fluency is highest, and fluency is highest where contact is lowest — so charge runs inversely to need, and **children, which `ch1:44` names first, generate none and appear in zero Examples.** Also: `ON_THE_SHOULDERS_OF` credits nobody on race, gender or disability. | | **open** |
+| N124 | **Chapter 1 · body (canon)** | manuscript/ch1.md:34, `appendices/ON_THE_SHOULDERS_OF.md` | The Maslach reversal | **Applied.** The burnout triad the book has used for the helper since `ch1:32`, turned around onto the person being helped, with the Trevor Project carrying the stakes. **Two failures caught by running the process rather than the counters.** *Same instrument, same three readings, a different chair* is a **fragment carrying a claim in opening position**, which `REVISION_INSTRUMENT` Part 1 forbids and which no instrument checks — `gate.py` does not test for a finite verb and `shapes.py` counts determiner runs. **That is the sixth pattern with a rule and no measurement, and Wendell has now flagged fragments twice (N42 and here).** And *Researchers have measured…* is weasel attribution under `eval.md` patterns check 3; the finding reached me through secondary reporting, so the claim was cut rather than sourced from a search result. | | **applied** |
+| N125 | **Instrument built** | `instruments/fragment.py` | Beat placement | **The fifth always-on constraint from `REVISION_INSTRUMENT` Part 1 finally has an instrument** — *fragments carry beats, never claims, and only in landing position.* Wendell caught it by eye twice: `ch1:175` in batch six (N42) and the drafted *Same instrument, same three readings, a different chair* today. **The design problem was the tagger, and `shapes.py` had already recorded why it refused to build this.** Measured: a naive no-finite-verb scan returns **694 hits in 6,174 sentences**, because the tagger reads `runs`→NNS, `arrive`→JJ, `fades`→NNS, `Find`→IN. **The fix is to use it in aggregate instead of pointwise** — the union of every word it ever tags `VB*` across the whole corpus is a verb vocabulary for this book, and every word it mangles is tagged right somewhere else. 694 → 170. **Then the first regression still failed**, because `a` was in the lexicon: one article mis-tagged once silently exonerates every sentence containing it. A closed-class floor recovered 16 more. **Board: 109 MID, 16 NEG, 45 legal LANDING.** The NEG class is `/no-ai-slop`'s *negative listing* rediscovered from the other direction, which is the best evidence either instrument measures something real. Wired into `draftprobe`. **One false positive left in on purpose:** `ch1:60` `(Yes, already.` is a `density.sentences()` splitter bug, and suppressing it here would hide it from every instrument that shares the splitter. | | **applied** |
+| N126 | Chapter 1 · body (canon) | manuscript/ch1.md:161, :191 | Detachment and clarity. · Same game. | **Two claim-carrying fragments outside landing position**, found by `fragment.py` on its first board. `ch1:161` relabelled the sentence before it and was then relabelled again by the sentence after, so three sentences became one: *Detachment and clarity are the first reason.* `ch1:191` asserted an equivalence in two words: *That is the same game, and you do not get to schedule either one.* **ch1 goes from 5 fragment candidates to 2.** | | **applied** |
+| N127 | Chapter 1 · body | manuscript/ch1.md:275 | I have filled notebooks. Years of them. | **RULED 2026-08-03: leave it.** A real fragment outside landing position, and by the letter of the beat-placement rule a violation. It is unambiguously a beat rather than a claim, it sits in Wendell's own first-person testimony, and the rhythm is the point. `fragment.py`'s docstring says beat-versus-claim needs a reader; this is the case that proves it. | | **ruled · keep** |
+| N128 | **Instrument bug** | `instruments/density.py` `sentences()` | `ch1:60` reports as `(Yes, already.` | **The sentence splitter breaks on an open parenthesis**, so it hands every downstream instrument half a clause. The full text is a legitimate beat inside a parenthetical: *(Yes, already. You just walked in and I'm handing you homework. Stay with me.)* `fragment.py` leaves the false positive visible rather than suppressing it locally, because the bug is shared by every instrument that uses the splitter. **Open.** | | **open** |
+| N129 | **Panel** | `specs/PANEL_OPENER_OPEN_QUESTIONS_6FACE_2026-08-03.md` | Eight open questions from the day's three specs plus group B | **Five agreements, two splits.** Agreed: `ch1:44` stands and four Examples move; an Example involving a child; Sue's taxonomy by name; the charge law goes in **in first person**; and **the admission costs him before it costs her — the draft has the two the wrong way round.** **Split on Q1**, the 2026 board: Regent says a timestamp on page one dates the whole book, Diplomat says *one in seven called it a mistake* is a scoreline that closes half the field, Architect says keep the numbers and keep the year so a dated claim becomes a record, Sage says a game ended in public and declining to notice it is the trade nobody should take. Architect and Diplomat compose; Regent does not. **Split on Q4, the designers, and the Architect found the load-bearing objection the Challenger's nerve framing hides: naming them creates an obligation nine chapters do not meet, because the four domains are the only structural answer and they are one appendix.** Composite available — name the external designers **after** the internal one and say in the same passage what the book does and does not do about them, which converts group B from a rewrite into a sequence. **Still open: Q3, Maslach alone or both, which is a length call.** | | **panel · 2 open** |
+| N130 | **Ruling** | `specs/PANEL_OPENER_OPEN_QUESTIONS_6FACE_2026-08-03.md` Q1 | *One in seven of the firms that rolled back has since called the rollback a mistake* | **Wendell overrules the Diplomat.** The panel priced the clause as a scoreline that closes half the field. Wendell: *"I actually like this and I think it would give Jordan hope that they are on the right side of history."* **A reading the panel did not consider** — the clause is not a verdict on the rollback, it is evidence that the direction of travel reversed. The clause stays. | | **ruled** |
+| N131 | **Analysis** | `specs/ANALYSIS_EMERGENT_2026-08-03.md` | The drop, and the six emergent questions | **The full ch1 read settles the drop without a new paragraph.** `ch1:54`–`:66` is already a complete descent protocol: mechanism, shock, double-bind, lightness, author's cost, release, one action. **Adding a catcher after the 2026 numbers would give ch1 three descents in sixty lines**, and `:58`'s is the earned one — it arrives after the Pygmalion mechanism, where the numbers' drop lands in paragraph three on a reader with no mechanism yet. **A free drop preceding an earned one does not add to it, it spends it.** The fix costs nothing: **relief at the top, shame at `:58`**, one connecting clause. Six emergent questions recorded, of which **only E2 blocks** — the Architect's obligation gap: naming external designers commits an architecture in which eight of nine chapters are personal practice and the four domains are one appendix. Three responses priced: cut the promise, name the limit, or promote the domains to a chapter. **That is a decision about what the book is and it should not be made inside an opener draft.** | | **1 blocked** |
+| N132 | **USER CHALLENGE, upheld** | `ch3:810`–`:907` | *The four domains are the only structural answer in the book, and they are one appendix* | **Wendell:** *"Does this hold? The domains should be in every chapter as a move that people can practice that should show up in the exterior world."* **Measured: the Architect's claim is false.** `ch3` carries a complete four-domain section, **2,180 words**, *Where You'll Actually Spend the Read* — the frame, three universal moves, four domain entries each with a *You're winning when* marker, and **The Tell**, one question per domain aimed at that Face's signature failure. **It sits in a slot every chapter has**, after Section 6's five moves: `ch3:806` *The moves are what you do. The next question is where.* **ch4–ch9 never ask where.** The domains appear in all nine chapters only as card metadata, which is a label on a deck entry rather than a practice. **This re-prices E2 from *changing what the book is* to *eight copies of a section that already exists, in a slot that already exists, to a template the book has already proved.*** | | **open · re-priced** |
+
+## Group A and the designers — applied 2026-08-05
+
+**Group A, 8 notes** (`N12` `N13` `N14` `N15` `N16` `N17` `N18` `N21`). Wendell wrote the
+ruling himself at `N16`: *the opening assumes a secret competence, which is not the point
+of the book, when what people actually experience is a pressure to do good they cannot
+satisfy.* Four paragraphs changed, three untouched.
+
+**ch1 assertions of prior knowledge 37 to 24** — it was the worst ratio in the book. Inside
+the changed stretch, **18 to 2**; `draftprobe` hits there 23 to 6; passive 0.57 to 0.00;
+65 words shorter.
+
+- `ch1:16` no longer awards the Game Master title before the mechanism earns it. Every
+  mechanism survives and the closing four sentences are identical.
+- `ch1:22` loses *You have done this before.* The scene stays: `MANUSCRIPT_FILE_CANON:154`
+  cites it as the legal form of a hypothetical.
+- `ch1:28` loses the graduation.
+- `ch1:30` loses the *you've-had / you've-done / you've-carried* stack, and *You are not
+  burned out from too little effort* becomes **The effort was real**, which ranks rather
+  than denies.
+
+**The designers passage — `Q4`, group B's blocker — applied at `ch1:157`.** The Architect's
+condition (*name them only if ch1 also names what the book will and will not do about
+them*) was unpayable until the five domain sections shipped this morning. `Every chapter
+with a Face in it closes by asking where the work lands` is now a true sentence.
+
+### Three of my own errors, caught by Wendell and by the instruments
+
+1. **I wrote the group B defect into the group B fix**, twice. First draft: *It can teach
+   you to read the price* — the book teaching, an abstraction with volition, which is
+   `N30` and `N43` exactly. `agency.py` caught it. Putting **I** in the subject fixed the
+   defect and satisfied E6's first-person constraint in one move.
+2. **Wendell's eight notes were all one defect: metaphor where the mechanism belonged**,
+   in the passage that promises exactness. *nobody signed anything* (a conspiracy reading
+   nobody was having), *somebody collects* (who? when? how?), *a fight* (with whom?), *my
+   vocabulary is free* (free to whom?). Answered concretely: a budget line, a promotion
+   that goes elsewhere, a schedule that stops being convenient · **keeping that shelf
+   stocked is how they collect** · *I paid for the lessons. They kept the budget line.*
+3. **I had the placement backwards and said so out loud.** I told Wendell the prize
+   counter was established *eighty lines earlier* than `ch1:42`. It is established
+   **eighty lines later**, at `:107`–`:127`. Wendell caught the term first — *"it's a
+   prize counter"* — and checking the term surfaced the placement error behind it. The
+   passage moved from `:42` to `:155`, where the machine is live and `:153` has just said
+   *Somebody stands above you and grades you* without asking who put them there.
+
+**`ch1:42` stays as written**, ruled by Wendell. It is the internal designer's territory
+and the Sage's sequencing wants a gap before the external ones.
+
+**Chasing Wendell's last question produced the passage's best line.** *What makes a counter
+dirty?* has an answer: **every prize on that shelf is the kind you carry home by
+yourself.** A counter that only pays out in personal standing can never cost its owner
+anything structural. Fifteen words, and only reachable because the metaphor was made to
+justify itself.
+
+### `ch1:155` — the encouragement test, applied 2026-08-05
+
+**Wendell:** *"None of those grade you. none of what grade you on what?"* Then, on the
+first replacement: *"a verdict is the only thing praise has ever handed me. What does this
+mean. praise has given me a lot of things. This claim is weird and I don't know how its
+supposed to help Jordan."*
+
+**Both questions had canon answers the line was not using.** `ch1:97` — *Nothing in it asks
+whether you are good.* `ch1:99` — *you are not the defendant waiting on a verdict about
+your character.* The chapter establishes **character** as the thing being graded, twice,
+and then `:155` said *grade you* with the object dropped and *those* pointing at three
+italic fragments.
+
+> **Before:** *That helped.* *Thank you.* *I know where I am now.* None of those grade
+> you. Every one of them tells you the move landed.
+>
+> **After:** *That helped.* *Thank you.* *I know where I am now.* Each of those three tells
+> you what happened to the person saying it. None of them says anything about your
+> character. That is the test, and you can run it on anything anybody hands you.
+
+**Three defects in one drafted sentence, and Wendell caught the one the instruments could
+not.**
+
+1. **A claim the book contradicts twice.** *A verdict is the only thing praise has ever
+   handed me* against `ch1:123` (*pays out in being seen as good, in the right people
+   nodding, in the post that does numbers*) and `ch1:42` (*the payout lands in my safety
+   and my belonging*). **Praise hands over a great deal — that is why the counter works.**
+   Written while working three paragraphs from the passage that says so.
+2. **A false absolute.** *The only thing* where the true statement is about subject
+   matter rather than quantity.
+3. **A flourish in a teaching slot**, and this is the instructive one. I chose the
+   first-person ending *because* `E4` says the author's cost precedes the reader's.
+   **E4 governs passages that ask her to look at herself. This one hands her an
+   instrument.** The rule did not apply and I applied it anyway.
+
+**What the paragraph now does.** `:153` diagnoses the praise trade; `:155` is its fix. *None
+of those grade you* only said what encouragement is not. Naming what the three examples
+**do** — report an effect on the speaker — is what makes one recognisable when she hears
+it, and the test is portable: *is this about me, or about what my move did to them?*
+
+`gate` PASS · 0 probe hits · every ch1 counter flat in place. **A meaning fix, not a
+numbers fix**, which is the class the instruments are blind to by design.
+
+### Groups C and D swept — applied 2026-08-05
+
+Nine notes, no rulings needed, all instrumented. **`preempt` ch1 19 to 9. `shapes` ch1 12
+to 11.** Gate passes, every diet counter flat, book-wide review clean.
+
+| | before | after |
+|---|---|---|
+| `N33` `:125` | **The real prize is the one nobody can take back:** a felt sense of satisfaction… | **The other counter pays out a prize nobody can take back:** … |
+| `N35` `:127` | **Here is where the allyship Arcade breaks the rule of every arcade you have ever played.** With the skee-ball… the game ends. **Here,** the prize converts back into tokens. | **In a real arcade the prize is a dead end:** you win the bear… the game ends. **The allyship Arcade runs the other way, and** the prize converts back into tokens. |
+| `N36` `:173` | **Here is the second, and I will say it plainly, because it is the objection** that makes serious people wave the whole idea away | **The second reason is the one** that makes serious people wave the whole idea away |
+| `N37` `:173` | A chore needs you to supply the motivation; **you brace, you discipline, you drag yourself toward it. A game supplies the motivation itself.** | A chore needs you to supply the motivation; **a game supplies its own.** |
+| `N38` `:175` | **That model does not fail because people care too little. It fails because** caring, run as suffering… | **That model fails because** caring, run as suffering… |
+| `N39` `:177` | is finite: **the** campaign, **the** pledge, **the** training you complete, **the** bar you clear | is finite: **a** campaign, **a** pledge, **a** training you complete, **a** bar you clear |
+| `N40` `:181` | **The third reason changes everything:** a game is the only frame | **The third is that** a game is the only frame |
+| `N44` `:189` | If that landed as an accusation, notice the flinch… | **cut**, ruled |
+| `N47` `:197` | **Here they are, and each one pays out differently.** | **Each of the three pays out differently.** |
+
+### Three findings the sweep produced
+
+**`N33` did not need reframing.** The note calls it a phantom contrast whose other half was
+never established. **It was established one paragraph up.** `ch1:123`: *the counter marked
+applause… they vanish the moment the crowd turns.* The sentence simply was not pointing at
+it. Naming the counter connects them and clears both `preempt` hits (`The real prize` and
+`the one nobody can`) at once.
+
+**`N35` only needed inverting.** The rule it claims to break is stated in its own next
+clause. Lead with the rule and the break is earned, and the unearned *every arcade you have
+ever played* goes with it.
+
+**`N37` done literally creates a new defect, and `shapes.py` caught it.** Cutting *you
+brace, you discipline, you drag yourself toward it* exactly as the note instructs leaves
+*A chore needs you to supply the motivation. A game supplies the motivation itself.* —
+twin sentences the deleted clause had been masking. **A note that says cut can still be
+right about the clause and wrong about the result.** Merged to one sentence, so `shapes`
+went to 11 instead of holding at 12.
+
+**Wendell on `N33`'s replacement:** *"we need to keep the word prize. counter without prize
+is nothing and we'll have to go back and fix it after."* Correct, and structural: `:127`
+runs entirely on *the prize is a dead end* and *the prize converts back into tokens*.
+Dropping the noun at `:125` would have broken the chain two lines downstream. The
+replacement keeps **prize** and drops both flagged shapes.
+
+### Group F swept — applied 2026-08-05
+
+Ten singles. **Seven edited, two closed without an edit, one left as canon on Wendell's
+ruling.** Gate passes, every diet counter flat, `agency` unchanged at 28 tier-2, `preempt`
+9, `shapes` 11, book-wide review clean.
+
+| | before | after |
+|---|---|---|
+| `N08` `:6` | it **was making me a worse ally** | it **was making me feel like a worse ally** |
+| `N10` `:12` | **Realizing this is what finally unlocked my ability to finish. I could see the pattern clearly, and I kept playing.** … **In fact, letting the charge of that awareness exist was what let me alchemize it into the book in your hands right now.** | **Seeing the pattern is what let me finish.** … **I kept playing, and the charge that came off looking at it is what I alchemized into the book you are holding.** |
+| `N11` `:14` | **This is** me showing up | **This book is** me showing up |
+| `N20` `:70` | **Most people do not come to allyship empty-handed.** They come because… **They also come carrying a few questions** | **Most people arrive at allyship carrying two things. The first is something wrong that will not leave them alone**… **The second is a set of questions** |
+| `N25` `:87` | which **of these** are yours and **hands each one back with the page that takes it apart** | which **of these myths** are yours and **points you at the page that takes each one apart** |
+| `N31` `:105` | **Every game runs on a currency**, and the first rule you get to rewrite is what you pay with. | **You pay attention to play any game, and in an arcade you pay a currency on top of it.** The first rule you get to rewrite is what you pay with. |
+| `N32` `:113` | I **ran this book on guilt**, and guilt is that first kind **of fuel** | I **fueled this book with guilt**, and guilt is that first kind |
+
+### `N31` was the only claim error, `CL-1`, and the fix earns its own heading
+
+Wendell: *what do games actually run on — attention. Arcade games run on currency, and it's
+tokens.* The first draft split it into *Games run on attention. An arcade also runs on a
+currency*, which was true and **added a tier-2 agency hit**: an inanimate subject with a
+verb, the class `N30` and `N43` are about, introduced while fixing a different defect.
+
+Putting the player in the subject removed it and produced the better line. **Under a
+heading that reads *The Token System — What You're Spending*, the sentence now runs the
+verb three times:** *You **pay** attention to play any game, and in an arcade you **pay** a
+currency on top of it. The first rule you get to rewrite is what you **pay** with.*
+
+### Two closed without an edit
+
+**`N19` — the game frame is set up, in the front matter.** `authors_note:25`: *Allyship is
+already a game, and it is already gamified*, with Chou on the drives; `:29` brings Nguyen
+on games as the art form of agency. `SPEC_OPENER_CLEARANCE §0` already ruled ch1 does not
+re-argue this.
+
+**This is the third time in these sweeps that a note flagged something as unestablished
+when it was established elsewhere** — `N33` one paragraph up, `N35` in its own next clause,
+`N19` four pages earlier in the front matter. **A note written while reading forward cannot
+see what the book already did.** Worth carrying into the remaining groups.
+
+**`N09` — nothing left to contract.** `:8` already carries *doesn't*, *I'd* and *wasn't*,
+and no un-contracted *do not / it is / that is / I have* survives in the paragraph. Either
+it was satisfied before the note was filed, or the spot Wendell meant is not recorded.
+
+### `N26` — ruled, no change
+
+The note reads *The problems begin when one of them becomes the whole definition.* Canon
+reads **The damage starts**. `git log -S` confirms *The problems begin* has **never** been
+in `ch1.md`. **Wendell: leave it as damage.** *Damage* is the more precise noun and the
+note would have downgraded it.
+
+### `N34` — the prize passage rewritten, applied 2026-08-05
+
+**Wendell:** *Whole passage needs rewriting. In ch1 the reader does not know what line was
+held, what thing was repaired that was going to be avoided, and it sets up a clean
+tiredness as a prize that connects to nowhere.*
+
+> **Before:** …a felt sense of satisfaction that only shows up when you actually played.
+> **You named the line and drew it. You held the field without giving up your walk-away
+> price. You repaired the thing you would rather have avoided. You walk out tired and
+> clear, and that clean tiredness is the prize, one of the satisfied states you will meet
+> with the Shaman in Chapter 3.**
+>
+> **After:** …a felt sense of satisfaction that only shows up when you actually played.
+> **You said out loud, in the meeting, that the decision was landing on the person with
+> the least power to absorb it. You stayed in the hard part of the conversation instead of
+> smoothing it flat. You went back to somebody you got it wrong with and said so. You walk
+> out tired, and the satisfaction is still there at dinner. Chapter 3 is where you learn
+> to make it on purpose.**
+
+**1 · The vocabulary was three chapters early.** *The line*, *the field* and *the
+walk-away price* are Challenger and Diplomat terms that arrive in ch4 and ch7. The three
+examples now run on the scene the chapter already gave her at `ch1:22` — *a decision lands
+on the person with the least power to absorb it* — in that paragraph's own words.
+
+**2 · *the thing you would rather have avoided* was an empty noun over a blank.** Now
+*somebody you got it wrong with.*
+
+**3 · The clean tiredness was worse than disconnected. It was a forward reference to a
+state that does not exist.** `ch1:125` called it *one of the satisfied states you will meet
+with the Shaman in Chapter 3.* **The satisfied states are wonder, poignance, triumph and
+bliss** (`ch3:463`ff). Clean tiredness is not among them, and `ch3:471` states what ch1 is
+actually meant to hand forward: *These five states are the renewable fuel Chapter 1 pointed
+you here to make.*
+
+**The replacement lands on `:123`'s own clock instead.** That paragraph ends *you perform
+the care, you feel like somebody for an hour, and you are **empty by dinner**.* This one
+now ends *you walk out tired, and the satisfaction is **still there at dinner**.* **Same
+clock, opposite result** — which is what the two-counter structure was built for, and what
+*clean tiredness* had been standing in front of. And *Chapter 3 is where you learn to make
+it on purpose* is a promise ch3 keeps in its own words.
+
+`gate` PASS · `agency` 28 · `preempt` 9 · `shapes` 11 · every diet counter within band.
+
+### `N43` `N45` `N46` — the existential-kink stretch, applied 2026-08-05
+
+Worked as one stretch, which is how `N45` was filed. **`agency` ch1: tier-1 5 to 4, tier-2
+28 to 27, agentless 52% to 51%** — the first movement in either tier all day. Gate passes,
+every diet counter in band, 14 words shorter.
+
+**`N43` — the game does not do this.** Wendell: *A game sets the conditions for the
+players to do it, or the game designers do.*
+
+> **Before:** **A game turns the lights on: it takes** the charge you've been running in
+> secret **and sets it** on the board…
+>
+> **After:** **In a game you turn the lights on. You take** the charge you have been
+> running in secret **and set it** on the board…
+
+Wendell also ruled the two remaining hits in the same paragraph, which `agency` scored
+tier-1 and tier-2 and no note had flagged:
+
+> **Before:** **A chore asks you** to grit your teeth against the pattern. **A game invites
+> you** to catch yourself in the act, name your own existential kink, and grin.
+>
+> **After:** **Grit your teeth** against the pattern and you are doing a chore. **Catch
+> yourself** in the act, name your own existential kink, grin, and you are playing.
+
+**`N45` — three defects, and one of them was made two commits earlier.**
+
+**`that stash` had been orphaned by `N44`'s cut.** The only other use of the word was in
+the paragraph the C-sweep deleted. **Second of the nine C+D edits with a downstream
+consequence**, after `N37` left twin sentences. **A cut is an edit to everything that
+pointed at it.**
+
+> **Before:** Look at what **that stash** really buys you. **It buys safety, so fear sits
+> at the center of the work.** Raw, fear freezes you or turns you back. **A game turns it
+> into** the thing standing right beside it: wonder…
+>
+> **After:** Look at what **that hidden delight** actually buys you. **It buys safety:
+> while you are the one who cares too much and never quite finishes, nothing you might get
+> wrong ever gets attempted. So fear has been sitting at the center of the work, and you
+> have been paying it off instead of feeling it.** Fear you fight freezes you or turns you
+> back. **Fear you look straight at opens into** wonder, the same charge pointed at the
+> door instead of away from it.
+
+*that hidden delight* points at `:185`, one paragraph up. The leap from *buys safety* to
+*fear at the center* now carries its mechanism: the martyrdom protects you from ever
+attempting the thing you might get wrong. And *fear opens into wonder* is `ch3:475`'s own
+completion rather than a game doing it to you.
+
+**`N46` — two jobs in one paragraph, so they got split rather than simplified.**
+
+Cut: the binary contrast (*medicine and not a gimmick*), the vague *builds that engine*, a
+triple of infinitives restating the three games in the same breath that introduced them,
+and *That is the board we are about to map* — throat-clearing into a heading that already
+reads **Which Game Are You Playing**.
+
+**Checked before cutting the middle:** `:196` reads *Each of the three pays out
+differently* and takes its antecedent from that sentence. **`:192`'s middle is not padding
+and it stays.** This is the check the N44 orphan should have had.
+
+### `N41` — the three-years story, ruled and applied 2026-08-05
+
+Six-Face panel: `specs/PANEL_N41_THREE_YEARS_6FACE_2026-08-05.md`. Wendell: **cut `:14`
+and give `:91` its own paragraph.**
+
+**The panel's answer to *how many times does she need to hear it*: it is not a count.** A
+thing sticks by varied retrieval, not by repetition, so the unit is **turns** — how many
+times does the story arrive and change what she knows. **Five of six do.** `:4` opens ·
+`:10` adds the feeling · `:91` adds the witness · `:113` adds the mechanism · `:183` adds
+the payoff.
+
+**`:14` was the sixth and it added nothing**, restating *late* from `:4` ten lines above.
+Shaman, Sage and Architect reached it from three directions: no charge of its own, no turn,
+and nothing after it depends on it.
+
+> **Before:** You're the person I made that promise to. **This book is me showing up: late,
+> imperfect, and in the game.**
+>
+> **After:** You're the person I made that promise to.
+
+**The promise stays.** `:6` is *I made a promise to readers who trusted me with their money
+and their hope*, and `:14` is where it gets paid. **Deleting the whole paragraph would have
+orphaned `:6` the way `N44`'s cut orphaned `that stash` two commits ago** — the third time
+today that a cut would have been an edit to something else.
+
+Nine words now close the opening and hand the chapter from *I* to *you*, one line before
+`:16` opens *Your allyship has been run by a part of you that you have never met.*
+
+**One cost, recorded:** `N11` changed *This is me showing up* to **This book is** me showing
+up four commits ago. That fix is now cut. It was correct when it was made.
+
+### `:91` — the only telling with a witness in it
+
+The Regent's finding, and nobody would have reached it without counting the six:
+
+> **`:91` is the landing that will outlive the others and it is the one the chapter treats
+> most cheaply.** It is the only one with another person in it. Interior does not inherit;
+> a sentence somebody said to him does. Ask what she repeats to a friend — nobody repeats
+> *he gave himself permission to be angry*, and everybody repeats *somebody he was helping
+> told him it had been about him the whole time.*
+
+It was the second sentence of a five-sentence paragraph, sharing space with its own setup.
+Split so it **opens** its own:
+
+> I know the machine from the inside; I ran it for three years while writing a book that
+> told other people not to.
+>
+> **It broke the day someone I had been "helping" told me, plainly, that my help had been
+> about me the whole time.** I wanted to argue. I could not. The scoreboard went dark…
+
+**The break goes before the blow and not after it.** *I wanted to argue. I could not.* is
+the flinch, and separating it from the sentence that caused it would have put white space
+between a hit and a reaction that happen in the same second.
+
+`gate` PASS · every counter flat · book-wide review clean · **SHIPPABLE**.
+
+### `ch1:91` — *told other people not to what?* — applied 2026-08-05
+
+**Wendell, on the sentence the `N41` split had just promoted to its own paragraph.** Three
+defects, and the third was the serious one.
+
+> **Before:** I know **the machine** from the inside; I ran **it** for three years while
+> writing a book that told other people **not to**.
+>
+> **After:** I know **that game** from the inside. For three years **I helped people in
+> order to prove I was good**, and I spent every one of them writing the book that tells
+> you **not to**.
+
+**1 · The ellipsis had three hops.** *not to* → *ran it* → *it* → *the machine* → the
+previous paragraph. It now completes to a full verb phrase fifteen words back in its own
+sentence.
+
+**2 · `the machine` was a bare definite abstraction** whose referent lived next door and
+was never called a machine. **`that game` is `:89`'s own word**, one sentence back: *the
+receipt for a game that was never built to be won.*
+
+**3 · And `machine` collides.** From `:123` on, **machine means the arcade cabinet** — you
+spend tokens in it, it pays out tickets, and it is the chapter's governing image across
+seven uses. At `:91` it meant the goodness-engine, a different referent arriving thirty
+lines before the arcade sense is established.
+
+### The finding worth keeping
+
+**Splitting the paragraph an hour earlier is what exposed this.** Buried mid-paragraph, *the
+machine* could lean on `:89` next door. Standing alone it had to carry its own referent and
+could not.
+
+**Promoting a sentence is a test of whether it can hold the weight.** Both `N41` edits were
+right and the second one broke the first open. Worth running deliberately next time
+something gets its own paragraph.
+
+`gate` PASS · every counter flat · `agency` 4 / 27 · **SHIPPABLE**.

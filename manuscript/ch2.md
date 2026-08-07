@@ -309,7 +309,7 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 
 The Protector works the door of the Forest. You meet it first, the most physical of the seven. The Protector is the hull of the ship, the body itself, holding its shape, keeping the water out, taking the hit when a hit comes. It is the embodied feeling of self-preservation. It does not argue or explain; it braces. It knows danger before you could prove it to anyone, because a hull that waits for proof is already taking on water.
 
-The instant something reads as a threat (a shift in tone, a move for power), the Protector has already braced to meet it, faster than thought. That speed has kept you alive, and you want to keep it. The next chapter teaches you to read the fear channel it runs on, which is where steering it starts.
+The instant something reads as a threat (a shift in tone, a move for power), the Protector has already braced to meet it, faster than thought. That speed has kept you alive, and you want to keep it. In the next chapter you learn to read the fear channel it runs on, which is where steering it starts.
 
 The trouble: a hull built to survive cannot always tell which century it is in. To the Protector, losing your place in the group registers the same as getting left to die, because for most of human history those were one event. So it runs your social life on survival settings, meeting a hard conversation or a public challenge with machinery built for a predator. That is why it gets so tired: it has been holding the whole ship rigid against threats that were never going to sink you.
 
@@ -395,6 +395,62 @@ From there, with your hands back on the joystick, you can make moves you could n
 - Stay present for one breath longer than your old pattern.
 
 The Forest is where you get back to the center. From there you play the next move cleanly.
+
+### *A Second Walk, Through Somebody Else's Forest*
+
+You have just walked your own Forest and put your hands back on the joystick. Now make the same walk in somebody else. The two come back to back on purpose. Split them and you get a chapter of self-knowledge with nowhere to put it, which is a fine outcome for a journal and a poor one for an ally.
+
+The second walk is the first walk with the lights off. You cannot see inside another person. You work from what they do.
+
+The old hermetic rule is *as within, so without*, and here it is mechanical. The seven you just met are standing in front of every person you will ever try to help, and they do not know you.
+
+Say you have offered to help a coworker named Imani with something real: a project coming apart, a manager who keeps overriding her, a load she has been carrying by herself for months. You made the offer. You have a plan. Watch what comes back.
+
+Imani has the same seven daemons inside her, living in her Forest instead of yours, each one posted where something got through before. Between them they hold one job: keep Imani safe from people who would harm her. Some of the people who have harmed her arrived offering help.
+
+You cannot deliver anything to a person until you have their trust. That trust is hers, and it comes out of the whole of her. Her parts are what administer it, handing it out and holding it back a piece at a time. Imani can want your help and her Protector can still hold the door. Every skilled helper you have ever met already knows this, and most of them never say so out loud.
+
+So take the walk again, from outside.
+
+You ask what you can take off her plate. She asks why you are asking. **The Protector** has her joystick: *what is this going to cost me?*
+
+You describe how you would do it. She tells you the way it has to go instead. **The Controller** takes it: *there is a standard here, and yours is not it.*
+
+You put the plan in front of her. She finds the three places it breaks. **The Skeptic** takes it: *show me where this fails before I spend anything on it.*
+
+She takes the plan and starts repairing it, or starts arranging everything else around it so nothing has to move. **The Fixer/Healer** takes it: *I will mend this myself, and hold the rest still.*
+
+The offer lands on something older than the offer, and what comes back is out of scale with the moment: heat, or flatness, or tears she is angry about. **The Emotional Body** has it now: *this had to go somewhere.*
+
+She tells you the whole story again, from the beginning, and the plan waits. **The Victim** takes it: *feel this with me first.*
+
+She says she is fine, in a way that ends the conversation. **The Damaged Self** takes it: *I have already absorbed this. Leave it where it is.*
+
+Seven parts, each one taking the joystick from the last, and not one of them is Imani. At the center, the same as in your Forest, a player is waiting for somebody to show up and play.
+
+Each of those has a job you can do, once you can tell which one you are talking to. The Controller wants a standard met, so you either meet hers or you help her move it, and both of those are allyship. The Skeptic wants the danger named out loud before anything gets spent. The Emotional Body wants a feeling to arrive somewhere and finish, and until it does she will not look at any plan you bring. A feeling is telling you what the help has to connect to.
+
+This is the reason the inner work came first.
+
+**Every one of those readings is a guess.** You cannot see inside Imani. You see what she does, and you supply the rest, and what you supply comes out of you. Your Skeptic turns her flat voice into something she is hiding. Your Fixer turns her caution into a problem with a solution. Your Victim hears her story and makes it a story about you. Whichever of your seven has your joystick decides what you think you are looking at.
+
+That is projection, and it is the trickiest move in shadow work: the parts you have not befriended in yourself are the parts you will misread hardest in everybody else. A daemon you have made an ally you can recognize across a table. A daemon still running you is one you cannot see anywhere, including in front of you.
+
+Six of Imani's seven stand behind the seventh. Her Protector works the door the way yours does. You get past it or you do not, and how far it lets you in decides which of the other six you ever get near. That distance is your **clearance**, and it is the only currency on this side of the floor.
+
+A Protector holds one shape, the shape of whatever got through before, set by a history you were not there for. It does not think about you; it checks you against the shape. Move like the one who cost Imani and it fires, regardless of your intention, stated or otherwise.
+
+Playing above your clearance is a major error, and your character has nothing to do with it. It usually has an author, and the author is your Controller: it believes it knows the better standard. So you arrive with a higher bar than Imani asked for, or a bar pointing somewhere she was not going, and either one is more than she can metabolize today. The Fixer three solutions deep makes the same error, arriving past a door that never opened.
+
+You can go over the wall anyway. People do it every day, and once in a while it is the only move left. What you do not get to do is go over it and call it help. From the middle those two look the same, and most people will punish both.
+
+You are already equipped for her door, because you have started befriending your own. Your job is not to get past Imani's Protector. **Your job is to ally with it**, the same way you allied with yours: you do not fight it, you do not shove past it, you thank it and you help it tell a real threat from a social one. On her door that becomes a slower approach and a smaller ask.
+
+Two Protectors meet constantly, and everybody calls that a conflict. If yours holds the joystick, hers has a braced body across the table to check against, and both do their jobs perfectly while nothing gets through in either direction. **Your own daemon decides how far into hers you ever get.**
+
+Not knowing this costs you, and it costs you the same way every time. You cannot see your clearance, so you default, and the default is whichever daemon wants the joystick most. The move is attempted above your clearance, Imani's Protector fires, and the door closes an inch. If you take the closing as a verdict on you, you spend more of yourself and go around again with less fuel. That is burnout, and every step of it is you playing hard.
+
+You break the cycle at the first step. Find out which door you are standing at before you move. Real help sits open at whatever clearance you already hold, and a small move at a narrow door still lands. Nobody is qualifying you. A daemon stands at Imani's door, a person stands behind it, and you have one move you can make today.
 
 ---
 

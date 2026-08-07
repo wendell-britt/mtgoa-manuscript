@@ -17,7 +17,7 @@ That charge is projection, which is shadow work waiting to happen.
 
 The **3-2-1 practice** is how you metabolize it. Three vantage points. One charged figure. You move from observing it, to talking with it, to being it — and the energy that was leaking out through judgment comes back into your system, available for the WAVE-Spiral to use.
 
-This is not abstract therapy. It is a diagnostic move. It tells you which part of you is running the show when you think you're responding to them.
+3-2-1 is a diagnostic move. It tells you which part of you is running the show when you think you're responding to them.
 
 ---
 
@@ -87,9 +87,9 @@ These tools work together, not in competition.
 
 **The WAVE-Spiral** moves the charge — once it's yours again, through Wake, Clean, Grow, Show.
 
-If you're stuck in a channel — always translating, never feeling; always holding the field, never naming your stake — 3-2-1 often reveals which gate or part is intercepting the spiral before it completes. Do 3-2-1 first when the trigger is a *person*. Do WAVE first when the trigger is a *feeling already in your body*. Many hard moments need both.
+If you're stuck in a channel — always translating, never feeling; always holding the field, never naming your stake — 3-2-1 often reveals which daemon or part is intercepting the spiral before it completes. Do 3-2-1 first when the trigger is a *person*. Do WAVE first when the trigger is a *feeling already in your body*. Many hard moments need both.
 
-The Shaman's toolkit is not one practice. It is a loop: find the shadow, alchemize the charge, walk the gates, show up in the field. 3-2-1 is how the loop starts when the charge is wearing someone else's face.
+The Shaman's toolkit is a loop: find the shadow, alchemize the charge, walk the gates, show up in the field. 3-2-1 is how the loop starts when the charge is wearing someone else's face.
 
 ---
 

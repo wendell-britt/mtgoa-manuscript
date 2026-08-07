@@ -44,9 +44,65 @@ TERMS = [
     # domains
     ('Gather Resources', r'Gather Resources'), ('Raise Awareness', r'Raise Awareness'),
     ('Direct Action', r'Direct Action'), ('Skillful Organizing', r'Skillful Organizing'),
-    # spiral
-    ('Amber', r'\bAmber\b'), ('Orange', r'\bOrange\b'), ('Green', r'\bGreen\b'), ('Teal', r'\bTeal\b'),
+    # The Spiral colours were CUT by Wendell 2026-07-31 (log row A4) -- a five-term
+    # developmental scale used at six sites and defined nowhere, with the six Faces
+    # taking the work. They were cut from the manuscript and left in this list, so the
+    # ledger reported four NEVER DEFINED rows for terms that appear ZERO times in the
+    # book. Measured 2026-08-05: Amber 0, Orange 0, Green 0, Teal 0.
+    #
+    # Same defect as the retired Key Terms glossary and `The Game So Far` -- a name for
+    # something that does not exist, carried in a list because a row in a list reads
+    # exactly like a row for something real. Removed rather than commented, since a
+    # commented row is the next version of the same mistake.
+    #     ('Amber', ...), ('Orange', ...), ('Green', ...), ('Teal', ...)
 ]
+
+# Terms whose debt is DESIGN, not oversight. A gap between first use and first
+# definition normally means a reader met jargon with no translation. For these it means
+# the book is withholding on purpose, and "fixing" it breaks the structure.
+#
+# Wendell 2026-08-05: the six Faces sit at six different altitudes, and the reader walks
+# that developmental sequence WITHOUT being told it is developmental. The reveal is held
+# to ch8 -- "*Which altitude is this?* is a vertical question, and its answer-set is the
+# six roles the schools teach... a fact about their development and not a fact about
+# their worth" -- and the withholding is aimed at Green's hierarchy allergy: a reader
+# told in Chapter 3 that she occupies a level rejects the ladder before she has walked
+# it. The usage curve is the design, visible in the counts: 0, 0, 4, 6, 2, 7, 14, 30, 3.
+#
+# This entry exists because I glossed `altitude` at ch3:241 on this date (DL-72),
+# cleared the "debt", and broke the reveal. The instrument cannot tell a withheld term
+# from an undefined one, so the ruling has to live where the instrument reads it.
+WITHHELD = {
+    'altitude': 'Held to ch8 by design (DL-73). The six Faces ARE the six altitudes and '
+                'the reader is not told until the Sage. Do not gloss it earlier.',
+    'superpower': 'ch1:241 withholds it on purpose -- "a superpower you will only spot in '
+                  'motion". ch2:344 says what one IS and never tells the reader to write '
+                  'hers down; Appendix H stamps that line OPEN rather than to a chapter '
+                  '(DL-67, DL-68). A superpower named in advance is one you are performing.',
+}
+
+# KNOWN UNDER-FIRES, checked 2026-08-05 and left alone. Both are `is_def` missing a real
+# definition, not the book missing one, and neither is worth a new rule: this session
+# already watched a loosely-written rule manufacture a definition at ch6:242, and a
+# fabricated definition is silent where a missing one at least gets reported.
+#
+#   quest   ch1:239 defines it by contrast -- "**Your quest.** Not 'get better at
+#           allyship.' A cause. The specific fight, community, or person you are actually
+#           in this for." `is_def` has no rule for "Not X. A Y." and the shape is common
+#           enough in this book that a rule for it would need its own testing pass.
+#
+#   Player  defined twice in ch2 -- ":384 the player who should have been holding it the
+#           whole time" and ":429 a player is waiting for somebody to show up and play" --
+#           both LOWERCASE, while TERMS matches `\bPlayer\b`. The case sensitivity is
+#           deliberate and must stay (Fire the channel vs fire the verb), so the ledger
+#           reports first use at ch8:348 and cannot see either definition.
+#
+# The rest of the ledger's rows are benign and were read: the five channels are named at
+# ch3:435 and tabled at ch3:445-449, one passage; Shaman and Diplomat are mentioned at
+# ch1:121 and ch1:143 and rostered at ch1:209, with ch1:121 signposting "the Shaman in
+# Chapter 3"; `Game Master` is the book's opening claim at ch1:16 and unpacked in its own
+# paragraph; `the Forest` enters as an invocation in the Reader's Oath and is the subject
+# of ch2 section 3; `the joystick` is planted at ch1:62 and ch2 section 6 is titled after it.
 
 LINES = {}
 for c in range(1, 10):
@@ -64,6 +120,29 @@ def is_def(term_rx, line, nxt):
     # inline gloss inside a running sentence: "The **Regent** keeps what works and hands it on."
     if re.search(r'\*\*(The |the )?[^*]{0,30}?' + term_rx + r'[^*]{0,20}?\*\*\s+[a-z]', s): return 'inline'
     if re.search(r'\*\*[^*]{0,30}?' + term_rx + r'[^*]{0,30}?\*\*\s*[—:-]', s): return 'bold-gloss'
+    # Gloss INSIDE the bold span: "**Direct Action — the true thing said to the face**".
+    # The rule above only sees a dash AFTER the closing asterisks, which is why A5 was
+    # reported and then withdrawn on 2026-07-31 -- the four domains are all defined this
+    # way and all four read as NEVER DEFINED for months.
+    if re.search(r'\*\*[^*]{0,30}?' + term_rx + r'[^*]{0,4}[—:-]\s*[^*]{3,60}\*\*', s):
+        return 'bold-gloss'
+    # Appositive: "the Vulnerable Child, the player who should have been holding it" and
+    # "Direct Action, the true thing said to a face". A term followed by a comma and a
+    # noun phrase is the commonest way this book defines something in running prose, and
+    # it was the one shape `is_def` could not see. DL-29 named it after it cost two
+    # withdrawn findings; a third (`Vulnerable Child`, again) turned up 2026-08-05.
+    # The colon is not decoration -- it is the discriminator. Every true appositive
+    # definition in this book announces itself: "That conversion has a name: Emotional
+    # Alchemy, the engine under the whole book"; "the youngest part of you still waits:
+    # the Vulnerable Child, the player who should have been holding it"; "one of the
+    # four: Direct Action, the true thing said to a face."
+    #
+    # Without the colon the rule matched a fronted adverbial and manufactured a
+    # definition -- ch6:242, "At the Architect's altitude, the native material is not
+    # emotion", which defines nothing. That is the worse failure direction: a missing
+    # definition gets reported, a fabricated one is silent.
+    if re.search(r'[:;]\s+(?:the\s+)?' + term_rx + r',\s+(?:the|a|an|your|his|her|its|one|what)\b[^.!?]{4,70}', s):
+        return 'appositive'
     if re.search(term_rx + r'[^.!?]{0,60}?\b(is|are)\b\s+(the|a|an|what|how|your|when|where)', s): return 'copula'
     if re.search(term_rx + r'[^.!?]{0,40}?\b(means|refers to|stands for|is called|we call)\b', s): return 'gloss'
     if re.search(r'\b(call|called|name|named|term)\b[^.!?]{0,30}?' + term_rx, s): return 'naming'
@@ -95,7 +174,9 @@ for name, fu, fd, dk, n, per in sorted(rows, key=lambda r: key(r[1])):
     u = 'ch%d:%d' % (fu[0], fu[1]) if fu else '—'
     d = 'ch%d:%d' % (fd[0], fd[1]) if fd else 'NEVER'
     debt = ''
-    if fu and (fd is None):
+    if name in WITHHELD:
+        debt = 'WITHHELD BY DESIGN'
+    elif fu and (fd is None):
         debt = 'NO DEFINITION'; debts.append((name, fu, fd, dk, 999999))
     elif fu and fd and key(fd) > key(fu):
         gap = 0

@@ -10,7 +10,7 @@ You crossed the forest. You met the Faces. You know the moves.
 
 This is the game board.
 
-What follows isn't homework and it isn't a recap — the book already taught the framework. These are the reps. Eight **quests**, one for each chapter of the walk, that you run alone. Four **campaigns**, one per domain, that you can run with other people. Each one takes something you learned and turns it into a week (or a session, or a month) of actual practice, with a place to capture what happened.
+What follows isn't homework and it isn't a recap — you already have the framework. These are the reps. Eight **quests**, one for each chapter of the walk, that you run alone. Four **campaigns**, one per domain, that you can run with other people. Each one takes something you learned and turns it into a week (or a session, or a month) of actual practice, with a place to capture what happened.
 
 Pick the one that's pulling at you. Not the one you should do. The one that's already calling.
 
@@ -25,20 +25,20 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 ---
 
 ### Quest 1 — The Forest Walk
-*Chapter 2 · Gate: Emotional Body · Domain: Gather Resources · 7 days*
+*Chapter 2 · Daemon: Emotional Body · Domain: Gather Resources · 7 days*
 
-***The shadow running:*** You walk the forest blindfolded — reacting all day without ever knowing which gate is driving. You can't work with what you can't name.
+***The shadow running:*** You walk the forest blindfolded — reacting all day without ever knowing which daemon is driving. You can't work with what you can't name.
 
 ***The gift:*** Recognition. Before you fix anything, you locate the signal — which part of you just showed up.
 
-1. Once a day, after a moment where you tried to help, name which gate was running in you. Just name it. Don't manage it.
-2. By the end of the week, name your two most-traveled gates — the ones that show up first when the pressure is on.
-3. Capture each day's gate, one line.
+1. Once a day, after a moment where you tried to help, name which daemon was running in you. Just name it. Don't manage it.
+2. By the end of the week, name your two most-traveled daemons — the ones that show up first when the pressure is on.
+3. Capture each day's daemon, one line.
 
 ---
 
 ### Quest 2 — The Shaman Read
-*Chapter 3 · Gate: Emotional Body · Domain: Gather Resources · 7 days*
+*Chapter 3 · Daemon: Emotional Body · Domain: Gather Resources · 7 days*
 
 ***The shadow running:*** You read the space perfectly and then do nothing with it — attunement without transfer. Sensing what's needed is not the same as moving it.
 
@@ -51,7 +51,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 ---
 
 ### Quest 3 — The Challenger's Question
-*Chapter 4 · Gate: Skeptic · Domain: Raise Awareness · 7 days*
+*Chapter 4 · Daemon: Skeptic · Domain: Raise Awareness · 7 days*
 
 ***The shadow running:*** Either the question that paralyzes you (the Skeptic aimed at yourself — "I'll get this wrong") or the cheap shot dressed up as inquiry.
 
@@ -64,7 +64,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 ---
 
 ### Quest 4 — The Regent's Inventory
-*Chapter 5 · Gate: Protector · Domain: Skillful Organizing · One session (~2 hours)*
+*Chapter 5 · Daemon: Protector · Domain: Skillful Organizing · One session (~2 hours)*
 
 ***The shadow running:*** You hold inherited standing without ever naming it — or you guard it so hard nothing moves through it.
 
@@ -77,7 +77,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 ---
 
 ### Quest 5 — The Architect's Blueprint
-*Chapter 6 · Gate: Controller · Domain: Skillful Organizing · 7 days*
+*Chapter 6 · Daemon: Controller · Domain: Skillful Organizing · 7 days*
 
 ***The shadow running:*** You design all of it in your head and never say the load-bearing part — or you enforce a standard nobody agreed to.
 
@@ -90,7 +90,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 ---
 
 ### Quest 6 — The Diplomat's Bridge
-*Chapter 7 · Gate: Vulnerable Child · Domain: Gather Resources · 7 days*
+*Chapter 7 · Daemon: Vulnerable Child · Domain: Gather Resources · 7 days*
 
 ***The shadow running:*** You manage the container so smoothly that nothing real ever crosses it — politeness as a way to avoid contact.
 
@@ -103,7 +103,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 ---
 
 ### Quest 7 — The Sage's Principle
-*Chapter 8 · Gate: Skeptic · Domain: Raise Awareness · 7 days*
+*Chapter 8 · Daemon: Skeptic · Domain: Raise Awareness · 7 days*
 
 ***The shadow running:*** You see the whole game and use the seeing to float above everyone in it. Altitude as a place to hide.
 
@@ -116,15 +116,15 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 ---
 
 ### Quest 8 — The Player's Full Game
-*Chapter 9 · All gates · All domains · 30 days*
+*Chapter 9 · All daemons · All domains · 30 days*
 
 ***The shadow running:*** You collect moves like a scoreboard — allyship as another skill to be good at, another way to win.
 
 ***The gift:*** You play. The whole game, across all four domains, for long enough to see who you become.
 
 1. Each week, pick a different domain — Gather Resources, Skillful Organizing, Direct Action, Raise Awareness — and run one rep in it.
-2. Each day, one small move from any gate. Capture it the same day.
-3. At thirty days, read your BARs back. Which gate grew? Which domain is calling next? That answer is your next quest.
+2. Each day, one small move from any daemon. Capture it the same day.
+3. At thirty days, read your BARs back. Which daemon grew? Which domain is calling next? That answer is your next quest.
 
 ---
 
@@ -135,7 +135,7 @@ A quest is solo. A campaign is the same kind of practice, run longer and out lou
 ---
 
 ### Gather Resources Campaign
-*Domain: Gather Resources · Gates: Emotional Body + Vulnerable Child · 21 days · Partner practice*
+*Domain: Gather Resources · Daemons: Emotional Body + Vulnerable Child · 21 days · Partner practice*
 
 **What it builds:** the habit of sensing what's actually depleted — in you, in the people you're allied with — and moving the real resource, not the gesture.
 
@@ -148,7 +148,7 @@ A quest is solo. A campaign is the same kind of practice, run longer and out lou
 ---
 
 ### Skillful Organizing Campaign
-*Domain: Skillful Organizing · Gates: Protector + Controller · 21 days · Team / community container*
+*Domain: Skillful Organizing · Daemons: Protector + Controller · 21 days · Team / community container*
 
 **What it builds:** the conditions that let other people act — the unglamorous infrastructure of effective allyship.
 
@@ -161,7 +161,7 @@ A quest is solo. A campaign is the same kind of practice, run longer and out lou
 ---
 
 ### Direct Action Campaign
-*Domain: Direct Action · Gates: Fixer/Healer + Damaged Self · 21 days · Accountability partner*
+*Domain: Direct Action · Daemons: Fixer/Healer + Damaged Self · 21 days · Accountability partner*
 
 **What it builds:** surgical action inside your actual scope — and the damage you take on purpose instead of by default.
 
@@ -174,7 +174,7 @@ A quest is solo. A campaign is the same kind of practice, run longer and out lou
 ---
 
 ### Raise Awareness Campaign
-*Domain: Raise Awareness · Gates: Skeptic + Victim · 21 days · Public or community audience*
+*Domain: Raise Awareness · Daemons: Skeptic + Victim · 21 days · Public or community audience*
 
 **What it builds:** telling the story that moves awareness — not the one that fishes for sympathy or clout.
 
@@ -186,4 +186,4 @@ A quest is solo. A campaign is the same kind of practice, run longer and out lou
 
 ---
 
-*Every quest and campaign ends in a capture. The capture is the point — it's how a single rep becomes a record, and a record becomes the player you're becoming. Lost which gate or domain is yours right now? Appendix A has the diagnostic.*
+*Every quest and campaign ends in a capture. The capture is the point — it's how a single rep becomes a record, and a record becomes the player you're becoming. Lost which daemon or domain is yours right now? Appendix A has the diagnostic.*

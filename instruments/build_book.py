@@ -47,10 +47,20 @@ BUILD = os.path.join(ROOT, "build")
 # Refusing to build over a missing acknowledgements page would be the instrument
 # substituting its judgment for a shipping decision that is Wendell's to make. Its
 # job is to make the gap impossible to forget, not impossible to ship.
+#
+# Acknowledgements left the spine entirely on 2026-08-05, which is a fourth state and
+# the one this scale cannot express: not "required", not "the reader will notice", not
+# "allowed to be absent", but ruled out of this edition. A level says what to do about
+# a file that is missing. Only the spine says whether a file that exists gets printed.
 BLOCKER, GAP, OPTIONAL = "BLOCKER", "GAP", "OPTIONAL"
 
 SPINE = [
     ("front",    "Half title",              "front_matter/half_title.md",        BLOCKER),
+    # The card page, verso of the half title, where trade convention lists the author's
+    # other titles. Added 2026-08-05: three shipping components already name *Igniting
+    # Joy* -- the copyright page, the author bio and the enrollment page -- and no page
+    # listed it. OPTIONAL because a first book does not have one; this is not a first book.
+    ("front",    "Also by",                 "front_matter/also_by.md",           OPTIONAL),
     ("front",    "Title page",              "front_matter/title_page.md",        BLOCKER),
     ("front",    "Copyright page",          "front_matter/copyright.md",         BLOCKER),
     ("front",    "Dedication",              "front_matter/dedication.md",        OPTIONAL),
@@ -90,18 +100,51 @@ SPINE = [
     ("appendix", "Appendix E",  "appendices/APPENDIX_E_321_SHADOW_PROCESS.md",        BLOCKER),
     ("appendix", "Appendix F",  "appendices/APPENDIX_F_POLARITY_MAP.md",              BLOCKER),
     ("appendix", "Appendix G",  "appendices/ON_THE_SHOULDERS_OF.md",                  BLOCKER),
+    # The character sheet, added 2026-08-05 on Wendell's ruling (DL-63). The book tells a
+    # reader to add a line to the sheet nine times and never shows her one. Assembled from
+    # the sheet's own instructions rather than designed: thirteen lines, each traceable to
+    # the chapter that asks for it. GAP rather than BLOCKER because the instructions are in
+    # the chapters and a reader can rule one up without this page; she should not have to.
+    ("appendix", "Appendix H",  "appendices/APPENDIX_H_CHARACTER_SHEET.md",           GAP),
 
-    ("back",     "Acknowledgements",        "back_matter/acknowledgements.md",   GAP),
-    # The acknowledgements say "their names are on the page that follows", so this
-    # is a live forward reference and has to sit immediately after them. Alphabetical
-    # by Wendell's ruling 2026-07-30, no tiers. It stays a GAP rather than a BLOCKER
-    # because only the backer list is missing, and holding the whole build hostage to
-    # a list that arrives from Kickstarter would stop the book for a data export.
-    ("back",     "Kickstarter backers",     "back_matter/kickstarter_backers.md", GAP),
+    # Acknowledgements came OFF the spine 2026-08-05, ruled by Wendell: *"we're also
+    # cutting acknowledgements this version."* Off the spine rather than OPTIONAL,
+    # because OPTIONAL only governs what happens when a file is MISSING and this file
+    # is on disk -- left at OPTIONAL it would have kept building, 266 words the ruling
+    # said to cut. Same treatment as the Key Terms glossary: on disk, off the spine.
+    # The file stays correct -- the same ruling took its forward reference to the
+    # backer page out of the prose -- so putting it back is uncommenting one line.
+    #
+    # ("back",   "Acknowledgements",        "back_matter/acknowledgements.md",   GAP),
+    #
+    # Alphabetical by Wendell's ruling 2026-07-30, no tiers.
+    #
+    # OPTIONAL from 2026-08-03, ruled by Wendell: *"we're removing kickstarter backers
+    # as necessary for this build."* It was a GAP on the reasoning that a reader would
+    # notice its absence. For this build they will not, because there is nothing yet
+    # for the page to list, and a gap banner that fires every build is a banner nobody
+    # reads. Raise it back to GAP when the backer export exists.
+    #
+    # This page used to be pinned here by a live forward reference -- the
+    # acknowledgements said "their names are on the page that follows". That sentence
+    # was cut 2026-08-05, so the ordering constraint is gone with it and the position
+    # is now convention rather than requirement.
+    ("back",     "Kickstarter backers",     "back_matter/kickstarter_backers.md", OPTIONAL),
     ("back",     "About the author",        "back_matter/about_the_author.md",   BLOCKER),
     # The enrollment page is the only place the book can hand a reader the app
     # deliberately. Twelve mentions of bars-engine and no address is a dead end.
     ("back",     "Enrollment page",         "back_matter/enrollment.md",         GAP),
+    # Glossary before index, which is the trade order. Written by hand -- a definition
+    # is prose and cannot be generated -- and kept answerable by `glossary_check.py`,
+    # whose third check is the one the retired Key Terms glossary had no version of:
+    # every coined term the index carries must have an entry here.
+    ("back",     "Key Terms",               "back_matter/glossary.md",           GAP),
+    # Generated by `index_build.py` from the book itself, never typed. Locators are
+    # chapter and section because the book has no pages until a typesetter gives it
+    # some; at print the compositor substitutes page numbers. Run
+    # `index_build.py --check` to catch a stale one -- an index that points at a section
+    # a term has left is worse than no index, and hand-maintenance guarantees that state.
+    ("back",     "Index",                   "back_matter/index.md",              GAP),
 ]
 
 # Live cross-references in canon that name an appendix by title rather than by

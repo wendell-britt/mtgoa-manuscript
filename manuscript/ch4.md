@@ -91,6 +91,8 @@ Not in anger. In clarity. The Challenger understood what the villagers did not: 
 
 The villagers never meant for that to happen. They never said "go." They just stopped asking. Which, it turns out, is the same as exile.
 
+**The Challenger means: somebody drew the line on the day it needed drawing.** A Diplomat can watch your best hour and see damage, and mean it sincerely.
+
 ---
 
 ## Section 2: The Distortion
@@ -100,7 +102,7 @@ Here's what happened after the Challenger left: the villagers didn't stop needin
 
 They just forgot how to do it without apologizing.
 
-The village still experienced violations. Slights. Moments where someone crossed a boundary and everyone knew it and nobody said it. Without the Challenger to say *"this is not acceptable"* without softening it, without the Challenger's willingness to be unwelcome in service of what was true, the villagers learned to *process* these moments instead of *respond* to them. To have conversations about boundaries. To schedule dialogues. To bring in a facilitator.
+The villagers still experienced violations. Slights. Moments where someone crossed a boundary and everyone knew it and nobody said it. Without the Challenger to say *"this is not acceptable"* without softening it, without the Challenger's willingness to be unwelcome in service of what was true, the villagers learned to *process* these moments instead of *respond* to them. To have conversations about boundaries. To schedule dialogues. To bring in a facilitator.
 
 Sometimes that was exactly right. Sometimes the situation actually required a facilitated conversation.
 
@@ -124,7 +126,7 @@ The villagers do this with the clean no once the Challenger has gone: they trans
 
 The villagers did all of this with good intentions. Because the Regent was right: *power had to be organized.* Because walls cost less than lines. Because saying no cost something and they had decided, without ever announcing it, to stop paying.
 
-The villagers never realized they had traded the capacity to draw lines for the comfort of not having to. That every time they chose the facilitated conversation over the clean no, they taught each other that the clean no no longer belonged to them. That the Challenger's gift (the willingness to be unwelcome in service of what is true) was draining away, not just from the village, but from their *capacity to even recognize* when the moment called for it.
+The villagers never realized they had traded the capacity to draw lines for the comfort of not having to. That every time they chose the facilitated conversation over the clean no, one generation taught the next that the clean no was not theirs. That the Challenger's gift (the willingness to be unwelcome in service of what is true) was draining away, not just from the villagers, but from their *capacity to even recognize* when the moment called for it.
 
 ---
 
@@ -135,7 +137,7 @@ You already have a version of the clean no. You've been calling it something els
 
 The villagers hear the clean no as aggression: the angry one, the difficult one, the one who makes it worse before it gets better, someone who says no because they want to win. I was told that at nineteen, by people who meant well, and I believed them for another thirty years. The version they described does exist, and you've probably met them, and it is not what we're talking about here.
 
-The clean no is something different. The clean no is the practice of **stating a boundary without apologizing for it, collapsing it, or converting it into a request.**
+The School of the Line will not turn you into an asshole. The clean no is the practice of **stating a boundary without apologizing for it, collapsing it, or converting it into a request.**
 
 Notice what that last part says: *without converting it into a request.* Because the villagers have gotten very sophisticated about this. The villagers have learned to make their nos sound like preferences, their lines sound like suggestions, their non-negotiables sound like flexible guidelines. "I'd prefer not to" when the actual truth is "I won't." "I'd appreciate it if we could" when the actual truth is "this has to stop." (That email gets written more than any other in professional life.)
 
@@ -443,7 +445,7 @@ The fire was real. The line was real. Without the practice to draw it clean, the
 
 A version of this chapter gets braced against, and it should be named before we go further.
 
-Challenger energy gets used as control. Power asserted over people who have less of it, with the vocabulary of directness doing the asserting. That is not a caricature. It happens, you recognize it on sight, and anyone who has been on the receiving end of it has a good reason to distrust everything this chapter has just taught.
+Challenger energy gets used as control. Power asserted over people who have less of it, with the vocabulary of directness doing the asserting. That is not a caricature. It happens, you recognize it on sight, and anyone who has been on the receiving end of it has a good reason to distrust everything you have just read.
 
 Here is the conclusion that tends to follow. I put it as a proposition rather than a diagnosis, because only you know whether it is yours: *the clean no is what oppressors do. Drawing lines is how power protects itself. My job is to listen, to make space, to find common ground, not to draw lines.*
 
@@ -541,7 +543,7 @@ Then it speaks, and it always sounds reasonable. *Am I overreacting. Other peopl
 
 Here is the tell that separates the auditor from the judge: the auditor finishes. It asks its question, gets an answer, hands the charge back to you either confirmed or dismissed, and stops. The Skeptic in shadow never finishes. No evidence closes the case, because the case was never about evidence. Ask yourself whether you feel certain and you will always find you could feel less certain. The audit runs until the moment has passed, and that outcome was always its purpose.
 
-Now here is why this daemon stands where it stands, in a book about allyship. Everything this chapter has taught you runs on a charge you trust enough to aim. Charge, Aim, Act, Stand, Exit: the whole sequence assumes Stage 1 got permission to count. The Skeptic can end the practice between Stage 1 and Stage 2, not by arguing that the line is wrong but by ruling that you have not established the line is yours to draw. It does not put the fire out, either. The fire burned. You felt every degree of it. You filed it instead of aiming it, and you carried it home.
+Now here is why this daemon stands where it stands, in a book about allyship. Everything you have learned in this chapter runs on a charge you trust enough to aim. Charge, Aim, Act, Stand, Exit: the whole sequence assumes Stage 1 got permission to count. The Skeptic can end the practice between Stage 1 and Stage 2, not by arguing that the line is wrong but by ruling that you have not established the line is yours to draw. It does not put the fire out, either. The fire burned. You felt every degree of it. You filed it instead of aiming it, and you carried it home.
 
 The cost lands twice: you lose the line, and the person who needed the line ends up somewhere nobody drew one, where the crossing went unremarked, and everyone present, the one who crossed included, learned that it was uncrossable in principle and crossable in fact. They did not need your certainty. They needed the sentence.
 
@@ -597,6 +599,8 @@ The Skeptic developed does what nothing else in this chapter can: it makes your 
 That is the Disruptor's foundation. This chapter trains it as the willingness to be unwelcome on a charge you have checked and chosen to trust, clarity without cruelty, held steady long enough to say one sentence and stay for what follows. Fighting comes easy by comparison, and so does certainty.
 
 You know what your auditor is for now. That is what you take out.
+
+Theirs is doing the same job in a Forest you cannot see into. A stranger's Skeptic is an auditor somebody fooled once, so confidence is the one signal it will not take as evidence. What you admit you do not know is the cheapest clearance available anywhere in this book.
 
 ---
 
@@ -655,7 +659,7 @@ In practice: Next time you're in a meeting and something happens that you can fe
 
 In practice: when the charge lands, start a clock instead of a sentence. Thirty seconds, and you may think about anything except what you are going to say. Where it sits in your body. How big it is. What it is pointing at. If the size drops while you are watching it, you did the talking down, and the reading you now have is a reading of the smaller charge.
 
-**Example:** Tomas asks for a start date in writing and the reply says it will be sorted. His visa runs on that date. The charge in you is at an eight and two sentences arrive in the first three seconds, both aimed at the coordinator, who did not build this. Say neither for thirty seconds. The size holds and what it points at moves. A coordinator gets to be slow. What you are actually carrying is that nobody in the thread has asked what the date is for. That one is drawable.
+**Example:** Tomas asks the council for the hearing date in writing and the reply says it will be sorted. His housing claim runs on that date. The charge in you is at an eight and two sentences arrive in the first three seconds, both aimed at the officer who answered, who did not build this. Say neither for thirty seconds. The size holds and what it points at moves. What you are actually carrying is that nobody in the chain has asked what the date is for. That one is drawable.
 
 **The test:** Thirty seconds passed, you said nothing, and the charge is the size it was. If it shrank, that is information about what you do with fire rather than a failed attempt. If you spent it, you will know, because the sentence was about a person instead of about a line.
 
@@ -712,6 +716,55 @@ In practice: When you feel yourself reaching for a qualifier, stop. Take the qua
 **Example:** A hiring panel is about to reject a candidate because she asked about remote days in the first interview and somebody called it high maintenance. Draw the line: *I am not able to support rejecting her unless somebody names the behaviour. Name it and I will vote with you.* One sentence of line and one of offer, in front of five people who will remember. It costs you twenty minutes that were going to be efficient. The line insists on the standard and does not deliver the outcome, and confusing those is how advocacy becomes speaking for somebody who never asked.
 
 **The test:** The line left your mouth without an essay, a justification, or an apology attached. Count the words afterward: more than you needed means you were explaining, whatever they did in response.
+
+The moves are what you do. The next question is where.
+
+---
+
+### Where You'll Actually Spend the Line
+
+The parable showed one of the four: Skillful Organizing, the Challenger speaking first at councils, saying what needed saying before anybody could bear to hear it. That is the domain where a line stops belonging to you and starts holding a group up.
+
+The line has four domains, and one cheap habit that is none of them. The cheap habit is the assessment. You see exactly what is wrong, you name it accurately, more accurately than anyone else at the table, and nothing in the world moves. An assessment costs nothing, because being right is not a position anybody has to argue with. It also feels almost identical to courage from the inside. That is why it lasts for years. The four domains are where the line finally lands: the limit said to the person crossing it, the truth named where naming it costs you, the no said in your own name, and the boundary a group has been negotiating around for months. Each costs more than an assessment, because each one puts something on the table that somebody now has to answer.
+
+These four are not a syllabus. Pick where you'll spend the line this week, and pick the domain you keep avoiding. If the line only ever arrives as analysis, delivered well, to people who already agree with you, you did not make the Challenger's move. You described it.
+
+### How to Draw It So It Holds
+
+When you draw a line, the seconds on either side of it decide whether it stands, and the same three moves decide it in every domain.
+
+**Draw it at the size it arrived.** The charge tells you how big the crossing was, and the auditor's first offer is always to round it down, from a line to a note, from now to later, from you to somebody standing closer to it. Take the offer and you draw the line a mild irritation would draw, which is a preference in a firmer voice. The size of the line has to match the size of the crossing, in every one of the four domains, or you filed it.
+
+**Aim at what happened, not at who they are.** *That decision put the cost on the person least able to carry it* is a line. *You never think about anyone but yourself* is a verdict on a character, and a verdict gives the other person something to defend instead of something to answer. The auditor will tell you the second version is more honest. It is only more satisfying.
+
+**Do not take it back in the next four seconds.** The silence after a line is the most expensive four seconds you will spend in any of the four domains, and most lines get withdrawn there, before anybody has objected to them, by the person who drew them. Let the silence do its work, and let them answer it. Adding a softener is taking it back. So is a joke. So is *does that make sense?* That has never once been a question about whether it made sense.
+
+**Direct Action — the limit said to the person crossing it**
+
+*You're winning when:* you said the limit to the person who was crossing it, in the moment and not afterward to somebody else, in one sentence with nothing attached to the end of it, and it cost you their read of you as easy to work with. The proof is that the limit now exists between you, out loud, and they have to decide what to do about it.
+
+**Raise Awareness — the line named where naming it costs you**
+
+*You're winning when:* you said what was actually happening in front of the people who would rather it stayed unnamed, including the person it implicates, rather than to the people who already agreed with you. It cost you the safety of the accurate private complaint. The proof is that it sits on the record, in the place where it can change something.
+
+**Gather Resources — the no said in your own name**
+
+*You're winning when:* you refused a demand on time, money or attention that somebody with less standing could not have refused, and you refused it in your own name rather than on their behalf without asking. It cost you your reputation as the person who absorbs. The proof is that the capacity stayed with the person who needed it.
+
+**Skillful Organizing — the boundary the group won't draw**
+
+*You're winning when:* you drew the line the coalition has been negotiating around for months, the one everybody can feel and nobody will name, so that the work had an edge to move against. It cost you the position of the reasonable one. The proof is that the group now has a limit to organize inside instead of a fog to keep meeting about.
+
+### The Tell
+
+None of the four markers asked why you drew it. That question is real, and it belongs to the Challenger, because a Challenger who draws a line so that a line will have been drawn has run the assessment at a higher volume. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer it:
+
+- **Direct Action.** Did you say the limit to change what happens next, or to be the one who would not let it pass?
+- **Raise Awareness.** Did you name it to move the group, or to be on record having named it?
+- **Gather Resources.** Did you refuse to protect somebody's capacity, or to be the one with standards?
+- **Skillful Organizing.** Did you draw the boundary so the work could move, or so everybody would know where you stand?
+
+Each Tell targets the Challenger's signature failure: the line drawn for the record instead of for the outcome.
 
 ---
 

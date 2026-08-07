@@ -120,7 +120,11 @@ The choice came down to this: Stay and become invisible. Or leave and remember w
 
 The Shaman left.
 
-The village never meant for that to happen. It never said "go." It just stopped listening. Which, it turns out, amounts to exile.
+The villagers never meant for that to happen. They never said "go." They just stopped listening. Which, it turns out, amounts to exile.
+
+Each of the six Faces carries its own word for being good to somebody. **The Shaman means: somebody said the unsaid charge, and it landed.** People who share that definition call you kind. People who hold a different one call you cold. Neither scores you wrong. They score you in another dictionary.
+
+Each of the six Faces carries its own word for being good to somebody. **The Shaman's definition is narrow: somebody said the unsaid charge, and it landed.** People who share that definition call you kind. People who hold a different one call you cold. Neither scores you wrong. They score you in another dictionary.
 
 ---
 
@@ -180,7 +184,7 @@ Picture it: your read catches what the group never registers, not dangerous, not
 
 That is the Shaman's practice with a governor on it, one installed by instructions that meant to teach you not to harm people and accidentally taught you to distrust your own read.
 
-Checking whether your read is distorted differs from making *probably my stuff* the default answer whenever the read turns inconvenient. The first is discernment. The second is the village's solution to the Shaman problem: keep the language, remove the trust.
+Checking whether your read is distorted differs from making *probably my stuff* the default answer whenever the read turns inconvenient. The first is discernment. The second is the villagers' solution to the Shaman problem: keep the language, remove the trust.
 
 The School of the Body is asking for the trust.
 
@@ -252,6 +256,8 @@ I recover both ends before I am done, and I will ask you to hold them at the sam
 
 ## Section 4: The Practice
 ### *The WAVE-Spiral: Emotional Alchemy as Repeatable Technique and Living Art*
+
+Other people built some of what this chapter hands you, and their names belong with the tools. *Felt sense* comes from Eugene Gendlin's *Focusing*, and the phrase names the body's knowing that arrives before language does, which is what this chapter teaches you to read. The claim underneath the whole practice is Peter Levine's. A feeling carries energy that has to finish moving, and it jams when you cut it off. He studies that jam where it is severe, in trauma, which calls for a trained person in the chair with you. This chapter works the everyday version, a bad afternoon rather than a wound, and the stretch from one to the other is mine to answer for. The Polarity Map is Barry Johnson's, and so is the distinction it rests on, that some tensions are problems you solve and others are pairs you hold. The five channels are borrowed too, and I say from where when they arrive a few pages on. Appendix G says where to read each one.
 
 If emotional alchemy means learning from emotions instead of managing them, then how do you actually *do it* when you're in the middle of a hard conversation, a crisis, a moment where the feeling is rising and you have thirty seconds to respond?
 
@@ -460,7 +466,7 @@ Each channel carries intelligence. You're not trying to "get over" any of them. 
 
 ### The Satisfied States: What the Feeling Is For
 
-The chapter has taught you to feel each channel all the way through. Here is what "all the way through" arrives at, and why it is the point.
+You have learned to feel each channel all the way through. Here is what "all the way through" arrives at, and why it is the point.
 
 Each channel has a completed state, and you get there by making a move. A feeling can settle on its own sometimes, given enough time, but the game does not wait on that. You play a move, and the move carries the stuck charge into the state that hands capability back. Doing the moves is how you play.
 
@@ -698,7 +704,7 @@ When the Controller has the joystick, it runs as the inner critic. It blows the 
 
 Its other move never blows a whistle at all, because the play never starts. Perfectionism is the Controller refusing to let you onto the field until the conditions are perfect: the exact right words, the unimpeachable position, the certainty that nobody can criticize you. The conditions are never perfect. So the most careful, most informed person in the situation says nothing, and calls the silence rigor.
 
-Here is why this daemon stands second, right behind the one that keeps you alive, in a book about allyship. Everything the first half of this chapter taught you runs on a feeling being allowed onto the field. You cannot alchemize a charge that got called out of bounds at the whistle. Wake, Open, Clean, Grow, Show: every stage assumes the feeling made it into play. The shadow Controller is the part that can end the whole practice before Stage One, by ruling that the feeling never had permission in the first place. Sensitivity is the Shaman's instrument; this hand keeps it in its case. The cost lands twice: you lose the read that would have told you what the moment actually needed, and the person in front of you loses the ally who could have named it. They get your composure instead of your help.
+Here is why this daemon stands second, right behind the one that keeps you alive, in a book about allyship. Everything you learned in the first half of this chapter runs on a feeling being allowed onto the field. You cannot alchemize a charge that got called out of bounds at the whistle. Wake, Open, Clean, Grow, Show: every stage assumes the feeling made it into play. The shadow Controller is the part that can end the whole practice before Stage One, by ruling that the feeling never had permission in the first place. Sensitivity is the Shaman's instrument; this hand keeps it in its case. The cost lands twice: you lose the read that would have told you what the moment actually needed, and the person in front of you loses the ally who could have named it. They get your composure instead of your help.
 
 You do not fire the Controller. Fire the referee and your follow-through goes with it. You take the joystick back by handing it the right rulebook, your rules, the ones you would choose on your clearest day. *Here is the ally I actually want to be: the one who names the unsaid even when her voice shakes. Hold me to that one. When a feeling shows up, let it onto the field. It is in bounds.* Do that, and the referee goes back to its real work: keeping your integrity when it costs you, and keeping the game honest, which now includes letting you feel.
 
@@ -782,6 +788,8 @@ That is what the Alchemist runs on. You cannot burn a charge you never let yours
 
 You know what your Controller is for now. That is what you take out.
 
+Theirs is doing the same job in a Forest you cannot see into. A stranger's Controller enforces a rulebook you have never read, so it fires when you arrive holding a better standard, and it opens when you meet the one they already keep. You earn clearance with a Controller by keeping their rule.
+
 ---
 
 ## Section 6: The Game
@@ -843,7 +851,7 @@ In practice: use the channel word, not the euphemism. *Anger* rather than *frust
 
 In practice: say it to your own nervous system, plainly, in the seconds after the read. *I get it. The message landed.* Then finish the sentence with the equipment. *I can tell when a plan is being agreed to and not believed.* *I can hold a hard look without going away.*
 
-**Example:** You noticed months ago that Jo is not disorganised, and that the week costs her something it does not cost anyone else. Neither of you has a word for it. You were right, and being right bought her nothing. Say what you can do now, to her, once: *I can tell the difference between someone struggling and a schedule that is expensive for one person. I am going to say so before I can prove it.* If you have misread it, she watches you misread it. What she does with it is hers, including nothing.
+**Example:** You noticed months ago that your sister Jo is not disorganised, and that every family visit costs her something it does not cost the rest of you. Neither of you has a word for it. You were right, and being right bought her nothing. Say what you can do now, to her, once: *I can tell the difference between someone struggling and a weekend that is expensive for one person. I am going to say so at the table before I can prove it.* If you have misread it, she watches you misread it. What she does with it is hers, including nothing.
 
 **The test:** You can state the capability in the present tense with no story attached. If the sentence only makes sense once you explain the meeting, it has not landed yet.
 
@@ -856,6 +864,8 @@ In practice: say it to your own nervous system, plainly, in the seconds after th
 The Challenger has a move that looks like this from the outside and is a different animal. *Name the Unnameable* points at a violation: something happened, everyone saw it, nobody stated it, and stating it draws a line. This one points at what runs underneath, which may involve no violation at all. The Challenger names what is unacceptable. The Shaman names what is true. One of them creates a boundary. The other creates contact.
 
 In practice: the sentence is shorter than you want it to be. A read usually runs one clause long. What extends it: the case you build so that nobody can argue with you, and the case is where the read goes to die, because a case invites a rebuttal and a read invites a response. Say the clause. Stop talking.
+
+You reach for the category instead of the person, and that kills a read faster than any case: *the culture here is toxic* rather than *Dave, you interrupted her three times.* The category feels braver and costs less, because nobody has to be Dave. Name a system and nobody has to answer you.
 
 **Example:** Two colleagues have restated the same scoping position four times. Nadia has said nothing for forty minutes. She did not come up through the graduate scheme and everyone else did, and the shorthand on the call belongs to the scheme. Say the thing under the thing: *I think we are three layers into a vocabulary and one of us has been outside it since the start.* One sentence, and nothing about who is right. It costs you with the two who were arguing, because you have told them their shorthand is a wall. The question resolves in four minutes, and Nadia joins it.
 
@@ -886,11 +896,11 @@ When you say it, what you do next decides whether it helps the person or wounds 
 
 **Don't say it and leave.** The riskiest second comes right after the words are out, when the fear grabs for the exit: soften it, make a joke, change the subject. Leaving strands the person with what you just handed them. This is the referee's purest move: it holds you to what you started when everything in you wants to quit the field. Staying present, without defending and without adding anything, lets the truth land as care instead of an ambush.
 
-**Direct Action — you say it to their face**
+**Direct Action — the read said to the person it is about**
 
 *You're winning when:* you said what you had been feeling, the unsaid charge and not the softened hint, to the face it concerns, in the live moment and not in a message you draft and never send, and it cost you the safety of being the one who never breaks the surface. The proof is that it existed between you, said and left said. What they do with it is information for your next move, not your grade.
 
-**Raise Awareness — true instead of correct**
+**Raise Awareness — the true read instead of the correct one**
 
 *You're winning when:* you said what was actually happening, the read under the approved language, to the real people who needed to hear it, including the one it implicates, instead of the correct-sounding version that keeps you safe. It cost you the cover of the right words. The proof is that the group met what was true and not the performance of it.
 
@@ -898,7 +908,7 @@ When you say it, what you do next decides whether it helps the person or wounds 
 
 *You're winning when:* you sensed and named what a situation actually needs, the real ask and not the palatable one you were already sure would be granted, and you asked the person who can grant it or refuse it. It cost you the exposure of naming a need you might be wrong about. The proof is that the true need got asked out loud, not managed down to something comfortable.
 
-**Skillful Organizing — you say what the group won't**
+**Skillful Organizing — the read the group won't say**
 
 *You're winning when:* you named what the whole coalition feels and no one will touch (the resentment, the power nobody names, the silence everyone is keeping) to the group, so the work could move. It cost you the comfort of the polite surface. The proof is that it got onto the table and the group could work with it instead of around it.
 
