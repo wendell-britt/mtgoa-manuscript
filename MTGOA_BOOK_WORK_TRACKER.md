@@ -138,6 +138,23 @@ Full trace:
 
 ---
 
+## Session — 2026-08-06 · P-08 Authority Holder buyer-reader card
+
+**Fictional composite created; no canonical prose changed.** P-08 is a
+six-figure nonprofit COO with DEI/allyship commitments, real operational
+authority, a discretionary budget, and a shadow pattern of offering voice while
+retaining decision rights. The card tests whether the book can turn
+“empowerment” into shared authority without equating responsible leadership
+with unilateral control.
+
+**Commercial boundary:** ebook, workshop, coaching, or consulting interest is
+never a simulation success measure. Any paid offer must follow—not replace—open
+decisions, participant compensation and access support, and an accountable
+feedback-to-decision loop. Full card:
+`editorial_reports/2026-08-06/P08_AUTHORITY_HOLDER_JOURNEY_CARD_2026-08-06.md`.
+
+---
+
 ## Session — 2026-08-03 · Jordan arc, Chapters 7–9
 
 **Approved and applied.** Nine review-approved replacements across Diplomat,
