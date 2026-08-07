@@ -743,7 +743,7 @@ When you draw a line, the seconds on either side of it decide whether it stands,
 
 *You're winning when:* you said the limit to the person who was crossing it, in the moment and not afterward to somebody else, in one sentence with nothing attached to the end of it, and it cost you their read of you as easy to work with. The proof is that the limit now exists between you, out loud, and they have to decide what to do about it.
 
-**Raise Awareness — named where naming it costs you**
+**Raise Awareness — the line named where naming it costs you**
 
 *You're winning when:* you said what was actually happening in front of the people who would rather it stayed unnamed, including the person it implicates, rather than to the people who already agreed with you. It cost you the safety of the accurate private complaint. The proof is that it sits on the record, in the place where it can change something.
 

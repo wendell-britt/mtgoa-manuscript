@@ -890,11 +890,11 @@ When you say it, what you do next decides whether it helps the person or wounds 
 
 **Don't say it and leave.** The riskiest second comes right after the words are out, when the fear grabs for the exit: soften it, make a joke, change the subject. Leaving strands the person with what you just handed them. This is the referee's purest move: it holds you to what you started when everything in you wants to quit the field. Staying present, without defending and without adding anything, lets the truth land as care instead of an ambush.
 
-**Direct Action — you say it to their face**
+**Direct Action — the read said to the person it is about**
 
 *You're winning when:* you said what you had been feeling, the unsaid charge and not the softened hint, to the face it concerns, in the live moment and not in a message you draft and never send, and it cost you the safety of being the one who never breaks the surface. The proof is that it existed between you, said and left said. What they do with it is information for your next move, not your grade.
 
-**Raise Awareness — true instead of correct**
+**Raise Awareness — the true read instead of the correct one**
 
 *You're winning when:* you said what was actually happening, the read under the approved language, to the real people who needed to hear it, including the one it implicates, instead of the correct-sounding version that keeps you safe. It cost you the cover of the right words. The proof is that the group met what was true and not the performance of it.
 
@@ -902,7 +902,7 @@ When you say it, what you do next decides whether it helps the person or wounds 
 
 *You're winning when:* you sensed and named what a situation actually needs, the real ask and not the palatable one you were already sure would be granted, and you asked the person who can grant it or refuse it. It cost you the exposure of naming a need you might be wrong about. The proof is that the true need got asked out loud, not managed down to something comfortable.
 
-**Skillful Organizing — you say what the group won't**
+**Skillful Organizing — the read the group won't say**
 
 *You're winning when:* you named what the whole coalition feels and no one will touch (the resentment, the power nobody names, the silence everyone is keeping) to the group, so the work could move. It cost you the comfort of the polite surface. The proof is that it got onto the table and the group could work with it instead of around it.
 
