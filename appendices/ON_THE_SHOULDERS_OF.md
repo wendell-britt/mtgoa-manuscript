@@ -63,9 +63,9 @@ When a choice has two right answers and you keep ping-ponging between them, you 
 
 ---
 
-## The Shadow Work and the Gates
+## The Shadow Work and the Daemons
 
-The daemons are a marriage of three lineages. The architecture — the named voices you meet in the Forest, the practice of speaking *as* each voice, hearing its logic, and giving it a narrower job instead of trying to destroy it — comes from **Genpo Roshi's Big Mind Process** (Dennis Genpo Merzel), which Chapter 8 names in the text. The word *daemon* and the turn that makes the whole approach workable — that the part running you is a genius who knows you completely, a demon only while nobody is holding the joystick, and an ally the moment you give it a job — is **Robin Rice's** Genius Demon Ally, named in Chapter 2. The approach you take once you're at a gate comes from **Carolyn Elliott's *Existential Kink***: the insight that a shadow isn't a defect to fight but a pattern that has been doing a job for you — you ask it what it's been protecting, you thank it, then you ask it to teach you instead of run you. Big Mind gives the gates their structure; Elliott gives them their spirit. Read *Existential Kink* when the gates start revealing something bigger than the chapter you're in.
+The daemons are a marriage of three lineages. The architecture — the named voices you meet in the Forest, the practice of speaking *as* each voice, hearing its logic, and giving it a narrower job instead of trying to destroy it — comes from **Genpo Roshi's Big Mind Process** (Dennis Genpo Merzel), which Chapter 8 names in the text. The word *daemon* and the turn that makes the whole approach workable — that the part running you is a genius who knows you completely, a demon only while nobody is holding the joystick, and an ally the moment you give it a job — is **Robin Rice's** Genius Demon Ally, named in Chapter 2. The approach you take once you are with a daemon comes from **Carolyn Elliott's *Existential Kink***: the insight that a shadow isn't a defect to fight but a pattern that has been doing a job for you — you ask it what it's been protecting, you thank it, then you ask it to teach you instead of run you. Big Mind gives the daemons their structure; Elliott gives them their spirit. Read *Existential Kink* when the daemons start revealing something bigger than the chapter you're in.
 
 ---
 

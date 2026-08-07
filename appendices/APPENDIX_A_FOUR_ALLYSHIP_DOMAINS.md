@@ -143,24 +143,24 @@ The reverse collapse: confusing Raise Awareness with Direct Action — treating 
 
 ---
 
-## Gate-Domain Affinity Table
+## Daemon-Domain Affinity Table
 
-*Affinities are starting defaults, not rules. Any gate can serve any domain.*
+*Affinities are starting defaults, not rules. Any daemon can serve any domain.*
 
-| Domain | Primary Gates |
+| Domain | Primary Daemons |
 |--------|---------------|
 | Gather Resources | Emotional Body · Vulnerable Child |
 | Skillful Organizing | Protector · Controller |
 | Direct Action | Fixer/Healer · Damaged Self |
 | Raise Awareness | Victim · Skeptic |
 
-Pattern: 2-2-2-2. The system is balanced. No domain is under-resourced by gate.
+Pattern: 2-2-2-2. The system is balanced. No domain is under-resourced by daemon.
 
-The affinities reflect gate function, not arbitrary assignment: Emotional Body locates what's depleted before any resource can be moved; Vulnerable Child restores what's been spent. Protector guards the conditions a group needs to function; Controller routes coordination across the system. the Fixer/Healer takes the direct surgical move on the specific breakage; Damaged Self absorbs the cost of showing up on purpose. Victim carries the story from felt experience; Skeptic asks the question that makes the invisible visible.
+The affinities reflect daemon function, not arbitrary assignment: Emotional Body locates what's depleted before any resource can be moved; Vulnerable Child restores what's been spent. Protector guards the conditions a group needs to function; Controller routes coordination across the system. the Fixer/Healer takes the direct surgical move on the specific breakage; Damaged Self absorbs the cost of showing up on purpose. Victim carries the story from felt experience; Skeptic asks the question that makes the invisible visible.
 
 ## The Table Turned Around
 
-The affinity above routes *your* gates to a domain: which of them is live in you, and where that tends to send you. Call it the question of where.
+The affinity above routes *your* daemons to a domain: which of them is live in you, and where that tends to send you. Call it the question of where.
 
 The person you are working with has the same eight, and theirs settle a different question: what the work has to be for once it arrives. Chapter 2 walks their Forest and names the mechanic. Their Protector holds the door, the other seven stand behind it, and how far it lets you in decides which of them you ever reach. The domains are how you get to them.
 
@@ -169,9 +169,9 @@ The person you are working with has the same eight, and theirs settle a differen
 | Gather Resources | **Protector** — safety you can hand over rather than promise. **Damaged Self** — weight off, and nobody has to account for it |
 | Skillful Organizing | **Controller** — their standard met without them holding every piece of it themselves |
 | Direct Action | **Protector** — your body between them and whatever is coming. **Fixer/Healer** — the repair they chose, finished |
-| Raise Awareness | **Skeptic** — the doubt spoken out loud before anybody spends. **Emotional Body** — witness, which is a domain doing a gate's job exactly |
+| Raise Awareness | **Skeptic** — the doubt spoken out loud before anybody spends. **Emotional Body** — witness, which is a domain doing a daemon's job exactly |
 
-Eight gates across four domains makes thirty-two cells, and thirty-two cells is homework rather than a grammar. Three worked pairs carry the method:
+Eight daemons across four domains makes thirty-two cells, and thirty-two cells is homework rather than a grammar. Three worked pairs carry the method:
 
 **Protector × Gather Resources.** Rent, a working lock, a place to sleep that nobody can take back. A Protector never trusted sincerity and never will; it trusts a threat that got smaller. Material safety is the only argument in the language it speaks.
 
@@ -179,7 +179,7 @@ Eight gates across four domains makes thirty-two cells, and thirty-two cells is 
 
 **Damaged Self × Gather Resources.** Take load off, in a form that spares them describing the load. Same domain, same person, a different guard, and a completely different move, which is the whole reason this axis exists.
 
-These pairs are starting defaults, exactly as the affinities above are. Any domain can serve any gate, and a Controller met in Direct Action is an ordinary Tuesday.
+These pairs are starting defaults, exactly as the affinities above are. Any domain can serve any daemon, and a Controller met in Direct Action is an ordinary Tuesday.
 
 ---
 
