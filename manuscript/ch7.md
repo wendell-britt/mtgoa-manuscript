@@ -267,15 +267,15 @@ The Bridge-Builder's secondary Translate addresses the Diplomat's specific vulne
 
 Call it optimism if you want. The discipline extends to the present the same hypothesis you already extend to strangers on the street. The rejection-sensitivity supplies the raw material; the Translate converts it into the willingness to risk contact.
 
-**[CONTROL] Control 1 — Untracked Depletion Pattern**
+**Control — Untracked Depletion**
 
-The Bridge-Builder's Control challenge runs on depletion: the person who over-bridges, who connects past their capacity, who treats every bridge as urgent and every connection as required. The Neutral Channel pattern is **untracked depletion**: you bridge and bridge and never notice how much it costs until you are empty.
+The Bridge-Builder can over-bridge: treating every connection as urgent and every request as required. The pattern is **untracked depletion**: you bridge and bridge and never notice how much it costs until you are empty.
 
 The Control move: build the bridge → check the fuel gauge before crossing. *Do I have capacity for this contact? Am I bridging because the field needs me, or because I can't say no to the request?* This fixes structure, not emotion. Bridging has a real cost, and the Control move names that cost before warmth turns into depletion.
 
-**[CONTROL] Control 2 — Performative Presence**
+**Control — Performative Presence**
 
-The Bridge-Builder's second Control addresses the habit of performing warmth instead of generating it. The Neutral Channel pattern here is **performative presence**: always smiling, always reaching, always making contact, never arriving, because you spend it all managing how you come across.
+The Bridge-Builder can perform warmth instead of generating it. The pattern is **performative presence**: always smiling, always reaching, always making contact, never arriving, because you spend it all managing how you come across.
 
 The Control move: ground the performance in actual feeling. *What is the actual quality of my presence right now? Am I generating warmth or just distributing it?* The correction redirects from output to internal state, so that something real builds the bridge instead of the bridge being abandoned.
 
@@ -334,9 +334,9 @@ The Translate layer forms the operational core of the mode: you take the meaning
 
 **Wood → Fire: Joy translated into invitation.** When a camp holds its meaning celebratory, expansive, full of possibility, the Translate move carries it forward into the channel where it becomes a call. The joy becomes an invitation: "come and see what is possible." The translation takes what is good and makes it available.
 
-**[CONTROL] — Neutral Channel: Intellectual Superiority Pattern**
+**Control — Intellectual Superiority**
 
-The Neutral Channel pattern here is **intellectual superiority**: the behavioral pattern of using your fluency in multiple frameworks as a way to position yourself above the parties you translate between. "I see what you don't see about yourselves." The Control move redirects this pattern into neutral structure:
+The Translator's control problem is **intellectual superiority**: using your fluency in multiple frameworks to position yourself above the parties you translate between. "I see what you don't see about yourselves." The Control move redirects this pattern into a verification practice:
 
 **The structure of the Interpreter's Discipline:** You build a practice of checking your interpretation against the source. You develop a method: after translating, you return to the original speaker and ask: "did I get this right?" Not as performance, but as real correction. The superiority pattern dissolves into a discipline that actually improves your translations. The charge that contaminated your work becomes the structure that makes your work trustworthy.
 
@@ -374,9 +374,9 @@ The alchemy: *I stop protecting the field and start building one that can take w
 
 **Water → Wood: Sadness translated into forward motion.** When a field sits stuck in sadness (slow, heavy, collapsed) the Translate move carries that energy forward into possibility. The field has been hurt. It needs to grieve. It also needs to know it can still move. The Translate move carries the depth of the sadness into the channel where something new can begin to grow.
 
-**[CONTROL] — Neutral Channel: Presence Collapse Pattern**
+**Control — Presence Collapse**
 
-The Neutral Channel pattern here is **presence collapse**, the behavioral pattern of disappearing from the field the moment it becomes charged. The Field-Holder who has not done their internal work shows up for every calm conversation and vanishes from every difficult one. The Control move redirects this pattern into structure:
+The Field-Holder's control problem is **presence collapse**: disappearing from the field the moment it becomes charged. The Field-Holder who has not done their internal work shows up for every calm conversation and vanishes from every difficult one. The Control move redirects this pattern into structure:
 
 **The structure of the Precedent of Presence:** You establish, in advance, a commitment to remaining in the field when it becomes charged. You decided on it; nothing obliged you. The commitment is the structure. You tell the field in advance: *I don't leave when it gets hard. I practice that rather than declare it.* The collapse pattern dissolves into a personal precedent that the field can depend on. You have made yourself a reliable structure because you decided in advance, before the charge arrived.
 
@@ -412,9 +412,9 @@ The alchemy: *I stop skipping the wound and start sitting in it.* Real repair re
 
 **Earth → Fire: Structure translated into warmth.** When the repair has been negotiated (the terms agreed, the path forward established) the Translate move is to bring warmth back to the structure. The field now has a shape, a format, an agreement. Agreements are cold things. The Translate move carries the heat of real reconnection into the structure, so that the repair is not just formal but real.
 
-**[CONTROL] — Neutral Channel: Premature Closure Pattern**
+**Control — Premature Closure**
 
-The Neutral Channel pattern here is **premature closure**: the behavioral pattern of rushing to close the wound before it has been understood. The Repairer who has not done this work wants to finish the repair before the other person has finished with the damage. They close before they have opened. They move on before they have arrived.
+The Repairer's control problem is **premature closure**: rushing to close the wound before it has been understood. The Repairer who has not done this work wants to finish the repair before the other person has finished with the damage. They close before they have opened. They move on before they have arrived.
 
 **The structure of the Three-Part Repair:** You build a practice of repair that does not skip: (1) **Witness:** the full accounting of what happened, without defense or justification. (2) **Impact:** the honest naming of what the rupture cost, for both parties. (3) **Agreement:** what each person commits to doing differently, not as a performance of remorse but as a real change in behavior. The premature closure pattern dissolves into a structure that actually allows the wound to heal before it is closed.
 
@@ -456,15 +456,15 @@ The alchemy: *I ask what each position is guarding, not just what it says.* Posi
 
 **Earth → Fire: Vague agreement translated into committed close.** When a field has done the listening work and arrived at something that sounds aligned but isn't yet specific, the Translate move carries the structure forward into commitment. *What are we actually agreeing to? By when? Who does what?* The Integrative Negotiator does not leave the field in principled ambiguity. The Diplomat's altitude loves process. This channel loves a close.
 
-**[CONTROL] — Neutral Channel: Endless Process Pattern**
+**Control — Endless Process**
 
-The Neutral Channel pattern here is **endless process**, the behavioral habit of extending conversation past the point where more listening will help. One more round. One more check-in. One more chance for everyone to feel heard, as if hearing were the destination instead of the precondition.
+The Integrative Negotiator's control problem is **endless process**: extending conversation past the point where more listening will help. One more round. One more check-in. One more chance for everyone to feel heard, as if hearing were the destination instead of the precondition.
 
 **The structure of the Stake-Surfacing Close:** You work the sequence without skipping: (1) **Protect:** what is each party afraid of losing? Name the interest, not the slogan. (2) **Require:** what must the agreement hold for staying to remain real? Name it for the field, not just for yourself. (3) **Commit:** what are we agreeing to, specifically, before anyone leaves? The endless process pattern dissolves into a structure that honors inclusion *and* produces movement.
 
 The hard part is the close: it takes more courage than extending. The field will push for one more round. The Integrative Negotiator knows when the round has become avoidance.
 
-**[CONTROL] — Neutral Channel: False Closure Pattern**
+**Control — False Closure**
 
 The second Control pattern is **false closure**, the agreement that sounds resolved but wasn't. *Great, we're aligned* spoken over interests that were never surfaced. Or: every position given equal weight in the final terms when some positions rest on premises the field cannot actually hold.
 

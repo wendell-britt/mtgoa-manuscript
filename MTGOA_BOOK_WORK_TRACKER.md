@@ -18,8 +18,10 @@ passes. The remaining Chapter 3 warnings predate this change.
 **Chapter 7 bridge.** Section 4 now calls the Diplomat's five reader-facing units modes, not
 channels, and routes the channel teaching back to Chapter 3. It defines Alchemy, Translate, and
 Control as three kinds of practice without inventing a second set of channels. The individual
-Control entries remain a later, context-level cleanup. Chapter 7's two review blockers and seven
-warnings predate this bridge; reader-run scan reports 0 candidates.
+Control entries now carry mode-specific Control headings and openings; they no longer claim to
+be Neutrality patterns. Sixteen legacy Alchemy and Translate bracket tags remain for the next
+cleanup pass. Chapter 7's two review blockers and seven warnings predate this bridge; reader-run
+scan reports 0 candidates.
 
 ---
 
