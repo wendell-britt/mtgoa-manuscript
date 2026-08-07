@@ -63,7 +63,7 @@
 
 This chapter runs longest in the book, and you deserve to know why before you start it.
 
-Every chapter after this one calls back to something taught here. The Challenger uses the read to know which line to draw. The Regent uses it to tell an inheritance worth keeping from one that only feels familiar. The Architect, the Diplomat, the Sage: all of them run the same instrument, and you build it here.
+Every chapter after this one calls back to something taught here. The Challenger uses what the Shaman notices to know which line to draw. The Regent uses it to tell an inheritance worth keeping from one that only feels familiar. The Architect, the Diplomat, the Sage: all of them run the same instrument, and you build it here.
 
 So Chapter 3 does two jobs. It serves as the Shaman's chapter and as the toolkit for the five faces that follow. It comes in two halves: the practice first, then the part of you that keeps you from using it. A marked stopping place sits between them, halfway down. Take it if you need it.
 
@@ -640,19 +640,19 @@ Use 3-2-1 when the trigger is a *person*. Use the Polarity Map when you're stuck
 
 ### Draw the Axis — Feeling ↔ Function
 
-The draw wants a read you already had, and specifically the most recent one that never left your body.
+The draw wants the most recent thing you noticed that never left your body.
 
 **Try this now.**
 
-1. Name one moment in the last month when you read a situation
-   accurately and said nothing. (One sentence.)
+1. Name one moment in the last month when you noticed something important
+   about a situation and said nothing. (One sentence.)
 
 2. Draw the axis:
 
    **FEELING** ←——●——→ **FUNCTION**
 
    Mark where you actually sat in that moment.
-   Not where the read deserved to sit.
+   Not where that observation needed to go.
 
 3. Write one integrated sentence that holds both poles at once:
    *"I felt __________ and I kept it because __________,
@@ -766,7 +766,7 @@ The one described above enforces a generic rulebook. Yours enforces a specific o
 
 ### What You Take Out of the Forest
 
-The Controller developed does one thing nothing else in this chapter can do: it admits a feeling onto the field and holds you to a line in the same motion. Those two rarely travel together. A person who has loosened the standard enough to feel everything has usually loosened it enough to owe nothing, and a person with a standard they never break has usually kept it by ruling out most of what they feel. The Shaman's move needs both at once: the read let all the way in, and something in you that will not let you leave the table with it unsaid.
+The Controller developed does one thing nothing else in this chapter can do: it admits a feeling onto the field and holds you to a line in the same motion. Those two rarely travel together. A person who has loosened the standard enough to feel everything has usually loosened it enough to owe nothing, and a person with a standard they never break has usually kept it by ruling out most of what they feel. The Shaman's move needs both at once: what you noticed allowed all the way in, and something in you that will not let you leave the table with it unsaid.
 
 That is what the Alchemist runs on. You cannot burn a charge you never let yourself have, and you will not spend one while the fear is still live unless some part of you enforces a rule you set on a clearer day. The woman at the council had both. The verdict fired (*you don't have the standing*), and it fired against a rule she had already made about what she does when the true thing sits in her chest and the fields are dying. The rule won. That is the mechanism: a referee doing its job rather than a feeling that finally got loud enough.
 

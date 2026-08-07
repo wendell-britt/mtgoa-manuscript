@@ -210,6 +210,9 @@ object.
 a move from an observation. The closing handoff keeps active reading language only where it names
 an actual target, while the Shaman's contribution is noticing and testing a pattern.
 
+**Chapter 3 read audit, card prompt and cross-chapter setup.** The final floating noun uses now
+name an observation, a specific thing noticed, or the Shaman's contribution to the next Face.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
