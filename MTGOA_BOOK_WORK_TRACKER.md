@@ -240,6 +240,10 @@ and makes the response from others part of the practice.
 **Chapter 3 Show Up consistency repair.** The Shaman/Challenger contrast now uses the same
 provisional observation standard as the Show Up move itself.
 
+**Chapter 3 five-move summary alignment.** The overview and closing summary now match the
+revised practices: provisional noticing, WAVE, testable group patterns, concrete capability, and
+an observation other people can answer.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction

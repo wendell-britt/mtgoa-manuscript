@@ -781,7 +781,7 @@ You know what emotional alchemy is. You have run the five stages. You have met t
 
 Winning at the Shaman's altitude is smaller than you want it to be: one true sentence, said to a person who can hear it, while it is still live. That is the whole win. Insight does not count. A more accurate model of the group than anyone else has does not count. One sentence counts: the one that left your body, entered the situation, and changed what was possible inside it. The woman at the council did not bring the elders a framework. She brought them four sentences she had been holding for three seasons, said to the one face that could act on them.
 
-Everything in Section 4 was the instrument. These five are what you do with it when other people are present and the clock is running. They follow the Five-Move Form: catch the signal, let it up, name the channel, find what it grew, spend it. Section 4 taught you to run the Form alone. These five show what it costs to run it where somebody is watching.
+Everything in Section 4 was the instrument. These five are what you do with it when other people are present and the clock is running. Section 4 taught you to run the Form alone. These five show what it costs to run the Form where somebody is watching. They follow the Five-Move Form in public: notice what changes your attention, stay with your response, name a pattern the group can test, identify what you can do next, and say the observation the discussion leaves out.
 
 ---
 
@@ -853,7 +853,7 @@ In practice: say one sentence you can stand behind; do not turn it into a brief.
 
 ---
 
-That is the Shaman's game. Five moves. Catch it before the story rewrites it. Turn the dial up instead of down. Name the channel out loud. Say what you can do now. Say what is going unsaid. Every one of them takes something accurate and private and makes it public and useful, the only transaction this Face performs.
+That is the Shaman's game. Five moves. Notice before a story closes around the situation. Use WAVE before your response hardens. Name a pattern the group can test. Name what you can do next. Say the observation the discussion leaves out. Each move takes something private and makes it available for other people to answer.
 
 The moves are what you do. The next question is where.
 
