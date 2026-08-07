@@ -179,7 +179,12 @@ performing it, declaring the work finished, or looking away from remaining harm.
 
 **Open Up overclaim replaced.** The burnout and empathy diagnosis has been replaced with a
 bounded explanation of why opening can feel risky. WAVE now gives the reader the concrete scale:
-make room for one response, name it, and decide whether it belongs in the moment.
+notice one response, name it, and decide whether it belongs in the moment.
+
+**Chapter 3 recap rebuilt.** The catalogue recap has been replaced with a three-paragraph
+handoff: notice the response, use WAVE and the Form to choose a move, make the response available
+to others, then meet the Challenger's question of holding a line. The Alchemist close and
+character-sheet prompt remain in place.
 
 ---
 
