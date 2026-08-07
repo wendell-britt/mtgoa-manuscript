@@ -202,7 +202,7 @@ One part of this belongs specifically to this reader, and it explains why the ax
 ---
 
 ## Section 4: The Practice
-### *The Five Channels — How the Diplomat Actually Works*
+### *The Five Modes — How the Diplomat Actually Works*
 
 *Emotional alchemy vocabulary: every move below carries a type label. **Dissatisfaction moves** alchemize a negative charge into a positive one. **Neutral channel moves** redirect a negative pattern into a neutral structure. **Satisfaction moves** amplify what is already working. If these terms are unfamiliar, Chapter 3 (The Shaman) has the full system.*
 
@@ -248,7 +248,7 @@ Section 4 works each mode's full arc through in its five deep-dives, the dissati
 
 ---
 
-### Channel 1 — Bridge-Builder
+### Mode 1 — Bridge-Builder
 
 The Bridge-Builder is the Diplomat's entry point: the mode through which contact happens, curiosity replaces judgment, and the field allows a new presence to enter. It is the Diplomat's most fundamental skill and the one most easily distorted.
 
@@ -298,7 +298,7 @@ The Control move: ground the performance in actual feeling. *What is the actual 
 
 ---
 
-### Channel 2 — Translator
+### Mode 2 — Translator
 
 The Translator is the Diplomat's most cognitively demanding mode: the work of taking meaning from one camp and rendering it faithfully into terms another camp can actually receive. It requires the Translator to hold their own position lightly enough to truly hear what the other says, and to transmit it without contaminating it with their own biases.
 
@@ -363,7 +363,7 @@ Precision costs here: the containment structure takes extra effort, and it pays 
 
 ---
 
-### Channel 3 — Field-Holder
+### Mode 3 — Field-Holder
 
 The Field-Holder demands more sheer presence than any other Diplomat mode. The work is maintaining enough safety that difficult conversation remains possible, even when charge runs high, even when the ground shifts, even when everyone present wants to fight, flee, or freeze.
 
@@ -403,7 +403,7 @@ Staying spends real capacity. Naming that cost belongs to the holding, because u
 
 ---
 
-### Channel 4 — Repairer
+### Mode 4 — Repairer
 
 The Repairer is the Diplomat's deepest mode: the work of healing ruptures that have already occurred, restoring what was broken without pretending the break didn't happen. Unlike the Field-Holder who maintains safety, the Repairer rebuilds it after it has been lost.
 
@@ -441,7 +441,7 @@ The cost here is time. Real repair takes longer than performance repair, and tha
 
 ---
 
-### Channel 5 — Integrative Negotiator
+### Mode 5 — Integrative Negotiator
 
 The Integrative Negotiator is the Diplomat's closing mode, the Fire/Anger application at the Diplomat's altitude. The Challenger's line in the sand does different work, and so does the Regent's decree. This mode surfaces what each party protects, translates positions into interests, and closes toward terms the field can actually live with. Bridge, translate, hold, repair, and then **negotiate**. Heard *and* something moves.
 
