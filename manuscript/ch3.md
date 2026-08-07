@@ -839,17 +839,17 @@ In practice: say the capability in ordinary language. *I can tell when a plan is
 
 ### Move 5 · Show Up — Say What Is Going Unsaid
 
-**What it is:** You say what moves underneath the stated discussion to the people it concerns while it is live.
+**What it is:** Say one observation that the stated discussion leaves out, to people who can answer it, while the situation is still live.
 
-**Why it matters:** This is the Shaman's steepest move, the one the entire chapter exists to make possible. Every conversation has a stated content and an actual one. The stated content is the agenda item, the disagreement, the plan. The actual one is what the people in it do to each other and with each other, and it drives the outcome regardless of whether anybody names it.
+**Why it matters:** A group can spend an entire meeting on the agenda while another dynamic changes what people can say or decide. Naming that dynamic does not establish the truth. It gives the group a chance to respond before the discussion moves on.
 
 The Challenger has a move that looks like this from the outside and is a different animal. *Name the Unnameable* points at a violation: something happened, everyone saw it, nobody stated it, and stating it draws a line. This one points at what runs underneath, which may involve no violation at all. The Challenger names what is unacceptable. The Shaman names what is true. One of them creates a boundary. The other creates contact.
 
-In practice: the sentence is shorter than you want it to be. What you notice usually fits in one clause. What extends it: the case you build so that nobody can argue with you, and the case is where what you noticed goes to die, because a case invites a rebuttal and what you noticed invites a response. Say the clause. Stop talking.
+In practice: say one sentence you can stand behind; do not turn it into a brief. *We keep returning to scope, and Nadia has not been able to enter this discussion.* Then stop and hear what comes back.
 
-**Example:** Two colleagues have restated the same scoping position four times. Nadia has said nothing for forty minutes. She did not come up through the graduate scheme and everyone else did, and the shorthand on the call belongs to the scheme. Say what is going unsaid: *I think we are three layers into a vocabulary and one of us has been outside it since the start.* One sentence, and nothing about who is right. It costs you with the two who were arguing, because you have told them their shorthand is a wall. The question resolves in four minutes, and Nadia joins it.
+**Example:** Two colleagues have restated the same scoping position four times. Nadia has said nothing for forty minutes. She did not come up through the graduate scheme and everyone else did; the shorthand on the call belongs to the scheme. Say: *I think we are three layers into a vocabulary and one of us has been outside it since the start.* The two colleagues can disagree. Nadia can add what you missed. The question can finally become answerable.
 
-**The test:** You said what you actually noticed, and you said it while it was still live. What the conversation did afterward belongs to the conversation. A true thing said an hour late is a different move.
+**The test:** You said an observation you can own while the situation was live, then stayed for the response.
 
 ---
 

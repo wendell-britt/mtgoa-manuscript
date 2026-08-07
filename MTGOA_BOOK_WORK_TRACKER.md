@@ -233,6 +233,10 @@ than claiming authority to identify what the field is running.
 in the situation. It drops the equipment and nervous-system framing, keeps the claim provisional,
 and lets the affected person correct it.
 
+**Chapter 3 Show Up revision.** The move now offers an observation that people in the situation
+can answer, rather than a claim to hidden truth. The example retains the specific access barrier
+and makes the response from others part of the practice.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
