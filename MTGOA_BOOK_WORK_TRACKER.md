@@ -309,6 +309,26 @@ retention under pressure. Full regression:
 
 ---
 
+## Session — 2026-08-07 · SIM-008 applied P-08 whole-book regression
+
+**Applied-surface desk regression passes.** P-08, the authority-holder buyer
+persona, now encounters the advice-versus-authority distinction in Ch3 before
+the live vendor decision closes. He must name which decisions are open, give
+affected people defined power and the means to exercise it, or plainly own a
+closed leadership decision. Ch6 and Ch9 reinforce that handoff means the ability
+to change the design; Ch7 prevents a rejected charter from becoming a claim on
+participants' access or reassurance.
+
+**Result:** P-08 reaches a materially accountable post-book action: a public
+decision-rights map, compensated and accessible participation, a pause or
+scope-change route, and a written response to recommendations or refusals.
+The earlier authority-transfer timing risk is closed at the desk-simulation
+layer. Human-reader calibration under institutional pressure remains v2 work.
+Full regression:
+`editorial_reports/2026-08-07/SIM_008_APPLIED_P08_WHOLE_BOOK_REGRESSION_2026-08-07.md`.
+
+---
+
 ## Session — 2026-08-03 · Jordan arc, Chapters 7–9
 
 **Approved and applied.** Nine review-approved replacements across Diplomat,
