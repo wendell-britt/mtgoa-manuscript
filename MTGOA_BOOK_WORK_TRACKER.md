@@ -15,6 +15,12 @@ structural control practice inside another Diplomat mode.
 **Verification.** `marginalia/review.py manuscript/ch3.md` reports BLOCK 0; `git diff --check`
 passes. The remaining Chapter 3 warnings predate this change.
 
+**Chapter 7 bridge.** Section 4 now calls the Diplomat's five reader-facing units modes, not
+channels, and routes the channel teaching back to Chapter 3. It defines Alchemy, Translate, and
+Control as three kinds of practice without inventing a second set of channels. The individual
+Control entries remain a later, context-level cleanup. Chapter 7's two review blockers and seven
+warnings predate this bridge; reader-run scan reports 0 candidates.
+
 ---
 
 ## Session — 2026-08-04 · Ch2 reader-run application

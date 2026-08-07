@@ -199,9 +199,11 @@ One part of this belongs specifically to this reader, and it explains why the ax
 ---
 
 ## Section 4: The Practice
-### *The Five Channels — How the Diplomat Actually Works*
+### *The Five Modes — How the Diplomat Actually Works*
 
-*Emotional alchemy vocabulary: every move below carries a type label. **Dissatisfaction moves** alchemize a negative charge into a positive one. **Neutral channel moves** redirect a negative pattern into a neutral structure. **Satisfaction moves** amplify what is already working. If these terms are unfamiliar, Chapter 3 (The Shaman) has the full system.*
+Every Diplomat mode has its own emotional-alchemy alignment. The Alchemy practices work with a dissatisfied state and the capability it can become. Translate practices carry meaning between registers. Control practices keep a mode from overreaching or substituting procedure for contact.
+
+The five channels are introduced in Chapter 3. The Control practices below are not additional channels; they name the specific ways a Diplomat mode can keep its work from becoming distorted.
 
 ---
 
