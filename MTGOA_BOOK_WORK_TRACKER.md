@@ -202,6 +202,10 @@ pressure is stated as the questions that discourage the reader from trusting wha
 an objection, an observation, or what the reader noticed in a particular situation. Uses where a
 person actively reads a named target remain intact.
 
+**Chapter 3 read audit, Five-Move teaching.** The game moves now direct the reader to what they
+notice in a situation and what they say from it, rather than treating “the read” as a transferable
+object.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction

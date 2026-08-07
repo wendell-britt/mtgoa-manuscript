@@ -791,7 +791,7 @@ Everything in Section 4 was the instrument. These five are what you do with it w
 
 **Why it matters:** A feeling arrives with about a second of clean data attached to it. The story comes next: who did what, what it says about them, what it says about you, whether you are allowed to be having this at all. The story arrives so fast that it feels like the same event. It is not. It is a second thing built on top of the first, and by the time you are working with it, you are no longer reading the situation. You are reading your explanation of the situation, a document you wrote.
 
-The Shaman's read is the data, not the document. Everything downstream (the channel you name, the sentence you say, the domain you spend it in) is only as good as what you caught before the narration started.
+What you notice before the narration starts is the data, not the document. Everything downstream (the channel you name, the sentence you say, the domain you spend it in) is only as good as what you caught before the narration started.
 
 In practice: the marker arrives in the body, because the body registers before the account exists. Heat in the chest, a drop in the stomach, the jaw. When you notice one, do not ask what it means. Ask where it is and what it is doing. Meaning keeps; it will still be there later. The raw signal will not.
 
@@ -803,7 +803,7 @@ In practice: the marker arrives in the body, because the body registers before t
 
 **What it is:** In the second you would normally compose yourself, turn the sensitivity up instead. Six seconds is enough.
 
-**Why it matters:** You cannot affect what you cannot feel, and the dial in your hand only ever moved one direction. A reading taken at that setting arrives a beat after the moment it was for. Turn it up and you find what the low setting was covering. A part of you is getting something out of the very dynamic you say you want to end. The charge of being the good one. The relief when the conversation stays comfortable. That part steers better in the dark, and the low setting is the dark.
+**Why it matters:** You cannot affect what you cannot feel, and the dial in your hand only ever moved one direction. At that setting, you arrive a beat after the moment it was for. Turn it up and you find what the low setting was covering. A part of you is getting something out of the very dynamic you say you want to end. The charge of being the good one. The relief when the conversation stays comfortable. That part steers better in the dark, and the low setting is the dark.
 
 In practice: the marker is the urge to sit up straight and sound reasonable. That urge is your hand on the dial, moving it down. Leave it where it is. Count six seconds and let the situation reach you at full strength, including the part of it you would rather not have found.
 
@@ -827,11 +827,11 @@ In practice: use the channel word, not the euphemism. *Anger* rather than *frust
 
 ### Move 4 · Grow Up — Say What You Can Do Now
 
-**What it is:** After the read lands, name the capability it left behind. One sentence, present tense.
+**What it is:** After you notice something, name the capability it left behind. One sentence, present tense.
 
-**Why it matters:** A read you understand and then set down leaves you where you started with better vocabulary. This stage converts information into equipment. Fear that showed you what matters becomes a value you hold rather than one you argue for. Anger that showed you a line becomes a line you are allowed to have. The feeling stops being something that happened to you and becomes something you own.
+**Why it matters:** Something you understand and then set down leaves you where you started with better vocabulary. This stage converts information into equipment. Fear that showed you what matters becomes a value you hold rather than one you argue for. Anger that showed you a line becomes a line you are allowed to have. The feeling stops being something that happened to you and becomes something you own.
 
-In practice: say it to your own nervous system, plainly, in the seconds after the read. *I get it. The message landed.* Then finish the sentence with the equipment. *I can tell when a plan is being agreed to and not believed.* *I can hold a hard look without going away.*
+In practice: say it to your own nervous system, plainly, in the seconds after you notice it. *I get it. The message landed.* Then finish the sentence with the equipment. *I can tell when a plan is being agreed to and not believed.* *I can hold a hard look without going away.*
 
 **Example:** You noticed months ago that Jo is not disorganised, and that the week costs her something it does not cost anyone else. Neither of you has a word for it. You were right, and being right bought her nothing. Say what you can do now, to her, once: *I can tell the difference between someone struggling and a schedule that is expensive for one person. I am going to say so before I can prove it.* If you have misread it, she watches you misread it. What she does with it is hers, including nothing.
 
@@ -839,17 +839,17 @@ In practice: say it to your own nervous system, plainly, in the seconds after th
 
 ### Move 5 · Show Up — Say What Is Going Unsaid
 
-**What it is:** You say the read, what moves underneath the stated discussion, to the people it concerns, while it is live.
+**What it is:** You say what moves underneath the stated discussion to the people it concerns while it is live.
 
 **Why it matters:** This is the Shaman's steepest move, the one the entire chapter exists to make possible. Every conversation has a stated content and an actual one. The stated content is the agenda item, the disagreement, the plan. The actual one is what the people in it do to each other and with each other, and it drives the outcome regardless of whether anybody names it.
 
 The Challenger has a move that looks like this from the outside and is a different animal. *Name the Unnameable* points at a violation: something happened, everyone saw it, nobody stated it, and stating it draws a line. This one points at what runs underneath, which may involve no violation at all. The Challenger names what is unacceptable. The Shaman names what is true. One of them creates a boundary. The other creates contact.
 
-In practice: the sentence is shorter than you want it to be. A read usually runs one clause long. What extends it: the case you build so that nobody can argue with you, and the case is where the read goes to die, because a case invites a rebuttal and a read invites a response. Say the clause. Stop talking.
+In practice: the sentence is shorter than you want it to be. What you notice usually fits in one clause. What extends it: the case you build so that nobody can argue with you, and the case is where what you noticed goes to die, because a case invites a rebuttal and what you noticed invites a response. Say the clause. Stop talking.
 
 **Example:** Two colleagues have restated the same scoping position four times. Nadia has said nothing for forty minutes. She did not come up through the graduate scheme and everyone else did, and the shorthand on the call belongs to the scheme. Say what is going unsaid: *I think we are three layers into a vocabulary and one of us has been outside it since the start.* One sentence, and nothing about who is right. It costs you with the two who were arguing, because you have told them their shorthand is a wall. The question resolves in four minutes, and Nadia joins it.
 
-**The test:** You said the read you actually had, and you said it while it was still live. What the conversation did afterward belongs to the conversation. A true thing said an hour late is a different move.
+**The test:** You said what you actually noticed, and you said it while it was still live. What the conversation did afterward belongs to the conversation. A true thing said an hour late is a different move.
 
 ---
 
