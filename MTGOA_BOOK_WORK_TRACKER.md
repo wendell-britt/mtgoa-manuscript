@@ -227,6 +227,23 @@ for “thing”; the new Ch3 prose introduced none. The applied safe-edit script
 
 ---
 
+## Session — 2026-08-06 · SIM-005, applied Ch3 authority regression
+
+**Applied-surface desk regression passes; no canonical prose changed.** P-04,
+P-08, and P-07 were rerun against the actual Ch3 materiality-and-honesty fork.
+P-04 produces bounded participant authority over advance payment, proof, and
+pilot launch; P-08 must either transfer material vendor/access authority or
+publish the vendor decision as leadership-owned; P-07 remains limited to a
+refusal-safe resource offer.
+
+**Closure:** the relational-placement, materiality, and honesty failure chain
+is closed for the tested authority patterns at the desk-simulation layer. The
+remaining validation is post-ship v2 human-reader calibration of retention and
+behavior under pressure. Full regression:
+`editorial_reports/2026-08-06/SIM_005_APPLIED_CH3_MATERIALITY_HONESTY_REGRESSION_2026-08-06.md`.
+
+---
+
 ## Session — 2026-08-03 · Jordan arc, Chapters 7–9
 
 **Approved and applied.** Nine review-approved replacements across Diplomat,
