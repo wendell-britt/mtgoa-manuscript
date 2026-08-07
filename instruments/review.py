@@ -50,12 +50,12 @@ apply to a draft, which is the point: **run them before it lands, not after.**
 generation rather than when somebody remembers. The skill carries the fixes that work per
 finding and the rule on registers; this file carries the sequence.
 """
-import io, os, re, sys, subprocess
+import io, os, re, glob, sys, subprocess
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, os.pardir)
 sys.path.insert(0, HERE)
-from gate import COUNTERS
+from gate import COUNTERS, exempt_spans
 
 
 def run(cmd):
@@ -107,9 +107,18 @@ def draft(paths):
                 print("        %s" % l.strip()[:96])
         bad += nblock
 
+        # `exempt_spans` was missing here until 2026-08-05. Draft mode imported COUNTERS
+        # and applied them raw, so every exemption Wendell has ruled stayed invisible on
+        # this path while `gate.py` honoured it -- running review.py on Appendix G
+        # reported `banned rooms`, which he ruled keepable on 2026-07-30 ("we can leave
+        # rooms in this example. It's not load bearing"). A draft check that re-reports a
+        # settled ruling invites the next pass to "fix" prose the author kept.
         hits = []
         for name, pat, flags in COUNTERS:
+            skip = exempt_spans(text, name)
             for m in re.finditer(pat, text, flags):
+                if any(a <= m.start() < b for a, b in skip):
+                    continue
                 hits.append((name, " ".join(m.group(0).split())[:60]))
         if hits:
             bad += len(hits)
@@ -151,6 +160,16 @@ def draft(paths):
 def book():
     steps = [
         ("0 voice     ", ["marginalia/review.py"], None),
+        # The voice linter defaults to manuscript/ and the step above called it with no
+        # arguments, so from the day it was added it read the nine chapters and NOTHING
+        # ELSE. `gate.py` covers four surfaces -- body, marginalia, appendices, matter --
+        # and this covered one. Measured 2026-08-05: four BLOCK findings were sitting in
+        # shipping appendices unseen (Appendix C 1, Appendix E 2, Appendix G 1), and the
+        # glossary, the index and Appendix H had never been read by it at all.
+        #
+        # Denying negations, vague nouns and the AI shapes are exactly the defects a
+        # reference page accumulates, because nobody reads an appendix aloud.
+        ("0b voice apx", ["instruments/voice_surfaces.py", "--quiet"], None),
         ("1 gate      ", ["instruments/gate.py"], "GATE PASS"),
         ("2 diet      ", ["instruments/prose_diet.py"], None),
         ("3 em-dash   ", ["instruments/emdash.py"], "within budget"),
@@ -166,10 +185,21 @@ def book():
     bad = 0
     for label, cmd, want in steps:
         code, out = run(cmd)
-        tail = [l for l in out.strip().split("\n") if l.strip()][-1][:66]
+        # A step that prints nothing used to crash this line with IndexError, which is
+        # how wiring `voice_surfaces.py --quiet` in as step 0b took the whole book-wide
+        # pass down the moment its findings reached zero. A quiet success is the normal
+        # case for a check; the runner must survive it.
+        lines = [l for l in out.strip().split("\n") if l.strip()]
+        tail = lines[-1][:66] if lines else "clean"
         # marginalia/review.py exits 1 on a BLOCK finding, which is a candidate to
         # adjudicate rather than a build failure, so it reports rather than fails.
-        ok = (want in out) if want else (code == 0 or "review.py" in cmd[0])
+        # `or "review.py" in cmd[0]` exists because marginalia/review.py exits 1 on a
+        # BLOCK, which is a candidate to adjudicate rather than a build failure. It also
+        # swallowed real breakage: the first wiring of step 0b passed multiple paths to a
+        # linter that takes one, and the step printed `ok` above the words "error:
+        # unrecognized arguments". A step that cannot fail is DL-35 again.
+        broke = "error:" in out or "Traceback" in out
+        ok = (want in out) if want else (not broke and (code == 0 or "review.py" in cmd[0]))
         # DIET IS A SPECIAL CASE, and it was silently broken until 2026-08-02.
         #
         # prose_diet.py exits 0 whatever it finds — heaviness is a candidate, not a build
@@ -190,6 +220,27 @@ def book():
                                     "within baseline"))
             for l in heavy:
                 print("               HEAVY %s" % l)
+            continue
+        # VOICE IS THE SAME SPECIAL CASE AS DIET, found 2026-08-07 and the third time
+        # this exact shape has shipped.
+        #
+        # `marginalia/review.py` deliberately does not fail the build -- a BLOCK is a
+        # candidate to adjudicate, which is why `"review.py" in cmd[0]` forces ok above.
+        # But it ends its output with a four-line explainer ("Vague nouns pass only if
+        # the noun is named within two sentences."), so `lines[-1]` printed THAT as the
+        # summary and the real one, `BLOCK 14  WARN 125  INFO 167`, never reached the
+        # board. Measured at 399e63c, before the pdf/epub merge: the chapters carried
+        # **13 BLOCK** while this step printed `ok` over them.
+        #
+        # Not failing is the ruling and it stands. Showing `ok` and hiding the count is
+        # not the ruling -- it is the diet bug wearing a different linter. Report the
+        # number, keep the step non-fatal.
+        if label.startswith("0 voice"):
+            m = re.search(r"BLOCK (\d+)\s+WARN (\d+)", out)
+            nb, nw = (int(m.group(1)), int(m.group(2))) if m else (0, 0)
+            print("  %s %-4s %s" % (label, "ok" if not nb else "LOOK",
+                                    "clean" if not m else
+                                    "%d BLOCK  %d WARN — adjudicate, does not gate" % (nb, nw)))
             continue
         bad += 0 if ok else 1
         print("  %s %-4s %s" % (label, "ok" if ok else "LOOK", tail))

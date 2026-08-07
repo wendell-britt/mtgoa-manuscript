@@ -154,16 +154,41 @@ what the Jerk archetype forbids. That pattern needs R1 or R2, never R8.
 
 ## Held for Wendell, not ruled
 
+> **Item 1 CLOSED 2026-08-03 — RULED KEEP (DL-39).** The sentence ships as written, on
+> register grounds: it closes the book on one figure addressing one figure, and the plural
+> is a different last beat rather than a cleaner version of the same one. With DL-38 this
+> closes the village question entirely — every site in the book is now converted, ruled
+> keep, or ruled out of scope.
+>
+> **Original note, 2026-08-03.** Its twin — the `ch9:672` section heading — is
+> **RULED KEEP**, along with all 16 village headings in the manuscript. Headings are
+> display type and are now out of scope for the audit at every grade: a heading names
+> the pattern, the body names the people. See DL-38 and the `HEADING` entry in the
+> registry's `registers` block. **The last sentence itself is still open** — it is not a
+> heading, and the ruling did not reach it.
+
 1. **The last sentence of the book.** *"Now go build yours: the village is waiting."*
    Pluralized it is grammatical, and it trades a one-on-one closing image — singular Player,
    singular Village — for many-against-one. Twin at the ch9 section heading *"The Village Is
-   Already Playing."*
-2. **ch8:164's triple anaphora.** *"It learned… It learned… It learned…"* reads as one
+   Already Playing"* — **that twin is now ruled keep; this sentence is not.**
+2. **CONTESTED 2026-08-03 — converted while held, awaiting a read-aloud.** A village
+   pass converted all three instances as part of the ch5/ch7/ch8 sweep, without seeing
+   this hold. The claim below is about voice and can only be settled by reading both
+   versions aloud; nobody has. The conversion ships meanwhile. **This item now lives in
+   the registry's `holds:` block, where the instrument reads it** — the whole reason it
+   got converted is that holds lived here and the scanner has never opened this file.
+   ~~Original note:~~
+   **ch8:164's triple anaphora.** *"It learned… It learned… It learned…"* reads as one
    organism quietly acquiring bad habits. *"They learned"* dilutes it to crowd narration. It
    may be doing the same work anchor 3 protects.
 3. **ch3:123**, the *"never meant"* exile sentence — pluralizing risks converting a
    diffuse-drift claim into an individually-exculpatory one.
-4. **Are the Faces Grade 2 or Grade 6?** Anchor 4 licenses named-part personification, but
+4. **CLOSED 2026-08-03 — RULED GRADE 1 (DL-40).** Neither branch was right: the Faces are
+   **role nouns**, and a role noun takes the verbs of whoever fills the role. The book names
+   the occupant at ch9:51 — *"you don't become one of them: you move through all of them."*
+   The constraint is that **the occupant must be recoverable**. The note below stands as the
+   correct diagnosis of why Grade 2 did not fit. ~~Original question:~~
+   **Are the Faces Grade 2 or Grade 6?** Anchor 4 licenses named-part personification, but
    every uncontested Grade 2 use is framed *"a part of me"* — interior to one person — while
    the Faces act externally on a population with independent biographies. R8 cannot apply
    either way; you cannot pluralize the Regent.

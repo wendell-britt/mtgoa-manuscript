@@ -102,7 +102,7 @@ Here's what happened after the Challenger left: the villagers didn't stop needin
 
 They just forgot how to do it without apologizing.
 
-The village still experienced violations. Slights. Moments where someone crossed a boundary and everyone knew it and nobody said it. Without the Challenger to say *"this is not acceptable"* without softening it, without the Challenger's willingness to be unwelcome in service of what was true, the villagers learned to *process* these moments instead of *respond* to them. To have conversations about boundaries. To schedule dialogues. To bring in a facilitator.
+The villagers still experienced violations. Slights. Moments where someone crossed a boundary and everyone knew it and nobody said it. Without the Challenger to say *"this is not acceptable"* without softening it, without the Challenger's willingness to be unwelcome in service of what was true, the villagers learned to *process* these moments instead of *respond* to them. To have conversations about boundaries. To schedule dialogues. To bring in a facilitator.
 
 Sometimes that was exactly right. Sometimes the situation actually required a facilitated conversation.
 
@@ -126,7 +126,7 @@ The villagers do this with the clean no once the Challenger has gone: they trans
 
 The villagers did all of this with good intentions. Because the Regent was right: *power had to be organized.* Because walls cost less than lines. Because saying no cost something and they had decided, without ever announcing it, to stop paying.
 
-The villagers never realized they had traded the capacity to draw lines for the comfort of not having to. That every time they chose the facilitated conversation over the clean no, they taught each other that the clean no no longer belonged to them. That the Challenger's gift (the willingness to be unwelcome in service of what is true) was draining away, not just from the village, but from their *capacity to even recognize* when the moment called for it.
+The villagers never realized they had traded the capacity to draw lines for the comfort of not having to. That every time they chose the facilitated conversation over the clean no, one generation taught the next that the clean no was not theirs. That the Challenger's gift (the willingness to be unwelcome in service of what is true) was draining away, not just from the villagers, but from their *capacity to even recognize* when the moment called for it.
 
 ---
 
@@ -137,7 +137,7 @@ You already have a version of the clean no. You've been calling it something els
 
 The villagers hear the clean no as aggression: the angry one, the difficult one, the one who makes it worse before it gets better, someone who says no because they want to win. I was told that at nineteen, by people who meant well, and I believed them for another thirty years. The version they described does exist, and you've probably met them, and it is not what we're talking about here.
 
-The clean no is something different. The clean no is the practice of **stating a boundary without apologizing for it, collapsing it, or converting it into a request.**
+The School of the Line will not turn you into an asshole. The clean no is the practice of **stating a boundary without apologizing for it, collapsing it, or converting it into a request.**
 
 Notice what that last part says: *without converting it into a request.* Because the villagers have gotten very sophisticated about this. The villagers have learned to make their nos sound like preferences, their lines sound like suggestions, their non-negotiables sound like flexible guidelines. "I'd prefer not to" when the actual truth is "I won't." "I'd appreciate it if we could" when the actual truth is "this has to stop." (That email gets written more than any other in professional life.)
 
@@ -445,7 +445,7 @@ The fire was real. The line was real. Without the practice to draw it clean, the
 
 A version of this chapter gets braced against, and it should be named before we go further.
 
-Challenger energy gets used as control. Power asserted over people who have less of it, with the vocabulary of directness doing the asserting. That is not a caricature. It happens, you recognize it on sight, and anyone who has been on the receiving end of it has a good reason to distrust everything this chapter has just taught.
+Challenger energy gets used as control. Power asserted over people who have less of it, with the vocabulary of directness doing the asserting. That is not a caricature. It happens, you recognize it on sight, and anyone who has been on the receiving end of it has a good reason to distrust everything you have just read.
 
 Here is the conclusion that tends to follow. I put it as a proposition rather than a diagnosis, because only you know whether it is yours: *the clean no is what oppressors do. Drawing lines is how power protects itself. My job is to listen, to make space, to find common ground, not to draw lines.*
 
@@ -543,7 +543,7 @@ Then it speaks, and it always sounds reasonable. *Am I overreacting. Other peopl
 
 Here is the tell that separates the auditor from the judge: the auditor finishes. It asks its question, gets an answer, hands the charge back to you either confirmed or dismissed, and stops. The Skeptic in shadow never finishes. No evidence closes the case, because the case was never about evidence. Ask yourself whether you feel certain and you will always find you could feel less certain. The audit runs until the moment has passed, and that outcome was always its purpose.
 
-Now here is why this daemon stands where it stands, in a book about allyship. Everything this chapter has taught you runs on a charge you trust enough to aim. Charge, Aim, Act, Stand, Exit: the whole sequence assumes Stage 1 got permission to count. The Skeptic can end the practice between Stage 1 and Stage 2, not by arguing that the line is wrong but by ruling that you have not established the line is yours to draw. It does not put the fire out, either. The fire burned. You felt every degree of it. You filed it instead of aiming it, and you carried it home.
+Now here is why this daemon stands where it stands, in a book about allyship. Everything you have learned in this chapter runs on a charge you trust enough to aim. Charge, Aim, Act, Stand, Exit: the whole sequence assumes Stage 1 got permission to count. The Skeptic can end the practice between Stage 1 and Stage 2, not by arguing that the line is wrong but by ruling that you have not established the line is yours to draw. It does not put the fire out, either. The fire burned. You felt every degree of it. You filed it instead of aiming it, and you carried it home.
 
 The cost lands twice: you lose the line, and the person who needed the line ends up somewhere nobody drew one, where the crossing went unremarked, and everyone present, the one who crossed included, learned that it was uncrossable in principle and crossable in fact. They did not need your certainty. They needed the sentence.
 

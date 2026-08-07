@@ -65,9 +65,9 @@
 
 You recognize a woman in the village. She is always there. She shows up to every gathering, every working bee, every moment of conflict and every moment of celebration. Her presence reads as devotion, except it isn't, because devotion implies choice, and she has forgotten how to choose. She stays because she has forgotten that she could leave.
 
-One day she stops showing up. The villagers barely notice at first. Then slowly, in her absence, something becomes visible: the shape of what she held together without ever naming that she held it. Ruptures that were repaired before anyone saw them. Tensions that never escalated because she stood in the middle of them. The villagers discover they have lost something but cannot name the loss, because she never told them what her presence cost. She never gave them the chance to treat it as precious.
+One day she stops showing up. The villagers barely notice at first. Then slowly, in her absence, something becomes visible: the shape of what she held together without ever naming that she held it. Ruptures she repaired before anyone saw them. Tensions that never escalated because she stood in the middle of them. The villagers discover they have lost something but cannot name the loss, because she never told them what her presence cost. She never gave them the chance to treat it as precious.
 
-Across the village, a man operates differently. He is present too. He shows up, he contributes, he holds. He has also, once in a hard moment, surfaced what each side protected and named what staying would actually require. He said it without heat. He did not make it a threat. He did not weaponize it. He simply told the truth about the agreement: what it would hold, what it would cost each of them, what would have to change for his staying to remain real. In the weeks that followed, the village noticed something. His presence had become more valuable precisely because he had now chosen it, not scarce in the way of withholding, but scarce in the way of a person who had closed an honest negotiation and meant it. The village started treating his presence as something that could be lost. In treating it as something that could be lost, they started treating it as something that mattered.
+Across the village, a man operates differently. He is present too. He shows up, he contributes, he holds. He has also, once in a hard moment, surfaced what each side protected and named what staying would actually require. He said it without heat. He did not make it a threat. He did not weaponize it. He simply told the truth about the agreement: what it would hold, what it would cost each of them, what would have to change for his staying to remain real. In the weeks that followed, the villagers noticed something. His presence had become more valuable precisely because he had now chosen it, not scarce in the way of withholding, but scarce in the way of a person who had closed an honest negotiation and meant it. They started treating his presence as something that could be lost. In treating it as something that could be lost, they started treating it as something that mattered.
 
 The Diplomat's gift has a name: integrative negotiation. It surfaces what each party protects, names stakes and sacrifices honestly, and closes toward terms people can accept, refuse, or counteroffer, so chosen staying means something.
 
@@ -77,7 +77,9 @@ The Diplomat is the negotiator who has learned that honest stake-surfacing, time
 
 The five stages of the Diplomat's work run as a journey in sequence rather than a checklist. **Bridge** is the initial entry, the act of showing up with curiosity rather than judgment, making contact without yet knowing what the relationship will require. **Translate** is the work of rendering one camp's language into terms another camp can hear, betraying neither side and finding the common ground of meaning. **Hold** is the maintenance of enough safety that difficult conversation remains possible even when the charge runs high. It is not the four seconds of Stand you learned from the Challenger, where one person declines to take back one line; it is the sustained containment of a whole field over the length of a hard conversation, sometimes over months. **Repair** is the healing of ruptures without the pretense that they did not occur: cleaning the wound without pretending nobody made it. **Negotiate** is the culmination: surfacing what each party protects, naming the terms under which staying remains possible, and closing so that everyone is heard *and* something moves.
 
-Each stage earns the next. Bridge without Translate is noise. Translate without Hold is a promise no one trusts. Hold without Repair is a wound left to fester. Repair without Negotiate is generosity without closure, and generosity without closure stops being a gift; it becomes a slow form of self-destruction that the field learns to take for granted.
+Each stage earns the next. Bridge without Translate is noise. Translate without Hold is a promise no one trusts. Hold without Repair is a wound left to fester. Repair without Negotiate is generosity without closure, and generosity without closure stops being a gift; it becomes a slow form of self-destruction that everyone in the field learns to take for granted.
+
+**The Diplomat means: nobody left the table.** It is the most generous of the six and the easiest to overspend, because a table nobody leaves also decides nothing.
 
 **The Diplomat means: nobody left the table.** It is the most generous of the six and the easiest to overspend, because a table nobody leaves also decides nothing.
 
@@ -250,7 +252,7 @@ Section 4 works each mode's full arc through in its five deep-dives, the dissati
 
 ### Mode 1 — Bridge-Builder
 
-The Bridge-Builder is the Diplomat's entry point: the mode through which contact happens, curiosity replaces judgment, and the field allows a new presence to enter. It is the Diplomat's most fundamental skill and the one most easily distorted.
+The Bridge-Builder is the Diplomat's entry point: the mode through which contact happens, curiosity replaces judgment, and the people there let someone new in. It is the Diplomat's most fundamental skill and the one most easily distorted.
 
 Here is what its absence looks like: a person who cannot enter a gathering without an agenda. Who approaches every relational field as a transaction. What can I get, what do I need, what is this interaction worth to me. Who makes contact only when they want something, and loses the capacity for contact-for-contact's-sake. The Bridge-Builder's absence shows up as a kind of relational instrumentalization: everyone they meet becomes a means to an end.
 
@@ -409,7 +411,7 @@ The Repairer is the Diplomat's deepest mode: the work of healing ruptures that h
 
 Here is what its absence looks like: a relationship that cannot survive its own ruptures. Where every breach becomes permanent, every mistake closes a door, every conflict leaves a scar that never heals. The Repairer's absence shows up as a kind of relational brittleness. People stay together and never recover from the times they hurt each other. They accumulate damage until something breaks that cannot be repaired, and then it is over.
 
-Here is what its distortion looks like: a premature forgiveness that skips the repair entirely. The distorted Repairer rushes to close the wound before it has been cleaned. They say *it's fine, let's move on, I forgive you*, and in fact they abandon the relationship to its damage. Real repair requires sitting in the wound long enough to understand it. Skipping that step means the wound closes over with the infection still inside.
+Here is what its distortion looks like: a premature forgiveness that skips the repair entirely. The distorted Repairer rushes to close the wound before cleaning it. They say *it's fine, let's move on, I forgive you*, and in fact they abandon the relationship to its damage. Real repair requires sitting in the wound long enough to understand it. Skipping that step means the wound closes over with the infection still inside.
 
 **[DISSATISFACTION → SATISFACTION] Alchemy 1 — Betrayal Wound → Discerning Trust**
 
@@ -427,13 +429,13 @@ The alchemy: *I stop skipping the wound and start sitting in it.* Real repair re
 
 **Water → Wood: Sadness translated into new soil.** When a rupture has left a field in mourning (heavy, still, honoring what was lost) the Translate move recognizes that the sadness contains the nutrients for something new to grow. The sadness of what broke becomes the foundation of what gets rebuilt. The Translate move carries the honoring of the loss into the channel where something new can take root.
 
-**Earth → Fire: Structure translated into warmth.** When the repair has been negotiated (the terms agreed, the path forward established) the Translate move is to bring warmth back to the structure. The field now has a shape, a format, an agreement. Agreements are cold. The Translate move carries the heat of real reconnection into the structure, so that the repair is not just formal but real.
+**Earth → Fire: Structure translated into warmth.** When you have negotiated the repair (terms agreed, path forward established) the Translate move is to bring warmth back to the structure. The field now has a shape, a format, an agreement. Agreements are cold. The Translate move carries the heat of real reconnection into the structure, so that the repair is not just formal but real.
 
 **[CONTROL] — Neutral Channel: Premature Closure Pattern**
 
 The Neutral Channel pattern here is **premature closure**: the behavioral pattern of rushing to close the wound before it has been understood. The Repairer who has not done this work wants to finish the repair before the other person has finished with the damage. They close before they have opened. They move on before they have arrived.
 
-**The structure of the Three-Part Repair:** You build a practice of repair that does not skip: (1) **Witness:** the full accounting of what happened, without defense or justification. (2) **Impact:** the honest naming of what the rupture cost, for both parties. (3) **Agreement:** what each person commits to doing differently, not as a performance of remorse but as a real change in behavior. The premature closure pattern dissolves into a structure that actually allows the wound to heal before it is closed.
+**The structure of the Three-Part Repair:** You build a practice of repair that does not skip: (1) **Witness:** the full accounting of what happened, without defense or justification. (2) **Impact:** the honest naming of what the rupture cost, for both parties. (3) **Agreement:** what each person commits to doing differently, not as a performance of remorse but as a real change in behavior. The premature closure pattern dissolves into a structure that actually allows the wound to heal before you close it.
 
 The cost here is time. Real repair takes longer than performance repair, and that slower pace is what makes the repair trustworthy.
 
@@ -549,7 +551,7 @@ You met the Victim at the door of the Forest, sixth in line. The Protector decid
 <!-- /MARGINALIA -->
 
 
-At its best this is the part of you that keeps an exact ledger. Something cost you and the Victim will not let the cost be called nothing. It remembers the meetings you carried, the accommodations nobody asked for and everybody used, the years of being the reasonable one. Every entry is accurate. This matters more in relational work than anywhere else in the book, because relational work forms the one arena where people routinely absorb costs without ever entering them anywhere. Without a part of you keeping count, you will absorb harm indefinitely and call it fine, and the field will let you, because a person who does not send an invoice is a person nobody has to pay.
+At its best this is the part of you that keeps an exact ledger. Something cost you and the Victim will not let the cost be called nothing. It remembers the meetings you carried, the accommodations nobody asked for and everybody used, the years of being the reasonable one. Every entry is accurate. This matters more in relational work than anywhere else in the book, because relational work forms the one arena where people routinely absorb costs without ever entering them anywhere. Without a part of you keeping count, you will absorb harm indefinitely and call it fine, and nobody there will stop you. A person who does not send an invoice does not get paid.
 
 The distortion arrives in what it does with the balance.
 
@@ -565,7 +567,7 @@ You do not fire the Victim. Fire the part of you that counts and you will spend 
 
 *Keep the ledger. Every entry, exact, and read it to me whenever I ask. What the ledger does not do is decide whether I am allowed to speak here, and it does not get a vote on whether I have caused harm.*
 
-Then put a limit on it, because an open ledger is the shadow's whole method. The Challenger's deadline is a breath. The Regent's is a cycle. The Diplomat's is smaller than either, and harder: *one sentence.* You get one sentence to name what this cost you, said once, to the field rather than about it, and then the field takes its turn. A case would be longer. The accumulated column would be longer still. One sentence, and then silence, and then whatever they do with it. One sentence covers what the field actually asks. It does not cover the case, and that is the point.
+Then put a limit on it, because an open ledger is the shadow's whole method. The Challenger's deadline is a breath. The Regent's is a cycle. The Diplomat's is smaller than either, and harder: *one sentence.* You get one sentence to name what this cost you, said once, to the field rather than about it, and then the others take their turn. A case would be longer. The accumulated column would be longer still. One sentence, and then silence, and then whatever they do with it. One sentence covers what they actually need to hear. It does not cover the case, and that is the point.
 
 It shows up in a single beat. Someone tells you that something you did landed badly on them. Something in you goes still and attentive; that is the Repairer arriving, on time, doing its job. Then the ledger opens underneath it, and what surfaces is not a defence. A defence you would catch. What surfaces is a balance. *After everything I have carried here.* You do not say it. You would never say it. What you say is *I hear you,* the ledger's most efficient instrument, because it accepts the words without admitting the entry. The conversation ends warm. Nothing has been received. On the narrow jurisdiction the same part returns the same accurate report and the answer changes: *that is true, I did that, and here is what it cost you*, with your own column left closed, in your pocket, entirely real and not currently the subject.
 
@@ -608,7 +610,7 @@ The tell is never the position. The tell is whether impact ever arrives without 
 
 The Victim developed does what nothing else in this chapter can do: it lets you know exactly what your presence costs and decline to bill for it. That combination is rarer than it sounds. Most people manage one or the other. They either lose track of the cost entirely and disappear into the work, or they keep perfect count and spend it. Holding both is what makes your staying mean anything, because only a cost you can name and do not bill for reads as a choice.
 
-That forms the Connector's foundation, and the word usually means something else. This chapter does not train contact; the Bridge-Builder makes that in the first hour. It trains connection that has survived being told the truth. Connection nobody has ever closed with is attendance, and attendance is what a field takes for granted. The close is what converts one into the other: you name what this must hold for your staying to remain real, once, in a sentence, and you let the field answer. What remains after that is the part that was ever actually yours.
+That forms the Connector's foundation, and the word usually means something else. This chapter does not train contact; the Bridge-Builder makes that in the first hour. It trains connection that has survived being told the truth. Connection nobody has ever closed with is attendance, and attendance is what everyone in a field takes for granted. The close is what converts one into the other: you name what this must hold for your staying to remain real, once, in a sentence, and you let them answer. What remains after that is the part that was ever actually yours.
 
 You know what your Victim is for now. That is what you take out.
 
@@ -685,7 +687,7 @@ The Diplomat translates: *"What I hear [Camp A] saying, in [Camp B]'s language, 
 
 *Prerequisite: Moves 1 and 2. You cannot close on a field you have not named or translated*
 
-**What it is:** Bridge, translate, hold, repair, and then this. The close. It is the move the whole chapter has been building toward, and the one the Diplomat's altitude skips most reliably, because closing feels like conflict and the field can always make space for one more round.
+**What it is:** Bridge, translate, hold, repair, and then this. The close. It is the move the whole chapter has been building toward, and the one the Diplomat's altitude skips most reliably, because closing feels like conflict and there is always space for one more round.
 
 Close with Honest Terms is one clear sentence naming what this field must hold for your staying to remain real, said once and then left alone for the people it concerns to answer. The leaving-alone separates it from an ultimatum.
 
@@ -741,7 +743,7 @@ This is the Diplomat's most contested move. The Diplomat's altitude values inclu
 
 The distinction that matters: the difference between *positions that deserve equal hearing* and *positions that deserve equal endorsement.*
 
-Equal hearing means: everyone gets to speak, everyone gets to feel heard, the field makes space for the full range of perspectives present. Relativism is the easy misreading. This is the basic work of the Diplomat's altitude, and it is precious.
+Equal hearing means: everyone gets to speak, everyone gets to feel heard, every perspective present gets space. Relativism is the easy misreading. This is the basic work of the Diplomat's altitude, and it is precious.
 
 Equal endorsement means: all positions are treated as equally valid interpretations of reality. This is where the Diplomat's gift curdles. Some positions are not equally valid. Some rest on inaccurate premises. Some require ignoring evidence that others have to live with. Some cause harm that others have to absorb. Treating these positions as if they were equally valid is a failure of discernment disguised as open-mindedness.
 

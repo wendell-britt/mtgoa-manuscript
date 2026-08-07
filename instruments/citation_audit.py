@@ -44,7 +44,16 @@ BORROWED = [
     (r"felt sense", "Gendlin"),
     (r"polyvagal|ventral vagal|dorsal vagal", "Porges"),
     (r"somatic experiencing", "Levine"),
-    (r"wu ?xing|five[- ]phase", "Kaptchuk"),
+    # REMOVED 2026-08-05. This row asserted that Ted Kaptchuk owns wu xing, and he does
+    # not -- he wrote *The Web That Has No Weaver*, a Western entry point to a system
+    # roughly two thousand years older than anyone alive to own it. Requiring his surname
+    # beside the term is like requiring a translator's name beside *Tao*. Both use sites
+    # already credit the tradition at length and in the book's own voice (`ch3:431`:
+    # *"These five channels did not start with me... What follows is my remix, not the
+    # system it came from"*; `copyright:44` the same), and Appendix G points at Kaptchuk
+    # as the place to read the original. The debt is paid; the row was measuring the
+    # wrong creditor.
+    #     (r"wu ?xing|five[- ]phase", "Kaptchuk"),
     (r"transcend and include", "Wilber"),
     (r"pre/?trans fallacy", "Wilber"),
     (r"evolutionary purpose|\bTeal\b", "Laloux"),
@@ -83,6 +92,12 @@ BORROWED = [
     # Adler by way of Kishimi and Koga. The book's one non-negotiable rule -- you make the
     # move, what they do with it stays theirs -- is the separation of tasks.
     (r"separation of tasks|whose task", "Adler"),
+    # Added 2026-08-05 with the credit itself. ch1's Trust System ran the ABI model
+    # uncredited from the day it was ported, and this instrument could not see it: the
+    # UNCREDITED check keys on a name beside a claim verb, and the passage named nobody.
+    # A term of art with no name attached is invisible to a name-based audit, which is
+    # what the BORROWED table is for.
+    (r"\bbenevolence\b", "Mayer|Davis|Schoorman"),
 ]
 
 # Credited in Appendix G, absent by surname, and NOT a dead credit. Each one is
@@ -197,12 +212,29 @@ def main():
                 continue
             uncredited.setdefault(full, []).append((rel, " ".join(ctx.split())))
 
+    # Scope is the FILE, not a 400-character window. Changed 2026-08-05, after the
+    # 400-char rule reported eight borrowings and six of them were already credited.
+    #
+    # The window measured the wrong thing because it did not know how the book pays
+    # this debt. The convention is one attribution note per chapter, placed where the
+    # reader starts using the tool rather than beside every instance of the word:
+    # `ch6:238` for Meadows (*"this chapter uses it in her sense throughout"*),
+    # `ch8:295` for Laloux, `ch3:431` for wu xing, `APPENDIX_F:8` for Johnson. Against
+    # a 400-char window every one of those chapters read as uncredited from the second
+    # mention onward -- `leverage point` alone reported sixteen times in a chapter that
+    # names Donella Meadows and explains her claim.
+    #
+    # So the honest question is not "is the owner in this paragraph" but "does a reader
+    # of this file ever learn whose this is." A file-scope check answers that one, and
+    # what survives it is a genuine orphan: a term carrying weight in a file where the
+    # owner's name never appears at all.
     for rel, text in docs:
         for pat, owner in BORROWED:
+            if not re.search(pat, text, re.I):
+                continue
+            if re.search(r"\b%s\b" % owner, text):
+                continue
             for m in re.finditer(pat, text, re.I):
-                a, b = max(0, m.start() - 400), m.end() + 400
-                if re.search(r"\b%s\b" % owner, text[a:b]):
-                    continue
                 borrowed.setdefault((owner, m.group(0).lower()), []).append(rel)
 
     # DEAD means the book uses NEITHER the person's name NOR their term of art NOR their
@@ -239,7 +271,7 @@ def main():
             print("      %-28s %s" % (rel, ctx))
 
     print("\n" + "=" * 78)
-    print("BORROWED — a term of art with no owner within 400 characters (judgement)")
+    print("BORROWED — a term of art used in a file that never names its owner (judgement)")
     print("=" * 78)
     if not borrowed:
         print("  none")

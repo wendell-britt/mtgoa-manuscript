@@ -1,0 +1,238 @@
+<title>MTGOA — Character Sheet</title>
+<style>
+  :root{
+    --paper:#F7F6F2; --ink:#14171C; --rule:#2A3038; --faint:#868C94;
+    --accent:#1F4E5F; --box:#FFFFFF; --line:#B9BEC4;
+    --metal:#C9CDD2; --water:#1B2733; --wood:#3F6B3A; --fire:#A33427; --earth:#A8843C;
+    --serif:Georgia,"Iowan Old Style","Palatino Linotype",Palatino,serif;
+    --sans:ui-sans-serif,system-ui,"Helvetica Neue",Arial,sans-serif;
+  }
+  @media (prefers-color-scheme:dark){
+    :root{--paper:#14161A;--ink:#E8E6E1;--rule:#5A636E;--faint:#8C9199;
+          --accent:#7FB8C9;--box:#1B1E24;--line:#3A4048;}
+  }
+  :root[data-theme="dark"]{--paper:#14161A;--ink:#E8E6E1;--rule:#5A636E;--faint:#8C9199;
+        --accent:#7FB8C9;--box:#1B1E24;--line:#3A4048;}
+  :root[data-theme="light"]{--paper:#F7F6F2;--ink:#14171C;--rule:#2A3038;--faint:#868C94;
+        --accent:#1F4E5F;--box:#FFFFFF;--line:#B9BEC4;}
+
+  body{background:var(--paper);color:var(--ink);font-family:var(--sans);margin:0;
+       padding:24px 16px 64px;}
+  .sheet{max-width:1020px;margin:0 auto;border:2.5px solid var(--rule);padding:18px 20px 20px;}
+
+  .plate{display:flex;align-items:flex-end;gap:22px;border-bottom:2.5px solid var(--rule);
+         padding-bottom:11px;margin-bottom:6px;flex-wrap:wrap;}
+  .plate h1{font-family:var(--serif);font-size:25px;line-height:1;margin:0;}
+  .plate .sub{font-size:9.5px;letter-spacing:.16em;text-transform:uppercase;
+              color:var(--faint);margin-top:5px;}
+  .plate .who{flex:1 1 300px;}
+  .plate .meta{display:grid;grid-template-columns:2fr 1fr;gap:14px;flex:1 1 300px;}
+
+  .howto{font-size:9.5px;color:var(--faint);font-style:italic;margin:0 0 13px;}
+
+  .fill{border-bottom:1.5px solid var(--line);min-height:21px;}
+  .lab{font-size:8.5px;letter-spacing:.13em;text-transform:uppercase;color:var(--faint);
+       margin-top:4px;display:block;font-weight:600;}
+
+  .track{display:grid;grid-template-columns:1fr 1fr;gap:13px;}
+  @media (max-width:800px){.track{grid-template-columns:1fr;}}
+
+  .card{border:1.5px solid var(--rule);background:var(--box);padding:9px 11px 11px;
+        position:relative;}
+  .card h2{font-size:9.5px;letter-spacing:.15em;text-transform:uppercase;margin:0 0 8px;
+           font-weight:700;padding-right:34px;}
+  .stamp{position:absolute;top:8px;right:9px;font-size:8.5px;letter-spacing:.1em;
+         font-weight:700;color:var(--accent);border:1.5px solid var(--accent);
+         padding:1px 5px;font-variant-numeric:tabular-nums;}
+  .stamp.open{color:var(--faint);border-color:var(--line);}
+  .note{font-size:9px;color:var(--faint);line-height:1.45;margin:7px 0 0;font-style:italic;}
+  .span2{grid-column:1 / -1;}
+
+  .picks{display:grid;grid-template-columns:repeat(6,1fr);gap:6px;}
+  @media (max-width:560px){.picks{grid-template-columns:repeat(3,1fr);}}
+  .pick{border:1.5px solid var(--line);text-align:center;padding:7px 3px 6px;}
+  .pick .nm{font-size:9px;letter-spacing:.08em;text-transform:uppercase;font-weight:700;}
+  .pick .gl{font-size:7.5px;color:var(--faint);display:block;margin-top:2px;line-height:1.25;}
+  .ring{width:13px;height:13px;border:1.5px solid var(--rule);border-radius:50%;
+        margin:0 auto 5px;}
+
+  .chan{display:flex;align-items:center;gap:8px;padding:3px 0;}
+  .sw{width:11px;height:11px;border:1px solid var(--rule);flex:none;}
+  .sw-metal{background:var(--metal);} .sw-water{background:var(--water);}
+  .sw-wood{background:var(--wood);}   .sw-fire{background:var(--fire);}
+  .sw-earth{background:var(--earth);}
+  .chan .n{font-size:10px;flex:1;}
+  .chan .n b{font-weight:700;}
+
+  .pair{display:grid;grid-template-columns:1fr 1fr;gap:11px;}
+  .toggle{display:flex;gap:15px;margin-top:7px;font-size:9.5px;letter-spacing:.1em;
+          text-transform:uppercase;color:var(--faint);}
+  .toggle span{display:flex;align-items:center;gap:5px;}
+  .obox{width:12px;height:12px;border:1.5px solid var(--rule);}
+
+  .foot{margin-top:13px;border-top:1.5px solid var(--rule);padding-top:9px;
+        display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;
+        font-size:9.5px;color:var(--faint);}
+  .foot b{color:var(--ink);font-weight:600;}
+
+  @media print{
+    @page{size:letter portrait;margin:10mm;}
+    body{padding:0;}
+    .sheet{border-width:2px;max-width:none;}
+    :root{--paper:#fff;--box:#fff;--ink:#000;--rule:#000;--line:#999;--accent:#000;--faint:#5a5a5a;}
+    /* The book prints black and white. In greyscale Wood and Fire land six points
+       apart and read as one tone, so print restates the five from the tradition's
+       own values: Metal is white, Water is black, and the middle three separate
+       across the range. The row's text carries the channel either way -- the swatch
+       reinforces, it never carries alone. */
+    .sw-metal{background:#fff;} .sw-earth{background:#c4c4c4;}
+    .sw-wood{background:#8a8a8a;} .sw-fire{background:#4a4a4a;}
+    .sw-water{background:#000;}
+  }
+</style>
+
+<div class="sheet">
+
+  <div class="plate">
+    <div class="who">
+      <h1>Character Sheet</h1>
+      <div class="sub">Mastering the Game of Allyship</div>
+    </div>
+    <div class="meta">
+      <div><div class="fill"></div><span class="lab">Name</span></div>
+      <div><div class="fill"></div><span class="lab">Date</span></div>
+    </div>
+  </div>
+
+  <p class="howto">Fill it in the order you read. Each box is stamped with the chapter that
+    asks for it. Nothing here is filled in advance.</p>
+
+  <div class="track">
+
+    <!-- ---------- Chapter 1: four lines ---------- -->
+    <div class="card span2">
+      <span class="stamp">CH 1</span>
+      <h2>Home face</h2>
+      <div class="picks">
+        <div class="pick"><div class="ring"></div><div class="nm">Shaman</div><span class="gl">feels it first</span></div>
+        <div class="pick"><div class="ring"></div><div class="nm">Challenger</div><span class="gl">draws the line</span></div>
+        <div class="pick"><div class="ring"></div><div class="nm">Regent</div><span class="gl">hands it on</span></div>
+        <div class="pick"><div class="ring"></div><div class="nm">Architect</div><span class="gl">builds the way</span></div>
+        <div class="pick"><div class="ring"></div><div class="nm">Diplomat</div><span class="gl">keeps the table</span></div>
+        <div class="pick"><div class="ring"></div><div class="nm">Sage</div><span class="gl">names the game</span></div>
+      </div>
+      <p class="note">Fill one ring. The one you already play, the one you recognised as yours.</p>
+    </div>
+
+    <div class="card">
+      <span class="stamp">CH 1</span>
+      <h2>Shadow</h2>
+      <div class="fill"></div>
+      <span class="lab">The version of that face you fall into on empty</span>
+    </div>
+
+    <div class="card">
+      <span class="stamp">CH 1</span>
+      <h2>Myth</h2>
+      <div class="fill"></div>
+      <span class="lab">The one of the ten that runs you hardest</span>
+    </div>
+
+    <div class="card span2">
+      <span class="stamp">CH 1</span>
+      <h2>Quest</h2>
+      <div class="fill"></div>
+      <span class="lab">The specific fight, community or person you are in this for. Name them</span>
+    </div>
+
+    <!-- ---------- one line per chapter ---------- -->
+    <div class="card">
+      <span class="stamp">CH 2</span>
+      <h2>Daemon</h2>
+      <div class="pair">
+        <div><div class="fill"></div><span class="lab">Took the joystick first</span></div>
+        <div><div class="fill"></div><span class="lab">The job it does for you</span></div>
+      </div>
+    </div>
+
+    <div class="card">
+      <span class="stamp">CH 3</span>
+      <h2>The channel you skip</h2>
+      <div class="chan"><span class="sw sw-metal"></span><span class="n"><b>Metal</b> · fear</span><span class="obox"></span></div>
+      <div class="chan"><span class="sw sw-water"></span><span class="n"><b>Water</b> · sadness</span><span class="obox"></span></div>
+      <div class="chan"><span class="sw sw-wood"></span><span class="n"><b>Wood</b> · joy</span><span class="obox"></span></div>
+      <div class="chan"><span class="sw sw-fire"></span><span class="n"><b>Fire</b> · anger</span><span class="obox"></span></div>
+      <div class="chan"><span class="sw sw-earth"></span><span class="n"><b>Earth</b> · neutrality</span><span class="obox"></span></div>
+      <p class="note">The one you turn into a task before it has finished telling you anything.</p>
+    </div>
+
+    <div class="card span2">
+      <span class="stamp">CH 4</span>
+      <h2>The line you have not drawn</h2>
+      <div class="fill"></div>
+      <span class="lab">What you owe a specific person, and have been softening. Name the person</span>
+    </div>
+
+    <div class="card">
+      <span class="stamp">CH 5</span>
+      <h2>Inheritance</h2>
+      <div class="fill"></div>
+      <span class="lab">One rule you took from a house you belonged to</span>
+      <div class="toggle"><span><i class="obox"></i>Protect</span><span><i class="obox"></i>Break</span></div>
+      <p class="note">Being wrong about which is allowed. Leaving it unmarked is not.</p>
+    </div>
+
+    <div class="card">
+      <span class="stamp">CH 6</span>
+      <h2>The harm you keep fixing</h2>
+      <div class="fill"></div>
+      <span class="lab">The one that comes back</span>
+      <div class="fill" style="margin-top:10px"></div>
+      <span class="lab">The condition that keeps producing it</span>
+    </div>
+
+    <div class="card">
+      <span class="stamp">CH 7</span>
+      <h2>Walk-away price</h2>
+      <div class="fill"></div>
+      <span class="lab">What would have to happen before you left instead of disappearing</span>
+      <p class="note">Write it so you could say it out loud to the people it concerns.</p>
+    </div>
+
+    <div class="card">
+      <span class="stamp">CH 8</span>
+      <h2>The game you reach for</h2>
+      <div class="fill"></div>
+      <span class="lab">Past what you can hold</span>
+      <div class="fill" style="margin-top:10px"></div>
+      <span class="lab">What it saves you from having to do</span>
+    </div>
+
+    <div class="card">
+      <span class="stamp">CH 9</span>
+      <h2>Autopilot pattern</h2>
+      <div class="pair">
+        <div><div class="fill"></div><span class="lab">Face</span></div>
+        <div><div class="fill"></div><span class="lab">Showed up in ___ of 6</span></div>
+      </div>
+      <p class="note">Fill it the day you catch yourself running it.</p>
+    </div>
+
+    <div class="card">
+      <span class="stamp open">OPEN</span>
+      <h2>Superpower</h2>
+      <div class="fill"></div>
+      <span class="lab">The capacity you built to survive, made conscious and usable</span>
+      <p class="note">No chapter asks for this one. Chapter 2 says what it is; Chapter 1 says
+        you will only spot it in motion. Leave it blank until you do.</p>
+    </div>
+
+  </div>
+
+  <div class="foot">
+    <div><b>Pen and paper hold this.</b> Date every version.</div>
+    <div>A name in it, or a number, or a sentence somebody could disagree with.</div>
+    <div><b>masteringallyship.com</b></div>
+  </div>
+
+</div>

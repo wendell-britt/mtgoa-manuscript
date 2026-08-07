@@ -171,11 +171,32 @@ can receive correction.
 
 #### [METAPHOR_OVERREACH] Feelings are information for inquiry, not messages with fixed meanings
 
-Phrases that say feelings “deliver a message” risk treating feelings as infallible
-authorities.
+> **RULED 2026-08-03 — WITHDRAWN. Do not implement.**
+>
+> Wendell: *“sadness says stands as ontology, E-1 wins.”*
+>
+> This item and `exceptions: E-1` in `instruments/agency_registry.yaml` were
+> written the same day and pull opposite ways on the same sentences. E-1 is the
+> education-by-emotions register, ruled a standing ontological exception on the
+> basis of ch3:207 — *“Other practices manage emotions. Other practices optimize
+> them. This one is the education by emotions.”* A channel that teaches is the
+> book’s thesis being stated, not an overreach to be hedged.
+>
+> This spec was drafted from `master`, which did not carry that exception. The
+> conflict was not visible when this item was written.
+>
+> **So:** `teach`, `say` and `report` on a channel ship unhedged. No
+> corrigibility qualifier is added to *“fear teaches you what you actually care
+> about”* or *“Sadness says: this was true. This connection was real.”* The nine
+> E-1 sites are listed in the registry and are never to be flagged or converted.
+>
+> The ETHICAL_GAP below is **unaffected and still live** — see the note there.
 
-**Required function:** Preserve somatic intelligence while framing a feeling as
-something to investigate, not obey.
+~~Phrases that say feelings “deliver a message” risk treating feelings as infallible
+authorities.~~
+
+~~**Required function:** Preserve somatic intelligence while framing a feeling as
+something to investigate, not obey.~~
 
 #### [ETHICAL_GAP] Naming a field needs consent and position checks
 
@@ -190,6 +211,12 @@ unauthorized diagnosis in unequal-power settings.
 
 **Required phrasing norm:** First-person, corrigible offers such as “I’m noticing
 fear here; I may be wrong, but I want to check.”
+
+> **STILL LIVE after the 2026-08-03 E-1 ruling.** E-1 licenses a channel
+> delivering a true content about **its own bearer** — the reader’s fear telling
+> the reader what she cares about. This gap is about the reader naming a channel
+> in **someone else**, which is a different act with a different risk, and E-1
+> says nothing about it and does not shield it. The pre-move check stands.
 
 **Exit condition:** Jordan can state: “I can offer a true read humbly, act before
 certainty, and let the people affected correct it.”

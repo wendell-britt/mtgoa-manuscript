@@ -69,6 +69,19 @@ The daemons are a marriage of three lineages. The architecture — the named voi
 
 ---
 
+## On Trust
+
+Chapter 1's three questions — whether you can
+actually help, whether you do what you said you would do, whether you meant well — come
+from **Roger Mayer, James Davis and David Schoorman**, who call them ability, benevolence
+and integrity in "An Integrative Model of Organizational Trust" (*Academy of Management
+Review*, 1995). Their paper also separates trusting from being trustworthy, which the
+whole Trust System runs on. Chapter 1 adds the asymmetry between the three. The first two
+leave a record somebody can check, the third leaves none, so they guess. The paper does
+not say that; I do.
+
+---
+
 ## The Game
 
 The game frame isn't a metaphor I reached for — it's a claim I inherited from three thinkers. **James Carse** (*Finite and Infinite Games*) is the one Chapter 1 leans on by name, and the distinction is his: a finite game is played to win and ends; an infinite game is played to keep the play alive. Burnout, hitting the wall, "losing" at allyship — that's the felt experience of finite-game architecture applied to work that has no finish line, which is exactly why I propose redesigning the game rather than trying harder inside the old one.
@@ -85,7 +98,7 @@ Read Carse for the frame, Chou for the mechanics, and Nguyen for what playing do
 
 ## A Note on the Research
 
-The burnout claims in this book aren't impressions — they're grounded in **Christina Maslach's** clinical research (the Maslach Burnout Inventory and associated papers identify three dimensions: exhaustion, depersonalization, and inefficacy) and **Paul Gorski's** research on activist burnout specifically ("Burnout in Social Justice and Human Rights Activists: Symptoms, Causes, and Implications," 2015). Gorski's finding is the one that reorganized my thinking: identity fusion is the mechanism — when the work *is* who you are, there's nothing left to regulate the cost. Their work is the backbone of the book's central empirical claim: the problem isn't the practitioner. It's the design of the game.
+The burnout claims in this book aren't impressions — they're grounded in **Christina Maslach's** clinical research (the Maslach Burnout Inventory and associated papers identify three dimensions: exhaustion, depersonalization, and inefficacy) and **Paul Gorski's** research on activist burnout specifically ("Burnout in Social Justice and Human Rights Activists: Symptoms, Causes, and Implications," 2015). Gorski's finding is the one that reorganized my thinking: identity fusion is the mechanism — when the work *is* who you are, there's nothing left to regulate the cost. Their work is the backbone of the book's central empirical claim: the problem is the design of the game, not the practitioner.
 
 The pronoun figures in Chapter 1 come from **The Trevor Project**, whose national surveys of LGBTQ young people are the largest of their kind. Their 2020 research brief on pronoun usage found that trans and nonbinary young people whose pronouns most people in their lives got right attempted suicide at half the rate of the young people whose pronouns most people got wrong. Their 2024 national survey found that fewer than half report getting that consistently. I have used one finding from a body of work that is free, public, and updated every year. If the numbers in this book have aged by the time you read it, theirs will not have.
 

@@ -75,6 +75,38 @@ VAGUE = [
     r"\bfor (reasons|a while)\b\s*[.,;]",
     r"\bsomething (I|he|she|they) (?:had )?(?:never )?(?:said|did|knew)\b\s*[.,;]",
 ]
+# Two exemptions on VAGUE, both added 2026-08-07 after adjudicating fourteen BLOCKs.
+# Five of the fourteen were this rule firing on prose that supplies its referent, and a
+# rule that cries wolf five times in fourteen is a rule nobody reads the output of.
+#
+# 1. `Say the Thing Under the Thing` is a NAMED MOVE, taught in ch3 and ch4. `gate.py`
+#    carves it out in four places; this linter carved it nowhere, so the book's own
+#    vocabulary read as the defect the vocabulary was invented to name. Same shape as
+#    every other split-brain finding on this branch: the ruling lived in one instrument.
+#
+# 2. `the word` is a META-REFERENCE -- it points at a lexical item, not at a thing in the
+#    world, and the item is almost always in the same sentence. The three live sites:
+#    *"whether or not anybody in the space would use the word"*, *"Some of you are
+#    resisting the word"*, *"the more expensive of the two, in every sense of the word"*.
+#    In each the word being pointed at (allyship, Founder, expensive) is right there.
+#    Discriminated on the naming verb rather than on a list of our own sentences, so it
+#    generalises to the sentence nobody has written yet.
+NAMED_MOVES = re.compile(r"say the thing under the thing", re.I)
+META_WORD = re.compile(r"(?:\b(?:use[sd]?|using|say|says|said|call(?:s|ed)?|resist(?:s|ing|ed)?|"
+                       r"hear[sd]?|writ(?:e|es|ten))\b[^.;]{0,40}|in every sense of\s+)$", re.I)
+
+
+def vague_exempt(text, m):
+    """True when a VAGUE hit supplies its own referent and is not a defect."""
+    for nm in NAMED_MOVES.finditer(text):
+        if nm.start() <= m.start() < nm.end():
+            return True
+    if re.match(r"\bthe word\b", m.group(0), re.I):
+        head = text[max(0, m.start() - 60):m.start()]
+        return bool(META_WORD.search(head))
+    return False
+
+
 # abstraction nouns most likely to sit in a subject slot
 ABSTRACT = r"\b(conditioning|positionality|institutionalization|relationality|embodiment|intentionality|systemic\w*|structural\w*|accountability|awareness|engagement|alignment)\b"
 
@@ -258,6 +290,8 @@ def check_prose(text, where, mode):
     # --- say the noun
     for pat in VAGUE:
         for m in re.finditer(pat, text, re.I):
+            if vague_exempt(text, m):
+                continue
             ctx = text[max(0, m.start()-40):m.end()+40].replace("\n", " ")
             flag("BLOCK", "say the noun", where, "…" + ctx.strip() + "…")
 

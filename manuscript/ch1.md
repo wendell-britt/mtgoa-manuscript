@@ -138,7 +138,7 @@ Some machines on that floor have a bouncer in front of them, and there is nothin
 
 The bouncers are there for a reason. Some of the people who hurt this person arrived offering help, and a bouncer that has met one of those keeps the shape. It does not weigh you up, and it does not wonder about you. It checks you against the shape, before anybody has said much, and it checks fast.
 
-Behind the bouncer, the person is working out three questions about you, and that takes a good deal longer than the door does. Whether you can actually help. Whether you do what you said you would do. Whether you meant well. Capability, integrity and benevolence, if you want the words for them.
+Behind the bouncer, the person is working out three questions about you, and that takes a good deal longer than the door does. Whether you can actually help. Whether you do what you said you would do. Whether you meant well. Capability, integrity and benevolence, if you want the words for them. The words are Mayer, Davis and Schoorman's, and Appendix G says where to read them.
 
 The first two you do. The third you are, and that difference runs the whole economy. Doing leaves a record somebody else can check. You got better at it or you did not. You kept your word or you did not. What you are leaves no record, so they guess.
 
@@ -263,7 +263,11 @@ You can feel which face is your home. Hold onto it. In the next section you put 
 
 ## Build Your Allyship Character
 
-This is your character sheet, a few lines filled in for who you are right now.
+Every roleplaying game hands you a sheet before it hands you a story. You write down who your character is, and from then on the table can hold you to it: what you are good at, what you avoid, what you swore. Nobody changes into somebody else between sessions without the table seeing it, because the claim sits on paper in front of everyone.
+
+Allyship gets played without one. You can be held to a sentence you wrote. You cannot be held to one you only meant.
+
+Appendix H is the sheet. This is yours, a few lines filled in for who you are right now, and every chapter after this one adds another.
 
 **Your home face.** The one you already play, the one you just recognized as yours. Write it down.
 

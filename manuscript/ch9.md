@@ -221,7 +221,7 @@ One tell separates real building from the kind that's secretly avoidance, and it
 
 Genuine building points outward. You make it so it can meet a person: a reader, a player, a colleague, your kid. You want it in front of them, even though that's the scary part. The work goes somewhere, and the somewhere has a face.
 
-The Player in distortion builds in the other direction: inward, in circles, away from anyone who might actually receive it. The building becomes abstract. Endless revisions. Infinite drafts. I'll redesign the same mechanic six times, and every redesign dodges what the work actually needs: putting it in front of someone and seeing what happens. It looks like progress. It's a very sophisticated way of hiding.
+The Player in distortion builds in the other direction: inward, in circles, away from anyone who might actually receive it. The building becomes abstract. Endless revisions. Infinite drafts. I'll redesign the same mechanic six times, and every redesign lets me dodge what the work actually needs: putting it in front of someone and seeing what happens. It looks like progress. It's a very sophisticated way of hiding.
 
 So keep asking the question that planning-disguised-as-building cannot survive: *is this draft moving toward someone, or away from them?* Real building gets handed over, even unfinished. Avoidance keeps it safe, and perfect, and unmet.
 
@@ -285,7 +285,7 @@ You now know the WAVE. Wake up. Open up. Clean up. Grow up. Show up. Then you co
 
 You know that the return is not optional, that coming back makes the work real. That carrying what you found back to the village is the whole point.
 
-You know that the five emotional channels do more than name feelings: they map the territory you have been walking into. Fear, anger, sadness, joy, neutrality: each one a gate you can walk through instead of a threat to manage.
+You know that the five emotional channels do more than name feelings: they map the territory you have been walking into. Fear, anger, sadness, joy, neutrality: each one a road you can walk instead of a threat to manage.
 
 ---
 
@@ -617,7 +617,7 @@ The Player shows the villagers what it looks like to walk all six Faces and come
 
 The Player gives the villagers permission. Permission to use all six Faces as tools. Permission to design their own practice. Permission to build something new. Permission to go first.
 
-The Player shows that the six Faces were never the destination. They were the toolkit. The Player shows that mastery is not about *being* one Face, it's about *playing* all six when the moment requires it. The Player shows that the goal is not to arrive at Sage and stay there. The goal is to be able to play any game the villagers need played, whatever the moment requires.
+The Player shows that the six Faces were never the destination. They were the toolkit. Mastery is playing all six as the moment requires, and Sage is a seat you take and leave like the other five. The goal is to be able to play any game the villagers need played, whatever the moment requires.
 
 The Player leaves behind not a method but a path. The path continues.
 

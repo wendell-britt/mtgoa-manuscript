@@ -4,8 +4,8 @@
 # Lives in instruments/ rather than the spec's tools/ because this repo has no
 # tools/ directory; instruments/ is where every measurement lives.
 #
-# STATUS 2026-08-02: W-1 and W-2 are RULED and CLOSED. E-1 is STANDING. W-3 and
-# W-4 remain open.
+# STATUS 2026-08-03: W-1, W-2, W-3 and W-4 are ALL RULED AND CLOSED. E-1 is
+# STANDING and covers Grades 3 and 7. No open questions remain in this registry.
 # Wendell's method was to scan first and rule on evidence, and it paid: both
 # rulings came out narrower than the spec proposed, and W-2's proposal turned
 # out to be aimed at the wrong pronoun. See `open_rulings` below.
@@ -22,10 +22,18 @@ meta:
   amendable_by: Wendell only
   outranked_by:
     - specs/SPEC_EMOTIONAL_ALCHEMY_CANON.md
-    # NOTE: C2 names DAEMON_CANON.md as superior canon. No file by that name
-    # exists in this repo. Grade 2's constraint column therefore has no
-    # authority to defer to. FLAGGED FOR WENDELL.
-    - DAEMON_CANON.md   # MISSING FROM REPO — see note above
+    # RULED by Wendell 2026-08-03. C2 named DAEMON_CANON.md as superior canon
+    # and this registry carried it with a MISSING FROM REPO marker. It is not
+    # missing -- it is RETIRED. specs/MANUSCRIPT_FILE_CANON.md lists
+    # `claude/DAEMON_CANON.md` under "Docs that are stale and will mislead you",
+    # as carrying the retired 8-gate walk, the retired four-stage sequences and
+    # the retired "jeppi" naming. Deferring to it would not have failed
+    # silently; it would have reintroduced three retired systems.
+    #
+    # Replaced with the live sources. Canon points at the manuscript, not at a
+    # retired planning doc.
+    - manuscript/ch2.md            # the roster itself, ch2:270-420
+    - specs/MANUSCRIPT_FILE_CANON.md   # its "Structural facts that are current"
 
 # ---------------------------------------------------------------- verb classes
 # §3. Severity ordering for UNLICENSED subjects:
@@ -39,17 +47,37 @@ verb_classes:
     note: "shows/reveals are perception-class even when aimed outward"
     lemmas: [see, know, notice, show, reveal, tell, recognize, recognise,
              perceive, understand, realize, realise, observe, watch, detect,
-             sense, remember, forget, learn, discover, spot]
+             sense, remember, forget, learn, discover, spot,
+             # Added 2026-08-03. The class had no `think` and no `believe` --
+             # the two commonest cognition verbs in English -- so an entire
+             # paragraph like ch5:165 ("the village truly BELIEVED it was doing
+             # the right thing. The village THOUGHT loyalty was the same thing
+             # as obedience...") returned zero findings. An abstraction
+             # believing something is the purest form of the defect this audit
+             # exists to catch. Hand count on the village block was 16 where the
+             # net reported 3.
+             think, believe, consider, assume, doubt, trust, wonder, suspect,
+             conclude, imagine, expect, presume, reckon, figure]
   intention:
     severity: 2
     note: "the most dangerous class on unlicensed subjects"
     lemmas: [want, decide, promise, refuse, try, convince, intend, mean,
              choose, prefer, seek, aim, hope, expect, demand, insist, allow,
-             permit, let, need, wish, plan, attempt, persuade]
+             permit, let, need, wish, plan, attempt, persuade,
+             # Added 2026-08-03. The avoidance family was absent entirely --
+             # dodge, avoid, hide, skip, duck, evade -- in a book substantially
+             # ABOUT avoidance ("putting down becomes giving up", "a very
+             # sophisticated way of hiding"). ch9:213's "every redesign DODGES
+             # the one thing the work actually needs" was invisible, and it is
+             # the shape that matters most: an artifact performing the evasion
+             # its author is performing. Avoiding takes a will, so intention.
+             dodge, avoid, hide, skip, duck, evade, sidestep, defer]
   speech:
     severity: 3
     lemmas: [say, argue, whisper, insist, claim, declare, announce, state,
-             ask, answer, reply, warn, admit, confess, explain, suggest]
+             ask, answer, reply, warn, admit, confess, explain, suggest,
+             # Added 2026-08-03 alongside the cognition set.
+             agree, concede, object, protest, deny]
   social-causal:
     severity: 4
     note: "the systemic-agency class; conditionally licensed at Grade 6 — NO. See grade 6."
@@ -91,24 +119,258 @@ grades:
                named characters, proper names, personal pronouns,
                # Added 2026-08-02. The population reading of the fables. R8 is
                # the conversion from grade 6 `the village` to this.
-               the villagers, the people there, everyone at the table]
+               the villagers, the people there, everyone at the table,
+               # RULED by Wendell 2026-08-03. The six Faces plus the Player.
+               # See `constraints` below -- they are ROLE NOUNS, and a role noun
+               # takes the verbs of whoever fills the role.
+               the Shaman, the Challenger, the Regent, the Architect,
+               the Diplomat, the Sage, the Player,
+               # RULED by Wendell 2026-08-03. The six Schools, moved here from
+               # Grade 6. See `constraints` -- every one is signed by a named
+               # Head, so the mechanism is not merely recoverable, it is on the
+               # page in the chapter's own signature block.
+               the school, the School of the Body, the School of the Line,
+               the School of the Oath, the School of the Pattern,
+               the School of the Bridge, the School of the Horizon]
     verb_classes: [perception, intention, speech, social-causal, mechanical,
                    directional, causal-bare, pattern]
-    trace: n/a
-    constraints: none
+    trace: >
+      n/a for persons. For the Faces: role noun, and the occupant is the reader,
+      a named Head, or a fable character.
+    constraints: >
+      THE FACES, ruled 2026-08-03. They had never been in this registry at any
+      grade, so 127 Face-subject instances across 69 distinct verbs had never
+      been scanned by anything. Only `Diplomat shadow` was listed, at Grade 2.
+      The open question was recorded as "are the Faces Grade 2 or Grade 6", and
+      the answer is neither.
+
+      NOT GRADE 2. That grade is INTERIOR parts, and its own voice anchor is
+      built on one: "I have a part of me I call Mr. Inadequate ... the Fixer is
+      happy to take him" (VOICE_ANCHOR.md anchor 4, ch5:516). The Faces are not
+      interior to anyone. They are modes any reader can occupy, and in the
+      fables they are characters with independent biographies.
+
+      NOT GRADE 6. That grade is pattern residue. A Face is not the residue of
+      anything; it is a mode of acting.
+
+      THEY ARE ROLE NOUNS, and a role noun takes the verbs of whoever fills the
+      role -- the surgeon operates, the referee calls it. The book states the
+      occupant outright at ch9:51: "you don't *become* one of them: you *move
+      through* all of them, depending on what the moment requires." A map, not a
+      menu. So C1 is satisfied directly, the mechanism being the person in the
+      seat: the reader, a named Head (Maera Voss, Keeper of First Signals; Corin
+      Ash, Master of the Clean No; Quill, Keeper of Continuance), or a character
+      inside an origin fable.
+
+      This also answers the census's own puzzle, "you cannot pluralize the
+      Regent". Correct -- a role noun is already generic, and R8 has nothing to
+      do here in either direction.
+
+      THE ONE CONSTRAINT, which keeps Grade 1 from being a blank cheque: THE
+      OCCUPANT MUST BE RECOVERABLE. If a Face acts where no person could be
+      filling the seat, that is the flag. This is the test, not a verb-class
+      list -- Grade 1 licenses every class, so a class list would say nothing.
+
+      Known strain, recorded so a later pass does not think it found something:
+      ch1:193, "the WAVE, which the Shaman hands you in Chapter 3", is the only
+      instance in the book of a Face acting on the reader from outside the
+      frame. It reads as "which Chapter 3 hands you". Licensed at Grade 1, not a
+      defect, and the lone exception to the pattern.
+
+      `Diplomat shadow` stays at GRADE 2. A shadow is an interior distortion,
+      which is a different thing from the Face itself.
+
+      THE SCHOOLS, ruled 2026-08-03, moved here from Grade 6 where the pattern
+      ceiling made every one of their verbs a violation. Twelve constructions
+      across five chapters -- teaches x5, takes x2, makes, attracts, applies,
+      replaces, exists, stands -- and none of them was ever a defect.
+
+      An institution noun takes the verbs of whoever staffs it, the way "the
+      university announced" does. That is the Faces argument one step out, and
+      here it is stronger, because the staff are not merely recoverable -- they
+      are NAMED, TITLED, AND THEY SIGN THE CHAPTERS:
+
+        the Body      Maera Voss, Keeper of First Signals
+        the Line      Corin Ash, Master of the Clean No
+        the Oath      Sera Quill, Keeper of Continuance
+        the Pattern   Irix Vale, Patternwright
+        the Bridge    Elian Cross, Keeper of the Walk-Away Terms
+        the Horizon   Thalen Orr, Keeper of the Far Game
+
+      Each signs "Head of the School of the X" beneath their chapter's treatise.
+      So "The School of the Pattern teaches in language that has a bad record"
+      is Irix Vale and the faculty teaching, and C1 is satisfied more explicitly
+      here than for any other entity in the book.
+
+      The gap was that `Heads` has been a Grade 1 entity since the registry was
+      built while the Schools they head sat at Grade 6 -- the people licensed,
+      the institution they run not.
+
+      THE CONSTRAINT, matching the Faces: THE HEAD MUST BE RECOVERABLE. A School
+      acting where no Head is nameable is the flag. All six are nameable today.
+
+      The full names are listed as entities in their own right, not just `the
+      school`, because the recall net breaks a match when a registry entity is a
+      PREFIX of a longer proper name -- it read `of` in "the School of the
+      Pattern teaches" as an intervening phrase and lost all twelve sites. That
+      limit is recorded at the filter in agency_grep.py; listing the full names
+      is what resolves it here.
 
   - id: 2
     name: Animate parts
-    entities: [Seven Daemons, Vulnerable Child, Protector, Emotional Body,
-               Damaged Self, Victim, Diplomat shadow, "a part of you",
-               "the part that", inner critic]
-    verb_classes: [perception, intention, speech, somatic]
-    trace: "IFS architecture (ch2)"
+    entities: [Seven Daemons, Protector, Controller, Skeptic, "Fixer/Healer",
+               Fixer, Healer, Emotional Body, Victim, Damaged Self,
+               Vulnerable Child, Diplomat shadow, "a part of you",
+               "the part that", inner critic,
+               # RULED by Wendell 2026-08-03. Both were in NO grade -- Grade 2
+               # listed only `Diplomat shadow`, and Grade 0's eighteen nouns of
+               # argument (the framework, the model, the theory) held neither.
+               # See `non_daemon_parts` below for why they are interior.
+               the shadow, shadow, the distortion, distortion]
+    verb_classes: [perception, intention, speech,
+                   # `somatic` DELETED 2026-08-03 -- see constraints
+                   # a fortiori, 2026-08-03 -- see constraints
+                   mechanical, directional, causal-bare, pattern]
+    trace: "IFS architecture; the roster is manuscript/ch2.md:270-420"
+    roster:
+      # RULED 2026-08-03. Taken from ch2 itself rather than from any planning
+      # doc. Each daemon's stated Job is the boundary its verbs must stay
+      # inside, which is what `constraints` has always required and never had a
+      # live source for.
+      Protector:       "To keep you alive. The body's embodied sense of self-preservation."
+      Controller:      "Decides HOW you live. Sets the standard for good and bad."
+      Skeptic:         "To doubt, so you don't get fooled."
+      Fixer/Healer:    "To fix in both senses: repair what's broken, and hold something in place."
+      Emotional Body:  "The seat of emotional life, where feeling gets processed into meaning."
+      Victim:          "To win sympathy through stories."
+      Damaged Self:    "To take the damage. Absorbs the hit so what it carries survives."
+    non_daemon_parts:
+      # Interior, but not on the ch2 roster, so the per-daemon job rule and the
+      # two-routings-per-chapter inflation rule do not apply to them.
+      the shadow: >
+        Holds what you disowned and takes the covert payoff for it. The book
+        states the mechanism at ch1:143, crediting Carolyn Elliott's existential
+        kink: "the shadow doesn't run you because it feels bad. It runs you
+        because, somewhere out of sight, it feels GOOD, and you've never let
+        yourself admit it." It is yours, it acts on you, and its verbs across
+        the book are exactly an interior part's -- runs you, guards its stash,
+        hides inside the act, lives at one move.
+      the distortion: >
+        A Face's capacity running without its corrective. Interior at both
+        scales the book uses: individually, "That's the distortion talking"
+        (ch8:527) is the same construction as "that's your Protector talking",
+        and "the distortion is already driving" (ch8:684) puts it on the
+        joystick, which is this book's own image for which part has control.
+        Collectively, the fable's Section 2 distortion is the same thing carried
+        by a population. Both are LEFT-HAND in the AQAL terms Wendell set for
+        the field -- interior -- so the pattern-only ceiling of Grade 6 was
+        never the right shelf.
+
     constraints: >
-      Verbs stay inside each daemon's canonical job. The embodied three
-      (Protector, Emotional Body, Damaged Self) act SOMATICALLY, not verbally,
-      per the ch2 §6 roster ruling. Daemon inflation is a real risk: more than
-      two R3 routings per daemon per chapter is a flag.
+      Verbs stay inside each daemon's canonical job, and `roster` above is now
+      that job list, quoted from ch2.
+
+      THE SHADOW AND THE DISTORTION, ruled 2026-08-03, are Grade 2 but are NOT
+      daemons -- see `non_daemon_parts`. The constraint that keeps this from
+      being a blank cheque is the Grade 1 Faces test in the other direction:
+      THE PART MUST BE SOMEONE'S. A shadow or a distortion acting where no
+      person is carrying it is the flag. That is the test, not a verb list.
+      Daemon inflation is a real risk: more than two R3 routings per daemon per
+      chapter is a flag.
+
+      `somatic` DELETED 2026-08-03 by Wendell, and with it the rule that the
+      embodied three (Protector, Emotional Body, Damaged Self) act somatically
+      rather than verbally. Two reasons, and the second is the one that matters.
+
+      First, `somatic` was never a defined verb class. It sat in this grade's
+      licence list looking exactly like the other seven, with no lemma set
+      behind it, so the rule was unenforceable from the day the registry was
+      built. Same defect as `DAEMON_CANON.md`, retired under DL-41: a name in a
+      spec reads exactly like a name for something real.
+
+      Second, and decisively: THE RULE DESCRIBED A BOOK NOBODY WROTE. Measured
+      across the manuscript, the verbs those three daemons actually take are
+      `decides` 8, `does` 4, `has` 4, `takes` 3, `showed` 3, `developed` 2,
+      `prefers`, `holds`, `spends`, `runs`, `works`, `goes`. Not one is somatic
+      -- no bracing, tightening, flooding or dropping anywhere. The constraint
+      was aspirational, not descriptive.
+
+      Writing the lemma list would have been the obvious move and the wrong one.
+      It would have ruled that the constraint is right and the prose is wrong --
+      a real editorial decision, arriving disguised as a technical artifact,
+      that nobody made. If the embodied three should sound somatic, that is a
+      prose pass and a class can follow it. Until then the honest state is no
+      rule rather than an unenforceable one.
+
+      ROSTER CORRECTED 2026-08-03. Three of the seven were missing from this
+      list and were therefore invisible to the recall net at every grade:
+      CONTROLLER (18 uses, the most-used daemon in the book, and heavily
+      agentive -- "the Controller decides how you live", "the Controller rules
+      the read inadmissible before you can speak"), SKEPTIC (14), and
+      FIXER/HEALER (10). The Fixer's absence was the sharpest: it carries
+      VOICE_ANCHOR.md anchor 4, "The Fixer is happy to take him", which that
+      document names as the model of licensed interior agency. The registry's
+      own exemplar was not in the registry.
+
+      VULNERABLE CHILD is NOT one of the Seven and never should have been listed
+      as though it were. MANUSCRIPT_FILE_CANON's structural facts: "Chapter 2's
+      daemon roster carries seven, not eight -- the Vulnerable Child left with
+      the gate walk." It survives in ch2 exactly once, at ch2:384, and not as a
+      roster member: "at the center, the youngest part of you still waits: the
+      Vulnerable Child, the player who should have been holding it the whole
+      time." It KEEPS Grade 2, because it is still a named interior part and the
+      grade is about that, not about roster membership. What changes is its
+      trace: it is the part the Seven form around, not one of them, so the
+      per-daemon job constraint does not apply to it and neither does the
+      two-routings-per-chapter inflation rule.
+
+      TWO STRUCTURAL FAULTS FOUND WHILE CORRECTING THE ROSTER. Both are FLAGGED
+      FOR WENDELL, not fixed here, because both are substantive amendments
+      rather than corrections.
+
+      (a) RESOLVED 2026-08-03 -- the class and its rule were deleted rather
+      than defined. `somatic` IS NOT A DEFINED VERB CLASS. This grade's verb_classes list
+      names it, and the constraint above requires the embodied three to act
+      "SOMATICALLY, not verbally", but there is no `somatic` entry in the
+      verb_classes block and therefore no lemma list behind it. The rule has
+      never been machine-checkable. Defining it needs an authored lemma set,
+      which is Wendell's call.
+
+      A FORTIORI, ruled by Wendell 2026-08-03. An entity licensed for a
+      high-severity class is licensed for the MIND-FREE classes as well --
+      mechanical, directional, causal-bare, pattern -- because if it can think
+      it can move. Those four require no mind by the taxonomy's own notes
+      ("mind-free by definition", "usually dead metaphor, not category error"),
+      so flagging them on an entity already licensed to perceive or intend was
+      the table contradicting itself.
+
+      THE BOUNDARY, and why it is not strict severity ordering: a naive a
+      fortiori from perception (severity 1) would license every class including
+      SOCIAL-CAUSAL, and that is wrong. Social-causal needs a counterparty and a
+      will directed at another party, which is an ADDITIONAL claim rather than a
+      weaker one, and nothing about being able to think implies it. This is the
+      same line E-1 draws for the channels -- delivery of signal versus exertion
+      of pressure -- and it holds here for the same reason. Social-causal and
+      speech stay restricted at both grades.
+
+      What (b) said before it was ruled, kept because it is the evidence:
+
+      (b) THIS GRADE LICENSED THE DANGEROUS CLASSES AND NOT THE HARMLESS ONES.
+      verb_classes here was [perception, intention, speech, somatic] -- the three
+      highest-severity classes in the taxonomy -- while mechanical, directional
+      and causal-bare are absent. So a daemon may THINK and SPEAK but flags for
+      MOVING. Adding the three missing daemons surfaced 13 findings and every
+      one is this fault rather than a defect: "the Controller routes coordination"
+      (mechanical), "the Fixer turns I might not be equal to this into a project
+      plan" (directional), "the Healer costs you more" (mechanical), "the
+      Skeptic is what makes you pressure-test it" (causal-bare). All licensed by
+      any reading of C1, all flagged by the table.
+
+      The general principle, if Wendell wants it applied: an entity licensed for
+      a high-severity class is licensed a fortiori for the low-severity ones,
+      because if it can think it can move. Grade 3 has the same shape and the
+      same symptom -- 17 mechanical findings on channels, where "the charge
+      accumulates" is exactly what a current does.
 
   - id: 3
     name: Living currents
@@ -118,7 +380,11 @@ grades:
                # constantly and neither was in the list, so the first W-1 scan
                # under-counted until they went in.
                sadness, neutrality, the feeling, the charge]
-    verb_classes: [directional, perception]
+    verb_classes: [directional, perception,
+                   # a fortiori, 2026-08-03 -- see Grade 2's constraints for the
+                   # reasoning and the boundary. Social-causal stays out, which
+                   # is what leaves room for E-1 to be the narrow exception it is.
+                   mechanical, causal-bare, pattern]
     verb_classes_partial:
       # W-1 RULED by Wendell, 2026-08-02: license `want`, not the class.
       intention: [want, seek, aim]
@@ -178,7 +444,7 @@ grades:
                capitalism, patriarchy, "white supremacy", racism, sexism,
                ableism, the hierarchy, the structure, the norm, the norms,
                the pattern, the dynamic, the market, the economy, the company,
-               the industry, the workplace, the team, the family, the school,
+               the industry, the workplace, the team, the family,
                # Added 2026-08-02 on Wendell's instruction, after the audit found
                # both used heavily and defined nowhere. Two agents refused to
                # grade "the village" rather than guess, which is C2 working.
@@ -246,6 +512,107 @@ grades:
       demotion IS the book's argument enacted in grammar; the argument is made
       explicitly on the page (W-4).
 
+    entity_partial:
+      # RULED by Wendell 2026-08-03. NOT a grade-wide license -- Grade 6's other
+      # entities (the game, the culture, the system, organizations) keep the
+      # pattern-verbs-only ceiling. This is `the field` alone.
+      #
+      # SPEC_FIELD_OF_BODIES_2026-08-02 made the field physical: it is generated
+      # by the bodies present, exists between them and nowhere else, and stops
+      # existing when they leave. ch7:359 now reads "Everyone there makes it."
+      # A thing like that legitimately pushes and carries, the way a magnet
+      # pulls without having a brain. Filing it with the leftovers of what
+      # people did was the wrong shelf.
+      #
+      # SIX VERBS, NOT TWO CLASSES. The first proposal was to license
+      # `directional` + `mechanical` outright, about forty verbs. Wendell
+      # rejected it on his own W-1 precedent -- license `want`, not the
+      # intention class -- and he was right twice. These are the six that
+      # actually appear on the page. A seventh force verb in new prose FLAGS,
+      # and somebody looks at it, which is the point: the sentence where a field
+      # pushes is the sentence most likely to be hiding a person who pushed.
+      #
+      # Still barred at every strength: perception, intention, speech,
+      # social-causal. A field does not learn, allow, ask or answer.
+      #
+      # WHY, stated properly. Wendell 2026-08-03, correcting the loose version
+      # of this ("a field has no brain"):
+      #
+      #   "People in the field can learn how the field responds, but learns is a
+      #    higher order word and the field is a lower order entity. It's a UR
+      #    low level phenomenon, and a LR quantum experience."
+      #
+      # In AQAL terms the field sits in the RIGHT-HAND quadrants -- exterior,
+      # UR as an observable phenomenon and LR as the interobjective space
+      # between bodies -- and at a LOW level within them. Learning, allowing,
+      # asking and answering are LEFT-HAND capacities: they need interiority,
+      # and they belong to higher levels than a field occupies. Attributing one
+      # to the field is a LEVEL confusion, not merely a missing mechanism.
+      #
+      # This is sharper than the brain test and it generalises. It also
+      # explains the severity ladder this registry already had: perception,
+      # intention and speech rank most severe precisely because they are
+      # interior verbs, and mechanical and directional rank least severe
+      # because they are exterior. The ladder was always a left/right gradient;
+      # nobody had said so.
+      #
+      # THE REPAIR DIRECTION FOLLOWS FROM IT. The verb does not get deleted, it
+      # gets returned to whoever holds it. The people in the field learn; the
+      # field responds. Every site below is repaired by finding the person the
+      # capacity belongs to, never by flattening the sentence.
+      the field: [carry, move, push, fill, run, turn]
+
+      # RULED by Wendell 2026-08-03. ch6 is The Architect, "Fixing the Condition
+      # Instead of the Person", and the mechanism by which a system produces an
+      # outcome is that chapter's entire content -- incentive structure,
+      # leverage point, "the system is working exactly as designed". No entity
+      # in the book has its mechanism more explicitly on the page, which is what
+      # C1 asks for. "Understanding WHY a system produces the outcomes it
+      # produces" is the chapter's own definition of structural design.
+      #
+      # Two verbs, on the same narrow principle as the field: the ones actually
+      # on the page, not the classes they belong to. `produce` is causal-bare
+      # and `move` is directional, and Grade 6 licenses neither.
+      #
+      # Still barred: perception, intention, speech, social-causal. A system
+      # does not teach, forget, want or say. SPEC_JORDAN_METAPHOR_ARC_CH4_CH6
+      # names that boundary independently -- "prefer the decision-maker,
+      # incentive, record, or process ... over systems that say, teach, reward
+      # or understand" -- and the two documents agree here.
+      # RULED by Wendell 2026-08-03, reverting two conversions made earlier the
+      # same day. LEDGER_CH9's R4 and R1 were applied and then taken back out.
+      #
+      #   kept  Then I did what THE CULTURE TAUGHT ME to do: I looked outward
+      #         for the solution.
+      #   kept  THE CULTURE NEVER TELLS YOU THIS: the Founder move probably
+      #         already sits somewhere in your history.
+      #
+      # My reading of why, recorded as mine rather than as his: R4 replaced "the
+      # culture" with "every teacher, workshop, and well-meaning friend", which
+      # invents a specific roster where the original was honestly general. DL-36
+      # names that exact failure -- fabricated specificity, "you cannot make a
+      # hypothetical concrete by adding details" -- and closes on "vagueness
+      # admits what it is; a definite article over a blank does not." R1's
+      # "Nobody tells you this" is the milder loss: it drops the source of the
+      # silence, and naming the source is the sentence's whole point.
+      #
+      # Two verbs, and the mechanism is the same one the Schools ruling used:
+      # a culture transmits through the people carrying it, and in ch9:247 the
+      # transmitters are the paragraph's own subject -- "I came to it the way
+      # most people come to it."
+      #
+      # Still barred: intention, and every social-causal verb other than teach.
+      # The culture may teach and tell. It may not reward, punish, shame or
+      # forbid, because those need a party on the receiving end and a will
+      # aimed at them.
+      the culture: [teach, tell]
+      culture: [teach, tell]
+
+      the system: [produce, move]
+      the systems: [produce, move]
+      a system: [produce, move]
+
+
   - id: 7
     name: Shame and stuck states
     entities: [shame, worry, rage, despair, guilt, anxiety, dread, resentment,
@@ -264,14 +631,66 @@ grades:
     entities: [the framework, frameworks, this chapter, the chapter, the book,
                the model, the concept, the idea, "the work", "the practice",
                "the process", "the approach", "the method", "the theory",
-               "the research", "the data", "the argument", "the section"]
-    verb_classes: []
+               "the research", "the data", "the argument", "the section",
+               # Added 2026-08-03. "The next chapter teaches you to read the
+               # fear channel" was invisible because only `the chapter` and
+               # `this chapter` were listed. The book writes the deictic forms
+               # too, and they are the same entity.
+               the next chapter, the last chapter, the previous chapter,
+               the first chapter, the next section, the last section]
+    verb_classes: [mechanical, directional]
     trace: none
     constraints: >
       Authorial metonymy ("this chapter asks", "the book returns to") pends
       W-2. Tag, do not resolve.
 
 # ---------------------------------------------------------------- ambiguity
+    constraints: >
+      RULED by Wendell 2026-08-03. This grade licensed NOTHING, which made it
+      the strictest in the registry -- and it is the DEFAULT bucket, where every
+      unlisted abstraction lands: the work, the book, this chapter, the
+      practice, the method. So ch9's own named diagnostic, "does the work move
+      toward contact with someone, or away from it", run three times as a test
+      the reader performs, flagged on every pass.
+
+      Mechanical and directional are now licensed. NOT by the a fortiori
+      argument used for Grades 2 and 3 -- that reasons from a high-severity
+      license down, and this grade had none to reason from. The ground here is
+      simpler and the registry's own header already states it: mechanical is
+      "mind-free by definition", and mechanical and directional on unlicensed
+      subjects are "usually dead metaphor, not category error". A verb that
+      cannot carry a mind cannot constitute unearned mind, whatever the subject.
+
+      DELIBERATELY NOT LICENSED: causal-bare and pattern. W-2 ruled that the
+      book may take "mechanical and directional for structural navigation" and
+      named those two classes exactly. Licensing causal-bare here would reopen
+      sites W-2 closed -- "the book left you to figure out the rest" is a
+      causal-bare verb on a Grade 0 subject, and it was converted to the
+      author's chair on purpose.
+
+    entity_partial:
+      # W-2's navigation license, finally encoded. Wendell ruled it 2026-08-02:
+      # "The book and chapter may take mechanical and directional verbs for
+      # structural navigation (covers, returns to, points to, put, handed,
+      # left)." That ruling has been prose in `open_rulings` ever since and the
+      # instrument could not read it, so all six navigation sites kept flagging
+      # W-2-ILLEGAL when W-2 had explicitly permitted them.
+      #
+      # The named verbs live in causal-bare, which this grade deliberately does
+      # NOT license -- see `constraints` -- so they need an entity-level list
+      # rather than a class. `leave` and `give` are here because W-2's own list
+      # names `left` and `handed`, and "the chapter leaves you holding a
+      # practice" and "the chapter gave you a polarity" are the same structural
+      # delivery in different words.
+      #
+      # Still barred at every strength: perception, intention, speech, and
+      # social-causal. A chapter does not teach, ask, want or name.
+      the book: [cover, return, point, put, hand, leave, give]
+      the chapter: [cover, return, point, put, hand, leave, give]
+      this chapter: [cover, return, point, put, hand, leave, give]
+      the section: [cover, return, point, put, hand, leave, give]
+
+
 disambiguation:
   game:
     note: >
@@ -304,6 +723,53 @@ registers:
   - block: SIGNATURE
     tag: HANDBOOK-REGISTER
     scanned: true
+
+  # RULED by Wendell 2026-08-03: "keep all 16, log the ruling."
+  - block: HEADING
+    tag: DISPLAY-REGISTER
+    scanned: false
+    note: >
+      Markdown headings are display type, not prose claims, and are OUT OF SCOPE
+      for the agency audit at every grade. agency_grep.py already skips lines
+      beginning with `#`; this entry makes that intentional rather than
+      incidental.
+
+      The ruling was taken on the village headings, which are the whole
+      population of the question -- 16 across the manuscript, and no other
+      abstraction holds a heading anywhere in the book. Zero converted.
+
+      THE REASON, which generalises past the village: a heading names the
+      PATTERN and the body beneath it names the PEOPLE. That is C1's own
+      formulation -- patterns don't teach, people do, and the pattern is what
+      their teaching leaves behind. So "What the Village Does With Tradition"
+      sitting above a body that says "the villagers" is not a mismatch left over
+      from the R8 pass. It is the model working, with the signpost at pattern
+      altitude and the claim at person altitude.
+
+      The 16 are three different things, and only one of them was ever arguable:
+
+      ARENA (4) -- ch2:166, ch4:374, ch5:496, ch6:349. "Forest vs Village",
+      "Run the 30-Second Protocol in the Village". This is the book's central
+      polarity, where the Village is the place a move costs something and the
+      Forest is where it costs nothing. Never a candidate, and converting one
+      would be a category error, not a style choice.
+
+      FABLE FORMULA (10) -- ch3, ch4, ch5, ch6, ch8, two each:
+        "Why the [Face] Left the Village (And What the Village Lost)"
+        "What the Village Does With [X] When the [Face] Is Gone"
+      Only the second of each pair carries agency at all. "Left the Village" is
+      locative and was never a defect. So the real question was five headings of
+      one formula, not sixteen.
+
+      MYTHIC COUNTERPART (2) -- ch9:610, ch9:672. "The Village Is Already
+      Playing" is the last place the book states Player against Village,
+      singular against singular, two screens from the end.
+
+      Worth recording that the book had already answered this itself. ch7 has no
+      village heading anywhere, and ch9's own fable headings dropped the word --
+      "Why the Player Left (And What They Carried With Them)", not "Left the
+      Village". The formula was five chapters, never the book, and the closing
+      chapter had already walked away from it.
 
 # ---------------------------------------------------------------- remediation
 # C5 precedence, highest first. Where several apply to one site, take the
@@ -416,6 +882,182 @@ tiers:
   1: "mechanical or directional on an unlicensed subject; isolated causal-bare"
 
 # ---------------------------------------------------------------- open rulings
+# ---------------------------------------------------------------------- holds
+# RULED by Wendell 2026-08-03: "put the don't touch notes where the machine
+# reads them."
+#
+# A hold is a site somebody looked at, decided not to change, and recorded. Until
+# now holds lived in editorial_reports/agency/R8_VERDICT.md and in commit
+# messages -- neither of which agency_grep.py has ever opened. On 2026-08-03 a
+# village pass converted ch8:164's triple anaphora, which R8_VERDICT had held for
+# Wendell, because the pass was reading the registry and the hold was somewhere
+# else. That is the failure this block exists to prevent.
+#
+# The net matches `anchor` as a substring of the sentence and suppresses the
+# finding with a HELD tag. `--loose` ignores holds along with every other filter,
+# so a full census is still one flag away.
+#
+# THIS IS THE FOURTH TIME THIS WEEK the answer has been "move the decision into
+# the registry as data" -- after `registers`, `sense_exceptions` and
+# `entity_partial`. A ruling that lives in prose is a ruling the instrument
+# cannot honour.
+
+holds:
+  - anchor: "what is this system actually rewarding"
+    file: manuscript/ch6.md
+    why: >
+      RULED KEEP by Wendell, DL-45 era. SPEC_JORDAN_METAPHOR_ARC_CH4_CH6 names
+      `reward` as a verb to convert, but its stated purpose is telling Jordan
+      where to look, and asking what a system rewards is exactly where to look.
+      Converting it costs the reader the question.
+
+  - anchor: "The game read tells you what to do"
+    file: manuscript/ch8.md
+    why: >
+      The subject is the read YOU produced, and the line is deliberately
+      parallel with "The altitude read tells you how to say it." Not B6, which
+      is clean across the whole book.
+
+  - anchor: "Do the work the game requires"
+    file: manuscript/ch8.md
+    why: >
+      `require` is classed social-causal but the sense here is structural
+      entailment, like "the recipe requires flour". Carries a SENSE-CHECK tag
+      from `sense_exceptions` rather than clearing on syntax, because a system
+      that requires you to file three forms IS exerting.
+
+  - anchor: "the one thing the work actually needs"
+    file: manuscript/ch9.md
+    why: >
+      `need` on an artifact is LACKS, not desires. Different from "the village
+      needed someone to go first", where a population wanting something was the
+      point. The real defect in this sentence was `dodges`, converted 2026-08-03.
+
+  - anchor: "the data shows Y"
+    file: manuscript/ch4.md
+    why: >
+      Transitive `show`, so `sense_exceptions` correctly does not clear it -- but
+      it sits inside a quoted example sentence the reader is meant to SAY. The
+      `registers` block covers marginalia, epigraphs, postcards, handbooks and
+      signatures, not inline quoted dialogue. A real register gap, recorded
+      rather than papered over with a filter.
+
+  - anchor: "the pattern starved them"
+    file: manuscript/ch3.md
+    why: >
+      `starve` is in no class and should stay out. Starving is a DEPRIVATION,
+      low-order and exterior -- a famine starves people and claims no mind. The
+      mechanism is on the page one paragraph up: "cut off from the very source
+      of energy that would have sustained them."
+
+  - anchor: "which the Shaman hands you in Chapter 3"
+    file: manuscript/ch1.md
+    why: >
+      The only instance in the book of a Face acting on the reader from outside
+      the frame; it reads as "which Chapter 3 hands you". Licensed at Grade 1
+      and not a defect, recorded so a later pass does not think it found
+      something.
+
+  - anchor: "The system did not give you your superpower"
+    file: manuscript/ch3.md
+    why: >
+      A NEGATION. The book denying system agency, not asserting it.
+
+  - anchor: "They learned to say *I see all the games*"
+    file: manuscript/ch8.md
+    status: CONTESTED — converted while held, awaiting a read-aloud
+    why: >
+      R8_VERDICT held this: "It learned... It learned... It learned... reads as
+      one organism quietly acquiring bad habits. They learned dilutes it to
+      crowd narration. It may be doing the same work anchor 3 protects."
+      instruments/ch578_village.py converted all three instances on 2026-08-03
+      as part of the ch5/ch7/ch8 village pass. Its docstring discusses an
+      anaphora -- ch5's -- and never mentions this one.
+
+      The claim R8_VERDICT made is about VOICE and can only be settled by
+      reading both versions aloud. Nobody has. The conversion ships in the
+      meantime; if the singular has the menace, it is one revert. Held here so
+      the contest stays open rather than closing by default a second time.
+
+# ------------------------------------------------------------ sense exceptions
+# RULED by Wendell 2026-08-03, after the same problem cost four separate blocks.
+#
+# A lemma names a WORD. A class names a SENSE. The taxonomy conflates them, so
+# every verb here sits in a class that is right for one of its senses and wrong
+# for the one the book uses. Each was caught by reading, recorded as a note, and
+# then raised again by the next scan, because a note in prose is not something
+# an instrument can read.
+#
+# Where the sense has a clean syntactic test, the net now clears it outright.
+# Where it needs judgement, the net tags it SENSE-CHECK so a reader knows the
+# site has been seen before rather than meeting it fresh.
+
+sense_exceptions:
+
+  - verb: mean
+    classed_as: intention
+    wrong_because: >
+      `mean` is in the intention list because of "I MEAN TO do X". The book uses
+      the semantic sense almost everywhere -- "fear meant something", "anger
+      meant something", "Redesigning the game means moving the same work onto
+      the other set". That is SIGNIFIES, and signifying is not intending.
+    rule: "intention sense requires a following `to`; without it the sense is semantic"
+    action: clear
+    found_in: [W-1 ch3:56, W-1 ch3:101, ON_THE_SHOULDERS_OF:70]
+
+  - verb: ask
+    classed_as: speech
+    wrong_because: >
+      "Fire asks for agency" is not Fire speaking. `ask for` means CALLS FOR, the
+      same sense as "this dish asks for salt". The speech sense is `ask` with a
+      question or a person as object.
+    rule: "followed by `for` -> calls-for sense, not a speech act"
+    action: clear
+    found_in: [ch4:670, the ch7 field read]
+
+  - verb: answer
+    classed_as: speech
+    wrong_because: >
+      "Where fear answers to imposter syndrome" means GOES BY THE NAME OF. No
+      speech act occurs.
+    rule: "followed by `to` -> named-as sense"
+    action: clear
+    found_in: [ch3:150]
+
+  - verb: show
+    classed_as: perception
+    wrong_because: >
+      "the only place the pattern shows" is intransitive and means IS VISIBLE.
+      The perception sense is transitive -- something shows something to someone.
+    rule: >
+      the perception sense is TRANSITIVE -- something shows something. Bare, or
+      followed by an adverbial, it means is-visible: "the pattern shows nowhere
+      else", "The pattern shows fully", "shows up". The first draft of this rule
+      tested only for bare-or-`up` and missed both real sites.
+    action: clear
+    found_in: [the Grade 6 batch]
+
+  # NOT a sense exception. Recorded here because the pattern block was read on
+  # 2026-08-03 and this is where a later pass will look. ch3:152, "They called
+  # the pattern efficiency, and the pattern starved them." `starve` is in no
+  # class and should stay out: starving is a DEPRIVATION, low-order and exterior
+  # in the AQAL terms Wendell set for the field. A famine starves people and no
+  # mind is claimed. The mechanism is on the page one paragraph up -- "cut off
+  # from the very source of energy that would have sustained them" -- so C1 is
+  # satisfied, and the sentence is a closing turn worth keeping.
+
+  - verb: require
+    classed_as: social-causal
+    wrong_because: >
+      "Do the work the game requires" is structural entailment, the same as "the
+      recipe requires flour". No mind, no counterparty, no pressure exerted on
+      anyone. But `require` on a structure CAN be a real social act -- a system
+      that requires you to file three forms is a system exerting -- so this one
+      does not clear on syntax alone.
+    rule: "on grades 4, 6 and 7 the entailment reading is the common one"
+    action: tag            # SENSE-CHECK, not cleared
+    found_in: [ch8:381]
+
 # ---------------------------------------------------------------- exceptions
 # Carve-outs that sit OUTSIDE the grade system rather than inside it. A grade
 # says which verb classes an entity may take. An exception says a device is
@@ -439,7 +1081,20 @@ exceptions:
       work rather than the local sentence. Grading it as a severity-4
       social-causal violation inverts the relationship: it would flag the thesis
       for being stated.
-    licensed_verbs: [teach, say, report]
+    licensed_verbs: [teach, say, report, tell]
+    # `tell` added 2026-08-03 with the Grade 7 extension. The original three
+    # were read off the ch3 liturgical block, which happens not to use it, so
+    # the list was a census of one passage rather than of the device. `tell` is
+    # the same act as `say` -- delivering a content -- and extending to Grade 7
+    # surfaced two sites that use it: "what the guilt never tells you" and
+    # "anxiety tells them what you need the outcome to look like".
+    #
+    # The second is worth a note, because its recipient is not the bearer:
+    # anxiety tells THEM, the people watching. That is still the emotion
+    # delivering a true content ABOUT its bearer, which is what E-1 licenses,
+    # and it is signal leaking rather than pressure exerted -- so it stays
+    # inside the boundary. An emotion telling a third party what to DO would
+    # not.
     licensed_shape: >
       The channel DELIVERS A TRUE CONTENT ABOUT THE PERSON'S OWN STATE OR
       VALUES. That is the whole of it. "Fear teaches you what you actually care
@@ -474,7 +1129,62 @@ exceptions:
       - ch4:222  "what is this anger teaching me"
       - ch4:674  "a defence answers an accusation and Water made a report"
       - ch9:380  "The fear does not say / The fear says"
+    extended_to_grade_7: >
+      RULED by Wendell 2026-08-03, closing W-3. E-1 originally covered Grade 3,
+      the five channels. It now covers GRADE 7 as well -- shame, guilt, anxiety,
+      dread, worry, despair, resentment, contempt, burnout, the freeze, the
+      shutdown, the stuck.
+
+      The construction is identical and the registry was treating one as thesis
+      and the other as defect:
+
+        Sadness says "this was true. This connection was real."   ch3, protected
+        The shame says: this wound was done to me, therefore      ch5, Tier 2
+        I am broken.
+
+      ch5:376 settles it, because it runs the device as a matched pair one line
+      apart -- "The shame says: this wound was done to me, therefore I am
+      broken. The gift says: I know how to recognize it and stop it." A stuck
+      state reporting its content is the same act as a channel reporting its
+      content, and the book corrects the first with the second. That IS the
+      education-by-emotions register; it was never confined to the five that
+      happen to be channels.
+
+      The boundary is unchanged and still does the work: DELIVERY OF A TRUE
+      CONTENT ABOUT THE BEARER'S OWN STATE. A stuck state may say what it says
+      and tell what it tells. It still may not reward, punish, shame, blame or
+      forbid anyone -- exertion of pressure on another party stays illegal at
+      Grade 7 exactly as it does at Grade 3.
+
+      Four sites move under this: ch1:68 "what the guilt never tells you",
+      ch5:376 "The shame says", ch5:602 "anxiety tells them what you need the
+      outcome to look like", ch7:710 "the dread usually says that naming the
+      terms will cost you the belonging".
+
     handling: NEVER FLAG. Not an R-op. Not a W-question. Do not convert.
+    precedence: >
+      E-1 OUTRANKS SPEC_JORDAN_METAPHOR_ARC_CH1_CH3_2026-08-02.md section 5,
+      [METAPHOR_OVERREACH] "Feelings are information for inquiry, not messages
+      with fixed meanings", which requires that a feeling be framed as something
+      to investigate rather than obey and names "deliver a message" phrasing as
+      the risk.
+
+      The two documents were written the same day and pull opposite ways on the
+      same sentences. The Jordan spec was drafted from master, which did not
+      carry this exception. Wendell ruled 2026-08-03: "sadness says stands as
+      ontology, E-1 wins."
+
+      So the liturgical register keeps its authority-voice. `teach`, `say` and
+      `report` on a channel are not hedged, softened, or given a corrigibility
+      qualifier. "Sadness says: this was true. This connection was real." ships
+      as written.
+
+      What the Jordan spec still governs, because the ruling did not reach it:
+      the ETHICAL_GAP in the same section, on "Name the channel out loud"
+      becoming an unauthorized diagnosis in unequal-power settings. That is
+      about the reader naming a channel in someone ELSE, which is a different
+      act from a channel delivering a content about its own bearer. E-1 says
+      nothing about it and does not shield it.
     near_misses:
       # Caught by the sweep, cleared on SENSE rather than on E-1. Recorded so a
       # later pass does not re-flag them and then wrongly file them under E-1.
@@ -521,20 +1231,90 @@ open_rulings:
       the seat, when the true subject is the reader.
     handling: "CLOSED. Converted in instruments/agency_w2.py and agency_w2b.py."
   W-3:
+    status_final: RULED 2026-08-03 — no cutoff. The premise expired.
     question: "Print scope severity cutoff."
     proposal: >
-      Perception + intention verbs on unlicensed/violating subjects in the
-      nine shipping chapters; all else parked to edition two.
-    status: UNRULED
-    handling: "Fix-phase only. Does not gate this analysis pass."
+      Perception + intention verbs on unlicensed/violating subjects in the nine
+      shipping chapters; all else parked to edition two.
+    status: RULED
+    ruling: >
+      NO CUTOFF, because there is nothing left to cut. W-3 was written to triage
+      a backlog and the backlog is gone.
+
+      Read on 2026-08-03, all 39 findings then standing: 18 at Tier 3, 15 at
+      Tier 2, 6 at Tier 1 -- and EIGHT of the 39 were real. The rest were
+      recorded keeps or false positives: `including` read as social-causal, "the
+      burnout claims in this book" where claims is a noun, "the game system
+      Wendell built" where Wendell built it.
+
+      Eight sites is not an edition-two problem. All eight were closed the same
+      day, four by extending E-1 to Grade 7 and four by conversion:
+
+        Most frameworks teach one
+        -> Most frameworks pick one
+
+        not a defense of the organizations that used tradition to protect power
+        -> not a defense of the people who used tradition to protect power
+
+      The last two conversions were LEDGER_CH9's own R4 and R1, drafted when
+      that ledger was written. They were applied and then REVERTED the same day
+      on Wendell's ruling -- "keep these and lose the rest" -- so `the culture
+      taught me to do` and `The culture never tells you this` both ship as
+      written, under an entity_partial in Grade 6. So W-3 closed at two
+      conversions, not four, plus the four the E-1 extension carries.
+
+      WHAT THE QUESTION TURNED INTO. Stripped of the triage framing, W-3's real
+      content was a boundary question hiding inside it: four of the eight were
+      Grade 7 stuck states speaking, in a construction identical to the one E-1
+      protects at Grade 3. The registry was calling "Sadness says" thesis and
+      "The shame says" a defect. That is settled in `exceptions: E-1`, under
+      `extended_to_grade_7`, and it is the durable half of this ruling. The
+      cutoff half simply stopped applying.
+    handling: "CLOSED. Conversions in this commit; the E-1 extension carries the rest."
   W-4:
+    status_final: RULED 2026-08-03 — no new name. Extend the move already sworn to.
     question: "Placement of the confrontation beat (the C1 corollary dependency)."
     proposal: >
-      A Game So Far beat — systemic language as the Diplomat shadow's hiding
-      place ("the culture here is toxic" said instead of "Dave, you interrupted
-      her three times"; the abstraction absorbs the confrontation the Diplomat
-      is avoiding).
-    status: UNRULED
-    handling: >
-      Ship-phase only. This pass reports WHERE the Grade-6 violations cluster,
-      which is evidence toward placement.
+      A Game So Far beat — systemic language as the Diplomat shadow's hiding place
+      ("the culture here is toxic" said instead of "Dave, you interrupted her three
+      times"; the abstraction absorbs the confrontation the Diplomat is avoiding).
+    status: RULED
+    ruling: >
+      THE PROPOSAL'S VEHICLE DOES NOT EXIST. `The Game So Far` has zero hits across
+      all nine chapters. SPEC_REPETITION_AND_CUTS.md:140 established this and noted
+      the project glossary describes it as recurring seven times.
+
+      THE DEMONSTRATION ALREADY EXISTS, unnamed, at ch6:122 -- "They could then
+      dismiss structural insight with the vocabulary itself: we already looked at
+      the incentives, we're addressing the leverage points." ch3's council parable
+      and ch7's letting-agent example are the same genus. Three demonstrations,
+      zero labels.
+
+      Wendell took the Regent's option from the 6 Game Master read: the book has
+      already sworn to a move that does this job. `Say the Thing Under the Thing`
+      is a named game move at ch3:850, in the roster the reader carries into every
+      chapter after. Minting a second name for it is how a roster becomes a
+      glossary.
+
+      So: no new move, no new name, no new slot. ONE PARAGRAPH added to Move 5's
+      `In practice`, which already teaches the first way a read dies -- the case.
+      This is the second way:
+
+        You reach for the category instead of the person, and that kills a read
+        faster than any case: *the culture here is toxic* rather than *Dave, you
+        interrupted her three times.* The category feels braver and costs less,
+        because nobody has to be Dave. Name a system and nobody has to answer you.
+
+      The example pair is W-4's own, verbatim from the proposal above, so nothing
+      was invented to fill it. `Dave` follows the book's placeholder convention
+      (Ade, Dara, Femi, Kit, Meera) and the specificity sits in what happens
+      rather than in invented particulars, which is the legal form per ch1:22.
+
+      WHAT THIS RULING DECLINES. The note assigned the beat to the Diplomat's
+      shadow. The evidence says the Architect supplies the vocabulary and the
+      Diplomat reaches for it, which made the Ch6->Ch7 seam the obvious home and
+      would have needed a new name to occupy it. Placing it on an existing Shaman
+      move costs that reading -- the beat no longer sits where the handoff
+      happens. It buys the reader no new vocabulary at a point where she is
+      already carrying ten named moves.
+    handling: "CLOSED. One paragraph in ch3 Move 5. Reviewed under the mtgoa-review pass."

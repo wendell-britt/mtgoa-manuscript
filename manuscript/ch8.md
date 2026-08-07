@@ -66,7 +66,7 @@
 <!-- /MARGINALIA -->
 
 
-The Sage isn't the person who sees furthest. It's the person who looked at himself long enough to stop performing the view.
+The Sage earns the name by looking at themselves long enough to stop performing the view. Seeing furthest is the easy half.
 
 That is the thesis, and it comes with a limit case attached. The School of the Horizon applies when your allyship has become fluent enough to risk turning into performance, superiority, or escape. It does not apply while harm happens in front of you. In that case, do not sit there polishing your interiority. Draw the line, call the help, interrupt the damage. Inner work keeps the response clean enough to still work tomorrow. It looks like delay from outside, and on a bad day it looks like delay from inside too.
 
@@ -74,7 +74,7 @@ Once, the Sage lived inside the village's conversations.
 
 At the same level as everyone else in them. The Sage could sit at a table and see all the games at once: could feel the Challenger's charge in the air and know exactly which line someone had crossed, could watch the harmony forming and see the strategy underneath it, could notice when a meeting shifted from one game to another before anyone else had caught it.
 
-The villagers noticed this. At first it seemed useful. The Sage could name which game the meeting was really playing. The Sage could say: *we're treating this like a problem to be seen whole, and it's actually a harmony problem (everyone needs to feel heard first), that's why no amount of vision is fixing it.* The Sage could look at the conflict and say: *this is a boundary issue dressed up in strategy language.* The village would pause. Sometimes that pause did the work.
+The villagers noticed this. At first it seemed useful. The Sage could name which game the meeting was really playing. The Sage could say: *we're treating this like a problem to be seen whole, and it's actually a harmony problem (everyone needs to feel heard first), that's why no amount of vision is fixing it.* The Sage could look at the conflict and say: *this is a boundary issue dressed up in strategy language.* The villagers would pause. Sometimes that pause did the work.
 
 Then something shifted.
 
@@ -84,7 +84,7 @@ The Sage said: *I see this and I'm staying.*
 
 What landed instead was: *I see this and I'm not on your side.*
 
-That's not what the Sage meant. The villagers had gotten used to wisdom as a form of leaving. The guru on the mountain. The teacher who has risen above it all. The sage who sees the game and therefore must be outside the game. When the Sage refused to leave, when the Sage said *I see all of it and I'm still here, still setting the table, still in relationship*, the village didn't know what to do with that. It didn't match the story they'd heard about what seeing meant.
+That's not what the Sage meant. The villagers had gotten used to wisdom as a form of leaving. The guru on the mountain. The teacher who has risen above it all. The sage who sees the game and therefore must be outside the game. When the Sage refused to leave, when the Sage said *I see all of it and I'm still here, still setting the table, still in relationship*, the villagers didn't know what to do with that. It didn't match the story they'd heard about what seeing meant.
 
 They had made a rule: if you can see the pattern of the game, you must stop playing. Seeing began the leaving. Wisdom ruled out commitment. The person who saw everything had decided not to belong.
 
@@ -163,7 +163,7 @@ Without the Sage, the villagers play every game at once and lose track of which 
 
 A Sage in distortion emerged to fill the gap. Not the real Sage, the village's version. The one who sees everything and commits to nothing. Who can name every game and won't choose one. Who has enough perspective to explain why none of it matters and not enough commitment to be useful. Who mistakes seeing for wisdom, and wisdom for the ability to opt out.
 
-The village kept the Sage's vocabulary and dropped the practice. It learned to say *I see all the games* without learning what it costs to hold that view while still choosing to be present. It learned to name the games other people were playing without noticing it was also playing one. It learned to *describe* perspective without *practicing* it.
+The villagers kept the Sage's vocabulary and dropped the practice. They learned to say *I see all the games* without learning what it costs to hold that view while still choosing to be present. They learned to name the games other people were playing without noticing they were also playing one. They learned to *describe* perspective without *practicing* it.
 
 The trap works one way: seeing becomes a way to avoid being in the game. You can name every game, which means you never have to commit to any of them. You can diagnose everyone's stuckness, which means you never have to look at your own. You can see the whole board, which means you never have to play a piece of it. Perspective without commitment. Vision without embodiment. The guru on the mountain: not because the guru chose the mountain, but because the mountain is cheaper than the table.
 
@@ -386,7 +386,7 @@ Underneath the Liberator's first failure is something almost nobody names out lo
 
 This is stuck Joy, and stuck Joy is the hardest of the five to catch, because it doesn't feel like a problem. It feels like commitment. *I am the person who holds this together* names the feeling, and saying it feels good.
 
-The alchemy: you notice that the joy has fused to this particular game rather than to playing, and you name it: *I don't want to give this up because giving it up means being someone who doesn't do this anymore.* Then you let the attachment loosen from the object. The game was yours for a time, the time was real, and the ending is not the same as the failure. The game taught you what it had to teach. The bliss is discovering that the aliveness was never the game's property. It was yours, it travels, and the game is allowed to end.
+The alchemy: you notice that the joy has fused to this particular game rather than to playing, and you name it: *I don't want to give this up because giving it up means being someone who doesn't do this anymore.* Then you let the attachment loosen from the object. The game was yours for a time, the time was real, and the ending is not the same as the failure. Nothing is left in it you did not already get. The bliss is discovering that the aliveness was never the game's property. It was yours, it travels, and the game is allowed to end.
 
 ---
 **Alchemy Move 5: Returner**  
@@ -677,9 +677,9 @@ The kit does have a logic. Seeing without naming is silence. Naming without swit
 
 You pause at the door. You take one breath. You ask: *which game are we actually in, and what game is being played underneath the one we're talking about?*
 
-**Example:** A support group is forty minutes into whether Ellis should apply for the review board, and the argument has become logistics. Ellis has said twice that he does not want the board to decide whether what he did was defensible. Name the game: *I think we are running a strategy game and Ellis is in a different one. He is not asking us how to win this.* Some people settle and some brace. You have named it and not solved it, which is the move, and Ellis says nothing for a while.
+**Example:** A support group is forty minutes into whether Ellis should apply for the review board, and the argument has become logistics. Ellis has said twice that he does not want the board to decide whether what he did was defensible. Name the game: *I think we are running a strategy game and Ellis is in a different one. He is not asking us how to win this.* Some people settle and some brace. You have named it and not solved it, which is the move, and Ellis does not speak again.
 
-**Why it matters:** The naming doesn't solve it. It makes it possible to choose what to do next. Once you've named the game, you're no longer being played by it. You're choosing whether to play it.
+**Why it matters:** Naming the game does not end the argument. It lets you choose what to do next. Once you've named the game, you're no longer being played by it. You're choosing whether to play it.
 
 **Working vs. performed:** The shadow version names the game and feels superior for knowing. Service names what you see as an offer people can correct: *I think we may be treating this as a strategy problem when somebody needs a line. Does that fit for you?* The sentence carries your reading without demanding that anyone live inside it.
 
@@ -720,6 +720,8 @@ The distortion skips this move and stays at the whole-board view, because coming
 
 **Example:** Kit's mother died in March and Kit is running the same three arguments about the funeral that they ran in April. You can see the whole board, including the part where none of this is about the funeral. Ask what help would feel useful before you name the pattern. If Kit wants to talk about the caterer, talk about the caterer at length, seriously. If Kit asks what you see, offer it as a question they can refuse. The whole board does not give you the right to decide which game Kit can be in this month.
 
+**The test:** Afterwards, does the person bring you the next problem, or a version of it they have already tidied? People bring their mess to an equal and their homework to a judge.
+
 ### Move 4: Put a Game Down
 
 **What it is:** Identify a game you no longer need to play. A fight you inherited from a version of yourself that needed it. A role you grew past. An identity that was useful once and now keeps you small. Put it down. Cleanly. Not because it didn't matter, because it mattered and it's over.
@@ -730,9 +732,9 @@ This is what the Release stage actually asks. Not ascent. Completion. The game r
 
 **Working vs. performed:** Putting down becomes giving up. The Sage who keeps dropping games before they've given what they have to give isn't practicing the Liberator, they're practicing avoidance. 
 
-**Example:** You have spent nine years being the person who never misses what everyone else misses, and you can name what that bought you: it got you taken seriously at twenty-eight, in an outfit that took nobody seriously at twenty-eight. Say what it taught you before you set it down. Then set it down, and let a meeting go past with something unnamed in it. Nobody notices. That is not the same as nothing happening.
+**Example:** You have spent nine years being the person who never misses what everyone else misses, and you can name what that bought you: it got you taken seriously at twenty-eight, in an outfit that took nobody seriously at twenty-eight. Say what you learned before you set it down. Then set it down, and let a meeting go past with something unnamed in it. Nobody notices. That is not the same as nothing happening.
 
-**The test:** Can you name what the game taught you before you put it down? If you can't, it was never really yours. If you can, and you put it down anyway, that's the practice.
+**The test:** Can you name what you learned from it before you put it down? If you can't, it was never really yours. If you can, and you put it down anyway, that's the practice.
 
 Do not call it maturity when you simply got tired of being accountable. Do not call it freedom when what you did was leave before the repair.
 
@@ -753,6 +755,8 @@ Do not use the meta-view to make yourself unaccountable. If your clarity only ma
 ---
 
 **Example:** Ade has the test result and a fifty per cent chance of what killed his father at sixty. He has decided not to tell his brother. You can see the whole of it: the brother's right to know, the family pattern of not saying, the ten years of managing this alone. Hold all of it and stand on the ground: *what do you want to do on Sunday.* The whole board stays available to you and does nothing on the table. Ade decides about his brother.
+
+**The test:** Name what this game could cost you in the next month. If the whole-board view has left you with nothing at stake, you are standing beside the board rather than on it.
 
 The moves are what you do. The next question is where.
 

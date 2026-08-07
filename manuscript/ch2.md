@@ -309,7 +309,7 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 
 The Protector works the door of the Forest. You meet it first, the most physical of the seven. The Protector is the hull of the ship, the body itself, holding its shape, keeping the water out, taking the hit when a hit comes. It is the embodied feeling of self-preservation. It does not argue or explain; it braces. It knows danger before you could prove it to anyone, because a hull that waits for proof is already taking on water.
 
-The instant something reads as a threat (a shift in tone, a move for power), the Protector has already braced to meet it, faster than thought. That speed has kept you alive, and you want to keep it. The next chapter teaches you to read the fear channel it runs on, which is where steering it starts.
+The instant something reads as a threat (a shift in tone, a move for power), the Protector has already braced to meet it, faster than thought. That speed has kept you alive, and you want to keep it. In the next chapter you learn to read the fear channel it runs on, which is where steering it starts.
 
 The trouble: a hull built to survive cannot always tell which century it is in. To the Protector, losing your place in the group registers the same as getting left to die, because for most of human history those were one event. So it runs your social life on survival settings, meeting a hard conversation or a public challenge with machinery built for a predator. That is why it gets so tired: it has been holding the whole ship rigid against threats that were never going to sink you.
 
