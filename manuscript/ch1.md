@@ -215,21 +215,29 @@ Each of the three pays out differently. Most frameworks teach one and treat the 
 
 **Games of Chance — right place, right time.**
 
-You cannot control the right place or the right time. You can only control whether you are standing there when they arrive. A Game of Chance is the reorg that dissolves the case your coworker spent two weeks building the week before she files: timing you never touched, three floors up, deciding everything. It runs the opposite way too: you are on a group thread you got copied on by habit, you catch that a hire is about to go sideways, and the one message you send, because you happened to be there to send it, lands the right person the job. That is the same game, and you do not get to schedule either one.
+The coin pusher takes your token, drops it onto a shelf already crowded with everybody else's, and slides a bar forward. Most drops move nothing. Then one you played exactly like the last forty sends a sheet of tokens over the edge. You cannot aim it. You feed it steadily and it pays in bursts you did not earn, which is why the biggest single payouts on the floor come off machines like that, and why nobody can tell you when.
 
-That is why Chance pays the biggest of the three: jackpot money, the wins that reshape things. The price of that ceiling is that you cannot make it hit on command. So you play a Game of Chance one way: stay in the game. Keep showing up in the places where the break could land, and refuse to read the losses as failure. When the reorg eats the case, you did not misplay it. You were in the game, the only move Chance rewards, and the jackpot you are still there for is real.
+Allyship has that machine. It is the reorg that dissolves the case your coworker spent two weeks building, the week before she files: timing you never touched, three floors up, deciding everything. It runs the other way too. You are on a group thread you got copied on by habit, you catch that a hire is about to go sideways, and the one message you send, because you happened to be there to send it, lands the right person the job.
+
+Chance earns a category to itself because standing there is the whole move. Keep showing up where the break could land, and refuse to read the stretches that pay nothing as failure. When the reorg eats the case you did not misplay it. You were in the game, which is all Chance ever rewards.
 
 **Games of Skill — the part you can build.**
 
-A Game of Skill is the one you actually control. Hearing what a person means underneath what they say is a skill. Naming your walk-away price and saying it before the pressure says it for you is a skill. Nobody is born fluent; you get them the way you get any skill, doing it badly and then less badly. The payout is honest and proportional: you get back about what your skill earns, no jackpot, no leverage, a steady wage for competence.
+Skeeball measures you. You roll, the machine reads where the ball landed, and tickets come out of the slot in proportion to how well you rolled. Nobody has ever hit a jackpot on skeeball. You get back what you earned, every time, which is the whole appeal and the whole limit.
 
-With one catch: a skill only pays where someone wants it. Bring the sharpest skeeball game in the world to an arcade whose owner is exhausted and going under, and you will not make a dime, because nobody there is playing. Skill is worth exactly what someone nearby actually needs from it. So it is two moves, not one: build the skill, and take it to a floor where people are reaching for it.
+Allyship has that machine too. Hearing what a person means underneath what they say is a skill. Naming your walk-away price and saying it before the pressure says it for you is a skill. Nobody is born fluent; you get these the way you get any of them, doing it badly and then less badly.
+
+Skill earns one because it improves, and because you can carry it somewhere else. With one catch: a skill pays only where somebody wants it. Bring the sharpest skeeball game in the world to an arcade whose owner is exhausted and going under and you will not make a dime, because nobody there is playing. So it is two moves rather than one. Build the skill, and take it to a floor where people are reaching for it.
 
 **Games of Passion — the ones you would play for free.**
 
-Then comes the game you would put your own quarters into. It has chance and skill inside it (every Game of Passion does), but the payout is not why you are at the machine. You are there because you love playing it, because it keeps handing you another corner of the world to explore, because you would come back tomorrow whether or not it ever paid. That is the tell of a Game of Passion: the playing is the prize.
+Now look at the dance machine with the arrows on the floor, or the racing cabinet you climb inside. Feed it, play it, and when it ends you look for the ticket slot and the machine does not have one. Those machines pay no tickets at all, and people queue for them anyway.
 
-This game keeps you in the Arcade at all. Chance needs you present for years before the jackpot lands. Skill needs you practicing long past boredom. Neither one survives on discipline alone: what keeps you at the machine through the dry spells is that some part of this you would do for love. Most frameworks call that love a liability, too invested, too irrational. In the Arcade it is the power supply. It is the reason you are still here, holding a book about allyship, when quitting was always the easier play.
+That is the mechanic, and it is easy to walk past. Every other machine hands you tickets to carry to the counter and trade for a prize, and this chapter has already said what the good prize does: it converts back into tokens. A Game of Passion skips the counter entirely. Its prize arrives while you are playing, which makes it the only machine on the floor that refills the tank it runs on.
+
+Allyship has that machine. Somewhere in what you already do there is a part you would keep at with no tickets in it at all. It has chance and skill inside it, as every Game of Passion does, but the payout is not why you are standing at it. You would come back tomorrow whether or not it ever paid.
+
+Passion earns one because it powers the other two. Chance needs you present for years before the jackpot lands. Skill needs you practicing long past boredom. Neither survives on discipline. Most frameworks call that love a liability, too invested, too irrational. In the Arcade it is the power supply, and it is why you are still holding a book about allyship when quitting was always the easier play.
 
 So take the one you brought with you and sort it, once. Where is it Chance, moving on its own clock, asking only that you stay in the game? Where is it Skill, waiting for you to get better, and to carry that better to people who want it? Where is it Passion, the part you would keep playing after every reasonable person told you to stop? You do not need a clean answer. You just put your hands on the joystick.
 
