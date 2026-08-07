@@ -80,6 +80,8 @@ Each stage earns the next. Bridge without Translate is noise. Translate without 
 
 **The Diplomat means: nobody left the table.** It is the most generous of the six and the easiest to overspend, because a table nobody leaves also decides nothing.
 
+**The Diplomat means: nobody left the table.** It is the most generous of the six and the easiest to overspend, because a table nobody leaves also decides nothing.
+
 ---
 
 ## Section 2: What It Is
@@ -741,6 +743,55 @@ The Refuse False Equivalence move is this: you name the difference between heari
 ---
 
 The Diplomat who has mastered these moves does not run a sequence. They hold the capacity for all five at once: naming the field while translating across camps while closing with honest terms while staying present through the hard moment. The moves add up to a way of being with people.
+
+The moves are what you do. The next question is where.
+
+---
+
+### Where You'll Actually Spend the Close
+
+The parable showed one of the four: Direct Action. Once, in a hard moment, one villager *simply told the truth about the agreement: what it would hold, what it would cost each of them, what would have to change for his staying to remain real*, said to the people it bound while they could still do something about it. That is the domain where a close stops being an account of what you have carried and becomes something somebody has to answer.
+
+The close has four domains, and one cheap habit that is none of them. The cheap habit is the ledger kept and never closed. You hold an exact account of what your staying costs and never read it to anybody who could do something about it. Keeping the count is real skill, and the part of you that does it stays. It also asks nothing of you, because nobody ever has to watch you get the column wrong. Nobody declines a price they were never quoted. That is why it survives for years, gaining accuracy the whole time. The four domains are where the account finally gets read out: the terms said to the person they bind, the cost of the arrangement named where it gets set, what your staying requires asked for while somebody can still grant it, and the agreement a group has been running without. Each costs more than the ledger, because each hands the field what a private column withholds: the chance to say no.
+
+These four are not a syllabus. Pick where you'll spend the close this week, and pick the domain you keep avoiding. If the terms only ever get said in the car on the way in, or to a friend with no power to grant them, you did not make the Diplomat's move. You rehearsed it.
+
+### How to Close It So It Holds
+
+When you close, the sentence and the weeks after it decide whether the terms hold, and the same three moves decide it in every domain.
+
+**Name what they stand to lose first.** A term that lands before they have heard you describe their side accurately gets answered as a charge, and an answer spent on themselves never reaches your terms. So say what the other camp is guarding, in one sentence, before you say what you require. You lose the clean drama of coming out with it and you get a field that can answer.
+
+**Put the cost in the words, not in the delivery.** The account gets signalled long before it gets stated: the pause before you agree, the extra weight on *sure*, the tone that means somebody ought to ask. A signal costs nothing to send and nobody can answer one, because it leaves the field to work the number out alone, and it will work it out low. Say what this is costing, in figures, once. Nobody has ever renegotiated with a sigh.
+
+**Let them say what your staying cost them, and answer that.** A close is an invitation, and it gets accepted the moment somebody tells you what the arrangement cost on their side. That is where the Victim opens the column, on time and exact, and turns a negotiation into a comparison of totals only one person is running. (Chapter 5 has me holding back what I knew in a body I stayed with for years, with the crown under my hood. I told it as a Regent's story and it is one. Read it from here and a second story sits inside it: nobody there ever got to decide whether they wanted what I was carrying, because I never put it where they could refuse it.) You owe their term an answer. Your balance keeps. It has kept for years.
+
+**Direct Action — the terms said to the person they bind**
+
+*You're winning when:* you said what this field must hold for your staying to remain real, to the person who can change it, in the conversation rather than in the better version you run afterward with somebody else, and it cost you your standing as the one who never asks for anything. The proof is that they got to answer, and whatever they answered is now a fact in the open rather than an entry in your column.
+
+**Raise Awareness — the cost named where it gets set**
+
+*You're winning when:* you said what the arrangement costs, with the entries and not a general note about capacity, at the table where it gets decided rather than in the corridor afterward where it gets sympathised with, and it cost you your position as the person the arrangement works for. The proof is that the cost is now an item somebody has to price.
+
+**Gather Resources — what your staying needs, asked in time**
+
+*You're winning when:* you asked for what would make staying possible (the second pair of hands, the money, the meeting moved off the day you cannot do it) from the person who can grant it or refuse it, instead of absorbing the gap for another season and recording it, and it cost you your reputation as the one who makes it work with whatever is there. The proof is that the field got to decide whether to pay for something it had been getting free.
+
+**Skillful Organizing — the agreement the group never made**
+
+*You're winning when:* you closed the group on what it has to hold, who does what and what happens when somebody does not, rather than booking the fourth conversation of its kind, and it cost you being the one everybody agreed was still listening. The proof is that the group now has terms somebody can hold it to, and the people who carried it unnamed are in them by name.
+
+### The Tell
+
+None of the four markers asked why you closed it. That question is real, and it belongs to the Diplomat, because you have kept an exact record of what this costs you, and a record kept that long gives every honest sentence a second job. A Diplomat who closes so that somebody will finally hear the column has read the ledger out and called it terms. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer it:
+
+- **Direct Action.** Did you say the terms so they could answer them, or so somebody would finally know the price?
+- **Raise Awareness.** You read the cost out. Check the address: the people who set the arrangement, or the people who would be sorry about it?
+- **Gather Resources.** An ask has two endings. Was yours the resource, or the moment somebody registered that you had been going without it?
+- **Skillful Organizing.** The group has terms now. Do they hold what the work needs, or what your years in it were worth?
+
+Each Tell targets the Diplomat's signature failure: the close spent on getting the cost acknowledged instead of on getting the terms answered.
 
 ---
 

@@ -106,6 +106,8 @@ The villagers never meant for that to happen. They never said *go.* They just st
 
 **The Architect means: what you built runs after you leave.** That scores a design nobody thanks you for above a conversation everybody remembers, and it is right about that more often than the villagers believe.
 
+**The Architect means: what you built runs after you leave.** That scores a design nobody thanks you for above a conversation everybody remembers, and it is right about that more often than the village believes.
+
 ---
 
 ## Section 2: The Distortion
@@ -494,7 +496,7 @@ Finding the leverage point is the discipline of asking: what is the one place in
 
 In practice: when you're looking at a broken system, don't start with what's broken. Start with where the pressure is already building. Where is the system under the most strain? Where are people already trying to work around the problem? That's usually the leverage point. The workaround is a sign. Follow it.
 
-**Example:** Meera asks three times for the weekly deck in a format her screen reader can use, and three times somebody sends a fixed copy that afternoon. The fixed copy is not the fix. The leverage point sits in the template everybody builds the deck from and nobody owns. Change the template and the request stops existing. It costs you a fortnight of arguing with people who like their fonts. Meera did not ask you to do this and may never notice you did.
+**Example:** Meera asks three times for the weekly order of service in a format her screen reader can use, and three times somebody prints her a large copy that morning. The large copy is not the fix. The leverage point sits in the template everybody builds the sheet from and nobody owns. Change the template and the request stops existing. It costs you a fortnight of arguing with people who like their fonts. Meera did not ask you to do this and may never notice you did.
 
 **The test:** You named one place and pushed there, instead of pushing everywhere at once with the same force. Cascades are slow and often invisible. One named point is the move.
 
@@ -577,6 +579,55 @@ In practice: when you're revising a design, name what the previous version got r
 That's the Architect's game. Five distinct moves. The map that makes you unnecessary. The leverage point instead of the brute-force push. The unstated assumption instead of the obvious one. The handoff instead of the dependency. The minimum instead of the masterpiece. The refactor instead of the defense.
 
 That's what winning looks like at this altitude.
+
+The moves are what you do. The next question is where.
+
+---
+
+### Where You'll Actually Spend the Design
+
+The parable showed one of the four: Skillful Organizing. The Architect designed the meeting format that actually produced decisions and built the role that made accountability real, machinery a village runs on rather than a sentence said to one person. In Skillful Organizing a design also stops belonging to whoever drew it: the village implemented half, ignored the rest, and never once said no.
+
+The design has four domains, and one cheap habit that is none of them. The cheap habit is the structural account: you say why the system keeps breaking, precisely, to people who mostly agree, and you stop one move short of what gets built instead. Reading a system that way is real skill, and it asks nothing of you, because nobody has ever needed courage to say *the system did it.* The account is also correct. The habit survives for years because no single instance of it looks like an evasion from inside, where each one looks like getting it right for the eleventh time. The four domains are where the design finally leaves the page: the condition changed where one person is standing in it, the load-bearing assumption said out loud at the table built on it, the cost moved off a person and into the budget, the machinery a group runs on handed to somebody who can change it. Each costs more than an account, because each puts something into the world with your name on it and somebody else's week inside it.
+
+These four are not a syllabus. Pick where you'll spend the design this week, and pick the domain you keep avoiding. If the design only ever gets explained, accurately, to people who were never going to have to build it, you did not make the Architect's move. You drafted it.
+
+### How to Build It So It Runs
+
+Three points decide whether what you build survives contact with the people inside the system, and the same three decide it in every domain.
+
+**Ask somebody inside it before you draw.** The Emotional Body hands you a proposal before it hands you a channel, and both before you have asked anybody a question, so what you hold is a careful model of the account the system gives of itself. The people inside already know which rule everybody stopped following years ago and which form gets filled in twice. They will tell you in an afternoon. An afternoon costs less than the second design, the one built to correct the first.
+
+**Do not soften the accusation out of it.** Every structural design carries one claim: the current system is failing, and somebody built the current system. The design was not written as an accusation and it is also not not one. Deny that and you keep the design vague enough that nobody has to answer it. Vague enough turns a design into a recommendation, and a recommendation is a design that has agreed in advance not to happen.
+
+**Hand it over while you are still the most useful person on it.** Observe, model, design, deploy is a loop with no exit built into it. The loop will produce a better system every year and never once declare you finished, and the reason to run one more cycle arrives fresh each quarter. Stepping out costs exactly what the loop pays you, so hand over on a day when it still costs you that. Leave it longer and you hand over a system that has already failed once without you there.
+
+**Direct Action — the condition changed, not the incident**
+
+*You're winning when:* you went at the condition producing the harm rather than the harm in front of you, changed the design while the person carrying it was still there to say whether the change worked, and it cost you a fortnight of arguing with people who like the arrangement and the credit for the quick fix you could have shipped instead. The proof is that the same incident stopped arriving.
+
+**Raise Awareness — the load-bearing assumption said out loud**
+
+*You're winning when:* you named the assumption everybody is building on, flatly, as an observation and not as a question with an exit built in, in front of the people standing on it and whoever wrote it down, rather than to the two colleagues who agree with you already. It cost you their read of you as the reasonable one. The proof is that the assumption now sits on the table where somebody has to defend it out loud, true or not.
+
+**Gather Resources — the cost moved into the budget**
+
+*You're winning when:* you took what the system had been drawing out of one person without ever asking, her translating, his shift swaps, your evenings, and put it into the design where it has a name, a line and somebody who pays, and asked the person who can grant or refuse instead of absorbing it another year. It cost you the standing you had while the system ran on one person's goodwill. The proof is that the work still happens in a week when that person is away.
+
+**Skillful Organizing — the machinery handed to next hands**
+
+*You're winning when:* you changed how the group actually works, the format, the rota, the job nobody has been given, and handed it on with the reasoning attached and not only the instructions, so the next person can redesign it when the conditions move. It cost you being the one everybody depends on. The proof is that the format ran through a month you were not in, and came out altered by somebody who is not you.
+
+### The Tell
+
+None of the four markers asked why you built it. That question is real, and it belongs to the Architect, because a design is the one move in this book that carries a signature. An Architect who redesigns the intake so that a redesign will have been made has run the structural account with a launch date on it. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer it:
+
+- **Direct Action.** Did you change the condition so the harm stops, or so the record shows who found the condition?
+- **Raise Awareness.** The assumption got named. Did that move the table, or move you to the front of it?
+- **Gather Resources.** Did you get the cost paid, or get everybody seeing who had been paying it?
+- **Skillful Organizing.** You handed it over. Did you hand over enough for them to change the design, or enough to keep them calling you?
+
+Each Tell targets the Architect's signature failure: the design built for the signature instead of for the condition.
 
 ---
 

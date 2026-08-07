@@ -1,0 +1,10 @@
+# The production pipeline's only dependencies. Everything else in instruments/
+# runs on the standard library.
+#
+#   pip install -r instruments/requirements.txt
+#
+# pypandoc-binary bundles the pandoc executable rather than expecting one on PATH.
+# typst is a wheel with the compiler and its fonts inside it, which is what makes
+# the PDF reproducible — see instruments/book/README.md.
+pypandoc-binary>=1.13
+typst>=0.13

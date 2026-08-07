@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Re-scan the 2026-07-31 editorial reports against the manuscript as it stands now.
+Re-scan the dated editorial reports against the manuscript as it stands now.
 
 The eleven reports in `editorial_reports/2026-07-31/` were written against the book at
 commit `625aaab`. Seven chapters have changed since: ch1 gained Carse, ch3 gained five
@@ -23,12 +23,36 @@ something that exists, which is the cheap half, and leaves the expensive half to
     python3 instruments/rescan.py            # the summary
     python3 instruments/rescan.py --gone     # every GONE finding, with its dead quotes
     python3 instruments/rescan.py --list     # the working list, ordered by what it costs
+
+## Which directories it reads
+
+CORRECTED 2026-08-01. This file hardcoded `editorial_reports/2026-07-31/`, so every
+pass filed after that date was invisible to the working list — including a claim
+error, which is the one rank this tool puts above all others. It now reads every
+dated directory under `editorial_reports/`.
+
+That widening is safe because the finding parser is strict: a heading has to be
+`### [ID] title` or `## An · title` to be read at all. The fourteen files already
+sitting in `2026-08-01/` are boards and prose reports and contribute zero findings,
+so the totals below move only when something is filed in the reporting shape. That is
+the intended property — a new report joins the working list by being written in the
+format, not by being registered anywhere.
 """
 import io, os, re, sys, glob
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, os.pardir)
-REPORTS = os.path.join(ROOT, "editorial_reports", "2026-07-31")
+REPORT_ROOT = os.path.join(ROOT, "editorial_reports")
+
+
+def report_files():
+    """Every report in every dated directory, oldest first, labelled by its date."""
+    out = []
+    for d in sorted(glob.glob(os.path.join(REPORT_ROOT, "20[0-9][0-9]-[0-9][0-9]-[0-9][0-9]"))):
+        date = os.path.basename(d)[5:]  # MM-DD; the year is the same for all of them
+        for p in sorted(glob.glob(os.path.join(d, "*.md"))):
+            out.append((p, "%s %s" % (date, os.path.basename(p).replace(".md", ""))))
+    return out
 
 # Evidence is quoted between typographic or straight double quotes, after an Evidence label.
 QUOTE = re.compile(r"[“\"]([^”\"\n]{25,})[”\"]")
@@ -140,8 +164,7 @@ def main():
     rows, tot = [], {"LIVE": 0, "GONE": 0, "PARTIAL": 0, "NOQUOTE": 0}
     detail, work = [], []
 
-    for path in sorted(glob.glob(os.path.join(REPORTS, "*.md"))):
-        name = os.path.basename(path)
+    for path, name in report_files():
         live = gone = partial = noq = 0
         for fid, title, quotes, meta in findings(path):
             if not quotes:
@@ -159,17 +182,22 @@ def main():
             else:
                 gone += 1
                 detail.append((name, fid, title, quotes))
-        rows.append((name, live, partial, gone, noq))
+        # A file with no findings in the reporting shape is not a report; the dated
+        # directories hold boards and prose passes too, and listing them as rows of
+        # zeroes would read as fourteen reports that came back clean.
+        if live or partial or gone or noq:
+            rows.append((name, live, partial, gone, noq))
         tot["LIVE"] += live; tot["GONE"] += gone
         tot["PARTIAL"] += partial; tot["NOQUOTE"] += noq
 
-    print("%-28s %6s %8s %6s %8s" % ("report", "LIVE", "PARTIAL", "GONE", "no quote"))
-    print("-" * 62)
+    W = max([28] + [len(r[0]) for r in rows])
+    print("%-*s %6s %8s %6s %8s" % (W, "report", "LIVE", "PARTIAL", "GONE", "no quote"))
+    print("-" * (W + 34))
     for r in rows:
-        print("%-28s %6d %8d %6d %8d" % r)
-    print("-" * 62)
-    print("%-28s %6d %8d %6d %8d" % ("TOTAL", tot["LIVE"], tot["PARTIAL"],
-                                     tot["GONE"], tot["NOQUOTE"]))
+        print("%-*s %6d %8d %6d %8d" % ((W,) + r))
+    print("-" * (W + 34))
+    print("%-*s %6d %8d %6d %8d" % (W, "TOTAL", tot["LIVE"], tot["PARTIAL"],
+                                    tot["GONE"], tot["NOQUOTE"]))
     n = sum(tot.values())
     print("\n%d findings. %d still quote text that is on the page." % (n, tot["LIVE"]))
     print("%d do not and need a reader to say whether the edit fixed them "
@@ -184,7 +212,7 @@ def main():
             if label != cur:
                 cur = label
                 print("\n### %s  (%d)\n" % (label, sum(1 for w in work if w[0][1] == label)))
-            print("  %-9s %-7s %-6s %s" % (rep.replace(".md", ""), fid, state, title[:78]))
+            print("  %-22s %-7s %-6s %s" % (rep, fid, state, title[:66]))
             if meta.get("Location"):
                 print("  %-24s %s" % ("", meta["Location"][:86]))
         return 0

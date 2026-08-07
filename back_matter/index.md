@@ -128,13 +128,13 @@ Locators are chapter and section rather than page. **Bold** marks where a term i
 
 ## The four domains
 
-**Direct Action** — Key Terms, Ch 2 §10, Ch 3 §6, Ch 6 §6, Ch 8 §6, Ch 9 §7, **App A**, App B
+**Direct Action** — **App A**, and throughout
 
-**Gather Resources** — Key Terms, Ch 2 §10, Ch 3 §6, Ch 9 §7, **App A**, App B
+**Gather Resources** — **App A**, and throughout
 
-**Raise Awareness** — Key Terms, Ch 2 §10, Ch 3 §6, Ch 4 §6, Ch 7 §6, Ch 9 §7, **App A**, App B
+**Raise Awareness** — **App A**, and throughout
 
-**Skillful Organizing** — Key Terms, Ch 2 §10, Ch 3 §6, Ch 5 §6, Ch 9 §7, **App A**, App B
+**Skillful Organizing** — **App A**, and throughout
 
 ## Concepts
 
@@ -142,7 +142,7 @@ Locators are chapter and section rather than page. **Bold** marks where a term i
 
 **charge, the** — throughout
 
-**clearance** — Key Terms, **Ch 2 §7**, Ch 3 §5, Ch 4 §5, Ch 6 §5, Ch 7 §5, Ch 9 §6
+**clearance** — Key Terms, **Ch 2 §7**, Ch 3 §5, Ch 4 §5, Ch 6 §5, Ch 7 §5, Ch 9 §6, App A
 
 **evolutionary purpose** — Ch 8 §3, **Ch 8 §4**, App G
 

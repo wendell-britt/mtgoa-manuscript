@@ -124,6 +124,8 @@ The villagers never meant for that to happen. They never said "go." They just st
 
 Each of the six Faces carries its own word for being good to somebody. **The Shaman means: somebody said the unsaid charge, and it landed.** People who share that definition call you kind. People who hold a different one call you cold. Neither scores you wrong. They score you in another dictionary.
 
+Each of the six Faces carries its own word for being good to somebody. **The Shaman's definition is narrow: somebody said the unsaid charge, and it landed.** People who share that definition call you kind. People who hold a different one call you cold. Neither scores you wrong. They score you in another dictionary.
+
 ---
 
 ## Section 2: The Distortion
@@ -849,7 +851,7 @@ In practice: use the channel word, not the euphemism. *Anger* rather than *frust
 
 In practice: say it to your own nervous system, plainly, in the seconds after the read. *I get it. The message landed.* Then finish the sentence with the equipment. *I can tell when a plan is being agreed to and not believed.* *I can hold a hard look without going away.*
 
-**Example:** You noticed months ago that Jo is not disorganised, and that the week costs her something it does not cost anyone else. Neither of you has a word for it. You were right, and being right bought her nothing. Say what you can do now, to her, once: *I can tell the difference between someone struggling and a schedule that is expensive for one person. I am going to say so before I can prove it.* If you have misread it, she watches you misread it. What she does with it is hers, including nothing.
+**Example:** You noticed months ago that your sister Jo is not disorganised, and that every family visit costs her something it does not cost the rest of you. Neither of you has a word for it. You were right, and being right bought her nothing. Say what you can do now, to her, once: *I can tell the difference between someone struggling and a weekend that is expensive for one person. I am going to say so at the table before I can prove it.* If you have misread it, she watches you misread it. What she does with it is hers, including nothing.
 
 **The test:** You can state the capability in the present tense with no story attached. If the sentence only makes sense once you explain the meeting, it has not landed yet.
 
@@ -894,11 +896,11 @@ When you say it, what you do next decides whether it helps the person or wounds 
 
 **Don't say it and leave.** The riskiest second comes right after the words are out, when the fear grabs for the exit: soften it, make a joke, change the subject. Leaving strands the person with what you just handed them. This is the referee's purest move: it holds you to what you started when everything in you wants to quit the field. Staying present, without defending and without adding anything, lets the truth land as care instead of an ambush.
 
-**Direct Action — you say it to their face**
+**Direct Action — the read said to the person it is about**
 
 *You're winning when:* you said what you had been feeling, the unsaid charge and not the softened hint, to the face it concerns, in the live moment and not in a message you draft and never send, and it cost you the safety of being the one who never breaks the surface. The proof is that it existed between you, said and left said. What they do with it is information for your next move, not your grade.
 
-**Raise Awareness — true instead of correct**
+**Raise Awareness — the true read instead of the correct one**
 
 *You're winning when:* you said what was actually happening, the read under the approved language, to the real people who needed to hear it, including the one it implicates, instead of the correct-sounding version that keeps you safe. It cost you the cover of the right words. The proof is that the group met what was true and not the performance of it.
 
@@ -906,7 +908,7 @@ When you say it, what you do next decides whether it helps the person or wounds 
 
 *You're winning when:* you sensed and named what a situation actually needs, the real ask and not the palatable one you were already sure would be granted, and you asked the person who can grant it or refuse it. It cost you the exposure of naming a need you might be wrong about. The proof is that the true need got asked out loud, not managed down to something comfortable.
 
-**Skillful Organizing — you say what the group won't**
+**Skillful Organizing — the read the group won't say**
 
 *You're winning when:* you named what the whole coalition feels and no one will touch (the resentment, the power nobody names, the silence everyone is keeping) to the group, so the work could move. It cost you the comfort of the polite surface. The proof is that it got onto the table and the group could work with it instead of around it.
 

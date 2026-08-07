@@ -67,6 +67,15 @@ BORROWED = [
     # the Architect chapter as a term of art".
     (r"leverage points?", "Meadows"),
     (r"polarity map|both/and", "Johnson"),
+    # ADDED 2026-08-03 with the Maslach reversal at ch1:34. The pronoun figures are
+    # the Trevor Project's and the book names them inline, which is house style for
+    # an empirical citation -- ch1:32 does the same for Maslach and Gorski.
+    (r"pronouns most people|attempt suicide|Trevor Project", "Trevor"),
+    # ADDED 2026-08-03, ruled by Wendell. ch1:135 states the ABI model outright --
+    # "Capability, integrity and benevolence, if you want the words for them" -- and
+    # the audit reported 0 uncredited because it had never been told whose model it
+    # is. Their word is `ability`; the book says `capability`, so both are matched.
+    (r"integrity and benevolence|benevolence", "Mayer"),
     # Added 2026-08-03 with ch1:50. Wendell: "go ahead and cite selligman."
     (r"learned helplessness", "Seligman"),
     (r"big mind", "Merzel|Genpo"),   # he is credited by his teaching name in ch8
@@ -101,6 +110,15 @@ EXEMPT_DEAD = {
 }
 
 # Names the audit should not report: characters, places, and the author.
+# Capitalised and not people. Added 2026-08-05 after `the Sunday call` was reported as an
+# uncredited source: the name pattern reads `[a-z] Sunday call` as Sunday *calling*
+# something, because `calls?` matches the noun too. March, Friday and Tuesday were already
+# in the book and escaped only because no cue verb happened to follow them, so this was a
+# latent false positive rather than a new one.
+CALENDAR = set("""Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+January February March April May June July August September October November December
+Spring Summer Autumn Winter""".split())
+
 FICTION = set("""Voss Ash Quill Vale Cross Orr Maera Corin Sera Irix Elian Thalen Tull Bram
 Merrow Calrunia Halvane Veyra Sol Sim Orrel Jordan Wendell Britt Shaman Challenger Regent
 Architect Diplomat Sage Player Forest Village Horizon Oath Bridge Pattern Line Body
@@ -149,12 +167,17 @@ def main():
         # The first version of this check allowed sentence-initial matches and reported
         # forty capitalised common nouns -- Accuracy, Nobody, Each, Opening.
         hits = []
-        for m in re.finditer(r"\b([A-Z][a-z]{2,}\s+(?:[A-Z]\.\s+)?[A-Z][a-z]{2,})(?:'s)?\s+"
+        # `\s+` used to match newlines, so a heading's last word ran into the next
+        # paragraph's first: "## Which Game Are You Playing" above "Somebody found me..."
+        # was read as a person called Playing Somebody who *found* something. Names do not
+        # span line breaks, and the manuscript does not wrap inside a paragraph, so the
+        # separators are now horizontal whitespace only. Fixed 2026-08-05.
+        for m in re.finditer(r"\b([A-Z][a-z]{2,}[^\S\n]+(?:[A-Z]\.[^\S\n]+)?[A-Z][a-z]{2,})(?:'s)?[^\S\n]+"
                              r"(?:calls?|names?|argues?|writes?|showed?|shows?|found|"
                              r"separates?|explains?|puts? it|research|work|finding|term|"
                              r"insight|distinction|makes? the)\b", text):
             hits.append((m.group(1), m.group(0)))
-        for m in re.finditer(r"[a-z,]\s+([A-Z][a-z]{3,})(?:'s)?\s+"
+        for m in re.finditer(r"[a-z,][^\S\n]+([A-Z][a-z]{3,})(?:'s)?[^\S\n]+"
                              r"(?:calls?|names?|argues?|writes?|showed?|shows?|found|"
                              r"separates?|explains?|puts? it|research|finding|"
                              r"insight|distinction)\b", text):
@@ -184,7 +207,8 @@ def main():
 
         for full, ctx in hits:
             parts = [w for w in full.split() if not w.endswith(".")]
-            if any(w in FICTION for w in parts) or any(w in names for w in parts):
+            if (any(w in FICTION for w in parts) or any(w in names for w in parts)
+                    or any(w in CALENDAR for w in parts)):
                 continue
             uncredited.setdefault(full, []).append((rel, " ".join(ctx.split())))
 

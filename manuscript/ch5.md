@@ -641,7 +641,7 @@ In practice: Make a list of three practices in your current inheritance that you
 
 In practice: When you see something that needs to change, ask two questions: (1) What is this trying to do? (2) Is it still doing it? If the answer to (2) is no, change the form but keep the essence. Tell people what you're doing and why: *I'm not discarding this. I'm updating it.*
 
-**Example:** The intake form has a legal name field and a preferred name field, and Ana has corrected the same record for two years because the sync overwrites her preferred name every night. Ask the two questions. The form is trying to match people to legal records, and it still does that. The sync is not doing anything anyone designed it to do. Fix the sync, keep the field, and tell people which of the two you changed and why.
+**Example:** The school system has a legal name field and a preferred name field, and Ana is nine and has answered to the wrong name at register for two years, because the sync overwrites her preferred name every night. Ask the two questions. The form is trying to match children to legal records, and it still does that. The sync is not doing anything anyone designed it to do. Fix the sync, keep the field, and tell people which of the two you changed and why.
 
 **The test:** You named what the tradition was trying to do before you changed how it does it, and you told people which of the two you were changing. Results arrive on their own schedule.
 
@@ -664,6 +664,55 @@ In practice: When you're transitioning out of something, ask: *am I giving the n
 **Example:** You are handing the community fund to Marcus, who has run nothing this size and did not come up through the committee. Your instinct is to give him the spreadsheet, the calendar, and forty minutes on what went wrong in 2019. Give him the 2019 story and the reason the rule exists. Leave out the part where you tell him what you would do. He will spend the fund on something you would not have chosen, and the choosing is what you handed him.
 
 **The test:** What you handed over was context rather than anxiety. Context lets them decide; anxiety tells them what you need the outcome to look like. Their version will differ from yours. Let it.
+
+The moves are what you do. The next question is where.
+
+---
+
+### Where You'll Actually Spend the Inheritance
+
+The parable showed one of the four: Skillful Organizing, the Regent building the council, the ceremony, and the roles that passed from person to person, so that when one person left the role stayed and the next could step into it. That is the domain where an inheritance stops depending on whoever holds it and becomes something a group can pick up.
+
+The inheritance has four domains, and one cheap habit that is none of them. The cheap habit is the reform that postpones the commitment. You see what is wrong with what you were handed, name it accurately, and name it as a condition: this has to change before I can carry it. Most of those conditions are correct, and each is defensible on the day you say it. It costs nothing, because real reform spends loyalty you earned by carrying something, and you have not carried anything yet. One cycle of it never reads as a refusal, which is how it runs for a decade without once showing up as a decision anybody made. A second habit runs beside the first and looks like its opposite: rather than commit, you supply. The continuity the structure cannot generate becomes yours, held in your head, and from outside that reads as devotion. Neither one accepts anything. The four domains are where the accepting shows: the inheritance claimed to the people who hold it with you, the reason said out loud while somebody still knows it, the hours asked for so one body stops being the structure, and the practice handed to a group in a shape it can run without you. Each costs more than a repair, because each puts your name against something you have agreed is yours.
+
+These four are not a syllabus. Pick where you'll spend the inheritance this week, and pick the domain you keep avoiding. If what you were handed only ever gets improved, one more cycle at a time, you did not make the Regent's move. You maintained it.
+
+### How to Carry It So It Outlives You
+
+You carry an inheritance for years, and the same three moves decide, in every domain, whether anybody can take it off you at the end.
+
+**Take it on in the condition it reached you in.** Nothing you inherit arrives in working order, so a rule that you will commit once the repairs are through is a rule with no day on it. The Fixer-Healer will always find you one more cycle, and the damage it reports is usually real. Watch what accepting buys: a repair named by somebody who has not committed is a request, and requests wait on whoever is in charge; the same repair named by somebody carrying it is a decision with a name against it. You take it on first, and never the other way round.
+
+**Put a name on what you are actually holding.** Most of a keeper's work leaves no trace, and the Healer half of your Fixer will take all of it into your own head, where it works and nobody else can hold it. Name it out loud instead, to whoever decides: this runs because somebody does these four jobs, and the somebody is me. A named job is a role. Roles pass from person to person. People do not.
+
+**Hand it over while you are still there to be asked.** A hand-over on your way out transfers objects: files, a calendar, names to call. A hand-over a year early transfers what nobody wrote down, because the person receiving it meets the first surprise while you are still in the building. Leave it to your last fortnight and what you hand over is a folder and a farewell lunch, where everybody thanks you warmly for work nobody can name.
+
+**Direct Action — the inheritance claimed to its keepers**
+
+*You're winning when:* you told the people who hold this with you that you are carrying it now, to their faces and not in a message that goes round afterward, before the conditions you had been waiting on were met, and it cost you your standing as somebody still deciding. The proof is that the repairs you make from here happen from inside the commitment, where everybody can see which ones you make.
+
+**Raise Awareness — the reason said while it is still known**
+
+*You're winning when:* you told a group why a practice exists, what it cost the people who built it and what it has cost since, in front of the ones who inherited the form with none of that attached, and it cost you the ease of letting the form speak for itself. The proof is that the reason sits in more than one head, and the next argument about the practice can be about what it was for.
+
+**Gather Resources — the hours asked for so one body can stop**
+
+*You're winning when:* you asked for the time, the budget line or the second name on the rota that a practice needs to outlast its keeper, and you asked whoever can say yes to it, instead of covering the gap out of your own evenings another year, and it cost you your standing as the person who never needs anything. The proof is that the practice has a claim on something other than you.
+
+**Skillful Organizing — the practice that runs without you**
+
+*You're winning when:* you handed a practice you had been holding personally to the group, with its reasons, its record and a name against each job, while you were still around to be asked about it, and it cost you being the reason it worked. The proof is that it ran a full cycle without you and stayed the practice it was, instead of drifting into whatever people could remember of it.
+
+### The Tell
+
+None of the four markers asked why you kept it. That question is real, and it belongs to the Regent, because a Regent who takes an inheritance on so that everybody can watch somebody finally take one on has run the same repair cycle with a ceremony attached. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer it:
+
+- **Direct Action.** Did you claim it so the work had somebody in it, or so nobody could call you the one still deciding?
+- **Raise Awareness.** Name who the reason was for. The next person who has to run this, or the people watching somebody who was there at the founding?
+- **Gather Resources.** You asked for the hours. For the practice, or for the practice with your hand still on it?
+- **Skillful Organizing.** Did you hand it over so it could run without you, or in a shape only you could have written, so one call a month still comes back to you?
+
+Each Tell targets the Regent's signature failure: the inheritance carried so that it still needs you, instead of handed on so that it does not.
 
 ---
 

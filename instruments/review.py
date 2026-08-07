@@ -221,6 +221,27 @@ def book():
             for l in heavy:
                 print("               HEAVY %s" % l)
             continue
+        # VOICE IS THE SAME SPECIAL CASE AS DIET, found 2026-08-07 and the third time
+        # this exact shape has shipped.
+        #
+        # `marginalia/review.py` deliberately does not fail the build -- a BLOCK is a
+        # candidate to adjudicate, which is why `"review.py" in cmd[0]` forces ok above.
+        # But it ends its output with a four-line explainer ("Vague nouns pass only if
+        # the noun is named within two sentences."), so `lines[-1]` printed THAT as the
+        # summary and the real one, `BLOCK 14  WARN 125  INFO 167`, never reached the
+        # board. Measured at 399e63c, before the pdf/epub merge: the chapters carried
+        # **13 BLOCK** while this step printed `ok` over them.
+        #
+        # Not failing is the ruling and it stands. Showing `ok` and hiding the count is
+        # not the ruling -- it is the diet bug wearing a different linter. Report the
+        # number, keep the step non-fatal.
+        if label.startswith("0 voice"):
+            m = re.search(r"BLOCK (\d+)\s+WARN (\d+)", out)
+            nb, nw = (int(m.group(1)), int(m.group(2))) if m else (0, 0)
+            print("  %s %-4s %s" % (label, "ok" if not nb else "LOOK",
+                                    "clean" if not m else
+                                    "%d BLOCK  %d WARN — adjudicate, does not gate" % (nb, nw)))
+            continue
         bad += 0 if ok else 1
         print("  %s %-4s %s" % (label, "ok" if ok else "LOOK", tail))
     print("\n  8 slop       run /no-ai-slop on anything written today")

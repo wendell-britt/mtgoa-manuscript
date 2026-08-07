@@ -15,7 +15,7 @@ block is the state here.
 | §3 — appendices describe the retired book | **A, B, D, E, F, G revised.** Appendix C is an open ruling — see below. |
 | §4 — Five Channels unlettered | **Still open.** `ch3:400` points at it; it has no letter and sits in `drafts/`. Reported UNPLACED every build. |
 | §5 — reference style | **Master's style, not mine.** Master normalised to `Appendix: Title`. Consistent, but no letter, so the contents page cannot be matched against it. Low priority. |
-| §6 — heading styles | **Still four.** Master did not normalise; only ch1 gained the subtitle every other chapter had. |
+| §6 — heading styles | **Closed 2026-08-01 on master.** One form, and every chapter now carries a plain clause as well: `# CHAPTER N: THE FACE — clause`, over the italic subtitle `d65ba78` ruled a feature. `6cbdf8d` drafted the eight new clauses against each chapter's own argument; `ff942d3` taught the contents page to set the pair as `The Shaman: What to Do With What You Feel`. `instruments/typeset.py` reads the form, reuses `build_book.py`'s `toc_title` so the two contents pages cannot disagree, and BLOCKs on a chapter that departs from it — the nine hand-maintained display titles are gone. **Note for anyone reading the July branches:** `claude/book-print-readiness-august-ar95mo` commit `6026b06` also normalised the form, by *deleting* Chapter 2's clause. It is superseded — master went the other way and gave the other eight one. |
 
 **The gate is green as of 2026-07-30.** R9 is closed.
 
@@ -261,6 +261,103 @@ is quality work with a deadline in front of it.
   book the writer knows well; cutting is free and loses a reference surface.
 
 **R4 closes** (§1). R1 still gates the enrollment page and half-title only.
+
+---
+
+## 10 · The assertion blocker — asserted reader experience
+
+**Added 2026-08-01, batch nine.** Wendell, ruling on a drafted line of mine:
+
+> *"This sentence structure needs to get banned. We don't know they've been on the
+> paying end of this. We can invite them to imagine and it solves all of these
+> assertions. But these types of assertions have become a blocker for the book. We
+> need a plan to solve for this and add it to the readiness guide."*
+
+### What it is
+
+A declarative about what the reader has done, felt, seen or become, stated as fact.
+Distinct from assumed prior *knowledge* (a term used before its definition), which
+`assumed.py` already tracked. This is assumed prior *experience*, and it fails
+differently: a reader who has not had the experience is not confused, they are
+excluded, and they close the book on the sentence that told them who they are.
+
+**It has been arriving as read-through notes since batch two and was never
+consolidated.** `N12` (*You are a Game Master*), `N15` (*You have done this before*
+— Wendell: *"done what before? I hate all intros like this, vague and weird"*),
+`N17` (*You graduated from it years ago*), the ch1-opener note about assumed secret
+competence, and now `N58`. Five notes, four batches, one defect.
+
+### The measurement
+
+`instruments/assumed.py` gains an `EXP:` tier and counts the licensed alternative
+alongside it, because Wendell's repair is a conversion rather than a deletion.
+
+| | ch1 | ch2 | ch3 | ch4 | ch5 | ch6 | ch7 | ch8 | ch9 |
+|---|---|---|---|---|---|---|---|---|---|
+| assertions | **37** | 5 | 19 | 25 | 23 | 11 | 18 | 24 | **50** |
+| of those, asserted experience | 19 | 1 | 4 | 9 | 10 | 3 | 5 | 12 | **35** |
+| invitations | 2 | 3 | 2 | 1 | **0** | 1 | **0** | **0** | 5 |
+
+**212 assertions against 14 invitations, book-wide.** The count nearly doubled when
+the experience tier was added, which means roughly half of this defect was invisible
+to the instrument that was supposedly watching it.
+
+**Three chapters extend no invitation at all** — ch5, ch7, ch8. Chapter 9 is the
+worst on both counts and is also the chapter that closes the book.
+
+### The plan
+
+**The repair is a conversion, not a cut.** Every one of these sentences is trying to
+create recognition, which is the right instinct; asserting it is what breaks.
+
+**CORRECTED 2026-08-01, same day.** This section first offered two moves, assert to
+invite, and named invitation as the target. Scored against the five voice anchors
+(`ASSERTION_TEST.md`, test 1) that is wrong: the anchors total **1 assertion and 0
+invitations**. The book at its best does not address the reader's past at all. Three
+of the five put the author in the subject; a fourth describes the phenomenon in the
+third person. Invitation is the second-best move, not the target.
+
+| Move | Grammar | Example |
+|---|---|---|
+| **Describe** (strongest) | author or phenomenon in the subject | *I know that counter. I wrote whole chapters standing at it.* (ch1:119) |
+| **Invite** | *Picture…*, *Maybe you…*, *If you have ever…* | *Picture a real moment from your last month.* (ch2:348) |
+| **Assert** (the defect) | *You have / You've / You did* + the reader's past | *You've been on the paying end of this.* |
+
+Describe costs the most to write, because it needs a real specific instead of a claim
+about the reader. It is also the only one of the three that gets stronger the more
+particular it becomes.
+
+**The rule is tense, not person.** `ch8:342` is an anchor and it is in the second
+person — *you feel the arrogance rise, you name it, you let the judgment become* — and
+the instrument correctly does not fire on it, because every `EXPERIENCE` pattern is
+past or perfect. **You may tell the reader what to do. You may not tell them what they
+have done.**
+
+**Sequence.**
+
+1. **Rule the 35 in ch9 first.** It is the largest block, the last thing a reader
+   reads, and it has five invitations already, so the register exists in the chapter
+   and does not have to be invented.
+2. **Then ch1 (19) and ch8 (12).** Chapter 1 sets the contract for the whole book;
+   if it asserts, every later assertion is licensed by it.
+3. **The zero-invitation chapters get one invitation before any assertion is
+   converted.** A chapter with no invitational register anywhere reads as instruction;
+   converting sentences inside it without establishing the register produces a chapter
+   that hedges instead of one that invites.
+4. **Re-run `assumed.py` after each chapter.** The target is the ratio, not the raw
+   count. A chapter is not fixed by deleting assertions.
+
+**Gate condition for print.** No chapter ships with zero invitations. That is a
+condition a person can check and an instrument can enforce, unlike "fewer
+assertions".
+
+### What this document should not pretend
+
+The instrument cannot tell an earned assertion from an unearned one. A reader who
+has been taught the thing by page 200 genuinely has done it before, and saying so is
+correct. Every site is a candidate and needs Wendell. What the instrument removes is
+the possibility of the defect being invisible, which is what it has been.
+
 
 ---
 
