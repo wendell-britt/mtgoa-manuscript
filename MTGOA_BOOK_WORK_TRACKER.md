@@ -190,6 +190,10 @@ character-sheet prompt remain in place.
 generic nervous-system metaphor are replaced with a practical progression: first learn the map,
 then run the Form slowly, then use repetition to recognize a live situation and choose a move.
 
+**Chapter 3 read audit, trust passage.** The abstract “your read catches” framing is now a set of
+recognizable group patterns. The passage distinguishes checking what the reader noticed from
+defaulting to self-doubt whenever that noticing becomes inconvenient.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction

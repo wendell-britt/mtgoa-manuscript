@@ -176,11 +176,11 @@ The Shaman's practice may already feel familiar. You have likely built some lang
 
 That signal raises a different question the moment it disagrees with the group.
 
-Picture it: your read catches what the group never registers, not dangerous, not catastrophic, just *something here is not what it's presenting as.* A trained response comes with it, drilled into anyone who has learned caution: ask whether it's your stuff, whether you're projecting, whether you're centering yourself in a moment that isn't yours, then give the consensus the benefit of the doubt and keep going.
+Sometimes the group moves past a detail you cannot shake: a person stops contributing after a decision, a joke lands and nobody acknowledges it, a plan gets agreed to with no one sounding convinced. A trained response comes next: ask whether it is your stuff, whether you are projecting, whether you are centering yourself in a moment that is not yours. Then give the consensus the benefit of the doubt and keep going.
 
-That is the Shaman's practice with a governor on it, one installed by instructions that meant to teach you not to harm people and accidentally taught you to distrust your own read.
+Those instructions were meant to keep you from harming people. They can also teach you to distrust what you notice.
 
-Checking whether your read is distorted differs from making *probably my stuff* the default answer whenever the read turns inconvenient. The first is discernment. The second is the village's solution to the Shaman problem: keep the language, remove the trust.
+Checking whether what you noticed is distorted is discernment. Treating “probably my stuff” as the default whenever noticing becomes inconvenient is a way to avoid acting on it.
 
 The School of the Body is asking for the trust.
 
