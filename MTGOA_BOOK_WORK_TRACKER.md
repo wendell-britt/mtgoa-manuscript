@@ -174,6 +174,25 @@ legitimate executive responsibility. Full trace:
 
 ---
 
+## Session — 2026-08-06 · SIM-003, Ch3 authority-clause rerun
+
+**Desk rerun complete; no canonical prose changed.** The proposed clause—“When
+your move changes other people's conditions, name what they can actually
+alter—not only how they can advise.”—passes P-04: it creates bounded reviewer
+authority over advance payment, proof requirements, and pilot launch without
+pretending participants control the whole fund.
+
+**P-08 exposes a scope-washing loophole.** An authority-holder can give affected
+people real but cosmetic choices while retaining vendor criteria, accessibility
+requirements, scope, and timing. The clause is therefore not ready for a
+canonical proposal. Next hypothesis: require the reader to name the part of
+the decision that shapes those conditions and what affected people can alter,
+with a truthful leadership-owned route when material decisions cannot reopen.
+Full trace:
+`editorial_reports/2026-08-06/SIM_003_CH3_AUTHORITY_CLAUSE_RERUN_2026-08-06.md`.
+
+---
+
 ## Session — 2026-08-03 · Jordan arc, Chapters 7–9
 
 **Approved and applied.** Nine review-approved replacements across Diplomat,
