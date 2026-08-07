@@ -329,6 +329,22 @@ Full regression:
 
 ---
 
+## Session — 2026-08-07 · Simulation closing synthesis
+
+**Desk-simulation release pass closed.** The final synthesis indexes the
+fictional-composite portfolio, the three approved canonical changes, the
+applied-surface regressions, the release boundary, and the post-ship v2
+human-reader calibration backlog. The tested action chain is now: relational
+placement, materiality and honest ownership, structural change, correction and
+boundary-respecting repair, then authority handoff.
+
+**Decision:** no further desk persona reruns are required for this release.
+Human-reader calibration remains intentionally deferred and is not a release
+gate. Full closing record:
+`editorial_reports/2026-08-07/ALLYSHIP_SIMULATION_CLOSING_SYNTHESIS_2026-08-07.md`.
+
+---
+
 ## Session — 2026-08-03 · Jordan arc, Chapters 7–9
 
 **Approved and applied.** Nine review-approved replacements across Diplomat,
