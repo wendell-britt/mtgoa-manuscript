@@ -843,7 +843,7 @@ In practice: say the capability in ordinary language. *I can tell when a plan is
 
 **Why it matters:** A group can spend an entire meeting on the agenda while another dynamic changes what people can say or decide. Naming that dynamic does not establish the truth. It gives the group a chance to respond before the discussion moves on.
 
-The Challenger has a move that looks like this from the outside and is a different animal. *Name the Unnameable* points at a violation: something happened, everyone saw it, nobody stated it, and stating it draws a line. This one points at what runs underneath, which may involve no violation at all. The Challenger names what is unacceptable. The Shaman names what is true. One of them creates a boundary. The other creates contact.
+The Challenger has a move that looks like this from the outside and is a different animal. *Name the Unnameable* points at a violation: something happened, everyone saw it, nobody stated it, and stating it draws a line. This one points at what runs underneath, which may involve no violation at all. The Challenger names what is unacceptable. The Shaman offers an observation about what may be shaping the conversation. One creates a boundary. The other creates contact.
 
 In practice: say one sentence you can stand behind; do not turn it into a brief. *We keep returning to scope, and Nadia has not been able to enter this discussion.* Then stop and hear what comes back.
 

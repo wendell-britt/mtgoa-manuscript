@@ -237,6 +237,9 @@ and lets the affected person correct it.
 can answer, rather than a claim to hidden truth. The example retains the specific access barrier
 and makes the response from others part of the practice.
 
+**Chapter 3 Show Up consistency repair.** The Shaman/Challenger contrast now uses the same
+provisional observation standard as the Show Up move itself.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
