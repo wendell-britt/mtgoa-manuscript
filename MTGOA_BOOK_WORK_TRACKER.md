@@ -244,6 +244,9 @@ provisional observation standard as the Show Up move itself.
 revised practices: provisional noticing, WAVE, testable group patterns, concrete capability, and
 an observation other people can answer.
 
+**Chapter 3 Challenger urgency framing.** The opening compression is now explicitly the
+Challenger's account of a situation, rather than an unqualified narrator claim.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction

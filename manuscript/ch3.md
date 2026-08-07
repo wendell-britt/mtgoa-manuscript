@@ -84,7 +84,7 @@ It wasn't sudden. It came on gradually, the way a house gets colder when a windo
 
 The Challenger arrived.
 
-The Challenger didn't dislike the Shaman. The Challenger just believed that *something had to be done.* Doing something required making a decision, and decisions, the Challenger said, couldn't wait for everyone to process their feelings. Decisions couldn't be delayed by sadness or fear or the complicated texture of a moment. There was a problem. The villagers had to act. *Now.*
+The Challenger didn't dislike the Shaman. The Challenger just believed that *something had to be done.* Doing something required making a decision, and decisions, the Challenger said, couldn't wait for everyone to process their feelings. Decisions couldn't be delayed by sadness or fear or the complicated texture of a moment. In the Challenger's account, the details came later: there was a problem, and the villagers had to act. *Now.*
 
 At first, this seemed right. There were problems that needed solving. The villagers needed someone who could draw a line in the sand. Someone who could say "this is unacceptable" without softening it. Someone who could move while others still gathered information. The Challenger could do that. The Challenger *did* that.
 
