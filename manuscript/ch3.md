@@ -803,7 +803,7 @@ In practice: pause long enough to name the event and your response separately. *
 
 **What it is:** Before you compose a response, use WAVE to stay with what is already present.
 
-**Why it matters:** A quick, reasonable response can hide what is at stake for you. The question is not whether your first reaction is correct. It is whether you can notice what you are protecting or avoiding before you choose your public response.
+**Why it matters:** A quick, reasonable response can hide what is at stake for you. Ask whether you can notice what you are protecting or avoiding before you choose your public response.
 
 In practice: when you feel yourself reaching for the polished version, pause. Welcome what is there. Give it a name if you can. Validate that it showed up for a reason. Then exhale and decide whether it belongs in the next move. You do not have to agree with a response to let it be present.
 
@@ -813,17 +813,17 @@ In practice: when you feel yourself reaching for the polished version, pause. We
 
 ### Move 3 · Clean Up — Name the Channel Out Loud
 
-**What it is:** You say which channel runs, yours or the field's, where other people can hear it.
+**What it is:** You name the emotion or pressure you think may be shaping the conversation, in words other people can answer.
 
-**Why it matters:** Section 4 taught you to name the channel for yourself, and naming it for yourself completes the interior move. It does nothing to the situation. The situation still has several people running different channels at once with none of them named, which makes hard conversations feel like weather: pressure changing, no vocabulary for it, everyone reacting to something they cannot point at.
+**Why it matters:** Naming a channel privately can help you understand your response. Naming it aloud gives the group something to confirm, complicate, or reject. You are not telling people what they feel. You are offering an observation about the conversation that becomes more useful when other people can respond to it.
 
-Named out loud, the channel stops being weather and becomes an object on the table. *There is a lot of fear in this conversation.* *I think what is actually here is sadness, and we keep treating it as a disagreement.* You are not diagnosing anyone. You are saying what the field runs, which hands everybody something to work with other than the content.
+Named out loud, the channel becomes something people can respond to. *I am noticing fear in this conversation.* *I wonder whether sadness is getting treated as disagreement.* Leave the label open. Give the group language for testing what is happening.
 
-In practice: use the channel word, not the euphemism. *Anger* rather than *frustration.* *Fear* rather than *concern.* *Sadness* rather than *disappointment.* The euphemisms exist to keep the channel deniable, and nobody can work a deniable channel, including you.
+In practice: connect a channel word to a concrete event. *I am afraid we are avoiding Ravi’s question from March.* When someone disagrees, keep the event on the table and hear what they add.
 
-**Example:** A retro has spent twenty minutes on process. Nobody has said that Ravi flagged this in March and got told it was fine, and you can name two other times that happened to him and to nobody else. Annoyance is the wrong name for what you feel. What you feel is fear, because saying it means saying something about this team out loud. That is Metal. Say it: *I think we are avoiding a word. Ravi raised this in March, and I would like to know why that landed differently.* You become the difficult one in that retro and in the next one. What the team does with it is the team's.
+**Example:** A retro has spent twenty minutes on process. Ravi raised this concern in March and was told it was fine; you can name two other times the same thing happened to him. Rather than call it annoyance, say what you can stand behind: *I am afraid we are avoiding a question. Ravi raised this in March. Why did that land differently then?* The group may disagree with your fear. It still has to answer the question.
 
-**The test:** You said it out loud, in the moment, where someone could disagree with it. Agreement is theirs to give or withhold. A channel named only to yourself belongs to Section 4.
+**The test:** You named what you noticed in a form someone could disagree with, while keeping the concrete event on the table.
 
 ### Move 4 · Grow Up — Say What You Can Do Now
 

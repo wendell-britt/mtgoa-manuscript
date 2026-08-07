@@ -225,6 +225,10 @@ early information about someone else's experience.
 somatic mechanism. It makes room for competing responses without treating either one as proof or
 as the move the reader must make.
 
+**Chapter 3 Clean Up revision.** The group-channel teaching now frames a channel as a provisional
+observation that others can confirm, complicate, or reject. It retains the concrete event rather
+than claiming authority to identify what the field is running.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction
