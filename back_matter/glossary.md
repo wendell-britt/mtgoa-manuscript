@@ -112,7 +112,7 @@ through Ch 8*
 still helps. Your shadow is the game master until you look at it. *Ch 1*
 
 **Shaman, the** — The Face that feels what is happening before anyone can name it. Means:
-somebody said the true thing, and it landed. *Ch 3*
+somebody said the unsaid charge, and it landed. *Ch 3*
 
 **Skeptic, the** — The daemon that doubts so you do not get fooled. Chapter 4 calls it the auditor, where it rules your read inadmissible. *Ch 2 §6; Ch 4 §5*
 
