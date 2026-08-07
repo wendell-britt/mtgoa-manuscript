@@ -23,6 +23,11 @@ be Neutrality patterns. Sixteen legacy Alchemy and Translate bracket tags remain
 cleanup pass. Chapter 7's two review blockers and seven warnings predate this bridge; reader-run
 scan reports 0 candidates.
 
+**Chapter 6 sequence.** The Architect's native workflow is now one explicit stage sequence:
+Observe → Model → Design → Deploy → Hand Off. The later duplicate flow-cycle paragraph was
+removed; the worked example now follows the single sequence. This does not yet resolve the
+Chapter 6 mode introduction or its Section 6 game-move order.
+
 ---
 
 ## Session — 2026-08-04 · Ch2 reader-run application

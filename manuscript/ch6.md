@@ -241,7 +241,9 @@ At the Architect's altitude, the native material is not emotion: it is *logic.* 
 
 This is not abstract theory. The Architect uses logic the way the Shaman uses emotion: as a living instrument for reading reality. A system is not working. The Architect asks: why does this system produce this outcome? Where is the smallest push that creates the largest movement?
 
-The Architect's practice has five stages:
+### The Architect's Stage Sequence: Observe → Model → Design → Deploy → Hand Off
+
+The Architect's practice follows five stages:
 
 **Observe:** What is actually happening? Not what the org chart says should happen. What is actually happening, measured, traced to its source. The Architect talks to the people inside the system. Reads the data. Looks at outcomes, not intentions.
 
@@ -299,8 +301,6 @@ The **Inventor** runs on Wood. Joy detects vitality (what wants to exist and doe
 The **Optimizer** runs on Water. Sadness detects decay, the process that used to work and doesn't anymore, and stuck Sadness keeps the dead process running out of loyalty to the people who built it. Metabolized, it becomes Poignance: you can honor what a structure did and retire it in the same motion. *I can connect.* Most systems fail here, not from missing the decay, but from failing to feel the loss all the way through and so never letting the thing go.
 
 The Architect uses the Five-Move Form at the scale of a group: notice the pattern, let its signal in, locate where it lands, learn from it, and act. Wake: notice which mode fires and what it detects. Open: let the signal in before it becomes a proposal. Clean: locate where it landed, and stabilize there. Grow: find what the system has to teach. Show: move from the integrated understanding. Here the Architect's practice and the Shaman's emotional alchemy work together as one system at two scales: the person and the group.
-
-The Architect's flow cycle: Observe → Model → Design → Deploy → Observe (new state), and out through Hand Off. Each deployment produces new observations, which produce new models, which produce new designs; the iteration is genuine and it is not the point. The Architect is finished when somebody else can run it and change it. Everything before that is the work of getting to a system worth handing over.
 
 In practice: a team comes to the Architect because their planning process keeps producing plans nobody follows. The Architect observes: watches the meetings, reads the outputs, traces what happens to plans after they're made. The Architect models: the plans fail because they're disconnected from the people who have to execute them; authority exists without accountability. The Architect designs: a new format where the people who execute the plan also design it, where each element has a named owner and a check-in date. The Architect deploys: runs the first cycle, observes what breaks, adjusts. Then the Architect hands off: names who owns the format, writes down why each element is there rather than only what it is, and stops attending. Only that version outlives the Architect's interest in it.
 
