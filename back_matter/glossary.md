@@ -68,7 +68,7 @@ chapter opens with one. *Ch 3 §1, and once per chapter*
 each with a lifetime on a different kind of allyship game, each carrying its own word for
 being good to somebody. *Ch 1*
 
-**Field, the** — The shared emotional space of an interaction, which you have to let a feeling onto before anything else in the practice works. *Ch 3 §4*
+**Field, the** — The shared emotional space of an interaction. You have to let a feeling onto it before anything else in the practice works. *Ch 3 §4*
 
 **Fixer/Healer, the** — The daemon that repairs what is broken and holds in place what is
 settled. As a demon it fixes people who never asked. *Ch 2 §6*
@@ -102,7 +102,7 @@ name, a deadline, and an artifact somebody else can encounter. *Ch 3 §6; App B*
 inheritance far enough that the next person can pick it up. *Ch 5*
 
 **Sage, the** — The Face that sees which game is actually being played. Means: they can do it
-without you, which is the only one of the six that counts your absence as success. *Ch 8*
+without you. It is the only one of the six that counts your absence as success. *Ch 8*
 
 **Schools, the six** — Body, Line, Oath, Pattern, Bridge, Horizon. One per Face, each with an
 admissions page saying who it is for, what it costs, and what it does not teach. *Ch 3
