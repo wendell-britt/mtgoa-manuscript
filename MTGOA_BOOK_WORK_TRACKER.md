@@ -221,6 +221,10 @@ question, without claiming that the body knows what another person experienced.
 response and makes both provisional. It no longer treats a nonspecific bodily marker as reliable
 early information about someone else's experience.
 
+**Chapter 3 Open Up revision.** The game move now routes through WAVE rather than using a second
+somatic mechanism. It makes room for competing responses without treating either one as proof or
+as the move the reader must make.
+
 ---
 
 ## Session — 2026-08-01 · ch2 leaves the fiction

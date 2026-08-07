@@ -799,17 +799,17 @@ In practice: pause long enough to name the event and your response separately. *
 
 **The test:** You can name what happened and what you noticed without claiming to know its meaning.
 
-### Move 2 · Open Up — Turn the Dial Up
+### Move 2 · Open Up — Stay With What Is Here
 
-**What it is:** In the second you would normally compose yourself, turn the sensitivity up instead. Six seconds is enough.
+**What it is:** Before you compose a response, use WAVE to stay with what is already present.
 
-**Why it matters:** You cannot affect what you cannot feel, and the dial in your hand only ever moved one direction. At that setting, you arrive a beat after the moment it was for. Turn it up and you find what the low setting was covering. A part of you is getting something out of the very dynamic you say you want to end. The charge of being the good one. The relief when the conversation stays comfortable. That part steers better in the dark, and the low setting is the dark.
+**Why it matters:** A quick, reasonable response can hide what is at stake for you. The question is not whether your first reaction is correct. It is whether you can notice what you are protecting or avoiding before you choose your public response.
 
-In practice: the marker is the urge to sit up straight and sound reasonable. That urge is your hand on the dial, moving it down. Leave it where it is. Count six seconds and let the situation reach you at full strength, including the part of it you would rather not have found.
+In practice: when you feel yourself reaching for the polished version, pause. Welcome what is there. Give it a name if you can. Validate that it showed up for a reason. Then exhale and decide whether it belongs in the next move. You do not have to agree with a response to let it be present.
 
-**Example:** A colleague presents your analysis as his own and you say nothing. You compose the polite version instantly: level voice, easy face, a note to raise it with him later. Turn the dial up instead. The anger arrives, which you expected. Underneath it sits something you did not expect, a small relief, because now you hold a grievance you never had to ask for. Keep the relief. The anger was the part you already knew about.
+**Example:** A colleague presents your analysis as his own and you say nothing. You form the polite version immediately: level voice, easy face, a note to raise it later. Pause before you use it. Name what is there: anger, and relief. The anger tells you a line was crossed. The relief tells you that holding a grievance can feel easier than asking directly for what you need. Neither response decides what you do. Both give you a better question.
 
-**The test:** You can say what you were getting out of the moment, not only what it cost you. Liking some part of it is information rather than a confession. What stays hidden runs the moment, and what you can feel, you can play.
+**The test:** You can name more than one response to the situation before choosing your next move.
 
 ### Move 3 · Clean Up — Name the Channel Out Loud
 
