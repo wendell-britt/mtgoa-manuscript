@@ -65,7 +65,7 @@ The daemons are a marriage of three lineages. The architecture — the named voi
 
 ## On Trust
 
-The three things Chapter 1 says somebody is working out about you — whether you can
+Chapter 1's three questions — whether you can
 actually help, whether you do what you said you would do, whether you meant well — come
 from **Roger Mayer, James Davis and David Schoorman**, who call them ability, benevolence
 and integrity in "An Integrative Model of Organizational Trust" (*Academy of Management

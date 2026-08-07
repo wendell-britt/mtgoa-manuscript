@@ -18,7 +18,7 @@ leaving them behind. *Ch 8; Ch 5 §4 for the Regent's; the rule is Ken Wilber's*
 **BAR** — Breakthrough, Action, Reflection. Game tape, not journaling. You run one right
 after a hard moment, while the feeling is still close enough to name. *Ch 2 §9*
 
-**Campaign** — A run of quests pointed at the same thing, over a stretch of time. A quest is
+**Campaign** — A run of quests pointed at one goal, over a stretch of time. A quest is
 one move; a campaign is what they add up to. *App B*
 
 **Challenger, the** — The Face that moves when everyone else freezes, and draws the line.
@@ -88,7 +88,7 @@ clearance. *Ch 1*
 the Vulnerable Child, who should have been holding it the whole time. In somebody else's
 Forest, a player waiting for somebody to show up and play. *Ch 2 §6, §7*
 
-**Polarity Map, the** — For two things that are both necessary and pull against each other.
+**Polarity Map, the** — For two goods that are both necessary and pull against each other.
 Name the poles, mark where you are, design one action containing both. Barry Johnson's, and
 the distinction under it is his. *Ch 3 §4; App F*
 

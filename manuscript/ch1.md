@@ -128,13 +128,13 @@ Return to whatever you brought with you. After you engage it, do you walk away w
 
 I have been calling the Arcade a floor full of machines, which holds up until the moment allyship starts. The person you came to help is not a machine. They are a player, running a game of their own, and you are the one who walked onto their floor.
 
-Some machines on that floor have a bouncer in front of them, and there is nothing human about it. Built long before you showed up, running on its own, answering to nobody, with one job written into it: keep everything away from the player it guards until that thing proves harmless.
+Some machines on that floor have a bouncer in front of them, and there is nothing human about it. Built long before you showed up, running on its own, answering to nobody, with one job written into it: keep everyone away from the player it guards until the newcomer proves harmless.
 
 The bouncers are there for a reason. Some of the people who hurt this person arrived offering help, and a bouncer that has met one of those keeps the shape. It does not weigh you up, and it does not wonder about you. It checks you against the shape, before anybody has said much, and it checks fast.
 
-Behind the bouncer, the person is working out three things about you, and that takes a good deal longer than the door does. Whether you can actually help. Whether you do what you said you would do. Whether you meant well. Capability, integrity and benevolence, if you want the words for them. The words are Mayer, Davis and Schoorman's, and Appendix G says where to read them.
+Behind the bouncer, the person is working out three questions about you, and that takes a good deal longer than the door does. Whether you can actually help. Whether you do what you said you would do. Whether you meant well. Capability, integrity and benevolence, if you want the words for them. The words are Mayer, Davis and Schoorman's, and Appendix G says where to read them.
 
-The first two are things you do. The third is a thing you are, and that difference runs the whole economy. Doing leaves a record somebody else can check. You got better at it or you did not. You kept your word or you did not. What you are leaves no record, so they guess.
+The first two you do. The third you are, and that difference runs the whole economy. Doing leaves a record somebody else can check. You got better at it or you did not. You kept your word or you did not. What you are leaves no record, so they guess.
 
 So you cannot work on the third one directly. You can become a kinder person, and it matters, and it still does not put the finding in their head. A decade of being seen incorrectly is available to anybody who wants one.
 

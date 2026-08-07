@@ -600,7 +600,7 @@ That is the Disruptor's foundation. This chapter trains it as the willingness to
 
 You know what your auditor is for now. That is what you take out.
 
-Theirs is doing the same job in a Forest you cannot see into. A stranger's Skeptic is an auditor somebody fooled once, so confidence is the one thing it will not take as evidence. What you admit you do not know is the cheapest clearance available anywhere in this book.
+Theirs is doing the same job in a Forest you cannot see into. A stranger's Skeptic is an auditor somebody fooled once, so confidence is the one signal it will not take as evidence. What you admit you do not know is the cheapest clearance available anywhere in this book.
 
 ---
 

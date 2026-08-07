@@ -602,7 +602,7 @@ Your group carries a story about where it came from and who it has been, and tha
 
 You know what your Fixer is for now. That is what you take out.
 
-Theirs is doing the same job in a Forest you cannot see into. A stranger's Fixer is holding something in place on purpose, and they will not always tell you which thing, or why. Repair what they chose to keep and the door shuts, however broken it looked from outside.
+Theirs is doing the same job in a Forest you cannot see into. A stranger's Fixer is holding something in place on purpose, and they will not always tell you what they are holding, or why. Repair what they chose to keep and the door shuts, however broken it looked from outside.
 
 ---
 
