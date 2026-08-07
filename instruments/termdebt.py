@@ -75,7 +75,34 @@ TERMS = [
 WITHHELD = {
     'altitude': 'Held to ch8 by design (DL-73). The six Faces ARE the six altitudes and '
                 'the reader is not told until the Sage. Do not gloss it earlier.',
+    'superpower': 'ch1:241 withholds it on purpose -- "a superpower you will only spot in '
+                  'motion". ch2:344 says what one IS and never tells the reader to write '
+                  'hers down; Appendix H stamps that line OPEN rather than to a chapter '
+                  '(DL-67, DL-68). A superpower named in advance is one you are performing.',
 }
+
+# KNOWN UNDER-FIRES, checked 2026-08-05 and left alone. Both are `is_def` missing a real
+# definition, not the book missing one, and neither is worth a new rule: this session
+# already watched a loosely-written rule manufacture a definition at ch6:242, and a
+# fabricated definition is silent where a missing one at least gets reported.
+#
+#   quest   ch1:239 defines it by contrast -- "**Your quest.** Not 'get better at
+#           allyship.' A cause. The specific fight, community, or person you are actually
+#           in this for." `is_def` has no rule for "Not X. A Y." and the shape is common
+#           enough in this book that a rule for it would need its own testing pass.
+#
+#   Player  defined twice in ch2 -- ":384 the player who should have been holding it the
+#           whole time" and ":429 a player is waiting for somebody to show up and play" --
+#           both LOWERCASE, while TERMS matches `\bPlayer\b`. The case sensitivity is
+#           deliberate and must stay (Fire the channel vs fire the verb), so the ledger
+#           reports first use at ch8:348 and cannot see either definition.
+#
+# The rest of the ledger's rows are benign and were read: the five channels are named at
+# ch3:435 and tabled at ch3:445-449, one passage; Shaman and Diplomat are mentioned at
+# ch1:121 and ch1:143 and rostered at ch1:209, with ch1:121 signposting "the Shaman in
+# Chapter 3"; `Game Master` is the book's opening claim at ch1:16 and unpacked in its own
+# paragraph; `the Forest` enters as an invocation in the Reader's Oath and is the subject
+# of ch2 section 3; `the joystick` is planted at ch1:62 and ch2 section 6 is titled after it.
 
 LINES = {}
 for c in range(1, 10):
