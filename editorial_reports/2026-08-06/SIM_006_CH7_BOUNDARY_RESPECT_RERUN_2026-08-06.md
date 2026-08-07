@@ -2,7 +2,7 @@
 
 **Date:** 2026-08-06  
 **Type:** Desk-simulation rerun; editorial hypothesis, not human-reader evidence  
-**Scope:** Test a proposal-level clarification after Ch7’s “Stay” instruction. No canonical prose changed.  
+**Scope:** Test a proposal-level clarification after Ch7’s “Stay” instruction. The candidate was later approved and applied to canonical Ch7.
 **Inputs:** P-09 Apologetic Sponsor; P-10 Withdrawing Peer.
 
 ## Clarification under test
@@ -69,4 +69,4 @@ success_conditions:
 - for the power-holder, it prevents persistence from becoming pressure;
 - for the avoidant peer, it prevents “space” from becoming disappearance.
 
-The candidate is ready to be shown as a proposed Ch7 insertion. Before any canonical edit, present the full surrounding old and new text for approval, then rerun P-09 and P-10 against the applied reading surface.
+The candidate was approved and applied to canonical Ch7 after this rerun. Its applied-reading-surface regression remains the next simulation layer.

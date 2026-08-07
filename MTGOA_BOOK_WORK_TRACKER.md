@@ -278,6 +278,21 @@ is ready to present as a proposed Ch7 insertion. Full trace:
 
 ---
 
+## Session — 2026-08-07 · Ch7 boundary-respect clarification
+
+**Approved and applied.** The P-09/P-10 rerun established that Ch7's repair
+instruction needed to distinguish continued accountability from continued
+interpersonal access. The approved clarification makes staying mean respect for
+the other person's boundary, changed behavior, and reachability on terms they
+choose; it does not make forgiveness or renewed closeness the repair outcome.
+
+**Verification:** exact anchor matched once; `dupes.py` clean; `git diff
+--check` clean. `gate.py -v` remains at four pre-existing body hits in Ch9, all
+for “thing”; the new Ch7 prose introduced none. The applied safe-edit script is
+`instruments/apply_ch7_boundary_respect.py`.
+
+---
+
 ## Session — 2026-08-03 · Jordan arc, Chapters 7–9
 
 **Approved and applied.** Nine review-approved replacements across Diplomat,
