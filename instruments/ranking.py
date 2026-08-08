@@ -52,6 +52,19 @@ MS = os.path.join(HERE, os.pardir, "manuscript")
 RANKERS = ("just", "only", "merely", "simply")
 
 HARD = re.compile(r"Not\s+\w[^.!?:]{0,40},\s*not\s+\w[^.!?:]{0,40}:")
+# NARROWED 2026-08-07, after Wendell ruled all 26 SOFT sites. Twenty-five ranked
+# correctly and the pattern was over-inclusive, which is worse than useless on a
+# report: a board that is 96% legal trains you to skim it.
+#
+# What the ruling showed: when the word after `not` is a preposition or a hedge,
+# the sentence is swapping a MODIFIER and the thing itself survives — `not
+# because it's perfect, but because removing it would break something` still
+# keeps it; `not by convincing the person, but by making the behavior easier`
+# still changes the behavior. Those are ranking, and the constraint asks for them.
+# What is left is bare noun denial, where the thing is replaced outright.
+SWAPPERS = ("because", "by", "as", "to", "at", "from", "through", "in", "for",
+            "with", "on", "against", "toward", "towards", "yet", "exactly",
+            "quite", "always", "necessarily")
 SOFT = re.compile(r",\s*not\s+(\w+)[^.!?]{0,45},\s*but\s")
 
 
@@ -63,7 +76,8 @@ def scan(paths):
             for m in HARD.finditer(line):
                 hard.append((name, i, m.group(0).strip()))
             for m in SOFT.finditer(line):
-                bucket = rank if m.group(1) in RANKERS else soft
+                w = m.group(1)
+                bucket = rank if w in RANKERS or w in SWAPPERS else soft
                 bucket.append((name, i, m.group(0).strip()))
     return hard, soft, rank
 

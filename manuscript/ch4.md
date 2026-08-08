@@ -367,7 +367,7 @@ The Challenger's natural flow moves through the channels in this order:
 
 You do not sustain the fire indefinitely. The Challenger's cycle teaches you to *strike and then tend.* After the push (after you draw the line, make the demand, state the refusal), you rest. You let the field settle. Going back before the moment has passed retraumatizes the person you confronted.
 
-Then you repair, not apologize for, not soften, but *repair.* Meaning: you make clear that the line addressed the behavior, not the person. That your willingness to be unwelcome does not mean your willingness to be cruel. That you drew the boundary in service of the relationship, not against it.
+Then you repair. Apologising takes the line back and softening blurs it; *repair* keeps the line and tends what it cost. You make clear that the line addressed the behavior, not the person. That your willingness to be unwelcome does not mean your willingness to be cruel. That you drew the boundary in service of the relationship, not against it.
 
 Then: the next charge arrives.
 
