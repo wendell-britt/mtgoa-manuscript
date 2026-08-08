@@ -108,6 +108,8 @@ No one meant for that to happen. Nobody said *go.* It just lost the ability to h
 
 One kind of meeting runs a stated agenda of strategy over a real agenda of who gets to claim the victory. A circle where everyone processes together and one person uses the processing to stay at the center. A conversation where somebody draws a line, and the line lands correctly, and the drawing does more to prove someone right than to protect anyone.
 
+The place ran on three people doing four jobs each, and the org chart showed twelve. One of them left, and the postmortem found that the process had held up remarkably well.
+
 If you have sat at one of those tables and felt the gap between what people said and what they played (the game underneath the language, running the whole time) then you have the Sage's capacity. That much is not in question. The School of the Horizon takes up what happened next.
 
 One pattern shows up most often at this altitude. Offer it to yourself as a question to check rather than a verdict I already hold about you. Naming the game costs something. The naming lands as judgment even when it isn't. The people at the table hear *you think you're above this* where you said *here's what I notice.* That happens two or three times and the arithmetic changes. The cost of saying it rises above what it seems worth. So the seeing continues and the saying stops. You hold the pattern without putting it into words. You stay present without offering the particular usefulness you happen to be capable of.
@@ -295,6 +297,8 @@ So before you trust the view, check what gives it away. Are you in it, or watchi
 ### *The Five Modes of Sight*
 
 Three of the maps in this chapter are not mine, and you should know whose they are before you use them. The inner voices, and the practice of speaking as each one rather than about it, come from Genpo Roshi's Big Mind Process. The rule that you carry the lower altitudes instead of leaving them behind is Ken Wilber's, and it is the structural logic of the whole book. *Evolutionary purpose* is Frederic Laloux's, and in his hands it describes something that happens to an organization rather than to a person, so I have borrowed it down a level and the borrowing is mine to answer for. Shamanic training gives the chapter its body-first reading and its return to felt sense. The Faces framework gives it the developmental arc, so the language doesn't collapse into one personality theory wearing five hats. You don't have to convert to any of them to use the work. You have to keep the maps from folding into each other. Appendix G says where to read each one.
+
+The native material at the Sage's altitude is *perspective*: what every earlier Face stood on while looking at something else. Emotion, will, loyalty, logic and relationship each give you a place to stand. Perspective tells you that you are standing somewhere, and that somewhere else was available.
 
 The Sage sees in five modes. Each one is a tool. Each one, run wrong, becomes a shadow.
 
@@ -546,6 +550,9 @@ Return has four moves inside it. Run them in order the first several times. Afte
 
 ## Section 5: The Damaged Self, Up Close
 ### *The Part That Turned a Difference Into a Defect*
+
+I spent four years writing a book about not making yourself the load-bearing wall, from inside the load-bearing wall. The irony was available to me the whole time. I looked right at it and kept going.
+
 
 <!-- MARGINALIA -->
 > *I ask every student to draw the system and then name whose face disappeared from the diagram.*

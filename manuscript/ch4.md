@@ -104,6 +104,8 @@ They just forgot how to do it without apologizing.
 
 The villagers still experienced violations. Slights. Moments where someone crossed a boundary and everyone knew it and nobody said it. Without the Challenger to say *"this is not acceptable"* without softening it, without the Challenger's willingness to be unwelcome in service of what was true, the villagers learned to *process* these moments instead of *respond* to them. To have conversations about boundaries. To schedule dialogues. To bring in a facilitator.
 
+The committee exists to identify risks. It has never run out of them, it has never approved anything, and last spring it was renewed unanimously.
+
 Sometimes that was exactly right. Sometimes the situation actually required a facilitated conversation.
 
 Sometimes it required someone to say *no.*
@@ -503,7 +505,7 @@ One more move belongs here, the smallest one in the chapter.
 
 A voice arrives right before you draw a line. It is not the auditor: the auditor asks a question. This one has already decided. It says the same sentence every time, in the same tone: *do this and you become the difficult one, and what you have with these people will not survive it.* Tight. Pinched. Completely certain.
 
-That voice is not lying to you. It is a memory. Somewhere behind it sits a real occasion when pushing did cost something, a relationship that cooled, a table nobody invited you back to. The voice reports accurately.
+That voice is a memory, and it reports accurately. Somewhere behind it sits a real occasion when pushing did cost something, a relationship that cooled, a table nobody invited you back to.
 
 What it gets wrong is the timestamp. It files a past event as live coverage. It stands at the door of the conversation happening now and narrates something that already finished, in the present tense, at the volume of an emergency.
 
@@ -521,6 +523,9 @@ Find the voice. Give it a name. Say the name out loud.
 
 ## Section 5: The Skeptic, Up Close
 ### *The Auditor, and the Charge It Rules Inadmissible*
+
+You have found the flaw in every plan anybody has brought to this table. Somewhere back there that stopped being rigor and turned into an alibi.
+
 
 <!-- MARGINALIA -->
 > *There is a body on this ship whose stated purpose is the identification of risk. It has never run

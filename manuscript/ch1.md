@@ -162,7 +162,7 @@ I collected at the one marked applause for most of my adult life and never once 
 
 The reason is not a secret. Changing something costs money, and somebody currently holding that money has to give some up: a budget line, a promotion that goes elsewhere, a schedule that stops being convenient. The post that does numbers costs an afternoon. Where both are on offer the second one gets bought, and the people who would have paid for the first keep what they have. Those are the owners, and keeping that shelf stocked is how they collect.
 
-My fluency was the best luck that arrangement ever had. Every hour I spent getting good at the language was an hour nobody spent asking what had changed, and getting good cost them nothing. I paid for the lessons. They kept the budget line, and I stood at the counter as the standing proof that it pays.
+My fluency was the best luck that arrangement ever had. Every hour I spent getting good at the language was an hour nobody spent asking what had changed, and getting good cost them nothing. I paid for the lessons. They kept the budget line, and I stood at the counter as the standing proof that it pays. Call it the fluency dividend: what an arrangement earns every hour you spend getting better at describing it.
 
 I can teach you to see who is collecting. I can teach you to check what your move bought, who it bought for, and whether the person you meant to serve got any of the payout. Every chapter with a Face in it closes by asking where the work lands, because a move that lands on nobody is one the arrangement gets for free. What I cannot do is get you the owner. I have not worked that out, and anybody who tells you they have is selling you a better place in the same line.
 

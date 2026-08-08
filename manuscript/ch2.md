@@ -56,6 +56,8 @@ I don't ask you to fix the Shadow. I ask you to find out what it has been protec
 
 The terrain here has no map. Employers, movements and communities expect capacities that most training never reaches, and most training does not say so. The curriculum opens where the work becomes visible, which is a long way past where it starts.
 
+The onboarding has a section on psychological safety. It is a form. You sign it.
+
 The world is not fine. Neither is the method for fixing it. It rests on a bad premise: that allyship is mainly about what you do in public. The deeper truth is this:
 
 **Allyship is about what you are capable of becoming before you walk into the world.**
@@ -99,6 +101,8 @@ So here is the rule:
 You cannot draw a boundary you have not felt. You cannot hold someone else's pain without first being able to hold your own. You cannot challenge a system you do not understand. You cannot stay in the conversation when it gets hard unless you know what you're made of.
 
 Knowing what you're made of requires going somewhere the world doesn't see. That somewhere is the Forest.
+
+One note about the daemons before you meet them. I do not know whether a mind really holds eight separate voices, and neither does anybody selling you a model of one. What I know is that treating a reaction as somebody with a job gets you further than treating it as a flaw with your name on it, and that the practice works whether or not the furniture is real.
 
 The Forest is the place where the work actually happens: the inner landscape where the daemons wait, where you finally meet the parts that have been running the show, and where you can recognize the superpower shaped by your specific history and put it to work.
 
@@ -212,6 +216,11 @@ The book is the alchemy. It came from a rock in my shoe. The framework came afte
 
 ## Section 5: The Six Guides
 ### *How You Find Your Way Through*
+
+I rehearsed the whole conversation on the drive over, including her rebuttals, and I won all nine.
+
+He isn't guarded, exactly. He answers every question like it is being read into the record.
+
 
 You don't have to enter the Forest alone. Six guides walk this terrain. Each one carries a different way of seeing, a different question, and a different discipline of practice.
 

@@ -521,6 +521,10 @@ Both cost something. Claiming it means you can no longer hide behind not-yet-rea
 ## Section 5: The Fixer-Healer, Up Close
 ### *The Repair That Never Ends, and the Commitment It Postpones*
 
+I have never once let a friend finish describing a problem. I hear the shape of it and I am three steps into a solution nobody asked for, and I do it because I love them, which is the part that makes it so hard to stop.
+
+He has been fixing his brother for eleven years. His brother is fine. His brother has a job and a dog.
+
 You met the Fixer-Healer at the door of the Forest, fourth in line, one step past the Skeptic. The Protector decides whether you go in. The Controller decides how you may behave once you are inside. The Skeptic decides whether what you react to was ever real. The Fixer-Healer decides something none of them touch: whether what is in front of you is in good enough condition to be given yourself to.
 
 At its best this part of you does not look away from damage. Something you inherited is broken: an organization with a founding story that stopped being true, a practice that has drifted from what it was for, a family pattern nobody has named in three generations. Most people manage the discomfort of that by not seeing it. The Fixer-Healer sees it, names it, and starts work. That is the only reason anything inherited ever improves, and it will look like meddling to somebody. Every tradition still worth having had someone who noticed it failing and did something about it instead of calling the failure sacred.

@@ -589,6 +589,8 @@ The practice is the loop, and the list is only what the loop leaves behind. Runn
 
 ---
 
+Handing over the pen assumes you had the pen. I have had it more often than most people get to, and I cannot tell you how to get one: that is the same gap Chapter 1 left open and I have not closed it since. What I can tell you is that the five moves run smaller and slower without it, and that putting the work in front of one person is the move that needs no permission at all.
+
 This book has cost me all five of these. *Cut the field*: it is not about allyship in general; it is about the gap between people who understand the theory and people who can run it when something lands hard. *Put it in front of one person*: the course went in front of hundreds of people before it was good, and the ones who did not finish are the reason this exists. *Take the note that costs you the design*: a stack of chapters written at the applause counter did not get revised, they got thrown out. *Run it again with one thing changed*: every version that failed became the next one with something named and different in it. *Hand someone the pen*: the point is for this to live in more hands than mine, which means whoever runs it later gets to change it, not just repeat it.
 
 You don't have to write a whole book about it. You have to build your version of what this book is for the specific problem you want to solve for the people you want to help. That's the Player's move.

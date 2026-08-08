@@ -210,6 +210,10 @@ One part of this belongs specifically to this reader, and it explains why the ax
 
 ---
 
+The native material at the Diplomat's altitude is *relationship*, the only one of the six that lives between people instead of inside one. You carry emotion, will, loyalty and logic alone. Relationship needs a second person before it exists at all.
+
+---
+
 ### Draw the Axis — Care ↔ Impact
 
 The draw is relational. Not solo. Pick a live field with actual people making it, because this axis only shows its position when something is at stake between you and somebody else.
@@ -377,6 +381,8 @@ Here is what its distortion looks like: a performative calm, actually a freeze r
 
 The Dissatisfaction here is **inclusion-performance**. You open the retro by telling everyone no topic is off the table, and you mean it, and then the hour runs, everyone reports status, and what actually happened last sprint never comes up. You ran a good meeting and never got near the field.
 
+The statement took nine days and four rounds, because the group could not agree on how to say that it was listening.
+
 The field is what happens between people in relationship with each other, and allyship is a relationship. Everyone there makes it, and it lasts only as long as they are all still there. A physical field holds itself. This one needs tending, which is why Hold costs more, and why it is the one move you cannot make alone.
 
 The alchemy: *I stop announcing that the field is open and find out whether anyone will use it.* Anxiety shows up while you do this, and it reads the situation correctly, because a field with somebody's real stake in it costs more to hold than a calm one. Treat it as the weather you work in. What you are watching for is growth, and you know it arrived when somebody says what they had decided in the parking lot not to say. Their sentence is between everyone now, and you could not have said it for them. That is the Wood channel completing, and Bliss is what it feels like to hold a field that grew what you did not plant.
@@ -539,6 +545,9 @@ Pick the person. Someone who took a side while you were still holding the range,
 
 ## Section 5: The Victim, Up Close
 ### *The Ledger That Became a Standing*
+
+I apologized for taking up space in the conversation, at length, twice, and by the end I had taken up more of it than anyone.
+
 
 You met the Victim at the door of the Forest, sixth in line. The Protector decides whether you go in. The Controller decides how you may behave once you are inside. The Skeptic decides whether what you react to was ever real. The Fixer-Healer decides whether what is in front of you merits giving yourself to. The Victim decides something none of them touch: what your having paid entitles you to.
 
