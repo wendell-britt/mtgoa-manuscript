@@ -81,8 +81,6 @@ Each stage earns the next. Bridge without Translate is noise. Translate without 
 
 **The Diplomat means: nobody left the table.** It is the most generous of the six and the easiest to overspend, because a table nobody leaves also decides nothing.
 
-**The Diplomat means: nobody left the table.** It is the most generous of the six and the easiest to overspend, because a table nobody leaves also decides nothing.
-
 ---
 
 ## Section 2: The Distortion
