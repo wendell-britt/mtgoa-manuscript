@@ -522,6 +522,10 @@ Find the voice. Give it a name. Say the name out loud.
 ## Section 5: The Skeptic, Up Close
 ### *The Auditor, and the Charge It Rules Inadmissible*
 
+You have found the flaw in every plan anybody has brought to this table. Somewhere back there that stopped being rigor and turned into an alibi.
+
+The committee exists to identify risks. It has never run out of them, it has never approved anything, and last spring it was renewed unanimously.
+
 <!-- MARGINALIA -->
 > *There is a body on this ship whose stated purpose is the identification of risk. It has never run
 > out. It has never approved anything. Last spring it was renewed unanimously, including by the two

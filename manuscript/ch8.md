@@ -549,6 +549,10 @@ Return has four moves inside it. Run them in order the first several times. Afte
 ## Section 5: The Damaged Self, Up Close
 ### *The Part That Turned a Difference Into a Defect*
 
+I spent four years writing a book about not making yourself the load-bearing wall, from inside the load-bearing wall. The irony was available to me the whole time. I looked right at it and kept going.
+
+The place ran on three people doing four jobs each, and the org chart showed twelve. One of them left, and the postmortem found that the process had held up remarkably well.
+
 <!-- MARGINALIA -->
 > *I ask every student to draw the system and then name whose face disappeared from the diagram.*
 >

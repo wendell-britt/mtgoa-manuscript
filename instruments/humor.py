@@ -62,6 +62,11 @@ ARCHETYPE = {
         # however many jokes ship. Each entry below is a joke actually in the
         # manuscript, added when it landed.
         r"\bI built a spreadsheet to track my moods\b",
+        r"\bI rehearsed the whole conversation on the drive over\b",
+        r"\bwhether the sign met my criteria for a sign\b",
+        r"\bI have never once let a friend finish\b",
+        r"\bI apologized for taking up space in the conversation\b",
+        r"\bfrom inside the load-bearing wall\b",
     ],
     'jerk': [
         r"\b(He|She) (isn't|is not|has been|answers|says she's|says he's)\b.{0,60}"
@@ -69,6 +74,9 @@ ARCHETYPE = {
         r"\bYou'?ve found the flaw\b|\bthat stopped being \w+ and turned into\b",
         r"\bHis (brother|sister|team) (is fine|has a job)\b",
         r"\basked what his leading indicator was\b",
+        r"\banswers every question like it is being read into the record\b",
+        r"\bthat stopped being rigor and turned into an alibi\b",
+        r"\bHis brother has a job and a dog\b",
     ],
     'cult': [
         r"\bThe (committee|charter|onboarding|retreat|policy|process) (exists|says|had|has)\b",
@@ -76,6 +84,11 @@ ARCHETYPE = {
         r"\bby the third day\b|\bwe had invented a way to\b",
         r"\bthe workshops teach the scripts\b",
         r"\bread the burnout survey and added a wellness hour\b",
+        r"\bhas a section on psychological safety\b",
+        r"\bhad a rule against giving advice\b",
+        r"\bit has never approved anything\b",
+        r"\bcould not agree on how to say that it was listening\b",
+        r"\bthe org chart showed twelve\b",
     ],
 }
 

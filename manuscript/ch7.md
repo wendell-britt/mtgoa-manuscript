@@ -544,6 +544,10 @@ Pick the person. Someone who took a side while you were still holding the range,
 ## Section 5: The Victim, Up Close
 ### *The Ledger That Became a Standing*
 
+I apologized for taking up space in the conversation, at length, twice, and by the end I had taken up more of it than anyone.
+
+The statement took nine days and four rounds, because the group could not agree on how to say that it was listening.
+
 You met the Victim at the door of the Forest, sixth in line. The Protector decides whether you go in. The Controller decides how you may behave once you are inside. The Skeptic decides whether what you react to was ever real. The Fixer-Healer decides whether what is in front of you merits giving yourself to. The Victim decides something none of them touch: what your having paid entitles you to.
 
 <!-- MARGINALIA -->

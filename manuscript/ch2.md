@@ -215,6 +215,12 @@ The book is the alchemy. It came from a rock in my shoe. The framework came afte
 ## Section 5: The Six Guides
 ### *How You Find Your Way Through*
 
+I rehearsed the whole conversation on the drive over, including her rebuttals, and I won all nine.
+
+He isn't guarded, exactly. He answers every question like it is being read into the record.
+
+The onboarding has a section on psychological safety. It is a form. You sign it.
+
 You don't have to enter the Forest alone. Six guides walk this terrain. Each one carries a different way of seeing, a different question, and a different discipline of practice.
 
 You don't need to understand all six before you begin. You only need to notice which question makes something in you lean forward.

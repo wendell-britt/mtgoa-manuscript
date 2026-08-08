@@ -694,6 +694,10 @@ That part has a name, and you have met it before. If you are reading in stolen t
 ## Section 5: The Controller, Up Close
 ### *The Standard-Setter, and the Move Into the World*
 
+I asked the universe for a sign, and then spent forty minutes deciding whether the sign met my criteria for a sign.
+
+The retreat had a rule against giving advice. By the third day we had invented a way to give it that sounded like a question.
+
 You met the Controller at the door of the Forest, second in line, right behind the Protector. The Protector decides whether you live. The Controller decides how. It sets the standard (what's good, what's bad, what you're allowed to do about it) and then holds the line on that standard whether or not the rest of you agrees.
 
 At its best, the Controller is the referee of your game. You set the rules: the kind of ally you actually want to be, the line you'll hold when holding it costs you. The referee enforces those rules when your nerve goes. You said you'd show up for someone; when the day turns inconvenient, the referee gets you there anyway. That is integrity, and it is not automatic. It is a part of you doing a job. A person with no referee has values the width of whatever is easy that day.
