@@ -11,7 +11,7 @@ The one that's calling, rather than the most urgent or the one you think you sho
 
 There are four of them.
 
-Movement builders knew this before this book existed — before WAVE, before the six Faces, before the walk through the Forest. People who were trying to change the world had already mapped the four types of work any movement needs: gathering resources, organizing conditions, taking direct action, raising awareness. This is inherited vocabulary from sixty years of serious organizing. What MTGOA adds is the interior work that makes each domain real — the capacity to show up in your chosen territory without the shadow running the show.
+Movement builders knew this before this book existed — before the Five-Move Form, before the six Faces, before the walk through the Forest. People who were trying to change the world had already mapped the four types of work any movement needs: gathering resources, organizing conditions, taking direct action, raising awareness. This is inherited vocabulary from sixty years of serious organizing. What MTGOA adds is the interior work that makes each domain real — the capacity to show up in your chosen territory without the shadow running the show.
 
 The failure mode that crosses all four domains is the same: most allyship breakdown isn't incompetence. It's domain mismatch. Someone doing Raise Awareness work when the situation needs Direct Action. Someone using Skillful Organizing when Gather Resources is the missing piece. Using the wrong type of work for the actual block — often without knowing there are four types to choose from.
 
@@ -190,5 +190,4 @@ Before you draw a card: **which domain is actually alive for you right now?**
 Which matters most and which you have been neglecting are different questions, and neither is this one. The body knows before the mind decides. The domain you keep circling back to, the territory where the charge lives — that's the diagnostic.
 
 The domains are situational routing tools, not identity types. You are not a "Raise Awareness person." You are a person who, right now, is working on a Raise Awareness problem. The question is always situational — *what's calling right now* — not biographical.
-
 

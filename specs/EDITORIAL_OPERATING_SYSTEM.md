@@ -107,6 +107,40 @@ Flag only a concrete readability problem: ambiguity, vague reference, accidental
 Return at most 10 flags: location | original (maximum two sentences) | diagnosis | minimal proposed edit | reader problem solved | risk to voice | leave-as-is rationale.
 
 Do not alter facts, meaning, tone, dialect, examples, or structure. If the passage works, leave it alone.
+
+### Reader-run pattern audit — a supplement to the Line Editor
+
+Use this after a reader has made a first pass through a bounded chapter or sequence.
+It turns demonstrated reader friction into a repeatable audit; it is not a second
+rewriting role. The Chapter 2 run established these questions:
+
+1. **Name before reference.** Has the thing been named before a pronoun, a
+   placeholder such as *somewhere*, or a claim about it asks the reader to infer it?
+2. **Seat the consequential verb.** Does a named person, group, or licensed interior
+   part hold the action that matters? Use `agency_grep.py` as a recall net; it does
+   not decide the sentence.
+3. **Show before interpreting.** Does a social fact, observable behavior, or concrete
+   situation arrive before the sentence explains what it means?
+4. **Earn embodiment.** When prose names bracing, tightening, vigilance, or another
+   body-state, does it give a concrete event and observable consequence? Do not ban
+   body language; reject only a generic somatic explanation that substitutes for one.
+5. **Preserve real both/ands.** Do not deny one true condition merely to make the
+   contrast cleaner. If people move the goalposts *and* conditions change, let both
+   facts stand.
+6. **Do not stage significance.** Cut an instruction to hold, sit with, or bravely
+   face a line unless the instruction itself changes the reader's next action. Make
+   the content carry its importance.
+7. **Teach in reader order.** Introduce a term before using it; state where a promised
+   document or practice sits in the production spine before judging an apparent gap.
+   Continuity reads must use `instruments/build_book.py`, not adjacent chapter files
+   alone—Chapter 2's Headmaster letter is a standalone file placed between Chapters 2
+   and 3 by that spine.
+
+`instruments/reader_run_scan.py` supplies a small, high-recall candidate list for
+questions 4 and 6. It is deliberately narrow and always exits successfully: a hit is
+a place to read, never a defect or a required edit. Questions 1, 2, 3, 5, and 7 need
+the reader's judgment and recorded evidence. Add a new mechanical pattern only after
+a reader has caught it in the manuscript and can state the reader problem it caused.
 ```
 
 ### 4. Voice Guardian — final editorial gate

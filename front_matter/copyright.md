@@ -25,6 +25,9 @@ Dynamics work of **Clare Graves** and **Don Beck**.
 
 The 3-2-1 Shadow Process in Appendix E is Wilber's, from *Integral Life Practice*.
 
+The Five-Move Form in this book — Wake Up, Open Up, Clean Up, Grow Up, Show Up — adapts Ken
+Wilber's five practices from *Finding Radical Wholeness*.
+
 The practice of speaking as each interior voice, hearing its logic, and giving it
 a narrower job comes from the **Big Mind Process** of **Dennis Genpo Merzel**
 (Genpo Roshi).

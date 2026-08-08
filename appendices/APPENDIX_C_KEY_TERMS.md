@@ -11,11 +11,11 @@ without a new ruling.
 
 ---
 
-**Allyship Domains** — The four ways allyship shows up as concrete action: Gather Resources, Skillful Organizing, Direct Action, Raise Awareness. *[Ch1/Appendix A] — See also: WAVE, Gate*
+**Allyship Domains** — The four ways allyship shows up as concrete action: Gather Resources, Skillful Organizing, Direct Action, Raise Awareness. *[Ch1/Appendix A] — See also: Five-Move Form, Gate*
 
 **Bars-engine** — The game system Wendell built from this practice. Chapter 9 uses it as the worked example of a Founder move. *[Ch0] — See also: Oracle Deck, BAR*
 
-**The Book's Failure Mode** — The specific way allyship breaks when the WAVE is skipped: Show Up without Wake Up (performing the move), Clean Up without Grow Up (cleaning up someone else's mess), Grow Up without Show Up (becoming wise without acting). *[Ch0] — See also: WAVE*
+**The Book's Failure Mode** — The ways allyship breaks when a reader skips movements of the Five-Move Form or treats one movement as the whole practice. *[Ch1] — See also: Five-Move Form, Gate*
 
 **Capture Window** — The brief moment after a gate encounter when a BAR can be made before the felt-sense fades into interpretation. The book's intervention is specifically to capture before the reader processes the experience into insight. *[Ch1] — See also: BAR, Gate*
 
@@ -35,7 +35,9 @@ without a new ruling.
 
 **Fire (Li ☲)** — The I Ching trigram for Clarity, Illumination, What Clings to Light. Upper trigram of Ch8 (Player). Color: red. *[Ch8] — See also: Trigram, Hexagram*
 
-**The Four WAVE Moves** — Show Up (do the thing), Clean Up (repair the rupture), Wake Up (see what's avoided), Grow Up (build the capacity). The WAVE describes the quality of allyship work, not a sequence. *[Ch1] — See also: Allyship Domains, Gate*
+**Face-specific changes** — The five concrete moves each school teaches for putting the Five-Move Form into practice in its own territory. The Form tells you where you are; the Face tells you what that movement asks of you. *[Ch1/Ch3] — See also: Five-Move Form, Face*
+
+**Five-Move Form** — The shared form of the six schools: Wake Up, Open Up, Clean Up, Grow Up, Show Up. Adapted from Ken Wilber's *Finding Radical Wholeness*, it gives every Face a common sequence; each school teaches its own changes on it. *[Ch3] — See also: WAVE, Face-specific changes*
 
 **Gate** — One of eight threshold moments in each chapter's inner walk. Each gate has a specific voice, a specific lesson, and a specific failure mode. Crossing the gate requires encountering the voice and moving through it rather than around it. *[Ch1] — See also: Vulnerable Child, BAR*
 
@@ -61,7 +63,7 @@ without a new ruling.
 
 **Wake Up Failure** — When the Skeptic's doubt lands at the reader's capacity (\"I'll get this wrong\") rather than at the situation. The doubt becomes a spell cast at the self instead of a question asked of the moment. *[Ch3] — See also: Skeptic, EA*
 
-**WAVE** — The four moves of allyship: Show Up, Clean Up, Wake Up, Grow Up. The WAVE is not a sequence; it is a diagnostic for where a player is stuck in any given moment. *[Ch1] — See also: Four Allyship Domains, Gate*
+**WAVE** — A short somatic practice: Welcome, Acknowledge, Validate, Exhale. Use it when charge is already present in your body, especially during Open Up; it can support Wake Up and Clean Up as well. *[Ch3] — See also: Emotional Alchemy, Five-Move Form*
 
 **Wind (Xun ☴)** — The I Ching trigram for Flexibility, Infiltration, What Penetrates. Upper trigram of Ch4 (Regent). Color: green. *[Ch4] — See also: Trigram, Hexagram*
 
@@ -69,4 +71,4 @@ without a new ruling.
 
 ---
 
-*End of terms. Total: 27 entries.*
+*End of terms. Total: 28 entries.*
