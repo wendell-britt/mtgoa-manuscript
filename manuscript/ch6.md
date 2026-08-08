@@ -166,6 +166,8 @@ The five modes, the stage sequence, the part of you that feels the system before
 
 Somewhere in the training you will recognize a design failure. A process that looked correct and failed anyway. An accountability structure nobody trusted. A meeting format that produced nothing and cost everyone something. The School of the Pattern makes the same claim about all of them: the structure did exactly what it got built to do, and that was the problem. Not who failed it. Why it could not have done otherwise.
 
+They read the burnout survey and added a wellness hour. Thursdays at two, which was the only unbooked hour on the calendar, because it was the only hour anyone was getting anything done.
+
 Doing the right thing in the wrong system is a specific kind of expensive, and the expense has a name: the system's cut. You pay it in hours, in goodwill, in the same argument made a fourth time, and the system keeps the difference. The Architect starts by recognizing it as a system problem rather than an effort problem.
 
 ---
@@ -365,6 +367,8 @@ Then hold the flinch. Somebody will hear it as criticism: that's the cost, and y
 ## Section 5: The Emotional Body, Up Close
 ### *The Signal That Arrives Already Converted*
 
+I built a spreadsheet to track my moods, and inside a week I was having the moods that made the chart look better.
+
 You met the Emotional Body at the door of the Forest, fifth in line, one step past the Fixer. It does not belong in that line the way the others do.
 
 The Protector decides whether you go in. The Controller decides how you may behave once you get inside. The Skeptic decides whether what you react to was ever real. The Fixer decides whether what is in front of you holds up well enough to deserve you. Four parts, four strategies, four different jobs. The Emotional Body is what all four strategies are strategies *about.* Every one of them manages something that arrived through it first.
@@ -454,6 +458,8 @@ The one described above is the generic version. Yours converts in its own way, a
 You drew the Structure ↔ Agency axis in Section 4. Here is why the Emotional Body is nearly impossible to catch standing on it, and why the chapter gave you a polarity instead of a rule.
 
 Both poles are real goods. That condition is what makes the shadow workable. A distortion that had to argue for something false would be caught in a week. The Emotional Body does not argue for coldness: you would notice coldness. It argues for Structure, and Structure is half the truth. *This is not about that person, it is about the incentive. Blame is a dead end. The individual is not the leverage point.* Each of those can be correct. Each of them is correct sometimes. You can spend an entire career at the Structure end of a real polarity and call it sophistication, and no single instance will look like an evasion, because no single instance is one.
+
+Somebody told a colleague his mother was sick and the colleague asked what his leading indicator was. The Structure had a point about leading indicators. It brought the point to a bedside.
 
 The tell is never the position. The tell is whether the answer is ever Agency. A sensor that has routed eleven consecutive events into a structural claim has stopped reading and started deflecting, and the eleventh claim is as defensible as the first. Section 3 named the drift; this is what the drift looks like from inside, where it does not feel like drift at all but like getting it right eleven times. Look at the sequence, not the verdict, that is the only place the pattern shows.
 

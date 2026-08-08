@@ -57,18 +57,25 @@ ARCHETYPE = {
         r"\bwhich is the part that makes it so hard to stop\b",
         r"\bI have never once\b|\bI did it the entire time\b",
         r"\bI know that (counter|machine|move) from the inside\b|\bI know that counter\b",
+        # PLACED 2026-08-07. The grid's specimens are drafts; what lands in the body
+        # is adapted, so a pattern list keyed only to the drafts reports 0 forever
+        # however many jokes ship. Each entry below is a joke actually in the
+        # manuscript, added when it landed.
+        r"\bI built a spreadsheet to track my moods\b",
     ],
     'jerk': [
         r"\b(He|She) (isn't|is not|has been|answers|says she's|says he's)\b.{0,60}"
         r"(exactly|every question|for \w+ years|holding)",
         r"\bYou'?ve found the flaw\b|\bthat stopped being \w+ and turned into\b",
         r"\bHis (brother|sister|team) (is fine|has a job)\b",
+        r"\basked what his leading indicator was\b",
     ],
     'cult': [
         r"\bThe (committee|charter|onboarding|retreat|policy|process) (exists|says|had|has)\b",
         r"\bIt has never\b.{0,50}\band\b.{0,40}\b(unanimously|renewed|approved)\b",
         r"\bby the third day\b|\bwe had invented a way to\b",
         r"\bthe workshops teach the scripts\b",
+        r"\bread the burnout survey and added a wellness hour\b",
     ],
 }
 
