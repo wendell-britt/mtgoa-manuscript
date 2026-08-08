@@ -14,7 +14,74 @@ like Rao. Both produce a finding, written as Wendell.
 
 ---
 
-## W1 · `LIKE WILBER` — the book's developmental spine is never introduced
+## W1 — WITHDRAWN AND REPLACED, 2026-08-07. The recommendation was backwards.
+
+**Wendell:** *"The faces ARE altitudes but this info is hidden from the reader. Because the
+ICA is green and allergic to hierarchical language I've organized them as game master faces
+but they correspond to the integral levels. A savvy reader should be able to pick this up and
+the regular reader by the time they understand this should've overcome their allergy."*
+
+**W1 below proposed writing *a Face is not a level* into ch1. The Faces are exactly levels**,
+and the mapping is recorded in `MTGOA_ICHING_6FACE_ANALYSIS.md`:
+
+| ch3 | ch4 | ch5 | ch6 | ch7 | ch8 |
+|---|---|---|---|---|---|
+| Shaman | Challenger | Regent | Architect | Diplomat | Sage |
+| **Magenta** | **Red** | **Amber** | **Orange** | **Green** | **Teal** |
+
+Chapter order is developmental order. The concealment is the design, not a gap, and I read a
+deliberate structure as a missing one because I checked whether ch1 taught the word and never
+checked whether the book was withholding it on purpose. **The tell was in the repo the whole
+time** — `humor.py`'s policy rulings say *ch3 Jerk light (**Magenta**-proximity risk)* and
+*ch5 Jerk held to process-not-person (**Amber**-contempt risk)*, and I quoted that docstring
+without reading what it implied.
+
+**The concealment is airtight in the body.** Colour names in every shipping surface: **one**,
+and it is `ON_THE_SHOULDERS_OF:30` — *"The **Teal** language in Chapter 8 has a second source.
+Frederic Laloux's Reinventing Organizations."* **That is the reveal, and it is already
+correctly placed**: the credits appendix is where a savvy reader goes looking for sources, and
+a regular reader reaches it after the book, which is the point at which the allergy has been
+handled. Nothing to fix.
+
+## W1′ · `LIKE WILBER` — the ladder is labelled on three rungs of six
+
+**`native material` is the rung-label, and it is the savvy reader's strongest clue.**
+
+| ch3 Shaman | ch4 Challenger | ch5 Regent | ch6 Architect | ch7 Diplomat | ch8 Sage |
+|---|---|---|---|---|---|
+| **—** | *will* | *loyalty* | *logic* | **—** | **—** |
+
+- `ch4:224` — *"The Challenger's native material is **will.**"*
+- `ch5` — *"The native material at the Regent's altitude is **loyalty**, the felt sense of belonging to something larger than yourself."*
+- `ch6` — *"At the Architect's altitude, the native material is not emotion: it is **logic**."*
+
+**Three consecutive rungs carry the frame and the other three do not.** *will → loyalty →
+logic* is a recognisable developmental sequence and it is exactly enough to make a savvy
+reader look for the rest — and then the pattern stops. The three missing are the three that
+would **confirm** the ladder rather than merely suggest it.
+
+**All three have the material and none of them casts it as native material.** ch3 is feeling;
+ch7 already says *"pluralistic, relational, oriented toward inclusion"*; ch8 already says
+*"the capacity to take in all the altitudes and still choose to stand somewhere."*
+
+**What `LIKE WILBER` asks for: be exact about the distinction being drawn.** The distinction
+here is between six Faces that happen to be described and six rungs that are described the
+same way. **The fix adds no hierarchy language at all** — one sentence each in ch3, ch7 and
+ch8, in the frame ch4–ch6 already use. No colours, no tiers, no ladder named. The savvy reader
+gets a complete pattern; the regular reader gets six chapters that describe themselves
+consistently.
+
+**Also worth ruling:** `ch7` is the only chapter that says *"the relational altitude **of
+human development**"* — the one place the book tells the reader that altitude is
+developmental. It sits at Green, which is her own level, which is where she would recognise
+herself. **That reads as deliberate and I have not touched it**, but it is the single loudest
+clue in the body and it should be there on purpose rather than by accident.
+
+---
+
+## W1 (superseded — kept for the record)
+
+### `LIKE WILBER` — the book's developmental spine is never introduced
 
 **`altitude` runs 68 times in the body and ch1 uses it zero times.**
 
