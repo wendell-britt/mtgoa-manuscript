@@ -30,6 +30,13 @@ Refuse False Equivalence now operates as the discernment inside an honest close 
 competing fifth move. The marginalia insertion and source note now anchor the close at Move 5.
 Reader-run and duplicate checks pass; all marginalia anchors resolve.
 
+**Chapter 7 Section 4.** The five Diplomat units are now Modes, not Channels. The
+reader-facing Alchemy / Translate / Control taxonomy and every bracket tag are gone.
+The mode entries now teach plain practices; Bridge, Translator, Repairer, and
+Negotiator duplications were consolidated. Reader-run is clean, duplicate scan is
+clean, and all anchors resolve. Two review blockers remain in pre-existing Chapter 7
+prose outside this rewrite.
+
 **Chapter 6 sequence.** The Architect's native workflow is now one explicit stage sequence:
 Observe → Model → Design → Deploy → Hand Off. The later duplicate flow-cycle paragraph was
 removed; the worked example now follows the single sequence. This does not yet resolve the

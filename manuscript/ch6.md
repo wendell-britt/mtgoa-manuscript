@@ -261,7 +261,9 @@ Hand Off is also where the Architect most often walks away, and workload has not
 
 ---
 
-The five Architect modes are five ways logic moves through a problem. Each one works as a channel doing detection work.
+### The Five Modes of Design
+
+The Architect enters a broken system through five modes. The Mapmaker traces risk. The Engineer tests whether the parts hold together. The Strategist looks for the pressure point. The Inventor sees what wants to exist. The Optimizer notices what has begun to decay. You may use more than one in the same problem; the question is which one is leading your attention now.
 
 ### Draw the Axis — Structure ↔ Agency
 
@@ -476,23 +478,17 @@ Here's what I've noticed about the Architect's game: the Architect wins when the
 
 The Architect's game is building the map that makes you unnecessary. Not unnecessary in a dismissive way, unnecessary in a generous way. You've built something that can survive without you. That's the win.
 
-Here are five distinct moves that make that win real.
+Here are five moves that follow the Architect's sequence.
 
 ---
 
-### Move 1: Find the Leverage Point
+### Move 1: Trace What Is Happening
 
-**What it is:** You look at a system and ask: where does the smallest push create the largest movement?
+**What it is:** Before you explain a broken system, follow what people actually do inside it. Watch the handoffs. Ask where people wait, improvise, repeat work, or solve the same problem in private.
 
-**Why it matters:** Most designers push everywhere at once. They add features, adjust processes, redesign interfaces, all at the same time, with the same amount of force. It works about as well as you'd expect. The system barely moves. The designer gets exhausted.
+**Why it matters:** The official process is often the version nobody is using. A useful design begins with the path the work really takes, including the cost carried by the people making it function.
 
-Finding the leverage point is the discipline of asking: what is the one place in this system where a small change would cascade through everything else? Where the existing structure is already almost right, and one adjustment would make it lock into place?
-
-In practice: when you're looking at a broken system, don't start with what's broken. Start with where the pressure is already building. Where is the system under the most strain? Where are people already trying to work around the problem? That's usually the leverage point. The workaround is a sign. Follow it.
-
-**Example:** Meera asks three times for the weekly deck in a format her screen reader can use, and three times somebody sends a fixed copy that afternoon. The fixed copy is not the fix. The leverage point sits in the template everybody builds the deck from and nobody owns. Change the template and the request stops existing. It costs you a fortnight of arguing with people who like their fonts. Meera did not ask you to do this and may never notice you did.
-
-**The test:** You named one place and pushed there, instead of pushing everywhere at once with the same force. Cascades are slow and often invisible. One named point is the move.
+**The test:** You can describe the process as it happens now, including one workaround the official version does not account for.
 
 ---
 
@@ -512,19 +508,17 @@ In practice: when everyone around the table is discussing solutions, pause and a
 
 ---
 
-### Move 3: Design for Handoff
+### Move 3: Find the Leverage Point
 
-**What it is:** You build a system so that someone else can run it without you.
+**What it is:** You look at a system and ask: where does the smallest push create the largest movement?
 
-**Why it matters:** Most designers design for themselves. The system works because they are in it, managing it, fixing the edges. It works as long as they are there. The moment they leave, the system degrades. This is not design. This is maintenance theater.
+**Why it matters:** Most designers push everywhere at once. They add features, adjust processes, redesign interfaces, all at the same time, with the same amount of force. The system barely moves. The designer gets exhausted.
 
-Designing for handoff means: before you ship the design, ask who will run this after me? What do they need to know that I'm assuming they already know? What documentation, training, or structural simplicity would make this handoff clean?
+Find the one place where a small change would cascade through everything else. Look for pressure already building and the workaround people have already made. The workaround is a sign. Follow it.
 
-In practice: design as if the person taking over knows less than you do about why you made the choices you made. Because they will. Write the rationale down. Name the trade-offs. Explain what you optimized for and what you gave up. Leave a breadcrumb trail.
+**Example:** Meera asks three times for the weekly deck in a format her screen reader can use, and three times somebody sends a fixed copy that afternoon. The leverage point sits in the template everybody builds the deck from and nobody owns. Change the template and the request stops existing.
 
-**Example:** You built the intake process, you run it, and you also translate for the three families who cannot use an English form. Design the handoff on the assumption that the next person will not speak Somali. Put the translating in the process rather than in yourself, which means paid interpreters on the calendar and a form in two languages, and it costs the programme more than you do. The families get something that survives you leaving. You stop being the reason it works.
-
-**The test:** You asked who runs this after me before you shipped, and wrote down the one thing you were assuming they already knew. The system's survival is next year's evidence.
+**The test:** You named one place and pushed there, instead of pushing everywhere at once.
 
 ---
 
@@ -552,25 +546,25 @@ In practice: before you start designing, ask: what is the one question this desi
 
 **The test:** It reached a real person while it was still embarrassing to show. A version you shipped once you were comfortable with it arrived late, however well that version performed.
 
----
-
-### Move 5: Refactor Kindly
-
-**What it is:** When the design is wrong, change it without shaming the version that got you here.
-
-**Why it matters:** Designers get attached to their designs. Not in a vanity way, necessarily. The design is the thought. The thought is the designer. When you change the design, it can feel like you're rejecting yourself.
-
-Refactoring kindly means: you can see clearly that the design needs to change, and you can also hold the fact that the previous version was what got you here. It did its job. It taught you what you know now. Without it, you would not have the information you have. Honor that. Say it out loud.
-
-In practice: when you're revising a design, name what the previous version got right before you change what it got wrong. Make this a practice, not a courtesy. The previous designer in you, past you, needs to hear that they weren't wrong. They were learning.
-
-**Example:** You built the escalation path two years ago and you can see now that it routes everything through one person, who is you. Say it in front of the team: *we built this with what we knew, and it was the right call then. We know more now.* Then change it. The kindness is not for them. A person who cannot say that about their own work stops being able to see it, and you will need to see the next one.
-
-**The test:** You changed it without filing the previous version as a mistake. It got you here, and saying so out loud is part of the move. Quality of the new design is a separate question.
+The first version may teach you that the design is wrong. Revise it without treating the earlier version as a personal failure. It was the version that gave you the information you have now. Then observe again.
 
 ---
 
-That's the Architect's game. Five distinct moves. The map that makes you unnecessary. The leverage point instead of the brute-force push. The unstated assumption instead of the obvious one. The handoff instead of the dependency. The minimum instead of the masterpiece. The refactor instead of the defense.
+### Move 5: Design for Handoff
+
+**What it is:** You build a system so that someone else can run it without you.
+
+**Why it matters:** A system that works only because you are in it is maintenance, not design.
+
+Before you leave, ask who will run this next. Write down the rationale, trade-offs, and the one thing you assume they already know. The test is whether they can change the system when conditions move, not merely operate it as you left it.
+
+**Example:** You built the intake process and translate for the families who cannot use an English form. Build paid interpreters and a bilingual form into the process, then leave someone else the authority and explanation to keep improving it.
+
+**The test:** The system can survive your leaving, and the next person has enough reasoning to change it rather than simply preserve it.
+
+---
+
+That's the Architect's game: trace, model, design, deploy, and hand off. The map that makes you unnecessary.
 
 That's what winning looks like at this altitude.
 

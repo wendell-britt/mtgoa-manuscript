@@ -50,7 +50,7 @@ no attribution anywhere, including Ch8.
 | 7 | `claude_CHAPTER7_DIPLOMAT_FULL_DRAFT_MASTER.md` | N1 | *after byline* |
 | 7 | | N2 | `You cannot decline something you were never told about` |
 | 7 | | N3 | `Polarity Encounter — Care` |
-| 7 | | N4 **ARC** | `the truth rather than an interpretation` |
+| 7 | | N4 **ARC** | `a way of listening from above` |
 | 7 | | N5 | `The Victim decides something none of them touch` |
 | 7 | | N6 | `### Move 3: Close with Honest Terms` |
 | 7 | | N7 | `## Section 7` |

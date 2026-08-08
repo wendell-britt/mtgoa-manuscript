@@ -65,7 +65,7 @@ the refusal demonstrates Diplomat mastery in the same sentence that shows what i
 
 ## NOTE 4 — **ARC BEAT** — *confess*
 **Placement:** Section 4, Channel 2 (Translator), immediately after *"the more you start to
-believe your translation is the truth rather than an interpretation."*
+believe your translation is a way of listening from above."*
 
 **Dialled: +RAO +SNICKETY.**
 

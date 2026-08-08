@@ -294,7 +294,7 @@ cost somebody other than its owner.*
 staying did anything but lend that company their reputation. They know this. They will tell you the
 walk-away terms are the hardest thing they teach because they are the thing they are worst at,
 and then they will teach them better than anyone alive.*"""),
-("the truth rather than an interpretation", """*Elian's fix is humility, and humility is the right fix for the ordinary case. The harder one
+("a way of listening from above", """*Elian's fix is humility, and humility is the right fix for the ordinary case. The harder one
 arrives with two names.*
 
 *After some deliberation the committee agreed to avoid the word condescension, on the grounds of
