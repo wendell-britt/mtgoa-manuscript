@@ -503,7 +503,7 @@ One more move belongs here, the smallest one in the chapter.
 
 A voice arrives right before you draw a line. It is not the auditor: the auditor asks a question. This one has already decided. It says the same sentence every time, in the same tone: *do this and you become the difficult one, and what you have with these people will not survive it.* Tight. Pinched. Completely certain.
 
-That voice is not lying to you. It is a memory. Somewhere behind it sits a real occasion when pushing did cost something, a relationship that cooled, a table nobody invited you back to. The voice reports accurately.
+That voice is a memory, and it reports accurately. Somewhere behind it sits a real occasion when pushing did cost something, a relationship that cooled, a table nobody invited you back to.
 
 What it gets wrong is the timestamp. It files a past event as live coverage. It stands at the door of the conversation happening now and narrates something that already finished, in the present tense, at the volume of an emergency.
 
