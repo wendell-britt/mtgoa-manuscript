@@ -181,6 +181,13 @@ def book():
         # we can get rid of them." Reports rather than gates while the standing 266 sites
         # are worked; `empty_head.py --strict` is the promotion path.
         ("7 empty head", ["instruments/empty_head.py"], "reporting only"),
+        # 7b, added 2026-08-07. The fragment form of a denying negation is invisible
+        # to `marginalia/review.py` and to gate.py's `stacks`, both of which need
+        # sentence boundaries. "Not willpower, not determination:" has shipped at
+        # ch4:226 since before either instrument existed, and the defect was found by
+        # Wendell reading three sentences that had just scored BLOCK 0 and GATE PASS.
+        # Reports while the 26 SOFT sites are ruled; HARD is the promotion path.
+        ("7b ranking  ", ["instruments/ranking.py"], "reporting only"),
     ]
     bad = 0
     for label, cmd, want in steps:
