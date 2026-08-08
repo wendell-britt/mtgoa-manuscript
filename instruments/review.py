@@ -188,6 +188,12 @@ def book():
         # Wendell reading three sentences that had just scored BLOCK 0 and GATE PASS.
         # Reports while the 26 SOFT sites are ruled; HARD is the promotion path.
         ("7b ranking  ", ["instruments/ranking.py"], "reporting only"),
+        # 7c, added 2026-08-07. Three paragraphs were shipping twice, all from merges
+        # that kept both sides of a conflict, and every check above passed while they
+        # did. Round-trip is the one you would assume catches it and does not: it
+        # verifies the marginalia frame does not alter the body, never that the body
+        # says anything once. Found by accident while renaming ch3's Move 5.
+        ("7c dupes    ", ["instruments/dupes.py"], None),
     ]
     bad = 0
     for label, cmd, want in steps:
