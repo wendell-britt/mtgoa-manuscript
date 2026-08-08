@@ -296,6 +296,8 @@ So before you trust the view, check what gives it away. Are you in it, or watchi
 
 Three of the maps in this chapter are not mine, and you should know whose they are before you use them. The inner voices, and the practice of speaking as each one rather than about it, come from Genpo Roshi's Big Mind Process. The rule that you carry the lower altitudes instead of leaving them behind is Ken Wilber's, and it is the structural logic of the whole book. *Evolutionary purpose* is Frederic Laloux's, and in his hands it describes something that happens to an organization rather than to a person, so I have borrowed it down a level and the borrowing is mine to answer for. Shamanic training gives the chapter its body-first reading and its return to felt sense. The Faces framework gives it the developmental arc, so the language doesn't collapse into one personality theory wearing five hats. You don't have to convert to any of them to use the work. You have to keep the maps from folding into each other. Appendix G says where to read each one.
 
+The native material at the Sage's altitude is *perspective*: what every earlier Face stood on while looking at something else. Emotion, will, loyalty, logic and relationship each give you a place to stand. Perspective tells you that you are standing somewhere, and that somewhere else was available.
+
 The Sage sees in five modes. Each one is a tool. Each one, run wrong, becomes a shadow.
 
 **Panoramic Seer.** The mode of taking in the whole field, even briefly. Holding all four games at once without collapsing into any of them.

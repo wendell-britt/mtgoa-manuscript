@@ -259,6 +259,8 @@ I recover both ends before I am done, and I will ask you to hold them at the sam
 
 Other people built some of what this chapter hands you, and their names belong with the tools. *Felt sense* comes from Eugene Gendlin's *Focusing*, and the phrase names the body's knowing that arrives before language does, which is what this chapter teaches you to read. The claim underneath the whole practice is Peter Levine's. A feeling carries energy that has to finish moving, and it jams when you cut it off. He studies that jam where it is severe, in trauma, which calls for a trained person in the chair with you. This chapter works the everyday version, a bad afternoon rather than a wound, and the stretch from one to the other is mine to answer for. The Polarity Map is Barry Johnson's, and so is the distinction it rests on, that some tensions are problems you solve and others are pairs you hold. The five channels are borrowed too, and I say from where when they arrive a few pages on. Appendix G says where to read each one.
 
+The Shaman's native material is *emotion*, and what you can use runs narrower than mood and faster than temperament: the charge that arrives in one particular second, about one particular person, and goes somewhere when you spend it.
+
 If emotional alchemy means learning from emotions instead of managing them, then how do you actually *do it* when you're in the middle of a hard conversation, a crisis, a moment where the feeling is rising and you have thirty seconds to respond?
 
 Some people are very good at putting feelings away.

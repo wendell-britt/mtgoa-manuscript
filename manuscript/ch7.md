@@ -210,6 +210,10 @@ One part of this belongs specifically to this reader, and it explains why the ax
 
 ---
 
+The native material at the Diplomat's altitude is *relationship*, the only one of the six that lives between people instead of inside one. You carry emotion, will, loyalty and logic alone. Relationship needs a second person before it exists at all.
+
+---
+
 ### Draw the Axis — Care ↔ Impact
 
 The draw is relational. Not solo. Pick a live field with actual people making it, because this axis only shows its position when something is at stake between you and somebody else.
