@@ -42,6 +42,28 @@ Observe → Model → Design → Deploy → Hand Off. The later duplicate flow-c
 removed; the worked example now follows the single sequence. This does not yet resolve the
 Chapter 6 mode introduction or its Section 6 game-move order.
 
+## Session — 2026-08-07 · final shipping drafts
+
+**Drafted, not applied to canonical prose.**
+`specs/FINAL_SHIPPING_DRAFTS_2026-08-07.md` now carries review-ready replacement
+text for the Chapter 2 daemon-game title/bridge, the remaining Chapter 9
+Five-Move Form alignment, and the scoped Appendix C/E/F practice scenarios.
+The packet keeps events separate from inference, treats somatic response as
+optional observation rather than proof, and preserves WAVE, 3-2-1, the Polarity
+Map, and the Five-Move Form as distinct tools.
+
+**Handoff corrected.** `specs/MERGE_NOTES_EDITORIAL_SHIPPING_2026-08-07.md` now
+accurately identifies the Chapter 6/7 work as committed unit `5ac778f`, rather
+than an uncommitted diff. It also records that `back_matter/enrollment.md` exists
+on `origin/master`; only the actual Kickstarter backer list remains a content
+gap and requires Wendell's supplied names or an explicit removal ruling.
+
+**Draft review.** `marginalia/review.py` is clean on the new draft packet;
+`git diff --check` is clean. The spine reader-run remains 0 candidates,
+duplicate scan remains clean, and all marginalia anchors resolve. Global
+`gate.py` retains four pre-existing body hits in Chapter 7 (three `room`
+instances and one punctuation match); this packet adds none.
+
 ---
 
 ## Session — 2026-08-04 · Ch2 reader-run application

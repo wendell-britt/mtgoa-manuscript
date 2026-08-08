@@ -2,7 +2,7 @@
 
 ## Chapter 6: merge-ready draft
 
-Apply the uncommitted `manuscript/ch6.md` diff as one unit.
+Cherry-pick committed unit `5ac778f` as one unit.
 
 - Adds `### The Five Modes of Design` before the axis and EA table.
 - Aligns Section 6 to the native Architect sequence:
@@ -16,8 +16,8 @@ Apply the uncommitted `manuscript/ch6.md` diff as one unit.
 
 ## Chapter 7: merge-ready draft
 
-Apply the uncommitted `manuscript/ch7.md` diff together with its marginalia
-anchor updates. It:
+Cherry-pick committed unit `5ac778f` together with its marginalia anchor
+updates. It:
 
 - change the five local `Channel` headings to `Mode`;
 - removes the Alchemy / Translate / Control taxonomy and all bracket tags;
@@ -37,15 +37,23 @@ Section 4 work.
 - `c9ff167` — sequence the Chapter 7 game: Bridge → Translate → Hold → Repair → Negotiate.
 - `dcd11ff` — make the Architect stage sequence explicit.
 
-## Still to draft before final ship
+## Drafts prepared, awaiting editorial approval
 
-- Chapter 2: rename or bridge `Five Moves for the Threshold` so it cannot be
-  confused with the Five-Move Form.
-- Chapter 9: repair remaining Form-language drift.
-- Appendices C, E, and F: replace or scope unsupported somatic certainty in the
-  worked scenarios.
-- Back matter: write the missing Kickstarter backers page, or remove it from
-  production requirements.
+`specs/FINAL_SHIPPING_DRAFTS_2026-08-07.md` contains review-ready replacement
+prose for:
+
+- the Chapter 2 threshold-game title and bridge;
+- the Chapter 9 Five-Move Form language and Player move labels; and
+- Appendix C, E, and F worked scenarios and tool routing.
+
+Apply only the blocks Wendell approves, as a distinct merge batch.
+
+## Back matter status
+
+- `back_matter/enrollment.md` exists on `origin/master`; integrate it as written.
+- `back_matter/kickstarter_backers.md` is absent and remains the only known
+  content gap. It requires Wendell's actual backer list or an explicit ruling
+  to remove the component. Do not fabricate a list.
 
 ## Verification after merge
 
