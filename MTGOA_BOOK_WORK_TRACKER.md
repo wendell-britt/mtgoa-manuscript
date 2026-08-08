@@ -23,6 +23,13 @@ be Neutrality patterns. Sixteen legacy Alchemy and Translate bracket tags remain
 cleanup pass. Chapter 7's two review blockers and seven warnings predate this bridge; reader-run
 scan reports 0 candidates.
 
+**Chapter 7 game sequence.** The Diplomat's game now follows the ratified core order:
+Bridge → Translate → Hold → Repair → Negotiate. `Bridge the Field` reframes the former first
+move; `Hold the Field` is the new third move; Repair remains fourth; and Close moves to fifth.
+Refuse False Equivalence now operates as the discernment inside an honest close rather than a
+competing fifth move. The marginalia insertion and source note now anchor the close at Move 5.
+Reader-run and duplicate checks pass; all marginalia anchors resolve.
+
 **Chapter 6 sequence.** The Architect's native workflow is now one explicit stage sequence:
 Observe → Model → Design → Deploy → Hand Off. The later duplicate flow-cycle paragraph was
 removed; the worked example now follows the single sequence. This does not yet resolve the

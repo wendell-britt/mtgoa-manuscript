@@ -150,7 +150,7 @@ move: the true thing and the ugly feeling in the same note, uncorrected.*
 ---
 
 ## NOTE 6 — *amend* — **the chapter's only one**
-**Placement:** Section 6, Move 3: Close with Honest Terms.
+**Placement:** Section 6, Move 5: Close with Honest Terms.
 
 > *State the walk-away term to yourself first, in one sentence, before you go in. Not to decide
 > anything — only to find out whether you have one.*

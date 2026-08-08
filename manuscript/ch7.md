@@ -608,11 +608,11 @@ The Diplomat's game creates the conditions where connection remains possible, ev
 
 ---
 
-### Move 1: Name the Field
+### Move 1: Bridge the Field
 
 *Prerequisite: none — this is the entry point*
 
-**What it is:** The first move in the Diplomat's game is also the one most commonly skipped: saying out loud what this conversation is actually about and what it is not.
+**What it is:** Start by making a provisional offer about what this conversation is actually about, and give the people in it space to correct you.
 
 Most difficult conversations run deeper than their surface. Two people arguing about a decision are often really negotiating about trust. Two people disagreeing about a plan are often really having a fight about recognition, about whose reality gets to count. The Diplomat's first move surfaces this layer without making anyone wrong for the confusion.
 
@@ -652,37 +652,21 @@ The Diplomat translates: *"What I hear [Camp A] saying, in [Camp B]'s language, 
 
 ---
 
-### Move 3: Close with Honest Terms
+### Move 3: Hold the Field
 
-<!-- MARGINALIA -->
-> *Half the time you will find you do not have a walk-away term at all, which is worth knowing
-> before the conversation rather than during it. The other half you will find that you do, and that
-> you have known it for months, which is worse and more useful.*
->
-> *Either way — say it to yourself in one sentence before you go in. Not to decide anything. Only to
-> find out which half you are in.*
-<!-- /MARGINALIA -->
+*Prerequisite: Moves 1 and 2. The conversation has a shared subject, and the people in it can recognize the meaning being carried across.*
 
+**What it is:** A conversation can become more honest and harder to stay in at the same time. Hold the Field means keeping the hard sentence in the conversation without rushing to solve it, soften it, or make it disappear.
 
-*Prerequisite: Moves 1 and 2. You cannot close on a field you have not named or translated*
+Give the conversation a shape it can use: a pause, a turn-taking agreement, a question everyone has time to answer, or a clear boundary around what is and is not being decided today. That structure helps the people in it continue.
 
-**What it is:** Bridge, translate, hold, repair, and then this. The close. It is the move the whole chapter has been building toward, and the one the Diplomat's altitude skips most reliably, because closing feels like conflict and the field can always make space for one more round.
+Holding the field does not mean keeping people in a conversation that has become unsafe or abusive. It means not treating difficulty, embarrassment, or an unresolved question as reasons to disappear.
 
-Close with Honest Terms is one clear sentence naming what this field must hold for your staying to remain real, said once and then left alone for the field to answer. The leaving-alone separates it from an ultimatum.
+**Example:** In a planning meeting, someone says the new timetable works only because the people with care responsibilities have stopped asking for changes. No one responds. Do not turn immediately to solutions or reassurance. Say: *I want to stay with that for a minute. What would we need to understand before we decide what to change?* Let the people affected answer before the group moves to a fix.
 
-**Example:** Eighteen months into a partnership you have never said the one thing you will not trade. Say it once and do not soften it: *I can work with almost anything here except one. If I have to choose between being honest with you and being honest with myself, I choose myself. When I push back we are close to losing an agreement that works for both of us, and I am not running a strategy.* Then stop talking. What they do with it is theirs.
+**The test:** The hard thing was said, the people most affected had space to respond, and the conversation had enough structure to continue without pretending the issue was already resolved.
 
-A threat would sound like *do this or I leave.* This is an offering of information: here is what this field must hold for my staying to remain real. Then the field gets to respond.
-
-*If you don't yet know where you stand, whether you've been trading impact away for the comfort of caring, go back to the Care ↔ Impact axis you drew in Section 3 before you try to close. The axis is preparation. This move is the practice.*
-
-**The test:** You named what you actually need from the agreement rather than a softer version, said it once, and left it alone for the field to answer. Their behavior may or may not change. If you named the real terms and nothing moved, that is information.
-
-The close lands clean when there's nothing left to add and you don't reach to fill the silence. You've said the terms, nothing has broken, and for once you let it stay said. The over-care version is the opposite: the talk thickens to molasses, every term softened until nothing's actually been said, the conversation kept intact like a museum piece and nobody moved an inch. Then the performed version: the words are out, but one hand stays on the door, ready to pull it open again the moment they frown.
-
-**Before you name them, ask:** Am I naming this because I know what the agreement requires, or because I'm hoping the other person will talk me out of it? If you're hoping they'll talk you out of it, you're not ready to name it yet. Wait. Sit with it. Come back when you mean it.
-
-*You named your terms in a real conversation, or you softened them until they were safe, or you let the round run one more time instead. Whatever you actually did: get it down before the story tidies it up.*
+**Working vs. performed:** When Hold works, people have more space to speak and listen. When it is performed, one person appears calm while everyone else learns that naming the hard thing changes nothing.
 
 ---
 
@@ -712,33 +696,51 @@ The structure:
 
 ---
 
-### Move 5: Refuse False Equivalence
+### Move 5: Close with Honest Terms
 
-*Prerequisite: Move 2. You have not earned a refusal until you can translate the position you are refusing*
+<!-- MARGINALIA -->
+> *Half the time you will find you do not have a walk-away term at all, which is worth knowing
+> before the conversation rather than during it. The other half you will find that you do, and that
+> you have known it for months, which is worse and more useful.*
+>
+> *Either way — say it to yourself in one sentence before you go in. Not to decide anything. Only to
+> find out which half you are in.*
+<!-- /MARGINALIA -->
 
-**What it is:** Not all positions deserve equal weight. Say so, clearly, without apology, and without pretending your refusal is neutral when it is a position.
 
-This is the Diplomat's most contested move. The Diplomat's altitude values inclusion, and inclusion can curdle into a relativistic posture where every position is treated as equally valid, where *making space* becomes *giving equal legitimacy to positions that do not deserve it.* The Diplomat who refuses false equivalence is the one who holds real inclusion while also refusing to pretend that all framings are equally accurate.
+*Prerequisite: Moves 1 through 4. You cannot close on a field you have not bridged, translated, held, and repaired where repair was needed.*
 
-The distinction that matters: the difference between *positions that deserve equal hearing* and *positions that deserve equal endorsement.*
+**What it is:** Bridge, translate, hold, repair, and then this. The close. It is the move the whole chapter has been building toward, and the one the Diplomat's altitude skips most reliably, because closing feels like conflict and the field can always make space for one more round.
 
-Equal hearing means: everyone gets to say their thing, everyone gets to feel heard, the field makes space for the full range of perspectives present. Relativism is the easy misreading. This is the basic work of the Diplomat's altitude, and it is precious.
+Close with Honest Terms is one clear sentence naming what this field must hold for your staying to remain real, said once and then left alone for the field to answer. The leaving-alone separates it from an ultimatum.
 
-Equal endorsement means: all positions are treated as equally valid interpretations of reality. This is where the Diplomat's gift curdles. Some positions are not equally valid. Some rest on inaccurate premises. Some require ignoring evidence that others have to live with. Some cause harm that others have to absorb. Treating these positions as if they were equally valid is a failure of discernment disguised as open-mindedness.
+**Example:** Eighteen months into a partnership you have never said the one thing you will not trade. Say it once and do not soften it: *I can work with almost anything here except one. If I have to choose between being honest with you and being honest with myself, I choose myself. When I push back we are close to losing an agreement that works for both of us, and I am not running a strategy.* Then stop talking. What they do with it is theirs.
 
-The Refuse False Equivalence move is this: you name the difference between hearing and endorsement, and you name your position on which camp is closer to what you consider true, without invalidating the people in the camp you disagree with.
+A threat would sound like *do this or I leave.* This is an offering of information: here is what this field must hold for my staying to remain real. Then the field gets to respond.
 
-**Example:** A working group is weighing two claims equally: that the new fee is affordable, and that a third of members have said they will leave. One is a projection and one is a survey of eleven hundred people. Put the other side first and put it well: *the case for the fee is that the shortfall is real and the alternative is closing.* Then refuse: *I can state both and I do not weigh them the same.* They will write partisan in the notes.
+*If you don't yet know where you stand, whether you've been trading impact away for the comfort of caring, go back to the Care ↔ Impact axis you drew in Section 3 before you try to close. The axis is preparation. This move is the practice.*
 
-**Before you refuse false equivalence, ask:** Am I refusing because this position actually rests on a less accurate premise, or because I simply don't want to engage with it? Can the position I'm dismissing offer me something I haven't considered? If the answer is no, if you've done the work of understanding the other position and it still doesn't hold, then Refuse False Equivalence is the honest move. If you haven't done that work, Refuse False Equivalence is just closed-mindedness with a justification attached.
+**The test:** You named what you actually need from the agreement rather than a softer version, said it once, and left it alone for the field to answer. Their behavior may or may not change. If you named the real terms and nothing moved, that is information.
+
+The close lands clean when there's nothing left to add and you don't reach to fill the silence. You've said the terms, nothing has broken, and for once you let it stay said. The over-care version is the opposite: the talk thickens to molasses, every term softened until nothing's actually been said, the conversation kept intact like a museum piece and nobody moved an inch. Then the performed version: the words are out, but one hand stays on the door, ready to pull it open again the moment they frown.
+
+**Before you name them, ask:** Am I naming this because I know what the agreement requires, or because I'm hoping the other person will talk me out of it? If you're hoping they'll talk you out of it, you're not ready to name it yet. Wait. Sit with it. Come back when you mean it.
+
+#### The Discernment Inside the Close
+
+Equal hearing does not require equal endorsement. Before you close, paraphrase each position accurately enough that its strongest advocate would recognize it. Then ask whether the proposed terms rest on evidence the field can support.
+
+If one position rests on a premise that does not hold, name that difference. You can refuse false equivalence without abandoning the people who hold the position.
+
+**Example:** A working group is weighing two claims equally: that the new fee is affordable, and that a third of members have said they will leave. One is a projection and one is a survey of eleven hundred people. Put the other side first and put it well: *the case for the fee is that the shortfall is real and the alternative is closing.* Then say: *I can state both and I do not weigh them the same.* They will write partisan in the notes.
 
 **The test:** You paraphrased the opposing position accurately enough that its strongest advocate would recognize it, and then said *here is why I still don't agree.* Whether they grant the distinction is theirs.
 
-**Working vs. performed:** When Refuse False Equivalence works, there's a quality of clarity: you've said the hard true thing and nothing has broken. When it's being performed, there's a quality of certainty. You're more interested in being right than in understanding what's actually true.
+*You named your terms in a real conversation, or you softened them until they were safe, or you let the round run one more time instead. Whatever you actually did: get it down before the story tidies it up.*
 
 ---
 
-The Diplomat who has mastered these moves does not run a sequence. They hold the capacity for all five at once: naming the field while translating across camps while closing with honest terms while staying present through the hard moment. The moves add up to a way of being with people.
+These moves run in order when a conversation has to carry a real decision: bridge the field, translate what is at stake, hold the conversation open, repair any rupture that needs repair, then close on terms people can actually name. A short conversation may end earlier. A hard one tells you which move it needs next.
 
 ---
 

@@ -314,7 +314,7 @@ had told me and not somebody else. Not concern. Relief — and underneath it a s
 that was entirely about my standing and not at all about her.*
 
 *I have looked at that from several angles since. It is still what it is.*"""),
-("### Move 3: Close with Honest Terms", """*Half the time you will find you do not have a walk-away term at all, which is worth knowing
+("### Move 5: Close with Honest Terms", """*Half the time you will find you do not have a walk-away term at all, which is worth knowing
 before the conversation rather than during it. The other half you will find that you do, and that
 you have known it for months, which is worse and more useful.*
 
