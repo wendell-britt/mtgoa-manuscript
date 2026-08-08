@@ -100,6 +100,8 @@ You cannot draw a boundary you have not felt. You cannot hold someone else's pai
 
 Knowing what you're made of requires going somewhere the world doesn't see. That somewhere is the Forest.
 
+One note about the daemons before you meet them. I do not know whether a mind really holds eight separate voices, and neither does anybody selling you a model of one. What I know is that treating a reaction as somebody with a job gets you further than treating it as a flaw with your name on it, and that the practice works whether or not the furniture is real.
+
 The Forest is the place where the work actually happens: the inner landscape where the daemons wait, where you finally meet the parts that have been running the show, and where you can recognize the superpower shaped by your specific history and put it to work.
 
 The world is not fine. The people trying to fix it keep running into the same problem: themselves. This chapter is the threshold map.
