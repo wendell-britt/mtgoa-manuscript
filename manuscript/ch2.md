@@ -56,6 +56,8 @@ I don't ask you to fix the Shadow. I ask you to find out what it has been protec
 
 The terrain here has no map. Employers, movements and communities expect capacities that most training never reaches, and most training does not say so. The curriculum opens where the work becomes visible, which is a long way past where it starts.
 
+The onboarding has a section on psychological safety. It is a form. You sign it.
+
 The world is not fine. Neither is the method for fixing it. It rests on a bad premise: that allyship is mainly about what you do in public. The deeper truth is this:
 
 **Allyship is about what you are capable of becoming before you walk into the world.**
@@ -219,7 +221,6 @@ I rehearsed the whole conversation on the drive over, including her rebuttals, a
 
 He isn't guarded, exactly. He answers every question like it is being read into the record.
 
-The onboarding has a section on psychological safety. It is a form. You sign it.
 
 You don't have to enter the Forest alone. Six guides walk this terrain. Each one carries a different way of seeing, a different question, and a different discipline of practice.
 
