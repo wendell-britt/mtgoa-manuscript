@@ -261,3 +261,30 @@ five channels expanded and three not, and the asymmetry is a reader's question, 
 saving. Wendell's call.
 
 The full before/after for every diff is in the agent report and in `git show` for this commit.
+
+## Tier 2 — ch9 §5 (plus two offer-adjacent lines in §4), 22 compression diffs (444 words)
+
+Section 5 was the heaviest surviving section in the book after Tier 1 and it was heavy
+for one reason: it kept telling the reader what the chapter had already shown them. The
+classes removed were the Player-loops litany (the stage sequence is taught in full at its
+own heading and the loop is stated six other times), the sixth "You will not have a
+perfect map" telling, the seventh enumeration of the six Faces, two honesty-promises made
+immediately before the honesty, an announcement of a naming placed between the reader's
+objection and its answer, the Founder definition given twice with its examples arriving a
+paragraph before the scene that carries them better, and a reference to a "morning
+version" of the WAVE that the book never gives — a dangling anchor, and line 89 says a
+practice is *not* a morning routine.
+
+Untouched: The Last Rep in full. The depression-well passage and the Captain
+Save-a-Kid admission — the whole spite-course arc. All eight daemon-scan blocks. The
+Come back. block and its enumeration. The Last Line. The POSTCARD. The Village Is
+Already Playing. The five Player moves and every Test line. All four "Here's what I've
+noticed about my own X" beats. No Example, named person, parable or fix-question lost a
+word.
+
+**Held, not applied:** diff 14, the second WAVE recitation at ch9:346. The agent's
+headline reason — that Tier 1 broke its back-pointer — did not survive verification: the
+cut it named sits seventy lines downstream, not above. The cut still has a real surviving
+reason (it is the third recitation in the section, and the full six-stage version runs
+fourteen lines down applied to the reader's own life), but it goes back to Wendell on that
+reason rather than on the one that was wrong.

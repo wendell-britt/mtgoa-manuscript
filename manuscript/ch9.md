@@ -185,7 +185,7 @@ Most people try to skip this mode. It costs something to say *this isn't working
 Each mode also opens a doorway. Depending on which one activates for you, it leads to different ground. The deck runs underneath all five of them: whichever mode runs, the practice stays the same hundred and twenty cards. The mode only changes what you do with what the draw turns up.
 
 - **Cartographer and Designer** → your own ongoing practice. The work is between you and the map.
-- **Founder** → if you have something specific to build and you know you need support getting it out, the fastest path is working through it with me, one-on-one.
+- **Founder** → if you have something specific to build and you know it has to be you.
 - **Elder** → if what you're called to do is teach, pass on, run workshops, give other people the vocabulary. The deck is what you run the session from. It works without you standing in the middle of it, once you know it well enough to get out of the way.
 - **Outlaw** → if what you see is a structure that needs to be challenged, broken, or rebuilt. That is also allyship work. It is the mode the deck is worst at prompting on its own, so you draw for it on purpose.
 
@@ -232,9 +232,9 @@ You have walked all six Faces.
 
 Now the question, what comes next?
 
-The question at the end of this book lands simpler and harder than which face you should become next, or how you stay at Sage forever, or which game ranks highest. It comes to this: *what game do you want to play, and what are you going to build?*
+The question at the end of this book lands simpler and harder than which face you should become next. It comes to this: *what game do you want to play, and what are you going to build?*
 
-That's what this final journey does. Ascending belongs to somebody else's book, and so does perfecting. This one walks out into the village with everything you've learned and makes something real.
+Ascending belongs to somebody else's book, and so does perfecting. This one walks out into the village with everything you've learned and makes something real.
 
 You came to this book as someone who wanted to do allyship better.
 
@@ -244,11 +244,11 @@ Maybe you came with urgency. The kind that says *the world is on fire and you ar
 
 Maybe you came with exhaustion. The kind that comes from performing allyship: saying the right words, posting the right takes, being careful about every word, and finding that none of it works. That none of it changes anything. That you're doing everything right and feeling nothing right.
 
-Maybe you came believing that allyship came down to what you did. What actions you took. What you said. What you posted. Who you called out. How you showed up at the protest, the meeting, the difficult conversation. You may have located the problem outward, that the gap between the world and what it should be amounted to insufficient effort, insufficient knowledge, insufficient correctness.
+Maybe you came believing that allyship came down to what you did. What actions you took. What you said. What you posted. Who you called out. How you showed up at the protest, the meeting, the difficult conversation. You may have located the problem outward, in insufficient effort, insufficient knowledge, insufficient correctness.
 
 You now know it was inward.
 
-You now know that allyship begins with what you can become before you walk into the world. You now know that you cannot ally from a place you have not explored. You now know that the work happens in the Forest: finding what was abandoned, reclaiming what was lost, returning with something the villagers actually need.
+You now know that you cannot ally from a place you have not explored. You now know that the work happens in the Forest: finding what was abandoned, reclaiming what was lost, returning with something the villagers actually need.
 
 Here's what I've noticed about my own arrival at this work: I came to it the way most people come to it. I saw something wrong and felt the discomfort of witnessing harm I couldn't fix. Then I did what the culture taught me to do: I looked outward for the solution. I learned the vocabulary. I updated my positions. I performed the correct responses. The discomfort didn't go away. It got worse. Because I kept treating symptoms with the same kind of thinking that produced them.
 
@@ -279,19 +279,17 @@ The map does not show you what failure looks like. Real failure: the kind where 
 
 The map also doesn't show you what success looks like from the inside. The moment when a player names a feeling they've never been able to name before and you realize the game did that. The moment when what you built does exactly what you designed it to do and you feel nothing, because you're already thinking about the next version.
 
-The map doesn't show you that the walk takes as long as it takes. That you will not finish the map. That the point is not to finish.
-
 The map stays silent about all of that. I want you to know it, so that when the walking takes longer than you thought, you don't read that as evidence that you took the wrong path.
 
 ---
 
 You now know that the villagers need you.
 
-The actual you, standing where the performed you and the performed ally used to stand: the one who has done the inner work, who knows what they feel, who can draw the line, who can build, who can design, who can hold, who can see, who can come back.
+The actual you, standing where the performed you and the performed ally used to stand: the one who has done the inner work.
 
 The performed ally is easy to spot. They have the vocabulary. They have the correct positions. They have the performance of care without the somatic reality of having walked through what hurt. The performed ally burns out, because performing exhausts you, and because performing care without actually having it produces the exhaustion that comes from fraud.
 
-The actual ally is harder to spot. They might not have all the right words. They might get it wrong and have to correct. They might not know the current consensus positions on every identity question. They have what the performed ally lacks: the work itself. They've done it. They've walked through their own stuff. They know the difference between feeling and acting. They know how to come back.
+The actual ally is harder to spot. They might not have all the right words. They might get it wrong and have to correct. They have what the performed ally lacks: the work itself. They've walked through their own stuff. They know the difference between feeling and acting. They know how to come back.
 
 The villagers need actual allies more than they need performed ones.
 
@@ -301,9 +299,7 @@ The villagers need actual allies more than they need performed ones.
 
 The walk goes forward, at ground level, the whole way.
 
-Let me tell you honestly what the walk actually looks like, because I would be failing you if I ended this with a rousing speech about your potential and left you to figure out the rest alone. I've learned this about walking with the map.
-
-The walk begins before you're ready. Nobody tells you that. You don't finish learning the Faces and then start building. You start building while you're still confused, still triggered, still defaulting to your home game when it gets hard. The map isn't complete. The WAVE isn't mastered. You don't arrive and then act, you act from somewhere on the path, and the acting belongs to the walking.
+The walk begins before you're ready. Nobody tells you that. You don't finish learning the Faces and then start building. You start building while you're still confused, still triggered, still defaulting to your home game when it gets hard. You don't arrive and then act, you act from somewhere on the path, and the acting belongs to the walking.
 
 The first course I built for this work, I built out of spite.
 
@@ -339,9 +335,7 @@ That's what the walk feels like. Not ascending. Circling. Each circle goes a lit
 
 ---
 
-The iteration is the walk. Every detour that feels like a detour is another stretch of the same road.
-
-Every draft of this book was the walk, not a step toward it. The first draft was the walk. The third rewrite was the walk. The chapter I could not write was the walk. You will plan, then execute, then find the plan was a draft. That shape holds all the way through.
+Every draft of this book was the walk, not a step toward it. You will plan, then execute, then find the plan was a draft. That shape holds all the way through.
 
 The WAVE already taught you how to do this. Wake up: notice what happened. Open up: let the failure land at full strength before you start explaining it. Clean up: name what didn't work. Grow up: ask what you were wrong about. Show up: do the next version. Then come back: notice what shifted. What you learned.
 
@@ -355,11 +349,11 @@ The fear doesn't go away. The relationship to the fear changes.
 
 Here's what I've noticed about my own fear of building: it rehearses. The fear will run the entire scenario (the failure, the criticism, the public collapse) before I've taken a single real action. The fear does not say *don't do this.* The fear says *this matters enough to be afraid of.* The question is never *should I be afraid.* The question is *what am I going to do with the fear.* Transmute it into fuel. Use the rehearsal as data, the fear shows me what I care about, which means it shows me what I'm trying to build.
 
-Rehearsing failure and doing it feel identical from inside your head. Only one of them produces information. The mind will run the scenario for as long as you let it. It will produce the same anxiety whether you've done nothing or whether it has already failed. The rehearsal feels like work. The actual attempt runs simpler and scarier. Put it in front of someone and see what happens.
+Rehearsing failure and doing it feel identical from inside your head. Only one of them produces information. The rehearsal feels like work. The actual attempt runs simpler and scarier. Put it in front of someone and see what happens.
 
 The WAVE doesn't end when you leave the book. The WAVE runs through your actual life. Wake up: notice what's happening inside you when your mother calls, when the group chat erupts, when you read the news and feel it land. Open up: stay with it before you do anything with it. Clean up: name the channel and let it run to completion. Grow up: ask who you are willing to become. Show up: act from that place, not from the reactive place the old habit would have sent you to. Then come back: notice what happened, what shifted, what you learned.
 
-The WAVE runs through your parenting. Through your partnership. Through your work. Through the group chat and the town hall and the election and the pandemic and whatever comes next. That's what it means to have the WAVE as a practice. It's how you walk through the world. The morning version trains you for the rest of the day.
+The WAVE runs through your parenting. Through your partnership. Through your work. Through the group chat and the town hall and the election and the pandemic and whatever comes next. It's how you walk through the world.
 
 My WAVE runs through the writing of this book. I wake up to what's actually happening in a chapter, not the version I wanted, but what's actually there. I open up to it before I start repairing it, the chapter stays as broken as it is for as long as it takes me to feel what's broken about it. I clean up the places where I'm performing instead of saying what's true. I grow up into the harder version of the idea I kept dodging. I show up to the page. I come back and notice that the chapter that had blocked me for three days unclogged the moment I stopped forcing it and let the Shaman name what was actually there.
 
@@ -381,15 +375,13 @@ Here's the honest page.
 
 Not everyone finishes this book knowing exactly what they're building. Some of you remain in the middle of the walk: still in the confusion, still in the iteration, still redesigning the same mechanic for the third time. Some of you don't have a Founder move yet. You came to the work, you learned the Faces, you ran the WAVE, and you're still asking: *but what is mine?*
 
-I want to name that directly, because I would be cheating you if I pretended everyone leaves Chapter 9 with a fully-formed game.
-
-You might be a Cartographer who hasn't become a Founder yet. That's the stage you're in, and from inside it feels like failure. The Cartographer keeps mapping until the terrain reveals what needs building. You don't force the Founder move before it's ready. You keep the inventory honest. You keep noticing what gap keeps showing up. When the problem becomes specific enough, when you've mapped it enough times that you can name it in a sentence, the Founder move will become obvious.
+You might be a Cartographer who hasn't become a Founder yet. That's the stage you're in, and from inside it feels like failure. The Cartographer keeps mapping until the terrain reveals what needs building. When the problem becomes specific enough, when you've mapped it enough times that you can name it in a sentence, the Founder move will become obvious.
 
 You might also be someone who has a practice that isn't named yet. Something you already do, some way you already show up, something specific you already do with your family or your team or your community that already counts as your game. The naming might be missing, not the game itself.
 
 Or you might be someone still in the confusion, and the honest answer says exactly that. *I don't know what I'm building yet.* That's not the Player in distortion. The Player in distortion uses *I don't know* as a place to stay. You can use *I don't know* as a place to start.
 
-The question isn't *do you have a complete game.* The question is *are you walking.* The walk will produce the game. You don't need to see the whole destination. You just need to keep moving.
+The question isn't *do you have a complete game.* The question is *are you walking.* The walk will produce the game. You just need to keep moving.
 
 ---
 
@@ -399,9 +391,7 @@ Some of you are resisting the word.
 
 *I don't start anything. I'm not an entrepreneur. I don't have a business in me. I'm a helper, a teacher, a parent, a friend, not a founder.*
 
-I hear that. Let me name what's actually happening with that resistance.
-
-Founder is not a personality type. Founder is a mode. The mode activates the moment you decide to create something that didn't exist before you, whether it's a conversation, a practice, a tradition in your family, a way of showing up at work that nobody had named before. The Founder arrives the moment you stop consuming and start creating. Sometimes an organization comes out of that. Usually nothing does.
+Founder is not a personality type. Founder is a mode. The mode activates the moment you decide to create something that didn't exist before you. Sometimes an organization comes out of that. Usually nothing does.
 
 The culture never tells you this: the Founder move probably already sits somewhere in your history. A tradition in a family that wasn't there until somebody started it. A conversation held differently than the generation before would have held it. A pattern broken with a child, a sibling, a friend. A community that exists because one person kept inviting people until it did. Look for the one that's yours.
 
@@ -409,17 +399,15 @@ If you found it, you have already been the Founder. You just didn't call it that
 
 The question is not *are you a founder type.* The question is *are you willing to do it on purpose.* To look at what keeps showing up in your life and decide: *I'm going to make something out of this. I'm going to create what should exist.*
 
-That's all it takes. You don't have to write a book. You don't have to start a nonprofit. You don't have to have a platform or an audience or funding. You just have to decide that the problem you're carrying deserves solving, and start making something toward it. The scale doesn't matter. The specificity does.
+That's all it takes. You don't have to have a platform or an audience or funding. You just have to decide that the problem you're carrying deserves solving, and start making something toward it. The scale doesn't matter. The specificity does.
 
 ---
 
 The walk ends the way all walks end: with you having gone further than you started, carrying something you didn't have before.
 
-You will not have a perfect map. You will not have all the Faces mastered. You will not have the WAVE figured out. You will still default to your home game when it gets hard. You will still avoid the face that's uncomfortable. You will still sometimes mistake feeling for action, or action for feeling.
+You will not have a perfect map. You will still default to your home game when it gets hard.
 
 That's the walk. Nobody told you it would look like this.
-
-The Player walks. The Player builds. The Player makes mistakes. The Player reviews, discerns, designs, builds, passes on. The Player loops. The Player continues.
 
 The villagers don't need your perfection. They need your willingness to go first, not because you have all the answers, but because you have the map and you're willing to walk it and report back.
 
