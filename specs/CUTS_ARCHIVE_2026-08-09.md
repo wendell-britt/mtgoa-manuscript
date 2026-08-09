@@ -320,3 +320,31 @@ the capacity you split off."* The generator flagged it as its own lowest-confide
 and it is right to: the line lands immediately after a reader has run 3-2-1 on a person
 she dislikes, which makes it reader-care rather than restatement. Twelve words is not
 worth taking that out from under Jordan.
+
+## Tier 2 — ch8 §1/§2/§4/§6, 19 compression diffs (473 words)
+
+The Sage's chapter repeated itself in a shape none of the others do: it kept giving the
+abstract of a sentence immediately before the sentence that shows it. Eight of the
+nineteen diffs are that one move. The others: the games enumerated for the fourth and
+fifth time; a paragraph in the Distortion section that retold the parable's own italic
+line with the nouns swapped; a vocabulary-without-practice paragraph the section already
+closes on at 196; and the Walk Back's thesis arriving 110 lines before the Walk Back.
+
+The largest single change is *The Stage Sequence* at 449. The five stages were defined in
+the abstract in a numbered list, and then the identical five were performed in order as a
+lived minute directly underneath. The two are now one list: each numbered stage carries
+its own beat of the scene, the stage names and numbering survive, the channel tags
+survive, and the mode names survive because the scene names each of them as it arrives.
+`§6:718`'s "the Release stage" still resolves.
+
+Untouched: §3's Ladder Underneath and the Laloux/Wilber/Genpo sourcing. The parable. The
+limit-case paragraph at 71. The exile closer at 135. *Without the Sage, the villagers…*
+The Sight Ecology block. The EA table and every alchemy move. Both 3-2-1 blocks. Draw the
+Axis. The four Walk Back moves, in count and in order. Every fix-question. Every named
+distortion game.
+
+The generator returned 473 against a 900 target and named the shortfall rather than
+padding it: the terms glossary at ch8:133 is jargon *with* translation, which is Jordan's
+stay condition, not her leave condition; the three table sketches at 109–113 are scenes;
+and the Walk Back's remaining mass is the section she stays for. Those are author's calls,
+and they were left as calls.
