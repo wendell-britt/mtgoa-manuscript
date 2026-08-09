@@ -238,3 +238,26 @@ Opening to mean feeling more and coping worse"), which the brief's rule 2 bars.
 Untouched: both teaching blocks (3-2-1, Polarity Map), the channels table, all five
 satisfied-state paragraphs and their index anchors, Draw the Axis, the Appendix D
 on-ramp, every scene, every marginalia block.
+
+## Tier 2 — ch4 §4 (and two sites in §5/§6), 22 compression diffs (373 words)
+
+The Challenger's Practice ran the five modes four separate times: named at the roster,
+related in prose, walked as a sustain ladder of four bullets, and listed again inside the
+flow cycle. The ladder collapses to one sentence and the cycle's parenthetical goes; the
+roster and the relations stay. The other classes were: the altitude shift stated three
+times in one section; the count of channels announced twice; the table's third column
+restated as prose; Stage commentary that re-teaches the stage above it; Swallow and
+Passive-aggression, which were the same bullet twice (merged, both terminals kept); the
+Village's price said twice thirteen words apart; "most people skip" for the third time;
+and the Reckoning script narrated back after the script.
+
+Untouched: the personal story, the it-sounds-like-permission-to-be-harsh brace, both
+3-2-1 blocks with their FACE IT / TALK TO IT / BE IT / RECEIPT lines, Name the Voice and
+its instruction, the 30-Second Protocol's four steps and its thirty-second clock, *strike
+and then tend*, every scene, every marginalia block.
+
+**Held, not applied:** diff 7, the third channel expansion. Removing it would leave two of
+five channels expanded and three not, and the asymmetry is a reader's question, not a
+saving. Wendell's call.
+
+The full before/after for every diff is in the agent report and in `git show` for this commit.

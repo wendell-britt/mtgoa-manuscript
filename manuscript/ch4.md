@@ -221,11 +221,7 @@ Here is what is specific to this reader. The suspicion runs one direction. Force
 ## Section 4: The Practice
 ### *How to Wield the Fire: A Working System for Clean Confrontation*
 
-Here's what the Challenger actually does. Not the idea of confrontation. The actual, specific, mechanical practice of it.
-
-The Challenger's native material is *will.* Not willpower, not determination: the raw energy of pushing back, drawing lines, refusing, demanding, confronting. The Challenger works the same Fire/Anger channel the Shaman taught you to read, but at a different altitude: not "what is this anger telling me" but "how do I wield this anger cleanly in the world."
-
-This distinction matters. The Shaman reads the fire. The Challenger uses it.
+The Challenger's native material is *will.* Not willpower, not determination: the raw energy of pushing back, drawing lines, refusing, demanding, confronting. The Shaman reads the fire. The Challenger uses it.
 
 ---
 
@@ -256,7 +252,7 @@ The draw is situational. Not solo, not relational: pick a specific moment where 
 
 ### The Five Modes of Confrontation
 
-Before you can use the fire, you need to know what shape it comes in. The Challenger has five distinct modes:
+Before you can use the fire, you need to know what shape it comes in:
 
 1. **The Line.** A boundary stated. *"This is what I won't stand for."* The Line is the foundation. Everything else builds from it.
 
@@ -268,11 +264,11 @@ Before you can use the fire, you need to know what shape it comes in. The Challe
 
 5. **The Reckoning.** Naming the cost. *"If you do X, here is what happens."* The Reckoning states a consequence plainly. A natural result made visible. A threat has to manufacture the consequence; the Reckoning only reports it.
 
-Each mode has its own feel, its own appropriate moment, its own cost. A Line without a Reckoning is a request. A Demand without a Refusal is a plea. The Challenger knows which mode the moment requires.
+A Line without a Reckoning is a request. A Demand without a Refusal is a plea. The Challenger knows which mode the moment requires.
 
 ### EA Channel Alignment — How Each Mode Moves Energy
 
-The Shaman (Chapter 3) taught you to read the five EA channels: Metal/Fear, Water/Sadness, Wood/Joy, Fire/Anger, Earth/Neutrality. The Challenger uses them at a different altitude: not sensing inward but acting outward. Each confrontation mode draws on a specific EA signal:
+The Shaman (Chapter 3) taught you to read the five EA channels. The Challenger uses them at a different altitude: not sensing inward but acting outward. Each confrontation mode draws on a specific EA signal:
 
 | Mode | EA Signal | Dissatisfaction → Satisfaction |
 |------|-----------|-------------------------------|
@@ -282,11 +278,11 @@ The Shaman (Chapter 3) taught you to read the five EA channels: Metal/Fear, Wate
 | **The Refusal** | Earth/Neutrality | Compliance gone numb → Peace |
 | **The Reckoning** | Water/Sadness | Sadness under the anger → Poignance |
 
-Each mode names a different signal in the body asking to be spent a different way. Whatever you are carrying when the moment comes, one of these five will spend it. Confrontation makes no demand on your mood at the door.
+Whatever you are carrying when the moment comes, one of these five will spend it. Confrontation makes no demand on your mood at the door.
 
 **The Interrupt** (Metal/Fear → Wonder): Breaking a pattern mid-flight means you do not know what the next thirty seconds contain. Fear reads that correctly. The contraction attempts to know in advance. Nothing can be known in advance, so no amount of thinking harder resolves the fear. Wonder is what the same not-knowing becomes when you stop treating it as threat: the field after an interrupt opens in a way it had not a second earlier, and open is the condition Metal is for. *I can explore.* You interrupted, and now something unscripted is happening, and you are still here.
 
-**The Refusal** (Earth/Neutrality → Peace): This one surprises people who expect the clean no to run on anger. It does not. Anger is the Line's fuel. The Refusal's opposing force is Earth gone flat: compliance that has stopped requiring a decision, the automatic yes, going along because going along costs nothing you can feel in the moment. Numbness is Neutrality stuck, and it explains why most nos never get said: nothing arrived to say them with. Peace is Neutrality satisfied, and its capability is rest. *I can rest.* The test of a real refusal is not how it sounded. It is whether you slept.
+**The Refusal** (Earth/Neutrality → Peace): This one surprises people who expect the clean no to run on anger. Anger is the Line's fuel. The Refusal's opposing force is Earth gone flat: the automatic yes, going along because going along costs nothing you can feel in the moment. Numbness is Neutrality stuck, and it explains why most nos never get said: nothing arrived to say them with. Peace is Neutrality satisfied. *I can rest.* The test of a real refusal is not how it sounded. It is whether you slept.
 
 **The Reckoning** (Water/Sadness → Poignance): Naming a cost requires the sadness underneath the anger, which is what it costs to watch something you love get violated by someone still at the table. Sadness stuck turns the reckoning into an accusation. Let it anchor instead of drown, and it becomes Poignance, whose capability is connection: *I can connect.* The consequence gets named and the person stays someone you are in relationship with. That combination makes the whole difference between a reckoning and a threat.
 
@@ -296,17 +292,13 @@ Each mode names a different signal in the body asking to be spent a different wa
 
 The Challenger's practice does not improvise. It runs a sequence. Five stages, in order, every time.
 
-**Stage 1: Charge.** The fire arrives. Something in your body shows up, a heat in your chest, a clenching in your jaw, a sudden clarity that is also somehow a burning. This is the charge. The Challenger does not suppress it. The Challenger receives it.
+**Stage 1: Charge.** The fire arrives. Something in your body shows up, a heat in your chest, a clenching in your jaw, a sudden clarity that is also somehow a burning. The Challenger does not suppress it. The Challenger receives it. Without charge, there is no fire. With charge and no practice, there is explosion. With charge and practice, there is *direction.*
 
-The Shaman taught you to read this. The Challenger teaches you to use it. The charge signals that something matters enough to act on. Without charge, there is no fire. With charge and no practice, there is explosion. With charge and practice, there is *direction.*
+**Stage 2: Aim.** You identify what drives it. Not the story, underneath the story. The charge points at one specific event: a line crossed, a commitment violated, a cost ignored. Ask: *what line, if I could draw it cleanly, would this charge be protecting?*
 
-**Stage 2: Aim.** You identify what actually drives it. Not the story, underneath the story. The charge points at one specific event. A line being crossed. A commitment being violated. A cost being ignored. Ask: *what line, if I could draw it cleanly, would this charge be protecting?*
+Most people skip this stage, which is what leaves most confrontation messy, reactive, and apologetic. The aiming turns raw fire into clean action.
 
-Most people skip this stage. They feel the charge and act immediately, which leaves most confrontation messy, reactive, and apologetic. The Challenger aims first. The aiming turns raw fire into clean action.
-
-**Stage 3: Act.** You choose the mode and execute. Line, Interrupt, Demand, Refusal, or Reckoning. You state the boundary. You name the cost. You do it plainly, without essay, without justification, without the three-paragraph explanation that is actually an apology.
-
-The act gets cleaner as it gets shorter. Most people err on the side of too much explanation. The Challenger knows: one clear sentence, properly held, outweighs a paragraph that buries the point in qualifiers.
+**Stage 3: Act.** You choose the mode and execute. Line, Interrupt, Demand, Refusal, or Reckoning. You state the boundary. You name the cost. You do it plainly, without the three-paragraph explanation that is actually an apology.
 
 **Stage 4: Stand.** You stay with what you said while the silence does its work.
 
@@ -318,9 +310,9 @@ Standing is the decision not to fill that space. It does not glare, and it does 
 
 The Diplomat has a stage called Hold, three chapters from here, a different animal entirely, sustained containment of a charged field over the length of a hard conversation, sometimes over months. This one lasts four seconds and its only content is subtraction. Stand is what you do with your own line. Hold is what you do with everyone else's.
 
-**Stage 5: Exit.** You leave the confrontation cleanly. This means you don't need their reaction to validate your move. You drew the line. The response belongs to them. You are not responsible for managing their feelings about your boundary. You are responsible only for having drawn it.
+**Stage 5: Exit.** You leave the confrontation cleanly, which means you do not need their reaction to validate the move. You drew the line. The response belongs to them. You are responsible only for having drawn it.
 
-Exit fails differently from Stand, so the sequence keeps them apart. Stand fails in the four seconds after the line, in the presence of the other person, and it fails by adding words. Exit fails afterward, in the follow-up message, the hallway clarification, the *hey, I hope that landed okay* sent three hours later. Both of them take the line back. The Challenger stated. The Challenger stood. The Challenger left, and trusted that the line, once drawn, can do its work without constant tending.
+Exit fails differently from Stand, so the sequence keeps them apart. Stand fails by adding words in the four seconds after the line. Exit fails afterward, in the follow-up message, the hallway clarification, the *hey, I hope that landed okay* sent three hours later. Both take the line back. The Challenger stated. The Challenger stood. The Challenger left, and trusted that the line can do its work without constant tending.
 
 ---
 
@@ -332,24 +324,18 @@ Did this charge become a line, or did it become smoke?
 
 The Challenger does not need you to calculate points in the middle of confrontation. The Challenger needs you to tell the truth about what happened to your will.
 
-The five conversions above do the replenishing. Each one takes a signal arriving as dissatisfaction and spends it in the direction that channel exists for, which leaves you with more will than you started with rather than less. That is the alchemy. What follows fills in the rest of the ledger.
+The five conversions above do the replenishing, each spending a dissatisfaction in the direction its channel exists for and leaving you with more will than you started with. That is the alchemy. What follows fills in the rest of the ledger.
 
-Some moves sustain will because they keep the confrontation workable:
-
-- **Line → Interrupt:** Once the line is drawn, you can break the pattern that was crossing it.
-- **Interrupt → Demand:** Once the pattern is broken, you can insist on the change that replaces it.
-- **Demand → Refusal:** The demand clarifies your own non-negotiables, the places where you will not move regardless of pressure.
-- **Refusal → Reckoning:** Your no becomes visible as a consequence. The line you drew is stated and also backed.
+Some moves sustain will because they keep the confrontation workable: the line lets you interrupt the pattern crossing it, the interrupt lets you demand what replaces it, the demand clarifies where you will not move regardless of pressure, and the refusal becomes a consequence you can name.
 
 Some moves spend fire without protecting anything:
 
-- **Charge → Swallow:** You feel it and push it down. This is repression. It does not eliminate the charge. It stores it. The swallowed charge eventually finds a sideways exit: passive aggression, chronic irritability, sudden explosions over nothing.
+- **Charge → Swallow:** You feel it and push it down. Repression does not eliminate the charge, it stores it, and the stored charge leaves sideways: sighs, delayed responses, the sudden unavailability that is a thousand small nos dressed up as scheduling conflicts. This is not a line. This is a slow war.
 
 - **Charge → Performative outrage:** You express the charge for the audience rather than for the line. This is venting without risking. You get the feeling out, but you don't draw the actual boundary. The charge is spent and nothing has changed.
 
 - **Charge → Collapse:** The fire turns inward. The anger that should be directed outward becomes self-directed shame. *I shouldn't have to feel this. Something is wrong with me for feeling this.* The charge implodes and the boundary dissolves.
 
-- **Charge → Passive-aggression:** The fire goes sideways. You don't say the no directly. You say it in sighs, in delayed responses, in the sudden unavailability that is a thousand small nos dressed up as scheduling conflicts. This is not a line. This is a slow war.
 
 The test is simple: did this move leave you more able to draw the next clean line, or did it spend the fire and leave the pattern intact?
 
@@ -361,7 +347,7 @@ The Challenger's natural flow moves through the channels in this order:
 
 **Charge → Aim → Push → Rest → Repair → Charge.**
 
-You do not sustain the fire indefinitely. The Challenger's cycle teaches you to *strike and then tend.* After the push (after you draw the line, make the demand, state the refusal), you rest. You let the field settle. Going back before the moment has passed retraumatizes the person you confronted.
+You do not sustain the fire indefinitely. The Challenger's cycle teaches you to *strike and then tend.* After the push you rest and let the field settle. Going back before the moment has passed retraumatizes the person you confronted.
 
 Then you repair. Apologizing takes the line back and softening blurs it; *repair* keeps the line and tends what it cost. You make clear that the line addressed the behavior, not the person. That your willingness to be unwelcome does not mean your willingness to be cruel. That you drew the boundary in service of the relationship, not against it.
 
@@ -383,7 +369,7 @@ The Challenger does not live in constant confrontation. The Challenger lives in 
 <!-- /MARGINALIA -->
 
 
-Everything above builds the system. This is the one move you take out of the Forest and into the Village this week, the meeting, the group chat, the dinner table, wherever drawing a line actually costs you something. Interior work is free. The Village is where the no has a price. This is how you pay it cleanly.
+Everything above builds the system. This is the one move you take out of the Forest and into the Village this week: the meeting, the group chat, the dinner table. Interior work is free. The Village is where the no has a price. This is how you pay it cleanly.
 
 You are in a meeting. Someone says something that crosses a line, not a catastrophic violation, but a real one. Something that dismissed a community you care about. Something that was said *casually,* the way people talk when they don't know who is listening.
 
@@ -395,11 +381,11 @@ Second, *aim.* Ask yourself: what line did that cross? Not the story you could t
 
 Third, *act.* Name it. Plainly. *"That framing isn't accurate. X community has specifically raised this concern and the data shows Y."* One sentence. No essay. State and hold.
 
-Fourth, *exit.* Don't wait for their response. You've named the line. Move on with the meeting. You do not need them to agree. You do not need them to apologize. You needed the line to exist. It now exists.
+Fourth, *exit.* Don't wait for their response. Move on with the meeting. You do not need them to agree. You needed the line to exist. It now exists.
 
 Total time: thirty seconds.
 
-Most people skip all of this. Most people either say nothing (and resent the person for weeks) or say too much (and become the person who made the meeting about them). The Challenger does the thirty-second version.
+Most people either say nothing and resent the person for weeks, or say too much and become the person who made the meeting about them. The Challenger does the thirty-second version.
 
 **This is the rep. This week, run it once.** Not the hardest line you're avoiding: the next real one. A meeting, a thread, a table where something crosses and you'd normally let it go. Feel the charge, aim, act in one sentence, exit. Thirty seconds. You don't need it to land well. You need it to *exist.*
 
@@ -413,7 +399,7 @@ This is the moment for the Reckoning. Not anger: *consequence.* You state the li
 
 *"Last time we talked about this, I asked you to stop making jokes about X. It happened again in today's meeting. I want to be direct: if it happens again, I will raise it in the team retrospective. That's where it belongs if it can't be resolved here. I want you to know that before it happens, not after."*
 
-Notice the shape of it: a clear line, clearly stated, with a consequence clearly named. Not a threat: a *foresight.* You tell them what you will do before you have to do it. That is the Reckoning. That is the Challenger's sharpest tool.
+Not a threat: a *foresight.* You tell them what you will do before you have to do it. That is the Challenger's sharpest tool.
 
 Most people do not do this because they fear looking punitive. The Challenger knows: *not* naming the consequence is not kindness. It is cruelty wearing kindness as a disguise, because it sets the other person up to cross the line again, not knowing what will follow.
 
@@ -454,9 +440,7 @@ If that conclusion is running, it produces a consistent result. Common ground ge
 
 ### 3-2-1 — Reclaim the Line You Projected
 
-Before you meet the part that audits your charge, one piece of work belongs here. The conclusion named just above, that the clean no is what oppressors do, does not stay an idea. It gets installed as a figure, and the figure walks around wearing somebody's face.
-
-Chapter 3 ran this on a trait. Here it runs on a person, and on one you have negative feelings about, which is where the practice does its heaviest work.
+Before you meet the part that audits your charge, one piece of work belongs here. The conclusion named just above, that the clean no is what oppressors do, does not stay an idea. It walks around wearing somebody's face. Chapter 3 ran this on a trait. Here it runs on a person you have negative feelings about, which is where the practice does its heaviest work.
 
 None of this lets real harm off the hook. It reclaims the energy you have spent on a cartoon. Real harm and real accountability stay real. What 3-2-1 owns is your split, and it makes no claim about their innocence.
 
@@ -496,9 +480,9 @@ A voice arrives right before you draw a line. It is not the auditor: the auditor
 
 That voice is a memory, and it reports accurately. Somewhere behind it sits a real occasion when pushing did cost something, a relationship that cooled, a table nobody invited you back to.
 
-What it gets wrong is the timestamp. It files a past event as live coverage. It stands at the door of the conversation happening now and narrates something that already finished, in the present tense, at the volume of an emergency.
+What it gets wrong is the timestamp. It stands at the door of the conversation happening now and narrates something that already finished, in the present tense, at the volume of an emergency.
 
-That is why the move never argues. You cannot argue a memory out of being a memory, and you would not want to: the memory is true. The move is to name it: give the voice a name, a slightly ridiculous one if one offers itself, because the ridiculousness does real work: it puts a half step between you and the voice. Named, it is something you are hearing. Unnamed, it is simply what you think.
+That is why the move never argues. You cannot argue a memory out of being a memory, and you would not want to, because the memory is true. Name it instead. Give the voice a name, a slightly ridiculous one if one offers itself, since the ridiculousness puts a half step between you and the voice. Named, it is something you are hearing. Unnamed, it is simply what you think.
 
 *There you are. I know what you're protecting me from. I can see the event you're referencing. I'm drawing the line anyway.*
 
