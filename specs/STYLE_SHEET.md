@@ -6,7 +6,8 @@ shipped past every instrument.
 
 **This records what the book already does, measured, and flags where it does two things.**
 A style sheet is the book's memory: it goes to the designer and the proofreader so everyone
-applies the same conventions through production. **Four of the six open items were ruled by Wendell on 2026-08-07; two trivial ones remain.**
+applies the same conventions through production. **Every open item is now ruled** — four by Wendell on 2026-08-07, the rest on 2026-08-09
+during the final proof, the last three by delegation. **The unruled list is empty.**
 
 ---
 
@@ -50,7 +51,11 @@ which is the whole argument for this document.
 **Em-dashes — budgeted, and the budget only ratchets down.** `instruments/emdash.py` owns it.
 Glued em-dashes (`word—word`) are a `gate.py` hard fail.
 
-**Ellipses — UNRULED.** `...` twice against `…` four times. Trivial and wants deciding once.
+**Ellipses — RULED 2026-08-09 (delegated by Wendell): the single glyph `…`, everywhere.**
+Measured 4 `…` against 2 `...`, **and the build does not normalize** — both forms reached the
+typeset page and render differently. The two `...` sites (`ch4:84`, `ch4:717`) were swept.
+Every site in the book is a trailing-off or a header; none is a suspension of quoted text, so
+no four-dot case exists to rule.
 
 **Serial comma — RULED 2026-08-07: take it.** Measured 27 with against 22 without before the
 ruling. **Of the 22, only 7 were genuine three-or-more-item lists** — the pattern was 68%
@@ -100,8 +105,12 @@ All 16 body sites were swept to the slash, `## Section 5: The Fixer/Healer, Up C
 tier, which says *compounds also appearing open — READ, do not sweep*. The tier count went 16 to
 15 when the sweep landed. The bare short form *the Fixer* is untouched and remains house.
 
-**UNRULED:** *first-year* (3 hyphenated, 2 open) does not follow the modifier rule cleanly
-and wants a decision.
+**first-year — RULED 2026-08-09 (delegated by Wendell): the observed practice is the rule,
+and the rule was mis-named.** It never followed the compound-modifier rule because the
+hyphenated sites are not modifiers — they are **the noun for a student**: *a first-year*,
+*the oldest first-year*, *first-years every season* (`ch4:9`, `ch4:42`, `ch8:49`, `ch8:226`),
+4/4 hyphenated. The open sites are **spans of time**: *your first year*, *in the first year*
+(`ch3:296`, `ch5:562`), 2/2 open. Six sites, two senses, zero deviations. **Nothing swept.**
 
 ## 5 · Italics — what gets them
 
@@ -240,10 +249,14 @@ convention and should not spread into the body.
 
 ## Still unruled
 
-8. **Ellipses** — `...` twice against `…` four times.
-9. **first-year** — 3 hyphenated, 2 open, and the compound-modifier rule does not explain it.
-10. **Question marks inside a paired italic question.** `ch1:117` runs *can I afford to feel
-    this* without one against *what is this, and can I burn it clean?* with one, in the same
-    sentence. Adding one to the first strands the comma after it. A ruling, not an error.
+8. ~~Ellipses~~ — **RULED 2026-08-09**, see §2. The glyph, everywhere; 2 sites swept.
+9. ~~first-year~~ — **RULED 2026-08-09**, see §4. Noun hyphenates, time-span stays open;
+   nothing swept.
+10. ~~Question marks inside an italic question~~ — **RULED 2026-08-09: the italic question
+    keeps its mark wherever it sits in the sentence.** The book was split 3:2 on the same
+    construction — `ch3:355` *what is this showing me?*, `ch3:748` and `ch8:673` keep the
+    mark mid-sentence; `ch1:117` and `ch9:260` dropped it. The 3 are also standard practice,
+    and the "stranded comma" worry (`?*,`) was already house at two of them. Both bare sites
+    swept; `ch9:260`'s second question, which closed on a period, took its mark with it.
 
-All three are trivial and none blocks the deep read.
+**The unruled list is empty.**

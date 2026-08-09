@@ -81,7 +81,7 @@ Not because the Challenger was wrong. Because the Challenger was *expensive.* Th
 
 The Regent was more efficient. The Regent was more scalable. The Regent was more *sustainable.*
 
-So nobody banished the Challenger. The Challenger was just... sidelined. Without ceremony. (The Regent stayed very gracious about it. There was nothing to push against. That was the point.) The people at the councils stopped asking first. They started building the rituals around the Regent's walls instead of the Challenger's lines. The stories they told changed from "remember when the Challenger said no to that?" to "thank the Regent for building the structure that holds that no."
+So nobody banished the Challenger. The Challenger was just… sidelined. Without ceremony. (The Regent stayed very gracious about it. There was nothing to push against. That was the point.) The people at the councils stopped asking first. They started building the rituals around the Regent's walls instead of the Challenger's lines. The stories they told changed from "remember when the Challenger said no to that?" to "thank the Regent for building the structure that holds that no."
 
 The Challenger noticed, and saw the choice: become a historical footnote, the one who used to draw lines before the Regent made lines into laws, or leave.
 
@@ -714,7 +714,7 @@ In practice: list five moments from the last month where a line was available. F
 
 *This is where I need the line to be.*
 
-**Why it matters:** Most people bury their lines in qualifiers. *"I don't know if this is the right time but I just wanted to maybe suggest that it might be worth considering..."* The line, buried in qualifiers, is not actually a line. The Challenger states the line cleanly, so clean it stands on its own.
+**Why it matters:** Most people bury their lines in qualifiers. *"I don't know if this is the right time but I just wanted to maybe suggest that it might be worth considering…"* The line, buried in qualifiers, is not actually a line. The Challenger states the line cleanly, so clean it stands on its own.
 
 In practice: When you feel yourself reaching for a qualifier, stop. Take the qualifier out. State the line. Hold it for one second longer than is comfortable. That's usually all it takes.
 

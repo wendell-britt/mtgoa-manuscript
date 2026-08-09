@@ -257,7 +257,7 @@ You now know that allyship begins with what you can become before you walk into 
 
 Here's what I've noticed about my own arrival at this work: I came to it the way most people come to it. I saw something wrong and felt the discomfort of witnessing harm I couldn't fix. Then I did what the culture taught me to do: I looked outward for the solution. I learned the vocabulary. I updated my positions. I performed the correct responses. The discomfort didn't go away. It got worse. Because I kept treating symptoms with the same kind of thinking that produced them.
 
-The shift happened when I stopped asking *what should I do* and started asking *what is actually happening inside me when I see this.* That's the Shaman's move. Not fixing the outward problem. Feeling what's true. Naming what's actually there. Staying with it long enough to let it complete its cycle before acting.
+The shift happened when I stopped asking *what should I do?* and started asking *what is actually happening inside me when I see this?* That's the Shaman's move. Not fixing the outward problem. Feeling what's true. Naming what's actually there. Staying with it long enough to let it complete its cycle before acting.
 
 That's what you have been learning. Not what to do. How to be capable before you do.
 

@@ -777,3 +777,32 @@ word, so no invented claim. Diff shown, approved, applied.
 
 **Board after:** gate PASS · diet within baseline · round-trip byte-identical · xref 0/0 ·
 workbook 404pp `PDF OK` · proofread 0/0/0/0 · shipcheck SHIPPABLE.
+
+---
+
+## Sitting 11 — the last three style items, ruled by delegation
+
+**Wendell: "rule the last three style items."** All three measured before ruling, and one of
+the three turned out to have been mis-named on the sheet rather than undecided.
+
+1. **Ellipses → the single glyph `…`, everywhere.** 4:2 for the glyph, **and the build does
+   not normalize** — both forms were reaching the typeset page and rendering differently,
+   which is what made this a print decision rather than a source nicety. Swept `ch4:84` and
+   `ch4:717`.
+2. **first-year → the practice was already the rule, mis-filed.** The hyphenated sites are
+   not modifiers; they are **the noun for a student** (4/4 hyphenated), and the open sites
+   are **spans of time** (2/2 open). Six sites, two senses, zero deviations, nothing swept.
+   The sheet's complaint that it "does not follow the modifier rule cleanly" was true and
+   was the wrong test.
+3. **An italic question keeps its mark wherever it sits.** The book was split **3:2 on the
+   same construction** — `ch8:673` and `ch1:117` are structurally identical sentences that
+   disagreed. The 3 with the mark are also standard practice, and the stranded-comma worry
+   recorded on the sheet (`?*,`) was already house at two of them. Swept `ch1:117` and
+   `ch9:260` (whose second question closed on a period and took its mark too).
+
+**Five edits total, all shown in the reply with the rulings.** Board after: gate PASS · diet
+within baseline · round-trip byte-identical · xref 0/0 · workbook 404pp `PDF OK` · proofread
+0/0/0/0 · shipcheck SHIPPABLE.
+
+**The style sheet's unruled list is empty. Every decision the final proof surfaced has been
+taken and recorded.**
