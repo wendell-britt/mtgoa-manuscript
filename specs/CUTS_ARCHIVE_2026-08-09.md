@@ -224,3 +224,17 @@ Some of what you build will fail. Some will work and stall. Some will land and g
 
 Some failures are just failures. The design was wrong. The timing was wrong. What you built didn't solve the problem you thought it would solve. That's data. The Player doesn't treat failure as defeat. The Player treats failure as the WAVE: wake up to what actually happened, open up to it before you explain it, clean up what didn't work, grow up into the next version, show up.
 ```
+
+## Tier 2 — ch3 §4, 26 compression diffs (763 words)
+
+Restatement removed from inside the WAVE stages and the section's framing. The full
+before/after for every diff is in the agent report and in `git show` for this commit;
+the classes were: the five channel jobs stated four times (questions, declaratives, list,
+table column); "the message landed" four times in twelve lines; "from the wisdom, not
+from habit" four times in the Show stage; a recap of four sections that each already
+closed themselves; and one sentence predicting the reader's state ("You will expect
+Opening to mean feeling more and coping worse"), which the brief's rule 2 bars.
+
+Untouched: both teaching blocks (3-2-1, Polarity Map), the channels table, all five
+satisfied-state paragraphs and their index anchors, Draw the Axis, the Appendix D
+on-ramp, every scene, every marginalia block.
