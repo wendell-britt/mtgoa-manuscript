@@ -367,7 +367,7 @@ The Challenger's natural flow moves through the channels in this order:
 
 You do not sustain the fire indefinitely. The Challenger's cycle teaches you to *strike and then tend.* After the push (after you draw the line, make the demand, state the refusal), you rest. You let the field settle. Going back before the moment has passed retraumatizes the person you confronted.
 
-Then you repair, not apologize for, not soften, but *repair.* Meaning: you make clear that the line addressed the behavior, not the person. That your willingness to be unwelcome does not mean your willingness to be cruel. That you drew the boundary in service of the relationship, not against it.
+Then you repair. Apologizing takes the line back and softening blurs it; *repair* keeps the line and tends what it cost. You make clear that the line addressed the behavior, not the person. That your willingness to be unwelcome does not mean your willingness to be cruel. That you drew the boundary in service of the relationship, not against it.
 
 Then: the next charge arrives.
 
@@ -680,7 +680,7 @@ In practice: when the charge lands, start a clock instead of a sentence. Thirty 
 
 In practice: before the conversation, finish one of two sentences out loud. *A line was crossed and I want it to stop.* Or: *something was lost and I want you to know what it cost.* Say the truer one when you get there, whichever it is. The second sentence costs more to say, and it is the only one that can be answered.
 
-**Example:** Dara's leave starts in March and your colleague has staffed every March project around her without asking her. The sentence that wants out is *you have written her off and it is insulting.* Fire. The truer one runs: *Dara found out she was off the spring work from a calendar invite, and I think we have told her what we think she is worth for the next year.* Water. Say the second. Your colleague does not defend, because a defence answers an accusation and Water made a report.
+**Example:** Dara's leave starts in March and your colleague has staffed every March project around her without asking her. The sentence that wants out is *you have written her off and it is insulting.* Fire. The truer one runs: *Dara found out she was off the spring work from a calendar invite, and I think we have told her what we think she is worth for the next year.* Water. Say the second. Your colleague does not defend, because a defense answers an accusation and Water made a report.
 
 **The test:** You named the channel before you spoke, and the sentence you actually said matched the one you named. The content did not get softer once the channel was named, which is how you know you used the naming to aim and not as an exit.
 
@@ -718,7 +718,7 @@ In practice: list five moments from the last month where a line was available. F
 
 In practice: When you feel yourself reaching for a qualifier, stop. Take the qualifier out. State the line. Hold it for one second longer than is comfortable. That's usually all it takes.
 
-**Example:** A hiring panel is about to reject a candidate because she asked about remote days in the first interview and somebody called it high maintenance. Draw the line: *I am not able to support rejecting her unless somebody names the behaviour. Name it and I will vote with you.* One sentence of line and one of offer, in front of five people who will remember. It costs you twenty minutes that were going to be efficient. The line insists on the standard and does not deliver the outcome, and confusing those is how advocacy becomes speaking for somebody who never asked.
+**Example:** A hiring panel is about to reject a candidate because she asked about remote days in the first interview and somebody called it high maintenance. Draw the line: *I am not able to support rejecting her unless somebody names the behavior. Name it and I will vote with you.* One sentence of line and one of offer, in front of five people who will remember. It costs you twenty minutes that were going to be efficient. The line insists on the standard and does not deliver the outcome, and confusing those is how advocacy becomes speaking for somebody who never asked.
 
 **The test:** The line left your mouth without an essay, a justification, or an apology attached. Count the words afterward: more than you needed means you were explaining, whatever they did in response.
 
@@ -807,7 +807,7 @@ Five moves, one card, ninety seconds.
 
 A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
 
-One sentence: what you will do, who it reaches, by when, and what it costs you. *Draw the Line* becomes: **I will tell the hiring panel on Thursday that I cannot support rejecting her unless somebody names the behaviour, without softening it into a question, and it will cost me being the easy vote on that panel.** That is a quest. *I will be more direct* is not one; nobody can tell whether you did it, including you.
+One sentence: what you will do, who it reaches, by when, and what it costs you. *Draw the Line* becomes: **I will tell the hiring panel on Thursday that I cannot support rejecting her unless somebody names the behavior, without softening it into a question, and it will cost me being the easy vote on that panel.** That is a quest. *I will be more direct* is not one; nobody can tell whether you did it, including you.
 
 The tell that a quest is alive is not enthusiasm. It arrives as anticipation with some dread underneath it. For a Challenger the dread usually arrives first. Good sign, hard one.
 

@@ -181,6 +181,29 @@ def book():
         # we can get rid of them." Reports rather than gates while the standing 266 sites
         # are worked; `empty_head.py --strict` is the promotion path.
         ("7 empty head", ["instruments/empty_head.py"], "reporting only"),
+        # 7b, added 2026-08-07. The fragment form of a denying negation is invisible
+        # to `marginalia/review.py` and to gate.py's `stacks`, both of which need
+        # sentence boundaries. "Not willpower, not determination:" has shipped at
+        # ch4:226 since before either instrument existed, and the defect was found by
+        # Wendell reading three sentences that had just scored BLOCK 0 and GATE PASS.
+        # Reports while the 26 SOFT sites are ruled; HARD is the promotion path.
+        ("7b ranking  ", ["instruments/ranking.py"], "reporting only"),
+        # 7c, added 2026-08-07. Three paragraphs were shipping twice, all from merges
+        # that kept both sides of a conflict, and every check above passed while they
+        # did. Round-trip is the one you would assume catches it and does not: it
+        # verifies the marginalia frame does not alter the body, never that the body
+        # says anything once. Found by accident while renaming ch3's Move 5.
+        ("7c dupes    ", ["instruments/dupes.py"], None),
+        # 7d, added 2026-08-07 for the final proof. Consistency, not quality: is this
+        # the same word we used last time. Nothing else here asks that, which is how an
+        # American book carried British spellings to its last pass.
+        ("7d copyedit ", ["instruments/copyedit.py"], "reporting only"),
+        # 7e, added 2026-08-07. A stale cross-reference is not a voice defect, a heavy
+        # sentence or a banned word, so nothing above sees it. Two were found by hand
+        # on the day this was specified: the index pointing three terms at Ch 7 §2
+        # after the EA table moved, and index_build.py's own term list still matching a
+        # move that had been renamed, which would have dropped the entry on rebuild.
+        ("7e xref     ", ["instruments/xref.py"], "reporting only"),
     ]
     bad = 0
     for label, cmd, want in steps:

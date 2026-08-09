@@ -138,7 +138,7 @@ Some machines on that floor have a bouncer in front of them, and there is nothin
 
 The bouncers are there for a reason. Some of the people who hurt this person arrived offering help, and a bouncer that has met one of those keeps the shape. It does not weigh you up, and it does not wonder about you. It checks you against the shape, before anybody has said much, and it checks fast.
 
-Behind the bouncer, the person is working out three questions about you, and that takes a good deal longer than the door does. Whether you can actually help. Whether you do what you said you would do. Whether you meant well. Capability, integrity and benevolence, if you want the words for them. The words are Mayer, Davis and Schoorman's, and Appendix G says where to read them.
+Behind the bouncer, the person is working out three questions about you, and that takes a good deal longer than the door does. Whether you can actually help. Whether you do what you said you would do. Whether you meant well. Capability, integrity, and benevolence, if you want the words for them. The words are Mayer, Davis, and Schoorman's, and Appendix G says where to read them.
 
 The first two you do. The third you are, and that difference runs the whole economy. Doing leaves a record somebody else can check. You got better at it or you did not. You kept your word or you did not. What you are leaves no record, so they guess.
 
@@ -203,7 +203,7 @@ The person I found was hours in and frightened. I know how to sit with that. Tri
 
 Afterwards the person who had come to find me worked out that it had not been me at all. It had been somebody at that event who looked like me.
 
-Two moments from that night matter here. The first is that I went without saying a word in my own defence. I could not tell you how that looked from outside, because I was not watching for that. I was going to find somebody.
+Two moments from that night matter here. The first is that I went without saying a word in my own defense. I could not tell you how that looked from outside, because I was not watching for that. I was going to find somebody.
 
 You cannot read allyship off how it looks. The evidence arrives too late. Nobody can see your intention. What people can see is what your move did to somebody, and that lands late, sometimes years late, while the performance lands at once. So the confusion does not fall evenly. Whoever performs well collects before anybody can check, because the counter pays out on the performance and the impact is still on its way.
 

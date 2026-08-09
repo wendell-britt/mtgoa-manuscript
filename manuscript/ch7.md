@@ -81,8 +81,6 @@ Each stage earns the next. Bridge without Translate is noise. Translate without 
 
 **The Diplomat means: nobody left the table.** It is the most generous of the six and the easiest to overspend, because a table nobody leaves also decides nothing.
 
-**The Diplomat means: nobody left the table.** It is the most generous of the six and the easiest to overspend, because a table nobody leaves also decides nothing.
-
 ---
 
 ## Section 2: The Distortion
@@ -210,7 +208,7 @@ One part of this belongs specifically to this reader, and it explains why the ax
 
 ---
 
-The native material at the Diplomat's altitude is *relationship*, the only one of the six that lives between people instead of inside one. You carry emotion, will, loyalty and logic alone. Relationship needs a second person before it exists at all.
+The native material at the Diplomat's altitude is *relationship*, the only one of the six that lives between people instead of inside one. You carry emotion, will, loyalty, and logic alone. Relationship needs a second person before it exists at all.
 
 ---
 
@@ -578,7 +576,7 @@ You do not fire the Victim. Fire the part of you that counts and you will spend 
 
 Then put a limit on it, because an open ledger is the shadow's whole method. The Challenger's deadline is a breath. The Regent's is a cycle. The Diplomat's is smaller than either, and harder: *one sentence.* You get one sentence to name what this cost you, said once, to the field rather than about it, and then the others take their turn. A case would be longer. The accumulated column would be longer still. One sentence, and then silence, and then whatever they do with it. One sentence covers what they actually need to hear. It does not cover the case, and that is the point.
 
-It shows up in a single beat. Someone tells you that something you did landed badly on them. Something in you goes still and attentive; that is the Repairer arriving, on time, doing its job. Then the ledger opens underneath it, and what surfaces is not a defence. A defence you would catch. What surfaces is a balance. *After everything I have carried here.* You do not say it. You would never say it. What you say is *I hear you,* the ledger's most efficient instrument, because it accepts the words without admitting the entry. The conversation ends warm. Nothing has been received. On the narrow jurisdiction the same part returns the same accurate report and the answer changes: *that is true, I did that, and here is what it cost you*, with your own column left closed, in your pocket, entirely real and not currently the subject.
+It shows up in a single beat. Someone tells you that something you did landed badly on them. Something in you goes still and attentive; that is the Repairer arriving, on time, doing its job. Then the ledger opens underneath it, and what surfaces is not a defense. A defense you would catch. What surfaces is a balance. *After everything I have carried here.* You do not say it. You would never say it. What you say is *I hear you,* the ledger's most efficient instrument, because it accepts the words without admitting the entry. The conversation ends warm. Nothing has been received. On the narrow jurisdiction the same part returns the same accurate report and the answer changes: *that is true, I did that, and here is what it cost you*, with your own column left closed, in your pocket, entirely real and not currently the subject.
 
 *Bring one time somebody named an impact you had and you agreed with them out loud without anything landing. Name what the ledger produced before you spoke: the entry, not the feeling about it. Then write the one sentence you would have had to say instead. Two minutes to capture it as a BAR.*
 
@@ -800,7 +798,7 @@ When you close, the sentence and the weeks after it decide whether the terms hol
 
 **Raise Awareness — the cost named where it gets set**
 
-*You're winning when:* you said what the arrangement costs, with the entries and not a general note about capacity, at the table where it gets decided rather than in the corridor afterward where it gets sympathised with, and it cost you your position as the person the arrangement works for. The proof is that the cost is now an item somebody has to price.
+*You're winning when:* you said what the arrangement costs, with the entries and not a general note about capacity, at the table where it gets decided rather than in the corridor afterward where it gets sympathized with, and it cost you your position as the person the arrangement works for. The proof is that the cost is now an item somebody has to price.
 
 **Gather Resources — what your staying needs, asked in time**
 

@@ -377,7 +377,7 @@ The Regent's practice is generational, not moment-to-moment. Energy still flows.
 
 **The Reformer** (Fire/Anger): The Reformer needs the fire of conviction: the willingness to say *this part no longer serves* without becoming the enemy of what came before. Rigidity (holding form because it's old) alchemizes into integrity (holding form because it works).
 
-**The Keeper of Vows** (Metal/Fear): Fear turns a vow into dogma, the rote performance of loyalty: hold the form and you cannot lose what is inside it. Dogma alchemizes into faithfulness, the lived commitment, practised where nobody watches. The Keeper does not need to be seen. The Keeper needs to be steady. The Metal channel's discernment becomes the foundation for everything else the Regent builds. Fury at what you inherited does not disqualify you. One of these five carries the inheritance forward on exactly that fire.
+**The Keeper of Vows** (Metal/Fear): Fear turns a vow into dogma, the rote performance of loyalty: hold the form and you cannot lose what is inside it. Dogma alchemizes into faithfulness, the lived commitment, practiced where nobody watches. The Keeper does not need to be seen. The Keeper needs to be steady. The Metal channel's discernment becomes the foundation for everything else the Regent builds. Fury at what you inherited does not disqualify you. One of these five carries the inheritance forward on exactly that fire.
 
 ---
 

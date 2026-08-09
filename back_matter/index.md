@@ -98,7 +98,7 @@ Locators are chapter and section rather than page. **Bold** marks where a term i
 
 **Name the Unnameable** — Ch 3 §6, Ch 4 §6, Ch 4 §7, Ch 9 §7
 
-**Say the Thing Under the Thing** — Ch 3 §6, Ch 3 §7
+**Say the Unsaid Charge** — Ch 3 §6, Ch 3 §7
 
 **Say What You Can Do Now** — Ch 3 §6, Ch 3 §7
 

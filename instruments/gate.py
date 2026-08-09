@@ -102,20 +102,13 @@ EXEMPT = [
 # entry below is a ruling by Wendell on 2026-08-03, and each is a title or a thesis rather
 # than a sentence somebody happened to write.
 CANON = [
-    ("banned", "Say the Thing Under the Thing",
-     "ch3 Move 5. Ruled: option b, keep the move name and sweep the prose around it."),
-    # FLAG WITHDRAWN 2026-08-03. I recorded this as an inconsistency and it is a rule.
-    # ch3 lowercases a move name when the sentence is TELLING YOU TO DO IT and capitalises
-    # it when the sentence is NAMING IT, and all five moves obey it:
-    #   820 "Turn the dial up instead"      846 "Say what you can do now, to her, once"
-    #   860 "Say the thing under the thing:" 866 all five lowercase in one run
-    #   850 the heading   962 "*Say the Thing Under the Thing* becomes:"   981 the list
-    # Capitalising 860 and 866 would have broken a set that was already consistent, so both
-    # spellings are canon and both are exempt.
-    ("banned", "Say the thing under the thing",
-     "the same move as an imperative in running prose, ch3:860 and ch3:866."),
-    ("banned", "*Say the Thing*",
-     "ch4:752, the quest card."),
+    # RETIRED 2026-08-07. Three CANON entries lived here exempting ch3's Move 5 from
+    # the `thing` ban. Wendell, reversing the 2026-08-03 "option b, keep the move name"
+    # ruling: "this should've already been ruled on and changed." The exemption was
+    # holding the book's most-repeated banned word in place as its own move name, twice
+    # in one title, while every other site in the manuscript was swept to zero. The move
+    # is `Say the Unsaid Charge` now, which needs no exemption. ch3 already used "the
+    # unsaid charge" three times for the same referent before the rename.
     ("banned", "Run It Again With One Thing Changed",
      "ch9 Move 4."),
     ("banned", "Run it again with one thing changed",

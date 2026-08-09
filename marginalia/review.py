@@ -79,7 +79,8 @@ VAGUE = [
 # Five of the fourteen were this rule firing on prose that supplies its referent, and a
 # rule that cries wolf five times in fourteen is a rule nobody reads the output of.
 #
-# 1. `Say the Thing Under the Thing` is a NAMED MOVE, taught in ch3 and ch4. `gate.py`
+# 1. RENAMED 2026-08-07 to `Say the Unsaid Charge`; the carve-out is retired.
+#    `Say the Thing Under the Thing` was a NAMED MOVE, taught in ch3 and ch4. `gate.py`
 #    carves it out in four places; this linter carved it nowhere, so the book's own
 #    vocabulary read as the defect the vocabulary was invented to name. Same shape as
 #    every other split-brain finding on this branch: the ruling lived in one instrument.

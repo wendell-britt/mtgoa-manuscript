@@ -133,7 +133,8 @@ SOFT = r"(?:work|move|moves|situation|process|others|idea|ideas)"
 # clause is carrying what the noun would not.
 CLAUSE = r"(?:\s+(?:that|which|who|whom|you|he|she|they|I|we|it)\b)"
 
-# Canon. `Say the Thing Under the Thing` is a named move — ch3 Move 5, and ch4's variant.
+# Canon. RENAMED 2026-08-07 to `Say the Unsaid Charge`, which needs no carve-out.
+# Kept only so the historical note below still reads. `Say the Thing Under the Thing` was ch3 Move 5, and ch4's variant.
 CANON = [
     # Ruled by Wendell 2026-08-03, option b: move and card names survive the sweep.
     re.compile(r"Say the Thing(?: Under the Thing)?"),

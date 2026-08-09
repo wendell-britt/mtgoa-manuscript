@@ -123,7 +123,7 @@ TERMS = {
         ("Turn the Dial Up",            r"Turn the Dial Up"),
         ("Name the Channel Out Loud",   r"Name the Channel Out Loud"),
         ("Say What You Can Do Now",     r"Say What You Can Do Now"),
-        ("Say the Thing Under the Thing", r"Say the Thing Under the Thing"),
+        ("Say the Unsaid Charge", r"Say the [Uu]nsaid [Cc]harge"),
         ("Find What You Keep Defending", r"Find What You Keep Defending"),
         ("Name the Unnameable",         r"Name the Unnameable"),
         ("Draw the Line",               r"Draw the Line"),
