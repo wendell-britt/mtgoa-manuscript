@@ -340,3 +340,85 @@ belong to a trim and not to a book.
 honestly, and a guess would put noise on a board whose whole value is that it is four lines
 long. They want an eye on the proof PNGs, and that is the one remaining piece of the
 proofread.
+
+---
+
+## Sitting 5 — the spreads, and the bracket tags that came back twice
+
+**Reading spreads is what found this.** The text pass could not: a production tag is not a
+heavy sentence, a banned word or a broken pointer, and no instrument in the repo greps for it.
+Wendell read `[TRANSLATE]` on a printed page: *"this shouldn't be in the text. We spend a lot
+of time removing these artifacts."*
+
+### What the spreads showed first
+
+Word-space looseness measured at character level across **7,665 justified body lines**: median
+inter-word gap **3.36pt**, worst line **2.35x** median, 271 lines over 1.6x (3.5%). That is
+inside trade tolerance and produced no rivers on the pages read. Facing-page depth: of 166
+spreads where both pages run full, the median difference is **10.78pt**, under one 15.6pt line.
+**Neither is a defect.** The worst-balanced spreads are all component boundaries, which is
+correct.
+
+**Blank pages: 15, all versos, every one immediately before a component opener**, and every one
+wholly empty — no text, no rule, no running head, no folio. None is stray. ch3, ch6, ch7, ch8,
+ch9 and appendices F–H need none because the preceding component already ends on a verso.
+
+### The bracket tags — 23 sites, ch7 only
+
+`[DISSATISFACTION → SATISFACTION]` x10 · `[CONTROL]` x7 · `[TRANSLATE]` x6. Two shapes, and
+only one deletes cleanly: 14 are `[LABEL] Text`; **9 are `[LABEL] — Text` and leave a dangling
+em-dash** unless the dash goes with the bracket. `ch7:207` explained them — *"every move below
+carries a type label"* — and **named three types the labels do not use**, which is what
+scaffolding looks like after the design moved on. That line was amended rather than cut: its
+three definitions and its Chapter 3 pointer are still true.
+
+### Why the rule did not hold, which is the part worth keeping
+
+**Ruled out 2026-06-03. Removed twice. Lost twice. Neither loss was a disagreement.**
+
+**Loss one.** The book lived in two trees. The fix landed in `chapters/`; the acceptance grep
+was scoped to `chapters/`, found zero and was ticked honestly. Then `chapters/` was retired and
+`manuscript/` became canonical — **the repo threw away the corrected copy and kept the
+uncorrected one.** Diagnosed at the time in `SPEC_BRACKET_TAGS_2026-07-29.md` §2.
+
+**Loss two, and this one was never written down.** `5ac778f` (2026-08-07) took ch7 from **16
+tags to 0**, in `manuscript/`, and it is an ancestor of HEAD. The merge that delivered it,
+`485d004`, had two parents:
+
+```
+parent acb0ac7   ch7 tags: 23     <- mainline
+parent 91c8ce8   ch7 tags:  0     <- the fix
+result           ch7 tags: 23
+```
+
+**The merge kept the unfixed side.** `MERGE_NOTES_EDITORIAL_SHIPPING_2026-08-07.md` still
+states in writing that the branch *"removes the Alchemy / Translate / Control taxonomy and all
+bracket tags"*. True of the commit, false of the merge, and nothing checked.
+
+**Third reason it regenerates:** `AGENTS.md` §EA Standards still shipped the tag as the
+canonical template for writing a move. The deprecation never reached the instruction sheet, so
+anything generating a move from house instructions produced the tag correctly.
+
+### The fix, in three parts, because one part is what failed twice
+
+1. **The 23 sites removed**, both shapes, plus `ch7:207`.
+2. **`AGENTS.md` §EA Standards rewritten** to `**Alchemy N — Emotion Name → Alchemical
+   Outcome**`, carrying the deprecation and the history, so the generator stops producing them.
+3. **`gate.py` gains a `prodtag` counter** — `\[[A-Z][A-Z0-9 →/&—-]{1,40}\]`, a hard fail, on
+   `manuscript/` and only `manuscript/`. **A gate is the only form of this fix that survives a
+   merge**, because it fails the build instead of trusting a checklist. Verified both ways: it
+   fires on `**[TRANSLATE] Translate 1**` and stays silent on `[see Appendix F]` and `[A]`.
+
+### Still open — a separate defect the spread found
+
+**Nine pages end on a bold pseudo-heading with nothing under it** — `p92` *The method:* ·
+`p133` *Try this now.* · `p238` *From Presence to Structure*, and six more. The template does
+guard this (`#show heading: set block(sticky: true)`, line 508) but these are `**bold**`
+paragraphs in the source, not headings, so Typst never sees a heading element. **Logged, not
+fixed:** it is a template change and it will repaginate.
+
+### Board after
+
+gate PASS with the new counter · review.py unchanged on every other step · shipcheck
+SHIPPABLE · workbook 404pp and trade 398pp, both `PDF OK`, every opener on a recto, folio
+continuous.

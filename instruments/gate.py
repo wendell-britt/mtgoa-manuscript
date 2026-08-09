@@ -75,6 +75,27 @@ COUNTERS = [
     # W6 and must not survive to print — see R9. This counter is the only thing
     # standing between a token and the typesetter.
     ("tokens", r'⟦[^⟧]*⟧', 0),
+    # Production tags — `**[DISSATISFACTION → SATISFACTION] …**`, `[TRANSLATE]`,
+    # `[CONTROL]`. Added 2026-08-09 after Wendell read `[TRANSLATE]` on a printed
+    # page: "this shouldn't be in the text. We spend a lot of time removing these
+    # artifacts."
+    #
+    # **They were removed twice and came back twice, and neither loss was an
+    # argument.** Ruled out 2026-06-03; the fix landed in the retired `chapters/`
+    # tree while `manuscript/` became canon, and the acceptance grep only checked
+    # the tree that had been fixed. Fixed again 2026-08-07 in `5ac778f`, which
+    # took ch7 from 16 to 0 — and the merge that delivered it, `485d004`, had one
+    # parent at 0 and one at 23 and kept the 23. The merge notes for that day
+    # still say the tags were removed. They were; the merge put them back.
+    #
+    # A gate is the only form of this fix that survives a merge, because it fails
+    # the build rather than trusting a checklist. It greps `manuscript/` and only
+    # `manuscript/`, which is the lesson `SPEC_BRACKET_TAGS_2026-07-29.md` §2 drew
+    # from the first loss.
+    #
+    # Scoped to a bracketed run of two or more capitals so ordinary bracketed
+    # prose and single-letter references are untouched.
+    ("prodtag", r'\[[A-Z][A-Z0-9 →/&—-]{1,40}\]', 0),
 ]
 
 

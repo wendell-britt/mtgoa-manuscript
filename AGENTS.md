@@ -89,6 +89,17 @@ have been accidentally duplicated across five chapters before.
 ## EA Standards
 
 Every move in the book:
-**[DISSATISFACTION → SATISFACTION] Transcend [X] — Emotion Name → Alchemical Outcome**
+**Alchemy N — Emotion Name → Alchemical Outcome**
+
+**DEPRECATED — do not write the bracketed tag.** This line used to read
+`**[DISSATISFACTION → SATISFACTION] Transcend [X] — …**` and that bracket is a
+production tag, not a chapter voice. It was deprecated 2026-06-03, and it has
+come back into the book twice since, because **this instruction is where it is
+generated from.** The verb also changed: the book says *Alchemy 1* / *Alchemy 2*
+and the word *Transcend* appears nowhere in the body.
+
+`instruments/gate.py` now hard-fails on any `[ALLCAPS]` tag in `manuscript/`, so
+a move written to the old pattern cannot ship. See
+`specs/SPEC_BRACKET_TAGS_2026-07-29.md` for the full history.
 
 Energy economy (+2/+1/-1) — context for writer only, NOT in book content.
