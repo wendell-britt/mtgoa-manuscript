@@ -243,9 +243,14 @@ Six more British forms, every one found by a reader: *rigour* · *programme* · 
 
 - **Ellipses** — both `...` sites are `ch4:84` and `ch4:717`; the four `…` are ch3 and ch6.
 - **`first-year`** hyphenation.
-- **`ch2:33` does not parse** — *"Most training files that under private, or therapy, or
-  somebody else's field."* Every repair supplies a noun the author has to choose. **This is the
-  one defect a reader would trip over.**
+- ~~**`ch2:33` does not parse.**~~ **CLOSED 2026-08-09.** Wendell supplied the noun: *"files
+  that under **private life**, or therapy, or somebody else's field."* The three items are now
+  all nouns and the verb reaches all three. It was logged rather than fixed because every
+  candidate repair — *private life*, *private work*, *the personal* — changed the register
+  differently, and picking one is an author's call rather than a copyeditor's. **The second
+  defect in the same sentence is still open:** *those forty minutes* has no antecedent anywhere
+  before it — nothing in ch1 or in ch2's first 32 lines describes a forty-minute episode. The
+  demonstrative wants either a scene or de-specifying, and both are new material.
 - **`ch7:251`** is the only cross-reference in the book naming its own section (1 of 18).
 - **The `Move 4` / `Section 4` collision at `ch7:571`**, and ch7's EA table disagreeing with two
   of its five deep-dives.

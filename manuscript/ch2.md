@@ -30,7 +30,7 @@ The village is every place with an audience: the workplace, the coalition, the f
 
 So the practice runs one direction. See a problem, respond. Post, protest, speak up, show up. Three months later the problem sits where it sat, or has grown, or has become something the response cannot reach, and the person who responded has nothing left.
 
-Nobody equipped the other half. No curriculum covers the reflex that fires before you decide anything, or the read you set aside, or the part of you that took the wheel during those forty minutes. Most training files that under private, or therapy, or somebody else's field.
+Nobody equipped the other half. No curriculum covers the reflex that fires before you decide anything, or the read you set aside, or the part of you that took the wheel during those forty minutes. Most training files that under private life, or therapy, or somebody else's field.
 
 I spent years refusing a capacity I already had.
 
