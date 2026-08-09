@@ -10,7 +10,7 @@ The world is not fine.
 
 You do not learn that from the news. You learn it in a meeting, or a group chat, or a Sunday dinner, when somebody finally says what has been sitting there for months and everybody at the table starts picking their words. Somebody gets talked over and nobody names it. Somebody names it and pays for it all week. Two people who agree with each other end up arguing about a word, while the person everybody is talking around says nothing at all.
 
-Nobody can say afterwards what broke. Everybody leaves knowing something did.
+Nobody can say afterward what broke. Everybody leaves knowing something did.
 
 Most of it starts smaller. You say the sentence you rehearsed and your friend agrees with you and never brings it up again. You call to check on the person who took the worst of it and you can hear them managing you. You defend somebody in public and they spend the next week repairing what your defense cost them.
 

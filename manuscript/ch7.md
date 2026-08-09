@@ -734,7 +734,7 @@ Staying does not mean insisting on access after someone has set a boundary. Resp
 
 **Why it matters:** Ruptures named and repaired build more trust than ruptures that never happened. The repair does not undo the break. It proves that the relationship can survive the break, the only proof that builds confidence in a relationship.
 
-**Example:** You argued for the restructure that moved Alan sideways at fifty-eight, and you were sure at the time. Six weeks on you can see what it cost him and that nobody asked him first. Repair: *I pushed for that change, I never asked what you wanted, and I read your options as narrower than they were. I am not asking you to be fine with it.* Name your part, name what you are not asking for, and stay in the meeting afterwards.
+**Example:** You argued for the restructure that moved Alan sideways at fifty-eight, and you were sure at the time. Six weeks on you can see what it cost him and that nobody asked him first. Repair: *I pushed for that change, I never asked what you wanted, and I read your options as narrower than they were. I am not asking you to be fine with it.* Name your part, name what you are not asking for, and stay in the meeting afterward.
 
 **The test:** You named what broke, named your part in it, named what you were not asking for, and stayed. Whether they can name it back to you accurately yet is a separate question, and often a later one. If it is still landing as entirely your fault, go back to step one.
 

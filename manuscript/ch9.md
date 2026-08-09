@@ -511,7 +511,7 @@ The five modes describe who you are while you work. Review, Discern, Design, Bui
 
 In practice: write the sentence, then delete every clause that is there to make the problem sound bigger than it is. What survives is usually one group of people, one situation that keeps recurring, and one outcome that keeps not happening. Take the sentence to somebody living with the problem and ask what you missed. If you cannot say who it is for, or the people named say you have named it wrong, you have a topic rather than a problem.
 
-**Example:** *I want to help people be better allies* is a topic. *People who have done the reading still default to their home Face the moment something lands hard, and there is nowhere to practice the difference* is a problem. The second tells you what to build by Friday. Then cut once more, to whose problem: *the two friends who stopped saying anything true at dinner after the argument in March.* Now a stranger can repeat it back, and you know whose Friday you are building for.
+**Example:** *I want to help people be better allies* is a topic. *People who have done the reading still default to their home face the moment something lands hard, and there is nowhere to practice the difference* is a problem. The second tells you what to build by Friday. Then cut once more, to whose problem: *the two friends who stopped saying anything true at dinner after the argument in March.* Now a stranger can repeat it back, and you know whose Friday you are building for.
 
 **The test:** A stranger can repeat your sentence back to you, and somebody affected by it can recognize their problem without having to translate you first. They may correct the cut. Let them.
 

@@ -30,6 +30,15 @@ British."* So the `>` blocks are voice, not error, and the sheet says so. The tw
 at `ch4:721` and `ch4:810` were `behaviour` and are now `behavior`. **Body reads 24 / 1, and
 the 1 is a marginalia block.**
 
+**RULED 2026-08-09 — the `-wards` family takes the American form.** Found in the ch1 deep
+read, not by an instrument: `copyedit.py` carried `towards` from the day it was built and did
+not carry `afterwards`, so **four body sites survived every pass** — `ch1:204`, `ch2:13`,
+`ch7:737`, `ch8:730` — in a book that reads `afterward` 28 times. All four swept; the four
+`>` sites (`ch3:296`, `ch4:384`, `ch4:385`, `ch8:623`) stay under the marginalia ruling above.
+`ch1:181`'s `backwards` went with them. **The whole family was measured before the sweep so
+the board would not gain noise:** forward 40/0 · toward 42/0 · inward 10/0 · outward 9/0.
+`afterwards` and `backwards` are now in `copyedit.py`'s `BRITISH` map.
+
 `ch4:370`'s *Apologising* was mine, written 2026-08-07 and fixed the same day. It passed
 `gate`, all eight diet counters, the voice linter, `dupes` and `shipcheck` on the way in,
 which is the whole argument for this document.
@@ -111,6 +120,14 @@ activity and is correctly lowercase. The book renders the set as gerunds at `ch2
 `ch3:940` and `ch9:680` — *gathering resources, raising awareness, direct action, skillful
 organizing* — and all three are right.
 
+**RULED 2026-08-09 — `face` is lowercase when it is the slot, capitalised when it is the
+name.** *Your home face*, *the face you overplay*, *which face is your home* all describe the
+seat the reader occupies; *the Shaman*, *the six Faces*, *every Face* name the canon. **This
+is the same naming-vs-instructing rule as the moves and the domains**, applied to the noun.
+Measured 4 lowercase `home face` in ch1 against 1 `home Face` at `ch9:514`, which was swept to
+match. The generic noun runs 17 lowercase in ch1 and 14 in ch3; ch9's capitals are all *the
+six Faces*, the named set, and are correct.
+
 **Always capitalised:** the six Faces (Shaman, Challenger, Regent, Architect, Diplomat, Sage)
 · the Player · the eight daemons (Protector, Controller, Skeptic, Fixer/Healer, Emotional
 Body, Victim, Damaged Self, Vulnerable Child) · the Forest · the Arcade · the WAVE · the four
@@ -143,9 +160,12 @@ Gendlin.
 **Consistent already, and worth locking:** *Chapter 7* (49 uses, never *Ch 7* or *ch7* in the
 body) · *Section 4* (77) · *Appendix F* (13).
 
-**Two open items from the spec:** **Appendix B and Appendix D are never referenced from the
-manuscript.** Both ship. Appendix B is the quests-and-campaigns workbook, which is the part
-the reader is meant to run.
+**CLOSED 2026-08-09 — Appendix B and Appendix D now have on-ramps.** B is pointed at from
+`ch9`, closing *"The five moves are the map. The practice is the walking."*; D from `ch3`,
+closing the Somatic Markers section. Both use the house form — italic line, description,
+colon, `Appendix X:` and the appendix's H1 verbatim. `xref.py` step 7e reads **0 broken · 0
+unreferenced**. Any appendix cited by title also needs an entry in `build_book.py`'s
+`NAMED_REFERENCES`; B and D were added there in the same commit.
 
 **Back matter uses the short form** — the index reads *Ch 3 §6*. That is fine as an index
 convention and should not spread into the body.
@@ -163,9 +183,19 @@ convention and should not spread into the body.
    campaigns workbook and Appendix D is the emotional alchemy practices; each needs a pointer
    from the chapter whose work it continues.
 
+## Ruled 2026-08-09
+
+5. **Appendix B and D got their on-ramps.** Item 4 above is closed. See §8.
+6. **The `-wards` family takes the American form.** 5 body sites swept, marginalia exempt,
+   `copyedit.py` taught the pair. See §1.
+7. **`face` is the slot, `Face` is the name.** 1 site swept to match the other 4. See §6.
+
 ## Still unruled
 
-5. **Ellipses** — `...` twice against `…` four times.
-6. **first-year** — 3 hyphenated, 2 open, and the compound-modifier rule does not explain it.
+8. **Ellipses** — `...` twice against `…` four times.
+9. **first-year** — 3 hyphenated, 2 open, and the compound-modifier rule does not explain it.
+10. **Question marks inside a paired italic question.** `ch1:117` runs *can I afford to feel
+    this* without one against *what is this, and can I burn it clean?* with one, in the same
+    sentence. Adding one to the first strands the comma after it. A ruling, not an error.
 
-Both are trivial and neither blocks the deep read.
+All three are trivial and none blocks the deep read.

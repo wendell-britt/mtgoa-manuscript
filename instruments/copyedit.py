@@ -71,6 +71,13 @@ BRITISH = {
     "travelling": "traveling", "cancelled": "canceled",
     "grey": "gray", "towards": "toward", "whilst": "while",
     "amongst": "among", "learnt": "learned", "spelt": "spelled",
+    # The -wards family, added 2026-08-09 from the ch1 deep read. `towards` was
+    # here from the start and `afterwards` was not, so four body sites survived
+    # every pass -- ch1:204, ch2:13, ch7:737, ch8:730 -- in a book that reads
+    # `afterward` 28 times. Measured across the whole family before adding, so
+    # the board does not gain noise: forward 40/0, toward 42/0, inward 10/0,
+    # outward 9/0, and the only other `-s` in the book was ch1:181's `backwards`.
+    "afterwards": "afterward", "backwards": "backward",
 }
 
 # STYLE_SHEET §6. Canon that is always capitalised wherever it appears.

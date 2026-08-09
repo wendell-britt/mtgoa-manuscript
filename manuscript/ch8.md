@@ -727,7 +727,7 @@ The distortion skips this move and stays at the whole-board view, because coming
 
 **Example:** Kit's mother died in March and Kit is running the same three arguments about the funeral that they ran in April. You can see the whole board, including the part where none of this is about the funeral. Ask what help would feel useful before you name the pattern. If Kit wants to talk about the caterer, talk about the caterer at length, seriously. If Kit asks what you see, offer it as a question they can refuse. The whole board does not give you the right to decide which game Kit can be in this month.
 
-**The test:** Afterwards, does the person bring you the next problem, or a version of it they have already tidied? People bring their mess to an equal and their homework to a judge.
+**The test:** Afterward, does the person bring you the next problem, or a version of it they have already tidied? People bring their mess to an equal and their homework to a judge.
 
 ### Move 4: Put a Game Down
 
