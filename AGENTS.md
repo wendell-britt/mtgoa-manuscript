@@ -30,6 +30,38 @@ diffs. A change he cannot see in the console has not been shown to him.
 - Counters and test output still get reported, but they do not replace the
   prose. `BLOCK 39 -> 38` says nothing about whether the sentence is any good.
 
+## Reporting to Wendell — ELI5 first (standing rule, 2026-08-09)
+
+**Every reply opens with a plain-language section, before any detail.** Wendell, 2026-08-09:
+*"explain it to me like I'm 5 what the above means… Your explanations are hard for me to
+understand."*
+
+**The rule already existed and was being applied to the wrong thing.** `mtgoa-review` step 0
+requires an ELI5 of every passage before the register version, and says *"if you cannot write
+the ELI5, you do not have the passage yet."* That was being applied to the book's prose and not
+to the reports about it. Same test, same reason.
+
+**The shape of a reply:**
+
+1. **Plain version, at the top, always.** Short sentences. Everyday words. What happened, what
+   it means for the book, and what is needed from Wendell. **No instrument names, no file paths,
+   no line numbers, no trade terms** — no `waste 1.37`, no `xref 7e`, no *widow*, *recto*,
+   *prodtag*, *sticky*. If a thing has a plain name, use the plain name.
+2. **A rule line**, then the detail, for the record.
+3. **The ask, if there is one, stated as a question** rather than buried in a paragraph.
+
+**Two traps this rule exists to catch:**
+
+- **Precision is not the same as clarity, and the log needs precision.** The commit message and
+  `LOG_FINAL_PROOF` keep every site, count and instrument name. **The reply does not.** Writing
+  the reply as a second copy of the log is what made them unreadable.
+- **An ELI5 header on top of dense prose is not an ELI5.** If the plain section still needs a
+  glossary, it has not been written yet. Rewrite it, do not annotate it.
+
+**What stays in the plain section even though it is uncomfortable:** anything applied that was
+not asked for, anything that turned out wrong, and anything still undecided. **Simplifying is
+never a licence to leave out the bad news** — it is the reason the bad news gets read.
+
 ## Editing Protocol
 
 When asked to edit, run the WAVE Editing Spiral:
