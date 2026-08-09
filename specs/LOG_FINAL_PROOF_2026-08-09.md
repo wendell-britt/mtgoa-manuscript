@@ -842,3 +842,73 @@ on a recto · proofread 0/0/0/0 · shipcheck SHIPPABLE.
 conclusion is now one paragraph up; (2) ch9's Designer paragraph says "the gap between the
 performance and the person underneath" and the sentence that named the performance is cut;
 (3) every seam rereads once in place. Repairs go as shown diffs, per the standing rule.
+
+---
+
+## Sitting 13 — Tier 2, the surgical pass
+
+Six generators ran the spec's protocol against six zones. **The ledger: 143 diffs proposed,
+138 applied, 3,347 words out of the body.** 118,143 → 114,796. The built trade trim went
+**398 pages to 382**; the workbook went 404 to 390.
+
+| zone | diffs | words | what it was |
+| --- | --- | --- | --- |
+| ch3 §4 | 26 | 814 | the five channel jobs stated four times over |
+| ch4 §4 | 22 | 373 | the five modes walked four separate times |
+| ch7 §4 | 45 | 1,125 | five deep-dives on one seven-block template |
+| ch8 §1/2/4/6 | 19 | 473 | the abstract of a sentence, before the sentence |
+| ch9 §5 | 22 | 444 | the chapter re-describing what it had shown |
+| cross-chapter | 16 | ~500 | the Take Out middle, the Twenty Cards re-walk |
+
+**What the sibling checks killed is the more useful number.** The cross-chapter generator
+proposed nothing against six candidates worth ≈1,050 words because it measured all six
+instances first and found them verbatim formula: the deck-explanation block, *From Card to
+Quest*, the daemon re-teach, the whole *3-2-1 on Your X* frame, the *Take Out of the Forest*
+closer. It returned 528 of an 800 target and said why. ch7 returned 1,125 of 1,400 and named
+the four places the rest would have to come from, all four of them scenes or named
+practices. **Both shortfalls are the mechanism working.** The instruction was the most
+hostile editor, and the most hostile editor still does not cut the thing Jordan stays for.
+
+**Three diffs held, not applied, and each goes back to Wendell:**
+
+1. **ch9 diff 14**, the second WAVE recitation. Its headline reason — that Tier 1 broke its
+   back-pointer — did not survive verification; the cut it named sits seventy lines
+   downstream. The cut still has a real reason (third recitation in the section, and the
+   full six-stage version runs fourteen lines below applied to the reader's own life). It
+   goes back on that reason rather than on the one that was wrong.
+2. **ch4 diff 7**, the third channel expansion. Cutting it leaves two of five channels
+   expanded and three not; the asymmetry is a reader's question, not a saving.
+3. **Sweep diff 12**, ch4:487's *"You didn't become the villain."* The generator flagged it
+   as its own lowest-confidence call. It lands right after a reader runs 3-2-1 on a person
+   she dislikes. Twelve words is not worth taking that out from under Jordan.
+
+**One repair the merge had to carry.** `arc_completion.py`'s second FIX had rewritten a
+channel sentence that lived inside ch7's deleted *Translate 1* block. It is rehoused
+verbatim into Alchemy 1, where it describes the same arc. ch7 diff 7 is net −2 words and
+exists only to protect it. `marginalia/insertions.py:297`'s anchor string survives verbatim
+through ch7 diff 14; the round-trip reads clear.
+
+**Sand-down, run on every seam:** one stranded blank line in ch4's spend-tier list, from the
+merged Passive-aggression bullet. Fixed. Double-blank counts in all seven changed chapters
+now match their pre-Tier-2 values exactly. Every seam reread in place; the ten `**Alchemy N
+— X → Y**` headings all stand, so every EA table row still resolves, and `ch8:704`'s "the
+Release stage" still resolves after the Stage Sequence merge.
+
+**Board after:** voice 5 BLOCK / 122 WARN, **all five pre-dating Tier 2 and verified against
+`c5e5af2~1`** · gate PASS · em-dash within budget (ch7's merge took one out; the ratchet
+only goes down) · seam ok · citations 3/0/3/0 · round-trip byte-identical · empty head ok ·
+ranking ok · dupes 0 · copyedit 0 fixable · xref 0/0 · **trade 382pp / workbook 390pp `PDF
+OK`, every opener on a recto, folio continuous** · proofread **0 widow, 0 orphan, 0 stack, 0
+fragment** on 390 pages · shipcheck SHIPPABLE.
+
+**One counter still reads over:** ch3 inchoative 1.31 against a 1.30 threshold. It was 1.30
+before this sitting and no inchoative was added anywhere — the ch3 sweep removed 75 words
+that contained none, so the denominator moved and the rate followed. Recorded rather than
+gamed, on the same principle as the ch7 generator's `zombie` note (which at chapter level
+does not move at all: ch7 reads 1.19 before and after, because the absolute count falls
+78 → 59 alongside the word count).
+
+**382 against the 380 target.** Two pages, ≈420 words at this book's 209 words a page. The
+three held diffs are ≈180 of it. The rest is not sitting in a zone any generator was willing
+to take without a ruling: ch7's four named candidates and ch8's terms glossary and
+two-readings block. Those are author's calls.

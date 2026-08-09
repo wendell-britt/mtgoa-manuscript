@@ -336,7 +336,6 @@ Some moves spend fire without protecting anything:
 
 - **Charge → Collapse:** The fire turns inward. The anger that should be directed outward becomes self-directed shame. *I shouldn't have to feel this. Something is wrong with me for feeling this.* The charge implodes and the boundary dissolves.
 
-
 The test is simple: did this move leave you more able to draw the next clean line, or did it spend the fire and leave the pattern intact?
 
 ---
