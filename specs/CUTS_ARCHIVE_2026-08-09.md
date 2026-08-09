@@ -40,3 +40,39 @@ This might be:
 - Leading from the bigger perspective you suddenly have access to
 
 ```
+
+## ch4 §4 -- The Line expansion paragraph
+
+```
+**The Line** (Fire/Anger → Triumph): Outrage is Fire arriving with nowhere to land, so it vents. The line is the vessel. Triumph here is the specific satisfaction of *I can act*, which Fire wants and almost never gets. Winning the exchange has nothing to do with it. A stated line is anger that made it all the way out of the body and into the world without deforming on the way.
+```
+
+## ch4 §4 -- The Demand expansion paragraph
+
+```
+**The Demand** (Wood/Joy → Bliss): A demand insists that something change, which makes it a claim on a shared future. Wood stuck is defiance with no future in it: the no that is only a no, refusal as identity, the fight enjoyed for its own sake. That version can run for years and produce nothing. Bliss is Wood satisfied, and its capability is participation: *I can participate.* The demand that lands is the one where the refusal opened a space and you are willing to stand in it. The no that becomes a yes to something new.
+```
+
+## ch4 -- the thesis-restart half of the brace-against block
+
+```
+Nobody ever names the price of that. Not drawing the line is not the neutral option. Every swallowed charge gets paid for by somebody, and rarely by the person who swallowed it. The one doing the crossing learns the line is crossable. Everyone present learns the line does not exist. The swallower learns what is least true of all: that the standing to draw it was never theirs.
+
+You have the standing. The people who need the line drawn cannot draw it on your behalf; that is what makes it a line rather than a complaint. They read, in the second after the crossing, whether anyone present believes the line is real enough to hold.
+
+The Challenger in distortion uses no to control. The Challenger developed uses no to protect, including, sometimes, to protect the person being told no.
+
+The difference shows plainly once you look straight at it. Trusting the difference is the harder half, and the actual work of this chapter.
+```
+
+## ch4:663 -- the duplicated mild-irritation clause (survives at the Draw-it move)
+
+```
+Talk it down and you aim the smaller charge, so you draw the line a mild irritation would draw, which gives you a preference in a firmer voice.
+```
+
+## ch4:543 -- the weather explanation already given at 203
+
+```
+the line stops carrying information about the world and becomes weather
+```

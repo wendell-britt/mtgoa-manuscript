@@ -284,11 +284,7 @@ The Shaman (Chapter 3) taught you to read the five EA channels: Metal/Fear, Wate
 
 Each mode names a different signal in the body asking to be spent a different way. Whatever you are carrying when the moment comes, one of these five will spend it. Confrontation makes no demand on your mood at the door.
 
-**The Line** (Fire/Anger → Triumph): Outrage is Fire arriving with nowhere to land, so it vents. The line is the vessel. Triumph here is the specific satisfaction of *I can act*, which Fire wants and almost never gets. Winning the exchange has nothing to do with it. A stated line is anger that made it all the way out of the body and into the world without deforming on the way.
-
 **The Interrupt** (Metal/Fear → Wonder): Breaking a pattern mid-flight means you do not know what the next thirty seconds contain. Fear reads that correctly. The contraction attempts to know in advance. Nothing can be known in advance, so no amount of thinking harder resolves the fear. Wonder is what the same not-knowing becomes when you stop treating it as threat: the field after an interrupt opens in a way it had not a second earlier, and open is the condition Metal is for. *I can explore.* You interrupted, and now something unscripted is happening, and you are still here.
-
-**The Demand** (Wood/Joy → Bliss): A demand insists that something change, which makes it a claim on a shared future. Wood stuck is defiance with no future in it: the no that is only a no, refusal as identity, the fight enjoyed for its own sake. That version can run for years and produce nothing. Bliss is Wood satisfied, and its capability is participation: *I can participate.* The demand that lands is the one where the refusal opened a space and you are willing to stand in it. The no that becomes a yes to something new.
 
 **The Refusal** (Earth/Neutrality → Peace): This one surprises people who expect the clean no to run on anger. It does not. Anger is the Line's fuel. The Refusal's opposing force is Earth gone flat: compliance that has stopped requiring a decision, the automatic yes, going along because going along costs nothing you can feel in the moment. Numbness is Neutrality stuck, and it explains why most nos never get said: nothing arrived to say them with. Peace is Neutrality satisfied, and its capability is rest. *I can rest.* The test of a real refusal is not how it sounded. It is whether you slept.
 
@@ -453,13 +449,6 @@ Here is the conclusion that tends to follow. I put it as a proposition rather th
 
 If that conclusion is running, it produces a consistent result. Common ground gets found, reliably and skillfully. Nothing hard gets said. A comment goes by. A joke lands wrong and the moment closes over it. The violations continue anyway, because nothing in the conclusion ever reached the person committing them.
 
-Nobody ever names the price of that. Not drawing the line is not the neutral option. Every swallowed charge gets paid for by somebody, and rarely by the person who swallowed it. The one doing the crossing learns the line is crossable. Everyone present learns the line does not exist. The swallower learns what is least true of all: that the standing to draw it was never theirs.
-
-You have the standing. The people who need the line drawn cannot draw it on your behalf; that is what makes it a line rather than a complaint. They read, in the second after the crossing, whether anyone present believes the line is real enough to hold.
-
-The Challenger in distortion uses no to control. The Challenger developed uses no to protect, including, sometimes, to protect the person being told no.
-
-The difference shows plainly once you look straight at it. Trusting the difference is the harder half, and the actual work of this chapter.
 
 ---
 
@@ -540,7 +529,7 @@ You have found the flaw in every plan anybody has brought to this table. Somewhe
 
 You met the Skeptic at the door of the Forest, third in line, a few steps behind the Controller. The Protector decides whether you go in at all. The Controller decides how you may behave once you get inside. The Skeptic decides something narrower and more damaging than either: whether what you reacted to was ever real.
 
-At its best the Skeptic is your auditor, and you need one. A charge arrives and the auditor asks the single useful question: *is this what is actually in front of me, or an old charge wearing today's clothes?* Sometimes the honest answer names the old charge, and the auditor has just saved you from spending a line on someone who did not earn it. Timidity would look the same from outside. That is what makes your no expensive. Someone who draws a line at everything has not drawn one; the line stops carrying information about the world and becomes weather, and people learn to dress for it and walk past. The auditor earns you this: when you do finally say *this is not acceptable*, the sentence carries.
+At its best the Skeptic is your auditor, and you need one. A charge arrives and the auditor asks the single useful question: *is this what is actually in front of me, or an old charge wearing today's clothes?* Sometimes the honest answer names the old charge, and the auditor has just saved you from spending a line on someone who did not earn it. Timidity would look the same from outside. That is what makes your no expensive. Someone who draws a line at everything has not drawn one; the line becomes weather, and people learn to dress for it and walk past. The auditor earns you this: when you do finally say *this is not acceptable*, the sentence carries.
 
 An auditor can widen its own remit, though. It stops auditing the charge and starts auditing your standing to have it. The question changes shape without announcing that it has changed, from *is this real* to *are you the one who gets to say it is real.* Those sound like the same rigor. They are not the same question. Looking at the situation answers the first. Only looking at you answers the second, and the Skeptic already knows how that audit comes out.
 
@@ -660,7 +649,7 @@ In practice: Next time you're in a meeting and something happens that you can fe
 
 **What it is:** You take neither exit. You let the charge stay at the strength it arrived at, unspent, long enough to read what it is pointing at.
 
-**Why it matters:** Aim runs on the charge at full size. Talk it down and you aim the smaller charge, so you draw the line a mild irritation would draw, which gives you a preference in a firmer voice. Spend it on arrival and you never aim at all, because the first sentence available is aimed at whoever is nearest and the fire is not reliably about them. Holding it unspent is uncomfortable in a specific way. The pressure arrives feeling like urgency, and urgency is the most convincing wrong reason to say something.
+**Why it matters:** Aim runs on the charge at full size. Talk it down and you aim the smaller charge. Spend it on arrival and you never aim at all, because the first sentence available is aimed at whoever is nearest and the fire is not reliably about them. Holding it unspent is uncomfortable in a specific way. The pressure arrives feeling like urgency, and urgency is the most convincing wrong reason to say something.
 
 In practice: when the charge lands, start a clock instead of a sentence. Thirty seconds, and you may think about anything except what you are going to say. Where it sits in your body. How big it is. What it is pointing at. If the size drops while you are watching it, you did the talking down, and the reading you now have is a reading of the smaller charge.
 
