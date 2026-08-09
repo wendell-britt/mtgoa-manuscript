@@ -454,7 +454,7 @@ If that conclusion is running, it produces a consistent result. Common ground ge
 
 ### 3-2-1 — Reclaim the Line You Projected
 
-Before you meet the part that audits your charge, one piece of work belongs here. The conclusion named a few pages back, that the clean no is what oppressors do, does not stay an idea. It gets installed as a figure, and the figure walks around wearing somebody's face.
+Before you meet the part that audits your charge, one piece of work belongs here. The conclusion named just above, that the clean no is what oppressors do, does not stay an idea. It gets installed as a figure, and the figure walks around wearing somebody's face.
 
 Chapter 3 ran this on a trait. Here it runs on a person, and on one you have negative feelings about, which is where the practice does its heaviest work.
 

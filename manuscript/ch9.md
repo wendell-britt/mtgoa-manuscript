@@ -138,7 +138,7 @@ The design question never changes: *What problem am I trying to solve, and which
 
 The Designer doesn't build a perfect system. The Designer builds a working system: one you can actually use, one that fits your specific body, your specific village, your specific problem. The Designer knows that a practice you actually use beats a perfect practice you keep planning to start.
 
-My design looked like this: I knew from the Cartographer that I naturally moved to Challenger when it got hard. Writing it down forced me to see the gap between the performance and the person underneath. That's what the Designer's move does. It makes the implicit explicit.
+My design looked like this: I knew from the Cartographer that I naturally moved to Challenger when it got hard. Writing it down forced me to see the gap between the face I performed and the person underneath. That's what the Designer's move does. It makes the implicit explicit.
 
 ---
 
