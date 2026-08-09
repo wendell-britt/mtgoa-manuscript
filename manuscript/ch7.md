@@ -335,7 +335,6 @@ The Dissatisfaction here is **intellectual superiority**, the subtle, seductive 
 
 The alchemy moves through **humility into real curiosity**: you let the arrogant distance collapse into something more useful: the willingness to be changed by what you hear. Not "I know better than you" but "I don't know what I will understand after I really listen." The charge shifts from puffing up your own importance to generating the kind of open attention that actually makes translation possible.
 
-One habit separates a great Translator from a mediocre one: the great one comes to each translation knowing they might learn something that changes their own position.
 
 **Alchemy 2 — Translation Guilt → Legitimate Partiality**
 
@@ -353,7 +352,6 @@ The Translate layer forms the operational core of the mode: you take the meaning
 
 **Fire → Water: Intensity translated into depth.** When a camp holds its meaning hot but shallow (righteous anger that has not yet done the work of understanding its own depth) the Translate move carries it down into the register where it becomes something that lasts. The anger becomes sadness. The demand becomes an immovable request that no longer needs volume. The translation takes the heat and turns it into something that can sit in a field for a long time without burning out.
 
-**Wood → Fire: Joy translated into invitation.** When a camp holds its meaning celebratory, expansive, full of possibility, the Translate move carries it forward into the channel where it becomes a call. The joy becomes an invitation: "come and see what is possible." The translation takes what is good and makes it available.
 
 **Neutral Channel: Intellectual Superiority Pattern**
 
@@ -361,7 +359,6 @@ The Neutral Channel pattern here is **intellectual superiority**: the behavioral
 
 **The structure of the Interpreter's Discipline:** Before you carry an account across a divide, ask whether the person wants you to carry it. If they do, return after translating and ask: "did I get this right?" Let their answer correct the version you gave. If they do not want a translator, do not appoint yourself one. You may name your own position, or leave the account with the person who owns it. The superiority pattern dissolves into a discipline that improves your translations because it gives the source the right to refuse them.
 
-Precision costs here: the containment structure takes extra effort, and it pays off when accuracy matters.
 
 *What the Translator is for is faithful interpretation rather than neutral transmission. The Translator who has no partiality has no interpretive power. The Translator who knows what they believe and translates from that anchor, honestly, is the one both camps can trust.*
 

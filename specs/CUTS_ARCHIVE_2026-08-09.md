@@ -86,3 +86,21 @@ Not: protect at all costs.
 
 **Inherit. Honor. Steward. Reform. Entrust.**
 ```
+
+## ch7 Mode 2 -- the great-vs-mediocre coda
+
+```
+One habit separates a great Translator from a mediocre one: the great one comes to each translation knowing they might learn something that changes their own position.
+```
+
+## ch7 Mode 2 -- the third transmission arrow (siblings run two)
+
+```
+**Wood → Fire: Joy translated into invitation.** When a camp holds its meaning celebratory, expansive, full of possibility, the Translate move carries it forward into the channel where it becomes a call. The joy becomes an invitation: "come and see what is possible." The translation takes what is good and makes it available.
+```
+
+## ch7 Mode 2 -- the precision-costs coda line
+
+```
+Precision costs here: the containment structure takes extra effort, and it pays off when accuracy matters.
+```
