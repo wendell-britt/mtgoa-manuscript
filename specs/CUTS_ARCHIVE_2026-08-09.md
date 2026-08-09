@@ -76,3 +76,13 @@ Talk it down and you aim the smaller charge, so you draw the line a mild irritat
 ```
 the line stops carrying information about the world and becomes weather
 ```
+
+## ch5 §3 -- the negation stack and the periods rerun of the sequence
+
+```
+Not: obey.
+Not: preserve.
+Not: protect at all costs.
+
+**Inherit. Honor. Steward. Reform. Entrust.**
+```

@@ -237,12 +237,6 @@ One belief makes the Regent's practice distinct: the Regent knows that tradition
 
 That's the full sequence: **Inherit → Honor → Steward → Reform → Entrust.**
 
-Not: obey.
-Not: preserve.
-Not: protect at all costs.
-
-**Inherit. Honor. Steward. Reform. Entrust.**
-
 The Regent's mistake, the distortion that exiled them, confused stewardship with preservation. The Regent started to think that protecting the tradition meant keeping it exactly as it was received. A tradition kept exactly as received is a snapshot of someone else's moment, not a living tradition that can serve the next person's moment.
 
 Real stewardship includes the possibility of reform. Real inheritance includes the possibility that what you received needs to change before you pass it on.
