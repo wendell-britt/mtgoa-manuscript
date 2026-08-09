@@ -244,7 +244,7 @@ The Diplomat's practice works across the full spectrum. Each bridging mode rests
 |------|-----------|-------------------------------|
 | **Bridge-Builder** | Metal/Fear | Anxiety → Curiosity → **Wonder** (primary) / Stage-Fright → Authentic Presence |
 | **Translator** | Earth/Neutrality | Arrogant Distance → Generous Hearing → **Peace** (primary) / Translation Guilt → Legitimate Partiality |
-| **Field-Holder** | Wood/Joy | Inclusion-Performance → Genuine Inclusion → **Bliss** |
+| **Field-Holder** | Wood/Joy | Inclusion-Performance → Genuine Inclusion → **Bliss** (primary) / Hothouse Safety → Hardy Field |
 | **Repairer** | Water/Sadness | Betrayal Wound → Discerning Trust → **Poignance** (primary) / Performance Forgiveness → Genuine Repair |
 | **Integrative Negotiator** | Fire/Anger | Resentful Peace → Honest Terms → **Triumph** (primary) / Positions → Interests |
 
@@ -389,7 +389,7 @@ The alchemy: *I stop announcing that the field is open and find out whether anyo
 
 The Field-Holder's secondary Dissatisfaction is **hothouse safety**, a field you keep so comfortable that nobody says the sentence that would cost them anything. It looks like health to everyone keeping it that way. The family dinner stays warm, the standup stays pleasant, the two of you stay kind with each other, the community meeting ends on time, and everyone leaves carrying what they walked in with. A field protected from charge stays small, and the people making it learn to bring less of themselves to match.
 
-The alchemy: *I stop protecting the field and start building one that can take weather.* You let the hard sentence land, and you stay, and the field turns out to hold. Now they know by experience what nobody could have told them, that the field survives contact. Each round of that raises what it carries next time.
+The alchemy: *I stop protecting the field and start building one that can take weather.* You let the hard sentence land, and you stay, and the field turns out to hold. Now they know by experience what nobody could have told them, that the field survives contact. Each round of that raises what it carries next time. That is the Wood channel again: growth rather than survival, with the fear along the way as weather.
 
 **From Presence to Structure**
 

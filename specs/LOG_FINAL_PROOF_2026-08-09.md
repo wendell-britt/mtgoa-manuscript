@@ -677,3 +677,43 @@ Inclusion* and *Hothouse Safety → Hardy Field*, its terminus is **Bliss**, and
 Wood by elimination. The derivation that raised the doubt was written against a version of the
 section that no longer exists, so **the question is open rather than answered against the
 chapter** — and it is authorship, not arithmetic.
+
+---
+
+## Sitting 10 — Field-Holder ruled Wood, and the table is whole
+
+**The question from sitting 9, put to Wendell in plain terms:** which feeling-family does
+*Hothouse Safety → Hardy Field* belong to? The section named Wood for its first alchemy out
+loud and never named the second, and the second reads two ways — joy (the field grows, carries
+more next time) or fear (let the hard sentence land and discover you survive).
+
+**RULED by Wendell 2026-08-09: A — it is Wood.** The payoff line is growth rather than
+survival, and the fear along the way is weather, the same way the first alchemy treats anxiety
+as weather.
+
+### Applied, two edits
+
+1. **The table row completed**, in the Bridge-Builder format:
+   `Inclusion-Performance → Genuine Inclusion → **Bliss** (primary) / Hothouse Safety → Hardy Field`
+2. **One clause added to Alchemy 2's closer**, so the chapter declares what the table now
+   prints — a table is not allowed to know what the chapter has not said:
+
+   > Each round of that raises what it carries next time. **That is the Wood channel again:
+   > growth rather than survival, with the fear along the way as weather.**
+
+   Reviewed before applying: voice clean, gate clean, every diet counter under 1.30, no
+   em-dash added (the budget only ratchets down). It mirrors Alchemy 1's closer — *"That is
+   the Wood channel completing"* — so the pair now speak the same way.
+
+### The check
+
+**5 modes · 10 arcs · 0 unresolved.** Every cell in the EA table now matches a deep-dive
+heading verbatim, every row runs the same two-arc format, and every arc the table prints is
+declared by the chapter it points into.
+
+### Board after
+
+gate PASS · round-trip byte-identical · xref 0/0 · copyedit 0 fixable · shipcheck SHIPPABLE ·
+workbook 404pp `PDF OK`, every opener on a recto, folio continuous.
+
+**ch7 has no open items. The one remaining authorship question of the pass is closed.**
