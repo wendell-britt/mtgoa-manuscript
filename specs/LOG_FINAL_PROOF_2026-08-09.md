@@ -806,3 +806,39 @@ within baseline · round-trip byte-identical · xref 0/0 · workbook 404pp `PDF 
 
 **The style sheet's unruled list is empty. Every decision the final proof surfaced has been
 taken and recorded.**
+
+---
+
+## Sitting 12 — the cuts, executed
+
+**The honest ledger first: the batch delivered 1,932 archived words, not the 4,300 the
+proposal estimated.** 120,042 → 118,143 in the body; the built workbook went **404 pages to
+398**. Six pages, not fourteen. Every shortfall has a reason and each is recorded in its
+chapter's commit:
+
+- **Zones shrank when read precisely.** ch3's "five" template paragraphs were four on the
+  ground (neutrality never had one); ch5's 120-word estimate was a 14-word reality; ch9's
+  "150-word" second offer was one bullet.
+- **Row 8 was vetoed by the proposal's own protected list.** *Where You'll Actually Spend
+  the Close* is a six-chapter formula, not ch7 inventory — the "not a syllabus" line runs
+  verbatim-parallel in five chapters. Checked before cutting, which is the order the
+  mechanism exists to enforce.
+- **Row 9 was reshaped by the Diplomat's rule.** Each ch8 distortion block ends on a
+  fix-question — a named practice, which Jordan stops for — so the practices stayed and the
+  pattern/cost restatement layers went.
+- **Row 4 narrowed at the seam.** The 3-2-1 below it opens "The conclusion named a few pages
+  back", which points into the block; the proposition stayed, the restatement half went.
+- **Rows 5 and 14 cut at the copy that leaves a whole sentence**, not the copy first flagged.
+
+**14 commits' worth of care in six:** ch3 274w · ch4 370w · ch5 14w · ch7 96w (row 8
+skipped) · ch8 405w · ch9 773w. Every block is verbatim in `CUTS_ARCHIVE_2026-08-09.md`.
+One reviewed line was added (the ch9 pointer, per the proposal).
+
+**Board after every chapter and after the batch:** gate PASS · diet within baseline ·
+round-trip byte-identical · xref 0/0 · dupes 0 · workbook **398pp** `PDF OK`, every opener
+on a recto · proofread 0/0/0/0 · shipcheck SHIPPABLE.
+
+**Sand list, opened during the cuts:** (1) ch4's 3-2-1 opener says "a few pages back" and the
+conclusion is now one paragraph up; (2) ch9's Designer paragraph says "the gap between the
+performance and the person underneath" and the sentence that named the performance is cut;
+(3) every seam rereads once in place. Repairs go as shown diffs, per the standing rule.

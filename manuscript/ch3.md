@@ -201,7 +201,6 @@ Real emotional alchemy is the practice of staying with the emotion long enough t
 When you do this, when you make space for fear instead of overriding it, fear teaches you what you actually care about. (Not your stated values. Your actual ones. The ones you'd die for with no one watching, without the post.) Because fear shows up at the boundary of what matters to you. It shows up when something you're attached to is at risk. It shows you your real values, not your performed values. Your real priorities, not your productivity system.
 
 
-
 When you do this with joy, which feels like the easy one and is not (it requires you to stop moving, harder than anything else the School of the Body teaches), when you *land* in joy instead of using it for fuel, joy teaches you what's aligned. Joy shows up when you're doing something that matches your actual values, your actual gifts, your actual becoming. Joy is not the same as happiness or productivity. Joy is the feeling that says "yes. This is real. I am home."
 
 This is emotional alchemy. Other practices manage emotions. Other practices optimize them. This one is the education by emotions.
