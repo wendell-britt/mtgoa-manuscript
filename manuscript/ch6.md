@@ -214,7 +214,7 @@ The Architect's pair: the structure that produces the outcome versus the agency 
 
 You can picture the failure at each end. Structure without Agency builds a machine that treats people as inputs, gets the throughput it designed for, and cannot understand why nobody inside it will meet its eye. It also produces the most comfortable sentence in the discipline (*the system did it*), true, and nobody has ever needed courage to say it. Agency without Structure blames individuals for outcomes the design guarantees, burns through good people looking for better ones, and watches the same failure arrive every eighteen months with a new name attached.
 
-The pair gets specific for the student the School of the Pattern attracts. The suspicion runs one direction. Agency language has warnings attached to it at this altitude, and rightly: *personal responsibility* has done a great deal of work for people who wanted nothing to change. Structure language has none. It arrives sounding like analysis, like sophistication, like the opposite of blame. So the drift runs toward a structural account of every situation you were personally in, the one account that never requires you to have been there as a person. In practice it is cruelty, specified as rigour.
+The pair gets specific for the student the School of the Pattern attracts. The suspicion runs one direction. Agency language has warnings attached to it at this altitude, and rightly: *personal responsibility* has done a great deal of work for people who wanted nothing to change. Structure language has none. It arrives sounding like analysis, like sophistication, like the opposite of blame. So the drift runs toward a structural account of every situation you were personally in, the one account that never requires you to have been there as a person. In practice it is cruelty, specified as rigor.
 
 <!-- SIGNATURE -->
 > the fourth treatise, submitted by Irix Vale, Patternwright,
@@ -532,7 +532,7 @@ Designing for handoff means: before you ship the design, ask who will run this a
 
 In practice: design as if the person taking over knows less than you do about why you made the choices you made. Because they will. Write the rationale down. Name the trade-offs. Explain what you optimized for and what you gave up. Leave a breadcrumb trail.
 
-**Example:** You built the intake process, you run it, and you also translate for the three families who cannot use an English form. Design the handoff on the assumption that the next person will not speak Somali. Put the translating in the process rather than in yourself, which means paid interpreters on the calendar and a form in two languages, and it costs the programme more than you do. The families get something that survives you leaving. You stop being the reason it works.
+**Example:** You built the intake process, you run it, and you also translate for the three families who cannot use an English form. Design the handoff on the assumption that the next person will not speak Somali. Put the translating in the process rather than in yourself, which means paid interpreters on the calendar and a form in two languages, and it costs the program more than you do. The families get something that survives you leaving. You stop being the reason it works.
 
 **The test:** You asked who runs this after me before you shipped, and wrote down what you were assuming they already knew. The system's survival is next year's evidence.
 
@@ -604,7 +604,7 @@ Three points decide whether what you build survives contact with the people insi
 
 **Do not soften the accusation out of it.** Every structural design carries one claim: the current system is failing, and somebody built the current system. The design was not written as an accusation and it is also not not one. Deny that and you keep the design vague enough that nobody has to answer it. Vague enough turns a design into a recommendation, and a recommendation is a design that has agreed in advance not to happen.
 
-**Hand it over while you are still the most useful person on it.** Observe, model, design, deploy is a loop with no exit built into it. The loop will produce a better system every year and never once declare you finished, and the reason to run one more cycle arrives fresh each quarter. Stepping out costs exactly what the loop pays you, so hand over on a day when it still costs you that. Leave it longer and you hand over a system that has already failed once without you there.
+**Hand it over while you are still the most useful person on it.** Observe, Model, Design, Deploy is a loop with no exit built into it. The loop will produce a better system every year and never once declare you finished, and the reason to run one more cycle arrives fresh each quarter. Stepping out costs exactly what the loop pays you, so hand over on a day when it still costs you that. Leave it longer and you hand over a system that has already failed once without you there.
 
 **Direct Action — the condition changed, not the incident**
 
@@ -616,7 +616,7 @@ Three points decide whether what you build survives contact with the people insi
 
 **Gather Resources — the cost moved into the budget**
 
-*You're winning when:* you took what the system had been drawing out of one person without ever asking, her translating, his shift swaps, your evenings, and put it into the design where it has a name, a line and somebody who pays, and asked the person who can grant or refuse instead of absorbing it another year. It cost you the standing you had while the system ran on one person's goodwill. The proof is that the work still happens in a week when that person is away.
+*You're winning when:* you took what the system had been drawing out of one person without ever asking, her translating, his shift swaps, your evenings, and put it into the design where it has a name, a line, and somebody who pays, and asked the person who can grant or refuse instead of absorbing it another year. It cost you the standing you had while the system ran on one person's goodwill. The proof is that the work still happens in a week when that person is away.
 
 **Skillful Organizing — the machinery handed to next hands**
 

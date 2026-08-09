@@ -162,3 +162,95 @@ instrument proving it works.
 **0 fixable · 16 to read**. `shipcheck` SHIPPABLE.
 
 **ch2 is next.**
+
+---
+
+## Sitting 3 — ch2 through ch9, read in parallel
+
+**Eight readers, one per chapter, read-only, reporting candidates rather than applying them.**
+Every candidate was then verified against the text before it reached Wendell, and the
+verification is the part of this sitting worth keeping: **two readers were wrong, one of them
+caught an error of mine, and my own scope count was wrong twice.**
+
+### What the parallel read is good for, and what it is not
+
+It found **24 defects in one pass** against ch1's four, and the class of finding was the same:
+cross-references that resolve and say the wrong thing, one artifact under two names, British
+forms in families no instrument carried. **It also generated three conflicts that a single
+reader would have resolved silently and wrongly.** The verification step is not optional
+overhead; it is where the pass actually happened.
+
+### The three conflicts, and how each resolved
+
+**1 · ch3's reader proposed a fix that is house practice.** It flagged `ch3:134` — *the
+villagers didn't stop feeling. It just stopped knowing what to do with feelings* — as a broken
+singular pronoun, measuring **11:0** plural subjects inside ch3. ch5's and ch6's readers
+independently killed it: the parable transition runs `It` in ch3, ch5 **and** ch6, and only ch4
+says `They`. **3:1 house formula, rejected.** A within-chapter count found a real-looking
+defect in a cross-chapter formula. **The lesson is the measurement's scope, not its arithmetic.**
+
+**2 · ch5 proposed three fixes that ch6 said needed a ruling first.** Both had the count wrong.
+Measuring all 24 `*You're winning when:*` blocks directly: **six** three-item lists with a
+conjunction, **zero** taking the serial comma. Every `, and` in that register joins clauses.
+So the register was uniformly unpunctuated, and ch5's three-of-six would have made it worse.
+Ruled and swept whole.
+
+**3 · ch9's reader caught an error in the L1 ruling I wrote and committed on 2026-08-09.**
+Recorded in `STYLE_SHEET` §6 with the error kept. Short version: I generalised from one phrase
+at 4:1 to a whole rule and wrote onto the sheet that *"ch9's capitals are all the six Faces"*
+without checking ch9's sites. They were not.
+
+**Then I under-counted the sweep twice**, because `grep -n` piped through `cut` shows one line
+per match and hides every further occurrence on that line. `ch9:670` alone holds six. The scope
+went 7 → 8 → 21 across two corrections. **Count occurrences, not lines** — now in §6.
+
+### Applied
+
+**24 fixes** — ch2 310/317/456 · ch3 152/509/860/999 · ch4 275 · ch6 217/535/607 ·
+ch7 66/362/705/791/899 · ch8 105/160/545/634/764 · ch9 474/524/682.
+
+**Three sweeps**: the six domain-block serial commas · 16 `Fixer-Healer` → `Fixer/Healer`
+including ch5's section heading · 21 slot-sense `Face` → `face` across ch8 and ch9.
+
+**The four highest-value finds, all invisible to every instrument:**
+
+- **`ch7:705` and `ch8:634` both point at Section 3 for an axis drawn in Section 4.** Found
+  independently by two readers. `xref.py` reads 0 broken because Section 3 exists — it proves a
+  pointer resolves, never that it is the right one. Every chapter draws its axis in Section 4
+  and ch4, ch5, ch6 and ch7:606 all say so.
+- **`ch3:999` said the Polarity Map is *first drawn in Chapter 4*.** It is introduced at
+  `ch3:630`, and ch4, ch5 and ch7 each open with *"You met the Polarity Map at the School of the
+  Body"* — which is ch3. Five independent contradictions, one of them in the next sentence.
+- **`ch9:474` calls its subject a Face inside a block headed *a daemon scan*.** The eight items
+  under it are the eight daemons; not one is a Face.
+- **`ch9:682` called the published deck *BARs*.** `ch1:318` defines a BAR as the reader's own
+  card, built *"instead of someone else's checklist"* — so the two names collide on a
+  distinction the book draws deliberately. Nine other sites say *cards*.
+
+### The instrument gap, again
+
+Six more British forms, every one found by a reader: *rigour* · *programme* · *instalments* ·
+*signalled* · *relabelled* · *disorganised*, plus *per cent*. `copyedit.py` had `organise` and
+`organised` and still missed `disorganised` — **the same prefix-shaped hole `towards` left for
+`afterwards` in sitting 2.** All but the two-word *per cent* are now in `BRITISH`.
+
+### Board after
+
+`review.py` unchanged on every step; `copyedit` hyphen tier 16 → **15** with the slash sweep;
+7e `0 broken · 0 unreferenced`; `shipcheck` **SHIPPABLE**.
+
+### Still open
+
+- **Ellipses** — both `...` sites are `ch4:84` and `ch4:717`; the four `…` are ch3 and ch6.
+- **`first-year`** hyphenation.
+- **`ch2:33` does not parse** — *"Most training files that under private, or therapy, or
+  somebody else's field."* Every repair supplies a noun the author has to choose. **This is the
+  one defect a reader would trip over.**
+- **`ch7:251`** is the only cross-reference in the book naming its own section (1 of 18).
+- **The `Move 4` / `Section 4` collision at `ch7:571`**, and ch7's EA table disagreeing with two
+  of its five deep-dives.
+- **`STYLE_SHEET` §7 is short five names** the agency board already scores — Nia, Priya, Marcus,
+  Sam, Rosa — plus Ilse Marrow, Jess and the place-names Oreve and Sethen.
+- Per-chapter structural notes from all eight reads, logged and not acted on under spec §6.
+
+**The deep read is done, ch1 through ch9. What remains is the true proofread, on the built PDF.**

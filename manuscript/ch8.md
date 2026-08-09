@@ -102,7 +102,7 @@ The choice came down to this: keep showing up and getting called contradictory, 
 
 The Sage stopped saying it.
 
-No one meant for that to happen. Nobody said *go.* It just lost the ability to hear what the Sage actually said. Which, it turns out, amounts to the same as exile.
+No one meant for that to happen. Nobody said *go.* The village just lost the ability to hear what the Sage actually said. Which, it turns out, amounts to the same as exile.
 
 ---
 
@@ -157,7 +157,7 @@ After the Sage stopped naming the games, the villagers kept playing them.
 
 They stopped knowing which ones they were playing.
 
-Every conflict became existential. A boundary dispute in a meeting looked exactly like an identity crisis. A systems problem looked exactly like a values problem. Nobody could step back and say: *we're treating this like a harmony problem and it's actually a boundary problem: that's why no amount of vision is fixing it.* Nobody could name which game the villagers had all got stuck in together, and every game began to feel like every other game.
+Every conflict became existential. A boundary dispute in a meeting looked exactly like an identity crisis. A systems problem looked exactly like a values problem. Nobody could step back and say: *we're treating this like a harmony problem and it's actually a boundary problem: that's why no amount of harmony is fixing it.* Nobody could name which game the villagers had all got stuck in together, and every game began to feel like every other game.
 
 Everyone mistook motion for progress. They treated arguments as evidence of commitment rather than evidence of stuckness. The more heated the debate, the more certain everyone became that they were doing the work, when actually they were playing the same game at each other without knowing it.
 
@@ -542,7 +542,7 @@ Return has four moves inside it. Run them in order the first several times. Afte
 
 **2. Listen for which game they're in, and meet them there.** They may be in the power game: scared, charging, somebody's line got crossed. Or strategy: hunting for the lever. Or harmony: wanting everyone heard, afraid of the conflict honesty might cause. Meet them there. The Sage doesn't insist on the whole-board view. The Sage insists on honesty, and honesty means speaking a language the other person can actually receive. Egan calls this meeting the client at their readiness. You don't name the whole-board pattern to someone still inside the power game unless naming it is itself the whole-board move, which it sometimes is, and usually isn't. Usually it's impatience with your own clarity.
 
-**3. Stay embodied, especially when the view is clear.** This move separates the Sage from the distortion. The distortion has an insight and withdraws. The real Sage has the insight and stays in the body: in the conversation, in the mess, in the part that isn't resolved and isn't elegant yet. Keep breathing. Keep the ground under your feet. The Sage who has gone up and come back is worth more than the Sage who stays above, and only when the one who returns arrives fully present.
+**3. Stay embodied, especially when the view is clear.** This move separates the Sage from the distortion. The distortion has an insight and withdraws. The real Sage has the insight and stays in the body: in the conversation, in the mess, in the part that isn't resolved and isn't elegant yet. Keep breathing. Keep the ground under your feet. The Sage who has gone up and come back is worth more than the Sage who stays above, but only when the one who returns arrives fully present.
 
 **4. Let them not understand, and let that be okay.** They don't have to understand what you saw. The gift isn't in their understanding, it's in your offering. You saw something. You named it. You came back. The rest is their work. Nothing at this altitude asks for a harder surrender, because the distortion can't stand the gap between what it sees and what the villagers receive. The real Sage holds the gap without flinching: *I told you what I see. I don't need you to see it the same way. I need you to know it's available if you want it.* Then the Sage stays. Hope that they'll get there eventually is a different posture. Patience as a tactic is a different posture. That is presence, because staying does the work.
 
@@ -568,7 +568,7 @@ I spent four years writing a book about not making yourself the load-bearing wal
 <!-- /MARGINALIA -->
 
 
-You met the Damaged Self deep in the Forest, seventh in line, closest to the center. The Protector decides whether you go in at all. The Controller decides how you're allowed to behave once you're inside. The Skeptic decides whether what you're reacting to was ever real. The Fixer-Healer decides whether what is in front of you holds up well enough to be given yourself to. The Victim decides what your having paid entitles you to. The Damaged Self decides something none of them touch: whether you are built correctly for any of this.
+You met the Damaged Self deep in the Forest, seventh in line, closest to the center. The Protector decides whether you go in at all. The Controller decides how you're allowed to behave once you're inside. The Skeptic decides whether what you're reacting to was ever real. The Fixer/Healer decides whether what is in front of you holds up well enough to be given yourself to. The Victim decides what your having paid entitles you to. The Damaged Self decides something none of them touch: whether you are built correctly for any of this.
 
 At its best, this part of you registers difference accurately. Something about how you process runs off-standard. It does for a lot of people, and at this altitude almost always, because panoramic vision is not the common configuration. A part of you that can hold *I am running differently from the people around me* without panic does real work. It keeps you from expecting your own experience to be universal, the single most useful correction available to anyone who sees more than the people they're sitting with.
 
@@ -631,7 +631,7 @@ The one described above turns difference into defect in general. Yours has a spe
 <!-- /MARGINALIA -->
 
 
-You drew the Which Game ↔ Which Altitude axis in Section 3. The Damaged Self slips past it more reliably than anything else in the Forest, and the mechanism repays a close look.
+You drew the Which Game ↔ Which Altitude axis in Section 4. The Damaged Self slips past it more reliably than anything else in the Forest, and the mechanism repays a close look.
 
 The Damaged Self does not argue about the game. It argues about the instrument, and an argument about the instrument looks like the most rigorous move available. *Before I read this situation, I should account for how my own wiring distorts the read.* That sentence is correct. It also serves as the entry point, because nothing ends it naturally. You can check every read one more time against the possibility that you're the problem, and the checking feels like exactly the discipline you have been building.
 
@@ -670,7 +670,7 @@ Theirs is doing the same job in a Forest you cannot see into. A stranger's Damag
 
 The Sage's game is the meta-game. Not a game *about* something: the game of knowing which game you're in and choosing to play it.
 
-The whole book has built toward this through-line. You've learned six Faces. You've felt, drawn lines, carried forward, built, held the field, and seen the whole map. Now the question stops being *which Face am I being?* and starts being *which game am I designing?*
+The whole book has built toward this through-line. You've learned six Faces. You've felt, drawn lines, carried forward, built, held the field, and seen the whole map. Now the question stops being *which face am I being?* and starts being *which game am I designing?*
 
 The five moves are a toolkit. You reach in and pull out what the moment requires. Sometimes the first move is Name the Game. Sometimes it's Switch. Sometimes, often, it's Return, because you've been above the table too long and nobody can hear you anymore.
 
@@ -761,7 +761,7 @@ Do not use the meta-view to make yourself unaccountable. If your clarity only ma
 
 ---
 
-**Example:** Ade has the test result and a fifty per cent chance of what killed his father at sixty. He has decided not to tell his brother. You can see the whole of it: the brother's right to know, the family pattern of not saying, the ten years of managing this alone. Hold all of it and stand on the ground: *what do you want to do on Sunday.* The whole board stays available to you and does nothing on the table. Ade decides about his brother.
+**Example:** Ade has the test result and a fifty percent chance of what killed his father at sixty. He has decided not to tell his brother. You can see the whole of it: the brother's right to know, the family pattern of not saying, the ten years of managing this alone. Hold all of it and stand on the ground: *what do you want to do on Sunday.* The whole board stays available to you and does nothing on the table. Ade decides about his brother.
 
 **The test:** Name what this game could cost you in the next month. If the whole-board view has left you with nothing at stake, you are standing beside the board rather than on it.
 
@@ -897,7 +897,7 @@ You have now been all six Faces. Shaman. Challenger. Regent. Architect. Diplomat
 
 Now the question changes.
 
-It's no longer *which Face am I being?*
+It's no longer *which face am I being?*
 
 It's *which game am I designing?*
 
@@ -907,4 +907,4 @@ Add a row to the sheet, the last one before you build. Under your walk-away pric
 
 This is where the Sage stops and the Player starts. Not the Sage looking down from anywhere, the Player out ahead on the road, already walking, building it as they go.
 
-That's the next Face. That's you.
+That's the next face. That's you.

@@ -272,7 +272,7 @@ Each mode has its own feel, its own appropriate moment, its own cost. A Line wit
 
 ### EA Channel Alignment — How Each Mode Moves Energy
 
-The Shaman (Ch3) taught you to read the five EA channels: Metal/Fear, Water/Sadness, Wood/Joy, Fire/Anger, Earth/Neutrality. The Challenger uses them at a different altitude: not sensing inward but acting outward. Each confrontation mode draws on a specific EA signal:
+The Shaman (Chapter 3) taught you to read the five EA channels: Metal/Fear, Water/Sadness, Wood/Joy, Fire/Anger, Earth/Neutrality. The Challenger uses them at a different altitude: not sensing inward but acting outward. Each confrontation mode draws on a specific EA signal:
 
 | Mode | EA Signal | Dissatisfaction → Satisfaction |
 |------|-----------|-------------------------------|
@@ -754,7 +754,7 @@ When you draw a line, the seconds on either side of it decide whether it stands,
 
 **Gather Resources — the no said in your own name**
 
-*You're winning when:* you refused a demand on time, money or attention that somebody with less standing could not have refused, and you refused it in your own name rather than on their behalf without asking. It cost you your reputation as the person who absorbs. The proof is that the capacity stayed with the person who needed it.
+*You're winning when:* you refused a demand on time, money, or attention that somebody with less standing could not have refused, and you refused it in your own name rather than on their behalf without asking. It cost you your reputation as the person who absorbs. The proof is that the capacity stayed with the person who needed it.
 
 **Skillful Organizing — the boundary the group won't draw**
 

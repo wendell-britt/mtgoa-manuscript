@@ -134,7 +134,7 @@ Once you've mapped your terrain, you can design your practice. The practice blen
 
 The practice: Write it down. Not as an abstraction, as a concrete plan. *When I'm in my Challenger, this is how I know. When I need to move to my Shaman, this is what I do. When I'm avoiding my Regent, this is the signal.* The writing does the designing. Putting it on paper forces you into specifics.
 
-The design question never changes: *What problem am I trying to solve, and which Face does this problem actually require?* Most people avoid one of the six Faces because that Face's territory makes them uncomfortable, not because it has nothing to do with them. The Designer asks: *What am I avoiding, and what would happen if I built a practice that included it?*
+The design question never changes: *What problem am I trying to solve, and which face does this problem actually require?* Most people avoid one of the six Faces because that face's territory makes them uncomfortable, not because it has nothing to do with them. The Designer asks: *What am I avoiding, and what would happen if I built a practice that included it?*
 
 The Designer doesn't build a perfect system. The Designer builds a working system: one you can actually use, one that fits your specific body, your specific village, your specific problem. The Designer knows that a practice you actually use beats a perfect practice you keep planning to start.
 
@@ -154,7 +154,7 @@ This book is my Founder move. I built what I needed and couldn't find: a practic
 
 If that describes you, if you have something specific you want to build and you know it has to be you, the fastest path I know runs through working on it with me, one-on-one. That's the coaching. It's what I do.
 
-Let me say plainly what that means. I built a method. Right now I'm essentially the only one teaching it this way. That's true today. It won't stay true, I wrote this down so the map would live in more hands than mine. You've been holding that map since Chapter 2. The coaching adds a second set of eyes already trained on these six Faces, because you almost always need the Face you've spent years avoiding by performing another, and catching yourself at that alone is the hard part. Someone who already knows the terrain finds it faster than you will by yourself. That's the whole job.
+Let me say plainly what that means. I built a method. Right now I'm essentially the only one teaching it this way. That's true today. It won't stay true, I wrote this down so the map would live in more hands than mine. You've been holding that map since Chapter 2. The coaching adds a second set of eyes already trained on these six Faces, because you almost always need the face you've spent years avoiding by performing another, and catching yourself at that alone is the hard part. Someone who already knows the terrain finds it faster than you will by yourself. That's the whole job.
 
 If you want the method itself (to run it for other people, not just for what you're building) that's the succession this whole book has been pointing at, and it's the work I most want to hand off. Reach out: wendell@masteringallyship.com. I am looking for people to carry this.
 
@@ -168,7 +168,7 @@ The practice: Take what you built and make it pass-onable. Write it down. Name t
 
 The deck starts earning its keep here. You have been handed twenty cards six times in this book: the Shaman's twenty, then the Challenger's, the Regent's, the Architect's, the Diplomat's, the Sage's. A hundred and twenty cards. Five moves crossed against four domains, six operations deep. Nobody built that as a reference table. It works as the practice surface, and you have been holding all of it since Chapter 3.
 
-The Elder's use of the deck comes second. The first one belongs to you, alone, with nobody watching: draw against the Face you have been performing and find out what you actually do when a card names what you have been routing around. Running it for a group becomes possible after that: a session, a team, a family, a class, a vocabulary handed to people who already know how to do the work and have never been able to name it. That is how the work goes forward without everyone starting from zero. It also keeps the practice from calcifying, because a deck you actually play will keep dealing you the card you did not want.
+The Elder's use of the deck comes second. The first one belongs to you, alone, with nobody watching: draw against the face you have been performing and find out what you actually do when a card names what you have been routing around. Running it for a group becomes possible after that: a session, a team, a family, a class, a vocabulary handed to people who already know how to do the work and have never been able to name it. That is how the work goes forward without everyone starting from zero. It also keeps the practice from calcifying, because a deck you actually play will keep dealing you the card you did not want.
 
 The Elder makes sure the work outlives you. To everyone else that looks like authority.
 
@@ -237,7 +237,7 @@ You have been the Shaman who names what's true. You have been the Challenger who
 
 Now the question, what comes next?
 
-The question at the end of this book lands simpler and harder than which Face you should become next, or how you stay at Sage forever, or which game ranks highest. It comes to this: *what game do you want to play, and what are you going to build?*
+The question at the end of this book lands simpler and harder than which face you should become next, or how you stay at Sage forever, or which game ranks highest. It comes to this: *what game do you want to play, and what are you going to build?*
 
 That's what this final journey does. Ascending belongs to somebody else's book, and so does perfecting. This one walks out into the village with everything you've learned and makes something real.
 
@@ -447,7 +447,7 @@ Some failures are just failures. The design was wrong. The timing was wrong. Wha
 
 The walk ends the way all walks end: with you having gone further than you started, carrying something you didn't have before.
 
-You will not have a perfect map. You will not have all the Faces mastered. You will not have the WAVE figured out. You will still default to your home game when it gets hard. You will still avoid the Face that's uncomfortable. You will still sometimes mistake feeling for action, or action for feeling.
+You will not have a perfect map. You will not have all the Faces mastered. You will not have the WAVE figured out. You will still default to your home game when it gets hard. You will still avoid the face that's uncomfortable. You will still sometimes mistake feeling for action, or action for feeling.
 
 That's the walk. Nobody told you it would look like this.
 
@@ -471,7 +471,7 @@ You are ready to be useful.
 
 ---
 
-*Before you step into the game: a daemon scan. Seven of them and the child at the center: eight in all, eight questions. One of them is live in you right now: the Face that showed up most in your building work. Find it. Capture it.*
+*Before you step into the game: a daemon scan. Seven of them and the child at the center: eight in all, eight questions. One of them is live in you right now: the daemon that showed up most in your building work. Find it. Capture it.*
 
 *The Protector showed up in your building, and not as the old guardedness. Something specific you've been protecting about what you're building, or from the people who might encounter it. Name what the protection is actually guarding. That's what you have.*
 
@@ -521,7 +521,7 @@ In practice: write the sentence, then delete every clause that is there to make 
 
 **What it is:** Showing the unfinished work to a single human being who can respond to it, at the exact point where you would rather keep working on it alone.
 
-**Why it matters:** Earlier in this chapter the tell was direction, is the work moving toward contact with someone, or away from it. This move is that tell converted into an act, and it is the only one of the five that cannot be performed alone. Contact is also the only information a build cannot generate about itself. Refinement is a closed loop: you will not find out whether it works by looking at it harder, for longer, with better taste. A person who is not you is the instrument.
+**Why it matters:** Earlier in this chapter the tell was direction: *is the work moving toward contact with someone, or away from it?* This move is that tell converted into an act, and it is the only one of the five that cannot be performed alone. Contact is also the only information a build cannot generate about itself. Refinement is a closed loop: you will not find out whether it works by looking at it harder, for longer, with better taste. A person who is not you is the instrument.
 
 In practice: one person, not an audience. The audience version becomes a launch, and you can spend a year preparing for a launch. One person can happen this week. Ask before you show it: *Would you be willing to try this with me before it is finished? I want to know where you got confused, and I will use your answer to change it.* Make refusal easy. If the ask costs them time, access, or labor, decide what you can give back before you make it. An unspecified ask gets you encouragement: the least useful response a human being can hand you.
 
@@ -629,11 +629,11 @@ The Player leaves behind not a method but a path. The path continues.
 
 ## The Last Rep
 
-### *Six moments. Read each one, name the Face, play the move.*
+### *Six moments. Read each one, name the face, play the move.*
 
 Six Faces and thirty moves are worth very little until you can look at something happening in front of you and know which one it wants. That is the skill this whole book has been building toward, and it is what you cannot get from reading. It arrives by being wrong a few times somewhere the stakes are low.
 
-So here are six moments. Read each one and write down two answers before you go on: which Face the moment needs, and which move you would play. In the margin is fine, and fast beats careful, since the reads at the end are only worth something to you if you have already committed to an answer you can be wrong about.
+So here are six moments. Read each one and write down two answers before you go on: which face the moment needs, and which move you would play. In the margin is fine, and fast beats careful, since the reads at the end are only worth something to you if you have already committed to an answer you can be wrong about.
 
 **One.** A director says something in a team meeting that lands hard on the newest person at the table. It is not ambiguous and it is not deniable. The person goes still, says nothing, and the meeting moves to the next agenda item in about four seconds. You have the standing to speak, and you are aware, while the four seconds are passing, that speaking will cost you something with the director.
 
@@ -659,7 +659,7 @@ So here are six moments. Read each one and write down two answers before you go 
 
 **Four is the Regent.** The newer members are right about the impact, the old guard is right that something is being lost, and the argument cannot resolve because the only person who knows what the ritual was *for* has not said so out loud. That is you. The pull is toward the Challenger, since the impact is real and burning it is clean. The move is **Name the Inheritance** (Chapter 5), and only then **Reform Without Erasing**. Naming it first is what lets the group know what it is choosing to give up: the difference between a reform and an amputation.
 
-**Five is the Diplomat, and this is the one where your default Face is the right call.** There is a real field with two real positions in it, and you are the only person both sides will still talk to: the Connector's actual job. The pull is toward the Challenger, because one of those positions is weaker than the other and saying so out loud would feel like integrity. The move is **Name the Field** (Chapter 7), then **Translate Across Camps**, with **Refuse False Equivalence** running underneath both. The Diplomat's shadow does not show up in the decision to mediate. It shows up ten minutes later, when the cheapest way to keep both organizations talking to you is to start describing a stolen campaign as a misunderstanding.
+**Five is the Diplomat, and this is the one where your default face is the right call.** There is a real field with two real positions in it, and you are the only person both sides will still talk to: the Connector's actual job. The pull is toward the Challenger, because one of those positions is weaker than the other and saying so out loud would feel like integrity. The move is **Name the Field** (Chapter 7), then **Translate Across Camps**, with **Refuse False Equivalence** running underneath both. The Diplomat's shadow does not show up in the decision to mediate. It shows up ten minutes later, when the cheapest way to keep both organizations talking to you is to start describing a stolen campaign as a misunderstanding.
 
 **Six is the Sage.** Two years of correct argument and no movement is information about the game rather than about the argument, and it took two years to surface because this game keeps producing agreement, which reads like progress on the way home. The pull is toward the Challenger, escalate, say it louder, or toward the Regent, keep the vows, stay at the table. The move is **Name the Game** (Chapter 8), then **Switch Games Deliberately**, the same argument in a different setting, or a different argument in the same one, and choosing between those two is the Sage's whole job.
 
@@ -667,9 +667,9 @@ So here are six moments. Read each one and write down two answers before you go 
 
 **Now count your answers.**
 
-If one Face showed up in four or more of the six, you have just watched your autopilot run. Chapter 1 told you this would happen and left a line open on your character sheet for it. Fill it in now, with the Face and the number, because a pattern you caught yourself running is worth more than any diagnosis I could have handed you in Chapter 2. Then write that Face a second time, on its own line, this time as a tool rather than a habit: the superpower its chapter named, and what it does for people when you are the one aiming it. Chapter 1 promised you a superpower you would only spot in motion. You just watched it move. The Face that runs you and the Face worth having are the same Face, and the sheet should carry both. (The one you built out of your own history is a different question, and the page at masteringallyship.com answers it. Its answer does not have to match the superpower your Face came with.)
+If one face showed up in four or more of the six, you have just watched your autopilot run. Chapter 1 told you this would happen and left a line open on your character sheet for it. Fill it in now, with the face and the number, because a pattern you caught yourself running is worth more than any diagnosis I could have handed you in Chapter 2. Then write that face a second time, on its own line, this time as a tool rather than a habit: the superpower its chapter named, and what it does for people when you are the one aiming it. Chapter 1 promised you a superpower you would only spot in motion. You just watched it move. The face that runs you and the face worth having are the same face, and the sheet should carry both. (The one you built out of your own history is a different question, and the page at masteringallyship.com answers it. Its answer does not have to match the superpower your face came with.)
 
-Then go to the Face that never came up at all. Open its chapter, find the one move you have never run in your life, and put it against the cause you named as your quest back in Chapter 1. Give it a name and a date, or it is a resolution.
+Then go to the face that never came up at all. Open its chapter, find the one move you have never run in your life, and put it against the cause you named as your quest back in Chapter 1. Give it a name and a date, or it is a resolution.
 
 If your six answers came out spread across six different Faces, run the drill again in three months with moments from your own week instead of mine. Choosing between the Faces on a page is the easy version. The skill is choosing between them at speed, with something real at stake, while the moment is still open.
 
@@ -679,7 +679,7 @@ If your six answers came out spread across six different Faces, run the drill ag
 
 Two paths exist on the other side of this book. They are not the same size, and they don't ask the same of you.
 
-**The deck.** A hundred and twenty BARs: Wake Up, Open Up, Clean Up, Grow Up, Show Up, crossed against gathering resources, raising awareness, direct action, and skillful organizing, run through all six operations, one per Face. You have met every one of them twenty at a time. The private use comes first: draw against the Face you have been performing and see what you do when the card names it. The public use comes after: run it for a group. It is the smaller of the two steps and the only one you can take this week. It costs you nothing except the willingness to sit with a card you would rather have shuffled back.
+**The deck.** A hundred and twenty cards: Wake Up, Open Up, Clean Up, Grow Up, Show Up, crossed against gathering resources, raising awareness, direct action, and skillful organizing, run through all six operations, one per Face. You have met every one of them twenty at a time. The private use comes first: draw against the face you have been performing and see what you do when the card names it. The public use comes after: run it for a group. It is the smaller of the two steps and the only one you can take this week. It costs you nothing except the willingness to sit with a card you would rather have shuffled back.
 
 **The coaching.** The more expensive of the two, in every sense of the word. If you have a Founder move and you already know it has to be you, working it through with me one-on-one is the fastest path I know. If what you want is the method itself (to run these six Faces for other people, not just for what you're building) that is the succession I wrote this book to make possible, and it is the work I most want to hand off. wendell@masteringallyship.com.
 

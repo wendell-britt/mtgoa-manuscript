@@ -78,6 +78,22 @@ BRITISH = {
     # the board does not gain noise: forward 40/0, toward 42/0, inward 10/0,
     # outward 9/0, and the only other `-s` in the book was ch1:181's `backwards`.
     "afterwards": "afterward", "backwards": "backward",
+    # Found by the eight-chapter deep read, 2026-08-09, and every one of them
+    # by a reader rather than by this file. Each was measured against its own
+    # family before being admitted, so the board gains no noise:
+    #   rigour     ch6:217  -- rigor 10 : 1, and ch6 spells it rigor twice more
+    #   programme  ch6:535  -- the same chapter spells it program at ch6:141
+    #   instalment ch7:899  -- 1 site, 0 counter-examples anywhere
+    #   signalled  ch7:791  -- the doubled-l family runs 9 US : 2
+    #   relabelled ch3:152  -- channeled sits two clauses later in the same line
+    #   disorganised ch3:860 -- the organize family runs 63 : 1 in the body
+    # `organise`/`organised` were already here and still missed `disorganised`,
+    # which is the same prefix-shaped hole that `towards` left for `afterwards`.
+    "rigour": "rigor", "programme": "program", "programmes": "programs",
+    "instalment": "installment", "instalments": "installments",
+    "signalled": "signaled", "signalling": "signaling",
+    "relabelled": "relabeled", "disorganised": "disorganized",
+    "labelled": "labeled", "channelled": "channeled", "modelled": "modeled",
 }
 
 # STYLE_SHEET §6. Canon that is always capitalised wherever it appears.

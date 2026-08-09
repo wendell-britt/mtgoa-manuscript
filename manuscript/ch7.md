@@ -63,7 +63,7 @@
 ## Section 1: The Exile
 ### *Why the Diplomat Left the Village (And What the Village Lost)*
 
-You recognize a woman in the village. She is always there. She shows up to every gathering, every working bee, every moment of conflict and every moment of celebration. Her presence reads as devotion, except it isn't, because devotion implies choice, and she has forgotten how to choose. She stays because she has forgotten that she could leave.
+You recognize a woman in the village. She is always there. She shows up to every gathering, every working bee, every moment of conflict, and every moment of celebration. Her presence reads as devotion, except it isn't, because devotion implies choice, and she has forgotten how to choose. She stays because she has forgotten that she could leave.
 
 One day she stops showing up. The villagers barely notice at first. Then slowly, in her absence, something becomes visible: the shape of what she held together without ever naming that she held it. Ruptures she repaired before anyone saw them. Tensions that never escalated because she stood in the middle of them. The villagers discover they have lost something but cannot name the loss, because she never told them what her presence cost. She never gave them the chance to treat it as precious.
 
@@ -359,7 +359,7 @@ The Translate layer forms the operational core of the mode: you take the meaning
 
 The Neutral Channel pattern here is **intellectual superiority**: the behavioral pattern of using your fluency in multiple frameworks as a way to position yourself above the parties you translate between. "I see what you don't see about yourselves." The Control move redirects this pattern into neutral structure:
 
-**The structure of the Interpreter's Discipline:** Before you carry an account across a divide, ask whether the person wants you to carry it. If they do, return after translating and ask: “did I get this right?” Let their answer correct the version you gave. If they do not want a translator, do not appoint yourself one. You may name your own position, or leave the account with the person who owns it. The superiority pattern dissolves into a discipline that improves your translations because it gives the source the right to refuse them.
+**The structure of the Interpreter's Discipline:** Before you carry an account across a divide, ask whether the person wants you to carry it. If they do, return after translating and ask: "did I get this right?" Let their answer correct the version you gave. If they do not want a translator, do not appoint yourself one. You may name your own position, or leave the account with the person who owns it. The superiority pattern dissolves into a discipline that improves your translations because it gives the source the right to refuse them.
 
 Precision costs here: the containment structure takes extra effort, and it pays off when accuracy matters.
 
@@ -547,7 +547,7 @@ Pick the person. Someone who took a side while you were still holding the range,
 I apologized for taking up space in the conversation, at length, twice, and by the end I had taken up more of it than anyone.
 
 
-You met the Victim at the door of the Forest, sixth in line. The Protector decides whether you go in. The Controller decides how you may behave once you are inside. The Skeptic decides whether what you react to was ever real. The Fixer-Healer decides whether what is in front of you merits giving yourself to. The Victim decides something none of them touch: what your having paid entitles you to.
+You met the Victim at the door of the Forest, sixth in line. The Protector decides whether you go in. The Controller decides how you may behave once you are inside. The Skeptic decides whether what you react to was ever real. The Fixer/Healer decides whether what is in front of you merits giving yourself to. The Victim decides something none of them touch: what your having paid entitles you to.
 
 <!-- MARGINALIA -->
 > *I found out a friend was going through something, and my first clear feeling was relief that she
@@ -702,7 +702,7 @@ Close with Honest Terms is one clear sentence naming what this field must hold f
 
 A threat would sound like *do this or I leave.* This is an offering of information: here is what this field must hold for my staying to remain real. Then the people it concerns get to respond.
 
-*If you don't yet know where you stand, whether you've been trading impact away for the comfort of caring, go back to the Care ↔ Impact axis you drew in Section 3 before you try to close. The axis is preparation. This move is the practice.*
+*If you don't yet know where you stand, whether you've been trading impact away for the comfort of caring, go back to the Care ↔ Impact axis you drew in Section 4 before you try to close. The axis is preparation. This move is the practice.*
 
 **The test:** You named what you actually need from the agreement rather than a softer version, said it once, and left it alone for the people it concerns to answer. Their behavior may or may not change. If you named the real terms and nothing moved, that is information.
 
@@ -788,7 +788,7 @@ When you close, the sentence and the weeks after it decide whether the terms hol
 
 **Name what they stand to lose first.** A term that lands before they have heard you describe their side accurately gets answered as a charge, and an answer spent on themselves never reaches your terms. So say what the other camp is guarding, in one sentence, before you say what you require. You lose the clean drama of coming out with it and you get a field that can answer.
 
-**Put the cost in the words, not in the delivery.** The account gets signalled long before it gets stated: the pause before you agree, the extra weight on *sure*, the tone that means somebody ought to ask. A signal costs nothing to send and nobody can answer one, because it leaves the field to work the number out alone, and it will work it out low. Say what this is costing, in figures, once. Nobody has ever renegotiated with a sigh.
+**Put the cost in the words, not in the delivery.** The account gets signaled long before it gets stated: the pause before you agree, the extra weight on *sure*, the tone that means somebody ought to ask. A signal costs nothing to send and nobody can answer one, because it leaves the field to work the number out alone, and it will work it out low. Say what this is costing, in figures, once. Nobody has ever renegotiated with a sigh.
 
 **Let them say what your staying cost them, and answer that.** A close is an invitation, and it gets accepted the moment somebody tells you what the arrangement cost on their side. That is where the Victim opens the column, on time and exact, and turns a negotiation into a comparison of totals only one person is running. (Chapter 5 has me holding back what I knew in a body I stayed with for years, with the crown under my hood. I told it as a Regent's story and it is one. Read it from here and a second story sits inside it: nobody there ever got to decide whether they wanted what I was carrying, because I never put it where they could refuse it.) You owe their term an answer. Your balance keeps. It has kept for years.
 
@@ -806,7 +806,7 @@ When you close, the sentence and the weeks after it decide whether the terms hol
 
 **Skillful Organizing — the agreement the group never made**
 
-*You're winning when:* you closed the group on what it has to hold, who does what and what happens when somebody does not, rather than booking the fourth conversation of its kind, and it cost you being the one everybody agreed was still listening. The proof is that the group now has terms somebody can hold it to, and the people who carried it unnamed are in them by name.
+*You're winning when:* you closed the group on what it has to hold, who does what, and what happens when somebody does not, rather than booking the fourth conversation of its kind, and it cost you being the one everybody agreed was still listening. The proof is that the group now has terms somebody can hold it to, and the people who carried it unnamed are in them by name.
 
 ### The Tell
 
@@ -896,6 +896,6 @@ The Sage does.
 
 ---
 
-Add a row to the sheet. Under the harm you keep fixing, write your walk-away price: what would have to happen, or keep happening, before you walked out instead of staying and disappearing. Write it so you could say it out loud to the people it concerns. A price you have not named is one you pay in instalments and call patience.
+Add a row to the sheet. Under the harm you keep fixing, write your walk-away price: what would have to happen, or keep happening, before you walked out instead of staying and disappearing. Write it so you could say it out loud to the people it concerns. A price you have not named is one you pay in installments and call patience.
 
 **Next:** The Sage, the one who sees all six altitudes and knows which one the game actually plays at.

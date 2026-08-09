@@ -518,16 +518,16 @@ Both cost something. Claiming it means you can no longer hide behind not-yet-rea
 
 ---
 
-## Section 5: The Fixer-Healer, Up Close
+## Section 5: The Fixer/Healer, Up Close
 ### *The Repair That Never Ends, and the Commitment It Postpones*
 
 I have never once let a friend finish describing a problem. I hear the shape of it and I am three steps into a solution nobody asked for, and I do it because I love them, which is the part that makes it so hard to stop.
 
 He has been fixing his brother for eleven years. His brother is fine. His brother has a job and a dog.
 
-You met the Fixer-Healer at the door of the Forest, fourth in line, one step past the Skeptic. The Protector decides whether you go in. The Controller decides how you may behave once you are inside. The Skeptic decides whether what you react to was ever real. The Fixer-Healer decides something none of them touch: whether what is in front of you is in good enough condition to be given yourself to.
+You met the Fixer/Healer at the door of the Forest, fourth in line, one step past the Skeptic. The Protector decides whether you go in. The Controller decides how you may behave once you are inside. The Skeptic decides whether what you react to was ever real. The Fixer/Healer decides something none of them touch: whether what is in front of you is in good enough condition to be given yourself to.
 
-At its best this part of you does not look away from damage. Something you inherited is broken: an organization with a founding story that stopped being true, a practice that has drifted from what it was for, a family pattern nobody has named in three generations. Most people manage the discomfort of that by not seeing it. The Fixer-Healer sees it, names it, and starts work. That is the only reason anything inherited ever improves, and it will look like meddling to somebody. Every tradition still worth having had someone who noticed it failing and did something about it instead of calling the failure sacred.
+At its best this part of you does not look away from damage. Something you inherited is broken: an organization with a founding story that stopped being true, a practice that has drifted from what it was for, a family pattern nobody has named in three generations. Most people manage the discomfort of that by not seeing it. The Fixer/Healer sees it, names it, and starts work. That is the only reason anything inherited ever improves, and it will look like meddling to somebody. Every tradition still worth having had someone who noticed it failing and did something about it instead of calling the failure sacred.
 
 The repair itself is sound. The distortion is what gets attached to it.
 
@@ -545,15 +545,15 @@ Then comes the second move, the Healer half, and it costs you more. When the rep
 <!-- /MARGINALIA -->
 
 
-This daemon stands where it stands for a reason, in a book about allyship. Everything in this cycle runs on receiving something before you have finished evaluating it. Inherit, then Honor: take on what arrived, then sort what in it still serves. The Fixer-Healer ends the cycle between those two steps, not by arguing that the inheritance is bad, but by ruling that it is not yet in a condition to be inherited. The evaluation never closes. You never get to Honor, because Honor requires having accepted the inheritance, and acceptance keeps getting deferred to the far side of a repair that has no far side.
+This daemon stands where it stands for a reason, in a book about allyship. Everything in this cycle runs on receiving something before you have finished evaluating it. Inherit, then Honor: take on what arrived, then sort what in it still serves. The Fixer/Healer ends the cycle between those two steps, not by arguing that the inheritance is bad, but by ruling that it is not yet in a condition to be inherited. The evaluation never closes. You never get to Honor, because Honor requires having accepted the inheritance, and acceptance keeps getting deferred to the far side of a repair that has no far side.
 
 The cost is generational, so it takes a long time to surface. The people coming after need something receivable: a role with a shape, a practice with the reason still attached, an account of why any of this is here. A personally-held inheritance offers them competence instead, unwritten, undelegated, and available only while its carrier is. Nobody gets wronged in a way anyone can name. Nothing remains to hand over when the hand-over comes.
 
-The chapter's myth lives here, and it flatters more than any other in the book. The myth is that allyship is sacrificing yourself. The Fixer-Healer makes that feel like the highest form of loyalty: pour yourself into the gap, absorb what the structure cannot hold, pay for the inheritance's brokenness out of your own account, indefinitely. It reads as devotion. Run it forward and it is the surest way to guarantee that nothing you carried survives you. A person who has made themselves the load-bearing wall cannot entrust anything, because there is nothing to entrust; there is only their continued presence. Sacrifice and stewardship point in opposite directions. One of them ends when you do.
+The chapter's myth lives here, and it flatters more than any other in the book. The myth is that allyship is sacrificing yourself. The Fixer/Healer makes that feel like the highest form of loyalty: pour yourself into the gap, absorb what the structure cannot hold, pay for the inheritance's brokenness out of your own account, indefinitely. It reads as devotion. Run it forward and it is the surest way to guarantee that nothing you carried survives you. A person who has made themselves the load-bearing wall cannot entrust anything, because there is nothing to entrust; there is only their continued presence. Sacrifice and stewardship point in opposite directions. One of them ends when you do.
 
 I have a part of me I call Mr. Inadequate. He has been showing up since I was twelve. He is not wrong: he accurately notes that I could fail, and that what I would fail is not mine, and that people I respect built it. More than once, I have watched myself hand him to the Fixer. The Fixer is happy to take him. The Fixer turns *I might not be equal to this* into a project plan, and a project plan holds much more comfortably than a verdict. I want you to see that arrangement, because it is the whole racket: the endless repair often stands in front of something that does not want to be met. Mr. Inadequate does not get to decide whether I try. He also does not get to be laundered into a work order.
 
-You do not fire the Fixer-Healer. Fire the part of you that notices damage and you will spend your life tending structures that stopped working before you arrived, calling that faithfulness. You take the joystick back by giving it its actual jurisdiction and taking away the one it appointed itself to.
+You do not fire the Fixer/Healer. Fire the part of you that notices damage and you will spend your life tending structures that stopped working before you arrived, calling that faithfulness. You take the joystick back by giving it its actual jurisdiction and taking away the one it appointed itself to.
 
 *Tell me what is broken. All of it, in detail: that is the report I want, and I will act on it. Whether I commit is not yours to decide. That was settled when I accepted this.*
 
@@ -565,9 +565,9 @@ It shows up in a single beat. Someone asks you to take the role: chair the meeti
 
 ---
 
-### 3-2-1 on Your Fixer-Healer
+### 3-2-1 on Your Fixer/Healer
 
-The one described above is the generic Fixer-Healer. Yours has its own shape, and that is the one to work. Ten to fifteen minutes.
+The one described above is the generic Fixer/Healer. Yours has its own shape, and that is the one to work. Ten to fifteen minutes.
 
 **3 · FACE IT.** Third person, and not the version in this chapter. What does yours sound like when it opens a condition? Which move does yours run: postponing the commitment, or standing in for the structure? What is it holding up right now, unwritten? A paragraph, as much detail as you can hold, and give it a name if a name comes.
 
@@ -586,7 +586,7 @@ The one described above is the generic Fixer-Healer. Yours has its own shape, an
 
 ### Honor and Reform: Why the Repair Always Sounds Like Reform
 
-You drew the Honor ↔ Reform axis in Section 4. Here is why the Fixer-Healer is so hard to catch standing on it.
+You drew the Honor ↔ Reform axis in Section 4. Here is why the Fixer/Healer is so hard to catch standing on it.
 
 Both poles are real goods. A Regent who cannot honor will strip a tradition of the parts holding it up, because those parts are old and old reads as suspect. A Regent who cannot reform becomes a curator of a building nobody lives in. Every live inheritance sits somewhere on that axis, and where it sits comes down to a judgment call, and judgment calls about damage are precisely what a Fixer is for.
 
@@ -598,7 +598,7 @@ The tell is never the position. The tell is whether anything ever gets accepted.
 
 ### What You Take Out of the Forest
 
-The Fixer-Healer developed does what nothing else in this chapter can do: it lets you say what is wrong with something you have already committed to. That combination comes rarer than it sounds. Most people manage one or the other, loyal and blind, or clear-eyed and uncommitted. Holding both makes an inheritance transmissible, because the next person needs the damage report and the commitment in the same hand. A tradition handed over with all its flaws named is a tradition someone can actually take.
+The Fixer/Healer developed does what nothing else in this chapter can do: it lets you say what is wrong with something you have already committed to. That combination comes rarer than it sounds. Most people manage one or the other, loyal and blind, or clear-eyed and uncommitted. Holding both makes an inheritance transmissible, because the next person needs the damage report and the commitment in the same hand. A tradition handed over with all its flaws named is a tradition someone can actually take.
 
 That lays the foundation this chapter builds on, and what it trains is the Storyteller: what you received, put into a form the next person can receive. The account of where this came from, what it cost, what broke, what still holds, and why any of it is worth their time. That is how something survives its carrier. Not by being held. By being told, in full, to someone who can pick it up.
 
@@ -613,7 +613,7 @@ Theirs is doing the same job in a Forest you cannot see into. A stranger's Fixer
 ## Section 6: The Game
 ### *What Winning Looks Like at the Regent's Altitude*
 
-Okay. You've met the Fixer-Healer and named one inheritance out loud. Now, what does it actually look like in a real situation?
+Okay. You've met the Fixer/Healer and named one inheritance out loud. Now, what does it actually look like in a real situation?
 
 The Regent's game is inheritance and stewardship. The Regent asks, in any situation: *what was handed to me here, what still serves, what needs reforming, and who am I handing this to when I'm done?*
 
@@ -685,7 +685,7 @@ These four are not a syllabus. Pick where you'll spend the inheritance this week
 
 You carry an inheritance for years, and the same three moves decide, in every domain, whether anybody can take it off you at the end.
 
-**Take it on in the condition it reached you in.** Nothing you inherit arrives in working order, so a rule that you will commit once the repairs are through is a rule with no day on it. The Fixer-Healer will always find you one more cycle, and the damage it reports is usually real. Watch what accepting buys: a repair named by somebody who has not committed is a request, and requests wait on whoever is in charge; the same repair named by somebody carrying it is a decision with a name against it. You take it on first, and never the other way round.
+**Take it on in the condition it reached you in.** Nothing you inherit arrives in working order, so a rule that you will commit once the repairs are through is a rule with no day on it. The Fixer/Healer will always find you one more cycle, and the damage it reports is usually real. Watch what accepting buys: a repair named by somebody who has not committed is a request, and requests wait on whoever is in charge; the same repair named by somebody carrying it is a decision with a name against it. You take it on first, and never the other way round.
 
 **Put a name on what you are actually holding.** Most of a keeper's work leaves no trace, and the Healer half of your Fixer will take all of it into your own head, where it works and nobody else can hold it. Name it out loud instead, to whoever decides: this runs because somebody does these four jobs, and the somebody is me. A named job is a role. Roles pass from person to person. People do not.
 
@@ -697,15 +697,15 @@ You carry an inheritance for years, and the same three moves decide, in every do
 
 **Raise Awareness — the reason said while it is still known**
 
-*You're winning when:* you told a group why a practice exists, what it cost the people who built it and what it has cost since, in front of the ones who inherited the form with none of that attached, and it cost you the ease of letting the form speak for itself. The proof is that the reason sits in more than one head, and the next argument about the practice can be about what it was for.
+*You're winning when:* you told a group why a practice exists, what it cost the people who built it, and what it has cost since, in front of the ones who inherited the form with none of that attached, and it cost you the ease of letting the form speak for itself. The proof is that the reason sits in more than one head, and the next argument about the practice can be about what it was for.
 
 **Gather Resources — the hours asked for so one body can stop**
 
-*You're winning when:* you asked for the time, the budget line or the second name on the rota that a practice needs to outlast its keeper, and you asked whoever can say yes to it, instead of covering the gap out of your own evenings another year, and it cost you your standing as the person who never needs anything. The proof is that the practice has a claim on something other than you.
+*You're winning when:* you asked for the time, the budget line, or the second name on the rota that a practice needs to outlast its keeper, and you asked whoever can say yes to it, instead of covering the gap out of your own evenings another year, and it cost you your standing as the person who never needs anything. The proof is that the practice has a claim on something other than you.
 
 **Skillful Organizing — the practice that runs without you**
 
-*You're winning when:* you handed a practice you had been holding personally to the group, with its reasons, its record and a name against each job, while you were still around to be asked about it, and it cost you being the reason it worked. The proof is that it ran a full cycle without you and stayed the practice it was, instead of drifting into whatever people could remember of it.
+*You're winning when:* you handed a practice you had been holding personally to the group, with its reasons, its record, and a name against each job, while you were still around to be asked about it, and it cost you being the reason it worked. The proof is that it ran a full cycle without you and stayed the practice it was, instead of drifting into whatever people could remember of it.
 
 ### The Tell
 
@@ -730,7 +730,7 @@ The Regent's Show Up cards are the only ones in the deck built entirely out of v
 
 ### Drawing Against the Shadow
 
-Draw from your twenty rather than the hundred and twenty, though not all from one move. A daemon is a rule in force at every move, which means five failures rather than one. The Fixer-Healer's:
+Draw from your twenty rather than the hundred and twenty, though not all from one move. A daemon is a rule in force at every move, which means five failures rather than one. The Fixer/Healer's:
 
 **Wake Up.** Asked what deserves attention, it returns what is damaged. Those are not the same list. You will never accept an inheritance you can only see the breaks in.
 

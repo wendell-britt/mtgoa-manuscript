@@ -91,6 +91,15 @@ accounts for the splits below, which are correct rather than inconsistent:
 *Field-Holder* · *Game-Switcher* · *Panoramic Seer* (open) · *Fixer/Healer* (slash, not
 hyphen).
 
+**RULED 2026-08-09 — Fixer/Healer takes the slash, and the body now agrees with the sheet.**
+Four independent readers flagged this in one pass. The sheet had ruled the slash and **the book
+ran 16 hyphen against 10 slash**, with the hyphen owning ch5's section heading and the daemon
+roll-calls in ch5, ch7 and ch8, and the slash owning ch2's introduction, ch9 and every appendix.
+All 16 body sites were swept to the slash, `## Section 5: The Fixer/Healer, Up Close` included.
+**`copyedit.py` could never have escalated this**: it files the pair under the read-only HYPHEN
+tier, which says *compounds also appearing open — READ, do not sweep*. The tier count went 16 to
+15 when the sweep landed. The bare short form *the Fixer* is untouched and remains house.
+
 **UNRULED:** *first-year* (3 hyphenated, 2 open) does not follow the modifier rule cleanly
 and wants a decision.
 
@@ -120,13 +129,22 @@ activity and is correctly lowercase. The book renders the set as gerunds at `ch2
 `ch3:940` and `ch9:680` — *gathering resources, raising awareness, direct action, skillful
 organizing* — and all three are right.
 
-**RULED 2026-08-09 — `face` is lowercase when it is the slot, capitalised when it is the
-name.** *Your home face*, *the face you overplay*, *which face is your home* all describe the
-seat the reader occupies; *the Shaman*, *the six Faces*, *every Face* name the canon. **This
-is the same naming-vs-instructing rule as the moves and the domains**, applied to the noun.
-Measured 4 lowercase `home face` in ch1 against 1 `home Face` at `ch9:514`, which was swept to
-match. The generic noun runs 17 lowercase in ch1 and 14 in ch3; ch9's capitals are all *the
-six Faces*, the named set, and are correct.
+**RULED 2026-08-09 — `face` is lowercase for the seat, capitalised for the canon.** Lowercase
+when the reader is selecting or occupying one: *your home face*, *which face the moment needs*,
+*your default face*, *the face that never came up*, *which face am I being*. Capitalised when
+the noun names a member of the set categorially: *a Face*, *this Face*, *every Face*, *the last
+Face before the Player*, *one per Face*, and always *the six Faces*.
+
+**The first version of this ruling, written the same day, was wrong, and the error is worth
+keeping.** It claimed *"ch9's capitals are all the six Faces, the named set, and are correct."*
+They were not. The count behind it was the phrase `home face` at 4:1 and nothing else —
+**a generalisation from one phrase to a whole rule, never checked against ch9's actual sites.**
+ch9 held fourteen slot-sense capitals, `ch8` three more, and a line-based `grep` hid every
+occurrence past the first on a long line, so the site count was under-reported twice before an
+occurrence-level scan got it right. **Count occurrences, not lines.**
+
+**Swept 2026-08-09 after the deep read: 21 slot-sense occurrences** — ch9 ×18 (including six in
+`ch9:670` alone) and ch8 ×3. **17 capitals stay**, all naming-sense, listed above.
 
 **Always capitalised:** the six Faces (Shaman, Challenger, Regent, Architect, Diplomat, Sage)
 · the Player · the eight daemons (Protector, Controller, Skeptic, Fixer/Healer, Emotional
@@ -188,7 +206,17 @@ convention and should not spread into the body.
 5. **Appendix B and D got their on-ramps.** Item 4 above is closed. See §8.
 6. **The `-wards` family takes the American form.** 5 body sites swept, marginalia exempt,
    `copyedit.py` taught the pair. See §1.
-7. **`face` is the slot, `Face` is the name.** 1 site swept to match the other 4. See §6.
+7. **`face` is the seat, `Face` is the canon.** 21 occurrences swept. **The first version of
+   this ruling was wrong and is kept in §6 with the error.** See §6.
+8. **The serial comma reaches the domain blocks.** The 2026-08-07 sweep never touched the
+   twenty-four `*You're winning when:*` frames: they held **six** three-or-more-item lists with
+   a conjunction and **zero** took the mark, so the register looked exempt and was not.
+   Swept: `ch4:757` · `ch5:700` · `ch5:704` · `ch5:708` · `ch6:619` · `ch7:809`.
+9. **Fixer/Healer takes the slash.** 16 body sites swept. See §4.
+10. **Six more British forms ruled out of the body**, all found by readers rather than by an
+    instrument: *rigour* · *programme* · *instalments* · *signalled* · *relabelled* ·
+    *disorganised*, plus *per cent* at `ch8:764`. `copyedit.py` now carries all but the
+    two-word *per cent*, which its word-token map cannot express.
 
 ## Still unruled
 
