@@ -138,7 +138,7 @@ The design question never changes: *What problem am I trying to solve, and which
 
 The Designer doesn't build a perfect system. The Designer builds a working system: one you can actually use, one that fits your specific body, your specific village, your specific problem. The Designer knows that a practice you actually use beats a perfect practice you keep planning to start.
 
-My design looked like this: I knew from the Cartographer that I naturally moved to Challenger when it got hard. Instead I performed Diplomat energy to avoid the discomfort of the Challenger's game. The performance ran so habitually I mistook it for my nature. Writing it down forced me to see the gap between the performance and the person underneath. That's what the Designer's move does. It makes the implicit explicit.
+My design looked like this: I knew from the Cartographer that I naturally moved to Challenger when it got hard. Writing it down forced me to see the gap between the performance and the person underneath. That's what the Designer's move does. It makes the implicit explicit.
 
 ---
 
@@ -152,11 +152,7 @@ The Founder and the Architect do different work. The Architect designs systems f
 
 This book is my Founder move. I built what I needed and couldn't find: a practice you could actually run, that makes the emotional alchemy mechanical, that gives the six Faces a context instead of a vocabulary. I didn't design it as a product. I designed it because I could see the gap and I couldn't stop seeing it. When you're in Founder and you see something that needs to exist and nobody else has built it, you build it yourself or it stays missing.
 
-If that describes you, if you have something specific you want to build and you know it has to be you, the fastest path I know runs through working on it with me, one-on-one. That's the coaching. It's what I do.
-
-Let me say plainly what that means. I built a method. Right now I'm essentially the only one teaching it this way. That's true today. It won't stay true, I wrote this down so the map would live in more hands than mine. You've been holding that map since Chapter 2. The coaching adds a second set of eyes already trained on these six Faces, because you almost always need the face you've spent years avoiding by performing another, and catching yourself at that alone is the hard part. Someone who already knows the terrain finds it faster than you will by yourself. That's the whole job.
-
-If you want the method itself (to run it for other people, not just for what you're building) that's the succession this whole book has been pointing at, and it's the work I most want to hand off. Reach out: wendell@masteringallyship.com. I am looking for people to carry this.
+If that describes you, the offer sits at the end of this book, where the walk finishes.
 
 ---
 
@@ -189,7 +185,7 @@ Most people try to skip this mode. It costs something to say *this isn't working
 Each mode also opens a doorway. Depending on which one activates for you, it leads to different ground. The deck runs underneath all five of them: whichever mode runs, the practice stays the same hundred and twenty cards. The mode only changes what you do with what the draw turns up.
 
 - **Cartographer and Designer** → your own ongoing practice. The work is between you and the map.
-- **Founder** → if you have something specific to build and you know you need support getting it out, the fastest path is working through it with me, one-on-one. If you want to learn the method itself, deeply enough to run it for others, say so (wendell@masteringallyship.com). That is the succession this book is for.
+- **Founder** → if you have something specific to build and you know you need support getting it out, the fastest path is working through it with me, one-on-one.
 - **Elder** → if what you're called to do is teach, pass on, run workshops, give other people the vocabulary. The deck is what you run the session from. It works without you standing in the middle of it, once you know it well enough to get out of the way.
 - **Outlaw** → if what you see is a structure that needs to be challenged, broken, or rebuilt. That is also allyship work. It is the mode the deck is worst at prompting on its own, so you draw for it on purpose.
 
@@ -233,7 +229,6 @@ So keep asking the question that planning-disguised-as-building cannot survive: 
 
 You have walked all six Faces.
 
-You have been the Shaman who names what's true. You have been the Challenger who draws the line. You have been the Regent who builds what lasts. You have been the Architect who designs for the next person. You have been the Diplomat who holds the field across difference. You have been the Sage who sees the whole game and plays their part.
 
 Now the question, what comes next?
 
@@ -265,25 +260,10 @@ That's what you have been learning. Not what to do. How to be capable before you
 
 You now know the six Faces.
 
-You know how the Shaman feels what's true: how to name the feeling without destroying it, how to let the anger complete without acting it out, how to find the gold in the fear before reaching for the plan.
-
-You know how the Challenger draws the line: how to hold a position without cruelty, how to be unwelcome when the moment requires it, how to transmute the impulse to flee or fawn into the capacity to stay and say *no.*
-
-You know how the Regent builds what lasts: how to ask *what am I protecting and why*, how to honor what came before without being imprisoned by it, how to create the structure that lets the next person act.
-
-You know how the Architect designs for the next person: how to make the right thing easy, how to build the system that hands off gracefully, how to design the escape route that others can follow.
-
-You know how the Diplomat holds the field across difference: how to make space for people who disagree, how to hold the tension without collapsing it, how to name your walk-away price before you need it.
-
-You know how the Sage sees the whole game and plays their part: how to know which game you're operating in, how to switch deliberately, how to return from the mountaintop without looking down on the people still climbing.
-
-Everything on that list started as something you learned and became something you can do.
-
 ---
 
 You now know the WAVE. Wake up. Open up. Clean up. Grow up. Show up. Then you come back, and coming back is what turns one pass into a practice.
 
-You know that the return is not optional, that coming back makes the work real. That carrying what you found back to the village is the whole point.
 
 You know that the five emotional channels do more than name feelings: they map the territory you have been walking into. Fear, anger, sadness, joy, neutrality: each one a road you can walk instead of a threat to manage.
 
@@ -302,10 +282,6 @@ The map also doesn't show you what success looks like from the inside. The momen
 The map doesn't show you that the walk takes as long as it takes. That you will not finish the map. That the point is not to finish.
 
 The map stays silent about all of that. I want you to know it, so that when the walking takes longer than you thought, you don't read that as evidence that you took the wrong path.
-
----
-
-You know that the WAVE loops, thousands of times, and that each pass through it goes a little deeper.
 
 ---
 
@@ -434,14 +410,6 @@ If you found it, you have already been the Founder. You just didn't call it that
 The question is not *are you a founder type.* The question is *are you willing to do it on purpose.* To look at what keeps showing up in your life and decide: *I'm going to make something out of this. I'm going to create what should exist.*
 
 That's all it takes. You don't have to write a book. You don't have to start a nonprofit. You don't have to have a platform or an audience or funding. You just have to decide that the problem you're carrying deserves solving, and start making something toward it. The scale doesn't matter. The specificity does.
-
----
-
-The walk includes failure. As an actual event, rather than as a lesson about resilience.
-
-Some of what you build will fail. Some will work and stall. Some will land and go nowhere. Some will meet the village and come apart on contact. You will make something and present it and find that the villagers weren't ready for it, that what you built as liberation they experienced as threat. That's the Outlaw's cost, and it arrives dressed as a failure of character. The villagers often resist the new game until they don't, and the period of resistance belongs to the walk.
-
-Some failures are just failures. The design was wrong. The timing was wrong. What you built didn't solve the problem you thought it would solve. That's data. The Player doesn't treat failure as defeat. The Player treats failure as the WAVE: wake up to what actually happened, open up to it before you explain it, clean up what didn't work, grow up into the next version, show up.
 
 ---
 

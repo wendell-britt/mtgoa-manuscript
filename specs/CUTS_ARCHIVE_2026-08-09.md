@@ -128,3 +128,99 @@ The cost: the games you abandon unfinished stay unfinished. The relationships le
 
 The cost: people learn you can't be trusted with the view. If you always retreat before you've done the work up there, they stop expecting you to stay, which means they stop expecting you to see clearly at all.
 ```
+
+## ch9 Founder -- the first coaching offer, three paragraphs
+
+```
+If that describes you, if you have something specific you want to build and you know it has to be you, the fastest path I know runs through working on it with me, one-on-one. That's the coaching. It's what I do.
+
+Let me say plainly what that means. I built a method. Right now I'm essentially the only one teaching it this way. That's true today. It won't stay true, I wrote this down so the map would live in more hands than mine. You've been holding that map since Chapter 2. The coaching adds a second set of eyes already trained on these six Faces, because you almost always need the face you've spent years avoiding by performing another, and catching yourself at that alone is the hard part. Someone who already knows the terrain finds it faster than you will by yourself. That's the whole job.
+
+If you want the method itself (to run it for other people, not just for what you're building) that's the succession this whole book has been pointing at, and it's the work I most want to hand off. Reach out: wendell@masteringallyship.com. I am looking for people to carry this.
+```
+
+## ch9 Where-Each-Mode-Leads -- the succession pitch in the Founder bullet
+
+```
+If you want to learn the method itself, deeply enough to run it for others, say so (wendell@masteringallyship.com). That is the succession this book is for.
+```
+
+## ch9 Designer -- the memoir sentences duplicating the Cartographer telling
+
+```
+Instead I performed Diplomat energy to avoid the discomfort of the Challenger's game. The performance ran so habitually I mistook it for my nature.
+```
+
+## ch9 recap -- the You-have-been litany
+
+```
+You have been the Shaman who names what's true. You have been the Challenger who draws the line. You have been the Regent who builds what lasts. You have been the Architect who designs for the next person. You have been the Diplomat who holds the field across difference. You have been the Sage who sees the whole game and plays their part.
+```
+
+## ch9 recap -- the You-know-how Shaman paragraph
+
+```
+You know how the Shaman feels what's true: how to name the feeling without destroying it, how to let the anger complete without acting it out, how to find the gold in the fear before reaching for the plan.
+```
+
+## ch9 recap -- the You-know-how Challenger paragraph
+
+```
+You know how the Challenger draws the line: how to hold a position without cruelty, how to be unwelcome when the moment requires it, how to transmute the impulse to flee or fawn into the capacity to stay and say *no.*
+```
+
+## ch9 recap -- the You-know-how Regent paragraph
+
+```
+You know how the Regent builds what lasts: how to ask *what am I protecting and why*, how to honor what came before without being imprisoned by it, how to create the structure that lets the next person act.
+```
+
+## ch9 recap -- the You-know-how Architect paragraph
+
+```
+You know how the Architect designs for the next person: how to make the right thing easy, how to build the system that hands off gracefully, how to design the escape route that others can follow.
+```
+
+## ch9 recap -- the You-know-how Diplomat paragraph
+
+```
+You know how the Diplomat holds the field across difference: how to make space for people who disagree, how to hold the tension without collapsing it, how to name your walk-away price before you need it.
+```
+
+## ch9 recap -- the You-know-how Sage paragraph
+
+```
+You know how the Sage sees the whole game and plays their part: how to know which game you're operating in, how to switch deliberately, how to return from the mountaintop without looking down on the people still climbing.
+```
+
+## ch9 recap -- the list closer (its list is cut)
+
+```
+Everything on that list started as something you learned and became something you can do.
+```
+
+## ch9 recap -- the return restatement
+
+```
+You know that the return is not optional, that coming back makes the work real. That carrying what you found back to the village is the whole point.
+```
+
+## ch9 recap -- the stray WAVE-loops line between dividers
+
+```
+---
+
+You know that the WAVE loops, thousands of times, and that each pass through it goes a little deeper.
+
+---
+```
+
+## ch9 -- the sixth telling: the three walk-includes-failure paragraphs
+
+```
+The walk includes failure. As an actual event, rather than as a lesson about resilience.
+
+Some of what you build will fail. Some will work and stall. Some will land and go nowhere. Some will meet the village and come apart on contact. You will make something and present it and find that the villagers weren't ready for it, that what you built as liberation they experienced as threat. That's the Outlaw's cost, and it arrives dressed as a failure of character. The villagers often resist the new game until they don't, and the period of resistance belongs to the walk.
+
+Some failures are just failures. The design was wrong. The timing was wrong. What you built didn't solve the problem you thought it would solve. That's data. The Player doesn't treat failure as defeat. The Player treats failure as the WAVE: wake up to what actually happened, open up to it before you explain it, clean up what didn't work, grow up into the next version, show up.
+```
