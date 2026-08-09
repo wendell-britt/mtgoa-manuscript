@@ -198,6 +198,12 @@ def book():
         # the same word we used last time. Nothing else here asks that, which is how an
         # American book carried British spellings to its last pass.
         ("7d copyedit ", ["instruments/copyedit.py"], "reporting only"),
+        # 7e, added 2026-08-07. A stale cross-reference is not a voice defect, a heavy
+        # sentence or a banned word, so nothing above sees it. Two were found by hand
+        # on the day this was specified: the index pointing three terms at Ch 7 §2
+        # after the EA table moved, and index_build.py's own term list still matching a
+        # move that had been renamed, which would have dropped the entry on rebuild.
+        ("7e xref     ", ["instruments/xref.py"], "reporting only"),
     ]
     bad = 0
     for label, cmd, want in steps:
