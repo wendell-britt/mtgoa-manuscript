@@ -348,3 +348,46 @@ padding it: the terms glossary at ch8:133 is jargon *with* translation, which is
 stay condition, not her leave condition; the three table sketches at 109–113 are scenes;
 and the Walk Back's remaining mass is the section she stays for. Those are author's calls,
 and they were left as calls.
+
+## Tier 2 — ch7 §4, 45 compression diffs (1,125 words)
+
+The Diplomat's Practice ran five per-mode deep-dives on an identical seven-block template,
+and it was the template that repeated, not the teaching. A 5-gram scan measured the
+duplication before anything was cut: *"absence shows up as a kind of"* ×4, *"the Translate
+move carries the"* ×5, *"The Control move redirects this pattern into"* ×2, and
+**intellectual superiority** defined in full at both 315 and 358, forty-three lines apart.
+Every mode stated its absence and its distortion three times each: once as a portrait,
+once as an abstraction, once as a named condition.
+
+The largest single change is Mode 1's Translate layer. *Translate 1 — Anxiety → Interest*
+restated Alchemy 1's arc **and** its fix-question, so Mode 1 ran seven labelled sub-blocks
+where Modes 2–5 run six. It merges into the surviving *Translate*, which takes Mode 1 from
+828 words to 584 and gives it the same shape as its four siblings. The em-dash budget goes
+down by one, which is the only direction that ratchet turns.
+
+**The channel correction survives the merge.** `instruments/arc_completion.py`'s second FIX
+rewrote *"runs channel-wide, from Metal (fear/anxiety) to Wood (joy/interest)"* into *"runs
+the length of one channel, from the fear end of Metal to the curiosity at its far end"* —
+and that corrected sentence lived inside the deleted block. It is rehoused verbatim at the
+end of Alchemy 1, where it says the same thing about the same arc. Diff 7 exists for that
+reason and is net −2 words on its own.
+
+**The marginalia anchor is intact.** `marginalia/insertions.py:297` keys the Elian/Corin
+block on the literal string *"the truth rather than an interpretation"*. Diff 14 edits that
+line and the anchor phrase survives verbatim; shipcheck's round-trip reads clear.
+
+Untouched: all ten `**Alchemy N — X → Y**` headings, which is every arc the EA table
+points at. All five named structures (Interpreter's Discipline, Precedent of Presence,
+Three-Part Repair, Stake-Surfacing Close, Discernment Check) and every fix-question inside
+them. **Refuse False Equivalence** in both its Section 4 placement and its Section 6 move.
+The retro scene, the nine-day statement, the family-dinner sweep, the swallowed no and the
+body block — Section 4 loses zero scenes. Draw the Axis, the Presence Ecology, The Tell,
+the 3-2-1, the domain blocks, the Challenger handoff at 497.
+
+The generator returned 1,125 against a 1,400 target and named where the remaining 273
+would have to come from: a mode closer deleted outright, a live scene, or a named practice.
+Those are author's calls, and they were left as calls.
+
+One correction to the generator's own board: it flagged `zombie 1.36 → 1.41` measured on
+the changed passages alone. At chapter level the counter does not move — ch7 reads 1.19
+before and after — because the absolute count falls 78 → 59 alongside the word count.
