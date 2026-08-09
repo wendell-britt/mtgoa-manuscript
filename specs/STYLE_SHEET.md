@@ -163,7 +163,27 @@ agency board scores against:
 > Ines · Ravi · Nadia · Tomas · Dara · Yusuf · Ana · Meera · Dele · Alan · Ellis · Ade ·
 > Femi · Tess · Bea · Ruth · Jo
 
-**Also named in the book:** Imani · Dana · Corin · Irix · Maera Voss · Kit.
+**The Examples' second cast, and it was missing from this sheet until 2026-08-09.** §7 said
+the list came from `agency.py`'s `ANIMATE` set and then transcribed **only line 88**. Line 87
+is also `ANIMATE` and carries a whole second group, so five names the agency board already
+scores were absent from the book's memory:
+
+> Priya (`ch5:757`, `ch4:651`) · Marcus (`ch5:668`) · Nia (`ch7:675`) · Sam (`ch2:345`) ·
+> Rosa (`ch9:530`)
+
+All five are spelled consistently at every site, so nothing in the manuscript was wrong — the
+sheet was short. Found by four of the eight chapter readers independently, which is what a gap
+in a shared reference looks like.
+
+**Also named in the book:** Imani · Dana · Corin · Irix · Maera Voss · Kit · Jess (`ch6:672`).
+
+**The six school bylines**, one per Face chapter, each a forename used nowhere else:
+Ilse Marrow (`ch3:9`) · Ren Alcott (`ch4:9`) · Tomas Vey (`ch5:9`) · Sim Orrel (`ch6:9`) ·
+Nell Ferran (`ch7:9`) · Veyra Sol (`ch8:9`). **`Tomas Vey` is the one exception to the
+never-reused rule** — *Tomas* is in `ANIMATE` and appears as an Example person at `ch4:667`.
+Recorded rather than changed: renaming a character is a decision, not a copyedit.
+
+**Place names:** Oreve (`ch3:94`, `ch4:14`) · Sethen (`ch3:14`, `ch9:14`).
 
 **`Kit` is deliberately excluded from `ANIMATE`**, ruled 2026-08-05, because `ch8:598` uses it
 as an object — *"The kit does have a logic"* — and admitting it would flip an agentless

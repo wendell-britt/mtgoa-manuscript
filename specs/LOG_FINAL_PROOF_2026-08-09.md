@@ -478,3 +478,80 @@ shipcheck SHIPPABLE · workbook 404pp, trade 398pp, both `PDF OK`.
 
 **The workbook proof now reads 0 widows, 0 orphans, 0 hyphen ladders, 0 fragments and no
 stranded heading.**
+
+---
+
+## Sitting 7 — the ch7 items, and the one that turned out to be authorship
+
+Three items carried over from the parallel deep read, plus the sheet's short cast list. **Two
+were fixed, one was stopped by evidence, and the stop is the entry worth keeping.**
+
+### Applied
+
+**`ch7:251` — the only cross-reference in the book that names its own section.** Measured at
+occurrence level: **18 `Section N` references in body prose, 17 point out of the section they
+sit in, 1 does not.** This one sat 47 lines inside Section 4, four lines above `### Mode 1`,
+and said *"Section 4 works each mode's full arc through in its five deep-dives."*
+
+Now *"What follows works each mode's full arc through in five deep-dives."* `What follows` is
+house idiom with three body uses (`ch1:286`, `ch3:437`, `ch4:339`). **A subagent had claimed
+`This section` was house idiom with four uses; two of those four are inside `>` marginalia and
+none is sentence-initial**, so that claim did not survive checking. Three phrasings were scored
+against the original and landed within 0.08 of each other on every counter, so the choice was
+made on prose rather than on numbers.
+
+**`ch7:571` — a pointer that sends the reader to one section and then names something in
+another.** *"Read that again against Section 4, because the Repairer is one of your five modes
+and Move 4 is a structure for receiving rupture."* The Repairer is Mode 4, in Section 4 at 412.
+**Move 4, `Repair After Rupture`, is in Section 6 at 717.** The chapter separates the two
+vocabularies rigorously — `ch7:887` *"The five modes"* against `ch7:890` *"The five game
+moves"* — so the `Move` is deliberate and the pointer was short. Now *"Sections 4 and 6"*.
+
+**`STYLE_SHEET` §7 was missing five names it claimed to carry.** The sheet said its cast list
+came from `agency.py`'s `ANIMATE` set and then transcribed **only line 88**. Line 87 is also
+`ANIMATE`: Priya, Marcus, Nia, Sam and Rosa were scored by the agency board and absent from the
+book's memory. All five are spelled consistently everywhere, so the manuscript was never wrong
+— **the reference was.** Four of the eight chapter readers found this independently, which is
+what a gap in a shared reference looks like. Added, with the six school bylines and the two
+place names, and with `Tomas Vey` flagged as the one byline reusing a cast forename.
+
+### Not applied — the EA table, and why
+
+The table at `ch7:243–249` disagrees with two of the five deep-dives it indexes. **Translator**
+reads *Disagreement → Dialogue → Peace*; its deep-dives are *Arrogant Distance → Generous
+Hearing* and *Translation Guilt → Legitimate Partiality*. **Repairer** reads *Rupture → Repair
+(moral equivalence → discerned equivalence) → Poignance*; its deep-dives are *Betrayal Wound →
+Discerning Trust* and *Performance Forgiveness → Genuine Repair*, and *equivalence* is Move 5's
+material.
+
+**I was about to align the table to the deep-dives. That would have been wrong.**
+
+`instruments/arc_completion.py` carries a derivation of exactly this table. Its conclusion:
+
+> **ch7 derives four for five, and the fifth is forced.** … **Field-Holder is Wood by
+> elimination and the table was right all along.** … The Wood work is the arc the table names
+> and the section never runs.
+
+So for Field-Holder the *section* is out of step, not the table. That file then stops:
+
+> Not done here: Field-Holder's Section 4 alchemies. The derivation now settles what they have
+> to say, but **rewriting them is authorship rather than arithmetic.**
+
+**Two further checks confirmed the table is load-bearing.** `back_matter/index.md` pins bliss,
+poignance, triumph, wonder and peace to **Ch 7 §4**, which is this table — so the satisfied
+states cannot move. And the EA Signal column is *derived*, not chosen: the channel is read off
+the terminus. The only floating part is the middle arc text.
+
+**Also checked, and it is why the deleted phrases would have been safe but the edit still is
+not:** *moral equivalence / discerned equivalence* appears **only** in this table, and
+*Disagreement → Dialogue* appears **only** in this table. Nothing else in the book depends on
+either. The mismatch also predates the 2026-08-07 merge — `5ac778f` left both rows untouched —
+so it is long-standing drift rather than merge damage.
+
+**The ruling needed is which side moves**, and it is the same class the derivation already
+declined to make for Field-Holder. Recorded here rather than guessed at.
+
+### Board after
+
+gate PASS · round-trip byte-identical · xref 0 broken / 0 unreferenced · copyedit 0 fixable ·
+shipcheck SHIPPABLE.
