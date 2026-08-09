@@ -422,3 +422,59 @@ fixed:** it is a template change and it will repaginate.
 gate PASS with the new counter · review.py unchanged on every other step · shipcheck
 SHIPPABLE · workbook 404pp and trade 398pp, both `PDF OK`, every opener on a recto, folio
 continuous.
+
+---
+
+## Sitting 6 — the stranded pseudo-headings
+
+**The defect.** Nine pages ended on a bold line with nothing under it, its text overleaf.
+`mtgoa.typ:508` already sets `show heading: set block(sticky: true)`, so no real section title
+is ever stranded — **but the book writes many of its sub-headings as `**bold**` paragraphs
+rather than as `###` headings**, and pandoc renders those as `#strong[...]`, which is not a
+heading element. The guard was there and could not see them.
+
+### The hook that did not work, and the one that did
+
+`#show par: it => if it.body.func() == strong { block(sticky: true, it) }` **compiled and
+changed nothing.** Proved it against a controlled two-page case: heading stranded before, still
+stranded after. An explicit `#block(sticky: true)[#strong[...]]` on the same case moved the
+heading down, so **`sticky` works and the show rule was the wrong hook.**
+
+So the fix went into `instruments/book/devices.lua`, which already carries exactly this idiom
+for the device divs: emit a raw Typst open, the content, a raw close. A `Para` whose entire
+content is one `Strong` — trailing spaces and soft breaks discounted — is wrapped in
+`#block(sticky: true)[...]`.
+
+**Why applying it to all 114 bold-only paragraphs is safe rather than heavy-handed:** `sticky`
+only does anything to a block that would otherwise fall last on a page. A pseudo-heading
+mid-page is untouched. The risk was that a long bold pull-statement going sticky would push
+several lines and leave a short page, so it was **measured rather than assumed.**
+
+### What it cost, measured
+
+| | before | after |
+|---|---|---|
+| pages ending on a bold pseudo-heading | 9 | **2** |
+| workbook page count | 404 | **404** |
+| both-full spreads, median depth difference | 10.78pt | **10.87pt** |
+| widow / orphan / stack / fragment | 0/0/0/0 | **0/0/0/0** |
+
+Nothing moved. The depth difference shifted by 0.09pt against a 15.6pt line, page count is
+identical, every opener is still on a recto and the folio is still continuous.
+
+**The two survivors are not defects**, which is why they were read rather than counted:
+`p5` is the title page, where the author's name is the last element by design, and `p185` is
+the **tail line of a wrapped bold sentence** — *"allyship requires something worth belonging
+to, and the willingness to carry it forward even when it is broken."* — whose earlier lines sit
+on the same page. Neither is a heading with its text overleaf.
+
+**The trade trim benefited too**: its widow went 1 to 0. Its 1 orphan and 3 fragments remain,
+since those belong to its own measure.
+
+### Board after
+
+gate PASS · round-trip byte-identical · xref 0/0 · dupes 0 · copyedit 0 fixable ·
+shipcheck SHIPPABLE · workbook 404pp, trade 398pp, both `PDF OK`.
+
+**The workbook proof now reads 0 widows, 0 orphans, 0 hyphen ladders, 0 fragments and no
+stranded heading.**

@@ -66,3 +66,31 @@ function Header(el)
   end
   return pandoc.RawBlock("typst", call)
 end
+
+-- A paragraph whose whole content is bold is a pseudo-heading, and Typst cannot
+-- see that it is one.
+--
+-- `mtgoa.typ` already sets `show heading: set block(sticky: true)`, so no real
+-- section title is ever stranded at the foot of a page with its text overleaf.
+-- But the book writes many of its sub-headings as `**bold text**` paragraphs
+-- rather than as `###` headings — `The method:`, `Try this now.`, the five
+-- `Neutral Channel:` labels — and pandoc renders those as `#strong[...]`, which
+-- is not a heading element, so the sticky rule never applies to them. The 2026-08-09
+-- proofread found nine pages ending on one.
+--
+-- Wrapping them in a sticky block is the whole fix: sticky only does anything to
+-- a block that would otherwise fall last on a page, so a pseudo-heading mid-page
+-- is untouched and one at the foot moves down to sit with the text it heads.
+function Para(el)
+  local n = #el.content
+  while n > 0 and (el.content[n].t == "Space" or el.content[n].t == "SoftBreak") do
+    n = n - 1
+  end
+  if n ~= 1 or el.content[1].t ~= "Strong" then return nil end
+
+  local out = pandoc.List()
+  out:insert(pandoc.RawBlock("typst", "#block(sticky: true)["))
+  out:insert(el)
+  out:insert(pandoc.RawBlock("typst", "]"))
+  return out
+end
