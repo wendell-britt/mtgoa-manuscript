@@ -259,3 +259,84 @@ Six more British forms, every one found by a reader: *rigour* · *programme* · 
 - Per-chapter structural notes from all eight reads, logged and not acted on under spec §6.
 
 **The deep read is done, ch1 through ch9. What remains is the true proofread, on the built PDF.**
+
+---
+
+## Sitting 4 — the true proofread, on the built page
+
+**The workbook trim is the proof**, ruled 2026-08-09. `build_pdf.py --trim=workbook`
+produces `build/MTGOA_2026-08-09_workbook.pdf` — **404 pages, 7.5x9.25in, 12pt.** The trade
+6x9 is 398 and paginates differently from ch4 onward, so a proofread against one does not
+transfer to the other.
+
+### The toolchain
+
+`typst` and `pypandoc-binary`, both pip wheels, neither present on this container. Nothing
+else is needed: the interior sets in fonts embedded in the Typst binary, which is why
+`--check` fails on any font warning and why the build is reproducible off this machine.
+`pymupdf` for reading the result back. **`pdfplumber` is unusable here** — its `cryptography`
+dependency panics on this image.
+
+### `instruments/proofread.py` — new
+
+`build_pdf.py --check` already proves the structural things from the template's own record:
+openers on a recto, folio continuous, blank versos genuinely blank. **Widows, orphans, runts
+and hyphen ladders cannot be proved that way.** They are properties of where the text broke,
+they need the rendered page, and there are 404 of those. **This exists so a person looks at
+four pages instead of four hundred.**
+
+### Two bugs in my own instrument, both of which faked a clean board
+
+**1 · Margins are mirrored, and the first version averaged the two left edges into one.**
+Body sets at x0 **72.0** on a recto and **97.2** on a verso. A single derived margin meant
+every page of the other parity fell outside the x0 filter and was silently skipped — **the
+instrument read half the book and reported `WIDOW 0 · ORPHAN 0`.** A clean board from an
+instrument that has not looked at anything is worse than no instrument.
+
+**2 · The indent detector took the nearest left edge instead of the most frequent one**, so
+it locked onto the *list* indent at 79.2 rather than the paragraph indent at 85.8. Every
+numbered step in the book then read as a paragraph opening, and the orphan board filled with
+list items. Both fixes are commented in place.
+
+### One false positive the eye caught and the machine could not
+
+`p69` reported an orphan: *"It worked. The cost landed somewhere the villagers never thought
+to look."* It is a **complete one-line paragraph** that happens to fill the measure, followed
+by a marginalia block. Width alone cannot separate that from a paragraph running over the
+break. **Rendering the page and looking at it is what settled it**, and the rule now requires
+an orphan candidate to be the last content of any kind on its leaf.
+
+### The finding, and the fix
+
+**Three paragraphs closed on the back half of a hyphenated word** — `p190` *where.* · `p228`
+*ation.* · `p233` *drawal.* Page 214 read *"...impact on the situ-"* / *"ation."*, with
+`ation.` alone under a full page of argument.
+
+**The repair is in the template, not the prose**, which is what the proofread stage is for.
+`instruments/book/mtgoa.typ` set no line-breaking costs at all, so Typst's default let the
+breaker take that trade. Raised to `costs: (runt: 400%, hyphenation: 150%)`.
+
+**Result: all three gone, and one-word last lines fell 139 to 99.** Page count unchanged at
+404, every opener still on a recto, folio still continuous — the repair was local.
+
+### Board — the workbook proof is clean
+
+```
+WIDOW 0 · ORPHAN 0 · STACK 0 · FRAGMENT 0     404 pages
+```
+
+### The trade trim is not clean, and is not the proof
+
+Same template, different measure, so the breaks fall elsewhere: **WIDOW 1** (`p312`, *4. The
+Elder*) · **ORPHAN 1** (`p119`) · **FRAGMENT 3** (`p91` *Spiral.* · `p129` *nation.* · `p252`
+*mindedness.*). Recorded so that a later decision to ship 6x9 knows the trade edition needs
+its own pass rather than inheriting this one. **The costs change helped the workbook and did
+not clear the trade**, which is the clearest possible demonstration that page-break defects
+belong to a trim and not to a book.
+
+### What this pass still does not check
+
+**Rivers, loose lines and bad rags.** A machine reading extracted text cannot judge them
+honestly, and a guess would put noise on a board whose whole value is that it is four lines
+long. They want an eye on the proof PNGs, and that is the one remaining piece of the
+proofread.
