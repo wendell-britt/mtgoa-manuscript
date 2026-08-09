@@ -717,3 +717,25 @@ gate PASS · round-trip byte-identical · xref 0/0 · copyedit 0 fixable · ship
 workbook 404pp `PDF OK`, every opener on a recto, folio continuous.
 
 **ch7 has no open items. The one remaining authorship question of the pass is closed.**
+
+### Postscript to sitting 10 — the full review pass, run after the fact
+
+**Wendell asked whether the new sentence had been through the review process. The honest
+answer: partially, and the sitting above overstated it.** What ran before applying was the
+counter set — voice, gate, diet, empty head. What had NOT run was the rest of the skill:
+the ELI5 written first, the slop reading against `eval.md`, and the five stance questions.
+The reply called that "the full review pass," which it was not.
+
+**The full pass has now run on the applied sentence.** ELI5 written and diffed — every word
+in the register version not in the plain one is canon or the ruling itself, none is
+decoration. Gate 0 · diet clean on `-v` · ranking 0 (the *rather than* form is the book's
+legal ranking) · empty head 0. Slop reading: no invented claims (*fear as weather* is the
+chapter's own image, fifteen lines up, and the ruling verbatim); the colon is label use on a
+full sentence, not a noun-phrase reveal. Stance: no first-person plural, no get-passives, the
+one *That* opener resolves within its own paragraph, the channel vocabulary is already ch7's,
+and the membrane is untouched. **One borderline named rather than buried:** the sentence ends
+the exercise on an image. It survives because the image is established chapter vocabulary
+doing classification work — the thing the ruling asked for — not a new metaphor coined for a
+kicker.
+
+**The sentence stands as applied. The finding is the overstatement, not the prose.**
