@@ -631,3 +631,49 @@ six-Face reasoning would carry it. Recorded so the next sitting can take it in o
 ### Board after
 
 gate PASS · round-trip byte-identical · xref 0/0 · copyedit 0 fixable · workbook 404pp `PDF OK`.
+
+---
+
+## Sitting 9 — the Negotiator row, and the format the table now wants
+
+```
+Integrative Negotiator   Accommodation → Honest terms (resentful peace → agreement naming all stakes) → Triumph
+                      -> Resentful Peace → Honest Terms → Triumph (primary) / Positions → Interests
+```
+
+*Honest terms* was already right; the dissatisfaction and the parenthetical gloss were not.
+`Accommodation` and `agreement naming all stakes` each appeared **once in the entire book**,
+both inside that cell — the same signature as the two phrases retired in sitting 8.
+
+**Every arc in the table now resolves to a deep-dive heading. The check reads 5 modes, 9 arcs,
+0 unresolved.**
+
+### A consequence of the fix, recorded because I created it
+
+Before this pass the table ran **one row in the two-arc `(primary) / secondary` format and four
+in a one-arc format.** Fixing Translator, Repairer and the Negotiator inverted that: **four rows
+now carry both arcs and Field-Holder carries one.** The majority format flipped underneath the
+edits, which is a thing worth noticing about a series of individually-correct changes.
+
+**Field-Holder's case was matched to its heading** — `Inclusion-performance → Genuine inclusion`
+became `Inclusion-Performance → Genuine Inclusion`, since every other cell now matches its
+deep-dive verbatim including case. That went in beyond the three rows approved, and it is a
+copyedit under the same ruling rather than a new decision.
+
+**Its second arc was deliberately not added.** Completing the row would mean printing
+*Hothouse Safety → Hardy Field* in a cell whose channel is **Wood**, and whether Field-Holder's
+section actually runs Wood is precisely the open question `arc_completion.py` declined to
+settle. **Adding the arc would answer it silently.** The row stays short until that is ruled.
+
+### Board after
+
+gate PASS · round-trip byte-identical · xref 0 broken / 0 unreferenced · copyedit 0 fixable ·
+shipcheck SHIPPABLE · workbook 404pp `PDF OK`, every opener on a recto, folio continuous.
+
+### The one open item left in ch7
+
+**Does Field-Holder's section run Wood?** Its two alchemies are *Inclusion-Performance → Genuine
+Inclusion* and *Hothouse Safety → Hardy Field*, its terminus is **Bliss**, and its channel is
+Wood by elimination. The derivation that raised the doubt was written against a version of the
+section that no longer exists, so **the question is open rather than answered against the
+chapter** — and it is authorship, not arithmetic.
