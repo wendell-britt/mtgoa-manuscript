@@ -243,9 +243,9 @@ The Diplomat's practice works across the full spectrum. Each bridging mode rests
 | Mode | EA Signal | Dissatisfaction → Satisfaction |
 |------|-----------|-------------------------------|
 | **Bridge-Builder** | Metal/Fear | Anxiety → Curiosity → **Wonder** (primary) / Stage-Fright → Authentic Presence |
-| **Translator** | Earth/Neutrality | Disagreement → Dialogue → **Peace** |
+| **Translator** | Earth/Neutrality | Arrogant Distance → Generous Hearing → **Peace** (primary) / Translation Guilt → Legitimate Partiality |
 | **Field-Holder** | Wood/Joy | Inclusion-performance → Genuine inclusion → **Bliss** |
-| **Repairer** | Water/Sadness | Rupture → Repair (moral equivalence → discerned equivalence) → **Poignance** |
+| **Repairer** | Water/Sadness | Betrayal Wound → Discerning Trust → **Poignance** (primary) / Performance Forgiveness → Genuine Repair |
 | **Integrative Negotiator** | Fire/Anger | Accommodation → Honest terms (resentful peace → agreement naming all stakes) → **Triumph** |
 
 What follows works each mode's full arc through in five deep-dives, the dissatisfaction it carries and the alchemy that transmutes it. Calm is not the entry fee. Whatever you feel as you sit down, one of these five works with that feeling rather than around it.

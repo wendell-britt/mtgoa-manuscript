@@ -555,3 +555,79 @@ declined to make for Field-Holder. Recorded here rather than guessed at.
 
 gate PASS · round-trip byte-identical · xref 0 broken / 0 unreferenced · copyedit 0 fixable ·
 shipcheck SHIPPABLE.
+
+---
+
+## Sitting 8 — the EA table, ruled by the six Faces
+
+**Reopened because the stop in sitting 7 was based on a misreading of my own**, and the
+correction is the entry worth keeping.
+
+### The correction
+
+Sitting 7 recorded *"the table isn't the stale side, the section is"*, on the strength of
+`arc_completion.py`. **That over-read what the derivation proved.** It proved the **EA Signal
+column** — Bridge-Builder/Metal, Translator/Earth, Repairer/Water, Negotiator/Fire, Field-Holder
+Wood by elimination. **It ruled on nothing in the middle column.**
+
+Worse, its Field-Holder complaint describes alchemies named *Collapsed Calm → Active
+Containment*, and that phrase **exists nowhere in the manuscript** — only inside that file's own
+docstring. Field-Holder's section was rewritten after the derivation was written, and its row and
+deep-dive now agree. **So a stale finding about a third row was allowed to block a decision about
+two others.**
+
+### What the six Faces returned, and the one that decided it
+
+- **Shaman** — four of five rows open on a charge (*Anxiety*, *Inclusion-performance*,
+  *Accommodation*); the two disputed cells opened on *Disagreement* and *Rupture*, which are
+  situations. **By the table's own logic the odd cells were the table's.**
+- **Challenger** — cheapness only convicts a fix when it conceals a question. Here the teaching
+  is in the deep-dives and the table indexes it, so it conceals nothing.
+- **Regent** — two things could not move: the satisfied states, because `index.md` pins bliss,
+  poignance, triumph, wonder and peace to **Ch 7 §4**; and the channel column, because it is
+  derived. **The middle cell is the only hand-written part of the table.**
+- **Architect** — this pass has already ruled three times that when an index disagrees with its
+  destination the **pointer** moves: `ch7:705`, `ch8:634`, `ch3:999`. An exception here would
+  contradict all three. One table that lies teaches a reader to distrust every table.
+- **Diplomat** — Jordan uses the table as lookup and the deep-dives as teaching. Serving the
+  lookup means making it match.
+- **Sage** — the decisive read. Jordan's named drop-off risk for this chapter is *"if 5 channels
+  feels like more things to do."* Rewriting two deep-dives at final proof **adds** material to
+  the chapter most at risk of feeling like homework. Spec §6 forbids it outright.
+
+**The evidence that settled it is in Jordan's own profile:** *"will skim theory, will not skip a
+story, will stop for a named move with a practice."* Each deep-dive ends on a self-talk line —
+*I stop apologizing for having a position I am translating from* — which is exactly what Jordan
+stops for. *Disagreement → Dialogue* is jargon without translation, a listed drop-off trigger.
+**Rewriting the deep-dives would have deleted the thing that holds Jordan and kept the thing that
+loses them.**
+
+### Applied
+
+```
+Translator  Disagreement → Dialogue → Peace
+         -> Arrogant Distance → Generous Hearing → Peace (primary) / Translation Guilt → Legitimate Partiality
+
+Repairer    Rupture → Repair (moral equivalence → discerned equivalence) → Poignance
+         -> Betrayal Wound → Discerning Trust → Poignance (primary) / Performance Forgiveness → Genuine Repair
+```
+
+Both follow the Bridge-Builder row's established format, keep their derived channel and canonical
+terminus, and gate clean. The deleted phrases appear nowhere else in the book, and *moral
+equivalence* had been labelling the Repairer with **Move 5's** material.
+
+### Found by verifying the fix, and left open
+
+A check that every arc in the table resolves to a deep-dive heading now returns **four of five**.
+The outlier is **Integrative Negotiator**: the row reads *Accommodation → Honest terms (resentful
+peace → agreement naming all stakes)* while its deep-dives are *Resentful Peace → Honest Terms*
+and *Positions → Interests*. `Accommodation` and `agreement naming all stakes` each appear once in
+the book, both inside that cell.
+
+**Not applied, because it was not what was approved** — the ruling covered two rows and this is a
+third, softer case: *Honest terms* is right, the dissatisfaction and the gloss are not. The same
+six-Face reasoning would carry it. Recorded so the next sitting can take it in one line.
+
+### Board after
+
+gate PASS · round-trip byte-identical · xref 0/0 · copyedit 0 fixable · workbook 404pp `PDF OK`.
