@@ -200,9 +200,7 @@ Real emotional alchemy is the practice of staying with the emotion long enough t
 
 When you do this, when you make space for fear instead of overriding it, fear teaches you what you actually care about. (Not your stated values. Your actual ones. The ones you'd die for with no one watching, without the post.) Because fear shows up at the boundary of what matters to you. It shows up when something you're attached to is at risk. It shows you your real values, not your performed values. Your real priorities, not your productivity system.
 
-When you do this with anger, when you let yourself be angry instead of converting it into activism, anger teaches you where you're willing to stand. Anger is the voice that says "this is not acceptable." Not the system. Your body. Your specific nervous system, with your specific history, drawing a line. That line carries precious information about who you actually are and what you're actually willing to participate in.
 
-When you do this with sadness, when you grieve instead of rushing past it, sadness teaches you what was real. Because sadness is the feeling that only arrives when you lose something that truly mattered. Sadness says "this was true. This connection was real. This loss is significant." In a world that constantly tries to convince you that you're overreacting, that it wasn't a big deal, that you should move on. Sadness is the voice that says "no. This mattered. I'm allowed to feel that."
 
 When you do this with joy, which feels like the easy one and is not (it requires you to stop moving, harder than anything else the School of the Body teaches), when you *land* in joy instead of using it for fuel, joy teaches you what's aligned. Joy shows up when you're doing something that matches your actual values, your actual gifts, your actual becoming. Joy is not the same as happiness or productivity. Joy is the feeling that says "yes. This is real. I am home."
 
@@ -385,12 +383,6 @@ Here the shift happens: from dissatisfaction (the feeling is overwhelming, confu
 
 **In practice:** After you've understood what the feeling showed you, spend a moment letting your nervous system know: "I get it. I understand what this was showing me. The message landed."
 
-This might look like:
-- A deep breath where you actually feel your body relax slightly
-- A shift in your thinking from "why is this happening?" to "I see what this is teaching me"
-- A sense of resolve or clarity where before there was confusion
-- A feeling of being met, like the feeling has been witnessed and understood
-
 You're not trying to make the feeling go away. You're arriving at a moment of mutual understanding: the feeling has delivered its message, and you've received it.
 
 #### Stage 5: Show
@@ -409,13 +401,6 @@ The Show stage finally answers: "What does this move require me to do now?"
 The answer comes not from willpower or performance, but from the wisdom you've just integrated.
 
 **In practice:** Once you've integrated the lesson, take action aligned with it.
-
-This might be:
-- Saying something you needed to say from a place of clarity instead of reactivity
-- Setting a boundary you've been afraid to set
-- Letting yourself rest because you've honored what was real
-- Moving with purposefulness because you now know what's aligned
-- Leading from the bigger perspective you suddenly have access to
 
 The action differs with each feeling and each situation. What matters: it comes *from* the integrated understanding, not from your habitual patterns.
 
