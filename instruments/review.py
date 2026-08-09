@@ -194,6 +194,10 @@ def book():
         # verifies the marginalia frame does not alter the body, never that the body
         # says anything once. Found by accident while renaming ch3's Move 5.
         ("7c dupes    ", ["instruments/dupes.py"], None),
+        # 7d, added 2026-08-07 for the final proof. Consistency, not quality: is this
+        # the same word we used last time. Nothing else here asks that, which is how an
+        # American book carried British spellings to its last pass.
+        ("7d copyedit ", ["instruments/copyedit.py"], "reporting only"),
     ]
     bad = 0
     for label, cmd, want in steps:

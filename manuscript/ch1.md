@@ -203,7 +203,7 @@ The person I found was hours in and frightened. I know how to sit with that. Tri
 
 Afterwards the person who had come to find me worked out that it had not been me at all. It had been somebody at that event who looked like me.
 
-Two moments from that night matter here. The first is that I went without saying a word in my own defence. I could not tell you how that looked from outside, because I was not watching for that. I was going to find somebody.
+Two moments from that night matter here. The first is that I went without saying a word in my own defense. I could not tell you how that looked from outside, because I was not watching for that. I was going to find somebody.
 
 You cannot read allyship off how it looks. The evidence arrives too late. Nobody can see your intention. What people can see is what your move did to somebody, and that lands late, sometimes years late, while the performance lands at once. So the confusion does not fall evenly. Whoever performs well collects before anybody can check, because the counter pays out on the performance and the impact is still on its way.
 

@@ -105,6 +105,12 @@ would look. It belongs here.** A move name is **capitalised when the sentence na
 **Both spellings are canon.** ch3 obeys this at all five of its sites and it was nearly
 "corrected" into inconsistency on 2026-08-03.
 
+**The same rule governs the four domains**, found 2026-08-07 by `copyedit.py` reporting three
+false positives. *Direct Action* names the domain; *taking direct action* describes the
+activity and is correctly lowercase. The book renders the set as gerunds at `ch2:567`,
+`ch3:940` and `ch9:680` — *gathering resources, raising awareness, direct action, skillful
+organizing* — and all three are right.
+
 **Always capitalised:** the six Faces (Shaman, Challenger, Regent, Architect, Diplomat, Sage)
 · the Player · the eight daemons (Protector, Controller, Skeptic, Fixer/Healer, Emotional
 Body, Victim, Damaged Self, Vulnerable Child) · the Forest · the Arcade · the WAVE · the four

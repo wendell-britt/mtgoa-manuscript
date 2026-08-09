@@ -680,7 +680,7 @@ In practice: when the charge lands, start a clock instead of a sentence. Thirty 
 
 In practice: before the conversation, finish one of two sentences out loud. *A line was crossed and I want it to stop.* Or: *something was lost and I want you to know what it cost.* Say the truer one when you get there, whichever it is. The second sentence costs more to say, and it is the only one that can be answered.
 
-**Example:** Dara's leave starts in March and your colleague has staffed every March project around her without asking her. The sentence that wants out is *you have written her off and it is insulting.* Fire. The truer one runs: *Dara found out she was off the spring work from a calendar invite, and I think we have told her what we think she is worth for the next year.* Water. Say the second. Your colleague does not defend, because a defence answers an accusation and Water made a report.
+**Example:** Dara's leave starts in March and your colleague has staffed every March project around her without asking her. The sentence that wants out is *you have written her off and it is insulting.* Fire. The truer one runs: *Dara found out she was off the spring work from a calendar invite, and I think we have told her what we think she is worth for the next year.* Water. Say the second. Your colleague does not defend, because a defense answers an accusation and Water made a report.
 
 **The test:** You named the channel before you spoke, and the sentence you actually said matched the one you named. The content did not get softer once the channel was named, which is how you know you used the naming to aim and not as an exit.
 
