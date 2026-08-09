@@ -288,3 +288,35 @@ cut it named sits seventy lines downstream, not above. The cut still has a real 
 reason (it is the third recitation in the section, and the full six-stage version runs
 fourteen lines down applied to the reader's own life), but it goes back to Wendell on that
 reason rather than on the one that was wrong.
+
+## Tier 2 — cross-chapter machinery sweep (S2/S4 mostly), 16 diffs (~500 words)
+
+Three repeated structures were measured across all six chapters that carry them before
+anything was cut, and most of what looked cuttable turned out to be six-chapter formula
+and was left alone: the deck-explanation italic block (×6), the *From Card to Quest*
+opener (×5), the daemon re-teach (×5), the whole *3-2-1 on Your X* frame (×6), and the
+*Take Out of the Forest* closer with its stranger's-Forest line (×6). What moved instead:
+
+- **What You Take Out of the Forest (ch3, ch4, ch5, ch6, ch7, ch8).** Each of these
+  paragraphs states its capacity, then works an example of it, then states it again as an
+  aphorism. The opener formula — *"The X developed does what nothing else in this chapter
+  can do: it…"* — is verbatim in all six and is untouched in all six. What came out is the
+  middle: a Strategist paragraph that reprinted its own EA table row, a Disruptor
+  definition ch4 §7 already carries word for word, and four aphoristic restatements.
+- **Your Twenty Cards (ch6, ch7, ch8).** The paragraph after the italic block re-walked
+  the chapter's own five stages one line before the shadow grid restated them. In ch7 and
+  ch8 it also duplicated its own *where it bites* line eight lines below. The closer —
+  *"Pick a domain instead and you are choosing the arena. Down is the sequence, across is
+  where it lands."* — is kept verbatim in every chapter, as are all grids, card names and
+  draw prompts.
+- **ch5's two 3-2-1 framing lines**, the only ones in six chapters that re-teach the
+  mechanism ch4 already teaches in full.
+
+One collision retired on the way past: ch7 and ch8 both claimed Grow Up was "the only move
+in the deck that asks…" about two different things. ch7's version goes; ch8 keeps the claim.
+
+**Held, not applied:** diff 12, ch4:487's *"You didn't become the villain. You recovered
+the capacity you split off."* The generator flagged it as its own lowest-confidence call
+and it is right to: the line lands immediately after a reader has run 3-2-1 on a person
+she dislikes, which makes it reader-care rather than restatement. Twelve words is not
+worth taking that out from under Jordan.

@@ -574,7 +574,7 @@ The tell is never the position. The tell is whether you ever move. An auditor th
 
 The Skeptic developed does what nothing else in this chapter can: it makes your line credible. Not to other people first, to yourself. When the auditor has done its narrow job honestly and come back with *real, and current,* you are no longer arguing with yourself while the moment burns. You are aimed.
 
-That is the Disruptor's foundation. This chapter trains it as the willingness to be unwelcome on a charge you have checked and chosen to trust, clarity without cruelty, held steady long enough to say one sentence and stay for what follows. Fighting comes easy by comparison, and so does certainty.
+That is the Disruptor's foundation. What this chapter trains is clarity without cruelty, held steady long enough to say one sentence and stay for what follows. Fighting comes easy by comparison, and so does certainty.
 
 You know what your auditor is for now. That is what you take out.
 

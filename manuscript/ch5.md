@@ -463,7 +463,7 @@ The Regent asks you to: Inherit: *this is what came to me.* Honor: *this part of
 
 ### 3-2-1 — Reclaim What You Called Careless
 
-An inheritance you cannot put down turns everyone who put theirs down into a type. They read as careless with what other people built. That reading is doing work for you, and this is where you take the work back.
+An inheritance you cannot put down turns everyone who put theirs down into a type. They read as careless with what other people built. That reading is doing work for you.
 
 Solo, written or spoken, fifteen to twenty-five minutes.
 
@@ -471,7 +471,7 @@ Solo, written or spoken, fifteen to twenty-five minutes.
 
 *There is a part of me that keeps performing a practice I stopped believing in, because dropping it would feel like betraying the person who built it.* If that is not your charge, say the one that is.
 
-That part has an opposite, and you have already given the opposite a face. Pick them. Someone who let go of something you are still carrying and did not appear to grieve it, or who changed a practice you were holding and slept fine. Not somebody on your side.
+Its opposite already has a face. Pick them. Someone who let go of something you are still carrying and did not appear to grieve it, or who changed a practice you were holding and slept fine. Not somebody on your side.
 
 **3 · FACE IT.** Two paragraphs, third person, as much detail as you can hold. How big is the charge, and where does it sit in you?
 
@@ -592,9 +592,9 @@ The tell is never the position. The tell is whether anything ever gets accepted.
 
 ### What You Take Out of the Forest
 
-The Fixer/Healer developed does what nothing else in this chapter can do: it lets you say what is wrong with something you have already committed to. That combination comes rarer than it sounds. Most people manage one or the other, loyal and blind, or clear-eyed and uncommitted. Holding both makes an inheritance transmissible, because the next person needs the damage report and the commitment in the same hand. A tradition handed over with all its flaws named is a tradition someone can actually take.
+The Fixer/Healer developed does what nothing else in this chapter can do: it lets you say what is wrong with something you have already committed to. That combination comes rarer than it sounds. Most people manage one or the other, loyal and blind, or clear-eyed and uncommitted. Holding both makes an inheritance transmissible, because the next person needs the damage report and the commitment in the same hand.
 
-That lays the foundation this chapter builds on, and what it trains is the Storyteller: what you received, put into a form the next person can receive. The account of where this came from, what it cost, what broke, what still holds, and why any of it is worth their time. That is how something survives its carrier. Not by being held. By being told, in full, to someone who can pick it up.
+That lays the foundation this chapter builds on, and what it trains is the Storyteller: what you received, put into a form the next person can receive. The account of where this came from, what it cost, what broke, what still holds, and why any of it is worth their time. That is how something survives its carrier.
 
 Your group carries a story about where it came from and who it has been, and that story decides what the group protects and who belongs. Tell the story accurately and the group gets its choice back. Flatter the story and it hardens into a rule nobody may question.
 

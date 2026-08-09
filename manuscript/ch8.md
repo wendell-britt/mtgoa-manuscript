@@ -625,9 +625,9 @@ The tell is never the content of the self-assessment. Self-assessments should fe
 
 The Damaged Self developed does what nothing else in this chapter can do: it lets you know that you are configured differently and decline to treat that as a qualification or a disqualification. Just a fact about the instrument, held steady, informing the work without ruling on it.
 
-That combination is what this chapter trains, and it trains two capacities rather than one. The Escape Artist is the capacity to get out of a game: to put down a fight, a role, an identity that was load-bearing once, without needing the exit to be a verdict on the game or on yourself. Coaching is what the exit makes available. A coach who cannot leave the game is not coaching. They are recruiting, and everything they offer arrives with their own stake attached to it. The escape has to come first because developing another person requires you to want something for them that you do not need for yourself, and you cannot want that while you are still playing for something.
+That combination is what this chapter trains, and it trains two capacities rather than one. The Escape Artist is the capacity to get out of a game: to put down a fight, a role, an identity that was load-bearing once, without needing the exit to be a verdict on the game or on yourself. Coaching is what the exit makes available. A coach who cannot leave the game is not coaching. They are recruiting, and everything they offer arrives with their own stake attached to it. The escape comes first for that reason.
 
-Put them together and you get what the last chapter of a book about allyship actually needs: someone who can be in it fully, get out cleanly, and stay useful to the people still inside. Still in the game, still playing it, and free enough inside it to have both hands available for somebody else.
+Put them together and you get what the last chapter of a book about allyship actually needs: someone who can be in it fully, get out cleanly, and stay useful to the people still inside.
 
 You know what your Damaged Self is for now. That is what you take out.
 
@@ -802,7 +802,7 @@ The grid again, sixth operation of six, the last one. Five moves down, four doma
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
-The five moves are this chapter, in order. Wake Up is the Panoramic Seer with an instrument in its hand: every card at that stage asks the same question about a different arena. Open Up finds the Sage weakest by design, because witnessing a game from inside it is what the whole-board view makes harder rather than easier. Clean Up is where insight either becomes a diagnosis or hardens into a verdict, and two of those four cards read as a fork for exactly that reason. Grow Up is the move this chapter's daemon exists to prevent, the only move in the deck that asks what the playing does to the player. Show Up is legacy, and every card there names what remains once you stop holding it. Pick a domain and you're choosing the arena instead. Down is the sequence. Across is where it lands.
+The five moves are this chapter, in order. Open Up finds the Sage weakest by design, because witnessing a game from inside it is what the whole-board view makes harder rather than easier. Grow Up is the only move in the deck that asks what the playing does to the player, and Show Up is legacy, and every card there names what remains once you stop holding it. Pick a domain and you're choosing the arena instead. Down is the sequence. Across is where it lands.
 
 ### Drawing Against the Shadow
 
