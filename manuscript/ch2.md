@@ -54,7 +54,7 @@ Hold these three words, because the whole book turns on them. The **Shadow** is 
 
 I don't ask you to fix the Shadow. I ask you to find out what it has been protecting. That is a different project entirely, and it produces different results.
 
-The terrain here has no map. Employers, movements and communities expect capacities that most training never reaches, and most training does not say so. The curriculum opens where the work becomes visible, which is a long way past where it starts.
+The terrain here has no map. Employers, movements, and communities expect capacities that most training never reaches, and most training does not say so. The curriculum opens where the work becomes visible, which is a long way past where it starts.
 
 The onboarding has a section on psychological safety. It is a form. You sign it.
 

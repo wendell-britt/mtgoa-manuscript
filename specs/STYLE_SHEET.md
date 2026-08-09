@@ -6,7 +6,7 @@ shipped past every instrument.
 
 **This records what the book already does, measured, and flags where it does two things.**
 A style sheet is the book's memory: it goes to the designer and the proofreader so everyone
-applies the same conventions through production. **Every UNRULED item below needs Wendell.**
+applies the same conventions through production. **Four of the six open items were ruled by Wendell on 2026-08-07; two trivial ones remain.**
 
 ---
 
@@ -17,17 +17,18 @@ Measured: `-ize` **108** against `-ise` 3 · `honor` **26** / `honour` 0 · `beh
 
 **RULED:** US throughout the body.
 
-**Six open sites**, and they split into two questions rather than one:
+**Six open sites at the time of writing**, split into two questions rather than one:
 
 | site | word | note |
 |---|---|---|
-| `ch4:721`, `ch4:810` | *-ise* forms | **body prose. Fix.** |
+| `ch4:721`, `ch4:810` | *behaviour* | **body prose — fixed 2026-08-07** |
 | `ch4:28`, `ch6:29` | *behaviour*, *apologising* | inside `>` marginalia — **another hand** |
 | `ch8:663`, `ch9:701` | *organised* | inside `>` marginalia — the same hand, twice |
 
-**UNRULED: do the marginalia voices spell British?** Four of six sit in blocks written by
-other characters. If those hands are British, this is voice and the sheet should say so; if
-not, they are errors. **One ruling settles four sites.**
+**RULED 2026-08-07 — the marginalia hands may spell British.** *"marginalia hands can spell
+British."* So the `>` blocks are voice, not error, and the sheet says so. The two body sites
+at `ch4:721` and `ch4:810` were `behaviour` and are now `behavior`. **Body reads 24 / 1, and
+the 1 is a marginalia block.**
 
 `ch4:370`'s *Apologising* was mine, written 2026-08-07 and fixed the same day. It passed
 `gate`, all eight diet counters, the voice linter, `dupes` and `shipcheck` on the way in,
@@ -42,26 +43,26 @@ Glued em-dashes (`word—word`) are a `gate.py` hard fail.
 
 **Ellipses — UNRULED.** `...` twice against `…` four times. Trivial and wants deciding once.
 
-**Serial comma — UNRULED, and this is the real one.** Measured **27 with against 22 without.**
-The book is genuinely split down the middle, so there is no majority to defer to and no
-recovering an intent from the text. **Chicago takes the serial comma; recommend it, and it is
-a ruling either way.**
+**Serial comma — RULED 2026-08-07: take it.** Measured 27 with against 22 without before the
+ruling. **Of the 22, only 7 were genuine three-or-more-item lists** — the pattern was 68%
+false positive on pairs (*refined and unsaid*, *again and again*, *pause and ask*), which is
+why the sweep was read before it was run. All 7 fixed. Two of them were sentences written
+the same morning.
 
 **Quotation marks.** Double for speech and quoted material; single nested. Quoted self-talk
 uses *italics*, not quotation marks — see §5.
 
 ## 3 · Numbers
 
-**UNRULED.** `three` runs 77 times against numerals in 14 places, and nothing has ever
-decided it.
+**RULED 2026-08-07: the observed practice is the rule.**
 
-**Observed practice:** running prose spells out (*three years*, *five moves*, *four domains*,
+**The practice:** running prose spells out (*three years*, *five moves*, *four domains*,
 *six Faces*); numerals appear in durations and counts inside instructions (*30 seconds*,
 *21 days*, *7 days*), in the deck's card counts, and in tables.
 
-**Recommend ruling the observed practice as the rule**: spell out in running prose, numerals
-for durations, quantities in exercises, and anything in a table. Chicago's general-prose rule
-(spell out under 100) is close enough that the book is already near-conformant.
+**So: spell out in running prose; numerals for durations, quantities in exercises, and
+anything in a table.** Chicago's general-prose rule (spell out under 100) is close enough
+that the book was already near-conformant, which is why nothing needed sweeping.
 
 ## 4 · Hyphenation
 
@@ -145,11 +146,20 @@ convention and should not spread into the body.
 
 ---
 
-## What is still UNRULED
+## Ruled 2026-08-07
 
-1. **Serial comma** — 27 / 22, no majority. *(recommend: take it)*
-2. **Do the marginalia hands spell British?** — settles four sites at once
-3. **Number policy** — *(recommend: rule the observed practice)*
-4. **Ellipses** — `...` or `…`
-5. **first-year** hyphenation
-6. **Appendix B and D** — do they get on-ramps from the body, or ship unreferenced?
+1. **Serial comma — take it.** 7 real sites fixed.
+2. **Marginalia hands may spell British.** Voice, not error. 2 body sites fixed.
+3. **Number policy — the observed practice is the rule.** Nothing to sweep.
+4. **Appendix B and D — they get on-ramps.** Wendell: *"we can find points in the text that
+   pushes people to the appendix B & D."* **A task, not a ruling**, and it is the one item on
+   this sheet that adds prose rather than regularising it. Appendix B is the quests-and-
+   campaigns workbook and Appendix D is the emotional alchemy practices; each needs a pointer
+   from the chapter whose work it continues.
+
+## Still unruled
+
+5. **Ellipses** — `...` twice against `…` four times.
+6. **first-year** — 3 hyphenated, 2 open, and the compound-modifier rule does not explain it.
+
+Both are trivial and neither blocks the deep read.
