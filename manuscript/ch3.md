@@ -561,6 +561,8 @@ The WAVE-Spiral is not just a thinking exercise. Your body should know you're do
 
 If you move through all five stages and you don't feel *any* of these somatic shifts, you might be thinking the WAVE-Spiral instead of practicing it. Come back to the body. Feel what's actually present.
 
+*Three practices for a charge that won't move on request, one to raise it, one to settle it, one to read what it wants: Appendix D: Emotional Alchemy Practices.*
+
 ---
 
 ### The Promise of the WAVE-Spiral

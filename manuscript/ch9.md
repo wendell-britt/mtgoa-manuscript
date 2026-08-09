@@ -587,6 +587,8 @@ Here's what I've noticed about my own mistake with this: I spent months with the
 
 The practice is the loop, and the list is only what the loop leaves behind. Running it. Messing it up. Running it again. Running it with someone else watching. Running it when it fails. Running it the next day. That's the practice. The five moves are just the map that tells you where to walk.
 
+*Eight quests, one for each chapter of the walk, and four campaigns you can run with other people: Appendix B: Quests & Campaigns.*
+
 ---
 
 Handing over the pen assumes you had the pen. I have had it more often than most people get to, and I cannot tell you how to get one: that is the same gap Chapter 1 left open and I have not closed it since. What I can tell you is that the five moves run smaller and slower without it, and that putting the work in front of one person is the move that needs no permission at all.
