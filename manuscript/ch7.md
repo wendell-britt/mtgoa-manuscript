@@ -389,7 +389,7 @@ The alchemy: *I stop announcing that the field is open and find out whether anyo
 
 The Field-Holder's secondary Dissatisfaction is **hothouse safety**, a field you keep so comfortable that nobody says the sentence that would cost them anything. It looks like health to everyone keeping it that way. The family dinner stays warm, the standup stays pleasant, the two of you stay kind with each other, the community meeting ends on time, and everyone leaves carrying what they walked in with. A field protected from charge stays small, and the people making it learn to bring less of themselves to match.
 
-The alchemy: *I stop protecting the field and start building one that can take weather.* You let the hard sentence land, and you stay, and the field turns out to hold. Now they know by experience what nobody could have told them, that the field survives contact. Each round of that raises what it carries next time. That is the Wood channel again: growth rather than survival, with the fear along the way as weather.
+The alchemy: *I stop protecting the field and start building one that can take weather.* You let the hard sentence land, and you stay, and the field turns out to hold. Now they know by experience what nobody could have told them, that the field survives contact. Each round of that raises what it carries next time. That is the Wood channel again: the surviving is how you find out, the growing is what you keep, and the fear along the way is weather. Hardy is a gardener's word. It has never described a plant somebody kept warm.
 
 **From Presence to Structure**
 

@@ -739,3 +739,41 @@ doing classification work — the thing the ruling asked for — not a new metap
 kicker.
 
 **The sentence stands as applied. The finding is the overstatement, not the prose.**
+
+### Second postscript to sitting 10 — the closer, run through the dials
+
+**Wendell: run the reviewed sentence through LIKE WILBER, +ADAMSY and LIKE RAO.** First call
+of the analysis dials on prose written this pass. Per `REVISION_INSTRUMENT.md` Part 4: the
+analysis dials round-trip into house voice, and the color stacked at *a touch*, which is the
+stacking the rules allow.
+
+**What each dial found:**
+
+- **LIKE WILBER** — the distinction was not exact, and it was mine. *"growth rather than
+  survival"* quietly contradicted the two sentences before it, which say the field *survives
+  contact*. Exact: **the surviving is the evidence, the growing is the yield.** Ranked, not
+  opposed.
+- **LIKE RAO** — the load-bearing term was already coined in the exercise's own name, *Hardy
+  Field*, and the closer never cashed it. Now it does.
+- **+ADAMSY**, a touch — the throwaway last, flat register: *"It has never described a plant
+  somebody kept warm."* The subverted comparison carries the argument sideways: warmth is
+  what makes plants fragile.
+
+**The pass, in order:** ELI5 first. First draft flagged `passive 3.26` on *"a plant that was
+kept warm"*; the doer was promoted — *"a plant somebody kept warm"* — which is also the
+better joke, because hothouse care is a person doing it. Final: gate clean, every counter
+under 1.30, and against the previous version copula 1.72 → 1.15, waste 1.90 → 1.09, empty
+2.55 → 0.73. **The dial run improved the counters it was not aimed at.** Slop reading: the
+flat ending is the called-for ADAMSY move, named as a choice; *hardy* is a real gardener's
+word, so no invented claim. Diff shown, approved, applied.
+
+```
+- That is the Wood channel again: growth rather than survival, with the fear along the
+  way as weather.
++ That is the Wood channel again: the surviving is how you find out, the growing is what
+  you keep, and the fear along the way is weather. Hardy is a gardener's word. It has
+  never described a plant somebody kept warm.
+```
+
+**Board after:** gate PASS · diet within baseline · round-trip byte-identical · xref 0/0 ·
+workbook 404pp `PDF OK` · proofread 0/0/0/0 · shipcheck SHIPPABLE.
