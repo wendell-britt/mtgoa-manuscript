@@ -104,3 +104,27 @@ One habit separates a great Translator from a mediocre one: the great one comes 
 ```
 Precision costs here: the containment structure takes extra effort, and it pays off when accuracy matters.
 ```
+
+## ch8 §4 -- the pattern and cost paragraphs of the five distortion blocks
+
+```
+The pattern: narrating instead of inhabiting. Describing from above instead of participating from within. Able to tell you exactly which game the meeting is playing and unable to sit inside the meeting. The body is present. The person is not.
+
+The pattern: never stabilizing anywhere. Leaving each game before it's finished teaching anything. Always arriving and always departing, never present long enough to be accountable for what happens.
+
+The pattern: speaking from the whole-board view to people inside the power game, in whole-board language, as though they could receive it, or knowing they can't and saying it anyway, as though the failure to understand were their problem.
+
+The pattern: identifying a game as no longer yours before you've done the work it asked of you. Getting the first twinge of completion and reading it as done, when the first moment of readiness usually means the game has entered its most important phase.
+
+The pattern: going up, seeing the whole board, and immediately needing to come back, not because the moment asks for it, but because the weight grows too heavy to hold while staying embodied. Coming back to the harmony game or the strategy game as escape rather than as service.
+
+The cost: you lose the ability to be in the game you're describing. People can feel that you're above it even when the naming lands correctly, and from above you can't serve: you can only report.
+
+The cost: nobody can trust you to be anywhere. If you leave whenever a game gets uncomfortable, people learn not to depend on you in any of them. You become the one who always changes the subject.
+
+The cost: people feel seen and judged rather than seen and served. When someone names your game from above, the first response comes back defensive, *you think you're better than us*, even when the naming lands exactly right.
+
+The cost: the games you abandon unfinished stay unfinished. The relationships left before they were ready, the conflicts released before they resolved, the commitments put down before they taught what they had to teach, they don't disappear. They stay in the body as unfinished business and shape what you can show up for next.
+
+The cost: people learn you can't be trusted with the view. If you always retreat before you've done the work up there, they stop expecting you to stay, which means they stop expecting you to see clearly at all.
+```

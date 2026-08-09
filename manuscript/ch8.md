@@ -412,20 +412,12 @@ ask before you act rather than a feeling to work.
 
 The distortion: the capacity to see all the games becomes a performance for an audience. *Look, I can name the power game and the harmony game and the strategy game all running at once, isn't that something?* The view becomes a demonstration. Seeing turns into a way of being seen to be wise.
 
-The pattern: narrating instead of inhabiting. Describing from above instead of participating from within. Able to tell you exactly which game the meeting is playing and unable to sit inside the meeting. The body is present. The person is not.
-
-The cost: you lose the ability to be in the game you're describing. People can feel that you're above it even when the naming lands correctly, and from above you can't serve: you can only report.
-
 The fix: before you name the game, check. *Am I naming this to serve, or to show that I'm above it?* If it's the second, drop the naming, get your feet under you, then name.
 
 ---
 **Game-Switcher: *switching as inconsistency***
 
 The distortion: the capacity to move between games becomes a way to avoid committing to any of them. *I could play power, I could play strategy, so I'll go where the energy is and never stay long enough to be pinned down.* The switch becomes freedom from being held to a position.
-
-The pattern: never stabilizing anywhere. Leaving each game before it's finished teaching anything. Always arriving and always departing, never present long enough to be accountable for what happens.
-
-The cost: nobody can trust you to be anywhere. If you leave whenever a game gets uncomfortable, people learn not to depend on you in any of them. You become the one who always changes the subject.
 
 The fix: before you switch, check. *Is the moment asking for this, or am I uncomfortable being here?* If it's the second, stay. Let the discomfort be what it is. Do the work the game requires before you leave it.
 
@@ -434,10 +426,6 @@ The fix: before you switch, check. *Is the moment asking for this, or am I uncom
 
 The distortion: the capacity to name which game people are in becomes a way to be right. *You're stuck in the harmony game and I can see the whole board from here.* The diagnosis becomes a speech.
 
-The pattern: speaking from the whole-board view to people inside the power game, in whole-board language, as though they could receive it, or knowing they can't and saying it anyway, as though the failure to understand were their problem.
-
-The cost: people feel seen and judged rather than seen and served. When someone names your game from above, the first response comes back defensive, *you think you're better than us*, even when the naming lands exactly right.
-
 The fix: before you name it, check. *Am I naming this from the game they're in, or from the vantage I wish I were at?* If it's the second, descend. Say it in terms they can receive. That's the service.
 
 ---
@@ -445,20 +433,12 @@ The fix: before you name it, check. *Am I naming this from the game they're in, 
 
 The distortion: the capacity to put games down becomes a way to avoid finishing them. *I don't need this anymore: I'm past it.* The release becomes an exit.
 
-The pattern: identifying a game as no longer yours before you've done the work it asked of you. Getting the first twinge of completion and reading it as done, when the first moment of readiness usually means the game has entered its most important phase.
-
-The cost: the games you abandon unfinished stay unfinished. The relationships left before they were ready, the conflicts released before they resolved, the commitments put down before they taught what they had to teach, they don't disappear. They stay in the body as unfinished business and shape what you can show up for next.
-
 The fix: before you put it down, check. *Has this taught me what it came to teach, or am I leaving because I'm tired?* If you're tired, stay for the last lap. Then put it down clean.
 
 ---
 **Returner: *returning as retreating***
 
 The distortion: the capacity to come back from the overview becomes a way to not have to hold the overview. *I've been up here long enough.* The return becomes relief from the weight of what you saw.
-
-The pattern: going up, seeing the whole board, and immediately needing to come back, not because the moment asks for it, but because the weight grows too heavy to hold while staying embodied. Coming back to the harmony game or the strategy game as escape rather than as service.
-
-The cost: people learn you can't be trusted with the view. If you always retreat before you've done the work up there, they stop expecting you to stay, which means they stop expecting you to see clearly at all.
 
 The fix: before you return, check. *Am I coming back because the moment is done, or because the view is heavy?* If it's the second, stay with it. Find the ground underneath it. Then return as gift rather than as exit.
 
