@@ -467,7 +467,7 @@ The tell is never the position. The tell is whether the answer is ever Agency. A
 
 The Emotional Body developed does what nothing else in this chapter can do: it tells you where the movement is before the evidence does.
 
-That is the Strategist. Momentum is not a calculation. You find the leverage point by feeling where the system is straining, where the pressure has built to the point that one push will do what a year of argument could not. Every one of those is a reading before it is a finding. An Architect who has converted their signal into structure on arrival can still produce the analysis. What they lose is timing, the sense of *now.*
+That is the Strategist. Nobody has ever found the leverage point in a spreadsheet. You find it by feeling where the system is straining, where the pressure has built to the point that one push will do what a year of argument could not. Every one of those is a reading before it is a finding. An Architect who has converted their signal into structure on arrival can still produce the analysis. What they lose is timing, the sense of *now.*
 
 So the map is the artifact, and you already know how to make one. Timing is what makes it arrive on a day it can still matter. A beautiful blueprint delivered eighteen months after the pressure released is not generous. It is just correct.
 

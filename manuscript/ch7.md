@@ -362,7 +362,7 @@ The Field-Holder demands more sheer presence than any other Diplomat mode: keepi
 
 Here is what its absence looks like: a person who can hold a conversation only when it is already safe. The moment something difficult happens, they either escalate into the conflict or withdraw until there is no field left. They can hold the good conditions; they cannot hold the bad ones.
 
-Here is what its distortion looks like: a performative calm, actually a freeze response. They sit in the middle of chaos and perform peace, believing that their equanimity will regulate the field. Real Field-Holding contains the charge rather than removing it. Whoever brought the charge keeps it. The Field-Holder does not take it off them or talk anyone down. They give it a shape. Hold is addition, and it costs, and it does not end when the silence does. They say: *this charge has somewhere to go. It can move through here without destroying anything.*
+Here is what its distortion looks like: a performative calm, actually a freeze response. They sit in the middle of chaos and perform peace, believing that their equanimity will regulate the field. Real Field-Holding contains the charge rather than removing it. Whoever brought the charge keeps it. The Field-Holder does not take it off them or talk anyone down. They give it a shape. Stand is subtraction; Hold is addition, and it costs, and it does not end when the silence does. They say: *this charge has somewhere to go. It can move through here without destroying anything.*
 
 **Alchemy 1 — Inclusion-Performance → Genuine Inclusion**
 

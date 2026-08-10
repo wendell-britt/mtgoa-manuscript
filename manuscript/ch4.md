@@ -298,7 +298,7 @@ The Challenger's practice does not improvise. It runs a sequence. Five stages, i
 
 Most people skip this stage, which is what leaves most confrontation messy, reactive, and apologetic. The aiming turns raw fire into clean action.
 
-**Stage 3: Act.** You choose the mode and execute. Line, Interrupt, Demand, Refusal, or Reckoning. You state the boundary. You name the cost. You do it plainly, without the three-paragraph explanation that is actually an apology.
+**Stage 3: Act.** You choose the mode and execute. Line, Interrupt, Demand, Refusal, or Reckoning. You state the boundary. You name the cost. You do it plainly, without the three-paragraph explanation that is actually an apology. A stated line is anger that made it all the way out of the body and into the world without deforming on the way.
 
 **Stage 4: Stand.** You stay with what you said while the silence does its work.
 
@@ -420,7 +420,7 @@ I don't even remember their name. I can remember their story, but the person ins
 
 I drew the line. I lost the relationship. That's the deal.
 
-What I've watched happen when the line doesn't get drawn does more damage. Well-meaning people who had decided their perspective didn't belong in the conversation, keeping their mouths shut while the charge built. Then it found an exit: not as a clean line, but as an explosion. Months of swallowed charge, wrong target, wrong register. Everything stopped. The people on the other end of it didn't come back.
+Not drawing the line is not the neutral option. Every swallowed charge gets paid for by somebody, and rarely by the person who swallowed it. What I've watched happen when the line doesn't get drawn does more damage. Well-meaning people who had decided their perspective didn't belong in the conversation, keeping their mouths shut while the charge built. Then it found an exit: not as a clean line, but as an explosion. Months of swallowed charge, wrong target, wrong register. Everything stopped. The people on the other end of it didn't come back.
 
 The fire was real. The line was real. Without the practice to draw it clean, the fire just burned everything down.
 
@@ -443,7 +443,7 @@ Before you meet the part that audits your charge, one piece of work belongs here
 
 None of this lets real harm off the hook. It reclaims the energy you have spent on a cartoon. Real harm and real accountability stay real. What 3-2-1 owns is your split, and it makes no claim about their innocence.
 
-The same fire controls or protects depending on where it is aimed, and 3-2-1 finds which one you are fighting in them that is actually in you.
+The same fire controls or protects depending on where it is aimed, including, sometimes, protecting the person being told no. 3-2-1 finds which one you are fighting in them that is actually in you.
 
 Solo, written or spoken, fifteen to twenty-five minutes.
 

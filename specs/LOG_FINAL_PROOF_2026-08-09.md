@@ -912,3 +912,72 @@ does not move at all: ch7 reads 1.19 before and after, because the absolute coun
 three held diffs are ≈180 of it. The rest is not sitting in a zone any generator was willing
 to take without a ruling: ch7's four named candidates and ch8's terms glossary and
 two-readings block. Those are author's calls.
+
+---
+
+## Sitting 14 — the recovery pass
+
+Wendell, after the cuts landed: *"one more bookwide pass for safety comparing to the previous
+versions of the book. We're essentially looking for tight gems that might have been lost that
+we can re-introduce so it retains its memetic weight. This is a deftness practice."*
+
+**Method, so it can be run again.** `git log -p` over the whole history of `manuscript/ch*.md`
+— 376 commits — split into sentences, dropped anything still shipping anywhere in the book,
+front matter, appendices or back matter. **1,327 sentences have been removed and never
+restored.** Ranked them by the properties a quotable line actually has (7–16 words, a figure
+you can see, a turn inside the sentence, an opener that survives being quoted; penalised
+taxonomy vocabulary, dangling *That/This/It* openers, three-comma sentences), then read the
+top of the list by eye. The scripts are in the session scratchpad; the method is above so it
+does not need them.
+
+**The main finding is the one that reads as a non-finding: the old pool is draft churn, not
+loss.** Nearly every high-scoring line from before this session was superseded by a sharper
+version that still ships. *"Turns out thirst and wanting to drink are different things"* lost
+to *"The horse wasn't thirsty. The design was elegant. The horse was not thirsty."* *"Tell it
+to flatter and it hardens into a rule nobody may question"* is in ch5 right now, in the second
+person. *"One true sentence"* runs three times in ch3. *"A preference in a firmer voice"*
+survives at ch4:713 — the cut took the duplicate, not the line. **The system has been working;
+the recovery pool is mostly evidence of that.**
+
+**Six real losses, and four of them are ours from this session.** Applied, +69 words:
+
+| | site | what came back | cost |
+| --- | --- | --- | --- |
+| 1 | ch6:470 | *Nobody has ever found the leverage point in a spreadsheet*, replacing *Momentum is not a calculation* | +3 |
+| 2 | ch7:365 | *Stand is subtraction;* in front of *Hold is addition* | +3 |
+| 3 | ch9:338 | *Every detour that feels like a detour is another stretch of the same road*, replacing *That shape holds all the way through* | +7 |
+| 4 | ch4:423 | *Not drawing the line is not the neutral option. Every swallowed charge gets paid for by somebody, and rarely by the person who swallowed it.* | +25 |
+| 5 | ch4:446 | *including, sometimes, protecting the person being told no* | +8 |
+| 6 | ch4:301 | *A stated line is anger that made it all the way out of the body and into the world without deforming on the way.* | +23 |
+
+**Two of the six are repairs of damage this session did, not preferences.** ch7:365 was left
+saying *Hold is addition* with its contrast three chapters back at ch4:315 — too far to reach
+while reading. And ch4 had removed the only sentence in the book making the hard claim about a
+swallowed line: that somebody pays, and not the swallower. The scene at ch4:423 shows what
+swallowing costs *you*, which is the easier half.
+
+**ch4:301 answers a question Tier 1 opened.** The Line is the chapter's central move and was
+the only one of five with no sentence saying what it is — the table carries its arc, and an arc
+is not a definition. This puts one sentence back, in the stage where you state the line, without
+rebuilding the block Tier 1 correctly removed.
+
+**Rejected, with reasons, because the rejections are the practice.** ch5's *"A tradition handed
+over with all its flaws named is a tradition someone can actually take"* — the survivor is as
+good and more concrete, and restoring the aphorism restores exactly the doubling the sweep
+removed. ch8's *"healed territory rather than fresh wound"* — the paragraph above already says
+*metabolized*, which is the better word. ch4's *"a line rather than a complaint"* — needs the
+paragraph it lived in, and that paragraph was correctly cut.
+
+**Reviewed before showing, per the standing rule.** `review.py` on the batch: voice clean ·
+gate PASS · empty head 0 · no person drift, no get-passives, no membrane crossing, both
+back-pointers pre-existing. `passive 1.55` on the batch resolved to one site, `is aimed`, in a
+sentence already in the book and not being changed — the short-sample noise the skill warns
+about. Five of the six are Wendell's words verbatim; the sixth changes *to protect* to
+*protecting* for grammar. `Stand was subtraction` was corrected to `Stand is subtraction`
+before the diffs were shown, so the tense matches ch4:315.
+
+**Board after:** identical to sitting 13 in every line — voice 5 BLOCK / 122 WARN (all
+pre-dating Tier 2) · gate PASS · em-dash within budget · round-trip byte-identical · dupes 0 ·
+copyedit 0 fixable · xref 0/0 · shipcheck SHIPPABLE · ch3 inchoative 1.31, unmoved. **The 69
+words cost no pages: trade 382, workbook 390, `PDF OK` on both, every opener on a recto.**
+Proofread on the rebuilt 390: 0 widow, 0 orphan, 0 stack, 0 fragment.

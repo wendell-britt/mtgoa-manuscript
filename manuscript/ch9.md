@@ -335,7 +335,7 @@ That's what the walk feels like. Not ascending. Circling. Each circle goes a lit
 
 ---
 
-Every draft of this book was the walk, not a step toward it. You will plan, then execute, then find the plan was a draft. That shape holds all the way through.
+Every draft of this book was the walk, not a step toward it. You will plan, then execute, then find the plan was a draft. Every detour that feels like a detour is another stretch of the same road.
 
 The WAVE already taught you how to do this. Wake up: notice what happened. Open up: let the failure land at full strength before you start explaining it. Clean up: name what didn't work. Grow up: ask what you were wrong about. Show up: do the next version. Then come back: notice what shifted. What you learned.
 
