@@ -1239,3 +1239,73 @@ produced a file named `cover.png`.
 The artifact is copied to `build/mastering-allyship-chapter-1.pdf` — the exact filename
 `bars-engine` serves at `public/mastering-allyship-chapter-1.pdf` — so it drops in without a
 rename. `src/lib/mastering-allyship/chapter-one-lead.ts` and its test both pin that path.
+
+---
+
+## Sitting 18 — the voice kit
+
+Wendell: *"Can I get the voice documents and editorial system from the book exported so
+that I can use it on the site and bars-engine in general… keep the /no-ai-slop vibe a skill
+on everything that's customer facing as well as using the voices that I made for the book."*
+
+`export/voice-kit/` — a drop-in tree for `bars-engine`, six files.
+
+```
+agents-skills/no-ai-slop/    SKILL.md · eval.md · LICENSE    MIT, Peter Yang. Verbatim.
+agents-skills/house-voice/   SKILL.md · reference.md         new, adapted for product copy
+tools/voice_lint.py                                          self-contained, stdlib only
+```
+
+**The export is mostly a subtraction.** The manuscript repo holds 196 instruments and ~100
+specs and almost none of it ports, because almost all of it is about a book. What ports is
+the part that is about English. The README names what was left behind and why, so the next
+person does not have to re-derive the decision.
+
+### Three judgements worth recording
+
+**The seven Heads did not come.** Maera Voss and the other headmasters are in-world authors
+of in-world documents. A landing page speaking as a fictional headmaster is a category
+error — the customer has not opted into the fiction yet. What ported is Wendell's own
+register: the fourteen colors, the always-on constraints, the portable rows of the style
+sheet. `SEVEN_VOICES.md` and `HEAD_VOICE_DIAL.md` stay here and want their own handoff if
+the game ever needs them.
+
+**The concealment rule is scoped, and the skill says so.** The book never names the six
+Faces as integral altitudes. `bars-engine` names Spiral Dynamics and Integral Theory openly
+in `/wiki/glossary`, `/wiki/values-and-polarities` and the first-aid guide — checked, on
+the clone — and that is correct. Without the note, the obvious next move for anyone holding
+the book's rule is to go "fix" the wiki.
+
+**`no-ai-slop` is MIT-licensed to Peter Yang**, so the `LICENSE` travels with it and the
+README states that as a condition rather than a nicety.
+
+### The linter, and the false positive that would have killed it
+
+`voice_lint.py` copies the regexes verbatim out of `gate.py`, `prose_diet.py` and
+`empty_head.py` so the site and the book cannot drift about what a defect is. It reads TSX
+by extracting only customer-visible strings — 178 copy segments, 16.6k of 40.9k chars on
+the sales letter — because linting the code produces the noise that trains you to skim.
+
+**It reported 26 hard findings against its own reference doc**, every one a quoted example
+of the defect being described. A counter that is wrong on the document explaining it is a
+counter nobody runs. Two changes, in this order: the tool now treats backticked spans as
+not-prose (including spans that wrap a source line, which Markdown allows and the doc does),
+and then **the docs were conformed to the tool** rather than the tool loosened further.
+Both kit docs now read 0 hard.
+
+`no-ai-slop` still reads 15 hard and is left exactly as it is: its examples of bad writing
+necessarily contain the words this house bans, and rewriting somebody else's licensed skill
+to satisfy a linter pointed at it afterwards is the same evasion as swapping `quiet` for
+`careful`. The README gives the exclusion glob instead.
+
+### The starting board on the live site
+
+```
+src/app/launch/page.tsx                         119w    HARD  1
+src/app/mastering-allyship/chapter-1/page.tsx   686w    HARD  2
+src/app/mastering-allyship/page.tsx            2786w    HARD 49
+src/lib/launch/offers.ts                        734w    HARD  1
+```
+
+Mostly `things` and `quiet` on the long sales letter, which is what a page written before
+the ban existed looks like. Recorded as a starting board rather than a verdict.
