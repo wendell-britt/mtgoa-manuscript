@@ -981,3 +981,68 @@ pre-dating Tier 2) · gate PASS · em-dash within budget · round-trip byte-iden
 copyedit 0 fixable · xref 0/0 · shipcheck SHIPPABLE · ch3 inchoative 1.31, unmoved. **The 69
 words cost no pages: trade 382, workbook 390, `PDF OK` on both, every opener on a recto.**
 Proofread on the rebuilt 390: 0 widow, 0 orphan, 0 stack, 0 fragment.
+
+---
+
+## Sitting 15 — ship
+
+Wendell: *"382 is fine, let's ship it."*
+
+**Ship state, verified on the final build.**
+
+| | |
+| --- | --- |
+| body | 114,865 words across nine chapters |
+| trade | 6×9in, **382 pages**, front matter i–vi, body 1–368, 28 components |
+| workbook | 7.5×9.25in, **390 pages**, front matter i–vi, body 1–376 |
+| ebook | EPUB, 27 documents, reflows, frame intact across 8 devices |
+| shipcheck | **SHIPPABLE** — all six blockers clear |
+| proofread | 0 widow · 0 orphan · 0 stack · 0 fragment on 390 pages |
+| review board | gate PASS · em-dash within budget · seam ok · citations 3/0/3/0 · round-trip byte-identical · empty head ok · ranking ok · dupes 0 · copyedit 0 fixable · xref 0/0 |
+
+Both PDFs report `PDF OK`: every chapter opener on a recto, folio continuous, no blank
+leaf carrying a running head.
+
+### Three findings the cover raised, none of them fixed unilaterally
+
+The cover arrived as this sitting opened. Checking it against the interior is the last
+consistency pass the book gets, and it produced three things:
+
+1. **`front_matter/cover.png` does not exist in the repo**, so the EPUB ships without one.
+   `build_epub.py` looks for `front_matter/cover.{jpg,png}` and reports its absence as a
+   note: *"Most stores require one, and a reader's library shows a blank tile without it."*
+   The print PDFs are unaffected — a print cover is a separate file the printer takes. The
+   fix is dropping the artwork in at that path and re-running the ebook build.
+
+2. **The cover carries no subtitle, and the title page carries one the cover does not.**
+   `front_matter/title_page.md:3` reads *How to Build an Allyship Practice That Lasts*. The
+   cover's top line is *A Field Guide*, set as an eyebrow above the title rather than under
+   it, and the two say different things. Retailer metadata takes one subtitle, so this wants
+   a ruling before the listing is created. Not a defect in either artifact on its own.
+
+3. **The cover's tagline is not in the book.** *Stuckness is data, not failure.* is the best
+   sentence on the cover and the manuscript never says it. `stuckness` appears five times
+   and never in that shape; the nearest thing is `ch2:484`'s *That location is data.* A
+   cover line a reader will look for and not find is a real proof finding, and the fix is
+   new prose, which is Wendell's call and needs the review pass either way.
+
+### One pre-existing note, recorded rather than chased
+
+`build_epub.py` reports *"11 tables, expected 10"*. The expectation is stale rather than the
+book wrong: ch4 carried seven table rows before Tier 1 and carries seven now, and no pass
+this session added or removed a table anywhere. Recorded so the next person does not go
+looking for a table that was never added.
+
+### The state of the open decisions at ship
+
+Four things went back to Wendell across sittings 13 and 14 and none of them blocks the
+press. All four are recorded here so they survive the session:
+
+- **ch9 diff 14** — the second WAVE recitation, held because its stated reason failed
+  verification.
+- **ch4 diff 7** — the third channel expansion, held because cutting it leaves two of five.
+- **Sweep diff 12** — ch4:487's *You didn't become the villain*, held as reader-care.
+- **The last two pages to 380** — available only by cutting a scene or a named practice.
+  Ruled closed: *"382 is fine."*
+
+**The manuscript is done.**
