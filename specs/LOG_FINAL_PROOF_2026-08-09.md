@@ -1046,3 +1046,52 @@ press. All four are recorded here so they survive the session:
   Ruled closed: *"382 is fine."*
 
 **The manuscript is done.**
+
+---
+
+## Sitting 15b — the cover, and how the web UI ate it
+
+The cover arrived on the branch and the ebook build still reported `no cover`. Two things
+had gone wrong, and the second one is worth writing down because it destroys files silently.
+
+1. **Wrong folder.** The file landed at the repo root. `build_epub.py:143` looks only at
+   `front_matter/cover.{jpg,jpeg,png}` and nowhere else.
+2. **GitHub's web rename cannot rename a binary.** Commit `d301c52` reads *"Rename
+   MTGOA-ebook-cover-1600x2560.png to cover.png"* and its stat line is the whole story:
+
+   ```
+   MTGOA-ebook-cover-1600x2560.png | Bin 4553611 -> 0 bytes
+   cover.png                       |   1 +
+   ```
+
+   The upload itself was correct — 4.55 MB, 1600×2560, exactly the dimensions stores want.
+   The rename opened it in the web *text* editor, which cannot render a PNG, and committed
+   a two-byte file containing a single CRLF while deleting the original.
+
+**The original was still in git**, one commit back, so nothing was lost:
+
+```
+git show d301c52~1:MTGOA-ebook-cover-1600x2560.png > front_matter/cover.png
+```
+
+Verified after recovery: PNG magic bytes intact, **1600×2560, 4.34 MB, ratio exactly
+1.600:1** — the ratio every major store wants. The two-byte stub at the root is removed.
+
+**The ebook now carries it properly.** The build reports `cover front_matter/cover.png`, the
+document count goes 27 → 28 (the cover page), and the package file declares it three ways so
+both EPUB 2 and EPUB 3 readers find it:
+
+```
+<item properties="cover-image" id="file0_png" href="media/file0.png" media-type="image/png" />
+<itemref idref="cover_xhtml" />                       <!-- first item in the spine -->
+<reference type="cover" title="Cover" href="text/cover.xhtml" />
+```
+
+The image goes in at full resolution rather than downsampled — 4.34 MB of the ebook's 4.85 MB
+is the cover. `EPUB OK — reflows, 28 documents, frame intact across 8 devices.`
+
+**Note for anyone doing this again: use *Add file → Upload files* and name it correctly at
+upload time.** Never rename a binary through the web editor.
+
+The print PDFs are unchanged and unaffected — a print interior does not carry the cover, and
+the printer takes a separate wrap file whose spine depends on the 382-page count.
