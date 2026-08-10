@@ -1178,3 +1178,64 @@ and rebasing demoted the second of the two copyright-page headings under the fir
 | `MTGOA_2026-08-10.epub` | 28 documents, cover declared three ways |
 
 The print cover wrap is still outstanding and still depends on the 382-page count.
+
+---
+
+## Sitting 17 — the free sample, rebuilt
+
+The announce handoff found the lead magnet on `masteringallyship.com` to be a materially
+older draft. New instrument, `instruments/build_sample.py`.
+
+| | old, live on the site | new |
+| --- | --- | --- |
+| generated | 2026-07-13 | 2026-08-10 |
+| pages | 16 | **24** (1 cover + 23) |
+| words | 7,245 | **9,242** |
+| similarity to shipping `ch1.md` | **67.7%** | **99.0%** |
+| PDF title | *"— Chapter 0"* | *"— Chapter 1"* |
+| cover | none | the final 1600×2560 |
+| placeholders | ends on a live `[ URL / QR ]` | none, and a check refuses to emit one |
+
+The remaining 1% is soft hyphens and ligatures from justification, not text.
+
+**No marketing copy was written for it.** The old sample appended a hand-authored *PLAYING
+ALONG* block, and that block is where the `[ URL / QR ]` placeholder lived. `ch1.md` now
+ends with its own reviewed *Playing along* line naming **masteringallyship.com**, so the
+sample is the chapter and nothing else — which means there is no second copy of that CTA to
+drift out of date.
+
+Trim is `workbook-9` (7.5×9.00in), which is what the old sample was set at and was already a
+preset. The chapter is selected by filtering `build_book.SPINE`, so the sample cannot set
+from a different file than the book does.
+
+### The bug, and the guard, and the same lesson a third time
+
+The first version patched an imported `build_book.SPINE`. `typeset.py` loads its own private
+copy through `importlib` so the spine has exactly one definition — which means the module
+imported here is a **different object** and the filter did nothing. It set the entire
+400-page book, and **reported `SAMPLE OK`**, because every check it ran (no placeholders, the
+probes present, a cover on page 1) passes on the whole book too.
+
+**A sample is defined by what it leaves out, so no check that asks what it contains can
+verify one.**
+
+The first fix was also wrong: it scanned for the strings `The Shaman` and `The Challenger`
+and flagged them — both are Faces that chapter 1 names in its own prose. Counting names
+finds mentions, not components. The check now runs `build_pdf_ebook.components()`, the
+detector written last sitting, which separates an opener from a mention because the template
+letterspaces `C h a p t e r` on an opener and sets it plain everywhere else. Evaluated
+against both artifacts:
+
+```
+whole book (the bug's output)    components=22  guard=BLOCK
+sample (correct)                 components=1   guard=PASS
+```
+
+That is the third time in three sittings that a build reported OK on something wrong, and
+all three had the same shape: **the check tested the mechanism instead of the result.** The
+bookmark that sat where it was put. The sample that contained chapter 1. The rename that
+produced a file named `cover.png`.
+
+The artifact is copied to `build/mastering-allyship-chapter-1.pdf` — the exact filename
+`bars-engine` serves at `public/mastering-allyship-chapter-1.pdf` — so it drops in without a
+rename. `src/lib/mastering-allyship/chapter-one-lead.ts` and its test both pin that path.
