@@ -1095,3 +1095,86 @@ upload time.** Never rename a binary through the web editor.
 
 The print PDFs are unchanged and unaffected — a print interior does not carry the cover, and
 the printer takes a separate wrap file whose spine depends on the 382-page count.
+
+---
+
+## Sitting 16 — the PDF edition
+
+Wendell: *"we do need a .pdf version as an ebook option that needs the cover as well."*
+
+New instrument, `instruments/build_pdf_ebook.py`. It takes a built interior and emits the
+reading edition: the cover on page 1, a navigable outline, and the metadata carried across.
+
+**Trade 383 pages · workbook 391 pages.** Both `PDF EDITION OK`.
+
+### Three things it does that renaming the print file would not
+
+**1 · The cover page is letterboxed into the artwork's own colour, not stretched.** The
+cover is 1600×2560, ratio exactly 1.600. Trade is 1.500, workbook 1.233. **No trim matches
+the art**, so the choice is distort it, change the page size for one leaf, or letterbox.
+Distortion is out and a mixed page size reads as a defect in a scroll view, so the page is
+filled with the colour sampled from the PNG's four corners and the art centred on it. On
+this cover the four corners agree exactly — spread **0/255**, `rgb(22,10,34)` — so the bars
+are invisible and page 1 reads as full bleed. Verified by rendering it, not by trusting the
+arithmetic. A cover whose corners disagreed by more than 24/255 would fall back to black
+rather than pick one corner and hope.
+
+**2 · The outline gains a chapter level.** The Typst template bookmarks *headings*, and a
+chapter opener is a component rather than a heading, so the print outline has 313 entries
+and **not one of them names a chapter, appendix, or back-matter section.** In print that
+costs nothing. In a PDF the sidebar is the whole navigation model, and a 383-page file whose
+sidebar goes straight to section names is the equivalent of a book with nothing on the
+spine. The edition inserts 22 level-1 components and nests the template's headings under
+them: 335 entries.
+
+**3 · It refuses to emit an edition whose bookmarks lie.**
+
+### The bug this sitting produced, caught, and then built a guard for
+
+The component map started as a table copied from `build_pdf.py --check`. That check ran on
+the **trade** interior. The workbook sets eight pages longer, so applied there every
+bookmark from Chapter 9 on pointed into the middle of the previous component:
+
+```
+Chapter 9 — The Player      -> p294   "The Sage 279 ... the second map out in public"
+Appendix A — ...Domains     -> p326   "The Player 311 You don't have to write a whole book"
+Index                       -> p380   "About the Author Wendell Britt spent fifteen years"
+```
+
+**Both builds reported OK**, because the verification asked whether a bookmark sat at the
+page the builder had put it at, which is true by construction. A page number is not a
+verification.
+
+Two changes. `components()` now finds the openers by **reading the document** — the template
+sets `C h a p t e r 3` letterspaced and the contents page lists `Chapter 9` unspaced, and
+requiring the spacing is what separates an opener from a contents entry. And a new check
+asks whether each bookmark's page actually says what the bookmark says.
+
+**The guard was tested by reintroducing the defect on purpose** rather than by assuming it
+works: feeding the workbook the trade's map returns
+
+```
+BLOCKER  13 bookmark(s) do not land on the page they name, first: 'Chapter 7 — The Diplomat' -> p214
+1 problem(s) — nothing shipped.        exit 1
+```
+
+### One more bug the same session, same shape
+
+The first outline merge added +1 to every template level under a component. Appendix D opens
+on a level-2 heading, so that row became level 3 directly beneath a level-1 component and
+PyMuPDF rejected the hierarchy. Rebasing is now per component against that component's own
+shallowest heading, clamped to at most one level deeper than the row above. A separate
+branch keeps the front matter ahead of Chapter 1 unrebased, because those rows are siblings
+and rebasing demoted the second of the two copyright-page headings under the first.
+
+### The shipping set
+
+| file | what it is |
+| --- | --- |
+| `MTGOA_2026-08-10_trade.pdf` | 382pp print interior, 6×9, **no cover — the printer wraps it** |
+| `MTGOA_2026-08-10_workbook.pdf` | 390pp print interior, 7.5×9.25, same |
+| `MTGOA_2026-08-10_trade_ebook.pdf` | 383pp reading edition, cover on p1, 335-entry outline |
+| `MTGOA_2026-08-10_workbook_ebook.pdf` | 391pp wide-margin reading edition, same |
+| `MTGOA_2026-08-10.epub` | 28 documents, cover declared three ways |
+
+The print cover wrap is still outstanding and still depends on the 382-page count.
