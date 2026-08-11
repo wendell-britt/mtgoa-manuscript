@@ -111,7 +111,15 @@ is the only reason its daemon column survived; **the on-ramp is what made it rea
 **These are contradictions between two defensible pieces of writing. Each needs a decision
 before anything moves.**
 
-**R1 · Which exile is canon.** ch4 and ch5 tell incompatible versions of the same event.
+**R1 · Which exile is canon. RULED 2026-08-11 — Wendell: *"ch4's exile is canon, fix ch5."*
+APPLIED on `claude/reconcile-final-proof-hxk3`.** ch5's Section 1 now has the Regent present
+and the rival, the villagers choosing on cost, and the Challenger's departure as the
+stopped-asking ch4 describes. The caricature — *"no interest in guarding them… moved on to
+the next fight"* — is gone, as are the *first walls / first traditions / first inheritance*
+claims that `ch3:78` and `ch4:72` both falsify. **The Regent's complicity is now the first
+entry in the ledger**, which is the chapter's own material rather than a patch over it.
+
+The original collision, for the record:
 
 > **`ch4:80`** — *"**The villagers chose the Regent.** Not because the Challenger was wrong.
 > Because the Challenger was expensive."* → the Regent is present, is the rival, and causes the

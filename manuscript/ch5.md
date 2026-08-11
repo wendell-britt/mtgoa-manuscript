@@ -69,17 +69,17 @@ For a time the villagers tried to run on fire alone.
 
 The Challenger had drawn lines. The Challenger had said no. The Challenger had refused, demanded, interrupted, and named the cost of crossing the village's boundaries. All of that worked while the fire was lit. The Challenger named problems that had festered for years, and stopped violations the villagers had lived with for as long. The villagers felt, for the first time in a long time, *clear about what they stood for.*
 
-Fire burns out. When the fire burned out, nothing held underneath.
+Fire costs. Every line the Challenger drew cost somebody something to hold, and holding it cost again the next week, and the week after that.
 
-The Challenger didn't stay. The Challenger didn't need to: the lines were drawn, the costs were named, the boundaries were set. After the Challenger left, the villagers realized they had a different problem: nobody knew how to *hold* the lines across time. The Challenger had been the one to draw them, but the Challenger had no interest in guarding them. The Challenger said "this is the line" and then moved on to the next fight. That left the village with boundaries that existed in the moment but evaporated by next week.
+The Regent was standing right there while it did, and that is the part of the account a Regent has to enter honestly. The Regent did not dislike the Challenger. The Regent believed that will, even clean will, could not carry a village across time, and offered the villagers structure instead. Walls to hold what they had already agreed to. A weekly council that opened with a reading of the stated values. A yearly ceremony that renewed the vows. Roles that passed from person to person, so that when one person left, the *role* stayed and the next person could step into it.
 
-The Regent showed up at exactly that moment.
+The villagers chose the Regent. Not because the Challenger was wrong, and not because anybody voted. Because the Challenger was expensive and the Regent was not, and a village will take the cheaper of two goods every time nobody names the trade out loud. They stopped asking the Challenger to speak first. Then they stopped asking. The Challenger left, and the Regent had a city to build, and did not go after them.
 
-The Regent didn't arrive with fire. The Regent arrived with something slower and harder to see: *structure.* The Regent said: "You've drawn the lines. Now let me show you how to build the city around them." The Regent built the first walls. Not walls to keep people out. Walls to hold what the villagers had agreed to. The Regent created the first traditions: the weekly council that opened with a reading of the village's stated values, the yearly ceremony that renewed the vows, the roles that passed from person to person so that when one person left, the *role* stayed and the next person could step into it.
+That is the first entry in this Regent's ledger and it goes in before anything else does. A keeper who cannot write down what their own arrival cost somebody else is keeping an account with a hole in it.
 
 For a generation, this worked beautifully.
 
-The villagers loved the Regent. The Regent gave them permanence. The Regent gave them identity: "this is who we are, this is what we stand for, this is how we do it." The Regent built the first inheritance: the stories that new members learned when they arrived, the language that everyone used to describe their shared work, the rituals that made the abstract feel real. The Regent took the Challenger's fire and turned it into something that could last.
+The villagers loved the Regent. The Regent gave them permanence. The Regent gave them identity: "this is who we are, this is what we stand for, this is how we do it." The Regent built the inheritance: the stories that new members learned when they arrived, the language that everyone used to describe their shared work, the rituals that made the abstract feel real. The Regent took the Challenger's fire and turned it into something that could last.
 
 The Regent made a mistake that cost everything.
 
