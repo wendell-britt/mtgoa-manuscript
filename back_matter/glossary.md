@@ -70,6 +70,12 @@ being good to somebody. *Ch 1*
 
 **Field, the** — The shared emotional space of an interaction. You have to let a feeling onto it before anything else in the practice works. *Ch 3 §4*
 
+**Five-Move Form, the** — Wake Up, Open Up, Clean Up, Grow Up, Show Up. Notice the signal,
+let it reach you, name what it is telling you, take the lesson, make the move. A form in the
+martial artist's sense: the same five run in every chapter's game section, and each Face
+teaches its own changes on them. Adapted from Ken Wilber's *Finding Radical Wholeness*.
+*Ch 3 §4*
+
 **Fixer/Healer, the** — The daemon that repairs what is broken and holds in place what is
 settled. As a demon it fixes people who never asked. *Ch 2 §6*
 
@@ -127,6 +133,6 @@ you. *Ch 2 §3*
 underneath the seven. She is the Player, and the whole walk reaches her: getting to the
 center and putting the joystick back in her hands. *Ch 2 §7; her gift carried up at Ch 8 §3*
 
-**WAVE-Spiral, the** — Wake, Open, Clean, Grow, Show. Notice the signal, let it reach you,
-name what it is telling you, take the lesson, make the move. The five stages run as the five
-moves in every chapter's game section. *Ch 3 §4*
+**WAVE** — A breath-length practice for charge that has already arrived in your body:
+Welcome, Acknowledge, Validate, Exhale. It buys you the few seconds in which choosing a next
+move becomes possible. Most at home in Open Up. *Ch 3 §4; App C*

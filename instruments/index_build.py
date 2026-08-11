@@ -106,7 +106,12 @@ TERMS = {
         ("peace (neutrality completed)", r"\bpeace\b"),
     ],
     "Practices": [
-        ("WAVE-Spiral",         r"WAVE.?Spiral|\bWAVE\b"),
+        ("Five-Move Form",      r"Five.Move Form"),
+        # Case-sensitive, scoped: the build compiles every pattern with re.I, and `wave`
+        # is an ordinary English verb. ch1:175 -- "makes serious people wave the whole
+        # idea away" -- was indexed as the breath practice on the first run after the
+        # rename. Rule 1 cannot see it: the term does have hits, they are the wrong word.
+        ("WAVE",                r"(?-i:\bWAVE\b)"),
         ("Wake Up",             r"\bWake Up\b"),
         ("Open Up",             r"\bOpen Up\b"),
         ("Clean Up",            r"\bClean Up\b"),
@@ -200,7 +205,11 @@ PRIMARY = {
     "triumph (anger completed)": "Ch 3 §4", "bliss (joy completed)": "Ch 3 §4",
     "peace (neutrality completed)": "Ch 3 §4",
     # practices
-    "BAR": "Ch 2 §9", "WAVE-Spiral": "Ch 3 §4", "Polarity Map": "Ch 3 §4",
+    "BAR": "Ch 2 §9", "Polarity Map": "Ch 3 §4",
+    # Two practices, two names, ruled 2026-08-07 in SPEC_WAVE_RENAME. One regex used to
+    # catch both and file them under `WAVE-Spiral`, which is how a half-finished rename
+    # survived four chapters, an appendix, a glossary and this file.
+    "Five-Move Form": "Ch 3 §4", "WAVE": "Ch 3 §4",
     "3-2-1 Shadow Process": "App E",
     # The five Ups are the MOVE names in §6, not the stage names in §4 -- §4 runs them
     # bare (Stage 1: Wake, Stage 2: Open). Recorded here because the first draft sent all

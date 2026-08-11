@@ -28,7 +28,7 @@ The Player had been through all six Faces. Had been the Shaman who names what's 
 
 When villagers asked *what now?* the Player said: *I'm going to build something.*
 
-A reaction would have pointed back at the village. So would a protest, and so would a critique of what the villagers kept getting wrong. This pointed forward. The Player had learned all the Faces. The Player had run the WAVE. The Player knew how to feel, how to draw lines, how to build, how to design, how to hold the field, how to see. Now the Player would make something new.
+A reaction would have pointed back at the village. So would a protest, and so would a critique of what the villagers kept getting wrong. This pointed forward. The Player had learned all the Faces. The Player had run the Form. The Player knew how to feel, how to draw lines, how to build, how to design, how to hold the field, how to see. Now the Player would make something new.
 
 The villagers were glad to see it. The villagers needed someone to go first. To show that the Faces weren't just a map for understanding: they were a toolkit for building. That after you learned to play all six, you could design your own game.
 
@@ -80,7 +80,7 @@ You have been the Sage. You know how to see which game you're in, switch deliber
 
 That's a design system. You have already lived every line of that list. That is what makes it usable.
 
-The six Faces are your toolkit. The WAVE is your process. The practice of returning is your anchor. Now you get to design your specific practice: your own combination of all six, grounded in your specific survival, your specific superpowers, your specific village.
+The six Faces are your toolkit. The Five-Move Form is your process. The practice of returning is your anchor. Now you get to design your specific practice: your own combination of all six, grounded in your specific survival, your specific superpowers, your specific village.
 
 Nobody else can design this game. Nobody else has your specific combination of gifts and gaps, your specific history, your specific people. The villagers needed the six Faces as a teaching instrument, and now the teaching instrument passes to you. You can use it to build whatever this book could not build. You can design the allyship practice that this book only points toward.
 
@@ -92,7 +92,7 @@ A practice is what you actually do when something hard happens.
 
 That's the only definition that matters. What you believe about allyship is a separate question. What you intend to do when you're calm is a separate question. This one names what you do when you're activated, when your mother calls, when the group chat erupts, when someone says something that lands wrong and you have to decide in real time whether to say something or say nothing. The practice happens when it costs you something to do it.
 
-You have been learning what to do in those moments. The WAVE. The six Faces. The emotional channels. These aren't concepts to understand: they're moves to make. Like any moves, they require practice, the doing kind, repeated, not the same as having read about them.
+You have been learning what to do in those moments. The Five-Move Form. The six Faces. The emotional channels. These aren't concepts to understand: they're moves to make. Like any moves, they require practice, the doing kind, repeated, not the same as having read about them.
 
 ---
 
@@ -100,7 +100,7 @@ You have been learning what to do in those moments. The WAVE. The six Faces. The
 
 ### *How to Design Your Own Allyship Game*
 
-The practice has five modes. They don't run in sequence the way the WAVE's stages do: they loop. You return to them, and each pass through goes a little deeper.
+The practice has five modes. They don't run in sequence the way the Form's stages do: they loop. You return to them, and each pass through goes a little deeper.
 
 ---
 
@@ -262,7 +262,7 @@ You now know the six Faces.
 
 ---
 
-You now know the WAVE. Wake up. Open up. Clean up. Grow up. Show up. Then you come back, and coming back is what turns one pass into a practice.
+You now know the Five-Move Form. Wake up. Open up. Clean up. Grow up. Show up. Then you come back, and coming back is what turns one pass into a practice.
 
 
 You know that the five emotional channels do more than name feelings: they map the territory you have been walking into. Fear, anger, sadness, joy, neutrality: each one a road you can walk instead of a threat to manage.
@@ -329,7 +329,7 @@ The ones who finished changed their relationship to the emotions that had made a
 
 The book in your hands came from the bottom of that well. The spite did not produce it. Proving I was right did not produce it. It came from the moment I connected back to myself after failing to make money or create the allies I'd wanted to create, and found that I'd learned something true about the places where my own unresolved stuff had limited my allyship.
 
-When I started writing this book, I didn't have it figured out. I had a felt sense of what was missing (a practice that actually taught the WAVE, that turned the emotional alchemy into moves you could run instead of only understand), and I had enough of the six Faces to know what I was trying to do. The book would not come clear. The shape kept changing. I sat in front of chapters I could not write with no way to tell tired from done, and I started them again anyway. The walk never ran straight from plan to execution. It ran on iteration. Review. Discern. Design. Build. Pass On. Loop.
+When I started writing this book, I didn't have it figured out. I had a felt sense of what was missing (a practice that actually taught the Form, that turned the emotional alchemy into moves you could run instead of only understand), and I had enough of the six Faces to know what I was trying to do. The book would not come clear. The shape kept changing. I sat in front of chapters I could not write with no way to tell tired from done, and I started them again anyway. The walk never ran straight from plan to execution. It ran on iteration. Review. Discern. Design. Build. Pass On. Loop.
 
 That's what the walk feels like. Not ascending. Circling. Each circle goes a little deeper.
 
@@ -337,7 +337,7 @@ That's what the walk feels like. Not ascending. Circling. Each circle goes a lit
 
 Every draft of this book was the walk, not a step toward it. You will plan, then execute, then find the plan was a draft. Every detour that feels like a detour is another stretch of the same road.
 
-The WAVE already taught you how to do this. Wake up: notice what happened. Open up: let the failure land at full strength before you start explaining it. Clean up: name what didn't work. Grow up: ask what you were wrong about. Show up: do the next version. Then come back: notice what shifted. What you learned.
+The Form already taught you how to do this. Wake up: notice what happened. Open up: let the failure land at full strength before you start explaining it. Clean up: name what didn't work. Grow up: ask what you were wrong about. Show up: do the next version. Then come back: notice what shifted. What you learned.
 
 ---
 
@@ -351,11 +351,11 @@ Here's what I've noticed about my own fear of building: it rehearses. The fear w
 
 Rehearsing failure and doing it feel identical from inside your head. Only one of them produces information. The rehearsal feels like work. The actual attempt runs simpler and scarier. Put it in front of someone and see what happens.
 
-The WAVE doesn't end when you leave the book. The WAVE runs through your actual life. Wake up: notice what's happening inside you when your mother calls, when the group chat erupts, when you read the news and feel it land. Open up: stay with it before you do anything with it. Clean up: name the channel and let it run to completion. Grow up: ask who you are willing to become. Show up: act from that place, not from the reactive place the old habit would have sent you to. Then come back: notice what happened, what shifted, what you learned.
+The Form doesn't end when you leave the book. It runs through your actual life. Wake up: notice what's happening inside you when your mother calls, when the group chat erupts, when you read the news and feel it land. Open up: stay with it before you do anything with it. Clean up: name the channel and let it run to completion. Grow up: ask who you are willing to become. Show up: act from that place, not from the reactive place the old habit would have sent you to. Then come back: notice what happened, what shifted, what you learned.
 
-The WAVE runs through your parenting. Through your partnership. Through your work. Through the group chat and the town hall and the election and the pandemic and whatever comes next. It's how you walk through the world.
+The Form runs through your parenting. Through your partnership. Through your work. Through the group chat and the town hall and the election and the pandemic and whatever comes next. It's how you walk through the world.
 
-My WAVE runs through the writing of this book. I wake up to what's actually happening in a chapter, not the version I wanted, but what's actually there. I open up to it before I start repairing it, the chapter stays as broken as it is for as long as it takes me to feel what's broken about it. I clean up the places where I'm performing instead of saying what's true. I grow up into the harder version of the idea I kept dodging. I show up to the page. I come back and notice that the chapter that had blocked me for three days unclogged the moment I stopped forcing it and let the Shaman name what was actually there.
+The Form runs through the writing of this book too. I wake up to what's actually happening in a chapter, not the version I wanted, but what's actually there. I open up to it before I start repairing it, the chapter stays as broken as it is for as long as it takes me to feel what's broken about it. I clean up the places where I'm performing instead of saying what's true. I grow up into the harder version of the idea I kept dodging. I show up to the page. I come back and notice that the chapter that had blocked me for three days unclogged the moment I stopped forcing it and let the Shaman name what was actually there.
 
 The walk also means walking into the specific problem you keep trying to solve.
 
@@ -373,7 +373,7 @@ What's yours?
 
 Here's the honest page.
 
-Not everyone finishes this book knowing exactly what they're building. Some of you remain in the middle of the walk: still in the confusion, still in the iteration, still redesigning the same mechanic for the third time. Some of you don't have a Founder move yet. You came to the work, you learned the Faces, you ran the WAVE, and you're still asking: *but what is mine?*
+Not everyone finishes this book knowing exactly what they're building. Some of you remain in the middle of the walk: still in the confusion, still in the iteration, still redesigning the same mechanic for the third time. Some of you don't have a Founder move yet. You came to the work, you learned the Faces, you ran the Form, and you're still asking: *but what is mine?*
 
 You might be a Cartographer who hasn't become a Founder yet. That's the stage you're in, and from inside it feels like failure. The Cartographer keeps mapping until the terrain reveals what needs building. When the problem becomes specific enough, when you've mapped it enough times that you can name it in a sentence, the Founder move will become obvious.
 

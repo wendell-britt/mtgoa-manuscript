@@ -67,11 +67,11 @@ Total: 11 seconds. You moved from defensive reactivity to grounded presence. The
 
 Something difficult happened. You have time to let it move through fully.
 
-**Wake:** You sit with the sadness. You let your body feel the loss.
-**Open:** You stop bracing and let the sadness reach its real size — including whatever is tangled up with it that you would rather not find.
-**Clean:** You ask: What am I grieving? You let the answer come: A relationship that can't survive this.
-**Grow:** You integrate: That relationship was real. It mattered. It didn't fail because I'm broken. It ended because we want different lives. That's true even though it hurts.
-**Show:** You let yourself cry. You reach out to a friend. You write down what you learned about yourself from that relationship.
+**Wake Up:** You sit with the sadness. You let your body feel the loss.
+**Open Up:** You stop bracing and let the sadness reach its real size — including whatever is tangled up with it that you would rather not find.
+**Clean Up:** You ask: What am I grieving? You let the answer come: A relationship that can't survive this.
+**Grow Up:** You integrate: That relationship was real. It mattered. It didn't fail because I'm broken. It ended because we want different lives. That's true even though it hurts.
+**Show Up:** You let yourself cry. You reach out to a friend. You write down what you learned about yourself from that relationship.
 
 Total: 1-2 hours. You've moved from raw pain to integrated wisdom. The move replenishes because the sadness gives something back: meaning, self-trust, and the capacity to love without pretending it did not hurt.
 
@@ -81,7 +81,7 @@ You feel sadness (Water) about a loss. You're also needed right now, and you nee
 
 **Wake → Open → Clean → Grow (in sadness):** You feel the sadness. You let it land fully. You understand what you lost. You integrate: That mattered, and it's gone.
 
-**Show:** The sadness clarifies what needs to be protected. From there, you take action to protect what's still here.
+**Show Up:** The sadness clarifies what needs to be protected. From there, you take action to protect what's still here.
 
 The move costs something, but it returns capacity. You are not bypassing the sadness. You are letting it become protection.
 
@@ -91,7 +91,7 @@ You're angry (Fire) and you want to speak a hard truth. You're also in a relatio
 
 **Wake → Open → Clean → Grow (in anger):** You feel the anger. You let the heat be fully present. You understand the violation. You integrate: This boundary matters.
 
-**Show:** Before you speak from pure heat, you ask: What's actually at risk if I say this? What's the real cost? You reassess. You realize: I can speak the truth AND preserve the relationship if I choose my words carefully.
+**Show Up:** Before you speak from pure heat, you ask: What's actually at risk if I say this? What's the real cost? You reassess. You realize: I can speak the truth AND preserve the relationship if I choose my words carefully.
 
 You show: You speak from clarity instead of heat.
 

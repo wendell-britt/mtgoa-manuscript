@@ -52,7 +52,7 @@ Locators are chapter and section rather than page. **Bold** marks where a term i
 
 **poignance (sadness completed)** — Key Terms, **Ch 3 §4**, Ch 4 §4, Ch 5 §4, Ch 6 §4, Ch 7 §4, Ch 8 §4
 
-**triumph (anger completed)** — Key Terms, **Ch 3 §4**, Ch 4 §4, Ch 5 §4, Ch 6 §4, Ch 6 §5, Ch 7 §4, Ch 8 §4
+**triumph (anger completed)** — Key Terms, **Ch 3 §4**, Ch 4 §4, Ch 5 §4, Ch 6 §4, Ch 7 §4, Ch 8 §4
 
 **Water / sadness** — **Ch 3 §4**, and throughout
 
@@ -66,9 +66,11 @@ Locators are chapter and section rather than page. **Bold** marks where a term i
 
 **BAR** — **Ch 2 §9**, and throughout
 
-**campaign** — Key Terms, Ch 1, Ch 2 §6, Ch 9 §7, App A, **App B**
+**campaign** — Key Terms, Ch 1, Ch 2 §6, Ch 9 §6, Ch 9 §7, App A, **App B**
 
 **Clean Up** — **Ch 3 §6**, and throughout
+
+**Five-Move Form** — **Ch 3 §4**, and throughout
 
 **Grow Up** — **Ch 3 §6**, and throughout
 
@@ -82,7 +84,7 @@ Locators are chapter and section rather than page. **Bold** marks where a term i
 
 **Wake Up** — **Ch 3 §6**, and throughout
 
-**WAVE-Spiral** — **Ch 3 §4**, and throughout
+**WAVE** — Key Terms, **Ch 3 §4**, App C, App D, App E, App F
 
 ## Game moves
 
@@ -90,7 +92,7 @@ Locators are chapter and section rather than page. **Bold** marks where a term i
 
 **Confront Without Cruelty** — Ch 4 §6, Ch 4 §7
 
-**Draw the Line** — Ch 4 §4, Ch 4 §6, Ch 4 §7, Ch 8 §1, Ch 8 §3, Ch 8 §6, Ch 9 §4, Ch 9 §5
+**Draw the Line** — Ch 4 §6, Ch 4 §7, Ch 8 §1, Ch 8 §3, Ch 8 §6, Ch 9 §4
 
 **Find What You Keep Defending** — Ch 4 §6, Ch 4 §7
 
