@@ -278,6 +278,8 @@ You need a practice. A structure. Something that repeats reliably so you can get
 
 That structure has a name: the Five-Move Form.
 
+*Form* is the martial artist's word, and it is the exact one. A form is a fixed order of moves you run alone, slowly, ten thousand times, so that on the day a hard moment arrives fast your body already knows where it is going. You learn it in pieces and you never finish it. The beginner runs the form and the master runs the form, and what separates them lives inside the same five moves.
+
 The Five-Move Form is a progression through five stages that can happen in ten seconds or ten hours depending on the depth and context. It moves emotional energy from activation → contact → clarity → integration → action.
 
 ---
@@ -285,7 +287,7 @@ The Five-Move Form is a progression through five stages that can happen in ten s
 ### The Five Stages of the Five-Move Form
 
 <!-- MARGINALIA -->
-> *Maera says the spiral can run in ten seconds. She is right, and she has been practising for
+> *Maera says the Form can run in ten seconds. She is right, and she has been practising for
 > thirty years.*
 >
 > *For your first year, run two: notice, and say. The other three are what you do afterwards, on
@@ -321,6 +323,10 @@ Here is where most well-meaning allies flinch, so let me say it straight: you di
 Turn the dial all the way up and something else surfaces, something a part of you has kept down there too. Somewhere in the hard moment, a part of you is getting something out of the very dynamic you say you want to end: the charge of being the good one, the relief when the conversation stays comfortable, the pull of an old hurt that has a use. Carolyn Elliott named this the existential kink, and I will not pretend I stand outside it: I have felt myself drawn toward my own smallness in the same moment I was performing my way past it. Opening makes the payoff visible. You only have to stop refusing to feel it, because what stays hidden runs the moment, and what you can feel, you can play.
 
 That leaves the fear that has been guarding all of it: the fear of doing more harm than you know. Opening does not make that fear disappear. Opening makes it available, fully felt instead of managed from a safe distance. The whole job of Open Up is to get the fear into your hands, where the work can reach it, and the skill that moves it is coming.
+
+Four beats cover the second when the charge has already arrived and the moment has not waited for you. **Welcome** the charge: stop pushing it away. **Acknowledge** it: name it to yourself, in one word if one word is all you have. **Validate** it: grant that a person standing where you are standing would feel this, which is a smaller claim than deciding the feeling is correct. **Exhale.**
+
+Those four are **WAVE**, and the whole of it runs about as long as one breath. WAVE does not tell you what the charge means; the meaning comes later, and this chapter builds a whole practice for finding it. What WAVE buys you is the few seconds in which choosing your next move becomes possible at all.
 
 #### Stage 3: Clean Up
 **What it means:** Correct distortion. Clarify what the feeling is actually telling you about reality.
@@ -733,7 +739,7 @@ You know what emotional alchemy is. You have run the five stages. You have met t
 
 Winning at the Shaman's altitude is smaller than you want it to be: one true sentence, said to a person who can hear it, while it is still live. That is the whole win. Insight does not count. A more accurate model of the group than anyone else has does not count. One sentence counts: the one that left your body, entered the situation, and changed what was possible inside it. The woman at the council did not bring the elders a framework. She brought them four sentences she had been holding for three seasons, said to the one face that could act on them.
 
-Everything in Section 4 was the instrument. These five are what you do with the instrument when other people are present and the clock is running. They run in the spiral's order, because the spiral is the order: you catch the signal, you let it up, you name the channel, you find what it grew, you spend it. Section 4 taught you to run that alone. These five are what it costs to run it where somebody is watching.
+Everything in Section 4 was the instrument. These five are what you do with the instrument when other people are present and the clock is running. They run in the Form's order, because the Form is the order: you catch the signal, you let it up, you name the channel, you find what it grew, you spend it. Section 4 taught you to run that alone. These five are what it costs to run it where somebody is watching.
 
 ---
 
@@ -877,7 +883,7 @@ The five moves are this chapter, in order. Every stage you practiced is one of t
 
 Draw from your twenty rather than the hundred and twenty. Which twenty is easy. Which of the five rows is the real question, and a tempting wrong answer waits: that a shadow lives at one move and the other four are clean.
 
-They are not clean. A daemon is not a defect at one stage of the spiral. It is a rule, and the rule is in force the whole way down. Run the Controller through all five moves and five different failures come out, one per move, exactly what makes the five worth having, because each of those failures has cards sitting beside it.
+They are not clean. A daemon is not a defect at one stage of the Form. It is a rule, and the rule is in force the whole way down. Run the Controller through all five moves and five different failures come out, one per move, exactly what makes the five worth having, because each of those failures has cards sitting beside it.
 
 **Wake Up.** The signal arrives at full strength and gets logged at a strength you are cleared to be seen having. Nothing is missed. Everything is downgraded on the way in.
 
@@ -895,7 +901,7 @@ Take **What Seeing Costs**: Open Up, Raise Awareness, Shaman. Its question is th
 
 Run it once, on something real. Bring a time somebody told you something true about harm you had a hand in. Wake Up: what arrived, and where in your body. Open Up: stay there for the length of an exhale without converting it into a response. Clean Up: name the channel, one of Fire, Water, Metal, Earth, Wood. Grow Up: name the capability that channel restores when it completes. Show Up: pick one of the four domains and say where this goes.
 
-Five moves, one card, about ninety seconds. That is a full pass of the spiral with an instrument in your hand.
+Five moves, one card, about ninety seconds. That is a full pass of the Form with an instrument in your hand.
 
 ### From Card to Quest
 

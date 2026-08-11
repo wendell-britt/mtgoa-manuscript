@@ -153,7 +153,7 @@ question. She thought I was asking when the building went up.*
 each accurate read will feel like an accomplishment. It is not one. A read that never becomes
 a move is a very sophisticated way of standing still, and I have watched people build whole
 careers in that spot and be admired the entire time.*"""),
-("### The Five Stages of the Five-Move Form", """*Maera says the spiral can run in ten seconds. She is right, and she has been practising for
+("### The Five Stages of the Five-Move Form", """*Maera says the Form can run in ten seconds. She is right, and she has been practising for
 thirty years.*
 
 *For your first year, run two: notice, and say. The other three are what you do afterwards, on
