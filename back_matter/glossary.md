@@ -15,6 +15,10 @@ stayed a read. *App A; first used Ch 2 §10*
 at its own altitude, and the Regent's is loyalty. You carry the lower altitudes rather than
 leaving them behind. *Ch 8; Ch 5 §4 for the Regent's; the rule is Ken Wilber's*
 
+**Architect, the** — The Face that makes the right move the easy move. Means: the rule
+changed, so nobody has to be brave twice. Works in logic, and reads a situation as a
+system that is producing exactly what it was built to produce. *Ch 6*
+
 **BAR** — Breakthrough, Action, Reflection. Game tape, not journaling. You run one right
 after a hard moment, while the feeling is still close enough to name. *Ch 2 §9*
 
@@ -41,6 +45,11 @@ door still lands. *Ch 2 §7*
 through: fear into wonder, sadness into poignance, anger into triumph, joy into bliss,
 neutrality into peace. Each one hands back a capability you did not have while the feeling
 stayed stuck. *Ch 3 §4*
+
+**Controller, the** — The daemon that decides how you may behave once you are inside.
+It holds the standard: the right way to say it, the acceptable amount of feeling, the
+version of you that is allowed in the door. Chapter 3 calls it the referee, where it
+rules your charge a foul before you can spend it. *Ch 2 §6; Ch 3 §5*
 
 **Daemon** — A part of you that runs in the background, on its own, with no one holding the
 joystick. Seven of them. A daemon you befriend joins your party; one left running stays a

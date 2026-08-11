@@ -235,7 +235,7 @@ The Sage doesn't get this by leaving. The Sage gets this by staying: by seeing e
 
 Not *instead of* choosing. *Along with* choosing.
 
-### *The Ladder Underneath: What the Sage Knows That the Other Five Cannot See*
+### *What the Watcher Kept: The Gift and the Limit of Each One*
 
 The Sage's journey runs inward and then back. Corin would call going inward a retreat, and they would have the movement right and the destination wrong. At each school, you did the work and also watched yourself do it. That watcher is the Sage, and the watcher accumulates a specific kind of knowledge: the gift and the limit of each one, held at the same time.
 
@@ -267,7 +267,7 @@ Both are real. Both are load-bearing. The game read tells you what to do. The al
 
 You may choose one. The failure comes when one answers the other's question.
 
-That collapse has a signature and it runs in one direction far more often than the other: the game read gets converted into an altitude verdict. Somebody is in the power game, therefore they're at Red, therefore this conversation is beneath the frame you brought to it. Each step feels like an inference. The last one is contempt with a diagram attached.
+That collapse has a signature and it runs in one direction far more often than the other: the game read gets converted into an altitude verdict. Somebody is in the power game, therefore that is all they can hold, therefore this conversation is beneath the frame you brought to it. Each step feels like an inference. The last one is contempt with a diagram attached.
 
 It runs the other way too, less often and just as expensively. You decide the group sits at one altitude, so you treat every conflict as that kind of conflict, and the boundary violation sitting in the middle of the table goes unnamed because your altitude read has already told you what kind of problem this must be.
 
@@ -332,6 +332,8 @@ The draw takes a situation you are already inside and already have a view about,
 
 4. Sit 30 seconds. Notice whether you had evidence for the second half
    or only an assumption you had been carrying.
+
+*For the full process and additional pairs, see Appendix F: The Polarity Map.*
 
 ---
 

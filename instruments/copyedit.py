@@ -89,6 +89,8 @@ BRITISH = {
     #   disorganised ch3:860 -- the organize family runs 63 : 1 in the body
     # `organise`/`organised` were already here and still missed `disorganised`,
     # which is the same prefix-shaped hole that `towards` left for `afterwards`.
+    # per cent  ch8:764 -- fixed on the 1sizjz line; the phrase stays in the dict because
+    # it is two words and every other British form here is one, so nothing else catches it.
     "rigour": "rigor", "programme": "program", "programmes": "programs",
     "instalment": "installment", "instalments": "installments",
     "signalled": "signaled", "signalling": "signaling",
@@ -133,6 +135,8 @@ def main():
     for p in paths:
         name = os.path.basename(p).replace(".md", "")
         for i, line in body_lines(p):
+            if "per cent" in line.lower():
+                spelling.append((name, i, "per cent -> percent"))
             for w in re.findall(r"\b[A-Za-z]+\b", line):
                 if w.lower() in BRITISH:
                     spelling.append((name, i, "%s -> %s" % (w, BRITISH[w.lower()])))

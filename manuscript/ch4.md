@@ -620,7 +620,7 @@ The naming does the work. Most situations have a specific event, a violation or 
 
 In practice: Next time you're in a meeting and something happens that you can feel everyone noticing and nobody stating, that is your cue. State it. Plainly. *"That comment about X wasn't accurate. I want to note that before we move on."*
 
-**Example:** A senior colleague says a contractor is not going to be here long enough to matter. Priya is on the call. Nobody picks it up and the agenda moves. Forty seconds later you say *we skipped past something, and it was about Priya, who is on this call.* Stop there. You know what her next three weeks look like, because you have been the contractor. Your silence would have cost her, not you. She did not ask you to name it, and that risk is yours.
+**Example:** A senior colleague says a contractor is not going to be here long enough to matter. Priya is on the call. Nobody picks it up and the agenda starts to move. You say it before it does: *we skipped past something, and it was about Priya, who is on this call.* Stop there. You know what her next three weeks look like, because you have been the contractor. Your silence would have cost her, not you. She did not ask you to name it, and that risk is yours.
 
 **The test:** It is now named, stated plainly, in the moment, with no solution attached. What the group does with it next is the group's. The naming is the whole move.
 
