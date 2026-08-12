@@ -449,7 +449,7 @@ The goal is to move through the cycle more consciously, more fully, each time. E
 
 You take over a team. The team has a culture, one you would not have built. Some of it is good. Some of it is harmful. The previous leader left and left you holding it.
 
-The Regent doesn't ask: how do I rebuild this in my image? The Regent asks: what was handed to me, what still serves, what needs reforming, and who am I handing this to when I'm done?
+The Regent doesn't ask: how do I rebuild this in my image? The Regent asks: what was handed to me, what still serves, what am I tending on the days nobody watches, what needs reforming, and who am I handing this to when I'm done?
 
 You start with Inherit: *this is what I received.* You spend time actually looking at the inheritance before you try to change it. Then Honor: *this part is load-bearing.* Then Steward: *I'm going to tend this, including the parts I have not decided about yet.* Then Reform: *this part has to change, and I am going to say so where it costs me something.* Then Entrust: *I'm going to prepare the next person, not a replica of me, but a person with enough context to make their own good decisions.*
 
@@ -609,7 +609,7 @@ Theirs is doing the same job in a Forest you cannot see into. A stranger's Fixer
 
 Okay. You've met the Fixer/Healer and named one inheritance out loud. Now, what does it actually look like in a real situation?
 
-The Regent's game is inheritance and stewardship. The Regent asks, in any situation: *what was handed to me here, what still serves, what needs reforming, and who am I handing this to when I'm done?*
+The Regent's game is inheritance and stewardship. The Regent asks, in any situation: *what was handed to me here, what still serves, what am I tending on the days nobody watches, what needs reforming, and who am I handing this to when I'm done?*
 
 ### Move 1: Name the Inheritance
 
@@ -619,7 +619,7 @@ The Regent's game is inheritance and stewardship. The Regent asks, in any situat
 
 In practice: When you take on a new role, a new team, a new responsibility, before you make a single change, spend time understanding what was handed to you. Ask: *why is this here? Who built this? What was it trying to do?* You may find the answer changes your entire approach.
 
-**Example:** You take over the team calendar and find a standing Friday-afternoon review that Yusuf has never once been able to make. Nobody built it against him and nobody has moved it in four years. Before you move it, find out what the Friday was for. A manager set it so the week would end on a decision, and it still does that. Say both out loud: *this exists for a reason, and it has been costing one person for four years.* Naming both is the whole move. Moving it is Move 3.
+**Example:** You take over the team calendar and find a standing Friday-afternoon review that Yusuf has never once been able to make. Nobody built it against him and nobody has moved it in four years. Before you move it, find out what the Friday was for. A manager set it so the week would end on a decision, and it still does that. Say both out loud: *this exists for a reason, and it has been costing one person for four years.* Naming both is the whole move. Moving it is Move 4.
 
 **The test:** You named what arrived before you changed any of it. Finding something worth keeping is a bonus, not the bar. If the first change is already made, you skipped the move.
 
@@ -633,17 +633,7 @@ In practice: Make a list of three practices in your current inheritance that you
 
 **The test:** You can say what would break if it were removed. Agreement from anyone else is a separate question. Anything you cannot name a breakage for is a preference wearing inheritance.
 
-### Move 3: Reform Without Erasing
-
-**What it is:** The Reformer changes the tradition while honoring the lineage. The key word is *while.* You can reform and honor simultaneously. Ask: what is this tradition essentially trying to do, and does the current form still do it?
-
-In practice: When you see something that needs to change, ask two questions: (1) What is this trying to do? (2) Is it still doing it? If the answer to (2) is no, change the form but keep the essence. Tell people what you're doing and why: *I'm not discarding this. I'm updating it.*
-
-**Example:** The school system has a legal name field and a preferred name field, and Ana is nine and has answered to the wrong name at register for two years, because the sync overwrites her preferred name every night. Ask the two questions. The form is trying to match children to legal records, and it still does that. The sync is not doing anything anyone designed it to do. Fix the sync, keep the field, and tell people which of the two you changed and why.
-
-**The test:** You named what the tradition was trying to do before you changed how it does it, and you told people which of the two you were changing. Results arrive on their own schedule.
-
-### Move 4: Keep the Vows
+### Move 3: Keep the Vows
 
 **What it is:** The Keeper of Vows does the unsexy work. The work nobody sees. The ongoing commitments that define you by their presence, not their absence.
 
@@ -652,6 +642,16 @@ In practice: Identify one commitment you've made that nobody watches you keep. D
 **Example:** Two years ago you told a team you would read every incident report yourself, and nobody has checked since. This month brings eleven, and nine are routine. Read the nine. Nobody will know either way, which is the point. The vow is not the reading. The vow is that what you said was true stays true on the day it costs you an hour and buys you nothing.
 
 **The test:** You kept it on the day it would have cost you nothing to drop it and nobody would have known either way. Being noticed is a separate question, and usually the answer is no.
+
+### Move 4: Reform Without Erasing
+
+**What it is:** The Reformer changes the tradition while honoring the lineage. The key word is *while.* You can reform and honor simultaneously. Ask: what is this tradition essentially trying to do, and does the current form still do it?
+
+In practice: When you see something that needs to change, ask two questions: (1) What is this trying to do? (2) Is it still doing it? If the answer to (2) is no, change the form but keep the essence. Tell people what you're doing and why: *I'm not discarding this. I'm updating it.*
+
+**Example:** The school system has a legal name field and a preferred name field, and Ana is nine and has answered to the wrong name at register for two years, because the sync overwrites her preferred name every night. Ask the two questions. The form is trying to match children to legal records, and it still does that. The sync is not doing anything anyone designed it to do. Fix the sync, keep the field, and tell people which of the two you changed and why.
+
+**The test:** You named what the tradition was trying to do before you changed how it does it, and you told people which of the two you were changing. Results arrive on their own schedule.
 
 ### Move 5: Entrust Without Clinging
 

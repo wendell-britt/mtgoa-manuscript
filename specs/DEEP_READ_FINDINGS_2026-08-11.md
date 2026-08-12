@@ -150,6 +150,17 @@ each; slash owns ch2, ch9, the glossary, the index and three appendices. **The s
 currently wrong about what the book does**, and ch6:372 introduces a third form (bare *Fixer*)
 inside the fixed Forest litany.
 
+**R5 · `ch5`'s two stage orders. RULED AND APPLIED 2026-08-11** on
+`claude/reconcile-final-proof-hxk3`. **Section 4's sequence wins**, because `ch5:394` argues
+for it at length and Section 6 argued for nothing. Move 3 and Move 4 are swapped, so the game
+moves run Inherit → Honor → **Steward → Reform** → Entrust, matching the stage sequence. The
+in-chapter pointer at `ch5:622` follows the move it points at. **And the same defect had a
+third face:** the chapter's own one-sentence statement of the Regent's question named four
+stages and dropped Steward, at `ch5:452` and `ch5:612` both — the stage ch5 calls *"the
+longest, and the least visible."* Steward is now in the question at both sites.
+
+The original collision:
+
 **R5 · `ch5`'s two stage orders.** `ch5:384` — `Inherit → Honor → **Steward → Reform** →
 Entrust`. The game moves ship **Move 3 Reform, Move 4 Keep the Vows** — swapped. `ch5:394`
 builds a paragraph on why the order matters: *"stewardship earns you loyalty, and **reform
