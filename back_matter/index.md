@@ -174,7 +174,7 @@ Locators are chapter and section rather than page. **Bold** marks where a term i
 
 **Egan, Gerard** — Ch 2 §7, Ch 4 §6, Ch 8 §4, App G
 
-**Elliott, Carolyn** — Copyright page, Ch 1, Ch 2 §1, Ch 3 §4, App G
+**Elliott, Carolyn** — Copyright page, Key Terms, Ch 1, Ch 2 §1, Ch 3 §4, App G
 
 **Gendlin, Eugene** — Copyright page, Ch 3 §4, App G
 

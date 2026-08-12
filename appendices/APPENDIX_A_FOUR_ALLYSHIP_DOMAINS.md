@@ -162,7 +162,7 @@ The affinities reflect daemon function, not arbitrary assignment: Emotional Body
 
 The affinity above routes *your* daemons to a domain: which of them is live in you, and where that tends to send you. Call it the question of where.
 
-The person you are working with has the same eight, and theirs settle a different question: what the work has to be for once it arrives. Chapter 2 walks their Forest and names the mechanic. Their Protector holds the door, the other seven stand behind it, and how far it lets you in decides which of them you ever reach. The domains are how you get to them.
+The person you are working with has the same seven, and theirs settle a different question: what the work has to be for once it arrives. Chapter 2 walks their Forest and names the mechanic. Their Protector holds the door, the other six stand behind it, and how far it lets you in decides which of them you ever reach. The domains are how you get to them.
 
 | Domain | What it can offer the guard on the other side |
 |--------|-----------------------------------------------|
@@ -171,7 +171,7 @@ The person you are working with has the same eight, and theirs settle a differen
 | Direct Action | **Protector** — your body between them and whatever is coming. **Fixer/Healer** — the repair they chose, finished |
 | Raise Awareness | **Skeptic** — the doubt spoken out loud before anybody spends. **Emotional Body** — witness, which is a domain doing a daemon's job exactly |
 
-Eight daemons across four domains makes thirty-two cells, and thirty-two cells is homework rather than a grammar. Three worked pairs carry the method:
+Seven daemons across four domains makes twenty-eight cells, and twenty-eight cells is homework rather than a grammar. Three worked pairs carry the method:
 
 **Protector × Gather Resources.** Rent, a working lock, a place to sleep that nobody can take back. A Protector never trusted sincerity and never will; it trusts a threat that got smaller. Material safety is the only argument in the language it speaks.
 

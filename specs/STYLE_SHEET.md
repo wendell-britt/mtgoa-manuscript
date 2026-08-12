@@ -156,8 +156,9 @@ occurrence-level scan got it right. **Count occurrences, not lines.**
 `ch9:670` alone) and ch8 ×3. **17 capitals stay**, all naming-sense, listed above.
 
 **Always capitalised:** the six Faces (Shaman, Challenger, Regent, Architect, Diplomat, Sage)
-· the Player · the eight daemons (Protector, Controller, Skeptic, Fixer/Healer, Emotional
-Body, Victim, Damaged Self, Vulnerable Child) · the Forest · the Arcade · the WAVE · the four
+· the Player · the seven daemons (Protector, Controller, Skeptic, Fixer/Healer, Emotional
+Body, Victim, Damaged Self) and the Vulnerable Child at the center, who is the Player rather
+than an eighth daemon (ruled 2026-08-11; `ch2:275`, `ch9:430` and the glossary all say seven) · the Forest · the Arcade · the WAVE · the four
 domains (Direct Action, Raise Awareness, Gather Resources, Skillful Organizing) · the five
 channels' element names (Metal, Water, Wood, Fire, Earth).
 

@@ -61,8 +61,10 @@ out. The Protector's last resort. *Ch 2 §6*
 **Diplomat, the** — The Face that keeps people at the table who should have walked out an
 hour ago. Means: nobody left the table. *Ch 7*
 
-**Distortion, the** — What the villagers do with a Face's work once the Face is gone. Not the
-opposite of the gift — the gift collapsed into its shadow. *Ch 3 §2, and once per chapter*
+**Distortion, the** — A gift turned against the people it was meant to serve. Yours is a
+Face running from disowned material instead of being chosen. The village's is what the
+villagers do with a Face's work once the Face is gone: the gift collapsed into its shadow.
+*Ch 2 §1 for yours; Ch 3 §2 and once per chapter for theirs*
 
 **Emotional alchemy** — Staying with a feeling long enough to understand what it is saying,
 and letting the body finish the cycle, rather than converting the feeling into action. *Ch 3 §3*
@@ -123,8 +125,10 @@ without you. It is the only one of the six that counts your absence as success. 
 admissions page saying who it is for, what it costs, and what it does not teach. *Ch 3
 through Ch 8*
 
-**Shadow, the** — The face you overplay: your own strength pushed past the point where it
-still helps. Your shadow is the game master until you look at it. *Ch 1*
+**Shadow, the** — The material you disowned: a pattern that did something specific
+for you once and still runs from out of sight. What you overplay when a Face runs from that
+material is the Face in distortion, and Chapter 2 holds the two apart on purpose, one word
+each: Shadow, distortion, cost. Carolyn Elliott's term. *Ch 2 §1; Ch 8 §1*
 
 **Shaman, the** — The Face that feels what is happening before anyone can name it. Means:
 somebody said the unsaid charge, and it landed. *Ch 3*
