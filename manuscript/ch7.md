@@ -79,6 +79,20 @@ The five stages of the Diplomat's work run as a journey in sequence rather than 
 
 Each stage earns the next. Bridge without Translate is noise. Translate without Hold is a promise no one trusts. Hold without Repair is a wound left to fester. Repair without Negotiate is generosity without closure, and generosity without closure stops being a gift; it becomes a slow form of self-destruction that everyone in the field learns to take for granted.
 
+The Diplomat arrived into a village that had everything except the willingness to be in one conversation. It had lines from the Challenger and continuity from the Regent, and from the Architect it had designs that assumed a goodwill nobody had. Each camp could state its own position perfectly and could not hear the other camp state theirs.
+
+The Diplomat went between them. Stood in the middle of arguments that had been running for years and let them run at full volume without stepping out of the middle. Rendered one camp's language into the other's without flattening either. Went back after ruptures rather than letting the injured show themselves out. For a long stretch the village held together better than it had since the Shaman, and the villagers said so out loud.
+
+Then the Diplomat did the other half of the work. In one hard conversation, the Diplomat named what staying would cost: what each side was protecting, what the agreement would actually require, and what would have to change for the Diplomat's own presence there to keep meaning anything. It came without heat. It came as a term rather than a threat.
+
+**The village heard a threat.**
+
+Somebody who had held the middle for free was now naming a price, and a village that has been receiving something for free will read the first invoice as a betrayal. Nobody argued with the terms. They stopped bringing the Diplomat the conversations where terms would come up. The warmth stayed exactly where it was. The invitations to the hard ones thinned out and then stopped.
+
+The Diplomat left.
+
+The villagers never meant for that to happen. They never said *go.* They just stopped asking for the close. Which, it turns out, amounts to exile.
+
 **The Diplomat means: nobody left the table.** It is the most generous of the six and the easiest to overspend, because a table nobody leaves also decides nothing.
 
 ---
