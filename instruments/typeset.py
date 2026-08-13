@@ -442,6 +442,24 @@ def components():
     return out, tally, flags
 
 
+def output_path():
+    """The one definition of where `--write` puts the intermediate.
+
+    Both builders used to re-derive this with `newest("MTGOA_TYPESET_*.md")`,
+    which sorts a glob **by filename**, so any file matching that pattern and
+    sorting later won permanently. On 2026-08-13 a reflow source named
+    `MTGOA_TYPESET_REFLOW_<date>.md` did exactly that -- "R" sorts after "2" --
+    and `build_pdf.py` silently set the book from it, dropping the hyphenation
+    rulings. The PDF still built, still passed its own structural check, and the
+    only thing that caught it was re-running the proofread.
+
+    A builder that runs `typeset.py --write` already knows the answer; it does
+    not need to guess. This function is that answer, and there is no pattern left
+    to collide with.
+    """
+    return os.path.join(BUILD, "MTGOA_TYPESET_%s.md" % datetime.date.today())
+
+
 def to_markdown(comps):
     """One file, every component announced by an H1 carrying its own metadata.
 
@@ -504,7 +522,7 @@ def main():
             print("\nRefusing to write: %d BLOCKER flag(s)." % len(blockers))
             return 1
         os.makedirs(BUILD, exist_ok=True)
-        out = os.path.join(BUILD, "MTGOA_TYPESET_%s.md" % datetime.date.today())
+        out = output_path()
         io.open(out, "w", encoding="utf-8").write(to_markdown(comps))
         print("\nWrote %s (%d components)" % (os.path.relpath(out, ROOT), len(comps)))
         return 0

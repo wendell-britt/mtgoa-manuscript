@@ -42,7 +42,7 @@ still builds, still opens, still reads — as one voice instead of two. So the
 device counts in the EPUB are checked against the counts `typeset.py` resolved,
 per device, and a mismatch fails the build.
 """
-import io, os, re, sys, glob, uuid, zipfile, datetime, subprocess
+import io, os, re, sys, time, glob, uuid, zipfile, datetime, subprocess
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, os.pardir)
@@ -89,11 +89,6 @@ DEVICES = ("marginalia", "epigraph", "handbook", "signature", "postcard",
            "sectionsubtitle", "scenebreak", "centered")
 
 
-def newest(pattern):
-    files = sorted(glob.glob(os.path.join(BUILD, pattern)))
-    return files[-1] if files else None
-
-
 def unhyphenate_for_reflow(src):
     """Undo `typeset.py`'s hyphenation rulings. They are a fixed-measure fix.
 
@@ -110,10 +105,14 @@ def unhyphenate_for_reflow(src):
     thing the EPUB undoes, and it undoes it because the defect it fixes cannot
     exist in a reflowing book.
     """
-    # NOT "MTGOA_TYPESET_*" -- both builders resolve their source with
-    # newest("MTGOA_TYPESET_*.md"), so a file named that way is picked up by
-    # build_pdf.py on its next run and the PDF silently loses the rulings. Caught
-    # 2026-08-13 by re-proofing after the change: trade went back to 2 fragments.
+    # Named deliberately outside the "MTGOA_TYPESET_*" space. That pattern used to
+    # be how both builders found their source, and this file -- first called
+    # MTGOA_TYPESET_REFLOW_<date>.md -- beat the real one because the glob sorted
+    # by filename and "R" sorts after "2". build_pdf.py set the book from it and
+    # dropped the hyphenation rulings, silently. The glob is gone now and
+    # typeset.output_path() is the only answer, so this name no longer *has* to
+    # differ; it still does, because two files with one prefix invited the
+    # collision in the first place.
     out = os.path.join(BUILD, "MTGOA_REFLOW_SRC_%s.md"
                        % datetime.date.today().isoformat())
     text = io.open(src, encoding="utf-8").read()
@@ -126,12 +125,31 @@ def unhyphenate_for_reflow(src):
 
 
 def typeset_source():
+    """The normalised source, resolved by name rather than by pattern.
+
+    `typeset.py` writes one file and knows its path; asking it beats globbing for
+    it. The two guards below are independent on purpose -- the first says we are
+    reading the file typeset owns, the second says *this run* wrote it, so a
+    stale intermediate from an aborted build cannot be set either.
+    """
+    sys.path.insert(0, HERE)
+    from typeset import output_path
+    t0 = time.time()
     rc = subprocess.call([sys.executable, os.path.join(HERE, "typeset.py"), "--write"],
                          cwd=ROOT, stdout=subprocess.DEVNULL)
     if rc != 0:
         sys.stderr.write("typeset.py refused to write. Run it directly for the flags.\n")
         return None
-    return newest("MTGOA_TYPESET_*.md")
+    src = output_path()
+    if not os.path.exists(src):
+        sys.stderr.write("typeset.py returned 0 and %s is not there.\n"
+                         % os.path.relpath(src, ROOT))
+        return None
+    if os.path.getmtime(src) < t0 - 1:
+        sys.stderr.write("%s predates this run -- refusing to set a stale source.\n"
+                         % os.path.relpath(src, ROOT))
+        return None
+    return src
 
 
 def expected_devices(src):
