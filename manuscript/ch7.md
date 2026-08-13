@@ -218,8 +218,6 @@ One part of this belongs specifically to this reader, and it explains why the ax
 ## Section 4: The Practice
 ### *The Five Modes — How the Diplomat Actually Works*
 
-*Emotional alchemy vocabulary, for the moves below. **Dissatisfaction moves** alchemize a negative charge into a positive one. **Control moves** redirect a pattern into a structure that holds it, which fixes structure rather than emotion. If these terms are unfamiliar, Chapter 3 (The Shaman) has the full system.*
-
 ---
 
 The native material at the Diplomat's altitude is *relationship*. You carry emotion, will, loyalty, and logic alone. Relationship needs a second person before it exists at all.
@@ -265,6 +263,12 @@ Each mode rests on a specific EA signal and its own alchemical arc:
 Each mode below runs its full arc, the dissatisfaction it carries and the alchemy that transmutes it. Calm is not the entry fee. Whatever you feel as you sit down, one of these five works with that feeling rather than around it.
 
 ---
+
+### The Stage Sequence: Bridge → Translate → Hold → Repair → Negotiate
+
+The five stages track how the work moves. The five modes describe who you are while you make it: Bridge and the Bridge-Builder, Translate and the Translator, Hold and the Field-Holder, Repair and the Repairer, Negotiate and the Integrative Negotiator. Section 1 ran the sequence and said why each stage earns the next. Each block below carries a seat's name.
+
+*Three labels run through the blocks below. An **Alchemy** move converts a charge into the state on the far side of it. A **Translate** move carries meaning across without flattening either side. A **Control** move redirects a pattern into a structure that holds it, which fixes structure rather than emotion. The labels are this chapter's; the channels and the arcs they run on are Chapter 3's.*
 
 ### Mode 1 — Bridge-Builder
 
