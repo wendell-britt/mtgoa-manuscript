@@ -549,12 +549,12 @@ Three exchanges at minimum. The answers don't have to be polite.
 
 Each chapter ahead opens its pass with a sentence like that one. Work it if it moves something in you. If it doesn't, work the charge that does. A live charge does more than a fabricated one. If nothing is live yet, run it dry; reaching the charge is the capacity you are building.
 
-This is emotional processing, and the material it works on has weight. Some of what surfaces wants a trained person in the chair with you. When that happens, the practice is doing its job, and getting help is your next move rather than a failure.
+This is deep work on live material, and the material has weight. Some of what surfaces wants a trained person in the chair with you. When that happens, the practice is doing its job, and getting help is your next move rather than a failure.
 
 | Stuck because… | Tool |
 |----------------|------|
-| Charge is in a *person* | 3-2-1 — here, and in every chapter after this one |
-| Stuck between two *rights* | Polarity Map — here, and in every chapter after this one |
+| Charge is in a *person* | 3-2-1 — here, and in every Face chapter after this one |
+| Stuck between two *rights* | Polarity Map — here, and in every Face chapter after this one |
 | Charge is in *body* now | WAVE |
 
 *Full process, worked examples, and source (Ken Wilber, Integral Life Practice): Appendix E: The 3-2-1 Shadow Process.*

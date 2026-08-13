@@ -210,7 +210,7 @@ The Architect's pair: the structure that produces the outcome versus the agency 
 
 **Agency** says the person chose. Somebody with the same incentives, in the same seat, on the same day, chooses otherwise, and the fact that they can is not a rounding error in the model. It is the whole reason any of this is worth doing. A system that could not be defied would not need allies. Every account of a person who broke ranks at cost is an account of Agency, and no incentive map predicts them.
 
-You can picture the failure at each end. Structure without Agency builds a machine that treats people as inputs, gets the throughput it designed for, and cannot understand why nobody inside it will meet its eye. It also produces the most comfortable sentence in the discipline (*the system did it*), true, and nobody has ever needed courage to say it. Agency without Structure blames individuals for outcomes the design guarantees, burns through good people looking for better ones, and watches the same failure arrive every eighteen months with a new name attached.
+You can picture the failure at each end. Structure without Agency builds a machine that treats people as inputs, gets the throughput it designed for, and cannot understand why nobody inside it will meet its eye. It also produces the most comfortable sentence in the discipline (*the system did it*), which is usually true. Agency without Structure blames individuals for outcomes the design guarantees, burns through good people looking for better ones, and watches the same failure arrive every eighteen months with a new name attached.
 
 The pair gets specific for the student the School of the Pattern attracts. The suspicion runs one direction. Agency language has warnings attached to it at this altitude, and rightly: *personal responsibility* has done a great deal of work for people who wanted nothing to change. Structure language has none. It arrives sounding like analysis, like sophistication, like the opposite of blame. So the drift runs toward a structural account of every situation you were personally in, the one account that never requires you to have been there as a person. In practice it is cruelty, specified as rigor.
 
@@ -267,14 +267,25 @@ The five Architect modes are five ways logic moves through a problem. Each one w
 
 Neither pole is the answer. The position takes a judgment call every time, and only a directional diagnostic works.
 
-Take the last workplace failure you explained to somebody.
+**Try this now.**
 
-1. Write the explanation you gave, in one sentence.
-2. Mark it: Structure, Agency, or both.
-3. Now do the same for the four before it.
+1. Take the last workplace failure you explained to somebody, and write the
+   explanation you gave, in one sentence.
 
-Five marks. Read the column, not any single row. A run of five in one direction
-is not five judgments. It is one habit, applied five times.
+2. Draw the axis:
+
+   **STRUCTURE** ←——●——→ **AGENCY**
+
+   Mark where that explanation actually sat. Then mark the four explanations
+   before it on the same line. Five marks. Read the column, not any single row:
+   a run of five in one direction is not five judgments, it is one habit
+   applied five times.
+
+3. Write one integrated sentence that holds both poles at once:
+   *"The design produced __________, and the person standing inside it still
+   chose __________."*
+
+4. Sit thirty seconds. Notice: heat with nowhere to go, heaviness, or ground.
 
 ---
 

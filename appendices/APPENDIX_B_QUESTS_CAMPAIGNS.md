@@ -6,11 +6,11 @@
 
 ---
 
-You crossed the forest. You met the Faces. You know the moves.
+You have walked into the Forest and started meeting the Faces. Whether you are one chapter in or nine, the moves you have so far are enough to start.
 
 This is the game board.
 
-What follows isn't homework and it isn't a recap — you already have the framework. These are the reps. Eight **quests**, one for each chapter of the walk, that you run alone. Four **campaigns**, one per domain, that you can run with other people. Each one takes something you learned and turns it into a week (or a session, or a month) of actual practice, with a place to capture what happened.
+What follows isn't homework and it isn't a recap. These are the reps. Eight **quests**, one for each chapter of the walk, that you run alone. Four **campaigns**, one per domain, that you can run with other people. Each one takes something you learned and turns it into a week (or a session, or a month) of actual practice, with a place to capture what happened.
 
 Pick the one that's pulling at you. Not the one you should do. The one that's already calling.
 

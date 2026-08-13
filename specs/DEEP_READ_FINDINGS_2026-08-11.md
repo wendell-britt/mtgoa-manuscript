@@ -83,6 +83,21 @@ The pointer's facts check out — eight quests, Quest 1 is ch2's, seven days. **
 opening is what must move.** And Appendix B had been unreferenced from the manuscript, which
 is the only reason its daemon column survived; **the on-ramp is what made it reachable.**
 
+## CLOSE-OUT — 2026-08-11, `claude/reconcile-final-proof-hxk3`
+
+**All 18 blocking items, all 7 rulings and the whole §5 tail are closed and verified by
+re-measurement, not by memory.** The audit that produced this line found **seven blocking
+items I had already reported as closed and had not fixed** — ch6's axis, ch9's deck claim,
+ch3's every-chapter promise, ch9's Connector gloss, ch3's *emotional processing*, the
+glossary's Player entry, and Appendix B's opener. Wendell: *"if there is anything open then
+we aren't ready to create a PR."* **A summary is not an audit.**
+
+Board at close: `review.py` clean on twelve · `shipcheck` SHIPPABLE on six · `gate`, `xref`,
+`dupes`, `copyedit`, `glossary_check` all 0 · production tags 0 with the `prodtag` gate live ·
+round-trip byte-identical · `STYLE_SHEET` unruled list empty.
+
+---
+
 ## 3 · Blocking — verified, no ruling needed
 
 | # | site | the defect |

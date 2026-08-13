@@ -101,9 +101,11 @@ you named it or not. The move the book builds toward is taking the seat on purpo
 running, with tokens you spend, tickets you earn, and doors that open only at your
 clearance. *Ch 1*
 
-**Player, the** — Who waits at the center of the Forest when no daemon has the joystick:
-the Vulnerable Child, who should have been holding it the whole time. In somebody else's
-Forest, a player waiting for somebody to show up and play. *Ch 2 §6, §7*
+**Player, the** — Two meanings, and the book keeps them apart. In your own Forest,
+who waits at the center when no daemon has the joystick: the Vulnerable Child, who should
+have been holding it the whole time. In somebody else's, a player waiting for somebody to
+show up and play. Capitalized as a Face, the Player is who you become when you stop running
+the six and start designing with them. *Ch 2 §6, §7; Ch 9*
 
 **Polarity Map, the** — For two goods that are both necessary and pull against each other.
 Name the poles, mark where you are, design one action containing both. Barry Johnson's, and
