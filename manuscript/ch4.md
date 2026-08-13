@@ -104,8 +104,6 @@ They just forgot how to do it without apologizing.
 
 The villagers still experienced violations. Slights. Moments where someone crossed a boundary and everyone knew it and nobody said it. Without the Challenger to say *"this is not acceptable"* without softening it, without the Challenger's willingness to be unwelcome in service of what was true, the villagers learned to *process* these moments instead of *respond* to them. To have conversations about boundaries. To schedule dialogues. To bring in a facilitator.
 
-The committee exists to identify risks. It has never run out of them, it has never approved anything, and last spring it was renewed unanimously.
-
 Sometimes that was exactly right. Sometimes the situation actually required a facilitated conversation.
 
 Sometimes it required someone to say *no.*

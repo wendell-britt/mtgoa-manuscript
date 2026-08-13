@@ -164,8 +164,6 @@ The five modes, the stage sequence, the part of you that feels the system before
 
 Somewhere in the training you will recognize a design failure. A process that looked correct and failed anyway. An accountability structure nobody trusted. A meeting format that produced nothing and cost everyone something. The School of the Pattern makes the same claim about all of them: the structure did exactly what it got built to do, and that was the problem. Not who failed it. Why it could not have done otherwise.
 
-They read the burnout survey and added a wellness hour. Thursdays at two, which was the only unbooked hour on the calendar, because it was the only hour anyone was getting anything done.
-
 Doing the right thing in the wrong system is a specific kind of expensive, and the expense has a name: the system's cut. You pay it in hours, in goodwill, in the same argument made a fourth time, and the system keeps the difference. The Architect starts by recognizing it as a system problem rather than an effort problem.
 
 ---
