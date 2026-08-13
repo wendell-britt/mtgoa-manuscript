@@ -94,6 +94,37 @@ def newest(pattern):
     return files[-1] if files else None
 
 
+def unhyphenate_for_reflow(src):
+    """Undo `typeset.py`'s hyphenation rulings. They are a fixed-measure fix.
+
+    `typeset.py` holds two words together with U+2011 NON-BREAKING HYPHEN and
+    U+2060 WORD JOINER so the PDF stops setting `desti-` / `nation.` as a line of
+    its own. **The EPUB has no measure to break against**, so it inherits the cost
+    of those characters and none of the benefit: a reader searching the ebook for
+    `destination` would miss nine occurrences, and `open-mindedness` one, because
+    U+2060 and U+2011 do not match the characters anybody types.
+
+    Both builders read one intermediate on purpose -- `typeset.py`'s docstring
+    calls that the reason the two editions cannot drift on a marginal note -- so
+    the inverse belongs here rather than in a second source file. This is the only
+    thing the EPUB undoes, and it undoes it because the defect it fixes cannot
+    exist in a reflowing book.
+    """
+    # NOT "MTGOA_TYPESET_*" -- both builders resolve their source with
+    # newest("MTGOA_TYPESET_*.md"), so a file named that way is picked up by
+    # build_pdf.py on its next run and the PDF silently loses the rulings. Caught
+    # 2026-08-13 by re-proofing after the change: trade went back to 2 fragments.
+    out = os.path.join(BUILD, "MTGOA_REFLOW_SRC_%s.md"
+                       % datetime.date.today().isoformat())
+    text = io.open(src, encoding="utf-8").read()
+    n11, n60 = text.count(u"\u2011"), text.count(u"\u2060")
+    text = text.replace(u"\u2011", "-").replace(u"\u2060", "")
+    os.makedirs(BUILD, exist_ok=True)
+    io.open(out, "w", encoding="utf-8").write(text)
+    print("reflow   %d non-breaking hyphen(s), %d word joiner(s) undone" % (n11, n60))
+    return out
+
+
 def typeset_source():
     rc = subprocess.call([sys.executable, os.path.join(HERE, "typeset.py"), "--write"],
                          cwd=ROOT, stdout=subprocess.DEVNULL)
@@ -160,6 +191,7 @@ def main():
     src = typeset_source()
     if src is None:
         return 1
+    src = unhyphenate_for_reflow(src)
     print("source   %s (%d bytes)" % (os.path.relpath(src, ROOT), os.path.getsize(src)))
 
     os.makedirs(BUILD, exist_ok=True)

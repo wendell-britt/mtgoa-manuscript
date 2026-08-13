@@ -287,6 +287,51 @@ def resolve_rules(text, tally):
     return "\n".join(out)
 
 
+# ------------------------------------------------------------ hyphenation rulings
+# `instruments/proofread.py` reads the built interior and reports a FRAGMENT: a
+# paragraph whose last line is nothing but the back half of a hyphenated word.
+# `book/mtgoa.typ` already carries `costs: (runt: 400%)` for this, which took the
+# count from three to two on 2026-08-09. The two survivors do not answer to cost.
+#
+#   p126  "...a container for hurt feelings without a desti-  / nation."
+#   p246  "...a failure of discernment disguised as open-     / mindedness."
+#
+# Measured 2026-08-13 before writing this. Raising `runt` to 600, 800 and 1200%
+# changed nothing and did not move a single page, so the cost was never binding.
+# Raising `costs.hyphenation` to 300% did clear `nation.` -- and cost two pages
+# across the whole book, 387 to 389, while leaving `mindedness.` untouched,
+# because that one breaks at a hyphen the author typed rather than one Typst
+# inserted and `costs.hyphenation` does not govern those.
+#
+# So: two pages of repagination for half the job, against a per-word exception
+# that moves nothing. A word list is what a house style actually keeps, and it is
+# the same call `copyedit.py` made when it swapped a morphological guess for an
+# explicit BRITISH dict.
+#
+# U+2011 NON-BREAKING HYPHEN holds an authored hyphen together. U+2060 WORD
+# JOINER inside a word denies the hyphenator a break point without printing a
+# glyph. Both survive pandoc into Typst and both are inert in the EPUB, where
+# nothing has a measure to break against.
+NOBREAK_HYPHEN = u"\u2011"
+WORD_JOINER = u"\u2060"
+
+# Each entry is a ruling, and each carries the page it was found on.
+HYPHEN_RULINGS = [
+    ("open-mindedness", "open" + NOBREAK_HYPHEN + "mindedness"),   # trade p246
+    ("destination", "desti" + WORD_JOINER + "nation"),             # trade p126
+]
+
+
+def hyphen_rulings(text, tally):
+    """Apply the per-word exceptions the proofread ruled. Nothing else."""
+    for word, fixed in HYPHEN_RULINGS:
+        n = len(re.findall(r"\b%s\b" % re.escape(word), text))
+        if n:
+            text = re.sub(r"\b%s\b" % re.escape(word), fixed, text)
+            tally["hyphen: " + word] = n
+    return text
+
+
 # --------------------------------------------------------------------- assembly
 
 # ------------------------------------------------------- the joined-lines ruling
@@ -381,6 +426,7 @@ def components():
         body = open_lists(body, tally)
         body = demote_section_subtitles(body, tally)
         body = resolve_rules(body, tally)
+        body = hyphen_rulings(body, tally)
         body = re.sub(r"\n{3,}", "\n\n", body).strip() + "\n"
 
         # `toctitle` is how a contents line reads it: name, colon, clause. The rule
