@@ -57,7 +57,7 @@ Those three come out of a verification record the template writes into the
 document — see `<mtgoa-report>` at the bottom of `instruments/book/mtgoa.typ`.
 None of them can be read off the PDF bytes.
 """
-import io, os, re, sys, json, glob, shutil, datetime, subprocess
+import io, os, re, sys, time, json, glob, shutil, datetime, subprocess
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, os.pardir)
@@ -123,19 +123,32 @@ def pandoc(args):
     return pypandoc.get_pandoc_path(), args
 
 
-def newest(pattern):
-    files = sorted(glob.glob(os.path.join(BUILD, pattern)))
-    return files[-1] if files else None
-
-
 def typeset_source():
-    """The normalised source. Rebuilt every time, because a stale one lies."""
+    """The normalised source, resolved by name rather than by pattern.
+
+    `typeset.py` writes one file and knows its path; asking it beats globbing for
+    it. The two guards below are independent on purpose -- the first says we are
+    reading the file typeset owns, the second says *this run* wrote it, so a
+    stale intermediate from an aborted build cannot be set either.
+    """
+    sys.path.insert(0, HERE)
+    from typeset import output_path
+    t0 = time.time()
     rc = subprocess.call([sys.executable, os.path.join(HERE, "typeset.py"), "--write"],
                          cwd=ROOT, stdout=subprocess.DEVNULL)
     if rc != 0:
         sys.stderr.write("typeset.py refused to write. Run it directly for the flags.\n")
         return None
-    return newest("MTGOA_TYPESET_*.md")
+    src = output_path()
+    if not os.path.exists(src):
+        sys.stderr.write("typeset.py returned 0 and %s is not there.\n"
+                         % os.path.relpath(src, ROOT))
+        return None
+    if os.path.getmtime(src) < t0 - 1:
+        sys.stderr.write("%s predates this run -- refusing to set a stale source.\n"
+                         % os.path.relpath(src, ROOT))
+        return None
+    return src
 
 
 def to_typst(src, out, trim):
