@@ -6,11 +6,11 @@
 
 ---
 
-You crossed the forest. You met the Faces. You know the moves.
+You have walked into the Forest and started meeting the Faces. Whether you are one chapter in or nine, the moves you have so far are enough to start.
 
 This is the game board.
 
-What follows isn't homework and it isn't a recap — you already have the framework. These are the reps. Eight **quests**, one for each chapter of the walk, that you run alone. Four **campaigns**, one per domain, that you can run with other people. Each one takes something you learned and turns it into a week (or a session, or a month) of actual practice, with a place to capture what happened.
+What follows isn't homework and it isn't a recap. These are the reps. Eight **quests**, one for each chapter of the walk, that you run alone. Four **campaigns**, one per domain, that you can run with other people. Each one takes something you learned and turns it into a week (or a session, or a month) of actual practice, with a place to capture what happened.
 
 Pick the one that's pulling at you. Not the one you should do. The one that's already calling.
 
@@ -25,7 +25,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 ---
 
 ### Quest 1 — The Forest Walk
-*Chapter 2 · Daemon: Emotional Body · Domain: Gather Resources · 7 days*
+*Chapter 2 · Daemon: Protector · Domain: Gather Resources · 7 days*
 
 ***The shadow running:*** You walk the forest blindfolded — reacting all day without ever knowing which daemon is driving. You can't work with what you can't name.
 
@@ -38,7 +38,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 ---
 
 ### Quest 2 — The Shaman Read
-*Chapter 3 · Daemon: Emotional Body · Domain: Gather Resources · 7 days*
+*Chapter 3 · Daemon: Controller · Domain: Gather Resources · 7 days*
 
 ***The shadow running:*** You read the space perfectly and then do nothing with it — attunement without transfer. Sensing what's needed is not the same as moving it.
 
@@ -64,7 +64,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 ---
 
 ### Quest 4 — The Regent's Inventory
-*Chapter 5 · Daemon: Protector · Domain: Skillful Organizing · One session (~2 hours)*
+*Chapter 5 · Daemon: Fixer/Healer · Domain: Skillful Organizing · One session (~2 hours)*
 
 ***The shadow running:*** You hold inherited standing without ever naming it — or you guard it so hard nothing moves through it.
 
@@ -77,7 +77,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 ---
 
 ### Quest 5 — The Architect's Blueprint
-*Chapter 6 · Daemon: Controller · Domain: Skillful Organizing · 7 days*
+*Chapter 6 · Daemon: Emotional Body · Domain: Skillful Organizing · 7 days*
 
 ***The shadow running:*** You design all of it in your head and never say the load-bearing part — or you enforce a standard nobody agreed to.
 
@@ -90,7 +90,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 ---
 
 ### Quest 6 — The Diplomat's Bridge
-*Chapter 7 · Daemon: Vulnerable Child · Domain: Gather Resources · 7 days*
+*Chapter 7 · Daemon: Victim · Domain: Gather Resources · 7 days*
 
 ***The shadow running:*** You manage the container so smoothly that nothing real ever crosses it — politeness as a way to avoid contact.
 
@@ -103,7 +103,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 ---
 
 ### Quest 7 — The Sage's Principle
-*Chapter 8 · Daemon: Skeptic · Domain: Raise Awareness · 7 days*
+*Chapter 8 · Daemon: Damaged Self · Domain: Raise Awareness · 7 days*
 
 ***The shadow running:*** You see the whole game and use the seeing to float above everyone in it. Altitude as a place to hide.
 

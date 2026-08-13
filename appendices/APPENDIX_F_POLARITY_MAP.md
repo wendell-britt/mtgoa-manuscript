@@ -3,7 +3,7 @@
 **Location in book:** After Appendix E; before Appendix G (the bibliography). Toolkit cluster (C/D/E/F). Letter locked 2026-06-03 in the appendix-ordering pass and unaffected by the 2026-07-29 retirement of Key Terms.
 
 
-*You met this tool in Chapter 3, drew your first axis in Chapter 4, and ran it in the field in Chapter 7. This is the full version — the one to come back to when a decision keeps refusing to resolve and you start to suspect it was never a decision at all.*
+*You met this tool in Chapter 3 and drew your first axis there, then drew another in every chapter after, and ran it in a live field in Chapter 7. This is the full version — the one to come back to when a decision keeps refusing to resolve and you start to suspect it was never a decision at all.*
 
 *The tool is Barry Johnson's. His term is polarity management, and the distinction it rests on — that some tensions are problems to solve and others are pairs to hold — is his. Appendix G says where to read him.*
 
@@ -47,12 +47,19 @@ The word doing the work is *and*. The moment you can say both halves in one brea
 
 ## The pairs
 
-These are starting points, not a fixed set. I name four because four chapters needed them; you will find your own. Each is written as a true tension — both ends right, both costly alone.
+These are starting points, not a fixed set. Six of them belong to the six Faces, one per chapter, and you meet each one where its Face teaches it. Two more are common enough to be worth naming and belong to nobody. You will find your own. Each is written as a true tension: both ends right, both costly alone.
 
+- **Feeling ↔ Function** *(the Shaman's pair, Chapter 3).* Let the charge arrive; make the read matter to somebody other than you. Parked at *feeling*, you read a situation exactly and nothing in it moves. Parked at *function*, you act on a read you never let yourself have.
+- **Force ↔ Restraint** *(the Challenger's pair, Chapter 4).* Spend yourself on the crossing; decline to spend. Parked at *force*, you draw a line at everything, and a line drawn at everything is weather. Parked at *restraint*, you are furniture: present at every table, costing nobody anything.
 - **Honor ↔ Reform** *(the Regent's pair, Chapter 5).* Keep the inheritance that still holds; update the form when the essence requires it. Parked at *honor*, you defend a ritual that stopped doing its job. Parked at *reform*, you tear out load-bearing parts to feel clean.
+- **Structure ↔ Agency** *(the Architect's pair, Chapter 6).* Change the conditions; stay with the person standing inside them. Parked at *structure*, everything resolves into *the system did it*, which is true and asks nothing of anybody. Parked at *agency*, you keep repairing people the design will produce again next quarter.
 - **Care ↔ Impact** *(the Diplomat's pair, Chapter 7).* Tend the relationship; move the actual outcome. Parked at *care*, the conversation thickens to molasses and nothing gets said. Parked at *impact*, you win the point and lose the person you needed.
-- **Boundary ↔ Belonging** *(Chapter 3).* Hold the line; keep the connection. Parked at *boundary*, you're principled and alone. Parked at *belonging*, you're included and erased by degrees.
-- **Candor ↔ Safety** *(Chapter 3).* Speak what you see; keep the space safe enough to stay in. Parked at *candor*, you're the one who's always right and never invited back. Parked at *safety*, the space stays warm and nothing true gets said.
+- **Which Game ↔ Which Altitude** *(the Sage's pair, Chapter 8).* Read what the situation requires; read what a person can hold. This pair fails differently from the other five, because the danger is substitution rather than parking. Let the game read answer the altitude question and you get contempt with a diagram attached. Let the altitude read answer the game question and you stop seeing what is actually being played in front of you.
+
+Two more, belonging to no Face and turning up everywhere:
+
+- **Boundary ↔ Belonging.** Hold the line; keep the connection. Parked at *boundary*, you're principled and alone. Parked at *belonging*, you're included and erased by degrees.
+- **Candor ↔ Safety.** Speak what you see; keep the space safe enough to stay in. Parked at *candor*, you're the one who's always right and never invited back. Parked at *safety*, the space stays warm and nothing true gets said.
 
 A pair is yours when you can feel the pull of both ends and can't honestly call either one wrong.
 
@@ -60,7 +67,7 @@ A pair is yours when you can feel the pull of both ends and can't honestly call 
 
 ## Worked example: Care ↔ Impact
 
-Chapter 7 sends you here before you Close with Honest Terms, because you can't close clean if you don't know which end you've been living at. So before that move, run the map on this one pair.
+Chapter 7 has you draw this pair in Section 4 and sends you back to it in Move 3, before you Close with Honest Terms, because you can't close clean if you don't know which end you've been living at. This is the longer version of that check.
 
 **1. The charge:** the specific partnership where you keep softening what you need until it disappears.
 

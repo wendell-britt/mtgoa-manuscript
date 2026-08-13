@@ -63,7 +63,7 @@
 ## Section 1: The Exile
 ### *Why the Diplomat Left the Village (And What the Village Lost)*
 
-You recognize a woman in the village. She is always there. She shows up to every gathering, every working bee, every moment of conflict and every moment of celebration. Her presence reads as devotion, except it isn't, because devotion implies choice, and she has forgotten how to choose. She stays because she has forgotten that she could leave.
+You recognize a woman in the village. She is always there. She shows up to every gathering, every working bee, every moment of conflict, and every moment of celebration. Her presence reads as devotion, except it isn't, because devotion implies choice, and she has forgotten how to choose. She stays because she has forgotten that she could leave.
 
 One day she stops showing up. The villagers barely notice at first. Then slowly, in her absence, something becomes visible: the shape of what she held together without ever naming that she held it. Ruptures she repaired before anyone saw them. Tensions that never escalated because she stood in the middle of them. The villagers discover they have lost something but cannot name the loss, because she never told them what her presence cost. She never gave them the chance to treat it as precious.
 
@@ -78,6 +78,20 @@ The Diplomat is the negotiator who has learned that honest stake-surfacing, time
 The five stages of the Diplomat's work run as a journey in sequence rather than a checklist. **Bridge** is the initial entry, the act of showing up with curiosity rather than judgment, making contact without yet knowing what the relationship will require. **Translate** is the work of rendering one camp's language into terms another camp can hear, betraying neither side and finding the common ground of meaning. **Hold** is the maintenance of enough safety that difficult conversation remains possible even when the charge runs high. It is not the four seconds of Stand you learned from the Challenger, where one person declines to take back one line; it is the sustained containment of a whole field over the length of a hard conversation, sometimes over months. **Repair** is the healing of ruptures without the pretense that they did not occur: cleaning the wound without pretending nobody made it. **Negotiate** is the culmination: surfacing what each party protects, naming the terms under which staying remains possible, and closing so that everyone is heard *and* something moves.
 
 Each stage earns the next. Bridge without Translate is noise. Translate without Hold is a promise no one trusts. Hold without Repair is a wound left to fester. Repair without Negotiate is generosity without closure, and generosity without closure stops being a gift; it becomes a slow form of self-destruction that everyone in the field learns to take for granted.
+
+The Diplomat arrived into a village that had everything except the willingness to be in one conversation. It had lines from the Challenger and continuity from the Regent, and from the Architect it had designs that assumed a goodwill nobody had. Each camp could state its own position perfectly and could not hear the other camp state theirs.
+
+The Diplomat went between them. Stood in the middle of arguments that had been running for years and let them run at full volume without stepping out of the middle. Rendered one camp's language into the other's without flattening either. Went back after ruptures rather than letting the injured show themselves out. For a long stretch the village held together better than it had since the Shaman, and the villagers said so out loud.
+
+Then the Diplomat did the other half of the work. In one hard conversation, the Diplomat named what staying would cost: what each side was protecting, what the agreement would actually require, and what would have to change for the Diplomat's own presence there to keep meaning anything. It came without heat. It came as a term rather than a threat.
+
+**The village heard a threat.**
+
+Somebody who had held the middle for free was now naming a price, and a village that has been receiving something for free will read the first invoice as a betrayal. Nobody argued with the terms. They stopped bringing the Diplomat the conversations where terms would come up. The warmth stayed exactly where it was. The invitations to the hard ones thinned out and then stopped.
+
+The Diplomat left.
+
+The villagers never meant for that to happen. They never said *go.* They just stopped asking for the close. Which, it turns out, amounts to exile.
 
 **The Diplomat means: nobody left the table.** It is the most generous of the six and the easiest to overspend, because a table nobody leaves also decides nothing.
 
@@ -204,11 +218,9 @@ One part of this belongs specifically to this reader, and it explains why the ax
 ## Section 4: The Practice
 ### *The Five Modes — How the Diplomat Actually Works*
 
-*Emotional alchemy vocabulary: every move below carries a type label. **Dissatisfaction moves** alchemize a negative charge into a positive one. **Neutral channel moves** redirect a negative pattern into a neutral structure. **Satisfaction moves** amplify what is already working. If these terms are unfamiliar, Chapter 3 (The Shaman) has the full system.*
-
 ---
 
-The native material at the Diplomat's altitude is *relationship*, the only one of the six that lives between people instead of inside one. You carry emotion, will, loyalty, and logic alone. Relationship needs a second person before it exists at all.
+The native material at the Diplomat's altitude is *relationship*. You carry emotion, will, loyalty, and logic alone. Relationship needs a second person before it exists at all.
 
 ---
 
@@ -238,81 +250,81 @@ The draw is relational. Not solo. Pick a live field with actual people making it
 
 ### EA Channel Alignment — How Each Mode Moves Energy
 
-The Diplomat's practice works across the full spectrum. Each bridging mode rests on a specific EA signal and its own alchemical arc:
+Each mode rests on a specific EA signal and its own alchemical arc:
 
 | Mode | EA Signal | Dissatisfaction → Satisfaction |
 |------|-----------|-------------------------------|
 | **Bridge-Builder** | Metal/Fear | Anxiety → Curiosity → **Wonder** (primary) / Stage-Fright → Authentic Presence |
-| **Translator** | Earth/Neutrality | Disagreement → Dialogue → **Peace** |
-| **Field-Holder** | Wood/Joy | Inclusion-performance → Genuine inclusion → **Bliss** |
-| **Repairer** | Water/Sadness | Rupture → Repair (moral equivalence → discerned equivalence) → **Poignance** |
-| **Integrative Negotiator** | Fire/Anger | Accommodation → Honest terms (resentful peace → agreement naming all stakes) → **Triumph** |
+| **Translator** | Earth/Neutrality | Arrogant Distance → Generous Hearing → **Peace** (primary) / Translation Guilt → Legitimate Partiality |
+| **Field-Holder** | Wood/Joy | Inclusion-Performance → Genuine Inclusion → **Bliss** (primary) / Hothouse Safety → Hardy Field |
+| **Repairer** | Water/Sadness | Betrayal Wound → Discerning Trust → **Poignance** (primary) / Performance Forgiveness → Genuine Repair |
+| **Integrative Negotiator** | Fire/Anger | Resentful Peace → Honest Terms → **Triumph** (primary) / Positions → Interests |
 
-Section 4 works each mode's full arc through in its five deep-dives, the dissatisfaction it carries and the alchemy that transmutes it. Calm is not the entry fee. Whatever you feel as you sit down, one of these five works with that feeling rather than around it.
+Each mode below runs its full arc, the dissatisfaction it carries and the alchemy that transmutes it. Calm is not the entry fee. Whatever you feel as you sit down, one of these five works with that feeling rather than around it.
 
 ---
 
+### The Stage Sequence: Bridge → Translate → Hold → Repair → Negotiate
+
+The five stages track how the work moves. The five modes describe who you are while you make it: Bridge and the Bridge-Builder, Translate and the Translator, Hold and the Field-Holder, Repair and the Repairer, Negotiate and the Integrative Negotiator. Section 1 ran the sequence and said why each stage earns the next. Each block below carries a seat's name.
+
+*Three labels run through the blocks below. An **Alchemy** move converts a charge into the state on the far side of it. A **Translate** move carries meaning across without flattening either side. A **Control** move redirects a pattern into a structure that holds it, which fixes structure rather than emotion. The labels are this chapter's; the channels and the arcs they run on are Chapter 3's.*
+
 ### Mode 1 — Bridge-Builder
 
-The Bridge-Builder is the Diplomat's entry point: the mode through which contact happens, curiosity replaces judgment, and the people there let someone new in. It is the Diplomat's most fundamental skill and the one most easily distorted.
+The Bridge-Builder is the Diplomat's entry point, the mode through which contact happens and curiosity replaces judgment. It is the Diplomat's most fundamental skill and the one most easily distorted.
 
-Here is what its absence looks like: a person who cannot enter a gathering without an agenda. Who approaches every relational field as a transaction. What can I get, what do I need, what is this interaction worth to me. Who makes contact only when they want something, and loses the capacity for contact-for-contact's-sake. The Bridge-Builder's absence shows up as a kind of relational instrumentalization: everyone they meet becomes a means to an end.
+Here is what its absence looks like: a person who makes contact only when they want something. Every relational field is a transaction (what can I get, what is this interaction worth to me) and everyone they meet becomes a means to an end.
 
-Here is what its distortion looks like: a person who is always reaching out, always connecting, always bridging, and who cannot stop. Who treats every relationship as a bridge to build and maintain, even when nobody needs the crossing. The distorted Bridge-Builder confuses movement for connection, presence for performance. They are always bridging because stopping feels like abandonment.
+Here is what its distortion looks like: a person who is always reaching out, always bridging, and who cannot stop, even when nobody needs the crossing. They confuse movement for connection, and they keep bridging because stopping feels like abandonment.
 
-**[DISSATISFACTION → SATISFACTION] Alchemy 1 — Anxiety → Curiosity**
+**Alchemy 1 — Anxiety → Curiosity**
 
-The core Dissatisfaction under Bridge-Builder is **anxiety**: the low hum of "will I be accepted, will they want me here, am I intruding." The nervous system fires before the bridge exists: what if I reach out and no one reaches back?
+The core Dissatisfaction under Bridge-Builder is **anxiety**: the low hum of "will I be accepted, will they want me here, am I intruding." The nervous system fires before the bridge exists.
 
-The alchemy: you feel the anxiety fully, name it as the nervous system's report on past exclusion (not current reality), and alchemize it into real curiosity about the field. *What is actually here? Who is actually present? What do I actually want to know about this person, not what do I need them to think of me?*
+The alchemy: you feel the anxiety fully and alchemize it into real curiosity about the field. *What is actually here? Who is actually present? What do I actually want to know about this person, not what do I need them to think of me?*
 
-The anxiety, fully felt and recognized as history rather than prophecy, converts into the clean attention that makes real bridging possible.
+The anxiety, fully felt and recognized as history rather than prophecy, converts into the clean attention that makes real bridging possible. The move runs the length of one channel, from the fear end of Metal to the curiosity at its far end.
 
-**[DISSATISFACTION → SATISFACTION] Alchemy 2 — Stage-Fright → Authentic Presence**
+**Alchemy 2 — Stage-Fright → Authentic Presence**
 
 Under the first alchemy sits a deeper Dissatisfaction: **stage-fright**, the fear of being seen without a script. The distorted Bridge-Builder has an easy smile and a practiced warmth, technically correct and experientially hollow. They are performing connection, not generating it.
 
-The alchemy: you feel the panic of being seen, the terror of showing up without your material, and you alchemize it into the willingness to be actually present. *I don't need to have a plan. I can just be here and let that be enough.*
+The alchemy: you feel the panic of being seen without your material, and you alchemize it into the willingness to be actually present. *I don't need to have a plan. I can just be here and let that be enough.*
 
 The stage-fright, acknowledged as the shame of being a learner instead of an expert, converts into the groundedness that makes the Bridge actually hold weight.
 
-**[TRANSLATE] Translate 1 — Anxiety → Interest**
+**Translate — Rejection-Sensitivity → Generous Assumption**
 
-The Bridge-Builder's primary Translate move runs the length of one channel, from the fear end of Metal to the curiosity at its far end. When the nervous system registers the approach as threat (will I be rejected?), the Translate moves the charge forward in the elemental cycle: instead of contracting around the anxiety, you let it inform your interest. *What if this goes well? What is actually present here that I want to learn about?*
+When the pattern of past exclusion fires (they won't want me here, I'm outside the circle), the Translate moves the charge toward generous assumption: *What if they actually want me here? What if the field is more open than my pattern expects?*
 
-The anxiety becomes the fuel for engagement rather than the signal to withdraw. A sustaining move: the charge becomes contact instead of withdrawal.
+Call it optimism if you want. The discipline extends to the present the same hypothesis you already extend to strangers on the street.
 
-**[TRANSLATE] Translate 2 — Rejection-Sensitivity → Generous Assumption**
+**Control 1 — Untracked Depletion Pattern**
 
-The Bridge-Builder's secondary Translate addresses the Diplomat's specific vulnerability to rejection. When the pattern of past exclusion fires (they won't want me here, I'm outside the circle), the Translate moves the charge toward generous assumption: *What if they actually want me here? What if the field is more open than my pattern expects?*
+The structural pattern here is **untracked depletion**: you bridge past your capacity, treating every connection as required, and never notice what it costs until you are empty.
 
-Call it optimism if you want. The discipline extends to the present the same hypothesis you already extend to strangers on the street. The rejection-sensitivity supplies the raw material; the Translate converts it into the willingness to risk contact.
+The Control move: build the bridge → check the fuel gauge before crossing. *Do I have capacity for this contact? Am I bridging because someone here actually needs me, or because I can't say no to the request?* This fixes structure, not emotion. It names the cost of bridging before warmth turns into depletion.
 
-**[CONTROL] Control 1 — Untracked Depletion Pattern**
+**Control 2 — Performative Presence**
 
-The Bridge-Builder's Control challenge runs on depletion: the person who over-bridges, who connects past their capacity, who treats every bridge as urgent and every connection as required. The Neutral Channel pattern is **untracked depletion**: you bridge and bridge and never notice how much it costs until you are empty.
+The structural pattern here is **performative presence**: always smiling, always reaching, never arriving, because you spend it all managing how you come across.
 
-The Control move: build the bridge → check the fuel gauge before crossing. *Do I have capacity for this contact? Am I bridging because someone here actually needs me, or because I can't say no to the request?* This fixes structure, not emotion. Bridging has a real cost, and the Control move names that cost before warmth turns into depletion.
-
-**[CONTROL] Control 2 — Performative Presence**
-
-The Bridge-Builder's second Control addresses the habit of performing warmth instead of generating it. The Neutral Channel pattern here is **performative presence**: always smiling, always reaching, always making contact, never arriving, because you spend it all managing how you come across.
-
-The Control move: ground the performance in actual feeling. *What is the actual quality of my presence right now? Am I generating warmth or just distributing it?* The correction redirects from output to internal state, so that something real builds the bridge instead of the bridge being abandoned.
+The Control move: ground the performance in actual feeling. *What is the actual quality of my presence right now? Am I generating warmth or just distributing it?* The correction redirects from output to internal state, so that something real builds the bridge.
 
 ---
 
 ### Mode 2 — Translator
 
-The Translator is the Diplomat's most cognitively demanding mode: the work of taking meaning from one camp and rendering it faithfully into terms another camp can actually receive. It requires the Translator to hold their own position lightly enough to truly hear what the other says, and to transmit it without contaminating it with their own biases.
+The Translator is the Diplomat's most cognitively demanding mode: the work of taking meaning from one camp and rendering it faithfully into terms another camp can actually receive.
 
-Here is what its absence looks like: a person who can only speak their own language. Who translates everything through their own lens, who hears only what they already believe, who approaches every conversation as a performance of their own position. The Translator's absence shows up as a kind of relational deafness. Not literally unable to hear, but incapable of receiving meaning that originates outside their own framework. The Diplomat without Translator is two ends of a wire that never connected.
+Here is what its absence looks like: a person who can only speak their own language, who hears only what they already believe, who approaches every conversation as a performance of their own position. Call it relational deafness: not literally unable to hear, but incapable of receiving meaning that originates outside their own framework. The Diplomat without Translator is two ends of a wire that never connected.
 
-Here is what its distortion looks like: a person who abandons their own voice entirely in the service of translation. Who becomes a relay, a passive conduit, transmitting without judgment and also without any anchor of their own. The distorted Translator has no position: the perfect conduit, and therefore useless, because a translation without the Translator's own interpretive presence loses something essential. Every real translation is an act of interpretation, and an interpretation requires an interpreter with a point of view.
+Here is what its distortion looks like: a person who abandons their own voice entirely in the service of translation. Who becomes a relay, transmitting without judgment and also without any anchor of their own. The distorted Translator has no position: the perfect conduit, and therefore useless.
 
-**[DISSATISFACTION → SATISFACTION] Alchemy 1 — Arrogant Distance → Generous Hearing**
+**Alchemy 1 — Arrogant Distance → Generous Hearing**
 
-The Dissatisfaction here is **intellectual superiority**, the subtle, seductive belief that you understand both sides better than they understand themselves. That you alone can see what they cannot see about their own positions. The Translator's occupational hazard: the more fluent you become in multiple frameworks, the more you start to believe your translation delivers the truth rather than an interpretation.
+The Dissatisfaction here is **intellectual superiority**, the subtle, seductive belief that you understand both sides better than they understand themselves. The Translator's occupational hazard: the more fluent you become in multiple frameworks, the more you start to believe your translation delivers the truth rather than an interpretation.
 
 <!-- MARGINALIA -->
 > *Elian's fix is humility, and humility is the right fix for the ordinary case. The harder one
@@ -333,173 +345,166 @@ The Dissatisfaction here is **intellectual superiority**, the subtle, seductive 
 <!-- /MARGINALIA -->
 
 
-The alchemy moves through **humility into real curiosity**: you let the arrogant distance collapse into something more useful: the willingness to be changed by what you hear. Not "I know better than you" but "I don't know what I will understand after I really listen." The charge shifts from puffing up your own importance to generating the kind of open attention that actually makes translation possible.
+The alchemy moves through **humility into real curiosity**: you let the arrogant distance collapse into the willingness to be changed by what you hear. Not "I know better than you" but "I don't know what I will understand after I really listen."
 
-One habit separates a great Translator from a mediocre one: the great one comes to each translation knowing they might learn something that changes their own position.
 
-**[DISSATISFACTION → SATISFACTION] Alchemy 2 — Translation Guilt → Legitimate Partiality**
+**Alchemy 2 — Translation Guilt → Legitimate Partiality**
 
-The Translator carries a secondary Dissatisfaction: the guilt of partiality. You have a position. You translate from a perspective you believe in, and you render it into terms the other camp can hear. Is that translation or persuasion? Where does translation end and advocacy begin?
+The Translator carries a secondary Dissatisfaction: the guilt of partiality. You have a position, and you translate from it. Is that translation or persuasion? Where does translation end and advocacy begin?
 
-This guilt is real, and it is also a distortion. The alchemy recognizes that **partiality is not the same as betrayal**. You are allowed to have a position. You are allowed to believe one framing is closer to what you consider true. The guilt of the Translator who cannot tolerate their own partiality leads to a false neutrality that serves no one, least of all the field.
+This guilt is real, and it is also a distortion. **Partiality is not the same as betrayal.** A Translator who cannot tolerate their own partiality lands in a false neutrality that serves no one, least of all the field.
 
-The alchemy: *I stop apologizing for having a position I am translating from.* I let the guilt transmute into the clarity of legitimate partiality. I am a partisan who can also really hear. That combination defines the Translator.
+The alchemy: *I stop apologizing for having a position I am translating from.* I let the guilt transmute into the clarity of legitimate partiality. I am a partisan who can also really hear.
 
-**[TRANSLATE] — From Understanding to Transmission**
+**From Understanding to Transmission**
 
-The Translate layer forms the operational core of the mode: you take the meaning you have received and move it forward into a form the other camp can receive.
+**Water → Fire: Conviction translated into urgency.** When a camp holds its meaning deeply and expresses it passively (resigned, beaten down, without heat), the sadness of "we have been hurt" becomes the fire of "we will not accept this again." The translation does not change the meaning; it moves the meaning into the register where it can do work.
 
-**Water → Fire: Conviction translated into urgency.** When a camp holds its meaning deeply but expresses it passively (resigned, beaten down, without heat) the Translate move carries the meaning forward into the channel where it becomes actionable. The sadness of "we have been hurt" becomes the fire of "we will not accept this again." The translation does not change the meaning; it moves the meaning into the register where it can do work.
+**Fire → Water: Intensity translated into depth.** When a camp holds its meaning hot but shallow (righteous anger that has not yet understood its own depth), the anger becomes sadness. The demand becomes an immovable request that no longer needs volume. The translation takes the heat and turns it into something that can sit in a field for a long time without burning out.
 
-**Fire → Water: Intensity translated into depth.** When a camp holds its meaning hot but shallow (righteous anger that has not yet done the work of understanding its own depth) the Translate move carries it down into the register where it becomes something that lasts. The anger becomes sadness. The demand becomes an immovable request that no longer needs volume. The translation takes the heat and turns it into something that can sit in a field for a long time without burning out.
 
-**Wood → Fire: Joy translated into invitation.** When a camp holds its meaning celebratory, expansive, full of possibility, the Translate move carries it forward into the channel where it becomes a call. The joy becomes an invitation: "come and see what is possible." The translation takes what is good and makes it available.
+**Control — Intellectual Superiority Pattern**
 
-**[CONTROL] — Neutral Channel: Intellectual Superiority Pattern**
+The structural pattern here is **intellectual superiority** in behavior: "I see what you don't see about yourselves." The Control move redirects it into neutral structure:
 
-The Neutral Channel pattern here is **intellectual superiority**: the behavioral pattern of using your fluency in multiple frameworks as a way to position yourself above the parties you translate between. "I see what you don't see about yourselves." The Control move redirects this pattern into neutral structure:
+**The structure of the Interpreter's Discipline:** Before you carry an account across a divide, ask whether the person wants you to carry it. If they do, return after translating and ask: "did I get this right?" Let their answer correct the version you gave. If they do not want a translator, do not appoint yourself one. You may name your own position, or leave the account with the person who owns it. The discipline improves your translations because it gives the source the right to refuse them.
 
-**The structure of the Interpreter's Discipline:** Before you carry an account across a divide, ask whether the person wants you to carry it. If they do, return after translating and ask: “did I get this right?” Let their answer correct the version you gave. If they do not want a translator, do not appoint yourself one. You may name your own position, or leave the account with the person who owns it. The superiority pattern dissolves into a discipline that improves your translations because it gives the source the right to refuse them.
 
-Precision costs here: the containment structure takes extra effort, and it pays off when accuracy matters.
-
-*What the Translator is for is faithful interpretation rather than neutral transmission. The Translator who has no partiality has no interpretive power. The Translator who knows what they believe and translates from that anchor, honestly, is the one both camps can trust.*
+*What the Translator is for is faithful interpretation rather than neutral transmission. The Translator who knows what they believe and translates from that anchor, honestly, is the one both camps can trust.*
 
 ---
 
 ### Mode 3 — Field-Holder
 
-The Field-Holder demands more sheer presence than any other Diplomat mode. The work is maintaining enough safety that difficult conversation remains possible, even when charge runs high, even when the ground shifts, even when everyone present wants to fight, flee, or freeze.
+The Field-Holder demands more sheer presence than any other Diplomat mode: keeping enough safety that difficult conversation remains possible when charge runs high and everyone present wants to fight, flee, or freeze.
 
-Here is what its absence looks like: a person who can hold a conversation only when it is already safe. Who can mediate in calm conditions, but who falls apart the moment the field becomes truly charged. The Field-Holder's absence shows up as a kind of presence collapse. The moment something difficult happens, they either escalate into the conflict or withdraw until there is no field left. They can hold the good conditions; they cannot hold the bad ones.
+Here is what its absence looks like: a person who can hold a conversation only when it is already safe. The moment something difficult happens, they either escalate into the conflict or withdraw until there is no field left. They can hold the good conditions; they cannot hold the bad ones.
 
-Here is what its distortion looks like: a performative calm, actually a freeze response. The distorted Field-Holder mistakes stillness for safety. They sit in the middle of chaos and perform peace, believing that their equanimity will regulate the field. This is collapse masquerading as calm. Real Field-Holding contains the charge rather than removing it. Whoever brought the charge keeps it. The Field-Holder does not take it off them or talk anyone down. They give it a shape. Note the difference from the Challenger's Stand, a subtraction: you finish the sentence and add nothing. Hold is addition, and it costs, and it does not end when the silence does. They say: *this charge has somewhere to go. It can move through here without destroying anything.*
+Here is what its distortion looks like: a performative calm, actually a freeze response. They sit in the middle of chaos and perform peace, believing that their equanimity will regulate the field. Real Field-Holding contains the charge rather than removing it. Whoever brought the charge keeps it. The Field-Holder does not take it off them or talk anyone down. They give it a shape. Stand is subtraction; Hold is addition, and it costs, and it does not end when the silence does. They say: *this charge has somewhere to go. It can move through here without destroying anything.*
 
-**[DISSATISFACTION → SATISFACTION] Alchemy 1 — Inclusion-Performance → Genuine Inclusion**
+**Alchemy 1 — Inclusion-Performance → Genuine Inclusion**
 
 The Dissatisfaction here is **inclusion-performance**. You open the retro by telling everyone no topic is off the table, and you mean it, and then the hour runs, everyone reports status, and what actually happened last sprint never comes up. You ran a good meeting and never got near the field.
 
 The statement took nine days and four rounds, because the group could not agree on how to say that it was listening.
 
-The field is what happens between people in relationship with each other, and allyship is a relationship. Everyone there makes it, and it lasts only as long as they are all still there. A physical field holds itself. This one needs tending, which is why Hold costs more, and why it is the one move you cannot make alone.
+The field is what happens between people, and everyone there makes it. A physical field holds itself. This one needs tending, which is why Hold costs more, and why it is the one move you cannot make alone.
 
 The alchemy: *I stop announcing that the field is open and find out whether anyone will use it.* Anxiety shows up while you do this, and it reads the situation correctly, because a field with somebody's real stake in it costs more to hold than a calm one. Treat it as the weather you work in. What you are watching for is growth, and you know it arrived when somebody says what they had decided in the parking lot not to say. Their sentence is between everyone now, and you could not have said it for them. That is the Wood channel completing, and Bliss is what it feels like to hold a field that grew what you did not plant.
 
-**[DISSATISFACTION → SATISFACTION] Alchemy 2 — Hothouse Safety → Hardy Field**
+**Alchemy 2 — Hothouse Safety → Hardy Field**
 
 The Field-Holder's secondary Dissatisfaction is **hothouse safety**, a field you keep so comfortable that nobody says the sentence that would cost them anything. It looks like health to everyone keeping it that way. The family dinner stays warm, the standup stays pleasant, the two of you stay kind with each other, the community meeting ends on time, and everyone leaves carrying what they walked in with. A field protected from charge stays small, and the people making it learn to bring less of themselves to match.
 
-The alchemy: *I stop protecting the field and start building one that can take weather.* You let the hard sentence land, and you stay, and the field turns out to hold. Now they know by experience what nobody could have told them, that the field survives contact. Each round of that raises what it carries next time.
+The alchemy: *I stop protecting the field and start building one that can take weather.* You let the hard sentence land, and you stay, and the field turns out to hold. Now they know by experience what nobody could have told them, that the field survives contact. Each round of that raises what it carries next time. Hardy is a gardener's word. It has never described a plant somebody kept warm.
 
-**[TRANSLATE] — From Presence to Structure**
+**From Presence to Structure**
 
-**Fire → Earth: Heat translated into form.** When conflict charges a field (hot, fast, potentially explosive) the Translate move gives that charge a structure it can move through. The field will not cool down. It will move, and the Translate move gives the movement a shape. A boundary. A format. A pause that says: *let's do this deliberately.* The fire doesn't go out. It becomes a fireplace instead of a wildfire.
+**Fire → Earth: Heat translated into form.** When conflict charges a field (hot, fast, potentially explosive), the field will not cool down. It will move, and the Translate move gives the movement a shape. A boundary. A format. A pause that says: *let's do this deliberately.* The fire doesn't go out. It becomes a fireplace instead of a wildfire.
 
-**Water → Wood: Sadness translated into forward motion.** When a field sits stuck in sadness (slow, heavy, collapsed) the Translate move carries that energy forward into possibility. The field has been hurt. It needs to grieve. It also needs to know it can still move. The Translate move carries the depth of the sadness into the channel where something new can begin to grow.
+**Water → Wood: Sadness translated into forward motion.** When a field sits stuck in sadness (slow, heavy, collapsed), the Translate move carries that energy forward into possibility. The field has been hurt. It needs to grieve. It also needs to know it can still move.
 
-**[CONTROL] — Neutral Channel: Presence Collapse Pattern**
+**Control — Presence Collapse Pattern**
 
-The Neutral Channel pattern here is **presence collapse**, the behavioral pattern of withdrawing the moment somebody charges it. The Field-Holder who has not done their internal work shows up for every calm conversation and vanishes from every difficult one. The Control move redirects this pattern into structure:
+The structural pattern here is **presence collapse**: withdrawing the moment somebody charges the field. The Control move redirects it into structure:
 
-**The structure of the Precedent of Presence:** You establish, in advance, a commitment to staying present when somebody charges it. You decided on it; nothing obliged you. The commitment is the structure. You say so in advance: *I don't leave when it gets hard. I practice that rather than declare it.* The collapse pattern dissolves into a personal precedent the people around you can depend on. You have made yourself a reliable structure because you decided in advance, before anybody charged it.
+**The structure of the Precedent of Presence:** You establish, in advance, a commitment to staying present when somebody charges it. You decided on it; nothing obliged you. The commitment is the structure. You say so in advance: *I don't leave when it gets hard. I practice that rather than declare it.* The collapse pattern dissolves into a personal precedent the people around you can depend on.
 
 Staying spends real capacity. Naming that cost belongs to the holding, because unnamed depletion eventually becomes disappearance.
 
-*What the Field-Holder is for is the willingness to stay when staying is difficult. Not to fix the field, not to calm it down, not to make it better. To be the presence that makes it possible for the people making it to move through what they need to move through without anyone getting destroyed in the process.*
+*What the Field-Holder is for is the willingness to stay when staying is difficult. Not to fix the field, not to calm it down. To be the presence that lets the people making it move through what they need to move through.*
 
 ---
 
 ### Mode 4 — Repairer
 
-The Repairer is the Diplomat's deepest mode: the work of healing ruptures that have already occurred, restoring what was broken without pretending the break didn't happen. Unlike the Field-Holder who maintains safety, the Repairer rebuilds it after it has been lost.
+The Repairer is the Diplomat's deepest mode: the work of healing a rupture without pretending the break didn't happen. Unlike the Field-Holder who maintains safety, the Repairer rebuilds it after it has been lost.
 
-Here is what its absence looks like: a relationship that cannot survive its own ruptures. Where every breach becomes permanent, every mistake closes a door, every conflict leaves a scar that never heals. The Repairer's absence shows up as a kind of relational brittleness. People stay together and never recover from the times they hurt each other. They accumulate damage until something breaks that cannot be repaired, and then it is over.
+Here is what its absence looks like: a relationship that cannot survive its own ruptures, where every breach becomes permanent and every conflict leaves a scar that never heals. Call it relational brittleness. People stay together, accumulate damage they never recover from, and one day something breaks that cannot be repaired.
 
-Here is what its distortion looks like: a premature forgiveness that skips the repair entirely. The distorted Repairer rushes to close the wound before cleaning it. They say *it's fine, let's move on, I forgive you*, and in fact they abandon the relationship to its damage. Real repair requires sitting in the wound long enough to understand it. Skipping that step means the wound closes over with the infection still inside.
+Here is what its distortion looks like: a premature forgiveness that skips the repair entirely. They say *it's fine, let's move on, I forgive you*, and in fact they abandon the relationship to its damage. The wound closes over with the infection still inside.
 
-**[DISSATISFACTION → SATISFACTION] Alchemy 1 — Betrayal Wound → Discerning Trust**
+**Alchemy 1 — Betrayal Wound → Discerning Trust**
 
 The Dissatisfaction here is **betrayal**: the specific pain of being damaged by someone you were in relationship with. Not by an enemy, not by a stranger, but by the person who was supposed to hold the field with you. The Repairer who has not done this work carries that wound as a permanent disqualification: *I was hurt by someone in this role, so I cannot trust anyone in this role.* The wound is real. The conclusion does not follow.
 
-The alchemy: *I let the betrayal teach me what trustworthy actually means.* The wound becomes the reference point for real trust, not naive trust, not performance trust, but the kind that has been tested and survived. The betrayal does not disqualify you from repair. It qualifies you to know what real repair requires.
+The alchemy: *I let the betrayal teach me what trustworthy actually means.* The wound becomes the reference point for the kind of trust that has been tested and survived. The betrayal does not disqualify you from repair. It qualifies you to know what real repair requires.
 
-**[DISSATISFACTION → SATISFACTION] Alchemy 2 — Performance Forgiveness → Genuine Repair**
+**Alchemy 2 — Performance Forgiveness → Genuine Repair**
 
-The Repairer's secondary Dissatisfaction is **performance forgiveness**, the rush to be done with the wound so the relationship can continue. The pressure to move on. To forgive before the wound has been understood. To skip the repair in the service of keeping the peace.
+The Repairer's secondary Dissatisfaction is **performance forgiveness**, the rush to be done with the wound so the relationship can continue: forgive before the wound has been understood, skip the repair in the service of keeping the peace.
 
 The alchemy: *I stop skipping the wound and start sitting in it.* Real repair requires seeing the damage fully before healing it. The pressure to perform forgiveness transmutes into the willingness to do the slower, harder, more honest work. I do not forgive to keep the peace. I repair to restore the relationship.
 
-**[TRANSLATE] — From Wound to Restoration**
+**From Wound to Restoration**
 
-**Water → Wood: Sadness translated into new soil.** When a rupture has left a field in mourning (heavy, still, honoring what was lost) the Translate move recognizes that the sadness contains the nutrients for something new to grow. The sadness of what broke becomes the foundation of what gets rebuilt. The Translate move carries the honoring of the loss into the channel where something new can take root.
+**Water → Wood: Sadness translated into new soil.** When a rupture has left a field in mourning (heavy, still, honoring what was lost), the sadness of what broke becomes the foundation of what somebody rebuilds.
 
-**Earth → Fire: Structure translated into warmth.** When you have negotiated the repair (terms agreed, path forward established) the Translate move is to bring warmth back to the structure. The field now has a shape, a format, an agreement. Agreements are cold. The Translate move carries the heat of real reconnection into the structure, so that the repair is not just formal but real.
+**Earth → Fire: Structure translated into warmth.** When you have negotiated the repair (terms agreed, path forward established), the field has a shape, a format, an agreement. Agreements are cold. The Translate move carries the heat of real reconnection into the structure, so that the repair is not just formal but real.
 
-**[CONTROL] — Neutral Channel: Premature Closure Pattern**
+**Control — Premature Closure Pattern**
 
-The Neutral Channel pattern here is **premature closure**: the behavioral pattern of rushing to close the wound before it has been understood. The Repairer who has not done this work wants to finish the repair before the other person has finished with the damage. They close before they have opened. They move on before they have arrived.
+The structural pattern here is **premature closure**: the Repairer wants to finish the repair before the other person has finished with the damage. They close before they have opened.
 
-**The structure of the Three-Part Repair:** You build a practice of repair that does not skip: (1) **Witness:** the full accounting of what happened, without defense or justification. (2) **Impact:** the honest naming of what the rupture cost, for both parties. (3) **Agreement:** what each person commits to doing differently, not as a performance of remorse but as a real change in behavior. The premature closure pattern dissolves into a structure that actually allows the wound to heal before you close it.
+**The structure of the Three-Part Repair:** You build a practice of repair that does not skip: (1) **Witness:** the full accounting of what happened, without defense or justification. (2) **Impact:** the honest naming of what the rupture cost, for both parties. (3) **Agreement:** what each person commits to doing differently, not as a performance of remorse but as a real change in behavior.
 
 The cost here is time. Real repair takes longer than performance repair, and that slower pace is what makes the repair trustworthy.
 
-*What the Repairer is for is the capacity to sit in a wound until it heals, not to minimize it, not to rush past it, but to do the slow, honest, necessary work. A truly repaired field holds stronger at the seam than it did before the break.*
+*What the Repairer is for is the capacity to sit in a wound until it heals rather than rush past it. A truly repaired field holds stronger at the seam than it did before the break.*
 
 ---
 
 ### Mode 5 — Integrative Negotiator
 
-The Integrative Negotiator is the Diplomat's closing mode, the Fire/Anger application at the Diplomat's altitude. The Challenger's line in the sand does different work, and so does the Regent's decree. This mode surfaces what each party protects, translates positions into interests, and closes toward terms the field can actually live with. Bridge, translate, hold, repair, and then **negotiate**. Heard *and* something moves.
+The Integrative Negotiator is the Diplomat's closing mode, the Fire/Anger application at the Diplomat's altitude. The Challenger's line in the sand does different work, and so does the Regent's decree. Bridge, translate, hold, repair, and then **negotiate**. Heard *and* something moves.
 
-Here is what its absence looks like: a field that can stay in conversation forever and never arrive anywhere. Meetings that end in warmth and vagueness. Everyone accommodated, nothing decided. The person who keeps the harmony going because closing feels like conflict, who treats every hard question as something to defer to the next conversation, the next working group, the next season when conditions might be better. The Integrative Negotiator's absence shows up as relational molasses: pleasant, inclusive, and slowly failing the task.
+Here is what its absence looks like: a field that can stay in conversation forever and never arrive anywhere. The person who keeps the harmony going because closing feels like conflict, who defers every hard question to the next conversation, the next working group, the next season when conditions might be better. Call it relational molasses: pleasant, inclusive, and slowly failing the task.
 
 Here is what its distortion looks like: two different failures wearing the same smile.
 
 The first distortion is **endless process**, the Diplomat who has confused hearing with closing. Who believes that if everyone feels included, the work is done. Who will run another round of listening because naming what must change feels like picking a fight. The field stays warm. Nothing moves. Resentment accumulates under the harmony like sediment.
 
-The second distortion is **ultimatum dressed as negotiation**: leverage where integration belonged. *Here's what I need or I'm out* spoken in the tone of honest disclosure, but actually functioning as a threat. This is not the Integrative Negotiator. This is the Challenger's game wearing the Diplomat's clothes. The Diplomat who defaults here has skipped the native work (surfacing interests, finding terms) and imported the Challenger's altitude into the Diplomat's conversation. It sometimes works. It is not what this channel is for.
+The second distortion is **ultimatum dressed as negotiation**: leverage where integration belonged. *Here's what I need or I'm out* spoken in the tone of honest disclosure, but actually functioning as a threat. This is the Challenger's game wearing the Diplomat's clothes: the Diplomat who defaults here has skipped the native work (surfacing interests, finding terms) and imported another altitude into this conversation. It sometimes works. It is not what this mode is for.
 
-**[DISSATISFACTION → SATISFACTION] Alchemy 1 — Resentful Peace → Honest Terms**
+**Alchemy 1 — Resentful Peace → Honest Terms**
 
-The Dissatisfaction here is **resentful peace**, the accommodation that says yes while the body says no. You agreed to something you didn't actually agree to. You made space without naming what making space cost. You kept the field calm by swallowing your stake, and now the calm curdles into bitterness you can't explain because you never said out loud what you needed the agreement to hold.
+The Dissatisfaction here is **resentful peace**, the accommodation that says yes while the body says no. You made space without naming what making space cost. You kept the field calm by swallowing your stake, and now the calm curdles into bitterness you can't explain because you never said out loud what you needed the agreement to hold.
 
 The alchemy: *I stop paying for harmony with my disappearance.* Resentful peace is deferred conflict wearing a polite face. The alchemy moves accommodation into **honest terms**: not *I'll tolerate anything to stay*, but *here is what this field must hold for my staying to remain real, and for everyone's.* The charge of the swallowed no becomes the heat of a closing that actually names the stakes.
 
 **What it feels like in the body:** Resentful peace sits as heaviness, a pleasant surface with something dense underneath. Honest terms feel like heat with ground: your chest engages, your feet plant, and nothing has exploded.
 
-**[DISSATISFACTION → SATISFACTION] Alchemy 2 — Positions → Interests**
+**Alchemy 2 — Positions → Interests**
 
-The Integrative Negotiator's secondary Dissatisfaction is **positional stuckness**, camps locked on what they demand, unable to move because each side is defending a surface statement instead of naming what it protects. *We need a policy change.* *We need to preserve tradition.* Positions harden. The field polarizes around slogans.
+The Integrative Negotiator's secondary Dissatisfaction is **positional stuckness**, camps locked on what they demand. *We need a policy change.* *We need to preserve tradition.* Positions harden. The field polarizes around slogans.
 
 The alchemy: *I ask what each position is guarding, not just what it says.* Positions are what people announce. Interests are what they fear losing, what they need to protect, what sacrifice would actually cost them. The alchemy moves tribal loyalty (staying because you belong to a camp) into **chosen loyalty** (staying because the agreement is real and you said yes to it). You negotiate not to win for your side. You negotiate to find terms the whole field can live with, including the terms that let you stay without disappearing.
 
-**[TRANSLATE] — From Positions to Closure**
+**From Positions to Closure**
 
-**Fire → Earth: Heat translated into structure.** When competing demands charge a field (hot, righteous, each side certain) the Translate move does not cool the fire down. It gives the fire a shape it can move through. *What would each of you need to see change for this to be workable?* The anger does not get suppressed. It becomes the material you build terms from.
+**Fire → Earth: Heat translated into structure.** When competing demands charge a field (hot, righteous, each side certain), the Translate move gives the fire a shape it can move through. *What would each of you need to see change for this to be workable?* The anger becomes the material you build terms from.
 
-**Earth → Fire: Vague agreement translated into committed close.** When a field has done the listening work and arrived at something that sounds aligned but isn't yet specific, the Translate move carries the structure forward into commitment. *What are we actually agreeing to? By when? Who does what?* The Integrative Negotiator does not leave the field in principled ambiguity. The Diplomat's altitude loves process. This channel loves a close.
+**Earth → Fire: Vague agreement translated into committed close.** When a field has arrived at something that sounds aligned but isn't yet specific, the Translate move carries the structure forward into commitment. *What are we actually agreeing to? By when? Who does what?* The Diplomat's altitude loves process. This channel loves a close.
 
-**[CONTROL] — Neutral Channel: Endless Process Pattern**
+**Control — Endless Process Pattern**
 
-The Neutral Channel pattern here is **endless process**, the behavioral habit of extending conversation past the point where more listening will help. One more round. One more check-in. One more chance for everyone to feel heard, as if hearing were the destination instead of the precondition.
+The structural pattern here is **endless process**: one more round, one more check-in, one more chance for everyone to feel heard, as if hearing were the destination instead of the precondition.
 
-**The structure of the Stake-Surfacing Close:** You work the sequence without skipping: (1) **Protect:** what is each party afraid of losing? Name the interest, not the slogan. (2) **Require:** what must the agreement hold for staying to remain real? Name it for the field, not just for yourself. (3) **Commit:** what are we agreeing to, specifically, before anyone leaves? The endless process pattern dissolves into a structure that honors inclusion *and* produces movement.
+**The structure of the Stake-Surfacing Close:** You work the sequence without skipping: (1) **Protect:** what is each party afraid of losing? Name the interest, not the slogan. (2) **Require:** what must the agreement hold for staying to remain real? Name it for the field, not just for yourself. (3) **Commit:** what are we agreeing to, specifically, before anyone leaves?
 
 The hard part is the close: it takes more courage than extending. The field will push for one more round. The Integrative Negotiator knows when the round has become avoidance.
 
-**[CONTROL] — Neutral Channel: False Closure Pattern**
+**Control — False Closure Pattern**
 
-The second Control pattern is **false closure**, the agreement that sounds resolved but wasn't. *Great, we're aligned* spoken over interests that were never surfaced. Or: every position given equal weight in the final terms when some positions rest on premises the field cannot actually hold.
+The second Control pattern is **false closure**, the agreement that sounds resolved but wasn't. *Great, we're aligned* spoken over interests that were never surfaced.
 
-This is where **Refuse False Equivalence** lives inside the Fire channel, not as a separate performance of righteousness, but as discernment in the close. Equal hearing is precious. Equal endorsement is not automatic. The Integrative Negotiator asks: *Are we closing on terms that honor what each party actually needs, or on terms that pretend all framings are equally accurate?* If one camp's position requires ignoring evidence another camp lives with, honest terms name that difference. You can refuse false equivalence and still refuse to abandon the field.
+This is where **Refuse False Equivalence** lives inside the Fire channel, not as a separate performance of righteousness, but as discernment in the close. Equal hearing is precious. Equal endorsement is not automatic. If one camp's position requires ignoring evidence another camp lives with, honest terms name that difference. You can refuse false equivalence and still refuse to abandon the field.
 
 **The structure of the Discernment Check:** Before you close, ask: *Can I paraphrase each party's interest accurately enough that its strongest advocate would recognize it? Do the terms we're proposing actually address those interests, or are we papering over a gap?* False closure dissolves into a close you can stand behind.
 
-Discernment at the close asks more than comfortable vagueness. It is worth it when the agreement has to hold.
-
 *When negotiation fails, when someone refuses to name stakes, when harmony is cover for harm, when the field cannot hold truth, the Challenger's clean no is the next move. That is Chapter 4's game. Negotiate first. Line when the field cannot hold truth.*
 
-*What the Integrative Negotiator is for is the capacity to close: to surface what everyone is protecting, name what the agreement must hold, and let the field move. Not harmony instead of truth. Harmony that includes truth. A field the parties have truly negotiated is not softer at the close. It is more real.*
+*What the Integrative Negotiator is for is the capacity to close. Not harmony instead of truth. Harmony that includes truth. A field the parties have truly negotiated is not softer at the close. It is more real.*
 
 ---
 
@@ -547,7 +552,7 @@ Pick the person. Someone who took a side while you were still holding the range,
 I apologized for taking up space in the conversation, at length, twice, and by the end I had taken up more of it than anyone.
 
 
-You met the Victim at the door of the Forest, sixth in line. The Protector decides whether you go in. The Controller decides how you may behave once you are inside. The Skeptic decides whether what you react to was ever real. The Fixer-Healer decides whether what is in front of you merits giving yourself to. The Victim decides something none of them touch: what your having paid entitles you to.
+You met the Victim at the door of the Forest, sixth in line. The Protector decides whether you go in. The Controller decides how you may behave once you are inside. The Skeptic decides whether what you react to was ever real. The Fixer/Healer decides whether what is in front of you merits giving yourself to. The Victim decides something none of them touch: what your having paid entitles you to.
 
 <!-- MARGINALIA -->
 > *I found out a friend was going through something, and my first clear feeling was relief that she
@@ -568,7 +573,7 @@ Now here is why this daemon stands where it stands, in a book about allyship. Al
 
 This is where the chapter's myth comes due. You met it in Section 3: allyship means never causing harm. The Victim is the daemon that makes that feel like integrity rather than what it actually is: a solvency requirement. If your legitimacy comes from having been harmed, then having caused harm is not a mistake you can absorb and repair. It is a disqualification. It voids the ledger. So the Victim cannot afford for you to have caused harm, and a part of you that cannot afford a finding is a part of you that will not run the audit.
 
-The cost lands in exactly the place this chapter cannot afford to lose it. You become unavailable for repair. Read that again against Section 4, because the Repairer is one of your five modes and Move 4 is a structure for receiving rupture. None of it can run. Someone names an impact you had, and before they finish the sentence the ledger has opened and produced a number, and the number says this is impossible: look at what I have absorbed, look at the column, I am the one in the red here. The Face whose whole chapter is about repair is, in shadow, structurally the worst in the book at receiving it.
+The cost lands in exactly the place this chapter cannot afford to lose it. You become unavailable for repair. Read that again against Sections 4 and 6, because the Repairer is one of your five modes and Move 4 is a structure for receiving rupture. None of it can run. Someone names an impact you had, and before they finish the sentence the ledger has opened and produced a number, and the number says this is impossible: look at what I have absorbed, look at the column, I am the one in the red here. The Face whose whole chapter is about repair is, in shadow, structurally the worst in the book at receiving it.
 
 You do not fire the Victim. Fire the part of you that counts and you will spend the rest of your life absorbing costs you cannot name, in fields that have no reason to stop taking, calling that generosity. You take the joystick back by giving it its actual jurisdiction and taking away the one it appointed itself to.
 
@@ -615,9 +620,9 @@ The tell is never the position. The tell is whether impact ever arrives without 
 
 ### What You Take Out of the Forest
 
-The Victim developed does what nothing else in this chapter can do: it lets you know exactly what your presence costs and decline to bill for it. That combination is rarer than it sounds. Most people manage one or the other. They either lose track of the cost entirely and disappear into the work, or they keep perfect count and spend it. Holding both is what makes your staying mean anything, because only a cost you can name and do not bill for reads as a choice.
+The Victim developed does what nothing else in this chapter can do: it lets you know exactly what your presence costs and decline to bill for it. That combination is rarer than it sounds. Most people manage one or the other. Holding both is what makes your staying mean anything, because only a cost you can name and do not bill for reads as a choice.
 
-That forms the Connector's foundation, and the word usually means something else. This chapter does not train contact; the Bridge-Builder makes that in the first hour. It trains connection that has survived being told the truth. Connection nobody has ever closed with is attendance, and attendance is what everyone in a field takes for granted. The close is what converts one into the other: you name what this must hold for your staying to remain real, once, in a sentence, and you let them answer. What remains after that is the part that was ever actually yours.
+That forms the Connector's foundation, and the word usually means something else. This chapter does not train contact; the Bridge-Builder makes that in the first hour. It trains connection that has survived being told the truth. Connection nobody has ever closed with is attendance, and attendance is what everyone in a field takes for granted. What remains after the close is the part that was ever actually yours.
 
 You know what your Victim is for now. That is what you take out.
 
@@ -702,7 +707,7 @@ Close with Honest Terms is one clear sentence naming what this field must hold f
 
 A threat would sound like *do this or I leave.* This is an offering of information: here is what this field must hold for my staying to remain real. Then the people it concerns get to respond.
 
-*If you don't yet know where you stand, whether you've been trading impact away for the comfort of caring, go back to the Care ↔ Impact axis you drew in Section 3 before you try to close. The axis is preparation. This move is the practice.*
+*If you don't yet know where you stand, whether you've been trading impact away for the comfort of caring, go back to the Care ↔ Impact axis you drew in Section 4 before you try to close. The axis is preparation. This move is the practice.*
 
 **The test:** You named what you actually need from the agreement rather than a softer version, said it once, and left it alone for the people it concerns to answer. Their behavior may or may not change. If you named the real terms and nothing moved, that is information.
 
@@ -734,7 +739,7 @@ Staying does not mean insisting on access after someone has set a boundary. Resp
 
 **Why it matters:** Ruptures named and repaired build more trust than ruptures that never happened. The repair does not undo the break. It proves that the relationship can survive the break, the only proof that builds confidence in a relationship.
 
-**Example:** You argued for the restructure that moved Alan sideways at fifty-eight, and you were sure at the time. Six weeks on you can see what it cost him and that nobody asked him first. Repair: *I pushed for that change, I never asked what you wanted, and I read your options as narrower than they were. I am not asking you to be fine with it.* Name your part, name what you are not asking for, and stay in the meeting afterwards.
+**Example:** You argued for the restructure that moved Alan sideways at fifty-eight, and you were sure at the time. Six weeks on you can see what it cost him and that nobody asked him first. Repair: *I pushed for that change, I never asked what you wanted, and I read your options as narrower than they were. I am not asking you to be fine with it.* Name your part, name what you are not asking for, and stay in the meeting afterward.
 
 **The test:** You named what broke, named your part in it, named what you were not asking for, and stayed. Whether they can name it back to you accurately yet is a separate question, and often a later one. If it is still landing as entirely your fault, go back to step one.
 
@@ -788,7 +793,7 @@ When you close, the sentence and the weeks after it decide whether the terms hol
 
 **Name what they stand to lose first.** A term that lands before they have heard you describe their side accurately gets answered as a charge, and an answer spent on themselves never reaches your terms. So say what the other camp is guarding, in one sentence, before you say what you require. You lose the clean drama of coming out with it and you get a field that can answer.
 
-**Put the cost in the words, not in the delivery.** The account gets signalled long before it gets stated: the pause before you agree, the extra weight on *sure*, the tone that means somebody ought to ask. A signal costs nothing to send and nobody can answer one, because it leaves the field to work the number out alone, and it will work it out low. Say what this is costing, in figures, once. Nobody has ever renegotiated with a sigh.
+**Put the cost in the words, not in the delivery.** The account gets signaled long before it gets stated: the pause before you agree, the extra weight on *sure*, the tone that means somebody ought to ask. A signal costs nothing to send and nobody can answer one, because it leaves the field to work the number out alone, and it will work it out low. Say what this is costing, in figures, once. Nobody has ever renegotiated with a sigh.
 
 **Let them say what your staying cost them, and answer that.** A close is an invitation, and it gets accepted the moment somebody tells you what the arrangement cost on their side. That is where the Victim opens the column, on time and exact, and turns a negotiation into a comparison of totals only one person is running. (Chapter 5 has me holding back what I knew in a body I stayed with for years, with the crown under my hood. I told it as a Regent's story and it is one. Read it from here and a second story sits inside it: nobody there ever got to decide whether they wanted what I was carrying, because I never put it where they could refuse it.) You owe their term an answer. Your balance keeps. It has kept for years.
 
@@ -806,7 +811,7 @@ When you close, the sentence and the weeks after it decide whether the terms hol
 
 **Skillful Organizing — the agreement the group never made**
 
-*You're winning when:* you closed the group on what it has to hold, who does what and what happens when somebody does not, rather than booking the fourth conversation of its kind, and it cost you being the one everybody agreed was still listening. The proof is that the group now has terms somebody can hold it to, and the people who carried it unnamed are in them by name.
+*You're winning when:* you closed the group on what it has to hold, who does what, and what happens when somebody does not, rather than booking the fourth conversation of its kind, and it cost you being the one everybody agreed was still listening. The proof is that the group now has terms somebody can hold it to, and the people who carried it unnamed are in them by name.
 
 ### The Tell
 
@@ -827,7 +832,7 @@ The grid again, fifth operation of six. Five moves down, four domains across, tw
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
-The five moves are this chapter, in order. Wake Up is a mode detecting who is in the field and on what terms. Open Up is the move this chapter's daemon exists to prevent: receiving what something costs somebody else without converting it into what it costs you. Clean Up is the destination choice, and every card at that stage is a route because that is what the move is: *from* somewhere, *to* somewhere. Grow Up is the only move in the deck that asks about other people by design. Show Up is the relationship you build, and every card there starts with the same verb, because at this altitude showing up means bringing somebody with you. Pick a domain instead and you are choosing the arena. Down is the sequence, across is where it lands.
+The five moves are this chapter, in order. Grow Up asks about other people by design, and Show Up is the relationship you build, because at this altitude showing up means bringing somebody with you. Pick a domain instead and you are choosing the arena. Down is the sequence, across is where it lands.
 
 ### Drawing Against the Shadow
 
@@ -896,6 +901,6 @@ The Sage does.
 
 ---
 
-Add a row to the sheet. Under the harm you keep fixing, write your walk-away price: what would have to happen, or keep happening, before you walked out instead of staying and disappearing. Write it so you could say it out loud to the people it concerns. A price you have not named is one you pay in instalments and call patience.
+Add a row to the sheet. Under the harm you keep fixing, write your walk-away price: what would have to happen, or keep happening, before you walked out instead of staying and disappearing. Write it so you could say it out loud to the people it concerns. A price you have not named is one you pay in installments and call patience.
 
 **Next:** The Sage, the one who sees all six altitudes and knows which one the game actually plays at.

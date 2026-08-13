@@ -486,7 +486,13 @@
   numbering: none,        // the folio is drawn by the furniture above
 )
 
-#set text(font: SERIF, size: BODY-SIZE, lang: "en", hyphenate: true)
+// `runt` is raised because the proofread found three paragraphs closing on the
+// back half of a hyphenated word — `situ-` / `ation.` alone under a full page of
+// argument. Typst's default cost lets the line-breaker take that trade; at 400%
+// it re-breaks the paragraph instead. `hyphenation` goes up a little with it so
+// the repair does not simply move the break one word left.
+#set text(font: SERIF, size: BODY-SIZE, lang: "en", hyphenate: true,
+          costs: (runt: 400%, hyphenation: 150%))
 
 // Indented paragraphs, no space between them, first one after a break flush —
 // the trade-book default, and the reason `all: false` is set.

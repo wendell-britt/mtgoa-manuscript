@@ -106,7 +106,12 @@ TERMS = {
         ("peace (neutrality completed)", r"\bpeace\b"),
     ],
     "Practices": [
-        ("WAVE-Spiral",         r"WAVE.?Spiral|\bWAVE\b"),
+        ("Five-Move Form",      r"Five.Move Form"),
+        # Case-sensitive, scoped: the build compiles every pattern with re.I, and `wave`
+        # is an ordinary English verb. ch1:175 -- "makes serious people wave the whole
+        # idea away" -- was indexed as the breath practice on the first run after the
+        # rename. Rule 1 cannot see it: the term does have hits, they are the wrong word.
+        ("WAVE",                r"(?-i:\bWAVE\b)"),
         ("Wake Up",             r"\bWake Up\b"),
         ("Open Up",             r"\bOpen Up\b"),
         ("Clean Up",            r"\bClean Up\b"),
@@ -129,6 +134,29 @@ TERMS = {
         ("Draw the Line",               r"Draw the Line"),
         ("Take the Full Charge",        r"Take the Full Charge"),
         ("Confront Without Cruelty",    r"Confront Without Cruelty"),
+        # ch5-ch8 owned twenty moves that no reader could look up. The list was
+        # hard-coded at ten, all from ch3 and ch4, and ch9:662 sends the reader after
+        # three of ch7's by name. Added 2026-08-11 after the nine-reader deep read.
+        ("Name the Inheritance",        r"Name the Inheritance"),
+        ("Honor What Still Serves",     r"Honor What Still Serves"),
+        ("Keep the Vows",               r"Keep the Vows"),
+        ("Reform Without Erasing",      r"Reform Without Erasing"),
+        ("Entrust Without Clinging",    r"Entrust Without Clinging"),
+        ("Find the Leverage Point",     r"Find the Leverage Point"),
+        ("Name the Unstated Assumption", r"Name the Unstated Assumption"),
+        ("Design for Handoff",          r"Design for Handoff"),
+        ("Ship the Minimum",            r"Ship the Minimum"),
+        ("Refactor Kindly",             r"Refactor Kindly"),
+        ("Name the Field",              r"Name the Field"),
+        ("Translate Across Camps",      r"Translate Across Camps"),
+        ("Close with Honest Terms",     r"Close with Honest Terms"),
+        ("Repair After Rupture",        r"Repair After Rupture"),
+        ("Refuse False Equivalence",    r"Refuse False Equivalence"),
+        ("Name the Game",               r"Name the Game"),
+        ("Switch Games Deliberately",   r"Switch Games Deliberately"),
+        ("Return Without Condescension", r"Return Without Condescension"),
+        ("Put a Game Down",             r"Put a Game Down"),
+        ("Hold the Meta Without Losing the Ground", r"Hold the Meta Without Losing the Ground"),
     ],
     "The world": [
         ("Infinite Arcade",  r"Infinite Arcade"),
@@ -200,7 +228,11 @@ PRIMARY = {
     "triumph (anger completed)": "Ch 3 §4", "bliss (joy completed)": "Ch 3 §4",
     "peace (neutrality completed)": "Ch 3 §4",
     # practices
-    "BAR": "Ch 2 §9", "WAVE-Spiral": "Ch 3 §4", "Polarity Map": "Ch 3 §4",
+    "BAR": "Ch 2 §9", "Polarity Map": "Ch 3 §4",
+    # Two practices, two names, ruled 2026-08-07 in SPEC_WAVE_RENAME. One regex used to
+    # catch both and file them under `WAVE-Spiral`, which is how a half-finished rename
+    # survived four chapters, an appendix, a glossary and this file.
+    "Five-Move Form": "Ch 3 §4", "WAVE": "Ch 3 §4",
     "3-2-1 Shadow Process": "App E",
     # The five Ups are the MOVE names in §6, not the stage names in §4 -- §4 runs them
     # bare (Stage 1: Wake, Stage 2: Open). Recorded here because the first draft sent all

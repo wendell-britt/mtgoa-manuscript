@@ -151,7 +151,9 @@ SPINE = [
 # letter. Each has to resolve to a lettered file in the spine before print, or a
 # reader follows a pointer to nothing.
 NAMED_REFERENCES = {
+    "Quests & Campaigns":            "appendices/APPENDIX_B_QUESTS_CAMPAIGNS.md",
     "The Five Channels in Practice": "appendices/APPENDIX_C_FIVE_CHANNELS.md",
+    "Emotional Alchemy Practices":   "appendices/APPENDIX_D_EMOTIONAL_ALCHEMY_PRACTICES.md",
     "3-2-1 Shadow Process":          "appendices/APPENDIX_E_321_SHADOW_PROCESS.md",
     "Polarity Map":                  "appendices/APPENDIX_F_POLARITY_MAP.md",
 }

@@ -10,7 +10,7 @@ The world is not fine.
 
 You do not learn that from the news. You learn it in a meeting, or a group chat, or a Sunday dinner, when somebody finally says what has been sitting there for months and everybody at the table starts picking their words. Somebody gets talked over and nobody names it. Somebody names it and pays for it all week. Two people who agree with each other end up arguing about a word, while the person everybody is talking around says nothing at all.
 
-Nobody can say afterwards what broke. Everybody leaves knowing something did.
+Nobody can say afterward what broke. Everybody leaves knowing something did.
 
 Most of it starts smaller. You say the sentence you rehearsed and your friend agrees with you and never brings it up again. You call to check on the person who took the worst of it and you can hear them managing you. You defend somebody in public and they spend the next week repairing what your defense cost them.
 
@@ -30,7 +30,7 @@ The village is every place with an audience: the workplace, the coalition, the f
 
 So the practice runs one direction. See a problem, respond. Post, protest, speak up, show up. Three months later the problem sits where it sat, or has grown, or has become something the response cannot reach, and the person who responded has nothing left.
 
-Nobody equipped the other half. No curriculum covers the reflex that fires before you decide anything, or the read you set aside, or the part of you that took the wheel during those forty minutes. Most training files that under private, or therapy, or somebody else's field.
+Nobody equipped the other half. No curriculum covers the reflex that fires before you decide anything, or the read you set aside, or the part of you that took the wheel during those forty minutes. Most training files that under private life, or therapy, or somebody else's field.
 
 I spent years refusing a capacity I already had.
 
@@ -208,7 +208,7 @@ I was not okay, and not for the reasons they assumed.
 
 The shamanic training I'd been doing said: everything can be used. Nothing is waste. The anger that shows up is signal. It is starting material. The Shaman's job is to find what the feeling wants to build, in place of managing it into something acceptable.
 
-So I built something. The first version of Mastering the Game of Allyship was written from that anger, not despite it. Because my friends didn't need someone to absorb their feelings. They needed tools. I had spent years building tools that could do exactly this, and no one had thought to aim them at allyship yet.
+So I built something. The first version of Mastering the Game of Allyship was written from that anger, not despite it. What the anger produced first was not the book, and Chapter 9 tells that part. Because my friends didn't need someone to absorb their feelings. They needed tools. I had spent years building tools that could do exactly this, and no one had thought to aim them at allyship yet.
 
 The book is the alchemy. It came from a rock in my shoe. The framework came after. The research came after that.
 
@@ -307,14 +307,14 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 **The Victim**
 **Job:** To win sympathy through stories. Telling what happened is how it gets another person to feel it with you.
 **As an ally:** it lets you feel with someone and resonate with what they're carrying, without collapsing into their story. *In play:* someone tells you something hard and it reaches you without taking you over. You can still see them, and you stay steady enough to be useful.
-**As a demon:** it keeps people in the drama triangle. In the rush to resonate with someone's pain, it allies with their victimhood and smallness instead of their wellbeing, meeting the wound so completely that it confirms them in it and keeps them in the role rather than helping them move through it. *In play:* someone shares how they were wronged, and you resonate so hard with the injury that they leave more settled into being a victim of it, no more able to act than before.
+**As a demon:** it keeps people in the drama triangle. In the rush to resonate with someone's pain, it allies with their victimhood and smallness instead of their well-being, meeting the wound so completely that it confirms them in it and keeps them in the role rather than helping them move through it. *In play:* someone shares how they were wronged, and you resonate so hard with the injury that they leave more settled into being a victim of it, no more able to act than before.
 
 **The Damaged Self**
 **Job:** To take the damage. When nothing else can keep a hit out, it absorbs the hit itself, so what it's carrying survives. It's the Protector's last resort.
 **As an ally:** it turns what it survives into strength, sorting the damage that builds you from the damage that only breaks you. *In play:* you take a real hit standing up for someone, and instead of wrecking you, it leaves you steadier and more able to do it again.
 **As a demon:** it absorbs every hit going, without a word, until it's soaking up harm that was never yours to carry. *In play:* you take on more and more of someone else's load without ever saying so, until you're depleted and no one, including you, has noticed what it's costing.
 
-### The Protector, up close
+### The Protector, Up Close
 
 The Protector works the door of the Forest. You meet it first, the most physical of the seven. The Protector is the hull of the ship, the body itself, holding its shape, keeping the water out, taking the hit when a hit comes. It is the embodied feeling of self-preservation. It does not argue or explain; it braces. It knows danger before you could prove it to anyone, because a hull that waits for proof is already taking on water.
 
@@ -453,7 +453,7 @@ Playing above your clearance is a major error, and your character has nothing to
 
 You can go over the wall anyway. People do it every day, and once in a while it is the only move left. What you do not get to do is go over it and call it help. From the middle those two look the same, and most people will punish both.
 
-You are already equipped for her door, because you have started befriending your own. Your job is not to get past Imani's Protector. **Your job is to ally with it**, the same way you allied with yours: you do not fight it, you do not shove past it, you thank it and you help it tell a real threat from a social one. On her door that becomes a slower approach and a smaller ask.
+You are already equipped for her door, because you have started befriending your own. Your job is not to get past Imani's Protector. **Your job is to ally with it**, the same way you allied with yours: you do not fight it, you do not shove past it, you thank it, and you help it tell a real threat from a social one. On her door that becomes a slower approach and a smaller ask.
 
 Two Protectors meet constantly, and everybody calls that a conflict. If yours holds the joystick, hers has a braced body across the table to check against, and both do their jobs perfectly while nothing gets through in either direction. **Your own daemon decides how far into hers you ever get.**
 

@@ -51,7 +51,7 @@ You have watched this happen up close. In the summer of 2020, people who had nev
 
 This is an old pattern wearing new clothes. Missionaries once required the people they came to serve to convert before they would hand out the food, and most of us recognize that now as a betrayal of the help itself. Fewer of us are willing to ask whether the vocabulary we have built asks for the same conversion, less visibly: a set of conditions to meet before the real help arrives. Sometimes the vocabulary is necessary. We almost never stop to assess whether it is.
 
-The game you moved into has the same design flaw, and I want to be careful here because I ran it for years. The suffering that actually moves you is enormous and far away, and you cannot reach it. Helplessness like that does not resolve on its own. Left unmetabolized, it turns into a drive to protect you from what it can, including the people nearest to you. Just because they are close enough to touch doesn't mean they are a threat. Not the friends who vote the wrong way, the parents and their casually racist comments. The coworker constantly transacting in microaggressions: trying to fix these people will be a painful lesson in learned helplessness. You set out to raise their consciousness the way Pygmalion set out to carve himself the perfect woman, and converting them starts to feel like doing something about the suffering you cannot reach. The words make a very convincing receipt. You said it correctly, so surely you are helping.
+The game you moved into has the same design flaw, and I want to be careful here because I ran it for years. The suffering that actually moves you is enormous and far away, and you cannot reach it. Helplessness like that does not resolve on its own. Left unmetabolized, it turns into a drive to protect you from what it can, including the people nearest to you. Just because they are close enough to touch doesn't mean they are a threat. The friends who vote the wrong way, the parents and their casually racist comments, the coworker constantly transacting in microaggressions: trying to fix these people will be a painful lesson in learned helplessness. You set out to raise their consciousness the way Pygmalion set out to carve himself the perfect woman, and converting them starts to feel like doing something about the suffering you cannot reach. The words make a very convincing receipt. You said it correctly, so surely you are helping.
 
 The ones who will not let you carve them become your enemy. If they are not with you, they are the problem you are fighting, and that fight eats the hours and the care you could have spent on someone who actually needed you. You pour everything into converting the people around you to your vision of the good, and I mean everything. Then one of them pushes back, and you hit the wall you cannot step around: you might have hurt someone by trying to help them, and you might never have asked whether they wanted your help in the first place.
 
@@ -84,7 +84,7 @@ Allyship looks like the honorable place to bring those questions, and springs th
 - Allyship means never causing harm.
 - Allyship means having the right framework.
 
-(A short, unflattering diagnostic at masteringallyship.com marks which of these are yours and takes each one apart. It scores how you actually behave, and it has no score for which kind of ally you are, because that question belongs to the trap.)
+(The Myths Read, a short and unflattering diagnostic at masteringallyship.com, marks which of these are yours and takes each one apart. It scores how you actually behave, and it has no score for which kind of ally you are, because that question belongs to the trap.)
 
 Every one of them holds a little truth, and that truth keeps them alive. Goodness matters, language matters, repair matters. The damage starts when one of them becomes the whole definition. The day allyship means being good, every exchange turns into a test you are taking, and the person in front of you stops being a person and becomes the examiner. You stop watching them and start watching yourself for proof that you passed. The help never lands, because you were looking at the scoreboard in your own head the whole time. You spend everything, they receive almost nothing, and you go home wondering why caring this much leaves you this empty. That emptiness is the receipt for a game that was never built to be won. It was built to keep you playing.
 
@@ -114,7 +114,7 @@ The second kind is renewable tokens. They come from the satisfied states you rea
 
 Remember the anger I told you about, the anger I finally let myself feel? Here is the machine underneath that moment. For three years I fueled this book with guilt, and guilt is that first kind: it got me to the desk and left me stranded there, emptier every month, until I was sitting in front of a chapter I could not write with no way to tell tired from done. The whole time there was a full tank I would not touch, the anger at the delay and at myself and at the gap between who I said I was and what I was doing, because a good ally stays in integrity and does not get mad. The day I stopped swallowing it and actually burned it, it did not drain me. It moved me. The book got written on the fuel I had been treating as contraband.
 
-That conversion has a name: Emotional Alchemy, the engine under the whole book. It takes the charge you are most afraid to spend (the fear, the anger, the sadness most people are trained to keep down) and turns it into fuel that returns. What you can carry off this page is smaller and immediate: the charge that rises in a hard moment is ore, and you have been spending it as pure loss. The question stops being *can I afford to feel this*, and becomes *what is this, and can I burn it clean?*
+That conversion has a name: Emotional Alchemy, the engine under the whole book. It takes the charge you are most afraid to spend (the fear, the anger, the sadness most people are trained to keep down) and turns it into fuel that returns. What you can carry off this page is smaller and immediate: the charge that rises in a hard moment is ore, and you have been spending it as pure loss. The question stops being *can I afford to feel this?*, and becomes *what is this, and can I burn it clean?*
 
 You do not have to become the mint today. The move is smaller: stop believing you are only ever the battery. You are not a fixed supply being drawn down to nothing. You are someone who can make more of the fuel the game runs on. What it earns you back, once you start spending it well, is the next move on the floor.
 
@@ -164,7 +164,7 @@ The reason is not a secret. Changing something costs money, and somebody current
 
 My fluency was the best luck that arrangement ever had. Every hour I spent getting good at the language was an hour nobody spent asking what had changed, and getting good cost them nothing. I paid for the lessons. They kept the budget line, and I stood at the counter as the standing proof that it pays. Call it the fluency dividend: what an arrangement earns every hour you spend getting better at describing it.
 
-I can teach you to see who is collecting. I can teach you to check what your move bought, who it bought for, and whether the person you meant to serve got any of the payout. Every chapter with a Face in it closes by asking where the work lands, because a move that lands on nobody is one the arrangement gets for free. What I cannot do is get you the owner. I have not worked that out, and anybody who tells you they have is selling you a better place in the same line.
+I can teach you to see who is collecting. I can teach you to check what your move bought, who it bought for, and whether the person you meant to serve got any of the payout. Every Face chapter makes you run that check in its own game section, because a move that lands on nobody is one the arrangement gets for free. What I cannot do is get you the owner. I have not worked that out, and anybody who tells you they have is selling you a better place in the same line.
 
 So the move this week is a small one. Go back to what you brought with you and find the person inside it. Work out the smallest move that would actually help. Do that, and let them tell you what it was worth.
 
@@ -178,7 +178,7 @@ If making allyship a game feels like it cheapens something sacred, look at what 
 
 James Carse put the distinction in its cleanest form. A finite game is played to win and it ends. An infinite game is played to keep the play going, and the only way to lose is to stop playing. Allyship has no finish line, which makes it infinite by nature, and nearly everything built to support it is finite: a campaign, a pledge, a training you complete, a bar you clear and then clear again. Burnout is what it feels like to run finite equipment on an infinite road. That is why this chapter is called the Infinite Arcade, and it is why the answer is a better game rather than more willpower.
 
-Chou's decade of mapping answers a second question: what pulls people back to one activity for years and drives them out of another for good. Games are engineered around the first kind of pull. Allyship, almost always, is built out of the second. Calling a game a trick for making serious work go down easier gets it backwards. A game is the only structure that generates the energy to keep doing serious work for a lifetime instead of one burnout cycle.
+Chou's decade of mapping answers a second question: what pulls people back to one activity for years and drives them out of another for good. Games are engineered around the first kind of pull. Allyship, almost always, is built out of the second. Calling a game a trick for making serious work go down easier gets it backward. A game is the only structure that generates the energy to keep doing serious work for a lifetime instead of one burnout cycle.
 
 The third is that a game is the only frame that will get you to look straight at the part of your allyship you least want to see, and enjoy it.
 
@@ -201,7 +201,7 @@ Somebody found me at an event once to tell me that something I had said had give
 
 The person I found was hours in and frightened. I know how to sit with that. Trip sitting is harm reduction, and harm reduction is allyship whether or not anybody in the space would use the word. I had learned trip sitting a long time before that night, for its own reasons, and I never once thought it would come in handy. We talked for a long time, and they came out the other side.
 
-Afterwards the person who had come to find me worked out that it had not been me at all. It had been somebody at that event who looked like me.
+Afterward the person who had come to find me worked out that it had not been me at all. It had been somebody at that event who looked like me.
 
 Two moments from that night matter here. The first is that I went without saying a word in my own defense. I could not tell you how that looked from outside, because I was not watching for that. I was going to find somebody.
 
@@ -271,7 +271,7 @@ Appendix H is the sheet. This is yours, a few lines filled in for who you are ri
 
 **Your home face.** The one you already play, the one you just recognized as yours. Write it down.
 
-**Your shadow.** Your home face has a bad night. Tired, scared, or spent, it stops being your strength and turns into the move you overplay: the Diplomat who keeps the peace until nothing gets decided, the Challenger who scorches the people he came to protect. You catch this one by feel: under strain it comes in heavier, tighter, more reactive than your real move. Write down the version of your face you fall into on empty. Treat it as your tell rather than your enemy.
+**Your shadow.** Your home face has a bad night. Tired, scared, or spent, it stops being your strength and turns into the move you overplay. You catch this one by feel: under strain it comes in heavier, tighter, more reactive than your real move. Write down the version of your face you fall into on empty. Treat it as your tell rather than your enemy.
 
 **Your myth.** Back at the start you met the ten versions of *allyship means being good*. Write down the one that runs you hardest, the rule you have been playing by without ever agreeing to it. (The Myths Read sorts your real top few, unflattering and exact, and turns each one into a first move.)
 
@@ -279,7 +279,7 @@ Appendix H is the sheet. This is yours, a few lines filled in for who you are ri
 
 That is the sheet for now. It fills in as you play: a superpower you will only spot in motion, an autopilot pattern you will catch yourself running, a line added in every chapter ahead.
 
-Pen and paper hold this. Date every version, and across a year of play you can watch your face, your shadow and your myths move, which is the change you cannot see from inside a single week.
+Pen and paper hold this. Date every version, and across a year of play you can watch your face, your shadow, and your myths move, which is the change you cannot see from inside a single week.
 
 ## The Reader's Oath
 

@@ -71,6 +71,31 @@ BRITISH = {
     "travelling": "traveling", "cancelled": "canceled",
     "grey": "gray", "towards": "toward", "whilst": "while",
     "amongst": "among", "learnt": "learned", "spelt": "spelled",
+    # The -wards family, added 2026-08-09 from the ch1 deep read. `towards` was
+    # here from the start and `afterwards` was not, so four body sites survived
+    # every pass -- ch1:204, ch2:13, ch7:737, ch8:730 -- in a book that reads
+    # `afterward` 28 times. Measured across the whole family before adding, so
+    # the board does not gain noise: forward 40/0, toward 42/0, inward 10/0,
+    # outward 9/0, and the only other `-s` in the book was ch1:181's `backwards`.
+    "afterwards": "afterward", "backwards": "backward",
+    # Found by the eight-chapter deep read, 2026-08-09, and every one of them
+    # by a reader rather than by this file. Each was measured against its own
+    # family before being admitted, so the board gains no noise:
+    #   rigour     ch6:217  -- rigor 10 : 1, and ch6 spells it rigor twice more
+    #   programme  ch6:535  -- the same chapter spells it program at ch6:141
+    #   instalment ch7:899  -- 1 site, 0 counter-examples anywhere
+    #   signalled  ch7:791  -- the doubled-l family runs 9 US : 2
+    #   relabelled ch3:152  -- channeled sits two clauses later in the same line
+    #   disorganised ch3:860 -- the organize family runs 63 : 1 in the body
+    # `organise`/`organised` were already here and still missed `disorganised`,
+    # which is the same prefix-shaped hole that `towards` left for `afterwards`.
+    # per cent  ch8:764 -- fixed on the 1sizjz line; the phrase stays in the dict because
+    # it is two words and every other British form here is one, so nothing else catches it.
+    "rigour": "rigor", "programme": "program", "programmes": "programs",
+    "instalment": "installment", "instalments": "installments",
+    "signalled": "signaled", "signalling": "signaling",
+    "relabelled": "relabeled", "disorganised": "disorganized",
+    "labelled": "labeled", "channelled": "channeled", "modelled": "modeled",
 }
 
 # STYLE_SHEET §6. Canon that is always capitalised wherever it appears.
@@ -110,6 +135,8 @@ def main():
     for p in paths:
         name = os.path.basename(p).replace(".md", "")
         for i, line in body_lines(p):
+            if "per cent" in line.lower():
+                spelling.append((name, i, "per cent -> percent"))
             for w in re.findall(r"\b[A-Za-z]+\b", line):
                 if w.lower() in BRITISH:
                     spelling.append((name, i, "%s -> %s" % (w, BRITISH[w.lower()])))

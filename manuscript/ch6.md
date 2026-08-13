@@ -164,8 +164,6 @@ The five modes, the stage sequence, the part of you that feels the system before
 
 Somewhere in the training you will recognize a design failure. A process that looked correct and failed anyway. An accountability structure nobody trusted. A meeting format that produced nothing and cost everyone something. The School of the Pattern makes the same claim about all of them: the structure did exactly what it got built to do, and that was the problem. Not who failed it. Why it could not have done otherwise.
 
-They read the burnout survey and added a wellness hour. Thursdays at two, which was the only unbooked hour on the calendar, because it was the only hour anyone was getting anything done.
-
 Doing the right thing in the wrong system is a specific kind of expensive, and the expense has a name: the system's cut. You pay it in hours, in goodwill, in the same argument made a fourth time, and the system keeps the difference. The Architect starts by recognizing it as a system problem rather than an effort problem.
 
 ---
@@ -212,9 +210,9 @@ The Architect's pair: the structure that produces the outcome versus the agency 
 
 **Agency** says the person chose. Somebody with the same incentives, in the same seat, on the same day, chooses otherwise, and the fact that they can is not a rounding error in the model. It is the whole reason any of this is worth doing. A system that could not be defied would not need allies. Every account of a person who broke ranks at cost is an account of Agency, and no incentive map predicts them.
 
-You can picture the failure at each end. Structure without Agency builds a machine that treats people as inputs, gets the throughput it designed for, and cannot understand why nobody inside it will meet its eye. It also produces the most comfortable sentence in the discipline (*the system did it*), true, and nobody has ever needed courage to say it. Agency without Structure blames individuals for outcomes the design guarantees, burns through good people looking for better ones, and watches the same failure arrive every eighteen months with a new name attached.
+You can picture the failure at each end. Structure without Agency builds a machine that treats people as inputs, gets the throughput it designed for, and cannot understand why nobody inside it will meet its eye. It also produces the most comfortable sentence in the discipline (*the system did it*), which is usually true. Agency without Structure blames individuals for outcomes the design guarantees, burns through good people looking for better ones, and watches the same failure arrive every eighteen months with a new name attached.
 
-The pair gets specific for the student the School of the Pattern attracts. The suspicion runs one direction. Agency language has warnings attached to it at this altitude, and rightly: *personal responsibility* has done a great deal of work for people who wanted nothing to change. Structure language has none. It arrives sounding like analysis, like sophistication, like the opposite of blame. So the drift runs toward a structural account of every situation you were personally in, the one account that never requires you to have been there as a person. In practice it is cruelty, specified as rigour.
+The pair gets specific for the student the School of the Pattern attracts. The suspicion runs one direction. Agency language has warnings attached to it at this altitude, and rightly: *personal responsibility* has done a great deal of work for people who wanted nothing to change. Structure language has none. It arrives sounding like analysis, like sophistication, like the opposite of blame. So the drift runs toward a structural account of every situation you were personally in, the one account that never requires you to have been there as a person. In practice it is cruelty, specified as rigor.
 
 <!-- SIGNATURE -->
 > the fourth treatise, submitted by Irix Vale, Patternwright,
@@ -269,14 +267,25 @@ The five Architect modes are five ways logic moves through a problem. Each one w
 
 Neither pole is the answer. The position takes a judgment call every time, and only a directional diagnostic works.
 
-Take the last workplace failure you explained to somebody.
+**Try this now.**
 
-1. Write the explanation you gave, in one sentence.
-2. Mark it: Structure, Agency, or both.
-3. Now do the same for the four before it.
+1. Take the last workplace failure you explained to somebody, and write the
+   explanation you gave, in one sentence.
 
-Five marks. Read the column, not any single row. A run of five in one direction
-is not five judgments. It is one habit, applied five times.
+2. Draw the axis:
+
+   **STRUCTURE** ←——●——→ **AGENCY**
+
+   Mark where that explanation actually sat. Then mark the four explanations
+   before it on the same line. Five marks. Read the column, not any single row:
+   a run of five in one direction is not five judgments, it is one habit
+   applied five times.
+
+3. Write one integrated sentence that holds both poles at once:
+   *"The design produced __________, and the person standing inside it still
+   chose __________."*
+
+4. Sit thirty seconds. Notice: heat with nowhere to go, heaviness, or ground.
 
 ---
 
@@ -302,7 +311,7 @@ The **Inventor** runs on Wood. Joy detects vitality (what wants to exist and doe
 
 The **Optimizer** runs on Water. Sadness detects decay, the process that used to work and doesn't anymore, and stuck Sadness keeps the dead process running out of loyalty to the people who built it. Metabolized, it becomes Poignance: you can honor what a structure did and retire it in the same motion. *I can connect.* Most systems fail here, not from missing the decay, but from failing to feel the loss all the way through and so never letting it go.
 
-The five modes are also the five ways the Architect moves through the WAVE-Spiral at altitude. Wake: notice which mode fires and what it detects. Open: let the signal in before it becomes a proposal. Clean: locate where it landed, and stabilize there. Grow: find what you learned from it. Show: move from the integrated understanding. Here the Architect's practice and the Shaman's emotional alchemy work together, not as two systems, but as one system seen from two altitudes.
+The five modes are also the five ways the Architect moves through the Five-Move Form at altitude. Wake Up: notice which mode fires and what it detects. Open Up: let the signal in before it becomes a proposal. Clean Up: locate where it landed, and stabilize there. Grow Up: find what you learned from it. Show Up: move from the integrated understanding. Here the Architect's practice and the Shaman's emotional alchemy work together, not as two systems, but as one system seen from two altitudes.
 
 The Architect's flow cycle: Observe → Model → Design → Deploy → Observe (new state), and out through Hand Off. Each deployment produces new observations, which produce new models, which produce new designs; the iteration is genuine and it is not the point. The Architect is finished when somebody else can run it and change it. Everything before that is the work of getting to a system worth handing over.
 
@@ -467,9 +476,9 @@ The tell is never the position. The tell is whether the answer is ever Agency. A
 
 The Emotional Body developed does what nothing else in this chapter can do: it tells you where the movement is before the evidence does.
 
-That is the Strategist. Look back at the modes table and notice what the Strategist runs on: Fire, anger, resolving to triumph. Momentum is not a calculation. Nobody has ever found the leverage point in a spreadsheet. You find it by feeling where the system is straining, where the workaround has already been invented by somebody who was not asked, where the pressure has built to the point that one push will do what a year of argument could not. Every one of those is a reading before it is a finding. An Architect who has converted their signal into structure on arrival can still produce the analysis. What they lose is timing, the sense of *now.* That is the entire content of the Strategist, and it is not recoverable from data.
+That is the Strategist. Nobody has ever found the leverage point in a spreadsheet. You find it by feeling where the system is straining, where the pressure has built to the point that one push will do what a year of argument could not. Every one of those is a reading before it is a finding. An Architect who has converted their signal into structure on arrival can still produce the analysis. What they lose is timing, the sense of *now.*
 
-So the map is the artifact, and you already know how to make one. This chapter trains the Strategist: knowing where the push goes and when to make it, and then, because you also know what it is for, building the map so the next person can run it without you. Structural generosity is the intent. Timing is what makes it arrive on a day it can still matter. A beautiful blueprint delivered eighteen months after the pressure released is not generous. It is just correct.
+So the map is the artifact, and you already know how to make one. Timing is what makes it arrive on a day it can still matter. A beautiful blueprint delivered eighteen months after the pressure released is not generous. It is just correct.
 
 You know what your Emotional Body is for now. That is what you take out.
 
@@ -532,7 +541,7 @@ Designing for handoff means: before you ship the design, ask who will run this a
 
 In practice: design as if the person taking over knows less than you do about why you made the choices you made. Because they will. Write the rationale down. Name the trade-offs. Explain what you optimized for and what you gave up. Leave a breadcrumb trail.
 
-**Example:** You built the intake process, you run it, and you also translate for the three families who cannot use an English form. Design the handoff on the assumption that the next person will not speak Somali. Put the translating in the process rather than in yourself, which means paid interpreters on the calendar and a form in two languages, and it costs the programme more than you do. The families get something that survives you leaving. You stop being the reason it works.
+**Example:** You built the intake process, you run it, and you also translate for the three families who cannot use an English form. Design the handoff on the assumption that the next person will not speak Somali. Put the translating in the process rather than in yourself, which means paid interpreters on the calendar and a form in two languages, and it costs the program more than you do. The families get something that survives you leaving. You stop being the reason it works.
 
 **The test:** You asked who runs this after me before you shipped, and wrote down what you were assuming they already knew. The system's survival is next year's evidence.
 
@@ -604,7 +613,7 @@ Three points decide whether what you build survives contact with the people insi
 
 **Do not soften the accusation out of it.** Every structural design carries one claim: the current system is failing, and somebody built the current system. The design was not written as an accusation and it is also not not one. Deny that and you keep the design vague enough that nobody has to answer it. Vague enough turns a design into a recommendation, and a recommendation is a design that has agreed in advance not to happen.
 
-**Hand it over while you are still the most useful person on it.** Observe, model, design, deploy is a loop with no exit built into it. The loop will produce a better system every year and never once declare you finished, and the reason to run one more cycle arrives fresh each quarter. Stepping out costs exactly what the loop pays you, so hand over on a day when it still costs you that. Leave it longer and you hand over a system that has already failed once without you there.
+**Hand it over while you are still the most useful person on it.** Observe, Model, Design, Deploy is a loop with no exit built into it. The loop will produce a better system every year and never once declare you finished, and the reason to run one more cycle arrives fresh each quarter. Stepping out costs exactly what the loop pays you, so hand over on a day when it still costs you that. Leave it longer and you hand over a system that has already failed once without you there.
 
 **Direct Action — the condition changed, not the incident**
 
@@ -616,7 +625,7 @@ Three points decide whether what you build survives contact with the people insi
 
 **Gather Resources — the cost moved into the budget**
 
-*You're winning when:* you took what the system had been drawing out of one person without ever asking, her translating, his shift swaps, your evenings, and put it into the design where it has a name, a line and somebody who pays, and asked the person who can grant or refuse instead of absorbing it another year. It cost you the standing you had while the system ran on one person's goodwill. The proof is that the work still happens in a week when that person is away.
+*You're winning when:* you took what the system had been drawing out of one person without ever asking, her translating, his shift swaps, your evenings, and put it into the design where it has a name, a line, and somebody who pays, and asked the person who can grant or refuse instead of absorbing it another year. It cost you the standing you had while the system ran on one person's goodwill. The proof is that the work still happens in a week when that person is away.
 
 **Skillful Organizing — the machinery handed to next hands**
 
@@ -641,7 +650,7 @@ The grid again, fourth operation of six. Five moves down, four domains across, t
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
-The five moves are this chapter, in order. Wake Up is a mode detecting. Open Up is the six seconds. Clean Up is the conversion, performed on purpose, in its own slot, rather than on reflex a quarter-second after the signal lands. Grow Up is the capability the design is supposed to leave behind in other people. Show Up is what you build, and every card at that stage starts with the same verb. Pick a domain instead and you are choosing the arena. Down is the sequence, across is where it lands.
+The five moves are this chapter, in order, with Clean Up in its own slot rather than on reflex a quarter-second after the signal lands. Every card at Show Up starts with the same verb. Pick a domain instead and you are choosing the arena. Down is the sequence, across is where it lands.
 
 ### Drawing Against the Shadow
 

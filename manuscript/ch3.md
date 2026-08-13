@@ -149,7 +149,7 @@ So the villagers made a choice: efficiency over wisdom. Output over presence. Ac
 
 It *worked.* The villagers solved some problems. They moved some mountains. They changed some systems, temporarily, in specific places. All while running on fumes. All while the people doing the work got more and more depleted, more and more cut off from the very source of energy that would have sustained them.
 
-This is what the villagers do with emotional alchemy when the Shaman is gone: they transform it into *performance management.* Into *emotional labor that must be optimized.* Into a system where feeling gets permission only if it makes you more productive. Where sadness comes back relabelled as growth. Where fear answers to "imposter syndrome" and takes a mindfulness app. Where anger gets channeled into "righteous action" but never, ever examined for what it might be trying to tell you about yourself.
+This is what the villagers do with emotional alchemy when the Shaman is gone: they transform it into *performance management.* Into *emotional labor that must be optimized.* Into a system where feeling gets permission only if it makes you more productive. Where sadness comes back relabeled as growth. Where fear answers to "imposter syndrome" and takes a mindfulness app. Where anger gets channeled into "righteous action" but never, ever examined for what it might be trying to tell you about yourself.
 
 No one in the village saw it happening. They called the pattern efficiency, and the pattern starved them.
 
@@ -200,9 +200,6 @@ Real emotional alchemy is the practice of staying with the emotion long enough t
 
 When you do this, when you make space for fear instead of overriding it, fear teaches you what you actually care about. (Not your stated values. Your actual ones. The ones you'd die for with no one watching, without the post.) Because fear shows up at the boundary of what matters to you. It shows up when something you're attached to is at risk. It shows you your real values, not your performed values. Your real priorities, not your productivity system.
 
-When you do this with anger, when you let yourself be angry instead of converting it into activism, anger teaches you where you're willing to stand. Anger is the voice that says "this is not acceptable." Not the system. Your body. Your specific nervous system, with your specific history, drawing a line. That line carries precious information about who you actually are and what you're actually willing to participate in.
-
-When you do this with sadness, when you grieve instead of rushing past it, sadness teaches you what was real. Because sadness is the feeling that only arrives when you lose something that truly mattered. Sadness says "this was true. This connection was real. This loss is significant." In a world that constantly tries to convince you that you're overreacting, that it wasn't a big deal, that you should move on. Sadness is the voice that says "no. This mattered. I'm allowed to feel that."
 
 When you do this with joy, which feels like the easy one and is not (it requires you to stop moving, harder than anything else the School of the Body teaches), when you *land* in joy instead of using it for fuel, joy teaches you what's aligned. Joy shows up when you're doing something that matches your actual values, your actual gifts, your actual becoming. Joy is not the same as happiness or productivity. Joy is the feeling that says "yes. This is real. I am home."
 
@@ -253,13 +250,11 @@ I recover both ends before I am done, and I will ask you to hold them at the sam
 ---
 
 ## Section 4: The Practice
-### *The WAVE-Spiral: Emotional Alchemy as Repeatable Technique and Living Art*
+### *The Five-Move Form: Emotional Alchemy as Repeatable Technique and Living Art*
 
-Other people built some of what this chapter hands you, and their names belong with the tools. *Felt sense* comes from Eugene Gendlin's *Focusing*, and the phrase names the body's knowing that arrives before language does, which is what this chapter teaches you to read. The claim underneath the whole practice is Peter Levine's. A feeling carries energy that has to finish moving, and it jams when you cut it off. He studies that jam where it is severe, in trauma, which calls for a trained person in the chair with you. This chapter works the everyday version, a bad afternoon rather than a wound, and the stretch from one to the other is mine to answer for. The Polarity Map is Barry Johnson's, and so is the distinction it rests on, that some tensions are problems you solve and others are pairs you hold. The five channels are borrowed too, and I say from where when they arrive a few pages on. Appendix G says where to read each one.
+Other people built some of what this chapter hands you, and their names belong with the tools. *Felt sense* comes from Eugene Gendlin's *Focusing*, and the phrase names the body's knowing that arrives before language does, which is what this chapter teaches you to read. The claim underneath the whole practice is Peter Levine's. A feeling carries energy that has to finish moving, and it jams when you cut it off. He studies that jam where it is severe, in trauma, which calls for a trained person in the chair with you. This chapter works the everyday version, a bad afternoon rather than a wound, and the stretch from one to the other is mine to answer for. The Polarity Map is Barry Johnson's, and so is the distinction it rests on. The five channels are borrowed too, and I say from where when they arrive a few pages on. Appendix G says where to read each one.
 
 The Shaman's native material is *emotion*, and what you can use runs narrower than mood and faster than temperament: the charge that arrives in one particular second, about one particular person, and goes somewhere when you spend it.
-
-If emotional alchemy means learning from emotions instead of managing them, then how do you actually *do it* when you're in the middle of a hard conversation, a crisis, a moment where the feeling is rising and you have thirty seconds to respond?
 
 Some people are very good at putting feelings away.
 
@@ -277,20 +272,22 @@ The first time you play it, you will have to say "tell me more" to something tha
 
 The feeling was always there. It was waiting for someone to stay with it.
 
-Most allyship has the same problem those calls had. The ally solves for their own emotional problem: the need to feel useful, effective, like a good person in a hard moment. The person they came to help gets efficiency. A real partnership has two people actually getting something from the encounter, both parties more real at the end than at the start. That requires staying with the feeling long enough to find out what it actually is. Not what you want it to be. What it is.
+Most allyship has the same problem those calls had. The ally solves for their own emotional problem: the need to feel useful, effective, like a good person in a hard moment. A real partnership has two people more real at the end than at the start.
 
 You need a practice. A structure. Something that repeats reliably so you can get better at it.
 
-That structure has a name: the WAVE-Spiral.
+That structure has a name: the Five-Move Form.
 
-The WAVE-Spiral is a progression through five stages that can happen in ten seconds or ten hours depending on the depth and context. It moves emotional energy from activation (I feel something) → contact (I let it fully reach me) → clarity (I understand what it means) → integration (the feeling has taught me something) → action (I move from that understanding).
+*Form* is the martial artist's word, and it is the exact one. A form is a fixed order of moves you run alone, slowly, ten thousand times, so that on the day a hard moment arrives fast your body already knows where it is going. You learn it in pieces and you never finish it. The beginner runs the form and the master runs the form, and what separates them lives inside the same five moves.
+
+The Five-Move Form is a progression through five stages that can happen in ten seconds or ten hours depending on the depth and context. It moves emotional energy from activation → contact → clarity → integration → action.
 
 ---
 
-### The Five Stages of the WAVE-Spiral
+### The Five Stages of the Five-Move Form
 
 <!-- MARGINALIA -->
-> *Maera says the spiral can run in ten seconds. She is right, and she has been practising for
+> *Maera says the Form can run in ten seconds. She is right, and she has been practising for
 > thirty years.*
 >
 > *For your first year, run two: notice, and say. The other three are what you do afterwards, on
@@ -299,10 +296,10 @@ The WAVE-Spiral is a progression through five stages that can happen in ten seco
 <!-- /MARGINALIA -->
 
 
-#### Stage 1: Wake
+#### Stage 1: Wake Up
 **What it means:** Notice the emotional signal. Detect activation.
 
-This is the hardest stage for most people, because it requires that you actually *pause* and notice what you feel, what is actually here in your body right now, a different question from what you *should* feel and a different question from what counts as productive.
+This is the hardest stage for most people, because it requires that you actually *pause* and notice what is actually here in your body right now, a different question from what you *should* feel.
 
 Fear. Anger. Sadness. Joy. Neutrality.
 
@@ -310,9 +307,7 @@ The feeling arrives before your thinking mind can name it. Your body tenses befo
 
 The Wake stage honors that moment, without immediately trying to fix it, manage it, or convert it into something else. (The converting happens very fast. You have converted your whole life. The pause is the practice.)
 
-**In practice:** When you notice an emotional signal rising, name it. Internally. "Fear." "Anger." "Sadness." "Joy." "Neutrality."
-
-Where do you feel it in your body? Chest? Belly? Legs? Throat? Jaw? Let your nervous system have its full response for a moment. Skip the question of whether the feeling qualifies, and skip the question of why it came. Just: this feeling is present. I notice it.
+**In practice:** Name the feeling to yourself, one of the five, and find where it sits. Chest? Belly? Legs? Throat? Jaw? Skip the question of whether the feeling qualifies, and skip the question of why it came. Just: this feeling is present. I notice it.
 
 This stage can take five seconds or run the length of the encounter, and you keep noticing the feeling the whole way through.
 
@@ -321,18 +316,22 @@ This stage can take five seconds or run the length of the encounter, and you kee
 
 The people who raised you hand you a dial in childhood and teach one direction: lower it. Stay composed, stay reasonable, keep it together. Turn the dial that low and most of what moves in the situation slips past before it registers, and we call that setting *calm*. Opening turns the dial the other way. You deliberately raise your sensitivity to everything actually present, in your own body first, then in the people around you.
 
-This matters for one reason: you cannot affect what you cannot feel. The Shaman works by sensitivity, and an instrument kept behind glass reads nothing. When a moment turns and you register it a beat late, the charge has already passed, and the move that could have met it went with it. Contact is the precondition for impact. Every skill later in this chapter runs on the signal that opening lets in; with the dial down, the rest of the game has nothing to work with.
+This matters for one reason: you cannot affect what you cannot feel. The Shaman works by sensitivity, and an instrument kept behind glass reads nothing. Register a moment a beat late and the charge has already passed, along with the move that could have met it. Every skill later in this chapter runs on the signal that opening lets in.
 
-Here is where most well-meaning allies flinch, so let me say it straight: you did not burn out from too much empathy. You burned out because you took in everything and nobody ever trained you to hold any of it. It all came in at once, no skill stood in place to carry the weight, and so you turned the dial all the way back down, the only relief anyone had shown you. You will expect Opening to mean feeling more and coping worse. Opening trains you to hold sensation on purpose: your own charge first, until you can stand inside it without going under, then the other person's, until their reality reaches you without dragging you down with it. That capacity separates help that flatters you from help the person actually needed. Compassion that has felt the full weight and stayed on its feet is the only compassion that informs a good move.
+Here is where most well-meaning allies flinch, so let me say it straight: you did not burn out from too much empathy. You burned out because you took in everything and nobody ever trained you to hold any of it, so you turned the dial all the way back down, the only relief anyone had shown you. Opening trains you to hold sensation on purpose: your own charge first, until you can stand inside it without going under, then the other person's, until their reality reaches you without dragging you down with it. Compassion that has felt the full weight and stayed on its feet is the only compassion that informs a good move.
 
-Turn the dial all the way up and something else surfaces, something a part of you has kept down there too. Somewhere in the hard moment, a part of you is getting something out of the very dynamic you say you want to end: the charge of being the good one, the relief when the conversation stays comfortable, the pull of an old hurt that has a use. Carolyn Elliott named this the existential kink, and I will not pretend I stand outside it: I have felt myself drawn toward my own smallness in the same moment I was performing my way past it. Opening makes the payoff visible. You do not have to do anything with it yet. You only have to stop refusing to feel it, because what stays hidden runs the moment, and what you can feel, you can play.
+Turn the dial all the way up and something else surfaces, something a part of you has kept down there too. Somewhere in the hard moment, a part of you is getting something out of the very dynamic you say you want to end: the charge of being the good one, the relief when the conversation stays comfortable, the pull of an old hurt that has a use. Carolyn Elliott named this the existential kink, and I will not pretend I stand outside it: I have felt myself drawn toward my own smallness in the same moment I was performing my way past it. Opening makes the payoff visible. You only have to stop refusing to feel it, because what stays hidden runs the moment, and what you can feel, you can play.
 
-That leaves the fear that has been guarding all of it: the fear of doing more harm than you know. Opening does not make that fear disappear, and it does not turn it into courage the instant you feel it. Opening makes the fear available, fully felt instead of managed from a safe distance, close enough that, later in this chapter, you can learn to move it. That conversion takes a real skill with real steps, and it is coming. The whole job of Open Up is to get the fear into your hands, where the work can reach it.
+That leaves the fear that has been guarding all of it: the fear of doing more harm than you know. Opening does not make that fear disappear. Opening makes it available, fully felt instead of managed from a safe distance. The whole job of Open Up is to get the fear into your hands, where the work can reach it, and the skill that moves it is coming.
 
-#### Stage 3: Clean
+Four beats cover the second when the charge has already arrived and the moment has not waited for you. **Welcome** the charge: stop pushing it away. **Acknowledge** it: name it to yourself, in one word if one word is all you have. **Validate** it: grant that a person standing where you are standing would feel this, which is a smaller claim than deciding the feeling is correct. **Exhale.**
+
+Those four are **WAVE**, and the whole of it runs about as long as one breath. WAVE does not tell you what the charge means; the meaning comes later, and this chapter builds a whole practice for finding it. What WAVE buys you is the few seconds in which choosing your next move becomes possible at all.
+
+#### Stage 3: Clean Up
 **What it means:** Correct distortion. Clarify what the feeling is actually telling you about reality.
 
-Now that you've woken to the feeling, the next move asks what it's showing you. This is where the Shaman's intelligence comes in: the ability to read what the feeling orients toward, beneath the noise and the secondary reactions.
+Now that you've woken to the feeling, the next move asks what it's showing you. This is where the Shaman's intelligence comes in: reading what the feeling orients toward, underneath the noise and the secondary reactions (shame about having the feeling, fear of what the feeling means, guilt about the situation).
 
 Fear arrives. What does fear actually detect? A real risk, or an old story about risk?
 
@@ -344,86 +343,39 @@ Joy arrives. What in this moment actually aligns with who I'm becoming?
 
 Neutrality arrives. What whole-system perspective am I suddenly able to see that activation kept me from seeing before?
 
-The Clean stage gets crystal clear on what the feeling actually shows you, stripped of the secondary reactions (shame about having the feeling, fear of what the feeling means, guilt about the situation).
-
 **In practice:** Once you've named the feeling, ask it one question: *What is this showing me?*
 
-The question is: what is this feeling pointing to right now? "Why do I feel this?" analyzes the past. "What should I do?" jumps to action. This one stays where you are.
+"Why do I feel this?" analyzes the past. "What should I do?" jumps to action. This one stays where you are.
 
-Each of these emotions has a job. Fear's job is to detect threat and risk. Anger's job is to identify obstacles to overcome, or boundaries to create or destroy. Sadness's job is to point you toward what you care about and how far you have drifted from it. Joy's job is to show you what's aligned with your delight. Neutrality's job is detachment and perspective, the view that lets you see the whole.
+Each of these emotions has a job. Fear detects threat and risk, anger detects the obstacle to overcome or the boundary to draw, sadness points at what you care about and how far you have drifted from it, joy shows you what's aligned with your delight, neutrality gives you detachment and the view of the whole. Asking *what is this showing me?* is asking the feeling to do its job.
 
-So when you ask the feeling *what is this showing me?*, you're asking it to do its job:
-
-If it's fear: what threat or risk does it detect?
-If it's anger: what obstacle needs overcoming, or what boundary needs drawing (or dissolving)?
-If it's sadness: what do I care about, and how far am I from it?
-If it's joy: what's aligned with my delight?
-If it's neutrality: what perspective am I suddenly able to see from here?
-
-You're not trying to think your way to an answer. You're sensing into the feeling and letting it show you. This usually takes a few seconds to a few minutes. It happens best when you stay in your body, not in your thinking mind.
+You're not trying to think your way to an answer. You're sensing into the feeling and letting it show you, and it usually takes a few seconds to a few minutes.
 
 This is the first difference between the Shaman's practice and its distortion: the villagers try to speed past this stage. The Shaman lingers here long enough to actually get the teaching.
 
-#### Stage 4: Grow
+#### Stage 4: Grow Up
 **What it means:** Extract the lesson. Integrate the insight the feeling offered.
 
-Now you understand what the feeling shows you. The fourth stage lets that understanding actually *change* you. Not dramatically. You integrate the information so that your nervous system knows something it didn't know before.
-
-If fear showed you what matters, your system integrates "this is what I'm protecting" as a real value, not something you have to earn.
-
-If anger showed you a boundary, your system integrates "I'm allowed to have this boundary" as a real choice, not a transgression.
-
-If sadness showed you what mattered, your system integrates "it was real, it was worth it, I was right to have loved it" as truth, not as failure.
-
-If joy showed you what's aligned, your system integrates "this direction is right for me" as real guidance.
-
-If neutrality showed you perspective, your system integrates the larger view so you can hold complexity that activation kept you from holding before.
+Fear that showed you what matters integrates as a value you hold rather than one you have to earn. Anger that showed you a boundary integrates as a choice you are allowed to make, not a transgression. Sadness integrates as *it was real, it was worth it.* Joy integrates as guidance: this direction is right for me. Neutrality integrates as the larger view, and you can hold complexity that activation kept you from holding before.
 
 The Grow stage is the integration, the moment when the feeling stops being something that happened *to* you and becomes something you've *learned* from.
 
-Here the shift happens: from dissatisfaction (the feeling is overwhelming, confusing, raw) to neutral (the feeling landed, its message received). You're not trying to feel happy or fixed. You're reaching a baseline: the feeling no longer runs away with you. It's integrated.
+Here the shift happens: from dissatisfaction (the feeling is overwhelming, confusing, raw) to neutral (the feeling landed, its message received). You're not trying to feel happy or fixed. You're reaching a baseline: the feeling no longer runs away with you.
 
-**In practice:** After you've understood what the feeling showed you, spend a moment letting your nervous system know: "I get it. I understand what this was showing me. The message landed."
+**In practice:** After you've understood what the feeling showed you, spend a moment letting your nervous system know: "I get it. The message landed."
 
-This might look like:
-- A deep breath where you actually feel your body relax slightly
-- A shift in your thinking from "why is this happening?" to "I see what this is teaching me"
-- A sense of resolve or clarity where before there was confusion
-- A feeling of being met, like the feeling has been witnessed and understood
-
-You're not trying to make the feeling go away. You're arriving at a moment of mutual understanding: the feeling has delivered its message, and you've received it.
-
-#### Stage 5: Show
+#### Stage 5: Show Up
 **What it means:** Act aligned with the lesson. Execute the move.
 
 Now you've integrated the lesson. The final stage *moves* from that understanding. Your old patterns offer one available starting point. What you think you should do offers another. The move comes from the place you've just reached.
 
-You understood what matters. Now show up as someone who protects what matters.
-You understood your boundary. Now hold it.
-You understood what was real. Now honor it.
-You understood what's aligned. Now move toward it.
-You understood the larger perspective. Now lead from that clarity.
+You understood what matters. Now protect it. You understood your boundary. Now hold it. You understood what was real. Now honor it. You understood what's aligned. Now move toward it. You understood the larger perspective. Now lead from it.
 
-The Show stage finally answers: "What does this move require me to do now?"
-
-The answer comes not from willpower or performance, but from the wisdom you've just integrated.
-
-**In practice:** Once you've integrated the lesson, take action aligned with it.
-
-This might be:
-- Saying something you needed to say from a place of clarity instead of reactivity
-- Setting a boundary you've been afraid to set
-- Letting yourself rest because you've honored what was real
-- Moving with purposefulness because you now know what's aligned
-- Leading from the bigger perspective you suddenly have access to
-
-The action differs with each feeling and each situation. What matters: it comes *from* the integrated understanding, not from your habitual patterns.
-
-This stage can happen in real-time (in the next ten seconds) or can unfold over hours or days. The timeline doesn't matter. Your source does: you move from the wisdom you've integrated, not from your defensive programming.
+**In practice:** take the action the understanding asks for. It differs with each feeling and each situation, and it can happen in the next ten seconds or unfold over days. The timeline doesn't matter. Your source does: you move from the wisdom you've integrated, not from your defensive programming.
 
 ---
 
-### The Five Elements: How Different Feelings Flow Through the WAVE-Spiral
+### The Five Elements: How Different Feelings Flow Through the Five-Move Form
 
 <!-- MARGINALIA -->
 > *The Body teaches these in a low-lit hall with the windows open, on the theory that a student who
@@ -438,7 +390,7 @@ These five channels did not start with me. Metal, Water, Wood, Fire, and Earth c
 
 I am naming this in the chapter rather than in a footnote because Chapter 1 put my own fluency on the table as an asset that gets me through doors and keeps other people outside them, and running a borrowed vocabulary past you unmarked is the same move with the credit taken off. The original goes far deeper than my use of it and repays reading on its own terms; the back of the book points you to where to start.
 
-Every feeling you experience falls into one of five channels. Understanding which channel you're in helps you know what the feeling has to teach, and what move to make next.
+Every feeling you experience falls into one of five channels.
 
 #### The 5 Channels and Their Lessons
 
@@ -466,11 +418,7 @@ Each channel carries intelligence. You're not trying to "get over" any of them. 
 
 ### The Satisfied States: What the Feeling Is For
 
-You have learned to feel each channel all the way through. Here is what "all the way through" arrives at, and why it is the point.
-
-Each channel has a completed state, and you get there by making a move. A feeling can settle on its own sometimes, given enough time, but the game does not wait on that. You play a move, and the move carries the stuck charge into the state that hands capability back. Doing the moves is how you play.
-
-That completed state is a restored capability: something you can do that you could not do while the feeling stayed stuck. It may not feel nicer at all. You are not trying to get rid of the emotion; you play it forward into what it makes possible. These five states are the renewable fuel Chapter 1 pointed you here to make. You make them by moving.
+Each channel has a completed state, and you get there by making a move. A feeling can settle on its own sometimes, given enough time, but the game does not wait on that. You play a move, and the move carries the stuck charge into a restored capability: something you can do that you could not do while the feeling stayed stuck. It may not feel nicer at all. You are not trying to get rid of the emotion; you play it forward into what it makes possible. These five states are the renewable fuel Chapter 1 pointed you here to make, and you make them by moving.
 
 Here are the five, each with the move that reaches it and what it hands you.
 
@@ -484,7 +432,7 @@ Here are the five, each with the move that reaches it and what it hands you.
 
 **Neutrality completes into peace.** Numbed, neutrality is checking out; opened to the whole, it completes into peace, the stillness that can hold two truths at once without picking. The move is to widen until you can see the whole field, then rest there. What it restores is rest: *I can rest.* You can tell you are there when you are not braced against anything and still fully awake.
 
-These are the five renewable tokens, and you reach every one of them the same way: not by feeling less, but by feeling the channel all the way to its end. That is the whole promise of the WAVE-Spiral: taking a feeling all the way through to the state that hands you back more than you spent.
+These are the five renewable tokens, and you reach every one of them the same way: by feeling the channel all the way to its end.
 
 ---
 
@@ -492,7 +440,7 @@ These are the five renewable tokens, and you reach every one of them the same wa
 
 Chapter 1 taught you to read your own fuel: what a move costs you. The Shaman adds the next layer: what that spending does to the living field: to the people around you, and what it leaves them carrying.
 
-The WAVE-Spiral does not make every move easy. It was never going to.
+The Five-Move Form does not make every move easy. It was never going to.
 
 What it promises is discernment.
 
@@ -502,11 +450,11 @@ Some moves sustain. They do not refill you all at once, but they keep the field 
 
 Some moves cost. Sometimes they are still the right moves. Staying in the conversation may cost you. Softening anger so the truth can land may cost you. Turning sadness into protective action before you feel ready may cost you. The danger lies in pretending costly moves are renewable. Cost itself is fine, so long as you count it.
 
-This is where a lot of allyship burns people out. They keep spending non-renewable fuel (guilt, obligation, optics, inherited debt) and calling the spending virtue. They confuse depletion with devotion.
+This is where a lot of allyship burns people out. They keep spending non-renewable fuel and calling the spending virtue.
 
-This is the fuel economy Chapter 1 handed to the Shaman to finish. Back in the Arcade, that non-renewable fuel was one of two kinds of token, the fixed supply that empties you as you spend it. The other kind, the renewable one, hands back more than you spent, and it comes from a single place: a feeling taken all the way through. That clean tiredness after a move that cost you and fed you at once is a renewable token going back in the tank. Chapter 1 left you the fuel; here you learn to make it.
+This is the fuel economy Chapter 1 handed to the Shaman to finish. Back in the Arcade, non-renewable fuel was the fixed supply that empties you as you spend it, and the renewable kind hands back more than you spent. That clean tiredness after a move that cost you and fed you at once is a renewable token going back in the tank. Chapter 1 left you the fuel; here you learn to make it.
 
-Emotional Alchemy gives you a different test:
+Emotional alchemy gives you a different test:
 
 - Did this move return capacity, agency, truth, or aliveness?
 - Did it keep the field workable enough for the next honest move?
@@ -531,15 +479,9 @@ You do not need to score the move. You need to tell the truth about what it did 
 <!-- /MARGINALIA -->
 
 
-The Shaman's mastery lies in knowing, in real time, which WAVE-Spiral stage you have reached, which channel you are running, and what move to make next.
+The Shaman's mastery lies in knowing, in real time, which Five-Move Form stage you have reached, which channel you are running, and what move to make next.
 
-A new practitioner goes:  Wake → Open → Clean → Grow → Show (slowly, carefully).
-
-A practiced Shaman moves fluidly:
-- Recognizes which channel in half a second (is that fear or anger? Sadness or neutrality?)
-- Knows whether the moment needs a replenishing, sustaining, or costly move
-- Can tell when a move returns capacity, protects capacity, or spends capacity for a worthy reason
-- Moves at the right tempo (10 seconds in a meeting, 10 minutes alone, 10 hours for deep integration)
+A new practitioner goes: Wake → Open → Clean → Grow → Show, slowly and carefully. A practiced Shaman recognizes the channel in half a second, knows whether the moment needs a replenishing, sustaining, or costly move, and runs at the tempo the moment allows: ten seconds in a meeting, ten minutes alone, ten hours for deep integration.
 
 You practice this until it becomes your nervous system's operating system. Learning it once buys you nothing.
 
@@ -547,33 +489,27 @@ You practice this until it becomes your nervous system's operating system. Learn
 
 ### Somatic Markers: How to Know You're Actually Practicing
 
-The WAVE-Spiral is not just a thinking exercise. Your body should know you're doing it.
+The Five-Move Form is not just a thinking exercise. Your body should know you're doing it.
 
-**Wake:** You pause. Your thinking slows. You sense inward.
+**Wake Up:** You pause. Your thinking slows. You sense inward.
 
-**Open:** The muffling drops. What was faint gets closer and more distinct. You are feeling more, on purpose, and staying with it instead of turning it back down.
+**Open Up:** The muffling drops. What was faint gets closer and more distinct.
 
-**Clean:** Something shifts in your nervous system, not relief yet, but *recognition*. Your body says "yes, I feel this, and now I'm looking at it clearly."
+**Clean Up:** Not relief yet, but *recognition*. Your body says "yes, I feel this, and now I'm looking at it clearly."
 
-**Grow:** Your breathing deepens slightly. Your shoulders drop a millimeter. Your system says "I understand. The message landed."
+**Grow Up:** Your breathing deepens. Your system says "I understand. The message landed."
 
-**Show:** You feel resourced enough to move. Not manic. Grounded. Your body says "I know what to do now."
+**Show Up:** You feel resourced enough to move. Not manic. Grounded.
 
-If you move through all five stages and you don't feel *any* of these somatic shifts, you might be thinking the WAVE-Spiral instead of practicing it. Come back to the body. Feel what's actually present.
+If you move through all five stages and you don't feel *any* of these somatic shifts, you might be thinking the Five-Move Form instead of practicing it. Come back to the body. Feel what's actually present.
+
+*Three practices for a charge that won't move on request, one to raise it, one to settle it, one to read what it wants: Appendix D: Emotional Alchemy Practices.*
 
 ---
 
-### The Promise of the WAVE-Spiral
+### The Promise of the Five-Move Form
 
-The Shaman's practice (the WAVE-Spiral) prevents the distortion described in Section 2.
-
-Without the Shaman, the villagers manage emotions instead of learning from them. The WAVE-Spiral is how you learn instead of manage.
-
-Every time you practice the WAVE-Spiral:
-- You recover the intelligence of your emotions (fear shows you what matters)
-- You develop the capacity to feel and act at the same time (not either/or)
-- You learn which moves replenish you, which moves sustain the field, and which moves cost capacity
-- You create the only foundation that real allyship can build on: your own integrated wisdom
+Without the Shaman, the villagers manage emotions instead of learning from them, which is the distortion Section 2 described. The Five-Move Form is how you learn instead of manage.
 
 Forgetting this took a thousand years. The Shaman's practice is how you remember, in five stages, as many times as you need, until it becomes who you are.
 
@@ -583,11 +519,11 @@ Forgetting this took a thousand years. The Shaman's practice is how you remember
 
 Before you can alchemize, you need to see what you're working with.
 
-The WAVE-Spiral works with charge you're already feeling in your body: fear in the meeting, sadness after a rupture, anger that arrived on schedule. A lot of the charge that drains allyship doesn't arrive that way. It arrives dressed as someone else. The colleague who makes your jaw tighten. The movement leader whose certainty feels like a personal attack. The person who has become, in your inner world, a cartoon.
+The Five-Move Form works with charge you're already feeling in your body: fear in the meeting, sadness after a rupture, anger that arrived on schedule. A lot of the charge that drains allyship doesn't arrive that way. It arrives dressed as someone else. The colleague who makes your jaw tighten. The movement leader whose certainty feels like a personal attack. The person who has become, in your inner world, a cartoon.
 
 That charge is projection. Projection is shadow work waiting to happen.
 
-The 3-2-1 practice brings the charge back to where you can spend it, through three vantage points: face the figure in third person (3), talk with it in second person (2), be it in first person (1). The energy you were spending on them comes back to you, available for the WAVE-Spiral.
+The 3-2-1 practice brings the charge back to where you can spend it, through three vantage points: face the figure in third person (3), talk with it in second person (2), be it in first person (1). The energy you were spending on them comes back to you, available for the Five-Move Form.
 
 Solo, written or spoken, fifteen to twenty-five minutes.
 
@@ -613,13 +549,13 @@ Three exchanges at minimum. The answers don't have to be polite.
 
 Each chapter ahead opens its pass with a sentence like that one. Work it if it moves something in you. If it doesn't, work the charge that does. A live charge does more than a fabricated one. If nothing is live yet, run it dry; reaching the charge is the capacity you are building.
 
-This is emotional processing, and the material it works on has weight. Some of what surfaces wants a trained person in the chair with you. When that happens, the practice is doing its job, and getting help is your next move rather than a failure.
+This is deep work on live material, and the material has weight. Some of what surfaces wants a trained person in the chair with you. When that happens, the practice is doing its job, and getting help is your next move rather than a failure.
 
 | Stuck because… | Tool |
 |----------------|------|
-| Charge is in a *person* | 3-2-1 — here, and in every chapter after this one |
-| Stuck between two *rights* | Polarity Map — here, and in every chapter after this one |
-| Charge is in *body* now | WAVE-Spiral |
+| Charge is in a *person* | 3-2-1 — here, and in every Face chapter after this one |
+| Stuck between two *rights* | Polarity Map — here, and in every Face chapter after this one |
+| Charge is in *body* now | WAVE |
 
 *Full process, worked examples, and source (Ken Wilber, Integral Life Practice): Appendix E: The 3-2-1 Shadow Process.*
 
@@ -763,7 +699,7 @@ Then it sat in the circle, and no one could unsay it, and the council had to ans
 
 That is the myth this chapter breaks. Allyship is not saying the right words. The council had the right words, and the right words were the wall. Allyship is saying the true one, what a part of you has already felt, that everyone already half-knows, to the face it concerns, at the cost of being, for one cold moment, the person who said it.
 
-That move trains the Alchemist. The Alchemist is the one who takes the charge the Controller called a foul (the fear, the "not ready," the "not good enough") and burns it for fuel instead of waiting for it to go away. The woman on the council did not speak once the fear left. She spoke while it still burned, and used it. That is the Shaman's whole practice. The sensing, the WAVE, the Controller pried off the joystick, all aimed at one outcome: one true sentence, out of your body and into the world, where it can move the water.
+That move trains the Alchemist. The Alchemist is the one who takes the charge the Controller called a foul (the fear, the "not ready," the "not good enough") and burns it for fuel instead of waiting for it to go away. The woman on the council did not speak once the fear left. She spoke while it still burned, and used it. That is the Shaman's whole practice. The sensing, the Form, the Controller pried off the joystick, all aimed at one outcome: one true sentence, out of your body and into the world, where it can move the water.
 
 ### 3-2-1 on Your Controller
 
@@ -786,9 +722,9 @@ The one described above enforces a generic rulebook. Yours enforces a specific o
 
 ### What You Take Out of the Forest
 
-The Controller developed does what nothing else in this chapter can do: it admits a feeling onto the field and holds you to a line in the same motion. Those two rarely travel together. A person who has loosened the standard enough to feel everything has usually loosened it enough to owe nothing, and a person with a standard they never break has usually kept it by ruling out most of what they feel. The Shaman's move needs both at once: the read let all the way in, and something in you that will not let you leave the table with it unsaid.
+The Controller developed does what nothing else in this chapter can do: it admits a feeling onto the field and holds you to a line in the same motion. Those two rarely travel together. The Shaman's move needs both at once: the read let all the way in, and something in you that will not let you leave the table with it unsaid.
 
-That is what the Alchemist runs on. You cannot burn a charge you never let yourself have, and you will not spend one while the fear is still live unless some part of you enforces a rule you set on a clearer day. The woman at the council had both. The verdict fired (*you don't have the standing*), and it fired against a rule she had already made about what she does when the read sits in her chest and the fields are dying. The rule won. That is the mechanism: a referee doing its job rather than a feeling that finally got loud enough.
+That is what the Alchemist runs on. You cannot burn a charge you never let yourself have, and you will not spend one while the fear is still live unless some part of you enforces a rule you set on a clearer day. The woman at the council had both, and the rule won. That is a referee doing its job rather than a feeling that finally got loud enough.
 
 You know what your Controller is for now. That is what you take out.
 
@@ -803,7 +739,7 @@ You know what emotional alchemy is. You have run the five stages. You have met t
 
 Winning at the Shaman's altitude is smaller than you want it to be: one true sentence, said to a person who can hear it, while it is still live. That is the whole win. Insight does not count. A more accurate model of the group than anyone else has does not count. One sentence counts: the one that left your body, entered the situation, and changed what was possible inside it. The woman at the council did not bring the elders a framework. She brought them four sentences she had been holding for three seasons, said to the one face that could act on them.
 
-Everything in Section 4 was the instrument. These five are what you do with the instrument when other people are present and the clock is running. They run in the spiral's order, because the spiral is the order: you catch the signal, you let it up, you name the channel, you find what it grew, you spend it. Section 4 taught you to run that alone. These five are what it costs to run it where somebody is watching.
+Everything in Section 4 was the instrument. These five are what you do with the instrument when other people are present and the clock is running. They run in the Form's order, because the Form is the order: you catch the signal, you let it up, you name the channel, you find what it grew, you spend it. Section 4 taught you to run that alone. These five are what it costs to run it where somebody is watching.
 
 ---
 
@@ -855,7 +791,7 @@ In practice: use the channel word, not the euphemism. *Anger* rather than *frust
 
 In practice: say it to your own nervous system, plainly, in the seconds after the read. *I get it. The message landed.* Then finish the sentence with the equipment. *I can tell when a plan is being agreed to and not believed.* *I can hold a hard look without going away.*
 
-**Example:** You noticed months ago that your sister Jo is not disorganised, and that every family visit costs her something it does not cost the rest of you. Neither of you has a word for it. You were right, and being right bought her nothing. Say what you can do now, to her, once: *I can tell the difference between someone struggling and a weekend that is expensive for one person. I am going to say so at the table before I can prove it.* If you have misread it, she watches you misread it. What she does with it is hers, including nothing.
+**Example:** You noticed months ago that your sister Jo is not disorganized, and that every family visit costs her something it does not cost the rest of you. Neither of you has a word for it. You were right, and being right bought her nothing. Say what you can do now, to her, once: *I can tell the difference between someone struggling and a weekend that is expensive for one person. I am going to say so at the table before I can prove it.* If you have misread it, she watches you misread it. What she does with it is hers, including nothing.
 
 **The test:** You can state the capability in the present tense with no story attached. If the sentence only makes sense once you explain the meeting, it has not landed yet.
 
@@ -937,7 +873,7 @@ Each Tell targets the Shaman's signature failure: the read spent on being seen a
 
 The Shaman is a Face. In the deck it is also an *operation* every move can run, which means you are not holding an archetype. You are holding twenty specific cards.
 
-Here is where they come from. The deck runs five basic moves, and you already know all five, because they are the WAVE-Spiral: Wake Up, Open Up, Clean Up, Grow Up, Show Up. Cross those against the four domains where allyship stops being interior and goes external (gathering resources, raising awareness, direct action, skillful organizing), and five times four gives twenty. Twenty cards per operation, a hundred and twenty in the deck. These twenty are the Shaman's.
+Here is where they come from. The deck runs five basic moves, and you already know all five, because they are the Five-Move Form: Wake Up, Open Up, Clean Up, Grow Up, Show Up. Cross those against the four domains where allyship stops being interior and goes external (gathering resources, raising awareness, direct action, skillful organizing), and five times four gives twenty. Twenty cards per operation, a hundred and twenty in the deck. These twenty are the Shaman's.
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
@@ -947,7 +883,7 @@ The five moves are this chapter, in order. Every stage you practiced is one of t
 
 Draw from your twenty rather than the hundred and twenty. Which twenty is easy. Which of the five rows is the real question, and a tempting wrong answer waits: that a shadow lives at one move and the other four are clean.
 
-They are not clean. A daemon is not a defect at one stage of the spiral. It is a rule, and the rule is in force the whole way down. Run the Controller through all five moves and five different failures come out, one per move, exactly what makes the five worth having, because each of those failures has cards sitting beside it.
+They are not clean. A daemon is not a defect at one stage of the Form. It is a rule, and the rule is in force the whole way down. Run the Controller through all five moves and five different failures come out, one per move, exactly what makes the five worth having, because each of those failures has cards sitting beside it.
 
 **Wake Up.** The signal arrives at full strength and gets logged at a strength you are cleared to be seen having. Nothing is missed. Everything is downgraded on the way in.
 
@@ -965,7 +901,7 @@ Take **What Seeing Costs**: Open Up, Raise Awareness, Shaman. Its question is th
 
 Run it once, on something real. Bring a time somebody told you something true about harm you had a hand in. Wake Up: what arrived, and where in your body. Open Up: stay there for the length of an exhale without converting it into a response. Clean Up: name the channel, one of Fire, Water, Metal, Earth, Wood. Grow Up: name the capability that channel restores when it completes. Show Up: pick one of the four domains and say where this goes.
 
-Five moves, one card, about ninety seconds. That is a full pass of the spiral with an instrument in your hand.
+Five moves, one card, about ninety seconds. That is a full pass of the Form with an instrument in your hand.
 
 ### From Card to Quest
 
@@ -994,7 +930,7 @@ One more voice waits on the other side of the read. The moment you take the read
 
 Every great boundary is rooted in a feeling. Every genuine "no" comes from a Shaman who knows what they actually care about.
 
-The chapter leaves you holding a practice whose parts fit together. Your body registers a situation before your mind has finished making sense of it, the entire reason the read is worth anything, since it arrives early, and early is the only window in which it can change what happens. Wake → Open → Clean → Grow → Show carries a charge from arrival to a move, and Clean is the stage almost everyone skips, because locating a feeling and letting it settle takes longer than converting it into something useful. The five channels (Metal/Fear, Water/Sadness, Wood/Joy, Fire/Anger, Earth/Neutrality) tell you which teaching a given charge carries, since fear at the edge of what matters to you and anger at a line getting crossed are different instruments asking for different moves. The energy ecology tells you afterward which moves replenished you, which sustained the field, and which spent capacity you were going to need next week. 3-2-1 is here by name and in practice (Face it, Talk to it, Be it), and it runs again in every chapter after this one, and the Polarity Map is here by name as well, first drawn in Chapter 4: two legitimate poles, your position on the axis, one action containing both. Feeling ↔ Function is the axis this chapter itself sits on, the reason you got a polarity rather than a rule. The Controller up close is the referee that holds your integrity when holding it costs you, the judge that rules your read out of order before it can be spoken, the six beliefs it rules with, the six developmental beliefs that go in where a flat inversion only re-enters the court, and what separates the referee from the judge: whose rulebook it enforces. The read leaves your body across four domains, and how you carry it is the difference between a true sentence that helps and one that only lands: stay with the reaction, say it as your own, don't leave. The five game moves are all of it compressed into what a person actually does at a table: Catch It Before the Story, Turn the Dial Up, Name the Channel Out Loud, Say What You Can Do Now, Say the Unsaid Charge.
+The chapter leaves you holding a practice whose parts fit together. Your body registers a situation before your mind has finished making sense of it, the entire reason the read is worth anything, since it arrives early, and early is the only window in which it can change what happens. Wake → Open → Clean → Grow → Show carries a charge from arrival to a move, and Clean is the stage almost everyone skips, because locating a feeling and letting it settle takes longer than converting it into something useful. The five channels (Metal/Fear, Water/Sadness, Wood/Joy, Fire/Anger, Earth/Neutrality) tell you which teaching a given charge carries, since fear at the edge of what matters to you and anger at a line getting crossed are different instruments asking for different moves. The energy ecology tells you afterward which moves replenished you, which sustained the field, and which spent capacity you were going to need next week. 3-2-1 is here by name and in practice (Face it, Talk to it, Be it), and it runs again in every chapter after this one, and the Polarity Map is here by name as well, drawn again in every chapter after this one: two legitimate poles, your position on the axis, one action containing both. Feeling ↔ Function is the axis this chapter itself sits on, the reason you got a polarity rather than a rule. The Controller up close is the referee that holds your integrity when holding it costs you, the judge that rules your read out of order before it can be spoken, the six beliefs it rules with, the six developmental beliefs that go in where a flat inversion only re-enters the court, and what separates the referee from the judge: whose rulebook it enforces. The read leaves your body across four domains, and how you carry it is the difference between a true sentence that helps and one that only lands: stay with the reaction, say it as your own, don't leave. The five game moves are all of it compressed into what a person actually does at a table: Catch It Before the Story, Turn the Dial Up, Name the Channel Out Loud, Say What You Can Do Now, Say the Unsaid Charge.
 
 Underneath every part of it is the Alchemist: the willingness to spend a charge while it is still live, instead of waiting for the conditions that never arrive.
 
