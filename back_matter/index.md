@@ -90,21 +90,61 @@ Locators are chapter and section rather than page. **Bold** marks where a term i
 
 **Catch It Before the Story** — Ch 3 §6, Ch 3 §7, Ch 9 §7
 
+**Close with Honest Terms** — Ch 7 §6, Ch 7 §7, App B, App F
+
 **Confront Without Cruelty** — Ch 4 §6, Ch 4 §7
+
+**Design for Handoff** — Ch 6 §6, Ch 9 §7
 
 **Draw the Line** — Ch 4 §6, Ch 4 §7, Ch 8 §1, Ch 8 §3, Ch 8 §6, Ch 9 §4
 
+**Entrust Without Clinging** — Ch 5 §6
+
+**Find the Leverage Point** — Ch 6 §6
+
 **Find What You Keep Defending** — Ch 4 §6, Ch 4 §7
+
+**Hold the Meta Without Losing the Ground** — Ch 8 §6
+
+**Honor What Still Serves** — Ch 5 §3, Ch 5 §6
+
+**Keep the Vows** — Ch 5 §6, Ch 9 §7
 
 **Name the Channel Out Loud** — Ch 3 §6, Ch 3 §7
 
+**Name the Field** — Ch 7 §6, Ch 7 §7, Ch 9 §7
+
+**Name the Game** — Ch 2 §2, Ch 8 §1, Ch 8 §2, Ch 8 §4, Ch 8 §6, Ch 9 §7, App B
+
+**Name the Inheritance** — Ch 5 §6, Ch 9 §7
+
 **Name the Unnameable** — Ch 3 §6, Ch 4 §6, Ch 4 §7, Ch 9 §7
+
+**Name the Unstated Assumption** — Ch 6 §6
+
+**Put a Game Down** — Ch 8 §6
+
+**Refactor Kindly** — Ch 6 §6
+
+**Reform Without Erasing** — Ch 5 §6, Ch 9 §7, App A
+
+**Refuse False Equivalence** — Ch 7 §4, Ch 7 §6, Ch 7 §7, Ch 9 §7
+
+**Repair After Rupture** — Ch 7 §6, Ch 7 §7
+
+**Return Without Condescension** — Ch 8 §6
 
 **Say the Unsaid Charge** — Ch 3 §6, Ch 3 §7
 
 **Say What You Can Do Now** — Ch 3 §6, Ch 3 §7
 
+**Ship the Minimum** — Ch 6 §6
+
+**Switch Games Deliberately** — Ch 8 §6, Ch 9 §7
+
 **Take the Full Charge** — Ch 4 §6, Ch 4 §7
+
+**Translate Across Camps** — Ch 7 §6, Ch 7 §7, Ch 9 §7
 
 **Turn the Dial Up** — Ch 3 §6, Ch 3 §7
 

@@ -218,7 +218,7 @@ One part of this belongs specifically to this reader, and it explains why the ax
 ## Section 4: The Practice
 ### *The Five Modes — How the Diplomat Actually Works*
 
-*Emotional alchemy vocabulary, for the moves below. **Dissatisfaction moves** alchemize a negative charge into a positive one. **Neutral channel moves** redirect a negative pattern into a neutral structure. If these terms are unfamiliar, Chapter 3 (The Shaman) has the full system.*
+*Emotional alchemy vocabulary, for the moves below. **Dissatisfaction moves** alchemize a negative charge into a positive one. **Control moves** redirect a pattern into a structure that holds it, which fixes structure rather than emotion. If these terms are unfamiliar, Chapter 3 (The Shaman) has the full system.*
 
 ---
 
@@ -298,13 +298,13 @@ Call it optimism if you want. The discipline extends to the present the same hyp
 
 **Control 1 — Untracked Depletion Pattern**
 
-The Neutral Channel pattern here is **untracked depletion**: you bridge past your capacity, treating every connection as required, and never notice what it costs until you are empty.
+The structural pattern here is **untracked depletion**: you bridge past your capacity, treating every connection as required, and never notice what it costs until you are empty.
 
 The Control move: build the bridge → check the fuel gauge before crossing. *Do I have capacity for this contact? Am I bridging because someone here actually needs me, or because I can't say no to the request?* This fixes structure, not emotion. It names the cost of bridging before warmth turns into depletion.
 
 **Control 2 — Performative Presence**
 
-The Neutral Channel pattern here is **performative presence**: always smiling, always reaching, never arriving, because you spend it all managing how you come across.
+The structural pattern here is **performative presence**: always smiling, always reaching, never arriving, because you spend it all managing how you come across.
 
 The Control move: ground the performance in actual feeling. *What is the actual quality of my presence right now? Am I generating warmth or just distributing it?* The correction redirects from output to internal state, so that something real builds the bridge.
 
@@ -359,9 +359,9 @@ The alchemy: *I stop apologizing for having a position I am translating from.* I
 **Fire → Water: Intensity translated into depth.** When a camp holds its meaning hot but shallow (righteous anger that has not yet understood its own depth), the anger becomes sadness. The demand becomes an immovable request that no longer needs volume. The translation takes the heat and turns it into something that can sit in a field for a long time without burning out.
 
 
-**Neutral Channel: Intellectual Superiority Pattern**
+**Control — Intellectual Superiority Pattern**
 
-The Neutral Channel pattern here is **intellectual superiority** in behavior: "I see what you don't see about yourselves." The Control move redirects it into neutral structure:
+The structural pattern here is **intellectual superiority** in behavior: "I see what you don't see about yourselves." The Control move redirects it into neutral structure:
 
 **The structure of the Interpreter's Discipline:** Before you carry an account across a divide, ask whether the person wants you to carry it. If they do, return after translating and ask: "did I get this right?" Let their answer correct the version you gave. If they do not want a translator, do not appoint yourself one. You may name your own position, or leave the account with the person who owns it. The discipline improves your translations because it gives the source the right to refuse them.
 
@@ -400,9 +400,9 @@ The alchemy: *I stop protecting the field and start building one that can take w
 
 **Water → Wood: Sadness translated into forward motion.** When a field sits stuck in sadness (slow, heavy, collapsed), the Translate move carries that energy forward into possibility. The field has been hurt. It needs to grieve. It also needs to know it can still move.
 
-**Neutral Channel: Presence Collapse Pattern**
+**Control — Presence Collapse Pattern**
 
-The Neutral Channel pattern here is **presence collapse**: withdrawing the moment somebody charges the field. The Control move redirects it into structure:
+The structural pattern here is **presence collapse**: withdrawing the moment somebody charges the field. The Control move redirects it into structure:
 
 **The structure of the Precedent of Presence:** You establish, in advance, a commitment to staying present when somebody charges it. You decided on it; nothing obliged you. The commitment is the structure. You say so in advance: *I don't leave when it gets hard. I practice that rather than declare it.* The collapse pattern dissolves into a personal precedent the people around you can depend on.
 
@@ -438,9 +438,9 @@ The alchemy: *I stop skipping the wound and start sitting in it.* Real repair re
 
 **Earth → Fire: Structure translated into warmth.** When you have negotiated the repair (terms agreed, path forward established), the field has a shape, a format, an agreement. Agreements are cold. The Translate move carries the heat of real reconnection into the structure, so that the repair is not just formal but real.
 
-**Neutral Channel: Premature Closure Pattern**
+**Control — Premature Closure Pattern**
 
-The Neutral Channel pattern here is **premature closure**: the Repairer wants to finish the repair before the other person has finished with the damage. They close before they have opened.
+The structural pattern here is **premature closure**: the Repairer wants to finish the repair before the other person has finished with the damage. They close before they have opened.
 
 **The structure of the Three-Part Repair:** You build a practice of repair that does not skip: (1) **Witness:** the full accounting of what happened, without defense or justification. (2) **Impact:** the honest naming of what the rupture cost, for both parties. (3) **Agreement:** what each person commits to doing differently, not as a performance of remorse but as a real change in behavior.
 
@@ -460,7 +460,7 @@ Here is what its distortion looks like: two different failures wearing the same 
 
 The first distortion is **endless process**, the Diplomat who has confused hearing with closing. Who believes that if everyone feels included, the work is done. Who will run another round of listening because naming what must change feels like picking a fight. The field stays warm. Nothing moves. Resentment accumulates under the harmony like sediment.
 
-The second distortion is **ultimatum dressed as negotiation**: leverage where integration belonged. *Here's what I need or I'm out* spoken in the tone of honest disclosure, but actually functioning as a threat. This is the Challenger's game wearing the Diplomat's clothes: the Diplomat who defaults here has skipped the native work (surfacing interests, finding terms) and imported another altitude into this conversation. It sometimes works. It is not what this channel is for.
+The second distortion is **ultimatum dressed as negotiation**: leverage where integration belonged. *Here's what I need or I'm out* spoken in the tone of honest disclosure, but actually functioning as a threat. This is the Challenger's game wearing the Diplomat's clothes: the Diplomat who defaults here has skipped the native work (surfacing interests, finding terms) and imported another altitude into this conversation. It sometimes works. It is not what this mode is for.
 
 **Alchemy 1 — Resentful Peace → Honest Terms**
 
@@ -482,15 +482,15 @@ The alchemy: *I ask what each position is guarding, not just what it says.* Posi
 
 **Earth → Fire: Vague agreement translated into committed close.** When a field has arrived at something that sounds aligned but isn't yet specific, the Translate move carries the structure forward into commitment. *What are we actually agreeing to? By when? Who does what?* The Diplomat's altitude loves process. This channel loves a close.
 
-**Neutral Channel: Endless Process Pattern**
+**Control — Endless Process Pattern**
 
-The Neutral Channel pattern here is **endless process**: one more round, one more check-in, one more chance for everyone to feel heard, as if hearing were the destination instead of the precondition.
+The structural pattern here is **endless process**: one more round, one more check-in, one more chance for everyone to feel heard, as if hearing were the destination instead of the precondition.
 
 **The structure of the Stake-Surfacing Close:** You work the sequence without skipping: (1) **Protect:** what is each party afraid of losing? Name the interest, not the slogan. (2) **Require:** what must the agreement hold for staying to remain real? Name it for the field, not just for yourself. (3) **Commit:** what are we agreeing to, specifically, before anyone leaves?
 
 The hard part is the close: it takes more courage than extending. The field will push for one more round. The Integrative Negotiator knows when the round has become avoidance.
 
-**Neutral Channel: False Closure Pattern**
+**Control — False Closure Pattern**
 
 The second Control pattern is **false closure**, the agreement that sounds resolved but wasn't. *Great, we're aligned* spoken over interests that were never surfaced.
 

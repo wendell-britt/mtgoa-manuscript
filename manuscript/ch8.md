@@ -613,7 +613,7 @@ The tell is never the content of the self-assessment. Self-assessments should fe
 
 The Damaged Self developed does what nothing else in this chapter can do: it lets you know that you are configured differently and decline to treat that as a qualification or a disqualification. Just a fact about the instrument, held steady, informing the work without ruling on it.
 
-That combination is what this chapter trains, and it trains two capacities rather than one. The Escape Artist is the capacity to get out of a game: to put down a fight, a role, an identity that was load-bearing once, without needing the exit to be a verdict on the game or on yourself. Coaching is what the exit makes available. A coach who cannot leave the game is not coaching. They are recruiting, and everything they offer arrives with their own stake attached to it. The escape comes first for that reason.
+That combination is what this chapter trains, and the superpower has two halves. The **Escape Artist** is the capacity to get out of a game: to put down a fight, a role, an identity that was load-bearing once, without needing the exit to be a verdict on the game or on yourself. The **Coach** is what the exit makes available. A coach who cannot leave the game is not coaching. They are recruiting, and everything they offer arrives with their own stake attached to it. The escape comes first for that reason.
 
 Put them together and you get what the last chapter of a book about allyship actually needs: someone who can be in it fully, get out cleanly, and stay useful to the people still inside.
 

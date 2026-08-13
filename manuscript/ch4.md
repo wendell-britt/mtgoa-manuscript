@@ -268,7 +268,7 @@ A Line without a Reckoning is a request. A Demand without a Refusal is a plea. T
 
 ### EA Channel Alignment — How Each Mode Moves Energy
 
-The Shaman (Chapter 3) taught you to read the five EA channels. The Challenger uses them at a different altitude: not sensing inward but acting outward. Each confrontation mode draws on a specific EA signal:
+The Shaman taught you in Chapter 3 to read the five channels of emotional alchemy, which the tables here and in every chapter after shorten to EA. The Challenger uses them at a different altitude: not sensing inward but acting outward. Each confrontation mode draws on a specific EA signal:
 
 | Mode | EA Signal | Dissatisfaction → Satisfaction |
 |------|-----------|-------------------------------|

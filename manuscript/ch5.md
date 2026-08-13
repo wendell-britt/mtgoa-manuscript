@@ -377,7 +377,7 @@ The Regent's practice is generational, not moment-to-moment. Energy still flows.
 
 ### The Stage Sequence: Inherit → Honor → Steward → Reform → Entrust
 
-The Regent's practice moves through five stages. Unlike the Shaman's Five-Move Form, fast enough to happen in minutes, the Regent's cycle moves at the speed of years.
+The Regent's practice moves through five stages of its own, distinct from the Form's five. The Form takes whatever time the situation gives it. This cycle takes years, every time.
 
 **Inherit.** You receive what was handed to you. This includes what you would not have chosen. Family patterns. Organizational cultures. Traditions with their wounds attached. The first move acknowledges what arrived, before you change any of it: *I am carrying this. I did not create this. It is mine now.*
 

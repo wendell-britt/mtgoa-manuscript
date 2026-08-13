@@ -208,7 +208,7 @@ I was not okay, and not for the reasons they assumed.
 
 The shamanic training I'd been doing said: everything can be used. Nothing is waste. The anger that shows up is signal. It is starting material. The Shaman's job is to find what the feeling wants to build, in place of managing it into something acceptable.
 
-So I built something. The first version of Mastering the Game of Allyship was written from that anger, not despite it. Because my friends didn't need someone to absorb their feelings. They needed tools. I had spent years building tools that could do exactly this, and no one had thought to aim them at allyship yet.
+So I built something. The first version of Mastering the Game of Allyship was written from that anger, not despite it. What the anger produced first was not the book, and Chapter 9 tells that part. Because my friends didn't need someone to absorb their feelings. They needed tools. I had spent years building tools that could do exactly this, and no one had thought to aim them at allyship yet.
 
 The book is the alchemy. It came from a rock in my shoe. The framework came after. The research came after that.
 
