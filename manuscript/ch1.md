@@ -257,7 +257,7 @@ You do care too much, and it costs you. You care about everyone (you would say s
 
 Sometimes the friend, the coworker, the kid, the community you show up for needs a Challenger (one clean, costly line), and all you have is the Diplomat, so you keep the peace and they never get what they came for. Sometimes they need an Architect to change the rule that keeps hurting them, and you give them the Shaman's feel for what everyone is carrying, and the rule does not move. The reason to widen your range is the person in front of you, the one who needed a move you did not have.
 
-One form runs through every Face: the Five-Move Form. You learn it with the Shaman in Chapter 3. Every school after uses the same form, then teaches its own changes: what that Face asks you to notice, open to, clean up, grow through, and show in the world.
+One form runs through every Face: the Five-Move Form. *Form* in the martial artist's sense, a fixed order of moves you run until your body has it. You learn it with the Shaman in Chapter 3, and every school after uses the same form, then teaches its own changes: what that Face asks you to notice, open to, clean up, grow through, and show in the world.
 
 You can feel which face is your home. Hold onto it. In the next section you put it on paper.
 
