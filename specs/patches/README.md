@@ -11,17 +11,33 @@ uses for the Myths Read chapter stamps.
 **Apply from the root of a `bars-engine` clone:**
 
 ```
-git am /path/to/0001-superpower-result-email.patch
+git apply --check /path/to/0001-...patch     # dry run, says nothing when it will apply
+git am           /path/to/0001-...patch      # applies and commits
 ```
 
 `git am` preserves the message and authorship. Use `git apply` instead if you would rather write
 your own commit.
+
+**`git am` does not run the pre-commit hook.** It runs the `applypatch` hooks only, so this repo's
+husky `pre-commit` — and therefore `npm run check` — never fires on an applied patch. **Run the
+checks yourself before pushing:**
+
+```
+npm ci
+npm run check          # db:generate, verify:*, lint, tsc --noEmit
+```
+
+**If `git am` fails**, `git am --abort` puts you back exactly where you started; nothing is
+half-applied. A conflict means `src/actions/leads.ts` moved after the base commit — the two new
+files cannot conflict, since nothing else in the repo has those paths.
 
 ---
 
 ## `0001-superpower-result-email.patch`
 
 **Written 2026-08-18. Blocks Kickstarter update #29.**
+**Base: `7b46505` on `main`** — *"Fix Myths Read chapter stamps to match the shipped trade ebook
+(#195)"*, 2026-08-18 13:47 −0700. Verified to apply clean to a fresh clone of `main`.
 
 **The defect.** `src/actions/leads.ts` returned *"Saved. Your result is on its way to your
 inbox"* and **contained no send path at all** — it imported `db`, `syncSubscriber` and the list
