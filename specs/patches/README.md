@@ -70,4 +70,52 @@ before and after, all of them missing Obsidian vault documents unrelated to this
 
 **What was checked and left alone.** `myths-read` has the same no-send shape and **makes no email
 promise**, so it is not a defect and is not touched. `/awaken` writes to the database without
-syncing to Kit — real, and out of scope here.
+syncing to the ESP — real, and out of scope here.
+
+**Status: applied and pushed** by Wendell on 2026-08-18. `origin/main` is at `e5a62b9e`.
+
+---
+
+## `0002-resend-audience-adapter.patch`
+
+**Written 2026-08-18. Apply after `0001`.**
+**Base: `e5a62b9e` on `main`** — verified to apply clean to a fresh clone of live `main`.
+
+**Why.** `KIT_API_KEY` was never set in production. Vercel runtime logs on 2026-08-18 show
+`[kit] not configured (KIT_API_KEY missing) — skipped sync` on `/nonprofit`, `/introductions` and
+`/mastering-allyship/chapter-1` — and **no `[email] not configured` beside them**, which is how we
+know Resend is live and Kit never was. Two vendors, one working.
+
+**Resend covers what Kit was chosen for.** `resend@6.14.0`, already installed, exposes `contacts`,
+`contactProperties`, `segments`, `topics`, `broadcasts`, `automations` and `events`. Broadcasts
+serve the four-a-year promise; Automations replace `sequence:welcome`.
+
+**The mapping.**
+
+| Kit | Resend |
+|---|---|
+| tag | segment, resolved by name and created if absent |
+| custom field | contact property |
+| subscriber | contact |
+
+**What did not move.** `list-contract.ts` is untouched. It is pure and decides policy before any
+network call, so **the backer promise — roughly four broadcasts a year and no funnel — survived
+the provider swap without an edit.** That is the whole return on having written it as a data
+structure rather than a code-review comment.
+
+**One real behavioural difference.** Kit created custom fields implicitly. **Resend rejects a
+property value whose key was never declared**, so the adapter ensures the keys first and caches
+them. It declares every key as `type: 'string'`, which is safe only because the input type is
+`Record<string, string>` — widen one and you must widen the other.
+
+**`kit.ts` is kept, not deleted**, with a header saying it is unwired and how to put it back.
+Nothing imports it.
+
+**Verified.** `tsc --noEmit` exit 0, `eslint` exit 0, and the commit passed the repo's own
+`precommit:check`. Both degradation paths smoke-tested: unconfigured returns
+`{ok:true, skipped:true}`, an empty address returns an error, and neither throws.
+
+**What I could not check.** `resend.com` is blocked by this environment's egress proxy, so the
+adapter is written against the installed SDK's type definitions rather than the API docs. The
+method names and shapes are certain; **whether Automations or Broadcasts need a paid tier on your
+plan is not**, and no call has been made against a live key.
