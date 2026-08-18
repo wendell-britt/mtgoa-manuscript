@@ -1,14 +1,30 @@
 # Kickstarter update #29 — the delivery announcement
 
-**Source: `KICKSTARTER_FINAL.md` in Google Drive, created 2026-08-11T23:00Z, unmodified since.**
-Pulled into the repo 2026-08-18 because it existed in exactly one place and nothing in this
-repository knew about it. **The copy below is verbatim.** Corrections against the shipping
-build are in the file beside this one, not applied here — this is the archive of what was
-written, not a revision of it.
+**Source: `KICKSTARTER_FINAL.md` in Google Drive, created 2026-08-11T23:00Z.** Pulled into the
+repo 2026-08-18 because it existed in exactly one place and nothing in this repository knew
+about it. **The Drive copy is the archive; this is the send-ready one.**
 
-**Status when pulled: written, not posted.** The Kickstarter page is at update **#28**
-(2026-08-01, *"🎶ITS THE FINAL COUNTDOWN🎶 — book launching in the next 48 hours"*). This is
-#29 and it has been sitting finished for seven days.
+**Status: written, not posted.** The Kickstarter page is at update **#28** (2026-08-01,
+*"🎶ITS THE FINAL COUNTDOWN🎶 — book launching in the next 48 hours"*). This is #29.
+
+### Three changes on Wendell's instruction, 2026-08-18
+
+1. **`383` → `388` pages**, both places. The old figure came from `HANDOFF_ANNOUNCE_2026-08-10`
+   §1, verified at commit `cc9185a`, before ch7's exile and the ch1 gloss landed. Re-derived
+   from the shipping build: **trade interior 387 pp · trade PDF ebook 388 pp** (the file a
+   backer downloads) · workbook 395 · workbook-9 405.
+2. **Added the paragraph on the final stretch**, after *"You waited a long time."* It answers
+   update #28's forty-eight hours without apologising for it — the ban in
+   `MTGOA_Copy_Strategy_Spec` §5 holds — and it names what the two weeks bought, which is the
+   only version of that paragraph worth printing.
+3. **Cut *"The code works 420 times. There are 371 of you."*** The cap stays operational, in
+   the header below and in `OPSBACKLOG` A2.
+
+**The new paragraph was measured before it landed.** `gate` counters all 0 — no banned word,
+no sentence-initial *And*/*But*, no stack, no em-dash collision. `prose_diet`: passive 0.00,
+`be` 0.47, waste 0.42. `zombie` 1.59 and `empty` 1.70 read heavy and are single hits at 86
+words, under the ~300-word floor where the ratios mean anything; the repeated *version* is
+load-bearing and stays.
 
 **Codes:** `ARCADE371` (backers, 100% off, cap 420) · `WEEKONE` (campaign unlock, issued
 manually)
@@ -28,13 +44,11 @@ price goes to zero. EPUB and PDF, both included.
 If the code gives you any trouble, reply and I'll send you the files directly. Don't fight
 with a checkout page over something you already paid for.
 
-The code works 420 times. There are 371 of you.
-
 ---
 
 **What you actually funded**
 
-383 pages. Nine chapters, eight appendices, an index, and a character sheet.
+388 pages. Nine chapters, eight appendices, an index, and a character sheet.
 
 It is not the book I pitched you. The one I pitched was a course-shaped thing about how to be
 a better ally. What arrived argues that allyship is a game most well-meaning people are losing
@@ -48,6 +62,12 @@ well I hadn't noticed I was digging. The version you're holding is what I rebuil
 and the rebuilding is why it took as long as it did.
 
 You waited a long time. I'm not going to pretend that was the plan.
+
+The last stretch is a smaller version of the same story. On the first of August I told you
+forty-eight hours. Then I read the whole book against itself, chapter by chapter, and found what
+two years of editing had walked past: one practice wearing two different names, and a promise an
+early chapter made that a later one never paid. I fixed both. It took another two weeks, and I'd
+rather be late with the second version than on time with the first.
 
 ---
 
@@ -101,7 +121,7 @@ to. I'm not going to police that. If you're putting me in front of a room, the p
 that call should be able to read the whole thing and decide for themselves. That's a better
 case than any one-page pitch I could write about myself.
 
-I'm also putting together something shorter, for people who'd rather not read 383 pages before
+I'm also putting together something shorter, for people who'd rather not read 388 pages before
 deciding. That's coming in the next update, later this week.
 
 Everything that comes in from that work — past what it costs me to stay alive and keep the

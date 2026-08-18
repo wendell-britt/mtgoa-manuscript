@@ -56,11 +56,12 @@ trade PDF ebook     388 pp        workbook-9 interior  405 pp   ← the file a b
 **The number to quote is 388.** It is the one claim in the update that 371 people can check by
 opening the file, and it is wrong by five pages in the direction that undersells it.
 
-**One thing to decide rather than fix.** The last thing backers heard was **update #28,
-2026-08-01: *"🎶ITS THE FINAL COUNTDOWN🎶 (book launching in the next 48 hours)."*** Seventeen
-days have passed. The draft's *"You waited a long time"* is about the three years and does not
-touch the two and a half weeks since a 48-hour promise. Whether that needs a clause is
-Wendell's call; the spec's ban on apology sentences still holds either way.
+**One thing to decide rather than fix — since ruled.** The last thing backers heard was
+**update #28, 2026-08-01: *"🎶ITS THE FINAL COUNTDOWN🎶 (book launching in the next 48
+hours)."*** The draft's *"You waited a long time"* is about the three years and did not touch
+the two and a half weeks since a forty-eight-hour promise. **Wendell, 2026-08-18: *"add
+something about how the final stretch took longer than I thought."*** A paragraph now sits
+directly under that line, naming the forty-eight hours and what the extra two weeks bought.
 
 **And `OPSBACKLOG.md` says the send is blocked on plumbing, not copy** — A3 reads *"Copy final,"*
 blocked by **A1** (Kit list landing page) and **A2** (`ARCADE371` created, capped, tested to $0
@@ -198,10 +199,10 @@ promise.
 
 **The live order, as of 2026-08-18:**
 
-1. **Fix `383` → `388`** in the update, both places.
+1. ~~**Fix `383` → `388`** in the update, both places.~~ **Done**, with the final-stretch
+   paragraph added and the 420-code line cut, on Wendell's instruction.
 2. **Unblock the send** — `OPSBACKLOG` A1 and A2. Copy is not the constraint.
-3. **Rule on the seventeen days** since the 48-hour promise in update #28.
-4. **Then the Gumroad page**, per `ANALYSIS_SALES_PAGE_2026-08-13.md` §5.
+3. **Then the Gumroad page**, per `ANALYSIS_SALES_PAGE_2026-08-13.md` §5.
 
 **Not to reuse:** the tier table, both event pages, the social post, the $8,500, and the
 timeline. Those belong to a campaign that is over.
