@@ -35,7 +35,23 @@ load-bearing and stays.
 
 **Codes:** `ARCADE371` (backers, 100% off, cap 420) · `WEEKONE` (campaign unlock, issued
 manually)
-**`[FILL]`:** update number · Gumroad link · list link · print month if you believe one
+**`[FILL]` remaining:** update number · print month if you believe one
+
+6. **List link resolved to the superpower quiz** — `https://masteringallyship.com/superpower`.
+   **There is no general mailing-list page on the site**, and the two other doors are wrong for
+   this audience: `/mastering-allyship/chapter-1` offers backers a sample of a book they now own
+   outright, and `/awaken` writes to the database without syncing to Kit, so anyone entering
+   there never reaches the list at all (`src/app/api/awaken/signup/route.ts:30`). The quiz tags
+   `source:superpower` + `sequence:welcome` and is a real thing to want. **The abstract *join the
+   list* is gone with it** — naming the door and what it costs beats asking for an address.
+
+**One site defect blocks this link, and it is not in the copy.** `src/actions/leads.ts:74`
+returns *"Saved. Your result is on its way to your inbox"* and **the action has no send path** —
+it imports `db`, `syncSubscriber` and the list contract, and nothing else. The chapter-1 funnel
+has a real Resend template; the quiz has none. **Sending 371 people who waited three years into
+a form that promises an email it cannot send is the one failure this update cannot absorb.**
+Fix that before the update goes out, or point the link at `/mastering-allyship/chapter-1`
+instead and accept the weaker ask.
 
 ---
 
@@ -144,7 +160,9 @@ This is the last update I can reliably send you here. Kickstarter isn't built fo
 touch, and once this campaign page goes quiet, so does the only line I have to you.
 
 So if you want to know when the press run is ordered, when the deck ships, or where the book is
-being taught — **[join the list][LIST LINK]**.
+being taught, there is one door: **https://masteringallyship.com/superpower**. It tells you
+which of the six Faces you run on and which one you dodge, and it puts you on the list on the
+way through.
 
 What that gets you: an email when something actually happens. Not a sequence, not a weekly
 newsletter I'll abandon in six weeks. I'd rather send four emails a year that are worth opening
@@ -167,7 +185,8 @@ I couldn't put it down. That was you.
 
 — Wendell
 
-*https://wendellbritt.gumroad.com/l/MTGOAbook · code ARCADE371 · [Join the list][LIST LINK]*
+*https://wendellbritt.gumroad.com/l/MTGOAbook · code ARCADE371 ·
+https://masteringallyship.com/superpower*
 
 ---
 
