@@ -10,6 +10,64 @@ what gets thrown away.
 
 ---
 
+## 0 · Correction, 2026-08-18 — the delivery announcement exists
+
+**Wendell: *"there should be one that was in august."* He was right and this document was
+wrong.**
+
+**`KICKSTARTER_FINAL.md`, Google Drive, created 2026-08-11T23:00Z.** It is a complete delivery
+announcement, it is titled *It's done. Here's your copy.*, and it has been finished for a week.
+Two more from the same night: **`OUTREACH_PACK.md`** (23:08Z) and **`OPSBACKLOG.md`** (23:45Z).
+The first two are now in this directory as `KICKSTARTER_UPDATE_2026-08-11.md` and
+`OUTREACH_PACK_2026-08-11.md`.
+
+**How this document got it wrong: I searched the repository and called the result the world.**
+§5 below says *"There is no delivery announcement in this repo"* — which was true, and which I
+then reported as *no delivery announcement exists*. **The repo is not the archive.** Three
+launch documents were written outside it and nothing in it points at them.
+
+**That is the same failure shape this project has already paid for twice** — the merge that
+resolved to 23 production tags, and the seven blocking items reported closed that were still
+live. Recorded there as *"a summary is not an audit."* The version of it here: **an inventory
+of one location is not an inventory.**
+
+**Both of §6's blockers were already ruled, on 2026-08-11:**
+
+| §6 asked | the answer, in the August copy |
+|---|---|
+| the true backer number | **371.** *"The code works 420 times. There are 371 of you."* |
+| the fulfilment mechanic | **Free.** Code `ARCADE371`, 100% off, capped at 420 |
+
+**So the number in the Gumroad draft was the right one and the June collateral's "over 400" is
+the stale figure** — §3 below has it backwards, and stays as written so the correction is legible.
+
+### What is actually wrong with the August copy
+
+**One defect, measured against today's build.** The update says **383 pages** in two places.
+That figure came from `HANDOFF_ANNOUNCE_2026-08-10` §1, which was verified at commit `cc9185a`
+— before ch7's exile and the ch1 gloss landed. Re-derived from the shipping build on
+2026-08-18:
+
+```
+trade interior      387 pp        workbook interior    395 pp
+trade PDF ebook     388 pp        workbook-9 interior  405 pp   ← the file a backer downloads
+```
+
+**The number to quote is 388.** It is the one claim in the update that 371 people can check by
+opening the file, and it is wrong by five pages in the direction that undersells it.
+
+**One thing to decide rather than fix.** The last thing backers heard was **update #28,
+2026-08-01: *"🎶ITS THE FINAL COUNTDOWN🎶 (book launching in the next 48 hours)."*** Seventeen
+days have passed. The draft's *"You waited a long time"* is about the three years and does not
+touch the two and a half weeks since a 48-hour promise. Whether that needs a clause is
+Wendell's call; the spec's ban on apology sentences still holds either way.
+
+**And `OPSBACKLOG.md` says the send is blocked on plumbing, not copy** — A3 reads *"Copy final,"*
+blocked by **A1** (Kit list landing page) and **A2** (`ARCADE371` created, capped, tested to $0
+with email captured). Nothing below is the thing standing between the backers and the book.
+
+---
+
 ## 1 · The complete inventory — ten files, one session, 2026-06-18
 
 Everything below came onto `master` on 2026-08-13 in PR #17, rescued from
@@ -125,15 +183,25 @@ promise.
 
 ## 6 · What I would do next
 
-1. **Get the backer number off the Kickstarter dashboard.** Everything else waits on it.
-2. **Decide the fulfilment mechanic** — free to backers, honour system, or a code. It changes
-   the message's entire shape and it is a business decision rather than a copy one.
-3. **Then write the announcement**, built on Draft 3's accountability register, the
-   self-report line kept nearly verbatim, and the artifact described in the specifics the June
-   copy never had.
+**Superseded by §0 — items 1–3 were already answered on 2026-08-11.** Kept as written.
+
+1. ~~**Get the backer number off the Kickstarter dashboard.** Everything else waits on it.~~
+   **371.**
+2. ~~**Decide the fulfilment mechanic** — free to backers, honour system, or a code.~~
+   **A code, `ARCADE371`, 100% off, capped at 420.**
+3. ~~**Then write the announcement.**~~ **Written 2026-08-11, not yet posted.**
 4. **Only then the Gumroad page** — the backer email and the public page answer different
    questions, and `MARKETING_STRATEGY_SPEC:5a` is right that backers should hear from you
-   **before** they see it anywhere else.
+   **before** they see it anywhere else. **This one still stands**, and the August copy makes it
+   load-bearing: the update's only link is the Gumroad page, so a backer redeeming `ARCADE371`
+   reads that page on the way to the file they already paid for.
+
+**The live order, as of 2026-08-18:**
+
+1. **Fix `383` → `388`** in the update, both places.
+2. **Unblock the send** — `OPSBACKLOG` A1 and A2. Copy is not the constraint.
+3. **Rule on the seventeen days** since the 48-hour promise in update #28.
+4. **Then the Gumroad page**, per `ANALYSIS_SALES_PAGE_2026-08-13.md` §5.
 
 **Not to reuse:** the tier table, both event pages, the social post, the $8,500, and the
 timeline. Those belong to a campaign that is over.
