@@ -45,13 +45,14 @@ manually)
    `source:superpower` + `sequence:welcome` and is a real thing to want. **The abstract *join the
    list* is gone with it** — naming the door and what it costs beats asking for an address.
 
-**One site defect blocks this link, and it is not in the copy.** `src/actions/leads.ts:74`
-returns *"Saved. Your result is on its way to your inbox"* and **the action has no send path** —
-it imports `db`, `syncSubscriber` and the list contract, and nothing else. The chapter-1 funnel
-has a real Resend template; the quiz has none. **Sending 371 people who waited three years into
-a form that promises an email it cannot send is the one failure this update cannot absorb.**
-Fix that before the update goes out, or point the link at `/mastering-allyship/chapter-1`
-instead and accept the weaker ask.
+**One site defect blocked this link — fixed 2026-08-18, as a patch.** `src/actions/leads.ts:74`
+returned *"Saved. Your result is on its way to your inbox"* while the action held no send path at
+all. **Sending 371 people who waited three years into a form that promises an email it cannot
+send is the one failure this update cannot absorb.** The fix is
+`specs/patches/0001-superpower-result-email.patch` — a result email, wired on the persist-then-
+send shape, with the returned message varying on what actually happened. It lives in
+`johnair01/bars-engine`, which this session can read but cannot push to, so **`git am` it there
+before the update goes out.**
 
 ---
 
