@@ -19,6 +19,13 @@ about it. **The Drive copy is the archive; this is the send-ready one.**
    only version of that paragraph worth printing.
 3. **Cut *"The code works 420 times. There are 371 of you."*** The cap stays operational, in
    the header below and in `OPSBACKLOG` A2.
+4. **Cut *"later this week"*** from the update-#2 promise. Written on the 11th and stale by the
+   18th, and it was the one line breaking the update's own rule that a date you miss costs more
+   than no date. The promise stays; the day comes off.
+5. **Gumroad link filled in** — `https://wendellbritt.gumroad.com/l/MTGOAbook`, per Wendell.
+   Same literal as `AWAKEN_BOOK_SALES_HREF` at `src/lib/awaken/content.ts:116` in `bars-engine`,
+   which `HANDOFF_ANNOUNCE` 3.1 flagged as a second source of truth — so the URL is confirmed
+   twice and the site's own hard-coded copy agrees with it.
 
 **The new paragraph was measured before it landed.** `gate` counters all 0 — no banned word,
 no sentence-initial *And*/*But*, no stack, no em-dash collision. `prose_diet`: passive 0.00,
@@ -38,8 +45,8 @@ manually)
 
 The book is finished. Your copy is below.
 
-**Get the ebook:** [GUMROAD LINK] **Your code:** ARCADE371 — enter it at checkout and the
-price goes to zero. EPUB and PDF, both included.
+**Get the ebook:** https://wendellbritt.gumroad.com/l/MTGOAbook **Your code:** ARCADE371 —
+enter it at checkout and the price goes to zero. EPUB and PDF, both included.
 
 If the code gives you any trouble, reply and I'll send you the files directly. Don't fight
 with a checkout page over something you already paid for.
@@ -122,7 +129,7 @@ that call should be able to read the whole thing and decide for themselves. That
 case than any one-page pitch I could write about myself.
 
 I'm also putting together something shorter, for people who'd rather not read 388 pages before
-deciding. That's coming in the next update, later this week.
+deciding. That's coming in the next update.
 
 Everything that comes in from that work — past what it costs me to stay alive and keep the
 lights on — goes to the print run until every copy that's owed has shipped. That's what the
@@ -160,7 +167,7 @@ I couldn't put it down. That was you.
 
 — Wendell
 
-*[GUMROAD LINK] · code ARCADE371 · [Join the list][LIST LINK]*
+*https://wendellbritt.gumroad.com/l/MTGOAbook · code ARCADE371 · [Join the list][LIST LINK]*
 
 ---
 
