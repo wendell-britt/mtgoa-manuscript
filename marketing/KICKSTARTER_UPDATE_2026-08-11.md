@@ -35,7 +35,10 @@ load-bearing and stays.
 
 **Codes:** `ARCADE371` (backers, 100% off, cap 420) · `WEEKONE` (campaign unlock, issued
 manually)
-**`[FILL]` remaining:** update number · print month if you believe one
+**`[FILL]` remaining: one — the print month, and only if you believe it.** The update number was
+never a fill: Kickstarter numbers updates on posting, and the page is at #28, so this is **#29**.
+
+**`ARCADE371` is live as of 2026-08-18**, per Wendell — `OPSBACKLOG` A2 closed.
 
 6. **List link resolved to the superpower quiz** — `https://masteringallyship.com/superpower`.
    **There is no general mailing-list page on the site**, and the two other doors are wrong for
