@@ -81,6 +81,11 @@ syncing to the ESP — real, and out of scope here.
 **Written 2026-08-18. Apply after `0001`.**
 **Base: `e5a62b9e` on `main`** — verified to apply clean to a fresh clone of live `main`.
 
+**Ruled 2026-08-18 — Wendell: *"set the kit key aside."*** `KIT_API_KEY` is not going to be set.
+**Resend is the ESP.** Kit is closed as a question rather than deferred, so `OPSBACKLOG` A1 —
+*"Kit account + list landing page… everything downstream waits on this"* — is answered by a
+provider that was already live rather than by the account it names.
+
 **Why.** `KIT_API_KEY` was never set in production. Vercel runtime logs on 2026-08-18 show
 `[kit] not configured (KIT_API_KEY missing) — skipped sync` on `/nonprofit`, `/introductions` and
 `/mastering-allyship/chapter-1` — and **no `[email] not configured` beside them**, which is how we
