@@ -124,3 +124,33 @@ Nothing imports it.
 adapter is written against the installed SDK's type definitions rather than the API docs. The
 method names and shapes are certain; **whether Automations or Broadcasts need a paid tier on your
 plan is not**, and no call has been made against a live key.
+
+---
+
+## `0003-allyship-formula-five-steps.patch`
+
+**Written 2026-08-18. Independent of `0001` and `0002` — touches one file neither of them does.**
+**Base: `db4ee33` on `main`** (*"Week 2 of the MTGOA course, and a front door at /course"*),
+verified to apply clean.
+
+**What it does.** `src/lib/technique-library/canonical-operations.ts`, `tech-allyship-formula`:
+adds step 3 — **"Work through what blocks you from using it."** — widens `moves` from
+`['grow_up','show_up']` to all five, and corrects `essence`, which was wrong twice: it said
+**four-step**, and it called the Formula *"the book's"* when the shipping first printing never
+names it.
+
+**Why the fifth step matters more than a fifth step.** With it in place the Formula maps
+one-to-one onto the Five-Move Form in the Form's own order. The four-step version was the Form
+with **Clean Up cut out** — the move that owns Appendix C's five channels, Appendix D's alchemy,
+Appendix E's 3-2-1 and every Face chapter's shadow work. The old `moves` tag was the tell.
+
+**`source` stays MTGOA.** Wendell ruled the Formula enters the book at a later printing: the
+material is the book's, the phrase is not yet.
+
+**Checked and left alone.** `tech-clean-up-check` (`canonical-operations.ts:675`, `:679`)
+references the Formula without asserting a count, so it needs no change. Nothing else in `src/`
+or `.specify/` asserts four steps.
+
+**Verified.** `tsc --noEmit` exit 0, `eslint` exit 0, applies clean to current `main`.
+
+**Apply it before authoring anything against the old four steps.**

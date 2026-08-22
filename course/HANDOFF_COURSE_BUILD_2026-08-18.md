@@ -26,6 +26,61 @@ crosses as a patch. Two already have: `specs/patches/0001` and `0002`, both appl
 
 ---
 
+## CORRECTION, same day — the course is already being built
+
+**§4 of this handoff is stale, and it was stale when written.** I surveyed `bars-engine` at
+`e5a62b9e` and planned against it. **`main` was fourteen commits further on**, and five of those
+commits are the course:
+
+```
+db4ee33  Week 2 of the MTGOA course, and a front door at /course        (#215)
+9f31119  Complete round 1 of the MTGOA course, on a spine that can
+         carry all thirty days                                          (#214)
+1ab70f3  Add the MTGOA Clean Up Check, on shared deck-draw components   (#213)
+943936a  Apply Open Up design handoff                                   (#212)
+ae31f73  Add MTGOA Open Up Check MVP                                    (#210)
+```
+
+**The architecture that exists is not five modules. It is thirty days.**
+`src/lib/mtgoa-course/course-days.ts`:
+
+> *"The course runs the Five Move Form six times: 6 rounds × Wake Up → Open Up → Clean Up →
+> Grow Up → Show Up = 30 days."*
+
+Route `/mastering-allyship/course/{round}/{move-slug}`, a front door at `/course`, each round
+narrowing to one Deck domain, and every day carrying an explicit
+`status: 'shipped' | 'designed' | 'unauthored'` **so the index can never link to a route that
+404s.** Week 1 and Week 2 have shipped. Round 1's days double as campaign landing pages on short
+public aliases (`/open-up`, `/clean-up`).
+
+**So "ship module 1 end to end first" in §4 is advice about work already done.** Ignore it.
+
+**What survives, and is strengthened rather than contradicted:**
+
+**The existing spine runs the Five-Move Form. The Formula is the Five-Move Form at campaign
+scale.** They are the same shape at two altitudes — the course runs the Form five days at a time
+for six rounds; the Formula runs it once across the whole campaign. **That is a convergence, not a
+collision**, and it means the Formula can sit over the thirty days as their arc rather than
+replacing them.
+
+**§0 stands unchanged and is the most valuable part of this document.** The completion evidence,
+and the finding that step 4 is simultaneously the curriculum and the retention mechanism, are
+independent of which architecture won. **Nothing in the thirty-day spine yet answers the
+enrollment gap**, and it is still the thing that decides whether this finishes above ten percent.
+
+**§5's constraints stand.** §2's tooling conclusions stand and are now confirmed by the build —
+nobody reached for an LMS or a narrative engine.
+
+**Also on the vault:** `course-days.ts` cites
+`04 Quests/…/MTGOA_30_DAY_COURSE_FOUNDATION_DAYS_1_TO_3_2026-08-19.md`. **That foundation note is
+the real source of truth for the spine** and it lives in `The Library/`, which is unreachable from
+here — §8 guessed at this and was right.
+
+**The lesson, again, and it is the third time this project has paid it:** I surveyed a moving
+repository and planned against the snapshot. `git fetch` before designing, not after.
+
+---
+
 ## 0 · The one thing to understand before designing anything
 
 **The course's own curriculum is its completion mechanism.** That is not a slogan; it is the

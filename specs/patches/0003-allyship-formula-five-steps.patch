@@ -1,0 +1,83 @@
+From 1a9743d945274a06d9f64d6bcbbe697bbacc7761 Mon Sep 17 00:00:00 2001
+From: Wendell Britt <wendell@masteringallyship.com>
+Date: Sat, 22 Aug 2026 01:21:52 +0000
+Subject: [PATCH] The Allyship Formula is five steps, and the fifth is its
+ missing Clean Up
+
+Wendell ruled 2026-08-18 that the Formula needs a step for working
+through blocks to using your superpower. Adding it revealed what the
+four-step version was: the Five-Move Form with one move cut out.
+
+With step 3 in place the Formula maps one-to-one onto the Form, in the
+Form's own order -- superpower/Wake Up, who needs it/Open Up,
+blocks/Clean Up, enroll/Grow Up, show up/Show Up. The four-step version
+skipped Clean Up, which owns Appendix C's five channels, Appendix D's
+alchemy practices, Appendix E's 3-2-1 and every Face chapter's shadow
+work. That omission is exactly why `moves` read grow_up and show_up
+only, and why the essence said four.
+
+So: step 3 added, moves widened to all five, essence corrected on both
+counts -- it is five steps, and the shipping first printing does not
+name the Formula at all. Wendell ruled it enters at a later printing, so
+`source` stays MTGOA: the material is the book's, the phrase is not yet.
+
+The self-check at tech-clean-up-check references the Formula without
+asserting a count, so it needs no change.
+
+tsc --noEmit and eslint both clean.
+---
+ .../technique-library/canonical-operations.ts | 27 ++++++++++++++++---
+ 1 file changed, 24 insertions(+), 3 deletions(-)
+
+diff --git a/src/lib/technique-library/canonical-operations.ts b/src/lib/technique-library/canonical-operations.ts
+index d15af80..2586504 100644
+--- a/src/lib/technique-library/canonical-operations.ts
++++ b/src/lib/technique-library/canonical-operations.ts
+@@ -23,20 +23,41 @@ const MTGOA = {
+ 
+ export const OPERATION_TECHNIQUES: Technique[] = [
+   // ── Cross-cutting (operations: []) ──
++  /**
++   * The Formula is the Five-Move Form run at campaign scale — one step per move,
++   * in the Form's own order. Ruled 2026-08-18; see the manuscript repo at
++   * `course/RULING_FORMULA_FIVE_STEPS_2026-08-18.md`.
++   *
++   *   1 superpower      Wake Up     notice what is true, before deciding anything
++   *   2 who needs it    Open Up     let the need reach its real size
++   *   3 what blocks you  Clean Up   name what is actually in the way
++   *   4 enroll allies   Grow Up     take on the capacity the situation asks for
++   *   5 show up         Show Up     act, and keep acting
++   *
++   * Step 3 was added on that ruling. Its absence is why `moves` read
++   * `['grow_up','show_up']` and why the essence said four: the four-step version
++   * skipped Clean Up, which owns Appendix C's channels, Appendix D's alchemy,
++   * Appendix E's 3-2-1 and every Face chapter's shadow work.
++   *
++   * The shipping first printing does not name the Formula. Wendell ruled it enters
++   * at a later printing, so `source` stays MTGOA — the material is the book's, the
++   * phrase is not yet.
++   */
+   {
+     id: 'tech-allyship-formula',
+     slug: 'effective-allyship-formula',
+     name: 'The Effective Allyship Formula',
+-    essence: "The book's master four-step procedure for doing allyship sustainably.",
++    essence: 'The master five-step procedure for doing allyship sustainably — the Five-Move Form at campaign scale.',
+     steps: [
+       'Identify your superpower.',
+       'Identify who needs that superpower.',
++      'Work through what blocks you from using it.',
+       'Enroll allies to help you help those people.',
+       'Show up consistently.',
+     ],
+     source: MTGOA,
+-    allyshipReframe: 'The spine every operation keeps honest — self-knowledge into consistent, enrolled action.',
+-    moves: ['grow_up', 'show_up'],
++    allyshipReframe: 'The spine every operation keeps honest — self-knowledge, through what blocks it, into consistent enrolled action.',
++    moves: ['wake_up', 'open_up', 'clean_up', 'grow_up', 'show_up'],
+     operations: [],
+     domains: [],
+     channels: [],
+-- 
+2.43.0
+
