@@ -65,8 +65,9 @@ before the update goes out.**
 
 The book is finished. Your copy is below.
 
-**Get the ebook:** https://wendellbritt.gumroad.com/l/MTGOAbook **Your code:** ARCADE371 —
-enter it at checkout and the price goes to zero. EPUB and PDF, both included.
+**Get the ebook:** https://wendellbritt.gumroad.com/l/MTGOAbook/ARCADE371 — **the code is in the
+link**, so the price is already zero. Put a 0 in the *name a fair price* field. EPUB and PDF, both
+included.
 
 If the code gives you any trouble, reply and I'll send you the files directly. Don't fight
 with a checkout page over something you already paid for.
@@ -189,8 +190,7 @@ I couldn't put it down. That was you.
 
 — Wendell
 
-*https://wendellbritt.gumroad.com/l/MTGOAbook · code ARCADE371 ·
-https://masteringallyship.com/superpower*
+*https://wendellbritt.gumroad.com/l/MTGOAbook/ARCADE371 · https://masteringallyship.com/superpower*
 
 ---
 
