@@ -59,14 +59,11 @@ Last update I said I was putting together something shorter, for people who woul
 Two one-sheets on that page. One covers conferences and companies, the other covers outdoor
 programs and field staff. Download whichever fits the person you have in mind and send it on.
 
-The fees sit on the page too. A page that hides its number costs somebody a whole conversation
-before they find out they cannot afford it.
+The prices are on the page, so nobody has to ask.
 
 A talk, **$2,500**. A half-day, where people leave having run a move rather than having agreed
 with one, **$4,500**. Outdoor and experiential work, **$95 a seat and sliding to $75**, so a small
 program pays a small number.
-
-**Now the part that saves you the writing.**
 
 Warm introductions rarely fail on willingness. They fail because nobody knows what to say. So here
 is a paragraph you can paste into an email and change however you like.
@@ -113,10 +110,45 @@ not knowing whether their friend is about to be asked for money.
 **No new accountability beat.** #29 spent that budget and #30 spent what was left. The print run
 gets one closing line, connecting the ask to the debt, and then it stops.
 
-**Measured.** Body: `gate` all 0 · `prose_diet` every counter under 1.00, **expletive 0.00,
-passive 0.00**, waste 0.85 against a ~0.5 floor. 231 words. The first draft ran 337 words with
-four counters heavy — expletive 1.98, copula 1.80 — from a stack of *it is* and *X is $Y*
-constructions that rewrote out cleanly.
+## The review pass, run properly — and what only it caught
+
+**Wendell, 2026-08-22:** *"Everything customer facing should go through our review process before
+getting to em."* The first draft of this update got `gate` and `prose_diet` and was shown as
+though that were the pass. **It is steps 1 and 2 of five.** Recorded as a standing rule in
+`.claude/skills/mtgoa-review/SKILL.md`.
+
+**Step 0 · ELI5 caught the sentence Wendell flagged.** *"A page that hides its number costs
+somebody a whole conversation before they find out they cannot afford it."* The ELI5 is *the
+prices are on the page, so you know straight away if you can afford it* — thirteen words against
+eighteen, and the diff is the audit. **The register version was arguing a theory of pricing-page
+design at a reader who did not raise it.** It also addressed the wrong person: the backer does not
+care how pages should be built, only that the forward will not waste their colleague's time. Now:
+**"The prices are on the page, so nobody has to ask."**
+
+**Step 7 · `empty_head` caught a second one the counters had passed.** *"Now the part that saves
+you the writing"* — `the part` is an empty head noun, and its restrictive clause is aggravating
+rather than exculpating, because the clause carries the meaning the noun refused to. The skill's
+next test is whether the line should exist at all. **It should not:** the paragraph four lines
+below already does its whole job. Cut, not rewritten.
+
+**Step 3.5 · the stance pass, all five.** Person — no first-person plural, address stays *you*
+throughout. Doer — no get-passives. Borrowed move — the ask performs Gather Resources without
+naming it, which is correct here; the altitude rules govern teaching prose, not an update.
+Back-pointer — zero vague openers after the cut. Membrane — no fiction present.
+
+**Step 3 · slop, by hand.** No colon reveals, no dramatic fragments, no invented specificity.
+Against `eval.md` check 1, every number is sourced and verified: prices and one-sheets read off
+`/speaking` at `db4ee33`, 388 from the shipping build, the ten percent from Chapter 9, *three or
+four bookings* from #29. **One asserted generalization is deliberate** — *warm introductions
+rarely fail on willingness* — because it earns the gift by explaining why it is being offered.
+
+**One soft `empty_head` hit is kept on purpose:** *"I backed this one"*, inside the blurb. Clear
+antecedent, and it is how a person writes an email.
+
+**Final measurement.** `voice` clean · `gate` clean · `diet` every counter under 1.30 with
+**expletive 0.00 and passive 0.00** · `head` 0 hard, 0 clause, 1 soft. **The first draft ran 337
+words with four counters heavy** — expletive 1.98, copula 1.80 — from a stack of *it is* and
+*X is $Y* constructions that rewrote out.
 
 ## Before posting
 

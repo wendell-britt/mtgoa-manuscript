@@ -255,6 +255,37 @@ counters, the worst-scoring prose of that session.
 draft file: write it to a file, run `review.py` on it, then paste it. Composing in the reply
 is where the check gets skipped, every time.
 
+## Customer-facing prose is prose
+
+Added 2026-08-22. Wendell, on a Kickstarter update drafted for 371 backers: *"Everything
+customer facing should go through our review process before getting to em."*
+
+**The rule already said this and the loophole was the word "manuscript."** Marketing copy,
+Kickstarter updates, sales pages, emails and site copy had been getting `gate` and
+`prose_diet` — steps 1 and 2 — and being shown as though that were the pass. It is two of
+five. **Steps 0, 3, 3.5 and 7 are where the defects a counter cannot see get caught**, and
+that is exactly as true of an update as of a chapter.
+
+**Both defects in that draft were invisible to steps 1 and 2, and both were caught by the
+steps that had been skipped:**
+
+| step | what it caught |
+|---|---|
+| **0 · ELI5** | *"A page that hides its number costs somebody a whole conversation before they find out they cannot afford it."* The ELI5 was thirteen words against eighteen, and the diff showed the register version arguing a theory of pricing-page design **at a reader who had not raised it**. Replaced with *"The prices are on the page, so nobody has to ask."* |
+| **7 · empty_head** | *"Now the part that saves you the writing"* — `the part` with a restrictive clause doing the work the noun refused. The line was cut rather than rewritten, because the paragraph four lines below already did its job |
+
+**`gate` and `diet` both returned clean on that draft.** They are cheap and they are first for
+a reason; they are not the pass.
+
+**Two adjustments for non-manuscript copy, and no others:**
+
+- **Score the body, not the quoted voices.** A blurb written to be pasted by somebody else has
+  to sound like that person, so dieting it to the book's ratios is the defect rather than the
+  fix. Measure the body; exempt the quoted block and **say in the record that you did**.
+- **Verify every asset the copy points at before quoting it.** A URL, a PDF, a price, a code.
+  This is here because an update told 371 people to enter a discount code at a checkout that
+  had no field to enter it in, and four days passed before anyone acted on their replies.
+
 ## Show the diff before applying a sweep
 
 Added 2026-07-31, after applying twelve edits to ch7 and then four corrections on top of
