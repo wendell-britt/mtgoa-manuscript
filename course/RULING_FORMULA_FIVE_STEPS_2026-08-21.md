@@ -8,16 +8,16 @@ tags:
   - course
   - mtgoa
   - canon
-created: 2026-08-18
+created: 2026-08-21
 review: 2026-09-01
 source:
-  - course/SURVEY_SUBSTRATE_2026-08-18.md
+  - course/SURVEY_SUBSTRATE_2026-08-21.md
   - bars-engine src/lib/technique-library/canonical-operations.ts
 ---
 
 # The Effective Allyship Formula — five steps
 
-**Wendell, 2026-08-18, three rulings:**
+**Wendell, 2026-08-21, three rulings:**
 
 > *"This needs another step which would include working through any blocks to showing up with
 > that superpower."*

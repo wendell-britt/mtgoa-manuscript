@@ -8,13 +8,13 @@ tags:
   - marketing
   - mtgoa
   - library
-created: 2026-08-18
+created: 2026-08-21
 review: 2026-09-01
 ---
 
 # Marketing Library — extractions
 
-**Wendell, 2026-08-18:** *"put them in `marketing/library/` but only as markdown extractions."*
+**Wendell, 2026-08-21:** *"put them in `marketing/library/` but only as markdown extractions."*
 
 **Markdown only.** No PDFs, no EPUBs, no scans, no source files of any kind in this tree. One
 `.md` per book, named `<AUTHOR-SURNAME>_<SHORT-TITLE>.md`.

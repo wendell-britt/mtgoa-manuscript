@@ -8,7 +8,7 @@ tags:
   - mtgoa
   - bars-engine
   - cyoa
-created: 2026-08-18
+created: 2026-08-21
 review: 2026-08-25
 source:
   - johnair01/bars-engine @ e5a62b9e
@@ -17,7 +17,7 @@ source:
 
 # The MTGOA course — what already exists
 
-**Wendell, 2026-08-18:** *"create a handoff to creating a course for MTGOA based on the book…
+**Wendell, 2026-08-21:** *"create a handoff to creating a course for MTGOA based on the book…
 this to be something that could ultimately replace the book… the stepping stone to actually
 creating the game… deep planning and research on selfhosted digital courses CYOA adventure tech…
 The BIG shift is that the course is actually going to make use of the effective allyship formula.
@@ -44,7 +44,7 @@ more than the day it saved. **Read §1 and §2 before anything gets designed.**
 
 **The phrase does not appear anywhere in the manuscript.** Not in the nine chapters, not in the
 eight appendices, not in the front or back matter, not in `specs/`, not in `decks/`. Searched
-2026-08-18 against the shipping text.
+2026-08-21 against the shipping text.
 
 **That is not a defect. It is the reason a course can replace the book.**
 

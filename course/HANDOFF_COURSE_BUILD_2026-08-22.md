@@ -8,11 +8,11 @@ tags:
   - mtgoa
   - bars-engine
   - handoff
-created: 2026-08-18
+created: 2026-08-22
 review: 2026-08-25
 source:
-  - course/SURVEY_SUBSTRATE_2026-08-18.md
-  - course/RULING_FORMULA_FIVE_STEPS_2026-08-18.md
+  - course/SURVEY_SUBSTRATE_2026-08-21.md
+  - course/RULING_FORMULA_FIVE_STEPS_2026-08-21.md
 ---
 
 # MTGOA Course — build handoff
@@ -21,8 +21,8 @@ source:
 that repo but cannot push to it — `add_repo` refuses a cross-owner add — so anything written here
 crosses as a patch. Two already have: `specs/patches/0001` and `0002`, both applied.
 
-**Read first:** `course/SURVEY_SUBSTRATE_2026-08-18.md` (what already exists) and
-`course/RULING_FORMULA_FIVE_STEPS_2026-08-18.md` (the Formula, ruled to five steps).
+**Read first:** `course/SURVEY_SUBSTRATE_2026-08-21.md` (what already exists) and
+`course/RULING_FORMULA_FIVE_STEPS_2026-08-21.md` (the Formula, ruled to five steps).
 
 ---
 
@@ -76,8 +76,12 @@ nobody reached for an LMS or a narrative engine.
 the real source of truth for the spine** and it lives in `The Library/`, which is unreachable from
 here — §8 guessed at this and was right.
 
-**The lesson, again, and it is the third time this project has paid it:** I surveyed a moving
-repository and planned against the snapshot. `git fetch` before designing, not after.
+**The lesson, again, and it is the third time this project has paid it.** The dates make it
+exact: **the clone was taken 2026-08-18, the survey was written 2026-08-21, and the course landed
+upstream on the 20th and 21st.** So the snapshot was already three days stale when it was read,
+and the work it missed had landed before the reading, not after it. **`git fetch` before
+designing, not after** — a survey carries a base commit and an expiry exactly as a patch does,
+and this one stated neither.
 
 ---
 
@@ -122,7 +126,7 @@ Formula says to stop being alone.**
 **Five steps, five moves, one artifact each.** The Formula is the Five-Move Form at campaign
 scale — see the ruling for the mapping and why step 3 was always missing.
 
-**Ruled by Wendell 2026-08-18:** the Formula enters the book in a later printing · the course is
+**Ruled by Wendell 2026-08-21:** the Formula enters the book in a later printing · the course is
 self-paced **and** live, running the same material · **self-paced learners get a path into the
 live floor.**
 
