@@ -24,16 +24,17 @@ comments have been the only place anyone answered them. A comment reply reaches 
 an update reaches all 371 inboxes, which is where the broken instruction was sent in the first
 place.
 
-**Flip the Gumroad toggle before posting** — Checkout form → *"Only if a discount is available."*
-The update says the setting is on. Say it only when it is.
+**Toggle flipped by Wendell, 2026-08-22**, so *"The setting is on now"* is true and the update can
+go.
 
 **Deliberately not in this update:** the shorter speaking piece #29 promised. That is still owed
 and it is update #31. **A fix-it message that also sells is a worse fix and a worse sale**, and
 this audience is trained to notice the seam.
 
-**Measured before it landed.** `gate` all 0 — no banned word, no sentence-initial *And*/*But*, no
-stack, no apology term, none of `MTGOA_Copy_Strategy_Spec` §5's banned phrases. `prose_diet`:
-every counter under 1.00, passive **0.00**, waste 0.77 against a ~0.5 floor. 207 words.
+**Measured before it landed, and again after the cut.** `gate` all 0 — no banned word, no
+sentence-initial *And*/*But*, no stack, no apology term, none of `MTGOA_Copy_Strategy_Spec` §5's
+banned phrases. `prose_diet`: passive **0.00**, `be` 0.34, waste 0.90 against a ~0.5 floor,
+`empty` 1.21. **177 words**, down from 207.
 
 ---
 
@@ -57,11 +58,8 @@ Daniel Russo, Jana Hoffmann and Natalie Metzger said so within hours. Kit Stubbs
 cause, read Gumroad's documentation, and posted the fix in the comments for everybody else, which
 is more support than I had provided at that point. Thank you, all four of you.
 
-**If you gave up and paid.** Some of you will have decided the checkout was not worth the argument
-and just bought the book. Write to me and I will refund it. You paid for this once already.
-
-**If it still does not work.** Reply here, or write to wendell@masteringallyship.com, and I will
-send you the files directly. That offer does not expire.
+If it still does not work, reply here or write to wendell@masteringallyship.com and I will send
+you the files directly. That offer does not expire, and it costs you nothing to use it.
 
 — Wendell
 
@@ -82,14 +80,29 @@ exist"* is the whole confession and it fits in a sentence.
 Naming them costs nothing, it is true, and it is the book's own thesis applied to its own launch —
 somebody showed up, and the move is to say so out loud.
 
-**The refund offer is the part most people would leave out.** Some of the 371 will have paid
-rather than complain, and they are the ones least likely to write in. **Offering first is the only
-version that reaches them**, and the alternative is keeping money from people who already paid.
+**The refund offer was drafted and then cut on data.** The Gumroad list shows **7 redemptions and
+zero full-price purchases** in four days, so nobody paid by mistake. Offering a refund for a
+mistake nobody made answers a question the reader does not have, and it plants the idea that
+paying was a plausible outcome. **A shorter utility message is the better one.**
 
 ## Before posting
 
-- [ ] Gumroad → Checkout form → **"Only if a discount is available"** switched on
+- [x] Gumroad → Checkout form → **"Only if a discount is available"** switched on
+- [x] Gumroad sales list checked — **7 through, 0 full-price**
 - [ ] The URL tested to $0 in an incognito window — **the check that was skipped last time**
 - [ ] Both files land: EPUB **and** PDF
-- [ ] Gumroad sales list checked for `MTGOAbook` — how many got through in four days, and how
-      many paid full price and need the refund offered to them by name
+
+## What the 7 tells you, and what to watch
+
+**Seven of 371 in four days is 1.9%**, with a working URL publicly posted in the comments for
+three of those days. The broken checkout explains most of it: the four who spoke up are the
+visible edge of a group that hit the wall and closed the tab.
+
+**So #30 is the real measurement.** It goes to all 371 inboxes with a link that needs no typing
+and a setting that now works. **If redemptions do not move sharply within a couple of days, the
+bottleneck was never the checkout** — it is that the update is not being opened, and that is a
+different problem with different fixes (subject line, sender reputation, Kickstarter's own email
+delivery).
+
+**Check the number again 48 hours after posting.** That single figure separates the two
+explanations, and nothing else available will.
