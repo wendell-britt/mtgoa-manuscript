@@ -17,7 +17,31 @@ source:
 
 # ARCADE371 could not be redeemed
 
-**Open, four days old, affecting all 371 backers.**
+**RESOLVED for the backers who spoke up. The scale of the fix is still unmeasured.**
+
+**Update #30 posted 2026-08-24 00:12 UTC.** Two replies since, both good:
+
+| when | who | |
+|---|---|---|
+| 08-24 00:16 | **Kit Stubbs** | *"You're very welcome! Happy to help. :)"* — four minutes after the post |
+| 08-24 21:57 | **Daniel Russo** | *"Thanks for the update (and the shoutout)! I got it working this time. Looking forward to reading it!"* |
+
+**Daniel Russo is a confirmed conversion** — blocked on the 18th, holding the book on the 24th.
+**No new stuck-at-checkout complaints** in the 22 hours after the post. The decision to name the
+four backers in the copy also landed visibly: *"and the shoutout."*
+
+**What is still unknown is the only thing that matters: the count.** Two comments are four people's
+worth of signal about 371. The Gumroad number for `MTGOAbook` at $0 is the measurement, it has to
+be pulled by hand, and this environment cannot reach Gumroad.
+
+**One correction to the record.** #30 was drafted 08-22 and posted 08-24, so the first check-in
+fired at 22 hours rather than 48 — it had been scheduled from the drafting date rather than the
+send date. **A check-in on an outcome should be armed when the thing ships, not when it is
+written.**
+
+---
+
+**Originally: open, four days old, affecting all 371 backers.**
 
 Update #29 went out **2026-08-18 22:59 UTC**. Its first instruction is:
 
