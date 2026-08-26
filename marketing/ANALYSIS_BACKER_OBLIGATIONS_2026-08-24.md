@@ -53,11 +53,22 @@ was wrong.**
 | **Printed book** | **247** | manuscript print-ready, ~$6,000 unfunded |
 | **Online course** | **53** | **being built right now in `bars-engine`** |
 | **Audiobook** | **16** | **nothing in the repo. No plan, no file, no mention** |
-| Workbook | 16 | the 7.5×9.25in trim builds at 395pp — a print product, same blocker |
+| **Workbook** | **16** | **does not exist and has never been started** — see the correction below |
 | Group coaching | 8 | inside *All Prior Rewards* |
 | Enamel pin | 94+ | across three tiers |
 
 **Two of these have never come up in any planning this session.**
+
+**Correction, 2026-08-24.** This document first recorded the workbook as *"the 7.5×9.25in trim
+builds at 395pp — a print product, same blocker."* **That is wrong, and it is a category error.**
+Wendell: *"we actually have to create a workbook. The 'workbook' you're referring to is just the
+books dimensions."*
+
+`--trim=workbook` is a **wider-margin edition of the same nine chapters**, produced so a reader
+can write in the gutter. **It is not a workbook.** Sixteen people bought a distinct product —
+exercises, prompts, space to work — **and it has never been started.** Reading a build target as
+a shipped product turned an unbuilt obligation into a solved one, which is the same failure shape
+as reporting a code live when it was not redeemable.
 
 **The audiobook is the sharper one.** Sixteen people paid for an audiobook in 2021. The build
 pipeline makes a PDF and an EPUB and has never made audio. `build_book.py` does not know it
@@ -66,6 +77,10 @@ has been invisible because nothing in the repository refers to it.
 
 **The course one is an opportunity rather than a debt.** Fifty-three people already paid for a
 course, three years ago, and a course is being authored this week. See below.
+
+**Ruled 2026-08-24 — the audiobook has two candidate paths.** Wendell: *"either doing my own
+audiobook or having an AI do the audiobook for me using my voice. We'd need to price out that
+later option."* Costed in `marketing/ANALYSIS_AUDIOBOOK_2026-08-24.md`.
 
 ## The print-run number should be re-derived
 
@@ -90,6 +105,11 @@ intervention is a named accountability partner (85%), that self-paced with no so
 **Fifty-three people have already paid for this course.** That is not a marketing list, it is a
 cohort with a shared origin, a three-year wait, and a debt owed to them — and the completion
 research says a cohort finishes at **64%** against **48%** for the same material self-paced.
+
+**Ruled 2026-08-24 — the invitation waits.** Wendell: *"I'll invite the 53 after the 30 days of
+the course is up."* So the cohort is not a launch lever for an unfinished course; it is what the
+finished thirty days gets pointed at. **The thing to protect in the meantime is that the 53 are
+not spent on a partial product.**
 
 **So the course's first cohort does not need to be recruited. It needs to be invited.** It also
 resolves, in the most concrete way available, the enrollment gap the handoff flagged as the thing
