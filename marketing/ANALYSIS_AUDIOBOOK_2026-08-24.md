@@ -103,19 +103,56 @@ replica is used under their review, which is the path a self-narrated clone woul
 | **a debt to 16 people** | **Path A. ~$200, no retailer, done in weeks** |
 | a product you intend to sell | **Path B**, or Path A through the authorized replica route, and the royalty and eligibility questions come first |
 
-## What I would do
+## Ruled 2026-08-24
 
-**Discharge the debt with Path A and keep Path B as the product.** They are not exclusive. Sixteen
-people are owed something now and have waited three years; ~$200 and a proofing pass ends that.
-**A self-narrated retail edition can come later and be a better thing**, and having shipped the
-first one is not an argument against the second.
+**One voice throughout, no announcement, and a test chapter first.** Wendell: *"I'm not going to
+announce it or do chapter 9 myself it would be weirder to have own chapter sound different. I will
+try in a chapter and see if I like the output."*
 
-**With one exception: narrate Chapter 9 yourself either way.** It is one chapter, about ninety
-minutes finished, and it is the passage where a synthetic voice costs the most.
+**The Chapter 9 argument was better than the one it overruled.** A single chapter in a different
+voice makes a listener hear the seam rather than the sincerity, and tonal consistency across
+twelve hours outranks the authenticity of one passage. Recorded because the earlier recommendation
+here said the opposite.
 
-**Tell the sixteen which they are getting.** *"This is an AI reading in my voice, and here is why"*
-is a sentence this audience will accept from this author, who has spent a book arguing that naming
-the mechanism beats hiding it. Discovering it unannounced is the version that goes badly.
+**On disclosure, one fact rather than a re-argument.** Not announcing is unconstrained for direct
+delivery to sixteen people. It becomes a compliance question only on the retail path: Amazon
+requires AI-narration disclosure on Virtual Voice, and ACX requires human narration outright.
+**Direct delivery touches neither**, so the ruling and the retail question do not collide unless
+and until the audiobook goes on sale.
+
+## The scripts exist now — `instruments/build_narration.py`
+
+**Raw markdown fed to a synthesis engine reads the asterisks.** So the fourth build target now
+exists beside `build_pdf` and `build_epub`, and it produces exactly what a voice can read.
+
+```
+python3 instruments/build_narration.py --chapter 1
+python3 instruments/build_narration.py --all
+```
+
+| | words | characters | at 150 wpm |
+|---|---|---|---|
+| **ch1 — the test chapter** | **9,100** | **48,536** | **1h 00m** |
+| All nine chapters | 107,058 | **600,933** | **11h 53m** |
+
+**Three judgements are built in, and each one is counted rather than silent.** Tables are dropped
+(a polarity map read aloud is a list of nouns with no grammar) — 55 lines across the book.
+Marginalia, treatises and signatures are **extracted to sidecar files** rather than narrated,
+because they are other hands and one voice reading both collapses the membrane `SPEC_TWO_HANDS`
+exists to hold — 59 blocks. Headings are **kept and spoken**, because a listener with no page has
+no other signpost. Chapter titles are un-capsed, since a synthesis engine reads caps as shouting.
+
+**The apparatus decision stays open on purpose.** Sidecars are written per chapter, so a second
+cloned voice, a tonal shift, or omission are all still available without re-running anything.
+
+## What the test costs
+
+**ch1 is 48,536 characters, which fits inside one ElevenLabs Creator month — $22.** That is the
+whole price of finding out whether the clone is good enough, and it is small enough that the
+answer should be bought rather than argued about.
+
+**If it passes, the full nine chapters are 600,933 characters** — two months of Pro at $99, so
+**about $200**, matching the earlier estimate now that tables and apparatus are out.
 
 ## Before committing
 
