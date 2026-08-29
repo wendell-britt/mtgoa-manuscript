@@ -151,10 +151,13 @@ band where it matters. **The remedy is to stop guessing: upload and run KDP's Pr
 which flags margin and bleed problems before you pay for anything. **Free, immediate, and more
 authoritative than any spec I could quote.**
 
-**4 · ISBN.** KDP's free ISBN works and costs nothing, and it names Amazon as publisher and cannot
-be used elsewhere. **A bought ISBN is the one to use if the book is ever going into bookstores or
-to another printer.** Given a print run is already planned for the 247 backers, **buy the ISBN** —
-the free one will not carry across.
+**4 · ISBN — superseded 2026-08-29 by `DECISION_ISBN_2026-08-29.md`.** This section said *buy
+the ISBN* before ordering the proof. **The proof does not depend on it.** You cannot change an
+ISBN on a *published* KDP book, but you can change it freely while the book is in **Draft**, and
+proof copies can be ordered from Draft and print marked *Not For Resale*. **So take the free KDP
+ISBN today, order the proof, and buy Bowker's block of ten before you publish** — $295 at $29.50
+each, against $125 for a single, with the paperback, the backer print run, the audiobook, the
+workbook and *Allyship at Work* all needing one.
 
 **5 · The back cover copy and jacket bio are done.**
 `marketing/BACK_COVER_2026-08-27.md` and `marketing/AUTHOR_BIO_2026-08-27.md`, both through the
@@ -312,7 +315,8 @@ and `inchoative` all **0.00** · `be` 0.54 · `copula` 0.83 · `zombie` 0.42 · 
 
 ## The order for this week
 
-1. **Buy the ISBN**, since a print run is coming and the free one will not travel.
+1. **Take the free KDP ISBN** — reversible while the book is in Draft, and the proof prints
+   *Not For Resale* either way. Buy Bowker's ten before you publish. See `DECISION_ISBN_2026-08-29.md`.
 2. **Run KDP's Cover Template Generator** at 6×9, 387 pages, your paper choice.
 3. **Build the wrap** on that template, using the back cover copy and jacket bio already written.
 4. **Upload `MTGOA_2026-08-29_trade.pdf`** and run the Print Previewer. Let it find the margins.
