@@ -29,28 +29,28 @@ order the proof, refine the listing while the proof is in the post.**
 
 ## The description — paste this
 
-**345 words, about 1,900 characters.** Well under the 4,000 ceiling, because a description is read
+**439 words, about 2,400 characters.** Well under the 4,000 ceiling, because a description is read
 standing up.
 
 You started this work for a reason. It's just gotten hard to hear that reason over all the noise of doing the work.
 
-You are the one who notices. The meeting where somebody gets talked over. The decision that lands on whoever can least afford it. You move, because you can see it and you cannot leave it alone, and it is costing you more than you have told anyone.
+You are the one who notices. The meeting where somebody gets talked over. The decision that lands on whoever can least afford it. The group chat where everybody stops typing for four hours and then carries on. You move, because you can see it and you cannot leave it alone, and it is costing you more than you have told anyone.
 
 You have read the books that explain what is wrong. Every one of them points at the problem. Not one of them hands you a move.
 
 This is a field guide. It tells you what you are looking at.
 
-Six roles a group runs on, and which one you reach for under strain.
+Six roles a group runs on. One person cracks the joke that lets everybody breathe. One says the rule out loud. One rebuilds the process so it cannot happen again. Those are three of the six, and under strain everybody reaches for the same one every time.
 
-Five channels a feeling travels, and how to read which one is live before it drives.
+Five channels a feeling travels: anger, fear, sadness, joy, and the flat calm that is none of them. Each is reporting something different about what the situation needs next, and the book teaches you to read which one is running before it starts driving.
 
-One form, five moves: Wake Up, Open Up, Clean Up, Grow Up, Show Up. Form in the martial artist's sense, a fixed order you run until your body has it, and you can run it in ten seconds or ten hours.
+One form, five moves: Wake Up, Open Up, Clean Up, Grow Up, Show Up. Form in the martial artist's sense, a fixed order you run until your body has it. Ninety seconds in a hallway, or a year with one person.
 
-Each of the six roles teaches that same form and then teaches its own changes to it. That is where the thirty moves come from, and why the sixth role is not six times the work.
+Thirty moves in all. Each of the six roles teaches that same form and then teaches its own changes to it, which is why the sixth role is not six times the work.
 
 A hundred and twenty prompts, crossing those moves against the four domains where allyship leaves your head: gathering resources, raising awareness, direct action, and skillful organizing.
 
-Burnout here is a design flaw that looks exactly like a character flaw. You can change a design.
+Burnout here is a design flaw that looks exactly like a character flaw: the yes that costs a weekend, the favor that becomes a standing arrangement, the meeting where the same person absorbs it again. You can change a design.
 
 Wendell Britt built a course on this material in 2020. Under ten percent of the people who started it finished. He spent the years after that finding out why, and rebuilt the method around the answer. This book is what came out.
 
@@ -66,23 +66,23 @@ bolded fragments, not sentences.**
 
 ```html
 <p><b>You started this work for a reason. It's just gotten hard to hear that reason over all the noise of doing the work.</b></p>
-<p>You are the one who notices. The meeting where somebody gets talked over. The decision that lands on whoever can least afford it. You move, because you can see it and you cannot leave it alone, and it is costing you more than you have told anyone.</p>
+<p>You are the one who notices. The meeting where somebody gets talked over. The decision that lands on whoever can least afford it. The group chat where everybody stops typing for four hours and then carries on. You move, because you can see it and you cannot leave it alone, and it is costing you more than you have told anyone.</p>
 <p>You have read the books that explain what is wrong. Every one of them points at the problem. Not one of them hands you a move.</p>
 <p><b>This is a field guide. It tells you what you are looking at.</b></p>
 <ul>
-<li><b>Six roles</b> a group runs on, and which one you reach for under strain.</li>
-<li><b>Five channels</b> a feeling travels, and how to read which one is live before it drives.</li>
-<li><b>One form, five moves</b>: Wake Up, Open Up, Clean Up, Grow Up, Show Up. Form in the martial artist's sense, a fixed order you run until your body has it, and you can run it in ten seconds or ten hours.</li>
+<li><b>Six roles a group runs on.</b> One person cracks the joke that lets everybody breathe. One says the rule out loud. One rebuilds the process so it cannot happen again. Those are three of the six, and under strain everybody reaches for the same one every time.</li>
+<li><b>Five channels a feeling travels: anger, fear, sadness, joy, and the flat calm that is none of them.</b> Each is reporting something different about what the situation needs next, and the book teaches you to read which one is running before it starts driving.</li>
+<li><b>One form, five moves: Wake Up, Open Up, Clean Up, Grow Up, Show Up.</b> Form in the martial artist's sense, a fixed order you run until your body has it. Ninety seconds in a hallway, or a year with one person.</li>
 <li><b>Thirty moves in all.</b> Each of the six roles teaches that same form and then teaches its own changes to it, which is why the sixth role is not six times the work.</li>
-<li><b>A hundred and twenty prompts</b>, crossing those moves against the four domains where allyship leaves your head: gathering resources, raising awareness, direct action, and skillful organizing.</li>
+<li><b>A hundred and twenty prompts, crossing those moves against the four domains where allyship leaves your head: gathering resources, raising awareness, direct action, and skillful organizing.</b></li>
 </ul>
-<p>Burnout here is a design flaw that looks exactly like a character flaw. You can change a design.</p>
+<p>Burnout here is a design flaw that looks exactly like a character flaw: the yes that costs a weekend, the favor that becomes a standing arrangement, the meeting where the same person absorbs it again. You can change a design.</p>
 <p>Wendell Britt built a course on this material in 2020. <b>Under ten percent of the people who started it finished.</b> He spent the years after that finding out why, and rebuilt the method around the answer. This book is what came out.</p>
 <p>For the person still showing up and running out of road. It will not tell you to care more. You already do. It teaches the moves instead, which is the training nobody gets.</p>
 <p><i>Not for you if you are looking for a script.</i></p>
 ```
 
-**About 2,400 characters with the tags.** Still half the ceiling.
+**About 2,900 characters with the tags.** Still half the ceiling.
 
 ## Keywords — provisional, and that is fine
 
@@ -177,12 +177,37 @@ that sentence asserts something about her past that nothing has earned. It is th
 as *"you know the loop."* **Now:** *"It teaches the moves instead, which is the training nobody
 gets"* — the absence becomes a claim about the world rather than about her.
 
-**2 · Stacked fragments — kept, and here is the reason.** *"The meeting where somebody gets talked
-over. The decision that lands on whoever can least afford it."* Two noun-phrase fragments in a row
-is the dramatic-fragmentation pattern. **They survive because they are the concrete images the
-whole description rests on**, and the pattern's actual harm is fragments used for drama with no
-content. These carry the content. Replacing them with a full sentence would be the version that
-loses.
+**2 · Stacked fragments — kept, and then the defence was overturned.**
+
+**The first defence was:** *"they survive because they are the concrete images the whole
+description rests on."* **Wendell, 2026-08-29:** *"then write more descriptive images throughout,
+don't keep them out of scarcity."*
+
+**He is right, and the error is in the shape of the argument rather than the verdict.** Defending
+an element by pointing at the poverty of everything around it is an argument from scarcity. **The
+answer to *this is the only concrete moment* is to write more concrete moments**, which removes
+the need to defend anything.
+
+**So the description was rewritten with images throughout** rather than rationed to one paragraph:
+
+| was abstract | now |
+|---|---|
+| *"six roles a group runs on, and which one you reach for under strain"* | *"One person cracks the joke that lets everybody breathe. One says the rule out loud. One rebuilds the process so it cannot happen again."* |
+| *"five channels a feeling travels"* | *"anger, fear, sadness, joy, and the flat calm that is none of them"* |
+| *"you can run it in ten seconds or ten hours"* | *"Ninety seconds in a hallway, or a year with one person"* — and the ninety seconds is `ch3:904`'s own figure |
+| *"burnout is a design flaw"* | *"the yes that costs a weekend, the favor that becomes a standing arrangement, the meeting where the same person absorbs it again"* |
+
+**The fragments then stopped needing a defence.** They are now one set of images among five rather
+than the only ones, which is what makes them read as texture instead of as a device.
+
+**Two defects the rewrite introduced, both caught by the slop reading and not by any counter:**
+
+- ***"The group chat that goes strange for four hours"*** — `go` plus an adjective on a subject
+  that cannot act. **`inchoative` read 0.00** because the adjective was not in its list, which is
+  the counter's known blind spot. Now *"where everybody stops typing"*, which names a doer and is
+  a better image.
+- **A second fragment triplet** echoing the opening one, which is the robotic-rhythm pattern.
+  Folded into a single sentence behind a colon, so the shape varies.
 
 **3 · A binary contrast — kept, and it is Wendell's own.** *"Every one of them points at the
 problem. Not one of them hands you a move."* The banned shape is *this is not X, it's Y*, stated
