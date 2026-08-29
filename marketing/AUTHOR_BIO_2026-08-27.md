@@ -32,10 +32,10 @@ jacket bio that introduces facts the back-matter page does not have is two autho
 ---
 
 Wendell Britt spent fifteen years in customer service at Apple, Airbnb and T-Mobile, which is
-where he learned allyship, mostly from people who were furious at him. He has been the meddling
-kid trying to fix institutions that never asked him to, and now does it on purpose and with
-permission. He also wrote *Igniting Joy*, on anger. Organizations hire him to name the game they
-are playing.
+where he learned allyship, mostly from people who were furious at him. He has found himself time
+and time again unconsciously playing the meddling kid attempting to change institutions that were
+quite happy staying the same, and now does it on purpose and occasionally with permission. He also
+wrote *Igniting Joy*, on anger. Organizations hire him to name the game they are playing.
 
 **masteringallyship.com**
 
@@ -138,6 +138,35 @@ needing to be funny the moment the bio had already been funny.
 
 **Measured.** `voice` clean · `gate` clean · `head` 0/0/0 · `copula`, `zombie`, `expletive`,
 `passive`, `empty`, `inchoative` all **0.00** · `be` 1.15 · `waste` 0.51. **69 words.**
+
+## The meddling-kid sentence, rewritten by Wendell 2026-08-27
+
+**His version, taken whole:** *"He has found himself time and time again unconsciously playing the
+meddling kid attempting to change institutions that were quite happy staying the same, and now
+does it on purpose and occasionally with permission."*
+
+**Three things it does that the compressed one did not.**
+
+**It restores the arc.** *Unconsciously… and now on purpose* is a before-and-after; *"has been the
+meddling kid"* was a standing description. The bio now contains the same movement the book sells,
+which is a person who found out what they were doing and started choosing it.
+
+**The institutions get a motive.** *"never asked him to"* made them passive. *"quite happy staying
+the same"* gives them a preference, and an institution with a preference is a funnier and truer
+opponent. It also earns the meddling, because you cannot meddle with something that has no plans.
+
+**And *occasionally* is the better joke than *with permission* was.** It admits the permission is
+partial without explaining itself, which is the same understatement move as *a few of them stop*
+— except this one is his and it is placed where he wanted it.
+
+**Measured, unedited.** `voice` clean · `gate` clean · `head` 0/0/0 · `copula`, `zombie`,
+`expletive`, `passive`, `empty`, `inchoative` all **0.00** · `be` 1.01 · `waste` **0.45**.
+**79 words.**
+
+**One note, not a correction.** `waste` at 0.45 falls just under its ~0.5 floor — the counter that
+warns a passage has stopped pointing at things. **At 79 words that is a single pronoun's worth of
+swing and it is noise**, and the sentence reads concretely because the nouns are doing the work.
+Recorded rather than acted on.
 
 ## One variant worth having
 
