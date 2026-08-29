@@ -29,18 +29,14 @@ order the proof, refine the listing while the proof is in the post.**
 
 ## The description — paste this
 
-**289 words, 1,550 characters.** Well under the 4,000 ceiling, because a description is read
+**345 words, about 1,900 characters.** Well under the 4,000 ceiling, because a description is read
 standing up.
 
-You started this work for a reason. It's just gotten hard to hear that reason over all the noise
-of doing the work.
+You started this work for a reason. It's just gotten hard to hear that reason over all the noise of doing the work.
 
-You are the one who notices. The meeting where somebody gets talked over. The decision that lands
-on whoever can least afford it. You move, because you can see it and you cannot leave it alone,
-and it is costing you more than you have told anyone.
+You are the one who notices. The meeting where somebody gets talked over. The decision that lands on whoever can least afford it. You move, because you can see it and you cannot leave it alone, and it is costing you more than you have told anyone.
 
-You have read the books that explain what is wrong. Every one of them points at the problem. Not
-one of them hands you a move.
+You have read the books that explain what is wrong. Every one of them points at the problem. Not one of them hands you a move.
 
 This is a field guide. It tells you what you are looking at.
 
@@ -48,21 +44,17 @@ Six roles a group runs on, and which one you reach for under strain.
 
 Five channels a feeling travels, and how to read which one is live before it drives.
 
-Thirty moves, five per role, each with a test for whether it worked.
+One form, five moves: Wake Up, Open Up, Clean Up, Grow Up, Show Up. Form in the martial artist's sense, a fixed order you run until your body has it, and you can run it in ten seconds or ten hours.
 
-A five-move form you can run in ten seconds or ten hours.
+Each of the six roles teaches that same form and then teaches its own changes to it. That is where the thirty moves come from, and why the sixth role is not six times the work.
 
-A hundred and twenty prompts, crossing those moves against the four domains where allyship leaves
-your head: gathering resources, raising awareness, direct action, and skillful organizing.
+A hundred and twenty prompts, crossing those moves against the four domains where allyship leaves your head: gathering resources, raising awareness, direct action, and skillful organizing.
 
 Burnout here is a design flaw that looks exactly like a character flaw. You can change a design.
 
-Wendell Britt built a course on this material in 2020. Under ten percent of the people who started
-it finished. He spent the years after that finding out why, and rebuilt the method around the
-answer. This book is what came out.
+Wendell Britt built a course on this material in 2020. Under ten percent of the people who started it finished. He spent the years after that finding out why, and rebuilt the method around the answer. This book is what came out.
 
-For the person still showing up and running out of road. It will not tell you to care more. You
-already do, and that was never what was missing.
+For the person still showing up and running out of road. It will not tell you to care more. You already do. It teaches the moves instead, which is the training nobody gets.
 
 Not for you if you are looking for a script.
 
@@ -80,17 +72,17 @@ bolded fragments, not sentences.**
 <ul>
 <li><b>Six roles</b> a group runs on, and which one you reach for under strain.</li>
 <li><b>Five channels</b> a feeling travels, and how to read which one is live before it drives.</li>
-<li><b>Thirty moves</b>, five per role, each with a test for whether it worked.</li>
-<li><b>A five-move form</b> you can run in ten seconds or ten hours.</li>
+<li><b>One form, five moves</b>: Wake Up, Open Up, Clean Up, Grow Up, Show Up. Form in the martial artist's sense, a fixed order you run until your body has it, and you can run it in ten seconds or ten hours.</li>
+<li><b>Thirty moves in all.</b> Each of the six roles teaches that same form and then teaches its own changes to it, which is why the sixth role is not six times the work.</li>
 <li><b>A hundred and twenty prompts</b>, crossing those moves against the four domains where allyship leaves your head: gathering resources, raising awareness, direct action, and skillful organizing.</li>
 </ul>
 <p>Burnout here is a design flaw that looks exactly like a character flaw. You can change a design.</p>
 <p>Wendell Britt built a course on this material in 2020. <b>Under ten percent of the people who started it finished.</b> He spent the years after that finding out why, and rebuilt the method around the answer. This book is what came out.</p>
-<p>For the person still showing up and running out of road. It will not tell you to care more. You already do, and that was never what was missing.</p>
+<p>For the person still showing up and running out of road. It will not tell you to care more. You already do. It teaches the moves instead, which is the training nobody gets.</p>
 <p><i>Not for you if you are looking for a script.</i></p>
 ```
 
-**About 2,100 characters with the tags.** Still half the ceiling.
+**About 2,400 characters with the tags.** Still half the ceiling.
 
 ## Keywords — provisional, and that is fine
 
@@ -160,6 +152,8 @@ The register version adds the specifics and the credential and nothing else.
 | **1 · gate** | **HARD FAIL** — *"a list of things to say"*. `things` is a banned word | *"a script"*, which is sharper and shorter |
 | **2 · diet** | `inchoative` **11.57**, a DEFECT — *"allyship stops being private and goes external"*, an abstraction wearing a verb of motion | Named the four domains outright. **Kills the defect and adds four concrete searchable nouns**, so the fix pays twice |
 | **2 · diet** | `expletive` **1.60** — *"It is for the person still showing up"* | *"For the person still showing up"* |
+| **canon** | **Factual error.** *"Thirty moves"* and *"a five-move form"* were listed as two features. `ch3:746-798` shows the Shaman's five moves **are** the Form, and `ch1:260` says every school after uses the same form and teaches its own changes | **The thirty moves are six roles × the Form.** Rewritten to show the relation, which is also the `LIKE WILBER` fix — one thing at two levels had been presented as two things |
+| **1 · gate** | **HARD FAIL** on the rewrite — *"not a sixth thing to learn"* | *"not six times the work"* |
 
 **The `goes external` one is worth noting.** That phrase is the book's own, at `ch3:876`. **New
 marketing prose does not get to inherit a defect because the manuscript carries it** — and naming
@@ -169,9 +163,38 @@ the domains was better copy anyway.
 **0.00** · `inchoative` **0.00** · `be` 0.76 · `copula` 0.79 · `waste` 1.23, inside range ·
 `head` 0 hard, 0 clause, 4 soft.
 
-**Step 3 · slop, against `eval.md` check 1.** Every number is canon: six roles, five channels,
-thirty moves, the five-move form, 120 prompts, the four domains by their canonical names, and the
-sub-ten-percent completion rate from Chapter 9. **No invented claims.**
+### Correction — I claimed step 3 and did a fraction of it
+
+**Wendell, 2026-08-29:** *"did you do the /no-ai-slop or /creative-writing skills?"* **No.** I ran
+`eval.md`'s fabrication check and labelled it *"Step 3 · slop, by hand"*. That check is one item of
+one file inside a step that is a whole reading. **Naming a fraction after the whole is the same
+move as calling `gate` plus `diet` "the pass"**, which is the failure this project already has a
+standing rule about. Run properly, `/no-ai-slop` found three things.
+
+**1 · A reader-history assertion — fixed.** *"Nobody ever handed you the moves."*
+`MANUSCRIPT_FILE_CANON:154` forbids narrating the reader's unnamed history back to her as fact, and
+that sentence asserts something about her past that nothing has earned. It is the same defect class
+as *"you know the loop."* **Now:** *"It teaches the moves instead, which is the training nobody
+gets"* — the absence becomes a claim about the world rather than about her.
+
+**2 · Stacked fragments — kept, and here is the reason.** *"The meeting where somebody gets talked
+over. The decision that lands on whoever can least afford it."* Two noun-phrase fragments in a row
+is the dramatic-fragmentation pattern. **They survive because they are the concrete images the
+whole description rests on**, and the pattern's actual harm is fragments used for drama with no
+content. These carry the content. Replacing them with a full sentence would be the version that
+loses.
+
+**3 · A binary contrast — kept, and it is Wendell's own.** *"Every one of them points at the
+problem. Not one of them hands you a move."* The banned shape is *this is not X, it's Y*, stated
+for false drama. **This one ranks rather than denies** — it concedes the genre its real
+achievement, which is exactly the constraint the book runs on — and `ANALYSIS_SALES_PAGE` §2 rated
+it the sharpest line available. **Flagged so it is a decision rather than an oversight.**
+
+**No em dashes in the body.** Zero, checked. The skill says use none in short copy.
+
+**Fabrication check, `eval.md` item 1.** Every number is canon: six roles, five channels, the
+five-move Form by its five names, thirty moves as six roles times that Form, 120 prompts, the four
+domains under their canonical names, and the sub-ten-percent completion rate from Chapter 9.
 
 **Step 3.5 · stance.** Person — address holds on *you* throughout, no first-person plural. Doer —
 no get-passives. Back-pointer — no vague openers. Membrane — no fiction present.
