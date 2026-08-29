@@ -29,60 +29,65 @@ order the proof, refine the listing while the proof is in the post.**
 
 ## The description — paste this
 
-**439 words, about 2,400 characters.** Well under the 4,000 ceiling, because a description is read
-standing up.
+**475 words, 2,527 characters plain and 2,690 with the HTML.** Both well under the 4,000 ceiling,
+because a description is read standing up.
 
-You started this work for a reason. It's just gotten hard to hear that reason over all the noise of doing the work.
+You started this work for a reason. It's just gotten hard to hear that reason over all the noise of seeming like you're doing a good job.
 
-You are the one who notices. The meeting where somebody gets talked over. The decision that lands on whoever can least afford it. The group chat where everybody stops typing for four hours and then carries on. You move, because you can see it and you cannot leave it alone, and it is costing you more than you have told anyone.
+You are the one who notices. You catch the meeting where somebody gets talked over, the decision that lands on whoever can least afford to absorb it, and the group chat where everybody stops typing for four hours and then carries on. You move, because you can see it and you cannot leave it alone, and moving costs you more than you have told anyone.
 
-You have read the books that explain what is wrong. Every one of them points at the problem. Not one of them hands you a move.
+You have read the books that explain what is wrong. Every one of them points at the problem, and not one of them hands you a move.
 
-This is a field guide. It tells you what you are looking at.
+This is a field guide, so it tells you what you are looking at.
 
-Six roles a group runs on. One person cracks the joke that lets everybody breathe. One says the rule out loud. One rebuilds the process so it cannot happen again. Those are three of the six, and under strain everybody reaches for the same one every time.
+A group runs on six roles. One person cracks the joke that lets everybody breathe, one says the rule out loud, and one rebuilds the process so it cannot happen again. Those are three of the six, and most people reach for the same one every time.
 
-Five channels a feeling travels: anger, fear, sadness, joy, and the flat calm that is none of them. Each is reporting something different about what the situation needs next, and the book teaches you to read which one is running before it starts driving.
+A feeling travels one of five channels: anger, fear, sadness, joy, or the flat calm that is none of them. Each one reports something different about what the situation needs next, and you learn to read which is running before it starts driving.
 
-One form, five moves: Wake Up, Open Up, Clean Up, Grow Up, Show Up. Form in the martial artist's sense, a fixed order you run until your body has it. Ninety seconds in a hallway, or a year with one person.
+The same form runs under the roles and the channels alike, in five moves: Wake Up, Open Up, Clean Up, Grow Up, Show Up. Form here means what it means in a dojo, a fixed order you run until your body has it. It takes ninety seconds in a hallway or a year with one person.
 
-Thirty moves in all. Each of the six roles teaches that same form and then teaches its own changes to it, which is why the sixth role is not six times the work.
+Learn the form once and each role bends it a different way, which is where the thirty moves come from and why the sixth role is not six times the work.
 
-A hundred and twenty prompts, crossing those moves against the four domains where allyship leaves your head: gathering resources, raising awareness, direct action, and skillful organizing.
+A hundred and twenty prompts cross those moves against the four domains where allyship leaves your head: gathering resources, raising awareness, direct action, and skillful organizing.
 
-Burnout here is a design flaw that looks exactly like a character flaw: the yes that costs a weekend, the favor that becomes a standing arrangement, the meeting where the same person absorbs it again. You can change a design.
+Burnout here is a design flaw that looks exactly like a character flaw. It arrives as the yes that costs a weekend, the favor that turns into a standing arrangement, and the meeting that ends with the person who named the problem owning it. You can change a design.
 
-Wendell Britt built a course on this material in 2020. Under ten percent of the people who started it finished. He spent the years after that finding out why, and rebuilt the method around the answer. This book is what came out.
+Wendell Britt built a course on this material in 2020. Under ten percent of the people who started it finished. He spent the years since finding out why, and rebuilt the method around the answer. This book is what came out.
 
-For the person still showing up and running out of road. It will not tell you to care more. You already do. It teaches the moves instead, which is the training nobody gets.
+This is for the person still showing up and running out of road. It will not tell you to care more, because you already do. It teaches the moves instead, so that on Monday you can do more than notice.
 
-Not for you if you are looking for a script.
+Skip it if you are looking for a script.
 
 ## The same thing with KDP's HTML
 
 **KDP accepts a small tag set and strips everything else.** Bold and lists survive, so the five
-specifics become scannable, which is the whole reason to use markup at all — **a browser reads
-bolded fragments, not sentences.**
+specifics become scannable, which is the whole reason to use markup at all — **a browser scanning
+twenty listings reads the bolded sentence and moves on.**
+
+**Each list item bolds its first complete sentence and nothing else.** No bold inside a sentence,
+which is a formatting-slop pattern `no-ai-slop` names by itself, and no fragment used as a label.
 
 ```html
-<p><b>You started this work for a reason. It's just gotten hard to hear that reason over all the noise of doing the work.</b></p>
-<p>You are the one who notices. The meeting where somebody gets talked over. The decision that lands on whoever can least afford it. The group chat where everybody stops typing for four hours and then carries on. You move, because you can see it and you cannot leave it alone, and it is costing you more than you have told anyone.</p>
-<p>You have read the books that explain what is wrong. Every one of them points at the problem. Not one of them hands you a move.</p>
-<p><b>This is a field guide. It tells you what you are looking at.</b></p>
+<p><b>You started this work for a reason. It's just gotten hard to hear that reason over all the noise of seeming like you're doing a good job.</b></p>
+<p>You are the one who notices. You catch the meeting where somebody gets talked over, the decision that lands on whoever can least afford to absorb it, and the group chat where everybody stops typing for four hours and then carries on. You move, because you can see it and you cannot leave it alone, and moving costs you more than you have told anyone.</p>
+<p>You have read the books that explain what is wrong. Every one of them points at the problem, and not one of them hands you a move.</p>
+<p><b>This is a field guide, so it tells you what you are looking at.</b></p>
 <ul>
-<li><b>Six roles a group runs on.</b> One person cracks the joke that lets everybody breathe. One says the rule out loud. One rebuilds the process so it cannot happen again. Those are three of the six, and under strain everybody reaches for the same one every time.</li>
-<li><b>Five channels a feeling travels: anger, fear, sadness, joy, and the flat calm that is none of them.</b> Each is reporting something different about what the situation needs next, and the book teaches you to read which one is running before it starts driving.</li>
-<li><b>One form, five moves: Wake Up, Open Up, Clean Up, Grow Up, Show Up.</b> Form in the martial artist's sense, a fixed order you run until your body has it. Ninety seconds in a hallway, or a year with one person.</li>
-<li><b>Thirty moves in all.</b> Each of the six roles teaches that same form and then teaches its own changes to it, which is why the sixth role is not six times the work.</li>
-<li><b>A hundred and twenty prompts, crossing those moves against the four domains where allyship leaves your head: gathering resources, raising awareness, direct action, and skillful organizing.</b></li>
+<li><b>A group runs on six roles.</b> One person cracks the joke that lets everybody breathe, one says the rule out loud, and one rebuilds the process so it cannot happen again. Those are three of the six, and most people reach for the same one every time.</li>
+<li><b>A feeling travels one of five channels: anger, fear, sadness, joy, or the flat calm that is none of them.</b> Each one reports something different about what the situation needs next, and you learn to read which is running before it starts driving.</li>
+<li><b>The same form runs under the roles and the channels alike, in five moves: Wake Up, Open Up, Clean Up, Grow Up, Show Up.</b> Form here means what it means in a dojo, a fixed order you run until your body has it. It takes ninety seconds in a hallway or a year with one person.</li>
+<li><b>Learn the form once and each role bends it a different way, which is where the thirty moves come from and why the sixth role is not six times the work.</b></li>
+<li><b>A hundred and twenty prompts cross those moves against the four domains where allyship leaves your head: gathering resources, raising awareness, direct action, and skillful organizing.</b></li>
 </ul>
-<p>Burnout here is a design flaw that looks exactly like a character flaw: the yes that costs a weekend, the favor that becomes a standing arrangement, the meeting where the same person absorbs it again. You can change a design.</p>
-<p>Wendell Britt built a course on this material in 2020. <b>Under ten percent of the people who started it finished.</b> He spent the years after that finding out why, and rebuilt the method around the answer. This book is what came out.</p>
-<p>For the person still showing up and running out of road. It will not tell you to care more. You already do. It teaches the moves instead, which is the training nobody gets.</p>
-<p><i>Not for you if you are looking for a script.</i></p>
+<p>Burnout here is a design flaw that looks exactly like a character flaw. It arrives as the yes that costs a weekend, the favor that turns into a standing arrangement, and the meeting that ends with the person who named the problem owning it. You can change a design.</p>
+<p>Wendell Britt built a course on this material in 2020. <b>Under ten percent of the people who started it finished.</b> He spent the years since finding out why, and rebuilt the method around the answer. This book is what came out.</p>
+<p>This is for the person still showing up and running out of road. It will not tell you to care more, because you already do. It teaches the moves instead, so that on Monday you can do more than notice.</p>
+<p><i>Skip it if you are looking for a script.</i></p>
 ```
 
-**About 2,900 characters with the tags.** Still half the ceiling.
+**2,690 bytes with the tags, and every byte is ASCII** — no smart quotes, no em dashes, so the
+count Amazon sees is the count above. **Stripped of tags it is byte-identical to the plain body
+above**, checked rather than assumed, so there is only one text to keep true.
 
 ## Keywords — provisional, and that is fine
 
@@ -159,9 +164,9 @@ The register version adds the specifics and the credential and nothing else.
 marketing prose does not get to inherit a defect because the manuscript carries it** — and naming
 the domains was better copy anyway.
 
-**Final:** `voice` clean · `gate` clean · `expletive` **0.00** · `passive` **0.00** · `empty`
-**0.00** · `inchoative` **0.00** · `be` 0.76 · `copula` 0.79 · `waste` 1.23, inside range ·
-`head` 0 hard, 0 clause, 4 soft.
+**Measured at that point:** `voice` clean · `gate` clean · `expletive` **0.00** · `passive`
+**0.00** · `empty` **0.00** · `inchoative` **0.00** · `be` 0.76 · `copula` 0.79 · `waste` 1.23 ·
+`head` 0 hard, 0 clause, 4 soft. **Three more rulings came after it — see below.**
 
 ### Correction — I claimed step 3 and did a fraction of it
 
@@ -195,7 +200,7 @@ the need to defend anything.
 | *"six roles a group runs on, and which one you reach for under strain"* | *"One person cracks the joke that lets everybody breathe. One says the rule out loud. One rebuilds the process so it cannot happen again."* |
 | *"five channels a feeling travels"* | *"anger, fear, sadness, joy, and the flat calm that is none of them"* |
 | *"you can run it in ten seconds or ten hours"* | *"Ninety seconds in a hallway, or a year with one person"* — and the ninety seconds is `ch3:904`'s own figure |
-| *"burnout is a design flaw"* | *"the yes that costs a weekend, the favor that becomes a standing arrangement, the meeting where the same person absorbs it again"* |
+| *"burnout is a design flaw"* | *"the yes that costs a weekend, the favor that becomes a standing arrangement, the meeting where the same person absorbs it again"* — **the last clause superseded below; it was a handwave** |
 
 **The fragments then stopped needing a defence.** They are now one set of images among five rather
 than the only ones, which is what makes them read as texture instead of as a device.
@@ -223,6 +228,70 @@ domains under their canonical names, and the sub-ten-percent completion rate fro
 
 **Step 3.5 · stance.** Person — address holds on *you* throughout, no first-person plural. Doer —
 no get-passives. Back-pointer — no vague openers. Membrane — no fiction present.
+
+### Ruling — fragments are out, because he does not speak in them
+
+**Wendell, 2026-08-29:** *"fragments are bad. I speak in complete sentences."*
+
+**That overturns the defence above and the verdict with it.** The previous section argued the
+fragments could stay once there were images elsewhere. **The reason they go is not density, it is
+that they are not his voice** — and a voice rule outranks a texture argument.
+
+**So the three fragment triplets became three sentences with doers.** *"The meeting where somebody
+gets talked over. The decision that lands on whoever can least afford it."* became **"You catch
+the meeting where somebody gets talked over, the decision that lands on whoever can least afford
+to absorb it, and the group chat where everybody stops typing."** The images all survive; they now
+hang off a subject who is doing something.
+
+**Two more went the same way.** *"Six roles a group runs on"* became *"A group runs on six roles"*,
+and *"Five channels a feeling travels"* became *"A feeling travels one of five channels."* Both had
+been inversions dressed as headlines. **The disqualifier changed for the same reason** — *"Not for
+you if you are looking for a script"* became **"Skip it if you are looking for a script,"** which
+is a complete sentence and an instruction rather than a label.
+
+### Four handwaves he caught by eye, and every counter had passed them
+
+**Each one is a noun phrase or a pronoun that names nothing a reader could point at.**
+
+| his catch | the defect | now |
+|---|---|---|
+| *"the noise of doing the work"* | *the work* names nothing. Which work, done how, felt as what | *"the noise of seeming like you're doing a good job"* — the noise is now a specific performance |
+| *"under strain everybody reaches for the same one"* | *everybody* and *under strain* are both unfalsifiable | *"most people reach for the same one every time"* — a claim about frequency, checkable against yourself |
+| *"the meeting where the same person absorbs it again"* | **"what person? what is it? We're handwaving again."** Both the person and the *it* were introduced by the definite article and never named | *"the meeting that ends with the person who named the problem owning it"* — the person is identified by what they did, and *it* points at *the problem* two words back |
+| *"which is the training nobody gets"* | Faux-insight flattery, the *what nobody tells you* shape, and a claim about the world nobody can check | *"so that on Monday you can do more than notice"* — concrete, dated, and it cashes *"You are the one who notices"* from the second paragraph |
+
+**The last one is the one worth keeping.** A term coined early and paid off late is the `LIKE RAO`
+test, and it arrived here as a slop fix rather than a stylistic move, which is the order that
+tends to produce the good ones.
+
+### The `waste` pass — fifteen instances of *it*, checked one at a time
+
+**`waste` read 1.34, above the 1.30 ceiling**, and the honest fix was not to delete pronouns but to
+find the ones with no arrow. Sword's rule is exact: use *it* only when you can state which noun it
+refers to.
+
+**Four had no arrow, and all four were rewritten rather than trimmed:**
+
+- *"and it is costing you more than you have told anyone"* → **"and moving costs you more"**. The
+  *it* was the act of moving, which is a verb, so the fix names it as one.
+- *"One form runs through all of it, and it has five moves"* — **two pronouns in one clause, the
+  first pointing at everything above it.** → **"The same form runs under the roles and the channels
+  alike, in five moves."**
+- *"teaches its own changes to it"* → **"each role bends it a different way,"** where *it* now sits
+  four words from *the form*.
+- *"He spent the years after that finding out why"* → **"the years since."**
+
+**Result: `waste` 1.20**, inside range, with the pronoun count down by four and no sentence
+shortened to get there.
+
+**One voice block came out of that pass and is worth recording.** *"what a martial artist means by
+the word"* tripped `say the noun` — the instrument's point being that *the word* is a placeholder
+where a noun belongs. **Now:** *"what it means in a dojo."* Shorter, concrete, and the *it* points
+at *Form* one word back.
+
+**Final:** `voice` clean · `gate` clean · `head` 0 hard, 0 clause, 7 soft · `expletive`, `passive`
+and `inchoative` all **0.00** · `be` 0.54 · `copula` 0.83 · `zombie` 0.42 · `empty` 0.30 · `waste`
+**1.20**. **475 words.**
 
 ## The order for this week
 
