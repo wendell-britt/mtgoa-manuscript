@@ -33,8 +33,8 @@ jacket bio that introduces facts the back-matter page does not have is two autho
 
 Wendell Britt spent fifteen years in customer service at Apple, Airbnb and T-Mobile, which is
 where he learned allyship. He has been the meddling kid trying to fix institutions that never
-asked him to, and now does it on purpose and with permission. He also wrote *Igniting Joy*, and he
-speaks to organizations that would like the game named out loud.
+asked him to, and now does it on purpose and with permission. He also wrote *Igniting Joy*, on
+anger. Organizations hire him to name the game they are playing, and a few of them stop.
 
 **masteringallyship.com**
 
@@ -47,7 +47,7 @@ speaks to organizations that would like the game named out loud.
 | Apple, Airbnb, T-Mobile — *"which is where he learned allyship"* | The credential and the claim in one clause. The surprise is that customer service is where it was learned, and the surprise is the reason it stays |
 | *the meddling kid… on purpose and with permission* | The most distinctive sentence in the long bio, and the one closest to the book's own argument about consent |
 | *Igniting Joy* | Also-by, and `front_matter/also_by.md` already carries it |
-| *organizations that would like the game named out loud* | Verbatim. It is the speaking offer stated without a pitch |
+| the speaking offer | Rewritten on the dial — see below |
 
 **Cut, and each one deliberately:**
 
@@ -86,6 +86,45 @@ Membrane — no fiction present.
 **Placeholders checked.** `gate.py`'s `tokens` counter guards the `HEAD_REGISTERS` biography
 blanks that R9 says must not reach the typesetter. **Gate reads 0 on the matter surface**, so
 nothing unfilled is live.
+
+## The +ADAMSY pass on the closer
+
+**Wendell, 2026-08-27:** *"'that would like the game named out loud.' weak. needs to be more
+natural language. Let's do a +adams to it. We want people to laugh out loud."*
+
+**He was right about the diagnosis before the fix.** *"organizations that would like the game
+named out loud"* is a nominalization wearing a relative clause — **nobody says that out loud**,
+and it describes the buyer's preference rather than what actually happens. It also buried the
+verb: *named* is the only action in the sentence and it has no doer.
+
+**Now:** *"Organizations hire him to name the game they are playing, and a few of them stop."*
+
+**Where the joke is, and why it is that one.** The laugh sits in **a few**. Everything before it
+sets up a professional service being professionally delivered; *a few of them stop* is the flat
+throwaway that reports the real conversion rate. That is the ADAMSY shape from
+`LOG_FINAL_PROOF` sitting 10 — the subverted comparison carrying the argument sideways — and the
+understatement is doing the work that an explained joke would kill. **The shorter version is the
+funnier one:** *"and some of them even stop playing it"* measured the same and lands softer,
+because *even* explains the joke and *a few* trusts the reader with it.
+
+**It is fond rather than superior**, which keeps it inside ch9's humor cells of Play and Fondness
+and out of Jerk. The organizations are not idiots in that sentence; changing is just hard, and the
+author is the one being paid either way.
+
+**It is also the same posture as the book's own credential.** A man whose headline fact is a
+sub-ten-percent completion rate can say *a few of them stop* without it reading as a confession.
+It reads as somebody who counts.
+
+**One move only.** The strongest runner-up was on the opening clause — *"which is where he learned
+allyship, mostly from people who were furious at him"* — which is true, sets up *Igniting Joy*,
+and is genuinely funny. **It is held back because `+ADAMSY` stacks at *a touch*.** Three funny
+beats in sixty-seven words, with the meddling kid already carrying a Scooby-Doo echo, stops being
+a bio and becomes a bit. **The exit is the right place to spend the one move**, because it is what
+the reader carries away.
+
+**Measured.** `voice` clean · `gate` clean · `head` 0/0/0 · `copula`, `zombie`, `expletive`,
+`passive`, `empty`, `inchoative` all **0.00** · `be` 0.89 · `waste` 0.53, just inside its floor.
+67 words.
 
 ## One variant worth having
 
