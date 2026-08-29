@@ -5,6 +5,24 @@ Fragments carrying claims, and fragments outside landing position.
     python3 instruments/fragment.py                  # the board
     python3 instruments/fragment.py -v               # every site
     python3 instruments/fragment.py --write FILE     # the full report
+    python3 instruments/fragment.py DRAFT.md [...]   # draft mode, one row per file
+    python3 instruments/fragment.py --deep           # the book, with the second tier on
+
+## Draft mode, added 2026-08-29
+
+Wendell, on marketing copy that had gone through the whole pass and come back `clean`:
+*"fragments are bad. I speak in complete sentences."* — **and then, on being shown that
+this file exists and says in its own docstring that he has caught the defect by eye
+twice:** *"how are our skills not catching this?"*
+
+The answer was that it could not read a draft. It had no FILE branch, so every argument
+was ignored and it scanned the printed book instead, which is the one place the prose had
+already landed. See `specs/GAP_DRAFT_REVIEW_INSTRUMENTS_2026-08-29.md`.
+
+**The verb lexicon still comes from the corpus in draft mode, and that is not a shortcut.**
+The whole design rests on aggregating 6,000 sentences to survive a tagger that is
+unreliable per instance; a lexicon built from a 500-word draft would exonerate nothing and
+flag ordinary prose. Corpus for the lexicon, draft for the sites.
 
 ## Why this exists
 
@@ -102,6 +120,7 @@ def _load(name, path):
 
 fl = _load("find_line", os.path.join(HERE, "find_line.py"))
 dn = _load("density", os.path.join(HERE, "density.py"))
+dl = _load("draft_lines", os.path.join(HERE, "draft_lines.py"))
 
 # Fragments are the form these files are written in. A dedication is not a beat.
 EXEMPT_SURFACE = ("copyright.md", "acknowledgements.md", "dedication.md",
@@ -133,6 +152,70 @@ per via etc vs""".split())
 
 NEG_OPEN = re.compile(r"^(Not|Never|Nothing|Nobody|No)\b", re.I)
 
+# THE SECOND TIER, added 2026-08-29, because the first one does not catch the defect
+# Wendell actually keeps reporting.
+#
+# Run against the three fragments he rejected in the KDP description on 2026-08-29 --
+# *"The meeting where somebody gets talked over. The decision that lands on whoever can
+# least afford it. The group chat where everybody stops typing for four hours"* -- the
+# lexicon tier returned **zero**. Correctly, on its own terms: it flags a string in which
+# no token is ever a verb anywhere in the book, and every one of those has a perfectly
+# good verb (`gets`, `lands`, `stops`) sitting inside a relative clause.
+#
+# **So the shape that keeps shipping is not a verbless string. It is a noun phrase whose
+# only verbs belong to something else** -- a head with no predicate, wearing a relative
+# clause. That is what a definite article plus a `where`/`that` produces, and it is why
+# the family reads as prose to every counter in this directory.
+#
+# The test: walk to the first subordinator or relative pronoun. If no finite verb has
+# appeared before it, the head noun has no predicate.
+FINITE = ("VBZ", "VBD", "VBP", "MD")
+SUBORD = set("""who whom whose which that where when while because if unless until since
+whoever whatever whichever wherever whenever
+although though so as after before""".split())
+
+# THE OPENER RESTRICTION IS WHAT MAKES THE TIER USABLE, and it was added after the first
+# version reported *"Under ten percent of the people who started it finished"* -- a
+# complete sentence whose main verb sits after the relative clause, so the walk hit `who`
+# before reaching `finished`.
+#
+# Counting verbs against subordinators fixes that one and breaks a real fragment:
+# *"The group chat where everybody stops typing for four hours and then carries on"* has
+# two finite verbs to one subordinator, both inside the relative clause, because
+# coordination is invisible to a count.
+#
+# **So the restriction is on the opener rather than on the arithmetic.** The defect is a
+# headed noun phrase with no predicate, so the tier only looks at sentences that open on
+# one. `Under ten percent…` opens on a preposition and is never considered; `The meeting
+# where…`, `The decision that…`, `Six roles…` and `Thirty moves…` all are.
+HEAD_OPEN = ("DT", "CD", "PRP$", "JJ", "NN", "NNS", "NNP", "NNPS")
+
+
+def headless(tags):
+    """True when a headed noun phrase reaches a subordinator without a finite verb."""
+    if not tags:
+        return False
+    tok0, tag0 = tags[0][0].lower(), tags[0][1]
+    if tok0 in SUBORD:
+        return False                       # *"Because the meeting ran long, she left."*
+    if tag0 not in HEAD_OPEN and not NEG_OPEN.match(tags[0][0]):
+        return False
+    reached = False
+    for tok, tag in tags:
+        if tag in FINITE and not reached:
+            return False                   # the head has its own predicate
+        if tok.lower() in SUBORD:
+            reached = True
+    if not reached:
+        return False                       # no subordinator: the lexicon tier owns it
+    # One more filter, for the shape the opener restriction lets through:
+    # *"The people who started it finished."* — a headed noun phrase whose main verb sits
+    # AFTER the relative clause. Each subordinator claims one finite verb; a main clause
+    # needs one the subordinators have not claimed.
+    nfin = sum(1 for _t, g in tags if g in FINITE)
+    nsub = sum(1 for t, _g in tags if t.lower() in SUBORD)
+    return nfin <= nsub
+
 
 def verb_lexicon(lines, pos_tag, word_tokenize):
     """Every word this corpus ever presents as a verb. See the docstring."""
@@ -145,20 +228,57 @@ def verb_lexicon(lines, pos_tag, word_tokenize):
     return lex
 
 
-def sites(text, lex, pos_tag, word_tokenize, min_words=2):
-    """Fragment candidates in one paragraph, with position and length."""
+def sites(text, lex, pos_tag, word_tokenize, min_words=2, deep=False):
+    """Fragment candidates in one paragraph, with position and length.
+
+    `deep` turns on the headed-noun-phrase tier. **Draft mode only by default**, and the
+    reason is a measurement rather than a preference: book-wide the tier takes the board
+    from 125 candidates to 296, and a board nobody reads is worse than a smaller one that
+    gets worked. On a 500-word draft the asymmetry inverts — a false positive costs one
+    glance and a false negative ships. `--deep` opts the book in deliberately.
+    """
     out = []
     sents = dn.sentences(text)
     for i, s in enumerate(sents):
         st = s.strip()
         if len(st.split()) < min_words:
             continue
-        toks = [w.lower() for w in word_tokenize(st)]
-        if any(t in lex for t in toks):
+        words = word_tokenize(st)
+        toks = [w.lower() for w in words]
+        # Tier 1, verbless by corpus lexicon. Tier 2, a head noun with no predicate.
+        # Either one makes it a candidate; neither alone was enough.
+        if any(t in lex for t in toks) and not (deep and headless(pos_tag(words))):
             continue
         kind = "NEG" if NEG_OPEN.match(st) else ("LANDING" if i == len(sents) - 1 else "MID")
         out.append((kind, len(st.split()), st))
     return out
+
+
+def draft(paths, lex, pos_tag, word_tokenize, verbose):
+    """One row per file, then the sites. The shape `review.py` greps for a basename in."""
+    print("fragments — a sentence with no verb. LANDING is legal; MID and NEG are candidates")
+    print("%-22s %5s %5s %8s" % ("file", "MID", "NEG", "LANDING"))
+    print("-" * 44)
+    rows, bad = [], 0
+    for l in dl.prose(dl.surfaces(paths)):
+        for kind, n, st in sites(l["text"], lex, pos_tag, word_tokenize, deep=True):
+            rows.append((l, kind, n, st))
+    per = defaultdict(lambda: defaultdict(int))
+    for l, kind, _n, _st in rows:
+        per[os.path.basename(l["rel"])][kind] += 1
+    for p in paths:
+        r = per[os.path.basename(p)]
+        print("%-22s %5d %5d %8d" % (os.path.basename(p)[:22], r["MID"], r["NEG"], r["LANDING"]))
+        bad += r["MID"] + r["NEG"]
+    hits = [r for r in rows if r[1] in ("MID", "NEG")]
+    if hits:
+        print("")
+        for l, kind, n, st in (hits if verbose else hits[:12]):
+            print("  %-7s %dw  %s:%d" % (kind, n, os.path.basename(l["rel"]), l["line"]))
+            print("      > %s" % st[:120])
+        if not verbose and len(hits) > 12:
+            print("  … %d more, run with -v" % (len(hits) - 12))
+    return 1 if bad else 0
 
 
 def main():
@@ -177,12 +297,19 @@ def main():
     lines = [l for l in fl.surfaces() if not l["text"].lstrip().startswith(SKIP_LINE)]
     lex = verb_lexicon(lines, pos_tag, word_tokenize)
 
+    # DRAFT MODE. The lexicon above is built from the corpus whatever the mode, because
+    # aggregation is what makes the tagger usable at all -- see the docstring.
+    paths = dl.paths_from(sys.argv[1:])
+    if paths:
+        return draft(paths, lex, pos_tag, word_tokenize, verbose)
+
+    deep = "--deep" in sys.argv
     found = defaultdict(list)
     per = defaultdict(lambda: defaultdict(int))
     for l in lines:
         if any(e in l["rel"] for e in EXEMPT_SURFACE):
             continue
-        for kind, n, st in sites(l["text"], lex, pos_tag, word_tokenize):
+        for kind, n, st in sites(l["text"], lex, pos_tag, word_tokenize, deep=deep):
             found[kind].append((l, n, st))
             per[l["rel"]][kind] += 1
 

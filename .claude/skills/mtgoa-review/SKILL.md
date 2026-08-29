@@ -136,8 +136,27 @@ nothing invented about anyone's chest.
 | a third party who really acts | *No one reports back* beats *the signal drops out* |
 | nobody — cut it | a state report with no doer is often a sentence the passage does not need |
 
-**3 · slop.** Run `/no-ai-slop` on the draft. It is a reading rather than a measurement, so no
-instrument can do it. Then **re-run step 2**, because a slop edit changes the numbers.
+**3 · slop.** Run `/no-ai-slop` on the draft. Then **re-run step 2**, because a slop edit
+changes the numbers.
+
+**Half of it is now measured, as of 2026-08-29, and the half that is not is named.** Wendell,
+on the KDP description after this pass reported it clean and he then found six defects in it:
+*"how are our skills not catching this?"* — then *"wire those four instruments into
+review.py."* `review.py` now runs three steps between the counters and the reading:
+
+| step | finds | what it cannot decide |
+|---|---|---|
+| **3a `fragment.py`** | a sentence with no verb, and a headed noun phrase whose only verbs are inside a relative clause — *"The meeting where somebody gets talked over."* | whether the fragment carries a beat or a claim |
+| **3b `antecedent.py`** | a pronoun with no candidate antecedent in the paragraph before it | whether a reader would follow it anyway |
+| **3c `slop_shapes.py`** | ten patterns from `no-ai-slop/SKILL.md` that are a vocabulary list or a fixed shape — banned words, throat-clearing, faux-insight, puffery, weasel attribution, recap endings, negative listing, binary contrasts | whether a two-part contrast is ranking or denying |
+
+**So step 3 is no longer honour-system, and the reading is still the job.** *Beat or claim*,
+*real or manufactured*, and **which person** — the defect none of these caught, from *"the
+meeting where the same person absorbs it again"* — need a reader. See
+`specs/GAP_DRAFT_REVIEW_INSTRUMENTS_2026-08-29.md`.
+
+**Do not report step 3 as done on the strength of 3a to 3c.** Naming a fraction after the
+whole is the failure that produced this whole batch, twice in one day.
 
 **Run it against `eval.md`, not only against the pattern list in its `SKILL.md`.** Added
 2026-08-02, because half of it was skipped. A ch2 draft was audited against the patterns —

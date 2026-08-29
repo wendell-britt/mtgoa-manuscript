@@ -150,10 +150,53 @@ def draft(paths):
         # that: "we've got to solve this definite article issue once and for all. It's the
         # new AI slop issue that our passes are creating faster than we can get rid of
         # them." A finder nobody gates on is how a count sits in canon for weeks.
-        code, out = run([os.path.join(HERE, "empty_head.py"), path])
+        # `--sites` added 2026-08-29, and this is the correction that matters most in
+        # this batch. `the noise of doing the work` — one of the six defects Wendell found
+        # by reading — was NOT missed by the instruments. `empty_head.py` had it as SOFT
+        # site 2 of 8 and this line printed the number 8 over it.
+        #
+        # The number is the wrong output on a draft, and empty_head's own docstring says
+        # why: book-wide SOFT is 283 legitimate sites, because the book is allowed to say
+        # `the work`; on new prose it is the tier that catches a filler noun a repair pass
+        # just reached for. **Same instrument, same tier, opposite meaning.** So the draft
+        # path prints the sites and the book-wide path keeps the count.
+        code, out = run([os.path.join(HERE, "empty_head.py"), path, "--sites"])
         row = [l for l in out.split("\n") if os.path.basename(path)[:14] in l]
         print("  7 head    %s" % (row[0].strip() if row else "no score"))
-        print("  8 slop    run /no-ai-slop by hand, then re-run this")
+        for l in [l for l in out.split("\n") if l.strip().startswith(("HARD", "SOFT"))][:6]:
+            print("      %s" % l.strip()[:96])
+
+        # STEPS 3a TO 3c, added 2026-08-29. Wendell, on the KDP description, which had
+        # been through this whole function and come back `clean` before he read it and
+        # found six defects: "how are our skills not catching this? Make a note that we
+        # need to solve for this."
+        #
+        # The note is `specs/GAP_DRAFT_REVIEW_INSTRUMENTS_2026-08-29.md` and the finding
+        # was that instruments already existed for four of the six -- and none of them
+        # could read a draft. `fragment.py` and `antecedent.py` had no FILE branch, so
+        # they scanned the printed book whatever you passed them; `notstack.py` had no
+        # argv handling at all; `faux_insight.py` is not a detector but a spent one-shot
+        # edit script and cannot be wired into a check without editing the book during it.
+        #
+        # This is the same failure as the two comments above it, for the third and fourth
+        # time: **an instrument that exists, a defect it was built for, and no call site.**
+        # `draft()` did not call the voice linter for four days. `book()` never learned to
+        # parse the diet block. Here, four instruments were never called by anything.
+        #
+        # Ordering: these run after the counters and before the reading, because the
+        # reading is what they are meant to shorten rather than replace.
+        for tag, tool, keep in (("3a frag ", "fragment.py", 2),
+                                ("3b pron ", "antecedent.py", 2),
+                                ("3c slop ", "slop_shapes.py", 3)):
+            code, out = run([os.path.join(HERE, tool), path])
+            rows = [l for l in out.split("\n") if l.startswith(os.path.basename(path)[:22])]
+            print("  %s  %s" % (tag, rows[0].strip() if rows else "no score"))
+            if code:
+                bad += 1
+                for l in [l for l in out.split("\n") if l.startswith("  ")][:keep * 2]:
+                    print("      %s" % l.strip()[:96])
+        print("  8 slop    the reading — 3c ran the vocabulary and the fixed shapes; "
+              "beat-or-claim and real-or-manufactured are still yours")
     return bad
 
 
@@ -204,6 +247,11 @@ def book():
         # after the EA table moved, and index_build.py's own term list still matching a
         # move that had been renamed, which would have dropped the entry on rebuild.
         ("7e xref     ", ["instruments/xref.py"], "reporting only"),
+        # 7f, added 2026-08-29 alongside draft steps 3a-3c. Book-wide this is a board to
+        # work rather than a gate: 44 sites, mostly `BINARY`, which is the shape the book's
+        # own ranking-not-denying constraint produces on purpose. Reports so the standing
+        # count is visible; the draft path is where it does real work.
+        ("7f slop shapes", ["instruments/slop_shapes.py"], "reporting only"),
     ]
     bad = 0
     for label, cmd, want in steps:

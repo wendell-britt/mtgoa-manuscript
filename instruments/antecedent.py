@@ -5,6 +5,27 @@ Pronouns whose antecedent is too far away, or in another paragraph.
     python3 instruments/antecedent.py                  # the board
     python3 instruments/antecedent.py -v               # every site
     python3 instruments/antecedent.py --write FILE     # the full report
+    python3 instruments/antecedent.py DRAFT.md [...]   # draft mode, one row per file
+
+## Draft mode, added 2026-08-29
+
+This file was written on 2026-08-01 because Wendell said *"we are REALLY bad at this 'it'
+thing… this needs to be a pattern to explore the book against."* On 2026-08-29 he caught
+the same defect again, in marketing copy the pass had reported clean — *"the meeting where
+the same person absorbs it again"*, and: **"what person? what is it? We're handwaving
+again."**
+
+**The pattern was explored against the book, exactly as asked, and never against a draft.**
+It had no FILE branch, so it read the manuscript whatever you passed it. See
+`specs/GAP_DRAFT_REVIEW_INSTRUMENTS_2026-08-29.md`.
+
+**One class of hit is louder on a draft than in the book, and it is left in deliberately.**
+A paragraph-opening `This` or `It` pointing at the artifact itself — *"This is a field
+guide"*, *"Skip it if you are looking for a script"* — has no antecedent inside the
+paragraph, so it reports as an orphan. In a chapter the paragraph before it supplies a
+noun; on a 500-word description there is no paragraph before it. **That is a real question
+about copy a reader arrives at cold** — *this* what? — and suppressing the class would also
+hide the handwaves it is here to find. Three glances on a draft is the price.
 
 ## Why this exists
 
@@ -74,6 +95,7 @@ def _load(name, path):
 
 fl = _load("find_line", os.path.join(HERE, "find_line.py"))
 dn = _load("density", os.path.join(HERE, "density.py"))
+dl = _load("draft_lines", os.path.join(HERE, "draft_lines.py"))
 
 SING = {"it", "this", "that"}
 PLUR = {"they", "them", "these", "those"}
@@ -117,6 +139,15 @@ def sites(text, pos_tag, word_tokenize):
             if low in ("this", "that", "these", "those"):
                 if j + 1 < len(tags) and tags[j + 1][1] in DET_NEXT:
                     continue                      # determiner, not pronoun
+            # RELATIVE `that`, excluded 2026-08-29 when draft mode went in. `the books
+            # that explain what is wrong` was being reported as an orphan pronoun on a
+            # draft whose first paragraph had no earlier noun. A `that` sitting between a
+            # noun and a verb is a relative pronoun and its antecedent is the word before
+            # it, which is as close as an antecedent gets. Measured book-wide: 202 sites
+            # down to 194, all eight of them relative clauses that were never findings.
+            if low == "that" and j and tags[j - 1][1] in ("NN", "NNS", "NNP", "NNPS") \
+                    and j + 1 < len(tags) and tags[j + 1][1].startswith(("VB", "MD")):
+                continue
             if low == "it" and EXPLETIVE.match(" ".join(toks[j:j + 8])):
                 continue
             want = NOUN_P if low in PLUR else NOUN_S
@@ -133,6 +164,34 @@ def sites(text, pos_tag, word_tokenize):
     return out
 
 
+def draft(paths, pos_tag, word_tokenize, verbose):
+    """One row per file, then the sites. The shape `review.py` greps for a basename in."""
+    print("pronouns — orphan means no candidate antecedent in the paragraph before it")
+    print("%-22s %8s %8s" % ("file", "orphan", ">%dw" % DISTANCE_LIMIT))
+    print("-" * 40)
+    rows = []
+    for l in dl.prose(dl.surfaces(paths)):
+        for low, s, dist, comp in sites(l["text"], pos_tag, word_tokenize):
+            rows.append((l, low, s, dist))
+    per = defaultdict(lambda: [0, 0])
+    for l, _low, _s, dist in rows:
+        per[os.path.basename(l["rel"])][0 if dist is None else 1] += 1
+    bad = 0
+    for p in paths:
+        n, f = per[os.path.basename(p)]
+        print("%-22s %8d %8d" % (os.path.basename(p)[:22], n, f))
+        bad += n + f
+    if rows:
+        print("")
+        for l, low, s, dist in (rows if verbose else rows[:12]):
+            where = "orphan" if dist is None else "%dw back" % dist
+            print("  %-5s %-9s %s:%d" % (low, where, os.path.basename(l["rel"]), l["line"]))
+            print("      > %s" % " ".join(s.split())[:120])
+        if not verbose and len(rows) > 12:
+            print("  … %d more, run with -v" % (len(rows) - 12))
+    return 1 if bad else 0
+
+
 def main():
     verbose = "-v" in sys.argv
     out = None
@@ -145,6 +204,10 @@ def main():
     if pos_tag is None:
         sys.stderr.write("tagger unavailable\n")
         return 1
+
+    paths = dl.paths_from(sys.argv[1:])
+    if paths:
+        return draft(paths, pos_tag, word_tokenize, verbose)
 
     body = dn.paragraphs(fl.surfaces())
     per = defaultdict(lambda: {"n": 0, "far": [], "crowd": [], "none": []})
