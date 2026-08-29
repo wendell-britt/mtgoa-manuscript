@@ -1,5 +1,5 @@
 # Mastering the Game of Allyship
 
-## *How to Build an Allyship Practice That Lasts*
+## *A Field Guide*
 
 **Wendell Britt**

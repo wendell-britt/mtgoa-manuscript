@@ -18,7 +18,7 @@ source:
 
 # Back cover copy
 
-**160 words.** A 6×9 back cover carrying a barcode holds roughly 150–200 before it stops being
+**168 words.** A 6×9 back cover carrying a barcode holds roughly 150–200 before it stops being
 readable at arm's length in a shop, so this is written to the ceiling rather than trimmed to it.
 
 ---
@@ -29,12 +29,12 @@ of doing the work.
 You have read the books that explain what is wrong. Every one of them points at the problem. Not
 one of them hands you a move.
 
-This is a field guide. It argues that allyship is a game most well-meaning people are losing
-without knowing the rules, and then it teaches the rules: six roles a group needs, five channels
-the feeling runs through, and thirty moves you can practice, each with a test for whether it
-worked.
+This is a field guide. It tells you what you are looking at. Six roles a group runs on, and which
+one you reach for under strain. Five channels a feeling travels, and how to tell which one is
+live. Thirty moves, each with a test for whether it worked.
 
 Burnout here is a design flaw that looks exactly like a character flaw. You can change a design.
+Nobody has ever fixed a machine by apologizing to it.
 
 Wendell Britt built a course on this material in 2020. Under ten percent of the people who started
 it finished. This book is what he rebuilt from that.
@@ -106,19 +106,63 @@ fiction present. Borrowed move — none performed unnamed.
 **Step 7 · empty head** — 0 hard, 0 clause, 3 soft: *the work* twice inside Wendell's own untouched
 sentence, and *a move*, which is canon vocabulary rather than a placeholder.
 
-## One thing to settle before this goes to print
+## The dial pass — Wendell, 2026-08-27: *"+Rao +Wilber +Adams"*
 
-**The subtitle exists in three versions**, open since `HANDOFF_ANNOUNCE_2026-08-10.md` §5:
+**Per `SPEC_HUMOR_PASS_2026-07-31.md` §7, these are two different kinds of dial.** `LIKE RAO` and
+`LIKE WILBER` are **analysis** dials that round-trip into house voice — *"`LIKE WILBER` is never
+an instruction to write like Wilber."* `+ADAMSY` is a **prose** dial, and it stacks at *a touch*.
 
-| surface | says |
-|---|---|
-| the cover | *A Field Guide* |
-| `front_matter/title_page.md:3` | *How to Build an Allyship Practice That Lasts* |
-| the site metadata | neither |
+**LIKE RAO — the coined term was never cashed.** The copy coined **field guide** and then
+described the contents generically. A field guide is a specific instrument: it tells you what you
+are looking at. So the coinage now pays, and the three contents are re-cut as identifications
+rather than as a table of contents — *which one you reach for under strain*, *how to tell which
+one is live*.
 
-**This copy leans on *field guide*, because that is what is printed on the front** and a back
-cover that disagrees with its own front reads as two books. **A retailer listing takes exactly
-one, so the three have to become one.**
+**This also makes the front and back cover do one job between them.** The front coins *A Field
+Guide*; the back cashes it. That is the same move working across the physical object.
+
+**LIKE WILBER — the distinction was inexact.** *"Six roles a group needs"* reads as a checklist,
+and the book's claim is developmental. **The exact version available here is identification rather
+than hierarchy**, which is also the version the concealed architecture requires: the six Faces are
+the integral altitudes and the ladder is deliberately unnamed on the page. Naming the sequence
+would have been the Wilber-flavoured error; naming what the reader can *do* with the six is the
+Wilber-exact one.
+
+**+ADAMSY, a touch — the throwaway last, flat register.** *"Nobody has ever fixed a machine by
+apologizing to it."* A subverted comparison that carries the argument sideways, in the same shape
+as `LOG_FINAL_PROOF` sitting 10's *"It has never described a plant somebody kept warm."* It lands
+on the reader's side rather than at her expense, which is what keeps it inside ch9's humor cells
+of Play and Fondness.
+
+**One defect the dials introduced, caught and fixed.** The first dialled draft read *"so it is
+built for identification"* — `passive` **1.94**, doer hidden. Now *"It tells you what you are
+looking at."* Active, and it cashes the coinage harder than the passive did.
+
+**The dial run improved the counters it was not aimed at**, the same result the previous dial run
+recorded:
+
+| | v1 | v2 |
+|---|---|---|
+| `copula` | 1.32 | **1.01** |
+| `waste` | 1.55 | **1.37** |
+| `be` | 0.99 | **0.95** |
+| `passive` | 0.00 | **0.00** |
+
+`voice` clean · `gate` clean · `zombie`, `expletive`, `empty`, `inchoative` all **0.00** ·
+`head` 0 hard, 0 clause, 3 soft. **168 words.**
+
+## The subtitle — ruled 2026-08-27
+
+**Wendell: *"the subtitle should be A Field Guide everywhere."*** Applied to
+`front_matter/title_page.md:3`, which read *How to Build an Allyship Practice That Lasts*. Gate
+passes and `build_book` reports the spine complete.
+
+**Still to follow, outside this repo:** the Next.js metadata in `bars-engine` uses neither
+version. That is a patch, alongside `0002` and `0003`.
+
+**The built artefacts carry the old subtitle** — `build/MTGOA_TYPESET_2026-08-13.md` and the
+reflow source both have it in the title-page attributes, so **the PDF and EPUB need rebuilding
+before anything ships with the new line.**
 
 **Also still open from that same section:** the cover's tagline, *Stuckness is data, not failure*,
 **appears nowhere in the manuscript.** This copy does not use it. A reader who buys on that line
