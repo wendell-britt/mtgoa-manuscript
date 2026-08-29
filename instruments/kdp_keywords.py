@@ -54,7 +54,13 @@ FIELDS = [
     "emotional labor exhaustion at work",
     "setting boundaries with someone you love",
     "how to help without losing yourself",
-    "people pleasing overfunctioning saying no",
+    # REPLACED 2026-08-29 after the delivery audit. `people pleasing` returns 4 hits in the
+    # manuscript and both are incidental -- a Vulnerable Child line and a quoted subtext --
+    # and `overfunctioning` returns 0, with no synonym: `doing too much` 0, `overcommit` 0.
+    # Two of three words named material the book does not have. Meanwhile `repair` returns
+    # 84, `trust` 53, `conflict` 31 and `apology` 19, and ch7:726 is a named, ordered
+    # structure for repair that nothing in the seven fields pointed at.
+    "rebuilding trust after conflict apology",
     "anger sadness fear joy self regulation",
     "dei inclusion facilitation group dynamics",
 ]

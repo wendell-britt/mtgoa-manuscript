@@ -12,11 +12,11 @@ Amazon.
 | 2 | `emotional labor exhaustion at work` | 34 | ok |
 | 3 | `setting boundaries with someone you love` | 40 | ok |
 | 4 | `how to help without losing yourself` | 35 | ok |
-| 5 | `people pleasing overfunctioning saying no` | 41 | ok |
+| 5 | `rebuilding trust after conflict apology` | 39 | ok |
 | 6 | `anger sadness fear joy self regulation` | 38 | ok |
 | 7 | `dei inclusion facilitation group dynamics` | 41 | ok |
 
-**7 field(s), 271 bytes of 350, every rule passes.**
+**7 field(s), 269 bytes of 350, every rule passes.**
 
 ## Pass 1 — does anybody type this
 
@@ -30,7 +30,7 @@ Keep the phrase only if Amazon completes it or something close to it.
 | `emotional labor exhaustion at work` | **emotional labor exhaustion** | [search](https://www.amazon.com/s?i=stripbooks&k=emotional+labor+exhaustion) |
 | `setting boundaries with someone you love` | **setting boundaries with** | [search](https://www.amazon.com/s?i=stripbooks&k=setting+boundaries+with) |
 | `how to help without losing yourself` | **how to help** | [search](https://www.amazon.com/s?i=stripbooks&k=how+to+help) |
-| `people pleasing overfunctioning saying no` | **people pleasing overfunctioning** | [search](https://www.amazon.com/s?i=stripbooks&k=people+pleasing+overfunctioning) |
+| `rebuilding trust after conflict apology` | **rebuilding trust after** | [search](https://www.amazon.com/s?i=stripbooks&k=rebuilding+trust+after) |
 | `anger sadness fear joy self regulation` | **anger sadness fear** | [search](https://www.amazon.com/s?i=stripbooks&k=anger+sadness+fear) |
 | `dei inclusion facilitation group dynamics` | **dei inclusion facilitation** | [search](https://www.amazon.com/s?i=stripbooks&k=dei+inclusion+facilitation) |
 

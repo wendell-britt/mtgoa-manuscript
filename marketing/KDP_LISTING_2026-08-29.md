@@ -58,7 +58,7 @@ This is for the person still showing up and running out of road. It will not tel
 
 Skip it if you are looking for a script.
 
-## The same thing with KDP's HTML
+## The same copy with KDP's HTML
 
 **KDP accepts a small tag set and strips everything else.** Bold and lists survive, so the five
 specifics become scannable, which is the whole reason to use markup at all — **a browser scanning
@@ -97,14 +97,31 @@ autocomplete and replace whatever does not complete.** Spaces, not commas. Nothi
 title.
 
 ```
-1  compassion fatigue helper burnout
-2  boundaries for people who care too much
-3  emotional labor exhaustion recovery
-4  activist burnout sustainable practice
-5  how to help without burning out
-6  shadow work self awareness practice
-7  workplace inclusion practical guide
+1  compassion fatigue helper burnout recovery
+2  emotional labor exhaustion at work
+3  setting boundaries with someone you love
+4  how to help without losing yourself
+5  rebuilding trust after conflict apology
+6  anger sadness fear joy self regulation
+7  dei inclusion facilitation group dynamics
 ```
+
+**269 bytes of 350, every mechanical rule checked** by `instruments/kdp_keywords.py` — 50
+bytes per field not 50 characters, ASCII only, no commas, nothing already in the title or
+the author name, no word repeated across the seven, and no prohibited term.
+
+**Field 5 was replaced after a delivery audit against the manuscript.** *"people pleasing
+overfunctioning saying no"* named two concepts the book does not have: `people pleasing`
+returns 4 incidental hits and `overfunctioning` returns 0, with no synonym behind it.
+**A keyword may use the reader's vocabulary rather than the book's, but it has to name
+something the book delivers** — and *compassion fatigue* (0 in the text, the whole premise
+in substance) passes that test where *overfunctioning* does not. The replacement points at
+ch7:726's named structure for repair: `repair` 84, `trust` 53, `conflict` 31, `apology` 19,
+and nothing in the seven fields had been aimed at it.
+
+**Validation is `marketing/RESEARCH_KEYWORD_VALIDATION_2026-08-29.md`.** Two passes at two
+times, both free, neither runnable from this session — every Amazon host is 403 at the
+egress proxy.
 
 **Categories: pick for the exhausted helper, not the corporate buyer.** Same reasoning as §3 of the
 analysis — the L&D buyer arrives through `/speaking`, which is built and priced for them.
@@ -147,7 +164,7 @@ full pass. They go in the wrap, not in KDP's fields.
 
 **Step 0 · ELI5 first.** *You keep helping people and it keeps wearing you out. This book says the
 problem is not that you care wrong, it is that nobody taught you the moves. It names six ways of
-helping, shows which one you reach for under pressure, and gives you thirty things to actually do.*
+helping, shows which one you reach for under pressure, and gives you thirty moves to actually make.*
 The register version adds the specifics and the credential and nothing else.
 
 **Three real defects, found and fixed.**
@@ -174,7 +191,7 @@ the domains was better copy anyway.
 `eval.md`'s fabrication check and labelled it *"Step 3 · slop, by hand"*. That check is one item of
 one file inside a step that is a whole reading. **Naming a fraction after the whole is the same
 move as calling `gate` plus `diet` "the pass"**, which is the failure this project already has a
-standing rule about. Run properly, `/no-ai-slop` found three things.
+standing rule about. Run properly, `/no-ai-slop` found three defects.
 
 **1 · A reader-history assertion — fixed.** *"Nobody ever handed you the moves."*
 `MANUSCRIPT_FILE_CANON:154` forbids narrating the reader's unnamed history back to her as fact, and
