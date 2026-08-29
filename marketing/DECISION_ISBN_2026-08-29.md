@@ -35,7 +35,7 @@ route is a new edition, which is a new listing that starts at zero reviews and z
 **You can change it freely while the book is in Draft.** And **proof copies can be ordered
 from Draft status**, and they print marked *Not For Resale*.
 
-**So the proof does not depend on the ISBN decision at all.** The two things that felt
+**So the proof does not depend on the ISBN decision at all.** The two decisions that felt
 coupled are not. Take the free one, order the proof today, and the real decision stays open
 until the moment you click Publish.
 
@@ -57,7 +57,7 @@ second source and no legitimate discount market.
 **Take the free KDP ISBN today. Buy the block of ten before you publish.**
 
 **Why the free one today.** It is reversible while the book is in Draft, it costs nothing,
-and it removes the last thing standing between you and a proof copy in the post. Nothing
+and it removes the last item standing between you and a proof copy in the post. Nothing
 about the proof is affected — it prints *Not For Resale* regardless.
 
 **Why ten rather than one.** The obligations already on the books need more than one ISBN:
@@ -82,7 +82,7 @@ anything.
 
 **Do not buy a $99 or $110 "ISBN" from a reseller.** They exist and they are cheaper than
 Bowker, and the reason is that they come out of somebody else's block — which means **that
-company stays the publisher of record in Books In Print forever.** That is the exact thing
+company stays the publisher of record in Books In Print forever.** That is precisely what
 you are paying $125 to avoid, so a cheaper one is not a cheaper version of the same product.
 
 **If the price is the problem, the way out is the free KDP ISBN and a bought one later**,
@@ -91,7 +91,7 @@ trade edition published under yours are **legitimately two products with two ISB
 standard assigns by publisher and product form, and those differ. Untidy, entirely allowed,
 and it defers the whole cost.
 
-## One thing this creates, and it is small
+## One task this creates, and it is small
 
 **The interior has no ISBN on the copyright page.** `SPEC_PRINT_READINESS_2026-07-29.md` B3:
 *"ISBN lines absent by decision — none assigned."* That was correct when nothing was
@@ -108,7 +108,7 @@ between the proof arriving and the print run going out.
 at the egress proxy, and I read none of these pages directly. Prices and mechanics come from
 search-result extracts across several independent publishing sources.
 
-**Two things to confirm in the browser before spending:**
+**Two claims to confirm in the browser before spending:**
 
 - **The $125 and $295 prices**, on `myidentifiers.com` directly. They are consistent across
   sources but Bowker has raised them before.
