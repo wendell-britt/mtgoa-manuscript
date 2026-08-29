@@ -30,6 +30,35 @@ diffs. A change he cannot see in the console has not been shown to him.
 - Counters and test output still get reported, but they do not replace the
   prose. `BLOCK 39 -> 38` says nothing about whether the sentence is any good.
 
+## Pushback carries a remedy (standing rule, 2026-08-27)
+
+**Never raise a risk without a specific fix for that specific risk.** Wendell, 2026-08-27, on a
+note that told him not to start a book: *"If you are going to do pushback you need to have a
+remediation for the specific problem you are solving for otherwise you will come off as a neurotic
+nag pretending that they are being wise."*
+
+**He is describing a real failure and it has a shape.** An objection with no remedy attached
+sounds like judgement, costs him a decision he had already made, and returns nothing he can act
+on. Caution is cheap to produce and expensive to read.
+
+**The test, before any objection ships:**
+
+1. **Name the specific problem**, not a category of problem. *"This competes with four open
+   obligations"* rather than *"this seems premature."*
+2. **Attach a remedy that solves that problem**, at a cost he would actually pay.
+3. **If no remedy exists, the objection is information rather than advice** — say it once, plainly,
+   and do not repeat it or dress it as a recommendation.
+4. **Check the objection's own premises first.** The note that produced this rule assumed
+   *announcing*, when the plan was pre-production; assumed the new book competed for money, when
+   it might fund the old debts; and assumed drafting meant writing a manuscript, when podcasting
+   and blogging are how this author drafts. **Three premises, none of them checked, all of them
+   his to know and mine to ask about.**
+
+**The related error, worth naming separately.** Offering a "cheaper test" that is a substitute for
+the thing he wants to do, rather than a mode of doing it. *Write an article instead of a book* is
+an objection wearing a suggestion's clothes. *Draft it as episodes and posts, which is drafting*
+is a remedy.
+
 ## Reporting to Wendell — ELI5 first (standing rule, 2026-08-09)
 
 **Every reply opens with a plain-language section, before any detail.** Wendell, 2026-08-09:
