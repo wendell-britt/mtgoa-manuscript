@@ -37,9 +37,31 @@ when it gets written, per the standing rule.
 | **Repeats** | Amazon concatenates all seven fields into one index. **A word needs to appear once, and never if it is already in the title** |
 
 **The single most actionable line in all of that, for this book:** *allyship*, *game*, *mastering*
-and *field guide* are **already in the title and subtitle**, so they are already indexed. **Every
-byte spent re-typing them in the keyword fields is wasted**, and the temptation to lead with them
-is strong precisely because they are the words the book is about.
+and *field guide* are **already in the title and subtitle**. The keyword fields are better spent
+elsewhere, and the temptation to lead with them is strong precisely because they are the words the
+book is about.
+
+### Correction, 2026-08-27 — Wendell asked me to confirm this rather than trust it
+
+**He was right to ask, and I had overstated it.** The first version of this line read *"they are
+already indexed. **Every byte spent re-typing them in the keyword fields is wasted.**"* Stated as
+mechanism. It is not mechanism.
+
+**What actually holds up:**
+
+- **Amazon's own guidance does advise against using information already covered in your metadata**,
+  the title and contributors included. That part is real and it is Amazon's, not a blogger's.
+- **The reasoning is efficiency, not indexing.** You do not *need* the slot, so it is better spent
+  on a phrase the title does not already carry.
+- **Authors are not penalised for repeating a title word.** It is a recommended practice rather
+  than a rule, and nothing breaks if you ignore it.
+
+**So the advice survives and the certainty does not.** *Better spent elsewhere* is supportable;
+*every byte is wasted* implies a mechanical penalty that no source establishes.
+
+**And I could not read the primary source.** `kdp.amazon.com` is blocked by this environment's
+egress proxy, so this is Amazon's guidance **as reported by publishing-industry sources**, not as
+read off Amazon's own help page. **Check the live page before committing the seven fields.**
 
 ## 2 · Browse and search are two different people arriving
 
@@ -134,6 +156,37 @@ they are how browsers travel. **The book has two plausible homes and they lead t
 readers** — the DEI/social-change shelf, where the corporate buyer browses, and the
 self-help/burnout shelf, where the ICA browses. **Pick for the ICA**, for the same reason as §3,
 and accept a smaller, winnable list over a larger one nobody in your audience walks down.
+
+## 5a · Doing the keyword research for free
+
+**Wendell, 2026-08-27:** *"lets do research on how people are using AI for free on this. Look for
+open source tooling or any sort of free guide."*
+
+**The finding that makes this cheap: most paid tools are a wrapper around a free endpoint.** They
+query **Amazon's own autocomplete**, present the results in a nicer interface, and charge for the
+presentation. The endpoint is the same one the search box uses.
+
+| approach | cost | what it gives |
+|---|---|---|
+| **Amazon's search box, directly** | free | Type a seed phrase and read the dropdown. It is the actual demand signal, and it is the input the paid tools resell |
+| **The alphabet-soup method** | free | Type the seed, then a space, then each letter in turn — *helper burnout a*, *helper burnout b* — and harvest what Amazon completes. Indie authors have run this since about 2015 |
+| **`KDP Scout`** | free, open source | A command-line tool that mines Amazon autocomplete and expands seed phrases into hundreds of long-tail variants. **The same data, without the markup** |
+| **AMZ Suggestion Expander** | free Chrome extension | Surfaces the expanded dropdown inline while you search |
+| **Publisher Rocket** | ~$97 one-off | Adds estimated competition and volume figures on top of the same autocomplete base |
+
+**On using an LLM for this, including me.** Dave Chesson's objection is the correct one and it
+applies directly to §5 of this document: **a language model has no Amazon search-volume data**, so
+when it proposes phrases it is pattern-matching rather than measuring. **That is exactly what the
+seven candidate groupings in §5 are** — ideation, generated from the ICA, and worth nothing until
+Amazon's autocomplete confirms a real person types them.
+
+**So the honest division of labour is: the model proposes, the autocomplete disposes.** Take the
+seven groupings, type each into Amazon's search box, and keep only what the dropdown actually
+completes. **That costs an hour and no money**, and it converts every phrase in this document from
+inference into evidence.
+
+**Buy Publisher Rocket only if competition numbers change a decision.** For seven fields on one
+book, the free path reaches the same place.
 
 ## 6 · What I could not check, and it is a real gap
 
