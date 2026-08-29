@@ -32,9 +32,10 @@ jacket bio that introduces facts the back-matter page does not have is two autho
 ---
 
 Wendell Britt spent fifteen years in customer service at Apple, Airbnb and T-Mobile, which is
-where he learned allyship. He has been the meddling kid trying to fix institutions that never
-asked him to, and now does it on purpose and with permission. He also wrote *Igniting Joy*, on
-anger. Organizations hire him to name the game they are playing, and a few of them stop.
+where he learned allyship, mostly from people who were furious at him. He has been the meddling
+kid trying to fix institutions that never asked him to, and now does it on purpose and with
+permission. He also wrote *Igniting Joy*, on anger. Organizations hire him to name the game they
+are playing.
 
 **masteringallyship.com**
 
@@ -115,16 +116,28 @@ author is the one being paid either way.
 sub-ten-percent completion rate can say *a few of them stop* without it reading as a confession.
 It reads as somebody who counts.
 
-**One move only.** The strongest runner-up was on the opening clause — *"which is where he learned
-allyship, mostly from people who were furious at him"* — which is true, sets up *Igniting Joy*,
-and is genuinely funny. **It is held back because `+ADAMSY` stacks at *a touch*.** Three funny
-beats in sixty-seven words, with the meddling kid already carrying a Scooby-Doo echo, stops being
-a bio and becomes a bit. **The exit is the right place to spend the one move**, because it is what
-the reader carries away.
+### The move went to the opening instead — ruled 2026-08-27
+
+**Wendell: *"the furious line really hits. Meddling kid and people being furious is kind of my
+brand."*** So the one ADAMSY move sits on the first sentence — *"which is where he learned
+allyship, mostly from people who were furious at him"* — and the closer goes back to plain: *"
+Organizations hire him to name the game they are playing."*
+
+**His reason is better than my placement rule was.** I had reasoned from where a laugh lands
+hardest in the abstract, which is the exit. He reasoned from **what the two funny beats are
+already doing together**: the meddling kid and the furious customers are one character, not two
+jokes. A brand is a repeated shape, and those two repeat it.
+
+**It also earns something the closer version could not.** *Furious* sets up *Igniting Joy, on
+anger* two sentences later, so the joke doubles as the reason the second book exists. That is the
+LIKE RAO test passed by accident — a term coined early and cashed late.
+
+**And the plain closer is now doing its own job properly.** *"Organizations hire him to name the
+game they are playing"* is active, natural, and states the offer without a pitch. It stopped
+needing to be funny the moment the bio had already been funny.
 
 **Measured.** `voice` clean · `gate` clean · `head` 0/0/0 · `copula`, `zombie`, `expletive`,
-`passive`, `empty`, `inchoative` all **0.00** · `be` 0.89 · `waste` 0.53, just inside its floor.
-67 words.
+`passive`, `empty`, `inchoative` all **0.00** · `be` 1.15 · `waste` 0.51. **69 words.**
 
 ## One variant worth having
 
