@@ -104,7 +104,7 @@ From the book's revision instrument. These are not stylistic options.
 | **Ranking, not denying** | a negation is legal only if the negated claim is still true when the sentence ends |
 | **Mechanism visible** | simple language for the promise, exact language for the mechanism |
 | **No Orange substrate** | no urgency, scarcity, achievement or attention-anxiety as the engine. No countdown timers, no "only 3 left", no manufactured FOMO. This is the one that most marketing copy fails, and it fails the book's whole argument at the same time. |
-| **Beat placement** | fragments carry beats, never claims, and only in landing position |
+| **Complete sentences** | every sentence has a subject and a finite verb. **No fragments, and no cadence argument for one.** Revoked 2026-09-01: the rule used to permit a fragment that carried a *beat*, and an exception clause gets used as a licence — prose bends toward sounding rhythmic in order to qualify for it. `voice_lint.py` checks this as a HARD rule now that there is nothing to argue about. |
 | **Assert capacities, not pathologies** | *You are the one who moves* is a claim the work has earned. *You know the loop* claims she has a recurring private failure, which nothing has earned. |
 
 **The characteristic failure of any repair pass**, and it is worse than the defect it

@@ -19,7 +19,7 @@ leaving them behind. *Ch 8; Ch 5 §4 for the Regent's; the rule is Ken Wilber's*
 changed, so nobody has to be brave twice. Works in logic, and reads a situation as a
 system that is producing exactly what it was built to produce. *Ch 6*
 
-**BAR** — Breakthrough, Action, Reflection. Game tape, not journaling. You run one right
+**BAR** — it stands for Breakthrough, Action, Reflection, and it is game tape rather than journaling. You run one right
 after a hard moment, while the feeling is still close enough to name. *Ch 2 §9*
 
 **Campaign** — A run of quests pointed at one goal, over a stretch of time. A quest is
@@ -94,7 +94,7 @@ settled. As a demon it fixes people who never asked. *Ch 2 §6*
 Where you meet the parts that have been running the show, and where you get back to the
 center. *Ch 2 §3*
 
-**Game Master** — You. You have been running your own allyship campaign for years, whether
+**Game Master** — that is you. You have been running your own allyship campaign for years, whether
 you named it or not. The move the book builds toward is taking the seat on purpose. *Ch 1*
 
 **Infinite Arcade, the** — The floor the whole book is set on: allyship as a game already
