@@ -40,7 +40,7 @@ warm indoor light hides a colour cast on the cover.
 | inside margin | **0.95 in** — KDP requires **0.625 in** at 301–500 pages, so there is **0.325 in of headroom** |
 | outside · top · bottom | 0.70 · 0.85 · 0.90 in |
 | body | justified, hyphenation on, `runt` cost raised to 400% |
-| components | **30**, front matter through the index |
+| components | **28**, front matter through the index |
 
 **The margin headroom is the most reassuring number here.** The single most common reason a
 proof comes back wrong is a gutter that swallows text at high page counts, and this interior
@@ -106,14 +106,12 @@ the usual disaster with a marginalia-heavy book and this design does not have it
 hand.** `build_pdf.py` reads a verification record the template writes into the document and
 confirms **every chapter and appendix opened on a recto**, that **the copyright page landed
 on a verso** where it backs the title page, and that **the folio sequence is unbroken** —
-roman through the front matter, arabic from Chapter 1. Twenty-eight of the thirty components
-force a recto in the template; the half title and the copyright page are the two deliberate
-exceptions.
+roman through the front matter, arabic from Chapter 1. Every component except the half title and the
+copyright page forces a recto in the template, and those two are deliberate exceptions.
 
 **So spot-check, do not audit.** Thumb to three openers — Chapter 1, Chapter 7, Appendix A —
 and confirm each is on a right-hand page. **You are testing that the printed object matches
-the verified PDF**, not re-deriving the verification. If those three are right, all
-twenty-eight are.
+the verified PDF**, not re-deriving the verification. If those three are right, the rest are.
 
 **Two structural faults the build cannot see, and these are worth real attention:**
 
