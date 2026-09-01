@@ -467,7 +467,7 @@ You do not need to score the move. You need to tell the truth about what it did 
 ### The Shaman's Superpower: Knowing Which Move to Make
 
 <!-- MARGINALIA -->
-> *The first time I named a charge out loud in a company that had agreed not to, I got it wrong. Badly
+> *The first time I named a charge out loud in a company that had agreed not to, I got it wrong, and badly
 > wrong. I named grief and it was rage, and I was corrected at some volume in front of eleven
 > people.*
 >
@@ -495,7 +495,7 @@ The Five-Move Form is not just a thinking exercise. Your body should know you're
 
 **Open Up:** The muffling drops. What was faint gets closer and more distinct.
 
-**Clean Up:** Not relief yet, but *recognition*. Your body says "yes, I feel this, and now I'm looking at it clearly."
+**Clean Up:** it is not relief yet, but *recognition*. Your body says "yes, I feel this, and now I'm looking at it clearly."
 
 **Grow Up:** Your breathing deepens. Your system says "I understand. The message landed."
 

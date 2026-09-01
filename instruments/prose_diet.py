@@ -284,7 +284,11 @@ REGISTERS = {
     # 10,000-word file, so a file-level exception fires on the draft and never on ch5.md.
     "ch5.md": {
         "blocks": [{
-            "start": "**Clause four.**",
+            # Was "**Clause four.**" until 2026-09-01. The fragment ban reached the
+            # manuscript on Wendell's ruling and the charter's run-in labels took the colon
+            # fix, so the anchor moved with the text it points at. The anchor is a pointer,
+            # not an exemption — what it guards is unchanged.
+            "start": "**Clause four:**",
             "end": "It records no case of a keeper who stopped attempting it either.",
             # RATCHET, ruled by Wendell 2026-07-31. Each ceiling is the measured value of
             # the passage as it stands, on the em-dash budget's rule: it may be lowered when

@@ -124,13 +124,13 @@ its structure to protect itself, and has drawn the correct conclusion about that
 wrong conclusion about structure. Roles are refused on principle. The refusal is entered in the
 minutes as a value. Nothing is entered after it, which is the observation.
 
-There is a second note. Three crises are typical and their shapes are stable enough to record. At the
+Second note: three crises are typical and their shapes are stable enough to record. At the
 first the body adapts, and the adaptation is cited afterward as proof that no structure was
 needed. At the second it closes ranks. At the third its members are found arguing the first
 crisis again from new positions, with no record of what the first argument had been for,
 because nobody was charged with keeping one.
 
-There is a third note. Members who could name the pattern in advance are present in most cases. The
+Third note: members who could name the pattern in advance are present in most cases. The
 register carries their accounts. They report having said something careful, and having said
 less than they knew, on the ground that the whole of it would have been heard as an
 application for the crown. Merrow filed these accounts under *insufficient courage.* They are
@@ -209,7 +209,7 @@ Clause nine reads: a promise made by the dead is kept until the last person it p
 
 Note. The clause as written permits the review. The clause as kept forbade it, and had forbidden it since Merrow, whose reasoning survives in the margin here in his own hand and is wrong. I conducted the review. Which promise it was is not recorded and will not be.
 
-There is a second note. Two households withdrew from the practice. One has not returned. The practice that replaced it has run forty years and the other household sends its children to it.
+Second note: two households withdrew from the practice. One has not returned. The practice that replaced it has run forty years and the other household sends its children to it.
 
 Third note, added this year. I can pass an inheritance intact and named, which is the whole of what this school claims. I have not learned to hand one to somebody who will change it without entering the change as damage, and my own ledgers are the reason that is hard.
 

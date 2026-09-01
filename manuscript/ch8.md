@@ -41,7 +41,7 @@
 > send, and the sending is the entire curriculum. All five take our referrals and Sera is dry
 > about ours in particular.
 >
-> **5. Entry:** standing at all five. There is no way to shorten this and we are asked every
+> **5. Entry:** we require standing at all five. There is no way to shorten this and we are asked every
 > year.
 >
 > **6. A word from the Head:** I have read all five schools for thirty years and nobody has
@@ -231,9 +231,7 @@ That's the Sage. Not a new game above the others. A meta-view of all of them: th
 
 This is the Vulnerable Child's gift, held all the way up. The child who wanted to be in the game and see the game. Who wanted to belong and see. Who refused to choose between presence and perspective.
 
-The Sage doesn't get this by leaving. The Sage gets this by staying: by seeing everything and then choosing, while holding the larger view. The Sage can be in the power game and know it. Can be in the strategy game and see it. Can hold the whole-board view and come back down into the harmony game without losing it.
-
-Not *instead of* choosing. *Along with* choosing.
+The Sage doesn't get this by leaving. The Sage gets this by staying: by seeing everything and then choosing, while holding the larger view. The Sage can be in the power game and know it. Can be in the strategy game and see it. Can hold the whole-board view and come back down into the harmony game without losing it, not *instead of* choosing but *along with* it.
 
 ### *What the Watcher Kept: The Gift and the Limit of Each One*
 
@@ -380,7 +378,7 @@ Underneath the Diagnostician's first failure is flatness. Not sadness about what
 
 Flat sight feels like objectivity and amounts to the Neutral channel stuck. The tell is that the naming costs you nothing. Real diagnosis has a temperature to it, because you name something that matters to you about people you intend to stay with.
 
-The alchemy: you notice the flatness, you name it (*I have gone unstaked, and unstaked naming reads as verdict*) and you let the numbness resolve into actual stillness. Those two differ enormously. Numbness has nothing underneath it. Stillness has everything underneath it and isn't moving. The peace is what makes precision survivable for the person receiving it: *this is what I see, this is where we are, and I'm staying.*
+The alchemy: you notice the flatness, you name it (*I have gone unstaked, and unstaked naming reads as verdict*) and you let the numbness resolve into actual stillness. The difference between them is enormous. Numbness has nothing underneath it. Stillness has everything underneath it and isn't moving. The peace is what makes precision survivable for the person receiving it: *this is what I see, this is where we are, and I'm staying.*
 
 ---
 **Alchemy Move 4: Liberator**  
@@ -603,7 +601,7 @@ You drew the Which Game ↔ Which Altitude axis in Section 4. The Damaged Self s
 
 The Damaged Self does not argue about the game. It argues about the instrument, and an argument about the instrument looks like the most rigorous move available. *Before I read this situation, I should account for how my own wiring distorts the read.* That sentence is correct. It also serves as the entry point, because nothing ends it naturally. You can check every read one more time against the possibility that you're the problem, and the checking feels like exactly the discipline you have been building.
 
-The collapse runs like this. A real altitude read asks what a person can currently hold, and it applies to you as much as to anyone. The Damaged Self takes that legitimate self-read and converts it into a standing verdict: not *I can hold this much right now* but *I am the wrong size for this permanently.* Then it uses the verdict to answer game questions. Which game is this? Doesn't matter, I'm not calibrated for it. Should I name the line? Not from a broken instrument, no. The vertical question has eaten the horizontal one, and the eating happened in the name of accuracy.
+The collapse runs like this. A real altitude read asks what a person can currently hold, and it applies to you as much as to anyone. The Damaged Self takes that legitimate self-read and converts it into a standing verdict: not *I can hold this much right now* but *I am the wrong size for this permanently.* Then it uses the verdict to answer game questions. Which game is this? Doesn't matter, I'm not calibrated for it. Should I name the line? It cannot come from a broken instrument. The vertical question has eaten the horizontal one, and the eating happened in the name of accuracy.
 
 The tell is never the content of the self-assessment. Self-assessments should feel uncomfortable. The tell is whether anything downstream of one ever gets done. A self-read that has ended four consecutive situations with a decision to work on yourself first has stopped being a read and started being a jurisdiction. Look at the sequence, not the verdict, that is where the pattern shows.
 
@@ -648,7 +646,7 @@ The kit does have a logic. Seeing without naming is silence. Naming without swit
 
 ### Move 1: Name the Game
 
-**What it is:** Before you enter a conversation, a meeting, a conflict, name the game. Power, strategy, harmony, whole-board. Name it out loud or inside. The naming is the first move and the first freedom.
+**What it is:** Before you enter a conversation, a meeting, a conflict, name the game as power, strategy, harmony, whole-board. Name it out loud or inside. The naming is the first move and the first freedom.
 
 You pause at the door. You take one breath. You ask: *which game are we actually in, and what game is being played underneath the one we're talking about?*
 

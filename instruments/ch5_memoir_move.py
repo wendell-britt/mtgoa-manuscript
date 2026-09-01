@@ -58,7 +58,9 @@ def main():
     for name, s in (("START", START), ("END", END), ("SECTION4", SECTION4)):
         if t.count(s) != 1:
             raise SystemExit("%s anchor matched %d times, expected 1" % (name, t.count(s)))
-    if "Clause four." in t:
+    # "Clause four." became "Clause four:" on 2026-09-01 when the fragment ban reached
+    # the manuscript. Both spellings mean the register is seated.
+    if "Clause four." in t or "Clause four:" in t:
         raise SystemExit("the register is already seated")
 
     i = t.find(START)

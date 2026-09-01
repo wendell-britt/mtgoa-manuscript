@@ -666,7 +666,7 @@ In practice: before the conversation, finish one of two sentences out loud. *A l
 
 In practice: list five moments from the last month where a line was available. Four words each, no explanation. Then read the five together and say what they are all about.
 
-**Take an example.** *Manager rewrote my summary. Colleague took the client call. Teammate presented my slide. Nobody credited the doc. My name came off the deck.* Five ordinary irritations, four of which you let go. Together they have one subject, which is attribution, the record of who did what. Knowing that changes the next month twice. It tells you which fights are yours, and it tells you the four you swallowed were all the same fight.
+**Take an example:** *manager rewrote my summary. Colleague took the client call. Teammate presented my slide. Nobody credited the doc. My name came off the deck.* Five ordinary irritations, four of which you let go. Together they have one subject, which is attribution, the record of who did what. Knowing that changes the next month twice. It tells you which fights are yours, and it tells you the four you swallowed were all the same fight.
 
 **The test:** You can name the subject in one noun, and it surprises you a little. A subject you already knew is the story you tell about yourself rather than the pattern underneath it. If five moments give you five subjects, collect more moments instead of reaching for a tidier answer.
 
