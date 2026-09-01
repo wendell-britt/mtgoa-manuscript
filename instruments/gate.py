@@ -114,7 +114,7 @@ post prefer prepare propose prove pull push put repeat
 quote raise reach read realize record refuse remember remind remove repair repeat
 replace return
 reply return run save say see seek send serve set settle show sit skip solve sort
-speak spend split stand start state stay stop suppose switch
+sound speak spend split stand start state stay stop suppose switch
 plan prepare protect publish reach share simulate sort state store take talk tell
 test think throw track treat try turn expect
 use wait walk want watch weigh work write""".split())
