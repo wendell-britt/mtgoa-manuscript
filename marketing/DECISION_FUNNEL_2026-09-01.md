@@ -92,20 +92,38 @@ book answers a question the reader never asked. It has the shape of an annual re
 onto the last page, and it changes register at the worst possible moment — somebody has just
 finished 387 pages and the last page they read should not be a budget.
 
-**What is being traded is his own P-4**, so it is worth saying out loud rather than dropping
-without comment: *"Say what the money does. Pay-what-feels-right only works when the reader knows
-what they are funding."*
+### The principle I leaned on is false, and it is not his — corrected 2026-09-01
 
-**P-4 survives, because it was conflating two different questions.**
+**Wendell:** *"'pay-what-feels-right only works when the reader knows what they are funding.'
+I didn't write this and I don't agree with it. It doesn't make any sense."*
 
-| the question | who asks it | where it belongs |
-|---|---|---|
-| **where does the money go** | a backer, an auditor, a volunteer | the Kickstarter updates, and the backers page the book already carries |
-| **what does paying make possible** | the reader deciding right now | the closing block, in one sentence |
+**Two errors, and the second is worse than the first.**
 
-**The second is the offer rather than a disclosure, and the funnel already answers it:
-paying unlocks the course.** Concrete, checkable, and something the reader receives. That
-satisfies what P-4 was protecting without printing a ledger.
+**1 · I attributed it to him.** The line is P-4 at `SPEC_PDF_2.0_2026-08-31.md:88`, in the
+document he handed me, and I called it *"his own P-4"* and *"yours."* **A pasted document is
+not line-by-line authored by the person pasting it**, and I had no basis for that inference.
+The spec's shape — numbered FR/NFR/EC tiers, a sources list — reads like something drafted
+with assistance, which is exactly the case where authorship should be asked rather than
+assumed.
+
+**2 · I rescued it instead of testing it.** My previous version said *"P-4 survives, because
+it was conflating two different questions"* and then reinterpreted it into something true.
+**That is the move where a stated principle gets preserved by rewriting what it meant**, and
+it is worse than accepting a bad principle, because it launders one.
+
+**Tested, it is false.** *Only works when* is an absolute, and the counter-examples are
+everywhere: buskers, tip jars, Bandcamp, itch.io, *In Rainbows*. **None of them tell you what
+the money funds and all of them work.** People pay what feels right because they valued what
+they got, not because they were briefed on its budget.
+
+**What is narrowly true is a different claim.** Naming a use can raise average giving in
+*charitable* contexts, which is a literature about donations rather than about paying for a
+product you already have. **It can also lower it**, by converting a gift into a transaction
+the payer starts auditing.
+
+**The outcome does not change and his original reason was the better one all along.** Cut the
+funding statement because no trade book carries one and the reader never asked — not because
+of a two-questions distinction propping up a principle that should have been struck.
 
 **The accountability version already has a home, too.** `back_matter/kickstarter_backers.md`
 is in the book, and the updates carry the money story to the people who are owed it. **The
