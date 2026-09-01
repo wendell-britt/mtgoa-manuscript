@@ -374,11 +374,11 @@ Here is the Challenger's 30-second protocol:
 
 First, *feel the charge.* Don't suppress it. Let it arrive, the heat, the tightening. This is information. It tells you that something just mattered.
 
-Second, *aim.* Ask yourself: what line did that cross? Not the story you could tell about why this person is wrong, but the actual line. *That community deserves to be spoken about with accuracy.* That's the line.
+Second comes *aim.* Ask yourself: what line did that cross? Not the story you could tell about why this person is wrong, but the actual line. *That community deserves to be spoken about with accuracy.* That's the line.
 
-Third, *act.* Name it plainly. *"That framing isn't accurate. X community has specifically raised this concern and the data shows Y."* One sentence, and no essay. State and hold.
+Third comes *act.* Name it plainly. *"That framing isn't accurate. X community has specifically raised this concern and the data shows Y."* One sentence, and no essay. State and hold.
 
-Fourth, *exit.* Don't wait for their response. Move on with the meeting. You do not need them to agree. You needed the line to exist. It now exists.
+Fourth comes *exit.* Don't wait for their response. Move on with the meeting. You do not need them to agree. You needed the line to exist. It now exists.
 
 Total time: thirty seconds.
 
@@ -392,11 +392,11 @@ Most people either say nothing and resent the person for weeks, or say too much 
 
 Someone has crossed your line before. You drew it clearly. They crossed it again.
 
-This is the moment for the Reckoning. Not anger: *consequence.* You state the line again, and you add the cost.
+This is the moment for the Reckoning. It is not anger but *consequence.* You state the line again, and you add the cost.
 
 *"Last time we talked about this, I asked you to stop making jokes about X. It happened again in today's meeting. I want to be direct: if it happens again, I will raise it in the team retrospective. That's where it belongs if it can't be resolved here. I want you to know that before it happens, not after."*
 
-Not a threat: a *foresight.* You tell them what you will do before you have to do it. That is the Challenger's sharpest tool.
+That is not a threat but a *foresight.* You tell them what you will do before you have to do it. That is the Challenger's sharpest tool.
 
 Most people do not do this because they fear looking punitive. The Challenger knows: *not* naming the consequence is not kindness. It is cruelty wearing kindness as a disguise, because it sets the other person up to cross the line again, not knowing what will follow.
 
@@ -465,7 +465,7 @@ That part has an opposite, and your nervous system has already given the opposit
 
 *Two minutes to capture it as a BAR.*
 
-Back to the chapter. You didn't become the villain. You recovered the capacity you split off.
+Now the chapter resumes. You didn't become the villain. You recovered the capacity you split off.
 
 ---
 
@@ -666,7 +666,7 @@ In practice: before the conversation, finish one of two sentences out loud. *A l
 
 In practice: list five moments from the last month where a line was available. Four words each, no explanation. Then read the five together and say what they are all about.
 
-**Example:** *Manager rewrote my summary. Colleague took the client call. Teammate presented my slide. Nobody credited the doc. My name came off the deck.* Five ordinary irritations, four of which you let go. Together they have one subject, which is attribution, the record of who did what. Knowing that changes the next month twice. It tells you which fights are yours, and it tells you the four you swallowed were all the same fight.
+**For example:** *Manager rewrote my summary. Colleague took the client call. Teammate presented my slide. Nobody credited the doc. My name came off the deck.* Five ordinary irritations, four of which you let go. Together they have one subject, which is attribution, the record of who did what. Knowing that changes the next month twice. It tells you which fights are yours, and it tells you the four you swallowed were all the same fight.
 
 **The test:** You can name the subject in one noun, and it surprises you a little. A subject you already knew is the story you tell about yourself rather than the pattern underneath it. If five moments give you five subjects, collect more moments instead of reaching for a tidier answer.
 

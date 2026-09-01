@@ -38,7 +38,7 @@
 > always one. The specification does not cover them and I decline to pretend otherwise. Such
 > cases go to the School of the Horizon.
 >
-> **5. Entry:** prior standing at the School of the Oath. Something must have been kept before
+> **5. Entry:** we require prior standing at the School of the Oath. Something must have been kept before
 > something may be changed, and the order is not stylistic.
 >
 > **6. A word from the Head:** the designs hold. I ask first now, which I did not for nineteen
