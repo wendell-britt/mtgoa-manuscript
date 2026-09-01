@@ -139,7 +139,7 @@ def main():
     print("trailing coordination — Strunk Rule 14. RANK is a defect; LOOSE is a rate")
     print("%-24s %6s %6s %7s %8s" % ("file", "LOOSE", "RANK", "sents", "rate"))
     print("-" * 56)
-    bad, rows = 0, []
+    bad, rows, total = 0, [], 0
     for label, lines in groups:
         hits, n = [], 0
         for l in lines:
@@ -153,6 +153,7 @@ def main():
         print("%-24s %6d %6d %7d %7.1f%%%s" % (label[:24], loose, rank, n, rate, flag))
         bad += rank + (1 if flag else 0)
         rows += hits
+        total += n
     print("-" * 56)
     print("book baseline %.1f%% of sentences. Zero is a different tic, not a better voice."
           % BOOK_BASELINE)
@@ -165,6 +166,15 @@ def main():
             print("      > %s" % s[:130])
         if not verbose and len(shown) > 12:
             print("  … %d more, run with -v" % (len(shown) - 12))
+    # The summary prints LAST because `review.py`'s book board takes `lines[-1]` as the step
+    # result. The first wiring ended on the site list and the board read "… 771 more, run with
+    # -v" as the summary -- the same defect the diet and voice steps each shipped once, and
+    # the third time this exact shape has bitten in this file's neighbourhood.
+    print("")
+    print("book baseline %.1f%% — %d LOOSE, %d RANK across %d sentence(s)"
+          % (BOOK_BASELINE,
+             sum(1 for t2, _s, _l in rows if t2 == "LOOSE"),
+             sum(1 for t2, _s, _l in rows if t2 == "RANK"), total))
     return 1 if bad else 0
 
 
