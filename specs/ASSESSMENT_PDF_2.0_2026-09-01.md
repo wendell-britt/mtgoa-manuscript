@@ -153,7 +153,16 @@ I'm creating as part of the book promotion campaign."*
 with the URL in it today; **shipping it before `/book` resolves points 373 pages and a QR code
 at a 404.** Build now, release after the route is live.
 
-### The one risk, and it is to the measurement rather than to the file
+### SUPERSEDED 2026-09-01 — the funnel settles this, see `marketing/DECISION_FUNNEL_2026-09-01.md`
+
+**Wendell settled the routing the same day and the risk below survives in a sharper form.**
+`/book` stays the printed URL and serves the PDF reader's own page — course access first,
+the book second, because a person holding the PDF already has the book. **The failure to
+avoid is a redirect:** if `/book` redirects to `/course`, the two traffic streams merge and
+US-5 stops being answerable. Serve the page at its own path rather than redirecting to a
+shared one.
+
+### The original risk, kept for the record
 
 **FR-7 requires the tracking URL be used *only* inside the PDF** — that is what makes US-5
 answerable, because the whole question is how much revenue arrives from people holding a copy
