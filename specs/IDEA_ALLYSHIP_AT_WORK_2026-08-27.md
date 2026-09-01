@@ -63,7 +63,7 @@ argue you have to do.
 ## Corrected 2026-08-27 — three premises I did not check
 
 **The first version of this note argued against starting.** Wendell corrected all three of its
-premises, and each correction is load-bearing.
+premises. Each correction is load-bearing.
 
 **1 · Pre-production is not announcing.** The note said *"a new title announced while four
 obligations are open is the exact shape of the thing #29 apologised for."* **Nobody is

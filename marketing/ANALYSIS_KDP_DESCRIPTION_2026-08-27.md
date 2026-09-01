@@ -105,7 +105,7 @@ keyword-stuffing**, and the distinction holds only because the claim is true.
 word that some readers approach and others avoid. **The symptom vocabulary is uncontested.**
 Nobody has a political position on being tired.
 
-**The two audiences want opposite descriptions, and that is a real cost.** A description tuned to
+**The two audiences want opposite descriptions. That costs something real.** A description tuned to
 the exhausted helper will read as insufficiently serious to an L&D buyer scanning for a training
 text. **The recommendation is to tune for the ICA and let the corporate buyer arrive through
 `/speaking`**, which is built for them, priced for them, and already has the one-sheets. The book

@@ -41,7 +41,7 @@ a substitute being offered while they wait. **A backer who ignores a free ebook 
 disengaged — they are waiting for the thing they paid for.**
 
 So the diagnosis that #30 was built to settle — checkout versus deliverability — **had a third
-answer neither branch allowed for**, and it is the most likely one. Redemption should be read
+answer neither branch allowed for**, and the most likely of the three. Redemption should be read
 against the **114** digital backers, not against 371. Seven of 114 is 6%; seven of 371 is 1.9%.
 **The same seven people are a different story depending on the denominator, and the denominator
 was wrong.**

@@ -63,8 +63,8 @@ associated it with that phrase. If the result is empty, it has not, and **a book
 on a phrase it is not indexed for.**
 
 **This is a seller-side technique applied to books**, reported consistently across
-seller-tool documentation and repeated in author guides. It is not something Amazon
-publishes, and it is the least well-sourced claim in this document.
+seller-tool documentation and repeated in author guides. Amazon does not publish it.
+**This is the least well-sourced claim in this document.**
 
 **Timing, and it matters more than the technique.** Reported windows:
 

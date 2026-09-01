@@ -95,7 +95,7 @@ python3 instruments/prose_diet.py -v DRAFT_FILE
 | waste | *it / this / that* with no clear antecedent | name the thing, or cut the clause |
 | inchoative | *the meeting goes cold*, *a conversation that goes wrong* | ask who did it. *Everybody at the table starts picking their words.* If nobody did it, the sentence is a state report and probably wants cutting |
 
-**The agency fix has one characteristic failure, and it is worse than the defect.** Added
+**The agency fix has one characteristic failure. It is worse than the defect it repairs.** Added
 2026-08-02 after three occurrences in one session. Wendell, on the third: *"all of your
 changes keep reintroducing issues that we've removed from the text. They don't know the
 loop. Whatever produces this assertion has got to go."*
@@ -111,8 +111,8 @@ recurring private failure, which nothing has earned and nothing can. The A0 gate
 guards one corner of this (`you were taught / told / raised / trained`) and four fixed
 phrases are all it has.
 
-**The body is the worst place to reach for a subject, and it is the first place you will
-reach.** Added 2026-08-02, one turn after the rule above, because the same move came back
+**The body is the first place you will reach for a subject. It is the worst place to find
+one.** Added 2026-08-02, one turn after the rule above, because the same move came back
 wearing a body. A draft turned *the bracing fired exactly when it should* into *your body
 braced exactly when it should* — the nominalization gone, and a claim about somebody's
 somatic experience in its place. Wendell: *"you can't narrate someone's somatic experience.
@@ -149,6 +149,18 @@ review.py."* `review.py` now runs three steps between the counters and the readi
 | **3a `fragment.py`** | a sentence with no verb, and a headed noun phrase whose only verbs are inside a relative clause — *"The meeting where somebody gets talked over."* | whether the fragment carries a beat or a claim |
 | **3b `antecedent.py`** | a pronoun with no candidate antecedent in the paragraph before it | whether a reader would follow it anyway |
 | **3c `slop_shapes.py`** | ten patterns from `no-ai-slop/SKILL.md` that are a vocabulary list or a fixed shape — banned words, throat-clearing, faux-insight, puffery, weasel attribution, recap endings, negative listing, binary contrasts | whether a two-part contrast is ranking or denying |
+
+**3d · `trailing_and.py`** was added 2026-09-01, after Wendell caught a construction every
+other step had passed: *"this trailing 'and' construction needs to go."* It is **Strunk's Rule
+14** — two co-ordinate clauses, the second introduced by a conjunction — and Rule 4 carries the
+reason: *"and, is the least specific of connectives. Used between independent clauses, it
+indicates only that a relation exists between them without defining that relation."*
+
+**Two tiers, and they are not the same finding.** `RANK` is the ranking tag — *"Two errors, and
+the second is worse than the first"* — and it is **a defect on sight, with no correct instance**,
+because it announces a hierarchy instead of enacting one. Reorder the paragraph. `LOOSE` is a
+rate against the book's own 13.9%; **the target is not zero**, because Strunk defends the
+occasional loose sentence in as many words.
 
 **So step 3 is no longer honour-system, and the reading is still the job.** *Beat or claim*,
 *real or manufactured*, and **which person** — the defect none of these caught, from *"the

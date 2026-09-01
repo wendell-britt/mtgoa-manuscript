@@ -76,8 +76,8 @@ page in about a second**, which is roughly how long the reader spends deciding.
 ## What this settles for the PDF's closing block
 
 **FR-5's third element now has a concrete answer.** The non-money actions were an Amazon
-review and a forward. **There is now a third, and it is the strongest of them: sign up and
-the course opens.** That gives the reader who cannot pay something real rather than a
+review and a forward. **A third one now outranks both: sign up and the course
+opens.** That gives the reader who cannot pay something real rather than a
 consolation, which is exactly what principle P-5 asks for.
 
 ### FR-5's first element is cut — ruled 2026-09-01
@@ -87,7 +87,7 @@ backer, but really if someone is wanting to know about the funding of the organi
 should be signing up to volunteer for the non-profit. I don't know if any other book that
 provides that information inside the book itself."*
 
-**He is right, and his third reason is the strongest one.** A funding breakdown inside a trade
+**He is right. The third reason he gives is the one that settles it.** A funding breakdown inside a trade
 book answers a question the reader never asked. It has the shape of an annual report dropped
 onto the last page, and it changes register at the worst possible moment — somebody has just
 finished 387 pages and the last page they read should not be a budget.
@@ -97,7 +97,7 @@ finished 387 pages and the last page they read should not be a budget.
 **Wendell:** *"'pay-what-feels-right only works when the reader knows what they are funding.'
 I didn't write this and I don't agree with it. It doesn't make any sense."*
 
-**Two errors, and the second is worse than the first.**
+**Two errors.**
 
 **1 · I attributed it to him.** The line is P-4 at `SPEC_PDF_2.0_2026-08-31.md:88`, in the
 document he handed me, and I called it *"his own P-4"* and *"yours."* **A pasted document is

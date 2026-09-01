@@ -81,10 +81,20 @@ def paths_from(argv):
 
 
 def body_of(text, rel=""):
-    """The prose, with front matter and any commentary header removed."""
-    text = FRONT.sub("", text)
+    """The prose, with front matter and any commentary header BLANKED rather than removed.
+
+    Blanked, not cut, because the line numbers have to keep pointing at the real file.
+    The first version used `sub("")` and every reported site was off by the length of the
+    YAML block -- `trailing_and.py` reported `AUTHOR_BIO:40` for a hit that is on line 51,
+    and line 40 is the domain at the foot of the bio. A report you cannot navigate from is
+    worse than no report, because it sends the reader to innocent prose.
+    """
+    def blank(m):
+        return "\n" * m.group(0).count("\n")
+    text = FRONT.sub(blank, text)
     if "new_prose" in rel and "\n---\n" in text:
-        text = text.rsplit("\n---\n", 1)[1]
+        head, _sep, tail = text.rpartition("\n---\n")
+        text = "\n" * (head.count("\n") + 1) + tail
     return text
 
 

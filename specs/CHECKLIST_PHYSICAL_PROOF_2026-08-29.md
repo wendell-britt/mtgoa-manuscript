@@ -113,7 +113,7 @@ copyright page forces a recto in the template, and those two are deliberate exce
 and confirm each is on a right-hand page. **You are testing that the printed object matches
 the verified PDF**, not re-deriving the verification. If those three are right, the rest are.
 
-**Two structural faults the build cannot see, and these are worth real attention:**
+**Two structural faults the build cannot see. Spend the attention here:**
 
 **Blanks must be truly blank.** The template suppresses the running head and folio on every
 leaf it inserts to reach a recto, and a press or a converter can put them back. **Find two
@@ -128,7 +128,7 @@ exists in the final pagination.
 ## Pass 5 · Typography — read four pages properly, not four hundred
 
 **The body is justified with hyphenation on, at roughly a 4.35 in measure.** That combination
-produces exactly three defects, and all three are visible only on paper:
+produces exactly three defects. All three are visible only on paper:
 
 - **Stacked hyphens.** Three or more consecutive lines ending in a hyphen. Two is fine, three
   is a ladder the eye trips on.
@@ -148,7 +148,7 @@ typographic; reading all 387 finds the same defects an hour later.
 
 ## Pass 6 · What you can only judge holding it
 
-**None of these has a right answer, and the proof is the only way to have the conversation.**
+**None of these has a right answer. The proof is the only way to have the conversation.**
 
 - **Does it feel like a book you would pick up**, at 387 pages and this thickness?
 - **Is the body type big enough** for the reader described in `IDEAL_READER_MATRIX` — someone

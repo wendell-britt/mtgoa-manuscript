@@ -76,7 +76,7 @@ nobody reached for an LMS or a narrative engine.
 the real source of truth for the spine** and it lives in `The Library/`, which is unreachable from
 here — §8 guessed at this and was right.
 
-**The lesson, again, and it is the third time this project has paid it.** The dates make it
+**The lesson again, for the third time this project has paid for it.** The dates make it
 exact: **the clone was taken 2026-08-18, the survey was written 2026-08-21, and the course landed
 upstream on the 20th and 21st.** So the snapshot was already three days stale when it was read,
 and the work it missed had landed before the reading, not after it. **`git fetch` before

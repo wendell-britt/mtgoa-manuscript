@@ -119,8 +119,8 @@ search-result extracts across several independent publishing sources.
 
 **One exception worth a sentence.** Bowker is the US agency. If you were registering as a
 Canadian publisher the ISBNs would be free from Library and Archives Canada, and several
-other countries charge little or nothing. Not applicable here, and it is the only way the
-$295 goes to zero.
+other countries charge little or nothing. Not applicable here. Nothing else takes the $295 to
+zero.
 
 **Sources.** [Bowker / MyIdentifiers, buy
 ISBNs](https://www.myidentifiers.com/identify-protect-your-book/isbn/buy-isbn) ·

@@ -70,7 +70,7 @@ running head.
 `186  Mastering the Game of Allyship`. The folio and the running head share it, and it sits at
 the head rather than the foot.
 
-**Two problems, and the second is the serious one.**
+**Two problems.**
 
 **The line carries no URL.** So a screenshot identifies the book and offers no way to buy it.
 

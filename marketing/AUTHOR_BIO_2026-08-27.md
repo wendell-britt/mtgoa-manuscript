@@ -53,8 +53,8 @@ wrote *Igniting Joy*, on anger. Organizations hire him to name the game they are
 **Cut, and each one deliberately:**
 
 - **The animation company, alumni relations and employee engagement.** `OPSBACKLOG` E2 calls this
-  *"the résumé line that matters — you have held this job"*, and it is the strongest credential
-  for an L&D buyer. **It is the wrong credential for a bookstore.** It stays in the back matter,
+  *"the résumé line that matters — you have held this job"*, the strongest credential an L&D
+  buyer reads. **It is the wrong credential for a bookstore.** It stays in the back matter,
   and it leads on the speaking one-sheet where the buyer is different.
 - **Roleplaying games and personal development as the two fields.** Load-bearing in the long bio,
   too much setup for sixty words.
