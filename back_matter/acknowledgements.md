@@ -1,6 +1,6 @@
 # Acknowledgements
 
-My mother, Carolyn Manson, and my sister, Amanda Britt. Whatever I know about staying with people, I learned at home first and I learned it from them.
+My mother, Carolyn Manson, and my sister, Amanda Britt: whatever I know about staying with people, I learned at home first and I learned it from them.
 
 Ari Alon and Valkyrie, who kept me at this through the long stretch when I was least pleasant about it.
 
@@ -10,7 +10,7 @@ Zephyr James and Sam Scharrer, who marketed and launched the Kickstarter. That i
 
 The backers who funded it. The book exists because they paid for it before there was anything to pay for. The same goes for everyone who has put money into a fundraiser somewhere along the road to getting this finished.
 
-Dan and Sunny. Jacob Canter. AJ Cohen. Red Proschaka. The Meddling Aunties group chat.
+Dan and Sunny, Jacob Canter, AJ Cohen, Red Proschaka, and the Meddling Aunties group chat.
 
 Robin Rice, whose work is in these pages and in the permissions at the front, and whose friendship is why I understood any of it well enough to use.
 

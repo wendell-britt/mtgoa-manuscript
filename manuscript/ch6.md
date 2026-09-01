@@ -16,7 +16,7 @@
 
 <!-- HANDBOOK -->
 > **THE SCHOOL OF THE PATTERN**
-> *Admissions. Specification 0.1.*
+> *This is Admissions, Specification 0.1.*
 >
 > **1. Who we are for.** Specification: an applicant has (a) taken a path costing them more
 > than it cost the person beside them, for reasons neither chose, and (b) watched another take
@@ -24,8 +24,8 @@
 > Applicants presenting only (b) are declined and told the reason, which takes an afternoon
 > and saves four years.
 >
-> **2. Capability conferred.** Location of the point at which a system produces the outcome it
-> produces. Not the person standing at that point. The point. In practice the consequence
+> **2. Capability conferred:** we locate the point at which a system produces the outcome it
+> produces, not the person standing at that point but the point itself. In practice the consequence
 > arrives about a season later: people stop apologising for what was never theirs,
 > because the apology has stopped being accepted.
 >
@@ -34,14 +34,14 @@
 > living inside them, and the drift is the mechanism rather than the error. Those who did not
 > stop at three have suffered as a result. See figure two.
 >
-> **4. Not taught.** Disposition of the person the redesign will not reach in time. There is
+> **4. Not taught:** disposition of the person the redesign will not reach in time. There is
 > always one. The specification does not cover them and I decline to pretend otherwise. Such
 > cases go to the School of the Horizon.
 >
-> **5. Entry.** Prior standing at the School of the Oath. Something must have been kept before
+> **5. Entry:** we require prior standing at the School of the Oath. Something must have been kept before
 > something may be changed, and the order is not stylistic.
 >
-> **6. A word from the Head.** The designs hold. I ask first now, which I did not for nineteen
+> **6. A word from the Head:** the designs hold. I ask first now, which I did not for nineteen
 > years. In practice I remain slower at asking than at designing, and the asking takes an
 > afternoon.
 <!-- /HANDBOOK -->
@@ -63,7 +63,7 @@
 
 There was a time when the Architect lived in the village.
 
-Inside it. One of them. The Architect drew the first map, looked at the chaos of how work got done and said *wait. I see something. There's a structure here. There's a pattern. If we understand the pattern, we can change the pattern.*
+Inside it, one of them, the Architect drew the first map, looked at the chaos of how work got done and said *wait. I see something. There's a structure here. There's a pattern. If we understand the pattern, we can change the pattern.*
 
 The villagers listened, at first, because the maps worked. The Architect could look at a broken system and find the part that, if you changed it, would change everything else. The Architect could design the meeting format that actually produced decisions. The Architect could build the role that made accountability real. The Architect said *here is why this keeps breaking, and here is how to redesign it so it holds.*
 
@@ -92,7 +92,7 @@ The villagers did not want to be shown. They wanted to be heard. The Architect, 
 
 The Architect's oldest wound lives inside the gift. The Architect's clarity doubles as the Architect's blind spot. The Architect sees systems so clearly that the people inside the systems become abstractions: inputs, outputs, leverage points. The Architect can design for people everyone else forgot while simultaneously forgetting to ask the people what they need. The Architect can commit so hard to the elegant solution that the solution arrives before anyone gets asked.
 
-The villagers needed something the Architect didn't know how to give: presence. Warmth. The simple act of sitting with the difficulty before trying to redesign it.
+The villagers needed something the Architect didn't know how to give: presence, warmth, the simple act of sitting with the difficulty before trying to redesign it.
 
 The Architect had that capacity. The Architect had simply spent it elsewhere.
 
@@ -138,11 +138,11 @@ The villagers didn't realize any of this. They thought themselves practical. Wha
 
 The School of the Pattern teaches in language that has a bad record.
 
-*Incentive structure. Leverage point. Systems thinking.* Those words have a documented second career explaining why the funding got cut, why the team got restructured, why the program that worked got killed because nobody could measure it correctly. The most analytical person at the table frequently drains the life out of something that had finally started moving, and they do it in exactly this vocabulary. Anyone who has watched that happen holds the words at arm's length, rightly. You earned the suspicion, and I am not going to argue you out of it.
+*Incentive structure, leverage point, systems thinking* — those words have a documented second career explaining why the funding got cut, why the team got restructured, why the program that worked got killed because nobody could measure it correctly. The most analytical person at the table frequently drains the life out of something that had finally started moving, and they do it in exactly this vocabulary. Anyone who has watched that happen holds the words at arm's length, rightly. You earned the suspicion, and I am not going to argue you out of it.
 
 Let me set something next to it, as a proposition rather than a diagnosis, because only you know whether it belongs to you: *the organizations that exiled structural clarity and kept all the heart burn out the people inside them, and they do it faster than the cold ones.*
 
-Specification 1.1. A design that requires an advocate has failed. I held that for nineteen years and it is correct.
+Specification 1.1 reads: a design that requires an advocate has failed. I held that for nineteen years and it is correct.
 
 See figure four. The first system served two hundred and cost four of them their place. The second was built to correct the first and cost nine. The third corrected the second. In practice each revision moved the specification one step further from anybody living inside it, and the drift is the mechanism rather than the error.
 
@@ -160,7 +160,7 @@ The Architect's actual practice builds the map that makes you unnecessary. *Here
 
 That's structural generosity.
 
-The five modes, the stage sequence, the part of you that feels the system before it models it, those show what structural clarity looks like when it has not lost the love at its center. Not optimization theater. A practice for the person who already holds the relational field and needs the blueprint underneath it.
+The five modes, the stage sequence, the part of you that feels the system before it models it, those show what structural clarity looks like when it has not lost the love at its center. It is not optimization theater but a practice for the person who already holds the relational field and needs the blueprint underneath it.
 
 Somewhere in the training you will recognize a design failure. A process that looked correct and failed anyway. An accountability structure nobody trusted. A meeting format that produced nothing and cost everyone something. The School of the Pattern makes the same claim about all of them: the structure did exactly what it got built to do, and that was the problem. Not who failed it. Why it could not have done otherwise.
 
@@ -172,7 +172,7 @@ The villagers reduce structural design to its outputs: the org chart, the RACI m
 
 Structural design is the practice of understanding *why* a system produces the outcomes it produces, and redesigning the system so that the right outcome becomes the natural outcome.
 
-Notice the difference. In organizational design, you define roles and responsibilities. In structural design, you ask: what incentive is this role actually responding to? Not the job description, the actual incentive. The one that determines behavior when no one is watching. Then you ask: does that incentive align with the outcome we want? If not, no amount of role definition will produce the right behavior.
+Notice the difference. In organizational design, you define roles and responsibilities. In structural design, you ask: what incentive is this role actually responding to? Not the job description but the actual incentive, the one that determines behavior when no one is watching. Then you ask: does that incentive align with the outcome we want? If not, no amount of role definition will produce the right behavior.
 
 <!-- MARGINALIA -->
 > *Skip the incentive question. Ask who would have to be brave for the stated outcome to happen.
@@ -317,7 +317,7 @@ The Architect's flow cycle: Observe → Model → Design → Deploy → Observe 
 
 In practice: a team comes to the Architect because their planning process keeps producing plans nobody follows. The Architect observes: watches the meetings, reads the outputs, traces what happens to plans after they're made. The Architect models: the plans fail because they're disconnected from the people who have to execute them; authority exists without accountability. The Architect designs: a new format where the people who execute the plan also design it, where each element has a named owner and a check-in date. The Architect deploys: runs the first cycle, observes what breaks, adjusts. Then the Architect hands off: names who owns the format, writes down why each element is there rather than only what it is, and stops attending. Only that version outlives the Architect's interest in it.
 
-That is the Architect's practice. Logic as a living instrument. Structure as generosity. The map that makes you unnecessary.
+That is the Architect's practice: logic as a living instrument, structure as generosity, the map that makes you unnecessary.
 
 ---
 
@@ -363,7 +363,7 @@ Its opposite already has a face in your head. Pick them. Someone who names a per
 
 Everything above builds the instrument. One move takes it out of the Forest. Structural clarity, kept in your head, costs nothing, and risks nothing. The moment you say it out loud in front of the people who built the system, it costs something. That's the Architect's exile wound in miniature: clarity gets heard as judgment. This week, you say it anyway.
 
-Pick a group you're actually in (a team, a committee, a coalition) where everyone keeps busy solving the visible problem and nobody has named what is underneath it: the load-bearing assumption nobody sees, because it has held true so long no one remembers deciding it. Then name it. Out loud. Not as a question you can retreat from (*"do we maybe want to think about whether…?"*), as a flat observation: *"We're assuming X. I don't think that's true anymore, and everything we're building sits on top of it."*
+Pick a group you're actually in (a team, a committee, a coalition) where everyone keeps busy solving the visible problem and nobody has named what is underneath it: the load-bearing assumption nobody sees, because it has held true so long no one remembers deciding it. Then name it, out loud. Not as a question you can retreat from (*"do we maybe want to think about whether…?"*), as a flat observation: *"We're assuming X. I don't think that's true anymore, and everything we're building sits on top of it."*
 
 Then hold the flinch. Somebody will hear it as criticism: that's the cost, and you don't pay it by softening. You pay it by staying warm while you stay clear: *I'm not saying anyone failed. I'm saying the structure is doing exactly what it was built to do, and it was built for a world we're not in anymore.* That sentence carries the whole chapter: structural sight delivered as love instead of indictment.
 
@@ -417,9 +417,9 @@ Watch how the Emotional Body makes that feel like the mature response. Something
 
 Run it forward, though. The person the injustice happened to needed to be met. What they got instead: a process improvement. Those are not the same event, and only one of them was about them. A fix delivered at that speed does two jobs: it addresses a structural failure, and it disposes of an intolerable feeling, and the second job sets the deadline. The deadline is why the fix so often arrives before anyone has asked the person what they need: asking would require staying in the feeling long enough to hear the answer, and staying in the feeling is what the conversion exists to prevent. The problem gets fixed. The person stays unmet. The fix, sized to your discomfort rather than to their situation, frequently does not hold, because nobody ever really built it for what it got pointed at.
 
-I have a part of me I call the Collapse. I call it that because that is what it is afraid of. The Collapse watched a design I was proud of get dismantled in a meeting, and it still cringes at the system I built that nobody used. The Collapse is not abstract; it has receipts. What it says to me is specific: *if you design this and it fails, everyone will know it was you. Your name is on it. Your thinking is in it. When it does not work, it will not be forgotten: it will be cited. As evidence. As proof that you were never as smart as everyone thought.*
+I have a part of me I call the Collapse. I call it that because that is what it is afraid of. The Collapse watched a design I was proud of get dismantled in a meeting, and it still cringes at the system I built that nobody used. The Collapse is not abstract; it has receipts. What it says to me is specific: *if you design this and it fails, everyone will know it was you. Your name is on it. Your thinking is in it. When it does not work, it will not be forgotten: it will be cited as evidence, as proof that you were never as smart as everyone thought.*
 
-Here is what I have watched myself do with that, more than once. I hand it to the design. Not to the Fixer, to the design itself. The Collapse says *this could fail publicly* and I answer by making the design more defensible: another contingency, another dependency mapped, another paragraph of rationale nobody asked for. The fear becomes rigor. Rigor is such a good disguise that I have gone entire quarters without noticing that a specific piece of dread was doing my architecture. That is the arrangement I want you to see, because it is the whole racket: the Emotional Body is being *employed.* It is building.
+Here is what I have watched myself do with that, more than once. I hand it to the design — not to the Fixer but to the design itself. The Collapse says *this could fail publicly* and I answer by making the design more defensible: another contingency, another dependency mapped, another paragraph of rationale nobody asked for. The fear becomes rigor. Rigor is such a good disguise that I have gone entire quarters without noticing that a specific piece of dread was doing my architecture. That is the arrangement I want you to see, because it is the whole racket: the Emotional Body is being *employed.* It is building.
 
 The Collapse does not get to decide whether I ship. It also does not get to be laundered into a spec.
 
@@ -435,7 +435,7 @@ Six seconds is enough for the question that is actually being asked. It is not e
 
 It shows up in a single beat. Someone says the sentence in the meeting that writes a whole group of people out of the plan. Heat arrives across your chest. That is the Strategist's channel, on time, doing its job: Fire, momentum, *here is where the push goes.* Then the conversion fires, and by the time the agenda has moved one item on you have a restructure of the intake process, three slides deep, and it is good. People will say so. Nobody has addressed what was said. The person it was said about is still sitting there. You will go home with the odd flatness of having done excellent work at something adjacent to what happened.
 
-On the narrow jurisdiction the same sensor gets the same six seconds and returns something you can use twice: *Fire. Chest. This one is about the sentence, not the intake form.* Then you say the sentence back (the small, unarchitected, in-the-meeting sentence) and the restructure still gets built on Thursday, sized correctly this time, because by Thursday you know what it is for. Same instrument. Same rigor. What changed is what you gave it authority over.
+On the narrow jurisdiction the same sensor gets the same six seconds and returns something you can use twice: *Fire, chest. This one is about the sentence, not the intake form.* Then you say the sentence back (the small, unarchitected, in-the-meeting sentence) and the restructure still gets built on Thursday, sized correctly this time, because by Thursday you know what it is for. It is the same instrument and the same rigor. What changed is what you gave it authority over.
 
 *Bring one design you shipped fast: a fix, a process, a proposal that arrived within an hour of something landing wrong. Reconstruct the order: what did you build, and what were you feeling before you built it? If you cannot recover the feeling, that is the finding, not a failure. Name the channel now, late, from memory. Then name the size of the fix against the size of the problem. Two minutes to capture it as a BAR.*
 
@@ -489,7 +489,7 @@ Theirs is doing the same job in a Forest you cannot see into. A stranger's Emoti
 ## Section 6: The Game
 ### *What Winning Looks Like at the Architect's Altitude*
 
-Okay. You've learned what structural design is, and you've met the part of you that converts a signal into a spec before you can read it. Now, what does it actually look like in a real situation?
+That is the shape of it. You've learned what structural design is, and you've met the part of you that converts a signal into a spec before you can read it. Now, what does it actually look like in a real situation?
 
 Here's what I've noticed about the Architect's game: the Architect wins when the right thing happens without them having to be there. When a system works and nobody had to manage it. When a process runs and nobody had to micromanage it. When a design serves the user and the designer can move on.
 
@@ -577,7 +577,7 @@ In practice: before you start designing, ask: what is the one question this desi
 
 **What it is:** When the design is wrong, change it without shaming the version that got you here.
 
-**Why it matters:** Designers get attached to their designs. Not in a vanity way, necessarily. The design is the thought. The thought is the designer. When you change the design, it can feel like you're rejecting yourself.
+**Why it matters:** Designers get attached to their designs. Not in a vanity way, necessarily — the design is the thought. The thought is the designer. When you change the design, it can feel like you're rejecting yourself.
 
 Refactoring kindly means: you can see clearly that the design needs to change, and you can also hold the fact that the previous version was what got you here. It did its job. It taught you what you know now. Without it, you would not have the information you have. Honor that. Say it out loud.
 
@@ -589,7 +589,7 @@ In practice: when you're revising a design, name what the previous version got r
 
 ---
 
-That's the Architect's game. Five distinct moves. The map that makes you unnecessary. The leverage point instead of the brute-force push. The unstated assumption instead of the obvious one. The handoff instead of the dependency. The minimum instead of the masterpiece. The refactor instead of the defense.
+That's the Architect's game, in five distinct moves: the map that makes you unnecessary, the leverage point instead of the brute-force push, the unstated assumption instead of the obvious one, the handoff instead of the dependency, the minimum instead of the masterpiece, the refactor instead of the defense.
 
 That's what winning looks like at this altitude.
 
@@ -646,7 +646,7 @@ Each Tell targets the Architect's signature failure: the design built for the si
 
 ## Your Twenty Cards
 
-The grid again, fourth operation of six. Five moves down, four domains across, twenty cards. These are the Architect's.
+It is the grid again, fourth operation of six. Five moves down, four domains across, twenty cards. These are the Architect's.
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 

@@ -370,9 +370,9 @@ A daemon you befriend joins your party. A daemon left running on its own stays a
 ## Section 7: Journey to the Center
 ### *A First Walk Through the Forest*
 
-Now the walk itself. Watch what happens to the joystick.
+Here is the walk itself. Watch what happens to the joystick.
 
-Picture a real moment from your last month. A hard conversation. A call you delayed. A conflict you replayed after it ended. Drop back into it, and watch the daemons grab the joystick, one after another.
+Picture a real moment from your last month. It could be a hard conversation, a call you delayed, or a conflict you replayed after it ended. Drop back into it, and watch the daemons grab the joystick, one after another.
 
 Your body tightens before anything real has been said. The Protector has the joystick: *not safe.*
 
@@ -477,11 +477,11 @@ Where does it live? Chest, throat, jaw, belly: somewhere in there sits a sensati
 
 Put your hand there if that helps.
 
-Now: what is the sensation? The sensation itself, underneath the story of what happened and what you should have said. Hot or cold. Tight or spacious. Moving or still.
+Now: what is the sensation? The sensation itself, underneath the story of what happened and what you should have said. Notice whether it is hot or cold, tight or spacious, moving or still.
 
 You don't have to know what it means. You just have to locate it.
 
-That location is data. The Shaman's first move never changes: find out where the information lives before deciding what to do with it. Before the script. Before the strategy. Before the conversation you will have in your head on the way home.
+That location is data. The Shaman's first move never changes: find out where the information lives before deciding what to do with it. Locate it before the script, before the strategy, before the conversation you will have in your head on the way home.
 
 *You just made the first move. Before the feeling fades, get down what you noticed, where it lived, and what it might be trying to say. Two minutes to capture it as a BAR.*
 

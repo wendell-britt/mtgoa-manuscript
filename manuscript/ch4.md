@@ -21,7 +21,7 @@
 > **1. Who we are for.** You have said no and had it not take. You said it in a meeting,
 > pleasantly, and it went ahead anyway; you said it again six weeks later and were told you
 > had raised that already. You have also watched it happen to somebody with less standing than
-> you, and done nothing, and known at the time you were doing nothing. Both. Applicants with
+> you, and done nothing, and known at the time you were doing nothing. We want both. Applicants with
 > one are declined.
 >
 > **2. What you will be able to do when you leave.** State a limit in one sentence and not
@@ -37,11 +37,11 @@
 > It is not, it is incomplete, and incomplete is a different problem with a different address.
 > Send it to the School of the Bridge. Failing to send it is the error here, not sending it.
 >
-> **5. Entry.** You must be able to say what you felt in the last moment you said nothing. Not
+> **5. Entry:** you must be able to say what you felt in the last moment you said nothing. Not
 > what you thought. What you felt, and where. If you cannot, the School of the Body takes
 > first-years every season and we will still be here.
 >
-> **6. A word from the Head.** The lines land now. What I am working is the four seconds after
+> **6. A word from the Head:** the lines land now. What I am working is the four seconds after
 > a line drawn on somebody else's behalf, when they go on living in the place where I said it
 > and I do not.
 <!-- /HANDBOOK -->
@@ -65,7 +65,7 @@
 
 The Challenger once lived in the village.
 
-Inside it. One of them. The Challenger was the one who drew the lines. Who said "this far and no further." Who stood in the place where everyone else kept negotiating and planted a flag and said *this is where we stand.* The villagers needed that. Plenty of them could feel what was wrong but couldn't say it out loud. The Challenger could say it. The Challenger could say it and mean it and hold the line while everyone else figured out how to catch up.
+Inside it, one of them, the Challenger was the one who drew the lines. Who said "this far and no further." Who stood in the place where everyone else kept negotiating and planted a flag and said *this is where we stand.* The villagers needed that. Plenty of them could feel what was wrong but couldn't say it out loud. The Challenger could say it. The Challenger could say it and mean it and hold the line while everyone else figured out how to catch up.
 
 The villagers built rituals around this. The Challenger would speak first at councils. Not because they were the eldest or the wisest but because they could say what needed saying before anyone else could bear to hear it. "This is not acceptable." "That boundary has been crossed." "We will not do this." The words were simple. The weight behind them was not.
 
@@ -81,13 +81,13 @@ Not because the Challenger was wrong. Because the Challenger was *expensive.* Th
 
 The Regent was more efficient. The Regent was more scalable. The Regent was more *sustainable.*
 
-So nobody banished the Challenger. The Challenger was just… sidelined. Without ceremony. (The Regent stayed very gracious about it. There was nothing to push against. That was the point.) The people at the councils stopped asking first. They started building the rituals around the Regent's walls instead of the Challenger's lines. The stories they told changed from "remember when the Challenger said no to that?" to "thank the Regent for building the structure that holds that no."
+So nobody banished the Challenger. The Challenger was just… sidelined, without ceremony. (The Regent stayed very gracious about it. There was nothing to push against. That was the point.) The people at the councils stopped asking first. They started building the rituals around the Regent's walls instead of the Challenger's lines. The stories they told changed from "remember when the Challenger said no to that?" to "thank the Regent for building the structure that holds that no."
 
 The Challenger noticed, and saw the choice: become a historical footnote, the one who used to draw lines before the Regent made lines into laws, or leave.
 
 The Challenger left.
 
-Not in anger. In clarity. The Challenger understood what the villagers did not: that a line held by someone else is not the same as a line held by you. That the Regent's walls, however necessary, were not the same as the Challenger's will. That the villagers had confused *organized power* with *actual power* and could not tell the difference.
+It came not in anger but in clarity. The Challenger understood what the villagers did not: that a line held by someone else is not the same as a line held by you. That the Regent's walls, however necessary, were not the same as the Challenger's will. That the villagers had confused *organized power* with *actual power* and could not tell the difference.
 
 The villagers never meant for that to happen. They never said "go." They just stopped asking. Which, it turns out, is the same as exile.
 
@@ -114,7 +114,7 @@ The villagers started mistaking politeness for peace. Started confusing *everyon
 
 Without the Challenger, the villagers developed a sophisticated language for everything except the clean no.
 
-It got very good at *assertive communication.* At *using "I" statements.* At framing a boundary as a preference rather than a line. (I believed those scripts for thirty years. They do not do what the trainers promise, which anyone who has run one in a live moment already knows.) "I prefer not to be spoken to that way." "I would appreciate it if we could revisit that decision." The villagers learned to make their nos sound like yeses because yeses cost less. Because a no, even a gentle no, even a well-crafted I-statement no, still carried the risk of being unwelcome.
+It got very good at *assertive communication.* At *using "I" statements.* It got good at framing a boundary as a preference rather than a line. (I believed those scripts for thirty years. They do not do what the trainers promise, which anyone who has run one in a live moment already knows.) "I prefer not to be spoken to that way." "I would appreciate it if we could revisit that decision." The villagers learned to make their nos sound like yeses because yeses cost less. Because a no, even a gentle no, even a well-crafted I-statement no, still carried the risk of being unwelcome.
 
 So the villagers started letting violations slide. Small ones first. Then larger ones. Not because they didn't feel them (they felt every one of them) but because they had lost the Challenger's gift: the willingness to name the violation as a violation without also naming it as a catastrophe. The Challenger could say *this is not okay* and *we can still be in relationship* at the same time. They could no longer hold both together without the Challenger.
 
@@ -145,7 +145,7 @@ That is not diplomacy. It dissolves the boundary in the name of maintaining the 
 
 The clean no does not dissolve. The clean no states.
 
-**The clean no has three parts.** The first is *the line itself*: what you will not do, will not accept, will not stand. The second is *the delivery*: said plainly, without essay, without justification, without the three-paragraph explanation that actually signals "please don't be mad at me for saying this." The third is *the cost*: what happens if someone crosses it. Not a threat. A consequence. A natural result of what happens when someone crosses you.
+**The clean no has three parts.** The first is *the line itself*: what you will not do, will not accept, will not stand. The second is *the delivery*: said plainly, without essay, without justification, without the three-paragraph explanation that actually signals "please don't be mad at me for saying this." The third is *the cost*: what happens if someone crosses it. It is not a threat but a consequence, a natural result of what happens when someone crosses you.
 
 Most people can do part one. Some people can do parts one and two. Very few people can do all three without flinching, and the third is where most people stop.
 
@@ -210,7 +210,7 @@ Here is what is specific to this reader. The suspicion runs one direction. Force
 <!-- /SIGNATURE -->
 
 
-*Back to the chapter.*
+*Now the chapter resumes.*
 
 *For the full process and additional pairs, see Appendix F: The Polarity Map.*
 
@@ -292,11 +292,11 @@ The Challenger's practice does not improvise. It runs a sequence. Five stages, i
 
 **Stage 1: Charge.** The fire arrives. Something in your body shows up, a heat in your chest, a clenching in your jaw, a sudden clarity that is also somehow a burning. The Challenger does not suppress it. The Challenger receives it. Without charge, there is no fire. With charge and no practice, there is explosion. With charge and practice, there is *direction.*
 
-**Stage 2: Aim.** You identify what drives it. Not the story, underneath the story. The charge points at one specific event: a line crossed, a commitment violated, a cost ignored. Ask: *what line, if I could draw it cleanly, would this charge be protecting?*
+**Stage 2: Aim.** You identify what drives it, not the story but what runs underneath the story. The charge points at one specific event: a line crossed, a commitment violated, a cost ignored. Ask: *what line, if I could draw it cleanly, would this charge be protecting?*
 
 Most people skip this stage, which is what leaves most confrontation messy, reactive, and apologetic. The aiming turns raw fire into clean action.
 
-**Stage 3: Act.** You choose the mode and execute. Line, Interrupt, Demand, Refusal, or Reckoning. You state the boundary. You name the cost. You do it plainly, without the three-paragraph explanation that is actually an apology. A stated line is anger that made it all the way out of the body and into the world without deforming on the way.
+**Stage 3: Act.** You choose the mode and execute it as Line, Interrupt, Demand, Refusal, or Reckoning. You state the boundary. You name the cost. You do it plainly, without the three-paragraph explanation that is actually an apology. A stated line is anger that made it all the way out of the body and into the world without deforming on the way.
 
 **Stage 4: Stand.** You stay with what you said while the silence does its work.
 
@@ -374,11 +374,11 @@ Here is the Challenger's 30-second protocol:
 
 First, *feel the charge.* Don't suppress it. Let it arrive, the heat, the tightening. This is information. It tells you that something just mattered.
 
-Second, *aim.* Ask yourself: what line did that cross? Not the story you could tell about why this person is wrong. The actual line. *That community deserves to be spoken about with accuracy.* That's the line.
+Second comes *aim.* Ask yourself: what line did that cross? Not the story you could tell about why this person is wrong, but the actual line. *That community deserves to be spoken about with accuracy.* That's the line.
 
-Third, *act.* Name it. Plainly. *"That framing isn't accurate. X community has specifically raised this concern and the data shows Y."* One sentence. No essay. State and hold.
+Third comes *act.* Name it plainly. *"That framing isn't accurate. X community has specifically raised this concern and the data shows Y."* One sentence, and no essay. State and hold.
 
-Fourth, *exit.* Don't wait for their response. Move on with the meeting. You do not need them to agree. You needed the line to exist. It now exists.
+Fourth comes *exit.* Don't wait for their response. Move on with the meeting. You do not need them to agree. You needed the line to exist. It now exists.
 
 Total time: thirty seconds.
 
@@ -392,11 +392,11 @@ Most people either say nothing and resent the person for weeks, or say too much 
 
 Someone has crossed your line before. You drew it clearly. They crossed it again.
 
-This is the moment for the Reckoning. Not anger: *consequence.* You state the line again, and you add the cost.
+This is the moment for the Reckoning. It is not anger but *consequence.* You state the line again, and you add the cost.
 
 *"Last time we talked about this, I asked you to stop making jokes about X. It happened again in today's meeting. I want to be direct: if it happens again, I will raise it in the team retrospective. That's where it belongs if it can't be resolved here. I want you to know that before it happens, not after."*
 
-Not a threat: a *foresight.* You tell them what you will do before you have to do it. That is the Challenger's sharpest tool.
+That is not a threat but a *foresight.* You tell them what you will do before you have to do it. That is the Challenger's sharpest tool.
 
 Most people do not do this because they fear looking punitive. The Challenger knows: *not* naming the consequence is not kindness. It is cruelty wearing kindness as a disguise, because it sets the other person up to cross the line again, not knowing what will follow.
 
@@ -406,7 +406,7 @@ Name the consequence. Then mean it.
 
 I've been in situations where the line needed drawing and I drew it.
 
-One of those: a group of Black folks trying to make progress on something that mattered. Good people. Real stakes. One person whose grief about what white people had done was entirely valid and entirely stuck. Every time we moved forward, they pulled us back. They weren't wrong about what they felt. They couldn't work yet.
+One of those: a group of Black folks trying to make progress on something that mattered. They were good people with real stakes. One person whose grief about what white people had done was entirely valid and entirely stuck. Every time we moved forward, they pulled us back. They weren't wrong about what they felt. They couldn't work yet.
 
 I drew the line. Named it plainly: *we're losing daylight on something we already know. I hear the anger. I'd like to find a way to be angry and move forward at the same time.* Offered a 1:1 afterward. They didn't take it.
 
@@ -439,7 +439,7 @@ If that conclusion is running, it produces a consistent result. Common ground ge
 
 Before you meet the part that audits your charge, one piece of work belongs here. The conclusion named just above, that the clean no is what oppressors do, does not stay an idea. It walks around wearing somebody's face. Chapter 3 ran this on a trait. Here it runs on a person you have negative feelings about, which is where the practice does its heaviest work.
 
-None of this lets real harm off the hook. It reclaims the energy you have spent on a cartoon. Real harm and real accountability stay real. What 3-2-1 owns is your split, and it makes no claim about their innocence.
+None of this lets real harm off the hook. It reclaims the energy you have spent on a cartoon, and real harm and real accountability stay real. What 3-2-1 owns is your split, and it makes no claim about their innocence.
 
 The same fire controls or protects depending on where it is aimed, including, sometimes, protecting the person being told no. 3-2-1 finds which one you are fighting in them that is actually in you.
 
@@ -465,7 +465,7 @@ That part has an opposite, and your nervous system has already given the opposit
 
 *Two minutes to capture it as a BAR.*
 
-Back to the chapter. You didn't become the villain. You recovered the capacity you split off.
+Now the chapter resumes. You didn't become the villain. You recovered the capacity you split off.
 
 ---
 
@@ -473,7 +473,7 @@ Back to the chapter. You didn't become the villain. You recovered the capacity y
 
 One more move belongs here, the smallest one in the chapter.
 
-A voice arrives right before you draw a line. It is not the auditor: the auditor asks a question. This one has already decided. It says the same sentence every time, in the same tone: *do this and you become the difficult one, and what you have with these people will not survive it.* Tight. Pinched. Completely certain.
+A voice arrives right before you draw a line. It is not the auditor: the auditor asks a question. This one has already decided. It says the same sentence every time, in the same tone: *do this and you become the difficult one, and what you have with these people will not survive it.* It is tight, pinched, completely certain.
 
 That voice is a memory, and it reports accurately. Somewhere behind it sits a real occasion when pushing did cost something, a relationship that cooled, a table nobody invited you back to.
 
@@ -512,7 +512,7 @@ You met the Skeptic at the door of the Forest, third in line, a few steps behind
 
 At its best the Skeptic is your auditor, and you need one. A charge arrives and the auditor asks the single useful question: *is this what is actually in front of me, or an old charge wearing today's clothes?* Sometimes the honest answer names the old charge, and the auditor has just saved you from spending a line on someone who did not earn it. Timidity would look the same from outside. That is what makes your no expensive. Someone who draws a line at everything has not drawn one; people learn to dress for the weather and walk past. The auditor earns you this: when you do finally say *this is not acceptable*, the sentence carries.
 
-An auditor can widen its own remit, though. It stops auditing the charge and starts auditing your standing to have it. The question changes shape without announcing that it has changed, from *is this real* to *are you the one who gets to say it is real.* Those sound like the same rigor. They are not the same question. Looking at the situation answers the first. Only looking at you answers the second, and the Skeptic already knows how that audit comes out.
+An auditor can widen its own remit, though. It stops auditing the charge and starts auditing your standing to have it. The question changes shape without announcing that it has changed, from *is this real* to *are you the one who gets to say it is real.* Those two sound like the same rigor. They are not the same question. Looking at the situation answers the first. Only looking at you answers the second, and the Skeptic already knows how that audit comes out.
 
 Then it speaks, and it always sounds reasonable. *Am I overreacting. Other people have it worse. I'm probably being dramatic. I should check with someone who actually knows.* Not one of those makes a claim about the violation. Every one of them makes a claim about you. The Skeptic takes a real crossing and, in three sentences, converts it into evidence of your own excess.
 
@@ -526,9 +526,9 @@ The chapter's myth also lives here, because the Skeptic's favorite exit wears a 
 
 You do not fire the Skeptic. Fire your auditor and every charge becomes a line, and your no is worth nothing inside a month. You take the joystick back by handing it its actual job and taking away the one it appointed itself to.
 
-*Audit the charge. Not me. Tell me whether this is what is in front of me or an old charge in its clothes: that question I want, and I will listen to the answer. My standing is not on the agenda. That was settled when I walked in.*
+*Audit the charge, not me. Tell me whether this is what is in front of me or an old charge in its clothes: that question I want, and I will listen to the answer. My standing is not on the agenda. That was settled when I walked in.*
 
-Then give the audit a deadline, because running out the clock is the shadow's entire method. An auditor works fast when it knows it has to. *You have one breath. Real, or old? Answer.* One breath answers the question actually being asked. It cannot answer the other one. That limit is the point.
+Then give the audit a deadline, because running out the clock is the shadow's entire method. An auditor works fast when it knows it has to. *You have one breath. Is this real or old? Answer.* One breath answers the question actually being asked. It cannot answer the other one. That limit is the point.
 
 It shows up in a single beat. Someone crosses a line in the meeting. Heat arrives in your chest: that is Charge, on time, doing its job. On the widened remit the audit opens before you can aim: *am I sure that is what they meant, is this even mine to call, there are people here closer to it than me*, and by the time the audit has finished weighing its own evidence the agenda has moved two items on and the heat has nowhere to go but home with you. On the narrow remit the same auditor gets the same breath and returns the verdict it could have returned all along: *real, and current.* Then you say the sentence. The same part applies the same rigor either way. Only the jurisdiction you gave it changed.
 
@@ -569,7 +569,7 @@ The tell is never the position. The tell is whether you ever move. An auditor th
 
 ### What You Take Out of the Forest
 
-The Skeptic developed does what nothing else in this chapter can: it makes your line credible. Not to other people first, to yourself. When the auditor has done its narrow job honestly and come back with *real, and current,* you are no longer arguing with yourself while the moment burns. You are aimed.
+The Skeptic developed does what nothing else in this chapter can: it makes your line credible, to yourself before anyone else. When the auditor has done its narrow job honestly and come back with *real, and current,* you are no longer arguing with yourself while the moment burns. You are aimed.
 
 That is the Disruptor's foundation. What this chapter trains is clarity without cruelty, held steady long enough to say one sentence and stay for what follows. Fighting comes easy by comparison, and so does certainty.
 
@@ -592,7 +592,7 @@ Theirs is doing the same job in a Forest you cannot see into. A stranger's Skept
 <!-- /MARGINALIA -->
 
 
-Okay. You've met the Skeptic and practiced 3-2-1 on the line you projected outward. Now, what does it actually look like in a real situation?
+That is the shape of it. You've met the Skeptic and practiced 3-2-1 on the line you projected outward. Now, what does it actually look like in a real situation?
 
 The Challenger's game is simple: **draw the line, name the cost, mean it.**
 
@@ -616,7 +616,7 @@ The naming does the work. Most situations have a specific event, a violation or 
 
 **Why it matters:** What nobody has named feels larger than what somebody has. Naming it reduces it. It demonstrates, for everyone watching, that the line exists.
 
-In practice: Next time you're in a meeting and something happens that you can feel everyone noticing and nobody stating, that is your cue. State it. Plainly. *"That comment about X wasn't accurate. I want to note that before we move on."*
+In practice: Next time you're in a meeting and something happens that you can feel everyone noticing and nobody stating, that is your cue. State it plainly. *"That comment about X wasn't accurate. I want to note that before we move on."*
 
 **Example:** A senior colleague says a contractor is not going to be here long enough to matter. Priya is on the call. Nobody picks it up and the agenda starts to move. You say it before it does: *we skipped past something, and it was about Priya, who is on this call.* Stop there. You know what her next three weeks look like, because you have been the contractor. Your silence would have cost her, not you. She did not ask you to name it, and that risk is yours.
 
@@ -644,13 +644,13 @@ In practice: when the charge lands, start a clock instead of a sentence. Thirty 
 
 **The Situation:** You have to say something hard to someone, and you have twenty minutes before you say it.
 
-**What it is:** Name which channel you are carrying before you open your mouth. Fire or Water. A line was crossed, or something was lost. You are going to speak either way, and which one you are actually carrying decides what comes out.
+**What it is:** Name which channel you are carrying before you open your mouth, Fire or Water: a line was crossed, or something was lost. You are going to speak either way, and which one you are actually carrying decides what comes out.
 
 **Why it matters:** Cruelty in a confrontation is usually a mismatch rather than a decision. Anger delivered as anger lands hard and lands clean, because Fire asks for agency and the other person can hand agency over. Hurt delivered as anger lands as an attack, and nothing they do can satisfy it, because sadness, the Water underneath it, wanted to be met and you asked to win instead. So they defend, you escalate, and afterward you cannot say what you were actually after. Naming the channel first does not soften the content. It aims it.
 
 In practice: before the conversation, finish one of two sentences out loud. *A line was crossed and I want it to stop.* Or: *something was lost and I want you to know what it cost.* Say the truer one when you get there, whichever it is. The second sentence costs more to say, and it is the only one that can be answered.
 
-**Example:** Dara's leave starts in March and your colleague has staffed every March project around her without asking her. The sentence that wants out is *you have written her off and it is insulting.* Fire. The truer one runs: *Dara found out she was off the spring work from a calendar invite, and I think we have told her what we think she is worth for the next year.* Water. Say the second. Your colleague does not defend, because a defense answers an accusation and Water made a report.
+**Example:** Dara's leave starts in March and your colleague has staffed every March project around her without asking her. The sentence that wants out is *you have written her off and it is insulting.* That is Fire. The truer one runs: *Dara found out she was off the spring work from a calendar invite, and I think we have told her what we think she is worth for the next year.* That is Water. Say the second. Your colleague does not defend, because a defense answers an accusation and Water made a report.
 
 **The test:** You named the channel before you spoke, and the sentence you actually said matched the one you named. The content did not get softer once the channel was named, which is how you know you used the naming to aim and not as an exit.
 
@@ -666,7 +666,7 @@ In practice: before the conversation, finish one of two sentences out loud. *A l
 
 In practice: list five moments from the last month where a line was available. Four words each, no explanation. Then read the five together and say what they are all about.
 
-**Example:** *Manager rewrote my summary. Colleague took the client call. Teammate presented my slide. Nobody credited the doc. My name came off the deck.* Five ordinary irritations, four of which you let go. Together they have one subject, which is attribution, the record of who did what. Knowing that changes the next month twice. It tells you which fights are yours, and it tells you the four you swallowed were all the same fight.
+**Take an example:** *manager rewrote my summary. Colleague took the client call. Teammate presented my slide. Nobody credited the doc. My name came off the deck.* Five ordinary irritations, four of which you let go. Together they have one subject, which is attribution, the record of who did what. Knowing that changes the next month twice. It tells you which fights are yours, and it tells you the four you swallowed were all the same fight.
 
 **The test:** You can name the subject in one noun, and it surprises you a little. A subject you already knew is the story you tell about yourself rather than the pattern underneath it. If five moments give you five subjects, collect more moments instead of reaching for a tidier answer.
 
@@ -759,7 +759,7 @@ Draw from your twenty rather than the hundred and twenty, though not all from on
 
 **Open Up.** A feeling whose warrant still hangs open cannot be stayed with; staying would be credulity. So the discomfort goes into escrow until the verdict, and the verdict does not release it.
 
-**Clean Up.** A verdict about what something means is an interpretation. The move gets run, and the output gets called a finding.
+**Clean Up:** a verdict about what something means is an interpretation. The move gets run, and the output gets called a finding.
 
 **Grow Up.** Asked what must evolve, it returns better discernment. Sharper standards, faster detection of overreaction: an upgrade to the instrument that is the problem.
 
@@ -779,7 +779,7 @@ A card that ends in a notebook is a card you read. A card that ends in a quest i
 
 One sentence: what you will do, who it reaches, by when, and what it costs you. *Draw the Line* becomes: **I will tell the hiring panel on Thursday that I cannot support rejecting her unless somebody names the behavior, without softening it into a question, and it will cost me being the easy vote on that panel.** That is a quest. *I will be more direct* is not one; nobody can tell whether you did it, including you.
 
-The tell that a quest is alive is not enthusiasm. It arrives as anticipation with some dread underneath it. For a Challenger the dread usually arrives first. Good sign, hard one.
+The tell that a quest is alive is not enthusiasm. It arrives as anticipation with some dread underneath it. For a Challenger the dread usually arrives first. That is a good sign and a hard one.
 
 *Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
 
