@@ -29,23 +29,23 @@ Movement builders have known this territory for sixty years. It is the domain or
 
 *When it's needed:* when the block to progress is material. The organization can't pay staff. The campaign can't afford the venue. The activist can't take the day off because rent is due. When good intentions exist but capacity has been spent.
 
-**The collapse.** The most common error is performing Gather Resources rather than doing it — giving what costs nothing and calling it resourcing. Retweeting a fundraiser is not Gather Resources. Hosting an event where guests feel generous and the cause nets $800 after expenses is not Gather Resources. The diagnostic: did something actually transfer to someone who needed it? Did it cost something real?
+**The collapse:** the most common error is performing Gather Resources rather than doing it — giving what costs nothing and calling it resourcing. Retweeting a fundraiser is not Gather Resources. Hosting an event where guests feel generous and the cause nets $800 after expenses is not Gather Resources. The diagnostic: did something actually transfer to someone who needed it? Did it cost something real?
 
 The reverse collapse: using Raise Awareness as a substitute — sharing the story of need without moving the resource. Or using Direct Action when Gather Resources is what's needed — showing up personally (presence, labor, body) when the block is material, not motivational.
 
 **The developmental arc — six Faces:**
 
-*Shaman.* Reads the emotional field to identify what's actually depleted before deciding what to offer. Shadow: sits with the feeling of what's needed without moving anything — attunement without transfer. Gift: knows exactly what form the resource needs to take, because the signal came before the strategy.
+*Shaman:* reads the emotional field to identify what's actually depleted before deciding what to offer. Shadow: sits with the feeling of what's needed without moving anything — attunement without transfer. Gift: knows exactly what form the resource needs to take, because the signal came before the strategy.
 
-*Challenger.* Draws the hard line on where resources go and says so out loud. Shadow: withholds resources as moral positioning — refusal as performance of integrity rather than as strategic intervention. Gift: knows when stopping the flow IS the move, and can name that without apology.
+*Challenger:* draws the hard line on where resources go and says so out loud. Shadow: withholds resources as moral positioning — refusal as performance of integrity rather than as strategic intervention. Gift: knows when stopping the flow IS the move, and can name that without apology.
 
-*Regent.* Stewards inherited resources with care for what they're for. Shadow: protects the resource pool from depletion without moving it — "we need to be careful with these funds" as permanent holding pattern. Gift: understands that a resource held in perpetuity serves no one; can move the principal when the moment calls for it.
+*Regent:* stewards inherited resources with care for what they're for. Shadow: protects the resource pool from depletion without moving it — "we need to be careful with these funds" as permanent holding pattern. Gift: understands that a resource held in perpetuity serves no one; can move the principal when the moment calls for it.
 
-*Architect.* Designs resource flows that work without continuous individual intervention — the infrastructure of giving, the pipelines, the systemic conditions that move resources sustainably. Shadow: maps the resource ecosystem from abundance without transferring anything — analysis as substitute for transfer. Gift: builds the structure so resourcing doesn't depend on anyone's generosity on any given Tuesday.
+*Architect:* designs resource flows that work without continuous individual intervention — the infrastructure of giving, the pipelines, the systemic conditions that move resources sustainably. Shadow: maps the resource ecosystem from abundance without transferring anything — analysis as substitute for transfer. Gift: builds the structure so resourcing doesn't depend on anyone's generosity on any given Tuesday.
 
-*Diplomat.* Builds the trust networks that make cross-difference resourcing possible. Shadow: resources flow only within the in-group — to those who share the vocabulary and the social codes. Gift: builds enough trust across genuine difference that resources reach places they've never gone before.
+*Diplomat:* builds the trust networks that make cross-difference resourcing possible. Shadow: resources flow only within the in-group — to those who share the vocabulary and the social codes. Gift: builds enough trust across genuine difference that resources reach places they've never gone before.
 
-*Sage.* Holds the meta-view of resource dynamics across all players and levels. Shadow: wise about resource flows without being in relationship with any of them — the advisor who never gives. Gift: knows when giving is the right move and when it would create dependency, distort power dynamics, or remove agency. Can give and can stop without either being a moral statement.
+*Sage:* holds the meta-view of resource dynamics across all players and levels. Shadow: wise about resource flows without being in relationship with any of them — the advisor who never gives. Gift: knows when giving is the right move and when it would create dependency, distort power dynamics, or remove agency. Can give and can stop without either being a moral statement.
 
 ---
 
@@ -59,31 +59,31 @@ The domain that keeps the work alive after the inspired moment passes. Skillful 
 
 *When it's needed:* when the block is coordination failure — good people not working together effectively. When the energy exists but keeps dissipating because there's no structure to hold it. When a campaign has momentum but no decision-making protocol, or an organization has great values and no succession plan.
 
-**The collapse.** Building structures that hold but don't move — organizations that protect themselves instead of the people they're supposed to serve. The meeting that discusses the urgent problem for three months. The coalition that has a beautiful vision statement and no mechanism for making a decision.
+**The collapse:** building structures that hold but don't move — organizations that protect themselves instead of the people they're supposed to serve. The meeting that discusses the urgent problem for three months. The coalition that has a beautiful vision statement and no mechanism for making a decision.
 
-The reverse collapse: using Gather Resources when Skillful Organizing is needed — "we have 200 people who care" without roles, decision-making, or actual coordination capacity. Confusing network with organization. Or using Direct Action to substitute for organizing: the heroic solo move that bypasses the structure it was supposed to serve, leaving the coalition more fragile than before.
+The reverse collapse: using Gather Resources when Skillful Organizing is needed — "we have 200 people who care" without roles, decision-making, or actual coordination capacity. This confuses network with organization. Or using Direct Action to substitute for organizing: the heroic solo move that bypasses the structure it was supposed to serve, leaving the coalition more fragile than before.
 
 **The developmental arc — six Faces:**
 
-*Shaman.* Reads the emotional field of the group to understand what kind of coordination structure it can actually hold — not what the leader wants to build, but what the group's current trust level can sustain. Shadow: attunes to the group's needs without building anything — endless listening without structure. Gift: builds the container that matches the actual shape of the group's trust, so it holds without force.
+*Shaman:* reads the emotional field of the group to understand what kind of coordination structure it can actually hold — not what the leader wants to build, but what the group's current trust level can sustain. Shadow: attunes to the group's needs without building anything — endless listening without structure. Gift: builds the container that matches the actual shape of the group's trust, so it holds without force.
 
-*Challenger.* Names what's not working in the current structure and refuses to pretend the dysfunction isn't there. Shadow: calls out the broken structure without offering or building the alternative — critique as substitute for construction. Gift: can identify exactly what's failing in the coordination and name it clearly enough that the group can build something better.
+*Challenger:* names what's not working in the current structure and refuses to pretend the dysfunction isn't there. Shadow: calls out the broken structure without offering or building the alternative — critique as substitute for construction. Gift: can identify exactly what's failing in the coordination and name it clearly enough that the group can build something better.
 
-*Regent.* Inherits and stewards structures — learns what's working before changing anything, builds on what holds. Shadow: protects the existing structure even when it no longer serves — preservation as the primary organizing value. Gift: knows which parts of the inherited structure are load-bearing and which can be reformed, and can reform without erasing.
+*Regent:* inherits and stewards structures — learns what's working before changing anything, builds on what holds. Shadow: protects the existing structure even when it no longer serves — preservation as the primary organizing value. Gift: knows which parts of the inherited structure are load-bearing and which can be reformed, and can reform without erasing.
 
-*Architect.* Designs coordination systems with full rigor — roles, decision-making protocols, feedback loops, succession planning. Shadow: builds elegant structures that nobody can use because they were designed for the designer's level of sophistication, not the users'. Gift: builds the simplest structure that actually coordinates the complexity the group is working with.
+*Architect:* designs coordination systems with full rigor — roles, decision-making protocols, feedback loops, succession planning. Shadow: builds elegant structures that nobody can use because they were designed for the designer's level of sophistication, not the users'. Gift: builds the simplest structure that actually coordinates the complexity the group is working with.
 
-*Diplomat.* Holds the relational field that makes coordination possible across difference — the trust-building, translation, and repair work that keeps people in the coalition. Shadow: maintains surface cohesion without addressing the coordination failures underneath — harmonizing instead of organizing. Gift: can hold enough genuine relationship across real difference that people who would otherwise be left out find themselves with a space at the table.
+*Diplomat:* holds the relational field that makes coordination possible across difference — the trust-building, translation, and repair work that keeps people in the coalition. Shadow: maintains surface cohesion without addressing the coordination failures underneath — harmonizing instead of organizing. Gift: can hold enough genuine relationship across real difference that people who would otherwise be left out find themselves with a space at the table.
 
-*Sage.* Sees the whole coordination system and can tell when a structure has outlived its purpose. Shadow: panoramic view without engagement — wise about what the structure lacks without being in it. Gift: knows when to dissolve a structure that's finished its work, and can do it in a way that honors what it accomplished and seeds what comes next.
+*Sage:* sees the whole coordination system and can tell when a structure has outlived its purpose. Shadow: panoramic view without engagement — wise about what the structure lacks without being in it. Gift: knows when to dissolve a structure that's finished its work, and can do it in a way that honors what it accomplished and seeds what comes next.
 
 ---
 
 ## Direct Action
 
-*Putting your body, voice, or presence where the moment requires it. Showing up. Speaking up. Drawing the line. Making happen what wasn't supposed to happen.*
+*Putting your body, voice, or presence where the moment requires it: showing up, speaking up, drawing the line, making happen what wasn't supposed to happen.*
 
-The most photogenic domain. The one most mistaken for the whole of allyship.
+This is the most photogenic domain, and the one most mistaken for the whole of allyship.
 
 Direct Action is the work of moving — when the moment needs a body in a specific place, a voice in a specific conversation, a decision made by someone willing to bear the cost of making it. It is irreplaceable and insufficient on its own. A movement made entirely of Direct Action burns through people without building the structures or resources that sustain change.
 
@@ -91,23 +91,23 @@ Direct Action is the work of moving — when the moment needs a body in a specif
 
 *When it's needed:* when something needs to happen that isn't happening, and waiting makes it worse. When the block is not material or structural — it's that no one has moved yet. When the window is open and the only question is whether someone will walk through it.
 
-**The collapse.** Mistaking cost for effectiveness. Burning out on the belief that individual sacrifice is systemic change. Martyrdom: spending yourself completely in the wrong domain, on the wrong problem, at the wrong time, and calling it commitment. The diagnostic: did your action change the conditions, or did it change how you felt about the conditions?
+**The collapse:** mistaking cost for effectiveness. Burning out on the belief that individual sacrifice is systemic change. Martyrdom: spending yourself completely in the wrong domain, on the wrong problem, at the wrong time, and calling it commitment. The diagnostic: did your action change the conditions, or did it change how you felt about the conditions?
 
 The reverse collapse: using Raise Awareness when Direct Action is needed — "I named it publicly" as the complete intervention. Or using Skillful Organizing when the moment requires a move: the working group formed to study what needed to happen last week.
 
 **The developmental arc — six Faces:**
 
-*Shaman.* Moves from felt sense — acts when the body says the moment has arrived, stops when it says the moment has passed. Shadow: waits for absolute certainty that the moment is right, which never comes. Gift: can feel when the window is open and move through it without waiting for permission.
+*Shaman:* moves from felt sense — acts when the body says the moment has arrived, stops when it says the moment has passed. Shadow: waits for absolute certainty that the moment is right, which never comes. Gift: can feel when the window is open and move through it without waiting for permission.
 
-*Challenger.* The natural home of Direct Action — the clean "no," the line drawn without apology, the move made without softening it for the people watching. Shadow: Direct Action as performance of toughness — the confrontation that was for the confronter, not for the change. Gift: the move that's clear, aimed, and stops when it's done — no theater, no martyrdom.
+*Challenger:* the natural home of Direct Action — the clean "no," the line drawn without apology, the move made without softening it for the people watching. Shadow: Direct Action as performance of toughness — the confrontation that was for the confronter, not for the change. Gift: the move that's clear, aimed, and stops when it's done — no theater, no martyrdom.
 
-*Regent.* Acts within and on behalf of structures — uses institutional standing, inherited authority, organizational position as the lever. Shadow: waits for the structure to sanction the action before moving — authority as permission slip rather than resource. Gift: deploys institutional standing at the moment of need, which moves what an individual acting alone cannot.
+*Regent:* acts within and on behalf of structures — uses institutional standing, inherited authority, organizational position as the lever. Shadow: waits for the structure to sanction the action before moving — authority as permission slip rather than resource. Gift: deploys institutional standing at the moment of need, which moves what an individual acting alone cannot.
 
-*Architect.* Takes the specific, surgical action that addresses the precise failure point — knows which move changes the system rather than the symptom. Shadow: analyzes the situation so thoroughly that the window closes before anything happens. Gift: can identify the single intervention that shifts the system and make it before the complexity overwhelms the opportunity.
+*Architect:* takes the specific, surgical action that addresses the precise failure point — knows which move changes the system rather than the symptom. Shadow: analyzes the situation so thoroughly that the window closes before anything happens. Gift: can identify the single intervention that shifts the system and make it before the complexity overwhelms the opportunity.
 
-*Diplomat.* Takes action in relationship — the move made in conversation, the line drawn without destroying the connection. Shadow: manages the action so carefully for the relationship that the action doesn't actually happen — softened out of existence to preserve harmony. Gift: can make the costly move AND stay in relationship with the people affected — the hardest version of Direct Action.
+*Diplomat:* takes action in relationship — the move made in conversation, the line drawn without destroying the connection. Shadow: manages the action so carefully for the relationship that the action doesn't actually happen — softened out of existence to preserve harmony. Gift: can make the costly move AND stay in relationship with the people affected — the hardest version of Direct Action.
 
-*Sage.* Acts from meta-awareness — knows which action is needed across the whole system and at what level. Shadow: acts at the wrong altitude — makes the individual direct move when the systemic intervention was needed, or vice versa. Gift: can identify the action that shifts the system rather than the symptom, and take it at the level where it will actually land.
+*Sage:* acts from meta-awareness — knows which action is needed across the whole system and at what level. Shadow: acts at the wrong altitude — makes the individual direct move when the systemic intervention was needed, or vice versa. Gift: can identify the action that shifts the system rather than the symptom, and take it at the level where it will actually land.
 
 ---
 
@@ -123,23 +123,23 @@ Without it, the other three domains have nothing to organize around. You can't r
 
 *When it's needed:* when the block to change is that people don't know what's actually happening, or can't feel what they already know cognitively. When the story hasn't been said out loud yet. When what is invisible needs a name before anyone can organize around it.
 
-**The collapse.** Naming the problem as the complete intervention. Raise Awareness done well creates the conditions for other domains to activate. Done as the full move, it becomes slacktivism — the infinite loop of identifying the problem without changing the conditions. The diagnostic: did the awareness you raised lead to someone else's action? If the story stops with the story, the domain collapsed on itself.
+**The collapse:** naming the problem gets taken for the complete intervention. Raise Awareness done well creates the conditions for other domains to activate. Done as the full move, it becomes slacktivism — the infinite loop of identifying the problem without changing the conditions. The diagnostic: did the awareness you raised lead to someone else's action? If the story stops with the story, the domain collapsed on itself.
 
 The reverse collapse: confusing Raise Awareness with Direct Action — treating the story as the move rather than as what makes the move possible. Or using Raise Awareness when Gather Resources is actually needed: sharing the narrative of need instead of moving the resource.
 
 **The developmental arc — six Faces:**
 
-*Shaman.* Tells the story from inside the experience — not from after it, not from analysis, but from the felt sense of what it was like to be in it. Shadow: stays inside the experience without translating it — the story that lands only for people who already know. Gift: the narrative that transfers the felt sense of the experience into someone who wasn't there, changing what they can see.
+*Shaman:* tells the story from inside the experience — not from after it, not from analysis, but from the felt sense of what it was like to be in it. Shadow: stays inside the experience without translating it — the story that lands only for people who already know. Gift: the narrative that transfers the felt sense of the experience into someone who wasn't there, changing what they can see.
 
-*Challenger.* Asks the question nobody wants to ask. Names what everyone present is organized around not saying. Shadow: names the shadow for the satisfaction of naming it — the call-out that performs awareness without building the conditions for change. Gift: the question that, once asked, cannot be unasked — changes the group's relationship to what it's been avoiding.
+*Challenger:* asks the question nobody wants to ask. Names what everyone present is organized around not saying. Shadow: names the shadow for the satisfaction of naming it — the call-out that performs awareness without building the conditions for change. Gift: the question that, once asked, cannot be unasked — changes the group's relationship to what it's been avoiding.
 
-*Regent.* Bears witness to the lineage — what happened, who built what, what was lost, what was inherited. Shadow: tends the historical record while the current story goes unwitnessed — the expert on what happened then who can't see what's happening now. Gift: connects current experience to historical pattern in a way that makes the invisible visible by giving it a tradition to belong to.
+*Regent:* bears witness to the lineage — what happened, who built what, what was lost, what was inherited. Shadow: tends the historical record while the current story goes unwitnessed — the expert on what happened then who can't see what's happening now. Gift: connects current experience to historical pattern in a way that makes the invisible visible by giving it a tradition to belong to.
 
-*Architect.* Makes the systemic pattern legible — the data, the structural analysis, the map of how this keeps happening. Shadow: the analysis that's accurate but unlanded — the chart nobody can feel. Gift: translates pattern into story, the systemic made personal enough that people can act on it.
+*Architect:* makes the systemic pattern legible — the data, the structural analysis, the map of how this keeps happening. Shadow: the analysis that's accurate but unlanded — the chart nobody can feel. Gift: translates pattern into story, the systemic made personal enough that people can act on it.
 
-*Diplomat.* Translates across frameworks — makes what one camp is saying legible to another without distorting either. Shadow: translates so carefully for palatability that the actual message disappears — awareness managed until nothing is actually raised. Gift: carries the truth across difference intact, so both camps can hear what the other actually said.
+*Diplomat:* translates across frameworks — makes what one camp is saying legible to another without distorting either. Shadow: translates so carefully for palatability that the actual message disappears — awareness managed until nothing is actually raised. Gift: carries the truth across difference intact, so both camps can hear what the other actually said.
 
-*Sage.* Names what the whole system is doing — the meta-pattern, the game underneath the game. Shadow: names it at an altitude where nobody who needs to act can hear it — accurate, inaccessible. Gift: can say what is true at every level in language that lands where action is possible.
+*Sage:* names what the whole system is doing — the meta-pattern, the game underneath the game. Shadow: names it at an altitude where nobody who needs to act can hear it — accurate, inaccessible. Gift: can say what is true at every level in language that lands where action is possible.
 
 ---
 
@@ -154,7 +154,7 @@ The reverse collapse: confusing Raise Awareness with Direct Action — treating 
 | Direct Action | Fixer/Healer · Damaged Self |
 | Raise Awareness | Victim · Skeptic |
 
-Pattern: 2-2-2-2. The system is balanced. No domain is under-resourced by daemon.
+**Pattern:** the split runs 2-2-2-2. The system is balanced. No domain is under-resourced by daemon.
 
 The affinities reflect daemon function, not arbitrary assignment: Emotional Body locates what's depleted before any resource can be moved; Vulnerable Child restores what's been spent. Protector guards the conditions a group needs to function; Controller routes coordination across the system. the Fixer/Healer takes the direct surgical move on the specific breakage; Damaged Self absorbs the cost of showing up on purpose. Victim carries the story from felt experience; Skeptic asks the question that makes the invisible visible.
 

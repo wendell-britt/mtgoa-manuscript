@@ -2,7 +2,7 @@
 
 **Location in book:** After Appendix B; before Appendix D. Lettered 2026-07-29, taking the slot vacated by the retired Key Terms glossary.
 
-*Concept and first practice: Chapter 3.*
+*The concept and the first practice are in Chapter 3.*
 
 ---
 

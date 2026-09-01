@@ -52,7 +52,7 @@ version of you that is allowed in the door. Chapter 3 calls it the referee, wher
 rules your charge a foul before you can spend it. *Ch 2 §6; Ch 3 §5*
 
 **Daemon** — A part of you that runs in the background, on its own, with no one holding the
-joystick. Seven of them. A daemon you befriend joins your party; one left running stays a
+joystick. There are seven of them. A daemon you befriend joins your party; one left running stays a
 saboteur. *Ch 2 §6*
 
 **Damaged Self, the** — The daemon that takes the damage when nothing else can keep a hit
