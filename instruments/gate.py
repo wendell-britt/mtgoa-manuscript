@@ -100,7 +100,8 @@ draw draws drew break breaks broke speak speaks spoke""".split())
 # them: "Follow the flinch." "Serve the relationship." "Then wait." Checked in FIRST
 # POSITION ONLY, so a noun use elsewhere still counts as a fragment ("A hard call.").
 BASE_VERBS = set("""ask answer avoid begin bring build buy call carry check choose close
-accept act add allow answer apologise apologize apply argue assume audit avoid
+accept acknowledge act add allow answer apologise apologize apply argue assume audit
+avoid breathe detect exhale execute inhale validate welcome
 belong break
 bring calm cancel change
 claim collect commit compare come count cut decide describe do draw drop end explain fail find finish fix follow
