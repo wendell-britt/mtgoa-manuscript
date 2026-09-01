@@ -25,7 +25,7 @@
 > second. I cannot teach a person to hand over an instrument they have never held.
 >
 > **2. What you will be able to do when you leave.** I teach one skill. A student learns to
-> name where a feeling landed in the body before naming what it means. Chest, throat, the back
+> name where a feeling landed in the body before naming what it means: chest, throat, the back
 > of the neck, the jaw. It sounds small to me as well, and I have watched what follows from
 > it: the people around that student begin speaking earlier, because somebody present is
 > visibly not waiting to be sure.
@@ -42,7 +42,7 @@
 > arriving in the first place, that is the School of the Pattern. I send more students to the
 > Pattern than I expected to.
 >
-> **5. Entry:** none. Everyone begins here, including those who arrive certain they are past
+> **5. Entry:** we require none. Everyone begins here, including those who arrive certain they are past
 > it. I have been wrong about who was past it.
 >
 > **6. A word from the Head:** the reading is not my difficulty any more. What I work on now
@@ -735,7 +735,7 @@ Theirs is doing the same job in a Forest you cannot see into. A stranger's Contr
 ## Section 6: The Game
 ### *What Winning Looks Like at the Shaman's Altitude*
 
-You know what emotional alchemy is. You have run the five stages. You have met the part of you that decides which feelings you are cleared to have where other people can see them. Now for the table.
+You know what emotional alchemy is. You have run the five stages. You have met the part of you that decides which feelings you are cleared to have where other people can see them. The table comes next.
 
 Winning at the Shaman's altitude is smaller than you want it to be: one true sentence, said to a person who can hear it, while it is still live. That is the whole win. Insight does not count. A more accurate model of the group than anyone else has does not count. One sentence counts: the one that left your body, entered the situation, and changed what was possible inside it. The woman at the council did not bring the elders a framework. She brought them four sentences she had been holding for three seasons, said to the one face that could act on them.
 
@@ -777,7 +777,7 @@ In practice: the marker is the urge to sit up straight and sound reasonable. Tha
 
 Named out loud, the channel stops being weather and becomes an object on the table. *There is a lot of fear in this conversation.* *I think what is actually here is sadness, and we keep treating it as a disagreement.* You are not diagnosing anyone. You are saying what the field runs, which hands everybody something to work with other than the content.
 
-In practice, use the channel word rather than the euphemism. *Anger* rather than *frustration.* *Fear* rather than *concern.* *Sadness* rather than *disappointment.* The euphemisms exist to keep the channel deniable, and nobody can work a deniable channel, including you.
+In practice, use the channel word rather than the euphemism: *anger* rather than *frustration*, *fear* rather than *concern*. *Sadness* rather than *disappointment.* The euphemisms exist to keep the channel deniable, and nobody can work a deniable channel, including you.
 
 **Example:** A retro has spent twenty minutes on process. Nobody has said that Ravi flagged this in March and got told it was fine, and you can name two other times that happened to him and to nobody else. Annoyance is the wrong name for what you feel. What you feel is fear, because saying it means saying something about this team out loud. That is Metal. Say it: *I think we are avoiding a word. Ravi raised this in March, and I would like to know why that landed differently.* You become the difficult one in that retro and in the next one. What the team does with it is the team's.
 
