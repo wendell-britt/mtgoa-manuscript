@@ -34,14 +34,14 @@
 > living inside them, and the drift is the mechanism rather than the error. Those who did not
 > stop at three have suffered as a result. See figure two.
 >
-> **4. Not taught.** Disposition of the person the redesign will not reach in time. There is
+> **4. Not taught:** disposition of the person the redesign will not reach in time. There is
 > always one. The specification does not cover them and I decline to pretend otherwise. Such
 > cases go to the School of the Horizon.
 >
-> **5. Entry.** Prior standing at the School of the Oath. Something must have been kept before
+> **5. Entry:** prior standing at the School of the Oath. Something must have been kept before
 > something may be changed, and the order is not stylistic.
 >
-> **6. A word from the Head.** The designs hold. I ask first now, which I did not for nineteen
+> **6. A word from the Head:** the designs hold. I ask first now, which I did not for nineteen
 > years. In practice I remain slower at asking than at designing, and the asking takes an
 > afternoon.
 <!-- /HANDBOOK -->

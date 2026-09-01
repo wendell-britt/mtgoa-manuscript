@@ -37,11 +37,11 @@
 > It is not, it is incomplete, and incomplete is a different problem with a different address.
 > Send it to the School of the Bridge. Failing to send it is the error here, not sending it.
 >
-> **5. Entry.** You must be able to say what you felt in the last moment you said nothing. Not
+> **5. Entry:** you must be able to say what you felt in the last moment you said nothing. Not
 > what you thought. What you felt, and where. If you cannot, the School of the Body takes
 > first-years every season and we will still be here.
 >
-> **6. A word from the Head.** The lines land now. What I am working is the four seconds after
+> **6. A word from the Head:** the lines land now. What I am working is the four seconds after
 > a line drawn on somebody else's behalf, when they go on living in the place where I said it
 > and I do not.
 <!-- /HANDBOOK -->

@@ -41,7 +41,7 @@
 > send, and the sending is the entire curriculum. All five take our referrals and Sera is dry
 > about ours in particular.
 >
-> **5. Entry.** Standing at all five. There is no way to shorten this and we are asked every
+> **5. Entry:** standing at all five. There is no way to shorten this and we are asked every
 > year.
 >
 > **6. A word from the Head.** I have read all five schools for thirty years and nobody has

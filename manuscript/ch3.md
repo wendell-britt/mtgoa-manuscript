@@ -42,10 +42,10 @@
 > arriving in the first place, that is the School of the Pattern. I send more students to the
 > Pattern than I expected to.
 >
-> **5. Entry.** None. Everyone begins here, including those who arrive certain they are past
+> **5. Entry:** none. Everyone begins here, including those who arrive certain they are past
 > it. I have been wrong about who was past it.
 >
-> **6. A word from the Head.** The reading is not my difficulty any more. What I work on now
+> **6. A word from the Head:** the reading is not my difficulty any more. What I work on now
 > is what it costs a person to be read accurately by somebody they did not ask. I have not
 > solved it. I teach here anyway.
 <!-- /HANDBOOK -->
