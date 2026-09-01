@@ -54,10 +54,17 @@ real work, and three of those nine cannot start until Wendell owns a URL.**
 | 14 | readable at 390 pt viewport | **probably passes** — 11 pt body on a 432 pt page | check on a phone |
 | 15 | no link points at an email capture form | **passes vacuously** — there are no links at all | done |
 
-## 2 · FR-3 is the load-bearing one and it is a real build change
+## 2 · FR-3 is the load-bearing one — BUILT 2026-09-01, and one claim here was wrong
 
-**The spec calls the page footer the only element that survives a screenshot.** It is right,
-and the current design has no footer at all.
+**Correction first.** The first version of this section said *"the current design has no footer
+at all."* **It has one.** `running-foot()` exists in `mtgoa.typ` and draws a centred folio on
+opening pages and on numbered matter. I measured the bottom band of page 200, which is a
+running page where the head draws the folio instead and the foot is legitimately empty, and
+reported one page as the design.
+
+**The accurate statement, and it is still the finding:** the foot carried a folio and nothing
+else, **no page anywhere in the book carried a URL**, and the only identifying line was the
+running head.
 
 **What is actually on an interior page:** a single line at the **top**, at y = 34.8 pt, reading
 `186  Mastering the Game of Allyship`. The folio and the running head share it, and it sits at
@@ -74,10 +81,23 @@ identifying mark whatever**. That includes the provenance block FR-4 puts on pag
 closing ask FR-5 puts at the end, which are precisely the pages most likely to be screenshotted
 and forwarded.
 
-**The remedy is a foot line distinct from the head line**, present on every page including the
-matter, carrying the title and the tracking URL, while the existing head line keeps the folio
-and the running head where they are. **That is a change to the page furniture in
-`design.typ`**, not a content change, and it does not repaginate.
+**Built.** `running-foot()` now carries `Mastering the Game of Allyship · masteringallyship.com/book`
+at 7.5 pt in luma 110, on every page that is not a deliberate blank, while the head keeps the
+folio and running head exactly where they were. **387 pages, 373 carry the line, and the 14
+that do not are the inserted blank leaves** — verified page by page, every one of them empty.
+
+**That is a deliberate reading of FR-3's "every page."** A blank leaf carrying a URL would be
+the printing error the whole `is-blank` machinery exists to prevent, and it would be the same
+defect as a running head on a blank verso. **The rule as built is: every page with content.**
+
+**It does not repaginate.** 387 pages before and after, every opener still on a recto, folio
+still continuous.
+
+**It forks the artifact rather than replacing it, too.** `build_pdf.py --share-url=` produces
+`MTGOA_<date>_trade_share.pdf` alongside the plain print interior, because a trade paperback
+does not carry a URL on all 387 of its pages and both files have to exist at once.
+`build_pdf_ebook.py --share` reads the share interior and refuses rather than silently falling
+back — picking the wrong interior produces a file that looks right and carries no URL anywhere.
 
 ## 3 · There are zero hyperlinks in the file
 
@@ -98,14 +118,20 @@ half-satisfied by accident — readable text, no hyperlink.
 assumption is that tagging means a post-process through Acrobat, which would put a manual step
 between every rebuild and every release.
 
-**Tested against the installed Typst 0.15, and it does not.** `pdf_standards=["a-2b"]` and
-`["a-3b"]` both compile and both emit a `StructTreeRoot`. `["ua-1"]` compiles too, and its
-failures are precise:
+**Tested against the installed Typst 0.15 on the real 387-page interior, not on a toy file.**
 
 ```
-PDF/UA-1 error: missing document title      → the template already sets one
-PDF/UA-1 error: missing alt text            → the cover, and any figure
+pdf_standards=["a-2b"]   OK   tagged: True   2.47 MB
+pdf_standards=["ua-1"]   PDF/UA-1 error: the first heading must be of level 1
 ```
+
+**So half of AC-12 is available today.** PDF/A-2b compiles this book and emits a
+`StructTreeRoot`, which is the "tagged document" an accessibility checker looks for.
+
+**PDF/UA-1 fails on one precise, fixable defect** — the first heading in the document is not a
+level 1. That is a heading-hierarchy change that touches the front matter and could disturb the
+336-entry outline, so it is real work rather than a flag, and it wants doing deliberately
+rather than folded into this batch.
 
 **So PDF/UA-1 turns accessibility into a build gate rather than an aspiration.** The compiler
 refuses to produce the file until the alt text is there, which is a far better mechanism than a
@@ -115,14 +141,52 @@ first pass is one alt string.**
 **Do this early rather than late.** It changes the compile call, and discovering at the end
 that a standard rejects part of the design is the expensive order.
 
-## 5 · Three decisions blocked on Wendell, and nothing downstream moves without the first
+## 5 · The URLs, settled 2026-09-01, and one risk to FR-7's own purpose
 
-**FR-7, the tracking URL.** A redirect he controls, used nowhere else. **FR-8's QR code encodes
-it, FR-4 and FR-5 both print it, and FR-3's footer repeats it 388 times.** Four requirements
-wait on one decision, and it is the cheapest decision in the spec.
+**Wendell:** *"the tracking url is masteringallyship.com/book. We'll need to actually create
+this route."* And a second: *"masteringallyship.com/course … takes people to a 30 day course
+I'm creating as part of the book promotion campaign."*
 
-**FR-10, the companion hub.** The spec puts it out of scope to build and requires that it exist
-and be linkable. Until there is a URL, the closing block cannot be written to point anywhere.
+**FR-7 is settled and FR-10 has its destination.** Both are now in the file.
+
+**The route does not exist yet, and that gates release rather than build.** The PDF is correct
+with the URL in it today; **shipping it before `/book` resolves points 373 pages and a QR code
+at a 404.** Build now, release after the route is live.
+
+### The one risk, and it is to the measurement rather than to the file
+
+**FR-7 requires the tracking URL be used *only* inside the PDF** — that is what makes US-5
+answerable, because the whole question is how much revenue arrives from people holding a copy
+somebody handed them. **`/book` is also the most natural path for the website's own book page**,
+and the moment anything else links to it, the number stops answering that question.
+
+**The remedy keeps his URL and costs one routing decision:** reserve `/book` for the PDF and
+give the website's book page a different path. The PDF's URL stays short and memorable, which
+NFR-5 needs because it is printed as readable text for offline copies, and the measurement
+survives. **The alternative — a query parameter on a shared path — is uglier in print and
+easier to lose when somebody retypes it from paper.**
+
+### The course link is a bigger idea than a link
+
+**Wendell:** *"repurpose that 30 day challenge into a book campaign template that people can
+use to develop their own allyship campaigns as they work through each of the chapters."*
+
+**That is the book's own metaphor cashed, and it is worth naming because it changes what the
+link is for.** Chapter 1 tells the reader they are a Game Master. **A Game Master runs a
+campaign** — a sequence of connected sessions with a through-line, which is exactly what a
+thirty-day challenge is. So `/course` is not a marketing appendage bolted to the back; it is
+the reader doing what the book spends 387 pages saying they already do.
+
+**One consequence for FR-10.** The spec has all outbound links pointing at the companion hub
+rather than at an email form, and `/course` fits that as a hub item. **A campaign template
+worked chapter by chapter implies per-chapter links, though**, which the spec does not currently
+contemplate and which would be a much larger change than the two blocks in FR-4 and FR-5.
+Worth deciding deliberately rather than discovering during implementation.
+
+**53 backers are already owed a course** — `ANALYSIS_BACKER_OBLIGATIONS_2026-08-24.md` — and
+`course/HANDOFF_COURSE_BUILD_2026-08-22.md` records that it is already being built in
+`bars-engine`. **So `/course` is not a new product, it is a route to one that exists**, which
+is the cheap version of this idea rather than the expensive one.
 
 **FR-4 and FR-5, the prose.** Both are customer-facing, so both take the full review pass under
 the standing rule, and both need something I do not have: **what the money actually funds**, in

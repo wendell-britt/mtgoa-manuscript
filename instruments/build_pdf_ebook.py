@@ -72,6 +72,18 @@ the reader has no way to tell.
 """
 import io, os, re, sys, glob, json, struct
 
+# SPEC_PDF_2.0, settled by Wendell 2026-09-01: *"the tracking url is
+# masteringallyship.com/book."* FR-7 requires it be used ONLY inside this PDF, so that
+# US-5 -- how much revenue arrives from people holding a copy somebody gave them --
+# becomes a measured number. See specs/ASSESSMENT_PDF_2.0_2026-09-01.md on the one risk
+# that carries: /book is also the natural path for the website's own book page.
+SHARE_URL = "masteringallyship.com/book"
+SHARE_FILENAME = "mastering-the-game-of-allyship-wendell-britt.pdf"
+SUBJECT = ("A field guide to allyship. Six roles, five channels, one five-move form, "
+           "and a hundred and twenty prompts. " + SHARE_URL)
+KEYWORDS = ("allyship, burnout, compassion fatigue, boundaries, emotional labor, "
+            "repair, group dynamics, inclusion, field guide, Wendell Britt")
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, os.pardir)
 
@@ -177,11 +189,18 @@ def main():
         sys.stderr.write("pymupdf missing. pip install pymupdf\n")
         return 1
 
-    src_glob = os.path.join(ROOT, "build", "*_%s.pdf" % trim)
+    # SPEC_PDF_2.0 FR-3. The PDF edition wants the interior built WITH the share line;
+    # the print interior is built without one and both live in build/ at the same time.
+    # Named explicitly rather than preferred silently, because picking the wrong interior
+    # produces a file that looks right and carries no URL on any page.
+    share = "--share" in sys.argv
+    tag = "%s_share" % trim if share else trim
+    src_glob = os.path.join(ROOT, "build", "*_%s.pdf" % tag)
     found = sorted(p for p in glob.glob(src_glob) if "_ebook" not in p)
     if not found:
-        sys.stderr.write("no %s interior in build/. Run build_pdf.py --trim=%s first\n"
-                         % (trim, trim))
+        sys.stderr.write(
+            "no %s interior in build/. Run:\n    python3 instruments/build_pdf.py%s\n"
+            % (tag, (" --share-url=%s" % SHARE_URL) if share else " --trim=%s" % trim))
         return 1
     interior = found[-1]
 
@@ -252,13 +271,22 @@ def main():
 
     out.set_toc(merged)
 
+    # FR-2. Title and author were already set; Subject and Keywords were empty, and both
+    # show in a reader's document properties and are indexed by desktop search. The URL
+    # goes in Subject because PDF has no standard field for one.
     md = dict(src.metadata or {})
     md["title"] = md.get("title") or "Mastering the Game of Allyship"
     md["author"] = md.get("author") or "Wendell Britt"
+    md["subject"] = SUBJECT
+    md["keywords"] = KEYWORDS
     md["producer"] = "MTGOA build_pdf_ebook.py"
     out.set_metadata(md)
 
-    base = os.path.basename(interior).replace(".pdf", "_ebook.pdf")
+    # FR-1. The filename is a business card and it travels with every forward, so the
+    # shareable edition ships under a human name rather than a build stamp. The print
+    # interior keeps its dated name, because that one is an artifact and not a product.
+    base = (SHARE_FILENAME if share
+            else os.path.basename(interior).replace(".pdf", "_ebook.pdf"))
     dest = os.path.join(ROOT, "build", base)
     out.save(dest, deflate=True, garbage=3)
 

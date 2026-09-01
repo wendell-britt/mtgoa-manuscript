@@ -197,10 +197,54 @@
   })
 }
 
+// SHARE-URL, added 2026-09-01 for SPEC_PDF_2.0 FR-3.
+//
+// Wendell: *"the tracking url is masteringallyship.com/book."* The spec calls the foot line
+// **the only element that survives a screenshot of a single page**, which is the whole of
+// user story US-4 and the reason edge case EC-1 exists.
+//
+// Before this, no page in the book carried a URL anywhere, and the only identifying line was
+// the running head — which `RUNS-HEAD` restricts to chapters and appendices, so **every page
+// of front and back matter had no identifying mark at all.** That included the two pages
+// FR-4 and FR-5 add, which are the pages most likely to be screenshotted.
+//
+// It is a variable rather than a constant because the print edition and the PDF edition
+// want different feet: print carries no URL, and `build_pdf.py` passes an empty string.
+#let SHARE-URL = "$share-url$"
+
+// The foot carries two things that were previously one. The folio still belongs to the foot
+// on opening pages and on matter, because the head is suppressed there — that rule has not
+// changed. The share line is new and runs on every page that is not a deliberate blank.
+//
+// A blank stays blank. A leaf Typst inserted to reach a recto carrying a URL would be the
+// same printing error the `is-blank` machinery above exists to prevent.
 #let running-foot() = context {
   let loc = here()
-  if page-role(loc) != "foot" { return }
-  align(center, text(size: sz(9.5pt), folio(loc)))
+  let role = page-role(loc)
+  if role == "blank" { return }
+
+  // The guard is a plain emptiness test on purpose. An earlier version also checked for an
+  // unsubstituted placeholder, and the dollar sign in that check is pandoc's own delimiter,
+  // so the template failed to compile before Typst ever saw it. Pandoc substitutes an unset
+  // variable to the empty string, which this already handles.
+  let share = if SHARE-URL != "" {
+    text(size: sz(7.5pt), fill: luma(110), tracking: 0.02em,
+         BOOK-TITLE + sym.space.nobreak + sym.dot.c + sym.space.nobreak + SHARE-URL)
+  } else { none }
+
+  // The folio sits at the foot only where the head is not drawing it. Letting both
+  // conclude yes is the duplicate-number bug `page-role` was written to settle.
+  let f = if role == "foot" { text(size: sz(9.5pt), folio(loc)) } else { none }
+
+  if share == none {
+    if f != none { align(center, f) }
+  } else if f == none {
+    align(center, share)
+  } else {
+    // Folio centred as it always was; the share line sits under it rather than beside it,
+    // so the folio keeps the position a reader's eye already knows.
+    align(center, block(spacing: 0.35em, { f; linebreak(); share }))
+  }
 }
 
 
