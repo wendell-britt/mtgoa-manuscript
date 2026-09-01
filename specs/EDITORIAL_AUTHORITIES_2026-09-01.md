@@ -115,14 +115,52 @@ argues for a measured ceiling rather than an instruction not to do it.
 academic prose in 2024 and 26.2% in 2025.** The drift is fast enough that a fixed word list
 dates in about a year.
 
-### Considered and not adopted
+### Considered and not adopted, with the reasoning rather than the verdict
 
-| source | why not |
-|---|---|
-| **Garner's *Modern English Usage*** | a usage authority rather than a style one. Settles *which word*, and this project's defects are structural |
-| **Zinsser, *On Writing Well*** | says what Lanham and Williams already say here, without a countable rule |
-| **Pinker, *The Sense of Style*** | the curse-of-knowledge diagnosis is real and unmeasurable. Worth reading, not worth registering |
-| **Christensen's cumulative sentence** | the *defence* of the loose sentence. Held in the research spec as the counterweight rather than as an authority |
+| source | why not | how solid the reason is |
+|---|---|---|
+| **Garner's *Modern English Usage*** | a usage authority rather than a style one. It settles *which word* — *comprise*, *beg the question*, *which* against *that* — and this project's defects are structural. `gate.py`'s banned list is about voice rather than correctness, so Garner would arbitrate a question nobody here is asking | **holds.** A scoping judgement, not a knock on the book |
+| **Zinsser, *On Writing Well*** | the core is clutter, which is Lanham's territory and already counted. No countable rule that the register does not already have | **holds under the test, and the test is the limitation.** See below — Zinsser's actual contribution is warmth and the writer's presence, which no counter can score |
+| **Pinker, *The Sense of Style*** | the curse-of-knowledge diagnosis is real and unmeasurable | **thin, and I undersold him.** See below |
+| **Christensen's cumulative sentence** | the *defence* of the loose sentence, held in `RESEARCH_TRAILING_AND` as the counterweight | **holds, and it is not a dismissal.** He is the opposing brief rather than an authority to obey, which is a role the register needs |
+
+**Correcting the Pinker line, 2026-09-01.** *"Real and unmeasurable"* is true of the curse of
+knowledge and it is not the whole book. Two points I passed over:
+
+- **The curse of knowledge is this book's central risk**, not a general caution. MTGOA explains
+  a six-role framework to a reader who does not have it, while concealing the ladder underneath
+  on purpose. **A writer who can see the architecture cannot feel what the page is like without
+  it**, which is the exact failure mode Pinker names.
+- **His syntax material is partly measurable** — heavy left-branching, long dependencies between
+  a subject and its verb. Nothing off-the-shelf counts it, so it stayed out; that is a cost
+  rather than a reason.
+
+**So Pinker is out of the register and into the reading list**, which is a different verdict
+from the one the table first recorded.
+
+### The blind spot in the test itself
+
+**The register's admission test — does it produce a rule a machine can find — is right for what
+this file is, and it excludes a whole class of defect that keeps going wrong.**
+
+**Every correction Wendell has made to generated prose this year is in that excluded class:**
+
+| his note | what it asks for | what could count it |
+|---|---|---|
+| *"then write more descriptive images throughout, don't keep them out of scarcity"* | density of concrete images | nothing |
+| *"We want people to laugh out loud when reading"* | a joke that lands | nothing |
+| *"fragments are bad. I speak in complete sentences"* | his voice, not a style rule | `fragment.py`, after he said it |
+| *"what person? what is it? We're handwaving again"* | a noun a reader can point at | partly `antecedent.py` |
+| *"this trailing 'and' construction needs to go"* | a rhythm he does not want | `trailing_and.py`, after he said it |
+
+**Two of the five got instruments, and both only after he caught the defect first.** The
+counters find what is mechanically wrong with a sentence and are blind to whether it is warm,
+funny, concrete, or his.
+
+**That is the argument for keeping Zinsser and Pinker on the reading list rather than striking
+them.** The register catches slop. **Neither the register nor any counter in it can tell you
+the prose is bloodless**, and bloodless is the failure this project's voice is actually at risk
+from.
 
 ## 4 · What this leaves open, in the order it would pay
 
