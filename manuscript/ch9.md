@@ -46,7 +46,7 @@ That allyship meant becoming a perfect Shaman, or Challenger, or Regent, or Arch
 
 This is the distortion. It crept in slowly, the way most distortions do, not as a lie, but as an understandable mistake.
 
-Villagers heard the six Faces and thought: *these are the types* — the Shaman type, the Challenger type, the Regent type, the Architect type, the Diplomat type, the Sage type. Anyone who wasn't one of those, who didn't naturally feel-first, or draw-lines, or build-systems, wasn't doing it right.
+Villagers heard the six Faces and thought: *these are the types*: the Shaman type, the Challenger type, the Regent type, the Architect type, the Diplomat type, the Sage type. Anyone who wasn't one of those, who didn't naturally feel-first, or draw-lines, or build-systems, wasn't doing it right.
 
 Villagers forgot that the Faces were a map, not a menu. That you don't *become* one of them: you *move through* all of them, depending on what the moment requires. That the goal asks for something else: playing any game the villagers need played, whatever the moment requires, rather than arriving at Sage and staying there.
 
@@ -331,7 +331,7 @@ The book in your hands came from the bottom of that well. The spite did not prod
 
 When I started writing this book, I didn't have it figured out. I had a felt sense of what was missing (a practice that actually taught the Form, that turned the emotional alchemy into moves you could run instead of only understand), and I had enough of the six Faces to know what I was trying to do. The book would not come clear. The shape kept changing. I sat in front of chapters I could not write with no way to tell tired from done, and I started them again anyway. The walk never ran straight from plan to execution. It ran on iteration: review, discern, design, build, pass on, loop.
 
-That's what the walk feels like — not ascending but circling. Each circle goes a little deeper.
+That's what the walk feels like. It is not ascending but circling. Each circle goes a little deeper.
 
 ---
 
