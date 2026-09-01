@@ -300,15 +300,15 @@ The native material at the Sage's altitude is *perspective*: what every earlier 
 
 The Sage sees in five modes. Each one is a tool. Each one, run wrong, becomes a shadow.
 
-**Panoramic Seer:** the mode of taking in the whole field, even briefly. Holding all four games at once without collapsing into any of them.
+**Panoramic Seer** is the mode of taking in the whole field, even briefly. Holding all four games at once without collapsing into any of them.
 
-**Game-Switcher:** the mode of deliberate movement between games. Stepping into the power game because the moment needs it, and going back down without feeling diminished.
+**Game-Switcher** is the mode of deliberate movement between games. Stepping into the power game because the moment needs it, and going back down without feeling diminished.
 
-**Diagnostician:** the mode of naming out loud which game a group is in, and what the stuckness costs them. Serviceable, precise, kind.
+**Diagnostician** is the mode of naming out loud which game a group is in, and what the stuckness costs them. Serviceable, precise, kind.
 
-**Liberator:** the mode of putting a game down when it's no longer serving. Freedom for yourself and for the people who played it with you.
+**Liberator** is the mode of putting a game down when it's no longer serving. Freedom for yourself and for the people who played it with you.
 
-**Returner:** the mode of coming back into the narrower games without condescension. Dignity intact for everyone.
+**Returner** is the mode of coming back into the narrower games without condescension. Dignity intact for everyone.
 
 ### Draw the Axis — Which Game ↔ Which Altitude
 

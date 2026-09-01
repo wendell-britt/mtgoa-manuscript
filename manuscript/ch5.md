@@ -341,13 +341,13 @@ The draw is solo. Not a conflict between you and another person. Your inheritanc
 
 The Regent works with loyalty in five distinct modes. Each names a different relationship to what was passed down.
 
-**1. The Custodian:** the mode of caring for what exists, ahead of changing it and ahead of judging it. Just noticing: this is here. This has lasted. Someone tended this before me. *What have I been given that still works?*
+**1. The Custodian** is the mode of caring for what exists, ahead of changing it and ahead of judging it. Just noticing: this is here. This has lasted. Someone tended this before me. *What have I been given that still works?*
 
-**2. The Inheritor:** the mode of receiving, including receiving the damage. The Inheritor knows that every inheritance carries both medicine and wound. *What came with my inheritance that I didn't choose?*
+**2. The Inheritor** is the mode of receiving, including receiving the damage. The Inheritor knows that every inheritance carries both medicine and wound. *What came with my inheritance that I didn't choose?*
 
-**3. The Teacher:** the mode of passing it forward in a form the next person can actually receive. The Teacher knows that a tradition that cannot be received is a tradition that will die. *Who is coming after me, and what do they actually need?*
+**3. The Teacher** is the mode of passing it forward in a form the next person can actually receive. The Teacher knows that a tradition that cannot be received is a tradition that will die. *Who is coming after me, and what do they actually need?*
 
-**4. The Reformer:** the mode of changing the tradition while honoring the lineage. The Reformer loves what came before enough to change what no longer works. *What needs to change so this survives?*
+**4. The Reformer** is the mode of changing the tradition while honoring the lineage. The Reformer loves what came before enough to change what no longer works. *What needs to change so this survives?*
 
 **5. The Keeper of Vows.** The mode of honoring commitment across time, especially when no one is watching. The Keeper of Vows does not perform loyalty. The Keeper of Vows lives it. *What did I say I would do, and am I still doing it?*
 

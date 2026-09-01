@@ -30,7 +30,7 @@
 > who is right roughly four minutes earlier than it did before, and four minutes is more than
 > it sounds.
 >
-> **3. What it costs.** Acknowledgement. A student once put it this way at the end of her
+> **3. What it costs:** acknowledgement. A student once put it this way at the end of her
 > fourth year: *the terms held and nobody knew I wrote them, and I did not expect to mind, and
 > I mind.* She was right to say so and no version of this training removes it. Those who came
 > for the thanks have suffered as a result.
@@ -39,7 +39,7 @@
 > school gets the agreement. It cannot get the century. Such cases go to the School of the
 > Oath, which can, and which will be dry about it.
 >
-> **5. Entry:** prior standing at the School of the Pattern. The design producing the pressure
+> **5. Entry:** we require prior standing at the School of the Pattern. The design producing the pressure
 > must be visible before one sits down inside the pressure, or the negotiation will be with a
 > person about a machine.
 >
@@ -124,15 +124,15 @@ People commonly misunderstand the Diplomat's stance. Niceness, conflict-avoidanc
 
 The Diplomat operates through five modes:
 
-**Bridge-Builder:** the mode of initial entry. Making contact. Showing up curious rather than defended. Creating the possibility of relationship without yet knowing what the relationship will require.
+**Bridge-Builder** is the mode of initial entry. It makes contact, shows up curious rather than defended, and creates the possibility of relationship without yet knowing what the relationship will require.
 
-**Translator:** the mode of rendering meaning. Taking what one party means and translating it into terms another party can actually hear. Bridging the gap between ways of being in the world, without softening it and without betraying it.
+**Translator** is the mode of rendering meaning. Taking what one party means and translating it into terms another party can actually hear. Bridging the gap between ways of being in the world, without softening it and without betraying it.
 
-**Field-Holder:** the mode of maintained safety. The work of keeping the relational space open and charged enough that difficult conversations remain possible. Holding rather than solving.
+**Field-Holder** is the mode of maintained safety. It keeps the relational space open and charged enough that difficult conversations remain possible, holding rather than solving.
 
-**Repairer:** the mode of healing ruptures. The work of addressing harm somebody did, without pretending it did not occur, and without letting the repair process create new harm.
+**Repairer** is the mode of healing ruptures. The work of addressing harm somebody did, without pretending it did not occur, and without letting the repair process create new harm.
 
-**Integrative Negotiator:** the mode of honest closing. Surfacing stakes, interests, and sacrifices; naming what the agreement must hold for everyone, and closing so the field moves.
+**Integrative Negotiator** is the mode of honest closing. Surfacing stakes, interests, and sacrifices; naming what the agreement must hold for everyone, and closing so the field moves.
 
 You have already met a version of "terms," and that version forces the School of the Bridge to define the word before it can use it.
 
@@ -140,7 +140,7 @@ The villagers harden terms into ultimatums. Terms are what someone says when the
 
 That decision is an accurate reading of a specific misuse. Accuracy explains why nobody has talked her out of it. The problem is what it costs to generalize from it.
 
-Case forty-one. Both transcripts, hers first.
+This is case forty-one, with both transcripts, hers first.
 
 She said: I need you to stop. Later, to me: I thought I was asking.
 
@@ -209,7 +209,7 @@ One part of this belongs specifically to this reader, and it explains why the ax
 <!-- /SIGNATURE -->
 
 
-*Back to the chapter.*
+*Now the chapter resumes.*
 
 *For the full process and additional pairs, see Appendix F: The Polarity Map.*
 
@@ -226,7 +226,7 @@ The native material at the Diplomat's altitude is *relationship*. You carry emot
 
 ### Draw the Axis — Care ↔ Impact
 
-The draw is relational. Not solo. Pick a live field with actual people making it, because this axis only shows its position when something is at stake between you and somebody else.
+The draw is relational rather than solo. Pick a live field with actual people making it, because this axis only shows its position when something is at stake between you and somebody else.
 
 **Try this now.**
 
@@ -304,13 +304,13 @@ Call it optimism if you want. The discipline extends to the present the same hyp
 
 The structural pattern here is **untracked depletion**: you bridge past your capacity, treating every connection as required, and never notice what it costs until you are empty.
 
-The Control move: build the bridge → check the fuel gauge before crossing. *Do I have capacity for this contact? Am I bridging because someone here actually needs me, or because I can't say no to the request?* This fixes structure, not emotion. It names the cost of bridging before warmth turns into depletion.
+The Control move runs: build the bridge → check the fuel gauge before crossing. *Do I have capacity for this contact? Am I bridging because someone here actually needs me, or because I can't say no to the request?* This fixes structure, not emotion. It names the cost of bridging before warmth turns into depletion.
 
 **Control 2 — Performative Presence**
 
 The structural pattern here is **performative presence**: always smiling, always reaching, never arriving, because you spend it all managing how you come across.
 
-The Control move: ground the performance in actual feeling. *What is the actual quality of my presence right now? Am I generating warmth or just distributing it?* The correction redirects from output to internal state, so that something real builds the bridge.
+The Control move is to ground the performance in actual feeling. *What is the actual quality of my presence right now? Am I generating warmth or just distributing it?* The correction redirects from output to internal state, so that something real builds the bridge.
 
 ---
 
@@ -400,7 +400,7 @@ The alchemy: *I stop protecting the field and start building one that can take w
 
 **From Presence to Structure**
 
-**Fire → Earth: Heat translated into form.** When conflict charges a field (hot, fast, potentially explosive), the field will not cool down. It will move, and the Translate move gives the movement a shape. A boundary. A format. A pause that says: *let's do this deliberately.* The fire doesn't go out. It becomes a fireplace instead of a wildfire.
+**Fire → Earth: Heat translated into form.** When conflict charges a field (hot, fast, potentially explosive), the field will not cool down. It will move, and the Translate move gives the movement a shape: a boundary, a format, a pause that says: *let's do this deliberately.* The fire doesn't go out. It becomes a fireplace instead of a wildfire.
 
 **Water → Wood: Sadness translated into forward motion.** When a field sits stuck in sadness (slow, heavy, collapsed), the Translate move carries that energy forward into possibility. The field has been hurt. It needs to grieve. It also needs to know it can still move.
 
@@ -484,7 +484,7 @@ The alchemy: *I ask what each position is guarding, not just what it says.* Posi
 
 **Fire → Earth: Heat translated into structure.** When competing demands charge a field (hot, righteous, each side certain), the Translate move gives the fire a shape it can move through. *What would each of you need to see change for this to be workable?* The anger becomes the material you build terms from.
 
-**Earth → Fire: Vague agreement translated into committed close.** When a field has arrived at something that sounds aligned but isn't yet specific, the Translate move carries the structure forward into commitment. *What are we actually agreeing to? By when? Who does what?* The Diplomat's altitude loves process. This channel loves a close.
+**Earth → Fire: Vague agreement translated into committed close.** When a field has arrived at something that sounds aligned but isn't yet specific, the Translate move carries the structure forward into commitment. *What are we actually agreeing to? By when do we do it? Who does what?* The Diplomat's altitude loves process. This channel loves a close.
 
 **Control — Endless Process Pattern**
 
@@ -502,9 +502,9 @@ This is where **Refuse False Equivalence** lives inside the Fire channel, not as
 
 **The structure of the Discernment Check:** Before you close, ask: *Can I paraphrase each party's interest accurately enough that its strongest advocate would recognize it? Do the terms we're proposing actually address those interests, or are we papering over a gap?* False closure dissolves into a close you can stand behind.
 
-*When negotiation fails, when someone refuses to name stakes, when harmony is cover for harm, when the field cannot hold truth, the Challenger's clean no is the next move. That is Chapter 4's game. Negotiate first. Line when the field cannot hold truth.*
+*When negotiation fails, when someone refuses to name stakes, when harmony is cover for harm, when the field cannot hold truth, the Challenger's clean no is the next move. That is Chapter 4's game. Negotiate first, and draw the line when the field cannot hold truth.*
 
-*What the Integrative Negotiator is for is the capacity to close. Not harmony instead of truth. Harmony that includes truth. A field the parties have truly negotiated is not softer at the close. It is more real.*
+*What the Integrative Negotiator is for is the capacity to close. It is not harmony instead of truth but harmony that includes truth. A field the parties have truly negotiated is not softer at the close. It is more real.*
 
 ---
 
@@ -556,7 +556,7 @@ You met the Victim at the door of the Forest, sixth in line. The Protector decid
 
 <!-- MARGINALIA -->
 > *I found out a friend was going through something, and my first clear feeling was relief that she
-> had told me and not somebody else. Not concern. Relief — and underneath it a small satisfaction
+> had told me and not somebody else. It was not concern. Relief — and underneath it a small satisfaction
 > that was entirely about my standing and not at all about her.*
 >
 > *I have looked at that from several angles since. It is still what it is.*
@@ -692,7 +692,7 @@ The Diplomat translates: *"What I hear [Camp A] saying, in [Camp B]'s language, 
 > before the conversation rather than during it. The other half you will find that you do, and that
 > you have known it for months, which is worse and more useful.*
 >
-> *Either way — say it to yourself in one sentence before you go in. Not to decide anything. Only to
+> *Either way — say it to yourself in one sentence before you go in, not to decide anything. Only to
 > find out which half you are in.*
 <!-- /MARGINALIA -->
 
@@ -729,7 +729,7 @@ The structure:
 
 **1. Name what broke.** Not your interpretation of what broke. What was actually said or done. *"When you said that in the meeting, that broke something."*
 
-**2. Name your part.** Not their part. Yours. What did you do or fail to do that contributed to the rupture? *"I know I've been more withdrawn the last two weeks, and I know that reads as pulling away, and I wasn't communicating why, and that must have felt like a punishment."*
+**2. Name your part**, not theirs. What did you do or fail to do that contributed to the rupture? *"I know I've been more withdrawn the last two weeks, and I know that reads as pulling away, and I wasn't communicating why, and that must have felt like a punishment."*
 
 **3. Name what you're not asking for.** Repair is not the same as reconciliation. You are naming what happened and your role in it. You are not asking them to pretend it didn't happen, or to trust you again immediately, or to change their response to it. *"I'm not asking you to feel better about it. I'm not even asking you to trust me again yet. I just needed you to know I know what happened and I know my part."*
 
@@ -749,7 +749,7 @@ Staying does not mean insisting on access after someone has set a boundary. Resp
 
 ### Move 5: Refuse False Equivalence
 
-*Prerequisite: Move 2. You have not earned a refusal until you can translate the position you are refusing*
+*Move 2 is the prerequisite. You have not earned a refusal until you can translate the position you are refusing*
 
 **What it is:** Not all positions deserve equal weight. Say so, clearly, without apology, and without pretending your refusal is neutral when it is a position.
 
@@ -828,7 +828,7 @@ Each Tell targets the Diplomat's signature failure: the close spent on getting t
 
 ## Your Twenty Cards
 
-The grid again, fifth operation of six. Five moves down, four domains across, twenty cards. These are the Diplomat's.
+Here is the grid again, fifth operation of six. Five moves down, four domains across, twenty cards. These are the Diplomat's.
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
@@ -842,9 +842,9 @@ Draw from your twenty rather than the hundred and twenty, though not all from on
 
 **Open Up.** Compassion goes out at full strength in every direction except one. Whatever anyone says about your impact becomes the one subject nobody there can relate to compassionately, because relating to it compassionately would mean holding it as true.
 
-**Clean Up:** it chooses the destination channel that keeps the ledger open. Water over Fire, every time. Sadness reads as blameless and asks nothing of anyone; anger would have to make a request, and a request can be refused.
+**Clean Up:** it chooses the destination channel that keeps the ledger open, choosing Water over Fire every time. Sadness reads as blameless and asks nothing of anyone; anger would have to make a request, and a request can be refused.
 
-**Grow Up.** Asked how this affects others, it answers what others will finally understand about what you carried. Growth as vindication. The people the growth is supposed to reach become the audience for the account.
+**Grow Up.** Asked how this affects others, it answers what others will finally understand about what you carried, so growth arrives as vindication. The people the growth is supposed to reach become the audience for the account.
 
 **Show Up.** The relationship it creates is a witness list. Who must be involved becomes who will corroborate, and the field fills with people who know your side of it and have never met the other one.
 
@@ -862,7 +862,7 @@ A card that ends in a notebook is a card you read. A card that ends in a quest i
 
 One sentence: what you will do, who it reaches, by when, and what it costs you. *Bring Them Into the Structure* becomes: **I will put the two people who have been running intake without a title into the decision that names it, at Thursday's meeting, and it will cost me being the one who explains them to everybody else.** That is a quest. *I will be more inclusive in how decisions get made* is not one; nobody can tell whether you did it, including you.
 
-The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For a Diplomat the dread usually says that naming the terms will cost you the belonging. Occasionally true, and not a reason.
+The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For a Diplomat the dread usually says that naming the terms will cost you the belonging. That is occasionally true, and it is not a reason.
 
 *Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
 
