@@ -138,7 +138,7 @@ The villagers didn't realize any of this. They thought themselves practical. Wha
 
 The School of the Pattern teaches in language that has a bad record.
 
-*Incentive structure, leverage point, systems thinking* — those words have a documented second career explaining why the funding got cut, why the team got restructured, why the program that worked got killed because nobody could measure it correctly. The most analytical person at the table frequently drains the life out of something that had finally started moving, and they do it in exactly this vocabulary. Anyone who has watched that happen holds the words at arm's length, rightly. You earned the suspicion, and I am not going to argue you out of it.
+The words *incentive structure*, *leverage point* and *systems thinking* have a documented second career explaining why the funding got cut, why the team got restructured, why the program that worked got killed because nobody could measure it correctly. The most analytical person at the table frequently drains the life out of something that had finally started moving, and they do it in exactly this vocabulary. Anyone who has watched that happen holds the words at arm's length, rightly. You earned the suspicion, and I am not going to argue you out of it.
 
 Let me set something next to it, as a proposition rather than a diagnosis, because only you know whether it belongs to you: *the organizations that exiled structural clarity and kept all the heart burn out the people inside them, and they do it faster than the cold ones.*
 
@@ -419,7 +419,7 @@ Run it forward, though. The person the injustice happened to needed to be met. W
 
 I have a part of me I call the Collapse. I call it that because that is what it is afraid of. The Collapse watched a design I was proud of get dismantled in a meeting, and it still cringes at the system I built that nobody used. The Collapse is not abstract; it has receipts. What it says to me is specific: *if you design this and it fails, everyone will know it was you. Your name is on it. Your thinking is in it. When it does not work, it will not be forgotten: it will be cited as evidence, as proof that you were never as smart as everyone thought.*
 
-Here is what I have watched myself do with that, more than once. I hand it to the design — not to the Fixer but to the design itself. The Collapse says *this could fail publicly* and I answer by making the design more defensible: another contingency, another dependency mapped, another paragraph of rationale nobody asked for. The fear becomes rigor. Rigor is such a good disguise that I have gone entire quarters without noticing that a specific piece of dread was doing my architecture. That is the arrangement I want you to see, because it is the whole racket: the Emotional Body is being *employed.* It is building.
+Here is what I have watched myself do with that, more than once. I hand it to the design, not to the Fixer but to the design itself. The Collapse says *this could fail publicly* and I answer by making the design more defensible: another contingency, another dependency mapped, another paragraph of rationale nobody asked for. The fear becomes rigor. Rigor is such a good disguise that I have gone entire quarters without noticing that a specific piece of dread was doing my architecture. That is the arrangement I want you to see, because it is the whole racket: the Emotional Body is being *employed.* It is building.
 
 The Collapse does not get to decide whether I ship. It also does not get to be laundered into a spec.
 
@@ -577,7 +577,7 @@ In practice: before you start designing, ask: what is the one question this desi
 
 **What it is:** When the design is wrong, change it without shaming the version that got you here.
 
-**Why it matters:** Designers get attached to their designs. Not in a vanity way, necessarily — the design is the thought. The thought is the designer. When you change the design, it can feel like you're rejecting yourself.
+**Why it matters:** Designers get attached to their designs, and the attachment has a reason. The design is the thought. The thought is the designer. When you change the design, it can feel like you're rejecting yourself.
 
 Refactoring kindly means: you can see clearly that the design needs to change, and you can also hold the fact that the previous version was what got you here. It did its job. It taught you what you know now. Without it, you would not have the information you have. Honor that. Say it out loud.
 

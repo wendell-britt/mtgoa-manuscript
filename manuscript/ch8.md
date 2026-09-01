@@ -384,7 +384,7 @@ The alchemy: you notice the flatness, you name it (*I have gone unstaked, and un
 **Alchemy Move 4: Liberator**  
 Joy fused to the game: **Joy** → *Bliss*
 
-Underneath the Liberator's first failure is something almost nobody names out loud: the game is fun — not pleasant but fun. The fight has a rhythm you're good at. The struggle doubles as its own perverse entertainment. Whatever else it costs, a specific kind of aliveness lives there for you, and putting it down means putting that down too.
+Underneath the Liberator's first failure is something almost nobody names out loud: the game is fun. It is not pleasant, but it is fun. The fight has a rhythm you're good at. The struggle doubles as its own perverse entertainment. Whatever else it costs, a specific kind of aliveness lives there for you, and putting it down means putting that down too.
 
 This is stuck Joy, and stuck Joy is the hardest of the five to catch, because it doesn't feel like a problem. It feels like commitment. *I am the person who holds this together* names the feeling, and saying it feels good.
 
@@ -719,7 +719,7 @@ You can see the whole board. You can name every game. You know which one you're 
 
 You can hold the whole-board view inside while your body sits in the power game, in the fight, in the work. You can know that this conflict is one expression of a pattern that recurs everywhere and still draw the line this moment requires. You can know that this relationship is one iteration of a form that will keep recurring and still show up for it fully. You can know you're mortal and the game is older than you and none of this will matter in a hundred years, and still care, not despite knowing, because of it.
 
-**Why it matters:** That's mastery — not instead of choosing but *along with* choosing. Holding the meta means keeping the view and still doing what the view is for. Standing outside is the cheaper version.
+**Why it matters:** That's mastery, not instead of choosing but *along with* choosing. Holding the meta means keeping the view and still doing what the view is for. Standing outside is the cheaper version.
 
 **Working vs. performed:** It is the meta without the ground: seeing everything, committing to nothing, the view without the practice. Always above, never in. The real Sage is in it, has skin in it, draws the line and holds the field and builds the structure and stays, and knows which game they're doing it from.
 
@@ -808,7 +808,7 @@ It bites hardest in the Grow Up cards. The Damaged Self's remit is whether you'r
 
 Take **Who the Fight Makes You**: Grow Up, Direct Action, Sage. Its question is the one the Damaged Self exists to route around: *what does playing this make me?* Not what's wrong with the player. What the playing builds. The card assumes the instrument works and asks what it's becoming: the assumption the daemon cannot make on its own.
 
-Run it once, on something real. Bring a fight you're carrying right now: an actual one, with people in it. Wake Up: name the game, and notice the footnote about yourself that arrives with it. Open Up: witness one minute of what it's like to be inside this fight, without auditing the witnessing. Clean Up: name the channel as Fire, Water, Metal, Earth or Wood — one of them, and not *my thing.* Grow Up: name what this fight is building in you, stated as a capacity rather than a repair. Show Up: pick a domain and name what you'd leave behind if you stopped playing tomorrow.
+Run it once, on something real. Bring a fight you're carrying right now: an actual one, with people in it. Wake Up: name the game, and notice the footnote about yourself that arrives with it. Open Up: witness one minute of what it's like to be inside this fight, without auditing the witnessing. Clean Up: name the channel as Fire, Water, Metal, Earth or Wood, one of them, and not *my thing.* Grow Up: name what this fight is building in you, stated as a capacity rather than a repair. Show Up: pick a domain and name what you'd leave behind if you stopped playing tomorrow.
 
 Five moves, one card, ninety seconds. The Sage's version stands alone in the book: here the hard part is refusing to run a second pass.
 
