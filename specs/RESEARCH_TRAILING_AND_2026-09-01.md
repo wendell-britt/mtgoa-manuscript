@@ -49,7 +49,7 @@ sentences, by sentences of two clauses joined by a semicolon, by periodic senten
 clauses, by sentences, loose or periodic, of three clauses — **whichever best represent the
 real relations of the thought**."*
 
-### Rule 4 carries the theory, and it says the thing exactly
+### Rule 4 carries the theory, and it names the defect exactly
 
 **Rule 14 points back at Rule 4 twice, and Rule 4 is where the diagnosis actually lives.**
 Verbatim:
