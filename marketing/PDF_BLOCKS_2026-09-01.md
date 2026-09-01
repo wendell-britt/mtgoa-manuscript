@@ -44,7 +44,7 @@ where the ask lives so it does not ambush them at the end.
 a gift"* — the first version scored `expletive` 5.21 on the one sentence the principle
 requires, and the fix names who did it.
 
-**And *"since you do"* is the blessing D-5 asks for.** No watermark, no rights notice, and the
+***"Since you do"* is the blessing D-5 asks for.** No watermark, no rights notice, and the
 line grants the ownership rather than describing a tolerance.
 
 ## FR-5 · The closing ask block
@@ -67,7 +67,7 @@ Pass it on. That was always the plan.
 
 | element | requirement | how it lands |
 |---|---|---|
-| what paying gets you | replaces the struck FR-5 item 1 | the course, named as a thing the reader receives rather than as a budget |
+| what paying gets you | replaces the struck FR-5 item 1 | the course, named as something the reader receives rather than as a budget |
 | the amount | FR-5 item 2 | *"thirty dollars is where most people land, though nothing stops you setting it higher"* — D-1's floor and D-2's open ceiling in one sentence |
 | the free ways in | FR-5 item 3, FR-6, P-5 | signup, review, forward — three, and the first is the strongest |
 
@@ -104,7 +104,7 @@ MID, 0 NEG** · pronouns **0 orphans, 0 distant**.
 |---|---|---|
 | *"which is what you have been doing all along without calling it that"* | **`MANUSCRIPT_FILE_CANON:154`** — narrates the reader's unnamed history back to her as fact | *"Chapter 1 tells you that you are one."* The claim moves from her past to the book |
 | *"though the box has no ceiling"* | *the box* is a Gumroad payment field, invisible to somebody reading a printed page | *"nothing stops you setting it higher"* |
-| *"is the move that got the book to you in the first place"* | **True only for the gift reader.** For a buyer it is simply false, and D-6 forbids a block that quietly addresses one of the two | *"is how it has travelled this far"* |
+| *"is the move that got the book to you in the first place"* | **True only for the gift reader.** For a buyer it is simply false, and D-6 forbids a block that addresses one of the two without saying so | *"is how it has travelled this far"* |
 | *"That is what waits at masteringallyship.com/book"* | *That* pointed loosely at the preceding sentence | *"You can start those thirty days at…"* — a doer and a named object |
 
 **One reported fragment, and it is the tagger.** `3a` flags *"Chapter 1 tells you that you are
