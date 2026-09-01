@@ -108,7 +108,8 @@ confirm consider count cover define delete draft drop end explain extend
 enter fill finish focus get give go grow guess handle hear help hold imagine
 keep kill know learn leave let list listen live look lose love make mark match meet
 mention message move name notice note
-feel learn locate offer open own pause pay perform pick picture place play point
+adjust deploy feel honor iterate learn locate observe offer open own pause pay perform
+pick picture place play point refactor
 post prefer prepare propose prove pull push put repeat
 quote raise reach read realize record refuse remember remind remove repair repeat
 replace return
