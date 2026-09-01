@@ -185,9 +185,14 @@ def draft(paths):
         #
         # Ordering: these run after the counters and before the reading, because the
         # reading is what they are meant to shorten rather than replace.
+        # 3d added 2026-09-01. Wendell, on a sentence that had passed every other step:
+        # "this trailing 'and' construction needs to go. I don't want to see it anymore in
+        # any writing that I want to have generated." Measured, my rate was 25.6% against
+        # the book's 13.9%. See specs/RESEARCH_TRAILING_AND_2026-09-01.md.
         for tag, tool, keep in (("3a frag ", "fragment.py", 2),
                                 ("3b pron ", "antecedent.py", 2),
-                                ("3c slop ", "slop_shapes.py", 3)):
+                                ("3c slop ", "slop_shapes.py", 3),
+                                ("3d and  ", "trailing_and.py", 3)):
             code, out = run([os.path.join(HERE, tool), path])
             rows = [l for l in out.split("\n") if l.startswith(os.path.basename(path)[:22])]
             print("  %s  %s" % (tag, rows[0].strip() if rows else "no score"))
@@ -252,6 +257,9 @@ def book():
         # own ranking-not-denying constraint produces on purpose. Reports so the standing
         # count is visible; the draft path is where it does real work.
         ("7f slop shapes", ["instruments/slop_shapes.py"], "reporting only"),
+        # 7g, added 2026-09-01. Book-wide this prints the baseline the draft path scores
+        # against -- 13.9% of sentences -- rather than gating anything.
+        ("7g trailing and", ["instruments/trailing_and.py"], "book baseline"),
     ]
     bad = 0
     for label, cmd, want in steps:

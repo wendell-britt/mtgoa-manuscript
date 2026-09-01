@@ -49,17 +49,17 @@ line grants the ownership rather than describing a tolerance.
 
 ## FR-5 · The closing ask block
 
-**The final content pages, before the appendices. 244 words.**
+**The final content pages, before the appendices. 249 words.**
 
-The book hands you the moves. Running them is a different matter, and thirty days is roughly how long a form takes to stop needing your attention.
+The book hands you the moves. Running them is a different matter. A form needs about thirty days before it stops asking for your attention.
 
-You can start those thirty days at masteringallyship.com/book. One move a day, worked against something already happening in your own life, and at the end you have a campaign of your own. Campaign is the book's word for a run of connected sessions with a through-line, which is what a Game Master runs. Chapter 1 tells you that you are one.
+You can start those thirty days at masteringallyship.com/book. One move a day, worked against something already happening in your own life, until you come out the far end holding a campaign of your own. Campaign is the book's word for a run of connected sessions with a through-line, which is what a Game Master runs. Chapter 1 tells you that you are one.
 
 If you paid for this file, the course is already yours. Open that page and it lets you in.
 
-If somebody handed you this file, the course is open to you too. Sign up with an email and it costs nothing. Pay what the book turned out to be worth if you would rather, and thirty dollars is where most people land, though nothing stops you setting it higher. Buy the course on its own if that is cleaner.
+If somebody handed you this file, the course is open to you too. Sign up with an email and it costs nothing. You can pay what the book turned out to be worth instead. Thirty dollars is where most people land, though nothing stops you setting it higher. Buy the course on its own if that is cleaner.
 
-Two other moves help and neither one costs money. A review on Amazon puts the book in front of people who are searching for exactly this and do not know it exists yet; if you bought the book somewhere else, the review posts as unverified and carries less weight, which is worth knowing now rather than after. Sending the book to one person who needs it is how it has travelled this far, and the Amazon link carries it as well as the file does.
+Two other moves help. Neither one costs money. A review on Amazon puts the book in front of people who are searching for exactly this without knowing it exists; if you bought the book somewhere else, the review posts as unverified and carries less weight, which is worth knowing now rather than after. Sending the book to one person who needs it is how it has travelled this far. The Amazon link carries it as well as the file does.
 
 Pass it on. That was always the plan.
 
