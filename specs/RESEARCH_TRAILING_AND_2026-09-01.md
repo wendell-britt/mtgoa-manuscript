@@ -37,17 +37,44 @@ sentences*, is about exactly this shape and no other:
 > two co-ordinate clauses, the second introduced by a conjunction or relative."*
 
 **He also names the connectives**, which is the list to watch for: *"using as connectives
-**and**, **but**, and less frequently, **who, which, when, where, and while**."*
+**and**, **but**, and less frequently, **who, which, when, where, and while**, these last in
+non-restrictive senses."*
 
-**His diagnosis is the sentence worth memorising.** The replacements he offers — simple
-sentences, two clauses joined by a semicolon, periodic sentences, three-clause sentences —
-are to be chosen *"whichever best represent **the real relations of the thought**."*
+**His verdict on the sample paragraph names the sound of it.** *"Apart from its triteness and
+emptiness, the paragraph above is bad because of the structure of its sentences, with their
+**mechanical symmetry and sing-song**."*
 
-**That is the whole defect in five words.** English gives you a full set of connectives that
-each commit to a relationship: *because* asserts cause, *once* asserts sequence, *though*
-asserts concession, *which* asserts dependency. **`and` commits to nothing.** It says only
-*here is another one*. So a writer reaching for `and` where a subordinator belongs is
-declining to say how two ideas relate — usually because they have not worked it out.
+**The repair list ends on the sentence worth memorising.** Recast them *"by simple
+sentences, by sentences of two clauses joined by a semicolon, by periodic sentences of two
+clauses, by sentences, loose or periodic, of three clauses — **whichever best represent the
+real relations of the thought**."*
+
+### Rule 4 carries the theory, and it says the thing exactly
+
+**Rule 14 points back at Rule 4 twice, and Rule 4 is where the diagnosis actually lives.**
+Verbatim:
+
+> *"As they make complete sense when the comma is reached, **the second clause has the
+> appearance of an after-thought**. Further, **and, is the least specific of connectives**.
+> Used between independent clauses, **it indicates only that a relation exists between them
+> without defining that relation**."*
+
+**Strunk states the defect better in 1918 than I stated it this morning.** Every other
+connective commits — *because* to cause, *once* to sequence, *though* to concession. `and`
+reports that a relation exists and declines to say which, so reaching for it is declining to
+work out how two ideas relate.
+
+**Rule 4 also supplies the two repairs Strunk considers first**, worked on his own example
+*"The early records of the city have disappeared, and the story of its first years can no
+longer be reconstructed"*:
+
+| move | his version |
+|---|---|
+| **subordinate** | *"**As** the early records of the city have disappeared, the story of its first years can no longer be reconstructed."* |
+| **reduce to a phrase** | *"**Owing to the disappearance** of the early records of the city, the story of its first years can no longer be reconstructed."* |
+
+**He names the relation his own example was hiding:** *"In the example above, the relation is
+that of **cause and result**."* The `and` had been standing in for *because*.
 
 ### The technical frame, for the cases where it is correct
 
@@ -125,9 +152,14 @@ to cause, *so* to consequence, *once* to sequence, *though* to concession. **`an
 hypothesis of connectives**, and it is always available, at any point in any sentence, without
 knowing yet what you think.
 
-**It is a hedge against the stress position.** English puts weight at the end of a sentence.
-Stopping after the first clause commits to that clause being the point. Adding `, and …`
-defers the commitment and softens the landing — which feels safer and reads as less certain.
+**It is a hedge against commitment, and Strunk saw that too.** His Rule 15 sets a loose
+version against a semicolon version of the same idea and rules on the writer rather than on
+the sentence: *"The left-hand version gives the impression that **the writer is undecided or
+timid; he seems unable or afraid to choose one form of expression and hold to it**."*
+
+**English puts weight at the end of a sentence.** Stopping after the first clause commits to
+that clause being the point. Adding `, and …` defers the commitment and softens the landing,
+which feels safer to write and reads as less certain.
 
 **It manufactures a rhythm that sounds considered.** A two-beat sentence has balance, and
 balance passes for thought. Strunk's word for what a run of them produces is *"mechanical
@@ -172,9 +204,17 @@ worse error than the tic.**
 on purpose, doing work no other structure does. **Mine is an unmarked default at 25%, which is
 neither.**
 
-**Strunk himself allows the single instance.** *"Although single sentences of this type may be
-unexceptionable… a series soon becomes monotonous."* **The rule is about rate, not about
-occurrence** — which is exactly what an instrument can measure and a reader cannot.
+**Strunk defends the occasional loose sentence outright**, which is the passage that settles
+the target at the book's rate rather than at zero. Rule 4, verbatim:
+
+> *"a writer may err by making his sentences too uniformly compact and periodic, and **an
+> occasional loose sentence prevents the style from becoming too formal and gives the reader a
+> certain relief**. Consequently, loose sentences of the type first quoted are common in easy,
+> unstudied writing."*
+
+**So the rule is about rate rather than occurrence** — which is exactly what an instrument can
+measure and a reader cannot. Rule 14 says the same from the other side: *"single sentences of
+this type may be unexceptionable… a series soon becomes monotonous and tedious."*
 
 ## 7 · The house rule
 
@@ -192,19 +232,27 @@ ranking tag is a defect.**
 **`instruments/trailing_and.py` measures it and `review.py` runs it**, because this project has
 learned twice now that a rule with no call site is a rule nobody keeps.
 
-## 8 · What I could not verify
+## 8 · Sourcing
 
-**I could not read Strunk's primary text.** Wendell sent the Gutenberg edition and
-`gutenberg.org` is blocked by this environment's egress proxy, as are the four other
-full-text mirrors I tried. **The quoted passages come from search-result extracts** of Rule 14,
-and they are consistent across independent sources, which is not the same as reading the page.
-**Check the wording against the Gutenberg text before quoting it anywhere public.**
+**Strunk is now verified against the primary text.** Wendell sent the Gutenberg link first and
+`gutenberg.org` is blocked by this environment's proxy, as were four other mirrors; he then
+uploaded the PDF directly. **Every Strunk quotation above is read off that file** — Rules 4, 14
+and 15 of the 1918 *Elements of Style*, the Strunk-only text before White's revision renumbered
+the rules.
 
-**Williams, Hemingway and the King James characterisations are likewise second-hand** for this
-session. The measurement in §2 and the reading in §3 are mine and are reproducible with
-`instruments/trailing_and.py`.
+**Reading it changed the document rather than confirming it.** Two points I had wrong or thin:
 
-**Sources.** [Strunk, *The Elements of Style*, 1918 — Gutenberg](https://www.gutenberg.org/files/37134/37134-h/37134-h.htm) ·
+- **The theory is in Rule 4, not Rule 14.** *"and, is the least specific of connectives… it
+  indicates only that a relation exists between them without defining that relation."* I had
+  reasoned my way to that and stated it worse.
+- **Strunk defends the occasional loose sentence in as many words**, which turns the
+  target-is-13.9%-not-zero ruling from my judgement into his.
+
+**Williams, Hemingway and the King James characterisations remain second-hand** for this
+session and are marked as such. The measurement in §2 and the reading in §3 are mine and
+reproduce with `instruments/trailing_and.py`.
+
+**Sources.** **Strunk, *The Elements of Style*, 1918 — read from the PDF Wendell uploaded, Rules 4, 14 and 15.** ·
 [Rule 14 discussion](https://www.oocities.org/mdmorrissey/loose.htm) ·
 [Loose sentence](https://en.wikipedia.org/wiki/Loose_sentence) ·
 [Parataxis](https://en.wikipedia.org/wiki/Parataxis) ·
