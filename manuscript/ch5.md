@@ -18,11 +18,11 @@
 > **THE SCHOOL OF THE OATH**
 > *Admissions. Filed as required, under clause one.*
 >
-> **Clause one.** Each school shall produce an account of itself for those considering entry.
+> **Clause one:** each school shall produce an account of itself for those considering entry.
 > The clause as written requires an account. The clause as kept, since Merrow, has produced a
 > recruitment notice. What follows is an account.
 >
-> **Clause two, admission.** Two conditions, both required. First, that the applicant has
+> **Clause two, admission:** two conditions, both required. First, that the applicant has
 > found a practice they belong to altered in the part concerning them, without notice, and
 > learned of it afterward and from a third party. Second, that the applicant has kept a practice
 > they knew to be costing someone. The first condition without the second produces a candidate
@@ -41,7 +41,7 @@
 > claiming to preserve is the failure this one exists downstream of. Such cases go to the
 > School of the Pattern.
 >
-> **Clause six, entry.** Prior standing at the School of the Line is required. One must be
+> **Clause six, entry:** prior standing at the School of the Line is required. One must be
 > able to refuse before one can be trusted to keep.
 >
 > **A note from the Head, appended outside the clauses.** I can pass an inheritance intact and
@@ -107,7 +107,7 @@ The villagers never meant for that to happen.
 
 ---
 
-**Clause four.** A practice that cannot be named to a stranger in one sitting has already been
+**Clause four:** a practice that cannot be named to a stranger in one sitting has already been
 lost, whatever its members believe about it.
 
 Note. The register of this school holds two hundred and thirty-one discontinued practices,
@@ -116,7 +116,7 @@ The ordering is his and the finding is mine: one hundred and seventy-two of the 
 thirty-one were dissolved by their own members, on purpose, and not one of the one hundred and
 seventy-two recorded the dissolution as a loss at the time.
 
-**Clause five.** A body that declines to hold a role will be held by whoever is willing to hold
+**Clause five:** a body that declines to hold a role will be held by whoever is willing to hold
 it, and that person will not have been selected.
 
 Note. The founding generation of such a body has commonly come out of an older order that used
@@ -136,7 +136,7 @@ less than they knew, on the ground that the whole of it would have been heard as
 application for the crown. Merrow filed these accounts under *insufficient courage.* They are
 refiled under *correct reading, withheld,* and the refiling is the more accurate of the two.
 
-**Clause six.** An inheritance offered before it is wanted is not an inheritance. It is an
+**Clause six:** an inheritance offered before it is wanted is not an inheritance. It is an
 opinion.
 
 Note. This is the clause I would amend, and amendment is not within the office. The register
@@ -379,15 +379,15 @@ The Regent's practice is generational, not moment-to-moment. Energy still flows.
 
 The Regent's practice moves through five stages of its own, distinct from the Form's five. The Form takes whatever time the situation gives it. This cycle takes years, every time.
 
-**Inherit.** You receive what was handed to you. This includes what you would not have chosen. Family patterns. Organizational cultures. Traditions with their wounds attached. The first move acknowledges what arrived, before you change any of it: *I am carrying this. I did not create this. It is mine now.*
+**Inherit:** you receive what was handed to you. This includes what you would not have chosen. Family patterns. Organizational cultures. Traditions with their wounds attached. The first move acknowledges what arrived, before you change any of it: *I am carrying this. I did not create this. It is mine now.*
 
-**Honor.** You name what in the inheritance still serves. Not everything is broken. Some of what you received is load-bearing: remove it and the whole structure collapses. *This part is medicine. This part was always the wound. I am going to stop blaming the inheritance and start sorting it.*
+**Honor:** you name what in the inheritance still serves. Not everything is broken. Some of what you received is load-bearing: remove it and the whole structure collapses. *This part is medicine. This part was always the wound. I am going to stop blaming the inheritance and start sorting it.*
 
-**Steward.** You carry it and maintain it. This is the longest stage, and the least visible. The practice of showing up, again and again, to do the work the inheritance requires: the meeting that gets run because someone has to run it, the vow kept on a day nobody was watching, the form held steady long enough for the people inside it to trust that it will be there next year. Stewarding costs what it takes to keep something alive while you figure out what it needs. It looks like doing nothing and costs more. *I am not just preserving this. I am tending it.*
+**Steward:** you carry it and maintain it. This is the longest stage, and the least visible. The practice of showing up, again and again, to do the work the inheritance requires: the meeting that gets run because someone has to run it, the vow kept on a day nobody was watching, the form held steady long enough for the people inside it to trust that it will be there next year. Stewarding costs what it takes to keep something alive while you figure out what it needs. It looks like doing nothing and costs more. *I am not just preserving this. I am tending it.*
 
-**Reform.** You change what no longer serves, while it is still yours to carry. The sequence used to hide this stage inside Steward, and hiding it there is how a Regent spends thirty years tending something they knew in year four had stopped working. Reform is a separate act with a separate cost, and the cost is what makes it separate: stewardship earns you loyalty, and reform spends it. No version of it costs nothing. That is precisely why it gets folded into the tending, where it can be postponed indefinitely as work you are already doing. *This part has to change, and I am the one who has to say so, out loud, to people who will hear it as disloyalty.*
+**Reform:** you change what no longer serves, while it is still yours to carry. The sequence used to hide this stage inside Steward, and hiding it there is how a Regent spends thirty years tending something they knew in year four had stopped working. Reform is a separate act with a separate cost, and the cost is what makes it separate: stewardship earns you loyalty, and reform spends it. No version of it costs nothing. That is precisely why it gets folded into the tending, where it can be postponed indefinitely as work you are already doing. *This part has to change, and I am the one who has to say so, out loud, to people who will hear it as disloyalty.*
 
-**Entrust.** You hand it on, cleanly, to whoever comes next. The hardest stage. The Regent's test asks whether you can let go without abandoning, whether you can pass the tradition forward without clinging to it. *Have I given the next person enough to run with, without crushing them under the weight of what I thought it should be?*
+**Entrust:** you hand it on, cleanly, to whoever comes next. The hardest stage. The Regent's test asks whether you can let go without abandoning, whether you can pass the tradition forward without clinging to it. *Have I given the next person enough to run with, without crushing them under the weight of what I thought it should be?*
 
 ---
 
@@ -730,7 +730,7 @@ Draw from your twenty rather than the hundred and twenty, though not all from on
 
 **Open Up:** *can I stay with this?* Yes. Instantly, and in the wrong way: yes, personally, out of my own memory, indefinitely. That is standing in for it. Holding it would have cost more.
 
-**Clean Up.** It names the capability the structure lacks and supplies it in the same motion. Diagnosis and workaround arrive together, so the gap never stays visible long enough for anyone else to fill.
+**Clean Up:** it names the capability the structure lacks and supplies it in the same motion. Diagnosis and workaround arrive together, so the gap never stays visible long enough for anyone else to fill.
 
 **Grow Up.** What deserves practice becomes what deserves rescue. It practices carrying more. The carrier gets stronger; the structure does not.
 

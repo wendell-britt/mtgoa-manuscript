@@ -889,7 +889,7 @@ They are not clean. A daemon is not a defect at one stage of the Form. It is a r
 
 **Open Up.** The experience gets managed before it is undergone. The record is complete. The undergoing did not happen.
 
-**Clean Up.** It names the channel that has a sanctioned output. Heat gets filed as caution, because caution comes with approved behavior attached and heat does not.
+**Clean Up:** it names the channel that has a sanctioned output. Heat gets filed as caution, because caution comes with approved behavior attached and heat does not.
 
 **Grow Up.** Asked what wants to grow, it answers composure. Every time. The capacity that actually wants to grow is the capacity to be seen partway through something, and that one cannot be named, because naming it would name an unpermitted behavior.
 

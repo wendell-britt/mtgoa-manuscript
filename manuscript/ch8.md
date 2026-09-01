@@ -177,7 +177,7 @@ Nobody names the obvious: the competition runs for real, and somebody loses it. 
 
 The test: where pain gets performed, does the Sage notice who isn't speaking? The real Sage sees all of it, including the hierarchy of pain, and names what they see. Not with judgment. With precision.
 
-**Captain Save-a-Kid.** Service, delivered into the game the Sage finds most interesting rather than the game the person in front of them is actually in. The Sage hears a problem and reaches for the Architect's strategy game (*let me design you a system*) when the actual need is the Challenger's: *I need someone to draw a line and hold it.* Or reaches for the Diplomat's harmony game (*let me validate your experience*) when the actual need was the Sage's own: *tell me which game I'm in, because I can't see it from inside.*
+**Captain Save-a-Kid:** service, delivered into the game the Sage finds most interesting rather than the game the person in front of them is actually in. The Sage hears a problem and reaches for the Architect's strategy game (*let me design you a system*) when the actual need is the Challenger's: *I need someone to draw a line and hold it.* Or reaches for the Diplomat's harmony game (*let me validate your experience*) when the actual need was the Sage's own: *tell me which game I'm in, because I can't see it from inside.*
 
 Here the distortion turns cruel. It solves the wrong problem with the right intentions. The Sage walks away having helped. The other person walks away not quite heard. The gap between helpful and present runs wide, and the distortion lives in it. The real Sage asks: *which game is this person actually in, and what do they actually need?* Then does that, even when what they need is smaller than what the Sage wanted to offer.
 
@@ -300,15 +300,15 @@ The native material at the Sage's altitude is *perspective*: what every earlier 
 
 The Sage sees in five modes. Each one is a tool. Each one, run wrong, becomes a shadow.
 
-**Panoramic Seer.** The mode of taking in the whole field, even briefly. Holding all four games at once without collapsing into any of them.
+**Panoramic Seer:** the mode of taking in the whole field, even briefly. Holding all four games at once without collapsing into any of them.
 
-**Game-Switcher.** The mode of deliberate movement between games. Stepping into the power game because the moment needs it, and going back down without feeling diminished.
+**Game-Switcher:** the mode of deliberate movement between games. Stepping into the power game because the moment needs it, and going back down without feeling diminished.
 
-**Diagnostician.** The mode of naming out loud which game a group is in, and what the stuckness costs them. Serviceable, precise, kind.
+**Diagnostician:** the mode of naming out loud which game a group is in, and what the stuckness costs them. Serviceable, precise, kind.
 
-**Liberator.** The mode of putting a game down when it's no longer serving. Freedom for yourself and for the people who played it with you.
+**Liberator:** the mode of putting a game down when it's no longer serving. Freedom for yourself and for the people who played it with you.
 
-**Returner.** The mode of coming back into the narrower games without condescension. Dignity intact for everyone.
+**Returner:** the mode of coming back into the narrower games without condescension. Dignity intact for everyone.
 
 ### Draw the Axis — Which Game ↔ Which Altitude
 
@@ -800,7 +800,7 @@ Draw from your twenty rather than the hundred and twenty, though not all from on
 
 **Open Up.** You can stay with the experience as long as a second process runs underneath, holding the staying to the standard of somebody who doesn't have your problem. The witnessing happens. It happens under audit, which never amounts to the same.
 
-**Clean Up.** Asked which channel, it returns the diagnosis instead. *This is my thing* is not Fire, Water, Metal, Earth, or Wood. It's a category that swallows all five, and once it's on the table nothing gets named specifically enough to move.
+**Clean Up:** asked which channel, it returns the diagnosis instead. *This is my thing* is not Fire, Water, Metal, Earth, or Wood. It's a category that swallows all five, and once it's on the table nothing gets named specifically enough to move.
 
 **Grow Up.** Asked what wants to grow, it answers: repair. Every time. The capacity that actually wants to grow gets skipped, because a defective instrument doesn't get upgrades, it gets fixed first, and the fixing has no completion condition.
 

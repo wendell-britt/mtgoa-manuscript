@@ -124,15 +124,15 @@ People commonly misunderstand the Diplomat's stance. Niceness, conflict-avoidanc
 
 The Diplomat operates through five modes:
 
-**Bridge-Builder.** The mode of initial entry. Making contact. Showing up curious rather than defended. Creating the possibility of relationship without yet knowing what the relationship will require.
+**Bridge-Builder:** the mode of initial entry. Making contact. Showing up curious rather than defended. Creating the possibility of relationship without yet knowing what the relationship will require.
 
-**Translator.** The mode of rendering meaning. Taking what one party means and translating it into terms another party can actually hear. Bridging the gap between ways of being in the world, without softening it and without betraying it.
+**Translator:** the mode of rendering meaning. Taking what one party means and translating it into terms another party can actually hear. Bridging the gap between ways of being in the world, without softening it and without betraying it.
 
-**Field-Holder.** The mode of maintained safety. The work of keeping the relational space open and charged enough that difficult conversations remain possible. Holding rather than solving.
+**Field-Holder:** the mode of maintained safety. The work of keeping the relational space open and charged enough that difficult conversations remain possible. Holding rather than solving.
 
-**Repairer.** The mode of healing ruptures. The work of addressing harm somebody did, without pretending it did not occur, and without letting the repair process create new harm.
+**Repairer:** the mode of healing ruptures. The work of addressing harm somebody did, without pretending it did not occur, and without letting the repair process create new harm.
 
-**Integrative Negotiator.** The mode of honest closing. Surfacing stakes, interests, and sacrifices; naming what the agreement must hold for everyone, and closing so the field moves.
+**Integrative Negotiator:** the mode of honest closing. Surfacing stakes, interests, and sacrifices; naming what the agreement must hold for everyone, and closing so the field moves.
 
 You have already met a version of "terms," and that version forces the School of the Bridge to define the word before it can use it.
 
@@ -842,7 +842,7 @@ Draw from your twenty rather than the hundred and twenty, though not all from on
 
 **Open Up.** Compassion goes out at full strength in every direction except one. Whatever anyone says about your impact becomes the one subject nobody there can relate to compassionately, because relating to it compassionately would mean holding it as true.
 
-**Clean Up.** It chooses the destination channel that keeps the ledger open. Water over Fire, every time. Sadness reads as blameless and asks nothing of anyone; anger would have to make a request, and a request can be refused.
+**Clean Up:** it chooses the destination channel that keeps the ledger open. Water over Fire, every time. Sadness reads as blameless and asks nothing of anyone; anger would have to make a request, and a request can be refused.
 
 **Grow Up.** Asked how this affects others, it answers what others will finally understand about what you carried. Growth as vindication. The people the growth is supposed to reach become the audience for the account.
 

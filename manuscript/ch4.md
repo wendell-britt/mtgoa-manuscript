@@ -759,7 +759,7 @@ Draw from your twenty rather than the hundred and twenty, though not all from on
 
 **Open Up.** A feeling whose warrant still hangs open cannot be stayed with; staying would be credulity. So the discomfort goes into escrow until the verdict, and the verdict does not release it.
 
-**Clean Up.** A verdict about what something means is an interpretation. The move gets run, and the output gets called a finding.
+**Clean Up:** a verdict about what something means is an interpretation. The move gets run, and the output gets called a finding.
 
 **Grow Up.** Asked what must evolve, it returns better discernment. Sharper standards, faster detection of overreaction: an upgrade to the instrument that is the problem.
 
