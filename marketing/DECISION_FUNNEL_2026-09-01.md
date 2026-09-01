@@ -80,9 +80,45 @@ review and a forward. **There is now a third, and it is the strongest of them: s
 the course opens.** That gives the reader who cannot pay something real rather than a
 consolation, which is exactly what principle P-5 asks for.
 
-**What is still missing is FR-5's first element** — what contributions actually fund. The spec
-says the print run, the podcast, and Campaign Zero scholarships. **That sentence goes in front
-of every reader who reaches the end, so it should be his and not mine.**
+### FR-5's first element is cut — ruled 2026-09-01
+
+**Wendell:** *"I don't know if we need all of this. It might be useful for a kickstarter
+backer, but really if someone is wanting to know about the funding of the organization they
+should be signing up to volunteer for the non-profit. I don't know if any other book that
+provides that information inside the book itself."*
+
+**He is right, and his third reason is the strongest one.** A funding breakdown inside a trade
+book answers a question the reader never asked. It has the shape of an annual report dropped
+onto the last page, and it changes register at the worst possible moment — somebody has just
+finished 387 pages and the last page they read should not be a budget.
+
+**What is being traded is his own P-4**, so it is worth saying out loud rather than dropping
+without comment: *"Say what the money does. Pay-what-feels-right only works when the reader knows
+what they are funding."*
+
+**P-4 survives, because it was conflating two different questions.**
+
+| the question | who asks it | where it belongs |
+|---|---|---|
+| **where does the money go** | a backer, an auditor, a volunteer | the Kickstarter updates, and the backers page the book already carries |
+| **what does paying make possible** | the reader deciding right now | the closing block, in one sentence |
+
+**The second is the offer rather than a disclosure, and the funnel already answers it:
+paying unlocks the course.** Concrete, checkable, and something the reader receives. That
+satisfies what P-4 was protecting without printing a ledger.
+
+**The accountability version already has a home, too.** `back_matter/kickstarter_backers.md`
+is in the book, and the updates carry the money story to the people who are owed it. **The
+disclosure is not being lost, it is being put where its audience already is.**
+
+**The org-funding question routes to the volunteer signup**, exactly as he said. Anyone who
+actually wants to know how the nonprofit is funded is a person who would volunteer, and
+sending them to a signup is a better outcome than a paragraph they skim. **One line on the
+`/book` page, not in the book.**
+
+**So the closing block is now three moves, not four:** what paying gets you, the suggested
+amount with no ceiling, and the free ways in. **It got shorter, which on a last page is
+almost always the right direction.**
 
 ## What this does not settle
 
