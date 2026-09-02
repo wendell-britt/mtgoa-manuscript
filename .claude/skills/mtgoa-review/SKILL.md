@@ -162,6 +162,17 @@ because it announces a hierarchy instead of enacting one. Reorder the paragraph.
 rate against the book's own 13.9%; **the target is not zero**, because Strunk defends the
 occasional loose sentence in as many words.
 
+**3e · `telling.py`** was added 2026-09-02, after Wendell caught the copula-label on the proof:
+*"That is the trade, every time. THAT IS THAT IS THAT IS."* It **tells instead of showing** and
+breaks **Strunk 18** — the emphatic end must carry *"the new element in the sentence,"* and a
+re-label carries nothing new — and **Strunk 11**, the flat copula being the least vigorous verb.
+`LABEL` (*That is the ___*) is the flagship, **guilty until the thought under it is shown
+finished**; `PROPERTY` (*praise has a shape*) is the off-system copula-metaphor (Lakoff);
+`ABSOLUTE` (*every time*) is a separate sickness the instrument **surfaces but never grades** —
+earned or unprovable is the reader's call, not the tool's. The remediation is to **finish the
+thought**, not tighten the label: put the reader where it happens and let them feel the verdict
+the label hid. See `specs/RESEARCH_TELLING_NOT_SHOWING_2026-09-02.md`.
+
 **So step 3 is no longer honour-system, and the reading is still the job.** *Beat or claim*,
 *real or manufactured*, and **which person** — the defect none of these caught, from *"the
 meeting where the same person absorbs it again"* — need a reader. See

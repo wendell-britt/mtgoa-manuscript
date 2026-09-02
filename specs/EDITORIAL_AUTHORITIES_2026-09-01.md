@@ -34,10 +34,11 @@ on prose this project generates.
 | rule | what it says | status here |
 |---|---|---|
 | **4** | *"and, is the least specific of connectives. Used between independent clauses, it indicates only that a relation exists between them without defining that relation."* | **`trailing_and.py`**, review step 3d |
-| **11** | *Use the active voice* | `prose_diet.py` — `passive` |
+| **11** | *Use the active voice* — *"more direct and vigorous"* | `prose_diet.py` — `passive`; **`telling.py`**, the flat copula |
 | **13** | *Omit needless words* — *"every word tell"* | `prose_diet.py` — `waste`, `empty`; `empty_head.py` |
 | **14** | *Avoid a succession of loose sentences* | **`trailing_and.py`**, both tiers |
 | **15** | *Express co-ordinate ideas in similar form* | **unchecked.** See §4 |
+| **18** | *Place the emphatic words of a sentence at the end* — the end must carry *"the new element in the sentence"* | **`telling.py`**, review step 3e — a copula-label carries no new element |
 
 **Rule 13's list of expressions is directly checkable and mostly is not checked.** *the question
 as to whether*, *there is no doubt but that*, *he is a man who*, *this is a subject which*, and
@@ -56,6 +57,7 @@ them ahead of the others: subordinate the clause, or reduce it to a phrase.
 | **Williams, *Style*** | characters as subjects, actions as verbs; nominalization as the primary defect | `prose_diet.py` — `zombie`; `agency_grep.py` |
 | **Sword, *The Writer's Diet*** | be-verbs, zombie nouns, and the waste words *it / this / that / there* | `prose_diet.py` — the counter set is hers |
 | **Vague-pronoun doctrine** | draw an arrow from every pronoun to its antecedent | `antecedent.py`, review step 3b |
+| **Lakoff & Johnson, *Metaphors We Live By*** | metaphor is a mapping between domains, and the copula asserts one whether the writer meant to or not; the book's ontology spends *is* deliberately, so a careless *is* makes an off-system metaphor | **`telling.py`** — the `PROPERTY` tier and the show-don't-tell principle. Added 2026-09-02 |
 
 **Williams is the one to read against the rule rather than with it.** He calls coordination
 *"the foundation of a gracefully shaped sentence"* when the coordinated elements are parallel

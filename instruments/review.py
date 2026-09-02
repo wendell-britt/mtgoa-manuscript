@@ -189,10 +189,14 @@ def draft(paths):
         # "this trailing 'and' construction needs to go. I don't want to see it anymore in
         # any writing that I want to have generated." Measured, my rate was 25.6% against
         # the book's 13.9%. See specs/RESEARCH_TRAILING_AND_2026-09-01.md.
+        # 3e added 2026-09-02. Wendell, on the proof: "That is the trade, every time. THAT IS
+        # THAT IS THAT IS." The copula-label tells instead of showing and breaks Strunk 11 and
+        # 18. See specs/RESEARCH_TELLING_NOT_SHOWING_2026-09-02.md.
         for tag, tool, keep in (("3a frag ", "fragment.py", 2),
                                 ("3b pron ", "antecedent.py", 2),
                                 ("3c slop ", "slop_shapes.py", 3),
-                                ("3d and  ", "trailing_and.py", 3)):
+                                ("3d and  ", "trailing_and.py", 3),
+                                ("3e tell ", "telling.py", 4)):
             code, out = run([os.path.join(HERE, tool), path])
             rows = [l for l in out.split("\n") if l.startswith(os.path.basename(path)[:22])]
             print("  %s  %s" % (tag, rows[0].strip() if rows else "no score"))
@@ -260,6 +264,9 @@ def book():
         # 7g, added 2026-09-01. Book-wide this prints the baseline the draft path scores
         # against -- 13.9% of sentences -- rather than gating anything.
         ("7g trailing and", ["instruments/trailing_and.py"], "book baseline"),
+        # 7h, added 2026-09-02. Book-wide this prints the copula-label baseline the draft path
+        # scores against; it does not gate.
+        ("7h telling", ["instruments/telling.py"], "book baseline"),
     ]
     bad = 0
     for label, cmd, want in steps:
