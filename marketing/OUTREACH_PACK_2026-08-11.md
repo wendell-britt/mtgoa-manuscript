@@ -5,13 +5,18 @@ Pulled into the repo 2026-08-18 for the same reason as the update beside it: it 
 place only. **Verbatim.**
 
 **Why it belongs with the launch collateral:** §5 is the forwardable blurb that Kickstarter
-update #2 is built around. The four sends in §1–§4 are what update #1's ask is *for* — the
-backer supplies a name, and these are what goes out to it.
+update #2 is built around. The four sends are what update #1's ask is *for* — the backer supplies
+a name, and these are what goes out to it.
 
 **Five pieces.** Four emails/applications that turn the speaking plan into pipeline, and the
 blurb for update #2. Send the four this week. Three or four engagements pays for the print run.
 
-**Attach to all four:** the field one-sheet (after your voice pass) and the book PDF.
+**The four, after the 2026-09-03 Seattle pivot:** §1 Oregon Outdoor School · §2 WRMC · §3 ACCT ·
+**§4-SEA Leadership Tomorrow** (Seattle, the KLC swap). §4 Kansas Leadership Center is
+deprioritized; §4b-SEA Outdoor Schools WA is positioning for 2027, not an immediate send.
+
+**Attach to all four:** the field one-sheet (`marketing/FIELD_ONE_SHEET_2026-09-03.md`, voice
+pass done) and the book PDF.
 
 ---
 
@@ -178,6 +183,62 @@ Wichita, and that is no longer true. Two honest options:
 The four sends do not have to include KLC to hit the funding goal — three or four *engagements*
 pay for the print run, and the PNW three are now the stronger book.
 
+**Ruling 2026-09-03: KLC is deprioritized and Leadership Tomorrow takes its slot.** The Seattle
+pivot below replaces the lost local hook with a real one.
+
+## 4-SEA · Leadership Tomorrow (Seattle) — Possibility Day / speaker *(the KLC swap)*
+
+**Why this is the replacement.** Leadership Tomorrow is the Seattle analog to the Kansas
+Leadership Center: a 40-year, cross-sector leadership organization whose flagship *LT Impact* runs
+**half-day interactive sessions in downtown Seattle** and whose *Possibility Days* bring in
+**outside speakers** on the elements of a healthy community. Cohort-based, local, and thesis-
+adjacent — the exact three hooks KLC had, now true again because Wendell lives here.
+
+**Where:** the Contact / program staff at leadershiptomorrowseattle.org (confirm the current
+Impact program lead before sending)
+**Angle:** local *and* structurally matched — half-day, cross-sector, cohort, on a real challenge
+
+**Subject:** A Possibility Day on the role nobody in the room is holding
+
+I'm Wendell Britt, a Seattle author and facilitator. I'm writing because LT Impact's Possibility
+Days are built the way my work is: half a day, cross-sector, on a real challenge the cohort is
+carrying rather than a lecture.
+
+My book came out this year — *Mastering the Game of Allyship*. Its claim is that showing up for
+other people is a set of learnable moves rather than a disposition: six roles a group needs, what
+each one is for, and what each one looks like when it goes wrong. A cohort that cannot name the
+roles keeps failing in the same direction and cannot say why, which is exactly what a cross-sector
+group feels the moment the work gets hard.
+
+The session I'd propose gives your leaders a vocabulary for what a group is missing in the moment,
+and a way to take the role nobody is holding without waiting to be assigned it. It runs as a
+half-day and it works better across a cohort than in one sitting, which is why LT is the right
+home for it.
+
+Two things worth knowing. I recently moved to Seattle, so this is local. And the most useful
+thing I have is a failure: a course I built in 2020 finished under ten percent of the people who
+started it, and everything I teach now came out of rebuilding it around why leadership training
+does not survive contact with the actual job.
+
+Book is attached. The first two pages will tell you quickly whether I'm the right voice for a
+Possibility Day.
+
+Wendell Britt · <wendell@masteringallyship.com>
+
+## 4b-SEA · Washington's Environmental Education Conference — E3 WA / Outdoor Schools WA *(PNW add)*
+
+**Why it belongs now.** This is the Washington sibling of Oregon Outdoor School, and the move to
+Seattle makes it local. The conference is co-run by **E3 Washington and Outdoor Schools WA** and
+draws exactly the outdoor-school and field-staff audience the *Same Kids, Fewer Staff* session was
+written for.
+
+**The timing caveat — read before acting.** The **Nov 13–15, 2026** conference at Cispus Learning
+Center closed session proposals on **July 12, 2026**, which is past. So this is **not an immediate
+send.** Two live routes instead: the **E3 WA / Outdoor Schools WA fall gathering** (a lower-stakes
+in-person way in), and a **direct note to Outdoor Schools WA about provider PD** now, positioning
+for the **2027 conference CFP** when it opens. Same one-sheet, same *Same Kids, Fewer Staff*
+session; verify the current program contact before sending.
+
 ## 5 · The forwardable blurb — for update #2
 
 **The design decision that makes this work:** it's written **in the backer's voice, not yours.**
@@ -219,9 +280,16 @@ sounds like it was written by the person being recommended does not get forwarde
 
 ## Sending order
 
+**Updated 2026-09-03 for the Seattle pivot.** KLC is out (lost its local hook); Leadership
+Tomorrow takes its slot.
+
 **Today:** ACCT (open now) · WRMC Steering Committee (open now)
-**Tomorrow:** Lauren Rodgers · Kansas Leadership Center
+**Tomorrow:** Lauren Rodgers (Oregon Outdoor School) · Leadership Tomorrow (Seattle)
 **Then:** ACA National, by September 16
+**Positioning, not an immediate send:** Outdoor Schools WA / E3 WA — the 2026 conference CFP has
+closed; approach via the fall gathering or a direct PD note, for the 2027 cycle.
+**Deprioritized:** Kansas Leadership Center — send only if you want the thesis-fit application
+without the local angle.
 
 **Log every send** — date, org, contact, what you sent. When the first reply comes back you'll
 want to know what was different about that one.
