@@ -192,11 +192,15 @@ def draft(paths):
         # 3e added 2026-09-02. Wendell, on the proof: "That is the trade, every time. THAT IS
         # THAT IS THAT IS." The copula-label tells instead of showing and breaks Strunk 11 and
         # 18. See specs/RESEARCH_TELLING_NOT_SHOWING_2026-09-02.md.
+        # 3f added 2026-09-03. The red-team's buildable half: the light-verb / weak-agency
+        # detector. Wendell, on the proof: "'lands warm' — what the fuck does landing warm mean?
+        # Land is another one of those nothing words." See specs/RESEARCH_LIGHT_VERB_2026-09-03.md.
         for tag, tool, keep in (("3a frag ", "fragment.py", 2),
                                 ("3b pron ", "antecedent.py", 2),
                                 ("3c slop ", "slop_shapes.py", 3),
                                 ("3d and  ", "trailing_and.py", 3),
-                                ("3e tell ", "telling.py", 4)):
+                                ("3e tell ", "telling.py", 4),
+                                ("3f verb ", "light_verb.py", 4)):
             code, out = run([os.path.join(HERE, tool), path])
             rows = [l for l in out.split("\n") if l.startswith(os.path.basename(path)[:22])]
             print("  %s  %s" % (tag, rows[0].strip() if rows else "no score"))
@@ -267,6 +271,11 @@ def book():
         # 7h, added 2026-09-02. Book-wide this prints the copula-label baseline the draft path
         # scores against; it does not gate.
         ("7h telling", ["instruments/telling.py"], "book baseline"),
+        # 7i, added 2026-09-03. The buildable half of the red-team's solve
+        # (specs/REDTEAM_WRITE_WITHOUT_THESE_ISSUES_2026-09-02.md): the light-verb / weak-agency
+        # detector. Wendell, on the proof: "land is another one of those nothing words that gets
+        # overused." Book-wide it prints the 0.7% DELEXICAL baseline; the draft path drives it.
+        ("7i light verb", ["instruments/light_verb.py"], "book baseline"),
     ]
     bad = 0
     for label, cmd, want in steps:
