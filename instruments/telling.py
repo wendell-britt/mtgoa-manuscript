@@ -56,7 +56,7 @@ make (Lakoff, *Metaphors We Live By*, not Strunk).
 
 **ABSOLUTE** — an asserted universal, *every time*, *always*. A separate sickness from the
 copula: a claim that has to be proven and dies on the first exception, the one Wendell named. It
-appears **749 times across the book**, and the instrument surfaces every one. **Whether a given
+appears in **302 sentences across the book**, and the instrument surfaces every one. **Whether a given
 absolute is earned or unprovable is a reading call — not the instrument's, and not mine.** The
 pattern also catches bounded factual uses (*never once wondered* = a thing the narrator did not
 do), which it cannot mechanically separate from unearned universals. Both reach the reader as

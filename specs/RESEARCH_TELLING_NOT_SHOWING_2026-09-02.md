@@ -78,7 +78,7 @@ never earned. Its nearest Strunk relative is Rule 13, *omit needless words*; mor
 a logic defect rather than a style one.
 
 **I do not get to decide which of them are earned, either.** The first draft of this note called the
-749 absolutes *mostly fine*. Wendell: *"'mostly fine' you don't get to decide this."* He is
+302 absolutes *mostly fine*. Wendell: *"'mostly fine' you don't get to decide this."* He is
 right, and it repeats the copula hedge from one turn earlier — me pre-clearing a defect
 class to shrink the work, when the whole thread has established I lack the judgement to. The
 instrument surfaces every absolute; the reader clears the earned ones.
@@ -135,9 +135,9 @@ existed.
   thought under it is shown finished, which is rare.
 - **PROPERTY** — an abstract handed a physical property. Low-noise (five book-wide), the
   off-system copula-metaphor.
-- **ABSOLUTE** — an asserted universal. **749 book-wide, and the instrument surfaces every one.**
+- **ABSOLUTE** — an asserted universal. **302 book-wide, and the instrument surfaces every one.**
   Whether a given absolute is earned or unprovable is a reading call — not the instrument's, and
-  not mine. I do not get to pre-clear 749 sentences I have not read as *mostly fine*; that was
+  not mine. I do not get to pre-clear 302 sentences I have not read as *mostly fine*; that was
   the exact error corrected on 2026-09-02, twice made and twice the same shape.
 
 **It cannot tell a licensed *is* from an accidental one**, because the book's real metaphors use

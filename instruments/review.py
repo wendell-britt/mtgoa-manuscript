@@ -276,6 +276,11 @@ def book():
         # detector. Wendell, on the proof: "land is another one of those nothing words that gets
         # overused." Book-wide it prints the 0.7% DELEXICAL baseline; the draft path drives it.
         ("7i light verb", ["instruments/light_verb.py"], "book baseline"),
+        # 9, added 2026-09-03. The pipeline checked against itself. Wendell: "how do we check
+        # that the editorial pipeline is coherent and consistent." Wiring integrity, baseline
+        # drift, register and orphan checks. This is coherence.py's call site -- without one it
+        # would be the orphan it warns about. See specs/EDITORIAL_PIPELINE_COHERENCE_2026-09-03.md.
+        ("9 coherence", ["instruments/coherence.py"], "COHERENCE PASS"),
     ]
     bad = 0
     for label, cmd, want in steps:
