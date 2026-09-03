@@ -198,7 +198,7 @@ adjacent — the exact three hooks KLC had, now true again because Wendell lives
 Impact program lead before sending)
 **Angle:** local *and* structurally matched — half-day, cross-sector, cohort, on a real challenge
 
-**Subject:** A Possibility Day on the role nobody in the room is holding
+**Subject:** A Possibility Day on the role nobody in the group is holding
 
 I'm Wendell Britt, a Seattle author and facilitator. I'm writing because LT Impact's Possibility
 Days are built the way my work is: half a day, cross-sector, on a real challenge the cohort is
@@ -215,7 +215,7 @@ and a way to take the role nobody is holding without waiting to be assigned it. 
 half-day and it works better across a cohort than in one sitting, which is why LT is the right
 home for it.
 
-Two things worth knowing. I recently moved to Seattle, so this is local. And the most useful
+Two points worth knowing. I recently moved to Seattle, so this is local. The most useful
 thing I have is a failure: a course I built in 2020 finished under ten percent of the people who
 started it, and everything I teach now came out of rebuilding it around why leadership training
 does not survive contact with the actual job.
