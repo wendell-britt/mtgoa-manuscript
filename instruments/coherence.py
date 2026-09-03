@@ -21,37 +21,52 @@ past its own baseline, a spec citing a step number that moved.
 rule with no call site is a rule nobody keeps."* The same is true one level up: a pipeline with
 no self-check is a pipeline that silently diverges. This runs the check.
 
-## The five checks
+## The checks
 
+The profile lives in `editorial.yaml` (see `profile.py`), and these checks validate it against
+reality — the manifest is the source of truth, not any hardcoded constant.
+
+- **manifest** — `editorial.yaml` exists, parses, and every instrument it names (`pass`,
+  `project_only`, and each baseline) is a real file. A profile that points at nothing fails here.
 - **wiring** — every instrument named in `review.py` (draft loop and book steps) exists on disk.
   A renamed or deleted instrument fails here instead of at 2 a.m. mid-review.
-- **drift** — every instrument that declares a `BOOK_BASELINE` still measures within tolerance
-  of it on the current corpus. A book edited past its own baseline is caught before the number
-  it prints becomes a lie.
+- **pass-wire** — every scanner the manifest's `pass` declares is actually wired into `review.py`.
+  A declared-but-unrun scanner is the manifest and the orchestration disagreeing.
+- **drift** — every manifest baseline still measures within tolerance on the current corpus. A
+  book edited past its own baseline is caught before the number it prints becomes a lie.
 - **register** — every ``instrument.py`` named in `EDITORIAL_AUTHORITIES` exists. The register
   claims each authority has a call site; this proves the claim.
-- **orphan** — every instrument that looks like a prose scanner (declares `BOOK_BASELINE`) is
-  wired into `review.py`. An instrument nobody runs is the exact failure the register warns of:
-  `fragment.py`, `antecedent.py` and `notstack.py` each existed for days before anything called
-  them.
-- **doc-figure** — a named book-wide count in an instrument's docstring (e.g. "749 ... across the
+- **orphan** — every instrument with a manifest baseline is wired into `review.py`. An instrument
+  nobody runs is the exact failure the register warns of: `fragment.py`, `antecedent.py` and
+  `notstack.py` each existed for days before anything called them.
+- **doc-figure** — a named book-wide count in an instrument's docstring (e.g. "302 ... across the
   book") that no longer matches what the instrument measures. Reported, not failed: a docstring
   figure is prose, and a drifted one is a note to update, not a broken build.
 
 ## Portability
 
-The checks discover the pipeline from `review.py`, `instruments/` and `specs/` generically —
-no title of this book appears in them. What does not port is the *content* of the pipeline: the
-baselines, the banned-word list in `gate.py`, the corpus `find_line.py` reads. Those are a
-project's profile. This file checks that a project's pipeline is internally consistent, whatever
-its profile; see `specs/EDITORIAL_PIPELINE_COHERENCE_2026-09-03.md` for the universal/profile split.
+The checks are generic — no title of this book appears in them. What varies per project is the
+*content*, and it now lives in one declared file: `editorial.yaml`. Copy `instruments/` to a new
+project, write its `editorial.yaml`, and this same checker validates that project's profile
+against that project's reality. See `specs/EDITORIAL_PIPELINE_COHERENCE_2026-09-03.md` for the
+universal/profile split.
 """
-import os, re, sys, subprocess
+import os, re, sys, subprocess, importlib.util
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.normpath(os.path.join(HERE, os.pardir))
 REVIEW = os.path.join(HERE, "review.py")
 REGISTER = os.path.join(ROOT, "specs", "EDITORIAL_AUTHORITIES_2026-09-01.md")
+
+
+def _load_profile():
+    spec = importlib.util.spec_from_file_location("profile", os.path.join(HERE, "profile.py"))
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
+prof = _load_profile()
 
 # Per-instrument adapters: how to read the rate a baseline instrument actually measures on the
 # book. The coherence checker is allowed to know its instruments; a manifest would externalise
@@ -91,23 +106,33 @@ def wired_instruments():
     return names
 
 
-def declares_baseline():
-    """Instruments defining a BOOK_BASELINE constant -> its declared value."""
-    out = {}
-    for fn in os.listdir(HERE):
-        if not fn.endswith(".py"):
-            continue
-        src = open(os.path.join(HERE, fn), encoding="utf-8").read()
-        m = re.search(r"^BOOK_BASELINE\s*=\s*([0-9.]+)", src, re.M)
-        if m:
-            out[fn] = float(m.group(1))
-    return out
-
-
 def run_book(fn):
     p = subprocess.run([sys.executable, os.path.join(HERE, fn)],
                        capture_output=True, text=True, cwd=ROOT, timeout=180)
     return p.stdout + p.stderr
+
+
+def _instrument_exists(name):
+    """`telling` or `telling.py` -> True if instruments/telling.py is on disk."""
+    fn = name if name.endswith(".py") else name + ".py"
+    return os.path.exists(os.path.join(HERE, fn))
+
+
+def check_manifest():
+    """editorial.yaml exists, parses, and every instrument it names is real."""
+    if not prof.exists():
+        return ["no editorial.yaml — the pipeline is running on instrument defaults, and "
+                "coherence cannot validate a profile that is not declared"]
+    findings = []
+    for name in prof.pass_list() + prof.project_only():
+        if not _instrument_exists(name):
+            findings.append("manifest names instrument '%s' but instruments/%s.py is missing"
+                            % (name, name))
+    for name in prof.baselines():
+        if not _instrument_exists(name):
+            findings.append("manifest declares a baseline for '%s' but instruments/%s.py is "
+                            "missing" % (name, name))
+    return findings
 
 
 def check_wiring():
@@ -121,20 +146,34 @@ def check_wiring():
     return findings
 
 
-def check_drift():
+def check_pass_wiring():
+    """Every instrument the manifest's `pass` declares is actually wired into review.py.
+    A declared scanner that nothing runs is the manifest and the orchestration disagreeing."""
+    wired = wired_instruments()
     findings = []
-    for fn, declared in sorted(declares_baseline().items()):
+    for name in prof.pass_list():
+        if (name + ".py") not in wired:
+            findings.append("manifest `pass` lists '%s' but review.py does not wire it" % name)
+    return findings
+
+
+def check_drift():
+    """Every manifest baseline still measures within tolerance on the current corpus."""
+    findings = []
+    for name, declared in sorted(prof.baselines().items()):
+        fn = name + ".py"
         meas = MEASURERS.get(fn)
         if not meas:
-            findings.append("declares BOOK_BASELINE=%s but coherence.py has no measurer "
-                            "for it — add one so drift is checked" % (fn))
+            findings.append("manifest baseline '%s' has no measurer in coherence.py — add one "
+                            "so its drift is checked" % name)
             continue
         rate = meas(run_book(fn))
         if rate is None:
-            findings.append("%s: could not read a measured rate from its output" % fn)
-        elif abs(rate - declared) > DRIFT_TOLERANCE:
-            findings.append("%s: declares %.1f%% but measures %.1f%% now (drift %.1f > %.1f)"
-                            % (fn, declared, rate, abs(rate - declared), DRIFT_TOLERANCE))
+            findings.append("%s: could not read a measured rate from its output" % name)
+        elif abs(rate - float(declared)) > DRIFT_TOLERANCE:
+            findings.append("%s: manifest says %.1f%% but it measures %.1f%% now (drift %.1f > %.1f)"
+                            % (name, float(declared), rate, abs(rate - float(declared)),
+                               DRIFT_TOLERANCE))
     return findings
 
 
@@ -150,11 +189,12 @@ def check_register():
 
 
 def check_orphan():
+    """An instrument that declares a baseline in the manifest but is not run by review.py."""
     wired = wired_instruments()
     findings = []
-    for fn in sorted(declares_baseline()):
-        if fn not in wired:
-            findings.append("declares a baseline but is not wired into review.py: %s" % fn)
+    for name in sorted(prof.baselines()):
+        if (name + ".py") not in wired:
+            findings.append("has a manifest baseline but is not wired into review.py: %s" % name)
     return findings
 
 
@@ -178,7 +218,9 @@ def check_doc_figures():
 
 
 CHECKS = [
+    ("manifest ", check_manifest, True),
     ("wiring   ", check_wiring, True),
+    ("pass-wire", check_pass_wiring, True),
     ("drift    ", check_drift, True),
     ("register ", check_register, True),
     ("orphan   ", check_orphan, True),

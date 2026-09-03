@@ -1,0 +1,49 @@
+# editorial.yaml — the project profile for the editorial pipeline.
+#
+# This is the ONE file that varies per project. The instruments under instruments/ are
+# universal; this declares what is true of THIS book: its baselines, its banned voice words,
+# what counts as its corpus, and which instruments run. review.py and coherence.py read it,
+# and coherence.py validates it against reality (every baseline is re-measured, every named
+# instrument must exist). A new project copies the instruments and writes its own file here.
+#
+# See specs/EDITORIAL_PIPELINE_COHERENCE_2026-09-03.md.
+
+project: "Mastering the Game of Allyship"
+
+# What "the book" means when an instrument runs book-wide. MTGOA's real corpus is assembled
+# by build_book.SPINE (typeset order); these globs are the declared, portable statement of it.
+corpus:
+  - "manuscript/ch*.md"
+  - "appendices/APPENDIX_*.md"
+  - "appendices/ON_THE_SHOULDERS_OF.md"
+  - "front_matter/*.md"
+  - "back_matter/*.md"
+
+# Measured on this book, never copied. coherence.py re-measures each and fails on drift > 0.4pt.
+baselines:
+  telling: 3.0        # % of sentences carrying a copula-label (LABEL tier)
+  trailing_and: 13.9  # % of sentences that are loose (LOOSE tier)
+  light_verb: 0.7     # % of sentences carrying a buried verb (DELEXICAL tier)
+
+# This book's voice decisions, ruled by Wendell one at a time. Regex fragments; gate.py wraps
+# each in word boundaries. Another project bans other words, or none.
+banned:
+  - "rooms?"
+  - "quiet(ly|er|est)?"
+  - "genuinely"
+  - "things?"
+
+# The universal prose scanners, in pass order. coherence.py checks each exists and is wired.
+pass:
+  - gate
+  - prose_diet
+  - fragment
+  - antecedent
+  - slop_shapes
+  - trailing_and
+  - telling
+  - light_verb
+
+# Instruments welded to this book's ontology; they do not travel to other projects.
+project_only:
+  - agency_grep

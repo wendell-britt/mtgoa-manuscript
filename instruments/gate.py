@@ -26,10 +26,30 @@ stands between an unfilled placeholder and the typesetter.
     python3 instruments/gate.py -v               # quote every hit with context
     python3 instruments/gate.py --no-appendices  # chapters only, the old behavior
 """
-import re, io, os, sys, glob
+import re, io, os, sys, glob, importlib.util
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, os.pardir)
+
+
+def _load_profile():
+    try:
+        spec = importlib.util.spec_from_file_location("profile", os.path.join(HERE, "profile.py"))
+        mod = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(mod)
+        return mod
+    except Exception:
+        return None
+
+
+_profile = _load_profile()
+
+# The banned voice words are this project's profile, read from editorial.yaml when present and
+# falling back to the historical hardcoded list otherwise (see profile.py). The fragments are
+# wrapped in word boundaries here, exactly as the old inline pattern was.
+_BANNED_DEFAULT = ["rooms?", "quiet(ly|er|est)?", "genuinely", "things?"]
+_banned = _profile.banned(_BANNED_DEFAULT) if _profile else _BANNED_DEFAULT
+BANNED_PATTERN = r'|'.join(r'\b(?:%s)\b' % frag for frag in _banned)
 MS = os.path.join(ROOT, "manuscript")
 APX = os.path.join(ROOT, "appendices")
 
@@ -66,7 +86,7 @@ COUNTERS = [
     # that had cleared 320 sites as idiom: "until I see a number of examples of 'the thing'
     # that are grammatical we're actually preserving something bad and saying it's ok
     # because we've done it before."
-    ("banned", r'\brooms?\b|\bquiet(ly|er|est)?\b|\bgenuinely\b|\bthings?\b', re.I),
+    ("banned", BANNED_PATTERN, re.I),
     ("emdash", r'[a-zA-Z0-9,]—[a-zA-Z0-9]', 0),
     ("A0", r'you (were|was) (taught|told|raised|trained)|somewhere along the way'
            r'|the village taught you', re.I),

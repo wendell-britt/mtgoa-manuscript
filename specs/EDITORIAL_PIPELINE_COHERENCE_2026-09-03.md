@@ -91,30 +91,37 @@ is which is the whole portability job.
 - **The ontology instruments** — `agency_grep.py` and `agency_registry.yaml`, the six-role
   grades. Wholly MTGOA. A project without that ontology does not run them.
 
-## 3 · The design that makes it travel — a manifest
+## 3 · The seam that makes it travel — the manifest (built 2026-09-03)
 
-**Today the pipeline is declared in Python, inside `review.py`.** That is why the split is
-tangled: the universal sequence and the project's baselines live in the same file. **The clean
-seam is a manifest** — one small config file per project that carries the profile, with
-`review.py` and `coherence.py` reading it instead of hardcoding it:
+**The profile is now one file: `editorial.yaml`.** The baselines that lived in three Python
+constants and the banned list that lived inside `gate.py` were pulled into it; `profile.py` loads
+it, and `gate.py`, `telling.py`, `trailing_and.py` and `light_verb.py` read their profile from it,
+each with its old hardcoded value as a fallback so a missing manifest changes nothing.
 
 ```yaml
 # editorial.yaml — one per project
-corpus:  ["manuscript/ch*.md", "appendices/*.md"]   # what "the book" means here
+corpus:  ["manuscript/ch*.md", "appendices/APPENDIX_*.md", ...]   # what "the book" means here
 baselines:
   telling: 3.0
   trailing_and: 13.9
   light_verb: 0.7
-banned:  ["synergy", "leverage", "utilize"]          # THIS project's voice words, not MTGOA's
+banned:  ["synergy", "leverage", "utilize"]                       # THIS project's voice words (illustrative)
 pass:    [gate, prose_diet, fragment, antecedent, slop_shapes, trailing_and, telling, light_verb]
-project_only: [agency_grep]                          # instruments that do not port
+project_only: [agency_grep]                                       # instruments that do not port
 ```
 
-**With the manifest, the two questions close for good.** A new project gets the universal
-instruments unchanged and writes its own `editorial.yaml`. `coherence.py` validates that manifest
-against reality — every listed instrument exists, every baseline matches a fresh measurement,
-nothing wired is missing — which is exactly the check it already runs, now reading one source of
-truth instead of parsing `review.py` with regexes. **One manifest, one self-check, any project.**
+**`coherence.py` validates the manifest against reality** — every named instrument exists
+(`manifest`), every declared scanner is actually wired (`pass-wire`), every baseline matches a
+fresh measurement (`drift`). A negative test confirmed all three bite: a baseline set to a wrong
+value, and an instrument named that does not exist, both fail the board. **One manifest, one
+self-check, any project.** A new project copies `instruments/`, writes its own `editorial.yaml`,
+and the same checker validates it.
+
+**What is not yet manifest-driven, honestly:** `review.py`'s step *sequence* is still declared in
+Python — the manifest lists the universal `pass` and `coherence.py` checks it is wired, but the
+book-only steps (voice, seam, citations, round-trip) and the draft-loop's per-tool counts still
+live in the orchestration. That is the right place for control flow; the manifest carries the
+data that varies, which is the part that had to move for the pipeline to travel.
 
 ## 4 · The open decision — how the core is shared
 

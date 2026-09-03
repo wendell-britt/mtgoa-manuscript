@@ -74,6 +74,7 @@ def _load(name, path):
 
 fl = _load("find_line", os.path.join(HERE, "find_line.py"))
 dl = _load("draft_lines", os.path.join(HERE, "draft_lines.py"))
+profile = _load("profile", os.path.join(HERE, "profile.py"))
 
 SENT = re.compile(r"(?<=[.!?])\s+")
 
@@ -137,7 +138,7 @@ DEAD = re.compile(r"\b(it|this|that|these|those|%s|\w{4,}(?:tion|sion|ment|ness)
 # Measured 2026-09-03 by this file on the book's own body prose: 39 DELEXICAL and 124 DEAD across
 # 5,985 sentences. DEAD runs high because most of its subjects are concrete and fine -- which is
 # why it is surfaced, not graded.
-BOOK_BASELINE = 0.7      # per cent of sentences carrying a DELEXICAL hit
+BOOK_BASELINE = profile.baseline("light_verb", 0.7)  # manifest-authoritative; see profile.py
 
 
 def sites(text):

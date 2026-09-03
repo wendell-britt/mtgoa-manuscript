@@ -78,6 +78,7 @@ def _load(name, path):
 
 fl = _load("find_line", os.path.join(HERE, "find_line.py"))
 dl = _load("draft_lines", os.path.join(HERE, "draft_lines.py"))
+profile = _load("profile", os.path.join(HERE, "profile.py"))
 
 SENT = re.compile(r"(?<=[.!?])\s+")
 
@@ -108,7 +109,7 @@ RANK = re.compile(
 # Measured 2026-09-01 by this file on the book's own body prose: 770 LOOSE + 13 RANK across
 # 5,643 sentences. An earlier hand scan said 15.3% because it counted headings and tables too;
 # this is the number the instrument itself produces, which is the one to hold new prose to.
-BOOK_BASELINE = 13.9
+BOOK_BASELINE = profile.baseline("trailing_and", 13.9)  # manifest-authoritative; see profile.py
 
 
 def sites(text):

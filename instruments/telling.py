@@ -89,6 +89,7 @@ def _load(name, path):
 
 fl = _load("find_line", os.path.join(HERE, "find_line.py"))
 dl = _load("draft_lines", os.path.join(HERE, "draft_lines.py"))
+profile = _load("profile", os.path.join(HERE, "profile.py"))
 
 SENT = re.compile(r"(?<=[.!?])\s+")
 
@@ -108,8 +109,10 @@ PROPERTY = re.compile(
 # decide which of those are fine, because deciding that is the judgement it does not have.
 ABSOLUTE = re.compile(r"\b(every time|everytime|always|everyone|no one|nobody)\b", re.I)
 
-# Measured 2026-09-02 by this file on the book's own body prose.
-BOOK_BASELINE = 3.0      # per cent of sentences carrying a LABEL
+# Measured 2026-09-02 by this file on the book's own body prose. The manifest (editorial.yaml)
+# is authoritative when present; the constant is the fallback and the default it is checked
+# against. coherence.py re-measures and fails on drift from the manifest value.
+BOOK_BASELINE = profile.baseline("telling", 3.0)  # per cent of sentences carrying a LABEL
 
 
 def sites(text):
