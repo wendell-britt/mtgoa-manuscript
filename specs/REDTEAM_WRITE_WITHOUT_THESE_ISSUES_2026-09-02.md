@@ -147,11 +147,15 @@ permanently, not as a failure of the method but as the boundary of it.
 
 ## Sourcing
 
-**Read as search-result extracts, not primary texts** — `arxiv.org`, `github.com` and most of
-the cited hosts are blocked by this environment's egress proxy, so the Huang paper, the proselint
-study, the Vale case studies and the 2026 industry analyses come through search summaries.
-**The two claims worth verifying against the primaries before leaning hard on them** are the
-exact Huang finding on self-correction degradation and proselint's 1-in-10 false-discovery rate.
+**What is primary and what is a summary.** The egress here is a **per-host policy allowlist, not
+a blanket block** (an earlier note overstated it). **npm is direct-access**, so the write-good
+claim in reason 4 — that it flags to-be verbs via an *opt-in* E-Prime mode — was read verbatim
+from the package source (`eprime: false // User must explicitly opt-in`) and is primary, not a
+summary. **Still search extracts, because their hosts are policy-denied** (`arxiv.org`,
+`en.wikipedia.org`, `vale.sh`): the Huang paper, the proselint study, the Vale case studies and
+the 2026 industry analyses. **The two claims worth verifying against the primaries before leaning
+hard on them** are the exact Huang finding on self-correction degradation and proselint's
+1-in-10 false-discovery rate.
 
 - [Huang et al., *LLMs Cannot Self-Correct Reasoning Yet*, ICLR 2024](https://arxiv.org/abs/2310.01798)
 - [*The Self-Correction Illusion: LLMs Correct Others but Not Themselves*](https://arxiv.org/pdf/2606.05976)

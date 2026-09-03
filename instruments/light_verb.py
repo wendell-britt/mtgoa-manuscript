@@ -89,6 +89,24 @@ LIGHT = (r"make|makes|made|making|take|takes|took|taken|taking|give|gives|gave|g
          r"reach|reaches|reached|reaching|offer|offers|offered|offering|gain|gains|gained|gaining")
 NOMINAL = r"\w{3,}(?:tion|sion|ment|ance|ence|ity|ism)"
 DELEXICAL = re.compile(r"\b(?:%s)\s+(?:a |an |the )?(%s)\b" % (LIGHT, NOMINAL), re.I)
+
+# The bare-noun light-verb construction the suffix regex cannot see: "make an effort" (try),
+# "take advantage of" (exploit), "do harm to" (harm). These are the class Wendell meant by
+# "someone has made a list of these" -- and someone has: this set is drawn from write-good's
+# `too-wordy` list (read from the npm package, verified against source, not a summary), which
+# ships "make an effort", "do damage to", "do harm to", "have a tendency to", "took advantage
+# of" as wordiness, plus the canonical delexical constructions the British Council teaches.
+LIGHT_PHRASE = re.compile(
+    r"\b(?:mak(?:e|es|ing)|made)\s+(?:a |an |the )?"
+    r"(?:effort|choice|attempt|difference|comparison|distinction|assumption|mention|use of)\b"
+    r"|\b(?:tak(?:e|es|ing)|took|taken)\s+(?:a |an |the )?"
+    r"(?:action|step|advantage of|account of|control of)\b"
+    r"|\b(?:giv(?:e|es|ing)|gave|given)\s+(?:a |an |the )?"
+    r"(?:consideration|explanation|description|demonstration|rise to|permission)\b"
+    r"|\b(?:hav(?:e|es|ing)|has|had)\s+(?:a |an |the )?"
+    r"(?:tendency to|impact on|preference for)\b"
+    r"|\b(?:do|does|doing|did|done)\s+(?:a |an |the )?(?:harm|damage)\b"
+    r"|\bput(?:s|ting)?\s+(?:emphasis|pressure|stress|a strain)\s+on\b", re.I)
 # Nouns that carry a flagged suffix but bury no verb -- the cheap precision win. Chasing this
 # list past the obvious offenders is the Goodhart trap the red-team named, so it stays short:
 # every entry was read off a false positive in the first book-wide run.
@@ -128,7 +146,8 @@ def sites(text):
     sents = [s for s in sents if len(s.split()) > 3]
     for s in sents:
         m = DELEXICAL.search(s)
-        if m and m.group(1).lower() not in NOT_DEVERBAL:
+        suffix_hit = m and m.group(1).lower() not in NOT_DEVERBAL
+        if suffix_hit or LIGHT_PHRASE.search(s):
             out.append(("DELEXICAL", s))
         if DEAD.search(s):
             out.append(("DEAD", s))

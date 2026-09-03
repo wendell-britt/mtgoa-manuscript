@@ -90,9 +90,13 @@ a suffix — **-tion, -sion, -ment, -ance, -ence, -ity** — or a gerund. *"She 
 analysis"* → *"she analysed."* *"conducted an investigation"* → *"investigated."* The suffix is
 what makes the DELEXICAL tier mechanically findable.
 
-**The detector uses all three.** Light-verb list for the verb slot, nominalization suffix for
-the noun slot, and — added for this book — the two verbs Wendell named by hand, **land and
-leave**, as the head of the DEAD family.
+**The detector uses all four.** Light-verb list for the verb slot, nominalization suffix for the
+noun slot, an explicit **bare-noun phrase list** (*make an effort, take advantage of, do harm to*)
+that the suffix regex cannot see — this is the *"someone has made a list of these"* Wendell
+pointed at, and someone has: it is drawn from write-good's `too-wordy` list, **read verbatim from
+the npm package** (`weasel-words`, `too-wordy`, `e-prime`, `passive-voice` all pull cleanly;
+npm is a direct-access host here) — and the two verbs Wendell named by hand, **land and leave**,
+as the head of the DEAD family.
 
 ## 3 · What the people who went down this path built
 
@@ -102,7 +106,7 @@ one architecture and one ceiling.
 
 | tool | what it is | what it flags near this defect |
 |---|---|---|
-| **write-good** (btford) | a naive JS prose linter, the most-forked of them | passive, weasel words, adverbs, wordiness, *there is/are* openers, **and an opt-in E-Prime mode that flags every *to-be* verb** |
+| **write-good** (btford) | a naive JS prose linter, the most-forked of them; delegates to six word-list packages (`weasel-words`, `too-wordy`, `e-prime`, `passive-voice`, `adverb-where`, `no-cliches`) | passive, weasel words, adverbs, wordiness, *there is/are* openers, **and an E-Prime mode that flags every *to-be* verb — `eprime: false` in its source, opt-in because too noisy** (read verbatim from the npm package, not a summary) |
 | **proselint** (amperser / Suchow) | 20+ modules, each following a named editor | redundancy, jargon, clichés; FDR ~1 in 10, **20× better than Word — and its authors still conclude every such tool is "incomplete"** |
 | **Vale** (errata-ai) | the CI-grade linter — GitLab, Datadog, Red Hat, Grafana | YAML rules of a few types: **existence** (flag a word list), **substitution** (X→Y), **occurrence** (count per scope), readability. Weak-verb detection = an `existence` rule with a `tokens:` list |
 | **matt.might shell scripts / editsaurus** | grep one-liners, the ancestor of the rest | a hard-coded weasel-word list and a *to-be* list, greped straight |
@@ -169,11 +173,17 @@ measurement, and the measurement runs before the draft reaches him.
 
 ## Sourcing
 
-**Read as search-result extracts, not primary texts.** `github.com` (write-good, proselint,
-editsaurus), `grafana.com` and the craft-blog hosts (kindlepreneur, matt.might) are blocked by
-this environment's egress proxy, so the tool inventory and the word lists come through search
-summaries. **The linguistics core is the solid part** — the delexical-verb category is stable
-across the Wikipedia and British Council entries, which agree on the same six verbs.
+**What is verified against primary source, and what is not.** The egress here is a **per-host
+policy allowlist, not a blanket block** — the first read of this spec called it "heavily locked
+down" after four blocked hosts, which was wrong in kind. **npm and PyPI are direct-access**, and
+`raw.githubusercontent.com` reaches GitHub, so the write-good source and its six word-list
+packages were pulled and **read verbatim**: the `eprime: false` opt-in, the delegation
+architecture, the `weasel-words`, `too-wordy`, `passive-voice` and `e-prime` lists. Those are
+primary, not summaries. **Policy-denied** (confirmed by request, not assumed): `en.wikipedia.org`,
+`vale.sh`, `grafana.com`, `matt.might.net`, and the craft blogs — so the Vale rule-type taxonomy,
+the proselint FDR figure, and the craft "weak verb" framing remain search extracts. The
+delexical-verb category is stable across the Wikipedia and British Council entries; the six-verb
+core is not in dispute.
 
 - [Wikipedia, *Light verb*](https://en.wikipedia.org/wiki/Light_verb)
 - [British Council, *Delexical verbs: have, take, make, give, go, do*](https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/delexical-verbs-have-take-make-give-go-do)
