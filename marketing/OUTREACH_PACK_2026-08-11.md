@@ -130,13 +130,19 @@ with that.
 
 ## 4 · Kansas Leadership Center — Speakers Bureau
 
+**Correction 2026-09-03:** the original opener claimed *"I'm in Wichita — a few blocks from you"*
+and the angle was *local*. **Wendell has moved to Seattle**, so the proximity hook is gone. The
+opener below is corrected. **This changes the target's standing** — a state leadership center's
+speakers bureau often favors in-state speakers, and local was this pitch's whole *why-you*. See
+the strategic note at the end of this section before sending.
+
 **Where:** the Speakers Bureau application on kansasleadershipcenter.org · also 316.712.4950
-**Angle:** local, and their thesis is already adjacent to yours
+**Angle:** their thesis is already adjacent to yours (the local hook no longer applies)
 
-I'm applying to the Speakers Bureau. I'm in Wichita — a few blocks from you.
+I'm applying to the Speakers Bureau because *When Everyone Leads* and my book are the same
+argument from two directions.
 
-*When Everyone Leads* and the book I wrote are making the same argument from different
-directions. Mine is called *Mastering the Game of Allyship* (2026), and its claim is that
+Mine is called *Mastering the Game of Allyship* (2026), and its claim is that
 showing up for other people is a set of learnable moves rather than a disposition — six roles a
 group needs, what each one is for, and what each one looks like when it goes wrong. Groups that
 can't name the roles keep failing in the same direction and can't say why.
@@ -157,6 +163,20 @@ The thing worth knowing about me: I built a course on this in 2020 and under ten
 people who started it finished. Everything I do now is downstream of figuring out why.
 
 Wendell Britt · <wendell@masteringallyship.com>
+
+**Strategic note (2026-09-03) — decide before sending.** This pitch was built on being local to
+Wichita, and that is no longer true. Two honest options:
+
+- **Keep it, on the thesis fit alone.** The *When Everyone Leads* adjacency is real and the
+  program fits stand on their own. It becomes a normal speakers-bureau application rather than a
+  local-and-adjacent one — weaker, but not dead.
+- **Swap it for a Seattle-local target.** The move actually *strengthens* the other three: Oregon
+  Outdoor School and WRMC are Pacific-Northwest-centered, and Seattle is regionally theirs in a
+  way Wichita never was. A PNW leadership or L&D org near Seattle would give back the local hook
+  KLC just lost. This would be net-new outreach, not a redraft.
+
+The four sends do not have to include KLC to hit the funding goal — three or four *engagements*
+pay for the print run, and the PNW three are now the stronger book.
 
 ## 5 · The forwardable blurb — for update #2
 
