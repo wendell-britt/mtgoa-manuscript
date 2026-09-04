@@ -93,9 +93,10 @@ having for an email and a delivery choice:
 - **It asks:** email, and *what do you want us to send you* — the PDF, the replay, a course
   preview, first word on the Seattle stop. Checkboxes, so *"deliver what they choose to get"* is
   literally what happens.
-- **It gives:** the pre-work itself — **the *Find Your Allyship Superpower* diagnostic**
-  (`marketing/PREWORK_2026-09-03.md`): seven minutes that name the belief stopping them and turn it
-  into their superpower. Valuable enough to stand alone, and it doubles as the read we need to help.
+- **It gives:** the pre-work itself — **the Superpower Quiz at `/superpower`**
+  (`marketing/PREWORK_2026-09-03.md`): a scored diagnostic that reveals which of seven allyship
+  superpowers is theirs, saves it against their email, and emails it back. Valuable enough to stand
+  alone, and it doubles as the read we need to help. Already built in bars-engine.
 
 **Multiple shots at the email, because one is never enough:**
 
