@@ -24,7 +24,7 @@ to **Friday, October 16, 2026**, with the ask updated to *get the PDF now, pre-o
 The invite opens ~Sept 20 (W-4). Everything in `‹angle brackets›` is a link or a value to confirm
 before it goes live.
 
-**The one thing Partiful does not do is hand you a clean email list** — it gives RSVPs and phone
+**The one job Partiful does not do is hand you a clean email list** — it gives RSVPs and phone
 numbers. So the email is captured at the **pre-work**, and the text blasts are the extra shots at
 it. That system is the second half of this doc, and it is the part that actually matters.
 
@@ -107,7 +107,7 @@ having for an email and a delivery choice:
    coming. Grab your PDF and the replay here"* → the form.
 
 **The one leak to plug: a paid attendee with no email.** A book buyer is not the worry — the
-purchase carries the email. But a **donor at the event can slip through**, and then we cannot
+purchase carries the email. A **donor at the event**, though, can slip through, and then we cannot
 deliver what they paid to support or tell them the book shipped. Close it two ways: **capture the
 email at the donation step** (the payment processor has it — export it), and let the **post-event
 text blast** catch the rest. That is the failure mode worth engineering against; the rest is
