@@ -93,9 +93,9 @@ having for an email and a delivery choice:
 - **It asks:** email, and *what do you want us to send you* — the PDF, the replay, a course
   preview, first word on the Seattle stop. Checkboxes, so *"deliver what they choose to get"* is
   literally what happens.
-- **It gives:** the pre-work itself — ‹pick one: a single Allyship Deck card to sit with, the one
-  question to bring to the event, or the first practice›. Light and on-brand, so the email is an
-  even trade rather than a toll.
+- **It gives:** the pre-work itself — **the *Find Your Allyship Superpower* diagnostic**
+  (`marketing/PREWORK_2026-09-03.md`): seven minutes that name the belief stopping them and turn it
+  into their superpower. Valuable enough to stand alone, and it doubles as the read we need to help.
 
 **Multiple shots at the email, because one is never enough:**
 
