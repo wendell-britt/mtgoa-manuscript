@@ -95,17 +95,48 @@ a body of work rather than a favor pull:
 **Do not fill these with strangers.** Draw first from the people who already believe — the standing
 rule in §10 is *show up to the people who already believe before you feel ready.*
 
-## The four decisions that set the dates
+## The decisions, now set (2026-09-03)
 
-**The calendar above is relative. These four make it real, and they are yours:**
+1. **W0 = Friday, October 16, 2026** — the virtual launch, ~6 weeks out.
+2. **The ask is PDF-now plus pre-order.** KDP is blocked on publishing the 2.0 interior, but the
+   current PDF is available today (the `/book` funnel) and pre-orders can be taken. So the launch
+   drives to *get the PDF now, pre-order the print* — not a print buy-link yet.
+3. **Seattle stop — scout now, target the weekend of Nov 6–7** (~W+3). Lock the venue in the next
+   two weeks.
+4. **The podcast is built from scratch**, so standing up the feed is the first job, not recording.
 
-1. **W0 — the virtual launch date.** Everything anchors here. What month?
-2. **Is the book on sale now, or does the launch wait on the proof/print run?** If it is
-   purchasable, the events drive to a buy link. If it waits on the ~$6,000 print run, the virtual
-   launch drives to the ebook + a pre-order and the Seattle stop sells the printed book off the
-   first run. This changes the ask, not the sequence.
-3. **Seattle stop — do you have a venue/month, or should the plan hold ~W+3 as a target?**
-4. **The podcast — does the feed exist, or is standing it up the W-8 job?**
+## The absolute calendar — six weeks, and it is tight
 
-**What does not need a decision:** the background outreach. It is already drafted and it runs on
-its own clock, gating nothing here. Send it and forget it.
+**Say it plainly: six weeks to a launch with a podcast that does not exist yet is a compressed
+run.** The eight-week shape above does not fit, so this is the honest version. The risk is the
+same one the panel keeps naming — a launch that slips into more silence. **The release valve, if a
+week goes sideways, is to drop pre-launch episodes down to two (AJ and Ike) rather than to move
+W0.** Protect the date; flex the episode count.
+
+| dates | the job |
+|---|---|
+| **Sept 3–12 (now)** | Stand up the podcast feed (name, host, cover, distribution). Invite **AJ Cohen** + **Ike** today and book recording slots. Scout 2–3 Seattle venues. **Send ACA before its Sept 16 deadline**, plus ACCT and WRMC. |
+| **Sept 13–19** | Record AJ + Ike (a third guest if it lands). **Lock the Seattle venue + date.** Build the virtual registration page (Zoom + Partiful copy already drafted). Send Oregon Outdoor School + Leadership Tomorrow. |
+| **Sept 20–26** | **Episode 1 drops — AJ Cohen**, the credibility signal. Start clipping. **Open virtual registration** (free / donation). **Post update #31** — it has waited since Aug 22. |
+| **Sept 27 – Oct 3** | **Episode 2 — Ike.** **Open Seattle ticket sales** (venue locked, Episode 1 live — both gates met, ~5 weeks before the stop). Promote the launch to the backer list and the pod audience. |
+| **Oct 4–10** | Episode 3 if recorded. Final promo push. Tech rehearsal for the webinar. |
+| **Fri Oct 16 — W0** | **VIRTUAL BOOK LAUNCH.** Recorded, replay posted. Announce the Seattle stop from the stage. Ask: get the PDF, pre-order the print. |
+| **Oct 17–24** | Send the replay and the ask. Resume episodes. Ride the momentum straight at Seattle tickets. |
+| **Weekend of Nov 6–7 — W+3** | **SEATTLE IN-PERSON STOP.** Sells the printed book if the run has landed; otherwise pre-order plus signed PDF cards. |
+| **Nov +** | The podcast continues as the drafting engine for *Allyship at Work*. Consider stop #2. |
+
+**The one dependency to watch:** whether the Seattle stop can sell a *physical* book on Nov 6–7
+depends on the ~$6,000 print run being funded and printed by then. That is the background
+outreach's job (the money track). If the run has not landed, the Seattle stop sells pre-orders and
+the PDF, and the printed book ships to attendees after. **The launch does not wait on the print
+run; only the physical-book-in-hand at the Seattle stop does.**
+
+**What does not need managing:** the background outreach. It is drafted, it runs on its own clock,
+and it gates nothing here except the physical-book question above. Send it and forget it.
+
+## One confirm before the money step
+
+**The pre-order mechanism needs a decision I could not make for you:** a KDP ebook pre-order (up to
+90 days, simplest) versus a direct pre-order on the site / through the `bars-engine` funnel (more
+control, ties to the course entitlement). Pick one before Sept 19, because the virtual
+registration page has to point at it.
