@@ -19,10 +19,14 @@ source:
 
 # Virtual Book Launch — the registration page
 
-**The primary launch moment (`LAUNCH_SEQUENCING` W0).** Built on the approved Partiful copy,
-re-dated to **Friday, October 16, 2026**, with the ask updated to *get the PDF now, pre-order the
-print* per the launch decisions. Registration opens ~Sept 20 (W-4). Everything in `‹angle
-brackets›` is a link or a value to confirm before it goes live.
+**The primary launch moment (`LAUNCH_SEQUENCING` W0).** It ships as a **Partiful invite**, re-dated
+to **Friday, October 16, 2026**, with the ask updated to *get the PDF now, pre-order the print*.
+The invite opens ~Sept 20 (W-4). Everything in `‹angle brackets›` is a link or a value to confirm
+before it goes live.
+
+**The one thing Partiful does not do is hand you a clean email list** — it gives RSVPs and phone
+numbers. So the email is captured at the **pre-work**, and the text blasts are the extra shots at
+it. That system is the second half of this doc, and it is the part that actually matters.
 
 ---
 
@@ -73,40 +77,52 @@ and you want to put something behind it, your contribution funds the print run f
 who backed this in 2023, the podcast, and Campaign Zero scholarships. Give what feels right, or
 give nothing and just come. ‹link: what your contribution funds — bars-engine page›
 
-### The button
+### The RSVP line (in the Partiful invite)
 
-**[ Save your spot ]**
-
-*Register with your name and email. Your email is how you get the replay, the PDF link, and first
-word on the Seattle stop.*
-
-### After they register — the confirmation
-
-You're in. Watch your inbox for the Zoom link and the replay afterward. If you want a head start,
-your PDF and pre-order link are on their way. Bring someone who needs this.
+**RSVP here, then do your pre-work** — the link is below, and it takes two minutes. Doing it is how
+you get the PDF, the replay, and first word on the Seattle stop. ‹pre-work link›
 
 ---
 
-## For the share card (Open Graph / social)
+## Capturing the email — the pre-work is the chokepoint
 
-**Title:** Mastering the Game of Allyship — Virtual Book Launch
-**Description:** Friday, Oct 16, 6 PM PT. Six years of work, the whole framework, and your hardest
-questions. Free, live on Zoom, replay for everyone who registers.
-**Image:** ‹the cover wrap or the launch key art›
+**The email gets captured once, at the pre-work, and everything routes through it.** The pre-work
+is a single-screen form (Google Form, Typeform, or a route on the site) that trades something worth
+having for an email and a delivery choice:
 
-## The form fields, minimal on purpose
+- **It asks:** email, and *what do you want us to send you* — the PDF, the replay, a course
+  preview, first word on the Seattle stop. Checkboxes, so *"deliver what they choose to get"* is
+  literally what happens.
+- **It gives:** the pre-work itself — ‹pick one: a single Allyship Deck card to sit with, the one
+  question to bring to the event, or the first practice›. Light and on-brand, so the email is an
+  even trade rather than a toll.
 
-- **Name** (required)
-- **Email** (required — the list, the replay, the course-access entry)
-- *Optional:* "Are you one of the original 361 backers?" — a checkbox, so the backers can be
-  greeted by name and moved to the front of the fulfillment line.
+**Multiple shots at the email, because one is never enough:**
+
+1. The pre-work link in the **Partiful invite** description.
+2. A **text blast on RSVP** — *"You're in. Here's your two-minute pre-work"* → the form.
+3. A **text blast the day before** — *"Tomorrow. Did you do the pre-work?"* → the form.
+4. **On screen at the event** — the link in the Zoom chat and on a slide.
+5. A **post-event text blast** to everyone who RSVP'd but never filled the form — *"Thanks for
+   coming. Grab your PDF and the replay here"* → the form.
+
+**The one leak to plug: a paid attendee with no email.** A book buyer is not the worry — the
+purchase carries the email. But a **donor at the event can slip through**, and then we cannot
+deliver what they paid to support or tell them the book shipped. Close it two ways: **capture the
+email at the donation step** (the payment processor has it — export it), and let the **post-event
+text blast** catch the rest. That is the failure mode worth engineering against; the rest is
+convenience.
+
+**Backers:** put *"Are you one of the original 361?"* as a checkbox on the pre-work form, so they
+are greeted by name and moved to the front of the fulfillment line.
 
 ## Notes before it ships
 
 - **Confirm the time.** 6 PM PT is a placeholder; an evening slot reads right for a launch, and PT
   is home now.
-- **Wire the three links:** the Zoom registration, the bars-engine *what-this-funds* page, and the
-  PDF / pre-order destination (the same pre-order decision `LAUNCH_SEQUENCING` flags — KDP ebook
-  pre-order versus a direct funnel pre-order).
-- **The email capture is the point.** Registration is free, but the email is what feeds the launch
-  list, the course onramp, and the Seattle ticket push. Do not skip it for a one-click RSVP.
+- **Wire the links:** the Zoom link (in the Partiful invite and the confirmation), the bars-engine
+  *what-this-funds* page, the **pre-work form**, and the PDF / pre-order destination (the same
+  pre-order decision `LAUNCH_SEQUENCING` flags — KDP ebook pre-order versus a direct funnel
+  pre-order).
+- **Build the pre-work form before the invite goes out**, because the invite links to it and the
+  first text blast fires on RSVP.
