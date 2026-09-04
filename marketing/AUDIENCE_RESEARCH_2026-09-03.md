@@ -109,7 +109,7 @@ confirmed fits.**
 |---|---|---|---|
 | Resmaa Menakem | somatics / racial healing | the exact neighbor; his audience already holds the premise | study, then a warm approach far down the relationship road |
 | Prentis Hemphill | somatics / embodiment | *Finding Our Way* podcast = a clean cross-promo | pitch a podcast swap, not a one-way ask |
-| Layla Saad | allyship / DEI | ran the same funnel; *Good Ancestor* format fits | study the funnel first; approach as a peer who did the same thing |
+| Layla Saad | allyship / DEI | ran the same funnel; *Good Ancestor* format fits | study the funnel first; approach as a peer who ran the same play |
 | Rachel Cargle | allyship / DEI | large IG audience of active unlearners | engage on socials first, per the Dream 100 method |
 | Jeff Salzman / Daily Evolver | integral | the lineage's hub; directly aligned | the integral arc (Ike) is the warm introduction path |
 | John Vervaeke | integral / sensemaking | names the practical gap MTGOA fills | finale-tier; needs a track record of episodes first |
