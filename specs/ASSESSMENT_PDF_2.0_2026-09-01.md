@@ -114,6 +114,13 @@ half-satisfied by accident — readable text, no hyperlink.
 
 ## 4 · NFR-3 is achievable in the pipeline, and this is the finding worth acting on
 
+> **AMENDED 2026-09-04 — the conclusion below does not survive the ebook step.** The test
+> in this section is correct and it was taken on the interior. `build_pdf_ebook.py` then
+> rebuilds the document through `insert_pdf`, which drops `StructTreeRoot`, so the flag as
+> described yields a tagged interior and an untagged shipped file. Read
+> `specs/HANDOFF_PDF_TAGGING_2026-09-04.md` before acting on §4 or on step 2 of §7.
+
+
 **The spec calls accessibility non-optional and the current file is untagged.** The obvious
 assumption is that tagging means a post-process through Acrobat, which would put a manual step
 between every rebuild and every release.
@@ -228,3 +235,38 @@ and two are optional and currently absent. Fixed there.
 
 **Steps 1 to 4 are a day and they are independent of the prose**, which is the argument for
 starting there rather than with the writing.
+
+
+---
+
+## 8 · AMENDMENT 2026-09-04 — §4 and §7 step 2 are wrong about where the tagging lands
+
+**§4 measured the right thing in the wrong place.** `pdf_standards=["a-2b"]` was tested
+against the Typst interior and reported `tagged: True`. That result holds. The shipped
+artifact is not that file.
+
+`build_pdf_ebook.py` opens a new document, draws the cover on page 1, and pulls the
+interior in with `insert_pdf`. **PyMuPDF does not merge or preserve `StructTreeRoot`** —
+issue #2469, open since 2023-06-14, whose description names this exact case: creating a new
+PDF and appending others loses the structure entirely. So the flag alone produces a tagged
+interior and an untagged product, and the measurement in §4 would keep reading `tagged:
+True` at the point it was taken.
+
+**This is the same defect class this file already records elsewhere.** The hard-coded
+component map passed its own check because a bookmark placed at page N is trivially at page
+N. A standard verified on the wrong artifact passes for the same reason. *The check has to
+run on the thing that ships.*
+
+**Second consequence.** The cover never passes through Typst, so there is nowhere in the
+template to put its alt text. The book's one image is invisible to the only tool that can
+tag it, which means §4's *"the first pass is one alt string"* has no place to put that
+string as the pipeline currently stands.
+
+**The fix is structural rather than a flag:** the cover moves into the share interior as an
+even-page leaf, and the ebook script opens that file in place instead of rebuilding it.
+Full diff, verification commands, and the ordering in
+`specs/HANDOFF_PDF_TAGGING_2026-09-04.md`.
+
+**§7's step 2 should be read as blocked, not ready.** It is still the right thing to do
+early — the argument that a standard discovered late is expensive holds — but it costs the
+cover restructure rather than one keyword.
