@@ -84,6 +84,56 @@ The audience Ike, Marin and Regis come from, one ring out.
   integral theory made practical and personal, which is the gap these thinkers name and rarely
   fill. Finale-tier reach for this lane, not opening-arc.
 
+### Adjacent authors — *the readers who would read you*
+
+- **adrienne maree brown** — *Emergent Strategy*, *Pleasure Activism*; 25 years of social-justice
+  facilitation, a somatics teacher, and a podcaster. **She belongs in the somatics-plus-justice
+  core, not off to the side** — her audience is the single closest match to MTGOA's, and emergence
+  is a frame the book already leans on. Aspirational-tier for a guest; foundational for positioning.
+- **Priya Parker** — *The Art of Gathering*; facilitation and gathering design. **Overlap:** the
+  events half of this launch is her subject. A natural fit for the in-person-stop conversation.
+- **Brené Brown** — vulnerability and courage, a very large audience. Adjacent and broad;
+  finale-tier reach, not an early ask.
+
+### The field — *outdoor-ed / facilitation / camp, and the bridge to the speaking sends*
+
+**This lane pays twice: it reaches an audience and it warms the outreach.** A guest spot on the
+field's own podcasts turns a cold conference pitch into *the person who was on our show.*
+
+- **AEE — the *It's In the Experience* podcast** (Association for Experiential Education, host
+  Sherry Bagley). The professional home of the facilitation world the sends target. **A guest slot
+  here warms WRMC, ACCT and ACA at once.**
+- **The Outdoor Education Podcast** (Rob Carmichael) — covers facilitation and DEI in outdoor ed;
+  a direct cross-promo target.
+- **Dr. Will White — *Stories from the Field: Mental Health in the Outdoors*** — outdoor therapy
+  and mental health, which is the five-channels material in this audience's own language.
+
+### Aligned podcasters — *cross-promo, and the somatics-justice cluster confirmed*
+
+- **Staci Haines** — *The Politics of Trauma*, generative somatics, "power-with." **Confirms the
+  cluster:** somatics + social change is a defined field, not a stretch, and she sits in it with
+  Resmaa and Prentis.
+- **We Can Do Hard Things** (Glennon Doyle, Abby Wambach, Amanda Doyle) — a very large audience on
+  resilience and hard conversations. Finale-tier reach.
+- **Bioneers** — an org and media platform explicitly linking somatics, trauma healing and social
+  change; a warm ecosystem to be in.
+
+### Seattle / PNW local — *and this doubles as the Track C venue list*
+
+**The in-person stop's venue scouting starts here.** Seattle's author-event circuit is deep:
+
+- **Elliott Bay Book Company** (Capitol Hill) — the largest indie, 500+ events a year. The default
+  launch venue.
+- **Third Place Books** (Ravenna, Seward Park, Lake Forest Park) — a legendary author-events
+  program with a community focus; three locations to choose from.
+- **Town Hall Seattle** — larger cultural programming, for a bigger draw once the podcast has built
+  an audience.
+- **Hugo House** and **Seattle Arts & Lectures** — the writers' center and the lecture series, for
+  a more literary framing.
+
+**Feed this straight into `LAUNCH_SEQUENCING` Track C:** scout Elliott Bay and Third Place first
+(indie bookstores book author launches as a matter of course), hold Town Hall for the reach play.
+
 ## What the research changes
 
 **The unique position, triangulated.** MTGOA sits where three audiences overlap and few authors
@@ -113,12 +163,18 @@ confirmed fits.**
 | Rachel Cargle | allyship / DEI | large IG audience of active unlearners | engage on socials first, per the Dream 100 method |
 | Jeff Salzman / Daily Evolver | integral | the lineage's hub; directly aligned | the integral arc (Ike) is the warm introduction path |
 | John Vervaeke | integral / sensemaking | names the practical gap MTGOA fills | finale-tier; needs a track record of episodes first |
+| adrienne maree brown | adjacent authors / somatics | closest audience match; emergence + somatics + justice | aspirational; earn the relationship over a long horizon |
+| Priya Parker | adjacent authors | *The Art of Gathering* fits the events half of the launch | approach around the in-person-stop angle |
+| AEE — *It's In the Experience* | the field | warms WRMC / ACCT / ACA at once | pitch a guest slot; it doubles as speaking-send warm-up |
+| Rob Carmichael / Outdoor Education Podcast | the field | facilitation + DEI in outdoor ed | a clean cross-promo swap |
+| Staci Haines | somatics / social change | confirms the cluster; power-with | study, then approach through the somatics network |
 
-## Lanes still to research
+## All seven lanes are now covered
 
-**Offer.** This covered the three highest-overlap lanes. Say the word and I will run the same pass
-on: **the field** (outdoor-ed / facilitation / camp), **aligned podcasters** for cross-promo
-beyond the above, **adjacent authors**, and **Seattle / PNW local** for the in-person stop.
+Somatics, allyship/DEI, integral, adjacent authors, the field, aligned podcasters, and Seattle
+local. **The two cross-track wins worth acting on:** a field-podcast guest slot (AEE, Rob
+Carmichael, Will White) warms the speaking sends, and the Seattle venue list feeds Track C
+directly. What is left is the outreach itself, which is Wendell's `DREAM_100` to fill and work.
 
 ## Sourcing
 
@@ -129,3 +185,6 @@ Verify current status and alignment before any outreach.
 - [Resmaa Menakem](https://resmaa.com/) · [Prentis Hemphill](https://en.wikipedia.org/wiki/Prentis_Hemphill)
 - [Layla Saad — Good Ancestor Podcast](https://open.spotify.com/show/6Atahbqw5vurttEHrjR7TR) · [Me and White Supremacy](https://en.wikipedia.org/wiki/Me_and_White_Supremacy)
 - [The Daily Evolver](https://podcasts.apple.com/us/podcast/the-daily-evolver/id858730207) · [Dr. John Vervaeke](https://podcasts.apple.com/ca/podcast/dr-john-vervaeke/id1680606350) · [Daniel Schmachtenberger — media](https://civilizationemerging.com/media/)
+- [adrienne maree brown](https://adriennemareebrown.net/about/) · [Staci Haines — generative somatics](https://www.coachesrising.com/podcast/creating-a-world-of-power-with-with-staci-haines/) · [We Can Do Hard Things](https://open.spotify.com/show/0eFL5HJejQHZrdgAFdPnOm)
+- [AEE Podcast — It's In the Experience](https://www.aee.org/aee-podcast) · [The Outdoor Education Podcast](https://podcasts.apple.com/us/podcast/the-outdoor-education-podcast-with-rob-carmichael/id1848500449)
+- [Elliott Bay Book Company](https://en.wikipedia.org/wiki/Elliott_Bay_Book_Company) · [Third Place Books](https://www.eventbrite.com/o/third-place-books-30353358534) · [Town Hall Seattle](https://visitseattle.org/things-to-do/arts-culture/literary-lectures/seattles-literary-scene/)
