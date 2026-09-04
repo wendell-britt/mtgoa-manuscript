@@ -30,10 +30,15 @@ seven superpower definitions, the reveal copy, the lead capture, and the design 
 
 **The verdict, up front: it is a well-built instrument, and the honest problem is that its job has
 never been measured on a real player.** The design is careful — the scoring is sound, the copy has
-a real anti-horoscope discipline, and the seven superpowers are grounded in the book's own
-emotional-alchemy ontology. What is missing is not craft. It is evidence. **Nobody knows how the
-results actually distribute, how often the quiz is confident, or whether takers agree with what it
-tells them** — because none of that is recorded. The launch is the instrument that would answer it.
+a real anti-horoscope discipline, and the seven superpowers are organised by the book's four
+allyship domains. What is missing is not craft. It is evidence. **Nobody knows how the results
+actually distribute, how often the quiz is confident, or whether takers agree with what it tells
+them** — because none of that is recorded. The launch is the instrument that would answer it.
+
+**One correction to my own first read, because Wendell caught it:** I called the superpowers
+*"grounded in a per-superpower emotion arc."* That is wrong, and it matters. **Emotional alchemy
+plays on every superpower** — it is a universal layer, not a signature that binds one type to one
+channel. See finding 3, because the *code* encodes the binding the ontology rejects.
 
 ---
 
@@ -47,15 +52,16 @@ tells them** — because none of that is recorded. The launch is the instrument 
   behavioral (not adjectival) claim, a **shadow that a reader could reject**, and cross-distinctness
   from its neighbor. The copy holds up — *"half your best work looks, from the outside, like
   nothing happened at all"* (Connector) is specific and losable, not flattery-for-everyone.
-- **The ontology is not arbitrary.** Each superpower is defined by an **emotion arc** from the
-  book's five channels (Strategist = Fear→Clarity, Disruptor = Anger→Triumph) and one or more
-  **allyship domains** (RAISE_AWARENESS, DIRECT_ACTION…). The quiz is a real expression of the
-  book's system, not a personality-quiz skin bolted on.
+- **The ontology is not arbitrary.** Each superpower is organised by one or more **allyship
+  domains** (RAISE_AWARENESS, GATHERING_RESOURCES, SKILLFUL_ORGANIZING, DIRECT_ACTION). That is
+  the real grounding, and it is the book's own system, not a personality-quiz skin bolted on.
+  *(The `SuperpowerDef` also carries a per-superpower emotion arc — that part is a problem, not a
+  strength; see finding 3.)*
 
-**So the review is not "fix the quiz." It is "find out if it lands, and close one coherence gap
-before the launch sends strangers through it."**
+**So the review is not "fix the quiz." It is "find out if it lands, and close two naming gaps —
+Face versus superpower, and alchemy as universal — before the launch sends strangers through it."**
 
-## Three findings
+## Four findings
 
 ### 1 · The real gap — it has never been measured on players *(highest value)*
 
@@ -80,25 +86,53 @@ anonymized result — primary, secondary, margin, confident, orientation — tur
 validity study the quiz has been owed since it was built. That is the single highest-value change,
 and it is a few lines, not a redesign.
 
-### 2 · A terminology collision to reconcile before the book funnels people through it
+### 2 · The Face collision — the ruling, and the fix
 
-**The quiz calls a superpower your "Face." The book and the character sheet do not.** In the
-reveal, `homeFace` is set to the top *superpower's* label and the promise reads *"the Face you
-ranked last."* But `instruments/character_sheet.html` has a **"Home face" field whose values are
-the six Game Masters** — Shaman, Challenger, Regent, Architect, Diplomat, Sage — **and a separate
-"Superpower" field.** So a launch reader can take the quiz, be told their "home Face" is
-*Connector*, then open a book whose Faces are *Shaman / Challenger / …* and meet two different
-systems wearing one word.
+**Superpowers are not Faces, and the quiz should stop saying they are.** In the reveal, `homeFace`
+is set to the top *superpower's* label and the promise reads *"the Face you ranked last."* But
+`instruments/character_sheet.html` carries **"Home face" (the six Game Masters — Shaman,
+Challenger, Regent, Architect, Diplomat, Sage)** and **"Superpower"** as **two separate lines.**
+They are two dimensions of one character sheet, not a single axis wearing two names. So a launch reader can
+be told their "home Face" is *Connector*, then open a book whose Faces are *Shaman / Challenger /
+…*, and meet two systems wearing one word — at the exact moment they cross from quiz to book.
 
-**This needs a ruling, not a guess.** Either the seven superpowers and the six Faces are one
-system (then the reveal should say so and map them) or they are two layers — the individual gift
-versus the group role — in which case **the reveal should stop calling the superpower a "Face"**
-and the lead field should be renamed off `homeFace`. The fix is small; the confusion, at the exact
-moment a reader crosses from quiz to book, is not. *(Verify against Chapter 9, which the reveal
-cites as arguing "the avoided Face is the more interesting half" — that line has to mean the same
-"Face" the reader just got.)*
+**The ruling (Wendell, 2026-09-04): they are separate layers.** The quiz measures the
+**superpower** (one of seven — the individual gift). The **Face** (one of six — the Game Master
+role) is a different axis the quiz does not currently measure. Calling the superpower a "Face"
+imports the six-role word onto the seven-gift axis. Strip it.
 
-### 3 · The next step is built for a logged-in player, not a cold launch visitor
+**The fix in bars-engine — small and mechanical:**
+
+- `SuperpowerReveal.tsx`: rename the captured `homeFace` / `avoidedFace` → `superpower` /
+  `shadowSuperpower`, and change the promise copy *"the Face you ranked last"* → *"the superpower
+  you lean on least."* Every "Face" that means a superpower becomes "superpower."
+- `captureSuperpowerLead` (`leads.ts`) and its Lead / tag fields: rename `homeFace` / `avoidedFace`
+  to match.
+- The character-sheet link stays — the **Superpower** line is real; it is just not the **Face**
+  line.
+- **Check Chapter 9.** The reveal cites it as arguing *"the avoided Face is the more interesting
+  half."* If ch9 means the avoided *superpower*, the reveal copy is fine once relabeled; if it
+  means an avoided *Game Master Face*, the reveal is pointing at a chapter about a different axis
+  and the citation has to move.
+
+**The one open question, and it is yours, not the code's:** do the seven superpowers *map* onto the
+six Faces (each gift implying a home Face), or are they independent axes each assessed on their
+own? The collision fix does not need the answer. A mapping, if one exists, could later let the
+reveal show both — *"your superpower is Connector; your Game Master Face is the Diplomat"* — and that
+wants a ruling before it is built.
+
+### 3 · The code binds alchemy to each superpower — the ontology says it should not
+
+**`SuperpowerDef` gives every superpower a fixed `emotionArc`** (Connector = Neutrality→Peace +
+Sadness→Poignance; Strategist = Fear→Clarity). **That contradicts the ontology: emotional alchemy
+plays on *every* superpower, not one channel per type.** A Connector metabolising anger is not off
+-model; the code's per-type arc implies they are. This is where I first went wrong reading it, and
+it is a real drift, not just my mistake to correct. **Decide what those `emotionArc` / `arc` fields
+are for.** If they are a *signature* (the arc this type reaches for first) they should be labelled
+as a tendency, never a limit; if they are load-bearing anywhere in scoring or reveal, that is a
+binding to remove. Either way the player-facing copy must not imply a superpower owns one emotion.
+
+### 4 · The next step is built for a logged-in player, not a cold launch visitor
 
 **The reveal's richer handoffs assume an account.** The result persists to a logged-in player's
 `CampaignMembership` and loadout, and points at the "Take this move in The Crossing" campaign. A
@@ -110,14 +144,18 @@ PDF, the course preview), not a CTA that needs an account to pay off.
 
 ## What to actually do
 
-1. **Instrument it for the launch.** Log the anonymized result on every completion (primary,
-   secondary, margin, confident, orientation). Cheap, and it is the only way the launch answers the
-   question Wendell is asking. Read the distribution after the first fifty takers.
-2. **Rule on the "Face" collision and apply the small fix** — rename or map — before the pre-work
-   goes live, so quiz and book agree on what a Face is.
-3. **Optionally run the Barnum A/B** the design already specced: one foreign-type description shown
+1. **Apply the Face rename** (finding 2) before the pre-work goes live. The collision is ruled;
+   this is the one change that must land first, because the pre-work funnels strangers from quiz to
+   book and the two must agree on what a Face is.
+2. **Rule on the per-superpower `emotionArc`** (finding 3) — signature or binding — and scrub any
+   player-facing copy that implies a superpower owns one emotion.
+3. **Instrument it for the launch** (finding 1). Log the anonymized result on every completion
+   (primary, secondary, margin, confident, orientation). Cheap, and the only way the launch answers
+   the question Wendell is asking. Read the distribution after the first fifty takers.
+4. **Confirm the logged-out finisher's next step** (finding 4) is self-contained.
+5. **Optionally run the Barnum A/B** the design already specced: one foreign-type description shown
    to a sample, confirm they prefer their own.
-4. **Confirm the logged-out finisher's next step** is self-contained.
 
-**What not to do: rebuild it.** The instrument is good. The work is to measure it, name one word
-consistently, and let the launch tell you the truth the design could only assume.
+**What not to do: rebuild it.** The instrument is good. The work is to name the axes right (Face vs
+superpower, and alchemy as universal), measure it, and let the launch tell you the truth the design
+could only assume.
