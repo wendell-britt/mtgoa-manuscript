@@ -239,6 +239,48 @@ in-person way in), and a **direct note to Outdoor Schools WA about provider PD**
 for the **2027 conference CFP** when it opens. Same one-sheet, same *Same Kids, Fewer Staff*
 session; verify the current program contact before sending.
 
+## 4c · ACA National — Education Session proposal *(deadline September 16)*
+
+**Conference:** American Camp Association National Conference — the audience is camp directors and
+the people who hire, train, and keep seasonal staff.
+**Deadline:** September 16, the nearest clock on this list.
+**Audience to write for:** directors, program leads, staff-training coordinators.
+
+**Title**
+
+**The Counselor Who Freezes: Working a Camper's Fear Instead of Managing It**
+
+**Session description**
+
+Every camp has the moment: a camper at the edge of what they came to do — the lake, the wall, the
+cabin at lights-out — and a counselor trained in what to say, not in what is happening in the kid
+or in themselves. Most staff training covers procedure. Very little of it covers the ninety
+seconds when procedure is not the problem.
+
+This session works a model of five channels — fear, sadness, joy, anger, neutrality — each telling
+a counselor something different about what a camper needs next. Fear that gets managed instead of
+metabolized produces two outcomes every director will recognize from incident debriefs: the camper
+who gets pushed through and shuts down, and the counselor who burns out all season from reading the
+moment wrong.
+
+We'll run the read live on real cabin and activity scenarios. Directors leave with a piece of
+pre-season staff training they can install, and a debrief that does not require a nineteen-year-old
+to perform a breakthrough they did not have.
+
+I built a course on this material in 2020. Under ten percent of the people who started it finished,
+and rebuilding from that failure is where the method came from. I'll open with that.
+
+**Learning objectives**
+
+1. **Identify** which of five emotional channels is running in a hesitating camper or a struggling
+   counselor, from observable behavior rather than self-report.
+2. **Apply** a ninety-second intervention that works the fear instead of routing around it.
+3. **Redesign** one piece of pre-season staff training so it survives the second week of the season.
+
+**Format:** education session, interactive, 60 min · **Audience:** directors, program and training staff
+
+Wendell Britt · <wendell@masteringallyship.com>
+
 ## 5 · The forwardable blurb — for update #2
 
 **The design decision that makes this work:** it's written **in the backer's voice, not yours.**
