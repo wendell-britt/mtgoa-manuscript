@@ -101,19 +101,22 @@ be told their "home Face" is *Connector*, then open a book whose Faces are *Sham
 role) is a different axis the quiz does not currently measure. Calling the superpower a "Face"
 imports the six-role word onto the seven-gift axis. Strip it.
 
-**The fix in bars-engine — small and mechanical:**
+**The fix in bars-engine — copy-only, and deliberately narrow** (`specs/patches/bars-engine-quiz-face-copy.patch`):
 
-- `SuperpowerReveal.tsx`: rename the captured `homeFace` / `avoidedFace` → `superpower` /
-  `shadowSuperpower`, and change the promise copy *"the Face you ranked last"* → *"the superpower
-  you lean on least."* Every "Face" that means a superpower becomes "superpower."
-- `captureSuperpowerLead` (`leads.ts`) and its Lead / tag fields: rename `homeFace` / `avoidedFace`
-  to match.
-- The character-sheet link stays — the **Superpower** line is real; it is just not the **Face**
-  line.
+- **Changed the player-facing strings only.** The reveal promise (*"the Face you ranked last… the
+  avoided Face is the more interesting half"* → *"the superpower you ranked last… the superpower
+  you avoid…"*), the email subject (*"Your Face is X"* → *"Your superpower is X"*), and the email
+  body's *"the Face you avoid"* → *"the superpower you avoid."* Three files, string literals and
+  adjacent comments, no logic.
+- **Left the internal identifiers and ESP tags alone on purpose.** `homeFace` / `avoidedFace` are
+  function params, and they feed **mailing-list tags** (`face:regent`, `avoids:…`) already in the
+  wild. Renaming those would fragment the existing audience for zero player benefit — the reader
+  never sees a variable name. The collision is the *text*, and only the text was touched.
+- The character-sheet link stays — the **Superpower** line is real; it is just not the **Face** line.
 - **Check Chapter 9.** The reveal cites it as arguing *"the avoided Face is the more interesting
-  half."* If ch9 means the avoided *superpower*, the reveal copy is fine once relabeled; if it
-  means an avoided *Game Master Face*, the reveal is pointing at a chapter about a different axis
-  and the citation has to move.
+  half."* The patch relabels it to *"the superpower you avoid."* If ch9 truly is about an avoided
+  *Game Master Face*, the citation points at a different axis and has to move — a content call for
+  Wendell, not part of this copy patch.
 
 **The one open question, and it is yours, not the code's:** do the seven superpowers *map* onto the
 six Faces (each gift implying a home Face), or are they independent axes each assessed on their
