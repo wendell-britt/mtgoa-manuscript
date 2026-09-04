@@ -26,9 +26,11 @@ outreach happens in the background."*
 pipeline that funds the print run and does not need a calendar. The foreground is a launch
 machine with four moving parts, and three of them are already half-built:
 
-- **The podcast** — strategy exists (`MARKETING_STRATEGY §10`). Two guests are already named:
-  **AJ Cohen** (power / Hollywood / credibility) and **Ike** (integral / the Blue Sky lineage).
-  The standing rule: record before the tour, not during it.
+- **The podcast** — strategy exists (`MARKETING_STRATEGY §10`), now with a set arc. **It opens with
+  the integral homies — Ike, then Marin, then Regis** — the warm base who already believe, and it
+  **closes with AJ Cohen as the season finale** (power / Hollywood / broad credibility), held as the
+  capstone rather than spent on episode one. The standing rule: record before the tour, not during.
+  The full guest pipeline lives in `marketing/DREAM_100_2026-09-03.md`.
 - **The virtual launch** — Event 1 in `MTGOA_Launch_Spec`, the "ignition moment." Copy is drafted
   in `PARTIFUL_EVENT_PAGES` (the July 18 date slipped; it needs a new one). Donation-based,
   recorded, evergreen.
@@ -71,13 +73,14 @@ whatever absolute date you pick. The four decisions that turn this into real dat
   podcast can warm up. Early and wide.
 - **Seattle in-person — open paid ticket sales at W-4, and not before.** Two reasons. A local
   ticketed event sells on a **4-week runway** — earlier and the urgency leaks out; later and you
-  lose the promo window. And it must open **after Episode 1 (AJ Cohen) has dropped**, because that
-  episode is the credibility signal that makes a stranger pay. Selling Seattle tickets before the
-  podcast has proof-of-seriousness in the feed is selling into silence.
+  lose the promo window. And it must open **after the integral arc is live** (Ike's episode out),
+  because that arc is the warm-audience signal that makes the first buyers move. The integral base
+  is who buys early; AJ's finale is the broad-credibility beat that lands later and can re-energize
+  a second push.
 - **The dependency in one line:** no Seattle tickets until the venue and date are locked (W-6) and
-  the first episode is live (W-5). W-4 satisfies both.
+  Episode 1 (Ike) is live (W-5). W-4 satisfies both.
 
-## The guest engine — how to develop beyond AJ and Ike
+## The guest engine — the lanes (full list in `DREAM_100_2026-09-03.md`)
 
 **`MARKETING_STRATEGY §10` gives the test each guest passes:** they serve a level/audience, they
 generate content you can clip, and they signal to the warm crowd that serious people are engaged.
@@ -115,15 +118,15 @@ W0.** Protect the date; flex the episode count.
 
 | dates | the job |
 |---|---|
-| **Sept 3–12 (now)** | Stand up the podcast feed (name, host, cover, distribution). Invite **AJ Cohen** + **Ike** today and book recording slots. Scout 2–3 Seattle venues. **Send ACA before its Sept 16 deadline**, plus ACCT and WRMC. |
-| **Sept 13–19** | Record AJ + Ike (a third guest if it lands). **Lock the Seattle venue + date.** Build the virtual registration page (Zoom + Partiful copy already drafted). Send Oregon Outdoor School + Leadership Tomorrow. |
-| **Sept 20–26** | **Episode 1 drops — AJ Cohen**, the credibility signal. Start clipping. **Open virtual registration** (free / donation). **Post update #31** — it has waited since Aug 22. |
-| **Sept 27 – Oct 3** | **Episode 2 — Ike.** **Open Seattle ticket sales** (venue locked, Episode 1 live — both gates met, ~5 weeks before the stop). Promote the launch to the backer list and the pod audience. |
-| **Oct 4–10** | Episode 3 if recorded. Final promo push. Tech rehearsal for the webinar. |
+| **Sept 3–12 (now)** | Stand up the podcast feed (name, host, cover, distribution). Invite the integral arc — **Ike, then Marin, then Regis** — today and book recording slots. Send the finale invite to **AJ Cohen** now too (a finale guest needs the longest lead). Scout 2–3 Seattle venues. **Send ACA before its Sept 16 deadline**, plus ACCT and WRMC. |
+| **Sept 13–19** | Record Ike + Marin (Regis if it lands). **Lock the Seattle venue + date.** Build the virtual registration page (Zoom + Partiful copy already drafted). Send Oregon Outdoor School + Leadership Tomorrow. |
+| **Sept 20–26** | **Episode 1 drops — Ike**, opening the integral arc. Start clipping. **Open virtual registration** (free / donation). **Post update #31** — it has waited since Aug 22. |
+| **Sept 27 – Oct 3** | **Episode 2 — Marin.** **Open Seattle ticket sales** (venue locked, Episode 1 live — both gates met, ~5 weeks before the stop). Promote the launch to the backer list and the pod audience. |
+| **Oct 4–10** | **Episode 3 — Regis.** Final promo push. Tech rehearsal for the webinar. |
 | **Fri Oct 16 — W0** | **VIRTUAL BOOK LAUNCH.** Recorded, replay posted. Announce the Seattle stop from the stage. Ask: get the PDF, pre-order the print. |
 | **Oct 17–24** | Send the replay and the ask. Resume episodes. Ride the momentum straight at Seattle tickets. |
 | **Weekend of Nov 6–7 — W+3** | **SEATTLE IN-PERSON STOP.** Sells the printed book if the run has landed; otherwise pre-order plus signed PDF cards. |
-| **Nov +** | The podcast continues as the drafting engine for *Allyship at Work*. Consider stop #2. |
+| **Nov +** | Podcast continues through the Dream 100 toward the **AJ Cohen season finale** — the broad-credibility capstone. It also becomes the drafting engine for *Allyship at Work*. Consider stop #2. |
 
 **The one dependency to watch:** whether the Seattle stop can sell a *physical* book on Nov 6–7
 depends on the ~$6,000 print run being funded and printed by then. That is the background
