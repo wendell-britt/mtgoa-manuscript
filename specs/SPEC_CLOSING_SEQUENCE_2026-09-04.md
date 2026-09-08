@@ -1,6 +1,6 @@
 ---
 type: spec
-title: "The last page — where FR-5 goes, and what it does to the enrollment page"
+title: "The last page — where FR-5 goes, and why the ladder leaves the book"
 aliases:
   - closing sequence
   - enrollment collision
@@ -11,20 +11,22 @@ tags:
   - pdf
   - back-matter
 created: 2026-09-04
-review: 2026-09-11
+updated: 2026-09-08
+review: 2026-09-15
 source:
   - specs/SPEC_PDF_2.0_2026-08-31.md
   - marketing/PDF_BLOCKS_2026-09-01.md
   - marketing/DECISION_FUNNEL_2026-09-01.md
+  - specs/SPEC_BOOK_PAGE_2026-09-08.md
   - back_matter/enrollment.md
   - instruments/build_book.py
 ---
 
 # The last page
 
-**The prose for FR-5 is written and gated. Where it goes is not decided, and the obvious
-answer is wrong twice over.** This spec covers the placement and the one defect it exposes
-in a page that already ships.
+**The prose for FR-5 is written and gated. Where it goes was not decided, and the first
+version of this spec got the answer wrong.** Wendell ruled on 2026-09-08; §5 carries the
+ruling and §6 carries what it replaced.
 
 ---
 
@@ -39,112 +41,106 @@ index, so a reader would meet it roughly sixty pages before the end and finish t
 an index entry.
 
 **The instruction was written for a book whose appendices come last. This one's do not.**
-The ask belongs in the back matter, which puts it next to `back_matter/enrollment.md`.
+The ask belongs in the back matter.
+
+**This finding survives the 2026-09-08 ruling unchanged.** It is the only one that does.
 
 ---
 
-## 2 · The collision, stated accurately
+## 2 · What sat next to it, and why that looked like a problem
 
-**They are not redundant, and the first version of this finding said they were.** The two
-pages make different offers:
+`back_matter/enrollment.md` — "What Comes Next" — offers coaching, speaking, the deck and
+*Igniting Joy*, and closes by sending the reader to `masteringallyship.com`. It ships in
+both editions today.
 
-| | `enrollment.md` | FR-5 |
-|---|---|---|
-| what it offers | coaching, speaking, the deck, *Igniting Joy* | the thirty-day course |
-| what it costs | money, all of it | nothing, or what the book turned out to be worth |
-| who it is for | a reader who wants more than the book | a reader who wants to run what the book gave them |
-| where it ships | print and PDF | PDF only |
+Three defects follow from putting FR-5 beside it:
 
-**The problem is order.** Enrollment first means the reader closes 387 pages, meets four
-paid offers, and is then told there is something free. That is the pitch ahead of the gift,
-and it is the sequence most likely to leave a buyer feeling worked — which is `EC-5`
-arriving from a direction `FR-4`'s two-branch framing does not guard, because FR-4 guards
-against being asked twice for money and this is being sold to before being given to.
+**Order.** Enrollment first means the reader closes 387 pages, meets four paid offers, and
+is then told there is something free. That is selling ahead of giving.
 
-**Reversed, it reads as the architecture Wendell described.** A person holding the PDF
-already has the book; the course is the offer they do not have. Give that first, then the
-ladder for anyone who wants more.
+**A wrong address in the PDF.** Enrollment's closer sends the reader to the page that sells
+the book. In print that is correct. In the PDF it is the offer `DECISION_FUNNEL` ruled
+against — *a person holding the PDF already has the book.*
+
+**Two terminal lines.** Both pages end on a closer written to be last. Back to back, in
+either order, one of them stops closing.
 
 ---
 
-## 3 · A defect in a page that already ships
+## 3 · The ruling — the ladder is not the book's job
 
-`enrollment.md` closes on:
+**Wendell, 2026-09-08, on the merged page this spec first proposed:** *"your solution is
+wack, but the problem is fine. This is the point of the /book page."*
 
-> **masteringallyship.com.** All of it lives here.
+**The book's closing page carries one move: go to `/book`.** Coaching, speaking, the deck
+and *Igniting Joy* live on that page, not inside the file. See
+`specs/SPEC_BOOK_PAGE_2026-09-08.md`.
 
-**In the print book that is correct.** In the PDF edition it sends a reader holding the book
-to the page that sells the book — precisely the wrong offer `DECISION_FUNNEL_2026-09-01`
-was written to prevent, and by his own reasoning there: *selling them the book is the wrong
-offer; the course is the one offer you have that they do not.*
+### Why the ladder cannot stay in the file
 
-**So enrollment already needs to differ between the two builds**, independently of anything
-FR-5 does. The PDF reader's address is `/book`.
+**Anything set in 387 pages is frozen.** Rates change, availability changes, the deck runs
+out or gets reprinted, *Igniting Joy* gets a second edition. A ladder printed inside a file
+that keeps getting forwarded for years is a ladder nobody can correct. A ladder on `/book`
+changes once and every copy ever sent to anyone picks up the change.
 
----
-
-## 4 · Two terminal lines, and only one last position
-
-Both pages end on a closer that is written to be last.
-
-> *…because you just spent a whole book learning to spot that move when somebody else makes
-> it.* — enrollment
-
-> *Pass it on. That was always the plan.* — FR-5
-
-**Whichever runs second keeps its landing and the other one loses it.** This is not a
-sequencing preference that can be deferred; putting them back to back in either order
-damages one of them.
+**This is FR-7's own reasoning applied to content instead of destination.** FR-7 requires
+the printed URL be a redirect under Wendell's control, because the file is permanent and the
+destination must not be. The offers behind that URL are permanent in exactly the same way
+and want the same treatment.
 
 ---
 
-## 5 · The recommendation
+## 4 · What the ruling settles
 
-**One merged component on the share path. `enrollment.md` unchanged on the print path.**
+| defect from §2 | status |
+|---|---|
+| order — paid offers ahead of the free one | **gone.** No paid offers in the PDF's closing page at all. |
+| enrollment's address is wrong in the PDF | **gone.** `enrollment.md` is not in the PDF, so its store link is only ever read in print, where it is correct. |
+| two terminal lines | **gone.** One closing page per edition. |
 
-The arc, in order:
-
-1. **The course.** What the reader already has, named as something received.
-2. **The free ways in.** Signup, review, forward — FR-6 and P-5, and the signup is the
-   strongest of the three.
-3. **The ladder.** Coaching, speaking, the deck, *Igniting Joy* — enrollment's material,
-   kept, and now arriving after the gift rather than before it.
-4. **One closer.** *Pass it on.*
-
-**This gives the gift before the ask, keeps every paid offer, and leaves one terminal line
-instead of two.** It also resolves §3 by construction: the merged page carries `/book`, and
-the print page keeps the bare domain.
-
-**The build shape already exists.** `PDF_BLOCKS_2026-09-01` records that both blocks belong
-on the share fork and not in the print interior — *"if somebody handed you this file"* is
-false in a paperback. A spine that differs between the two builds is therefore already
-required; this adds one component to that difference rather than inventing the mechanism.
-
-### What it costs
-
-**New customer-facing prose, through the full review pass.** The merged page is not a
-paste of two existing texts — the ladder has to be shortened to survive following the
-course, and enrollment's closer has to go. That is Wendell's voice and his call, and it is
-the reason this spec stops here rather than shipping a draft.
-
-### The cheaper alternative, argued fairly
-
-**Drop `enrollment.md` from the share build and let FR-5 stand alone.** No merge, no new
-prose, one page, and §3 and §4 both dissolve because only one page is present.
-
-**The case against it is revenue.** Coaching, speaking, the deck and *Igniting Joy* would
-appear nowhere in the PDF edition, and the PDF reader is the most engaged reader in the
-catalogue — the one who chose to pay above a floor when a $9.99 Kindle existed. Removing
-the ladder from the edition whose readers are most likely to climb it is the wrong
-economy. **Recorded because it is genuinely cheaper and the choice is his, not mine.**
+**No new prose is required.** FR-5 as drafted already ends on `/book`; nothing in it has to
+be rewritten to carry a ladder it no longer carries.
 
 ---
 
-## 6 · What this does not settle
+## 5 · The shape
 
-**The print edition's own closing sequence is untouched here.** Enrollment stays where it
-is, after About the Author and before Key Terms, and nothing in this spec argues with that.
+**PDF edition:** FR-5 alone, seated in the back matter. `enrollment.md` off the share spine.
 
-**Per-chapter course links** remain the open question `DECISION_FUNNEL` names. If the
-campaign template gets a link per chapter, the closing page's job changes and this
-sequencing should be revisited rather than assumed to survive.
+**Print edition:** `enrollment.md` alone, where it is now — after About the Author, before
+Key Terms. Unchanged.
+
+**The build already forks.** `PDF_BLOCKS_2026-09-01` records that FR-4 and FR-5 belong on
+the share path and not in the print interior — *"if somebody handed you this file"* is false
+in a paperback. This adds one exclusion to that same fork rather than inventing a mechanism.
+
+**Exact spine work, both to be made against `instruments/build_book.py`:**
+
+1. FR-4 and FR-5 become components on the share path only.
+2. `("back", "Enrollment page", "back_matter/enrollment.md", GAP)` becomes print-only.
+
+**Neither is made yet, and both repaginate the edition they touch.** The print interior sits
+at 387 pages with a proof ordered against it, so the print spine must come out of this
+unchanged — which it does, since every change above lands on the share path.
+
+---
+
+## 6 · The rejected alternative, and why it was wrong
+
+**Rejected 2026-09-08: one merged closing component on the share path** — course, then the
+free ways in, then the ladder, then a single closer.
+
+It resolved the same three defects and cost more to get there: new customer-facing prose
+through the full review pass, a shortened ladder written to survive following the course,
+and every one of those offers frozen into the file at the moment of the build. **It solved
+in print a problem a web page solves permanently.** Recorded because it was this spec's
+recommendation for four days and anyone reading the commit history will find it.
+
+---
+
+## 7 · What this does not settle
+
+**The print edition's own closing sequence is untouched here.**
+
+**Per-chapter course links** remain the open question `DECISION_FUNNEL` names. A link per
+chapter changes the closing page's job and would reopen this.
