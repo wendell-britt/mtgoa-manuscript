@@ -108,13 +108,18 @@ has been sent to people.
 
 ## 5 · Open, and blocking
 
-**Entitlement for KDP buyers.** *"Either purchase will give them log-in access to the course
-page."* Amazon does not tell you who bought, so print and Kindle buyers have no automatic
-path in. The honest options are a code printed in the book or a manual claim form. **A code
-in the book is an interior change** and would have to land before the print run.
+**Entitlement for KDP buyers, and it is narrower than it first looks.**
+`bars-engine`'s `src/lib/book-access.ts` already gates the `/handbook` reader on a
+`book-digital` entitlement via `hasCapability`, with `FREE_CHAPTER_IDS` as the funnel — so
+the mechanism exists and this is a grant path rather than a build. **What is unsolved is
+only the Amazon buyer**, because Amazon does not say who bought. The options are a code
+printed in the book or a manual claim form, and **a code is an interior change that has to
+land before the print run.**
 
-**53 backers are already owed the course** — `ANALYSIS_BACKER_OBLIGATIONS_2026-08-24.md`.
-Their entitlement predates every gate described here and has to survive whatever gets built.
+**The 53 backers owed the course are sequenced, not blocking.** `marketing/ANALYSIS_BACKER_OBLIGATIONS_2026-08-24.md`
+records the ruling of 2026-08-24 — Wendell: *"I'll invite the 53 after the 30 days of the
+course is up."* Their entitlement predates every gate described here and has to survive it,
+but it does not gate this page.
 
 **Per-chapter course links.** *"repurpose that 30 day challenge into a book campaign
 template that people can use to develop their own allyship campaigns as they work through
