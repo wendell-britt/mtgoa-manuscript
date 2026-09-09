@@ -61,9 +61,17 @@ EVAL = (r"true|truer|truest|right|correct|real|honest|good|better|best|bad|worse
         r"hard|harder|stated|obvious|useful|cheap|expensive|gracious|conscientious|angry|cold|"
         r"warm|nice|polite|brave|smart|clever|serious|important|necessary")
 
+# `one` as a numeral, not a pro-form. "each revision moved the specification one step further" is
+# not `the [adj] one`; it is a count and a unit. Found by the ch4-ch9 sweep, 2026-09-09.
+MEASURE = set("""step steps notch notches level levels degree degrees size sizes inch inches
+foot feet mile miles hour hours minute minutes second seconds day days week weeks month months
+year years time times place places way ways side sides half point points line lines round rounds
+more""".split())
+
 PRO = re.compile(r"\bthe\s+([a-z]+)\s+(ones?)\b", re.I)
 ADJ = re.compile(r"\bthe\s+(" + EVAL + r")\s+([a-z]{3,})\b", re.I)
 LOOKBACK = 260          # characters; a phrase named this recently is licensed by its antecedent
+BLANK = re.compile(r"\n\s*\n")
 
 
 def sites(text):
@@ -71,6 +79,17 @@ def sites(text):
     out = []
     for m in PRO.finditer(text):
         if m.group(1).lower() in DEICTIC:
+            continue
+        # A blank line inside the match means it straddles a heading or a paragraph break, so the
+        # two halves were never one phrase: "### Name the Voice" then "One more move belongs here".
+        if BLANK.search(m.group(0)):
+            continue
+        # group(1) capitalised mid-phrase is a proper noun, never an adjective doing the work.
+        if m.group(1)[:1].isupper():
+            continue
+        # `one` counting a unit is a numeral: "moved the specification one step further".
+        nxt = re.match(r"\s+([a-z]+)", text[m.end():], re.I)
+        if nxt and nxt.group(1).lower() in MEASURE:
             continue
         out.append(("PRO", m.group(0), m.start()))
     for m in ADJ.finditer(text):

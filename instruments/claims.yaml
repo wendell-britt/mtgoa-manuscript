@@ -467,3 +467,38 @@ claims:
       - {file: manuscript/ch7.md, phrase: "you've said the hard part out loud"}
       - {file: manuscript/ch7.md, phrase: "accurate, and said in a way that ends the possibility of saying anything after it"}
       - {file: manuscript/ch7.md, phrase: "and the accuracy that ends the conversation."}
+
+  - id: DL-93
+    fact: >
+      No PRO-tier pro-form in ch4-ch9 stands over a referent the sentence never gave the reader.
+      Four were changed; eighteen are licensed and deliberately kept, because a sweep that
+      changes everything it finds is a rewrite rather than a sweep.
+    applied: "4 of 4"
+    ruled_by: >
+      Wendell, 2026-09-09: "sweep the remaining 30 PRO sites in ch4-ch9."
+    wrong_because: >
+      Two of the four are a DL-92 consequence rather than a grammar defect: "the truer one" is
+      licensed by the pair of sentences on the page, and it still sells one sentence as truer
+      than another, which the book stopped doing ninety minutes earlier. **The passage refutes
+      itself three lines down** — "a defense answers an accusation and Water made a report" — so
+      the criterion was always which channel is running, not which sentence is more true. The
+      ch7 span is two-ways ambiguous between the wrong account and the party who was wrong. The
+      ch8 span points at the game you would play if you could afford it, **which is the one thing
+      the sentence never names**; the only game on the page is the fallback.
+    proof_mark: "none — found by instruments/article.py, PRO tier, swept on request"
+    scope: >
+      All 24 PRO sites in manuscript/ch4.md through ch9.md, each read in its paragraph on
+      2026-09-09. **Wendell's count of 30 was taken before DL-91/DL-92 dropped ch3 from 11 to 9
+      and before two instrument false positives were removed**; there were 24 raw matches and
+      **22 real sites**. Two were the instrument's fault and are fixed in article.py, not prose:
+      "### Name the Voice" followed by "One more move" matched across a blank line, and
+      "moved the specification one step further" is a numeral and a unit.
+      Eighteen are licensed
+      and named in instruments/sweep_pro_ch4_ch9.py. **ch1's 6 PRO sites were read in the same
+      pass and all six are licensed**; ch2 has none. The ADJ tier, 252 sites book-wide, is not
+      swept and is a separate question.
+    carriers:
+      - {file: manuscript/ch4.md, phrase: "Say whichever is actually running when you get there."}
+      - {file: manuscript/ch4.md, phrase: "Fire. The one underneath runs:"}
+      - {file: manuscript/ch7.md, phrase: "leaving out whoever was wrong is how a case stops being a case"}
+      - {file: manuscript/ch8.md, phrase: "when the game you want costs more than you have"}

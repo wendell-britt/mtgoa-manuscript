@@ -149,7 +149,7 @@ That decision is an accurate reading of a specific misuse. Accuracy explains why
 >
 > *He said: She gave me an ultimatum. Later, to me: Was it not one? I have gone over it. I still hear one.*
 >
-> *She was protecting the possibility of saying it again next week. He was protecting a man who had never been told to stop and had no way to be told. I record both, and I record him at length, because he was wrong about the ultimatum and leaving out the wrong one is how a case stops being a case.*
+> *She was protecting the possibility of saying it again next week. He was protecting a man who had never been told to stop and had no way to be told. I record both, and I record him at length, because he was wrong about the ultimatum and leaving out whoever was wrong is how a case stops being a case.*
 >
 > *I will not say which of them was right. Forty-one cases and I have not said it once.*
 >
