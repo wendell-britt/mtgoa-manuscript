@@ -27,7 +27,8 @@ ROOT = os.path.join(HERE, os.pardir)
 MS = os.path.join(ROOT, "manuscript")
 sys.path.insert(0, HERE)
 
-from insertions import FRONT, BYLINE_NOTE, HANDBOOK, NOTES, POSTCARD, SIGNATURE
+from insertions import (FRONT, BYLINE_NOTE, HANDBOOK, NOTES, POSTCARD, RECORDS,
+                        SIGNATURE)
 
 # Ch2 left the frame on 2026-08-01 and now sits with ch1: no byline, no epigraph, no
 # margin. The fiction opens at front_matter/headmasters_letter.md, which falls between
@@ -122,6 +123,21 @@ def apply_chapter(ch, txt):
             # voice, which is the rule the treatise signatures already follow.
             note = note.rstrip() + "\n\n" + signature
         txt = txt[:j] + "\n" + block(note, "MARGINALIA") + txt[j:]
+        n += 1
+
+    # DL-90. A Head's own record, boxed. Same insertion shape as NOTES and the same frame kind
+    # as the admissions page, because it is the same sort of object: a document inside the
+    # document. Italic in the source is what separates a private record from the filed form.
+    for anchor, text in RECORDS.get(ch, []):
+        c = txt.count(anchor)
+        if c != 1:
+            problems.append("RECORD anchor %s (%d matches): %r"
+                            % ("MISSING" if c == 0 else "AMBIGUOUS", c, anchor[:60]))
+            continue
+        i = txt.find(anchor)
+        j = txt.find("\n\n", i)
+        j = len(txt) if j == -1 else j
+        txt = txt[:j] + "\n" + block(text, "HANDBOOK") + txt[j:]
         n += 1
 
     if ch in SIGNATURE:

@@ -167,13 +167,15 @@ Emotional alchemy is the practice of staying in relationship with the full spect
 
 The Shaman's practice is that staying.
 
-Thirty-first session. Jaw, then the back of the neck. I wrote down contempt in the man at the head of the table. Grief, four days old. I did not feel the grief until the funeral.
-
-Sessions thirty-two through four hundred and six. Chest: nothing. Throat: nothing. Hands: nothing. Three years of nothing, in my own handwriting, four hundred entries.
-
-I called it discipline. The entry correcting that is dated later and reads: the numbness began the morning after the funeral, not the morning of the error. It was not protecting me from being wrong. It was protecting him from being read a second time by somebody who had got it wrong in front of witnesses. The only instrument it could reach was mine.
-
-Present session. Jaw, at the word correctly. The reading came back better than it was. What I am working now is what it costs a person to be read accurately by somebody they did not ask.
+<!-- HANDBOOK -->
+> *Thirty-first session. Jaw, then the back of the neck. I wrote down contempt in the man at the head of the table. Grief, four days old. I did not feel the grief until the funeral.*
+>
+> *Sessions thirty-two through four hundred and six. Chest: nothing. Throat: nothing. Hands: nothing. Three years of nothing, in my own handwriting, four hundred entries.*
+>
+> *I called it discipline. The entry correcting that is dated later and reads: the numbness began the morning after the funeral, not the morning of the error. It was not protecting me from being wrong. It was protecting him from being read a second time by somebody who had got it wrong in front of witnesses. The only instrument it could reach was mine.*
+>
+> *Present session. Jaw, at the word correctly. The reading came back better than it was. What I am working now is what it costs a person to be read accurately by somebody they did not ask.*
+<!-- /HANDBOOK -->
 
 The Shaman's practice may already feel familiar. You have likely built some language for a felt sense, some practice in reading what a group holds under its words.
 

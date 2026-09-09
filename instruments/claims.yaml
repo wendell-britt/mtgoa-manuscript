@@ -328,7 +328,16 @@ claims:
       - {file: marginalia/insertions.py, phrase: "I look for two qualities and will not take one without the other"}
 
   - id: DL-90
-    proposed_fact: >
+    fact: >
+      A Head's own record is boxed and italicised. Four such passages — Voss's session log,
+      Quill's register of clauses in two blocks, Cross's casebook — take the HANDBOOK frame,
+      which is the same box as the admissions page because both are a document inside the
+      document. Italic separates a private record from a filed form.
+    applied: "4 of 4"
+    ruled_by: >
+      Wendell, on the census: "make sure they are italicized and I do think putting them in boxes
+      makes sense." See specs/CENSUS_HEAD_VOICE_2026-09-09.md, option 1.
+    superseded_proposed_fact: >
       Undetermined. Four passages are a Head's own record — a session log, a register of clauses
       with notes, a casebook — sitting in ordinary text with nothing attributing them. All four
       were licensed by "above the signature, only the Head", which DL-85 retired on 2026-09-09.

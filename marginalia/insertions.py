@@ -438,6 +438,73 @@ record and it is already in my head, which she will find annoying.*
 # box in HANDBOOK above, because that is the document the Head actually wrote. They
 # used to sit in their own frame at the seam and attribute 2,800 words of the author's
 # prose. The name is kept so compile.py's import and its branch stay valid.
+RECORDS = {
+    # DL-90, 2026-09-09. Four passages that are a HEAD'S OWN RECORD -- a session log, a
+    # register of clauses with notes, a casebook -- and that sat in ordinary text with nothing
+    # attributing them. They were licensed by "above the signature, only the Head" until DL-85
+    # retired that rule; nothing was edited and the license was withdrawn from underneath them.
+    #
+    # Wendell 2026-09-09: "make sure they are italicized and I do think putting them in boxes
+    # makes sense." They take the HANDBOOK frame rather than a seventh kind, because HANDBOOK is
+    # already "a document inside the document" and a new kind for the same object is the second
+    # kingdom his Governor spec warns about. Italic distinguishes a private record from the
+    # filed admissions form that uses the same box.
+    #
+    # Shape matches NOTES: (anchor paragraph, text). The block is inserted after the anchor.
+    # Two emphasised phrases in ch5 lost their markers: italic inside italic reverts, and
+    # "insufficient courage" / "correct reading, withheld" now sit upright in an italic note.
+    3: [
+        ("The Shaman's practice is that staying.",
+         """*Thirty-first session. Jaw, then the back of the neck. I wrote down contempt in the man at the head of the table. Grief, four days old. I did not feel the grief until the funeral.*
+
+*Sessions thirty-two through four hundred and six. Chest: nothing. Throat: nothing. Hands: nothing. Three years of nothing, in my own handwriting, four hundred entries.*
+
+*I called it discipline. The entry correcting that is dated later and reads: the numbness began the morning after the funeral, not the morning of the error. It was not protecting me from being wrong. It was protecting him from being read a second time by somebody who had got it wrong in front of witnesses. The only instrument it could reach was mine.*
+
+*Present session. Jaw, at the word correctly. The reading came back better than it was. What I am working now is what it costs a person to be read accurately by somebody they did not ask.*"""),
+    ],
+    5: [
+        ('**The Regent means: somebody carried the inheritance far enough that the next person can pick it up.**',
+         """**Clause four.** *A practice that cannot be named to a stranger in one sitting has already been lost, whatever its members believe about it.*
+
+*Note. The register of this school holds two hundred and thirty-one discontinued practices, gathered across as many worlds as the ship has touched. Merrow ordered them by cause of death. The ordering is his and the finding is mine: one hundred and seventy-two of the two hundred and thirty-one were dissolved by their own members, on purpose, and not one of the one hundred and seventy-two recorded the dissolution as a loss at the time.*
+
+**Clause five.** *A body that declines to hold a role will be held by whoever is willing to hold it, and that person will not have been selected.*
+
+*Note. The founding generation of such a body has commonly come out of an older order that used its structure to protect itself, and has drawn the correct conclusion about that order and the wrong conclusion about structure. Roles are refused on principle. The refusal is entered in the minutes as a value. Nothing is entered after it, which is the observation.*
+
+*Second note. Three crises are typical and their shapes are stable enough to record. At the first the body adapts, and the adaptation is cited afterward as proof that no structure was needed. At the second it closes ranks. At the third its members are found arguing the first crisis again from new positions, with no record of what the first argument had been for, because nobody was charged with keeping one.*
+
+*Third note. Members who could name the pattern in advance are present in most cases. The register carries their accounts. They report having said something careful, and having said less than they knew, on the ground that the whole of it would have been heard as an application for the crown. Merrow filed these accounts under insufficient courage. They are refiled under correct reading, withheld, and the refiling is the more accurate of the two.*
+
+**Clause six.** *An inheritance offered before it is wanted is not an inheritance. It is an opinion.*
+
+*Note. This is the clause I would amend, and amendment is not within the office. The register records no case of a practice handed successfully to a body that had not yet lost something. It records no case of a keeper who stopped attempting it either.*"""),
+        ("The Regent's actual practice is something harder and more alive:",
+         """*Clause nine. A promise made by the dead is kept until the last person it protected has died, at which point it is reviewed rather than renewed.*
+
+*Note. The clause as written permits the review. The clause as kept forbade it, and had forbidden it since Merrow, whose reasoning survives in the margin here in his own hand and is wrong. I conducted the review. Which promise it was is not recorded and will not be.*
+
+*Second note. Two households withdrew from the practice. One has not returned. The practice that replaced it has run forty years and the other household sends its children to it.*
+
+*Third note, added this year. I can pass an inheritance intact and named, which is the whole of what this school claims. I have not learned to hand one to somebody who will change it without entering the change as damage, and my own ledgers are the reason that is hard.*"""),
+    ],
+    7: [
+        ('That decision is an accurate reading of a specific misuse.',
+         """*Case forty-one. Both transcripts, hers first.*
+
+*She said: I need you to stop. Later, to me: I thought I was asking.*
+
+*He said: She gave me an ultimatum. Later, to me: Was it not one? I have gone over it. I still hear one.*
+
+*She was protecting the possibility of saying it again next week. He was protecting a man who had never been told to stop and had no way to be told. I record both, and I record him at length, because he was wrong about the ultimatum and leaving out the wrong one is how a case stops being a case.*
+
+*I will not say which of them was right. Forty-one cases and I have not said it once.*
+
+*The terms I wrote at that table have held eleven years. Nobody has mentioned them. I notice that I have written that down. Whether wanting the sentence is a defect in me or a condition of the work is the open question here, and I am the wrong person to settle it.*"""),
+    ],
+}
+
 SIGNATURE = {}
 
 
