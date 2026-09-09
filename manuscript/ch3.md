@@ -18,29 +18,27 @@
 > **THE SCHOOL OF THE BODY**
 > *Admissions. Filed as required.*
 >
-> **1. Who we are for.** I look for two qualities and will not take one without the other. First,
+> **1. Who we are for.** I look for two qualities, together or not at all. First,
 > that the applicant has felt something in a gathering before anybody named it, said nothing,
 > and been right. Second, that they have watched somebody else feel something and hold it in,
-> and noticed the holding in, and minded it afterward. I decline applicants who bring only the
+> and noticed the holding in enough to mind it afterward. I decline applicants who bring only the
 > second. I cannot teach a person to hand over an instrument they have never held.
 >
 > **2. What you will be able to do when you leave.** I teach one skill. A student learns to
 > name where a feeling landed in the body before naming what it means. Chest, throat, the back
-> of the neck, the jaw. It sounds small to me as well, and I have watched what follows from
+> of the neck, the jaw. It sounds small to me as well. I have watched what follows from
 > it: the people around that student begin speaking earlier, because somebody present is
 > visibly not waiting to be sure.
 >
 > **3. What it costs.** Being wrong out loud, on a schedule, in front of the same faces. I
-> keep my own errors in more detail than my successes and students find the ratio unsettling
+> keep my own errors in more detail than my successes. Students find the ratio unsettling
 > for about a term. Those who arranged to be wrong only in private have suffered as a result.
 > The instrument does not recalibrate in private. Three have come back after a decade to begin
 > again, and I took them.
 >
-> **4. What we do not teach.** What to do about the feeling once I have it. Two responses are possible and
-> neither of them is mine. If the situation needs a sentence said to a face, that is
+> **4. What we do not teach.** What to do about the feeling once I have it. Two responses are possible, neither of them mine. If the situation needs a sentence said to a face, that is
 > the School of the Line. If it needs the pattern changed so the feeling stops
-> arriving in the first place, that is the School of the Pattern. I send more students to the
-> Pattern than I expected to.
+> arriving in the first place, that is the School of the Pattern.
 >
 > **5. Entry.** None. Everyone begins here, including those who arrive certain they are past
 > it. I have been wrong about who was past it.
