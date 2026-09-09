@@ -24,8 +24,7 @@ patterns between everything I mark as wrong. Everything marked up is unsatisfact
 highlighted fragment, by printed page. `[partial]` = I could only read part of the highlight;
 `[?]` = low-confidence read. **Wendell: correct any misread line and I will fix the ledger.**
 
-The pages photographed run **ch2 p.25 → ch3 p.95**. (ch2 pp.34–35 were not photographed; the
-set went 25–33, then 36 on.)
+The pages photographed run **ch2 p.25 → ch3 p.95, complete, no gaps.**
 
 ---
 
@@ -100,6 +99,17 @@ set went 25–33, then 36 on.)
 - "…a permanent low-grade charge **that the people around you never suspect**."
 - "…they delivered it to me, **gift-wrapped as concern**."
 - "What the anger produced first was not the book, **and Chapter 9 tells that part**."
+
+### p.34 — Section 5: The Six Guides (open)
+- "**I rehearsed the whole conversation on the drive over, including her rebuttals, and I won all nine.**" — the whole line. This is the stranded fragment at source `ch2:220` (no antecedent for *her* / *all nine*).
+- "**He isn't guarded, exactly. He answers every question like it is being read into the record.**" — the whole line; the stranded fragment at source `ch2:222`. Both sit between the Section 5 header and its real opening ("You don't have to enter the Forest alone").
+- "**Trained that way, you perform. You do not learn to be playful.**"
+
+### p.35
+- "The school is somewhere to stand while you practice, **and that is the whole of its job**."
+- "…**and the only route I found to letting you argue with a Face was to give it a mouth that argues back**."
+- "Recognition is where the move begins, **and beginning is all it is**."
+- "…an ally the moment you take the joystick and give it a job. **It is the same part throughout**…"
 
 ### p.36 — The Seven (daemon jobs)
 - Protector, *As an ally:* "…the Protector does not wait for you, **and it should not**."
@@ -529,6 +539,7 @@ set went 25–33, then 36 on.)
 7. **Construction scaffolding left in the reader's text.** "Section 1: Urgency" (Kotter step 1, verbatim); the `Section N:` numbering in all nine chapters; "Recap and Transition" as a reader-facing heading in eight of them; the phantom deck / "operation" / "grid" apparatus. The build template was never struck.
 
 ## Notes for correction
-- ch2 pp.34–35 were **not** in the photo set — if they carry marks, they still need capturing.
+- The photo set is complete (ch2 p.25 → ch3 p.95). pp.34–35 arrived last and confirmed the
+  stranded fragments at `ch2:220/222` independently.
 - `[partial]` / `[?]` entries are my low-confidence reads; Wendell to correct.
 - One handwritten instruction found: **"Rework"** on p.83 (What You Take Out of the Forest). If there are other handwritten notes I missed, name the page.
