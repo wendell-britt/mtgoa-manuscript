@@ -54,7 +54,7 @@
 > including her own.*
 >
 > *She used to grade her readings. Scored them in a book, against what turned out to be true. She
-> stopped in her fourth year here and has described the time since as the first she could hear
+> stopped in her fourth year here. She describes the time since as the first she could hear
 > anything at all. I mention it because she will not, and because you are shortly to be taught by
 > somebody who spent years marking her own homework.*
 <!-- /MARGINALIA -->
@@ -72,7 +72,7 @@ So Chapter 3 does two jobs. It serves as the Shaman's chapter and as the toolkit
 
 There was a time when the Shaman lived in the village.
 
-Inside it. One of them. The Shaman served as the village's oldest advisor: the one who knew how to read the feeling in the village before anyone else could name it. The one who said "wait, something is wrong here" when everything looked fine on the surface. The one who knew that fear meant something. That anger meant something. That sadness, when you let yourself feel it fully, was information, not weakness.
+The Shaman served as the village's oldest advisor: the one who knew how to read the feeling in the village before anyone else could name it. The one who said "wait, something is wrong here" when everything looked fine on the surface. The one who knew that fear meant something. That anger meant something. That sadness, when you let yourself feel it fully, was information, not weakness.
 
 The villagers trusted this once. They built rituals around it. Coming-of-age ceremonies that made space for sadness. Councils that opened with a moment to feel the ground underneath. Stories that taught: your body knows before your mind catches up. Listen to it.
 
@@ -82,15 +82,15 @@ It wasn't sudden. It came on gradually, the way a house gets colder when a windo
 
 The Challenger arrived.
 
-The Challenger didn't dislike the Shaman. The Challenger just believed that *something had to be done.* Doing something required making a decision, and decisions, the Challenger said, couldn't wait for everyone to process their feelings. Decisions couldn't be delayed by sadness or fear or the complicated texture of a moment. There was a problem. The villagers had to act. *Now.*
+The Challenger didn't dislike the Shaman. The Challenger just believed that *something had to be done.* Doing something required making a decision. Decisions, the Challenger said, couldn't wait for everyone to process their feelings. Decisions couldn't be delayed by sadness or fear or the complicated texture of a moment. There was a problem. The villagers had to act. *Now.*
 
 At first, this seemed right. There were problems that needed solving. The villagers needed someone who could draw a line in the sand. Someone who could say "this is unacceptable" without softening it. Someone who could move while others still gathered information. The Challenger could do that. The Challenger *did* that.
 
 It worked. The cost landed somewhere the villagers never thought to look.
 
 <!-- MARGINALIA -->
-> *We put in once at Oreve, which is a port and a poor one — the moorings were rotten and the
-> harbourmaster kept his ledgers in his head and got them wrong.*
+> *We put in once at Oreve, a poor port. The moorings were rotten, and the
+> harbourmaster kept his ledgers in his head, where they were wrong.*
 >
 > *Their council chamber had no chairs. You stood, and the first business of any session was that
 > somebody said out loud what the field felt like, and if nobody agreed with the reading, somebody
@@ -108,11 +108,11 @@ The capacity earns its keep. Used without the Shaman nearby to offer counterbala
 
 When the Challenger started making decisions without consulting the Shaman, the Challenger's actions got faster. Stronger. More efficient.
 
-They also got colder.
+Colder, too.
 
 When the villagers started following the Challenger's lead, valuing speed over discernment, action over feeling, certainty over the wisdom that comes from sitting with complexity, the Shaman became less necessary. Even confusing. Why do we need to feel the field when the Challenger can already tell us what to do? Why make space for sadness when there's work to be done? Why listen to the body's whisper when the mind can calculate a faster route?
 
-The Shaman wasn't banished with words. It was slower than that. It was the Shaman gradually having less to say in councils. It was the ceremonies that made space for sadness getting shorter. It was the stories about trusting your body being reframed as superstition. It was being present less and needed less and finally, one day, the Shaman realized: *not trusted anymore.*
+The Shaman wasn't banished with words. It was the Shaman gradually having less to say in councils. It was the ceremonies that made space for sadness getting shorter. It was the stories about trusting your body being reframed as superstition. It was being present less and needed less and finally, one day, the Shaman realized: *not trusted anymore.*
 
 The choice came down to this: Stay and become invisible. Or leave and remember who you were.
 
@@ -120,7 +120,7 @@ The Shaman left.
 
 The villagers never meant for that to happen. They never said "go." They just stopped listening. Which, it turns out, amounts to exile.
 
-Each of the six Faces carries its own word for being good to somebody. **The Shaman means: somebody said the unsaid charge, and it landed.** People who share that definition call you kind. People who hold a different one call you cold. Neither scores you wrong. They score you in another dictionary.
+Each of the six Faces carries its own word for being good to somebody. **The Shaman means: somebody said the unsaid charge to the person it was about.** People who share that definition call you kind. People who hold a different one call you cold. Each is scoring you in a different dictionary.
 
 ---
 
@@ -141,15 +141,15 @@ The villagers still experienced joy. The joy of moments of real connection, of b
 
 Without the Shaman, the villagers became very busy managing emotions instead of listening to them. Very skilled at pushing through discomfort, very poor at learning from it. Very good at *appearing* evolved, very bad at *actually becoming* evolved.
 
-The villagers did all of this on purpose. Because the Challenger was right: *something had to be done.* You cannot do something while you are still feeling into it. You cannot move quickly if you are tending to your sadness. You cannot draw a hard line if you are holding the complexity.
+The villagers did this deliberately, because the Challenger was right: *something had to be done.* You cannot do something while you are still feeling into it. You cannot move quickly if you are tending to your sadness. You cannot draw a hard line if you are holding the complexity.
 
-So the villagers made a choice: efficiency over wisdom. Output over presence. Action over discernment.
+They chose efficiency over wisdom. Output over presence. Action over discernment.
 
 It *worked.* The villagers solved some problems. They moved some mountains. They changed some systems, temporarily, in specific places. All while running on fumes. All while the people doing the work got more and more depleted, more and more cut off from the very source of energy that would have sustained them.
 
 This is what the villagers do with emotional alchemy when the Shaman is gone: they transform it into *performance management.* Into *emotional labor that must be optimized.* Into a system where feeling gets permission only if it makes you more productive. Where sadness comes back relabeled as growth. Where fear answers to "imposter syndrome" and takes a mindfulness app. Where anger gets channeled into "righteous action" but never, ever examined for what it might be trying to tell you about yourself.
 
-No one in the village saw it happening. They called the pattern efficiency, and the pattern starved them.
+No one in the village saw it happening. They called the pattern efficiency. The pattern starved them.
 
 Nothing says "belonging" quite like replacing the people who had to love you with a committee that can vote you out and call it growth.
 
@@ -164,23 +164,23 @@ Emotional alchemy is the practice of staying in relationship with the full spect
 
 The Shaman's practice is that staying.
 
-Thirty-first session. Jaw, then the back of the neck. I recorded contempt in the man at the head of the table. Grief, four days old. I did not have that until the funeral.
+Thirty-first session. Jaw, then the back of the neck. I wrote down contempt in the man at the head of the table. Grief, four days old. I did not feel the grief until the funeral.
 
-Sessions thirty-two through four hundred and six. Chest: nothing. Throat: nothing. Hands: nothing. Three years of nothing, entered in my own hand, four hundred times.
+Sessions thirty-two through four hundred and six. Chest: nothing. Throat: nothing. Hands: nothing. Three years of nothing, in my own handwriting, four hundred entries.
 
-I called it discipline. The entry correcting that is dated later and reads: the numbness began the morning after the funeral, not the morning of the error. It was not protecting me from being wrong. It was protecting him from being read a second time by somebody who had got it wrong in front of witnesses, and the only instrument it could reach was mine.
+I called it discipline. The entry correcting that is dated later and reads: the numbness began the morning after the funeral, not the morning of the error. It was not protecting me from being wrong. It was protecting him from being read a second time by somebody who had got it wrong in front of witnesses. The only instrument it could reach was mine.
 
-Present session. Jaw, at the word correctly. The reading came back and it is better than it was. What I am working now is what it costs a person to be read accurately by somebody they did not ask.
+Present session. Jaw, at the word correctly. The reading came back better than it was. What I am working now is what it costs a person to be read accurately by somebody they did not ask.
 
-The Shaman's practice may already feel familiar. You have likely built some language for a felt sense, some practice in reading what a group holds under its words. That part is real, and it matters.
+The Shaman's practice may already feel familiar. You have likely built some language for a felt sense, some practice in reading what a group holds under its words.
 
 That signal raises a different question the moment it disagrees with the group.
 
 Picture it: your read catches what the group never registers, not dangerous, not catastrophic, just *something here is not what it's presenting as.* A trained response comes with it, drilled into anyone who has learned caution: ask whether it's your stuff, whether you're projecting, whether you're centering yourself in a moment that isn't yours, then give the consensus the benefit of the doubt and keep going.
 
-That is the Shaman's practice with a governor on it, one installed by instructions that meant to teach you not to harm people and accidentally taught you to distrust your own read.
+The Shaman's practice is running under a governor, installed by instructions that meant to teach you not to harm people and taught you instead to distrust what your body had read.
 
-Checking whether your read is distorted differs from making *probably my stuff* the default answer whenever the read turns inconvenient. The first is discernment. The second is the villagers' solution to the Shaman problem: keep the language, remove the trust.
+Checking whether your read is distorted differs from making *probably my stuff* the default answer whenever the reading is inconvenient. The first is discernment. The second is the villagers' solution to the Shaman problem: keep the language, remove the trust.
 
 The School of the Body is asking for the trust.
 
@@ -188,7 +188,7 @@ In emotional processing, the emotion is the problem. In emotional alchemy, the e
 
 Every emotion is a story about reality. When you feel fear, you're receiving information about risk. When you feel anger, you're receiving information about boundary violation. When you feel sadness, you're receiving information about loss. When you feel joy, you're receiving information about alignment. When you feel neutrality, that spacious, clear quality, you're receiving information about perspective itself.
 
-You have been calling these problems. They are *signals.* They are your nervous system's way of saying "pay attention to this. Something true is present."
+They are *signals*, whatever you have been calling them. They are your nervous system's way of saying "pay attention to this. Something true is present."
 
 Most people learned to interrupt this signal. To speed past it. To replace it with a more "productive" emotion. Fear becomes "I need to work harder." Anger becomes "I need to fix this system." Sadness becomes "I need to learn from this and move on." Joy becomes "I need to bottle this and use it for fuel."
 
@@ -199,9 +199,9 @@ Real emotional alchemy is the practice of staying with the emotion long enough t
 When you do this, when you make space for fear instead of overriding it, fear teaches you what you actually care about. (Not your stated values. Your actual ones. The ones you'd die for with no one watching, without the post.) Because fear shows up at the boundary of what matters to you. It shows up when something you're attached to is at risk. It shows you your real values, not your performed values. Your real priorities, not your productivity system.
 
 
-When you do this with joy, which feels like the easy one and is not (it requires you to stop moving, harder than anything else the School of the Body teaches), when you *land* in joy instead of using it for fuel, joy teaches you what's aligned. Joy shows up when you're doing something that matches your actual values, your actual gifts, your actual becoming. Joy is not the same as happiness or productivity. Joy is the feeling that says "yes. This is real. I am home."
+When you do this with joy, the one that only looks easy (it requires you to stop moving, harder than anything else the School of the Body teaches), when you *stay* in joy instead of using it for fuel, joy teaches you what's aligned. Joy shows up when you're doing something that matches your actual values, your actual gifts, your actual becoming. Joy is not the same as happiness or productivity. Joy is the feeling that says "yes. This is real. I am home."
 
-This is emotional alchemy. Other practices manage emotions. Other practices optimize them. This one is the education by emotions.
+Other practices manage emotions or optimize them. Emotional alchemy is being educated by them.
 
 The practice comes down to this: Feel what's real. Let it teach you. Become someone who can hold that teaching while still taking action.
 
@@ -212,28 +212,28 @@ That is the Shaman's superpower. That is what the villagers lost when the Shaman
 ### Polarity Encounter — Feeling ↔ Function
 
 <!-- MARGINALIA -->
-> *Watch for the point where you get good at this and it becomes enough.*
+> *Watch for the point where being good at this starts to feel like enough.*
 >
-> *You will start reading a company accurately. That is a real skill, rarer than it sounds, and
-> each accurate read will feel like an accomplishment. It is not one. A read that never becomes
-> a move is a very sophisticated way of standing still, and I have watched people build whole
-> careers in that spot and be admired the entire time.*
+> *You will start reading a company accurately. That is a real skill, rarer than it sounds.
+> Each accurate reading will feel like an accomplishment, and a reading that never becomes
+> a move is a very sophisticated way of standing still. People build whole careers in that
+> spot and are admired the entire time.*
 <!-- /MARGINALIA -->
 
 
-Everything above is one pole.
+That was one pole.
 
-A polarity is two capacities, both right, that turn costly the moment they come apart. You need the pair itself here, because the School of the Body stands on it, and you get the other end once you can hold the first.
+A polarity is two capacities, both right, that start costing you the moment they come apart. You need the pair itself here, because the School of the Body stands on it. The other end comes once you can hold the first.
 
-The Shaman's pair: the feeling that gives you the read versus the function that makes the read matter to somebody else.
+The Shaman's pair: the feeling that gives you the reading versus the function that makes it matter to somebody else.
 
 **Feeling** means the charge arriving and being allowed to arrive: the heat in the chest, the drop in the stomach, what your body registered about a situation two beats before anyone said a word. Feeling is the instrument. Everything the School of the Body teaches argues for keeping it calibrated. A read you never let yourself have is a read you can never act on.
 
-**Function** means what the read does once it leaves you. The sentence said to the face it concerns. The decision that went differently because somebody said it. The water that moved. Function is the difference between a read that stays in you and a read that lands *in the world*, where the person you came for can get something out of it. You felt it in your chest. Function is whether anybody else ever did.
+**Function** means what the read does once it leaves you. A sentence said to the face it concerns; a decision that changed because somebody said it; water that moved. Function is the difference between a reading that stays in you and one that reaches *the world*, where the person you came for can get something out of it. You felt it in your chest; Function asks whether anybody else ever did.
 
-Both ends fail, and they fail unequally. Function without Feeling is the practitioner who says the correct words on schedule with no instrument running underneath, competent, useful in a narrow band, and unable to tell the table anything it did not already know. Feeling without Function is the more expensive failure, because it looks like depth. An extraordinarily accurate read, refined over years, never once leaves the body that made it. She knows exactly what is happening. Nobody in the situation gains anything from her knowing.
+Both ends fail, and they fail unequally. Function without Feeling is the practitioner who says the correct words on schedule with no instrument running underneath, competent, useful in a narrow band, and unable to tell the table anything it did not already know. Feeling without Function costs more, because it looks like depth. An extraordinarily accurate read, refined over years, never once leaves the body that made it. She knows exactly what is happening. Nobody in the situation gains anything from her knowing.
 
-Here is what is specific to this reader, and its shape is a squeeze rather than a lean. This altitude fully sanctions Feeling in its collective form: named in a circle, processed together, honored aloud. Feeling as *your* instrument, trusted privately and acted on alone, comes with warnings: who are you to read this, what makes your body's account of the situation worth more than the version the group has agreed on. Function has warnings of its own, and this altitude issues them loudest: outcomes over people, results as the metric, the whole language of execution, which has done enormous work for people who never asked who was being spent. So one end of the axis is available only in its group form, and the other end sounds like what the altitude was built to leave behind.
+What is specific to this reader is shaped like a squeeze rather than a lean. This altitude fully sanctions Feeling in its collective form: named in a circle, processed together, honored aloud. Feeling as *your* instrument, trusted privately and acted on alone, carries warnings: who are you to read this, what makes your body's account of the situation worth more than the version the group has agreed on. Function's own warnings are the ones this altitude shouts loudest: outcomes over people, results as the metric, the whole language of execution, which has done enormous work for people who never asked who was being spent. So one end of the axis is available only in its group form, and the other end sounds like what the altitude was built to leave behind.
 
 That squeeze leaves one position standing, the one costing nothing: feeling out loud, together, at length, about a situation, and changing none of it. Everyone leaves moved. The fields keep failing.
 
@@ -250,9 +250,9 @@ I recover both ends before I am done, and I will ask you to hold them at the sam
 <!-- SECTION 4 -->
 ## The Five-Move Form: Emotional Alchemy as Repeatable Technique and Living Art
 
-Other people built some of what this chapter hands you, and their names belong with the tools. *Felt sense* comes from Eugene Gendlin's *Focusing*, and the phrase names the body's knowing that arrives before language does, which is what this chapter teaches you to read. The claim underneath the whole practice is Peter Levine's. A feeling carries energy that has to finish moving, and it jams when you cut it off. He studies that jam where it is severe, in trauma, which calls for a trained person in the chair with you. This chapter works the everyday version, a bad afternoon rather than a wound, and the stretch from one to the other is mine to answer for. The Polarity Map is Barry Johnson's, and so is the distinction it rests on. The five channels are borrowed too, and I say from where when they arrive a few pages on. Appendix G says where to read each one.
+Other people built some of what this chapter hands you. Their names belong with the tools. *Felt sense* comes from Eugene Gendlin's *Focusing*: the body's knowing that arrives before language, which this chapter teaches you to read. The claim underneath the whole practice is Peter Levine's. A feeling carries energy that has to finish moving; cut it off and it jams. He studies that jam where it is severe, in trauma, with a trained person in the chair. This chapter works the everyday version, a bad afternoon rather than a wound. The stretch from one to the other is mine to answer for. The Polarity Map and the distinction it rests on are Barry Johnson's. The five channels are borrowed too; I name their source when they arrive a few pages on. Appendix G says where to read each one.
 
-The Shaman's native material is *emotion*, and what you can use runs narrower than mood and faster than temperament: the charge that arrives in one particular second, about one particular person, and goes somewhere when you spend it.
+The Shaman's native material is *emotion*, narrower than mood and faster than temperament: the charge that arrives in one particular second, about one particular person, and moves when you spend it.
 
 Some people are very good at putting feelings away.
 
@@ -260,23 +260,23 @@ A voice on the phone, upset. The emotion arrives, theirs and yours, and the ches
 
 Locate the problem. Solve the problem. Move on.
 
-It does not work. Not because the wrong problem got solved. Because the problem wasn't the problem. *The Courage to Be Disliked* has a line: all problems are relational problems. Take it further. All problems are emotional problems. The rupture exists because something has gone unfelt. Solve for the emotion and you can move to service, which you thought you were doing all along.
+It does not work. Not because the wrong problem got solved. Because the problem wasn't the problem. *The Courage to Be Disliked* has a line: all problems are relational problems. Every one of them is also an emotional problem. The rupture exists because something has gone unfelt. Solve for the emotion and service becomes possible.
 
-You are solving for your own emotion. The tightening in your chest when someone gets upset is your discomfort, not theirs. You convert it into competence and action as fast as possible. They get efficiency. They needed presence.
+You are solving for your own emotion. The tightening in your chest when someone gets upset belongs to you, not to them. You convert it into competence and action as fast as possible. They get efficiency where they needed presence.
 
-A game exists for exactly this, Tough Conversations. One person says: *I have something tough to say and I don't know how to say it.* The other person can only respond two ways: *tell me more,* or *in response to what I've heard, I have something _____ to say and I don't know how to say it.* Back and forth. The game removes the option of solving.
+A game exists for exactly this, Tough Conversations. One person says: *I have something tough to say and I don't know how to say it.* The other person can only respond two ways: *tell me more,* or *in response to what I've heard, I have something _____ to say and I don't know how to say it.* Back and forth. The game takes solving off the table.
 
-The first time you play it, you will have to say "tell me more" to something that makes you want to fix it immediately. You say the words. You stay. The person goes somewhere they would not have gone if you had moved. What they say next is the real one, not the complaint, not the position, the feeling underneath it. Fear dressed as criticism. Sadness wearing the costume of an argument.
+The first time you play it, you will have to say "tell me more" to something that makes you want to fix it immediately. You say the words. You stay. The person goes somewhere they would not have gone if you had moved. What they say next is the feeling underneath the complaint or the position: fear dressed as criticism, sadness wearing the costume of an argument.
 
 The feeling was always there. It was waiting for someone to stay with it.
 
-Most allyship has the same problem those calls had. The ally solves for their own emotional problem: the need to feel useful, effective, like a good person in a hard moment. A real partnership has two people more real at the end than at the start.
+Most allyship has the same problem that phone call had. The ally solves for their own emotional problem: the need to feel useful, effective, like a good person in a hard moment. A real partnership leaves both people more themselves than when they started.
 
 You need a practice. A structure. Something that repeats reliably so you can get better at it.
 
 That structure has a name: the Five-Move Form.
 
-*Form* is the martial artist's word, and it is the exact one. A form is a fixed order of moves you run alone, slowly, ten thousand times, so that on the day a hard moment arrives fast your body already knows where it is going. You learn it in pieces and you never finish it. The beginner runs the form and the master runs the form, and what separates them lives inside the same five moves.
+*Form* is the martial artist's exact word. A form is a fixed order of moves you run alone, slowly, ten thousand times, so that on the day a hard moment arrives fast your body already knows where it is going. You learn it in pieces and never finish. The beginner and the master run the same form; what separates them lives inside the same five moves.
 
 The Five-Move Form is a progression through five stages that can happen in ten seconds or ten hours depending on the depth and context. It moves emotional energy from activation → contact → clarity → integration → action.
 
@@ -289,7 +289,7 @@ The Five-Move Form is a progression through five stages that can happen in ten s
 > thirty years.*
 >
 > *For your first year, run two: notice, and say. The other three are what you do afterwards, on
-> your own time, and they are where the training actually happens. She tells you five first because
+> your own time, where the training actually happens. She tells you five first because
 > students who learn two never come back for the other three.*
 <!-- /MARGINALIA -->
 
@@ -303,18 +303,18 @@ Fear. Anger. Sadness. Joy. Neutrality.
 
 The feeling arrives before your thinking mind can name it. Your body tenses before you notice you're afraid. Your chest tightens before you realize you're angry. Your throat closes before you can say "sad."
 
-The Wake stage honors that moment, without immediately trying to fix it, manage it, or convert it into something else. (The converting happens very fast. You have converted your whole life. The pause is the practice.)
+The Wake stage honors that moment, without immediately trying to fix it, manage it, or convert it into something else. (The converting happens very fast; you have been doing it your whole life. The pause is the practice.)
 
 **In practice:** Name the feeling to yourself, one of the five, and find where it sits. Chest? Belly? Legs? Throat? Jaw? Skip the question of whether the feeling qualifies, and skip the question of why it came. Just: this feeling is present. I notice it.
 
-This stage can take five seconds or run the length of the encounter, and you keep noticing the feeling the whole way through.
+This stage can take five seconds or run the length of the encounter, with you noticing the feeling the whole way through.
 
 #### Stage 2: Open Up
 **What it means:** Turn the sensitivity up, and let what's there reach you.
 
-The people who raised you hand you a dial in childhood and teach one direction: lower it. Stay composed, stay reasonable, keep it together. Turn the dial that low and most of what moves in the situation slips past before it registers, and we call that setting *calm*. Opening turns the dial the other way. You deliberately raise your sensitivity to everything actually present, in your own body first, then in the people around you.
+The people who raised you hand you a dial in childhood and teach you one direction, down. Stay composed, stay reasonable, keep it together. Turn the dial that low and most of what moves in the situation slips past before it registers. That setting gets called *calm*. Opening turns the dial the other way. You deliberately raise your sensitivity to everything actually present, in your own body first, then in the people around you.
 
-This matters for one reason: you cannot affect what you cannot feel. The Shaman works by sensitivity, and an instrument kept behind glass reads nothing. Register a moment a beat late and the charge has already passed, along with the move that could have met it. Every skill later in this chapter runs on the signal that opening lets in.
+This matters for one reason: you cannot affect what you cannot feel. The Shaman works by sensitivity; an instrument kept behind glass reads nothing. Register a moment a beat late and the charge has already passed, along with the move that could have met it. Every skill later in this chapter runs on the signal that opening lets in.
 
 Here is where most well-meaning allies flinch, so let me say it straight: you did not burn out from too much empathy. You burned out because you took in everything and nobody ever trained you to hold any of it, so you turned the dial all the way back down, the only relief anyone had shown you. Opening trains you to hold sensation on purpose: your own charge first, until you can stand inside it without going under, then the other person's, until their reality reaches you without dragging you down with it. Compassion that has felt the full weight and stayed on its feet is the only compassion that informs a good move.
 
