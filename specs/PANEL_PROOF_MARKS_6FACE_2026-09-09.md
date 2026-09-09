@@ -265,6 +265,44 @@ seven), and Q4 (confirming the exclusion-list approach). Everything below waits 
    Last, because it is the only item that is new writing rather than removal.
 7. **The Controller contradiction (C1)** — a separate content ruling, taken on its own.
 
+## Round 2 — run to consensus, on Wendell's instruction
+
+**Wendell, 2026-09-09:** *"If there are still ambiguities run the 6 game master panel until
+consensus."* Round 1 converged on the rulings. What remained was execution-level, plus a fact the
+first round did not have. Round 2 closes them.
+
+**The fact.** `marginalia/compile.py` locates the treatise seam with `## Section 4`, and
+`marginalia/insertions.py` anchors margin notes to `## Section N` text. `instruments/typeset.py`
+already treats the italic H3 under each H2 as that section's *subtitle*, not a navigation entry.
+Strip the labels naïvely and the round-trip (book step 6) breaks.
+
+**Which headings are template, and which are content — the rule, unanimous.** A heading is a
+slot label if its text is identical across three or more chapters. That is the outline naming the
+slot's job, not the reader's content. By that test: *The Exile, The Distortion, The Concept, The
+Practice, The Game, Recap and Transition* are template (seven or eight chapters each). *The
+Controller, Up Close* and its siblings vary by daemon and are content. ch2's names (*The Infinite
+Arcade, The Forest, Origin Story, The Six Guides…*) are content. *Urgency* fails the repetition
+test and is struck by name: the one Kotter word.
+
+**What replaces a template label.** Each template H2 already carries an italic H3 subtitle written
+for that chapter (*Why the Shaman Left the Village*, *What Winning Looks Like at the Shaman's
+Altitude*). Promote the subtitle to the H2; drop the H3. Content headings keep their subtitle and
+lose only the number. Nothing is written new; the reader-facing name was already on the page,
+one line down.
+
+**The anchor — the Architect's answer, adopted by all six.** The build keeps its skeleton, and the
+reader never sees it: an invisible `<!-- SECTION N -->` comment above each H2. The seam regex and
+the insertion anchors rekey to the comment. Gate, marginalia extraction and the round-trip ignore
+it because it is not a marginalia kind. The Shaman's point stands — the check is the part that
+keeps it struck — so `headings.py` flags numbered headings, template labels repeated across
+chapters, and Kotter words, and runs in the review.
+
+**The two Round-1 splits, closed.** The hedges' cost: the Diplomat's weighting is adopted for
+*priority within the cadence rework* (hedges before signposts when both are in one paragraph);
+the fix is the same. The date: the Challenger's stop line is adopted as written below.
+
+**Consensus reached. The panel acts on it.**
+
 **The stop line the Challenger insists on:** items 1–3 before the pre-order date is set; 4–6
 before the 2.0 file is uploaded; 7 can ride into a later printing if it must. The panel would
 rather ship a book with one reconciled mechanism outstanding than hold the print for it.
