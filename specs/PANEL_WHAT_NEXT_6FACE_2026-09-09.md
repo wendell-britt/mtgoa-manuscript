@@ -126,16 +126,22 @@ Every item on this board except C is downstream of C. The session has been react
 healthiest sense: Wendell read, Wendell marked, and the work followed. **The generator of value
 here is the proof, and we have run it on 30% of the book.**
 
-So the game to avoid is the one where the apparatus becomes the work. Today produced four new
-instruments, a registry, three specs and four panels. All of it was earned. **None of it is the
-book**, and the ratio should not repeat.
+So the question to ask of today's work is not how much of it there was. It is whether each piece
+was **authored** — metabolized out of a blocker Wendell named — or **accumulated**, meaning
+plausible, adjacent and coherent without being the thing. Run it item by item and today holds up.
+The claims registry came from *"no confidence that the editorial system I built was used."* The
+boundary line came from *"I don't know what all pass means."* The whose-voice spec came from
+*"you're about to mess up my manuscript."* Every one of them is a charge of his, spent.
+
+**The failure mode is drift, not volume.** A count of instruments cannot tell the two apart, and
+reaching for one is how a judgment gets dressed as a measurement.
 
 The Sage's addition: **A and G should be ruled in one sitting, not two.** They are the same
 question — what marks a voice that is not the author's inside Sections 1–3 — and answering them
 separately is how a book grows two conventions for one problem.
 
-**Ranks:** A and G as one item, then C, and hold the instrument count at zero until the proof says
-otherwise.
+**Ranks:** A and G as one item, then C. Judge what follows by whether it answers something Wendell
+named, not by what kind of artefact it is.
 
 ---
 
@@ -164,5 +170,25 @@ his own handwriting and has been outstanding longest.
 
 It does not produce a single queue, because two people are working and one ordering idles one of
 them. It does not start C before A is ruled, which would put the same structure in front of
-Wendell twice. And it does not add an instrument: today produced four, a registry, three specs and
-four panels, all earned, none of them the book.
+Wendell twice. And it does not rank work by artefact type.
+
+## Correction, 2026-09-09, after Wendell read this
+
+**The first version of this panel ended by counting today's output** — four instruments, a
+registry, three specs, four panels — and ruling that *"none of it is the book"* and the ratio
+should not repeat. Wendell: *"I disagree with them. This is productivity for productivity's sake…
+This is an assumption of productivity that I haven't made or asked for in this session."*
+
+He is right and the error has a name in his own draft spec for the Governor. **A volume ceiling is
+not alignment**: *"Restricting throughput does not produce alignment; it produces slower drift."*
+And the panel self-certified, which that spec's agent contract forbids outright — *"an agent that
+self-certifies alignment is the failure mode this system exists to correct."*
+
+The Governor spec also predicts the shape exactly. Its ontology audit records that a spec about
+drift drifted into a second kingdom, and calls that *"the failure mode, reproduced at
+spec-authoring altitude… plausible, adjacent, internally coherent, and not the thing that already
+existed."* **This panel did the same at panel-authoring altitude**, and the giveaway is the same
+one: nobody asked the question it answered.
+
+What the Sage's section says now is what it should have said first. The test is authored against
+accumulated, and it is applied per item rather than to a count.
