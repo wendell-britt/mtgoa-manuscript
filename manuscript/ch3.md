@@ -694,6 +694,8 @@ Allyship is not saying the right words. The council had the right words. The rig
 
 That move belongs to the Alchemist, the one who takes the charge the Controller called a foul (the fear, the "not ready," the "not good enough") and burns it for fuel instead of waiting for it to go away. The woman on the council did not speak once the fear left. She spoke while it still burned, and used it. That is the Shaman's whole practice. The sensing, the Form, the Controller pried off the joystick, all aimed at one outcome: one true sentence, out of your body and into the world, where it can move the water.
 
+The Alchemist is a superpower, the one this chapter trains. A superpower is not a Face. A Face is a role at the table. A superpower is the capacity you built to survive, made usable for somebody else. Every one of them runs on the same alchemy, a live charge spent. The Alchemist leads with it. Appendix I lays them all out.
+
 ### 3-2-1 on Your Controller
 
 The one described above enforces a generic rulebook. Yours enforces a specific one, and that is what to work. Ten to fifteen minutes.

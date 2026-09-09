@@ -64,6 +64,10 @@ SHIPPING_APPENDICES = [
     "APPENDIX_E_321_SHADOW_PROCESS.md",
     "APPENDIX_F_POLARITY_MAP.md",
     "ON_THE_SHOULDERS_OF.md",
+    # H and I are GAP-level on build_book.SPINE and print with the rest. H was missing
+    # here since it was written, so the book-wide gate never read it; both added 2026-09-09.
+    "APPENDIX_H_CHARACTER_SHEET.md",
+    "APPENDIX_I_SUPERPOWERS.md",
 ]
 BLOCK = re.compile(
     r"<!-- (MARGINALIA|EPIGRAPH-BYLINE|POSTCARD) -->\n(.*?)\n<!-- /\1 -->", re.S)

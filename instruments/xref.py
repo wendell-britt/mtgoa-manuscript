@@ -44,7 +44,8 @@ SHIPPING = {"A": "APPENDIX_A_FOUR_ALLYSHIP_DOMAINS.md",
             "E": "APPENDIX_E_321_SHADOW_PROCESS.md",
             "F": "APPENDIX_F_POLARITY_MAP.md",
             "G": "ON_THE_SHOULDERS_OF.md",
-            "H": "APPENDIX_H_CHARACTER_SHEET.md"}
+            "H": "APPENDIX_H_CHARACTER_SHEET.md",
+            "I": "APPENDIX_I_SUPERPOWERS.md"}  # added 2026-09-09 with build_book.SPINE
 
 
 def chapters():

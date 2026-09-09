@@ -106,6 +106,12 @@ SPINE = [
     # the chapter that asks for it. GAP rather than BLOCKER because the instructions are in
     # the chapters and a reader can rule one up without this page; she should not have to.
     ("appendix", "Appendix H",  "appendices/APPENDIX_H_CHARACTER_SHEET.md",           GAP),
+    # The superpowers, added 2026-09-09 on Wendell's ruling: "the alchemist as a superpower
+    # intro just needs scaffolding and probably an appendix to breakdown all the superpowers."
+    # Six superpowers, seven names (the Sage's has two halves, ch8), one per Face, and the one
+    # place the book says in a line how the Superpower Quiz's seven map onto them. GAP like H:
+    # every definition is in its chapter; a reader should not have to collect them.
+    ("appendix", "Appendix I",  "appendices/APPENDIX_I_SUPERPOWERS.md",               GAP),
 
     # Acknowledgements came OFF the spine 2026-08-05, ruled by Wendell: *"we're also
     # cutting acknowledgements this version."* Off the spine rather than OPTIONAL,

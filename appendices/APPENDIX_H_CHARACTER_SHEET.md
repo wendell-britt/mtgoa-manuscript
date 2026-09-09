@@ -90,7 +90,7 @@ and how much of it names a specific person or a specific week.
 > **Quest.** The hiring loop at work. Specifically that the two most junior people on it
 > never get asked what they saw.
 >
-> **Daemon.** Fixer/Healer. Its job is to keep things from breaking by absorbing the
+> **Daemon.** Fixer/Healer. Its job is to keep the peace by absorbing the
 > friction myself, so nobody has to feel it.
 >
 > **Channel I skip.** Anger. It arrives and I convert it into an agenda item inside a
@@ -108,7 +108,7 @@ and how much of it names a specific person or a specific week.
 > in them.
 >
 > **The game I reach for.** *The meeting is the work.* It saves me from having to say the
-> thing out loud to a person who can answer.
+> sentence out loud to a person who can answer.
 >
 > **Autopilot pattern.** Diplomat, 5 of 6.
 >

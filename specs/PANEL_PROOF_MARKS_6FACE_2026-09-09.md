@@ -316,6 +316,22 @@ counter: the aim is not a lower `cadence.py` score but the root rule — hand th
 material, remove the handling — applied to what Wendell marked. Unmarked lines are not the
 sweep's target; the detector's hot list is for chapters he has not yet read in proof.
 
+## Round 4 — Q3 corrected on the source
+
+Round 1 ruled "six" against a table that put the **Panoramic Seer** down as the Sage's
+superpower and treated the quiz's *Escape Artist* and *Coach* as product-only names. The source
+says otherwise. ch8:617: *"the superpower has two halves. The **Escape Artist** is the capacity to
+get out of a game… The **Coach** is what the exit makes available."* The Panoramic Seer is one of
+the Sage's five *modes*, not its superpower.
+
+So the book's superpower names are exactly the quiz's seven, spread across six Faces: Alchemist
+(Shaman), Disruptor (Challenger), Storyteller (Regent), Strategist (Architect), Connector
+(Diplomat), Escape Artist and Coach (Sage). ch2's *"any of the six"* counts superpowers, one per
+Face; the Sage's is one superpower with two halves. **The count question dissolves: six
+superpowers, seven names, and the quiz sorts by the seven.** The appendix lists them that way and
+says so in one line; no reconciliation is needed on the quiz side beyond that sentence. The
+Alchemist's scaffold names its category without a count.
+
 **The stop line the Challenger insists on:** items 1–3 before the pre-order date is set; 4–6
 before the 2.0 file is uploaded; 7 can ride into a later printing if it must. The panel would
 rather ship a book with one reconciled mechanism outstanding than hold the print for it.
