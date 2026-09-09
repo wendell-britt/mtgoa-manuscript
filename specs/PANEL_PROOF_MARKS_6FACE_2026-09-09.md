@@ -303,6 +303,19 @@ the fix is the same. The date: the Challenger's stop line is adopted as written 
 
 **Consensus reached. The panel acts on it.**
 
+## Round 3 — Wendell overrides Q4
+
+**Wendell, 2026-09-09:** *"'keep the deliberate craft' — anything marked up isn't deliberate
+craft. It must be changed."*
+
+The panel's Q4 protected structures it judged intentional (anaphora runs, earned verdicts).
+That judgment is withdrawn for every marked line: **the mark is the ruling.** The exclusion
+list is dropped as a gate. The rework's worklist is `PROOF_MARKS_CH2_CH3_2026-09-09.md`, entry
+by entry, and each entry changes. What the panel keeps from Q4 is only its warning about the
+counter: the aim is not a lower `cadence.py` score but the root rule — hand the reader the
+material, remove the handling — applied to what Wendell marked. Unmarked lines are not the
+sweep's target; the detector's hot list is for chapters he has not yet read in proof.
+
 **The stop line the Challenger insists on:** items 1–3 before the pre-order date is set; 4–6
 before the 2.0 file is uploaded; 7 can ride into a later printing if it must. The panel would
 rather ship a book with one reconciled mechanism outstanding than hold the print for it.
