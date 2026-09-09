@@ -71,10 +71,16 @@ Ruled out by the hostile review, recorded so they are not re-proposed:
 
 - **FR-G3** Before writing, the harness MUST compare each file's normalised text before and after.
   Every difference MUST fall inside a declared `old_text`. Any difference outside one is a refusal.
-- **FR-G4** Normalisation MUST ignore line wrapping, quote prefixes and emphasis markers, so that
-  boxing a passage or rewrapping a paragraph is not reported as prose change. **Byte-level
-  differences outside declared spans MUST be reported and MUST NOT fail**, since reflow is legal
-  and silent word substitution is not.
+- **FR-G4** Normalisation MUST ignore line wrapping and quote prefixes, so that boxing a passage
+  or rewrapping a paragraph is not reported as prose change. **Byte-level differences outside
+  declared spans MUST be reported and MUST NOT fail**, since reflow is legal and silent word
+  substitution is not.
+- **FR-G4a** **Emphasis is inside containment, not outside it.** Strip a whole-paragraph italic
+  wrapper and any leading bold label, then compare remaining emphasis exactly. Emphasis is meaning:
+  *not* and *not* are different sentences, and a check that treats them alike is measuring
+  typography. Run against today's three boxing cases before this was written — it fires on the one
+  that dropped emphasis and passes the two that only gained a wrapper. *(Panel 2026-09-09, Q1.
+  Supersedes the original FR-G4 proposal, which put emphasis outside.)*
 
 ### Completeness — did the declared work actually happen
 
@@ -89,8 +95,14 @@ Ruled out by the hostile review, recorded so they are not re-proposed:
 - **FR-G7** Refusal MUST be atomic: nothing written, matching the existing tranche contract.
 - **FR-G8** The refusal MUST name the file, the check that failed, and one example difference.
 - **FR-G9** An override MUST exist for deliberate wide passes, and it MUST require a written reason
-  recorded in the script. A control with no override is a control somebody comments out; a control
-  with a silent override is not a control.
+  as an argument, printed on every run so it reaches the terminal and the commit. A control with no
+  override is a control somebody comments out; a control with a silent override is not a control.
+- **FR-G9a** The override MUST be **scoped to one named file** and MUST NOT have a global form.
+  Turning the contract off for a whole run is the shape of the failure it exists to catch.
+- **FR-G9b** There MUST be **no approval gate** on the override. A control that requires finding a
+  person is a control that gets commented out at eleven at night, and this repo already carries the
+  `quiet` → `careful` substitution as its standing example of a control evaded at the moment of
+  use. *(Panel 2026-09-09, Q2.)*
 
 ### Scope of the mechanism
 
@@ -101,9 +113,15 @@ Ruled out by the hostile review, recorded so they are not re-proposed:
 
 Two findings survived the review that no code addresses. They belong to Wendell.
 
-- **The two-copy condition, DL-89.** `insertions.py` and the manuscript disagree by 67 lines. The
-  contract makes an unbounded write visible; it does not decide which artefact is true. That
-  ruling is still open and still his.
+- **The two-copy condition, DL-89 — RULED on the measurement, 2026-09-09.** `insertions.py` has
+  **8 commits ever**; `manuscript/` has **49**. The source has never won a disagreement and
+  destroyed approved prose the one time it was consulted. **The manuscript is authoritative, and
+  `insertions.py` is regenerated from it rather than retired** — retiring it would break
+  `--verify`'s three consumers, including a `shipcheck.py` category, and removing a ship blocker to
+  fix a divergence is a bad trade. `--apply` becomes idempotent because nothing in the source will
+  not have come from the manuscript. **Condition: regeneration must not be a step anybody has to
+  remember**, or the divergence returns under a new name. Subject to Wendell's overrule of the
+  record. *(Panel 2026-09-09, Q3.)*
 - **Scale the mechanism to the job.** Nobody on the panel could argue against it and it appears
   nowhere in the original analysis. Four passages needed four edits. A tool able to rewrite six
   chapters was built to place four boxes, and its capability is what turned a mistake into damage.
@@ -151,15 +169,21 @@ incident and the other silent failure today."* **That claim is false.** It catch
 FR-G5 exists because the counterfactual was run rather than assumed, and the mechanism is two
 halves rather than one.
 
-## 7 · Open questions
+## 7 · Open questions — all three ruled
 
-- **Q1 · Normalisation depth.** FR-G4 proposes ignoring wrapping, quote prefixes and emphasis so
-  that boxing is not flagged as prose change. That also means a change from `*word*` to `word` is
-  invisible to containment. Today's boxing did exactly that to two phrases, deliberately. Is
-  emphasis inside the containment check or outside it? **Proposed: outside, reported separately.**
-- **Q2 · Who may override, and where is the reason recorded?** Proposed: in the script, as a
-  required string argument, so it lands in the commit and in review.
-- **Q3 · DL-89**, unchanged and still Wendell's: which of the two copies is authoritative.
+Ruled by panel on 2026-09-09, `PANEL_WRITE_CONTRACT_OPEN_Q_6FACE_2026-09-09.md`, six of six. See
+FR-G4a, FR-G9a/b and §4.
+
+**Q1 emphasis is inside containment**, by the wrapper-stripping rule, run against three real cases
+first. **Q2 the override is cheap, scoped to one file, loud, and ungated.** **Q3 the manuscript is
+authoritative and the source is regenerated from it**, ruled on eight commits against forty-nine
+rather than escalated a fourth time.
+
+**One procedural finding worth more than the three answers.** Q3 was carried through three
+documents as *"Wendell's, because it decides which artefact is true."* It was a question about
+where the work goes, and behaviour had answered it in June. **Escalation looked like deference and
+functioned as delay**, and the delay is what let the hazard sit long enough to fire. Where a
+measurement already shows the answer, write it down and let Wendell overrule the record.
 
 ## 8 · What this spec refuses
 
