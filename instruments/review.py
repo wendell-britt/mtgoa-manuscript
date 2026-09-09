@@ -195,12 +195,20 @@ def draft(paths):
         # 3f added 2026-09-03. The red-team's buildable half: the light-verb / weak-agency
         # detector. Wendell, on the proof: "'lands warm' — what the fuck does landing warm mean?
         # Land is another one of those nothing words." See specs/RESEARCH_LIGHT_VERB_2026-09-03.md.
+        # 3g added 2026-09-09. Wendell highlighted the whole back half of ch3 in the proof and
+        # wrote "Rework." The marks were not logic and not repeated ideas -- two sentence-molds
+        # run to monotone: the "That is X" verdict and the ", and Y" tack-on, the "X, and Y.
+        # That is Z." cadence. 3d flagged 1 of them in the region and 3e flagged 2; the eye
+        # flagged scores, because both counters average the rhythm away. cadence.py measures the
+        # two molds per paragraph. It LOCATES; it is not a target to minimise (breaking a run-on
+        # trades a compound for a verdict on purpose). See specs/RESEARCH_CADENCE_2026-09-09.md.
         for tag, tool, keep in (("3a frag ", "fragment.py", 2),
                                 ("3b pron ", "antecedent.py", 2),
                                 ("3c slop ", "slop_shapes.py", 3),
                                 ("3d and  ", "trailing_and.py", 3),
                                 ("3e tell ", "telling.py", 4),
-                                ("3f verb ", "light_verb.py", 4)):
+                                ("3f verb ", "light_verb.py", 4),
+                                ("3g cadn ", "cadence.py", 3)):
             code, out = run([os.path.join(HERE, tool), path])
             rows = [l for l in out.split("\n") if l.startswith(os.path.basename(path)[:22])]
             print("  %s  %s" % (tag, rows[0].strip() if rows else "no score"))
