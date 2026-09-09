@@ -21,12 +21,35 @@ reader *you already know which one I mean*, and it is legal four ways -- an ante
 referent unique in the world, a clause that supplies it on the spot, or canon the book has
 taught her. When none holds, the grammar asserts shared knowledge that was never established.
 
-## Two tiers, and why not a third
+## Three tiers
 
 **PRO** -- `the [adjective] one`. The head is a pro-form carrying nothing and the adjective is
 doing all the identifying work. *"Allyship is saying the true one"*, `ch3:693`. Deictics and
 ordinals are excluded, because *the next one*, *the other one*, *the third one* point at
-something the sentence just counted and are ordinary English.
+something the sentence just counted and are ordinary English. Also excluded: a match spanning a
+blank line (a heading running into the next paragraph), a capitalised middle word (a proper noun
+is never the adjective doing the work), and `one` followed by a unit (*one step further* is a
+numeral).
+
+**ROLE** -- `the one who …`, `the one everybody …`, `the one nobody …`. **The same pro-form head
+with a relative clause instead of an adjective**, and grammatically licensed, because the clause
+supplies the referent. It is reported anyway, and the reason is the most useful thing anyone has
+said about this instrument.
+
+On 2026-09-09 the PRO tier was swept across ch4-ch9 and eighteen sites were reported licensed,
+each with its antecedent quoted. Wendell read the list and answered: *"most of these we are
+trying to keep are doing subtle negations to keep that structure."* **Measured against the
+eighteen: all eighteen sit in a contrast, and the contrast is a rejection in every case.** So the
+four licences answer a grammar question -- does the reader know which one -- and the question
+underneath is why the sentence is defined against something instead of saying what is.
+
+**And the tier could not see where the book actually does this.** The handbook's *You're winning
+when* formula runs **24 times across ch3-ch8**, always *"It cost you [what you lose]. The proof
+is that [what you gain]"*, and **11 of the 24 build the lost thing on this pro-form**. PRO caught
+three. The other eight use `the one who …` and were invisible. **93 ROLE sites book-wide.**
+
+Reported, never graded. The formula states its positive every time -- 24 of 24 carry *The proof
+is that* -- so this is a shape to look at, not a defect to fix.
 
 **ADJ** -- `the [evaluative adjective] [noun]` where the phrase does not occur in the preceding
 260 characters. *"the beautiful words"*, *"the correct response"*, *"the real work"*. Lower
@@ -68,6 +91,15 @@ foot feet mile miles hour hours minute minutes second seconds day days week week
 year years time times place places way ways side sides half point points line lines round rounds
 more""".split())
 
+# `the one who …` -- the same pro-form head with a relative clause instead of an adjective. It is
+# grammatically licensed (the clause supplies the referent) and it is reported anyway, because
+# Wendell, 2026-09-09: *"most of these we are trying to keep are doing subtle negations to keep
+# that structure."* He was right, and the tier that was supposed to see it could not: PRO matches
+# `the [adjective] one` and this variant is where the book actually lives.
+OPENER = set("""who that whom whose nobody everybody everyone somebody anybody people
+i you we they he she it his her their""".split())
+ROLE = re.compile(r"\bthe\s+one\s+([a-z]+)\b", re.I)
+
 PRO = re.compile(r"\bthe\s+([a-z]+)\s+(ones?)\b", re.I)
 ADJ = re.compile(r"\bthe\s+(" + EVAL + r")\s+([a-z]{3,})\b", re.I)
 LOOKBACK = 260          # characters; a phrase named this recently is licensed by its antecedent
@@ -92,6 +124,12 @@ def sites(text):
         if nxt and nxt.group(1).lower() in MEASURE:
             continue
         out.append(("PRO", m.group(0), m.start()))
+    for m in ROLE.finditer(text):
+        if m.group(1).lower() not in OPENER:
+            continue
+        if BLANK.search(m.group(0)):
+            continue
+        out.append(("ROLE", m.group(0), m.start()))
     for m in ADJ.finditer(text):
         # A capitalised head is a named concept the book owns -- the Right Thing, the Wrong Game.
         if m.group(2)[:1].isupper():
@@ -126,9 +164,9 @@ def main():
     paths = [a for a in sys.argv[1:] if not a.startswith("-")] or corpus()
 
     print("definite articles standing over a noun the reader was not given\n")
-    print("%-30s %6s %6s %8s" % ("file", "PRO", "ADJ", "/1k"))
-    print("-" * 54)
-    tp = ta = words = 0
+    print("%-30s %6s %6s %6s %8s" % ("file", "PRO", "ROLE", "ADJ", "/1k"))
+    print("-" * 61)
+    tp = tr = ta = words = 0
     detail = []
     for p in paths:
         try:
@@ -137,19 +175,20 @@ def main():
             continue
         rows = sites(text)
         pro = sum(1 for r in rows if r[0] == "PRO")
-        adj = len(rows) - pro
+        role = sum(1 for r in rows if r[0] == "ROLE")
+        adj = len(rows) - pro - role
         n = len(text.split())
-        tp += pro; ta += adj; words += n
-        print("%-30s %6d %6d %8.2f"
-              % (os.path.basename(p), pro, adj, 1000.0 * len(rows) / n if n else 0))
+        tp += pro; tr += role; ta += adj; words += n
+        print("%-30s %6d %6d %6d %8.2f"
+              % (os.path.basename(p), pro, role, adj, 1000.0 * len(rows) / n if n else 0))
         for tier, phrase, off in rows:
             detail.append((os.path.basename(p), line_of(text, off), tier, phrase,
                            " ".join(text[max(0, off - 44):off + len(phrase) + 30].split())))
-    print("-" * 54)
-    print("%-30s %6d %6d %8.2f"
-          % ("TOTAL", tp, ta, 1000.0 * (tp + ta) / words if words else 0))
+    print("-" * 61)
+    print("%-30s %6d %6d %6d %8.2f"
+          % ("TOTAL", tp, tr, ta, 1000.0 * (tp + tr + ta) / words if words else 0))
 
-    show = detail if verbose else [d for d in detail if d[2] == "PRO"][:12]
+    show = detail if verbose else [d for d in detail if d[2] in ("PRO", "ROLE")][:14]
     if show:
         print("")
         for f, ln, tier, phrase, ctx in show:
@@ -158,7 +197,8 @@ def main():
         print("\n  %d ADJ site(s) not shown. Re-run with -v." % ta)
 
     print("\nreporting only. Every hit is a candidate for a reader: the book quoting a social"
-          "\nphrase looks identical to a lapse. PRO is the high-precision tier.")
+          "\nphrase looks identical to a lapse. PRO is the high-precision tier; ROLE is"
+          "\ngrammatically licensed and shown because the licence is where the shape hides.")
     return 0
 
 
