@@ -60,6 +60,10 @@
 
 ---
 
+<!-- TREATISE-OPEN -->
+> THE SECOND TREATISE · THE SCHOOL OF THE LINE
+<!-- /TREATISE-OPEN -->
+
 <!-- SECTION 1 -->
 ## Why the Challenger Left the Village (And What the Village Lost)
 

@@ -24,6 +24,7 @@ local DEVICE = {
   handbook        = "dev-handbook",
   signature       = "dev-signature",
   postcard        = "dev-postcard",
+  treatiseopen    = "dev-treatise-open",
   sectionsubtitle = "dev-sectionsubtitle",
   centered        = "dev-centered",
 }

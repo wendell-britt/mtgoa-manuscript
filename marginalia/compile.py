@@ -27,7 +27,8 @@ ROOT = os.path.join(HERE, os.pardir)
 MS = os.path.join(ROOT, "manuscript")
 sys.path.insert(0, HERE)
 
-from insertions import FRONT, BYLINE_NOTE, HANDBOOK, NOTES, POSTCARD, SIGNATURE
+from insertions import (FRONT, BYLINE_NOTE, HANDBOOK, NOTES, POSTCARD, SIGNATURE,
+                        TREATISE_OPEN)
 
 # Ch2 left the frame on 2026-08-01 and now sits with ch1: no byline, no epigraph, no
 # margin. The fiction opens at front_matter/headmasters_letter.md, which falls between
@@ -35,7 +36,7 @@ from insertions import FRONT, BYLINE_NOTE, HANDBOOK, NOTES, POSTCARD, SIGNATURE
 CHAPTERS = [3, 4, 5, 6, 7, 8, 9]
 # HANDBOOK added 2026-07-30. SPEC_SCHOOL_HANDBOOKS §8: it must join KINDS or --strip
 # orphans six pages and --apply duplicates them, compounding on every cycle.
-KINDS = ("MARGINALIA", "EPIGRAPH-BYLINE", "HANDBOOK", "SIGNATURE")
+KINDS = ("MARGINALIA", "EPIGRAPH-BYLINE", "HANDBOOK", "SIGNATURE", "TREATISE-OPEN")
 BLOCK_RE = re.compile(
     r"\n?\n<!-- (%s) -->\n.*?\n<!-- /\1 -->\n" % "|".join(KINDS), re.S)
 # The postcard carries its own horizontal rule. Match the rule together with the
@@ -123,6 +124,21 @@ def apply_chapter(ch, txt):
             note = note.rstrip() + "\n\n" + signature
         txt = txt[:j] + "\n" + block(note, "MARGINALIA") + txt[j:]
         n += 1
+
+    # DL-85. The header goes where the treatise starts, which is the SECTION 1 anchor, and
+    # after any chapter-level framing the author has already written above it (ch3 has three
+    # paragraphs there). Placed before the signature insertion so the seam point is computed
+    # on text this has not shifted.
+    if ch in TREATISE_OPEN:
+        anchor = "<!-- SECTION 1 -->"
+        c = txt.count(anchor)
+        if c != 1:
+            problems.append("TREATISE-OPEN anchor %s (%d matches)"
+                            % ("MISSING" if c == 0 else "AMBIGUOUS", c))
+        else:
+            i = txt.find(anchor)
+            txt = txt[:i] + block(TREATISE_OPEN[ch], "TREATISE-OPEN") + "\n" + txt[i:]
+            n += 1
 
     if ch in SIGNATURE:
         i = seam_point(txt)

@@ -58,6 +58,10 @@
 
 ---
 
+<!-- TREATISE-OPEN -->
+> THE FOURTH TREATISE · THE SCHOOL OF THE PATTERN
+<!-- /TREATISE-OPEN -->
+
 <!-- SECTION 1 -->
 ## Why the Architect Left the Village (And What the Village Lost)
 

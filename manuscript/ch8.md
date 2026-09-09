@@ -52,6 +52,10 @@
 ---
 
 
+<!-- TREATISE-OPEN -->
+> THE SIXTH TREATISE · THE SCHOOL OF THE HORIZON
+<!-- /TREATISE-OPEN -->
+
 <!-- SECTION 1 -->
 ## Why the Sage Left the Village (And What the Village Lost)
 

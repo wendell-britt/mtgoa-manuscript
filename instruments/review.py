@@ -100,7 +100,7 @@ def draft(paths):
         # anyone, which is what the linter's own legend says.
         code, out = run(["marginalia/review.py", path])
         nblock = len([l for l in out.split("\n") if l.strip().startswith("[BLOCK]")])
-        print("  0 voice   %s" % ("clean" if not nblock else "%d BLOCK" % nblock))
+        print("  0 voice   %s" % ("no BLOCK" if not nblock else "%d BLOCK" % nblock))
         for l in out.split("\n"):
             if l.strip().startswith("say the noun:") or l.strip().startswith("hedge:") \
                     or l.strip().startswith("ai shape:"):
@@ -126,7 +126,7 @@ def draft(paths):
             for name, s in hits[:12]:
                 print("        %-8s %s" % (name, s))
         else:
-            print("  1 gate    clean")
+            print("  1 gate    every counter reads 0")
 
         tmp = os.path.join(ROOT, ".review_body.md")
         io.open(tmp, "w", encoding="utf-8").write(text)
@@ -400,7 +400,13 @@ def main():
     paths = [a for a in sys.argv[1:] if not a.startswith("-")]
     print("review — %s" % ("draft" if paths else "book-wide"))
     bad = draft(paths) if paths else book()
-    print("\n%s" % ("clean" if not bad else "%d thing(s) to look at" % bad))
+    # A board reports what its counters did, never a verdict on the prose. Wendell,
+    # 2026-09-09, on "prose is clean": "You don't know what 'clean' means... The prose doesn't
+    # have any flagged problems isn't the same as 'clean', and that's not a word we should be
+    # using around prose anyway." Same defect as "all pass" one word smaller: the summary
+    # named the outcome instead of the measurement, and a reader takes the outcome.
+    print("\n%s" % ("nothing flagged by these counters" if not bad
+                    else "%d thing(s) to look at" % bad))
     boundary()
     return 0
 
