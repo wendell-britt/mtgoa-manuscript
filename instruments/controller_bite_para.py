@@ -23,6 +23,11 @@ the Controller lets the feeling in and bites at Open Up. Three further things fa
 """
 import io, os, sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from ruling import guard                      # FR-E1: two lines and one import
+
+CLAIM = "DL-78"                               # the ruled fact in instruments/claims.yaml
+
 P = os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir, "manuscript", "ch3.md")
 
 OLD = ("Here is why this daemon stands second, right behind the one that keeps you alive, in a book "
@@ -41,7 +46,15 @@ NEW = ("Here is why this daemon stands second, right behind the one that keeps y
        "undergoing it. Clean Up, Grow Up and Show Up get nothing to work with. You pay twice:")
 
 
+# The four spans DL-78 censused, all inside the one paragraph this script replaces. Declared
+# individually because the guard counts spans, not string replacements: the paragraph is one
+# write and four carriers of the old fact.
+EDITS = ["allowed onto the field", "called out of bounds at the whistle",
+         "made it into play", "before Stage One"]
+
+
 def main():
+    guard(CLAIM, EDITS)                       # FR-E3: refuses unless the census is covered
     t = io.open(P, encoding="utf-8").read()
     c = t.count(OLD)
     if c != 1:

@@ -1,0 +1,171 @@
+# claims.yaml — the machine-readable half of specs/DECISION_LOG.md.
+#
+# Built 2026-09-09 to spec/SPEC_CLAIMS_REGISTRY_2026-09-09.md. The decision log holds sixty-plus
+# ruled entries with a Location column and had no consumer anywhere in the repo, so a ruling was
+# re-checked by nobody the moment the prose moved under it. This file is keyed by the log's own
+# ids — there is no second id space — and `claims.py` fails a run when a ruled fact's prose drifts.
+#
+# THE TWO CENSUSES, which are not the same number and must never be conflated:
+#
+#   applied   the spans that had to CHANGE to land the ruling. Closed the moment the ruling
+#             script runs. An incomplete application (N < M) is a shipcheck blocker.
+#   carriers  the spans that CARRY the fact from now on and must not drift. Open forever.
+#             Drift fails review.py and coherence.py and never stops a press, because it is
+#             ambiguous between a broken ruling and an improved sentence with a stale entry.
+#
+# CLAIM vs CANDIDATE. An entry with `ruled_by` is a claim and fails the run. An entry without one
+# is a candidate: a census somebody took that nobody has ruled. Candidates report and never fail,
+# because taking a census is a measurement rather than an authority.
+#
+# CARRIERS ARE PHRASES, NEVER LINE NUMBERS. Line numbers rot on the next insertion, and a false
+# failure is how a check gets switched off. A carrier is the shortest DISTINCTIVE span — short
+# enough to survive rewording that keeps the fact, distinctive enough not to collide. Those two
+# pull against each other: "twenty cards" looked like a good short carrier for the card cut and
+# matches "a hundred and twenty cards" on the enrollment page, which is the product deck and not
+# the cut mechanic. Prefer a span with a proper noun or a full clause in it.
+#
+# SCOPE RECORDS THE METHOD, NEVER THE TERRITORY. No entry may say it is complete. `scope` says
+# what search was run and what was read, so the next person can re-run it and find an eleventh.
+
+claims:
+
+  - id: DL-78
+    fact: >
+      The Controller decides how you behave once you are inside. Whether you go in at all is the
+      Protector's gate. Its shadow therefore bites at Open Up, the second move, and not before
+      Wake Up.
+    wrong_because: >
+      Three of the four spans that had to change carried the old fact entirely in metaphor — onto
+      the field, out of bounds at the whistle, made it into play — and shared no word with the
+      sentence that stated it. A search for the claim found one span of four, which is how the
+      paragraph came to contradict itself.
+    applied: "4 of 4"
+    ruled: 2026-09-09
+    ruled_by: >
+      Wendell, on the first application: "nonsense sentence." Fact ruled by the six-Face panel,
+      round 5, six of six. See specs/PANEL_PROOF_MARKS_6FACE_2026-09-09.md.
+    scope: >
+      Every file matching the string `Controller decides`, plus ch3 sections 5 and 6 read in full,
+      because the metaphor carriers match no search. Ten spans found by that method on 2026-09-09.
+      The spec said eleven; the measurement said ten, and the measurement is what is recorded here.
+    carriers:
+      - file: manuscript/ch2.md
+        phrase: "the Controller decides *how* you live"
+      - file: manuscript/ch3.md
+        phrase: "The Controller decides how."
+      - file: manuscript/ch3.md
+        phrase: "stops it at Open Up"
+      - file: manuscript/ch3.md
+        phrase: "It rules on your conduct rather than on the charge"
+      - file: manuscript/ch3.md
+        phrase: "which is Open Up"
+      - file: manuscript/ch4.md
+        phrase: "The Controller decides how you may behave once you get inside"
+      - file: manuscript/ch5.md
+        phrase: "The Controller decides how you may behave once you are inside"
+      - file: manuscript/ch6.md
+        phrase: "The Controller decides how you may behave once you get inside"
+      - file: manuscript/ch7.md
+        phrase: "The Controller decides how you may behave once you are inside"
+      - file: manuscript/ch8.md
+        phrase: "The Controller decides how you're allowed to behave once you're inside"
+
+  - id: DL-83
+    fact: >
+      The book does not carry a deck of twenty cards. The Face chapters teach moves, and the
+      reader's record is the character sheet and the six quests.
+    wrong_because: >
+      A removal has no carrier to guard. Nothing in the corpus states the fact, so the only way to
+      protect the ruling is to name the phrases that must not come back. The section headings are
+      the durable handle; the phrase "twenty cards" is not, because it is a substring of "a hundred
+      and twenty cards" on the enrollment page, which is the product deck and stays.
+    applied: "3 of 3"
+    ruled: 2026-09-09
+    ruled_by: >
+      Wendell: "It's too much and isn't adding things." Cut applied across ch3-ch9 by
+      cut_cards_ch3.py, cut_cards_ch4_9.py and cut_cards_residue.py.
+    scope: >
+      The three section headings the cut removed, searched across the whole declared corpus.
+      Reinstatement of the mechanic under new headings would not be caught by this entry.
+    forbidden:
+      - "Your Twenty Cards"
+      - "Drawing Against the Shadow"
+      - "From Card to Quest"
+
+  - id: DL-84
+    fact: >
+      Chapter section headings carry no construction scaffolding. The reader never sees a numbered
+      section label or a stage name borrowed from the model the chapters were built against.
+    wrong_because: >
+      The scaffolding survived multiple revisions because it looked like structure rather than
+      like a defect. Wendell, on the proof: "'Section 1: Urgency' is a stupid heading that's a
+      holdout from when I was creating the chapters based on the Kotter model. It doesn't mean
+      anything to a reader and yet it snuck into multiple revisions."
+    applied: "70 of 70"
+    ruled: 2026-09-09
+    ruled_by: "Wendell, on the printed proof, 2026-09-09."
+    scope: >
+      Every H2 in manuscript/ch2.md through ch9.md, rewritten by strike_scaffolding.py, and every
+      in-prose reference to a numbered section. headings.py guards the heading shape continuously;
+      this entry guards the label vocabulary.
+    forbidden:
+      - "## Section 1:"
+      - "## Section 2:"
+
+  # ---------------------------------------------------------------------------------------
+  # The banned words. These four were ruled one at a time by Wendell and lived in editorial.yaml
+  # as bare patterns with no id and no reason beside them, so the argument for each was recoverable
+  # only from a person's memory. gate.py is the enforcer and stays the enforcer — it carries the
+  # carve-outs, and a second, dumber scanner here would disagree with it. What these entries check
+  # is that the RULE IS STILL DECLARED: delete a pattern from editorial.yaml and the ruling dies
+  # silently today, and fails this check from now on.
+
+  - id: DL-79
+    fact: "The word `rooms` is banned from this book's prose."
+    wrong_because: >
+      The ban exists to force a sentence to be rebuilt. A synonym satisfies the counter and evades
+      the work, which is how `quiet` became `careful` in a sentence where careful means nothing.
+    applied: "1 of 1"
+    ruled: 2026-07-29
+    ruled_by: "Wendell, 2026-07-29. Plural form ruled the same day."
+    scope: "The pattern as declared in editorial.yaml's banned list; enforcement is gate.py's."
+    declared_in: editorial.yaml
+    declares: "rooms?"
+
+  - id: DL-80
+    fact: "The word `quiet`, in every inflection, is banned from this book's prose."
+    wrong_because: >
+      This is the ruling that produced the repo's standing example of evasion. The sentence wanted
+      "the table goes quiet", the ban blocked it, and "careful" went in instead — a word that does
+      not collocate with `go` and so means nothing. The gate passed clean over it.
+    applied: "1 of 1"
+    ruled: 2026-07-29
+    ruled_by: "Wendell, 2026-07-29."
+    scope: "The pattern as declared in editorial.yaml's banned list; enforcement is gate.py's."
+    declared_in: editorial.yaml
+    declares: "quiet(ly|er|est)?"
+
+  - id: DL-81
+    fact: "The word `genuinely` is banned from this book's prose."
+    wrong_because: >
+      An intensifier that asserts sincerity is the shape of a sentence that has not earned it.
+    applied: "1 of 1"
+    ruled: 2026-07-29
+    ruled_by: "Wendell, 2026-07-29."
+    scope: "The pattern as declared in editorial.yaml's banned list; enforcement is gate.py's."
+    declared_in: editorial.yaml
+    declares: "genuinely"
+
+  - id: DL-82
+    fact: "The word `thing`, singular and plural, is banned from this book's prose."
+    wrong_because: >
+      Wendell: "It's not in my writing style to use the word 'thing' because of how unspecific it
+      is." Promoting it to the banned counter is what made the empty-head defect visible at all —
+      the body went to zero and the gate still failed on twenty-eight sites in the appendices,
+      which had never been held to the standing list.
+    applied: "1 of 1"
+    ruled: 2026-07-31
+    ruled_by: "Wendell, 2026-07-31."
+    scope: "The pattern as declared in editorial.yaml's banned list; enforcement is gate.py's."
+    declared_in: editorial.yaml
+    declares: "things?"

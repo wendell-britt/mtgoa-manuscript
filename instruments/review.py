@@ -221,6 +221,34 @@ def draft(paths):
     return bad
 
 
+# FR-F1 to FR-F5 of specs/SPEC_CLAIMS_REGISTRY_2026-09-09.md. Wendell, on a board that read
+# "Gate, xref, coherence, headings, seam sweep, round-trip, and the sheet check all pass":
+# *"I don't know what all pass means and I've learned enough not to trust whatever that is."*
+#
+# He was right, and the reason is that every board here reported the checks that RAN and said
+# nothing about the classes of defect no instrument covers. A green board then carried an
+# implication nothing had earned. The paragraph that caused this had four sentences arguing two
+# different things; the full pass returned one flag, on a different sentence.
+#
+# One declaration, printed by every board that prints a verdict, so a future instrument cannot
+# silently shrink it. shipcheck.py imports THIS constant rather than keeping its own copy.
+BOUNDARY = [
+    "not checked by anything here:",
+    "  whether every sentence in a paragraph is committed to the same claim",
+    "  whether a ruled fact is carried somewhere this pass did not look",
+    "  whether the sentence is true",
+    "  whether this is the right paragraph at all",
+    "nothing above runs on its own: there is no hook in this repo and nothing fires on commit.",
+]
+
+
+def boundary():
+    """FR-F4: prints on a clean run too. A boundary that appears only on failure teaches nothing."""
+    print("")
+    for line in BOUNDARY:
+        print("  %s" % line)
+
+
 def book():
     steps = [
         ("0 voice     ", ["marginalia/review.py"], None),
@@ -294,6 +322,12 @@ def book():
         # that the editorial pipeline is coherent and consistent." Wiring integrity, baseline
         # drift, register and orphan checks. This is coherence.py's call site -- without one it
         # would be the orphan it warns about. See specs/EDITORIAL_PIPELINE_COHERENCE_2026-09-03.md.
+        # 7k added 2026-09-09 with claims.py. The ruled facts of this book, and whether the
+        # prose still carries them. Drift is AMBIGUOUS -- a broken ruling, or an improved
+        # sentence with a stale entry -- so it reports here and never stops a press; the
+        # unambiguous half, a ruling applied to some of its spans and not the rest, is a
+        # shipcheck blocker instead. See specs/SPEC_CLAIMS_REGISTRY_2026-09-09.md.
+        ("7k claims  ", ["instruments/claims.py"], None),
         ("9 coherence", ["instruments/coherence.py"], "COHERENCE PASS"),
     ]
     bad = 0
@@ -367,6 +401,7 @@ def main():
     print("review — %s" % ("draft" if paths else "book-wide"))
     bad = draft(paths) if paths else book()
     print("\n%s" % ("clean" if not bad else "%d thing(s) to look at" % bad))
+    boundary()
     return 0
 
 

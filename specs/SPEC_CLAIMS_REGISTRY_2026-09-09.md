@@ -21,7 +21,7 @@ source:
   - specs/DECISION_LOG.md
   - instruments/coherence.py
   - instruments/agency_registry.yaml
-status: specified, not built; seven questions ruled across two panels 2026-09-09; worked example performed
+status: BUILT 2026-09-09; seven questions ruled across two panels; five further defects found by building it and recorded in section 10
 ---
 
 # The claims registry
@@ -127,7 +127,7 @@ Each is testable. `MUST` is a build requirement; `MUST NOT` is a refusal the pan
   `applied` counts the spans that had to **change** to land the ruling; it is closed the moment the
   ruling script runs, and it feeds the ship blocker. `carriers` lists the spans that **carry** the
   fact from now on; it stays open forever, and it feeds the drift check. For DL-78 these are four
-  and eleven. *(Panel round two, Q4. The first draft of FR-E3 asserted one against the other and
+  and ten. *(Panel round two, Q4. The first draft of FR-E3 asserted one against the other and
   would have refused to run on its own worked example.)*
 - **FR-C1a** `id` MUST be a `DL-nn` id from `DECISION_LOG.md`. There is no second id space.
   `claims.yaml` is the machine-readable half of the decision log, and keying the live check to the
@@ -137,7 +137,7 @@ Each is testable. `MUST` is a build requirement; `MUST NOT` is a refusal the pan
   they rot on the next insertion and a false failure is how a check gets switched off.
 - **FR-C3** A carrier MUST be the shortest distinctive span that carries the claim, never the whole
   sentence. `Controller decides how` survives every rewording that keeps the fact and breaks only
-  when the fact breaks. Eleven long carriers is a tripwire across a corridor; eleven short ones is
+  when the fact breaks. Ten long carriers is a tripwire across a corridor; ten short ones is
   a guard, and the difference decides whether the check is used or deleted. *(Promoted from SHOULD
   by the panel, round two, Q4.)*
 - **FR-C4** `instruments/claims.py` MUST verify that every carrier phrase occurs **exactly once**
@@ -154,7 +154,7 @@ Each is testable. `MUST` is a build requirement; `MUST NOT` is a refusal the pan
   `claims.py` MUST report candidates and MUST NOT fail on them. Anyone may add one, because a
   census is a measurement rather than an authority. An entry with `ruled_by` is a **claim**, and
   claims fail. *(Panel 2026-09-09, Q3.)*
-- **FR-C10** A claim whose `status` reads `N of M` with `N < M` MUST be a `shipcheck.py` blocker.
+- **FR-C10** A claim whose `applied` reads `N of M` with `N < M` MUST be a `shipcheck.py` blocker.
   Unlike carrier drift this is unambiguous — the work was started and not finished — and it meets
   shipcheck's own test of *incomplete in a reader's hands*. `rescan.py` already ranks a claim error
   first, as *"the most expensive to ship."*
@@ -172,8 +172,11 @@ Each is testable. `MUST` is a build requirement; `MUST NOT` is a refusal the pan
   is therefore worthless. *(Panel round two, Q5.)*
 - **FR-C6** `claims.py` MUST be wired into `review.py`'s book-wide pass as a numbered step.
 - **FR-C7** `coherence.py` MUST gain a check that validates the registry's own shape: every entry
-  has at least one carrier, every named file exists, every `status` count equals the number of
-  carriers listed, and no two entries share an id.
+  guards **something** (a carrier, a forbidden phrase, or a declared pattern), every named file
+  exists, every `applied` value parses as `N of M`, every id is a `DL-nn` that appears in
+  `DECISION_LOG.md`, and no two entries share an id. **The requirement previously read *"every
+  status count equals the number of carriers listed"*, which contradicts FR-C1b and was not
+  implemented as written.** See §10.
 - **FR-C8** The registry MUST NOT be a reporting-only instrument. The panel's ruling: a document
   that does not fail a run decays into a claim about the past, and `DECISION_LOG` is the proof.
 
@@ -238,14 +241,14 @@ Protector's gate.*
 | census | count | spans |
 |---|---|---|
 | `applied` — had to change | **4** | four spans in `ch3:640`, the rebuilt paragraph |
-| `carriers` — carry it now | **11** | `ch2:286`; `ch3:628`; two in `ch3:640`; `ch3:887`; and the five remit sentences at `ch4:512`, `ch5:523`, `ch6:382`, `ch7:555`, `ch8:540` |
+| `carriers` — carry it now | **10** | `ch2:286`; `ch3:628`; two in `ch3:640`; `ch3:887`; and the five remit sentences at `ch4:512`, `ch5:523`, `ch6:382`, `ch7:555`, `ch8:540` |
 
 `scope` as recorded for this entry: *"every file matching `Controller decides`, plus ch3 §5 and §6
 read in full, because three of the four changed spans carried the old fact in metaphor and matched
 no search."*
 
 **What the run refuted.** The first draft of FR-E3 asserted that a ruling script's edit count
-equals its carrier count. Four is not eleven. **The requirement would have refused to run on the
+equals its carrier count. Four is not ten. **The requirement would have refused to run on the
 one ruling this spec was written to seed itself with**, and two panels had passed it. FR-C1b and
 FR-E3 are the corrections.
 
@@ -292,25 +295,53 @@ script is a refusal, and the census becomes a build requirement rather than a di
   **claim** and fails the run. Gating entry would make the registry a record of Wendell's
   availability, and a thin registry implies a coverage it does not have. See FR-C9.
 
-## 9 · Build order and status
+## 9 · Build order and status — all built 2026-09-09
 
-| | item | state |
+| | item | file |
 |---|---|---|
-| 1 | **F** — boundary line in `review.py` | specified |
-| 2 | **C** — `claims.yaml` + `claims.py`, wired into `review.py` and `coherence.py`, seeded with DL-78 | specified |
-| 3 | **E** — `CLAIM` / `CARRIERS` declaration and the shared refusal helper | specified |
-| 3b | **DL-78** written into `DECISION_LOG.md` with its Location column and a counted status | specified |
-| 3c | **shipcheck** category for an incomplete application (FR-C10), and the boundary line on its board | specified |
-| 3d | **forbidden-carrier tier** (FR-C12), and DL ids for `gate.py`'s four banned words (FR-B3) | specified |
-| 4 | **D** — diff alarm, naming the claim | specified, deferred until C ships |
+| 1 | **F** — boundary line on every verdict board | `review.py` (`BOUNDARY`, one declaration), `shipcheck.py` borrows it |
+| 2 | **C** — the registry and its checker | `instruments/claims.yaml`, `instruments/claims.py` |
+| 2b | wired into the book-wide pass and the pipeline's self-check | `review.py` step `7k claims`; `coherence.py` check `claims` |
+| 3 | **E** — the `CLAIM` declaration and the refusal helper | `instruments/ruling.py`, retrofitted onto `controller_bite_para.py` |
+| 3b | **DL-78** through **DL-84** written into the log | `specs/DECISION_LOG.md` |
+| 3c | **shipcheck** category 7, a ruling half-applied | `instruments/shipcheck.py` |
+| 3d | the forbidden tier, and DL ids for the four banned words | `instruments/claims.yaml` |
+| 4 | **D** — the diff alarm, naming the claim | `instruments/paragraph_diff.py` |
 | 5 | **B** — retrofit on contact | standing rule, no work item |
 
-## 10 · Open questions after two panels
+**Seeded with seven entries guarding fifteen spans and phrases, against eighty-four rulings in the
+decision log.** `claims.py` prints that ratio on every run, because a seven-entry registry must
+never read like coverage of the book.
 
-None outstanding. Q1 to Q3 were ruled in the first panel, Q4 to Q7 in the second. **Anything found
-by running a mechanism against a worked example goes here as a new question rather than as a
-correction made quietly**, because the record of what the spec got wrong is the part that
-generalizes.
+## 10 · What building it refuted
+
+**Anything found by running a mechanism against a worked example goes here rather than being
+corrected quietly**, because the record of what the spec got wrong is the part that generalizes.
+Q1 to Q3 were ruled in the first panel, Q4 to Q7 in the second. Building it on 2026-09-09 found
+five more, and none was a question — all five were defects in text two panels had passed.
+
+1. **FR-C7 contradicted FR-C1b.** It required that *"every status count equals the number of
+   carriers listed."* Round two had already ruled that `applied` and `carriers` are two different
+   censuses, and DL-78 is 4 and 10. Implementing it as written would have failed the registry on
+   its own seed entry. Rewritten above.
+2. **The carrier count was wrong again: eleven asserted, ten measured.** This is the third
+   arithmetic error in the same body of work, after *four moves* where three follow Open Up. The
+   pattern is now explicit: **a count asserted in prose gets believed, and only a count produced
+   by a command is a measurement.** The registry's `scope` field stores the command for that
+   reason.
+3. **`shortest` and `distinctive` pull against each other, and FR-C3 named only one.**
+   `twenty cards` is the obvious short carrier for the card-cut ruling and it matches *"a hundred
+   and twenty cards"* on the enrollment page, which is the physical product deck and stays. DL-83
+   records the near-miss and guards three section headings instead.
+4. **The shape check did not check what FR-C7 said it checked.** Acceptance test A7 named a
+   carrier file that does not exist and `coherence.py` printed `claims ok clean`, because the
+   drift check caught it on a different run and the shape check, whose job it was, never looked.
+   **The acceptance table earned itself on first use.** Fixed.
+5. **The forbidden tier needed two shapes, not one.** FR-C12 assumed a single scan. `gate.py`
+   already enforces the four banned words and carries the carve-outs, so a second scanner here
+   would disagree with it. Those entries use `declares` and check that **the rule is still
+   declared in `editorial.yaml`**; a removal with no existing enforcer, like DL-83, is scanned
+   directly.
 
 ## The standing rules
 

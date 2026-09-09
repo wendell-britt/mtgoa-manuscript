@@ -28,7 +28,7 @@ about it.
 
 DL-78's fact is *the Controller decides how you behave once inside; whether you go in is the
 Protector's gate.* The spec seeds the entry with **four carriers**, which were the four spans in
-one paragraph that had to change. The fact is actually carried in **eleven spans across seven
+one paragraph that had to change. The fact is actually carried in **ten spans across seven
 files**:
 
 | where | what carries it |
@@ -40,7 +40,7 @@ files**:
 | `ch4:512` `ch5:523` `ch6:382` `ch7:555` `ch8:540` | five near-identical remit sentences |
 
 **FR-E3 would refuse to run on the very ruling it was written for.** It asserts that a script's
-edit count equals the carrier count. Four spans needed changing; eleven carry the fact. The two
+edit count equals the carrier count. Four spans needed changing; ten carry the fact. The two
 numbers are not the same number and the spec treats them as one.
 
 **Q4.** A census has two jobs. Which one is `CARRIERS`?
@@ -72,8 +72,8 @@ half of the census and imply the hard half was done.
 ## CHALLENGER · the Line — *"complete" is a word this registry may not use*
 
 Q5 has an unwelcome answer: **you can never prove a census is complete, so the entry must not
-claim to be.** Eleven carriers today; a twelfth arrives the next time somebody writes the word
-Controller. An entry that says *carriers: 11* is read as *there are eleven*, and it will be wrong
+claim to be.** Ten carriers today; an eleventh arrives the next time somebody writes the word
+Controller. An entry that says *carriers: 10* is read as *there are ten*, and it will be wrong
 within a month.
 
 So the field records **where you looked**, not what exists. *"Every file matching `Controller
@@ -127,9 +127,9 @@ this. **Say so in the spec rather than letting the wiring imply automation that 
 
 **Votes:** fix FR-E3. Two fields. Name the residual dependency on a person instead of hiding it.
 
-## DIPLOMAT · the Table — *eleven carriers is where this gets abandoned*
+## DIPLOMAT · the Table — *ten carriers is where this gets abandoned*
 
-The last panel set the constraint: resolution must cost one line. Now look at what eleven carriers
+The last panel set the constraint: resolution must cost one line. Now look at what ten carriers
 across seven files does to that promise. Rewrite ch5's daemon-door paragraph and the run goes red
 on a claim ruled in ch3, about the Controller, in a session about the Regent. That is the moment
 somebody deletes an entry.
@@ -137,7 +137,7 @@ somebody deletes an entry.
 **So the number matters to adoption, and the fix is in FR-C3, which is already written and needs
 teeth.** A carrier is *the shortest distinctive span*, not the sentence. `Controller decides how`
 survives every rewording of those five near-identical sentences that keeps the fact; it breaks only
-when the fact breaks. Eleven long carriers is a tripwire across the corridor. Eleven short ones is
+when the fact breaks. Ten long carriers is a tripwire across the corridor. Ten short ones is
 a guard.
 
 The Diplomat's second point, on Q6: **a forbidden phrase is cheaper to satisfy than a required
@@ -179,7 +179,8 @@ example as a precondition for calling a spec specified.
   script asserts its edit count against **this**. `N < M` is the shipcheck blocker.
 - `carriers: [...]` — the spans that now **carry** the fact and must not drift. Open forever. This
   feeds the board-level drift check.
-- DL-78 is therefore `applied: 4 of 4`, `carriers:` eleven spans across seven files.
+- DL-78 is therefore `applied: 4 of 4`, `carriers:` ten spans across seven files. *(The panel
+  said eleven; building it counted ten. Corrected on the measurement.)*
 
 **Q5 — a census records its scope, never its completeness.** The entry carries a `scope` field
 naming the search performed: the grep, written out so it can be re-run, and the sections read in

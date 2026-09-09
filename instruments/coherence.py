@@ -217,6 +217,23 @@ def check_doc_figures():
     return findings
 
 
+def check_claims():
+    """FR-C7: the claims registry checked against itself.
+
+    Added 2026-09-09. `claims.yaml` is the machine-readable half of DECISION_LOG.md, so it can
+    go wrong in the ways a register goes wrong: an id that is not the log's, an entry that
+    guards nothing, a carrier with a line number in it, an `applied` count that is not `N of M`.
+    A registry nobody validates is the failure it was built to fix, one level up.
+    """
+    import importlib.util
+    spec = importlib.util.spec_from_file_location("claims", os.path.join(HERE, "claims.py"))
+    if spec is None or not os.path.exists(os.path.join(HERE, "claims.py")):
+        return ["claims.py is named in the pipeline but missing"]
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod.shape()
+
+
 CHECKS = [
     ("manifest ", check_manifest, True),
     ("wiring   ", check_wiring, True),
@@ -225,6 +242,7 @@ CHECKS = [
     ("register ", check_register, True),
     ("orphan   ", check_orphan, True),
     ("doc-figure", check_doc_figures, False),   # reports, does not fail the board
+    ("claims   ", check_claims, True),          # the registry's own shape, not the prose
 ]
 
 
