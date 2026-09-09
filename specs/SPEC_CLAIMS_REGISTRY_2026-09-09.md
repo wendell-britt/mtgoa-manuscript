@@ -16,11 +16,12 @@ review: 2026-09-23
 source:
   - specs/PANEL_CENSUS_GAP_6FACE_2026-09-09.md
   - specs/PANEL_CLAIMS_REGISTRY_OPEN_Q_6FACE_2026-09-09.md
+  - specs/PANEL_CLAIMS_REGISTRY_OPEN_Q2_6FACE_2026-09-09.md
   - specs/EDITORIAL_PIPELINE_COHERENCE_2026-09-03.md
   - specs/DECISION_LOG.md
   - instruments/coherence.py
   - instruments/agency_registry.yaml
-status: specified, not built; all three open questions ruled by panel 2026-09-09
+status: specified, not built; seven questions ruled across two panels 2026-09-09; worked example performed
 ---
 
 # The claims registry
@@ -96,8 +97,10 @@ Each is testable. `MUST` is a build requirement; `MUST NOT` is a refusal the pan
 
 ### F · The boundary line — *ships first, costs one function*
 
-- **FR-F1** Every board `review.py` prints, on both the draft and book-wide paths, MUST end with a
-  line naming the classes of defect nothing in the pass checks.
+- **FR-F1** Every board that prints a **verdict** MUST end with a line naming the classes of defect
+  nothing in the pass checks. That is `review.py` on both paths and **`shipcheck.py`**, whose
+  *"SHIPPABLE — no blocker outstanding"* is true only within its six categories and reads as a
+  verdict on the book. *(Panel round two, Q7.)*
 - **FR-F2** That text MUST come from one declaration in `review.py`, not be written per board, so
   a future instrument cannot silently shrink it.
 - **FR-F3** The boundary MUST name at least: whether every sentence in a paragraph is committed to
@@ -106,21 +109,37 @@ Each is testable. `MUST` is a build requirement; `MUST NOT` is a refusal the pan
 - **FR-F4** The line MUST print on a clean run. A boundary that appears only on failure teaches
   nothing.
 
+- **FR-F5** The spec and the boards MUST state the residual dependency plainly: **there is no hook
+  in this repo.** No `.claude/settings.json`, no hooks directory, nothing that runs on commit. Every
+  instrument here fires because a person typed its name. Wiring `claims.py` into `coherence.py` is
+  correct and does not change this, and the wiring MUST NOT be allowed to imply automation that
+  does not exist. *(Panel round two, Q7.)*
+
 *Precedent: `review.py` step 8 already does this once, for the slop pass. This generalizes it.*
 
 ### C · The registry — *the substrate*
 
 - **FR-C1** `instruments/claims.yaml` holds one entry per ruled content fact, with: `id`, `fact`
   (one sentence), `wrong_because` (the symptom — why the carriers were easy to miss),
-  `carriers` (a list of `{file, phrase}`), `status` (`N of M`), `ruled` (date), `ruled_by`.
+  `applied` (`N of M`), `carriers` (a list of `{file, phrase}`), `scope` (how the census was
+  taken), `ruled` (date), `ruled_by`.
+- **FR-C1b** `applied` and `carriers` are **two different censuses and MUST NOT be conflated.**
+  `applied` counts the spans that had to **change** to land the ruling; it is closed the moment the
+  ruling script runs, and it feeds the ship blocker. `carriers` lists the spans that **carry** the
+  fact from now on; it stays open forever, and it feeds the drift check. For DL-78 these are four
+  and eleven. *(Panel round two, Q4. The first draft of FR-E3 asserted one against the other and
+  would have refused to run on its own worked example.)*
 - **FR-C1a** `id` MUST be a `DL-nn` id from `DECISION_LOG.md`. There is no second id space.
   `claims.yaml` is the machine-readable half of the decision log, and keying the live check to the
   log's ids is what makes sixty unread rulings load-bearing. The Controller ruling enters as
   **DL-78**. *(Panel 2026-09-09, Q2. Supersedes the withdrawn `CLM-nn` proposal.)*
 - **FR-C2** Carriers MUST be verbatim quoted spans. Line numbers MUST NOT appear in a carrier;
   they rot on the next insertion and a false failure is how a check gets switched off.
-- **FR-C3** A carrier SHOULD be the shortest distinctive span that carries the claim, not the whole
-  sentence, so that routine copyediting does not trip it.
+- **FR-C3** A carrier MUST be the shortest distinctive span that carries the claim, never the whole
+  sentence. `Controller decides how` survives every rewording that keeps the fact and breaks only
+  when the fact breaks. Eleven long carriers is a tripwire across a corridor; eleven short ones is
+  a guard, and the difference decides whether the check is used or deleted. *(Promoted from SHOULD
+  by the panel, round two, Q4.)*
 - **FR-C4** `instruments/claims.py` MUST verify that every carrier phrase occurs **exactly once**
   in its named file.
 - **FR-C5** A missing or duplicated carrier MUST fail the run with a nonzero exit, naming the
@@ -142,6 +161,15 @@ Each is testable. `MUST` is a build requirement; `MUST NOT` is a refusal the pan
 - **FR-C11** `claims.py` output MUST state its coverage: how many rulings are guarded, and how many
   `DECISION_LOG` entries have no registry entry. A six-entry registry MUST NOT print a board that
   reads like coverage of the book.
+- **FR-C12** A carrier MAY be **forbidden**: a phrase that must not appear anywhere in the corpus.
+  This is how a ruling of removal is guarded, such as the card cut. `gate.py`'s banned list is this
+  tier already, built without ids or reasons, and its four entries earn DL ids under FR-B3.
+  Absence is the cheap case rather than the exotic one, because the fix is always deletion.
+  *(Panel round two, Q6.)*
+- **FR-C13** No entry may assert completeness. `scope` records **the method, not the territory**:
+  the grep written out so it can be re-run, and the sections read in full where no search could
+  reach. A count is what a stated method found on a stated day. *"Complete"* is not falsifiable and
+  is therefore worthless. *(Panel round two, Q5.)*
 - **FR-C6** `claims.py` MUST be wired into `review.py`'s book-wide pass as a numbered step.
 - **FR-C7** `coherence.py` MUST gain a check that validates the registry's own shape: every entry
   has at least one carrier, every named file exists, every `status` count equals the number of
@@ -153,7 +181,9 @@ Each is testable. `MUST` is a build requirement; `MUST NOT` is a refusal the pan
 
 - **FR-E1** A script that applies a content ruling MUST declare `CLAIM` and `CARRIERS`.
 - **FR-E2** It MUST refuse to run when `CLAIM` has no entry in the registry.
-- **FR-E3** It MUST refuse to run when its number of edits does not equal `CARRIERS`.
+- **FR-E3** It MUST refuse to run when its number of edits does not equal the entry's `applied`
+  total. **It MUST NOT be asserted against `carriers`**, which counts a different census taken at
+  a different time. *(Defect found by running §5's worked example; panel round two, Q4.)*
 - **FR-E4** The declaration MUST cost two lines and one import. A control that is expensive at the
   moment of use gets satisfied rather than obeyed, and this book has the `quiet` → `careful`
   substitution on file as the proof.
@@ -175,6 +205,9 @@ Each is testable. `MUST` is a build requirement; `MUST NOT` is a refusal the pan
   2026-09-09; the original wording asked only for shared vocabulary.)*
 - **FR-B2** Existing decision-log entries MUST NOT be retrofitted on a sweep. An entry earns a
   claims entry when the prose it rules is next touched.
+- **FR-B3** `gate.py`'s four banned words — `rooms?`, `quiet`, `genuinely`, `things?` — are rulings
+  with no ids and no reasons recorded beside them. Each earns a DL id under FR-C12, so the banned
+  list stops being a set of prohibitions whose reasons live only in a person's memory.
 
 ## 5 · Acceptance
 
@@ -186,15 +219,35 @@ Concrete, in order. Each is a command and an expected result.
 | **A2** | `python3 instruments/review.py` | same boundary line, book-wide path |
 | **A3** | `python3 instruments/claims.py` with the registry as shipped | exit 0, every carrier found once |
 | **A4** | edit one carrier span in `manuscript/ch3.md`, re-run | exit nonzero, names DL-78, the fact, the file, the phrase |
+| **A4b** | edit the remit sentence in `manuscript/ch6.md` | exit nonzero, names DL-78 — a carrier three chapters from where the ruling was made |
+| **A10** | a forbidden carrier phrase reintroduced anywhere in the corpus | exit nonzero, names the claim that removed it |
+| **A11** | `python3 instruments/shipcheck.py` | board ends with the boundary line |
 | **A5** | restore the span, re-run | exit 0 |
 | **A6** | duplicate a carrier span elsewhere in the same file | exit nonzero, reports the phrase as ambiguous |
 | **A7** | `python3 instruments/coherence.py` with a registry entry whose file does not exist | that check fails and names the entry |
 | **A8** | a ruling script declaring `CARRIERS = 4` with one edit | refuses, writes nothing, exit nonzero |
 | **A9** | `python3 instruments/review.py` book-wide | the claims step appears on the board as its own row |
 
-**The seeding test, which is the one that matters.** DL-78 is entered with the four carriers from
-§1, in their current corrected wording. A5 and A4 together demonstrate the guard that was missing
-when the defect was made.
+**The seeding test, which is the one that matters — performed, 2026-09-09.** A spec that proposes a
+mechanism is not *specified* until its worked example has been run against the mechanism in
+writing. Running it here refuted a requirement, which is the whole argument for the rule.
+
+DL-78's fact: *the Controller decides how you behave once inside; whether you go in is the
+Protector's gate.*
+
+| census | count | spans |
+|---|---|---|
+| `applied` — had to change | **4** | four spans in `ch3:640`, the rebuilt paragraph |
+| `carriers` — carry it now | **11** | `ch2:286`; `ch3:628`; two in `ch3:640`; `ch3:887`; and the five remit sentences at `ch4:512`, `ch5:523`, `ch6:382`, `ch7:555`, `ch8:540` |
+
+`scope` as recorded for this entry: *"every file matching `Controller decides`, plus ch3 §5 and §6
+read in full, because three of the four changed spans carried the old fact in metaphor and matched
+no search."*
+
+**What the run refuted.** The first draft of FR-E3 asserted that a ruling script's edit count
+equals its carrier count. Four is not eleven. **The requirement would have refused to run on the
+one ruling this spec was written to seed itself with**, and two panels had passed it. FR-C1b and
+FR-E3 are the corrections.
 
 ## 6 · What this would have caught, and what it would not
 
@@ -247,11 +300,23 @@ script is a refusal, and the census becomes a build requirement rather than a di
 | 2 | **C** — `claims.yaml` + `claims.py`, wired into `review.py` and `coherence.py`, seeded with DL-78 | specified |
 | 3 | **E** — `CLAIM` / `CARRIERS` declaration and the shared refusal helper | specified |
 | 3b | **DL-78** written into `DECISION_LOG.md` with its Location column and a counted status | specified |
-| 3c | **shipcheck** category for an incomplete application (FR-C10) | specified |
+| 3c | **shipcheck** category for an incomplete application (FR-C10), and the boundary line on its board | specified |
+| 3d | **forbidden-carrier tier** (FR-C12), and DL ids for `gate.py`'s four banned words (FR-B3) | specified |
 | 4 | **D** — diff alarm, naming the claim | specified, deferred until C ships |
 | 5 | **B** — retrofit on contact | standing rule, no work item |
 
-## The standing rule
+## 10 · Open questions after two panels
+
+None outstanding. Q1 to Q3 were ruled in the first panel, Q4 to Q7 in the second. **Anything found
+by running a mechanism against a worked example goes here as a new question rather than as a
+correction made quietly**, because the record of what the spec got wrong is the part that
+generalizes.
+
+## The standing rules
 
 **A ruling that does not name its carriers has not been applied; it has been started.** The count
 is what makes a partial application visible, and *applied* is not a status. *4 of 4* is.
+
+**A spec that proposes a mechanism is not specified until its worked example has been run against
+the mechanism, in writing.** This spec was written, ruled by a panel, and committed while carrying
+a requirement its own example refutes. Reviewed is not tested. *(Panel round two.)*
