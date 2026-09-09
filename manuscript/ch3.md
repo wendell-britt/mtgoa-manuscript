@@ -768,45 +768,45 @@ In practice: the sign is the urge to sit up straight and sound reasonable. That 
 
 **Why it matters:** The practice taught you to name the channel for yourself, and naming it for yourself completes the interior move. It does nothing to the situation. The situation still has several people running different channels at once with none of them named, which makes hard conversations feel like weather: pressure changing, no vocabulary for it, everyone reacting to something they cannot point at.
 
-Named out loud, the channel stops being weather and becomes an object on the table. *There is a lot of fear in this conversation.* *I think what is actually here is sadness, and we keep treating it as a disagreement.* You are not diagnosing anyone. You are saying what the field runs, which hands everybody something to work with other than the content.
+Named out loud, the channel stops being weather and becomes an object on the table. *There is a lot of fear in this conversation.* *I think what is actually here is sadness, and we keep treating it as a disagreement.* You are not diagnosing anyone. You are reporting what the field is doing, which hands everybody something to work with other than the content.
 
-In practice: use the channel word, not the euphemism. *Anger* rather than *frustration.* *Fear* rather than *concern.* *Sadness* rather than *disappointment.* The euphemisms exist to keep the channel deniable, and nobody can work a deniable channel, including you.
+In practice: use the channel word, not the euphemism. *Anger* rather than *frustration.* *Fear* rather than *concern.* *Sadness* rather than *disappointment.* The euphemisms exist to keep the channel deniable. Nobody can work a deniable channel, including you.
 
-**Example:** A retro has spent twenty minutes on process. Nobody has said that Ravi flagged this in March and got told it was fine, and you can name two other times that happened to him and to nobody else. Annoyance is the wrong name for what you feel. What you feel is fear, because saying it means saying something about this team out loud. That is Metal. Say it: *I think we are avoiding a word. Ravi raised this in March, and I would like to know why that landed differently.* You become the difficult one in that retro and in the next one. What the team does with it is the team's.
+**Example:** A retro has spent twenty minutes on process. Nobody has said that Ravi flagged this in March and got told it was fine. You can name two other times that happened to him and to nobody else. Annoyance is the wrong name for what you feel. What you feel is fear, Metal, because saying it means saying something about this team out loud. Say it: *I think we are avoiding a word. Ravi raised this in March, and I would like to know why that was received differently.* You become the difficult one in that retro and in the next one. What the team does with it is the team's.
 
 **The test:** You said it out loud, in the moment, where someone could disagree with it. Agreement is theirs to give or withhold. A channel named only to yourself belongs to the interior practice.
 
 ### Move 4 · Grow Up — Say What You Can Do Now
 
-**What it is:** After the read lands, name the capability it left behind. One sentence, present tense.
+**What it is:** After the reading, name the capability it left behind. One sentence, present tense.
 
-**Why it matters:** A read you understand and then set down leaves you where you started with better vocabulary. This stage converts information into equipment. Fear that showed you what matters becomes a value you hold rather than one you argue for. Anger that showed you a line becomes a line you are allowed to have. The feeling stops being something that happened to you and becomes something you own.
+**Why it matters:** A reading you understand and then set down leaves you where you started with better vocabulary. This stage converts information into equipment. Fear that showed you what matters becomes a value you hold rather than one you argue for. Anger that showed you a line becomes a line you may hold. The feeling stops being something that happened to you and becomes something you own.
 
 In practice: say it to your own nervous system, plainly, in the seconds after the read. *I get it. The message landed.* Then finish the sentence with the equipment. *I can tell when a plan is being agreed to and not believed.* *I can hold a hard look without going away.*
 
-**Example:** You noticed months ago that your sister Jo is not disorganized, and that every family visit costs her something it does not cost the rest of you. Neither of you has a word for it. You were right, and being right bought her nothing. Say what you can do now, to her, once: *I can tell the difference between someone struggling and a weekend that is expensive for one person. I am going to say so at the table before I can prove it.* If you have misread it, she watches you misread it. What she does with it is hers, including nothing.
+**Example:** You noticed months ago that your sister Jo is not disorganized, and that every family visit costs her something it does not cost the rest of you. Neither of you has a word for it. You were right. Being right bought her nothing. Say what you can do now, to her, once: *I can tell the difference between someone struggling and a weekend that is expensive for one person. I am going to say so at the table before I can prove it.* If you have misread it, she watches you misread it. What she does with it, including nothing, is hers.
 
-**The test:** You can state the capability in the present tense with no story attached. If the sentence only makes sense once you explain the meeting, it has not landed yet.
+**The test:** You can state the capability in the present tense with no story attached. If the sentence only makes sense once you explain the meeting, it has not taken yet.
 
 ### Move 5 · Show Up — Say the Unsaid Charge
 
 **What it is:** You say the read, what moves underneath the stated discussion, to the people it concerns, while it is live.
 
-**Why it matters:** This is the Shaman's steepest move, the one the entire chapter exists to make possible. Every conversation has a stated content and an actual one. The stated content is the agenda item, the disagreement, the plan. The actual one is what the people in it do to each other and with each other, and it drives the outcome regardless of whether anybody names it.
+**Why it matters:** The entire chapter exists to make this move possible. Every conversation carries two contents. The stated one is the agenda item, the disagreement, the plan. The actual one is what the people in it do to each other and with each other, and it drives the outcome regardless of whether anybody names it.
 
-The Challenger has a move that looks like this from the outside and is a different animal. *Name the Unnameable* points at a violation: something happened, everyone saw it, nobody stated it, and stating it draws a line. This one points at what runs underneath, which may involve no violation at all. The Challenger names what is unacceptable. The Shaman names what is true. One of them creates a boundary. The other creates contact.
+The Challenger has a move that looks like this from the outside and is a different animal. *Name the Unnameable* points at a violation: something happened, everyone saw it, nobody stated it; stating it draws a line. This one points at what runs underneath, which may involve no violation at all. The Challenger names what is unacceptable. The Shaman names what is true. One creates a boundary; the other creates contact.
 
-In practice: the sentence is shorter than you want it to be. A read usually runs one clause long. What extends it: the case you build so that nobody can argue with you, and the case is where the read goes to die, because a case invites a rebuttal and a read invites a response. Say the clause. Stop talking.
+In practice: the sentence is shorter than you want it to be. A reading is usually one clause long. What extends it is the case you build so that nobody can argue with you. The case is where the reading goes to die: a case invites a rebuttal, a reading invites a response. Say the clause. Stop talking.
 
-You reach for the category instead of the person, and that kills a read faster than any case: *the culture here is toxic* rather than *Dave, you interrupted her three times.* The category feels braver and costs less, because nobody has to be Dave. Name a system and nobody has to answer you.
+You reach for the category instead of the person, which kills a reading faster than any case: *the culture here is toxic* rather than *Dave, you interrupted her three times.* The category feels braver and costs less, because nobody has to be Dave. Name a system and nobody has to answer.
 
-**Example:** Two colleagues have restated the same scoping position four times. Nadia has said nothing for forty minutes. She did not come up through the graduate scheme and everyone else did, and the shorthand on the call belongs to the scheme. Say the unsaid charge: *I think we are three layers into a vocabulary and one of us has been outside it since the start.* One sentence, and nothing about who is right. It costs you with the two who were arguing, because you have told them their shorthand is a wall. The question resolves in four minutes, and Nadia joins it.
+**Example:** Two colleagues have repeated the same scoping position four times. Nadia has said nothing for forty minutes. She did not come up through the graduate scheme and everyone else did. The shorthand on the call belongs to the scheme. Say the unsaid charge: *I think we are three layers into a vocabulary and one of us has been outside it since the start.* One sentence, with nothing in it about who is right. It costs you with the two who were arguing, because you have told them their shorthand is a wall. The question resolves in four minutes, and Nadia joins it.
 
-**The test:** You said the read you actually had, and you said it while it was still live. What the conversation did afterward belongs to the conversation. Said an hour late, it is a different move.
+**The test:** You said the reading you actually had, while it was still live. What the conversation did afterward belongs to the conversation. Said an hour late, it is a different move.
 
 ---
 
-That is the Shaman's game. Five moves. Catch it before the story rewrites it. Turn the dial up instead of down. Name the channel out loud. Say what you can do now. Say the unsaid charge. Every one of them takes something accurate and private and makes it public and useful, the only transaction this Face performs.
+The Shaman's game is five moves: catch it before the story rewrites it, turn the dial up instead of down, name the channel out loud, say what you can do now, say the unsaid charge. Every one of them takes something accurate and private and makes it public and useful, the only transaction this Face performs.
 
 The moves are what you do. The next question is where.
 
@@ -814,24 +814,24 @@ The moves are what you do. The next question is where.
 
 ### Where You'll Actually Spend the Read
 
-The parable showed one of the four: Direct Action, said to a face. It is the Shaman's steepest, the domain where the read has to leave you and cost you something in front of the person it concerns.
+The parable showed one of the four, Direct Action: said to a face. It is the Shaman's steepest, the domain where the read has to leave you and cost you something in front of the person it concerns.
 
-The read has four domains, and one cheap habit that is none of them. The cheap habit is the read you keep: you sense what moves, refine it, and never say it, your body never on the line. Reading under the surface is real skill, and it asks nothing of you, because no one ever has to watch you get it wrong. A louder version of the same safety runs alongside it. You do say something, but only the correct words, the ones no one can fault, and that is the awareness trap, the habit that swallowed the others because you can run it from the chair. Both keep it unsaid. The four domains are where it finally leaves: said to a face, said out loud instead of the correct version, named as a need and asked for, put on the table so a group can work. Each costs more than sensing, because each trades the safety of the accurate private read for the risk of getting it wrong out loud.
+The read has four domains and two cheap habits that are neither. The first is the reading you keep: you sense what moves, refine it, never say it, your body never on the line. Reading under the surface is real skill. It asks nothing of you, because no one has to watch you get it wrong. The second is louder. You do say something, but only the correct words, the ones no one can fault. That is the awareness trap, the habit that swallowed the rest because you can run it from the chair. Both leave the reading unsaid. The four domains are where it finally goes: to a face; out loud instead of the correct version; named as a need and asked for; onto the table so a group can work. Each costs more than sensing. Each trades the safety of an accurate private reading for the risk of getting it wrong out loud.
 
-So here are all four, and before them the three moves that decide whether saying it helps or wounds. Not to study: pick where you'll spend the read this week, and pick the domain you keep avoiding. If the read only ever circles back into your own head, refined and unsaid, or comes out dressed in the words no one can fault, you never made the Shaman's move. You practiced it.
+Here are all four, after the three moves that decide whether saying it helps or wounds. Not to study: pick where you'll say it this week, and pick the domain you keep avoiding. If the read only ever circles back into your own head, refined and unsaid, or comes out dressed in the words no one can fault, you practiced the Shaman's move without making it.
 
 ### How to Say It So It Helps
-When you say it, what you do next decides whether it helps the person or wounds them, and the same three moves decide it in every domain.
+When you say it, what you do next decides whether it helps the person or wounds them. The same three moves decide it in every domain.
 
-**Don't manage their reaction away.** You say it and the read tells you it landed: they get defensive, or shut down, or well up. Now the old Controller reaches to put a lid on it, theirs this time: *no, no, I didn't mean it like that.* That's the same lid you've been prying off your own feeling, now reaching for someone else's. The referee holds a different rule: feelings are allowed on the field, theirs too. Let the reaction be there, and stay in it with them instead of smoothing it flat.
+**Don't manage their reaction away.** You say it and the reaction comes: they get defensive, or shut down, or well up. Now the old Controller reaches to put a lid on it, theirs this time: *no, no, I didn't mean it like that.* That's the same lid you've been prying off your own feeling, now reaching for someone else's. The referee holds a different rule: feelings are allowed on the field, theirs too. Let the reaction be there. Stay in it with them instead of smoothing it flat.
 
-**Say it as yourself, not from above.** Watch the moment you shift from feeling it to pronouncing it. "What's really going on here is…" is the judge handing down a verdict from above, something to defend against. "This is what I feel is happening, and I could be wrong" is the same read offered as your own, something they can meet. The referee keeps you at eye level: name what's in play, don't sentence anyone.
+**Say it as yourself, not from above.** Watch the moment you shift from feeling it to pronouncing it. "What's really going on here is…" comes down from the bench, a verdict to defend against. "This is what I feel is happening" is the same reading offered as your own, something they can meet. The referee keeps you at eye level: name what's in play, don't sentence anyone.
 
-**Don't say it and leave.** The riskiest second comes right after the words are out, when the fear grabs for the exit: soften it, make a joke, change the subject. Leaving strands the person with what you just handed them. This is the referee's purest move: it holds you to what you started when everything in you wants to quit the field. Staying present, without defending and without adding anything, lets the truth land as care instead of an ambush.
+**Don't say it and leave.** Right after the words are out comes the riskiest second, when the fear grabs for the exit: soften it, make a joke, change the subject. Leaving strands the person with what you just handed them. This is the referee's purest move: it holds you to what you started when everything in you wants to quit the field. Staying present, without defending and without adding anything, lets the truth land as care instead of an ambush.
 
 **Direct Action — the read said to the person it is about**
 
-*You're winning when:* you said what you had been feeling, the unsaid charge and not the softened hint, to the face it concerns, in the live moment and not in a message you draft and never send, and it cost you the safety of being the one who never breaks the surface. The proof is that it existed between you, said and left said. What they do with it is information for your next move, not your grade.
+*You're winning when:* you said what you had been feeling, the unsaid charge and not the softened hint, to the face it concerns, in the live moment and not in a message you draft and never send. It cost you the safety of being the one who never breaks the surface. The proof is that it existed between you, said and left said. What they do with it is information for your next move, not your grade.
 
 **Raise Awareness — the true read instead of the correct one**
 
@@ -839,7 +839,7 @@ When you say it, what you do next decides whether it helps the person or wounds 
 
 **Gather Resources — the real need named**
 
-*You're winning when:* you sensed and named what a situation actually needs, the real ask and not the palatable one you were already sure would be granted, and you asked the person who can grant it or refuse it. It cost you the exposure of naming a need you might be wrong about. The proof is that the true need got asked out loud, not managed down to something comfortable.
+*You're winning when:* you sensed and named what a situation actually needs, the real ask rather than the palatable one you were already sure would be granted. You asked the person who can grant it or refuse it. It cost you the exposure of naming a need you might be wrong about. The proof is that the true need got asked out loud, not managed down to something comfortable.
 
 **Skillful Organizing — the read the group won't say**
 
@@ -847,11 +847,11 @@ When you say it, what you do next decides whether it helps the person or wounds 
 
 ### After this, everything stands on it
 
-The Diplomat's close, the Challenger's line, the Regent's stand, the Architect's design: not one of them is worth anything built on a bad read. You are the first face for a reason. Every move the other five make begins here, with someone who can feel what is actually happening and say it where it counts. The Challenger aims the read into a line. The Architect builds structure from it. The Regent keeps what the read found worth keeping. The read comes first, and a read that never leaves the chair stalls the whole game. That is why you start with the Shaman, and why one true sentence, said and not only felt, is the move everything else will stand on.
+The Diplomat's close, the Challenger's line, the Regent's stand, the Architect's design: none of them holds up on a bad reading. You are the first face for a reason. Every move the other five make begins here, with someone who can feel what is actually happening and say it where it counts. The Challenger aims the read into a line. The Architect builds structure from it. The Regent keeps what the read found worth keeping. The reading comes first. A reading that never leaves the chair stalls the whole game. That is why you start with the Shaman, and why one true sentence, said and not only felt, is the move everything else will stand on.
 
 ### The Tell
 
-None of the four markers asked why you said it. That question is real. A Shaman who names the unsaid to be seen as the most perceptive person present has run the awareness trap with better production values. It is also the easiest lie to tell yourself, in the moment you most want to be seen seeing. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer the question the marker didn't ask:
+None of the four markers asked why you said it. A Shaman who names the unsaid to be seen as the most perceptive person present has run the awareness trap with better production values. It is also the easiest lie to tell yourself, in the moment you most want to be seen seeing. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer the question the marker didn't ask:
 
 - **Direct Action.** Did you say it to change the moment, or to be the one brave enough to have said it?
 - **Raise Awareness.** Did you name what is happening to move the group, or to be seen as the one who sees deepest?
@@ -915,20 +915,20 @@ The tell that a quest is alive is not enthusiasm. It is anticipation with some d
 <!-- SECTION 7 -->
 ## What the Shaman Teaches — and Why the Challenger Comes Next
 
-The Shaman contributes this to the allyship game: **before strategy, before structure, before any move you make in the world, there is pattern.** Emotional pattern. Somatic pattern. The pattern of what you actually feel, what you actually need, what you actually are.
+The Shaman contributes this to the allyship game: **before any move you make in the world, there is pattern.** Emotional pattern. Somatic pattern. The pattern of what you actually feel, what you actually need, what you actually are.
 
 The Shaman teaches you to read that pattern, in yourself, in others, in the group.
 
-One more voice waits on the other side of the read. The moment you take the read into the world and say it out loud, the doubt speaks up first: *is it even real? Are you sure, or are you making it up?* That is the Skeptic, the part that doubts your own knowing before anyone else can, and the next face begins there. The Challenger cannot do their work without the Shaman's work done first. The Challenger's superpower is the ability to name what's unacceptable. To draw a line. To say "this is not okay." If you don't know what you *feel* about what's unacceptable, if you haven't read the emotional truth underneath, then the Challenger's line is performance. It's strategy without root.
+One more voice waits on the other side of the read. The moment you take the read into the world and say it out loud, the doubt speaks up first: *is it even real? Are you sure, or are you making it up?* That is the Skeptic, the part that doubts your own knowing before anyone else can. The next face begins there. The Challenger cannot do their work without the Shaman's work done first. The Challenger's superpower is the ability to name what's unacceptable. To draw a line. To say "this is not okay." If you don't know what you *feel* about what's unacceptable, if you haven't read the emotional truth underneath, then the Challenger's line is performance, strategy without root.
 
 Every great boundary is rooted in a feeling. Every genuine "no" comes from a Shaman who knows what they actually care about.
 
-The chapter leaves you holding a practice whose parts fit together. Your body registers a situation before your mind has finished making sense of it, the entire reason the read is worth anything, since it arrives early, and early is the only window in which it can change what happens. Wake → Open → Clean → Grow → Show carries a charge from arrival to a move, and Clean is the stage almost everyone skips, because locating a feeling and letting it settle takes longer than converting it into something useful. The five channels (Metal/Fear, Water/Sadness, Wood/Joy, Fire/Anger, Earth/Neutrality) tell you which teaching a given charge carries, since fear at the edge of what matters to you and anger at a line getting crossed are different instruments asking for different moves. The energy ecology tells you afterward which moves replenished you, which sustained the field, and which spent capacity you were going to need next week. 3-2-1 is here by name and in practice (Face it, Talk to it, Be it), and it runs again in every chapter after this one, and the Polarity Map is here by name as well, drawn again in every chapter after this one: two legitimate poles, your position on the axis, one action containing both. Feeling ↔ Function is the axis this chapter itself sits on, the reason you got a polarity rather than a rule. The Controller up close is the referee that holds your integrity when holding it costs you, the judge that rules your read out of order before it can be spoken, the six beliefs it rules with, the six developmental beliefs that go in where a flat inversion only re-enters the court, and what separates the referee from the judge: whose rulebook it enforces. The read leaves your body across four domains, and how you carry it is the difference between a true sentence that helps and one that only lands: stay with the reaction, say it as your own, don't leave. The five game moves are all of it compressed into what a person actually does at a table: Catch It Before the Story, Turn the Dial Up, Name the Channel Out Loud, Say What You Can Do Now, Say the Unsaid Charge.
+The chapter leaves you holding a practice whose parts fit together. Your body registers a situation before your mind has finished making sense of it, which is the only reason the reading is worth anything: it arrives early, in the one window where it can still change what happens. The Form carries a charge from arrival to a move. The five channels tell you which lesson a charge carries. The energy ecology tells you afterward what a move cost and what it gave back. The Controller decides whether the reading is allowed onto the field at all. The four domains are where the reading leaves your body, and the five game moves are what a person actually does with it at a table.
 
-Underneath every part of it is the Alchemist: the willingness to spend a charge while it is still live, instead of waiting for the conditions that never arrive.
+Underneath every part of it is the Alchemist, who spends a charge while it is still live instead of waiting for conditions that never arrive.
 
-The system did not give you your superpower. Your specific survival shaped it, your specific losses, your specific adaptations. The Shaman's work is recovering that superpower. Making it conscious. Making it available. Taking it back into the village.
+Your specific survival shaped your superpower, your specific losses, your specific adaptations. The Shaman's work is recovering that superpower. Making it conscious. Making it available. Taking it back into the village.
 
-Add a row to the sheet. Under the daemon you wrote down in Chapter 2, write the channel you skip: of Fear, Sadness, Joy, Anger, and Neutrality, the one you turn into a task before it has finished telling you anything. All five ran through this chapter. One of them you left early.
+Add a row to the sheet. Under the daemon you wrote down in Chapter 2, write the channel you skip: of Fear, Sadness, Joy, Anger, and Neutrality, the one you turn into a task before it has finished telling you anything. One of the five you left early.
 
 ---
