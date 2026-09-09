@@ -310,20 +310,6 @@
   }),
 )
 
-// DL-85. A document header where the treatise starts, against the signature that closes it.
-// Letter-spaced small caps, centred, and NOT a heading: it must stay out of the table of
-// contents and must not compete with the section title directly beneath it.
-#let dev-treatise-open(body) = block(
-  width: 100%,
-  above: 2.2em, below: 1.6em,
-  breakable: false,
-  align(center, {
-    set text(size: sz(8.2pt), tracking: 0.14em)
-    set par(leading: 0.55em, spacing: 0.6em, justify: false, first-line-indent: 0pt)
-    body
-  }),
-)
-
 // Correspondence, not instruction. Narrower than the measure and centred, so it
 // sits on the page like something that arrived rather than something filed.
 #let dev-postcard(body) = align(center, block(

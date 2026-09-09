@@ -79,15 +79,13 @@ bb = _load_build_book()
 # The five kinds, in the order a reader meets them. The class name is what both
 # the Typst template and the EPUB stylesheet key off, so changing one of these
 # strings means changing it in three files.
-FRAME_KINDS = ("MARGINALIA", "EPIGRAPH-BYLINE", "HANDBOOK", "SIGNATURE", "POSTCARD",
-               "TREATISE-OPEN")
+FRAME_KINDS = ("MARGINALIA", "EPIGRAPH-BYLINE", "HANDBOOK", "SIGNATURE", "POSTCARD")
 FRAME_CLASS = {
     "MARGINALIA":      "marginalia",       # another hand, in the margin
     "EPIGRAPH-BYLINE": "epigraph",         # the voices before a chapter opens
     "HANDBOOK":        "handbook",         # a document inside the document
     "SIGNATURE":       "signature",        # who set the treatise down
     "POSTCARD":        "postcard",         # correspondence, not instruction
-    "TREATISE-OPEN":   "treatiseopen",     # where the treatise starts, DL-85
 }
 
 FRAME = re.compile(

@@ -67,10 +67,6 @@ So Chapter 3 does two jobs. It serves as the Shaman's chapter and as the toolkit
 
 ---
 
-<!-- TREATISE-OPEN -->
-> THE FIRST TREATISE · THE SCHOOL OF THE BODY
-<!-- /TREATISE-OPEN -->
-
 <!-- SECTION 1 -->
 ## Why the Shaman Left the Village (And What the Village Lost)
 

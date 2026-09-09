@@ -434,31 +434,6 @@ record and it is already in my head, which she will find annoying.*
 
 *— T.*"""
 
-# TREATISE_OPEN added 2026-09-09, DL-85. Wendell marked the ch3 signature on the printed
-# proof: it is the first place a reader learns whose voice they have been reading for three
-# sections, which is work the entry never did. Six exits carried an attribution and six
-# entries carried none.
-#
-# THIS DOES NOT UNDO THE 2026-07-30 MOVE. What came off the top then was the full byline,
-# *"submitted by Corin Ash, Master of the Clean No"*, and it came off because a submitted
-# document is signed at the end of itself. That argument is untouched. What goes on the top
-# now is a document header: the treatise and the school, never the person and never
-# "submitted by". A real filed document carries both -- a heading where it starts and a
-# signature where it ends -- and the person's name still arrives only at the signature.
-#
-# Pure apparatus, per SPEC_TWO_HANDS_2026-07-30 *"the marker cannot be anybody's voice."*
-# The convention is explained once in front_matter/copyright.md, which is the other half of
-# this ruling and the half the spec designed on 2026-07-30 and never built.
-TREATISE_OPEN = {
-    3: "THE FIRST TREATISE · THE SCHOOL OF THE BODY",
-    4: "THE SECOND TREATISE · THE SCHOOL OF THE LINE",
-    5: "THE THIRD TREATISE · THE SCHOOL OF THE OATH",
-    6: "THE FOURTH TREATISE · THE SCHOOL OF THE PATTERN",
-    7: "THE FIFTH TREATISE · THE SCHOOL OF THE BRIDGE",
-    8: "THE SIXTH TREATISE · THE SCHOOL OF THE HORIZON",
-}
-
-
 SIGNATURE = {
     # Moved out of FRONT 2026-07-30. A submitted document is signed at the end of
     # itself, so these close Section 3 rather than opening the chapter. Wendell

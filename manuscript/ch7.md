@@ -60,10 +60,6 @@
 
 ---
 
-<!-- TREATISE-OPEN -->
-> THE FIFTH TREATISE · THE SCHOOL OF THE BRIDGE
-<!-- /TREATISE-OPEN -->
-
 <!-- SECTION 1 -->
 ## Why the Diplomat Left the Village (And What the Village Lost)
 

@@ -182,43 +182,39 @@ claims:
   # has not been made. That was found by writing this block.
 
   - id: DL-85
-    fact: >
-      A treatise is framed where the reader enters it and signed where they leave it. Six
-      chapters carry a document header naming the treatise and its school at the SECTION 1
-      anchor, and the signature at the close still names the person who submitted it.
+    proposed_fact: >
+      Undetermined, and the previous wording was wrong. The book's fiction is carried by the
+      FRAMED BLOCKS — the epigraph voices, the school's admissions form, and the marginal hand —
+      not by sections 1 to 3 of the running prose. The signature at the close of section 3
+      therefore signs text written in the author's own voice.
     wrong_because: >
-      The mark was on the signature, and the signature was not the defect. It was the first
-      place the reader learned whose voice they had been in for three sections, so the line
-      that closed the treatise carried the work of the line that never opened it. Nothing at
-      any of the six entry points named the speaker.
-      A second miss, and the more useful one: **the answer was already designed and never
-      built.** SPEC_TWO_HANDS specified the front-matter note on 2026-07-30 and carried it as
-      item 3 of its own open questions, unsigned-off. The census read the manuscript and did
-      not read the specs, so it proposed inventing a mechanism the book had already chosen.
+      **The first census asked where the treatise is framed and never asked whether the running
+      prose is a treatise.** It measured six signatures and six entry points, took the category
+      from specs/SPEC_TWO_HANDS_2026-07-30.md, and did not test the category against the text.
+      Wendell, 2026-09-09: "I think we aren't understanding what the treatise is and you're about
+      to mess up my manuscript... the boxes front matter and the marginalia are doing most of the
+      worldbuilding work. the signatures at the end are coming off weird because the text after
+      the admissions form is really just all in my voice."
+      Measured after that: sections 1-3 of ch3 address the reader as "you" 81 times in 2810
+      words, a rate indistinguishable from the back half's. The prose immediately above every
+      signature is the Polarity Map, the book's own recurring apparatus, in the book's framework
+      vocabulary; ch5's opens "You met the Polarity Map at the School of the Body," which tracks
+      the reader across chapters and is something no Head filing a document about her own school
+      would write.
     proof_mark: "p.62, the SIGNATURE line under Maera Voss's treatise"
-    applied: "6 of 6"
-    ruled: 2026-09-09
-    ruled_by: "Wendell: \"Rule DL-85, frame the treatise entry in all six chapters.\""
     scope: >
-      Every `<!-- SIGNATURE -->` block and every `<!-- SECTION 1 -->` anchor in
-      manuscript/ch3.md through ch8.md, plus specs/SPEC_TWO_HANDS_2026-07-30.md read in full
-      after the ruling, which is where the designed-and-unbuilt half was found. Thirteen spans
-      by that method on 2026-09-09: six headers, six signatures, and the front-matter note that
-      makes the headers legible.
+      Sections 1-3 and 4-7 of ch3, ch4 and ch5 read in full on 2026-09-09 with every framed block
+      stripped, plus first- and second-person counts on both halves of each. The reading is what
+      settled it; the counts only agreed. Not yet read: ch6, ch7, ch8 on the same test, and the
+      question of what the signature should sign instead.
     note: >
-      The header names the treatise and the school, never the person and never "submitted by".
-      That keeps the 2026-07-30 move intact: the full byline came off the top because a
-      submitted document is signed at the end of itself, and the name still arrives only at the
-      signature. Delete the front-matter note and the headers become decoration, which is why
-      it is carried here rather than left to the copyright page.
+      **A header was applied to all six chapters on the wrong reading and has been reverted**
+      (commit 63762a9, reverted the same day). It declared THE FIRST TREATISE over the fable
+      opening, which asserts of the text something the text does not do. The front-matter note
+      claiming "each one carries the voice of the Head who runs that school" went with it. What
+      survives is the question Wendell actually raised: the signature is attached to the wrong
+      body of text, and where the Head's voice really lives is in the boxes.
     carriers:
-      - {file: front_matter/copyright.md, phrase: "A treatise opens Chapters 3 through 8"}
-      - {file: manuscript/ch3.md, phrase: "THE FIRST TREATISE · THE SCHOOL OF THE BODY"}
-      - {file: manuscript/ch4.md, phrase: "THE SECOND TREATISE · THE SCHOOL OF THE LINE"}
-      - {file: manuscript/ch5.md, phrase: "THE THIRD TREATISE · THE SCHOOL OF THE OATH"}
-      - {file: manuscript/ch6.md, phrase: "THE FOURTH TREATISE · THE SCHOOL OF THE PATTERN"}
-      - {file: manuscript/ch7.md, phrase: "THE FIFTH TREATISE · THE SCHOOL OF THE BRIDGE"}
-      - {file: manuscript/ch8.md, phrase: "THE SIXTH TREATISE · THE SCHOOL OF THE HORIZON"}
       - {file: manuscript/ch3.md, phrase: "the first treatise, submitted by Maera Voss"}
       - {file: manuscript/ch4.md, phrase: "the second treatise, submitted by Corin Ash"}
       - {file: manuscript/ch5.md, phrase: "the third treatise, submitted by Sera Quill"}

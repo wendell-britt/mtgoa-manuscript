@@ -62,10 +62,6 @@
 
 ---
 
-<!-- TREATISE-OPEN -->
-> THE THIRD TREATISE · THE SCHOOL OF THE OATH
-<!-- /TREATISE-OPEN -->
-
 <!-- SECTION 1 -->
 ## Why the Regent Left the Village (And What the Village Lost)
 

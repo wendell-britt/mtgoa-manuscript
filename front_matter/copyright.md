@@ -55,15 +55,6 @@ points at the original.
 The three emotional-body practices in Appendix D are drawn from the author's
 *Igniting Joy*.
 
-## A note on the six treatises
-
-A treatise opens Chapters 3 through 8. Each one carries the voice of the Head
-who runs that school. Each Head signs at the end. What follows the signature
-belongs to me: the practice, the drills, and the case for why any of it deserves
-your time.
-
-I invented the six Heads. I did not invent what they teach.
-
 ## A note on what this book is not
 
 This book is a practice, not a treatment. It is not psychotherapy, medical
