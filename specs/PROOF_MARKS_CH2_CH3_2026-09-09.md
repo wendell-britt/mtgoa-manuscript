@@ -24,11 +24,82 @@ patterns between everything I mark as wrong. Everything marked up is unsatisfact
 highlighted fragment, by printed page. `[partial]` = I could only read part of the highlight;
 `[?]` = low-confidence read. **Wendell: correct any misread line and I will fix the ledger.**
 
-The pages photographed run **ch2 p.36 → ch3 p.95** (ch2's earlier pages 25–35 were not in the set).
+The pages photographed run **ch2 p.25 → ch3 p.95**. (ch2 pp.34–35 were not photographed; the
+set went 25–33, then 36 on.)
 
 ---
 
 ## Chapter 2 — The Forest
+
+### p.25 — Chapter open / Section 1: Urgency
+- **The heading "Section 1: Urgency" itself carries a highlight** `[?]` — unclear whether the mark is the heading text or the section as a unit.
+- "…when somebody finally says what has been sitting there for months **and everybody at the table starts picking their words**."
+- "Two people who agree with each other end up **arguing about a word**…"
+- "Most of it starts smaller. **You say the sentence you rehearsed and your friend agrees with you and never brings it up again.**"
+
+### p.26
+- "**You put the phone down and carry it anyway. It arrives before the words do, and no action item takes it out.**"
+- "…anywhere other people can see what you did and **adjust their read on you**."
+- "…so **the village is a reasonable place to have put all the tools. Allyship put all of them there.**"
+- "…**and the person who responded has nothing left**."
+- "…or **the read** you set aside…"
+- "I was trained in shamanism, **and I did not want to learn it**."
+- "**I stayed because her chops were impeccable. That was the whole reason, and it held.**"
+- "I use it every time I teach now, in dance and in writing **and in this**."
+
+### p.27
+- "…or **said the sentence** they cannot take back…"
+- "**You know which time was yours.**"
+- "**It protected you when you needed protecting. It made sense once.**"
+- "**Hold these three words, because the whole book turns on them.**"
+- "**One word each: Shadow, distortion, cost. They are not the same, and the work is to tell them apart.**"
+- "I ask you to find out what it has been protecting. **That is a different project entirely, and it produces different results.**"
+- "…capacities that most training never reaches, **and most training does not say so**. The curriculum opens where the work becomes visible, **which is a long way past where it starts**."
+- "**The onboarding has a section on psychological safety. It is a form. You sign it.**"
+- "…that allyship is mainly about what you do in public. **The deeper truth is this:**"
+
+### p.28 — What the Old Allyship Got Wrong
+- "**This theory is incomplete rather than wrong.**"
+- "…real wins: **doors that opened, conversations that happened, power that shifted in small amounts, temporarily, in specific places.**"
+- "**Both are true.**"
+- "The trainers behind the old allyship **never asked about that**."
+- "The walking went in the wrong direction, **and no one had mentioned a different starting point**."
+- "**It sits closer to sadness than to fatigue:**"
+
+### p.29
+- "The terms were set wrong from the beginning, **and no one failed**."
+- "**That sadness is information. It tells you what mattered.**"
+- "**Something has shifted.**"
+- "…**and vigilance that once made sense now runs as background noise**."
+- "You cannot draw a boundary **you have not felt**."
+- "…unless **you know what you're made of**."
+- "I do not know whether a mind really holds eight separate voices, **and neither does anybody selling you a model of one**."
+
+### p.30
+- "**The world is not fine.**" — the chapter's opening line (p.25), repeated here verbatim; and p.27 opens "The world is not fine. Neither is the method…"
+- "**This chapter is the threshold map.**"
+
+### p.31 — Section 3: The Forest
+- "**Trying to seem right costs energy. Trying to seem good costs more. Run both at once and most of the attention goes to how you are landing.**"
+- "**That vigilance costs you presence, and if you cannot be present with them you cannot ally with them.**"
+- "**That gap, between the people in front of you and how much of you is there to meet them, is the edge of the Forest.**"
+- "…**adjusted the language, listened harder after that**…"
+- "**Maybe, somewhere in all of it, you started holding still by default.**"
+- "**No one reports back.**"
+- "**All that effort has been sitting on top of one question.**"
+- "**Ask it without flinching.**"
+- "**Your body was never appropriating anything. It is yours.**"
+- "**Wanting to be good was never the problem.** Performing it costs a great deal, **and punishing yourself for falling short of the performance costs a great deal more. Run both and you are funding two expensive processes, neither of which does anything for the person in front of you.**"
+
+### p.32
+- "…so you can do the real work there **and nowhere else**."
+- (Origin Story) "**Something in the reaching out mattered.**"
+
+### p.33 — Origin Story (continued)
+- "**Something else came with it.**"
+- "…a permanent low-grade charge **that the people around you never suspect**."
+- "…they delivered it to me, **gift-wrapped as concern**."
+- "What the anger produced first was not the book, **and Chapter 9 tells that part**."
 
 ### p.36 — The Seven (daemon jobs)
 - Protector, *As an ally:* "…the Protector does not wait for you, **and it should not**."
@@ -446,6 +517,6 @@ The pages photographed run **ch2 p.36 → ch3 p.95** (ch2's earlier pages 25–3
 ---
 
 ## Notes for correction
-- ch2 pp.25–35 were **not** in the photo set — if they carry marks, they still need capturing.
+- ch2 pp.34–35 were **not** in the photo set — if they carry marks, they still need capturing.
 - `[partial]` / `[?]` entries are my low-confidence reads; Wendell to correct.
 - One handwritten instruction found: **"Rework"** on p.83 (What You Take Out of the Forest). If there are other handwritten notes I missed, name the page.
