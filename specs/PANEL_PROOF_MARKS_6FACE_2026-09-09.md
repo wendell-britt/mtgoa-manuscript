@@ -398,3 +398,32 @@ say so and to stop naming permission-to-feel, which is the Protector's gate:
 
 No other line moves. The two passages then agree with each other and with the five chapters
 that state the Controller's remit. Applied by `instruments/controller_bite.py`.
+
+### Round 5, applied wrong the first time
+
+**Wendell, 2026-09-09,** on the sentence the first application produced: *"'at the second move, by
+ruling that a feeling you have already had may not show' — nonsense sentence."*
+
+The ruling was right and the application was not. The contradiction was never one sentence. The
+paragraph's engine was the entry metaphor — *a feeling being allowed onto the field*, *called out
+of bounds at the whistle*, *every stage assumes the feeling made it into play* — so a corrected
+sentence about a feeling you have already had sat inside three sentences insisting the feeling
+never arrived. The result read as nonsense because it was: the sentence disagreed with its own
+neighbours.
+
+**The lesson for the remaining items.** A content ruling lands on the argument, not on the line
+that states it worst. Before applying one, read the paragraph the marked sentence is doing work
+inside and ask what the other sentences are committed to. `controller_bite_para.py` replaces the
+paragraph.
+
+Three further corrections fell out of the rebuild:
+
+- **The arithmetic.** Open Up is the second move, so three moves come after it. The first fix
+  said four. The paragraph now names them: Clean Up, Grow Up and Show Up.
+- **A proof mark resolved by cutting.** p.78's *"Sensitivity is the Shaman's instrument; this hand
+  keeps it in its case"* had been reworded rather than changed, and it is the second telling of
+  ch3:317's unmarked *"an instrument kept behind glass reads nothing."* A marked line that repeats
+  an unmarked one four hundred lines earlier gets cut. The paragraph does not miss it: *You pay
+  twice* follows immediately and names both costs.
+- **A near-repeat caught before it landed.** *"a charge you never let yourself have"* would have
+  been ch3:230 verbatim. Written as *cut off halfway*.
