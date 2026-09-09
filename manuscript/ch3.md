@@ -571,7 +571,7 @@ The pair changes with altitude. The map doesn't.
 
 *The dot is where you are.*
 
-Draw a line. Name the poles. Mark where you are today. The dot is a diagnostic, not a verdict. You are allowed to move.
+Draw a line. Name the poles. Mark where you are today. You are allowed to move.
 
 **The method:**
 
@@ -588,7 +588,7 @@ Use 3-2-1 when the trigger is a *person*. Use the Polarity Map when you're stuck
 
 ### Draw the Axis — Feeling ↔ Function
 
-The draw wants a read you already had, and specifically the most recent one that never left your body.
+The draw wants a reading you already had: the most recent one that never left your body.
 
 **Try this now.**
 
@@ -615,9 +615,9 @@ The draw wants a read you already had, and specifically the most recent one that
 
 You have the instrument now. Five stages, five channels, what each channel is for, what a move costs to run and what it gives back.
 
-The second half of this chapter takes up the part of you that decides whether you may use any of it.
+The second half of this chapter meets the part of you that decides whether you may use any of it.
 
-That part has a name, and you have met it before. If you are reading in stolen time, stop here. The practice above works on its own, and it goes on working after you close the book. Come back for the Controller.
+You have met that part before. If you are reading in stolen time, stop here. The practice above works on its own, after you close the book too. Come back for the Controller.
 
 ---
 
@@ -625,47 +625,43 @@ That part has a name, and you have met it before. If you are reading in stolen t
 ## The Controller, Up Close
 ### *The Standard-Setter, and the Move Into the World*
 
-I asked the universe for a sign, and then spent forty minutes deciding whether the sign met my criteria for a sign.
-
-The retreat had a rule against giving advice. By the third day we had invented a way to give it that sounded like a question.
-
 You met the Controller at the door of the Forest, second in line, right behind the Protector. The Protector decides whether you live. The Controller decides how. It sets the standard (what's good, what's bad, what you're allowed to do about it) and then holds the line on that standard whether or not the rest of you agrees.
 
-At its best, the Controller is the referee of your game. You set the rules: the kind of ally you actually want to be, the line you'll hold when holding it costs you. The referee enforces those rules when your nerve goes. You said you'd show up for someone; when the day turns inconvenient, the referee gets you there anyway. That is integrity, and it is not automatic. It is a part of you doing a job. A person with no referee has values the width of whatever is easy that day.
+At its best, the Controller is the referee of your game. You set the rules: the kind of ally you actually want to be, the line you'll hold when holding it costs you. The referee enforces those rules when your nerve goes. You said you'd show up for someone; when the day turns inconvenient, the referee gets you there anyway. That is integrity: a part of you doing a job, not a trait you have. A person with no referee holds values only as wide as that day's convenience.
 
-A referee can pick up a second job nobody handed it. It stops refereeing the game you chose and starts judging one you didn't. It begins ruling on how you are allowed to *feel* about your allyship: a good ally feels guilty, it decides; a good ally does not get angry at the people she came to help; a good ally does not trust a private read over the version the group has agreed to. That is a judge now, and it holds court in you.
+A referee can pick up a second job nobody handed it. It stops refereeing the game you chose and starts judging one you didn't. It begins ruling on how you are allowed to *feel* about your allyship: a good ally feels guilty, it decides; a good ally does not get angry at the people she came to help; a good ally does not trust a private reading over the version the group has agreed to. That is a judge, holding court in you.
 
-I know this judge well. Mine spent years ruling my own anger out of order (a good facilitator does not get angry), so the anger went below the waterline and leaked into the work anyway, ungoverned, because I had disqualified the one part that could have spoken it clean.
+I know this judge well. Mine spent years ruling my own anger out of order (a good facilitator does not get angry), so the anger went below the waterline and leaked into the work anyway, ungoverned, because I had disqualified the one part that could have said it plainly.
 
-When the Controller has the joystick, it runs as the inner critic. It blows the whistle on a feeling before the feeling has finished arriving (*that's not fair, you don't get to be angry, other people have it worse*) and calls the play out of bounds. It does not only officiate you. It officiates the person you came to help: they get the result their own way, on their own timeline, and you catch yourself docking points for how they did it instead of registering that they did it at all. You hand them a standard where they needed a partner.
+When the Controller has the joystick, it runs as the inner critic. It blows the whistle on a feeling before the feeling has finished arriving (*that's not fair, you don't get to be angry, other people have it worse*) and calls the play out of bounds. It does not only officiate you. It officiates the person you came to help: they get the result their own way, on their own timeline. You catch yourself docking points for how they did it instead of registering that they did it at all. You hand them a standard where they needed a partner.
 
-Its other move never blows a whistle at all, because the play never starts. Perfectionism is the Controller refusing to let you onto the field until the conditions are perfect: the exact right words, the unimpeachable position, the certainty that nobody can criticize you. The conditions are never perfect. So the most careful, most informed person in the situation says nothing, and calls the silence rigor.
+Its other move never blows a whistle at all. The play never starts. Perfectionism is the Controller refusing to let you onto the field until the conditions are perfect: the exact right words, the unimpeachable position, the certainty that nobody can criticize you. The conditions are never perfect. So the most careful, most informed person in the situation says nothing and calls the silence rigor.
 
-Here is why this daemon stands second, right behind the one that keeps you alive, in a book about allyship. Everything you learned in the first half of this chapter runs on a feeling being allowed onto the field. You cannot alchemize a charge that got called out of bounds at the whistle. Wake, Open, Clean, Grow, Show: every stage assumes the feeling made it into play. The shadow Controller is the part that can end the whole practice before Stage One, by ruling that the feeling never had permission in the first place. Sensitivity is the Shaman's instrument; this hand keeps it in its case. The cost lands twice: you lose the read that would have told you what the moment actually needed, and the person in front of you loses the ally who could have named it. They get your composure instead of your help.
+Here is why this daemon stands second, right behind the one that keeps you alive, in a book about allyship. Everything you learned in the first half of this chapter runs on a feeling being allowed onto the field. You cannot alchemize a charge that got called out of bounds at the whistle. Wake, Open, Clean, Grow, Show: every stage assumes the feeling made it into play. The shadow Controller is the part that can end the whole practice before Stage One, by ruling that the feeling never had permission in the first place. This hand keeps the Shaman's instrument, sensitivity, in its case. You pay twice: you lose the read that would have told you what the moment actually needed, and the person in front of you loses the ally who could have named it. They get your composure instead of your help.
 
-You do not fire the Controller. Fire the referee and your follow-through goes with it. You take the joystick back by handing it the right rulebook, your rules, the ones you would choose on your clearest day. *Here is the ally I actually want to be: the one who names the unsaid even when her voice shakes. Hold me to that one. When a feeling shows up, let it onto the field. It is in bounds.* Do that, and the referee goes back to its real work: keeping your integrity when it costs you, and keeping the game honest, which now includes letting you feel.
+You do not fire the Controller. Fire the referee and your follow-through goes with it. You take the joystick back by handing it the right rulebook, your rules, the ones you would choose with a clear head. *Here is the ally I actually want to be: the one who names the unsaid even when her voice shakes. Hold me to that one. When a feeling shows up, let it onto the field. It is in bounds.* Do that, and the referee goes back to its real work: keeping your integrity when it costs you, and keeping the game honest, which now includes letting you feel.
 
-It shows up in a single beat. Someone on your team pushes through a decision a part of you clocks as wrong. On the old standard, the Controller rules the read inadmissible before you can speak (*probably just my stuff*), and you go along with the group. Refereeing the game you chose, it lets the read onto the field and holds you to your own rule, and you say the one true sentence, *"Something here doesn't sit right with me. Can we slow down?"*, even while your nerve tells you to let it go. It is the same part, blowing the same whistle. What changed is whose rules it enforces.
+One beat: someone on your team pushes through a decision a part of you clocks as wrong. On the old standard, the Controller rules the read inadmissible before you can speak (*probably just my stuff*). You go along with the group. Refereeing the game you chose, it lets the read onto the field and holds you to your own rule, and you say the one true sentence, *"Something here doesn't sit right with me. Can we slow down?"*, even while your nerve tells you to let it go. It is the same part, blowing the same whistle. What changed is whose rules it enforces.
 
-*Bring one real moment the Controller ruled a feeling out of order before you could act on it, a read you talked yourself out of with "probably just my stuff," or a move you didn't make until it could be perfect. Name the rule it was enforcing, and whose rule it was. Two minutes to capture it as a BAR.*
+*Bring one real moment the Controller ruled a feeling out of order before you could act on it, a reading you talked yourself out of with "probably just my stuff," or a move you didn't make until it could be perfect. Name the rule it was enforcing, and whose rule it was. Two minutes to capture it as a BAR.*
 
 ---
 
 ### How the Controller Rules You Out
 
-The Controller does not block your read with a vague no. It blocks with a verdict about you, and it has six of them, the same six every time:
+The Controller does not block your reading with a vague no. It blocks with a verdict about you, one of the same six every time:
 
 *I'm not good enough. I'm not ready. I don't belong. I'm insignificant. I'm not worthy. I'm not capable.*
 
-These are the whistle-calls. When something true moves in a moment and a part of you feels it, the Controller does not argue that the feeling is wrong. It disqualifies the one who would name it. Who are you to say this: you're not ready, you don't belong, you're not good enough. The read never reaches the field because the referee who would call it has been ruled ineligible. That is the mechanism. The six beliefs read like stray bad thoughts about yourself. They are the specific tool the Controller uses to keep your Shaman move from ever getting made.
+These are the whistle-calls. When something true moves in a moment and a part of you feels it, the Controller does not argue that the feeling is wrong. It disqualifies the one who would name it. Who are you to say this: you're not ready, you don't belong, you're not good enough. The reading never reaches the field, because the referee who would call it has been ruled ineligible. The six beliefs read like stray bad thoughts about yourself. They are the specific tool the Controller uses to keep your Shaman move from ever getting made.
 
-This is why you do not beat them by arguing. Argue *I am good enough* and you have already accepted the court. Now you are litigating your own standing while the moment passes, and the judge already has every past ruling on file and infinite patience. It wins on points every time. The Shaman's move is to notice that a court is even sitting, catch the belief in the act of disqualifying your read, and make the play anyway. Name the ruling. Name whose rule it is. Let the read onto the field with the belief still talking: *there it is, "not ready." Noted. Here is the true sentence anyway.*
+This is why you do not beat them by arguing. Argue *I am good enough* and you have already accepted the court. Now you are litigating your own standing while the moment passes. The judge has every past ruling on file, infinite patience, and a perfect record on points. The Shaman's move is to notice that a court is even sitting, catch the belief in the act of disqualifying your reading, and make the play anyway. Name the ruling. Name whose rule it is. Let the read onto the field with the belief still talking: *there it is, "not ready." Noted. Here is the true sentence anyway.*
 
 ### What You Install Instead
 
-That move gets you through the moment. Something else has to go in where the verdict sat, or the same court convenes next week with the same file open. The flat inversion fails on the mechanics. *I am good enough* is another verdict about the same defendant, argued on the judge's home ground, and you already know who wins there. What goes in has to be a claim the court cannot rule on: one about direction rather than standing, about what a move does to you rather than what you already are. The judge holds jurisdiction over your standing and none at all over where you are headed.
+Something else has to go in where the verdict sat, or the same court convenes next week with the same file open. The flat inversion, *I am good enough*, is another verdict about the same defendant, argued on the judge's home ground, where the judge wins. What goes in has to be a claim the court cannot rule on: one about direction rather than standing, about what a move does to you rather than what you already are. The judge holds jurisdiction over your standing and none at all over where you are headed.
 
-Six verdicts, six replacements. The middle column holds the version that keeps the court in session:
+The middle column holds the version that keeps the court in session:
 
 | The verdict | The flat inversion | What installs |
 |---|---|---|
@@ -676,9 +672,9 @@ Six verdicts, six replacements. The middle column holds the version that keeps t
 | I'm not worthy | I'm worthy | *I can receive support and value without first earning my right to exist.* |
 | I'm not capable | I'm capable | *I can build the capacity this next step requires.* |
 
-Every line in the third column names a process, which leaves the judge nothing to convene over, and which also means none of them installs by repetition. A belief about what action does can only be put in by action. You make the proportionate move while the verdict is still talking, the move returns a result the verdict did not predict, and the belief picks up a piece of evidence that cannot be struck from the record. *Something here doesn't sit right with me. Can we slow down?*, said at that meeting, out loud, with your nerve telling you to let it go, deposits one. You were unready, you spoke, the ceiling held. Run that enough times and *I become more ready through proportionate action* describes an event you have watched happen rather than a phrase you are trying to talk yourself into.
+Every line in the third column names a process, which leaves the judge nothing to convene over. None of them installs by repetition. A belief about what action does can only be put in by action. You make the proportionate move while the verdict is still talking, the move returns a result the verdict did not predict, and the belief picks up a piece of evidence that cannot be struck from the record. *Something here doesn't sit right with me. Can we slow down?*, said at that meeting, out loud, with your nerve telling you to let it go, deposits one. You were unready, you spoke, the ceiling held. Run that enough times and *I become more ready through proportionate action* describes an event you have watched happen rather than a phrase you are trying to talk yourself into.
 
-The move onto the field with the belief still talking is the hinge of the whole chapter, and the chapter's real axis: Feeling and Function. The first half was Feeling: the charge sensed cleanly. This half is Function: the read becoming a move that changes something. Feeling without Function is endless sensing, nothing done. So take the move out of the forest, where nothing costs you and no one is watching, and into the places allyship actually happens, where it counts. The read does nothing for the person you came to help until it leaves your body and changes what happens next. Here the Shaman stops sensing and starts doing.
+The move onto the field with the belief still talking is the hinge of the whole chapter, its real axis: Feeling and Function. The first half was Feeling: the charge felt clearly. This half is Function: the read becoming a move that changes something. Feeling without Function is endless sensing, nothing done. So take the move out of the forest, where nothing costs you and no one is watching, and into the places allyship actually happens, where it counts. The reading does nothing for the person you came to help until it leaves your body and changes what happens next. Here the Shaman stops sensing and starts doing.
 
 ### The Word Everyone Knew and No One Said
 
@@ -688,15 +684,15 @@ One year the river changed course, and the lower fields, three families' fields,
 
 There was a woman on that council who caught it every time, the way the circle warmed as the words went round and everyone settled, satisfied, while the lower fields kept dying. She could feel the whole council agree, without a word passing, that feeling the families' ruin was the same as answering it. It was not. No one said so for the reason she never did: to say so was to cross the man at the head of the circle. She had read it that clearly for three seasons. Every time, a verdict fired before she could speak: *who are you to say it. You're the newest here. You don't have the standing. You'll get it wrong and shame yourself.* So she said the beautiful words with everyone else and went home each time with the true one still sitting in her chest.
 
-The season the fields failed for good, she stopped waiting to feel ready, because she was never going to feel ready. She let the fear be all the way there (she was going to be disliked, and she was going to say it anyway) and turned to the one at the head of the circle and said it, to his face, in front of everyone: *Your plan moved the river. Three families are losing their fields. We have honored their suffering for three years and we have not moved the water back. I think we owe them the work, not the words.*
+The season the fields failed for good, she stopped waiting to feel ready, because she was never going to feel ready. She let the fear stay (she was going to be disliked, and she was going to say it anyway) and turned to the one at the head of the circle and said it, to his face, in front of everyone: *Your plan moved the river. Three families are losing their fields. We have honored their suffering for three years and we have not moved the water back. I think we owe them the work, not the words.*
 
-The fire went silent. It was not a warm silence. Someone was cornered; the respected one felt his standing questioned in front of the circle; and for that moment she was, exactly as the verdict promised, the one who broke the beautiful words.
+The fire went silent. It was not a warm silence. Someone was cornered; the respected one felt his standing questioned in front of the circle; and for that moment she was, exactly as the verdict promised, the one who had spoiled the beautiful words.
 
-Then it sat in the circle, and no one could unsay it, and the council had to answer it, not her feeling, the fact she had finally let out of her body. The water moved the next season. It moved because one sentence was true and said to the face that could change it. The correct words, for all their beauty, never were.
+Then it sat in the circle. No one could unsay it, and the council had to answer it, not her feeling, the fact she had finally let out of her body. The water moved the next season. It moved because one true sentence reached the face that could change it. The correct words, for all their beauty, never were.
 
-That is the myth this chapter breaks. Allyship is not saying the right words. The council had the right words, and the right words were the wall. Allyship is saying the true one, what a part of you has already felt, that everyone already half-knows, to the face it concerns, at the cost of being, for one cold moment, the person who said it.
+Allyship is not saying the right words. The council had the right words. The right words were the wall. Allyship is saying the true one, what a part of you has already felt, that everyone already half-knows, to the face it concerns, at the cost of being, for one cold moment, the person who said it.
 
-That move trains the Alchemist. The Alchemist is the one who takes the charge the Controller called a foul (the fear, the "not ready," the "not good enough") and burns it for fuel instead of waiting for it to go away. The woman on the council did not speak once the fear left. She spoke while it still burned, and used it. That is the Shaman's whole practice. The sensing, the Form, the Controller pried off the joystick, all aimed at one outcome: one true sentence, out of your body and into the world, where it can move the water.
+That move belongs to the Alchemist, the one who takes the charge the Controller called a foul (the fear, the "not ready," the "not good enough") and burns it for fuel instead of waiting for it to go away. The woman on the council did not speak once the fear left. She spoke while it still burned, and used it. That is the Shaman's whole practice. The sensing, the Form, the Controller pried off the joystick, all aimed at one outcome: one true sentence, out of your body and into the world, where it can move the water.
 
 ### 3-2-1 on Your Controller
 
@@ -719,22 +715,22 @@ The one described above enforces a generic rulebook. Yours enforces a specific o
 
 ### What You Take Out of the Forest
 
-The Controller developed does what nothing else in this chapter can do: it admits a feeling onto the field and holds you to a line in the same motion. Those two rarely travel together. The Shaman's move needs both at once: the read let all the way in, and something in you that will not let you leave the table with it unsaid.
+The Controller developed does what nothing else in this chapter can do: it admits a feeling onto the field and holds you to a line in the same motion. Those two rarely travel together. The Shaman's move needs both at once: the reading let all the way in, and something in you that will not let you leave the table with it unsaid.
 
-That is what the Alchemist runs on. You cannot burn a charge you never let yourself have, and you will not spend one while the fear is still live unless some part of you enforces a rule you set on a clearer day. The woman at the council had both, and the rule won. That is a referee doing its job rather than a feeling that finally got loud enough.
+That is what the Alchemist runs on. You cannot burn a charge you never let yourself have. You will not spend one while the fear is still live unless some part of you enforces a rule you set on a clearer day. The woman at the council had both. The rule won, which is a referee doing its job rather than a feeling that finally got loud enough.
 
-You know what your Controller is for now. That is what you take out.
+What you take out is what your Controller is for.
 
-Theirs is doing the same job in a Forest you cannot see into. A stranger's Controller enforces a rulebook you have never read, so it fires when you arrive holding a better standard, and it opens when you meet the one they already keep. You earn clearance with a Controller by keeping their rule.
+Other people's Controllers do the same job in a Forest you cannot see into. A stranger's Controller enforces a rulebook you have never read, so it fires when you arrive holding a better standard, and it opens when you meet the one they already keep. Keeping their rule is how you earn clearance with it.
 
 ---
 
 <!-- SECTION 6 -->
 ## What Winning Looks Like at the Shaman's Altitude
 
-You know what emotional alchemy is. You have run the five stages. You have met the part of you that decides which feelings you are cleared to have where other people can see them. Now the table.
+You know what emotional alchemy is. You have run the five stages. You have met the part of you that decides which feelings you are cleared to have where other people can see them.
 
-Winning at the Shaman's altitude is smaller than you want it to be: one true sentence, said to a person who can hear it, while it is still live. That is the whole win. Insight does not count. A more accurate model of the group than anyone else has does not count. One sentence counts: the one that left your body, entered the situation, and changed what was possible inside it. The woman at the council did not bring the elders a framework. She brought them four sentences she had been holding for three seasons, said to the one face that could act on them.
+The whole win at the Shaman's altitude is one true sentence, said to a person who can hear it, while it is still live. Insight does not count. A more accurate model of the group than anyone else has does not count. What counts is the sentence that left your body, entered the situation, and changed what was possible inside it. The woman at the council did not bring the elders a framework. She brought them four sentences she had been holding for three seasons, said to the face that could act on them.
 
 Everything in the practice was the instrument. These five are what you do with the instrument when other people are present and the clock is running. They run in the Form's order, because the Form is the order: you catch the signal, you let it up, you name the channel, you find what it grew, you spend it. The practice taught you to run that alone. These five are what it costs to run it where somebody is watching.
 
@@ -744,23 +740,23 @@ Everything in the practice was the instrument. These five are what you do with t
 
 **What it is:** You catch the signal in the second before your mind writes the account of what it means.
 
-**Why it matters:** A feeling arrives with about a second of clean data attached to it. The story comes next: who did what, what it says about them, what it says about you, whether you are allowed to be having this at all. The story arrives so fast that it feels like the same event. It is not. It is a second layer built on top of the first, and by the time you are working with it, you are no longer reading the situation. You are reading your explanation of the situation, a document you wrote.
+**Why it matters:** A feeling arrives with about a second of clean data attached to it. The story comes next: who did what, what it says about them, what it says about you, whether you are allowed to be having this at all. The story arrives so fast that it feels like the same event. It is not. It is a second layer built on top of the first. By the time you are working with it, you are no longer reading the situation. You are reading your explanation of the situation, a document you wrote.
 
 The Shaman's read is the data, not the document. Everything downstream (the channel you name, the sentence you say, the domain you spend it in) is only as good as what you caught before the narration started.
 
-In practice: the marker arrives in the body, because the body registers before the account exists. Heat in the chest, a drop in the stomach, the jaw. When you notice one, do not ask what it means. Ask where it is and what it is doing. Meaning keeps; it will still be there later. The raw signal will not.
+In practice: the marker arrives in the body, which registers before the account exists: heat in the chest, a drop in the stomach, the jaw. When you notice one, do not ask what it means. Ask where it is and what it is doing. Meaning keeps; it will still be there later. The raw signal will not.
 
 **Example:** Somebody uses the wrong pronoun for Ines in a status meeting, corrects it, and moves on. Your chest tightens. Check the timing. The tightening did not land on the correction. It landed a second later, when Ines did not change her face. Your body read her, not the slip. You caught it because you have been the person holding your face still.
 
-**The test:** You noticed where it landed in your body before you had a sentence explaining it. Accuracy is a separate question and a later one. If you can name the place and not the reason, you caught it in time.
+**The test:** You noticed where it landed in your body before you had a sentence explaining it. Accuracy is a separate, later question. If you can name the place and not the reason, you caught it in time.
 
 ### Move 2 · Open Up — Turn the Dial Up
 
 **What it is:** In the second you would normally compose yourself, turn the sensitivity up instead. Six seconds is enough.
 
-**Why it matters:** You cannot affect what you cannot feel, and the dial in your hand only ever moved one direction. A reading taken at that setting arrives a beat after the moment it was for. Turn it up and you find what the low setting was covering. A part of you is getting something out of the very dynamic you say you want to end. The charge of being the good one. The relief when the conversation stays comfortable. That part steers better in the dark, and the low setting is the dark.
+**Why it matters:** You cannot affect what you cannot feel. The dial in your hand only ever moved one direction. A reading taken at that setting arrives a beat after the moment it was for. Turn it up and you find what the low setting was covering. A part of you is getting something out of the very dynamic you say you want to end. The charge of being the good one. The relief when the conversation stays comfortable. That part steers better in the dark. The low setting is the dark.
 
-In practice: the marker is the urge to sit up straight and sound reasonable. That urge is your hand on the dial, moving it down. Leave it where it is. Count six seconds and let the situation reach you at full strength, including the part of it you would rather not have found.
+In practice: the sign is the urge to sit up straight and sound reasonable. That urge is your hand on the dial, moving it down. Leave it where it is. Count six seconds and let the situation reach you at full strength, including the part of it you would rather not have found.
 
 **Example:** A colleague presents your analysis as his own and you say nothing. You compose the polite version instantly: level voice, easy face, a note to raise it with him later. Turn the dial up instead. The anger arrives, which you expected. Underneath it sits something you did not expect, a small relief, because now you hold a grievance you never had to ask for. Keep the relief. The anger was the part you already knew about.
 
