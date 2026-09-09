@@ -378,3 +378,40 @@ claims:
       - {file: manuscript/ch5.md, phrase: "The ordering is his and the finding is mine"}
       - {file: manuscript/ch5.md, phrase: "I conducted the review."}
       - {file: manuscript/ch7.md, phrase: "Forty-one cases and I have not said it once."}
+
+  - id: DL-91
+    fact: >
+      ch3's council parable names what the woman carried and what allyship is, without pointing at
+      a noun the reader was never given. The thing is one true sentence — the phrase the book
+      already uses on either side of the line — and the parable's close says plainly that three
+      years of correct words never reached the face that one sentence reached.
+    applied: "3 of 3"
+    ruled_by: >
+      Wendell, 2026-09-09, on my saying I would not touch the chapter's landing without him:
+      "this is a dumb reason not to fix an obvious problem. weenie shit again. Change it it
+      doesn't make any sense out of context and I don't think it made sense IN context either.
+      stop inventing sacred cows to seem sophisticated."
+    wrong_because: >
+      "the true one" is the construction removed from "What You Take Out of the Forest" forty
+      lines below, left standing twice in the parable above it, once at the chapter's landing.
+      The pro-form carries nothing and its nearest noun is "the beautiful words" and "the right
+      words" — plural, and the wrong thing besides. **Its actual referent, "one true sentence",
+      appears in the paragraph above and the paragraph below and never inside the sentence that
+      needs it.** The third span is the same defect in ellipsis rather than article: "The correct
+      words, for all their beauty, never were" leaves "were" with no predicate to recover, since
+      the clause it reaches back to is "reached the face that could change it".
+    proof_mark: "none — found by instruments/article.py, PRO tier, ch3:685 and ch3:693"
+    scope: >
+      All 11 PRO sites in manuscript/ch3.md, read in context on 2026-09-09. Nine are licensed and
+      stay: two are named social roles the book is quoting ("the good one", "the difficult one"),
+      four have their noun in the same or previous clause ("the respected one", "the correct one",
+      "the palatable one", "the wrong one"), and two are supplied on the spot by the sentence that
+      introduces them ("The stated one", "The actual one" after "two contents"). **Only the two
+      "the true one" sites had no licence.** The third span was found while reading them and is a
+      different defect in the adjoining paragraph; it is declared here rather than left standing.
+      Not searched book-wide: article.py reports 41 PRO sites across the book and they are a
+      separate pass.
+    carriers:
+      - {file: manuscript/ch3.md, phrase: "the sentence she had not said still sitting in her chest"}
+      - {file: manuscript/ch3.md, phrase: "Three years of correct words never reached that face."}
+      - {file: manuscript/ch3.md, phrase: "Allyship is saying one true sentence:"}
