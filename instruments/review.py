@@ -327,6 +327,14 @@ def book():
         # sentence with a stale entry -- so it reports here and never stops a press; the
         # unambiguous half, a ruling applied to some of its spans and not the rest, is a
         # shipcheck blocker instead. See specs/SPEC_CLAIMS_REGISTRY_2026-09-09.md.
+        # 7l added 2026-09-09. Wendell, on a draft that had passed every counter: "'the true
+        # sentence.' also a definite article failure... if it can be said without it it should be
+        # rewritten unless it's doing the specific things in our rules which I notice aren't
+        # firing for these revisions." He was right that nothing fired. empty_head.py asks whether
+        # a HEAD NOUN is empty; nothing asked whether a definite article was earning its place
+        # over a perfectly good noun, so a whole defect class was invisible and the board reported
+        # clean over it. Reporting only, like empty_head was at first.
+        ("7l article ", ["instruments/article.py"], "reporting only"),
         ("7k claims  ", ["instruments/claims.py"], None),
         ("9 coherence", ["instruments/coherence.py"], "COHERENCE PASS"),
     ]
