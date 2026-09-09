@@ -326,3 +326,35 @@ claims:
       passes over a sixty-line divergence is not checking the round trip.
     carriers:
       - {file: marginalia/insertions.py, phrase: "I look for two qualities and will not take one without the other"}
+
+  - id: DL-90
+    proposed_fact: >
+      Undetermined. Four passages are a Head's own record — a session log, a register of clauses
+      with notes, a casebook — sitting in ordinary text with nothing attributing them. All four
+      were licensed by "above the signature, only the Head", which DL-85 retired on 2026-09-09.
+    wrong_because: >
+      **Nothing was edited and nothing broke.** The signature moved into the admissions box and
+      the attribution moved with it, so the license was withdrawn from underneath prose that was
+      correct the day before. No instrument can see this: the sentences are unchanged and every
+      counter reads the same.
+      ch7 is the sharpest case because DL-19 named this exact passage on 2026-07-31 — "in ch7 the
+      collision is total: Elian Cross recounts cases with a cost… the exact shape a Wendell
+      testimony would take" — and resolved it on 2026-08-01 by moving WENDELL out and leaving the
+      Head in, because the Head was licensed. That reasoning is now void.
+    scope: >
+      Sections 1-3 of ch3, ch5 and ch7 read in full on 2026-09-09 with every framed block
+      stripped, 8,516 words, by reading rather than search. **ch4, ch6 and ch8 were not read**
+      and may hold the same shape; their first-person counts are comparable and most first-person
+      hits in the chapters that were read turned out to be quoted fable dialogue rather than Head
+      records. Census: specs/CENSUS_HEAD_VOICE_2026-09-09.md.
+    note: >
+      889 words in four passages: ch3:170-176 (Voss, 159), ch5:113-147 (Quill, 399),
+      ch5:211-217 (Quill, 157), ch7:145-155 (Cross, 174). Five options are laid out in the
+      census, none recommended. The Polarity Map question that was to be ruled alongside this
+      one has closed itself: with the signature gone from that position, the Map reads
+      unambiguously as the author's.
+    carriers:
+      - {file: manuscript/ch3.md, phrase: "Three years of nothing, in my own handwriting"}
+      - {file: manuscript/ch5.md, phrase: "The ordering is his and the finding is mine"}
+      - {file: manuscript/ch5.md, phrase: "I conducted the review."}
+      - {file: manuscript/ch7.md, phrase: "Forty-one cases and I have not said it once."}
