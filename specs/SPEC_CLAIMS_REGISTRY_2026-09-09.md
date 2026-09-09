@@ -15,11 +15,12 @@ created: 2026-09-09
 review: 2026-09-23
 source:
   - specs/PANEL_CENSUS_GAP_6FACE_2026-09-09.md
+  - specs/PANEL_CLAIMS_REGISTRY_OPEN_Q_6FACE_2026-09-09.md
   - specs/EDITORIAL_PIPELINE_COHERENCE_2026-09-03.md
   - specs/DECISION_LOG.md
   - instruments/coherence.py
   - instruments/agency_registry.yaml
-status: specified, not built
+status: specified, not built; all three open questions ruled by panel 2026-09-09
 ---
 
 # The claims registry
@@ -112,6 +113,10 @@ Each is testable. `MUST` is a build requirement; `MUST NOT` is a refusal the pan
 - **FR-C1** `instruments/claims.yaml` holds one entry per ruled content fact, with: `id`, `fact`
   (one sentence), `wrong_because` (the symptom — why the carriers were easy to miss),
   `carriers` (a list of `{file, phrase}`), `status` (`N of M`), `ruled` (date), `ruled_by`.
+- **FR-C1a** `id` MUST be a `DL-nn` id from `DECISION_LOG.md`. There is no second id space.
+  `claims.yaml` is the machine-readable half of the decision log, and keying the live check to the
+  log's ids is what makes sixty unread rulings load-bearing. The Controller ruling enters as
+  **DL-78**. *(Panel 2026-09-09, Q2. Supersedes the withdrawn `CLM-nn` proposal.)*
 - **FR-C2** Carriers MUST be verbatim quoted spans. Line numbers MUST NOT appear in a carrier;
   they rot on the next insertion and a false failure is how a check gets switched off.
 - **FR-C3** A carrier SHOULD be the shortest distinctive span that carries the claim, not the whole
@@ -119,7 +124,24 @@ Each is testable. `MUST` is a build requirement; `MUST NOT` is a refusal the pan
 - **FR-C4** `instruments/claims.py` MUST verify that every carrier phrase occurs **exactly once**
   in its named file.
 - **FR-C5** A missing or duplicated carrier MUST fail the run with a nonzero exit, naming the
-  claim id, the fact, the file, and the phrase.
+  claim id, the fact, the file, and the phrase. It MUST fail `review.py` and `coherence.py` and
+  MUST NOT stop the press. Carrier drift is ambiguous between a broken ruling and an improved
+  sentence with a stale entry, and an ambiguous signal that holds a press gets muted rather than
+  read. *(Panel 2026-09-09, Q1.)*
+- **FR-C5a** Resolving a carrier failure MUST cost one line: restore the span in the prose, or
+  update the phrase in the entry. If resolution requires reopening a ruling, the check will be
+  resolved by deletion.
+- **FR-C9** An entry with no `ruled_by` is a **candidate**: a carrier census nobody has ruled yet.
+  `claims.py` MUST report candidates and MUST NOT fail on them. Anyone may add one, because a
+  census is a measurement rather than an authority. An entry with `ruled_by` is a **claim**, and
+  claims fail. *(Panel 2026-09-09, Q3.)*
+- **FR-C10** A claim whose `status` reads `N of M` with `N < M` MUST be a `shipcheck.py` blocker.
+  Unlike carrier drift this is unambiguous — the work was started and not finished — and it meets
+  shipcheck's own test of *incomplete in a reader's hands*. `rescan.py` already ranks a claim error
+  first, as *"the most expensive to ship."*
+- **FR-C11** `claims.py` output MUST state its coverage: how many rulings are guarded, and how many
+  `DECISION_LOG` entries have no registry entry. A six-entry registry MUST NOT print a board that
+  reads like coverage of the book.
 - **FR-C6** `claims.py` MUST be wired into `review.py`'s book-wide pass as a numbered step.
 - **FR-C7** `coherence.py` MUST gain a check that validates the registry's own shape: every entry
   has at least one carrier, every named file exists, every `status` count equals the number of
@@ -143,13 +165,14 @@ Each is testable. `MUST` is a build requirement; `MUST NOT` is a refusal the pan
 - **FR-D1** Given a working-tree diff, flag any hunk that changes some sentences of a paragraph
   and leaves its neighbours untouched.
 - **FR-D2** When the paragraph contains a registered carrier, the finding MUST name the claim and
-  its carrier count. *"This paragraph carries CLM-01, four carriers, you changed one"* is a
+  its carrier count. *"This paragraph carries DL-78, four carriers, you changed one"* is a
   finding; *"look at the neighbours"* is noise.
 
 ### B · Inheritance — *on contact only*
 
-- **FR-B1** `claims.yaml` MUST reuse `DECISION_LOG`'s field vocabulary so the two read as one
-  system.
+- **FR-B1** `claims.yaml` MUST be **keyed by** `DECISION_LOG`'s ids, not merely styled after its
+  fields. The two are one system with a prose half and a machine half. *(Strengthened by the panel
+  2026-09-09; the original wording asked only for shared vocabulary.)*
 - **FR-B2** Existing decision-log entries MUST NOT be retrofitted on a sweep. An entry earns a
   claims entry when the prose it rules is next touched.
 
@@ -162,20 +185,20 @@ Concrete, in order. Each is a command and an expected result.
 | **A1** | `python3 instruments/review.py <file>` | board ends with the boundary line |
 | **A2** | `python3 instruments/review.py` | same boundary line, book-wide path |
 | **A3** | `python3 instruments/claims.py` with the registry as shipped | exit 0, every carrier found once |
-| **A4** | edit one carrier span in `manuscript/ch3.md`, re-run | exit nonzero, names CLM-01, the fact, the file, the phrase |
+| **A4** | edit one carrier span in `manuscript/ch3.md`, re-run | exit nonzero, names DL-78, the fact, the file, the phrase |
 | **A5** | restore the span, re-run | exit 0 |
 | **A6** | duplicate a carrier span elsewhere in the same file | exit nonzero, reports the phrase as ambiguous |
 | **A7** | `python3 instruments/coherence.py` with a registry entry whose file does not exist | that check fails and names the entry |
 | **A8** | a ruling script declaring `CARRIERS = 4` with one edit | refuses, writes nothing, exit nonzero |
 | **A9** | `python3 instruments/review.py` book-wide | the claims step appears on the board as its own row |
 
-**The seeding test, which is the one that matters.** CLM-01 is entered with the four carriers from
+**The seeding test, which is the one that matters.** DL-78 is entered with the four carriers from
 §1, in their current corrected wording. A5 and A4 together demonstrate the guard that was missing
 when the defect was made.
 
 ## 6 · What this would have caught, and what it would not
 
-**Would not have caught the original defect.** At the moment of that edit CLM-01 did not exist, so
+**Would not have caught the original defect.** At the moment of that edit DL-78 did not exist, so
 nothing would have fired. Stated plainly because the opposite is the tempting claim: this is not a
 detector, it is a ratchet. Its value begins at the first ruling made under it.
 
@@ -201,26 +224,30 @@ script is a refusal, and the census becomes a build requirement rather than a di
 - **Replacing the logical read.** The board may tell you the read is worth doing. It may not close
   the item.
 
-## 8 · Open questions
+## 8 · Open questions — all three resolved by panel, 2026-09-09
 
-- **Q1 · Does a carrier failure block the press, or only the board?** The panel ruled it must fail
-  a run. It did not say which. `shipcheck.py`'s test under DL-20 is *"something that reaches a
-  reader wrong or incomplete"*, and a self-contradicting paragraph meets it. Proposed: fails
-  `review.py` and `coherence.py` now; a shipcheck category only if a carrier failure ever survives
-  to a proof. **Needs Wendell.**
-- **Q2 · Claim ids.** `C1` is already in use in `EDITORIAL_WORKING_LIST_2026-07-31.md` as a
-  per-chapter error class, so it collides. Proposed: `CLM-01`, `CLM-02`, sequential, never reused.
-  **Recorded as a decision; reversible.**
-- **Q3 · Who may add an entry?** Proposed: anyone applying a ruling, at the moment of the census,
-  with Wendell's ruling recorded in `ruled_by`. **Needs Wendell only if he wants entries gated.**
+- **Q1 · Does a carrier failure block the press, or only the board? RESOLVED by splitting the
+  signal.** Carrier drift is ambiguous, so it fails `review.py` and `coherence.py` only (FR-C5). An
+  incomplete application — a status of `N of M` with `N < M` — is unambiguous and is a shipcheck
+  blocker (FR-C10). The question was a threshold argument because one signal was carrying two
+  meanings.
+- **Q2 · Claim ids. RESOLVED.** `C1` collides with the working list's per-chapter error class,
+  and the spec's first answer — a new `CLM-nn` space — was withdrawn by the panel as a second
+  register arriving in a new coat. **One namespace: `DL-nn`.** See FR-C1a.
+- **Q3 · Who may add an entry? RESOLVED: open, in two tiers.** A carrier census with no
+  `ruled_by` is a **candidate** and is reported, never failed. An entry with `ruled_by` is a
+  **claim** and fails the run. Gating entry would make the registry a record of Wendell's
+  availability, and a thin registry implies a coverage it does not have. See FR-C9.
 
 ## 9 · Build order and status
 
 | | item | state |
 |---|---|---|
 | 1 | **F** — boundary line in `review.py` | specified |
-| 2 | **C** — `claims.yaml` + `claims.py`, wired into `review.py` and `coherence.py`, seeded with CLM-01 | specified |
+| 2 | **C** — `claims.yaml` + `claims.py`, wired into `review.py` and `coherence.py`, seeded with DL-78 | specified |
 | 3 | **E** — `CLAIM` / `CARRIERS` declaration and the shared refusal helper | specified |
+| 3b | **DL-78** written into `DECISION_LOG.md` with its Location column and a counted status | specified |
+| 3c | **shipcheck** category for an incomplete application (FR-C10) | specified |
 | 4 | **D** — diff alarm, naming the claim | specified, deferred until C ships |
 | 5 | **B** — retrofit on contact | standing rule, no work item |
 
