@@ -600,7 +600,7 @@ The draw wants a reading you already had: the most recent one that never left yo
    **FEELING** ←——●——→ **FUNCTION**
 
    Mark where you actually sat in that moment.
-   Not where the read deserved to sit.
+   Not where you wish you had sat.
 
 3. Write one integrated sentence that holds both poles at once:
    *"I felt __________ and I kept it because __________,
@@ -784,7 +784,7 @@ In practice: use the channel word, not the euphemism. *Anger* rather than *frust
 
 **Why it matters:** A reading you understand and then set down leaves you where you started with better vocabulary. This stage converts information into equipment. Fear that showed you what matters becomes a value you hold rather than one you argue for. Anger that showed you a line becomes a line you may hold. The feeling stops being something that happened to you and becomes something you own.
 
-In practice: say it to your own nervous system, plainly, in the seconds after the read. *I get it. The message landed.* Then finish the sentence with the equipment. *I can tell when a plan is being agreed to and not believed.* *I can hold a hard look without going away.*
+In practice: say it to your own nervous system, plainly, in the seconds after you catch it. *I get it. The message landed.* Then finish the sentence with the equipment. *I can tell when a plan is being agreed to and not believed.* *I can hold a hard look without going away.*
 
 **Example:** You noticed months ago that your sister Jo is not disorganized, and that every family visit costs her something it does not cost the rest of you. Neither of you has a word for it. You were right. Being right bought her nothing. Say what you can do now, to her, once: *I can tell the difference between someone struggling and a weekend that is expensive for one person. I am going to say so at the table before I can prove it.* If you have misread it, she watches you misread it. What she does with it, including nothing, is hers.
 
@@ -837,7 +837,7 @@ When you say it, what you do next decides whether it helps the person or wounds 
 
 **Raise Awareness — the true read instead of the correct one**
 
-*You're winning when:* you said what was actually happening, the read under the approved language, to the real people who needed to hear it, including the one it implicates, instead of the correct-sounding version that keeps you safe. You came out from behind the right words. The proof is that the group met what was true and not the performance of it.
+*You're winning when:* you said what was actually happening, under the approved language, to the real people who needed to hear it, including the one it implicates, instead of the correct-sounding version that keeps you safe. You came out from behind the right words. The proof is that the group met what was true and not the performance of it.
 
 **Gather Resources — the real need named**
 
@@ -849,7 +849,7 @@ When you say it, what you do next decides whether it helps the person or wounds 
 
 ### After this, everything stands on it
 
-The Diplomat's close, the Challenger's line, the Regent's stand, the Architect's design: none of them holds up on a bad reading. You are the first face for a reason. Every move the other five make begins here, with someone who can feel what is actually happening and say it where it counts. The Challenger aims the read into a line. The Architect builds structure from it. The Regent keeps what the read found worth keeping. The reading comes first. A reading that never leaves the chair stalls the whole game. That is why you start with the Shaman, and why the read, said and not only felt, is the move everything else will stand on.
+The Diplomat's close, the Challenger's line, the Regent's stand, the Architect's design: none of them holds up on a bad reading. You are the first face for a reason. Every move the other five make begins here, with someone who can feel what is actually happening and say it where it counts. The Challenger aims the read into a line. The Architect builds structure from it. The Regent keeps what the read found worth keeping. The reading comes first. A reading that never leaves the chair stalls the whole game. That is why you start with the Shaman, and why saying what you sensed, and not only feeling it, is the move everything else will stand on.
 
 ### The Tell
 
@@ -860,7 +860,7 @@ None of the four markers asked why you said it. A Shaman who names the unsaid to
 - **Gather Resources.** Did you ask for what the situation needs, or for what makes you look most attuned?
 - **Skillful Organizing.** Did you name what nobody would say to free the work, or to be the one who finally said it?
 
-Each Tell targets the Shaman's signature failure: the read spent on being seen as perceptive instead of on changing something.
+Each Tell targets the Shaman's signature failure: what you saw, spent on being seen as perceptive instead of on changing something.
 
 ---
 
@@ -898,7 +898,7 @@ A reading that ends in a notebook is a reading you had. A reading that ends in a
 
 A quest is a commitment to act that touches somebody other than you, on a date. It is not a resolution and it is not a value. It has a verb, a name in it, and a deadline. A quest comes out of Show Up, the move that takes the reading into the world, and every one of them ends in an artifact, which is something another person can encounter.
 
-Before you make it a quest, locate yourself in the situation. What is yours to name, offer, or change? Who can tell you no, redirect you, or correct the read? If you have standing to move, make the smallest action that changes what you control. If you do not have it yet, getting it is the quest: ask permission, offer one bounded contribution, prepare with somebody whose job is to help you, or step back cleanly. A quest that changes what other people live with needs one more move, and you will meet it with the Player in Chapter 9.
+Before you make it a quest, locate yourself in the situation. What is yours to name, offer, or change? Who can tell you no, redirect you, or say you have it wrong? If you have standing to move, make the smallest action that changes what you control. If you do not have it yet, getting it is the quest: ask permission, offer one bounded contribution, prepare with somebody whose job is to help you, or step back cleanly. A quest that changes what other people live with needs one more move, and you will meet it with the Player in Chapter 9.
 
 Write yours in one sentence: what you will do, who it reaches, by when, and what it costs you. *Say the Unsaid Charge* becomes: **I will tell Dana what I noticed in Tuesday's meeting and not soften it, before Friday, and it will cost me her thinking I am difficult.** That is a quest. *I will be more aware of my impact* is not one; nobody can tell whether you did it, including you.
 
@@ -915,7 +915,7 @@ The Shaman contributes this to the allyship game: **before any move you make in 
 
 The Shaman teaches you to read that pattern, in yourself, in others, in the group.
 
-One more voice waits on the other side of the read. The moment you take the read into the world and say it out loud, the doubt speaks up first: *is it even real? Are you sure, or are you making it up?* That is the Skeptic, the part that doubts your own knowing before anyone else can. The next face begins there. The Challenger cannot do their work without the Shaman's work done first. The Challenger's superpower is the ability to name what's unacceptable. To draw a line. To say "this is not okay." If you don't know what you *feel* about what's unacceptable, if you haven't read the emotional truth underneath, then the Challenger's line is performance, strategy without root.
+One more voice waits after that. The moment you take what you saw into the world and say it out loud, the doubt speaks up first: *is it even real? Are you sure, or are you making it up?* That is the Skeptic, the part that doubts your own knowing before anyone else can. The next face begins there. The Challenger cannot do their work without the Shaman's work done first. The Challenger's superpower is the ability to name what's unacceptable. To draw a line. To say "this is not okay." If you don't know what you *feel* about what's unacceptable, if you haven't read the emotional truth underneath, then the Challenger's line is performance, strategy without root.
 
 Every great boundary is rooted in a feeling. Every genuine "no" comes from a Shaman who knows what they actually care about.
 

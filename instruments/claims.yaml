@@ -463,10 +463,15 @@ claims:
       - {file: manuscript/ch3.md, phrase: "The whole win at the Shaman's altitude is what you sensed"}
       - {file: manuscript/ch3.md, phrase: "and you say what you clocked"}
       - {file: manuscript/ch3.md, phrase: "Noted. Saying it anyway."}
-      - {file: manuscript/ch3.md, phrase: "why the read, said and not only felt, is the move"}
+      - {file: manuscript/ch3.md, phrase: "and not only feeling it, is the move everything else will stand on."}
       - {file: manuscript/ch7.md, phrase: "you've said the hard part out loud"}
       - {file: manuscript/ch7.md, phrase: "accurate, and said in a way that ends the possibility of saying anything after it"}
       - {file: manuscript/ch7.md, phrase: "and the accuracy that ends the conversation."}
+    amended: >
+      2026-09-09, same day. DL-95 rewrote the ch3:852 carrier when it cut the filler uses of
+      "the read" — a word this ruling had itself put there an hour earlier. **The drift check
+      caught it**, the fact is untouched, and the carrier is re-pointed at the clause that now
+      carries it.
 
   - id: DL-93
     fact: >
@@ -558,3 +563,41 @@ claims:
       - {file: manuscript/ch8.md, phrase: "The seat where nobody had to account to you is gone."}
       - {file: manuscript/ch8.md, phrase: "You stopped describing the problem best and paying for none of it."}
       - {file: manuscript/ch8.md, phrase: "They stopped counting you as one of them for a while afterward."}
+
+  - id: DL-95
+    fact: >
+      "The read" appears in ch3 only where it is being defined, handed off, or used as a label.
+      Where the sentence means no more than what you noticed, it says so.
+    applied: "7 of 7"
+    ruled_by: >
+      Wendell, 2026-09-09: "'their read' hate this use of read. It's overused and means very
+      little", then "we should probably reevaluate this. We need a stronger word that doesn't get
+      so tired upon repetition", then "cut the filler reads only".
+    wrong_because: >
+      **23 noun uses in one chapter is roughly one every 340 words, and no word survives that
+      rate** — which is why the answer is frequency rather than vocabulary. A stronger word would
+      tire on the same page. The term does three jobs and only one earns a noun: it names the
+      faculty, it is the defined term the chapter hands to the other five Faces, and it labels
+      four handbook entries — those are kept, because a technical term has to repeat to stay
+      technical. The rest mean "what you noticed" and the sentence can say so. **One of the eight
+      cut was mine, an hour old:** DL-92 put "the read" into ch3:852, the chapter's closing line,
+      forty words below another "the read". Nothing in the pipeline counts how often one word is
+      asked to carry a paragraph.
+    proof_mark: "none — ruled on a count Wendell asked for after flagging two loose uses"
+    scope: >
+      All 23 noun uses of "read" in manuscript/ch3.md, each read in its paragraph on 2026-09-09.
+      **15 kept and named in instruments/cut_filler_read.py**; 8 occurrences cut across 7 spans.
+      The counter in that script reports 23 to 16 rather than to 15, because its own tail filter
+      skips "the read into…" and never counted one of the eight.
+      The two loose uses outside ch3, "their read of you as…" meaning their opinion of you at
+      ch4:718 and ch6:623, were removed by DL-94. "Reading" as a noun is a different word and is
+      not in scope. **"The true read" in the Raise Awareness label stays**, per DL-92: the
+      objection lands on naming, not on seeing.
+    carriers:
+      - {file: manuscript/ch3.md, phrase: "Not where you wish you had sat."}
+      - {file: manuscript/ch3.md, phrase: "in the seconds after you catch it."}
+      - {file: manuscript/ch3.md, phrase: "what was actually happening, under the approved language,"}
+      - {file: manuscript/ch3.md, phrase: "why saying what you sensed, and not only feeling it,"}
+      - {file: manuscript/ch3.md, phrase: "what you saw, spent on being seen as perceptive"}
+      - {file: manuscript/ch3.md, phrase: "redirect you, or say you have it wrong?"}
+      - {file: manuscript/ch3.md, phrase: "One more voice waits after that."}
