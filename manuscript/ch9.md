@@ -16,9 +16,8 @@
 
 ---
 
-## Section 1: The Exile
-
-### *Why the Player Left (And What They Carried With Them)*
+<!-- SECTION 1 -->
+## Why the Player Left (And What They Carried With Them)
 
 Nobody exiled the Player.
 
@@ -36,9 +35,8 @@ The Player left carrying the whole map. With a specific destination in mind.
 
 ---
 
-## Section 2: The Distortion
-
-### *What Emerged Without the Player's Example (And the Shadow That Follows)*
+<!-- SECTION 2 -->
+## What Emerged Without the Player's Example (And the Shadow That Follows)
 
 Villagers taught that the six Faces named a destination.
 
@@ -62,9 +60,8 @@ The real Player walks through all six Faces and then decides. *This is my game. 
 
 ---
 
-## Section 3: The Concept
-
-### *From Map to Design: What You're Actually Holding*
+<!-- SECTION 3 -->
+## From Map to Design: What You're Actually Holding
 
 You have been the Shaman. You know how to feel what's true in a group, name it without destroying it, let the feeling complete its cycle before you act on it.
 
@@ -96,9 +93,8 @@ You have been learning what to do in those moments. The Five-Move Form. The six 
 
 ---
 
-## Section 4: The Practice
-
-### *How to Design Your Own Allyship Game*
+<!-- SECTION 4 -->
+## How to Design Your Own Allyship Game
 
 The practice has five modes. They don't run in sequence the way the Form's stages do: they loop. You return to them, and each pass through goes a little deeper.
 
@@ -223,7 +219,8 @@ So keep asking the question that planning-disguised-as-building cannot survive: 
 
 ---
 
-## Section 5: Journey to the Center
+<!-- SECTION 5 -->
+## Journey to the Center
 
 ### *The Map: What You Are Now Holding*
 
@@ -447,11 +444,10 @@ You are ready to be useful.
 
 ---
 
-## Section 6: The Game
+<!-- SECTION 6 -->
+## What Winning Looks Like at the Player's Altitude
 
-### *What Winning Looks Like at the Player's Altitude*
-
-You know what the six Faces are for. Section 4 asked which ones you live in and which ones you only perform, and walked you through the five modes a builder moves between. Now the table.
+You know what the six Faces are for. The practice asked which ones you live in and which ones you only perform, and walked you through the five modes a builder moves between. Now the table.
 
 Here is what winning looks like at the Player's altitude, and it is smaller than the word *game* makes it sound: something exists that did not exist before you, and somebody who is not you has it in their hands. That is the whole win. The design does not have to be finished. The system does not have to anticipate every case. It has to get made, get handed over, and come back changed.
 
@@ -567,9 +563,8 @@ That's it. Sixty seconds. The design took two lines. The hard part is the next s
 
 ---
 
-## Section 7: Recap and Transition
-
-### *What the Player Gives the Village*
+<!-- SECTION 7 -->
+## What the Player Gives the Village
 
 The Player's gift is a path. You wanted an answer; this is better and slower.
 

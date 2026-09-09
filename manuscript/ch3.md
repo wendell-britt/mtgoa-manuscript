@@ -69,8 +69,8 @@ So Chapter 3 does two jobs. It serves as the Shaman's chapter and as the toolkit
 
 ---
 
-## Section 1: The Exile
-### *Why the Shaman Left the Village (And What the Village Lost)*
+<!-- SECTION 1 -->
+## Why the Shaman Left the Village (And What the Village Lost)
 
 There was a time when the Shaman lived in the village.
 
@@ -126,8 +126,8 @@ Each of the six Faces carries its own word for being good to somebody. **The Sha
 
 ---
 
-## Section 2: The Distortion
-### *What the Village Does With Emotional Alchemy When the Shaman Is Gone*
+<!-- SECTION 2 -->
+## What the Village Does With Emotional Alchemy When the Shaman Is Gone
 
 Here's what happened after the Shaman left: the villagers didn't stop feeling.
 
@@ -157,8 +157,8 @@ Nothing says "belonging" quite like replacing the people who had to love you wit
 
 ---
 
-## Section 3: The Concept
-### *What Emotional Alchemy Actually Is (And Why It's Not What You've Been Told)*
+<!-- SECTION 3 -->
+## What Emotional Alchemy Actually Is (And Why It's Not What You've Been Told)
 
 The villagers shrink alchemy into processing: *identify* the emotion, *understand* where it came from, *release* it, and then *move on.* That model treats emotions like a problem that has a solution. Once you solve it, it's gone.
 
@@ -249,8 +249,8 @@ I recover both ends before I am done, and I will ask you to hold them at the sam
 
 ---
 
-## Section 4: The Practice
-### *The Five-Move Form: Emotional Alchemy as Repeatable Technique and Living Art*
+<!-- SECTION 4 -->
+## The Five-Move Form: Emotional Alchemy as Repeatable Technique and Living Art
 
 Other people built some of what this chapter hands you, and their names belong with the tools. *Felt sense* comes from Eugene Gendlin's *Focusing*, and the phrase names the body's knowing that arrives before language does, which is what this chapter teaches you to read. The claim underneath the whole practice is Peter Levine's. A feeling carries energy that has to finish moving, and it jams when you cut it off. He studies that jam where it is severe, in trauma, which calls for a trained person in the chair with you. This chapter works the everyday version, a bad afternoon rather than a wound, and the stretch from one to the other is mine to answer for. The Polarity Map is Barry Johnson's, and so is the distinction it rests on. The five channels are borrowed too, and I say from where when they arrive a few pages on. Appendix G says where to read each one.
 
@@ -509,7 +509,7 @@ If you move through all five stages and you don't feel *any* of these somatic sh
 
 ### The Promise of the Five-Move Form
 
-Without the Shaman, the villagers manage emotions instead of learning from them, which is the distortion Section 2 described. The Five-Move Form is how you learn instead of manage.
+Without the Shaman, the villagers manage emotions instead of learning from them, which is the distortion described earlier in this chapter. The Five-Move Form is how you learn instead of manage.
 
 Forgetting this took a thousand years. The Shaman's practice is how you remember, in five stages, as many times as you need, until it becomes who you are.
 
@@ -625,7 +625,8 @@ That part has a name, and you have met it before. If you are reading in stolen t
 
 ---
 
-## Section 5: The Controller, Up Close
+<!-- SECTION 5 -->
+## The Controller, Up Close
 ### *The Standard-Setter, and the Move Into the World*
 
 I asked the universe for a sign, and then spent forty minutes deciding whether the sign met my criteria for a sign.
@@ -732,14 +733,14 @@ Theirs is doing the same job in a Forest you cannot see into. A stranger's Contr
 
 ---
 
-## Section 6: The Game
-### *What Winning Looks Like at the Shaman's Altitude*
+<!-- SECTION 6 -->
+## What Winning Looks Like at the Shaman's Altitude
 
 You know what emotional alchemy is. You have run the five stages. You have met the part of you that decides which feelings you are cleared to have where other people can see them. Now the table.
 
 Winning at the Shaman's altitude is smaller than you want it to be: one true sentence, said to a person who can hear it, while it is still live. That is the whole win. Insight does not count. A more accurate model of the group than anyone else has does not count. One sentence counts: the one that left your body, entered the situation, and changed what was possible inside it. The woman at the council did not bring the elders a framework. She brought them four sentences she had been holding for three seasons, said to the one face that could act on them.
 
-Everything in Section 4 was the instrument. These five are what you do with the instrument when other people are present and the clock is running. They run in the Form's order, because the Form is the order: you catch the signal, you let it up, you name the channel, you find what it grew, you spend it. Section 4 taught you to run that alone. These five are what it costs to run it where somebody is watching.
+Everything in the practice was the instrument. These five are what you do with the instrument when other people are present and the clock is running. They run in the Form's order, because the Form is the order: you catch the signal, you let it up, you name the channel, you find what it grew, you spend it. The practice taught you to run that alone. These five are what it costs to run it where somebody is watching.
 
 ---
 
@@ -773,7 +774,7 @@ In practice: the marker is the urge to sit up straight and sound reasonable. Tha
 
 **What it is:** You say which channel runs, yours or the field's, where other people can hear it.
 
-**Why it matters:** Section 4 taught you to name the channel for yourself, and naming it for yourself completes the interior move. It does nothing to the situation. The situation still has several people running different channels at once with none of them named, which makes hard conversations feel like weather: pressure changing, no vocabulary for it, everyone reacting to something they cannot point at.
+**Why it matters:** The practice taught you to name the channel for yourself, and naming it for yourself completes the interior move. It does nothing to the situation. The situation still has several people running different channels at once with none of them named, which makes hard conversations feel like weather: pressure changing, no vocabulary for it, everyone reacting to something they cannot point at.
 
 Named out loud, the channel stops being weather and becomes an object on the table. *There is a lot of fear in this conversation.* *I think what is actually here is sadness, and we keep treating it as a disagreement.* You are not diagnosing anyone. You are saying what the field runs, which hands everybody something to work with other than the content.
 
@@ -781,7 +782,7 @@ In practice: use the channel word, not the euphemism. *Anger* rather than *frust
 
 **Example:** A retro has spent twenty minutes on process. Nobody has said that Ravi flagged this in March and got told it was fine, and you can name two other times that happened to him and to nobody else. Annoyance is the wrong name for what you feel. What you feel is fear, because saying it means saying something about this team out loud. That is Metal. Say it: *I think we are avoiding a word. Ravi raised this in March, and I would like to know why that landed differently.* You become the difficult one in that retro and in the next one. What the team does with it is the team's.
 
-**The test:** You said it out loud, in the moment, where someone could disagree with it. Agreement is theirs to give or withhold. A channel named only to yourself belongs to Section 4.
+**The test:** You said it out loud, in the moment, where someone could disagree with it. Agreement is theirs to give or withhold. A channel named only to yourself belongs to the interior practice.
 
 ### Move 4 · Grow Up — Say What You Can Do Now
 
@@ -919,8 +920,8 @@ The tell that a quest is alive is not enthusiasm. It is anticipation with some d
 
 ---
 
-## Section 7: Recap and Transition
-### *What the Shaman Teaches — and Why the Challenger Comes Next*
+<!-- SECTION 7 -->
+## What the Shaman Teaches — and Why the Challenger Comes Next
 
 The Shaman contributes this to the allyship game: **before strategy, before structure, before any move you make in the world, there is pattern.** Emotional pattern. Somatic pattern. The pattern of what you actually feel, what you actually need, what you actually are.
 

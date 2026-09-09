@@ -46,7 +46,9 @@ ANY_BLOCK_RE = re.compile(r"<!-- (%s|POSTCARD) -->" % "|".join(KINDS))
 FRONT_RE = re.compile(r"(^# CHAPTER.*?\n(?:.*?\n)??^## \*.*?\*\s*$)", re.M)
 # The seam: the rule that closes Section 3. Verified 2026-07-30 to occur exactly once
 # in each of ch3-ch8.
-SEAM_RE = re.compile(r"\n---\n\n## Section 4", re.M)
+# 2026-09-09: the reader-facing headings lost their numbers (strike_scaffolding.py);
+# the seam now keys on the invisible section anchor that precedes the heading.
+SEAM_RE = re.compile(r"\n---\n\n<!-- SECTION 4 -->", re.M)
 # Trailing italic apparatus at the foot of Section 3 -- `*Back to the chapter.*` and the
 # Appendix F pointer. These belong to the book rather than to the Head, so the signature
 # goes ABOVE them and they land on the author's side of the boundary without moving.

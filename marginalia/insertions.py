@@ -205,7 +205,7 @@ members who had spent the year complaining about it.*
 *I raise it because the Auditor in you will sound exactly like a committee doing its job, and a
 committee doing its job is nearly impossible to argue with. Which is why nobody argues with them,
 and why nothing has been approved since I came aboard.*"""),
-("## Section 6", """*I killed an idea once in the first ten seconds and called it discernment. It was a good call. It
+("<!-- SECTION 6 -->", """*I killed an idea once in the first ten seconds and called it discernment. It was a good call. It
 has been a good call every time since, which is the part I would ask you to sit with, because a
 call that is right every time is not being tested.*
 
@@ -257,7 +257,7 @@ denial hold.*"""),
 Same answer, arrives faster, and you will have it in your chest before you can get it onto paper.*
 
 *Irix will tell you that is the same question. On a map it is. In a meeting it is not.*"""),
-("## Section 4", """*A council I put in at had surveyed its people about exhaustion. The people, being honest, said
+("<!-- SECTION 4 -->", """*A council I put in at had surveyed its people about exhaustion. The people, being honest, said
 yes. A rest hour appeared on the shared calendar, placed at the only hour nobody had claimed — and
 nobody had claimed it because it was the only hour anything got done.*
 
@@ -320,7 +320,7 @@ you have known it for months, which is worse and more useful.*
 
 *Either way — say it to yourself in one sentence before you go in. Not to decide anything. Only to
 find out which half you are in.*"""),
-("## Section 7", """*The school keeps one space set aside for conversations that need terms stated. It is bookable. It
+("<!-- SECTION 7 -->", """*The school keeps one space set aside for conversations that need terms stated. It is bookable. It
 has good chairs, a window, and a jug of water somebody refills.*
 
 *In eleven years I have known it used four times. The rest of us do this in corridors, standing,
@@ -349,14 +349,14 @@ NOTES[8] = [
 # apparatus rather than anybody's voice, which is the same rule the treatise
 # signatures follow, and it spends none of ch8's em-dash budget.
 # ---------------------------------------------------------------------------
-("## Section 1", """*He took the accountability for my bad readings for a year while I learned to stop grading them.
+("<!-- SECTION 1 -->", """*He took the accountability for my bad readings for a year while I learned to stop grading them.
 He has never mentioned it, which I understand is the point, and I have decided not to respect it
 any longer.*
 
 *He reads a company better than I do. He has never said so. I am saying it.*""",
  "Maera Voss, School of the Body"),
 
-("## Section 2", """*A partial list of what this school runs on that exists nowhere in writing: the intake sequence,
+("<!-- SECTION 2 -->", """*A partial list of what this school runs on that exists nowhere in writing: the intake sequence,
 the reason we stopped the second-year review, four agreements with three worlds, and the whole of
 what we do when a student leaves badly.*
 
@@ -366,7 +366,7 @@ busy.*
 *So the six of us wrote it down. It is finished. He does not know.*""",
  "Sera Quill, School of the Oath"),
 
-("## Section 3", """*I have taught the walk-away terms for eleven years and I require every student to state one
+("<!-- SECTION 3 -->", """*I have taught the walk-away terms for eleven years and I require every student to state one
 before entering a difficult conversation. He has stated one for me. He stated one for Maera, and for two
 students I will not name. He is better at it than I am, and I teach it.*
 
@@ -395,7 +395,7 @@ when I asked afterwards whether it had been difficult he said the hall had been 
 fine. We are counting on you having noticed.*""",
  "Corin Ash, School of the Line"),
 
-("## Section 6", """*He does not sleep the week before an intake. I have known this since he came aboard. I leave food
+("<!-- SECTION 6 -->", """*He does not sleep the week before an intake. I have known this since he came aboard. I leave food
 where he will walk into it. He thinks the galley is badly organised.*
 
 *He is a good man and this ship is lucky. That is all I have to say about it.*""",
@@ -404,7 +404,7 @@ where he will walk into it. He thinks the galley is badly organised.*
 # The anonymous hand, once, after six signed notes. `MARGIN_ARC` gives this beat
 # three things and no more: the word *home*, that the school's name was a place
 # first, and that he is fine and still paying, which are true on the same day.
-("## Section 7", """*Five of them and Bram, all in my margin, and not one of them asked. I find I do not mind, which
+("<!-- SECTION 7 -->", """*Five of them and Bram, all in my margin, and not one of them asked. I find I do not mind, which
 is new.*
 
 *The Horizon is a place. It was a place before it was a school, and the school carries the name

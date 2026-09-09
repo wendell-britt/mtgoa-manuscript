@@ -62,8 +62,8 @@
 
 ---
 
-## Section 1: The Exile
-### *Why the Regent Left the Village (And What the Village Lost)*
+<!-- SECTION 1 -->
+## Why the Regent Left the Village (And What the Village Lost)
 
 For a time the villagers tried to run on fire alone.
 
@@ -145,8 +145,8 @@ It records no case of a keeper who stopped attempting it either.
 
 ---
 
-## Section 2: The Distortion
-### *What the Village Does With Tradition When the Regent Is Gone*
+<!-- SECTION 2 -->
+## What the Village Does With Tradition When the Regent Is Gone
 
 After the Regent left, the villagers didn't stop building.
 
@@ -196,8 +196,8 @@ It makes what you build last longer than you do.
 
 ---
 
-## Section 3: The Concept
-### *What the Regent's Practice Actually Is (And Why It's Not What You've Been Told)*
+<!-- SECTION 3 -->
+## What the Regent's Practice Actually Is (And Why It's Not What You've Been Told)
 
 You already have a version of what "tradition" means. Most people got theirs the last time somebody used the word against them.
 
@@ -279,8 +279,8 @@ You know this tension from the inside. The practices you inherited from the work
 
 ---
 
-## Section 4: The Practice
-### *The Cycle of Inheritance — How Loyalty Actually Works*
+<!-- SECTION 4 -->
+## The Cycle of Inheritance — How Loyalty Actually Works
 
 I came up in traditions. A house, an archive, a bench: all of them Regent organizations, all of them built on the assumption that the person before you learned something worth receiving. You showed up, and the tradition showed up with you, and over time it became part of what you could offer.
 
@@ -512,7 +512,8 @@ Both cost something. Claiming it means you can no longer hide behind not-yet-rea
 
 ---
 
-## Section 5: The Fixer/Healer, Up Close
+<!-- SECTION 5 -->
+## The Fixer/Healer, Up Close
 ### *The Repair That Never Ends, and the Commitment It Postpones*
 
 I have never once let a friend finish describing a problem. I hear the shape of it and I am three steps into a solution nobody asked for, and I do it because I love them, which is the part that makes it so hard to stop.
@@ -580,7 +581,7 @@ The one described above is the generic Fixer/Healer. Yours has its own shape, an
 
 ### Honor and Reform: Why the Repair Always Sounds Like Reform
 
-You drew the Honor ↔ Reform axis in Section 4. Here is why the Fixer/Healer is so hard to catch standing on it.
+You drew the Honor ↔ Reform axis earlier in this chapter. Here is why the Fixer/Healer is so hard to catch standing on it.
 
 Both poles are real goods. A Regent who cannot honor will strip a tradition of the parts holding it up, because those parts are old and old reads as suspect. A Regent who cannot reform becomes a curator of a building nobody lives in. Every live inheritance sits somewhere on that axis, and where it sits comes down to a judgment call, and judgment calls about damage are precisely what a Fixer is for.
 
@@ -604,8 +605,8 @@ Theirs is doing the same job in a Forest you cannot see into. A stranger's Fixer
 
 ---
 
-## Section 6: The Game
-### *What Winning Looks Like at the Regent's Altitude*
+<!-- SECTION 6 -->
+## What Winning Looks Like at the Regent's Altitude
 
 Okay. You've met the Fixer/Healer and named one inheritance out loud. Now, what does it actually look like in a real situation?
 
@@ -756,8 +757,8 @@ The tell that a quest is alive is not enthusiasm. It is anticipation with some d
 
 ---
 
-## Section 7: Recap and Transition
-### *What the Regent Teaches — and Why the Architect Comes Next*
+<!-- SECTION 7 -->
+## What the Regent Teaches — and Why the Architect Comes Next
 
 The Regent's contribution to the allyship game is this: **allyship requires something worth belonging to, and the willingness to carry it forward even when it is broken.**
 

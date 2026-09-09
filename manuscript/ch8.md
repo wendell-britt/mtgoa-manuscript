@@ -52,8 +52,8 @@
 ---
 
 
-## Section 1: The Exile
-### *Why the Sage Left the Village (And What the Village Lost)*
+<!-- SECTION 1 -->
+## Why the Sage Left the Village (And What the Village Lost)
 
 <!-- MARGINALIA -->
 > *He took the accountability for my bad readings for a year while I learned to stop grading them.
@@ -136,8 +136,8 @@ Keep the terms apart so they don't blur together. Shadow is the move that stays 
 
 ---
 
-## Section 2: The Distortion
-### *What the Village Does When It Can't See the Games It's Playing*
+<!-- SECTION 2 -->
+## What the Village Does When It Can't See the Games It's Playing
 
 <!-- MARGINALIA -->
 > *A partial list of what this school runs on that exists nowhere in writing: the intake sequence,
@@ -195,8 +195,8 @@ Without that question, help becomes interference. Diagnosis becomes lecturing. P
 
 ---
 
-## Section 3: The Concept
-### *What Panoramic Vision Actually Is (And Why It's Not What You've Been Told)*
+<!-- SECTION 3 -->
+## What Panoramic Vision Actually Is (And Why It's Not What You've Been Told)
 
 <!-- MARGINALIA -->
 > *I have taught the walk-away terms for eleven years and I require every student to state one
@@ -291,8 +291,8 @@ So before you trust the view, check what gives it away. Are you in it, or watchi
 
 ---
 
-## Section 4: The Practice
-### *The Five Modes of Sight*
+<!-- SECTION 4 -->
+## The Five Modes of Sight
 
 Three of the maps in this chapter are not mine, and you should know whose they are before you use them. The inner voices, and the practice of speaking as each one rather than about it, come from Genpo Roshi's Big Mind Process. The rule that you carry the lower altitudes instead of leaving them behind is Ken Wilber's, and it is the structural logic of the whole book. *Evolutionary purpose* is Frederic Laloux's, and in his hands it describes something that happens to an organization rather than to a person, so I have borrowed it down a level and the borrowing is mine to answer for. Shamanic training gives the chapter its body-first reading and its return to felt sense. The Faces framework gives it the developmental arc, so the language doesn't collapse into one personality theory wearing five hats. You don't have to convert to any of them to use the work. You have to keep the maps from folding into each other. Appendix G says where to read each one.
 
@@ -516,7 +516,8 @@ Return has four moves inside it. Run them in order the first several times. Afte
 
 ---
 
-## Section 5: The Damaged Self, Up Close
+<!-- SECTION 5 -->
+## The Damaged Self, Up Close
 ### *The Part That Turned a Difference Into a Defect*
 
 I spent four years writing a book about not making yourself the load-bearing wall, from inside the load-bearing wall. The irony was available to me the whole time. I looked right at it and kept going.
@@ -599,7 +600,7 @@ The one described above turns difference into defect in general. Yours has a spe
 <!-- /MARGINALIA -->
 
 
-You drew the Which Game ↔ Which Altitude axis in Section 4. The Damaged Self slips past it more reliably than anything else in the Forest, and the mechanism repays a close look.
+You drew the Which Game ↔ Which Altitude axis earlier in this chapter. The Damaged Self slips past it more reliably than anything else in the Forest, and the mechanism repays a close look.
 
 The Damaged Self does not argue about the game. It argues about the instrument, and an argument about the instrument looks like the most rigorous move available. *Before I read this situation, I should account for how my own wiring distorts the read.* That sentence is correct. It also serves as the entry point, because nothing ends it naturally. You can check every read one more time against the possibility that you're the problem, and the checking feels like exactly the discipline you have been building.
 
@@ -623,8 +624,8 @@ Theirs is doing the same job in a Forest you cannot see into. A stranger's Damag
 
 ---
 
-## Section 6: The Game
-### *What Winning Looks Like at the Sage's Altitude*
+<!-- SECTION 6 -->
+## What Winning Looks Like at the Sage's Altitude
 
 <!-- MARGINALIA -->
 > *He does not sleep the week before an intake. I have known this since he came aboard. I leave food
@@ -834,8 +835,8 @@ That's the whole Sage in a single move: the seeing, said out loud, and the not-l
 
 ---
 
-## Section 7: Recap and Transition
-### *What the Sage Teaches — and Why the Player Comes Next*
+<!-- SECTION 7 -->
+## What the Sage Teaches — and Why the Player Comes Next
 
 <!-- MARGINALIA -->
 > *Five of them and Bram, all in my margin, and not one of them asked. I find I do not mind, which

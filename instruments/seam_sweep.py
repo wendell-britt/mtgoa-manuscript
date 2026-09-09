@@ -130,8 +130,10 @@ def sections_1_to_3(text):
     overstate the problem by about a third.
     """
     lines = text.split("\n")
-    i = next((k for k, l in enumerate(lines) if l.startswith("## Section 1")), None)
-    j = next((k for k, l in enumerate(lines) if l.startswith("## Section 4")), None)
+    # 2026-09-09: the reader-facing headings lost their numbers (strike_scaffolding.py);
+    # the bracket keys on the invisible section anchors that precede them.
+    i = next((k for k, l in enumerate(lines) if l.startswith("<!-- SECTION 1 -->")), None)
+    j = next((k for k, l in enumerate(lines) if l.startswith("<!-- SECTION 4 -->")), None)
     if i is None or j is None:
         raise SystemExit("could not bracket the treatise")
     # The treatise ends at its signature, and marginalia/compile.py puts that above

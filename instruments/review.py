@@ -268,6 +268,12 @@ def book():
         # after the EA table moved, and index_build.py's own term list still matching a
         # move that had been renamed, which would have dropped the entry on rebuild.
         ("7e xref     ", ["instruments/xref.py"], "reporting only"),
+        # 7h added 2026-09-09. Wendell, on the proof: "'Section 1: Urgency' ... a holdout
+        # from when I was creating the chapters based on the Kotter model. It doesn't mean
+        # anything to a reader and yet it snuck into multiple revisions." The author cannot
+        # see his own scaffolding; this can. Flags numbered headings, slot labels repeated
+        # across chapters, and Kotter words. See PANEL_PROOF_MARKS_6FACE_2026-09-09.md.
+        ("7j headings ", ["instruments/headings.py"], None),
         # 7f, added 2026-08-29 alongside draft steps 3a-3c. Book-wide this is a board to
         # work rather than a gate: 44 sites, mostly `BINARY`, which is the shape the book's
         # own ranking-not-denying constraint produces on purpose. Reports so the standing

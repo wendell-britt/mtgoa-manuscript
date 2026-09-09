@@ -53,7 +53,7 @@ def chapters():
         n = int(re.search(r"ch(\d+)", os.path.basename(p)).group(1))
         text = io.open(p, encoding="utf-8").read()
         out[n] = {"path": p, "text": text,
-                  "sections": {int(m) for m in re.findall(r"^## Section (\d+):",
+                  "sections": {int(m) for m in re.findall(r"^<!-- SECTION (\d+) -->",
                                                           text, re.M)}}
     return out
 

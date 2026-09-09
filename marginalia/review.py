@@ -200,8 +200,9 @@ def check_voice(text, where, ch):
 
 
 def treatise_half(text):
-    """Sections 1-3 only. The treatise is in-world; Section 4+ is Wendell."""
-    m = re.search(r"\n## Section 4", text)
+    """Sections 1-3 only. The treatise is in-world; Section 4+ is Wendell.
+    Keys on the invisible section anchor (strike_scaffolding.py, 2026-09-09)."""
+    m = re.search(r"\n<!-- SECTION 4 -->", text)
     return text[:m.start()] if m else text
 
 # ---------------------------------------------------------------- rules

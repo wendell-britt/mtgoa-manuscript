@@ -60,8 +60,8 @@
 
 ---
 
-## Section 1: The Exile
-### *Why the Challenger Left the Village (And What the Village Lost)*
+<!-- SECTION 1 -->
+## Why the Challenger Left the Village (And What the Village Lost)
 
 The Challenger once lived in the village.
 
@@ -95,8 +95,8 @@ The villagers never meant for that to happen. They never said "go." They just st
 
 ---
 
-## Section 2: The Distortion
-### *What the Village Does With the Clean "No" When the Challenger Is Gone*
+<!-- SECTION 2 -->
+## What the Village Does With the Clean "No" When the Challenger Is Gone
 
 Here's what happened after the Challenger left: the villagers didn't stop needing to draw lines.
 
@@ -130,8 +130,8 @@ The villagers never realized they had traded the capacity to draw lines for the 
 
 ---
 
-## Section 3: The Concept
-### *What the Clean "No" Actually Is (And Why It's Not What You've Been Told)*
+<!-- SECTION 3 -->
+## What the Clean "No" Actually Is (And Why It's Not What You've Been Told)
 
 You already have a version of the clean no. You've been calling it something else.
 
@@ -216,8 +216,8 @@ Here is what is specific to this reader. The suspicion runs one direction. Force
 
 ---
 
-## Section 4: The Practice
-### *How to Wield the Fire: A Working System for Clean Confrontation*
+<!-- SECTION 4 -->
+## How to Wield the Fire: A Working System for Clean Confrontation
 
 The Challenger's native material is *will.* Not willpower, not determination: the raw energy of pushing back, drawing lines, refusing, demanding, confronting. The Shaman reads the fire. The Challenger uses it.
 
@@ -491,7 +491,8 @@ Find the voice. Give it a name. Say the name out loud.
 
 ---
 
-## Section 5: The Skeptic, Up Close
+<!-- SECTION 5 -->
+## The Skeptic, Up Close
 ### *The Auditor, and the Charge It Rules Inadmissible*
 
 You have found the flaw in every plan anybody has brought to this table. Somewhere back there that stopped being rigor and turned into an alibi.
@@ -557,9 +558,9 @@ The one described above audits in general. Yours has a house style, and that is 
 
 ### Force and Restraint: Why the Audit Is So Hard to Catch
 
-You drew the Force ↔ Restraint axis in Section 4. Here is why the Skeptic is nearly impossible to catch standing on it, and why the chapter gave you a polarity instead of a rule.
+You drew the Force ↔ Restraint axis earlier in this chapter. Here is why the Skeptic is nearly impossible to catch standing on it, and why the chapter gave you a polarity instead of a rule.
 
-Both poles are real goods, and Section 4 named what each one costs alone. Every live moment sits somewhere on that axis, and where it sits takes a judgment call. Judgment calls are precisely what an auditor is for.
+Both poles are real goods, and the axis named what each one costs alone. Every live moment sits somewhere on that axis, and where it sits takes a judgment call. Judgment calls are precisely what an auditor is for.
 
 So nobody catches the shadow in the act. It does not argue for cowardice; you would notice cowardice. It argues for Restraint, and Restraint is half of the truth. *This is not the one. This is not the moment. This is not mine to say.* Each of those can be correct. Each of them is correct sometimes. You can spend a whole career at the Restraint end of a real polarity and call it discernment, and no single instance will look like a failure.
 
@@ -579,8 +580,8 @@ Theirs is doing the same job in a Forest you cannot see into. A stranger's Skept
 
 ---
 
-## Section 6: The Game
-### *What Winning Looks Like at the Challenger's Altitude*
+<!-- SECTION 6 -->
+## What Winning Looks Like at the Challenger's Altitude
 
 <!-- MARGINALIA -->
 > *I killed an idea once in the first ten seconds and called it discernment. It was a good call. It
@@ -785,8 +786,8 @@ The tell that a quest is alive is not enthusiasm. It arrives as anticipation wit
 
 ---
 
-## Section 7: Recap and Transition
-### *What the Challenger Teaches — and Why the Regent Comes Next*
+<!-- SECTION 7 -->
+## What the Challenger Teaches — and Why the Regent Comes Next
 
 The Challenger's contribution to the allyship game is this: **before you can build anything worth keeping, someone has to be willing to say no to what would destroy it.**
 

@@ -3,8 +3,8 @@
 
 ---
 
-## Section 1: Urgency
-### *"The World Didn't Get Safer. You Just Stopped Believing It Could Be."*
+<!-- SECTION 1 -->
+## The World Didn't Get Safer. You Just Stopped Believing It Could Be.
 
 The world is not fine.
 
@@ -110,7 +110,8 @@ The world is not fine. The people trying to fix it keep running into the same pr
 
 ---
 
-## Section 2: The Infinite Arcade
+<!-- SECTION 2 -->
+## The Infinite Arcade
 ### *You Were Never Outside the Game*
 
 Before you entered this chapter, you were already playing. You didn't choose to; the game was already running.
@@ -134,7 +135,8 @@ For the full game taxonomy and mechanics, see Chapter 1. This chapter uses that 
 
 ---
 
-## Section 3: The Forest
+<!-- SECTION 3 -->
+## The Forest
 ### *The Place Where the Work Actually Happens*
 
 The Forest is a place you may not realize you've been circling.
@@ -187,7 +189,8 @@ The Forest is where you meet the daemons. Each one is a part of you to be faced,
 
 ---
 
-## Section 4: Origin Story
+<!-- SECTION 4 -->
+## Origin Story
 ### *Where This Map Came From*
 
 The origin of this book is a rock in my shoe.
@@ -214,7 +217,8 @@ The book is the alchemy. It came from a rock in my shoe. The framework came afte
 
 ---
 
-## Section 5: The Six Guides
+<!-- SECTION 5 -->
+## The Six Guides
 ### *How You Find Your Way Through*
 
 
@@ -262,7 +266,8 @@ So do not try to carry the whole Forest at once. Let the first true recognition 
 
 ---
 
-## Section 6: Who's Holding the Joystick
+<!-- SECTION 6 -->
+## Who's Holding the Joystick
 
 Most of your allyship gets run by parts of you that act on their own, before you've decided anything.
 
@@ -363,7 +368,8 @@ A daemon you befriend joins your party. A daemon left running on its own stays a
 
 ---
 
-## Section 7: Journey to the Center
+<!-- SECTION 7 -->
+## Journey to the Center
 ### *A First Walk Through the Forest*
 
 Now the walk itself. Watch what happens to the joystick.
@@ -483,8 +489,8 @@ That location is data. The Shaman's first move never changes: find out where the
 
 ---
 
-## Section 8: The Game
-### *Five Moves for the Threshold*
+<!-- SECTION 8 -->
+## Five Moves for the Threshold
 
 If you're still reading, you've already been playing. Here's an opening game, five moves you can run the next time a daemon grabs the joystick.
 
@@ -532,7 +538,8 @@ Look at what you're actually doing, underneath the instruction. The part of you 
 
 ---
 
-## Section 9: The First BAR
+<!-- SECTION 9 -->
+## The First BAR
 ### *Breakthrough → Action → Reflection*
 
 A BAR is game tape, not journaling. Run it right after the next hard moment, not at the end of the week, not when you have time, right after, while the feeling is still close enough to name.
@@ -551,8 +558,8 @@ A BAR is game tape, not journaling. Run it right after the next hard moment, not
 
 ---
 
-## Section 10: Recap and Transition
-### *From Diagnosis to Passage*
+<!-- SECTION 10 -->
+## From Diagnosis to Passage
 
 You came into this chapter with a problem you could feel but couldn't name.
 

@@ -58,8 +58,8 @@
 
 ---
 
-## Section 1: The Exile
-### *Why the Architect Left the Village (And What the Village Lost)*
+<!-- SECTION 1 -->
+## Why the Architect Left the Village (And What the Village Lost)
 
 There was a time when the Architect lived in the village.
 
@@ -108,8 +108,8 @@ The villagers never meant for that to happen. They never said *go.* They just st
 
 ---
 
-## Section 2: The Distortion
-### *What the Village Does With Structural Design When the Architect Is Gone*
+<!-- SECTION 2 -->
+## What the Village Does With Structural Design When the Architect Is Gone
 
 After the Architect left, the villagers didn't stop needing systems.
 
@@ -133,8 +133,8 @@ The villagers didn't realize any of this. They thought themselves practical. Wha
 
 ---
 
-## Section 3: The Concept
-### *What Structural Design Actually Is (And Why It's Not What You've Been Told)*
+<!-- SECTION 3 -->
+## What Structural Design Actually Is (And Why It's Not What You've Been Told)
 
 The School of the Pattern teaches in language that has a bad record.
 
@@ -224,8 +224,8 @@ The pair gets specific for the student the School of the Pattern attracts. The s
 
 ---
 
-## Section 4: The Practice
-### *What the Architect Actually Does With a Broken System*
+<!-- SECTION 4 -->
+## What the Architect Actually Does With a Broken System
 
 <!-- MARGINALIA -->
 > *A council I put in at had surveyed its people about exhaustion. The people, being honest, said
@@ -371,7 +371,8 @@ Then hold the flinch. Somebody will hear it as criticism: that's the cost, and y
 
 ---
 
-## Section 5: The Emotional Body, Up Close
+<!-- SECTION 5 -->
+## The Emotional Body, Up Close
 ### *The Signal That Arrives Already Converted*
 
 I built a spreadsheet to track my moods, and inside a week I was having the moods that made the chart look better.
@@ -409,7 +410,7 @@ Now for why this daemon stands where it stands, in a book about allyship.
 
 Everything you learn here runs on Observe. Observe is the first stage and the one everything else rests on: what is actually happening, traced to its source, not what the org chart says should happen. The Emotional Body in shadow does not stop you observing. It edits the observation on the way in. It removes the part of the data arriving through you, because that part feels uncomfortable and unrigorous and does not belong in a model. Then you build a true, careful, well-evidenced model of a system you were not permitted to feel. Every stage downstream inherits the omission. The Model is clean. The Design is elegant. The Deploy fails in a way nobody can trace, because nobody ever wrote the missing variable down.
 
-The cost lands on the people the design is for. A structure built by someone who did not feel their way through it arrives in front of people who are feeling their way through it, and it does not fit, and they cannot say why, and the designer experiences this as resistance to change. That repeats the exile in Section 1, in miniature and in slow motion. The villagers did not exile the Architect for being wrong. They exiled the Architect for arriving with the answer already assembled, which looks from outside exactly like a feeling converted before anyone else could get near it.
+The cost lands on the people the design is for. A structure built by someone who did not feel their way through it arrives in front of people who are feeling their way through it, and it does not fit, and they cannot say why, and the designer experiences this as resistance to change. That repeats the exile that opened this chapter, in miniature and in slow motion. The villagers did not exile the Architect for being wrong. They exiled the Architect for arriving with the answer already assembled, which looks from outside exactly like a feeling converted before anyone else could get near it.
 
 Here the chapter's myth lives, and it remains the most competent-looking myth in the book. The myth is that allyship is fixing the problem.
 
@@ -462,13 +463,13 @@ The one described above is the generic version. Yours converts in its own way, a
 
 ### Structure and Agency: Why the Fix Always Sounds Like Systems Thinking
 
-You drew the Structure ↔ Agency axis in Section 4. Here is why the Emotional Body is nearly impossible to catch standing on it, and why the chapter gave you a polarity instead of a rule.
+You drew the Structure ↔ Agency axis earlier in this chapter. Here is why the Emotional Body is nearly impossible to catch standing on it, and why the chapter gave you a polarity instead of a rule.
 
 Both poles are real goods. That condition is what makes the shadow workable. A distortion that had to argue for something false would be caught in a week. The Emotional Body does not argue for coldness: you would notice coldness. It argues for Structure, and Structure is half the truth. *This is not about that person, it is about the incentive. Blame is a dead end. The individual is not the leverage point.* Each of those can be correct. Each of them is correct sometimes. You can spend an entire career at the Structure end of a real polarity and call it sophistication, and no single instance will look like an evasion, because no single instance is one.
 
 Somebody told a colleague his mother was sick and the colleague asked what his leading indicator was. The Structure had a point about leading indicators. It brought the point to a bedside.
 
-The tell is never the position. The tell is whether the answer is ever Agency. A sensor that has routed eleven consecutive events into a structural claim has stopped reading and started deflecting, and the eleventh claim is as defensible as the first. Section 3 named the drift; this is what the drift looks like from inside, where it does not feel like drift at all but like getting it right eleven times. Look at the sequence, not the verdict, that is the only place the pattern shows.
+The tell is never the position. The tell is whether the answer is ever Agency. A sensor that has routed eleven consecutive events into a structural claim has stopped reading and started deflecting, and the eleventh claim is as defensible as the first. This chapter already named the drift; this is what the drift looks like from inside, where it does not feel like drift at all but like getting it right eleven times. Look at the sequence, not the verdict, that is the only place the pattern shows.
 
 ---
 
@@ -486,8 +487,8 @@ Theirs is doing the same job in a Forest you cannot see into. A stranger's Emoti
 
 ---
 
-## Section 6: The Game
-### *What Winning Looks Like at the Architect's Altitude*
+<!-- SECTION 6 -->
+## What Winning Looks Like at the Architect's Altitude
 
 Okay. You've learned what structural design is, and you've met the part of you that converts a signal into a spec before you can read it. Now, what does it actually look like in a real situation?
 
@@ -686,8 +687,8 @@ The tell that a quest is alive is not enthusiasm. It is anticipation with some d
 
 ---
 
-## Section 7: Recap and Transition
-### *What the Architect Teaches — and Why the Diplomat Comes Next*
+<!-- SECTION 7 -->
+## What the Architect Teaches — and Why the Diplomat Comes Next
 
 The Architect's contribution to the allyship game is this: before relationship, before loyalty, before strategy: there is structure. Structure is a form of love.
 

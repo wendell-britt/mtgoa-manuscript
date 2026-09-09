@@ -60,8 +60,8 @@
 
 ---
 
-## Section 1: The Exile
-### *Why the Diplomat Left the Village (And What the Village Lost)*
+<!-- SECTION 1 -->
+## Why the Diplomat Left the Village (And What the Village Lost)
 
 You recognize a woman in the village. She is always there. She shows up to every gathering, every working bee, every moment of conflict, and every moment of celebration. Her presence reads as devotion, except it isn't, because devotion implies choice, and she has forgotten how to choose. She stays because she has forgotten that she could leave.
 
@@ -97,9 +97,8 @@ The villagers never meant for that to happen. They never said *go.* They just st
 
 ---
 
-## Section 2: The Distortion
-
-### *What the Village Does With Honest Terms When the Diplomat Is Gone*
+<!-- SECTION 2 -->
+## What the Village Does With Honest Terms When the Diplomat Is Gone
 
 After the Diplomat left, the village still needed people to stay. It had stopped knowing how to say what staying costs.
 
@@ -115,12 +114,12 @@ So the village stopped believing that staying could carry conditions. Presence b
 
 ---
 
-## Section 3: The Concept
-### *What Honest Terms Actually Are (And Why It's Not What You've Been Told)*
+<!-- SECTION 3 -->
+## What Honest Terms Actually Are (And Why It's Not What You've Been Told)
 
 The Diplomat lives at the relational altitude of human development: pluralistic, relational, oriented toward inclusion. Where the Regent operates through tradition and inherited structure, and the Challenger operates through decisive will and confrontation, the Diplomat operates through the relational field. What matters lies not in what any single person thinks or wants but in what becomes possible between people when someone holds the conditions rightly.
 
-People commonly misunderstand the Diplomat's stance. Niceness, conflict-avoidance dressed in the language of harmony, and the absence of judgment in the service of false peace all get mistaken for it. The Diplomat's altitude is the one at which a person can hold multiple valid perspectives simultaneously. They can be a partisan and still make space, can stand for something and still listen, can name their own position and still honor the legitimacy of a position they disagree with. The Diplomat's working capacity is honest multiplicity: holding the field without requiring it to resolve into one answer, holding the tension between positions without rushing to collapse it. That capacity supplies the raw material. What it is *for* arrives at the end of Section 5.
+People commonly misunderstand the Diplomat's stance. Niceness, conflict-avoidance dressed in the language of harmony, and the absence of judgment in the service of false peace all get mistaken for it. The Diplomat's altitude is the one at which a person can hold multiple valid perspectives simultaneously. They can be a partisan and still make space, can stand for something and still listen, can name their own position and still honor the legitimacy of a position they disagree with. The Diplomat's working capacity is honest multiplicity: holding the field without requiring it to resolve into one answer, holding the tension between positions without rushing to collapse it. That capacity supplies the raw material. What it is *for* arrives with the Victim, later in this chapter.
 
 The Diplomat operates through five modes:
 
@@ -215,8 +214,8 @@ One part of this belongs specifically to this reader, and it explains why the ax
 
 ---
 
-## Section 4: The Practice
-### *The Five Modes — How the Diplomat Actually Works*
+<!-- SECTION 4 -->
+## The Five Modes — How the Diplomat Actually Works
 
 ---
 
@@ -266,7 +265,7 @@ Each mode below runs its full arc, the dissatisfaction it carries and the alchem
 
 ### The Stage Sequence: Bridge → Translate → Hold → Repair → Negotiate
 
-The five stages track how the work moves. The five modes describe who you are while you make it: Bridge and the Bridge-Builder, Translate and the Translator, Hold and the Field-Holder, Repair and the Repairer, Negotiate and the Integrative Negotiator. Section 1 ran the sequence and said why each stage earns the next. Each block below carries a seat's name.
+The five stages track how the work moves. The five modes describe who you are while you make it: Bridge and the Bridge-Builder, Translate and the Translator, Hold and the Field-Holder, Repair and the Repairer, Negotiate and the Integrative Negotiator. The opening exile ran the sequence and said why each stage earns the next. Each block below carries a seat's name.
 
 *Three labels run through the blocks below. An **Alchemy** move converts a charge into the state on the far side of it. A **Translate** move carries meaning across without flattening either side. A **Control** move redirects a pattern into a structure that holds it, which fixes structure rather than emotion. The labels are this chapter's; the channels and the arcs they run on are Chapter 3's.*
 
@@ -546,7 +545,8 @@ Pick the person. Someone who took a side while you were still holding the range,
 
 ---
 
-## Section 5: The Victim, Up Close
+<!-- SECTION 5 -->
+## The Victim, Up Close
 ### *The Ledger That Became a Standing*
 
 I apologized for taking up space in the conversation, at length, twice, and by the end I had taken up more of it than anyone.
@@ -571,7 +571,7 @@ It converts the record into a standing. Not *this cost me* but *this cost me, th
 
 Now here is why this daemon stands where it stands, in a book about allyship. Allyship run on a ledger is allyship whose legitimacy comes from your own injury. That has a specific and terrible consequence: you cannot act from surplus. You can only act from wound. The person you came to stand beside stops being someone you stand beside and becomes, structurally and not intentionally, a claimant against the same fund. That is the part that is hard to look at. Two people cannot both be the one who has paid most, in a field where having paid most is what confers the right to speak. Nobody decides this. It simply happens when cost denominates standing.
 
-This is where the chapter's myth comes due. You met it in Section 3: allyship means never causing harm. The Victim is the daemon that makes that feel like integrity rather than what it actually is: a solvency requirement. If your legitimacy comes from having been harmed, then having caused harm is not a mistake you can absorb and repair. It is a disqualification. It voids the ledger. So the Victim cannot afford for you to have caused harm, and a part of you that cannot afford a finding is a part of you that will not run the audit.
+This is where the chapter's myth comes due. You met it earlier in this chapter: allyship means never causing harm. The Victim is the daemon that makes that feel like integrity rather than what it actually is: a solvency requirement. If your legitimacy comes from having been harmed, then having caused harm is not a mistake you can absorb and repair. It is a disqualification. It voids the ledger. So the Victim cannot afford for you to have caused harm, and a part of you that cannot afford a finding is a part of you that will not run the audit.
 
 The cost lands in exactly the place this chapter cannot afford to lose it. You become unavailable for repair. Read that again against Sections 4 and 6, because the Repairer is one of your five modes and Move 4 is a structure for receiving rupture. None of it can run. Someone names an impact you had, and before they finish the sentence the ledger has opened and produced a number, and the number says this is impossible: look at what I have absorbed, look at the column, I am the one in the red here. The Face whose whole chapter is about repair is, in shadow, structurally the worst in the book at receiving it.
 
@@ -608,7 +608,7 @@ The one described above keeps a generic ledger. Yours has actual entries in it, 
 
 ### Care and Impact: Why the Ledger Always Sounds Like Care
 
-You drew the Care ↔ Impact axis in Section 4. Here is why the Victim is nearly impossible to catch standing on it.
+You drew the Care ↔ Impact axis earlier in this chapter. Here is why the Victim is nearly impossible to catch standing on it.
 
 Both poles are real goods, and this chapter is unusual in the book because its reader is fluent in one of them and suspicious of the other. You know both failure states: the warm attendance that changes nothing, and the true sentence said in a way that ends the conversation. Every live relationship sits somewhere on that axis, and where it sits is a judgment call, and judgment calls about what something costs are precisely what a ledger is for.
 
@@ -630,8 +630,8 @@ Theirs is doing the same job in a Forest you cannot see into. A stranger's Victi
 
 ---
 
-## Section 6: The Game
-### *What Winning Looks Like at the Diplomat's Altitude*
+<!-- SECTION 6 -->
+## What Winning Looks Like at the Diplomat's Altitude
 
 *You cannot close with terms you haven't named to yourself. You cannot repair a rupture you haven't sat in. You cannot refuse false equivalence from a position of real hearing if you've been performing hearing. The inner work is what makes the game real.*
 
@@ -707,7 +707,7 @@ Close with Honest Terms is one clear sentence naming what this field must hold f
 
 A threat would sound like *do this or I leave.* This is an offering of information: here is what this field must hold for my staying to remain real. Then the people it concerns get to respond.
 
-*If you don't yet know where you stand, whether you've been trading impact away for the comfort of caring, go back to the Care ↔ Impact axis you drew in Section 4 before you try to close. The axis is preparation. This move is the practice.*
+*If you don't yet know where you stand, whether you've been trading impact away for the comfort of caring, go back to the Care ↔ Impact axis you drew earlier before you try to close. The axis is preparation. This move is the practice.*
 
 **The test:** You named what you actually need from the agreement rather than a softer version, said it once, and left it alone for the people it concerns to answer. Their behavior may or may not change. If you named the real terms and nothing moved, that is information.
 
@@ -868,8 +868,8 @@ The tell that a quest is alive is not enthusiasm. It is anticipation with some d
 
 ---
 
-## Section 7: Recap and Transition
-### *What the Diplomat Teaches — and Why the Sage Comes Next*
+<!-- SECTION 7 -->
+## What the Diplomat Teaches — and Why the Sage Comes Next
 
 <!-- MARGINALIA -->
 > *The school keeps one space set aside for conversations that need terms stated. It is bookable. It
