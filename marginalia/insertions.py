@@ -146,7 +146,7 @@ else offered a different one, and this went on until the readings stopped changi
 began. I asked a clerk how long the practice had been in place and she did not understand the
 question. She thought I was asking when the building went up.*
 
-*We were there eleven days. I have thought about it more than is useful.*"""),
+*We were there eleven days. I have not seen it anywhere since.*"""),
 ("### Polarity Encounter — Feeling ↔ Function", """*Watch for the point where being good at this starts to feel like enough.*
 
 *You will start reading a company accurately. That is a real skill, rarer than it sounds.
