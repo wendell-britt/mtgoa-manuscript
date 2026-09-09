@@ -335,3 +335,66 @@ Alchemist's scaffold names its category without a count.
 **The stop line the Challenger insists on:** items 1–3 before the pre-order date is set; 4–6
 before the 2.0 file is uploaded; 7 can ride into a later printing if it must. The panel would
 rather ship a book with one reconciled mechanism outstanding than hold the print for it.
+
+## Round 5 — item 7, the Controller contradiction (C1), run to consensus
+
+**The two passages.** ch3 Section 5, *The Controller, Up Close*: *"The shadow Controller is
+the part that can end the whole practice **before Stage One**, by ruling that the feeling never
+had permission in the first place."* ch3 *Where the Daemon Bites*: *"The rule bites in a single
+place. The Controller's whole remit covers how you are permitted to behave while feeling
+something, and behavior is at stake the moment an experience would show, **which is Open Up**."*
+One says the daemon ends the Form before Wake Up by denying the feeling entry; the other says the
+feeling arrives and the daemon bites at the second move. A reader who holds both has been told the
+same daemon's one rule bites in two places, and the second passage's own claim, *"in a single
+place,"* is what makes the first one a contradiction rather than a nuance.
+
+**Shaman.** The Form's own account settles it. *Where the Daemon Bites* runs the Controller
+through Wake Up and finds *"Nothing is missed. Everything is downgraded on the way in."* The
+signal arrives. A daemon that admits the signal and downgrades it is not ending the practice
+before Stage One; it is corrupting Stage One and biting at Stage Two. Section 5 is the passage
+that is wrong about the Form.
+
+**Challenger.** The book has said what the Controller decides in five chapters, in one
+sentence each, and every one agrees: ch4:512, ch5:523, ch6:382, ch7:555, ch8:540: *"The Protector
+decides whether you go in. The Controller decides how you may behave once you get inside."*
+Permission to feel is the Protector's gate. Permission to show is the Controller's. Section 5's
+*"never had permission in the first place"* hands the Controller the Protector's job. The line is
+not a shade of emphasis; it is the wrong daemon.
+
+**Regent.** ch2:286 gave the Controller its charter before any of this: *"If the Protector
+decides whether you live or die, the Controller decides how you live. It sets the standard."*
+A standard governs conduct. The reader has carried that definition for a chapter and a half
+when she reaches Section 5. The passage that keeps faith with what she was handed is the daemon
+section. Section 5 gets the edit.
+
+**Architect.** Trace what depends on each version. Nothing downstream depends on *"before Stage
+One"*: the 3-2-1 that follows asks for *"a feeling the Controller ruled out of order before you
+could act on it"*, which is a feeling that arrived and was stopped at the act. The guided pass
+in *Where the Daemon Bites* takes **What Seeing Costs**, the Shaman's version of Open Up, and
+the whole design of that pass (catch it at the one place; the other four have nothing to
+propagate from) rests on the single bite point. Changing the daemon section would break a
+practice. Changing Section 5 breaks a sentence.
+
+**Diplomat.** What Section 5 is trying to say survives the fix. Its point is that a daemon
+which stops the feeling from reaching the field ends alchemy before it starts, and that is
+still true at Open Up: the Form's first move happens in the body, and the daemon's ruling lands
+at the door where the feeling would become visible. The sentence can keep its force and lose
+its stage number. The metaphor around it (*the whistle, out of bounds, onto the field*) already
+describes a play that started and got stopped, which is the daemon section's timing, not
+Section 5's.
+
+**Sage.** The two passages were written at different altitudes, and only one of them was
+looking at the Form. Section 5 introduces the daemon and reaches for the strongest available
+claim, *before Stage One*, because strongest reads as most urgent. The daemon section looks at
+the five moves one at a time and finds the true bite point. When the wide view and the close
+view disagree, the close view wins, because it did the work. The fix is one sentence in Section
+5; the panel does not touch *Where the Daemon Bites*.
+
+**Consensus, six of six.** The Controller bites at Open Up. Section 5's sentence changes to
+say so and to stop naming permission-to-feel, which is the Protector's gate:
+
+> The shadow Controller is the part that can end the whole practice at the second move, by
+> ruling that a feeling you have already had may not show.
+
+No other line moves. The two passages then agree with each other and with the five chapters
+that state the Controller's remit. Applied by `instruments/controller_bite.py`.
