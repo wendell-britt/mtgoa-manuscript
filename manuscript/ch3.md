@@ -318,16 +318,16 @@ This matters for one reason: you cannot affect what you cannot feel. The Shaman 
 
 Here is where most well-meaning allies flinch, so let me say it straight: you did not burn out from too much empathy. You burned out because you took in everything and nobody ever trained you to hold any of it, so you turned the dial all the way back down, the only relief anyone had shown you. Opening trains you to hold sensation on purpose: your own charge first, until you can stand inside it without going under, then the other person's, until their reality reaches you without dragging you down with it. Compassion that has felt the full weight and stayed on its feet is the only compassion that informs a good move.
 
-Turn the dial all the way up and something else surfaces, something a part of you has kept down there too. Somewhere in the hard moment, a part of you is getting something out of the very dynamic you say you want to end: the charge of being the good one, the relief when the conversation stays comfortable, the pull of an old hurt that has a use. Carolyn Elliott named this the existential kink, and I will not pretend I stand outside it: I have felt myself drawn toward my own smallness in the same moment I was performing my way past it. Opening makes the payoff visible. You only have to stop refusing to feel it, because what stays hidden runs the moment, and what you can feel, you can play.
+Turn the dial all the way up and something else surfaces, something a part of you has kept down there too. Somewhere in the hard moment, a part of you is getting something out of the very dynamic you say you want to end: the charge of being the good one, the relief when the conversation stays comfortable, the pull of an old hurt that has a use. Carolyn Elliott named this the existential kink. I have felt myself drawn toward my own smallness in the same moment I was performing my way past it. Opening makes the payoff visible. You only have to stop refusing to feel it, because what stays hidden runs the moment, and what you can feel, you can play.
 
-That leaves the fear that has been guarding all of it: the fear of doing more harm than you know. Opening does not make that fear disappear. Opening makes it available, fully felt instead of managed from a safe distance. The whole job of Open Up is to get the fear into your hands, where the work can reach it, and the skill that moves it is coming.
+That leaves the fear that has been guarding all of it: the fear of doing more harm than you know. Opening does not make that fear disappear. Opening makes it available, fully felt instead of managed from a safe distance. The whole job of Open Up is to get the fear into your hands, where the work can reach it.
 
-Four beats cover the second when the charge has already arrived and the moment has not waited for you. **Welcome** the charge: stop pushing it away. **Acknowledge** it: name it to yourself, in one word if one word is all you have. **Validate** it: grant that a person standing where you are standing would feel this, which is a smaller claim than deciding the feeling is correct. **Exhale.**
+Four beats cover the second when the charge has already arrived and the moment has not waited for you. **Welcome** the charge: stop pushing it away. **Acknowledge** it: name it to yourself, in one word if one word is all you have. **Validate** it: grant that a person standing where you are standing would feel this, without ruling on whether the feeling is correct. **Exhale.**
 
-Those four are **WAVE**, and the whole of it runs about as long as one breath. WAVE does not tell you what the charge means; the meaning comes later, and this chapter builds a whole practice for finding it. What WAVE buys you is the few seconds in which choosing your next move becomes possible at all.
+Those four are **WAVE**, and the whole of it runs about as long as one breath. WAVE does not tell you what the charge means; the meaning comes later. What WAVE buys you is the few seconds in which choosing your next move becomes possible at all.
 
 #### Stage 3: Clean Up
-**What it means:** Correct distortion. Clarify what the feeling is actually telling you about reality.
+**What it means:** Clarify what the feeling is actually telling you about reality.
 
 Now that you've woken to the feeling, the next move asks what it's showing you. This is where the Shaman's intelligence comes in: reading what the feeling orients toward, underneath the noise and the secondary reactions (shame about having the feeling, fear of what the feeling means, guilt about the situation).
 
@@ -347,25 +347,25 @@ Neutrality arrives. What whole-system perspective am I suddenly able to see that
 
 Each of these emotions has a job. Fear detects threat and risk, anger detects the obstacle to overcome or the boundary to draw, sadness points at what you care about and how far you have drifted from it, joy shows you what's aligned with your delight, neutrality gives you detachment and the view of the whole. Asking *what is this showing me?* is asking the feeling to do its job.
 
-You're not trying to think your way to an answer. You're sensing into the feeling and letting it show you, and it usually takes a few seconds to a few minutes.
+You're not trying to think your way to an answer. You're sensing into the feeling and letting it show you, over a few seconds or a few minutes.
 
-This is the first difference between the Shaman's practice and its distortion: the villagers try to speed past this stage. The Shaman lingers here long enough to actually get the teaching.
+The villagers try to speed past this stage. The Shaman lingers here long enough to actually get the teaching.
 
 #### Stage 4: Grow Up
 **What it means:** Extract the lesson. Integrate the insight the feeling offered.
 
 Fear that showed you what matters integrates as a value you hold rather than one you have to earn. Anger that showed you a boundary integrates as a choice you are allowed to make, not a transgression. Sadness integrates as *it was real, it was worth it.* Joy integrates as guidance: this direction is right for me. Neutrality integrates as the larger view, and you can hold complexity that activation kept you from holding before.
 
-The Grow stage is the integration, the moment when the feeling stops being something that happened *to* you and becomes something you've *learned* from.
+In the Grow stage the feeling stops being something that happened *to* you and becomes something you've *learned* from.
 
-Here the shift happens: from dissatisfaction (the feeling is overwhelming, confusing, raw) to neutral (the feeling landed, its message received). You're not trying to feel happy or fixed. You're reaching a baseline: the feeling no longer runs away with you.
+The shift runs from dissatisfaction (the feeling is overwhelming, confusing, raw) to neutral (the feeling landed, its message received). You're not trying to feel happy or fixed. You're reaching a baseline: the feeling no longer runs away with you.
 
 **In practice:** After you've understood what the feeling showed you, spend a moment letting your nervous system know: "I get it. The message landed."
 
 #### Stage 5: Show Up
 **What it means:** Act aligned with the lesson. Execute the move.
 
-Now you've integrated the lesson. The final stage *moves* from that understanding. Your old patterns offer one available starting point. What you think you should do offers another. The move comes from the place you've just reached.
+Now you've integrated the lesson. The final stage *moves* from that understanding. Your old patterns offer one starting point; the shoulds offer another. The move comes from the place you've just reached.
 
 You understood what matters. Now protect it. You understood your boundary. Now hold it. You understood what was real. Now honor it. You understood what's aligned. Now move toward it. You understood the larger perspective. Now lead from it.
 
@@ -384,9 +384,9 @@ You understood what matters. Now protect it. You understood your boundary. Now h
 
 Before the table, the part I owe you.
 
-These five channels did not start with me. Metal, Water, Wood, Fire, and Earth come from **wu xing**, the five-phase system that sits under classical Chinese medicine and cosmology, and it predates everything else in this book by roughly two thousand years. I have used it hard. I narrowed a cosmology down to one job it was never designed for, telling you what the feeling in your chest is for in the ten seconds you have to decide something, and I moved correspondences around to make that job work. The tradition does not put grief and fear where I have put them. What follows is my remix, not the system it came from.
+These five channels did not start with me. Metal, Water, Wood, Fire, and Earth come from **wu xing**, the five-phase system that sits under classical Chinese medicine and cosmology, and it predates everything else in this book by roughly two thousand years. I have used it hard. I narrowed a cosmology down to one job it was never designed for, telling you what the feeling in your chest is for in the ten seconds you have to decide something. I moved correspondences around to make that job work. The tradition does not put grief and fear where I have put them. What follows is my remix, not the system it came from.
 
-I am naming this in the chapter rather than in a footnote because Chapter 1 put my own fluency on the table as an asset that gets me through doors and keeps other people outside them, and running a borrowed vocabulary past you unmarked is the same move with the credit taken off. The original goes far deeper than my use of it and repays reading on its own terms; the back of the book points you to where to start.
+I am naming this in the chapter rather than in a footnote because Chapter 1 put my own fluency on the table as an asset that gets me through doors and keeps other people outside them. Running a borrowed vocabulary past you unmarked is the same move with the credit taken off. The original goes far deeper than my use of it and repays reading on its own terms; the back of the book points you to where to start.
 
 Every feeling you experience falls into one of five channels.
 
@@ -407,7 +407,7 @@ Each channel carries intelligence. You're not trying to "get over" any of them. 
 *Channel-by-channel mechanics, the triage rule, and four worked scenarios: Appendix C: The Five Channels in Practice.*
 
 <!-- MARGINALIA -->
-> *Triage is the part of this chapter you will actually use, and it is in an appendix. Maera does
+> *The part of this chapter you will actually use, triage, is in an appendix. Maera does
 > not believe anybody should be handed the shortcut before they have felt why it is one.*
 >
 > *I disagree, which is why I have told you where it is.*
@@ -416,21 +416,21 @@ Each channel carries intelligence. You're not trying to "get over" any of them. 
 
 ### The Satisfied States: What the Feeling Is For
 
-Each channel has a completed state, and you get there by making a move. A feeling can settle on its own sometimes, given enough time, but the game does not wait on that. You play a move, and the move carries the stuck charge into a restored capability: something you can do that you could not do while the feeling stayed stuck. It may not feel nicer at all. You are not trying to get rid of the emotion; you play it forward into what it makes possible. These five states are the renewable fuel Chapter 1 pointed you here to make, and you make them by moving.
+Each channel has a completed state, reached by making a move. A feeling can settle on its own sometimes, given enough time, but the game does not wait on that. You play a move that carries the stuck charge into a restored capability: something you can do that you could not do while the feeling stayed stuck. It may not feel nicer at all. You are not trying to get rid of the emotion; you play it forward into what it makes possible. These five states are the renewable fuel Chapter 1 pointed you here to make. Moving makes them.
 
 Here are the five, each with the move that reaches it and what it hands you.
 
 **Fear completes into wonder.** Managed, fear is a wall; felt all the way through, it opens into curiosity about what is actually on the other side. The move is to stop bracing and get interested: *what is here that I couldn't see while I was defending against it?* What it restores is exploration: you can move toward what is hard instead of away from it. You can tell you are there when the word in your head stops being *don't* and becomes *let's find out.*
 
-**Sadness completes into poignance.** Rushed, sadness is a weight you carry alone; honored, it opens into poignance, the ache that reaches for someone. The move is to name what you lost, all the way, before you reach for the lesson. What it restores is connection: sadness felt all the way through lets you sit with someone else's loss without collapsing into it. You can tell you are there when the loss stops feeling like a private failure and starts feeling like proof of what you love.
+**Sadness completes into poignance.** Rushed, sadness is a weight you carry alone; honored, it opens into poignance, the ache that reaches for someone. The move is to name what you lost, every part of it, before you reach for the lesson. What it restores is connection: sadness felt all the way through lets you sit with someone else's loss without collapsing into it. You can tell you are there when the loss stops feeling like a private failure and starts feeling like proof of what you love.
 
-**Anger completes into triumph.** Discharged, anger is heat that burns whoever is nearest; drawn and held, it completes into triumph. By triumph I do not mean triumph over anyone. I mean the plain solidity of a line that stayed. (If that word makes you flinch, notice it: a lot of us learned that any satisfaction in our own force means domination. A boundary that holds is not a boot on a neck.) The move is to draw one clean line and hold it. What it restores is agency: *I can act.* You can tell you are there when you set the limit and do not spend the next hour apologizing for it.
+**Anger completes into triumph.** Discharged, anger is heat that burns whoever is nearest; drawn and held, it completes into triumph. By triumph I do not mean triumph over anyone. I mean the plain solidity of a line that stayed. (If that word makes you flinch, notice it: a lot of us learned that any satisfaction in our own force means domination. A boundary that holds is not a boot on a neck.) The move is to draw one clean line and hold it. What it restores is agency: *I can act.* You can tell you are there when you set the limit without spending the next hour apologizing for it.
 
-**Joy completes into bliss.** Cashed in, joy evaporates; landed in, it completes into bliss, being in it instead of watching yourself do it. The move here is the hard one: stop, and actually be here for the good part. What it restores is participation: you can be in this, not just run it. You can tell you are there when you are not already narrating the moment to post about later.
+**Joy completes into bliss.** Cashed in, joy evaporates; landed in, it completes into bliss, being in it instead of watching yourself do it. The move is to stop and be here for the good part. What it restores is participation: you can be in this, not just run it. You can tell you are there when you are not already narrating the moment to post about later.
 
 **Neutrality completes into peace.** Numbed, neutrality is checking out; opened to the whole, it completes into peace, the stillness that can hold two truths at once without picking. The move is to widen until you can see the whole field, then rest there. What it restores is rest: *I can rest.* You can tell you are there when you are not braced against anything and still fully awake.
 
-These are the five renewable tokens, and you reach every one of them the same way: by feeling the channel all the way to its end.
+These are the five renewable tokens. Every one of them is reached the same way: by feeling the channel all the way to its end.
 
 ---
 
@@ -438,19 +438,19 @@ These are the five renewable tokens, and you reach every one of them the same wa
 
 Chapter 1 taught you to read your own fuel: what a move costs you. The Shaman adds the next layer: what that spending does to the living field: to the people around you, and what it leaves them carrying.
 
-The Five-Move Form does not make every move easy. It was never going to.
+The Five-Move Form does not make every move easy.
 
 What it promises is discernment.
 
 Some moves replenish as they cost. You draw the boundary, and you walk away tired but clear. You name the sadness, and the sadness gives you back the love underneath it. You say what needed saying, and something in you comes back online because you stopped abandoning yourself.
 
-Some moves sustain. They do not refill you all at once, but they keep the field workable. A pause. A clean question. One honest sentence instead of the whole speech. Enough structure for the feeling to teach without flooding the field.
+Some moves sustain. They do not refill you all at once, but they keep the field workable. A pause, a clean question, one honest sentence instead of the whole speech. Enough structure for the feeling to teach without flooding the field.
 
-Some moves cost. Sometimes they are still the right moves. Staying in the conversation may cost you. Softening anger so the truth can land may cost you. Turning sadness into protective action before you feel ready may cost you. The danger lies in pretending costly moves are renewable. Cost itself is fine, so long as you count it.
+Some moves cost. Sometimes they are still the right moves. Staying in the conversation is one. Softening anger so the truth can land may cost you. Turning sadness into protective action before you feel ready may cost you. The danger lies in pretending costly moves are renewable. Cost itself is fine, so long as you count it.
 
-This is where a lot of allyship burns people out. They keep spending non-renewable fuel and calling the spending virtue.
+This is where a lot of allyship burns people out. They keep spending non-renewable fuel and call it virtue.
 
-This is the fuel economy Chapter 1 handed to the Shaman to finish. Back in the Arcade, non-renewable fuel was the fixed supply that empties you as you spend it, and the renewable kind hands back more than you spent. That clean tiredness after a move that cost you and fed you at once is a renewable token going back in the tank. Chapter 1 left you the fuel; here you learn to make it.
+This is the fuel economy Chapter 1 handed to the Shaman to finish. Back in the Arcade, non-renewable fuel was the fixed supply that empties you as you spend it; the renewable kind gives back more than you spent. That clean tiredness after a move that cost you and fed you at once is a renewable token going back in the tank. Chapter 1 left you the fuel; here you learn to make it.
 
 Emotional alchemy gives you a different test:
 
@@ -466,14 +466,12 @@ You do not need to score the move. You need to tell the truth about what it did 
 
 <!-- MARGINALIA -->
 > *The first time I named a charge out loud in a company that had agreed not to, I got it wrong. Badly
-> wrong. I named grief and it was rage, and I was corrected at some volume in front of eleven
-> people.*
+> wrong. I named grief and it was rage. Eleven people corrected me, at some volume.*
 >
-> *It worked anyway. That is the part nobody warns you about — the company opened regardless, because
-> what mattered was that somebody was willing to be wrong out loud about something real. I would
+> *It worked anyway. That is the part nobody warns you about — the company opened regardless: somebody had been
+> willing to be wrong out loud about a real charge. I would
 > not build a technique on it. I mention it because you are going to be wrong the first time, and
-> it will not be the disaster you are picturing. It will be a smaller and more specific disaster,
-> and you will survive it.*
+> it will not be the disaster you are picturing. It will be a smaller and more specific disaster.*
 <!-- /MARGINALIA -->
 
 
@@ -481,13 +479,13 @@ The Shaman's mastery lies in knowing, in real time, which Five-Move Form stage y
 
 A new practitioner goes: Wake → Open → Clean → Grow → Show, slowly and carefully. A practiced Shaman recognizes the channel in half a second, knows whether the moment needs a replenishing, sustaining, or costly move, and runs at the tempo the moment allows: ten seconds in a meeting, ten minutes alone, ten hours for deep integration.
 
-You practice this until it becomes your nervous system's operating system. Learning it once buys you nothing.
+You practice this until it becomes your nervous system's operating system.
 
 ---
 
 ### Somatic Markers: How to Know You're Actually Practicing
 
-The Five-Move Form is not just a thinking exercise. Your body should know you're doing it.
+The Five-Move Form runs in the body, not just the head.
 
 **Wake Up:** You pause. Your thinking slows. You sense inward.
 
@@ -519,11 +517,11 @@ Before you can alchemize, you need to see what you're working with.
 
 The Five-Move Form works with charge you're already feeling in your body: fear in the meeting, sadness after a rupture, anger that arrived on schedule. A lot of the charge that drains allyship doesn't arrive that way. It arrives dressed as someone else. The colleague who makes your jaw tighten. The movement leader whose certainty feels like a personal attack. The person who has become, in your inner world, a cartoon.
 
-That charge is projection. Projection is shadow work waiting to happen.
+That charge is projection: shadow work waiting to happen.
 
-The 3-2-1 practice brings the charge back to where you can spend it, through three vantage points: face the figure in third person (3), talk with it in second person (2), be it in first person (1). The energy you were spending on them comes back to you, available for the Five-Move Form.
+The 3-2-1 practice brings the charge back into your own hands, through three vantage points: face the figure in third person (3), talk with it in second person (2), be it in first person (1). The energy you were spending on them comes back to you, available for the Five-Move Form.
 
-Solo, written or spoken, fifteen to twenty-five minutes.
+Do it alone, written or spoken, in fifteen to twenty-five minutes.
 
 **Try this now.**
 
@@ -547,7 +545,7 @@ Three exchanges at minimum. The answers don't have to be polite.
 
 Each chapter ahead opens its pass with a sentence like that one. Work it if it moves something in you. If it doesn't, work the charge that does. A live charge does more than a fabricated one. If nothing is live yet, run it dry; reaching the charge is the capacity you are building.
 
-This is deep work on live material, and the material has weight. Some of what surfaces wants a trained person in the chair with you. When that happens, the practice is doing its job, and getting help is your next move rather than a failure.
+This is deep work on live material. Live material has weight. Some of what surfaces wants a trained person in the chair with you. When that happens, the practice is doing its job. Getting help is the next move, not a failure.
 
 | Stuck because… | Tool |
 |----------------|------|
@@ -563,9 +561,9 @@ This is deep work on live material, and the material has weight. Some of what su
 
 Some stuckness comes as a structure wearing the shape of a person or a feeling.
 
-You are torn between two positions that both seem true. You need to hold a boundary *and* keep the belonging. You need to speak what you see *and* keep the space safe enough to stay in. You keep trying to pick the right side, and the picking exhausts you.
+You are torn between two positions that both seem true. You need to hold a boundary *and* keep the belonging. You need to speak what you see *and* keep the space safe enough to stay in. You keep trying to pick the right side. The picking exhausts you.
 
-That is not a problem. Problems have solutions. This is a **polarity**: two necessary capacities that become costly when separated. Both sides stay. Both sides matter. The work is to hold both poles without letting either eat the other. You will want to pick one. Picking one is how the pair breaks.
+That is a **polarity**, not a problem with a solution: two necessary capacities that become costly when separated. Both sides stay. Both sides matter. The work is to hold both poles without letting either eat the other. You will want to pick one. Picking one is how the pair breaks.
 
 The pair changes with altitude. The map doesn't.
 
