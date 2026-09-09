@@ -30,7 +30,7 @@ The village is every place with an audience: the workplace, the coalition, the f
 
 So the practice runs one direction. See a problem, respond. Post, protest, speak up, show up. Three months later the problem sits where it sat, or has grown, or has become something the response cannot reach, and the person who responded has nothing left.
 
-Nobody equipped the other half. No curriculum covers the reflex that fires before you decide anything, or the read you set aside, or the part of you that took the wheel during those forty minutes. Most training files that under private life, or therapy, or somebody else's field.
+Nobody equipped the other half. No curriculum covers the reflex that fires before you decide anything, or the read you set aside, or the part of you that took the wheel during those forty minutes. Most training files all of that under private life, or therapy, or somebody else's field.
 
 I spent years refusing a capacity I already had.
 
@@ -208,7 +208,7 @@ I was not okay, and not for the reasons they assumed.
 
 The shamanic training I'd been doing said: everything can be used. Nothing is waste. The anger that shows up is signal. It is starting material. The Shaman's job is to find what the feeling wants to build, in place of managing it into something acceptable.
 
-So I built something. The first version of Mastering the Game of Allyship was written from that anger, not despite it. What the anger produced first was not the book, and Chapter 9 tells that part. Because my friends didn't need someone to absorb their feelings. They needed tools. I had spent years building tools that could do exactly this, and no one had thought to aim them at allyship yet.
+So I built something. What the anger produced first was not the book; Chapter 9 tells that part. The first version of Mastering the Game of Allyship came after it, written from that anger and not despite it, because my friends didn't need someone to absorb their feelings. They needed tools. I had spent years building tools that could do exactly this, and no one had thought to aim them at allyship yet.
 
 The book is the alchemy. It came from a rock in my shoe. The framework came after. The research came after that.
 
@@ -216,10 +216,6 @@ The book is the alchemy. It came from a rock in my shoe. The framework came afte
 
 ## Section 5: The Six Guides
 ### *How You Find Your Way Through*
-
-I rehearsed the whole conversation on the drive over, including her rebuttals, and I won all nine.
-
-He isn't guarded, exactly. He answers every question like it is being read into the record.
 
 
 You don't have to enter the Forest alone. Six guides walk this terrain. Each one carries a different way of seeing, a different question, and a different discipline of practice.
@@ -445,7 +441,7 @@ This is the reason the inner work came first.
 
 That is projection, and it is the trickiest move in shadow work: the parts you have not befriended in yourself are the parts you will misread hardest in everybody else. A daemon you have made an ally you can recognize across a table. A daemon still running you is one you cannot see anywhere, including in front of you.
 
-Six of Imani's seven stand behind the seventh. Her Protector works the door the way yours does. You get past it or you do not, and how far it lets you in decides which of the other six you ever get near. That distance is your **clearance**, and it is the only currency on this side of the floor.
+Six of Imani's seven stand behind the seventh. Her Protector works the door the way yours does. You get past it or you do not, and how far it lets you in decides which of the other six you ever get near. That distance is your **clearance**, and it is the only currency on this side of the door.
 
 A Protector holds one shape, the shape of whatever got through before, set by a history you were not there for. It does not think about you; it checks you against the shape. Move like the one who cost Imani and it fires, regardless of your intention, stated or otherwise.
 
