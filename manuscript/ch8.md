@@ -774,7 +774,7 @@ When you spend the view, the minute around it decides whether the table can use 
 
 ### The Tell
 
-None of the four markers asked why you named it. That question is real, and it lands harder on the Sage than on the five before, because a Sage who names the game so the table will know the game could be named has taken the second map out in public. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer it:
+None of the four markers asked why you named it. That question is real, and it lands harder on the Sage than on the five before, because a Sage who names the game so the table will know the game could be named has taken the second map out in public. So the answer goes in your log in writing, where a later you can read it back. When you log the rep, answer it:
 
 - **Direct Action.** Did you name their game so they could move inside it, or so they would know you had seen it?
 - **Raise Awareness.** Could the meeting use what you said, or could it only tell what you are?
@@ -785,17 +785,15 @@ Each Tell targets the Sage's signature failure: the view spent on standing above
 
 ---
 
-## Your Twenty Cards
+## The Sage Is a Move You Run
 
-The grid again, sixth operation of six, the last one. Five moves down, four domains across, twenty cards. These are the Sage's.
+The Sage is a Face, but it is also a move you can run, which means you are not holding an archetype. You are holding a practice: the Five-Move Form.
 
-*Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
+The five moves are this chapter, in order. Open Up finds the Sage weakest by design, because witnessing a game from inside it is what the whole-board view makes harder rather than easier. Grow Up is the only move in the Form that asks what the playing does to the player, and Show Up is legacy: what remains once you stop holding it.
 
-The five moves are this chapter, in order. Open Up finds the Sage weakest by design, because witnessing a game from inside it is what the whole-board view makes harder rather than easier. Grow Up is the only move in the deck that asks what the playing does to the player, and Show Up is legacy, and every card there names what remains once you stop holding it. Pick a domain and you're choosing the arena instead. Down is the sequence. Across is where it lands.
+### Where the Daemon Bites
 
-### Drawing Against the Shadow
-
-Draw from your twenty rather than the hundred and twenty, though not all from one move. A daemon is a rule in force at every move, which means five failures rather than one. The Damaged Self's:
+A daemon is a rule in force at every move, which means five failures rather than one. The Damaged Self's:
 
 **Wake Up.** The signal registers, and alongside it registers the fact that you noticed it the way you notice everything: the suspect way. The noticing is accurate. It arrives with a footnote about the noticer, and the footnote runs longer than the notice.
 
@@ -807,23 +805,23 @@ Draw from your twenty rather than the hundred and twenty, though not all from on
 
 **Show Up.** It routes to the domain where being built wrong shows least. Usually that's a framework. Usually it's one more map, handed to somebody who asked for a hand.
 
-It bites hardest in the Grow Up cards. The Damaged Self's remit is whether you're built correctly for this, and that question gets settled at the exact moment something asks to develop. The other four rows show that settlement arriving early or arriving late. Catch it there and the rest have nothing to propagate from.
+It bites hardest at Grow Up. The Damaged Self's remit is whether you're built correctly for this, and that question gets settled at the exact moment something asks to develop. The other four moves show that settlement arriving early or arriving late. Catch it there and the rest have nothing to propagate from.
 
-Take **Who the Fight Makes You**: Grow Up, Direct Action, Sage. Its question is the one the Damaged Self exists to route around: *what does playing this make me?* Not what's wrong with the player. What the playing builds. The card assumes the instrument works and asks what it's becoming: the assumption the daemon cannot make on its own.
+Take the move called **Who the Fight Makes You**, the Sage's version of Grow Up. Its question is the one the Damaged Self exists to route around: *what does playing this make me?* Not what's wrong with the player. What the playing builds. The move assumes the instrument works and asks what it's becoming: the assumption the daemon cannot make on its own.
 
-Run it once, on something real. Bring a fight you're carrying right now: an actual one, with people in it. Wake Up: name the game, and notice the footnote about yourself that arrives with it. Open Up: witness one minute of what it's like to be inside this fight, without auditing the witnessing. Clean Up: name the channel. Fire, Water, Metal, Earth, Wood, one of them, not *my thing.* Grow Up: name what this fight is building in you, stated as a capacity rather than a repair. Show Up: pick a domain and name what you'd leave behind if you stopped playing tomorrow.
+Run it once, on something real. Bring a fight you're carrying right now: an actual one, with people in it. Wake Up: name the game, and notice the footnote about yourself that arrives with it. Open Up: witness one minute of what it's like to be inside this fight, without auditing the witnessing. Clean Up: name the channel. Fire, Water, Metal, Earth, Wood, one of them, not *my thing.* Grow Up: name what this fight is building in you, stated as a capacity rather than a repair. Show Up: name what you'd leave behind if you stopped playing tomorrow.
 
-Five moves, one card, ninety seconds. The Sage's version stands alone in the book: here the hard part is refusing to run a second pass.
+Five moves, one pass, ninety seconds. The Sage's version stands alone in the book: here the hard part is refusing to run a second pass.
 
-### From Card to Quest
+### From Read to Quest
 
-A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
+A reading that ends in a notebook is a reading you had. A reading that ends in a quest is one you played. Quests come out of Show Up, because that move ends in an artifact, and an artifact is something another person can encounter.
 
 One sentence: what you will do, who it reaches, by when, and what it costs you. *Leave the Game Playable Without You* becomes: **I will write down the three judgment calls I've been making by feel and walk two people through them before the retreat in March, and it will cost me being the one who has to be in the meeting for it to go well.** That's a quest. *I will be less indispensable* is not one; nobody can tell whether you did it, including you.
 
 A live quest does not announce itself through enthusiasm. It's anticipation with some dread underneath. At this altitude the dread usually runs like this: handing it over will prove you were never as necessary as the exhaustion suggested. That happens, and it still doesn't count as a reason.
 
-*Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
+*Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
 
 ### The One Rep
 

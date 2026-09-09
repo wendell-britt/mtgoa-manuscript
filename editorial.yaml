@@ -22,7 +22,9 @@ corpus:
 # Measured on this book, never copied. coherence.py re-measures each and fails on drift > 0.4pt.
 baselines:
   telling: 3.0        # % of sentences carrying a copula-label (LABEL tier)
-  trailing_and: 13.9  # % of sentences that are loose (LOOSE tier)
+  trailing_and: 12.4  # % of sentences that are loose (LOOSE tier). Was 13.9 until 2026-09-09:
+                      # the ch2/ch3 proof-mark rework and the card cut took the book's loose
+                      # rate down 1.5 points, and coherence.py flagged the drift. Re-measured.
   light_verb: 0.7     # % of sentences carrying a buried verb (DELEXICAL tier)
 
 # This book's voice decisions, ruled by Wendell one at a time. Regex fragments; gate.py wraps

@@ -158,9 +158,9 @@ The Elder doesn't start anything new. The Elder hands forward what exists.
 
 The practice: Take what you built and make it pass-onable. Write it down. Name the mistakes. Show the next person where the traps are. The Elder's move hands down an inheritance: not building something new, but making sure what you built doesn't depend on you to survive.
 
-The deck starts earning its keep here. You have been handed twenty cards six times in this book: the Shaman's twenty, then the Challenger's, the Regent's, the Architect's, the Diplomat's, the Sage's. A hundred and twenty cards. Five moves crossed against four domains, six operations deep. Nobody built that as a reference table. It works as the practice surface, and every chapter has pointed at its own twenty.
+The quests start earning their keep here. You have made one in each of the six Face chapters: the Shaman's, then the Challenger's, the Regent's, the Architect's, the Diplomat's, the Sage's. Six commitments with a name and a date in them, and a sheet with a row from every chapter. Nobody built that as a reference table. It is the practice surface, and every chapter has pointed at its own row.
 
-The Elder's use of the deck comes second. The first one belongs to you, alone, with nobody watching: draw against the face you have been performing and find out what you actually do when a card names what you have been routing around. Running it for a group becomes possible after that: a session, a team, a family, a class, a vocabulary handed to people who already know how to do the work and have never been able to name it. That is how the work goes forward without everyone starting from zero. It also keeps the practice from calcifying, because a deck you actually play will keep dealing you the card you did not want.
+The Elder's use of the practice comes second. The first one belongs to you, alone, with nobody watching: run the five moves against the face you have been performing and find out what you actually do when the reading names what you have been routing around. Running it for a group becomes possible after that: a session, a team, a family, a class, a vocabulary handed to people who already know how to do the work and have never been able to name it. That is how the work goes forward without everyone starting from zero. It also keeps the practice from calcifying, because a practice you actually run will keep handing you the move you did not want.
 
 The Elder makes sure the work outlives you. To everyone else that looks like authority.
 
@@ -178,14 +178,14 @@ Most people try to skip this mode. It costs something to say *this isn't working
 
 ### Where Each Mode Leads
 
-Each mode also opens a doorway. Depending on which one activates for you, it leads to different ground. The deck runs underneath all five of them: whichever mode runs, the practice stays the same hundred and twenty cards. The mode only changes what you do with what the draw turns up.
+Each mode also opens a doorway. Depending on which one activates for you, it leads to different ground. The five moves run underneath all five of them: whichever mode runs, the practice stays the same. The mode only changes what you do with what the reading turns up.
 
 - **Cartographer and Designer** → your own ongoing practice. The work is between you and the map.
 - **Founder** → if you have something specific to build and you know it has to be you.
-- **Elder** → if what you're called to do is teach, pass on, run workshops, give other people the vocabulary. The deck is what you run the session from. It works without you standing in the middle of it, once you know it well enough to get out of the way.
-- **Outlaw** → if what you see is a structure that needs to be challenged, broken, or rebuilt. That is also allyship work. It is the mode the deck is worst at prompting on its own, so you draw for it on purpose.
+- **Elder** → if what you're called to do is teach, pass on, run workshops, give other people the vocabulary. The five moves are what you run the session from. They work without you standing in the middle of them, once you know them well enough to get out of the way.
+- **Outlaw** → if what you see is a structure that needs to be challenged, broken, or rebuilt. That is also allyship work. It is the mode the practice is worst at prompting on its own, so you run it on purpose.
 
-The modes loop, and each pass through goes deeper. The deck outlasts any single trip through it.
+The modes loop, and each pass through goes deeper. The practice outlasts any single trip through it.
 
 ---
 
@@ -630,11 +630,11 @@ If your six answers came out spread across six different Faces, run the drill ag
 
 Two paths exist on the other side of this book. They are not the same size, and they don't ask the same of you.
 
-**The deck.** A hundred and twenty cards: Wake Up, Open Up, Clean Up, Grow Up, Show Up, crossed against gathering resources, raising awareness, direct action, and skillful organizing, run through all six operations, one per Face. You have met every one of them twenty at a time. The private use comes first: draw against the face you have been performing and see what you do when the card names it. The public use comes after: run it for a group. It is the smaller of the two steps and the only one you can take this week. It costs you nothing except the willingness to sit with a card you would rather have shuffled back.
+**The practice.** Five moves, Wake Up, Open Up, Clean Up, Grow Up, Show Up, run through all six Faces and out into the four domains, with a quest at the end of each chapter and a sheet that now has a row from every one. The private use comes first: run the moves against the face you have been performing and see what you do when the reading names it. The public use comes after: run them for a group. It is the smaller of the two steps and the only one you can take this week. It costs you nothing except the willingness to sit with a reading you would rather have set aside.
 
 **The coaching.** The more expensive of the two, in every sense of the word. If you have a Founder move and you already know it has to be you, working it through with me one-on-one is the fastest path I know. If what you want is the method itself (to run these six Faces for other people, not just for what you're building) that is the succession I wrote this book to make possible, and it is the work I most want to hand off. wendell@masteringallyship.com.
 
-Start with the deck. It is the one that begins the moment you open the box.
+Start with the practice. It begins the moment you close this book.
 
 ---
 

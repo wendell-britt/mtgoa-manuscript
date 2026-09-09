@@ -704,7 +704,7 @@ You carry an inheritance for years, and the same three moves decide, in every do
 
 ### The Tell
 
-None of the four markers asked why you kept it. That question is real, and it belongs to the Regent, because a Regent who takes an inheritance on so that everybody can watch somebody finally take one on has run the same repair cycle with a ceremony attached. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer it:
+None of the four markers asked why you kept it. That question is real, and it belongs to the Regent, because a Regent who takes an inheritance on so that everybody can watch somebody finally take one on has run the same repair cycle with a ceremony attached. So the answer goes in your log in writing, where a later you can read it back. When you log the rep, answer it:
 
 - **Direct Action.** Did you claim it so the work had somebody in it, or so nobody could call you the one still deciding?
 - **Raise Awareness.** Name who the reason was for. The next person who has to run this, or the people watching somebody who was there at the founding?
@@ -715,17 +715,15 @@ Each Tell targets the Regent's signature failure: the inheritance carried so tha
 
 ---
 
-## Your Twenty Cards
+## The Regent Is a Move You Run
 
-Same grid, one operation further along. The five movements of the Five-Move Form run down, four domains across. Twenty cards, and these are the Regent's.
+The Regent is a Face, but it is also a move you can run, which means you are not holding an archetype. You are holding a practice: the Five-Move Form's five movements.
 
-*Your twenty live in the deck rather than on this page: the five movements of the Five-Move Form against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the movements that get you there.*
+The Regent's Show Up is the only one built entirely out of verbs for keeping: hold, keep, sustain, tend. Not one of them makes anything new. That marks the difference between building something and inheriting it, and it makes this the slowest practice of the six.
 
-The Regent's Show Up cards are the only ones in the deck built entirely out of verbs for keeping: hold, keep, sustain, tend. Not one of them makes anything new. That marks the difference between building something and inheriting it, and it makes this operation the slowest of the six. Read down for the sequence, across for the arena.
+### Where the Daemon Bites
 
-### Drawing Against the Shadow
-
-Draw from your twenty rather than the hundred and twenty, though not all from one move. A daemon is a rule in force at every move, which means five failures rather than one. The Fixer/Healer's:
+A daemon is a rule in force at every move, which means five failures rather than one. The Fixer/Healer's:
 
 **Wake Up.** Asked what deserves attention, it returns what is damaged. Those are not the same list. You will never accept an inheritance you can only see the breaks in.
 
@@ -739,21 +737,21 @@ Draw from your twenty rather than the hundred and twenty, though not all from on
 
 Where it bites is Open Up. Everything else on that list follows from one act never taken: the damage inventory, the personal workaround, the practice of carrying, the support nobody else can sustain. Accept the inheritance unrepaired and four of these lose their reason to exist.
 
-Take **Can You Hold the Whole**: Open Up, Skillful Organizing, Regent. Its question sounds like a dare and works as a diagnostic: *can I stay with this?* You already know what your Fixer answers. The card exists to slow that answer down enough to hear, and to put the second question underneath it, hold it how, and for how long after you are gone.
+Take the move called **Can You Hold the Whole**, the Regent's version of Open Up. Its question sounds like a dare and works as a diagnostic: *can I stay with this?* You already know what your Fixer answers. The move exists to slow that answer down enough to hear, and to put the second question underneath it, hold it how, and for how long after you are gone.
 
 Run it once, on something real. Bring an inheritance you are currently carrying: a practice, a role, a piece of institutional memory nobody wrote down. Wake Up: name precisely what deserves tending. Open Up: ask whether you can stay with it *as it is*, unrepaired, for one cycle. Clean Up: name the capability the structure lacks, the structure, not you. Grow Up: name what deserves practice rather than rescue. Show Up: name what you would keep going even after you hand it over.
 
-One pass through the Form, one card. The Regent's version runs slower than the others: give it the length of a walk rather than ninety seconds.
+One pass through the Form. The Regent's version runs slower than the others: give it the length of a walk rather than ninety seconds.
 
-### From Card to Quest
+### From Read to Quest
 
-A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
+A reading that ends in a notebook is a reading you had. A reading that ends in a quest is one you played. Quests come out of Show Up, because that move ends in an artifact, and an artifact is something another person can encounter.
 
 One sentence: what you will do, who it reaches, by when, and what it costs you. *Tend the Structure* becomes: **I will write down how the intake process actually works, give it to Priya by the end of the month, and walk her through it once, and it will cost me being the only person who knows.** That is a quest. *I will delegate more* is not one; nobody can tell whether you did it, including you.
 
 The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For a Regent the dread usually concerns becoming unnecessary, and that is the dread to trust.
 
-*Draw one from your twenty. Run the Form on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
+*Run the Form on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
 
 ---
 

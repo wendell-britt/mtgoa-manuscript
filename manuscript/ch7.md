@@ -815,7 +815,7 @@ When you close, the sentence and the weeks after it decide whether the terms hol
 
 ### The Tell
 
-None of the four markers asked why you closed it. That question is real, and it belongs to the Diplomat, because you have kept an exact record of what this costs you, and a record kept that long gives every honest sentence a second job. A Diplomat who closes so that somebody will finally hear the column has read the ledger out and called it terms. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer it:
+None of the four markers asked why you closed it. That question is real, and it belongs to the Diplomat, because you have kept an exact record of what this costs you, and a record kept that long gives every honest sentence a second job. A Diplomat who closes so that somebody will finally hear the column has read the ledger out and called it terms. So the answer goes in your log in writing, where a later you can read it back. When you log the rep, answer it:
 
 - **Direct Action.** Did you say the terms so they could answer them, or so somebody would finally know the price?
 - **Raise Awareness.** You read the cost out. Check the address: the people who set the arrangement, or the people who would be sorry about it?
@@ -826,17 +826,15 @@ Each Tell targets the Diplomat's signature failure: the close spent on getting t
 
 ---
 
-## Your Twenty Cards
+## The Diplomat Is a Move You Run
 
-The grid again, fifth operation of six. Five moves down, four domains across, twenty cards. These are the Diplomat's.
+The Diplomat is a Face, but it is also a move you can run, which means you are not holding an archetype. You are holding a practice: the Five-Move Form.
 
-*Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
+The five moves are this chapter, in order. Grow Up asks about other people by design, and Show Up is the relationship you build, because at this altitude showing up means bringing somebody with you.
 
-The five moves are this chapter, in order. Grow Up asks about other people by design, and Show Up is the relationship you build, because at this altitude showing up means bringing somebody with you. Pick a domain instead and you are choosing the arena. Down is the sequence, across is where it lands.
+### Where the Daemon Bites
 
-### Drawing Against the Shadow
-
-Draw from your twenty rather than the hundred and twenty, though not all from one move. A daemon is a rule in force at every move, which means five failures rather than one. The Victim's:
+A daemon is a rule in force at every move, which means five failures rather than one. The Victim's:
 
 **Wake Up.** It notices relationships accurately and files them by balance. Asked what relational dynamics matter, it returns who owes whom. The reading is good. The output is an account.
 
@@ -848,23 +846,23 @@ Draw from your twenty rather than the hundred and twenty, though not all from on
 
 **Show Up.** The relationship it creates is a witness list. Who must be involved becomes who will corroborate, and the field fills with people who know your side of it and have never met the other one.
 
-Where it bites is Open Up. The Victim's remit is what your having paid entitles you to, and the ledger settles that account at the exact moment an impact would arrive. The other four rows are that settlement arriving early or arriving late.
+Where it bites is Open Up. The Victim's remit is what your having paid entitles you to, and the ledger settles that account at the exact moment an impact would arrive. The other four moves are that settlement arriving early or arriving late.
 
-Take **What This Costs the Teller**: Open Up, Raise Awareness, Diplomat. Its question is the one the Victim exists to route around: *how can I relate compassionately to this?* Pointed not at the situation, not at the people harmed in general, but at the specific person in front of you who is spending something to tell you what you did.
+Take the move called **What This Costs the Teller**, the Diplomat's version of Open Up. Its question is the one the Victim exists to route around: *how can I relate compassionately to this?* Pointed not at the situation, not at the people harmed in general, but at the specific person in front of you who is spending something to tell you what you did.
 
 Run it once, on something real. Bring the last time someone told you about your impact. Wake Up: name the relational dynamic that was live, not the content but the standing. Open Up: what did it cost them to say it, and stay there for one sentence's worth of time without answering. Clean Up: name the channel you routed to, and the one that would have served better. Grow Up: name who is affected by whether you can receive this. Show Up: name the one person who must be involved in what happens next.
 
-Five moves, one card, ninety seconds. The Diplomat's version is the one most likely to get interrupted by a balance.
+Five moves, one pass, ninety seconds. The Diplomat's version is the one most likely to get interrupted by a balance.
 
-### From Card to Quest
+### From Read to Quest
 
-A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
+A reading that ends in a notebook is a reading you had. A reading that ends in a quest is one you played. Quests come out of Show Up, because that move ends in an artifact, and an artifact is something another person can encounter.
 
 One sentence: what you will do, who it reaches, by when, and what it costs you. *Bring Them Into the Structure* becomes: **I will put the two people who have been running intake without a title into the decision that names it, at Thursday's meeting, and it will cost me being the one who explains them to everybody else.** That is a quest. *I will be more inclusive in how decisions get made* is not one; nobody can tell whether you did it, including you.
 
 The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For a Diplomat the dread usually says that naming the terms will cost you the belonging. Occasionally true, and not a reason.
 
-*Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
+*Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
 
 ---
 
@@ -893,7 +891,7 @@ Here is what the Diplomat carries forward into the book:
 - The Care ↔ Impact axis, and the knowledge that the drift is one-directional
 - The Victim, the part that keeps an exact ledger, and what it is for once it stops setting the terms of your standing
 - The five game moves: Name the Field, Translate Across Camps, Close with Honest Terms, Repair After Rupture, Refuse False Equivalence
-- The Diplomat's twenty cards, and the superpower they are for: Connector, connection that has survived being told the truth
+- The Diplomat's superpower: Connector, connection that has survived being told the truth
 
 Here is the question that carries you out of this chapter and into the next: **When the Diplomat's tools are not enough, when one camp is playing a power game and the other is playing a harmony game and the conflict is altitudinal, who names that?**
 

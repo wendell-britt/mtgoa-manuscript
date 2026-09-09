@@ -634,7 +634,7 @@ Three points decide whether what you build survives contact with the people insi
 
 ### The Tell
 
-None of the four markers asked why you built it. That question is real, and it belongs to the Architect, because a design is the one move in this book that carries a signature. An Architect who redesigns the intake so that a redesign will have been made has run the structural account with a launch date on it. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer it:
+None of the four markers asked why you built it. That question is real, and it belongs to the Architect, because a design is the one move in this book that carries a signature. An Architect who redesigns the intake so that a redesign will have been made has run the structural account with a launch date on it. So the answer goes in your log in writing, where a later you can read it back. When you log the rep, answer it:
 
 - **Direct Action.** Did you change the condition so the harm stops, or so the record shows who found the condition?
 - **Raise Awareness.** The assumption got named. Did that move the table, or move you to the front of it?
@@ -645,17 +645,15 @@ Each Tell targets the Architect's signature failure: the design built for the si
 
 ---
 
-## Your Twenty Cards
+## The Architect Is a Move You Run
 
-The grid again, fourth operation of six. Five moves down, four domains across, twenty cards. These are the Architect's.
+The Architect is a Face, but it is also a move you can run, which means you are not holding an archetype. You are holding a practice: the Five-Move Form.
 
-*Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
+The five moves are this chapter, in order, with Clean Up in its own slot rather than on reflex a quarter-second after the signal lands.
 
-The five moves are this chapter, in order, with Clean Up in its own slot rather than on reflex a quarter-second after the signal lands. Every card at Show Up starts with the same verb. Pick a domain instead and you are choosing the arena. Down is the sequence, across is where it lands.
+### Where the Daemon Bites
 
-### Drawing Against the Shadow
-
-Draw from your twenty rather than the hundred and twenty, though not all from one move. The daemon is a rule, and it is in force at all five moves. The Emotional Body's five:
+The daemon is a rule, and it is in force at all five moves. The Emotional Body's five:
 
 **Wake Up.** It notices what is convertible. A signal with no structural output does not register as potential; it registers as noise, or as somebody else's department.
 
@@ -667,23 +665,23 @@ Draw from your twenty rather than the hundred and twenty, though not all from on
 
 **Show Up.** It builds the structure that makes the conversion permanent. What needed feeling now has a process attached to it, and nobody will have to feel it again. Including the people it happened to.
 
-Where it bites is Clean Up. Selecting a transformation is a real move with a real place in the sequence, and this one is being run early and without authorization. The four rows around it are what that early selection does to the stages on either side of it.
+Where it bites is Clean Up. Selecting a transformation is a real move with a real place in the sequence, and this one is being run early and without authorization. The four moves around it are what that early selection does to the stages on either side of it.
 
-Take **Forge the Anger**: Clean Up, Direct Action, Architect. Sit with how uncomfortable it is that the card asks you to choose at all. The answer the mechanism keeps arriving at is translate: heat into structure, because structure is the one output this Face trusts. The card's job is to make that choice happen in the open, once, where you can watch yourself make it.
+Take the move called **Forge the Anger**, the Architect's version of Clean Up. Sit with how uncomfortable it is that the move asks you to choose at all. The answer the mechanism keeps arriving at is translate: heat into structure, because structure is the one output this Face trusts. The move's job is to make that choice happen in the open, once, where you can watch yourself make it.
 
-Run it once, on something real. Bring the last decision that landed badly on people who had no say in it. Wake Up: which mode caught it, and what was it detecting. Open Up: six seconds, channel and location, before anything gets modeled. Clean Up: now choose, deliberately, does this get transcended, translated, or neutralized, and why that one. Grow Up: name the capability that gets stronger in someone else if you build this. Show Up: pick a domain and size the intervention against the problem rather than against the charge.
+Run it once, on something real. Bring the last decision that landed badly on people who had no say in it. Wake Up: which mode caught it, and what was it detecting. Open Up: six seconds, channel and location, before anything gets modeled. Clean Up: now choose, deliberately, does this get transcended, translated, or neutralized, and why that one. Grow Up: name the capability that gets stronger in someone else if you build this. Show Up: size the intervention against the problem rather than against the charge.
 
-Five moves, one card, ninety seconds, six of which are the only ones your Emotional Body will fight you for.
+Five moves, one pass, ninety seconds, six of which are the only ones your Emotional Body will fight you for.
 
-### From Card to Quest
+### From Read to Quest
 
-A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
+A reading that ends in a notebook is a reading you had. A reading that ends in a quest is one you played. Quests come out of Show Up, because that move ends in an artifact, and an artifact is something another person can encounter.
 
 One sentence: what you will do, who it reaches, by when, and what it costs you. *Build the Ladder* becomes: **I will hand the vendor relationship to Jess with the three details I never wrote down, by the fifteenth, and it will cost me being the person they call.** That is a quest. *I will build more sustainable systems* is not one; nobody can tell whether you did it, including you.
 
 The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For an Architect the dread is usually that it will be built worse without you. That is frequently true and it is not a reason.
 
-*Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
+*Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
 
 ---
 

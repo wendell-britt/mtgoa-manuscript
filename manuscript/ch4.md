@@ -733,7 +733,7 @@ When you draw a line, the seconds on either side of it decide whether it stands,
 
 ### The Tell
 
-None of the four markers asked why you drew it. That question is real, and it belongs to the Challenger, because a Challenger who draws a line so that a line will have been drawn has run the assessment at a higher volume. So the answer goes on the card in writing, where a later you can read it back. When you log the rep, answer it:
+None of the four markers asked why you drew it. That question is real, and it belongs to the Challenger, because a Challenger who draws a line so that a line will have been drawn has run the assessment at a higher volume. So the answer goes in your log in writing, where a later you can read it back. When you log the rep, answer it:
 
 - **Direct Action.** Did you say the limit to change what happens next, or to be the one who would not let it pass?
 - **Raise Awareness.** Did you name it to move the group, or to be on record having named it?
@@ -744,17 +744,15 @@ Each Tell targets the Challenger's signature failure: the line drawn for the rec
 
 ---
 
-## Your Twenty Cards
+## The Challenger Is a Move You Run
 
-Same grid as the Shaman's, one operation over. Five basic moves down (the Five-Move Form, which you have been running since Chapter 3), four domains across, twenty cards. These are the Challenger's.
+The Challenger is a Face, but it is also a move you can run, which means you are not holding an archetype. You are holding a practice: the Five-Move Form, which you have been running since Chapter 3.
 
-*Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
+Notice what happens as you go down the five. Wake Up names what you refuse to see. Show Up names what you do in front of other people. That is the Challenger's arc: it starts at what you refuse to see and ends at something you did with witnesses.
 
-Notice what happens as you go down the five. Wake Up names four cards you do not look at. Show Up names four that happen in front of other people. That is the Challenger's arc compressed into twenty phrases: it starts at what you refuse to see and ends at something you did with witnesses. Pick a domain instead and you choose the arena. Down is the sequence, across is where it lands.
+### Where the Daemon Bites
 
-### Drawing Against the Shadow
-
-Draw from your twenty rather than the hundred and twenty, though not all from one move. A daemon is a rule, and a rule in force the whole way down produces a different failure at every move. The Skeptic's five:
+A daemon is a rule, and a rule in force the whole way down produces a different failure at every move. The Skeptic's five:
 
 **Wake Up.** It notices resistance, always somebody else's. What resists being seen gets located outside you before the noticing has finished, and the hand holding the instrument escapes it.
 
@@ -766,23 +764,23 @@ Draw from your twenty rather than the hundred and twenty, though not all from on
 
 **Show Up.** An assessment ships where an intervention was called for. The critique is accurate, often the best read at the table, and nothing in the world moves.
 
-It bites hardest at Clean Up. The Skeptic's remit is whether it was ever real, and reality gets settled at interpretation. The other four rows run that same ruling early or late.
+It bites hardest at Clean Up. The Skeptic's remit is whether it was ever real, and reality gets settled at interpretation. The other four moves run that same ruling early or late.
 
-Take **The Story About the Truth**: Clean Up, Raise Awareness, Challenger. Its question is the one the Skeptic least wants turned around: *what story am I believing?* The Skeptic is an instrument for finding the story underneath somebody else's claim. This card points the same instrument at the verdict the Skeptic just issued.
+Take the move called **The Story About the Truth**, the Challenger's version of Clean Up. Its question is the one the Skeptic least wants turned around: *what story am I believing?* The Skeptic is an instrument for finding the story underneath somebody else's claim. This move points the same instrument at the verdict the Skeptic just issued.
 
-Run it once, on something real. Bring the last time you decided somebody was overreacting. Wake Up: name what you resisted in what they said. Open Up: one breath, the discomfort you skipped past on the way to the assessment. Clean Up: write the story you believed as a flat sentence, *this is exaggerated, this is about something else, this person is unreliable.* Grow Up: name the edge that sentence protects you from. Show Up: pick a domain and name the intervention.
+Run it once, on something real. Bring the last time you decided somebody was overreacting. Wake Up: name what you resisted in what they said. Open Up: one breath, the discomfort you skipped past on the way to the assessment. Clean Up: write the story you believed as a flat sentence, *this is exaggerated, this is about something else, this person is unreliable.* Grow Up: name the edge that sentence protects you from. Show Up: name the intervention.
 
-Five moves, one card, ninety seconds.
+Five moves, one pass, ninety seconds.
 
-### From Card to Quest
+### From Read to Quest
 
-A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played. Quests come out of the Show Up cards, because those cards end in artifacts and an artifact is something another person can encounter.
+A reading that ends in a notebook is a reading you had. A reading that ends in a quest is one you played. Quests come out of Show Up, because that move ends in an artifact, and an artifact is something another person can encounter.
 
 One sentence: what you will do, who it reaches, by when, and what it costs you. *Draw the Line* becomes: **I will tell the hiring panel on Thursday that I cannot support rejecting her unless somebody names the behavior, without softening it into a question, and it will cost me being the easy vote on that panel.** That is a quest. *I will be more direct* is not one; nobody can tell whether you did it, including you.
 
 The tell that a quest is alive is not enthusiasm. It arrives as anticipation with some dread underneath it. For a Challenger the dread usually arrives first. Good sign, hard one.
 
-*Draw one from your twenty. Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
+*Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
 
 ---
 
