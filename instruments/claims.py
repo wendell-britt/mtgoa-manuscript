@@ -95,7 +95,9 @@ def check_entry(e):
     """(hard, soft) findings for one entry. `hard` fails the run; `soft` is reported only."""
     hard, soft = [], []
     cid = e.get("id", "?")
-    fact = " ".join(str(e.get("fact") or "").split())[:96]
+    # A candidate's fact lives in `proposed_fact`, so reading only `fact` printed an empty line
+    # under every candidate finding. Found 2026-09-09 on the first candidate that drifted.
+    fact = " ".join(str(e.get("fact") or e.get("proposed_fact") or "").split())[:96]
     bucket = hard if is_claim(e) else soft
 
     for c in e.get("carriers") or []:
@@ -134,6 +136,12 @@ def incomplete():
     """Rulings recorded as started and not finished. Unambiguous, so this one blocks the press."""
     out = []
     for e in load():
+        # A candidate is an unruled census, so nothing has been applied and nothing can be
+        # half-applied. Found 2026-09-09 taking the census on the four held proof marks: the
+        # first candidate written carried `applied: 0 of 6` and would have blocked the press on
+        # a ruling Wendell has not made yet. Candidates never reach this check.
+        if not is_claim(e):
+            continue
         m = APPLIED.match(str(e.get("applied") or ""))
         if not m:
             continue
@@ -165,8 +173,17 @@ def shape():
         if not (e.get("carriers") or e.get("forbidden") or e.get("declares")):
             findings.append("%s guards nothing: no carriers, no forbidden phrases, no declares"
                             % cid)
-        if not str(e.get("fact") or "").strip():
-            findings.append("%s has no fact" % cid)
+        # A claim states a ruled fact; a candidate proposes one and says so in the field name,
+        # because the wording of an unruled fact is the part most likely to be wrong. Found
+        # 2026-09-09 taking the census on the four held proof marks.
+        if is_claim(e):
+            if not str(e.get("fact") or "").strip():
+                findings.append("%s has no fact" % cid)
+            if str(e.get("proposed_fact") or "").strip():
+                findings.append("%s is ruled but still carries a proposed_fact; a ruled fact "
+                                "belongs in `fact`" % cid)
+        elif not str(e.get("proposed_fact") or "").strip():
+            findings.append("%s is a candidate with no proposed_fact" % cid)
         if not str(e.get("scope") or "").strip():
             findings.append("%s has no scope; an entry records the method it used" % cid)
         applied = str(e.get("applied") or "")

@@ -337,7 +337,26 @@ five more, and none was a question — all five were defects in text two panels 
    carrier file that does not exist and `coherence.py` printed `claims ok clean`, because the
    drift check caught it on a different run and the shape check, whose job it was, never looked.
    **The acceptance table earned itself on first use.** Fixed.
-5. **The forbidden tier needed two shapes, not one.** FR-C12 assumed a single scan. `gate.py`
+5. **Taking the first real census found four more, all in the candidate tier.** Building the
+   registry exercised the claim path only; the four held proof marks (DL-85 to DL-88) were the
+   first entries written without a ruling, and every one of these is a defect the claim path
+   could not have shown.
+   - **A candidate with `applied: 0 of 6` would have blocked the press.** `incomplete()` read
+     every entry, so an unruled census of six unframed treatise entries would have been reported
+     as a ruling started and abandoned. Candidates never reach the press check now, and they
+     carry no `applied` at all, because nothing has been applied.
+   - **A candidate has no fact, it has a proposal.** The shape check demanded `fact` from every
+     entry. An unruled fact's wording is the part most likely to be wrong, so a candidate carries
+     `proposed_fact` and the check now requires the right one of the two per tier.
+   - **A candidate's id would have dangled.** FR-C1a keys the registry to `DECISION_LOG.md`, and
+     a candidate is not a decision, so its id pointed at no row. **Resolved by writing the row at
+     census time with status HELD** rather than by exempting candidates: the log becomes the index
+     of every question the book has ruled *or is holding*, which is the Architect's one-index
+     argument applied one step further than the panel took it.
+   - **A candidate finding printed an empty fact**, because the reporter read `fact` and the
+     entry carries `proposed_fact`.
+
+6. **The forbidden tier needed two shapes, not one.** FR-C12 assumed a single scan. `gate.py`
    already enforces the four banned words and carries the carve-outs, so a second scanner here
    would disagree with it. Those entries use `declares` and check that **the rule is still
    declared in `editorial.yaml`**; a removal with no existing enforcer, like DL-83, is scanned
