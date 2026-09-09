@@ -203,7 +203,7 @@ The Diplomat's pair: care for the relationship versus impact on the situation.
 
 **Impact** means the actual change in the world outside the relationship. What moves, what stops, who is materially better off after the conversation than before it. Impact means the willingness to spend a relationship on something rather than preserve it as an end in itself. Brutality spends the relationship without pricing it. Impact names the price first and spends it anyway.
 
-Both poles have a failure state, and the failure states do not look alike. Care without impact is attendance: warm, dependable, and doing nothing. Everyone likes you. Nothing changes. Impact without care is the Challenger's altitude imported into a conversation that needed this one: the true sentence said in a way that ends the possibility of saying the next one.
+Both poles have a failure state, and the failure states do not look alike. Care without impact is attendance: warm, dependable, and doing nothing. Everyone likes you. Nothing changes. Impact without care is the Challenger's altitude imported into a conversation that needed this one: accurate, and said in a way that ends the possibility of saying anything after it.
 
 One part of this belongs specifically to this reader, and it explains why the axis reads as hard to see rather than hard to accept. You are fluent in one pole and suspicious of the other. The Care end has a vocabulary (holding, tending, centering, making space) and the Impact end, at this altitude, mostly has warnings attached to it. So the drift runs one direction and never announces itself. Nobody drifts toward Care in a single dramatic act of avoidance. It happens one reasonable call at a time, and each call is defensible.
 
@@ -610,7 +610,7 @@ The one described above keeps a generic ledger. Yours has actual entries in it, 
 
 You drew the Care ↔ Impact axis earlier in this chapter. Here is why the Victim is nearly impossible to catch standing on it.
 
-Both poles are real goods, and this chapter is unusual in the book because its reader is fluent in one of them and suspicious of the other. You know both failure states: the warm attendance that changes nothing, and the true sentence said in a way that ends the conversation. Every live relationship sits somewhere on that axis, and where it sits is a judgment call, and judgment calls about what something costs are precisely what a ledger is for.
+Both poles are real goods, and this chapter is unusual in the book because its reader is fluent in one of them and suspicious of the other. You know both failure states: the warm attendance that changes nothing, and the accuracy that ends the conversation. Every live relationship sits somewhere on that axis, and where it sits is a judgment call, and judgment calls about what something costs are precisely what a ledger is for.
 
 So the shadow hides inside the act. It does not argue against impact; you would notice that. It argues for Care, and Care is half the truth, and it is the half you are good at. *This is not the moment. They are not ready to hear it. Pushing now would cost more than it gains.* Each of those can be correct. Each of them is correct sometimes. You can spend a decade at the Care end of a real polarity and call it discernment, and no single instance looks like an evasion.
 
@@ -769,7 +769,7 @@ The Refuse False Equivalence move is this: you name the difference between heari
 
 **The test:** You paraphrased the opposing position accurately enough that its strongest advocate would recognize it, and then said *here is why I still don't agree.* Whether they grant the distinction is theirs.
 
-**Working vs. performed:** When Refuse False Equivalence works, there's a quality of clarity: you've said the hard true sentence and nothing has broken. When it's being performed, there's a quality of certainty. You're more interested in being right than in understanding what's actually true.
+**Working vs. performed:** When Refuse False Equivalence works, there's a quality of clarity: you've said the hard part out loud and nothing has broken. When it's being performed, there's a quality of certainty. You're more interested in being right than in understanding what's actually true.
 
 ---
 

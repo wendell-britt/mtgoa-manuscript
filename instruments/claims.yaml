@@ -413,5 +413,57 @@ claims:
       separate pass.
     carriers:
       - {file: manuscript/ch3.md, phrase: "the sentence she had not said still sitting in her chest"}
-      - {file: manuscript/ch3.md, phrase: "Three years of correct words never reached that face."}
-      - {file: manuscript/ch3.md, phrase: "Allyship is saying one true sentence:"}
+      - {file: manuscript/ch3.md, phrase: "Three years of correct words had never asked him"}
+      - {file: manuscript/ch3.md, phrase: "Allyship is saying what a part of you has already felt"}
+    superseded_in_part_by: >
+      DL-92, the same day. Two of the three spans were rewritten again because the noun this entry
+      supplied was itself the defect. **The fact above survives intact** — no pro-form in the
+      parable points at a noun the reader was never given — and the carriers are re-pointed at the
+      text that now carries it.
+
+  - id: DL-92
+    fact: >
+      The book does not sell a true sentence. Allyship is what you sensed, said out loud to the
+      person it concerns, while it is still live, at the cost of being the one who said it —
+      presence and address, not a truth-token located and delivered.
+    applied: "10 of 10"
+    ruled_by: >
+      Wendell, 2026-09-09: "'one true sentence:' this is the main problem. We're suggesting that
+      allyship is a function of truth and not presence. there is no such thing as one true
+      sentence. In the words of the tao te ching the name that can be named is not the true and
+      unchanging name. It's this statement that makes the sentence nonsense."
+    wrong_because: >
+      **DL-91 treated the wrong layer.** It read "the true one" as a grammar defect and supplied
+      the noun the pro-form was reaching for, and the noun was the defect. Swapping *the right
+      words* for *one true sentence* keeps the council's own game and changes only the winning
+      script: there is still a correct utterance somewhere and the reader's job is still to find
+      it. **That is what the council was doing for three years.** The parable refutes it twice in
+      the book's own words: the council's words are true — "It named the suffering of the lower
+      families with real feeling" — and move nothing; and four paragraphs on the text says "She
+      brought them four sentences." Not one. What distinguished her move was not the truth value
+      of the words but that she was present to what she had felt, said it to the one who could
+      act, in front of people, and stayed the person who had said it.
+    proof_mark: "none — ruled on the concept, on the line DL-91 had just produced"
+    scope: >
+      Every occurrence of the phrase "true sentence" across manuscript/, appendices/ and matter,
+      counted by script on 2026-09-09: **seven in manuscript/ch3.md and three in
+      manuscript/ch7.md, ten in all**, every one below. **The first census said five and was
+      wrong**: it was read off a truncated grep whose lines were cut at column 220, and the five
+      it missed were in that output past the cut. The run went out on it. Reverted and redone
+      against a script. **"the true read" in the Raise Awareness handbook is deliberately left
+      standing**: the objection lands on naming, not on seeing, and a read that matches the room
+      is the Shaman's faculty. The book may say a perception is accurate. It may not sell a
+      sentence as true. The three ch7 spans are beyond what Wendell named and are declared
+      separately so they can be backed out without disturbing ch3.
+    forbidden: ["true sentence"]
+    carriers:
+      - {file: manuscript/ch3.md, phrase: "she said it to the man who could change it, out loud, with everyone watching"}
+      - {file: manuscript/ch3.md, phrase: "Allyship is saying what a part of you has already felt"}
+      - {file: manuscript/ch3.md, phrase: "all aimed at one outcome: what you sensed"}
+      - {file: manuscript/ch3.md, phrase: "The whole win at the Shaman's altitude is what you sensed"}
+      - {file: manuscript/ch3.md, phrase: "and you say what you clocked"}
+      - {file: manuscript/ch3.md, phrase: "Noted. Saying it anyway."}
+      - {file: manuscript/ch3.md, phrase: "why the read, said and not only felt, is the move"}
+      - {file: manuscript/ch7.md, phrase: "you've said the hard part out loud"}
+      - {file: manuscript/ch7.md, phrase: "accurate, and said in a way that ends the possibility of saying anything after it"}
+      - {file: manuscript/ch7.md, phrase: "and the accuracy that ends the conversation."}

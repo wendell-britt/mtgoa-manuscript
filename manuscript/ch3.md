@@ -641,7 +641,7 @@ Here is why this daemon stands second, right behind the one that keeps you alive
 
 You do not fire the Controller. Fire the referee and your follow-through goes with it. You take the joystick back by handing it the right rulebook, your rules, the ones you would choose with a clear head. *Here is the ally I actually want to be: the one who names the unsaid even when her voice shakes. Hold me to that one. When a feeling shows up, let it onto the field. It is in bounds.* Do that, and the referee goes back to its real work: keeping your integrity when it costs you, and keeping the game honest, which now includes letting you feel.
 
-One beat: someone on your team pushes through a decision a part of you clocks as wrong. On the old standard, the Controller rules the read inadmissible before you can speak (*probably just my stuff*). You go along with the group. Refereeing the game you chose, it lets the read onto the field and holds you to your own rule, and you say the one true sentence, *"Something here doesn't sit right with me. Can we slow down?"*, even while your nerve tells you to let it go. It is the same part, blowing the same whistle. What changed is whose rules it enforces.
+One beat: someone on your team pushes through a decision a part of you clocks as wrong. On the old standard, the Controller rules the read inadmissible before you can speak (*probably just my stuff*). You go along with the group. Refereeing the game you chose, it lets the read onto the field and holds you to your own rule, and you say what you clocked, *"Something here doesn't sit right with me. Can we slow down?"*, even while your nerve tells you to let it go. It is the same part, blowing the same whistle. What changed is whose rules it enforces.
 
 *Bring one real moment the Controller ruled a feeling out of order before you could act on it, a reading you talked yourself out of with "probably just my stuff," or a move you didn't make until it could be perfect. Name the rule it was enforcing, and whose rule it was. Two minutes to capture it as a BAR.*
 
@@ -655,7 +655,7 @@ The Controller does not block your reading with a vague no. It blocks with a ver
 
 These are the whistle-calls. When something true moves in a moment and a part of you feels it, the Controller does not argue that the feeling is wrong. It disqualifies the one who would name it. Who are you to say this: you're not ready, you don't belong, you're not good enough. The reading never reaches the field, because the referee who would call it has been ruled ineligible. The six beliefs read like stray bad thoughts about yourself. They are the specific tool the Controller uses to keep your Shaman move from ever getting made.
 
-This is why you do not beat them by arguing. Argue *I am good enough* and you have already accepted the court. Now you are litigating your own standing while the moment passes. The judge has every past ruling on file, infinite patience, and a perfect record on points. The Shaman's move is to notice that a court is even sitting, catch the belief in the act of disqualifying your reading, and make the play anyway. Name the ruling. Name whose rule it is. Let the read onto the field with the belief still talking: *there it is, "not ready." Noted. Here is the true sentence anyway.*
+This is why you do not beat them by arguing. Argue *I am good enough* and you have already accepted the court. Now you are litigating your own standing while the moment passes. The judge has every past ruling on file, infinite patience, and a perfect record on points. The Shaman's move is to notice that a court is even sitting, catch the belief in the act of disqualifying your reading, and make the play anyway. Name the ruling. Name whose rule it is. Let the read onto the field with the belief still talking: *there it is, "not ready." Noted. Saying it anyway.*
 
 ### What You Install Instead
 
@@ -688,11 +688,11 @@ The season the fields failed for good, she stopped waiting to feel ready, becaus
 
 The fire went silent. It was not a warm silence. Someone was cornered; the respected one felt his standing questioned in front of the circle; and for that moment she was, exactly as the verdict promised, the one who had spoiled the beautiful words.
 
-Then it sat in the circle. No one could unsay it, and the council had to answer it, not her feeling, the fact she had finally let out of her body. The water moved the next season. It moved because one true sentence reached the face that could change it. Three years of correct words never reached that face.
+Then it sat in the circle. No one could unsay it, and the council had to answer it, not her feeling, the fact she had finally let out of her body. The water moved the next season. It moved because she said it to the man who could change it, out loud, with everyone watching. Three years of correct words had never asked him for anything.
 
-Allyship is not saying the right words. The council had the right words. The right words were the wall. Allyship is saying one true sentence: what a part of you has already felt, what everyone already half-knows, to the face it concerns, at the cost of being, for one cold moment, the person who said it.
+Allyship is not saying the right words. The council had the right words. The right words were the wall. Allyship is saying what a part of you has already felt, what everyone already half-knows, to the face it concerns, at the cost of being, for one cold moment, the person who said it.
 
-That move belongs to the Alchemist, the one who takes the charge the Controller called a foul (the fear, the "not ready," the "not good enough") and burns it for fuel instead of waiting for it to go away. The woman on the council did not speak once the fear left. She spoke while it still burned, and used it. That is the Shaman's whole practice. The sensing, the Form, the Controller pried off the joystick, all aimed at one outcome: one true sentence, out of your body and into the world, where it can move the water.
+That move belongs to the Alchemist, the one who takes the charge the Controller called a foul (the fear, the "not ready," the "not good enough") and burns it for fuel instead of waiting for it to go away. The woman on the council did not speak once the fear left. She spoke while it still burned, and used it. That is the Shaman's whole practice. The sensing, the Form, the Controller pried off the joystick, all aimed at one outcome: what you sensed, out of your body and into the world, where it can move the water.
 
 The Alchemist is a superpower, the one this chapter trains. A superpower is not a Face. A Face is a role at the table. A superpower is the capacity you built to survive, made usable for somebody else. Every one of them runs on the same alchemy, a live charge spent. The Alchemist leads with it. Appendix I lays them all out.
 
@@ -732,7 +732,7 @@ A stranger has a Controller too, working in a Forest you cannot see into. It enf
 
 You know what emotional alchemy is. You have run the five stages. You have met the part of you that decides which feelings you are cleared to have where other people can see them.
 
-The whole win at the Shaman's altitude is one true sentence, said to a person who can hear it, while it is still live. Insight does not count. A more accurate model of the group than anyone else has does not count. What counts is the sentence that left your body, entered the situation, and changed what was possible inside it. The woman at the council did not bring the elders a framework. She brought them four sentences she had been holding for three seasons, said to the face that could act on them.
+The whole win at the Shaman's altitude is what you sensed, said out loud to a person who can act on it, while it is still live. Insight does not count. A more accurate model of the group than anyone else has does not count. What counts is the sentence that left your body, entered the situation, and changed what was possible inside it. The woman at the council did not bring the elders a framework. She brought them four sentences she had been holding for three seasons, said to the face that could act on them.
 
 Everything in the practice was the instrument. These five are what you do with the instrument when other people are present and the clock is running. They run in the Form's order, because the Form is the order: you catch the signal, you let it up, you name the channel, you find what it grew, you spend it. The practice taught you to run that alone. These five are what it costs to run it where somebody is watching.
 
@@ -849,7 +849,7 @@ When you say it, what you do next decides whether it helps the person or wounds 
 
 ### After this, everything stands on it
 
-The Diplomat's close, the Challenger's line, the Regent's stand, the Architect's design: none of them holds up on a bad reading. You are the first face for a reason. Every move the other five make begins here, with someone who can feel what is actually happening and say it where it counts. The Challenger aims the read into a line. The Architect builds structure from it. The Regent keeps what the read found worth keeping. The reading comes first. A reading that never leaves the chair stalls the whole game. That is why you start with the Shaman, and why one true sentence, said and not only felt, is the move everything else will stand on.
+The Diplomat's close, the Challenger's line, the Regent's stand, the Architect's design: none of them holds up on a bad reading. You are the first face for a reason. Every move the other five make begins here, with someone who can feel what is actually happening and say it where it counts. The Challenger aims the read into a line. The Architect builds structure from it. The Regent keeps what the read found worth keeping. The reading comes first. A reading that never leaves the chair stalls the whole game. That is why you start with the Shaman, and why the read, said and not only felt, is the move everything else will stand on.
 
 ### The Tell
 
