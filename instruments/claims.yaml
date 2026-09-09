@@ -207,7 +207,16 @@ claims:
       stripped, plus first- and second-person counts on both halves of each. The reading is what
       settled it; the counts only agreed. Not yet read: ch6, ch7, ch8 on the same test, and the
       question of what the signature should sign instead.
+    spec: specs/SPEC_WHOSE_VOICE_CH2_CH3_2026-09-09.md
     note: >
+      **Superseded in scope by the spec above, 2026-09-09.** The defect is not a mis-signed
+      document. The book PROMISES the treatise at ch2:577 in the author's own voice — "six
+      chapters, each opening with a treatise by the person who runs one of the six schools:
+      their method, in their voice, carrying their bias and their quarrel with the other five" —
+      and the promise has three carriers: that sentence, the six signatures, and three marginal
+      references to "this treatise" at ch6:77, ch6:557 and ch7:159. All three agree with each
+      other and none agrees with the prose. Every chapter opens with the fable in the book's
+      narrator voice, and the last thing above every signature is the Polarity Map.
       **A header was applied to all six chapters on the wrong reading and has been reverted**
       (commit 63762a9, reverted the same day). It declared THE FIRST TREATISE over the fable
       opening, which asserts of the text something the text does not do. The front-matter note
@@ -215,6 +224,7 @@ claims:
       survives is the question Wendell actually raised: the signature is attached to the wrong
       body of text, and where the Head's voice really lives is in the boxes.
     carriers:
+      - {file: manuscript/ch2.md, phrase: "each opening with a treatise by the person who runs one of the six schools"}
       - {file: manuscript/ch3.md, phrase: "the first treatise, submitted by Maera Voss"}
       - {file: manuscript/ch4.md, phrase: "the second treatise, submitted by Corin Ash"}
       - {file: manuscript/ch5.md, phrase: "the third treatise, submitted by Sera Quill"}
