@@ -32,7 +32,7 @@ set went 25–33, then 36 on.)
 ## Chapter 2 — The Forest
 
 ### p.25 — Chapter open / Section 1: Urgency
-- **The heading "Section 1: Urgency" itself carries a highlight** `[?]` — unclear whether the mark is the heading text or the section as a unit.
+- **The heading "Section 1: Urgency" itself is marked.** *Wendell, 2026-09-09:* "a stupid heading that's a holdout from when I was creating the chapters based on the Kotter model. It doesn't mean anything to a reader and yet it snuck into multiple revisions." — 'Urgency' is Kotter step 1, verbatim; the only literal Kotter word left in a heading. See Pattern 7 below: the `Section N:` template shows through in all nine chapters.
 - "…when somebody finally says what has been sitting there for months **and everybody at the table starts picking their words**."
 - "Two people who agree with each other end up **arguing about a word**…"
 - "Most of it starts smaller. **You say the sentence you rehearsed and your friend agrees with you and never brings it up again.**"
@@ -515,6 +515,18 @@ set went 25–33, then 36 on.)
 - "…the one you turn into a task before it has finished telling you anything. **All five ran through this chapter.**"
 
 ---
+
+## Patterns across the marks (working — Wendell to confirm or correct)
+
+**Root:** the concrete material is left clean; what gets marked is where the writing steps in front of it to manage the reader.
+
+1. **Interprets the observation** — the "…, and [what it means]" tack-on. *"and it should not," "and they walk away having lost their own say in it," "and the trade feels like safety."*
+2. **Concludes for the reader** — the verdict stamp. *"The care underneath is real," "All four are real allyship," "Both are true," "It is a form. You sign it," "That is burnout."*
+3. **Manages the reader's path** — the signposts. *"Hold these three words, because the whole book turns on them," "This chapter is the threshold map," "The deeper truth is this:", "Chapter 3 gives you both," "and Chapter 9 tells that part," "Appendix G says where."*
+4. **Undercuts itself** — the hedges. *"I have guessed wrong in both directions," "and I could be wrong," "It is not one," "I have not solved it. I teach here anyway."*
+5. **Gestures with a nothing-word** — the vague verb. *"how you are landing," "lands hard," "the feeling runs clean," "it trades contact for control," "vigilance buys aim," "metabolize."* (Wendell, earlier: "land is another one of those nothing words.")
+6. **Repeats a line as a refrain until it stops carrying weight.** *"The world is not fine."* — p.25, p.27, p.30.
+7. **Construction scaffolding left in the reader's text.** "Section 1: Urgency" (Kotter step 1, verbatim); the `Section N:` numbering in all nine chapters; "Recap and Transition" as a reader-facing heading in eight of them; the phantom deck / "operation" / "grid" apparatus. The build template was never struck.
 
 ## Notes for correction
 - ch2 pp.34–35 were **not** in the photo set — if they carry marks, they still need capturing.
