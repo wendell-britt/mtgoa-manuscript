@@ -15,7 +15,9 @@ source:
   - instruments/box_the_records.py
   - marginalia/compile.py
   - instruments/claims.yaml
-status: analysis and remediation, nothing built
+status: SUPERSEDED IN PART, 2026-09-09. A hostile review overturned four of its findings and a
+  counterfactual run refuted one of its claims. Read alongside
+  specs/HOSTILE_RCA_REVIEW_6FACE_2026-09-09.md and specs/SPEC_WRITE_CONTRACT_2026-09-09.md.
 ---
 
 # What happened
@@ -173,3 +175,34 @@ count of edits rather than their blast radius.
 **What the panel refuses.** It does not build all four. It does not add another check that reports
 and never fails. And it does not treat the docstring warning in `box_the_records.py` as
 remediation, since a warning written by the author who then ignored it is exactly what failed here.
+
+---
+
+## Corrections, same day
+
+A hostile six-Face review of this document overturned four of its findings, and running the
+counterfactual refuted a claim it makes above.
+
+1. **The root cause was one layer too abstract.** *"Two copies with no arbiter"* is the hazard,
+   not the defect. The condition sat harmless for weeks. What destroyed prose was a choice to
+   rebuild with `apply_chapter` when writing in place was available and no slower. The defect is
+   that **an edit script may write anything and nothing compares what it wrote to what it
+   declared.**
+2. **The six-board table is inflated.** Four of the six checks were never designed to catch this
+   and say so in their own docstrings. Two rows are fair: `--verify` and `ruling.guard`. The
+   padding is what made the incident read as a collapse and drove a four-mechanism remedy.
+3. **The detection story is backwards.** This document calls the catch *"a thin thread."* It was
+   post-write verification — reading the result and comparing it to the previous run — and it
+   caught **both** of today's silent failures. That is the control that works, and it should be
+   formalised rather than replaced by a pre-write gate.
+4. **Remediation 3, the hazard tier, is killed.** It reverses FR-C9, which Wendell ruled this
+   morning, on a cause that was not the cause, and it would be evaded within a week.
+5. **Remediation 1's claim is false, and the counterfactual proves it.** This document says the
+   blast-radius check *"catches this incident and the other silent failure today."* Replayed:
+   containment fires on the revert (317 changed words outside the declared span) and **misses the
+   staging bug entirely**, because that failure was an absence of change. The mechanism needs a
+   completeness half. See `SPEC_WRITE_CONTRACT_2026-09-09.md` §6.
+
+**And one finding nobody defended, absent from this analysis entirely:** it never asks whether the
+script should have existed. Four passages, four edits. A tool able to rewrite six chapters was
+built to place four boxes, and its capability is what turned a mistake into damage.
