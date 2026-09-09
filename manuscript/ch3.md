@@ -717,13 +717,13 @@ The one described above enforces a generic rulebook. Yours enforces a specific o
 
 ### What You Take Out of the Forest
 
-The Controller developed does what nothing else in this chapter can do: it admits a feeling onto the field and holds you to a line in the same motion. Those two rarely travel together. The Shaman's move needs both at once: the reading let all the way in, and something in you that will not let you leave the table with it unsaid.
+Your Controller, once you develop it, lets a feeling run its whole length and still holds you to your own rule. Most people manage one. They feel it clearly and say nothing, or they say correct words with nothing running underneath them.
 
-That is what the Alchemist runs on. You cannot burn a charge you never let yourself have. You will not spend one while the fear is still live unless some part of you enforces a rule you set on a clearer day. The woman at the council had both. The rule won, which is a referee doing its job rather than a feeling that finally got loud enough.
+The Alchemist needs both. Let a charge finish and you know what is actually happening. Hold your rule and you say so to the face it concerns, while you are still afraid, because you decided on a calmer day that you would. The woman on that council had both. She read that circle accurately for three seasons and said nothing. When she finally spoke, she named whose plan had moved the river, to his face, in front of everyone. She was no readier than she had been.
 
-What you take out is what your Controller is for.
+You came into this section with a critic. You leave with a referee. You write its rulebook.
 
-Other people's Controllers do the same job in a Forest you cannot see into. A stranger's Controller enforces a rulebook you have never read, so it fires when you arrive holding a better standard, and it opens when you meet the one they already keep. Keeping their rule is how you earn clearance with it.
+A stranger has a Controller too, working in a Forest you cannot see into. It enforces a rulebook you have never read. It fires when you arrive holding a standard they never agreed to. It opens when you keep a standard they already hold. Meet their rule first. Your standard travels afterward, or it does not travel at all.
 
 ---
 

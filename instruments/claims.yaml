@@ -255,10 +255,21 @@ claims:
       - {file: manuscript/ch3.md, phrase: "with your nerve telling you to let it go, deposits one"}
 
   - id: DL-87
-    proposed_fact: >
-      The section "What You Take Out of the Forest" needs rebuilding rather than repairing. Its
-      marked sentences were reworded and the handwritten instruction against the whole section
-      was not carried out.
+    fact: >
+      ch3's "What You Take Out of the Forest" is rebuilt, not repaired. It names what the reader
+      keeps from meeting the Controller: a critic traded for a referee whose rulebook is theirs.
+    applied: "1 of 1"
+    ruled_by: >
+      Wendell, 2026-09-09: "the 'what you take out of the forest' section is almost word salad. I
+      have no idea what it's saying how it's supposed to help the reader. We need to fix it."
+      Then, across four rounds on the draft: the superlative is falsifiable and throws away what
+      the chapter did; the negation gives a feeling agency; "what chooses is" is vague passive and
+      hides that the chooser is you, earlier; "spend it" is an empty phrase; "the true sentence"
+      and "the true one" are definite-article failures; and "the Alchemist" stays because it is a
+      named title.
+    superseded_proposed_fact: >
+      The section needs rebuilding rather than repairing. Its marked sentences were reworded and
+      the handwritten instruction against the whole section was not carried out.
     wrong_because: >
       This is the one mark that is not a sentence. Wendell wrote "Rework" by hand against the
       section, and five of its lines were separately highlighted. The five were changed in
@@ -273,9 +284,9 @@ claims:
       "the reading let all the way in" and is not carried as a span because the rework changed it.
     carriers:
       - {file: manuscript/ch3.md, phrase: "### What You Take Out of the Forest"}
-      - {file: manuscript/ch3.md, phrase: "The rule won, which is a referee doing its job"}
-      - {file: manuscript/ch3.md, phrase: "What you take out is what your Controller is for."}
-      - {file: manuscript/ch3.md, phrase: "Keeping their rule is how you earn clearance with it."}
+      - {file: manuscript/ch3.md, phrase: "You came into this section with a critic"}
+      - {file: manuscript/ch3.md, phrase: "The Alchemist needs both."}
+      - {file: manuscript/ch3.md, phrase: "She was no readier than she had been."}
 
   - id: DL-88
     proposed_fact: >
