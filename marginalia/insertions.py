@@ -95,7 +95,7 @@ explain it. She has been asking it a long time and she has never been satisfied 
 including her own.*
 
 *She used to grade her readings. Scored them in a book, against what turned out to be true. She
-stopped in her fourth year here and has described the time since as the first she could hear
+stopped in her fourth year here. She describes the time since as the first she could hear
 anything at all. I mention it because she will not, and because you are shortly to be taught by
 somebody who spent years marking her own homework.*""",
 4: """*Corin held a verdict open once. One time that I know of, against every instinct they have, for
@@ -137,8 +137,8 @@ warmly, in a way that left each of them feeling included in the refusal.*""",
 # you are for — is already in the letter, two pages later, in the mouth it belongs to.
 NOTES = {
 3: [
-("It worked. The cost landed somewhere the villagers never thought to look.", """*We put in once at Oreve, which is a port and a poor one — the moorings were rotten and the
-harbourmaster kept his ledgers in his head and got them wrong.*
+("It worked. The cost landed somewhere the villagers never thought to look.", """*We put in once at Oreve, a poor port. The moorings were rotten, and the
+harbourmaster kept his ledgers in his head, where they were wrong.*
 
 *Their council chamber had no chairs. You stood, and the first business of any session was that
 somebody said out loud what the field felt like, and if nobody agreed with the reading, somebody
@@ -147,34 +147,32 @@ began. I asked a clerk how long the practice had been in place and she did not u
 question. She thought I was asking when the building went up.*
 
 *We were there eleven days. I have thought about it more than is useful.*"""),
-("### Polarity Encounter — Feeling ↔ Function", """*Watch for the point where you get good at this and it becomes enough.*
+("### Polarity Encounter — Feeling ↔ Function", """*Watch for the point where being good at this starts to feel like enough.*
 
-*You will start reading a company accurately. That is a real skill, rarer than it sounds, and
-each accurate read will feel like an accomplishment. It is not one. A read that never becomes
-a move is a very sophisticated way of standing still, and I have watched people build whole
-careers in that spot and be admired the entire time.*"""),
+*You will start reading a company accurately. That is a real skill, rarer than it sounds.
+Each accurate reading will feel like an accomplishment, and a reading that never becomes
+a move is a very sophisticated way of standing still. People build whole careers in that
+spot and are admired the entire time.*"""),
 ("### The Five Stages of the Five-Move Form", """*Maera says the Form can run in ten seconds. She is right, and she has been practising for
 thirty years.*
 
 *For your first year, run two: notice, and say. The other three are what you do afterwards, on
-your own time, and they are where the training actually happens. She tells you five first because
+your own time, where the training actually happens. She tells you five first because
 students who learn two never come back for the other three.*"""),
 ("### The Five Elements: How Different Feelings Flow", """*The Body teaches these in a low-lit hall with the windows open, on the theory that a student who
 is slightly cold will stop pretending to be comfortable. I have sat in. It works, and I resent
 that it works.*"""),
-("the triage rule, and four worked scenarios", """*Triage is the part of this chapter you will actually use, and it is in an appendix. Maera does
+("the triage rule, and four worked scenarios", """*The part of this chapter you will actually use, triage, is in an appendix. Maera does
 not believe anybody should be handed the shortcut before they have felt why it is one.*
 
 *I disagree, which is why I have told you where it is.*"""),
 ("### The Shaman's Superpower: Knowing Which Move to Make", """*The first time I named a charge out loud in a company that had agreed not to, I got it wrong. Badly
-wrong. I named grief and it was rage, and I was corrected at some volume in front of eleven
-people.*
+wrong. I named grief and it was rage. Eleven people corrected me, at some volume.*
 
-*It worked anyway. That is the part nobody warns you about — the company opened regardless, because
-what mattered was that somebody was willing to be wrong out loud about something real. I would
+*It worked anyway. That is the part nobody warns you about — the company opened regardless: somebody had been
+willing to be wrong out loud about a real charge. I would
 not build a technique on it. I mention it because you are going to be wrong the first time, and
-it will not be the disaster you are picturing. It will be a smaller and more specific disaster,
-and you will survive it.*"""),
+it will not be the disaster you are picturing. It will be a smaller and more specific disaster.*"""),
 ],
 4: [
 ("Very few people can do all three without flinching", """*Very few people can do all three without flinching. Somebody did all three to me once, in eleven
@@ -497,7 +495,7 @@ RECORDS = {
 
 *He said: She gave me an ultimatum. Later, to me: Was it not one? I have gone over it. I still hear one.*
 
-*She was protecting the possibility of saying it again next week. He was protecting a man who had never been told to stop and had no way to be told. I record both, and I record him at length, because he was wrong about the ultimatum and leaving out the wrong one is how a case stops being a case.*
+*She was protecting the possibility of saying it again next week. He was protecting a man who had never been told to stop and had no way to be told. I record both, and I record him at length, because he was wrong about the ultimatum and leaving out whoever was wrong is how a case stops being a case.*
 
 *I will not say which of them was right. Forty-one cases and I have not said it once.*
 
@@ -520,29 +518,27 @@ HANDBOOK = {
     3: """**THE SCHOOL OF THE BODY**
 *Admissions. Filed as required.*
 
-**1. Who we are for.** I look for two qualities and will not take one without the other. First,
+**1. Who we are for.** I look for two qualities, together or not at all. First,
 that the applicant has felt something in a gathering before anybody named it, said nothing,
 and been right. Second, that they have watched somebody else feel something and hold it in,
-and noticed the holding in, and minded it afterward. I decline applicants who bring only the
+and noticed the holding in enough to mind it afterward. I decline applicants who bring only the
 second. I cannot teach a person to hand over an instrument they have never held.
 
 **2. What you will be able to do when you leave.** I teach one skill. A student learns to
 name where a feeling landed in the body before naming what it means. Chest, throat, the back
-of the neck, the jaw. It sounds small to me as well, and I have watched what follows from
+of the neck, the jaw. It sounds small to me as well. I have watched what follows from
 it: the people around that student begin speaking earlier, because somebody present is
 visibly not waiting to be sure.
 
 **3. What it costs.** Being wrong out loud, on a schedule, in front of the same faces. I
-keep my own errors in more detail than my successes and students find the ratio unsettling
+keep my own errors in more detail than my successes. Students find the ratio unsettling
 for about a term. Those who arranged to be wrong only in private have suffered as a result.
 The instrument does not recalibrate in private. Three have come back after a decade to begin
 again, and I took them.
 
-**4. What we do not teach.** What to do about the feeling once I have it. Two responses are possible and
-neither of them is mine. If the situation needs a sentence said to a face, that is
+**4. What we do not teach.** What to do about the feeling once I have it. Two responses are possible, neither of them mine. If the situation needs a sentence said to a face, that is
 the School of the Line. If it needs the pattern changed so the feeling stops
-arriving in the first place, that is the School of the Pattern. I send more students to the
-Pattern than I expected to.
+arriving in the first place, that is the School of the Pattern.
 
 **5. Entry.** None. Everyone begins here, including those who arrive certain they are past
 it. I have been wrong about who was past it.

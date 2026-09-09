@@ -309,7 +309,16 @@ claims:
       - {file: manuscript/ch3.md, phrase: "We were there eleven days."}
 
   - id: DL-89
-    proposed_fact: >
+    fact: >
+      insertions.py holds the frame text the manuscript carries, --verify compares frames as well
+      as body, and --strip refuses a chapter apply() cannot reproduce. The manuscript is
+      authoritative and the source cannot silently win.
+    applied: "8 of 8"
+    ruled_by: >
+      Panel, 2026-09-09, six of six, PANEL_WRITE_CONTRACT_OPEN_Q_6FACE: the manuscript is
+      authoritative and insertions.py is regenerated from it rather than retired, on eight
+      commits against forty-nine. Wendell, 2026-09-09: "let's do DL-89."
+    superseded_proposed_fact: >
       marginalia/insertions.py is the source of the framed blocks and manuscript/*.md is the
       compiled result, so the two must agree. They do not, and running compile.py --apply today
       would silently revert edited prose in three chapters.
@@ -329,14 +338,25 @@ claims:
       diverge at HEAD, so this predates today's work entirely. Not censused for front matter,
       back matter or ch2 and ch9.
     note: >
-      Two directions are available and they are not equivalent. Sync insertions.py FROM the
-      manuscript, which keeps the shipped prose and makes the source match it; or re-apply and
-      lose the reworks. The first is almost certainly right and it is still a ruling, because
-      it decides which artefact is authoritative. A third question sits underneath: whether
-      --verify should compare frame content as well as body, since a round-trip check that
-      passes over a sixty-line divergence is not checking the round trip.
+      **APPLIED 2026-09-09.** `--regen` rewrote 8 blocks in insertions.py from the manuscript,
+      7 in ch3 and 1 in ch7, all of them proof-mark reworks the source would have reverted.
+      `--verify` now compares frame text as well as body and would have failed on that
+      divergence from the day it started. **`--strip` refuses a chapter apply() cannot
+      reproduce, which is five of seven** — the guard sits on strip rather than apply because
+      strip is what discards the authoritative copy; apply already refuses a chapter that still
+      has its frames. **Idempotent --apply was attempted and abandoned:** the manuscript and
+      apply() disagree about whitespace around a block, and reconciling that means rewriting the
+      strip/apply contract under seven live chapters to buy a mode whose job finished in June.
+      **Two stale anchors are known and left**, ch4's "The Skeptic, Up Close" and ch8's "The
+      Damaged Self, Up Close", each now a paragraph above its block; contained by the refusal
+      and recorded rather than patched, because the fix could not be proved by any check here.
     carriers:
-      - {file: marginalia/insertions.py, phrase: "I look for two qualities and will not take one without the other"}
+      - {file: marginalia/insertions.py, phrase: "I look for two qualities, together or not at all"}
+      - {file: marginalia/insertions.py, phrase: "We put in once at Oreve, a poor port."}
+      - {file: marginalia/insertions.py, phrase: "leaving out whoever was wrong is how a case stops being a case"}
+      - {file: marginalia/compile.py, phrase: "%d FRAME BLOCK(S) STALE"}
+      - {file: marginalia/compile.py, phrase: "--strip is the destructive step"}
+      - {file: marginalia/compile.py, phrase: "def fixed_point(ch):"}
 
   - id: DL-90
     fact: >
