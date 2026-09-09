@@ -44,6 +44,9 @@
 > **6. A word from the Head.** The designs hold. I ask first now, which I did not for nineteen
 > years. In practice I remain slower at asking than at designing, and the asking takes an
 > afternoon.
+>
+> Irix Vale, Patternwright,
+> Head of the School of the Pattern
 <!-- /HANDBOOK -->
 
 <!-- MARGINALIA -->
@@ -74,8 +77,8 @@ The shift arrived gradually, the way a village running on good intentions starts
 The Architect didn't mean it that way. The Architect never meant it that way. The Architect was also not not saying it. The Architect pointed at a broken system and said *this is why it breaks.* The people inside the broken system heard: *and you're the ones who broke it.*
 
 <!-- MARGINALIA -->
-> *"Also not not saying it" is the most honest line in this treatise, and Irix wrote it about
-> themselves without appearing to notice.*
+> *"Also not not saying it" is the most honest line about Irix on the page, and I do not think
+> they have noticed.*
 >
 > *Every good structural read contains a small true accusation. Not a large one and not an unfair
 > one — a small one, correctly aimed. The Architects who last are the ones who stopped pretending
@@ -213,11 +216,6 @@ The Architect's pair: the structure that produces the outcome versus the agency 
 You can picture the failure at each end. Structure without Agency builds a machine that treats people as inputs, gets the throughput it designed for, and cannot understand why nobody inside it will meet its eye. It also produces the most comfortable sentence in the discipline (*the system did it*), which is usually true. Agency without Structure blames individuals for outcomes the design guarantees, burns through good people looking for better ones, and watches the same failure arrive every eighteen months with a new name attached.
 
 The pair gets specific for the student the School of the Pattern attracts. The suspicion runs one direction. Agency language has warnings attached to it at this altitude, and rightly: *personal responsibility* has done a great deal of work for people who wanted nothing to change. Structure language has none. It arrives sounding like analysis, like sophistication, like the opposite of blame. So the drift runs toward a structural account of every situation you were personally in, the one account that never requires you to have been there as a person. In practice it is cruelty, specified as rigor.
-
-<!-- SIGNATURE -->
-> the fourth treatise, submitted by Irix Vale, Patternwright,
-> Head of the School of the Pattern
-<!-- /SIGNATURE -->
 
 
 *For the full process and additional pairs, see Appendix F: The Polarity Map.*
@@ -554,7 +552,7 @@ In practice: design as if the person taking over knows less than you do about wh
 > *Ship the Minimum is the move Irix is worst at and teaches best, which happens more often than you
 > would expect.*
 >
-> *Their first draft of this treatise arrived on time and was then withdrawn, because there was a
+> *Their first draft of this page arrived on time and was then withdrawn, because there was a
 > diagram they wanted to redo. I kept the withdrawn one. It is better than the replacement and I
 > have not told them.*
 <!-- /MARGINALIA -->

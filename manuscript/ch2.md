@@ -574,9 +574,7 @@ From here you have two routes:
 1. **Straight through (recommended):** continue to Chapter 3 and build the sequence in order. The Shaman trains emotional signal-reading and regulation, the base layer the other faces depend on, and the reason to start there.
 2. **Guide-first:** jump to the chapter of the guide question that hit you hardest, then come back to fill the sequence.
 
-Turn the page and a letter is waiting, from the Headmaster. After it, six chapters, each opening with a treatise by the person who runs one of the six schools: their method, in their voice, carrying their bias and their quarrel with the other five. It runs as ordinary text until you reach a signature at the close of its third section. That is where a submitted document signs itself. Everything past that signature is me.
-
-The boxed inserts belong to the school as well: an admissions page saying who they take and what it costs, students and citizens on the record about what the teaching did to them. The margin is a hand that never signs.
+Turn the page for a letter from the Headmaster of a fictional school. After it, every chapter opens with one school's admissions page: who they take, what it costs, what you can do when you leave.
 
 Read those pages the way you would read a teacher you have not made up your mind about. Six people each solved one part of this and cannot agree on the rest. You are getting the argument, not the summary.
 

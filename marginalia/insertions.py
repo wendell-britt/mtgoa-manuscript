@@ -246,8 +246,8 @@ let it go, because the four systems kept working and I had a term to run.*"""),
 ]
 
 NOTES[6] = [
-("The Architect was also not not saying it", """*"Also not not saying it" is the most honest line in this treatise, and Irix wrote it about
-themselves without appearing to notice.*
+("The Architect was also not not saying it", """*"Also not not saying it" is the most honest line about Irix on the page, and I do not think
+they have noticed.*
 
 *Every good structural read contains a small true accusation. Not a large one and not an unfair
 one — a small one, correctly aimed. The Architects who last are the ones who stopped pretending
@@ -275,13 +275,13 @@ out, and I would rather not examine why either of those is true.*"""),
 ("### Move 4: Ship the Minimum", """*Ship the Minimum is the move Irix is worst at and teaches best, which happens more often than you
 would expect.*
 
-*Their first draft of this treatise arrived on time and was then withdrawn, because there was a
+*Their first draft of this page arrived on time and was then withdrawn, because there was a
 diagram they wanted to redo. I kept the withdrawn one. It is better than the replacement and I
 have not told them.*"""),
 ]
 
 NOTES[7] = [
-("You cannot decline something you were never told about", """*This is the sentence in the treatise I have quoted most and understood last.*
+("You cannot decline something you were never told about", """*This is the sentence I have quoted most and understood last.*
 
 *For years I read it as being about other people failing to tell me their terms. Every set of terms I
 have not stated was a set of terms I had already decided somebody would find unreasonable — which
@@ -434,25 +434,11 @@ record and it is already in my head, which she will find annoying.*
 
 *— T.*"""
 
-SIGNATURE = {
-    # Moved out of FRONT 2026-07-30. A submitted document is signed at the end of
-    # itself, so these close Section 3 rather than opening the chapter. Wendell
-    # ruled no date and no place: the signature stays a name and a title.
-    # ch2 keeps its "set down by Bram Tull" line at the top -- Tull heads no school
-    # and ch2 is not a treatise. ch9 never had a signature line.
-    3: """the first treatise, submitted by Maera Voss, Keeper of First Signals,
-Head of the School of the Body""",
-    4: """the second treatise, submitted by Corin Ash, Master of the Clean No,
-Head of the School of the Line""",
-    5: """the third treatise, submitted by Sera Quill, Keeper of Continuance,
-Head of the School of the Oath""",
-    6: """the fourth treatise, submitted by Irix Vale, Patternwright,
-Head of the School of the Pattern""",
-    7: """the fifth treatise, submitted by Elian Cross, Keeper of the Walk-Away Terms,
-Head of the School of the Bridge""",
-    8: """the sixth treatise, submitted by Thalen Orr, Keeper of the Far Game,
-Head of the School of the Horizon""",
-}
+# SIGNATURE emptied 2026-09-09, DL-85. The six sign-offs moved INSIDE the admissions
+# box in HANDBOOK above, because that is the document the Head actually wrote. They
+# used to sit in their own frame at the seam and attribute 2,800 words of the author's
+# prose. The name is kept so compile.py's import and its branch stay valid.
+SIGNATURE = {}
 
 
 HANDBOOK = {
@@ -496,7 +482,10 @@ it. I have been wrong about who was past it.
 
 **6. A word from the Head.** The reading is not my difficulty any more. What I work on now
 is what it costs a person to be read accurately by somebody they did not ask. I have not
-solved it. I teach here anyway.""",
+solved it. I teach here anyway.
+
+Maera Voss, Keeper of First Signals,
+Head of the School of the Body""",
     4: """**THE SCHOOL OF THE LINE**
 *Admissions. Filed as required.*
 
@@ -525,7 +514,10 @@ first-years every season and we will still be here.
 
 **6. A word from the Head.** The lines land now. What I am working is the four seconds after
 a line drawn on somebody else's behalf, when they go on living in the place where I said it
-and I do not.""",
+and I do not.
+
+Corin Ash, Master of the Clean No,
+Head of the School of the Line""",
     5: """**THE SCHOOL OF THE OATH**
 *Admissions. Filed as required, under clause one.*
 
@@ -558,7 +550,10 @@ able to refuse before one can be trusted to keep.
 **A note from the Head, appended outside the clauses.** I can pass an inheritance intact and
 named, which is the whole of what is claimed above. I have not learned to hand one to
 somebody who will change it without entering the change as damage. My own ledgers are the
-reason that is hard.""",
+reason that is hard.
+
+Sera Quill, Keeper of Continuance,
+Head of the School of the Oath""",
     6: """**THE SCHOOL OF THE PATTERN**
 *Admissions. Specification 0.1.*
 
@@ -587,7 +582,10 @@ something may be changed, and the order is not stylistic.
 
 **6. A word from the Head.** The designs hold. I ask first now, which I did not for nineteen
 years. In practice I remain slower at asking than at designing, and the asking takes an
-afternoon.""",
+afternoon.
+
+Irix Vale, Patternwright,
+Head of the School of the Pattern""",
     7: """**THE SCHOOL OF THE BRIDGE**
 *Admissions. Filed as required.*
 
@@ -618,7 +616,10 @@ person about a machine.
 
 **6. A word from the Head.** The terms hold. Whether wanting the sentence is a defect in me
 or a condition of the work is the open question here, and I am the wrong person to settle
-it.""",
+it.
+
+Elian Cross, Keeper of the Walk-Away Terms,
+Head of the School of the Bridge""",
     8: """**THE SCHOOL OF THE HORIZON**
 *Admissions. Filed as required, and late.*
 
@@ -650,5 +651,8 @@ year.
 
 **6. A word from the Head.** I have read all five schools for thirty years and nobody has
 read me, which I arranged, and which I am now told is a course I never took. I am the oldest
-first-year here. That is a joke and it is also the timetable.""",
+first-year here. That is a joke and it is also the timetable.
+
+Thalen Orr, Keeper of the Far Game,
+Head of the School of the Horizon""",
 }

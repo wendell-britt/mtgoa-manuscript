@@ -44,6 +44,9 @@
 > **6. A word from the Head.** The lines land now. What I am working is the four seconds after
 > a line drawn on somebody else's behalf, when they go on living in the place where I said it
 > and I do not.
+>
+> Corin Ash, Master of the Clean No,
+> Head of the School of the Line
 <!-- /HANDBOOK -->
 
 <!-- MARGINALIA -->
@@ -203,11 +206,6 @@ The Challenger's pair: the force it takes to move something versus the restraint
 Both poles have a failure state, and the failure states do not mirror each other. Force without restraint is a hazard: every charge becomes a line, every line becomes a confrontation, and the people around you begin managing you instead of working with you. Restraint without force is furniture: present at every table, costing no one anything, changing nothing that would have happened anyway.
 
 Here is what is specific to this reader. The suspicion runs one direction. Force has warnings attached to it at this altitude and Restraint has a vocabulary: discernment, deference, not centering yourself, waiting to be invited. Every word in that vocabulary names something real. They also make one end of the axis sound like a virtue and the other end sound like a risk, which means the drift never has to announce itself. Nobody sits down at Restraint in a single decision. It accumulates one defensible call at a time.
-
-<!-- SIGNATURE -->
-> the second treatise, submitted by Corin Ash, Master of the Clean No,
-> Head of the School of the Line
-<!-- /SIGNATURE -->
 
 
 *Back to the chapter.*

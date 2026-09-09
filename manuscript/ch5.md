@@ -48,6 +48,9 @@
 > named, which is the whole of what is claimed above. I have not learned to hand one to
 > somebody who will change it without entering the change as damage. My own ledgers are the
 > reason that is hard.
+>
+> Sera Quill, Keeper of Continuance,
+> Head of the School of the Oath
 <!-- /HANDBOOK -->
 
 <!-- MARGINALIA -->
@@ -266,11 +269,6 @@ Honor what was passed means keeping the form, protecting what works, staying loy
 Reform what no longer serves means updating the form when the essence requires it. Naming what broke without dismantling what still holds. Changing what loyalty actually demands, not just what loyalty has always looked like.
 
 You know this tension from the inside. The practices you inherited from the work (the frameworks, the vocabulary, the rituals someone before you built with real stakes): some of them are still load-bearing. Some of them became something else: a form that performs the commitment without keeping it. You know which ones. You've stood in circles where the acknowledgment was said and the land was not returned. You've used vocabulary that used to mean something and now signals membership more than it moves anything. You keep the forms because dropping them would feel like a betrayal of someone whose effort you still respect. That is the Regent's pair in active tension. It is named here because from the inside the tension reads as weakness, and keepers before you have filed it under that name.
-
-<!-- SIGNATURE -->
-> the third treatise, submitted by Sera Quill, Keeper of Continuance,
-> Head of the School of the Oath
-<!-- /SIGNATURE -->
 
 
 *Back to the chapter.*

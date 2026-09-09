@@ -46,6 +46,9 @@
 > **6. A word from the Head.** The reading is not my difficulty any more. What I work on now
 > is what it costs a person to be read accurately by somebody they did not ask. I have not
 > solved it. I teach here anyway.
+>
+> Maera Voss, Keeper of First Signals,
+> Head of the School of the Body
 <!-- /HANDBOOK -->
 
 <!-- MARGINALIA -->
@@ -238,11 +241,6 @@ What is specific to this reader is shaped like a squeeze rather than a lean. Thi
 That squeeze leaves one position standing, the one costing nothing: feeling out loud, together, at length, about a situation, and changing none of it. Everyone leaves moved. The fields keep failing.
 
 I recover both ends before I am done, and I will ask you to hold them at the same time.
-
-<!-- SIGNATURE -->
-> the first treatise, submitted by Maera Voss, Keeper of First Signals,
-> Head of the School of the Body
-<!-- /SIGNATURE -->
 
 
 ---

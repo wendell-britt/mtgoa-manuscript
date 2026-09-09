@@ -47,6 +47,9 @@
 > **6. A word from the Head.** I have read all five schools for thirty years and nobody has
 > read me, which I arranged, and which I am now told is a course I never took. I am the oldest
 > first-year here. That is a joke and it is also the timetable.
+>
+> Thalen Orr, Keeper of the Far Game,
+> Head of the School of the Horizon
 <!-- /HANDBOOK -->
 
 ---
@@ -282,11 +285,6 @@ Real Sage sight carries the orientation of someone who walked all the way in and
 Perspective-as-avoidance runs the opposite way, and it has a tell you can catch: you're looking at the people the way a tourist looks at a museum. Everything's interesting; nothing is yours. You can describe what happens with perfect accuracy and still stand outside it, and the clearer the view gets, the further away you've drifted.
 
 So before you trust the view, check what gives it away. Are you in it, or watching from the doorway? With the people, or above them? That's the whole difference: a question about where you're standing, not a sensation you have to manufacture.
-
-<!-- SIGNATURE -->
-> the sixth treatise, submitted by Thalen Orr, Keeper of the Far Game,
-> Head of the School of the Horizon
-<!-- /SIGNATURE -->
 
 
 ---

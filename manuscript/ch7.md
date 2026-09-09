@@ -46,6 +46,9 @@
 > **6. A word from the Head.** The terms hold. Whether wanting the sentence is a defect in me
 > or a condition of the work is the open question here, and I am the wrong person to settle
 > it.
+>
+> Elian Cross, Keeper of the Walk-Away Terms,
+> Head of the School of the Bridge
 <!-- /HANDBOOK -->
 
 <!-- MARGINALIA -->
@@ -156,7 +159,7 @@ Honest terms work as the opposite instrument. **A term is a statement of what th
 The difference is not tone. The Diplomat's altitude gets it wrong here most often, because this altitude excels at tone. An ultimatum said warmly is still an ultimatum. An honest term said flatly is still an honest term. The difference is structural: an ultimatum removes the other party's freedom to answer, and an honest term gives the answer back to them. That answer is only free when refusal will not cost them safety, livelihood, or standing. A clean sentence cannot make an unequal negotiation equal. You cannot decline something you were never told about. People who do not know what your staying requires have never had the chance to choose it.
 
 <!-- MARGINALIA -->
-> *This is the sentence in the treatise I have quoted most and understood last.*
+> *This is the sentence I have quoted most and understood last.*
 >
 > *For years I read it as being about other people failing to tell me their terms. Every set of terms I
 > have not stated was a set of terms I had already decided somebody would find unreasonable — which
@@ -201,11 +204,6 @@ The Diplomat's pair: care for the relationship versus impact on the situation.
 Both poles have a failure state, and the failure states do not look alike. Care without impact is attendance: warm, dependable, and doing nothing. Everyone likes you. Nothing changes. Impact without care is the Challenger's altitude imported into a conversation that needed this one: the true sentence said in a way that ends the possibility of saying the next one.
 
 One part of this belongs specifically to this reader, and it explains why the axis reads as hard to see rather than hard to accept. You are fluent in one pole and suspicious of the other. The Care end has a vocabulary (holding, tending, centering, making space) and the Impact end, at this altitude, mostly has warnings attached to it. So the drift runs one direction and never announces itself. Nobody drifts toward Care in a single dramatic act of avoidance. It happens one reasonable call at a time, and each call is defensible.
-
-<!-- SIGNATURE -->
-> the fifth treatise, submitted by Elian Cross, Keeper of the Walk-Away Terms,
-> Head of the School of the Bridge
-<!-- /SIGNATURE -->
 
 
 *Back to the chapter.*

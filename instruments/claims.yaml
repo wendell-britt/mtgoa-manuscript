@@ -182,55 +182,57 @@ claims:
   # has not been made. That was found by writing this block.
 
   - id: DL-85
-    proposed_fact: >
-      Undetermined, and the previous wording was wrong. The book's fiction is carried by the
-      FRAMED BLOCKS — the epigraph voices, the school's admissions form, and the marginal hand —
-      not by sections 1 to 3 of the running prose. The signature at the close of section 3
-      therefore signs text written in the author's own voice.
+    fact: >
+      There are no treatises in this book. The admissions page is the only document a Head wrote,
+      and each Head signs it inside its own box. Everything outside the boxes is the author's, and
+      the margin annotates this book.
     wrong_because: >
-      **The first census asked where the treatise is framed and never asked whether the running
-      prose is a treatise.** It measured six signatures and six entry points, took the category
-      from specs/SPEC_TWO_HANDS_2026-07-30.md, and did not test the category against the text.
-      Wendell, 2026-09-09: "I think we aren't understanding what the treatise is and you're about
-      to mess up my manuscript... the boxes front matter and the marginalia are doing most of the
-      worldbuilding work. the signatures at the end are coming off weird because the text after
-      the admissions form is really just all in my voice."
-      Measured after that: sections 1-3 of ch3 address the reader as "you" 81 times in 2810
-      words, a rate indistinguishable from the back half's. The prose immediately above every
-      signature is the Polarity Map, the book's own recurring apparatus, in the book's framework
-      vocabulary; ch5's opens "You met the Polarity Map at the School of the Body," which tracks
-      the reader across chapters and is something no Head filing a document about her own school
-      would write.
+      ch2:577 promised "six chapters, each opening with a treatise by the person who runs one of
+      the six schools: their method, in their voice, carrying their bias and their quarrel with
+      the other five." Sections 1-3 are the fable, the concept and the Polarity Map, in the book's
+      own voice, addressing the reader as "you" 81 times in ch3's 2,810 words. **The claim had ten
+      carriers, all ten agreed with each other, and none agreed with the prose** — which is why it
+      read as a voice problem rather than an error. Two of the marginal three went further and
+      named a Head as the author of a sentence in the fable.
     proof_mark: "p.62, the SIGNATURE line under Maera Voss's treatise"
+    applied: "10 of 10"
+    ruled: 2026-09-09
+    ruled_by: >
+      Wendell: "I think we should change the promise... the admissions page IS the treatise. There
+      aren't any treatises anywhere in the book." And on the last open question: "the margin is
+      annotating this book." Panel: specs/PANEL_CHANGE_THE_PROMISE_6FACE_2026-09-09.md.
     scope: >
-      Sections 1-3 and 4-7 of ch3, ch4 and ch5 read in full on 2026-09-09 with every framed block
-      stripped, plus first- and second-person counts on both halves of each. The reading is what
-      settled it; the counts only agreed. Not yet read: ch6, ch7, ch8 on the same test, and the
-      question of what the signature should sign instead.
-    spec: specs/SPEC_WHOSE_VOICE_CH2_CH3_2026-09-09.md
+      Case-insensitive search for `treatise` across the whole declared corpus on 2026-09-09: ten
+      occurrences, one in ch2's running prose, six in SIGNATURE frames, three in MARGINALIA. Front
+      matter, back matter and the appendices carry none. Plus ch2, ch3, ch4, ch5 and ch7 read in
+      full with every box stripped, which is what established that the sections are not treatises.
     note: >
-      **Superseded in scope by the spec above, 2026-09-09.** The defect is not a mis-signed
-      document. The book PROMISES the treatise at ch2:577 in the author's own voice — "six
-      chapters, each opening with a treatise by the person who runs one of the six schools:
-      their method, in their voice, carrying their bias and their quarrel with the other five" —
-      and the promise has three carriers: that sentence, the six signatures, and three marginal
-      references to "this treatise" at ch6:77, ch6:557 and ch7:159. All three agree with each
-      other and none agrees with the prose. Every chapter opens with the fable in the book's
-      narrator voice, and the last thing above every signature is the Polarity Map.
-      **A header was applied to all six chapters on the wrong reading and has been reverted**
-      (commit 63762a9, reverted the same day). It declared THE FIRST TREATISE over the fable
-      opening, which asserts of the text something the text does not do. The front-matter note
-      claiming "each one carries the voice of the Head who runs that school" went with it. What
-      survives is the question Wendell actually raised: the signature is attached to the wrong
-      body of text, and where the Head's voice really lives is in the boxes.
+      **The signature move is not a reversal of the 2026-07-30 ruling.** A submitted document is
+      still signed at the end of itself. What changed is which document: the admissions page,
+      which the Head wrote and which opens "Admissions. Filed as required." The sign-off sits
+      inside that box, where the Headmaster's letter already puts its own.
+      **The margin was ruled to annotate this book**, which retires the question of what in-world
+      document it was written in. It never signs; ch8 is where five Heads and Bram Tull sign notes
+      in the Headmaster's own margin, and that reveal is why the ch3-ch7 notes stay anonymous.
     carriers:
-      - {file: manuscript/ch2.md, phrase: "each opening with a treatise by the person who runs one of the six schools"}
-      - {file: manuscript/ch3.md, phrase: "the first treatise, submitted by Maera Voss"}
-      - {file: manuscript/ch4.md, phrase: "the second treatise, submitted by Corin Ash"}
-      - {file: manuscript/ch5.md, phrase: "the third treatise, submitted by Sera Quill"}
-      - {file: manuscript/ch6.md, phrase: "the fourth treatise, submitted by Irix Vale"}
-      - {file: manuscript/ch7.md, phrase: "the fifth treatise, submitted by Elian Cross"}
-      - {file: manuscript/ch8.md, phrase: "the sixth treatise, submitted by Thalen Orr"}
+      - {file: manuscript/ch2.md, phrase: "every chapter opens with one school's admissions page"}
+      - {file: manuscript/ch3.md, phrase: "Maera Voss, Keeper of First Signals,"}
+      - {file: manuscript/ch4.md, phrase: "Corin Ash, Master of the Clean No,"}
+      - {file: manuscript/ch5.md, phrase: "Sera Quill, Keeper of Continuance,"}
+      - {file: manuscript/ch6.md, phrase: "Irix Vale, Patternwright,"}
+      - {file: manuscript/ch7.md, phrase: "Elian Cross, Keeper of the Walk-Away Terms,"}
+      - {file: manuscript/ch8.md, phrase: "Thalen Orr, Keeper of the Far Game,"}
+    forbidden:
+      - "treatise"
+    also_applied_in: >
+      marginalia/insertions.py, which is the source the compiled chapters are built from: the six
+      sign-offs appended to HANDBOOK, SIGNATURE emptied, and the three marginal notes rewritten.
+      **The first run silently did only half of this.** The loop that appended the sign-offs
+      searched the whole file for `    N: """`, matched the SIGNATURE dict because it sits above
+      HANDBOOK, and the same run then replaced that dict wholesale — so the work was written and
+      discarded in one pass while the script reported success. Fixed by anchoring the search
+      inside HANDBOOK. Five of six handbooks now regenerate byte-identical; ch3 still differs by
+      fourteen lines, which is DL-89 and predates this.
 
   - id: DL-86
     proposed_fact: >
