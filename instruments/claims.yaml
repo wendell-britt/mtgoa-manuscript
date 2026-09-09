@@ -289,8 +289,15 @@ claims:
       - {file: manuscript/ch3.md, phrase: "She was no readier than she had been."}
 
   - id: DL-88
-    proposed_fact: >
-      Undetermined. The mark itself is unconfirmed.
+    fact: >
+      The Oreve marginalia ends on an observation rather than on the annotator's estimate of how
+      much the anecdote mattered to him. The invented particular stays; the hedge does not.
+    applied: "1 of 1"
+    ruled_by: >
+      Wendell, 2026-09-09: "the real defect is the closing hedge 'I have thought about it more
+      than is useful' commenting on the anecdote instead of ending it."
+    superseded_proposed_fact: >
+      Undetermined. The mark itself was unconfirmed.
     wrong_because: >
       The ledger flags this one `[?]`: a low-confidence read of the highlight, so it is not
       certain the line was marked at all. Two readings are available and they point opposite
@@ -306,7 +313,7 @@ claims:
       The ledger's own standing offer applies: "Wendell: correct any misread line and I will fix
       the ledger." This candidate is the ledger asking.
     carriers:
-      - {file: manuscript/ch3.md, phrase: "We were there eleven days."}
+      - {file: manuscript/ch3.md, phrase: "We were there eleven days. I have not seen it anywhere since."}
 
   - id: DL-89
     fact: >

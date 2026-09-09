@@ -101,7 +101,7 @@ It worked. The cost landed somewhere the villagers never thought to look.
 > began. I asked a clerk how long the practice had been in place and she did not understand the
 > question. She thought I was asking when the building went up.*
 >
-> *We were there eleven days. I have thought about it more than is useful.*
+> *We were there eleven days. I have not seen it anywhere since.*
 <!-- /MARGINALIA -->
 
 
