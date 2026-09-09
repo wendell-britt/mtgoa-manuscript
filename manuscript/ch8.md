@@ -756,19 +756,19 @@ When you spend the view, the minute around it decides whether the table can use 
 
 **Direct Action — the game named to the person inside it**
 
-*You're winning when:* you told the person in front of you which game they were in, in the words of that game and to their face rather than to somebody else afterward, and you were still sitting there when they answered. It cost you your standing as the one who notices everything and is easy to be around. The proof is that they could use it that day.
+*You're winning when:* you told the person in front of you which game they were in, in the words of that game and to their face rather than to somebody else afterward, and you were still sitting there when they answered. You noticed out loud, and that made you harder to be around. The proof is that they could use it that day.
 
 **Raise Awareness — the real agenda said at the table**
 
-*You're winning when:* you said what the meeting was actually about, the agenda underneath the agenda, in front of the people running it rather than to the two who already saw it, and it cost you your seat as the one nobody has to account to. The proof is that the meeting spent the rest of the hour on the game it was really in.
+*You're winning when:* you said what the meeting was actually about, the agenda underneath the agenda, in front of the people running it rather than to the two who already saw it. The seat where nobody had to account to you is gone. The proof is that the meeting spent the rest of the hour on the game it was really in.
 
 **Gather Resources — the specific help asked for, not the map**
 
-*You're winning when:* you named what this particular game takes (the hour, the person, the money, the cover) and asked somebody who could grant it or refuse it, instead of the account of the situation you are better at giving. It cost you the position of the one who understands the problem best and carries none of it. The proof is that the help arrived in a form somebody could use that week.
+*You're winning when:* you named what this particular game takes (the hour, the person, the money, the cover) and asked somebody who could grant it or refuse it, instead of the account of the situation you are better at giving. You stopped describing the problem best and paying for none of it. The proof is that the help arrived in a form somebody could use that week.
 
 **Skillful Organizing — the game a group is stuck in, named**
 
-*You're winning when:* you told a group which game it had been playing for a month, while it was still playing it, in the group's own words and without a diagram, and it cost you being read as one of them for a while afterward. The proof is that the group argued about the real game next, which is worse to sit in and is the only argument that finishes.
+*You're winning when:* you told a group which game it had been playing for a month, while it was still playing it, in the group's own words and without a diagram. They stopped counting you as one of them for a while afterward. The proof is that the group argued about the real game next, which is worse to sit in and is the only argument that finishes.
 
 ### The Tell
 

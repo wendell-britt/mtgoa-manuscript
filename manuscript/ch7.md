@@ -799,19 +799,19 @@ When you close, the sentence and the weeks after it decide whether the terms hol
 
 **Direct Action — the terms said to the person they bind**
 
-*You're winning when:* you said what this field must hold for your staying to remain real, to the person who can change it, in the conversation rather than in the better version you run afterward with somebody else, and it cost you your standing as the one who never asks for anything. The proof is that they got to answer, and whatever they answered is now a fact in the open rather than an entry in your column.
+*You're winning when:* you said what this field must hold for your staying to remain real, to the person who can change it, in the conversation rather than in the better version you run afterward with somebody else. That was the end of never asking. The proof is that they got to answer, and whatever they answered is now a fact in the open rather than an entry in your column.
 
 **Raise Awareness — the cost named where it gets set**
 
-*You're winning when:* you said what the arrangement costs, with the entries and not a general note about capacity, at the table where it gets decided rather than in the corridor afterward where it gets sympathized with, and it cost you your position as the person the arrangement works for. The proof is that the cost is now an item somebody has to price.
+*You're winning when:* you said what the arrangement costs, with the entries and not a general note about capacity, at the table where it gets decided rather than in the corridor afterward where it gets sympathized with. The arrangement stopped looking like it worked for you. The proof is that the cost is now an item somebody has to price.
 
 **Gather Resources — what your staying needs, asked in time**
 
-*You're winning when:* you asked for what would make staying possible (the second pair of hands, the money, the meeting moved off the day you cannot do it) from the person who can grant it or refuse it, instead of absorbing the gap for another season and recording it, and it cost you your reputation as the one who makes it work with whatever is there. The proof is that the field got to decide whether to pay for something it had been getting free.
+*You're winning when:* you asked for what would make staying possible (the second pair of hands, the money, the meeting moved off the day you cannot do it) from the person who can grant it or refuse it, instead of absorbing the gap for another season and recording it. You lost your reputation for making it work with whatever is there. The proof is that the field got to decide whether to pay for something it had been getting free.
 
 **Skillful Organizing — the agreement the group never made**
 
-*You're winning when:* you closed the group on what it has to hold, who does what, and what happens when somebody does not, rather than booking the fourth conversation of its kind, and it cost you being the one everybody agreed was still listening. The proof is that the group now has terms somebody can hold it to, and the people who carried it unnamed are in them by name.
+*You're winning when:* you closed the group on what it has to hold, who does what, and what happens when somebody does not, rather than booking the fourth conversation of its kind. You gave up the credit for still listening. The proof is that the group now has terms somebody can hold it to, and the people who carried it unnamed are in them by name.
 
 ### The Tell
 

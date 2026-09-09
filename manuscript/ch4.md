@@ -715,19 +715,19 @@ When you draw a line, the seconds on either side of it decide whether it stands,
 
 **Direct Action — the limit said to the person crossing it**
 
-*You're winning when:* you said the limit to the person who was crossing it, in the moment and not afterward to somebody else, in one sentence with nothing attached to the end of it, and it cost you their read of you as easy to work with. The proof is that the limit now exists between you, out loud, and they have to decide what to do about it.
+*You're winning when:* you said the limit to the person who was crossing it, in the moment and not afterward to somebody else, in one sentence with nothing attached to the end of it. You stopped being easy to work with. The proof is that the limit now exists between you, out loud, and they have to decide what to do about it.
 
 **Raise Awareness — the line named where naming it costs you**
 
-*You're winning when:* you said what was actually happening in front of the people who would rather it stayed unnamed, including the person it implicates, rather than to the people who already agreed with you. It cost you the safety of the accurate private complaint. The proof is that it sits on the record, in the place where it can change something.
+*You're winning when:* you said what was actually happening in front of the people who would rather it stayed unnamed, including the person it implicates, rather than to the people who already agreed with you. The accurate private complaint is not available to you anymore. The proof is that it sits on the record, in the place where it can change something.
 
 **Gather Resources — the no said in your own name**
 
-*You're winning when:* you refused a demand on time, money, or attention that somebody with less standing could not have refused, and you refused it in your own name rather than on their behalf without asking. It cost you your reputation as the person who absorbs. The proof is that the capacity stayed with the person who needed it.
+*You're winning when:* you refused a demand on time, money, or attention that somebody with less standing could not have refused, and you refused it in your own name rather than on their behalf without asking. You refused in your own name, and the reputation for absorbing went with it. The proof is that the capacity stayed with the person who needed it.
 
 **Skillful Organizing — the boundary the group won't draw**
 
-*You're winning when:* you drew the line the coalition has been negotiating around for months, the one everybody can feel and nobody will name, so that the work had an edge to move against. It cost you the position of the reasonable one. The proof is that the group now has a limit to organize inside instead of a fog to keep meeting about.
+*You're winning when:* you drew the line the coalition has been negotiating around for months, the one everybody can feel and nobody will name, so that the work had an edge to move against. Nobody will call you reasonable about this now. The proof is that the group now has a limit to organize inside instead of a fog to keep meeting about.
 
 ### The Tell
 

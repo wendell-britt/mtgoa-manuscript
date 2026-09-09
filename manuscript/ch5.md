@@ -668,19 +668,19 @@ You carry an inheritance for years, and the same three moves decide, in every do
 
 **Direct Action — the inheritance claimed to its keepers**
 
-*You're winning when:* you told the people who hold this with you that you are carrying it now, to their faces and not in a message that goes round afterward, before the conditions you had been waiting on were met, and it cost you your standing as somebody still deciding. The proof is that the repairs you make from here happen from inside the commitment, where everybody can see which ones you make.
+*You're winning when:* you told the people who hold this with you that you are carrying it now, to their faces and not in a message that goes round afterward, before the conditions you had been waiting on were met. You cannot go back to still deciding. The proof is that the repairs you make from here happen from inside the commitment, where everybody can see which ones you make.
 
 **Raise Awareness — the reason said while it is still known**
 
-*You're winning when:* you told a group why a practice exists, what it cost the people who built it, and what it has cost since, in front of the ones who inherited the form with none of that attached, and it cost you the ease of letting the form speak for itself. The proof is that the reason sits in more than one head, and the next argument about the practice can be about what it was for.
+*You're winning when:* you told a group why a practice exists, what it cost the people who built it, and what it has cost since, in front of the ones who inherited the form with none of that attached. You gave up letting the form speak for itself. The proof is that the reason sits in more than one head, and the next argument about the practice can be about what it was for.
 
 **Gather Resources — the hours asked for so one body can stop**
 
-*You're winning when:* you asked for the time, the budget line, or the second name on the rota that a practice needs to outlast its keeper, and you asked whoever can say yes to it, instead of covering the gap out of your own evenings another year, and it cost you your standing as the person who never needs anything. The proof is that the practice has a claim on something other than you.
+*You're winning when:* you asked for the time, the budget line, or the second name on the rota that a practice needs to outlast its keeper, and you asked whoever can say yes to it, instead of covering the gap out of your own evenings another year. You needed something out loud, in front of people who had never seen it. The proof is that the practice has a claim on something other than you.
 
 **Skillful Organizing — the practice that runs without you**
 
-*You're winning when:* you handed a practice you had been holding personally to the group, with its reasons, its record, and a name against each job, while you were still around to be asked about it, and it cost you being the reason it worked. The proof is that it ran a full cycle without you and stayed the practice it was, instead of drifting into whatever people could remember of it.
+*You're winning when:* you handed a practice you had been holding personally to the group, with its reasons, its record, and a name against each job, while you were still around to be asked about it. You stopped being the reason it works. The proof is that it ran a full cycle without you and stayed the practice it was, instead of drifting into whatever people could remember of it.
 
 ### The Tell
 

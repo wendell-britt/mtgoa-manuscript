@@ -502,3 +502,59 @@ claims:
       - {file: manuscript/ch4.md, phrase: "Fire. The one underneath runs:"}
       - {file: manuscript/ch7.md, phrase: "leaving out whoever was wrong is how a case stops being a case"}
       - {file: manuscript/ch8.md, phrase: "when the game you want costs more than you have"}
+
+  - id: DL-94
+    fact: >
+      The handbooks do not price a move with "It cost you X". Each of the 24 "You're winning
+      when" entries names its price as its own sentence, with the reader as subject, a real verb
+      and a plain object, and no two constructions repeat inside a chapter.
+    applied: "24 of 24"
+    ruled_by: >
+      Wendell, 2026-09-09, twice. First on the clause: "it cost is the problem here. Pronoun
+      collapsing against a weak word pointing at something almost tangible." Then on my proposed
+      uniform repair: "you gave up is just replacing one tired phrase with another. We need to
+      vary the way we say things. I do think the grammar is now correct but we need variation."
+      And on the joins: "modify the dangling ands."
+    wrong_because: >
+      Three defects in four words. **"It"** reaches back to a whole clause rather than a noun.
+      **"cost"** is a weak verb doing metaphorical accounting. **The object** is a half-
+      abstraction — "the position of the reasonable one", "your standing as", "their read of you
+      as" — and the three go soft together. **The book proved it itself:** of 24 cost lines, 23
+      name a status you stop having and exactly one names a countable thing (ch6:619, "a
+      fortnight of arguing"), and that one reads clean on the same pronoun and the same verb.
+      **The uniformity was a second defect wearing the first one's clothes**, which is why the
+      first repair was refused.
+    proof_mark: "none — ruled on the clause, after three rounds on the object"
+    scope: >
+      All 24 "You're winning when" entries in manuscript/ch3.md through ch8.md, found by pattern
+      and each read with its move clause on 2026-09-09. Three further matches of "it cost you"
+      are ordinary prose, not handbook prices (ch4:544 and ch7:584 in quoted dialogue, ch5:491 in
+      a BAR instruction) and are deliberately untouched. **Twelve of the 24 were embedded as
+      ", and it cost you…" hanging off a sixty-word move clause and all twelve become their own
+      sentence.** "The proof is that" stays uniform in all 24 as the entry's anchor.
+    forbidden: [", and it cost you"]
+    carriers:
+      - {file: manuscript/ch3.md, phrase: "You gave up the safety of never breaking the surface."}
+      - {file: manuscript/ch3.md, phrase: "You came out from behind the right words."}
+      - {file: manuscript/ch3.md, phrase: "You are now exposed on a need you might be wrong about."}
+      - {file: manuscript/ch3.md, phrase: "You broke the polite surface and it does not go back."}
+      - {file: manuscript/ch4.md, phrase: "You stopped being easy to work with."}
+      - {file: manuscript/ch4.md, phrase: "The accurate private complaint is not available to you anymore."}
+      - {file: manuscript/ch4.md, phrase: "the reputation for absorbing went with it."}
+      - {file: manuscript/ch4.md, phrase: "Nobody will call you reasonable about this now."}
+      - {file: manuscript/ch5.md, phrase: "You cannot go back to still deciding."}
+      - {file: manuscript/ch5.md, phrase: "You gave up letting the form speak for itself."}
+      - {file: manuscript/ch5.md, phrase: "in front of people who had never seen it."}
+      - {file: manuscript/ch5.md, phrase: "You stopped being the reason it works."}
+      - {file: manuscript/ch6.md, phrase: "the credit for the quick fix went with it."}
+      - {file: manuscript/ch6.md, phrase: "They stopped filing you as reasonable."}
+      - {file: manuscript/ch6.md, phrase: "Your standing had been running on that goodwill too"}
+      - {file: manuscript/ch6.md, phrase: "Nobody has to come to you for it now."}
+      - {file: manuscript/ch7.md, phrase: "That was the end of never asking."}
+      - {file: manuscript/ch7.md, phrase: "The arrangement stopped looking like it worked for you."}
+      - {file: manuscript/ch7.md, phrase: "You lost your reputation for making it work with whatever is there."}
+      - {file: manuscript/ch7.md, phrase: "You gave up the credit for still listening."}
+      - {file: manuscript/ch8.md, phrase: "You noticed out loud, and that made you harder to be around."}
+      - {file: manuscript/ch8.md, phrase: "The seat where nobody had to account to you is gone."}
+      - {file: manuscript/ch8.md, phrase: "You stopped describing the problem best and paying for none of it."}
+      - {file: manuscript/ch8.md, phrase: "They stopped counting you as one of them for a while afterward."}

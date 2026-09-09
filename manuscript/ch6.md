@@ -616,19 +616,19 @@ Three points decide whether what you build survives contact with the people insi
 
 **Direct Action — the condition changed, not the incident**
 
-*You're winning when:* you went at the condition producing the harm rather than the harm in front of you, changed the design while the person carrying it was still there to say whether the change worked, and it cost you a fortnight of arguing with people who like the arrangement and the credit for the quick fix you could have shipped instead. The proof is that the same incident stopped arriving.
+*You're winning when:* you went at the condition producing the harm rather than the harm in front of you, changed the design while the person carrying it was still there to say whether the change worked. You spent a fortnight arguing with people who like the arrangement, and the credit for the quick fix went with it. The proof is that the same incident stopped arriving.
 
 **Raise Awareness — the load-bearing assumption said out loud**
 
-*You're winning when:* you named the assumption everybody is building on, flatly, as an observation and not as a question with an exit built in, in front of the people standing on it and whoever wrote it down, rather than to the two colleagues who agree with you already. It cost you their read of you as the reasonable one. The proof is that the assumption now sits on the table where somebody has to defend it out loud, true or not.
+*You're winning when:* you named the assumption everybody is building on, flatly, as an observation and not as a question with an exit built in, in front of the people standing on it and whoever wrote it down, rather than to the two colleagues who agree with you already. They stopped filing you as reasonable. The proof is that the assumption now sits on the table where somebody has to defend it out loud, true or not.
 
 **Gather Resources — the cost moved into the budget**
 
-*You're winning when:* you took what the system had been drawing out of one person without ever asking, her translating, his shift swaps, your evenings, and put it into the design where it has a name, a line, and somebody who pays, and asked the person who can grant or refuse instead of absorbing it another year. It cost you the standing you had while the system ran on one person's goodwill. The proof is that the work still happens in a week when that person is away.
+*You're winning when:* you took what the system had been drawing out of one person without ever asking, her translating, his shift swaps, your evenings, and put it into the design where it has a name, a line, and somebody who pays, and asked the person who can grant or refuse instead of absorbing it another year. Your standing had been running on that goodwill too, and it stopped. The proof is that the work still happens in a week when that person is away.
 
 **Skillful Organizing — the machinery handed to next hands**
 
-*You're winning when:* you changed how the group actually works, the format, the rota, the job nobody has been given, and handed it on with the reasoning attached and not only the instructions, so the next person can redesign it when the conditions move. It cost you being the one everybody depends on. The proof is that the format ran through a month you were not in, and came out altered by somebody who is not you.
+*You're winning when:* you changed how the group actually works, the format, the rota, the job nobody has been given, and handed it on with the reasoning attached and not only the instructions, so the next person can redesign it when the conditions move. Nobody has to come to you for it now. The proof is that the format ran through a month you were not in, and came out altered by somebody who is not you.
 
 ### The Tell
 

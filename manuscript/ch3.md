@@ -833,19 +833,19 @@ When you say it, what you do next decides whether it helps the person or wounds 
 
 **Direct Action — the read said to the person it is about**
 
-*You're winning when:* you said what you had been feeling, the unsaid charge and not the softened hint, to the face it concerns, in the live moment and not in a message you draft and never send. It cost you the safety of being the one who never breaks the surface. The proof is that it existed between you, said and left said. What they do with it is information for your next move, not your grade.
+*You're winning when:* you said what you had been feeling, the unsaid charge and not the softened hint, to the face it concerns, in the live moment and not in a message you draft and never send. You gave up the safety of never breaking the surface. The proof is that it existed between you, said and left said. What they do with it is information for your next move, not your grade.
 
 **Raise Awareness — the true read instead of the correct one**
 
-*You're winning when:* you said what was actually happening, the read under the approved language, to the real people who needed to hear it, including the one it implicates, instead of the correct-sounding version that keeps you safe. It cost you the cover of the right words. The proof is that the group met what was true and not the performance of it.
+*You're winning when:* you said what was actually happening, the read under the approved language, to the real people who needed to hear it, including the one it implicates, instead of the correct-sounding version that keeps you safe. You came out from behind the right words. The proof is that the group met what was true and not the performance of it.
 
 **Gather Resources — the real need named**
 
-*You're winning when:* you sensed and named what a situation actually needs, the real ask rather than the palatable one you were already sure would be granted. You asked the person who can grant it or refuse it. It cost you the exposure of naming a need you might be wrong about. The proof is that the true need got asked out loud, not managed down to something comfortable.
+*You're winning when:* you sensed and named what a situation actually needs, the real ask rather than the palatable one you were already sure would be granted. You asked the person who can grant it or refuse it. You are now exposed on a need you might be wrong about. The proof is that the true need got asked out loud, not managed down to something comfortable.
 
 **Skillful Organizing — the read the group won't say**
 
-*You're winning when:* you named what the whole coalition feels and no one will touch (the resentment, the power nobody names, the silence everyone is keeping) to the group, so the work could move. It cost you the comfort of the polite surface. The proof is that it got onto the table and the group could work with it instead of around it.
+*You're winning when:* you named what the whole coalition feels and no one will touch (the resentment, the power nobody names, the silence everyone is keeping) to the group, so the work could move. You broke the polite surface and it does not go back. The proof is that it got onto the table and the group could work with it instead of around it.
 
 ### After this, everything stands on it
 
