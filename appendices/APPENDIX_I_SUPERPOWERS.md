@@ -10,7 +10,7 @@ Two notes come before the list. Emotional alchemy stays off it on purpose. Every
 
 **Storyteller** (the Regent, Chapter 5). What you received, put into a form the next person can receive: where it came from, what it cost, what broke, what still holds, and why any of it deserves their time. How something survives its carrier.
 
-**Strategist** (the Architect, Chapter 6). Knowing where a small push moves the most, and when to make it. The Strategist reads the board before anyone can prove the read, the one part of the Architect's practice that no data can recover.
+**Strategist** (the Architect, Chapter 6). Knowing where a small push moves the most, and when to make it. The Strategist reads the board before anyone can prove the reading, the one part of the Architect's practice that no data can recover.
 
 **Connector** (the Diplomat, Chapter 7). Connection that has survived being told the truth. Contact happens in the first hour. What remains after the close is the part that was ever yours.
 

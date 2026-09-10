@@ -600,11 +600,11 @@ The one described above turns difference into defect in general. Yours has a spe
 
 You drew the Which Game ↔ Which Altitude axis earlier in this chapter. The Damaged Self slips past it more reliably than anything else in the Forest, and the mechanism repays a close look.
 
-The Damaged Self does not argue about the game. It argues about the instrument, and an argument about the instrument looks like the most rigorous move available. *Before I read this situation, I should account for how my own wiring distorts the read.* That sentence is correct. It also serves as the entry point, because nothing ends it naturally. You can check every read one more time against the possibility that you're the problem, and the checking feels like exactly the discipline you have been building.
+The Damaged Self does not argue about the game. It argues about the instrument, and an argument about the instrument looks like the most rigorous move available. *Before I read this situation, I should account for how my own wiring distorts the reading.* That sentence is correct. It also serves as the entry point, because nothing ends it naturally. You can check every reading one more time against the possibility that you're the problem, and the checking feels like exactly the discipline you have been building.
 
 The collapse runs like this. A real altitude read asks what a person can currently hold, and it applies to you as much as to anyone. The Damaged Self takes that legitimate self-read and converts it into a standing verdict: not *I can hold this much right now* but *I am the wrong size for this permanently.* Then it uses the verdict to answer game questions. Which game is this? Doesn't matter, I'm not calibrated for it. Should I name the line? Not from a broken instrument. The vertical question has eaten the horizontal one, and the eating happened in the name of accuracy.
 
-The tell is never the content of the self-assessment. Self-assessments should feel uncomfortable. The tell is whether anything downstream of one ever gets done. A self-read that has ended four consecutive situations with a decision to work on yourself first has stopped being a read and started being a jurisdiction. Look at the sequence, not the verdict, that is where the pattern shows.
+The tell is never the content of the self-assessment. Self-assessments should feel uncomfortable. The tell is whether anything downstream of one ever gets done. A self-read that has ended four consecutive situations with a decision to work on yourself first has stopped being a reading and started being a jurisdiction. Look at the sequence, not the verdict, that is where the pattern shows.
 
 ---
 
@@ -748,7 +748,7 @@ These four are not a syllabus. Pick where you'll spend the view this week, and p
 
 When you spend the view, the minute around it decides whether the table can use what you saw, and the same three moves decide it in every domain.
 
-**Say it in the game they are playing, not from the whole board.** One read has two vocabularies. *We are running a strategy conversation over a power problem* is accurate, and it comes from a place nobody at the table is standing in, so it arrives as a grade. The in-game sentence has to name a particular: what got crossed, who has been waiting since March, what the plan does not cover. Same read, same size, and the words start where the work is.
+**Say it in the game they are playing, not from the whole board.** One reading has two vocabularies. *We are running a strategy conversation over a power problem* is accurate, and it comes from a place nobody at the table is standing in, so it arrives as a grade. The in-game sentence has to name a particular: what got crossed, who has been waiting since March, what the plan does not cover. Same reading, same size, and the words start where the work is.
 
 **Give what the game costs.** Seeing which game somebody is in tells you what would help, and what would help is usually specific and dull: an hour on Thursday, a name said to somebody with authority, a seat held while they say the worst of it, a no said in front of them. The Damaged Self offers a framework instead, because a framework travels across a table without you having to be anywhere, and asks nothing of your calendar. The test is whether what you gave came out of your week.
 

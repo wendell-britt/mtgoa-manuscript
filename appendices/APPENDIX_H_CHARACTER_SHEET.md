@@ -76,7 +76,7 @@ it in motion. Leave it blank until you do*
 
 ## A worked example
 
-Devon's sheet, at the end of a first read. Yours will not look like this, and it is not
+Devon's sheet, at the end of a first reading. Yours will not look like this, and it is not
 supposed to. It is here so you can see how short a line can be and still be worth writing,
 and how much of it names a specific person or a specific week.
 

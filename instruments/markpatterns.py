@@ -14,10 +14,14 @@ a cell that no script produces is a number I remembered.**
 The seven rows are the patterns at the foot of `specs/PROOF_MARKS_CH2_CH3_2026-09-09.md`, written
 from Wendell's marks on ch2 pp.25-52 and ch3 pp.53-95.
 
-**Ruled scope** (panel, PANEL_MARK_PATTERN_TABLE_OPEN_Q_6FACE): the table rules on ch1-ch9. Front
-matter, back matter and the appendices are **counted and left unruled** -- the marks are evidence
-about the reading voice and the appendices are apparatus. A number asks nothing; a verdict invites
-a decision Wendell has not asked for.
+**Ruled scope: everything that ships.** The panel ruled ch1-ch9 only, on the argument that the
+appendices are apparatus rather than reading voice. **Wendell overruled it, 2026-09-10: "The
+checklists should cover the appendices."** Six Faces agreed with each other and were wrong about
+whose book it is.
+
+The shipping set comes from `profile.corpus`, not from a raw glob. The first version globbed
+`appendices/*.md` and counted `PHASE2_HOSTILE_EDITORIAL_REVIEW.md` -- an editorial review that
+lives in that directory and is not in the book.
 
 **UNSEARCHABLE is a legal result.** P1 and P2 are judgements about what a clause is doing, and no
 regex reaches them at usable precision. Recording that is the row's finding. A fabricated count is
@@ -34,11 +38,24 @@ def chapters():
     return sorted(glob.glob(os.path.join(ROOT, "manuscript", "ch*.md")))
 
 
-def outside():
+def apparatus():
+    """Appendices, front matter and back matter -- ruled since 2026-09-10, on Wendell's overrule.
+
+    The appendix list is profile.corpus's, so an editorial review that happens to sit in
+    appendices/ is not mistaken for a shipping appendix."""
     out = []
-    for g in ("front_matter/*.md", "back_matter/*.md", "appendices/*.md"):
+    try:
+        import importlib.util
+        spec = importlib.util.spec_from_file_location("profile",
+                                                      os.path.join(HERE, "profile.py"))
+        prof = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(prof)
+        globs = [g for g in prof.corpus(["appendices/*.md"]) if "manuscript" not in g]
+    except Exception:
+        globs = ["appendices/APPENDIX_*.md"]
+    for g in globs + ["front_matter/*.md", "back_matter/*.md"]:
         out += sorted(glob.glob(os.path.join(ROOT, g)))
-    return out
+    return [p for p in out if p.endswith(".md")]
 
 
 def body(path):
@@ -130,22 +147,23 @@ def main():
     only = [a for a in sys.argv[1:] if not a.startswith("-")]
 
     print("mark patterns — counts for specs/MARK_PATTERN_TABLE_2026-09-09.md\n")
-    print("%-4s %-52s %7s %8s %9s" % ("row", "shape", "ch1-9", "outside", "unmarked"))
-    print("-" * 84)
+    print("%-4s %-48s %7s %10s %9s" % ("row", "shape", "ch1-9", "apparatus", "unmarked"))
+    print("-" * 82)
     detail = []
     for rid, shape, rx, fixed in ROWS:
         if only and rid not in only:
             continue
         if rx is None:
-            print("%-4s %-52s %7s %8s %9s" % (rid, shape[:52], "—", "—", "UNSEARCHABLE"))
+            print("%-4s %-48s %7s %10s %9s" % (rid, shape[:48], "—", "—", "UNSEARCHABLE"))
             continue
         inside = count(rx, chapters())
-        out = count(rx, outside()) if rx != "refrain" else []
+        out = count(rx, apparatus()) if rx != "refrain" else []
         unmarked = sum(1 for f, _, _ in inside if f not in MARKED)
-        print("%-4s %-52s %7d %8d %9d" % (rid, shape[:52], len(inside), len(out), unmarked))
-        detail.append((rid, inside))
-    print("-" * 84)
-    print("ch1-9 is ruled. outside = front matter, back matter, appendices: counted, not ruled.")
+        print("%-4s %-48s %7d %10d %9d" % (rid, shape[:48], len(inside), len(out), unmarked))
+        detail.append((rid, inside + out))
+    print("-" * 82)
+    print("both columns are ruled since 2026-09-10. apparatus = shipping appendices,")
+    print("front matter and back matter, on Wendell's overrule of the panel.")
     print("unmarked = sites in chapters nobody has read on paper (everything but ch2, ch3).")
 
     if verbose or only:

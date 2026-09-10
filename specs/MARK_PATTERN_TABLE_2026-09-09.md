@@ -36,23 +36,27 @@ That rule exists because on the day this was built I made four wrong scope claim
 there were ten, nineteen licensed when there were eighteen, eleven lines when there were ten, thirty
 PRO sites when there were twenty-four.
 
-**Ruled scope: ch1–ch9.** Front matter, back matter and the appendices are **counted and left
-unruled** — the marks are evidence about the reading voice, and the appendices are apparatus.
+**Ruled scope: everything that ships.** The panel ruled ch1–ch9 only, on the argument that the
+appendices are apparatus rather than reading voice. **Wendell overruled it, 2026-09-10: *"The
+checklists should cover the appendices."*** Six Faces agreed with each other and were wrong about
+whose book it is. The appendix list now comes from `profile.corpus` rather than a raw glob, which
+also removed an editorial review that lives in `appendices/` and is not in the book.
 
 ---
 
 ## The board
 
-| row | shape | ch1–9 | outside | **unmarked** | verdict |
+| row | shape | ch1–9 | apparatus | **unmarked** | verdict |
 |---|---|---:|---:|---:|---|
 | **P1** | interprets the observation — the *", and [what it means]"* tack-on | — | — | — | **UNSEARCHABLE** |
 | **P2** | concludes for the reader — the verdict stamp | — | — | — | **UNSEARCHABLE** |
 | **P3** | manages the reader's path — the signposts | 23 | 9 | **15** | **OPEN** |
 | **P4** | undercuts itself — the hedges | 2 | 0 | **1** | **CLEAR** · DL-88 |
-| **P5** | gestures with a nothing-word — the vague verb | 59 | 18 | **49** | **OPEN** |
+| **P5** | gestures with a nothing-word — the vague verb | 59 | 13 | **49** | **OPEN** |
 | **P6** | repeats a line as a refrain until it stops carrying weight | 1 | 0 | **0** | **CLEAR** |
 | **P7** | construction scaffolding left in the reader's text | 0 | 0 | **0** | **RULED** · DL-84 |
 
+*apparatus = shipping appendices, front matter, back matter — **ruled since 2026-09-10**.*
 *unmarked = sites in chapters nobody has read on paper, i.e. everything but ch2 and ch3.*
 
 ---
@@ -90,15 +94,16 @@ about what a clause is doing, not about what it contains.**
 the threshold map"* · *"The deeper truth is this:"* · *"Chapter 3 gives you both"* · *"and Chapter
 9 tells that part"* · *"Appendix G says where."*
 **search** — 10 phrase families. `markpatterns.py P3`.
-**count** — **23 in ch1–ch9 · 9 outside · 15 unmarked.**
+**count** — **23 in ch1–ch9 · 9 apparatus · 15 unmarked.**
 **scope** — a phrase list built from the six marked instances plus four near neighbours. Cannot see
 a signpost phrased in words not on the list, and does not distinguish a pointer that earns its place
 from one that manages.
 **verdict — OPEN.** The unmarked sites include *"Appendix G says where to read her"* `ch6:238`,
 *"that combination is what this chapter trains"* `ch8:615`, and **the same sentence twice in two
 chapters** — *"Every move in this chapter is an instrument for making that sentence true"* at
-`ch7:884` and `ch8:857`. **The 9 outside sites are counted and not ruled**: a pointer in an appendix
-is what an appendix is for.
+`ch7:884` and `ch8:857`. **The 9 apparatus sites are now ruled too**, on Wendell's overrule of
+2026-09-10. A pointer in an appendix may still be what an appendix is for; that is a reading, not
+an exemption, and it is made site by site rather than by category.
 
 ## P4 · undercuts itself
 
@@ -106,7 +111,7 @@ is what an appendix is for.
 **marks** — *"I have guessed wrong in both directions"* · *"and I could be wrong"* · *"It is not
 one"* · *"I have not solved it. I teach here anyway."*
 **search** — 20 first-person hedge phrases, case-insensitive. `markpatterns.py P4`.
-**count** — **2 in ch1–ch9 · 0 outside · 1 unmarked.**
+**count** — **2 in ch1–ch9 · 0 apparatus · 1 unmarked.**
 **scope** — phrase list from the four marked instances plus sixteen near neighbours. Cannot see a
 hedge phrased in words not on the list.
 **verdict — CLEAR.** Both remaining sites are legitimate. `ch3:44` is inside the admissions form,
@@ -124,7 +129,7 @@ the anecdote instead of ending it."* **P4 is the first of the seven patterns he 
 contact for control"* · *"vigilance buys aim"* · *"metabolize."* Wendell, 2026-09-02: *"'lands warm'
 — what the fuck does landing warm mean? Land is another one of those nothing words."*
 **search** — the six marked phrase shapes and their inflections. `markpatterns.py P5`.
-**count** — **59 in ch1–ch9 · 18 outside · 49 unmarked.**
+**count** — **59 in ch1–ch9 · 13 apparatus · 49 unmarked.**
 **scope** — matches the phrase shapes, not the judgement. Known false positives in the count:
 *"the land was not returned"* `ch5:253`, *"trade them for a prize"* `ch1:123`. A reader clears each
 site; the number is a ceiling, not a finding.
@@ -154,7 +159,7 @@ site; the number is a ceiling, not a finding.
 **marks** — *"The world is not fine."* — ch2 p.25, p.27, p.30.
 **search** — any sentence of 16–70 characters occurring 3+ times inside one chapter, with the
 exercise apparatus excluded. `markpatterns.py P6`.
-**count** — **1 in ch1–ch9 · 0 outside · 0 unmarked.**
+**count** — **1 in ch1–ch9 · 0 apparatus · 0 unmarked.**
 **scope** — sentence-level and within-chapter, which is the shape Wendell marked. Excludes the 3-2-1
 protocol, the BAR instruction and the RECEIPT block by name: **a form the reader learns to recognise
 is not a refrain losing weight, and marking one would be vandalism.** Across chapters the same
@@ -180,7 +185,7 @@ is reading is the 455-hit machine in a new coat.** *(Panel, Q1.)*
 **marks** — *"Section 1: Urgency"* (Kotter step 1, verbatim); the `Section N:` numbering in all nine
 chapters; *"Recap and Transition"* as a reader-facing heading in eight of them.
 **search** — numbered section headings and the repeated template labels. `markpatterns.py P7`.
-**count** — **0 · 0 · 0.**
+**count** — **0 in ch1–ch9 · 0 apparatus · 0 unmarked.**
 **verdict — RULED · DL-84.** Applied by `strike_scaffolding.py`. Every H2 in ch2–ch9 rewritten, the
 numbering moved to an invisible `<!-- SECTION N -->` anchor, `headings.py` built to keep it struck.
 **The only one of the seven that is finished.**
@@ -193,8 +198,17 @@ It does not sweep a row. It does not build a counter before a row asks for one �
 worked case, where the measurement said the counter would not find the thing. It does not delete a
 row that produced nothing: **P4 and P6 came back CLEAR and both stay**, because proving a pattern
 does not reach the unmarked chapters is a result. It does not put a number in a cell that
-`markpatterns.py` did not produce. It does not give verdicts to reference pages. And it does not
-widen `light_verb.py`, which is P5's finding and somebody else's ruling.
+`markpatterns.py` did not produce. And it does not widen `light_verb.py`, which is P5's
+finding and somebody else's ruling. **It no longer refuses verdicts to reference pages** — that
+refusal was the panel's and Wendell overruled it the next morning.
+
+## One thing this table did not catch, and it matters
+
+**P5's marked vocabulary and the `read` ruling collide.** The one site P6 still holds is `ch3:363`,
+*"The message landed."* ×3 — its verb is P5 vocabulary. And DL-96 moved 43 nouns on 2026-09-10
+while `lands` sat inside several of the same sentences untouched, because **the rows are searched
+one at a time and a sentence can be on two rows.** Nothing here notices that. It is a reader's job
+and it is written down rather than solved.
 
 ## What is waiting on Wendell
 

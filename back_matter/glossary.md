@@ -8,8 +8,8 @@ person: you describe them in the third person, then speak to them, then speak as
 Ken Wilber's, and Appendix E runs it in full. *App E; first used Ch 3 §4*
 
 **Allyship domains, the four** — The four shapes allyship takes as action: Gather Resources,
-Raise Awareness, Direct Action, Skillful Organizing. A read that never lands in one of them
-stayed a read. *App A; first used Ch 2 §10*
+Raise Awareness, Direct Action, Skillful Organizing. A reading that never lands in one of them
+stayed a reading. *App A; first used Ch 2 §10*
 
 **Altitude** — The developmental level a move is made from. Each Face works native material
 at its own altitude, and the Regent's is loyalty. You carry the lower altitudes rather than
@@ -135,13 +135,13 @@ each: Shadow, distortion, cost. Carolyn Elliott's term. *Ch 2 §1; Ch 8 §1*
 **Shaman, the** — The Face that feels what is happening before anyone can name it. Means:
 somebody said the unsaid charge, and it landed. *Ch 3*
 
-**Skeptic, the** — The daemon that doubts so you do not get fooled. Chapter 4 calls it the auditor, where it rules your read inadmissible. *Ch 2 §6; Ch 4 §5*
+**Skeptic, the** — The daemon that doubts so you do not get fooled. Chapter 4 calls it the auditor, where it rules your reading inadmissible. *Ch 2 §6; Ch 4 §5*
 
 **Victim, the** — The daemon that wins sympathy through stories. As an ally it lets you feel
 with someone; as a demon it confirms them in the role. *Ch 2 §6*
 
 **Village, the** — Every place with an audience: the workplace, the coalition, the family
-table, the group chat, anywhere other people can see what you did and adjust their read on
+table, the group chat, anywhere other people can see what you did and adjust their reading on
 you. *Ch 2 §3*
 
 **Vulnerable Child, the** — The youngest part of you, waiting at the center of the Forest

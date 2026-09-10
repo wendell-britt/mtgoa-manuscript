@@ -629,3 +629,44 @@ claims:
       - {file: manuscript/ch3.md, phrase: "what you saw, spent on being seen as perceptive"}
       - {file: manuscript/ch3.md, phrase: "redirect you, or say you have it wrong?"}
       - {file: manuscript/ch3.md, phrase: "One more voice waits after that."}
+
+  - id: DL-96
+    fact: >
+      The clipped noun "a read" does not appear in the shipping book. Where a noun is needed for
+      the Shaman's perception the book says "a reading", which is what it already said 81 times
+      against 43. The verb is untouched.
+    applied: "46 of 46"
+    ruled_by: >
+      Wendell, 2026-09-10, on DL-95 having cut only the filler uses: "this doesn't solve the
+      problem that read is still illegal and shouldn't be used."
+    wrong_because: >
+      **DL-95 answered a question about frequency and he was never asking about frequency.** It
+      cut eight occurrences and kept fifteen, on the argument that a technical term has to repeat
+      to stay technical. The word is the problem, not how often it appears. **The book had
+      already made the decision and nobody read it out:** noun "reading"/"readings" 81 uses
+      against "read" 43, and the majority form is ordinary English while the minority form is the
+      clipped jargon he objected to twice.
+    proof_mark: "none — ruled on the word, after two rounds on its frequency"
+    scope: >
+      Every determiner + "read" in the shipping set on 2026-09-10, where shipping is
+      profile.corpus plus front matter and back matter: **43 sites, every one read by eye and not
+      one of them a verb.** 3 further spans reduce density where the swap put three "reading"s
+      inside two sentences. The verb is out of scope and untouched — "read the room", "what your
+      body had read", "the Strategist reads the board". **The first version of the script carried
+      a verb-exclusion look-ahead borrowed from the census regex and it threw away real nouns**
+      ("a read you never let yourself have" skipped on `you`, "aims the read into a line" on
+      `into`); a determiner needs a nominal head, so the filter was pure loss and was removed.
+    no_forbidden_list_because: >
+      **The phrase cannot be forbidden by the registry.** `claims.py` searches specs/ and
+      instruments/ as well as the book, and every ruling that removed "the read" has to quote it
+      to say what it removed — this entry included. A forbidden list here fires 31 times on its
+      own paperwork. **The absence check lives in the script instead**, which recounts the
+      shipping set after writing and reports 0.
+    carriers:
+      - {file: manuscript/ch3.md, phrase: "your reading catches what the group never registers"}
+      - {file: manuscript/ch3.md, phrase: "A reading you never let yourself have is one you can never act on."}
+      - {file: manuscript/ch3.md, phrase: "the Controller rules it inadmissible before you can speak"}
+      - {file: manuscript/ch3.md, phrase: "The Regent keeps what was worth keeping in it."}
+      - {file: manuscript/ch3.md, phrase: "Where You'll Actually Spend the Reading"}
+      - {file: manuscript/ch8.md, phrase: "One reading has two vocabularies."}
+      - {file: back_matter/glossary.md, phrase: "stayed a reading."}

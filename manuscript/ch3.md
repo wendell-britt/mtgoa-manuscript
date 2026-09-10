@@ -64,7 +64,7 @@
 
 This chapter runs longest in the book, and you deserve to know why before you start it.
 
-Every chapter after this one calls back to something taught here. The Challenger uses the read to know which line to draw. The Regent uses it to tell an inheritance worth keeping from one that only feels familiar. The Architect, the Diplomat, the Sage: all of them run the same instrument, and you build it here.
+Every chapter after this one calls back to something taught here. The Challenger uses the reading to know which line to draw. The Regent uses it to tell an inheritance worth keeping from one that only feels familiar. The Architect, the Diplomat, the Sage: all of them run the same instrument, and you build it here.
 
 So Chapter 3 does two jobs. It serves as the Shaman's chapter and as the toolkit for the five faces that follow. It comes in two halves: the practice first, then the part of you that keeps you from using it. A marked stopping place sits between them, halfway down. Take it if you need it.
 
@@ -181,11 +181,11 @@ The Shaman's practice may already feel familiar. You have likely built some lang
 
 That signal raises a different question the moment it disagrees with the group.
 
-Picture it: your read catches what the group never registers, not dangerous, not catastrophic, just *something here is not what it's presenting as.* A trained response comes with it, drilled into anyone who has learned caution: ask whether it's your stuff, whether you're projecting, whether you're centering yourself in a moment that isn't yours, then give the consensus the benefit of the doubt and keep going.
+Picture it: your reading catches what the group never registers, not dangerous, not catastrophic, just *something here is not what it's presenting as.* A trained response comes with it, drilled into anyone who has learned caution: ask whether it's your stuff, whether you're projecting, whether you're centering yourself in a moment that isn't yours, then give the consensus the benefit of the doubt and keep going.
 
 The Shaman's practice is running under a governor, installed by instructions that meant to teach you not to harm people and taught you instead to distrust what your body had read.
 
-Checking whether your read is distorted differs from making *probably my stuff* the default answer whenever the reading is inconvenient. The first is discernment. The second is the villagers' solution to the Shaman problem: keep the language, remove the trust.
+Checking whether your reading is distorted differs from making *probably my stuff* the default answer whenever the reading is inconvenient. The first is discernment. The second is the villagers' solution to the Shaman problem: keep the language, remove the trust.
 
 The School of the Body is asking for the trust.
 
@@ -232,11 +232,11 @@ A polarity is two capacities, both right, that start costing you the moment they
 
 The Shaman's pair: the feeling that gives you the reading versus the function that makes it matter to somebody else.
 
-**Feeling** means the charge arriving and being allowed to arrive: the heat in the chest, the drop in the stomach, what your body registered about a situation two beats before anyone said a word. Feeling is the instrument. Everything the School of the Body teaches argues for keeping it calibrated. A read you never let yourself have is a read you can never act on.
+**Feeling** means the charge arriving and being allowed to arrive: the heat in the chest, the drop in the stomach, what your body registered about a situation two beats before anyone said a word. Feeling is the instrument. Everything the School of the Body teaches argues for keeping it calibrated. A reading you never let yourself have is one you can never act on.
 
-**Function** means what the read does once it leaves you. A sentence said to the face it concerns; a decision that changed because somebody said it; water that moved. Function is the difference between a reading that stays in you and one that reaches *the world*, where the person you came for can get something out of it. You felt it in your chest; Function asks whether anybody else ever did.
+**Function** means what the reading does once it leaves you. A sentence said to the face it concerns; a decision that changed because somebody said it; water that moved. Function is the difference between a reading that stays in you and one that reaches *the world*, where the person you came for can get something out of it. You felt it in your chest; Function asks whether anybody else ever did.
 
-Both ends fail, and they fail unequally. Function without Feeling is the practitioner who says the correct words on schedule with no instrument running underneath, competent, useful in a narrow band, and unable to tell the table anything it did not already know. Feeling without Function costs more, because it looks like depth. An extraordinarily accurate read, refined over years, never once leaves the body that made it. She knows exactly what is happening. Nobody in the situation gains anything from her knowing.
+Both ends fail, and they fail unequally. Function without Feeling is the practitioner who says the correct words on schedule with no instrument running underneath, competent, useful in a narrow band, and unable to tell the table anything it did not already know. Feeling without Function costs more, because it looks like depth. An extraordinarily accurate reading, refined over years, never once leaves the body that made it. She knows exactly what is happening. Nobody in the situation gains anything from her knowing.
 
 What is specific to this reader is shaped like a squeeze rather than a lean. This altitude fully sanctions Feeling in its collective form: named in a circle, processed together, honored aloud. Feeling as *your* instrument, trusted privately and acted on alone, carries warnings: who are you to read this, what makes your body's account of the situation worth more than the version the group has agreed on. Function's own warnings are the ones this altitude shouts loudest: outcomes over people, results as the metric, the whole language of execution, which has done enormous work for people who never asked who was being spent. So one end of the axis is available only in its group form, and the other end sounds like what the altitude was built to leave behind.
 
@@ -637,11 +637,11 @@ When the Controller has the joystick, it runs as the inner critic. It blows the 
 
 Its other move never blows a whistle at all. The play never starts. Perfectionism is the Controller refusing to let you onto the field until the conditions are perfect: the exact right words, the unimpeachable position, the certainty that nobody can criticize you. The conditions are never perfect. So the most careful, most informed person in the situation says nothing and calls the silence rigor.
 
-Here is why this daemon stands second, right behind the one that keeps you alive, in a book about allyship. Everything you learned in the first half of this chapter runs on a feeling being allowed to finish. You cannot alchemize a charge you cut off halfway. The shadow Controller lets the feeling in and stops it at Open Up. It rules on your conduct rather than on the charge: *not where anyone can see you.* So you manage the feeling instead of undergoing it. Clean Up, Grow Up and Show Up get nothing to work with. You pay twice: you lose the read that would have told you what the moment actually needed, and the person in front of you loses the ally who could have named it. They get your composure instead of your help.
+Here is why this daemon stands second, right behind the one that keeps you alive, in a book about allyship. Everything you learned in the first half of this chapter runs on a feeling being allowed to finish. You cannot alchemize a charge you cut off halfway. The shadow Controller lets the feeling in and stops it at Open Up. It rules on your conduct rather than on the charge: *not where anyone can see you.* So you manage the feeling instead of undergoing it. Clean Up, Grow Up and Show Up get nothing to work with. You pay twice: you lose the reading that would have told you what the moment actually needed, and the person in front of you loses the ally who could have named it. They get your composure instead of your help.
 
 You do not fire the Controller. Fire the referee and your follow-through goes with it. You take the joystick back by handing it the right rulebook, your rules, the ones you would choose with a clear head. *Here is the ally I actually want to be: the one who names the unsaid even when her voice shakes. Hold me to that one. When a feeling shows up, let it onto the field. It is in bounds.* Do that, and the referee goes back to its real work: keeping your integrity when it costs you, and keeping the game honest, which now includes letting you feel.
 
-One beat: someone on your team pushes through a decision a part of you clocks as wrong. On the old standard, the Controller rules the read inadmissible before you can speak (*probably just my stuff*). You go along with the group. Refereeing the game you chose, it lets the read onto the field and holds you to your own rule, and you say what you clocked, *"Something here doesn't sit right with me. Can we slow down?"*, even while your nerve tells you to let it go. It is the same part, blowing the same whistle. What changed is whose rules it enforces.
+One beat: someone on your team pushes through a decision a part of you clocks as wrong. On the old standard, the Controller rules it inadmissible before you can speak (*probably just my stuff*). You go along with the group. Refereeing the game you chose, it lets the reading onto the field and holds you to your own rule, and you say what you clocked, *"Something here doesn't sit right with me. Can we slow down?"*, even while your nerve tells you to let it go. It is the same part, blowing the same whistle. What changed is whose rules it enforces.
 
 *Bring one real moment the Controller ruled a feeling out of order before you could act on it, a reading you talked yourself out of with "probably just my stuff," or a move you didn't make until it could be perfect. Name the rule it was enforcing, and whose rule it was. Two minutes to capture it as a BAR.*
 
@@ -655,7 +655,7 @@ The Controller does not block your reading with a vague no. It blocks with a ver
 
 These are the whistle-calls. When something true moves in a moment and a part of you feels it, the Controller does not argue that the feeling is wrong. It disqualifies the one who would name it. Who are you to say this: you're not ready, you don't belong, you're not good enough. The reading never reaches the field, because the referee who would call it has been ruled ineligible. The six beliefs read like stray bad thoughts about yourself. They are the specific tool the Controller uses to keep your Shaman move from ever getting made.
 
-This is why you do not beat them by arguing. Argue *I am good enough* and you have already accepted the court. Now you are litigating your own standing while the moment passes. The judge has every past ruling on file, infinite patience, and a perfect record on points. The Shaman's move is to notice that a court is even sitting, catch the belief in the act of disqualifying your reading, and make the play anyway. Name the ruling. Name whose rule it is. Let the read onto the field with the belief still talking: *there it is, "not ready." Noted. Saying it anyway.*
+This is why you do not beat them by arguing. Argue *I am good enough* and you have already accepted the court. Now you are litigating your own standing while the moment passes. The judge has every past ruling on file, infinite patience, and a perfect record on points. The Shaman's move is to notice that a court is even sitting, catch the belief in the act of disqualifying your reading, and make the play anyway. Name the ruling. Name whose rule it is. Let the reading onto the field with the belief still talking: *there it is, "not ready." Noted. Saying it anyway.*
 
 ### What You Install Instead
 
@@ -674,7 +674,7 @@ The middle column holds the version that keeps the court in session:
 
 Every line in the third column names a process, which leaves the judge nothing to convene over. None of them installs by repetition. A belief about what action does can only be put in by action. You make the proportionate move while the verdict is still talking, the move returns a result the verdict did not predict, and the belief picks up a piece of evidence that cannot be struck from the record. *Something here doesn't sit right with me. Can we slow down?*, said at that meeting, out loud, with your nerve telling you to let it go, deposits one. You were unready, you spoke, the ceiling held. Run that enough times and *I become more ready through proportionate action* describes an event you have watched happen rather than a phrase you are trying to talk yourself into.
 
-The move onto the field with the belief still talking is the hinge of the whole chapter, its real axis: Feeling and Function. The first half was Feeling: the charge felt clearly. This half is Function: the read becoming a move that changes something. Feeling without Function is endless sensing, nothing done. So take the move out of the forest, where nothing costs you and no one is watching, and into the places allyship actually happens, where it counts. The reading does nothing for the person you came to help until it leaves your body and changes what happens next. Here the Shaman stops sensing and starts doing.
+The move onto the field with the belief still talking is the hinge of the whole chapter, its real axis: Feeling and Function. The first half was Feeling: the charge felt clearly. This half is Function: the reading becoming a move that changes something. Feeling without Function is endless sensing, nothing done. So take the move out of the forest, where nothing costs you and no one is watching, and into the places allyship actually happens, where it counts. The reading does nothing for the person you came to help until it leaves your body and changes what happens next. Here the Shaman stops sensing and starts doing.
 
 ### The Word Everyone Knew and No One Said
 
@@ -792,7 +792,7 @@ In practice: say it to your own nervous system, plainly, in the seconds after yo
 
 ### Move 5 · Show Up — Say the Unsaid Charge
 
-**What it is:** You say the read, what moves underneath the stated discussion, to the people it concerns, while it is live.
+**What it is:** You say the reading, what moves underneath the stated discussion, to the people it concerns, while it is live.
 
 **Why it matters:** The entire chapter exists to make this move possible. Every conversation carries two contents. The stated one is the agenda item, the disagreement, the plan. The actual one is what the people in it do to each other and with each other, and it drives the outcome regardless of whether anybody names it.
 
@@ -814,13 +814,13 @@ The moves are what you do. The next question is where.
 
 ---
 
-### Where You'll Actually Spend the Read
+### Where You'll Actually Spend the Reading
 
-The parable showed one of the four, Direct Action: said to a face. It is the Shaman's steepest, the domain where the read has to leave you and cost you something in front of the person it concerns.
+The parable showed one of the four, Direct Action: said to a face. It is the Shaman's steepest, the domain where the reading has to leave you and cost you something in front of the person it concerns.
 
-The read has four domains and two cheap habits that are neither. The first is the reading you keep: you sense what moves, refine it, never say it, your body never on the line. Reading under the surface is real skill. It asks nothing of you, because no one has to watch you get it wrong. The second is louder. You do say something, but only the correct words, the ones no one can fault. That is the awareness trap, the habit that swallowed the rest because you can run it from the chair. Both leave the reading unsaid. The four domains are where it finally goes: to a face; out loud instead of the correct version; named as a need and asked for; onto the table so a group can work. Each costs more than sensing. Each trades the safety of an accurate private reading for the risk of getting it wrong out loud.
+The reading has four domains and two cheap habits that are neither. The first is the reading you keep: you sense what moves, refine it, never say it, your body never on the line. Reading under the surface is real skill. It asks nothing of you, because no one has to watch you get it wrong. The second is louder. You do say something, but only the correct words, the ones no one can fault. That is the awareness trap, the habit that swallowed the rest because you can run it from the chair. Both leave the reading unsaid. The four domains are where it finally goes: to a face; out loud instead of the correct version; named as a need and asked for; onto the table so a group can work. Each costs more than sensing. Each trades the safety of an accurate private reading for the risk of getting it wrong out loud.
 
-Here are all four, after the three moves that decide whether saying it helps or wounds. Not to study: pick where you'll say it this week, and pick the domain you keep avoiding. If the read only ever circles back into your own head, refined and unsaid, or comes out dressed in the words no one can fault, you practiced the Shaman's move without making it.
+Here are all four, after the three moves that decide whether saying it helps or wounds. Not to study: pick where you'll say it this week, and pick the domain you keep avoiding. If the reading only ever circles back into your own head, refined and unsaid, or comes out dressed in the words no one can fault, you practiced the Shaman's move without making it.
 
 ### How to Say It So It Helps
 When you say it, what you do next decides whether it helps the person or wounds them. The same three moves decide it in every domain.
@@ -831,11 +831,11 @@ When you say it, what you do next decides whether it helps the person or wounds 
 
 **Don't say it and leave.** Right after the words are out comes the riskiest second, when the fear grabs for the exit: soften it, make a joke, change the subject. Leaving strands the person with what you just handed them. This is the referee's purest move: it holds you to what you started when everything in you wants to quit the field. Staying present, without defending and without adding anything, lets the truth land as care instead of an ambush.
 
-**Direct Action — the read said to the person it is about**
+**Direct Action — the reading said to the person it is about**
 
 *You're winning when:* you said what you had been feeling, the unsaid charge and not the softened hint, to the face it concerns, in the live moment and not in a message you draft and never send. You gave up the safety of never breaking the surface. The proof is that it existed between you, said and left said. What they do with it is information for your next move, not your grade.
 
-**Raise Awareness — the true read instead of the correct one**
+**Raise Awareness — the true reading instead of the correct one**
 
 *You're winning when:* you said what was actually happening, under the approved language, to the real people who needed to hear it, including the one it implicates, instead of the correct-sounding version that keeps you safe. You came out from behind the right words. The proof is that the group met what was true and not the performance of it.
 
@@ -843,13 +843,13 @@ When you say it, what you do next decides whether it helps the person or wounds 
 
 *You're winning when:* you sensed and named what a situation actually needs, the real ask rather than the palatable one you were already sure would be granted. You asked the person who can grant it or refuse it. You are now exposed on a need you might be wrong about. The proof is that the true need got asked out loud, not managed down to something comfortable.
 
-**Skillful Organizing — the read the group won't say**
+**Skillful Organizing — the reading the group won't say**
 
 *You're winning when:* you named what the whole coalition feels and no one will touch (the resentment, the power nobody names, the silence everyone is keeping) to the group, so the work could move. You broke the polite surface and it does not go back. The proof is that it got onto the table and the group could work with it instead of around it.
 
 ### After this, everything stands on it
 
-The Diplomat's close, the Challenger's line, the Regent's stand, the Architect's design: none of them holds up on a bad reading. You are the first face for a reason. Every move the other five make begins here, with someone who can feel what is actually happening and say it where it counts. The Challenger aims the read into a line. The Architect builds structure from it. The Regent keeps what the read found worth keeping. The reading comes first. A reading that never leaves the chair stalls the whole game. That is why you start with the Shaman, and why saying what you sensed, and not only feeling it, is the move everything else will stand on.
+The Diplomat's close, the Challenger's line, the Regent's stand, the Architect's design: none of them holds up on a bad reading. You are the first face for a reason. Every move the other five make begins here, with someone who can feel what is actually happening and say it where it counts. The Challenger aims the reading into a line. The Architect builds structure from it. The Regent keeps what was worth keeping in it. The reading comes first. A reading that never leaves the chair stalls the whole game. That is why you start with the Shaman, and why saying what you sensed, and not only feeling it, is the move everything else will stand on.
 
 ### The Tell
 
