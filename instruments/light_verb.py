@@ -19,7 +19,47 @@ cannot perform one. The red-team (`specs/REDTEAM_WRITE_WITHOUT_THESE_ISSUES_2026
 named this the one buildable half of the solve: **catch the enumerable weak-verb class
 mechanically, before the draft reaches him.** This is that half.
 
-## The two shapes, and why they are different
+## The hole, found 2026-09-10
+
+**This instrument was built from six marked phrases and covered one of them.** The mark-pattern
+table probed it phrase by phrase and reported:
+
+| marked phrase | before |
+|---|---|
+| *praise lands warm* | flagged |
+| *the feeling runs clean* | **invisible** |
+| *it trades contact for control* | **invisible** |
+| *vigilance buys aim* | **invisible** |
+| *metabolize* | **invisible** |
+
+**One of five, while reporting a healthy DELEXICAL rate the whole time** — the same shape as
+`compile.py --verify` reporting *round-trip OK* over eight stale blocks for six weeks: a green
+number over an unlooked-at half. Wendell, on being shown it: *"fix the light_verb hole."*
+
+**Four separate causes, and only one of them was a missing word.**
+
+1. **`ABSTRACT` was generic English and the book's own abstractions were not in it.** *praise*,
+   *shame*, *fear* were there; *feeling*, *charge*, *reading*, *game*, *line*, *practice*,
+   *capacity* were not. So *"the feeling runs clean"* had a verb on the list and a subject that
+   was not.
+2. **`DEADV` covered motion and placement, not transaction.** Nothing could see *buys*, *trades*,
+   *spends*, *pays* — and two of the six marked phrases are that shape. **TRADE** is a new
+   pattern and it requires an abstract OBJECT as well as an abstract subject, which is what keeps
+   it at two sites in the whole book instead of two hundred.
+3. **`metabolize` is not a weak verb at all.** It is a verb borrowed from another domain and run
+   on a feeling: a *wrong* verb, not a light one. **BORROWED** is a third tier and its family is
+   kept deliberately tiny, because the obvious neighbours are book canon — ch6 has an
+   **Optimizer** daemon and *optimization theater* is the book's own critique, so widening it to
+   *optimize* would flag the chapter's vocabulary.
+4. **`sites()` skipped every sentence of three words or fewer**, which is the book's flattest
+   register. *"Vigilance buys aim."* is three words. So is *"That is burnout."* Lowering the
+   filter to `> 1` scans **449 more sentences for one additional hit**: it was buying nothing and
+   hiding the shortest lines in the book.
+
+**All five marked shapes are now visible.** The probe lives in `markpatterns.py` and runs on
+every invocation, so this cannot quietly close over again.
+
+## The three shapes, and why they are different
 
 **DELEXICAL — the buried verb.** *make a decision* (decide), *reach a conclusion* (conclude),
 *conduct an investigation* (investigate), *provide assistance* (help). A light verb — *make,
@@ -27,6 +67,11 @@ take, give, have, do, get, provide, perform, conduct, reach* — plus a nominali
 the real verb inside a noun. Strunk Rule 13 (*omit needless words*) and Williams (*Style*: put
 the action in the verb, not the noun) both name it. **This tier is gradeable and driven down**:
 the fix is mechanical — recover the buried verb, drop the noun.
+
+**BORROWED — the wrong verb.** *metabolize a feeling*. A verb lifted from chemistry, computing or
+logistics and run on an inner state. Unlike the other two this is not a weak verb doing too
+little; it is a precise verb pointing at the wrong domain, and the precision is what makes it
+persuasive. **Counted against a draft the way DELEXICAL is**, not surfaced like DEAD.
 
 **DEAD — the fake-concrete verb.** *praise lands warm*, *the shame sits there*, *it leaves you
 smaller*. A motion or placement verb — *land, leave, sit, hang, settle, run, move* — handed an
@@ -126,14 +171,39 @@ NOT_DEVERBAL = {
 DEADV = (r"lands?|landed|landing|leaves?|left|leaving|sits?|sat|sitting|hangs?|hung|hanging|"
          r"settles?|settled|settling|sinks?|sank|sunk|sinking|runs?|ran|running|"
          r"moves?|moved|moving|travels?|travell?ed|travell?ing|rides?|rode|carries|carried")
+
+# The transaction family. Added 2026-09-10 (DL-97): an abstraction cannot buy, sell or spend, and
+# two of the six phrases Wendell marked in P5 are this shape -- *"it trades contact for control"*,
+# *"vigilance buys aim"*. Motion verbs alone could not see them.
+TRADEV = (r"trades?|traded|trading|buys?|bought|buying|sells?|sold|selling|pays?|paid|paying|"
+          r"spends?|spent|spending|earns?|earned|earning|purchases?|exchanges?|affords?")
 # The book's recurring abstractions, plus any nominalization-suffixed noun, plus a bare
 # demonstrative. Kept explicit so the tier stays low-noise and aimed at the flagged family.
 ABSTRACT = (r"praise|encouragement|shame|fear|trust|power|love|hope|doubt|guilt|grief|anger|joy|"
             r"help|care|respect|control|comfort|silence|attention|presence|absence|meaning|truth|"
             r"belief|faith|pride|courage|kindness|cruelty|authority|condescension|approval|"
-            r"validation|recognition|feedback|criticism|praise|worth|grade|verdict")
-DEAD = re.compile(r"\b(it|this|that|these|those|%s|\w{4,}(?:tion|sion|ment|ness))\s+"
-                  r"(?:\w+ly\s+)?(?:%s)\b" % (ABSTRACT, DEADV), re.I)
+            r"validation|recognition|feedback|criticism|praise|worth|grade|verdict|"
+            # 2026-09-10, DL-97. The list above is generic English abstraction and **the book's
+            # own abstractions were missing from it**, which is why "the feeling runs clean" --
+            # one of the six phrases this instrument was built from -- was invisible. These are
+            # the nouns MTGOA actually hands a physical verb to.
+            r"feelings?|charge|readings?|alchemy|moves?|lines?|games?|standards?|limits?|costs?|"
+            r"work|practice|patterns?|distortion|exile|altitude|boundary|inheritance|terms|"
+            r"vigilance|clarity|impact|contact|connection|repair|conflict|discomfort|urgency|"
+            r"safety|belonging|competence|capacity|agency|aim|nerve|standing|leverage")
+SUBJ = r"it|this|that|these|those|%s|\w{4,}(?:tion|sion|ment|ness)" % ABSTRACT
+DEAD = re.compile(r"\b(%s)\s+(?:\w+ly\s+)?(?:%s)\b" % (SUBJ, DEADV), re.I)
+# A transaction needs an abstract OBJECT too, or every "it cost you an hour" fires. That object
+# test is what keeps this at two sites in the whole book rather than two hundred.
+TRADE = re.compile(r"\b(%s)\s+(?:\w+ly\s+)?(?:%s)\s+"
+                   r"(?:a |an |the |your |their |you )?(%s|\w{4,}(?:tion|sion|ment|ness))\b"
+                   % (SUBJ, TRADEV, ABSTRACT), re.I)
+
+# BORROWED -- a verb taken from another domain and run on a feeling. Not a weak verb: a wrong
+# one. *metabolize* is the marked instance and the family is kept deliberately tiny, because the
+# obvious neighbours are book canon -- ch6 has an **Optimizer** daemon and "optimization theater"
+# is the book's own critique, so widening this to *optimize* would flag the chapter's vocabulary.
+BORROWED = re.compile(r"\b(metabolis?[zs]e[sd]?|metabolis?[zs]ing)\b", re.I)
 
 # Measured 2026-09-03 by this file on the book's own body prose: 39 DELEXICAL and 124 DEAD across
 # 5,985 sentences. DEAD runs high because most of its subjects are concrete and fine -- which is
@@ -144,14 +214,20 @@ BOOK_BASELINE = profile.baseline("light_verb", 0.7)  # manifest-authoritative; s
 def sites(text):
     out = []
     sents = [" ".join(s.split()) for s in SENT.split(text)]
-    sents = [s for s in sents if len(s.split()) > 3]
+    # 2026-09-10, DL-97. This was `> 3`, and it hid the book's terse register from every tier:
+    # "Vigilance buys aim." is three words, and so is "That is burnout." Lowering it to `> 1`
+    # scans 449 more sentences for one additional hit, so the filter was buying nothing and
+    # costing the shortest, flattest lines in the book.
+    sents = [s for s in sents if len(s.split()) > 1]
     for s in sents:
         m = DELEXICAL.search(s)
         suffix_hit = m and m.group(1).lower() not in NOT_DEVERBAL
         if suffix_hit or LIGHT_PHRASE.search(s):
             out.append(("DELEXICAL", s))
-        if DEAD.search(s):
+        if DEAD.search(s) or TRADE.search(s):
             out.append(("DEAD", s))
+        if BORROWED.search(s):
+            out.append(("BORROWED", s))
     return out, len(sents)
 
 
@@ -165,8 +241,9 @@ def main():
                                 and not l["text"].lstrip().startswith(("#", "|", ">", "-", "*"))])]
 
     print("light verb — the buried verb (DELEXICAL) and the fake-concrete verb (DEAD); see the docstring")
-    print("%-24s %6s %5s %7s %8s" % ("file", "DELEX", "DEAD", "sents", "delex%"))
-    print("-" * 56)
+    print("%-24s %6s %5s %6s %7s %8s" % ("file", "DELEX", "DEAD", "BORROW", "sents",
+                                          "delex%"))
+    print("-" * 62)
     bad, rows, total = 0, [], 0
     for label, lines in groups:
         hits, n = [], 0
@@ -176,17 +253,20 @@ def main():
             n += c
         dx = sum(1 for t, _s, _l in hits if t == "DELEXICAL")
         dv = sum(1 for t, _s, _l in hits if t == "DEAD")
+        bw = sum(1 for t, _s, _l in hits if t == "BORROWED")
         rate = 100.0 * dx / max(n, 1)
         flag = "" if rate <= BOOK_BASELINE + 2 else "  HEAVY"
-        print("%-24s %6d %5d %7d %7.1f%%%s" % (label[:24], dx, dv, n, rate, flag))
+        print("%-24s %6d %5d %6d %7d %7.1f%%%s" % (label[:24], dx, dv, bw, n, rate, flag))
         # On a draft, both tiers are candidates to look at. Book-wide DEAD is a backlog rather
         # than a build failure (its subjects are often concrete), so it does not inflate `bad`.
-        bad += dx + (dv if paths else 0) + (1 if flag else 0)
+        # BORROWED is a wrong verb rather than a weak one, so it counts on a draft the way
+        # DELEXICAL does rather than sitting in the surfaced backlog with DEAD.
+        bad += dx + bw + (dv if paths else 0) + (1 if flag else 0)
         rows += hits
         total += n
-    print("-" * 56)
+    print("-" * 62)
 
-    order = {"DELEXICAL": 0, "DEAD": 1}
+    order = {"DELEXICAL": 0, "BORROWED": 1, "DEAD": 2}
     shown = sorted(rows, key=lambda r: order[r[0]])
     if shown:
         print("")

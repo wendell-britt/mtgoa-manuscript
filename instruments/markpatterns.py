@@ -194,6 +194,9 @@ def main():
             print("   %-16s %s" % (label, "flagged" if hit else "INVISIBLE"))
         print("   %d of %d marked phrase shapes are visible to the counter that was built "
               "from this pattern." % (seen, len(probes)))
+        if seen < len(probes):
+            print("   ** REGRESSION: this read 5 of 5 on 2026-09-10 after DL-97. A phrase has "
+                  "gone\n      invisible again. See instruments/light_verb.py's docstring.")
     return 0
 
 

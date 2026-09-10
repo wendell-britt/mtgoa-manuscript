@@ -670,3 +670,39 @@ claims:
       - {file: manuscript/ch3.md, phrase: "Where You'll Actually Spend the Reading"}
       - {file: manuscript/ch8.md, phrase: "One reading has two vocabularies."}
       - {file: back_matter/glossary.md, phrase: "stayed a reading."}
+
+  - id: DL-97
+    fact: >
+      light_verb.py sees all five of the phrase shapes it was built from. ABSTRACT carries the
+      book's own abstractions, a TRADE pattern covers transaction verbs with an abstract object,
+      BORROWED is a third tier for a verb taken from another domain, and sites() no longer skips
+      the book's three-word sentences.
+    applied: "4 of 4"
+    ruled_by: >
+      Wendell, 2026-09-10: "fix the light_verb hole."
+    wrong_because: >
+      **The instrument was built from six marked phrases and covered one of them**, while
+      reporting a healthy DELEXICAL rate the whole time — the same shape as compile.py --verify
+      reporting round-trip OK over eight stale blocks for six weeks. **Four separate causes and
+      only one was a missing word.** (1) ABSTRACT held generic English and none of the book's own
+      abstractions, so "the feeling runs clean" had a verb on the list and a subject that was
+      not. (2) DEADV covered motion and placement but no transaction verb, so "buys" and "trades"
+      had nothing to match. (3) "metabolize" is a wrong verb rather than a weak one and needed a
+      tier of its own. (4) **sites() skipped every sentence of three words or fewer** — the
+      book's flattest register, and where "Vigilance buys aim." and the P2 mark "That is
+      burnout." both live.
+    proof_mark: "none — the hole was found by the P5 row of MARK_PATTERN_TABLE_2026-09-09"
+    scope: >
+      instruments/light_verb.py, measured against the five marked phrase shapes before and after:
+      **1 of 5 visible, then 5 of 5.** Book-wide the run went from 40 DELEXICAL / 117 DEAD across
+      5,941 sentences to **40 / 177 / 4 BORROWED across 6,364**. **DELEXICAL gained none**, so
+      the manifest baseline — which is a DELEXICAL rate — is untouched. DEAD gained 60, all of
+      them abstractions handed a physical verb, which is the tier's own definition. **The probe
+      now runs on every markpatterns.py invocation and prints a REGRESSION line if the count
+      drops below 5 of 5.** No prose changed: the 59 P5 sites are seen and still unswept.
+    carriers:
+      - {file: instruments/light_verb.py, phrase: "TRADEV = ("}
+      - {file: instruments/light_verb.py, phrase: "BORROWED = re.compile"}
+      - {file: instruments/light_verb.py, phrase: "sents = [s for s in sents if len(s.split()) > 1]"}
+      - {file: instruments/light_verb.py, phrase: "feelings?|charge|readings?|alchemy"}
+      - {file: instruments/markpatterns.py, phrase: "** REGRESSION: this read 5 of 5 on 2026-09-10"}

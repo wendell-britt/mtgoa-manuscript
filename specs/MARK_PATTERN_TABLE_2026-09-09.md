@@ -133,25 +133,33 @@ contact for control"* · *"vigilance buys aim"* · *"metabolize."* Wendell, 2026
 **scope** — matches the phrase shapes, not the judgement. Known false positives in the count:
 *"the land was not returned"* `ch5:253`, *"trade them for a prize"* `ch1:123`. A reader clears each
 site; the number is a ceiling, not a finding.
-**verdict — OPEN, and the row's real finding is about an instrument.**
+**verdict — OPEN. The row's finding about the instrument is closed: DL-97, 2026-09-10.**
 
-> **`light_verb.py` was built from this pattern and does not cover it.** Its docstring opens on
-> Wendell's *"land is another one of those nothing words."* Probed phrase by phrase:
+> **`light_verb.py` was built from this pattern and covered one phrase of five.** Probed before
+> and after the fix:
 >
-> | marked phrase | seen by `light_verb.py` |
-> |---|---|
-> | lands / landing | flagged (DEAD) |
-> | runs clean | **INVISIBLE** |
-> | trades X for Y | **INVISIBLE** |
-> | buys X | **INVISIBLE** |
-> | metabolize | **INVISIBLE** |
+> | marked phrase | before | after |
+> |---|---|---|
+> | lands / landing | flagged | flagged |
+> | runs clean | **INVISIBLE** | flagged |
+> | trades X for Y | **INVISIBLE** | flagged |
+> | buys X | **INVISIBLE** | flagged |
+> | metabolize | **INVISIBLE** | flagged |
 >
-> **One of five.** And it has been reporting a healthy DELEXICAL rate over the gap the whole time —
-> the same shape as `--verify` reporting *round-trip OK* over eight stale blocks for six weeks: **a
-> green number over an unlooked-at half.**
+> **Four separate causes and only one was a missing word.** `ABSTRACT` held generic English —
+> *praise*, *shame*, *fear* — and none of the book's own abstractions. `DEADV` covered motion and
+> placement but no transaction verb, so *buys* and *trades* had nothing to match. `metabolize` is
+> a *wrong* verb rather than a weak one and needed a third tier. And **`sites()` skipped every
+> sentence of three words or fewer** — *"Vigilance buys aim."* is three words, and so is *"That is
+> burnout."*, which is a P2 mark. That filter was hiding the book's flattest register for one hit
+> in 449 sentences.
+>
+> **The probe now runs on every `markpatterns.py` invocation and prints a REGRESSION line if the
+> count drops below 5 of 5.** The hole cannot close over silently again.
 
-**Widening `light_verb.py` is its own ruling** and was deliberately not taken inside this build
-*(panel, Q3)*. The row exists so the hole cannot close over again.
+The panel refused to widen the instrument inside the table build *(Q3)* and Wendell ruled it the
+next morning: *"fix the light_verb hole."* **The 59 sites in this row are still unswept** — the
+instrument now sees them, and seeing is not the same as ruling.
 
 ## P6 · repeats a line as a refrain
 
