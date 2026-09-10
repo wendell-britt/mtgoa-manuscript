@@ -174,7 +174,7 @@ A field that was never told produces the sentence the School of the Bridge exist
 
 **The myth: allyship means never causing harm.**
 
-It sounds like a floor. It functions as a ceiling. If your presence only counts as legitimate for as long as it has cost no one anything, then naming a term becomes a risk you cannot take, because a term might land badly, and something that lands badly is harm, and harm is disqualifying. So the terms stay unnamed. The staying stays weightless. The student stays (pleasant, reliable, and slowly becoming furniture) and calls the whole arrangement care.
+It sounds like a floor. It functions as a ceiling. If your presence only counts as legitimate for as long as it has cost no one anything, then naming a term becomes a risk you cannot take, because a term might go badly, and something that goes badly is harm, and harm is disqualifying. So the terms stay unnamed. The staying stays weightless. The student stays (pleasant, reliable, and slowly becoming furniture) and calls the whole arrangement care.
 
 Every move the School of the Bridge teaches runs downstream of that myth. The School of the Bridge replaces it with something a person can stand on, which is not *I have never caused harm* but *I can be told what I cost and stay in the conversation afterward.*
 
@@ -351,7 +351,7 @@ The alchemy moves through **humility into real curiosity**: you let the arrogant
 
 The Translator carries a secondary Dissatisfaction: the guilt of partiality. You have a position, and you translate from it. Is that translation or persuasion? Where does translation end and advocacy begin?
 
-This guilt is real, and it is also a distortion. **Partiality is not the same as betrayal.** A Translator who cannot tolerate their own partiality lands in a false neutrality that serves no one, least of all the field.
+This guilt is real, and it is also a distortion. **Partiality is not the same as betrayal.** A Translator who cannot tolerate their own partiality ends in a false neutrality that serves no one, least of all the field.
 
 The alchemy: *I stop apologizing for having a position I am translating from.* I let the guilt transmute into the clarity of legitimate partiality. I am a partisan who can also really hear.
 
@@ -395,7 +395,7 @@ The alchemy: *I stop announcing that the field is open and find out whether anyo
 
 The Field-Holder's secondary Dissatisfaction is **hothouse safety**, a field you keep so comfortable that nobody says the sentence that would cost them anything. It looks like health to everyone keeping it that way. The family dinner stays warm, the standup stays pleasant, the two of you stay kind with each other, the community meeting ends on time, and everyone leaves carrying what they walked in with. A field protected from charge stays small, and the people making it learn to bring less of themselves to match.
 
-The alchemy: *I stop protecting the field and start building one that can take weather.* You let the hard sentence land, and you stay, and the field turns out to hold. Now they know by experience what nobody could have told them, that the field survives contact. Each round of that raises what it carries next time. Hardy is a gardener's word. It has never described a plant somebody kept warm.
+The alchemy: *I stop protecting the field and start building one that can take weather.* You say the hard sentence, and you stay, and the field turns out to hold. Now they know by experience what nobody could have told them, that the field survives contact. Each round of that raises what it carries next time. Hardy is a gardener's word. It has never described a plant somebody kept warm.
 
 **From Presence to Structure**
 
@@ -581,9 +581,9 @@ You do not fire the Victim. Fire the part of you that counts and you will spend 
 
 Then put a limit on it, because an open ledger is the shadow's whole method. The Challenger's deadline is a breath. The Regent's is a cycle. The Diplomat's is smaller than either, and harder: *one sentence.* You get one sentence to name what this cost you, said once, to the field rather than about it, and then the others take their turn. A case would be longer. The accumulated column would be longer still. One sentence, and then silence, and then whatever they do with it. One sentence covers what they actually need to hear. It does not cover the case, and that is the point.
 
-It shows up in a single beat. Someone tells you that something you did landed badly on them. Something in you goes still and attentive; that is the Repairer arriving, on time, doing its job. Then the ledger opens underneath it, and what surfaces is not a defense. A defense you would catch. What surfaces is a balance. *After everything I have carried here.* You do not say it. You would never say it. What you say is *I hear you,* the ledger's most efficient instrument, because it accepts the words without admitting the entry. The conversation ends warm. Nothing has been received. On the narrow jurisdiction the same part returns the same accurate report and the answer changes: *that is true, I did that, and here is what it cost you*, with your own column left closed, in your pocket, entirely real and not currently the subject.
+It shows up in a single beat. Someone tells you that something you did hurt them. Something in you goes still and attentive; that is the Repairer arriving, on time, doing its job. Then the ledger opens underneath it, and what surfaces is not a defense. A defense you would catch. What surfaces is a balance. *After everything I have carried here.* You do not say it. You would never say it. What you say is *I hear you,* the ledger's most efficient instrument, because it accepts the words without admitting the entry. The conversation ends warm. Nothing has been received. On the narrow jurisdiction the same part returns the same accurate report and the answer changes: *that is true, I did that, and here is what it cost you*, with your own column left closed, in your pocket, entirely real and not currently the subject.
 
-*Bring one time somebody named an impact you had and you agreed with them out loud without anything landing. Name what the ledger produced before you spoke: the entry, not the feeling about it. Then write the one sentence you would have had to say instead. Two minutes to capture it as a BAR.*
+*Bring one time somebody named an impact you had and you agreed with them out loud without anything changing. Name what the ledger produced before you spoke: the entry, not the feeling about it. Then write the one sentence you would have had to say instead. Two minutes to capture it as a BAR.*
 
 ---
 
@@ -651,7 +651,7 @@ Most difficult conversations run deeper than their surface. Two people arguing a
 
 **Example:** A letting agent has spent ten minutes on whether the flat suits a family that size. Dele has two children and a housing voucher, and the agent has said neither out loud. Name the field: *I want to say what I think this is about. On the surface it is bedroom count. I think it may be the voucher, and I would rather we discussed that.* It costs you the agent's goodwill and you may want that next month. Dele decides what happens next.
 
-Name the Field makes no diagnosis. It makes an offering. You say *here is what I think is happening, and I want to know if I'm right.* The move either lands and the conversation opens, or the other person corrects you and you update. Either way, the field gets clearer.
+Name the Field makes no diagnosis. It makes an offering. You say *here is what I think is happening, and I want to know if I'm right.* The move either works and the conversation opens, or the other person corrects you and you update. Either way, the field gets clearer.
 
 **Why it matters:** Most conflicts stay stuck because they are playing at the wrong level, arguing about content while the real conflict is relational. Name the Field moves the conversation to the level where the actual problem lives.
 
@@ -711,7 +711,7 @@ A threat would sound like *do this or I leave.* This is an offering of informati
 
 **The test:** You named what you actually need from the agreement rather than a softer version, said it once, and left it alone for the people it concerns to answer. Their behavior may or may not change. If you named the real terms and nothing moved, that is information.
 
-The close lands clean when there's nothing left to add and you don't reach to fill the silence. You've said the terms, nothing has broken, and for once you let it stay said. The over-care version is the opposite: the talk thickens to molasses, every term softened until nothing's actually been said, the conversation kept intact like a museum piece and nobody moved an inch. Then the performed version: the words are out, but one hand stays on the door, ready to pull it open again the moment they frown.
+The close is clean when there's nothing left to add and you don't reach to fill the silence. You've said the terms, nothing has broken, and for once you let it stay said. The over-care version is the opposite: the talk thickens to molasses, every term softened until nothing's actually been said, the conversation kept intact like a museum piece and nobody moved an inch. Then the performed version: the words are out, but one hand stays on the door, ready to pull it open again the moment they frown.
 
 **Before you name them, ask:** Am I naming this because I know what the agreement requires, or because I'm hoping the other person will talk me out of it? If you're hoping they'll talk you out of it, you're not ready to name it yet. Wait. Sit with it. Come back when you mean it.
 
@@ -741,7 +741,7 @@ Staying does not mean insisting on access after someone has set a boundary. Resp
 
 **Example:** You argued for the restructure that moved Alan sideways at fifty-eight, and you were sure at the time. Six weeks on you can see what it cost him and that nobody asked him first. Repair: *I pushed for that change, I never asked what you wanted, and I read your options as narrower than they were. I am not asking you to be fine with it.* Name your part, name what you are not asking for, and stay in the meeting afterward.
 
-**The test:** You named what broke, named your part in it, named what you were not asking for, and stayed. Whether they can name it back to you accurately yet is a separate question, and often a later one. If it is still landing as entirely your fault, go back to step one.
+**The test:** You named what broke, named your part in it, named what you were not asking for, and stayed. Whether they can name it back to you accurately yet is a separate question, and often a later one. If it still reads as entirely your fault, go back to step one.
 
 **Working vs. performed:** When Repair works, there's a quality of ground underneath: the floor was always there, you just needed to clear the rubble to find it. When it's being performed, there's a quality of urgency. You want the discomfort to end more than you want the repair to actually happen.
 
@@ -791,7 +791,7 @@ These four are not a syllabus. Pick where you'll spend the close this week, and 
 
 When you close, the sentence and the weeks after it decide whether the terms hold, and the same three moves decide it in every domain.
 
-**Name what they stand to lose first.** A term that lands before they have heard you describe their side accurately gets answered as a charge, and an answer spent on themselves never reaches your terms. So say what the other camp is guarding, in one sentence, before you say what you require. You lose the clean drama of coming out with it and you get a field that can answer.
+**Name what they stand to lose first.** A term said before they have heard you describe their side accurately gets answered as a charge, and an answer spent on themselves never reaches your terms. So say what the other camp is guarding, in one sentence, before you say what you require. You lose the clean drama of coming out with it and you get a field that can answer.
 
 **Put the cost in the words, not in the delivery.** The account gets signaled long before it gets stated: the pause before you agree, the extra weight on *sure*, the tone that means somebody ought to ask. A signal costs nothing to send and nobody can answer one, because it leaves the field to work the number out alone, and it will work it out low. Say what this is costing, in figures, once. Nobody has ever renegotiated with a sigh.
 

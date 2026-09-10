@@ -32,8 +32,8 @@
 > cost.
 >
 > **3. What it costs.** Range, which sounds like a gift when we say it. We stop being simply
-> at home in any one school, including the one we came from, and I have watched that land as
-> loss in students who expected it to land as freedom. Those who came to be above the other
+> at home in any one school, including the one we came from, and I have watched that arrive as
+> loss in students who expected freedom. Those who came to be above the other
 > five have suffered as a result, and left, and one has come back.
 >
 > **4. What we do not teach.** Any of it. We do not teach the reading, the line, the keeping,
@@ -85,7 +85,7 @@ It wasn't sudden. It came on gradually, the way a table goes still when someone 
 
 The Sage said: *I see this and I'm staying.*
 
-What landed instead was: *I see this and I'm not on your side.*
+What they heard instead was: *I see this and I'm not on your side.*
 
 That's not what the Sage meant. The villagers had gotten used to wisdom as a form of leaving. The guru on the mountain. The teacher who has risen above it all. The sage who sees the game and therefore must be outside the game. When the Sage refused to leave, when the Sage said *I see all of it and I'm still here, still setting the table, still in relationship*, the villagers didn't know what to do with that. It didn't match the story they'd heard about what seeing meant.
 
@@ -109,7 +109,7 @@ No one meant for that to happen. Nobody said *go.* The village just lost the abi
 
 ---
 
-One kind of meeting runs a stated agenda of strategy over a real agenda of who gets to claim the victory. A circle where everyone processes together and one person uses the processing to stay at the center. A conversation where somebody draws a line, and the line lands correctly, and the drawing does more to prove someone right than to protect anyone.
+One kind of meeting runs a stated agenda of strategy over a real agenda of who gets to claim the victory. A circle where everyone processes together and one person uses the processing to stay at the center. A conversation where somebody draws a line, and the line is correct, and the drawing does more to prove someone right than to protect anyone.
 
 The place ran on three people doing four jobs each, and the org chart showed twelve. One of them left, and the postmortem found that the process had held up remarkably well.
 
@@ -274,7 +274,7 @@ That collapse has a signature and it runs in one direction far more often than t
 
 It runs the other way too, less often and just as expensively. You decide the group sits at one altitude, so you treat every conflict as that kind of conflict, and the boundary violation sitting in the middle of the table goes unnamed because your altitude read has already told you what kind of problem this must be.
 
-The discipline has no glamour in it: answer each question with its own evidence. What gets played, from behavior. What gets heard, from what has actually landed with these people before. Then act on the first and speak in the language of the second. Somebody in the power game may be a person of enormous developmental range having a bad week, and if your map can't hold that, your map is running you.
+The discipline has no glamour in it: answer each question with its own evidence. What gets played, from behavior. What gets heard, from what has actually reached these people before. Then act on the first and speak in the language of the second. Somebody in the power game may be a person of enormous developmental range having a bad week, and if your map can't hold that, your map is running you.
 
 ### *How to Know You're Actually Seeing*
 
@@ -325,7 +325,7 @@ The draw takes a situation you are already inside and already have a view about,
    settled the other one for you.
 
 3. Write one integrated sentence that holds both poles at once:
-   *"They are playing __________, and what has actually landed with
+   *"They are playing __________, and what has actually reached
    these people before is __________."*
 
 4. Sit 30 seconds. Notice whether you had evidence for the second half
@@ -450,7 +450,7 @@ The five modes run as a loop. Call it a commitment loop rather than a developmen
 2. **Switch.** Someone makes a strategy-game move, proposes a system, reaches for the process fix. The Game-Switcher checks: *is this actually a strategy problem? No: the problem is in the power game and we're dressing it as strategy.* You switch. You name the line. You name what's actually at stake. *(Fire/Anger)*
 3. **Serve.** The Diagnostician runs the whole time, without superiority and without checking out. The table moves from the power game back toward harmony, someone names the boundary and now everyone needs to feel heard. You adjust. You meet them there without dropping the line you just drew. *(Earth/Neutrality)*
 4. **Release.** Then the Liberator asks: *is this game mine? Am I the one who has to hold this boundary, or did I name it so someone else could?* You release. The boundary belongs to the group now, not to you. *(Wood/Joy)*
-5. **Return.** Then the Returner. You come back down. You sit with what you released. You don't stay up at the whole-board view looking down at what you just did. You come back to where they are and you say: *here's where I landed, and I'm staying.* Same game, same person, dignity intact for everyone. *(Water/Sadness)*
+5. **Return.** Then the Returner. You come back down. You sit with what you released. You don't stay up at the whole-board view looking down at what you just did. You come back to where they are and you say: *here's where I came out, and I'm staying.* Same game, same person, dignity intact for everyone. *(Water/Sadness)*
 
 The full loop takes a moment or a year, depending on the game. The sequence stays the same.
 
@@ -772,7 +772,7 @@ When you spend the view, the minute around it decides whether the table can use 
 
 ### The Tell
 
-None of the four markers asked why you named it. That question is real, and it lands harder on the Sage than on the five before, because a Sage who names the game so the table will know the game could be named has taken the second map out in public. So the answer goes in your log in writing, where a later you can read it back. When you log the rep, answer it:
+None of the four markers asked why you named it. That question is real, and it is harder on the Sage than on the five before, because a Sage who names the game so the table will know the game could be named has taken the second map out in public. So the answer goes in your log in writing, where a later you can read it back. When you log the rep, answer it:
 
 - **Direct Action.** Did you name their game so they could move inside it, or so they would know you had seen it?
 - **Raise Awareness.** Could the meeting use what you said, or could it only tell what you are?

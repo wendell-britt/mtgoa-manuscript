@@ -358,9 +358,9 @@ Fear that showed you what matters integrates as a value you hold rather than one
 
 In the Grow stage the feeling stops being something that happened *to* you and becomes something you've *learned* from.
 
-The shift runs from dissatisfaction (the feeling is overwhelming, confusing, raw) to neutral (the feeling landed, its message received). You're not trying to feel happy or fixed. You're reaching a baseline: the feeling no longer runs away with you.
+The shift runs from dissatisfaction (the feeling is overwhelming, confusing, raw) to neutral (the feeling finished, its message received). You're not trying to feel happy or fixed. You're reaching a baseline: the feeling no longer runs away with you.
 
-**In practice:** After you've understood what the feeling showed you, spend a moment letting your nervous system know: "I get it. The message landed."
+**In practice:** After you've understood what the feeling showed you, spend a moment letting your nervous system know: "I get it. You got through."
 
 #### Stage 5: Show Up
 **What it means:** Act aligned with the lesson. Execute the move.
@@ -426,7 +426,7 @@ Here are the five, each with the move that reaches it and what it hands you.
 
 **Anger completes into triumph.** Discharged, anger is heat that burns whoever is nearest; drawn and held, it completes into triumph. By triumph I do not mean triumph over anyone. I mean the plain solidity of a line that stayed. (If that word makes you flinch, notice it: a lot of us learned that any satisfaction in our own force means domination. A boundary that holds is not a boot on a neck.) The move is to draw one clean line and hold it. What it restores is agency: *I can act.* You can tell you are there when you set the limit without spending the next hour apologizing for it.
 
-**Joy completes into bliss.** Cashed in, joy evaporates; landed in, it completes into bliss, being in it instead of watching yourself do it. The move is to stop and be here for the good part. What it restores is participation: you can be in this, not just run it. You can tell you are there when you are not already narrating the moment to post about later.
+**Joy completes into bliss.** Cashed in, joy evaporates; stayed in, it completes into bliss, being in it instead of watching yourself do it. The move is to stop and be here for the good part. What it restores is participation: you can be in this, not just run it. You can tell you are there when you are not already narrating the moment to post about later.
 
 **Neutrality completes into peace.** Numbed, neutrality is checking out; opened to the whole, it completes into peace, the stillness that can hold two truths at once without picking. The move is to widen until you can see the whole field, then rest there. What it restores is rest: *I can rest.* You can tell you are there when you are not braced against anything and still fully awake.
 
@@ -446,7 +446,7 @@ Some moves replenish as they cost. You draw the boundary, and you walk away tire
 
 Some moves sustain. They do not refill you all at once, but they keep the field workable. A pause, a clean question, one honest sentence instead of the whole speech. Enough structure for the feeling to teach without flooding the field.
 
-Some moves cost. Sometimes they are still the right moves. Staying in the conversation is one. Softening anger so the truth can land may cost you. Turning sadness into protective action before you feel ready may cost you. The danger lies in pretending costly moves are renewable. Cost itself is fine, so long as you count it.
+Some moves cost. Sometimes they are still the right moves. Staying in the conversation is one. Softening anger so the truth can be heard may cost you. Turning sadness into protective action before you feel ready may cost you. The danger lies in pretending costly moves are renewable. Cost itself is fine, so long as you count it.
 
 This is where a lot of allyship burns people out. They keep spending non-renewable fuel and call it virtue.
 
@@ -493,7 +493,7 @@ The Five-Move Form runs in the body, not just the head.
 
 **Clean Up:** Not relief yet, but *recognition*. Your body says "yes, I feel this, and now I'm looking at it clearly."
 
-**Grow Up:** Your breathing deepens. Your system says "I understand. The message landed."
+**Grow Up:** Your breathing deepens. Your system says "I understand. You got through."
 
 **Show Up:** You feel resourced enough to move. Not manic. Grounded.
 
@@ -784,7 +784,7 @@ In practice: use the channel word, not the euphemism. *Anger* rather than *frust
 
 **Why it matters:** A reading you understand and then set down leaves you where you started with better vocabulary. This stage converts information into equipment. Fear that showed you what matters becomes a value you hold rather than one you argue for. Anger that showed you a line becomes a line you may hold. The feeling stops being something that happened to you and becomes something you own.
 
-In practice: say it to your own nervous system, plainly, in the seconds after you catch it. *I get it. The message landed.* Then finish the sentence with the equipment. *I can tell when a plan is being agreed to and not believed.* *I can hold a hard look without going away.*
+In practice: say it to your own nervous system, plainly, in the seconds after you catch it. *I get it. You got through.* Then finish the sentence with the equipment. *I can tell when a plan is being agreed to and not believed.* *I can hold a hard look without going away.*
 
 **Example:** You noticed months ago that your sister Jo is not disorganized, and that every family visit costs her something it does not cost the rest of you. Neither of you has a word for it. You were right. Being right bought her nothing. Say what you can do now, to her, once: *I can tell the difference between someone struggling and a weekend that is expensive for one person. I am going to say so at the table before I can prove it.* If you have misread it, she watches you misread it. What she does with it, including nothing, is hers.
 
@@ -829,7 +829,7 @@ When you say it, what you do next decides whether it helps the person or wounds 
 
 **Say it as yourself, not from above.** Watch the moment you shift from feeling it to pronouncing it. "What's really going on here is…" comes down from the bench, a verdict to defend against. "This is what I feel is happening" is the same reading offered as your own, something they can meet. The referee keeps you at eye level: name what's in play, don't sentence anyone.
 
-**Don't say it and leave.** Right after the words are out comes the riskiest second, when the fear grabs for the exit: soften it, make a joke, change the subject. Leaving strands the person with what you just handed them. This is the referee's purest move: it holds you to what you started when everything in you wants to quit the field. Staying present, without defending and without adding anything, lets the truth land as care instead of an ambush.
+**Don't say it and leave.** Right after the words are out comes the riskiest second, when the fear grabs for the exit: soften it, make a joke, change the subject. Leaving strands the person with what you just handed them. This is the referee's purest move: it holds you to what you started when everything in you wants to quit the field. Staying present, without defending and without adding anything, lets the truth be heard as care instead of an ambush.
 
 **Direct Action — the reading said to the person it is about**
 

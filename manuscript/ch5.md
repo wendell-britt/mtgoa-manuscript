@@ -159,7 +159,7 @@ The village, without the Regent, becomes a museum. Beautiful and empty and slowl
 
 You've been in organizations that said they were built on shared values and turned out to be built on whoever held the most power to define what "shared" meant.
 
-You've been in spaces where "tradition" was how the people who came before you protected what they'd built, at the expense of the people who came after. Where "this is how we've always done it" arrived as a sentence specifically designed to stop your questions from landing. Where the organization's stated purpose and its actual purpose had separated without anyone announcing it, and everyone who pointed that out got managed out, burned out, or simply stopped caring.
+You've been in spaces where "tradition" was how the people who came before you protected what they'd built, at the expense of the people who came after. Where "this is how we've always done it" arrived as a sentence specifically designed to stop your questions from going anywhere. Where the organization's stated purpose and its actual purpose had separated without anyone announcing it, and everyone who pointed that out got managed out, burned out, or simply stopped caring.
 
 You came out of those spaces with a principle: you weren't going to build something that way. You were going to build something fluid, horizontal, alive. You were going to let the structure evolve as the people evolved. Hold the structure lightly.
 
@@ -534,7 +534,7 @@ You do not fire the Fixer/Healer. Fire the part of you that notices damage and y
 
 Then put a number on it, because open-ended repair runs the shadow's entire method. The Regent works in years, so the deadline is not a breath: it is a count. *One cycle. Name what changes in that cycle, and I will do the work. At the end of it I am carrying this either way.* One cycle is enough for the question actually asked. It is not enough for the other one, and it was never meant to be.
 
-It shows up in a single beat. Someone asks you to take the role: chair the meeting, hold the practice, put your name on it. Something in you says yes before you do; the inheritance lands, on time, doing its job. Then the condition opens: *not until the charter gets rewritten, not while the last person's mess is still in it, not with the funding the way it is.* Each is true. Each is repairable. Two years on, the charter has been rewritten twice, the role still has no name, and no list anywhere names the person doing all of it, because the job is a shape a body makes, not a role anyone can take over. On the narrow jurisdiction the same part returns the same report and the answer changes: *here is what is broken, here is what I will fix in the first year, I am taking it now.* Same rigor. Same eye for damage. What changed is what you gave it authority over.
+It shows up in a single beat. Someone asks you to take the role: chair the meeting, hold the practice, put your name on it. Something in you says yes before you do; the inheritance arrives, on time, doing its job. Then the condition opens: *not until the charter gets rewritten, not while the last person's mess is still in it, not with the funding the way it is.* Each is true. Each is repairable. Two years on, the charter has been rewritten twice, the role still has no name, and no list anywhere names the person doing all of it, because the job is a shape a body makes, not a role anyone can take over. On the narrow jurisdiction the same part returns the same report and the answer changes: *here is what is broken, here is what I will fix in the first year, I am taking it now.* Same rigor. Same eye for damage. What changed is what you gave it authority over.
 
 *Bring one inheritance you have been repairing instead of accepting, a role you keep improving the conditions for, a practice you hold together personally because the structure will not. Name which move your Fixer is running: postponing the commitment, or substituting for the structure. Then name the cycle you would give it. Two minutes to capture it as a BAR.*
 
@@ -549,7 +549,7 @@ The one described above is the generic Fixer/Healer. Yours has its own shape, an
 **2 · TALK TO IT.** Greet it, then ask, and let it answer.
 
 — *What are you protecting by keeping this open?*
-— *What happens to you if I commit before the repair lands?*
+— *What happens to you if I commit before the repair is done?*
 
 **1 · BE IT.** Speak as *I*, one paragraph, and say what you have to say about showing up as an ally.
 

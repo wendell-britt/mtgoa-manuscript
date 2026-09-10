@@ -61,7 +61,7 @@ without a new ruling.
 
 **Vulnerable Child** — The eighth gate — the destination behind all seven gates, holding the actual gift. Not the child you were, but the capacity you had before you learned to override it. The mode question (grow/learn/play/explore) is the VC's way of asking what it needs. *[Ch1] — See also: Gate, Oracle Card*
 
-**Wake Up Failure** — When the Skeptic's doubt lands at the reader's capacity (\"I'll get this wrong\") rather than at the situation. The doubt becomes a spell cast at the self instead of a question asked of the moment. *[Ch3] — See also: Skeptic, EA*
+**Wake Up Failure** — When the Skeptic's doubt aims at the reader's capacity (\"I'll get this wrong\") rather than at the situation. The doubt becomes a spell cast at the self instead of a question asked of the moment. *[Ch3] — See also: Skeptic, EA*
 
 **WAVE** — A short somatic practice: Welcome, Acknowledge, Validate, Exhale. Use it when charge is already present in your body, especially during Open Up; it can support Wake Up and Clean Up as well. *[Ch3] — See also: Emotional Alchemy, Five-Move Form*
 

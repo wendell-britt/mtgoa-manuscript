@@ -10,7 +10,7 @@ A level sits above that one, and the fastest way to it is working with me direct
 
 **The deck.** A hundred and twenty cards, so the moves sit in your hands instead of on a page. If Chapter 9 left you looking for somewhere to put the work, the deck is where it goes.
 
-***Igniting Joy*.** The other book, on building a healthier and more fun relationship with anger. Appendix D borrows from it. If the Shaman chapter landed hardest, read it next.
+***Igniting Joy*.** The other book, on building a healthier and more fun relationship with anger. Appendix D borrows from it. If the Shaman chapter hit hardest, read it next.
 
 **masteringallyship.com.** All of it lives here.
 

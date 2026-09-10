@@ -385,7 +385,7 @@ At its best it is the finest sensor you own, and at the Architect's altitude it 
 
 The distortion is how fast it hands the feeling off. Feeling it was never the issue.
 
-The move goes like this. Something lands. Before it has finished landing (before you could name the channel, before you could say where in your body it went) it has already become a design problem. The heat becomes a proposal. The dread becomes a risk register. The sadness becomes a retrospective. Every one of those makes a good artifact. That is the trap. The conversion produces useful work, on a real timeline, that other people thank you for. Nobody in the meeting sees a person routing a feeling around themselves. They see somebody who is fast.
+The move goes like this. Something arrives. Before it has finished arriving (before you could name the channel, before you could say where in your body it went) it has already become a design problem. The heat becomes a proposal. The dread becomes a risk register. The sadness becomes a retrospective. Every one of those makes a good artifact. That is the trap. The conversion produces useful work, on a real timeline, that other people thank you for. Nobody in the meeting sees a person routing a feeling around themselves. They see somebody who is fast.
 
 <!-- MARGINALIA -->
 > *They see somebody who is fast. I was somebody who was fast.*
@@ -400,9 +400,9 @@ The move goes like this. Something lands. Before it has finished landing (before
 <!-- /MARGINALIA -->
 
 
-In fact the signal never got read. It got spent. A feeling converted at that speed does not deliver its information: it delivers its energy, a different substance altogether, and the design absorbs the energy and calls it urgency. You end up with an intervention sized to the intensity of what you felt rather than to the shape of what is broken. That explains why the Architect's proposals sometimes land as enormous (three-quarter restructures aimed at a two-degree problem) and the Architect cannot understand why the table flinches. The table responds to the charge underneath the analysis.
+In fact the signal never got read. It got spent. A feeling converted at that speed does not deliver its information: it delivers its energy, a different substance altogether, and the design absorbs the energy and calls it urgency. You end up with an intervention sized to the intensity of what you felt rather than to the shape of what is broken. That explains why the Architect's proposals sometimes read as enormous (three-quarter restructures aimed at a two-degree problem) and the Architect cannot understand why the table flinches. The table responds to the charge underneath the analysis.
 
-The tell is a sequence, and it is easy to check. When something goes wrong, which arrives first: the name of what you felt, or the name of what should change? For most people the feeling arrives first and the analysis takes hours. At this altitude the order inverts. You will have a leverage point before you have a channel. Ask yourself what you felt the last time a decision landed badly and you will find a fully formed account of the incentive failure and no answer at all to the actual question.
+The tell is a sequence, and it is easy to check. When something goes wrong, which arrives first: the name of what you felt, or the name of what should change? For most people the feeling arrives first and the analysis takes hours. At this altitude the order inverts. You will have a leverage point before you have a channel. Ask yourself what you felt the last time a decision went badly and you will find a fully formed account of the incentive failure and no answer at all to the actual question.
 
 Now for why this daemon stands where it stands, in a book about allyship.
 
@@ -436,7 +436,7 @@ It shows up in a single beat. Someone says the sentence in the meeting that writ
 
 On the narrow jurisdiction the same sensor gets the same six seconds and returns something you can use twice: *Fire. Chest. This one is about the sentence, not the intake form.* Then you say the sentence back (the small, unarchitected, in-the-meeting sentence) and the restructure still gets built on Thursday, sized correctly this time, because by Thursday you know what it is for. Same instrument. Same rigor. What changed is what you gave it authority over.
 
-*Bring one design you shipped fast: a fix, a process, a proposal that arrived within an hour of something landing wrong. Reconstruct the order: what did you build, and what were you feeling before you built it? If you cannot recover the feeling, that is the finding, not a failure. Name the channel now, late, from memory. Then name the size of the fix against the size of the problem. Two minutes to capture it as a BAR.*
+*Bring one design you shipped fast: a fix, a process, a proposal that arrived within an hour of something going wrong. Reconstruct the order: what did you build, and what were you feeling before you built it? If you cannot recover the feeling, that is the finding, not a failure. Name the channel now, late, from memory. Then name the size of the fix against the size of the problem. Two minutes to capture it as a BAR.*
 
 ---
 
@@ -647,7 +647,7 @@ Each Tell targets the Architect's signature failure: the design built for the si
 
 The Architect is a Face, but it is also a move you can run, which means you are not holding an archetype. You are holding a practice: the Five-Move Form.
 
-The five moves are this chapter, in order, with Clean Up in its own slot rather than on reflex a quarter-second after the signal lands.
+The five moves are this chapter, in order, with Clean Up in its own slot rather than on reflex a quarter-second after the signal arrives.
 
 ### Where the Daemon Bites
 
@@ -667,7 +667,7 @@ Where it bites is Clean Up. Selecting a transformation is a real move with a rea
 
 Take the move called **Forge the Anger**, the Architect's version of Clean Up. Sit with how uncomfortable it is that the move asks you to choose at all. The answer the mechanism keeps arriving at is translate: heat into structure, because structure is the one output this Face trusts. The move's job is to make that choice happen in the open, once, where you can watch yourself make it.
 
-Run it once, on something real. Bring the last decision that landed badly on people who had no say in it. Wake Up: which mode caught it, and what was it detecting. Open Up: six seconds, channel and location, before anything gets modeled. Clean Up: now choose, deliberately, does this get transcended, translated, or neutralized, and why that one. Grow Up: name the capability that gets stronger in someone else if you build this. Show Up: size the intervention against the problem rather than against the charge.
+Run it once, on something real. Bring the last decision that went badly for people who had no say in it. Wake Up: which mode caught it, and what was it detecting. Open Up: six seconds, channel and location, before anything gets modeled. Clean Up: now choose, deliberately, does this get transcended, translated, or neutralized, and why that one. Grow Up: name the capability that gets stronger in someone else if you build this. Show Up: size the intervention against the problem rather than against the charge.
 
 Five moves, one pass, ninety seconds, six of which are the only ones your Emotional Body will fight you for.
 

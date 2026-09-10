@@ -133,7 +133,7 @@ material is the Face in distortion, and Chapter 2 holds the two apart on purpose
 each: Shadow, distortion, cost. Carolyn Elliott's term. *Ch 2 §1; Ch 8 §1*
 
 **Shaman, the** — The Face that feels what is happening before anyone can name it. Means:
-somebody said the unsaid charge, and it landed. *Ch 3*
+somebody said the unsaid charge, and it was heard. *Ch 3*
 
 **Skeptic, the** — The daemon that doubts so you do not get fooled. Chapter 4 calls it the auditor, where it rules your reading inadmissible. *Ch 2 §6; Ch 4 §5*
 

@@ -87,7 +87,7 @@ People mistake a practice for a personality type, a morning routine, or a values
 
 A practice is what you actually do when something hard happens.
 
-That's the only definition that matters. What you believe about allyship is a separate question. What you intend to do when you're calm is a separate question. This one names what you do when you're activated, when your mother calls, when the group chat erupts, when someone says something that lands wrong and you have to decide in real time whether to say something or say nothing. The practice happens when it costs you something to do it.
+That's the only definition that matters. What you believe about allyship is a separate question. What you intend to do when you're calm is a separate question. This one names what you do when you're activated, when your mother calls, when the group chat erupts, when someone says something that stings and you have to decide in real time whether to say something or say nothing. The practice happens when it costs you something to do it.
 
 You have been learning what to do in those moments. The Five-Move Form. The six Faces. The emotional channels. These aren't concepts to understand: they're moves to make. Like any moves, they require practice, the doing kind, repeated, not the same as having read about them.
 
@@ -229,7 +229,7 @@ You have walked all six Faces.
 
 Now the question, what comes next?
 
-The question at the end of this book lands simpler and harder than which face you should become next. It comes to this: *what game do you want to play, and what are you going to build?*
+The question at the end of this book is simpler and harder than which face you should become next. It comes to this: *what game do you want to play, and what are you going to build?*
 
 Ascending belongs to somebody else's book, and so does perfecting. This one walks out into the village with everything you've learned and makes something real.
 
@@ -334,7 +334,7 @@ That's what the walk feels like. Not ascending. Circling. Each circle goes a lit
 
 Every draft of this book was the walk, not a step toward it. You will plan, then execute, then find the plan was a draft. Every detour that feels like a detour is another stretch of the same road.
 
-The Form already taught you how to do this. Wake up: notice what happened. Open up: let the failure land at full strength before you start explaining it. Clean up: name what didn't work. Grow up: ask what you were wrong about. Show up: do the next version. Then come back: notice what shifted. What you learned.
+The Form already taught you how to do this. Wake up: notice what happened. Open up: let the failure run at full strength before you start explaining it. Clean up: name what didn't work. Grow up: ask what you were wrong about. Show up: do the next version. Then come back: notice what shifted. What you learned.
 
 ---
 
@@ -348,7 +348,7 @@ Here's what I've noticed about my own fear of building: it rehearses. The fear w
 
 Rehearsing failure and doing it feel identical from inside your head. Only one of them produces information. The rehearsal feels like work. The actual attempt runs simpler and scarier. Put it in front of someone and see what happens.
 
-The Form doesn't end when you leave the book. It runs through your actual life. Wake up: notice what's happening inside you when your mother calls, when the group chat erupts, when you read the news and feel it land. Open up: stay with it before you do anything with it. Clean up: name the channel and let it run to completion. Grow up: ask who you are willing to become. Show up: act from that place, not from the reactive place the old habit would have sent you to. Then come back: notice what happened, what shifted, what you learned.
+The Form doesn't end when you leave the book. It runs through your actual life. Wake up: notice what's happening inside you when your mother calls, when the group chat erupts, when you read the news and feel it hit. Open up: stay with it before you do anything with it. Clean up: name the channel and let it run to completion. Grow up: ask who you are willing to become. Show up: act from that place, not from the reactive place the old habit would have sent you to. Then come back: notice what happened, what shifted, what you learned.
 
 The Form runs through your parenting. Through your partnership. Through your work. Through the group chat and the town hall and the election and the pandemic and whatever comes next. It's how you walk through the world.
 
@@ -463,7 +463,7 @@ The five modes describe who you are while you work. Review, Discern, Design, Bui
 
 In practice: write the sentence, then delete every clause that is there to make the problem sound bigger than it is. What survives is usually one group of people, one situation that keeps recurring, and one outcome that keeps not happening. Take the sentence to somebody living with the problem and ask what you missed. If you cannot say who it is for, or the people named say you have named it wrong, you have a topic rather than a problem.
 
-**Example:** *I want to help people be better allies* is a topic. *People who have done the reading still default to their home face the moment something lands hard, and there is nowhere to practice the difference* is a problem. The second tells you what to build by Friday. Then cut once more, to whose problem: *the two friends who stopped saying anything true at dinner after the argument in March.* Now a stranger can repeat it back, and you know whose Friday you are building for.
+**Example:** *I want to help people be better allies* is a topic. *People who have done the reading still default to their home face the moment something stings, and there is nowhere to practice the difference* is a problem. The second tells you what to build by Friday. Then cut once more, to whose problem: *the two friends who stopped saying anything true at dinner after the argument in March.* Now a stranger can repeat it back, and you know whose Friday you are building for.
 
 **The test:** A stranger can repeat your sentence back to you, and somebody affected by it can recognize their problem without having to translate you first. They may correct the cut. Let them.
 
@@ -545,7 +545,7 @@ The practice is the loop, and the list is only what the loop leaves behind. Runn
 
 Handing over the pen assumes you had the pen. I have had it more often than most people get to, and I cannot tell you how to get one: that is the same gap Chapter 1 left open and I have not closed it since. What I can tell you is that the five moves run smaller and slower without it, and that putting the work in front of one person is the move that needs no permission at all.
 
-This book has cost me all five of these. *Cut the field*: it is not about allyship in general; it is about the gap between people who understand the theory and people who can run it when something lands hard. *Put it in front of one person*: the course went in front of hundreds of people before it was good, and the ones who did not finish are the reason this exists. *Take the note that costs you the design*: a stack of chapters written at the applause counter did not get revised, they got thrown out. *Run it again with one thing changed*: every version that failed became the next one with something named and different in it. *Hand someone the pen*: the point is for this to live in more hands than mine, which means whoever runs it later gets to change it, not just repeat it.
+This book has cost me all five of these. *Cut the field*: it is not about allyship in general; it is about the gap between people who understand the theory and people who can run it when something stings. *Put it in front of one person*: the course went in front of hundreds of people before it was good, and the ones who did not finish are the reason this exists. *Take the note that costs you the design*: a stack of chapters written at the applause counter did not get revised, they got thrown out. *Run it again with one thing changed*: every version that failed became the next one with something named and different in it. *Hand someone the pen*: the point is for this to live in more hands than mine, which means whoever runs it later gets to change it, not just repeat it.
 
 You don't have to write a whole book about it. You have to build your version of what this book is for the specific problem you want to solve for the people you want to help. That's the Player's move.
 
@@ -586,7 +586,7 @@ Six Faces and thirty moves are worth very little until you can look at something
 
 So here are six moments. Read each one and write down two answers before you go on: which face the moment needs, and which move you would play. In the margin is fine, and fast beats careful, since the reads at the end are only worth something to you if you have already committed to an answer you can be wrong about.
 
-**One.** A director says something in a team meeting that lands hard on the newest person at the table. It is not ambiguous and it is not deniable. The person goes still, says nothing, and the meeting moves to the next agenda item in about four seconds. You have the standing to speak, and you are aware, while the four seconds are passing, that speaking will cost you something with the director.
+**One.** A director says something in a team meeting that the newest person at the table takes hard. It is not ambiguous and it is not deniable. The person goes still, says nothing, and the meeting moves to the next agenda item in about four seconds. You have the standing to speak, and you are aware, while the four seconds are passing, that speaking will cost you something with the director.
 
 **Two.** The volunteer group you helped start has lost its third coordinator in fourteen months. All three left the same way, apologetic and worn through, saying some version of *I couldn't keep up*, and all three times you covered until somebody new said yes. Somebody new has just said yes. You like them, and you can already see the shape of the next fourteen months.
 

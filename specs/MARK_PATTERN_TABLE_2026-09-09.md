@@ -52,7 +52,7 @@ also removed an editorial review that lives in `appendices/` and is not in the b
 | **P2** | concludes for the reader — the verdict stamp | — | — | — | **UNSEARCHABLE** |
 | **P3** | manages the reader's path — the signposts | 23 | 9 | **15** | **OPEN** |
 | **P4** | undercuts itself — the hedges | 2 | 0 | **1** | **CLEAR** · DL-88 |
-| **P5** | gestures with a nothing-word — the vague verb | 59 | 13 | **49** | **OPEN** |
+| **P5** | gestures with a nothing-word — the vague verb | 20 | 7 | **14** | **SWEPT** · DL-98/99 |
 | **P6** | repeats a line as a refrain until it stops carrying weight | 1 | 0 | **0** | **CLEAR** |
 | **P7** | construction scaffolding left in the reader's text | 0 | 0 | **0** | **RULED** · DL-84 |
 
@@ -129,7 +129,7 @@ the anecdote instead of ending it."* **P4 is the first of the seven patterns he 
 contact for control"* · *"vigilance buys aim"* · *"metabolize."* Wendell, 2026-09-02: *"'lands warm'
 — what the fuck does landing warm mean? Land is another one of those nothing words."*
 **search** — the six marked phrase shapes and their inflections. `markpatterns.py P5`.
-**count** — **59 in ch1–ch9 · 13 apparatus · 49 unmarked.**
+**count** — **20 in ch1–ch9 · 7 apparatus · 14 unmarked**, after DL-98 and DL-99. Before the sweep: 59 · 13 · 49.
 **scope** — matches the phrase shapes, not the judgement. Known false positives in the count:
 *"the land was not returned"* `ch5:253`, *"trade them for a prize"* `ch1:123`. A reader clears each
 site; the number is a ceiling, not a finding.
@@ -158,8 +158,18 @@ site; the number is a ceiling, not a finding.
 > count drops below 5 of 5.** The hole cannot close over silently again.
 
 The panel refused to widen the instrument inside the table build *(Q3)* and Wendell ruled it the
-next morning: *"fix the light_verb hole."* **The 59 sites in this row are still unswept** — the
-instrument now sees them, and seeing is not the same as ruling.
+next morning: *"fix the light_verb hole."* **Then he swept the row**: *"sweep the 59 P5 sites"*,
+and on being shown that the row is 59 sites while the word `land` is 103, *"all of it."*
+
+**DL-98 took the 29 sites carrying a manner word. DL-99 took the reception sense across the rest
+of the book, 41 more. `land` went 103 → 26, and the 26 are locative** — a cost landing on the
+people a design is for, a feeling landing in the body, the skeeball ball, and the book quoting
+the hedge it criticises. **Sweeping the row alone would have left 44 standing**, which is the
+mistake DL-95 made with `read`. The row's boundary is not the word's boundary.
+
+**It did not close P6, and the refrain check said so within the minute.** P6's last site was
+*"The message landed."* ×3; all three became *"You got through."* — **a different refrain of the
+same length.** The count did not move. See P6's row.
 
 ## P6 · repeats a line as a refrain
 
@@ -176,8 +186,16 @@ search returns 37, topped by *"RECEIPT. Sit thirty seconds."* twelve times — a
 
 - **The named instance was already fixed.** *"The world is not fine."* stood three times when
   Wendell marked it. **It stands twice now**, and nobody recorded that against P6.
-- The one remaining site is `ch3:363`, *"The message landed."* ×3 — **in a marked chapter, and its
-  verb is P5 vocabulary.** It belongs to P5's reader pass, not to a second sweep.
+- The one remaining site is `ch3:363`, and on 2026-09-10 it changed words without changing shape.
+  It was *"The message landed."* ×3; DL-99 rewrote all three as *"You got through."* — **a
+  different refrain of the same length, and this check flagged it within the minute.** Recorded
+  rather than filtered: adding it to the apparatus list would be tuning a counter to make a
+  number go green, which is the evasion this repo already has on file.
+- **The open question, and it is one sentence.** All three are the same taught line, said at the
+  same stage of the same model — the reader is meant to learn it, the way they learn *"Two
+  minutes to capture it as a BAR."* By the panel's own rule a form the reader recognises is not a
+  refrain losing weight. **If that holds, the three are apparatus and the row is CLEAR on the
+  same ground it already stood on.** If it does not, the three need to differ. Wendell's.
 
 **No word-frequency row exists, and that is a ruling, not an omission.** Today's `the read` finding
 — one word 23 times in one chapter — looked like P6 at word scale. It is not, and the measurement
@@ -212,11 +230,11 @@ refusal was the panel's and Wendell overruled it the next morning.
 
 ## One thing this table did not catch, and it matters
 
-**P5's marked vocabulary and the `read` ruling collide.** The one site P6 still holds is `ch3:363`,
-*"The message landed."* ×3 — its verb is P5 vocabulary. And DL-96 moved 43 nouns on 2026-09-10
-while `lands` sat inside several of the same sentences untouched, because **the rows are searched
-one at a time and a sentence can be on two rows.** Nothing here notices that. It is a reader's job
-and it is written down rather than solved.
+**The rows are searched one at a time and a sentence can sit on two rows. Nothing here notices
+that.** P6's last site was a P5 sentence. DL-96 moved 43 `read` nouns while `lands` sat inside
+several of the same sentences untouched, because that was a different row. **The same limit is
+what nearly made DL-98 stop at 59 sites when the word ran to 103** — the row's boundary is not
+the word's boundary, and only Wendell's *"all of it"* caught it. Written down rather than solved.
 
 ## What is waiting on Wendell
 

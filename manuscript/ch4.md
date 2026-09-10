@@ -41,7 +41,7 @@
 > what you thought. What you felt, and where. If you cannot, the School of the Body takes
 > first-years every season and we will still be here.
 >
-> **6. A word from the Head.** The lines land now. What I am working is the four seconds after
+> **6. A word from the Head.** The lines hold now. What I am working is the four seconds after
 > a line drawn on somebody else's behalf, when they go on living in the place where I said it
 > and I do not.
 >
@@ -298,7 +298,7 @@ Most people skip this stage, which is what leaves most confrontation messy, reac
 
 **Stage 4: Stand.** You stay with what you said while the silence does its work.
 
-The sequence used to skip this stage, and skipping it lets a reader execute every other stage correctly and still end up with nothing drawn. Here is what happens in the seconds after a clean line lands. Nobody speaks. The temperature in the conversation changes. Somebody looks at the table. Whatever charge you carried has now transferred to the space between you and the other person, where it sits unclaimed, and the fastest way to make it stop is to take it back.
+The sequence used to skip this stage, and skipping it lets a reader execute every other stage correctly and still end up with nothing drawn. Here is what happens in the seconds after a clean line is drawn. Nobody speaks. The temperature in the conversation changes. Somebody looks at the table. Whatever charge you carried has now transferred to the space between you and the other person, where it sits unclaimed, and the fastest way to make it stop is to take it back.
 
 Taking it back has a specific sound. *I mean, obviously there's context.* *I'm probably overreacting.* *I just wanted to flag it.* Every one of those offers a repair for a rupture that has not happened yet, and offering it converts the line into a preference. Nothing about the retraction feels like retraction from the inside. It feels like being reasonable.
 
@@ -382,7 +382,7 @@ Total time: thirty seconds.
 
 Most people either say nothing and resent the person for weeks, or say too much and become the person who made the meeting about them. The Challenger does the thirty-second version.
 
-**This is the rep. This week, run it once.** Not the hardest line you're avoiding: the next real one. A meeting, a thread, a table where something crosses and you'd normally let it go. Feel the charge, aim, act in one sentence, exit. Thirty seconds. You don't need it to land well. You need it to *exist.*
+**This is the rep. This week, run it once.** Not the hardest line you're avoiding: the next real one. A meeting, a thread, a table where something crosses and you'd normally let it go. Feel the charge, aim, act in one sentence, exit. Thirty seconds. You don't need it to go well. You need it to *exist.*
 
 *You drew a line in the Village, or you watched yourself not. Before the story sets: what was the charge in your body, what did you actually say (or swallow), and what did it cost? Two minutes to capture it as a BAR, while it's still warm.*
 
@@ -428,7 +428,7 @@ Challenger energy gets used as control. Power asserted over people who have less
 
 Here is the conclusion that tends to follow. I put it as a proposition rather than a diagnosis, because only you know whether it is yours: *the clean no is what oppressors do. Drawing lines is how power protects itself. My job is to listen, to make space, to find common ground, not to draw lines.*
 
-If that conclusion is running, it produces a consistent result. Common ground gets found, reliably and skillfully. Nothing hard gets said. A comment goes by. A joke lands wrong and the moment closes over it. The violations continue anyway, because nothing in the conclusion ever reached the person committing them.
+If that conclusion is running, it produces a consistent result. Common ground gets found, reliably and skillfully. Nothing hard gets said. A comment goes by. A joke goes wrong and the moment closes over it. The violations continue anyway, because nothing in the conclusion ever reached the person committing them.
 
 
 ---
@@ -485,7 +485,7 @@ The naming does not remove the fear. The naming separates the past from the pres
 
 Find the voice. Give it a name. Say the name out loud.
 
-*You named it, or you tried. Before the name landed, while it was still just running: what channel was it? Anger, fear, sadness, joy, neutrality: one word, from your body, not your analysis. What did the naming free?*
+*You named it, or you tried. Before the name took, while it was still just running: what channel was it? Anger, fear, sadness, joy, neutrality: one word, from your body, not your analysis. What did the naming free?*
 
 ---
 
@@ -519,7 +519,7 @@ Here is the tell that separates the auditor from the judge: the auditor finishes
 
 Now here is why this daemon stands where it stands, in a book about allyship. Everything you have learned in this chapter runs on a charge you trust enough to aim. Charge, Aim, Act, Stand, Exit: the whole sequence assumes Stage 1 got permission to count. The Skeptic can end the practice between Stage 1 and Stage 2, not by arguing that the line is wrong but by ruling that you have not established the line is yours to draw. It does not put the fire out, either. The fire burned. You felt every degree of it. You filed it instead of aiming it, and you carried it home.
 
-The cost lands twice: you lose the line, and the person who needed the line ends up somewhere nobody drew one, where the crossing went unremarked, and everyone present, the one who crossed included, learned that it was uncrossable in principle and crossable in fact. They did not need your certainty. They needed the sentence.
+The cost falls twice: you lose the line, and the person who needed the line ends up somewhere nobody drew one, where the crossing went unremarked, and everyone present, the one who crossed included, learned that it was uncrossable in principle and crossable in fact. They did not need your certainty. They needed the sentence.
 
 The chapter's myth also lives here, because the Skeptic's favorite exit wears a virtue. *I should defer to the people who actually know.* Said out loud that sounds like humility, and sometimes it is exactly that. Run it back honestly and you usually find the audit's verdict in better clothes: someone with more standing gets located, the charge gets handed over, and the leaving looks like respect. The myth is that allyship is following the right people. Following the right people is how you learn what to aim at. It is not the aim. Nobody on the list of people you defer to sat in that meeting, at that second, feeling what you felt. That second was yours or it was nobody's.
 
@@ -631,7 +631,7 @@ In practice: Next time you're in a meeting and something happens that you can fe
 
 **Why it matters:** Aim runs on the charge at full size. Talk it down and you aim the smaller charge. Spend it on arrival and you never aim at all, because the first sentence available is aimed at whoever is nearest and the fire is not reliably about them. Holding it unspent is uncomfortable in a specific way. The pressure arrives feeling like urgency, and urgency is the most convincing wrong reason to say something.
 
-In practice: when the charge lands, start a clock instead of a sentence. Thirty seconds, and you may think about anything except what you are going to say. Where it sits in your body. How big it is. What it is pointing at. If the size drops while you are watching it, you did the talking down, and the reading you now have is a reading of the smaller charge.
+In practice: when the charge arrives, start a clock instead of a sentence. Thirty seconds, and you may think about anything except what you are going to say. Where it sits in your body. How big it is. What it is pointing at. If the size drops while you are watching it, you did the talking down, and the reading you now have is a reading of the smaller charge.
 
 **Example:** Tomas asks the council for the hearing date in writing and the reply says it will be sorted. His housing claim runs on that date. The charge in you is at an eight and two sentences arrive in the first three seconds, both aimed at the officer who answered, who did not build this. Say neither for thirty seconds. The size holds and what it points at moves. What you are actually carrying is that nobody in the chain has asked what the date is for. That one is drawable.
 
@@ -645,7 +645,7 @@ In practice: when the charge lands, start a clock instead of a sentence. Thirty 
 
 **What it is:** Name which channel you are carrying before you open your mouth. Fire or Water. A line was crossed, or something was lost. You are going to speak either way, and which one you are actually carrying decides what comes out.
 
-**Why it matters:** Cruelty in a confrontation is usually a mismatch rather than a decision. Anger delivered as anger lands hard and lands clean, because Fire asks for agency and the other person can hand agency over. Hurt delivered as anger lands as an attack, and nothing they do can satisfy it, because sadness, the Water underneath it, wanted to be met and you asked to win instead. So they defend, you escalate, and afterward you cannot say what you were actually after. Naming the channel first does not soften the content. It aims it.
+**Why it matters:** Cruelty in a confrontation is usually a mismatch rather than a decision. Anger delivered as anger is hard to hear and easy to answer, because Fire asks for agency and the other person can hand agency over. Hurt delivered as anger is heard as an attack, and nothing they do can satisfy it, because sadness, the Water underneath it, wanted to be met and you asked to win instead. So they defend, you escalate, and afterward you cannot say what you were actually after. Naming the channel first does not soften the content. It aims it.
 
 In practice: before the conversation, finish one of two sentences out loud. *A line was crossed and I want it to stop.* Or: *something was lost and I want you to know what it cost.* Say whichever is actually running when you get there. The second sentence costs more to say, and it is the only one that can be answered.
 

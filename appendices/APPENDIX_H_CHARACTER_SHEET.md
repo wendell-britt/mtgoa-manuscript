@@ -101,7 +101,7 @@ and how much of it names a specific person or a specific week.
 >
 > **Inheritance.** *We do not make a scene.* From my father's house. **Break.**
 >
-> **Harm I keep fixing.** Rewriting other people's emails so they land softer. The
+> **Harm I keep fixing.** Rewriting other people's emails so they read softer. The
 > condition producing it: nobody has told the sender that their tone reads as an order.
 >
 > **Walk-away price.** A second reorg that cuts the junior roles without asking the people

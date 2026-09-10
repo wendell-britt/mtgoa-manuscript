@@ -706,3 +706,67 @@ claims:
       - {file: instruments/light_verb.py, phrase: "sents = [s for s in sents if len(s.split()) > 1]"}
       - {file: instruments/light_verb.py, phrase: "feelings?|charge|readings?|alchemy"}
       - {file: instruments/markpatterns.py, phrase: "** REGRESSION: this read 5 of 5 on 2026-09-10"}
+
+  - id: DL-98
+    fact: >
+      The verb "land" does not stand in for what happened. Where a sentence said something landed
+      wrong, clean, badly or correctly, it now says what occurred; where "land" was locative and
+      the image carries meaning, it stands.
+    applied: "29 of 29"
+    ruled_by: >
+      Wendell, 2026-09-10: "sweep the 59 P5 sites", then on being shown the draft and the fact
+      that the row is 59 sites while the word is 103: "all of it."
+    wrong_because: >
+      P5's mark, 2026-09-02: "'lands warm' — what the fuck does landing warm mean? Land is
+      another one of those nothing words that gets overused." **29 of the 59 are that exact
+      shape** — a manner word doing the work the verb should. **11 are locative and kept**,
+      because "a decision lands on the person with the least power to absorb it" is a live image
+      with a real meaning. **Two are false positives the instrument cannot help:** "the land was
+      not returned" is the noun, "trade them for a prize" is an actual arcade counter.
+    proof_mark: "p.-- , 2026-09-02, on 'praise lands warm'; row P5 of MARK_PATTERN_TABLE"
+    scope: >
+      Tranche 1 of 2. All 59 P5 sites read in full sentence on 2026-09-10; 29 changed here.
+      **Tranche 2, DL-99, takes the reception sense across the rest of the book**, because the
+      row is 59 sites and the word is 103 — sweeping the row alone leaves 44 standing, which is
+      the mistake DL-95 made with "read" and DL-96 had to undo.
+    carriers:
+      - {file: manuscript/ch1.md, phrase: "stops me mid-page"}
+      - {file: manuscript/ch2.md, phrase: "enough context to be understood"}
+      - {file: manuscript/ch3.md, phrase: "lets the truth be heard as care"}
+      - {file: manuscript/ch4.md, phrase: "is hard to hear and easy to answer"}
+      - {file: manuscript/ch6.md, phrase: "proposals sometimes read as enormous"}
+      - {file: manuscript/ch7.md, phrase: "that something you did hurt them"}
+      - {file: manuscript/ch8.md, phrase: "and the line is correct"}
+      - {file: manuscript/ch9.md, phrase: "let the failure run at full strength"}
+
+  - id: DL-99
+    fact: >
+      "Land" in the book means something fell somewhere and the somewhere matters. It no longer
+      stands in for was received, was understood, worked, or hurt.
+    applied: "41 of 41"
+    ruled_by: >
+      Wendell, 2026-09-10, on being shown that the P5 row is 59 sites while the word is 103:
+      "all of it."
+    wrong_because: >
+      Sweeping the row would have left 44 of the same word standing in constructions the row's
+      regex does not match — **which is exactly the mistake DL-95 made with "read" and DL-96 had
+      to undo.** The row's boundary is not the word's boundary, and the mark-pattern table
+      already carries that as a known limit: a sentence can sit on two rows and nothing notices.
+    proof_mark: "2026-09-02, on 'praise lands warm'; row P5 of MARK_PATTERN_TABLE"
+    scope: >
+      Every occurrence of land/lands/landed/landing in the shipping set on 2026-09-10, read in
+      full sentence: **103 sites, 29 taken by DL-98, 41 here, 26 kept, 7 already resolved by
+      earlier tranches.** **The 26 kept are locative and named in the script's docstring** — the
+      cost landing on the people a design is for, a feeling landing in the body, the skeeball
+      ball, the traveller's letter, and the book quoting the hedge it criticises ("hey, I hope
+      that landed okay"). The three identical "The message landed." lines needed surrounding
+      context to be declared separately; all three became "You got through.", which also closes
+      the last site on the P6 refrain row.
+    carriers:
+      - {file: manuscript/ch3.md, phrase: "I understand. You got through."}
+      - {file: manuscript/ch4.md, phrase: "The lines hold now."}
+      - {file: manuscript/ch7.md, phrase: "You say the hard sentence, and you stay"}
+      - {file: manuscript/ch8.md, phrase: "What they heard instead was:"}
+      - {file: manuscript/ch1.md, phrase: "a decision lands on the person with the least power"}
+      - {file: appendices/APPENDIX_C_FIVE_CHANNELS.md, phrase: "You let it run fully."}
+      - {file: back_matter/glossary.md, phrase: "somebody said the unsaid charge, and it was heard"}

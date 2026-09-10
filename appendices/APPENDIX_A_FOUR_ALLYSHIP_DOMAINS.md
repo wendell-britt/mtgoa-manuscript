@@ -107,7 +107,7 @@ The reverse collapse: using Raise Awareness when Direct Action is needed — "I 
 
 *Diplomat.* Takes action in relationship — the move made in conversation, the line drawn without destroying the connection. Shadow: manages the action so carefully for the relationship that the action doesn't actually happen — softened out of existence to preserve harmony. Gift: can make the costly move AND stay in relationship with the people affected — the hardest version of Direct Action.
 
-*Sage.* Acts from meta-awareness — knows which action is needed across the whole system and at what level. Shadow: acts at the wrong altitude — makes the individual direct move when the systemic intervention was needed, or vice versa. Gift: can identify the action that shifts the system rather than the symptom, and take it at the level where it will actually land.
+*Sage.* Acts from meta-awareness — knows which action is needed across the whole system and at what level. Shadow: acts at the wrong altitude — makes the individual direct move when the systemic intervention was needed, or vice versa. Gift: can identify the action that shifts the system rather than the symptom, and take it at the level where it will actually work.
 
 ---
 
@@ -129,7 +129,7 @@ The reverse collapse: confusing Raise Awareness with Direct Action — treating 
 
 **The developmental arc — six Faces:**
 
-*Shaman.* Tells the story from inside the experience — not from after it, not from analysis, but from the felt sense of what it was like to be in it. Shadow: stays inside the experience without translating it — the story that lands only for people who already know. Gift: the narrative that transfers the felt sense of the experience into someone who wasn't there, changing what they can see.
+*Shaman.* Tells the story from inside the experience — not from after it, not from analysis, but from the felt sense of what it was like to be in it. Shadow: stays inside the experience without translating it — the story that reaches only people who already know. Gift: the narrative that transfers the felt sense of the experience into someone who wasn't there, changing what they can see.
 
 *Challenger.* Asks the question nobody wants to ask. Names what everyone present is organized around not saying. Shadow: names the shadow for the satisfaction of naming it — the call-out that performs awareness without building the conditions for change. Gift: the question that, once asked, cannot be unasked — changes the group's relationship to what it's been avoiding.
 
@@ -139,7 +139,7 @@ The reverse collapse: confusing Raise Awareness with Direct Action — treating 
 
 *Diplomat.* Translates across frameworks — makes what one camp is saying legible to another without distorting either. Shadow: translates so carefully for palatability that the actual message disappears — awareness managed until nothing is actually raised. Gift: carries the truth across difference intact, so both camps can hear what the other actually said.
 
-*Sage.* Names what the whole system is doing — the meta-pattern, the game underneath the game. Shadow: names it at an altitude where nobody who needs to act can hear it — accurate, inaccessible. Gift: can say what is true at every level in language that lands where action is possible.
+*Sage.* Names what the whole system is doing — the meta-pattern, the game underneath the game. Shadow: names it at an altitude where nobody who needs to act can hear it — accurate, inaccessible. Gift: can say what is true at every level in language that reaches where action is possible.
 
 ---
 

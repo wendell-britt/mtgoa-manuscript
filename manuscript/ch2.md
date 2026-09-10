@@ -76,7 +76,7 @@ Coaches and workshops told you what to do. Very few of them told you how to be t
 
 The old allyship produces moments of brilliance and long stretches of exhaustion. It produces people who care enormously and accomplish less than they could because they keep hitting the same wall. The wall that's not in the world, it's in them.
 
-Most people who do this work long enough hit a moment when the map turns out to be wrong, not about the destination, about where they had to start. The walking went in the wrong direction. No one had mentioned a different starting point. By the time that lands, something has usually already been spent: energy, time, sometimes a relationship, sometimes the belief that you could be the kind of ally you wanted to be.
+Most people who do this work long enough hit a moment when the map turns out to be wrong, not about the destination, about where they had to start. The walking went in the wrong direction. No one had mentioned a different starting point. By the time that registers, something has usually already been spent: energy, time, sometimes a relationship, sometimes the belief that you could be the kind of ally you wanted to be.
 
 Some of what gets called burnout is that cost still being carried: the sadness of having done your best against a broken map, of loving the work and finding it wasn't enough. The terms were set wrong from the beginning. No one failed.
 
@@ -90,7 +90,7 @@ Most people turn back. Of the ones who don't, most push through instead of going
 
 Everyone is on edge, so a hard conversation could be around any corner. Vigilance that once made sense now runs as background noise.
 
-The conversations come with more charge. Coalitions that held through the last crisis are fraying at edges that shouldn't be weak. The feedback, when it comes, comes fast, doesn't wait for you to be ready, doesn't come with enough context to land cleanly. The language keeps shifting, not because people move the goalposts but because the situation actually moves, and the words you practiced last year don't cover the new terrain. It can start to feel like falling behind, with no clear sense of what falling behind even means.
+The conversations come with more charge. Coalitions that held through the last crisis are fraying at edges that shouldn't be weak. The feedback, when it comes, comes fast, doesn't wait for you to be ready, doesn't come with enough context to be understood. The language keeps shifting, not because people move the goalposts but because the situation actually moves, and the words you practiced last year don't cover the new terrain. It can start to feel like falling behind, with no clear sense of what falling behind even means.
 
 The inner work, the part most trainings skip, keeps showing up as the chokepoint.
 
@@ -256,7 +256,7 @@ You are going to meet more language than you can use all at once. That is normal
 
 Notice the first place you recognize yourself in the map. You are not here to memorize the roster, master the Guides, or become the kind of person who can explain the whole system at dinner.
 
-When a daemon lands, stop there. When a Guide's question makes something in you lean forward, start there. When a sentence names what you have been circling for years, stay with it.
+When a daemon fits, stop there. When a Guide's question makes something in you lean forward, start there. When a sentence names what you have been circling for years, stay with it.
 
 Recognition is where the move begins.
 
@@ -280,7 +280,7 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 **The Protector**
 **Job:** To keep you alive. It is the body's embodied sense of self-preservation.
 **As an ally:** it guards you against real danger, the kind that would actually threaten your body. *In play:* a car swerves toward you and you are out of its path before you have decided anything. When the danger is real, the Protector does not wait for you.
-**As a demon:** it protects the self at all costs, and won't extend that protection to anyone else unless it widens its own identity to include them. When it does, those people stop being separate people you're allying with and become an extension of your body to protect. *In play:* a hard email lands and the Protector runs it as a physical threat. You answer armored. The other person meets the armor before they reach you.
+**As a demon:** it protects the self at all costs, and won't extend that protection to anyone else unless it widens its own identity to include them. When it does, those people stop being separate people you're allying with and become an extension of your body to protect. *In play:* a hard email arrives and the Protector runs it as a physical threat. You answer armored. The other person meets the armor before they reach you.
 
 **The Controller**
 **Job:** If the Protector decides whether you live or die, the Controller decides *how* you live. It sets the standard for what's good and what's bad.
@@ -522,7 +522,7 @@ By the end of this chapter, you should know:
 
 You found the sensation. Now let it be heard.
 
-Within the next two days, say one body-read out loud to another person, in a live moment where it is not already safe, not in a debrief afterward. One sentence, small enough that it is neither a confession nor a processing session, placed where it costs something: *"Something just shifted in my chest. Give me a second."* Even when your voice isn't steady. Even when you're not sure you've got the word right: *"I think that landed as anger. I'm not certain. Something moved though."*
+Within the next two days, say one body-read out loud to another person, in a live moment where it is not already safe, not in a debrief afterward. One sentence, small enough that it is neither a confession nor a processing session, placed where it costs something: *"Something just shifted in my chest. Give me a second."* Even when your voice isn't steady. Even when you're not sure you've got the word right: *"I think that came across as anger. I'm not certain. Something moved though."*
 
 Before you say it, ask: *Is this mine to name here? Does saying it help this person or ask them to hold me? What condition, need, or boundary is the feeling pointing toward?* If you do not yet have enough trust for the sentence, do not force intimacy. Choose one smaller move: ask permission to return to it, name the condition rather than the person, or bring the reading to someone whose role is to help you prepare.
 

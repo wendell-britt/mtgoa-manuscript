@@ -575,7 +575,7 @@ Send it to the School of the Bridge. Failing to send it is the error here, not s
 what you thought. What you felt, and where. If you cannot, the School of the Body takes
 first-years every season and we will still be here.
 
-**6. A word from the Head.** The lines land now. What I am working is the four seconds after
+**6. A word from the Head.** The lines hold now. What I am working is the four seconds after
 a line drawn on somebody else's behalf, when they go on living in the place where I said it
 and I do not.
 
@@ -700,8 +700,8 @@ school on the first attempt rather than the third, and Irix will tell you what t
 cost.
 
 **3. What it costs.** Range, which sounds like a gift when we say it. We stop being simply
-at home in any one school, including the one we came from, and I have watched that land as
-loss in students who expected it to land as freedom. Those who came to be above the other
+at home in any one school, including the one we came from, and I have watched that arrive as
+loss in students who expected freedom. Those who came to be above the other
 five have suffered as a result, and left, and one has come back.
 
 **4. What we do not teach.** Any of it. We do not teach the reading, the line, the keeping,

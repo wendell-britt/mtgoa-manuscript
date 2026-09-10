@@ -33,7 +33,7 @@ Christina Maslach mapped burnout in three dimensions: exhaustion, the depersonal
 
 Turn that instrument around. Exhaustion, the depersonalization that puts distance between a person and everyone near them, and the loss of any sense that it matters describe the person you came to help at least as well as they describe you. The Trevor Project finds that trans and nonbinary young people whose pronouns most people in their lives get right attempt suicide at about half the rate of those who do not, and that fewer than half of them get that.
 
-The same three numbers come back from either chair. So a move that lands wrong does not only cost you. It spends theirs as well, and meaning well does not reduce the bill. That is what the burnout story leaves out when only your side tells it.
+The same three numbers come back from either chair. So a move that goes wrong does not only cost you. It spends theirs as well, and meaning well does not reduce the bill. That is what the burnout story leaves out when only your side tells it.
 
 The debt frame is the identity fusion made conscious: it's the story that justifies why you can't stop. You owe something you inherited rather than chose. Unlike a financial debt, this one has no final payment, no moment when someone hands you a receipt. The debt was always designed to stay unpayable. Recognizing that is accurate accounting.
 
@@ -86,7 +86,7 @@ Allyship looks like the honorable place to bring those questions, and springs th
 
 (The Myths Read, a short and unflattering diagnostic at masteringallyship.com, marks which of these are yours and takes each one apart. It scores how you actually behave, and it has no score for which kind of ally you are, because that question belongs to the trap.)
 
-Every one of them holds a little truth, and that truth keeps them alive. Goodness matters, language matters, repair matters. The damage starts when one of them becomes the whole definition. The day allyship means being good, every exchange turns into a test you are taking, and the person in front of you stops being a person and becomes the examiner. You stop watching them and start watching yourself for proof that you passed. The help never lands, because you were looking at the scoreboard in your own head the whole time. You spend everything, they receive almost nothing, and you go home wondering why caring this much leaves you this empty. That emptiness is the receipt for a game that was never built to be won. It was built to keep you playing.
+Every one of them holds a little truth, and that truth keeps them alive. Goodness matters, language matters, repair matters. The damage starts when one of them becomes the whole definition. The day allyship means being good, every exchange turns into a test you are taking, and the person in front of you stops being a person and becomes the examiner. You stop watching them and start watching yourself for proof that you passed. The help never arrives, because you were looking at the scoreboard in your own head the whole time. You spend everything, they receive almost nothing, and you go home wondering why caring this much leaves you this empty. That emptiness is the receipt for a game that was never built to be won. It was built to keep you playing.
 
 I know that game from the inside. For three years I helped people in order to prove I was good, and I spent every one of them writing the book that tells you not to.
 
@@ -146,7 +146,7 @@ So you cannot work on the third one directly. You can become a kinder person, an
 
 I have just handed you a diagram of how trust gets built, and a diagram like that doubles as instructions for faking it. I know, because I have used it that way. Looking capable is cheaper than getting good. Sounding reliable is cheaper than being reliable. The shortcut works, which is the honest problem with it. It just pays nothing. Tricking somebody into believing you are a good person is not a feeling anybody enjoys, including the person doing it.
 
-A door like that changes the question. The useful one is how small a move you can make that still counts. Saying what you noticed, to one person, is about as small as it gets, and almost anybody can receive it. Saying what you noticed to somebody's face, with other people listening, asks for far more, and it needs a history behind it before it lands at all. You will meet that one with the Diplomat in Chapter 7.
+A door like that changes the question. The useful one is how small a move you can make that still counts. Saying what you noticed, to one person, is about as small as it gets, and almost anybody can receive it. Saying what you noticed to somebody's face, with other people listening, asks for far more, and it needs a history behind it before it counts at all. You will meet that one with the Diplomat in Chapter 7.
 
 Which means some games on this floor stay shut to you for now, however many tokens you brought. You prove yourself first, and not to the person. To whatever is standing in front of them. You will find out who those bouncers are in the next chapter, and you will meet your own first, because you have a set of them too and they are why certain doors never open for you either.
 
@@ -205,7 +205,7 @@ Afterward the person who had come to find me worked out that it had not been me 
 
 Two moments from that night matter here. The first is that I went without saying a word in my own defense. I could not tell you how that looked from outside, because I was not watching for that. I was going to find somebody.
 
-You cannot read allyship off how it looks. The evidence arrives too late. Nobody can see your intention. What people can see is what your move did to somebody, and that lands late, sometimes years late, while the performance lands at once. So the confusion does not fall evenly. Whoever performs well collects before anybody can check, because the counter pays out on the performance and the impact is still on its way.
+You cannot read allyship off how it looks. The evidence arrives too late. Nobody can see your intention. What people can see is what your move did to somebody, and that shows up late, sometimes years late, while the performance is seen at once. So the confusion does not fall evenly. Whoever performs well collects before anybody can check, because the counter pays out on the performance and the impact is still on its way.
 
 The second moment came once I was in the doorway. Everything I did in there was skill. I had built it slowly, for reasons that had nothing to do with that night, and it was there when I reached for it. What put me in the doorway was a stranger with my face saying something to somebody, and somebody else getting the two of us confused. If that mix-up had landed on anyone else in the building, the person in trouble would have had nobody.
 
@@ -217,7 +217,7 @@ Each of the three pays out differently. Most frameworks teach one and treat the 
 
 The coin pusher takes your token, drops it onto a shelf already crowded with everybody else's, and slides a bar forward. Most drops move nothing. Then one you played exactly like the last forty sends a sheet of tokens over the edge. You cannot aim it. You feed it steadily and it pays in bursts you did not earn, which is why the biggest single payouts on the floor come off machines like that, and why nobody can tell you when.
 
-Allyship has that machine. It is the reorg that dissolves the case your coworker spent two weeks building, the week before she files: timing you never touched, three floors up, deciding everything. It runs the other way too. You are on a group thread you got copied on by habit, you catch that the panel is about to hire the wrong person, and the one message you send, because you happened to be there to send it, lands the right person the job.
+Allyship has that machine. It is the reorg that dissolves the case your coworker spent two weeks building, the week before she files: timing you never touched, three floors up, deciding everything. It runs the other way too. You are on a group thread you got copied on by habit, you catch that the panel is about to hire the wrong person, and the one message you send, because you happened to be there to send it, gets the right person the job.
 
 Chance earns a category to itself because standing there is the whole move. Keep showing up where the break could land, and refuse to read the stretches that pay nothing as failure. When the reorg eats the case you did not misplay it. You were in the game, which is all Chance ever rewards.
 
@@ -309,11 +309,11 @@ The only way to lose is to stop playing.
 
 I wrote this chapter to challenge you, because writing this book is my allyship practice and you are the person I am making my move on.
 
-What happens next keeps happening to me. A sentence in somebody else's book lands hard enough that I stop reading. By morning the charge is gone and I am the same person who opened the book. Moved, and unchanged.
+What happens next keeps happening to me. A sentence in somebody else's book stops me mid-page. By morning the charge is gone and I am the same person who opened the book. Moved, and unchanged.
 
 Writing the charge down is supposed to stop that fade. I have filled notebooks. Years of them. I can count on one hand the times I have gone back to read one. Getting a thought out of your head and onto a page is halfway to something, and then everything breaks in what happens next. Nobody has ever sold a notebook on how good it feels to reread it, and rereading one is a job. The charge goes in. It does not come back out.
 
-Years ago I started carrying blank poker cards instead. When something landed hard, I wrote it on a card and the card came with me. The surprise was where the memory went. Even when I could not remember what a card said, I remembered where it lived, third from the back, the one with the bent corner. A notebook stores a sentence you have to go find. A deck stores a place you already know, and the place hands the sentence back.
+Years ago I started carrying blank poker cards instead. When something stopped me, I wrote it on a card and the card came with me. The surprise was where the memory went. Even when I could not remember what a card said, I remembered where it lived, third from the back, the one with the bent corner. A notebook stores a sentence you have to go find. A deck stores a place you already know, and the place hands the sentence back.
 
 A **BAR** is that card. Buy a pack of blank pocket-sized ones before the next chapter. The size is the point: a card you can hold on a train is a card you will look at, and a deck you can shuffle is a deck you will reread.
 
