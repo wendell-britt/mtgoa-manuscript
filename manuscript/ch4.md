@@ -570,7 +570,7 @@ The tell is never the position. The tell is whether you ever move. An auditor th
 
 The Skeptic developed does what nothing else in this chapter can: it makes your line credible. Not to other people first, to yourself. When the auditor has done its narrow job honestly and come back with *real, and current,* you are no longer arguing with yourself while the moment burns. You are aimed.
 
-That is the Disruptor's foundation. What this chapter trains is clarity without cruelty, held steady long enough to say one sentence and stay for what follows. Fighting comes easy by comparison, and so does certainty.
+That is the Disruptor's foundation. The training is clarity without cruelty, held steady long enough to say one sentence and stay for what follows. Fighting comes easy by comparison, and so does certainty.
 
 You know what your auditor is for now. That is what you take out.
 
@@ -817,6 +817,6 @@ The Regent can organize power. The Regent can build institutions. The Regent can
 
 Before the Regent can build, the Challenger has to know what line is worth building around.
 
-Add a row to the sheet. Under the channel you skip, write the line you have not drawn: what you owe a specific person and have been softening since before you picked up this book. Name the person. Every move in this chapter is a rehearsal for saying it once and not adding a sentence afterward.
+Add a row to the sheet. Under the channel you skip, write the line you have not drawn: what you owe a specific person and have been softening since before you picked up this book. Name the person. Every move here is a rehearsal for saying it once and not adding a sentence afterward.
 
 Now you're ready for the Regent.

@@ -95,8 +95,16 @@ def main():
                     bad.append(("index", i, "Ch %d §%d — ch%d has %s"
                                 % (n, s, n, ",".join(str(x) for x in sorted(ch[n]["sections"])))))
 
-    # appendices that ship and are pointed at from nowhere in the body
+    # appendices that ship and are pointed at from nowhere a reader can follow.
+    # 2026-09-10, DL-104: this counted chapter text only, and reported Appendix G unreferenced
+    # while front_matter/copyright.md named it twice -- "named in the text and mapped in full in
+    # Appendix G". **The copyright and sources page pointing at the bibliography is a real route**,
+    # and the check was under-counting rather than the book being broken. Front matter and back
+    # matter now count. Chapters still carry every other appendix.
     body = "\n".join(c["text"] for c in ch.values())
+    for extra in sorted(glob.glob(os.path.join(ROOT, "front_matter", "*.md"))
+                        + glob.glob(os.path.join(ROOT, "back_matter", "*.md"))):
+        body += "\n" + io.open(extra, encoding="utf-8").read()
     for letter in sorted(SHIPPING):
         if not re.search(r"\bAppendix %s\b" % letter, body):
             unref.append(letter)

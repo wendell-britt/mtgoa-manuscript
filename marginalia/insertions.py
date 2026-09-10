@@ -586,7 +586,7 @@ Head of the School of the Line""",
 
 **Clause one.** Each school shall produce an account of itself for those considering entry.
 The clause as written requires an account. The clause as kept, since Merrow, has produced a
-recruitment notice. What follows is an account.
+recruitment notice. This is an account.
 
 **Clause two, admission.** Two conditions, both required. First, that the applicant has
 found a practice they belong to altered in the part concerning them, without notice, and

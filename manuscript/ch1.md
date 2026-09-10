@@ -124,7 +124,7 @@ Spend tokens in a real arcade and the machine, if you play well, spits out a run
 
 Allyship has a prize counter too, and most people have spent their whole lives feeding tickets into the wrong one. The counter marked applause pays out in being seen as good, in the right people nodding, in the post that does numbers. Those look like winnings. They are external, they vanish the moment the crowd turns, and you already know what they are worth: you perform the care, you feel like somebody for an hour, and you are empty by dinner. (I know that counter. I wrote whole chapters of this book standing at it and had to throw them out, because you can hear it in the prose, the hollow ring of a man collecting tickets instead of playing.)
 
-The other counter pays out a prize nobody can take back: a felt sense of satisfaction that only shows up when you actually played. You said out loud, in the meeting, that the decision was falling on the person with the least power to absorb it. You stayed in the hard part of the conversation instead of smoothing it flat. You went back to somebody you got it wrong with and said so. You walk out tired, and the satisfaction is still there at dinner. Chapter 3 is where you learn to make it on purpose.
+The other counter pays out a prize nobody can take back: a felt sense of satisfaction that only shows up when you actually played. You said out loud, in the meeting, that the decision was falling on the person with the least power to absorb it. You stayed in the hard part of the conversation instead of smoothing it flat. You went back to somebody you got it wrong with and said so. You walk out tired, and the satisfaction is still there at dinner.
 
 In a real arcade the prize is a dead end: you win the bear, the bear sits on a shelf, the game ends. The allyship Arcade runs the other way, and the prize converts back into tokens. The satisfaction you earn from playing well is renewable fuel, and it goes straight into the tank. This is why the better you play, the more you have to play with. A performance drains the tank and hands you a bear. A practice fills it, and a filled tank is the difference between burning out and getting to play for the rest of your life.
 
@@ -138,7 +138,7 @@ Some machines on that floor have a bouncer in front of them, and there is nothin
 
 The bouncers are there for a reason. Some of the people who hurt this person arrived offering help, and a bouncer that has met one of those keeps the shape. It does not weigh you up, and it does not wonder about you. It checks you against the shape, before anybody has said much, and it checks fast.
 
-Behind the bouncer, the person is working out three questions about you, and that takes a good deal longer than the door does. Whether you can actually help. Whether you do what you said you would do. Whether you meant well. Capability, integrity, and benevolence, if you want the words for them. The words are Mayer, Davis, and Schoorman's, and Appendix G says where to read them.
+Behind the bouncer, the person is working out three questions about you, and that takes a good deal longer than the door does. Whether you can actually help. Whether you do what you said you would do. Whether you meant well. Capability, integrity, and benevolence, if you want the words for them. The words are Mayer, Davis, and Schoorman's.
 
 The first two you do. The third you are, and that difference runs the whole economy. Doing leaves a record somebody else can check. You got better at it or you did not. You kept your word or you did not. What you are leaves no record, so they guess.
 
@@ -176,7 +176,7 @@ The second reason is the one that makes serious people wave the whole idea away:
 
 If making allyship a game feels like it cheapens something sacred, look at what the alternative actually costs. Most allyship is built as a chore (a duty, a debt, a weight good people carry), and it runs on the fuel we already named as the kind that empties you: obligation, guilt, the grim credit of having suffered for the cause. That model fails because caring, run as suffering, burns down to nothing, and the person you showed up for is left standing there the day you finally collapse. Unless you are built to find meaning in your own depletion, a version of this work that offers you no engagement is a version you will quit.
 
-James Carse put the distinction in its cleanest form. A finite game is played to win and it ends. An infinite game is played to keep the play going, and the only way to lose is to stop playing. Allyship has no finish line, which makes it infinite by nature, and nearly everything built to support it is finite: a campaign, a pledge, a training you complete, a bar you clear and then clear again. Burnout is what it feels like to run finite equipment on an infinite road. That is why this chapter is called the Infinite Arcade, and it is why the answer is a better game rather than more willpower.
+James Carse put the distinction in its cleanest form. A finite game is played to win and it ends. An infinite game is played to keep the play going, and the only way to lose is to stop playing. Allyship has no finish line, which makes it infinite by nature, and nearly everything built to support it is finite: a campaign, a pledge, a training you complete, a bar you clear and then clear again. Burnout is what it feels like to run finite equipment on an infinite road. That is why the answer is a better game rather than more willpower.
 
 Chou's decade of mapping answers a second question: what pulls people back to one activity for years and drives them out of another for good. Games are engineered around the first kind of pull. Allyship, almost always, is built out of the second. Calling a game a trick for making serious work go down easier gets it backward. A game is the only structure that generates the energy to keep doing serious work for a lifetime instead of one burnout cycle.
 
@@ -283,7 +283,7 @@ Pen and paper hold this. Date every version, and across a year of play you can w
 
 ## The Reader's Oath
 
-What follows is a bit of theater. Do it anyway. Every serious game keeps an oath (the scout's, the athlete's, the doctor's), and you say the words out loud to drive them past your thinking mind, into the place where you actually make your moves.
+Some theater, now. Do it anyway. Every serious game keeps an oath (the scout's, the athlete's, the doctor's), and you say the words out loud to drive them past your thinking mind, into the place where you actually make your moves.
 
 So say it. Out loud if you can, because a sentence said out loud is harder to take back.
 

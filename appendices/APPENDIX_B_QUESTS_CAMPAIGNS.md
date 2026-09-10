@@ -10,7 +10,7 @@ You have walked into the Forest and started meeting the Faces. Whether you are o
 
 This is the game board.
 
-What follows isn't homework and it isn't a recap. These are the reps. Eight **quests**, one for each chapter of the walk, that you run alone. Four **campaigns**, one per domain, that you can run with other people. Each one takes something you learned and turns it into a week (or a session, or a month) of actual practice, with a place to capture what happened.
+This isn't homework and it isn't a recap. These are the reps. Eight **quests**, one for each chapter of the walk, that you run alone. Four **campaigns**, one per domain, that you can run with other people. Each one takes something you learned and turns it into a week (or a session, or a month) of actual practice, with a place to capture what happened.
 
 Pick the one that's pulling at you. Not the one you should do. The one that's already calling.
 
@@ -186,4 +186,4 @@ A quest is solo. A campaign is the same kind of practice, run longer and out lou
 
 ---
 
-*Every quest and campaign ends in a capture. The capture is the point — it's how a single rep becomes a record, and a record becomes the player you're becoming. Lost which daemon or domain is yours right now? Appendix A has the diagnostic.*
+*Every quest and campaign ends in a capture. The capture is the point — it's how a single rep becomes a record, and a record becomes the player you're becoming. Lost which daemon or domain is yours right now? The diagnostic is in Appendix A.*

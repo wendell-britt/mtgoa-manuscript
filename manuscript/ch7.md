@@ -610,7 +610,7 @@ The one described above keeps a generic ledger. Yours has actual entries in it, 
 
 You drew the Care ↔ Impact axis earlier in this chapter. Here is why the Victim is nearly impossible to catch standing on it.
 
-Both poles are real goods, and this chapter is unusual in the book because its reader is fluent in one of them and suspicious of the other. You know both failure states: the warm attendance that changes nothing, and the accuracy that ends the conversation. Every live relationship sits somewhere on that axis, and where it sits is a judgment call, and judgment calls about what something costs are precisely what a ledger is for.
+Both poles are real goods, and you are fluent in one of them and suspicious of the other. You know both failure states: the warm attendance that changes nothing, and the accuracy that ends the conversation. Every live relationship sits somewhere on that axis, and where it sits is a judgment call, and judgment calls about what something costs are precisely what a ledger is for.
 
 So the shadow hides inside the act. It does not argue against impact; you would notice that. It argues for Care, and Care is half the truth, and it is the half you are good at. *This is not the moment. They are not ready to hear it. Pushing now would cost more than it gains.* Each of those can be correct. Each of them is correct sometimes. You can spend a decade at the Care end of a real polarity and call it discernment, and no single instance looks like an evasion.
 
@@ -622,7 +622,7 @@ The tell is never the position. The tell is whether impact ever arrives without 
 
 The Victim developed does what nothing else in this chapter can do: it lets you know exactly what your presence costs and decline to bill for it. That combination is rarer than it sounds. Most people manage one or the other. Holding both is what makes your staying mean anything, because only a cost you can name and do not bill for reads as a choice.
 
-That forms the Connector's foundation, and the word usually means something else. This chapter does not train contact; the Bridge-Builder makes that in the first hour. It trains connection that has survived being told the truth. Connection nobody has ever closed with is attendance, and attendance is what everyone in a field takes for granted. What remains after the close is the part that was ever actually yours.
+That forms the Connector's foundation, and the word usually means something else. Contact is not the training here; the Bridge-Builder makes that in the first hour. The training is connection that has survived being told the truth. Connection nobody has ever closed with is attendance, and attendance is what everyone in a field takes for granted. What remains after the close is the part that was ever actually yours.
 
 You know what your Victim is for now. That is what you take out.
 
@@ -881,7 +881,7 @@ The tell that a quest is alive is not enthusiasm. It is anticipation with some d
 
 Neutrality is the easy guess. The Diplomat's gift is the capacity to be a partisan who can still hold the field.
 
-The belief this chapter came to dismantle is that allyship means never causing harm. It is a load-bearing belief for anyone who built their presence in this work out of being reliably safe to be around, and it is worth saying plainly what replaces it. Not *I have never caused harm.* Not *I will be more careful.* Something a person can actually stand on: **I can be told what I cost and stay in the conversation afterward.** Every move in this chapter is an instrument for making that sentence true.
+The belief this chapter came to dismantle is that allyship means never causing harm. It is a load-bearing belief for anyone who built their presence in this work out of being reliably safe to be around, and it is worth saying plainly what replaces it. Not *I have never caused harm.* Not *I will be more careful.* Something a person can actually stand on: **I can be told what I cost and stay in the conversation afterward.** Every move here is an instrument for making that sentence true.
 
 The five stages form the chapter's spine, and you have now met all five: Bridge, Translate, Hold, Repair, Negotiate. Each requires a different internal alchemy. The Bridge-Builder moves through the terror of real contact. The Translator transmutes intellectual superiority into faithful interpretation. The Field-Holder stays present through the charge of everyone's discomfort. The Repairer grieves what broke while acting toward its repair. The Integrative Negotiator finds the courage to surface what each party protects and close, not as a threat, not as manipulation, but as a clear, calm, loving act of honest agreement.
 

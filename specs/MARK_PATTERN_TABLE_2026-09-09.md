@@ -50,7 +50,7 @@ also removed an editorial review that lives in `appendices/` and is not in the b
 |---|---|---:|---:|---:|---|
 | **P1** | interprets the observation — the *", and [what it means]"* tack-on | — | — | — | **UNSEARCHABLE** |
 | **P2** | concludes for the reader — the verdict stamp | — | — | — | **UNSEARCHABLE** |
-| **P3** | manages the reader's path — the signposts | 23 | 9 | **15** | **OPEN** |
+| **P3** | manages the reader's path — the signposts | 0 | 5 | **0** | **CLEAR** · DL-103/104 |
 | **P4** | undercuts itself — the hedges | 2 | 0 | **1** | **CLEAR** · DL-88 |
 | **P5** | gestures with a nothing-word — the vague verb | 3 | 1 | **2** | **CLEAR** · DL-98–102 |
 | **P6** | repeats a line as a refrain until it stops carrying weight | 0 | 0 | **0** | **CLEAR** |
@@ -94,16 +94,25 @@ about what a clause is doing, not about what it contains.**
 the threshold map"* · *"The deeper truth is this:"* · *"Chapter 3 gives you both"* · *"and Chapter
 9 tells that part"* · *"Appendix G says where."*
 **search** — 10 phrase families. `markpatterns.py P3`.
-**count** — **23 in ch1–ch9 · 9 apparatus · 15 unmarked.**
+**count** — **0 in ch1–ch9 · 5 apparatus · 0 unmarked**, after DL-103. Before the sweep: 23 · 9 · 15.
 **scope** — a phrase list built from the six marked instances plus four near neighbours. Cannot see
 a signpost phrased in words not on the list, and does not distinguish a pointer that earns its place
 from one that manages.
-**verdict — OPEN.** The unmarked sites include *"Appendix G says where to read her"* `ch6:238`,
-*"that combination is what this chapter trains"* `ch8:615`, and **the same sentence twice in two
-chapters** — *"Every move in this chapter is an instrument for making that sentence true"* at
-`ch7:884` and `ch8:857`. **The 9 apparatus sites are now ruled too**, on Wendell's overrule of
-2026-09-10. A pointer in an appendix may still be what an appendix is for; that is a reading, not
-an exemption, and it is made site by site rather than by category.
+**verdict — CLEAR, swept 2026-09-10 by DL-103.** 29 sites across 28 declared spans; **23 → 0 in
+the chapters.** The duplicate closed with it: *"Every move in this chapter is an instrument for
+making that sentence true"* stood word-for-word at `ch7:884` and `ch8:857` and now differs in both.
+
+**Five apparatus sites are left and each is the artefact's own text** rather than an aside inside
+another one: `ON_THE_SHOULDERS_OF` maps chapters to sources three times, which is what a
+bibliography is, and `about_the_author` names Chapter 1 as biography.
+
+**And the sweep orphaned two appendices, which `xref.py` caught the same minute** — *"UNREFERENCED
+2: G, I"*. Appendix I was reachable from exactly one sentence and this removed it; **shipping an
+appendix nothing points at is a worse defect than a signpost**, and it is the reason a check runs
+after a sweep and not before. DL-104 restored it as *"the other five are in Appendix I"*, which
+says where something is rather than instructing the reader to go, and widened `xref`'s search to
+front and back matter, because `copyright.md` names Appendix G twice and the check was
+under-counting.
 
 ## P4 · undercuts itself
 

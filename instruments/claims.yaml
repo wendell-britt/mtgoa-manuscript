@@ -881,3 +881,67 @@ claims:
       - {file: manuscript/ch6.md, phrase: "Alchemized, Poignance emerges:"}
       - {file: manuscript/ch8.md, phrase: "who have worked through their pain go unheard"}
       - {file: appendices/APPENDIX_E_321_SHADOW_PROCESS.md, phrase: "is how you metabolize it."}
+
+  - id: DL-103
+    fact: >
+      The book does not tell the reader which chapter she is in, what that chapter is about to
+      do, or which appendix to turn to. Source credits keep their names and lose their
+      navigation tails.
+    applied: "28 of 28"
+    ruled_by: >
+      Wendell, 2026-09-10: "sweep the p3 signposts."
+    wrong_because: >
+      Three shapes. **The book announcing its own chapters** — the reader is inside the chapter,
+      and telling her which one is the writer checking their outline in public; this also closes
+      the ch7/ch8 duplicate, "Every move in this chapter is an instrument for making that
+      sentence true", which stood word-for-word in both. **"What follows is"**, five sites.
+      **And the reader steered to an appendix** — "Appendix G says where to read them / her / him
+      / each one", five sites plus "Appendix I lays them all out". Every one of those is a source
+      credit with a navigation tail, and **the credit survives without the tail.**
+    proof_mark: "ch2-ch3 marks, 2026-09-09: 'Chapter 3 gives you both', 'Appendix G says where'"
+    scope: >
+      All 32 P3 sites in the shipping set, read in full paragraph on 2026-09-10; **29 changed across 28 declared spans** — two ch6 sites overlap and are one span, which the containment check refused as a pair before anything was written.
+      Three are left and each is the artefact's own text rather than an aside inside another one:
+      APPENDIX_G maps chapters to sources twice, which is what a bibliography is, and
+      back_matter/about_the_author names Chapter 1 once as biography. **The near-miss is
+      recorded:** a cross-reference inside a reference appendix is arguably that appendix's whole
+      function, which is the same shape of argument that kept fifteen "read"s and 26 "land"s and
+      was overruled both times, so APPENDIX_B's pointer changed shape and kept its content.
+      **xref.py is the hard constraint** — cutting five Appendix G pointers would orphan the
+      bibliography if nothing else named it; front_matter/copyright.md names it twice.
+    carriers:
+      - {file: manuscript/ch3.md, phrase: "Two jobs, then: the Shaman's chapter"}
+      - {file: manuscript/ch3.md, phrase: "Other people built some of these tools."}
+      - {file: manuscript/ch4.md, phrase: "The training is clarity without cruelty"}
+      - {file: manuscript/ch7.md, phrase: "Contact is not the training here"}
+      - {file: manuscript/ch7.md, phrase: "Every move here is an instrument"}
+      - {file: manuscript/ch8.md, phrase: "Each move above exists to make that sentence true."}
+      - {file: manuscript/ch2.md, phrase: "You should be able to name:"}
+      - {file: manuscript/ch1.md, phrase: "Some theater, now."}
+
+  - id: DL-104
+    fact: >
+      Every shipping appendix is reachable, and xref counts a route from front or back matter as
+      a route.
+    applied: "2 of 2"
+    ruled_by: >
+      Consequence of DL-103, measured by instruments/xref.py the same minute: "UNREFERENCED 2 —
+      appendices that ship and nothing points at: G, I".
+    wrong_because: >
+      **Appendix I was reachable from exactly one sentence and DL-103 removed it.** Nothing else
+      in the book named it, so the superpowers appendix would have shipped with no route to it —
+      **a worse defect than the signpost**, and the reason a check runs after a sweep rather than
+      before. Restored in the least steering form available: "the other five are in Appendix I"
+      states where something is rather than instructing the reader to go. **Appendix G was a
+      different case: the check was under-counting.** front_matter/copyright.md names it twice —
+      "named in the text and mapped in full in Appendix G" — and xref was searching chapter text
+      only. The copyright and sources page pointing at the bibliography is a real route a reader
+      can follow, so front matter and back matter now count.
+    proof_mark: "none — a check firing on the sweep that preceded it"
+    scope: >
+      The two appendices xref reported orphaned after DL-103. Chapters still carry every other
+      shipping appendix, so widening the search changes nothing else: the count went 2 to 0 and
+      no other letter moved.
+    carriers:
+      - {file: manuscript/ch3.md, phrase: "the other five are in Appendix I."}
+      - {file: instruments/xref.py, phrase: "Front matter and back"}

@@ -235,7 +235,7 @@ The pair gets specific for the student the School of the Pattern attracts. The s
 <!-- /MARGINALIA -->
 
 
-One piece of vocabulary in this chapter is borrowed and load-bearing, so here is whose it is. *Leverage point* is Donella Meadows'. Her claim is that a system has places where a small, well-aimed push moves more than a large one, and that the obvious places are usually the weak ones. The phrase has since escaped into business language, where it means roughly nothing, and this chapter uses it in her sense throughout. Appendix G says where to read her.
+One piece of vocabulary here is borrowed and load-bearing, so here is whose it is. *Leverage point* is Donella Meadows'. Her claim is that a system has places where a small, well-aimed push moves more than a large one, and that the obvious places are usually the weak ones. The phrase has since escaped into business language, where it means roughly nothing, and this book uses it in her sense throughout.
 
 At the Architect's altitude, the native material is not emotion: it is *logic.* The raw material comes down to the relationship between cause and effect: the structures that produce outcomes, the leverage points that change systems, the mental models that explain why systems are the way they are.
 
