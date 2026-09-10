@@ -268,6 +268,10 @@ def book():
         # 7g, added 2026-09-01. Book-wide this prints the baseline the draft path scores
         # against -- 13.9% of sentences -- rather than gating anything.
         ("7g trailing and", ["instruments/trailing_and.py"], "book baseline"),
+        # 7g2, added 2026-09-09. Bare coordination chains -- `X and Y and Z`, no comma anywhere,
+        # which is the shape 7g is blind to by construction. REPORTING: it prints a count and
+        # never gates, because this instrument cannot tell the deliberate figure from the tic.
+        ("7g2 polysyndeton", ["instruments/polysyndeton.py"], "chain(s) across"),
         # 7h, added 2026-09-02. Book-wide this prints the copula-label baseline the draft path
         # scores against; it does not gate.
         ("7h telling", ["instruments/telling.py"], "book baseline"),
@@ -276,6 +280,10 @@ def book():
         # detector. Wendell, on the proof: "land is another one of those nothing words that gets
         # overused." Book-wide it prints the 0.7% DELEXICAL baseline; the draft path drives it.
         ("7i light verb", ["instruments/light_verb.py"], "book baseline"),
+        # 7j, added 2026-09-04. Book-wide fragment scan. Every class counts (the landing-position
+        # exemption was removed); it prints the unresolved count, target zero. Reporting here
+        # because it needs NLTK and the review env may lack it; coherence.py is its hard gate.
+        ("7j fragment", ["instruments/fragment.py"], None),
         # 9, added 2026-09-03. The pipeline checked against itself. Wendell: "how do we check
         # that the editorial pipeline is coherent and consistent." Wiring integrity, baseline
         # drift, register and orphan checks. This is coherence.py's call site -- without one it

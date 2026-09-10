@@ -10,6 +10,12 @@
 
 project: "Mastering the Game of Allyship"
 
+# Which shared core this project runs, and where it lives. The core was extracted to its own home
+# on 2026-09-09; coherence.py's `core` check compares this against the version baked into the
+# installed instruments and against the core's published VERSION. See editorial-core/README.md.
+core_version: 28
+core_home: "../editorial-core"
+
 # What "the book" means when an instrument runs book-wide. MTGOA's real corpus is assembled
 # by build_book.SPINE (typeset order); these globs are the declared, portable statement of it.
 corpus:
@@ -19,11 +25,32 @@ corpus:
   - "front_matter/*.md"
   - "back_matter/*.md"
 
-# Measured on this book, never copied. coherence.py re-measures each and fails on drift > 0.4pt.
+# The rate each defect sat at when the book was measured — kept as the reference the debt is read
+# against, no longer as the thing the pipeline defends. The scanners still print it for context.
 baselines:
   telling: 3.0        # % of sentences carrying a copula-label (LABEL tier)
   trailing_and: 13.9  # % of sentences that are loose (LOOSE tier)
   light_verb: 0.7     # % of sentences carrying a buried verb (DELEXICAL tier)
+
+# The house policy: ZERO. Every telling/trailing_and/light_verb is a defect until it is resolved
+# in the prose or accepted, one at a time, in editorial_exceptions.yaml. coherence.py's `zero`
+# check counts UN-accepted hits and fails while any remain. This is what replaced drift-tolerance.
+targets:
+  polysyndeton: 0    # bare `X and Y and Z`. Promoted from reporting 2026-09-09 on Wendell's call
+  slop_shapes: 0      # discrete sites -> the loop (ruled 2026-09-09)
+  gate: 0             # hard rules: banned words, sentence-initial And/But, glued em-dashes
+  telling: 0
+  trailing_and: 0
+  light_verb: 0
+  fragment: 0        # needs NLTK (see instruments/requirements.txt); every fragment class counts
+
+# Declared boards: they surface candidates for a reader and exit non-zero as a matter of course, so
+# review.py shows them as `note` and never fails on them. Anything outside this list AND outside
+# `targets:` fails the board on a non-zero exit — the strict default that stops a hard gate being
+# demoted by inference (which is exactly what happened to `gate` on 2026-09-09).
+reporting:
+  - prose_diet
+  - antecedent
 
 # This book's voice decisions, ruled by Wendell one at a time. Regex fragments; gate.py wraps
 # each in word boundaries. Another project bans other words, or none.
@@ -33,8 +60,24 @@ banned:
   - "genuinely"
   - "things?"
 
+# WHO reads this book, for a reader-agent pass. Face lenses are universal (editorial-core/
+# READER_FACES.md); this persona is MTGOA's own. MTGOA additionally has the Faces incarnated as
+# the Heads of School — that costume is this project's, and the lens travels without it.
+reader:
+  who: "Late thirties, college-educated, eleven years in nonprofit then corporate DEI work"
+  came_for: "to get better at this and stop paying for it with her evenings"
+  monday: "run one process on one person, all the way to the end"
+  tired_of: "vocabulary as the price of admission, and trainings that change nothing"
+  channels: use
+  # Developmental position — see editorial-core/READER_FACES.md. She is not only at Green; she
+  # carries Magenta/Red/Amber/Orange beneath it, read through Green and surfacing as shadow.
+  altitude: diplomat       # Green centre of gravity
+  shadows: "Diplomat-flavoured shadows of every altitude below: her Red returns as the swallowed no and the polite fight; her Amber as suspicion of hierarchy; her Orange as distaste for systems talk; her Magenta as belonging-hunger"
+  toward: sage             # the book exists to help her see and own those shadows and grow to Teal
+
 # The universal prose scanners, in pass order. coherence.py checks each exists and is wired.
 pass:
+  - polysyndeton
   - gate
   - prose_diet
   - fragment
@@ -47,3 +90,7 @@ pass:
 # Instruments welded to this book's ontology; they do not travel to other projects.
 project_only:
   - agency_grep
+
+# The authorities register coherence.py's `register` check validates. Declared here (not hardcoded
+# in coherence.py) so the check travels: a project without one leaves this out and the check skips.
+register: "specs/EDITORIAL_AUTHORITIES_2026-09-01.md"

@@ -34,10 +34,24 @@ prose around it. A chapter at the book average scores 1.00.
     python3 instruments/prose_diet.py -v           # quote the orphan "it" sites
     python3 instruments/prose_diet.py FILE         # score a draft file
 """
-import re, io, os, sys, glob
+import re, io, os, sys, glob, importlib.util
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-MS = os.path.join(HERE, os.pardir, "manuscript")
+MS = os.path.join(HERE, os.pardir, "manuscript")   # last-resort fallback glob only
+
+
+def _load_mod(name):
+    try:
+        spec = importlib.util.spec_from_file_location(name, os.path.join(HERE, name + ".py"))
+        mod = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(mod)
+        return mod
+    except Exception:
+        return None
+
+
+_fl = _load_mod("find_line")
+_profile = _load_mod("profile")
 # HANDBOOK and SIGNATURE added 2026-07-31, when they turned out to be counted inside every
 # chapter's expository score. Measured on ch7 the effect is small, passive 1.75 against 1.77
 # stripped, so it was not the cause of anything; stripping them is correct regardless, because
@@ -368,6 +382,14 @@ def sentences(t):
     return [s.strip() for s in re.split(r"(?<=[.!?])\s+", t) if len(s.split()) > 3]
 
 
+# The feature-counter contract version. Bump it whenever a regex or normalization in score()
+# changes, so a band measured with an old scorer (stored in editorial.yaml's `scorer:`) can be
+# caught by coherence.py as incomparable to a book scored now — the silent-drift trap the
+# 2026-09-09 hostile review named. History: v1 was the original counters; the zombie-regex
+# widening is folded into v1's BASE notes; v2 adds the external-band contract.
+SCORE_VERSION = 2
+
+
 def score(text):
     w = max(len(text.split()), 1)
     S = sentences(text)
@@ -410,48 +432,127 @@ def read(f):
     return split_blocks(t, register_for(os.path.basename(f)))
 
 
+def _band_pos(v, band):
+    """(status, edge) for a value against a [median, Q1, Q3] band. 'sparse' fires only when BOTH
+    the band and the value are near zero — so a spike over a tiny band is reported, not hidden
+    (the F9 fix: a median-0.4 feature with a book value of 5.0 must read ABOVE, not 'too sparse')."""
+    med, q1, q3 = band
+    if q3 < 1.0 and v < 1.0:
+        return "sparse", med
+    if v > q3:
+        return "ABOVE", q3
+    if v < q1:
+        return "below", q1
+    return "in-band", med
+
+
+def _verdict(rpos, gpos):
+    """Read the two positions together. Over the reader is the signal; the genre position says
+    whether the register explains it — three distinct cases, not one (the F10 fix)."""
+    if rpos in ("sparse", "n/a"):
+        return "too sparse to read"
+    if rpos in ("in-band", "below"):
+        return "fine — at or under the reader"
+    if gpos == "ABOVE":
+        return "FLAB — over even the register's own range"
+    if gpos == "in-band":
+        return "register tax — normal for the form, heavy for the reader"
+    if gpos == "below":
+        return "register-light — the form runs heavier; still over your reader"
+    return "heavy for the reader (no genre band to read against)"
+
+
+def band_report(files, keys, ref):
+    """Distance from the external reference bands, in place of the self-baseline ratio. Prints the
+    book-wide read of each feature against the reader and genre bands, then the per-chapter list of
+    features running heavier than the reader — the worklist a later pass edits down."""
+    reader = (ref.get("reader") or {}).get("band", {}) or {}
+    genre  = (ref.get("genre")  or {}).get("band", {}) or {}
+    whole = score("\n".join(read(f)[0] for f in files))
+
+    print("distance from the reference bands — external, from editorial.yaml (not a self-baseline)")
+    print("READER = what the ideal reader reads; GENRE = the clinical register the book passes as\n")
+    print("%-11s %7s   %-14s %-14s  %s" % ("feature", "book", "vs reader", "vs genre", "read"))
+    print("-" * 84)
+    for k in keys:
+        v = round(whole[k], 1)
+        rp = _band_pos(v, reader[k]) if k in reader else ("n/a", 0)
+        gp = _band_pos(v, genre[k]) if k in genre else ("n/a", 0)
+        fmt = lambda p: p[0] if p[0] in ("sparse", "n/a") else "%s %.1f" % p
+        print("%-11s %7.1f   %-14s %-14s  %s" % (k, v, fmt(rp), fmt(gp), _verdict(rp[0], gp[0])))
+
+    if reader:
+        print("\nper chapter — features heavier than the reader band (the edit worklist):")
+        for f in files:
+            fs = score(read(f)[0])
+            over = [k for k in keys if k in reader
+                    and _band_pos(round(fs[k], 1), reader[k])[0] == "ABOVE"]
+            print("  %-16s %s" % (os.path.basename(f), ", ".join(over) or "— all within the reader band"))
+
+    # Summary LAST, because review.py's board reads each step's final line as its headline. Without
+    # it the board showed a truncated per-chapter row and said nothing.
+    over_reader = [k for k in keys if k in reader
+                   and _band_pos(round(whole[k], 1), reader[k])[0] == "ABOVE"]
+    flab = [k for k in over_reader if k in genre
+            and _band_pos(round(whole[k], 1), genre[k])[0] == "ABOVE"]
+    print("")
+    print("%d feature(s) over the reader band, %d of them over the genre band too%s"
+          % (len(over_reader), len(flab), (" — " + ", ".join(flab)) if flab else ""))
+
+
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("-")]
     verbose = "-v" in sys.argv
     if args:
         files = args
     else:
-        files = sorted(glob.glob(os.path.join(MS, "ch*.md")),
-                       key=lambda f: int(re.search(r"ch(\d+)", os.path.basename(f)).group(1)))
+        # The chapters, from the shared spine (find_line.corpus_paths) rather than a hardcoded
+        # manuscript glob, so this scans the project's real prose in any project. prose_diet diets
+        # the body prose, so it takes the "chapter" components; appendices and matter are not it.
+        files = [p for kind, p in _fl.corpus_paths() if kind == "chapter"] if _fl else []
+        if not files:
+            files = sorted(glob.glob(os.path.join(MS, "ch*.md")),
+                           key=lambda f: int(re.search(r"ch(\d+)", os.path.basename(f)).group(1)))
 
     keys = ["be", "copula", "waste", "zombie", "expletive", "passive", "empty",
             "inchoative"]
-    print("ratio against the book's own baseline — 1.00 is average, >1.30 is heavy")
-    print("a * marks a counter covered by a named register in REGISTERS\n")
-    print(f"{'file':<12}" + "".join(f"{k:>11}" for k in keys))
-    print("-" * (12 + 11 * len(keys)))
-    worst = []
-    for f in files:
-        name = os.path.basename(f)
-        body, blocks = read(f)
-        reg = register_for(name)
-        for label, text, spec in ([(name, body, reg)]
-                                  + [("  block %d" % (n + 1), bt, bs)
-                                     for n, (bt, bs) in enumerate(blocks)]):
-            s = score(text)
-            cells = []
-            for k in keys:
-                # Compare at the precision that is printed. A ratchet ceiling is copied from
-                # this table by a human, so a true 1.8912 displayed as 1.89 must not report
-                # heavy against a ceiling of 1.89. Rounding first makes the number on the
-                # page and the number in REGISTERS the same number.
-                r = round(s[k] / BASE[k], 2)
-                cells.append(f"{r:>10.2f}" + ("*" if k in spec else " "))
-                if r > spec.get(k, 1.30):
-                    worst.append((label.strip() or name, k, r, k in spec, spec))
-            print(f"{label:<12}" + "".join(cells))
+    ref = (_profile.reference() if _profile else {}) or {}
+    if ref.get("reader") or ref.get("genre"):
+        # A project that declares external bands is read against them, not against its own prose.
+        band_report(files, keys, ref)
+    else:
+        # No bands declared (e.g. MTGOA): the historical self-baseline table, unchanged.
+        print("ratio against the book's own baseline — 1.00 is average, >1.30 is heavy")
+        print("a * marks a counter covered by a named register in REGISTERS\n")
+        print(f"{'file':<12}" + "".join(f"{k:>11}" for k in keys))
+        print("-" * (12 + 11 * len(keys)))
+        worst = []
+        for f in files:
+            name = os.path.basename(f)
+            body, blocks = read(f)
+            reg = register_for(name)
+            for label, text, spec in ([(name, body, reg)]
+                                      + [("  block %d" % (n + 1), bt, bs)
+                                         for n, (bt, bs) in enumerate(blocks)]):
+                s = score(text)
+                cells = []
+                for k in keys:
+                    # Compare at the precision that is printed. A ratchet ceiling is copied from
+                    # this table by a human, so a true 1.8912 displayed as 1.89 must not report
+                    # heavy against a ceiling of 1.89. Rounding first makes the number on the
+                    # page and the number in REGISTERS the same number.
+                    r = round(s[k] / BASE[k], 2)
+                    cells.append(f"{r:>10.2f}" + ("*" if k in spec else " "))
+                    if r > spec.get(k, 1.30):
+                        worst.append((label.strip() or name, k, r, k in spec, spec))
+                print(f"{label:<12}" + "".join(cells))
 
-    if worst:
-        print("\nheavy:")
-        for f, k, r, covered, spec in sorted(worst, key=lambda x: -x[2]):
-            ceiling = spec.get(k, 1.30)
-            print(f"  {f} {k} {r:.2f} over {ceiling:.2f}"
-                  + (" (register ceiling)" if covered else ""))
+        if worst:
+            print("\nheavy:")
+            for f, k, r, covered, spec in sorted(worst, key=lambda x: -x[2]):
+                ceiling = spec.get(k, 1.30)
+                print(f"  {f} {k} {r:.2f} over {ceiling:.2f}"
+                      + (" (register ceiling)" if covered else ""))
 
     if verbose:
         print("\n--- passive: a verb with no doer ---")

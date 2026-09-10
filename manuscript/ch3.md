@@ -122,7 +122,7 @@ The Shaman left.
 
 The villagers never meant for that to happen. They never said "go." They just stopped listening. Which, it turns out, amounts to exile.
 
-Each of the six Faces carries its own word for being good to somebody. **The Shaman means: somebody said the unsaid charge, and it landed.** People who share that definition call you kind. People who hold a different one call you cold. Neither scores you wrong. They score you in another dictionary.
+Each of the six Faces carries its own word for being good to somebody. **The Shaman means: the unsaid charge, said out loud, landed.** People who share that definition call you kind. People who hold a different one call you cold. Neither scores you wrong. They score you in another dictionary.
 
 ---
 
@@ -151,7 +151,7 @@ It *worked.* The villagers solved some problems. They moved some mountains. They
 
 This is what the villagers do with emotional alchemy when the Shaman is gone: they transform it into *performance management.* Into *emotional labor that must be optimized.* Into a system where feeling gets permission only if it makes you more productive. Where sadness comes back relabeled as growth. Where fear answers to "imposter syndrome" and takes a mindfulness app. Where anger gets channeled into "righteous action" but never, ever examined for what it might be trying to tell you about yourself.
 
-No one in the village saw it happening. They called the pattern efficiency, and the pattern starved them.
+No one in the village saw it happening. They called the pattern efficiency. The pattern starved them.
 
 Nothing says "belonging" quite like replacing the people who had to love you with a committee that can vote you out and call it growth.
 
@@ -162,7 +162,7 @@ Nothing says "belonging" quite like replacing the people who had to love you wit
 
 The villagers shrink alchemy into processing: *identify* the emotion, *understand* where it came from, *release* it, and then *move on.* That model treats emotions like a problem that has a solution. Once you solve it, it's gone.
 
-Emotional alchemy is the practice of staying in relationship with the full spectrum of human feeling, and letting those feelings teach you something that changes who you are.
+Emotional alchemy is the practice of staying in relationship with the full spectrum of human feeling and letting those feelings teach you something that changes who you are.
 
 The Shaman's practice is that staying.
 
@@ -170,11 +170,11 @@ Thirty-first session. Jaw, then the back of the neck. I recorded contempt in the
 
 Sessions thirty-two through four hundred and six. Chest: nothing. Throat: nothing. Hands: nothing. Three years of nothing, entered in my own hand, four hundred times.
 
-I called it discipline. The entry correcting that is dated later and reads: the numbness began the morning after the funeral, not the morning of the error. It was not protecting me from being wrong. It was protecting him from being read a second time by somebody who had got it wrong in front of witnesses, and the only instrument it could reach was mine.
+I called it discipline. The entry correcting that is dated later and reads: the numbness began the morning after the funeral, not the morning of the error. It was not protecting me from being wrong. It was protecting him from being read a second time by somebody who had got it wrong in front of witnesses, using the only instrument it could reach: mine.
 
-Present session. Jaw, at the word correctly. The reading came back and it is better than it was. What I am working now is what it costs a person to be read accurately by somebody they did not ask.
+Present session. Jaw, at the word correctly. The reading came back. It is better than it was. What I am working now is what it costs a person to be read accurately by somebody they did not ask.
 
-The Shaman's practice may already feel familiar. You have likely built some language for a felt sense, some practice in reading what a group holds under its words. That part is real, and it matters.
+The Shaman's practice may already feel familiar. You have likely built some language for a felt sense, some practice in reading what a group holds under its words. That part is real. It matters.
 
 That signal raises a different question the moment it disagrees with the group.
 
@@ -235,11 +235,11 @@ The Shaman's pair: the feeling that gives you the read versus the function that 
 
 Both ends fail, and they fail unequally. Function without Feeling is the practitioner who says the correct words on schedule with no instrument running underneath, competent, useful in a narrow band, and unable to tell the table anything it did not already know. Feeling without Function is the more expensive failure, because it looks like depth. An extraordinarily accurate read, refined over years, never once leaves the body that made it. She knows exactly what is happening. Nobody in the situation gains anything from her knowing.
 
-Here is what is specific to this reader, and its shape is a squeeze rather than a lean. This altitude fully sanctions Feeling in its collective form: named in a circle, processed together, honored aloud. Feeling as *your* instrument, trusted privately and acted on alone, comes with warnings: who are you to read this, what makes your body's account of the situation worth more than the version the group has agreed on. Function has warnings of its own, and this altitude issues them loudest: outcomes over people, results as the metric, the whole language of execution, which has done enormous work for people who never asked who was being spent. So one end of the axis is available only in its group form, and the other end sounds like what the altitude was built to leave behind.
+Here is what is specific to this reader: a squeeze rather than a lean. This altitude fully sanctions Feeling in its collective form: named in a circle, processed together, honored aloud. Feeling as *your* instrument, trusted privately and acted on alone, comes with warnings: who are you to read this, what makes your body's account of the situation worth more than the version the group has agreed on. Function has warnings of its own, which this altitude issues loudest: outcomes over people, results as the metric, the whole language of execution, which has done enormous work for people who never asked who was being spent. So one end of the axis is available only in its group form, while the other end sounds like what the altitude was built to leave behind.
 
 That squeeze leaves one position standing, the one costing nothing: feeling out loud, together, at length, about a situation, and changing none of it. Everyone leaves moved. The fields keep failing.
 
-I recover both ends before I am done, and I will ask you to hold them at the same time.
+I will recover both ends before I am done, then ask you to hold them at the same time.
 
 <!-- SIGNATURE -->
 > the first treatise, submitted by Maera Voss, Keeper of First Signals,
@@ -252,17 +252,17 @@ I recover both ends before I am done, and I will ask you to hold them at the sam
 ## Section 4: The Practice
 ### *The Five-Move Form: Emotional Alchemy as Repeatable Technique and Living Art*
 
-Other people built some of what this chapter hands you, and their names belong with the tools. *Felt sense* comes from Eugene Gendlin's *Focusing*, and the phrase names the body's knowing that arrives before language does, which is what this chapter teaches you to read. The claim underneath the whole practice is Peter Levine's. A feeling carries energy that has to finish moving, and it jams when you cut it off. He studies that jam where it is severe, in trauma, which calls for a trained person in the chair with you. This chapter works the everyday version, a bad afternoon rather than a wound, and the stretch from one to the other is mine to answer for. The Polarity Map is Barry Johnson's, and so is the distinction it rests on. The five channels are borrowed too, and I say from where when they arrive a few pages on. Appendix G says where to read each one.
+Other people built some of what this chapter hands you, so their names belong with the tools. *Felt sense* comes from Eugene Gendlin's *Focusing*, where the phrase names the body's knowing that arrives before language does, which is what this chapter teaches you to read. The claim underneath the whole practice is Peter Levine's. A feeling carries energy that has to finish moving, so it jams when you cut it off. He studies that jam where it is severe, in trauma, which calls for a trained person in the chair with you. This chapter works the everyday version, a bad afternoon rather than a wound, and the stretch from one to the other is mine to answer for. The Polarity Map is Barry Johnson's. So is the distinction it rests on. The five channels are borrowed too, and I say from where when they arrive a few pages on. Appendix G says where to read each one.
 
-The Shaman's native material is *emotion*, and what you can use runs narrower than mood and faster than temperament: the charge that arrives in one particular second, about one particular person, and goes somewhere when you spend it.
+The Shaman's native material is *emotion*, but the part you can use runs narrower than mood and faster than temperament: the charge that arrives in one particular second, about one particular person, and goes somewhere when you spend it.
 
 Some people are very good at putting feelings away.
 
-A voice on the phone, upset. The emotion arrives, theirs and yours, and the chest reacts in a specific way: a tightening, a pulling inward, like a door closing fast. Then you are gone. Not literally. You stay on the call, professional, efficient. The part of you that could feel the situation has left the building.
+A voice on the phone, upset. When the emotion arrives, theirs and yours, the chest reacts in a specific way: a tightening, a pulling inward, like a door closing fast. Then you are gone. Not literally. You stay on the call, professional, efficient. The part of you that could feel the situation has left the building.
 
 Locate the problem. Solve the problem. Move on.
 
-It does not work. Not because the wrong problem got solved. Because the problem wasn't the problem. *The Courage to Be Disliked* has a line: all problems are relational problems. Take it further. All problems are emotional problems. The rupture exists because something has gone unfelt. Solve for the emotion and you can move to service, which you thought you were doing all along.
+It does not work. Not because the wrong problem got solved. Because the problem wasn't the problem. *The Courage to Be Disliked* has a line: all problems are relational problems. Take it further. All problems are emotional problems. The rupture exists because something has gone unfelt. Once you solve for the emotion, you can move to service, which you thought you were doing all along.
 
 You are solving for your own emotion. The tightening in your chest when someone gets upset is your discomfort, not theirs. You convert it into competence and action as fast as possible. They get efficiency. They needed presence.
 
@@ -278,7 +278,7 @@ You need a practice. A structure. Something that repeats reliably so you can get
 
 That structure has a name: the Five-Move Form.
 
-*Form* is the martial artist's word, and it is the exact one. A form is a fixed order of moves you run alone, slowly, ten thousand times, so that on the day a hard moment arrives fast your body already knows where it is going. You learn it in pieces and you never finish it. The beginner runs the form and the master runs the form, and what separates them lives inside the same five moves.
+*Form*, the martial artist's word, is the exact one. A form is a fixed order of moves you run alone, slowly, ten thousand times, so that on the day a hard moment arrives fast your body already knows where it is going. You learn it in pieces and you never finish it. The beginner runs the form and the master runs the form. What separates them lives inside the same five moves.
 
 The Five-Move Form is a progression through five stages that can happen in ten seconds or ten hours depending on the depth and context. It moves emotional energy from activation → contact → clarity → integration → action.
 
@@ -307,7 +307,7 @@ The feeling arrives before your thinking mind can name it. Your body tenses befo
 
 The Wake stage honors that moment, without immediately trying to fix it, manage it, or convert it into something else. (The converting happens very fast. You have converted your whole life. The pause is the practice.)
 
-**In practice:** Name the feeling to yourself, one of the five, and find where it sits. Chest? Belly? Legs? Throat? Jaw? Skip the question of whether the feeling qualifies, and skip the question of why it came. Just: this feeling is present. I notice it.
+**In practice:** Name the feeling to yourself, one of the five, then find where it sits. Chest? Belly? Legs? Throat? Jaw? Skip the question of whether the feeling qualifies, and skip the question of why it came. Just: this feeling is present. I notice it.
 
 This stage can take five seconds or run the length of the encounter, and you keep noticing the feeling the whole way through.
 
@@ -316,17 +316,17 @@ This stage can take five seconds or run the length of the encounter, and you kee
 
 The people who raised you hand you a dial in childhood and teach one direction: lower it. Stay composed, stay reasonable, keep it together. Turn the dial that low and most of what moves in the situation slips past before it registers, and we call that setting *calm*. Opening turns the dial the other way. You deliberately raise your sensitivity to everything actually present, in your own body first, then in the people around you.
 
-This matters for one reason: you cannot affect what you cannot feel. The Shaman works by sensitivity, and an instrument kept behind glass reads nothing. Register a moment a beat late and the charge has already passed, along with the move that could have met it. Every skill later in this chapter runs on the signal that opening lets in.
+This matters for one reason: you cannot affect what you cannot feel. The Shaman works by sensitivity. An instrument kept behind glass reads nothing. If you register a moment a beat late, the charge has already passed, along with the move that could have met it. Every skill later in this chapter runs on the signal that opening lets in.
 
-Here is where most well-meaning allies flinch, so let me say it straight: you did not burn out from too much empathy. You burned out because you took in everything and nobody ever trained you to hold any of it, so you turned the dial all the way back down, the only relief anyone had shown you. Opening trains you to hold sensation on purpose: your own charge first, until you can stand inside it without going under, then the other person's, until their reality reaches you without dragging you down with it. Compassion that has felt the full weight and stayed on its feet is the only compassion that informs a good move.
+Here is where most well-meaning allies flinch, so let me say it straight: you did not burn out from too much empathy. You burned out because you took in everything without anyone ever training you to hold any of it, so you turned the dial all the way back down, the only relief anyone had shown you. Opening trains you to hold sensation on purpose: your own charge first, until you can stand inside it without going under, then the other person's, until their reality reaches you without dragging you down with it. Compassion that has felt the full weight and stayed on its feet is the only compassion that informs a good move.
 
-Turn the dial all the way up and something else surfaces, something a part of you has kept down there too. Somewhere in the hard moment, a part of you is getting something out of the very dynamic you say you want to end: the charge of being the good one, the relief when the conversation stays comfortable, the pull of an old hurt that has a use. Carolyn Elliott named this the existential kink, and I will not pretend I stand outside it: I have felt myself drawn toward my own smallness in the same moment I was performing my way past it. Opening makes the payoff visible. You only have to stop refusing to feel it, because what stays hidden runs the moment, and what you can feel, you can play.
+Turn the dial all the way up and something else surfaces, something a part of you has kept down there too. Somewhere in the hard moment, a part of you is getting something out of the very dynamic you say you want to end: the charge of being the good one, the relief when the conversation stays comfortable, the pull of an old hurt that has a use. Carolyn Elliott named this the existential kink. I will not pretend I stand outside it: I have felt myself drawn toward my own smallness in the same moment I was performing my way past it. Opening makes the payoff visible. You only have to stop refusing to feel it, because what stays hidden runs the moment, while what you can feel, you can play.
 
-That leaves the fear that has been guarding all of it: the fear of doing more harm than you know. Opening does not make that fear disappear. Opening makes it available, fully felt instead of managed from a safe distance. The whole job of Open Up is to get the fear into your hands, where the work can reach it, and the skill that moves it is coming.
+That leaves the fear that has been guarding all of it: the fear of doing more harm than you know. Opening does not make that fear disappear. Opening makes it available, fully felt instead of managed from a safe distance. The whole job of Open Up is to get the fear into your hands, where the work can reach it. The skill that moves it is coming.
 
 Four beats cover the second when the charge has already arrived and the moment has not waited for you. **Welcome** the charge: stop pushing it away. **Acknowledge** it: name it to yourself, in one word if one word is all you have. **Validate** it: grant that a person standing where you are standing would feel this, which is a smaller claim than deciding the feeling is correct. **Exhale.**
 
-Those four are **WAVE**, and the whole of it runs about as long as one breath. WAVE does not tell you what the charge means; the meaning comes later, and this chapter builds a whole practice for finding it. What WAVE buys you is the few seconds in which choosing your next move becomes possible at all.
+Those four are **WAVE**, which runs about as long as one breath. WAVE does not tell you what the charge means; the meaning comes later, from a whole practice this chapter builds for finding it. What WAVE buys you is the few seconds in which choosing your next move becomes possible at all.
 
 #### Stage 3: Clean Up
 **What it means:** Correct distortion. Clarify what the feeling is actually telling you about reality.
@@ -349,14 +349,14 @@ Neutrality arrives. What whole-system perspective am I suddenly able to see that
 
 Each of these emotions has a job. Fear detects threat and risk, anger detects the obstacle to overcome or the boundary to draw, sadness points at what you care about and how far you have drifted from it, joy shows you what's aligned with your delight, neutrality gives you detachment and the view of the whole. Asking *what is this showing me?* is asking the feeling to do its job.
 
-You're not trying to think your way to an answer. You're sensing into the feeling and letting it show you, and it usually takes a few seconds to a few minutes.
+You're not trying to think your way to an answer. You're sensing into the feeling and letting it show you, which usually takes a few seconds to a few minutes.
 
 This is the first difference between the Shaman's practice and its distortion: the villagers try to speed past this stage. The Shaman lingers here long enough to actually get the teaching.
 
 #### Stage 4: Grow Up
 **What it means:** Extract the lesson. Integrate the insight the feeling offered.
 
-Fear that showed you what matters integrates as a value you hold rather than one you have to earn. Anger that showed you a boundary integrates as a choice you are allowed to make, not a transgression. Sadness integrates as *it was real, it was worth it.* Joy integrates as guidance: this direction is right for me. Neutrality integrates as the larger view, and you can hold complexity that activation kept you from holding before.
+Fear that showed you what matters integrates as a value you hold rather than one you have to earn. Anger that showed you a boundary integrates as a choice you are allowed to make, not a transgression. Sadness integrates as *it was real, it was worth it.* Joy integrates as guidance: this direction is right for me. Neutrality integrates as the larger view: you can hold complexity that activation kept you from holding before.
 
 The Grow stage is the integration, the moment when the feeling stops being something that happened *to* you and becomes something you've *learned* from.
 
@@ -371,7 +371,7 @@ Now you've integrated the lesson. The final stage *moves* from that understandin
 
 You understood what matters. Now protect it. You understood your boundary. Now hold it. You understood what was real. Now honor it. You understood what's aligned. Now move toward it. You understood the larger perspective. Now lead from it.
 
-**In practice:** take the action the understanding asks for. It differs with each feeling and each situation, and it can happen in the next ten seconds or unfold over days. The timeline doesn't matter. Your source does: you move from the wisdom you've integrated, not from your defensive programming.
+**In practice:** take the action the understanding asks for. It differs with each feeling and each situation. It can happen in the next ten seconds or unfold over days. The timeline doesn't matter. Your source does: you move from the wisdom you've integrated, not from your defensive programming.
 
 ---
 
@@ -386,9 +386,9 @@ You understood what matters. Now protect it. You understood your boundary. Now h
 
 Before the table, the part I owe you.
 
-These five channels did not start with me. Metal, Water, Wood, Fire, and Earth come from **wu xing**, the five-phase system that sits under classical Chinese medicine and cosmology, and it predates everything else in this book by roughly two thousand years. I have used it hard. I narrowed a cosmology down to one job it was never designed for, telling you what the feeling in your chest is for in the ten seconds you have to decide something, and I moved correspondences around to make that job work. The tradition does not put grief and fear where I have put them. What follows is my remix, not the system it came from.
+These five channels did not start with me. Metal, Water, Wood, Fire, and Earth come from **wu xing**, the five-phase system that sits under classical Chinese medicine and cosmology. It predates everything else in this book by roughly two thousand years. I have used it hard. I narrowed a cosmology down to one job it was never designed for, telling you what the feeling in your chest is for in the ten seconds you have to decide something, then moved correspondences around to make that job work. The tradition does not put grief and fear where I have put them. What follows is my remix, not the system it came from.
 
-I am naming this in the chapter rather than in a footnote because Chapter 1 put my own fluency on the table as an asset that gets me through doors and keeps other people outside them, and running a borrowed vocabulary past you unmarked is the same move with the credit taken off. The original goes far deeper than my use of it and repays reading on its own terms; the back of the book points you to where to start.
+I am naming this in the chapter rather than in a footnote because Chapter 1 put my own fluency on the table as an asset that gets me through doors and keeps other people outside them. Running a borrowed vocabulary past you unmarked would be the same move with the credit taken off. The original goes far deeper than my use of it and repays reading on its own terms; the back of the book points you to where to start.
 
 Every feeling you experience falls into one of five channels.
 
@@ -418,7 +418,7 @@ Each channel carries intelligence. You're not trying to "get over" any of them. 
 
 ### The Satisfied States: What the Feeling Is For
 
-Each channel has a completed state, and you get there by making a move. A feeling can settle on its own sometimes, given enough time, but the game does not wait on that. You play a move, and the move carries the stuck charge into a restored capability: something you can do that you could not do while the feeling stayed stuck. It may not feel nicer at all. You are not trying to get rid of the emotion; you play it forward into what it makes possible. These five states are the renewable fuel Chapter 1 pointed you here to make, and you make them by moving.
+Each channel has a completed state, and you get there by making a move. A feeling can settle on its own sometimes, given enough time, but the game does not wait on that. You play a move that carries the stuck charge into a restored capability: something you can do that you could not do while the feeling stayed stuck. It may not feel nicer at all. You are not trying to get rid of the emotion; you play it forward into what it makes possible. These five states are the renewable fuel Chapter 1 pointed you here to make, and you make them by moving.
 
 Here are the five, each with the move that reaches it and what it hands you.
 
@@ -438,13 +438,13 @@ These are the five renewable tokens, and you reach every one of them the same wa
 
 ### The Energy Ecology: Why Some Moves Restore You and Others Hollow You Out
 
-Chapter 1 taught you to read your own fuel: what a move costs you. The Shaman adds the next layer: what that spending does to the living field: to the people around you, and what it leaves them carrying.
+Chapter 1 taught you to read your own fuel: what a move costs you. The Shaman adds the next layer: what that spending does to the living field (the people around you) and what it leaves them carrying.
 
 The Five-Move Form does not make every move easy. It was never going to.
 
 What it promises is discernment.
 
-Some moves replenish as they cost. You draw the boundary, and you walk away tired but clear. You name the sadness, and the sadness gives you back the love underneath it. You say what needed saying, and something in you comes back online because you stopped abandoning yourself.
+Some moves replenish as they cost. You draw the boundary, then walk away tired but clear. When you name the sadness, it gives you back the love underneath it. Once you say what needed saying, something in you comes back online, because you stopped abandoning yourself.
 
 Some moves sustain. They do not refill you all at once, but they keep the field workable. A pause. A clean question. One honest sentence instead of the whole speech. Enough structure for the feeling to teach without flooding the field.
 
@@ -452,7 +452,7 @@ Some moves cost. Sometimes they are still the right moves. Staying in the conver
 
 This is where a lot of allyship burns people out. They keep spending non-renewable fuel and calling the spending virtue.
 
-This is the fuel economy Chapter 1 handed to the Shaman to finish. Back in the Arcade, non-renewable fuel was the fixed supply that empties you as you spend it, and the renewable kind hands back more than you spent. That clean tiredness after a move that cost you and fed you at once is a renewable token going back in the tank. Chapter 1 left you the fuel; here you learn to make it.
+This is the fuel economy Chapter 1 handed to the Shaman to finish. Back in the Arcade, non-renewable fuel was the fixed supply that empties you as you spend it, while the renewable kind hands back more than you spent. That clean tiredness after a move that cost you and fed you at once is a renewable token going back in the tank. Chapter 1 left you the fuel; here you learn to make it.
 
 Emotional alchemy gives you a different test:
 
@@ -541,7 +541,7 @@ Solo, written or spoken, fifteen to twenty-five minutes.
 
 Three exchanges at minimum. The answers don't have to be polite.
 
-**1 · BE IT.** First person. You are the part. Speak as *I*, one paragraph, and say what you have to say about showing up as an ally.
+**1 · BE IT.** First person. You are the part. Speak as *I* for one paragraph, saying what you have to say about showing up as an ally.
 
 **RECEIPT.** Sit thirty seconds. Did the charge move? Up, down, sideways into something clearer? That is fuel coming back.
 
@@ -549,7 +549,7 @@ Three exchanges at minimum. The answers don't have to be polite.
 
 Each chapter ahead opens its pass with a sentence like that one. Work it if it moves something in you. If it doesn't, work the charge that does. A live charge does more than a fabricated one. If nothing is live yet, run it dry; reaching the charge is the capacity you are building.
 
-This is deep work on live material, and the material has weight. Some of what surfaces wants a trained person in the chair with you. When that happens, the practice is doing its job, and getting help is your next move rather than a failure.
+This is deep work on live material, which has weight. Some of what surfaces wants a trained person in the chair with you. When that happens, the practice is doing its job, so getting help is your next move rather than a failure.
 
 | Stuck because… | Tool |
 |----------------|------|
@@ -565,7 +565,7 @@ This is deep work on live material, and the material has weight. Some of what su
 
 Some stuckness comes as a structure wearing the shape of a person or a feeling.
 
-You are torn between two positions that both seem true. You need to hold a boundary *and* keep the belonging. You need to speak what you see *and* keep the space safe enough to stay in. You keep trying to pick the right side, and the picking exhausts you.
+You are torn between two positions that both seem true. You need to hold a boundary *and* keep the belonging. You need to speak what you see *and* keep the space safe enough to stay in. You keep trying to pick the right side, until the picking exhausts you.
 
 That is not a problem. Problems have solutions. This is a **polarity**: two necessary capacities that become costly when separated. Both sides stay. Both sides matter. The work is to hold both poles without letting either eat the other. You will want to pick one. Picking one is how the pair breaks.
 
@@ -621,32 +621,32 @@ You have the instrument now. Five stages, five channels, what each channel is fo
 
 The second half of this chapter takes up the part of you that decides whether you may use any of it.
 
-That part has a name, and you have met it before. If you are reading in stolen time, stop here. The practice above works on its own, and it goes on working after you close the book. Come back for the Controller.
+That part has a name. You have met it before. If you are reading in stolen time, stop here. The practice above works on its own, even after you close the book. Come back for the Controller.
 
 ---
 
 ## Section 5: The Controller, Up Close
 ### *The Standard-Setter, and the Move Into the World*
 
-I asked the universe for a sign, and then spent forty minutes deciding whether the sign met my criteria for a sign.
+I asked the universe for a sign, then spent forty minutes deciding whether the sign met my criteria for a sign.
 
 The retreat had a rule against giving advice. By the third day we had invented a way to give it that sounded like a question.
 
 You met the Controller at the door of the Forest, second in line, right behind the Protector. The Protector decides whether you live. The Controller decides how. It sets the standard (what's good, what's bad, what you're allowed to do about it) and then holds the line on that standard whether or not the rest of you agrees.
 
-At its best, the Controller is the referee of your game. You set the rules: the kind of ally you actually want to be, the line you'll hold when holding it costs you. The referee enforces those rules when your nerve goes. You said you'd show up for someone; when the day turns inconvenient, the referee gets you there anyway. That is integrity, and it is not automatic. It is a part of you doing a job. A person with no referee has values the width of whatever is easy that day.
+At its best, the Controller is the referee of your game. You set the rules: the kind of ally you actually want to be, the line you'll hold when holding it costs you. The referee enforces those rules when your nerve goes. You said you'd show up for someone; when the day turns inconvenient, the referee gets you there anyway. That is integrity, which is not automatic. It is a part of you doing a job. A person with no referee has values the width of whatever is easy that day.
 
-A referee can pick up a second job nobody handed it. It stops refereeing the game you chose and starts judging one you didn't. It begins ruling on how you are allowed to *feel* about your allyship: a good ally feels guilty, it decides; a good ally does not get angry at the people she came to help; a good ally does not trust a private read over the version the group has agreed to. That is a judge now, and it holds court in you.
+A referee can pick up a second job nobody handed it. It stops refereeing the game you chose and starts judging one you didn't. It begins ruling on how you are allowed to *feel* about your allyship: a good ally feels guilty, it decides; a good ally does not get angry at the people she came to help; a good ally does not trust a private read over the version the group has agreed to. That is a judge now, holding court in you.
 
 I know this judge well. Mine spent years ruling my own anger out of order (a good facilitator does not get angry), so the anger went below the waterline and leaked into the work anyway, ungoverned, because I had disqualified the one part that could have spoken it clean.
 
-When the Controller has the joystick, it runs as the inner critic. It blows the whistle on a feeling before the feeling has finished arriving (*that's not fair, you don't get to be angry, other people have it worse*) and calls the play out of bounds. It does not only officiate you. It officiates the person you came to help: they get the result their own way, on their own timeline, and you catch yourself docking points for how they did it instead of registering that they did it at all. You hand them a standard where they needed a partner.
+When the Controller has the joystick, it runs as the inner critic. It blows the whistle on a feeling before the feeling has finished arriving (*that's not fair, you don't get to be angry, other people have it worse*) and calls the play out of bounds. It does not only officiate you. It officiates the person you came to help: when they get the result their own way, on their own timeline, you catch yourself docking points for how they did it instead of registering that they did it at all. You hand them a standard where they needed a partner.
 
 Its other move never blows a whistle at all, because the play never starts. Perfectionism is the Controller refusing to let you onto the field until the conditions are perfect: the exact right words, the unimpeachable position, the certainty that nobody can criticize you. The conditions are never perfect. So the most careful, most informed person in the situation says nothing, and calls the silence rigor.
 
 Here is why this daemon stands second, right behind the one that keeps you alive, in a book about allyship. Everything you learned in the first half of this chapter runs on a feeling being allowed onto the field. You cannot alchemize a charge that got called out of bounds at the whistle. Wake, Open, Clean, Grow, Show: every stage assumes the feeling made it into play. The shadow Controller is the part that can end the whole practice before Stage One, by ruling that the feeling never had permission in the first place. Sensitivity is the Shaman's instrument; this hand keeps it in its case. The cost lands twice: you lose the read that would have told you what the moment actually needed, and the person in front of you loses the ally who could have named it. They get your composure instead of your help.
 
-You do not fire the Controller. Fire the referee and your follow-through goes with it. You take the joystick back by handing it the right rulebook, your rules, the ones you would choose on your clearest day. *Here is the ally I actually want to be: the one who names the unsaid even when her voice shakes. Hold me to that one. When a feeling shows up, let it onto the field. It is in bounds.* Do that, and the referee goes back to its real work: keeping your integrity when it costs you, and keeping the game honest, which now includes letting you feel.
+You do not fire the Controller. When you fire the referee, your follow-through goes with it. You take the joystick back by handing it the right rulebook, your rules, the ones you would choose on your clearest day. *Here is the ally I actually want to be: the one who names the unsaid even when her voice shakes. Hold me to that one. When a feeling shows up, let it onto the field. It is in bounds.* With that rulebook in hand, the referee goes back to its real work: keeping your integrity when it costs you, and keeping the game honest, which now includes letting you feel.
 
 It shows up in a single beat. Someone on your team pushes through a decision a part of you clocks as wrong. On the old standard, the Controller rules the read inadmissible before you can speak (*probably just my stuff*), and you go along with the group. Refereeing the game you chose, it lets the read onto the field and holds you to your own rule, and you say the one true sentence, *"Something here doesn't sit right with me. Can we slow down?"*, even while your nerve tells you to let it go. It is the same part, blowing the same whistle. What changed is whose rules it enforces.
 
@@ -656,17 +656,17 @@ It shows up in a single beat. Someone on your team pushes through a decision a p
 
 ### How the Controller Rules You Out
 
-The Controller does not block your read with a vague no. It blocks with a verdict about you, and it has six of them, the same six every time:
+The Controller does not block your read with a vague no. It blocks with a verdict about you, one of six, the same six every time:
 
 *I'm not good enough. I'm not ready. I don't belong. I'm insignificant. I'm not worthy. I'm not capable.*
 
 These are the whistle-calls. When something true moves in a moment and a part of you feels it, the Controller does not argue that the feeling is wrong. It disqualifies the one who would name it. Who are you to say this: you're not ready, you don't belong, you're not good enough. The read never reaches the field because the referee who would call it has been ruled ineligible. That is the mechanism. The six beliefs read like stray bad thoughts about yourself. They are the specific tool the Controller uses to keep your Shaman move from ever getting made.
 
-This is why you do not beat them by arguing. Argue *I am good enough* and you have already accepted the court. Now you are litigating your own standing while the moment passes, and the judge already has every past ruling on file and infinite patience. It wins on points every time. The Shaman's move is to notice that a court is even sitting, catch the belief in the act of disqualifying your read, and make the play anyway. Name the ruling. Name whose rule it is. Let the read onto the field with the belief still talking: *there it is, "not ready." Noted. Here is the true sentence anyway.*
+This is why you do not beat them by arguing. The moment you argue *I am good enough*, you have already accepted the court. Now you are litigating your own standing while the moment passes, against a judge who already has every past ruling on file and infinite patience. It wins on points every time. The Shaman's move is to notice that a court is even sitting, catch the belief in the act of disqualifying your read, and make the play anyway. Name the ruling. Name whose rule it is. Let the read onto the field with the belief still talking: *there it is, "not ready." Noted. Here is the true sentence anyway.*
 
 ### What You Install Instead
 
-That move gets you through the moment. Something else has to go in where the verdict sat, or the same court convenes next week with the same file open. The flat inversion fails on the mechanics. *I am good enough* is another verdict about the same defendant, argued on the judge's home ground, and you already know who wins there. What goes in has to be a claim the court cannot rule on: one about direction rather than standing, about what a move does to you rather than what you already are. The judge holds jurisdiction over your standing and none at all over where you are headed.
+That move gets you through the moment. Something else has to go in where the verdict sat, or the same court convenes next week with the same file open. The flat inversion fails on the mechanics. *I am good enough* is another verdict about the same defendant, argued on the judge's home ground, where you already know who wins. What goes in has to be a claim the court cannot rule on: one about direction rather than standing, about what a move does to you rather than what you already are. The judge holds jurisdiction over your standing and none at all over where you are headed.
 
 Six verdicts, six replacements. The middle column holds the version that keeps the court in session:
 
@@ -679,31 +679,31 @@ Six verdicts, six replacements. The middle column holds the version that keeps t
 | I'm not worthy | I'm worthy | *I can receive support and value without first earning my right to exist.* |
 | I'm not capable | I'm capable | *I can build the capacity this next step requires.* |
 
-Every line in the third column names a process, which leaves the judge nothing to convene over, and which also means none of them installs by repetition. A belief about what action does can only be put in by action. You make the proportionate move while the verdict is still talking, the move returns a result the verdict did not predict, and the belief picks up a piece of evidence that cannot be struck from the record. *Something here doesn't sit right with me. Can we slow down?*, said at that meeting, out loud, with your nerve telling you to let it go, deposits one. You were unready, you spoke, the ceiling held. Run that enough times and *I become more ready through proportionate action* describes an event you have watched happen rather than a phrase you are trying to talk yourself into.
+Every line in the third column names a process, which leaves the judge nothing to convene over, and which also means none of them installs by repetition. A belief about what action does can only be put in by action. You make the proportionate move while the verdict is still talking. When the move returns a result the verdict did not predict, the belief picks up a piece of evidence that cannot be struck from the record. *Something here doesn't sit right with me. Can we slow down?*, said at that meeting, out loud, with your nerve telling you to let it go, deposits one. You were unready, you spoke, the ceiling held. Run that enough times and *I become more ready through proportionate action* describes an event you have watched happen rather than a phrase you are trying to talk yourself into.
 
-The move onto the field with the belief still talking is the hinge of the whole chapter, and the chapter's real axis: Feeling and Function. The first half was Feeling: the charge sensed cleanly. This half is Function: the read becoming a move that changes something. Feeling without Function is endless sensing, nothing done. So take the move out of the forest, where nothing costs you and no one is watching, and into the places allyship actually happens, where it counts. The read does nothing for the person you came to help until it leaves your body and changes what happens next. Here the Shaman stops sensing and starts doing.
+The move onto the field with the belief still talking is the hinge of the whole chapter, the point where it turns on its real axis: Feeling and Function. The first half was Feeling: the charge sensed cleanly. This half is Function: the read becoming a move that changes something. Feeling without Function is endless sensing, nothing done. So take the move out of the forest, where nothing costs you and no one is watching, into the places allyship actually happens, where it counts. The read does nothing for the person you came to help until it leaves your body and changes what happens next. Here the Shaman stops sensing and starts doing.
 
 ### The Word Everyone Knew and No One Said
 
-There is a council that meets when the season turns, and it has beautiful words. It has words for welcome, words for loss, words for honoring the ancestors and the ones not yet born. Everyone knows them. You can tell a good council member by how well they say the words.
+There is a council that meets when the season turns. It has beautiful words. It has words for welcome, words for loss, words for honoring the ancestors and the ones not yet born. Everyone knows them. You can tell a good council member by how well they say the words.
 
-One year the river changed course, and the lower fields, three families' fields, began to fail. Everyone on the council knew it. They also knew whose plan had moved the water, and that the one whose plan it was sat at the head of the circle, owed great respect by everyone there. So the council said its words. It spoke of resilience. It spoke of the hard seasons the ancestors had survived. It named the suffering of the lower families with real feeling, and it moved not one handful of earth. The words were all correct. That was the problem. Correct words let everyone leave the fire without anyone saying what was true.
+When the river changed course one year, the lower fields, three families' fields, began to fail. Everyone on the council knew it. They also knew whose plan had moved the water, and that the one whose plan it was sat at the head of the circle, owed great respect by everyone there. So the council said its words. It spoke of resilience. It spoke of the hard seasons the ancestors had survived. It named the suffering of the lower families with real feeling, yet it moved not one handful of earth. The words were all correct. That was the problem. Correct words let everyone leave the fire without anyone saying what was true.
 
 There was a woman on that council who caught it every time, the way the circle warmed as the words went round and everyone settled, satisfied, while the lower fields kept dying. She could feel the whole council agree, without a word passing, that feeling the families' ruin was the same as answering it. It was not. No one said so for the reason she never did: to say so was to cross the man at the head of the circle. She had read it that clearly for three seasons. Every time, a verdict fired before she could speak: *who are you to say it. You're the newest here. You don't have the standing. You'll get it wrong and shame yourself.* So she said the beautiful words with everyone else and went home each time with the true one still sitting in her chest.
 
-The season the fields failed for good, she stopped waiting to feel ready, because she was never going to feel ready. She let the fear be all the way there (she was going to be disliked, and she was going to say it anyway) and turned to the one at the head of the circle and said it, to his face, in front of everyone: *Your plan moved the river. Three families are losing their fields. We have honored their suffering for three years and we have not moved the water back. I think we owe them the work, not the words.*
+The season the fields failed for good, she stopped waiting to feel ready, because she was never going to feel ready. She let the fear be all the way there (she was going to be disliked, but she was going to say it anyway) and turned to the one at the head of the circle and said it, to his face, in front of everyone: *Your plan moved the river. Three families are losing their fields. We have honored their suffering for three years. We have not moved the water back. I think we owe them the work, not the words.*
 
 The fire went silent. It was not a warm silence. Someone was cornered; the respected one felt his standing questioned in front of the circle; and for that moment she was, exactly as the verdict promised, the one who broke the beautiful words.
 
-Then it sat in the circle, and no one could unsay it, and the council had to answer it, not her feeling, the fact she had finally let out of her body. The water moved the next season. It moved because one sentence was true and said to the face that could change it. The correct words, for all their beauty, never were.
+Then it sat in the circle. No one could unsay it, so the council had to answer it: not her feeling, the fact she had finally let out of her body. The water moved the next season. It moved because one sentence was true and said to the face that could change it. The correct words, for all their beauty, never were.
 
-That is the myth this chapter breaks. Allyship is not saying the right words. The council had the right words, and the right words were the wall. Allyship is saying the true one, what a part of you has already felt, that everyone already half-knows, to the face it concerns, at the cost of being, for one cold moment, the person who said it.
+That is the myth this chapter breaks. Allyship is not saying the right words. The council had the right words. The right words were the wall. Allyship is saying the true one, what a part of you has already felt, that everyone already half-knows, to the face it concerns, at the cost of being, for one cold moment, the person who said it.
 
 That move trains the Alchemist. The Alchemist is the one who takes the charge the Controller called a foul (the fear, the "not ready," the "not good enough") and burns it for fuel instead of waiting for it to go away. The woman on the council did not speak once the fear left. She spoke while it still burned, and used it. That is the Shaman's whole practice. The sensing, the Form, the Controller pried off the joystick, all aimed at one outcome: one true sentence, out of your body and into the world, where it can move the water.
 
 ### 3-2-1 on Your Controller
 
-The one described above enforces a generic rulebook. Yours enforces a specific one, and that is what to work. Ten to fifteen minutes.
+The one described above enforces a generic rulebook. Yours enforces a specific one, which is the one to work. Ten to fifteen minutes.
 
 **3 · FACE IT.** Third person, and not the version in this chapter. What rules does yours actually enforce about how you are allowed to feel? Whose rules are they, and when did you agree to them? Which of the six calls does it blow the whistle with most: not good enough, not ready, don't belong, insignificant, not worthy, not capable? A paragraph, as much detail as you can hold, and give it a name if a name comes.
 
@@ -712,7 +712,7 @@ The one described above enforces a generic rulebook. Yours enforces a specific o
 — *Whose rulebook are you holding?*
 — *What happens to you if I feel it anyway?*
 
-**1 · BE IT.** Speak as *I*, one paragraph, and say what you have to say about showing up as an ally.
+**1 · BE IT.** Speak as *I* for one paragraph, saying what you have to say about showing up as an ally.
 
 **RECEIPT.** Sit thirty seconds. Did it loosen, or did it dig in? Both are information.
 
@@ -722,13 +722,13 @@ The one described above enforces a generic rulebook. Yours enforces a specific o
 
 ### What You Take Out of the Forest
 
-The Controller developed does what nothing else in this chapter can do: it admits a feeling onto the field and holds you to a line in the same motion. Those two rarely travel together. The Shaman's move needs both at once: the read let all the way in, and something in you that will not let you leave the table with it unsaid.
+The Controller developed does what nothing else in this chapter can do: it admits a feeling onto the field and holds you to a line in the same motion. Those two rarely travel together. The Shaman's move needs both at once: the read let all the way in and, at the same time, something in you that will not let you leave the table with it unsaid.
 
-That is what the Alchemist runs on. You cannot burn a charge you never let yourself have, and you will not spend one while the fear is still live unless some part of you enforces a rule you set on a clearer day. The woman at the council had both, and the rule won. That is a referee doing its job rather than a feeling that finally got loud enough.
+That is what the Alchemist runs on. You cannot burn a charge you never let yourself have. Nor will you spend one while the fear is still live, unless some part of you enforces a rule you set on a clearer day. The woman at the council had both, and the rule won. That is a referee doing its job rather than a feeling that finally got loud enough.
 
 You know what your Controller is for now. That is what you take out.
 
-Theirs is doing the same job in a Forest you cannot see into. A stranger's Controller enforces a rulebook you have never read, so it fires when you arrive holding a better standard, and it opens when you meet the one they already keep. You earn clearance with a Controller by keeping their rule.
+Theirs is doing the same job in a Forest you cannot see into. A stranger's Controller enforces a rulebook you have never read, so it fires when you arrive holding a better standard, but opens when you meet the one they already keep. You earn clearance with a Controller by keeping their rule.
 
 ---
 
@@ -747,7 +747,7 @@ Everything in Section 4 was the instrument. These five are what you do with the 
 
 **What it is:** You catch the signal in the second before your mind writes the account of what it means.
 
-**Why it matters:** A feeling arrives with about a second of clean data attached to it. The story comes next: who did what, what it says about them, what it says about you, whether you are allowed to be having this at all. The story arrives so fast that it feels like the same event. It is not. It is a second layer built on top of the first, and by the time you are working with it, you are no longer reading the situation. You are reading your explanation of the situation, a document you wrote.
+**Why it matters:** A feeling arrives with about a second of clean data attached to it. The story comes next: who did what, what it says about them, what it says about you, whether you are allowed to be having this at all. The story arrives so fast that it feels like the same event. It is not. It is a second layer built on top of the first. By the time you are working with it, you are no longer reading the situation. You are reading your explanation of the situation, a document you wrote.
 
 The Shaman's read is the data, not the document. Everything downstream (the channel you name, the sentence you say, the domain you spend it in) is only as good as what you caught before the narration started.
 
@@ -761,25 +761,25 @@ In practice: the marker arrives in the body, because the body registers before t
 
 **What it is:** In the second you would normally compose yourself, turn the sensitivity up instead. Six seconds is enough.
 
-**Why it matters:** You cannot affect what you cannot feel, and the dial in your hand only ever moved one direction. A reading taken at that setting arrives a beat after the moment it was for. Turn it up and you find what the low setting was covering. A part of you is getting something out of the very dynamic you say you want to end. The charge of being the good one. The relief when the conversation stays comfortable. That part steers better in the dark, and the low setting is the dark.
+**Why it matters:** You cannot affect what you cannot feel, and the dial in your hand only ever moved one direction. A reading taken at that setting arrives a beat after the moment it was for. Turn it up and you find what the low setting was covering. A part of you is getting something out of the very dynamic you say you want to end. The charge of being the good one. The relief when the conversation stays comfortable. That part steers better in the dark. The low setting is the dark.
 
 In practice: the marker is the urge to sit up straight and sound reasonable. That urge is your hand on the dial, moving it down. Leave it where it is. Count six seconds and let the situation reach you at full strength, including the part of it you would rather not have found.
 
 **Example:** A colleague presents your analysis as his own and you say nothing. You compose the polite version instantly: level voice, easy face, a note to raise it with him later. Turn the dial up instead. The anger arrives, which you expected. Underneath it sits something you did not expect, a small relief, because now you hold a grievance you never had to ask for. Keep the relief. The anger was the part you already knew about.
 
-**The test:** You can say what you were getting out of the moment, not only what it cost you. Liking some part of it is information rather than a confession. What stays hidden runs the moment, and what you can feel, you can play.
+**The test:** You can say what you were getting out of the moment, not only what it cost you. Liking some part of it is information rather than a confession. What stays hidden runs the moment, while what you can feel, you can play.
 
 ### Move 3 · Clean Up — Name the Channel Out Loud
 
 **What it is:** You say which channel runs, yours or the field's, where other people can hear it.
 
-**Why it matters:** Section 4 taught you to name the channel for yourself, and naming it for yourself completes the interior move. It does nothing to the situation. The situation still has several people running different channels at once with none of them named, which makes hard conversations feel like weather: pressure changing, no vocabulary for it, everyone reacting to something they cannot point at.
+**Why it matters:** Section 4 taught you to name the channel for yourself, which completes the interior move. It does nothing to the situation. The situation still has several people running different channels at once with none of them named, which makes hard conversations feel like weather: pressure changing, no vocabulary for it, everyone reacting to something they cannot point at.
 
 Named out loud, the channel stops being weather and becomes an object on the table. *There is a lot of fear in this conversation.* *I think what is actually here is sadness, and we keep treating it as a disagreement.* You are not diagnosing anyone. You are saying what the field runs, which hands everybody something to work with other than the content.
 
-In practice: use the channel word, not the euphemism. *Anger* rather than *frustration.* *Fear* rather than *concern.* *Sadness* rather than *disappointment.* The euphemisms exist to keep the channel deniable, and nobody can work a deniable channel, including you.
+In practice: use the channel word, not the euphemism. *Anger* rather than *frustration.* *Fear* rather than *concern.* *Sadness* rather than *disappointment.* The euphemisms exist to keep the channel deniable, but nobody can work a deniable channel, including you.
 
-**Example:** A retro has spent twenty minutes on process. Nobody has said that Ravi flagged this in March and got told it was fine, and you can name two other times that happened to him and to nobody else. Annoyance is the wrong name for what you feel. What you feel is fear, because saying it means saying something about this team out loud. That is Metal. Say it: *I think we are avoiding a word. Ravi raised this in March, and I would like to know why that landed differently.* You become the difficult one in that retro and in the next one. What the team does with it is the team's.
+**Example:** A retro has spent twenty minutes on process. Nobody has said that Ravi flagged this in March and got told it was fine, though you can name two other times that happened to him and to nobody else. Annoyance is the wrong name for what you feel. What you feel is fear, because saying it means saying something about this team out loud. That is Metal. Say it: *I think we are avoiding a word. Ravi raised this in March. I would like to know why that landed differently.* You become the difficult one in that retro and in the next one. What the team does with it is the team's.
 
 **The test:** You said it out loud, in the moment, where someone could disagree with it. Agreement is theirs to give or withhold. A channel named only to yourself belongs to Section 4.
 
@@ -799,15 +799,15 @@ In practice: say it to your own nervous system, plainly, in the seconds after th
 
 **What it is:** You say the read, what moves underneath the stated discussion, to the people it concerns, while it is live.
 
-**Why it matters:** This is the Shaman's steepest move, the one the entire chapter exists to make possible. Every conversation has a stated content and an actual one. The stated content is the agenda item, the disagreement, the plan. The actual one is what the people in it do to each other and with each other, and it drives the outcome regardless of whether anybody names it.
+**Why it matters:** This is the Shaman's steepest move, the one the entire chapter exists to make possible. Every conversation has a stated content and an actual one. The stated content is the agenda item, the disagreement, the plan. The actual one is what the people in it do to each other and with each other, which drives the outcome regardless of whether anybody names it.
 
-The Challenger has a move that looks like this from the outside and is a different animal. *Name the Unnameable* points at a violation: something happened, everyone saw it, nobody stated it, and stating it draws a line. This one points at what runs underneath, which may involve no violation at all. The Challenger names what is unacceptable. The Shaman names what is true. One of them creates a boundary. The other creates contact.
+The Challenger has a move that looks like this from the outside and is a different animal. *Name the Unnameable* points at a violation: something happened that everyone saw and nobody stated, so stating it draws a line. This one points at what runs underneath, which may involve no violation at all. The Challenger names what is unacceptable. The Shaman names what is true. One of them creates a boundary. The other creates contact.
 
-In practice: the sentence is shorter than you want it to be. A read usually runs one clause long. What extends it: the case you build so that nobody can argue with you, and the case is where the read goes to die, because a case invites a rebuttal and a read invites a response. Say the clause. Stop talking.
+In practice: the sentence is shorter than you want it to be. A read usually runs one clause long. What extends it: the case you build so that nobody can argue with you. The case is where the read goes to die, because a case invites a rebuttal and a read invites a response. Say the clause. Stop talking.
 
 You reach for the category instead of the person, and that kills a read faster than any case: *the culture here is toxic* rather than *Dave, you interrupted her three times.* The category feels braver and costs less, because nobody has to be Dave. Name a system and nobody has to answer you.
 
-**Example:** Two colleagues have restated the same scoping position four times. Nadia has said nothing for forty minutes. She did not come up through the graduate scheme and everyone else did, and the shorthand on the call belongs to the scheme. Say the unsaid charge: *I think we are three layers into a vocabulary and one of us has been outside it since the start.* One sentence, and nothing about who is right. It costs you with the two who were arguing, because you have told them their shorthand is a wall. The question resolves in four minutes, and Nadia joins it.
+**Example:** Two colleagues have restated the same scoping position four times. Nadia has said nothing for forty minutes. She did not come up through the graduate scheme and everyone else did, and the shorthand on the call belongs to the scheme. Say the unsaid charge: *I think we are three layers into a vocabulary and one of us has been outside it since the start.* One sentence, with nothing in it about who is right. It costs you with the two who were arguing, because you have told them their shorthand is a wall. The question resolves in four minutes once Nadia joins it.
 
 **The test:** You said the read you actually had, and you said it while it was still live. What the conversation did afterward belongs to the conversation. Said an hour late, it is a different move.
 
@@ -823,16 +823,16 @@ The moves are what you do. The next question is where.
 
 The parable showed one of the four: Direct Action, said to a face. It is the Shaman's steepest, the domain where the read has to leave you and cost you something in front of the person it concerns.
 
-The read has four domains, and one cheap habit that is none of them. The cheap habit is the read you keep: you sense what moves, refine it, and never say it, your body never on the line. Reading under the surface is real skill, and it asks nothing of you, because no one ever has to watch you get it wrong. A louder version of the same safety runs alongside it. You do say something, but only the correct words, the ones no one can fault, and that is the awareness trap, the habit that swallowed the others because you can run it from the chair. Both keep it unsaid. The four domains are where it finally leaves: said to a face, said out loud instead of the correct version, named as a need and asked for, put on the table so a group can work. Each costs more than sensing, because each trades the safety of the accurate private read for the risk of getting it wrong out loud.
+The read has four domains. One cheap habit imitates all four without being any of them. The cheap habit is the read you keep: you sense what moves, refine it, and never say it, your body never on the line. Reading under the surface is real skill, but it asks nothing of you, because no one ever has to watch you get it wrong. A louder version of the same safety runs alongside it. You do say something, but only the correct words, the ones no one can fault. That is the awareness trap, the habit that swallowed the others because you can run it from the chair. Both keep it unsaid. The four domains are where it finally leaves: said to a face, said out loud instead of the correct version, named as a need and asked for, put on the table so a group can work. Each costs more than sensing, because each trades the safety of the accurate private read for the risk of getting it wrong out loud.
 
 So here are all four, and before them the three moves that decide whether saying it helps or wounds. Not to study: pick where you'll spend the read this week, and pick the domain you keep avoiding. If the read only ever circles back into your own head, refined and unsaid, or comes out dressed in the words no one can fault, you never made the Shaman's move. You practiced it.
 
 ### How to Say It So It Helps
-When you say it, what you do next decides whether it helps the person or wounds them, and the same three moves decide it in every domain.
+When you say it, what you do next decides whether it helps the person or wounds them. The same three moves decide it in every domain.
 
-**Don't manage their reaction away.** You say it and the read tells you it landed: they get defensive, or shut down, or well up. Now the old Controller reaches to put a lid on it, theirs this time: *no, no, I didn't mean it like that.* That's the same lid you've been prying off your own feeling, now reaching for someone else's. The referee holds a different rule: feelings are allowed on the field, theirs too. Let the reaction be there, and stay in it with them instead of smoothing it flat.
+**Don't manage their reaction away.** You say it. The read tells you it landed: they get defensive, or shut down, or well up. Now the old Controller reaches to put a lid on it, theirs this time: *no, no, I didn't mean it like that.* That's the same lid you've been prying off your own feeling, now reaching for someone else's. The referee holds a different rule: feelings are allowed on the field, theirs too. Let the reaction be there, and stay in it with them instead of smoothing it flat.
 
-**Say it as yourself, not from above.** Watch the moment you shift from feeling it to pronouncing it. "What's really going on here is…" is the judge handing down a verdict from above, something to defend against. "This is what I feel is happening, and I could be wrong" is the same read offered as your own, something they can meet. The referee keeps you at eye level: name what's in play, don't sentence anyone.
+**Say it as yourself, not from above.** Watch the moment you shift from feeling it to pronouncing it. "What's really going on here is…" is the judge handing down a verdict from above, something to defend against. "This is what I feel is happening, but I could be wrong" is the same read offered as your own, something they can meet. The referee keeps you at eye level: name what's in play, don't sentence anyone.
 
 **Don't say it and leave.** The riskiest second comes right after the words are out, when the fear grabs for the exit: soften it, make a joke, change the subject. Leaving strands the person with what you just handed them. This is the referee's purest move: it holds you to what you started when everything in you wants to quit the field. Staying present, without defending and without adding anything, lets the truth land as care instead of an ambush.
 
@@ -846,15 +846,15 @@ When you say it, what you do next decides whether it helps the person or wounds 
 
 **Gather Resources — the real need named**
 
-*You're winning when:* you sensed and named what a situation actually needs, the real ask and not the palatable one you were already sure would be granted, and you asked the person who can grant it or refuse it. It cost you the exposure of naming a need you might be wrong about. The proof is that the true need got asked out loud, not managed down to something comfortable.
+*You're winning when:* you sensed and named what a situation actually needs, the real ask and not the palatable one you were already sure would be granted, then asked the person who can grant it or refuse it. It cost you the exposure of naming a need you might be wrong about. The proof is that the true need got asked out loud, not managed down to something comfortable.
 
 **Skillful Organizing — the read the group won't say**
 
-*You're winning when:* you named what the whole coalition feels and no one will touch (the resentment, the power nobody names, the silence everyone is keeping) to the group, so the work could move. It cost you the comfort of the polite surface. The proof is that it got onto the table and the group could work with it instead of around it.
+*You're winning when:* you named what the whole coalition feels and no one will touch (the resentment, the power nobody names, the silence everyone is keeping) to the group, so the work could move. It cost you the comfort of the polite surface. The proof is that it got onto the table, so the group could work with it instead of around it.
 
 ### After this, everything stands on it
 
-The Diplomat's close, the Challenger's line, the Regent's stand, the Architect's design: not one of them is worth anything built on a bad read. You are the first face for a reason. Every move the other five make begins here, with someone who can feel what is actually happening and say it where it counts. The Challenger aims the read into a line. The Architect builds structure from it. The Regent keeps what the read found worth keeping. The read comes first, and a read that never leaves the chair stalls the whole game. That is why you start with the Shaman, and why one true sentence, said and not only felt, is the move everything else will stand on.
+The Diplomat's close, the Challenger's line, the Regent's stand, the Architect's design: not one of them is worth anything built on a bad read. You are the first face for a reason. Every move the other five make begins here, with someone who can feel what is actually happening and say it where it counts. The Challenger aims the read into a line. The Architect builds structure from it. The Regent keeps what the read found worth keeping. The read comes first, but a read that never leaves the chair stalls the whole game. That is why you start with the Shaman, and why one true sentence, said and not only felt, is the move everything else will stand on.
 
 ### The Tell
 
@@ -873,29 +873,29 @@ Each Tell targets the Shaman's signature failure: the read spent on being seen a
 
 The Shaman is a Face. In the deck it is also an *operation* every move can run, which means you are not holding an archetype. You are holding twenty specific cards.
 
-Here is where they come from. The deck runs five basic moves, and you already know all five, because they are the Five-Move Form: Wake Up, Open Up, Clean Up, Grow Up, Show Up. Cross those against the four domains where allyship stops being interior and goes external (gathering resources, raising awareness, direct action, skillful organizing), and five times four gives twenty. Twenty cards per operation, a hundred and twenty in the deck. These twenty are the Shaman's.
+Here is where they come from. The deck runs five basic moves, and you already know all five, because they are the Five-Move Form: Wake Up, Open Up, Clean Up, Grow Up, Show Up. Cross those against the four domains where allyship stops being interior and goes external (gathering resources, raising awareness, direct action, skillful organizing): five times four gives twenty. Twenty cards per operation, a hundred and twenty in the deck. These twenty are the Shaman's.
 
 *Your twenty live in the deck rather than on this page: five basic moves against four domains, one card per crossing. You do not have to learn them. You have to find yours, and you already know the five moves that get you there.*
 
-The five moves are this chapter, in order. Every stage you practiced is one of them. Clean Up holds the five channels, which is why all four of those cards begin with the same verb: *name.* Pick a domain instead and you are choosing where the move lands. The five are the sequence; the four domains are the arena.
+The five moves are this chapter, in order. Every stage you practiced is one of them. Clean Up holds the five channels, which is why all four of those cards begin with the same verb: *name.* If you pick a domain instead, you are choosing where the move lands. The five are the sequence; the four domains are the arena.
 
 ### Drawing Against the Shadow
 
-Draw from your twenty rather than the hundred and twenty. Which twenty is easy. Which of the five rows is the real question, and a tempting wrong answer waits: that a shadow lives at one move and the other four are clean.
+Draw from your twenty rather than the hundred and twenty. Which twenty is easy. Which of the five rows is the real question. A tempting wrong answer waits: that a shadow lives at one move and the other four are clean.
 
-They are not clean. A daemon is not a defect at one stage of the Form. It is a rule, and the rule is in force the whole way down. Run the Controller through all five moves and five different failures come out, one per move, exactly what makes the five worth having, because each of those failures has cards sitting beside it.
+They are not clean. A daemon is not a defect at one stage of the Form. It is a rule, in force the whole way down. Run the Controller through all five moves: five different failures come out, one per move, exactly what makes the five worth having, because each of those failures has cards sitting beside it.
 
 **Wake Up.** The signal arrives at full strength and gets logged at a strength you are cleared to be seen having. Nothing is missed. Everything is downgraded on the way in.
 
 **Open Up.** The experience gets managed before it is undergone. The record is complete. The undergoing did not happen.
 
-**Clean Up.** It names the channel that has a sanctioned output. Heat gets filed as caution, because caution comes with approved behavior attached and heat does not.
+**Clean Up.** It names the channel that has a sanctioned output. Heat gets filed as caution, because caution comes with approved behavior attached while heat does not.
 
 **Grow Up.** Asked what wants to grow, it answers composure. Every time. The capacity that actually wants to grow is the capacity to be seen partway through something, and that one cannot be named, because naming it would name an unpermitted behavior.
 
 **Show Up.** It routes to the domain with the least exposure. The post rather than the conversation. Awareness rather than action, with strategy given as the reason.
 
-Five failures, one rule. The rule bites in a single place. The Controller's whole remit covers how you are permitted to behave while feeling something, and behavior is at stake the moment an experience would show, which is Open Up. The other four are what the rule costs upstream and downstream of the place it bites. Catch it there and the rest have nothing to propagate from.
+Five failures, one rule. The rule bites in a single place. The Controller's whole remit covers how you are permitted to behave while feeling something. Behavior is at stake the moment an experience would show, which is Open Up. The other four are what the rule costs upstream and downstream of the place it bites. Once you catch it there, the rest have nothing to propagate from.
 
 Take **What Seeing Costs**: Open Up, Raise Awareness, Shaman. Its question is the one the Controller exists to route around: *what am I actually feeling?* The card does not want the feeling the situation warrants, or the one a person at your level of understanding ought to have. It wants what is here.
 
@@ -905,13 +905,13 @@ Five moves, one card, about ninety seconds. That is a full pass of the Form with
 
 ### From Card to Quest
 
-A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played, and the difference is a person.
+A card that ends in a notebook is a card you read. A card that ends in a quest is a card you played. The difference is a person.
 
-A quest is a commitment to act that touches somebody other than you, on a date. It is not a resolution and it is not a value. It has a verb, a name in it, and a deadline. Quests come from the Show Up cards, and every one of them ends in an artifact, and an artifact is something another person can encounter.
+A quest is a commitment to act that touches somebody other than you, on a date. It is not a resolution and it is not a value. It has a verb, a name in it, and a deadline. Quests come out of the Show Up cards, because those cards end in artifacts: an artifact is something another person can encounter.
 
-Before you make it a quest, locate yourself in the situation. What is yours to name, offer, or change? Who can tell you no, redirect you, or correct the read? If you have standing to move, make the smallest action that changes what you control. If you do not have it yet, getting it is the quest: ask permission, offer one bounded contribution, prepare with somebody whose job is to help you, or step back cleanly. A quest that changes what other people live with needs one more move, and you will meet it with the Player in Chapter 9.
+Before you make it a quest, locate yourself in the situation. What is yours to name, offer, or change? Who can tell you no, redirect you, or correct the read? If you have standing to move, make the smallest action that changes what you control. If you do not have it yet, getting it is the quest: ask permission, offer one bounded contribution, prepare with somebody whose job is to help you, or step back cleanly. A quest that changes what other people live with needs one more move, which you will meet with the Player in Chapter 9.
 
-Write yours in one sentence: what you will do, who it reaches, by when, and what it costs you. *Say the Unsaid Charge* becomes: **I will tell Dana what I noticed in Tuesday's meeting and not soften it, before Friday, and it will cost me her thinking I am difficult.** That is a quest. *I will be more aware of my impact* is not one; nobody can tell whether you did it, including you.
+Write yours in one sentence: what you will do, who it reaches, by when, and what it costs you. *Say the Unsaid Charge* becomes: **I will tell Dana what I noticed in Tuesday's meeting and not soften it, before Friday, which will cost me her thinking I am difficult.** That is a quest. *I will be more aware of my impact* is not one; nobody can tell whether you did it, including you.
 
 The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. Enthusiasm alone usually means you have picked something you were already going to do.
 
@@ -926,11 +926,11 @@ The Shaman contributes this to the allyship game: **before strategy, before stru
 
 The Shaman teaches you to read that pattern, in yourself, in others, in the group.
 
-One more voice waits on the other side of the read. The moment you take the read into the world and say it out loud, the doubt speaks up first: *is it even real? Are you sure, or are you making it up?* That is the Skeptic, the part that doubts your own knowing before anyone else can, and the next face begins there. The Challenger cannot do their work without the Shaman's work done first. The Challenger's superpower is the ability to name what's unacceptable. To draw a line. To say "this is not okay." If you don't know what you *feel* about what's unacceptable, if you haven't read the emotional truth underneath, then the Challenger's line is performance. It's strategy without root.
+One more voice waits on the other side of the read. The moment you take the read into the world and say it out loud, the doubt speaks up first: *is it even real? Are you sure, or are you making it up?* That is the Skeptic, the part that doubts your own knowing before anyone else can. The next face begins there. The Challenger cannot do their work without the Shaman's work done first. The Challenger's superpower is the ability to name what's unacceptable. To draw a line. To say "this is not okay." If you don't know what you *feel* about what's unacceptable, if you haven't read the emotional truth underneath, then the Challenger's line is performance. It's strategy without root.
 
 Every great boundary is rooted in a feeling. Every genuine "no" comes from a Shaman who knows what they actually care about.
 
-The chapter leaves you holding a practice whose parts fit together. Your body registers a situation before your mind has finished making sense of it, the entire reason the read is worth anything, since it arrives early, and early is the only window in which it can change what happens. Wake → Open → Clean → Grow → Show carries a charge from arrival to a move, and Clean is the stage almost everyone skips, because locating a feeling and letting it settle takes longer than converting it into something useful. The five channels (Metal/Fear, Water/Sadness, Wood/Joy, Fire/Anger, Earth/Neutrality) tell you which teaching a given charge carries, since fear at the edge of what matters to you and anger at a line getting crossed are different instruments asking for different moves. The energy ecology tells you afterward which moves replenished you, which sustained the field, and which spent capacity you were going to need next week. 3-2-1 is here by name and in practice (Face it, Talk to it, Be it), and it runs again in every chapter after this one, and the Polarity Map is here by name as well, drawn again in every chapter after this one: two legitimate poles, your position on the axis, one action containing both. Feeling ↔ Function is the axis this chapter itself sits on, the reason you got a polarity rather than a rule. The Controller up close is the referee that holds your integrity when holding it costs you, the judge that rules your read out of order before it can be spoken, the six beliefs it rules with, the six developmental beliefs that go in where a flat inversion only re-enters the court, and what separates the referee from the judge: whose rulebook it enforces. The read leaves your body across four domains, and how you carry it is the difference between a true sentence that helps and one that only lands: stay with the reaction, say it as your own, don't leave. The five game moves are all of it compressed into what a person actually does at a table: Catch It Before the Story, Turn the Dial Up, Name the Channel Out Loud, Say What You Can Do Now, Say the Unsaid Charge.
+The chapter leaves you holding a practice whose parts fit together. Your body registers a situation before your mind has finished making sense of it, the entire reason the read is worth anything, since it arrives early, in the only window in which it can change what happens. Wake → Open → Clean → Grow → Show carries a charge from arrival to a move. Clean is the stage almost everyone skips, because locating a feeling and letting it settle takes longer than converting it into something useful. The five channels (Metal/Fear, Water/Sadness, Wood/Joy, Fire/Anger, Earth/Neutrality) tell you which teaching a given charge carries, since fear at the edge of what matters to you and anger at a line getting crossed are different instruments asking for different moves. The energy ecology tells you afterward which moves replenished you, which sustained the field, and which spent capacity you were going to need next week. 3-2-1 is here by name and in practice (Face it, Talk to it, Be it), and runs again in every chapter after this one. The Polarity Map is here by name as well, drawn again in every chapter after this one: two legitimate poles, your position on the axis, one action containing both. Feeling ↔ Function is the axis this chapter itself sits on, the reason you got a polarity rather than a rule. The Controller up close is the referee that holds your integrity when holding it costs you, the judge that rules your read out of order before it can be spoken, the six beliefs it rules with, the six developmental beliefs that go in where a flat inversion only re-enters the court, and what separates the referee from the judge: whose rulebook it enforces. The read leaves your body across four domains, and how you carry it is the difference between a true sentence that helps and one that only lands: stay with the reaction, say it as your own, don't leave. The five game moves are all of it compressed into what a person actually does at a table: Catch It Before the Story, Turn the Dial Up, Name the Channel Out Loud, Say What You Can Do Now, Say the Unsaid Charge.
 
 Underneath every part of it is the Alchemist: the willingness to spend a charge while it is still live, instead of waiting for the conditions that never arrive.
 

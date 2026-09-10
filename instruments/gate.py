@@ -32,9 +32,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, os.pardir)
 
 
-def _load_profile():
+def _load_mod(name):
     try:
-        spec = importlib.util.spec_from_file_location("profile", os.path.join(HERE, "profile.py"))
+        spec = importlib.util.spec_from_file_location(name, os.path.join(HERE, name + ".py"))
         mod = importlib.util.module_from_spec(spec)
         spec.loader.exec_module(mod)
         return mod
@@ -42,29 +42,46 @@ def _load_profile():
         return None
 
 
-_profile = _load_profile()
+_profile = _load_mod("profile")
+_fl = _load_mod("find_line")
+_exc = _load_mod("exceptions")
+
+
+def _sentence_at(text, pos):
+    """The sentence holding offset `pos`.
+
+    gate scores whole concatenated surfaces rather than sentences, so a hit arrives as an offset.
+    The exceptions ledger keys on the sentence, so a hit has to be resolved back to one before it
+    can be accepted. Boundaries are the nearest sentence end or line break on each side, which is
+    the same coarse split the other scanners use."""
+    left = max(text.rfind(". ", 0, pos), text.rfind("\n", 0, pos), text.rfind("! ", 0, pos),
+               text.rfind("? ", 0, pos))
+    start = 0 if left < 0 else left + 1
+    ends = [e for e in (text.find(". ", pos), text.find("\n", pos)) if e >= 0]
+    end = min(ends) + 1 if ends else len(text)
+    return " ".join(text[start:end].split())
 
 # The banned voice words are this project's profile, read from editorial.yaml when present and
 # falling back to the historical hardcoded list otherwise (see profile.py). The fragments are
 # wrapped in word boundaries here, exactly as the old inline pattern was.
-_BANNED_DEFAULT = ["rooms?", "quiet(ly|er|est)?", "genuinely", "things?"]
+# EMPTIED 2026-09-09. This list used to hold ["rooms?", "quiet(ly|er|est)?", "genuinely",
+# "things?"] — which are *Mastering the Game of Allyship*'s voice decisions, sitting in the core
+# as the default every project inherits. The selftest caught it the hour it was written: a
+# throwaway project with no voice rules at all failed `gate` on the word "room".
+#
+# **A banned word is the most project-specific thing in the pipeline.** It belongs in
+# `editorial.yaml`, and a project that declares none has none. Both current consumers declare
+# their own lists, so emptying this changed neither of their counts.
+_BANNED_DEFAULT = []
 _banned = _profile.banned(_BANNED_DEFAULT) if _profile else _BANNED_DEFAULT
-BANNED_PATTERN = r'|'.join(r'\b(?:%s)\b' % frag for frag in _banned)
+# `(?!)` never matches. Without it an empty list joins to the EMPTY pattern, which matches at
+# every position — a project declaring `banned: []` scored 344 phantom hits on six lines of
+# clean prose. Found by selftest.py the same hour _BANNED_DEFAULT was emptied.
+BANNED_PATTERN = (r'|'.join(r'\b(?:%s)\b' % frag for frag in _banned)) if _banned else r'(?!)' 
+# Only the last-resort fallback glob (when no spine/manifest is available) still needs this.
+# What ships is now the spine's business, not a list maintained here — find_line.corpus_paths()
+# returns the accurate shipping set, so a retired draft or a backup file cannot leak into the scan.
 MS = os.path.join(ROOT, "manuscript")
-APX = os.path.join(ROOT, "appendices")
-
-# The appendices that ship. Everything else in appendices/ is a backup, an
-# architecture decision record, or a review artifact, and is not printed.
-SHIPPING_APPENDICES = [
-    "APPENDIX_A_FOUR_ALLYSHIP_DOMAINS.md",
-    "APPENDIX_B_QUESTS_CAMPAIGNS.md",
-    "APPENDIX_C_FIVE_CHANNELS.md",   # C changed hands 2026-07-30 by Wendell's
-                                     # ruling; the Key Terms glossary is retired
-    "APPENDIX_D_EMOTIONAL_ALCHEMY_PRACTICES.md",
-    "APPENDIX_E_321_SHADOW_PROCESS.md",
-    "APPENDIX_F_POLARITY_MAP.md",
-    "ON_THE_SHOULDERS_OF.md",
-]
 BLOCK = re.compile(
     r"<!-- (MARGINALIA|EPIGRAPH-BYLINE|POSTCARD) -->\n(.*?)\n<!-- /\1 -->", re.S)
 
@@ -233,27 +250,31 @@ def main():
     if paths:
         return report(draft_surfaces(paths), verbose)
 
-    files = sorted(glob.glob(os.path.join(MS, "ch*.md")),
-                   key=lambda f: int(re.search(r"ch(\d+)", os.path.basename(f)).group(1)))
+    # The corpus is the shared spine (find_line.corpus_paths), not a hardcoded manuscript glob,
+    # so gate scans exactly what the rest of the pipeline scans — the accurate shipping set, no
+    # retired drafts or backups — and travels to a project whose prose is not under manuscript/.
+    # Bucket by the spine's `kind`, which is portable; fall back to the old glob only if the spine
+    # is unavailable (no build_book / manifest).
+    corpus = _fl.corpus_paths() if _fl else []
+    if not corpus:
+        corpus = [("chapter", f) for f in sorted(glob.glob(os.path.join(MS, "ch*.md")))]
+    no_apx = "--no-appendices" in sys.argv
+
     surfaces = {"body": "", "marginalia": ""}
-    for f in files:
-        b, m = split_surfaces(io.open(f, encoding="utf-8").read())
-        surfaces["body"] += "\n" + b
-        surfaces["marginalia"] += "\n" + m
-
-    if "--no-appendices" not in sys.argv:
-        text = ""
-        for name in SHIPPING_APPENDICES:
-            path = os.path.join(APX, name)
-            if os.path.exists(path):
-                text += "\n" + io.open(path, encoding="utf-8").read()
-        surfaces["appendices"] = text
-
-        matter = ""
-        for d in (os.path.join(ROOT, "front_matter"), os.path.join(ROOT, "back_matter")):
-            for path in sorted(glob.glob(os.path.join(d, "*.md"))):
-                matter += "\n" + io.open(path, encoding="utf-8").read()
-        surfaces["matter"] = matter
+    for kind, f in corpus:
+        # Through find_line, so gate honours `prose_section` and the front-matter strip like
+        # every other instrument.
+        text = _fl.prose_text(f) if _fl else io.open(f, encoding="utf-8").read()
+        if kind == "chapter":
+            b, m = split_surfaces(text)
+            surfaces["body"] += "\n" + b
+            surfaces["marginalia"] += "\n" + m
+        elif no_apx:
+            continue
+        elif kind == "appendix":
+            surfaces["appendices"] = surfaces.get("appendices", "") + "\n" + text
+        else:  # front, back, component — other shipped text, scanned for the same violations
+            surfaces["matter"] = surfaces.get("matter", "") + "\n" + text
 
     return report(surfaces, verbose)
 
@@ -278,9 +299,26 @@ def report(surfaces, verbose):
                     print("\n%s [%s] %r\n    …%s…" % (label, name, m.group(0).strip(), ctx.strip()))
         print()
 
+    # Every hit, resolved to the sentence that holds it — the unit the exceptions ledger keys on,
+    # so a banned word inside a quotation can be accepted once instead of argued with every run.
+    hits = []
+    for label, text in surfaces.items():
+        for name, ms in score(text):
+            for m in ms:
+                hits.append(_sentence_at(text, m.start()))
+    if "--keys" in sys.argv:
+        # gate concatenates surfaces, so it has no line number to offer — the surface label is
+        # the most it honestly knows. The key is what matters; the location is a convenience.
+        return _exc.emit_keys("gate", [("body", s) for s in hits]) if _exc else 0
+    kept = [s for s in hits if _exc and _exc.is_accepted("gate", s)]
+    unresolved = len(hits) - len(kept)
+    target = _profile.target("gate", 0) if _profile else 0
+
     print("GATE PASS — every counter reads 0" if total == 0
           else "GATE FAIL — %d hit(s). Re-run with -v to see them." % total)
-    return 0 if total == 0 else 1
+    print("EDITORIAL gate unresolved=%d accepted=%d total=%d target=%d"
+          % (unresolved, len(kept), len(hits), target))
+    return 0 if unresolved <= target else 1
 
 
 if __name__ == "__main__":

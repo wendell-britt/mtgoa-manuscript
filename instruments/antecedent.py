@@ -170,7 +170,7 @@ def draft(paths, pos_tag, word_tokenize, verbose):
     print("%-22s %8s %8s" % ("file", "orphan", ">%dw" % DISTANCE_LIMIT))
     print("-" * 40)
     rows = []
-    for l in dl.prose(dl.surfaces(paths)):
+    for l in dl.paragraphs(dl.prose(dl.surfaces(paths))):
         for low, s, dist, comp in sites(l["text"], pos_tag, word_tokenize):
             rows.append((l, low, s, dist))
     per = defaultdict(lambda: [0, 0])
@@ -203,13 +203,22 @@ def main():
     pos_tag, word_tokenize = dn.tagger()
     if pos_tag is None:
         sys.stderr.write("tagger unavailable\n")
+        # The machine line coherence's `gates` check and review.py both read: this is a missing
+        # dependency, not a clean run. Same contract as fragment.py.
+        print("EDITORIAL antecedent status=unavailable reason=nltk")
         return 1
 
     paths = dl.paths_from(sys.argv[1:])
     if paths:
         return draft(paths, pos_tag, word_tokenize, verbose)
 
-    body = dn.paragraphs(fl.surfaces())
+    # Reflow hard-wrapped lines into whole paragraphs (see draft_lines.paragraphs). The old
+    # dn.paragraphs() is a per-line filter with a 25-word floor — on a wrapped file each ~12-word
+    # line falls under the floor and is dropped, so the scan missed wrapped passages entirely, and
+    # pronoun→antecedent distance was measured inside a line fragment. Reflow gives real paragraphs.
+    body = dl.paragraphs([l for l in fl.surfaces()
+                          if l["surface"] == "body" and l["rel"] != dn.LETTER
+                          and not dl.is_apparatus(l["text"])])
     per = defaultdict(lambda: {"n": 0, "far": [], "crowd": [], "none": []})
     total_pron = 0
     for l in body:

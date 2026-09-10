@@ -70,3 +70,98 @@ def pass_list(default=None):
 def project_only(default=None):
     v = _load().get("project_only")
     return list(v) if v else list(default or [])
+
+
+def exclude(default=None):
+    """Globs for components to keep OUT of the corpus, matched against the project-relative path
+    and against the basename. A writing guide or a spec that lives beside the prose is not prose,
+    and narrowing the `corpus:` glob by hand to dodge it breaks as soon as a file is added."""
+    v = _load().get("exclude")
+    return list(v) if v else list(default or [])
+
+
+def prose_section(default=None):
+    """Where the prose sits inside a component file, as {'begin': ..., 'end': ...}.
+
+    Chapter files often carry apparatus in the same document as the prose — an outline
+    above, editorial notes below. Front matter is stripped by find_line unconditionally
+    because it is universal; these markers are the project's, because the heading text
+    is. A project that declares nothing has its components scanned whole, which is the
+    behaviour every project had before 2026-09-09.
+    """
+    v = _load().get("prose_section")
+    return dict(v) if v else default
+
+
+def register(default=None):
+    """Path (relative to project root) of the authorities register coherence.py checks,
+    or `default` when the project has not declared one. A fresh project has no register
+    yet, so this stays None and coherence.py skips that check rather than inventing one."""
+    v = _load().get("register")
+    return v if v else default
+
+
+def target(name, default=0):
+    """The maximum allowed UN-accepted hits for an instrument. The house policy is zero —
+    every telling/trailing_and/light_verb is a defect until accepted in the ledger. Read from
+    the manifest's `targets:` block; defaults to zero when unset, which is the policy anyway."""
+    try:
+        return int(_load().get("targets", {}).get(name, default))
+    except Exception:
+        return default
+
+
+def targets(default=None):
+    """The whole `targets:` block — which instruments are held to a zero (or capped) target.
+    coherence.py's zero check iterates this. Falls back to the keys of `baselines:` at zero, so
+    a project that declared baselines but not targets is still held to zero on those instruments."""
+    v = _load().get("targets")
+    if v:
+        return {k: int(n) for k, n in v.items()}
+    base = _load().get("baselines")
+    return {k: 0 for k in base} if base else dict(default or {})
+
+
+def core_version(default=None):
+    """The core version this project was installed at, from `core_version:` in the manifest.
+    Compared by coherence.py against the version baked into the installed code and against the
+    core home's published VERSION."""
+    v = _load().get("core_version")
+    try:
+        return int(v)
+    except Exception:
+        return default
+
+
+def core_home(default=None):
+    """Path to the shared core this project was installed from (`core_home:`), absolute or relative
+    to the project root. When it is reachable, coherence.py reads its VERSION and reports a core
+    the project has yet to take."""
+    v = _load().get("core_home")
+    return v if v else default
+
+
+def established(default=None):
+    """Head nouns this project treats as defined vocabulary, so `presupposed.py` stops asking them
+    to be introduced. Corpus frequency already licenses the terms a book leans on; this is the hand
+    list for terms frequency has yet to catch up with."""
+    v = _load().get("established")
+    return list(v) if v else list(default or [])
+
+
+def reporting(default=None):
+    """Steps declared as boards: they surface candidates and exit non-zero as a matter of course,
+    so review.py shows them as `note` and never fails on them. Everything outside this list and
+    outside `targets:` fails the board on a non-zero exit — the strict default that stops a hard
+    gate being demoted by inference."""
+    v = _load().get("reporting")
+    return list(v) if v else list(default or [])
+
+
+def reference(default=None):
+    """The `reference:` block — the EXTERNAL bands (reader/ICA and genre) the distribution-shaped
+    measures are read against, in place of a self-baseline. Each band is a dict of feature ->
+    [median, low, high], measured once on a comp corpus. Empty when a project declares none, in
+    which case an instrument keeps its own hardcoded baseline (see prose_diet.BASE)."""
+    v = _load().get("reference")
+    return dict(v) if v else dict(default or {})

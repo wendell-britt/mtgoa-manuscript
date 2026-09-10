@@ -75,8 +75,17 @@ def _load(name, path):
 fl = _load("find_line", os.path.join(HERE, "find_line.py"))
 dl = _load("draft_lines", os.path.join(HERE, "draft_lines.py"))
 profile = _load("profile", os.path.join(HERE, "profile.py"))
+exc = _load("exceptions", os.path.join(HERE, "exceptions.py"))
 
-SENT = re.compile(r"(?<=[.!?])\s+")
+# Sentence boundary. The abbreviation guard was added 2026-09-09: the bare
+# `(?<=[.!?])\s+` split on every period, so `Practitioner: J. Kuiper, first case.`
+# came apart into two fragments and `3rd ed. names the surgeon.` into one. Five
+# instruments carry this constant; they must stay identical. Each lookbehind is
+# fixed-width, which is what stdlib `re` allows.
+_ABBR = (r"(?<!\b[A-Z]\.)(?<!\bed\.)(?<!\bDr\.)(?<!\bMr\.)(?<!\bMs\.)"
+         r"(?<!\bMrs\.)(?<!\betc\.)(?<!\bvs\.)(?<!\bvol\.)(?<!\bno\.)"
+         r"(?<!\bpp\.)(?<!\bcf\.)(?<!\bi\.e\.)(?<!\be\.g\.)(?<!\bSt\.)")
+SENT = re.compile(r"(?<=[.!?])" + _ABBR + r"\s+")
 
 # DELEXICAL: a light verb + an optional article + a nominalization that hides the real verb.
 # The light-verb list is the linguistics core (do, make, take, give, have, get) plus the Latinate
@@ -139,6 +148,7 @@ DEAD = re.compile(r"\b(it|this|that|these|those|%s|\w{4,}(?:tion|sion|ment|ness)
 # 5,985 sentences. DEAD runs high because most of its subjects are concrete and fine -- which is
 # why it is surfaced, not graded.
 BOOK_BASELINE = profile.baseline("light_verb", 0.7)  # manifest-authoritative; see profile.py
+TARGET = profile.target("light_verb", 0)  # max un-accepted DELEXICAL hits; house policy is zero
 
 
 def sites(text):
@@ -159,10 +169,10 @@ def main():
     verbose = "-v" in sys.argv
     paths = dl.paths_from(sys.argv[1:])
     if paths:
-        groups = [(os.path.basename(p), dl.prose(dl.surfaces([p]))) for p in paths]
+        groups = [(os.path.basename(p), dl.paragraphs(dl.prose(dl.surfaces([p])))) for p in paths]
     else:
-        groups = [("the book", [l for l in fl.surfaces() if l["surface"] == "body"
-                                and not l["text"].lstrip().startswith(("#", "|", ">", "-", "*"))])]
+        groups = [("the book", dl.paragraphs([l for l in fl.surfaces() if l["surface"] == "body"
+                                and not dl.is_apparatus(l["text"])]))]
 
     print("light verb — the buried verb (DELEXICAL) and the fake-concrete verb (DEAD); see the docstring")
     print("%-24s %6s %5s %7s %8s" % ("file", "DELEX", "DEAD", "sents", "delex%"))
@@ -200,6 +210,17 @@ def main():
     print("")
     print("book baseline %.1f%% DELEXICAL. An existence check has a false-positive floor; the "
           "instrument surfaces, the reader clears." % BOOK_BASELINE)
+
+    # Zero-target accounting. DELEXICAL is the tier driven to zero; a hit whose sentence is in the
+    # ledger is a deliberate keep and does not count. coherence.py reads this line.
+    prim = [s for (t, s, _l) in rows if t == "DELEXICAL"]
+    if "--keys" in sys.argv:
+        return exc.emit_keys("light_verb", [
+            ("%s:%d" % (os.path.basename(l["rel"]), l["line"]), s)
+            for (t, s, l) in rows if t == "DELEXICAL"])
+    kept = [s for s in prim if exc.is_accepted("light_verb", s)]
+    print("EDITORIAL light_verb unresolved=%d accepted=%d total=%d target=%d"
+          % (len(prim) - len(kept), len(kept), len(prim), TARGET))
     return 1 if bad else 0
 
 
