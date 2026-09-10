@@ -620,7 +620,7 @@ In practice: Make a list of three practices in your current inheritance that you
 
 In practice: Identify one commitment you've made that nobody watches you keep. Do it anyway. That's the Keeper of Vows in action. That's what makes you someone worth inheriting from.
 
-**Example:** Two years ago you told a team you would read every incident report yourself, and nobody has checked since. This month brings eleven, and nine are routine. Read the nine. Nobody will know either way, which is the point. The vow is not the reading. The vow is that what you said was true stays true on the day it costs you an hour and buys you nothing.
+**Example:** Two years ago you told a team you would read every incident report yourself, and nobody has checked since. This month brings eleven, and nine are routine. Read the nine. Nobody will know either way, which is the point. The vow is not the reading. The vow is that what you said was true stays true on the day it costs you an hour and returns nothing.
 
 **The test:** You kept it on the day it would have cost you nothing to drop it and nobody would have known either way. Being noticed is a separate question, and usually the answer is no.
 

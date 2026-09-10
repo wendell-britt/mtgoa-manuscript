@@ -806,3 +806,39 @@ claims:
       - {file: manuscript/ch6.md, phrase: "The cost falls on the people the design is for."}
       - {file: front_matter/headmasters_letter.md, phrase: "the same wherever you go."}
       - {file: back_matter/glossary.md, phrase: "door still counts"}
+
+  - id: DL-101
+    fact: >
+      P5 is closed. No abstraction buys anything, no feeling is metabolized, and where a charge
+      appears in the body it shows up rather than shows. Two P5 sites remain and both are literal.
+    applied: "14 of 14"
+    ruled_by: >
+      Wendell, 2026-09-10: "'shows in the body' shows up", and "continue with the p5s remaining
+      10."
+    wrong_because: >
+      **The first correction is mine from an hour earlier.** DL-100 replaced "where a feeling
+      landed in the body" with "shows in the body", and "show" without the particle is the same
+      clipped register the whole day has been about. Four sites, all introduced by me. **And I
+      nearly kept four more:** "buys" in ch1 sits inside the arcade chapter's sustained economy
+      conceit — "you have been paying it off" is two sentences later — and "costs you an hour and
+      buys you nothing" pairs cost with purchase deliberately. Both readings were available and
+      neither was asked for. **DL-95 kept fifteen "read"s on an argument like that and DL-98/99
+      kept 26 "land"s on another; both were overruled the same day.**
+    proof_mark: "2026-09-02, on 'praise lands warm'; row P5 of MARK_PATTERN_TABLE"
+    scope: >
+      The 10 P5 sites remaining in ch1-ch9 after DL-100, plus 5 in the apparatus, read in full
+      sentence on 2026-09-10. **Two are deliberately untouched and both are literal, the same
+      licence as the skeeball ball:** ch1:123 "trade them for a prize", an actual counter traded
+      at an actual redemption desk, and ch5:253 "the land was not returned", the noun.
+      **markpatterns.py was also counting a backup appendix as shipping** —
+      APPENDIX_C_KEY_TERMS_backup_2026-06-04 — which is the PHASE2 editorial-review bug wearing a
+      hat, in the same function that was fixed for it once already.
+    carriers:
+      - {file: manuscript/ch3.md, phrase: "name where a feeling shows up in the body"}
+      - {file: manuscript/ch6.md, phrase: "locate where it shows up, and stabilize there"}
+      - {file: manuscript/ch1.md, phrase: "It keeps you safe: while you are"}
+      - {file: manuscript/ch2.md, phrase: "because it never gets finished"}
+      - {file: manuscript/ch6.md, phrase: "Finished, it becomes Poignance"}
+      - {file: manuscript/ch8.md, phrase: "worked their pain through go unheard"}
+      - {file: back_matter/glossary.md, phrase: "It gives you the few seconds"}
+      - {file: instruments/markpatterns.py, phrase: "\"backup\" not in os.path.basename(p)"}

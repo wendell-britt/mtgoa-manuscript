@@ -25,7 +25,7 @@
 > second. I cannot teach a person to hand over an instrument they have never held.
 >
 > **2. What you will be able to do when you leave.** I teach one skill. A student learns to
-> name where a feeling shows in the body before naming what it means. Chest, throat, the back
+> name where a feeling shows up in the body before naming what it means. Chest, throat, the back
 > of the neck, the jaw. It sounds small to me as well. I have watched what follows from
 > it: the people around that student begin speaking earlier, because somebody present is
 > visibly not waiting to be sure.
@@ -324,7 +324,7 @@ That leaves the fear that has been guarding all of it: the fear of doing more ha
 
 Four beats cover the second when the charge has already arrived and the moment has not waited for you. **Welcome** the charge: stop pushing it away. **Acknowledge** it: name it to yourself, in one word if one word is all you have. **Validate** it: grant that a person standing where you are standing would feel this, without ruling on whether the feeling is correct. **Exhale.**
 
-Those four are **WAVE**, and the whole of it runs about as long as one breath. WAVE does not tell you what the charge means; the meaning comes later. What WAVE buys you is the few seconds in which choosing your next move becomes possible at all.
+Those four are **WAVE**, and the whole of it runs about as long as one breath. WAVE does not tell you what the charge means; the meaning comes later. What WAVE gives you is the few seconds in which choosing your next move becomes possible at all.
 
 #### Stage 3: Clean Up
 **What it means:** Clarify what the feeling is actually telling you about reality.
@@ -750,7 +750,7 @@ In practice: the marker arrives in the body, which registers before the account 
 
 **Example:** Somebody uses the wrong pronoun for Ines in a status meeting, corrects it, and moves on. Your chest tightens. Check the timing. The tightening was not about the correction. It came a second later, when Ines did not change her face. Your body read her, not the slip. You caught it because you have been the person holding your face still.
 
-**The test:** You noticed where it showed in your body before you had a sentence explaining it. Accuracy is a separate, later question. If you can name the place and not the reason, you caught it in time.
+**The test:** You noticed where it showed up in your body before you had a sentence explaining it. Accuracy is a separate, later question. If you can name the place and not the reason, you caught it in time.
 
 ### Move 2 · Open Up — Turn the Dial Up
 

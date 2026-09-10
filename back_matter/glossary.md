@@ -149,5 +149,5 @@ underneath the seven. She is the Player, and the whole walk reaches her: getting
 center and putting the joystick back in her hands. *Ch 2 §7; her gift carried up at Ch 8 §3*
 
 **WAVE** — A breath-length practice for charge that has already arrived in your body:
-Welcome, Acknowledge, Validate, Exhale. It buys you the few seconds in which choosing a next
+Welcome, Acknowledge, Validate, Exhale. It gives you the few seconds in which choosing a next
 move becomes possible. Most at home in Open Up. *Ch 3 §4; App C*

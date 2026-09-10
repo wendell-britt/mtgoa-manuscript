@@ -16,7 +16,7 @@ source:
   - specs/PANEL_MARK_PATTERN_TABLE_OPEN_Q_6FACE_2026-09-09.md
   - specs/PROOF_MARKS_CH2_CH3_2026-09-09.md
   - instruments/markpatterns.py
-status: seven rows filled. Two RULED, two CLEAR, two OPEN, two UNSEARCHABLE — nothing swept.
+status: seven rows filled. P5 and P6 swept 2026-09-10. Three CLEAR, one RULED, one OPEN, two UNSEARCHABLE.
 ---
 
 # The mark-pattern table
@@ -52,7 +52,7 @@ also removed an editorial review that lives in `appendices/` and is not in the b
 | **P2** | concludes for the reader — the verdict stamp | — | — | — | **UNSEARCHABLE** |
 | **P3** | manages the reader's path — the signposts | 23 | 9 | **15** | **OPEN** |
 | **P4** | undercuts itself — the hedges | 2 | 0 | **1** | **CLEAR** · DL-88 |
-| **P5** | gestures with a nothing-word — the vague verb | 10 | 5 | **7** | **SWEPT** · DL-98/99 |
+| **P5** | gestures with a nothing-word — the vague verb | 2 | 0 | **2** | **CLEAR** · DL-98–101 |
 | **P6** | repeats a line as a refrain until it stops carrying weight | 0 | 0 | **0** | **CLEAR** |
 | **P7** | construction scaffolding left in the reader's text | 0 | 0 | **0** | **RULED** · DL-84 |
 
@@ -129,10 +129,12 @@ the anecdote instead of ending it."* **P4 is the first of the seven patterns he 
 contact for control"* · *"vigilance buys aim"* · *"metabolize."* Wendell, 2026-09-02: *"'lands warm'
 — what the fuck does landing warm mean? Land is another one of those nothing words."*
 **search** — the six marked phrase shapes and their inflections. `markpatterns.py P5`.
-**count** — **10 in ch1–ch9 · 5 apparatus · 7 unmarked**, after DL-98, DL-99 and DL-100. Before the sweep: 59 · 13 · 49.
-**scope** — matches the phrase shapes, not the judgement. Known false positives in the count:
-*"the land was not returned"* `ch5:253`, *"trade them for a prize"* `ch1:123`. A reader clears each
-site; the number is a ceiling, not a finding.
+**count** — **2 in ch1–ch9 · 0 apparatus · 2 unmarked**, after DL-98 through DL-101. Before the sweep: 59 · 13 · 49.
+**scope** — matches the phrase shapes, not the judgement. **The two remaining sites are both
+literal and both are deliberately kept**: `ch1:123` *"trade them for a prize"*, an actual counter
+traded at an actual redemption desk, and `ch5:253` *"the land was not returned"*, the noun. They
+hold the same licence as the skeeball ball at `ch1:226`, which is the one place in the book where
+something physically lands.
 **verdict — OPEN. The row's finding about the instrument is closed: DL-97, 2026-09-10.**
 
 > **`light_verb.py` was built from this pattern and covered one phrase of five.** Probed before

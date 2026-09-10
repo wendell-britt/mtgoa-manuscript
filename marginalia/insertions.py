@@ -525,7 +525,7 @@ and noticed the holding in enough to mind it afterward. I decline applicants who
 second. I cannot teach a person to hand over an instrument they have never held.
 
 **2. What you will be able to do when you leave.** I teach one skill. A student learns to
-name where a feeling shows in the body before naming what it means. Chest, throat, the back
+name where a feeling shows up in the body before naming what it means. Chest, throat, the back
 of the neck, the jaw. It sounds small to me as well. I have watched what follows from
 it: the people around that student begin speaking earlier, because somebody present is
 visibly not waiting to be sure.

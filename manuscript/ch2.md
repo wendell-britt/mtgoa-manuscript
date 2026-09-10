@@ -155,7 +155,7 @@ Were you doing this to change something, or to seem like the kind of person who 
 
 Reading your own body was never appropriation. You already have the Shaman's first move. I am asking whether you will stop treating your own somatic intelligence as something that belongs to someone else.
 
-Performing goodness is expensive. Punishing yourself for falling short of the performance is more expensive still. Neither bill buys anything for the person in front of you.
+Performing goodness is expensive. Punishing yourself for falling short of the performance is more expensive still. Neither bill does anything for the person in front of you.
 
 In the village, the mask makes sense. An audience watches. You have roles to play, relationships to manage, impressions to maintain.
 
@@ -300,7 +300,7 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 **The Emotional Body**
 **Job:** The seat of your emotional life, where feeling gets processed into meaning.
 **As an ally:** the feeling completes and becomes information you can use. *In play:* someone says something and it hits you in the chest. The charge runs its course instead of lodging, and by the end of the conversation you can name what happened and why it mattered.
-**As a demon:** the feeling gets stuck, buried or spilling out sideways, because it never gets metabolized. *In play:* an unprocessed feeling spills out of you. The person you came to support ends up taking care of you.
+**As a demon:** the feeling gets stuck, buried or spilling out sideways, because it never gets finished. *In play:* an unprocessed feeling spills out of you. The person you came to support ends up taking care of you.
 *(Learning its language is the whole of the next chapter.)*
 
 **The Victim**

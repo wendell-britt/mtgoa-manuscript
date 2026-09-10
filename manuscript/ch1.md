@@ -189,7 +189,7 @@ Carolyn Elliott calls this existential kink: the shadow doesn't run you because 
 In a game you turn the lights on. You take the charge you have been running in secret and set it on the board, where you can finally see what you are getting out of it, say so, and (this is the whole move) enjoy it on purpose instead of by accident. The moment the pleasure turns conscious, it stops being your driver and becomes your fuel. Grit your teeth against the pattern and you are doing a chore. Catch yourself in the act, name your own existential kink, grin, and you are playing.
 
 
-Look at what that hidden delight actually buys you. It buys safety: while you are the one who cares too much and never quite finishes, nothing you might get wrong ever gets attempted. So fear has been sitting at the center of the work, and you have been paying it off instead of feeling it. Fear you fight freezes you or turns you back. Fear you look straight at opens into wonder, the same charge pointed at the door instead of away from it.
+Look at what that hidden delight is actually for. It keeps you safe: while you are the one who cares too much and never quite finishes, nothing you might get wrong ever gets attempted. So fear has been sitting at the center of the work, and you have been paying it off instead of feeling it. Fear you fight freezes you or turns you back. Fear you look straight at opens into wonder, the same charge pointed at the door instead of away from it.
 
 Detachment, engagement, and the nerve to look at what you would rather not. Those are the three reasons, and the rest of this book is built on them.
 

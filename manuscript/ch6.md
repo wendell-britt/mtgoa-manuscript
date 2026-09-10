@@ -307,9 +307,9 @@ The **Strategist** runs on Fire. Anger detects the gap between what is and what 
 
 The **Inventor** runs on Wood. Joy detects vitality (what wants to exist and doesn't yet) and Joy stuck is the idea you keep having and never build, which curdles a little more each time it comes around. Built into a structure that can hold it, it becomes Bliss. *I can participate.* What you were only imagining now exists somewhere other than in you.
 
-The **Optimizer** runs on Water. Sadness detects decay, the process that used to work and doesn't anymore, and stuck Sadness keeps the dead process running out of loyalty to the people who built it. Metabolized, it becomes Poignance: you can honor what a structure did and retire it in the same motion. *I can connect.* Most systems fail here, not from missing the decay, but from failing to feel the loss all the way through and so never letting it go.
+The **Optimizer** runs on Water. Sadness detects decay, the process that used to work and doesn't anymore, and stuck Sadness keeps the dead process running out of loyalty to the people who built it. Finished, it becomes Poignance: you can honor what a structure did and retire it in the same motion. *I can connect.* Most systems fail here, not from missing the decay, but from failing to feel the loss all the way through and so never letting it go.
 
-The five modes are also the five ways the Architect moves through the Five-Move Form at altitude. Wake Up: notice which mode fires and what it detects. Open Up: let the signal in before it becomes a proposal. Clean Up: locate where it shows, and stabilize there. Grow Up: find what you learned from it. Show Up: move from the integrated understanding. Here the Architect's practice and the Shaman's emotional alchemy work together, not as two systems, but as one system seen from two altitudes.
+The five modes are also the five ways the Architect moves through the Five-Move Form at altitude. Wake Up: notice which mode fires and what it detects. Open Up: let the signal in before it becomes a proposal. Clean Up: locate where it shows up, and stabilize there. Grow Up: find what you learned from it. Show Up: move from the integrated understanding. Here the Architect's practice and the Shaman's emotional alchemy work together, not as two systems, but as one system seen from two altitudes.
 
 The Architect's flow cycle: Observe → Model → Design → Deploy → Observe (new state), and out through Hand Off. Each deployment produces new observations, which produce new models, which produce new designs; the iteration is genuine and it is not the point. The Architect is finished when somebody else can run it and change it. Everything before that is the work of getting to a system worth handing over.
 
@@ -426,7 +426,7 @@ Naming it changes something, and it is worth being precise about what. It does n
 
 You do not fire the Emotional Body. Fire your sensor and you are the Architect the villagers exiled: correct, unreachable, modeling a system from above it. You take the joystick back by giving it its actual jurisdiction and taking away the one it appointed itself to.
 
-*Bring me the signal. All of it, raw, before it means anything: the channel, the place it showed, what it did. That report I want, and I will use it. What gets built is not in your remit. That decision happens downstream of you, after you have finished.*
+*Bring me the signal. All of it, raw, before it means anything: the channel, the place it showed up, what it did. That report I want, and I will use it. What gets built is not in your remit. That decision happens downstream of you, after you have finished.*
 
 Then put a boundary on the handoff, because the speed of the conversion is the shadow's entire method. The Architect works in loops, so the deadline here is not a breath and it is not a cycle: it is a stage. *The signal gets all of Observe. Nothing gets modeled until Observe closes.* Which in practice means: name the channel and the location before you name the leverage point. Anger, fear, sadness, joy, neutrality; chest, throat, gut, hands. Six seconds of actual data. Then build whatever you were going to build.
 

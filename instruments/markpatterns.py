@@ -55,7 +55,10 @@ def apparatus():
         globs = ["appendices/APPENDIX_*.md"]
     for g in globs + ["front_matter/*.md", "back_matter/*.md"]:
         out += sorted(glob.glob(os.path.join(ROOT, g)))
-    return [p for p in out if p.endswith(".md")]
+    # No backups. profile.corpus globs appendices/APPENDIX_*.md, which matches
+    # APPENDIX_C_KEY_TERMS_backup_2026-06-04_pre-trailing-promote.md -- the same shape as the
+    # PHASE2 editorial review this function was already fixed for once.
+    return [p for p in out if p.endswith(".md") and "backup" not in os.path.basename(p)]
 
 
 def body(path):
