@@ -184,22 +184,26 @@ def main():
         spec = importlib.util.spec_from_file_location("lv", os.path.join(HERE, "light_verb.py"))
         lv = importlib.util.module_from_spec(spec)
         spec.loader.exec_module(lv)
+        # metabolize was ruled back into the book on 2026-09-10 (DL-102: "keep metabolized"),
+        # so light_verb's BORROWED tier excludes it and the probe expects 4, not 5. Named here
+        # rather than dropped: found, fixed, then overruled by the author is a different history
+        # from never having looked.
         probes = [("Praise lands warm and leaves you smaller.", "lands/landing"),
                   ("The feeling runs clean through you.", "runs clean"),
                   ("It trades contact for control.", "trades X for Y"),
-                  ("Vigilance buys aim.", "buys X"),
-                  ("You metabolize the charge.", "metabolize")]
+                  ("Vigilance buys aim.", "buys X")]
         print("\nP5 against light_verb.py, probe by probe:")
         seen = 0
         for sent, label in probes:
             hit = bool(lv.sites(sent)[0])
             seen += hit
             print("   %-16s %s" % (label, "flagged" if hit else "INVISIBLE"))
-        print("   %d of %d marked phrase shapes are visible to the counter that was built "
-              "from this pattern." % (seen, len(probes)))
+        print("   %-16s %s" % ("metabolize", "ruled into the book, DL-102 — excluded"))
+        print("   %d of %d shapes visible; the fifth is ruled in rather than missed."
+              % (seen, len(probes)))
         if seen < len(probes):
-            print("   ** REGRESSION: this read 5 of 5 on 2026-09-10 after DL-97. A phrase has "
-                  "gone\n      invisible again. See instruments/light_verb.py's docstring.")
+            print("   ** REGRESSION: this read 4 of 4 on 2026-09-10 after DL-97/DL-102. A phrase "
+                  "has\n      gone invisible again. See instruments/light_verb.py's docstring.")
     return 0
 
 

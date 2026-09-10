@@ -705,7 +705,7 @@ claims:
       - {file: instruments/light_verb.py, phrase: "BORROWED = re.compile"}
       - {file: instruments/light_verb.py, phrase: "sents = [s for s in sents if len(s.split()) > 1]"}
       - {file: instruments/light_verb.py, phrase: "feelings?|charge|readings?|alchemy"}
-      - {file: instruments/markpatterns.py, phrase: "** REGRESSION: this read 5 of 5 on 2026-09-10"}
+      - {file: instruments/markpatterns.py, phrase: "** REGRESSION: this read 4 of 4 on 2026-09-10"}
 
   - id: DL-98
     fact: >
@@ -837,8 +837,47 @@ claims:
       - {file: manuscript/ch3.md, phrase: "name where a feeling shows up in the body"}
       - {file: manuscript/ch6.md, phrase: "locate where it shows up, and stabilize there"}
       - {file: manuscript/ch1.md, phrase: "It keeps you safe: while you are"}
-      - {file: manuscript/ch2.md, phrase: "because it never gets finished"}
-      - {file: manuscript/ch6.md, phrase: "Finished, it becomes Poignance"}
-      - {file: manuscript/ch8.md, phrase: "worked their pain through go unheard"}
+      - {file: manuscript/ch2.md, phrase: "Neither bill pays for anything"}
+    superseded_in_part_by: >
+      DL-102, the same day. Three of this entry's spans were corrected by Wendell within the
+      hour — "it never gets finished" back to "metabolized", "Finished, it becomes Poignance" to
+      "Alchemized, Poignance emerges", "worked their pain through" to "worked through their
+      pain" — and DL-102 guards them now. **The drift check found the stale carriers**, which is
+      the registry doing its job on a collision between two of the same day's rulings for the
+      third time.
       - {file: back_matter/glossary.md, phrase: "It gives you the few seconds"}
       - {file: instruments/markpatterns.py, phrase: "\"backup\" not in os.path.basename(p)"}
+
+  - id: DL-102
+    fact: >
+      "Metabolize" is a word this book keeps. The two bills pay for nothing rather than do
+      nothing, Poignance emerges from alchemy rather than arriving by itself, and people work
+      through their pain rather than working it through.
+    applied: "5 of 5"
+    ruled_by: >
+      Wendell, 2026-09-10, five corrections in one message: "I think neither bill pays for
+      anything is more correct"; "keep metabolized"; "keep metabolize"; "alchemized poignance
+      emerges. - it becomes doesn't take into account that work takes place in the process";
+      "people who have worked through their pain".
+    wrong_because: >
+      **Two of the five reverse me and one of those reverses an instrument.** DL-97 built a
+      BORROWED tier in light_verb.py specifically for "metabolize", on the reasoning that a verb
+      lifted from chemistry and run on a feeling is a wrong verb rather than a weak one. **The
+      book keeps it on purpose** — it is emotional alchemy's own vocabulary, and the reasoning
+      was mine rather than the book's. And "Neither bill does anything" dropped the money the
+      passage is entirely about: it prices two bills. **The fourth correction is about meaning
+      rather than diction:** "it becomes Poignance" describes a state change with nobody doing
+      anything, and alchemy is work — the book is named for it.
+    proof_mark: "none — five corrections to DL-101, given directly"
+    scope: >
+      The five spans DL-101 wrote that Wendell corrected, plus the consequence for
+      instruments/light_verb.py's BORROWED tier, which now has no vocabulary the book will not
+      keep. **The tier is not deleted:** its three siblings were separate causes of that
+      instrument's hole and they stand, and a tier that fires on nothing is honest where a
+      deleted one hides that the question was ever asked. Its docstring records the reversal.
+    carriers:
+      - {file: manuscript/ch2.md, phrase: "Neither bill pays for anything"}
+      - {file: manuscript/ch2.md, phrase: "because it never gets metabolized"}
+      - {file: manuscript/ch6.md, phrase: "Alchemized, Poignance emerges:"}
+      - {file: manuscript/ch8.md, phrase: "who have worked through their pain go unheard"}
+      - {file: appendices/APPENDIX_E_321_SHADOW_PROCESS.md, phrase: "is how you metabolize it."}

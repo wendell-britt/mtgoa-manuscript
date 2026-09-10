@@ -52,7 +52,7 @@ also removed an editorial review that lives in `appendices/` and is not in the b
 | **P2** | concludes for the reader — the verdict stamp | — | — | — | **UNSEARCHABLE** |
 | **P3** | manages the reader's path — the signposts | 23 | 9 | **15** | **OPEN** |
 | **P4** | undercuts itself — the hedges | 2 | 0 | **1** | **CLEAR** · DL-88 |
-| **P5** | gestures with a nothing-word — the vague verb | 2 | 0 | **2** | **CLEAR** · DL-98–101 |
+| **P5** | gestures with a nothing-word — the vague verb | 3 | 1 | **2** | **CLEAR** · DL-98–102 |
 | **P6** | repeats a line as a refrain until it stops carrying weight | 0 | 0 | **0** | **CLEAR** |
 | **P7** | construction scaffolding left in the reader's text | 0 | 0 | **0** | **RULED** · DL-84 |
 
@@ -129,9 +129,14 @@ the anecdote instead of ending it."* **P4 is the first of the seven patterns he 
 contact for control"* · *"vigilance buys aim"* · *"metabolize."* Wendell, 2026-09-02: *"'lands warm'
 — what the fuck does landing warm mean? Land is another one of those nothing words."*
 **search** — the six marked phrase shapes and their inflections. `markpatterns.py P5`.
-**count** — **2 in ch1–ch9 · 0 apparatus · 2 unmarked**, after DL-98 through DL-101. Before the sweep: 59 · 13 · 49.
-**scope** — matches the phrase shapes, not the judgement. **The two remaining sites are both
-literal and both are deliberately kept**: `ch1:123` *"trade them for a prize"*, an actual counter
+**count** — **3 in ch1–ch9 · 1 apparatus · 2 unmarked**, after DL-98 through DL-102. Before the sweep: 59 · 13 · 49.
+**scope** — matches the phrase shapes, not the judgement. **The remaining sites are all
+deliberately kept.** Two are `metabolize`, **ruled back into the book by Wendell on 2026-09-10**
+(*"keep metabolized"*, *"keep metabolize"*) — it is emotional alchemy's own vocabulary, and the
+argument against it was mine rather than the book's. That ruling emptied `light_verb.py`'s
+BORROWED tier, built for that word the same morning; the tier stays with an exclusion list, so the
+record shows a shape found, fixed and then overruled by the author, which is a different history
+from never having looked. **The other two are literal**: `ch1:123` *"trade them for a prize"*, an actual counter
 traded at an actual redemption desk, and `ch5:253` *"the land was not returned"*, the noun. They
 hold the same licence as the skeeball ball at `ch1:226`, which is the one place in the book where
 something physically lands.

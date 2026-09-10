@@ -56,8 +56,14 @@ number over an unlooked-at half. Wendell, on being shown it: *"fix the light_ver
    filter to `> 1` scans **449 more sentences for one additional hit**: it was buying nothing and
    hiding the shortest lines in the book.
 
-**All five marked shapes are now visible.** The probe lives in `markpatterns.py` and runs on
-every invocation, so this cannot quietly close over again.
+**All five marked shapes were visible after the fix.** The probe lives in `markpatterns.py` and
+runs on every invocation, so this cannot quietly close over again.
+
+**One of the five was then ruled back in.** DL-102, the same day: *"keep metabolized"*, *"keep
+metabolize."* BORROWED's only vocabulary is now on an exclusion list and the tier fires on
+nothing. **The probe expects 4 of 5 and names the fifth** rather than quietly dropping it, so the
+record shows that the shape was found, fixed, and then overruled by the author -- which is a
+different history from never having looked.
 
 ## The three shapes, and why they are different
 
@@ -200,9 +206,21 @@ TRADE = re.compile(r"\b(%s)\s+(?:\w+ly\s+)?(?:%s)\s+"
                    % (SUBJ, TRADEV, ABSTRACT), re.I)
 
 # BORROWED -- a verb taken from another domain and run on a feeling. Not a weak verb: a wrong
-# one. *metabolize* is the marked instance and the family is kept deliberately tiny, because the
-# obvious neighbours are book canon -- ch6 has an **Optimizer** daemon and "optimization theater"
-# is the book's own critique, so widening this to *optimize* would flag the chapter's vocabulary.
+# one. *metabolize* was the marked instance, and the family was kept deliberately tiny because
+# the obvious neighbours are book canon -- ch6 has an **Optimizer** daemon and "optimization
+# theater" is the book's own critique.
+#
+# **RULED IN, DL-102, 2026-09-10.** Wendell, twice in one message: *"keep metabolized"*, *"keep
+# metabolize."* It is emotional alchemy's own vocabulary and the argument against it was mine
+# rather than the book's. So the tier's only word is on the exclusion list below and **BORROWED
+# now fires on nothing.**
+#
+# The tier is not deleted. It was one of four causes of this instrument's hole (see the table
+# above) and the other three stand; and an empty tier is a live record that the question was
+# asked and answered, where a deleted one hides that it was ever asked. If another domain-borrowed
+# verb turns up, the tier is here and the exclusion list says what has already been ruled.
+BORROWED_RULED_IN = {"metabolize", "metabolise", "metabolized", "metabolised",
+                     "metabolizes", "metabolises", "metabolizing", "metabolising"}
 BORROWED = re.compile(r"\b(metabolis?[zs]e[sd]?|metabolis?[zs]ing)\b", re.I)
 
 # Measured 2026-09-03 by this file on the book's own body prose: 39 DELEXICAL and 124 DEAD across
@@ -226,7 +244,8 @@ def sites(text):
             out.append(("DELEXICAL", s))
         if DEAD.search(s) or TRADE.search(s):
             out.append(("DEAD", s))
-        if BORROWED.search(s):
+        bw = BORROWED.search(s)
+        if bw and bw.group(0).lower() not in BORROWED_RULED_IN:
             out.append(("BORROWED", s))
     return out, len(sents)
 

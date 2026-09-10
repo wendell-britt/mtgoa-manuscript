@@ -176,7 +176,7 @@ Three games make up the distortion's home territory.
 
 **The Trauma Olympics.** Every conversation becomes a competition to prove whose pain is more formative. The distortion navigates these with perfect equanimity: able to see both sides, able to validate everyone's injury, unable to take a side, because taking a side would mean the seeing was *for* something. The Trauma Olympics has no winners. It also has no end.
 
-Nobody names the obvious: the competition runs for real, and somebody loses it. The person most wounded gets the most airtime, not because their pain is more valid, but because pain has become the credential. The Sage who could name that dynamic chooses instead to hold space for it. To validate. To see. Holding space participates in the competition. When the most wounded reads as the most credible, the people who have worked their pain through go unheard. The Trauma Olympics rewards unprocessed pain, and the Sage who declines to name it rewards it too.
+Nobody names the obvious: the competition runs for real, and somebody loses it. The person most wounded gets the most airtime, not because their pain is more valid, but because pain has become the credential. The Sage who could name that dynamic chooses instead to hold space for it. To validate. To see. Holding space participates in the competition. When the most wounded reads as the most credible, the people who have worked through their pain go unheard. The Trauma Olympics rewards unprocessed pain, and the Sage who declines to name it rewards it too.
 
 The test: where pain gets performed, does the Sage notice who isn't speaking? The real Sage sees all of it, including the hierarchy of pain, and names what they see. Not with judgment. With precision.
 
