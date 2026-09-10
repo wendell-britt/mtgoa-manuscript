@@ -8,7 +8,7 @@ person: you describe them in the third person, then speak to them, then speak as
 Ken Wilber's, and Appendix E runs it in full. *App E; first used Ch 3 §4*
 
 **Allyship domains, the four** — The four shapes allyship takes as action: Gather Resources,
-Raise Awareness, Direct Action, Skillful Organizing. A reading that never lands in one of them
+Raise Awareness, Direct Action, Skillful Organizing. A reading that never reaches one of them
 stayed a reading. *App A; first used Ch 2 §10*
 
 **Altitude** — The developmental level a move is made from. Each Face works native material
@@ -39,7 +39,7 @@ converting it into a request. Three parts: the line, the delivery, the cost. *Ch
 
 **Clearance** — How far somebody's Protector lets you in. It is set by a history you were not
 there for, it is the only currency on their side of the floor, and a small move at a narrow
-door still lands. *Ch 2 §7*
+door still counts. *Ch 2 §7*
 
 **Completed state** — Where a channel arrives when you feel it all the way
 through: fear into wonder, sadness into poignance, anger into triumph, joy into bliss,

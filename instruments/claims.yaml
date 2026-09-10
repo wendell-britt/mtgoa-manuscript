@@ -763,10 +763,46 @@ claims:
       context to be declared separately; all three became "You got through.", which also closes
       the last site on the P6 refrain row.
     carriers:
-      - {file: manuscript/ch3.md, phrase: "I understand. You got through."}
+      - {file: manuscript/ch3.md, phrase: "I understand. I have it."}
       - {file: manuscript/ch4.md, phrase: "The lines hold now."}
       - {file: manuscript/ch7.md, phrase: "You say the hard sentence, and you stay"}
       - {file: manuscript/ch8.md, phrase: "What they heard instead was:"}
-      - {file: manuscript/ch1.md, phrase: "a decision lands on the person with the least power"}
+      - {file: manuscript/ch1.md, phrase: "a decision falls on the person with the least power"}
       - {file: appendices/APPENDIX_C_FIVE_CHANNELS.md, phrase: "You let it run fully."}
       - {file: back_matter/glossary.md, phrase: "somebody said the unsaid charge, and it was heard"}
+
+  - id: DL-100
+    fact: >
+      The verb "land" does not appear in the shipping book. Two occurrences of the word remain:
+      a skeeball ball that literally lands, and the noun meaning territory.
+    applied: "27 of 27"
+    ruled_by: >
+      Wendell, 2026-09-10, on the 26 locative uses DL-98/99 kept: "this isn't what I asked for.
+      And none of these work except for the skeeball version." And on the mantra lines: "It's not
+      a taught line. They need to be varied."
+    wrong_because: >
+      **I made the same mistake twice in one day.** DL-95 kept fifteen "read"s on a frequency
+      argument and DL-96 had to undo it; DL-98/99 then kept 26 "land"s on a locative argument and
+      this undoes that. **Both times I invented a class of exception he had not asked for and
+      defended it in prose.** The instruction was "all of it". And the three mantra lines were
+      never apparatus: "The message landed." became "You got through." three times, the refrain
+      check flagged one refrain swapped for another, and I put it to him as though a line
+      repeated three times might be a form the reader learns. It is not.
+    proof_mark: "2026-09-02, on 'praise lands warm'; row P5 of MARK_PATTERN_TABLE"
+    scope: >
+      Every remaining occurrence of land/lands/landed/landing in the shipping set on 2026-09-10:
+      **26 sites, 24 of them the verb and all 24 changed, plus the three mantra lines.** Two are
+      deliberately untouched and neither is the verb in the flagged sense: ch1:226, "the machine
+      reads where the ball landed", the one literal landing in the book; and ch5:253, "the land
+      was not returned", which is the noun. Total across the three tranches: **103 to 2.**
+    carriers:
+      - {file: manuscript/ch1.md, phrase: "a decision falls on the person with the least power"}
+      - {file: manuscript/ch1.md, phrase: "where the ball landed"}
+      - {file: manuscript/ch3.md, phrase: "The tightening was not about the correction."}
+      - {file: manuscript/ch3.md, phrase: "I get it. You reached me."}
+      - {file: manuscript/ch3.md, phrase: "I understand. I have it."}
+      - {file: manuscript/ch3.md, phrase: "I get it. I heard you."}
+      - {file: manuscript/ch4.md, phrase: "where the line finally gets drawn:"}
+      - {file: manuscript/ch6.md, phrase: "The cost falls on the people the design is for."}
+      - {file: front_matter/headmasters_letter.md, phrase: "the same wherever you go."}
+      - {file: back_matter/glossary.md, phrase: "door still counts"}

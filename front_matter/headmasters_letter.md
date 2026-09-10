@@ -26,7 +26,7 @@
 > needed it. I would rather you did that here, in your third week, on somebody who signed up to be
 > practised on, than out there on somebody who came to you for help.
 >
-> The shape of a term is the same wherever you land. You arrive carrying something that is actually happening to
+> The shape of a term is the same wherever you go. You arrive carrying something that is actually happening to
 > you rather than a case you picked for its clarity. You say how much of it you are taking on,
 > out loud, before anybody teaches you anything. You are taught one move. The school will
 > decline to teach you a second until the first has been made outside the building, on a person,

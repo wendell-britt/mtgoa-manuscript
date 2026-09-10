@@ -25,7 +25,7 @@
 > second. I cannot teach a person to hand over an instrument they have never held.
 >
 > **2. What you will be able to do when you leave.** I teach one skill. A student learns to
-> name where a feeling landed in the body before naming what it means. Chest, throat, the back
+> name where a feeling shows in the body before naming what it means. Chest, throat, the back
 > of the neck, the jaw. It sounds small to me as well. I have watched what follows from
 > it: the people around that student begin speaking earlier, because somebody present is
 > visibly not waiting to be sure.
@@ -89,7 +89,7 @@ The Challenger didn't dislike the Shaman. The Challenger just believed that *som
 
 At first, this seemed right. There were problems that needed solving. The villagers needed someone who could draw a line in the sand. Someone who could say "this is unacceptable" without softening it. Someone who could move while others still gathered information. The Challenger could do that. The Challenger *did* that.
 
-It worked. The cost landed somewhere the villagers never thought to look.
+It worked. The cost fell somewhere the villagers never thought to look.
 
 <!-- MARGINALIA -->
 > *We put in once at Oreve, a poor port. The moorings were rotten, and the
@@ -360,7 +360,7 @@ In the Grow stage the feeling stops being something that happened *to* you and b
 
 The shift runs from dissatisfaction (the feeling is overwhelming, confusing, raw) to neutral (the feeling finished, its message received). You're not trying to feel happy or fixed. You're reaching a baseline: the feeling no longer runs away with you.
 
-**In practice:** After you've understood what the feeling showed you, spend a moment letting your nervous system know: "I get it. You got through."
+**In practice:** After you've understood what the feeling showed you, spend a moment letting your nervous system know: "I get it. You reached me."
 
 #### Stage 5: Show Up
 **What it means:** Act aligned with the lesson. Execute the move.
@@ -493,7 +493,7 @@ The Five-Move Form runs in the body, not just the head.
 
 **Clean Up:** Not relief yet, but *recognition*. Your body says "yes, I feel this, and now I'm looking at it clearly."
 
-**Grow Up:** Your breathing deepens. Your system says "I understand. You got through."
+**Grow Up:** Your breathing deepens. Your system says "I understand. I have it."
 
 **Show Up:** You feel resourced enough to move. Not manic. Grounded.
 
@@ -748,9 +748,9 @@ The Shaman's read is the data, not the document. Everything downstream (the chan
 
 In practice: the marker arrives in the body, which registers before the account exists: heat in the chest, a drop in the stomach, the jaw. When you notice one, do not ask what it means. Ask where it is and what it is doing. Meaning keeps; it will still be there later. The raw signal will not.
 
-**Example:** Somebody uses the wrong pronoun for Ines in a status meeting, corrects it, and moves on. Your chest tightens. Check the timing. The tightening did not land on the correction. It landed a second later, when Ines did not change her face. Your body read her, not the slip. You caught it because you have been the person holding your face still.
+**Example:** Somebody uses the wrong pronoun for Ines in a status meeting, corrects it, and moves on. Your chest tightens. Check the timing. The tightening was not about the correction. It came a second later, when Ines did not change her face. Your body read her, not the slip. You caught it because you have been the person holding your face still.
 
-**The test:** You noticed where it landed in your body before you had a sentence explaining it. Accuracy is a separate, later question. If you can name the place and not the reason, you caught it in time.
+**The test:** You noticed where it showed in your body before you had a sentence explaining it. Accuracy is a separate, later question. If you can name the place and not the reason, you caught it in time.
 
 ### Move 2 · Open Up — Turn the Dial Up
 
@@ -784,7 +784,7 @@ In practice: use the channel word, not the euphemism. *Anger* rather than *frust
 
 **Why it matters:** A reading you understand and then set down leaves you where you started with better vocabulary. This stage converts information into equipment. Fear that showed you what matters becomes a value you hold rather than one you argue for. Anger that showed you a line becomes a line you may hold. The feeling stops being something that happened to you and becomes something you own.
 
-In practice: say it to your own nervous system, plainly, in the seconds after you catch it. *I get it. You got through.* Then finish the sentence with the equipment. *I can tell when a plan is being agreed to and not believed.* *I can hold a hard look without going away.*
+In practice: say it to your own nervous system, plainly, in the seconds after you catch it. *I get it. I heard you.* Then finish the sentence with the equipment. *I can tell when a plan is being agreed to and not believed.* *I can hold a hard look without going away.*
 
 **Example:** You noticed months ago that your sister Jo is not disorganized, and that every family visit costs her something it does not cost the rest of you. Neither of you has a word for it. You were right. Being right bought her nothing. Say what you can do now, to her, once: *I can tell the difference between someone struggling and a weekend that is expensive for one person. I am going to say so at the table before I can prove it.* If you have misread it, she watches you misread it. What she does with it, including nothing, is hers.
 

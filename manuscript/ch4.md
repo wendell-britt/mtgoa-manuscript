@@ -308,7 +308,7 @@ The Diplomat has a stage called Hold, three chapters from here, a different anim
 
 **Stage 5: Exit.** You leave the confrontation cleanly, which means you do not need their reaction to validate the move. You drew the line. The response belongs to them. You are responsible only for having drawn it.
 
-Exit fails differently from Stand, so the sequence keeps them apart. Stand fails by adding words in the four seconds after the line. Exit fails afterward, in the follow-up message, the hallway clarification, the *hey, I hope that landed okay* sent three hours later. Both take the line back. The Challenger stated. The Challenger stood. The Challenger left, and trusted that the line can do its work without constant tending.
+Exit fails differently from Stand, so the sequence keeps them apart. Stand fails by adding words in the four seconds after the line. Exit fails afterward, in the follow-up message, the hallway clarification, the *hey, I hope that was okay* sent three hours later. Both take the line back. The Challenger stated. The Challenger stood. The Challenger left, and trusted that the line can do its work without constant tending.
 
 ---
 
@@ -699,7 +699,7 @@ The moves are what you do. The next question is where.
 
 The parable showed one of the four: Skillful Organizing, the Challenger speaking first at councils, saying what needed saying before anybody could bear to hear it. That is the domain where a line stops belonging to you and starts holding a group up.
 
-The line has four domains, and one cheap habit that is none of them. The cheap habit is the assessment. You see exactly what is wrong, you name it accurately, more accurately than anyone else at the table, and nothing in the world moves. An assessment costs nothing, because being right is not a position anybody has to argue with. It also feels almost identical to courage from the inside. That is why it lasts for years. The four domains are where the line finally lands: the limit said to the person crossing it, the truth named where naming it costs you, the no said in your own name, and the boundary a group has been negotiating around for months. Each costs more than an assessment, because each one puts something on the table that somebody now has to answer.
+The line has four domains, and one cheap habit that is none of them. The cheap habit is the assessment. You see exactly what is wrong, you name it accurately, more accurately than anyone else at the table, and nothing in the world moves. An assessment costs nothing, because being right is not a position anybody has to argue with. It also feels almost identical to courage from the inside. That is why it lasts for years. The four domains are where the line finally gets drawn: the limit said to the person crossing it, the truth named where naming it costs you, the no said in your own name, and the boundary a group has been negotiating around for months. Each costs more than an assessment, because each one puts something on the table that somebody now has to answer.
 
 These four are not a syllabus. Pick where you'll spend the line this week, and pick the domain you keep avoiding. If the line only ever arrives as analysis, delivered well, to people who already agree with you, you did not make the Challenger's move. You described it.
 

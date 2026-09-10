@@ -26,7 +26,7 @@ The failure is structural. It starts with a map that covers half the ground:
 
 **People keep trying to fix the village without knowing what they carry into it.**
 
-The village is every place with an audience: the workplace, the coalition, the family table, the group chat, anywhere other people can see what you did and revise what they think of you. Harm happens in the village, and repair has to land there, so allyship put all of its tools there.
+The village is every place with an audience: the workplace, the coalition, the family table, the group chat, anywhere other people can see what you did and revise what they think of you. Harm happens in the village, and repair has to happen there, so allyship put all of its tools there.
 
 So the practice runs one direction. See a problem, respond. Post, protest, speak up, show up. Three months later the problem sits where it sat, or has grown, or has become something the response cannot reach. The person who responded has nothing left.
 
@@ -429,7 +429,7 @@ You put the plan in front of her. She finds the three places it breaks. **The Sk
 
 She takes the plan and starts repairing it, or starts arranging everything else around it so nothing has to move. **The Fixer/Healer** takes it: *I will mend this myself, and hold the rest still.*
 
-The offer lands on something older than the offer, and what comes back is out of scale with the moment: heat, or flatness, or tears she is angry about. **The Emotional Body** has it now: *this had to go somewhere.*
+The offer meets something older than the offer, and what comes back is out of scale with the moment: heat, or flatness, or tears she is angry about. **The Emotional Body** has it now: *this had to go somewhere.*
 
 She tells you the whole story again, from the beginning, and the plan waits. **The Victim** takes it: *feel this with me first.*
 

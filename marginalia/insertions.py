@@ -137,7 +137,7 @@ warmly, in a way that left each of them feeling included in the refusal.*""",
 # you are for — is already in the letter, two pages later, in the mouth it belongs to.
 NOTES = {
 3: [
-("It worked. The cost landed somewhere the villagers never thought to look.", """*We put in once at Oreve, a poor port. The moorings were rotten, and the
+("It worked. The cost fell somewhere the villagers never thought to look.", """*We put in once at Oreve, a poor port. The moorings were rotten, and the
 harbourmaster kept his ledgers in his head, where they were wrong.*
 
 *Their council chamber had no chairs. You stood, and the first business of any session was that
@@ -525,7 +525,7 @@ and noticed the holding in enough to mind it afterward. I decline applicants who
 second. I cannot teach a person to hand over an instrument they have never held.
 
 **2. What you will be able to do when you leave.** I teach one skill. A student learns to
-name where a feeling landed in the body before naming what it means. Chest, throat, the back
+name where a feeling shows in the body before naming what it means. Chest, throat, the back
 of the neck, the jaw. It sounds small to me as well. I have watched what follows from
 it: the people around that student begin speaking earlier, because somebody present is
 visibly not waiting to be sure.

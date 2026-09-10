@@ -52,8 +52,8 @@ also removed an editorial review that lives in `appendices/` and is not in the b
 | **P2** | concludes for the reader — the verdict stamp | — | — | — | **UNSEARCHABLE** |
 | **P3** | manages the reader's path — the signposts | 23 | 9 | **15** | **OPEN** |
 | **P4** | undercuts itself — the hedges | 2 | 0 | **1** | **CLEAR** · DL-88 |
-| **P5** | gestures with a nothing-word — the vague verb | 20 | 7 | **14** | **SWEPT** · DL-98/99 |
-| **P6** | repeats a line as a refrain until it stops carrying weight | 1 | 0 | **0** | **CLEAR** |
+| **P5** | gestures with a nothing-word — the vague verb | 10 | 5 | **7** | **SWEPT** · DL-98/99 |
+| **P6** | repeats a line as a refrain until it stops carrying weight | 0 | 0 | **0** | **CLEAR** |
 | **P7** | construction scaffolding left in the reader's text | 0 | 0 | **0** | **RULED** · DL-84 |
 
 *apparatus = shipping appendices, front matter, back matter — **ruled since 2026-09-10**.*
@@ -129,7 +129,7 @@ the anecdote instead of ending it."* **P4 is the first of the seven patterns he 
 contact for control"* · *"vigilance buys aim"* · *"metabolize."* Wendell, 2026-09-02: *"'lands warm'
 — what the fuck does landing warm mean? Land is another one of those nothing words."*
 **search** — the six marked phrase shapes and their inflections. `markpatterns.py P5`.
-**count** — **20 in ch1–ch9 · 7 apparatus · 14 unmarked**, after DL-98 and DL-99. Before the sweep: 59 · 13 · 49.
+**count** — **10 in ch1–ch9 · 5 apparatus · 7 unmarked**, after DL-98, DL-99 and DL-100. Before the sweep: 59 · 13 · 49.
 **scope** — matches the phrase shapes, not the judgement. Known false positives in the count:
 *"the land was not returned"* `ch5:253`, *"trade them for a prize"* `ch1:123`. A reader clears each
 site; the number is a ceiling, not a finding.
@@ -169,7 +169,9 @@ mistake DL-95 made with `read`. The row's boundary is not the word's boundary.
 
 **It did not close P6, and the refrain check said so within the minute.** P6's last site was
 *"The message landed."* ×3; all three became *"You got through."* — **a different refrain of the
-same length.** The count did not move. See P6's row.
+same length.** I then put it to Wendell as though three instances of one line might be a form the
+reader learns, like the BAR instruction. **He ruled: *"It's not a taught line. They need to be
+varied."*** DL-100 varied them and P6 is 0.
 
 ## P6 · repeats a line as a refrain
 
@@ -177,7 +179,7 @@ same length.** The count did not move. See P6's row.
 **marks** — *"The world is not fine."* — ch2 p.25, p.27, p.30.
 **search** — any sentence of 16–70 characters occurring 3+ times inside one chapter, with the
 exercise apparatus excluded. `markpatterns.py P6`.
-**count** — **1 in ch1–ch9 · 0 apparatus · 0 unmarked.**
+**count** — **0 in ch1–ch9 · 0 apparatus · 0 unmarked.**
 **scope** — sentence-level and within-chapter, which is the shape Wendell marked. Excludes the 3-2-1
 protocol, the BAR instruction and the RECEIPT block by name: **a form the reader learns to recognise
 is not a refrain losing weight, and marking one would be vandalism.** Across chapters the same
@@ -186,16 +188,15 @@ search returns 37, topped by *"RECEIPT. Sit thirty seconds."* twelve times — a
 
 - **The named instance was already fixed.** *"The world is not fine."* stood three times when
   Wendell marked it. **It stands twice now**, and nobody recorded that against P6.
-- The one remaining site is `ch3:363`, and on 2026-09-10 it changed words without changing shape.
-  It was *"The message landed."* ×3; DL-99 rewrote all three as *"You got through."* — **a
-  different refrain of the same length, and this check flagged it within the minute.** Recorded
-  rather than filtered: adding it to the apparatus list would be tuning a counter to make a
-  number go green, which is the evasion this repo already has on file.
-- **The open question, and it is one sentence.** All three are the same taught line, said at the
-  same stage of the same model — the reader is meant to learn it, the way they learn *"Two
-  minutes to capture it as a BAR."* By the panel's own rule a form the reader recognises is not a
-  refrain losing weight. **If that holds, the three are apparatus and the row is CLEAR on the
-  same ground it already stood on.** If it does not, the three need to differ. Wendell's.
+- **The row is empty as of 2026-09-10 and it stays in the table.** Its last site was `ch3:363`,
+  *"The message landed."* ×3. DL-99 rewrote all three as *"You got through."* — a different
+  refrain of the same length — and **this check flagged it within the minute**, which is the
+  clearest thing it has done. I did not filter it, because adding it to the apparatus list would
+  be tuning a counter to make a number go green.
+- **I then argued it might be apparatus** — a taught line the reader learns, like *"Two minutes to
+  capture it as a BAR."* **Wendell: *"It's not a taught line. They need to be varied."*** DL-100
+  varied them: *"I get it. You reached me."* / *"I understand. I have it."* / *"I get it. I heard
+  you."*
 
 **No word-frequency row exists, and that is a ruling, not an omission.** Today's `the read` finding
 — one word 23 times in one chapter — looked like P6 at word scale. It is not, and the measurement
