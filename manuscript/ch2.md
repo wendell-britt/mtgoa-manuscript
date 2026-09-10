@@ -329,7 +329,7 @@ This daemon, of all seven, stands at the threshold of a book about allyship for 
 
 When the hull cannot keep a blow out, it does what a hull does last: it takes the damage itself, so that what it carries survives. That absorbed weight is the Damaged Self, a daemon you will meet nearer the center.
 
-You do not fight the Protector or shove past it. You thank it, and you help it tell a real threat from a social one. *Thank you for keeping me alive. This one is not life or death. Show me the one real danger here, if there is any, and let me set a single boundary instead of bracing my whole body.* Do that, and the Protector goes back to its real job (protecting you when you actually need it) and stops running every hard conversation as though your life were on the line.
+You do not fight the Protector or shove past it. You thank it, and you help it tell a real threat from a social one. *Thank you for keeping me alive. This one is not life or death. Show me the one real danger here, if there is any, and let me set a single boundary instead of bracing my whole body.* Do that, and the Protector goes back to its real job (protecting you when you actually need it) and stops running every hard conversation as though your life were on the line. Chapter 3 gives that exchange a name and a form.
 
 The difference shows up in a single moment: say someone challenges you in a meeting. On survival settings, the Protector treats the challenge as an attack: you armor up, over-explain to defend your position, and wait for everyone to prove the ground safe before you will say anything true. Doing its real job, it lets you name one line, "I'm open to challenge; I'm not available for personal attacks," and stay in the conversation. The same daemon at the same speed, protecting you when a real threat arrives and standing easy when none does.
 
@@ -509,7 +509,7 @@ Treat the moment as game tape. Which daemon had the joystick? What move did you 
 
 You are already a player. Now you're becoming a deliberate one.
 
-You should be able to name:
+By the end of this chapter, you should know:
 
 - Which face you are already fluent in
 - Which face you've been avoiding

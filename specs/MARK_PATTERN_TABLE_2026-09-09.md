@@ -50,7 +50,7 @@ also removed an editorial review that lives in `appendices/` and is not in the b
 |---|---|---:|---:|---:|---|
 | **P1** | interprets the observation — the *", and [what it means]"* tack-on | — | — | — | **UNSEARCHABLE** |
 | **P2** | concludes for the reader — the verdict stamp | — | — | — | **UNSEARCHABLE** |
-| **P3** | manages the reader's path — the signposts | 0 | 5 | **0** | **CLEAR** · DL-103/104 |
+| **P3** | manages the reader's path — the signposts | 23 | 9 | **15** | **REFRAMED** · DL-103/104/105 |
 | **P4** | undercuts itself — the hedges | 2 | 0 | **1** | **CLEAR** · DL-88 |
 | **P5** | gestures with a nothing-word — the vague verb | 3 | 1 | **2** | **CLEAR** · DL-98–102 |
 | **P6** | repeats a line as a refrain until it stops carrying weight | 0 | 0 | **0** | **CLEAR** |
@@ -94,25 +94,32 @@ about what a clause is doing, not about what it contains.**
 the threshold map"* · *"The deeper truth is this:"* · *"Chapter 3 gives you both"* · *"and Chapter
 9 tells that part"* · *"Appendix G says where."*
 **search** — 10 phrase families. `markpatterns.py P3`.
-**count** — **0 in ch1–ch9 · 5 apparatus · 0 unmarked**, after DL-103. Before the sweep: 23 · 9 · 15.
+**count** — **23 in ch1–ch9 · 9 apparatus · 15 unmarked.** Swept by DL-103 to 0 and **reverted by DL-105** the same day.
 **scope** — a phrase list built from the six marked instances plus four near neighbours. Cannot see
 a signpost phrased in words not on the list, and does not distinguish a pointer that earns its place
 from one that manages.
-**verdict — CLEAR, swept 2026-09-10 by DL-103.** 29 sites across 28 declared spans; **23 → 0 in
-the chapters.** The duplicate closed with it: *"Every move in this chapter is an instrument for
-making that sentence true"* stood word-for-word at `ch7:884` and `ch8:857` and now differs in both.
+**verdict — REFRAMED, and the row is not what I thought it was.**
 
-**Five apparatus sites are left and each is the artefact's own text** rather than an aside inside
-another one: `ON_THE_SHOULDERS_OF` maps chapters to sources three times, which is what a
-bibliography is, and `about_the_author` names Chapter 1 as biography.
+DL-103 swept it to 0 on my reading that *the book must not narrate its own structure.* **Wendell
+reverted it the same day:** *"honestly I'm ok with the book announcing its own structure so long as
+the pointers are true. This might've been too aggressive a violation. Everything is more
+abstract."*
 
-**And the sweep orphaned two appendices, which `xref.py` caught the same minute** — *"UNREFERENCED
-2: G, I"*. Appendix I was reachable from exactly one sentence and this removed it; **shipping an
-appendix nothing points at is a worse defect than a signpost**, and it is the reason a check runs
-after a sweep and not before. DL-104 restored it as *"the other five are in Appendix I"*, which
-says where something is rather than instructing the reader to go, and widened `xref`'s search to
-front and back matter, because `copyright.md` names Appendix G twice and the check was
-under-counting.
+**He is right, and the sweep meant to remove abstraction added it.** *"So Chapter 3 does two jobs"*
+became *"Two jobs, then"*; *"what this chapter trains"* became *"the training"*. **Each replaced a
+thing with a nothing.** Chapter 3 is a specific object and *then* is not.
+
+**The row restated on his criterion is a pointer that is not true**, which is a claim checkable
+against the chapter it names — *"Chapter 3 gives that exchange a name and a form"* is either right
+about ch3 or it is not. **That is an instrument, not a sweep**, and it does not exist. `xref.py`
+resolves appendix letters and chapter numbers; nothing checks whether a pointer's *claim* holds.
+
+**Two changes did not come back**, because neither was a signpost defect. *"Every move in this
+chapter is an instrument for making that sentence true"* stood word-for-word in ch7 and ch8 — a P6
+duplication finding wearing P3's clothes. ch7 keeps the original; **ch8 now reads "That sentence is
+what every move in this chapter is for"**: same pointer, same claim, different shape. And
+`xref.py`'s widened search stays, because `copyright.md` naming Appendix G twice was always a real
+route and the check was under-counting.
 
 ## P4 · undercuts itself
 

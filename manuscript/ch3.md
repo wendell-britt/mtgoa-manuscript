@@ -66,7 +66,7 @@ This chapter runs longest in the book, and you deserve to know why before you st
 
 Every chapter after this one calls back to something taught here. The Challenger uses the reading to know which line to draw. The Regent uses it to tell an inheritance worth keeping from one that only feels familiar. The Architect, the Diplomat, the Sage: all of them run the same instrument, and you build it here.
 
-Two jobs, then: the Shaman's chapter, and the toolkit for the five faces that follow. It comes in two halves: the practice first, then the part of you that keeps you from using it. A marked stopping place sits between them, halfway down. Take it if you need it.
+So Chapter 3 does two jobs. It serves as the Shaman's chapter and as the toolkit for the five faces that follow. It comes in two halves: the practice first, then the part of you that keeps you from using it. A marked stopping place sits between them, halfway down. Take it if you need it.
 
 ---
 
@@ -250,7 +250,7 @@ I recover both ends before I am done, and I will ask you to hold them at the sam
 <!-- SECTION 4 -->
 ## The Five-Move Form: Emotional Alchemy as Repeatable Technique and Living Art
 
-Other people built some of these tools. Their names belong with them. *Felt sense* comes from Eugene Gendlin's *Focusing*: the body's knowing that arrives before language, which this chapter teaches you to read. The claim underneath the whole practice is Peter Levine's. A feeling carries energy that has to finish moving; cut it off and it jams. He studies that jam where it is severe, in trauma, with a trained person in the chair. This chapter works the everyday version, a bad afternoon rather than a wound. The stretch from one to the other is mine to answer for. The Polarity Map and the distinction it rests on are Barry Johnson's. The five channels are borrowed too; I name their source when they arrive a few pages on.
+Other people built some of what this chapter hands you. Their names belong with the tools. *Felt sense* comes from Eugene Gendlin's *Focusing*: the body's knowing that arrives before language, which this chapter teaches you to read. The claim underneath the whole practice is Peter Levine's. A feeling carries energy that has to finish moving; cut it off and it jams. He studies that jam where it is severe, in trauma, with a trained person in the chair. This chapter works the everyday version, a bad afternoon rather than a wound. The stretch from one to the other is mine to answer for. The Polarity Map and the distinction it rests on are Barry Johnson's. The five channels are borrowed too; I name their source when they arrive a few pages on. Appendix G says where to read each one.
 
 The Shaman's native material is *emotion*, narrower than mood and faster than temperament: the charge that arrives in one particular second, about one particular person, and moves when you spend it.
 
@@ -384,9 +384,9 @@ You understood what matters. Now protect it. You understood your boundary. Now h
 
 Before the table, the part I owe you.
 
-These five channels did not start with me. Metal, Water, Wood, Fire, and Earth come from **wu xing**, the five-phase system that sits under classical Chinese medicine and cosmology, and it predates everything else in this book by roughly two thousand years. I have used it hard. I narrowed a cosmology down to one job it was never designed for, telling you what the feeling in your chest is for in the ten seconds you have to decide something. I moved correspondences around to make that job work. The tradition does not put grief and fear where I have put them. This is my remix, not the system it came from.
+These five channels did not start with me. Metal, Water, Wood, Fire, and Earth come from **wu xing**, the five-phase system that sits under classical Chinese medicine and cosmology, and it predates everything else in this book by roughly two thousand years. I have used it hard. I narrowed a cosmology down to one job it was never designed for, telling you what the feeling in your chest is for in the ten seconds you have to decide something. I moved correspondences around to make that job work. The tradition does not put grief and fear where I have put them. What follows is my remix, not the system it came from.
 
-I am naming it here rather than in a footnote because my own fluency is already on the table as an asset that gets me through doors and keeps other people outside them. Running a borrowed vocabulary past you unmarked is the same move with the credit taken off. The original goes far deeper than my use of it and repays reading on its own terms; the back of the book points you to where to start.
+I am naming this in the chapter rather than in a footnote because Chapter 1 put my own fluency on the table as an asset that gets me through doors and keeps other people outside them. Running a borrowed vocabulary past you unmarked is the same move with the credit taken off. The original goes far deeper than my use of it and repays reading on its own terms; the back of the book points you to where to start.
 
 Every feeling you experience falls into one of five channels.
 
@@ -694,7 +694,7 @@ Allyship is not saying the right words. The council had the right words. The rig
 
 That move belongs to the Alchemist, the one who takes the charge the Controller called a foul (the fear, the "not ready," the "not good enough") and burns it for fuel instead of waiting for it to go away. The woman on the council did not speak once the fear left. She spoke while it still burned, and used it. That is the Shaman's whole practice. The sensing, the Form, the Controller pried off the joystick, all aimed at one outcome: what you sensed, out of your body and into the world, where it can move the water.
 
-The Alchemist is a superpower, and it is the one you have been training. A superpower is not a Face. A Face is a role at the table. A superpower is the capacity you built to survive, made usable for somebody else. Every one of them runs on the same alchemy, a live charge spent. The Alchemist leads with it; the other five are in Appendix I.
+The Alchemist is a superpower, the one this chapter trains. A superpower is not a Face. A Face is a role at the table. A superpower is the capacity you built to survive, made usable for somebody else. Every one of them runs on the same alchemy, a live charge spent. The Alchemist leads with it. Appendix I lays them all out.
 
 ### 3-2-1 on Your Controller
 

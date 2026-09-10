@@ -884,46 +884,38 @@ claims:
 
   - id: DL-103
     fact: >
+      No sentence stands word-for-word in two chapters. This is all that survives of a wider
+      ruling; the rest was reverted by DL-105 the same day.
+    superseded_fact: >
       The book does not tell the reader which chapter she is in, what that chapter is about to
-      do, or which appendix to turn to. Source credits keep their names and lose their
-      navigation tails.
-    applied: "28 of 28"
+      do, or which appendix to turn to.
+    applied: "1 of 1"
+    reverted_by: >
+      DL-105, the same day. **Wendell: "honestly I'm ok with the book announcing its own
+      structure so long as the pointers are true. This might've been too aggressive a violation.
+      Everything is more abstract."** 28 of the 29 sites are back. The entry stays because a
+      ruling that was applied and reversed is part of the record, and because one span survived
+      on its own merits.
     ruled_by: >
-      Wendell, 2026-09-10: "sweep the p3 signposts."
+      Wendell, 2026-09-10: "sweep the p3 signposts." Reversed by him the same day.
     wrong_because: >
-      Three shapes. **The book announcing its own chapters** — the reader is inside the chapter,
-      and telling her which one is the writer checking their outline in public; this also closes
-      the ch7/ch8 duplicate, "Every move in this chapter is an instrument for making that
-      sentence true", which stood word-for-word in both. **"What follows is"**, five sites.
-      **And the reader steered to an appendix** — "Appendix G says where to read them / her / him
-      / each one", five sites plus "Appendix I lays them all out". Every one of those is a source
-      credit with a navigation tail, and **the credit survives without the tail.**
-    proof_mark: "ch2-ch3 marks, 2026-09-09: 'Chapter 3 gives you both', 'Appendix G says where'"
+      **I read P3 as "the book must not narrate its own structure" and swept on that.** Removing
+      the referent left the sentences floating: "So Chapter 3 does two jobs" became "Two jobs,
+      then", and Chapter 3 is a specific object where "then" is not. **The sweep meant to remove
+      abstraction added it.** What survives is the one change that was never a signpost defect:
+      a sentence standing word-for-word in two chapters.
+    proof_mark: "ch2-ch3 marks, 2026-09-09 — read too widely"
     scope: >
-      All 32 P3 sites in the shipping set, read in full paragraph on 2026-09-10; **29 changed across 28 declared spans** — two ch6 sites overlap and are one span, which the containment check refused as a pair before anything was written.
-      Three are left and each is the artefact's own text rather than an aside inside another one:
-      APPENDIX_G maps chapters to sources twice, which is what a bibliography is, and
-      back_matter/about_the_author names Chapter 1 once as biography. **The near-miss is
-      recorded:** a cross-reference inside a reference appendix is arguably that appendix's whole
-      function, which is the same shape of argument that kept fifteen "read"s and 26 "land"s and
-      was overruled both times, so APPENDIX_B's pointer changed shape and kept its content.
-      **xref.py is the hard constraint** — cutting five Appendix G pointers would orphan the
-      bibliography if nothing else named it; front_matter/copyright.md names it twice.
+      All 29 sites were changed and 28 were reverted by DL-105. The survivor is the ch7/ch8
+      duplicate, which is a P6 finding rather than a P3 one.
     carriers:
-      - {file: manuscript/ch3.md, phrase: "Two jobs, then: the Shaman's chapter"}
-      - {file: manuscript/ch3.md, phrase: "Other people built some of these tools."}
-      - {file: manuscript/ch4.md, phrase: "The training is clarity without cruelty"}
-      - {file: manuscript/ch7.md, phrase: "Contact is not the training here"}
-      - {file: manuscript/ch7.md, phrase: "Every move here is an instrument"}
-      - {file: manuscript/ch8.md, phrase: "Each move above exists to make that sentence true."}
-      - {file: manuscript/ch2.md, phrase: "You should be able to name:"}
-      - {file: manuscript/ch1.md, phrase: "Some theater, now."}
+      - {file: manuscript/ch8.md, phrase: "That sentence is what every move in this chapter is for."}
 
   - id: DL-104
     fact: >
-      Every shipping appendix is reachable, and xref counts a route from front or back matter as
-      a route.
-    applied: "2 of 2"
+      xref counts a route from front or back matter as a route, so an appendix named only on the
+      copyright page is not reported orphaned.
+    applied: "1 of 1"
     ruled_by: >
       Consequence of DL-103, measured by instruments/xref.py the same minute: "UNREFERENCED 2 —
       appendices that ship and nothing points at: G, I".
@@ -943,5 +935,39 @@ claims:
       shipping appendix, so widening the search changes nothing else: the count went 2 to 0 and
       no other letter moved.
     carriers:
-      - {file: manuscript/ch3.md, phrase: "the other five are in Appendix I."}
       - {file: instruments/xref.py, phrase: "Front matter and back"}
+
+  - id: DL-105
+    fact: >
+      The book may announce its own structure. A chapter may say which chapter it is and where
+      something else lives, provided the pointer is true. DL-103 is reverted.
+    applied: "28 of 28"
+    ruled_by: >
+      Wendell, 2026-09-10: "honestly I'm ok with the book announcing its own structure so long as
+      the pointers are true. This might've been too aggressive a violation. Everything is more
+      abstract."
+    wrong_because: >
+      **I read P3 as "the book must not narrate its own structure" and swept on that.** The result
+      reads worse in exactly the way he names: taking out the referent leaves the sentence
+      floating. "So Chapter 3 does two jobs" became "Two jobs, then"; "what this chapter trains"
+      became "the training". **Each replaced a thing with a nothing** — Chapter 3 is a specific
+      object and "then" is not. **The sweep meant to remove abstraction added it.** The row
+      restated on his criterion is not "a pointer" but "a pointer that is not true", which is a
+      claim checkable against the chapter it names, and that needs an instrument rather than a
+      sweep.
+    proof_mark: "none — a ruling reversing my reading of the ch2-ch3 marks"
+    scope: >
+      All 28 declared spans of DL-103, reverted. **Two changes do not come back and neither was a
+      signpost defect:** "Every move in this chapter is an instrument for making that sentence
+      true" stood word-for-word in ch7 and ch8, which is a P6 duplication finding wearing P3's
+      clothes — ch7 keeps the original and ch8 reads "That sentence is what every move in this
+      chapter is for", same pointer and different shape. And xref.py's widened search stays,
+      because copyright.md naming Appendix G twice was always a real route and the check was
+      under-counting.
+    carriers:
+      - {file: manuscript/ch3.md, phrase: "So Chapter 3 does two jobs."}
+      - {file: manuscript/ch4.md, phrase: "What this chapter trains is clarity without cruelty"}
+      - {file: manuscript/ch2.md, phrase: "By the end of this chapter, you should know:"}
+      - {file: manuscript/ch1.md, phrase: "and Appendix G says where to read them."}
+      - {file: manuscript/ch7.md, phrase: "Every move in this chapter is an instrument for making that sentence true."}
+      - {file: manuscript/ch8.md, phrase: "That sentence is what every move in this chapter is for."}
