@@ -51,11 +51,21 @@ order to qualify for it. A rule with no exception can be checked, so this checks
 
 Sentences with no finite verb, at most twelve words, outside headings, table cells and
 list items. Imperatives are complete sentences and are allowed; so are sentences opening
-with an unambiguous subject pronoun. **What it cannot do is separate a main clause from a
-subordinate one**: *Sixty cards, every one a question you send a friend* is a fragment,
-and the `send` inside the relative clause hides it. Catching that needs a parser, and
-this file is standard library only by design. **The limit is stated rather than left to
-be found.**
+with an unambiguous subject pronoun. A finite verb is found by a small verb lexicon plus
+one morphological rule: a word ending in **-ed** is a verb, since a plural noun never is.
+**-s is deliberately not used.** A word ending in -s is a plural noun as readily as a verb,
+and the first cut of this check read every -s as a verb — which let `this`, plural nouns and
+`exchanges` stand in for a predicate and hid real fragments (`Three exchanges at minimum.`).
+That was the hole `instruments/fragment.py` retired this counter over; it is closed here as
+of 2026-09-11. The price is the mirror image: a third-person verb the lexicon has not learned
+reads as a fragment (`The fire arrives.`) until its form is added to `VERB_S`. That trade is
+the right way round for a candidate finder — a missed fragment ships, a false one costs a
+glance.
+
+**What it still cannot do is separate a main clause from a subordinate one**: *Sixty cards,
+every one a question you send a friend* is a fragment, and the `send` inside the relative
+clause hides it. Catching that needs a parser, and this file is standard library only by
+design. **The limit is stated rather than left to be found.**
 
 **SOFT** — the densities, per thousand words, against the book's own measured baselines.
 These are *candidate finders*. A number over the baseline means read the sites; it does
@@ -192,8 +202,34 @@ vote wake warn wave wear welcome win wipe wish withdraw wonder worry wrap yield"
 LEAD_ADVERBS = set("""then now so first next also always never please instead again
 still just only rather even simply here there today tomorrow""".split())
 
-# -ing is never finite on its own ("One sitting.", "An evening") — only -ed and -s are.
-INFLECTED = re.compile(r"(?:ed|es|s)$")
+# A word ending in -ed is a regular past tense or past participle, and a plural noun never
+# ends in -ed, so -ed is a safe morphological signal that a word is a verb. -s is not, and
+# this is where the counter broke: a word ending in -s is a plural noun (or `this`, or
+# `across`) at least as often as it is a third-person verb, so the rule that read every
+# -s over three letters as a verb cleared "Three exchanges at minimum.", "Not this one,
+# not yet, not from me." and "Grief, four days old." — real fragments, each hidden by a
+# plural noun (or `this`) the rule mistook for a predicate. `instruments/fragment.py`
+# retired this counter on that hole (see its v32 note). The -s rule is gone here too as of
+# 2026-09-11; -ed stays. Regular -s verbs the lexicon misses are recovered by name in
+# VERB_S below, never by morphology — the same discipline, for the same reason.
+# ("Four words each, no explanation." is the fourth of fragment.py's four examples; it is
+#  still cleared here by the QUANT_SUBJ filter below, which fires on `each` — a separate
+#  limit, not this one.)
+INFLECTED = re.compile(r"ed$")
+
+# Third-person -s verbs the hand lists miss, recovered one at a time now that morphology no
+# longer guesses them. The rule for adding a form is the referee's (fragment.py EXTRA_VERBS):
+# it goes in ONLY if it can never be a noun, so admitting it can never clear a real
+# noun-phrase fragment. That is why `includes` and `undermines` are absent though both are
+# verb-only: each cleared a real headed-noun-phrase fragment ("Harmony that includes truth.",
+# "Self-deprecation that undermines authority.") — the shape this file cannot see anyway (see
+# the docstring), so a name that hides one buys nothing. Common-noun homographs (`reports`,
+# `gains`, `permits`, `supplies`, `converts`, `finishes`, `notices`, `catches`) stay out for
+# the same rule. To extend it: read the sites an addition removes before you add it.
+VERB_S = set("""arrives produces completes decides separates exists creates resolves belongs
+requires describes protects inherits owns removes slows begins receives follows applies adapts
+envisions detects outlives responds maintains contains accumulates polarizes transmutes
+participates refuses continues tends helps metabolizes""".split())
 WORDRX = re.compile(r"[A-Za-z][A-Za-z'’-]*")
 SKIPLINE = re.compile(r"^\s*(?:#{1,6}\s|\||[-*+]\s|\d+[.)]\s|!\[|\[!)")
 LINKRX = re.compile(r"\[([^\]]*)\]\([^)]*\)")
@@ -203,9 +239,9 @@ MARKS = re.compile(r"~~|[*_]{1,3}|^\s*>\s?", re.M)
 def _has_finite_verb(words):
     for w in words:
         w = w.lower().replace("'", "").replace("’", "")
-        if w in AUX or w in IRREG:
+        if w in AUX or w in IRREG or w in VERB_S:
             return True
-        if len(w) > 3 and INFLECTED.search(w):
+        if len(w) > 3 and INFLECTED.search(w):   # a regular -ed past or participle
             return True
     return False
 
