@@ -120,3 +120,83 @@ project_only:
 # editorial-core v29+ (profile.scored_frames): lines inside a listed frame block are scanned as
 # body prose. prose_diet.py reads the boxes on its own (its BLOCK no longer strips HANDBOOK).
 scored_frames: [HANDBOOK]
+
+# gate/prose_diet exemptions + registers moved from core to the project (v32, 2026-09-11).
+# Core gate/prose_diet are shared mechanism; these rulings are MTGOA's data. See
+# profile.gate_exceptions / profile.registers.
+gate_exceptions:
+- counter: banned
+  phrase: the Sage's question is about rooms rather than about people
+  kind: exempt
+  reason: '2026-07-30 — Laloux entry, Appendix G. Wendell: "we can leave rooms in this example. It''s
+    not load bearing."'
+- counter: banned
+  phrase: Run It Again With One Thing Changed
+  kind: canon
+  reason: ch9 Move 4.
+- counter: banned
+  phrase: Run it again with one thing changed
+  kind: canon
+  reason: the same move in ch9's recaps at 576 and 590.
+- counter: banned
+  phrase: Right Thing the Easy Thing
+  kind: canon
+  reason: 'ch6''s chapter subtitle. Wendell 2026-08-03: "keep the right thing the easy thing."'
+- counter: banned
+  phrase: right thing
+  kind: canon
+  reason: the Architect's thesis. Quoted three times inside ch6, once from ch5's closing handoff and twice
+    in ch9 — a thesis rather than a heading, which is why it is here and not in EXEMPT.
+- counter: banned
+  phrase: easy thing
+  kind: canon
+  reason: the second half of the same thesis.
+- counter: banned
+  phrase: the right thing becomes the thing that actually gets done
+  kind: canon
+  reason: ch6:197, the thesis stated as a question. The second `thing` is inside the formula.
+- counter: banned
+  phrase: '*This is my thing*'
+  kind: canon
+  reason: 'ch8:769. Quoted self-talk that the chapter is convicting: "It''s a category that swallows all
+    five, and once it''s on the table nothing gets named specifically enough to move." The vagueness IS
+    the diagnosis; naming it would destroy the specimen. FLAGGED as my judgement rather than Wendell''s
+    ruling.'
+- counter: banned
+  phrase: not *my thing.*
+  kind: canon
+  reason: ch8:779, the same specimen in the recap.
+- counter: banned
+  phrase: you lose the things that told you who you were
+  kind: canon
+  reason: 'ch1:54. Ruled an exception by Wendell 2026-08-03. It survives on the rule rather than on precedent:
+    the sentence before supplies the referent — "The game hands you every bit of it" — so the definite
+    article has a real antecedent.'
+
+registers:
+  headmasters_letter.md:
+    be: 1.3
+    copula: 1.3
+    why: 'a personal letter from one man to one reader. First person singular carries I am, we are, it
+      is at a rate expository prose does not. Ruled 2026-07-31: ''the letter is ok because it is the register
+      of a personal letter.'''
+  ch5.md:
+    blocks:
+    - start: '**Clause four.**'
+      end: It records no case of a keeper who stopped attempting it either.
+      be: 1.4
+      zombie: 1.84
+      expletive: 1.89
+      passive: 11.32
+      why: Quill's annotated charter, seated in ch5 Section 3, 399 words. A charter states what shall
+        be done without naming who does it, which is what makes it a charter rather than a memo. It runs
+        eleven times the book's passive rate and that is the form rather than drift. Ruled 2026-07-31.
+  CH5_REGISTER:
+    zombie: 1.6
+    be: 1.6
+    expletive: 2.0
+    why: 'Quill''s annotated charter. HEAD_VOICE_DIAL 2a rules her third impersonal, fact and record,
+      feeling only as a ledger entry, and a charter is nominal by construction: the dissolution, the refusal,
+      the observation. Flattening the nominalisation would flatten the voice. Ruled 2026-07-31: ''I think
+      ch5 is also a reasonable exception.'''
+
