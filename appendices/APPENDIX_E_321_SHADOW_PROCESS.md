@@ -15,7 +15,7 @@ The Five-Move Form works with charge you're already feeling in your body — fea
 
 That charge is projection, which is shadow work waiting to happen.
 
-The **3-2-1 practice** is how you metabolize it. Three vantage points. One charged figure. You move from observing it, to talking with it, to being it — and the energy that was leaking out through judgment comes back into your system, available for the Five-Move Form to use.
+The **3-2-1 practice** is how you metabolize it. Three vantage points. One charged figure. You move from observing it, to talking with it, to being it, so the energy that was leaking out through judgment comes back into your system, available for the Five-Move Form to use.
 
 3-2-1 is a diagnostic move. It tells you which part of you is running the show when you think you're responding to them.
 
@@ -39,7 +39,7 @@ You are not analyzing them. You are describing the figure your nervous system ha
 
 **Pronoun:** *You*
 
-**Action:** Address the figure directly, as if they're sitting across from you. Ask questions. Let them answer. This is a dialogue, not a monologue — and the answers don't have to be polite.
+**Action:** Address the figure directly, as if they're sitting across from you. Ask questions. Let them answer. This is a dialogue, not a monologue: the answers don't have to be polite.
 
 If you get stuck, use the six unpacking questions: *What do you want? What do you need? What are you afraid of? What would have to be true for someone to feel this way?* The goal is to hear the inner logic of the part in its own language.
 

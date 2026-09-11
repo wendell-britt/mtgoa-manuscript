@@ -66,7 +66,7 @@
 <!-- SECTION 1 -->
 ## Why the Diplomat Left the Village (And What the Village Lost)
 
-You recognize a woman in the village. She is always there. She shows up to every gathering, every working bee, every moment of conflict, and every moment of celebration. Her presence reads as devotion, except it isn't, because devotion implies choice, and she has forgotten how to choose. She stays because she has forgotten that she could leave.
+You recognize a woman in the village. She is always there. She shows up to every gathering, every working bee, every moment of conflict, and every moment of celebration. Her presence reads as devotion, except it isn't, because devotion implies a choice she has forgotten how to make. She stays because she has forgotten that she could leave.
 
 One day she stops showing up. The villagers barely notice at first. Then slowly, in her absence, something becomes visible: the shape of what she held together without ever naming that she held it. Ruptures she repaired before anyone saw them. Tensions that never escalated because she stood in the middle of them. The villagers discover they have lost something but cannot name the loss, because she never told them what her presence cost. She never gave them the chance to treat it as precious.
 
@@ -80,17 +80,17 @@ The Diplomat is the negotiator who has learned that honest stake-surfacing, time
 
 The five stages of the Diplomat's work run as a journey in sequence rather than a checklist. **Bridge** is the initial entry, the act of showing up with curiosity rather than judgment, making contact without yet knowing what the relationship will require. **Translate** is the work of rendering one camp's language into terms another camp can hear, betraying neither side and finding the common ground of meaning. **Hold** is the maintenance of enough safety that difficult conversation remains possible even when the charge runs high. It is not the four seconds of Stand you learned from the Challenger, where one person declines to take back one line; it is the sustained containment of a whole field over the length of a hard conversation, sometimes over months. **Repair** is the healing of ruptures without the pretense that they did not occur: cleaning the wound without pretending nobody made it. **Negotiate** is the culmination: surfacing what each party protects, naming the terms under which staying remains possible, and closing so that everyone is heard *and* something moves.
 
-Each stage earns the next. Bridge without Translate is noise. Translate without Hold is a promise no one trusts. Hold without Repair is a wound left to fester. Repair without Negotiate is generosity without closure, and generosity without closure stops being a gift; it becomes a slow form of self-destruction that everyone in the field learns to take for granted.
+Each stage earns the next. Bridge without Translate is noise. Translate without Hold is a promise no one trusts. Hold without Repair is a wound left to fester. Repair without Negotiate is generosity without closure. Generosity without closure stops being a gift; it becomes a slow form of self-destruction that everyone in the field learns to take for granted.
 
 The Diplomat arrived into a village that had everything except the willingness to be in one conversation. It had lines from the Challenger and continuity from the Regent, and from the Architect it had designs that assumed a goodwill nobody had. Each camp could state its own position perfectly and could not hear the other camp state theirs.
 
-The Diplomat went between them. Stood in the middle of arguments that had been running for years and let them run at full volume without stepping out of the middle. Rendered one camp's language into the other's without flattening either. Went back after ruptures rather than letting the injured show themselves out. For a long stretch the village held together better than it had since the Shaman, and the villagers said so out loud.
+The Diplomat went between them. Stood in the middle of arguments that had been running for years and let them run at full volume without stepping out of the middle. Rendered one camp's language into the other's without flattening either. Went back after ruptures rather than letting the injured show themselves out. For a long stretch the village held together better than it had since the Shaman. The villagers said so out loud.
 
 Then the Diplomat did the other half of the work. In one hard conversation, the Diplomat named what staying would cost: what each side was protecting, what the agreement would actually require, and what would have to change for the Diplomat's own presence there to keep meaning anything. It came without heat. It came as a term rather than a threat.
 
 **The village heard a threat.**
 
-Somebody who had held the middle for free was now naming a price, and a village that has been receiving something for free will read the first invoice as a betrayal. Nobody argued with the terms. They stopped bringing the Diplomat the conversations where terms would come up. The warmth stayed exactly where it was. The invitations to the hard ones thinned out and then stopped.
+Somebody who had held the middle for free was now naming a price. A village that has been receiving something for free will read the first invoice as a betrayal. Nobody argued with the terms. They stopped bringing the Diplomat the conversations where terms would come up. The warmth stayed exactly where it was. The invitations to the hard ones thinned out and then stopped.
 
 The Diplomat left.
 
@@ -107,20 +107,20 @@ After the Diplomat left, the village still needed people to stay. It had stopped
 
 Newcomers arrived and had to audition: they came bearing gifts, because coming empty-handed had stopped working. Camps that wanted the same outcome got louder in their own languages instead of learning each other's. The hard conversations moved into corridors and private messages, where they cost nothing and changed nothing. Nobody went back after a rupture, and when the injured stopped turning up the village called the thinning natural. Meetings ended in warmth and vagueness: everyone accommodated, nothing settled, another session scheduled.
 
-The village chose this, and it had a reason it could defend. After the Challenger it had lines. After the Regent it had continuity. What neither one gave it was a practice for keeping people, and the fastest substitute for a practice is a mood. So the village picked harmony over honesty, inclusion over closure, and hearing everyone over closing the question.
+The village chose this for a reason it could defend. After the Challenger it had lines. After the Regent it had continuity. What neither one gave it was a practice for keeping people, and the fastest substitute for a practice is a mood. So the village picked harmony over honesty, inclusion over closure, and hearing everyone over closing the question.
 
 Harmony worked. The village argued less and reported higher satisfaction whenever anyone asked. Underneath it, the people holding the village together carried it without saying so, absorbed what it cost them, and left without warning, which the village read as a run of unrelated departures. The ones who stayed kept count instead, and a count kept long enough starts to feel like a position.
 
-Look at what the village kept and what it traded. It kept every ounce of care. It gave up impact, which is what care was always for. A village with all the care and none of the impact keeps everybody comfortable and moves nobody, and everyone in it stays kind and slightly stuck.
+Look at what the village kept and what it traded. It kept every ounce of care. It gave up impact, which is what care was always for. A village with all the care and none of the impact keeps everybody comfortable and moves nobody, so everyone in it stays kind and slightly stuck.
 
-So the village stopped believing that staying could carry conditions. Presence became unconditional, which sounds like love and works like a tax. Nobody noticed. The village called the pattern kindness, and the pattern emptied it one person at a time.
+So the village stopped believing that staying could carry conditions. Presence became unconditional, which sounds like love and works like a tax. Nobody noticed. The village called the pattern kindness. The pattern emptied it one person at a time.
 
 ---
 
 <!-- SECTION 3 -->
 ## What Honest Terms Actually Are (And Why It's Not What You've Been Told)
 
-The Diplomat lives at the relational altitude of human development: pluralistic, relational, oriented toward inclusion. Where the Regent operates through tradition and inherited structure, and the Challenger operates through decisive will and confrontation, the Diplomat operates through the relational field. What matters lies not in what any single person thinks or wants but in what becomes possible between people when someone holds the conditions rightly.
+The Diplomat lives at the relational altitude of human development: pluralistic, relational, oriented toward inclusion. Where the Regent operates through tradition and inherited structure, and where the Challenger operates through decisive will and confrontation, the Diplomat operates through the relational field. What matters lies not in what any single person thinks or wants but in what becomes possible between people when someone holds the conditions rightly.
 
 People commonly misunderstand the Diplomat's stance. Niceness, conflict-avoidance dressed in the language of harmony, and the absence of judgment in the service of false peace all get mistaken for it. The Diplomat's altitude is the one at which a person can hold multiple valid perspectives simultaneously. They can be a partisan and still make space, can stand for something and still listen, can name their own position and still honor the legitimacy of a position they disagree with. The Diplomat's working capacity is honest multiplicity: holding the field without requiring it to resolve into one answer, holding the tension between positions without rushing to collapse it. That capacity supplies the raw material. What it is *for* arrives with the Victim, later in this chapter.
 
@@ -138,7 +138,7 @@ The Diplomat operates through five modes:
 
 You have already met a version of "terms," and that version forces the School of the Bridge to define the word before it can use it.
 
-The villagers harden terms into ultimatums. Terms are what someone says when they have decided to leave and want you to know it is your fault. Terms come with a deadline attached and a threat underneath. The person with leverage produces them at the end of a negotiation that was never a negotiation. That version of the word holds real (people do this), and it explains why a certain kind of capable, relationally fluent person will run an entire career without ever naming a single term of her own. She has seen what terms look like in the hands of someone playing a power game. She has decided not to be that.
+The villagers harden terms into ultimatums. Terms are what someone says when they have decided to leave and want you to know it is your fault. Terms come with a deadline attached and a threat underneath. The person with leverage produces them at the end of a negotiation that was never a negotiation. That version of the word holds real (people do this). It explains why a certain kind of capable, relationally fluent person will run an entire career without ever naming a single term of her own. She has seen what terms look like in the hands of someone playing a power game. She has decided not to be that.
 
 That decision is an accurate reading of a specific misuse. Accuracy explains why nobody has talked her out of it. The problem is what it costs to generalize from it.
 
@@ -156,9 +156,9 @@ That decision is an accurate reading of a specific misuse. Accuracy explains why
 > *The terms I wrote at that table have held eleven years. Nobody has mentioned them. I notice that I have written that down. Whether wanting the sentence is a defect in me or a condition of the work is the open question here, and I am the wrong person to settle it.*
 <!-- /HANDBOOK -->
 
-Honest terms work as the opposite instrument. **A term is a statement of what this field must hold for your staying to remain real, offered as information, once, to the people who are then free to answer.** It states a fact about the arrangement rather than a demand or a condition of continued affection, and it arrives while anyone still has time to do something with it.
+Honest terms work as the opposite instrument. **A term is a statement of what this field must hold for your staying to remain real, offered as information, once, to the people who are then free to answer.** It states a fact about the arrangement rather than a demand or a condition of continued affection, and arrives while anyone still has time to do something with it.
 
-The difference is not tone. The Diplomat's altitude gets it wrong here most often, because this altitude excels at tone. An ultimatum said warmly is still an ultimatum. An honest term said flatly is still an honest term. The difference is structural: an ultimatum removes the other party's freedom to answer, and an honest term gives the answer back to them. That answer is only free when refusal will not cost them safety, livelihood, or standing. A clean sentence cannot make an unequal negotiation equal. You cannot decline something you were never told about. People who do not know what your staying requires have never had the chance to choose it.
+The difference is not tone. The Diplomat's altitude gets it wrong here most often, because this altitude excels at tone. An ultimatum said warmly is still an ultimatum. An honest term said flatly is still an honest term. The difference is structural: an ultimatum removes the other party's freedom to answer, while an honest term gives the answer back to them. That answer is only free when refusal will not cost them safety, livelihood, or standing. A clean sentence cannot make an unequal negotiation equal. You cannot decline something you were never told about. People who do not know what your staying requires have never had the chance to choose it.
 
 <!-- MARGINALIA -->
 > *This is the sentence I have quoted most and understood last.*
@@ -174,7 +174,7 @@ A field that was never told produces the sentence the School of the Bridge exist
 
 **The myth: allyship means never causing harm.**
 
-It sounds like a floor. It functions as a ceiling. If your presence only counts as legitimate for as long as it has cost no one anything, then naming a term becomes a risk you cannot take, because a term might go badly, and something that goes badly is harm, and harm is disqualifying. So the terms stay unnamed. The staying stays weightless. The student stays (pleasant, reliable, and slowly becoming furniture) and calls the whole arrangement care.
+It sounds like a floor. It functions as a ceiling. If your presence only counts as legitimate for as long as it has cost no one anything, then naming a term becomes a risk you cannot take, because a term that goes badly counts as disqualifying harm. So the terms stay unnamed. The staying stays weightless. The student stays (pleasant, reliable, and slowly becoming furniture) and calls the whole arrangement care.
 
 Every move the School of the Bridge teaches runs downstream of that myth. The School of the Bridge replaces it with something a person can stand on, which is not *I have never caused harm* but *I can be told what I cost and stay in the conversation afterward.*
 
@@ -195,17 +195,17 @@ Every move the School of the Bridge teaches runs downstream of that myth. The Sc
 
 You met the Polarity Map at the School of the Body. Here is the Diplomat's pair.
 
-A polarity is not a problem to solve. It has two poles, and both of them are right. The charge comes not from one side being wrong but from getting stuck on one so long that the other stops existing for you.
+A polarity is not a problem to solve. It has two poles, both of them right. The charge comes not from one side being wrong but from getting stuck on one so long that the other stops existing for you.
 
 The Diplomat's pair: care for the relationship versus impact on the situation.
 
-**Care** means protecting the connection itself: the trust, the willingness of people to stay in contact with each other, the conditions under which anyone can say anything difficult at all. Care maintains the only medium through which anything relational travels. Sentiment protects how the connection feels; care protects whether it still works. Take the care out and the field carries nothing.
+**Care** means protecting the connection itself: the trust, the willingness of people to stay in contact with each other, the conditions under which anyone can say anything difficult at all. Care maintains the only medium through which anything relational travels. Sentiment protects how the connection feels; care protects whether it still works. Without the care, the field carries nothing.
 
 **Impact** means the actual change in the world outside the relationship. What moves, what stops, who is materially better off after the conversation than before it. Impact means the willingness to spend a relationship on something rather than preserve it as an end in itself. Brutality spends the relationship without pricing it. Impact names the price first and spends it anyway.
 
-Both poles have a failure state, and the failure states do not look alike. Care without impact is attendance: warm, dependable, and doing nothing. Everyone likes you. Nothing changes. Impact without care is the Challenger's altitude imported into a conversation that needed this one: accurate, and said in a way that ends the possibility of saying anything after it.
+Both poles have failure states that do not look alike. Care without impact is attendance: warm, dependable, and doing nothing. Everyone likes you. Nothing changes. Impact without care is the Challenger's altitude imported into a conversation that needed this one: accurate, and said in a way that ends the possibility of saying anything after it.
 
-One part of this belongs specifically to this reader, and it explains why the axis reads as hard to see rather than hard to accept. You are fluent in one pole and suspicious of the other. The Care end has a vocabulary (holding, tending, centering, making space) and the Impact end, at this altitude, mostly has warnings attached to it. So the drift runs one direction and never announces itself. Nobody drifts toward Care in a single dramatic act of avoidance. It happens one reasonable call at a time, and each call is defensible.
+One part of this belongs specifically to this reader: the part that explains why the axis reads as hard to see rather than hard to accept. You are fluent in one pole and suspicious of the other. The Care end has a vocabulary (holding, tending, centering, making space) and the Impact end, at this altitude, mostly has warnings attached to it. So the drift runs one direction and never announces itself. Nobody drifts toward Care in a single dramatic act of avoidance. It happens one reasonable call at a time, each call defensible.
 
 
 *Now the chapter resumes.*
@@ -240,7 +240,7 @@ The draw is relational rather than solo. Pick a live field with actual people ma
 
 3. Write one integrated sentence that holds both poles at once:
    *"I protect __________ because it makes __________ possible,
-   and what I have not yet said is __________."*
+   though what I have not yet said is __________."*
 
 4. Sit 30 seconds. Notice: heaviness (Care stuck) or heat (Impact stuck)
    or ground (integrated).
@@ -273,7 +273,7 @@ The five stages track how the work moves. The five modes describe who you are wh
 
 The Bridge-Builder is the Diplomat's entry point, the mode through which contact happens and curiosity replaces judgment. It is the Diplomat's most fundamental skill and the one most easily distorted.
 
-Here is what its absence looks like: a person who makes contact only when they want something. Every relational field is a transaction (what can I get, what is this interaction worth to me) and everyone they meet becomes a means to an end.
+Here is what its absence looks like: a person who makes contact only when they want something. Every relational field is a transaction (what can I get, what is this interaction worth to me), so everyone they meet becomes a means to an end.
 
 Here is what its distortion looks like: a person who is always reaching out, always bridging, and who cannot stop, even when nobody needs the crossing. They confuse movement for connection, and they keep bridging because stopping feels like abandonment.
 
@@ -301,7 +301,7 @@ Call it optimism if you want. The discipline extends to the present the same hyp
 
 **Control 1 — Untracked Depletion Pattern**
 
-The structural pattern here is **untracked depletion**: you bridge past your capacity, treating every connection as required, and never notice what it costs until you are empty.
+The structural pattern here is **untracked depletion**: you bridge past your capacity, treating every connection as required, without noticing what it costs until you are empty.
 
 The Control move runs: build the bridge → check the fuel gauge before crossing. *Do I have capacity for this contact? Am I bridging because someone here actually needs me, or because I can't say no to the request?* This fixes structure, not emotion. It names the cost of bridging before warmth turns into depletion.
 
@@ -351,7 +351,7 @@ The alchemy moves through **humility into real curiosity**: you let the arrogant
 
 The Translator carries a secondary Dissatisfaction: the guilt of partiality. You have a position, and you translate from it. Is that translation or persuasion? Where does translation end and advocacy begin?
 
-This guilt is real, and it is also a distortion. **Partiality is not the same as betrayal.** A Translator who cannot tolerate their own partiality ends in a false neutrality that serves no one, least of all the field.
+This guilt is real, yet also a distortion. **Partiality is not the same as betrayal.** A Translator who cannot tolerate their own partiality ends in a false neutrality that serves no one, least of all the field.
 
 The alchemy: *I stop apologizing for having a position I am translating from.* I let the guilt transmute into the clarity of legitimate partiality. I am a partisan who can also really hear.
 
@@ -379,27 +379,27 @@ The Field-Holder demands more sheer presence than any other Diplomat mode: keepi
 
 Here is what its absence looks like: a person who can hold a conversation only when it is already safe. The moment something difficult happens, they either escalate into the conflict or withdraw until there is no field left. They can hold the good conditions; they cannot hold the bad ones.
 
-Here is what its distortion looks like: a performative calm, actually a freeze response. They sit in the middle of chaos and perform peace, believing that their equanimity will regulate the field. Real Field-Holding contains the charge rather than removing it. Whoever brought the charge keeps it. The Field-Holder does not take it off them or talk anyone down. They give it a shape. Stand is subtraction; Hold is addition, and it costs, and it does not end when the silence does. They say: *this charge has somewhere to go. It can move through here without destroying anything.*
+Here is what its distortion looks like: a performative calm, actually a freeze response. They sit in the middle of chaos and perform peace, believing that their equanimity will regulate the field. Real Field-Holding contains the charge rather than removing it. Whoever brought the charge keeps it. The Field-Holder does not take it off them or talk anyone down. They give it a shape. Stand is subtraction; Hold is addition: it costs and does not end when the silence does. They say: *this charge has somewhere to go. It can move through here without destroying anything.*
 
 **Alchemy 1 — Inclusion-Performance → Genuine Inclusion**
 
-The Dissatisfaction here is **inclusion-performance**. You open the retro by telling everyone no topic is off the table, and you mean it, and then the hour runs, everyone reports status, and what actually happened last sprint never comes up. You ran a good meeting and never got near the field.
+The Dissatisfaction here is **inclusion-performance**. You open the retro by telling everyone no topic is off the table, and you mean it. Then the hour runs and everyone reports status, while what actually happened last sprint never comes up. You ran a good meeting and never got near the field.
 
 The statement took nine days and four rounds, because the group could not agree on how to say that it was listening.
 
-The field is what happens between people, and everyone there makes it. A physical field holds itself. This one needs tending, which is why Hold costs more, and why it is the one move you cannot make alone.
+The field is what happens between people, made by everyone there. A physical field holds itself. This one needs tending, which is why Hold costs more, and why it is the one move you cannot make alone.
 
-The alchemy: *I stop announcing that the field is open and find out whether anyone will use it.* Anxiety shows up while you do this, and it reads the situation correctly, because a field with somebody's real stake in it costs more to hold than a calm one. Treat it as the weather you work in. What you are watching for is growth, and you know it arrived when somebody says what they had decided in the parking lot not to say. Their sentence is between everyone now, and you could not have said it for them. That is the Wood channel completing, and Bliss is what it feels like to hold a field that grew what you did not plant.
+The alchemy: *I stop announcing that the field is open and find out whether anyone will use it.* Anxiety shows up while you do this, reading the situation correctly, because a field with somebody's real stake in it costs more to hold than a calm one. Treat it as the weather you work in. What you are watching for is growth. You know it arrived when somebody says what they had decided in the parking lot not to say. Their sentence is between everyone now, a sentence you could not have said for them. That is the Wood channel completing. Bliss is what it feels like to hold a field that grew what you did not plant.
 
 **Alchemy 2 — Hothouse Safety → Hardy Field**
 
-The Field-Holder's secondary Dissatisfaction is **hothouse safety**, a field you keep so comfortable that nobody says the sentence that would cost them anything. It looks like health to everyone keeping it that way. The family dinner stays warm, the standup stays pleasant, the two of you stay kind with each other, the community meeting ends on time, and everyone leaves carrying what they walked in with. A field protected from charge stays small, and the people making it learn to bring less of themselves to match.
+The Field-Holder's secondary Dissatisfaction is **hothouse safety**, a field you keep so comfortable that nobody says the sentence that would cost them anything. It looks like health to everyone keeping it that way. The family dinner stays warm, the standup stays pleasant, the two of you stay kind with each other, the community meeting ends on time. Everyone leaves carrying what they walked in with. A field protected from charge stays small, and the people making it learn to bring less of themselves to match.
 
-The alchemy: *I stop protecting the field and start building one that can take weather.* You say the hard sentence, and you stay, and the field turns out to hold. Now they know by experience what nobody could have told them, that the field survives contact. Each round of that raises what it carries next time. Hardy is a gardener's word. It has never described a plant somebody kept warm.
+The alchemy: *I stop protecting the field and start building one that can take weather.* When you say the hard sentence and stay, the field turns out to hold. Now they know by experience what nobody could have told them, that the field survives contact. Each round of that raises what it carries next time. Hardy is a gardener's word. It has never described a plant somebody kept warm.
 
 **From Presence to Structure**
 
-**Fire → Earth: Heat translated into form.** When conflict charges a field (hot, fast, potentially explosive), the field will not cool down. It will move, and the Translate move gives the movement a shape: a boundary, a format, a pause that says: *let's do this deliberately.* The fire doesn't go out. It becomes a fireplace instead of a wildfire.
+**Fire → Earth: Heat translated into form.** When conflict charges a field (hot, fast, potentially explosive), the field will not cool down. It will move. The Translate move gives the movement a shape: a boundary, a format, a pause that says: *let's do this deliberately.* The fire doesn't go out. It becomes a fireplace instead of a wildfire.
 
 **Water → Wood: Sadness translated into forward motion.** When a field sits stuck in sadness (slow, heavy, collapsed), the Translate move carries that energy forward into possibility. The field has been hurt. It needs to grieve. It also needs to know it can still move.
 
@@ -419,7 +419,7 @@ Staying spends real capacity. Naming that cost belongs to the holding, because u
 
 The Repairer is the Diplomat's deepest mode: the work of healing a rupture without pretending the break didn't happen. Unlike the Field-Holder who maintains safety, the Repairer rebuilds it after it has been lost.
 
-Here is what its absence looks like: a relationship that cannot survive its own ruptures, where every breach becomes permanent and every conflict leaves a scar that never heals. Call it relational brittleness. People stay together, accumulate damage they never recover from, and one day something breaks that cannot be repaired.
+Here is what its absence looks like: a relationship that cannot survive its own ruptures, where every breach becomes permanent and every conflict leaves a scar that never heals. Call it relational brittleness. People stay together and accumulate damage they never recover from, until one day something breaks that cannot be repaired.
 
 Here is what its distortion looks like: a premature forgiveness that skips the repair entirely. They say *it's fine, let's move on, I forgive you*, and in fact they abandon the relationship to its damage. The wound closes over with the infection still inside.
 
@@ -455,7 +455,7 @@ The cost here is time. Real repair takes longer than performance repair, and tha
 
 ### Mode 5 — Integrative Negotiator
 
-The Integrative Negotiator is the Diplomat's closing mode, the Fire/Anger application at the Diplomat's altitude. The Challenger's line in the sand does different work, and so does the Regent's decree. Bridge, translate, hold, repair, and then **negotiate**. Heard *and* something moves.
+The Integrative Negotiator is the Diplomat's closing mode, the Fire/Anger application at the Diplomat's altitude. The Challenger's line in the sand and the Regent's decree do different work. Bridge, translate, hold, repair, and then **negotiate**. Heard *and* something moves.
 
 Here is what its absence looks like: a field that can stay in conversation forever and never arrive anywhere. The person who keeps the harmony going because closing feels like conflict, who defers every hard question to the next conversation, the next working group, the next season when conditions might be better. Call it relational molasses: pleasant, inclusive, and slowly failing the task.
 
@@ -467,11 +467,11 @@ The second distortion is **ultimatum dressed as negotiation**: leverage where in
 
 **Alchemy 1 — Resentful Peace → Honest Terms**
 
-The Dissatisfaction here is **resentful peace**, the accommodation that says yes while the body says no. You made space without naming what making space cost. You kept the field calm by swallowing your stake, and now the calm curdles into bitterness you can't explain because you never said out loud what you needed the agreement to hold.
+The Dissatisfaction here is **resentful peace**, the accommodation that says yes while the body says no. You made space without naming what making space cost. You kept the field calm by swallowing your stake. Now the calm curdles into bitterness you can't explain, because you never said out loud what you needed the agreement to hold.
 
 The alchemy: *I stop paying for harmony with my disappearance.* Resentful peace is deferred conflict wearing a polite face. The alchemy moves accommodation into **honest terms**: not *I'll tolerate anything to stay*, but *here is what this field must hold for my staying to remain real, and for everyone's.* The charge of the swallowed no becomes the heat of a closing that actually names the stakes.
 
-**What it feels like in the body:** Resentful peace sits as heaviness, a pleasant surface with something dense underneath. Honest terms feel like heat with ground: your chest engages, your feet plant, and nothing has exploded.
+**What it feels like in the body:** Resentful peace sits as heaviness, a pleasant surface with something dense underneath. Honest terms feel like heat with ground: your chest engages and your feet plant, yet nothing has exploded.
 
 **Alchemy 2 — Positions → Interests**
 
@@ -519,7 +519,7 @@ The Diplomat does not need you to tally what you gave. The Diplomat needs you to
 
 ### 3-2-1 — Reclaim the One Who Ended It
 
-Somebody in your life closes conversations you would have kept open. They say the sentence nobody else will, the temperature drops, and the matter gets settled. You have watched them do it and come away with an opinion you have never tested.
+Somebody in your life closes conversations you would have kept open. When they say the sentence nobody else will, the temperature drops and the matter gets settled. You have watched them do it and come away with an opinion you have never tested.
 
 Solo, written or spoken, fifteen to twenty-five minutes.
 
@@ -537,7 +537,7 @@ Pick the person. Someone who took a side while you were still holding the range,
 — *Why does it not cost you what it would cost me?*
 — *What would I lose if I said it your way?*
 
-**1 · BE IT.** Speak as *I*, one paragraph, and say what you have to say about showing up as an ally.
+**1 · BE IT.** Speak as *I* for one paragraph, saying what you have to say about showing up as an ally.
 
 **RECEIPT.** Sit thirty seconds. Did the charge move?
 
@@ -549,7 +549,7 @@ Pick the person. Someone who took a side while you were still holding the range,
 ## The Victim, Up Close
 ### *The Ledger That Became a Standing*
 
-I apologized for taking up space in the conversation, at length, twice, and by the end I had taken up more of it than anyone.
+I apologized for taking up space in the conversation, at length, twice. By the end I had taken up more of it than anyone.
 
 
 You met the Victim at the door of the Forest, sixth in line. The Protector decides whether you go in. The Controller decides how you may behave once you are inside. The Skeptic decides whether what you react to was ever real. The Fixer/Healer decides whether what is in front of you merits giving yourself to. The Victim decides something none of them touch: what your having paid entitles you to.
@@ -563,25 +563,25 @@ You met the Victim at the door of the Forest, sixth in line. The Protector decid
 <!-- /MARGINALIA -->
 
 
-At its best this is the part of you that keeps an exact ledger. Something cost you and the Victim will not let the cost be called nothing. It remembers the meetings you carried, the accommodations nobody asked for and everybody used, the years of being the reasonable one. Every entry is accurate. This matters more in relational work than anywhere else in the book, because relational work forms the one arena where people routinely absorb costs without ever entering them anywhere. Without a part of you keeping count, you will absorb harm indefinitely and call it fine, and nobody there will stop you. A person who does not send an invoice does not get paid.
+At its best this is the part of you that keeps an exact ledger. Something cost you. The Victim will not let the cost be called nothing. It remembers the meetings you carried, the accommodations nobody asked for and everybody used, the years of being the reasonable one. Every entry is accurate. This matters more in relational work than anywhere else in the book, because relational work forms the one arena where people routinely absorb costs without ever entering them anywhere. Without a part of you keeping count, you will absorb harm indefinitely and call it fine. Nobody there will stop you. A person who does not send an invoice does not get paid.
 
 The distortion arrives in what it does with the balance.
 
-It converts the record into a standing. Not *this cost me* but *this cost me, therefore*. Therefore I have earned the right to speak here. Therefore my reading on the situation carries more weight than yours. Therefore what I do next is covered. The ledger stops being an account of what happened and starts being the source of your authority in the field, and that is a catastrophe you will never see happen, because authority drawn from cost has to be refinanced. You cannot draw on it without spending it. So the balance has to keep growing, which means the absorbing cannot stop, which means what you built the ledger to prevent is now what your standing requires.
+It converts the record into a standing. Not *this cost me* but *this cost me, therefore*. Therefore I have earned the right to speak here. Therefore my reading on the situation carries more weight than yours. Therefore what I do next is covered. The ledger stops being an account of what happened and starts being the source of your authority in the field: a catastrophe you will never see happen, because authority drawn from cost has to be refinanced. You cannot draw on it without spending it. So the balance has to keep growing, which means the absorbing cannot stop, which means what you built the ledger to prevent is now what your standing requires.
 
 Now here is why this daemon stands where it stands, in a book about allyship. Allyship run on a ledger is allyship whose legitimacy comes from your own injury. That has a specific and terrible consequence: you cannot act from surplus. You can only act from wound. The person you came to stand beside stops being someone you stand beside and becomes, structurally and not intentionally, a claimant against the same fund. That is the part that is hard to look at. Two people cannot both be the one who has paid most, in a field where having paid most is what confers the right to speak. Nobody decides this. It simply happens when cost denominates standing.
 
 This is where the chapter's myth comes due. You met it earlier in this chapter: allyship means never causing harm. The Victim is the daemon that makes that feel like integrity rather than what it actually is: a solvency requirement. If your legitimacy comes from having been harmed, then having caused harm is not a mistake you can absorb and repair. It is a disqualification. It voids the ledger. So the Victim cannot afford for you to have caused harm, and a part of you that cannot afford a finding is a part of you that will not run the audit.
 
-The cost is paid in exactly the place this chapter cannot afford to lose it. You become unavailable for repair. Read that again against Sections 4 and 6, because the Repairer is one of your five modes and Move 4 is a structure for receiving rupture. None of it can run. Someone names an impact you had, and before they finish the sentence the ledger has opened and produced a number, and the number says this is impossible: look at what I have absorbed, look at the column, I am the one in the red here. The Face whose whole chapter is about repair is, in shadow, structurally the worst in the book at receiving it.
+The cost is paid in exactly the place this chapter cannot afford to lose it. You become unavailable for repair. Read that again against Sections 4 and 6, because the Repairer is one of your five modes and Move 4 is a structure for receiving rupture. None of it can run. Someone names an impact you had. Before they finish the sentence the ledger has opened and produced a number that says this is impossible: look at what I have absorbed, look at the column, I am the one in the red here. The Face whose whole chapter is about repair is, in shadow, structurally the worst in the book at receiving it.
 
-You do not fire the Victim. Fire the part of you that counts and you will spend the rest of your life absorbing costs you cannot name, in fields that have no reason to stop taking, calling that generosity. You take the joystick back by giving it its actual jurisdiction and taking away the one it appointed itself to.
+You do not fire the Victim. Once you fire the part of you that counts, you will spend the rest of your life absorbing costs you cannot name, in fields that have no reason to stop taking, calling that generosity. You take the joystick back by giving it its actual jurisdiction and taking away the one it appointed itself to.
 
-*Keep the ledger. Every entry, exact, and read it to me whenever I ask. What the ledger does not do is decide whether I am allowed to speak here, and it does not get a vote on whether I have caused harm.*
+*Keep the ledger. Every entry, exact, and read it to me whenever I ask. What the ledger does not do is decide whether I am allowed to speak here, nor does it get a vote on whether I have caused harm.*
 
-Then put a limit on it, because an open ledger is the shadow's whole method. The Challenger's deadline is a breath. The Regent's is a cycle. The Diplomat's is smaller than either, and harder: *one sentence.* You get one sentence to name what this cost you, said once, to the field rather than about it, and then the others take their turn. A case would be longer. The accumulated column would be longer still. One sentence, and then silence, and then whatever they do with it. One sentence covers what they actually need to hear. It does not cover the case, and that is the point.
+Then put a limit on it, because an open ledger is the shadow's whole method. The Challenger's deadline is a breath. The Regent's is a cycle. The Diplomat's is smaller than either, and harder: *one sentence.* You get one sentence to name what this cost you, said once, to the field rather than about it. Then the others take their turn. A case would be longer. The accumulated column would be longer still. One sentence, then silence, then whatever they do with it. One sentence covers what they actually need to hear. It does not cover the case. That is the point.
 
-It shows up in a single beat. Someone tells you that something you did hurt them. Something in you goes still and attentive; that is the Repairer arriving, on time, doing its job. Then the ledger opens underneath it, and what surfaces is not a defense. A defense you would catch. What surfaces is a balance. *After everything I have carried here.* You do not say it. You would never say it. What you say is *I hear you,* the ledger's most efficient instrument, because it accepts the words without admitting the entry. The conversation ends warm. Nothing has been received. On the narrow jurisdiction the same part returns the same accurate report and the answer changes: *that is true, I did that, and here is what it cost you*, with your own column left closed, in your pocket, entirely real and not currently the subject.
+It shows up in a single beat. Someone tells you that something you did hurt them. Something in you goes still and attentive; that is the Repairer arriving, on time, doing its job. Then the ledger opens underneath it. What surfaces is not a defense. A defense you would catch. What surfaces is a balance. *After everything I have carried here.* You do not say it. You would never say it. What you say is *I hear you,* the ledger's most efficient instrument, because it accepts the words without admitting the entry. The conversation ends warm. Nothing has been received. On the narrow jurisdiction the same part returns the same accurate report and the answer changes: *that is true, I did that, and here is what it cost you*, with your own column left closed, in your pocket, entirely real and not currently the subject.
 
 *Bring one time somebody named an impact you had and you agreed with them out loud without anything changing. Name what the ledger produced before you spoke: the entry, not the feeling about it. Then write the one sentence you would have had to say instead. Two minutes to capture it as a BAR.*
 
@@ -589,7 +589,7 @@ It shows up in a single beat. Someone tells you that something you did hurt them
 
 ### 3-2-1 on Your Victim
 
-The one described above keeps a generic ledger. Yours has actual entries in it, and those are what to work. Ten to fifteen minutes.
+The one described above keeps a generic ledger. Yours has actual entries in it: work those. Ten to fifteen minutes.
 
 **3 · FACE IT.** Third person, and not the version in this chapter. What is on your ledger, in the words you use for it when nobody is listening? What does the balance entitle you to? When did it last open in the middle of a conversation, and what did it produce? A paragraph, as much detail as you can hold, and give it a name if a name comes.
 
@@ -598,7 +598,7 @@ The one described above keeps a generic ledger. Yours has actual entries in it, 
 — *What happens to me if the column goes unread?*
 — *What are you afraid I will be if I stop counting?*
 
-**1 · BE IT.** Speak as *I*, one paragraph, and say what you have to say about showing up as an ally.
+**1 · BE IT.** Speak as *I* for one paragraph, saying what you have to say about showing up as an ally.
 
 **RECEIPT.** Sit thirty seconds. Did it loosen, or did it dig in? Both are information.
 
@@ -610,9 +610,9 @@ The one described above keeps a generic ledger. Yours has actual entries in it, 
 
 You drew the Care ↔ Impact axis earlier in this chapter. Here is why the Victim is nearly impossible to catch standing on it.
 
-Both poles are real goods, and this chapter is unusual in the book because its reader is fluent in one of them and suspicious of the other. You know both failure states: the warm attendance that changes nothing, and the accuracy that ends the conversation. Every live relationship sits somewhere on that axis, and where it sits is a judgment call, and judgment calls about what something costs are precisely what a ledger is for.
+Both poles are real goods. This chapter is unusual in the book because its reader is fluent in one of them and suspicious of the other. You know both failure states: the warm attendance that changes nothing and the accuracy that ends the conversation. Every live relationship sits somewhere on that axis. Where it sits is a judgment call, precisely the kind of call about cost a ledger is for.
 
-So the shadow hides inside the act. It does not argue against impact; you would notice that. It argues for Care, and Care is half the truth, and it is the half you are good at. *This is not the moment. They are not ready to hear it. Pushing now would cost more than it gains.* Each of those can be correct. Each of them is correct sometimes. You can spend a decade at the Care end of a real polarity and call it discernment, and no single instance looks like an evasion.
+So the shadow hides inside the act. It does not argue against impact; you would notice that. It argues for Care, the half of the truth you are good at. *This is not the moment. They are not ready to hear it. Pushing now would cost more than it gains.* Each of those can be correct. Each of them is correct sometimes. You can spend a decade at the Care end of a real polarity and call it discernment, without a single instance looking like an evasion.
 
 The tell is never the position. The tell is whether impact ever arrives without being converted into cost, whether anything anyone says about what you did gets to stay a fact about them instead of becoming an entry about you. A ledger that has answered four consecutive pieces of feedback with a balance has stopped accounting and started ruling. Look at the sequence, not the verdict.
 
@@ -622,11 +622,11 @@ The tell is never the position. The tell is whether impact ever arrives without 
 
 The Victim developed does what nothing else in this chapter can do: it lets you know exactly what your presence costs and decline to bill for it. That combination is rarer than it sounds. Most people manage one or the other. Holding both is what makes your staying mean anything, because only a cost you can name and do not bill for reads as a choice.
 
-That forms the Connector's foundation, and the word usually means something else. This chapter does not train contact; the Bridge-Builder makes that in the first hour. It trains connection that has survived being told the truth. Connection nobody has ever closed with is attendance, and attendance is what everyone in a field takes for granted. What remains after the close is the part that was ever actually yours.
+That forms the Connector's foundation, though the word usually means something else. This chapter does not train contact; the Bridge-Builder makes that in the first hour. It trains connection that has survived being told the truth. Connection nobody has ever closed with is attendance, which everyone in a field takes for granted. What remains after the close is the part that was ever actually yours.
 
 You know what your Victim is for now. That is what you take out.
 
-Theirs is doing the same job in a Forest you cannot see into. A stranger's Victim guards a story and the returns on telling it, and some of those returns are real: sympathy, an exemption, a reason to stay where they are. Say that out loud and the door shuts for good. Clearance here comes from feeling it with them without confirming them in it, which is the line this chapter has been drawing for you all along.
+Theirs is doing the same job in a Forest you cannot see into. A stranger's Victim guards a story and the returns on telling it, some of them real: sympathy, an exemption, a reason to stay where they are. Say that out loud and the door shuts for good. Clearance here comes from feeling it with them without confirming them in it, which is the line this chapter has been drawing for you all along.
 
 ---
 
@@ -649,13 +649,13 @@ The Diplomat's game creates the conditions where connection remains possible, ev
 
 Most difficult conversations run deeper than their surface. Two people arguing about a decision are often really negotiating about trust. Two people disagreeing about a plan are often really having a fight about recognition, about whose reality gets to count. The Diplomat's first move surfaces this layer without making anyone wrong for the confusion.
 
-**Example:** A letting agent has spent ten minutes on whether the flat suits a family that size. Dele has two children and a housing voucher, and the agent has said neither out loud. Name the field: *I want to say what I think this is about. On the surface it is bedroom count. I think it may be the voucher, and I would rather we discussed that.* It costs you the agent's goodwill and you may want that next month. Dele decides what happens next.
+**Example:** A letting agent has spent ten minutes on whether the flat suits a family that size. Dele has two children and a housing voucher, neither of which the agent has said out loud. Name the field: *I want to say what I think this is about. On the surface it is bedroom count. I think it may be the voucher, which I would rather we discussed.* It costs you the agent's goodwill and you may want that next month. Dele decides what happens next.
 
 Name the Field makes no diagnosis. It makes an offering. You say *here is what I think is happening, and I want to know if I'm right.* The move either works and the conversation opens, or the other person corrects you and you update. Either way, the field gets clearer.
 
 **Why it matters:** Most conflicts stay stuck because they are playing at the wrong level, arguing about content while the real conflict is relational. Name the Field moves the conversation to the level where the actual problem lives.
 
-**The test:** You said what the field is actually about, in one sentence, in front of the people making it. Whether they accept the description is theirs to answer, and a correction is the move working rather than failing.
+**The test:** You said what the field is actually about, in one sentence, in front of the people making it. Whether they accept the description is theirs to answer. A correction is the move working rather than failing.
 
 **Working vs. performed:** When Name the Field works, there's a quality of clearing: the conversation gets simpler as the confusion lifts. When it's being performed, there's a quality of positioning. You're naming the field to establish yourself as the one who sees.
 
@@ -669,15 +669,15 @@ Name the Field makes no diagnosis. It makes an offering. You say *here is what I
 
 This is not summarizing. Summarizing is compression: you take the essence of what's being said and make it shorter. Translating is conversion: you take the meaning and render it into an entirely different framework without losing the truth of it.
 
-The reason this matters: most camps speak from within their own framework, and what they're saying only makes sense from inside that framework. When a camp says *"this process is disrespecting us,"* they are speaking from a framework where recognition and process are tied together. The other camp, speaking from a different framework, may hear this as *"they're questioning our authority"*, and respond defensively to the perceived challenge. Neither side is wrong. They are speaking different languages.
+The reason this matters: most camps speak from within their own framework, so what they're saying only makes sense from inside it. When a camp says *"this process is disrespecting us,"* they are speaking from a framework where recognition and process are tied together. The other camp, speaking from a different framework, may hear this as *"they're questioning our authority"*, then respond defensively to the perceived challenge. Neither side is wrong. They are speaking different languages.
 
 The Diplomat translates: *"What I hear [Camp A] saying, in [Camp B]'s language, is this: the process choices you're making signal something about whether our work is valued. They're experiencing that signal as dismissive."* Now [Camp B] can hear what [Camp A] is actually saying, not a challenge to their authority, but a concern about being seen. [Camp A] can hear that their concern was received faithfully, not as an attack.
 
 **The art of the translation:** You have to hold your own position lightly enough to truly receive the meaning before you transmit it. If you're already formulating your response while they're speaking, you're not translating. You're performing translation.
 
-**Why it matters:** Translation builds the bridge that lets both camps move forward together. Without it, camps talk about each other instead of to each other, and the conversation becomes a performance of positions rather than a search for understanding.
+**Why it matters:** Translation builds the bridge that lets both camps move forward together. Without it, camps talk about each other instead of to each other, so the conversation becomes a performance of positions rather than a search for understanding.
 
-**Example:** In the review meeting the clinician calls Nia's mother non-compliant. Nia calls her frightened. Both describe the same eight weeks. Translate, without softening either side: *the clinic is telling us the plan is not being followed and the risk is climbing. Nia is telling us nobody has explained what happens if it goes wrong. Those are one fact.* It costs you your standing with the clinician, who had you down as easy to work with.
+**Example:** In the review meeting the clinician calls Nia's mother non-compliant. Nia calls her frightened. Both describe the same eight weeks. Translate, without softening either side: *the clinic is telling us the plan is not being followed, so the risk is climbing. Nia is telling us nobody has explained what happens if it goes wrong. Those are one fact.* It costs you your standing with the clinician, who had you down as easy to work with.
 
 **The test:** You put each camp's position into language the other camp could hear, without softening either one to make the fit easier. Whether both sides accept your rendering is theirs to say.
 
@@ -703,13 +703,13 @@ The Diplomat translates: *"What I hear [Camp A] saying, in [Camp B]'s language, 
 
 Close with Honest Terms is one clear sentence naming what this field must hold for your staying to remain real, said once and then left alone for the people it concerns to answer. The leaving-alone separates it from an ultimatum.
 
-**Example:** Eighteen months into a partnership you have never named the one term you will not trade. Say it once and do not soften it: *I can work with almost anything here except one. If I have to choose between being honest with you and being honest with myself, I choose myself. When I push back we are close to losing an agreement that works for both of us, and I am not running a strategy.* Then stop talking. What they do with it is theirs.
+**Example:** Eighteen months into a partnership you have never named the one term you will not trade. Say it once and do not soften it: *I can work with almost anything here except one. If I have to choose between being honest with you and being honest with myself, I choose myself. When I push back we are close to losing an agreement that works for both of us. I am not running a strategy.* Then stop talking. What they do with it is theirs.
 
 A threat would sound like *do this or I leave.* This is an offering of information: here is what this field must hold for my staying to remain real. Then the people it concerns get to respond.
 
 *If you don't yet know where you stand, whether you've been trading impact away for the comfort of caring, go back to the Care ↔ Impact axis you drew earlier before you try to close. The axis is preparation. This move is the practice.*
 
-**The test:** You named what you actually need from the agreement rather than a softer version, said it once, and left it alone for the people it concerns to answer. Their behavior may or may not change. If you named the real terms and nothing moved, that is information.
+**The test:** You named what you actually need from the agreement rather than a softer version, said it once, and left it alone for the people it concerns to answer. Their behavior may or may not change. If you named the real terms but nothing moved, that is information.
 
 The close is clean when there's nothing left to add and you don't reach to fill the silence. You've said the terms, nothing has broken, and for once you let it stay said. The over-care version is the opposite: the talk thickens to molasses, every term softened until nothing's actually been said, the conversation kept intact like a museum piece and nobody moved an inch. Then the performed version: the words are out, but one hand stays on the door, ready to pull it open again the moment they frown.
 
@@ -723,13 +723,13 @@ The close is clean when there's nothing left to add and you don't reach to fill 
 
 *Prerequisite: some real trust has been built. This move requires a history*
 
-**What it is:** When trust breaks, and it will, the Diplomat has a specific structure for repair, and it runs on uncomfortable sentences in a specific order.
+**What it is:** When trust breaks, as it will, the Diplomat has a specific structure for repair, one that runs on uncomfortable sentences in a specific order.
 
 The structure:
 
 **1. Name what broke.** Not your interpretation of what broke. What was actually said or done. *"When you said that in the meeting, that broke something."*
 
-**2. Name your part**, not theirs. What did you do or fail to do that contributed to the rupture? *"I know I've been more withdrawn the last two weeks, and I know that reads as pulling away, and I wasn't communicating why, and that must have felt like a punishment."*
+**2. Name your part**, not theirs. What did you do or fail to do that contributed to the rupture? *"I know I've been more withdrawn the last two weeks. I know that reads as pulling away. I wasn't communicating why, so it must have felt like a punishment."*
 
 **3. Name what you're not asking for.** Repair is not the same as reconciliation. You are naming what happened and your role in it. You are not asking them to pretend it didn't happen, or to trust you again immediately, or to change their response to it. *"I'm not asking you to feel better about it. I'm not even asking you to trust me again yet. I just needed you to know I know what happened and I know my part."*
 
@@ -739,7 +739,7 @@ Staying does not mean insisting on access after someone has set a boundary. Resp
 
 **Why it matters:** Ruptures named and repaired build more trust than ruptures that never happened. The repair does not undo the break. It proves that the relationship can survive the break, the only proof that builds confidence in a relationship.
 
-**Example:** You argued for the restructure that moved Alan sideways at fifty-eight, and you were sure at the time. Six weeks on you can see what it cost him and that nobody asked him first. Repair: *I pushed for that change, I never asked what you wanted, and I read your options as narrower than they were. I am not asking you to be fine with it.* Name your part, name what you are not asking for, and stay in the meeting afterward.
+**Example:** You argued for the restructure that moved Alan sideways at fifty-eight, sure at the time. Six weeks on you can see what it cost him and that nobody asked him first. Repair: *I pushed for that change, I never asked what you wanted, and I read your options as narrower than they were. I am not asking you to be fine with it.* Name your part, name what you are not asking for, and stay in the meeting afterward.
 
 **The test:** You named what broke, named your part in it, named what you were not asking for, and stayed. Whether they can name it back to you accurately yet is a separate question, and often a later one. If it still reads as entirely your fault, go back to step one.
 
@@ -751,19 +751,19 @@ Staying does not mean insisting on access after someone has set a boundary. Resp
 
 *Move 2 is the prerequisite. You have not earned a refusal until you can translate the position you are refusing*
 
-**What it is:** Not all positions deserve equal weight. Say so, clearly, without apology, and without pretending your refusal is neutral when it is a position.
+**What it is:** Not all positions deserve equal weight. Say so, clearly and without apology, never pretending your refusal is neutral when it is a position.
 
-This is the Diplomat's most contested move. The Diplomat's altitude values inclusion, and inclusion can curdle into a relativistic posture where every position is treated as equally valid, where *making space* becomes *giving equal legitimacy to positions that do not deserve it.* The Diplomat who refuses false equivalence is the one who holds real inclusion while also refusing to pretend that all framings are equally accurate.
+This is the Diplomat's most contested move. The Diplomat's altitude values inclusion. Inclusion can curdle into a relativistic posture where every position is treated as equally valid, where *making space* becomes *giving equal legitimacy to positions that do not deserve it.* The Diplomat who refuses false equivalence is the one who holds real inclusion while also refusing to pretend that all framings are equally accurate.
 
 The distinction that matters: the difference between *positions that deserve equal hearing* and *positions that deserve equal endorsement.*
 
-Equal hearing means: everyone gets to speak, everyone gets to feel heard, every perspective present gets space. Relativism is the easy misreading. This is the basic work of the Diplomat's altitude, and it is precious.
+Equal hearing means: everyone gets to speak, everyone gets to feel heard, every perspective present gets space. Relativism is the easy misreading. This is the basic, precious work of the Diplomat's altitude.
 
 Equal endorsement means: all positions are treated as equally valid interpretations of reality. This is where the Diplomat's gift curdles. Some positions are not equally valid. Some rest on inaccurate premises. Some require ignoring evidence that others have to live with. Some cause harm that others have to absorb. Treating these positions as if they were equally valid is a failure of discernment disguised as open-mindedness.
 
 The Refuse False Equivalence move is this: you name the difference between hearing and endorsement, and you name your position on which camp is closer to what you consider true, without invalidating the people in the camp you disagree with.
 
-**Example:** A working group is weighing two claims equally: that the new fee is affordable, and that a third of members have said they will leave. One is a projection and one is a survey of eleven hundred people. Put the other side first and put it well: *the case for the fee is that the shortfall is real and the alternative is closing.* Then refuse: *I can state both and I do not weigh them the same.* They will write partisan in the notes.
+**Example:** A working group is weighing two claims equally: that the new fee is affordable, and that a third of members have said they will leave. One is a projection, the other a survey of eleven hundred people. Put the other side first and put it well: *the case for the fee is that the shortfall is real and the alternative is closing.* Then refuse: *I can state both and I do not weigh them the same.* They will write partisan in the notes.
 
 **Before you refuse false equivalence, ask:** Am I refusing because this position actually rests on a less accurate premise, or because I simply don't want to engage with it? Can the position I'm dismissing offer me something I haven't considered? If the answer is no, if you've done the work of understanding the other position and it still doesn't hold, then Refuse False Equivalence is the honest move. If you haven't done that work, Refuse False Equivalence is just closed-mindedness with a justification attached.
 
@@ -783,23 +783,23 @@ The moves are what you do. The next question is where.
 
 The parable showed one of the four: Direct Action. Once, in a hard moment, one villager *simply told the truth about the agreement: what it would hold, what it would cost each of them, what would have to change for his staying to remain real*, said to the people it bound while they could still do something about it. That is the domain where a close stops being an account of what you have carried and becomes something somebody has to answer.
 
-The close has four domains, and one cheap habit that is none of them. The cheap habit is the ledger kept and never closed. You hold an exact account of what your staying costs and never read it to anybody who could do something about it. Keeping the count is real skill, and the part of you that does it stays. It also asks nothing of you, because nobody ever has to watch you get the column wrong. Nobody declines a price they were never quoted. That is why it survives for years, gaining accuracy the whole time. The four domains are where the account finally gets read out: the terms said to the person they bind, the cost of the arrangement named where it gets set, what your staying requires asked for while somebody can still grant it, and the agreement a group has been running without. Each costs more than the ledger, because each hands the field what a private column withholds: the chance to say no.
+The close has four domains. One cheap habit imitates all four without being any of them. The cheap habit is the ledger kept and never closed. You hold an exact account of what your staying costs and never read it to anybody who could do something about it. Keeping the count is real skill, and the part of you that does it stays. It also asks nothing of you, because nobody ever has to watch you get the column wrong. Nobody declines a price they were never quoted. That is why it survives for years, gaining accuracy the whole time. The four domains are where the account finally gets read out: the terms said to the person they bind, the cost of the arrangement named where it gets set, what your staying requires asked for while somebody can still grant it, and the agreement a group has been running without. Each costs more than the ledger, because each hands the field what a private column withholds: the chance to say no.
 
 These four are not a syllabus. Pick where you'll spend the close this week, and pick the domain you keep avoiding. If the terms only ever get said in the car on the way in, or to a friend with no power to grant them, you did not make the Diplomat's move. You rehearsed it.
 
 ### How to Close It So It Holds
 
-When you close, the sentence and the weeks after it decide whether the terms hold, and the same three moves decide it in every domain.
+When you close, the sentence and the weeks after it decide whether the terms hold. The same three moves decide it in every domain.
 
-**Name what they stand to lose first.** A term said before they have heard you describe their side accurately gets answered as a charge, and an answer spent on themselves never reaches your terms. So say what the other camp is guarding, in one sentence, before you say what you require. You lose the clean drama of coming out with it and you get a field that can answer.
+**Name what they stand to lose first.** A term said before they have heard you describe their side accurately gets answered as a charge. An answer spent on themselves never reaches your terms. So say what the other camp is guarding, in one sentence, before you say what you require. You lose the clean drama of coming out with it and you get a field that can answer.
 
-**Put the cost in the words, not in the delivery.** The account gets signaled long before it gets stated: the pause before you agree, the extra weight on *sure*, the tone that means somebody ought to ask. A signal costs nothing to send and nobody can answer one, because it leaves the field to work the number out alone, and it will work it out low. Say what this is costing, in figures, once. Nobody has ever renegotiated with a sigh.
+**Put the cost in the words, not in the delivery.** The account gets signaled long before it gets stated: the pause before you agree, the extra weight on *sure*, the tone that means somebody ought to ask. A signal costs nothing to send and nobody can answer one, because it leaves the field to work the number out alone. The field will work it out low. Say what this is costing, in figures, once. Nobody has ever renegotiated with a sigh.
 
-**Let them say what your staying cost them, and answer that.** A close is an invitation, and it gets accepted the moment somebody tells you what the arrangement cost on their side. That is where the Victim opens the column, on time and exact, and turns a negotiation into a comparison of totals only one person is running. (Chapter 5 has me holding back what I knew in a body I stayed with for years, with the crown under my hood. I told it as a Regent's story and it is one. Read it from here and a second story sits inside it: nobody there ever got to decide whether they wanted what I was carrying, because I never put it where they could refuse it.) You owe their term an answer. Your balance keeps. It has kept for years.
+**Let them say what your staying cost them, and answer that.** A close is an invitation, accepted the moment somebody tells you what the arrangement cost on their side. That is where the Victim opens the column, on time and exact, and turns a negotiation into a comparison of totals only one person is running. (Chapter 5 has me holding back what I knew in a body I stayed with for years, with the crown under my hood. I told it as a Regent's story. It is one. From here, a second story sits inside it: nobody there ever got to decide whether they wanted what I was carrying, because I never put it where they could refuse it.) You owe their term an answer. Your balance keeps. It has kept for years.
 
 **Direct Action — the terms said to the person they bind**
 
-*You're winning when:* you said what this field must hold for your staying to remain real, to the person who can change it, in the conversation rather than in the better version you run afterward with somebody else. That was the end of never asking. The proof is that they got to answer, and whatever they answered is now a fact in the open rather than an entry in your column.
+*You're winning when:* you said what this field must hold for your staying to remain real, to the person who can change it, in the conversation rather than in the better version you run afterward with somebody else. That was the end of never asking. The proof is that they got to answer, and that whatever they answered is now a fact in the open rather than an entry in your column.
 
 **Raise Awareness — the cost named where it gets set**
 
@@ -811,11 +811,11 @@ When you close, the sentence and the weeks after it decide whether the terms hol
 
 **Skillful Organizing — the agreement the group never made**
 
-*You're winning when:* you closed the group on what it has to hold, who does what, and what happens when somebody does not, rather than booking the fourth conversation of its kind. You gave up the credit for still listening. The proof is that the group now has terms somebody can hold it to, and the people who carried it unnamed are in them by name.
+*You're winning when:* you closed the group on what it has to hold, who does what, and what happens when somebody does not, rather than booking the fourth conversation of its kind. You gave up the credit for still listening. The proof is that the group now has terms somebody can hold it to, and that the people who carried it unnamed are in them by name.
 
 ### The Tell
 
-None of the four markers asked why you closed it. That question is real, and it belongs to the Diplomat, because you have kept an exact record of what this costs you, and a record kept that long gives every honest sentence a second job. A Diplomat who closes so that somebody will finally hear the column has read the ledger out and called it terms. So the answer goes in your log in writing, where a later you can read it back. When you log the rep, answer it:
+None of the four markers asked why you closed it. That question is real. It belongs to the Diplomat, because a record of what this costs you, kept as exactly and as long as yours, gives every honest sentence a second job. A Diplomat who closes so that somebody will finally hear the column has read the ledger out and called it terms. So the answer goes in your log in writing, where a later you can read it back. When you log the rep, answer it:
 
 - **Direct Action.** Did you say the terms so they could answer them, or so somebody would finally know the price?
 - **Raise Awareness.** You read the cost out. Check the address: the people who set the arrangement, or the people who would be sorry about it?
@@ -830,7 +830,7 @@ Each Tell targets the Diplomat's signature failure: the close spent on getting t
 
 The Diplomat is a Face, but it is also a move you can run, which means you are not holding an archetype. You are holding a practice: the Five-Move Form.
 
-The five moves are this chapter, in order. Grow Up asks about other people by design, and Show Up is the relationship you build, because at this altitude showing up means bringing somebody with you.
+The five moves are this chapter, in order. Grow Up asks about other people by design. Show Up is the relationship you build, because at this altitude showing up means bringing somebody with you.
 
 ### Where the Daemon Bites
 
@@ -840,27 +840,27 @@ A daemon is a rule in force at every move, which means five failures rather than
 
 **Open Up.** Compassion goes out at full strength in every direction except one. Whatever anyone says about your impact becomes the one subject nobody there can relate to compassionately, because relating to it compassionately would mean holding it as true.
 
-**Clean Up:** it chooses the destination channel that keeps the ledger open, choosing Water over Fire every time. Sadness reads as blameless and asks nothing of anyone; anger would have to make a request, and a request can be refused.
+**Clean Up:** it chooses the destination channel that keeps the ledger open, choosing Water over Fire every time. Sadness reads as blameless and asks nothing of anyone; anger would have to make a refusable request.
 
 **Grow Up.** Asked how this affects others, it answers what others will finally understand about what you carried, so growth arrives as vindication. The people the growth is supposed to reach become the audience for the account.
 
-**Show Up.** The relationship it creates is a witness list. Who must be involved becomes who will corroborate, and the field fills with people who know your side of it and have never met the other one.
+**Show Up.** The relationship it creates is a witness list. Who must be involved becomes who will corroborate, so the field fills with people who know your side of it and have never met the other one.
 
-Where it bites is Open Up. The Victim's remit is what your having paid entitles you to, and the ledger settles that account at the exact moment an impact would arrive. The other four moves are that settlement arriving early or arriving late.
+Where it bites is Open Up. The Victim's remit is what your having paid entitles you to, an account the ledger settles at the exact moment an impact would arrive. The other four moves are that settlement arriving early or arriving late.
 
 Take the move called **What This Costs the Teller**, the Diplomat's version of Open Up. Its question is the one the Victim exists to route around: *how can I relate compassionately to this?* Pointed not at the situation, not at the people harmed in general, but at the specific person in front of you who is spending something to tell you what you did.
 
-Run it once, on something real. Bring the last time someone told you about your impact. Wake Up: name the relational dynamic that was live, not the content but the standing. Open Up: what did it cost them to say it, and stay there for one sentence's worth of time without answering. Clean Up: name the channel you routed to, and the one that would have served better. Grow Up: name who is affected by whether you can receive this. Show Up: name the one person who must be involved in what happens next.
+Run it once, on something real. Bring the last time someone told you about your impact. Wake Up: name the relational dynamic that was live, not the content but the standing. Open Up: what did it cost them to say it, and stay there for one sentence's worth of time without answering. Clean Up: name the channel you routed to and the one that would have served better. Grow Up: name who is affected by whether you can receive this. Show Up: name the one person who must be involved in what happens next.
 
 Five moves, one pass, ninety seconds. The Diplomat's version is the one most likely to get interrupted by a balance.
 
 ### From Read to Quest
 
-A reading that ends in a notebook is a reading you had. A reading that ends in a quest is one you played. Quests come out of Show Up, because that move ends in an artifact, and an artifact is something another person can encounter.
+A reading that ends in a notebook is a reading you had. A reading that ends in a quest is one you played. Quests come out of Show Up, because that move ends in an artifact: something another person can encounter.
 
-One sentence: what you will do, who it reaches, by when, and what it costs you. *Bring Them Into the Structure* becomes: **I will put the two people who have been running intake without a title into the decision that names it, at Thursday's meeting, and it will cost me being the one who explains them to everybody else.** That is a quest. *I will be more inclusive in how decisions get made* is not one; nobody can tell whether you did it, including you.
+One sentence: what you will do, who it reaches, by when, and what it costs you. *Bring Them Into the Structure* becomes: **I will put the two people who have been running intake without a title into the decision that names it, at Thursday's meeting, though it will cost me being the one who explains them to everybody else.** That is a quest. *I will be more inclusive in how decisions get made* is not one; nobody can tell whether you did it, including you.
 
-The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For a Diplomat the dread usually says that naming the terms will cost you the belonging. That is occasionally true, and it is not a reason.
+The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For a Diplomat the dread usually says that naming the terms will cost you the belonging. That is occasionally true, but it is not a reason.
 
 *Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
 
@@ -881,9 +881,9 @@ The tell that a quest is alive is not enthusiasm. It is anticipation with some d
 
 Neutrality is the easy guess. The Diplomat's gift is the capacity to be a partisan who can still hold the field.
 
-The belief this chapter came to dismantle is that allyship means never causing harm. It is a load-bearing belief for anyone who built their presence in this work out of being reliably safe to be around, and it is worth saying plainly what replaces it. Not *I have never caused harm.* Not *I will be more careful.* Something a person can actually stand on: **I can be told what I cost and stay in the conversation afterward.** Every move in this chapter is an instrument for making that sentence true.
+The belief this chapter came to dismantle is that allyship means never causing harm. It is a load-bearing belief for anyone who built their presence in this work out of being reliably safe to be around. So it is worth saying plainly what replaces it. Not *I have never caused harm.* Not *I will be more careful.* Something a person can actually stand on: **I can be told what I cost and stay in the conversation afterward.** Every move in this chapter is an instrument for making that sentence true.
 
-The five stages form the chapter's spine, and you have now met all five: Bridge, Translate, Hold, Repair, Negotiate. Each requires a different internal alchemy. The Bridge-Builder moves through the terror of real contact. The Translator transmutes intellectual superiority into faithful interpretation. The Field-Holder stays present through the charge of everyone's discomfort. The Repairer grieves what broke while acting toward its repair. The Integrative Negotiator finds the courage to surface what each party protects and close, not as a threat, not as manipulation, but as a clear, calm, loving act of honest agreement.
+You have now met all five stages that form the chapter's spine: Bridge, Translate, Hold, Repair, Negotiate. Each requires a different internal alchemy. The Bridge-Builder moves through the terror of real contact. The Translator transmutes intellectual superiority into faithful interpretation. The Field-Holder stays present through the charge of everyone's discomfort. The Repairer grieves what broke while acting toward its repair. The Integrative Negotiator finds the courage to surface what each party protects and close, not as a threat, not as manipulation, but as a clear, calm, loving act of honest agreement.
 
 Here is what the Diplomat carries forward into the book:
 
@@ -893,7 +893,7 @@ Here is what the Diplomat carries forward into the book:
 - The five game moves: Name the Field, Translate Across Camps, Close with Honest Terms, Repair After Rupture, Refuse False Equivalence
 - The Diplomat's superpower: Connector, connection that has survived being told the truth
 
-Here is the question that carries you out of this chapter and into the next: **When the Diplomat's tools are not enough, when one camp is playing a power game and the other is playing a harmony game and the conflict is altitudinal, who names that?**
+Here is the question that carries you out of this chapter and into the next: **When the Diplomat's tools are not enough, when one camp is playing a power game, the other a harmony game, the conflict altitudinal, who names that?**
 
 The Sage does.
 

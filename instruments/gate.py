@@ -397,6 +397,11 @@ _FORM = ("2026-09-10 — Appendix H, Devon's filled-in sample sheet. The file's 
          "Wendell to ratify.")
 
 EXEMPT = [
+    # Voice anchor 3 (specs/VOICE_ANCHOR.md, ch4:115), selected by Wendell 2026-07-31: "Do not
+    # polish these." PR #21's fragment pass rewrote this beat of the anaphora; restored to the
+    # proof line 2026-09-10 under that ruling. A prior ruling, not a pass-time judgement.
+    ("fragment", "At framing a boundary as a preference rather than a line.",
+     "voice anchor 3 (specs/VOICE_ANCHOR.md) — Wendell 2026-07-31: 'Do not polish these.'"),
     ("fragment", "**Home face.** Diplomat.", _FORM),
     ("fragment", "**Shadow.** Keeps everybody at the table", _FORM),
     ("fragment", "**Myth.** Allyship means never causing harm.", _FORM),

@@ -1,0 +1,427 @@
+# editorial_exceptions.yaml — accepted deviations, one sentence at a time.
+#
+# The target for every instrument below is ZERO. Every hit is a defect until a human decides one
+# earns its place, and that decision is recorded here so the scanner stops counting it. The number
+# coherence.py drives to zero is the UN-accepted hits.
+#
+# An entry is the offending SENTENCE (folded, so it survives the line moving) with a reason. When a
+# kept sentence is later rewritten its entry stops matching, and coherence.py's `ledger` check
+# flags it as stale so this file does not silently rot.
+#
+# WRITE THIS FILE WITH instruments/ledger.py, NOT BY HAND AND NOT WITH A SCRIPT THAT EDITS TEXT.
+# On 2026-09-09 a `str.replace` on "trailing_and:" matched inside this very comment block, and the
+# resulting file stopped parsing while the board still read `ledger ok clean`. See that module.
+#
+# Reasons belong in an entry's `reason:` field. A comment written above an entry is lost the next
+# time this file is rewritten; the field is not.
+
+polysyndeton:
+- quote: Fear detects threat and risk, anger detects the obstacle to overcome or the boundary to draw,
+    sadness points at what you care about and how far you have drifted from it, joy shows you what's aligned
+    with your delight, neutrality gives you detachment and the view of the whole.
+  reason: taxonomy, one clause per member — Five emotions, five jobs, one clause each. Every clause carries
+    a distinct fact, and the parallel is what makes the set legible as a set.
+- quote: The Challenger's cycle teaches you to *strike and then tend.* After the push you rest and let
+    the field settle.
+  reason: named technique — *strike and then tend* is the Challenger's cycle by name, italicised as a
+    term of art. A term is not a sentence to be repaired.
+- quote: The *I can see the whole board and you are playing one square of it and this conversation is
+    beneath my time* that fires the moment you have to go down to where they are.
+  reason: quoted interior voice — The Game-Switcher's rage, italicised as it fires. The chain is the escalation
+    — each `and` is the contempt gathering. A calmer sentence would describe the state instead of producing
+    it.
+- quote: In *10,000 Hours of Play*, he describes the experienced player as the one who knows when to be
+    serious and when to be playful, when to push and when to yield, when to stay and when to leave, from
+    choice rather than default.
+  reason: quoted source, deliberate anaphora — Chou's own sentence, quoted. The when/when repetition is
+    the definition of the experienced player; flattening it would misquote him.
+- quote: You can know you're mortal and the game is older than you and none of this will matter in a hundred
+    years, and still care, not despite knowing, because of it.
+  reason: rhetorical build to a turn — Three knowings stacked, then *and still care*. The build is what
+    earns the turn; shortened, the turn arrives unpaid for.
+- quote: I come back and notice that the chapter that had blocked me for three days unclogged the moment
+    I stopped forcing it and let the Shaman name what was actually there.
+  reason: shared-subject verb pair — One subject, two verbs — *I stopped forcing it and let the Steward
+    take it*. Not two clauses.
+- quote: They need your willingness to go first, not because you have all the answers, but because you
+    have the map and the willingness to walk it and report back.
+  reason: noun coordination — *the map and the willingness to walk it* is two nouns the reader is said
+    to have. The clause test reads the infinitive after `willingness` as a predicate.
+- quote: Name the decision as closed and you will still get the truth; leave it sounding open and you
+    have spent their effort on a door that was never going to move.
+  reason: antithesis — Two opposite moves with two opposite consequences, balanced across a semicolon.
+    The symmetry is the teaching.
+telling: []
+trailing_and:
+- quote: 'They are external, they vanish the moment the crowd turns, and you already know what they are
+    worth: you perform the care, you feel like somebody for an hour, and you are empty by dinner.'
+  reason: voice anchor 2 (specs/VOICE_ANCHOR.md), selected by Wendell 2026-07-31 with the instruction
+    'Do not polish these.' A prior ruling, not a pass-time judgement.
+- quote: If you date every version, across a year of play you can watch your face, your shadow, and your
+    myths move, which is the change you cannot see from inside a single week.
+  reason: 'serial list: the and closes a series of like items, not a second clause. The scanner reads
+    a plural noun (loss, myths, love''s verb keeps) as the second clause''s verb.'
+- quote: 'The size is the point: a card you can hold on a train is a card you will look at, and a deck
+    you can shuffle is a deck you will reread.'
+  reason: 'parallel pair: two claims of the same shape and different content (the card is portable, the
+    deck reshuffles). and joins like with like, which is the one job it does honestly.'
+- quote: 'Allyship reaches you as three games running at once: the lucky breaks you cannot schedule, the
+    skills you can actually build, and the love that keeps you coming back.'
+  reason: 'serial list: the and closes a series of like items, not a second clause. The scanner reads
+    a plural noun (loss, myths, love''s verb keeps) as the second clause''s verb.'
+- quote: 'In the Village you ask: *How do I look right now?* In the Forest you ask: *What keeps repeating
+    in me, and what does it cost if I keep running it?*'
+  reason: 'paired questions: two interior questions of the same kind in the Village/Forest table. and
+    joins like with like.'
+- quote: Repeated moves build your character, the culture around you, and the consequences everybody lives
+    with.
+  reason: 'serial list: the and closes a series of like items, not a second clause. The scanner reads
+    a plural noun (consequences, others, awareness) or a list item''s own verb as a second clause.'
+- quote: 'Each one gets a short entry: what it does, how it shows up once it''s your ally, how it shows
+    up as a demon still running the show, and a moment you might catch each one in play.'
+  reason: 'serial list: the and closes a series of like items, not a second clause. The scanner reads
+    a plural noun (consequences, others, awareness) or a list item''s own verb as a second clause.'
+- quote: Your superpower is the reliable capacity you built to survive your wounds, once you have made
+    that capacity conscious, ethical, and usable in service of others.
+  reason: 'serial list: the and closes a series of like items, not a second clause. The scanner reads
+    a plural noun (consequences, others, awareness) or a list item''s own verb as a second clause.'
+- quote: Before the feeling fades, get down what you noticed, where it lived, and what it might be trying
+    to say.
+  reason: 'serial list: the and closes a series of like items, not a second clause. The scanner reads
+    a plural noun (consequences, others, awareness) or a list item''s own verb as a second clause.'
+- quote: Before the moment closes, get down what you noticed, who you said it to, and what shifted after.
+  reason: 'serial list: the and closes a series of like items, not a second clause. The scanner reads
+    a plural noun (consequences, others, awareness) or a list item''s own verb as a second clause.'
+- quote: '*Channel-by-channel mechanics, the triage rule, and four worked scenarios: Appendix C: The Five
+    Channels in Practice.*'
+  reason: 'serial list: the and closes a series of like items, not a second clause (a cross-reference
+    list; the chapter-close inventory, where referee and judge are the chapter''s two opposed states of
+    one part).'
+- quote: 'Write yours in one sentence: what you will do, who it reaches, by when, and what it costs you.'
+  reason: 'serial list: the and closes a series of like items, not a second clause (a cross-reference
+    list; the chapter-close inventory, where referee and judge are the chapter''s two opposed states of
+    one part).'
+- quote: Where does it sit in your body, and what flavor does it have?
+  reason: 'paired questions: two questions of the same kind in the 3-2-1 prompt. and joins like with like.'
+- quote: 'Some moves sustain will because they keep the confrontation workable: the line lets you interrupt
+    the pattern crossing it, the interrupt lets you demand what replaces it, the demand clarifies where
+    you will not move regardless of pressure, and the refusal becomes a consequence you can name.'
+  reason: 'serial list: the and closes a series of like items (a four-step chain, three BAR questions,
+    three steps of one exit, four domains, the quest format, the chapter-close inventory), not a second
+    clause.'
+- quote: 'Before the story sets: what was the charge in your body, what did you actually say (or swallow),
+    and what did it cost?'
+  reason: 'serial list: the and closes a series of like items (a four-step chain, three BAR questions,
+    three steps of one exit, four domains, the quest format, the chapter-close inventory), not a second
+    clause.'
+- quote: 'Run it back honestly and you usually find the audit''s verdict in better clothes: someone with
+    more standing gets located, the charge gets handed over, and the leaving looks like respect.'
+  reason: 'serial list: the and closes a series of like items (a four-step chain, three BAR questions,
+    three steps of one exit, four domains, the quest format, the chapter-close inventory), not a second
+    clause.'
+- quote: 'One sentence: what you will do, who it reaches, by when, and what it costs you.'
+  reason: 'serial list: the and closes a series of like items (a four-step chain, three BAR questions,
+    three steps of one exit, four domains, the quest format, the chapter-close inventory), not a second
+    clause.'
+- quote: The Skeptic up close is the auditor that makes your no expensive, the judge that audits your
+    standing instead of your charge, and the one breath that separates them.
+  reason: 'serial list: the and closes a series of like items (a four-step chain, three BAR questions,
+    three steps of one exit, four domains, the quest format, the chapter-close inventory), not a second
+    clause.'
+- quote: The Fixer turns *I might not be equal to this* into a project plan, and a project plan holds
+    much more comfortably than a verdict.
+  reason: voice anchor 4 (specs/VOICE_ANCHOR.md, Mr. Inadequate), selected by Wendell 2026-07-31 with
+    the instruction 'Do not polish these.' A prior ruling, not a pass-time judgement.
+- quote: '*Who is coming after me, and what do they actually need?*'
+  reason: 'paired questions: the Teacher''s two questions, one mode. and joins like with like.'
+- quote: Your instinct is to give him the spreadsheet, the calendar, and forty minutes on what went wrong
+    in 2019.
+  reason: 'serial list: the and closes a series of like items (three things to hand over, the parable''s
+    three structures, four domains), not a second clause.'
+- quote: 'The parable showed one of the four: Skillful Organizing, the Regent building the council, the
+    ceremony, and the roles that passed from person to person, so that when one person left the role stayed
+    and the next could step into it.'
+  reason: 'serial list: the and closes a series of like items (three things to hand over, the parable''s
+    three structures, four domains), not a second clause.'
+- quote: 'The four domains are where the accepting shows: the inheritance claimed to the people who hold
+    it with you, the reason said out loud while somebody still knows it, the hours asked for so one body
+    stops being the structure, and the practice handed to a group in a shape it can run without you.'
+  reason: 'serial list: the and closes a series of like items (three things to hand over, the parable''s
+    three structures, four domains), not a second clause.'
+- quote: '*You''re winning when:* you told a group why a practice exists, what it cost the people who
+    built it, and what it has cost since, in front of the ones who inherited the form with none of that
+    attached.'
+  reason: 'serial list: three what-clauses on one verb (why it exists, what it cost, what it has cost
+    since), not a second clause.'
+- quote: The Architect said *here is why this keeps breaking, and here is how to redesign it so it holds.*
+  reason: 'quoted parallel pair: the Architect''s two here-is statements (diagnosis, then prescription),
+    inside the parable''s speech. and joins like with like.'
+- quote: 'What they actually did: starve themselves of what they needed most: someone willing to look
+    at the system honestly, without judgment, and say *here is why this keeps breaking, and here is how
+    to fix it.*'
+  reason: 'quoted parallel pair: the Architect''s two here-is statements (diagnosis, then prescription),
+    inside the parable''s speech. and joins like with like.'
+- quote: 'Reconstruct the order: what did you build, and what were you feeling before you built it?'
+  reason: 'paired questions: two questions of the same kind in a BAR or 3-2-1 prompt. and joins like with
+    like.'
+- quote: 'Wake Up: which mode caught it, and what was it detecting.'
+  reason: 'paired questions: two questions of the same kind in a BAR or 3-2-1 prompt. and joins like with
+    like.'
+- quote: '*You''re winning when:* you took what the system had been drawing out of one person without
+    ever asking, her translating, his shift swaps, your evenings, and put it into the design where it
+    has a name, a line, and somebody who pays, and asked the person who can grant or refuse instead of
+    absorbing it another year.'
+  reason: 'serial list: the and closes a series of like items (a name, a line, and somebody who pays;
+    the chapter-close inventory), not a second clause.'
+- quote: You have the five modes and the channels underneath them, the five stages of Observe → Model
+    → Design → Deploy → Hand Off, and the Emotional Body up close, the sensor that turns a feeling into
+    a spec before you can read it, and what it costs when the conversion beats the reading.
+  reason: 'serial list: the and closes a series of like items (a name, a line, and somebody who pays;
+    the chapter-close inventory), not a second clause.'
+- quote: '**Negotiate** is the culmination: surfacing what each party protects, naming the terms under
+    which staying remains possible, and closing so that everyone is heard *and* something moves.'
+  reason: 'serial list: the and closes a series of like items (Negotiate''s three acts, the village''s
+    three inheritances, three what-clauses, the mode''s gerunds, four domains, a close''s three terms),
+    not a second clause.'
+- quote: It had lines from the Challenger and continuity from the Regent, and from the Architect it had
+    designs that assumed a goodwill nobody had.
+  reason: 'serial list: the and closes a series of like items (Negotiate''s three acts, the village''s
+    three inheritances, three what-clauses, the mode''s gerunds, four domains, a close''s three terms),
+    not a second clause.'
+- quote: 'In one hard conversation, the Diplomat named what staying would cost: what each side was protecting,
+    what the agreement would actually require, and what would have to change for the Diplomat''s own presence
+    there to keep meaning anything.'
+  reason: 'serial list: the and closes a series of like items (Negotiate''s three acts, the village''s
+    three inheritances, three what-clauses, the mode''s gerunds, four domains, a close''s three terms),
+    not a second clause.'
+- quote: Surfacing stakes, interests, and sacrifices; naming what the agreement must hold for everyone,
+    and closing so the field moves.
+  reason: 'serial list: the and closes a series of like items (Negotiate''s three acts, the village''s
+    three inheritances, three what-clauses, the mode''s gerunds, four domains, a close''s three terms),
+    not a second clause.'
+- quote: 'The four domains are where the account finally gets read out: the terms said to the person they
+    bind, the cost of the arrangement named where it gets set, what your staying requires asked for while
+    somebody can still grant it, and the agreement a group has been running without.'
+  reason: 'serial list: the and closes a series of like items (Negotiate''s three acts, the village''s
+    three inheritances, three what-clauses, the mode''s gerunds, four domains, a close''s three terms),
+    not a second clause.'
+- quote: '*You''re winning when:* you closed the group on what it has to hold, who does what, and what
+    happens when somebody does not, rather than booking the fourth conversation of its kind.'
+  reason: 'serial list: the and closes a series of like items (Negotiate''s three acts, the village''s
+    three inheritances, three what-clauses, the mode''s gerunds, four domains, a close''s three terms),
+    not a second clause.'
+- quote: 'On the narrow jurisdiction the same part returns the same accurate report and the answer changes:
+    *that is true, I did that, and here is what it cost you*, with your own column left closed, in your
+    pocket, entirely real and not currently the subject.'
+  reason: 'quoted series: a repair script of three like admissions, spoken by the reader. and joins like
+    with like.'
+- quote: 'Repair: *I pushed for that change, I never asked what you wanted, and I read your options as
+    narrower than they were.'
+  reason: 'quoted series: a repair script of three like admissions, spoken by the reader. and joins like
+    with like.'
+- quote: When did it last open in the middle of a conversation, and what did it produce?
+  reason: 'paired questions: two questions of the same kind in the 3-2-1 prompt. and joins like with like.'
+- quote: 'The real Sage asks: *which game is this person actually in, and what do they actually need?*
+    Then does that, even when what they need is smaller than what the Sage wanted to offer.'
+  reason: 'paired questions: two questions of the same kind, the Sage''s own (which game, what they need;
+    who is present, what they carry; what altitude, what it would mean). L373 also sits in voice anchor
+    5''s paragraph. and joins like with like.'
+- quote: Who is actually present, and what are they actually carrying?* The wonder is the field being
+    exactly what it is, and you staying curious about that anyway.
+  reason: 'paired questions: two questions of the same kind, the Sage''s own (which game, what they need;
+    who is present, what they carry; what altitude, what it would mean). L373 also sits in voice anchor
+    5''s paragraph. and joins like with like.'
+- quote: '*What altitude are they actually at, and what would it mean to go there with them rather than
+    at them?* The triumph is going down and coming back without feeling diminished by the trip.'
+  reason: 'paired questions: two questions of the same kind, the Sage''s own (which game, what they need;
+    who is present, what they carry; what altitude, what it would mean). L373 also sits in voice anchor
+    5''s paragraph. and joins like with like.'
+- quote: What was the last map you reached for, and what problem was still sitting there when it arrived?
+  reason: 'paired questions: two questions of the same kind, the Sage''s own (which game, what they need;
+    who is present, what they carry; what altitude, what it would mean). L373 also sits in voice anchor
+    5''s paragraph. and joins like with like.'
+- quote: 'You ask: *which game are we actually in, and what game is being played underneath the one we''re
+    talking about?*'
+  reason: 'paired questions: two questions of the same kind, the Sage''s own (which game, what they need;
+    who is present, what they carry; what altitude, what it would mean). L373 also sits in voice anchor
+    5''s paragraph. and joins like with like.'
+- quote: 'The Designer asks: *What am I avoiding, and what would happen if I built a practice that included
+    it?*'
+  reason: 'paired questions: two questions of the same kind (the Designer''s; the book''s closing question;
+    the Cauldron prompt). and joins like with like.'
+- quote: 'It comes to this: *what game do you want to play, and what are you going to build?*'
+  reason: 'paired questions: two questions of the same kind (the Designer''s; the book''s closing question;
+    the Cauldron prompt). and joins like with like.'
+- quote: 'Then: what is that story circling, and what does the Cauldron need to transform?*'
+  reason: 'paired questions: two questions of the same kind (the Designer''s; the book''s closing question;
+    the Cauldron prompt). and joins like with like.'
+- quote: What survives is usually one group of people, one situation that keeps recurring, and one outcome
+    that keeps not happening.
+  reason: 'serial list: the and closes a series of like items (what survives the cut; the appendix inventory),
+    not a second clause.'
+- quote: '*Eight quests, one for each chapter of the walk, and four campaigns you can run with other people:
+    Appendix B: Quests & Campaigns.*'
+  reason: 'serial list: the and closes a series of like items (what survives the cut; the appendix inventory),
+    not a second clause.'
+- quote: '**The test:** A stranger can repeat your sentence back to you, and somebody affected by it can
+    recognize their problem without having to translate you first.'
+  reason: 'two-part test: a clarity check and a recognition check, joined as the one test they are. and
+    joins like with like.'
+- quote: His friends come to him for a light shone into whatever they have been refusing to look at, for
+    genre-savvy takes on the state of the world, for rad parties, and to run their roleplaying games.
+  reason: 'serial list: four things his friends come to him for. and closes the series.'
+- quote: A verb, a name, a deadline, and an artifact somebody else can encounter.
+  reason: 'serial list: the quest''s four parts; the admissions page''s three questions. and closes the
+    series.'
+- quote: One per Face, each with an admissions page saying who it is for, what it costs, and what it does
+    not teach.
+  reason: 'serial list: the quest''s four parts; the admissions page''s three questions. and closes the
+    series.'
+- quote: These scenarios teach you to feel the difference between a move that keeps the field workable,
+    a move that returns capacity, and a move that spends capacity on purpose.
+  reason: 'serial list: three kinds of move. and closes the series.'
+- quote: '*When you run a Polarity Map in the field, capture it: the pair, where your dot sat, and the
+    one integrated move you made.'
+  reason: 'serial list: the capture''s three parts. and closes the series.'
+- quote: Scarcity, loss avoidance, and social pressure will get someone moving, but they will also burn
+    that person down over a few years.
+  reason: 'serial list: three drives as the subject (L91); three authors, three contributions (L97). and
+    closes the series; the scanner reads a list item plus its verb as a clause.'
+- quote: Read Carse for the frame, Chou for the mechanics, and Nguyen for what playing does to you while
+    you do it.
+  reason: 'serial list: three drives as the subject (L91); three authors, three contributions (L97). and
+    closes the series; the scanner reads a list item plus its verb as a clause.'
+- quote: Allyship has a prize counter too, and most people have spent their whole lives feeding tickets
+    into the wrong one.
+  reason: voice anchor 2 (specs/VOICE_ANCHOR.md), the paragraph at ch1:119, selected by Wendell 2026-07-31
+    with the instruction 'Do not polish these.' A prior ruling, not a pass-time judgement.
+- quote: The judge has every past ruling on file, infinite patience, and a perfect record on points.
+  reason: 'serial list: the and closes a series of like items (the judge''s three holdings, four domains,
+    the Diplomat''s three kinds of work, the superpower''s three adjectives), not a second clause.'
+- quote: 'The four domains are where the line finally gets drawn: the limit said to the person crossing
+    it, the truth named where naming it costs you, the no said in your own name, and the boundary a group
+    has been negotiating around for months.'
+  reason: 'serial list: the and closes a series of like items (the judge''s three holdings, four domains,
+    the Diplomat''s three kinds of work, the superpower''s three adjectives), not a second clause.'
+- quote: '*Diplomat:* holds the relational field that makes coordination possible across difference —
+    the trust-building, translation, and repair work that keeps people in the coalition.'
+  reason: 'serial list: the and closes a series of like items (the judge''s three holdings, four domains,
+    the Diplomat''s three kinds of work, the superpower''s three adjectives), not a second clause.'
+- quote: Your superpower is the reliable capacity you built to survive your wounds, once you have made
+    it conscious, ethical, and usable in service of others.
+  reason: 'serial list: the and closes a series of like items (the judge''s three holdings, four domains,
+    the Diplomat''s three kinds of work, the superpower''s three adjectives), not a second clause.'
+- quote: It is not, it is incomplete, and incomplete is a different problem with a different address.
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: 'Named is the difficult half and the entire point: a practice handed over without its record
+    passes to someone who must now guess what it was for, and the guessing is where alterations begin.'
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: Those requiring resolution inside a season have suffered as a result, and two are named in the
+    ledger with their consent.
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: It does not redesign, and a school that redesigns while claiming to preserve is the failure this
+    one exists downstream of.
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: At the first the body adapts, and the adaptation is cited afterward as proof that no structure
+    was needed.
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: They are refiled under correct reading, withheld, and the refiling is the more accurate of the
+    two.*
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: This is the clause I would amend, and amendment is not within the office.
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: I have not learned to hand one to somebody who will change it without entering the change as
+    damage, and my own ledgers are the reason that is hard.*
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: Past that, candidates begin producing designs to correct designs, each further from anybody living
+    inside them, and the drift is the mechanism rather than the error.
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: Something must have been kept before something may be changed, and the order is not stylistic.
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: In practice I remain slower at asking than at designing, and the asking takes an afternoon.
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: 'One applicant wrote: *I had no leverage and I sat down anyway, and I was frightened the entire
+    time.* Admitted.'
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: 'Another wrote: *I watched a woman bargain with nothing but somebody''s goodwill and I said nothing,
+    because it was not my table, and I have thought about it since.* Admitted, and only in combination
+    with the first.'
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: 'Consequence: a conversation stops being about who is right roughly four minutes earlier than
+    it did before, and four minutes is more than it sounds.'
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: 'A student once put it this way at the end of her fourth year: *the terms held and nobody knew
+    I wrote them, and I did not expect to mind, and I mind.* She was right to say so and no version of
+    this training removes it.'
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: Whether wanting the sentence is a defect in me or a condition of the work is the open question
+    here, and I am the wrong person to settle it.
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: Whether wanting the sentence is a defect in me or a condition of the work is the open question
+    here, and I am the wrong person to settle it.*
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: Who we are for.** Maera would say we take the person who has stopped registering their own signal,
+    and Corin would say we take the person who cannot spend a line, and both are describing the same applicant
+    from inside their own school, which is the difficulty with this document and with us.
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: The consequence is that the people we send arrive at the right school on the first attempt rather
+    than the third, and Irix will tell you what the first two cost.
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: We stop being simply at home in any one school, including the one we came from, and I have watched
+    that arrive as loss in students who expected freedom.
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: Those who came to be above the other five have suffered as a result, and left, and one has come
+    back.
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: We teach which of the five a moment is asking for, and then we send, and the sending is the entire
+    curriculum.
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+light_verb: []
+fragment: []
+gate: []
+slop_shapes:
+- quote: When the dust settled, the Regent was gone, not exiled exactly, but *retired.* The villagers
+    kept the walls.
+  reason: definitional precision between two real states; 'exiled' is the reader's likely word
+- quote: 'What the Architect hands forward is what the Diplomat does not have yet: that the best systems
+    make the right thing the easy thing, not through mandates and not through enforcement, but through
+    design.'
+  reason: ranking series — mandates and enforcement are the live alternatives the chapter argues against
+- quote: 'Call it relational deafness: not literally unable to hear, but incapable of receiving meaning
+    that originates outside their own framework.'
+  reason: definitional — blocks a literal misreading of a coined term (relational deafness)
+- quote: Not by an enemy, not by a stranger, but by the person who was supposed to hold the field with
+    you.
+  reason: ranking series, three real terms — the escalation IS the point
+- quote: 'Its question is the one the Victim exists to route around: *how can I relate compassionately
+    to this?* Pointed not at the situation, not at the people harmed in general, but at the specific person
+    in front of you who is spending something to tell you what you did.'
+  reason: ranking series narrowing to the specific person; the narrowing is the content
+- quote: The Integrative Negotiator finds the courage to surface what each party protects and close, not
+    as a threat, not as manipulation, but as a clear, calm, loving act of honest agreement.
+  reason: ranking series — each rejected term is a real reading of the act
+- quote: The Player shows the villagers what it looks like to walk all six Faces and come out the other
+    side, not above them, not separate from them, but further along a path they can follow.
+  reason: ranking series defining a position between two real errors

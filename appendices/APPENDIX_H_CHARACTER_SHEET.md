@@ -7,11 +7,11 @@
 
 ---
 
-Chapter 1 says pen and paper hold this, and it is right. A sheet you can only reach
+Chapter 1 is right that pen and paper hold this. A sheet you can only reach
 through a screen is a sheet you will not open in the four seconds you need it.
 
 Thirteen lines. Each one is stamped with the chapter that asks for it, so the sheet fills
-in the order you read, and the stamp is also where to go back to. One line has no chapter
+in the order you read. The stamp is also where to go back to. One line has no chapter
 and is marked **open**.
 
 ---
@@ -76,7 +76,7 @@ it in motion. Leave it blank until you do*
 
 ## A worked example
 
-Devon's sheet, at the end of a first reading. Yours will not look like this, and it is not
+Devon's sheet, at the end of a first reading. Yours will not look like this, nor is it
 supposed to. It is here so you can see how short a line can be and still be worth writing,
 and how much of it names a specific person or a specific week.
 

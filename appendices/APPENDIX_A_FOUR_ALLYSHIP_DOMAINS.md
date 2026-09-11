@@ -29,7 +29,7 @@ Movement builders have known this territory for sixty years. It is the domain or
 
 *When it's needed:* when the block to progress is material. The organization can't pay staff. The campaign can't afford the venue. The activist can't take the day off because rent is due. When good intentions exist but capacity has been spent.
 
-**The collapse:** the most common error is performing Gather Resources rather than doing it — giving what costs nothing and calling it resourcing. Retweeting a fundraiser is not Gather Resources. Hosting an event where guests feel generous and the cause nets $800 after expenses is not Gather Resources. The diagnostic: did something actually transfer to someone who needed it? Did it cost something real?
+**The collapse:** the most common error is performing Gather Resources rather than doing it — giving what costs nothing and calling it resourcing. Retweeting a fundraiser is not Gather Resources. Hosting an event where guests feel generous but the cause nets $800 after expenses is not Gather Resources. The diagnostic: did something actually transfer to someone who needed it? Did it cost something real?
 
 The reverse collapse: using Raise Awareness as a substitute — sharing the story of need without moving the resource. Or using Direct Action when Gather Resources is what's needed — showing up personally (presence, labor, body) when the block is material, not motivational.
 
@@ -89,7 +89,7 @@ Direct Action is the work of moving — when the moment needs a body in a specif
 
 *Who does this work:* activists, advocates, anyone with a body or voice to deploy at a moment of consequence. The person who speaks in the meeting when no one else will. The person who shows up when the moment costs something.
 
-*When it's needed:* when something needs to happen that isn't happening, and waiting makes it worse. When the block is not material or structural — it's that no one has moved yet. When the window is open and the only question is whether someone will walk through it.
+*When it's needed:* when something needs to happen that isn't happening, and when waiting makes it worse. When the block is not material or structural — it's that no one has moved yet. When the window is open and the only question is whether someone will walk through it.
 
 **The collapse:** mistaking cost for effectiveness. Burning out on the belief that individual sacrifice is systemic change. Martyrdom: spending yourself completely in the wrong domain, on the wrong problem, at the wrong time, and calling it commitment. The diagnostic: did your action change the conditions, or did it change how you felt about the conditions?
 
@@ -171,7 +171,7 @@ The person you are working with has the same seven, and theirs settle a differen
 | Direct Action | **Protector** — your body between them and whatever is coming. **Fixer/Healer** — the repair they chose, finished |
 | Raise Awareness | **Skeptic** — the doubt spoken out loud before anybody spends. **Emotional Body** — witness, which is a domain doing a daemon's job exactly |
 
-Seven daemons across four domains makes twenty-eight cells, and twenty-eight cells is homework rather than a grammar. Three worked pairs carry the method:
+Seven daemons across four domains makes twenty-eight cells: homework rather than a grammar. Three worked pairs carry the method:
 
 **Protector × Gather Resources.** Rent, a working lock, a place to sleep that nobody can take back. A Protector never trusted sincerity and never will; it trusts a threat that got smaller. Material safety is the only argument in the language it speaks.
 
@@ -187,7 +187,7 @@ These pairs are starting defaults, exactly as the affinities above are. Any doma
 
 Before you draw a card: **which domain is actually alive for you right now?**
 
-Which matters most and which you have been neglecting are different questions, and neither is this one. The body knows before the mind decides. The domain you keep circling back to, the territory where the charge lives — that's the diagnostic.
+Which matters most and which you have been neglecting are different questions. Neither is this one. The body knows before the mind decides. The domain you keep circling back to, the territory where the charge lives — that's the diagnostic.
 
 The domains are situational routing tools, not identity types. You are not a "Raise Awareness person." You are a person who, right now, is working on a Raise Awareness problem. The question is always situational — *what's calling right now* — not biographical.
 

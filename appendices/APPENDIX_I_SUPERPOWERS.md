@@ -14,6 +14,6 @@ Two notes come before the list. Emotional alchemy stays off it on purpose. Every
 
 **Connector** (the Diplomat, Chapter 7): connection that has survived being told the truth. Contact happens in the first hour. What remains after the close is the part that was ever yours.
 
-**Escape Artist and Coach** (the Sage, Chapter 8), two halves of one superpower. The Escape Artist quits a game whole: puts down a fight, a role, an identity you once leaned on, without needing the exit to be a verdict on the game or on yourself. The Coach is what the exit makes available. A coach who cannot leave the game is recruiting, whatever they call it, and everything they offer arrives with their own stake attached. The escape comes first for that reason.
+**Escape Artist and Coach** (the Sage, Chapter 8), two halves of one superpower. The Escape Artist quits a game whole: puts down a fight, a role, an identity you once leaned on, without needing the exit to be a verdict on the game or on yourself. The Coach is what the exit makes available. A coach who cannot leave the game is recruiting, whatever they call it, so everything they offer arrives with their own stake attached. The escape comes first for that reason.
 
 Which one is yours stays open here. Chapter 1 says you will only spot it in motion. The character sheet in Appendix H leaves the line blank until you do.

@@ -56,7 +56,7 @@ These scenarios teach you to feel the difference between a move that keeps the f
 You're in a difficult conversation. Someone says something that you hear as criticism, and you feel anger rising.
 
 **Wake (2 seconds):** You feel the anger. Your jaw tightens.
-**Open (1 second):** You let the heat be all the way there instead of clamping it — the flush of it, and the sting of being questioned in front of people.
+**Open (1 second):** You let the heat be all the way there instead of clamping it — the flush of it and the sting of being questioned in front of people.
 **Clean (3 seconds):** You ask the anger: What boundary is being violated? You sense: My competence just got questioned publicly.
 **Grow (3 seconds):** You let your system know: I'm good at what I do. I took that question as an attack, but I know my own capacity.
 **Show (2 seconds):** You respond from that clarity: "I hear the question. Here's actually what happened..."

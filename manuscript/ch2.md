@@ -26,7 +26,7 @@ The failure is structural. It starts with a map that covers half the ground:
 
 **People keep trying to fix the village without knowing what they carry into it.**
 
-The village is every place with an audience: the workplace, the coalition, the family table, the group chat, anywhere other people can see what you did and revise what they think of you. Harm happens in the village, and repair has to happen there, so allyship put all of its tools there.
+The village is every place with an audience: the workplace, the coalition, the family table, the group chat, anywhere other people can see what you did and revise what they think of you. Because harm happens in the village and repair has to happen there, allyship put all of its tools there.
 
 So the practice runs one direction. See a problem, respond. Post, protest, speak up, show up. Three months later the problem sits where it sat, or has grown, or has become something the response cannot reach. The person who responded has nothing left.
 
@@ -34,7 +34,7 @@ Nobody equipped the other half. No curriculum covers the reflex that fires befor
 
 I spent years refusing a capacity I already had.
 
-I was trained in shamanism. I did not want to learn it. I had no affinity for the practices it draws on, and it did not feel like mine to pick up. People whose judgment I trusted had advised me never to trust the exact kind of spooky white lady now teaching me. I stayed because her chops were impeccable.
+I was trained in shamanism. I did not want to learn it. I had no affinity for the practices it draws on, nor did it feel like mine to pick up. People whose judgment I trusted had advised me never to trust the exact kind of spooky white lady now teaching me. I stayed because her chops were impeccable.
 
 She taught me to read a body. Mine first, then the bodies of everyone else. Most of what we were calling shamanism was presence, and we read the research next to the practice: the same moves keep surfacing in mainstream psychology under other names, because they work on a nervous system. Stephen Porges had already mapped why.
 
@@ -74,7 +74,7 @@ You bring a body to every one of those actions. Sometimes that body runs on thre
 
 Coaches and workshops told you what to do. Very few of them told you how to be the kind of person who can do it sustainably. Who can show up in the hardest moments without freezing. Who can hold complexity without collapsing. Who can take feedback without disappearing. Who can stay in the conversation when it gets hard.
 
-The old allyship produces moments of brilliance and long stretches of exhaustion. It produces people who care enormously and accomplish less than they could because they keep hitting the same wall. The wall that's not in the world, it's in them.
+The old allyship produces moments of brilliance and long stretches of exhaustion. It produces people who care enormously yet accomplish less than they could because they keep hitting the same wall. The wall that's not in the world, it's in them.
 
 Most people who do this work long enough hit a moment when the map turns out to be wrong, not about the destination, about where they had to start. The walking went in the wrong direction. No one had mentioned a different starting point. By the time that registers, something has usually already been spent: energy, time, sometimes a relationship, sometimes the belief that you could be the kind of ally you wanted to be.
 
@@ -84,13 +84,13 @@ That sadness tells you what mattered.
 
 Everybody who hits that wall gets the same choice: turn back, or go through.
 
-Most people turn back. Of the ones who don't, most push through instead of going through: they override the sensation, run on fumes, and eventually the body stops cooperating. Or they do the inner work in private and never find the way to carry it back to where it's needed. That is the failure mode you are here to get out of.
+Most people turn back. Of the ones who don't, most push through instead of going through: they override the sensation and run on fumes until the body stops cooperating. Or they do the inner work in private and never find the way to carry it back to where it's needed. That is the failure mode you are here to get out of.
 
 ### What's Different Now
 
 Everyone is on edge, so a hard conversation could be around any corner. Vigilance that once made sense now runs as background noise.
 
-The conversations come with more charge. Coalitions that held through the last crisis are fraying at edges that shouldn't be weak. The feedback, when it comes, comes fast, doesn't wait for you to be ready, doesn't come with enough context to be understood. The language keeps shifting, not because people move the goalposts but because the situation actually moves, and the words you practiced last year don't cover the new terrain. It can start to feel like falling behind, with no clear sense of what falling behind even means.
+The conversations come with more charge. Coalitions that held through the last crisis are fraying at edges that shouldn't be weak. The feedback, when it comes, comes fast, doesn't wait for you to be ready, doesn't come with enough context to be understood. The language keeps shifting, not because people move the goalposts but because the situation actually moves, so the words you practiced last year don't cover the new terrain. It can start to feel like falling behind, with no clear sense of what falling behind even means.
 
 The inner work, the part most trainings skip, keeps showing up as the chokepoint.
 
@@ -127,7 +127,7 @@ Most people treat these moments as isolated incidents. They are connected rounds
 If you don't name the game, you mistake your reaction for your identity.
 If you do name the game, your reaction becomes information.
 
-That's the pivot I need from you. Nobody here claims life is tidy or fair. Pressure repeats, so your moves repeat, and the moves you repeat build your character, the culture around you, and the consequences everybody lives with.
+That's the pivot I need from you. Nobody here claims life is tidy or fair. Pressure repeats, so your moves repeat. Repeated moves build your character, the culture around you, and the consequences everybody lives with.
 
 The Forest is where you learn to interrupt automatic play. You don't need to master the whole game today. You need to become a conscious player in the next move.
 
@@ -203,13 +203,13 @@ I had learned, for reasons that started early and went deep, to keep my feelings
 
 The rock in my shoe was the tip of something that went down a long way.
 
-My friends called to see if I was okay. They were not okay (disturbed, shaken, holding something they didn't know how to hold), and they handed it to me as concern. I was the only Black person most of them knew. My well-being had become a stand-in for all of Black America's well-being. Meant to support me, they were really asking me to hold their unprocessed feelings about a Black man's murder.
+My friends called to see if I was okay. They were not okay (disturbed, shaken, holding something they didn't know how to hold), so they handed it to me as concern. I was the only Black person most of them knew. My well-being had become a stand-in for all of Black America's well-being. Meant to support me, they were really asking me to hold their unprocessed feelings about a Black man's murder.
 
-I was not okay, and not for the reasons they assumed.
+I was not okay, though not for the reasons they assumed.
 
 The shamanic training I'd been doing said: everything can be used. Nothing is waste. The anger that shows up is signal. It is starting material. The Shaman's job is to find what the feeling wants to build, in place of managing it into something acceptable.
 
-So I built something. What the anger produced first was not the book. The first version of Mastering the Game of Allyship came after it, written from that anger and not despite it, because my friends didn't need someone to absorb their feelings. They needed tools. I had spent years building tools that could do exactly this, and no one had thought to aim them at allyship yet.
+So I built something. What the anger produced first was not the book. The first version of Mastering the Game of Allyship came after it, written from that anger and not despite it, because my friends didn't need someone to absorb their feelings. They needed tools. I had spent years building tools that could do exactly this, but no one had thought to aim them at allyship yet.
 
 The book is the alchemy. It came from a rock in my shoe. The framework came after. The research came after that.
 
@@ -284,17 +284,17 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 
 **The Controller**
 **Job:** If the Protector decides whether you live or die, the Controller decides *how* you live. It sets the standard for what's good and what's bad.
-**As an ally:** it maintains your conceptual sense of integrity, keeping your actions in alignment with your values. *In play:* you said you'd show up for someone, and when it gets inconvenient, the Controller is what holds you to your word.
+**As an ally:** it maintains your conceptual sense of integrity, keeping your actions in alignment with your values. *In play:* you said you'd show up for someone. When it gets inconvenient, the Controller is what holds you to your word.
 **As a demon:** it's rigid, controlling, and judgmental. It believes everyone should operate the way it believes the world should operate. *In play:* someone you're supporting gets the result their own way. You catch yourself docking points for how they did it instead of registering that they did it at all.
 
 **The Skeptic**
 **Job:** To doubt, so you don't get fooled.
-**As an ally:** it asks the hard question that makes a plan survive contact with reality. *In play:* a campaign is about to launch on a shaky assumption, and the Skeptic is what makes you pressure-test it before real people are counting on it.
+**As an ally:** it asks the hard question that makes a plan survive contact with reality. *In play:* when a campaign is about to launch on a shaky assumption, the Skeptic is what makes you pressure-test it before real people are counting on it.
 **As a demon:** it turns doubt into a barrier, making people prove they're worth believing before it will act. *In play:* a coworker tells you what they went through, and you find yourself needing more evidence before you'll take it seriously. The moment to help passes while you're still vetting it.
 
 **The Fixer/Healer**
-**Job:** To fix, in both senses of the word: to repair what's broken, and to hold something in place. It mends what's damaged, and it keeps what's settled from moving.
-**As an ally:** it repairs the circumstance and leaves the other person's healing in their own hands, and it holds steady what truly should stay put. *In play:* you change something about the situation so the other person can solve it themselves, rather than solving it for them.
+**Job:** To fix, in both senses of the word: to repair what's broken, and to hold something in place. It mends what's damaged and keeps what's settled from moving.
+**As an ally:** it repairs the circumstance, leaving the other person's healing in their own hands, and holds steady what truly should stay put. *In play:* you change something about the situation so the other person can solve it themselves, rather than solving it for them.
 **As a demon:** it takes over, fixing people who never asked to be fixed; or it holds in place what ought to change, freezing a bad situation because moving it feels riskier than the harm it's doing. *In play:* a friend shares something hard and you're already three solutions deep. They walk away having lost their own say in it.
 
 **The Emotional Body**
@@ -305,7 +305,7 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 
 **The Victim**
 **Job:** To win sympathy through stories. Telling what happened is how it gets another person to feel it with you.
-**As an ally:** it lets you feel with someone and resonate with what they're carrying, without collapsing into their story. *In play:* someone tells you something hard and it reaches you without taking you over. You can still see them, and you stay steady enough to be useful.
+**As an ally:** it lets you feel with someone and resonate with what they're carrying, without collapsing into their story. *In play:* someone tells you something hard. It reaches you without taking you over. You can still see them, and you stay steady enough to be useful.
 **As a demon:** it keeps people in the drama triangle. In the rush to resonate with someone's pain, it allies with their victimhood and smallness instead of their well-being, meeting the wound so completely that it confirms them in it and keeps them in the role rather than helping them move through it. *In play:* someone shares how they were wronged, and you resonate so hard with the injury that they leave more settled into being a victim of it, no more able to act than before.
 
 **The Damaged Self**
@@ -321,15 +321,15 @@ The instant something reads as a threat (a shift in tone, a move for power), the
 
 The trouble: a hull built to survive cannot always tell which century it is in. To the Protector, losing your place in the group registers the same as getting left to die, because for most of human history those were one event. So it runs your social life on survival settings, meeting a hard conversation or a public challenge with machinery built for a predator. That is why it gets so tired: it has been holding the whole ship rigid against threats that were never going to sink you.
 
-The Protector does the job cheaply by bracing everywhere. A hull that braces for a predator in every meeting never misses a threat, and never has to work out which threat is here, which is the reason the Protector prefers that setting, and the reason you end up walking on eggshells with everyone, including the people who have never once been a threat. Vigilance costs more because it aims: this tone, this move for power, this person, now. A Protector on survival settings has stopped looking, and blanket bracing feels identical from the inside to paying attention.
+The Protector does the job cheaply by bracing everywhere. A hull that braces for a predator in every meeting never misses a threat, and never has to work out which threat is here, which is the reason the Protector prefers that setting, and the reason you end up walking on eggshells with everyone, including the people who have never once been a threat. Vigilance costs more because it aims: this tone, this move for power, this person, now. A Protector on survival settings has stopped looking, yet from the inside blanket bracing feels identical to paying attention.
 
 When the Protector holds the joystick, you walk into a conversation already armored, braced against something that has not happened. The person across from you meets the hull before they meet you. Control replaces contact. From inside, that feels like safety.
 
-This daemon, of all seven, stands at the threshold of a book about allyship for a reason. You can hardly protect anyone else while your own hull is breached. When you are frightened, depleted, or under real threat, the Protector spends everything you have on you, and nothing remains to carry into someone else's fight. The body knows one shortcut, the one that looks like love: you pull the other person inside your own hull, so that protecting them and protecting yourself become a single act. A mother does this with a child. It also takes the wrong shape for allyship, because it only works by making the other person part of you. The person you are allying with is not you. They are their own ship. To stand with them as someone separate, you have to be resourced enough that your Protector has not already spent your last reserves keeping you afloat.
+This daemon, of all seven, stands at the threshold of a book about allyship for a reason. You can hardly protect anyone else while your own hull is breached. When you are frightened, depleted, or under real threat, the Protector spends everything you have on you, leaving nothing to carry into someone else's fight. The body knows one shortcut, the one that looks like love: you pull the other person inside your own hull, so that protecting them and protecting yourself become a single act. A mother does this with a child. It also takes the wrong shape for allyship, because it only works by making the other person part of you. The person you are allying with is not you. They are their own ship. To stand with them as someone separate, you have to be resourced enough that your Protector has not already spent your last reserves keeping you afloat.
 
 When the hull cannot keep a blow out, it does what a hull does last: it takes the damage itself, so that what it carries survives. That absorbed weight is the Damaged Self, a daemon you will meet nearer the center.
 
-You do not fight the Protector or shove past it. You thank it, and you help it tell a real threat from a social one. *Thank you for keeping me alive. This one is not life or death. Show me the one real danger here, if there is any, and let me set a single boundary instead of bracing my whole body.* Do that, and the Protector goes back to its real job (protecting you when you actually need it) and stops running every hard conversation as though your life were on the line. Chapter 3 gives that exchange a name and a form.
+You do not fight the Protector or shove past it. You thank it, and you help it tell a real threat from a social one. *Thank you for keeping me alive. This one is not life or death. Show me the one real danger here, if there is any, and let me set a single boundary instead of bracing my whole body.* Once you do that, the Protector goes back to its real job (protecting you when you actually need it) and stops running every hard conversation as though your life were on the line. Chapter 3 gives that exchange a name and a form.
 
 The difference shows up in a single moment: say someone challenges you in a meeting. On survival settings, the Protector treats the challenge as an attack: you armor up, over-explain to defend your position, and wait for everyone to prove the ground safe before you will say anything true. Doing its real job, it lets you name one line, "I'm open to challenge; I'm not available for personal attacks," and stay in the conversation. The same daemon at the same speed, protecting you when a real threat arrives and standing easy when none does.
 
@@ -339,9 +339,9 @@ The difference shows up in a single moment: say someone challenges you in a meet
 
 You just saw the Protector grab the joystick and meet a hard conversation with machinery built for a predator. The Protector only comes first; any of the seven can end up holding the joystick. When one of them does, it plays the only way it knows how: not to lose. It defends, it performs, it manages appearances, and the person on the other side of your help can feel it. The missing piece is you on the joystick, while a part of you plays the game on its own.
 
-The whole of this book is one move, made over and over: getting you back on the joystick. You are the player at the center of the Forest. Reaching that center and taking the joystick are one motion. Fight your way back to yourself, and your hands close on the joystick in the same instant.
+The whole of this book is one move, made over and over: getting you back on the joystick. You are the player at the center of the Forest. Reaching that center and taking the joystick are one motion. The instant you fight your way back to yourself, your hands close on the joystick.
 
-When you're the one holding it, the gang becomes a party. Same seven daemons, same seven jobs, pointed a different direction. The Skeptic still doubts, now to pressure-test a plan so it holds up. The Controller still sets the standard, and the standard becomes "how do I grow" in place of "how do I avoid getting caught." The Victim still tells the story, now to invite someone in. The parts that were running you become the party that plays alongside you.
+When you're the one holding it, the gang becomes a party. Same seven daemons, same seven jobs, pointed a different direction. The Skeptic still doubts, now to pressure-test a plan so it holds up. The Controller still sets the standard, now "how do I grow" in place of "how do I avoid getting caught." The Victim still tells the story, now to invite someone in. The parts that were running you become the party that plays alongside you.
 
 That is the game itself, not the tutorial for it. It's a skill with a difficulty curve, one you can visibly get better at: taking the joystick more often, faster, when the stakes are higher. You have been playing this game for years. From here, you get to play it on purpose.
 
@@ -360,7 +360,7 @@ The wound does not become your identity. It becomes signal, then skill, then con
 
 A superpower is not a Face. No chapter owns one. Each one ahead trains a single superpower, the way a school teaches one class: somewhere to stand while you practice it. Out in the village any of the six runs at any altitude, in anybody's hands.
 
-Before Chapter 3 teaches full emotional alchemy, carry this much: the charge you feel has channels (fear, anger, sadness, joy, neutrality), and each one is information, not noise. Chapter 3 trains you to read and move each one. For now it's enough to know they're distinct, and that none of them is the enemy.
+Before Chapter 3 teaches full emotional alchemy, carry this much: the charge you feel has channels (fear, anger, sadness, joy, neutrality), each one information, not noise. Chapter 3 trains you to read and move each one. For now it's enough to know they're distinct, and that none of them is the enemy.
 
 A daemon you befriend joins your party. A daemon left running on its own stays a saboteur.
 
@@ -372,7 +372,7 @@ A daemon you befriend joins your party. A daemon left running on its own stays a
 
 Here is the walk itself. Watch what happens to the joystick.
 
-Picture a real moment from your last month. It could be a hard conversation, a call you delayed, or a conflict you replayed after it ended. Drop back into it, and watch the daemons grab the joystick, one after another.
+Picture a real moment from your last month. It could be a hard conversation, a call you delayed, or a conflict you replayed after it ended. Drop back into it, then watch the daemons grab the joystick, one after another.
 
 Your body tightens before anything real has been said. The Protector has the joystick: *not safe.*
 
@@ -388,7 +388,7 @@ An old wound answers for you. The Victim takes it: *you don't have any power her
 
 You fold into a verdict about yourself. The Damaged Self takes it: *this is just how I am under pressure.*
 
-Seven parts, each one snatching the joystick from the last, and not one of them is you.
+Seven parts, each one snatching the joystick from the last, yet not one of them is you.
 
 Underneath all of it, at the center, the youngest part of you still waits: the Vulnerable Child, the player who should have been holding it the whole time. *Please don't leave me here again.*
 
@@ -417,7 +417,7 @@ Say you have offered to help a coworker named Imani with a real problem: a proje
 
 Imani has the same seven daemons inside her, living in her Forest instead of yours, each one posted where something got through before. Between them they hold one job: keep Imani safe from people who would harm her. Some of the people who have harmed her arrived offering help.
 
-You cannot deliver anything to a person until you have their trust. The trust is hers, given by the whole of her. Her parts are what administer it, handing it out and holding it back a piece at a time. Imani can want your help and her Protector can still hold the door. Every skilled helper you have ever met already knows this.
+You cannot deliver anything to a person until you have their trust. The trust is hers, given by the whole of her. Her parts are what administer it, handing it out and holding it back a piece at a time. Imani can want your help while her Protector still holds the door. Every skilled helper you have ever met already knows this.
 
 So take the walk again, from outside.
 
@@ -429,13 +429,13 @@ You put the plan in front of her. She finds the three places it breaks. **The Sk
 
 She takes the plan and starts repairing it, or starts arranging everything else around it so nothing has to move. **The Fixer/Healer** takes it: *I will mend this myself, and hold the rest still.*
 
-The offer meets something older than the offer, and what comes back is out of scale with the moment: heat, or flatness, or tears she is angry about. **The Emotional Body** has it now: *this had to go somewhere.*
+The offer meets something older than the offer, so what comes back is out of scale with the moment: heat, or flatness, or tears she is angry about. **The Emotional Body** has it now: *this had to go somewhere.*
 
-She tells you the whole story again, from the beginning, and the plan waits. **The Victim** takes it: *feel this with me first.*
+She tells you the whole story again, from the beginning, while the plan waits. **The Victim** takes it: *feel this with me first.*
 
 She says she is fine, in a way that ends the conversation. **The Damaged Self** takes it: *I have already absorbed this. Leave it where it is.*
 
-Seven parts, each one taking the joystick from the last, and not one of them is Imani. At the center, the same as in your Forest, a player is waiting for somebody to show up and play.
+Seven parts, each one taking the joystick from the last, yet not one of them is Imani. At the center, the same as in your Forest, a player is waiting for somebody to show up and play.
 
 Each of those has a job you can do, once you can tell which one you are talking to. The Controller wants a standard met, so you either meet hers or you help her move it. The Skeptic wants the danger named out loud before anything gets spent. The Emotional Body wants a feeling to arrive somewhere and finish, and until it does she will not look at any plan you bring. A feeling is telling you what the help has to connect to.
 
@@ -447,7 +447,7 @@ That is projection, the trickiest move in shadow work: the parts you have not be
 
 Six of Imani's seven stand behind the seventh. Her Protector works the door the way yours does. You get past it or you do not. How far it lets you in decides which of the other six you ever get near. That distance is your **clearance**.
 
-A Protector holds one shape, the shape of whatever got through before, set by a history you were not there for. It does not think about you; it checks you against the shape. Move like the one who cost Imani and it fires, regardless of your intention, stated or otherwise.
+A Protector holds one shape, the shape of whatever got through before, set by a history you were not there for. It does not think about you; it checks you against the shape. It fires the moment you move like the one who cost Imani, regardless of your intention, stated or otherwise.
 
 Playing above your clearance is a major error. Your character has nothing to do with it; your Controller does: it believes it knows the better standard. So you arrive with a higher bar than Imani asked for, or a bar pointing somewhere she was not going. Either one is more than she can take on today. The Fixer three solutions deep makes the same error, arriving past a door that never opened.
 
@@ -457,7 +457,7 @@ You are already equipped for her door, because you have started befriending your
 
 Two Protectors meet constantly. Everybody calls that a conflict. If yours holds the joystick, hers has a braced body across the table to check against. Both do their jobs perfectly while nothing gets through in either direction. **Your own daemon decides how far into hers you ever get.**
 
-Not knowing this costs you the same way every time. You cannot see your clearance, so you default, and the default is whichever daemon wants the joystick most. The move is attempted above your clearance, Imani's Protector fires. The door closes an inch. If you take the closing as a verdict on you, you spend more of yourself and go around again with less fuel. That is what burns people out, one hard-played round at a time.
+Not knowing this costs you the same way every time. You cannot see your clearance, so you default to whichever daemon wants the joystick most. The move is attempted above your clearance, Imani's Protector fires. The door closes an inch. If you take the closing as a verdict on you, you spend more of yourself and go around again with less fuel. That is what burns people out, one hard-played round at a time.
 
 You break the cycle at the first step. Find out which door you are standing at before you move. Real help sits open at whatever clearance you already hold. A small move at a narrow door still counts. Nobody is qualifying you. A daemon stands at Imani's door with a person behind it. You have one move today.
 
@@ -567,7 +567,7 @@ The Forest is where those daemons are met and befriended. Six guides know that t
 
 Before you walk on: the work in this book unfolds in four directions: gathering resources, skillful organizing, taking direct action, and raising awareness. Appendix A holds the full map, and a way to find which direction is calling you right now.
 
-Add a row to the sheet before you go. In Chapter 1 you wrote down the myth that runs you hardest, the rule you had been playing by without ever agreeing to it. Underneath it, write the daemon that took the joystick first when you ran the five moves, and the job it has been doing for you. Those two lines are the same mechanism seen from two directions.
+Add a row to the sheet before you go. In Chapter 1 you wrote down the myth that runs you hardest, the rule you had been playing by without ever agreeing to it. Underneath it, write the daemon that took the joystick first when you ran the five moves, along with the job it has been doing for you. Those two lines are the same mechanism seen from two directions.
 
 From here you have two routes:
 

@@ -6,6 +6,6 @@ He left to integrate the two fields he knows best, roleplaying games and persona
 
 His friends come to him for a light shone into whatever they have been refusing to look at, for genre-savvy takes on the state of the world, for rad parties, and to run their roleplaying games. Chapter 1 tells you that you are a Game Master. He has been one since long before he wrote it down.
 
-He coaches one-on-one, and he speaks to companies and organizations that would like the game named out loud.
+He coaches one-on-one and speaks to companies and organizations that would like the game named out loud.
 
 masteringallyship.com
