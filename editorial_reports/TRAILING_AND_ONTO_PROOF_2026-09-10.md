@@ -10,22 +10,33 @@ reconciliation).
 
 ---
 
-## Result, measured with editorial-core v30
+## Result, measured with editorial-core v31
 
-| | before this step | after |
+Measured on clean copies of the two commits (`55edd24`, before the replay, and the commit that
+added `scored_frames` below), with core v31 installed over each and the same manifest in both.
+Every figure is a count of hits.
+
+| | before this step (`55edd24`, no ledger) | after |
 |---|---|---|
-| **trailing_and** | not measured with v30 on the proof line | **0 unresolved**, 88 accepted, 0 stale |
-| fragment | 185 | 184 |
-| telling | 212 | 198 |
-| polysyndeton | 16 | 7 |
-| slop_shapes | 40 | 40 |
-| light_verb | 52 | 51 |
+| **trailing_and** | 738 | 88: **0 unresolved**, 88 accepted, 0 stale |
+| fragment | 252 | 251: all unresolved |
+| telling | 215 | 198: all unresolved |
+| polysyndeton | 23 | 15: 7 unresolved, 8 accepted |
+| slop_shapes | 47 | 47: 40 unresolved, 7 accepted |
+| light_verb | 52 | 51: all unresolved |
 | gate · claims · round-trip · test_toolchain | pass | **pass** |
 | voice linter | 6 BLOCK · 128 WARN | 6 BLOCK · 128 WARN (appendix voice 27 → 26) |
 
-**No hit rose at any line.** Every scanner was compared line by line against this branch as it
-stood before the replay (`55edd24`), with the same instruments on both sides. All five voice
-anchors are byte-identical to the proof line.
+**Corrected 2026-09-10, after a hostile review.** The first version of this table was measured
+in a scratch copy whose manifest carried `scored_frames`, a key this branch's manifest did not
+have until the fix commit. It also mixed units: fragment (185 → 184) and telling (212 → 194)
+were counted as distinct flagged sentences, and polysyndeton and slop_shapes as unresolved hits
+with the final ledger applied. The table above re-measures the commits themselves, in hits.
+
+**No hit rose at any line.** Each scanner's hits were compared per `file:line` between the two
+clean copies, with the ledger set aside on the after side so that accepted hits count too:
+zero locations rose on any of the six. All five voice anchors are byte-identical to the proof
+line.
 
 ## Boxed records — the ruling applied
 
@@ -35,7 +46,8 @@ anchors are byte-identical to the proof line.
   (*"6. A word from the Head."* in each).
 - **They are scored.** Core v29 adds a manifest key `scored_frames:`, and MTGOA's manifest lists
   HANDBOOK. `prose_diet.py` no longer strips the boxes either, so Quill's charter is measured
-  again.
+  again. *(The key missed the first commit of this step: without it the 22 boxed notes read as
+  stale ledger entries under core. Added in the fix commit.)*
 - **Their hits are ledger notes:** 22 trailing_and notes in `editorial_exceptions.yaml`, and 35
   gate hits covered by 28 entries in `gate.py`'s `BOXED_NOTES`. Each gate entry is keyed on the
   whole boxed line, so a note cannot spread to the same words elsewhere.

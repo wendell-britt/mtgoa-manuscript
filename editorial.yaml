@@ -49,3 +49,8 @@ pass:
 # Instruments welded to this book's ontology; they do not travel to other projects.
 project_only:
   - agency_grep
+
+# Ruled by Wendell 2026-09-10: boxed records are scored; their hits are ledger notes. Read by
+# editorial-core v29+ (profile.scored_frames): lines inside a listed frame block are scanned as
+# body prose. prose_diet.py reads the boxes on its own (its BLOCK no longer strips HANDBOOK).
+scored_frames: [HANDBOOK]
