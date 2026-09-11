@@ -55,8 +55,8 @@ candidate: the off-system copula-metaphor, the *is* that walked into a mapping t
 make (Lakoff, *Metaphors We Live By*, not Strunk).
 
 **ABSOLUTE** — an asserted universal, *every time*, *always*. A separate sickness from the
-copula: a claim that has to be proven and dies on the first exception, the one Wendell named. It
-appears in **298 sentences across the book**, and the instrument surfaces every one. **Whether a given
+copula: a claim that has to be proven and dies on the first exception. It appears in **27 sentences
+across this book** (measured 2026-09-04), and the instrument surfaces every one. **Whether a given
 absolute is earned or unprovable is a reading call — not the instrument's, and not mine.** The
 pattern also catches bounded factual uses (*never once wondered* = a thing the narrator did not
 do), which it cannot mechanically separate from unearned universals. Both reach the reader as
@@ -90,8 +90,17 @@ def _load(name, path):
 fl = _load("find_line", os.path.join(HERE, "find_line.py"))
 dl = _load("draft_lines", os.path.join(HERE, "draft_lines.py"))
 profile = _load("profile", os.path.join(HERE, "profile.py"))
+exc = _load("exceptions", os.path.join(HERE, "exceptions.py"))
 
-SENT = re.compile(r"(?<=[.!?])\s+")
+# Sentence boundary. The abbreviation guard was added 2026-09-09: the bare
+# `(?<=[.!?])\s+` split on every period, so `Practitioner: J. Kuiper, first case.`
+# came apart into two fragments and `3rd ed. names the surgeon.` into one. Five
+# instruments carry this constant; they must stay identical. Each lookbehind is
+# fixed-width, which is what stdlib `re` allows.
+_ABBR = (r"(?<!\b[A-Z]\.)(?<!\bed\.)(?<!\bDr\.)(?<!\bMr\.)(?<!\bMs\.)"
+         r"(?<!\bMrs\.)(?<!\betc\.)(?<!\bvs\.)(?<!\bvol\.)(?<!\bno\.)"
+         r"(?<!\bpp\.)(?<!\bcf\.)(?<!\bi\.e\.)(?<!\be\.g\.)(?<!\bSt\.)")
+SENT = re.compile(r"(?<=[.!?])" + _ABBR + r"\s+")
 
 # The demonstrative-copula label. A backward-pointing subject, a copula, an article, a noun.
 LABEL = re.compile(r"\b(That|This|These|Those|It)\s+(is|are|was|were|'s)\s+(the|a|an)\s+\w+", re.I)
@@ -113,6 +122,7 @@ ABSOLUTE = re.compile(r"\b(every time|everytime|always|everyone|no one|nobody)\b
 # is authoritative when present; the constant is the fallback and the default it is checked
 # against. coherence.py re-measures and fails on drift from the manifest value.
 BOOK_BASELINE = profile.baseline("telling", 3.0)  # per cent of sentences carrying a LABEL
+TARGET = profile.target("telling", 0)  # max un-accepted LABEL hits; house policy is zero
 
 
 def sites(text):
@@ -133,10 +143,10 @@ def main():
     verbose = "-v" in sys.argv
     paths = dl.paths_from(sys.argv[1:])
     if paths:
-        groups = [(os.path.basename(p), dl.prose(dl.surfaces([p]))) for p in paths]
+        groups = [(os.path.basename(p), dl.paragraphs(dl.prose(dl.surfaces([p])))) for p in paths]
     else:
-        groups = [("the book", [l for l in fl.surfaces() if l["surface"] == "body"
-                                and not l["text"].lstrip().startswith(("#", "|", ">", "-", "*"))])]
+        groups = [("the book", dl.paragraphs([l for l in fl.surfaces() if l["surface"] == "body"
+                                and not dl.is_apparatus(l["text"])]))]
 
     print("telling not showing — the copula-label. LABEL is the one to drive down; see the docstring")
     print("%-24s %6s %5s %5s %7s %8s" % ("file", "LABEL", "PROP", "ABS", "sents", "label%"))
@@ -176,6 +186,17 @@ def main():
     print("")
     print("book baseline %.1f%% LABEL. Every hit is a candidate the reader tests; the instrument "
           "surfaces, it does not clear." % BOOK_BASELINE)
+
+    # Zero-target accounting. LABEL is the tier driven to zero; a hit whose sentence is in the
+    # ledger is a deliberate keep and does not count. coherence.py reads this line.
+    prim = [s for (t, s, _l) in rows if t == "LABEL"]
+    if "--keys" in sys.argv:
+        return exc.emit_keys("telling", [
+            ("%s:%d" % (os.path.basename(l["rel"]), l["line"]), s)
+            for (t, s, l) in rows if t == "LABEL"])
+    kept = [s for s in prim if exc.is_accepted("telling", s)]
+    print("EDITORIAL telling unresolved=%d accepted=%d total=%d target=%d stale=%d"
+          % (len(prim) - len(kept), len(kept), len(prim), TARGET, len(exc.stale("telling"))))
     return 1 if bad else 0
 
 

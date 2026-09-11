@@ -10,6 +10,14 @@
 
 project: "Mastering the Game of Allyship"
 
+# Which shared core this project runs, and where it lives. coherence.py's `core` check compares
+# this against the version baked into the installed instruments (core_meta.CORE_VERSION) and the
+# core's published VERSION. Raised 28 -> 32 by the instrument reconciliation (2026-09-11): the
+# fragment referee, the light_verb DL-97 fold-in, and gate/prose_diet reading their exemptions and
+# registers from this manifest.
+core_version: 32
+core_home: "../editorial-core"
+
 # What "the book" means when an instrument runs book-wide. MTGOA's real corpus is assembled
 # by build_book.SPINE (typeset order); these globs are the declared, portable statement of it.
 corpus:
@@ -19,13 +27,33 @@ corpus:
   - "front_matter/*.md"
   - "back_matter/*.md"
 
-# Measured on this book, never copied. coherence.py re-measures each and fails on drift > 0.4pt.
+# The rate each defect sat at when the book was measured. REFERENCE ONLY: the pipeline no longer
+# defends a rate. There is no drift check in core v32 — `check_zero` replaced it — so these are the
+# starting count the debt is read against, not a thing the board enforces. See targets: below.
 baselines:
   telling: 3.0        # % of sentences carrying a copula-label (LABEL tier)
-  trailing_and: 12.4  # % of sentences that are loose (LOOSE tier). Was 13.9 until 2026-09-09:
-                      # the ch2/ch3 proof-mark rework and the card cut took the book's loose
-                      # rate down 1.5 points, and coherence.py flagged the drift. Re-measured.
+  trailing_and: 12.4  # % of sentences that are loose (LOOSE tier), when last measured
   light_verb: 0.7     # % of sentences carrying a buried verb (DELEXICAL tier)
+
+# The house policy: ZERO. Every hit is a defect until it is resolved in the prose or accepted, one
+# at a time, in editorial_exceptions.yaml. coherence.py's `zero` check counts UN-accepted hits and
+# fails while any remain. This is what replaced drift-tolerance (retired with core v32's coherence).
+targets:
+  polysyndeton: 0    # bare `X and Y and Z`
+  slop_shapes: 0     # discrete AI-slop shapes -> the loop
+  gate: 0            # hard rules: banned words, sentence-initial And/But, glued em-dashes
+  telling: 0
+  trailing_and: 0
+  light_verb: 0
+  fragment: 0        # needs NLTK (see instruments/requirements.txt); every fragment class counts
+
+# Declared boards: they surface candidates for a reader and exit non-zero as a matter of course, so
+# review.py shows them as `note` and never fails on them. Anything outside this list AND outside
+# `targets:` fails the board on a non-zero exit — the strict default that stops a hard gate being
+# demoted by inference (which is what happened to `gate` on 2026-09-09).
+reporting:
+  - prose_diet
+  - antecedent
 
 # This book's voice decisions, ruled by Wendell one at a time. Regex fragments; gate.py wraps
 # each in word boundaries. Another project bans other words, or none.
@@ -97,6 +125,7 @@ light_verb_borrowed_ruled_in:
 
 # The universal prose scanners, in pass order. coherence.py checks each exists and is wired.
 pass:
+  - polysyndeton
   - gate
   - prose_diet
   - fragment
@@ -115,6 +144,10 @@ exclude:
 # Instruments welded to this book's ontology; they do not travel to other projects.
 project_only:
   - agency_grep
+
+# The authorities register coherence.py's `register` check validates. Declared here (not hardcoded
+# in coherence.py) so the check travels: a project without one leaves this out and the check skips.
+register: "specs/EDITORIAL_AUTHORITIES_2026-09-01.md"
 
 # Ruled by Wendell 2026-09-10: boxed records are scored; their hits are ledger notes. Read by
 # editorial-core v29+ (profile.scored_frames): lines inside a listed frame block are scanned as

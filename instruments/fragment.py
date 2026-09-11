@@ -70,10 +70,13 @@ are in it, and all four mangled sentences above come back clean.
 
 ## What it reports, and what it refuses to decide
 
-**LANDING** — a fragment in the last sentence of its paragraph. The rule permits
-this, so it is printed and not counted.
+**LANDING** — a fragment in the last sentence of its paragraph. It used to be
+exempted as a deliberate beat; that exemption was removed 2026-09-04 at Wendell's
+call — a fragment is a fragment wherever it sits, so LANDING is now counted like
+the rest. A fragment the author means to keep is accepted per sentence in
+`editorial_exceptions.yaml`, the same deliberate act as any other kept defect.
 
-**MID** — a fragment anywhere else. A candidate.
+**MID** — a fragment anywhere else. Counted.
 
 **NEGATIVE OPENER** — a fragment beginning `Not ...`, printed as its own class
 because it is the same defect `/no-ai-slop` bans as *negative listing* and
@@ -93,12 +96,25 @@ Headings, tables, block quotes and list items. `front_matter/copyright.md` and
 fragments by construction: *Patrice Hutton and the staff of Writers In Baltimore
 Schools.* is not a beat-placement error, it is a thank-you.
 
-## One known false positive, left in rather than hidden
+## `(Yes, already.` is a fragment, not a splitter bug
 
-`ch1:60` reports as `(Yes, already.` — the sentence splitter breaks on the open
-parenthesis and hands this instrument half a clause. The fix belongs in
-`density.sentences()` rather than here, and suppressing it locally would hide a
-splitter bug from every other instrument that shares it.
+This section used to call `ch1:60` a known false positive, the splitter handing
+this instrument half a clause. Read on 2026-09-10 it is neither: the source is
+*"(Yes, already. You just walked in and I'm handing you homework. Stay with
+me.)"*, and `Yes, already.` is a whole verbless sentence that happens to open a
+parenthetical. The split is correct and so is the hit.
+
+## v32, 2026-09-10: the one fragment counter
+
+MTGOA's gate carried a second fragment counter (from the product voice kit) that
+read *every counter reads 0* while this file read 251 on the same prose. Ruled
+2026-09-10: this file is the referee and the gate's counter retires. Its hole was
+morphological: any word over three letters ending in -s or -ed passed as a verb,
+so `this`, `days` and `words` hid real fragments (`Four words each, no
+explanation.`). This file's own false positives were fixed in the same release:
+labels in emphasis, `'s` after a pronoun, three unlearnable verbs, one phrasal
+imperative, whole-line HTML comments and project provenance lines (the last two
+in `find_line`, for every instrument). See the notes on each.
 """
 import io, os, re, sys, importlib.util
 from collections import defaultdict
@@ -121,6 +137,7 @@ def _load(name, path):
 fl = _load("find_line", os.path.join(HERE, "find_line.py"))
 dn = _load("density", os.path.join(HERE, "density.py"))
 dl = _load("draft_lines", os.path.join(HERE, "draft_lines.py"))
+exc = _load("exceptions", os.path.join(HERE, "exceptions.py"))
 
 # Fragments are the form these files are written in. A dedication is not a beat.
 EXEMPT_SURFACE = ("copyright.md", "acknowledgements.md", "dedication.md",
@@ -130,7 +147,84 @@ SKIP_LINE = ("#", "|", ">", "-", "*", "1.", "2.", "3.", "4.", "5.", "6.", "7.")
 
 # Words that carry no verb reading anywhere and would otherwise never be learned,
 # because the corpus is one book. Kept deliberately short.
-EXTRA_VERBS = set("""ought shall must lest""".split())
+#
+# `conducts` added 2026-09-09. A corpus-derived lexicon has a blind spot exactly the
+# size of the forms the book happens never to use: this one carries `conducted` and
+# `conducting` and no third-person singular, so `Box 1.1 conducts operation 5 alone,
+# away from the household.` was reported as verbless. **The tell for this class is a
+# hit with an obvious subject and an obvious verb** — when one appears, extend the
+# lexicon rather than accept it in the ledger, because a ledger entry hides the gap
+# and the next form the book has never used will be reported the same way.
+#
+# `date` and `steers` added 2026-09-10, same class, found by the trailing_and pass on MTGOA.
+# `steers` occurs once in the book; `date` lost its only verb tagging when ch1's `Date every
+# version, and…` became `If you date…`, which turned Appendix H's untouched `Date every
+# version.` into a "fragment". **A corpus lexicon moves when unrelated prose is edited** — a
+# rewrite in one file can flip a verdict in another, and a pass should diff by location to see it.
+#
+# The contractions added 2026-09-10 (v27). `word_tokenize` splits `I'm` into `I` + `'m`, and the
+# lexicon admits only `isalpha()` tokens, so `'m 're 've 'll 'd` could never be learned: every
+# sentence whose only verb is contracted read as verbless. `You're just late to the rules.` had
+# sat in MTGOA's count for weeks. `'s` stays out — it is the possessive as often as `is`.
+#
+# `grows`, `installs` and `tightens` added 2026-09-10 (v32), same class as `conducts`: the tagger
+# reads each as a plural noun at every one of its sites in MTGOA, so `Your chest tightens.`,
+# `None of them installs by repetition.` and `The tradition *grows.*` were reported verbless.
+# **Deliberately NOT a rule that admits any -s form whose stem is a verb.** That rule is exactly the
+# hole in the gate counter this instrument replaced: `Three exchanges at minimum.` is a fragment,
+# and `exchange` is a verb. Only forms that cannot be nouns are added, one at a time.
+EXTRA_VERBS = set("""ought shall must lest conducts date steers 'm 're 've 'll 'd
+grows installs tightens""".split())
+
+# `'s` AFTER A PRONOUN IS `is` or `has`, added 2026-09-10 (v32). `'s` stays out of the lexicon
+# (above), and so `That's the price.`, `It's avoidance with better vocabulary.` and `There's a
+# structure here.` all read as verbless: 17 of MTGOA's hits. After one of these words `'s` is never
+# the possessive, so the pair is a verb. `the Protector's` is untouched. A curly apostrophe
+# tokenises as `’` + `s`, and both spellings are read.
+S_CONTRACTS = set("it that there here what who he she where how".split())
+
+# A phrasal imperative whose verb the book only ever uses as a noun. `Hand over the pen.` is a
+# complete sentence; `hand` alone is not admitted, because `A steady hand.` is a fragment.
+PHRASAL = {("hand", "over"), ("hand", "off"), ("hand", "back"), ("hand", "on")}
+
+# A LABEL IS NOT A SENTENCE, added 2026-09-10 (v32). A run wholly wrapped in emphasis with no
+# sentence punctuation at its end is typography doing a heading's job: `**Alchemy 1 — Anxiety →
+# Curiosity**`, `**The method:**`, `*Igniting Joy*` on the also-by page, the glossary's chapter
+# pointers `*Ch 3 §4*`, the polarity diagram `**POLE A** ←——●——→ **POLE B**`. 67 of MTGOA's hits.
+# Read as a whole paragraph (`**1. The Cartographer**` is split at `1.` otherwise) and as a single
+# sentence (a pointer closing a glossary entry). An emphasized run that ENDS a sentence with `.`,
+# `!` or `?` is still read, so `*Admissions.` in a boxed record is not a label, and an unemphasized
+# lead-in such as `The Skeptic's five:` is a sentence with no verb and stays counted.
+#
+# **Opening and closing on emphasis is not being wrapped in it.** The first version tested only
+# the first and last characters, and a glossary entry opens on a bold term and closes on an italic
+# pointer: `**Channels, the five** — Metal/fear, … Earth/neutrality. *Ch 3 §4*` read as one label,
+# and three real fragments inside entries vanished from the count. Caught by reading the sites the
+# change removed. A label has no sentence boundary inside it; `1.` in `**1. The Cartographer**` is
+# a list number, not a boundary.
+EMPH = "*_"
+BOUNDARY = re.compile(r"(?<!\d)[.!?][*_)\]”’\"']*\s")
+
+
+def is_label(s):
+    """A run wholly wrapped in emphasis: no sentence boundary inside, none at its end."""
+    s = s.strip()
+    if len(s) < 3 or s[0] not in EMPH or s[-1] not in EMPH:
+        return False
+    core = s.strip(EMPH + " ").rstrip("*_)]”’\"' ")
+    return bool(core) and core[-1] not in ".!?" and not BOUNDARY.search(core)
+
+
+def has_verb(toks, lex):
+    """The lexicon test, plus the two token-pair readings the lexicon cannot hold."""
+    if any(t in lex for t in toks):
+        return True
+    for a, b, c in zip(toks, toks[1:] + [""], toks[2:] + ["", ""]):
+        if a in S_CONTRACTS and (b in ("'s", "’s") or (b in ("’", "'") and c == "s")):
+            return True
+        if (a, b) in PHRASAL:
+            return True
+    return False
 
 # CLOSED CLASS — never admitted to the lexicon whatever the tagger says.
 #
@@ -238,16 +332,18 @@ def sites(text, lex, pos_tag, word_tokenize, min_words=2, deep=False):
     glance and a false negative ships. `--deep` opts the book in deliberately.
     """
     out = []
+    if is_label(text):
+        return out                         # a heading in emphasis, not a paragraph (v32)
     sents = dn.sentences(text)
     for i, s in enumerate(sents):
         st = s.strip()
-        if len(st.split()) < min_words:
+        if len(st.split()) < min_words or is_label(st):
             continue
         words = word_tokenize(st)
         toks = [w.lower() for w in words]
         # Tier 1, verbless by corpus lexicon. Tier 2, a head noun with no predicate.
         # Either one makes it a candidate; neither alone was enough.
-        if any(t in lex for t in toks) and not (deep and headless(pos_tag(words))):
+        if has_verb(toks, lex) and not (deep and headless(pos_tag(words))):
             continue
         kind = "NEG" if NEG_OPEN.match(st) else ("LANDING" if i == len(sents) - 1 else "MID")
         out.append((kind, len(st.split()), st))
@@ -292,9 +388,15 @@ def main():
     pos_tag, word_tokenize = dn.tagger()
     if pos_tag is None:
         print("Tagger unavailable — no report.")
-        return 0
+        # A machine line coherence.py reads: this is a missing dependency, not zero fragments.
+        print("EDITORIAL fragment status=unavailable reason=nltk")
+        return 1
 
-    lines = [l for l in fl.surfaces() if not l["text"].lstrip().startswith(SKIP_LINE)]
+    # Reflow hard-wrapped lines into paragraphs first (see draft_lines.paragraphs). A fragment
+    # detector that reads physical lines flags every wrapped line as a fragment — the wrap is not
+    # the sentence ending. Reflowing means a "sentence" is a real sentence, both for the verb
+    # lexicon and for the site scan below.
+    lines = dl.paragraphs([l for l in fl.surfaces() if not dl.is_apparatus(l["text"])])
     lex = verb_lexicon(lines, pos_tag, word_tokenize)
 
     # DRAFT MODE. The lexicon above is built from the corpus whatever the mode, because
@@ -315,12 +417,13 @@ def main():
 
     L = ["# Fragments — the board", "",
          "Generated by `instruments/fragment.py`. Body prose only.", "",
-         "`REVISION_INSTRUMENT.md` Part 1: **fragments carry beats, never claims, and",
-         "only in landing position.** The fifth always-on constraint, and the last one",
-         "to get an instrument.", "",
-         "**LANDING is legal** and is printed for completeness rather than counted.",
-         "**MID** is a candidate. **NEG** is a fragment opening on a negation, which is",
-         "`/no-ai-slop`'s *negative listing* found from the other direction.", "",
+         "`REVISION_INSTRUMENT.md` Part 1: **a fragment is a sentence with no verb.**",
+         "Every class is counted — MID, NEG and LANDING alike. The landing-position",
+         "exemption was removed 2026-09-04 at Wendell's call: a fragment in the last",
+         "sentence of a paragraph is still a fragment. A fragment the author means to",
+         "keep is accepted per sentence in `editorial_exceptions.yaml`, not by position.",
+         "**NEG** opens on a negation — `/no-ai-slop`'s *negative listing* from the",
+         "other direction.", "",
          "Verb lexicon: **%d words**, derived from the corpus because the tagger cannot" % len(lex),
          "be trusted on any single sentence. See the module docstring.", ""]
 
@@ -328,14 +431,19 @@ def main():
     L.append("")
     L.append("| class | sites | rule |")
     L.append("|---|---|---|")
-    for k, rule in (("MID", "candidate — a fragment outside landing position"),
-                    ("NEG", "candidate — negative listing"),
-                    ("LANDING", "legal — printed, not counted")):
+    for k, rule in (("MID", "counted — a fragment outside landing position"),
+                    ("NEG", "counted — negative listing"),
+                    ("LANDING", "counted — a fragment in landing position")):
         L.append("| **%s** | %d | %s |" % (k, len(found[k]), rule))
     L.append("")
-    counted = len(found["MID"]) + len(found["NEG"])
-    L.append("**%d candidate(s)** across %d component(s)." % (
-        counted, len({l["rel"] for k in ("MID", "NEG") for l, _, _ in found[k]})))
+    allfrags = [(l, n, st) for k in ("MID", "NEG", "LANDING") for l, n, st in found[k]]
+    if "--keys" in sys.argv:
+        return exc.emit_keys("fragment", [
+            ("%s:%d" % (os.path.basename(l["rel"]), l["line"]), st) for l, n, st in allfrags])
+    accepted = [1 for _l, _n, st in allfrags if exc.is_accepted("fragment", st)]
+    counted = len(allfrags) - len(accepted)
+    L.append("**%d fragment(s)**, %d accepted in the ledger, **%d unresolved** across %d component(s)."
+             % (len(allfrags), len(accepted), counted, len({l["rel"] for l, _, _ in allfrags})))
     L.append("")
 
     L.append("## Per component")
@@ -344,13 +452,13 @@ def main():
     L.append("|---|---|---|---|")
     for rel in sorted(per):
         r = per[rel]
-        if not (r["MID"] or r["NEG"]):
+        if not (r["MID"] or r["NEG"] or r["LANDING"]):
             continue
         L.append("| `%s` | %d | %d | %d |" % (rel, r["MID"], r["NEG"], r["LANDING"]))
     L.append("")
 
     for k, title in (("NEG", "Negative openers"), ("MID", "Outside landing position"),
-                     ("LANDING", "Landing position — legal")):
+                     ("LANDING", "Landing position")):
         L.append("## %s — %d" % (title, len(found[k])))
         L.append("")
         rows = sorted(found[k], key=lambda r: -r[1])
@@ -368,7 +476,14 @@ def main():
         print("wrote %s" % out)
     else:
         print(text)
-    return 0
+
+    # Zero-target accounting, same shape as telling/trailing_and/light_verb: every fragment counts
+    # unless the author has accepted that exact sentence in editorial_exceptions.yaml. The landing
+    # position no longer exempts anything. coherence.py can read this line once it can run nltk.
+    total, acc = len(allfrags), len(accepted)
+    print("EDITORIAL fragment unresolved=%d accepted=%d total=%d target=0 stale=%d"
+          % (total - acc, acc, total, len(exc.stale("fragment"))))
+    return 1 if (total - acc) > 0 else 0
 
 
 if __name__ == "__main__":

@@ -704,7 +704,10 @@ claims:
       - {file: instruments/light_verb.py, phrase: "TRADEV = ("}
       - {file: instruments/light_verb.py, phrase: "BORROWED = re.compile"}
       - {file: instruments/light_verb.py, phrase: "sents = [s for s in sents if len(s.split()) > 1]"}
-      - {file: instruments/light_verb.py, phrase: "feelings?|charge|readings?|alchemy"}
+      # The abstraction vocabulary moved from light_verb.py to the manifest (core v32). The fact
+      # is unchanged; it now has two carriers — the mechanism that reads them and the data itself.
+      - {file: instruments/light_verb.py, phrase: "profile.abstractions([])"}
+      - {file: editorial.yaml, phrase: '- "feelings?"'}
       - {file: instruments/markpatterns.py, phrase: "** REGRESSION: this read 4 of 4 on 2026-09-10"}
 
   - id: DL-98

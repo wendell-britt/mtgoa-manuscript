@@ -313,6 +313,11 @@ def book():
         # 7g, added 2026-09-01. Book-wide this prints the baseline the draft path scores
         # against -- 13.9% of sentences -- rather than gating anything.
         ("7g trailing and", ["instruments/trailing_and.py"], "book baseline"),
+        # 7m, wired 2026-09-11 (step 3). polysyndeton was `reporting` until 2026-09-09, when
+        # Wendell promoted it to a zero target. The zero-target manifest lists it in `targets:`
+        # and `pass:`, so coherence's pass-wire and orphan checks require review.py to run it;
+        # book-wide it prints the standing count, and the zero check enforces it.
+        ("7m polysyndeton", ["instruments/polysyndeton.py"], None),
         # 7h, added 2026-09-02. Book-wide this prints the copula-label baseline the draft path
         # scores against; it does not gate.
         ("7h telling", ["instruments/telling.py"], "book baseline"),

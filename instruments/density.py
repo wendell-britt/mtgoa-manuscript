@@ -84,7 +84,12 @@ ANCHOR_TEXT = [
 def _resolve_anchors():
     out = []
     for rel, needle in ANCHOR_TEXT:
-        lines = io.open(os.path.join(ROOT, rel), encoding="utf-8").read().split("\n")
+        path = os.path.join(ROOT, rel)
+        if not os.path.exists(path):
+            continue  # ANCHOR_TEXT is MTGOA's own voice passages; in another project the files
+                      # are absent, so anchors resolve empty and density imports without them.
+                      # fragment.py only needs density.tagger(), which does not use ANCHOR.
+        lines = io.open(path, encoding="utf-8").read().split("\n")
         hits = [i + 1 for i, l in enumerate(lines) if needle in l]
         if len(hits) != 1:
             raise SystemExit(
@@ -111,7 +116,15 @@ def _load(name, path):
 
 fl = _load("find_line", os.path.join(HERE, "find_line.py"))
 
-SENT = re.compile(r"(?<=[.!?])\s+")
+# Sentence boundary. The abbreviation guard was added 2026-09-09: the bare
+# `(?<=[.!?])\s+` split on every period, so `Practitioner: J. Kuiper, first case.`
+# came apart into two fragments and `3rd ed. names the surgeon.` into one. Five
+# instruments carry this constant; they must stay identical. Each lookbehind is
+# fixed-width, which is what stdlib `re` allows.
+_ABBR = (r"(?<!\b[A-Z]\.)(?<!\bed\.)(?<!\bDr\.)(?<!\bMr\.)(?<!\bMs\.)"
+         r"(?<!\bMrs\.)(?<!\betc\.)(?<!\bvs\.)(?<!\bvol\.)(?<!\bno\.)"
+         r"(?<!\bpp\.)(?<!\bcf\.)(?<!\bi\.e\.)(?<!\be\.g\.)(?<!\bSt\.)")
+SENT = re.compile(r"(?<=[.!?])" + _ABBR + r"\s+")
 WORD = re.compile(r"[A-Za-z][A-Za-z'’-]*")
 
 # Brown et al.'s CPIDR rule: these tags are the propositions. Determiners, nouns
