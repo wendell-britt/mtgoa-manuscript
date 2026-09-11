@@ -35,6 +35,66 @@ banned:
   - "genuinely"
   - "things?"
 
+# light_verb's DEAD/TRADE tiers surface an abstraction handed a physical verb. The instrument's
+# generic abstraction list missed the nouns THIS book hands one to, so DL-97 (2026-09-10) added
+# them here; folded into the shared core v32 on 2026-09-11, where the shape is universal and the
+# vocabulary is the project's. Regex fragments, wrapped by the instrument. See profile.abstractions.
+abstractions:
+  - "feelings?"
+  - "charge"
+  - "readings?"
+  - "alchemy"
+  - "moves?"
+  - "lines?"
+  - "games?"
+  - "standards?"
+  - "limits?"
+  - "costs?"
+  - "work"
+  - "practice"
+  - "patterns?"
+  - "distortion"
+  - "exile"
+  - "altitude"
+  - "boundary"
+  - "inheritance"
+  - "terms"
+  - "vigilance"
+  - "clarity"
+  - "impact"
+  - "contact"
+  - "connection"
+  - "repair"
+  - "conflict"
+  - "discomfort"
+  - "urgency"
+  - "safety"
+  - "belonging"
+  - "competence"
+  - "capacity"
+  - "agency"
+  - "aim"
+  - "nerve"
+  - "standing"
+  - "leverage"
+
+# light_verb's BORROWED tier: a verb lifted from another domain onto a feeling. *metabolize* was
+# the marked instance, then ruled back IN by Wendell (DL-102, 2026-09-10: "keep metabolized") as
+# emotional alchemy's own vocabulary. So the family is declared and then excluded, and the tier
+# fires on nothing — a live record that the question was asked and answered.
+light_verb_borrowed:
+  - "metabolis?[zs]e[sd]?"
+  - "metabolis?[zs]ing"
+light_verb_borrowed_ruled_in:
+  - "metabolize"
+  - "metabolise"
+  - "metabolized"
+  - "metabolised"
+  - "metabolizes"
+  - "metabolises"
+  - "metabolizing"
+  - "metabolising"
+
 # The universal prose scanners, in pass order. coherence.py checks each exists and is wired.
 pass:
   - gate
