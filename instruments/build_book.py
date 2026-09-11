@@ -191,7 +191,10 @@ MARGINALIA = re.compile(
 # for the reader. Same defect this list was written to close, one key short.
 META_KEY = re.compile(
     r"^\*\*(Status|Authority|Location in book|Timing dependency|Depends on|"
-    r"Blocked by|Revised|Ported|Type|Source|Created|Book body):\*\*.*$", re.M)
+    r"Blocked by|Revised|Ported|Type|Source|Created|Book body|Format|Typesetting):\*\*.*$", re.M)
+# `Format` and `Typesetting` added 2026-09-10, found when the gate began scoring Appendix H:
+# its header told the typesetter to "Set the sheet below as a form" and would have printed it
+# for the reader. The same defect as `Book body` on 2026-08-01, two keys short this time.
 
 
 def strip_provenance(text):

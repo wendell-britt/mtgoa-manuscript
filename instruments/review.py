@@ -55,7 +55,7 @@ import io, os, re, glob, sys, subprocess
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, os.pardir)
 sys.path.insert(0, HERE)
-from gate import COUNTERS, exempt_spans
+from gate import score
 
 
 def run(cmd):
@@ -113,12 +113,15 @@ def draft(paths):
         # reported `banned rooms`, which he ruled keepable on 2026-07-30 ("we can leave
         # rooms in this example. It's not load bearing"). A draft check that re-reports a
         # settled ruling invites the next pass to "fix" prose the author kept.
+        # Calls `gate.score()` rather than re-implementing its loop. It did re-implement
+        # it until 2026-09-01, and both times that copy drifted it drifted the same way:
+        # in 2026-08-05 it was missing `exempt_spans` (see the note above), and on
+        # 2026-09-01 the `fragment` counter arrived as a callable rather than a pattern
+        # and this path raised TypeError on every draft — the path Wendell's review skill
+        # runs after every generation. One loop cannot drift from itself.
         hits = []
-        for name, pat, flags in COUNTERS:
-            skip = exempt_spans(text, name)
-            for m in re.finditer(pat, text, flags):
-                if any(a <= m.start() < b for a, b in skip):
-                    continue
+        for name, ms in score(text):
+            for m in ms:
                 hits.append((name, " ".join(m.group(0).split())[:60]))
         if hits:
             bad += len(hits)

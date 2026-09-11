@@ -29,7 +29,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 
 ***The shadow running:*** You walk the forest blindfolded — reacting all day without ever knowing which daemon is driving. You can't work with what you can't name.
 
-***The gift:*** Recognition. Before you fix anything, you locate the signal — which part of you just showed up.
+***The gift*** is recognition. Before you fix anything, you locate the signal — which part of you just showed up.
 
 1. Once a day, after a moment where you tried to help, name which daemon was running in you. Just name it. Don't manage it.
 2. By the end of the week, name your two most-traveled daemons — the ones that show up first when the pressure is on.
@@ -55,7 +55,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 
 ***The shadow running:*** Either the question that paralyzes you (the Skeptic aimed at yourself — "I'll get this wrong") or the cheap shot dressed up as inquiry.
 
-***The gift:*** Deliberate deceleration. You slow down long enough to find the question that's actually about the essence — and you ask it out loud.
+***The gift*** is deliberate deceleration. You slow down long enough to find the question that's actually about the essence — and you ask it out loud.
 
 1. When you feel the pull to react fast this week, run the 30-Second Protocol from Chapter 4 first. The pause is the move.
 2. Ask one person the question nobody present is asking — aimed at what the situation is actually about, not at scoring a point.
@@ -94,7 +94,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 
 ***The shadow running:*** You manage the container so smoothly that nothing real ever crosses it — politeness as a way to avoid contact.
 
-***The gift:*** Genuine curiosity. You enter to find out, not to be right, and you're willing to be changed by what you learn.
+***The gift*** is genuine curiosity. You enter to find out, not to be right, and you're willing to be changed by what you learn.
 
 1. Enter one situation this week to learn something, not to win it. Pick your orientation: grow, learn, play, or explore.
 2. Close with honest terms — say what is actually true, then make real contact across the gap (the Chapter 7 move).
@@ -105,7 +105,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 ### Quest 7 — The Sage's Principle
 *Chapter 8 · Daemon: Damaged Self · Domain: Raise Awareness · 7 days*
 
-***The shadow running:*** You see the whole game and use the seeing to float above everyone in it. Altitude as a place to hide.
+***The shadow running:*** You see the whole game and use the seeing to float above everyone in it. Altitude becomes a place to hide.
 
 ***The gift:*** You name the game without leaving the table — make the pattern visible to someone who's still in it, and stay.
 

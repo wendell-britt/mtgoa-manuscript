@@ -166,7 +166,7 @@ that it works.*"""),
 not believe anybody should be handed the shortcut before they have felt why it is one.*
 
 *I disagree, which is why I have told you where it is.*"""),
-("### The Shaman's Superpower: Knowing Which Move to Make", """*The first time I named a charge out loud in a company that had agreed not to, I got it wrong. Badly
+("### The Shaman's Superpower: Knowing Which Move to Make", """*The first time I named a charge out loud in a company that had agreed not to, I got it wrong, and badly
 wrong. I named grief and it was rage. Eleven people corrected me, at some volume.*
 
 *It worked anyway. That is the part nobody warns you about — the company opened regardless: somebody had been
@@ -235,7 +235,7 @@ Heads believe it predates the ship, which it cannot, because we invented it in t
 I was there and I remember the argument about the candles.*
 
 *It is the best-attended ceremony we have. I have stopped correcting people.*"""),
-("what you were holding was you", """*Sera does this. Not the repair half — the second one. She is the reason four separate systems on
+("what you were holding was you", """*Sera does this — not the repair half but the second one. She is the reason four separate systems on
 this ship still function, none of them written down, all of them in her head, and she will tell
 you she is simply the person who happens to remember.*
 
@@ -308,7 +308,7 @@ without the step. I built several. They were elaborate. One of them had stages.*
 *Corin read it and asked how many of the stages were about the other person. Then: "You are
 working very hard at not having to get good at something."*"""),
 ("The Victim decides something none of them touch", """*I found out a friend was going through something, and my first clear feeling was relief that she
-had told me and not somebody else. Not concern. Relief — and underneath it a small satisfaction
+had told me and not somebody else. It was not concern. Relief — and underneath it a small satisfaction
 that was entirely about my standing and not at all about her.*
 
 *I have looked at that from several angles since. It is still what it is.*"""),
@@ -316,7 +316,7 @@ that was entirely about my standing and not at all about her.*
 before the conversation rather than during it. The other half you will find that you do, and that
 you have known it for months, which is worse and more useful.*
 
-*Either way — say it to yourself in one sentence before you go in. Not to decide anything. Only to
+*Either way — say it to yourself in one sentence before you go in, not to decide anything. Only to
 find out which half you are in.*"""),
 ("<!-- SECTION 7 -->", """*The school keeps one space set aside for conversations that need terms stated. It is bookable. It
 has good chairs, a window, and a jug of water somebody refills.*
@@ -410,7 +410,7 @@ because I brought it with me. I stopped saying it the old way about twenty years
 student asked me where I was from and I gave her the school instead of the answer. It was easier.
 I have given the school every time since.*
 
-*Home. I have gone this far without the word and I would have gone the rest of the way.*
+*This is home. I have gone this far without the word and I would have gone the rest of the way.*
 
 *I am fine. I want that in my own hand, since six people have now put the opposite in writing and
 been courteous about it. I am fine, and I am still paying for this, and both are true on the same
@@ -453,43 +453,43 @@ RECORDS = {
     # "insufficient courage" / "correct reading, withheld" now sit upright in an italic note.
     3: [
         ("The Shaman's practice is that staying.",
-         """*Thirty-first session. Jaw, then the back of the neck. I wrote down contempt in the man at the head of the table. Grief, four days old. I did not feel the grief until the funeral.*
+         """*This is the thirty-first session. It arrives in the jaw first, then the back of the neck. I wrote down contempt in the man at the head of the table. Grief, four days old. I did not feel the grief until the funeral.*
 
-*Sessions thirty-two through four hundred and six. Chest: nothing. Throat: nothing. Hands: nothing. Three years of nothing, in my own handwriting, four hundred entries.*
+*Sessions thirty-two through four hundred and six read: chest, nothing; throat, nothing; hands, nothing. Three years of nothing, in my own handwriting, four hundred entries.*
 
 *I called it discipline. The entry correcting that is dated later and reads: the numbness began the morning after the funeral, not the morning of the error. It was not protecting me from being wrong. It was protecting him from being read a second time by somebody who had got it wrong in front of witnesses. The only instrument it could reach was mine.*
 
-*Present session. Jaw, at the word correctly. The reading came back better than it was. What I am working now is what it costs a person to be read accurately by somebody they did not ask.*"""),
+*This is the present session. The jaw goes at the word correctly. The reading came back better than it was. What I am working now is what it costs a person to be read accurately by somebody they did not ask.*"""),
     ],
     5: [
         ('**The Regent means: somebody carried the inheritance far enough that the next person can pick it up.**',
-         """**Clause four.** *A practice that cannot be named to a stranger in one sitting has already been lost, whatever its members believe about it.*
+         """**Clause four:** *a practice that cannot be named to a stranger in one sitting has already been lost, whatever its members believe about it.*
 
 *Note. The register of this school holds two hundred and thirty-one discontinued practices, gathered across as many worlds as the ship has touched. Merrow ordered them by cause of death. The ordering is his and the finding is mine: one hundred and seventy-two of the two hundred and thirty-one were dissolved by their own members, on purpose, and not one of the one hundred and seventy-two recorded the dissolution as a loss at the time.*
 
-**Clause five.** *A body that declines to hold a role will be held by whoever is willing to hold it, and that person will not have been selected.*
+**Clause five:** *a body that declines to hold a role will be held by whoever is willing to hold it, and that person will not have been selected.*
 
 *Note. The founding generation of such a body has commonly come out of an older order that used its structure to protect itself, and has drawn the correct conclusion about that order and the wrong conclusion about structure. Roles are refused on principle. The refusal is entered in the minutes as a value. Nothing is entered after it, which is the observation.*
 
-*Second note. Three crises are typical and their shapes are stable enough to record. At the first the body adapts, and the adaptation is cited afterward as proof that no structure was needed. At the second it closes ranks. At the third its members are found arguing the first crisis again from new positions, with no record of what the first argument had been for, because nobody was charged with keeping one.*
+*Second note: three crises are typical and their shapes are stable enough to record. At the first the body adapts, and the adaptation is cited afterward as proof that no structure was needed. At the second it closes ranks. At the third its members are found arguing the first crisis again from new positions, with no record of what the first argument had been for, because nobody was charged with keeping one.*
 
-*Third note. Members who could name the pattern in advance are present in most cases. The register carries their accounts. They report having said something careful, and having said less than they knew, on the ground that the whole of it would have been heard as an application for the crown. Merrow filed these accounts under insufficient courage. They are refiled under correct reading, withheld, and the refiling is the more accurate of the two.*
+*Third note: members who could name the pattern in advance are present in most cases. The register carries their accounts. They report having said something careful, and having said less than they knew, on the ground that the whole of it would have been heard as an application for the crown. Merrow filed these accounts under insufficient courage. They are refiled under correct reading, withheld, and the refiling is the more accurate of the two.*
 
-**Clause six.** *An inheritance offered before it is wanted is not an inheritance. It is an opinion.*
+**Clause six:** *an inheritance offered before it is wanted is not an inheritance. It is an opinion.*
 
 *Note. This is the clause I would amend, and amendment is not within the office. The register records no case of a practice handed successfully to a body that had not yet lost something. It records no case of a keeper who stopped attempting it either.*"""),
         ("The Regent's actual practice is something harder and more alive:",
-         """*Clause nine. A promise made by the dead is kept until the last person it protected has died, at which point it is reviewed rather than renewed.*
+         """*Clause nine reads: a promise made by the dead is kept until the last person it protected has died, at which point it is reviewed rather than renewed.*
 
 *Note. The clause as written permits the review. The clause as kept forbade it, and had forbidden it since Merrow, whose reasoning survives in the margin here in his own hand and is wrong. I conducted the review. Which promise it was is not recorded and will not be.*
 
-*Second note. Two households withdrew from the practice. One has not returned. The practice that replaced it has run forty years and the other household sends its children to it.*
+*Second note: two households withdrew from the practice. One has not returned. The practice that replaced it has run forty years and the other household sends its children to it.*
 
 *Third note, added this year. I can pass an inheritance intact and named, which is the whole of what this school claims. I have not learned to hand one to somebody who will change it without entering the change as damage, and my own ledgers are the reason that is hard.*"""),
     ],
     7: [
         ('That decision is an accurate reading of a specific misuse.',
-         """*Case forty-one. Both transcripts, hers first.*
+         """*This is case forty-one, with both transcripts, hers first.*
 
 *She said: I need you to stop. Later, to me: I thought I was asking.*
 
@@ -525,7 +525,7 @@ and noticed the holding in enough to mind it afterward. I decline applicants who
 second. I cannot teach a person to hand over an instrument they have never held.
 
 **2. What you will be able to do when you leave.** I teach one skill. A student learns to
-name where a feeling shows up in the body before naming what it means. Chest, throat, the back
+name where a feeling shows up in the body before naming what it means: chest, throat, the back
 of the neck, the jaw. It sounds small to me as well. I have watched what follows from
 it: the people around that student begin speaking earlier, because somebody present is
 visibly not waiting to be sure.
@@ -540,10 +540,10 @@ again, and I took them.
 the School of the Line. If it needs the pattern changed so the feeling stops
 arriving in the first place, that is the School of the Pattern.
 
-**5. Entry.** None. Everyone begins here, including those who arrive certain they are past
+**5. Entry:** we require none. Everyone begins here, including those who arrive certain they are past
 it. I have been wrong about who was past it.
 
-**6. A word from the Head.** The reading is not my difficulty any more. What I work on now
+**6. A word from the Head:** the reading is not my difficulty any more. What I work on now
 is what it costs a person to be read accurately by somebody they did not ask. I have not
 solved it. I teach here anyway.
 
@@ -555,7 +555,7 @@ Head of the School of the Body""",
 **1. Who we are for.** You have said no and had it not take. You said it in a meeting,
 pleasantly, and it went ahead anyway; you said it again six weeks later and were told you
 had raised that already. You have also watched it happen to somebody with less standing than
-you, and done nothing, and known at the time you were doing nothing. Both. Applicants with
+you, and done nothing, and known at the time you were doing nothing. We want both. Applicants with
 one are declined.
 
 **2. What you will be able to do when you leave.** State a limit in one sentence and not
@@ -571,11 +571,11 @@ Students who wait until they feel ready have suffered as a result.
 It is not, it is incomplete, and incomplete is a different problem with a different address.
 Send it to the School of the Bridge. Failing to send it is the error here, not sending it.
 
-**5. Entry.** You must be able to say what you felt in the last moment you said nothing. Not
+**5. Entry:** you must be able to say what you felt in the last moment you said nothing. Not
 what you thought. What you felt, and where. If you cannot, the School of the Body takes
 first-years every season and we will still be here.
 
-**6. A word from the Head.** The lines hold now. What I am working is the four seconds after
+**6. A word from the Head:** the lines hold now. What I am working is the four seconds after
 a line drawn on somebody else's behalf, when they go on living in the place where I said it
 and I do not.
 
@@ -584,11 +584,11 @@ Head of the School of the Line""",
     5: """**THE SCHOOL OF THE OATH**
 *Admissions. Filed as required, under clause one.*
 
-**Clause one.** Each school shall produce an account of itself for those considering entry.
+**Clause one:** each school shall produce an account of itself for those considering entry.
 The clause as written requires an account. The clause as kept, since Merrow, has produced a
 recruitment notice. What follows is an account.
 
-**Clause two, admission.** Two conditions, both required. First, that the applicant has
+**Clause two, admission:** two conditions, both required. First, that the applicant has
 found a practice they belong to altered in the part concerning them, without notice, and
 learned of it afterward and from a third party. Second, that the applicant has kept a practice
 they knew to be costing someone. The first condition without the second produces a candidate
@@ -607,7 +607,7 @@ This school holds and hands on. It does not redesign, and a school that redesign
 claiming to preserve is the failure this one exists downstream of. Such cases go to the
 School of the Pattern.
 
-**Clause six, entry.** Prior standing at the School of the Line is required. One must be
+**Clause six, entry:** prior standing at the School of the Line is required. One must be
 able to refuse before one can be trusted to keep.
 
 **A note from the Head, appended outside the clauses.** I can pass an inheritance intact and
@@ -618,7 +618,7 @@ reason that is hard.
 Sera Quill, Keeper of Continuance,
 Head of the School of the Oath""",
     6: """**THE SCHOOL OF THE PATTERN**
-*Admissions. Specification 0.1.*
+*This is Admissions, Specification 0.1.*
 
 **1. Who we are for.** Specification: an applicant has (a) taken a path costing them more
 than it cost the person beside them, for reasons neither chose, and (b) watched another take
@@ -626,8 +626,8 @@ that path and concluded *the process is fine, they are struggling.* Both require
 Applicants presenting only (b) are declined and told the reason, which takes an afternoon
 and saves four years.
 
-**2. Capability conferred.** Location of the point at which a system produces the outcome it
-produces. Not the person standing at that point. The point. In practice the consequence
+**2. Capability conferred:** we locate the point at which a system produces the outcome it
+produces, not the person standing at that point but the point itself. In practice the consequence
 arrives about a season later: people stop apologising for what was never theirs,
 because the apology has stopped being accepted.
 
@@ -636,14 +636,14 @@ that, candidates begin producing designs to correct designs, each further from a
 living inside them, and the drift is the mechanism rather than the error. Those who did not
 stop at three have suffered as a result. See figure two.
 
-**4. Not taught.** Disposition of the person the redesign will not reach in time. There is
+**4. Not taught:** disposition of the person the redesign will not reach in time. There is
 always one. The specification does not cover them and I decline to pretend otherwise. Such
 cases go to the School of the Horizon.
 
-**5. Entry.** Prior standing at the School of the Oath. Something must have been kept before
+**5. Entry:** we require prior standing at the School of the Oath. Something must have been kept before
 something may be changed, and the order is not stylistic.
 
-**6. A word from the Head.** The designs hold. I ask first now, which I did not for nineteen
+**6. A word from the Head:** the designs hold. I ask first now, which I did not for nineteen
 years. In practice I remain slower at asking than at designing, and the asking takes an
 afternoon.
 
@@ -664,7 +664,7 @@ aloud, including the party judged to be wrong. Consequence: a conversation stops
 who is right roughly four minutes earlier than it did before, and four minutes is more than
 it sounds.
 
-**3. What it costs.** Acknowledgement. A student once put it this way at the end of her
+**3. What it costs:** acknowledgement. A student once put it this way at the end of her
 fourth year: *the terms held and nobody knew I wrote them, and I did not expect to mind, and
 I mind.* She was right to say so and no version of this training removes it. Those who came
 for the thanks have suffered as a result.
@@ -673,11 +673,11 @@ for the thanks have suffered as a result.
 school gets the agreement. It cannot get the century. Such cases go to the School of the
 Oath, which can, and which will be dry about it.
 
-**5. Entry.** Prior standing at the School of the Pattern. The design producing the pressure
+**5. Entry:** we require prior standing at the School of the Pattern. The design producing the pressure
 must be visible before one sits down inside the pressure, or the negotiation will be with a
 person about a machine.
 
-**6. A word from the Head.** The terms hold. Whether wanting the sentence is a defect in me
+**6. A word from the Head:** the terms hold. Whether wanting the sentence is a defect in me
 or a condition of the work is the open question here, and I am the wrong person to settle
 it.
 
@@ -704,15 +704,15 @@ at home in any one school, including the one we came from, and I have watched th
 loss in students who expected freedom. Those who came to be above the other
 five have suffered as a result, and left, and one has come back.
 
-**4. What we do not teach.** Any of it. We do not teach the reading, the line, the keeping,
+**4. What we do not teach:** any of it. We do not teach the reading, the line, the keeping,
 the design, or the terms. We teach which of the five a moment is asking for, and then we
 send, and the sending is the entire curriculum. All five take our referrals and Sera is dry
 about ours in particular.
 
-**5. Entry.** Standing at all five. There is no way to shorten this and we are asked every
+**5. Entry:** we require standing at all five. There is no way to shorten this and we are asked every
 year.
 
-**6. A word from the Head.** I have read all five schools for thirty years and nobody has
+**6. A word from the Head:** I have read all five schools for thirty years and nobody has
 read me, which I arranged, and which I am now told is a course I never took. I am the oldest
 first-year here. That is a joke and it is also the timetable.
 

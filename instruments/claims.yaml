@@ -764,7 +764,7 @@ claims:
       the last site on the P6 refrain row.
     carriers:
       - {file: manuscript/ch3.md, phrase: "I understand. I have it."}
-      - {file: manuscript/ch4.md, phrase: "The lines hold now."}
+      - {file: manuscript/ch4.md, phrase: "the lines hold now."}
       - {file: manuscript/ch7.md, phrase: "You say the hard sentence, and you stay"}
       - {file: manuscript/ch8.md, phrase: "What they heard instead was:"}
       - {file: manuscript/ch1.md, phrase: "a decision falls on the person with the least power"}

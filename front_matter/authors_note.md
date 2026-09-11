@@ -14,7 +14,7 @@ Rules arrived to protect that group, and they do not work. Be good. Do no harm. 
 
 Every one of those is reaching for something real. Look at what they run on. Say the correct words and the situation is supposed to change; anywhere else we would call that magic. Stand near whoever hands out approval and you are safe. That is dominance wearing a better vocabulary.
 
-Ken Wilber named this confusion, and his name for it is the most useful idea I can hand you before chapter one. He calls it the pre/trans fallacy. Two very different positions sit on either side of the conventional middle: one that has not reached the rules yet, and one that has been through them and come out the far side. From inside the middle, the two look identical.
+Ken Wilber named this confusion, and his name for it is the most useful idea I can hand you before chapter one. He calls it the pre/trans fallacy. Two very different positions sit on either side of the conventional middle: one that has not reached the rules yet, and one that has been through them and come out the far side. From inside the middle, they look identical.
 
 Harm reduction is where that costs the most. One person hands out clean needles and gets called an enabler. Another runs a session that leaves a whole team uncomfortable for a week and gets called harsh. One of them may be careless and one may be doing the only work that moves anybody, and the rules cannot tell, because the only measure the rules have is whether somebody flinched. The magic and the dominance from a moment ago pass that same test, since both of them use the right words. So the rules defend in both directions at once, and the believer pays for the defense.
 

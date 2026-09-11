@@ -269,13 +269,13 @@ Allyship gets played without one. You can be held to a sentence you wrote. You c
 
 Appendix H is the sheet. This is yours, a few lines filled in for who you are right now, and every chapter after this one adds another.
 
-**Your home face.** The one you already play, the one you just recognized as yours. Write it down.
+**Your home face:** the one you already play, the one you just recognized as yours. Write it down.
 
-**Your shadow.** Your home face has a bad night. Tired, scared, or spent, it stops being your strength and turns into the move you overplay. You catch this one by feel: under strain it comes in heavier, tighter, more reactive than your real move. Write down the version of your face you fall into on empty. Treat it as your tell rather than your enemy.
+**Your shadow:** your home face has a bad night. Tired, scared, or spent, it stops being your strength and turns into the move you overplay. You catch this one by feel: under strain it comes in heavier, tighter, more reactive than your real move. Write down the version of your face you fall into on empty. Treat it as your tell rather than your enemy.
 
-**Your myth.** Back at the start you met the ten versions of *allyship means being good*. Write down the one that runs you hardest, the rule you have been playing by without ever agreeing to it. (The Myths Read sorts your real top few, unflattering and exact, and turns each one into a first move.)
+**Your myth:** back at the start you met the ten versions of *allyship means being good*. Write down the one that runs you hardest, the rule you have been playing by without ever agreeing to it. (The Myths Read sorts your real top few, unflattering and exact, and turns each one into a first move.)
 
-**Your quest.** Not "get better at allyship." A cause. The specific fight, community, or person you are actually in this for. Name them. This is who your range is for.
+**Your quest:** never "get better at allyship." A cause. The specific fight, community, or person you are actually in this for. Name them. This is who your range is for.
 
 That is the sheet for now. It fills in as you play: a superpower you will only spot in motion, an autopilot pattern you will catch yourself running, a line added in every chapter ahead.
 
