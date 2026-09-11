@@ -25,7 +25,7 @@
 > second. I cannot teach a person to hand over an instrument they have never held.
 >
 > **2. What you will be able to do when you leave.** I teach one skill. A student learns to
-> name where a feeling shows up in the body before naming what it means: chest, throat, the back
+> name where a feeling shows up in the body before naming what it means. Chest, throat, the back
 > of the neck, the jaw. It sounds small to me as well. I have watched what follows from
 > it: the people around that student begin speaking earlier, because somebody present is
 > visibly not waiting to be sure.
@@ -40,10 +40,10 @@
 > the School of the Line. If it needs the pattern changed so the feeling stops
 > arriving in the first place, that is the School of the Pattern.
 >
-> **5. Entry:** we require none. Everyone begins here, including those who arrive certain they are past
+> **5. Entry.** None. Everyone begins here, including those who arrive certain they are past
 > it. I have been wrong about who was past it.
 >
-> **6. A word from the Head:** the reading is not my difficulty any more. What I work on now
+> **6. A word from the Head.** The reading is not my difficulty any more. What I work on now
 > is what it costs a person to be read accurately by somebody they did not ask. I have not
 > solved it. I teach here anyway.
 >
@@ -168,13 +168,13 @@ Emotional alchemy is the practice of staying in relationship with the full spect
 The Shaman's practice is that staying.
 
 <!-- HANDBOOK -->
-> *This is the thirty-first session. It arrives in the jaw first, then the back of the neck. I wrote down contempt in the man at the head of the table. Grief, four days old. I did not feel the grief until the funeral.*
+> *Thirty-first session. Jaw, then the back of the neck. I wrote down contempt in the man at the head of the table. Grief, four days old. I did not feel the grief until the funeral.*
 >
-> *Sessions thirty-two through four hundred and six read: chest, nothing; throat, nothing; hands, nothing. Three years of nothing, in my own handwriting, four hundred entries.*
+> *Sessions thirty-two through four hundred and six. Chest: nothing. Throat: nothing. Hands: nothing. Three years of nothing, in my own handwriting, four hundred entries.*
 >
 > *I called it discipline. The entry correcting that is dated later and reads: the numbness began the morning after the funeral, not the morning of the error. It was not protecting me from being wrong. It was protecting him from being read a second time by somebody who had got it wrong in front of witnesses. The only instrument it could reach was mine.*
 >
-> *This is the present session. The jaw goes at the word correctly. The reading came back better than it was. What I am working now is what it costs a person to be read accurately by somebody they did not ask.*
+> *Present session. Jaw, at the word correctly. The reading came back better than it was. What I am working now is what it costs a person to be read accurately by somebody they did not ask.*
 <!-- /HANDBOOK -->
 
 The Shaman's practice may already feel familiar. You have likely built some language for a felt sense, some practice in reading what a group holds under its words.

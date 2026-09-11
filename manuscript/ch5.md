@@ -18,11 +18,11 @@
 > **THE SCHOOL OF THE OATH**
 > *Admissions. Filed as required, under clause one.*
 >
-> **Clause one:** each school shall produce an account of itself for those considering entry.
+> **Clause one.** Each school shall produce an account of itself for those considering entry.
 > The clause as written requires an account. The clause as kept, since Merrow, has produced a
 > recruitment notice. What follows is an account.
 >
-> **Clause two, admission:** two conditions, both required. First, that the applicant has
+> **Clause two, admission.** Two conditions, both required. First, that the applicant has
 > found a practice they belong to altered in the part concerning them, without notice, and
 > learned of it afterward and from a third party. Second, that the applicant has kept a practice
 > they knew to be costing someone. The first condition without the second produces a candidate
@@ -41,7 +41,7 @@
 > claiming to preserve is the failure this one exists downstream of. Such cases go to the
 > School of the Pattern.
 >
-> **Clause six, entry:** prior standing at the School of the Line is required. One must be
+> **Clause six, entry.** Prior standing at the School of the Line is required. One must be
 > able to refuse before one can be trusted to keep.
 >
 > **A note from the Head, appended outside the clauses.** I can pass an inheritance intact and
@@ -109,19 +109,19 @@ The villagers never meant for that to happen.
 **The Regent means: somebody carried the inheritance far enough that the next person can pick it up.** A keeper who holds a rule for fifteen years earns faithful from one person and immovable from the next, on identical evidence.
 
 <!-- HANDBOOK -->
-> **Clause four:** *a practice that cannot be named to a stranger in one sitting has already been lost, whatever its members believe about it.*
+> **Clause four.** *A practice that cannot be named to a stranger in one sitting has already been lost, whatever its members believe about it.*
 >
 > *Note. The register of this school holds two hundred and thirty-one discontinued practices, gathered across as many worlds as the ship has touched. Merrow ordered them by cause of death. The ordering is his and the finding is mine: one hundred and seventy-two of the two hundred and thirty-one were dissolved by their own members, on purpose, and not one of the one hundred and seventy-two recorded the dissolution as a loss at the time.*
 >
-> **Clause five:** *a body that declines to hold a role will be held by whoever is willing to hold it, and that person will not have been selected.*
+> **Clause five.** *A body that declines to hold a role will be held by whoever is willing to hold it, and that person will not have been selected.*
 >
 > *Note. The founding generation of such a body has commonly come out of an older order that used its structure to protect itself, and has drawn the correct conclusion about that order and the wrong conclusion about structure. Roles are refused on principle. The refusal is entered in the minutes as a value. Nothing is entered after it, which is the observation.*
 >
-> *Second note: three crises are typical and their shapes are stable enough to record. At the first the body adapts, and the adaptation is cited afterward as proof that no structure was needed. At the second it closes ranks. At the third its members are found arguing the first crisis again from new positions, with no record of what the first argument had been for, because nobody was charged with keeping one.*
+> *Second note. Three crises are typical and their shapes are stable enough to record. At the first the body adapts, and the adaptation is cited afterward as proof that no structure was needed. At the second it closes ranks. At the third its members are found arguing the first crisis again from new positions, with no record of what the first argument had been for, because nobody was charged with keeping one.*
 >
-> *Third note: members who could name the pattern in advance are present in most cases. The register carries their accounts. They report having said something careful, and having said less than they knew, on the ground that the whole of it would have been heard as an application for the crown. Merrow filed these accounts under insufficient courage. They are refiled under correct reading, withheld, and the refiling is the more accurate of the two.*
+> *Third note. Members who could name the pattern in advance are present in most cases. The register carries their accounts. They report having said something careful, and having said less than they knew, on the ground that the whole of it would have been heard as an application for the crown. Merrow filed these accounts under insufficient courage. They are refiled under correct reading, withheld, and the refiling is the more accurate of the two.*
 >
-> **Clause six:** *an inheritance offered before it is wanted is not an inheritance. It is an opinion.*
+> **Clause six.** *An inheritance offered before it is wanted is not an inheritance. It is an opinion.*
 >
 > *Note. This is the clause I would amend, and amendment is not within the office. The register records no case of a practice handed successfully to a body that had not yet lost something. It records no case of a keeper who stopped attempting it either.*
 <!-- /HANDBOOK -->
@@ -189,11 +189,11 @@ The villagers keep tradition instead of passing it on: "we do it this way becaus
 The Regent's actual practice is something harder and more alive: **the deliberate passing down of what works, across time, so that the next person doesn't have to figure it out from scratch.**
 
 <!-- HANDBOOK -->
-> *Clause nine reads: a promise made by the dead is kept until the last person it protected has died, at which point it is reviewed rather than renewed.*
+> *Clause nine. A promise made by the dead is kept until the last person it protected has died, at which point it is reviewed rather than renewed.*
 >
 > *Note. The clause as written permits the review. The clause as kept forbade it, and had forbidden it since Merrow, whose reasoning survives in the margin here in his own hand and is wrong. I conducted the review. Which promise it was is not recorded and will not be.*
 >
-> *Second note: two households withdrew from the practice. One has not returned. The practice that replaced it has run forty years and the other household sends its children to it.*
+> *Second note. Two households withdrew from the practice. One has not returned. The practice that replaced it has run forty years and the other household sends its children to it.*
 >
 > *Third note, added this year. I can pass an inheritance intact and named, which is the whole of what this school claims. I have not learned to hand one to somebody who will change it without entering the change as damage, and my own ledgers are the reason that is hard.*
 <!-- /HANDBOOK -->

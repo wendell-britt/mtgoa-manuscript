@@ -21,7 +21,7 @@
 > **1. Who we are for.** You have said no and had it not take. You said it in a meeting,
 > pleasantly, and it went ahead anyway; you said it again six weeks later and were told you
 > had raised that already. You have also watched it happen to somebody with less standing than
-> you, and done nothing, and known at the time you were doing nothing. We want both. Applicants with
+> you, and done nothing, and known at the time you were doing nothing. Both. Applicants with
 > one are declined.
 >
 > **2. What you will be able to do when you leave.** State a limit in one sentence and not
@@ -37,11 +37,11 @@
 > It is not, it is incomplete, and incomplete is a different problem with a different address.
 > Send it to the School of the Bridge. Failing to send it is the error here, not sending it.
 >
-> **5. Entry:** you must be able to say what you felt in the last moment you said nothing. Not
+> **5. Entry.** You must be able to say what you felt in the last moment you said nothing. Not
 > what you thought. What you felt, and where. If you cannot, the School of the Body takes
 > first-years every season and we will still be here.
 >
-> **6. A word from the Head:** the lines hold now. What I am working is the four seconds after
+> **6. A word from the Head.** The lines hold now. What I am working is the four seconds after
 > a line drawn on somebody else's behalf, when they go on living in the place where I said it
 > and I do not.
 >

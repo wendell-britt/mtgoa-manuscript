@@ -460,9 +460,55 @@ CANON = [
 ]
 
 
+# BOXED RECORDS — ledger notes, ruled by Wendell 2026-09-10: "Boxed records should be scored,
+# but those should be ledger notes because they have to be edited separately."
+#
+# Every HANDBOOK box (the admissions pages, the Heads' records, Quill's charter) is scored like
+# any other prose. A hit inside one is a NOTE, not a defect for this pass: the boxes are edited in
+# their own pass, never by a sweep. Each note is keyed on the whole boxed source line, not on the
+# hit — `Entry.` alone would exempt that word everywhere in the book. When the box is edited the
+# line changes and its note stops applying, which is the signal the separate edit has happened.
+BOXED_NOTE = ("boxed record (HANDBOOK): scored, a ledger note, edited separately — "
+              "Wendell 2026-09-10")
+BOXED_NOTES = [
+    ('ch3.md', '> name where a feeling shows up in the body before naming what it means. Chest, throat, the back'),
+    ('ch3.md', '> **5. Entry.** None. Everyone begins here, including those who arrive certain they are past'),
+    ('ch3.md', '> **6. A word from the Head.** The reading is not my difficulty any more. What I work on now'),
+    ('ch3.md', '> *Thirty-first session. Jaw, then the back of the neck. I wrote down contempt in the man at the head of the table. Grief, four days old. I did not feel the grief until the funeral.*'),
+    ('ch3.md', '> *Sessions thirty-two through four hundred and six. Chest: nothing. Throat: nothing. Hands: nothing. Three years of nothing, in my own handwriting, four hundred entries.*'),
+    ('ch3.md', '> *Present session. Jaw, at the word correctly. The reading came back better than it was. What I am working now is what it costs a person to be read accurately by somebody they did not ask.*'),
+    ('ch4.md', '> you, and done nothing, and known at the time you were doing nothing. Both. Applicants with'),
+    ('ch4.md', '> **5. Entry.** You must be able to say what you felt in the last moment you said nothing. Not'),
+    ('ch4.md', '> **6. A word from the Head.** The lines hold now. What I am working is the four seconds after'),
+    ('ch5.md', '> **Clause one.** Each school shall produce an account of itself for those considering entry.'),
+    ('ch5.md', '> **Clause two, admission.** Two conditions, both required. First, that the applicant has'),
+    ('ch5.md', '> **Clause six, entry.** Prior standing at the School of the Line is required. One must be'),
+    ('ch5.md', '> **Clause five.** *A body that declines to hold a role will be held by whoever is willing to hold it, and that person will not have been selected.*'),
+    ('ch5.md', '> *Second note. Three crises are typical and their shapes are stable enough to record. At the first the body adapts, and the adaptation is cited afterward as proof that no structure was needed. At the second it closes ranks. At the third its members are found arguing the first crisis again from new positions, with no record of what the first argument had been for, because nobody was charged with keeping one.*'),
+    ('ch5.md', '> *Third note. Members who could name the pattern in advance are present in most cases. The register carries their accounts. They report having said something careful, and having said less than they knew, on the ground that the whole of it would have been heard as an application for the crown. Merrow filed these accounts under insufficient courage. They are refiled under correct reading, withheld, and the refiling is the more accurate of the two.*'),
+    ('ch5.md', '> **Clause six.** *An inheritance offered before it is wanted is not an inheritance. It is an opinion.*'),
+    ('ch5.md', '> *Second note. Two households withdrew from the practice. One has not returned. The practice that replaced it has run forty years and the other household sends its children to it.*'),
+    ('ch6.md', '> *Admissions. Specification 0.1.*'),
+    ('ch6.md', '> produces. Not the person standing at that point. The point. In practice the consequence'),
+    ('ch6.md', '> **4. Not taught.** Disposition of the person the redesign will not reach in time. There is'),
+    ('ch6.md', '> **5. Entry.** Prior standing at the School of the Oath. Something must have been kept before'),
+    ('ch6.md', '> **6. A word from the Head.** The designs hold. I ask first now, which I did not for nineteen'),
+    ('ch7.md', '> **3. What it costs.** Acknowledgement. A student once put it this way at the end of her'),
+    ('ch7.md', '> **5. Entry.** Prior standing at the School of the Pattern. The design producing the pressure'),
+    ('ch7.md', '> **6. A word from the Head.** The terms hold. Whether wanting the sentence is a defect in me'),
+    ('ch8.md', '> **4. What we do not teach.** Any of it. We do not teach the reading, the line, the keeping,'),
+    ('ch8.md', '> **5. Entry.** Standing at all five. There is no way to shorten this and we are asked every'),
+    ('ch8.md', '> **6. A word from the Head.** I have read all five schools for thirty years and nobody has'),
+]
+
+
 def exempt_spans(text, counter):
     """Character spans in `text` that this counter must ignore."""
     spans = []
+    for _where, line in BOXED_NOTES:             # every counter: a boxed line is a note
+        i = text.find(line)
+        if i >= 0:
+            spans.append((i, i + len(line)))
     for name, phrase, _reason in EXEMPT + CANON:
         if name != counter:
             continue

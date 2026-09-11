@@ -36,15 +36,15 @@
 > loss in students who expected freedom. Those who came to be above the other
 > five have suffered as a result, and left, and one has come back.
 >
-> **4. What we do not teach:** any of it. We do not teach the reading, the line, the keeping,
+> **4. What we do not teach.** Any of it. We do not teach the reading, the line, the keeping,
 > the design, or the terms. We teach which of the five a moment is asking for, and then we
 > send, and the sending is the entire curriculum. All five take our referrals and Sera is dry
 > about ours in particular.
 >
-> **5. Entry:** we require standing at all five. There is no way to shorten this and we are asked every
+> **5. Entry.** Standing at all five. There is no way to shorten this and we are asked every
 > year.
 >
-> **6. A word from the Head:** I have read all five schools for thirty years and nobody has
+> **6. A word from the Head.** I have read all five schools for thirty years and nobody has
 > read me, which I arranged, and which I am now told is a course I never took. I am the oldest
 > first-year here. That is a joke and it is also the timetable.
 >

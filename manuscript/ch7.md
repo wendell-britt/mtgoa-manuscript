@@ -30,7 +30,7 @@
 > who is right roughly four minutes earlier than it did before, and four minutes is more than
 > it sounds.
 >
-> **3. What it costs:** acknowledgement. A student once put it this way at the end of her
+> **3. What it costs.** Acknowledgement. A student once put it this way at the end of her
 > fourth year: *the terms held and nobody knew I wrote them, and I did not expect to mind, and
 > I mind.* She was right to say so and no version of this training removes it. Those who came
 > for the thanks have suffered as a result.
@@ -39,11 +39,11 @@
 > school gets the agreement. It cannot get the century. Such cases go to the School of the
 > Oath, which can, and which will be dry about it.
 >
-> **5. Entry:** we require prior standing at the School of the Pattern. The design producing the pressure
+> **5. Entry.** Prior standing at the School of the Pattern. The design producing the pressure
 > must be visible before one sits down inside the pressure, or the negotiation will be with a
 > person about a machine.
 >
-> **6. A word from the Head:** the terms hold. Whether wanting the sentence is a defect in me
+> **6. A word from the Head.** The terms hold. Whether wanting the sentence is a defect in me
 > or a condition of the work is the open question here, and I am the wrong person to settle
 > it.
 >
@@ -143,7 +143,7 @@ The villagers harden terms into ultimatums. Terms are what someone says when the
 That decision is an accurate reading of a specific misuse. Accuracy explains why nobody has talked her out of it. The problem is what it costs to generalize from it.
 
 <!-- HANDBOOK -->
-> *This is case forty-one, with both transcripts, hers first.*
+> *Case forty-one. Both transcripts, hers first.*
 >
 > *She said: I need you to stop. Later, to me: I thought I was asking.*
 >

@@ -16,7 +16,7 @@
 
 <!-- HANDBOOK -->
 > **THE SCHOOL OF THE PATTERN**
-> *This is Admissions, Specification 0.1.*
+> *Admissions. Specification 0.1.*
 >
 > **1. Who we are for.** Specification: an applicant has (a) taken a path costing them more
 > than it cost the person beside them, for reasons neither chose, and (b) watched another take
@@ -24,8 +24,8 @@
 > Applicants presenting only (b) are declined and told the reason, which takes an afternoon
 > and saves four years.
 >
-> **2. Capability conferred:** we locate the point at which a system produces the outcome it
-> produces, not the person standing at that point but the point itself. In practice the consequence
+> **2. Capability conferred.** Location of the point at which a system produces the outcome it
+> produces. Not the person standing at that point. The point. In practice the consequence
 > arrives about a season later: people stop apologising for what was never theirs,
 > because the apology has stopped being accepted.
 >
@@ -34,14 +34,14 @@
 > living inside them, and the drift is the mechanism rather than the error. Those who did not
 > stop at three have suffered as a result. See figure two.
 >
-> **4. Not taught:** disposition of the person the redesign will not reach in time. There is
+> **4. Not taught.** Disposition of the person the redesign will not reach in time. There is
 > always one. The specification does not cover them and I decline to pretend otherwise. Such
 > cases go to the School of the Horizon.
 >
-> **5. Entry:** we require prior standing at the School of the Oath. Something must have been kept before
+> **5. Entry.** Prior standing at the School of the Oath. Something must have been kept before
 > something may be changed, and the order is not stylistic.
 >
-> **6. A word from the Head:** the designs hold. I ask first now, which I did not for nineteen
+> **6. A word from the Head.** The designs hold. I ask first now, which I did not for nineteen
 > years. In practice I remain slower at asking than at designing, and the asking takes an
 > afternoon.
 >

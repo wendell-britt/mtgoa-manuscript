@@ -43,8 +43,11 @@ MS = os.path.join(HERE, os.pardir, "manuscript")
 # stripped, so it was not the cause of anything; stripping them is correct regardless, because
 # an admissions page and a treatise signature are not the chapter's prose and are governed by
 # HEAD_VOICE_DIAL rather than by this baseline.
+# HANDBOOK left this list 2026-09-10. Wendell: "Boxed records should be scored." When commit
+# 3c160c1 boxed the Heads' records, this strip took Quill's charter off the scored surface and
+# its register ceilings (ruled 2026-07-31) silently stopped measuring anything.
 BLOCK = re.compile(
-    r"\n?\n<!-- (MARGINALIA|EPIGRAPH-BYLINE|POSTCARD|HANDBOOK|SIGNATURE) -->\n"
+    r"\n?\n<!-- (MARGINALIA|EPIGRAPH-BYLINE|POSTCARD|SIGNATURE) -->\n"
     r".*?\n<!-- /\1 -->\n", re.S)
 
 BE     = re.compile(r"\b(is|are|was|were|be|been|being)\b", re.I)
@@ -288,7 +291,9 @@ REGISTERS = {
             # manuscript on Wendell's ruling and the charter's run-in labels took the colon
             # fix, so the anchor moved with the text it points at. The anchor is a pointer,
             # not an exemption — what it guards is unchanged.
-            "start": "**Clause four:**",
+            # Moved again 2026-09-10: the charter is a boxed record now, and boxes are edited
+            # separately, so it carries its proof-line text, `**Clause four.**`.
+            "start": "**Clause four.**",
             "end": "It records no case of a keeper who stopped attempting it either.",
             # RATCHET, ruled by Wendell 2026-07-31. Each ceiling is the measured value of
             # the passage as it stands, on the em-dash budget's rule: it may be lowered when
