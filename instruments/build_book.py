@@ -197,6 +197,22 @@ META_KEY = re.compile(
 # for the reader. The same defect as `Book body` on 2026-08-01, two keys short this time.
 
 
+def nonprinting(lines):
+    """0-based indices of the lines `strip_provenance` removes, for editorial-core v32+.
+
+    `find_line.surfaces()` reads "exactly what prints" and, until 2026-09-10, read these too: the
+    `**Status:**` / `**Authority:**` header lines of seven appendices, scanned as body prose by
+    every instrument. The core asks the project which lines the build drops, and this answers
+    with the same rule `strip_provenance` applies, so the two cannot disagree: META_KEY lines in
+    the header block, the block ending at the first `---` line after line 1.
+    """
+    try:
+        end = lines.index("---", 1)
+    except ValueError:
+        return set()
+    return {i for i in range(end) if META_KEY.match(lines[i])}
+
+
 def strip_provenance(text):
     """Remove editorial metadata from a component's header block."""
     parts = text.split("\n---\n", 1)

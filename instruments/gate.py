@@ -94,245 +94,27 @@ BLOCK = re.compile(
 
 # (name, pattern, flags) — flags matter: andbut and stacks are case-sensitive,
 # and treating them otherwise invents violations that are not there.
-# ---------------------------------------------------------------- the fragment counter
+# ---------------------------------------------------------------- the fragment counter, retired
 #
-# Added 2026-09-01, on Wendell's ruling that the ban reaches the manuscript.
+# RETIRED 2026-09-10, instrument reconciliation step 2 (ruled and ratified that day). Wendell's
+# ban stands: a fragment is still a defect everywhere in the book. What changed is the counter.
 #
-# The house constraint used to read "fragments carry beats, never claims, and only in
-# landing position." He revoked the whole clause, the word included, for being gameable:
-# given a rule that pays out for rhythm, prose drifts toward sounding rhythmic in order
-# to qualify, and the rule ends up protecting the habit it was written to constrain. The
-# rule now has no exception, which is what makes it checkable.
+# This one was copied from `export/voice-kit/tools/voice_lint.py` on 2026-09-01. On the same
+# prose it read 0 while editorial-core's `fragment.py` read 251. Its finite-verb test counted any
+# word of four letters or more ending in -s or -ed as a verb. That let `this`, `days`, `words` and
+# `exchanges` clear real fragments: `Four words each, no explanation.`, `Three exchanges at
+# minimum.`, `Not this one, not yet, not from me.` One rule had two referees. Neither could be
+# trusted alone.
 #
-# This is the one counter here that is a heuristic rather than a pattern, and it is why
-# `score()` accepts a callable. The test is a short sentence with no finite verb.
-# Imperatives are complete sentences and pass; so are sentences carrying a subject pronoun
-# or a quantifier subject. Headings, table cells, list items and citation lines are not
-# scanned, because a bullet list of noun phrases is a list rather than prose.
-#
-# **What it cannot do is separate a main clause from a subordinate one.** "Sixty cards,
-# every one a question you send a friend" is a fragment, and the `send` inside the
-# relative clause hides it. Catching that needs a parser, and the limit is stated here
-# rather than left to be found.
-#
-# Copied from `export/voice-kit/tools/voice_lint.py`, where it was written and where the
-# product repos run it. That is backwards from every other counter here, which the kit
-# copies FROM this file. When one changes, re-copy rather than re-derive.
-
-AUX = set("""am is are was were be been isnt arent wasnt werent
-has have had hasnt havent hadnt do does did dont doesnt didnt
-will would shall should can could may might must wont wouldnt cant couldnt
-shouldnt mustnt cannot lets ive youve weve theyve ill youll well theyll
-im youre were theyre hes shes its thats theres heres
-id hed shed wed youd theyd itd whod""".split())
-
-# High-frequency verbs whose finite forms carry no visible inflection.
-IRREG = set("""go goes went come comes came make makes made take takes took
-get gets got give gives gave say says said see sees saw know knows knew
-think thinks thought find finds found tell tells told become becomes became
-run runs ran read reads keep keeps kept let leave leaves left put puts
-mean means meant hold holds held write writes wrote send sends sent
-sit sits sat stand stands stood cost costs need needs want wants ask asks
-hit shut split spread cast quit bet beat upset bid rid burst
-work works fail fails call calls open opens close closes carry carries carried
-name names named cut cuts fit fits fix fixes hurt set sets show shows shot
-buy buys bought bring brings brought choose chooses chose lose loses lost
-pay pays paid meet meets met hear hears heard feel feels felt
-draw draws drew break breaks broke speak speaks spoke
-build builds built""".split())
-# `build builds built` added 2026-09-10: `Nobody built that as a reference table.` read as
-# verbless because the one form the sentence uses carries no inflection. Same class as the
-# rest of this list.
-
-# An imperative is a complete sentence with no visible subject, and this repo is full of
-# them: "Follow the flinch." "Serve the relationship." "Then wait." Checked in FIRST
-# POSITION ONLY, so a noun use elsewhere still counts as a fragment ("A hard call.").
-BASE_VERBS = set("""ask answer avoid begin bring build buy call carry check choose close
-accept acknowledge act add allow answer apologise apologize apply argue assume audit
-avoid breathe detect exhale execute inhale validate welcome
-belong break
-bring calm cancel change
-claim collect commit compare come count cut decide describe do draw drop end explain fail find finish fix follow
-confirm consider count cover define delete draft drop end explain extend
-enter fill finish focus get give go grow guess handle hear help hold imagine
-keep kill know learn leave let list listen live look lose love make mark match meet
-mention message move name notice note
-adjust deploy feel honor iterate learn locate observe offer open own pause pay perform
-pick picture place play point refactor
-post prefer prepare propose prove pull push put repeat
-quote raise reach read realize record refuse remember remind remove repair repeat
-replace return
-reply return run save say see seek send serve set settle show sit skip solve sort
-sound speak spend split stand start state stay stop suppose switch
-plan prepare protect publish reach share simulate sort state store take talk tell
-test think throw track treat try turn expect
-use wait walk want watch weigh work write
-date""".split())
-# `date` added 2026-09-10 (Appendix H, `Date every version.`): an imperative the first-
-# position check could not see. editorial-core's fragment.py learned the same word the same
-# day, for the same sentence.
-# A sentence opening with a subject pronoun has a subject, and almost certainly a finite
-# verb the inflection tests cannot see ("They also share a scene").
-# Only unambiguous pronouns. "one", "this", "that" are determiners at least as often
-# ("One sitting.", "This rule.") and listing them hides exactly the shape we are after.
-SUBJ_PRONOUNS = set("i you we they he she it who".split())
-# Quantifier subjects take an uninflected verb the same way a plural pronoun does
-# ("Some happen in the external world", "Most people turn back"). Three words minimum,
-# so "Some of them." and "Both true." stay flagged.
-QUANT_SUBJ = set("some most many few several all both others each either neither none people\ntwo three four five six seven eight nine ten rest remainder".split())
-ABBREV = re.compile(r"\b(?:Mr|Mrs|Ms|Dr|Prof|St|Jr|Sr|vs|etc|e\.g|i\.e|No|Fig|Vol|Ch|pp|p|[A-Z])\.\s")
-
-BASE_VERBS |= set("""declare deliver deny design discuss earn edit engage ensure establish
-examine expect face flag force gather grant hand hide hope host include invite join judge
-lead limit log manage map measure mind miss model order pass permit plot praise press
-promise prove provide publish question rate react refer reflect register reject release
-remain rename repeat report request require reserve resist resolve respect respond rest
-restore retain reveal review revise reward risk roll rule satisfy scan score search secure
-select sell separate shape share shift ship sign sketch slow source spare spot spread
-stack stage stick strike study submit suggest supply support surface survive swap sweep
-tag tap target teach tend thank tie time touch trace trade train transfer translate
-trigger trim trust tune type undo unlock update upgrade urge value vary verify view visit
-vote wake warn wave wear welcome win wipe wish withdraw wonder worry wrap yield""".split())
-
-LEAD_ADVERBS = set("""then now so first next also always never please instead again
-still just only rather even simply here there today tomorrow""".split())
-
-# -ing is never finite on its own ("One sitting.", "An evening") — only -ed and -s are.
-INFLECTED = re.compile(r"(?:ed|es|s)$")
-WORDRX = re.compile(r"[A-Za-z][A-Za-z'’-]*")
-SKIPLINE = re.compile(r"^\s*(?:#{1,6}\s|\||[-*+]\s|\d+[.)]\s|!\[|\[!)")
-LINKRX = re.compile(r"\[([^\]]*)\]\([^)]*\)")
-MARKS = re.compile(r"~~|[*_]{1,3}|^\s*>\s?", re.M)
-
-
-def _has_finite_verb(words):
-    for w in words:
-        w = w.lower().replace("'", "").replace("’", "")
-        if w in AUX or w in IRREG:
-            return True
-        if len(w) > 3 and INFLECTED.search(w):
-            return True
-    return False
-
-
-def fragments(text, max_words=12):
-    """Yield (offset, sentence) for sentences with no finite verb.
-
-    Markdown is hard-wrapped, so a sentence routinely spans several source lines and the
-    tail of a wrapped sentence looks exactly like a fragment. Lines are therefore joined
-    into paragraphs first, carrying an index map so the reported offset still points at
-    the real character. Offsets are into `text`, so the caller's line_of() still works.
-    """
-    def scan(buf, idx):
-        # "Ms. G, christine and Tasshin" must not split at the title.
-        buf = ABBREV.sub(lambda m: m.group(0).replace(".", "\u0001"), buf)
-        # Positions come from the separators themselves. This used to advance by
-        # `len(sent) + 1`, assuming one space between sentences; every bare `>` line in a
-        # blockquote adds another, so offsets drifted further down a quoted block and a hit
-        # landed outside its own EXEMPT span (found 2026-09-10 on Appendix H's sample sheet,
-        # where the drift reached seven characters by the last field).
-        seps = list(re.finditer(r"(?<=[.!?])\s+", buf))
-        bounds = zip([0] + [m.end() for m in seps], [m.start() for m in seps] + [len(buf)])
-        for here, end in bounds:
-            sent = buf[here:end].replace("\u0001", ".")
-            here += len(sent) - len(sent.lstrip())
-            sent = sent.strip()
-            if not sent or not sent.endswith((".", "!", "?")):
-                continue
-            words = WORDRX.findall(sent)
-            if not words or len(words) > max_words:
-                continue
-            if not re.search(r"[a-z]", sent):          # ALL-CAPS labels
-                continue
-            if re.match(r"^[\W\d]*§[\w.§\u2013-]*[\W]*$", sent):   # "§4d.", "§5b."
-                continue
-            # A blanked code span at the head of a sentence leaves it starting mid-clause
-            # (", following Publishing Base v0.1..."), which is an artifact, not a fragment.
-            if not re.match(r"^[\"\u201c\u2018'(\[]?[A-Z0-9]", sent):
-                continue
-            if "  " in sent:      # a blanked code span left a gap; the sentence is not whole
-                continue
-            if sent.count("(") != sent.count(")"):     # a split parenthetical
-                continue
-            head = [w.lower() for w in words]
-            # A subject pronoun with anything after it almost always brings a finite verb
-            # the inflection tests cannot see: "From there you play the next move cleanly",
-            # "The rest of the time they interrupt."
-            if any(w in SUBJ_PRONOUNS for w in head[:-1]):
-                continue
-            # A quantifier subject takes an uninflected verb the same way a plural
-            # pronoun does, but only when a verb actually follows it: "the two look
-            # identical" is a clause, "Two people at one keyboard" is not.
-            if any(w in QUANT_SUBJ and head[i + 1] in (BASE_VERBS | IRREG)
-                   for i, w in enumerate(head[:-1])):
-                continue
-            while head and head[0] in LEAD_ADVERBS:
-                head.pop(0)
-            if head and head[0] in BASE_VERBS:         # imperative
-                continue
-            if _has_finite_verb(words):
-                continue
-            yield idx[min(here, len(idx) - 1)], sent
-
-    buf, idx, pos, skipping = "", [], 0, False
-    for line in text.split("\n"):
-        start, pos = pos, pos + len(line) + 1
-        if not line.strip():
-            for hit in scan(buf, idx):
-                yield hit
-            buf, idx, skipping = "", [], False
-            continue
-        # A citation line is a list of link titles, not prose. Two or more links and
-        # little else outside them: skip it.
-        if len(LINKRX.findall(line)) >= 2 and len(LINKRX.sub("", line).strip()) < 40:
-            for hit in scan(buf, idx):
-                yield hit
-            buf, idx, skipping = "", [], True
-            continue
-        if SKIPLINE.match(line):
-            for hit in scan(buf, idx):
-                yield hit
-            buf, idx, skipping = "", [], True
-            continue
-        # A wrapped list item continues on an indented line and is still list, not prose.
-        # Without this, the tail of every wrapped bullet reads as a fragment.
-        if skipping and line[:1].isspace():
-            continue
-        skipping = False
-        clean = MARKS.sub("", LINKRX.sub(r"\1", line))
-        # Rebuild the index map by locating each kept character in the source line.
-        j = 0
-        for ch in clean:
-            k = line.find(ch, j)
-            if k < 0:
-                k = j
-            idx.append(start + k)
-            j = k + 1
-        buf += clean
-        buf += " "
-        idx.append(start + len(line))
-    for hit in scan(buf, idx):
-        yield hit
-
-class _Hit(object):
-    """A regex-match-alike, so a callable counter reports like every other one."""
-
-    def __init__(self, start, text):
-        self._s, self._t = start, text
-
-    def start(self):
-        return self._s
-
-    def end(self):
-        return self._s + len(self._t)
-
-    def group(self, _n=0):
-        return self._t
-
-
-def fragment_hits(text):
-    return [_Hit(off, sent) for off, sent in fragments(text)]
-
+# The referee is now `instruments/fragment.py` (editorial-core v32+). It reads the ledger. Its own
+# false positives were fixed in the same release. This counter's notes moved there:
+#   - the 28 BOXED_NOTES below covered fragment hits only. The 16 boxed fragments core v32 finds
+#     are ledger notes in editorial_exceptions.yaml, under Wendell's boxed-records ruling;
+#   - voice anchor 3 (`At framing a boundary…`) is not a fragment to fragment.py (`framing` is a
+#     verb in the book's lexicon), so it needs no entry;
+#   - Devon's sample sheet in Appendix H is a blockquote. The core never scans a blockquote as
+#     prose, so its ten form-line exemptions need no entries either.
+# The counter's code is in git history (last present at 7ae7dec). The voice kit's copy is unfixed.
 
 COUNTERS = [
     ("andbut", r'(^|[.?!]["“”\'’]? |\*|\*\*|— |; )(And|But) ', re.M),
@@ -380,7 +162,7 @@ COUNTERS = [
     # Scoped to a bracketed run of two or more capitals so ordinary bracketed
     # prose and single-letter references are untouched.
     ("prodtag", r'\[[A-Z][A-Z0-9 →/&—-]{1,40}\]', 0),
-    ("fragment", fragment_hits, 0),
+    # `fragment` retired 2026-09-10; editorial-core's fragment.py is the referee. See above.
 ]
 
 
@@ -390,28 +172,11 @@ COUNTERS = [
 #
 # The alternative was weakening a counter's pattern book-wide, which trades one
 # approved site for an unbounded number of unapproved ones.
-_FORM = ("2026-09-10 — Appendix H, Devon's filled-in sample sheet. The file's own typesetting "
-         "note sets it as a form with boxed fields; a field label and its value are the form, "
-         "not prose. Same reason editorial-core's fragment.py exempts copyright and "
-         "acknowledgements. Pipeline ruling under the ratified fragment-ban reconciliation; "
-         "Wendell to ratify.")
-
+#
+# The eleven `fragment` entries that stood here (voice anchor 3 and ten form lines of Devon's
+# sample sheet) retired with the counter on 2026-09-10. Neither set is a hit for fragment.py, so
+# neither moved to the ledger; see the retirement note above.
 EXEMPT = [
-    # Voice anchor 3 (specs/VOICE_ANCHOR.md, ch4:115), selected by Wendell 2026-07-31: "Do not
-    # polish these." PR #21's fragment pass rewrote this beat of the anaphora; restored to the
-    # proof line 2026-09-10 under that ruling. A prior ruling, not a pass-time judgement.
-    ("fragment", "At framing a boundary as a preference rather than a line.",
-     "voice anchor 3 (specs/VOICE_ANCHOR.md) — Wendell 2026-07-31: 'Do not polish these.'"),
-    ("fragment", "**Home face.** Diplomat.", _FORM),
-    ("fragment", "**Shadow.** Keeps everybody at the table", _FORM),
-    ("fragment", "**Myth.** Allyship means never causing harm.", _FORM),
-    ("fragment", "**Quest.** The hiring loop at work.", _FORM),
-    ("fragment", "**Daemon.** Fixer/Healer.", _FORM),
-    ("fragment", "**Channel I skip.** Anger.", _FORM),
-    ("fragment", "**Inheritance.** *We do not make a scene.*", _FORM),
-    ("fragment", "**Walk-away price.** A second reorg", _FORM),
-    ("fragment", "**Autopilot pattern.** Diplomat, 5 of 6.", _FORM),
-    ("fragment", "**Superpower.** Reads the temperature", _FORM),
     ("banned",
      "the Sage's question is about rooms rather than about people",
      "2026-07-30 — Laloux entry, Appendix G. Wendell: \"we can leave rooms in this "
@@ -475,36 +240,11 @@ CANON = [
 # line changes and its note stops applying, which is the signal the separate edit has happened.
 BOXED_NOTE = ("boxed record (HANDBOOK): scored, a ledger note, edited separately — "
               "Wendell 2026-09-10")
-BOXED_NOTES = [
-    ('ch3.md', '> name where a feeling shows up in the body before naming what it means. Chest, throat, the back'),
-    ('ch3.md', '> **5. Entry.** None. Everyone begins here, including those who arrive certain they are past'),
-    ('ch3.md', '> **6. A word from the Head.** The reading is not my difficulty any more. What I work on now'),
-    ('ch3.md', '> *Thirty-first session. Jaw, then the back of the neck. I wrote down contempt in the man at the head of the table. Grief, four days old. I did not feel the grief until the funeral.*'),
-    ('ch3.md', '> *Sessions thirty-two through four hundred and six. Chest: nothing. Throat: nothing. Hands: nothing. Three years of nothing, in my own handwriting, four hundred entries.*'),
-    ('ch3.md', '> *Present session. Jaw, at the word correctly. The reading came back better than it was. What I am working now is what it costs a person to be read accurately by somebody they did not ask.*'),
-    ('ch4.md', '> you, and done nothing, and known at the time you were doing nothing. Both. Applicants with'),
-    ('ch4.md', '> **5. Entry.** You must be able to say what you felt in the last moment you said nothing. Not'),
-    ('ch4.md', '> **6. A word from the Head.** The lines hold now. What I am working is the four seconds after'),
-    ('ch5.md', '> **Clause one.** Each school shall produce an account of itself for those considering entry.'),
-    ('ch5.md', '> **Clause two, admission.** Two conditions, both required. First, that the applicant has'),
-    ('ch5.md', '> **Clause six, entry.** Prior standing at the School of the Line is required. One must be'),
-    ('ch5.md', '> **Clause five.** *A body that declines to hold a role will be held by whoever is willing to hold it, and that person will not have been selected.*'),
-    ('ch5.md', '> *Second note. Three crises are typical and their shapes are stable enough to record. At the first the body adapts, and the adaptation is cited afterward as proof that no structure was needed. At the second it closes ranks. At the third its members are found arguing the first crisis again from new positions, with no record of what the first argument had been for, because nobody was charged with keeping one.*'),
-    ('ch5.md', '> *Third note. Members who could name the pattern in advance are present in most cases. The register carries their accounts. They report having said something careful, and having said less than they knew, on the ground that the whole of it would have been heard as an application for the crown. Merrow filed these accounts under insufficient courage. They are refiled under correct reading, withheld, and the refiling is the more accurate of the two.*'),
-    ('ch5.md', '> **Clause six.** *An inheritance offered before it is wanted is not an inheritance. It is an opinion.*'),
-    ('ch5.md', '> *Second note. Two households withdrew from the practice. One has not returned. The practice that replaced it has run forty years and the other household sends its children to it.*'),
-    ('ch6.md', '> *Admissions. Specification 0.1.*'),
-    ('ch6.md', '> produces. Not the person standing at that point. The point. In practice the consequence'),
-    ('ch6.md', '> **4. Not taught.** Disposition of the person the redesign will not reach in time. There is'),
-    ('ch6.md', '> **5. Entry.** Prior standing at the School of the Oath. Something must have been kept before'),
-    ('ch6.md', '> **6. A word from the Head.** The designs hold. I ask first now, which I did not for nineteen'),
-    ('ch7.md', '> **3. What it costs.** Acknowledgement. A student once put it this way at the end of her'),
-    ('ch7.md', '> **5. Entry.** Prior standing at the School of the Pattern. The design producing the pressure'),
-    ('ch7.md', '> **6. A word from the Head.** The terms hold. Whether wanting the sentence is a defect in me'),
-    ('ch8.md', '> **4. What we do not teach.** Any of it. We do not teach the reading, the line, the keeping,'),
-    ('ch8.md', '> **5. Entry.** Standing at all five. There is no way to shorten this and we are asked every'),
-    ('ch8.md', '> **6. A word from the Head.** I have read all five schools for thirty years and nobody has'),
-]
+# EMPTIED 2026-09-10 with the fragment counter's retirement. All 28 notes that stood here
+# covered fragment hits and nothing else; the boxed fragments are now ledger notes read by
+# fragment.py. The mechanism stays: a hit by any remaining counter inside a box is still a
+# note under the same ruling, and belongs here, keyed on its whole boxed line.
+BOXED_NOTES = []
 
 
 def exempt_spans(text, counter):

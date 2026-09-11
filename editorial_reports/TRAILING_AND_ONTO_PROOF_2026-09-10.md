@@ -34,8 +34,10 @@ were counted as distinct flagged sentences, and polysyndeton and slop_shapes as 
 with the final ledger applied. The table above re-measures the commits themselves, in hits.
 
 **No hit rose at any line.** Each scanner's hits were compared per `file:line` between the two
-clean copies, with the ledger set aside on the after side so that accepted hits count too:
-zero locations rose on any of the six. All five voice anchors are byte-identical to the proof
+clean copies, accepted hits included: zero locations rose on any of the six. *(First measured
+with `--keys`, which lists a repeated sentence once and so cannot see it appear somewhere new.
+Re-run in step 2 on every site, repeats included: still zero. See
+`FRAGMENT_REFEREE_2026-09-10.md`.)* All five voice anchors are byte-identical to the proof
 line.
 
 ## Boxed records — the ruling applied

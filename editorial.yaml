@@ -46,6 +46,12 @@ pass:
   - telling
   - light_verb
 
+# Components in the spine that are apparatus, not prose. Ruled 2026-09-10 (instrument
+# reconciliation, step 2): the index is a list of terms and page pointers, and fragment.py read
+# its 50 entries as 50 verbless sentences. Read by editorial-core's find_line (`exclude:`).
+exclude:
+  - "back_matter/index.md"
+
 # Instruments welded to this book's ontology; they do not travel to other projects.
 project_only:
   - agency_grep

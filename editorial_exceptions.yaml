@@ -399,7 +399,55 @@ trailing_and:
   reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
     records should be scored, but those should be ledger notes because they have to be edited separately.'''
 light_verb: []
-fragment: []
+fragment:
+- quote: '**THE SCHOOL OF THE BODY** *Admissions.'
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: Entry.** None.
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: '*Thirty-first session.'
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: Grief, four days old.
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: 'Chest: nothing.'
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: 'Throat: nothing.'
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: Jaw, at the word correctly.
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: '**THE SCHOOL OF THE LINE** *Admissions.'
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: '**THE SCHOOL OF THE OATH** *Admissions.'
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: '*Clause nine.'
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: '*Case forty-one.'
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: '**THE SCHOOL OF THE HORIZON** *Admissions.'
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: Sera Quill, Keeper of Continuance, Head of the School of the Oath
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: Specification 0.1.*
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: Both transcripts, hers first.*
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: Thalen Orr, Keeper of the Far Game, Head of the School of the Horizon
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
 gate: []
 slop_shapes:
 - quote: When the dust settled, the Regent was gone, not exiled exactly, but *retired.* The villagers
