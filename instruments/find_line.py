@@ -53,6 +53,22 @@ def _load_build_book():
 
 bb = _load_build_book()
 
+
+def _load_profile():
+    """The manifest reader, or None where the project has no editorial.yaml."""
+    try:
+        spec = importlib.util.spec_from_file_location(
+            "profile", os.path.join(HERE, "profile.py"))
+        mod = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(mod)
+        return mod if mod.exists() else None
+    except Exception:
+        return None
+
+
+_prof = _load_profile()
+SCORED_FRAMES = set(_prof.scored_frames([]) if _prof and hasattr(_prof, "scored_frames") else [])
+
 # What a typesetter does to a line on the way to the page, undone.
 FOLD = {
     "‘": "'", "’": "'", "“": '"', "”": '"',
@@ -63,6 +79,65 @@ FOLD = {
 FRAME_OPEN = re.compile(r"<!-- (MARGINALIA|EPIGRAPH-BYLINE|HANDBOOK|SIGNATURE|POSTCARD) -->")
 FRAME_CLOSE = re.compile(r"<!-- /(MARGINALIA|EPIGRAPH-BYLINE|HANDBOOK|SIGNATURE|POSTCARD) -->")
 
+# ── What counts as prose in a component file ────────────────────────────────────
+#
+# FIXED 2026-09-09. `surfaces()` read every line of every component, so YAML front
+# matter and any editorial apparatus in the same file were scanned as prose by every
+# instrument on the board. `fragment` made it visible the hour it was switched on —
+# `title: "Appendix C: Petition of Candidature" number: 91 pov: kuiper` counted as a
+# fragment — but the leak was never specific to fragment: gate, telling, light_verb
+# and trailing_and had all been counting it.
+#
+# `draft_lines.body_of` had blanked front matter since the start. Book mode, the mode
+# that gates the board, was the one still reading it.
+#
+# Front matter is universal, so it is handled here. Where the prose sits inside a
+# larger file is the project's business, declared as `prose_section:` in the manifest:
+#
+#     prose_section:
+#       begin: "## Chapter Text"     # scanning starts on the line AFTER this
+#       end:   "## Notes"            # and stops on the line BEFORE this
+#
+# A project that declares nothing keeps the old whole-file behaviour, and a component
+# missing the `begin` marker is scanned whole rather than silently skipped — an
+# unscanned chapter is a worse failure than an over-scanned one.
+FRONT_FENCE = re.compile(r"^---\s*$")
+
+# A fenced code block is not prose. `draft_lines.surfaces()` has skipped these since it was
+# written; `find_line.surfaces()` never did — the same draft-clean / book-leaky asymmetry as the
+# front-matter bug fixed earlier on 2026-09-09, and from the same cause: two code paths for
+# reading prose, one of them treated.
+#
+# Found by the third install (Flirtcraft, 2026-09-09), which is a project with shell commands in
+# its writing guide. A book rarely contains a code block, so two consumers could not surface this
+# and a third did on contact.
+CODE_FENCE = re.compile(r"^\s*```")
+
+# A whole-line HTML comment that is not a frame marker (`<!-- SECTION 3 -->`, `<!-- LETTER -->`)
+# never prints. Added v32, 2026-09-10: MTGOA's section markers were 60 of fragment.py's 251 hits,
+# each `<!-- SECTION N -->` read as a four-word sentence with no verb. `draft_lines.prose()` has
+# dropped `<` lines since it was written; book mode never did. Frame markers are matched first
+# and keep their meaning.
+COMMENT_LINE = re.compile(r"^\s*<!--.*-->\s*$")
+
+# WHAT THE PROJECT'S BUILD DROPS ON THE WAY TO THE PAGE, added v32, 2026-09-10.
+#
+# `surfaces()` says it reads "exactly what prints", and it read editorial metadata that never
+# does. MTGOA's appendices open with `**Status:**`, `**Authority:**` and `**Location in book:**`
+# lines that `build_book.strip_provenance` removes before typesetting: 19 lines, every one of them
+# scanned as body prose by every instrument. One became a "fragment": `De-somatized per the
+# no-somatic-prescription directive.`, the tail of a production note.
+#
+# Which lines are provenance is the project's business, so the core asks rather than guesses: if
+# the project's `build_book.py` defines `nonprinting(lines)`, returning 0-based indices of lines
+# the build removes, those lines are blanked here. A project without the hook scans as before.
+_NONPRINT = getattr(bb, "nonprinting", None)
+
+
+def _nonprinting(lines):
+    """0-based indices of `lines` the project's build removes, or an empty set."""
+    return set(_NONPRINT(lines)) if _NONPRINT else set()
+
 
 def fold(text):
     for a, b in FOLD.items():
@@ -72,29 +147,150 @@ def fold(text):
     return re.sub(r"\s+", " ", text).strip().lower()
 
 
+def prose_text(path):
+    """One component's PROSE, front matter and apparatus blanked, line numbers preserved.
+
+    Public because gate.py reads component files directly rather than through surfaces(), so it
+    did not inherit the 2026-09-09 scoping fix. The selftest caught it: a fixture whose front
+    matter read `title: Fixture` was being counted as prose. Blanked rather than cut, so a
+    reported line number keeps pointing at the real file.
+    """
+    lines = io.open(path, encoding="utf-8").read().split("\n")
+    first, last = prose_span(lines)
+    drop = _nonprinting(lines)
+    out, fenced = [], False
+    for i, l in enumerate(lines):
+        if not (first <= i < last) or i in drop:
+            out.append("")
+            continue
+        if COMMENT_LINE.match(l) and not (FRAME_OPEN.search(l) or FRAME_CLOSE.search(l)):
+            out.append("")
+            continue
+        if CODE_FENCE.match(l):
+            fenced = not fenced
+            out.append("")
+            continue
+        out.append("" if fenced else l)
+    return "\n".join(out)
+
+
+def prose_span(lines):
+    """(first, last) 0-based indices of the prose in one component's lines.
+
+    Strips YAML front matter always, and narrows to the manifest's `prose_section`
+    when one is declared and its `begin` marker is present. See the note above.
+    """
+    first, last = 0, len(lines)
+
+    # Front matter: a `---` fence on line 1, up to the next one.
+    if lines and FRONT_FENCE.match(lines[0]):
+        for i in range(1, len(lines)):
+            if FRONT_FENCE.match(lines[i]):
+                first = i + 1
+                break
+
+    sec = _prof.prose_section() if _prof else None
+    if not sec:
+        return first, last
+
+    begin, end = sec.get("begin"), sec.get("end")
+    if begin:
+        for i in range(first, last):
+            if lines[i].strip() == begin:
+                first = i + 1
+                break
+        else:
+            return first, last      # marker absent: scan the component whole
+    if end:
+        for i in range(first, last):
+            if lines[i].strip() == end:
+                last = i
+                break
+    return first, last
+
+
 def surfaces():
     """Every printed line, with where it is and which voice it is in."""
     out = []
     for kind, label, rel, level in bb.SPINE:
-        if rel is None:
+        if rel is None or _excluded(rel):
             continue
         path = os.path.join(ROOT, rel)
         if not os.path.exists(path):
             continue
-        depth = 0
-        for n, raw in enumerate(io.open(path, encoding="utf-8"), 1):
-            line = raw.rstrip("\n")
-            if FRAME_OPEN.search(line):
+        lines = io.open(path, encoding="utf-8").read().split("\n")
+        first, last = prose_span(lines)
+        drop = _nonprinting(lines)
+        depth, fenced, frames = 0, False, []
+        for i in range(first, last):
+            line = lines[i]
+            n = i + 1                       # 1-based, still the real file line
+            if i in drop:
+                continue
+            if CODE_FENCE.match(line):
+                fenced = not fenced
+                continue
+            if fenced:
+                continue
+            m = FRAME_OPEN.search(line)
+            if m:
                 depth += 1
+                frames.append(m.group(1))
                 continue
             if FRAME_CLOSE.search(line):
                 depth = max(0, depth - 1)
+                frames = frames[:-1]
                 continue
-            if not line.strip():
+            if not line.strip() or COMMENT_LINE.match(line):
+                continue
+            # A scored frame (the manifest's `scored_frames:`) is read as body prose: the box
+            # prefix comes off, a bare `>` spacer is a paragraph gap, and the record says
+            # `boxed` so its hits are ledgered as notes rather than rewritten. See profile.
+            if depth and frames and frames[-1] in SCORED_FRAMES:
+                text = re.sub(r"^\s*>\s?", "", line)
+                if not text.strip():
+                    continue
+                out.append({"label": label, "rel": rel, "line": n, "surface": "body",
+                            "boxed": frames[-1], "text": text, "key": fold(text)})
                 continue
             out.append({"label": label, "rel": rel, "line": n,
                         "surface": "margin" if depth else "body",
                         "text": line, "key": fold(line)})
+    return out
+
+
+def _excluded(rel):
+    """Does this component match an `exclude:` glob in the manifest?
+
+    Added 2026-09-09 by the third install. `prose_section` scopes apparatus INSIDE a file; this
+    scopes out a whole file. Flirtcraft keeps its card decks and its authoring guide in the same
+    directory, and 15 of that project's first 18 hits were the guide — a board made almost
+    entirely of text nobody will ever read. A glob narrow enough to exclude it by hand breaks the
+    moment a card is added, which is how a corpus definition rots.
+    """
+    import fnmatch
+    for pat in (_prof.exclude() if _prof and hasattr(_prof, "exclude") else []):
+        if fnmatch.fnmatch(rel, pat) or fnmatch.fnmatch(os.path.basename(rel), pat):
+            return True
+    return False
+
+
+def corpus_paths():
+    """The files that make up the book as `(kind, path)` in spine order — the one corpus
+    definition every instrument shares. `kind` is the spine's component type ("chapter",
+    "appendix", "front", "back", "component"), which lets a caller bucket without hardcoding a
+    directory name. It comes from build_book.SPINE: for a real book that is the typeset
+    spine (accurate, shipping-only — no backups, retired drafts or unshipped appendices); for a
+    generic project it is the SPINE build_book builds from editorial.yaml's `corpus` globs. Either
+    way an instrument that calls this scans exactly what telling/trailing_and/etc. scan, in any
+    project, instead of globbing a hardcoded `manuscript/` that another book does not have."""
+    out = []
+    for kind, _label, rel, _level in bb.SPINE:
+        if not rel or _excluded(rel):
+            continue
+        p = os.path.join(ROOT, rel)
+        if os.path.exists(p):
+            out.append((kind, p))
     return out
 
 

@@ -1,23 +1,23 @@
 # Appendix F: The Polarity Map
 
-**Location in book:** After Appendix E; before Appendix G (the bibliography). Toolkit cluster (C/D/E/F). Letter locked 2026-06-03 in the appendix-ordering pass and unaffected by the 2026-07-29 retirement of Key Terms.
+**Location in book:** it sits after Appendix E and before Appendix G (the bibliography), in the toolkit cluster (C/D/E/F). Letter locked 2026-06-03 in the appendix-ordering pass and unaffected by the 2026-07-29 retirement of Key Terms.
 
 
 *You met this tool in Chapter 3 and drew your first axis there, then drew another in every chapter after, and ran it in a live field in Chapter 7. This is the full version — the one to come back to when a decision keeps refusing to resolve and you start to suspect it was never a decision at all.*
 
-*The tool is Barry Johnson's. His term is polarity management, and the distinction it rests on — that some tensions are problems to solve and others are pairs to hold — is his. Appendix G says where to read him.*
+*The tool is Barry Johnson's. His term is polarity management. The distinction it rests on — that some tensions are problems to solve and others are pairs to hold — is his too. Appendix G says where to read him.*
 
 ---
 
 ## When to reach for it
 
-You have three tools for a stuck moment, and they are not interchangeable.
+You have three tools for a stuck moment, none of them interchangeable.
 
 - Use **3-2-1** when the trigger is a *person* — someone whose behavior you keep replaying.
 - Use **WAVE** when a charge is already moving in you and ready to act.
 - Use the **Polarity Map** when you are torn between two positions that both seem right, and the picking is what's exhausting you.
 
-The tell that you're in a polarity and not a problem: you solve it, and within a week you're solving it again from the other direction. A problem has a solution and stays solved. A polarity is a tension between two genuine goods — and the work is never to win it. The work is to hold both without letting either eat the other.
+The tell that you're in a polarity and not a problem: you solve it, and within a week you're solving it again from the other direction. A problem has a solution and stays solved. A polarity is a tension between two genuine goods, so the work is never to win it. The work is to hold both without letting either eat the other.
 
 The pair changes with altitude. The map doesn't.
 
@@ -29,9 +29,9 @@ The pair changes with altitude. The map doesn't.
 
 *The dot is where you are.*
 
-**1. Name the charge.** The specific scene, not the abstract issue. "Yesterday's meeting when I said nothing," not "speaking up at work."
+**1. Name the charge.** Use the specific scene rather than the abstract issue. "Yesterday's meeting when I said nothing," not "speaking up at work."
 
-**2. Name the two poles.** Both legitimate. Both actions you could actually *do* in ten minutes — not values, behaviors. If a pole isn't actionable, you've named a virtue, not a pole. Try again.
+**2. Name the two poles.** Both are legitimate actions you could actually *do* in ten minutes, rather than values. If a pole isn't actionable, you've named a virtue, not a pole. Try again.
 
 **3. Mark your position.** Put the dot where you actually are this week — which pole are you over-expressing, which are you starving? The dot is a diagnostic, not a verdict. You're allowed to move it tomorrow; that's the point.
 

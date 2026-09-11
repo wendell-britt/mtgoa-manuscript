@@ -166,7 +166,7 @@ that it works.*"""),
 not believe anybody should be handed the shortcut before they have felt why it is one.*
 
 *I disagree, which is why I have told you where it is.*"""),
-("### The Shaman's Superpower: Knowing Which Move to Make", """*The first time I named a charge out loud in a company that had agreed not to, I got it wrong. Badly
+("### The Shaman's Superpower: Knowing Which Move to Make", """*The first time I named a charge out loud in a company that had agreed not to, I got it wrong, and badly
 wrong. I named grief and it was rage. Eleven people corrected me, at some volume.*
 
 *It worked anyway. That is the part nobody warns you about — the company opened regardless: somebody had been
@@ -235,7 +235,7 @@ Heads believe it predates the ship, which it cannot, because we invented it in t
 I was there and I remember the argument about the candles.*
 
 *It is the best-attended ceremony we have. I have stopped correcting people.*"""),
-("what you were holding was you", """*Sera does this. Not the repair half — the second one. She is the reason four separate systems on
+("what you were holding was you", """*Sera does this — not the repair half but the second one. She is the reason four separate systems on
 this ship still function, none of them written down, all of them in her head, and she will tell
 you she is simply the person who happens to remember.*
 
@@ -308,7 +308,7 @@ without the step. I built several. They were elaborate. One of them had stages.*
 *Corin read it and asked how many of the stages were about the other person. Then: "You are
 working very hard at not having to get good at something."*"""),
 ("The Victim decides something none of them touch", """*I found out a friend was going through something, and my first clear feeling was relief that she
-had told me and not somebody else. Not concern. Relief — and underneath it a small satisfaction
+had told me and not somebody else. It was not concern. Relief — and underneath it a small satisfaction
 that was entirely about my standing and not at all about her.*
 
 *I have looked at that from several angles since. It is still what it is.*"""),
@@ -316,7 +316,7 @@ that was entirely about my standing and not at all about her.*
 before the conversation rather than during it. The other half you will find that you do, and that
 you have known it for months, which is worse and more useful.*
 
-*Either way — say it to yourself in one sentence before you go in. Not to decide anything. Only to
+*Either way — say it to yourself in one sentence before you go in, not to decide anything. Only to
 find out which half you are in.*"""),
 ("<!-- SECTION 7 -->", """*The school keeps one space set aside for conversations that need terms stated. It is bookable. It
 has good chairs, a window, and a jug of water somebody refills.*
@@ -410,7 +410,7 @@ because I brought it with me. I stopped saying it the old way about twenty years
 student asked me where I was from and I gave her the school instead of the answer. It was easier.
 I have given the school every time since.*
 
-*Home. I have gone this far without the word and I would have gone the rest of the way.*
+*This is home. I have gone this far without the word and I would have gone the rest of the way.*
 
 *I am fine. I want that in my own hand, since six people have now put the opposite in writing and
 been courteous about it. I am fine, and I am still paying for this, and both are true on the same

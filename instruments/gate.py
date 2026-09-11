@@ -32,9 +32,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, os.pardir)
 
 
-def _load_profile():
+def _load_mod(name):
     try:
-        spec = importlib.util.spec_from_file_location("profile", os.path.join(HERE, "profile.py"))
+        spec = importlib.util.spec_from_file_location(name, os.path.join(HERE, name + ".py"))
         mod = importlib.util.module_from_spec(spec)
         spec.loader.exec_module(mod)
         return mod
@@ -42,33 +42,46 @@ def _load_profile():
         return None
 
 
-_profile = _load_profile()
+_profile = _load_mod("profile")
+_fl = _load_mod("find_line")
+_exc = _load_mod("exceptions")
+
+
+def _sentence_at(text, pos):
+    """The sentence holding offset `pos`.
+
+    gate scores whole concatenated surfaces rather than sentences, so a hit arrives as an offset.
+    The exceptions ledger keys on the sentence, so a hit has to be resolved back to one before it
+    can be accepted. Boundaries are the nearest sentence end or line break on each side, which is
+    the same coarse split the other scanners use."""
+    left = max(text.rfind(". ", 0, pos), text.rfind("\n", 0, pos), text.rfind("! ", 0, pos),
+               text.rfind("? ", 0, pos))
+    start = 0 if left < 0 else left + 1
+    ends = [e for e in (text.find(". ", pos), text.find("\n", pos)) if e >= 0]
+    end = min(ends) + 1 if ends else len(text)
+    return " ".join(text[start:end].split())
 
 # The banned voice words are this project's profile, read from editorial.yaml when present and
 # falling back to the historical hardcoded list otherwise (see profile.py). The fragments are
 # wrapped in word boundaries here, exactly as the old inline pattern was.
-_BANNED_DEFAULT = ["rooms?", "quiet(ly|er|est)?", "genuinely", "things?"]
+# EMPTIED 2026-09-09. This list used to hold ["rooms?", "quiet(ly|er|est)?", "genuinely",
+# "things?"] — which are *Mastering the Game of Allyship*'s voice decisions, sitting in the core
+# as the default every project inherits. The selftest caught it the hour it was written: a
+# throwaway project with no voice rules at all failed `gate` on the word "room".
+#
+# **A banned word is the most project-specific thing in the pipeline.** It belongs in
+# `editorial.yaml`, and a project that declares none has none. Both current consumers declare
+# their own lists, so emptying this changed neither of their counts.
+_BANNED_DEFAULT = []
 _banned = _profile.banned(_BANNED_DEFAULT) if _profile else _BANNED_DEFAULT
-BANNED_PATTERN = r'|'.join(r'\b(?:%s)\b' % frag for frag in _banned)
+# `(?!)` never matches. Without it an empty list joins to the EMPTY pattern, which matches at
+# every position — a project declaring `banned: []` scored 344 phantom hits on six lines of
+# clean prose. Found by selftest.py the same hour _BANNED_DEFAULT was emptied.
+BANNED_PATTERN = (r'|'.join(r'\b(?:%s)\b' % frag for frag in _banned)) if _banned else r'(?!)' 
+# Only the last-resort fallback glob (when no spine/manifest is available) still needs this.
+# What ships is now the spine's business, not a list maintained here — find_line.corpus_paths()
+# returns the accurate shipping set, so a retired draft or a backup file cannot leak into the scan.
 MS = os.path.join(ROOT, "manuscript")
-APX = os.path.join(ROOT, "appendices")
-
-# The appendices that ship. Everything else in appendices/ is a backup, an
-# architecture decision record, or a review artifact, and is not printed.
-SHIPPING_APPENDICES = [
-    "APPENDIX_A_FOUR_ALLYSHIP_DOMAINS.md",
-    "APPENDIX_B_QUESTS_CAMPAIGNS.md",
-    "APPENDIX_C_FIVE_CHANNELS.md",   # C changed hands 2026-07-30 by Wendell's
-                                     # ruling; the Key Terms glossary is retired
-    "APPENDIX_D_EMOTIONAL_ALCHEMY_PRACTICES.md",
-    "APPENDIX_E_321_SHADOW_PROCESS.md",
-    "APPENDIX_F_POLARITY_MAP.md",
-    "ON_THE_SHOULDERS_OF.md",
-    # H and I are GAP-level on build_book.SPINE and print with the rest. H was missing
-    # here since it was written, so the book-wide gate never read it; both added 2026-09-09.
-    "APPENDIX_H_CHARACTER_SHEET.md",
-    "APPENDIX_I_SUPERPOWERS.md",
-]
 BLOCK = re.compile(
     r"<!-- (MARGINALIA|EPIGRAPH-BYLINE|POSTCARD) -->\n(.*?)\n<!-- /\1 -->", re.S)
 
@@ -123,70 +136,28 @@ COUNTERS = [
 ]
 
 
-# Sentence-level exemptions, each one ruled by Wendell on a named date. Keyed on the
-# exact sentence rather than the word, so an exemption cannot silently spread: change
-# the sentence and the exemption stops applying, which is the behaviour we want.
+# Sentence- and name-level exemptions are the PROJECT's, declared in the manifest (v32,
+# 2026-09-11). Each is `{counter, phrase, reason}`; a counter ignores any span where `phrase`
+# occurs. Two conventions, both carried here as data:
 #
-# The alternative was weakening a counter's pattern book-wide, which trades one
-# approved site for an unbounded number of unapproved ones.
-EXEMPT = [
-    ("banned",
-     "the Sage's question is about rooms rather than about people",
-     "2026-07-30 — Laloux entry, Appendix G. Wendell: \"we can leave rooms in this "
-     "example. It's not load bearing.\""),
-]
-
-
-# CANON is not EXEMPT, and the difference is the reason there are two lists.
+#   EXEMPT approves one SENTENCE, keyed on the whole sentence so an approval cannot spread — right
+#   for a one-off (MTGOA's Laloux `rooms` line).
+#   CANON approves a NAME that recurs — a move title or a thesis — so keying on one sentence would
+#   mean re-approving it in every chapter that cites it (MTGOA's `thing` theses).
 #
-# EXEMPT approves one sentence. It is keyed on the whole sentence precisely so an approval
-# cannot spread, which is right for a one-off like the Laloux `rooms` line.
-#
-# CANON approves a NAME. A named move keeps its name everywhere it appears, so keying on a
-# sentence would mean re-approving the same title in every chapter that cites it. Each
-# entry below is a ruling by Wendell on 2026-08-03, and each is a title or a thesis rather
-# than a sentence somebody happened to write.
-CANON = [
-    # RETIRED 2026-08-07. Three CANON entries lived here exempting ch3's Move 5 from
-    # the `thing` ban. Wendell, reversing the 2026-08-03 "option b, keep the move name"
-    # ruling: "this should've already been ruled on and changed." The exemption was
-    # holding the book's most-repeated banned word in place as its own move name, twice
-    # in one title, while every other site in the manuscript was swept to zero. The move
-    # is `Say the Unsaid Charge` now, which needs no exemption. ch3 already used "the
-    # unsaid charge" three times for the same referent before the rename.
-    ("banned", "Run It Again With One Thing Changed",
-     "ch9 Move 4."),
-    ("banned", "Run it again with one thing changed",
-     "the same move in ch9's recaps at 576 and 590."),
-    ("banned", "Right Thing the Easy Thing",
-     "ch6's chapter subtitle. Wendell 2026-08-03: \"keep the right thing the easy thing.\""),
-    ("banned", "right thing",
-     "the Architect's thesis. Quoted three times inside ch6, once from ch5's closing "
-     "handoff and twice in ch9 — a thesis rather than a heading, which is why it is here "
-     "and not in EXEMPT."),
-    ("banned", "easy thing",
-     "the second half of the same thesis."),
-    ("banned", "the right thing becomes the thing that actually gets done",
-     "ch6:197, the thesis stated as a question. The second `thing` is inside the formula."),
-    # The strongest exemption in the sweep, because the sentence diagnoses the placeholder.
-    ("banned", "*This is my thing*",
-     "ch8:769. Quoted self-talk that the chapter is convicting: \"It's a category that "
-     "swallows all five, and once it's on the table nothing gets named specifically enough "
-     "to move.\" The vagueness IS the diagnosis; naming it would destroy the specimen. "
-     "FLAGGED as my judgement rather than Wendell's ruling."),
-    ("banned", "not *my thing.*",
-     "ch8:779, the same specimen in the recap."),
-    ("banned", "you lose the things that told you who you were",
-     "ch1:54. Ruled an exception by Wendell 2026-08-03. It survives on the rule rather "
-     "than on precedent: the sentence before supplies the referent — \"The game hands you "
-     "every bit of it\" — so the definite article has a real antecedent."),
+# Until v32 MTGOA's own exemptions lived here as hardcoded lists, so every other book carried
+# them. They move to `gate_exceptions:` in the manifest; a project that declares none runs the bare
+# gate. See profile.gate_exceptions.
+GATE_EXCEPTIONS = [
+    (e["counter"], e["phrase"], e.get("reason", ""))
+    for e in (_profile.gate_exceptions([]) if _profile else [])
 ]
 
 
 def exempt_spans(text, counter):
     """Character spans in `text` that this counter must ignore."""
     spans = []
-    for name, phrase, _reason in EXEMPT + CANON:
+    for name, phrase, _reason in GATE_EXCEPTIONS:
         if name != counter:
             continue
         i = text.find(phrase)
@@ -237,27 +208,31 @@ def main():
     if paths:
         return report(draft_surfaces(paths), verbose)
 
-    files = sorted(glob.glob(os.path.join(MS, "ch*.md")),
-                   key=lambda f: int(re.search(r"ch(\d+)", os.path.basename(f)).group(1)))
+    # The corpus is the shared spine (find_line.corpus_paths), not a hardcoded manuscript glob,
+    # so gate scans exactly what the rest of the pipeline scans — the accurate shipping set, no
+    # retired drafts or backups — and travels to a project whose prose is not under manuscript/.
+    # Bucket by the spine's `kind`, which is portable; fall back to the old glob only if the spine
+    # is unavailable (no build_book / manifest).
+    corpus = _fl.corpus_paths() if _fl else []
+    if not corpus:
+        corpus = [("chapter", f) for f in sorted(glob.glob(os.path.join(MS, "ch*.md")))]
+    no_apx = "--no-appendices" in sys.argv
+
     surfaces = {"body": "", "marginalia": ""}
-    for f in files:
-        b, m = split_surfaces(io.open(f, encoding="utf-8").read())
-        surfaces["body"] += "\n" + b
-        surfaces["marginalia"] += "\n" + m
-
-    if "--no-appendices" not in sys.argv:
-        text = ""
-        for name in SHIPPING_APPENDICES:
-            path = os.path.join(APX, name)
-            if os.path.exists(path):
-                text += "\n" + io.open(path, encoding="utf-8").read()
-        surfaces["appendices"] = text
-
-        matter = ""
-        for d in (os.path.join(ROOT, "front_matter"), os.path.join(ROOT, "back_matter")):
-            for path in sorted(glob.glob(os.path.join(d, "*.md"))):
-                matter += "\n" + io.open(path, encoding="utf-8").read()
-        surfaces["matter"] = matter
+    for kind, f in corpus:
+        # Through find_line, so gate honours `prose_section` and the front-matter strip like
+        # every other instrument.
+        text = _fl.prose_text(f) if _fl else io.open(f, encoding="utf-8").read()
+        if kind == "chapter":
+            b, m = split_surfaces(text)
+            surfaces["body"] += "\n" + b
+            surfaces["marginalia"] += "\n" + m
+        elif no_apx:
+            continue
+        elif kind == "appendix":
+            surfaces["appendices"] = surfaces.get("appendices", "") + "\n" + text
+        else:  # front, back, component — other shipped text, scanned for the same violations
+            surfaces["matter"] = surfaces.get("matter", "") + "\n" + text
 
     return report(surfaces, verbose)
 
@@ -282,9 +257,26 @@ def report(surfaces, verbose):
                     print("\n%s [%s] %r\n    …%s…" % (label, name, m.group(0).strip(), ctx.strip()))
         print()
 
+    # Every hit, resolved to the sentence that holds it — the unit the exceptions ledger keys on,
+    # so a banned word inside a quotation can be accepted once instead of argued with every run.
+    hits = []
+    for label, text in surfaces.items():
+        for name, ms in score(text):
+            for m in ms:
+                hits.append(_sentence_at(text, m.start()))
+    if "--keys" in sys.argv:
+        # gate concatenates surfaces, so it has no line number to offer — the surface label is
+        # the most it honestly knows. The key is what matters; the location is a convenience.
+        return _exc.emit_keys("gate", [("body", s) for s in hits]) if _exc else 0
+    kept = [s for s in hits if _exc and _exc.is_accepted("gate", s)]
+    unresolved = len(hits) - len(kept)
+    target = _profile.target("gate", 0) if _profile else 0
+
     print("GATE PASS — every counter reads 0" if total == 0
           else "GATE FAIL — %d hit(s). Re-run with -v to see them." % total)
-    return 0 if total == 0 else 1
+    print("EDITORIAL gate unresolved=%d accepted=%d total=%d target=%d stale=%d"
+          % (unresolved, len(kept), len(hits), target, len(_exc.stale("gate")) if _exc else 0))
+    return 0 if unresolved <= target else 1
 
 
 if __name__ == "__main__":

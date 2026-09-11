@@ -489,7 +489,7 @@ claims:
       - {file: manuscript/ch3.md, phrase: "Allyship is saying what a part of you has already felt"}
       - {file: manuscript/ch3.md, phrase: "all aimed at one outcome: what you sensed"}
       - {file: manuscript/ch3.md, phrase: "The whole win at the Shaman's altitude is what you sensed"}
-      - {file: manuscript/ch3.md, phrase: "and you say what you clocked"}
+      - {file: manuscript/ch3.md, phrase: "you say what you clocked"}
       - {file: manuscript/ch3.md, phrase: "Noted. Saying it anyway."}
       - {file: manuscript/ch3.md, phrase: "and not only feeling it, is the move everything else will stand on."}
       - {file: manuscript/ch7.md, phrase: "you've said the hard part out loud"}
@@ -704,7 +704,10 @@ claims:
       - {file: instruments/light_verb.py, phrase: "TRADEV = ("}
       - {file: instruments/light_verb.py, phrase: "BORROWED = re.compile"}
       - {file: instruments/light_verb.py, phrase: "sents = [s for s in sents if len(s.split()) > 1]"}
-      - {file: instruments/light_verb.py, phrase: "feelings?|charge|readings?|alchemy"}
+      # The abstraction vocabulary moved from light_verb.py to the manifest (core v32). The fact
+      # is unchanged; it now has two carriers — the mechanism that reads them and the data itself.
+      - {file: instruments/light_verb.py, phrase: "profile.abstractions([])"}
+      - {file: editorial.yaml, phrase: '- "feelings?"'}
       - {file: instruments/markpatterns.py, phrase: "** REGRESSION: this read 4 of 4 on 2026-09-10"}
 
   - id: DL-98
@@ -736,7 +739,7 @@ claims:
       - {file: manuscript/ch4.md, phrase: "is hard to hear and easy to answer"}
       - {file: manuscript/ch6.md, phrase: "proposals sometimes read as enormous"}
       - {file: manuscript/ch7.md, phrase: "that something you did hurt them"}
-      - {file: manuscript/ch8.md, phrase: "and the line is correct"}
+      - {file: manuscript/ch8.md, phrase: "draws a correct line"}
       - {file: manuscript/ch9.md, phrase: "let the failure run at full strength"}
 
   - id: DL-99
@@ -765,11 +768,11 @@ claims:
     carriers:
       - {file: manuscript/ch3.md, phrase: "I understand. I have it."}
       - {file: manuscript/ch4.md, phrase: "The lines hold now."}
-      - {file: manuscript/ch7.md, phrase: "You say the hard sentence, and you stay"}
+      - {file: manuscript/ch7.md, phrase: "say the hard sentence and stay"}
       - {file: manuscript/ch8.md, phrase: "What they heard instead was:"}
       - {file: manuscript/ch1.md, phrase: "a decision falls on the person with the least power"}
       - {file: appendices/APPENDIX_C_FIVE_CHANNELS.md, phrase: "You let it run fully."}
-      - {file: back_matter/glossary.md, phrase: "somebody said the unsaid charge, and it was heard"}
+      - {file: back_matter/glossary.md, phrase: "somebody said the unsaid charge to the person it was about"}
 
   - id: DL-100
     fact: >
@@ -968,6 +971,6 @@ claims:
       - {file: manuscript/ch3.md, phrase: "So Chapter 3 does two jobs."}
       - {file: manuscript/ch4.md, phrase: "What this chapter trains is clarity without cruelty"}
       - {file: manuscript/ch2.md, phrase: "By the end of this chapter, you should know:"}
-      - {file: manuscript/ch1.md, phrase: "and Appendix G says where to read them."}
+      - {file: manuscript/ch1.md, phrase: "Appendix G says where to read them."}
       - {file: manuscript/ch7.md, phrase: "Every move in this chapter is an instrument for making that sentence true."}
       - {file: manuscript/ch8.md, phrase: "That sentence is what every move in this chapter is for."}

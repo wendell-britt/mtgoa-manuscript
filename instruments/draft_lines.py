@@ -63,6 +63,26 @@ fl = _load("find_line", os.path.join(HERE, "find_line.py"))
 FRONT = re.compile(r"\A---\n.*?\n---\n", re.S)
 FENCE = re.compile(r"^\s*```")
 
+# Markdown apparatus: a heading, a table row, a block quote, a list item. NOT prose, and every
+# instrument filters on it.
+#
+# **A bullet needs the SPACE after it.** This used to be a bare `startswith(("#","|",">","-","*"))`,
+# which treats `**Polarity Map, the** — For two goods that...` as a list item, because the entry
+# opens on an asterisk. Every glossary entry in MTGOA begins that way, so the first line of each
+# was dropped from the scan; paragraph reflow then joined what was left into a fragment starting
+# mid-sentence, and the glossary was effectively unscanned.
+#
+# Found 2026-09-09 when Wendell rejected `Barry Johnson's, and the distinction under it is his.`
+# — which I had classified as a harmless split artifact and suppressed with a lower-case-start
+# rule. **It was bad prose, and the rule I added to ignore it was hiding the reason it looked odd.**
+# A suppressor over a bug is the thing this pipeline exists to stop.
+APPARATUS = re.compile(r"^\s*(?:#{1,6}\s|\||>\s|[-*+]\s|\d+\.\s)")
+
+
+def is_apparatus(text):
+    """A markdown line that is not prose. See APPARATUS."""
+    return bool(APPARATUS.match(text))
+
 
 def paths_from(argv):
     """Positional paths, with the `--write` target removed. The shared argv convention."""
@@ -104,8 +124,12 @@ def surfaces(paths):
     for p in paths:
         rel = os.path.relpath(os.path.abspath(p), ROOT)
         text = body_of(io.open(p, encoding="utf-8").read(), rel)
+        # The project's non-printing lines (v32), same hook as book mode: see find_line.
+        drop = fl._nonprinting(text.split("\n"))
         depth, fenced = 0, False
         for n, raw in enumerate(text.split("\n"), 1):
+            if n - 1 in drop:
+                continue
             line = raw.rstrip()
             if FENCE.match(line):
                 fenced = not fenced
@@ -143,4 +167,38 @@ def prose(lines):
         if l["surface"] != "body":
             continue
         out.append(l)
+    return out
+
+
+def paragraphs(lines):
+    """Reflow line-records into paragraph pseudo-records, so a hard-wrapped sentence is never
+    split into fragments and no `and`/label at a wrap boundary is counted as a real one.
+
+    A sentence scanner splits on `.!?` WITHIN each record's text. That is correct only when a
+    record is a whole paragraph. Parts of this manuscript are one paragraph per line (a record
+    is already a paragraph); other parts are hard-wrapped at ~70 columns (a sentence is spread
+    over several records, and splitting each record yields fragments). Both are handled here:
+    consecutive records — same file, same surface, adjacent source line numbers — are joined
+    with a single space into one paragraph. `surfaces()` drops blank lines, so a blank between
+    paragraphs is a gap in the numbering, and that gap is the boundary. A file already written
+    one paragraph per line passes through unchanged.
+
+    The pseudo-record keeps the FIRST source line's number, so a reported hit still navigates to
+    the paragraph's start, and re-folds `key` from the joined text.
+    """
+    out, cur = [], None
+    for l in lines:
+        if (cur is not None and l["rel"] == cur["rel"] and l["surface"] == cur["surface"]
+                and l["line"] == cur["_end"] + 1):
+            cur["text"] += " " + l["text"]
+            cur["_end"] = l["line"]
+        else:
+            if cur is not None:
+                out.append(cur)
+            cur = dict(l)
+            cur["_end"] = l["line"]
+    if cur is not None:
+        out.append(cur)
+    for r in out:
+        r["key"] = fl.fold(r["text"])
     return out

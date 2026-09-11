@@ -1,7 +1,7 @@
 # Appendix D: Emotional Alchemy Practices
 
 **Status:** REVIEWED 2026-06-04 — accuracy-checked line-by-line against the *Igniting Joy* source (pp. 29–47: Happy Apples, Rose, Grounding); approved by Wendell. Two fidelity fixes applied (Happy Apples Step 4 restored to the source's gradual transform; Rose petals restored to "recognition, love, understanding"). Load-bearing specifics verified faithful: 5×/5× apple intensities, 4-2-6 grounding breath, petals=desire/thorns=defense. Ported 2026-06-03 from the appendix design spec; 3-2-1 Shadow Process routed to Appendix E by design.
-**Authority:** *Igniting Joy* (Wendell Britt); appendix design spec 2026-05-21 (Decision 5).
+**Authority:** this draws on *Igniting Joy* (Wendell Britt) and the appendix design spec of 2026-05-21 (Decision 5).
 **Location in book:** After Appendix C; before Appendix E. In the toolkit cluster (C Five Channels / D Emotional Alchemy / E 3-2-1 Shadow Process / F Polarity Map), which sits before Appendix G (the bibliography).
 
 > **Note on the no-somatic directive.** The book's prose never narrates the reader's interior — that reads as manipulation, and it's barred everywhere in the body of the book. This appendix is the one deliberate exception, and it earns the exception the same way the book earns its other body claims: by sourcing them. These are three named, opt-in practices from a prior, published book of mine. The reader chooses to open this page and run them. That's a toolkit you reach for, not a felt-sense I assert about you. Keep it framed that way — invitation and lineage, never prescription mid-argument.
@@ -23,7 +23,7 @@ You don't need all three. Learn the one that fits the moment you keep finding yo
 4. Turn the angry apple into a happy one — let it soften, evolve into its happiest version.
 5. Amplify the happiness five times over.
 
-**Quick version:** angry apple → one swift shift → happy apple.
+**Quick version:** an angry apple takes one swift shift to become a happy apple.
 
 **When to use it:** before a charged conversation, when there's anger to move through first so it arrives as information instead of interference.
 

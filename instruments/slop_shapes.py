@@ -81,6 +81,8 @@ def _load(name, path):
 
 fl = _load("find_line", os.path.join(HERE, "find_line.py"))
 dl = _load("draft_lines", os.path.join(HERE, "draft_lines.py"))
+profile = _load("profile", os.path.join(HERE, "profile.py"))
+exc = _load("exceptions", os.path.join(HERE, "exceptions.py"))
 
 # notstack.py's pattern, imported rather than retyped, so there is one definition of what
 # counts as a negative opener and `notstack.py` stays runnable as the sweep it was written
@@ -100,7 +102,15 @@ finally:
     sys.stdout = _so
 NEG_START = _ns.NEG_START
 
-SENT = re.compile(r"(?<=[.!?])\s+")
+# Sentence boundary. The abbreviation guard was added 2026-09-09: the bare
+# `(?<=[.!?])\s+` split on every period, so `Practitioner: J. Kuiper, first case.`
+# came apart into two fragments and `3rd ed. names the surgeon.` into one. Five
+# instruments carry this constant; they must stay identical. Each lookbehind is
+# fixed-width, which is what stdlib `re` allows.
+_ABBR = (r"(?<!\b[A-Z]\.)(?<!\bed\.)(?<!\bDr\.)(?<!\bMr\.)(?<!\bMs\.)"
+         r"(?<!\bMrs\.)(?<!\betc\.)(?<!\bvs\.)(?<!\bvol\.)(?<!\bno\.)"
+         r"(?<!\bpp\.)(?<!\bcf\.)(?<!\bi\.e\.)(?<!\be\.g\.)(?<!\bSt\.)")
+SENT = re.compile(r"(?<=[.!?])" + _ABBR + r"\s+")
 
 # EXEMPTIONS, in gate.py's shape: (rule, phrase, reason). A hit inside one of these spans
 # is dropped. Kept as a list rather than woven into the patterns so the reason travels with
@@ -211,19 +221,36 @@ def sites(text):
 def main():
     verbose = "-v" in sys.argv
     paths = dl.paths_from(sys.argv[1:])
-    lines = dl.prose(dl.surfaces(paths)) if paths else [
-        l for l in fl.surfaces() if l["surface"] == "body"]
+    # Reflow hard-wrapped lines into whole paragraphs before scanning (see draft_lines.paragraphs),
+    # so a slop shape split across a wrap boundary is still seen and a wrapped line is not scanned
+    # as if it were a sentence.
+    lines = dl.paragraphs(dl.prose(dl.surfaces(paths))) if paths else dl.paragraphs(
+        [l for l in fl.surfaces() if l["surface"] == "body"])
+
+    def _sentence_around(text, frag):
+        """The sentence holding `frag`. The ledger keys on this rather than on the matched
+        fragment: three separate FAUXINSIGHT sites share the fragment "what nobody", and keying on
+        it would let one acceptance silently clear all three."""
+        i = text.find(frag)
+        if i < 0:
+            return frag
+        left = max(text.rfind(". ", 0, i), text.rfind("\n", 0, i), text.rfind("! ", 0, i),
+                   text.rfind("? ", 0, i))
+        start = 0 if left < 0 else left + 1
+        ends = [e for e in (text.find(". ", i), text.find("\n", i)) if e >= 0]
+        end = min(ends) + 1 if ends else len(text)
+        return " ".join(text[start:end].split())
 
     rows = []
     for l in lines:
         for name, s in sites(l["text"]):
-            rows.append((l, name, s))
+            rows.append((l, name, s, _sentence_around(l["text"], s)))
 
     print("slop shapes — the mechanical half of /no-ai-slop. See the module docstring")
     print("%-22s %6s   %s" % ("file", "hits", "rules"))
     print("-" * 62)
     per = defaultdict(lambda: defaultdict(int))
-    for l, name, _s in rows:
+    for l, name, _s, _sent in rows:
         per[os.path.basename(l["rel"])][name] += 1
     keys = [os.path.basename(p) for p in paths] if paths else sorted(per)
     for k in keys:
@@ -233,7 +260,7 @@ def main():
                                   " ".join("%s:%d" % (a, b) for a, b in sorted(r.items()))))
     if rows:
         print("")
-        for l, name, s in (rows if verbose else rows[:15]):
+        for l, name, s, _sent in (rows if verbose else rows[:15]):
             print("  %-12s %s:%d — %s" % (name, os.path.basename(l["rel"]), l["line"], FIX[name]))
             print("      > %s" % s)
         if not verbose and len(rows) > 15:
@@ -241,11 +268,26 @@ def main():
     # Book-wide this is a board to work, so it prints a total and exits 0, the same
     # contract `empty_head.py` and `ranking.py` have. On a draft the exit code is the
     # signal `review.py` uses to decide whether to print the sites, so it is 1 on any hit.
+    # Zero-target accounting. Ruled 2026-09-09 by a six-face pass
+    # (.specify/specs/editorial-core-distribution/six-faces-slop-shapes.md): an instrument whose
+    # findings are DISCRETE SITES joins the resolve-or-accept loop, as `telling` already does; one
+    # whose findings are distributions stays a board. These are sites. A shape that survives the
+    # no-ai-slop question is accepted per sentence in editorial_exceptions.yaml.
+    if "--keys" in sys.argv:
+        return exc.emit_keys("slop_shapes", [
+            ("%s:%d" % (os.path.basename(l["rel"]), l["line"]), sent)
+            for l, _n, _s, sent in rows])
+    kept = [sent for _l, _n, _s, sent in rows if exc.is_accepted("slop_shapes", sent)]
+    unresolved = len(rows) - len(kept)
+    target = profile.target("slop_shapes", 0)
+
     print("")
     print("TOTAL %d site(s) across %d file(s) — %s"
-          % (len(rows), len({os.path.basename(l["rel"]) for l, _n, _s in rows}),
-             "fix before it lands" if paths else "reporting only"))
-    return (1 if rows else 0) if paths else 0
+          % (len(rows), len({os.path.basename(l["rel"]) for l, _n, _s, _t in rows}),
+             "fix before it lands" if paths else "resolve in the prose or accept in the ledger"))
+    print("EDITORIAL slop_shapes unresolved=%d accepted=%d total=%d target=%d stale=%d"
+          % (unresolved, len(kept), len(rows), target, len(exc.stale("slop_shapes"))))
+    return 1 if unresolved > target else 0
 
 
 if __name__ == "__main__":

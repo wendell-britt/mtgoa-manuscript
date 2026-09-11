@@ -15,7 +15,7 @@ The Five-Move Form works with charge you're already feeling in your body — fea
 
 That charge is projection, which is shadow work waiting to happen.
 
-The **3-2-1 practice** is how you metabolize it. Three vantage points. One charged figure. You move from observing it, to talking with it, to being it — and the energy that was leaking out through judgment comes back into your system, available for the Five-Move Form to use.
+The **3-2-1 practice** is how you metabolize it. Three vantage points. One charged figure. You move from observing it, to talking with it, to being it, so the energy that was leaking out through judgment comes back into your system, available for the Five-Move Form to use.
 
 3-2-1 is a diagnostic move. It tells you which part of you is running the show when you think you're responding to them.
 
@@ -27,7 +27,7 @@ The **3-2-1 practice** is how you metabolize it. Three vantage points. One charg
 
 **Action:** Describe the person, part, or figure you're charged by as if you're a journalist writing about someone on the far side of a door. What do they look like? How do they move? What do they say? What happens in your body when you think about them?
 
-**Goal:** Externalize the projection. Create enough distance that you can see the charge as a pattern, not as reality.
+**The goal is to externalize the projection.** Create enough distance that you can see the charge as a pattern, not as reality.
 
 *Example:* "There's a harsh, watchful figure. It criticizes everything he does. It shakes its head, mutters about failure, always finds the flaw before the gift."
 
@@ -39,7 +39,7 @@ You are not analyzing them. You are describing the figure your nervous system ha
 
 **Pronoun:** *You*
 
-**Action:** Address the figure directly, as if they're sitting across from you. Ask questions. Let them answer. This is a dialogue, not a monologue — and the answers don't have to be polite.
+**Action:** Address the figure directly, as if they're sitting across from you. Ask questions. Let them answer. This is a dialogue, not a monologue: the answers don't have to be polite.
 
 If you get stuck, use the six unpacking questions: *What do you want? What do you need? What are you afraid of? What would have to be true for someone to feel this way?* The goal is to hear the inner logic of the part in its own language.
 
@@ -61,13 +61,13 @@ If you get stuck, use the six unpacking questions: *What do you want? What do yo
 
 *Example:* "I criticize him because I know the shame he carries. I think if I cut him down first, others won't get the chance. I am trying to protect him from humiliation by humiliating him first."
 
-**Goal:** Reintegrate the projection. The energy you've been spending on them — the charge, the fixation, the rehearsed arguments in the shower — lives in you. It always did. Step 1 is where you stop paying rent on someone else's villain and reclaim the fuel.
+**The goal is to reintegrate the projection.** The energy you've been spending on them — the charge, the fixation, the rehearsed arguments in the shower — lives in you. It always did. Step 1 is where you stop paying rent on someone else's villain and reclaim the fuel.
 
 ---
 
 ### Generic Practice — Your Shadow Inventory
 
-Pick one figure you're charged by right now. Not the biggest one — the one that surfaced when you read Step 3. A colleague. A family member. A public figure. A part of yourself you keep calling "not me."
+Pick one figure you're charged by right now. Not the biggest one — the one that surfaced when you read Step 3. It could be a colleague, a family member, a public figure, or a part of yourself you keep calling "not me."
 
 Work the sequence once, on paper or out loud:
 

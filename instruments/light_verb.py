@@ -19,53 +19,15 @@ cannot perform one. The red-team (`specs/REDTEAM_WRITE_WITHOUT_THESE_ISSUES_2026
 named this the one buildable half of the solve: **catch the enumerable weak-verb class
 mechanically, before the draft reaches him.** This is that half.
 
-## The hole, found 2026-09-10
+## Three shapes, and why they are different
 
-**This instrument was built from six marked phrases and covered one of them.** The mark-pattern
-table probed it phrase by phrase and reported:
-
-| marked phrase | before |
-|---|---|
-| *praise lands warm* | flagged |
-| *the feeling runs clean* | **invisible** |
-| *it trades contact for control* | **invisible** |
-| *vigilance buys aim* | **invisible** |
-| *metabolize* | **invisible** |
-
-**One of five, while reporting a healthy DELEXICAL rate the whole time** — the same shape as
-`compile.py --verify` reporting *round-trip OK* over eight stale blocks for six weeks: a green
-number over an unlooked-at half. Wendell, on being shown it: *"fix the light_verb hole."*
-
-**Four separate causes, and only one of them was a missing word.**
-
-1. **`ABSTRACT` was generic English and the book's own abstractions were not in it.** *praise*,
-   *shame*, *fear* were there; *feeling*, *charge*, *reading*, *game*, *line*, *practice*,
-   *capacity* were not. So *"the feeling runs clean"* had a verb on the list and a subject that
-   was not.
-2. **`DEADV` covered motion and placement, not transaction.** Nothing could see *buys*, *trades*,
-   *spends*, *pays* — and two of the six marked phrases are that shape. **TRADE** is a new
-   pattern and it requires an abstract OBJECT as well as an abstract subject, which is what keeps
-   it at two sites in the whole book instead of two hundred.
-3. **`metabolize` is not a weak verb at all.** It is a verb borrowed from another domain and run
-   on a feeling: a *wrong* verb, not a light one. **BORROWED** is a third tier and its family is
-   kept deliberately tiny, because the obvious neighbours are book canon — ch6 has an
-   **Optimizer** daemon and *optimization theater* is the book's own critique, so widening it to
-   *optimize* would flag the chapter's vocabulary.
-4. **`sites()` skipped every sentence of three words or fewer**, which is the book's flattest
-   register. *"Vigilance buys aim."* is three words. So is *"That is burnout."* Lowering the
-   filter to `> 1` scans **449 more sentences for one additional hit**: it was buying nothing and
-   hiding the shortest lines in the book.
-
-**All five marked shapes were visible after the fix.** The probe lives in `markpatterns.py` and
-runs on every invocation, so this cannot quietly close over again.
-
-**One of the five was then ruled back in.** DL-102, the same day: *"keep metabolized"*, *"keep
-metabolize."* BORROWED's only vocabulary is now on an exclusion list and the tier fires on
-nothing. **The probe expects 4 of 5 and names the fifth** rather than quietly dropping it, so the
-record shows that the shape was found, fixed, and then overruled by the author -- which is a
-different history from never having looked.
-
-## The three shapes, and why they are different
+The third tier and the vocabulary the first two read came from DL-97 (2026-09-10), folded into
+core v32 on 2026-09-11 so one instrument serves every book. **The shapes are universal; the
+words are the project's.** A generic abstraction list missed the nouns MTGOA hands a physical
+verb to (*the feeling runs clean*), so a project extends the list through its manifest
+(`abstractions:`), and the wrong-domain tier's vocabulary is the project's too
+(`light_verb_borrowed:`, with `light_verb_borrowed_ruled_in:` for what the author kept). A
+project that declares none of these runs the generic detector, unchanged.
 
 **DELEXICAL — the buried verb.** *make a decision* (decide), *reach a conclusion* (conclude),
 *conduct an investigation* (investigate), *provide assistance* (help). A light verb — *make,
@@ -74,17 +36,21 @@ the real verb inside a noun. Strunk Rule 13 (*omit needless words*) and Williams
 the action in the verb, not the noun) both name it. **This tier is gradeable and driven down**:
 the fix is mechanical — recover the buried verb, drop the noun.
 
-**BORROWED — the wrong verb.** *metabolize a feeling*. A verb lifted from chemistry, computing or
-logistics and run on an inner state. Unlike the other two this is not a weak verb doing too
-little; it is a precise verb pointing at the wrong domain, and the precision is what makes it
-persuasive. **Counted against a draft the way DELEXICAL is**, not surfaced like DEAD.
-
 **DEAD — the fake-concrete verb.** *praise lands warm*, *the shame sits there*, *it leaves you
 smaller*. A motion or placement verb — *land, leave, sit, hang, settle, run, move* — handed an
 abstract or a bare-demonstrative subject that cannot move or be placed. On a concrete subject
 the same verb is fine (*she left the room*), so **this tier is surfaced, not graded**: whether
 the subject can really do the verb is a reading call, not the instrument's. It is the shape
-Wendell caught by eye that no counter saw.
+Wendell caught by eye that no counter saw. **DL-97 added a transaction sub-shape** — *vigilance
+buys aim*, *it trades contact for control* — where an abstraction buys, sells or spends; it needs
+an abstract object too, so it stays a couple of sites in a book rather than hundreds.
+
+**BORROWED — the wrong-domain verb.** *metabolize a feeling*. A verb lifted from chemistry,
+computing or logistics and run on an inner state: not a weak verb but a precise one pointing at
+the wrong domain, and the precision is what makes it persuasive. Its vocabulary is a project's
+own, so the tier is empty until a manifest declares it, and a verb the author rules back in is
+excluded so the tier records that the question was asked. **Graded like DELEXICAL on a draft**,
+not surfaced like DEAD.
 
 ## The remediation (Williams, and Wendell)
 
@@ -126,8 +92,17 @@ def _load(name, path):
 fl = _load("find_line", os.path.join(HERE, "find_line.py"))
 dl = _load("draft_lines", os.path.join(HERE, "draft_lines.py"))
 profile = _load("profile", os.path.join(HERE, "profile.py"))
+exc = _load("exceptions", os.path.join(HERE, "exceptions.py"))
 
-SENT = re.compile(r"(?<=[.!?])\s+")
+# Sentence boundary. The abbreviation guard was added 2026-09-09: the bare
+# `(?<=[.!?])\s+` split on every period, so `Practitioner: J. Kuiper, first case.`
+# came apart into two fragments and `3rd ed. names the surgeon.` into one. Five
+# instruments carry this constant; they must stay identical. Each lookbehind is
+# fixed-width, which is what stdlib `re` allows.
+_ABBR = (r"(?<!\b[A-Z]\.)(?<!\bed\.)(?<!\bDr\.)(?<!\bMr\.)(?<!\bMs\.)"
+         r"(?<!\bMrs\.)(?<!\betc\.)(?<!\bvs\.)(?<!\bvol\.)(?<!\bno\.)"
+         r"(?<!\bpp\.)(?<!\bcf\.)(?<!\bi\.e\.)(?<!\be\.g\.)(?<!\bSt\.)")
+SENT = re.compile(r"(?<=[.!?])" + _ABBR + r"\s+")
 
 # DELEXICAL: a light verb + an optional article + a nominalization that hides the real verb.
 # The light-verb list is the linguistics core (do, make, take, give, have, get) plus the Latinate
@@ -177,65 +152,54 @@ NOT_DEVERBAL = {
 DEADV = (r"lands?|landed|landing|leaves?|left|leaving|sits?|sat|sitting|hangs?|hung|hanging|"
          r"settles?|settled|settling|sinks?|sank|sunk|sinking|runs?|ran|running|"
          r"moves?|moved|moving|travels?|travell?ed|travell?ing|rides?|rode|carries|carried")
-
-# The transaction family. Added 2026-09-10 (DL-97): an abstraction cannot buy, sell or spend, and
-# two of the six phrases Wendell marked in P5 are this shape -- *"it trades contact for control"*,
-# *"vigilance buys aim"*. Motion verbs alone could not see them.
-TRADEV = (r"trades?|traded|trading|buys?|bought|buying|sells?|sold|selling|pays?|paid|paying|"
-          r"spends?|spent|spending|earns?|earned|earning|purchases?|exchanges?|affords?")
-# The book's recurring abstractions, plus any nominalization-suffixed noun, plus a bare
-# demonstrative. Kept explicit so the tier stays low-noise and aimed at the flagged family.
-ABSTRACT = (r"praise|encouragement|shame|fear|trust|power|love|hope|doubt|guilt|grief|anger|joy|"
-            r"help|care|respect|control|comfort|silence|attention|presence|absence|meaning|truth|"
-            r"belief|faith|pride|courage|kindness|cruelty|authority|condescension|approval|"
-            r"validation|recognition|feedback|criticism|praise|worth|grade|verdict|"
-            # 2026-09-10, DL-97. The list above is generic English abstraction and **the book's
-            # own abstractions were missing from it**, which is why "the feeling runs clean" --
-            # one of the six phrases this instrument was built from -- was invisible. These are
-            # the nouns MTGOA actually hands a physical verb to.
-            r"feelings?|charge|readings?|alchemy|moves?|lines?|games?|standards?|limits?|costs?|"
-            r"work|practice|patterns?|distortion|exile|altitude|boundary|inheritance|terms|"
-            r"vigilance|clarity|impact|contact|connection|repair|conflict|discomfort|urgency|"
-            r"safety|belonging|competence|capacity|agency|aim|nerve|standing|leverage")
+# Generic-English abstractions, plus any nominalization-suffixed noun, plus a bare demonstrative.
+# Kept explicit so the tier stays low-noise and aimed at the flagged family. A project extends
+# this with its own abstractions through the manifest (`abstractions:`) -- DL-97 found that a
+# generic list missed the nouns THIS book hands a physical verb to (*the feeling runs clean*), so
+# the vocabulary is the project's while the shape is universal. See profile.abstractions.
+ABSTRACT_BASE = (r"praise|encouragement|shame|fear|trust|power|love|hope|doubt|guilt|grief|anger|"
+                 r"joy|help|care|respect|control|comfort|silence|attention|presence|absence|"
+                 r"meaning|truth|belief|faith|pride|courage|kindness|cruelty|authority|"
+                 r"condescension|approval|validation|recognition|feedback|criticism|worth|grade|"
+                 r"verdict")
+_ABSTRACT_EXTRA = profile.abstractions([])
+ABSTRACT = ABSTRACT_BASE + ("|" + "|".join(_ABSTRACT_EXTRA) if _ABSTRACT_EXTRA else "")
 SUBJ = r"it|this|that|these|those|%s|\w{4,}(?:tion|sion|ment|ness)" % ABSTRACT
 DEAD = re.compile(r"\b(%s)\s+(?:\w+ly\s+)?(?:%s)\b" % (SUBJ, DEADV), re.I)
-# A transaction needs an abstract OBJECT too, or every "it cost you an hour" fires. That object
-# test is what keeps this at two sites in the whole book rather than two hundred.
+
+# TRADE, DL-97 (2026-09-10, into core v32). An abstraction cannot buy, sell, spend or trade;
+# when one does, the transaction verb is fake-concrete the way a motion verb is in DEAD. It needs
+# an abstract OBJECT as well as an abstract subject, or every literal "it cost you an hour" fires
+# -- that object test is what holds it to a couple of sites in a book rather than hundreds.
+# Universal mechanism, always on; the abstraction vocabulary it reads is the project's.
+TRADEV = (r"trades?|traded|trading|buys?|bought|buying|sells?|sold|selling|pays?|paid|paying|"
+          r"spends?|spent|spending|earns?|earned|earning|purchases?|exchanges?|affords?")
 TRADE = re.compile(r"\b(%s)\s+(?:\w+ly\s+)?(?:%s)\s+"
                    r"(?:a |an |the |your |their |you )?(%s|\w{4,}(?:tion|sion|ment|ness))\b"
                    % (SUBJ, TRADEV, ABSTRACT), re.I)
 
-# BORROWED -- a verb taken from another domain and run on a feeling. Not a weak verb: a wrong
-# one. *metabolize* was the marked instance, and the family was kept deliberately tiny because
-# the obvious neighbours are book canon -- ch6 has an **Optimizer** daemon and "optimization
-# theater" is the book's own critique.
-#
-# **RULED IN, DL-102, 2026-09-10.** Wendell, twice in one message: *"keep metabolized"*, *"keep
-# metabolize."* It is emotional alchemy's own vocabulary and the argument against it was mine
-# rather than the book's. So the tier's only word is on the exclusion list below and **BORROWED
-# now fires on nothing.**
-#
-# The tier is not deleted. It was one of four causes of this instrument's hole (see the table
-# above) and the other three stand; and an empty tier is a live record that the question was
-# asked and answered, where a deleted one hides that it was ever asked. If another domain-borrowed
-# verb turns up, the tier is here and the exclusion list says what has already been ruled.
-BORROWED_RULED_IN = {"metabolize", "metabolise", "metabolized", "metabolised",
-                     "metabolizes", "metabolises", "metabolizing", "metabolising"}
-BORROWED = re.compile(r"\b(metabolis?[zs]e[sd]?|metabolis?[zs]ing)\b", re.I)
+# BORROWED, DL-97/DL-102. A verb lifted from another domain (chemistry, computing, logistics) and
+# run on a feeling: not a weak verb but a WRONG one, and the precision is what makes it persuasive.
+# Its vocabulary is domain-specific, so it is the project's (`light_verb_borrowed:`); a verb the
+# author has ruled back in (`light_verb_borrowed_ruled_in:`) is excluded, so the tier records that
+# the question was asked and answered rather than firing. Empty in a project that declares neither.
+_BORROWED = profile.light_verb_borrowed([])
+BORROWED = re.compile(r"\b(?:%s)\b" % "|".join(_BORROWED), re.I) if _BORROWED else None
+BORROWED_RULED_IN = {w.lower() for w in profile.light_verb_borrowed_ruled_in([])}
 
 # Measured 2026-09-03 by this file on the book's own body prose: 39 DELEXICAL and 124 DEAD across
 # 5,985 sentences. DEAD runs high because most of its subjects are concrete and fine -- which is
 # why it is surfaced, not graded.
 BOOK_BASELINE = profile.baseline("light_verb", 0.7)  # manifest-authoritative; see profile.py
+TARGET = profile.target("light_verb", 0)  # max un-accepted DELEXICAL hits; house policy is zero
 
 
 def sites(text):
     out = []
     sents = [" ".join(s.split()) for s in SENT.split(text)]
-    # 2026-09-10, DL-97. This was `> 3`, and it hid the book's terse register from every tier:
-    # "Vigilance buys aim." is three words, and so is "That is burnout." Lowering it to `> 1`
-    # scans 449 more sentences for one additional hit, so the filter was buying nothing and
-    # costing the shortest, flattest lines in the book.
+    # DL-97 lowered this from `> 3`: the three-word floor hid the book's flattest register
+    # (*"Vigilance buys aim."*, *"That is burnout."*). It scanned ~449 fewer sentences for one
+    # DELEXICAL hit and several DEAD/TRADE ones, so it was buying nothing and hiding real sites.
     sents = [s for s in sents if len(s.split()) > 1]
     for s in sents:
         m = DELEXICAL.search(s)
@@ -244,9 +208,10 @@ def sites(text):
             out.append(("DELEXICAL", s))
         if DEAD.search(s) or TRADE.search(s):
             out.append(("DEAD", s))
-        bw = BORROWED.search(s)
-        if bw and bw.group(0).lower() not in BORROWED_RULED_IN:
-            out.append(("BORROWED", s))
+        if BORROWED is not None:
+            bw = BORROWED.search(s)
+            if bw and bw.group(0).lower() not in BORROWED_RULED_IN:
+                out.append(("BORROWED", s))
     return out, len(sents)
 
 
@@ -254,14 +219,14 @@ def main():
     verbose = "-v" in sys.argv
     paths = dl.paths_from(sys.argv[1:])
     if paths:
-        groups = [(os.path.basename(p), dl.prose(dl.surfaces([p]))) for p in paths]
+        groups = [(os.path.basename(p), dl.paragraphs(dl.prose(dl.surfaces([p])))) for p in paths]
     else:
-        groups = [("the book", [l for l in fl.surfaces() if l["surface"] == "body"
-                                and not l["text"].lstrip().startswith(("#", "|", ">", "-", "*"))])]
+        groups = [("the book", dl.paragraphs([l for l in fl.surfaces() if l["surface"] == "body"
+                                and not dl.is_apparatus(l["text"])]))]
 
-    print("light verb — the buried verb (DELEXICAL) and the fake-concrete verb (DEAD); see the docstring")
-    print("%-24s %6s %5s %6s %7s %8s" % ("file", "DELEX", "DEAD", "BORROW", "sents",
-                                          "delex%"))
+    print("light verb — the buried verb (DELEXICAL), the fake-concrete verb (DEAD), the wrong-domain "
+          "verb (BORROWED); see the docstring")
+    print("%-24s %6s %5s %6s %7s %8s" % ("file", "DELEX", "DEAD", "BORROW", "sents", "delex%"))
     print("-" * 62)
     bad, rows, total = 0, [], 0
     for label, lines in groups:
@@ -276,10 +241,9 @@ def main():
         rate = 100.0 * dx / max(n, 1)
         flag = "" if rate <= BOOK_BASELINE + 2 else "  HEAVY"
         print("%-24s %6d %5d %6d %7d %7.1f%%%s" % (label[:24], dx, dv, bw, n, rate, flag))
-        # On a draft, both tiers are candidates to look at. Book-wide DEAD is a backlog rather
-        # than a build failure (its subjects are often concrete), so it does not inflate `bad`.
-        # BORROWED is a wrong verb rather than a weak one, so it counts on a draft the way
-        # DELEXICAL does rather than sitting in the surfaced backlog with DEAD.
+        # On a draft, DELEXICAL and BORROWED are build failures (a buried verb, a wrong verb);
+        # DEAD is a backlog to look at, its subjects often concrete, so book-wide it does not
+        # inflate `bad`. BORROWED is 0 unless a project declares the tier's vocabulary.
         bad += dx + bw + (dv if paths else 0) + (1 if flag else 0)
         rows += hits
         total += n
@@ -299,6 +263,17 @@ def main():
     print("")
     print("book baseline %.1f%% DELEXICAL. An existence check has a false-positive floor; the "
           "instrument surfaces, the reader clears." % BOOK_BASELINE)
+
+    # Zero-target accounting. DELEXICAL is the tier driven to zero; a hit whose sentence is in the
+    # ledger is a deliberate keep and does not count. coherence.py reads this line.
+    prim = [s for (t, s, _l) in rows if t == "DELEXICAL"]
+    if "--keys" in sys.argv:
+        return exc.emit_keys("light_verb", [
+            ("%s:%d" % (os.path.basename(l["rel"]), l["line"]), s)
+            for (t, s, l) in rows if t == "DELEXICAL"])
+    kept = [s for s in prim if exc.is_accepted("light_verb", s)]
+    print("EDITORIAL light_verb unresolved=%d accepted=%d total=%d target=%d stale=%d"
+          % (len(prim) - len(kept), len(kept), len(prim), TARGET, len(exc.stale("light_verb"))))
     return 1 if bad else 0
 
 

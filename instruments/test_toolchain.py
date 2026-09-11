@@ -84,7 +84,12 @@ for name, s in KNOWN_FP:
 print("\ngate.py — flag sensitivity")
 import gate
 def counters(t):
-    return {n: len(re.findall(p, t, f)) for n, p, f in gate.COUNTERS}
+    # Goes through gate.score() rather than re-applying COUNTERS, because a counter is
+    # not always a pattern: `fragment` arrived 2026-09-01 as a callable and this helper
+    # raised TypeError on every call. score() also honours EXEMPT/CANON, which this
+    # helper never did — a difference that did not show only because no probe string
+    # below happens to contain an exempted phrase.
+    return {n: len(ms) for n, ms in gate.score(t)}
 
 # The gate's andbut and stacks counters are case-sensitive by design. Running
 # them case-insensitively invented four violations in the marginalia that were
@@ -105,6 +110,12 @@ check("singular 'room' is banned", counters("stayed in the room")["banned"], 1)
 check("singular 'room' is banned", counters("lend the room their reputation")["banned"], 1)
 # Placeholders must never reach print.
 check("placeholder token is caught", counters("I was told that at ⟦ASH-AGE⟧.")["tokens"], 1)
+# The fragment counter (2026-09-01) retired 2026-09-10: editorial-core's fragment.py is the one
+# referee, and its cases live in editorial-core/selftest.py. The six probes that stood here tested
+# the retired counter. Their replacement is this check that it stays retired: a second fragment
+# counter in the gate is how the book came to read 0 and 251 on the same prose.
+check("the gate carries no fragment counter",
+      "fragment" in counters("One sitting."), False)
 
 # ---------------------------------------------------------------- register ruler
 print("\nprose_diet.py — the ruler must match the June measurement")
