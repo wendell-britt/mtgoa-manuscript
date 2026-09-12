@@ -81,7 +81,7 @@ You feel sadness (Water) about a loss. You're also needed right now, and you nee
 
 **Wake → Open → Clean → Grow (in sadness):** You feel the sadness. You let it run fully. You understand what you lost. You integrate: That mattered, and it's gone.
 
-**Show Up:** The sadness clarifies what needs to be protected. From there, you take action to protect what's still here.
+**Show Up:** The sadness clarifies what needs to be protected. From there, you act to protect what's still here.
 
 The move costs something, but it returns capacity. You are not bypassing the sadness. You are letting it become protection.
 

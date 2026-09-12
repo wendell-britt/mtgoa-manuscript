@@ -301,10 +301,6 @@ trailing_and:
     has been negotiating around for months.'
   reason: 'serial list: the and closes a series of like items (the judge''s three holdings, four domains,
     the Diplomat''s three kinds of work, the superpower''s three adjectives), not a second clause.'
-- quote: '*Diplomat:* holds the relational field that makes coordination possible across difference —
-    the trust-building, translation, and repair work that keeps people in the coalition.'
-  reason: 'serial list: the and closes a series of like items (the judge''s three holdings, four domains,
-    the Diplomat''s three kinds of work, the superpower''s three adjectives), not a second clause.'
 - quote: Your superpower is the reliable capacity you built to survive your wounds, once you have made
     it conscious, ethical, and usable in service of others.
   reason: 'serial list: the and closes a series of like items (the judge''s three holdings, four domains,
@@ -396,7 +392,15 @@ trailing_and:
     curriculum.
   reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
     records should be scored, but those should be ledger notes because they have to be edited separately.'''
-light_verb: []
+- quote: '*Diplomat:* holds the relational field that lets coordination survive difference — the trust-building,
+    translation, and repair work that keeps people in the coalition.'
+  reason: 'serial list: the Diplomat''s work named in three parts (trust-building, translation, repair);
+    the and closes a series of like items. Carried from the trailing_and pass; re-keyed after a light_verb
+    rewrite in the same sentence.'
+light_verb:
+- quote: This school gets the agreement.
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
 fragment:
 - quote: '**THE SCHOOL OF THE BODY** *Admissions.'
   reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed

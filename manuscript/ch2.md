@@ -576,6 +576,6 @@ From here you have two routes:
 
 Turn the page for a letter from the Headmaster of a fictional school. After it, every chapter opens with one school's admissions page: who they take, what it costs, what you can do when you leave.
 
-Read those pages the way you would read a teacher you have not made up your mind about. Six people each solved one part of this and cannot agree on the rest. You are getting the argument, not the summary.
+Read those pages the way you would read a teacher you have not made up your mind about. Six people each solved one part of this and cannot agree on the rest. You are reading the argument, not the summary.
 
 Either way, the Forest is ahead and your hands are on the joystick. The only move left is through.

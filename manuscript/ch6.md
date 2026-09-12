@@ -68,7 +68,7 @@ There was a time when the Architect lived in the village.
 
 Inside it, one of them, the Architect drew the first map, looked at the chaos of how work got done and said *wait. I see something. There's a structure here. There's a pattern. If we understand the pattern, we can change the pattern.*
 
-The villagers listened, at first, because the maps worked. The Architect could look at a broken system and find the part that, if you changed it, would change everything else. The Architect could design the meeting format that actually produced decisions. The Architect could build the role that made accountability real. The Architect said *here is why this keeps breaking, and here is how to redesign it so it holds.*
+The villagers listened, at first, because the maps worked. The Architect could look at a broken system and find the part that, if you changed it, would change everything else. The Architect could design the meeting format that actually produced decisions. The Architect could build the role that enforced accountability. The Architect said *here is why this keeps breaking, and here is how to redesign it so it holds.*
 
 Then something shifted.
 
@@ -155,7 +155,7 @@ Do not ask me to estimate what the next system will cost before it is built. The
 
 I ask first now. In practice I am slower at asking than at designing. The asking takes an afternoon.
 
-If that proposition holds in your experience, it has a consequence worth naming. In a system that does not hold, somebody has to close the gap, and that somebody is always a person with presence to spend — more relational attentiveness, more of themselves in the seam. The cost does not show up in any report, because the report says the process worked, which it did, on the backs of whoever paid the difference. That names a design outcome, not a character outcome. No amount of caring more will change it, because caring more works as the mechanism by which the broken structure keeps functioning.
+If that proposition holds in your experience, it carries a consequence worth naming. In a system that does not hold, somebody has to close the gap, and that somebody is always a person with presence to spend — more relational attentiveness, more of themselves in the seam. The cost does not show up in any report, because the report says the process worked, which it did, on the backs of whoever paid the difference. That names a design outcome, not a character outcome. No amount of caring more will change it, because caring more works as the mechanism by which the broken structure keeps functioning.
 
 The Architect who turns a relational field into a leverage point and a living relationship into a KPI has already lost the reason the design mattered. Exiling that one makes sense. The discipline goes out with it, the same discipline that keeps a relational field from becoming a leverage point in the first place.
 
@@ -193,7 +193,7 @@ At the deepest level, it works like this:
 
 Call this an engineering fact rather than a metaphor. It has profound implications for allyship.
 
-Because allyship poses a problem of system design before it poses a problem of individual behavior. Good people do harm because the system they're inside rewards harmful behavior and punishes the alternative. Change the system and you change the behavior, not by convincing the person to be better, but by making the better behavior the easier behavior. That's structural design. That's the Architect's practice.
+Because allyship poses a problem of system design before it poses a problem of individual behavior. Good people cause harm because the system they're inside rewards harmful behavior and punishes the alternative. Change the system and you change the behavior, not by convincing the person to be better, but by making the better behavior the easier behavior. That's structural design. That's the Architect's practice.
 
 Most people learned to interrupt this logic. To say *but people should just know better. People should just choose differently. Culture is about individual accountability.* While individual accountability matters, it works as a moral appeal rather than a system design strategy. Moral appeals work until the system incentivizes something else. Then they stop working. The people who made the moral appeal wonder why nobody listened, when the answer comes simple: the system was louder than the appeal.
 
@@ -259,11 +259,11 @@ Hand Off is also where the Architect most often walks away, for reasons that hav
 
 ---
 
-The five Architect modes are five ways logic moves through a problem. Each one works as a channel doing detection work.
+The five Architect modes are five ways logic moves through a problem. Each one works as a channel that detects.
 
 ### Draw the Axis — Structure ↔ Agency
 
-Neither pole is the answer. The position takes a judgment call every time, so only a directional diagnostic works.
+Neither pole is the answer. The position calls for judgment every time, so only a directional diagnostic works.
 
 **Try this now.**
 
@@ -578,7 +578,7 @@ In practice: before you start designing, ask: what is the one question this desi
 
 **Why it matters:** Designers get attached to their designs for a reason. The design is the thought. The thought is the designer. When you change the design, it can feel like you're rejecting yourself.
 
-Refactoring kindly means: you can see clearly that the design needs to change while holding the fact that the previous version was what got you here. It did its job. It taught you what you know now. Without it, you would not have the information you have. Honor that. Say it out loud.
+Refactoring kindly means: you can see clearly that the design needs to change while holding the fact that the previous version was what got you here. It did its job. It taught you what you know now. Without it, you would not know what you know. Honor that. Say it out loud.
 
 In practice: when you're revising a design, name what the previous version got right before you change what it got wrong. Make this a practice, not a courtesy. The previous designer in you, past you, needs to hear that they weren't wrong. They were learning.
 
@@ -598,7 +598,7 @@ The moves are what you do. The next question is where.
 
 ### Where You'll Actually Spend the Design
 
-The parable showed one of the four: Skillful Organizing. The Architect designed the meeting format that actually produced decisions and built the role that made accountability real, machinery a village runs on rather than a sentence said to one person. In Skillful Organizing a design also stops belonging to whoever drew it: the village implemented half, ignored the rest, and never once said no.
+The parable showed one of the four: Skillful Organizing. The Architect designed the meeting format that actually produced decisions and built the role that enforced accountability, machinery a village runs on rather than a sentence said to one person. In Skillful Organizing a design also stops belonging to whoever drew it: the village implemented half, ignored the rest, and never once said no.
 
 The design has four domains. One cheap habit imitates all four without being any of them. The cheap habit is the structural account: you say why the system keeps breaking, precisely, to people who mostly agree, and you stop one move short of what gets built instead. Reading a system that way is real skill, but it asks nothing of you, because nobody has ever needed courage to say *the system did it.* The account is also correct. The habit survives for years because no single instance of it looks like an evasion from inside, where each one looks like getting it right for the eleventh time. The four domains are where the design finally leaves the page: the condition changed where one person is standing in it, the load-bearing assumption said out loud at the table built on it, the cost moved off a person and into the budget, the machinery a group runs on handed to somebody who can change it. Each costs more than an account, because each puts something into the world with your name on it and somebody else's week inside it.
 
@@ -661,7 +661,7 @@ The daemon is a rule, in force at all five moves. The Emotional Body's five:
 
 **Grow Up.** Asked what capability wants strengthening, it strengthens the conversion. The pipeline gets faster. Nothing new gets built, because what wants to grow sits on the far side of a feeling that never finished.
 
-**Show Up.** It builds the structure that makes the conversion permanent. What needed feeling now has a process attached to it, so nobody will have to feel it again. Including the people it happened to.
+**Show Up.** It builds the structure that locks the conversion in. What needed feeling now has a process attached to it, so nobody will have to feel it again. Including the people it happened to.
 
 Where it bites is Clean Up. Selecting a transformation is a real move with a real place in the sequence, but this one is being run early and without authorization. The four moves around it are what that early selection does to the stages on either side of it.
 

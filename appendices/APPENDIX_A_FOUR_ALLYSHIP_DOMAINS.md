@@ -51,7 +51,7 @@ The reverse collapse: using Raise Awareness as a substitute — sharing the stor
 
 ## Skillful Organizing
 
-*Building structures that make coordination possible across time. Coalition, infrastructure, roles, rituals, decision-making, succession. What transforms a moment of brilliance into sustained power.*
+*Building structures that let coordination hold across time. Coalition, infrastructure, roles, rituals, decision-making, succession. What transforms a moment of brilliance into sustained power.*
 
 The domain that keeps the work alive after the inspired moment passes. Skillful Organizing is the infrastructure underneath every sustained movement — the meeting protocols that don't require a charismatic facilitator, the decision-making structures that hold when the founder leaves, the roles that distribute leadership so the work doesn't collapse into one person's exhaustion.
 
@@ -59,7 +59,7 @@ The domain that keeps the work alive after the inspired moment passes. Skillful 
 
 *When it's needed:* when the block is coordination failure — good people not working together effectively. When the energy exists but keeps dissipating because there's no structure to hold it. When a campaign has momentum but no decision-making protocol, or an organization has great values and no succession plan.
 
-**The collapse:** building structures that hold but don't move — organizations that protect themselves instead of the people they're supposed to serve. The meeting that discusses the urgent problem for three months. The coalition that has a beautiful vision statement and no mechanism for making a decision.
+**The collapse:** building structures that hold but don't move — organizations that protect themselves instead of the people they're supposed to serve. The meeting that discusses the urgent problem for three months. The coalition that has a beautiful vision statement and no mechanism for deciding.
 
 The reverse collapse: using Gather Resources when Skillful Organizing is needed — "we have 200 people who care" without roles, decision-making, or actual coordination capacity. This confuses network with organization. Or using Direct Action to substitute for organizing: the heroic solo move that bypasses the structure it was supposed to serve, leaving the coalition more fragile than before.
 
@@ -73,7 +73,7 @@ The reverse collapse: using Gather Resources when Skillful Organizing is needed 
 
 *Architect:* designs coordination systems with full rigor — roles, decision-making protocols, feedback loops, succession planning. Shadow: builds elegant structures that nobody can use because they were designed for the designer's level of sophistication, not the users'. Gift: builds the simplest structure that actually coordinates the complexity the group is working with.
 
-*Diplomat:* holds the relational field that makes coordination possible across difference — the trust-building, translation, and repair work that keeps people in the coalition. Shadow: maintains surface cohesion without addressing the coordination failures underneath — harmonizing instead of organizing. Gift: can hold enough genuine relationship across real difference that people who would otherwise be left out find themselves with a space at the table.
+*Diplomat:* holds the relational field that lets coordination survive difference — the trust-building, translation, and repair work that keeps people in the coalition. Shadow: maintains surface cohesion without addressing the coordination failures underneath — harmonizing instead of organizing. Gift: can hold enough genuine relationship across real difference that people who would otherwise be left out find themselves with a space at the table.
 
 *Sage:* sees the whole coordination system and can tell when a structure has outlived its purpose. Shadow: panoramic view without engagement — wise about what the structure lacks without being in it. Gift: knows when to dissolve a structure that's finished its work, and can do it in a way that honors what it accomplished and seeds what comes next.
 
@@ -105,7 +105,7 @@ The reverse collapse: using Raise Awareness when Direct Action is needed — "I 
 
 *Architect:* takes the specific, surgical action that addresses the precise failure point — knows which move changes the system rather than the symptom. Shadow: analyzes the situation so thoroughly that the window closes before anything happens. Gift: can identify the single intervention that shifts the system and make it before the complexity overwhelms the opportunity.
 
-*Diplomat:* takes action in relationship — the move made in conversation, the line drawn without destroying the connection. Shadow: manages the action so carefully for the relationship that the action doesn't actually happen — softened out of existence to preserve harmony. Gift: can make the costly move AND stay in relationship with the people affected — the hardest version of Direct Action.
+*Diplomat:* acts in relationship — the move made in conversation, the line drawn without destroying the connection. Shadow: manages the action so carefully for the relationship that the action doesn't actually happen — softened out of existence to preserve harmony. Gift: can make the costly move AND stay in relationship with the people affected — the hardest version of Direct Action.
 
 *Sage:* acts from meta-awareness — knows which action is needed across the whole system and at what level. Shadow: acts at the wrong altitude — makes the individual direct move when the systemic intervention was needed, or vice versa. Gift: can identify the action that shifts the system rather than the symptom, and take it at the level where it will actually work.
 

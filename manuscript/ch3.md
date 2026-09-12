@@ -85,7 +85,7 @@ It wasn't sudden. It came on gradually, the way a house gets colder when a windo
 
 The Challenger arrived.
 
-The Challenger didn't dislike the Shaman. The Challenger just believed that *something had to be done.* Doing something required making a decision. Decisions, the Challenger said, couldn't wait for everyone to process their feelings. Decisions couldn't be delayed by sadness or fear or the complicated texture of a moment. There was a problem. The villagers had to act, and *now.*
+The Challenger didn't dislike the Shaman. The Challenger just believed that *something had to be done.* Doing something meant deciding. Decisions, the Challenger said, couldn't wait for everyone to process their feelings. Decisions couldn't be delayed by sadness or fear or the complicated texture of a moment. There was a problem. The villagers had to act, and *now.*
 
 At first, this seemed right. There were problems that needed solving. The villagers needed someone who could draw a line in the sand. Someone who could say "this is unacceptable" without softening it. Someone who could move while others still gathered information. The Challenger could do that. The Challenger *did* that.
 
@@ -150,7 +150,7 @@ They chose efficiency over wisdom, output over presence, action over discernment
 
 It *worked.* The villagers solved some problems. They moved some mountains. They changed some systems, temporarily, in specific places. All while running on fumes. All while the people doing the work got more and more depleted, more and more cut off from the very source of energy that would have sustained them.
 
-This is what the villagers do with emotional alchemy when the Shaman is gone: they transform it into *performance management.* Into *emotional labor that must be optimized.* Into a system where feeling gets permission only if it makes you more productive. Where sadness comes back relabeled as growth. Where fear answers to "imposter syndrome" and takes a mindfulness app. Where anger gets channeled into "righteous action" but never, ever examined for what it might be trying to tell you about yourself.
+This is what the villagers do with emotional alchemy when the Shaman is gone: they transform it into *performance management.* Into *emotional labor that must be optimized.* Into a system where feeling counts only if it makes you more productive. Where sadness comes back relabeled as growth. Where fear answers to "imposter syndrome" and takes a mindfulness app. Where anger gets channeled into "righteous action" but never, ever examined for what it might be trying to tell you about yourself.
 
 No one in the village saw it happening. They called the pattern efficiency. The pattern starved them.
 
@@ -161,7 +161,7 @@ Nothing says "belonging" quite like replacing the people who had to love you wit
 <!-- SECTION 3 -->
 ## What Emotional Alchemy Actually Is (And Why It's Not What You've Been Told)
 
-The villagers shrink alchemy into processing: *identify* the emotion, *understand* where it came from, *release* it, and then *move on.* That model treats emotions like a problem that has a solution. Once you solve it, it's gone.
+The villagers shrink alchemy into processing: *identify* the emotion, *understand* where it came from, *release* it, and then *move on.* That model treats emotions like a problem you can solve. Once you solve it, it's gone.
 
 Emotional alchemy is the practice of staying in relationship with the full spectrum of human feeling and letting those feelings teach you something that changes who you are.
 
@@ -208,7 +208,7 @@ When you do this with joy, the one that only looks easy (it requires you to stop
 
 Other practices manage emotions or optimize them. Emotional alchemy is being educated by them.
 
-The practice comes down to this: Feel what's real. Let it teach you. Become someone who can hold that teaching while still taking action.
+The practice comes down to this: Feel what's real. Let it teach you. Become someone who can hold that teaching while still acting.
 
 What you can feel and move sets the ceiling on what you can do for anyone else. Emotional alchemy does not sit beside the work; it powers the work from underneath.
 
@@ -369,7 +369,7 @@ Now you've integrated the lesson. The final stage *moves* from that understandin
 
 You understood what matters. Now protect it. You understood your boundary. Now hold it. You understood what was real. Now honor it. You understood what's aligned. Now move toward it. You understood the larger perspective. Now lead from it.
 
-**In practice:** take the action the understanding asks for. It differs with each feeling and each situation. It can happen in the next ten seconds or unfold over days. The timeline doesn't matter. Your source does: you move from the wisdom you've integrated, not from your defensive programming.
+**In practice:** act on what the understanding asks for. It differs with each feeling and each situation. It can happen in the next ten seconds or unfold over days. The timeline doesn't matter. Your source does: you move from the wisdom you've integrated, not from your defensive programming.
 
 ---
 
@@ -613,7 +613,7 @@ The draw wants a reading you already had: the most recent one that never left yo
 
 ### Halfway: Put the Book Down Here
 
-You have the instrument now. Five stages, five channels, what each channel is for, what a move costs to run and what it gives back.
+You hold the instrument now. Five stages, five channels, what each channel is for, what a move costs to run and what it gives back.
 
 The second half of this chapter meets the part of you that decides whether you may use any of it.
 

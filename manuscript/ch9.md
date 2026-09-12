@@ -284,7 +284,7 @@ You now know that the villagers need you.
 
 The actual you, standing where the performed you and the performed ally used to stand: the one who has done the inner work.
 
-The performed ally is easy to spot. They have the vocabulary. They have the correct positions. They have the performance of care without the somatic reality of having walked through what hurt. The performed ally burns out, because performing exhausts you, and because performing care without actually having it produces the exhaustion that comes from fraud.
+The performed ally is easy to spot. They have the vocabulary. They have the correct positions. They mime care without the somatic reality of having walked through what hurt. The performed ally burns out, because performing exhausts you, and because performing care without actually having it produces the exhaustion that comes from fraud.
 
 The actual ally is harder to spot. They might not have all the right words. They might get it wrong and have to correct. They have what the performed ally lacks: the work itself. They've walked through their own stuff. They know the difference between feeling and acting. They know how to come back.
 
@@ -602,7 +602,7 @@ So here are six moments. Read each one and write down two answers before you go 
 
 **The reads.**
 
-**One is the Challenger.** Nothing here needs translating. Everyone at that table understood what happened, including the person it happened to. The field is silent rather than confused. The pull is toward the Diplomat, who has a version of this that costs nothing: catch the director afterward, catch the newest person afterward, be warm to both, bring the temperature down. That version leaves the four seconds exactly as they were. The move is **Name the Unnameable** (Chapter 4), whose entire value is that it happens inside the four seconds rather than in the hallway.
+**One is the Challenger.** Nothing here needs translating. Everyone at that table understood what happened, including the person it happened to. The field is silent rather than confused. The pull is toward the Diplomat, who runs a version of this that costs nothing: catch the director afterward, catch the newest person afterward, be warm to both, bring the temperature down. That version leaves the four seconds exactly as they were. The move is **Name the Unnameable** (Chapter 4), whose entire value is that it happens inside the four seconds rather than in the hallway.
 
 **Two is the Architect.** Three people have failed at this role, each experiencing it as a personal failure: the signature of a design problem wearing a people problem's clothes. The pull is toward the Regent, an honorable one: keep the vows, carry the load, cover again. Covering again is what produced the third departure. The move is **Design for Handoff** (Chapter 6), run before the new coordinator's first week instead of after their last.
 

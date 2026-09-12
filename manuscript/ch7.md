@@ -107,7 +107,7 @@ After the Diplomat left, the village still needed people to stay. It had stopped
 
 Newcomers arrived and had to audition: they came bearing gifts, because coming empty-handed had stopped working. Camps that wanted the same outcome got louder in their own languages instead of learning each other's. The hard conversations moved into corridors and private messages, where they cost nothing and changed nothing. Nobody went back after a rupture, and when the injured stopped turning up the village called the thinning natural. Meetings ended in warmth and vagueness: everyone accommodated, nothing settled, another session scheduled.
 
-The village chose this for a reason it could defend. After the Challenger it had lines. After the Regent it had continuity. What neither one gave it was a practice for keeping people, and the fastest substitute for a practice is a mood. So the village picked harmony over honesty, inclusion over closure, and hearing everyone over closing the question.
+The village chose this for a reason it could defend. After the Challenger it had lines. After the Regent it endured. What neither one gave it was a practice for keeping people, and the fastest substitute for a practice is a mood. So the village picked harmony over honesty, inclusion over closure, and hearing everyone over closing the question.
 
 Harmony worked. The village argued less and reported higher satisfaction whenever anyone asked. Underneath it, the people holding the village together carried it without saying so, absorbed what it cost them, and left without warning, which the village read as a run of unrelated departures. The ones who stayed kept count instead, and a count kept long enough starts to feel like a position.
 
@@ -287,7 +287,7 @@ The anxiety, fully felt and recognized as history rather than prophecy, converts
 
 **Alchemy 2 — Stage-Fright → Authentic Presence**
 
-Under the first alchemy sits a deeper Dissatisfaction: **stage-fright**, the fear of being seen without a script. The distorted Bridge-Builder has an easy smile and a practiced warmth, technically correct and experientially hollow. They are performing connection, not generating it.
+Under the first alchemy sits a deeper Dissatisfaction: **stage-fright**, the fear of being seen without a script. The distorted Bridge-Builder has an easy smile and a practiced warmth, technically correct and experientially hollow. They are staging connection, not generating it.
 
 The alchemy: you feel the panic of being seen without your material, and you alchemize it into the willingness to be actually present. *I don't need to have a plan. I can just be here and let that be enough.*
 
@@ -349,11 +349,11 @@ The alchemy moves through **humility into real curiosity**: you let the arrogant
 
 **Alchemy 2 — Translation Guilt → Legitimate Partiality**
 
-The Translator carries a secondary Dissatisfaction: the guilt of partiality. You have a position, and you translate from it. Is that translation or persuasion? Where does translation end and advocacy begin?
+The Translator carries a secondary Dissatisfaction: the guilt of partiality. You hold a position, and you translate from it. Is that translation or persuasion? Where does translating end and advocacy begin?
 
 This guilt is real, yet also a distortion. **Partiality is not the same as betrayal.** A Translator who cannot tolerate their own partiality ends in a false neutrality that serves no one, least of all the field.
 
-The alchemy: *I stop apologizing for having a position I am translating from.* I let the guilt transmute into the clarity of legitimate partiality. I am a partisan who can also really hear.
+The alchemy: *I stop apologizing for holding a position I am translating from.* I let the guilt transmute into the clarity of legitimate partiality. I am a partisan who can also really hear.
 
 **From Understanding to Transmission**
 
@@ -399,7 +399,7 @@ The alchemy: *I stop protecting the field and start building one that can take w
 
 **From Presence to Structure**
 
-**Fire → Earth: Heat translated into form.** When conflict charges a field (hot, fast, potentially explosive), the field will not cool down. It will move. The Translate move gives the movement a shape: a boundary, a format, a pause that says: *let's do this deliberately.* The fire doesn't go out. It becomes a fireplace instead of a wildfire.
+**Fire → Earth: Heat translated into form.** When conflict charges a field (hot, fast, potentially explosive), the field will not cool down. It will move. The Translate move shapes the movement: a boundary, a format, a pause that says: *let's do this deliberately.* The fire doesn't go out. It becomes a fireplace instead of a wildfire.
 
 **Water → Wood: Sadness translated into forward motion.** When a field sits stuck in sadness (slow, heavy, collapsed), the Translate move carries that energy forward into possibility. The field has been hurt. It needs to grieve. It also needs to know it can still move.
 
@@ -591,7 +591,7 @@ It shows up in a single beat. Someone tells you that something you did hurt them
 
 The one described above keeps a generic ledger. Yours has actual entries in it: work those. Ten to fifteen minutes.
 
-**3 · FACE IT.** Third person, and not the version in this chapter. What is on your ledger, in the words you use for it when nobody is listening? What does the balance entitle you to? When did it last open in the middle of a conversation, and what did it produce? A paragraph, as much detail as you can hold, and give it a name if a name comes.
+**3 · FACE IT.** Third person, and not the version in this chapter. What is on your ledger, in the words you use for it when nobody is listening? What does staying balanced entitle you to? When did it last open in the middle of a conversation, and what did it produce? A paragraph, as much detail as you can hold, and give it a name if a name comes.
 
 **2 · TALK TO IT.** Greet it, then ask, and let it answer.
 
@@ -667,13 +667,13 @@ Name the Field makes no diagnosis. It makes an offering. You say *here is what I
 
 **What it is:** Once the field is named, the Diplomat's second move is to take what one camp is saying and render it faithfully into the language of another.
 
-This is not summarizing. Summarizing is compression: you take the essence of what's being said and make it shorter. Translating is conversion: you take the meaning and render it into an entirely different framework without losing the truth of it.
+This is not summarizing. Summarizing is compression: you distill what's being said into something shorter. Translating is conversion: you take the meaning and render it into an entirely different framework without losing the truth of it.
 
 The reason this matters: most camps speak from within their own framework, so what they're saying only makes sense from inside it. When a camp says *"this process is disrespecting us,"* they are speaking from a framework where recognition and process are tied together. The other camp, speaking from a different framework, may hear this as *"they're questioning our authority"*, then respond defensively to the perceived challenge. Neither side is wrong. They are speaking different languages.
 
 The Diplomat translates: *"What I hear [Camp A] saying, in [Camp B]'s language, is this: the process choices you're making signal something about whether our work is valued. They're experiencing that signal as dismissive."* Now [Camp B] can hear what [Camp A] is actually saying, not a challenge to their authority, but a concern about being seen. [Camp A] can hear that their concern was received faithfully, not as an attack.
 
-**The art of the translation:** You have to hold your own position lightly enough to truly receive the meaning before you transmit it. If you're already formulating your response while they're speaking, you're not translating. You're performing translation.
+**The art of the translation:** You have to hold your own position lightly enough to truly receive the meaning before you transmit it. If you're already formulating your response while they're speaking, you're not translating. You're staging translation.
 
 **Why it matters:** Translation builds the bridge that lets both camps move forward together. Without it, camps talk about each other instead of to each other, so the conversation becomes a performance of positions rather than a search for understanding.
 
@@ -711,7 +711,7 @@ A threat would sound like *do this or I leave.* This is an offering of informati
 
 **The test:** You named what you actually need from the agreement rather than a softer version, said it once, and left it alone for the people it concerns to answer. Their behavior may or may not change. If you named the real terms but nothing moved, that is information.
 
-The close is clean when there's nothing left to add and you don't reach to fill the silence. You've said the terms, nothing has broken, and for once you let it stay said. The over-care version is the opposite: the talk thickens to molasses, every term softened until nothing's actually been said, the conversation kept intact like a museum piece and nobody moved an inch. Then the performed version: the words are out, but one hand stays on the door, ready to pull it open again the moment they frown.
+The close is clean when there's nothing left to add and you don't reach to fill the silence. You've said the terms, nothing has broken, and for once you let it stay said. The over-care version is the opposite: the talk thickens to molasses, every term softened until nothing's actually been said, the conversation kept intact like a museum piece and nobody moved an inch. Then the staged version: the words are out, but one hand stays on the door, ready to pull it open again the moment they frown.
 
 **Before you name them, ask:** Am I naming this because I know what the agreement requires, or because I'm hoping the other person will talk me out of it? If you're hoping they'll talk you out of it, you're not ready to name it yet. Wait. Sit with it. Come back when you mean it.
 

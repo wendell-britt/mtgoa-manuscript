@@ -17,7 +17,7 @@ You have three tools for a stuck moment, none of them interchangeable.
 - Use **WAVE** when a charge is already moving in you and ready to act.
 - Use the **Polarity Map** when you are torn between two positions that both seem right, and the picking is what's exhausting you.
 
-The tell that you're in a polarity and not a problem: you solve it, and within a week you're solving it again from the other direction. A problem has a solution and stays solved. A polarity is a tension between two genuine goods, so the work is never to win it. The work is to hold both without letting either eat the other.
+The tell that you're in a polarity and not a problem: you solve it, and within a week you're solving it again from the other direction. You solve a problem once and it stays solved. A polarity is a tension between two genuine goods, so the work is never to win it. The work is to hold both without letting either eat the other.
 
 The pair changes with altitude. The map doesn't.
 

@@ -136,7 +136,7 @@ The villagers never realized they had traded the capacity to draw lines for the 
 <!-- SECTION 3 -->
 ## What the Clean "No" Actually Is (And Why It's Not What You've Been Told)
 
-You already have a version of the clean no. You've been calling it something else.
+You already carry a version of the clean no. You've been calling it something else.
 
 The villagers hear the clean no as aggression: the angry one, the difficult one, the one who makes it worse before it gets better, someone who says no because they want to win. I was nineteen when people who meant well told me that. I believed them for another thirty years. The version they described does exist (you've probably met them), but it is not what we're talking about here.
 
@@ -517,7 +517,7 @@ Then it speaks. It always sounds reasonable. *Am I overreacting. Other people ha
 
 Here is the tell that separates the auditor from the judge: the auditor finishes. It asks its question, gets an answer, hands the charge back to you either confirmed or dismissed, and stops. The Skeptic in shadow never finishes. No evidence closes the case, because the case was never about evidence. Ask yourself whether you feel certain: you will always find you could feel less certain. The audit runs until the moment has passed, and that outcome was always its purpose.
 
-Now here is why this daemon stands where it stands, in a book about allyship. Everything you have learned in this chapter runs on a charge you trust enough to aim. Charge, Aim, Act, Stand, Exit: the whole sequence assumes Stage 1 got permission to count. The Skeptic can end the practice between Stage 1 and Stage 2, not by arguing that the line is wrong but by ruling that you have not established the line is yours to draw. It does not put the fire out, either. The fire burned. You felt every degree of it. You filed it instead of aiming it, then carried it home.
+Now here is why this daemon stands where it stands, in a book about allyship. Everything you have learned in this chapter runs on a charge you trust enough to aim. Charge, Aim, Act, Stand, Exit: the whole sequence assumes Stage 1 was allowed to count. The Skeptic can end the practice between Stage 1 and Stage 2, not by arguing that the line is wrong but by ruling that you have not established the line is yours to draw. It does not put the fire out, either. The fire burned. You felt every degree of it. You filed it instead of aiming it, then carried it home.
 
 The cost falls twice: once on you, who lose the line, and once on the person who needed it, who ends up somewhere nobody drew one, where the crossing went unremarked and everyone present, the one who crossed included, learned that it was uncrossable in principle and crossable in fact. They did not need your certainty. They needed the sentence.
 
@@ -558,7 +558,7 @@ The one described above audits in general. Yours has a house style: work that. T
 
 You drew the Force ↔ Restraint axis earlier in this chapter. Here is why the Skeptic is nearly impossible to catch standing on it, and why the chapter gave you a polarity instead of a rule.
 
-Both poles are real goods, though the axis named what each one costs alone. Every live moment sits somewhere on that axis, and where it sits takes a judgment call. Judgment calls are precisely what an auditor is for.
+Both poles are real goods, though the axis named what each one costs alone. Every live moment sits somewhere on that axis, and where it sits calls for judgment. Judgment calls are precisely what an auditor is for.
 
 So nobody catches the shadow in the act. It does not argue for cowardice; you would notice cowardice. It argues for Restraint, half of the truth. *This is not the one. This is not the moment. This is not mine to say.* Each of those can be correct. Each of them is correct sometimes. You can spend a whole career at the Restraint end of a real polarity and call it discernment, without a single instance looking like a failure.
 

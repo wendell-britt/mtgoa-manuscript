@@ -238,7 +238,7 @@ The Sage doesn't get this by leaving. The Sage gets this by staying: by seeing e
 
 ### *What the Watcher Kept: The Gift and the Limit of Each One*
 
-The Sage's journey runs inward and then back. Corin would call going inward a retreat, getting the movement right and the destination wrong. At each school, you did the work and also watched yourself do it. That watcher is the Sage, who accumulates a specific kind of knowledge: the gift and the limit of each one, held at the same time.
+The Sage's journey runs inward and then back. Corin would call going inward a retreat, right about the movement and wrong about the destination. At each school, you did the work and also watched yourself do it. That watcher is the Sage, who accumulates a specific kind of knowledge: the gift and the limit of each one, held at the same time.
 
 **The Shaman's feeling is always true and always incomplete.** True, because feeling is information: the body reports honestly on what it encounters. Incomplete, because a feeling doesn't tell you what to do about it. The Shaman knows what's present. The Sage knows what game the Shaman plays by feeling, and whether that game is the one the moment needs.
 
@@ -308,7 +308,7 @@ The Sage sees in five modes. Each one is a tool. Each one, run wrong, becomes a 
 
 ### Draw the Axis — Which Game ↔ Which Altitude
 
-The draw takes a situation you are already inside and already have a view about, because the failure this axis names is a view that arrived before its evidence did.
+The draw starts from a situation you are already inside and already judge, because the failure this axis names is a view that arrived before its evidence did.
 
 **Try this now.**
 
@@ -376,7 +376,7 @@ Underneath the Diagnostician's first failure is flatness. Not sadness about what
 
 Flat sight feels like objectivity and amounts to the Neutral channel stuck. The tell is that the naming costs you nothing. Real diagnosis has a temperature to it, because you name something that matters to you about people you intend to stay with.
 
-The alchemy: you notice the flatness, you name it (*I have gone unstaked, and unstaked naming reads as verdict*) and you let the numbness resolve into actual stillness. The difference between them is enormous. Numbness has nothing underneath it. Stillness has everything underneath it and isn't moving. The peace is what makes precision survivable for the person receiving it: *this is what I see, this is where we are, and I'm staying.*
+The alchemy: you notice the flatness, you name it (*I have gone unstaked, and unstaked naming reads as verdict*) and you let the numbness resolve into actual stillness. The difference between them is enormous. Numbness has nothing underneath it. Stillness has everything underneath it and isn't moving. The peace is what lets the person receiving it survive precision: *this is what I see, this is where we are, and I'm staying.*
 
 ---
 **Alchemy Move 4: Liberator**  
@@ -462,7 +462,7 @@ The Sage does not need you to rank the games. The Sage needs you to tell the tru
 
 ### 3-2-1 — Reclaim the One Who Went Anyway
 
-Somebody moves before they have understood it. They get a piece of it wrong in public, adjust, and keep going. You have an assessment of them that you have never said out loud, one that has been saving you something.
+Somebody moves before they have understood it. They get a piece of it wrong in public, adjust, and keep going. You hold an assessment of them that you have never said out loud, one that has been saving you something.
 
 Solo, written or spoken, fifteen to twenty-five minutes.
 
@@ -541,7 +541,7 @@ Registering the difference is the gift working. The distortion arrives in what i
 
 It converts difference into defect. Not *I process this differently* but *I process this wrong.* And the conversion is nearly invisible, because it arrives wearing humility. Everything the Damaged Self says sounds like the opposite of arrogance. *Normal people don't have to carry this much. I should be able to turn it off. Something in me is miscalibrated.* You will not catch this by listening for grandiosity. It doesn't sound like grandiosity. It sounds like the most self-aware voice in the vicinity.
 
-Once difference is defect, the remit widens on its own, in a direction nothing else in the Forest can reach. A defective instrument does not get used. It gets repaired first. So the Damaged Self takes a question about what you should do and returns an answer about what needs fixing in you, always upstream of what needed doing.
+Once difference is defect, the remit widens on its own, in a direction nothing else in the Forest can reach. A defective instrument does not get used. It gets repaired first. So the Damaged Self hears a question about what you should do and answers about what needs fixing in you, always upstream of what needed doing.
 
 This daemon stands where it stands for a reason, in a book about allyship. Allyship run by a Damaged Self stays permanently in preparation. One more wound always waits to be worked through before you're clean enough to be useful. Meanwhile the person you meant to stand beside waits on a repair schedule nobody showed them and nobody lets them influence. That's the structural cost, and it doesn't require any bad intent to produce. It requires only the belief that you're the part of the system that isn't working yet.
 
@@ -677,7 +677,7 @@ Chou calls this playing the right game. In *10,000 Hours of Play*, he describes 
 
 **Example:** You are ten minutes into helping Sam plan the week. Sam has stopped answering in sentences. The plan is good. The plan was the wrong game twenty minutes ago. Switch deliberately and say so: *I think I have been solving and you needed me to stay. I can go back to the plan whenever you want it.* Put the notebook down. The week does not get planned. Sam texts you two days later about something unrelated, which is the whole result.
 
-**The test:** After you switch, does the situation stabilize in the new game, or does it keep asking you to go somewhere else? Stabilizing is the practice. Being pulled three directions is the shadow.
+**The test:** After you switch, does the new game hold you, or does it keep sending you somewhere else? Stabilizing is the practice. Being pulled three directions is the shadow.
 
 
 ### Move 3: Return Without Condescension

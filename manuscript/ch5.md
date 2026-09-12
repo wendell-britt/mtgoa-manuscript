@@ -90,7 +90,7 @@ The Regent started to confuse *what the villagers had built* with *what the vill
 
 It wasn't fine.
 
-Because while the Regent guarded the walls, the humans inside them disappeared. The people who came to the council stopped arguing because arguing felt like disrespecting the tradition. The newcomers who arrived with questions heard "this is how we've always done it" and never came back. The ones who stayed learned to perform compliance (to say the words, wear the role, go through the motions) while everything alive inside them drained out where nobody could see it.
+Because while the Regent guarded the walls, the humans inside them disappeared. The people who came to the council stopped arguing because arguing felt like disrespecting the tradition. The newcomers who arrived with questions heard "this is how we've always done it" and never came back. The ones who stayed learned to fake compliance (to say the words, wear the role, go through the motions) while everything alive inside them drained out where nobody could see it.
 
 The Regent didn't notice at first. The Regent was busy. The Regent had walls to maintain and traditions to run and roles to fill. The cracks started small: a council that went through the motions. A ceremony that nobody believed in. A role filled by a person who had long since stopped feeling anything. The Regent saw these as *maintenance problems*, fixable with better systems, tighter roles, more enforcement.
 
@@ -182,7 +182,7 @@ It makes what you build last longer than you do.
 <!-- SECTION 3 -->
 ## What the Regent's Practice Actually Is (And Why It's Not What You've Been Told)
 
-You already have a version of what "tradition" means. Most people got theirs the last time somebody used the word against them.
+You already carry a version of what "tradition" means. Most people got theirs the last time somebody used the word against them.
 
 The villagers keep tradition instead of passing it on: "we do it this way because we've always done it this way." That treats a practice as a *relic*, preserved because it is old, rather than because it works. That makes a cargo cult of the Regent's practice.
 
@@ -250,7 +250,7 @@ Honor what was passed means keeping the form, protecting what works, staying loy
 
 Reform what no longer serves means updating the form when the essence requires it. Naming what broke without dismantling what still holds. Changing what loyalty actually demands, not just what loyalty has always looked like.
 
-You know this tension from the inside. The practices you inherited from the work (the frameworks, the vocabulary, the rituals someone before you built with real stakes): some of them are still load-bearing. Some of them became something else: a form that performs the commitment without keeping it. You know which ones. You've stood in circles where the acknowledgment was said but the land was not returned. You've used vocabulary that used to mean something and now signals membership more than it moves anything. You keep the forms because dropping them would feel like a betrayal of someone whose effort you still respect. That is the Regent's pair in active tension. It is named here because from the inside the tension reads as weakness, and keepers before you have filed it under that name.
+You know this tension from the inside. The practices you inherited from the work (the frameworks, the vocabulary, the rituals someone before you built with real stakes): some of them are still load-bearing. Some of them became something else: a form that mimes the commitment without keeping it. You know which ones. You've stood in circles where the acknowledgment was said but the land was not returned. You've used vocabulary that used to mean something and now signals membership more than it moves anything. You keep the forms because dropping them would feel like a betrayal of someone whose effort you still respect. That is the Regent's pair in active tension. It is named here because from the inside the tension reads as weakness, and keepers before you have filed it under that name.
 
 
 *Now the chapter resumes.*
@@ -375,7 +375,7 @@ The Regent's practice moves through five stages of its own, distinct from the Fo
 
 Chapter 1 taught you to read your own fuel: what a move costs you. Chapter 3 taught you to ask what a move does to the living field. The Regent adds:
 
-Does this way of carrying make the inheritance more alive, or does it preserve the form while draining the life?
+Does this way of carrying keep the inheritance alive, or does it preserve the form while draining the life?
 
 The Regent does not need you to score loyalty. The Regent needs you to tell the truth about whether what you carry grows more honest, more receivable, and more alive over time.
 
@@ -400,7 +400,7 @@ Some moves spend the self to preserve the form:
 - **Tradition → Dogma:** You hold the form so tightly that the life leaves the tradition.
 - **Role → Mask:** You become the position so completely that the person underneath is lost.
 
-The test is simple: does this move make the inheritance more alive and more receivable, or does it protect the shell while draining the person carrying it?
+The test is simple: does this move keep the inheritance alive and receivable, or does it protect the shell while draining the person carrying it?
 
 ---
 
@@ -573,7 +573,7 @@ The tell is never the position. The tell is whether anything ever gets accepted.
 
 ### What You Take Out of the Forest
 
-The Fixer/Healer developed does what nothing else in this chapter can do: it lets you say what is wrong with something you have already committed to. That combination comes rarer than it sounds. Most people manage one or the other, loyal and blind, or clear-eyed and uncommitted. Holding both makes an inheritance transmissible, because the next person needs the damage report and the commitment in the same hand.
+The Fixer/Healer developed does what nothing else in this chapter can do: it lets you say what is wrong with something you have already committed to. That combination comes rarer than it sounds. Most people manage one or the other, loyal and blind, or clear-eyed and uncommitted. Holding both lets an inheritance pass, because the next person needs the damage report and the commitment in the same hand.
 
 That lays the foundation this chapter builds on. What it trains is the Storyteller: what you received, put into a form the next person can receive. The account of where this came from, what it cost, what broke, what still holds, and why any of it is worth their time. That is how something survives its carrier.
 
@@ -684,7 +684,7 @@ You carry an inheritance for years. The same three moves decide, in every domain
 
 ### The Tell
 
-None of the four markers asked why you kept it. That question is real. It belongs to the Regent, because a Regent who takes an inheritance on so that everybody can watch somebody finally take one on has run the same repair cycle with a ceremony attached. So the answer goes in your log in writing, where a later you can read it back. When you log the rep, answer it:
+None of the four markers asked why you kept it. That question is real. It belongs to the Regent, because a Regent who shoulders an inheritance so that everybody can watch somebody finally shoulder one has run the same repair cycle with a ceremony attached. So the answer goes in your log in writing, where a later you can read it back. When you log the rep, answer it:
 
 - **Direct Action.** Did you claim it so the work had somebody in it, or so nobody could call you the one still deciding?
 - **Raise Awareness.** Name who the reason was for. The next person who has to run this, or the people watching somebody who was there at the founding?
