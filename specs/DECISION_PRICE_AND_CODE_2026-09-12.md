@@ -1,6 +1,6 @@
 ---
 type: decision
-title: "The paperback lists at $30, and the course rides with the physical copy"
+title: "Two physical channels — $30 on Amazon, $40 from Wendell, both carrying the course"
 aliases:
   - paperback price
   - course code
@@ -205,3 +205,85 @@ and the three see different things.
 **OQ-2 gets harder, not easier.** At $30 the Amazon copy nets $12.40, so a direct channel
 has a lower bar to clear — but the direct copy also has to carry the course, which the
 Gumroad PWYW edition already does through `/book`.
+
+
+---
+
+# CORRECTED, same day — there are two physical channels, not one price
+
+**I read the $30 and the $40 as competing answers to one question. They are two different
+channels and both are live.** Everything above that computes a single paperback number is
+wrong; this section replaces that arithmetic.
+
+**Wendell:** *"The KDP print on demand physical copies are $30 they come with a code for the
+book. The Kindle Copies don't but push people to the page where they can buy the course. The
+KDP copies, from the RUN am making are going to be printed and sent to me to sell (also for
+$40). I'm doing a bit of a discount for people who find the book through amazon and not
+through my own marketing efforts."*
+
+## The four products
+
+| product | price | what it carries | per copy to Wendell |
+|---|---|---|---|
+| **Amazon print-on-demand** | $30 | code, course included | **$12.40** (60% of list − $5.60 print) |
+| **The run, sold by hand** | $40 | code, course included | **$34.40** before his own shipping and fees |
+| **Kindle** | $9.99 | a link to buy the course, no code | ~$6.25–$6.75 after the delivery fee |
+| **PDF (Gumroad)** | $30 floor, PWYW | `/book` | ~$29 |
+
+**The two physical editions are the same interior.** One is printed by Amazon on demand when
+somebody orders; the other is a batch Wendell orders as author copies, ships to himself, and
+sells at events, on tour, and through his own audience.
+
+## The run, with the right arithmetic
+
+Author copies bill at print cost times quantity with **no volume discount**, and shipping is
+separate — KDP's own page says *"this price is the lowest price we can offer for your book."*
+
+| | |
+|---|---|
+| 500 copies at $5.60 | **$2,800** plus inbound shipping |
+| 247 to Kickstarter backers | no revenue, obligation discharged |
+| 253 sold at $40 | **$10,120** |
+| **net on the run** | **$7,320** before outbound shipping and payment fees |
+
+**The direct sales pay for the whole run and the backer obligation inside it, with $7,320
+left over.** That is a different picture from the one I gave in chat, where I treated the run
+as Amazon inventory and got $3,137.
+
+**Amazon print-on-demand sits outside this entirely.** No inventory, no cap, $12.40 a copy,
+running as long as the listing is up.
+
+## The pricing logic, stated as ruled
+
+**Amazon buyers pay less than Wendell's own audience.** His reason: *a discount for people
+who find the book through Amazon and not through my own marketing efforts.* The stranger who
+stumbles on the listing gets the cheaper price; the reader who arrives through the podcast,
+the tour or the Dream 100 pays the full $40.
+
+### One structural exposure, named without a recommendation
+
+**The two prices are attached to an identical object, and both are visible to the same
+buyer.** Someone who came through the marketing can search Amazon, find the same book with
+the same code and the same course for $30, and buy there. That trade is $12.40 to Wendell
+instead of $34.40.
+
+**Nothing currently distinguishes the $40 copy from the $30 one** — same interior, same code,
+same course. Whether that gap wants closing, and with what, is not decided here.
+
+## What holds from the sections above
+
+**The Kindle stays legal at $9.99.** The 70% tier keys off the Amazon print list, and 20%
+below $30 is $24.
+
+**The code is a doorbell rather than a lock**, and the survey is the funnel instrument. Both
+unchanged.
+
+**`SPEC_PDF_2.0` OQ-1 reads $30**, which is correct for the Amazon list — the number that
+question was always asking about.
+
+## Unverified
+
+**Whether KDP's terms speak to reselling author copies at a price above the Amazon list.**
+The author-copy help page covers cost and shipping and says nothing about resale price, and I
+did not find a parity clause either way. **Worth reading the KDP Terms of Service before the
+run rather than after it.**
