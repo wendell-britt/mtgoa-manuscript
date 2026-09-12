@@ -275,13 +275,6 @@ trailing_and:
 - quote: His friends come to him for a light shone into whatever they have been refusing to look at, for
     genre-savvy takes on the state of the world, for rad parties, and to run their roleplaying games.
   reason: 'serial list: four things his friends come to him for. and closes the series.'
-- quote: A verb, a name, a deadline, and an artifact somebody else can encounter.
-  reason: 'serial list: the quest''s four parts; the admissions page''s three questions. and closes the
-    series.'
-- quote: One per Face, each with an admissions page saying who it is for, what it costs, and what it does
-    not teach.
-  reason: 'serial list: the quest''s four parts; the admissions page''s three questions. and closes the
-    series.'
 - quote: These scenarios teach you to feel the difference between a move that keeps the field workable,
     a move that returns capacity, and a move that spends capacity on purpose.
   reason: 'serial list: three kinds of move. and closes the series.'
@@ -408,9 +401,6 @@ fragment:
 - quote: '**THE SCHOOL OF THE BODY** *Admissions.'
   reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
     records should be scored, but those should be ledger notes because they have to be edited separately.'''
-- quote: Entry.** None.
-  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
-    records should be scored, but those should be ledger notes because they have to be edited separately.'''
 - quote: '*Thirty-first session.'
   reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
     records should be scored, but those should be ledger notes because they have to be edited separately.'''
@@ -453,6 +443,128 @@ fragment:
 - quote: Thalen Orr, Keeper of the Far Game, Head of the School of the Horizon
   reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
     records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: Any of it.
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: A word from the Head.**
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: '**Clause one.**'
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: '**Clause two, admission.**'
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: '**Clause six, entry.**'
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: '**Clause four.**'
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: '**Clause five.**'
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: '**Clause six.**'
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: (Yes, already.
+  reason: deliberate verbless beat — the book's voice uses fragment beats for emphasis (cf. specs/VOICE_ANCHOR.md's
+    own fragment-heavy anchors); kept per the zero-target ledger. My call, Wendell to ratify.
+- quote: A cause.
+  reason: deliberate verbless beat — the book's voice uses fragment beats for emphasis (cf. specs/VOICE_ANCHOR.md's
+    own fragment-heavy anchors); kept per the zero-target ledger. My call, Wendell to ratify.
+- quote: Years of them.
+  reason: deliberate verbless beat — the book's voice uses fragment beats for emphasis (cf. specs/VOICE_ANCHOR.md's
+    own fragment-heavy anchors); kept per the zero-target ledger. My call, Wendell to ratify.
+- quote: Your actual ones.
+  reason: deliberate verbless beat — the book's voice uses fragment beats for emphasis (cf. specs/VOICE_ANCHOR.md's
+    own fragment-heavy anchors); kept per the zero-target ledger. My call, Wendell to ratify.
+- quote: Traditions with histories.
+  reason: deliberate verbless beat — the book's voice uses fragment beats for emphasis (cf. specs/VOICE_ANCHOR.md's
+    own fragment-heavy anchors); kept per the zero-target ledger. My call, Wendell to ratify.
+- quote: Small ones first.
+  reason: deliberate verbless beat — the book's voice uses fragment beats for emphasis (cf. specs/VOICE_ANCHOR.md's
+    own fragment-heavy anchors); kept per the zero-target ledger. My call, Wendell to ratify.
+- quote: Then larger ones.
+  reason: deliberate verbless beat — the book's voice uses fragment beats for emphasis (cf. specs/VOICE_ANCHOR.md's
+    own fragment-heavy anchors); kept per the zero-target ledger. My call, Wendell to ratify.
+- quote: Organizational cultures.
+  reason: deliberate verbless beat — the book's voice uses fragment beats for emphasis (cf. specs/VOICE_ANCHOR.md's
+    own fragment-heavy anchors); kept per the zero-target ledger. My call, Wendell to ratify.
+- quote: More relational attentiveness.
+  reason: deliberate verbless beat — the book's voice uses fragment beats for emphasis (cf. specs/VOICE_ANCHOR.md's
+    own fragment-heavy anchors); kept per the zero-target ledger. My call, Wendell to ratify.
+- quote: More of themselves in the seam.
+  reason: deliberate verbless beat — the book's voice uses fragment beats for emphasis (cf. specs/VOICE_ANCHOR.md's
+    own fragment-heavy anchors); kept per the zero-target ledger. My call, Wendell to ratify.
+- quote: Four parts, four strategies, four different jobs.
+  reason: deliberate verbless beat — the book's voice uses fragment beats for emphasis (cf. specs/VOICE_ANCHOR.md's
+    own fragment-heavy anchors); kept per the zero-target ledger. My call, Wendell to ratify.
+- quote: Endless revisions.
+  reason: deliberate verbless beat — the book's voice uses fragment beats for emphasis (cf. specs/VOICE_ANCHOR.md's
+    own fragment-heavy anchors); kept per the zero-target ledger. My call, Wendell to ratify.
+- quote: Infinite drafts.
+  reason: deliberate verbless beat — the book's voice uses fragment beats for emphasis (cf. specs/VOICE_ANCHOR.md's
+    own fragment-heavy anchors); kept per the zero-target ledger. My call, Wendell to ratify.
+- quote: 'Seven of them and the child at the center: eight in all, eight questions.'
+  reason: deliberate verbless beat — the book's voice uses fragment beats for emphasis (cf. specs/VOICE_ANCHOR.md's
+    own fragment-heavy anchors); kept per the zero-target ledger. My call, Wendell to ratify.
+- quote: Thirteen lines.
+  reason: deliberate verbless beat — the book's voice uses fragment beats for emphasis (cf. specs/VOICE_ANCHOR.md's
+    own fragment-heavy anchors); kept per the zero-target ledger. My call, Wendell to ratify.
+- quote: Five stages, in order, every time.
+  reason: deliberate verbless beat — the book's voice uses fragment beats for emphasis (cf. specs/VOICE_ANCHOR.md's
+    own fragment-heavy anchors); kept per the zero-target ledger. My call, Wendell to ratify.
+- quote: 'The five modes: **Cartographer, Designer, Founder, Elder, Outlaw.**'
+  reason: list lead-in — a label introducing the list that immediately follows (e.g. 'The Skeptic's five:'
+    before five items); typography, not a beat-placement defect. My call, Wendell to ratify.
+- quote: 'Formula: **adaptation under pressure → conscious integration → intentional contribution**.'
+  reason: list lead-in — a label introducing the list that immediately follows (e.g. 'The Skeptic's five:'
+    before five items); typography, not a beat-placement defect. My call, Wendell to ratify.
+- quote: 'Two concrete examples:'
+  reason: list lead-in — a label introducing the list that immediately follows (e.g. 'The Skeptic's five:'
+    before five items); typography, not a beat-placement defect. My call, Wendell to ratify.
+- quote: 'The Skeptic''s five:'
+  reason: list lead-in — a label introducing the list that immediately follows (e.g. 'The Skeptic's five:'
+    before five items); typography, not a beat-placement defect. My call, Wendell to ratify.
+- quote: 'The Fixer/Healer''s:'
+  reason: list lead-in — a label introducing the list that immediately follows (e.g. 'The Skeptic's five:'
+    before five items); typography, not a beat-placement defect. My call, Wendell to ratify.
+- quote: 'The Emotional Body''s five:'
+  reason: list lead-in — a label introducing the list that immediately follows (e.g. 'The Skeptic's five:'
+    before five items); typography, not a beat-placement defect. My call, Wendell to ratify.
+- quote: 'The structure:'
+  reason: list lead-in — a label introducing the list that immediately follows (e.g. 'The Skeptic's five:'
+    before five items); typography, not a beat-placement defect. My call, Wendell to ratify.
+- quote: 'The Victim''s:'
+  reason: list lead-in — a label introducing the list that immediately follows (e.g. 'The Skeptic's five:'
+    before five items); typography, not a beat-placement defect. My call, Wendell to ratify.
+- quote: Three exchanges at minimum.
+  reason: drill parameter — a terse instruction spec inside a practice step ('Three exchanges at minimum.',
+    one entry covers all six chapters). My call, Wendell to ratify.
+- quote: Four words each, no explanation.
+  reason: drill parameter — a terse instruction spec inside a practice step ('Three exchanges at minimum.',
+    one entry covers all six chapters). My call, Wendell to ratify.
+- quote: 'Total: 1-2 hours.'
+  reason: drill parameter — a terse instruction spec inside a practice step ('Three exchanges at minimum.',
+    one entry covers all six chapters). My call, Wendell to ratify.
+- quote: Two paragraphs, and the more detail the better.
+  reason: drill parameter — a terse instruction spec inside a practice step ('Three exchanges at minimum.',
+    one entry covers all six chapters). My call, Wendell to ratify.
+- quote: '*Source: *Igniting Joy* (Wendell Britt).'
+  reason: apparatus, not prose — a source-attribution line and a worksheet's checkbox row. My call, Wendell
+    to ratify.
+- quote: ○ Shaman · ○ Challenger · ○ Regent · ○ Architect · ○ Diplomat · ○ Sage
+  reason: apparatus, not prose — a source-attribution line and a worksheet's checkbox row. My call, Wendell
+    to ratify.
+- quote: Not this one, not yet, not from me.
+  reason: 'verbless rhetorical negation — ''Not this one, not yet, not from me.'' (refusal anaphora) and
+    the ch6 not-X-but-Y clarifying ''unnecessary''. FLAGGED: Wendell rewrites negations himself, so these
+    may become rewrites. My call.'
+- quote: Not unnecessary in a dismissive way, unnecessary in a generous way.
+  reason: 'verbless rhetorical negation — ''Not this one, not yet, not from me.'' (refusal anaphora) and
+    the ch6 not-X-but-Y clarifying ''unnecessary''. FLAGGED: Wendell rewrites negations himself, so these
+    may become rewrites. My call.'
 gate: []
 slop_shapes:
 - quote: When the dust settled, the Regent was gone, not exiled exactly, but *retired.* The villagers

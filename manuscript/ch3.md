@@ -772,7 +772,7 @@ In practice: the sign is the urge to sit up straight and sound reasonable. That 
 
 Named out loud, the channel stops being weather and becomes an object on the table. *There is a lot of fear in this conversation.* *I think what is actually here is sadness, and we keep treating it as a disagreement.* You are not diagnosing anyone. You are reporting what the field is doing, which hands everybody something to work with other than the content.
 
-In practice, use the channel word rather than the euphemism: *anger* rather than *frustration*, *fear* rather than *concern*. *Sadness* rather than *disappointment.* The euphemisms exist to keep the channel deniable. Nobody can work a deniable channel, including you.
+In practice, use the channel word rather than the euphemism: *anger* rather than *frustration*, *fear* rather than *concern*, *sadness* rather than *disappointment.* The euphemisms exist to keep the channel deniable. Nobody can work a deniable channel, including you.
 
 **Example:** A retro has spent twenty minutes on process. Nobody has said that Ravi flagged this in March and got told it was fine. You can name two other times that happened to him and to nobody else. Annoyance is the wrong name for what you feel. What you feel is fear, Metal, because saying it means saying something about this team out loud. Say it: *I think we are avoiding a word. Ravi raised this in March. I would like to know why that was received differently.* You become the difficult one in that retro and in the next one. What the team does with it is the team's.
 

@@ -15,7 +15,7 @@ project: "Mastering the Game of Allyship"
 # core's published VERSION. Raised 28 -> 32 by the instrument reconciliation (2026-09-11): the
 # fragment referee, the light_verb DL-97 fold-in, and gate/prose_diet reading their exemptions and
 # registers from this manifest.
-core_version: 32
+core_version: 33
 core_home: "../editorial-core"
 
 # What "the book" means when an instrument runs book-wide. MTGOA's real corpus is assembled
@@ -138,8 +138,12 @@ pass:
 # Components in the spine that are apparatus, not prose. Ruled 2026-09-10 (instrument
 # reconciliation, step 2): the index is a list of terms and page pointers, and fragment.py read
 # its 50 entries as 50 verbless sentences. Read by editorial-core's find_line (`exclude:`).
+# The glossary joined 2026-09-11 (fragment drawdown): a back-matter reference list whose entries
+# are terse by convention (`**BAR** — Breakthrough, Action, Reflection.`), so it read as 4
+# fragments and 3 copula-labels; a glossary is looked up, not read as prose, like the index.
 exclude:
   - "back_matter/index.md"
+  - "back_matter/glossary.md"
 
 # Instruments welded to this book's ontology; they do not travel to other projects.
 project_only:
