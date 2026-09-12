@@ -359,7 +359,7 @@ The Regent's practice is generational, not moment-to-moment. Energy still flows.
 
 The Regent's practice moves through five stages of its own, distinct from the Form's five. The Form takes whatever time the situation gives it. This cycle takes years, every time.
 
-**Inherit:** you receive what was handed to you. This includes what you would not have chosen. Family patterns. Organizational cultures. Traditions with their wounds attached. The first move acknowledges what arrived, before you change any of it: *I am carrying this. I did not create this. It is mine now.*
+**Inherit:** you receive what was handed to you. This includes what you would not have chosen: family patterns, organizational cultures, traditions with their wounds attached. The first move acknowledges what arrived, before you change any of it: *I am carrying this. I did not create this. It is mine now.*
 
 **Honor:** you name what in the inheritance still serves. Not everything is broken. Some of what you received is load-bearing: without it, the whole structure collapses. *This part is medicine. This part was always the wound. I am going to stop blaming the inheritance and start sorting it.*
 
@@ -455,7 +455,7 @@ Its opposite already has a face. Pick them. Someone who let go of something you 
 
 **3 · FACE IT.** Two paragraphs, third person, as much detail as you can hold. How big is the charge, and where does it sit in you?
 
-**2 · TALK TO IT.** Greet them, then ask, and let them answer. Three exchanges at minimum.
+**2 · TALK TO IT.** Greet them, then ask, and let them answer, three exchanges at minimum.
 
 — *What did you know that let you put it down?*
 — *What are you protecting?*

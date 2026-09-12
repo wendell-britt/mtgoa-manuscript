@@ -57,7 +57,7 @@ The ones who will not let you carve them become your enemy. If they are not with
 
 That shock exposes the unflattering conflict the whole game is built on. Everything that makes you feel like a good person depends on other people needing your help. The role of the good ally only pays out while someone is still broken enough to need saving, which means some well-hidden part of you has a stake in the problem never fully resolving. I know how that reads. It was true about me, even though I had the framework that was supposed to prevent it. Your service runs on their need. The payouts are real and specific: the friends who love you for your fluency, your standing at work as the conscientious one, the small private certainty that you are one of the good ones. The game hands you every bit of it until the day you admit the game does not work. Walk away and you lose the things that told you who you were. Stay and you keep doing work you already know does not help.
 
-Before you read on, one instruction. (Yes, already. You just walked in and I'm handing you homework. Stay with me.)
+Before you read on, one instruction. (Yes, already — you just walked in and I'm handing you homework. Stay with me.)
 
 You came here to get better at this, and "this" will not hold still. Every year brings a new community to understand, a new history to catch up on, a new set of words to get right, and I promise you one more will emerge before you reach the last chapter. So you have been trying to study all of it at once, to be fluent in everyone, to never once be the person who gets it wrong. I know this move intimately. I did this move the entire time I was writing a whole book about not doing it.
 
@@ -275,7 +275,7 @@ Appendix H is the sheet. This is yours, a few lines filled in for who you are ri
 
 **Your myth:** back at the start you met the ten versions of *allyship means being good*. Write down the one that runs you hardest, the rule you have been playing by without ever agreeing to it. (The Myths Read sorts your real top few, unflattering and exact, and turns each one into a first move.)
 
-**Your quest:** never "get better at allyship." A cause. The specific fight, community, or person you are actually in this for. Name them. This is who your range is for.
+**Your quest** names a cause, never "get better at allyship": the specific fight, community, or person you are actually in this for. Name them. This is who your range is for.
 
 That is the sheet for now. It fills in as you play: a superpower you will only spot in motion, an autopilot pattern you will catch yourself running, a line added in every chapter ahead.
 
@@ -311,7 +311,7 @@ I wrote this chapter to challenge you, because writing this book is my allyship 
 
 What happens next keeps happening to me. A sentence in somebody else's book stops me mid-page. By morning the charge is gone and I am the same person who opened the book. Moved, and unchanged.
 
-Writing the charge down is supposed to stop that fade. I have filled notebooks. Years of them. I can count on one hand the times I have gone back to read one. Getting a thought out of your head and onto a page is halfway to something, but everything breaks in what happens next. Nobody has ever sold a notebook on how good it feels to reread it, because rereading one is a job. The charge goes in. It does not come back out.
+Writing the charge down is supposed to stop that fade. I have filled notebooks for years. I can count on one hand the times I have gone back to read one. Getting a thought out of your head and onto a page is halfway to something, but everything breaks in what happens next. Nobody has ever sold a notebook on how good it feels to reread it, because rereading one is a job. The charge goes in. It does not come back out.
 
 Years ago I started carrying blank poker cards instead. When something stopped me, I wrote it on a card and the card came with me. The surprise was where the memory went. Even when I could not remember what a card said, I remembered where it lived, third from the back, the one with the bent corner. A notebook stores a sentence you have to go find. A deck stores a place you already know, a place that hands the sentence back.
 

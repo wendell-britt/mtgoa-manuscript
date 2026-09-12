@@ -73,7 +73,7 @@ Something difficult happened. You have time to let it move through fully.
 **Grow Up:** You integrate: That relationship was real. It mattered. It didn't fail because I'm broken. It ended because we want different lives. That's true even though it hurts.
 **Show Up:** You let yourself cry. You reach out to a friend. You write down what you learned about yourself from that relationship.
 
-Total: 1-2 hours. You've moved from raw pain to integrated wisdom. The move replenishes because the sadness gives something back: meaning, self-trust, and the capacity to love without pretending it did not hurt.
+The whole practice takes one to two hours. You've moved from raw pain to integrated wisdom. The move replenishes because the sadness gives something back: meaning, self-trust, and the capacity to love without pretending it did not hurt.
 
 #### Scenario 3: Replenishing Move Into Action
 

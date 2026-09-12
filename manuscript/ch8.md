@@ -474,7 +474,7 @@ You already know who this is. Someone who acted at the altitude they had rather 
 
 **3 · FACE IT.** Two paragraphs, third person, as much detail as you can hold. How big is the charge, and where does it sit in you?
 
-**2 · TALK TO IT.** Greet them, then ask, and let them answer. Three exchanges at minimum.
+**2 · TALK TO IT.** Greet them, then ask, and let them answer, three exchanges at minimum.
 
 — *What made it enough for you?*
 — *What do you do with being wrong in front of people?*

@@ -213,7 +213,7 @@ One tell separates real building from the kind that's secretly avoidance. It has
 
 Genuine building points outward. You make it so it can meet a person: a reader, a player, a colleague, your kid. You want it in front of them, even though that's the scary part. The work goes somewhere. The somewhere has a face.
 
-The Player in distortion builds in the other direction: inward, in circles, away from anyone who might actually receive it. The building becomes abstract. Endless revisions. Infinite drafts. I'll redesign the same mechanic six times, each redesign letting me dodge what the work actually needs: putting it in front of someone and seeing what happens. It looks like progress. It's a very sophisticated way of hiding.
+The Player in distortion builds in the other direction: inward, in circles, away from anyone who might actually receive it. The building becomes abstract — endless revisions, infinite drafts. I'll redesign the same mechanic six times, each redesign letting me dodge what the work actually needs: putting it in front of someone and seeing what happens. It looks like progress. It's a very sophisticated way of hiding.
 
 So keep asking the question that planning-disguised-as-building cannot survive: *is this draft moving toward someone, or away from them?* Real building gets handed over, even unfinished. Avoidance keeps it safe, and perfect, and unmet.
 
@@ -424,7 +424,7 @@ You are ready to be useful.
 
 ---
 
-*Before you step into the game: a daemon scan. Seven of them and the child at the center: eight in all, eight questions. One of them is live in you right now: the daemon that showed up most in your building work. Find it, and capture it.*
+*Before you step into the game: a daemon scan. Seven of them surround the child at the center: eight in all, eight questions. One of them is live in you right now: the daemon that showed up most in your building work. Find it, and capture it.*
 
 *The Protector showed up in your building, and not as the old guardedness. Something specific you've been protecting about what you're building, or from the people who might encounter it. Name what the protection is actually guarding. That's what you have.*
 

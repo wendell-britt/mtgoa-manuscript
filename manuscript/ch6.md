@@ -155,7 +155,7 @@ Do not ask me to estimate what the next system will cost before it is built. The
 
 I ask first now. In practice I am slower at asking than at designing. The asking takes an afternoon.
 
-If that proposition holds in your experience, it has a consequence worth naming. In a system that does not hold, somebody has to close the gap, and that somebody is always a person with presence to spend. More relational attentiveness. More of themselves in the seam. The cost does not show up in any report, because the report says the process worked, which it did, on the backs of whoever paid the difference. That names a design outcome, not a character outcome. No amount of caring more will change it, because caring more works as the mechanism by which the broken structure keeps functioning.
+If that proposition holds in your experience, it has a consequence worth naming. In a system that does not hold, somebody has to close the gap, and that somebody is always a person with presence to spend — more relational attentiveness, more of themselves in the seam. The cost does not show up in any report, because the report says the process worked, which it did, on the backs of whoever paid the difference. That names a design outcome, not a character outcome. No amount of caring more will change it, because caring more works as the mechanism by which the broken structure keeps functioning.
 
 The Architect who turns a relational field into a leverage point and a living relationship into a KPI has already lost the reason the design mattered. Exiling that one makes sense. The discipline goes out with it, the same discipline that keeps a relational field from becoming a leverage point in the first place.
 
@@ -343,7 +343,7 @@ Its opposite already has a face in your head. Pick them. Someone who names a per
 
 **3 · FACE IT.** Two paragraphs, third person, as much detail as you can hold. How big is the charge, and where does it sit in you?
 
-**2 · TALK TO IT.** Greet them, then ask, and let them answer. Three exchanges at minimum.
+**2 · TALK TO IT.** Greet them, then ask, and let them answer, three exchanges at minimum.
 
 — *What do you see that I route around?*
 — *What are you protecting?*
@@ -377,7 +377,7 @@ I built a spreadsheet to track my moods. Inside a week I was having the moods th
 
 You met the Emotional Body at the door of the Forest, fifth in line, one step past the Fixer. It does not belong in that line the way the others do.
 
-The Protector decides whether you go in. The Controller decides how you may behave once you get inside. The Skeptic decides whether what you react to was ever real. The Fixer decides whether what is in front of you holds up well enough to deserve you. Four parts, four strategies, four different jobs. The Emotional Body is what all four strategies are strategies *about.* Every one of them manages something that arrived through it first.
+The Protector decides whether you go in. The Controller decides how you may behave once you get inside. The Skeptic decides whether what you react to was ever real. The Fixer decides whether what is in front of you holds up well enough to deserve you — four parts, four strategies, four different jobs. The Emotional Body is what all four strategies are strategies *about.* Every one of them manages something that arrived through it first.
 
 The Emotional Body turns up everywhere for that reason. It has kept turning up in this book since the Forest was first drawn. It is the instrument the roles argue with. No wonder it never gets a seat.
 
@@ -492,7 +492,7 @@ That is the shape of it. You've learned what structural design is, and you've me
 
 Here's what I've noticed about the Architect's game: the Architect wins when the right thing happens without them having to be there. When a system works and nobody had to manage it. When a process runs and nobody had to micromanage it. When a design serves the user and the designer can move on.
 
-The Architect's game is building the map that makes you unnecessary. Not unnecessary in a dismissive way, unnecessary in a generous way. You've built something that can survive without you. That's the win.
+The Architect's game is building the map that makes you unnecessary — in the generous sense, since you've built something that can survive without you. That's the win.
 
 Here are five distinct moves that make that win real.
 

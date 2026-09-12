@@ -76,7 +76,7 @@ The Regent noticed first.
 
 The Regent didn't dislike the Challenger. The Regent just believed that *power had to be organized.* That raw will, even clean will, could not sustain anything across time. That the Challenger's gift was real but limited: the Challenger could draw a line, but the Challenger could not hold that line across seasons. Could not build the tradition that carried it forward. Could not make the line inherit itself.
 
-So the Regent built walls instead. Institutions. Roles with names. Traditions with histories. The Regent said: *give me your line and I will make it a law. Give me your boundary and I will make it an institution. Give me your 'this far and no further' and I will make it a founding principle that outlasts your lifetime.*
+So the Regent built walls instead: institutions, roles with names, traditions with histories. The Regent said: *give me your line and I will make it a law. Give me your boundary and I will make it an institution. Give me your 'this far and no further' and I will make it a founding principle that outlasts your lifetime.*
 
 The villagers chose the Regent.
 
@@ -119,7 +119,7 @@ Without the Challenger, the villagers developed a sophisticated language for eve
 
 It got very good at *assertive communication.* At *using "I" statements.* At framing a boundary as a preference rather than a line. (I believed those scripts for thirty years. They do not do what the trainers promise, which anyone who has run one in a live moment already knows.) "I prefer not to be spoken to that way." "I would appreciate it if we could revisit that decision." The villagers learned to make their nos sound like yeses because yeses cost less. Because a no, even a gentle no, even a well-crafted I-statement no, still carried the risk of being unwelcome.
 
-So the villagers started letting violations slide. Small ones first. Then larger ones. Not because they didn't feel them (they felt every one of them) but because they had lost the Challenger's gift: the willingness to name the violation as a violation without also naming it as a catastrophe. The Challenger could say *this is not okay* and *we can still be in relationship* at the same time. They could no longer hold both together without the Challenger.
+So the villagers started letting violations slide, small ones first and then larger ones. Not because they didn't feel them (they felt every one of them) but because they had lost the Challenger's gift: the willingness to name the violation as a violation without also naming it as a catastrophe. The Challenger could say *this is not okay* and *we can still be in relationship* at the same time. They could no longer hold both together without the Challenger.
 
 Without the Challenger, the villagers also lost something else: the willingness to *be* unwelcome.
 
@@ -201,7 +201,7 @@ The Challenger's pair: the force it takes to move something versus the restraint
 
 **Force** means spending yourself on a crossing, saying the unwelcome sentence, drawing the line, making the demand, accepting the cost of being the one who did. Force is the willingness for a moment to be more expensive because you were in it. Once you agree to be the one who pays for the crossing, the aggression becomes force.
 
-**Restraint** means declining to spend. Not this one, not yet, not from me. Restraint is what keeps a no worth something; a person who draws a line at everything has not drawn one, because the line stops being information about the world and turns into weather. You will look like a coward. The coward could not have spoken. You could.
+**Restraint** means declining to spend — on this, for now, from me. Restraint is what keeps a no worth something; a person who draws a line at everything has not drawn one, because the line stops being information about the world and turns into weather. You will look like a coward. The coward could not have spoken. You could.
 
 Both poles have failure states that do not mirror each other. Force without restraint is a hazard: every charge becomes a line, every line becomes a confrontation, and the people around you begin managing you instead of working with you. Restraint without force is furniture: present at every table, costing no one anything, changing nothing that would have happened anyway.
 
@@ -286,7 +286,7 @@ Whatever you are carrying when the moment comes, one of these five will spend it
 
 ### The Stage Sequence: Charge → Aim → Act → Stand → Exit
 
-The Challenger's practice does not improvise. It runs a sequence. Five stages, in order, every time.
+The Challenger's practice does not improvise. It runs a sequence of five stages, in order, every time.
 
 **Stage 1: Charge.** The fire arrives. Something in your body shows up, a heat in your chest, a clenching in your jaw, a sudden clarity that is also somehow a burning. The Challenger does not suppress it. The Challenger receives it. Without charge, there is no fire. With charge and no practice, there is explosion. With charge and practice, there is *direction.*
 
@@ -451,7 +451,7 @@ That part has an opposite, one your nervous system has already given a face. Pic
 
 **3 · FACE IT.** Two paragraphs, third person, as much detail as you can hold. How big is the charge, and where does it sit in you?
 
-**2 · TALK TO IT.** Greet them, then ask, and let them answer. Three exchanges at minimum.
+**2 · TALK TO IT.** Greet them, then ask, and let them answer, three exchanges at minimum.
 
 — *Why do you get to say no when I can't?*
 — *What are you protecting?*
@@ -663,7 +663,7 @@ In practice: before the conversation, finish one of two sentences out loud. *A l
 
 **Why it matters:** One line tells you almost nothing about yourself. You cannot tell from a single instance whether you met what was in front of you or an old charge wearing today's clothes, and that question is what the whole chapter turns on. Five instances answer it, because lines cluster: the cluster has a subject. Somebody who draws every line around being talked over is protecting something different from somebody who draws every line around other people's workload. While the subject stays unnamed you draw when the trigger arrives. Named, you choose.
 
-In practice: list five moments from the last month where a line was available. Four words each, no explanation. Then read the five together and say what they are all about.
+In practice: list five moments from the last month where a line was available. Use four words each, no explanation. Then read the five together and say what they are all about.
 
 **Take an example:** *manager rewrote my summary. Colleague took the client call. Teammate presented my slide. Nobody credited the doc. My name came off the deck.* Five ordinary irritations, four of which you let go. Together they have one subject, which is attribution, the record of who did what. Knowing that changes the next month twice. It tells you which fights are yours, and that the four you swallowed were all the same fight.
 

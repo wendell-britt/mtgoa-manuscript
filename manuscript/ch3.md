@@ -201,7 +201,7 @@ The original emotion turns into *action.* The feeling converts into *fuel.* Acti
 
 Real emotional alchemy is the practice of staying with the emotion long enough to understand what it's actually saying. To let your body complete the cycle it needs to complete. To let the emotion teach you something about reality that only that emotion can teach.
 
-When you do this, when you make space for fear instead of overriding it, fear teaches you what you actually care about. (Not your stated values. Your actual ones. The ones you'd die for with no one watching, without the post.) Because fear shows up at the boundary of what matters to you. It shows up when something you're attached to is at risk. It shows you your real values, not your performed values. Your real priorities, not your productivity system.
+When you do this, when you make space for fear instead of overriding it, fear teaches you what you actually care about, past whatever you would state — the ones you'd die for with no one watching, without the post. Because fear shows up at the boundary of what matters to you. It shows up when something you're attached to is at risk. It shows you your real values, not your performed values. Your real priorities, not your productivity system.
 
 
 When you do this with joy, the one that only looks easy (it requires you to stop moving, harder than anything else the School of the Body teaches), when you *stay* in joy instead of using it for fuel, joy teaches you what's aligned. Joy shows up when you're doing something that matches your actual values, your actual gifts, your actual becoming. Joy is not the same as happiness or productivity. Joy is the feeling that says "yes. This is real. I am home."
@@ -527,7 +527,7 @@ Do it alone, written or spoken, in fifteen to twenty-five minutes.
 
 *There is a part of me that is disconnected from my feelings.*
 
-**3 · FACE IT**, in the third person. Describe the figure the way a journalist would: what they look like, how they move, how they talk, what happens around them when they arrive. How big is the charge? Where does it sit in your body, and what flavor does it have? Give it a name if a name comes. If it reminds you of someone you already know, say who. Two paragraphs, and the more detail the better.
+**3 · FACE IT**, in the third person. Describe the figure the way a journalist would: what they look like, how they move, how they talk, what happens around them when they arrive. How big is the charge? Where does it sit in your body, and what flavor does it have? Give it a name if a name comes. If it reminds you of someone you already know, say who. Write two paragraphs, and the more detail the better.
 
 **2 · TALK TO IT**, in the second person. Greet it, then ask, and let it answer:
 
@@ -535,7 +535,7 @@ Do it alone, written or spoken, in fifteen to twenty-five minutes.
 — *What do you want me to know?*
 — *What do you want out of this?*
 
-Three exchanges at minimum. The answers don't have to be polite.
+Aim for three exchanges at minimum. The answers don't have to be polite.
 
 **1 · BE IT**, in the first person. You are the part. Speak as *I* for one paragraph, saying what you have to say about showing up as an ally.
 

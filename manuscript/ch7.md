@@ -531,7 +531,7 @@ Pick the person. Someone who took a side while you were still holding the range,
 
 **3 · FACE IT.** Two paragraphs, third person, as much detail as you can hold. How big is the charge, and where does it sit in you?
 
-**2 · TALK TO IT.** Greet them, then ask, and let them answer. Three exchanges at minimum.
+**2 · TALK TO IT.** Greet them, then ask, and let them answer, three exchanges at minimum.
 
 — *What do you know about the cost that I don't?*
 — *Why does it not cost you what it would cost me?*

@@ -10,7 +10,7 @@
 Chapter 1 is right that pen and paper hold this. A sheet you can only reach
 through a screen is a sheet you will not open in the four seconds you need it.
 
-Thirteen lines. Each one is stamped with the chapter that asks for it, so the sheet fills
+There are thirteen lines, each stamped with the chapter that asks for it, so the sheet fills
 in the order you read. The stamp is also where to go back to. One line has no chapter
 and is marked **open**.
 
