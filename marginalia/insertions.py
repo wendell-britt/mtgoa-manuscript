@@ -95,7 +95,7 @@ explain it. She has been asking it a long time and she has never been satisfied 
 including her own.*
 
 *She used to grade her readings. Scored them in a book, against what turned out to be true. She
-stopped in her fourth year here and has described the time since as the first she could hear
+stopped in her fourth year here. She describes the time since as the first she could hear
 anything at all. I mention it because she will not, and because you are shortly to be taught by
 somebody who spent years marking her own homework.*""",
 4: """*Corin held a verdict open once. One time that I know of, against every instinct they have, for
@@ -137,8 +137,8 @@ warmly, in a way that left each of them feeling included in the refusal.*""",
 # you are for — is already in the letter, two pages later, in the mouth it belongs to.
 NOTES = {
 3: [
-("It worked. The cost landed somewhere the villagers never thought to look.", """*We put in once at Oreve, which is a port and a poor one — the moorings were rotten and the
-harbourmaster kept his ledgers in his head and got them wrong.*
+("It worked. The cost fell somewhere the villagers never thought to look.", """*We put in once at Oreve, a poor port. The moorings were rotten, and the
+harbourmaster kept his ledgers in his head, where they were wrong.*
 
 *Their council chamber had no chairs. You stood, and the first business of any session was that
 somebody said out loud what the field felt like, and if nobody agreed with the reading, somebody
@@ -146,35 +146,33 @@ else offered a different one, and this went on until the readings stopped changi
 began. I asked a clerk how long the practice had been in place and she did not understand the
 question. She thought I was asking when the building went up.*
 
-*We were there eleven days. I have thought about it more than is useful.*"""),
-("### Polarity Encounter — Feeling ↔ Function", """*Watch for the point where you get good at this and it becomes enough.*
+*We were there eleven days. I have not seen it anywhere since.*"""),
+("### Polarity Encounter — Feeling ↔ Function", """*Watch for the point where being good at this starts to feel like enough.*
 
-*You will start reading a company accurately. That is a real skill, rarer than it sounds, and
-each accurate read will feel like an accomplishment. It is not one. A read that never becomes
-a move is a very sophisticated way of standing still, and I have watched people build whole
-careers in that spot and be admired the entire time.*"""),
+*You will start reading a company accurately. That is a real skill, rarer than it sounds.
+Each accurate reading will feel like an accomplishment, and a reading that never becomes
+a move is a very sophisticated way of standing still. People build whole careers in that
+spot and are admired the entire time.*"""),
 ("### The Five Stages of the Five-Move Form", """*Maera says the Form can run in ten seconds. She is right, and she has been practising for
 thirty years.*
 
 *For your first year, run two: notice, and say. The other three are what you do afterwards, on
-your own time, and they are where the training actually happens. She tells you five first because
+your own time, where the training actually happens. She tells you five first because
 students who learn two never come back for the other three.*"""),
 ("### The Five Elements: How Different Feelings Flow", """*The Body teaches these in a low-lit hall with the windows open, on the theory that a student who
 is slightly cold will stop pretending to be comfortable. I have sat in. It works, and I resent
 that it works.*"""),
-("the triage rule, and four worked scenarios", """*Triage is the part of this chapter you will actually use, and it is in an appendix. Maera does
+("the triage rule, and four worked scenarios", """*The part of this chapter you will actually use, triage, is in an appendix. Maera does
 not believe anybody should be handed the shortcut before they have felt why it is one.*
 
 *I disagree, which is why I have told you where it is.*"""),
-("### The Shaman's Superpower: Knowing Which Move to Make", """*The first time I named a charge out loud in a company that had agreed not to, I got it wrong. Badly
-wrong. I named grief and it was rage, and I was corrected at some volume in front of eleven
-people.*
+("### The Shaman's Superpower: Knowing Which Move to Make", """*The first time I named a charge out loud in a company that had agreed not to, I got it wrong, and badly
+wrong. I named grief and it was rage. Eleven people corrected me, at some volume.*
 
-*It worked anyway. That is the part nobody warns you about — the company opened regardless, because
-what mattered was that somebody was willing to be wrong out loud about something real. I would
+*It worked anyway. That is the part nobody warns you about — the company opened regardless: somebody had been
+willing to be wrong out loud about a real charge. I would
 not build a technique on it. I mention it because you are going to be wrong the first time, and
-it will not be the disaster you are picturing. It will be a smaller and more specific disaster,
-and you will survive it.*"""),
+it will not be the disaster you are picturing. It will be a smaller and more specific disaster.*"""),
 ],
 4: [
 ("Very few people can do all three without flinching", """*Very few people can do all three without flinching. Somebody did all three to me once, in eleven
@@ -205,7 +203,7 @@ members who had spent the year complaining about it.*
 *I raise it because the Auditor in you will sound exactly like a committee doing its job, and a
 committee doing its job is nearly impossible to argue with. Which is why nobody argues with them,
 and why nothing has been approved since I came aboard.*"""),
-("## Section 6", """*I killed an idea once in the first ten seconds and called it discernment. It was a good call. It
+("<!-- SECTION 6 -->", """*I killed an idea once in the first ten seconds and called it discernment. It was a good call. It
 has been a good call every time since, which is the part I would ask you to sit with, because a
 call that is right every time is not being tested.*
 
@@ -237,7 +235,7 @@ Heads believe it predates the ship, which it cannot, because we invented it in t
 I was there and I remember the argument about the candles.*
 
 *It is the best-attended ceremony we have. I have stopped correcting people.*"""),
-("what you were holding was you", """*Sera does this. Not the repair half — the second one. She is the reason four separate systems on
+("what you were holding was you", """*Sera does this — not the repair half but the second one. She is the reason four separate systems on
 this ship still function, none of them written down, all of them in her head, and she will tell
 you she is simply the person who happens to remember.*
 
@@ -246,8 +244,8 @@ let it go, because the four systems kept working and I had a term to run.*"""),
 ]
 
 NOTES[6] = [
-("The Architect was also not not saying it", """*"Also not not saying it" is the most honest line in this treatise, and Irix wrote it about
-themselves without appearing to notice.*
+("The Architect was also not not saying it", """*"Also not not saying it" is the most honest line about Irix on the page, and I do not think
+they have noticed.*
 
 *Every good structural read contains a small true accusation. Not a large one and not an unfair
 one — a small one, correctly aimed. The Architects who last are the ones who stopped pretending
@@ -257,7 +255,7 @@ denial hold.*"""),
 Same answer, arrives faster, and you will have it in your chest before you can get it onto paper.*
 
 *Irix will tell you that is the same question. On a map it is. In a meeting it is not.*"""),
-("## Section 4", """*A council I put in at had surveyed its people about exhaustion. The people, being honest, said
+("<!-- SECTION 4 -->", """*A council I put in at had surveyed its people about exhaustion. The people, being honest, said
 yes. A rest hour appeared on the shared calendar, placed at the only hour nobody had claimed — and
 nobody had claimed it because it was the only hour anything got done.*
 
@@ -275,13 +273,13 @@ out, and I would rather not examine why either of those is true.*"""),
 ("### Move 4: Ship the Minimum", """*Ship the Minimum is the move Irix is worst at and teaches best, which happens more often than you
 would expect.*
 
-*Their first draft of this treatise arrived on time and was then withdrawn, because there was a
+*Their first draft of this page arrived on time and was then withdrawn, because there was a
 diagram they wanted to redo. I kept the withdrawn one. It is better than the replacement and I
 have not told them.*"""),
 ]
 
 NOTES[7] = [
-("You cannot decline something you were never told about", """*This is the sentence in the treatise I have quoted most and understood last.*
+("You cannot decline something you were never told about", """*This is the sentence I have quoted most and understood last.*
 
 *For years I read it as being about other people failing to tell me their terms. Every set of terms I
 have not stated was a set of terms I had already decided somebody would find unreasonable — which
@@ -310,7 +308,7 @@ without the step. I built several. They were elaborate. One of them had stages.*
 *Corin read it and asked how many of the stages were about the other person. Then: "You are
 working very hard at not having to get good at something."*"""),
 ("The Victim decides something none of them touch", """*I found out a friend was going through something, and my first clear feeling was relief that she
-had told me and not somebody else. Not concern. Relief — and underneath it a small satisfaction
+had told me and not somebody else. It was not concern. Relief — and underneath it a small satisfaction
 that was entirely about my standing and not at all about her.*
 
 *I have looked at that from several angles since. It is still what it is.*"""),
@@ -318,9 +316,9 @@ that was entirely about my standing and not at all about her.*
 before the conversation rather than during it. The other half you will find that you do, and that
 you have known it for months, which is worse and more useful.*
 
-*Either way — say it to yourself in one sentence before you go in. Not to decide anything. Only to
+*Either way — say it to yourself in one sentence before you go in, not to decide anything. Only to
 find out which half you are in.*"""),
-("## Section 7", """*The school keeps one space set aside for conversations that need terms stated. It is bookable. It
+("<!-- SECTION 7 -->", """*The school keeps one space set aside for conversations that need terms stated. It is bookable. It
 has good chairs, a window, and a jug of water somebody refills.*
 
 *In eleven years I have known it used four times. The rest of us do this in corridors, standing,
@@ -349,14 +347,14 @@ NOTES[8] = [
 # apparatus rather than anybody's voice, which is the same rule the treatise
 # signatures follow, and it spends none of ch8's em-dash budget.
 # ---------------------------------------------------------------------------
-("## Section 1", """*He took the accountability for my bad readings for a year while I learned to stop grading them.
+("<!-- SECTION 1 -->", """*He took the accountability for my bad readings for a year while I learned to stop grading them.
 He has never mentioned it, which I understand is the point, and I have decided not to respect it
 any longer.*
 
 *He reads a company better than I do. He has never said so. I am saying it.*""",
  "Maera Voss, School of the Body"),
 
-("## Section 2", """*A partial list of what this school runs on that exists nowhere in writing: the intake sequence,
+("<!-- SECTION 2 -->", """*A partial list of what this school runs on that exists nowhere in writing: the intake sequence,
 the reason we stopped the second-year review, four agreements with three worlds, and the whole of
 what we do when a student leaves badly.*
 
@@ -366,7 +364,7 @@ busy.*
 *So the six of us wrote it down. It is finished. He does not know.*""",
  "Sera Quill, School of the Oath"),
 
-("## Section 3", """*I have taught the walk-away terms for eleven years and I require every student to state one
+("<!-- SECTION 3 -->", """*I have taught the walk-away terms for eleven years and I require every student to state one
 before entering a difficult conversation. He has stated one for me. He stated one for Maera, and for two
 students I will not name. He is better at it than I am, and I teach it.*
 
@@ -395,7 +393,7 @@ when I asked afterwards whether it had been difficult he said the hall had been 
 fine. We are counting on you having noticed.*""",
  "Corin Ash, School of the Line"),
 
-("## Section 6", """*He does not sleep the week before an intake. I have known this since he came aboard. I leave food
+("<!-- SECTION 6 -->", """*He does not sleep the week before an intake. I have known this since he came aboard. I leave food
 where he will walk into it. He thinks the galley is badly organised.*
 
 *He is a good man and this ship is lucky. That is all I have to say about it.*""",
@@ -404,7 +402,7 @@ where he will walk into it. He thinks the galley is badly organised.*
 # The anonymous hand, once, after six signed notes. `MARGIN_ARC` gives this beat
 # three things and no more: the word *home*, that the school's name was a place
 # first, and that he is fine and still paying, which are true on the same day.
-("## Section 7", """*Five of them and Bram, all in my margin, and not one of them asked. I find I do not mind, which
+("<!-- SECTION 7 -->", """*Five of them and Bram, all in my margin, and not one of them asked. I find I do not mind, which
 is new.*
 
 *The Horizon is a place. It was a place before it was a school, and the school carries the name
@@ -412,7 +410,7 @@ because I brought it with me. I stopped saying it the old way about twenty years
 student asked me where I was from and I gave her the school instead of the answer. It was easier.
 I have given the school every time since.*
 
-*Home. I have gone this far without the word and I would have gone the rest of the way.*
+*This is home. I have gone this far without the word and I would have gone the rest of the way.*
 
 *I am fine. I want that in my own hand, since six people have now put the opposite in writing and
 been courteous about it. I am fine, and I am still paying for this, and both are true on the same
@@ -434,25 +432,78 @@ record and it is already in my head, which she will find annoying.*
 
 *— T.*"""
 
-SIGNATURE = {
-    # Moved out of FRONT 2026-07-30. A submitted document is signed at the end of
-    # itself, so these close Section 3 rather than opening the chapter. Wendell
-    # ruled no date and no place: the signature stays a name and a title.
-    # ch2 keeps its "set down by Bram Tull" line at the top -- Tull heads no school
-    # and ch2 is not a treatise. ch9 never had a signature line.
-    3: """the first treatise, submitted by Maera Voss, Keeper of First Signals,
-Head of the School of the Body""",
-    4: """the second treatise, submitted by Corin Ash, Master of the Clean No,
-Head of the School of the Line""",
-    5: """the third treatise, submitted by Sera Quill, Keeper of Continuance,
-Head of the School of the Oath""",
-    6: """the fourth treatise, submitted by Irix Vale, Patternwright,
-Head of the School of the Pattern""",
-    7: """the fifth treatise, submitted by Elian Cross, Keeper of the Walk-Away Terms,
-Head of the School of the Bridge""",
-    8: """the sixth treatise, submitted by Thalen Orr, Keeper of the Far Game,
-Head of the School of the Horizon""",
+# SIGNATURE emptied 2026-09-09, DL-85. The six sign-offs moved INSIDE the admissions
+# box in HANDBOOK above, because that is the document the Head actually wrote. They
+# used to sit in their own frame at the seam and attribute 2,800 words of the author's
+# prose. The name is kept so compile.py's import and its branch stay valid.
+RECORDS = {
+    # DL-90, 2026-09-09. Four passages that are a HEAD'S OWN RECORD -- a session log, a
+    # register of clauses with notes, a casebook -- and that sat in ordinary text with nothing
+    # attributing them. They were licensed by "above the signature, only the Head" until DL-85
+    # retired that rule; nothing was edited and the license was withdrawn from underneath them.
+    #
+    # Wendell 2026-09-09: "make sure they are italicized and I do think putting them in boxes
+    # makes sense." They take the HANDBOOK frame rather than a seventh kind, because HANDBOOK is
+    # already "a document inside the document" and a new kind for the same object is the second
+    # kingdom his Governor spec warns about. Italic distinguishes a private record from the
+    # filed admissions form that uses the same box.
+    #
+    # Shape matches NOTES: (anchor paragraph, text). The block is inserted after the anchor.
+    # Two emphasised phrases in ch5 lost their markers: italic inside italic reverts, and
+    # "insufficient courage" / "correct reading, withheld" now sit upright in an italic note.
+    3: [
+        ("The Shaman's practice is that staying.",
+         """*Thirty-first session. Jaw, then the back of the neck. I wrote down contempt in the man at the head of the table. Grief, four days old. I did not feel the grief until the funeral.*
+
+*Sessions thirty-two through four hundred and six. Chest: nothing. Throat: nothing. Hands: nothing. Three years of nothing, in my own handwriting, four hundred entries.*
+
+*I called it discipline. The entry correcting that is dated later and reads: the numbness began the morning after the funeral, not the morning of the error. It was not protecting me from being wrong. It was protecting him from being read a second time by somebody who had got it wrong in front of witnesses. The only instrument it could reach was mine.*
+
+*Present session. Jaw, at the word correctly. The reading came back better than it was. What I am working now is what it costs a person to be read accurately by somebody they did not ask.*"""),
+    ],
+    5: [
+        ('**The Regent means: somebody carried the inheritance far enough that the next person can pick it up.**',
+         """**Clause four.** *A practice that cannot be named to a stranger in one sitting has already been lost, whatever its members believe about it.*
+
+*Note. The register of this school holds two hundred and thirty-one discontinued practices, gathered across as many worlds as the ship has touched. Merrow ordered them by cause of death. The ordering is his and the finding is mine: one hundred and seventy-two of the two hundred and thirty-one were dissolved by their own members, on purpose, and not one of the one hundred and seventy-two recorded the dissolution as a loss at the time.*
+
+**Clause five.** *A body that declines to hold a role will be held by whoever is willing to hold it, and that person will not have been selected.*
+
+*Note. The founding generation of such a body has commonly come out of an older order that used its structure to protect itself, and has drawn the correct conclusion about that order and the wrong conclusion about structure. Roles are refused on principle. The refusal is entered in the minutes as a value. Nothing is entered after it, which is the observation.*
+
+*Second note. Three crises are typical and their shapes are stable enough to record. At the first the body adapts, and the adaptation is cited afterward as proof that no structure was needed. At the second it closes ranks. At the third its members are found arguing the first crisis again from new positions, with no record of what the first argument had been for, because nobody was charged with keeping one.*
+
+*Third note. Members who could name the pattern in advance are present in most cases. The register carries their accounts. They report having said something careful, and having said less than they knew, on the ground that the whole of it would have been heard as an application for the crown. Merrow filed these accounts under insufficient courage. They are refiled under correct reading, withheld, and the refiling is the more accurate of the two.*
+
+**Clause six.** *An inheritance offered before it is wanted is not an inheritance. It is an opinion.*
+
+*Note. This is the clause I would amend, and amendment is not within the office. The register records no case of a practice handed successfully to a body that had not yet lost something. It records no case of a keeper who stopped attempting it either.*"""),
+        ("The Regent's actual practice is something harder and more alive:",
+         """*Clause nine. A promise made by the dead is kept until the last person it protected has died, at which point it is reviewed rather than renewed.*
+
+*Note. The clause as written permits the review. The clause as kept forbade it, and had forbidden it since Merrow, whose reasoning survives in the margin here in his own hand and is wrong. I conducted the review. Which promise it was is not recorded and will not be.*
+
+*Second note. Two households withdrew from the practice. One has not returned. The practice that replaced it has run forty years and the other household sends its children to it.*
+
+*Third note, added this year. I can pass an inheritance intact and named, which is the whole of what this school claims. I have not learned to hand one to somebody who will change it without entering the change as damage, and my own ledgers are the reason that is hard.*"""),
+    ],
+    7: [
+        ('That decision is an accurate reading of a specific misuse.',
+         """*Case forty-one. Both transcripts, hers first.*
+
+*She said: I need you to stop. Later, to me: I thought I was asking.*
+
+*He said: She gave me an ultimatum. Later, to me: Was it not one? I have gone over it. I still hear one.*
+
+*She was protecting the possibility of saying it again next week. He was protecting a man who had never been told to stop and had no way to be told. I record both, and I record him at length, because he was wrong about the ultimatum and leaving out whoever was wrong is how a case stops being a case.*
+
+*I will not say which of them was right. Forty-one cases and I have not said it once.*
+
+*The terms I wrote at that table have held eleven years. Nobody has mentioned them. I notice that I have written that down. Whether wanting the sentence is a defect in me or a condition of the work is the open question here, and I am the wrong person to settle it.*"""),
+    ],
 }
+
+SIGNATURE = {}
 
 
 HANDBOOK = {
@@ -467,36 +518,37 @@ HANDBOOK = {
     3: """**THE SCHOOL OF THE BODY**
 *Admissions. Filed as required.*
 
-**1. Who we are for.** I look for two qualities and will not take one without the other. First,
+**1. Who we are for.** I look for two qualities, together or not at all. First,
 that the applicant has felt something in a gathering before anybody named it, said nothing,
 and been right. Second, that they have watched somebody else feel something and hold it in,
-and noticed the holding in, and minded it afterward. I decline applicants who bring only the
+and noticed the holding in enough to mind it afterward. I decline applicants who bring only the
 second. I cannot teach a person to hand over an instrument they have never held.
 
 **2. What you will be able to do when you leave.** I teach one skill. A student learns to
-name where a feeling landed in the body before naming what it means. Chest, throat, the back
-of the neck, the jaw. It sounds small to me as well, and I have watched what follows from
+name where a feeling shows up in the body before naming what it means. Chest, throat, the back
+of the neck, the jaw. It sounds small to me as well. I have watched what follows from
 it: the people around that student begin speaking earlier, because somebody present is
 visibly not waiting to be sure.
 
 **3. What it costs.** Being wrong out loud, on a schedule, in front of the same faces. I
-keep my own errors in more detail than my successes and students find the ratio unsettling
+keep my own errors in more detail than my successes. Students find the ratio unsettling
 for about a term. Those who arranged to be wrong only in private have suffered as a result.
 The instrument does not recalibrate in private. Three have come back after a decade to begin
 again, and I took them.
 
-**4. What we do not teach.** What to do about the feeling once I have it. Two responses are possible and
-neither of them is mine. If the situation needs a sentence said to a face, that is
+**4. What we do not teach.** What to do about the feeling once I have it. Two responses are possible, neither of them mine. If the situation needs a sentence said to a face, that is
 the School of the Line. If it needs the pattern changed so the feeling stops
-arriving in the first place, that is the School of the Pattern. I send more students to the
-Pattern than I expected to.
+arriving in the first place, that is the School of the Pattern.
 
 **5. Entry.** None. Everyone begins here, including those who arrive certain they are past
 it. I have been wrong about who was past it.
 
 **6. A word from the Head.** The reading is not my difficulty any more. What I work on now
 is what it costs a person to be read accurately by somebody they did not ask. I have not
-solved it. I teach here anyway.""",
+solved it. I teach here anyway.
+
+Maera Voss, Keeper of First Signals,
+Head of the School of the Body""",
     4: """**THE SCHOOL OF THE LINE**
 *Admissions. Filed as required.*
 
@@ -523,9 +575,12 @@ Send it to the School of the Bridge. Failing to send it is the error here, not s
 what you thought. What you felt, and where. If you cannot, the School of the Body takes
 first-years every season and we will still be here.
 
-**6. A word from the Head.** The lines land now. What I am working is the four seconds after
+**6. A word from the Head.** The lines hold now. What I am working is the four seconds after
 a line drawn on somebody else's behalf, when they go on living in the place where I said it
-and I do not.""",
+and I do not.
+
+Corin Ash, Master of the Clean No,
+Head of the School of the Line""",
     5: """**THE SCHOOL OF THE OATH**
 *Admissions. Filed as required, under clause one.*
 
@@ -558,7 +613,10 @@ able to refuse before one can be trusted to keep.
 **A note from the Head, appended outside the clauses.** I can pass an inheritance intact and
 named, which is the whole of what is claimed above. I have not learned to hand one to
 somebody who will change it without entering the change as damage. My own ledgers are the
-reason that is hard.""",
+reason that is hard.
+
+Sera Quill, Keeper of Continuance,
+Head of the School of the Oath""",
     6: """**THE SCHOOL OF THE PATTERN**
 *Admissions. Specification 0.1.*
 
@@ -587,7 +645,10 @@ something may be changed, and the order is not stylistic.
 
 **6. A word from the Head.** The designs hold. I ask first now, which I did not for nineteen
 years. In practice I remain slower at asking than at designing, and the asking takes an
-afternoon.""",
+afternoon.
+
+Irix Vale, Patternwright,
+Head of the School of the Pattern""",
     7: """**THE SCHOOL OF THE BRIDGE**
 *Admissions. Filed as required.*
 
@@ -618,7 +679,10 @@ person about a machine.
 
 **6. A word from the Head.** The terms hold. Whether wanting the sentence is a defect in me
 or a condition of the work is the open question here, and I am the wrong person to settle
-it.""",
+it.
+
+Elian Cross, Keeper of the Walk-Away Terms,
+Head of the School of the Bridge""",
     8: """**THE SCHOOL OF THE HORIZON**
 *Admissions. Filed as required, and late.*
 
@@ -636,8 +700,8 @@ school on the first attempt rather than the third, and Irix will tell you what t
 cost.
 
 **3. What it costs.** Range, which sounds like a gift when we say it. We stop being simply
-at home in any one school, including the one we came from, and I have watched that land as
-loss in students who expected it to land as freedom. Those who came to be above the other
+at home in any one school, including the one we came from, and I have watched that arrive as
+loss in students who expected freedom. Those who came to be above the other
 five have suffered as a result, and left, and one has come back.
 
 **4. What we do not teach.** Any of it. We do not teach the reading, the line, the keeping,
@@ -650,5 +714,8 @@ year.
 
 **6. A word from the Head.** I have read all five schools for thirty years and nobody has
 read me, which I arranged, and which I am now told is a course I never took. I am the oldest
-first-year here. That is a joke and it is also the timetable.""",
+first-year here. That is a joke and it is also the timetable.
+
+Thalen Orr, Keeper of the Far Game,
+Head of the School of the Horizon""",
 }

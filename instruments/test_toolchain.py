@@ -110,22 +110,12 @@ check("singular 'room' is banned", counters("stayed in the room")["banned"], 1)
 check("singular 'room' is banned", counters("lend the room their reputation")["banned"], 1)
 # Placeholders must never reach print.
 check("placeholder token is caught", counters("I was told that at ⟦ASH-AGE⟧.")["tokens"], 1)
-# The fragment counter, added 2026-09-01 when the ban reached the manuscript. It is the
-# only counter here that is a heuristic rather than a pattern, which is why it gets the
-# false-positive cases as well as the true ones: an imperative and a clause with a
-# subject pronoun are complete sentences and must not be reported.
-check("a verbless noun phrase is a fragment",
-      counters("One sitting.")["fragment"], 1)
-check("two of them are two fragments",
-      counters("An evening. An afternoon.")["fragment"], 2)
-check("an imperative is a whole sentence",
-      counters("Follow the flinch.")["fragment"], 0)
-check("a subject pronoun brings its verb",
-      counters("From there you play the next move cleanly.")["fragment"], 0)
-check("a quantifier subject brings its verb",
-      counters("From inside the middle, the two look identical.")["fragment"], 0)
-check("a run-in label with a colon is one sentence",
-      counters("**The collapse:** the most common error is performing it.")["fragment"], 0)
+# The fragment counter (2026-09-01) retired 2026-09-10: editorial-core's fragment.py is the one
+# referee, and its cases live in editorial-core/selftest.py. The six probes that stood here tested
+# the retired counter. Their replacement is this check that it stays retired: a second fragment
+# counter in the gate is how the book came to read 0 and 251 on the same prose.
+check("the gate carries no fragment counter",
+      "fragment" in counters("One sitting."), False)
 
 # ---------------------------------------------------------------- register ruler
 print("\nprose_diet.py — the ruler must match the June measurement")

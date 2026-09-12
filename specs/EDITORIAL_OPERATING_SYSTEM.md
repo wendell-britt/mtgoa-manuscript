@@ -143,6 +143,23 @@ the reader's judgment and recorded evidence. Add a new mechanical pattern only a
 a reader has caught it in the manuscript and can state the reader problem it caused.
 ```
 
+### The named authorities — added 2026-09-01
+
+**This system answers to five style authorities and each one has a call site.** The register is
+`specs/EDITORIAL_AUTHORITIES_2026-09-01.md`; the short version is that **Lanham, Williams and
+Sword** supply the counters in `prose_diet.py`, **vague-pronoun doctrine** supplies
+`antecedent.py`, and **Strunk** supplies `trailing_and.py` — Rule 4 on `and` as *"the least
+specific of connectives"* and Rule 14 on a succession of loose sentences.
+
+**An authority enters that register only with a rule that has a call site.** A named source with
+no instrument is a citation rather than a practice, and this project has three files that proved
+it: `fragment.py`, `antecedent.py` and `notstack.py` each existed for a defect Wendell kept
+catching by eye, and none ran on a draft for weeks.
+
+**The pattern-audit rule above applies to authorities too** — add a mechanical check only after
+a reader has caught the defect and can state the problem it caused. Every rule now in the
+register got there that way.
+
 ### 4. Voice Guardian — final editorial gate
 
 Use only on passages changed during a line-edit batch. Compare the original and revision to the book brief and voice anchor. This role is deliberately conservative: it guards against the most common AI failure, prose that is technically cleaner but less alive.

@@ -5,19 +5,19 @@
 
 *You met this tool in Chapter 3 and drew your first axis there, then drew another in every chapter after, and ran it in a live field in Chapter 7. This is the full version — the one to come back to when a decision keeps refusing to resolve and you start to suspect it was never a decision at all.*
 
-*The tool is Barry Johnson's. His term is polarity management, and the distinction it rests on — that some tensions are problems to solve and others are pairs to hold — is his. Appendix G says where to read him.*
+*The tool is Barry Johnson's. His term is polarity management. The distinction it rests on — that some tensions are problems to solve and others are pairs to hold — is his too. Appendix G says where to read him.*
 
 ---
 
 ## When to reach for it
 
-You have three tools for a stuck moment, and they are not interchangeable.
+You have three tools for a stuck moment, none of them interchangeable.
 
 - Use **3-2-1** when the trigger is a *person* — someone whose behavior you keep replaying.
 - Use **WAVE** when a charge is already moving in you and ready to act.
 - Use the **Polarity Map** when you are torn between two positions that both seem right, and the picking is what's exhausting you.
 
-The tell that you're in a polarity and not a problem: you solve it, and within a week you're solving it again from the other direction. A problem has a solution and stays solved. A polarity is a tension between two genuine goods — and the work is never to win it. The work is to hold both without letting either eat the other.
+The tell that you're in a polarity and not a problem: you solve it, and within a week you're solving it again from the other direction. A problem has a solution and stays solved. A polarity is a tension between two genuine goods, so the work is never to win it. The work is to hold both without letting either eat the other.
 
 The pair changes with altitude. The map doesn't.
 
@@ -31,7 +31,7 @@ The pair changes with altitude. The map doesn't.
 
 **1. Name the charge.** Use the specific scene rather than the abstract issue. "Yesterday's meeting when I said nothing," not "speaking up at work."
 
-**2. Name the two poles.** Both are legitimate, and both are actions you could actually *do* in ten minutes rather than values. If a pole isn't actionable, you've named a virtue, not a pole. Try again.
+**2. Name the two poles.** Both are legitimate actions you could actually *do* in ten minutes, rather than values. If a pole isn't actionable, you've named a virtue, not a pole. Try again.
 
 **3. Mark your position.** Put the dot where you actually are this week — which pole are you over-expressing, which are you starving? The dot is a diagnostic, not a verdict. You're allowed to move it tomorrow; that's the point.
 
@@ -49,7 +49,7 @@ The word doing the work is *and*. The moment you can say both halves in one brea
 
 These are starting points, not a fixed set. Six of them belong to the six Faces, one per chapter, and you meet each one where its Face teaches it. Two more are common enough to be worth naming and belong to nobody. You will find your own. Each is written as a true tension: both ends right, both costly alone.
 
-- **Feeling ↔ Function** *(the Shaman's pair, Chapter 3).* Let the charge arrive; make the read matter to somebody other than you. Parked at *feeling*, you read a situation exactly and nothing in it moves. Parked at *function*, you act on a read you never let yourself have.
+- **Feeling ↔ Function** *(the Shaman's pair, Chapter 3).* Let the charge arrive; make the reading matter to somebody other than you. Parked at *feeling*, you read a situation exactly and nothing in it moves. Parked at *function*, you act on a reading you never let yourself have.
 - **Force ↔ Restraint** *(the Challenger's pair, Chapter 4).* Spend yourself on the crossing; decline to spend. Parked at *force*, you draw a line at everything, and a line drawn at everything is weather. Parked at *restraint*, you are furniture: present at every table, costing nobody anything.
 - **Honor ↔ Reform** *(the Regent's pair, Chapter 5).* Keep the inheritance that still holds; update the form when the essence requires it. Parked at *honor*, you defend a ritual that stopped doing its job. Parked at *reform*, you tear out load-bearing parts to feel clean.
 - **Structure ↔ Agency** *(the Architect's pair, Chapter 6).* Change the conditions; stay with the person standing inside them. Parked at *structure*, everything resolves into *the system did it*, which is true and asks nothing of anybody. Parked at *agency*, you keep repairing people the design will produce again next quarter.

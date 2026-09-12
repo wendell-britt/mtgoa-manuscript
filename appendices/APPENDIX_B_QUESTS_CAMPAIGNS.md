@@ -42,10 +42,10 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 
 ***The shadow running:*** You read the space perfectly and then do nothing with it — attunement without transfer. Sensing what's needed is not the same as moving it.
 
-***The gift:*** You name which of the five channels is running — anger, fear, sadness, joy, neutrality — and let the read change what you actually offer.
+***The gift:*** You name which of the five channels is running — anger, fear, sadness, joy, neutrality — and let the reading change what you actually offer.
 
 1. Before you respond to anything charged this week, name the channel that's running. Out loud if you can.
-2. Run one full Five-Move Form in a live moment — the one from Chapter 3 — and let the read change your next move, not just your understanding of it.
+2. Run one full Five-Move Form in a live moment — the one from Chapter 3 — and let the reading change your next move, not just your understanding of it.
 3. Capture what the channel did once you worked *with* it instead of around it.
 
 ---
@@ -94,7 +94,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 
 ***The shadow running:*** You manage the container so smoothly that nothing real ever crosses it — politeness as a way to avoid contact.
 
-***The gift*** is genuine curiosity. You enter to find out, not to be right, and you're willing to be changed by what you learn.
+***The gift*** is genuine curiosity. You enter to find out, not to be right, willing to be changed by what you learn.
 
 1. Enter one situation this week to learn something, not to win it. Pick your orientation: grow, learn, play, or explore.
 2. Close with honest terms — say what is actually true, then make real contact across the gap (the Chapter 7 move).
@@ -186,4 +186,4 @@ A quest is solo. A campaign is the same kind of practice, run longer and out lou
 
 ---
 
-*Every quest and campaign ends in a capture. The capture is the point — it's how a single rep becomes a record, and a record becomes the player you're becoming. Lost which daemon or domain is yours right now? Appendix A has the diagnostic.*
+*Every quest and campaign ends in a capture. The capture is the point — it's how a single rep becomes a record, and how a record becomes the player you're becoming. Lost which daemon or domain is yours right now? Appendix A has the diagnostic.*

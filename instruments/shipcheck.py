@@ -67,6 +67,16 @@ def app_sites():
     return out
 
 
+def boundary():
+    """review.py owns the text (FR-F2). This borrows it rather than keeping a second copy."""
+    import importlib.util
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "review.py")
+    spec = importlib.util.spec_from_file_location("review_boundary", path)
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    mod.boundary()
+
+
 def run(cmd):
     try:
         r = subprocess.run(["python3"] + cmd, cwd=ROOT, capture_output=True, text=True)
@@ -108,6 +118,16 @@ def main():
     rows.append(("6", "marginalia round-trip", 0 if "byte-identical" in out else 1,
                  "the frame must not alter the body"))
 
+    # 7 added 2026-09-09 with claims.py, per FR-C10. A ruling recorded as applied to some of its
+    # spans and not the rest is work that was STARTED, which is "incomplete in a reader's hands"
+    # by this instrument's own test, and rescan.py already ranks a claim error first as the most
+    # expensive thing to ship. Carrier DRIFT is deliberately NOT here: it is ambiguous between a
+    # broken ruling and an improved sentence with a stale entry, and an ambiguous signal that
+    # holds a press gets muted rather than read. Drift reports on review.py's board instead.
+    code, out = run(["instruments/claims.py", "--incomplete"])
+    rows.append(("7", "ruling half-applied", 0 if "no ruling half-applied" in out else max(code, 1),
+                 "a ruled fact changed in some of its spans and not the rest"))
+
     print("SHIP CHECK — what stops this book reaching a reader\n")
     print("%-3s %-24s %8s   %s" % ("#", "blocker", "count", "why it blocks"))
     print("-" * 96)
@@ -119,6 +139,11 @@ def main():
     print("\n%s" % ("SHIPPABLE — no blocker outstanding" if not total
                     else "%d blocking item(s) across %d categor(y/ies)"
                     % (total, sum(1 for r in rows if r[2]))))
+
+    # FR-F1. "SHIPPABLE — no blocker outstanding" is true only inside the categories above and
+    # reads as a verdict on the book. The boundary is declared once, in review.py, so a future
+    # category cannot shrink it here.
+    boundary()
 
     if verbose and sites:
         print("\n" + "=" * 96)

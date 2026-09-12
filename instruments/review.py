@@ -100,7 +100,7 @@ def draft(paths):
         # anyone, which is what the linter's own legend says.
         code, out = run(["marginalia/review.py", path])
         nblock = len([l for l in out.split("\n") if l.strip().startswith("[BLOCK]")])
-        print("  0 voice   %s" % ("clean" if not nblock else "%d BLOCK" % nblock))
+        print("  0 voice   %s" % ("no BLOCK" if not nblock else "%d BLOCK" % nblock))
         for l in out.split("\n"):
             if l.strip().startswith("say the noun:") or l.strip().startswith("hedge:") \
                     or l.strip().startswith("ai shape:"):
@@ -129,7 +129,7 @@ def draft(paths):
             for name, s in hits[:12]:
                 print("        %-8s %s" % (name, s))
         else:
-            print("  1 gate    clean")
+            print("  1 gate    every counter reads 0")
 
         tmp = os.path.join(ROOT, ".review_body.md")
         io.open(tmp, "w", encoding="utf-8").write(text)
@@ -153,11 +153,103 @@ def draft(paths):
         # that: "we've got to solve this definite article issue once and for all. It's the
         # new AI slop issue that our passes are creating faster than we can get rid of
         # them." A finder nobody gates on is how a count sits in canon for weeks.
-        code, out = run([os.path.join(HERE, "empty_head.py"), path])
+        # `--sites` added 2026-08-29, and this is the correction that matters most in
+        # this batch. `the noise of doing the work` — one of the six defects Wendell found
+        # by reading — was NOT missed by the instruments. `empty_head.py` had it as SOFT
+        # site 2 of 8 and this line printed the number 8 over it.
+        #
+        # The number is the wrong output on a draft, and empty_head's own docstring says
+        # why: book-wide SOFT is 283 legitimate sites, because the book is allowed to say
+        # `the work`; on new prose it is the tier that catches a filler noun a repair pass
+        # just reached for. **Same instrument, same tier, opposite meaning.** So the draft
+        # path prints the sites and the book-wide path keeps the count.
+        code, out = run([os.path.join(HERE, "empty_head.py"), path, "--sites"])
         row = [l for l in out.split("\n") if os.path.basename(path)[:14] in l]
         print("  7 head    %s" % (row[0].strip() if row else "no score"))
-        print("  8 slop    run /no-ai-slop by hand, then re-run this")
+        for l in [l for l in out.split("\n") if l.strip().startswith(("HARD", "SOFT"))][:6]:
+            print("      %s" % l.strip()[:96])
+
+        # STEPS 3a TO 3c, added 2026-08-29. Wendell, on the KDP description, which had
+        # been through this whole function and come back `clean` before he read it and
+        # found six defects: "how are our skills not catching this? Make a note that we
+        # need to solve for this."
+        #
+        # The note is `specs/GAP_DRAFT_REVIEW_INSTRUMENTS_2026-08-29.md` and the finding
+        # was that instruments already existed for four of the six -- and none of them
+        # could read a draft. `fragment.py` and `antecedent.py` had no FILE branch, so
+        # they scanned the printed book whatever you passed them; `notstack.py` had no
+        # argv handling at all; `faux_insight.py` is not a detector but a spent one-shot
+        # edit script and cannot be wired into a check without editing the book during it.
+        #
+        # This is the same failure as the two comments above it, for the third and fourth
+        # time: **an instrument that exists, a defect it was built for, and no call site.**
+        # `draft()` did not call the voice linter for four days. `book()` never learned to
+        # parse the diet block. Here, four instruments were never called by anything.
+        #
+        # Ordering: these run after the counters and before the reading, because the
+        # reading is what they are meant to shorten rather than replace.
+        # 3d added 2026-09-01. Wendell, on a sentence that had passed every other step:
+        # "this trailing 'and' construction needs to go. I don't want to see it anymore in
+        # any writing that I want to have generated." Measured, my rate was 25.6% against
+        # the book's 13.9%. See specs/RESEARCH_TRAILING_AND_2026-09-01.md.
+        # 3e added 2026-09-02. Wendell, on the proof: "That is the trade, every time. THAT IS
+        # THAT IS THAT IS." The copula-label tells instead of showing and breaks Strunk 11 and
+        # 18. See specs/RESEARCH_TELLING_NOT_SHOWING_2026-09-02.md.
+        # 3f added 2026-09-03. The red-team's buildable half: the light-verb / weak-agency
+        # detector. Wendell, on the proof: "'lands warm' — what the fuck does landing warm mean?
+        # Land is another one of those nothing words." See specs/RESEARCH_LIGHT_VERB_2026-09-03.md.
+        # 3g added 2026-09-09. Wendell highlighted the whole back half of ch3 in the proof and
+        # wrote "Rework." The marks were not logic and not repeated ideas -- two sentence-molds
+        # run to monotone: the "That is X" verdict and the ", and Y" tack-on, the "X, and Y.
+        # That is Z." cadence. 3d flagged 1 of them in the region and 3e flagged 2; the eye
+        # flagged scores, because both counters average the rhythm away. cadence.py measures the
+        # two molds per paragraph. It LOCATES; it is not a target to minimise (breaking a run-on
+        # trades a compound for a verdict on purpose). See specs/RESEARCH_CADENCE_2026-09-09.md.
+        for tag, tool, keep in (("3a frag ", "fragment.py", 2),
+                                ("3b pron ", "antecedent.py", 2),
+                                ("3c slop ", "slop_shapes.py", 3),
+                                ("3d and  ", "trailing_and.py", 3),
+                                ("3e tell ", "telling.py", 4),
+                                ("3f verb ", "light_verb.py", 4),
+                                ("3g cadn ", "cadence.py", 3)):
+            code, out = run([os.path.join(HERE, tool), path])
+            rows = [l for l in out.split("\n") if l.startswith(os.path.basename(path)[:22])]
+            print("  %s  %s" % (tag, rows[0].strip() if rows else "no score"))
+            if code:
+                bad += 1
+                for l in [l for l in out.split("\n") if l.startswith("  ")][:keep * 2]:
+                    print("      %s" % l.strip()[:96])
+        print("  8 slop    the reading — 3c ran the vocabulary and the fixed shapes; "
+              "beat-or-claim and real-or-manufactured are still yours")
     return bad
+
+
+# FR-F1 to FR-F5 of specs/SPEC_CLAIMS_REGISTRY_2026-09-09.md. Wendell, on a board that read
+# "Gate, xref, coherence, headings, seam sweep, round-trip, and the sheet check all pass":
+# *"I don't know what all pass means and I've learned enough not to trust whatever that is."*
+#
+# He was right, and the reason is that every board here reported the checks that RAN and said
+# nothing about the classes of defect no instrument covers. A green board then carried an
+# implication nothing had earned. The paragraph that caused this had four sentences arguing two
+# different things; the full pass returned one flag, on a different sentence.
+#
+# One declaration, printed by every board that prints a verdict, so a future instrument cannot
+# silently shrink it. shipcheck.py imports THIS constant rather than keeping its own copy.
+BOUNDARY = [
+    "not checked by anything here:",
+    "  whether every sentence in a paragraph is committed to the same claim",
+    "  whether a ruled fact is carried somewhere this pass did not look",
+    "  whether the sentence is true",
+    "  whether this is the right paragraph at all",
+    "nothing above runs on its own: there is no hook in this repo and nothing fires on commit.",
+]
+
+
+def boundary():
+    """FR-F4: prints on a clean run too. A boundary that appears only on failure teaches nothing."""
+    print("")
+    for line in BOUNDARY:
+        print("  %s" % line)
 
 
 def book():
@@ -207,6 +299,52 @@ def book():
         # after the EA table moved, and index_build.py's own term list still matching a
         # move that had been renamed, which would have dropped the entry on rebuild.
         ("7e xref     ", ["instruments/xref.py"], "reporting only"),
+        # 7h added 2026-09-09. Wendell, on the proof: "'Section 1: Urgency' ... a holdout
+        # from when I was creating the chapters based on the Kotter model. It doesn't mean
+        # anything to a reader and yet it snuck into multiple revisions." The author cannot
+        # see his own scaffolding; this can. Flags numbered headings, slot labels repeated
+        # across chapters, and Kotter words. See PANEL_PROOF_MARKS_6FACE_2026-09-09.md.
+        ("7j headings ", ["instruments/headings.py"], None),
+        # 7f, added 2026-08-29 alongside draft steps 3a-3c. Book-wide this is a board to
+        # work rather than a gate: 44 sites, mostly `BINARY`, which is the shape the book's
+        # own ranking-not-denying constraint produces on purpose. Reports so the standing
+        # count is visible; the draft path is where it does real work.
+        ("7f slop shapes", ["instruments/slop_shapes.py"], "reporting only"),
+        # 7g, added 2026-09-01. Book-wide this prints the baseline the draft path scores
+        # against -- 13.9% of sentences -- rather than gating anything.
+        ("7g trailing and", ["instruments/trailing_and.py"], "book baseline"),
+        # 7m, wired 2026-09-11 (step 3). polysyndeton was `reporting` until 2026-09-09, when
+        # Wendell promoted it to a zero target. The zero-target manifest lists it in `targets:`
+        # and `pass:`, so coherence's pass-wire and orphan checks require review.py to run it;
+        # book-wide it prints the standing count, and the zero check enforces it.
+        ("7m polysyndeton", ["instruments/polysyndeton.py"], None),
+        # 7h, added 2026-09-02. Book-wide this prints the copula-label baseline the draft path
+        # scores against; it does not gate.
+        ("7h telling", ["instruments/telling.py"], "book baseline"),
+        # 7i, added 2026-09-03. The buildable half of the red-team's solve
+        # (specs/REDTEAM_WRITE_WITHOUT_THESE_ISSUES_2026-09-02.md): the light-verb / weak-agency
+        # detector. Wendell, on the proof: "land is another one of those nothing words that gets
+        # overused." Book-wide it prints the 0.7% DELEXICAL baseline; the draft path drives it.
+        ("7i light verb", ["instruments/light_verb.py"], "book baseline"),
+        # 9, added 2026-09-03. The pipeline checked against itself. Wendell: "how do we check
+        # that the editorial pipeline is coherent and consistent." Wiring integrity, baseline
+        # drift, register and orphan checks. This is coherence.py's call site -- without one it
+        # would be the orphan it warns about. See specs/EDITORIAL_PIPELINE_COHERENCE_2026-09-03.md.
+        # 7k added 2026-09-09 with claims.py. The ruled facts of this book, and whether the
+        # prose still carries them. Drift is AMBIGUOUS -- a broken ruling, or an improved
+        # sentence with a stale entry -- so it reports here and never stops a press; the
+        # unambiguous half, a ruling applied to some of its spans and not the rest, is a
+        # shipcheck blocker instead. See specs/SPEC_CLAIMS_REGISTRY_2026-09-09.md.
+        # 7l added 2026-09-09. Wendell, on a draft that had passed every counter: "'the true
+        # sentence.' also a definite article failure... if it can be said without it it should be
+        # rewritten unless it's doing the specific things in our rules which I notice aren't
+        # firing for these revisions." He was right that nothing fired. empty_head.py asks whether
+        # a HEAD NOUN is empty; nothing asked whether a definite article was earning its place
+        # over a perfectly good noun, so a whole defect class was invisible and the board reported
+        # clean over it. Reporting only, like empty_head was at first.
+        ("7l article ", ["instruments/article.py"], "reporting only"),
+        ("7k claims  ", ["instruments/claims.py"], None),
+        ("9 coherence", ["instruments/coherence.py"], "COHERENCE PASS"),
     ]
     bad = 0
     for label, cmd, want in steps:
@@ -278,7 +416,14 @@ def main():
     paths = [a for a in sys.argv[1:] if not a.startswith("-")]
     print("review — %s" % ("draft" if paths else "book-wide"))
     bad = draft(paths) if paths else book()
-    print("\n%s" % ("clean" if not bad else "%d thing(s) to look at" % bad))
+    # A board reports what its counters did, never a verdict on the prose. Wendell,
+    # 2026-09-09, on "prose is clean": "You don't know what 'clean' means... The prose doesn't
+    # have any flagged problems isn't the same as 'clean', and that's not a word we should be
+    # using around prose anyway." Same defect as "all pass" one word smaller: the summary
+    # named the outcome instead of the measurement, and a reader takes the outcome.
+    print("\n%s" % ("nothing flagged by these counters" if not bad
+                    else "%d thing(s) to look at" % bad))
+    boundary()
     return 0
 
 

@@ -1,0 +1,235 @@
+# editorial.yaml — the project profile for the editorial pipeline.
+#
+# This is the ONE file that varies per project. The instruments under instruments/ are
+# universal; this declares what is true of THIS book: its baselines, its banned voice words,
+# what counts as its corpus, and which instruments run. review.py and coherence.py read it,
+# and coherence.py validates it against reality (every baseline is re-measured, every named
+# instrument must exist). A new project copies the instruments and writes its own file here.
+#
+# See specs/EDITORIAL_PIPELINE_COHERENCE_2026-09-03.md.
+
+project: "Mastering the Game of Allyship"
+
+# Which shared core this project runs, and where it lives. coherence.py's `core` check compares
+# this against the version baked into the installed instruments (core_meta.CORE_VERSION) and the
+# core's published VERSION. Raised 28 -> 32 by the instrument reconciliation (2026-09-11): the
+# fragment referee, the light_verb DL-97 fold-in, and gate/prose_diet reading their exemptions and
+# registers from this manifest.
+core_version: 32
+core_home: "../editorial-core"
+
+# What "the book" means when an instrument runs book-wide. MTGOA's real corpus is assembled
+# by build_book.SPINE (typeset order); these globs are the declared, portable statement of it.
+corpus:
+  - "manuscript/ch*.md"
+  - "appendices/APPENDIX_*.md"
+  - "appendices/ON_THE_SHOULDERS_OF.md"
+  - "front_matter/*.md"
+  - "back_matter/*.md"
+
+# The rate each defect sat at when the book was measured. REFERENCE ONLY: the pipeline no longer
+# defends a rate. There is no drift check in core v32 — `check_zero` replaced it — so these are the
+# starting count the debt is read against, not a thing the board enforces. See targets: below.
+baselines:
+  telling: 3.0        # % of sentences carrying a copula-label (LABEL tier)
+  trailing_and: 12.4  # % of sentences that are loose (LOOSE tier), when last measured
+  light_verb: 0.7     # % of sentences carrying a buried verb (DELEXICAL tier)
+
+# The house policy: ZERO. Every hit is a defect until it is resolved in the prose or accepted, one
+# at a time, in editorial_exceptions.yaml. coherence.py's `zero` check counts UN-accepted hits and
+# fails while any remain. This is what replaced drift-tolerance (retired with core v32's coherence).
+targets:
+  polysyndeton: 0    # bare `X and Y and Z`
+  slop_shapes: 0     # discrete AI-slop shapes -> the loop
+  gate: 0            # hard rules: banned words, sentence-initial And/But, glued em-dashes
+  telling: 0
+  trailing_and: 0
+  light_verb: 0
+  fragment: 0        # needs NLTK (see instruments/requirements.txt); every fragment class counts
+
+# Declared boards: they surface candidates for a reader and exit non-zero as a matter of course, so
+# review.py shows them as `note` and never fails on them. Anything outside this list AND outside
+# `targets:` fails the board on a non-zero exit — the strict default that stops a hard gate being
+# demoted by inference (which is what happened to `gate` on 2026-09-09).
+reporting:
+  - prose_diet
+  - antecedent
+
+# This book's voice decisions, ruled by Wendell one at a time. Regex fragments; gate.py wraps
+# each in word boundaries. Another project bans other words, or none.
+banned:
+  - "rooms?"
+  - "quiet(ly|er|est)?"
+  - "genuinely"
+  - "things?"
+
+# light_verb's DEAD/TRADE tiers surface an abstraction handed a physical verb. The instrument's
+# generic abstraction list missed the nouns THIS book hands one to, so DL-97 (2026-09-10) added
+# them here; folded into the shared core v32 on 2026-09-11, where the shape is universal and the
+# vocabulary is the project's. Regex fragments, wrapped by the instrument. See profile.abstractions.
+abstractions:
+  - "feelings?"
+  - "charge"
+  - "readings?"
+  - "alchemy"
+  - "moves?"
+  - "lines?"
+  - "games?"
+  - "standards?"
+  - "limits?"
+  - "costs?"
+  - "work"
+  - "practice"
+  - "patterns?"
+  - "distortion"
+  - "exile"
+  - "altitude"
+  - "boundary"
+  - "inheritance"
+  - "terms"
+  - "vigilance"
+  - "clarity"
+  - "impact"
+  - "contact"
+  - "connection"
+  - "repair"
+  - "conflict"
+  - "discomfort"
+  - "urgency"
+  - "safety"
+  - "belonging"
+  - "competence"
+  - "capacity"
+  - "agency"
+  - "aim"
+  - "nerve"
+  - "standing"
+  - "leverage"
+
+# light_verb's BORROWED tier: a verb lifted from another domain onto a feeling. *metabolize* was
+# the marked instance, then ruled back IN by Wendell (DL-102, 2026-09-10: "keep metabolized") as
+# emotional alchemy's own vocabulary. So the family is declared and then excluded, and the tier
+# fires on nothing — a live record that the question was asked and answered.
+light_verb_borrowed:
+  - "metabolis?[zs]e[sd]?"
+  - "metabolis?[zs]ing"
+light_verb_borrowed_ruled_in:
+  - "metabolize"
+  - "metabolise"
+  - "metabolized"
+  - "metabolised"
+  - "metabolizes"
+  - "metabolises"
+  - "metabolizing"
+  - "metabolising"
+
+# The universal prose scanners, in pass order. coherence.py checks each exists and is wired.
+pass:
+  - polysyndeton
+  - gate
+  - prose_diet
+  - fragment
+  - antecedent
+  - slop_shapes
+  - trailing_and
+  - telling
+  - light_verb
+
+# Components in the spine that are apparatus, not prose. Ruled 2026-09-10 (instrument
+# reconciliation, step 2): the index is a list of terms and page pointers, and fragment.py read
+# its 50 entries as 50 verbless sentences. Read by editorial-core's find_line (`exclude:`).
+exclude:
+  - "back_matter/index.md"
+
+# Instruments welded to this book's ontology; they do not travel to other projects.
+project_only:
+  - agency_grep
+
+# The authorities register coherence.py's `register` check validates. Declared here (not hardcoded
+# in coherence.py) so the check travels: a project without one leaves this out and the check skips.
+register: "specs/EDITORIAL_AUTHORITIES_2026-09-01.md"
+
+# Ruled by Wendell 2026-09-10: boxed records are scored; their hits are ledger notes. Read by
+# editorial-core v29+ (profile.scored_frames): lines inside a listed frame block are scanned as
+# body prose. prose_diet.py reads the boxes on its own (its BLOCK no longer strips HANDBOOK).
+scored_frames: [HANDBOOK]
+
+# gate/prose_diet exemptions + registers moved from core to the project (v32, 2026-09-11).
+# Core gate/prose_diet are shared mechanism; these rulings are MTGOA's data. See
+# profile.gate_exceptions / profile.registers.
+gate_exceptions:
+- counter: banned
+  phrase: the Sage's question is about rooms rather than about people
+  kind: exempt
+  reason: '2026-07-30 — Laloux entry, Appendix G. Wendell: "we can leave rooms in this example. It''s
+    not load bearing."'
+- counter: banned
+  phrase: Run It Again With One Thing Changed
+  kind: canon
+  reason: ch9 Move 4.
+- counter: banned
+  phrase: Run it again with one thing changed
+  kind: canon
+  reason: the same move in ch9's recaps at 576 and 590.
+- counter: banned
+  phrase: Right Thing the Easy Thing
+  kind: canon
+  reason: 'ch6''s chapter subtitle. Wendell 2026-08-03: "keep the right thing the easy thing."'
+- counter: banned
+  phrase: right thing
+  kind: canon
+  reason: the Architect's thesis. Quoted three times inside ch6, once from ch5's closing handoff and twice
+    in ch9 — a thesis rather than a heading, which is why it is here and not in EXEMPT.
+- counter: banned
+  phrase: easy thing
+  kind: canon
+  reason: the second half of the same thesis.
+- counter: banned
+  phrase: the right thing becomes the thing that actually gets done
+  kind: canon
+  reason: ch6:197, the thesis stated as a question. The second `thing` is inside the formula.
+- counter: banned
+  phrase: '*This is my thing*'
+  kind: canon
+  reason: 'ch8:769. Quoted self-talk that the chapter is convicting: "It''s a category that swallows all
+    five, and once it''s on the table nothing gets named specifically enough to move." The vagueness IS
+    the diagnosis; naming it would destroy the specimen. FLAGGED as my judgement rather than Wendell''s
+    ruling.'
+- counter: banned
+  phrase: not *my thing.*
+  kind: canon
+  reason: ch8:779, the same specimen in the recap.
+- counter: banned
+  phrase: you lose the things that told you who you were
+  kind: canon
+  reason: 'ch1:54. Ruled an exception by Wendell 2026-08-03. It survives on the rule rather than on precedent:
+    the sentence before supplies the referent — "The game hands you every bit of it" — so the definite
+    article has a real antecedent.'
+
+registers:
+  headmasters_letter.md:
+    be: 1.3
+    copula: 1.3
+    why: 'a personal letter from one man to one reader. First person singular carries I am, we are, it
+      is at a rate expository prose does not. Ruled 2026-07-31: ''the letter is ok because it is the register
+      of a personal letter.'''
+  ch5.md:
+    blocks:
+    - start: '**Clause four.**'
+      end: It records no case of a keeper who stopped attempting it either.
+      be: 1.4
+      zombie: 1.84
+      expletive: 1.89
+      passive: 11.32
+      why: Quill's annotated charter, seated in ch5 Section 3, 399 words. A charter states what shall
+        be done without naming who does it, which is what makes it a charter rather than a memo. It runs
+        eleven times the book's passive rate and that is the form rather than drift. Ruled 2026-07-31.
+  CH5_REGISTER:
+    zombie: 1.6
+    be: 1.6
+    expletive: 2.0
+    why: 'Quill''s annotated charter. HEAD_VOICE_DIAL 2a rules her third impersonal, fact and record,
+      feeling only as a ledger entry, and a charter is nominal by construction: the dissolution, the refusal,
+      the observation. Flattening the nominalisation would flatten the voice. Ruled 2026-07-31: ''I think
+      ch5 is also a reasonable exception.'''
+

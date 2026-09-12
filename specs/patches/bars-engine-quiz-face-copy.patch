@@ -1,0 +1,88 @@
+diff --git a/src/components/superpowers/SuperpowerReveal.tsx b/src/components/superpowers/SuperpowerReveal.tsx
+index 0c14964..71c4eb2 100644
+--- a/src/components/superpowers/SuperpowerReveal.tsx
++++ b/src/components/superpowers/SuperpowerReveal.tsx
+@@ -14,7 +14,7 @@
+  *      The Crossing (their superpower lens on the campaign + a matched role move);
+  *   d. full spectrum — all seven ranked, so the result reads as a position;
+  *   f. the character-sheet cross-link and an optional save (the result and the
+- *      avoided Face, by email);
++ *      avoided superpower, by email);
+  *   e. framing note — lens, not verdict; the taker is the authority.
+  *
+  * NO email gate — (f) sits below the whole result and asks rather than blocks.
+@@ -66,7 +66,7 @@ export function SuperpowerReveal({ routing, copy, showCrossingPath = true }: Sup
+   const primaryDef = SUPERPOWER_DEFS[primary]
+   const secondaryDef = SUPERPOWER_DEFS[routing.secondary]
+   const element = superpowerElement(primary)
+-  // Bottom of the ranking. Chapter 9 treats the avoided Face as the more
++  // Bottom of the ranking. Chapter 9 treats the avoided superpower as the more
+   // interesting datum, so the reveal names it rather than leaving it to be
+   // inferred from a spectrum most people never open.
+   const avoidedFace = routing.ranked[routing.ranked.length - 1]?.superpower ?? routing.secondary
+@@ -404,7 +404,7 @@ export function SuperpowerReveal({ routing, copy, showCrossingPath = true }: Sup
+           .
+         </p>
+         <EmailCaptureForm
+-          promise={`Want this kept? I will send your result and the Face you ranked last — ${SUPERPOWER_DEFS[avoidedFace].label}. Chapter 9 argues the avoided Face is the more interesting half.`}
++          promise={`Want this kept? I will send your result and the superpower you ranked last — ${SUPERPOWER_DEFS[avoidedFace].label}. Chapter 9 argues the superpower you avoid is the more interesting half.`}
+           submitLabel="Send me my result"
+           onSubmit={({ email, name }) =>
+             captureSuperpowerLead({
+diff --git a/src/lib/email/superpower.ts b/src/lib/email/superpower.ts
+index 834e43c..9b26ec7 100644
+--- a/src/lib/email/superpower.ts
++++ b/src/lib/email/superpower.ts
+@@ -29,10 +29,10 @@ export async function sendSuperpowerResultEmail(opts: {
+   }
+   return sendEmail({
+     to: opts.to,
+-    // The Face is in the subject because it is what the person asked to be
++    // The superpower is in the subject because it is what the person asked to be
+     // sent. A subject that says "your result" makes them open the mail to find
+     // out what they already know they wanted.
+-    subject: `Your Face is ${opts.homeFace}`,
++    subject: `Your superpower is ${opts.homeFace}`,
+     react: SuperpowerResultEmail(props),
+     text: superpowerResultText(props),
+     tags: [{ name: 'funnel', value: 'superpower-quiz' }],
+diff --git a/src/lib/email/templates/SuperpowerResultEmail.tsx b/src/lib/email/templates/SuperpowerResultEmail.tsx
+index e6c9473..4a4b278 100644
+--- a/src/lib/email/templates/SuperpowerResultEmail.tsx
++++ b/src/lib/email/templates/SuperpowerResultEmail.tsx
+@@ -21,7 +21,7 @@ import {
+  * and the person received nothing.
+  *
+  * So the copy here is scoped to exactly what was promised on the page — the
+- * home Face, the Face ranked last, and Chapter 9's reason the second one is
++ * home superpower, the superpower ranked last, and Chapter 9's reason the second one is
+  * worth more. Nothing is sold. The reveal already stated the terms before the
+  * address was asked for, and an email that arrives carrying a pitch instead of
+  * the result is the same broken promise wearing a nicer suit.
+@@ -32,7 +32,7 @@ import {
+ export type SuperpowerResultEmailProps = {
+   /** Display label, e.g. "Connector". Comes from SUPERPOWER_DEFS[x].label. */
+   homeFace: string
+-  /** The Face ranked last. Null when the quiz did not produce one. */
++  /** The superpower ranked last. Null when the quiz did not produce one. */
+   avoidedFace?: string | null
+   /** Optional first name for a warmer greeting. */
+   firstName?: string | null
+@@ -94,7 +94,7 @@ export function SuperpowerResultEmail({
+           {avoidedFace ? (
+             <Text style={text}>
+               You ranked <strong>{avoidedFace}</strong> last, and that is the more useful half of
+-              this result. Chapter 9 argues the Face you avoid is the one holding the part of the
++              this result. Chapter 9 argues the superpower you avoid is the one holding the part of the
+               work you have been going around, and going around it costs more every year.
+             </Text>
+           ) : null}
+@@ -153,7 +153,7 @@ export function superpowerResultText({
+       ? [
+           '',
+           `You ranked ${avoidedFace} last, and that is the more useful half of this`,
+-          'result. Chapter 9 argues the Face you avoid is the one holding the part of',
++          'result. Chapter 9 argues the superpower you avoid is the one holding the part of',
+           'the work you have been going around, and going around it costs more every year.',
+         ]
+       : []),

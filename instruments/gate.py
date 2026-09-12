@@ -26,256 +26,67 @@ stands between an unfilled placeholder and the typesetter.
     python3 instruments/gate.py -v               # quote every hit with context
     python3 instruments/gate.py --no-appendices  # chapters only, the old behavior
 """
-import re, io, os, sys, glob
+import re, io, os, sys, glob, importlib.util
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, os.pardir)
-MS = os.path.join(ROOT, "manuscript")
-APX = os.path.join(ROOT, "appendices")
 
-# The appendices that ship. Everything else in appendices/ is a backup, an
-# architecture decision record, or a review artifact, and is not printed.
-SHIPPING_APPENDICES = [
-    "APPENDIX_A_FOUR_ALLYSHIP_DOMAINS.md",
-    "APPENDIX_B_QUESTS_CAMPAIGNS.md",
-    "APPENDIX_C_FIVE_CHANNELS.md",   # C changed hands 2026-07-30 by Wendell's
-                                     # ruling; the Key Terms glossary is retired
-    "APPENDIX_D_EMOTIONAL_ALCHEMY_PRACTICES.md",
-    "APPENDIX_E_321_SHADOW_PROCESS.md",
-    "APPENDIX_F_POLARITY_MAP.md",
-    "ON_THE_SHOULDERS_OF.md",
-]
+
+def _load_mod(name):
+    try:
+        spec = importlib.util.spec_from_file_location(name, os.path.join(HERE, name + ".py"))
+        mod = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(mod)
+        return mod
+    except Exception:
+        return None
+
+
+_profile = _load_mod("profile")
+_fl = _load_mod("find_line")
+_exc = _load_mod("exceptions")
+
+
+def _sentence_at(text, pos):
+    """The sentence holding offset `pos`.
+
+    gate scores whole concatenated surfaces rather than sentences, so a hit arrives as an offset.
+    The exceptions ledger keys on the sentence, so a hit has to be resolved back to one before it
+    can be accepted. Boundaries are the nearest sentence end or line break on each side, which is
+    the same coarse split the other scanners use."""
+    left = max(text.rfind(". ", 0, pos), text.rfind("\n", 0, pos), text.rfind("! ", 0, pos),
+               text.rfind("? ", 0, pos))
+    start = 0 if left < 0 else left + 1
+    ends = [e for e in (text.find(". ", pos), text.find("\n", pos)) if e >= 0]
+    end = min(ends) + 1 if ends else len(text)
+    return " ".join(text[start:end].split())
+
+# The banned voice words are this project's profile, read from editorial.yaml when present and
+# falling back to the historical hardcoded list otherwise (see profile.py). The fragments are
+# wrapped in word boundaries here, exactly as the old inline pattern was.
+# EMPTIED 2026-09-09. This list used to hold ["rooms?", "quiet(ly|er|est)?", "genuinely",
+# "things?"] — which are *Mastering the Game of Allyship*'s voice decisions, sitting in the core
+# as the default every project inherits. The selftest caught it the hour it was written: a
+# throwaway project with no voice rules at all failed `gate` on the word "room".
+#
+# **A banned word is the most project-specific thing in the pipeline.** It belongs in
+# `editorial.yaml`, and a project that declares none has none. Both current consumers declare
+# their own lists, so emptying this changed neither of their counts.
+_BANNED_DEFAULT = []
+_banned = _profile.banned(_BANNED_DEFAULT) if _profile else _BANNED_DEFAULT
+# `(?!)` never matches. Without it an empty list joins to the EMPTY pattern, which matches at
+# every position — a project declaring `banned: []` scored 344 phantom hits on six lines of
+# clean prose. Found by selftest.py the same hour _BANNED_DEFAULT was emptied.
+BANNED_PATTERN = (r'|'.join(r'\b(?:%s)\b' % frag for frag in _banned)) if _banned else r'(?!)' 
+# Only the last-resort fallback glob (when no spine/manifest is available) still needs this.
+# What ships is now the spine's business, not a list maintained here — find_line.corpus_paths()
+# returns the accurate shipping set, so a retired draft or a backup file cannot leak into the scan.
+MS = os.path.join(ROOT, "manuscript")
 BLOCK = re.compile(
     r"<!-- (MARGINALIA|EPIGRAPH-BYLINE|POSTCARD) -->\n(.*?)\n<!-- /\1 -->", re.S)
 
 # (name, pattern, flags) — flags matter: andbut and stacks are case-sensitive,
 # and treating them otherwise invents violations that are not there.
-# ---------------------------------------------------------------- the fragment counter
-#
-# Added 2026-09-01, on Wendell's ruling that the ban reaches the manuscript.
-#
-# The house constraint used to read "fragments carry beats, never claims, and only in
-# landing position." He revoked the whole clause, the word included, for being gameable:
-# given a rule that pays out for rhythm, prose drifts toward sounding rhythmic in order
-# to qualify, and the rule ends up protecting the habit it was written to constrain. The
-# rule now has no exception, which is what makes it checkable.
-#
-# This is the one counter here that is a heuristic rather than a pattern, and it is why
-# `score()` accepts a callable. The test is a short sentence with no finite verb.
-# Imperatives are complete sentences and pass; so are sentences carrying a subject pronoun
-# or a quantifier subject. Headings, table cells, list items and citation lines are not
-# scanned, because a bullet list of noun phrases is a list rather than prose.
-#
-# **What it cannot do is separate a main clause from a subordinate one.** "Sixty cards,
-# every one a question you send a friend" is a fragment, and the `send` inside the
-# relative clause hides it. Catching that needs a parser, and the limit is stated here
-# rather than left to be found.
-#
-# Copied from `export/voice-kit/tools/voice_lint.py`, where it was written and where the
-# product repos run it. That is backwards from every other counter here, which the kit
-# copies FROM this file. When one changes, re-copy rather than re-derive.
-
-AUX = set("""am is are was were be been isnt arent wasnt werent
-has have had hasnt havent hadnt do does did dont doesnt didnt
-will would shall should can could may might must wont wouldnt cant couldnt
-shouldnt mustnt cannot lets ive youve weve theyve ill youll well theyll
-im youre were theyre hes shes its thats theres heres
-id hed shed wed youd theyd itd whod""".split())
-
-# High-frequency verbs whose finite forms carry no visible inflection.
-IRREG = set("""go goes went come comes came make makes made take takes took
-get gets got give gives gave say says said see sees saw know knows knew
-think thinks thought find finds found tell tells told become becomes became
-run runs ran read reads keep keeps kept let leave leaves left put puts
-mean means meant hold holds held write writes wrote send sends sent
-sit sits sat stand stands stood cost costs need needs want wants ask asks
-hit shut split spread cast quit bet beat upset bid rid burst
-work works fail fails call calls open opens close closes carry carries carried
-name names named cut cuts fit fits fix fixes hurt set sets show shows shot
-buy buys bought bring brings brought choose chooses chose lose loses lost
-pay pays paid meet meets met hear hears heard feel feels felt
-draw draws drew break breaks broke speak speaks spoke""".split())
-
-# An imperative is a complete sentence with no visible subject, and this repo is full of
-# them: "Follow the flinch." "Serve the relationship." "Then wait." Checked in FIRST
-# POSITION ONLY, so a noun use elsewhere still counts as a fragment ("A hard call.").
-BASE_VERBS = set("""ask answer avoid begin bring build buy call carry check choose close
-accept acknowledge act add allow answer apologise apologize apply argue assume audit
-avoid breathe detect exhale execute inhale validate welcome
-belong break
-bring calm cancel change
-claim collect commit compare come count cut decide describe do draw drop end explain fail find finish fix follow
-confirm consider count cover define delete draft drop end explain extend
-enter fill finish focus get give go grow guess handle hear help hold imagine
-keep kill know learn leave let list listen live look lose love make mark match meet
-mention message move name notice note
-adjust deploy feel honor iterate learn locate observe offer open own pause pay perform
-pick picture place play point refactor
-post prefer prepare propose prove pull push put repeat
-quote raise reach read realize record refuse remember remind remove repair repeat
-replace return
-reply return run save say see seek send serve set settle show sit skip solve sort
-sound speak spend split stand start state stay stop suppose switch
-plan prepare protect publish reach share simulate sort state store take talk tell
-test think throw track treat try turn expect
-use wait walk want watch weigh work write""".split())
-# A sentence opening with a subject pronoun has a subject, and almost certainly a finite
-# verb the inflection tests cannot see ("They also share a scene").
-# Only unambiguous pronouns. "one", "this", "that" are determiners at least as often
-# ("One sitting.", "This rule.") and listing them hides exactly the shape we are after.
-SUBJ_PRONOUNS = set("i you we they he she it who".split())
-# Quantifier subjects take an uninflected verb the same way a plural pronoun does
-# ("Some happen in the external world", "Most people turn back"). Three words minimum,
-# so "Some of them." and "Both true." stay flagged.
-QUANT_SUBJ = set("some most many few several all both others each either neither none people\ntwo three four five six seven eight nine ten rest remainder".split())
-ABBREV = re.compile(r"\b(?:Mr|Mrs|Ms|Dr|Prof|St|Jr|Sr|vs|etc|e\.g|i\.e|No|Fig|Vol|Ch|pp|p|[A-Z])\.\s")
-
-BASE_VERBS |= set("""declare deliver deny design discuss earn edit engage ensure establish
-examine expect face flag force gather grant hand hide hope host include invite join judge
-lead limit log manage map measure mind miss model order pass permit plot praise press
-promise prove provide publish question rate react refer reflect register reject release
-remain rename repeat report request require reserve resist resolve respect respond rest
-restore retain reveal review revise reward risk roll rule satisfy scan score search secure
-select sell separate shape share shift ship sign sketch slow source spare spot spread
-stack stage stick strike study submit suggest supply support surface survive swap sweep
-tag tap target teach tend thank tie time touch trace trade train transfer translate
-trigger trim trust tune type undo unlock update upgrade urge value vary verify view visit
-vote wake warn wave wear welcome win wipe wish withdraw wonder worry wrap yield""".split())
-
-LEAD_ADVERBS = set("""then now so first next also always never please instead again
-still just only rather even simply here there today tomorrow""".split())
-
-# -ing is never finite on its own ("One sitting.", "An evening") — only -ed and -s are.
-INFLECTED = re.compile(r"(?:ed|es|s)$")
-WORDRX = re.compile(r"[A-Za-z][A-Za-z'’-]*")
-SKIPLINE = re.compile(r"^\s*(?:#{1,6}\s|\||[-*+]\s|\d+[.)]\s|!\[|\[!)")
-LINKRX = re.compile(r"\[([^\]]*)\]\([^)]*\)")
-MARKS = re.compile(r"~~|[*_]{1,3}|^\s*>\s?", re.M)
-
-
-def _has_finite_verb(words):
-    for w in words:
-        w = w.lower().replace("'", "").replace("’", "")
-        if w in AUX or w in IRREG:
-            return True
-        if len(w) > 3 and INFLECTED.search(w):
-            return True
-    return False
-
-
-def fragments(text, max_words=12):
-    """Yield (offset, sentence) for sentences with no finite verb.
-
-    Markdown is hard-wrapped, so a sentence routinely spans several source lines and the
-    tail of a wrapped sentence looks exactly like a fragment. Lines are therefore joined
-    into paragraphs first, carrying an index map so the reported offset still points at
-    the real character. Offsets are into `text`, so the caller's line_of() still works.
-    """
-    def scan(buf, idx):
-        # "Ms. G, christine and Tasshin" must not split at the title.
-        buf = ABBREV.sub(lambda m: m.group(0).replace(".", "\u0001"), buf)
-        off = 0
-        for sent in re.split(r"(?<=[.!?])\s+", buf):
-            sent = sent.replace("\u0001", ".")
-            here, off = off, off + len(sent) + 1
-            sent = sent.strip()
-            if not sent or not sent.endswith((".", "!", "?")):
-                continue
-            words = WORDRX.findall(sent)
-            if not words or len(words) > max_words:
-                continue
-            if not re.search(r"[a-z]", sent):          # ALL-CAPS labels
-                continue
-            if re.match(r"^[\W\d]*§[\w.§\u2013-]*[\W]*$", sent):   # "§4d.", "§5b."
-                continue
-            # A blanked code span at the head of a sentence leaves it starting mid-clause
-            # (", following Publishing Base v0.1..."), which is an artifact, not a fragment.
-            if not re.match(r"^[\"\u201c\u2018'(\[]?[A-Z0-9]", sent):
-                continue
-            if "  " in sent:      # a blanked code span left a gap; the sentence is not whole
-                continue
-            if sent.count("(") != sent.count(")"):     # a split parenthetical
-                continue
-            head = [w.lower() for w in words]
-            # A subject pronoun with anything after it almost always brings a finite verb
-            # the inflection tests cannot see: "From there you play the next move cleanly",
-            # "The rest of the time they interrupt."
-            if any(w in SUBJ_PRONOUNS for w in head[:-1]):
-                continue
-            # A quantifier subject takes an uninflected verb the same way a plural
-            # pronoun does, but only when a verb actually follows it: "the two look
-            # identical" is a clause, "Two people at one keyboard" is not.
-            if any(w in QUANT_SUBJ and head[i + 1] in (BASE_VERBS | IRREG)
-                   for i, w in enumerate(head[:-1])):
-                continue
-            while head and head[0] in LEAD_ADVERBS:
-                head.pop(0)
-            if head and head[0] in BASE_VERBS:         # imperative
-                continue
-            if _has_finite_verb(words):
-                continue
-            yield idx[min(here, len(idx) - 1)], sent
-
-    buf, idx, pos, skipping = "", [], 0, False
-    for line in text.split("\n"):
-        start, pos = pos, pos + len(line) + 1
-        if not line.strip():
-            for hit in scan(buf, idx):
-                yield hit
-            buf, idx, skipping = "", [], False
-            continue
-        # A citation line is a list of link titles, not prose. Two or more links and
-        # little else outside them: skip it.
-        if len(LINKRX.findall(line)) >= 2 and len(LINKRX.sub("", line).strip()) < 40:
-            for hit in scan(buf, idx):
-                yield hit
-            buf, idx, skipping = "", [], True
-            continue
-        if SKIPLINE.match(line):
-            for hit in scan(buf, idx):
-                yield hit
-            buf, idx, skipping = "", [], True
-            continue
-        # A wrapped list item continues on an indented line and is still list, not prose.
-        # Without this, the tail of every wrapped bullet reads as a fragment.
-        if skipping and line[:1].isspace():
-            continue
-        skipping = False
-        clean = MARKS.sub("", LINKRX.sub(r"\1", line))
-        # Rebuild the index map by locating each kept character in the source line.
-        j = 0
-        for ch in clean:
-            k = line.find(ch, j)
-            if k < 0:
-                k = j
-            idx.append(start + k)
-            j = k + 1
-        buf += clean
-        buf += " "
-        idx.append(start + len(line))
-    for hit in scan(buf, idx):
-        yield hit
-
-class _Hit(object):
-    """A regex-match-alike, so a callable counter reports like every other one."""
-
-    def __init__(self, start, text):
-        self._s, self._t = start, text
-
-    def start(self):
-        return self._s
-
-    def end(self):
-        return self._s + len(self._t)
-
-    def group(self, _n=0):
-        return self._t
-
-
-def fragment_hits(text):
-    return [_Hit(off, sent) for off, sent in fragments(text)]
-
-
 COUNTERS = [
     ("andbut", r'(^|[.?!]["“”\'’]? |\*|\*\*|— |; )(And|But) ', re.M),
     # "rooms" plural banned 2026-07-29 by Wendell. The earlier rule read
@@ -292,7 +103,7 @@ COUNTERS = [
     # that had cleared 320 sites as idiom: "until I see a number of examples of 'the thing'
     # that are grammatical we're actually preserving something bad and saying it's ok
     # because we've done it before."
-    ("banned", r'\brooms?\b|\bquiet(ly|er|est)?\b|\bgenuinely\b|\bthings?\b', re.I),
+    ("banned", BANNED_PATTERN, re.I),
     ("emdash", r'[a-zA-Z0-9,]—[a-zA-Z0-9]', 0),
     ("A0", r'you (were|was) (taught|told|raised|trained)|somewhere along the way'
            r'|the village taught you', re.I),
@@ -322,74 +133,31 @@ COUNTERS = [
     # Scoped to a bracketed run of two or more capitals so ordinary bracketed
     # prose and single-letter references are untouched.
     ("prodtag", r'\[[A-Z][A-Z0-9 →/&—-]{1,40}\]', 0),
-    ("fragment", fragment_hits, 0),
 ]
 
 
-# Sentence-level exemptions, each one ruled by Wendell on a named date. Keyed on the
-# exact sentence rather than the word, so an exemption cannot silently spread: change
-# the sentence and the exemption stops applying, which is the behaviour we want.
+# Sentence- and name-level exemptions are the PROJECT's, declared in the manifest (v32,
+# 2026-09-11). Each is `{counter, phrase, reason}`; a counter ignores any span where `phrase`
+# occurs. Two conventions, both carried here as data:
 #
-# The alternative was weakening a counter's pattern book-wide, which trades one
-# approved site for an unbounded number of unapproved ones.
-EXEMPT = [
-    ("banned",
-     "the Sage's question is about rooms rather than about people",
-     "2026-07-30 — Laloux entry, Appendix G. Wendell: \"we can leave rooms in this "
-     "example. It's not load bearing.\""),
-]
-
-
-# CANON is not EXEMPT, and the difference is the reason there are two lists.
+#   EXEMPT approves one SENTENCE, keyed on the whole sentence so an approval cannot spread — right
+#   for a one-off (MTGOA's Laloux `rooms` line).
+#   CANON approves a NAME that recurs — a move title or a thesis — so keying on one sentence would
+#   mean re-approving it in every chapter that cites it (MTGOA's `thing` theses).
 #
-# EXEMPT approves one sentence. It is keyed on the whole sentence precisely so an approval
-# cannot spread, which is right for a one-off like the Laloux `rooms` line.
-#
-# CANON approves a NAME. A named move keeps its name everywhere it appears, so keying on a
-# sentence would mean re-approving the same title in every chapter that cites it. Each
-# entry below is a ruling by Wendell on 2026-08-03, and each is a title or a thesis rather
-# than a sentence somebody happened to write.
-CANON = [
-    # RETIRED 2026-08-07. Three CANON entries lived here exempting ch3's Move 5 from
-    # the `thing` ban. Wendell, reversing the 2026-08-03 "option b, keep the move name"
-    # ruling: "this should've already been ruled on and changed." The exemption was
-    # holding the book's most-repeated banned word in place as its own move name, twice
-    # in one title, while every other site in the manuscript was swept to zero. The move
-    # is `Say the Unsaid Charge` now, which needs no exemption. ch3 already used "the
-    # unsaid charge" three times for the same referent before the rename.
-    ("banned", "Run It Again With One Thing Changed",
-     "ch9 Move 4."),
-    ("banned", "Run it again with one thing changed",
-     "the same move in ch9's recaps at 576 and 590."),
-    ("banned", "Right Thing the Easy Thing",
-     "ch6's chapter subtitle. Wendell 2026-08-03: \"keep the right thing the easy thing.\""),
-    ("banned", "right thing",
-     "the Architect's thesis. Quoted three times inside ch6, once from ch5's closing "
-     "handoff and twice in ch9 — a thesis rather than a heading, which is why it is here "
-     "and not in EXEMPT."),
-    ("banned", "easy thing",
-     "the second half of the same thesis."),
-    ("banned", "the right thing becomes the thing that actually gets done",
-     "ch6:197, the thesis stated as a question. The second `thing` is inside the formula."),
-    # The strongest exemption in the sweep, because the sentence diagnoses the placeholder.
-    ("banned", "*This is my thing*",
-     "ch8:769. Quoted self-talk that the chapter is convicting: \"It's a category that "
-     "swallows all five, and once it's on the table nothing gets named specifically enough "
-     "to move.\" The vagueness IS the diagnosis; naming it would destroy the specimen. "
-     "FLAGGED as my judgement rather than Wendell's ruling."),
-    ("banned", "not *my thing.*",
-     "ch8:779, the same specimen in the recap."),
-    ("banned", "you lose the things that told you who you were",
-     "ch1:54. Ruled an exception by Wendell 2026-08-03. It survives on the rule rather "
-     "than on precedent: the sentence before supplies the referent — \"The game hands you "
-     "every bit of it\" — so the definite article has a real antecedent."),
+# Until v32 MTGOA's own exemptions lived here as hardcoded lists, so every other book carried
+# them. They move to `gate_exceptions:` in the manifest; a project that declares none runs the bare
+# gate. See profile.gate_exceptions.
+GATE_EXCEPTIONS = [
+    (e["counter"], e["phrase"], e.get("reason", ""))
+    for e in (_profile.gate_exceptions([]) if _profile else [])
 ]
 
 
 def exempt_spans(text, counter):
     """Character spans in `text` that this counter must ignore."""
     spans = []
-    for name, phrase, _reason in EXEMPT + CANON:
+    for name, phrase, _reason in GATE_EXCEPTIONS:
         if name != counter:
             continue
         i = text.find(phrase)
@@ -409,8 +177,7 @@ def score(text):
     out = []
     for n, p, f in COUNTERS:
         skip = exempt_spans(text, n)
-        hits = p(text) if callable(p) else re.finditer(p, text, f)
-        out.append((n, [m for m in hits
+        out.append((n, [m for m in re.finditer(p, text, f)
                         if not any(a <= m.start() < b for a, b in skip)]))
     return out
 
@@ -441,27 +208,31 @@ def main():
     if paths:
         return report(draft_surfaces(paths), verbose)
 
-    files = sorted(glob.glob(os.path.join(MS, "ch*.md")),
-                   key=lambda f: int(re.search(r"ch(\d+)", os.path.basename(f)).group(1)))
+    # The corpus is the shared spine (find_line.corpus_paths), not a hardcoded manuscript glob,
+    # so gate scans exactly what the rest of the pipeline scans — the accurate shipping set, no
+    # retired drafts or backups — and travels to a project whose prose is not under manuscript/.
+    # Bucket by the spine's `kind`, which is portable; fall back to the old glob only if the spine
+    # is unavailable (no build_book / manifest).
+    corpus = _fl.corpus_paths() if _fl else []
+    if not corpus:
+        corpus = [("chapter", f) for f in sorted(glob.glob(os.path.join(MS, "ch*.md")))]
+    no_apx = "--no-appendices" in sys.argv
+
     surfaces = {"body": "", "marginalia": ""}
-    for f in files:
-        b, m = split_surfaces(io.open(f, encoding="utf-8").read())
-        surfaces["body"] += "\n" + b
-        surfaces["marginalia"] += "\n" + m
-
-    if "--no-appendices" not in sys.argv:
-        text = ""
-        for name in SHIPPING_APPENDICES:
-            path = os.path.join(APX, name)
-            if os.path.exists(path):
-                text += "\n" + io.open(path, encoding="utf-8").read()
-        surfaces["appendices"] = text
-
-        matter = ""
-        for d in (os.path.join(ROOT, "front_matter"), os.path.join(ROOT, "back_matter")):
-            for path in sorted(glob.glob(os.path.join(d, "*.md"))):
-                matter += "\n" + io.open(path, encoding="utf-8").read()
-        surfaces["matter"] = matter
+    for kind, f in corpus:
+        # Through find_line, so gate honours `prose_section` and the front-matter strip like
+        # every other instrument.
+        text = _fl.prose_text(f) if _fl else io.open(f, encoding="utf-8").read()
+        if kind == "chapter":
+            b, m = split_surfaces(text)
+            surfaces["body"] += "\n" + b
+            surfaces["marginalia"] += "\n" + m
+        elif no_apx:
+            continue
+        elif kind == "appendix":
+            surfaces["appendices"] = surfaces.get("appendices", "") + "\n" + text
+        else:  # front, back, component — other shipped text, scanned for the same violations
+            surfaces["matter"] = surfaces.get("matter", "") + "\n" + text
 
     return report(surfaces, verbose)
 
@@ -486,9 +257,26 @@ def report(surfaces, verbose):
                     print("\n%s [%s] %r\n    …%s…" % (label, name, m.group(0).strip(), ctx.strip()))
         print()
 
+    # Every hit, resolved to the sentence that holds it — the unit the exceptions ledger keys on,
+    # so a banned word inside a quotation can be accepted once instead of argued with every run.
+    hits = []
+    for label, text in surfaces.items():
+        for name, ms in score(text):
+            for m in ms:
+                hits.append(_sentence_at(text, m.start()))
+    if "--keys" in sys.argv:
+        # gate concatenates surfaces, so it has no line number to offer — the surface label is
+        # the most it honestly knows. The key is what matters; the location is a convenience.
+        return _exc.emit_keys("gate", [("body", s) for s in hits]) if _exc else 0
+    kept = [s for s in hits if _exc and _exc.is_accepted("gate", s)]
+    unresolved = len(hits) - len(kept)
+    target = _profile.target("gate", 0) if _profile else 0
+
     print("GATE PASS — every counter reads 0" if total == 0
           else "GATE FAIL — %d hit(s). Re-run with -v to see them." % total)
-    return 0 if total == 0 else 1
+    print("EDITORIAL gate unresolved=%d accepted=%d total=%d target=%d stale=%d"
+          % (unresolved, len(kept), len(hits), target, len(_exc.stale("gate")) if _exc else 0))
+    return 0 if unresolved <= target else 1
 
 
 if __name__ == "__main__":

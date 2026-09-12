@@ -53,12 +53,12 @@ These scenarios teach you to feel the difference between a move that keeps the f
 
 #### Scenario 1: Sustaining Move (In the Middle of a Conversation)
 
-You're in a difficult conversation. Someone says something that lands as criticism, and you feel anger rising.
+You're in a difficult conversation. Someone says something that you hear as criticism, and you feel anger rising.
 
 **Wake (2 seconds):** You feel the anger. Your jaw tightens.
-**Open (1 second):** You let the heat be all the way there instead of clamping it — the flush of it, and the sting of being questioned in front of people.
+**Open (1 second):** You let the heat be all the way there instead of clamping it — the flush of it and the sting of being questioned in front of people.
 **Clean (3 seconds):** You ask the anger: What boundary is being violated? You sense: My competence just got questioned publicly.
-**Grow (3 seconds):** You let your system know: I'm good at what I do. That question landed as an attack, but I know my own capacity.
+**Grow (3 seconds):** You let your system know: I'm good at what I do. I took that question as an attack, but I know my own capacity.
 **Show (2 seconds):** You respond from that clarity: "I hear the question. Here's actually what happened..."
 
 Total: 11 seconds. You moved from defensive reactivity to grounded presence. The move sustains the field because it protects your capacity to stay present without flooding the field.
@@ -79,7 +79,7 @@ Total: 1-2 hours. You've moved from raw pain to integrated wisdom. The move repl
 
 You feel sadness (Water) about a loss. You're also needed right now, and you need to move into action.
 
-**Wake → Open → Clean → Grow (in sadness):** You feel the sadness. You let it land fully. You understand what you lost. You integrate: That mattered, and it's gone.
+**Wake → Open → Clean → Grow (in sadness):** You feel the sadness. You let it run fully. You understand what you lost. You integrate: That mattered, and it's gone.
 
 **Show Up:** The sadness clarifies what needs to be protected. From there, you take action to protect what's still here.
 

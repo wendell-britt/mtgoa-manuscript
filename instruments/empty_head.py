@@ -198,7 +198,9 @@ def main():
         i = sys.argv.index("--diff")
         rev = sys.argv[i + 1] if len(sys.argv) > i + 1 else "origin/master...HEAD"
         return diff_mode(rev)
-    paths = [a for a in sys.argv[1:] if not a.startswith("--")] or \
+    # `--` was `-` until 2026-08-29, so a single-dash flag was taken for a path and the
+    # instrument died on `FileNotFoundError: '-v'`. Every other file here accepts `-v`.
+    paths = [a for a in sys.argv[1:] if not a.startswith("-")] or \
         sorted(glob.glob("manuscript/ch?.md"))
 
     print("empty head nouns — a determiner pointing at a noun that carries no content")

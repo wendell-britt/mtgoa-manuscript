@@ -7,11 +7,11 @@
 
 ---
 
-Chapter 1 says pen and paper hold this, and it is right. A sheet you can only reach
+Chapter 1 is right that pen and paper hold this. A sheet you can only reach
 through a screen is a sheet you will not open in the four seconds you need it.
 
 Thirteen lines. Each one is stamped with the chapter that asks for it, so the sheet fills
-in the order you read, and the stamp is also where to go back to. One line has no chapter
+in the order you read. The stamp is also where to go back to. One line has no chapter
 and is marked **open**.
 
 ---
@@ -76,7 +76,7 @@ it in motion. Leave it blank until you do*
 
 ## A worked example
 
-Devon's sheet, at the end of a first read. Yours will not look like this, and it is not
+Devon's sheet, at the end of a first reading. Yours will not look like this, nor is it
 supposed to. It is here so you can see how short a line can be and still be worth writing,
 and how much of it names a specific person or a specific week.
 
@@ -90,7 +90,7 @@ and how much of it names a specific person or a specific week.
 > **Quest.** The hiring loop at work. Specifically that the two most junior people on it
 > never get asked what they saw.
 >
-> **Daemon.** Fixer/Healer. Its job is to keep things from breaking by absorbing the
+> **Daemon.** Fixer/Healer. Its job is to keep the peace by absorbing the
 > friction myself, so nobody has to feel it.
 >
 > **Channel I skip.** Anger. It arrives and I convert it into an agenda item inside a
@@ -101,14 +101,14 @@ and how much of it names a specific person or a specific week.
 >
 > **Inheritance.** *We do not make a scene.* From my father's house. **Break.**
 >
-> **Harm I keep fixing.** Rewriting other people's emails so they land softer. The
+> **Harm I keep fixing.** Rewriting other people's emails so they read softer. The
 > condition producing it: nobody has told the sender that their tone reads as an order.
 >
 > **Walk-away price.** A second reorg that cuts the junior roles without asking the people
 > in them.
 >
 > **The game I reach for.** *The meeting is the work.* It saves me from having to say the
-> thing out loud to a person who can answer.
+> sentence out loud to a person who can answer.
 >
 > **Autopilot pattern.** Diplomat, 5 of 6.
 >

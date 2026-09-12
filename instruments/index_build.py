@@ -267,7 +267,7 @@ def locator(label, rel, text, pos):
         m = re.match(r"Appendix ([A-G])", label)
         stem = "App %s" % m.group(1) if m else label
     sec = None
-    for h in re.finditer(r"^## Section (\d+)", text, re.M):
+    for h in re.finditer(r"^<!-- SECTION (\d+) -->", text, re.M):
         if h.start() > pos:
             break
         sec = h.group(1)

@@ -95,7 +95,7 @@ python3 instruments/prose_diet.py -v DRAFT_FILE
 | waste | *it / this / that* with no clear antecedent | name the thing, or cut the clause |
 | inchoative | *the meeting goes cold*, *a conversation that goes wrong* | ask who did it. *Everybody at the table starts picking their words.* If nobody did it, the sentence is a state report and probably wants cutting |
 
-**The agency fix has one characteristic failure, and it is worse than the defect.** Added
+**The agency fix has one characteristic failure. It is worse than the defect it repairs.** Added
 2026-08-02 after three occurrences in one session. Wendell, on the third: *"all of your
 changes keep reintroducing issues that we've removed from the text. They don't know the
 loop. Whatever produces this assertion has got to go."*
@@ -111,8 +111,8 @@ recurring private failure, which nothing has earned and nothing can. The A0 gate
 guards one corner of this (`you were taught / told / raised / trained`) and four fixed
 phrases are all it has.
 
-**The body is the worst place to reach for a subject, and it is the first place you will
-reach.** Added 2026-08-02, one turn after the rule above, because the same move came back
+**The body is the first place you will reach for a subject. It is the worst place to find
+one.** Added 2026-08-02, one turn after the rule above, because the same move came back
 wearing a body. A draft turned *the bracing fired exactly when it should* into *your body
 braced exactly when it should* — the nominalization gone, and a claim about somebody's
 somatic experience in its place. Wendell: *"you can't narrate someone's somatic experience.
@@ -136,8 +136,50 @@ nothing invented about anyone's chest.
 | a third party who really acts | *No one reports back* beats *the signal drops out* |
 | nobody — cut it | a state report with no doer is often a sentence the passage does not need |
 
-**3 · slop.** Run `/no-ai-slop` on the draft. It is a reading rather than a measurement, so no
-instrument can do it. Then **re-run step 2**, because a slop edit changes the numbers.
+**3 · slop.** Run `/no-ai-slop` on the draft. Then **re-run step 2**, because a slop edit
+changes the numbers.
+
+**Half of it is now measured, as of 2026-08-29, and the half that is not is named.** Wendell,
+on the KDP description after this pass reported it clean and he then found six defects in it:
+*"how are our skills not catching this?"* — then *"wire those four instruments into
+review.py."* `review.py` now runs three steps between the counters and the reading:
+
+| step | finds | what it cannot decide |
+|---|---|---|
+| **3a `fragment.py`** | a sentence with no verb, and a headed noun phrase whose only verbs are inside a relative clause — *"The meeting where somebody gets talked over."* | whether the fragment carries a beat or a claim |
+| **3b `antecedent.py`** | a pronoun with no candidate antecedent in the paragraph before it | whether a reader would follow it anyway |
+| **3c `slop_shapes.py`** | ten patterns from `no-ai-slop/SKILL.md` that are a vocabulary list or a fixed shape — banned words, throat-clearing, faux-insight, puffery, weasel attribution, recap endings, negative listing, binary contrasts | whether a two-part contrast is ranking or denying |
+
+**3d · `trailing_and.py`** was added 2026-09-01, after Wendell caught a construction every
+other step had passed: *"this trailing 'and' construction needs to go."* It is **Strunk's Rule
+14** — two co-ordinate clauses, the second introduced by a conjunction — and Rule 4 carries the
+reason: *"and, is the least specific of connectives. Used between independent clauses, it
+indicates only that a relation exists between them without defining that relation."*
+
+**Two tiers, and they are not the same finding.** `RANK` is the ranking tag — *"Two errors, and
+the second is worse than the first"* — and it is **a defect on sight, with no correct instance**,
+because it announces a hierarchy instead of enacting one. Reorder the paragraph. `LOOSE` is a
+rate against the book's own 13.9%; **the target is not zero**, because Strunk defends the
+occasional loose sentence in as many words.
+
+**3e · `telling.py`** was added 2026-09-02, after Wendell caught the copula-label on the proof:
+*"That is the trade, every time. THAT IS THAT IS THAT IS."* It **tells instead of showing** and
+breaks **Strunk 18** — the emphatic end must carry *"the new element in the sentence,"* and a
+re-label carries nothing new — and **Strunk 11**, the flat copula being the least vigorous verb.
+`LABEL` (*That is the ___*) is the flagship, **guilty until the thought under it is shown
+finished**; `PROPERTY` (*praise has a shape*) is the off-system copula-metaphor (Lakoff);
+`ABSOLUTE` (*every time*) is a separate sickness the instrument **surfaces but never grades** —
+earned or unprovable is the reader's call, not the tool's. The remediation is to **finish the
+thought**, not tighten the label: put the reader where it happens and let them feel the verdict
+the label hid. See `specs/RESEARCH_TELLING_NOT_SHOWING_2026-09-02.md`.
+
+**So step 3 is no longer honour-system, and the reading is still the job.** *Beat or claim*,
+*real or manufactured*, and **which person** — the defect none of these caught, from *"the
+meeting where the same person absorbs it again"* — need a reader. See
+`specs/GAP_DRAFT_REVIEW_INSTRUMENTS_2026-08-29.md`.
+
+**Do not report step 3 as done on the strength of 3a to 3c.** Naming a fraction after the
+whole is the failure that produced this whole batch, twice in one day.
 
 **Run it against `eval.md`, not only against the pattern list in its `SKILL.md`.** Added
 2026-08-02, because half of it was skipped. A ch2 draft was audited against the patterns —
@@ -254,6 +296,37 @@ counters, the worst-scoring prose of that session.
 **Prose in a message is prose.** A candidate sentence written inline gets the same pass as a
 draft file: write it to a file, run `review.py` on it, then paste it. Composing in the reply
 is where the check gets skipped, every time.
+
+## Customer-facing prose is prose
+
+Added 2026-08-22. Wendell, on a Kickstarter update drafted for 371 backers: *"Everything
+customer facing should go through our review process before getting to em."*
+
+**The rule already said this and the loophole was the word "manuscript."** Marketing copy,
+Kickstarter updates, sales pages, emails and site copy had been getting `gate` and
+`prose_diet` — steps 1 and 2 — and being shown as though that were the pass. It is two of
+five. **Steps 0, 3, 3.5 and 7 are where the defects a counter cannot see get caught**, and
+that is exactly as true of an update as of a chapter.
+
+**Both defects in that draft were invisible to steps 1 and 2, and both were caught by the
+steps that had been skipped:**
+
+| step | what it caught |
+|---|---|
+| **0 · ELI5** | *"A page that hides its number costs somebody a whole conversation before they find out they cannot afford it."* The ELI5 was thirteen words against eighteen, and the diff showed the register version arguing a theory of pricing-page design **at a reader who had not raised it**. Replaced with *"The prices are on the page, so nobody has to ask."* |
+| **7 · empty_head** | *"Now the part that saves you the writing"* — `the part` with a restrictive clause doing the work the noun refused. The line was cut rather than rewritten, because the paragraph four lines below already did its job |
+
+**`gate` and `diet` both returned clean on that draft.** They are cheap and they are first for
+a reason; they are not the pass.
+
+**Two adjustments for non-manuscript copy, and no others:**
+
+- **Score the body, not the quoted voices.** A blurb written to be pasted by somebody else has
+  to sound like that person, so dieting it to the book's ratios is the defect rather than the
+  fix. Measure the body; exempt the quoted block and **say in the record that you did**.
+- **Verify every asset the copy points at before quoting it.** A URL, a PDF, a price, a code.
+  This is here because an update told 371 people to enter a discount code at a checkout that
+  had no field to enter it in, and four days passed before anyone acted on their replies.
 
 ## Show the diff before applying a sweep
 

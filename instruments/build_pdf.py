@@ -151,7 +151,7 @@ def typeset_source():
     return src
 
 
-def to_typst(src, out, trim):
+def to_typst(src, out, trim, share_url=""):
     try:
         import pypandoc
     except ImportError:
@@ -165,7 +165,10 @@ def to_typst(src, out, trim):
                     "--variable", "preset=%s" % trim,
                     "--metadata", "table-measure=%d" % TRIMS[trim]["measure"],
                     "--metadata", "title=%s" % TITLE,
-                    "--metadata", "author=%s" % AUTHOR])
+                    "--metadata", "author=%s" % AUTHOR,
+                    # FR-3. Empty for print: a trade paperback carries no URL in its foot,
+                    # and `build_pdf_ebook.py` rebuilds with it set for the PDF edition.
+                    "--variable", "share-url=%s" % share_url])
     return True
 
 
@@ -255,15 +258,20 @@ def roman(n):
     return out
 
 
-def build(src, trim, check_only, proof, keep_typst):
+def build(src, trim, check_only, proof, keep_typst, share_url=""):
     import typst
 
     stamp = datetime.date.today().isoformat()
-    typ = os.path.join(BUILD, "MTGOA_%s_%s.typ" % (stamp, trim))
-    pdf = os.path.join(BUILD, "MTGOA_%s_%s.pdf" % (stamp, trim))
+    # A share URL forks the artifact rather than replacing it. The print interior and the
+    # PDF edition are different products -- a trade paperback carries no URL in its foot --
+    # and both have to be able to exist in build/ at once, because `build_pdf_ebook.py`
+    # reads one of them off disk by name.
+    suffix = "%s_share" % trim if share_url else trim
+    typ = os.path.join(BUILD, "MTGOA_%s_%s.typ" % (stamp, suffix))
+    pdf = os.path.join(BUILD, "MTGOA_%s_%s.pdf" % (stamp, suffix))
 
-    print("\n=== %s ===" % trim)
-    if not to_typst(src, typ, trim):
+    print("\n=== %s%s ===" % (trim, " + share line" if share_url else ""))
+    if not to_typst(src, typ, trim, share_url):
         return 1
     print("typst    %s (%d bytes)" % (os.path.relpath(typ, ROOT), os.path.getsize(typ)))
 
@@ -362,6 +370,12 @@ def main():
     check_only = "--check" in sys.argv
     proof = "--proof" in sys.argv
     keep_typst = "--keep-typst" in sys.argv or check_only
+    # FR-3 of SPEC_PDF_2.0. Off by default, because the default artifact is the print
+    # interior and a paperback does not carry a URL on all 387 of its pages.
+    share_url = ""
+    for a in sys.argv[1:]:
+        if a.startswith("--share-url="):
+            share_url = a.split("=", 1)[1].strip()
 
     trims = ["trade"]
     for arg in sys.argv[1:]:
@@ -392,7 +406,7 @@ def main():
 
     rc = 0
     for trim in trims:
-        rc |= build(src, trim, check_only, proof, keep_typst)
+        rc |= build(src, trim, check_only, proof, keep_typst, share_url)
     return rc
 
 

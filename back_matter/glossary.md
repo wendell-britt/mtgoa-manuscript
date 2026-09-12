@@ -5,21 +5,21 @@ chapter and section that teaches the term.
 
 **3-2-1 Shadow Process** — Face it, Talk to it, Be it. The practice for a trigger that is a
 person: you describe them in the third person, then speak to them, then speak as them.
-Ken Wilber's, and Appendix E runs it in full. *App E; first used Ch 3 §4*
+Appendix E runs Ken Wilber's process in full. *App E; first used Ch 3 §4*
 
 **Allyship domains, the four** — The four shapes allyship takes as action: Gather Resources,
-Raise Awareness, Direct Action, Skillful Organizing. A read that never lands in one of them
-stayed a read. *App A; first used Ch 2 §10*
+Raise Awareness, Direct Action, Skillful Organizing. A reading that never reaches one of them
+stayed a reading. *App A; first used Ch 2 §10*
 
 **Altitude** — The developmental level a move is made from. Each Face works native material
-at its own altitude, and the Regent's is loyalty. You carry the lower altitudes rather than
+at its own altitude (the Regent's is loyalty). You carry the lower altitudes rather than
 leaving them behind. *Ch 8; Ch 5 §4 for the Regent's; the rule is Ken Wilber's*
 
 **Architect, the** — The Face that makes the right move the easy move. Means: the rule
 changed, so nobody has to be brave twice. Works in logic, and reads a situation as a
 system that is producing exactly what it was built to produce. *Ch 6*
 
-**BAR** — it stands for Breakthrough, Action, Reflection, and it is game tape rather than journaling. You run one right
+**BAR** — it stands for Breakthrough, Action, Reflection: game tape rather than journaling. You run one right
 after a hard moment, while the feeling is still close enough to name. *Ch 2 §9*
 
 **Campaign** — A run of quests pointed at one goal, over a stretch of time. A quest is
@@ -29,7 +29,7 @@ one move; a campaign is what they add up to. *App B*
 Means: somebody drew the line on the day it needed drawing. *Ch 4*
 
 **Channels, the five** — Metal/fear, Water/sadness, Wood/joy, Fire/anger, Earth/neutrality.
-Which channel is running tells you what the feeling is for. A remix of wu xing, and Chapter 3 says how far it bent the original. *Ch 3 §4*
+Which channel is running tells you what the feeling is for. Chapter 3 says how far this remix of wu xing bent the original. *Ch 3 §4*
 
 **Charge, the** — The live energy in a feeling before you have spent it on anything. Held
 rather than discharged, the charge is the capacity you are building. *Ch 3 §4*
@@ -39,7 +39,7 @@ converting it into a request. Three parts: the line, the delivery, the cost. *Ch
 
 **Clearance** — How far somebody's Protector lets you in. It is set by a history you were not
 there for, it is the only currency on their side of the floor, and a small move at a narrow
-door still lands. *Ch 2 §7*
+door still counts. *Ch 2 §7*
 
 **Completed state** — Where a channel arrives when you feel it all the way
 through: fear into wonder, sadness into poignance, anger into triumph, joy into bliss,
@@ -83,8 +83,8 @@ being good to somebody. *Ch 1*
 
 **Five-Move Form, the** — Wake Up, Open Up, Clean Up, Grow Up, Show Up. Notice the signal,
 let it reach you, name what it is telling you, take the lesson, make the move. A form in the
-martial artist's sense: the same five run in every chapter's game section, and each Face
-teaches its own changes on them. Adapted from Ken Wilber's *Finding Radical Wholeness*.
+martial artist's sense: the same five run in every chapter's game section, with each Face
+teaching its own changes on them. Adapted from Ken Wilber's *Finding Radical Wholeness*.
 *Ch 3 §4*
 
 **Fixer/Healer, the** — The daemon that repairs what is broken and holds in place what is
@@ -101,18 +101,18 @@ you named it or not. The move the book builds toward is taking the seat on purpo
 running, with tokens you spend, tickets you earn, and doors that open only at your
 clearance. *Ch 1*
 
-**Player, the** — Two meanings, and the book keeps them apart. In your own Forest,
+**Player, the** — Two meanings, which the book keeps apart. In your own Forest,
 who waits at the center when no daemon has the joystick: the Vulnerable Child, who should
 have been holding it the whole time. In somebody else's, a player waiting for somebody to
 show up and play. Capitalized as a Face, the Player is who you become when you stop running
 the six and start designing with them. *Ch 2 §6, §7; Ch 9*
 
 **Polarity Map, the** — For two goods that are both necessary and pull against each other.
-Name the poles, mark where you are, design one action containing both. Barry Johnson's, and
-the distinction under it is his. *Ch 3 §4; App F*
+Name the poles, mark where you are, design one action containing both. The map is Barry
+Johnson's, together with the distinction it rests on: a polarity is managed, not solved. *Ch 3 §4; App F*
 
-**Protector, the** — The daemon whose job is keeping you alive. It works the door, it holds
-one shape, and it checks you against the shape rather than thinking about you. *Ch 2 §6*
+**Protector, the** — The daemon whose job is keeping you alive. It works the door, holds
+one shape, and checks you against the shape rather than thinking about you. *Ch 2 §6*
 
 **Quest** — A commitment to act that touches somebody other than you, on a date. A verb, a
 name, a deadline, and an artifact somebody else can encounter. *Ch 3 §6; App B*
@@ -129,25 +129,25 @@ through Ch 8*
 
 **Shadow, the** — The material you disowned: a pattern that did something specific
 for you once and still runs from out of sight. What you overplay when a Face runs from that
-material is the Face in distortion, and Chapter 2 holds the two apart on purpose, one word
+material is the Face in distortion. Chapter 2 holds the two apart on purpose, one word
 each: Shadow, distortion, cost. Carolyn Elliott's term. *Ch 2 §1; Ch 8 §1*
 
 **Shaman, the** — The Face that feels what is happening before anyone can name it. Means:
-somebody said the unsaid charge, and it landed. *Ch 3*
+somebody said the unsaid charge to the person it was about. *Ch 3*
 
-**Skeptic, the** — The daemon that doubts so you do not get fooled. Chapter 4 calls it the auditor, where it rules your read inadmissible. *Ch 2 §6; Ch 4 §5*
+**Skeptic, the** — The daemon that doubts so you do not get fooled. Chapter 4 calls it the auditor, where it rules your reading inadmissible. *Ch 2 §6; Ch 4 §5*
 
 **Victim, the** — The daemon that wins sympathy through stories. As an ally it lets you feel
 with someone; as a demon it confirms them in the role. *Ch 2 §6*
 
 **Village, the** — Every place with an audience: the workplace, the coalition, the family
-table, the group chat, anywhere other people can see what you did and adjust their read on
+table, the group chat, anywhere other people can see what you did and adjust their reading on
 you. *Ch 2 §3*
 
 **Vulnerable Child, the** — The youngest part of you, waiting at the center of the Forest
-underneath the seven. She is the Player, and the whole walk reaches her: getting to the
+underneath the seven. She is the Player, the one the whole walk reaches: getting to the
 center and putting the joystick back in her hands. *Ch 2 §7; her gift carried up at Ch 8 §3*
 
 **WAVE** — A breath-length practice for charge that has already arrived in your body:
-Welcome, Acknowledge, Validate, Exhale. It buys you the few seconds in which choosing a next
+Welcome, Acknowledge, Validate, Exhale. It gives you the few seconds in which choosing a next
 move becomes possible. Most at home in Open Up. *Ch 3 §4; App C*

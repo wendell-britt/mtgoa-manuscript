@@ -1,0 +1,51 @@
+# -*- coding: utf-8 -*-
+"""DL-103: the P3 signposts. The book stops narrating its own structure."""
+E = [
+ # --- the book announcing its own chapters ---
+ ("manuscript/ch1.md","still there at dinner. Chapter 3 is where you learn to make it on purpose.\n","still there at dinner.\n"),
+ ("manuscript/ch1.md","That is why this chapter is called the Infinite Arcade, and it is why the answer is a better game rather than more willpower.",
+  "That is why the answer is a better game rather than more willpower."),
+ ("manuscript/ch2.md","were on the line. Chapter 3 gives that exchange a name and a form.\n","were on the line.\n"),
+ ("manuscript/ch3.md","So Chapter 3 does two jobs. It serves as the Shaman's chapter and as the toolkit for the five faces that follow.",
+  "Two jobs, then: the Shaman's chapter, and the toolkit for the five faces that follow."),
+ ("manuscript/ch3.md","Other people built some of what this chapter hands you. Their names belong with the tools.",
+  "Other people built some of these tools. Their names belong with them."),
+ ("manuscript/ch3.md","What follows is my remix, not the system it came from.","This is my remix, not the system it came from."),
+ ("manuscript/ch3.md","I am naming this in the chapter rather than in a footnote because Chapter 1 put my own fluency on the table as an",
+  "I am naming it here rather than in a footnote because my own fluency is already on the table as an"),
+ ("manuscript/ch3.md","The Alchemist is a superpower, the one this chapter trains.","The Alchemist is a superpower, and it is the one you have been training."),
+ ("manuscript/ch4.md","What this chapter trains is clarity without cruelty, held steady","The training is clarity without cruelty, held steady"),
+ ("manuscript/ch4.md","Every move in this chapter is a rehearsal for saying it once","Every move here is a rehearsal for saying it once"),
+ ("manuscript/ch6.md","One piece of vocabulary in this chapter is borrowed and load-bearing","One piece of vocabulary here is borrowed and load-bearing"),
+ ("manuscript/ch7.md","Both poles are real goods, and this chapter is unusual in the book because its reader is fluent in one of them and suspicious of the other.",
+  "Both poles are real goods, and you are fluent in one of them and suspicious of the other."),
+ ("manuscript/ch7.md","This chapter does not train contact; the Bridge-Builder makes that in the first hour. It trains connection that has survived being told the truth.",
+  "Contact is not the training here; the Bridge-Builder makes that in the first hour. The training is connection that has survived being told the truth."),
+ ("manuscript/ch7.md","Every move in this chapter is an instrument for making that sentence true.",
+  "Every move here is an instrument for making that sentence true."),
+ ("manuscript/ch8.md","That combination is what this chapter trains, and the superpower has two halves.",
+  "That combination is the training, and the superpower has two halves."),
+ ("manuscript/ch8.md","Every move in this chapter is an instrument for making that sentence true.",
+  "Each move above exists to make that sentence true."),
+ # --- "what follows is" ---
+ ("manuscript/ch1.md","What follows is a bit of theater. Do it anyway.","Some theater, now. Do it anyway."),
+ ("manuscript/ch5.md","What follows is an account.","This is an account."),
+ ("appendices/APPENDIX_A_FOUR_ALLYSHIP_DOMAINS.md","What follows is a map of each territory:","A map of each territory:"),
+ ("appendices/APPENDIX_B_QUESTS_CAMPAIGNS.md","What follows isn't homework and it isn't a recap.","This isn't homework and it isn't a recap."),
+ # --- the reader steered to an appendix ---
+ ("manuscript/ch1.md","The words are Mayer, Davis, and Schoorman's, and Appendix G says where to read them.",
+  "The words are Mayer, Davis, and Schoorman's."),
+ ("manuscript/ch3.md","I name their source when they arrive a few pages on. Appendix G says where to read each one.",
+  "I name their source when they arrive a few pages on."),
+ ("manuscript/ch3.md","The Alchemist leads with it. Appendix I lays them all out.","The Alchemist leads with it."),
+ # one span, not two: "this chapter uses it in her sense" and the Appendix G pointer overlap,
+ # and the containment check refused the pair before anything was written.
+ ("manuscript/ch6.md","and this chapter uses it in her sense throughout. Appendix G says where to read her.",
+  "and this book uses it in her sense throughout."),
+ ("manuscript/ch8.md","from folding into each other. Appendix G says where to read each one.","from folding into each other."),
+ ("appendices/APPENDIX_F_POLARITY_MAP.md","— is his. Appendix G says where to read him.*","— is his.*"),
+ ("appendices/APPENDIX_B_QUESTS_CAMPAIGNS.md","Lost which daemon or domain is yours right now? Appendix A has the diagnostic.*",
+  "Lost which daemon or domain is yours right now? The diagnostic is in Appendix A.*"),
+ # --- the textbook checklist ---
+ ("manuscript/ch2.md","By the end of this chapter, you should know:","You should be able to name:"),
+]

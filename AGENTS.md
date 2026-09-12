@@ -30,6 +30,68 @@ diffs. A change he cannot see in the console has not been shown to him.
 - Counters and test output still get reported, but they do not replace the
   prose. `BLOCK 39 -> 38` says nothing about whether the sentence is any good.
 
+## Pushback carries a remedy (standing rule, 2026-08-27)
+
+**Never raise a risk without a specific fix for that specific risk.** Wendell, 2026-08-27, on a
+note that told him not to start a book: *"If you are going to do pushback you need to have a
+remediation for the specific problem you are solving for otherwise you will come off as a neurotic
+nag pretending that they are being wise."*
+
+**He is describing a real failure and it has a shape.** An objection with no remedy attached
+sounds like judgement, costs him a decision he had already made, and returns nothing he can act
+on. Caution is cheap to produce and expensive to read.
+
+**The test, before any objection ships:**
+
+1. **Name the specific problem**, not a category of problem. *"This competes with four open
+   obligations"* rather than *"this seems premature."*
+2. **Attach a remedy that solves that problem**, at a cost he would actually pay.
+3. **If no remedy exists, the objection is information rather than advice** — say it once, plainly,
+   and do not repeat it or dress it as a recommendation.
+4. **Check the objection's own premises first.** The note that produced this rule assumed
+   *announcing*, when the plan was pre-production; assumed the new book competed for money, when
+   it might fund the old debts; and assumed drafting meant writing a manuscript, when podcasting
+   and blogging are how this author drafts. **Three premises, none of them checked, all of them
+   his to know and mine to ask about.**
+
+**The related error, worth naming separately.** Offering a "cheaper test" that is a substitute for
+the thing he wants to do, rather than a mode of doing it. *Write an article instead of a book* is
+an objection wearing a suggestion's clothes. *Draft it as episodes and posts, which is drafting*
+is a remedy.
+
+## Complete sentences, and every noun points at something (standing rule, 2026-08-29)
+
+**Two rules he gave in one sitting, on marketing copy that had passed the whole review clean.**
+
+**1 · No fragments.** Wendell, 2026-08-29: *"fragments are bad. I speak in complete sentences."*
+This retires the earlier defence that a fragment triplet earns its place by being the most concrete
+moment on the page. **It is not a density question, it is a voice question**, and a voice rule
+outranks a texture argument. `REVISION_INSTRUMENT.md` Part 1 already restricts fragments to beats
+in landing position; **treat that as the ceiling, not the licence**, and in anything customer-facing
+write the sentence out with a subject doing something.
+
+**The usual repair is to give the images a doer.** *"The meeting where somebody gets talked over.
+The decision that lands on whoever can least afford it."* becomes *"You catch the meeting where
+somebody gets talked over, the decision that lands on whoever can least afford to absorb it."*
+**Nothing is lost but the drum.**
+
+**2 · Every noun and pronoun has to point at something a reader could name.** Wendell, mid-draft,
+on *"the meeting where the same person absorbs it again"*: ***"what person? what is it? We're
+handwaving again."*** And on *"the noise of doing the work"*: ***"'this work' — what is 'this
+work'? how will a reader recognize it?"***
+
+**The test is his, and it is stricter than the counters.** `waste` measures how often *it/this/that*
+appear; **he is asking whether each one has an arrow**, which is a different question and the one
+that matters. Before shipping a sentence with a definite article or a pronoun in it: **state the
+noun out loud.** If the answer is a category rather than a thing — *the work*, *the process*, *the
+same person* — rewrite until the reader could point at it. *"The meeting that ends with the person
+who named the problem owning it"* passes because the person is identified by what they did.
+
+**Why this is a standing rule and not a note.** Four instruments exist for these exact patterns and
+none of them runs on drafts — see `specs/GAP_DRAFT_REVIEW_INSTRUMENTS_2026-08-29.md`. **Until that
+is fixed, these two are checks to run by hand on every customer-facing draft**, because the pass
+will report `clean` on prose that fails both.
+
 ## Reporting to Wendell — ELI5 first (standing rule, 2026-08-09)
 
 **Every reply opens with a plain-language section, before any detail.** Wendell, 2026-08-09:
