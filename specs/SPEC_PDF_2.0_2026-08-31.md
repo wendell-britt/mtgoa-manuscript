@@ -223,7 +223,9 @@ The build is done when all of the following are true:
 
 ## 10. Open questions
 
-**OQ-1. Paperback list price: $30 or $40.** KDP pays 60% of list minus a $5.60 print cost, so the difference is $12.40 versus $18.40 a copy — roughly $3,000 across the 500-copy launch goal. A $40 list also widens the gap to the $9.99 Kindle, which makes the Kindle read as the cheap way in rather than as the real product. Unresolved.
+**OQ-1. Paperback list price: $30 or $40. RESOLVED 2026-09-12 — $40.** Wendell: *"Paperback list price is $40."* At the confirmed $5.60 print cost that is $18.40 a copy. See `specs/DECISION_PRICE_AND_CODE_2026-09-12.md`, which also corrects the 500-copy arithmetic below: 247 of any run are owed to backers and are not sales. Original text follows.
+
+**OQ-1 (as written).** KDP pays 60% of list minus a $5.60 print cost, so the difference is $12.40 versus $18.40 a copy — roughly $3,000 across the 500-copy launch goal. A $40 list also widens the gap to the $9.99 Kindle, which makes the Kindle read as the cheap way in rather than as the real product. Unresolved.
 
 **OQ-2. Fulfillment for direct print orders.** Lulu Direct integrates with Shopify, Wix, and WooCommerce, but not Gumroad, so the proposed Lulu drop-ship path requires manual order entry, a Print API build, or moving the storefront. The margin also runs backwards: Gumroad takes 10% + $0.50 plus card processing, and against Lulu's $11.97 print cost a $30 direct sale with free shipping nets less than the same book sold on Amazon. Billing shipping separately, or buying KDP author copies at $5.60 and shipping them personally, both beat it. Unresolved.
 
