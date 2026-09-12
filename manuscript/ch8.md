@@ -168,7 +168,7 @@ Without the Sage, the villagers play every game at once and lose track of which 
 
 A Sage in distortion emerged to fill the gap. Not the real Sage, the village's version. The one who sees everything and commits to nothing. Who has enough perspective to explain why none of it matters and not enough commitment to be useful. Who mistakes seeing for wisdom, and wisdom for the ability to opt out.
 
-The trap works one way: seeing becomes a way to avoid being in the game. You can name every game, which means you never have to commit to any of them. You can diagnose everyone's stuckness, which means you never have to look at your own. It is perspective without commitment, the guru on the mountain: not because the guru chose the mountain, but because the mountain is cheaper than the table.
+The trap works one way: seeing becomes a way to avoid being in the game. You can name every game, which means you never have to commit to any of them. You can diagnose everyone's stuckness, which means you never have to look at your own. It is perspective without commitment, the guru on the mountain, up there because the mountain is cheaper than the table.
 
 Three games make up the distortion's home territory.
 
@@ -176,7 +176,7 @@ Three games make up the distortion's home territory.
 
 **The Trauma Olympics.** Every conversation becomes a competition to prove whose pain is more formative. The distortion navigates these with perfect equanimity: able to see both sides, able to validate everyone's injury, unable to take a side, because taking a side would mean the seeing was *for* something. The Trauma Olympics has no winners. It also has no end.
 
-Nobody names the obvious: the competition runs for real, so somebody loses it. The person most wounded gets the most airtime, not because their pain is more valid, but because pain has become the credential. The Sage who could name that dynamic chooses instead to hold space for it, to validate, to see. Holding space participates in the competition. When the most wounded reads as the most credible, the people who have worked through their pain go unheard. The Trauma Olympics rewards unprocessed pain. So does the Sage who declines to name it.
+Nobody names the obvious: the competition runs for real, so somebody loses it. The person most wounded gets the most airtime because pain has become the credential. The Sage who could name that dynamic chooses instead to hold space for it, to validate, to see. Holding space participates in the competition. When the most wounded reads as the most credible, the people who have worked through their pain go unheard. The Trauma Olympics rewards unprocessed pain. So does the Sage who declines to name it.
 
 The test: where pain gets performed, does the Sage notice who isn't speaking? The real Sage sees all of it, including the hierarchy of pain, and names what they see, not with judgment but with precision.
 
@@ -502,7 +502,7 @@ Egan, in *The Skilled Helper*, writes about the helper's presence as the primary
 
 Return has four moves inside it. Run them in order the first several times. After that they stop being steps.
 
-**1. Name what you saw, honestly, without performance.** Share it, imperfectly if that's all you have. *I've been thinking about which game we're in. Here's what I notice.* Say it as an offering rather than as a diagnosis or a verdict. What people do with it is theirs. You name it anyway, not because the naming will change anything, but because declining to name it also counts as a choice, one that serves no one. Before you speak, though, check why you're speaking. Is it because the moment needs it, or because you need them to see what you see? The first is service. The second is shadow.
+**1. Name what you saw, honestly, without performance.** Share it, imperfectly if that's all you have. *I've been thinking about which game we're in. Here's what I notice.* Say it as an offering rather than as a diagnosis or a verdict. What people do with it is theirs. You name it anyway, because declining to name it also counts as a choice, one that serves no one. Before you speak, though, check why you're speaking. Is it because the moment needs it, or because you need them to see what you see? The first is service. The second is shadow.
 
 **2. Listen for which game they're in, and meet them there.** They may be in the power game, or strategy, or harmony. Meet them there. The Sage doesn't insist on the whole-board view. The Sage insists on honesty: speaking a language the other person can actually receive. Egan calls this meeting the client at their readiness. You don't name the whole-board pattern to someone still inside the power game unless naming it is itself the whole-board move, which it sometimes is, and usually isn't. Usually it's impatience with your own clarity.
 

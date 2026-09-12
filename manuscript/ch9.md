@@ -42,7 +42,7 @@ Villagers taught that the six Faces named a destination.
 
 That allyship meant becoming a perfect Shaman, or Challenger, or Regent, or Architect, or Diplomat, or Sage. A finished product. A fully-realized identity you arrived at and then maintained. The goal was to *be* one of the Faces, rather than to *use* all of them as tools for whatever the moment required.
 
-This is the distortion. It crept in slowly, the way most distortions do, not as a lie, but as an understandable mistake.
+This is the distortion. It crept in slowly, the way most distortions do, as an understandable mistake.
 
 Villagers heard the six Faces and thought: *these are the types*: the Shaman type, the Challenger type, the Regent type, the Architect type, the Diplomat type, the Sage type. Anyone who wasn't one of those, who didn't naturally feel-first, or draw-lines, or build-systems, wasn't doing it right.
 
@@ -81,7 +81,7 @@ The six Faces are your toolkit. The Five-Move Form is your process. The practice
 
 Nobody else can design this game. Nobody else has your specific combination of gifts and gaps, your specific history, your specific people. The villagers needed the six Faces as a teaching instrument. Now the instrument passes to you. You can use it to build whatever this book could not build. You can design the allyship practice that this book only points toward.
 
-You have been preparing for this. Not to consume the six Faces, but to design your own.
+You have been preparing for this. You are here to design your own, not just to consume the six Faces.
 
 People mistake a practice for a personality type, a morning routine, or a values statement written once and forgotten.
 
@@ -156,7 +156,7 @@ If that describes you, the offer sits at the end of this book, where the walk fi
 
 The Elder doesn't start anything new. The Elder hands forward what exists.
 
-The practice: Take what you built and make it pass-onable. Write it down. Name the mistakes. Show the next person where the traps are. The Elder's move hands down an inheritance: not building something new, but making sure what you built doesn't depend on you to survive.
+The practice: Take what you built and make it pass-onable. Write it down. Name the mistakes. Show the next person where the traps are. The Elder's move hands down an inheritance: making sure what you built doesn't depend on you to survive.
 
 The quests start earning their keep here. You have made one in each of the six Face chapters: the Shaman's, then the Challenger's, the Regent's, the Architect's, the Diplomat's, the Sage's. Six commitments with a name and a date in them, and a sheet with a row from every chapter. Nobody built that as a reference table. It is the practice surface. Every chapter has pointed at its own row.
 
@@ -170,7 +170,7 @@ The Elder makes sure the work outlives you. To everyone else that looks like aut
 
 The Outlaw breaks the tradition that the Elder just built.
 
-The practice: Find what's calcified. Name what's become rote. Challenge the structure you or others built to see if it still serves. The Outlaw disrupts: not for the sake of it, but because every tradition eventually becomes a cage, so someone has to draw the line that lets the next person breathe.
+The practice: Find what's calcified. Name what's become rote. Challenge the structure you or others built to see if it still serves. The Outlaw disrupts because every tradition eventually becomes a cage, so someone has to draw the line that lets the next person breathe.
 
 Most people try to skip this mode. It costs something to say *this isn't working anymore.* The Outlaw, though, keeps the Player from becoming the distortion: from collecting the Faces as credentials, from performing the practice without doing it. The Outlaw shadows the Elder, and they share a chapter because they have to. You can't hand anything forward without eventually having to break some of what you inherited.
 
@@ -296,7 +296,7 @@ The villagers need actual allies more than they need performed ones.
 
 The walk goes forward, at ground level, the whole way.
 
-The walk begins before you're ready. Nobody tells you that. You don't finish learning the Faces and then start building. You start building while you're still confused, still triggered, still defaulting to your home game when it gets hard. You don't arrive and then act. You act from somewhere on the path, where the acting belongs to the walking.
+The walk begins before you're ready. You don't finish learning the Faces and then start building. You start building while you're still confused, still triggered, still defaulting to your home game when it gets hard. You don't arrive and then act. You act from somewhere on the path, where the acting belongs to the walking.
 
 The first course I built for this work, I built out of spite.
 
@@ -352,7 +352,7 @@ The Form doesn't end when you leave the book. It runs through your actual life. 
 
 The Form runs through your parenting, your partnership, your work, the group chat and the town hall and the election and the pandemic and whatever comes next. It's how you walk through the world.
 
-The Form runs through the writing of this book too. I wake up to what's actually happening in a chapter, not the version I wanted, but what's actually there. I open up to it before I start repairing it, the chapter stays as broken as it is for as long as it takes me to feel what's broken about it. I clean up the places where I'm performing instead of saying what's true. I grow up into the harder version of the idea I kept dodging. I show up to the page. I come back and notice that the chapter that had blocked me for three days unclogged the moment I stopped forcing it and let the Shaman name what was actually there.
+The Form runs through the writing of this book too. I wake up to what's actually there in a chapter, not the version I wanted. I open up to it before I start repairing it, the chapter stays as broken as it is for as long as it takes me to feel what's broken about it. I clean up the places where I'm performing instead of saying what's true. I grow up into the harder version of the idea I kept dodging. I show up to the page. I come back and notice that the chapter that had blocked me for three days unclogged the moment I stopped forcing it and let the Shaman name what was actually there.
 
 The walk also means walking into the specific problem you keep trying to solve.
 
@@ -406,7 +406,7 @@ You will not have a perfect map. You will still default to your home game when i
 
 That's the walk. Nobody told you it would look like this.
 
-The villagers don't need your perfection. They need your willingness to go first, not because you have all the answers, but because you have the map and the willingness to walk it and report back.
+The villagers don't need your perfection. They need your willingness to go first, because you have the map and the willingness to walk it and report back.
 
 The willingness to be the Player.
 

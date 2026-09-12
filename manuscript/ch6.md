@@ -193,7 +193,7 @@ At the deepest level, it works like this:
 
 Call this an engineering fact rather than a metaphor. It has profound implications for allyship.
 
-Because allyship poses a problem of system design before it poses a problem of individual behavior. Good people cause harm because the system they're inside rewards harmful behavior and punishes the alternative. Change the system and you change the behavior, not by convincing the person to be better, but by making the better behavior the easier behavior. That's structural design. That's the Architect's practice.
+Because allyship poses a problem of system design before it poses a problem of individual behavior. Good people cause harm because the system they're inside rewards harmful behavior and punishes the alternative. Change the system and you change the behavior — by making the better behavior the easier one. That's structural design. That's the Architect's practice.
 
 Most people learned to interrupt this logic. To say *but people should just know better. People should just choose differently. Culture is about individual accountability.* While individual accountability matters, it works as a moral appeal rather than a system design strategy. Moral appeals work until the system incentivizes something else. Then they stop working. The people who made the moral appeal wonder why nobody listened, when the answer comes simple: the system was louder than the appeal.
 
@@ -307,9 +307,9 @@ The **Strategist** runs on Fire. Anger detects the gap between what is and what 
 
 The **Inventor** runs on Wood. Joy detects vitality: what wants to exist and doesn't yet. Joy stuck is the idea you keep having and never build, which curdles a little more each time it comes around. Built into a structure that can hold it, it becomes Bliss. *I can participate.* What you were only imagining now exists somewhere other than in you.
 
-The **Optimizer** runs on Water. Sadness detects decay, the process that used to work and doesn't anymore. Stuck Sadness keeps the dead process running out of loyalty to the people who built it. Alchemized, Poignance emerges: you can honor what a structure did and retire it in the same motion. *I can connect.* Most systems fail here, not from missing the decay, but from failing to feel the loss all the way through and so never letting it go.
+The **Optimizer** runs on Water. Sadness detects decay, the process that used to work and doesn't anymore. Stuck Sadness keeps the dead process running out of loyalty to the people who built it. Alchemized, Poignance emerges: you can honor what a structure did and retire it in the same motion. *I can connect.* Most systems fail here by failing to feel the loss all the way through, and so never letting it go.
 
-The five modes are also the five ways the Architect moves through the Five-Move Form at altitude. Wake Up: notice which mode fires and what it detects. Open Up: let the signal in before it becomes a proposal. Clean Up: locate where it shows up, and stabilize there. Grow Up: find what you learned from it. Show Up: move from the integrated understanding. Here the Architect's practice and the Shaman's emotional alchemy work together, not as two systems, but as one system seen from two altitudes.
+The five modes are also the five ways the Architect moves through the Five-Move Form at altitude. Wake Up: notice which mode fires and what it detects. Open Up: let the signal in before it becomes a proposal. Clean Up: locate where it shows up, and stabilize there. Grow Up: find what you learned from it. Show Up: move from the integrated understanding. Here the Architect's practice and the Shaman's emotional alchemy work together as one system seen from two altitudes.
 
 The Architect's flow cycle: Observe → Model → Design → Deploy → Observe (new state), and out through Hand Off. Each deployment produces new observations, which produce new models, which produce new designs; the iteration is genuine, but it is not the point. The Architect is finished when somebody else can run it and change it. Everything before that is the work of getting to a system worth handing over.
 

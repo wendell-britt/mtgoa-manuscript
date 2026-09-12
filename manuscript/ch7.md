@@ -70,7 +70,7 @@ You recognize a woman in the village. She is always there. She shows up to every
 
 One day she stops showing up. The villagers barely notice at first. Then slowly, in her absence, something becomes visible: the shape of what she held together without ever naming that she held it. Ruptures she repaired before anyone saw them. Tensions that never escalated because she stood in the middle of them. The villagers discover they have lost something but cannot name the loss, because she never told them what her presence cost. She never gave them the chance to treat it as precious.
 
-Across the village, a man operates differently. He is present too. He shows up, he contributes, he holds. He has also, once in a hard moment, surfaced what each side protected and named what staying would actually require. He said it without heat. He did not make it a threat. He did not weaponize it. He simply told the truth about the agreement: what it would hold, what it would cost each of them, what would have to change for his staying to remain real. In the weeks that followed, the villagers noticed something. His presence had become more valuable precisely because he had now chosen it, not scarce in the way of withholding, but scarce in the way of a person who had closed an honest negotiation and meant it. They started treating his presence as something that could be lost. In treating it as something that could be lost, they started treating it as something that mattered.
+Across the village, a man operates differently. He is present too. He shows up, he contributes, he holds. He has also, once in a hard moment, surfaced what each side protected and named what staying would actually require. He said it without heat. He did not make it a threat. He did not weaponize it. He simply told the truth about the agreement: what it would hold, what it would cost each of them, what would have to change for his staying to remain real. In the weeks that followed, the villagers noticed something. His presence had become more valuable precisely because he had now chosen it, scarce the way a person is who has closed an honest negotiation and meant it. They started treating his presence as something that could be lost. In treating it as something that could be lost, they started treating it as something that mattered.
 
 The Diplomat's gift has a name: integrative negotiation. It surfaces what each party protects, names stakes and sacrifices honestly, and closes toward terms people can accept, refuse, or counteroffer, so chosen staying means something.
 
@@ -138,7 +138,7 @@ The Diplomat operates through five modes:
 
 You have already met a version of "terms," and that version forces the School of the Bridge to define the word before it can use it.
 
-The villagers harden terms into ultimatums. Terms are what someone says when they have decided to leave and want you to know it is your fault. Terms come with a deadline attached and a threat underneath. The person with leverage produces them at the end of a negotiation that was never a negotiation. That version of the word holds real (people do this). It explains why a certain kind of capable, relationally fluent person will run an entire career without ever naming a single term of her own. She has seen what terms look like in the hands of someone playing a power game. She has decided not to be that.
+The villagers harden terms into ultimatums. Terms are what someone says when they have decided to leave and want you to know it is your fault. Terms come with a deadline attached and a threat underneath. The person with the upper hand produces them at the end of a negotiation that was never a negotiation. That version of the word holds real (people do this). It explains why a certain kind of capable, relationally fluent person will run an entire career without ever naming a single term of her own. She has seen what terms look like in the hands of someone playing a power game. She has decided not to be that.
 
 That decision is an accurate reading of a specific misuse. Accuracy explains why nobody has talked her out of it. The problem is what it costs to generalize from it.
 
@@ -395,7 +395,7 @@ The alchemy: *I stop announcing that the field is open and find out whether anyo
 
 The Field-Holder's secondary Dissatisfaction is **hothouse safety**, a field you keep so comfortable that nobody says the sentence that would cost them anything. It looks like health to everyone keeping it that way. The family dinner stays warm, the standup stays pleasant, the two of you stay kind with each other, the community meeting ends on time. Everyone leaves carrying what they walked in with. A field protected from charge stays small, and the people making it learn to bring less of themselves to match.
 
-The alchemy: *I stop protecting the field and start building one that can take weather.* When you say the hard sentence and stay, the field turns out to hold. Now they know by experience what nobody could have told them, that the field survives contact. Each round of that raises what it carries next time. Hardy is a gardener's word. It has never described a plant somebody kept warm.
+The alchemy: *I stop protecting the field and start building one that can take weather.* When you say the hard sentence and stay, the field turns out to hold. Now experience has taught them what words could not: the field survives contact. Each round of that raises what it carries next time. Hardy is a gardener's word. It has never described a plant somebody kept warm.
 
 **From Presence to Structure**
 
@@ -463,13 +463,13 @@ Here is what its distortion looks like: two different failures wearing the same 
 
 The first distortion is **endless process**, the Diplomat who has confused hearing with closing. Who believes that if everyone feels included, the work is done. Who will run another round of listening because naming what must change feels like picking a fight. The field stays warm. Nothing moves. Resentment accumulates under the harmony like sediment.
 
-The second distortion is **ultimatum dressed as negotiation**: leverage where integration belonged. *Here's what I need or I'm out* spoken in the tone of honest disclosure, but actually functioning as a threat. This is the Challenger's game wearing the Diplomat's clothes: the Diplomat who defaults here has skipped the native work (surfacing interests, finding terms) and imported another altitude into this conversation. It sometimes works. It is not what this mode is for.
+The second distortion is **ultimatum dressed as negotiation**: a threat where integration belonged. *Here's what I need or I'm out* spoken in the tone of honest disclosure, but actually functioning as a threat. This is the Challenger's game wearing the Diplomat's clothes: the Diplomat who defaults here has skipped the native work (surfacing interests, finding terms) and imported another altitude into this conversation. It sometimes works. It is not what this mode is for.
 
 **Alchemy 1 — Resentful Peace → Honest Terms**
 
 The Dissatisfaction here is **resentful peace**, the accommodation that says yes while the body says no. You made space without naming what making space cost. You kept the field calm by swallowing your stake. Now the calm curdles into bitterness you can't explain, because you never said out loud what you needed the agreement to hold.
 
-The alchemy: *I stop paying for harmony with my disappearance.* Resentful peace is deferred conflict wearing a polite face. The alchemy moves accommodation into **honest terms**: not *I'll tolerate anything to stay*, but *here is what this field must hold for my staying to remain real, and for everyone's.* The charge of the swallowed no becomes the heat of a closing that actually names the stakes.
+The alchemy: *I stop paying for harmony with my disappearance.* Resentful peace is deferred conflict wearing a polite face. The alchemy moves accommodation into **honest terms**: *here is what this field must hold for my staying to remain real, and for everyone's.* The charge of the swallowed no becomes the heat of a closing that actually names the stakes.
 
 **What it feels like in the body:** Resentful peace sits as heaviness, a pleasant surface with something dense underneath. Honest terms feel like heat with ground: your chest engages and your feet plant, yet nothing has exploded.
 
@@ -671,7 +671,7 @@ This is not summarizing. Summarizing is compression: you distill what's being sa
 
 The reason this matters: most camps speak from within their own framework, so what they're saying only makes sense from inside it. When a camp says *"this process is disrespecting us,"* they are speaking from a framework where recognition and process are tied together. The other camp, speaking from a different framework, may hear this as *"they're questioning our authority"*, then respond defensively to the perceived challenge. Neither side is wrong. They are speaking different languages.
 
-The Diplomat translates: *"What I hear [Camp A] saying, in [Camp B]'s language, is this: the process choices you're making signal something about whether our work is valued. They're experiencing that signal as dismissive."* Now [Camp B] can hear what [Camp A] is actually saying, not a challenge to their authority, but a concern about being seen. [Camp A] can hear that their concern was received faithfully, not as an attack.
+The Diplomat translates: *"What I hear [Camp A] saying, in [Camp B]'s language, is this: the process choices you're making signal something about whether our work is valued. They're experiencing that signal as dismissive."* Now [Camp B] can hear what [Camp A] is actually saying: a concern about being seen. [Camp A] can hear that their concern was received faithfully, not as an attack.
 
 **The art of the translation:** You have to hold your own position lightly enough to truly receive the meaning before you transmit it. If you're already formulating your response while they're speaking, you're not translating. You're staging translation.
 

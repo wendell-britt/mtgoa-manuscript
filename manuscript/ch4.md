@@ -107,7 +107,7 @@ They just forgot how to do it without apologizing.
 
 The villagers still experienced violations. Slights. Moments where someone crossed a boundary and everyone knew it and nobody said it. Without the Challenger to say *"this is not acceptable"* without softening it, without the Challenger's willingness to be unwelcome in service of what was true, the villagers learned to *process* these moments instead of *respond* to them. To have conversations about boundaries. To schedule dialogues. To bring in a facilitator.
 
-Sometimes that was exactly right. Sometimes the situation actually required a facilitated conversation.
+Sometimes that was exactly right. Sometimes the situation actually needed someone to run the conversation.
 
 Sometimes it required someone to say *no.*
 
@@ -129,7 +129,7 @@ The villagers do this with the clean no once the Challenger has gone: they trans
 
 The villagers did all of this with good intentions. Because the Regent was right: *power had to be organized.* Because walls cost less than lines. Because saying no cost something, which they had decided, without ever announcing it, to stop paying.
 
-The villagers never realized they had traded the capacity to draw lines for the comfort of not having to. That every time they chose the facilitated conversation over the clean no, one generation taught the next that the clean no was not theirs. That the Challenger's gift (the willingness to be unwelcome in service of what is true) was draining away, not just from the villagers, but from their *capacity to even recognize* when the moment called for it.
+The villagers never realized they had traded the capacity to draw lines for the comfort of not having to. That every time they chose the managed conversation over the clean no, one generation taught the next that the clean no was not theirs. That the Challenger's gift (the willingness to be unwelcome in service of what is true) was draining away, not just from the villagers, but from their *capacity to even recognize* when the moment called for it.
 
 ---
 
@@ -292,7 +292,7 @@ The Challenger's practice does not improvise. It runs a sequence of five stages,
 
 **Stage 2: Aim.** You identify what drives it, not the story but what runs underneath the story. The charge points at one specific event: a line crossed, a commitment violated, a cost ignored. Ask: *what line, if I could draw it cleanly, would this charge be protecting?*
 
-Most people skip this stage, which is what leaves most confrontation messy, reactive, and apologetic. The aiming turns raw fire into clean action.
+This stage gets skipped, which is what leaves most confrontation messy, reactive, and apologetic. The aiming turns raw fire into clean action.
 
 **Stage 3: Act.** You choose the mode and execute it as Line, Interrupt, Demand, Refusal, or Reckoning. You state the boundary. You name the cost. You do it plainly, without the three-paragraph explanation that is actually an apology. A stated line is anger that made it all the way out of the body and into the world without deforming on the way.
 
@@ -366,7 +366,7 @@ The Challenger does not live in constant confrontation. The Challenger lives in 
 
 Everything above builds the system. This is the one move you take out of the Forest and into the Village this week: the meeting, the group chat, the dinner table. Interior work is free. The Village is where the no has a price. This is how you pay it cleanly.
 
-You are in a meeting. Someone says something that crosses a line, not a catastrophic violation, but a real one. Something that dismissed a community you care about. Something that was said *casually,* the way people talk when they don't know who is listening.
+You are in a meeting. Someone says something that crosses a line — a small violation, but a real one. Something that dismissed a community you care about. Something that was said *casually,* the way people talk when they don't know who is listening.
 
 Here is the Challenger's 30-second protocol:
 
@@ -613,7 +613,7 @@ Egan spent forty years studying one skill: the capacity to act clearly in a char
 
 The naming does the work. Most situations have a specific event, a violation or a dismissal or a boundary crossed, that everyone has noticed but nobody has stated. You state it. You don't need a solution. You just need it to exist as a named reality.
 
-**Why it matters:** What nobody has named feels larger than what somebody has. Naming it reduces it. It demonstrates, for everyone watching, that the line exists.
+**Why it matters:** What goes unnamed feels larger than what gets named. Naming it reduces it. It demonstrates, for everyone watching, that the line exists.
 
 In practice: Next time you're in a meeting and something happens that you can feel everyone noticing and nobody stating, that is your cue. State it plainly. *"That comment about X wasn't accurate. I want to note that before we move on."*
 

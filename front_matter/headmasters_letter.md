@@ -11,7 +11,7 @@
 > body that has already decided something their mouth has not caught up to, or inside a rule they
 > cannot say no to, or an inheritance nobody asked them whether they wanted, or a design that
 > costs them more than it costs the person beside them for reasons neither of them chose, or a
-> bargain where their only leverage is somebody else's goodwill. Those are five different kinds
+> bargain where their only hold is somebody else's goodwill. Those are five different kinds
 > of trouble. Help shaped for one of them does very little in another, which is the whole
 > reason there are six of us here instead of one of me.
 >

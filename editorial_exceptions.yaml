@@ -43,10 +43,6 @@ polysyndeton:
     I stopped forcing it and let the Shaman name what was actually there.
   reason: shared-subject verb pair — One subject, two verbs — *I stopped forcing it and let the Steward
     take it*. Not two clauses.
-- quote: They need your willingness to go first, not because you have all the answers, but because you
-    have the map and the willingness to walk it and report back.
-  reason: noun coordination — *the map and the willingness to walk it* is two nouns the reader is said
-    to have. The clause test reads the infinitive after `willingness` as a predicate.
 - quote: Name the decision as closed and you will still get the truth; leave it sounding open and you
     have spent their effort on a door that was never going to move.
   reason: antithesis — Two opposite moves with two opposite consequences, balanced across a semicolon.
@@ -56,6 +52,11 @@ polysyndeton:
   reason: 'parallel either/or: each branch pairs a move with its immediate result (it works, the conversation
     opens; the other person corrects you, you update); the two ands carry the branches'' symmetry, not
     a loose chain. My call, Wendell to ratify.'
+- quote: They need your willingness to go first, because you have the map and the willingness to walk
+    it and report back.
+  reason: 'shared-object + shared-verb coordination: you have [the map] and [the willingness to walk it
+    and report back]; like joined with like, not an escalating chain. Carried from the polysyndeton pass;
+    re-keyed after the slop rewrite dropped the ''not because'' opener.'
 telling: []
 trailing_and:
 - quote: 'They are external, they vanish the moment the crowd turns, and you already know what they are
@@ -526,3 +527,22 @@ slop_shapes:
 - quote: The Player shows the villagers what it looks like to walk all six Faces and come out the other
     side, not above them, not separate from them, but further along a path they can follow.
   reason: ranking series defining a position between two real errors
+- quote: 'One applicant wrote: *I had no leverage and I sat down anyway, and I was frightened the entire
+    time.* Admitted.'
+  reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
+    records should be scored, but those should be ledger notes because they have to be edited separately.'''
+- quote: That the Challenger's gift (the willingness to be unwelcome in service of what is true) was draining
+    away, not just from the villagers, but from their *capacity to even recognize* when the moment called
+    for it.
+  reason: 'additive, not denying: ''not just X, but also Y'' widens the loss to the children; both halves
+    carry. Ratified by Wendell 2026-09-12.'
+- quote: 'Then it found an exit: not as a clean line, but as an explosion.'
+  reason: 'two real modes: the exit came out as an explosion instead of a clean line; the contrast is
+    the point. Ratified by Wendell 2026-09-12.'
+- quote: It is not pleasant, but it is fun.
+  reason: 'genuine concession: unpleasant yet fun; deleting either half loses the tension. Ratified by
+    Wendell 2026-09-12.'
+- quote: '*Shaman:* tells the story from inside the experience — not from after it, not from analysis,
+    but from the felt sense of what it was like to be in it.'
+  reason: ranking series of three real vantage points (after / analysis / felt sense); the escalation
+    is the meaning. Ratified by Wendell 2026-09-12.

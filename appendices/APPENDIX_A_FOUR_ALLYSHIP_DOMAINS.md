@@ -65,7 +65,7 @@ The reverse collapse: using Gather Resources when Skillful Organizing is needed 
 
 **The developmental arc — six Faces:**
 
-*Shaman:* reads the emotional field of the group to understand what kind of coordination structure it can actually hold — not what the leader wants to build, but what the group's current trust level can sustain. Shadow: attunes to the group's needs without building anything — endless listening without structure. Gift: builds the container that matches the actual shape of the group's trust, so it holds without force.
+*Shaman:* reads the emotional field of the group to understand what kind of coordination structure it can actually hold — what the group's current trust level can sustain, not what the leader wants. Shadow: attunes to the group's needs without building anything — endless listening without structure. Gift: builds the container that matches the actual shape of the group's trust, so it holds without force.
 
 *Challenger:* names what's not working in the current structure and refuses to pretend the dysfunction isn't there. Shadow: calls out the broken structure without offering or building the alternative — critique as substitute for construction. Gift: can identify exactly what's failing in the coordination and name it clearly enough that the group can build something better.
 

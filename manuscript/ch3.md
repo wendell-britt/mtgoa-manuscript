@@ -444,7 +444,7 @@ What it promises is discernment.
 
 Some moves replenish as they cost. You draw the boundary, then walk away tired but clear. When you name the sadness, it gives you back the love underneath it. Once you say what needed saying, something in you comes back online, because you stopped abandoning yourself.
 
-Some moves sustain. They do not refill you all at once, but they keep the field workable: a pause, a clean question, one honest sentence instead of the whole speech, enough structure for the feeling to teach without flooding the field.
+Some moves sustain. They keep the field workable: a pause, a clean question, one honest sentence instead of the whole speech, enough structure for the feeling to teach without flooding the field.
 
 Some moves cost. Sometimes they are still the right moves. Staying in the conversation is one. Softening anger so the truth can be heard may cost you. Turning sadness into protective action before you feel ready may cost you. The danger lies in pretending costly moves are renewable. Cost itself is fine, so long as you count it.
 
@@ -491,7 +491,7 @@ The Five-Move Form runs in the body, not just the head.
 
 **Open Up:** The muffling drops. What was faint gets closer and more distinct.
 
-**Clean Up:** it is not relief yet, but *recognition*. Your body says "yes, I feel this, and now I'm looking at it clearly."
+**Clean Up:** it is *recognition*. Relief comes later. Your body says "yes, I feel this, and now I'm looking at it clearly."
 
 **Grow Up:** Your breathing deepens. Your system says "I understand. I have it."
 
@@ -855,10 +855,10 @@ The Diplomat's close, the Challenger's line, the Regent's stand, the Architect's
 
 None of the four markers asked why you said it. A Shaman who names the unsaid to be seen as the most perceptive person present has run the awareness trap with better production values. It is also the easiest lie to tell yourself, in the moment you most want to be seen seeing. So the answer goes in your log in writing, where a later you can read it back. When you log the rep, answer the question the marker didn't ask:
 
-- **Direct Action.** Did you say it to change the moment, or to be the one brave enough to have said it?
+- **Direct Action.** Did you say it to change the moment, or for the credit of having said it?
 - **Raise Awareness.** Did you name what is happening to move the group, or to be seen as the one who sees deepest?
 - **Gather Resources.** Did you ask for what the situation needs, or for what makes you look most attuned?
-- **Skillful Organizing.** Did you name what nobody would say to free the work, or to be the one who finally said it?
+- **Skillful Organizing.** Did you name what people were avoiding to free the work, or for the credit of finally saying it?
 
 Each Tell targets the Shaman's signature failure: what you saw, spent on being seen as perceptive instead of on changing something.
 

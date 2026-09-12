@@ -246,7 +246,7 @@ A polarity is not a problem to solve. It has two poles, both of them right. The 
 
 The Regent's pair: honor what was passed versus reform what no longer serves.
 
-Honor what was passed means keeping the form, protecting what works, staying loyal to the inheritance, not because it's perfect, but because removing it would break something real. It is a lineage. A practice built by people whose sacrifice you can still name. A structure that holds people together when everything else falls apart.
+Honor what was passed means keeping the form, protecting what works, staying loyal to the inheritance because removing it would break something real. It is a lineage. A practice built by people whose sacrifice you can still name. A structure that holds people together when everything else falls apart.
 
 Reform what no longer serves means updating the form when the essence requires it. Naming what broke without dismantling what still holds. Changing what loyalty actually demands, not just what loyalty has always looked like.
 
@@ -431,7 +431,7 @@ You take over a team. The team has a culture, one you would not have built. Some
 
 The Regent doesn't ask: how do I rebuild this in my image? The Regent asks: what was handed to me, what still serves, what am I tending on the days nobody watches, what needs reforming, and who am I handing this to when I'm done?
 
-You start with Inherit: *this is what I received.* You spend time actually looking at the inheritance before you try to change it. Then Honor: *this part is load-bearing.* Then Steward: *I'm going to tend this, including the parts I have not decided about yet.* Then Reform: *this part has to change. I am going to say so where it costs me something.* Then Entrust: *I'm going to prepare the next person, not a replica of me, but a person with enough context to make their own good decisions.*
+You start with Inherit: *this is what I received.* You spend time actually looking at the inheritance before you try to change it. Then Honor: *this part is load-bearing.* Then Steward: *I'm going to tend this, including the parts I have not decided about yet.* Then Reform: *this part has to change. I am going to say so where it costs me something.* Then Entrust: *I'm going to prepare the next person: someone with enough context to make their own good decisions.*
 
 **Scenario 2: The Family Pattern You Didn't Choose**
 
@@ -520,9 +520,9 @@ Then comes the second move, the Healer half, costlier than the first. When the r
 <!-- /MARGINALIA -->
 
 
-This daemon stands where it stands for a reason, in a book about allyship. Everything in this cycle runs on receiving something before you have finished evaluating it. Inherit, then Honor: take on what arrived, then sort what in it still serves. The Fixer/Healer ends the cycle between those two steps, not by arguing that the inheritance is bad, but by ruling that it is not yet in a condition to be inherited. The evaluation never closes. You never get to Honor, because Honor requires having accepted the inheritance, while acceptance keeps getting deferred to the far side of a repair that has no far side.
+This daemon stands where it stands for a reason, in a book about allyship. Everything in this cycle runs on receiving something before you have finished evaluating it. Inherit, then Honor: take on what arrived, then sort what in it still serves. The Fixer/Healer ends the cycle between those two steps, by ruling that the inheritance is not yet in a condition to be inherited. The evaluation never closes. You never get to Honor, because Honor requires having accepted the inheritance, while acceptance keeps getting deferred to the far side of a repair that has no far side.
 
-The cost is generational, so it takes a long time to surface. The people coming after need something receivable: a role with a shape, a practice with the reason still attached, an account of why any of this is here. A personally-held inheritance offers them competence instead, unwritten, undelegated, and available only while its carrier is. Nobody gets wronged in a way anyone can name. Nothing remains to hand over when the hand-over comes.
+The cost is generational, so it takes a long time to surface. The people coming after need something receivable: a role with a shape, a practice with the reason still attached, an account of why any of this is here. A personally-held inheritance offers them competence instead, unwritten, undelegated, and available only while its carrier is. The wrong never takes a nameable shape. Nothing remains to hand over when the hand-over comes.
 
 The chapter's myth lives here, flattering more than any other in the book. The myth is that allyship is sacrificing yourself. The Fixer/Healer makes that feel like the highest form of loyalty: pour yourself into the gap, absorb what the structure cannot hold, pay for the inheritance's brokenness out of your own account, indefinitely. It reads as devotion. Run it forward and it is the surest way to guarantee that nothing you carried survives you. A person who has made themselves the load-bearing wall cannot entrust anything, because there is nothing to entrust; there is only their continued presence. Sacrifice and stewardship point in opposite directions. One of them ends when you do.
 
@@ -636,7 +636,7 @@ In practice: When you see something that needs to change, ask two questions: (1)
 
 ### Move 5: Entrust Without Clinging
 
-**What it is:** The hardest Regent move. You prepare the next person not as a replica of you, but as someone with enough context to make their own good decisions. You let go without abandoning.
+**What it is:** The hardest Regent move. You prepare the next person as someone with enough context to make their own good decisions. You let go without abandoning.
 
 In practice: When you're transitioning out of something, ask: *am I giving the next person enough to run with, or am I giving them my anxiety about how it should look?* Let go of the outcome. Trust the inheritance.
 
@@ -664,7 +664,7 @@ You carry an inheritance for years. The same three moves decide, in every domain
 
 **Put a name on what you are actually holding.** Most of a keeper's work leaves no trace, and the Healer half of your Fixer will take all of it into your own head, where it works and nobody else can hold it. Name it out loud instead, to whoever decides: this runs because somebody does these four jobs: me. A named job is a role. Roles pass from person to person. People do not.
 
-**Hand it over while you are still there to be asked.** A hand-over on your way out transfers objects: files, a calendar, names to call. A hand-over a year early transfers what nobody wrote down, because the person receiving it meets the first surprise while you are still in the building. Should you leave it to your last fortnight, what you hand over is a folder and a farewell lunch, where everybody thanks you warmly for work nobody can name.
+**Hand it over while you are still there to be asked.** A hand-over on your way out transfers objects: files, a calendar, names to call. A hand-over a year early transfers what never got written down, because the person receiving it meets the first surprise while you are still in the building. Should you leave it to your last fortnight, what you hand over is a folder and a farewell lunch, where everybody thanks you warmly for work nobody can name.
 
 **Direct Action — the inheritance claimed to its keepers**
 
