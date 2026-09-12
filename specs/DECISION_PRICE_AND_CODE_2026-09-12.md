@@ -1,6 +1,6 @@
 ---
 type: decision
-title: "Two rulings — the paperback lists at $40, and the course code goes in the book"
+title: "The paperback lists at $30, and the course rides with the physical copy"
 aliases:
   - paperback price
   - course code
@@ -121,3 +121,87 @@ $18.40, which is the number any direct-channel alternative now has to beat.
 
 **The `/book` path split**, and **per-chapter course links**, both still open in
 `SPEC_BOOK_PAGE`.
+
+
+---
+
+# SUPERSEDED, same day — $30, and the gate becomes a survey
+
+**Wendell, 2026-09-12, correcting §1 and reshaping §2:** *"The KDP physical copy should have
+the $30 pricetag. The Kindle Copy comes with a link without the code for people to buy the
+course (if they get it for free we can still make $$$ off of it). Physical copies all come
+with the course. Anyone who has physically touched a book gets a copy, and we can just have
+a brief survey of how they got there so we can track how people are entering the funnel."*
+
+## The architecture as ruled
+
+| edition | price | what it carries | course |
+|---|---|---|---|
+| Paperback (KDP) | **$30** | a code | included |
+| Kindle (KDP) | $9.99 | a link, no code | sold |
+| PDF (Gumroad, PWYW) | $30 floor | `/book` | included via the page |
+
+**The principle underneath it, in his words:** *anyone who has physically touched a book
+gets a copy.* The physical object is the entitlement.
+
+## What $30 costs against $40
+
+**60% of list minus the $5.60 print cost is $12.40 a copy, not $18.40.**
+
+| | $30 | $40 |
+|---|---|---|
+| royalty per copy | **$12.40** | $18.40 |
+| 253 sellable copies of a 500 run | **$3,137.20** | $4,655.20 |
+
+**The difference is $1,518 across the run**, and the 247 owed to backers are unaffected
+either way because they are fulfilled at author cost rather than sold.
+
+**The Kindle stays legal.** The 70% tier needs the ebook at least 20% below print list.
+Twenty percent below $30 is $24, so $9.99 clears with room.
+
+## The code stops being a lock and becomes a doorbell
+
+**§2 above treated the shared code as a leak to be rate-limited. Under this ruling the leak
+is the intent.** Everyone who claims gets in, so the code's job is to mark the reader as
+someone holding a book rather than to prove it. **One redemption per account is still worth
+having** — it keeps one person from claiming forty times — but blocking a stranger who found
+the code is no longer a goal.
+
+**One constraint from §2 dissolves.** The string no longer has to be a secret generated and
+held in `bars-engine` before the interior is final. It has to exist, and it has to resolve.
+
+**The Kindle's link is a sale, not a claim.** Same page, different offer: the print reader
+claims, the Kindle reader buys.
+
+## The survey is the instrument, and it reaches where nothing else does
+
+**FR-7's tracking URL only separates PDF holders from everyone else.** It cannot tell an
+Amazon paperback buyer from somebody who picked the book up at a talk, found it in a
+bookstore, or was handed it by a friend — **and those are exactly the paths Amazon hides**,
+since it never says who bought.
+
+**So the survey is not redundant with FR-7. It covers the hole FR-7 cannot reach.** That is
+the strongest argument for it and it should be written down before somebody trims it as
+duplicate tracking.
+
+### One design decision it forces
+
+**Before access or after.** A survey ahead of the course is friction on the thing being
+given away; a survey after is data that may never arrive. **Not decided here.**
+
+### What it should ask
+
+Enough to name the entry path and no more. Where the book came from — Amazon, a bookstore, an
+event, a gift, a backer reward — is the question the funnel needs answered.
+
+## What this changes elsewhere
+
+**`SPEC_PDF_2.0` OQ-1 now reads $30**, re-patched the same day.
+
+**`SPEC_BOOK_PAGE` §2 needs a third arrival.** The page currently serves the PDF reader.
+It now also serves a print reader claiming with a code and a Kindle reader arriving to buy,
+and the three see different things.
+
+**OQ-2 gets harder, not easier.** At $30 the Amazon copy nets $12.40, so a direct channel
+has a lower bar to clear — but the direct copy also has to carry the course, which the
+Gumroad PWYW edition already does through `/book`.
