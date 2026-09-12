@@ -736,7 +736,7 @@ claims:
       - {file: manuscript/ch1.md, phrase: "stops me mid-page"}
       - {file: manuscript/ch2.md, phrase: "enough context to be understood"}
       - {file: manuscript/ch3.md, phrase: "lets the truth be heard as care"}
-      - {file: manuscript/ch4.md, phrase: "is hard to hear and easy to answer"}
+      - {file: manuscript/ch4.md, phrase: "is hard to hear, easy to answer"}
       - {file: manuscript/ch6.md, phrase: "proposals sometimes read as enormous"}
       - {file: manuscript/ch7.md, phrase: "that something you did hurt them"}
       - {file: manuscript/ch8.md, phrase: "draws a correct line"}

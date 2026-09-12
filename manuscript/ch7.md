@@ -763,7 +763,7 @@ Equal endorsement means: all positions are treated as equally valid interpretati
 
 The Refuse False Equivalence move is this: you name the difference between hearing and endorsement, and you name your position on which camp is closer to what you consider true, without invalidating the people in the camp you disagree with.
 
-**Example:** A working group is weighing two claims equally: that the new fee is affordable, and that a third of members have said they will leave. One is a projection, the other a survey of eleven hundred people. Put the other side first and put it well: *the case for the fee is that the shortfall is real and the alternative is closing.* Then refuse: *I can state both and I do not weigh them the same.* They will write partisan in the notes.
+**Example:** A working group is weighing two claims equally: that the new fee is affordable, and that a third of members have said they will leave. One is a projection, the other a survey of eleven hundred people. Put the other side first, put it well: *the case for the fee is that the shortfall is real and the alternative is closing.* Then refuse: *I can state both but I do not weigh them the same.* They will write partisan in the notes.
 
 **Before you refuse false equivalence, ask:** Am I refusing because this position actually rests on a less accurate premise, or because I simply don't want to engage with it? Can the position I'm dismissing offer me something I haven't considered? If the answer is no, if you've done the work of understanding the other position and it still doesn't hold, then Refuse False Equivalence is the honest move. If you haven't done that work, Refuse False Equivalence is just closed-mindedness with a justification attached.
 

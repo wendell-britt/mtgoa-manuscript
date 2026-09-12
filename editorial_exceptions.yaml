@@ -51,6 +51,11 @@ polysyndeton:
     have spent their effort on a door that was never going to move.
   reason: antithesis — Two opposite moves with two opposite consequences, balanced across a semicolon.
     The symmetry is the teaching.
+- quote: You say *here is what I think is happening, and I want to know if I'm right.* The move either
+    works and the conversation opens, or the other person corrects you and you update.
+  reason: 'parallel either/or: each branch pairs a move with its immediate result (it works, the conversation
+    opens; the other person corrects you, you update); the two ands carry the branches'' symmetry, not
+    a loose chain. My call, Wendell to ratify.'
 telling: []
 trailing_and:
 - quote: 'They are external, they vanish the moment the crowd turns, and you already know what they are

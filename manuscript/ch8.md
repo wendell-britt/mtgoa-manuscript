@@ -821,7 +821,7 @@ A live quest does not announce itself through enthusiasm. It's anticipation with
 
 ### The One Rep
 
-You don't take all five moves into the world this week. You take the one the Sage keeps skipping. You see something true (the game underneath the game, what everyone can feel and nobody says) and instead of holding it, or going up, you say it once, as an offering rather than a verdict. Then you stay while they do whatever they do with it.
+You don't take all five moves into the world this week. You take the one the Sage keeps skipping. You see something true (the game underneath the game, what everyone can feel but nobody says) and instead of holding it, or going up, you say it once, as an offering rather than a verdict. Then you stay while they do whatever they do with it.
 
 That's the whole Sage in a single move: the seeing, said out loud, and the not-leaving.
 

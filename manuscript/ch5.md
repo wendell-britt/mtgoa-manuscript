@@ -153,7 +153,7 @@ It doesn't. Meaning doesn't survive in an empty structure. You can't will meanin
 
 The villagers do this with the Regent's gift once the Regent has gone: they turn protection into imprisonment. They turn inheritance into cargo cult. They turn the beautiful complexity of a living tradition into the comfortable mechanical repetition of its form, and then call that faithfulness.
 
-The village, without the Regent, becomes a museum, beautiful and empty and slowly falling apart.
+The village, without the Regent, becomes a museum, beautiful but empty, and slowly falling apart.
 
 ---
 

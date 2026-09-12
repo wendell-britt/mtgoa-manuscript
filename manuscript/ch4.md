@@ -645,7 +645,7 @@ In practice: when the charge arrives, start a clock instead of a sentence. For t
 
 **What it is:** Name which channel you are carrying before you open your mouth, Fire or Water: a line was crossed, or something was lost. You are going to speak either way, and which one you are actually carrying decides what comes out.
 
-**Why it matters:** Cruelty in a confrontation is usually a mismatch rather than a decision. Anger delivered as anger is hard to hear and easy to answer, because Fire asks for agency and the other person can hand agency over. Hurt delivered as anger is heard as an attack that nothing they do can satisfy, because sadness, the Water underneath it, wanted to be met and you asked to win instead. So they defend, you escalate, and afterward you cannot say what you were actually after. Naming the channel first does not soften the content. It aims it.
+**Why it matters:** Cruelty in a confrontation is usually a mismatch rather than a decision. Anger delivered as anger is hard to hear, easy to answer, because Fire asks for agency and the other person can hand agency over. Hurt delivered as anger is heard as an attack that nothing they do can satisfy, because sadness, the Water underneath it, wanted to be met and you asked to win instead. So they defend, you escalate, and afterward you cannot say what you were actually after. Naming the channel first does not soften the content. It aims it.
 
 In practice: before the conversation, finish one of two sentences out loud. *A line was crossed and I want it to stop.* Or: *something was lost and I want you to know what it cost.* Say whichever is actually running when you get there. Only the second sentence can be answered, though it costs more to say.
 
@@ -687,7 +687,7 @@ In practice: list five moments from the last month where a line was available. F
 
 In practice: When you feel yourself reaching for a qualifier, stop. Take the qualifier out. State the line. Hold it for one second longer than is comfortable. That's usually all it takes.
 
-**Example:** A hiring panel is about to reject a candidate because she asked about remote days in the first interview, a question somebody called high maintenance. Draw the line: *I am not able to support rejecting her unless somebody names the behavior. Name it and I will vote with you.* One sentence of line and one of offer, in front of five people who will remember. It costs you twenty minutes that were going to be efficient. The line insists on the standard and does not deliver the outcome. Confusing those is how advocacy becomes speaking for somebody who never asked.
+**Example:** A hiring panel is about to reject a candidate because she asked about remote days in the first interview, a question somebody called high maintenance. Draw the line: *I am not able to support rejecting her unless somebody names the behavior. Name it and I will vote with you.* One sentence of line, one of offer, in front of five people who will remember. It costs you twenty minutes that were going to be efficient. The line insists on the standard and does not deliver the outcome. Confusing those is how advocacy becomes speaking for somebody who never asked.
 
 **The test:** The line left your mouth without an essay, a justification, or an apology attached. Count the words afterward: more than you needed means you were explaining, whatever they did in response.
 
