@@ -315,7 +315,7 @@ Writing the charge down is supposed to stop that fade. I have filled notebooks f
 
 Years ago I started carrying blank poker cards instead. When something stopped me, I wrote it on a card and the card came with me. The surprise was where the memory went. Even when I could not remember what a card said, I remembered where it lived, third from the back, the one with the bent corner. A notebook stores a sentence you have to go find. A deck stores a place you already know, a place that hands the sentence back.
 
-A **BAR** is that card. Buy a pack of blank pocket-sized ones before the next chapter. The size makes the point: a card you can hold on a train earns a look, and a deck you can shuffle earns a reread.
+A **BAR** is that card. Buy a pack of blank pocket-sized ones before the next chapter. The size makes the point: a card you can hold on a train earns a look; a deck you can shuffle earns a reread.
 
 The name carries the method. **B**reakthrough: what hit you. **A**ction: the one move it points to. **R**eflection: what changed when you moved. The first is what you write while the charge is live; the other two after you have spent it on a move.
 

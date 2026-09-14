@@ -57,6 +57,10 @@ polysyndeton:
   reason: 'shared-object + shared-verb coordination: you have [the map] and [the willingness to walk it
     and report back]; like joined with like, not an escalating chain. Carried from the polysyndeton pass;
     re-keyed after the slop rewrite dropped the ''not because'' opener.'
+- quote: What I said back, when that feedback came, was *you don't think deep introspection and shadow
+    work and uncovering all your hidden motivations is fun?* I meant it.
+  reason: quoted feedback (italic); the X and Y and Z is the speaker's run-on, not the book's. My call,
+    Wendell to ratify.
 telling:
 - quote: It is not, it is incomplete, and incomplete is a different problem with a different address.
   reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
@@ -134,19 +138,37 @@ telling:
 - quote: The view from above was the easy half.
   reason: 'voice anchor 5 (specs/VOICE_ANCHOR.md, ch8 easy half) — Wendell 2026-07-31: ''Do not polish
     these.'''
+- quote: If not, where is the actual leverage point for change?*
+  reason: the Architect's Socratic-question refrain (where is the leverage point / what is the smallest
+    push) — a repeated teaching device, ruled a KEEP by Wendell 2026-09-14.
+- quote: Where is the smallest push that creates the largest movement?
+  reason: the Architect's Socratic-question refrain (where is the leverage point / what is the smallest
+    push) — a repeated teaching device, ruled a KEEP by Wendell 2026-09-14.
+- quote: 'The Architect asks: where is the actual leverage point?'
+  reason: the Architect's Socratic-question refrain (where is the leverage point / what is the smallest
+    push) — a repeated teaching device, ruled a KEEP by Wendell 2026-09-14.
+- quote: 'Finding the leverage point means asking: what is the one place in this system where a small
+    change would cascade through everything else?'
+  reason: the Architect's Socratic-question refrain (where is the leverage point / what is the smallest
+    push) — a repeated teaching device, ruled a KEEP by Wendell 2026-09-14.
+- quote: Where is the existing structure so nearly right that one adjustment would make it lock into place?
+  reason: the Architect's Socratic-question refrain (where is the leverage point / what is the smallest
+    push) — a repeated teaching device, ruled a KEEP by Wendell 2026-09-14.
+- quote: Where is the system under the most strain?
+  reason: the Architect's Socratic-question refrain (where is the leverage point / what is the smallest
+    push) — a repeated teaching device, ruled a KEEP by Wendell 2026-09-14.
+- quote: 'Shipping the minimum means: what is the simplest version of this that still tests the core hypothesis?'
+  reason: the Architect's Socratic-question refrain (where is the leverage point / what is the smallest
+    push) — a repeated teaching device, ruled a KEEP by Wendell 2026-09-14.
+- quote: 'In practice: before you start designing, ask: what is the one question this design needs to
+    answer?'
+  reason: the Architect's Socratic-question refrain (where is the leverage point / what is the smallest
+    push) — a repeated teaching device, ruled a KEEP by Wendell 2026-09-14.
 trailing_and:
 - quote: 'They are external, they vanish the moment the crowd turns, and you already know what they are
     worth: you perform the care, you feel like somebody for an hour, and you are empty by dinner.'
   reason: voice anchor 2 (specs/VOICE_ANCHOR.md), selected by Wendell 2026-07-31 with the instruction
     'Do not polish these.' A prior ruling, not a pass-time judgement.
-- quote: If you date every version, across a year of play you can watch your face, your shadow, and your
-    myths move, which is the change you cannot see from inside a single week.
-  reason: 'serial list: the and closes a series of like items, not a second clause. The scanner reads
-    a plural noun (loss, myths, love''s verb keeps) as the second clause''s verb.'
-- quote: 'The size is the point: a card you can hold on a train is a card you will look at, and a deck
-    you can shuffle is a deck you will reread.'
-  reason: 'parallel pair: two claims of the same shape and different content (the card is portable, the
-    deck reshuffles). and joins like with like, which is the one job it does honestly.'
 - quote: 'Allyship reaches you as three games running at once: the lucky breaks you cannot schedule, the
     skills you can actually build, and the love that keeps you coming back.'
   reason: 'serial list: the and closes a series of like items, not a second clause. The scanner reads
@@ -191,22 +213,12 @@ trailing_and:
   reason: 'serial list: the and closes a series of like items (a four-step chain, three BAR questions,
     three steps of one exit, four domains, the quest format, the chapter-close inventory), not a second
     clause.'
-- quote: 'Before the story sets: what was the charge in your body, what did you actually say (or swallow),
-    and what did it cost?'
-  reason: 'serial list: the and closes a series of like items (a four-step chain, three BAR questions,
-    three steps of one exit, four domains, the quest format, the chapter-close inventory), not a second
-    clause.'
 - quote: 'Run it back honestly and you usually find the audit''s verdict in better clothes: someone with
     more standing gets located, the charge gets handed over, and the leaving looks like respect.'
   reason: 'serial list: the and closes a series of like items (a four-step chain, three BAR questions,
     three steps of one exit, four domains, the quest format, the chapter-close inventory), not a second
     clause.'
 - quote: 'One sentence: what you will do, who it reaches, by when, and what it costs you.'
-  reason: 'serial list: the and closes a series of like items (a four-step chain, three BAR questions,
-    three steps of one exit, four domains, the quest format, the chapter-close inventory), not a second
-    clause.'
-- quote: The Skeptic up close is the auditor that makes your no expensive, the judge that audits your
-    standing instead of your charge, and the one breath that separates them.
   reason: 'serial list: the and closes a series of like items (a four-step chain, three BAR questions,
     three steps of one exit, four domains, the quest format, the chapter-close inventory), not a second
     clause.'
@@ -308,17 +320,8 @@ trailing_and:
   reason: 'paired questions: two questions of the same kind, the Sage''s own (which game, what they need;
     who is present, what they carry; what altitude, what it would mean). L373 also sits in voice anchor
     5''s paragraph. and joins like with like.'
-- quote: Who is actually present, and what are they actually carrying?* The wonder is the field being
-    exactly what it is, and you staying curious about that anyway.
-  reason: 'paired questions: two questions of the same kind, the Sage''s own (which game, what they need;
-    who is present, what they carry; what altitude, what it would mean). L373 also sits in voice anchor
-    5''s paragraph. and joins like with like.'
 - quote: '*What altitude are they actually at, and what would it mean to go there with them rather than
     at them?* The triumph is going down and coming back without feeling diminished by the trip.'
-  reason: 'paired questions: two questions of the same kind, the Sage''s own (which game, what they need;
-    who is present, what they carry; what altitude, what it would mean). L373 also sits in voice anchor
-    5''s paragraph. and joins like with like.'
-- quote: What was the last map you reached for, and what problem was still sitting there when it arrived?
   reason: 'paired questions: two questions of the same kind, the Sage''s own (which game, what they need;
     who is present, what they carry; what altitude, what it would mean). L373 also sits in voice anchor
     5''s paragraph. and joins like with like.'
@@ -376,10 +379,6 @@ trailing_and:
 - quote: 'The four domains are where the line finally gets drawn: the limit said to the person crossing
     it, the truth named where naming it costs you, the no said in your own name, and the boundary a group
     has been negotiating around for months.'
-  reason: 'serial list: the and closes a series of like items (the judge''s three holdings, four domains,
-    the Diplomat''s three kinds of work, the superpower''s three adjectives), not a second clause.'
-- quote: Your superpower is the reliable capacity you built to survive your wounds, once you have made
-    it conscious, ethical, and usable in service of others.
   reason: 'serial list: the and closes a series of like items (the judge''s three holdings, four domains,
     the Diplomat''s three kinds of work, the superpower''s three adjectives), not a second clause.'
 - quote: It is not, it is incomplete, and incomplete is a different problem with a different address.
@@ -474,6 +473,34 @@ trailing_and:
   reason: 'serial list: the Diplomat''s work named in three parts (trust-building, translation, repair);
     the and closes a series of like items. Carried from the trailing_and pass; re-keyed after a light_verb
     rewrite in the same sentence.'
+- quote: If you date every version, across a year of play you can watch your face, your shadow, and your
+    myths move, tracking the change you cannot see from inside a single week.
+  reason: serial list / same-kind questions the telling rewrite produced — like items, not a loose second
+    claim. My call, Wendell to ratify.
+- quote: 'Before the story sets: what did your body carry as charge, what did you actually say (or swallow),
+    and what did it cost?'
+  reason: serial list / same-kind questions the telling rewrite produced — like items, not a loose second
+    claim. My call, Wendell to ratify.
+- quote: The Skeptic up close does the work of the auditor that makes your no expensive, the judge that
+    audits your standing instead of your charge, and the one breath that separates them.
+  reason: serial list / same-kind questions the telling rewrite produced — like items, not a loose second
+    claim. My call, Wendell to ratify.
+- quote: Who is actually present, and what are they actually carrying?* The wonder holds the field exactly
+    as it is; you stay curious about that anyway.
+  reason: serial list / same-kind questions the telling rewrite produced — like items, not a loose second
+    claim. My call, Wendell to ratify.
+- quote: Which map did you last reach for, and what problem was still sitting there when it arrived?
+  reason: serial list / same-kind questions the telling rewrite produced — like items, not a loose second
+    claim. My call, Wendell to ratify.
+- quote: Your superpower names the reliable capacity you built to survive your wounds, once you have made
+    it conscious, ethical, and usable in service of others.
+  reason: serial list / same-kind questions the telling rewrite produced — like items, not a loose second
+    claim. My call, Wendell to ratify.
+- quote: 'The Sage could say: *we''re treating this like a problem to be seen whole, and it plays out
+    as a harmony problem (everyone needs to feel heard first), that''s why no amount of vision is fixing
+    it.* The Sage could look at the conflict and say: *this runs as a boundary issue dressed up in strategy
+    language.* The villagers would pause.'
+  reason: quoted speech (the Sage's line); the coordination is the speaker's. My call, Wendell to ratify.
 light_verb:
 - quote: This school gets the agreement.
   reason: 'boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: ''Boxed
@@ -593,10 +620,6 @@ slop_shapes:
 - quote: Not by an enemy, not by a stranger, but by the person who was supposed to hold the field with
     you.
   reason: ranking series, three real terms — the escalation IS the point
-- quote: 'Its question is the one the Victim exists to route around: *how can I relate compassionately
-    to this?* Pointed not at the situation, not at the people harmed in general, but at the specific person
-    in front of you who is spending something to tell you what you did.'
-  reason: ranking series narrowing to the specific person; the narrowing is the content
 - quote: The Integrative Negotiator finds the courage to surface what each party protects and close, not
     as a threat, not as manipulation, but as a clear, calm, loving act of honest agreement.
   reason: ranking series — each rejected term is a real reading of the act
@@ -622,3 +645,8 @@ slop_shapes:
     but from the felt sense of what it was like to be in it.'
   reason: ranking series of three real vantage points (after / analysis / felt sense); the escalation
     is the meaning. Ratified by Wendell 2026-09-12.
+- quote: 'Its question names the one the Victim exists to route around: *how can I relate compassionately
+    to this?* Pointed not at the situation, not at the people harmed in general, but at the specific person
+    in front of you who is spending something to tell you what you did.'
+  reason: ranking series narrowing to the specific person (not the situation, not people in general, but
+    this one) — ranking not denying. My call, Wendell to ratify.

@@ -212,7 +212,7 @@ The practice comes down to this: Feel what's real. Let it teach you. Become some
 
 What you can feel and move sets the ceiling on what you can do for anyone else. Emotional alchemy does not sit beside the work; it powers the work from underneath.
 
-The Shaman's superpower runs on that current. Lose the Shaman, and the village loses the current too.
+The Shaman's superpower runs on that current. When the Shaman goes, the village loses the current too.
 
 ### Polarity Encounter — Feeling ↔ Function
 
@@ -894,7 +894,7 @@ Five moves, one pass, about ninety seconds. That runs the whole Form with an ins
 
 ### From Read to Quest
 
-A reading that ends in a notebook stays a reading you had. A reading that ends in a quest is one you played. A person makes the difference.
+A reading that ends in a notebook stays a reading you had. A reading that ends in a quest is one you played. The difference comes down to a person.
 
 A quest commits you to an act that touches somebody other than you, on a date. It is not a resolution and it is not a value. It has a verb, a name in it, and a deadline. A quest comes out of Show Up, the move that takes the reading into the world, so every one of them ends in an artifact: something another person can encounter.
 

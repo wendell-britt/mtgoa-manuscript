@@ -271,7 +271,7 @@ The five stages track how the work moves. The five modes describe who you are wh
 
 ### Mode 1 — Bridge-Builder
 
-The Bridge-Builder opens the Diplomat's work: the mode through which contact happens and curiosity replaces judgment. It carries the Diplomat's most fundamental skill, and the one most easily distorted.
+The Bridge-Builder opens the Diplomat's work: the mode through which contact happens and curiosity replaces judgment. It carries the Diplomat's most fundamental skill, the one most easily distorted.
 
 Here is what its absence looks like: a person who makes contact only when they want something. Every relational field runs as a transaction (what can I get, what is this interaction worth to me), so everyone they meet becomes a means to an end.
 
@@ -705,7 +705,7 @@ Close with Honest Terms is one clear sentence naming what this field must hold f
 
 **Example:** Eighteen months into a partnership you have never named the one term you will not trade. Say it once and do not soften it: *I can work with almost anything here except one. If I have to choose between being honest with you and being honest with myself, I choose myself. When I push back we are close to losing an agreement that works for both of us. I am not running a strategy.* Then stop talking. What they do with it is theirs.
 
-A threat would sound like *do this or I leave.* This offers information instead: here is what this field must hold for my staying to remain real. Then the people it concerns get to respond.
+A threat would sound like *do this or I leave.* This informs instead: here is what this field must hold for my staying to remain real. Then the people it concerns get to respond.
 
 *If you don't yet know where you stand, whether you've been trading impact away for the comfort of caring, go back to the Care ↔ Impact axis you drew earlier before you try to close. The axis is preparation. This move puts it into practice.*
 
@@ -751,7 +751,7 @@ Staying does not mean insisting on access after someone has set a boundary. Resp
 
 *Move 2 sets the prerequisite. You have not earned a refusal until you can translate the position you are refusing*
 
-**What it is:** Not all positions deserve equal weight. Say so, clearly and without apology, never pretending your refusal is neutral when it takes a position.
+**What it is:** Not all positions deserve equal weight. Say so, clearly and without apology, never pretending your refusal is neutral when it chooses a side.
 
 This ranks as the Diplomat's most contested move. The Diplomat's altitude values inclusion. Inclusion can curdle into a relativistic posture where every position is treated as equally valid, where *making space* becomes *giving equal legitimacy to positions that do not deserve it.* The Diplomat who refuses false equivalence holds real inclusion while also refusing to pretend that all framings are equally accurate.
 
@@ -795,7 +795,7 @@ When you close, the sentence and the weeks after it decide whether the terms hol
 
 **Put the cost in the words, not in the delivery.** The account gets signaled long before it gets stated: the pause before you agree, the extra weight on *sure*, the tone that means somebody ought to ask. A signal costs nothing to send and nobody can answer one, because it leaves the field to work the number out alone. The field will work it out low. Say what this is costing, in figures, once. Nobody has ever renegotiated with a sigh.
 
-**Let them say what your staying cost them, and answer that.** A close offers an invitation, accepted the moment somebody tells you what the arrangement cost on their side. That is where the Victim opens the column, on time and exact, and turns a negotiation into a comparison of totals only one person is running. (Chapter 5 has me holding back what I knew in a body I stayed with for years, with the crown under my hood. I told it as a Regent's story. It is one. From here, a second story sits inside it: nobody there ever got to decide whether they wanted what I was carrying, because I never put it where they could refuse it.) You owe their term an answer. Your balance keeps. It has kept for years.
+**Let them say what your staying cost them, and answer that.** A close puts an invitation on the table, accepted the moment somebody tells you what the arrangement cost on their side. That is where the Victim opens the column, on time and exact, and turns a negotiation into a comparison of totals only one person is running. (Chapter 5 has me holding back what I knew in a body I stayed with for years, with the crown under my hood. I told it as a Regent's story. It is one. From here, a second story sits inside it: nobody there ever got to decide whether they wanted what I was carrying, because I never put it where they could refuse it.) You owe their term an answer. Your balance keeps. It has kept for years.
 
 **Direct Action — the terms said to the person they bind**
 
