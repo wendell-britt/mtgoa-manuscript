@@ -2,11 +2,11 @@
 
 Everyone with a phone and a social media account has become responsible for their own brand. Nobody signed up for that, the training never arrived, and the standard kept rising anyway. The same has happened to helping.
 
-If you have a conscience and an internet connection, you are now expected to know what to say when something happens, whose lead to follow, when to step in, when to step back, and how to do all of it without making it worse. That is a professional skill set. Most of the people held to it have no professional training in it. A number of us have the training and are still bad at it.
+If you have a conscience and an internet connection, you are now expected to know what to say when something happens, whose lead to follow, when to step in, when to step back, and how to do all of it without making it worse. That takes a professional skill set. Most of the people held to it have no professional training in it. A number of us have the training and are still bad at it.
 
 The strange part is who administers the review. At work you at least get a form. Everywhere else the assessment runs continuously, unwritten, delivered by people who will never read it back to you. You find out years later, from someone who stopped calling.
 
-A system like that produces a predictable game that seats three kinds of players. Some understand that visible allyship converts into standing, and spend accordingly. Some believe the stated mission and do the actual labor, then burn out inside three years. The rest are the people the apparatus is nominally for, who tend to get asked last.
+A system like that produces a predictable game that seats three kinds of players. Some understand that visible allyship converts into standing, and spend accordingly. Some believe the stated mission and do the actual labor, then burn out inside three years. The rest make up the people the apparatus is nominally for, who tend to get asked last.
 
 This book is written for the second group.
 
@@ -26,12 +26,12 @@ Allyship is already a game, one that is already gamified. Yu-kai Chou, who maps 
 
 So this book moves the same work onto the first set, the drives that leave you feeling capable, by being an actual game, with a world in it, six schools, and the six people who run them, who will argue with you in the margins.
 
-Playing is also how you learn any of this, and the philosopher C. Thi Nguyen explains why better than I can. His argument is that games are the art form of agency: somebody designs a way of acting, and you put it on the way you put on a character. The goal matters intensely while you play and becomes disposable the moment you stop.
+Playing is also how you learn any of this, and the philosopher C. Thi Nguyen explains why better than I can. He argues that games turn agency into an art form: somebody designs a way of acting, and you put it on the way you put on a character. The goal matters intensely while you play and becomes disposable the moment you stop.
 
 That way in is what I most want you to take from this page. You do not have to be the person who draws the clean line in order to practice drawing it. You are borrowing an agency the game is lending you. Pick up a Face, make its move, watch what happens, hand it back. Nobody is asking whether you deserved to hold it. The first claim this book takes off the table is that deserving it was ever the mechanism.
 
 What you cannot look at directly becomes visible the moment you meet it somewhere else. The best fantasy has always been for that. You are going to recognize your own week in a village you have never been to.
 
-One rule holds the whole practice up. You can make your move. You cannot make another person satisfied. Reaching for that is the exact place where helping turns into control. So you aim at one person, by name, and make the move cleanly. What they do with it stays theirs. It has to stay theirs. Take that away and you are recruiting.
+One rule holds the whole practice up. You can make your move. You cannot make another person satisfied. Reaching for that marks the exact place where helping turns into control. So you aim at one person, by name, and make the move cleanly. What they do with it stays theirs. It has to stay theirs. Take that away and you are recruiting.
 
 Most of what you already know about allyship will be in the way. Bring it anyway. You will need it to recognize what changed.

@@ -8,13 +8,13 @@
 
 You have walked into the Forest and started meeting the Faces. Whether you are one chapter in or nine, the moves you have so far are enough to start.
 
-This is the game board.
+Here's the game board.
 
-What follows isn't homework and it isn't a recap. These are the reps. Eight **quests**, one for each chapter of the walk, that you run alone. Four **campaigns**, one per domain, that you can run with other people. Each one takes something you learned and turns it into a week (or a session, or a month) of actual practice, with a place to capture what happened.
+What follows isn't homework and it isn't a recap. Call them the reps. Eight **quests**, one for each chapter of the walk, that you run alone. Four **campaigns**, one per domain, that you can run with other people. Each one takes something you learned and turns it into a week (or a session, or a month) of actual practice, with a place to capture what happened.
 
 Pick the one that's pulling at you. Not the one you should do. The one that's already calling.
 
-Every quest ends the same way: you capture what moved. That capture is the BAR — the record that turns a single rep into a pattern you can see. Without it, the quest is just a nice afternoon. With it, it's data on who you're becoming.
+Every quest ends the same way: you capture what moved. That capture makes the BAR — the record that turns a single rep into a pattern you can see. Without it, the quest is just a nice afternoon. With it, it's data on who you're becoming.
 
 ---
 
@@ -130,7 +130,7 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 
 ## The Four Campaigns
 
-A quest is solo. A campaign is the same kind of practice, run longer and out loud — 21 days, built to share with a partner, a team, or a community. Allyship is relational; the campaigns make it so. Each names what it builds, the milestone captures along the way, and how to run it with other people.
+A quest is solo. A campaign runs the same kind of practice, only longer and out loud — 21 days, built to share with a partner, a team, or a community. Allyship is relational; the campaigns make it so. Each names what it builds, the milestone captures along the way, and how to run it with other people.
 
 ---
 
@@ -186,4 +186,4 @@ A quest is solo. A campaign is the same kind of practice, run longer and out lou
 
 ---
 
-*Every quest and campaign ends in a capture. The capture is the point — it's how a single rep becomes a record, and how a record becomes the player you're becoming. Lost which daemon or domain is yours right now? Appendix A has the diagnostic.*
+*Every quest and campaign ends in a capture. The capture carries the point — it's how a single rep becomes a record, and how a record becomes the player you're becoming. Lost which daemon or domain is yours right now? Appendix A has the diagnostic.*

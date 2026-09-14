@@ -3,7 +3,7 @@
 **Location in book:** it sits after Appendix E and before Appendix G (the bibliography), in the toolkit cluster (C/D/E/F). Letter locked 2026-06-03 in the appendix-ordering pass and unaffected by the 2026-07-29 retirement of Key Terms.
 
 
-*You met this tool in Chapter 3 and drew your first axis there, then drew another in every chapter after, and ran it in a live field in Chapter 7. This is the full version — the one to come back to when a decision keeps refusing to resolve and you start to suspect it was never a decision at all.*
+*You met this tool in Chapter 3 and drew your first axis there, then drew another in every chapter after, and ran it in a live field in Chapter 7. Here's the full version — the one to come back to when a decision keeps refusing to resolve and you start to suspect it was never a decision at all.*
 
 *The tool is Barry Johnson's. His term is polarity management. The distinction it rests on — that some tensions are problems to solve and others are pairs to hold — is his too. Appendix G says where to read him.*
 
@@ -17,7 +17,7 @@ You have three tools for a stuck moment, none of them interchangeable.
 - Use **WAVE** when a charge is already moving in you and ready to act.
 - Use the **Polarity Map** when you are torn between two positions that both seem right, and the picking is what's exhausting you.
 
-The tell that you're in a polarity and not a problem: you solve it, and within a week you're solving it again from the other direction. You solve a problem once and it stays solved. A polarity is a tension between two genuine goods, so the work is never to win it. The work is to hold both without letting either eat the other.
+The tell that you're in a polarity and not a problem: you solve it, and within a week you're solving it again from the other direction. You solve a problem once and it stays solved. A polarity holds a tension between two genuine goods, so the work is never to win it. The work is to hold both without letting either eat the other.
 
 The pair changes with altitude. The map doesn't.
 
@@ -33,11 +33,11 @@ The pair changes with altitude. The map doesn't.
 
 **2. Name the two poles.** Both are legitimate actions you could actually *do* in ten minutes, rather than values. If a pole isn't actionable, you've named a virtue, not a pole. Try again.
 
-**3. Mark your position.** Put the dot where you actually are this week — which pole are you over-expressing, which are you starving? The dot is a diagnostic, not a verdict. You're allowed to move it tomorrow; that's the point.
+**3. Mark your position.** Put the dot where you actually are this week — which pole are you over-expressing, which are you starving? The dot reads as a diagnostic, not a verdict. You're allowed to move it tomorrow; that's the point.
 
 **4. Read the dot.** Each pole has a cost when you live in it too long. Stuck at one end, what you've been protecting starts to curdle into the very failure you were avoiding — the loyalty calcifies, or the honesty turns into a weapon. You don't need to feel anything in particular to read this. You can usually just *see* it: what has gone missing from the space while you've been parked at this end?
 
-**5. Design one integrated action.** Not A instead of B. One move that carries both poles at once. The integrated-sentence template is the fastest way in:
+**5. Design one integrated action.** Not A instead of B. One move that carries both poles at once. The integrated-sentence template opens the fastest way in:
 
 > *"I stay with ________ because it still ________, **and** I need ________ to change before I can keep showing up honestly."*
 
@@ -67,7 +67,7 @@ A pair is yours when you can feel the pull of both ends and can't honestly call 
 
 ## Worked example: Care ↔ Impact
 
-Chapter 7 has you draw this pair in Section 4 and sends you back to it in Move 3, before you Close with Honest Terms, because you can't close clean if you don't know which end you've been living at. This is the longer version of that check.
+Chapter 7 has you draw this pair in Section 4 and sends you back to it in Move 3, before you Close with Honest Terms, because you can't close clean if you don't know which end you've been living at. This runs the longer version of that check.
 
 **1. The charge:** the specific partnership where you keep softening what you need until it disappears.
 
@@ -77,7 +77,7 @@ Chapter 7 has you draw this pair in Section 4 and sends you back to it in Move 3
 
 **4. The integrated move** is the close itself: one clear sentence that protects the relationship *by* telling it the truth — "I can work with almost anything here except being asked to choose between honesty with you and honesty with myself." Care and impact in a single breath. That sentence *is* the dot moved to center.
 
-The map is preparation. The move is the practice.
+The map is preparation. The move carries the practice.
 
 ---
 

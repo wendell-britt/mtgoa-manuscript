@@ -42,9 +42,9 @@ Villagers taught that the six Faces named a destination.
 
 That allyship meant becoming a perfect Shaman, or Challenger, or Regent, or Architect, or Diplomat, or Sage. A finished product. A fully-realized identity you arrived at and then maintained. The goal was to *be* one of the Faces, rather than to *use* all of them as tools for whatever the moment required.
 
-This is the distortion. It crept in slowly, the way most distortions do, as an understandable mistake.
+The distortion crept in slowly, the way most distortions do, as an understandable mistake.
 
-Villagers heard the six Faces and thought: *these are the types*: the Shaman type, the Challenger type, the Regent type, the Architect type, the Diplomat type, the Sage type. Anyone who wasn't one of those, who didn't naturally feel-first, or draw-lines, or build-systems, wasn't doing it right.
+Villagers heard the six Faces and named types: the Shaman type, the Challenger type, the Regent type, the Architect type, the Diplomat type, the Sage type. Anyone who wasn't one of those, who didn't naturally feel-first, or draw-lines, or build-systems, wasn't doing it right.
 
 Villagers forgot that the Faces were a map, not a menu. That you don't *become* one of them: you *move through* all of them, depending on what the moment requires. That the goal asks for something else: playing any game the villagers need played, whatever the moment requires, rather than arriving at Sage and staying there.
 
@@ -56,7 +56,7 @@ The Player in distortion's fatal move: collecting tools without ever building an
 
 The shadow follows the Player out the door: *I learned all of this, and I still don't know what game to play.* The Player in distortion mistakes preparation for practice, access for mastery, the map for the territory.
 
-The real Player walks through all six Faces and then decides. *This is my game. This is what I'm building. This is the specific problem I'm going to solve, with the specific gifts I have, in service of the specific village I want to leave behind.* The real Player doesn't accumulate Faces as credentials. The real Player uses them as a design system.
+The real Player walks through all six Faces and then decides. *This is my game. This is what I'm building. I'm going to solve this specific problem, with the specific gifts I have, in service of the specific village I want to leave behind.* The real Player doesn't accumulate Faces as credentials. The real Player uses them as a design system.
 
 ---
 
@@ -87,7 +87,7 @@ People mistake a practice for a personality type, a morning routine, or a values
 
 A practice is what you actually do when something hard happens.
 
-That's the only definition that matters. What you believe about allyship is a separate question. What you intend to do when you're calm is a separate question. This one names what you do when you're activated, when your mother calls, when the group chat erupts, when someone says something that stings and you have to decide in real time whether to say something or say nothing. The practice happens when it costs you something to do it.
+That's the only definition that matters. What you believe about allyship stays a separate question. What you intend to do when you're calm stays a separate question. This one names what you do when you're activated, when your mother calls, when the group chat erupts, when someone says something that stings and you have to decide in real time whether to say something or say nothing. The practice happens when it costs you something to do it.
 
 You have been learning what to do in those moments, through the Five-Move Form, the six Faces and the emotional channels. These aren't concepts to understand: they're moves to make. Like any moves, they require practice, the doing kind, repeated, not the same as having read about them.
 
@@ -128,7 +128,7 @@ Your map might show something similar. The face you name as yours might be the o
 
 Once you've mapped your terrain, you can design your practice. The practice blends all six Faces in a combination only you can make.
 
-The practice: Write it down, not as an abstraction but as a concrete plan. *When I'm in my Challenger, this is how I know. When I need to move to my Shaman, this is what I do. When I'm avoiding my Regent, this is the signal.* The writing does the designing. Putting it on paper forces you into specifics.
+The practice: Write it down, not as an abstraction but as a concrete plan. *When I'm in my Challenger, this is how I know. When I need to move to my Shaman, this is what I do. When I'm avoiding my Regent, I name the signal.* The writing does the designing. Putting it on paper forces you into specifics.
 
 The design question never changes: *What problem am I trying to solve, and which face does this problem actually require?* Most people avoid one of the six Faces because that face's territory makes them uncomfortable, not because it has nothing to do with them. The Designer asks: *What am I avoiding, and what would happen if I built a practice that included it?*
 
@@ -142,7 +142,7 @@ My design looked like this: I knew from the Cartographer that I naturally moved 
 
 The Founder starts something new. The word does not mean a nonprofit, or a brand, or a platform. The Founder creates what didn't exist before: the specific allyship practice that this book only points toward.
 
-The practice: Name it. Give it a name specific to you, specific to your village, specific to the problem you keep trying to solve. The name doesn't have to be public. It does have to be real. *This is what I'm building. This is the game I'm playing.*
+The practice: Name it. Give it a name specific to you, specific to your village, specific to the problem you keep trying to solve. The name doesn't have to be public. It does have to be real. *This is what I'm building. I'm playing this game.*
 
 The Founder and the Architect do different work. The Architect designs systems for others to use. The Founder uses all six Faces to build a specific practice of their own. The Founder says, at the end of it: *I've been through all of this. Here's what I made with it.*
 
@@ -158,7 +158,7 @@ The Elder doesn't start anything new. The Elder hands forward what exists.
 
 The practice: Take what you built and make it pass-onable. Write it down. Name the mistakes. Show the next person where the traps are. The Elder's move hands down an inheritance: making sure what you built doesn't depend on you to survive.
 
-The quests start earning their keep here. You have made one in each of the six Face chapters: the Shaman's, then the Challenger's, the Regent's, the Architect's, the Diplomat's, the Sage's. Six commitments with a name and a date in them, and a sheet with a row from every chapter. Nobody built that as a reference table. It is the practice surface. Every chapter has pointed at its own row.
+The quests start earning their keep here. You have made one in each of the six Face chapters: the Shaman's, then the Challenger's, the Regent's, the Architect's, the Diplomat's, the Sage's. Six commitments with a name and a date in them, and a sheet with a row from every chapter. Nobody built that as a reference table. The sheet serves as the practice surface. Every chapter has pointed at its own row.
 
 The Elder's use of the practice comes second. The first one belongs to you, alone, with nobody watching: run the five moves against the face you have been performing and find out what you actually do when the reading names what you have been routing around. Running it for a group becomes possible after that: a session, a team, a family, a class, a vocabulary handed to people who already know how to do the work and have never been able to name it. That is how the work goes forward without everyone starting from zero. It also keeps the practice from calcifying, because a practice you actually run will keep handing you the move you did not want.
 
@@ -332,7 +332,7 @@ That's what the walk feels like. It is not ascending but circling. Each circle g
 
 ---
 
-Every draft of this book was the walk, not a step toward it. You will plan, then execute, then find the plan was a draft. Every detour that feels like a detour is another stretch of the same road.
+Every draft of this book counted as the walk, not a step toward it. You will plan, then execute, then find the plan became a draft. Every detour that feels like a detour is another stretch of the same road.
 
 The Form already taught you how to do this. Wake up: notice what happened. Open up: let the failure run at full strength before you start explaining it. Clean up: name what didn't work. Grow up: ask what you were wrong about. Show up: do the next version. Then come back: notice what shifted. What you learned.
 
@@ -356,11 +356,11 @@ The Form runs through the writing of this book too. I wake up to what's actually
 
 The walk also means walking into the specific problem you keep trying to solve.
 
-Most people don't come to a book like this with a general question. They come with a specific ache. Something in a life, a job, a family, a community: some specific gap where the performed allyship wasn't doing what it promised. Maybe it was a relationship where you kept doing everything right and feeling nothing. Maybe it was a community where you played the designated ally while it was destroying you. Maybe it was a public issue (the election, the pandemic, the ongoing catastrophe) where you felt morally obligated to act and emotionally unable to act and intellectually confused about what action even meant anymore.
+Most people don't come to a book like this with a general question. They come with a specific ache. Something in a life, a job, a family, a community: some specific gap where the performed allyship wasn't doing what it promised. Maybe it became a relationship where you kept doing everything right and feeling nothing. Maybe it became a community where you played the designated ally while it was destroying you. Maybe it became a public issue (the election, the pandemic, the ongoing catastrophe) where you felt morally obligated to act and emotionally unable to act and intellectually confused about what action even meant anymore.
 
 The walk is walking into that specific problem, not a better version of it but the actual one.
 
-My specific problem, the one I wrote this book to solve: people who want to do inner work, who understand the theory, who have done the therapy and read the books and know all the vocabulary, and who still don't have a practice. Who still default to their home game when it gets hard. Who still mistake understanding for transformation. The gap between knowing and doing is the problem I keep trying to solve. Everything I make walks me further into it.
+My specific problem, the one I wrote this book to solve: people who want to do inner work, who understand the theory, who have done the therapy and read the books and know all the vocabulary, and who still don't have a practice. Who still default to their home game when it gets hard. Who still mistake understanding for transformation. The gap between knowing and doing became the problem I keep trying to solve. Everything I make walks me further into it.
 
 What's yours?
 
@@ -430,7 +430,7 @@ You are ready to be useful.
 
 *The Controller showed up in your building: the standard for how it should look, who should receive it, whether you're doing it right. Name the standard in its exact words. Then: what would happen if you built it without the standard running the build?*
 
-*The Skeptic showed up with a question about what you're building: whether it's real, whether it matters, whether you're the right person to build it. The doubt is the fire. Write the specific question the Skeptic asked. Then: what's still standing after the question burns through?*
+*The Skeptic showed up with a question about what you're building: whether it's real, whether it matters, whether you're the right person to build it. The doubt becomes the fire. Write the specific question the Skeptic asked. Then: what's still standing after the question burns through?*
 
 *The Fixer/Healer showed up in your building and pointed at something specific: an obstacle, a gap, something that needs to be cleared before the next move, and not a person. What's the specific obstacle the Fixer identified? And: is it in the way of the build, or is it a distraction from it?*
 
@@ -440,7 +440,7 @@ You are ready to be useful.
 
 *The Damaged Self showed up in your building: what you know because of what you survived, and not as a limitation. What specifically have you survived that equips you to build this that nobody else could? The Wanderer carries it. Name it.*
 
-*What's moving in you that wasn't moving before you started building? The question is not about the project but about you. Where is the genuine curiosity still alive, what would keep you building even if nobody noticed? That's the Vulnerable Child leading. That's progress. Name what's advancing.*
+*What's moving in you that wasn't moving before you started building? The question is not about the project but about you. Where does the genuine curiosity still live, what would keep you building even if nobody noticed? That's the Vulnerable Child leading. That's progress. Name what's advancing.*
 
 ---
 
@@ -449,7 +449,7 @@ You are ready to be useful.
 
 You know what the six Faces are for. The practice asked which ones you live in and which ones you only perform, and walked you through the five modes a builder moves between. The table comes next.
 
-Here is what winning looks like at the Player's altitude, smaller than the word *game* makes it sound: something exists that did not exist before you, in the hands of somebody who is not you. That is the whole win. The design does not have to be finished. The system does not have to anticipate every case. It has to get made, then handed over, then come back changed.
+Here is what winning looks like at the Player's altitude, smaller than the word *game* makes it sound: something exists that did not exist before you, in the hands of somebody who is not you. That alone counts as winning. The design does not have to be finished. The system does not have to anticipate every case. It has to get made, then handed over, then come back changed.
 
 The five modes describe who you are while you work. Review, Discern, Design, Build, Pass On tracks how the work moves. These five moves do something else: they name what you do when another person sits across from you and what you made lies on the table between you. Everything up to this point in the chapter covered authorship in private. These five measure what authorship costs when it stops being yours alone.
 
@@ -459,7 +459,7 @@ The five modes describe who you are while you work. Review, Discern, Design, Bui
 
 **What it is:** Reducing everything you could work on down to what you are actually going to work on, said in a sentence a stranger could repeat back to you.
 
-**Why it matters:** A wide field never requires a choice. The Player in distortion keeps it wide for exactly that reason. As long as the problem stays *injustice*, or *the culture*, or *how people treat each other*, no specific act ever announces itself as the next one, nor can anything you do ever count as having failed. The cut matters because the cut makes the work falsifiable. A problem narrow enough to fail is a problem narrow enough to solve.
+**Why it matters:** A wide field never requires a choice. The Player in distortion keeps it wide for exactly that reason. As long as the problem stays *injustice*, or *the culture*, or *how people treat each other*, no specific act ever announces itself as the next one, nor can anything you do ever count as having failed. The cut matters because the cut makes the work falsifiable. A problem narrow enough to fail becomes a problem narrow enough to solve.
 
 In practice: write the sentence, then delete every clause that is there to make the problem sound bigger than it is. What survives is usually one group of people, one situation that keeps recurring, and one outcome that keeps not happening. Take the sentence to somebody living with the problem and ask what you missed. If you cannot say who it is for, or the people named say you have named it wrong, you have a topic rather than a problem.
 
@@ -473,9 +473,9 @@ In practice: write the sentence, then delete every clause that is there to make 
 
 **What it is:** Showing the unfinished work to a single human being who can respond to it, at the exact point where you would rather keep working on it alone.
 
-**Why it matters:** Earlier in this chapter the tell was direction: *is the work moving toward contact with someone, or away from it?* This move is that tell converted into an act, the only one of the five that cannot be performed alone. Contact is also the only information a build cannot generate about itself. Refinement is a closed loop: you will not find out whether it works by looking at it harder, for longer, with better taste. A person who is not you is the instrument.
+**Why it matters:** Earlier in this chapter the tell was direction: *is the work moving toward contact with someone, or away from it?* This move is that tell converted into an act, the only one of the five that cannot be performed alone. Contact is also the only information a build cannot generate about itself. Refinement runs a closed loop: you will not find out whether it works by looking at it harder, for longer, with better taste. A person who is not you is the instrument.
 
-In practice, choose one person rather than an audience. The audience version becomes a launch, which you can spend a year preparing for. One person can happen this week. Ask before you show it: *Would you be willing to try this with me before it is finished? I want to know where you got confused so I can use your answer to change it.* Make refusal easy. If the ask costs them time, access, or labor, decide what you can give back before you make it. An unspecified ask gets you applause, which is the least useful response a human being can hand you.
+In practice, choose one person rather than an audience. The audience version becomes a launch, which you can spend a year preparing for. One person can happen this week. Ask before you show it: *Would you be willing to try this with me before it is finished? I want to know where you got confused so I can use your answer to change it.* Make refusal easy. If the ask costs them time, access, or labor, decide what you can give back before you make it. An unspecified ask gets you applause, the least useful response a human being can hand you.
 
 One person is also the smallest ask you can make of anybody's Protector. An audience needs a door opened wide on a day nobody chose; one person, asked for one favor, fits through almost any clearance you already hold.
 
@@ -489,13 +489,13 @@ One person is also the smallest ask you can make of anybody's Protector. An audi
 
 **What it is:** Receiving the piece of feedback that cannot be absorbed without rebuilding something you already made, and rebuilding it.
 
-**Why it matters:** Most feedback is cheap to accept. It adjusts wording, adds a caveat, moves a step. The note that matters is the one saying the structure is wrong. It tends to arrive sounding like an insult, because it is the most expensive sentence anyone can say to a builder. The Player's entire claim is that they built something rather than collected something, and the proof of that claim is what happens the first time the build gets contradicted. A design you will not let anyone break is not a design. It is a possession.
+**Why it matters:** Most feedback is cheap to accept. It adjusts wording, adds a caveat, moves a step. The note that matters says the structure is wrong. It tends to arrive sounding like an insult, because it becomes the most expensive sentence anyone can say to a builder. The Player's entire claim is that they built something rather than collected something, and the proof of that claim is what happens the first time the build gets contradicted. A design you will not let anyone break is not a design. It counts as a possession.
 
 In practice: separate the note from the person delivering it, because your first instinct will be to disqualify the person. Ask one question before responding to any hard note: *if this were true, what would I have to change?* Answer that before you decide whether it is true. Deciding first is how you never find out.
 
-**Example:** Femi tells you the practice only works for people who already have the vocabulary. The cheap repair is a glossary. The expensive repair is admitting the entry point is wrong and rebuilding the first move so it needs no vocabulary at all. The glossary protects your design. The rebuild protects Femi, who said it at some cost to herself and does not owe you a second telling.
+**Example:** Femi tells you the practice only works for people who already have the vocabulary. The cheap repair builds a glossary. The expensive repair is admitting the entry point is wrong and rebuilding the first move so it needs no vocabulary at all. The glossary protects your design. The rebuild protects Femi, who said it at some cost to herself and does not owe you a second telling.
 
-**The test:** You rebuilt, having first asked what would follow if the note were true instead of disqualifying the person who gave it. Whether the rebuild is better is a separate question.
+**The test:** You rebuilt, having first asked what would follow if the note were true instead of disqualifying the person who gave it. Whether the rebuild works better stays a separate question.
 
 ---
 
@@ -503,7 +503,7 @@ In practice: separate the note from the person delivering it, because your first
 
 **What it is:** A second version, on a date, with exactly one deliberate difference from the first. That single difference turns it into a run rather than a redesign.
 
-**Why it matters:** Failure produces two impulses, both of them exits. One is to stop. The other is to throw all of it out and start over, which feels like courage and functions like avoidance, a total rebuild resets the clock and returns you to the private phase where nobody can see the work. The only version that teaches you anything is changing one variable, slow as that is, because it is the only version where you know what caused the difference.
+**Why it matters:** Failure produces two impulses, both of them exits. One is to stop. The other is to throw all of it out and start over, which feels like courage and functions like avoidance, a total rebuild resets the clock and returns you to the private phase where nobody can see the work. The only version that teaches you anything is changing one variable, slow as that is, because only that version shows you what caused the difference.
 
 In practice: name the variable before you run it. *This time the opening question is different and nothing else is.* Write down what you expect to happen, run it, and compare. Iteration without a named variable is doing it again while hoping.
 
@@ -519,33 +519,33 @@ In practice: name the variable before you run it. *This time the opening questio
 
 **Why it matters:** The Architect designs a system that runs without them. That is handoff, a different move at a different altitude. This one goes further and costs more, because the Player hands over the right to alter the design itself. A practice that can only be run as written is already a tradition, one the Outlaw is coming for. Handing over the pen is how a design survives being wrong about something its maker could not see.
 
-In practice: be specific about what they can change, stop, or replace, and ask what access they need for that authority to be real. *You can change anything except the part where people say it out loud* is a real handoff when they also have the materials, time, and standing to make the change. *Make it your own* is a compliment. Asking what they think about something you have already decided is a smaller one. Neither is the pen. Name the decision as closed and you will still get the truth; leave it sounding open and you have spent their effort on a door that was never going to move. Then watch them change it and do not correct the first change they make.
+In practice: be specific about what they can change, stop, or replace, and ask what access they need for that authority to be real. *You can change anything except the part where people say it out loud* is a real handoff when they also have the materials, time, and standing to make the change. *Make it your own* is a compliment. Asking what they think about something you have already decided counts as a smaller one. Neither counts as the pen. Name the decision as closed and you will still get the truth; leave it sounding open and you have spent their effort on a door that was never going to move. Then watch them change it and do not correct the first change they make.
 
-**Example:** Tess takes over the Sunday call and drops the round you thought was the heart of it. You have two moves. Put the round back and you have a franchise. Ask what happened in the space where it used to be, and you find out whether the round was the heart of it or whether you were. Say in advance which parts she may change. What she does inside that is hers.
+**Example:** Tess takes over the Sunday call and drops the round you thought carried the heart of it. You have two moves. Put the round back and you have a franchise. Ask what happened in the space where it used to be, and you find out whether the round carried the heart of it or whether you did. Say in advance which parts she may change. What she does inside that is hers.
 
 **The test:** You named the authority in advance, made the means to use it available, and accepted that the person may decide the practice should end. What they do inside that authority is theirs.
 
 ---
 
-That is the Player's game. Five moves. Cut the field until the problem can fail. Put the unfinished work in front of somebody. Take the note that costs you the design. Run it again with one thing changed. Hand over the pen. Every one of them takes something you made privately and puts it somewhere another person can change it, the only transaction that turns a design into a practice.
+That names the Player's game. Five moves. Cut the field until the problem can fail. Put the unfinished work in front of somebody. Take the note that costs you the design. Run it again with one thing changed. Hand over the pen. Every one of them takes something you made privately and puts it somewhere another person can change it, the only transaction that turns a design into a practice.
 
 ---
 
 **The five moves are the map. The practice is the walking.**
 
-The practice is what you do between the moves. The moves name what to do. The practice is doing them, repeatedly, in real situations, with real stakes. A list of moves is not a practice any more than a recipe is a meal. Having the moves is like having a map. The walk is what happens when you actually go.
+The practice is what you do between the moves. The moves name what to do. The practice is doing them, repeatedly, in real situations, with real stakes. A list of moves is not a practice any more than a recipe counts as a meal. Having the moves is like having a map. The walk is what happens when you actually go.
 
 Here's what I've noticed about my own mistake with this: I spent months with the sequence in front of me (reviewing, discerning, designing, building, passing on) without actually doing any of it. I thought I was practicing. I was planning. I was preparing. I had the vocabulary for what I was supposed to be doing, which made it feel like I was already doing it. It wasn't until I actually started something (before I felt ready, before the design was complete) that the practice became real.
 
-The practice is the loop, while the list is only what the loop leaves behind: running it, messing it up, running it again, running it with someone else watching. Running it when it fails. Running it the next day. That's the practice. The five moves are just the map that tells you where to walk.
+The practice runs as the loop, while the list is only what the loop leaves behind: running it, messing it up, running it again, running it with someone else watching. Running it when it fails. Running it the next day. That's the practice. The five moves are just the map that tells you where to walk.
 
 *Eight quests, one for each chapter of the walk, and four campaigns you can run with other people: Appendix B: Quests & Campaigns.*
 
 ---
 
-Handing over the pen assumes you had the pen. I have had it more often than most people get to, and I cannot tell you how to get one: that is the same gap Chapter 1 left open and I have not closed it since. What I can tell you is that the five moves run smaller and slower without it, and that putting the work in front of one person is the move that needs no permission at all.
+Handing over the pen assumes you had the pen. I have had it more often than most people get to, and I cannot tell you how to get one: that marks the same gap Chapter 1 left open and I have not closed it since. What I can tell you is that the five moves run smaller and slower without it, and that putting the work in front of one person counts as the one move that needs no permission at all.
 
-This book has cost me all five of these. *Cut the field*: it is not about allyship in general; it is about the gap between people who understand the theory and people who can run it when something stings. *Put it in front of one person*: the course went in front of hundreds of people before it was good. The ones who did not finish are the reason this exists. *Take the note that costs you the design*: a stack of chapters written at the applause counter did not get revised, they got thrown out. *Run it again with one thing changed*: every version that failed became the next one with something named and different in it. *Hand someone the pen*: the point is for this to live in more hands than mine, which means whoever runs it later gets to change it, not just repeat it.
+This book has cost me all five of these. *Cut the field*: it is not about allyship in general; it is about the gap between people who understand the theory and people who can run it when something stings. *Put it in front of one person*: the course went in front of hundreds of people before it was good. The ones who did not finish explain why this exists. *Take the note that costs you the design*: a stack of chapters written at the applause counter did not get revised, they got thrown out. *Run it again with one thing changed*: every version that failed became the next one with something named and different in it. *Hand someone the pen*: the point is for this to live in more hands than mine, which means whoever runs it later gets to change it, not just repeat it.
 
 You don't have to write a whole book about it. You have to build your version of what this book is for the specific problem you want to solve for the people you want to help. That's the Player's move.
 
@@ -559,14 +559,14 @@ Don't wait. Run the first move on something small, something that doesn't requir
 
 Now take the smallest possible version of Move 2. *Who sees the sentence?* Pick one person, and name them. One, rather than an audience or a group: one person who will actually respond, and who you would rather not show it to yet.
 
-That's it. Sixty seconds. The design took two lines. The hard part is the next sixty seconds, when you have to send it and find out what comes back. That's where the walk begins.
+That's it. Sixty seconds. The design took two lines. The hard part starts in the next sixty seconds, when you have to send it and find out what comes back. That's where the walk begins.
 
 ---
 
 <!-- SECTION 7 -->
 ## What the Player Gives the Village
 
-The Player's gift is a path. You wanted an answer; this is better and slower.
+The Player's gift takes the shape of a path. You wanted an answer; this is better and slower.
 
 The Player shows the villagers what it looks like to walk all six Faces and come out the other side, not above them, not separate from them, but further along a path they can follow. The Player doesn't say *I've arrived.* The Player says *I'm walking. Here's what I'm finding. Here's what I'm building.*
 
@@ -582,7 +582,7 @@ The Player leaves behind not a method but a path. The path continues.
 
 ### *Six moments. Read each one, name the face, play the move.*
 
-Six Faces and thirty moves are worth very little until you can look at something happening in front of you and know which one it wants. That is the skill this whole book has been building toward, the one you cannot get from reading. It arrives by being wrong a few times somewhere the stakes are low.
+Six Faces and thirty moves are worth very little until you can look at something happening in front of you and know which one it wants. That names the skill this whole book has been building toward, the one you cannot get from reading. It arrives by being wrong a few times somewhere the stakes are low.
 
 So here are six moments. Read each one and write down two answers before you go on: which face the moment needs, and which move you would play. In the margin is fine. Fast beats careful, since the reads at the end are only worth something to you if you have already committed to an answer you can be wrong about.
 
@@ -594,7 +594,7 @@ So here are six moments. Read each one and write down two answers before you go 
 
 **Four:** an organization you helped build twelve years ago has a founding ritual everybody used to love, but the six people who joined most recently find it alienating in a way the old guard keeps calling a misunderstanding. They want it gone by spring. Nobody currently arguing about it was in the parking lot the night it was invented. You were.
 
-**Five:** two organizations in your coalition have stopped returning each other's calls. The organizers who did most of the work on a campaign watched the other group take the press. The other group's director says they were offered the interview, stole nothing, and are now under attack. Both sides will still talk to you. Each wants you to say the other one is the problem.
+**Five:** two organizations in your coalition have stopped returning each other's calls. The organizers who did most of the work on a campaign watched the other group take the press. The other group's director says they were offered the interview, stole nothing, and are now under attack. Both sides will still talk to you. Each wants you to name the other one as the problem.
 
 **Six:** you have been making the same argument in the same meeting for two years. You have gotten better at making it. The people in it have gotten better at agreeing with you in the meeting and doing nothing afterward, often enough that you have started to hear the agreement as a form of scheduling. Your argument is correct. It has been correct the whole time.
 
@@ -602,27 +602,27 @@ So here are six moments. Read each one and write down two answers before you go 
 
 **The reads.**
 
-**One is the Challenger.** Nothing here needs translating. Everyone at that table understood what happened, including the person it happened to. The field is silent rather than confused. The pull is toward the Diplomat, who runs a version of this that costs nothing: catch the director afterward, catch the newest person afterward, be warm to both, bring the temperature down. That version leaves the four seconds exactly as they were. The move is **Name the Unnameable** (Chapter 4), whose entire value is that it happens inside the four seconds rather than in the hallway.
+**Moment one names the Challenger.** Nothing here needs translating. Everyone at that table understood what happened, including the person it happened to. The field is silent rather than confused. The pull is toward the Diplomat, who runs a version of this that costs nothing: catch the director afterward, catch the newest person afterward, be warm to both, bring the temperature down. That version leaves the four seconds exactly as they were. The move is **Name the Unnameable** (Chapter 4), whose entire value is that it happens inside the four seconds rather than in the hallway.
 
-**Two is the Architect.** Three people have failed at this role, each experiencing it as a personal failure: the signature of a design problem wearing a people problem's clothes. The pull is toward the Regent, an honorable one: keep the vows, carry the load, cover again. Covering again is what produced the third departure. The move is **Design for Handoff** (Chapter 6), run before the new coordinator's first week instead of after their last.
+**Moment two names the Architect.** Three people have failed at this role, each experiencing it as a personal failure: the signature of a design problem wearing a people problem's clothes. The pull is toward the Regent, an honorable one: keep the vows, carry the load, cover again. Covering again is what produced the third departure. The move is **Design for Handoff** (Chapter 6), run before the new coordinator's first week instead of after their last.
 
-**Three is the Shaman.** You have a spike you have not named, yet you are already building a response on top of it, so whatever you say next will be carrying cargo neither of you can see. The pull is toward the Architect or the Diplomat, since both have something useful to hand her, and since what you are assembling really might be right. The move is **Catch It Before the Story** (Chapter 3). What it costs you is a few seconds and the sentence you had ready.
+**Moment three names the Shaman.** You have a spike you have not named, yet you are already building a response on top of it, so whatever you say next will be carrying cargo neither of you can see. The pull is toward the Architect or the Diplomat, since both have something useful to hand her, and since what you are assembling really might be right. The move is **Catch It Before the Story** (Chapter 3). What it costs you is a few seconds and the sentence you had ready.
 
-**Four is the Regent.** The newer members are right about the impact, the old guard is right that something is being lost, and the argument cannot resolve because the only person who knows what the ritual was *for* has not said so out loud. That is you. The pull is toward the Challenger, since the impact is real and burning it is clean. The move is **Name the Inheritance** (Chapter 5), and only then **Reform Without Erasing**. Naming it first is what lets the group know what it is choosing to give up: the difference between a reform and an amputation.
+**Moment four names the Regent.** The newer members are right about the impact, the old guard is right that something is being lost, and the argument cannot resolve because the only person who knows what the ritual was *for* has not said so out loud. That is you. The pull is toward the Challenger, since the impact is real and burning it is clean. The move is **Name the Inheritance** (Chapter 5), and only then **Reform Without Erasing**. Naming it first is what lets the group know what it is choosing to give up: the difference between a reform and an amputation.
 
-**Five is the Diplomat, the one where your default face is the right call.** You are the only person both sides will still talk to, in a real field with two real positions in it. That is where the Connector's work starts rather than what it is. The pull is toward the Challenger, because one of those positions is weaker than the other: saying so out loud would feel like integrity. The move is **Name the Field** (Chapter 7), then **Translate Across Camps**, with **Refuse False Equivalence** running underneath both. The Diplomat's shadow does not show up in the decision to mediate. It shows up ten minutes later, when the cheapest way to keep both organizations talking to you is to start describing a stolen campaign as a misunderstanding.
+**The fifth moment names the Diplomat, the one where your default face makes the right call.** You are the only person both sides will still talk to, in a real field with two real positions in it. That is where the Connector's work starts rather than what it is. The pull is toward the Challenger, because one of those positions is weaker than the other: saying so out loud would feel like integrity. The move is **Name the Field** (Chapter 7), then **Translate Across Camps**, with **Refuse False Equivalence** running underneath both. The Diplomat's shadow does not show up in the decision to mediate. It shows up ten minutes later, when the cheapest way to keep both organizations talking to you is to start describing a stolen campaign as a misunderstanding.
 
-**Six is the Sage.** Two years of correct argument and no movement is information about the game rather than about the argument. It took two years to surface because this game keeps producing agreement, which reads like progress on the way home. The pull is toward the Challenger, escalate, say it louder, or toward the Regent, keep the vows, stay at the table. The move is **Name the Game** (Chapter 8), then **Switch Games Deliberately**, the same argument in a different setting, or a different argument in the same one. Choosing between those two is the Sage's whole job.
+**Moment six names the Sage.** Two years of correct argument and no movement is information about the game rather than about the argument. It took two years to surface because this game keeps producing agreement, which reads like progress on the way home. The pull is toward the Challenger, escalate, say it louder, or toward the Regent, keep the vows, stay at the table. The move is **Name the Game** (Chapter 8), then **Switch Games Deliberately**, the same argument in a different setting, or a different argument in the same one. Choosing between those two becomes the Sage's whole job.
 
 ---
 
 **Now count your answers.**
 
-If one face showed up in four or more of the six, you have just watched your autopilot run. Chapter 1 told you this would happen and left a line open on your character sheet for it. Fill it in now, with the face and the number, because a pattern you caught yourself running is worth more than any diagnosis I could have handed you in Chapter 2. Then write that face a second time, on its own line, this time as a tool rather than a habit: the superpower its chapter named, along with what it does for people when you are the one aiming it. Chapter 1 promised you a superpower you would only spot in motion. You just watched it move. The face that runs you and the face worth having are the same face, so the sheet should carry both. (The one you built out of your own history is a different question, and the page at masteringallyship.com answers it. Its answer does not have to match the superpower your face came with.)
+If one face showed up in four or more of the six, you have just watched your autopilot run. Chapter 1 told you this would happen and left a line open on your character sheet for it. Fill it in now, with the face and the number, because a pattern you caught yourself running is worth more than any diagnosis I could have handed you in Chapter 2. Then write that face a second time, on its own line, this time as a tool rather than a habit: the superpower its chapter named, along with what it does for people when you are the one aiming it. Chapter 1 promised you a superpower you would only spot in motion. You just watched it move. The face that runs you and the face worth having are one face, so the sheet should carry both. (The one you built out of your own history stays a different question, and the page at masteringallyship.com answers it. Its answer does not have to match the superpower your face came with.)
 
-Then go to the face that never came up at all. Open its chapter, find the one move you have never run in your life, and put it against the cause you named as your quest back in Chapter 1. Give it a name and a date, or it is a resolution.
+Then go to the face that never came up at all. Open its chapter, find the one move you have never run in your life, and put it against the cause you named as your quest back in Chapter 1. Give it a name and a date, or it stays a resolution.
 
-If your six answers came out spread across six different Faces, run the drill again in three months with moments from your own week instead of mine. Choosing between the Faces on a page is the easy version. The skill is choosing between them at speed, with something real at stake, while the moment is still open.
+If your six answers came out spread across six different Faces, run the drill again in three months with moments from your own week instead of mine. Choosing between the Faces on a page counts as the easy version. The skill is choosing between them at speed, with something real at stake, while the moment is still open.
 
 ---
 
@@ -630,9 +630,9 @@ If your six answers came out spread across six different Faces, run the drill ag
 
 Two paths exist on the other side of this book. They are not the same size, and they don't ask the same of you.
 
-**The practice:** five moves, Wake Up, Open Up, Clean Up, Grow Up, Show Up, run through all six Faces and out into the four domains, with a quest at the end of each chapter and a sheet that now has a row from every one. The private use comes first: run the moves against the face you have been performing and see what you do when the reading names it. The public use comes after: run them for a group. It is the smaller of the two steps and the only one you can take this week. It costs you nothing except the willingness to sit with a reading you would rather have set aside.
+**The practice:** five moves, Wake Up, Open Up, Clean Up, Grow Up, Show Up, run through all six Faces and out into the four domains, with a quest at the end of each chapter and a sheet that now has a row from every one. The private use comes first: run the moves against the face you have been performing and see what you do when the reading names it. The public use comes after: run them for a group. It counts as the smaller of the two steps and the only one you can take this week. It costs you nothing except the willingness to sit with a reading you would rather have set aside.
 
-**The coaching:** the more expensive of the two, in every sense of the word. If you have a Founder move and you already know it has to be you, working it through with me one-on-one is the fastest path I know. If what you want is the method itself (to run these six Faces for other people, not just for what you're building) that is the succession I wrote this book to make possible, the work I most want to hand off. wendell@masteringallyship.com.
+**The coaching:** the more expensive of the two, in every sense of the word. If you have a Founder move and you already know it has to be you, working it through with me one-on-one offers the fastest path I know. If you want the method itself (to run these six Faces for other people, not just for what you're building), that names the succession I wrote this book to make possible, the work I most want to hand off. wendell@masteringallyship.com.
 
 Start with the practice. It begins the moment you close this book.
 

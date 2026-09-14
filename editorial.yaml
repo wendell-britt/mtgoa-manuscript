@@ -144,6 +144,7 @@ pass:
 exclude:
   - "back_matter/index.md"
   - "back_matter/glossary.md"
+  - "front_matter/copyright.md"
 
 # Instruments welded to this book's ontology; they do not travel to other projects.
 project_only:

@@ -17,7 +17,7 @@ That charge is projection, which is shadow work waiting to happen.
 
 The **3-2-1 practice** is how you metabolize it. Three vantage points. One charged figure. You move from observing it, to talking with it, to being it, so the energy that was leaking out through judgment comes back into your system, available for the Five-Move Form to use.
 
-3-2-1 is a diagnostic move. It tells you which part of you is running the show when you think you're responding to them.
+3-2-1 diagnoses: it tells you which part of you is running the show when you think you're responding to them.
 
 ---
 
@@ -39,7 +39,7 @@ You are not analyzing them. You are describing the figure your nervous system ha
 
 **Pronoun:** *You*
 
-**Action:** Address the figure directly, as if they're sitting across from you. Ask questions. Let them answer. This is a dialogue, not a monologue: the answers don't have to be polite.
+**Action:** Address the figure directly, as if they're sitting across from you. Ask questions. Let them answer. This plays out as dialogue, not monologue: the answers don't have to be polite.
 
 If you get stuck, use the six unpacking questions: *What do you want? What do you need? What are you afraid of? What would have to be true for someone to feel this way?* The goal is to hear the inner logic of the part in its own language.
 
@@ -49,7 +49,7 @@ If you get stuck, use the six unpacking questions: *What do you want? What do yo
 
 *"Because you can't afford to fail again. You don't see how fragile everything is. If I don't cut you down first, someone else will."*
 
-**Goal:** Surface what the charge is protecting. Every harsh judgment is a bodyguard with a job. Step 2 is where you find out what the job is.
+**Goal:** Surface what the charge is protecting. Every harsh judgment carries a bodyguard's job. Step 2 is where you find out what the job is.
 
 ---
 
@@ -75,7 +75,7 @@ Work the sequence once, on paper or out loud:
 2. **2 — Talk to it:** At least three exchanges. You ask; it answers. Let the answer surprise you.
 3. **1 — Be it:** First-person statement from the part. One paragraph minimum. No distancing language ("I notice that part of me..."). Speak as it.
 
-When you're done, sit for thirty seconds. Notice whether the charge moved — up, down, sideways, into clarity. That somatic shift is the receipt. The energy is back in your system.
+When you're done, sit for thirty seconds. Notice whether the charge moved — up, down, sideways, into clarity. That somatic shift shows the receipt. The energy is back in your system.
 
 ---
 
@@ -89,7 +89,7 @@ These tools work together, not in competition.
 
 If you're stuck in a channel — always translating, never feeling; always holding the field, never naming your stake — 3-2-1 often reveals which daemon or part is intercepting the Form before it completes. Do 3-2-1 first when the trigger is a *person*. Do WAVE first when the trigger is a *feeling already in your body*. Many hard moments need both.
 
-The Shaman's toolkit is a loop: find the shadow, alchemize the charge, walk the gates, show up in the field. 3-2-1 is how the loop starts when the charge is wearing someone else's face.
+The Shaman's toolkit runs a loop: find the shadow, alchemize the charge, walk the gates, show up in the field. 3-2-1 is how the loop starts when the charge is wearing someone else's face.
 
 ---
 

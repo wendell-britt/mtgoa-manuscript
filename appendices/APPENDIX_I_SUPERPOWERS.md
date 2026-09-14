@@ -1,8 +1,8 @@
 # Appendix I: The Superpowers
 
-Chapter 2's definition holds here. Your superpower is the reliable capacity you built to survive your wounds, once you have made it conscious, ethical, and usable in service of others. A superpower is not a Face. A Face is a role at the table. Each Face chapter trains one superpower, the way a school teaches one class. Out in the village, any of them runs in anybody's hands, at any altitude.
+Chapter 2's definition holds here. Your superpower names the reliable capacity you built to survive your wounds, once you have made it conscious, ethical, and usable in service of others. A superpower is not a Face. A Face plays a role at the table. Each Face chapter trains one superpower, the way a school teaches one class. Out in the village, any of them runs in anybody's hands, at any altitude.
 
-Two notes come before the list. Emotional alchemy stays off it on purpose. Every superpower spends a live charge. Alchemy is the practice underneath all of them. The Alchemist leads with it, so the Shaman's chapter trains it first. The Sage's superpower has two halves, so six superpowers carry seven names. The Superpower Quiz sorts you by the seven.
+Two notes come before the list. Emotional alchemy stays off it on purpose. Every superpower spends a live charge. Alchemy runs underneath all of them. The Alchemist leads with it, so the Shaman's chapter trains it first. The Sage's superpower has two halves, so six superpowers carry seven names. The Superpower Quiz sorts you by the seven.
 
 **Alchemist** (the Shaman, Chapter 3): spends a charge while it still burns instead of waiting for conditions that never arrive. The woman at the council fire spoke while the fear burned, with the fear as fuel. The Five-Move Form trains it.
 
@@ -12,7 +12,7 @@ Two notes come before the list. Emotional alchemy stays off it on purpose. Every
 
 **Strategist** (the Architect, Chapter 6): knowing where a small push moves the most, and when to make it. The Strategist reads the board before anyone can prove the reading, the one part of the Architect's practice that no data can recover.
 
-**Connector** (the Diplomat, Chapter 7): connection that has survived being told the truth. Contact happens in the first hour. What remains after the close is the part that was ever yours.
+**Connector** (the Diplomat, Chapter 7): connection that has survived being told the truth. Contact happens in the first hour. What remains after the close keeps the part that was ever yours.
 
 **Escape Artist and Coach** (the Sage, Chapter 8), two halves of one superpower. The Escape Artist quits a game whole: puts down a fight, a role, an identity you once leaned on, without needing the exit to be a verdict on the game or on yourself. The Coach is what the exit makes available. A coach who cannot leave the game is recruiting, whatever they call it, so everything they offer arrives with their own stake attached. The escape comes first for that reason.
 

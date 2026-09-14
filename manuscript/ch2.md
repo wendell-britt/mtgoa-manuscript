@@ -58,7 +58,7 @@ The terrain here has no map. Employers, movements, and communities expect capaci
 
 The onboarding has a section on psychological safety, a form you sign.
 
-The world is not fine. Neither is the method for fixing it. It rests on a bad premise: that allyship is mainly about what you do in public.
+The world is not fine. The method for fixing it rests on the same bad premise: that allyship is mainly about what you do in public.
 
 **Allyship is about what you are capable of becoming before you walk into the world.**
 
@@ -84,7 +84,7 @@ That sadness tells you what mattered.
 
 Everybody who hits that wall gets the same choice: turn back, or go through.
 
-Most people turn back. Of the ones who don't, most push through instead of going through: they override the sensation and run on fumes until the body stops cooperating. Or they do the inner work in private and never find the way to carry it back to where it's needed. That is the failure mode you are here to get out of.
+Most people turn back. Of the ones who don't, most push through instead of going through: they override the sensation and run on fumes until the body stops cooperating. Or they do the inner work in private and never find the way to carry it back to where it's needed. You are here to get out of that failure mode.
 
 ### What's Different Now
 
@@ -139,7 +139,7 @@ For the full game taxonomy and mechanics, see Chapter 1. This chapter uses that 
 ## The Forest
 ### *The Place Where the Work Actually Happens*
 
-The Forest is a place you may not realize you've been circling.
+You may not realize you've been circling the Forest.
 
 Trying to seem right, and then trying to seem good on top of it, spends most of your attention on how you are coming across. Whoever you came to help gets what is left.
 
@@ -183,7 +183,7 @@ In the Forest you hear it as information about what to build.
 
 Decision question: **In your next hard moment, will you protect your image in the Village, or grow your capacity in the Forest?**
 
-The Forest is where you meet the daemons. Each one is a part of you to be faced, understood, and befriended before what it carries can come back to the village with you. The Forest gives you the terrain. You decide what you do with it.
+The Forest is where you meet the daemons. You face, understand, and befriend each one before what it carries can come back to the village with you. The Forest gives you the terrain. You decide what you do with it.
 
 ---
 
@@ -191,7 +191,7 @@ The Forest is where you meet the daemons. Each one is a part of you to be faced,
 ## Origin Story
 ### *Where This Map Came From*
 
-The origin of this book is a rock in my shoe.
+This book began with a rock in my shoe.
 
 George Floyd was murdered in May of 2020. My phone started filling up: white friends, mostly, checking in, asking if I was okay. I was glad they called.
 
@@ -201,7 +201,7 @@ What I found was rage, not sadness. (The body is specific like that.)
 
 I had learned, for reasons that started early and went deep, to keep my feelings below the waterline, away from other people's awareness, and often away from my own. This produces a permanent low-grade charge, invisible to the people around you. The rage wasn't new. I had just gotten very good at not knowing it was there.
 
-The rock in my shoe was the tip of something that went down a long way.
+The rock in my shoe pointed to something that ran a long way down.
 
 My friends called to see if I was okay. They were not okay (disturbed, shaken, holding something they didn't know how to hold), so they handed it to me as concern. I was the only Black person most of them knew. My well-being had become a stand-in for all of Black America's well-being. Meant to support me, they were really asking me to hold their unprocessed feelings about a Black man's murder.
 
@@ -211,7 +211,7 @@ The shamanic training I'd been doing said: everything can be used. Nothing is wa
 
 So I built something. What the anger produced first was not the book. The first version of Mastering the Game of Allyship came after it, written from that anger and not despite it, because my friends didn't need someone to absorb their feelings. They needed tools. I had spent years building tools that could do exactly this, but no one had thought to aim them at allyship yet.
 
-The book is the alchemy. It came from a rock in my shoe. The framework came after. The research came after that.
+The book turned into alchemy. It came from a rock in my shoe. The framework came after. The research came after that.
 
 ---
 
@@ -301,7 +301,7 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 **Job:** The seat of your emotional life, where feeling gets processed into meaning.
 **As an ally:** the feeling completes and becomes information you can use. *In play:* someone says something and it hits you in the chest. The charge runs its course instead of lodging, and by the end of the conversation you can name what happened and why it mattered.
 **As a demon:** the feeling gets stuck, buried or spilling out sideways, because it never gets metabolized. *In play:* an unprocessed feeling spills out of you. The person you came to support ends up taking care of you.
-*(Learning its language is the whole of the next chapter.)*
+*(The next chapter teaches you its language.)*
 
 **The Victim**
 **Job:** To win sympathy through stories. Telling what happened is how it gets another person to feel it with you.
@@ -315,13 +315,13 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 
 ### The Protector, Up Close
 
-The Protector works the door of the Forest. You meet it first, the most physical of the seven. The Protector is the hull of the ship, the body itself, holding its shape, keeping the water out, taking the hit when a hit comes. It is the embodied feeling of self-preservation. It does not argue or explain; it braces. It knows danger before you could prove it to anyone.
+The Protector works the door of the Forest. You meet it first, the most physical of the seven. The Protector is the hull of the ship, the body itself, holding its shape, keeping the water out, taking the hit when a hit comes. It does not argue or explain; it braces. It knows danger before you could prove it to anyone.
 
 The instant something reads as a threat (a shift in tone, a move for power), the Protector has already braced to meet it, faster than thought. That speed has kept you alive. The next chapter teaches you to read the fear channel it runs on.
 
 The trouble: a hull built to survive cannot always tell which century it is in. To the Protector, losing your place in the group registers the same as getting left to die, because for most of human history those were one event. So it runs your social life on survival settings, meeting a hard conversation or a public challenge with machinery built for a predator. That is why it gets so tired: it has been holding the whole ship rigid against threats that were never going to sink you.
 
-The Protector does the job cheaply by bracing everywhere. A hull that braces for a predator in every meeting never misses a threat, and never has to work out which threat is here, which is the reason the Protector prefers that setting, and the reason you end up walking on eggshells with everyone, including the people who have never once been a threat. Vigilance costs more because it aims: this tone, this move for power, this person, now. A Protector on survival settings has stopped looking, yet from the inside blanket bracing feels identical to paying attention.
+The Protector does the job cheaply by bracing everywhere. A hull that braces for a predator in every meeting never misses a threat, and never has to work out which threat is here. That's why the Protector prefers that setting, and why you end up walking on eggshells with everyone, including the people who have never once been a threat. Vigilance costs more because it aims: this tone, this move for power, this person, now. A Protector on survival settings has stopped looking, yet from the inside blanket bracing feels identical to paying attention.
 
 When the Protector holds the joystick, you walk into a conversation already armored, braced against something that has not happened. The person across from you meets the hull before they meet you. Control replaces contact. From inside, that feels like safety.
 
@@ -343,7 +343,7 @@ The whole of this book is one move, made over and over: getting you back on the 
 
 When you're the one holding it, the gang becomes a party. Same seven daemons, same seven jobs, pointed a different direction. The Skeptic still doubts, now to pressure-test a plan so it holds up. The Controller still sets the standard, now "how do I grow" in place of "how do I avoid getting caught." The Victim still tells the story, now to invite someone in. The parts that were running you become the party that plays alongside you.
 
-That is the game itself, not the tutorial for it. It's a skill with a difficulty curve, one you can visibly get better at: taking the joystick more often, faster, when the stakes are higher. You have been playing this game for years. From here, you get to play it on purpose.
+You are playing the game itself now. It's a skill with a difficulty curve, one you can visibly get better at: taking the joystick more often, faster, when the stakes are higher. You have been playing this game for years. From here, you get to play it on purpose.
 
 ### Superpower Definition
 
@@ -360,7 +360,7 @@ The wound does not become your identity. It becomes signal, then skill, then con
 
 A superpower is not a Face. No chapter owns one. Each one ahead trains a single superpower, the way a school teaches one class: somewhere to stand while you practice it. Out in the village any of the six runs at any altitude, in anybody's hands.
 
-Before Chapter 3 teaches full emotional alchemy, carry this much: the charge you feel has channels (fear, anger, sadness, joy, neutrality), each one information, not noise. Chapter 3 trains you to read and move each one. For now it's enough to know they're distinct, and that none of them is the enemy.
+Before Chapter 3 teaches full emotional alchemy, carry this much: the charge you feel has channels (fear, anger, sadness, joy, neutrality), each one information, not noise. Chapter 3 trains you to read and move each one. For now it's enough to know they're distinct, and that none of them is fighting you.
 
 A daemon you befriend joins your party. A daemon left running on its own stays a saboteur.
 
@@ -394,7 +394,7 @@ Underneath all of it, at the center, the youngest part of you still waits: the V
 
 The whole walk is reaching her: getting to the center where she is, and putting the joystick back in her hands.
 
-That center is an ordinary, lived moment: the one where you stop performing and tell the truth about what is actually happening in you. The seven settle once someone finally shows up to play.
+You reach that center in an ordinary, lived moment: the one where you stop performing and tell the truth about what is actually happening in you. The seven settle once someone finally shows up to play.
 
 From there, with your hands back on the joystick, you can make moves you could not reach before:
 
@@ -407,9 +407,9 @@ The Forest is where you get back to the center. From there you play the next mov
 
 ### *A Second Walk, Through Somebody Else's Forest*
 
-You have just walked your own Forest and put your hands back on the joystick. Now make the same walk in somebody else. Split them and you get a chapter of self-knowledge with nowhere to put it, which is a fine outcome for a journal and a poor one for an ally.
+You have just walked your own Forest and put your hands back on the joystick. Now make the same walk in somebody else. Split them and you get a chapter of self-knowledge with nowhere to put it: it serves a journal and fails an ally.
 
-The second walk is the first walk with the lights off. You cannot see inside another person. You work from what they do.
+The second walk repeats the first, with the lights off. You cannot see inside another person. You work from what they do.
 
 The old hermetic rule, *as within, so without*, is mechanical here. The seven you just met are standing in front of every person you will ever try to help. They do not know you.
 
@@ -439,9 +439,9 @@ Seven parts, each one taking the joystick from the last, yet not one of them is 
 
 Each of those has a job you can do, once you can tell which one you are talking to. The Controller wants a standard met, so you either meet hers or you help her move it. The Skeptic wants the danger named out loud before anything gets spent. The Emotional Body wants a feeling to arrive somewhere and finish, and until it does she will not look at any plan you bring. A feeling is telling you what the help has to connect to.
 
-This is the reason the inner work came first.
+That's why the inner work came first.
 
-**Every one of those readings is a guess.** You cannot see inside Imani. You see what she does and supply the rest. What you supply comes out of you. Your Skeptic turns her flat voice into something she is hiding. Your Fixer turns her caution into a problem with a solution. Your Victim hears her story and makes it a story about you. Whichever of your seven has your joystick decides what you think you are looking at.
+**You guess at every one of those readings.** You cannot see inside Imani. You see what she does and supply the rest. What you supply comes out of you. Your Skeptic turns her flat voice into something she is hiding. Your Fixer turns her caution into a problem with a solution. Your Victim hears her story and makes it a story about you. Whichever of your seven has your joystick decides what you think you are looking at.
 
 That is projection, the trickiest move in shadow work: the parts you have not befriended in yourself are the parts you will misread hardest in everybody else. A daemon you have made an ally you can recognize across a table. A daemon still running you is one you cannot see anywhere, including in front of you.
 
@@ -449,9 +449,9 @@ Six of Imani's seven stand behind the seventh. Her Protector works the door the 
 
 A Protector holds one shape, the shape of whatever got through before, set by a history you were not there for. It does not think about you; it checks you against the shape. It fires the moment you move like the one who cost Imani, regardless of your intention, stated or otherwise.
 
-Playing above your clearance is a major error. Your character has nothing to do with it; your Controller does: it believes it knows the better standard. So you arrive with a higher bar than Imani asked for, or a bar pointing somewhere she was not going. Either one is more than she can take on today. The Fixer three solutions deep makes the same error, arriving past a door that never opened.
+You make a major error when you play above your clearance. Your character has nothing to do with it; your Controller does: it believes it knows the better standard. So you arrive with a higher bar than Imani asked for, or a bar pointing somewhere she was not going. Either one is more than she can take on today. The Fixer three solutions deep makes the same error, arriving past a door that never opened.
 
-You can go over the wall anyway. People do it every day. Once in a while it is the only move left. What you do not get to do is go over it and call it help. From the middle those two look the same.
+You can go over the wall anyway. People do it every day. Once in a while, nothing else is left to try. What you do not get to do is go over it and call it help. From the middle those two look the same.
 
 You are already equipped for her door, because you have started befriending your own. Your job is not to get past Imani's Protector. **Your job is to ally with it**, the same way you allied with yours: you do not fight it, you do not shove past it, you thank it, and you help it tell a real threat from a social one. On her door that becomes a slower approach and a smaller ask.
 
@@ -477,7 +477,7 @@ Where does it live? Chest, throat, jaw, belly: somewhere in there sits a sensati
 
 Put your hand there if that helps.
 
-Now: what is the sensation? The sensation itself, underneath the story of what happened and what you should have said. Notice whether it is hot or cold, tight or spacious, moving or still.
+Now: name the sensation. The sensation itself, underneath the story of what happened and what you should have said. Notice whether it is hot or cold, tight or spacious, moving or still.
 
 You don't have to know what it means. You just have to locate it.
 
@@ -524,7 +524,7 @@ You found the sensation. Now let it be heard.
 
 Within the next two days, say one body-read out loud to another person, in a live moment where it is not already safe, not in a debrief afterward. One sentence, small enough that it is neither a confession nor a processing session, placed where it costs something: *"Something just shifted in my chest. Give me a second."* Even when your voice isn't steady. Even when you're not sure you've got the word right: *"I think that came across as anger. I'm not certain. Something moved though."*
 
-Before you say it, ask: *Is this mine to name here? Does saying it help this person or ask them to hold me? What condition, need, or boundary is the feeling pointing toward?* If you do not yet have enough trust for the sentence, do not force intimacy. Choose one smaller move: ask permission to return to it, name the condition rather than the person, or bring the reading to someone whose role is to help you prepare.
+Before you say it, ask: *Is this mine to name here? Does saying it help this person or ask them to hold me? Which condition, need, or boundary does the feeling point toward?* If you do not yet have enough trust for the sentence, do not force intimacy. Choose one smaller move: ask permission to return to it, name the condition rather than the person, or bring the reading to someone whose role is to help you prepare.
 
 One reading, said out loud, to one person who doesn't already know, inside forty-eight hours.
 
@@ -567,7 +567,7 @@ The Forest is where those daemons are met and befriended. Six guides know that t
 
 Before you walk on: the work in this book unfolds in four directions: gathering resources, skillful organizing, taking direct action, and raising awareness. Appendix A holds the full map, and a way to find which direction is calling you right now.
 
-Add a row to the sheet before you go. In Chapter 1 you wrote down the myth that runs you hardest, the rule you had been playing by without ever agreeing to it. Underneath it, write the daemon that took the joystick first when you ran the five moves, along with the job it has been doing for you. Those two lines are the same mechanism seen from two directions.
+Add a row to the sheet before you go. In Chapter 1 you wrote down the myth that runs you hardest, the rule you had been playing by without ever agreeing to it. Underneath it, write the daemon that took the joystick first when you ran the five moves, along with the job it has been doing for you. Those two lines show the same mechanism from two directions.
 
 From here you have two routes:
 

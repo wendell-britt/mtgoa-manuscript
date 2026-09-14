@@ -74,11 +74,11 @@ The Challenger had drawn lines. The Challenger had said no. The Challenger had r
 
 Fire costs. Every line the Challenger drew cost somebody something to hold, and holding it cost again the next week, and the week after that.
 
-The Regent was standing right there while it did. That is the part of the account a Regent has to enter honestly. The Regent did not dislike the Challenger. The Regent believed that will, even clean will, could not carry a village across time, and offered the villagers structure instead. Walls to hold what they had already agreed to. A weekly council that opened with a reading of the stated values. A yearly ceremony that renewed the vows. Roles that passed from person to person, so that when one person left, the *role* stayed, so the next person could step into it.
+The Regent was standing right there while it did. A Regent has to enter that part of the account honestly. The Regent did not dislike the Challenger. The Regent believed that will, even clean will, could not carry a village across time, and offered the villagers structure instead. Walls to hold what they had already agreed to. A weekly council that opened with a reading of the stated values. A yearly ceremony that renewed the vows. Roles that passed from person to person, so that when one person left, the *role* stayed, so the next person could step into it.
 
 The villagers chose the Regent. Not because the Challenger was wrong, and not because anybody voted. Because the Challenger was expensive and the Regent was not, and because a village will take the cheaper of two goods every time nobody names the trade out loud. They stopped asking the Challenger to speak first. Then they stopped asking. When the Challenger left, the Regent, with a city to build, did not go after them.
 
-That is the first entry in this Regent's ledger. It goes in before anything else does. A keeper who cannot write down what their own arrival cost somebody else is keeping an account with a hole in it.
+This Regent's ledger holds that entry first. It goes in before anything else does. A keeper who cannot write down what their own arrival cost somebody else is keeping an account with a hole in it.
 
 For a generation, this worked beautifully.
 
@@ -100,7 +100,7 @@ The Architect said: "You're building a city inside a graveyard. The people are g
 
 The Regent didn't take this well.
 
-The Regent said: "If you can see that the people are gone, you don't love the city." The Architect said: "If you can't see it, you're not helping them." The argument escalated. The villagers took sides. When the dust settled, the Regent was gone, not exiled exactly, but *retired.* The villagers kept the walls. The villagers kept the traditions. The villagers kept the roles. What the villagers lost was the person who knew how to tend them, who could tell the difference between a tradition that still served and a tradition that had become a comfortable cage.
+The Regent said: "If you can see that the people are gone, you don't love the city." The Architect said: "If you can't see it, you're not helping them." The argument escalated. The villagers took sides. When the dust settled, the Regent was gone, not exiled exactly, but *retired.* The villagers kept the walls. The villagers kept the traditions. The villagers kept the roles. The villagers lost the person who knew how to tend them, who could tell the difference between a tradition that still served and a tradition that had become a comfortable cage.
 
 The Regent left because the villagers no longer knew the difference between protecting and imprisoning.
 
@@ -145,9 +145,9 @@ It wasn't.
 
 The villagers developed a specific, recognizable distortion: **obedience without understanding.** The villagers learned to follow the Regent's structures without knowing *why* the structures existed. They kept the form and lost the function. They said the words and missed the meaning. They performed the role and forgot the person.
 
-This is the Regent in distortion: the cage built out of love. The tradition that stops serving and starts controlling. The role that consumes the human instead of being carried by them.
+Distortion turns the Regent into the cage built out of love. The tradition that stops serving and starts controlling. The role that consumes the human instead of being carried by them.
 
-This distortion resists fixing for one reason: the villagers truly believed they were doing right. They thought loyalty was the same as obedience. They thought tradition was the same as wisdom. They thought: *if we just hold the line long enough, the meaning will come back.*
+This distortion resists fixing for one reason: the villagers truly believed they were doing right. They thought loyalty matched obedience. They thought tradition matched wisdom. They thought: *if we just hold the line long enough, the meaning will come back.*
 
 It doesn't. Meaning doesn't survive in an empty structure. You can't will meaning back into a ceremony that has become a habit. You can't resurrect a role that has been filled by a ghost for too long.
 
@@ -222,7 +222,7 @@ One belief makes the Regent's practice distinct: the Regent knows that tradition
 
 That's the full sequence: **Inherit → Honor → Steward → Reform → Entrust.**
 
-The Regent's mistake, the distortion that exiled them, confused stewardship with preservation. The Regent started to think that protecting the tradition meant keeping it exactly as it was received. A tradition kept exactly as received is a snapshot of someone else's moment, not a living tradition that can serve the next person's moment.
+The Regent's mistake, the distortion that exiled them, confused stewardship with preservation. The Regent started to think that protecting the tradition meant keeping it exactly as it was received. A tradition kept exactly as received only freezes someone else's moment; a living tradition serves the next person's moment.
 
 Real stewardship includes the possibility of reform. Real inheritance includes the possibility that what you received needs to change before you pass it on.
 
@@ -246,11 +246,11 @@ A polarity is not a problem to solve. It has two poles, both of them right. The 
 
 The Regent's pair: honor what was passed versus reform what no longer serves.
 
-Honor what was passed means keeping the form, protecting what works, staying loyal to the inheritance because removing it would break something real. It is a lineage. A practice built by people whose sacrifice you can still name. A structure that holds people together when everything else falls apart.
+Honor what was passed means keeping the form, protecting what works, staying loyal to the inheritance because removing it would break something real. It carries a lineage. A practice built by people whose sacrifice you can still name. A structure that holds people together when everything else falls apart.
 
 Reform what no longer serves means updating the form when the essence requires it. Naming what broke without dismantling what still holds. Changing what loyalty actually demands, not just what loyalty has always looked like.
 
-You know this tension from the inside. The practices you inherited from the work (the frameworks, the vocabulary, the rituals someone before you built with real stakes): some of them are still load-bearing. Some of them became something else: a form that mimes the commitment without keeping it. You know which ones. You've stood in circles where the acknowledgment was said but the land was not returned. You've used vocabulary that used to mean something and now signals membership more than it moves anything. You keep the forms because dropping them would feel like a betrayal of someone whose effort you still respect. That is the Regent's pair in active tension. It is named here because from the inside the tension reads as weakness, and keepers before you have filed it under that name.
+You know this tension from the inside. The practices you inherited from the work (the frameworks, the vocabulary, the rituals someone before you built with real stakes): some of them are still load-bearing. Some of them became something else: a form that mimes the commitment without keeping it. You know which ones. You've stood in circles where the acknowledgment was said but the land was not returned. You've used vocabulary that used to mean something and now signals membership more than it moves anything. You keep the forms because dropping them would feel like a betrayal of someone whose effort you still respect. That names the Regent's pair in active tension. It is named here because from the inside the tension reads as weakness, and keepers before you have filed it under that name.
 
 
 *Now the chapter resumes.*
@@ -282,13 +282,13 @@ The villagers never taught you this question: what did you inherit?
 
 I'm talking about something more specific than genetics and more specific than culture in the abstract: the bundle of practices, wounds, loyalties, and assumptions that arrived in your life before you had any say in the matter, and that you've been carrying ever since, sometimes knowing why, often not.
 
-Every person alive is an inheritor. The Regent's practice works consciously with that fact instead of against it.
+Every person alive inherits something. The Regent's practice works consciously with that fact instead of against it.
 
 The Shaman works in emotion, the Challenger in will, the Architect in logic. The native material at the Regent's altitude is **loyalty**, the felt sense of belonging to something larger than yourself and the weight that comes with that belonging. What you owe. What you carry. What you pass on.
 
 Loyalty is deeply unfashionable in progressive circles. It sounds like obedience. It sounds like what keeps people inside harmful institutions. The villagers conflated loyalty with compliance, and then wondered why the institutions they served became so brittle.
 
-Real loyalty is chosen. Real loyalty sees the whole inheritance (the gift and the damage) and decides, with full knowledge, to carry it forward. Real loyalty can be broken when the tradition breaks you. Real loyalty can be reformed when the tradition no longer serves what it originally served. That is the most loyal act there is, yet it will read as disloyalty.
+Real loyalty is chosen. Real loyalty sees the whole inheritance (the gift and the damage) and decides, with full knowledge, to carry it forward. Real loyalty can be broken when the tradition breaks you. Real loyalty can be reformed when the tradition no longer serves what it originally served. Nothing carries more loyalty than that, yet it will read as disloyalty.
 
 Here is the Regent's cycle: how to work with your inheritance consciously, move through it cleanly, and pass it forward without passing on the wounds.
 
@@ -325,7 +325,7 @@ The Regent works with loyalty in five distinct modes. Each names a different rel
 
 **2. The Inheritor** is the mode of receiving, including receiving the damage. The Inheritor knows that every inheritance carries both medicine and wound. *What came with my inheritance that I didn't choose?*
 
-**3. The Teacher** is the mode of passing it forward in a form the next person can actually receive. The Teacher knows that a tradition that cannot be received is a tradition that will die. *Who is coming after me, and what do they actually need?*
+**3. The Teacher** is the mode of passing it forward in a form the next person can actually receive. The Teacher knows that a tradition nobody can receive will die. *Who is coming after me, and what do they actually need?*
 
 **4. The Reformer** is the mode of changing the tradition while honoring the lineage. The Reformer loves what came before enough to change what no longer works. *What needs to change so this survives?*
 
@@ -363,11 +363,11 @@ The Regent's practice moves through five stages of its own, distinct from the Fo
 
 **Honor:** you name what in the inheritance still serves. Not everything is broken. Some of what you received is load-bearing: without it, the whole structure collapses. *This part is medicine. This part was always the wound. I am going to stop blaming the inheritance and start sorting it.*
 
-**Steward:** you carry it and maintain it. This is the longest stage, and the least visible. The practice of showing up, again and again, to do the work the inheritance requires: the meeting that gets run because someone has to run it, the vow kept on a day nobody was watching, the form held steady long enough for the people inside it to trust that it will be there next year. Stewarding costs what it takes to keep something alive while you figure out what it needs. It looks like doing nothing and costs more. *I am not just preserving this. I am tending it.*
+**Steward:** you carry it and maintain it. This stage runs longest and shows least. The practice of showing up, again and again, to do the work the inheritance requires: the meeting that gets run because someone has to run it, the vow kept on a day nobody was watching, the form held steady long enough for the people inside it to trust that it will be there next year. Stewarding costs what it takes to keep something alive while you figure out what it needs. It looks like doing nothing and costs more. *I am not just preserving this. I am tending it.*
 
-**Reform:** you change what no longer serves, while it is still yours to carry. The sequence used to hide this stage inside Steward. Hiding it there is how a Regent spends thirty years tending something they knew in year four had stopped working. Reform is a separate act, made separate by its cost: stewardship earns you loyalty, while reform spends it. No version of it costs nothing. That is precisely why it gets folded into the tending, where it can be postponed indefinitely as work you are already doing. *This part has to change. I am the one who has to say so, out loud, to people who will hear it as disloyalty.*
+**Reform:** you change what no longer serves, while it is still yours to carry. The sequence used to hide this stage inside Steward. Hiding it there is how a Regent spends thirty years tending something they knew in year four had stopped working. Reform breaks off as its own act, priced separately: stewardship earns you loyalty, while reform spends it. No version of it costs nothing. That is precisely why it gets folded into the tending, where it can be postponed indefinitely as work you are already doing. *This part has to change. I am the one who has to say so, out loud, to people who will hear it as disloyalty.*
 
-**Entrust:** you hand it on, cleanly, to whoever comes next. It is the hardest stage. The Regent's test asks whether you can let go without abandoning, whether you can pass the tradition forward without clinging to it. *Have I given the next person enough to run with, without crushing them under the weight of what I thought it should be?*
+**Entrust:** you hand it on, cleanly, to whoever comes next. This stage costs the most of the five. The Regent's test asks whether you can let go without abandoning, whether you can pass the tradition forward without clinging to it. *Have I given the next person enough to run with, without crushing them under the weight of what I thought it should be?*
 
 ---
 
@@ -419,7 +419,7 @@ The Regent's natural flow is generational, not moment-to-moment:
 
 **Inherit → Honor → Steward → Reform → Entrust → (next generation) → Inherit**
 
-The goal is to move through the cycle more consciously, more fully, each time. Entrust is a station on it, not the end of the line.
+The goal is to move through the cycle more consciously, more fully, each time. Entrust marks a station on the cycle. It doesn't end the line.
 
 ---
 
@@ -496,17 +496,17 @@ Both cost something. Claiming it means you can no longer hide behind not-yet-rea
 ## The Fixer/Healer, Up Close
 ### *The Repair That Never Ends, and the Commitment It Postpones*
 
-I have never once let a friend finish describing a problem. The moment I hear the shape of it I am three steps into a solution nobody asked for. I do it because I love them, which is the part that makes it so hard to stop.
+I have never once let a friend finish describing a problem. The moment I hear the shape of it I am three steps into a solution nobody asked for. I do it because I love them; that love makes it so hard to stop.
 
 He has been fixing his brother for eleven years. His brother is fine. His brother has a job and a dog.
 
 You met the Fixer/Healer at the door of the Forest, fourth in line, one step past the Skeptic. The Protector decides whether you go in. The Controller decides how you may behave once you are inside. The Skeptic decides whether what you react to was ever real. The Fixer/Healer decides something none of them touch: whether what is in front of you is in good enough condition to be given yourself to.
 
-At its best this part of you does not look away from damage. Something you inherited is broken: an organization with a founding story that stopped being true, a practice that has drifted from what it was for, a family pattern nobody has named in three generations. Most people manage the discomfort of that by not seeing it. The Fixer/Healer sees it, names it, and starts work. That is the only reason anything inherited ever improves, though it will look like meddling to somebody. Every tradition still worth having had someone who noticed it failing and did something about it instead of calling the failure sacred.
+At its best this part of you does not look away from damage. Something you inherited is broken: an organization with a founding story that stopped being true, a practice that has drifted from what it was for, a family pattern nobody has named in three generations. Most people manage the discomfort of that by not seeing it. The Fixer/Healer sees it, names it, and starts work. That alone explains why anything inherited ever improves, though it will look like meddling to somebody. Every tradition still worth having had someone who noticed it failing and did something about it instead of calling the failure sacred.
 
 The repair itself is sound. The distortion is what gets attached to it.
 
-It arrives with a condition that sounds responsible. *I will commit to this once it is worth committing to.* Fix the governance, then take the role. Resolve the contradiction in the mission statement, then put your name on it. Get one more cycle of reform through and then, with a clear conscience, give yourself to the work. Every clause of that is defensible. The trouble is the ordering. It never changes. There is always one more cycle. There has to be. No inheritance ever arrives in working condition, and a standard that no real inheritance can meet is a permanent exemption dressed as rigor.
+It arrives with a condition that sounds responsible. *I will commit to this once it is worth committing to.* Fix the governance, then take the role. Resolve the contradiction in the mission statement, then put your name on it. Get one more cycle of reform through and then, with a clear conscience, give yourself to the work. Every clause of that is defensible. The ordering causes the trouble. It never changes. There is always one more cycle. There has to be. No inheritance ever arrives in working condition. A standard that no real inheritance can meet dresses a permanent exemption as rigor.
 
 Then comes the second move, the Healer half, costlier than the first. When the repair does not arrive, you supply it personally, out of your own body. The structure the organization lacks becomes the structure you hold in your head. The continuity it cannot generate becomes your continuity. The institutional memory nobody wrote down becomes your memory, and you become load-bearing in a way nobody voted on and nobody can see. You are not committing to the tradition. You are substituting for it. From outside, those look identical until you leave, when everyone discovers that what you were holding was you.
 
@@ -524,17 +524,17 @@ This daemon stands where it stands for a reason, in a book about allyship. Every
 
 The cost is generational, so it takes a long time to surface. The people coming after need something receivable: a role with a shape, a practice with the reason still attached, an account of why any of this is here. A personally-held inheritance offers them competence instead, unwritten, undelegated, and available only while its carrier is. The wrong never takes a nameable shape. Nothing remains to hand over when the hand-over comes.
 
-The chapter's myth lives here, flattering more than any other in the book. The myth is that allyship is sacrificing yourself. The Fixer/Healer makes that feel like the highest form of loyalty: pour yourself into the gap, absorb what the structure cannot hold, pay for the inheritance's brokenness out of your own account, indefinitely. It reads as devotion. Run it forward and it is the surest way to guarantee that nothing you carried survives you. A person who has made themselves the load-bearing wall cannot entrust anything, because there is nothing to entrust; there is only their continued presence. Sacrifice and stewardship point in opposite directions. One of them ends when you do.
+The chapter's myth lives here, flattering more than any other in the book. The myth is that allyship is sacrificing yourself. The Fixer/Healer makes that feel like the highest form of loyalty: pour yourself into the gap, absorb what the structure cannot hold, pay for the inheritance's brokenness out of your own account, indefinitely. It reads as devotion. Running it forward guarantees that nothing you carried survives you. A person who has made themselves the load-bearing wall cannot entrust anything, because there is nothing to entrust; there is only their continued presence. Sacrifice and stewardship point in opposite directions. One of them ends when you do.
 
 I have a part of me I call Mr. Inadequate. He has been showing up since I was twelve. He is not wrong: he accurately notes that I could fail, and that what I would fail is not mine, and that people I respect built it. More than once, I have watched myself hand him to the Fixer. The Fixer is happy to take him. The Fixer turns *I might not be equal to this* into a project plan, and a project plan holds much more comfortably than a verdict. I want you to see that arrangement, because it is the whole racket: the endless repair often stands in front of something that does not want to be met. Mr. Inadequate does not get to decide whether I try. He also does not get to be laundered into a work order.
 
 You do not fire the Fixer/Healer. If you fire the part of you that notices damage, you will spend your life tending structures that stopped working before you arrived, calling that faithfulness. You take the joystick back by giving it its actual jurisdiction and taking away the one it appointed itself to.
 
-*Tell me what is broken. All of it, in detail: that is the report I want. I will act on it. Whether I commit is not yours to decide. That was settled when I accepted this.*
+*Tell me what is broken, all of it, in detail. I want that report. I will act on it. Whether I commit is not yours to decide. That was settled when I accepted this.*
 
-Then put a number on it, because open-ended repair runs the shadow's entire method. The Regent works in years, so the deadline is not a breath: it is a count. *Give it one cycle. Once you name what changes in that cycle, I will do the work. At the end of it I am carrying this either way.* One cycle is enough for the question actually asked. It is not enough for the other one, nor was it ever meant to be.
+Then put a number on it, because open-ended repair runs the shadow's entire method. The Regent works in years, so the deadline counts years, not breaths. *Give it one cycle. Once you name what changes in that cycle, I will do the work. At the end of it I am carrying this either way.* One cycle is enough for the question actually asked. It is not enough for the other one, nor was it ever meant to be.
 
-It shows up in a single beat. Someone asks you to take the role: chair the meeting, hold the practice, put your name on it. Something in you says yes before you do; the inheritance arrives, on time, doing its job. Then the condition opens: *not until the charter gets rewritten, not while the last person's mess is still in it, not with the funding the way it is.* Each is true. Each is repairable. Two years on, the charter has been rewritten twice and the role still has no name. No list anywhere names the person doing all of it, because the job is a shape a body makes, not a role anyone can take over. On the narrow jurisdiction the same part returns the same report, but the answer changes: *here is what is broken, here is what I will fix in the first year, I am taking it now.* It carries the same rigor and the same eye for damage. What changed is what you gave it authority over.
+It shows up in a single beat. Someone asks you to take the role: chair the meeting, hold the practice, put your name on it. Something in you says yes before you do; the inheritance arrives, on time, doing its job. Then the condition opens: *not until the charter gets rewritten, not while the last person's mess is still in it, not with the funding the way it is.* Each is true. Each is repairable. Two years on, the charter has been rewritten twice and the role still has no name. No list anywhere names the person doing all of it, because the job takes the shape of the body that carries it. On the narrow jurisdiction the same part returns the same report, but the answer changes: *here is what is broken, here is what I will fix in the first year, I am taking it now.* It carries the same rigor and the same eye for damage. What changed is what you gave it authority over.
 
 *Bring one inheritance you have been repairing instead of accepting, a role you keep improving the conditions for, a practice you hold together personally because the structure will not. Name which move your Fixer is running: postponing the commitment, or substituting for the structure. Then name the cycle you would give it. Two minutes to capture it as a BAR.*
 
@@ -542,7 +542,7 @@ It shows up in a single beat. Someone asks you to take the role: chair the meeti
 
 ### 3-2-1 on Your Fixer/Healer
 
-The one described above is the generic Fixer/Healer. Yours has its own shape: work that one. Ten to fifteen minutes.
+The one described above names the generic Fixer/Healer. Yours has its own shape: work that one. Ten to fifteen minutes.
 
 **3 · FACE IT.** Third person, and not the version in this chapter. What does yours sound like when it opens a condition? Which move does yours run: postponing the commitment, or standing in for the structure? What is it holding up right now, unwritten? A paragraph, as much detail as you can hold, and give it a name if a name comes.
 
@@ -575,7 +575,7 @@ The tell is never the position. The tell is whether anything ever gets accepted.
 
 The Fixer/Healer developed does what nothing else in this chapter can do: it lets you say what is wrong with something you have already committed to. That combination comes rarer than it sounds. Most people manage one or the other, loyal and blind, or clear-eyed and uncommitted. Holding both lets an inheritance pass, because the next person needs the damage report and the commitment in the same hand.
 
-That lays the foundation this chapter builds on. What it trains is the Storyteller: what you received, put into a form the next person can receive. The account of where this came from, what it cost, what broke, what still holds, and why any of it is worth their time. That is how something survives its carrier.
+That lays the foundation this chapter builds on. It trains the Storyteller: what you received, put into a form the next person can receive. The account of where this came from, what it cost, what broke, what still holds, and why any of it is worth their time. That is how something survives its carrier.
 
 Your group carries a story about where it came from and who it has been. That story decides what the group protects and who belongs. Tell the story accurately and the group gets its choice back. Flatter the story and it hardens into a rule nobody may question.
 
@@ -588,7 +588,7 @@ Theirs is doing the same job in a Forest you cannot see into. A stranger's Fixer
 <!-- SECTION 6 -->
 ## What Winning Looks Like at the Regent's Altitude
 
-That is the shape of it. You've met the Fixer/Healer and named one inheritance out loud. Now, what does it actually look like in a real situation?
+That draws the shape of it. You've met the Fixer/Healer and named one inheritance out loud. Now, what does it actually look like in a real situation?
 
 The Regent's game is inheritance and stewardship. The Regent asks, in any situation: *what was handed to me here, what still serves, what am I tending on the days nobody watches, what needs reforming, and who am I handing this to when I'm done?*
 
@@ -600,9 +600,9 @@ The Regent's game is inheritance and stewardship. The Regent asks, in any situat
 
 In practice: When you take on a new role, a new team, a new responsibility, before you make a single change, spend time understanding what was handed to you. Ask: *why is this here? Who built this? What was it trying to do?* You may find the answer changes your entire approach.
 
-**Example:** You take over the team calendar and find a standing Friday-afternoon review that Yusuf has never once been able to make. Nobody built it against him, yet nobody has moved it in four years. Before you move it, find out what the Friday was for. A manager set it so the week would end on a decision. It still does that. Say both out loud: *this exists for a reason, but it has been costing one person for four years.* Naming both is the whole move. Moving it is Move 4.
+**Example:** You take over the team calendar and find a standing Friday-afternoon review that Yusuf has never once been able to make. Nobody built it against him, yet nobody has moved it in four years. Before you move it, find out what the Friday was for. A manager set it so the week would end on a decision. It still does that. Say both out loud: *this exists for a reason, but it has been costing one person for four years.* Naming both makes the whole move. Moving it is Move 4.
 
-**The test:** You named what arrived before you changed any of it. Finding something worth keeping is a bonus, not the bar. If the first change is already made, you skipped the move.
+**The test:** You named what arrived before you changed any of it. Finding something worth keeping earns extra credit; naming what would break decides whether you pass. If the first change is already made, you skipped the move.
 
 ### Move 2: Honor What Still Serves
 
@@ -610,9 +610,9 @@ In practice: When you take on a new role, a new team, a new responsibility, befo
 
 In practice: Make a list of three practices in your current inheritance that you would fight to protect. Not because they're perfect. Because removing them would break something real. The Regent protects what serves even while the Regent reforms everything else.
 
-**Example:** New leadership wants to retire the quarterly all-hands because attendance is down. Make the list of what breaks. One item on that list is Ruth, nineteen years in, the only person who can say why the escalation policy exists at all. The all-hands is where she says it. Name the breakage: *if we drop this we lose the one place the history gets told. The person who tells it retires in three years.* You may still lose the argument. Losing it with the breakage named is a different loss.
+**Example:** New leadership wants to retire the quarterly all-hands because attendance is down. Make the list of what breaks. One item on that list is Ruth, nineteen years in, the only person who can say why the escalation policy exists at all. The all-hands is where she says it. Name the breakage: *if we drop this we lose the one place the history gets told. The person who tells it retires in three years.* You may still lose the argument. Losing it with the breakage named costs differently.
 
-**The test:** You can say what would break if it were removed. Agreement from anyone else is a separate question. Anything you cannot name a breakage for is a preference wearing inheritance.
+**The test:** You can say what would break if it were removed. Agreement from anyone else raises a separate question. Anything you cannot name a breakage for merely dresses a preference as inheritance.
 
 ### Move 3: Keep the Vows
 
@@ -620,9 +620,9 @@ In practice: Make a list of three practices in your current inheritance that you
 
 In practice: Identify one commitment you've made that nobody watches you keep. Do it anyway. That's the Keeper of Vows in action. That's what makes you someone worth inheriting from.
 
-**Example:** Two years ago you told a team you would read every incident report yourself. Nobody has checked since. This month brings eleven, nine of them routine. Read the nine. Nobody will know either way, which is the point. The vow is not the reading. The vow is that what you said was true stays true on the day it costs you an hour and returns nothing.
+**Example:** Two years ago you told a team you would read every incident report yourself. Nobody has checked since. This month brings eleven, nine of them routine. Read the nine. Nobody will know either way; that proves the point. The vow is not the reading. The vow is that what you said was true stays true on the day it costs you an hour and returns nothing.
 
-**The test:** You kept it on the day it would have cost you nothing to drop it and nobody would have known either way. Being noticed is a separate question, usually answered no.
+**The test:** You kept it on the day it would have cost you nothing to drop it and nobody would have known either way. Being noticed raises a separate question, usually answered no.
 
 ### Move 4: Reform Without Erasing
 
@@ -650,9 +650,9 @@ The moves are what you do. The next question is where.
 
 ### Where You'll Actually Spend the Inheritance
 
-The parable showed one of the four: Skillful Organizing, the Regent building the council, the ceremony, and the roles that passed from person to person, so that when one person left the role stayed and the next could step into it. That is the domain where an inheritance stops depending on whoever holds it and becomes something a group can pick up.
+The parable showed one of the four: Skillful Organizing, the Regent building the council, the ceremony, and the roles that passed from person to person, so that when one person left the role stayed and the next could step into it. That marks the domain where an inheritance stops depending on whoever holds it and becomes something a group can pick up.
 
-The inheritance has four domains. One cheap habit imitates all four without being any of them. The cheap habit is the reform that postpones the commitment. You see what is wrong with what you were handed, name it accurately, and name it as a condition: this has to change before I can carry it. Most of those conditions are correct, each defensible on the day you say it. It costs nothing, because real reform spends loyalty earned by carrying something, which you have not done yet. One cycle of it never reads as a refusal, which is how it runs for a decade without once showing up as a decision anybody made. A second habit runs beside the first and looks like its opposite: rather than commit, you supply. The continuity the structure cannot generate becomes yours, held in your head. From outside that reads as devotion. Neither one accepts anything. The four domains are where the accepting shows: the inheritance claimed to the people who hold it with you, the reason said out loud while somebody still knows it, the hours asked for so one body stops being the structure, and the practice handed to a group in a shape it can run without you. Each costs more than a repair, because each puts your name against something you have agreed is yours.
+The inheritance has four domains. One cheap habit imitates all four without being any of them. The cheap habit runs the reform that postpones the commitment. You see what is wrong with what you were handed, name it accurately, and name it as a condition: this has to change before I can carry it. Most of those conditions are correct, each defensible on the day you say it. It costs nothing, because real reform spends loyalty earned by carrying something, which you have not done yet. One cycle of it never reads as a refusal, which is how it runs for a decade without once showing up as a decision anybody made. A second habit runs beside the first and looks like its opposite: rather than commit, you supply. The continuity the structure cannot generate becomes yours, held in your head. From outside that reads as devotion. Neither one accepts anything. The four domains are where the accepting shows: the inheritance claimed to the people who hold it with you, the reason said out loud while somebody still knows it, the hours asked for so one body stops being the structure, and the practice handed to a group in a shape it can run without you. Each costs more than a repair, because each puts your name against something you have agreed is yours.
 
 These four are not a syllabus. Pick where you'll spend the inheritance this week, and pick the domain you keep avoiding. If what you were handed only ever gets improved, one more cycle at a time, you did not make the Regent's move. You maintained it.
 
@@ -660,11 +660,11 @@ These four are not a syllabus. Pick where you'll spend the inheritance this week
 
 You carry an inheritance for years. The same three moves decide, in every domain, whether anybody can take it off you at the end.
 
-**Take it on in the condition it reached you in.** Nothing you inherit arrives in working order, so a rule that you will commit once the repairs are through is a rule with no day on it. The Fixer/Healer will always find you one more cycle, though the damage it reports is usually real. Watch what accepting buys: a repair named by somebody who has not committed is a request, and requests wait on whoever is in charge; the same repair named by somebody carrying it is a decision with a name against it. You take it on first, and never the other way round.
+**Take it on in the condition it reached you in.** Nothing you inherit arrives in working order, so a rule that you will commit once the repairs are through waits forever. The Fixer/Healer will always find you one more cycle, though the damage it reports is usually real. Watch what accepting buys: a repair named by somebody who has not committed stays a request; requests wait on whoever is in charge. The same repair named by somebody carrying it becomes a decision with a name against it. You take it on first, and never the other way round.
 
-**Put a name on what you are actually holding.** Most of a keeper's work leaves no trace, and the Healer half of your Fixer will take all of it into your own head, where it works and nobody else can hold it. Name it out loud instead, to whoever decides: this runs because somebody does these four jobs: me. A named job is a role. Roles pass from person to person. People do not.
+**Put a name on what you are actually holding.** Most of a keeper's work leaves no trace, and the Healer half of your Fixer will take all of it into your own head, where it works and nobody else can hold it. Name it out loud instead, to whoever decides: this runs because somebody does these four jobs: me. Naming the job makes it a role. Roles pass from person to person. People do not.
 
-**Hand it over while you are still there to be asked.** A hand-over on your way out transfers objects: files, a calendar, names to call. A hand-over a year early transfers what never got written down, because the person receiving it meets the first surprise while you are still in the building. Should you leave it to your last fortnight, what you hand over is a folder and a farewell lunch, where everybody thanks you warmly for work nobody can name.
+**Hand it over while you are still there to be asked.** A hand-over on your way out transfers objects: files, a calendar, names to call. A hand-over a year early transfers what never got written down, because the person receiving it meets the first surprise while you are still in the building. Should you leave it to your last fortnight, you hand over a folder and a farewell lunch, where everybody thanks you warmly for work nobody can name.
 
 **Direct Action — the inheritance claimed to its keepers**
 
@@ -697,13 +697,13 @@ Each Tell targets the Regent's signature failure: the inheritance carried so tha
 
 ## The Regent Is a Move You Run
 
-The Regent is a Face, but it is also a move you can run, which means you are not holding an archetype. You are holding a practice: the Five-Move Form's five movements.
+The Regent qualifies as a Face, but it also works as a move you can run. You are holding a practice: the Five-Move Form's five movements.
 
-The Regent's Show Up is the only one built entirely out of verbs for keeping: hold, keep, sustain, tend. Not one of them makes anything new. That marks the difference between building something and inheriting it. It also makes this the slowest practice of the six.
+The Regent's Show Up runs entirely on verbs for keeping: hold, keep, sustain, tend. Not one of them makes anything new. That marks the difference between building something and inheriting it. It also makes this the slowest practice of the six.
 
 ### Where the Daemon Bites
 
-A daemon is a rule in force at every move, which means five failures rather than one. The Fixer/Healer's:
+A daemon works as a rule in force at every move, which means five failures instead of one. The Fixer/Healer's:
 
 **Wake Up.** Asked what deserves attention, it returns what is damaged. Those are not the same list. You will never accept an inheritance you can only see the breaks in.
 
@@ -727,9 +727,9 @@ One pass through the Form. The Regent's version runs slower than the others: giv
 
 A reading that ends in a notebook is a reading you had. A reading that ends in a quest is one you played. Quests come out of Show Up, because that move ends in an artifact: something another person can encounter.
 
-One sentence: what you will do, who it reaches, by when, and what it costs you. *Tend the Structure* becomes: **I will write down how the intake process actually works, give it to Priya by the end of the month, and walk her through it once, though it will cost me being the only person who knows.** That is a quest. *I will delegate more* is not one; nobody can tell whether you did it, including you.
+One sentence: what you will do, who it reaches, by when, and what it costs you. *Tend the Structure* becomes: **I will write down how the intake process actually works, give it to Priya by the end of the month, and walk her through it once, though it will cost me being the only person who knows.** That counts as a quest. *I will delegate more* fails the test; nobody can tell whether you did it, including you.
 
-The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For a Regent the dread usually concerns becoming unnecessary. That is the dread to trust.
+The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For a Regent the dread usually concerns becoming unnecessary. Trust that dread.
 
 *Run the Form on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
 
@@ -744,7 +744,7 @@ The Regent did not leave the village because the villagers were wrong to need st
 
 The Architect becomes necessary here: the Regent can carry the tradition across time. The Regent can steward and reform and pass it on. The Regent cannot *design* what the tradition should become. The Regent inherits and tends. The Architect envisions and builds.
 
-Every tradition, at some point, needs more than stewardship. It needs a redesign: a new structure, a system that makes the right thing the easy thing for the people inside it. That is the Architect's work.
+Every tradition, at some point, needs more than stewardship. It needs a redesign: a new structure, a system that makes the right thing the easy thing for the people inside it. That belongs to the Architect's work.
 
 The villagers exiled the Architect for a specific reason: they mistook *seeing the system* for *not loving the people inside it.* If you can analyze it, the villagers said, you don't really love it.
 

@@ -8,7 +8,7 @@
 ---
 
 Chapter 1 is right that pen and paper hold this. A sheet you can only reach
-through a screen is a sheet you will not open in the four seconds you need it.
+through a screen will sit unopened in the four seconds you need it.
 
 There are thirteen lines, each stamped with the chapter that asks for it, so the sheet fills
 in the order you read. The stamp is also where to go back to. One line has no chapter
@@ -122,6 +122,5 @@ will stop covering* is.
 ## Rule your own
 
 Thirteen headings down a left-hand page, the date at the top, and enough space beside each
-one for a sentence you would not want read aloud. That is the whole design. Date every
-version. Across a year of play you can watch your face, your shadow and your myths move,
-which is the change you cannot see from inside a single week.
+one for a sentence you would not want read aloud. The design comes to just that. Date every
+version. Across a year of play you can watch your face, your shadow and your myths move — a change you cannot see from inside a single week.

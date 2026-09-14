@@ -11,11 +11,11 @@ The one that's calling, rather than the most urgent or the one you think you sho
 
 There are four of them.
 
-Movement builders knew this before this book existed — before the Five-Move Form, before the six Faces, before the walk through the Forest. People who were trying to change the world had already mapped the four types of work any movement needs: gathering resources, organizing conditions, taking direct action, raising awareness. This is inherited vocabulary from sixty years of serious organizing. What MTGOA adds is the interior work that makes each domain real — the capacity to show up in your chosen territory without the shadow running the show.
+Movement builders knew this before this book existed — before the Five-Move Form, before the six Faces, before the walk through the Forest. People who were trying to change the world had already mapped the four types of work any movement needs: gathering resources, organizing conditions, taking direct action, raising awareness. This is inherited vocabulary from sixty years of serious organizing. MTGOA adds the interior work that makes each domain real — the capacity to show up in your chosen territory without the shadow running the show.
 
-The failure mode that crosses all four domains is the same: most allyship breakdown isn't incompetence. It's domain mismatch. Someone doing Raise Awareness work when the situation needs Direct Action. Someone using Skillful Organizing when Gather Resources is the missing piece. Using the wrong type of work for the actual block — often without knowing there are four types to choose from.
+The same failure mode crosses all four domains: most allyship breakdown isn't incompetence. It's domain mismatch. Someone doing Raise Awareness work when the situation needs Direct Action. Someone using Skillful Organizing when Gather Resources is missing. Using the wrong type of work for the actual block — often without knowing there are four types to choose from.
 
-What follows is a map of each territory: what the work actually is, what it looks like when someone brings it skillfully, what happens when domains collapse into each other, and how mastery develops across each of the six capacities I name.
+What follows maps each territory: what the work actually is, what it looks like when someone brings it skillfully, what happens when domains collapse into each other, and how mastery develops across each of the six capacities I name.
 
 ---
 
@@ -23,7 +23,7 @@ What follows is a map of each territory: what the work actually is, what it look
 
 *Creating the material conditions so others can act. Money, time, access, connections, capacity, credibility — anything someone else needs to do the work they're trying to do.*
 
-Movement builders have known this territory for sixty years. It is the domain organizers tend to underestimate until the money runs out. Gather Resources is the work of ensuring that the people doing the work have what they need to keep doing it — which means understanding, precisely, what is depleted and what would restore it. Transfer, rather than charity or generosity as a feeling: the right thing moving from the person who has it to the person who needs it, at the right time.
+Movement builders have known this territory for sixty years. Organizers tend to underestimate it until the money runs out. Gather Resources makes sure the people doing the work have what they need to keep doing it — which means understanding, precisely, what is depleted and what would restore it. Transfer, rather than charity or generosity as a feeling: the right thing moving from the person who has it to the person who needs it, at the right time.
 
 *Who does this work:* donors making strategic investments rather than guilt payments; connectors who build relationships across power differentials; organizational leads managing institutional budgets; mutual aid coordinators tracking material need in real time; anyone whose access or privilege gives them something that could free up someone else's capacity.
 
@@ -37,7 +37,7 @@ The reverse collapse: using Raise Awareness as a substitute — sharing the stor
 
 *Shaman:* reads the emotional field to identify what's actually depleted before deciding what to offer. Shadow: sits with the feeling of what's needed without moving anything — attunement without transfer. Gift: knows exactly what form the resource needs to take, because the signal came before the strategy.
 
-*Challenger:* draws the hard line on where resources go and says so out loud. Shadow: withholds resources as moral positioning — refusal as performance of integrity rather than as strategic intervention. Gift: knows when stopping the flow IS the move, and can name that without apology.
+*Challenger:* draws the hard line on where resources go and says so out loud. Shadow: withholds resources as moral positioning — refusal as performance of integrity rather than as strategic intervention. Gift: knows when stopping the flow counts as the move, and can name that without apology.
 
 *Regent:* stewards inherited resources with care for what they're for. Shadow: protects the resource pool from depletion without moving it — "we need to be careful with these funds" as permanent holding pattern. Gift: understands that a resource held in perpetuity serves no one; can move the principal when the moment calls for it.
 
@@ -45,7 +45,7 @@ The reverse collapse: using Raise Awareness as a substitute — sharing the stor
 
 *Diplomat:* builds the trust networks that make cross-difference resourcing possible. Shadow: resources flow only within the in-group — to those who share the vocabulary and the social codes. Gift: builds enough trust across genuine difference that resources reach places they've never gone before.
 
-*Sage:* holds the meta-view of resource dynamics across all players and levels. Shadow: wise about resource flows without being in relationship with any of them — the advisor who never gives. Gift: knows when giving is the right move and when it would create dependency, distort power dynamics, or remove agency. Can give and can stop without either being a moral statement.
+*Sage:* holds the meta-view of resource dynamics across all players and levels. Shadow: wise about resource flows without being in relationship with any of them — the advisor who never gives. Gift: knows when giving serves as the right move and when it would create dependency, distort power dynamics, or remove agency. Can give and can stop without either being a moral statement.
 
 ---
 
@@ -53,7 +53,7 @@ The reverse collapse: using Raise Awareness as a substitute — sharing the stor
 
 *Building structures that let coordination hold across time. Coalition, infrastructure, roles, rituals, decision-making, succession. What transforms a moment of brilliance into sustained power.*
 
-The domain that keeps the work alive after the inspired moment passes. Skillful Organizing is the infrastructure underneath every sustained movement — the meeting protocols that don't require a charismatic facilitator, the decision-making structures that hold when the founder leaves, the roles that distribute leadership so the work doesn't collapse into one person's exhaustion.
+The domain that keeps the work alive after the inspired moment passes. Skillful Organizing builds the infrastructure underneath every sustained movement — the meeting protocols that don't require a charismatic facilitator, the decision-making structures that hold when the founder leaves, the roles that distribute leadership so the work doesn't collapse into one person's exhaustion.
 
 *Who does this work:* organizers, coalition managers, operations leads, community managers, anyone building the infrastructure for sustained collective action. The person who shows up after the march and figures out what comes next.
 
@@ -83,9 +83,9 @@ The reverse collapse: using Gather Resources when Skillful Organizing is needed 
 
 *Putting your body, voice, or presence where the moment requires it: showing up, speaking up, drawing the line, making happen what wasn't supposed to happen.*
 
-This is the most photogenic domain, and the one most mistaken for the whole of allyship.
+Direct Action draws more attention than the other three domains, often mistaken for the whole of allyship.
 
-Direct Action is the work of moving — when the moment needs a body in a specific place, a voice in a specific conversation, a decision made by someone willing to bear the cost of making it. It is irreplaceable and insufficient on its own. A movement made entirely of Direct Action burns through people without building the structures or resources that sustain change.
+It moves — when the moment needs a body in a specific place, a voice in a specific conversation, a decision made by someone willing to bear the cost of making it. It is irreplaceable and insufficient on its own. A movement made entirely of Direct Action burns through people without building the structures or resources that sustain change.
 
 *Who does this work:* activists, advocates, anyone with a body or voice to deploy at a moment of consequence. The person who speaks in the meeting when no one else will. The person who shows up when the moment costs something.
 
@@ -173,13 +173,13 @@ The person you are working with has the same seven, and theirs settle a differen
 
 Seven daemons across four domains makes twenty-eight cells: homework rather than a grammar. Three worked pairs carry the method:
 
-**Protector × Gather Resources.** Rent, a working lock, a place to sleep that nobody can take back. A Protector never trusted sincerity and never will; it trusts a threat that got smaller. Material safety is the only argument in the language it speaks.
+**Protector × Gather Resources.** Rent, a working lock, a place to sleep that nobody can take back. A Protector never trusted sincerity and never will; it trusts a threat that got smaller. Material safety carries the only argument in the language it speaks.
 
 **Skeptic × Raise Awareness.** Ask out loud the question they have suspected and never voiced. A Skeptic ran into a liar once and has stood watch since, so the cheapest clearance you will ever buy is saying what you do not know before they have to ask.
 
-**Damaged Self × Gather Resources.** Take load off, in a form that spares them describing the load. Same domain, same person, a different guard, and a completely different move, which is the whole reason this axis exists.
+**Damaged Self × Gather Resources.** Take load off, in a form that spares them describing the load. Same domain, same person, a different guard, and a completely different move, which explains why this axis exists.
 
-These pairs are starting defaults, exactly as the affinities above are. Any domain can serve any daemon, and a Controller met in Direct Action is an ordinary Tuesday.
+These pairs are starting defaults, exactly as the affinities above are. Any domain can serve any daemon; a Controller shows up in Direct Action on an ordinary Tuesday.
 
 ---
 
