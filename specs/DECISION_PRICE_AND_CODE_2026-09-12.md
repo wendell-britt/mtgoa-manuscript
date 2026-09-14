@@ -311,10 +311,18 @@ it cheap this close to the run.
 so the direct offer carries it or the differentiator does not exist for the buyer deciding
 between two tabs.
 
-## Two things not decided here
+## Both open questions closed, same day
 
-**Whether the 247 backer copies get signed.** They are a 2022 obligation being discharged
-rather than a sale, and signing them costs only time.
+**Wendell:** *"247 backer copies get signed. Not numbered."*
 
-**Whether the run is numbered as well as signed.** Wendell ruled signed. Numbering is a
-separate property and was not part of it.
+**Every copy of the run is signed — all 500.** The 247 discharging the Kickstarter
+obligation and the 253 sold at $40.
+
+**Nothing is numbered.** Signed is the whole property.
+
+### The scheduling consequence
+
+**500 signatures sit between the run arriving and the first copy shipping.** That is a
+single block of Wendell's time on the critical path to W0, and it is the only step in the
+physical plan that cannot be delegated, batched down, or done early — the books have to be
+in hand first.
