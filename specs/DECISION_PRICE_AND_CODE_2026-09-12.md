@@ -287,3 +287,34 @@ question was always asking about.
 The author-copy help page covers cost and shipping and says nothing about resale price, and I
 did not find a parity clause either way. **Worth reading the KDP Terms of Service before the
 run rather than after it.**
+
+
+---
+
+# RULED 2026-09-14 — the direct copy is signed
+
+**Wendell:** *"Signed copies solves this problem for me."*
+
+**The $40 copy is signed. The $30 Amazon copy cannot be.** That ends the comparison the
+section above named: the two prices stop hanging on an identical object, because Amazon
+prints on demand and cannot put a pen to the title page.
+
+## What it costs and what it does not touch
+
+**Nothing in the interior changes.** No spine entry, no component, no repagination, no
+proof to re-order. This ruling lives entirely outside the print file, which is what makes
+it cheap this close to the run.
+
+**It costs signing time.** 253 copies by hand, plus however many of the 247 get signed.
+
+**It has to appear wherever the $40 does.** The word *signed* is the whole differentiator,
+so the direct offer carries it or the differentiator does not exist for the buyer deciding
+between two tabs.
+
+## Two things not decided here
+
+**Whether the 247 backer copies get signed.** They are a 2022 obligation being discharged
+rather than a sale, and signing them costs only time.
+
+**Whether the run is numbered as well as signed.** Wendell ruled signed. Numbering is a
+separate property and was not part of it.
