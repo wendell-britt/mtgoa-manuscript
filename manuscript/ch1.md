@@ -57,7 +57,7 @@ The ones who will not let you carve them become your enemy. If they are not with
 
 That shock exposes the unflattering conflict the whole game is built on. Everything that makes you feel like a good person depends on other people needing your help. The role of the good ally only pays out while someone is still broken enough to need saving, which means some well-hidden part of you has a stake in the problem never fully resolving. I know how that reads. It was true about me, even though I had the framework that was supposed to prevent it. Your service runs on their need. The payouts are real and specific: the friends who love you for your fluency, your standing at work as the conscientious one, the small private certainty that you are one of the good ones. The game hands you every bit of it until the day you admit the game does not work. Walk away and you lose the things that told you who you were. Stay and you keep doing work you already know does not help.
 
-Before you read on, one instruction. (Yes, already — you just walked in and I'm handing you homework. Stay with me.)
+Before you read on, one instruction. (Yes, already: you just walked in and I'm handing you homework. Stay with me.)
 
 You came here to get better at this, and "this" will not hold still. Every year brings a new community to understand, a new history to catch up on, a new set of words to get right, and I promise you one more will emerge before you reach the last chapter. So you have been trying to study all of it at once, to be fluent in everyone, to never once be the person who gets it wrong. I know this move intimately. I did this move the entire time I was writing a whole book about not doing it.
 
@@ -94,7 +94,7 @@ It broke the day someone I had been "helping" told me, plainly, that my help had
 
 Here is the definition this book is built on.
 
-**Allyship is the practice of increasing another person's well-being while protecting the conditions that allow both of you to remain full players in the game.**
+**Allyship increases another person's well-being while protecting the conditions that keep both of you full players in the game.**
 
 Nothing in it asks whether you are good. The moment my help requires me to disappear, or turns you into a project or proof that I am good, we have left allyship. The definition guards the conditions where both of us can keep making real moves.
 

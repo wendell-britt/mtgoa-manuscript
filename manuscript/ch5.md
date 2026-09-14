@@ -208,7 +208,7 @@ When you participate in a living tradition, you're not submitting to an authorit
 
 That's what the Regent knows. That's what the Regent built. The weekly council isn't a bureaucratic obligation: it's a gift from every person who showed up to that council for the last thirty years and used it to work something out, so that when you show up, you have a structure to work in. The roles aren't cages: they're inheritance. Each person who fills the role adds something to it and passes it to the next person. The tradition *grows.*
 
-One belief makes the Regent's practice distinct: the Regent knows that traditions are *supposed* to change. A tradition that can't change is a tradition that has died: it's just still moving because nobody noticed. The Regent's actual practice is: *receive what was passed to you, honor what still serves, reform what no longer does, and pass something worth passing.*
+One belief makes the Regent's practice distinct: the Regent knows that traditions are *supposed* to change. A tradition that can't change has already died: it's just still moving because nobody noticed. The Regent's actual practice is: *receive what was passed to you, honor what still serves, reform what no longer does, and pass something worth passing.*
 
 <!-- MARGINALIA -->
 > *Halvane has both kinds. They mend everything and let the mend show — a replaced roof beam is
@@ -453,7 +453,7 @@ Solo, written or spoken, fifteen to twenty-five minutes.
 
 Its opposite already has a face. Pick them. Someone who let go of something you are still carrying and did not appear to grieve it, or who changed a practice you were holding and slept fine. It is not somebody on your side.
 
-**3 · FACE IT.** Two paragraphs, third person, as much detail as you can hold. How big is the charge, and where does it sit in you?
+**3 · FACE IT.** Two paragraphs, third person, as much detail as you can hold. How big does the charge feel, and where does it sit in you?
 
 **2 · TALK TO IT.** Greet them, then ask, and let them answer, three exchanges at minimum.
 
@@ -725,7 +725,7 @@ One pass through the Form. The Regent's version runs slower than the others: giv
 
 ### From Read to Quest
 
-A reading that ends in a notebook is a reading you had. A reading that ends in a quest is one you played. Quests come out of Show Up, because that move ends in an artifact: something another person can encounter.
+A reading that ends in a notebook stays a reading you had. A reading that ends in a quest is one you played. Quests come out of Show Up, because that move ends in an artifact: something another person can encounter.
 
 One sentence: what you will do, who it reaches, by when, and what it costs you. *Tend the Structure* becomes: **I will write down how the intake process actually works, give it to Priya by the end of the month, and walk her through it once, though it will cost me being the only person who knows.** That counts as a quest. *I will delegate more* fails the test; nobody can tell whether you did it, including you.
 

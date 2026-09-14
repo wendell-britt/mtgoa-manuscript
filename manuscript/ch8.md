@@ -226,7 +226,7 @@ Sera would say the ledger holds it. The ledger holds what a ledger can hold. Iri
 
 I have read all five of them for thirty years and nobody has read me, which I arranged, and which I am now told counts as a course I never took. I am the oldest first-year at this school. That lands as a joke and doubles as the timetable.
 
-The Sage described here is not the guru on the mountain who has risen above it all. Detachment has uses; the Sage runs it deliberately, for a purpose and a duration, the way you'd use any other instrument. This describes something else. Call it *committed seeing*: the capacity to take in all the altitudes and still choose to stand somewhere. The map is a claim you test against the people living inside it, not a perch you use to read them from. You play the game the moment requires without mistaking it for the only game there is. You draw the line or step back, then find out what your choice did.
+The Sage described here is not the guru on the mountain who has risen above it all. Detachment has uses; the Sage runs it deliberately, for a purpose and a duration, the way you'd use any other instrument. This describes something else. Call it *committed seeing*: the capacity to take in all the altitudes and still choose to stand somewhere. You test the map against the people living inside it, never using it as a perch to read them from. You play the game the moment requires without mistaking it for the only game there is. You draw the line or step back, then find out what your choice did.
 
 The Sage arrives when you've stood in the other five long enough to see them from the outside. You've felt with the Shaman. You've drawn lines with the Challenger. You've carried forward with the Regent. You've built with the Architect. You've held the field with the Diplomat. At each step, you also watched: *which game am I in, and which one does this moment actually require?*
 
@@ -372,7 +372,7 @@ The alchemy: you feel the arrogance rise, you name it (*I am using the altitude 
 **Alchemy Move 3: Diagnostician**  
 Flat sight: **Neutrality** → *Peace*
 
-Underneath the Diagnostician's first failure is flatness. Not sadness about what people can't see, something colder. The pattern shows fully, yet nothing in you moves about it. *This is a power game. This is harmony stuckness. This is a strategy problem wearing whole-board vocabulary.* All accurate, all delivered from a place with no stake in the outcome.
+Underneath the Diagnostician's first failure is flatness. Not sadness about what people can't see, something colder. The pattern shows fully, yet nothing in you moves about it. *This runs as a power game. This is harmony stuckness. This plays as a strategy problem wearing whole-board vocabulary.* All accurate, all delivered from a place with no stake in the outcome.
 
 Flat sight feels like objectivity and amounts to the Neutral channel stuck. The tell is that the naming costs you nothing. Real diagnosis has a temperature to it, because you name something that matters to you about people you intend to stay with.
 

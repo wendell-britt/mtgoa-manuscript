@@ -583,7 +583,7 @@ claims:
       - {file: manuscript/ch6.md, phrase: "They stopped filing you as reasonable."}
       - {file: manuscript/ch6.md, phrase: "Your standing had been running on that goodwill too"}
       - {file: manuscript/ch6.md, phrase: "Nobody has to come to you for it now."}
-      - {file: manuscript/ch7.md, phrase: "That was the end of never asking."}
+      - {file: manuscript/ch7.md, phrase: "That ended never asking."}
       - {file: manuscript/ch7.md, phrase: "The arrangement stopped looking like it worked for you."}
       - {file: manuscript/ch7.md, phrase: "You lost your reputation for making it work with whatever is there."}
       - {file: manuscript/ch7.md, phrase: "You gave up the credit for still listening."}
@@ -972,5 +972,5 @@ claims:
       - {file: manuscript/ch4.md, phrase: "What this chapter trains is clarity without cruelty"}
       - {file: manuscript/ch2.md, phrase: "By the end of this chapter, you should know:"}
       - {file: manuscript/ch1.md, phrase: "Appendix G says where to read them."}
-      - {file: manuscript/ch7.md, phrase: "Every move in this chapter is an instrument for making that sentence true."}
+      - {file: manuscript/ch7.md, phrase: "Every move in this chapter builds an instrument for making that sentence true."}
       - {file: manuscript/ch8.md, phrase: "That sentence is what every move in this chapter is for."}

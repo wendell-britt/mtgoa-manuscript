@@ -488,7 +488,7 @@ RECORDS = {
 *Third note, added this year. I can pass an inheritance intact and named, which is the whole of what this school claims. I have not learned to hand one to somebody who will change it without entering the change as damage, and my own ledgers are the reason that is hard.*"""),
     ],
     7: [
-        ('That decision is an accurate reading of a specific misuse.',
+        ('That decision names a specific misuse accurately.',
          """*Case forty-one. Both transcripts, hers first.*
 
 *She said: I need you to stop. Later, to me: I thought I was asking.*

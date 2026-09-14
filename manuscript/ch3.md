@@ -36,9 +36,9 @@
 > The instrument does not recalibrate in private. Three have come back after a decade to begin
 > again, and I took them.
 >
-> **4. What we do not teach.** What to do about the feeling once I have it. Two responses are possible, neither of them mine. If the situation needs a sentence said to a face, the School of the Line
-> runs it. If it needs the pattern changed so the feeling stops
-> arriving in the first place, the School of the Pattern runs it.
+> **4. What we do not teach.** What to do about the feeling once I have it. Two responses are possible, neither of them mine. If the situation needs a sentence said to a face, that is
+> the School of the Line. If it needs the pattern changed so the feeling stops
+> arriving in the first place, that is the School of the Pattern.
 >
 > **5. Entry.** None. Everyone begins here, including those who arrive certain they are past
 > it. I have been wrong about who was past it.
@@ -136,7 +136,7 @@ It just stopped *knowing what to do with feelings.*
 
 The villagers still experienced fear. Fear that the work would go wrong, fear of not being good enough, fear of getting blamed if something in the allyship went sideways. Without the Shaman to say "fear is your compass, it's showing you where the real risk lives," fear became noise. A symptom to be managed, suppressed, medicated away. They learned to not-feel the fear, which meant they also missed the intelligence the fear was carrying. They became brittle, reactive, defended.
 
-The villagers still experienced anger. Righteous anger at systems that needed to change, anger at injustice, anger at the slowness of change. Without the Shaman to say "anger is a boundary signal, it's telling you what matters," anger became dangerous. Something to be careful with. They learned to redirect anger *outward* at the systems, the bad people, the ones who weren't as woke. They forgot that anger could also point inward, showing you where your own boundaries got crossed, what you actually cared about beneath the performance.
+The villagers still experienced anger. Righteous anger at systems that needed to change, anger at injustice, anger at the slowness of change. Without the Shaman to say "anger flags a boundary, it's telling you what matters," anger became dangerous. Something to be careful with. They learned to redirect anger *outward* at the systems, the bad people, the ones who weren't as woke. They forgot that anger could also point inward, showing you where your own boundaries got crossed, what you actually cared about beneath the performance.
 
 The villagers still experienced sadness. The sadness of loss, of failed attempts, of communities that broke. Without the Shaman to say "sadness is how we honor what mattered," sadness became shameful. A sign that you weren't resilient enough. They learned to skip over sadness, to move quickly past it into "lessons learned" and action items. They forgot how to let sadness teach. So they kept hitting the same losses over and over, unable to actually grieve what they had lost.
 
@@ -201,7 +201,7 @@ The original emotion turns into *action.* The feeling converts into *fuel.* Acti
 
 Real emotional alchemy means staying with the emotion long enough to understand what it's actually saying. To let your body complete the cycle it needs to complete. To let the emotion teach you something about reality that only that emotion can teach.
 
-When you do this, when you make space for fear instead of overriding it, fear teaches you what you actually care about, past whatever you would state — the ones you'd die for with no one watching, without the post. Because fear shows up at the boundary of what matters to you. It shows up when something you're attached to is at risk. It shows you your real values, not your performed values. Your real priorities, not your productivity system.
+When you do this, when you make space for fear instead of overriding it, fear teaches you what you actually care about, past whatever you would state, the ones you'd die for with no one watching, without the post. Because fear shows up at the boundary of what matters to you. It shows up when something you're attached to is at risk. It shows you your real values, not your performed values. Your real priorities, not your productivity system.
 
 
 When you do this with joy, the one that only looks easy (it requires you to stop moving, harder than anything else the School of the Body teaches), when you *stay* in joy instead of using it for fuel, joy teaches you what's aligned. Joy shows up when you're doing something that matches your actual values, your actual gifts, your actual becoming. Joy is not the same as happiness or productivity. Joy says "yes. This is real. I am home."
@@ -278,7 +278,7 @@ That structure has a name: the Five-Move Form.
 
 *Form* is the martial artist's exact word. A form means a fixed order of moves you run alone, slowly, ten thousand times, so that on the day a hard moment arrives fast your body already knows where it is going. You learn it in pieces and never finish. The beginner and the master run the same form; what separates them lives inside the same five moves.
 
-The Five-Move Form is a progression through five stages that can happen in ten seconds or ten hours depending on the depth and context. It moves emotional energy from activation → contact → clarity → integration → action.
+The Five-Move Form runs through five stages that can happen in ten seconds or ten hours depending on the depth and context. It moves emotional energy from activation → contact → clarity → integration → action.
 
 ---
 

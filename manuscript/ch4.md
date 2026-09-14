@@ -140,7 +140,7 @@ You already carry a version of the clean no. You've been calling it something el
 
 The villagers hear the clean no as aggression: the angry one, the difficult one, the one who makes it worse before it gets better, someone who says no because they want to win. I was nineteen when people who meant well told me that. I believed them for another thirty years. The version they described does exist (you've probably met them), but it is not what we're talking about here.
 
-The School of the Line will not turn you into an asshole. The clean no is the practice of **stating a boundary without apologizing for it, collapsing it, or converting it into a request.**
+The School of the Line will not turn you into an asshole. The clean no **states a boundary without apologizing for it, collapsing it, or converting it into a request.**
 
 Notice what that last part says: *without converting it into a request.* Because the villagers have gotten very sophisticated about this. The villagers have learned to make their nos sound like preferences, their lines sound like suggestions, their non-negotiables sound like flexible guidelines. "I'd prefer not to" when the actual truth is "I won't." "I'd appreciate it if we could" when the actual truth is "this has to stop." (That email gets written more than any other in professional life.)
 
@@ -201,7 +201,7 @@ The Challenger's pair: the force it takes to move something versus the restraint
 
 **Force** means spending yourself on a crossing, saying the unwelcome sentence, drawing the line, making the demand, accepting the cost of being the one who did. Force makes a moment cost more, because you were in it. Once you agree to be the one who pays for the crossing, the aggression becomes force.
 
-**Restraint** means declining to spend — on this, for now, from me. Restraint is what keeps a no worth something; a person who draws a line at everything has not drawn one, because the line stops being information about the world and turns into weather. You will look like a coward. The coward could not have spoken. You could.
+**Restraint** means declining to spend, on this, for now, from me. Restraint is what keeps a no worth something; a person who draws a line at everything has not drawn one, because the line stops being information about the world and turns into weather. You will look like a coward. The coward could not have spoken. You could.
 
 Both poles have failure states that do not mirror each other. Force without restraint becomes a hazard: every charge becomes a line, every line becomes a confrontation, and the people around you begin managing you instead of working with you. Restraint without force is furniture: present at every table, costing no one anything, changing nothing that would have happened anyway.
 
@@ -260,7 +260,7 @@ Before you can use the fire, you need to know what shape it comes in:
 
 5. **The Reckoning.** Naming the cost. *"If you do X, here is what happens."* The Reckoning states a consequence plainly. A natural result made visible. A threat has to manufacture the consequence; the Reckoning only reports it.
 
-A Line without a Reckoning is a request. A Demand without a Refusal is a plea. The Challenger knows which mode the moment requires.
+A Line without a Reckoning lands as a request. A Demand without a Refusal lands as a plea. The Challenger knows which mode the moment requires.
 
 ### EA Channel Alignment — How Each Mode Moves Energy
 
@@ -276,9 +276,9 @@ The Shaman taught you in Chapter 3 to read the five channels of emotional alchem
 
 Whatever you are carrying when the moment comes, one of these five will spend it. Confrontation makes no demand on your mood at the door.
 
-**The Interrupt** (Metal/Fear → Wonder): Breaking a pattern mid-flight means you do not know what the next thirty seconds contain. Fear reads that correctly. The contraction attempts to know in advance. Nothing can be known in advance, so no amount of thinking harder resolves the fear. Wonder is what the same not-knowing becomes when you stop treating it as threat: the field after an interrupt opens in a way it had not a second earlier. Open is the condition Metal is for. *I can explore.* You interrupted. Something unscripted is happening now, yet you are still here.
+**The Interrupt** (Metal/Fear → Wonder): Breaking a pattern mid-flight means you do not know what the next thirty seconds contain. Fear reads that correctly. The contraction attempts to know in advance. Nothing can be known in advance, so no amount of thinking harder resolves the fear. Wonder is what the same not-knowing becomes when you stop treating it as threat: the field after an interrupt opens in a way it had not a second earlier. Open marks the condition Metal is for. *I can explore.* You interrupted. Something unscripted is happening now, yet you are still here.
 
-**The Refusal** (Earth/Neutrality → Peace): This one surprises people who expect the clean no to run on anger. Anger is the Line's fuel. The Refusal's opposing force is Earth gone flat: the automatic yes, going along because going along costs nothing you can feel in the moment. Numbness is Neutrality stuck. It explains why most nos never get said: nothing arrived to say them with. Peace is Neutrality satisfied. *I can rest.* The test of a real refusal is not how it sounded. It is whether you slept.
+**The Refusal** (Earth/Neutrality → Peace): This one surprises people who expect the clean no to run on anger. Anger fuels the Line. The Refusal's opposing force is Earth gone flat: the automatic yes, going along because going along costs nothing you can feel in the moment. Numbness is Neutrality stuck. It explains why most nos never get said: nothing arrived to say them with. Peace is Neutrality satisfied. *I can rest.* The test of a real refusal is not how it sounded. It is whether you slept.
 
 **The Reckoning** (Water/Sadness → Poignance): Naming a cost requires the sadness underneath the anger, which is what it costs to watch something you love get violated by someone still at the table. Sadness stuck turns the reckoning into an accusation. Once it anchors instead of drowning, it becomes Poignance, whose capability is connection: *I can connect.* The consequence gets named and the person stays someone you are in relationship with. That combination makes the whole difference between a reckoning and a threat.
 
@@ -302,7 +302,7 @@ The sequence used to skip this stage. Skipping it lets a reader execute every ot
 
 Taking it back has a specific sound. *I mean, obviously there's context.* *I'm probably overreacting.* *I just wanted to flag it.* Every one of those offers a repair for a rupture that has not happened yet, converting the line into a preference. Nothing about the retraction feels like retraction from the inside. It feels like being reasonable.
 
-Standing is the decision not to fill that space. It does not glare or wait for capitulation: the line does not need to win, it needs to still stand when the conversation moves on. In practice it takes a small physical act rather than a mental one: you finish the sentence, then do not add another one. It runs the shortest of the five and fails the most often.
+Standing refuses to fill that space. It does not glare or wait for capitulation: the line does not need to win, it needs to still stand when the conversation moves on. In practice it takes a small physical act rather than a mental one: you finish the sentence, then do not add another one. It runs the shortest of the five and fails the most often.
 
 The Diplomat has a stage called Hold, three chapters from here, a different animal entirely, sustained containment of a charged field over the length of a hard conversation, sometimes over months. This one lasts four seconds and its only content is subtraction. Stand is what you do with your own line. Hold is what you do with everyone else's.
 
@@ -366,7 +366,7 @@ The Challenger does not live in constant confrontation. The Challenger lives in 
 
 Everything above builds the system. You carry this one move out of the Forest and into the Village this week: the meeting, the group chat, the dinner table. Interior work is free. The Village is where the no has a price. This is how you pay it cleanly.
 
-You are in a meeting. Someone says something that crosses a line — a small violation, but a real one. Something that dismissed a community you care about. Something that was said *casually,* the way people talk when they don't know who is listening.
+You are in a meeting. Someone says something that crosses a line, a small violation but a real one. Something that dismissed a community you care about. Something that was said *casually,* the way people talk when they don't know who is listening.
 
 Here is the Challenger's 30-second protocol:
 
@@ -744,13 +744,13 @@ Each Tell targets the Challenger's signature failure: the line drawn for the rec
 
 ## The Challenger Is a Move You Run
 
-The Challenger is a Face, but it is also a move you can run, which means you are not holding an archetype. You are holding a practice: the Five-Move Form, which you have been running since Chapter 3.
+The Challenger works as a Face, but also as a move you can run, which means you are not holding an archetype. You are holding a practice: the Five-Move Form, which you have been running since Chapter 3.
 
 Notice what happens as you go down the five. Wake Up names what you refuse to see. Show Up names what you do in front of other people. That draws the Challenger's arc: it starts at what you refuse to see and ends at something you did with witnesses.
 
 ### Where the Daemon Bites
 
-A daemon is a rule, and a rule in force the whole way down produces a different failure at every move. The Skeptic's five:
+A daemon holds one rule in force the whole way down, producing a different failure at every move. The Skeptic's five:
 
 **Wake Up.** It notices resistance, always somebody else's. What resists being seen gets located outside you before the noticing has finished, and the hand holding the instrument escapes it.
 
@@ -772,9 +772,9 @@ Five moves, one pass, ninety seconds.
 
 ### From Read to Quest
 
-A reading that ends in a notebook is a reading you had. A reading that ends in a quest is one you played. Quests come out of Show Up, because that move ends in an artifact: something another person can encounter.
+A reading that ends in a notebook stays a reading you had. A reading that ends in a quest is one you played. Quests come out of Show Up, because that move ends in an artifact: something another person can encounter.
 
-One sentence: what you will do, who it reaches, by when, and what it costs you. *Draw the Line* becomes: **I will tell the hiring panel on Thursday that I cannot support rejecting her unless somebody names the behavior, without softening it into a question, though it will cost me being the easy vote on that panel.** That is a quest. *I will be more direct* is not one; nobody can tell whether you did it, including you.
+One sentence: what you will do, who it reaches, by when, and what it costs you. *Draw the Line* becomes: **I will tell the hiring panel on Thursday that I cannot support rejecting her unless somebody names the behavior, without softening it into a question, though it will cost me being the easy vote on that panel.** That qualifies as a quest. *I will be more direct* does not; nobody can tell whether you did it, including you.
 
 The tell that a quest is alive is not enthusiasm. It arrives as anticipation with some dread underneath it. For a Challenger the dread usually arrives first. That counts as a good sign and a hard one.
 
@@ -803,7 +803,7 @@ Underneath every part of it runs the Disruptor: the willingness to be unwelcome 
 
 The Challenger can draw the line. The Challenger cannot *hold* the line across scale and time.
 
-A line held in the moment is a boundary. A line held across seasons, across people, across generations, becomes something else: a tradition, an institution, a role with a name and a history. That names the Regent's work. The Regent does not draw the lines: the Regent builds what carries them forward.
+A line held in the moment becomes a boundary. A line held across seasons, across people, across generations, becomes something else: a tradition, an institution, a role with a name and a history. That names the Regent's work. The Regent does not draw the lines: the Regent builds what carries them forward.
 
 The Challenger's no, without the Regent, lasts one conversation. The Challenger's no, carried by the Regent, becomes a founding principle.
 

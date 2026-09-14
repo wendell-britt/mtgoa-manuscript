@@ -46,7 +46,7 @@ The distortion crept in slowly, the way most distortions do, as an understandabl
 
 Villagers heard the six Faces and named types: the Shaman type, the Challenger type, the Regent type, the Architect type, the Diplomat type, the Sage type. Anyone who wasn't one of those, who didn't naturally feel-first, or draw-lines, or build-systems, wasn't doing it right.
 
-Villagers forgot that the Faces were a map, not a menu. That you don't *become* one of them: you *move through* all of them, depending on what the moment requires. That the goal asks for something else: playing any game the villagers need played, whatever the moment requires, rather than arriving at Sage and staying there.
+Villagers forgot that the Faces map the terrain; they do not hand you a menu. That you don't *become* one of them: you *move through* all of them, depending on what the moment requires. That the goal asks for something else: playing any game the villagers need played, whatever the moment requires, rather than arriving at Sage and staying there.
 
 A Player in distortion emerged in its place.
 
@@ -213,7 +213,7 @@ One tell separates real building from the kind that's secretly avoidance. It has
 
 Genuine building points outward. You make it so it can meet a person: a reader, a player, a colleague, your kid. You want it in front of them, even though that's the scary part. The work goes somewhere. The somewhere has a face.
 
-The Player in distortion builds in the other direction: inward, in circles, away from anyone who might actually receive it. The building becomes abstract — endless revisions, infinite drafts. I'll redesign the same mechanic six times, each redesign letting me dodge what the work actually needs: putting it in front of someone and seeing what happens. It looks like progress. It's a very sophisticated way of hiding.
+The Player in distortion builds in the other direction: inward, in circles, away from anyone who might actually receive it. The building becomes abstract: endless revisions, infinite drafts. I'll redesign the same mechanic six times, each redesign letting me dodge what the work actually needs: putting it in front of someone and seeing what happens. It looks like progress. It's a very sophisticated way of hiding.
 
 So keep asking the question that planning-disguised-as-building cannot survive: *is this draft moving toward someone, or away from them?* Real building gets handed over, even unfinished. Avoidance keeps it safe, and perfect, and unmet.
 
@@ -388,7 +388,7 @@ Some of you are resisting the word.
 
 *I don't start anything. I'm not an entrepreneur. I don't have a business in me. I'm a helper, a teacher, a parent, a friend, not a founder.*
 
-Founder is not a personality type. Founder is a mode. The mode activates the moment you decide to create something that didn't exist before you. Sometimes an organization comes out of that. Usually nothing does.
+Founder is not a personality type. Founder works as a mode. The mode activates the moment you decide to create something that didn't exist before you. Sometimes an organization comes out of that. Usually nothing does.
 
 The culture never tells you this: the Founder move probably already sits somewhere in your history. A tradition in a family that wasn't there until somebody started it. A conversation held differently than the generation before would have held it. Somebody broke a pattern with a child, a sibling, a friend. A community that exists because one person kept inviting people until it did. Look for the one that's yours.
 
@@ -531,7 +531,7 @@ That names the Player's game. Five moves. Cut the field until the problem can fa
 
 ---
 
-**The five moves are the map. The practice is the walking.**
+**The five moves draw the map. The practice walks it.**
 
 The practice is what you do between the moves. The moves name what to do. The practice is doing them, repeatedly, in real situations, with real stakes. A list of moves is not a practice any more than a recipe counts as a meal. Having the moves is like having a map. The walk is what happens when you actually go.
 

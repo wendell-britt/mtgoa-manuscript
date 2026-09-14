@@ -156,7 +156,7 @@ That decision names a specific misuse accurately. Accuracy explains why nobody h
 > *The terms I wrote at that table have held eleven years. Nobody has mentioned them. I notice that I have written that down. Whether wanting the sentence is a defect in me or a condition of the work is the open question here, and I am the wrong person to settle it.*
 <!-- /HANDBOOK -->
 
-Honest terms work as the opposite instrument. **A term is a statement of what this field must hold for your staying to remain real, offered as information, once, to the people who are then free to answer.** It states a fact about the arrangement rather than a demand or a condition of continued affection, and arrives while anyone still has time to do something with it.
+Honest terms work as the opposite instrument. **A term states what this field must hold for your staying to remain real, offered as information, once, to the people who are then free to answer.** It states a fact about the arrangement rather than a demand or a condition of continued affection, and arrives while anyone still has time to do something with it.
 
 The difference is not tone. The Diplomat's altitude gets it wrong here most often, because this altitude excels at tone. An ultimatum said warmly is still an ultimatum. An honest term said flatly is still an honest term. The difference is structural: an ultimatum removes the other party's freedom to answer, while an honest term gives the answer back to them. That answer is only free when refusal will not cost them safety, livelihood, or standing. A clean sentence cannot make an unequal negotiation equal. You cannot decline something you were never told about. People who do not know what your staying requires have never had the chance to choose it.
 
@@ -395,7 +395,7 @@ The alchemy: *I stop announcing that the field is open and find out whether anyo
 
 The Field-Holder's secondary Dissatisfaction is **hothouse safety**, a field you keep so comfortable that nobody says the sentence that would cost them anything. It looks like health to everyone keeping it that way. The family dinner stays warm, the standup stays pleasant, the two of you stay kind with each other, the community meeting ends on time. Everyone leaves carrying what they walked in with. A field protected from charge stays small, and the people making it learn to bring less of themselves to match.
 
-The alchemy: *I stop protecting the field and start building one that can take weather.* When you say the hard sentence and stay, the field turns out to hold. Now experience has taught them what words could not: the field survives contact. Each round of that raises what it carries next time. Hardy is a gardener's word. It has never described a plant somebody kept warm.
+The alchemy: *I stop protecting the field and start building one that can take weather.* When you say the hard sentence and stay, the field turns out to hold. Now experience has taught them what words could not: the field survives contact. Each round of that raises what it carries next time. Hardy comes from gardening. It has never described a plant somebody kept warm.
 
 **From Presence to Structure**
 
@@ -411,7 +411,7 @@ The structural pattern here is **presence collapse**: withdrawing the moment som
 
 Staying spends real capacity. Naming that cost belongs to the holding, because unnamed depletion eventually becomes disappearance.
 
-*What the Field-Holder is for is the willingness to stay when staying is difficult. Not to fix the field, not to calm it down. To be the presence that lets the people making it move through what they need to move through.*
+*The Field-Holder exists for one job: the willingness to stay when staying is difficult. Not to fix the field, not to calm it down. To be the presence that lets the people making it move through what they need to move through.*
 
 ---
 
@@ -449,7 +449,7 @@ The structural pattern here is **premature closure**: the Repairer wants to fini
 
 The cost here is time. Real repair takes longer than performance repair, and that slower pace is what makes the repair trustworthy.
 
-*What the Repairer is for is the capacity to sit in a wound until it heals rather than rush past it. A truly repaired field holds stronger at the seam than it did before the break.*
+*The Repairer exists for one job: the capacity to sit in a wound until it heals rather than rush past it. A truly repaired field holds stronger at the seam than it did before the break.*
 
 ---
 
@@ -503,7 +503,7 @@ This is where **Refuse False Equivalence** lives inside the Fire channel, not as
 
 *When negotiation fails, when someone refuses to name stakes, when harmony is cover for harm, when the field cannot hold truth, the Challenger's clean no becomes the next move. That is Chapter 4's game. Negotiate first, and draw the line when the field cannot hold truth.*
 
-*What the Integrative Negotiator is for is the capacity to close. It is not harmony instead of truth but harmony that includes truth. A field the parties have truly negotiated is not softer at the close. It is more real.*
+*The Integrative Negotiator exists for one job: the capacity to close. It is not harmony instead of truth but harmony that includes truth. A field the parties have truly negotiated is not softer at the close. It is more real.*
 
 ---
 
@@ -529,7 +529,7 @@ Solo, written or spoken, fifteen to twenty-five minutes.
 
 Pick the person. Someone who took a side while you were still holding the range, who spent a relationship on an outcome and did not seem to bleed for it. Somebody you would not describe as gracious.
 
-**3 · FACE IT.** Two paragraphs, third person, as much detail as you can hold. How big is the charge, and where does it sit in you?
+**3 · FACE IT.** Two paragraphs, third person, as much detail as you can hold. How big does the charge feel, and where does it sit in you?
 
 **2 · TALK TO IT.** Greet them, then ask, and let them answer, three exchanges at minimum.
 
@@ -834,7 +834,7 @@ The five moves are this chapter, in order. Grow Up asks about other people by de
 
 ### Where the Daemon Bites
 
-A daemon is a rule in force at every move, which means five failures rather than one. The Victim's:
+A daemon holds one rule in force at every move, which means five failures rather than one. The Victim's:
 
 **Wake Up.** It notices relationships accurately and files them by balance. Asked what relational dynamics matter, it returns who owes whom. The reading is good. The output keeps an account.
 
@@ -856,7 +856,7 @@ Five moves, one pass, ninety seconds. Of the five, a balance interrupts the Dipl
 
 ### From Read to Quest
 
-A reading that ends in a notebook is a reading you had. A reading that ends in a quest is one you played. Quests come out of Show Up, because that move ends in an artifact: something another person can encounter.
+A reading that ends in a notebook stays a reading you had. A reading that ends in a quest is one you played. Quests come out of Show Up, because that move ends in an artifact: something another person can encounter.
 
 One sentence: what you will do, who it reaches, by when, and what it costs you. *Bring Them Into the Structure* becomes: **I will put the two people who have been running intake without a title into the decision that names it, at Thursday's meeting, though it will cost me being the one who explains them to everybody else.** That counts as a quest. *I will be more inclusive in how decisions get made* is not one; nobody can tell whether you did it, including you.
 

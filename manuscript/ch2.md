@@ -46,9 +46,9 @@ Anyone who's been in this work long enough has met themselves at the edge of the
 
 You know the feeling that came with yours.
 
-*That feeling is the Shadow.*
+*That feeling has a name: the Shadow.*
 
-Carolyn Elliott, whose work on shadow retrieval grounds the daemon work in this book, was precise about it: the Shadow is the material you disowned, a pattern that has been doing something specific for you.
+Carolyn Elliott, whose work on shadow retrieval grounds the daemon work in this book, was precise about it: the Shadow holds the material you disowned, a pattern that has been doing something specific for you.
 
 The **Shadow** is the disowned material itself. When one of your Faces runs *from* that material instead of being chosen, you get that **Face in distortion**: the gift turned against the people it was meant to serve. When a daemon runs the show instead of you, it exacts a **cost**, paid by you and by whoever you were trying to help. Shadow, distortion, cost. The work is telling them apart.
 
@@ -100,11 +100,11 @@ So here is the rule:
 
 You cannot draw a boundary you have never felt in your own body. You cannot hold someone else's pain without first being able to hold your own. You cannot challenge a system you do not understand. You cannot stay in the conversation when it gets hard unless you know what runs you under pressure.
 
-Knowing what you're made of requires going somewhere the world doesn't see. That somewhere is the Forest.
+Knowing what you're made of requires going somewhere the world doesn't see. That somewhere has a name: the Forest.
 
 One note about the daemons before you meet them. I do not know whether a mind really holds eight separate voices. What I know is that treating a reaction as somebody with a job gets you further than treating it as a flaw with your name on it, and that the practice works whether or not the furniture is real.
 
-The Forest is the place where the work actually happens: the inner landscape where the daemons wait, where you finally meet the parts that have been running the show, and where you can recognize the superpower shaped by your specific history and put it to work.
+In the Forest the work actually happens: the inner landscape where the daemons wait, where you finally meet the parts that have been running the show, and where you can recognize the superpower shaped by your specific history and put it to work.
 
 The people trying to fix the world keep running into the same problem: themselves.
 
@@ -278,7 +278,7 @@ Seven daemons live in the Forest, and the player at its center is you. You're no
 You meet the seven walking in, in this order. Each one gets a short entry: what it does, how it shows up once it's your ally, how it shows up as a demon still running the show, and a moment you might catch each one in play.
 
 **The Protector**
-**Job:** To keep you alive. It is the body's embodied sense of self-preservation.
+**Job:** To keep you alive. It runs on the body's raw sense of self-preservation.
 **As an ally:** it guards you against real danger, the kind that would actually threaten your body. *In play:* a car swerves toward you and you are out of its path before you have decided anything. When the danger is real, the Protector does not wait for you.
 **As a demon:** it protects the self at all costs, and won't extend that protection to anyone else unless it widens its own identity to include them. When it does, those people stop being separate people you're allying with and become an extension of your body to protect. *In play:* a hard email arrives and the Protector runs it as a physical threat. You answer armored. The other person meets the armor before they reach you.
 
@@ -315,7 +315,7 @@ You meet the seven walking in, in this order. Each one gets a short entry: what 
 
 ### The Protector, Up Close
 
-The Protector works the door of the Forest. You meet it first, the most physical of the seven. The Protector is the hull of the ship, the body itself, holding its shape, keeping the water out, taking the hit when a hit comes. It does not argue or explain; it braces. It knows danger before you could prove it to anyone.
+The Protector works the door of the Forest. You meet it first, the most physical of the seven. The Protector works as the hull of the ship, the body itself, holding its shape, keeping the water out, taking the hit when a hit comes. It does not argue or explain; it braces. It knows danger before you could prove it to anyone.
 
 The instant something reads as a threat (a shift in tone, a move for power), the Protector has already braced to meet it, faster than thought. That speed has kept you alive. The next chapter teaches you to read the fear channel it runs on.
 
@@ -327,7 +327,7 @@ When the Protector holds the joystick, you walk into a conversation already armo
 
 This daemon, of all seven, stands at the threshold of a book about allyship for a reason. You can hardly protect anyone else while your own hull is breached. When you are frightened, depleted, or under real threat, the Protector spends everything you have on you, leaving nothing to carry into someone else's fight. The body knows one shortcut, the one that looks like love: you pull the other person inside your own hull, so that protecting them and protecting yourself become a single act. A mother does this with a child. It also takes the wrong shape for allyship, because it only works by making the other person part of you. The person you are allying with is not you. They are their own ship. To stand with them as someone separate, you have to be resourced enough that your Protector has not already spent your last reserves keeping you afloat.
 
-When the hull cannot keep a blow out, it does what a hull does last: it takes the damage itself, so that what it carries survives. That absorbed weight is the Damaged Self, a daemon you will meet nearer the center.
+When the hull cannot keep a blow out, it does what a hull does last: it takes the damage itself, so that what it carries survives. That absorbed weight becomes the Damaged Self, a daemon you will meet nearer the center.
 
 You do not fight the Protector or shove past it. You thank it, and you help it tell a real threat from a social one. *Thank you for keeping me alive. This one is not life or death. Show me the one real danger here, if there is any, and let me set a single boundary instead of bracing my whole body.* Once you do that, the Protector goes back to its real job (protecting you when you actually need it) and stops running every hard conversation as though your life were on the line. Chapter 3 gives that exchange a name and a form.
 
@@ -347,7 +347,7 @@ You are playing the game itself now. It's a skill with a difficulty curve, one y
 
 ### Superpower Definition
 
-Your superpower is the reliable capacity you built to survive your wounds, once you have made that capacity conscious, ethical, and usable in service of others.
+Your superpower names the reliable capacity you built to survive your wounds, once you have made that capacity conscious, ethical, and usable in service of others.
 
 Formula: **adaptation under pressure → conscious integration → intentional contribution**.
 
@@ -443,7 +443,7 @@ That's why the inner work came first.
 
 **You guess at every one of those readings.** You cannot see inside Imani. You see what she does and supply the rest. What you supply comes out of you. Your Skeptic turns her flat voice into something she is hiding. Your Fixer turns her caution into a problem with a solution. Your Victim hears her story and makes it a story about you. Whichever of your seven has your joystick decides what you think you are looking at.
 
-That is projection, the trickiest move in shadow work: the parts you have not befriended in yourself are the parts you will misread hardest in everybody else. A daemon you have made an ally you can recognize across a table. A daemon still running you is one you cannot see anywhere, including in front of you.
+Call that projection, the trickiest move in shadow work: the parts you have not befriended in yourself become the parts you will misread hardest in everybody else. A daemon you have made an ally you can recognize across a table. A daemon still running you is one you cannot see anywhere, including in front of you.
 
 Six of Imani's seven stand behind the seventh. Her Protector works the door the way yours does. You get past it or you do not. How far it lets you in decides which of the other six you ever get near. That distance is your **clearance**.
 

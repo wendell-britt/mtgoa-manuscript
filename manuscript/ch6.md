@@ -147,7 +147,7 @@ Let me set something next to it, as a proposition rather than a diagnosis, becau
 
 Specification 1.1 reads: a design that requires an advocate has failed. I held that for nineteen years. It is correct.
 
-See figure four. The first system served two hundred and cost four of them their place. The second was built to correct the first and cost nine. The third corrected the second. In practice each revision moved the specification one step further from anybody living inside it. The drift is the mechanism rather than the error.
+See figure four. The first system served two hundred and cost four of them their place. The second was built to correct the first and cost nine. The third corrected the second. In practice each revision moved the specification one step further from anybody living inside it. The drift becomes the mechanism rather than the error.
 
 The drift runs this mechanism, revision after revision, and I want to be precise about that word. The third design is beautiful. I can still admire it. Four people and then nine people paid for my admiring it. Both of those sentences are true at once.
 
@@ -155,7 +155,7 @@ Do not ask me to estimate what the next system will cost before it is built. Est
 
 I ask first now. In practice I am slower at asking than at designing. The asking takes an afternoon.
 
-If that proposition holds in your experience, it carries a consequence worth naming. In a system that does not hold, somebody has to close the gap, and that somebody is always a person with presence to spend — more relational attentiveness, more of themselves in the seam. The cost does not show up in any report, because the report says the process worked, which it did, on the backs of whoever paid the difference. That names a design outcome, not a character outcome. No amount of caring more will change it, because caring more works as the mechanism by which the broken structure keeps functioning.
+If that proposition holds in your experience, it carries a consequence worth naming. In a system that does not hold, somebody has to close the gap, and that somebody is always a person with presence to spend: more relational attentiveness, more of themselves in the seam. The cost does not show up in any report, because the report says the process worked, which it did, on the backs of whoever paid the difference. That names a design outcome, not a character outcome. No amount of caring more will change it, because caring more works as the mechanism by which the broken structure keeps functioning.
 
 The Architect who turns a relational field into a leverage point and a living relationship into a KPI has already lost the reason the design mattered. Exiling that one makes sense. The discipline goes out with it, the same discipline that keeps a relational field from becoming a leverage point in the first place.
 
@@ -173,7 +173,7 @@ Doing the right thing in the wrong system costs a specific kind of expensive: th
 
 The villagers reduce structural design to its outputs: the org chart, the RACI matrix, the role description, the meeting cadence. Those name what structural thinking produces, not structural thinking itself. You can have all of them and still have a broken system.
 
-Structural design is the practice of understanding *why* a system produces the outcomes it produces, and redesigning the system so that the right outcome becomes the natural outcome.
+Structural design asks *why* a system produces the outcomes it produces, then redesigns the system so that the right outcome becomes the natural outcome.
 
 Notice the difference. In organizational design, you define roles and responsibilities. In structural design, you ask: what incentive is this role actually responding to? Not the job description but the actual incentive, the one that determines behavior when no one is watching. Then you ask: does that incentive align with the outcome we want? If not, no amount of role definition will produce the right behavior.
 
@@ -193,7 +193,7 @@ At the deepest level, it works like this:
 
 Call this an engineering fact rather than a metaphor. It has profound implications for allyship.
 
-Because allyship poses a problem of system design before it poses a problem of individual behavior. Good people cause harm because the system they're inside rewards harmful behavior and punishes the alternative. Change the system and you change the behavior — by making the better behavior the easier one. That's structural design. That's the Architect's practice.
+Because allyship poses a problem of system design before it poses a problem of individual behavior. Good people cause harm because the system they're inside rewards harmful behavior and punishes the alternative. Change the system and you change the behavior by making the better behavior the easier one. That's structural design. That's the Architect's practice.
 
 Most people learned to interrupt this logic. To say *but people should just know better. People should just choose differently. Culture is about individual accountability.* While individual accountability matters, it works as a moral appeal rather than a system design strategy. Moral appeals work until the system incentivizes something else. Then they stop working. The people who made the moral appeal wonder why nobody listened, when the answer comes simple: the system was louder than the appeal.
 
@@ -237,7 +237,7 @@ The pair gets specific for the student the School of the Pattern attracts. The s
 
 One piece of vocabulary in this chapter is borrowed and load-bearing, so here is whose it is. *Leverage point* is Donella Meadows'. Her claim is that a system has places where a small, well-aimed push moves more than a large one, and that the obvious places are usually the weak ones. The phrase has since escaped into business language, where it means roughly nothing, but this chapter uses it in her sense throughout. Appendix G says where to read her.
 
-At the Architect's altitude, the native material is not emotion: it is *logic.* The raw material comes down to the relationship between cause and effect: the structures that produce outcomes, the leverage points that change systems, the mental models that explain why systems are the way they are.
+At the Architect's altitude, logic replaces emotion as the native material. The raw material comes down to the relationship between cause and effect: the structures that produce outcomes, the leverage points that change systems, the mental models that explain why systems behave as they do.
 
 This is not abstract theory. The Architect uses logic the way the Shaman uses emotion: as a living instrument for reading reality. A system is not working. The Architect asks: why does this system produce this outcome? Where is the smallest push that creates the largest movement?
 
@@ -315,7 +315,7 @@ The Architect's flow cycle: Observe → Model → Design → Deploy → Observe 
 
 In practice: a team comes to the Architect because their planning process keeps producing plans nobody follows. The Architect observes: watches the meetings, reads the outputs, traces what happens to plans after they're made. The Architect models: the plans fail because they're disconnected from the people who have to execute them; authority exists without accountability. The Architect designs: a new format where the people who execute the plan also design it, where each element has a named owner and a check-in date. The Architect deploys: runs the first cycle, observes what breaks, adjusts. Then the Architect hands off: names who owns the format, writes down why each element is there rather than only what it is, and stops attending. Only that version outlives the Architect's interest in it.
 
-That is the Architect's practice: logic as a living instrument, structure as generosity, the map that makes you unnecessary.
+The Architect's practice comes to this: logic as a living instrument, structure as generosity, the map that makes you unnecessary.
 
 ---
 
@@ -341,7 +341,7 @@ Solo, written or spoken, fifteen to twenty-five minutes.
 
 Its opposite already has a face in your head. Pick them. Someone who names a person where you would name a structure, who said *that was cruel* while you were still mapping the incentive. Not somebody you would defend in a meeting.
 
-**3 · FACE IT.** Two paragraphs, third person, as much detail as you can hold. How big is the charge, and where does it sit in you?
+**3 · FACE IT.** Two paragraphs, third person, as much detail as you can hold. How big does the charge feel, and where does it sit in you?
 
 **2 · TALK TO IT.** Greet them, then ask, and let them answer, three exchanges at minimum.
 
@@ -377,7 +377,7 @@ I built a spreadsheet to track my moods. Inside a week I was having the moods th
 
 You met the Emotional Body at the door of the Forest, fifth in line, one step past the Fixer. It does not belong in that line the way the others do.
 
-The Protector decides whether you go in. The Controller decides how you may behave once you get inside. The Skeptic decides whether what you react to was ever real. The Fixer decides whether what is in front of you holds up well enough to deserve you — four parts, four strategies, four different jobs. The Emotional Body is what all four strategies are strategies *about.* Every one of them manages something that arrived through it first.
+The Protector decides whether you go in. The Controller decides how you may behave once you get inside. The Skeptic decides whether what you react to was ever real. The Fixer decides whether what is in front of you holds up well enough to deserve you: four parts, four strategies, four different jobs. The Emotional Body is what all four strategies are strategies *about.* Every one of them manages something that arrived through it first.
 
 The Emotional Body turns up everywhere for that reason. It has kept turning up in this book since the Forest was first drawn. The roles hold it as their instrument, the one they argue with. No wonder it never gets a seat.
 
@@ -475,7 +475,7 @@ The tell is never the position. The tell is whether the answer is ever Agency. A
 
 The Emotional Body developed does what nothing else in this chapter can do: it tells you where the movement is before the evidence does.
 
-That names the Strategist. Nobody has ever found the leverage point in a spreadsheet. You find it by feeling where the system is straining, where the pressure has built to the point that one push will do what a year of argument could not. Every one of those is a reading before it is a finding. An Architect who has converted their signal into structure on arrival can still produce the analysis. What they lose is timing, the sense of *now.*
+That names the Strategist. Nobody has ever found the leverage point in a spreadsheet. You find it by feeling where the system is straining, where the pressure has built to the point that one push will do what a year of argument could not. Every one of those starts as a reading before it hardens into a finding. An Architect who has converted their signal into structure on arrival can still produce the analysis. What they lose is timing, the sense of *now.*
 
 The map serves as the artifact; you already know how to make one. Timing is what makes it arrive on a day it can still matter. A beautiful blueprint delivered eighteen months after the pressure released is not generous. It is just correct.
 
@@ -492,7 +492,7 @@ That draws the shape of it. You've learned what structural design is, and you've
 
 Here's what I've noticed about the Architect's game: the Architect wins when the right thing happens without them having to be there. When a system works and nobody had to manage it. When a process runs and nobody had to micromanage it. When a design serves the user and the designer can move on.
 
-The Architect's game is building the map that makes you unnecessary — in the generous sense, since you've built something that can survive without you. That's the win.
+The Architect's game is building the map that makes you unnecessary, in the generous sense, since you've built something that can survive without you. That's the win.
 
 Here are five distinct moves that make that win real.
 
@@ -645,13 +645,13 @@ Each Tell targets the Architect's signature failure: the design built for the si
 
 ## The Architect Is a Move You Run
 
-The Architect is a Face, but it is also a move you can run, which means you are not holding an archetype. You are holding a practice: the Five-Move Form.
+The Architect works as a Face, but also as a move you can run, which means you are not holding an archetype. You are holding a practice: the Five-Move Form.
 
 The five moves are this chapter, in order, with Clean Up in its own slot rather than on reflex a quarter-second after the signal arrives.
 
 ### Where the Daemon Bites
 
-The daemon is a rule, in force at all five moves. The Emotional Body's five:
+The daemon holds one rule, in force at all five moves. The Emotional Body's five:
 
 **Wake Up.** It notices what is convertible. A signal with no structural output does not register as potential; it registers as noise, or as somebody else's department.
 
@@ -673,7 +673,7 @@ Five moves, one pass, ninety seconds; your Emotional Body will fight you for six
 
 ### From Read to Quest
 
-A reading that ends in a notebook is a reading you had. A reading that ends in a quest is one you played. Quests come out of Show Up, because that move ends in an artifact: something another person can encounter.
+A reading that ends in a notebook stays a reading you had. A reading that ends in a quest is one you played. Quests come out of Show Up, because that move ends in an artifact: something another person can encounter.
 
 One sentence: what you will do, who it reaches, by when, and what it costs you. *Build the Ladder* becomes: **I will hand the vendor relationship to Jess with the three details I never wrote down, by the fifteenth, though it will cost me being the person they call.** That counts as a quest. *I will build more sustainable systems* is not one; nobody can tell whether you did it, including you.
 
@@ -686,11 +686,11 @@ The tell that a quest is alive is not enthusiasm. It is anticipation with some d
 <!-- SECTION 7 -->
 ## What the Architect Teaches — and Why the Diplomat Comes Next
 
-The Architect's contribution to the allyship game is this: before relationship, before loyalty, before strategy: there is structure. Structure is a form of love.
+The Architect's contribution to the allyship game is this: before relationship, before loyalty, before strategy: there is structure. Structure is how love takes a shape that lasts.
 
 This chapter dismantles one belief: that allyship means fixing the problem. It ranks as the most reasonable-sounding myth in the set. That is why it survives contact with so much good training. When a harm occurs and you see it, address it, and watch the situation improve, something in you registers the improvement as the work having been done. What the myth does is convert a design question into an intervention queue. The queue never empties, because the structure that produced the first harm is still standing and still producing, and every fix you ship into it is spent restoring a baseline rather than moving one. That is why competent, tireless people find themselves eight years into a practice with a long record of resolved incidents and no changed conditions to point at. The fixing was real. It was also the mechanism by which the system kept working without ever having to be different. What goes in the myth's place is narrower and it holds weight: **I can find the condition that produced the harm, change it, and hand the change to someone who can run it without me.**
 
-That last clause carries the whole chapter. The Architect does not build to be admired and does not measure success by indispensability. The Architect measures it by obsolescence, a system that still runs after they have walked away from it. That is structural generosity, the intent behind every one of the five moves. Intent, though, is not the skill. **Strategist** names the skill: knowing where a small push moves the most, and when to make it. That is a reading before it is a finding, the one part of the Architect's practice that cannot be recovered from data.
+That last clause carries the whole chapter. The Architect does not build to be admired and does not measure success by indispensability. The Architect measures it by obsolescence, a system that still runs after they have walked away from it. That is structural generosity, the intent behind every one of the five moves. Intent, though, is not the skill. **Strategist** names the skill: knowing where a small push moves the most, and when to make it. That stays a reading before it becomes a finding, the one part of the Architect's practice that cannot be recovered from data.
 
 You have the five modes and the channels underneath them, the five stages of Observe → Model → Design → Deploy → Hand Off, and the Emotional Body up close, the sensor that turns a feeling into a spec before you can read it, and what it costs when the conversion beats the reading. You have the Structure ↔ Agency axis and the directional test, the only honest way to check yourself on it.
 
