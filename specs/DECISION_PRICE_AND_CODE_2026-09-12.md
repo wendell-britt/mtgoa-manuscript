@@ -320,9 +320,22 @@ obligation and the 253 sold at $40.
 
 **Nothing is numbered.** Signed is the whole property.
 
-### The scheduling consequence
+### No scheduling consequence — corrected 2026-09-14
 
-**500 signatures sit between the run arriving and the first copy shipping.** That is a
-single block of Wendell's time on the critical path to W0, and it is the only step in the
-physical plan that cannot be delegated, batched down, or done early — the books have to be
-in hand first.
+**I wrote that 500 signatures sit between the run arriving and the first copy shipping, on
+the critical path to W0. That assumed a single run and it is wrong.**
+
+**Wendell:** *"we are doing KDP purchases in batches."* The fulfilment plan has been rolling
+since August — confirm addresses with backers first, then place KDP orders sized to who
+actually responds. **Signing scales with the batch and never blocks the first ship.**
+
+**Two things follow that the lump-sum version hid.**
+
+**The print cost is incremental rather than up front.** $2,800 was arithmetic on a
+hypothetical single order, not a bill anybody pays at once.
+
+**Batching costs nothing on unit price.** KDP author copies carry no volume discount at any
+quantity — *"this price is the lowest price we can offer for your book"* — so the only
+penalty for ordering in batches is paying shipping more than once.
+
+**500 is a target, not a purchase order.**
