@@ -16,3 +16,8 @@
 pypandoc-binary>=1.13
 typst>=0.13
 nltk>=3.9
+
+# pymupdf is imported by build_pdf_ebook.py, proofread.py and build_markup.py and was
+# never declared. build_sample.py exits 1 with "missing dependency" without it; a fresh
+# environment hit that on 2026-09-15.
+pymupdf>=1.24
