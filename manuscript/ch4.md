@@ -74,13 +74,13 @@ The villagers built rituals around this. The Challenger would speak first at cou
 
 The Regent noticed first.
 
-The Regent didn't dislike the Challenger. The Regent just believed that *power had to be organized.* That raw will, even clean will, could not sustain anything across time. That the Challenger's gift was real but limited: the Challenger could draw a line, but the Challenger could not hold that line across seasons. Could not build the tradition that carried it forward. Could not make the line inherit itself.
+The Regent didn't dislike the Challenger. The Regent just believed that *power had to be organized*: that raw will, even clean will, could not sustain anything across time, and that the Challenger's gift was real but limited. The Challenger could draw a line. Nothing in the gift could hold it across seasons, build the tradition that carried it forward, or make the line inherit itself.
 
 So the Regent built walls instead: institutions, roles with names, traditions with histories. The Regent said: *give me your line and I will make it a law. Give me your boundary and I will make it an institution. Give me your 'this far and no further' and I will make it a founding principle that outlasts your lifetime.*
 
 The villagers chose the Regent.
 
-Not because the Challenger was wrong. Because the Challenger was *expensive.* The Challenger cost something every time they drew a line. The Challenger had to feel the resistance of the crossing. Had to sit with the discomfort of being unwelcome. Had to carry the social friction of saying no while everyone else stayed polite. The Challenger burned energy every time they showed up. The Regent, by contrast, could build a wall once and have it hold for a generation.
+They weighed what a line cost, not whether the Challenger was right: the resistance of every crossing, the discomfort of being unwelcome, the social friction of saying no while everyone else stayed polite. Every line cost that again. The Regent, by contrast, could build a wall once and have it hold for a generation.
 
 The Regent was more efficient. The Regent was more scalable. The Regent was more *sustainable.*
 
@@ -94,18 +94,18 @@ It came not in anger but in clarity. The Challenger understood what the villager
 
 The villagers never meant for that to happen. They never said "go." They just stopped asking. Which, it turns out, is the same as exile.
 
-**The Challenger means: somebody drew the line on the day it needed drawing.** A Diplomat can watch your best hour and see damage, and mean it sincerely.
+**The Challenger means: somebody drew the line on the day it needed drawing.**
 
 ---
 
 <!-- SECTION 2 -->
-## What the Village Does With the Clean "No" When the Challenger Is Gone
+## What the Village Does With the Clean No When the Challenger Is Gone
 
 Here's what happened after the Challenger left: the villagers didn't stop needing to draw lines.
 
 They just forgot how to do it without apologizing.
 
-The villagers still experienced violations. Slights. Moments where someone crossed a boundary and everyone knew it and nobody said it. Without the Challenger to say *"this is not acceptable"* without softening it, without the Challenger's willingness to be unwelcome in service of what was true, the villagers learned to *process* these moments instead of *respond* to them. To have conversations about boundaries. To schedule dialogues. To bring in a facilitator.
+The villagers still experienced violations: slights, moments where someone crossed a boundary and everyone knew it and nobody said it. Without the Challenger to say *"this is not acceptable"* without softening it, without the Challenger's willingness to be unwelcome in service of what was true, the villagers learned to *process* these moments instead of *respond* to them: to have conversations about boundaries, to schedule dialogues, to bring in a facilitator.
 
 Sometimes that was exactly right. Sometimes the situation actually needed someone to run the conversation.
 
@@ -134,7 +134,7 @@ The villagers never realized they had traded the capacity to draw lines for the 
 ---
 
 <!-- SECTION 3 -->
-## What the Clean "No" Actually Is (And Why It's Not What You've Been Told)
+## What the Clean No Actually Is (And Why It's Not What You've Been Told)
 
 You already carry a version of the clean no. You've been calling it something else.
 
