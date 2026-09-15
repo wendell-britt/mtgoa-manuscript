@@ -14,7 +14,7 @@ source:
   - manuscript/ch4.md
   - specs/MARK_PATTERN_TABLE_2026-09-09.md
   - specs/PROOF_READNOTES_V2_2026-09-01.md
-status: batches 1-3 intaken (proof pp.100-129). More batches expected; append, do not replace.
+status: batches 1-4 intaken (proof pp.97-129, the whole chapter). More batches expected; append, do not replace.
 ---
 
 # Proof marks — Chapter 4, The Challenger
@@ -375,3 +375,101 @@ p.107 L279, L281 (x4), L283 (x2) · p.108 L305 · p.109 L311, L323, L329 (x2)
 7. **Drop the `f2 != f` guard in `dupes.py`?** Cross-file is a different question from merge twins
    and probably wants its own board, plus the backup-file exclusion.
 8. **`How big does the charge run` — revert ch4 to match, or rule one wording for all five?**
+
+
+---
+
+# Batch 4 — proof pp.97-99 (the chapter opening)
+
+**pp.100-101 in this batch repeat the last image of batch 3 and are not counted twice.** New marks:
+13 across pp.97-99. **8 live, 5 rewritten.**
+
+Small volume, and the most important batch so far, because of *where* the marks are.
+
+## Page one of the chapter is on a surface no drawdown instrument reads
+
+Both epigraphs and the `THE SCHOOL OF THE LINE Admissions` box carry the trailing-`and` in almost
+every clause Wendell marked. Four of the six p.97 marks are live, and all four sit on the **frame**:
+
+| L | surface | span |
+|---|---|---|
+| 12 | FRAME | I am grateful, **and I am aware of what that tells me.** |
+| 22 | FRAME | you said it in a meeting, pleasantly, **and it went ahead anyway** |
+| 24 | FRAME | watched it happen to somebody with less standing than you, **and done nothing, and known at the time you were doing nothing** |
+| 33 | FRAME | unwelcome in small ways, more often than you have budgeted for, **and somebody whose opinion you value will call...** |
+
+None of these is in `editorial_exceptions.yaml`. They were not scored and deferred. **They were
+never seen.**
+
+### Why: `draft_lines.APPARATUS`
+
+```python
+APPARATUS = re.compile(r"^\s*(?:#{1,6}\s|\||>\s|[-*+]\s|\d+\.\s)")
+```
+
+A line beginning `>` is classified *not prose* and skipped. And per
+`instruments/book/README.md`: **"Five frame devices, all wearing a blockquote."** MARGINALIA,
+EPIGRAPH-BYLINE, HANDBOOK, POSTCARD and RECORDS are all blockquotes, so all five are invisible to
+anything using this filter. Verified directly — `ch4.md:6` and `ch4.md:12`, the two epigraphs, both
+return `is_apparatus=True`.
+
+**Eight instruments use it**, including every drawdown that was driven to zero:
+
+`trailing_and` · `telling` · `light_verb` · `polysyndeton` · `slop_shapes` · `fragment` ·
+`antecedent` · `presupposed`
+
+### What that leaves unmeasured
+
+| file | frame lines | frame words | body words | frame % | **unscanned `, and` sites** |
+|---|---:|---:|---:|---:|---:|
+| ch1 | 0 | 0 | 8,788 | 0.0% | 0 |
+| ch2 | 0 | 0 | 8,354 | 0.0% | 0 |
+| ch3 | 94 | 1,246 | 13,589 | 8.4% | 2 |
+| **ch4** | 84 | 1,040 | 11,015 | 8.6% | **5** |
+| ch5 | 102 | 1,523 | 10,061 | 13.1% | 11 |
+| ch6 | 80 | 906 | 11,044 | 7.6% | 7 |
+| ch7 | 106 | 1,328 | 13,031 | 9.2% | 12 |
+| ch8 | 110 | 1,267 | 13,148 | 8.8% | 14 |
+| ch9 | 19 | 136 | 10,839 | 1.2% | 0 |
+| **TOTAL** | | **7,446** | **99,869** | **6.9%** | **51** |
+
+Sites counted with `trailing_and.py`'s own `joins_two_clauses`, so these are what the instrument
+would report if it read the surface.
+
+**`trailing_and unresolved=0` means zero in the 93% of the book the scanner reads.** 51 sites sit in
+the other 6.9%, and one of them is the second sentence of the chapter.
+
+### The 22 handbook entries in the ledger came in by another door
+
+22 of the 82 `trailing_and` ledger entries carry:
+
+> boxed record (HANDBOOK): scored, a ledger note, edited separately — Wendell 2026-09-10: *"Boxed
+> records should be scored, but those should be ledger notes because they have to be edited separately."*
+
+Those quotes match `marginalia/new_prose/HANDBOOKS_draft*.md`, which are plain prose files with no
+blockquote markers — so the scanner could read them there. **The shipping copies in `manuscript/`
+wear the blockquote and are invisible.** The ruling to edit boxed records separately is sound; the
+separate edit has not happened, and nothing in the board will ever ask for it.
+
+## Batch 4 — live marks
+
+p.97 L12, L22, L24, L33 (all FRAME) · p.98 L73 · p.99 L73, L77, L83
+
+## Running total, batches 1-4
+
+**192 marks · 121 live · 71 on rewritten text.** Proof pp.97-129 — the Challenger, complete.
+
+## Open questions, updated
+
+1. **C (`because` + interpretation) — is it a row?** (batch 1)
+2. **Agentless passive — is it a row?** (batch 2)
+3. **Real-insistence — promote to an instrument?** (batch 2)
+4. **L510 — approve the standing-question fix?** (batch 2)
+5. **What did "Questions aren't answered" mean?** (batch 2)
+6. **The polarity definition — cut to one, or point back to ch4?** (batch 3)
+7. **Drop the `f2 != f` guard in `dupes.py`?** (batch 3)
+8. **`How big does the charge run` — revert for parity?** (batch 3)
+9. **Run the drawdowns over the frame.** The filter is one regex and the frame is 7,446 words
+   carrying at least 51 known sites. This is the largest single gap found so far and the cheapest
+   to close: give the instruments a frame mode, the way `marginalia/review.py` already has one.
+10. **Does the ledger's HANDBOOK deferral get scheduled?** It is a real ruling with no owner.
