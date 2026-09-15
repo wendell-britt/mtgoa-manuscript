@@ -14,7 +14,7 @@ source:
   - manuscript/ch4.md
   - specs/MARK_PATTERN_TABLE_2026-09-09.md
   - specs/PROOF_READNOTES_V2_2026-09-01.md
-status: batches 1-2 intaken (proof pp.110-129). More batches expected; append, do not replace.
+status: batches 1-3 intaken (proof pp.100-129). More batches expected; append, do not replace.
 ---
 
 # Proof marks — Chapter 4, The Challenger
@@ -259,3 +259,119 @@ land on one long line.
 4. **L510 — approve the standing-question fix?** This one is a factual error in the book's own
    model, not a line-quality call.
 5. **What did "Questions aren't answered" mean?**
+
+
+---
+
+# Batch 3 — proof pp.100-109
+
+59 marks. **38 live, 21 already rewritten.** One pen mark, and it opens a hole nothing in the repo
+was looking at.
+
+## The pen mark: "Repeat of polarity?" — p.104
+
+Yes. Verbatim, in three chapters:
+
+| file | line | |
+|---|---|---|
+| `manuscript/ch4.md` | 198 | byte-identical to ch7 |
+| `manuscript/ch7.md` | 198 | byte-identical to ch4 |
+| `manuscript/ch5.md` | 245 | one clause apart (`stuck on one so long that the other` / `stuck there so long the other pole`) |
+
+> A polarity is not a problem to solve. It has two poles, both of them right. The charge comes not
+> from one side being wrong but from getting stuck on one so long that the other stops existing for you.
+
+**`review.py` step 7c reports `dupes ok 0 pair(s) — clean`.** It is not wrong about what it checks.
+`instruments/dupes.py:82` reads:
+
+```python
+if f2 != f or abs(n2 - n) > 400:
+    continue
+```
+
+**Same file only, and within 400 lines.** A paragraph that ships in three different chapters is
+structurally invisible to it. The instrument was written 2026-08-07 against three pairs that all sat
+inside one file, and the guard that made it fast for that case is the guard that blinds it here.
+
+### What the cross-file scan finds
+
+Same `MIN_WORDS = 25` and `NEAR = 0.90`, same surfaces, with only the `f2 != f` guard removed.
+1,775 paragraphs compared:
+
+| | pairs | of those, shipping text |
+|---|---:|---:|
+| cross-file EXACT | 31 | **14** |
+| cross-file NEAR | 22 | **19** |
+
+The remainder (17 exact, 3 near) are `APPENDIX_C_KEY_TERMS.md` against its own
+`_backup_2026-06-04_pre-trailing-promote.md`, which does not ship. That file should be excluded the
+way `profile.corpus` already excludes non-shipping appendices.
+
+### Most of the 33 is deliberate, and saying otherwise would be wrong
+
+`dupes.py`'s own docstring anticipates this: *"The book repeats deliberately and often... Those are
+structure, not duplication."* Holding to that:
+
+- **`You drew the [X ↔ Y] axis earlier in this chapter. Here is why the [daemon] is nearly
+  impossible to catch standing on it`** — ch4 Force↔Restraint/Skeptic (L559), ch6
+  Structure↔Agency/Emotional Body (L464), ch7 Care↔Impact/Victim (L611). A frame, filled per
+  chapter. Correct by design.
+- **`3 · FACE IT.`** — twice per chapter, ch3 through ch8, chapter-specific question each time.
+- **`Chapter 1 taught you to read your own fuel...`** — ch3 L439 through ch8 L457, each naming its
+  own Face. The ladder is the point.
+- **`A reading that ends in a notebook stays a reading you had...`** — ch3 L897 through ch8 L814,
+  six chapters, byte-identical. Deliberate, though six is worth a look on its own.
+
+**The polarity definition is not one of these.** It is expository prose that defines a concept from
+scratch, and it defines it three times as though the reader has not met it. No slot is filled, no
+noun changes. That is the difference Wendell's pen found and the instrument could not.
+
+## A third case of the sweep doing the damage
+
+Before commit `a8db0ca` (*"Telling drawdown via fan-out: 661 -> 85"*), every chapter carried the
+same boilerplate:
+
+```
+all chapters   How big is the charge, and where does it sit in you?
+```
+
+After it:
+
+```
+ch4.md:452     How big does the charge run,  and where does it sit in you?
+ch5.md:456     How big does the charge feel, and where does it sit in you?
+ch6.md:344     How big does the charge feel, and where does it sit in you?
+ch7.md:532     How big does the charge feel, and where does it sit in you?
+```
+
+The drawdown targets the copula, so it had to rewrite `is`. **Fanned out per chapter, it rewrote one
+shared sentence two different ways** — `run` in ch4, `feel` everywhere else. Parity that existed
+before the sweep does not exist after it, `run` is worse English than either alternative, and
+`dupes.py` cannot report the divergence for the same cross-file reason as above.
+
+Batches 1, 2 and 3 have now each produced an instance: **the sweep removed the token and left the
+shape** (p.129 recap), **the sweep split the sentence and left the passives** (p.113, commit
+`40077a6`), **the sweep broke shared boilerplate into variants** (p.107 3-2-1, commit `a8db0ca`).
+
+## Batch 3 — live highlight marks
+
+p.100 L97 (x2), L108 (x3) · p.101 L118, L122 (x2), L128 · p.102 L139, L141, L151 (x2) ·
+p.103 L166 (x2), L170, L176 (x2) · p.104 L198, L208 (x3) · p.105 L220, L238 · p.106 L277 (x2) ·
+p.107 L279, L281 (x4), L283 (x2) · p.108 L305 · p.109 L311, L323, L329 (x2)
+
+## Running total, batches 1-3
+
+**179 marks · 113 live · 66 on rewritten text.**
+
+## Open questions, updated
+
+1. **C (`because` + interpretation) — is it a row?** (batch 1)
+2. **Agentless passive — is it a row?** (batch 2)
+3. **Real-insistence — promote to an instrument?** ch4 at 1.07/1k vs 0.18-0.63. (batch 2)
+4. **L510 — approve the standing-question fix?** A factual error in the book's own model. (batch 2)
+5. **What did "Questions aren't answered" mean?** (batch 2)
+6. **The polarity definition — cut to one, or make ch5 and ch7 point back to ch4?** It is introduced
+   in ch4, where the Force ↔ Restraint axis is drawn.
+7. **Drop the `f2 != f` guard in `dupes.py`?** Cross-file is a different question from merge twins
+   and probably wants its own board, plus the backup-file exclusion.
+8. **`How big does the charge run` — revert ch4 to match, or rule one wording for all five?**
