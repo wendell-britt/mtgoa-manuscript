@@ -3,7 +3,7 @@
 
 
 <!-- EPIGRAPH-BYLINE -->
-> *Ash stopped me four times in one hour. The fourth time I had nothing left to protect, and that
+> *Ash stopped me four times in one hour. The fourth time I had nothing left to protect. That
 > was the first useful sentence I said.*
 >
 > — Ren Alcott, first-year, School of the Line
@@ -19,7 +19,7 @@
 > *Admissions. Filed as required.*
 >
 > **1. Who we are for.** You have said no and had it not take. You said it in a meeting,
-> pleasantly, and it went ahead anyway; you said it again six weeks later and were told you
+> pleasantly; it went ahead anyway. You said it again six weeks later and were told you
 > had raised that already. You have also watched it happen to somebody with less standing than
 > you, and done nothing, and known at the time you were doing nothing. Both. Applicants with
 > one are declined.
@@ -27,10 +27,10 @@
 > **2. What you will be able to do when you leave.** State a limit in one sentence and not
 > take it back in the four seconds afterward. The specific behaviour stops. Then the second effect,
 > which students underestimate for about a year: the people watching learn that limits can be
-> stated here, and some of them start stating their own.
+> stated here. Some of them start stating their own.
 >
 > **3. What it costs.** You will be unwelcome in small ways, more often than you have budgeted
-> for, and somebody whose opinion you value will call you difficult where you can hear it.
+> for. Somebody whose opinion you value will call you difficult where you can hear it.
 > Students who wait until they feel ready have suffered as a result.
 >
 > **4. What we do not teach.** Repair. You will object that a limit without repair is cruelty.
@@ -52,7 +52,7 @@
 <!-- MARGINALIA -->
 > *Corin held a verdict open once. One time that I know of, against every instinct they have, for
 > the four days it took the evidence to arrive. It changed the outcome and they have never
-> mentioned it, and I have not watched anyone on this staff do anything harder.*
+> mentioned it. I have not watched anyone on this staff do anything harder.*
 >
 > *The rest of the time they interrupt. Not rudely and not always usefully, but reliably — you will
 > be three sentences into explaining yourself and they will stop you and ask what you are
@@ -156,8 +156,8 @@ Most people can do part one. Some people can do parts one and two. Very few peop
 > *Very few people can do all three without flinching. Somebody did all three to me once, in eleven
 > words, and then went back to what they had been doing.*
 >
-> *There was nothing to say back. That is the part nobody mentions — it was not cruel and it left
-> me no opening, and those two together meant I had no move at all. I stood there a moment and then
+> *There was nothing to say back. Nobody mentions that part — it was not cruel and it left
+> me no opening. Those two together meant I had no move at all. I stood there a moment and then
 > I left. I have taught this to four hundred students since. I have used somebody else's example
 > every single time.*
 <!-- /MARGINALIA -->
@@ -182,7 +182,7 @@ The villagers, without the Challenger, have forgotten the difference.
 ### Polarity Encounter — Force ↔ Restraint
 
 <!-- MARGINALIA -->
-> *Corin's blind spot lives in this section, and they know it, which helps less than you would
+> *Corin's blind spot lives in this section. They know it, which helps less than you would
 > hope.*
 >
 > *They cannot reliably tell slow from frightened. Nor can you yet. A person taking their time is
@@ -320,7 +320,7 @@ Did this charge become a line, or did it become smoke?
 
 The Challenger does not need you to calculate points in the middle of confrontation. The Challenger needs you to tell the truth about what happened to your will.
 
-The five conversions above are the alchemy: each spends a dissatisfaction in the direction its channel exists for and leaves you with more will than you started with. What follows fills in the rest of the ledger.
+The alchemy runs through those five conversions: each spends a dissatisfaction in the direction its channel exists for and leaves you with more will than you started with. What follows fills in the rest of the ledger.
 
 Some moves sustain will because they keep the confrontation workable: the line lets you interrupt the pattern crossing it, the interrupt lets you demand what replaces it, the demand clarifies where you will not move regardless of pressure, and the refusal becomes a consequence you can name.
 
@@ -570,7 +570,7 @@ The tell is never the position. The tell is whether you ever move. An auditor th
 
 The Skeptic developed does what nothing else in this chapter can: it makes your line credible, to yourself before anyone else. When the auditor has done its narrow job honestly and come back with *real, and current,* you are no longer arguing with yourself while the moment burns. You are aimed.
 
-The Disruptor's foundation is clarity without cruelty, held steady long enough to say one sentence and stay for what follows. Fighting and certainty come easy by comparison.
+What this chapter trains is clarity without cruelty, held steady long enough to say one sentence and stay for what follows. Fighting and certainty come easy by comparison.
 
 You know what your auditor is for now. That is what you take out.
 
@@ -774,9 +774,9 @@ Five moves, one pass, ninety seconds.
 
 A reading that ends in a notebook stays a reading you had. A reading that ends in a quest is one you played. Quests come out of Show Up, because that move ends in an artifact: something another person can encounter.
 
-One sentence: what you will do, who it reaches, by when, and what it costs you. *Draw the Line* becomes: **I will tell the hiring panel on Thursday that I cannot support rejecting her unless somebody names the behavior, without softening it into a question, though it will cost me being the easy vote on that panel.** That is a quest. *I will be more direct* is not; nobody can tell whether you did it, including you.
+One sentence: what you will do, who it reaches, by when, and what it costs you. *Draw the Line* becomes: **I will tell the hiring panel on Thursday that I cannot support rejecting her unless somebody names the behavior, without softening it into a question, though it will cost me being the easy vote on that panel.** A quest has all four. *I will be more direct* has none of them; nobody can tell whether you did it, including you.
 
-The tell that a quest is alive is not enthusiasm. It arrives as anticipation with some dread underneath it. For a Challenger the dread usually arrives first, which is a good sign and a hard one.
+The tell that a quest is alive is not enthusiasm. It arrives as anticipation with some dread underneath it. For a Challenger the dread usually arrives first, a good sign and a hard one.
 
 *Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
 

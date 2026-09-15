@@ -20,7 +20,7 @@ corridor, like it was the weather.*
 — recorded at Sethen, third visit
 """,
 4: """
-*Ash stopped me four times in one hour. The fourth time I had nothing left to protect, and that
+*Ash stopped me four times in one hour. The fourth time I had nothing left to protect. That
 was the first useful sentence I said.*
 
 — Ren Alcott, first-year, School of the Line
@@ -100,7 +100,7 @@ anything at all. I mention it because she will not, and because you are shortly 
 somebody who spent years marking her own homework.*""",
 4: """*Corin held a verdict open once. One time that I know of, against every instinct they have, for
 the four days it took the evidence to arrive. It changed the outcome and they have never
-mentioned it, and I have not watched anyone on this staff do anything harder.*
+mentioned it. I have not watched anyone on this staff do anything harder.*
 
 *The rest of the time they interrupt. Not rudely and not always usefully, but reliably — you will
 be three sentences into explaining yourself and they will stop you and ask what you are
@@ -178,11 +178,11 @@ it will not be the disaster you are picturing. It will be a smaller and more spe
 ("Very few people can do all three without flinching", """*Very few people can do all three without flinching. Somebody did all three to me once, in eleven
 words, and then went back to what they had been doing.*
 
-*There was nothing to say back. That is the part nobody mentions — it was not cruel and it left
-me no opening, and those two together meant I had no move at all. I stood there a moment and then
+*There was nothing to say back. Nobody mentions that part — it was not cruel and it left
+me no opening. Those two together meant I had no move at all. I stood there a moment and then
 I left. I have taught this to four hundred students since. I have used somebody else's example
 every single time.*"""),
-("Polarity Encounter — Force", """*Corin's blind spot lives in this section, and they know it, which helps less than you would
+("Polarity Encounter — Force", """*Corin's blind spot lives in this section. They know it, which helps less than you would
 hope.*
 
 *They cannot reliably tell slow from frightened. Nor can you yet. A person taking their time is
@@ -553,7 +553,7 @@ Head of the School of the Body""",
 *Admissions. Filed as required.*
 
 **1. Who we are for.** You have said no and had it not take. You said it in a meeting,
-pleasantly, and it went ahead anyway; you said it again six weeks later and were told you
+pleasantly; it went ahead anyway. You said it again six weeks later and were told you
 had raised that already. You have also watched it happen to somebody with less standing than
 you, and done nothing, and known at the time you were doing nothing. Both. Applicants with
 one are declined.
@@ -561,10 +561,10 @@ one are declined.
 **2. What you will be able to do when you leave.** State a limit in one sentence and not
 take it back in the four seconds afterward. The specific behaviour stops. Then the second effect,
 which students underestimate for about a year: the people watching learn that limits can be
-stated here, and some of them start stating their own.
+stated here. Some of them start stating their own.
 
 **3. What it costs.** You will be unwelcome in small ways, more often than you have budgeted
-for, and somebody whose opinion you value will call you difficult where you can hear it.
+for. Somebody whose opinion you value will call you difficult where you can hear it.
 Students who wait until they feel ready have suffered as a result.
 
 **4. What we do not teach.** Repair. You will object that a limit without repair is cruelty.
