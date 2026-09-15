@@ -169,7 +169,7 @@ The Challenger learned this the hard way, by watching boundaries dissolve, relat
 
 Real allyship requires the clean no. Not because allyship is about conflict. Allyship means being present with people across power differentials. Power differentials require the ability to *name* them, *hold* them, and *respond* to their violation without collapsing.
 
-The villagers without the Challenger cannot do this. They can feel the violation but cannot name it cleanly. Can see the line get crossed but cannot draw their own without apologizing for it. Can recognize when someone gets harmed but cannot say *this is not acceptable* without also saying *but I understand why you did it* and *maybe we all need to be more compassionate.*
+The villagers without the Challenger cannot do this. They can feel the violation but cannot name it cleanly. They can see the line get crossed but cannot draw their own without apologizing for it. They can recognize when someone gets harmed but cannot say *this is not acceptable* without also saying *but I understand why you did it* and *maybe we all need to be more compassionate.*
 
 Compassion is not the same as clarity. Clarity, in the domain of allyship, sometimes does the more loving work.
 
