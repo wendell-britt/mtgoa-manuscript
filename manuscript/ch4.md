@@ -298,7 +298,7 @@ This stage gets skipped, which is what leaves most confrontation messy, reactive
 
 **Stage 4: Stand.** You stay with what you said while the silence does its work.
 
-The sequence used to skip this stage. Skipping it lets a reader execute every other stage correctly and still end up with nothing drawn. Here is what happens in the seconds after a clean line is drawn. Nobody speaks. The temperature in the conversation changes. Somebody looks at the table. Whatever charge you carried has now transferred to the space between you and the other person, where it sits unclaimed, and the fastest way to make it stop is to take it back.
+The sequence used to skip this stage. Skipping it lets a reader execute every other stage correctly and still end up with nothing drawn. Here is what happens in the seconds after a clean line is drawn. Nobody speaks. The temperature in the conversation changes. Somebody looks at the table. Whatever charge you carried has now transferred to the space between you and the other person, where it sits unclaimed. The fastest way to make it stop is to take it back.
 
 Taking it back has a specific sound. *I mean, obviously there's context.* *I'm probably overreacting.* *I just wanted to flag it.* Every one of those offers a repair for a rupture that has not happened yet, converting the line into a preference. Nothing about the retraction feels like retraction from the inside. It feels like being reasonable.
 
@@ -437,7 +437,7 @@ If that conclusion is running, it produces a consistent result. Common ground ge
 
 Before you meet the part that audits your charge, one piece of work belongs here. The conclusion named just above, that the clean no is what oppressors do, does not stay an idea. It walks around wearing somebody's face. Chapter 3 ran this on a trait. Here it runs on a person you have negative feelings about, which is where the practice does its heaviest work.
 
-None of this lets real harm off the hook. It reclaims the energy you have spent on a cartoon, and real harm and real accountability stay real. What 3-2-1 owns is your split. It makes no claim about their innocence.
+None of this lets real harm off the hook. It reclaims the energy you have spent on a cartoon. The harm and the accountability are untouched. What 3-2-1 owns is your split. It makes no claim about their innocence.
 
 The same fire controls or protects depending on where it is aimed, including, sometimes, protecting the person being told no. 3-2-1 finds which one you are fighting in them that is actually in you.
 
@@ -509,13 +509,13 @@ You have found the flaw in every plan anybody has brought to this table. Somewhe
 
 You met the Skeptic at the door of the Forest, third in line, a few steps behind the Controller. The Protector decides whether you go in at all. The Controller decides how you may behave once you get inside. The Skeptic decides something narrower and more damaging than either: whether what you reacted to was ever real.
 
-At its best the Skeptic is your auditor, and you need one. A charge arrives and the auditor asks the single useful question: *is this what is actually in front of me, or an old charge wearing today's clothes?* Sometimes the honest answer names the old charge, in which case the auditor has just saved you from spending a line on someone who did not earn it. Timidity would look the same from outside. That is what makes your no expensive. Someone who draws a line at everything has not drawn one; people learn to dress for the weather and walk past. The auditor earns you this: when you do finally say *this is not acceptable*, the sentence carries.
+At its best the Skeptic is your auditor. You need one. A charge arrives and the auditor asks the single useful question: *is this what is actually in front of me, or an old charge wearing today's clothes?* Sometimes the honest answer names the old charge, in which case the auditor has just saved you from spending a line on someone who did not earn it. Timidity would look the same from outside. That is what makes your no expensive. Someone who draws a line at everything has not drawn one; people learn to dress for the weather and walk past. The auditor earns you this: when you do finally say *this is not acceptable*, the sentence carries.
 
 An auditor can widen its own remit, though. It stops auditing the charge and starts auditing your standing to have it. The question changes shape without announcing that it has changed, from *is this real* to *are you the one who gets to say it is real.* Those two sound like the same rigor. They are not the same question. Looking at the situation answers the first. Only looking at you answers the second, an audit whose outcome the Skeptic already knows.
 
 Then it speaks. It always sounds reasonable. *Am I overreacting. Other people have it worse. I'm probably being dramatic. I should check with someone who actually knows.* Not one of those makes a claim about the violation. Every one of them makes a claim about you. The Skeptic takes a real crossing and, in three sentences, converts it into evidence of your own excess.
 
-Here is the tell that separates the auditor from the judge: the auditor finishes. It asks its question, gets an answer, hands the charge back to you either confirmed or dismissed, and stops. The Skeptic in shadow never finishes. No evidence closes the case, because the case was never about evidence. Ask yourself whether you feel certain: you will always find you could feel less certain. The audit runs until the moment has passed, and that outcome was always its purpose.
+Here is the tell that separates the auditor from the judge: the auditor finishes. It asks its question, gets an answer, hands the charge back to you either confirmed or dismissed, and stops. The Skeptic in shadow never finishes. No evidence closes the case, because the case was never about evidence. Ask yourself whether you feel certain: you will always find you could feel less certain. The audit runs until the moment has passed. That outcome was always its purpose.
 
 Now here is why this daemon stands where it stands, in a book about allyship. Everything you have learned in this chapter runs on a charge you trust enough to aim. Charge, Aim, Act, Stand, Exit: the whole sequence assumes Stage 1 was allowed to count. The Skeptic can end the practice between Stage 1 and Stage 2, not by arguing that the line is wrong but by ruling that you have not established the line is yours to draw. It does not put the fire out, either. The fire burned. You felt every degree of it. You filed it instead of aiming it, then carried it home.
 
@@ -529,7 +529,7 @@ You do not fire the Skeptic. If you fire your auditor, every charge becomes a li
 
 Then give the audit a deadline, because the shadow runs out the clock as its whole method. An auditor works fast when it knows it has to. *You have one breath. Is this real or old? Answer.* One breath answers the question actually being asked. It cannot answer the other one.
 
-It shows up in a single beat. Someone crosses a line in the meeting. Heat arrives in your chest: that is Charge, on time, doing its job. On the widened remit the audit opens before you can aim: *am I sure that is what they meant, is this even mine to call, there are people here closer to it than me*, and by the time the audit has finished weighing its own evidence the agenda has moved two items on and the heat has nowhere to go but home with you. On the narrow remit the same auditor gets the same breath and returns the verdict it could have returned all along: *real, and current.* Then you say the sentence. The same part applies the same rigor either way. Only the jurisdiction you gave it changed.
+It shows up in a single beat. Someone crosses a line in the meeting. Heat arrives in your chest: that is Charge, on time, doing its job. On the widened remit the audit opens before you can aim: *am I sure that is what they meant, is this even mine to call, there are people here closer to it than me.* By the time it has finished weighing its own evidence the agenda has moved two items on and the heat has nowhere to go but home with you. On the narrow remit the same auditor gets the same breath and returns the verdict it could have returned all along: *real, and current.* Then you say the sentence. The same part applies the same rigor either way. Only the jurisdiction you gave it changed.
 
 *Bring one real moment the Skeptic closed the case on a charge before you could aim it, a crossing you talked yourself out of with "I'm probably overreacting," or a reading you handed to someone with more standing and then walked away from. Name which question it was actually running: was it auditing the charge, or auditing you? Two minutes to capture it as a BAR.*
 
@@ -617,7 +617,7 @@ The naming does the work. Most situations have a specific event, a violation or 
 
 In practice: Next time you're in a meeting and something happens that you can feel everyone noticing and nobody stating, that is your cue. State it plainly. *"That comment about X wasn't accurate. I want to note that before we move on."*
 
-**Example:** A senior colleague says a contractor is not going to be here long enough to matter. Priya is on the call. Nobody picks it up. The agenda starts to move. You say it before it does: *we skipped past something about Priya, who is on this call.* Stop there. You know what her next three weeks look like, because you have been the contractor. Your silence would have cost her, not you. She did not ask you to name it, and that risk is yours.
+**Example:** A senior colleague says a contractor is not going to be here long enough to matter. Priya is on the call. Nobody picks it up. The agenda starts to move. You say it before it does: *we skipped past something about Priya, who is on this call.* Stop there. You know what her next three weeks look like, because you have been the contractor. Your silence would have cost her, not you. She did not ask you to name it. The risk is yours.
 
 **The test:** It is now named, stated plainly, in the moment, with no solution attached. What the group does with it next belongs to the group. The naming carries the whole move.
 
@@ -643,7 +643,7 @@ In practice: when the charge arrives, start a clock instead of a sentence. For t
 
 **The Situation:** You have to say something hard to someone in twenty minutes.
 
-**What it is:** Name which channel you are carrying before you open your mouth, Fire or Water: a line was crossed, or something was lost. You are going to speak either way, and which one you are actually carrying decides what comes out.
+**What it is:** Name which channel you are carrying before you open your mouth, Fire or Water: a line was crossed, or something was lost. You are going to speak either way. Which one you are actually carrying decides what comes out.
 
 **Why it matters:** Cruelty in a confrontation is usually a mismatch rather than a decision. Anger delivered as anger is hard to hear, easy to answer, because Fire asks for agency and the other person can hand agency over. Hurt delivered as anger is heard as an attack that nothing they do can satisfy, because sadness, the Water underneath it, wanted to be met and you asked to win instead. So they defend, you escalate, and afterward you cannot say what you were actually after. Naming the channel first does not soften the content. It aims it.
 
@@ -661,7 +661,7 @@ In practice: before the conversation, finish one of two sentences out loud. *A l
 
 **What it is:** Put the last five side by side. The ones you drew and the ones you let go. Find what all five have in common.
 
-**Why it matters:** One line tells you almost nothing about yourself. You cannot tell from a single instance whether you met what was in front of you or an old charge wearing today's clothes, and that question is what the whole chapter turns on. Five instances answer it, because lines cluster: the cluster has a subject. Somebody who draws every line around being talked over is protecting something different from somebody who draws every line around other people's workload. While the subject stays unnamed you draw when the trigger arrives. Named, you choose.
+**Why it matters:** One line tells you almost nothing about yourself. You cannot tell from a single instance whether you met what was in front of you or an old charge wearing today's clothes. The whole chapter turns on that question. Five instances answer it, because lines cluster: the cluster has a subject. Somebody who draws every line around being talked over is protecting something different from somebody who draws every line around other people's workload. While the subject stays unnamed you draw when the trigger arrives. Named, you choose.
 
 In practice: list five moments from the last month where a line was available. Use four words each, no explanation. Then read the five together and say what they are all about.
 
@@ -723,7 +723,7 @@ When you draw a line, the seconds on either side of it decide whether it stands.
 
 **Gather Resources — the no said in your own name**
 
-*You're winning when:* you refused a demand on time, money, or attention that somebody with less standing could not have refused, and did so in your own name rather than on their behalf without asking. You refused in your own name, and the reputation for absorbing went with it. The proof is that the capacity stayed with the person who needed it.
+*You're winning when:* you refused a demand on time, money, or attention that somebody with less standing could not have refused, in your own name rather than on their behalf without asking. The reputation for absorbing went with it. The proof is that the capacity stayed with the person who needed it.
 
 **Skillful Organizing — the boundary the group won't draw**
 
@@ -752,7 +752,7 @@ Notice what happens as you go down the five. Wake Up names what you refuse to se
 
 A daemon holds one rule in force the whole way down, producing a different failure at every move. The Skeptic's five:
 
-**Wake Up.** It notices resistance, always somebody else's. What resists being seen gets located outside you before the noticing has finished, and the hand holding the instrument escapes it.
+**Wake Up.** It notices resistance, always somebody else's. What resists being seen gets located outside you before the noticing has finished, so the hand holding the instrument escapes it.
 
 **Open Up.** A feeling whose warrant still hangs open cannot be stayed with; staying would be credulity. So the discomfort goes into escrow until a verdict that does not release it.
 
