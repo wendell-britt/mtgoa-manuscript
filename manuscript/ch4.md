@@ -320,7 +320,7 @@ Did this charge become a line, or did it become smoke?
 
 The Challenger does not need you to calculate points in the middle of confrontation. The Challenger needs you to tell the truth about what happened to your will.
 
-The five conversions above do the replenishing, each spending a dissatisfaction in the direction its channel exists for and leaving you with more will than you started with. That names the alchemy. What follows fills in the rest of the ledger.
+The five conversions above are the alchemy: each spends a dissatisfaction in the direction its channel exists for and leaves you with more will than you started with. What follows fills in the rest of the ledger.
 
 Some moves sustain will because they keep the confrontation workable: the line lets you interrupt the pattern crossing it, the interrupt lets you demand what replaces it, the demand clarifies where you will not move regardless of pressure, and the refusal becomes a consequence you can name.
 
@@ -394,7 +394,7 @@ This moment calls for the Reckoning. It is not anger but *consequence.* You stat
 
 *"Last time we talked about this, I asked you to stop making jokes about X. It happened again in today's meeting. I want to be direct: if it happens again, I will raise it in the team retrospective. That's where it belongs if it can't be resolved here. I want you to know that before it happens, not after."*
 
-That is not a threat but a *foresight.* You tell them what you will do before you have to do it. That holds the Challenger's sharpest tool.
+That is not a threat but a *foresight*, the sharpest tool the Challenger has. You tell them what you will do before you have to do it.
 
 Most people do not do this because they fear looking punitive. The Challenger knows: *not* naming the consequence is not kindness. It is cruelty wearing kindness as a disguise, because it sets the other person up to cross the line again, not knowing what will follow.
 
@@ -570,7 +570,7 @@ The tell is never the position. The tell is whether you ever move. An auditor th
 
 The Skeptic developed does what nothing else in this chapter can: it makes your line credible, to yourself before anyone else. When the auditor has done its narrow job honestly and come back with *real, and current,* you are no longer arguing with yourself while the moment burns. You are aimed.
 
-That builds the Disruptor's foundation. What this chapter trains is clarity without cruelty, held steady long enough to say one sentence and stay for what follows. Fighting and certainty come easy by comparison.
+The Disruptor's foundation is clarity without cruelty, held steady long enough to say one sentence and stay for what follows. Fighting and certainty come easy by comparison.
 
 You know what your auditor is for now. That is what you take out.
 
@@ -591,7 +591,7 @@ Theirs is doing the same job in a Forest you cannot see into. A stranger's Skept
 <!-- /MARGINALIA -->
 
 
-That names the shape of it. You've met the Skeptic and practiced 3-2-1 on the line you projected outward. Now, what does it actually look like in a real situation?
+You've met the Skeptic and practiced 3-2-1 on the line you projected outward. Now, what does it actually look like in a real situation?
 
 The Challenger's game is simple: **draw the line, name the cost, mean it.**
 
@@ -774,9 +774,9 @@ Five moves, one pass, ninety seconds.
 
 A reading that ends in a notebook stays a reading you had. A reading that ends in a quest is one you played. Quests come out of Show Up, because that move ends in an artifact: something another person can encounter.
 
-One sentence: what you will do, who it reaches, by when, and what it costs you. *Draw the Line* becomes: **I will tell the hiring panel on Thursday that I cannot support rejecting her unless somebody names the behavior, without softening it into a question, though it will cost me being the easy vote on that panel.** That qualifies as a quest. *I will be more direct* does not; nobody can tell whether you did it, including you.
+One sentence: what you will do, who it reaches, by when, and what it costs you. *Draw the Line* becomes: **I will tell the hiring panel on Thursday that I cannot support rejecting her unless somebody names the behavior, without softening it into a question, though it will cost me being the easy vote on that panel.** That is a quest. *I will be more direct* is not; nobody can tell whether you did it, including you.
 
-The tell that a quest is alive is not enthusiasm. It arrives as anticipation with some dread underneath it. For a Challenger the dread usually arrives first. That counts as a good sign and a hard one.
+The tell that a quest is alive is not enthusiasm. It arrives as anticipation with some dread underneath it. For a Challenger the dread usually arrives first, which is a good sign and a hard one.
 
 *Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
 
@@ -787,7 +787,7 @@ The tell that a quest is alive is not enthusiasm. It arrives as anticipation wit
 
 The Challenger's contribution to the allyship game is this: **before you can build anything worth keeping, someone has to be willing to say no to what would destroy it.**
 
-That names the gift. People mistake it for the anger, or for the conflict. It is the *willingness.* The willingness to draw a line when drawing a line is costly. The willingness to be unwelcome in service of what is true. The willingness to say no and mean no and hold the no when everyone would prefer you softened it.
+People mistake the gift for the anger, or for the conflict. It is the *willingness.* The willingness to draw a line when drawing a line is costly. The willingness to be unwelcome in service of what is true. The willingness to say no and mean no and hold the no when everyone would prefer you softened it.
 
 The Challenger does not build. The Challenger clears the ground.
 
@@ -803,7 +803,7 @@ Underneath every part of it runs the Disruptor: the willingness to be unwelcome 
 
 The Challenger can draw the line. The Challenger cannot *hold* the line across scale and time.
 
-A line held in the moment becomes a boundary. A line held across seasons, across people, across generations, becomes something else: a tradition, an institution, a role with a name and a history. That names the Regent's work. The Regent does not draw the lines: the Regent builds what carries them forward.
+A line held in the moment becomes a boundary. A line held across seasons, across people, across generations, becomes something else: a tradition, an institution, a role with a name and a history. The Regent does not draw the lines: the Regent builds what carries them forward.
 
 The Challenger's no, without the Regent, lasts one conversation. The Challenger's no, carried by the Regent, becomes a founding principle.
 
