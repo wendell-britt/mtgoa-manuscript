@@ -68,7 +68,7 @@
 
 The Challenger once lived in the village.
 
-Inside it, one of them, the Challenger drew the lines. Who said "this far and no further." Who stood in the place where everyone else kept negotiating and planted a flag and said *this is where we stand.* The villagers needed that. Plenty of them could feel what was wrong but couldn't say it out loud. The Challenger could say it. The Challenger could say it and mean it and hold the line while everyone else figured out how to catch up.
+Inside it, one of them: the Challenger who drew the lines. Who said "this far and no further." Who stood in the place where everyone else kept negotiating and planted a flag and said *this is where we stand.* The villagers needed that. Plenty of them could feel what was wrong but couldn't say it out loud. The Challenger could say it. The Challenger could say it and mean it and hold the line while everyone else figured out how to catch up.
 
 The villagers built rituals around this. The Challenger would speak first at councils. Not because they were the eldest or the wisest but because they could say what needed saying before anyone else could bear to hear it. "This is not acceptable." "That boundary has been crossed." "We will not do this." The words were simple. The weight behind them was not.
 
@@ -643,7 +643,7 @@ In practice: when the charge arrives, start a clock instead of a sentence. For t
 
 **The Situation:** You have to say something hard to someone in twenty minutes.
 
-**What it is:** Name which channel you are carrying before you open your mouth, Fire or Water: a line was crossed, or something was lost. You are going to speak either way. Which one you are actually carrying decides what comes out.
+**What it is:** Name which channel you are carrying before you open your mouth, Fire or Water: a line was crossed, or something was lost. You are going to speak either way. The one you are actually carrying decides what comes out.
 
 **Why it matters:** Cruelty in a confrontation is usually a mismatch rather than a decision. Anger delivered as anger is hard to hear, easy to answer, because Fire asks for agency and the other person can hand agency over. Hurt delivered as anger is heard as an attack that nothing they do can satisfy, because sadness, the Water underneath it, wanted to be met and you asked to win instead. So they defend, you escalate, and afterward you cannot say what you were actually after. Naming the channel first does not soften the content. It aims it.
 
