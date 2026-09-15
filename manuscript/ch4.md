@@ -326,7 +326,7 @@ Some moves sustain will because they keep the confrontation workable: the line l
 
 Some moves spend fire without protecting anything:
 
-- **Charge → Swallow:** You feel it and push it down. Repression does not eliminate the charge, it stores it, and the stored charge leaves sideways: sighs, delayed responses, the sudden unavailability that is a thousand small nos dressed up as scheduling conflicts. This is not a line. This is a slow war.
+- **Charge → Swallow:** You feel it and push it down. Repression does not eliminate the charge, it stores it, and the stored charge leaves sideways: sighs, delayed responses, the sudden unavailability that is a thousand small nos dressed up as scheduling conflicts. You are running a slow war instead of drawing a line.
 
 - **Charge → Performative outrage:** You express the charge for the audience rather than for the line. This is venting without risking. You get the feeling out, but you don't draw the actual boundary. The charge is spent and nothing has changed.
 
@@ -364,7 +364,7 @@ The Challenger does not live in constant confrontation. The Challenger lives in 
 <!-- /MARGINALIA -->
 
 
-Everything above builds the system. You carry this one move out of the Forest and into the Village this week: the meeting, the group chat, the dinner table. Interior work is free. The Village is where the no has a price. This is how you pay it cleanly.
+Everything above builds the system. You carry this one move out of the Forest and into the Village this week: the meeting, the group chat, the dinner table. Interior work is free. The Village is where the no has a price. Pay it cleanly.
 
 You are in a meeting. Someone says something that crosses a line, a small violation but a real one. Something that dismissed a community you care about. Something that was said *casually,* the way people talk when they don't know who is listening.
 
@@ -572,7 +572,7 @@ The Skeptic developed does what nothing else in this chapter can: it makes your 
 
 What this chapter trains is clarity without cruelty, held steady long enough to say one sentence and stay for what follows. Fighting and certainty come easy by comparison.
 
-You know what your auditor is for now. That is what you take out.
+You know what your auditor is for now.
 
 Theirs is doing the same job in a Forest you cannot see into. A stranger's Skeptic holds the job of an auditor somebody fooled once, so it will not take confidence as evidence. Admitting what you do not know buys the cheapest clearance available anywhere in this book.
 
