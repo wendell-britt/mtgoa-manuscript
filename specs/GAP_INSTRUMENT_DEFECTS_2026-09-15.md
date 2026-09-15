@@ -167,5 +167,20 @@ The ch4 pass produced three cases of a drawdown damaging prose it could not read
 - **`40077a6`** split `gets braced against, and it should be named` into two sentences and left
   both agentless passives standing. Wendell wrote *"By who?"* on that exact line.
 
+- **`a8db0ca`** replaced two copulas and took the nouns with them. `It is a request you haven't
+  stopped making yet. It is the hope that someone will respect your line...` became `It keeps
+  asking past the point where you meant to stop. It hopes someone will respect your line...`
+  Naming the thing is what the sentences were for, and the pass left the payoff orphaned: *"Hope,
+  in the domain of boundaries, is not a strategy"* lands on a noun the previous sentence no longer
+  supplies. **This is the say-the-noun failure that `marginalia/review.py` already has as its own
+  BLOCK category** — one instrument manufactured a defect another instrument exists to catch, and
+  neither board noticed.
+
+- **`40077a6`** de-passivised `I was told that at nineteen, by people who meant well, and I
+  believed them...` into `I was nineteen when people who meant well told me that. I believed
+  them...` The de-passivising was right; the result pushed the demonstrative `that` four words
+  further from the list it refers to and wrapped the sentence in a clumsy temporal frame. A
+  correct rule, applied without reading, produced a worse sentence.
+
 **Proposed rule:** a sweep that rewrites more than some threshold of sites gets a sampled read
 before it commits. The telling pass changed 491 lines across nine chapters with no recorded read.

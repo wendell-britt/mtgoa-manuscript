@@ -127,7 +127,7 @@ The villagers became afraid of conflict the way bodies become afraid of a low-gr
 
 The villagers do this with the clean no once the Challenger has gone: they transform it into *performative diplomacy.* Into "let's find common ground" when the crossing violated the common ground itself. Into *understanding the other person's perspective* when the other person's perspective includes your erasure.
 
-The villagers did all of this with good intentions. Because the Regent was right: *power had to be organized.* Because walls cost less than lines. Because saying no cost something, which they had decided, without ever announcing it, to stop paying.
+The villagers did all of this with good intentions. The Regent was right: *power had to be organized.* Walls cost less than lines. Saying no cost something they had decided to stop paying, without ever announcing the decision.
 
 The villagers never realized they had traded the capacity to draw lines for the comfort of not having to. That every time they chose the managed conversation over the clean no, one generation taught the next that the clean no was not theirs. That the Challenger's gift (the willingness to be unwelcome in service of what is true) was draining away, not just from the villagers, but from their *capacity to even recognize* when the moment called for it.
 
@@ -136,9 +136,7 @@ The villagers never realized they had traded the capacity to draw lines for the 
 <!-- SECTION 3 -->
 ## What the Clean No Actually Is (And Why It's Not What You've Been Told)
 
-You already carry a version of the clean no. You've been calling it something else.
-
-The villagers hear the clean no as aggression: the angry one, the difficult one, the one who makes it worse before it gets better, someone who says no because they want to win. I was nineteen when people who meant well told me that. I believed them for another thirty years. The version they described does exist (you've probably met them), but it is not what we're talking about here.
+The villagers hear the clean no as aggression: the angry one, the difficult one, the one who makes it worse before it gets better, the one who says no because they want to win. The version they described does exist (you've probably met them), but it is not what we're talking about here.
 
 The School of the Line will not turn you into an asshole. The clean no **states a boundary without apologizing for it, collapsing it, or converting it into a request.**
 
@@ -163,11 +161,11 @@ Most people can do part one. Some people can do parts one and two. Very few peop
 <!-- /MARGINALIA -->
 
 
-Because a boundary that does not include the cost is not a boundary. It keeps asking past the point where you meant to stop. It hopes someone will respect your line without you having to enforce it. Hope, in the domain of boundaries, is not a strategy.
+A boundary that does not include the cost is not a boundary. You are left with a request you have not stopped making, a hope that someone will respect your line without you having to enforce it. Hope, in the domain of boundaries, is not a strategy.
 
 The Challenger learned this the hard way, by watching boundaries dissolve, relationships rupture, and lines get crossed because someone stated a preference instead of drawing a line.
 
-Real allyship requires the clean no. Not because allyship is about conflict. Allyship means being present with people across power differentials. Power differentials require the ability to *name* them, *hold* them, and *respond* to their violation without collapsing.
+Real allyship requires the clean no, though not because it is about conflict. Allyship means being present with people across power differentials. Power differentials require the ability to *name* them, *hold* them, and *respond* to their violation without collapsing.
 
 The villagers without the Challenger cannot do this. They can feel the violation but cannot name it cleanly. They can see the line get crossed but cannot draw their own without apologizing for it. They can recognize when someone gets harmed but cannot say *this is not acceptable* without also saying *but I understand why you did it* and *maybe we all need to be more compassionate.*
 
