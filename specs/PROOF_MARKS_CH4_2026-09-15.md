@@ -14,7 +14,7 @@ source:
   - manuscript/ch4.md
   - specs/MARK_PATTERN_TABLE_2026-09-09.md
   - specs/PROOF_READNOTES_V2_2026-09-01.md
-status: batch 1 intaken (proof pp.120-129). More batches expected; append, do not replace.
+status: batches 1-2 intaken (proof pp.110-129). More batches expected; append, do not replace.
 ---
 
 # Proof marks — Chapter 4, The Challenger
@@ -143,3 +143,119 @@ p.129 (both recap marks rewritten, one improved, one worse)
    a sentence longer, and it sits in the chapter's closing argument.
 3. **Fix the two detector gaps before the next batch?** They are bounded, and every later chapter
    gets the benefit.
+
+
+---
+
+# Batch 2 — proof pp.110-119
+
+62 marks. **41 live, 21 already rewritten.** Four marks are in pen, and they are worth more than
+the highlights: a highlight reports a symptom, these name a defect.
+
+## The pen marks
+
+### 1. "By who?" + "Passive" — p.113, L425
+
+The sentence in the proof, and the sentence now:
+
+```
+proof   A version of this chapter gets braced against, and it should be named before we go further.
+now     A version of this chapter gets braced against. It should be named before we go further.
+```
+
+Commit `40077a6`, *"Land the trailing_and pass on the proof line: 0 unresolved"*, made that change.
+**The sweep had this exact sentence in its hands, scored it clean, and left both agentless passives
+standing.** Who braces? Who should name it? Two sentences, two hidden agents, and the drawdown's
+answer was to split them into two.
+
+This is the whole problem in one line, and it is now on the record rather than inferred. The `and`
+was never the defect. It was the seam where the defect was easiest to count.
+
+**No instrument covers this.** `prose_diet.py` has a `passive` column and ch4 scores 1.04, dead on
+baseline, because the chapter's passives are local to passages like this one and average away
+across 12,097 words.
+
+### 2. "Stop telling people things are real" — p.112, L421 and passim
+
+> The fire was real. The line was real. Without the practice to draw it clean, the fire just burned
+> everything down.
+
+Assertion by repetition: the prose insists on a quality instead of showing it. **This one measures,
+and ch4 is an outlier:**
+
+| ch | hits | per 1k words |
+|---|---:|---:|
+| 1 | 2 | 0.22 |
+| 2 | 4 | 0.45 |
+| 3 | 6 | 0.40 |
+| **4** | **13** | **1.07** |
+| 5 | 5 | 0.43 |
+| 6 | 4 | 0.34 |
+| 7 | 7 | 0.50 |
+| 8 | 9 | 0.63 |
+| 9 | 2 | 0.18 |
+
+Counting `is/was/are/were/stay/feels + real` and `real + harm|stakes|one|line|charge|thing` over
+body text with the frame stripped. **ch4 runs 1.7x the next-highest chapter and roughly 5x ch1.**
+A new row for the mark-pattern table, and unlike P1 and P2 it is trivially searchable.
+
+### 3. "incorrect" — p.115, L510
+
+Wendell is right, and it is a contradiction inside four lines, not a wording problem.
+
+```
+L510   The Skeptic decides something narrower and more damaging than either:
+       whether what you reacted to was ever real.
+
+L514   The question changes shape without announcing that it has changed,
+       from *is this real* to *are you the one who gets to say it is real.*
+```
+
+L514 is the chapter's own mechanism: `is this real` is the **legitimate** auditor question, and the
+corruption is the shift to **standing**. L510 names the legitimate question as the damaging one.
+L512 then calls a near-identical question *"the single useful question"*, and p.129 describes the
+daemon as *"the judge that audits your standing instead of your..."* — every other passage agrees
+with L514 and against L510.
+
+**Proposed fix, for approval:** L510 becomes the standing question, e.g. *"The Skeptic decides
+something narrower and more damaging than either: whether you are the one who gets to say it was
+real."* One sentence, and it puts the daemon's definition where the rest of the section already has it.
+
+`review.py` step 7k reports `CLAIMS PASS`. It checks that guarded spans sit where their ruling left
+them; this span is not guarded, so the pass is true and silent about the contradiction.
+
+### 4. "Questions aren't answered" — p.116
+
+**The obvious reading does not hold up.** ch4 runs 28 question marks, 2.31 per 1k words, which is
+below ch5 (3.59), ch6 (3.74), ch7 (3.11), ch8 (3.93) and ch9 (3.82). It is not a volume problem.
+
+Best reading of the note, offered for correction: on this page the interrogative does two unrelated
+jobs and neither resolves. The daemon's voice is punctuated as statement — *"Am I overreacting.
+Other people have it worse. I'm probably being dramatic."* (never carried a question mark in this
+repo's history) — while *"Ask yourself whether you feel certain"* is a real prompt to the reader
+that the page answers on the reader's behalf one clause later. **Needs Wendell's call on what the
+note meant before anything is drafted.**
+
+## Batch 2 — live highlight marks
+
+p.110 L335, L367 · p.111 L375, L385 · p.112 L401, L419, L421 · p.113 L425, L427 (x2), L429, L438 ·
+p.114 L462, L466, L472 · p.115 L510, L512 (x3) · p.116 L512 (x2), L514, L518 (x2), L522 ·
+p.117 L524 (x2), L528, L532 (x3), L534 · p.118 L559, L565 · p.119 L565, L571, L575, L577, L585,
+L596, L598
+
+Same A/B/C split as batch 1 holds. Heaviest concentration is L512 and L532, where several marks
+land on one long line.
+
+## Running total, batches 1-2
+
+**120 marks · 75 live · 45 on rewritten text.**
+
+## Open questions, updated
+
+1. **C (`because` + interpretation) — is it a row?** Carried from batch 1.
+2. **Agentless passive — is it a row?** The pen says yes. Nothing measures it locally.
+3. **Real-insistence — promote to an instrument?** It measures, ch4 is 1.7x the next chapter, and
+   it would take an afternoon.
+4. **L510 — approve the standing-question fix?** This one is a factual error in the book's own
+   model, not a line-quality call.
+5. **What did "Questions aren't answered" mean?**
