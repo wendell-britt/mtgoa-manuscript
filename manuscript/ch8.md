@@ -781,15 +781,11 @@ Each Tell targets the Sage's signature failure: the view spent on standing above
 
 ---
 
-## The Sage Is a Move You Run
+## Where the Damaged Self Bites
 
-The Sage works as a Face, but it also runs as a move you can play, which means you are not holding an archetype. You are holding a practice: the Five-Move Form.
+You have been running the Five-Move Form since Chapter 3. The five moves are this chapter, in order. Open Up finds the Sage weakest by design, because witnessing a game from inside it is what the whole-board view makes harder rather than easier. Of the Form's five moves, Grow Up alone asks what the playing does to the player. Show Up is legacy: what remains once you stop holding it.
 
-The five moves are this chapter, in order. Open Up finds the Sage weakest by design, because witnessing a game from inside it is what the whole-board view makes harder rather than easier. Of the Form's five moves, Grow Up alone asks what the playing does to the player. Show Up is legacy: what remains once you stop holding it.
-
-### Where the Daemon Bites
-
-A daemon runs as a rule in force at every move, which means five failures rather than one. The Damaged Self's:
+A daemon is one rule in force at every move, which means five failures rather than one. The Damaged Self's:
 
 **Wake Up.** The signal registers alongside the fact that you noticed it the way you notice everything: the suspect way. The noticing is accurate. It arrives with a footnote about the noticer, a footnote that runs longer than the notice.
 

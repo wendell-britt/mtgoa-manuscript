@@ -826,13 +826,9 @@ Each Tell targets the Diplomat's signature failure: the close spent on getting t
 
 ---
 
-## The Diplomat Is a Move You Run
+## Where the Victim Bites
 
-The Diplomat names a Face, but you can also run it as a move, which means you are not holding an archetype. You are holding a practice: the Five-Move Form.
-
-The five moves are this chapter, in order. Grow Up asks about other people by design. Show Up builds the relationship, because at this altitude showing up means bringing somebody with you.
-
-### Where the Daemon Bites
+You have been running the Five-Move Form since Chapter 3. The five moves are this chapter, in order. Grow Up asks about other people by design. Show Up builds the relationship, because at this altitude showing up means bringing somebody with you.
 
 A daemon holds one rule in force at every move, which means five failures rather than one. The Victim's:
 

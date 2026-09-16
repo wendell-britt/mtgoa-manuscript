@@ -697,15 +697,11 @@ Each Tell targets the Regent's signature failure: the inheritance carried so tha
 
 ---
 
-## The Regent Is a Move You Run
+## Where the Fixer Bites
 
-The Regent qualifies as a Face, but it also works as a move you can run. You are holding a practice: the Five-Move Form's five movements.
+You have been running the Five-Move Form since Chapter 3. The Regent's Show Up runs entirely on verbs for keeping: hold, keep, sustain, tend. Not one of them makes anything new. That is the difference between building something and inheriting it. It also makes this the slowest practice of the six.
 
-The Regent's Show Up runs entirely on verbs for keeping: hold, keep, sustain, tend. Not one of them makes anything new. That marks the difference between building something and inheriting it. It also makes this the slowest practice of the six.
-
-### Where the Daemon Bites
-
-A daemon works as a rule in force at every move, which means five failures instead of one. The Fixer/Healer's:
+A daemon is one rule in force at every move, which means five failures instead of one. The Fixer/Healer's:
 
 **Wake Up.** Asked what deserves attention, it returns what is damaged. Those are not the same list. You will never accept an inheritance you can only see the breaks in.
 

@@ -643,13 +643,9 @@ Each Tell targets the Architect's signature failure: the design built for the si
 
 ---
 
-## The Architect Is a Move You Run
+## Where the Emotional Body Bites
 
-The Architect works as a Face, but also as a move you can run, which means you are not holding an archetype. You are holding a practice: the Five-Move Form.
-
-The five moves are this chapter, in order, with Clean Up in its own slot rather than on reflex a quarter-second after the signal arrives.
-
-### Where the Daemon Bites
+You have been running the Five-Move Form since Chapter 3. The five moves are this chapter, in order, with Clean Up in its own slot rather than on reflex a quarter-second after the signal arrives.
 
 The daemon holds one rule, in force at all five moves. The Emotional Body's five:
 

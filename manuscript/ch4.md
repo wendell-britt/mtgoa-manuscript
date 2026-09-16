@@ -740,13 +740,9 @@ Each Tell targets the Challenger's signature failure: the line drawn for the rec
 
 ---
 
-## The Challenger Is a Move You Run
+## Where the Skeptic Bites
 
-The Challenger works as a Face, but also as a move you can run, which means you are not holding an archetype. You are holding a practice: the Five-Move Form, which you have been running since Chapter 3.
-
-Notice what happens as you go down the five. Wake Up names what you refuse to see. Show Up names what you do in front of other people. That draws the Challenger's arc: it starts at what you refuse to see and ends at something you did with witnesses.
-
-### Where the Daemon Bites
+You have been running the Five-Move Form since Chapter 3. Notice what happens as you go down the five here. Wake Up names what you refuse to see. Show Up names what you do in front of other people. That is the Challenger's arc: it starts at what you refuse to see and ends at something you did with witnesses.
 
 A daemon holds one rule in force the whole way down, producing a different failure at every move. The Skeptic's five:
 

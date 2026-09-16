@@ -864,15 +864,13 @@ Each Tell targets the Shaman's signature failure: what you saw, spent on being s
 
 ---
 
-## The Shaman Is a Move You Run
+## Where the Controller Bites
 
-The Shaman counts as a Face, but it also works as a move you can run, which means you are not holding an archetype. You are holding a practice: the Five-Move Form, Wake Up, Open Up, Clean Up, Grow Up, Show Up. This chapter ran the five, in order: every stage you worked counts as one of them.
+The Five-Move Form is the instrument this chapter built: Wake Up, Open Up, Clean Up, Grow Up, Show Up. Every stage you worked above was one of them, run in order.
 
-### Where the Daemon Bites
+Which of the five your daemon corrupts matters most. A tempting wrong answer waits: that a shadow lives at one move and the other four are clean.
 
-Which of the five moves your daemon corrupts matters most. A tempting wrong answer waits: that a shadow lives at one move and the other four are clean.
-
-They are not clean. A daemon is not a defect at one stage of the Form. It runs as a rule, in force the whole way down. Run the Controller through all five moves and five different failures come out, one per move, exactly what makes the five worth having: each move shows you the same rule from a different side.
+They are not clean. A daemon is not a defect at one stage of the Form. It is a rule, in force the whole way down. Run the Controller through all five moves and five different failures come out, one per move, exactly what makes the five worth having: each move shows you the same rule from a different side.
 
 **Wake Up.** The signal arrives at full strength and gets logged at a strength you are cleared to be seen having. Nothing is missed. Everything is downgraded on the way in.
 
