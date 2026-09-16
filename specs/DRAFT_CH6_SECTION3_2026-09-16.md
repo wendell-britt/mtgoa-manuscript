@@ -30,7 +30,7 @@ Systems thinking built capitalism. It built engineering, and the scientific meth
 safety regulation standing between you and a preventable death. One person finding one place
 where a small push moves more than a large one, over and over, for four hundred years. Put that
 instrument in the hands of somebody who cannot feel who is standing underneath it and you get
-the man from the meme. **You find the condition that produced the harm and you change it. Now
+the systems guy. **You find the condition that produced the harm and you change it. Now
 the next person does not have to be brave. Call that structural design.** Clearing an incident
 restores one person to where they should have been. Changing a condition means nobody has to
 ask again.
@@ -76,8 +76,8 @@ Printing the document takes ten minutes and nobody has to agree to anything. Som
 heavily. Getting somebody the money this week can mean using the one ask you hold with the
 person who could change the rule. Use it there and the bridge stays broken.
 
-Leave someone hurting while you redesign the system and you have become the villain from the
-meme by a slower road. Hand someone a fix they never asked for and you have not helped them.
+Leave someone hurting while you redesign the system and you have become the systems guy
+by a slower road. Hand someone a fix they never asked for and you have not helped them.
 You have practised on them.
 
 Other pain runs deep. The same hurt keeps arriving, to different people, in the same place. Now
@@ -219,8 +219,8 @@ having turned a girl into a variable in somebody else's plan. Misread that and y
 produce a suboptimal outcome. You destroy a real person for a cause she never agreed to
 represent.
 
-The Architect who cannot feel who stands underneath the design becomes the villain from the
-meme. Coldness never gets him there. He gets there without the one sense that would warn him.
+The Architect who cannot feel who stands underneath the design becomes the systems guy.
+Coldness never gets him there. He gets there without the one sense that would warn him.
 When a design starts costing more than it returns, nobody in those conditions will say so.
 
 ### The Two Kinds of Impact
