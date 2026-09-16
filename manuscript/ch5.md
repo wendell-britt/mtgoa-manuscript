@@ -498,7 +498,11 @@ Both cost something. Claiming it means you can no longer hide behind not-yet-rea
 
 I have never once let a friend finish describing a problem. The moment I hear the shape of it I am three steps into a solution nobody asked for. I do it because I love them; that love makes it so hard to stop.
 
-He has been fixing his brother for eleven years. His brother is fine. His brother has a job and a dog.
+<!-- MARGINALIA -->
+> *He has been fixing his brother for eleven years. His brother is fine. His brother has a job
+> and a dog.*
+<!-- /MARGINALIA -->
+
 
 You met the Fixer/Healer at the door of the Forest, fourth in line, one step past the Skeptic. The Protector decides whether you go in. The Controller decides how you may behave once you are inside. The Skeptic decides whether what you react to was ever real. The Fixer/Healer decides something none of them touch: whether what is in front of you is in good enough condition to be given yourself to.
 

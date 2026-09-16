@@ -235,6 +235,8 @@ Heads believe it predates the ship, which it cannot, because we invented it in t
 I was there and I remember the argument about the candles.*
 
 *It is the best-attended ceremony we have. I have stopped correcting people.*"""),
+("makes it so hard to stop", """*He has been fixing his brother for eleven years. His brother is fine. His brother has a job
+and a dog.*"""),
 ("what you were holding was you", """*Sera does this — not the repair half but the second one. She is the reason four separate systems on
 this ship still function, none of them written down, all of them in her head, and she will tell
 you she is simply the person who happens to remember.*
