@@ -260,7 +260,7 @@ A voice on the phone, upset. When the emotion arrives, theirs and yours, the che
 
 Locate the problem. Solve the problem. Move on.
 
-It does not work, though not because the wrong problem got solved. The problem was not the problem. *The Courage to Be Disliked* has a line: all problems are relational problems. Every one of them is also an emotional problem. The rupture exists because something has gone unfelt. Solve for the emotion and service becomes possible.
+It does not work. The problem was not the problem. *The Courage to Be Disliked* has a line: all problems are relational problems. Every one of them is also an emotional problem. The rupture exists because something has gone unfelt. Solve for the emotion and service becomes possible.
 
 You are solving for your own emotion. The tightening in your chest when someone gets upset belongs to you, not to them. You convert it into competence and action as fast as possible. They get efficiency where they needed presence.
 

@@ -100,6 +100,23 @@ Wendell set it, and it is the only part worth copying:
 > rewrite them · put them in front of me · then change them, rereading to make sure we don't
 > break the logic
 
+### Correction, 2026-09-16
+
+**This document originally said the cross-chapter edits were "every site read in place, never
+swept." That was false**, and so is the same claim in commit `f3a6e1a`. For ch3, ch5 and ch8 I
+grepped the pattern, read about five lines around each hit, and wrote a fix from that. I did not
+read those chapters. Only ch4 was read end to end before being touched.
+
+**The result was visible the moment I did read them.** Seven of the eight `Not because` fixes had
+become `though not because` — one construction, applied uniformly across four chapters and five
+registers, appearing zero times in this book before that day. I wrote all seven. That is a sweep;
+typing each one individually does not make it a read. It is the same failure as `a8db0ca`
+rewriting one shared sentence as `run` in ch4 and `feel` in ch5-ch7.
+
+Re-cut 2026-09-16, each site given what its own sentence wanted. **Four of the seven concessions
+turned out to be unnecessary** — they guarded against a misreading the following sentence already
+handled — which is the finding the uniform fix had hidden.
+
 **The approval gate is load-bearing.** He overruled me on four of my own judgment calls —
 a fragment chain I said was building, a keep on `ch4:172`, the `spend` economics, and `spending
 yourself`. Each would have shipped.

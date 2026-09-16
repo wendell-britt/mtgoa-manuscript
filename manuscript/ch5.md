@@ -608,7 +608,7 @@ In practice: When you take on a new role, a new team, a new responsibility, befo
 
 **What it is:** Not everything needs to change. Some of what you inherited is load-bearing. The Regent's second move is discrimination, naming what would collapse if you removed it, even if you wish it weren't there.
 
-In practice: Make a list of three practices in your current inheritance that you would fight to protect, though not because they're perfect. Removing them would break something real. The Regent protects what serves even while the Regent reforms everything else.
+In practice: Make a list of three practices in your current inheritance that you would fight to protect. Removing them would break something real. The Regent protects what serves even while the Regent reforms everything else.
 
 **Example:** New leadership wants to retire the quarterly all-hands because attendance is down. Make the list of what breaks. One item on that list is Ruth, nineteen years in, the only person who can say why the escalation policy exists at all. The all-hands is where she says it. Name the breakage: *if we drop this we lose the one place the history gets told. The person who tells it retires in three years.* You may still lose the argument. Losing it with the breakage named costs differently.
 
