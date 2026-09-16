@@ -44,14 +44,21 @@ You are standing on the bank. Somebody is drowning, so you go in, bring her out,
 water out of her. Before she is breathing properly another shout comes from upstream. In you go
 again. You get good at this. You get very good at this. The shouting does not stop.
 
-McKinlay gives the punchline to the rescuer. *I am so busy jumping in, pulling them to shore,
+McKinlay gives the punchline to the exhausted rescuer. *I am so busy jumping in, pulling them to shore,
 applying artificial respiration, that I have no time to see who the hell is upstream pushing
 them all in.*
 
-Most retellings put a broken bridge at the top of the river.
+Most rescuers never leave the water. They get better at rescue. They build a reputation. They
+get a medal.
 
-The rescuer is right to go in the water every time. Nobody in the story will ever reach the
-bridge, because the only person who can see the problem is holding somebody's head above water.
+But one day, one rescuer notices something: the drowning keeps arriving in the same place, to
+different people. The person in the water changes. The place does not.
+
+So this rescuer does something harder than rescue. This rescuer stops going in.
+
+This rescuer walks upstream. Finds the bridge. Fixes the bridge.
+
+Now nobody drowns here. The rescuer is no longer a rescuer. The rescuer is an Architect.
 
 The myth says allyship means fixing problems. The fixing is not the error. Nobody taught you to
 sort.
@@ -76,7 +83,7 @@ You have practised on them.
 Other pain runs deep. The same hurt keeps arriving, to different people, in the same place. Now
 you ask why people keep going in the water here, rather than who went in this time.
 
-Usually somebody finds a bridge nobody has walked up to look at.
+Usually the bridge is already there. Someone has to walk upstream far enough to see it.
 
 Relief does nothing about a broken bridge. That does not make the relief false. It reaches the
 wound. It never reaches what opened the wound. So if relief is all you have, the same injury
