@@ -116,7 +116,7 @@ The villagers never meant for that to happen. They never said *go.* They just st
 
 After the Architect left, the villagers didn't stop needing systems.
 
-It just stopped understanding them.
+They just stopped understanding them.
 
 The villagers still built. Still created roles and processes and meeting formats and accountability structures. Without the Architect to say *wait, before you build this, let me show you what it will actually produce*, they built systems that looked correct and failed anyway. They built planning processes that produced plans nobody followed. They built accountability structures that nobody trusted. They built meeting formats that everyone hated attending. They built all of this with sincere effort and no structural clarity.
 
@@ -167,7 +167,7 @@ The five modes, the stage sequence, the part of you that feels the system before
 
 Somewhere in the training you will recognize a design failure. A process that looked correct and failed anyway. An accountability structure nobody trusted. A meeting format that produced nothing and cost everyone something. The School of the Pattern makes the same claim about all of them: the structure did exactly what it got built to do. That was what went wrong. Not who failed it. Why it could not have done otherwise.
 
-Doing the right thing in the wrong system costs a specific kind of expensive: the system's cut. You pay it in hours, in goodwill, in the same argument made a fourth time, while the system keeps the difference. The Architect starts by recognizing it as a system problem rather than an effort problem.
+Doing the right thing in the wrong system has a specific price: the system's cut. You pay it in hours, in goodwill, in the same argument made a fourth time, while the system keeps the difference. The Architect starts by recognizing it as a system problem rather than an effort problem.
 
 ---
 
@@ -195,7 +195,7 @@ Call this an engineering fact rather than a metaphor. It has profound implicatio
 
 Because allyship poses a problem of system design before it poses a problem of individual behavior. Good people cause harm because the system they're inside rewards harmful behavior and punishes the alternative. Change the system and you change the behavior by making the better behavior the easier one. That's structural design. That's the Architect's practice.
 
-Most people learned to interrupt this logic. To say *but people should just know better. People should just choose differently. Culture is about individual accountability.* While individual accountability matters, it works as a moral appeal rather than a system design strategy. Moral appeals work until the system incentivizes something else. Then they stop working. The people who made the moral appeal wonder why nobody listened, when the answer comes simple: the system was louder than the appeal.
+Most people learned to interrupt this logic here, with *but people should just know better. People should just choose differently. Culture is about individual accountability.* While individual accountability matters, it works as a moral appeal rather than a system design strategy. Moral appeals work until the system incentivizes something else. Then they stop working. The people who made the moral appeal wonder why nobody listened. The system was louder than the appeal.
 
 Real structural design works differently. Real structural design means looking at the system you're inside and asking: *what is this system actually rewarding? Is that what I want it to reward? If not, where is the actual leverage point for change?*
 
@@ -245,7 +245,7 @@ The Architect's practice has five stages:
 
 **Observe:** What is actually happening? Not what the org chart says should happen. What is actually happening, measured, traced to its source. The Architect talks to the people inside the system. Reads the data. Looks at outcomes, not intentions.
 
-**Model:** Build the simplest explanation that accounts for the behavior. A model is not the territory. It draws a map, useful for a specific territory, disposable when it outlives its usefulness. Once you have the model, you can test it. Once you can test it, you can change it.
+**Model:** Build the simplest explanation that accounts for the behavior. A model never matches the territory. It maps one stretch of ground, well enough to test and cheap enough to discard. Once you have the model, you can test it. Once you can test it, you can change it.
 
 **Design:** Create the intervention that changes the system's incentives. The Architect asks: where is the actual leverage point? What would have to change for the right outcome to become the natural outcome? Design turns understanding into something that happens.
 
@@ -259,7 +259,7 @@ Hand Off is also where the Architect most often walks away, for reasons that hav
 
 ---
 
-The five Architect modes are five ways logic moves through a problem. Each one works as a channel that detects.
+Logic moves through a problem five ways. The Architect keeps a mode for each, every one of them tuned to a different signal.
 
 ### Draw the Axis — Structure ↔ Agency
 
@@ -359,7 +359,7 @@ Its opposite already has a face in your head. Pick them. Someone who names a per
 
 ### Name One Unstated Assumption, in the Village
 
-Everything above builds the instrument. One move takes it out of the Forest. Structural clarity, kept in your head, costs nothing, and risks nothing. The moment you say it out loud in front of the people who built the system, it costs something. That's the Architect's exile wound in miniature: clarity gets heard as judgment. This week, you say it anyway.
+Everything above builds the instrument. One move takes it out of the Forest. Structural clarity, kept in your head, costs nothing and risks nothing. The moment you say it out loud in front of the people who built the system, it costs something. That's the Architect's exile wound in miniature: clarity gets heard as judgment. This week, you say it anyway.
 
 Pick a group you're actually in (a team, a committee, a coalition) where everyone keeps busy solving the visible problem but nobody has named what is underneath it: the load-bearing assumption nobody sees, because it has held true so long no one remembers deciding it. Then name it, out loud. Not as a question you can retreat from (*"do we maybe want to think about whether…?"*), as a flat observation: *"We're assuming X. I don't think that's true anymore, yet everything we're building sits on top of it."*
 
@@ -588,7 +588,7 @@ In practice: when you're revising a design, name what the previous version got r
 
 ---
 
-That's the Architect's game, in five distinct moves: the map that makes you unnecessary, the leverage point instead of the brute-force push, the unstated assumption instead of the obvious one, the handoff instead of the dependency, the minimum instead of the masterpiece, the refactor instead of the defense.
+Five distinct moves make up the Architect's game: the leverage point instead of the brute-force push, the unstated assumption instead of the obvious one, the handoff instead of the dependency, the minimum instead of the masterpiece, the refactor instead of the defense. All five build the map that makes you unnecessary.
 
 That's what winning looks like at this altitude.
 
