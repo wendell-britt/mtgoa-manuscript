@@ -71,6 +71,30 @@ be cited as "reviewed".
 
 ---
 
+## 1b. `fragment.py`'s board is not stable under a local edit
+
+Found 2026-09-16. Editing **ch5 alone** moved `fragment` from `0 unresolved` to `2 unresolved`,
+and **both new findings are in files that were not touched**: `ch3:204` and `ch8:169`. Only
+`manuscript/ch5.md` was modified; verified with `git status`.
+
+The cause is in the file's own design, stated in its docstring: *"The verb lexicon still comes
+from the corpus... The whole design rests on aggregating 6,000 sentences to survive a tagger that
+is unreliable per instance."* **Change any chapter and the lexicon changes, so sentences in other
+chapters cross the threshold in both directions.**
+
+Two consequences:
+
+- **A `fragment` finding cannot be attributed to the edit that preceded it.** Diffing the board
+  before and after a change reports sites the change did not create.
+- **`fragment 54 -> 0` was never attributable either.** Sites closed during that drawdown may have
+  been closed by the lexicon shifting under it rather than by any edit.
+
+Combined with row 1, the tier cannot presently support a site list, a diff, or a target of zero.
+It can support a rate.
+
+**Do not chase this board green.** A `fragment` regression in a chapter you did not edit is
+evidence about the instrument, not about the prose.
+
 ## 2. `draft_lines.APPARATUS` — the frame is invisible to eight instruments
 
 ```python
