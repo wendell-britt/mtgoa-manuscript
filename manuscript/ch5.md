@@ -76,7 +76,7 @@ Fire costs. Every line the Challenger drew cost somebody something to hold, and 
 
 The Regent was standing right there while it did. A Regent has to enter that part of the account honestly. The Regent did not dislike the Challenger. The Regent believed that will, even clean will, could not carry a village across time, and offered the villagers structure instead. Walls to hold what they had already agreed to. A weekly council that opened with a reading of the stated values. A yearly ceremony that renewed the vows. Roles that passed from person to person, so that when one person left, the *role* stayed, so the next person could step into it.
 
-The villagers chose the Regent. The Challenger was not wrong. Nobody voted either. A line cost more than a wall. A village will take the cheaper of two every time nobody names the trade out loud. They stopped asking the Challenger to speak first. Then they stopped asking. When the Challenger left, the Regent, with a city to build, did not go after them.
+The villagers chose the Regent. A line had to be drawn again every week; a wall held on its own. Nobody named what the cheaper of the two would cost. A village makes that trade every time nobody does. They stopped asking the Challenger to speak first. Then they stopped asking. When the Challenger left, the Regent, with a city to build, did not go after them.
 
 This Regent's ledger holds that entry first. It goes in before anything else does. A keeper who cannot write down what their own arrival cost somebody else is keeping an account with a hole in it.
 
