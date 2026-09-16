@@ -645,7 +645,7 @@ Each Tell targets the Architect's signature failure: the design built for the si
 
 ## Where the Emotional Body Bites
 
-You have been running the Five-Move Form since Chapter 3. The five moves are this chapter, in order, with Clean Up in its own slot rather than on reflex a quarter-second after the signal arrives.
+You have been running the Five-Move Form since Chapter 3. This chapter walked the five in order, with Clean Up in its own slot rather than on reflex a quarter-second after the signal arrives.
 
 The daemon holds one rule, in force at all five moves. The Emotional Body's five:
 

@@ -783,7 +783,7 @@ Each Tell targets the Sage's signature failure: the view spent on standing above
 
 ## Where the Damaged Self Bites
 
-You have been running the Five-Move Form since Chapter 3. The five moves are this chapter, in order. Open Up finds the Sage weakest by design, because witnessing a game from inside it is what the whole-board view makes harder rather than easier. Of the Form's five moves, Grow Up alone asks what the playing does to the player. Show Up is legacy: what remains once you stop holding it.
+You have been running the Five-Move Form since Chapter 3. This chapter walked the five in order. Open Up finds the Sage weakest by design, because witnessing a game from inside it is what the whole-board view makes harder rather than easier. Of the Form's five moves, Grow Up alone asks what the playing does to the player. Show Up is legacy: what remains once you stop holding it.
 
 A daemon is one rule in force at every move, which means five failures rather than one. The Damaged Self's:
 
