@@ -76,7 +76,7 @@ Fire costs. Every line the Challenger drew cost somebody something to hold, and 
 
 The Regent was standing right there while it did. A Regent has to enter that part of the account honestly. The Regent did not dislike the Challenger. The Regent believed that will, even clean will, could not carry a village across time, and offered the villagers structure instead. Walls to hold what they had already agreed to. A weekly council that opened with a reading of the stated values. A yearly ceremony that renewed the vows. Roles that passed from person to person, so that when one person left, the *role* stayed, so the next person could step into it.
 
-The villagers chose the Regent. Not because the Challenger was wrong, and not because anybody voted. Because the Challenger was expensive and the Regent was not, and because a village will take the cheaper of two goods every time nobody names the trade out loud. They stopped asking the Challenger to speak first. Then they stopped asking. When the Challenger left, the Regent, with a city to build, did not go after them.
+The villagers chose the Regent. The Challenger was not wrong. Nobody voted either. A line cost more than a wall. A village will take the cheaper of two every time nobody names the trade out loud. They stopped asking the Challenger to speak first. Then they stopped asking. When the Challenger left, the Regent, with a city to build, did not go after them.
 
 This Regent's ledger holds that entry first. It goes in before anything else does. A keeper who cannot write down what their own arrival cost somebody else is keeping an account with a hole in it.
 
@@ -608,7 +608,7 @@ In practice: When you take on a new role, a new team, a new responsibility, befo
 
 **What it is:** Not everything needs to change. Some of what you inherited is load-bearing. The Regent's second move is discrimination, naming what would collapse if you removed it, even if you wish it weren't there.
 
-In practice: Make a list of three practices in your current inheritance that you would fight to protect. Not because they're perfect. Because removing them would break something real. The Regent protects what serves even while the Regent reforms everything else.
+In practice: Make a list of three practices in your current inheritance that you would fight to protect, though not because they're perfect. Removing them would break something real. The Regent protects what serves even while the Regent reforms everything else.
 
 **Example:** New leadership wants to retire the quarterly all-hands because attendance is down. Make the list of what breaks. One item on that list is Ruth, nineteen years in, the only person who can say why the escalation policy exists at all. The all-hands is where she says it. Name the breakage: *if we drop this we lose the one place the history gets told. The person who tells it retires in three years.* You may still lose the argument. Losing it with the breakage named costs differently.
 

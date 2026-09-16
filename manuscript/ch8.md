@@ -492,7 +492,7 @@ You already know who this is. Someone who acted at the altitude they had rather 
 
 The walk back costs you the hardest part, but you can drill it like anything else.
 
-Not because the terrain is hard. Because the villagers don't always recognize you when you return. You've been up. You've seen from a different vantage, not better, different. They, seeing from where they stand, may not manage to see what you saw. May not want to. May actively resist, because seeing it and saying it out loud means something expensive has to change.
+The terrain is not what makes it hard. The villagers don't always recognize you when you return. You've been up. You've seen from a different vantage, not better, different. They, seeing from where they stand, may not manage to see what you saw. May not want to. May actively resist, because seeing it and saying it out loud means something expensive has to change.
 
 Most people get stuck at exactly this point. They go up. They see. They stay up there, because coming down means sitting with people who will call you condescending when you're honest and arrogant when you're precise, who will tell you *you're too much in your head* at the exact moment you are more in your body than you have ever been. The temptation to stay above is real. *They wouldn't understand anyway.* That's the distortion talking. The real Sage comes back.
 
@@ -671,7 +671,7 @@ Or you've been playing power (holding boundaries, staying clear about what you w
 
 The switch names the Sage's most deliberate move. It requires knowing all four games well enough to move between them without feeling like you're betraying one for another: the Challenger who can go to harmony without feeling soft, the Diplomat who can go to power without feeling like they abandoned the field.
 
-Chou calls this playing the right game. In *10,000 Hours of Play*, he describes the experienced player as the one who knows when to be serious and when to be playful, when to push and when to yield, when to stay and when to leave, from choice rather than default. The Sage is that player. Not because they transcended the lower games. Because they've been all of them enough to choose.
+Chou calls this playing the right game. In *10,000 Hours of Play*, he describes the experienced player as the one who knows when to be serious and when to be playful, when to push and when to yield, when to stay and when to leave, from choice rather than default. The Sage is that player, though not because they transcended the lower games. They have been all of them enough to choose.
 
 **Working vs. performed:** Switching becomes inconsistency. The Sage who can't hold a game long enough to be useful isn't practicing the Game-Switcher, they're uncomfortable with commitment. 
 
@@ -696,7 +696,7 @@ The distortion skips this move and stays at the whole-board view, because coming
 
 ### Move 4: Put a Game Down
 
-**What it is:** Identify a game you no longer need to play. A fight you inherited from a version of yourself that needed it. A role you grew past. An identity that was useful once and now keeps you small. Put it down cleanly. Not because it didn't matter, because it mattered and it's over.
+**What it is:** Identify a game you no longer need to play. A fight you inherited from a version of yourself that needed it. A role you grew past. An identity that was useful once and now keeps you small. Put it down cleanly, though not because it stopped mattering. It mattered and it is over.
 
 **Why it matters:** The release is harder than it sounds, because games have identity attached. *I am the person who holds this together.* *I am the person who fights for this.* *I am the person who keeps this safe.* The game becomes who you are rather than what you do, so putting it down means sitting with the loss of that: not pretending it didn't matter, letting it be finished.
 

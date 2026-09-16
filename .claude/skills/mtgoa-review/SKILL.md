@@ -496,3 +496,128 @@ text, which is the same defect wearing the other hat.
 **If a passage passes all five and still reads wrong, the passage is wrong.** Nothing above replaces
 `SPEC_EXAMPLES`, `SPEC_TWO_HANDS`, `SPEC_FACE_TARGETS` or `HEAD_VOICE_DIAL`, which say what the prose
 has to *do*.
+
+---
+
+## 6 · The proof-mark patterns — what a person with a highlighter found that no instrument did
+
+Added 2026-09-16, after Wendell read ch4 on paper against a green board. **Every board was
+passing. `shipcheck` said SHIPPABLE. Every drawdown read `unresolved=0`.** He marked ~190 spans
+in 33 pages, and the defects below are what they resolved to. None of them is caught by
+`review.py`, and several were *created* by the drawdowns that were driving those boards to zero.
+
+**Check a draft against all ten before showing it.** They are ordered by how often he caught them.
+
+### 6a · Restatement — the book's central tic
+
+The prose says a thing, then says it again in a shorter sentence, as if the reader missed it.
+Three forms, all the same defect:
+
+- **The verdict stamp.** `That is the gift.` `That names the alchemy.` `Named, you choose.`
+  A short declarative restating what the passage just demonstrated. **81 book-wide.**
+- **The tacked-on clause.** `..., and that question is what the whole chapter turns on.`
+  A second clause telling the reader what the first one meant. **110 book-wide.**
+- **The fragment chain.** `Had to sit with the discomfort. Had to carry the social friction.`
+  Subject-dropped continuations that add no new information. **23 book-wide.**
+
+**The test is not the shape, it is whether the beat adds anything.** `ch9:26` runs six
+subject-dropped fragments — *"Had been the Shaman... Had been the Challenger..."* — and each one
+adds a Face, so it builds and stays. The ch4 chain said *costly* five ways.
+
+**Wendell overruled one of my keeps here.** I argued a chain that named three different
+capacities was building. He ruled: subject-dropped continuation is a failure whether or not it
+builds. Restore the subject; that turns it into the book's own anaphora, which stays.
+
+### 6b · A person is not a resource
+
+See `specs/NOTE_PERSON_AS_COMMODITY_2026-09-16.md`. `spend`, `cost`, `price`, `buy`, `worth`
+take money, energy, time, the charge. **Never a person, never the line.** Wendell caught this
+twice in four days: *"only slaves cost people things"*, *"spending yourself turns you into a
+slave."* The economics are correct and stay — drawing a line costs energy, more when the people
+around you benefit from it staying undrawn. The line is what the energy buys; it is never the
+currency.
+
+### 6c · No main clause
+
+Every variety, and the instrument cannot find them (see 6j):
+
+`Not because A. Because B.` · bare `Not...` correctives · infinitives hanging off an earlier
+verb (`To schedule dialogues.`) · noun-phrase apposition (`Slights.`) · `Because X.` standing
+alone · standalone relative clauses (`Who said "this far and no further."`)
+
+**Wendell, on `Not because A but because B`:** *"its not a signature move it's a tick I've been
+failing to remove for 3 months."* Do not call a repeated defect a style.
+
+### 6d · The agentless passive
+
+*"A version of this chapter gets braced against. It should be named before we go further."*
+His margin note: **"By who?"** and **"Passive."** Two hidden agents in two sentences. `prose_diet`
+has a passive column and ch4 scored 1.04, dead on baseline, because local passives average away
+across 12,000 words.
+
+### 6e · Unearned intimacy
+
+See `specs/NOTE_UNEARNED_INTIMACY_2026-09-15.md`. *"You've been calling it something else"* —
+**"you have no idea what they call anything."** Asserting the reader's private vocabulary,
+habits or history to buy rapport. Distinct from second-person instruction. **61 candidates
+book-wide.** Test: can the book know this about a stranger?
+
+### 6f · The definite article asserting a settled singular
+
+*"saying **the** unwelcome sentence, drawing **the** line, making **the** demand"* — generic
+actions given definite articles, so each reads as a known specific thing. Same objection as
+`the clean no` (`specs/NOTE_CLEAN_NO_TERM_2026-09-15.md`): a positive adjective plus a definite
+article makes a term read as settled doctrine before the chapter has shown anything.
+
+### 6g · Insisting instead of showing
+
+*"The fire was real. The line was real."* His note: **"Stop telling people things are real."**
+Measures: ch4 ran 1.07 per 1k words against 0.18–0.63 everywhere else. **50 book-wide.**
+
+### 6h · The vague all-purpose verb
+
+`land` was swept from 103 sites to 26 by DL-98/99. **`run` is the same verb doing the same job
+and was never swept** — six distinct senses in ch4 alone: execute a practice, be powered by, be
+active, occupy, extend, consecutive. 433 raw `run`/`land` hits book-wide; most are correct, which
+is why this needs reading rather than a sweep.
+
+### 6i · Repeating a term instead of using a pronoun
+
+*"the Challenger could draw a line, but the Challenger could not hold that line across seasons."*
+**Distinct from deliberate anaphora**, which stays: `The Challenger stated. The Challenger stood.
+The Challenger left.` The test is whether the repetition is doing rhetorical work or just
+refusing a pronoun.
+
+### 6j · Do not trust these four boards
+
+Measured 2026-09-15, recorded in `specs/GAP_INSTRUMENT_DEFECTS_2026-09-15.md`:
+
+- **`fragment.py`** flags complete sentences. Of 18 ch4 sites, ~7 were genuine. `fragment 54 -> 0`
+  measured a tagger, not fragments.
+- **`draft_lines.APPARATUS`** treats any `>` line as not-prose, so **all five frame devices are
+  invisible to eight instruments**, including every drawdown. 7,446 words, 51 unscanned
+  trailing-and sites.
+- **`dupes.py`** compares within one file only. The polarity definition ships verbatim in three
+  chapters and the board says clean.
+- **`trailing_and.py`** misses demonstrative `that` and any subject carrying a participle.
+
+**A board reading zero means zero in what it scanned.** No line in `review.py` prints its
+denominator.
+
+### 6k · What a sweep did to prose it could not read
+
+Four mechanisms, all from ch4, all in the GAP register. Before running any pass over more than a
+handful of sites, know that a correct rule applied without reading produced every one of these:
+
+1. **Deleted an antecedent two sentences downstream needed.** `was the one who` went as a copula,
+   orphaning `Who said... Who stood...`
+2. **Rewrote one shared sentence two different ways across chapters.** `How big is the charge`
+   became `run` in ch4 and `feel` in ch5–7.
+3. **Stripped the nouns and orphaned the payoff.** `It is a request... It is the hope that...`
+   became `It keeps asking... It hopes...`, leaving *"Hope, in the domain of boundaries, is not a
+   strategy"* with no noun behind it. **This manufactured the say-the-noun defect that
+   `marginalia/review.py` exists to catch.**
+4. **Split a sentence and left both halves passive.** 6d above.
+
+**So: read every site you change. A diff you have not read is not a review, it is a sweep with a
+commit message.**

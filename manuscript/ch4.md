@@ -70,7 +70,7 @@ The Challenger once lived in the village.
 
 Inside it, one of them: the Challenger who drew the lines. Who said "this far and no further." Who stood in the place where everyone else kept negotiating and planted a flag and said *this is where we stand.* The villagers needed that. Plenty of them could feel what was wrong but couldn't say it out loud. The Challenger could say it. The Challenger could say it and mean it and hold the line while everyone else figured out how to catch up.
 
-The villagers built rituals around this. The Challenger would speak first at councils. Not because they were the eldest or the wisest but because they could say what needed saying before anyone else could bear to hear it. "This is not acceptable." "That boundary has been crossed." "We will not do this." The words were simple. The weight behind them was not.
+The villagers built rituals around this. The Challenger would speak first at councils, though not because they were the eldest or the wisest. They could say what needed saying before anyone else could bear to hear it. "This is not acceptable." "That boundary has been crossed." "We will not do this." The words were simple. The weight behind them was not.
 
 The Regent noticed first.
 
@@ -119,7 +119,7 @@ Without the Challenger, the villagers developed a sophisticated language for eve
 
 It got very good at *assertive communication.* At *using "I" statements.* At framing a boundary as a preference rather than a line. (I believed those scripts for thirty years. They do not do what the trainers promise, which anyone who has run one in a live moment already knows.) "I prefer not to be spoken to that way." "I would appreciate it if we could revisit that decision." The villagers learned to make their nos sound like yeses because yeses cost less. Because a no, even a gentle no, even a well-crafted I-statement no, still carried the risk of being unwelcome.
 
-So the villagers started letting violations slide, small ones first and then larger ones. Not because they didn't feel them (they felt every one of them) but because they had lost the Challenger's gift: the willingness to name the violation as a violation without also naming it as a catastrophe. The Challenger could say *this is not okay* and *we can still be in relationship* at the same time. They could no longer hold both together without the Challenger.
+So the villagers started letting violations slide, small ones first and then larger ones, though not because they didn't feel them. They felt every one. They had lost the Challenger's gift: the willingness to name the violation as a violation without also naming it as a catastrophe. The Challenger could say *this is not okay* and *we can still be in relationship* at the same time. They could no longer hold both together without the Challenger.
 
 Without the Challenger, the villagers also lost something else: the willingness to *be* unwelcome.
 
