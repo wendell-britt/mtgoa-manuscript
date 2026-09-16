@@ -35,7 +35,26 @@ the next person does not have to be brave. Call that structural design.** Cleari
 restores one person to where they should have been. Changing a condition means nobody has to
 ask again.
 
-### Two Kinds of Problem The myth says allyship means fixing problems. The fixing is not the error. Nobody taught you to sort.
+### Two Kinds of Problem
+
+Public health people tell a parable about a river. The version that stuck came from Irving
+Zola, by way of John McKinlay in 1979.
+
+You are standing on the bank. Somebody is drowning, so you go in, bring her out, and get the
+water out of her. Before she is breathing properly another shout comes from upstream. In you go
+again. You get good at this. You get very good at this. The shouting does not stop.
+
+McKinlay gives the punchline to the rescuer. *I am so busy jumping in, pulling them to shore,
+applying artificial respiration, that I have no time to see who the hell is upstream pushing
+them all in.*
+
+Most retellings put a broken bridge at the top of the river.
+
+The rescuer is right to go in the water every time. Nobody in the story will ever reach the
+bridge, because the only person who can see the problem is holding somebody's head above water.
+
+The myth says allyship means fixing problems. The fixing is not the error. Nobody taught you to
+sort.
 
 Some pain is acute. Somebody needs the document today, the money this week, a person beside
 them on Thursday.
@@ -45,27 +64,26 @@ Pick the fix yourself and you are running the Fixer's move. Chapter 5 showed you
 costs.
 
 Then watch what the answer draws down. You hold a limited amount of standing with the people
-who own the design, and you are saving it for the doorway. Most relief draws on none of it.
+who own the design, and you are saving it for the bridge. Most relief draws on none of it.
 Printing the document takes ten minutes and nobody has to agree to anything. Some relief draws
 heavily. Getting somebody the money this week can mean using the one ask you hold with the
-person who could change the rule. Use it there and the doorway stays exactly where it is.
+person who could change the rule. Use it there and the bridge stays broken.
 
 Leave someone hurting while you redesign the system and you have become the villain from the
 meme by a slower road. Hand someone a fix they never asked for and you have not helped them.
 You have practised on them.
 
 Other pain runs deep. The same hurt keeps arriving, to different people, in the same place. Now
-the question changes. Now you ask why everyone keeps bumping their heads here, rather than who
-got hurt this time.
+you ask why people keep going in the water here, rather than who went in this time.
 
-Usually it is a doorway nobody has measured.
+Usually somebody finds a bridge nobody has walked up to look at.
 
-Relief does nothing about a low doorway. That does not make the relief false. It reaches the
+Relief does nothing about a broken bridge. That does not make the relief false. It reaches the
 wound. It never reaches what opened the wound. So if relief is all you have, the same injury
 keeps arriving, and you get very good at treating it. Eight years of that builds a long record
-of care. The doorway stays at the same height.
+of care. The bridge stays broken.
 
-**Do both, in that order. Relieve the pain now. Then go and measure the doorway.**
+**Do both, in that order. Relieve the pain now. Then walk up and look at the bridge.**
 
 Most people do the first and file it as the work.
 
@@ -96,7 +114,7 @@ a way the incident does not account for, and you caught it before you could have
 caught. The early arrival is the point. A reading that shows up after you have worked out why
 arrives too late to use. The report says that something is here. It does not say what to do.
 
-Interpretation comes next. Deep or acute. One person's bad week, or a doorway.
+Interpretation comes next. Deep or acute. One person's bad week, or a bridge.
 
 Then strategy. Ask what you are allowed to touch. You cannot shift the whole system. Find the
 one piece you can shift that carries the most with it. Kelsey could not regulate an industry.
