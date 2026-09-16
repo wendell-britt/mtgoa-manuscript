@@ -28,9 +28,9 @@ most powerful instrument a person without authority has ever held.
 
 Systems thinking built capitalism. It built engineering, and the scientific method, and every
 safety regulation standing between you and a preventable death. One person finding one place
-where a small push moves more than a large one, over and over, for four hundred years. That
-instrument, in the hands of somebody who cannot feel who is standing underneath it, becomes
-the systems guy. **You find the condition that produced the harm and you change it. Now
+where a small push moves more than a large one, over and over, for four hundred years. When
+you put that instrument in the hands of somebody who cannot feel who is standing underneath it,
+you create the systems guy. **You find the condition that produced the harm and you change it. Now
 the next person does not have to be brave. Call that structural design.** Clearing an incident
 restores one person to where they should have been. Changing a condition means nobody has to
 ask again.
@@ -51,7 +51,7 @@ them all in.*
 Most rescuers never leave the water. They get better at rescue. They build a reputation. They
 get a medal.
 
-But one day, one rescuer notices something: the drowning keeps arriving in the same place, to
+One day, one rescuer notices something: the drowning keeps arriving in the same place, to
 different people. The person in the water changes. The place does not.
 
 So this rescuer does something harder than rescue. This rescuer stops going in.
@@ -76,8 +76,9 @@ Printing the document takes ten minutes and nobody has to agree to anything. Som
 heavily. Getting somebody the money this week can mean using the one ask you hold with the
 person who could change the rule. Use it there and the bridge stays broken.
 
-If you leave someone hurting while you chase the redesign, you are the systems guy—slower,
-but the same place. A fix they never asked for is not help. You have practiced on them.
+If you leave someone hurting while you chase the redesign, you are the systems guy — slower,
+but the same place. When you hand someone a fix they never asked for, you have not helped them.
+You have practiced on them.
 
 Other pain runs deep. The same hurt keeps arriving, to different people, in the same place. Now
 you ask why people keep going in the water here, rather than who went in this time.
@@ -85,7 +86,7 @@ you ask why people keep going in the water here, rather than who went in this ti
 Usually the bridge is already there. Someone has to walk upstream far enough to see it.
 
 Relief does nothing about a broken bridge. That does not make the relief false. It reaches the
-wound. It never reaches what opened the wound. When relief is the only tool, mastery comes—mastery
+wound. It never reaches what opened the wound. When relief is the only tool, mastery comes — mastery
 of treatment, never of cause. Eight years of that builds a long record of care and an immunity to
 its failure. The bridge stays broken.
 
@@ -192,7 +193,7 @@ could not be the face won the case that ended it.
 
 Robinson lived the sequence. She felt it on a bus in 1949. She read it as a structure rather
 than a bad day. She spent six years on the strategy and kept it in a drawer until the right
-case walked into it. Four parts. Six years. One move.
+case walked into it. She carried all four parts across those six years, then made one move.
 
 ### Nobody Sees the Architect
 
@@ -235,7 +236,7 @@ exception. Whether the volunteer who fronted forty pounds feels like a member in
 supplicant. Whether the work is now something a person can do without spending themselves to do
 it.
 
-A good design produces the first. The second—whether anybody is better off—is why the Architect
+A good design produces the first. The second — whether anybody is better off — is why the Architect
 designs anything. It's what this chapter teaches you to hold onto. Without the second, design becomes
 the system guy's optimization: metrics climbing while people suffer underneath. They come apart, and
 when they do, only the first one reaches the report. An Architect who cannot separate them will drive
