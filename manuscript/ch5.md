@@ -699,7 +699,7 @@ Each Tell targets the Regent's signature failure: the inheritance carried so tha
 
 ## Where the Fixer Bites
 
-You have been running the Five-Move Form since Chapter 3. The Regent's Show Up runs entirely on verbs for keeping: hold, keep, sustain, tend. Not one of them makes anything new. That is the difference between building something and inheriting it. It also makes this the slowest practice of the six.
+You have been running the Five-Move Form since Chapter 3. The Regent's Show Up uses nothing but verbs for keeping: hold, keep, sustain, tend. Not one of them makes anything new. You inherit here rather than build, which leaves this the slowest practice of the six.
 
 A daemon is one rule in force at every move, which means five failures instead of one. The Fixer/Healer's:
 

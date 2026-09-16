@@ -866,11 +866,11 @@ Each Tell targets the Shaman's signature failure: what you saw, spent on being s
 
 ## Where the Controller Bites
 
-The Five-Move Form is the instrument this chapter built: Wake Up, Open Up, Clean Up, Grow Up, Show Up. Every stage you worked above was one of them, run in order.
+This chapter handed you an instrument, one stage at a time: Wake Up, Open Up, Clean Up, Grow Up, Show Up. You worked all five above, in order.
 
 Which of the five your daemon corrupts matters most. A tempting wrong answer waits: that a shadow lives at one move and the other four are clean.
 
-They are not clean. A daemon is not a defect at one stage of the Form. It is a rule, in force the whole way down. Run the Controller through all five moves and five different failures come out, one per move, exactly what makes the five worth having: each move shows you the same rule from a different side.
+They are not clean. A daemon does not sit at one stage of the Form like a defect. It enforces one rule, the whole way down. Run the Controller through all five moves and five different failures come out, one per move, exactly what makes the five worth having: each move shows you the same rule from a different side.
 
 **Wake Up.** The signal arrives at full strength and gets logged at a strength you are cleared to be seen having. Nothing is missed. Everything is downgraded on the way in.
 

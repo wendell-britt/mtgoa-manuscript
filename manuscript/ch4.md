@@ -742,7 +742,7 @@ Each Tell targets the Challenger's signature failure: the line drawn for the rec
 
 ## Where the Skeptic Bites
 
-You have been running the Five-Move Form since Chapter 3. Notice what happens as you go down the five here. Wake Up names what you refuse to see. Show Up names what you do in front of other people. That is the Challenger's arc: it starts at what you refuse to see and ends at something you did with witnesses.
+You have been running the Five-Move Form since Chapter 3. Notice what happens as you go down the five here. Wake Up names what you refuse to see. Show Up names what you do in front of other people. The Challenger travels that whole distance, from what you will not look at to something you did with witnesses.
 
 A daemon holds one rule in force the whole way down, producing a different failure at every move. The Skeptic's five:
 
