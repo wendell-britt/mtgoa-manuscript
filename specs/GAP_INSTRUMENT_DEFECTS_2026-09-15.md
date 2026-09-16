@@ -127,6 +127,21 @@ Both were marked by Wendell and both read `0` on the board. Both are bounded fix
 
 ---
 
+## 4b. `compile.py --verify` passes over an unregistered frame block
+
+Found 2026-09-16 while moving a paragraph into a MARGINALIA block in ch5. The block was written
+into `manuscript/ch5.md` and not yet added to `marginalia/insertions.py`.
+
+- **`--regen` caught it**: `ch5: frame kinds differ: 11 live, 10 held. REFUSED`.
+- **`--check` said** `All anchors resolve`, because it checks the anchors insertions.py knows about.
+- **`--verify` said** `Body text round-trips byte-identical and every frame block matches
+  insertions.py` — true of the ten it compared, and silent about the eleventh.
+
+**The hazard is data loss.** `--apply` writes only what `insertions.py` holds, so an unregistered
+block is deleted the next time anyone applies the frame, and `--verify` reads clean until then.
+
+`--verify` should compare counts as well as contents, the way `--regen` already does.
+
 ## 5. No board states its denominator
 
 No line in `review.py` says what it scanned. `trailing_and 0` is a true and useful statement
