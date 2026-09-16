@@ -236,10 +236,12 @@ exception. Whether the volunteer who fronted forty pounds feels like a member in
 supplicant. Whether the work is now something a person can do without spending themselves to do
 it.
 
-A good design produces the first. The second is why anybody designs anything. They come apart,
-and when they do, only the first one reaches the report. An Architect who cannot separate them
-will drive a system into perfect compliance and leave everybody inside it worse off, on time,
-under budget, with the metrics green.
+A good design produces the first. The second—whether anybody is better off—is why the Architect
+designs anything. It's what this chapter teaches you to hold onto. Without the second, design becomes
+the system guy's optimization: metrics climbing while people suffer underneath. They come apart, and
+when they do, only the first one reaches the report. An Architect who cannot separate them will drive
+a system into perfect compliance and leave everybody inside it worse off, on time, under budget, with
+the metrics green.
 
 Every move in this chapter exists to keep those two attached.
 
