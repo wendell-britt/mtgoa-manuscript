@@ -28,8 +28,8 @@ most powerful instrument a person without authority has ever held.
 
 Systems thinking built capitalism. It built engineering, and the scientific method, and every
 safety regulation standing between you and a preventable death. One person finding one place
-where a small push moves more than a large one, over and over, for four hundred years. Put that
-instrument in the hands of somebody who cannot feel who is standing underneath it and you get
+where a small push moves more than a large one, over and over, for four hundred years. That
+instrument, in the hands of somebody who cannot feel who is standing underneath it, becomes
 the systems guy. **You find the condition that produced the harm and you change it. Now
 the next person does not have to be brave. Call that structural design.** Clearing an incident
 restores one person to where they should have been. Changing a condition means nobody has to
@@ -76,9 +76,8 @@ Printing the document takes ten minutes and nobody has to agree to anything. Som
 heavily. Getting somebody the money this week can mean using the one ask you hold with the
 person who could change the rule. Use it there and the bridge stays broken.
 
-Leave someone hurting while you redesign the system and you have become the systems guy
-by a slower road. Hand someone a fix they never asked for and you have not helped them.
-You have practised on them.
+If you leave someone hurting while you chase the redesign, you are the systems guy—slower,
+but the same place. A fix they never asked for is not help. You have practiced on them.
 
 Other pain runs deep. The same hurt keeps arriving, to different people, in the same place. Now
 you ask why people keep going in the water here, rather than who went in this time.
@@ -86,9 +85,9 @@ you ask why people keep going in the water here, rather than who went in this ti
 Usually the bridge is already there. Someone has to walk upstream far enough to see it.
 
 Relief does nothing about a broken bridge. That does not make the relief false. It reaches the
-wound. It never reaches what opened the wound. So if relief is all you have, the same injury
-keeps arriving, and you get very good at treating it. Eight years of that builds a long record
-of care. The bridge stays broken.
+wound. It never reaches what opened the wound. When relief is the only tool, mastery comes—mastery
+of treatment, never of cause. Eight years of that builds a long record of care and an immunity to
+its failure. The bridge stays broken.
 
 **Do both, in that order. Relieve the pain now. Then walk up and look at the bridge.**
 
@@ -135,10 +134,10 @@ you.
 
 Signal, interpretation, strategy, move.
 
-The shadow runs a shorter version. Signal, move. The feeling arrives and a proposal arrives
-with it, so fast that they seem like one event. What comes out is sized to the intensity of
-what you felt instead of the shape of what is broken. Three quarters of a restructure for a
-two-degree problem. The table flinches and nobody can say why.
+The shadow collapses this sequence. Feel something, act. The feeling and the proposal arrive
+so fast they seem like one event, and what emerges matches your emotional intensity, not the
+shape of what is actually broken. Three quarters of a restructure for a two-degree problem.
+The table flinches and nobody can say why.
 
 Your anger belongs in this sequence too. Anger detects the gap between what is and what should
 be, so anger you have carried for years is a reading that keeps coming back true. You kept
@@ -191,9 +190,9 @@ Gayle* did, in federal court, in 1956, brought on behalf of Aurelia Browder, Sus
 Mary Louise Smith, and Claudette Colvin. Rosa Parks was not a plaintiff. The girl they judged
 could not be the face won the case that ended it.
 
-Signal, interpretation, strategy, move. Robinson felt it on a bus in 1949. She read it as a
-structure rather than a bad day. She spent six years on the strategy and kept it in a drawer
-until the right case walked into it.
+Robinson lived the sequence. She felt it on a bus in 1949. She read it as a structure rather
+than a bad day. She spent six years on the strategy and kept it in a drawer until the right
+case walked into it. Four parts. Six years. One move.
 
 ### Nobody Sees the Architect
 
@@ -212,9 +211,9 @@ is wrong, push back where it pinches, and every one of those corrections steers 
 invisibly and all of it goes away. No applause, no credit, no argument, nothing coming back at
 all except what you can read off the faces in front of you.
 
-**So the Emotional Body is not the soft part of this practice. Working unseen, it becomes the
-only instrument you have left.** Nixon did not analyse his way to the decision about Claudette
-Colvin. He felt his way through what a city would do to a child, got it right, and carried
+**The Emotional Body is the hard instrument in this practice. Working unseen, it becomes your
+only feedback.** Nixon did not analyse his way to the decision about Claudette Colvin. He felt
+his way through what a city would do to a child, got it right, and carried
 having turned a girl into a variable in somebody else's plan. Misread that and you do not
 produce a suboptimal outcome. You destroy a real person for a cause she never agreed to
 represent.
