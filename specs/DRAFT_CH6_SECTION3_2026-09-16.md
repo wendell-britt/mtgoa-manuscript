@@ -21,7 +21,7 @@ from it.** Leverage is another word for power, and power hurt the people you cam
 beside. Reaching for it feels like changing sides. So you learn to persuade instead of arrange,
 to appeal instead of build, and to call the difference ethics.
 
-The meme finishes the job. You know the systems guy. He arrives with a framework, turns people
+There is a story we tell about power. It goes: the systems guy is the problem. He arrives with a framework, turns people
 into headcount, optimizes the warmth out of something that had finally started working, and
 leaves before the consequences land. He is real. He is also the reason you will not pick up the
 most powerful instrument a person without authority has ever held.
@@ -165,9 +165,9 @@ by a married man, and Nixon knew exactly what the Montgomery press would do to h
 everybody standing behind her. That October they passed over Mary Louise Smith for reasons just
 as cold.
 
-Sit with that, because the chapter turns on it. Montgomery wronged two Black girls, and the
-people organizing on their behalf looked at each of them and judged whether she could survive
-being the face of it. No spreadsheet produces that decision. It came from people who could feel
+Montgomery wronged two Black girls, and the people organizing on their behalf looked at each
+of them and judged whether she could survive being the face of it. That is what the Architect
+must hold: not whether the cause is right, but whether this person can survive being the instrument. No spreadsheet produces that decision. It came from people who could feel
 exactly what a hostile city does to a child, who made the call anyway, and who then had to live
 inside it.
 
@@ -181,10 +181,10 @@ students, ran off thirty-five thousand handbills calling a one-day boycott, then
 across the city before dawn. A state college could have fired her for it. She kept her name off
 it for thirty years.
 
-The leverage point was never the seat. Black riders made up roughly three quarters of
-Montgomery's bus ridership, and a bus company is a business before it is anything else. The
-boycott ran three hundred and eighty-one days and took the revenue out of the system. A feeling
-cannot do that. A design can.
+The leverage point was ridership. Black riders made up roughly three quarters of Montgomery's
+bus revenue, and a bus company is a business before it is anything else. Remove the riders and
+you remove the revenue. The boycott ran three hundred and eighty-one days. A feeling cannot do
+that. A design can.
 
 Then the ending nobody carried forward. The boycott did not desegregate the buses. *Browder v.
 Gayle* did, in federal court, in 1956, brought on behalf of Aurelia Browder, Susie McDonald,
@@ -197,27 +197,27 @@ case walked into it. She carried all four parts across those six years, then mad
 
 ### Nobody Sees the Architect
 
-Robinson designed it. Nixon aimed it. Parks carried it and paid for it. Hers is the only name
-anybody remembers.
+Robinson designed the strategy and kept her name off it for thirty years. Nixon chose which
+arrest would serve the cause and who would survive it. Parks carried the visibility and paid for it
+with her name. Hers is the only name anybody remembers.
 
 None of that was an accident of the record. The design was working. A movement that looks
 organized looks manipulated. A face that looks chosen stops being a person and becomes a prop.
 The strings had to stay invisible or the boycott came apart in a week. So the two people who
 built it took no credit, and one of them stayed anonymous for three decades to keep her job.
 
-Learn what invisibility costs, because you are going to pay it.
+Learn the emotional costs of invisibility, because if you get good enough at this face you will eventually have to pay it.
 
 An Architect who works in the open gets corrected. People argue with you, tell you the design
 is wrong, push back where it pinches, and every one of those corrections steers you. Work
 invisibly and all of it goes away. No applause, no credit, no argument, nothing coming back at
 all except what you can read off the faces in front of you.
 
-**The Emotional Body is the hard instrument in this practice. Working unseen, it becomes your
+**The emotional body is the daemon that comes online in this practice. Working unseen, it becomes your
 only feedback.** Nixon did not analyse his way to the decision about Claudette Colvin. He felt
 his way through what a city would do to a child, got it right, and carried
-having turned a girl into a variable in somebody else's plan. Misread that and you do not
-produce a suboptimal outcome. You destroy a real person for a cause she never agreed to
-represent.
+having turned a girl into a variable in somebody else's plan. Misread that, and you do not produce a suboptimal outcome; you destroy a real person for a
+cause she never agreed to represent.
 
 The Architect who cannot feel who stands underneath the design becomes the systems guy.
 Coldness never gets him there. He gets there without the one sense that would warn him.
