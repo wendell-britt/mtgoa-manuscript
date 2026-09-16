@@ -197,7 +197,7 @@ A polarity is not a problem to solve. It has two poles, both of them right. The 
 
 The Challenger's pair: the force it takes to move something versus the restraint it takes to leave it alone.
 
-**Force** means spending yourself on a crossing, saying the unwelcome sentence, drawing the line, making the demand, accepting the cost of being the one who did. Force makes a moment cost more, because you were in it. Once you agree to be the one who pays for the crossing, the aggression becomes force.
+**Force** means spending energy on a crossing, saying an unwelcome sentence, drawing a line, making a demand, accepting the cost of being the one who did. Force makes a moment cost more, because you were in it. Once you agree to be the one who pays for the crossing, the aggression becomes force.
 
 **Restraint** means declining to spend, on this, for now, from me. Restraint is what keeps a no worth something; a person who draws a line at everything has not drawn one, because the line stops being information about the world and turns into weather. You will look like a coward. The coward could not have spoken. You could.
 
@@ -507,7 +507,7 @@ You have found the flaw in every plan anybody has brought to this table. Somewhe
 
 You met the Skeptic at the door of the Forest, third in line, a few steps behind the Controller. The Protector decides whether you go in at all. The Controller decides how you may behave once you get inside. The Skeptic decides something narrower and more damaging than either: whether what you reacted to was ever real.
 
-At its best the Skeptic is your auditor. You need one. A charge arrives and the auditor asks the single useful question: *is this what is actually in front of me, or an old charge wearing today's clothes?* Sometimes the honest answer names the old charge, in which case the auditor has just saved you from spending a line on someone who did not earn it. Timidity would look the same from outside. That is what makes your no expensive. Someone who draws a line at everything has not drawn one; people learn to dress for the weather and walk past. The auditor earns you this: when you do finally say *this is not acceptable*, the sentence carries.
+At its best the Skeptic is your auditor. You need one. A charge arrives and the auditor asks the single useful question: *is this what is actually in front of me, or an old charge wearing today's clothes?* Sometimes the honest answer names the old charge, in which case the auditor has just saved you from spending that charge on someone who did not earn it. Timidity would look the same from outside. That is what makes your no expensive. Someone who draws a line at everything has not drawn one; people learn to dress for the weather and walk past. The auditor earns you this: when you do finally say *this is not acceptable*, the sentence carries.
 
 An auditor can widen its own remit, though. It stops auditing the charge and starts auditing your standing to have it. The question changes shape without announcing that it has changed, from *is this real* to *are you the one who gets to say it is real.* Those two sound like the same rigor. They are not the same question. Looking at the situation answers the first. Only looking at you answers the second, an audit whose outcome the Skeptic already knows.
 
@@ -693,13 +693,13 @@ The moves are what you do. The next question is where.
 
 ---
 
-### Where You'll Actually Spend the Line
+### Where the Line Actually Costs You
 
 The parable showed one of the four: Skillful Organizing, the Challenger speaking first at councils, saying what needed saying before anybody could bear to hear it. Here, a line stops belonging to you and starts holding a group up.
 
 The line has four domains. One cheap habit imitates all four without being any of them. Call the cheap habit the assessment. You see exactly what is wrong and name it accurately, more accurately than anyone else at the table, yet nothing in the world moves. An assessment costs nothing, because being right is not a position anybody has to argue with. It also feels almost identical to courage from the inside. That is why it lasts for years. The four domains are where the line finally gets drawn: the limit said to the person crossing it, the truth named where naming it costs you, the no said in your own name, and the boundary a group has been negotiating around for months. Each costs more than an assessment, because each one puts something on the table that somebody now has to answer.
 
-These four are not a syllabus. Pick where you'll spend the line this week, and pick the domain you keep avoiding. If the line only ever arrives as analysis, delivered well, to people who already agree with you, you did not make the Challenger's move. You described it.
+These four are not a syllabus. Pick the domain you keep avoiding, and draw one there this week. If the line only ever arrives as analysis, delivered well, to people who already agree with you, you did not make the Challenger's move. You described it.
 
 ### How to Draw It So It Holds
 
