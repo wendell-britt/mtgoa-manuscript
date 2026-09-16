@@ -121,6 +121,17 @@ EXEMPT = [
      "page: *Thinking in Systems* and \"Leverage Points: Places to Intervene in a System.\" "
      "Twenty of the twenty-two book-wide BANNED hits on the first run were this term, "
      "and the copyright page's own citation of the paper was another."),
+
+    ("BANNED", "Your leverage is already there",
+     "Wendell, 2026-09-16, ruling on ch6 Section 3: \"leverage is useful but you were using "
+     "it like an idiot. We can relax it for this chapter, but we need to be using our terms "
+     "usefully.\" The chapter's thesis is that the reader already holds leverage and has been "
+     "taught to look away from it, so the bare noun is the term under definition rather than "
+     "jargon standing in for a plainer word. Scoped to the two sentences that define it; "
+     "every other use in the section says *standing* or names the specific ask."),
+
+    ("BANNED", "Leverage is another word for power",
+     "Second half of the 2026-09-16 ruling above. The definition sentence itself."),
 ]
 
 
