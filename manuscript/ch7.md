@@ -175,9 +175,9 @@ The difference is not tone. The Diplomat's altitude gets it wrong here most ofte
 
 Before you encounter the myth that will shape your whole chapter, you need to understand the internal logic that makes this particular myth feel necessary rather than what it actually costs.
 
-When allyship runs on a ledger, its legitimacy comes from your own injury. The consequence is specific and terrible: you cannot act from surplus anymore. You can only act from wound. The person you came to stand beside stops being someone you stand beside and becomes, structurally and not intentionally, a claimant against the same fund. Two people cannot both be the one who has paid most in a field where having paid most confers the right to speak. Nobody decides this—it simply materializes when cost denominates standing.
+When allyship runs on a ledger, its legitimacy comes from your own injury. The consequence is specific and terrible: you cannot act from surplus anymore. You can only act from wound. The person you came to stand beside stops being someone you stand beside and becomes, structurally and not intentionally, a claimant against the same fund. Two people cannot both be the one who has paid most in a field where having paid most confers the right to speak. Cost denominates standing as it accumulates, and nobody stops it.
 
-The myth arrives from this mechanism. When your legitimacy comes from having been harmed, then having caused harm is not a mistake you can absorb and repair. It disqualifies you outright. It erases your ledger. So you cannot afford for yourself to have caused harm, because any finding of impact threatens your standing. A part of you that cannot survive the audit will refuse to run it.
+The myth arrives from this mechanism. When your legitimacy comes from injury you carried, then causing harm disqualifies you outright. It erases your ledger. So you cannot afford for yourself to have caused harm, because any finding of impact threatens your standing. A part of you that cannot survive the audit will refuse to run it.
 
 The myth therefore sounds not like a rule to fight but like a necessary protection.
 
