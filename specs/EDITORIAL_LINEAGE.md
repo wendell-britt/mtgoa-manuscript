@@ -99,16 +99,35 @@ gets the core installed into it; a repo with only copy gets the kit.
 - No sibling is synced from outside its own tree until every instrument takes `--root` and an
   empty corpus is a hard error.
 
-**Left to Wendell**
+**Recommended by the six-Face panel of 2026-09-22** (`specs/PANEL_LINEAGE_OPEN_QUESTIONS_2026-09-22.md`)
+— **recommendations, not rulings.** They do not overrule the "assumes one" line above; they replace
+the assumption with a measured recommendation Wendell can ratify or reject.
 
-1. **Are the base and the core one thing or two?** This page assumes one: the base is the
-   contract, the core is its instruments. If two, this page says which wins and the rest of it is
-   rewritten.
-2. **Is the voice kit built from the core, or a separate stdlib lineage?** Its README says
-   re-copied from the core. The drift says separate. The counters have already forked once.
-3. **Where do Flirtcraft and AI Psychologist live?** The reports name them as running v32. No
-   repository in the account carries either name, and friendcraft's `flirtcraft/` is five YAML
-   files of game data.
+1. **Two things, not one.** The base governs whether a change may become canon; the core measures
+   whether a change is any good. A book can have the base without the core — EFA does, today — but
+   the panel holds the reverse should not happen silently. Recommends: the base's contract names the
+   core by version for any book that has a manuscript, without requiring a core-less book to install
+   one. *(If Wendell rules one thing instead, the "order they inherit in" section above is rewritten
+   and Phase 3's `--root`/empty-corpus conditions become load-bearing for the base itself, not only
+   for a sibling sync.)*
+2. **The kit was never a copy.** Its `EMPTY_HEAD`, `fragments()`, and related counters share no code
+   with the core's `gate.py`/`prose_diet.py`/`fragment.py` — independent re-implementations that
+   happen to agree on shape, not the "copied verbatim" the README claims. The v33 sync (`density.py`,
+   `fragment.py`) never touched the kit. Recommends: either make the claim true (a mechanical
+   re-derive step run at every core release) or rewrite the README to promise agreement in shape,
+   not in code.
+
+**Still open — the panel could not resolve it, only rule out two wrong answers.**
+
+3. **Where do Flirtcraft and AI Psychologist live?** The toolkit-install report's claim that these
+   are two Library books running the shared core is **retracted**, not merely unverified: checked
+   twice, ten days apart. `wendell-britt/flirtcraft` is a real repo (private, pushed 2026-09-16) —
+   a Next.js product app, no `instruments/`, not a manuscript project. `friendcraft-manuacript`'s
+   `flirtcraft/` is five YAML files of game data, not a book. No repository anywhere is named *AI
+   Psychologist*. A fourth repository, `wendell-britt/wendell-britt-fear-to-joy-manuscript`, was
+   pushed the same day this panel ran (2026-09-22) and has not appeared in any report; whether it
+   is the missing sibling, a new book, or unrelated is Wendell's to say. This session has not opened
+   it.
 
 ## Corrections log
 
@@ -116,3 +135,4 @@ gets the core installed into it; a repo with only copy gets the kit.
 |---|---|
 | 2026-09-12 | Page written. "Steps 3–6" in the plan and the review corrected to steps 2, 3, 5 and 7 against the gate's actual text. The review's "installed in friendcraft 09-01" is not reproducible from the clone as it stands; the kit reached friendcraft's `main` on 2026-09-09 (#17). |
 | 2026-09-22 | Core row updated v32 → v33 (mechanism-only sync, `density.py`/`fragment.py`, 2026-09-11). Zero-target debt line added: the 335 hits PR #25 merged as `coherence` red were drawn to zero by 2026-09-14 and the twelve ledger entries ratified the same day. The three decisions below are unchanged — nothing in the ten intervening commits touched the base, the core's relationship to it, or the two named siblings. |
+| 2026-09-22 | Six-Face panel run on the three open questions (`specs/PANEL_LINEAGE_OPEN_QUESTIONS_2026-09-22.md`). Recommendations added for Q1 (two things) and Q2 (the kit was never a copy) below the "assumes one" line, marked as Wendell's to ratify. Q3's siblings claim retracted on fresh evidence; a fourth, unexplained repository surfaced the same day. |
