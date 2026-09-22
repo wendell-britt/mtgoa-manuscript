@@ -269,17 +269,7 @@ A good design produces the first. The second â€” whether anybody is better off â
 
 Every move in this chapter exists to keep those two attached.
 
-### The One You Are Holding
-
-One more example, and you can inspect this one.
-
-Allyship had no instructions. It had demands, and reading lists, and a standard nobody could tell you how to meet. So good people kept failing at it and filed the failure under personal deficiency. A condition produces that, not a character flaw, and it produces exactly what you would predict: guilt, paralysis, and a great deal of correct language attached to nothing.
-
-So allyship became a game. Moves you can run. Faces you can play. Channels you can read. A quest with a name and a date in it. Something a person practices badly on a Tuesday and better by March.
-
-The Architect ran that design on the book in your hands. The move changed the condition instead of appealing to your conscience, because your conscience never failed. The instructions were missing.
-
-Yours are missing somewhere too. The rest of this chapter is how to find them.
+The rest of this chapter teaches you what those instructions are.
 
 ---
 
