@@ -5,6 +5,36 @@
 
 ---
 
+## Session — 2026-09-22 · Ch8 Section 2: Damaged Self Daemon Moved Before Myth Announcement
+
+**Approved and applied.** Restructured Ch8 to introduce the Damaged Self daemon before the myth announcement, following the pedagogical pattern established in Ch7: problem identification (the daemon mechanism) → mechanism explanation (how difference becomes defect) → myth-busting as earned understanding (why "allyship runs on right framework" feels like integrity).
+
+**What was added:** New subsection "The Daemon That Makes Self-Repair Feel Like Integrity" inserted between Section 2 (lines 143-199) and Section 3 (line 201+). This subsection explains the mechanism: the Damaged Self converts difference into defect, creating permanent preparation mode ("one more wound to work through before being clean enough to be useful"). The myth that follows: allyship runs on having the right framework (framework-collection as false healing).
+
+**What was adjusted:** Section 5 opening now acknowledges daemon was introduced earlier in the chapter. Removed duplicate daemon introduction from Section 5 (formerly lines 536-548) and adjusted the opening paragraph to reference the prior introduction, allowing the section to deepen rather than re-teach.
+
+**Why this matters:** The reader now understands why staying engaged is costly for the Sage—the Damaged Self's permanent preparation mode. This creates the sequence: understand the daemon mechanism → encounter the myth → replace it with bounded capacity work (one map per problem). Matches Ch7's correct structure (daemon early, deepening after).
+
+**Result:**
+- Pedagogical flow now matches Ch6/Ch7/Ch9 pattern: daemon introduction early, teaching/deepening after
+- Prose passes editorial review: gate clean, diet scores acceptable for daemon mechanism description (passive 2.34 on short sample, fragments 1 mid-beat acceptable)
+- Orphan pronouns from restructured text: resolved through active voice rewrites
+- Section 5 transition: acknowledges prior daemon intro, focuses on deepening via practices and field applications
+
+**Verification:**
+- Full editorial review: new text passes gate (0 violations), no new orphans, mid-fragment acceptable as beat
+- Section 2 flow: village loss without Sage → daemon mechanism → Section 3 real Sage capacity
+- Section 5 continuity: acknowledges daemon, deepens via "Which Game ↔ Which Altitude" work, 3-2-1 practices, field applications
+- Chapter arc: daemon introduction (new subsection, line 201) → panoramic vision teaching (Section 3) → five modes (Section 4) → daemon deepening (Section 5)
+- Cross-chapter consistency: Ch7/Ch8/Ch9 now follow matching structure (daemon early, myth understanding earned)
+
+**Commit applied:**
+1. `620d835` — Restructure: ch8 to introduce Damaged Self daemon before myth announcement
+
+**Next:** Verify Ch9 is already correctly structured (daemon early, no changes needed) then finalize downstream integration.
+
+---
+
 ## Session — 2026-09-22 · Ch7 Section 3: Victim Daemon Moved Before Myth Announcement
 
 **Approved and applied.** Restructured Section 3 to introduce the Victim daemon before the myth announcement, matching the pedagogical pattern established in Ch6: problem identification (the daemon mechanism) → mechanism explanation (cost denominates standing) → myth-busting as earned understanding (why "never causing harm" feels like integrity).
