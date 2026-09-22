@@ -1,7 +1,49 @@
 # Book Work Tracker — MTGOA
 **Created:** 2026-04-14
-**Last Updated:** 2026-08-03
-**Status:** All 8 chapters complete — Editorial Pass Phase
+**Last Updated:** 2026-09-22
+**Status:** All 9 chapters complete — Structural Refinement Phase
+
+---
+
+## Session — 2026-09-22 · Ch6 Section 3/5 Integration: Daemon Bridge and Pacing Repair
+
+**Approved and applied.** Hostile review of the Section 3 integration identified structural redundancy: "The One You Are Holding" subsection was prematurely announcing the myth-busting lesson that belongs in Section 5, after the daemon concept has been properly prepared.
+
+**What was cut:** "The One You Are Holding" subsection (150 words) from end of Section 3. This contained the myth-busting announcement that allyship is not fixing problems, but was positioned before readers understood why signal conversion corrupts decision-making.
+
+**What was added:** Section 5 opening bridge (250 words) that translates the daemon concept from Section 3's Architect context into the reader's personal decision-making context before reintroducing the Emotional Body at the Forest. The bridge explains the signal-to-proposal conversion problem before the detailed teaching.
+
+**Hexagram verdict:** I Ching Hexagram 28 (Da Guo / Critical Mass) indicated the issue was not the quality of the material but its placement—excessive weight in the wrong location. The solution was removal, not reinforcement.
+
+**Result:**
+- Removes pedagogical redundancy that breaks pacing
+- Teaches myth-busting as earned understanding rather than announcement
+- Proper sequence now: daemon → signal conversion problem → restoration moves → myth-busting synthesis
+- Section 5–7 downstream flow verified clean
+- Chapter 6 word count: 13,315 → 13,414 (+99 words, net)
+
+**Verification:**
+- Full editorial review (`review.py`): voice BLOCK 1 (pre-existing ch4), gate 0, diet all in range
+- Fragment findings (35 total): none from new text
+- Pronoun orphans (25 total): none from new text
+- Binary contrast slop (2 total): both pre-existing, not from edits
+- Chapter boundary flow: Ch5→Ch6 flows from "Now you're ready for the Architect"; Ch6→Ch7 flows from "Now you're ready for the Diplomat"
+- Cross-chapter pacing: Ch5 (12,157) → Ch6 (13,414) → Ch7 (14,826) shows healthy escalation
+
+**Two commits applied:**
+1. `84c997f` — Remove 'The One You Are Holding' subsection from Section 3
+2. `a463bf0` — Rewrite Section 5 opening to bridge from daemon to conversion work
+
+**How the fix works:**
+- Section 1: Architect's story (why they left)
+- Section 2: Leverage (Frances Kelsey proof)
+- Section 3: Two kinds of problem + signal→move sequence + Montgomery proof ✓ (cleaner now)
+- **Section 5 opening bridge** ← NEW: names daemon from Section 3, translates to reader context, explains conversion problem
+- Section 5 teaching: Emotional Body in Forest, conversion mechanism, five moves, restoration work
+- Section 6: Five winning conditions (Direct Action, Raise Awareness, Gather Resources, Skillful Organizing, The Tell)
+- Section 7: Architect's teaching + bridge to Diplomat
+
+The myth-busting ("allyship means fixing problems") now lands at the end of Section 5 as earned understanding of why fast conversion is dangerous—not as premature announcement at Section 3's close.
 
 ---
 
