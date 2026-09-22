@@ -31,13 +31,12 @@
 > it sounds.
 >
 > **3. What it costs.** Acknowledgement. A student once put it this way at the end of her
-> fourth year: *the terms held and nobody knew I wrote them, and I did not expect to mind, and
-> I mind.* She was right to say so and no version of this training removes it. Those who came
+> fourth year: *The terms held. Nobody knew I'd written them.* She was right to say so and no version of this training removes it. Those who came
 > for the thanks have suffered as a result.
 >
 > **4. What we do not teach.** How to make terms outlast the people who agreed to them. This
 > school gets the agreement. It cannot get the century. Such cases go to the School of the
-> Oath, which can, and which will be dry about it.
+> Oath—the one that specializes in agreements that outlast the people who made them. That school holds hard terms without softening them.
 >
 > **5. Entry.** Prior standing at the School of the Pattern. The design producing the pressure
 > must be visible before one sits down inside the pressure, or the negotiation will be with a
@@ -70,7 +69,7 @@ You recognize a woman in the village. She is always there. She shows up to every
 
 One day she stops showing up. The villagers barely notice at first. Then slowly, in her absence, something becomes visible: the shape of what she held together without ever naming that she held it. Ruptures she repaired before anyone saw them. Tensions that never escalated because she stood in the middle of them. The villagers discover they have lost something but cannot name the loss, because she never told them what her presence cost. She never gave them the chance to treat it as precious.
 
-Across the village, a man operates differently. He is present too. He shows up, he contributes, he holds. He has also, once in a hard moment, surfaced what each side protected and named what staying would actually require. He said it without heat. He did not make it a threat. He did not weaponize it. He simply told the truth about the agreement: what it would hold, what it would cost each of them, what would have to change for his staying to remain real. In the weeks that followed, the villagers noticed something. His presence had become more valuable precisely because he had now chosen it, scarce the way a person is who has closed an honest negotiation and meant it. They started treating his presence as something that could be lost. In treating it as something that could be lost, they started treating it as something that mattered.
+Across the village, a man operates differently. He is present too. He shows up, he contributes, he holds. He has also, once in a hard moment, surfaced what each side protected and named what staying would actually require. He said it without heat. He did not make it a threat. He did not weaponize it. He simply told the truth about the agreement: what it would hold, what it would cost each of them, what would have to change for people to understand what his presence cost. In the weeks that followed, the villagers noticed something. His presence had become more valuable precisely because he had now chosen it, scarce the way a person is who has closed an honest negotiation and meant it. They started treating his presence as something that could be lost. In treating it as something that could be lost, they started treating it as something that mattered.
 
 The Diplomat's gift has a name: integrative negotiation. It surfaces what each party protects, names stakes and sacrifices honestly, and closes toward terms people can accept, refuse, or counteroffer, so chosen staying means something.
 
@@ -84,7 +83,7 @@ Each stage earns the next. Bridge without Translate is noise. Translate without 
 
 The Diplomat arrived into a village that had everything except the willingness to be in one conversation. It had lines from the Challenger and continuity from the Regent, and from the Architect it had designs that assumed a goodwill nobody had. Each camp could state its own position perfectly and could not hear the other camp state theirs.
 
-The Diplomat went between them. Stood in the middle of arguments that had been running for years and let them run at full volume without stepping out of the middle. Rendered one camp's language into the other's without flattening either. Went back after ruptures rather than letting the injured show themselves out. For a long stretch the village held together better than it had since the Shaman. The villagers said so out loud.
+The Diplomat went between them. He stood in the middle of arguments that had been running for years, while letting both sides continue to argue without intervening. Rendered one camp's language into the other's without flattening either. Went back after ruptures rather than letting the injured show themselves out. For a long stretch the village held together better than it had since the Shaman. The villagers said so out loud.
 
 Then the Diplomat did the other half of the work. In one hard conversation, the Diplomat named what staying would cost: what each side was protecting, what the agreement would actually require, and what would have to change for the Diplomat's own presence there to keep meaning anything. It came without heat. It came as a term rather than a threat.
 
@@ -107,9 +106,9 @@ After the Diplomat left, the village still needed people to stay. It had stopped
 
 Newcomers arrived and had to audition: they came bearing gifts, because coming empty-handed had stopped working. Camps that wanted the same outcome got louder in their own languages instead of learning each other's. The hard conversations moved into corridors and private messages, where they cost nothing and changed nothing. Nobody went back after a rupture, and when the injured stopped turning up the village called the thinning natural. Meetings ended in warmth and vagueness: everyone accommodated, nothing settled, another session scheduled.
 
-The village chose this for a reason it could defend. After the Challenger it had lines. After the Regent it endured. Neither one gave it a practice for keeping people. Mood filled the gap fastest. So the village picked harmony over honesty, inclusion over closure, and hearing everyone over closing the question.
+The village chose harmony over honesty. It had learned lines from the Challenger and endurance from the Regent. Neither had taught it how to keep people. Mood filled the gap fastest. So the village picked harmony over honesty, inclusion over closure, and hearing everyone over closing the question.
 
-Harmony worked. The village argued less and reported higher satisfaction whenever anyone asked. Underneath it, the people holding the village together carried it without saying so, absorbed what it cost them, and left without warning, which the village read as a run of unrelated departures. The ones who stayed kept count instead, and a count kept long enough starts to feel like a position.
+Harmony worked. The village argued less and reported higher satisfaction whenever anyone asked. Underneath it, the people holding the village together carried it without saying so, absorbed what it cost them, and left without warning, which the village read as a run of unrelated departures. The ones who stayed kept score. Keep track long enough, and what you're tracking becomes what you believe.
 
 Look at what the village kept and what it traded. It kept every ounce of care. It gave up impact, which is what care was always for. A village with all the care and none of the impact keeps everybody comfortable and moves nobody, so everyone in it stays kind and slightly stuck.
 
@@ -175,7 +174,7 @@ The difference is not tone. The Diplomat's altitude gets it wrong here most ofte
 
 Before you encounter the myth that will shape your whole chapter, you need to understand the internal logic that makes this particular myth feel necessary rather than what it actually costs. What follows is a shadowy subject. To look at it directly will dismantle a lot of what conventional allyship wisdom calls for.
 
-When you run allyship on a ledger—when your legitimacy comes from what you have absorbed—you can only act if you are hurting. The moment the other person hurts too, you are competing for the same pool of attention. Two people cannot both be the one who suffered most. One of you has to be hungrier, more broken, more worth feeding. So you both starve to prove it. You refuse help to prove you are noble. You absorb more to prove you have paid more. The one who disappears most convincingly wins the right to be seen.
+If you've built your legitimacy on what you've survived by proving how much you've absorbed, you can only act when you're hurting. The moment the other person hurts too, you're competing for the same pool of attention. Two people cannot both be the one who suffered most. One of you has to be hungrier, more broken, more worth feeding. So you both starve to prove it. You refuse help to prove you are noble. You absorb more to prove you have paid more. The one who disappears most convincingly wins the right to be seen.
 
 The myth *allyship means never causing harm* sounds like integrity precisely because it offers a way to stop racing. If you caused harm, you broke your proof. You are not the innocent one. You do not deserve the attention. So the part of you that keeps score will not run the audit. It cannot afford to find out what you cost someone else, because that finding costs you the only standing you have.
 
@@ -187,7 +186,7 @@ A field that was never told produces the sentence the School of the Bridge exist
 
 **The myth: allyship means never causing harm.**
 
-It sounds like a floor. It functions as a ceiling. If your presence only counts as legitimate for as long as it has cost no one anything, then naming a term becomes a risk you cannot take, because a term that goes badly counts as disqualifying harm. So the terms stay unnamed. The staying stays weightless. The student stays (pleasant, reliable, and slowly becoming furniture) and calls the whole arrangement care.
+The myth sounds like a floor—a minimum standard. It functions as a ceiling—a maximum permission. If you can only remain legitimate by causing no harm, you cannot name what staying requires, because a mishandled term becomes proof you failed. So the terms stay unnamed. The staying stays weightless. The student stays (pleasant, reliable, and slowly becoming furniture) and calls the whole arrangement care.
 
 Every move the School of the Bridge teaches runs downstream of that myth. The School of the Bridge replaces it with something a person can stand on, which is not *I have never caused harm* but *I can be told what I cost and stay in the conversation afterward.*
 
