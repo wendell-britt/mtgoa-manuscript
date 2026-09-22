@@ -169,6 +169,19 @@ The difference is not tone. The Diplomat's altitude gets it wrong here most ofte
 > them.*
 <!-- /MARGINALIA -->
 
+---
+
+### The Daemon That Makes the Myth Feel Like Integrity
+
+Before you encounter the myth that will shape your whole chapter, you need to understand the internal logic that makes this particular myth feel necessary rather than what it actually costs.
+
+When allyship runs on a ledger, its legitimacy comes from your own injury. The consequence is specific and terrible: you cannot act from surplus anymore. You can only act from wound. The person you came to stand beside stops being someone you stand beside and becomes, structurally and not intentionally, a claimant against the same fund. Two people cannot both be the one who has paid most in a field where having paid most confers the right to speak. Nobody decides this—it simply materializes when cost denominates standing.
+
+The myth arrives from this mechanism. When your legitimacy comes from having been harmed, then having caused harm is not a mistake you can absorb and repair. It disqualifies you outright. It erases your ledger. So you cannot afford for yourself to have caused harm, because any finding of impact threatens your standing. A part of you that cannot survive the audit will refuse to run it.
+
+The myth therefore sounds not like a rule to fight but like a necessary protection.
+
+---
 
 A field that was never told produces the sentence the School of the Bridge exists to disprove, the most protected sentence a student arrives carrying.
 
@@ -569,9 +582,7 @@ The distortion arrives in what it does with the balance.
 
 It converts the record into a standing. Not *this cost me* but *this cost me, therefore*. Therefore I have earned the right to speak here. Therefore my reading on the situation carries more weight than yours. Therefore what I do next is covered. The ledger stops being an account of what happened and starts being the source of your authority in the field: a catastrophe you will never see happen, because authority drawn from cost has to be refinanced. You cannot draw on it without spending it. So the balance has to keep growing, which means the absorbing cannot stop, which means what you built the ledger to prevent is now what your standing requires.
 
-Now here is why this daemon stands where it stands, in a book about allyship. Allyship run on a ledger is allyship whose legitimacy comes from your own injury. That has a specific and terrible consequence: you cannot act from surplus. You can only act from wound. The person you came to stand beside stops being someone you stand beside and becomes, structurally and not intentionally, a claimant against the same fund. That part is hard to look at. Two people cannot both be the one who has paid most, in a field where having paid most is what confers the right to speak. Nobody decides this. It simply happens when cost denominates standing.
-
-This is where the chapter's myth comes due. You met it earlier in this chapter: allyship means never causing harm. The Victim daemon makes that feel like integrity rather than what it actually costs: a solvency requirement. If your legitimacy comes from having been harmed, then having caused harm is not a mistake you can absorb and repair. It disqualifies you outright. It voids the ledger. So the Victim cannot afford for you to have caused harm. A part of you that cannot afford a finding will not run the audit.
+You met this daemon introduced earlier in this chapter: it makes the myth *allyship means never causing harm* feel like integrity rather than what it costs. A part of you that cannot afford a finding will not run the audit, which is why the Repairer—the mode built for receiving rupture—becomes structurally the most difficult to access when the ledger is running the show.
 
 The cost is paid in exactly the place this chapter cannot afford to lose it. You become unavailable for repair. Read that again against Sections 4 and 6, because the Repairer is one of your five modes and Move 4 builds a structure for receiving rupture. None of it can run. Someone names an impact you had. Before they finish the sentence the ledger has opened and produced a number that says this is impossible: look at what I have absorbed, look at the column, I am the one in the red here. The Face whose whole chapter is about repair is, in shadow, structurally the worst in the book at receiving it.
 
