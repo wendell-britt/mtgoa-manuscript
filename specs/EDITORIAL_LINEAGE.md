@@ -35,7 +35,7 @@ because it is meant to be corrected in place, and every correction is a log row.
 | | made | where it is | shape | owns | consumers |
 |---|---|---|---|---|---|
 | **Publishing Base v0.1** | 2026-08-15 | branch `publishing-base-v0.1`, **PR #20, open**, unmerged | a contract: ten editorial principles, a repo layout, the review-gate *sequence* (steps 0–7, four outcomes), an `AGENTS` template | what every Wendell Britt book repo must guarantee; *"each book supplies its own rules, vocabulary, thresholds, and voice references"* | **Emotional First Aid**, branch `setup/publishing-base-v0.1` (2026-08-18): `AGENTS.md`, `editorial/REVIEW_GATE.md`, `editorial/EFA_RULES.md`, seven drafts of a first chapter, eight reviews, three specs. No `manuscript/`, no `instruments/` yet. |
-| **editorial-core**, MTGOA at v33 / *Fear to Joy* at **v34** | ruled an object 2026-09-09; installed in MTGOA 2026-09-11 (PR #24); synced to v33 2026-09-11 evening (`density.py`, `fragment.py`) | `../editorial-core` in The Library, **one disk, no repository in the account carries it** | instruments by copy, `sync_core.py`, one manifest per project (`editorial.yaml`), one ledger per project (`editorial_exceptions.yaml`) | the measurements: gate, telling, trailing_and, light_verb, fragment, polysyndeton, slop_shapes, prose_diet, antecedent, and `coherence.py`'s board over them. 24 core modules in MTGOA's `instruments/`; the project's own files (`build_book.py`, `review.py`, `claims.py`, `markpatterns.py`) are not core. | **MTGOA**, board fully drawn to zero 2026-09-14. **`wendell-britt/wendell-britt-fear-to-joy-manuscript`, confirmed 2026-09-22** — see below. |
+| **editorial-core v34** | ruled an object 2026-09-09; installed in MTGOA 2026-09-11 (PR #24); synced to v33 2026-09-11 evening (`density.py`, `fragment.py`); synced to v34 2026-09-22 (DL-109, version-only) | `../editorial-core` in The Library, **one disk, no repository in the account carries it** | instruments by copy, `sync_core.py`, one manifest per project (`editorial.yaml`), one ledger per project (`editorial_exceptions.yaml`) | the measurements: gate, telling, trailing_and, light_verb, fragment, polysyndeton, slop_shapes, prose_diet, antecedent, and `coherence.py`'s board over them. 24 core modules in MTGOA's `instruments/`; the project's own files (`build_book.py`, `review.py`, `claims.py`, `markpatterns.py`) are not core. | **MTGOA**, board fully drawn to zero 2026-09-14. **`wendell-britt/wendell-britt-fear-to-joy-manuscript`, confirmed 2026-09-22**, also at v34. |
 | **voice kit** | 2026-08-10 | `export/voice-kit/` on `master` | `voice_lint.py` (stdlib only) plus two skills, `no-ai-slop` (MIT, Peter Yang, verbatim, licence travels with it) and `house-voice` | the counters from `gate.py`, `prose_diet.py` and `empty_head.py`, *copied verbatim so the site and the book cannot drift*, for repos with customer-facing copy and no manuscript | `johnair01/bars-engine` (its stated target); **friendcraft**, where `tools/voice_lint.py` reached `main` on 2026-09-09 (#17). |
 
 ## The order they inherit in
@@ -67,10 +67,16 @@ gets the core installed into it; a repo with only copy gets the kit.
 
 - **The base's own condition for a shared repo is now met, once.** *"Once two books implement the
   same interfaces, the genuinely shared code can be moved into a dedicated publishing repo."*
-  MTGOA runs core v33; **`wendell-britt-fear-to-joy-manuscript` runs v34**, confirmed 2026-09-22 —
-  a second real book on the shared instruments, ahead of MTGOA in version. EFA has the base's
-  `editorial/` directory and no instruments: two books on the core, a third on the base, none yet
-  on both.
+  MTGOA and `wendell-britt-fear-to-joy-manuscript` both run core v34, confirmed 2026-09-22 (DL-109)
+  — two real books on the shared instruments. EFA has the base's `editorial/` directory and no
+  instruments: two books on the core, a third on the base, none yet on both.
+- **The v33 → v34 release changed nothing but its own number.** Every one of the 27 shared core
+  files compared byte-identical between MTGOA and Fear to Joy except `core_meta.py`'s version line
+  — confirmed before syncing, not assumed. Either v34 is a capability release with no code yet (the
+  release-severity doc in `core_meta.py` names this shape: *"adds capability, reports and waits"*)
+  or Fear to Joy's own instruments are themselves stale against whatever v34 actually is. This page
+  cannot tell which from two projects that agree with each other; it can only report that a sync
+  that changes only a number is not evidence the number means nothing.
 - **The zero-target debt PR #25 shipped as red is now clean.** The 335 unresolved hits it merged
   onto `master` (telling 198, light_verb 52, slop_shapes 40, fragment 38, polysyndeton 7) were
   drawn to zero across five commits, 2026-09-11 through 2026-09-14, and the twelve exceptions
@@ -127,14 +133,15 @@ the assumption with a measured recommendation Wendell can ratify or reject.
    is five YAML files of game data. No repository anywhere is named *AI Psychologist*. **The report's
    claim was aimed at the wrong pair of names; the project it meant is real.** `wendell-britt/wendell-
    britt-fear-to-joy-manuscript`, cloned and checked 2026-09-22: `editorial.yaml` (`core_version: 34`
-   — **one release ahead of MTGOA's 33**, `core_home: "../editorial-core"`), `editorial_exceptions.yaml`
-   (its own ledger, all scanners empty — a clean book, not yet drawn down), `instruments/` (29 files,
-   the lean core set with none of MTGOA's ~170 book-specific one-offs), `marginalia/compile.py`
-   byte-identical to MTGOA's. `manuscript/the-skeptic.md`, 731 words, one chapter. **No `AGENTS.md`,
-   no `README.md`, no `editorial/` directory** — it runs the core with no trace of the Publishing
-   Base contract, which is itself evidence for Q1: a book can have the core with nothing of the base
-   around it. The core it runs is newer than the one installed here, which means **MTGOA is the
-   project now behind**, not the reference copy — reported as measured, not acted on; no sync run.
+   — at the time, one release ahead of MTGOA's 33 — `core_home: "../editorial-core"`),
+   `editorial_exceptions.yaml` (its own ledger, all scanners empty — a clean book, not yet drawn
+   down), `instruments/` (29 files, the lean core set with none of MTGOA's ~170 book-specific
+   one-offs), `marginalia/compile.py` byte-identical to MTGOA's. `manuscript/the-skeptic.md`, 731
+   words, one chapter. **No `AGENTS.md`, no `README.md`, no `editorial/` directory** — it runs the
+   core with no trace of the Publishing Base contract, which is itself evidence for Q1: a book can
+   have the core with nothing of the base around it. **MTGOA synced to v34 the same day (DL-109);
+   both projects now agree.** The sync was version-only: every shared core file was already
+   byte-identical, so nothing in MTGOA's instruments actually changed except the number.
 
 ## Corrections log
 
@@ -144,3 +151,4 @@ the assumption with a measured recommendation Wendell can ratify or reject.
 | 2026-09-22 | Core row updated v32 → v33 (mechanism-only sync, `density.py`/`fragment.py`, 2026-09-11). Zero-target debt line added: the 335 hits PR #25 merged as `coherence` red were drawn to zero by 2026-09-14 and the twelve ledger entries ratified the same day. The three decisions below are unchanged — nothing in the ten intervening commits touched the base, the core's relationship to it, or the two named siblings. |
 | 2026-09-22 | Six-Face panel run on the three open questions (`specs/PANEL_LINEAGE_OPEN_QUESTIONS_2026-09-22.md`). Recommendations added for Q1 (two things) and Q2 (the kit was never a copy) below the "assumes one" line, marked as Wendell's to ratify. Q3's siblings claim retracted on fresh evidence; a fourth, unexplained repository surfaced the same day. |
 | 2026-09-22 | Wendell named `wendell-britt-fear-to-joy-manuscript` as the missing sibling. Repo added to session scope and cloned. Confirmed: genuinely runs editorial-core, at **v34** — ahead of MTGOA's v33 — with no Publishing Base files at all. The core row and Q3 above are corrected in place; MTGOA is now the version behind, unsynced. |
+| 2026-09-22 | MTGOA synced to v34 (DL-109), on Wendell's word. Diffed first: all 27 shared core files were already byte-identical to Fear to Joy's copies; the sync changed `core_meta.CORE_VERSION` and `editorial.yaml`'s `core_version` and nothing else. Full board re-run clean, `zero` included. Every reference to MTGOA running v33 above corrected to v34; the "MTGOA is behind" line removed as no longer true. |

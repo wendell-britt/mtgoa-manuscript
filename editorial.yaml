@@ -14,8 +14,11 @@ project: "Mastering the Game of Allyship"
 # this against the version baked into the installed instruments (core_meta.CORE_VERSION) and the
 # core's published VERSION. Raised 28 -> 32 by the instrument reconciliation (2026-09-11): the
 # fragment referee, the light_verb DL-97 fold-in, and gate/prose_diet reading their exemptions and
-# registers from this manifest.
-core_version: 33
+# registers from this manifest. Raised 32 -> 33 the same evening (density.py, fragment.py).
+# Raised 33 -> 34 (2026-09-22, DL-109), a version-only sync against `wendell-britt-fear-to-joy-
+# manuscript`, the first other project on this core: every shared instrument file compared
+# byte-identical except core_meta.py's version line -- see specs/EDITORIAL_LINEAGE.md.
+core_version: 34
 core_home: "../editorial-core"
 
 # What "the book" means when an instrument runs book-wide. MTGOA's real corpus is assembled
