@@ -426,6 +426,10 @@ Then hold the flinch. Somebody will hear it as criticism: that's the cost, and y
 
 I built a spreadsheet to track my moods. Inside a week I was having the moods that made the chart look better.
 
+You met the daemon in Section 3: the Emotional Body working unseen in the Architect's practice — one sense that warns when a design costs more than it returns, when invisible support had to be withheld or a structure fell apart. When an Architect cannot feel who stands underneath such a design, coldness is not the problem — the absence of warning is.
+
+Now watch what happens when that daemon works inside you, in the architecture of your own decisions. It converts a signal into a proposal before you finish feeling it. A feeling never gets read — it only gets spent.
+
 You met the Emotional Body at the door of the Forest, fifth in line, one step past the Fixer. It does not belong in that line the way the others do.
 
 The Protector decides whether you go in. The Controller decides how you may behave once you get inside. The Skeptic decides whether what you react to was ever real. The Fixer decides whether what is in front of you holds up well enough to deserve you: four parts, four strategies, four different jobs. The Emotional Body is what all four strategies are strategies *about.* Every one of them manages something that arrived through it first.
