@@ -271,7 +271,7 @@ Each mode rests on a specific EA signal and its own alchemical arc:
 | **Repairer** | Water/Sadness | Betrayal Wound → Discerning Trust → **Poignance** (primary) / Performance Forgiveness → Genuine Repair |
 | **Integrative Negotiator** | Fire/Anger | Resentful Peace → Honest Terms → **Triumph** (primary) / Positions → Interests |
 
-Each mode below runs its full arc, the dissatisfaction it carries and the alchemy that transmutes it. Calm is not the entry fee. Whatever you feel as you sit down, one of these five works with that feeling rather than around it.
+Each mode carries its full arc: the dissatisfaction it delivers and the alchemy that transmutes it. Calm is not the entry fee. Whatever you feel as you sit down, one of these five works with that feeling rather than around it.
 
 ---
 
@@ -285,7 +285,7 @@ The five stages track how the work moves. The five modes describe who you are wh
 
 The Bridge-Builder opens the Diplomat's work: the mode through which contact happens and curiosity replaces judgment. It carries the Diplomat's most fundamental skill, the one most easily distorted.
 
-Here is what its absence looks like: a person who makes contact only when they want something. Every relational field runs as a transaction (what can I get, what is this interaction worth to me), so everyone they meet becomes a means to an end.
+Here is what its absence looks like: a person who makes contact only when they want something. Every relational field they enter becomes a transaction (what can I get, what is this interaction worth to me), so everyone they meet becomes a means to an end.
 
 Here is what its distortion looks like: a person who is always reaching out, always bridging, and who cannot stop, even when nobody needs the crossing. They confuse movement for connection, and they keep bridging because stopping feels like abandonment.
 
@@ -295,7 +295,7 @@ The core Dissatisfaction under Bridge-Builder is **anxiety**: the low hum of "wi
 
 The alchemy: you feel the anxiety fully and alchemize it into real curiosity about the field. *What is actually here? Who is actually present? What do I actually want to know about this person, not what do I need them to think of me?*
 
-The anxiety, fully felt and recognized as history rather than prophecy, converts into the clean attention that makes real bridging possible. The move runs the length of one channel, from the fear end of Metal to the curiosity at its far end.
+The anxiety, fully felt and recognized as history rather than prophecy, converts into the clean attention that makes real bridging possible. You travel the length of one channel, from the fear end of Metal to the curiosity at its far end.
 
 **Alchemy 2 — Stage-Fright → Authentic Presence**
 
@@ -307,7 +307,7 @@ The stage-fright, acknowledged as the shame of being a learner instead of an exp
 
 **Translate — Rejection-Sensitivity → Generous Assumption**
 
-When the pattern of past exclusion fires (they won't want me here, I'm outside the circle), the Translate moves the charge toward generous assumption: *What if they actually want me here? What if the field is more open than my pattern expects?*
+When the pattern of past exclusion fires in you (they won't want me here, I'm outside the circle), you move the charge toward generous assumption: *What if they actually want me here? What if the field is more open than my pattern expects?*
 
 Call it optimism if you want. The discipline extends to the present the same hypothesis you already extend to strangers on the street.
 
@@ -347,7 +347,7 @@ The Dissatisfaction here is **intellectual superiority**, the subtle, seductive 
 > where they are, and if you do not do it gracefully enough they will feel talked down to — because
 > they are being talked down to, and grace is the only variable.*
 >
-> *I looked for a way around this for a long time. The reasoning runs: if everyone is equal, then
+> *I looked for a way around this for a long time. I proposed this reasoning: if everyone is equal, then
 > stepping down is a category error, and there ought to be some formulation that carries the meaning
 > without the step. I built several. They were elaborate. One of them had stages.*
 >
@@ -395,11 +395,11 @@ Here is what its distortion looks like: a performative calm, actually a freeze r
 
 **Alchemy 1 — Inclusion-Performance → Genuine Inclusion**
 
-The Dissatisfaction here is **inclusion-performance**. You open the retro by telling everyone no topic is off the table, and you mean it. Then the hour runs and everyone reports status, while what actually happened last sprint never comes up. You ran a good meeting and never got near the field.
+The Dissatisfaction here is **inclusion-performance**. You open the retro by telling everyone no topic is off the table, and you mean it. Then the hour passes. Everyone reports status while what actually happened last sprint never comes up. You ran a good meeting and never got near the field.
 
 The statement took nine days and four rounds, because the group could not agree on how to say that it was listening.
 
-The field is what happens between people, made by everyone there. A physical field holds itself. This one needs tending, which is why Hold costs more and why you cannot make this move alone.
+The field is what happens between people, made by everyone there. A physical field holds itself. You have to tend this one, which is why Hold costs more and why you cannot make this move alone.
 
 The alchemy: *I stop announcing that the field is open and find out whether anyone will use it.* Anxiety shows up while you do this, reading the situation correctly, because a field with somebody's real stake in it costs more to hold than a calm one. Treat it as the weather you work in. What you are watching for is growth. You know it arrived when somebody says what they had decided in the parking lot not to say. Their sentence is between everyone now, a sentence you could not have said for them. The Wood channel completes here. Bliss is what it feels like to hold a field that grew what you did not plant.
 
@@ -421,7 +421,7 @@ The structural pattern here is **presence collapse**: withdrawing the moment som
 
 **The structure of the Precedent of Presence:** You establish, in advance, a commitment to staying present when somebody charges it. You decided on it; nothing obliged you. The commitment builds the structure. You say so in advance: *I don't leave when it gets hard. I practice that rather than declare it.* The collapse pattern dissolves into a personal precedent the people around you can depend on.
 
-Staying spends real capacity. Naming that cost belongs to the holding, because unnamed depletion eventually becomes disappearance.
+Staying costs you real capacity. Name that cost when you hold, because unnamed depletion eventually becomes disappearance.
 
 *The Field-Holder exists for one job: the willingness to stay when staying is difficult. Not to fix the field, not to calm it down. To be the presence that lets the people making it move through what they need to move through.*
 
@@ -433,7 +433,7 @@ The Repairer runs the Diplomat's deepest mode: the work of healing a rupture wit
 
 Here is what its absence looks like: a relationship that cannot survive its own ruptures, where every breach becomes permanent and every conflict leaves a scar that never heals. Call it relational brittleness. People stay together and accumulate damage they never recover from, until one day something breaks that cannot be repaired.
 
-Here is what its distortion looks like: a premature forgiveness that skips the repair entirely. They say *it's fine, let's move on, I forgive you*, and in fact they abandon the relationship to its damage. The wound closes over with the infection still inside.
+Here is what its distortion looks like: they rush to forgive before the repair is done. They say *it's fine, let's move on, I forgive you*, and they abandon the relationship to its damage. The wound closes over with the infection still inside.
 
 **Alchemy 1 — Betrayal Wound → Discerning Trust**
 
@@ -469,17 +469,17 @@ The cost here is time. Real repair takes longer than performance repair, and tha
 
 The Integrative Negotiator closes the Diplomat's sequence, the Fire/Anger application at the Diplomat's altitude. The Challenger's line in the sand and the Regent's decree do different work. Bridge, translate, hold, repair, and then **negotiate**. Heard *and* something moves.
 
-Here is what its absence looks like: a field that can stay in conversation forever and never arrive anywhere. The person who keeps the harmony going because closing feels like conflict, who defers every hard question to the next conversation, the next working group, the next season when conditions might be better. Call it relational molasses: pleasant, inclusive, and slowly failing the task.
+Here is what its absence looks like: a field that never arrives anywhere. The person who keeps extending conversation because closing feels like conflict. They defer every hard question to the next session. Nothing gets settled. Call it relational molasses: warm, inclusive, and slowly failing the task.
 
 Here is what its distortion looks like: two different failures wearing the same smile.
 
-The first distortion is **endless process**, the Diplomat who has confused hearing with closing. Who believes that if everyone feels included, the work is done. Who will run another round of listening because naming what must change feels like picking a fight. The field stays warm. Nothing moves. Resentment accumulates under the harmony like sediment.
+The first distortion is **endless process**, the Diplomat who has confused hearing with closing. She believes that if everyone feels included, the work is done. She will hold another round of listening because naming what must change feels like picking a fight. The field stays warm. Nothing moves. Resentment accumulates under the harmony like sediment.
 
 The second distortion is **ultimatum dressed as negotiation**: a threat where integration belonged. *Here's what I need or I'm out* spoken in the tone of honest disclosure, but actually functioning as a threat. The Diplomat who defaults here plays the Challenger's game wearing the Diplomat's clothes, skipping the native work (surfacing interests, finding terms) and importing another altitude into this conversation. It sometimes works. It is not what this mode is for.
 
 **Alchemy 1 — Resentful Peace → Honest Terms**
 
-The Dissatisfaction here is **resentful peace**, the accommodation that says yes while the body says no. You made space without naming what making space cost. You kept the field calm by swallowing your stake. Now the calm curdles into bitterness you can't explain, because you never said out loud what you needed the agreement to hold.
+The Dissatisfaction here is **resentful peace**, the accommodation that says yes while the body says no. You made space without naming what staying there cost you. You kept the field calm by swallowing your stake. Now the calm curdles into bitterness you can't explain, because you never said out loud what you needed the agreement to hold.
 
 The alchemy: *I stop paying for harmony with my disappearance.* Resentful peace is deferred conflict wearing a polite face. The alchemy moves accommodation into **honest terms**: *here is what this field must hold for my staying to remain real, and for everyone's.* The charge of the swallowed no becomes the heat of a closing that actually names the stakes.
 
@@ -575,21 +575,21 @@ You met the Victim at the door of the Forest, sixth in line. The Protector decid
 <!-- /MARGINALIA -->
 
 
-At its best this part of you keeps an exact ledger. Something cost you. The Victim will not let the cost be called nothing. It remembers the meetings you carried, the accommodations nobody asked for and everybody used, the years of being the reasonable one. Every entry is accurate. This matters more in relational work than anywhere else in the book, because relational work forms the one arena where people routinely absorb costs without ever entering them anywhere. Without a part of you keeping count, you will absorb harm indefinitely and call it fine. Nobody there will stop you. A person who does not send an invoice does not get paid.
+At its best this part of you keeps an exact ledger. Something cost you. The Victim refuses to let that cost disappear into silence. It remembers the meetings you carried, the accommodations nobody asked for and everybody used, the years of being the reasonable one. Every entry is accurate. This matters more in relational work than anywhere else in the book, because relational work forms the one arena where people routinely absorb costs without ever entering them anywhere. Without a part of you keeping count, you will absorb harm indefinitely and call it fine. Nobody there will stop you. A person who does not send an invoice does not get paid.
 
 The distortion arrives in what it does with the balance.
 
-It converts the record into a standing. Not *this cost me* but *this cost me, therefore*. Therefore I have earned the right to speak here. Therefore my reading on the situation carries more weight than yours. Therefore what I do next is covered. The ledger stops being an account of what happened and starts being the source of your authority in the field: a catastrophe you will never see happen, because authority drawn from cost has to be refinanced. You cannot draw on it without spending it. So the balance has to keep growing, which means the absorbing cannot stop, which means what you built the ledger to prevent is now what your standing requires.
+This part distorts what the ledger means. It converts the record from account into authority: not *this cost me* but *this cost me, and therefore I have earned the right to speak here*. Therefore my reading on the situation carries more weight than yours. Therefore what I do next is covered. The ledger stops being an account of what happened and starts being the source of your authority in the field: a catastrophe you will never see happen, because authority drawn from cost has to be refinanced. You cannot draw on it without spending it. So the balance has to keep growing, which means the absorbing cannot stop, which means what you built the ledger to prevent is now what your standing requires.
 
 You met this daemon introduced earlier in this chapter: it makes the myth *allyship means never causing harm* feel like integrity rather than what it costs. A part of you that cannot afford a finding will not run the audit, which is why the Repairer—the mode built for receiving rupture—becomes structurally the most difficult to access when the ledger is running the show.
 
-The cost is paid in exactly the place this chapter cannot afford to lose it. You become unavailable for repair. Read that again against Sections 4 and 6, because the Repairer is one of your five modes and Move 4 builds a structure for receiving rupture. None of it can run. Someone names an impact you had. Before they finish the sentence the ledger has opened and produced a number that says this is impossible: look at what I have absorbed, look at the column, I am the one in the red here. The Face whose whole chapter is about repair is, in shadow, structurally the worst in the book at receiving it.
+The cost is paid in exactly the place this chapter cannot afford to lose it. The Repairer is one of your five modes and Move 4 teaches receiving rupture. The ledger blocks access to it. Someone names an impact you caused. Before they finish, the ledger opens: this is impossible, look at what I have absorbed, I am the one in the red here. The Face whose whole chapter is about repair cannot receive it when the ledger is running.
 
 You do not fire the Victim. Once you fire the part of you that counts, you will spend the rest of your life absorbing costs you cannot name, in fields that have no reason to stop taking, calling that generosity. You take the joystick back by giving it its actual jurisdiction and taking away the one it appointed itself to.
 
 *Keep the ledger. Every entry, exact, and read it to me whenever I ask. What the ledger does not do is decide whether I am allowed to speak here, nor does it get a vote on whether I have caused harm.*
 
-Then put a limit on it: the shadow works entirely through an open ledger. The Challenger's deadline runs a breath. The Regent's runs a cycle. The Diplomat's is smaller than either, and harder: *one sentence.* You get one sentence to name what this cost you, said once, to the field rather than about it. Then the others take their turn. A case would be longer. The accumulated column would be longer still. One sentence, then silence, then whatever they do with it. One sentence covers what they actually need to hear. It does not cover the case. That limit is deliberate.
+Then put a limit on it: the shadow works entirely through an open ledger. The Challenger closes with one clear no. The Regent closes with the weight of tradition and time. The Diplomat closes by naming one sentence, something harder than what either of them can do. You get one sentence to name what this cost you, said once, to the field rather than about it. Then the others take their turn. A case would be longer. The accumulated column would be longer still. One sentence, then silence, then whatever they do with it. One sentence covers what they actually need to hear. It does not cover the case. That limit is deliberate.
 
 It shows up in a single beat. Someone tells you that something you did hurt them. Something in you goes still and attentive; that marks the Repairer arriving, on time, doing its job. Then the ledger opens underneath it. What surfaces is not a defense. A defense you would catch. What surfaces shows a balance. *After everything I have carried here.* You do not say it. You would never say it. What you say is *I hear you,* the ledger's most efficient instrument, because it accepts the words without admitting the entry. The conversation ends warm. Nothing has been received. On the narrow jurisdiction the same part returns the same accurate report and the answer changes: *that is true, I did that, and here is what it cost you*, with your own column left closed, in your pocket, entirely real and not currently the subject.
 
