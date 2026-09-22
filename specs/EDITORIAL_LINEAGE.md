@@ -35,7 +35,7 @@ because it is meant to be corrected in place, and every correction is a log row.
 | | made | where it is | shape | owns | consumers |
 |---|---|---|---|---|---|
 | **Publishing Base v0.1** | 2026-08-15 | branch `publishing-base-v0.1`, **PR #20, open**, unmerged | a contract: ten editorial principles, a repo layout, the review-gate *sequence* (steps 0–7, four outcomes), an `AGENTS` template | what every Wendell Britt book repo must guarantee; *"each book supplies its own rules, vocabulary, thresholds, and voice references"* | **Emotional First Aid**, branch `setup/publishing-base-v0.1` (2026-08-18): `AGENTS.md`, `editorial/REVIEW_GATE.md`, `editorial/EFA_RULES.md`, seven drafts of a first chapter, eight reviews, three specs. No `manuscript/`, no `instruments/` yet. |
-| **editorial-core v32** | ruled an object 2026-09-09; installed 2026-09-11 (PR #24) | `../editorial-core` in The Library, **one disk, no repository in the account carries it** | instruments by copy, `sync_core.py`, one manifest per project (`editorial.yaml`), one ledger per project (`editorial_exceptions.yaml`) | the measurements: gate, telling, trailing_and, light_verb, fragment, polysyndeton, slop_shapes, prose_diet, antecedent, and `coherence.py`'s board over them. 24 core modules in MTGOA's `instruments/`; the project's own files (`build_book.py`, `review.py`, `claims.py`, `markpatterns.py`) are not core. | MTGOA at v32. The install report names two other Library books; they are not on GitHub under any visible name and nothing here can verify them. |
+| **editorial-core v33** | ruled an object 2026-09-09; installed 2026-09-11 (PR #24); synced to v33 2026-09-11 evening (`density.py`, `fragment.py`) | `../editorial-core` in The Library, **one disk, no repository in the account carries it** | instruments by copy, `sync_core.py`, one manifest per project (`editorial.yaml`), one ledger per project (`editorial_exceptions.yaml`) | the measurements: gate, telling, trailing_and, light_verb, fragment, polysyndeton, slop_shapes, prose_diet, antecedent, and `coherence.py`'s board over them. 24 core modules in MTGOA's `instruments/`; the project's own files (`build_book.py`, `review.py`, `claims.py`, `markpatterns.py`) are not core. | MTGOA at v33, board fully drawn to zero 2026-09-14. The install report names two other Library books; they are not on GitHub under any visible name and nothing here can verify them. |
 | **voice kit** | 2026-08-10 | `export/voice-kit/` on `master` | `voice_lint.py` (stdlib only) plus two skills, `no-ai-slop` (MIT, Peter Yang, verbatim, licence travels with it) and `house-voice` | the counters from `gate.py`, `prose_diet.py` and `empty_head.py`, *copied verbatim so the site and the book cannot drift*, for repos with customer-facing copy and no manuscript | `johnair01/bars-engine` (its stated target); **friendcraft**, where `tools/voice_lint.py` reached `main` on 2026-09-09 (#17). |
 
 ## The order they inherit in
@@ -67,8 +67,14 @@ gets the core installed into it; a repo with only copy gets the kit.
 
 - **The base's own condition for a shared repo is not yet met on GitHub.** *"Once two books
   implement the same interfaces, the genuinely shared code can be moved into a dedicated
-  publishing repo."* MTGOA runs v32. EFA has the base's `editorial/` directory and no instruments.
+  publishing repo."* MTGOA runs v33. EFA has the base's `editorial/` directory and no instruments.
   The two Library books the reports name cannot be seen from any clone.
+- **The zero-target debt PR #25 shipped as red is now clean.** The 335 unresolved hits it merged
+  onto `master` (telling 198, light_verb 52, slop_shapes 40, fragment 38, polysyndeton 7) were
+  drawn to zero across five commits, 2026-09-11 through 2026-09-14, and the twelve exceptions
+  ledgered on Wendell's behalf during that drawdown were ratified by him on 2026-09-14. `coherence`
+  passes clean on `master` today, `zero` included. This did not touch the base/core/kit
+  relationship above — it is a prose and ledger drawdown, not a lineage change.
 - **Three fragment counters, and nothing tests that they agree.** The core's `fragment.py` (NLTK);
   the kit's `voice_lint.py`, where PR #23 closed the `-s` hole on 2026-09-11 with a hand list,
   `VERB_S`; and friendcraft's copy of the kit, which predates PR #23 and has no `VERB_S`. Plain
@@ -109,3 +115,4 @@ gets the core installed into it; a repo with only copy gets the kit.
 | date | correction |
 |---|---|
 | 2026-09-12 | Page written. "Steps 3–6" in the plan and the review corrected to steps 2, 3, 5 and 7 against the gate's actual text. The review's "installed in friendcraft 09-01" is not reproducible from the clone as it stands; the kit reached friendcraft's `main` on 2026-09-09 (#17). |
+| 2026-09-22 | Core row updated v32 → v33 (mechanism-only sync, `density.py`/`fragment.py`, 2026-09-11). Zero-target debt line added: the 335 hits PR #25 merged as `coherence` red were drawn to zero by 2026-09-14 and the twelve ledger entries ratified the same day. The three decisions below are unchanged — nothing in the ten intervening commits touched the base, the core's relationship to it, or the two named siblings. |
