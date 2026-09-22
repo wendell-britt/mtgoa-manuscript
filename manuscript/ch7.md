@@ -85,7 +85,7 @@ The Diplomat arrived into a village that had everything except the willingness t
 
 The Diplomat went between them. He stood in the middle of arguments that had been running for years, while letting both sides continue to argue without intervening. Rendered one camp's language into the other's without flattening either. Went back after ruptures rather than letting the injured show themselves out. For a long stretch the village held together better than it had since the Shaman. The villagers said so out loud.
 
-Then the Diplomat did the other half of the work. In one hard conversation, the Diplomat named what staying would cost: what each side was protecting, what the agreement would actually require, and what would have to change for the Diplomat's own presence there to keep meaning anything. It came without heat. It came as a term rather than a threat.
+Then the Diplomat did the other half of the work. In one hard conversation, the Diplomat named what staying would cost. He named what each side protected. He named what the agreement actually required. He named what the village would have to do for his presence to remain something they could choose or refuse. It came without heat. It came as a term rather than a threat.
 
 **The village heard a threat.**
 
@@ -104,15 +104,15 @@ The villagers never meant for that to happen. They never said *go.* They just st
 
 After the Diplomat left, the village still needed people to stay. It had stopped knowing how to say what staying costs.
 
-Newcomers arrived and had to audition: they came bearing gifts, because coming empty-handed had stopped working. Camps that wanted the same outcome got louder in their own languages instead of learning each other's. The hard conversations moved into corridors and private messages, where they cost nothing and changed nothing. Nobody went back after a rupture, and when the injured stopped turning up the village called the thinning natural. Meetings ended in warmth and vagueness: everyone accommodated, nothing settled, another session scheduled.
+Newcomers arrived and had to audition: they came bearing gifts, because coming empty-handed had stopped working. Camps that wanted the same outcome got louder in their own languages instead of learning each other's. The hard conversations moved into corridors and private messages, where they cost nothing and changed nothing. Nobody went back after a rupture. When the injured stopped coming, the village treated it as natural loss. They did not name it as consequence. They did not say: you left because we hurt you. Meetings ended in warmth and vagueness. Everyone accommodated, nobody closed the question, and they scheduled another session to do it all again.
 
-The village chose harmony over honesty. It had learned lines from the Challenger and endurance from the Regent. Neither had taught it how to keep people. Mood filled the gap fastest. So the village picked harmony over honesty, inclusion over closure, and hearing everyone over closing the question.
+The village chose harmony over honesty. It had learned lines from the Challenger and endurance from the Regent. Neither had taught it how to keep people. So the village reached for comfort. Comfort moves faster than any difficult conversation. So the village picked harmony over honesty, inclusion over closure, and hearing everyone over closing the question.
 
 Harmony worked. The village argued less and reported higher satisfaction whenever anyone asked. Underneath it, the people holding the village together carried it without saying so, absorbed what it cost them, and left without warning, which the village read as a run of unrelated departures. The ones who stayed kept score. Keep track long enough, and what you're tracking becomes what you believe.
 
-Look at what the village kept and what it traded. It kept every ounce of care. It gave up impact, which is what care was always for. A village with all the care and none of the impact keeps everybody comfortable and moves nobody, so everyone in it stays kind and slightly stuck.
+Look at what the village kept and what it lost. It kept every ounce of care. It lost impact. A village that cares but changes nothing keeps everybody comfortable and nothing changed.
 
-So the village stopped believing that staying could carry conditions. Presence became unconditional, which sounds like love and works like a tax. Nobody noticed. The village called the pattern kindness. The pattern emptied it one person at a time.
+So the village stopped believing that staying could carry conditions. The village made presence unconditional by refusing to name what it cost. That looks like love. It functions as a soft protection racket: keep giving everything or lose your standing here. Nobody noticed. The village called the pattern kindness. The pattern emptied it one person at a time.
 
 ---
 
@@ -137,9 +137,9 @@ The Diplomat operates through five modes:
 
 You have already met a version of "terms," and that version forces the School of the Bridge to define the word before it can use it.
 
-The villagers harden terms into ultimatums. Terms are what someone says when they have decided to leave and want you to know it is your fault. Terms come with a deadline attached and a threat underneath. The person with the upper hand produces them at the end of a negotiation that was never a negotiation. That version of the word holds real (people do this). It explains why a certain kind of capable, relationally fluent person will run an entire career without ever naming a single term of her own. She has seen what terms look like in the hands of someone playing a power game. She has decided not to be that.
+The villagers harden terms into ultimatums. Terms are what someone says when they have decided to leave and want you to know it is your fault. Terms come with a deadline attached and a threat underneath. The person with the upper hand produces them at the end of a negotiation that was never a negotiation. That version of the word holds real (people do this). It explains why a certain kind of capable, relationally fluent person will spend an entire career avoiding honoring a single term of her own. She has seen what terms look like in the hands of someone playing a power game. She has decided not to be that.
 
-That decision names a specific misuse accurately. Accuracy explains why nobody has talked her out of it. The problem is what it costs to generalize from it.
+She names a specific misuse accurately. That accuracy explains why nobody has talked her out of it. When she generalizes from this one case, she learns: if bad terms exist, all terms are threats. She stops trusting any agreement.
 
 <!-- HANDBOOK -->
 > *Case forty-one. Both transcripts, hers first.*
@@ -186,7 +186,7 @@ A field that was never told produces the sentence the School of the Bridge exist
 
 **The myth: allyship means never causing harm.**
 
-The myth sounds like a floor—a minimum standard. It functions as a ceiling—a maximum permission. If you can only remain legitimate by causing no harm, you cannot name what staying requires, because a mishandled term becomes proof you failed. So the terms stay unnamed. The staying stays weightless. The student stays (pleasant, reliable, and slowly becoming furniture) and calls the whole arrangement care.
+The myth sounds like a floor, a minimum standard. It functions as a ceiling, a maximum permission. If you can only remain legitimate by causing no harm, you cannot name what staying requires, because a mishandled term becomes proof you failed. So the terms stay unnamed. Her presence carries no weight. The student stays (pleasant, reliable, slowly becoming furniture) and naively calls the whole arrangement care.
 
 Every move the School of the Bridge teaches runs downstream of that myth. The School of the Bridge replaces it with something a person can stand on, which is not *I have never caused harm* but *I can be told what I cost and stay in the conversation afterward.*
 
