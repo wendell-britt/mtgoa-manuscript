@@ -5,6 +5,35 @@
 
 ---
 
+## Session — 2026-09-22 · Ch7 Section 3: Victim Daemon Moved Before Myth Announcement
+
+**Approved and applied.** Restructured Section 3 to introduce the Victim daemon before the myth announcement, matching the pedagogical pattern established in Ch6: problem identification (the daemon mechanism) → mechanism explanation (cost denominates standing) → myth-busting as earned understanding (why "never causing harm" feels like integrity).
+
+**What was added:** New subsection "The Daemon That Makes the Myth Feel Like Integrity" inserted between Section 3's term definition (lines 139-171) and the myth statement (line 175). This subsection explains the mechanism: when legitimacy comes from injury, having caused harm disqualifies you, making the myth feel like integrity rather than what it costs.
+
+**What was adjusted:** Section 5 now acknowledges daemon was introduced in Section 3 and deepens the work on the ledger rather than re-introducing the mechanism. Changed opening paragraph to point back to earlier introduction and focus on the shadow work.
+
+**Why this matters:** The reader now encounters the internal mechanism (daemon + mechanism) before the myth announcement. This creates the sequence: understand why the myth feels necessary → encounter the myth → replace it with something workable. Follows Ch9's correct structure (daemon early, teaching after).
+
+**Result:**
+- Pedagogical flow now matches Ch6/Ch9 pattern
+- Prose diet improved: waste 1.31→0.88, passive 1.40→0.63
+- Orphan pronouns from new section resolved through active voice rewrite
+- Downstream pacing verified: Ch7 now properly introduces the Victim daemon before deep teaching in Section 4
+
+**Verification:**
+- Full editorial review: new text passes gate, diet scores in range, no new orphans
+- Section 3 flow: term definition → daemon mechanism → myth announcement → restoration
+- Section 5 transition: acknowledges prior daemon intro, deepens ledger work without duplication
+- Chapter arc: daemon introduction (Section 3) → modes teaching (Section 4) → daemon deepening (Section 5)
+
+**Commit applied:**
+1. `d43d008` — Restructure: ch7 Section 3 introduces Victim daemon before myth announcement
+
+**Next:** Ch8 restructuring follows same pattern: move Damaged Self daemon explanation forward to early Section 2 (currently in Section 5).
+
+---
+
 ## Session — 2026-09-22 · Ch6 Section 3/5 Integration: Daemon Bridge and Pacing Repair
 
 **Approved and applied.** Hostile review of the Section 3 integration identified structural redundancy: "The One You Are Holding" subsection was prematurely announcing the myth-busting lesson that belongs in Section 5, after the daemon concept has been properly prepared.
