@@ -173,13 +173,13 @@ The difference is not tone. The Diplomat's altitude gets it wrong here most ofte
 
 ### The Daemon That Makes the Myth Feel Like Integrity
 
-Before you encounter the myth that will shape your whole chapter, you need to understand the internal logic that makes this particular myth feel necessary rather than what it actually costs.
+Before you encounter the myth that will shape your whole chapter, you need to understand the internal logic that makes this particular myth feel necessary rather than what it actually costs. What follows is a shadowy subject. To look at it directly will dismantle a lot of what conventional allyship wisdom calls for.
 
-When allyship runs on a ledger, its legitimacy comes from your own injury. The consequence is specific and terrible: you cannot act from surplus anymore. You can only act from wound. The person you came to stand beside stops being someone you stand beside and becomes, structurally and not intentionally, a claimant against the same fund. Two people cannot both be the one who has paid most in a field where having paid most confers the right to speak. Cost denominates standing as it accumulates, and nobody stops it.
+When you run allyship on a ledger—when your legitimacy comes from what you have absorbed—you can only act if you are hurting. The moment the other person hurts too, you are competing for the same pool of attention. Two people cannot both be the one who suffered most. One of you has to be hungrier, more broken, more worth feeding. So you both starve to prove it. You refuse help to prove you are noble. You absorb more to prove you have paid more. The one who disappears most convincingly wins the right to be seen.
 
-The myth arrives from this mechanism. When your legitimacy comes from injury you carried, then causing harm disqualifies you outright. It erases your ledger. So you cannot afford for yourself to have caused harm, because any finding of impact threatens your standing. A part of you that cannot survive the audit will refuse to run it.
+The myth *allyship means never causing harm* sounds like integrity precisely because it offers a way to stop racing. If you caused harm, you broke your proof. You are not the innocent one. You do not deserve the attention. So the part of you that keeps score will not run the audit. It cannot afford to find out what you cost someone else, because that finding costs you the only standing you have.
 
-The myth therefore sounds not like a rule to fight but like a necessary protection.
+To question the myth feels like asking someone to stop proving they are worth feeding.
 
 ---
 
