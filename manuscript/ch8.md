@@ -198,6 +198,22 @@ Without that question, help becomes interference. Diagnosis becomes lecturing. P
 
 ---
 
+### The Daemon That Makes Self-Repair Feel Like Integrity
+
+You met the Damaged Self deep in the Forest, seventh in line, closest to the center. The Protector decides whether you go in at all. The Controller decides how you're allowed to behave once you're inside. The Skeptic decides whether what you're reacting to was ever real. The Fixer/Healer decides whether what is in front of you holds up well enough to be given yourself to. The Victim decides what your having paid entitles you to. The Damaged Self decides something none of them touch: whether you are built correctly for any of this.
+
+At its best, this part of you registers difference accurately. Something about how you process runs off-standard. It does for a lot of people, and at this altitude almost always, because panoramic vision is not the common configuration. A part of you that can hold *I am running differently from the people around me* without panic does real work. It keeps you from expecting your own experience to be universal, the single most useful correction available to anyone who sees more than the people they're sitting with.
+
+Registering the difference shows the gift working. The distortion turns what the reading sees into a verdict: *I process this differently* becomes *I process this wrong.* And the conversion hides inside humility. Everything the Damaged Self says sounds like the opposite of arrogance. *Normal people don't have to carry this much. I should be able to turn it off. Something in me is miscalibrated.* You will not catch this by listening for grandiosity. It doesn't sound like grandiosity. It sounds like the most self-aware voice in the vicinity.
+
+Once the reading becomes a defect, the remit widens on its own, in a direction nothing else in the Forest can reach. Never use a defective instrument. Repair it first. When the Damaged Self hears a question about what you should do, it answers about what needs fixing in you, always upstream of what needed doing.
+
+This daemon stands where it stands for a reason, in a book about allyship. Allyship run by a Damaged Self stays permanently in preparation. One more wound always waits to be worked through before you're clean enough to be useful. Meanwhile the person you meant to stand beside waits on a repair schedule nobody showed them and nobody lets them influence. That's the structural cost, and it doesn't require any bad intent to produce. It requires only the belief that you're the part of the system that isn't working yet.
+
+The chapter's myth lives here: that allyship runs on having the right framework. The Damaged Self plays the daemon that makes framework-collection feel like healing. If the instrument is broken, a better map becomes the fix. So you get another one, then another. Each map is good and explains more than the last, yet the accumulation never becomes knowledge: it stays a prosthetic for a defect that ran as a difference the whole time. The bookshelf shows the symptom. The bookshelf looks exactly like diligence.
+
+---
+
 <!-- SECTION 3 -->
 ## What Panoramic Vision Actually Is (And Why It's Not What You've Been Told)
 
@@ -516,8 +532,7 @@ Return has four moves inside it. Run them in order the first several times. Afte
 ## The Damaged Self, Up Close
 ### *The Part That Turned a Difference Into a Defect*
 
-I spent four years writing a book about not making yourself the load-bearing wall, from inside the load-bearing wall. The irony was available to me the whole time. I looked right at it and kept going.
-
+You met this daemon introduced earlier in this chapter: it makes the myth *allyship runs on having the right framework* feel like integrity rather than what it costs. A part of you that cannot survive the audit will refuse to run it.
 
 <!-- MARGINALIA -->
 > *I ask every student to draw the system and then name whose face disappeared from the diagram.*
@@ -532,20 +547,7 @@ I spent four years writing a book about not making yourself the load-bearing wal
 > Irix Vale, School of the Pattern
 <!-- /MARGINALIA -->
 
-
-You met the Damaged Self deep in the Forest, seventh in line, closest to the center. The Protector decides whether you go in at all. The Controller decides how you're allowed to behave once you're inside. The Skeptic decides whether what you're reacting to was ever real. The Fixer/Healer decides whether what is in front of you holds up well enough to be given yourself to. The Victim decides what your having paid entitles you to. The Damaged Self decides something none of them touch: whether you are built correctly for any of this.
-
-At its best, this part of you registers difference accurately. Something about how you process runs off-standard. It does for a lot of people, and at this altitude almost always, because panoramic vision is not the common configuration. A part of you that can hold *I am running differently from the people around me* without panic does real work. It keeps you from expecting your own experience to be universal, the single most useful correction available to anyone who sees more than the people they're sitting with.
-
-Registering the difference shows the gift working. The distortion arrives in what it does with the reading.
-
-It converts difference into defect. Not *I process this differently* but *I process this wrong.* And the conversion is nearly invisible, because it arrives wearing humility. Everything the Damaged Self says sounds like the opposite of arrogance. *Normal people don't have to carry this much. I should be able to turn it off. Something in me is miscalibrated.* You will not catch this by listening for grandiosity. It doesn't sound like grandiosity. It sounds like the most self-aware voice in the vicinity.
-
-Once difference is defect, the remit widens on its own, in a direction nothing else in the Forest can reach. A defective instrument does not get used. It gets repaired first. So the Damaged Self hears a question about what you should do and answers about what needs fixing in you, always upstream of what needed doing.
-
-This daemon stands where it stands for a reason, in a book about allyship. Allyship run by a Damaged Self stays permanently in preparation. One more wound always waits to be worked through before you're clean enough to be useful. Meanwhile the person you meant to stand beside waits on a repair schedule nobody showed them and nobody lets them influence. That's the structural cost, and it doesn't require any bad intent to produce. It requires only the belief that you're the part of the system that isn't working yet.
-
-The chapter's myth lives here: that allyship runs on having the right framework. The Damaged Self plays the daemon that makes framework-collection feel like healing. If the instrument is broken, a better map becomes the fix. So you get another one, then another. Each map is good and explains more than the last, yet the accumulation never becomes knowledge: it stays a prosthetic for a defect that ran as a difference the whole time. The bookshelf shows the symptom. The bookshelf looks exactly like diligence.
+I spent four years writing a book about not making yourself the load-bearing wall, from inside the load-bearing wall. The irony was available to me the whole time. I looked right at it and kept going.
 
 The cost comes out of precisely what this chapter cannot afford. You lose the capacity to be developed by anyone. When somebody offers you something, a correction, a piece of feedback, an opening, it doesn't get received as input, because input is for functioning systems. It gets received as further evidence, filed against the defect, and answered with a map. The Face whose superpower includes coaching is, in shadow, the least coachable Face in the book.
 
