@@ -65,7 +65,7 @@
 <!-- SECTION 1 -->
 ## Why the Diplomat Left the Village (And What the Village Lost)
 
-You recognize a woman in the village. She is always there. She shows up to every gathering, every working bee, every moment of conflict, and every moment of celebration. Her presence reads as devotion, except it isn't, because devotion implies a choice she has forgotten how to make. She stays because she has forgotten that she could leave.
+You recognize a woman in the village. She is always there. She shows up to every gathering, every working bee, every moment of conflict, and every moment of celebration. Her presence looks like devotion, except it isn't, because devotion requires a choice she has forgotten how to make. She stays because she has forgotten that she could leave.
 
 One day she stops showing up. The villagers barely notice at first. Then slowly, in her absence, something becomes visible: the shape of what she held together without ever naming that she held it. Ruptures she repaired before anyone saw them. Tensions that never escalated because she stood in the middle of them. The villagers discover they have lost something but cannot name the loss, because she never told them what her presence cost. She never gave them the chance to treat it as precious.
 
@@ -81,7 +81,7 @@ The five stages of the Diplomat's work run as a journey in sequence rather than 
 
 Each stage earns the next. Bridge without Translate is noise. Translate without Hold earns no one's trust. Hold without Repair leaves a wound to fester. Repair without Negotiate is generosity without closure. Generosity without closure stops being a gift; it becomes a slow form of self-destruction that everyone in the field learns to take for granted.
 
-The Diplomat arrived into a village that had everything except the willingness to be in one conversation. It had lines from the Challenger and continuity from the Regent, and from the Architect it had designs that assumed a goodwill nobody had. Each camp could state its own position perfectly and could not hear the other camp state theirs.
+The Diplomat arrived into a village that had everything except the willingness to be in one conversation. It held lines from the Challenger. It held continuity from the Regent. It held designs from the Architect that assumed a goodwill nobody carried. Each camp could state its own position perfectly and could not hear the other camp state theirs.
 
 The Diplomat went between them. He stood in the middle of arguments that had been running for years, while letting both sides continue to argue without intervening. Rendered one camp's language into the other's without flattening either. Went back after ruptures rather than letting the injured show themselves out. For a long stretch the village held together better than it had since the Shaman. The villagers said so out loud.
 
@@ -89,7 +89,7 @@ Then the Diplomat did the other half of the work. In one hard conversation, the 
 
 **The village heard a threat.**
 
-Somebody who had held the middle for free was now naming a price. A village that has been receiving something for free will read the first invoice as a betrayal. Nobody argued with the terms. They stopped bringing the Diplomat the conversations where terms would come up. The warmth stayed exactly where it was. The invitations to the hard ones thinned out and then stopped.
+Somebody who had held the middle for free was now naming a price. A village that has been receiving something for free will read the first invoice as a betrayal. Nobody contested the terms out loud. They stopped bringing the Diplomat the conversations where terms belonged. The warmth stayed exactly where it was. The invitations to the hard ones thinned out and then stopped.
 
 The Diplomat left.
 
@@ -104,13 +104,13 @@ The villagers never meant for that to happen. They never said *go.* They just st
 
 After the Diplomat left, the village still needed people to stay. It had stopped knowing how to say what staying costs.
 
-Newcomers arrived and had to audition: they came bearing gifts, because coming empty-handed had stopped working. Camps that wanted the same outcome got louder in their own languages instead of learning each other's. The hard conversations moved into corridors and private messages, where they cost nothing and changed nothing. Nobody went back after a rupture. When the injured stopped coming, the village treated it as natural loss. They did not name it as consequence. They did not say: you left because we hurt you. Meetings ended in warmth and vagueness. Everyone accommodated, nobody closed the question, and they scheduled another session to do it all again.
+Newcomers arrived and had to audition: they came bearing gifts, because coming empty-handed had stopped working. Camps that wanted the same outcome got louder in their own languages instead of learning each other's. The hard conversations moved into corridors and private messages, where nothing they cost mattered and nothing they produced remained. Nobody went back after a rupture. When people stopped coming after being hurt, the village treated it as natural loss. They did not name it as what it was: consequence. They did not say: you left because we hurt you. Meetings ended in warmth and vagueness. Everyone accommodated, nobody closed the question, and they scheduled another session to do it all again.
 
-The village chose harmony over honesty. It had learned lines from the Challenger and endurance from the Regent. Neither had taught it how to keep people. So the village reached for comfort. Comfort moves faster than any difficult conversation. So the village picked harmony over honesty, inclusion over closure, and hearing everyone over closing the question.
+The village chose harmony over honesty. The Challenger had taught it to hold a line. The Regent had taught it to endure. Neither had taught it how to keep people when staying cost something. So the village reached for comfort. Comfort moves faster than any difficult conversation. So the village picked harmony over honesty, inclusion over closure, and hearing everyone over closing the question.
 
-Harmony worked. The village argued less and reported higher satisfaction whenever anyone asked. Underneath it, the people holding the village together carried it without saying so, absorbed what it cost them, and left without warning, which the village read as a run of unrelated departures. The ones who stayed kept score. Keep track long enough, and what you're tracking becomes what you believe.
+By this measure harmony worked. The village argued less and reported higher satisfaction whenever asked. But underneath, the people carrying this village absorbed what it cost and then left without warning—departures the village read as separate, unrelated events. The ones who stayed kept score. Keep track long enough, and what you're tracking becomes what you believe.
 
-Look at what the village kept and what it lost. It kept every ounce of care. It lost impact. A village that cares but changes nothing keeps everybody comfortable and nothing changed.
+Look at what the village kept and what it lost. It kept every ounce of care. It lost real change. A village that cares but changes nothing keeps everybody comfortable and fails the people it claims to protect.
 
 So the village stopped believing that staying could carry conditions. The village made presence unconditional by refusing to name what it cost. That looks like love. It functions as a soft protection racket: keep giving everything or lose your standing here. Nobody noticed. The village called the pattern kindness. The pattern emptied it one person at a time.
 
@@ -119,7 +119,7 @@ So the village stopped believing that staying could carry conditions. The villag
 <!-- SECTION 3 -->
 ## What Honest Terms Actually Are (And Why It's Not What You've Been Told)
 
-The Diplomat lives at the relational altitude of human development: pluralistic, relational, oriented toward inclusion. Where the Regent operates through tradition and inherited structure, and where the Challenger operates through decisive will and confrontation, the Diplomat operates through the relational field. What matters lies not in what any single person thinks or wants but in what becomes possible between people when someone holds the conditions rightly.
+The Diplomat lives at the relational altitude of human development: pluralistic, relational, oriented toward inclusion. The Regent operates through tradition and inherited structure. The Challenger operates through decisive will and confrontation. The Diplomat operates through the relational field. What matters lies not in what any single person thinks or wants but in what becomes possible between people when someone holds the conditions rightly.
 
 People commonly misunderstand the Diplomat's stance. Niceness, conflict-avoidance dressed in the language of harmony, and the absence of judgment in the service of false peace all get mistaken for it. The Diplomat's altitude lets a person hold multiple valid perspectives simultaneously. They can be a partisan and still make space, can stand for something and still listen, can name their own position and still honor the legitimacy of a position they disagree with. The Diplomat's working capacity is honest multiplicity: holding the field without requiring it to resolve into one answer, holding the tension between positions without rushing to collapse it. That capacity supplies the raw material. What it is *for* arrives with the Victim, later in this chapter.
 
@@ -137,7 +137,7 @@ The Diplomat operates through five modes:
 
 You have already met a version of "terms," and that version forces the School of the Bridge to define the word before it can use it.
 
-The villagers harden terms into ultimatums. Terms are what someone says when they have decided to leave and want you to know it is your fault. Terms come with a deadline attached and a threat underneath. The person with the upper hand produces them at the end of a negotiation that was never a negotiation. That version of the word holds real (people do this). It explains why a certain kind of capable, relationally fluent person will spend an entire career avoiding honoring a single term of her own. She has seen what terms look like in the hands of someone playing a power game. She has decided not to be that.
+The villagers harden terms into ultimatums. Terms are what someone says when they have decided to leave and want you to know it is your fault. Terms come with a deadline attached and a threat underneath. The person with the upper hand produces them at the end of a negotiation that was never a negotiation. That version of the word holds real (people do this). It explains why a certain kind of capable, relationally fluent person will spend an entire career avoiding her own terms. She has watched what happens when terms live in the hands of someone playing a power game. She has decided not to be that person.
 
 She names a specific misuse accurately. That accuracy explains why nobody has talked her out of it. When she generalizes from this one case, she learns: if bad terms exist, all terms are threats. She stops trusting any agreement.
 
@@ -155,7 +155,7 @@ She names a specific misuse accurately. That accuracy explains why nobody has ta
 > *The terms I wrote at that table have held eleven years. Nobody has mentioned them. I notice that I have written that down. Whether wanting the sentence is a defect in me or a condition of the work is the open question here, and I am the wrong person to settle it.*
 <!-- /HANDBOOK -->
 
-Honest terms work as the opposite instrument. **A term states what this field must hold for your staying to remain real, offered as information, once, to the people who are then free to answer.** It states a fact about the arrangement rather than a demand or a condition of continued affection, and arrives while anyone still has time to do something with it.
+Honest terms work as the opposite instrument. **A term states what this field must hold for your staying to remain real, offered as information, once, to the people who are then free to answer.** It names a fact about the arrangement rather than stating a demand or conditioning continued affection. It arrives while anyone still has time to do something with it.
 
 The difference is not tone. The Diplomat's altitude gets it wrong here most often, because this altitude excels at tone. An ultimatum said warmly is still an ultimatum. An honest term said flatly is still an honest term. The difference is structural: an ultimatum removes the other party's freedom to answer, while an honest term gives the answer back to them. That answer is only free when refusal will not cost them safety, livelihood, or standing. A clean sentence cannot make an unequal negotiation equal. You cannot decline something you were never told about. People who do not know what your staying requires have never had the chance to choose it.
 
@@ -172,13 +172,13 @@ The difference is not tone. The Diplomat's altitude gets it wrong here most ofte
 
 ### The Daemon That Makes the Myth Feel Like Integrity
 
-Before you encounter the myth that will shape your whole chapter, you need to understand the internal logic that makes this particular myth feel necessary rather than what it actually costs. What follows is a shadowy subject. To look at it directly will dismantle a lot of what conventional allyship wisdom calls for.
+Before you encounter the myth that will shape your whole chapter, you need to understand why it feels necessary rather than what it costs. What follows is hard to look at. Looking at it directly dismantles a lot of what conventional allyship wisdom calls for.
 
-If you've built your legitimacy on what you've survived by proving how much you've absorbed, you can only act when you're hurting. The moment the other person hurts too, you're competing for the same pool of attention. Two people cannot both be the one who suffered most. One of you has to be hungrier, more broken, more worth feeding. So you both starve to prove it. You refuse help to prove you are noble. You absorb more to prove you have paid more. The one who disappears most convincingly wins the right to be seen.
+If you've built your legitimacy on absorbing what costs others, you can only speak when you're hurting. The moment the other person hurts too, you're competing for the same pool of attention. Two people cannot both be the one who suffered most. One of you has to be hungrier, more broken, more worth feeding. So you both starve to prove it. You refuse help to prove you are noble. You absorb more to prove you have paid more. The one who disappears most convincingly wins the right to be seen.
 
-The myth *allyship means never causing harm* sounds like integrity precisely because it offers a way to stop racing. If you caused harm, you broke your proof. You are not the innocent one. You do not deserve the attention. So the part of you that keeps score will not run the audit. It cannot afford to find out what you cost someone else, because that finding costs you the only standing you have.
+The myth *allyship means never causing harm* sounds like integrity precisely because it offers a way to stop racing. If you caused harm, your proof is broken. You are not the innocent one. You do not deserve the attention. So the part of you that keeps score will not run the audit. It cannot afford to find out what you cost someone else, because that finding costs you the only standing you have.
 
-To question the myth feels like asking someone to stop proving they are worth feeding.
+Questioning the myth feels like asking someone to stop proving they are worth feeding.
 
 ---
 
@@ -186,7 +186,7 @@ A field that was never told produces the sentence the School of the Bridge exist
 
 **The myth: allyship means never causing harm.**
 
-The myth sounds like a floor, a minimum standard. It functions as a ceiling, a maximum permission. If you can only remain legitimate by causing no harm, you cannot name what staying requires, because a mishandled term becomes proof you failed. So the terms stay unnamed. Her presence carries no weight. The student stays (pleasant, reliable, slowly becoming furniture) and naively calls the whole arrangement care.
+The myth sounds like a floor, a minimum standard. It functions as a ceiling, a maximum permission. If you can only remain legitimate by causing no harm, you cannot name what staying requires, because a mishandled term becomes proof you failed. So the terms stay unnamed. She becomes weightless. The student stays (pleasant, reliable, slowly becoming furniture) and calls it care.
 
 Every move the School of the Bridge teaches runs downstream of that myth. The School of the Bridge replaces it with something a person can stand on, which is not *I have never caused harm* but *I can be told what I cost and stay in the conversation afterward.*
 
@@ -207,17 +207,17 @@ Every move the School of the Bridge teaches runs downstream of that myth. The Sc
 
 You met the Polarity Map at the School of the Body. Here is the Diplomat's pair.
 
-A polarity is not a problem to solve. It has two poles, both of them right. The charge comes not from one side being wrong but from getting stuck on one so long that the other stops existing for you.
+A polarity is not a problem to solve. It has two poles, both of them right. The charge comes from getting stuck on one pole long enough that the other disappears from your range.
 
 The Diplomat's pair: care for the relationship versus impact on the situation.
 
-**Care** means protecting the connection itself: the trust, the willingness of people to stay in contact with each other, the conditions under which anyone can say anything difficult at all. Care maintains the only medium through which anything relational travels. Sentiment protects how the connection feels; care protects whether it still works. Without the care, the field carries nothing.
+**Care** means protecting the connection itself: the trust, the willingness of people to stay in contact with each other, the conditions under which anyone can say anything difficult at all. Care maintains the only medium anything relational can travel through. Sentiment protects how the connection feels; care protects whether it works. Without care, the field carries nothing.
 
 **Impact** means the actual change in the world outside the relationship. What moves, what stops, who is materially better off after the conversation than before it. Impact means the willingness to spend a relationship on something rather than preserve it as an end in itself. Brutality spends the relationship without pricing it. Impact names the price first and spends it anyway.
 
-Both poles have failure states that do not look alike. Care without impact is attendance: warm, dependable, and doing nothing. Everyone likes you. Nothing changes. Impact without care imports the Challenger's altitude into a conversation that needed this one: accurate, and said in a way that ends the possibility of saying anything after it.
+Both poles have failure states that do not look alike. Care without impact is attendance: warm, dependable, and doing nothing. Everyone likes you. Nothing changes. Impact without care brings the Challenger's altitude into a conversation that needed this one: accurate, and said in a way that closes the door against anything coming after.
 
-One part of this belongs specifically to this reader: the part that explains why the axis reads as hard to see rather than hard to accept. You are fluent in one pole and suspicious of the other. The Care end has a vocabulary (holding, tending, centering, making space) and the Impact end, at this altitude, mostly has warnings attached to it. So the drift runs one direction and never announces itself. Nobody drifts toward Care in a single dramatic act of avoidance. It happens one reasonable call at a time, each call defensible.
+One part of this belongs specifically to this reader: why the axis reads as hard to see rather than hard to accept. You are fluent in one pole and suspicious of the other. The Care end has a vocabulary (holding, tending, centering, making space). The Impact end, at this altitude, mostly carries warnings. The drift runs one direction and never announces itself. Nobody drifts toward Care in a single dramatic act. It happens one reasonable call at a time, each call defensible.
 
 
 *Now the chapter resumes.*
@@ -231,13 +231,13 @@ One part of this belongs specifically to this reader: the part that explains why
 
 ---
 
-The native material at the Diplomat's altitude is *relationship*. You carry emotion, will, loyalty, and logic alone. Relationship needs a second person before it exists at all.
+The native material at the Diplomat's altitude is *relationship*. You carry emotion, will, loyalty, and logic on your own. Relationship requires a second person before it can exist.
 
 ---
 
 ### Draw the Axis — Care ↔ Impact
 
-The draw is relational rather than solo. Pick a live field with actual people making it, because this axis only shows its position when something is at stake between you and somebody else.
+The draw is relational. Pick a live field with actual people in it, because this axis only shows its position when something is at stake between you and somebody else.
 
 **Try this now.**
 
@@ -251,8 +251,7 @@ The draw is relational rather than solo. Pick a live field with actual people ma
    Mark where you have actually been sitting. Not where you'd like to be.
 
 3. Write one integrated sentence that holds both poles at once:
-   *"I protect __________ because it makes __________ possible,
-   though what I have not yet said is __________."*
+   *"I protect __________ because it makes __________ possible. What I have not yet said is __________."*
 
 4. Sit 30 seconds. Notice: heaviness (Care stuck) or heat (Impact stuck)
    or ground (integrated).
@@ -283,7 +282,7 @@ The five stages track how the work moves. The five modes describe who you are wh
 
 ### Mode 1 — Bridge-Builder
 
-The Bridge-Builder opens the Diplomat's work: the mode through which contact happens and curiosity replaces judgment. It carries the Diplomat's most fundamental skill, the one most easily distorted.
+The Bridge-Builder opens the Diplomat's work: the mode through which contact happens and curiosity replaces judgment. The Bridge-Builder carries the Diplomat's most fundamental skill, the one most easily distorted.
 
 Here is what its absence looks like: a person who makes contact only when they want something. Every relational field they enter becomes a transaction (what can I get, what is this interaction worth to me), so everyone they meet becomes a means to an end.
 
@@ -293,13 +292,13 @@ Here is what its distortion looks like: a person who is always reaching out, alw
 
 The core Dissatisfaction under Bridge-Builder is **anxiety**: the low hum of "will I be accepted, will they want me here, am I intruding." The nervous system fires before the bridge exists.
 
-The alchemy: you feel the anxiety fully and alchemize it into real curiosity about the field. *What is actually here? Who is actually present? What do I actually want to know about this person, not what do I need them to think of me?*
+The alchemy: you feel the anxiety fully and turn it into real curiosity about the field. *What is actually here? Who is actually present? What do I actually want to know about this person, not what do I need them to think of me?*
 
-The anxiety, fully felt and recognized as history rather than prophecy, converts into the clean attention that makes real bridging possible. You travel the length of one channel, from the fear end of Metal to the curiosity at its far end.
+The anxiety becomes history rather than prophecy, and converts into the clean attention that makes real bridging possible. You travel the length of one channel, from the fear end of Metal to the curiosity at its far end.
 
 **Alchemy 2 — Stage-Fright → Authentic Presence**
 
-Under the first alchemy sits a deeper Dissatisfaction: **stage-fright**, the fear of being seen without a script. The distorted Bridge-Builder has an easy smile and a practiced warmth, technically correct and experientially hollow. They are staging connection, not generating it.
+Under the first alchemy sits a deeper Dissatisfaction: **stage-fright**, the fear of being seen without a script. The distorted Bridge-Builder has an easy smile and a practiced warmth, technically correct and experientially hollow. They perform connection without generating it.
 
 The alchemy: you feel the panic of being seen without your material, and you alchemize it into the willingness to be actually present. *I don't need to have a plan. I can just be here and let that be enough.*
 
@@ -309,7 +308,7 @@ The stage-fright, acknowledged as the shame of being a learner instead of an exp
 
 When the pattern of past exclusion fires in you (they won't want me here, I'm outside the circle), you move the charge toward generous assumption: *What if they actually want me here? What if the field is more open than my pattern expects?*
 
-Call it optimism if you want. The discipline extends to the present the same hypothesis you already extend to strangers on the street.
+The discipline extends to the present the same hypothesis you already extend to strangers on the street.
 
 **Control 1 — Untracked Depletion Pattern**
 
@@ -335,7 +334,7 @@ Here is what its distortion looks like: a person who abandons their own voice en
 
 **Alchemy 1 — Arrogant Distance → Generous Hearing**
 
-The Dissatisfaction here is **intellectual superiority**, the subtle, seductive belief that you understand both sides better than they understand themselves. The Translator's occupational hazard: the more fluent you become in multiple frameworks, the more you start to believe your translation delivers the truth rather than an interpretation.
+The Dissatisfaction here is **intellectual superiority**: you come to believe you understand both sides better than they understand themselves. The Translator's occupational hazard: the more fluent you become in multiple frameworks, the more your translation starts to feel like truth rather than interpretation.
 
 <!-- MARGINALIA -->
 > *Elian's fix is humility, and humility is the right fix for the ordinary case. The harder one
@@ -363,15 +362,15 @@ The alchemy moves through **humility into real curiosity**: you let the arrogant
 
 The Translator carries a secondary Dissatisfaction: the guilt of partiality. You hold a position, and you translate from it. Is that translation or persuasion? Where does translating end and advocacy begin?
 
-This guilt is real, yet also a distortion. **Partiality is not the same as betrayal.** A Translator who cannot tolerate their own partiality ends in a false neutrality that serves no one, least of all the field.
+The guilt is real. The distortion is what you do with it. **Partiality is not the same as betrayal.** A Translator who cannot tolerate their own partiality ends in a false neutrality that serves no one, least of all the field.
 
 The alchemy: *I stop apologizing for holding a position I am translating from.* I let the guilt transmute into the clarity of legitimate partiality. I am a partisan who can also really hear.
 
 **From Understanding to Transmission**
 
-**Water → Fire: Conviction translated into urgency.** When a camp holds its meaning deeply and expresses it passively (resigned, beaten down, without heat), the sadness of "we have been hurt" becomes the fire of "we will not accept this again." The translation does not change the meaning; it moves the meaning into the register where it can do work.
+**Water → Fire: Resignation translated into refusal.** When a camp holds its meaning deeply but expresses it passively (resigned, beaten down, without heat), the sadness of "we have been hurt" becomes the fire of "we will not accept this again." The translation does not change the meaning; it moves the meaning into the register where it can do work.
 
-**Fire → Water: Intensity translated into depth.** When a camp holds its meaning hot but shallow (righteous anger that has not yet understood its own depth), the anger becomes sadness. The demand becomes an immovable request that no longer needs volume. The translation takes the heat and turns it into something that can sit in a field for a long time without burning out.
+**Fire → Water: Heat translated into ground.** When a camp holds its meaning hot but shallow (righteous anger that has not yet understood its own depth), the anger becomes sadness. The demand becomes an immovable request that no longer needs volume. The translation takes the heat and turns it into something that can sit in a field for a long time.
 
 
 **Control — Intellectual Superiority Pattern**
@@ -387,27 +386,27 @@ The structural pattern here is **intellectual superiority** in behavior: "I see 
 
 ### Mode 3 — Field-Holder
 
-The Field-Holder demands more sheer presence than any other Diplomat mode: keeping enough safety that difficult conversation remains possible when charge runs high and everyone present wants to fight, flee, or freeze.
+The Field-Holder requires more sheer presence than any other Diplomat mode: keeping enough safety that difficult conversation remains possible when charge runs high and everyone present wants to fight, flee, or freeze.
 
 Here is what its absence looks like: a person who can hold a conversation only when it is already safe. The moment something difficult happens, they either escalate into the conflict or withdraw until there is no field left. They can hold the good conditions; they cannot hold the bad ones.
 
-Here is what its distortion looks like: a performative calm, actually a freeze response. They sit in the middle of chaos and perform peace, believing that their equanimity will regulate the field. Real Field-Holding contains the charge rather than removing it. Whoever brought the charge keeps it. The Field-Holder does not take it off them or talk anyone down. They give it a shape. Stand is subtraction; Hold is addition: it costs and does not end when the silence does. They say: *this charge has somewhere to go. It can move through here without destroying anything.*
+Here is what its distortion looks like: a performative calm, actually a freeze response. They sit in the middle of chaos and perform peace, believing that their equanimity will regulate the field. Real Field-Holding contains the charge rather than removing it. Whoever brought the charge keeps it. The Field-Holder does not take it off them or talk anyone down. They give it shape. Stand removes something. Hold adds something: it costs and does not end when the silence does. They say: *this charge has somewhere to go. It can move through here without destroying anything.*
 
 **Alchemy 1 — Inclusion-Performance → Genuine Inclusion**
 
-The Dissatisfaction here is **inclusion-performance**. You open the retro by telling everyone no topic is off the table, and you mean it. Then the hour passes. Everyone reports status while what actually happened last sprint never comes up. You ran a good meeting and never got near the field.
+The Dissatisfaction here is **inclusion-performance**. You open the retrospective by saying no topic is off the table, and you mean it. Then the hour passes. Everyone reports status while what actually happened last sprint stays buried. You ran a good meeting and never got near the field.
 
 The statement took nine days and four rounds, because the group could not agree on how to say that it was listening.
 
-The field is what happens between people, made by everyone there. A physical field holds itself. You have to tend this one, which is why Hold costs more and why you cannot make this move alone.
+The field is what happens between people, made by everyone there. A physical field holds itself. This one requires tending, which is why Hold costs more and why you cannot make this move alone.
 
 The alchemy: *I stop announcing that the field is open and find out whether anyone will use it.* Anxiety shows up while you do this, reading the situation correctly, because a field with somebody's real stake in it costs more to hold than a calm one. Treat it as the weather you work in. What you are watching for is growth. You know it arrived when somebody says what they had decided in the parking lot not to say. Their sentence is between everyone now, a sentence you could not have said for them. The Wood channel completes here. Bliss is what it feels like to hold a field that grew what you did not plant.
 
 **Alchemy 2 — Hothouse Safety → Hardy Field**
 
-The Field-Holder's secondary Dissatisfaction is **hothouse safety**, a field you keep so comfortable that nobody says the sentence that would cost them anything. It looks like health to everyone keeping it that way. The family dinner stays warm, the standup stays pleasant, the two of you stay kind with each other, the community meeting ends on time. Everyone leaves carrying what they walked in with. A field protected from charge stays small, and the people making it learn to bring less of themselves to match.
+The Field-Holder's secondary Dissatisfaction is **hothouse safety**, a field you keep so comfortable that nobody says the sentence that would cost them anything. It looks like health to everyone keeping it that way. The family dinner stays warm, the standup stays pleasant, the two of you stay kind with each other, the community meeting ends on time. Everyone leaves carrying what they brought with them. A field protected from charge stays small, and the people making it learn to bring less of themselves to match.
 
-The alchemy: *I stop protecting the field and start building one that can take weather.* When you say the hard sentence and stay, the field turns out to hold. Now experience has taught them what words could not: the field survives contact. Each round of that raises what it carries next time. Hardy comes from gardening. It has never described a plant somebody kept warm.
+The alchemy: *I stop protecting the field and start building one that can take weather.* When you say the hard sentence and stay, the field turns out to hold. Now experience has taught them what words could not: the field survives contact. Each round raises what it carries next time. Hardiness comes from stress. It has never described a plant somebody kept warm.
 
 **From Presence to Structure**
 
@@ -417,11 +416,11 @@ The alchemy: *I stop protecting the field and start building one that can take w
 
 **Control — Presence Collapse Pattern**
 
-The structural pattern here is **presence collapse**: withdrawing the moment somebody charges the field. The Control move redirects it into structure:
+The structural pattern is **presence collapse**: you withdraw the moment somebody charges the field. The Control move redirects it into structure:
 
-**The structure of the Precedent of Presence:** You establish, in advance, a commitment to staying present when somebody charges it. You decided on it; nothing obliged you. The commitment builds the structure. You say so in advance: *I don't leave when it gets hard. I practice that rather than declare it.* The collapse pattern dissolves into a personal precedent the people around you can depend on.
+**The structure of the Precedent of Presence:** You establish, in advance, a commitment to staying present when somebody charges the field. You decided on it; nothing obliged you. The commitment builds the structure. You say so in advance: *I don't leave when it gets hard. I practice that rather than declare it.* The collapse pattern dissolves into a personal precedent the people around you can depend on.
 
-Staying costs you real capacity. Name that cost when you hold, because unnamed depletion eventually becomes disappearance.
+Staying present costs real capacity. Name that cost when you hold, because unnamed depletion eventually becomes disappearance.
 
 *The Field-Holder exists for one job: the willingness to stay when staying is difficult. Not to fix the field, not to calm it down. To be the presence that lets the people making it move through what they need to move through.*
 
@@ -429,9 +428,9 @@ Staying costs you real capacity. Name that cost when you hold, because unnamed d
 
 ### Mode 4 — Repairer
 
-The Repairer runs the Diplomat's deepest mode: the work of healing a rupture without pretending the break didn't happen. Unlike the Field-Holder who maintains safety, the Repairer rebuilds it after it has been lost.
+The Repairer runs the Diplomat's deepest mode: the work of healing a rupture without pretending the break didn't happen. The Field-Holder maintains safety. The Repairer rebuilds it after it has been lost.
 
-Here is what its absence looks like: a relationship that cannot survive its own ruptures, where every breach becomes permanent and every conflict leaves a scar that never heals. Call it relational brittleness. People stay together and accumulate damage they never recover from, until one day something breaks that cannot be repaired.
+Here is what its absence looks like: a relationship that cannot survive its own ruptures, where every breach becomes permanent and every conflict leaves a scar that never heals. The relationship becomes brittle. People stay together and accumulate damage they never recover from, until one day something breaks that cannot be repaired.
 
 Here is what its distortion looks like: they rush to forgive before the repair is done. They say *it's fine, let's move on, I forgive you*, and they abandon the relationship to its damage. The wound closes over with the infection still inside.
 
@@ -443,7 +442,7 @@ The alchemy: *I let the betrayal teach me what trustworthy actually means.* The 
 
 **Alchemy 2 — Performance Forgiveness → Genuine Repair**
 
-The Repairer's secondary Dissatisfaction is **performance forgiveness**, the rush to be done with the wound so the relationship can continue: forgive before the wound has been understood, skip the repair in the service of keeping the peace.
+The Repairer's secondary Dissatisfaction is **performance forgiveness**: forgive before the wound has been understood, skip the repair in the service of keeping the peace, rush to be done with the wound so the relationship can move forward.
 
 The alchemy: *I stop skipping the wound and start sitting in it.* Real repair requires seeing the damage fully before healing it. The pressure to perform forgiveness transmutes into the willingness to do the slower, harder, more honest work. I do not forgive to keep the peace. I repair to restore the relationship.
 
@@ -467,19 +466,19 @@ The cost here is time. Real repair takes longer than performance repair, and tha
 
 ### Mode 5 — Integrative Negotiator
 
-The Integrative Negotiator closes the Diplomat's sequence, the Fire/Anger application at the Diplomat's altitude. The Challenger's line in the sand and the Regent's decree do different work. Bridge, translate, hold, repair, and then **negotiate**. Heard *and* something moves.
+The Integrative Negotiator closes the Diplomat's sequence: the Fire/Anger application at the Diplomat's altitude. The Challenger draws a line in the sand. The Regent issues a decree. Both do different work. Bridge, translate, hold, repair, and then **negotiate**. Heard *and* something moves.
 
 Here is what its absence looks like: a field that never arrives anywhere. The person who keeps extending conversation because closing feels like conflict. They defer every hard question to the next session. Nothing gets settled. Call it relational molasses: warm, inclusive, and slowly failing the task.
 
 Here is what its distortion looks like: two different failures wearing the same smile.
 
-The first distortion is **endless process**, the Diplomat who has confused hearing with closing. She believes that if everyone feels included, the work is done. She will hold another round of listening because naming what must change feels like picking a fight. The field stays warm. Nothing moves. Resentment accumulates under the harmony like sediment.
+**First: endless process**, the Diplomat who has confused hearing with closing. She believes that if everyone feels included, the work is done. She will hold another round of listening because naming what must change feels like picking a fight. The field stays warm. Nothing moves. Resentment accumulates under the harmony like sediment.
 
 The second distortion is **ultimatum dressed as negotiation**: a threat where integration belonged. *Here's what I need or I'm out* spoken in the tone of honest disclosure, but actually functioning as a threat. The Diplomat who defaults here plays the Challenger's game wearing the Diplomat's clothes, skipping the native work (surfacing interests, finding terms) and importing another altitude into this conversation. It sometimes works. It is not what this mode is for.
 
 **Alchemy 1 — Resentful Peace → Honest Terms**
 
-The Dissatisfaction here is **resentful peace**, the accommodation that says yes while the body says no. You made space without naming what staying there cost you. You kept the field calm by swallowing your stake. Now the calm curdles into bitterness you can't explain, because you never said out loud what you needed the agreement to hold.
+The Dissatisfaction here is **resentful peace**: you say yes while your body says no. You made space without naming what staying there cost. You swallow your stake to keep the field calm. Now the calm becomes bitterness you cannot explain, because you never said what you needed the agreement to hold.
 
 The alchemy: *I stop paying for harmony with my disappearance.* Resentful peace is deferred conflict wearing a polite face. The alchemy moves accommodation into **honest terms**: *here is what this field must hold for my staying to remain real, and for everyone's.* The charge of the swallowed no becomes the heat of a closing that actually names the stakes.
 
@@ -487,7 +486,7 @@ The alchemy: *I stop paying for harmony with my disappearance.* Resentful peace 
 
 **Alchemy 2 — Positions → Interests**
 
-The Integrative Negotiator's secondary Dissatisfaction is **positional stuckness**, camps locked on what they demand. *We need a policy change.* *We need to preserve tradition.* Positions harden. The field polarizes around slogans.
+The Integrative Negotiator's secondary Dissatisfaction is **positional stuckness**: camps locked on what they demand. *We need a policy change.* *We need to preserve tradition.* Positions harden. The field polarizes around slogans. The work stops moving.
 
 The alchemy: *I ask what each position is guarding, not just what it says.* Positions are what people announce. Interests are what they fear losing, what they need to protect, what sacrifice would actually cost them. The alchemy moves tribal loyalty (staying because you belong to a camp) into **chosen loyalty** (staying because the agreement is real and you said yes to it). You negotiate not to win for your side. You negotiate to find terms the whole field can live with, including the terms that let you stay without disappearing.
 
@@ -501,7 +500,7 @@ The alchemy: *I ask what each position is guarding, not just what it says.* Posi
 
 The structural pattern here is **endless process**: one more round, one more check-in, one more chance for everyone to feel heard, as if hearing finished the work instead of merely starting it.
 
-**The structure of the Stake-Surfacing Close:** You work the sequence without skipping: (1) **Protect:** what is each party afraid of losing? Name the interest, not the slogan. (2) **Require:** what must the agreement hold for staying to remain real? Name it for the field, not just for yourself. (3) **Commit:** what are we agreeing to, specifically, before anyone leaves?
+**The structure of the Stake-Surfacing Close:** Run the sequence without skipping: (1) **Protect:** what is each party afraid of losing? Name the interest, not the slogan. (2) **Require:** what must the agreement hold for staying to remain real? Name it for the field, not just for yourself. (3) **Commit:** what are we agreeing to, specifically, before anyone leaves?
 
 Closing demands more courage than extending, which makes it the hard part. The field will push for one more round. The Integrative Negotiator knows when the round has become avoidance.
 
