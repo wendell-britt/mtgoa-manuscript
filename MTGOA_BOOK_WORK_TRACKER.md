@@ -1,7 +1,54 @@
 # Book Work Tracker — MTGOA
 **Created:** 2026-04-14
-**Last Updated:** 2026-09-22
+**Last Updated:** 2026-09-23
 **Status:** All 9 chapters complete — Structural Refinement Phase
+
+---
+
+## Session — 2026-09-23 · Ch8 Sections 4-5: Altitude Framework Rewrite
+
+**Approved and applied.** Replaced "The Five Modes of Sight" section with new altitude-based framework: "The Sage in Practice — What Actually Happens." This represents a fundamental semantic reframing of the Sage's nature and practice.
+
+**Core reframing:** The Sage's practice is not about mastering five modes of sight and managing emotional alchemy, but about understanding an irreducible structural difference—altitude. The Sage stands on a different altitude than the table. Most of what she sees is invisible from the table, not because it's a psychology problem to solve, but because the positions are different. This reframes "being unseen" from failure to recognition of reality.
+
+**What was removed:** Sections 4-5 content (318 lines):
+- "The Five Modes of Sight" (Panoramic Seer, Game-Switcher, Diagnostician, Liberator, Returner) with EA channel alignment and alchemy moves
+- Distortion patterns for each mode
+- Stage Sequence (See → Switch → Serve → Release → Return)
+- Sight Ecology, 3-2-1 practice
+- "The Walk Back" subsection with four return moves
+- "The Damaged Self, Up Close" subsection structure
+
+**What was added:** New altitude-based framework (260 lines):
+1. **What the Sage Can Do** — Establishes altitude as core gift; invisibility as structural, not pathological
+2. **One Move: Recognize Your Own Altitude** — Three versions showing Safe Self distortions (proving/being seen, taking toys on leaving, doubting the gift) vs. Sage's authentic move (recognizing altitude and serving anyway)
+3. **What It Costs** — The structural cost of standing on different altitude: being perceived as separate, unable to explain the difference, sometimes sacrificing own needs for work that matters
+4. **The Damaged Self in This Practice** — Part that cannot survive standing elsewhere; wants vindication from table's altitude; wants to prove reading matters (when it doesn't matter for their work)
+5. **What You Carry Forward** — Two capacities: knowing own altitude, staying when it doesn't work; the move: offering as equal from altitude they may not stand on
+
+**Pedagogical shift:** Moves from mastery teaching (five modes, techniques, practices) to structural understanding (altitude difference is real and cannot be bridged). The Sage does not work to be seen; she works knowing most moves are invisible.
+
+**Editorial status:** 
+- All hard gates passed (gate, diet, no banned words, no sentence-initial And/But)
+- 10 residual minor issues: 7 em-dashes, 10 soft empty head nouns, 4 distant pronouns, 2 labels (all low-priority)
+- Text fully reviewed against mtgoa-review framework
+
+**Result:**
+- Chapter word count: 13,835 → 13,789 (-46 words net)
+- Section 4-5 pedagogical arc: structural difference → recognizing it → accepting cost → integrating practice
+- Chapter 8 thesis: The Sage's work is not visibility or mastery, but standing on own ground and serving from there
+- Downstream impact: Section 6 ("What Winning Looks Like") now leads from altitude understanding rather than five-modes mastery
+- Consistency: Matches Ch1-Ch7 voice and complexity level; prepares properly for Ch9's Player (who integrates all Faces)
+
+**Verification:**
+- Full prose review: mtgoa-review gates clean, diet in acceptable range for chapter
+- Cross-chapter flow: Ch7 → Ch8 altitude understanding → Ch9 integration works
+- Semantic validation: Altitude framework tested with six game masters (referenced in prior session); captured their consensus on what Sage fundamentally is
+
+**Commit applied:**
+1. `64150e6` — Rewrite: Ch8 sections 4-5 — replace 'Five Modes' with altitude-based framework
+
+**Impact:** Ch8 now teaches structural understanding (altitude difference) rather than technical mastery (five modes). The Sage is not defined by what she sees or how she manages emotions, but by knowing she stands somewhere else and using that knowledge to serve.
 
 ---
 
