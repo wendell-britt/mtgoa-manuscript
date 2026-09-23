@@ -61,7 +61,7 @@ V1 is the shadow beat: *perspective as performance* and *the second map*.
 
 ## 5 · Section brief for the restored chapter
 
-Sections 1–3 stay as they are. Unresolved canon items in them (Vulnerable Child at ch8:251, the six-named roster called "seventh") are R6.
+Sections 1–3 stay as they are. Unresolved canon items in them (the six-named roster called "seventh") are R6. *(Corrected 2026-09-23 by the open-items panel: the Vulnerable Child is canon. `back_matter/glossary.md` defines her as the Player at the center of the Forest and says her gift is "carried up at Ch 8 §3." Ch2:393 names her. The July flag calling ch8:251 a retired term was wrong.)*
 
 **S4 · The Sage in Practice.** *Function:* the reader finds herself in a live situation and sees the whole set of choices. *Load:* the only place the fork is shown. *Position:* therefore, because Section 3 ended on *where are you standing*.
 - Keep: the scene (1,012 w), *What It Costs* (406), the Damaged Self appearing in the scene (298).
@@ -94,7 +94,7 @@ Sections 1–3 stay as they are. Unresolved canon items in them (Vulnerable Chil
 - **R3 · Walk Back.** Retire it and keep the Egan passage (95 w), since V3 and *Stand in Your Own Ground* perform its four moves (recommended), or restore it (703 w).
 - **R4 · The 3-2-1s and BAR prompts.** Restore verbatim from `3b37e4d`. No new drafting.
 - **R5 · The Sage's place.** Confirm *seat you take and leave* (`ch9:575`) as the canonical image and retire *forest*.
-- **R6 · World questions in Sections 1–3 (unchanged by either version).** The Vulnerable Child at ch8:251 and `ch9:441`. The daemon roster that omits the Emotional Body and says *"seventh."*
+- **R6 · World questions in Sections 1–3 (unchanged by either version).** The Vulnerable Child at ch8:251 and `ch9:441` *(Corrected 2026-09-23 by the open-items panel: the Vulnerable Child is canon. `back_matter/glossary.md` defines her as the Player at the center of the Forest and says her gift is "carried up at Ch 8 §3." Ch2:393 names her. The July flag calling ch8:251 a retired term was wrong.)* The daemon roster that omits the Emotional Body and says *"seventh."*
 
 ## 8 · Length
 

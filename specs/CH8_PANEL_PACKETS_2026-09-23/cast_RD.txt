@@ -1,0 +1,61 @@
+==========================================================================
+CAST — R-D: Which of the sibling-shape items (Draw the Axis, the 3-2-1s, the Ecology block, the EA table, the Modes) does Chapter 8 owe, and which are left out?
+==========================================================================
+seed 20260928 (reproducible)
+
+PRIMARY  Hexagram 37 — The Family
+         Wind over Fire   ☴☲
+         Tone: Interdependence, Loyalty
+
+         the decision's shape as it stands
+
+    6  -----------   young yang
+    5  -----------   young yang
+    4  ---     ---   young yin
+    3  -----------   young yang
+    2  ---     ---   young yin
+    1  -----------   young yang
+
+    Do not resist dependence on others but also be independent so that others may depend on you. When there is interdependence, there will be great success. Nurture your familial bonds.
+
+Loyalty to the clan comes first. Leave no housekeeping unattended.
+
+Working as a team, each plays to their personal strength. That is how the family will prosper.
+
+NO CHANGING LINES
+    Nothing is moving. Read this as the situation being stable —
+    which for a scene under review is usually the diagnosis, not
+    the reassurance. A scene with no pressure is McKee's nonevent.
+
+--------------------------------------------------------------------------
+THE TWO TRIGRAMS ON THE TABLE
+--------------------------------------------------------------------------
+  ☲  Fire      (The Truth Seer)       the decision stands on this
+      Illumination is an act of respect.
+  ☴  Wind      (The Subtle Influence) the decision presents as this
+      The strongest change is the one nobody noticed.
+
+--------------------------------------------------------------------------
+THE FACES SPEAK — all six, on both trigrams
+--------------------------------------------------------------------------
+  No face owns a trigram and no face leads. EACH TRIGRAM HAS AN
+  EXPRESSION AT EACH FACE. Ask every face what Fire and Wind
+  look like in its own register, then answer its question.
+
+  🧙  SHAMAN      (Magenta)
+      What is this actually about, underneath what it says?
+  ⚔️  CHALLENGER  (Red)
+      Who refuses, and what does it cost them?
+  🏛️  REGENT      (Amber)
+      What does this commit the season to?
+  🏗️  ARCHITECT   (Orange)
+      What load does this carry that nothing else carries?
+  🌿  DIPLOMAT    (Green)
+      Who is in the room, and whose standing changes?
+  🧠  SAGE        (Teal)
+      Is this the right question?
+
+  See references/six-faces.md.
+
+  The cast proposes. The faces argue. THE AUTHOR DECIDES.
+==========================================================================

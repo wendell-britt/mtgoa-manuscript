@@ -1,0 +1,60 @@
+==========================================================================
+CAST — R-A: What should Emotional Alchemy do in the Sage chapter: the whole alchemy block, one move plus the table, a callback through the Five-Move bite, or nothing?
+==========================================================================
+seed 20260925 (reproducible)
+
+PRIMARY  Hexagram 25 — Without Folly
+         Heaven over Thunder   ☰☳
+         Tone: Common Sense
+
+         the decision's shape as it stands
+
+    6  -----------   young yang
+    5  -----------   young yang
+    4  -----------   young yang
+    3  ---     ---   young yin
+    2  ---     ---   young yin
+    1  -----------   young yang
+
+    Do not cultivate the trampled field. Wu wang is a call for common sense.
+    Do not be arrogant when the time calls for humility. Do not be reckless when the time calls for caution.
+    Wu wang is to be without folly—do not undertake a costly expenditure. Long journeys are unfavorable at this time. Resolve the imminent threats first.
+    Heaven tasks the leader to provide for the kingdom's myriad beings.
+
+NO CHANGING LINES
+    Nothing is moving. Read this as the situation being stable —
+    which for a scene under review is usually the diagnosis, not
+    the reassurance. A scene with no pressure is McKee's nonevent.
+
+--------------------------------------------------------------------------
+THE TWO TRIGRAMS ON THE TABLE
+--------------------------------------------------------------------------
+  ☳  Thunder   (The Decisive Storm)   the decision stands on this
+      Some patterns must be broken to be freed.
+  ☰  Heaven    (The Bold Heart)       the decision presents as this
+      First-move precision. Hesitation is the only sin.
+
+--------------------------------------------------------------------------
+THE FACES SPEAK — all six, on both trigrams
+--------------------------------------------------------------------------
+  No face owns a trigram and no face leads. EACH TRIGRAM HAS AN
+  EXPRESSION AT EACH FACE. Ask every face what Thunder and Heaven
+  look like in its own register, then answer its question.
+
+  🧙  SHAMAN      (Magenta)
+      What is this actually about, underneath what it says?
+  ⚔️  CHALLENGER  (Red)
+      Who refuses, and what does it cost them?
+  🏛️  REGENT      (Amber)
+      What does this commit the season to?
+  🏗️  ARCHITECT   (Orange)
+      What load does this carry that nothing else carries?
+  🌿  DIPLOMAT    (Green)
+      Who is in the room, and whose standing changes?
+  🧠  SAGE        (Teal)
+      Is this the right question?
+
+  See references/six-faces.md.
+
+  The cast proposes. The faces argue. THE AUTHOR DECIDES.
+==========================================================================

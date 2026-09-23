@@ -1,0 +1,77 @@
+==========================================================================
+CAST — R-B: What should the rewrite's 'Safe Self' become (an existing daemon, a plain description, or nothing), and which definition of Escape Artist does the chapter teach?
+==========================================================================
+seed 20260926 (reproducible)
+
+PRIMARY  Hexagram 23 — Partition
+         Mountain over Earth   ☶☷
+         Tone: Caution, Patience
+
+         the decision's shape as it stands
+
+    6  -----------   young yang
+    5  ---     ---   young yin
+    4  ---  x  ---   old yin  <-- CHANGING
+    3  ---     ---   young yin
+    2  ---  x  ---   old yin  <-- CHANGING
+    1  ---  x  ---   old yin  <-- CHANGING
+
+    There are disadvantages to proceeding with your endeavor. The matter risks incompletion.
+    Stay low to the ground and disturb not that which is in turbulence. Forces at large are disintegrating and splitting.
+    The inferior outnumbers the superior, cons outweigh the pros.
+    Move slowly; this is the combat crawl—opposite limbs move together.
+    Have faith in your greatness. Focus on the foundation. Your time will come.
+
+CHANGING LINES: 1, 2, 4
+    Read these as the beats under actual pressure. Lines 1-3 are
+    the scene's foundation; lines 4-6 are what it shows the reader.
+
+RELATING  Hexagram 38 — Opposition
+          Fire over Lake   ☲☱
+          Tone: Conflicting Paths
+
+          what it becomes if the pressure is followed
+
+    Sharply opposing factions. One pushes for progressive movement and one holds back. Estrangement.
+    Two seek the same objective, but they take opposing paths and grow apart.
+    You feel misunderstood. The estrangement is necessary.
+    Do not chase after what will return on its own.
+    You will be making the journey in the rain. You face inclement weather throughout your endeavor.
+    Lake of Fire: A journey riddled with obstacles.
+
+    VALUE TURN: Caution, Patience  ->  Conflicting Paths
+    If the scene cannot make that move, the cast is telling you
+    the scene has no turn in it. That is process 1.
+
+--------------------------------------------------------------------------
+THE TWO TRIGRAMS ON THE TABLE
+--------------------------------------------------------------------------
+  ☷  Earth     (The Devoted Guardian) the decision stands on this
+      Warmth is a function. Welcome is designed.
+  ☶  Mountain  (The Still Point)      the decision presents as this
+      Clarity lives in what you refuse.
+
+--------------------------------------------------------------------------
+THE FACES SPEAK — all six, on both trigrams
+--------------------------------------------------------------------------
+  No face owns a trigram and no face leads. EACH TRIGRAM HAS AN
+  EXPRESSION AT EACH FACE. Ask every face what Earth and Mountain
+  look like in its own register, then answer its question.
+
+  🧙  SHAMAN      (Magenta)
+      What is this actually about, underneath what it says?
+  ⚔️  CHALLENGER  (Red)
+      Who refuses, and what does it cost them?
+  🏛️  REGENT      (Amber)
+      What does this commit the season to?
+  🏗️  ARCHITECT   (Orange)
+      What load does this carry that nothing else carries?
+  🌿  DIPLOMAT    (Green)
+      Who is in the room, and whose standing changes?
+  🧠  SAGE        (Teal)
+      Is this the right question?
+
+  See references/six-faces.md.
+
+  The cast proposes. The faces argue. THE AUTHOR DECIDES.
+==========================================================================

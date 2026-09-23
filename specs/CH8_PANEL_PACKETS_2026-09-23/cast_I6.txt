@@ -1,0 +1,73 @@
+==========================================================================
+CAST — I6: Which term names the one at the center that the Damaged Self defends: the Player self, the Player, or the Vulnerable Child?
+==========================================================================
+seed 20261004 (reproducible)
+
+PRIMARY  Hexagram 36 — Darkening of the Light
+         Earth over Fire   ☷☲
+         Tone: Cautious Patience
+
+         the decision's shape as it stands
+
+    6  ---     ---   young yin
+    5  ---  x  ---   old yin  <-- CHANGING
+    4  ---     ---   young yin
+    3  -----------   young yang
+    2  ---     ---   young yin
+    1  -----------   young yang
+
+    Use the cloak of darkness to your advantage.
+    Wait until the darkness has set before the light begins its resistance. Do not compel the change. Let the time of transition take place in due course.
+    Do not draw attention to your light but do not let the fire extinguish.
+    For the one in hardship, take heart. Divine forces are in play.
+
+CHANGING LINES: 5
+    Read these as the beats under actual pressure. Lines 1-3 are
+    the scene's foundation; lines 4-6 are what it shows the reader.
+
+RELATING  Hexagram 63 — After the Ending
+          Water over Fire   ☵☲
+          Tone: Cautious Progress
+
+          what it becomes if the pressure is followed
+
+    It is now after the ending and before the start of a beginning.
+    Anticipate pitfalls before advancing. How might your actions affect others? A noble leader puts the people’s welfare before self-interests.
+    Call upon the Illustrious Ancestor. When seeking favor from the gods and spirits, the extravagance of your offerings does not matter; it is the sincerity of your heart that sways them.
+
+    VALUE TURN: Cautious Patience  ->  Cautious Progress
+    If the scene cannot make that move, the cast is telling you
+    the scene has no turn in it. That is process 1.
+
+--------------------------------------------------------------------------
+THE TWO TRIGRAMS ON THE TABLE
+--------------------------------------------------------------------------
+  ☲  Fire      (The Truth Seer)       the decision stands on this
+      Illumination is an act of respect.
+  ☷  Earth     (The Devoted Guardian) the decision presents as this
+      Warmth is a function. Welcome is designed.
+
+--------------------------------------------------------------------------
+THE FACES SPEAK — all six, on both trigrams
+--------------------------------------------------------------------------
+  No face owns a trigram and no face leads. EACH TRIGRAM HAS AN
+  EXPRESSION AT EACH FACE. Ask every face what Fire and Earth
+  look like in its own register, then answer its question.
+
+  🧙  SHAMAN      (Magenta)
+      What is this actually about, underneath what it says?
+  ⚔️  CHALLENGER  (Red)
+      Who refuses, and what does it cost them?
+  🏛️  REGENT      (Amber)
+      What does this commit the season to?
+  🏗️  ARCHITECT   (Orange)
+      What load does this carry that nothing else carries?
+  🌿  DIPLOMAT    (Green)
+      Who is in the room, and whose standing changes?
+  🧠  SAGE        (Teal)
+      Is this the right question?
+
+  See references/six-faces.md.
+
+  The cast proposes. The faces argue. THE AUTHOR DECIDES.
+==========================================================================

@@ -11,7 +11,7 @@ Ask the Damaged Self how it is going and it says: *Another day, another day of t
 
 You met the Damaged Self deep in the Forest, seventh in line, closest to the center. The Protector decides whether you go in at all. The Controller decides how you're allowed to behave once you're inside. The Skeptic decides whether what you're reacting to was ever real. The Fixer/Healer decides whether what is in front of you merits giving yourself to. The Victim decides what your having paid entitles you to. The Damaged Self takes what none of them can.
 
-It takes what the Protector leaves unguarded, what falls outside the Controller's standard, and what the Fixer cannot repair or hold in place. It takes what fear cannot see or sound an alarm for, what anger cannot help overcome, what sadness cannot connect to anything you care about, what joy cannot delight in, and what neutrality cannot hold and let go. It takes all of that on and is undefeated. When nothing else can defend the Player self, it does.
+It takes what the Protector leaves unguarded, what falls outside the Controller's standard, and what the Fixer cannot repair or hold in place. It takes what fear cannot see or sound an alarm for, what anger cannot help overcome, what sadness cannot connect to anything you care about, what joy cannot delight in, and what neutrality cannot hold and let go. It takes all of that on and is undefeated. When nothing else can defend the Vulnerable Child, it does.
 
 Relationship costs damage to your ego structure. The Sage is often too far away to be hit like that, so the damage that does arrive falls on one of the other Faces in you. Without the Damaged Self, the Sage avoids all damage or takes damage that means nothing.
 
@@ -56,6 +56,7 @@ The first three drafts passed the hard gate and the slop scanner and still carri
 | Hedge on his line: *though admitting it is hard* | new paragraph | dropped; *Helpers are also killers. They kill the state of needing help.* stays in his words |
 | Wrong verb: *Helping costs damage too* made the helper the one who pays (Wendell) | new paragraph | *Helping causes damage.* The damage is caused by the helper and lands on the helped person's daemons that want to stay as they are |
 | Myth tail placed at Wendell's instruction and revised. The first tail (*A framework promises the work can be done from out of range. The Sage with the best maps and no Damaged Self keeps all the sight and pays none of the cost.*) covered only the Sage's exposure and had an unsourced character | tail | *A framework promises help that spares everyone, you included.* It covers the person helped as well as the Sage. Placed after the helping paragraph and before the paragraph on the Damaged Self going unasked, so the belief is followed by the answer to it |
+| Term for the one at the center: *the Player self* (Wendell's phrase; no book text uses it) replaced by *the Vulnerable Child* (glossary, Ch2:393, ch8:251, ch9:443) by the open-items panel, 6 of 6 | closing sentence of the residue paragraph | *When nothing else can defend the Vulnerable Child, it does.* Reversible; Wendell confirms |
 
 # Instrument readings (the final mix)
 

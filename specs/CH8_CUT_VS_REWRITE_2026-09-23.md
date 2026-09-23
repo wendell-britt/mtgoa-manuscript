@@ -99,7 +99,7 @@ Reading at `3b37e4d`, region lines 307–828, 9,070 words:
   - CN-4: the Walk Back is the book's only four-move sequence.
   - CN-9: "EA" unexpanded in the table heading.
 - **Fixed since July and worth keeping:** examples and tests on Moves 3–5, six games → four, the Appendix F route, the gate-walk locator, the domain section (CN-8).
-- **Present in both versions (first half, untouched):** CN-1 the Vulnerable Child at ch8:251 (and `ch9:508`); CN-2 the daemon roster that omits the Emotional Body and still says "seventh"; ST-6 the Horizon digression ahead of the definition.
+- **Present in both versions (first half, untouched):** CN-1 the Vulnerable Child at ch8:251 (and `ch9:508`) *(Corrected 2026-09-23 by the open-items panel: the Vulnerable Child is canon. `back_matter/glossary.md` defines her as the Player at the center of the Forest and says her gift is "carried up at Ch 8 §3." Ch2:393 names her. The July flag calling ch8:251 a retired term was wrong.)*; CN-2 the daemon roster that omits the Emotional Body and still says "seventh"; ST-6 the Horizon digression ahead of the definition.
 
 ---
 
