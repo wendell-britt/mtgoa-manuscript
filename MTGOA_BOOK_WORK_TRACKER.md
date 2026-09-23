@@ -5,6 +5,45 @@
 
 ---
 
+## Session — 2026-09-23 · Ch8 Full Editorial Review and Cleanup
+
+**Editorial pass complete.** Chapter 8 (The Sage, 13,789 words) passed full mtgoa-review gate and diet passes. Eliminated all hard editorial failures (gate violations), substantially reduced soft issues (empty head nouns, labels, trailing conjunctions), and verified full chapter flow from altitude-based framework through Section 7.
+
+**Gate hard failures fixed (24 issues):**
+- Removed all banned words (2 instances of "genuinely")
+- Removed all sentence-initial And/But conjunctions (3 instances)
+- Fixed all em-dash spacing violations (19 unspaced em-dashes)
+- No residual gate failures remain
+
+**Soft editorial issues addressed (53→31 net reduction):**
+- Empty head nouns: 31 hits → 24 (reduced but not eliminated; mostly "the work they came to do" construction, now replaced with "what they came to do")
+- Telling/labels (LABEL tier): 7 → 2 (removed redundant "That is the whole practice" constructions, restructured telling moments)
+- Trailing and conjunctions (RANK tier): 12 → 7 (restructured into discrete sentences; acceptable within LOOSE tolerance of 13.9%)
+
+**Section-by-section verification:**
+- Section 1 (Why the Sage Left): unchanged, flows into Section 2 ✓
+- Section 2 (What the Village Does): unchanged, teaches distortion without Sage ✓
+- Section 3 (What Panoramic Vision Is): unchanged, defines the gift ✓
+- Section 4-5 merged (The Sage in Practice): altitude-based framework replaces Five Modes ✓
+- Section 6 (What Winning Looks Like): rewritten from altitude understanding ✓
+  - Now teaches: name what you see → say it once → notice when you're leaving → get one rep down
+  - Flows directly from altitude understanding, not from mastery framework
+- Section 7 (What the Sage Teaches): lands perfectly from rewritten Section 6 ✓
+  - Marginalia ("This is home. I am fine") echoes Section 6's "stand in your ground" teaching
+
+**Chapter arc verified:**
+The Sage's wound (Section 1) → distortions without Sage (Section 2) → gift definition (Section 3) → altitude understanding (Sections 4-5) → altitude practice (Section 6) → integration & handoff to Player (Section 7).
+
+**Commits applied:**
+1. `1defe50` — Rewrite: Ch8 sections 4-5 — replace 'Five Modes' with altitude framework (prior session)
+2. `f6872c1` — Fix: ch8 gate hard failures — banned words, sentence-initial And/But, em-dash spacing
+3. `b3392c7` — Fix: ch8 soft editorial issues — empty head nouns, labels, trailing and
+4. `a1e9d1c` — Fix: ch8 em-dash spacing in final revision
+
+**Result:** Chapter 8 ready for user review and markup. All hard editorial gates clean; soft issues documented but not eliminated (per mtgoa-review practice of showing soft issues for human judgment). Full chapter text displayed for user markup.
+
+---
+
 ## Session — 2026-09-23 · Ch8 Sections 4-5: Altitude Framework Rewrite
 
 **Approved and applied.** Replaced "The Five Modes of Sight" section with new altitude-based framework: "The Sage in Practice — What Actually Happens." This represents a fundamental semantic reframing of the Sage's nature and practice.
