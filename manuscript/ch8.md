@@ -318,7 +318,7 @@ The shift itself is what they will not see. They are inside the game. You are ou
 
 The Sage does not name every difference she sees. Most of what she sees cannot be named at the table's altitude. Most of it will not land. Most of it will look like you are explaining yourself, proving yourself, trying to make them see something they do not want to know.
 
-So the real Sage names one difference: the one that, if named, lets the people in front of her do the work they came to do. Not the work she sees. The work *they* came to do.
+So the real Sage names one difference: the one that, if named, lets the people in front of her do what they came to do. Not what she sees. What *they* came to do.
 
 ---
 
@@ -334,9 +334,9 @@ From the table, this looks like a strategy problem. From the forest, you can see
 
 You notice the power game. You speak. "I wonder if the real question is whether this hire changes who gets to decide." 
 
-You are correct. The team hears you explain something they cannot see. Now you are the one who sees and they are the ones who do not, and you have just made the distance between you larger. They will either defend (you are calling them out) or withdraw (you are above them now). Either way, you are farther from them than you were before you spoke.
+You are correct. The team hears you explain something they cannot see. Now you are the one who sees and they are the ones who do not. You have just made the distance between you larger. They will either defend (you are calling them out) or withdraw (you are above them now). Either way, you are farther from them than you were before you spoke.
 
-You stay in the gathering, but you have already gone up. The distance is what you experience now. You cannot sit with being right and unseen, so you reach for a second map. You find a new language to explain it. "Here's what I've learned about teams like this." Now you are offering them a theory, not a question. Now you are definitely above the table, and it is safer there because the full view is intact. You were not wrong. You just could not sit with the gap: you see from somewhere else, they do not, and that is not a problem to solve.
+You stay in the gathering, but you have already gone up. The distance is what you experience now. You cannot sit with being right and unseen, so you reach for a second map. You find a new language to explain it. "Here's what I've learned about teams like this." Now you are offering them a theory, not a question. Now you are definitely above the table. It is safer there because the full view is intact. You were not wrong. You just could not sit with the gap: you see from somewhere else, they do not. That gap is not a problem to solve.
 
 **Version two: You leave the table and take your gift with you.**
 
@@ -344,7 +344,7 @@ You notice the shift. You feel the gathering organizing around a lie. You could 
 
 Here is what matters: are you leaving because the forest is calling you home, or are you leaving because the gathering broke you?
 
-If you leave because the gathering will not see you, because your reading is too brilliant and they could not hold it, because staying means the Safe Self dissolves into invisibility — then you are leaving wounded. You are taking your toys with you. The gathering will feel your withdrawal as punishment, because it is. You needed them to see you from the table's altitude, and they could not, so you are gone. You have made their limitation about you.
+If you leave because the gathering will not see you, because your reading is too brilliant and they could not hold it, because staying means the Safe Self dissolves into invisibility — then you are leaving wounded. You are taking your toys with you. The gathering will feel your withdrawal as punishment, because it is. You needed them to see you from the table's altitude, but they could not. You are gone. You have made their limitation about you.
 
 If you leave because you recognize you are not standing on the table, because you were never meant to stay, because the forest is your actual ground — then you are leaving the way you leave a garden you were tending that is not yours. You go back. You do not need the gathering to apologize or to realize what they lost. You just go home.
 
@@ -352,9 +352,9 @@ If you leave because you recognize you are not standing on the table, because yo
 
 You notice the shift. You see the power game. You know they will not see it from where they are standing. So you do not try to move them from the table's altitude. You do not say "the real question is who decides." That is you trying to pull them up to where you are.
 
-Instead, you speak in the language of the table. You name something the team can use. "I notice we keep adding criteria. I wonder if we should decide what we are actually deciding before we add more." You stay in the gathering. You use what you see to serve the work they came to do, not to make yourself visible.
+Instead, you speak in the language of the table. You name something the team can use. "I notice we keep adding criteria. I wonder if we should decide what we are actually deciding before we add more." You stay in the gathering. You use what you see to serve what they are trying to do, not to make yourself visible.
 
-The team says "actually, I'm fine with the criteria, I just want to know if we can afford it." You were reading it wrong. You stay anyway. You are not above them. You are beside them. You know you are standing somewhere else, and that does not mean you have to leave. It means you use what you see from there to serve what they are trying to do at the table.
+The team says "actually, I'm fine with the criteria, I just want to know if we can afford it." You were reading it wrong. You stay anyway. You are not above them. You are beside them. You know you are standing somewhere else. That does not mean you have to leave. It means you use what you see from there to serve what they are trying to do at the table.
 
 You do not need to be seen. You serve from an altitude they do not have to understand. This is where the Sage actually works.
 
@@ -366,7 +366,7 @@ The cost is that you will know you do not belong at the table. Not because they 
 
 Most of what you see will be invisible to them. Most of what matters to you will not matter at the table's altitude. You will watch them organize around lies you can see clearly. You will watch them make choices that cost them more than they know, choices you can read the price of from a distance. You will not be able to make them see it from where they are standing.
 
-This is harder than it sounds. The Safe Self wants the table to be the problem. When the table is the problem, leaving feels like a victory and staying feels like noble suffering. When the table is fine and you just do not belong there, staying becomes a different choice — one you make because the work they came to do matters to you, even though you are standing somewhere else.
+This is harder than it sounds. The Safe Self wants to blame the table. When the table is broken, you leave and everyone understands. When the table is fine and you just do not belong there, you stay anyway — not to prove anything, because what they came to do matters to you, and you are standing somewhere else.
 
 The other cost is this: the people at the table will experience you as separate. They may think you are cold or distant or above them. They will not understand that you are not refusing them — you are just not standing where they stand. You cannot explain it to them. If you try, you have just tried to pull them up to your altitude, which is exactly the move you stopped making.
 
@@ -396,7 +396,7 @@ Two capacities come out of this practice.
 
 The first is **knowing your own altitude**. The Sage stands in the forest. She can visit the table, but she does not belong there. She can use what she sees from her altitude to serve the work at the table, but she cannot make the table her home. She knows the difference. She stops trying to be seen from an altitude she is not standing on.
 
-The second is **staying when it does not work**. When you name the game and no one wants to hear it, when you keep your reading and the gathering does not benefit from it, when you serve the work they came to do and they do not recognize what you offered — that does not mean the Sage failed. It means the altitude difference is real. It means you stood in your own ground anyway and did what you could from there. That is the whole practice.
+The second is **staying when it does not work**. When you name the game and no one wants to hear it, when you keep your reading and the gathering does not benefit from it, when you serve what they came to do and they do not recognize what you offered — that does not mean the Sage failed. It means the altitude difference is real. It means you stood in your own ground anyway and did what you could from there.
 
 You do not have to convert anyone to your view. You have to offer it as an equal from an altitude they may not be standing on. *I see something from where I stand. You might see it too. You might not. Either way, I know where I am.* That sentence is what every move in this chapter is for.
 
@@ -426,11 +426,11 @@ You know you are standing on your own ground when the distance between what you 
 
 The distortion runs like this: you name something true (the power game underneath, the authority question nobody speaks, the stuckness nobody will admit). The gathering does not want to know. You experience that as your reading failing — the view was wrong, or you named it wrong, or you weren't clear enough. So you reach for a second map. You find a new language. You offer a framework. Now you are above the table, safer, with the full view intact.
 
-The real Sage runs a different check. You named something true. The gathering did not receive it. Both are true at the same time, and that does not mean the first one failed. It means the altitude difference is real. Your job is not to make them see what you see. Your job is to know that you see it and stay anyway.
+The real Sage runs a different check. You named something true. The gathering did not receive it. Both are true at the same time. That does not mean the first one failed. It means the altitude difference is real. Your job is not to make them see what you see. Your job is to know that you see it and stay anyway.
 
 The Tell is simple: did the gathering's non-reception send you up, or did it send you deeper into yourself? If you found yourself reaching for a better map, a clearer language, a framework that would finally make them understand — you were standing on the table's altitude. If you found yourself grounded, more certain of what you know even though they cannot hold it — you were standing on your own ground.
 
-The difference shows in what you do next. From the table, the move is to fix the communication. From the forest, the move is to stay. Staying is not silence. Staying is using what you see to serve the work they came to do, knowing most of what you see will not land. That is the whole practice.
+The difference shows in what you do next. From the table, the move is to fix the communication. From the forest, the move is to stay. Staying is not silence. Staying is using what you see to serve what they came to do, knowing most of what you see will not land.
 
 ---
 
@@ -462,7 +462,7 @@ Name what you see, specifically: "I notice we keep adding criteria" or "I see so
 
 Then name where you are standing: "I am seeing this from somewhere the table is not. I can see it because I have stood where they stand and I have stood where I am standing now. Both are true. My job is not to make them see from here. My job is to use what I see to serve what they came to do."
 
-That sentence is the ground. Stay there.
+Stay with that sentence. Return to it whenever you drift.
 
 **Two: Say it once, then listen for what they actually need.**
 
@@ -496,7 +496,7 @@ Write it down as it was. That's the rep.
 
 This capacity — standing on your own ground and serving from there — runs opposite to table altitude. At table altitude, you prove yourself by being right. Here, you prove yourself by being willing to be wrong and stay anyway. At table altitude, you measure success by being seen. Here, you measure it by work getting done even if nobody knows you were part of it.
 
-This is not humility. Humility is a virtue. This is just structural reality. You are standing somewhere else. Most of what you see will not land. That is not a problem with your seeing or your naming. It is a fact about altitude.
+This is not humility—which is chosen. You have not chosen to stand apart; you are standing in your actual position. You are somewhere else. Most of what you see will not land because of the altitude difference, not because your seeing is wrong. The landing is a matter of position, not skill.
 
 The capacity grows by repetition: name it, stay, notice what happens, repeat. Each time you do it, you learn what your ground actually is. Each time you name something and the gathering does not want to know, you have proof that you are standing somewhere else — and proof that you can know that and stay anyway.
 
