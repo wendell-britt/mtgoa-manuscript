@@ -496,7 +496,7 @@ Write it down as it was. That's the rep.
 
 This capacity — standing on your own ground and serving from there — runs opposite to table altitude. At table altitude, you prove yourself by being right. Here, you prove yourself by being willing to be wrong and stay anyway. At table altitude, you measure success by being seen. Here, you measure it by work getting done even if nobody knows you were part of it.
 
-This is not humility—which is chosen. You have not chosen to stand apart; you are standing in your actual position. You are somewhere else. Most of what you see will not land because of the altitude difference, not because your seeing is wrong. The landing is a matter of position, not skill.
+This is not humility — which is chosen. You have not chosen to stand apart; you are standing in your actual position. You are somewhere else. Most of what you see will not land because of the altitude difference, not because your seeing is wrong. The landing is a matter of position, not skill.
 
 The capacity grows by repetition: name it, stay, notice what happens, repeat. Each time you do it, you learn what your ground actually is. Each time you name something and the gathering does not want to know, you have proof that you are standing somewhere else — and proof that you can know that and stay anyway.
 
