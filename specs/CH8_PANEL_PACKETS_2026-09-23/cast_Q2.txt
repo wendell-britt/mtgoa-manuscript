@@ -1,0 +1,71 @@
+==========================================================================
+CAST — Q2: Chapter 7 names five daemons and calls the Victim sixth in line, Chapter 8 names five and calls the Damaged Self seventh, and Chapter 6 says the Emotional Body does not belong in that line. Is the roster mismatch a convention to keep, or a defect to fix?
+==========================================================================
+seed 20261006 (reproducible)
+
+PRIMARY  Hexagram 59 — Making Waves
+         Wind over Water   ☴☵
+         Tone: Reform, Change
+
+         the decision's shape as it stands
+
+    6  -----------   young yang
+    5  -----o-----   old yang  <-- CHANGING
+    4  ---  x  ---   old yin  <-- CHANGING
+    3  ---  x  ---   old yin  <-- CHANGING
+    2  -----------   young yang
+    1  ---     ---   young yin
+
+    An important task is at hand. You are the one who must make waves. Like wind breaking waves, a voice of reason and compassion rises to reform that which is broken and unjust.
+    Set aside personal interest and pursue public interest. Heaven seeks you as a vessel to carry forth its mission. Revelation of one’s true will and purpose.
+    Dispel that which has been oppressive.
+    The old disperses to make way for the new.
+
+CHANGING LINES: 3, 4, 5
+    Read these as the beats under actual pressure. Lines 1-3 are
+    the scene's foundation; lines 4-6 are what it shows the reader.
+
+RELATING  Hexagram 50 — The Cauldron
+          Fire over Wind   ☲☴
+          Tone: Nourishment & Purification
+
+          what it becomes if the pressure is followed
+
+    You are in the developmental phase. Nourish the inner temple. Nurture the innate talent. Bring forth offerings of sustenance to both the inner temple and to the outer temple of the gods. Be sure to cleanse and purge the cauldron thoroughly of its grime before you cook with it. Good fortune and favors bestowed to the one who first purifies, then alchemizes. The sage has a mission to complete. Establish order. Great Work ahead.
+
+    VALUE TURN: Reform, Change  ->  Nourishment & Purification
+    If the scene cannot make that move, the cast is telling you
+    the scene has no turn in it. That is process 1.
+
+--------------------------------------------------------------------------
+THE TWO TRIGRAMS ON THE TABLE
+--------------------------------------------------------------------------
+  ☵  Water     (The Danger Walker)    the decision stands on this
+      Depth is earned. Surface is where trust is lost.
+  ☴  Wind      (The Subtle Influence) the decision presents as this
+      The strongest change is the one nobody noticed.
+
+--------------------------------------------------------------------------
+THE FACES SPEAK — all six, on both trigrams
+--------------------------------------------------------------------------
+  No face owns a trigram and no face leads. EACH TRIGRAM HAS AN
+  EXPRESSION AT EACH FACE. Ask every face what Water and Wind
+  look like in its own register, then answer its question.
+
+  🧙  SHAMAN      (Magenta)
+      What is this actually about, underneath what it says?
+  ⚔️  CHALLENGER  (Red)
+      Who refuses, and what does it cost them?
+  🏛️  REGENT      (Amber)
+      What does this commit the season to?
+  🏗️  ARCHITECT   (Orange)
+      What load does this carry that nothing else carries?
+  🌿  DIPLOMAT    (Green)
+      Who is in the room, and whose standing changes?
+  🧠  SAGE        (Teal)
+      Is this the right question?
+
+  See references/six-faces.md.
+
+  The cast proposes. The faces argue. THE AUTHOR DECIDES.
+==========================================================================

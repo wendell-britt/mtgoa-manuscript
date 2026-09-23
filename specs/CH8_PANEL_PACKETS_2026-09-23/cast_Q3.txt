@@ -1,0 +1,74 @@
+==========================================================================
+CAST — Q3: Which downstream files must change now that the Damaged Self is the silent absorber, helping causes damage, and the one at the center is the Vulnerable Child: the glossary, Ch2, Appendix A, Appendix B, Ch9, the index?
+==========================================================================
+seed 20261007 (reproducible)
+
+PRIMARY  Hexagram 21 — Bite Through
+         Fire over Thunder   ☲☳
+         Tone: Overcoming Obstacles
+
+         the decision's shape as it stands
+
+    6  -----------   young yang
+    5  ---  x  ---   old yin  <-- CHANGING
+    4  -----------   young yang
+    3  ---  x  ---   old yin  <-- CHANGING
+    2  ---     ---   young yin
+    1  -----------   young yang
+
+    Remove the obstacles without delay. Show of force is needed to break down the obstruction.
+    The road will only be cleared if you demonstrate the clarity of thought to take command and implement immediate action. To do so you will face a difficult choice.
+    Cultivate the power of persuasion. That which seeks not to be moved must be moved.
+    Administer justice with impartiality and objectivity.
+
+CHANGING LINES: 3, 5
+    Read these as the beats under actual pressure. Lines 1-3 are
+    the scene's foundation; lines 4-6 are what it shows the reader.
+
+RELATING  Hexagram 13 — Fellowship
+          Heaven over Fire   ☰☲
+          Tone: Community, Generosity
+
+          what it becomes if the pressure is followed
+
+    It is a time for relationship building. Seek out a community of shared interest.
+    Generosity builds bridges and networks. Be one who enriches others to be enriched by fellowship. Help others with their aspirations, and you will find that you’ve accomplished your own.
+    Support another’s happiness and others will support yours. Interchange brings reward.
+    Never let a friend walk alone at night.
+
+    VALUE TURN: Overcoming Obstacles  ->  Community, Generosity
+    If the scene cannot make that move, the cast is telling you
+    the scene has no turn in it. That is process 1.
+
+--------------------------------------------------------------------------
+THE TWO TRIGRAMS ON THE TABLE
+--------------------------------------------------------------------------
+  ☳  Thunder   (The Decisive Storm)   the decision stands on this
+      Some patterns must be broken to be freed.
+  ☲  Fire      (The Truth Seer)       the decision presents as this
+      Illumination is an act of respect.
+
+--------------------------------------------------------------------------
+THE FACES SPEAK — all six, on both trigrams
+--------------------------------------------------------------------------
+  No face owns a trigram and no face leads. EACH TRIGRAM HAS AN
+  EXPRESSION AT EACH FACE. Ask every face what Thunder and Fire
+  look like in its own register, then answer its question.
+
+  🧙  SHAMAN      (Magenta)
+      What is this actually about, underneath what it says?
+  ⚔️  CHALLENGER  (Red)
+      Who refuses, and what does it cost them?
+  🏛️  REGENT      (Amber)
+      What does this commit the season to?
+  🏗️  ARCHITECT   (Orange)
+      What load does this carry that nothing else carries?
+  🌿  DIPLOMAT    (Green)
+      Who is in the room, and whose standing changes?
+  🧠  SAGE        (Teal)
+      Is this the right question?
+
+  See references/six-faces.md.
+
+  The cast proposes. The faces argue. THE AUTHOR DECIDES.
+==========================================================================

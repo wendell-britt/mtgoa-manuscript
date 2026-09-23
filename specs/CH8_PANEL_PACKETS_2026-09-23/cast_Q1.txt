@@ -1,0 +1,68 @@
+==========================================================================
+CAST — Q1: Ch2 says the Damaged Self sorts damage that builds you from damage that only breaks you, and Ch2's own example has it taking a verdict about yourself, while Wendell's 3-2-1 has it taking all damage silently and the Victim telling the story. How is the book reconciled?
+==========================================================================
+seed 20261005 (reproducible)
+
+PRIMARY  Hexagram 49 — Revolution
+         Lake over Fire   ☱☲
+         Tone: Change, Momentum
+
+         the decision's shape as it stands
+
+    6  ---     ---   young yin
+    5  -----------   young yang
+    4  -----o-----   old yang  <-- CHANGING
+    3  -----------   young yang
+    2  ---  x  ---   old yin  <-- CHANGING
+    1  -----o-----   old yang  <-- CHANGING
+
+    Revolution to rectify injustice begins with revolution of the heart. First change inner misalignments before seeking a transformation of others. What you seek requires momentum, and to drum up that momentum, live and abide by higher principles. Those who see you embodying the higher principles will be attracted to you, and you will gain momentum. Having that momentum is the authority you need for a just revolution.
+
+CHANGING LINES: 1, 2, 4
+    Read these as the beats under actual pressure. Lines 1-3 are
+    the scene's foundation; lines 4-6 are what it shows the reader.
+
+RELATING  Hexagram 48 — The Fountainhead
+          Water over Wind   ☵☴
+          Tone: Nourishment
+
+          what it becomes if the pressure is followed
+
+    Society may change, but people’s primitive needs never do. Nourish the people’s primitive needs. To succeed, reach deep into the people’s hearts and deeper into the tempest. ❖ The situation at hand is much more complicated than you initially perceived it to be. ❖ Adversity and troubles: take caution. Invoke the Name of the Divine in your times of need. ❖ Clean the well before you drink its water.
+
+    VALUE TURN: Change, Momentum  ->  Nourishment
+    If the scene cannot make that move, the cast is telling you
+    the scene has no turn in it. That is process 1.
+
+--------------------------------------------------------------------------
+THE TWO TRIGRAMS ON THE TABLE
+--------------------------------------------------------------------------
+  ☲  Fire      (The Truth Seer)       the decision stands on this
+      Illumination is an act of respect.
+  ☱  Lake      (The Joyful Connector) the decision presents as this
+      Delight is the argument that requires no explanation.
+
+--------------------------------------------------------------------------
+THE FACES SPEAK — all six, on both trigrams
+--------------------------------------------------------------------------
+  No face owns a trigram and no face leads. EACH TRIGRAM HAS AN
+  EXPRESSION AT EACH FACE. Ask every face what Fire and Lake
+  look like in its own register, then answer its question.
+
+  🧙  SHAMAN      (Magenta)
+      What is this actually about, underneath what it says?
+  ⚔️  CHALLENGER  (Red)
+      Who refuses, and what does it cost them?
+  🏛️  REGENT      (Amber)
+      What does this commit the season to?
+  🏗️  ARCHITECT   (Orange)
+      What load does this carry that nothing else carries?
+  🌿  DIPLOMAT    (Green)
+      Who is in the room, and whose standing changes?
+  🧠  SAGE        (Teal)
+      Is this the right question?
+
+  See references/six-faces.md.
+
+  The cast proposes. The faces argue. THE AUTHOR DECIDES.
+==========================================================================
