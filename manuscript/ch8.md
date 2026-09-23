@@ -418,196 +418,91 @@ The next chapter is not about whether you can see the whole board. You can. The 
 > Bram Tull
 <!-- /MARGINALIA -->
 
+---
 
-The Sage plays the meta-game. Not a game *about* something: the game of knowing which game you're in and choosing to play it.
+## The Tell
 
-The whole book has built toward this through-line. You've learned six Faces. You've felt, drawn lines, carried forward, built, held the field, and seen the whole map. Now the question stops being *which face am I being?* and starts being *which game am I designing?*
+You know you are standing on your own ground when the distance between what you see and what the gathering receives becomes information rather than a problem to solve.
 
-The five moves build a toolkit. You reach in and pull out what the moment requires. Sometimes the first move is Name the Game. Sometimes it's Switch. Sometimes, often, it's Return, because you've been above the table so long that nobody can hear you anymore.
+The distortion runs like this: you name something true (the power game underneath, the authority question nobody speaks, the stuckness nobody will admit). The gathering does not want to know. You experience that as your reading failing—the view was wrong, or you named it wrong, or you weren't clear enough. So you reach for a second map. You find a new language. You offer a framework. Now you are above the table, safer, with the full view intact.
 
-The kit does have a logic. Seeing without naming is silence. Naming without switching is paralysis. Switching without returning is exile. Returning without putting down is accumulation. Putting down without holding the meta is escape. Each move checks the others.
+The real Sage runs a different check. You named something true. The gathering did not receive it. Both things are true at the same time, and that does not mean the first one failed. It means the altitude difference is real. Your job is not to make them see what you see. Your job is to know that you see it and stay anyway.
+
+The Tell is simple: did the gathering's non-reception send you up, or did it send you deeper into yourself? If you found yourself reaching for a better map, a clearer language, a framework that would finally make them understand—you were standing on the table's altitude. If you found yourself quieter, more grounded, more certain of what you know even though they cannot hold it—you were standing on your own ground.
+
+The difference shows in what you do next. From the table, the move is to fix the communication. From the forest, the move is to stay. Staying is not silence. Staying is using what you see to serve the work they came to do, knowing most of what you see will not land. That is the whole practice.
 
 ---
 
-### Move 1: Name the Game
+## What Winning Looks Like
 
-**What it is:** Before you enter a conversation, a meeting, a conflict, name the game as power, strategy, harmony, whole-board. Name it out loud or inside. Naming holds the first move and the first freedom.
+You told the group which game it was playing, in the group's own words, without a diagram, while it was still playing. They stopped counting you as one of them for a while afterward. That happened.
 
-You pause at the door. You take one breath. You ask: *which game are we actually in, and what game is being played underneath the one we're talking about?*
+Then something shifted. They started arguing about the real game, which is harder to sit in than the lie. The lie was comfortable. The real game is messy. And they're in it now, which means your naming worked, which means you can let the credit go.
 
-**Example:** A support group is forty minutes into whether Ellis should apply for the review board, an argument that has become logistics. Ellis has said twice that he does not want the board to decide whether what he did was defensible. Name the game: *I think we are running a strategy game and Ellis is in a different one. He is not asking us how to win this.* Some people settle and some brace. You have named it and not solved it, which stands as the move, and Ellis does not speak again.
+Winning at this altitude looks different than it does at the table. At the table, winning is being right. At this altitude, winning is work getting done even though the people doing it will never know you were part of it. Sometimes they will know. Usually they won't. That doesn't change whether you served.
 
-**Why it matters:** Naming the game does not end the argument. It lets you choose what to do next. Once you've named the game, you're no longer being played by it. You're choosing whether to play it.
+The marker is not whether they thanked you. The marker is whether the work moved. Did naming the game let them do what they came to do? Did they argue about the real thing instead of the comfort lie? Did the group get unstuck?
 
-**Working vs. performed:** The shadow version names the game and feels superior for knowing. Service names what you see as an offer people can correct: *I think we may be treating this as a strategy problem when somebody needs a line. Does that fit for you?* The sentence carries your reading without demanding that anyone live inside it.
+If yes: you saw accurately, you named it from their altitude (not from above), and you stayed. That's winning.
 
-**The test:** After you name it, can the people affected correct you, and does your next move change if they do? A reading that cannot be corrected becomes a verdict wearing a framework.
-
-Do not use this move to stay in your own head while somebody needs a line, a decision, or an apology. Do not use it to explain why you're above the mess while everyone else stays inside it. If the naming makes you harder to reach, or gives you less to answer for, the distortion is already driving.
-
-### Move 2: Switch Games Deliberately
-
-**What it is:** Once named, choose. Which game does this moment actually require?
-
-**Why it matters:** Most people have a home game. The Challenger defaults to power. The Architect defaults to strategy. The Diplomat defaults to harmony. The home game feels comfortable, but it means you treat every situation as though it were your house. It is useful when the moment calls for your house, and a problem the rest of the time.
-
-You've been playing strategy: systems, process, the search for the right lever. The people in front of you sit in the power game: somebody's line got crossed. No amount of process will touch that until someone names the line. Switch. Draw the line. Do what that game calls for. Then come back.
-
-Or you've been playing power (holding boundaries, staying clear about what you won't accept) while the table has moved to harmony. Now people need to feel heard, now the relationship needs repair, now the work is inclusion rather than confrontation. Switch. Hold the field. Let people be heard.
-
-The switch names the Sage's most deliberate move. It requires knowing all four games well enough to move between them without feeling like you're betraying one for another: the Challenger who can go to harmony without feeling soft, the Diplomat who can go to power without feeling like they abandoned the field.
-
-Chou calls this playing the right game. In *10,000 Hours of Play*, he describes the experienced player as the one who knows when to be serious and when to be playful, when to push and when to yield, when to stay and when to leave, from choice rather than default. The Sage is that player. The choosing comes from having been all of them, not from rising above them.
-
-**Working vs. performed:** Switching becomes inconsistency. The Sage who can't hold a game long enough to be useful isn't practicing the Game-Switcher, they're uncomfortable with commitment. 
-
-**Example:** You are ten minutes into helping Sam plan the week. Sam has stopped answering in sentences. The plan is good. The plan played the wrong game twenty minutes ago. Switch deliberately and say so: *I think I have been solving and you needed me to stay. I can go back to the plan whenever you want it.* Put the notebook down. The week does not get planned. Sam texts you two days later about something unrelated, which stands as the whole result.
-
-**The test:** After you switch, does the new game hold you, or does it keep sending you somewhere else? Stabilizing shows the practice. Being pulled three directions shows the shadow.
-
-
-### Move 3: Return Without Condescension
-
-**What it is:** The Sage's most underrated move, coming back to a narrower game (staying with people in the game they can actually be in) without treating them as less, without making them feel seen-and-judged, without the body language of *if only you could see what I see.*
-
-**Why it matters:** Return as an equal. Return as someone who is *with*, not *above.* The Sage who has seen the whole board and come back returns as a more complete version of themselves rather than a diminished one, because they know where they are and where they've been and can carry both.
-
-The distortion skips this move and stays at the whole-board view, because coming down feels uncomfortable: the view from up there is so much clearer than the view from inside the power game that returning feels like losing something. That's attachment to the view, wearing the view's voice. The whole-board view is always available, including from inside the narrower games, because it works as a capacity rather than a location. You don't have to stay up there to hold it. You have to know you can go back.
-
-**Working vs. performed:** Returning becomes retreating. The Sage who can't hold the view uses the return to avoid the weight of what they saw. *I was too serious up there. Let me come back to where it is simpler.* That's exhaustion calling itself wisdom, doing a passable impression of the Returner. The test: when you return, does it feel like coming home to the people in front of you, or like abandoning the view? Coming home shows the practice.
-
-**Example:** Kit's mother died in March. Kit is still running the same three arguments about the funeral that they ran in April. You can see the whole board, including the part where none of this is about the funeral. Ask what help would feel useful before you name the pattern. If Kit wants to talk about the caterer, talk about the caterer at length, seriously. If Kit asks what you see, offer it as a question they can refuse. The whole board does not give you the right to decide which game Kit can be in this month.
-
-**The test:** Afterward, does the person bring you the next problem, or a version of it they have already tidied? People bring their mess to an equal and their homework to a judge.
-
-### Move 4: Put a Game Down
-
-**What it is:** Identify a game you no longer need to play. A fight you inherited from a version of yourself that needed it. A role you grew past. An identity that was useful once and now keeps you small. Put it down cleanly. It mattered. It is over.
-
-**Why it matters:** The release is harder than it sounds, because games have identity attached. *I am the person who holds this together.* *I am the person who fights for this.* *I am the person who keeps this safe.* The game becomes who you are rather than what you do, so putting it down means sitting with the loss of that: not pretending it didn't matter, letting it be finished.
-
-What the Release stage actually asks is completion rather than ascent. The game ran its course. You learned what it had to teach. The next move isn't up, it's open-handed. Letting go says *this game was mine for a time, and it isn't anymore, and that's allowed.* Giving up never bothers to say anything.
-
-**Working vs. performed:** Putting down becomes giving up. The Sage who keeps dropping games before they've given what they have to give isn't practicing the Liberator, they're practicing avoidance. 
-
-**Example:** You have spent nine years being the person who never misses what everyone else misses. You can name what that bought you: it got you taken seriously at twenty-eight, in an outfit that took nobody seriously at twenty-eight. Say what you learned before you set it down. Then set it down, and let a meeting go past with something unnamed in it. Nobody notices. That is not the same as nothing happening.
-
-**The test:** Can you name what you learned from it before you put it down? If you can't, it was never really yours. If you can, and you put it down anyway, that's the practice.
-
-Do not call it maturity when you simply got tired of being accountable. Do not call it freedom when what you did was leave before the repair.
-
-### Move 5: Hold the Meta Without Losing the Ground
-
-**What it is:** This move runs last, the one that takes years, the one that earns the name.
-
-You can see the whole board. You can name every game. You know which one you're in, which one the moment requires, and which one you just came from. With all of that seen, you can still choose to stand on the board, inside a game, with people playing a different one, who don't see what you see and may never see it.
-
-You can hold the whole-board view inside while your body sits in the power game, in the fight, in the work. You can know that this conflict is one expression of a pattern that recurs everywhere and still draw the line this moment requires. You can know that this relationship is one iteration of a form that will keep recurring and still show up for it fully. You can know you're mortal and the game is older than you and none of this will matter in a hundred years, and still care, not despite knowing, because of it.
-
-**Why it matters:** That's mastery, not instead of choosing but *along with* choosing. Holding the meta means keeping the view and still doing what the view is for. Standing outside costs less.
-
-**Working vs. performed:** It runs the meta without the ground: seeing everything, committing to nothing, the view without the practice. Always above, never in. The real Sage is in it, has skin in it, draws the line and holds the field and builds the structure and stays, and knows which game they're doing it from.
-
-Do not use the meta-view to make yourself unaccountable. If your clarity only makes you harder to pin down, it isn't wisdom yet. It's avoidance with better vocabulary.
+If no: you saw accurately, you named it from their altitude, and they did not want to know. That's also winning, because the work was not asking for the seeing. It was asking for presence. You gave both.
 
 ---
 
-**Example:** Ade has the test result and a fifty percent chance of what killed his father at sixty. He has decided not to tell his brother. You can see the whole of it: the brother's right to know, the family pattern of not saying, the ten years of managing this alone. Hold all of it and stand on the ground: *what do you want to do on Sunday.* The whole board stays available to you and does nothing on the table. Ade decides about his brother.
+## The Practice: Stand in Your Own Ground
 
-**The test:** Name what this game could cost you in the next month. If the whole-board view has left you with nothing at stake, you are standing beside the board rather than on it.
+This is harder than the work before because there is nothing to do and nowhere to go. At table altitude, there are moves—name it, switch games, serve, release, return. At your own altitude, there is only standing.
 
-The moves are what you do. The next question is where.
+**One: Name what you see, then name where you are standing.**
 
----
+Bring a real gathering you are inside right now. One minute of it. You notice something true: a power game, an authority question, a lie everyone is organizing around, something nobody else is naming.
 
-### Where You'll Actually Spend the View
+Name what you see, specifically: "I notice we keep adding criteria" or "I see someone's authority got questioned and we're solving the wrong problem" or "This is harmony stuckness dressed as strategy."
 
-The parable showed one of the four: Raise Awareness. *The Sage could look at the conflict and say: this runs as a boundary issue dressed up in strategy language*, naming the agenda under the agenda in front of the meeting running it. That names the domain where the view stops being yours and becomes something a table has to account for. Naming a group's real subject to the group is where this gift gets heard as its opposite. That makes the domain the Sage's steepest.
+Then name where you are standing: "I am seeing this from somewhere the table is not. I can see it because I have stood where they stand and I have stood where I am standing now. Both are true. My job is not to make them see from here. My job is to use what I see to serve what they came to do."
 
-The view has four domains. One cheap habit imitates all four without being any of them. The cheap habit reaches for the second map. When you look at a live problem, the first framework explains most of it, yet rather than do anything with what it explains, you go and find a framework that explains more. The maps are good, one at a time. Reaching for another one costs you nothing, because nobody at the table has to answer a map. From the inside it looks exactly like taking the problem more seriously, which is why it lasts for years. Nothing at the table moves. The four domains are where the view finally leaves you: the game named to the person inside it, the real agenda said out loud at the table running it, the specific help asked for where the framework was easier, the game a group is stuck in named so the group can move. Each costs more than a map, because each one puts the view where a person other than you can tell whether it helped.
+That sentence is the ground. Stay there.
 
-These four are not a syllabus. Pick where you'll spend the view this week, and pick the domain you keep avoiding. If the view only ever comes back around as a better account of what is happening here, held in your own head and delivered nowhere, you did not make the Sage's move. You mapped it.
+**Two: Say it once, then listen for what they actually need.**
 
-### How to Spend It So It Serves
+You named what you see. The gathering either wants to hear it or it doesn't.
 
-When you spend the view, the minute around it decides whether the table can use what you saw. The same three moves decide it in every domain.
+If it does: they will ask a question or their faces will change. Meet them there. Do not go back up to the view. Do not explain it. Do not offer a framework. Stay at the table's altitude. Use what you see to serve what they are trying to do.
 
-**Say it in the game they are playing, not from the whole board.** One reading has two vocabularies. *We are running a strategy conversation over a power problem* is accurate, but it comes from a place nobody at the table is standing in, so it arrives as a grade. The in-game sentence has to name a particular: what got crossed, who has been waiting since March, what the plan does not cover. Same reading, same size, but the words start where the work is.
+If it doesn't: they will tell you they are fine with the criteria, they just want to know if they can afford it. Or they will go quiet. Or they will defend. Do not make that mean your reading was wrong. It means the gathering is not asking for the seeing right now. Stay anyway. You came to serve, not to be seen. That is still what you are doing.
 
-**Give what the game costs.** Seeing which game somebody is in tells you what would help. It is usually specific and dull: an hour on Thursday, a name said to somebody with authority, a seat held while they say the worst of it, a no said in front of them. The Damaged Self offers a framework instead, because a framework travels across a table without you having to be anywhere, and asks nothing of your calendar. The test is whether what you gave came out of your week.
+**Three: Notice when you are about to leave.**
 
-**Don't go up afterward.** The expensive stretch comes after the naming. The Sage's exit does not use the door. You keep your seat and your pleasant face and you leave by altitude: the table turns into a case and the people turn into material. What staying looks like is small. The next sentence out of you is about the work in front of everyone, not about the pattern you noticed. The exit even has a courteous phrasing, *I'll leave you to sit with that*, only ever spoken on the way out.
+Leaving shows up in three ways. The first is obvious: you stand up and go. The second is less obvious: you stay in the gathering but you check out, you go cold, you stop breathing at the table's level. The third is invisible: you stay and you serve but you are counting the cost, you are waiting to be thanked, you are making them prove that your presence mattered.
 
-**Direct Action — the game named to the person inside it**
+Before you do any of these, ask: am I leaving because the forest is calling me home, or am I leaving because this gathering broke me? One is ground. One is wound.
 
-*You're winning when:* you told the person in front of you which game they were in, in the words of that game and to their face rather than to somebody else afterward, and were still sitting there when they answered. You noticed out loud, and that made you harder to be around. The proof is that they could use it that day.
+If it's wound, stay. Name it: "I'm angry right now and I'm about to leave because I cannot stand being right and unseen." Say it to yourself, not to them. Then stay anyway. You have borne harder things than this. You can bear being a person who sees something and names it and stays while they do whatever they do with it.
 
-**Raise Awareness — the real agenda said at the table**
+If it's ground—if you genuinely recognize you were never meant to stay, you are not standing on the table, your altitude is the forest—then go. And do not apologize for leaving. Do not explain it. Do not come back to prove you were not angry. Go home to your own ground and tend what grows there.
 
-*You're winning when:* you said what the meeting was actually about, the agenda underneath the agenda, in front of the people running it rather than to the two who already saw it. The seat where nobody had to account to you is gone. The proof is that the meeting spent the rest of the hour on the game it was really in.
+**Four: The one rep.**
 
-**Gather Resources — the specific help asked for, not the map**
+You saw something true. You named it in the gathering's own words. You stayed (or you left, recognizing your ground). You did not need them to validate the seeing in order for the seeing to be true.
 
-*You're winning when:* you named what this particular game takes (the hour, the person, the money, the cover) and asked somebody who could grant it or refuse it, instead of the account of the situation you are better at giving. You stopped describing the problem best and paying for none of it. The proof is that the help arrived in a form somebody could use that week.
+Get it down before you talk yourself into the version where you handled it perfectly. What actually happened? Did you name it well or name it badly? Did you stay or did you leave? Did they hear it or did they not?
 
-**Skillful Organizing — the game a group is stuck in, named**
-
-*You're winning when:* you told a group which game it had been playing for a month, while it was still playing it, in the group's own words and without a diagram. They stopped counting you as one of them for a while afterward. The proof is that the group argued about the real game next, which is worse to sit in, though it alone finishes the argument.
-
-### The Tell
-
-None of the four markers asked why you named it. That question is real. It is harder on the Sage than on the five before, because a Sage who names the game so the table will know the game could be named has taken the second map out in public. So the answer goes in your log in writing, where a later you can read it back. When you log the rep, answer it:
-
-- **Direct Action.** Did you name their game so they could move inside it, or so they would know you had seen it?
-- **Raise Awareness.** Could the meeting use what you said, or could it only tell what you are?
-- **Gather Resources.** You asked for the hour, and the account of the problem was sitting right there. Which one were you reaching for?
-- **Skillful Organizing.** The group got unstuck; did it have to be your sentence that unstuck it?
-
-Each Tell targets the Sage's signature failure: the view spent on standing above the table instead of on the people at it.
+Write it down as it was. That's the rep.
 
 ---
 
-## Where the Damaged Self Bites
+## Building the Capacity
 
-You have been running the Five-Move Form since Chapter 3. This chapter walked the five in order. Open Up finds the Sage weakest by design, because witnessing a game from inside it is what the whole-board view makes harder rather than easier. Of the Form's five moves, Grow Up alone asks what the playing does to the player. Show Up is legacy: what remains once you stop holding it.
+This capacity—standing on your own ground and serving from there—runs opposite to table altitude. At table altitude, you prove yourself by being right. Here, you prove yourself by being willing to be wrong and stay anyway. At table altitude, you measure success by being seen. Here, you measure it by work getting done even if nobody knows you were part of it.
 
-A daemon is one rule in force at every move, which means five failures rather than one. The Damaged Self's:
+This is not humility. Humility is a virtue. This is just structural reality. You are standing somewhere else. Most of what you see will not land. That is not a problem with your seeing or your naming. It is a fact about altitude.
 
-**Wake Up.** The signal registers alongside the fact that you noticed it the way you notice everything: the suspect way. The noticing is accurate. It arrives with a footnote about the noticer, a footnote that runs longer than the notice.
+The capacity grows by repetition: name it, stay, notice what happens, repeat. Each time you do it, you learn what your ground actually is. Each time you name something and the gathering does not want to know, you have proof that you are standing somewhere else—and proof that you can know that and stay anyway.
 
-**Open Up.** You can stay with the experience as long as a second process runs underneath, holding the staying to the standard of somebody who doesn't have your problem. The witnessing happens. It happens under audit, which never amounts to the same.
+The Damaged Self will tell you that if you see this clearly and they will not hear it, why do you have this gift? The answer is: because you stood in a gathering with people who wanted to know, and they were listening, and you were the person who could name what was happening because you had stood where you stand and you had stood where they stand. The gift was never about being right. It was about being able to serve from your own ground, knowing most people will never know you were there.
 
-**Clean Up:** asked which channel, it returns the diagnosis instead. *This is my thing* is not Fire, Water, Metal, Earth, or Wood. It's a category that swallows all five, and once it's on the table nothing gets named specifically enough to move.
-
-**Grow Up.** Asked what wants to grow, it answers repair, every time. The capacity that actually wants to grow gets skipped, because a defective instrument doesn't get upgrades, it gets fixed first, by a fixing that has no completion condition.
-
-**Show Up.** It routes to the domain where being built wrong shows least. Usually that's a framework. Usually it's one more map, handed to somebody who asked for a hand.
-
-It bites hardest at Grow Up. The Damaged Self's remit is whether you're built correctly for this, and that question gets settled at the exact moment something asks to develop. The other four moves show that settlement arriving early or arriving late. Once you catch it there, the rest have nothing to propagate from.
-
-Take the move called **Who the Fight Makes You**, the Sage's version of Grow Up. Its question names the one the Damaged Self exists to route around: *what does playing this make me?* Not what's wrong with the player. What the playing builds. The move assumes the instrument works and asks what it's becoming: the assumption the daemon cannot make on its own.
-
-Run it once, on something real. Bring a fight you're carrying right now: an actual one, with people in it. Wake Up: name the game, and notice the footnote about yourself that arrives with it. Open Up: witness one minute of what it's like to be inside this fight, without auditing the witnessing. Clean Up: name the channel as Fire, Water, Metal, Earth or Wood, one of them, and not *my thing.* Grow Up: name what this fight is building in you, stated as a capacity rather than a repair. Show Up: name what you'd leave behind if you stopped playing tomorrow.
-
-Five moves, one pass, ninety seconds. The Sage's version stands alone in the book: here the hard part is refusing to run a second pass.
-
-### From Read to Quest
-
-A reading that ends in a notebook stays a reading you had. A reading that ends in a quest is one you played. Quests come out of Show Up, because that move ends in an artifact: something another person can encounter.
-
-One sentence: what you will do, who it reaches, by when, and what it costs you. *Leave the Game Playable Without You* becomes: **I will write down the three judgment calls I've been making by feel and walk two people through them before the retreat in March, though it will cost me being the one who has to be in the meeting for it to go well.** That's a quest. *I will be less indispensable* is not one; nobody can tell whether you did it, including you.
-
-A live quest does not announce itself through enthusiasm. It's anticipation with some dread underneath. At this altitude the dread usually runs like this: handing it over will prove you were never as necessary as the exhaustion suggested. That happens, and it still doesn't count as a reason.
-
-*Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
-
-### The One Rep
-
-You don't take all five moves into the world this week. You take the one the Sage keeps skipping. You see something true (the game underneath the game, what everyone can feel but nobody says) and instead of holding it, or going up, you say it once, as an offering rather than a verdict. Then you stay while they do whatever they do with it.
-
-That's the whole Sage in a single move: the seeing, said out loud, and the not-leaving.
-
-*You saw it. Then you named it and stayed, or you held it, or you said it from above and watched them flinch. Whatever actually happened: get it down before you talk yourself into the version where you handled it perfectly.*
+That is enough.
 
 ---
 
