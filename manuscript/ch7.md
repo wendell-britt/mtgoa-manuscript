@@ -743,9 +743,9 @@ The structure:
 
 **3. Name what you're not asking for.** Repair is not the same as reconciliation. You are naming what happened and your role in it. You are not asking them to pretend it didn't happen, or to trust you again immediately, or to change their response to it. *"I'm not asking you to feel better about it. I'm not even asking you to trust me again yet. I just needed you to know I know what happened and I know my part."*
 
-**4. Stay.** After you offer the repair, the instinct is to leave: to give them space, to give the moment space. Don't. Stay present through the discomfort of having said it. The staying does the actual repair work.
+**4. Stay.** After you offer the repair, the instinct is to leave: to give them space, to give the moment space. Don't. Stay present through the discomfort of having said it. Your presence through that discomfort is what enables the repair.
 
-Staying does not mean insisting on access after someone has set a boundary. Respect the boundary. Keep changing your part, remain reachable on terms they choose, and let the relationship be as close or as distant as they decide.
+Staying present does not mean pushing past boundaries someone has set. Respect the boundary. Keep changing your part, remain reachable on terms they choose, and let the relationship be as close or as distant as they decide.
 
 **Why it matters:** Ruptures named and repaired build more trust than ruptures that never happened. The repair does not undo the break. It proves that the relationship can survive the break, the only proof that builds confidence in a relationship.
 
@@ -763,11 +763,11 @@ Staying does not mean insisting on access after someone has set a boundary. Resp
 
 **What it is:** Not all positions deserve equal weight. Say so, clearly and without apology, never pretending your refusal is neutral when it chooses a side.
 
-This ranks as the Diplomat's most contested move. The Diplomat's altitude values inclusion. Inclusion can curdle into a relativistic posture where every position is treated as equally valid, where *making space* becomes *giving equal legitimacy to positions that do not deserve it.* The Diplomat who refuses false equivalence holds real inclusion while also refusing to pretend that all framings are equally accurate.
+This ranks as the Diplomat's most contested move. The Diplomat's altitude values inclusion. A Diplomat can turn that commitment to inclusion into its opposite—a posture where every position gets treated as equally valid, where *making space* becomes *giving equal legitimacy to positions that do not deserve it.* The Diplomat who refuses false equivalence holds real inclusion while also refusing to pretend that all framings are equally accurate.
 
 The distinction that matters: the difference between *positions that deserve equal hearing* and *positions that deserve equal endorsement.*
 
-Equal hearing means: everyone gets to speak, everyone gets to feel heard, every perspective present gets space. Relativism names the easy misreading. This carries the basic, precious work of the Diplomat's altitude.
+Equal hearing means: everyone gets to speak, everyone gets to feel heard, every perspective present gets space. A Diplomat can mistake equal hearing for equal endorsement, thinking that giving everyone space to speak means treating all positions as equally valid. This carries the basic, precious work of the Diplomat's altitude.
 
 Equal endorsement means: all positions are treated as equally valid interpretations of reality. This is where the Diplomat's gift curdles. Some positions are not equally valid. Some rest on inaccurate premises. Some require ignoring evidence that others have to live with. Some cause harm that others have to absorb. Treating these positions as if they were equally valid fails discernment, disguised as open-mindedness.
 
@@ -801,9 +801,9 @@ These four are not a syllabus. Pick where you'll spend the close this week, and 
 
 When you close, the sentence and the weeks after it decide whether the terms hold. The same three moves decide it in every domain.
 
-**Name what they stand to lose first.** A term said before they have heard you describe their side accurately gets answered as a charge. An answer spent on themselves never reaches your terms. So say what the other camp is guarding, in one sentence, before you say what you require. You lose the clean drama of coming out with it and you get a field that can answer.
+**Name what they stand to lose first.** A term said before they have heard you describe their side accurately gets answered as a charge. If they direct their energy toward defending their own position instead of hearing yours, if their words go toward protecting themselves instead of receiving what you're saying, your terms never land. So say what the other camp is guarding, in one sentence, before you say what you require. You lose the clean drama of coming out with it and you get a field that can answer.
 
-**Put the cost in the words, not in the delivery.** The account gets signaled long before it gets stated: the pause before you agree, the extra weight on *sure*, the tone that means somebody ought to ask. A signal costs nothing to send and nobody can answer one, because it leaves the field to work the number out alone. The field will work it out low. Say what this is costing, in figures, once. Nobody has ever renegotiated with a sigh.
+**Put the cost in the words, not in the delivery.** The account gets signaled long before it gets stated: the pause before you agree, the extra weight on *sure*, the tone that means somebody ought to ask. A signal costs you something to send—your tone, your presence—but because you haven't named it, the field cannot respond. They have to guess what you mean. They will guess it too low. Say what this is costing, in figures, once. Nobody has ever renegotiated with a sigh.
 
 **Let them say what your staying cost them, and answer that.** A close puts an invitation on the table, accepted the moment somebody tells you what the arrangement cost on their side. That is where the Victim opens the column, on time and exact, and turns a negotiation into a comparison of totals only one person is running. (Chapter 5 has me holding back what I knew in a body I stayed with for years, with the crown under my hood. I told it as a Regent's story. It is one. From here, a second story sits inside it: nobody there ever got to decide whether they wanted what I was carrying, because I never put it where they could refuse it.) You owe their term an answer. Your balance keeps. It has kept for years.
 
@@ -846,7 +846,7 @@ A daemon holds one rule in force at every move, which means five failures rather
 
 **Open Up.** Compassion goes out at full strength in every direction except one. Whatever anyone says about your impact becomes the one subject nobody there can relate to compassionately, because relating to it compassionately would mean holding it as true.
 
-**Clean Up:** it chooses the destination channel that keeps the ledger open, choosing Water over Fire every time. Sadness reads as blameless and asks nothing of anyone; anger would have to make a refusable request.
+**Clean Up:** it chooses the destination channel that keeps the ledger open, choosing Water over Fire every time. Sadness carries no demand; anger would have to make a request someone could refuse.
 
 **Grow Up.** Asked how this affects others, it answers what others will finally understand about what you carried, so growth arrives as vindication. The people the growth is supposed to reach become the audience for the account.
 
@@ -854,7 +854,7 @@ A daemon holds one rule in force at every move, which means five failures rather
 
 Where it bites is Open Up. The Victim's remit is what your having paid entitles you to, an account the ledger settles at the exact moment an impact would arrive. The other four moves are that settlement arriving early or arriving late.
 
-Take the move called **What This Costs the Teller**, the Diplomat's version of Open Up. Its question names the one the Victim exists to route around: *how can I relate compassionately to this?* Pointed not at the situation, not at the people harmed in general, but at the specific person in front of you who is spending something to tell you what you did.
+Take the move called **What This Costs the Teller**, the Diplomat's version of Open Up. This move surfaces the question the Victim refuses to face: *how can I relate compassionately to this person who is telling me what I cost them?* Pointed not at the situation, not at the people harmed in general, but at the specific person in front of you who is spending something to tell you what you did.
 
 Run it once, on something real. Bring the last time someone told you about your impact. Wake Up: name the relational dynamic that was live, not the content but the standing. Open Up: what did it cost them to say it, and stay there for one sentence's worth of time without answering. Clean Up: name the channel you routed to and the one that would have served better. Grow Up: name who is affected by whether you can receive this. Show Up: name the one person who must be involved in what happens next.
 
@@ -866,7 +866,7 @@ A reading that ends in a notebook stays a reading you had. A reading that ends i
 
 One sentence: what you will do, who it reaches, by when, and what it costs you. *Bring Them Into the Structure* becomes: **I will put the two people who have been running intake without a title into the decision that names it, at Thursday's meeting, though it will cost me being the one who explains them to everybody else.** That counts as a quest. *I will be more inclusive in how decisions get made* is not one; nobody can tell whether you did it, including you.
 
-The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For a Diplomat the dread usually says that naming the terms will cost you the belonging. That is occasionally true, but it is not a reason.
+The tell that a quest is alive is not enthusiasm. It is anticipation with some dread underneath it. For a Diplomat, that dread points to something true: naming the terms will cost you the belonging. That is occasionally true, but it is not a reason.
 
 *Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
 
@@ -885,11 +885,11 @@ The tell that a quest is alive is not enthusiasm. It is anticipation with some d
 <!-- /MARGINALIA -->
 
 
-Neutrality reads as the easy guess. The Diplomat's gift holds the capacity to be a partisan who can still hold the field.
+You might assume a Diplomat stays neutral. The Diplomat's gift holds the capacity to be a partisan who can still hold the field.
 
-The belief this chapter came to dismantle is that allyship means never causing harm. It bears the load for anyone who built their presence in this work out of being reliably safe to be around. So it is worth saying plainly what replaces it. Not *I have never caused harm.* Not *I will be more careful.* Something a person can actually stand on: **I can be told what I cost and stay in the conversation afterward.** Every move in this chapter builds an instrument for making that sentence true.
+The belief this chapter came to dismantle is that allyship means never causing harm. This belief carries weight for anyone whose identity rests on being safe to be around. So it is worth saying plainly what replaces it. Not *I have never caused harm.* Not *I will be more careful.* Something a person can actually stand on: **I can be told what I cost and stay in the conversation afterward.** Every move in this chapter builds an instrument for making that sentence true.
 
-You have now met all five stages that form the chapter's spine: Bridge, Translate, Hold, Repair, Negotiate. Each requires a different internal alchemy. The Bridge-Builder moves through the terror of real contact. The Translator transmutes intellectual superiority into faithful interpretation. The Field-Holder stays present through the charge of everyone's discomfort. The Repairer grieves what broke while acting toward its repair. The Integrative Negotiator finds the courage to surface what each party protects and close, not as a threat, not as manipulation, but as a clear, calm, loving act of honest agreement.
+You have now met all five stages that form the chapter's spine: Bridge, Translate, Hold, Repair, Negotiate. Each requires different internal work. The Bridge-Builder moves through the terror of real contact. The Translator transmutes intellectual superiority into faithful interpretation. The Field-Holder stays present through the charge of everyone's discomfort. The Repairer grieves what broke while acting toward its repair. The Integrative Negotiator finds the courage to surface what each party protects and close, not as a threat, not as manipulation, but as a clear, calm, loving act of honest agreement.
 
 Here is what the Diplomat carries forward into the book:
 
