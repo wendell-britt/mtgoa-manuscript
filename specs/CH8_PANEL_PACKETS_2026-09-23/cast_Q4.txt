@@ -1,0 +1,57 @@
+==========================================================================
+CAST — Q4: How does Section 7 answer the belief now stated in Section 2, and what happens to the duplicated belief statement and the Not-X-Not-Y sentences in Section 7?
+==========================================================================
+seed 20261008 (reproducible)
+
+PRIMARY  Hexagram 50 — The Cauldron
+         Fire over Wind   ☲☴
+         Tone: Nourishment & Purification
+
+         the decision's shape as it stands
+
+    6  -----------   young yang
+    5  ---     ---   young yin
+    4  -----------   young yang
+    3  -----------   young yang
+    2  -----------   young yang
+    1  ---     ---   young yin
+
+    You are in the developmental phase. Nourish the inner temple. Nurture the innate talent. Bring forth offerings of sustenance to both the inner temple and to the outer temple of the gods. Be sure to cleanse and purge the cauldron thoroughly of its grime before you cook with it. Good fortune and favors bestowed to the one who first purifies, then alchemizes. The sage has a mission to complete. Establish order. Great Work ahead.
+
+NO CHANGING LINES
+    Nothing is moving. Read this as the situation being stable —
+    which for a scene under review is usually the diagnosis, not
+    the reassurance. A scene with no pressure is McKee's nonevent.
+
+--------------------------------------------------------------------------
+THE TWO TRIGRAMS ON THE TABLE
+--------------------------------------------------------------------------
+  ☴  Wind      (The Subtle Influence) the decision stands on this
+      The strongest change is the one nobody noticed.
+  ☲  Fire      (The Truth Seer)       the decision presents as this
+      Illumination is an act of respect.
+
+--------------------------------------------------------------------------
+THE FACES SPEAK — all six, on both trigrams
+--------------------------------------------------------------------------
+  No face owns a trigram and no face leads. EACH TRIGRAM HAS AN
+  EXPRESSION AT EACH FACE. Ask every face what Wind and Fire
+  look like in its own register, then answer its question.
+
+  🧙  SHAMAN      (Magenta)
+      What is this actually about, underneath what it says?
+  ⚔️  CHALLENGER  (Red)
+      Who refuses, and what does it cost them?
+  🏛️  REGENT      (Amber)
+      What does this commit the season to?
+  🏗️  ARCHITECT   (Orange)
+      What load does this carry that nothing else carries?
+  🌿  DIPLOMAT    (Green)
+      Who is in the room, and whose standing changes?
+  🧠  SAGE        (Teal)
+      Is this the right question?
+
+  See references/six-faces.md.
+
+  The cast proposes. The faces argue. THE AUTHOR DECIDES.
+==========================================================================

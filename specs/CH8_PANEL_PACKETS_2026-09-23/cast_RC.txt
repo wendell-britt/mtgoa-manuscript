@@ -1,0 +1,69 @@
+==========================================================================
+CAST — R-C: Does the Sage belong at the table: qualify the rewrite's 'does not belong' lines, or keep them and amend Section 3's close; and does the restored daemon chapter re-split the merged Sections 4 and 5?
+==========================================================================
+seed 20260927 (reproducible)
+
+PRIMARY  Hexagram 56 — The Wanderer
+         Fire over Mountain   ☲☶
+         Tone: Cautious Integration
+
+         the decision's shape as it stands
+
+    6  -----------   young yang
+    5  ---     ---   young yin
+    4  -----------   young yang
+    3  -----o-----   old yang  <-- CHANGING
+    2  ---  x  ---   old yin  <-- CHANGING
+    1  ---     ---   young yin
+
+    The wanderer is a stranger in a new land; you are the foreigner. Be knowledgeable and cautious. To integrate yourself into the group, be humble, respectful of its hierarchy, and let your humor be tactful. Be dignified. You are not yet familiar with inner politics, so do not engage in gossip and do not publicly declare loyalties just yet. Conceal your assets. Stay guarded and protect yourself from those who want what you have.
+
+CHANGING LINES: 2, 3
+    Read these as the beats under actual pressure. Lines 1-3 are
+    the scene's foundation; lines 4-6 are what it shows the reader.
+
+RELATING  Hexagram 64 — Toward an End
+          Fire over Water   ☲☵
+          Tone: Approaching Completion
+
+          what it becomes if the pressure is followed
+
+    What is to be has not yet come to pass, but as you ford the river, you see the banks on the other side.
+    You are about to peak, but know that after the peak there comes stagnation and then the decline. This is an order that every one must follow, a higher authority that each one of us must yield to. When the king forgets there is higher, that begins the decline. Remember: reaching the top is only the halfway point.
+
+    VALUE TURN: Cautious Integration  ->  Approaching Completion
+    If the scene cannot make that move, the cast is telling you
+    the scene has no turn in it. That is process 1.
+
+--------------------------------------------------------------------------
+THE TWO TRIGRAMS ON THE TABLE
+--------------------------------------------------------------------------
+  ☶  Mountain  (The Still Point)      the decision stands on this
+      Clarity lives in what you refuse.
+  ☲  Fire      (The Truth Seer)       the decision presents as this
+      Illumination is an act of respect.
+
+--------------------------------------------------------------------------
+THE FACES SPEAK — all six, on both trigrams
+--------------------------------------------------------------------------
+  No face owns a trigram and no face leads. EACH TRIGRAM HAS AN
+  EXPRESSION AT EACH FACE. Ask every face what Mountain and Fire
+  look like in its own register, then answer its question.
+
+  🧙  SHAMAN      (Magenta)
+      What is this actually about, underneath what it says?
+  ⚔️  CHALLENGER  (Red)
+      Who refuses, and what does it cost them?
+  🏛️  REGENT      (Amber)
+      What does this commit the season to?
+  🏗️  ARCHITECT   (Orange)
+      What load does this carry that nothing else carries?
+  🌿  DIPLOMAT    (Green)
+      Who is in the room, and whose standing changes?
+  🧠  SAGE        (Teal)
+      Is this the right question?
+
+  See references/six-faces.md.
+
+  The cast proposes. The faces argue. THE AUTHOR DECIDES.
+==========================================================================
