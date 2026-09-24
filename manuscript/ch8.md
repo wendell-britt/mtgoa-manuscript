@@ -525,7 +525,7 @@ The Damaged Self takes all damage. A lot of it has no meaning. The Victim makes 
 
 ### What You Take Out of the Forest
 
-**Escape Artist and Coach** (the Sage, Chapter 8), two halves of one superpower. The Escape Artist quits a game whole: puts down a fight, a role, an identity you once leaned on, without needing the exit to be a verdict on the game or on yourself. The Coach is what the exit makes available. A coach who cannot leave the game is recruiting, whatever they call it, so everything they offer arrives with their own stake attached. The escape comes first for that reason.
+**Escape Artist and Coach** (the Sage, Chapter 8), two halves of one superpower. The Escape Artist quits a game whole: puts down a fight, a role, an identity you once leaned on, without needing the exit to be a verdict on the game or on yourself. The Coach is what the exit makes available. A coach who cannot leave the game is recruiting, whatever they call it, so everything they offer arrives with their own stake attached. So the escape comes first.
 
 The scene staged the Escape Artist's test: you leave from your own ground or from a wound. The case ran on the Coach's test: helpers are also killers, since they kill the state of needing help.
 
@@ -549,7 +549,7 @@ Theirs is doing the same job in a Forest you cannot see into. The daemon in them
 <!-- /MARGINALIA -->
 
 
-The Sage plays the meta-game. Not a game *about* something: the game of knowing which game you're in and choosing to play it.
+The Sage plays the meta-game: the game of knowing which game you're in and choosing to play it.
 
 The whole book has built toward this through-line. You've learned six Faces. You've felt, drawn lines, carried forward, built, held the field, and seen the whole map. Now the question stops being *which face am I being?* and starts being *which game am I designing?*
 
