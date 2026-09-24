@@ -302,7 +302,7 @@ I did what I always do. I doubled down. Made more content. Pushed harder. Got fe
 
 What I said back, when that feedback came, was *you don't think deep introspection and shadow work and uncovering all your hidden motivations is fun?* I meant it. I was having a wonderful time in there. I'd built all of it out of what I found fun without it occurring to me to check whether my fun was anybody else's. Four years on, that sentence still gets a laugh out of me. A second later I feel shame.
 
-I had done everything right except meet people where they were. Then I burned out.
+I was right about the material. Being right kept me from noticing I hadn't met people where they were. I found out by burning out.
 
 I caught myself at the bottom of a depression well. That unnerved me. I hadn't known I was depressed: I'm someone who can keep moving even when I'm sad. The lesson of sadness is: what do I care about, and how far away am I from it? I was very far away. I didn't know how long I had been digging.
 
