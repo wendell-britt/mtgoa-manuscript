@@ -1,6 +1,6 @@
 # Appendix B: Quests & Campaigns
 
-**Status:** Draft — written 2026-06-03 from appendix design spec (`docs/plans/2026-05-21-appendix-design.md`) + per-chapter WB-1 centerpieces + `GATE_GIFTS_ALLYSHIP_MOVES.md`. De-somatized per the no-somatic-prescription directive.
+**Status:** Draft — written 2026-06-03; Quest 7 reconciled to the rebuilt Chapter 8 2026-09-24 from appendix design spec (`docs/plans/2026-05-21-appendix-design.md`) + per-chapter WB-1 centerpieces + `GATE_GIFTS_ALLYSHIP_MOVES.md`. De-somatized per the no-somatic-prescription directive.
 **Authority:** Integral design spec 2026-05-21 (Hex 50, The Cauldron); quest/gate/domain table locked there.
 **Location in book:** After Appendix A; before Appendix C (The Five Channels in Practice).
 
@@ -109,9 +109,9 @@ Each quest names the **shadow** that usually runs the move, the **gift** underne
 
 ***The gift:*** You name the game without leaving the table — make the pattern visible to someone who's still in it, and stay.
 
-1. **See it.** Name the pattern actually running in a space you're in — the game underneath the conversation.
-2. **Say it.** One sentence that makes the game visible to someone caught inside it. Plain, not clever.
-3. **Stay.** Don't drift up after you've named it. Remain at the table. Capture what shifted when you stayed.
+1. **Name it.** Before you say anything, name the game running in a space you're in: power, strategy, harmony or whole-board (the first move in Chapter 8).
+2. **Say it in their game.** One sentence that puts what you see in the words of the game they are playing: what was crossed, who has been waiting, what the plan leaves out. Plain, not clever.
+3. **Stay.** Don't go up afterward. Your next sentence is about the work in front of the group, not the pattern you noticed. Capture what shifted because you stayed.
 
 ---
 
