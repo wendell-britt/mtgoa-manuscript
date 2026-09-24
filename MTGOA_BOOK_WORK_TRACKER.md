@@ -60,7 +60,7 @@ The Sage's wound (Section 1) → distortions without Sage (Section 2) → gift d
 
 **What was added:** New altitude-based framework (260 lines):
 1. **What the Sage Can Do** — Establishes altitude as core gift; invisibility as structural, not pathological
-2. **One Move: Recognize Your Own Altitude** — Three versions showing Safe Self distortions (proving/being seen, taking toys on leaving, doubting the gift) vs. Sage's authentic move (recognizing altitude and serving anyway)
+2. **One Move: Recognize Your Own Altitude** — Three versions showing the Sage's distortions (proving/being seen, taking toys on leaving, doubting the gift) vs. Sage's authentic move (recognizing altitude and serving anyway)
 3. **What It Costs** — The structural cost of standing on different altitude: being perceived as separate, unable to explain the difference, sometimes sacrificing own needs for work that matters
 4. **The Damaged Self in This Practice** — Part that cannot survive standing elsewhere; wants vindication from table's altitude; wants to prove reading matters (when it doesn't matter for their work)
 5. **What You Carry Forward** — Two capacities: knowing own altitude, staying when it doesn't work; the move: offering as equal from altitude they may not stand on
