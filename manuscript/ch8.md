@@ -439,7 +439,7 @@ The cost is that you will know you do not belong at the table while you sit at i
 
 Most of what you see, you believe you see. From up here the table looks like it is organizing around a lie. The choices people make look like they cost more than anyone at the table knows. What you see feels certain. It stays a belief until you go down to where they are and ask what they are weighing. You may be right and it may help. They may tell you they knew and had priced it in. From a distance you cannot tell which.
 
-Staying is harder than it sounds. Part of you wants to blame the table. When the table is broken, you leave and everyone understands. When the table is fine and you just do not belong there, you stay anyway — not to prove anything, because what they came to do matters to you, and you see from somewhere else.
+Staying is harder than it sounds. The distortion wants to blame the table. When the table is broken, you leave and everyone understands. When the table is fine and you just do not belong there, you stay anyway — not to prove anything, because what they came to do matters to you, and you see from somewhere else.
 
 The other cost is this: the people at the table will experience you as separate. They may think you are cold or distant or above them. They will not understand that you are not refusing them — you are just not standing where they stand. You cannot explain it to them. If you try, you have just tried to pull them up to your altitude, which is exactly the move you stopped making. Some of what you feel as their distance comes from the daemons in them that want to stay as they are, answering the damage your help does.
 
@@ -450,15 +450,15 @@ This is where the Damaged Self takes the hit and the Victim tells the story of i
 ---
 
 
-## The Part That Wants to Be Seen
+## When the Distortion Wants to Be Seen
 
-You have a part of you that cannot survive standing somewhere else. When you see the power game and the gathering does not want to know, that part wants to prove you were right. It wants to document what you saw. It wants to pull out a framework that explains it better. It wants to be the Sage who is seen, not just the person standing apart.
+The distortion in you cannot survive standing somewhere else. When you see the power game and the gathering does not want to know, it wants to prove you were right. It wants to document what you saw. It wants to pull out a framework that explains it better. It wants to be the Sage who is seen, not just the person standing apart.
 
-You have to know what this part does so you can stop letting it drive. When the first reading fails to move them, this part reaches for a second map. When the second map does not land, this part tells a story about why they cannot see. It does not rest until you are, in some way, vindicated from the table's altitude. This is what ego sounds like when it cannot accept standing somewhere else.
+You have to know what the distortion does so you can stop letting it drive. When the first reading fails to move them, it reaches for a second map. When the second map does not land, it tells a story about why they cannot see. It does not rest until you are, in some way, vindicated from the table's altitude. This is what ego sounds like when it cannot accept standing somewhere else.
 
 Keep the part of you that reads the gathering accurately. You will need it. That reading is your ground. What you do with that reading is not written. It is what you choose.
 
-That part thinks the reading decides what you are allowed to do. It does not. You are allowed to see the power game and say nothing. You are allowed to see the power game and name it at the table's altitude. You are allowed to see the power game and have the gathering reject your reading. You are allowed to see the power game and leave.
+The distortion thinks the reading decides what you are allowed to do. It does not. You are allowed to see the power game and say nothing. You are allowed to see the power game and name it at the table's altitude. You are allowed to see the power game and have the gathering reject your reading. You are allowed to see the power game and leave.
 
 What you are not allowed to do is need the gathering to validate the reading in order for you to trust it. The game is what it is whether or not they see it. Your altitude is where you stand whether or not they believe you are standing there.
 
@@ -696,7 +696,7 @@ When you spend the view, the minute around it decides whether the table can use 
 
 **Say it in the game they are playing, not from the whole board.** One reading has two vocabularies. *We are running a strategy conversation over a power problem* is accurate, but it comes from a place nobody at the table is standing in, so it arrives as a grade. The in-game sentence has to name a particular: what got crossed, who has been waiting since March, what the plan does not cover. Same reading, same size, but the words start where the work is.
 
-**Give what the game costs.** Seeing which game somebody is in tells you what would help. It is usually specific and dull: an hour on Thursday, a name said to somebody with authority, a seat held while they say the worst of it, a no said in front of them. The part that wants to be seen offers a framework instead, because a framework travels across a table without you having to be anywhere, and asks nothing of your calendar. The test is whether what you gave came out of your week.
+**Give what the game costs.** Seeing which game somebody is in tells you what would help. It is usually specific and dull: an hour on Thursday, a name said to somebody with authority, a seat held while they say the worst of it, a no said in front of them. The distortion offers a framework instead, because a framework travels across a table without you having to be anywhere, and asks nothing of your calendar. The test is whether what you gave came out of your week.
 
 **Don't go up afterward.** The expensive stretch comes after the naming. The Sage's exit does not use the door. You keep your seat and your pleasant face and you leave by altitude: the table turns into a case and the people turn into material. What staying looks like is small. The next sentence out of you is about the work in front of everyone, not about the pattern you noticed. The exit even has a courteous phrasing, *I'll leave you to sit with that*, only ever spoken on the way out.
 
