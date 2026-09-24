@@ -166,7 +166,7 @@ The person you are working with has the same seven, and theirs settle a differen
 
 | Domain | What it can offer the guard on the other side |
 |--------|-----------------------------------------------|
-| Gather Resources | **Protector** — safety you can hand over rather than promise. **Damaged Self** — weight off, and nobody has to account for it |
+| Gather Resources | **Protector** — safety you can hand over rather than promise. **Damaged Self** — weight off, the cost named first, no account demanded |
 | Skillful Organizing | **Controller** — their standard met without them holding every piece of it themselves |
 | Direct Action | **Protector** — your body between them and whatever is coming. **Fixer/Healer** — the repair they chose, finished |
 | Raise Awareness | **Skeptic** — the doubt spoken out loud before anybody spends. **Emotional Body** — witness, which is a domain doing a daemon's job exactly |
@@ -177,7 +177,7 @@ Seven daemons across four domains makes twenty-eight cells: homework rather than
 
 **Skeptic × Raise Awareness.** Ask out loud the question they have suspected and never voiced. A Skeptic ran into a liar once and has stood watch since, so the cheapest clearance you will ever buy is saying what you do not know before they have to ask.
 
-**Damaged Self × Gather Resources.** Take load off, in a form that spares them describing the load. Same domain, same person, a different guard, and a completely different move, which explains why this axis exists.
+**Damaged Self × Gather Resources.** Take load off, in a form that spares them describing the load. Say what the help will cost it before you give it. It takes the hit without a word, so let it refuse. Same domain, same person, a different guard, and a completely different move, which explains why this axis exists.
 
 These pairs are starting defaults, exactly as the affinities above are. Any domain can serve any daemon; a Controller shows up in Direct Action on an ordinary Tuesday.
 
