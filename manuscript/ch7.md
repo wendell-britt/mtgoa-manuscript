@@ -18,7 +18,7 @@
 > **THE SCHOOL OF THE BRIDGE**
 > *Admissions. Filed as required.*
 >
-> **1. Who we are for.** Two applicants, both recorded. One applicant wrote: *I had no leverage
+> **1. Who we are for.** Two applicants, both recorded. One wrote: *I had no leverage
 > and I sat down anyway, and I was frightened the entire time.* Admitted. Another wrote: *I
 > watched a woman bargain with nothing but somebody's goodwill and I said nothing, because it was not my table. I have thought about it since.* Admitted only in combination with the first. One without the other produces a translator with nothing at stake. Several were
 > trained and it did not hold.
