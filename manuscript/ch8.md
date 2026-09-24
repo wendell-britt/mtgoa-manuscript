@@ -499,11 +499,11 @@ Four of my parts spoke when I said I would walk. My Controller held a standard: 
 
 Then we did a shared 321. I held the space and they spoke as the dragon. Under the fight they found a fear of robbery, or of dying. I offered their money back once. They saw that they could help people without fighting the dragon. They could let it sleep and keep doing their work. The story that took the damage came from when they were young: whatever is biggest, hardest and most charged has to be dealt with before allyship counts.
 
-The boundary felt coercive. My actions could look like a child throwing a tantrum. I was partly wrong. I pitched the easy path as a workaround, and choosing it did the dragon work. The client was grateful. After we finished they told me they had been sought out to run for public office.
+The boundary felt coercive. My actions could look like a child throwing a tantrum. I was partly wrong. I pitched the easy path as a workaround. Choosing it did the dragon work. The client was grateful. After we finished they told me they had been sought out to run for public office.
 
 Your Victim keeps a hoard of its own. You do not fire it. The Damaged Self takes the hit. The Victim says it happened. A Sage with no Victim has nobody to name the damage.
 
-Then put a limit on the telling: a telling with no end is how the hoard grows. The Victim gets one telling per hit, said once to whoever was there. You keep the count, because the Victim would split one hit into three. Wrong place, wrong time ends the question. A loud hit earns no second telling. Then silence, and the hearer does what they do with it. A shared 321 can hold a telling for as long as it needs, because someone else holds the space. The limit falls on the solo retelling that recruits sympathy. It costs the Victim the hoard. That limit is deliberate.
+Then put a limit on the telling: a telling with no end is how the hoard grows. The Victim gets one telling per hit, said once to whoever was there. You keep the count, because the Victim would split one hit into three. Wrong place, wrong time ends the question. A loud hit earns no second telling. Then silence. The hearer does what they do with it. A shared 321 can hold a telling for as long as it needs, because someone else holds the space. The limit falls on the solo retelling that recruits sympathy. It costs the Victim the hoard. That limit is deliberate.
 
 *Bring one time your help was received and something in the person went rigid. Name what it did, then write what you would say first if you had it to do again. Two minutes to capture it as a BAR.*
 
@@ -614,7 +614,7 @@ The switch names the Sage's most deliberate move. It requires knowing all four g
 
 Chou calls this playing the right game. In *10,000 Hours of Play*, he describes the experienced player as the one who knows when to be serious and when to be playful, when to push and when to yield, when to stay and when to leave, from choice rather than default. The Sage is that player. The choosing comes from having been all of them, not from rising above them.
 
-**Working vs. performed:** Switching becomes inconsistency. The Sage who can't hold a game long enough to be useful isn't practicing the Game-Switcher, they're uncomfortable with commitment. 
+**Working vs. performed:** Switching becomes inconsistency. The Sage who can't hold a game long enough to be useful is uncomfortable with commitment and switching to get away from it. 
 
 **Example:** You are ten minutes into helping Sam plan the week. Sam has stopped answering in sentences. The plan is good. The plan played the wrong game twenty minutes ago. Switch deliberately and say so: *I think I have been solving and you needed me to stay. I can go back to the plan whenever you want it.* Put the notebook down. The week does not get planned. Sam texts you two days later about something unrelated, which stands as the whole result.
 
@@ -633,7 +633,7 @@ Egan, in *The Skilled Helper*, writes about the helper's presence as the primary
 
 The distortion skips this move and stays at the whole-board view, because coming down feels uncomfortable: the view from up there is so much clearer than the view from inside the power game that returning feels like losing something. That's attachment to the view, wearing the view's voice. The whole-board view is always available, including from inside the narrower games, because it works as a capacity rather than a location. You don't have to stay up there to hold it. You have to know you can go back.
 
-**Working vs. performed:** Returning becomes retreating. The Sage who can't hold the view uses the return to avoid the weight of what they saw. *I was too serious up there. Let me come back to where it is simpler.* That's exhaustion calling itself wisdom, doing a passable impression of the Returner. The test: when you return, does it feel like coming home to the people in front of you, or like abandoning the view? Coming home shows the practice.
+**Working vs. performed:** Returning becomes retreating. The Sage who can't hold the view uses the return to avoid the weight of what they saw. *I was too serious up there. Let me come back to where it is simpler.* That's exhaustion calling itself wisdom. From outside it passes for a return. The test: when you return, does it feel like coming home to the people in front of you, or like abandoning the view? Coming home shows the practice.
 
 **Example:** Kit's mother died in March. Kit is still running the same three arguments about the funeral that they ran in April. You can see the whole board, including the part where none of this is about the funeral. Ask what help would feel useful before you name the pattern. If Kit wants to talk about the caterer, talk about the caterer at length, seriously. If Kit asks what you see, offer it as a question they can refuse. The whole board does not give you the right to decide which game Kit can be in this month.
 
@@ -645,11 +645,13 @@ In the hiring-team scene, Version two turns on this move, split by one question:
 
 **What it is:** Identify a game you no longer need to play. A fight you inherited from a version of yourself that needed it. A role you grew past. An identity that was useful once and now keeps you small. Put it down cleanly. It mattered. It is over.
 
-**Why it matters:** The release is harder than it sounds, because games have identity attached. *I am the person who holds this together.* *I am the person who fights for this.* *I am the person who keeps this safe.* The game becomes who you are rather than what you do, so putting it down means sitting with the loss of that: not pretending it didn't matter, letting it be finished.
+**Why it matters:** Putting a game down is harder than it sounds, because games have identity attached. *I am the person who holds this together.* *I am the person who fights for this.* *I am the person who keeps this safe.* The game becomes who you are rather than what you do, so putting it down means sitting with the loss of that: not pretending it didn't matter, letting it be finished.
 
-What the Release stage actually asks is completion rather than ascent. The game ran its course. You learned what it had to teach. The next move isn't up, it's open-handed. Letting go says *this game was mine for a time, and it isn't anymore, and that's allowed.* Giving up never bothers to say anything.
+Putting a game down means finishing it on the ground. The game ran its course. You learned what it had to teach. Letting go sounds like *this game was mine for a time, and it isn't anymore, and that's allowed.*
 
-**Working vs. performed:** Putting down becomes giving up. The Sage who keeps dropping games before they've given what they have to give isn't practicing the Liberator, they're practicing avoidance. 
+Some games you hold for a group. After you name a boundary in one, ask whether you still have to hold it or whether you named it so someone else could. If you named it so someone else could, say so plainly: the boundary belongs to the group now. Handing it over finishes the naming.
+
+**Working vs. performed:** Putting down becomes giving up. The Sage who keeps dropping games before they've given what they have to give is practicing avoidance in the language of putting a game down. 
 
 **Example:** You have spent nine years being the person who never misses what everyone else misses. You can name what that bought you: it got you taken seriously at twenty-eight, in an outfit that took nobody seriously at twenty-eight. Say what you learned before you set it down. Then set it down, and let a meeting go past with something unnamed in it. Nobody notices. That is not the same as nothing happening.
 
@@ -779,7 +781,7 @@ That's the whole Sage in a single move: the seeing, said out loud, and the not-l
 
 ## The Practice: Stand in Your Own Ground
 
-This is harder than the work before because there is nothing to do and nowhere to go. At table altitude, there are moves — name it, switch games, serve, release, return. At your own altitude, there is only standing.
+This is harder than the work before because there is nothing to do and nowhere to go. At table altitude, there are moves: name the game, switch games, return, put a game down, hold the meta. At your own altitude, there is only standing.
 
 **One: Name what you see, then name where you are standing.**
 
