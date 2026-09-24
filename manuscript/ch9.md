@@ -299,7 +299,7 @@ The course had less than a ten percent completion rate.
 
 I did what I usually do. I doubled down. Made more content. Pushed harder. Got feedback mid-course that it wasn't fun, which meant I had to build a section about finding the source of fun inside a course I'd promised would be fun. The horses ran up to me talking about how thirsty they were. When I brought them to water, they walked away. Turns out thirst and wanting to drink are not the same.
 
-What I said back, when that feedback came, was *you don't think deep introspection and shadow work and uncovering all your hidden motivations is fun?* I meant it. I was having a wonderful time in there. I'd built all of it out of what I found fun without it occurring to me to check whether my fun was anybody else's. Four years on, that sentence still gets a laugh out of me. A second later I feel shame.
+What I said back, when that feedback came, was *you don't think deep introspection and shadow work and uncovering all your hidden motivations is fun?* I was having a wonderful time in there. I'd built all of it out of what I found fun without it occurring to me to check whether my fun was anybody else's. Four years on, that sentence still gets a laugh out of me.
 
 I was right about the material. Being right kept me from noticing I hadn't met people where they were. I found out by burning out.
 
