@@ -96,7 +96,7 @@ Locators are chapter and section rather than page. **Bold** marks where a term i
 
 **Design for Handoff** — Ch 6 §6, Ch 9 §7
 
-**Draw the Line** — Ch 4 §6, Ch 4 §7, Ch 7 §4, Ch 8 §1, Ch 8 §3, Ch 8 §6, Ch 9 §4
+**Draw the Line** — Ch 4 §6, Ch 4 §7, Ch 7 §4, Ch 8 §1, Ch 8 §6, Ch 9 §4
 
 **Entrust Without Clinging** — Ch 5 §6
 
@@ -222,7 +222,7 @@ Locators are chapter and section rather than page. **Bold** marks where a term i
 
 **Kaptchuk, Ted** — App G
 
-**Laloux, Frederic** — App G
+**Laloux, Frederic** — Ch 8 §3, App G
 
 **Levine, Peter** — Ch 3 §4, App G
 
