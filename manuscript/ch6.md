@@ -179,13 +179,13 @@ Answer that pain. The person in it names the answer, not you. Ask, then supply w
 
 Then watch what the answer draws down. You hold a limited amount of standing with the people who own the design, and you are saving it for the bridge. Most relief draws on none of it. Printing the document takes ten minutes and nobody has to agree to anything. Some relief draws heavily. Getting somebody the money this week can mean using the one ask you hold with the person who could change the rule. Use it there and the bridge stays broken.
 
-If you leave someone hurting while you chase the redesign, you are the systems guy — slower, but the same place. When you hand someone a fix they never asked for, you have not helped them. You have practiced on them.
+If you leave someone hurting while you chase the redesign, you are the systems guy: slower, but the same place. When you hand someone a fix they never asked for, you have not helped them. You have practiced on them.
 
 Other pain runs deep. The same hurt keeps arriving, to different people, in the same place. Now you ask why people keep going in the water here, rather than who went in this time.
 
 Usually the bridge is already there. Someone has to walk upstream far enough to see it.
 
-Relief does nothing about a broken bridge. That does not make the relief false. It reaches the wound. It never reaches what opened the wound. When relief is the only tool, mastery comes — mastery of treatment, never of cause. Eight years of that builds a long record of care and an immunity to its failure. The bridge stays broken.
+Relief does nothing about a broken bridge. That does not make the relief false. It reaches the wound. It never reaches what opened the wound. When relief is the only tool, mastery comes: mastery of treatment, never of cause. Eight years of that builds a long record of care and an immunity to its failure. The bridge stays broken.
 
 **Do both, in that order. Relieve the pain now. Then walk up and look at the bridge.**
 
@@ -265,7 +265,7 @@ Some impact you can point at. The template gets fixed. The regulation gets signe
 
 Other impact decides whether anybody is better off. Whether Meera stopped being a standing exception. Whether the volunteer who fronted forty pounds feels like a member instead of a supplicant. Whether the work is now something a person can do without spending themselves to do it.
 
-A good design produces the first. The second — whether anybody is better off — is why the Architect designs anything. It's what this chapter teaches you to hold onto. Without the second, design becomes the system guy's optimization: metrics climbing while people suffer underneath. They come apart, and when they do, only the first one reaches the report. An Architect who cannot separate them will drive a system into perfect compliance and leave everybody inside it worse off, on time, under budget, with the metrics green.
+A good design produces the first. The second, whether anybody is better off, is why the Architect designs anything. It's what this chapter teaches you to hold onto. Without the second, design becomes the system guy's optimization: metrics climbing while people suffer underneath. They come apart, and when they do, only the first one reaches the report. An Architect who cannot separate them will drive a system into perfect compliance and leave everybody inside it worse off, on time, under budget, with the metrics green.
 
 Every move in this chapter exists to keep those two attached.
 
@@ -426,9 +426,9 @@ Then hold the flinch. Somebody will hear it as criticism: that's the cost, and y
 
 I built a spreadsheet to track my moods. Inside a week I was having the moods that made the chart look better.
 
-You met the daemon in Section 3: the Emotional Body working unseen in the Architect's practice — one sense that warns when a design costs more than it returns, when invisible support had to be withheld or a structure fell apart. When an Architect cannot feel who stands underneath such a design, coldness is not the problem — the absence of warning is.
+You met the daemon in Section 3: the Emotional Body working unseen in the Architect's practice, one sense that warns when a design costs more than it returns, when invisible support had to be withheld or a structure fell apart. When an Architect cannot feel who stands underneath such a design, coldness is not the problem; the absence of warning is.
 
-Now watch what happens when that daemon works inside you, in the architecture of your own decisions. It converts a signal into a proposal before you finish feeling it. A feeling never gets read — it only gets spent.
+Now watch what happens when that daemon works inside you, in the architecture of your own decisions. It converts a signal into a proposal before you finish feeling it. A feeling never gets read; it only gets spent.
 
 You met the Emotional Body at the door of the Forest, fifth in line, one step past the Fixer. It does not belong in that line the way the others do.
 
