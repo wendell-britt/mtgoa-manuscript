@@ -80,8 +80,7 @@ conclusions.*
 
 — fourth-years, on the ones who go
 
-*She came back once, for a day, and did not stay. I have her map on the wall. It is wrong now
-and I have not replaced it.*
+*She came back once, for a day, then left again. I have her map on the wall. It is wrong now. I have not replaced it.*
 
 — Sethen, dock office
 """,
@@ -126,8 +125,7 @@ what you believe, what the other side needs, and what would make staying here di
 find the third one strange. It is the only one Elian reads.*
 
 *They used to be the person the story was about. They will tell you the year they stopped. They
-will not tell you what it cost, and I have watched them decline to tell four separate people —
-warmly, in a way that left each of them feeling included in the refusal.*""",
+will not tell you what it cost. I have watched them decline to tell four separate people, warmly, in a way that left each of them feeling included in the refusal.*""",
 }
 
 # (anchor, note_text) — anchors verified unique 2026-07-28
@@ -253,10 +251,6 @@ they have noticed.*
 one — a small one, correctly aimed. The Architects who last are the ones who stopped pretending
 otherwise, because a person who denies the accusation has to keep the map vague to make the
 denial hold.*"""),
-("Not the job description", """*Skip the incentive question. Ask who would have to be brave for the stated outcome to happen.
-Same answer, arrives faster, and you will have it in your chest before you can get it onto paper.*
-
-*Irix will tell you that is the same question. On a map it is. In a meeting it is not.*"""),
 ("<!-- SECTION 4 -->", """*A council I put in at had surveyed its people about exhaustion. The people, being honest, said
 yes. A rest hour appeared on the shared calendar, placed at the only hour nobody had claimed — and
 nobody had claimed it because it was the only hour anything got done.*
@@ -287,14 +281,12 @@ NOTES[7] = [
 have not stated was a set of terms I had already decided somebody would find unreasonable — which
 means I ran their side of the conversation for them, alone, and then held the result against
 them.*"""),
-("Polarity Encounter — Care", """*Elian's blind spot lives in this polarity, and it is the only blind spot on this staff that has
-cost somebody other than its owner.*
+("Polarity Encounter — Care", """*Elian's blind spot sits in this polarity. It is the one blind spot on this staff that has cost somebody other than its owner.*
 
 *They stay. They have stayed in company that had already chosen harm, well past the point where
 staying did anything but lend that company their reputation. They know this. They will tell you the
-walk-away terms are the hardest lesson they teach because they are the one they are worst at,
-and then they will teach them better than anyone alive.*"""),
-("the truth rather than an interpretation", """*Elian's fix is humility, and humility is the right fix for the ordinary case. The harder one
+walk-away terms are the hardest lesson they teach, because it is the one they are worst at. Then they will teach it better than anyone on this staff.*"""),
+("feel like truth rather than interpretation.", """*Elian's fix is humility, and humility is the right fix for the ordinary case. The harder one
 arrives with two names.*
 
 *After some deliberation the committee agreed to avoid the word condescension, on the grounds of
@@ -303,7 +295,7 @@ there be no mistake about what it covers: meeting somebody where they are can me
 where they are, and if you do not do it gracefully enough they will feel talked down to — because
 they are being talked down to, and grace is the only variable.*
 
-*I looked for a way around this for a long time. The reasoning runs: if everyone is equal, then
+*I looked for a way around this for a long time. I proposed this reasoning: if everyone is equal, then
 stepping down is a category error, and there ought to be some formulation that carries the meaning
 without the step. I built several. They were elaborate. One of them had stages.*
 
@@ -357,8 +349,7 @@ any longer.*
  "Maera Voss, School of the Body"),
 
 ("<!-- SECTION 2 -->", """*A partial list of what this school runs on that exists nowhere in writing: the intake sequence,
-the reason we stopped the second-year review, four agreements with three worlds, and the whole of
-what we do when a student leaves badly.*
+the reason we stopped the second-year review, four agreements with three worlds, and what we do when a student leaves badly.*
 
 *All of it is in his head. I have asked him twice to write it down. He says he will. He is very
 busy.*
@@ -370,9 +361,7 @@ busy.*
 before entering a difficult conversation. He has stated one for me. He stated one for Maera, and for two
 students I will not name. He is better at it than I am, and I teach it.*
 
-*He has never stated one for himself. So we have written one for him. It is short and it has a
-date on it, and he will find it unreasonable, and he will comply — because he taught us that a
-term stated plainly is not a negotiation.*""",
+*He has never stated one for himself. So we have written one for him. It is short and it has a date on it. He will find it unreasonable and comply, because he taught us that a term stated plainly closes the discussion.*""",
  "Elian Cross, School of the Bridge"),
 
 ("The Damaged Self, Up Close", """*I ask every student to draw the system and then name whose face disappeared from the diagram.*
@@ -385,7 +374,7 @@ that Sera had seen it in the spring, and Maera the year before that.*
 oversight anyone can lay at his door.*""",
  "Irix Vale, School of the Pattern"),
 
-("Why the Defect Story Always Sounds Like Humility", """*I held a verdict open once for four days. Everyone tells that story. Nobody tells the part where
+("Both are information.", """*I held a verdict open once for four days. Everyone tells that story. Nobody tells the part where
 somebody stood in front of a very angry hall for four days holding nothing, and it was him, and
 when I asked afterwards whether it had been difficult he said the hall had been reasonable.*
 
@@ -415,9 +404,7 @@ I have given the school every time since.*
 *This is home. I have gone this far without the word and I would have gone the rest of the way.*
 
 *I am fine. I want that in my own hand, since six people have now put the opposite in writing and
-been courteous about it. I am fine, and I am still paying for this, and both are true on the same
-day. That is the one lesson I have that none of them can teach you, and it took all six of them
-writing in here to get me to set it down.*""",
+been courteous about it. I am fine, and I am still paying for this. That is the one lesson I have that none of them can teach you. It took all six of them writing in here to get me to set it down.*""",
  None),
 ]
 
@@ -427,8 +414,7 @@ POSTCARD = """*Bram —*
 
 *The galley here is badly organised. Nobody is fixing it.*
 
-*Eleven students. Two impossible, one of those will be very good. Tell Sera I have started a new
-record and it is already in my head, which she will find annoying.*
+*Eleven students. Two are impossible. One of those will be very good. Tell Sera I have started a new record. It is already in my head. She will find that annoying.*
 
 *The word for what we do here is not flattering. I have started using it.*
 
@@ -490,7 +476,7 @@ RECORDS = {
 *Third note, added this year. I can pass an inheritance intact and named, which is the whole of what this school claims. I have not learned to hand one to somebody who will change it without entering the change as damage, and my own ledgers are the reason that is hard.*"""),
     ],
     7: [
-        ('That decision names a specific misuse accurately.',
+        ('She names a specific misuse accurately.',
          """*Case forty-one. Both transcripts, hers first.*
 
 *She said: I need you to stop. Later, to me: I thought I was asking.*
@@ -501,7 +487,7 @@ RECORDS = {
 
 *I will not say which of them was right. Forty-one cases and I have not said it once.*
 
-*The terms I wrote at that table have held eleven years. Nobody has mentioned them. I notice that I have written that down. Whether wanting the sentence is a defect in me or a condition of the work is the open question here, and I am the wrong person to settle it.*"""),
+*The terms I wrote at that table have held eleven years. Nobody has mentioned them. I notice that I have written that down. Whether wanting the sentence is a defect in me or a condition of the work is the open question here. I am the wrong person to settle it.*"""),
     ],
 }
 
@@ -654,68 +640,47 @@ Head of the School of the Pattern""",
     7: """**THE SCHOOL OF THE BRIDGE**
 *Admissions. Filed as required.*
 
-**1. Who we are for.** Two positions, both recorded. One applicant wrote: *I had no leverage
+**1. Who we are for.** Two applicants, both recorded. One wrote: *I had no leverage
 and I sat down anyway, and I was frightened the entire time.* Admitted. Another wrote: *I
-watched a woman bargain with nothing but somebody's goodwill and I said nothing, because it
-was not my table, and I have thought about it since.* Admitted, and only in combination with
-the first. One without the other produces a translator with nothing at stake. Several were
+watched a woman bargain with nothing but somebody's goodwill and I said nothing, because it was not my table. I have thought about it since.* Admitted only in combination with the first. One without the other produces a translator with nothing at stake. Several were
 trained and it did not hold.
 
-**2. What you will be able to do when you leave.** Name what each party is protecting,
-aloud, including the party judged to be wrong. Consequence: a conversation stops being about
-who is right roughly four minutes earlier than it did before, and four minutes is more than
-it sounds.
+**2. What you will be able to do when you leave.** Name aloud what each party is protecting, including the party the others judge wrong. Consequence: a conversation stops being about
+who is right roughly four minutes earlier than it used to. Four minutes is more than it sounds.
 
 **3. What it costs.** Acknowledgement. A student once put it this way at the end of her
-fourth year: *the terms held and nobody knew I wrote them, and I did not expect to mind, and
-I mind.* She was right to say so and no version of this training removes it. Those who came
-for the thanks have suffered as a result.
+fourth year: *The terms held. Nobody knew I'd written them.* She was right to say so. No version of this training removes it. Those who came for the thanks were disappointed.
 
 **4. What we do not teach.** How to make terms outlast the people who agreed to them. This
 school gets the agreement. It cannot get the century. Such cases go to the School of the
-Oath, which can, and which will be dry about it.
+Oath, which specializes in agreements that outlast the people who made them. That school holds hard terms as written.
 
 **5. Entry.** Prior standing at the School of the Pattern. The design producing the pressure
 must be visible before one sits down inside the pressure, or the negotiation will be with a
 person about a machine.
 
 **6. A word from the Head.** The terms hold. Whether wanting the sentence is a defect in me
-or a condition of the work is the open question here, and I am the wrong person to settle
-it.
+or a condition of the work is the open question here. I am the wrong person to settle it.
 
 Elian Cross, Keeper of the Walk-Away Terms,
 Head of the School of the Bridge""",
     8: """**THE SCHOOL OF THE HORIZON**
 *Admissions. Filed as required, and late.*
 
-**1. Who we are for.** Maera would say we take the person who has stopped registering their
-own signal, and Corin would say we take the person who cannot spend a line, and both are
-describing the same applicant from inside their own school, which is the difficulty with
-this document and with us. We take the one who has sat with something that would not resolve
-and did not try to close it, and who has also been sat with, once, by somebody who fixed
-nothing, and can still describe the afternoon.
+**1. Who we are for.** Maera would say we take the person who has stopped registering their own signal. Corin would say we take the person who cannot spend a line. Both describe the same applicant from inside their own school. We take the one who has sat with something that would not resolve and did not try to close it. That applicant has also been sat with, once, by somebody who fixed nothing, and can still describe the afternoon.
 
-**2. What you will be able to do when you leave.** We teach the telling of which school a
-moment belongs to, and the handing of it over, which is most of what we do and reads to
-visitors as doing nothing. The consequence is that the people we send arrive at the right
-school on the first attempt rather than the third, and Irix will tell you what the first two
-cost.
+**2. What you will be able to do when you leave.** We teach the telling of which school a moment belongs to, and the handing of it over. Most of what we do reads to visitors as doing nothing. The people we send arrive at the right school on the first attempt. Irix will tell you what the first two attempts cost.
 
-**3. What it costs.** Range, which sounds like a gift when we say it. We stop being simply
-at home in any one school, including the one we came from, and I have watched that arrive as
-loss in students who expected freedom. Those who came to be above the other
+**3. What it costs.** Range, which sounds like a gift when we say it. We stop being simply at home in any one school, including the one we came from. In students who expected freedom, that arrives as loss. Those who came to be above the other
 five have suffered as a result, and left, and one has come back.
 
 **4. What we do not teach.** Any of it. We do not teach the reading, the line, the keeping,
-the design, or the terms. We teach which of the five a moment is asking for, and then we
-send, and the sending is the entire curriculum. All five take our referrals and Sera is dry
+the design, or the terms. We teach which of the five a moment is asking for, then we send. The sending is the entire curriculum. All five take our referrals and Sera is dry
 about ours in particular.
 
-**5. Entry.** Standing at all five. There is no way to shorten this and we are asked every
-year.
+**5. Entry.** Standing at all five. There is no way to shorten this. We are asked every year.
 
-**6. A word from the Head.** I have read all five schools for thirty years and nobody has
-read me, which I arranged, and which I am now told is a course I never took. I am the oldest
+**6. A word from the Head.** I have read all five schools. None of them has read me. I arranged that. I am now told it is a course I never took. I am the oldest
 first-year here. That is a joke and it is also the timetable.
 
 Thalen Orr, Keeper of the Far Game,
