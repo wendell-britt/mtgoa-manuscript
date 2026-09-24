@@ -293,7 +293,7 @@ So before you trust the view, check what gives it away. Are you in it, or watchi
 
 The Sage's gift is knowing her own altitude. She knows that most of what she sees is invisible from the table.
 
-You have been all four games. You recognize the moment when one shifts — when people stop playing harmony and start playing power, when the relational layer rises and the strategy layer drops. You know the difference because you have felt all four games from inside, the way they move in the body, the way they change what people reach for.
+You have been all four games. You recognize the moment when one shifts: when people stop playing harmony and start playing power, when the relational layer rises and the strategy layer drops. You know the difference because you have felt all four games from inside, the way they move in the body, the way they change what people reach for.
 
 The shift itself is what they will not see. They are inside the game. You are outside it. The move you see from your own ground cannot be seen from the table. This is not because you are right and they are wrong. This is because you are standing somewhere else.
 
@@ -325,9 +325,9 @@ You notice the shift. You feel the gathering organizing around a lie. You could 
 
 Here is what matters: are you leaving because your own ground is calling you home, or are you leaving because the gathering broke you?
 
-If you leave because the gathering will not see you, because your reading is too brilliant and they could not hold it, because staying means dissolving into invisibility — then you are leaving wounded. You are taking your toys with you. The gathering will feel your withdrawal as punishment, because it is. You needed them to see you from the table's altitude, but they could not. You are gone. You have made their limitation about you.
+If you leave because the gathering will not see you, because your reading is too brilliant and they could not hold it, because staying means dissolving into invisibility, then you are leaving wounded. You are taking your toys with you. The gathering will feel your withdrawal as punishment, because it is. You needed them to see you from the table's altitude, but they could not. You are gone. You have made their limitation about you.
 
-If you leave because you recognize you are not standing on the table, because you were never meant to stay, because your actual ground is elsewhere — then you are leaving the way you leave a garden you were tending that is not yours. You go back. You do not need the gathering to apologize or to realize what they lost. You just go home.
+If you leave because you recognize you are not standing on the table, because you were never meant to stay, because your actual ground is elsewhere, then you are leaving the way you leave a garden you were tending that is not yours. You go back. You do not need the gathering to apologize or to realize what they lost. You just go home.
 
 **Version three: You recognize the altitude and you stay anyway.**
 
@@ -416,9 +416,9 @@ The cost is that you will know you do not belong at the table while you sit at i
 
 Most of what you see, you believe you see. From up here the table looks like it is organizing around a lie. The choices people make look like they cost more than anyone at the table knows. What you see feels certain. It stays a belief until you go down to where they are and ask what they are weighing. You may be right and it may help. They may tell you they knew and had priced it in. From a distance you cannot tell which.
 
-Staying is harder than it sounds. The distortion wants to blame the table. When the table is broken, you leave and the reason is plain. When the table is fine and you just do not belong there, you stay anyway — not to prove anything, because what they came to do matters to you, and you see from somewhere else.
+Staying is harder than it sounds. The distortion wants to blame the table. When the table is broken, you leave and the reason is plain. When the table is fine and you just do not belong there, you stay anyway, not to prove anything, because what they came to do matters to you, and you see from somewhere else.
 
-The other cost is this: the people at the table will experience you as separate. They may think you are cold or distant or above them. They will not understand that you are not refusing them — you are just not standing where they stand. You cannot explain it to them. If you try, you have just tried to pull them up to your altitude, which is exactly the move you stopped making. Some of what you feel as their distance comes from the daemons in them that want to stay as they are, answering the damage your help does.
+The other cost is this: the people at the table will experience you as separate. They may think you are cold or distant or above them. They will not understand that you are not refusing them: you are just not standing where they stand. You cannot explain it to them. If you try, you have just tried to pull them up to your altitude, which is exactly the move you stopped making. Some of what you feel as their distance comes from the daemons in them that want to stay as they are, answering the damage your help does.
 
 The hardest cost: sometimes you will stay when your own ground is calling. Sometimes you will give what you have to a gathering that cannot hold it, because the work matters. You have to know the difference between a choice you made from your own ground and a sacrifice you are making from the table's altitude.
 
@@ -786,7 +786,7 @@ Before you do any of these, ask: am I leaving because my own ground is calling m
 
 If it's wound, stay. Name it: "I'm angry right now and I'm about to leave because I cannot stand being right and unseen." Say it to yourself, not to them. Then stay anyway. You have borne harder burdens than this. You can bear being a person who sees something and names it and stays while they do whatever they do with it.
 
-If it's ground — if you recognize you were never meant to stay, you are not standing on the table, your altitude is your own ground — then go. Do not apologize for leaving. Do not explain it. Do not come back to prove you were not angry. Go home to your own ground and tend what grows there.
+If it's ground (you recognize you were never meant to stay, you are not standing on the table, your altitude is your own ground), then go. Do not apologize for leaving. Do not explain it. Do not come back to prove you were not angry. Go home to your own ground and tend what grows there.
 
 **Four: The one rep.**
 
