@@ -41,7 +41,7 @@ You are not analyzing them. You are describing the figure your nervous system ha
 
 **Action:** Address the figure directly, as if they're sitting across from you. Ask questions. Let them answer. This plays out as dialogue, not monologue: the answers don't have to be polite.
 
-If you get stuck, use the six unpacking questions: *What do you want? What do you need? What are you afraid of? What would have to be true for someone to feel this way?* The goal is to hear the inner logic of the part in its own language.
+If you get stuck, use the four unpacking questions: *What do you want? What do you need? What are you afraid of? What would have to be true for someone to feel this way?* The goal is to hear the inner logic of the part in its own language.
 
 *Example:*
 

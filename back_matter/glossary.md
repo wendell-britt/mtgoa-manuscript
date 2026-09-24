@@ -56,7 +56,8 @@ joystick. There are seven of them. A daemon you befriend joins your party; one l
 saboteur. *Ch 2 §6*
 
 **Damaged Self, the** — The daemon that takes the damage when nothing else can keep a hit
-out. The Protector's last resort. *Ch 2 §6*
+out. The Protector's last resort and the Vulnerable Child's last defense: it takes the hit
+without a word, and the Victim tells the story afterward. *Ch 2 §6; Ch 8 §2 and §5*
 
 **Diplomat, the** — The Face that keeps people at the table who should have walked out an
 hour ago. Means: nobody left the table. *Ch 7*
@@ -64,7 +65,7 @@ hour ago. Means: nobody left the table. *Ch 7*
 **Distortion, the** — A gift turned against the people it was meant to serve. Yours is a
 Face running from disowned material instead of being chosen. The village's is what the
 villagers do with a Face's work once the Face is gone: the gift collapsed into its shadow.
-*Ch 2 §1 for yours; Ch 3 §2 and once per chapter for theirs*
+*Ch 2 §1 for yours; Ch 3 §4 and once per chapter for theirs*
 
 **Emotional alchemy** — Staying with a feeling long enough to understand what it is saying,
 and letting the body finish the cycle, rather than converting the feeling into action. *Ch 3 §3*
