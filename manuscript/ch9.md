@@ -141,7 +141,7 @@ The practice: Name it. Give it a name specific to you, specific to your village,
 
 The Founder and the Architect do different work. The Architect designs systems for others to use. The Founder uses all six Faces to build a specific practice of their own. The Founder says, at the end of it: *I've been through all of this. Here's what I made with it.*
 
-This book is my Founder move. I built what I needed and couldn't find: a practice you could run, that makes the emotional alchemy mechanical and gives the six Faces a context. I didn't design it as a product. I designed it because I could see the gap and I couldn't stop seeing it. In Founder you see something that needs to exist. It has not been built. You build it yourself or it stays missing.
+This book is my Founder move. I built what I needed and couldn't find: a practice you could run. It makes the emotional alchemy mechanical and gives the six Faces a context. I didn't design it as a product. I designed it because I could see the gap and I couldn't stop seeing it. In Founder you see something that needs to exist. It has not been built. You build it yourself or it stays missing.
 
 If that describes you, the offer sits at the end of this book, where the walk finishes.
 
@@ -419,7 +419,7 @@ You are ready to be useful.
 
 *The Fixer/Healer showed up in your building and pointed at something specific: an obstacle, a gap, something that needs to be cleared before the next move, and not a person. What's the specific obstacle the Fixer identified? And: is it in the way of the build, or is it a distraction from it?*
 
-*The Victim showed up in your building with a story about why it won't work, why you don't have what it takes, why this has failed before. Write the story exactly as the Victim tells it. Then: what is that story circling, and what does the Cauldron need to transform?*
+*The Victim showed up in your building with a story about why it won't work, why you don't have what it takes, why this has failed before. Write the story exactly as the Victim tells it. Then: what is that story circling? What cost is it asking you to be paid for?*
 
 *The Emotional Body showed up at this point in the build. Set the work aside for a second. What is actually running in you, underneath the project? Anger, fear, sadness, joy, or neutrality: name the one that's alive before the work is finished. It's carrying information about what this moment actually is.*
 
@@ -474,7 +474,7 @@ One person is also the smallest ask you can make of anybody's Protector. An audi
 
 **What it is:** Receiving the piece of feedback that cannot be absorbed without rebuilding something you already made, and rebuilding it.
 
-**Why it matters:** Most feedback is cheap to accept. It adjusts wording, adds a caveat, moves a step. The note that matters says the structure is wrong. It tends to arrive sounding like an insult, because it costs the builder the most. The Player's entire claim is that they built something rather than collected something, and the proof of that claim is what happens the first time the build gets contradicted. Refuse to let anyone break a design and you have a possession.
+**Why it matters:** Most feedback is cheap to accept. It adjusts wording, adds a caveat, moves a step. The note that matters says the structure is wrong. It tends to arrive sounding like an insult, because it costs the builder the most. The Player's entire claim is that they built something rather than collected something, and the proof of that claim is what happens the first time the build gets contradicted. Refuse to let anyone break a design and it becomes a possession.
 
 In practice: separate the note from the person delivering it, because your first instinct will be to disqualify the person. Ask one question before responding to any hard note: *if this were true, what would I have to change?* Answer that before you decide whether it is true. Deciding first is how you avoid finding out.
 

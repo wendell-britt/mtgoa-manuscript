@@ -18,8 +18,7 @@
 > **THE SCHOOL OF THE BRIDGE**
 > *Admissions. Filed as required.*
 >
-> **1. Who we are for.** Two applicants, both recorded. One wrote: *I had no leverage
-> and I sat down anyway, and I was frightened the entire time.* Admitted. Another wrote: *I
+> **1. Who we are for.** Two applicants, both recorded. One wrote: *I had nothing to bargain with and sat down anyway, frightened the entire time.* Admitted. Another wrote: *I
 > watched a woman bargain with nothing but somebody's goodwill and I said nothing, because it was not my table. I have thought about it since.* Admitted only in combination with the first. One without the other produces a translator with nothing at stake. Several were
 > trained and it did not hold.
 >
@@ -37,8 +36,7 @@
 > must be visible before one sits down inside the pressure, or the negotiation will be with a
 > person about a machine.
 >
-> **6. A word from the Head.** The terms hold. Whether wanting the sentence is a defect in me
-> or a condition of the work is the open question here. I am the wrong person to settle it.
+> **6. A word from the Head.** The terms hold. Whether wanting the sentence reveals a defect in me or a condition of the work stays open here. I am the wrong person to settle it.
 >
 > Elian Cross, Keeper of the Walk-Away Terms,
 > Head of the School of the Bridge
@@ -141,7 +139,7 @@ She names a specific misuse accurately. That accuracy explains why she has not b
 >
 > *I will not say which of them was right. Forty-one cases and I have not said it once.*
 >
-> *The terms I wrote at that table have held eleven years. Nobody has mentioned them. I notice that I have written that down. Whether wanting the sentence is a defect in me or a condition of the work is the open question here. I am the wrong person to settle it.*
+> *The terms I wrote at that table have held eleven years. Nobody has mentioned them. I notice that I have written that down. Whether wanting the sentence reveals a defect in me or a condition of the work stays open here. I am the wrong person to settle it.*
 <!-- /HANDBOOK -->
 
 Honest terms work as the opposite instrument. **A term states what this field must hold for your staying to remain real, offered as information, once, to the people who are then free to answer.** It names a fact about the arrangement. It arrives while anyone still has time to do something with it.
@@ -285,7 +283,7 @@ The anxiety becomes history rather than prophecy, and converts into the clean at
 
 **Alchemy 2 — Stage-Fright → Authentic Presence**
 
-Under the first alchemy sits a deeper Dissatisfaction: **stage-fright**, the fear of being seen without a script. The distorted Bridge-Builder has an easy smile and a practiced warmth, technically correct and experientially hollow. They perform connection without generating it.
+Under the first alchemy sits a deeper Dissatisfaction: **stage-fright**, the fear of being seen without a script. The distorted Bridge-Builder has an easy smile and a practiced warmth, technically correct and experientially hollow. They display connection and do not generate it.
 
 The alchemy: you feel the panic of being seen without your material, and you alchemize it into the willingness to be actually present. *I don't need to have a plan. I can just be here and let that be enough.*
 
@@ -453,7 +451,7 @@ The cost here is time. Real repair takes longer than performance repair, and tha
 
 ### Mode 5 — Integrative Negotiator
 
-The Integrative Negotiator closes the Diplomat's sequence: the Fire/Anger application at the Diplomat's altitude. The Challenger draws a line in the sand. The Regent issues a decree. Both do different work. Bridge, translate, hold, repair, and then **negotiate**. Heard *and* something moves.
+The Integrative Negotiator closes the Diplomat's sequence: the Fire/Anger application at the Diplomat's altitude. The Challenger draws a line in the sand. The Regent hands down a decree. Both do different work. Bridge, translate, hold, repair, and then **negotiate**. Heard *and* something moves.
 
 Here is what its absence looks like: a field that never arrives anywhere. The person who keeps extending conversation because closing feels like conflict. They defer the hard questions to the next session. Nothing gets settled. Call it relational molasses: warm, inclusive, and slowly failing the task.
 
@@ -799,7 +797,7 @@ When you close, the sentence and the weeks after it decide whether the terms hol
 
 **Raise Awareness — the cost named where it gets decided**
 
-*You're winning when:* you said what the arrangement costs, with the entries and not a general note about capacity, in front of the people who make the decision rather than in the corridor afterward where it gets sympathized with. You stopped pretending the arrangement still worked. The proof is that the cost is now an item somebody has to price.
+*You're winning when:* you said what the arrangement costs, entry by entry, in front of the people who decide. You stopped pretending the arrangement still worked. The proof is that the cost is now an item somebody has to price.
 
 **Gather Resources — what your staying needs, asked in time**
 
@@ -840,7 +838,7 @@ A daemon holds one rule in force at every move, which means five failures rather
 
 Where it bites is Open Up. The Victim's remit is what your having paid entitles you to, an account the ledger settles at the exact moment an impact would arrive. The other four moves are that settlement arriving early or arriving late.
 
-Take the move called **What This Costs the Teller**, the Diplomat's version of Open Up. This move surfaces the question the Victim refuses to face: *how can I relate compassionately to this person who is telling me what I cost them?* Pointed not at the situation, not at the people harmed in general, but at the specific person in front of you who is spending something to tell you what you did.
+Take the move called **What This Costs the Teller**, the Diplomat's version of Open Up. This move surfaces the question the Victim refuses to face: *how can I relate compassionately to this person who is telling me what I cost them?* It points at the specific person in front of you who is spending something to tell you what you did.
 
 Run it once on a live situation. Bring the last time someone told you about your impact. Wake Up: name the relational dynamic that was live. Open Up: what did it cost them to say it, and stay there for one sentence's worth of time without answering. Clean Up: name the channel you routed to and the one that would have served better. Grow Up: name who is affected by whether you can receive this. Show Up: name the one person who must be involved in what happens next.
 
