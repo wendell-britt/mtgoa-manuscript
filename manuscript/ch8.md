@@ -198,21 +198,25 @@ Without that question, help becomes interference. Diagnosis becomes lecturing. P
 
 ---
 
-### The Daemon That Makes Self-Repair Feel Like Integrity
 
-You met the Damaged Self deep in the Forest, seventh in line, closest to the center. The Protector decides whether you go in at all. The Controller decides how you're allowed to behave once you're inside. The Skeptic decides whether what you're reacting to was ever real. The Fixer/Healer decides whether what is in front of you holds up well enough to be given yourself to. The Victim decides what your having paid entitles you to. The Damaged Self decides something none of them touch: whether you are built correctly for any of this.
+### The Daemon That Takes What the Others Cannot
 
-At its best, this part of you registers difference accurately. Something about how you process runs off-standard. It does for a lot of people, and at this altitude almost always, because panoramic vision is not the common configuration. A part of you that can hold *I am running differently from the people around me* without panic does real work. It keeps you from expecting your own experience to be universal, the single most useful correction available to anyone who sees more than the people they're sitting with.
+Ask the Damaged Self how it is going and it says: *Another day, another day of taking damage.* Ask how it feels about that. *You'd have to ask the Victim. Feeling really isn't my jam.* Ask what its jam is. *I take damage.* Ask what happens when it stops. *The self dies.* Ask what kind of damage. *I take all damage. It doesn't all have meaning. A lot of times the self is just in the wrong place at the wrong time. Or is being lashed out at.*
 
-Registering the difference shows the gift working. The distortion turns what the reading sees into a verdict: *I process this differently* becomes *I process this wrong.* And the conversion hides inside humility. Everything the Damaged Self says sounds like the opposite of arrogance. *Normal people don't have to carry this much. I should be able to turn it off. Something in me is miscalibrated.* You will not catch this by listening for grandiosity. It doesn't sound like grandiosity. It sounds like the most self-aware voice in the vicinity.
+You met the Damaged Self deep in the Forest, seventh in line, closest to the center. The Protector decides whether you go in at all. The Controller decides how you're allowed to behave once you're inside. The Skeptic decides whether what you're reacting to was ever real. The Fixer/Healer decides whether what is in front of you merits giving yourself to. The Victim decides what your having paid entitles you to. The Damaged Self takes what none of them can.
 
-Once the reading becomes a defect, the remit widens on its own, in a direction nothing else in the Forest can reach. Never use a defective instrument. Repair it first. When the Damaged Self hears a question about what you should do, it answers about what needs fixing in you, always upstream of what needed doing.
+It takes what the Protector leaves unguarded, what falls outside the Controller's standard, and what the Fixer cannot repair or hold in place. It takes what fear cannot see or sound an alarm for, what anger cannot help overcome, what sadness cannot connect to anything you care about, what joy cannot delight in, and what neutrality cannot hold and let go. It takes all of that on and is undefeated. When nothing else can defend the Vulnerable Child, it does.
 
-This daemon stands where it stands for a reason, in a book about allyship. Allyship run by a Damaged Self stays permanently in preparation. One more wound always waits to be worked through before you're clean enough to be useful. Meanwhile the person you meant to stand beside waits on a repair schedule nobody showed them and nobody lets them influence. That's the structural cost, and it doesn't require any bad intent to produce. It requires only the belief that you're the part of the system that isn't working yet.
+Relationship costs damage to your ego structure. The Sage is often too far away to be hit like that, so the damage that does arrive falls on one of the other Faces in you. Without the Damaged Self, the Sage avoids all damage or takes damage that means nothing.
 
-The chapter's myth lives here: that allyship runs on having the right framework. The Damaged Self plays the daemon that makes framework-collection feel like healing. If the instrument is broken, a better map becomes the fix. So you get another one, then another. Each map is good and explains more than the last, yet the accumulation never becomes knowledge: it stays a prosthetic for a defect that ran as a difference the whole time. The bookshelf shows the symptom. The bookshelf looks exactly like diligence.
+Helping causes damage. That damage hits the daemons in the person you help that want to stay as they are, such as the Fixer/Healer that holds a situation in place and the Controller that says the game stays just so. They know your help wrecks their game. Helpers are also killers. They kill the state of needing help.
+
+This chapter takes apart one belief: that allyship runs on having the right framework. A framework promises help that spares everyone, you included.
+
+Almost no one asks the Damaged Self anything. Allyship rests on the damage it takes. The Victim co-opts it: every injury in the Victim's story happened to this part.
 
 ---
+
 
 <!-- SECTION 3 -->
 ## What Panoramic Vision Actually Is (And Why It's Not What You've Been Told)
@@ -314,7 +318,7 @@ The Sage's gift is knowing her own altitude. She knows that most of what she see
 
 You have been all four games. You recognize the moment when one shifts — when people stop playing harmony and start playing power, when the relational layer rises and the strategy layer drops. You know the difference because you have felt all four games from inside, the way they move in the body, the way they change what people reach for.
 
-The shift itself is what they will not see. They are inside the game. You are outside it. The move you see from the forest cannot be seen from the table. This is not because you are right and they are wrong. This is because you are standing somewhere else.
+The shift itself is what they will not see. They are inside the game. You are outside it. The move you see from your own ground cannot be seen from the table. This is not because you are right and they are wrong. This is because you are standing somewhere else.
 
 The Sage does not name every difference she sees. Most of what she sees cannot be named at the table's altitude. Most of it will not land. Most of it will look like you are explaining yourself, proving yourself, trying to make them see something they do not want to know.
 
@@ -328,7 +332,7 @@ Watch what happens when a Sage forgets she is standing somewhere else.
 
 A team has been in a gathering for forty minutes about whether to hire a new person. The conversation has the shape of a strategy problem: cost, time, whether the systems can hold another person. No one is actually deciding. Someone keeps introducing new criteria. Someone else keeps saying "but what if," and the mood is getting tighter. Someone's authority got questioned and no one named it.
 
-From the table, this looks like a strategy problem. From the forest, you can see the power game underneath. You can see that naming the authority question would move them forward.
+From the table, this looks like a strategy problem. From your own ground, you can see the power game underneath. You can see that naming the authority question would move them forward.
 
 **Version one: You stay at the table and try to move them from the table's altitude.**
 
@@ -342,11 +346,11 @@ You stay in the gathering, but you have already gone up. The distance is what yo
 
 You notice the shift. You feel the gathering organizing around a lie. You could name it, but naming it would be useless, would be you trying to be seen from an altitude they are not standing on. So you do not speak. You sit for a few more minutes and then you leave.
 
-Here is what matters: are you leaving because the forest is calling you home, or are you leaving because the gathering broke you?
+Here is what matters: are you leaving because your own ground is calling you home, or are you leaving because the gathering broke you?
 
-If you leave because the gathering will not see you, because your reading is too brilliant and they could not hold it, because staying means the Safe Self dissolves into invisibility — then you are leaving wounded. You are taking your toys with you. The gathering will feel your withdrawal as punishment, because it is. You needed them to see you from the table's altitude, but they could not. You are gone. You have made their limitation about you.
+If you leave because the gathering will not see you, because your reading is too brilliant and they could not hold it, because staying means dissolving into invisibility — then you are leaving wounded. You are taking your toys with you. The gathering will feel your withdrawal as punishment, because it is. You needed them to see you from the table's altitude, but they could not. You are gone. You have made their limitation about you.
 
-If you leave because you recognize you are not standing on the table, because you were never meant to stay, because the forest is your actual ground — then you are leaving the way you leave a garden you were tending that is not yours. You go back. You do not need the gathering to apologize or to realize what they lost. You just go home.
+If you leave because you recognize you are not standing on the table, because you were never meant to stay, because your actual ground is elsewhere — then you are leaving the way you leave a garden you were tending that is not yours. You go back. You do not need the gathering to apologize or to realize what they lost. You just go home.
 
 **Version three: You recognize the altitude and you stay anyway.**
 
@@ -360,23 +364,93 @@ You do not need to be seen. You serve from an altitude they do not have to under
 
 ---
 
-## What It Costs
 
-The cost is that you will know you do not belong at the table. Not because they rejected you — because you are not standing there.
+### Draw the Axis — Which Game ↔ Which Altitude
 
-Most of what you see will be invisible to them. Most of what matters to you will not matter at the table's altitude. You will watch them organize around lies you can see clearly. You will watch them make choices that cost them more than they know, choices you can read the price of from a distance. You will not be able to make them see it from where they are standing.
+The draw starts from a situation you are already inside and already judge, because the failure this axis names shows a view that arrived before its evidence did.
 
-This is harder than it sounds. The Safe Self wants to blame the table. When the table is broken, you leave and everyone understands. When the table is fine and you just do not belong there, you stay anyway — not to prove anything, because what they came to do matters to you, and you are standing somewhere else.
+**Try this now.**
 
-The other cost is this: the people at the table will experience you as separate. They may think you are cold or distant or above them. They will not understand that you are not refusing them — you are just not standing where they stand. You cannot explain it to them. If you try, you have just tried to pull them up to your altitude, which is exactly the move you stopped making.
+1. Name one situation where you have already decided what kind of
+   problem it is. (One sentence.)
 
-The hardest cost: sometimes you will stay when the forest is calling. Sometimes you will give what you have to a gathering that cannot hold it, because the work matters. You have to know the difference between a choice you made from your own ground and a sacrifice you are making from the table's altitude. The Safe Self treats that distinction as a sign of maturity. It is not. It is just the difference between standing on your own ground and standing on theirs.
+2. Draw the axis:
 
-This is where the Damaged Self arrives. It will say: if I see this clearly and they will not hear it, then why do I have this gift? The answer is: because someday you might stand in a gathering with people who are standing where you stand. Maybe not this gathering. Maybe not this altitude. Someday, you will be in a gathering where the reading matters because they are listening. So you keep the reading. You just stop needing the reading to make you belong to the table.
+   **WHICH GAME** ←——●——→ **WHICH ALTITUDE**
+
+   Mark which question you answered first, and whether that answer
+   settled the other one for you.
+
+3. Write one integrated sentence that holds both poles at once:
+   *"They are playing __________, while what has actually reached
+   these people before is __________."*
+
+4. Sit 30 seconds. Notice whether you had evidence for the second half
+   or only an assumption you had been carrying.
+
+*For the full process and additional pairs, see Appendix F: The Polarity Map.*
 
 ---
 
-## The Damaged Self in This Practice
+
+### The Sight Ecology
+
+Chapter 1 taught you to read your own fuel: what a move costs you. Chapter 3 taught you to ask what a move does to the living field. The Sage adds:
+
+Did your help name the damage it would cause, or did it promise to spare everyone?
+
+The Sage asks who took the damage when your help arrived. The Sage needs you to tell the truth about whose game your help was going to wreck.
+
+---
+
+
+### 3-2-1 — Reclaim the One Who Went Anyway
+
+Somebody moves to help before they have understood it. They get a piece of it wrong in public, adjust, and keep going. You hold a view of how they help and keep it to yourself. Keeping it has been saving you from being wrong in front of them.
+
+Solo, written or spoken, fifteen to twenty-five minutes.
+
+**Try this now.**
+
+*There is a part of me that assumes other people know more about how to help than I do, and refrains from telling them so as to maintain my image as a "good person."* If that is not your charge, say the one that is.
+
+You already know the person. Someone who acted at the altitude they had. Somebody you have assumed knows more about how to help than you do. You have watched their help miss and deferred to them anyway.
+
+**3 · FACE IT.** Two paragraphs, third person, as much detail as you can hold. How big does the charge feel, and where does it sit in you?
+
+**2 · TALK TO IT.** Greet them, then ask, and let them answer, three exchanges at minimum.
+
+— *What made it enough for you?*
+— *What do you do with being wrong in front of people?*
+— *What would I lose if I told you what I see?*
+
+**1 · BE IT.** Speak as *I* for one paragraph, saying what you have to say about showing up as an ally.
+
+**RECEIPT.** Sit thirty seconds. Did the charge move, and did you say what you see?
+
+*Two minutes to capture it as a BAR.*
+
+---
+
+
+## What It Costs
+
+The cost is that you will know you do not belong at the table while you sit at it. You see from somewhere else.
+
+Most of what you see, you believe you see. From up here the table looks like it is organizing around a lie. The choices people make look like they cost more than anyone at the table knows. What you see feels certain. It stays a belief until you go down to where they are and ask what they are weighing. You may be right and it may help. They may tell you they knew and had priced it in. From a distance you cannot tell which.
+
+Staying is harder than it sounds. Part of you wants to blame the table. When the table is broken, you leave and everyone understands. When the table is fine and you just do not belong there, you stay anyway — not to prove anything, because what they came to do matters to you, and you see from somewhere else.
+
+The other cost is this: the people at the table will experience you as separate. They may think you are cold or distant or above them. They will not understand that you are not refusing them — you are just not standing where they stand. You cannot explain it to them. If you try, you have just tried to pull them up to your altitude, which is exactly the move you stopped making. Some of what you feel as their distance comes from the daemons in them that want to stay as they are, answering the damage your help does.
+
+The hardest cost: sometimes you will stay when your own ground is calling. Sometimes you will give what you have to a gathering that cannot hold it, because the work matters. You have to know the difference between a choice you made from your own ground and a sacrifice you are making from the table's altitude.
+
+This is where the Damaged Self takes the hit and the Victim tells the story of it. The Victim will say: if I see this clearly and they will not hear it, then why do I have this gift? The answer is: because someday you might stand in a gathering with people who are standing where you stand. Maybe not this gathering. Maybe not this altitude. Someday, you will be in a gathering where the reading matters because they are listening. So you keep the reading. You just stop needing the reading to make you belong to the table.
+
+---
+
+
+## The Part That Wants to Be Seen
 
 You have a part of you that cannot survive standing somewhere else. When you see the power game and the gathering does not want to know, that part wants to prove you were right. It wants to document what you saw. It wants to pull out a framework that explains it better. It wants to be the Sage who is seen, not just the person standing apart.
 
@@ -384,27 +458,106 @@ You have to know what this part does so you can stop letting it drive. When the 
 
 Keep the part of you that reads the gathering accurately. You will need it. That reading is your ground. What you do with that reading is not written. It is what you choose.
 
-The Damaged Self thinks the reading decides what you are allowed to do. It does not. You are allowed to see the power game and say nothing. You are allowed to see the power game and name it at the table's altitude. You are allowed to see the power game and have the gathering reject your reading. You are allowed to see the power game and leave.
+That part thinks the reading decides what you are allowed to do. It does not. You are allowed to see the power game and say nothing. You are allowed to see the power game and name it at the table's altitude. You are allowed to see the power game and have the gathering reject your reading. You are allowed to see the power game and leave.
 
 What you are not allowed to do is need the gathering to validate the reading in order for you to trust it. The game is what it is whether or not they see it. Your altitude is where you stand whether or not they believe you are standing there.
 
 ---
 
-## What You Carry Forward
 
-Two capacities come out of this practice.
+<!-- SECTION 5 -->
+## The Damaged Self, Up Close
 
-The first is **knowing your own altitude**. The Sage stands in the forest. She can visit the table, but she does not belong there. She can use what she sees from her altitude to serve the work at the table, but she cannot make the table her home. She knows the difference. She stops trying to be seen from an altitude she is not standing on.
+You met the Damaged Self earlier in this chapter, deep in the Forest. Here it is up close.
 
-The second is **staying when it does not work**. When you name the game and no one wants to hear it, when you keep your reading and the gathering does not benefit from it, when you serve what they came to do and they do not recognize what you offered — that does not mean the Sage failed. It means the altitude difference is real. It means you stood in your own ground anyway and did what you could from there.
+<!-- MARGINALIA -->
+> *I ask every student to draw the system and then name whose face disappeared from the diagram.*
+>
+> *I drew this school last spring, for an unrelated purpose. The diagram was accurate and complete
+> and I was pleased with it. I looked at it again this week and found the omission — and then learned
+> that Sera had seen it in the spring, and Maera the year before that.*
+>
+> *We have all been drawing the same diagram. None of us put him on it either. That is not an
+> oversight anyone can lay at his door.*
+>
+> Irix Vale, School of the Pattern
+<!-- /MARGINALIA -->
 
-You do not have to convert anyone to your view. You have to offer it as an equal from an altitude they may not be standing on. *I see something from where I stand. You might see it too. You might not. Either way, I know where I am.* That sentence is what every move in this chapter is for.
+I spent four years writing a book about not making yourself the load-bearing wall, from inside the load-bearing wall. The irony was available to me the whole time. I looked right at it and kept going.
 
-Now the question changes. You know how to see from your own altitude. You know how to serve from there without needing to be seen. You know what it costs. You know the Damaged Self will come for you when standing apart feels like exile.
+The habit cost other people too.
 
-The next chapter is not about whether you can see the whole board. You can. The next chapter is about what you build with people who are not standing where you stand, and what you do with your own ground once you have claimed it.
+A client of mine wanted to be an ally to people a system was failing. They had created an identity as someone who was supposed to do hard work, but complications with their health and their age meant that was no longer possible. They had learned how to be an ally when they were young and had fewer responsibilities, so they believed that doing hard, impressive work was what counted. Their body did not get the memo as they grew up. Their identity carried a framework: *Anything that pops up must be worked with.* The framework in turn produced the identity, which is how a framework reproduces itself.
+
+I suggested the most effective way to be an ally at their stage of life was to compile what they had learned into notes for a younger generation, who could grow from their wisdom. They doubted the notes would be enough. They wanted something harder and more dramatic.
+
+Then the Damaged Self of their Victim took the form of a dragon and fought me. It believed I had come to plunder its hoard. The hoard held the precious stories their Victim had cooked up to gain sympathy, the ones that made them feel that at least once they had been an effective ally by doing hard work. The Victim worked for their Controller. The Controller worked for their Protector. The client tried to protect me from the dragon and themselves from me at the same time. We stalled. I did not want the hoard, so I knew the threat they felt was theirs.
+
+I told the client I would stop working with them unless they addressed the dragon. By address I meant put it back to sleep and go around it. They heard slay it. It stopped them. They had assumed I was bound by their framework and would have to put up with anything that came up. My boundary showed them I was free to leave.
+
+Four of my parts spoke when I said I would walk. My Controller held a standard: I would take money only from someone willing to engage with the practice. My anger recognized the stories the client was telling as the obstacle they were pushing against. My Skeptic doubted we needed the dragon. My Vulnerable Child, the Player, had stopped having fun. The game master is also a player. We both had to win for me to stay in the game. I refused to let my having taken their money serve as the excuse for their missing their goals. Each of these parts was protecting the integrity of the container.
+
+Then we did a shared 321. I held the space and they spoke as the dragon. Under the fight they found a fear of robbery, or of dying. I offered their money back once. They saw that they could help people without fighting the dragon. They could let it sleep and keep doing their work. The story that took the damage came from when they were young: whatever is biggest, hardest and most charged has to be dealt with before allyship counts.
+
+The boundary felt coercive. My actions could look like a child throwing a tantrum. I was partly wrong. I pitched the easy path as a workaround, and choosing it did the dragon work. The client was grateful. After we finished they told me they had been sought out to run for public office.
+
+Your Victim keeps a hoard of its own. You do not fire it. The Damaged Self takes the hit. The Victim says it happened. A Sage with no Victim has nobody to name the damage.
+
+Then put a limit on the telling: a telling with no end is how the hoard grows. The Victim gets one telling per hit, said once to whoever was there. You keep the count, because the Victim would split one hit into three. Wrong place, wrong time ends the question. A loud hit earns no second telling. Then silence, and the hearer does what they do with it. A shared 321 can hold a telling for as long as it needs, because someone else holds the space. The limit falls on the solo retelling that recruits sympathy. It costs the Victim the hoard. That limit is deliberate.
+
+*Bring one time your help was received and something in the person went rigid. Name what it did, then write what you would say first if you had it to do again. Two minutes to capture it as a BAR.*
 
 ---
+
+### 3-2-1 on Your Damaged Self
+
+The Damaged Self takes all damage. A lot of it has no meaning. The Victim makes a story of it. Yours has taken hits you never chose to carry. Ten to fifteen minutes.
+
+**3 · FACE IT.** Third person, and not the version in this chapter. What damage has yours taken lately that meant nothing? What has your Victim made of it? A paragraph, as much detail as you can hold, and give it a name if a name comes.
+
+**2 · TALK TO IT.** Greet it, then ask, and let it answer.
+
+— *How is it going?*
+— *How do you feel about that?*
+— *What is your jam?*
+— *What happens when you stop taking damage?*
+— *What kind of damage would you take if the Player were in charge?*
+— *How does that differ from the damage you take now?*
+— *If you could decide your job, would you choose to work for the Player?*
+
+**1 · BE IT.** Speak as *I* for one paragraph, saying what you have to say about showing up as an ally.
+
+**RECEIPT.** Sit thirty seconds. Did it loosen, or did it dig in? Both are information.
+
+*Two minutes to capture it as a BAR.*
+
+---
+
+<!-- MARGINALIA -->
+> *I held a verdict open once for four days. Everyone tells that story. Nobody tells the part where
+> somebody stood in front of a very angry hall for four days holding nothing, and it was him, and
+> when I asked afterwards whether it had been difficult he said the hall had been reasonable.*
+>
+> *The hall was not reasonable. I have let him keep that sentence for nine years.*
+>
+> *You have read eight chapters of his handwriting. You know the sound he makes when he says he is
+> fine. We are counting on you having noticed.*
+>
+> Corin Ash, School of the Line
+<!-- /MARGINALIA -->
+
+### What You Take Out of the Forest
+
+**Escape Artist and Coach** (the Sage, Chapter 8), two halves of one superpower. The Escape Artist quits a game whole: puts down a fight, a role, an identity you once leaned on, without needing the exit to be a verdict on the game or on yourself. The Coach is what the exit makes available. A coach who cannot leave the game is recruiting, whatever they call it, so everything they offer arrives with their own stake attached. The escape comes first for that reason.
+
+The scene staged the Escape Artist's test: you leave from your own ground or from a wound. The case ran on the Coach's test: helpers are also killers, since they kill the state of needing help.
+
+You know what your Damaged Self is for now. That is what you take out.
+
+Theirs is doing the same job in a Forest you cannot see into. The daemon in them that wants to stay as it is takes the hit from your help. Clearance comes from naming what your help will cost it before you give it, and letting it say no.
+
+---
+
 
 <!-- SECTION 6 -->
 ## What Winning Looks Like at the Sage's Altitude
@@ -418,37 +571,211 @@ The next chapter is not about whether you can see the whole board. You can. The 
 > Bram Tull
 <!-- /MARGINALIA -->
 
+
+The Sage plays the meta-game. Not a game *about* something: the game of knowing which game you're in and choosing to play it.
+
+The whole book has built toward this through-line. You've learned six Faces. You've felt, drawn lines, carried forward, built, held the field, and seen the whole map. Now the question stops being *which face am I being?* and starts being *which game am I designing?*
+
+The five moves build a toolkit. You reach in and pull out what the moment requires. Sometimes the first move is Name the Game. Sometimes it's Switch. Sometimes, often, it's Return, because you've been above the table so long that nobody can hear you anymore.
+
+The kit does have a logic. Seeing without naming is silence. Naming without switching is paralysis. Switching without returning is exile. Returning without putting down is accumulation. Putting down without holding the meta is escape. Each move checks the others.
+
+### Move 1: Name the Game
+
+In the hiring-team scene, Version three opens with this move: the game, named in the table's own words.
+
+**What it is:** Before you enter a conversation, a meeting, a conflict, name the game as power, strategy, harmony, whole-board. Name it out loud or inside. Naming holds the first move and the first freedom.
+
+You pause at the door. You take one breath. You ask: *which game are we actually in? What game is being played underneath the one we're talking about?*
+
+**Example:** A support group is forty minutes into whether Ellis should apply for the review board, an argument that has become logistics. Ellis has said twice that he does not want the board to decide whether what he did was defensible. Name the game: *I think we are running a strategy game and Ellis is in a different one. He is not asking us how to win this.* Some people settle and some brace. You have named it and not solved it, which stands as the move, and Ellis does not speak again.
+
+**Why it matters:** Naming the game does not end the argument. It lets you choose what to do next. Once you've named the game, you're no longer being played by it. You're choosing whether to play it.
+
+**Working vs. performed:** The shadow version names the game and feels superior for knowing. Service names what you see as an offer people can correct: *I think we may be treating this as a strategy problem when somebody needs a line. Does that fit for you?* The sentence carries your reading without demanding that anyone live inside it.
+
+**The test:** After you name it, can the people affected correct you, and does your next move change if they do? A reading that cannot be corrected becomes a verdict wearing a framework.
+
+Do not use this move to stay in your own head while somebody needs a line, a decision, or an apology. Do not use it to explain why you're above the mess while everyone else stays inside it. If the naming makes you harder to reach, or gives you less to answer for, the distortion is already driving.
+
+### Move 2: Switch Games Deliberately
+
+In the hiring-team scene, Version one and Version three differ by this move: the same reading, said in a different game.
+
+**What it is:** Once named, choose. Which game does this moment actually require?
+
+**Why it matters:** Most people have a home game. The Challenger defaults to power. The Architect defaults to strategy. The Diplomat defaults to harmony. The home game feels comfortable, but it means you treat every situation as though it were your house. It is useful when the moment calls for your house, and a problem the rest of the time.
+
+You've been playing strategy: systems, process, the search for the right lever. The people in front of you sit in the power game: somebody's line got crossed. No amount of process will touch that until someone names the line. Switch. Draw the line. Do what that game calls for. Then come back.
+
+Or you've been playing power (holding boundaries, staying clear about what you won't accept) while the table has moved to harmony. Now people need to feel heard, now the relationship needs repair, now the work is inclusion rather than confrontation. Switch. Hold the field. Let people be heard.
+
+The switch names the Sage's most deliberate move. It requires knowing all four games well enough to move between them without feeling like you're betraying one for another: the Challenger who can go to harmony without feeling soft, the Diplomat who can go to power without feeling like they abandoned the field.
+
+Chou calls this playing the right game. In *10,000 Hours of Play*, he describes the experienced player as the one who knows when to be serious and when to be playful, when to push and when to yield, when to stay and when to leave, from choice rather than default. The Sage is that player. The choosing comes from having been all of them, not from rising above them.
+
+**Working vs. performed:** Switching becomes inconsistency. The Sage who can't hold a game long enough to be useful isn't practicing the Game-Switcher, they're uncomfortable with commitment. 
+
+**Example:** You are ten minutes into helping Sam plan the week. Sam has stopped answering in sentences. The plan is good. The plan played the wrong game twenty minutes ago. Switch deliberately and say so: *I think I have been solving and you needed me to stay. I can go back to the plan whenever you want it.* Put the notebook down. The week does not get planned. Sam texts you two days later about something unrelated, which stands as the whole result.
+
+**The test:** After you switch, does the new game hold you, or does it keep sending you somewhere else? Stabilizing shows the practice. Being pulled three directions shows the shadow.
+
+
+### Move 3: Return Without Condescension
+
+In the hiring-team scene, Version three ends on this move: *You are not above them. You are beside them.*
+
+**What it is:** The Sage's most underrated move, coming back to a narrower game (staying with people in the game they can actually be in) without treating them as less, without making them feel seen-and-judged, without the body language of *if only you could see what I see.*
+
+**Why it matters:** Return as an equal. Return as someone who is *with*, not *above.* The Sage who has seen the whole board and come back returns as a more complete version of themselves rather than a diminished one, because they know where they are and where they've been and can carry both.
+
+Egan, in *The Skilled Helper*, writes about the helper's presence as the primary instrument of change. The technique ranks below it. The framework ranks below it. The work gets done by the capacity to be fully present with the client: without agenda, without rescue, without needing them to be anything other than what they are. That's what the return practices: the presence of the person who climbed the mountain, came back down, and can now say: *I know what it's like up there. I also know what it's like here. I'm staying here with you.*
+
+The distortion skips this move and stays at the whole-board view, because coming down feels uncomfortable: the view from up there is so much clearer than the view from inside the power game that returning feels like losing something. That's attachment to the view, wearing the view's voice. The whole-board view is always available, including from inside the narrower games, because it works as a capacity rather than a location. You don't have to stay up there to hold it. You have to know you can go back.
+
+**Working vs. performed:** Returning becomes retreating. The Sage who can't hold the view uses the return to avoid the weight of what they saw. *I was too serious up there. Let me come back to where it is simpler.* That's exhaustion calling itself wisdom, doing a passable impression of the Returner. The test: when you return, does it feel like coming home to the people in front of you, or like abandoning the view? Coming home shows the practice.
+
+**Example:** Kit's mother died in March. Kit is still running the same three arguments about the funeral that they ran in April. You can see the whole board, including the part where none of this is about the funeral. Ask what help would feel useful before you name the pattern. If Kit wants to talk about the caterer, talk about the caterer at length, seriously. If Kit asks what you see, offer it as a question they can refuse. The whole board does not give you the right to decide which game Kit can be in this month.
+
+**The test:** Afterward, does the person bring you the next problem, or a version of it they have already tidied? People bring their mess to an equal and their homework to a judge.
+
+### Move 4: Put a Game Down
+
+In the hiring-team scene, Version two turns on this move, split by one question: leaving from your own ground or from a wound.
+
+**What it is:** Identify a game you no longer need to play. A fight you inherited from a version of yourself that needed it. A role you grew past. An identity that was useful once and now keeps you small. Put it down cleanly. It mattered. It is over.
+
+**Why it matters:** The release is harder than it sounds, because games have identity attached. *I am the person who holds this together.* *I am the person who fights for this.* *I am the person who keeps this safe.* The game becomes who you are rather than what you do, so putting it down means sitting with the loss of that: not pretending it didn't matter, letting it be finished.
+
+What the Release stage actually asks is completion rather than ascent. The game ran its course. You learned what it had to teach. The next move isn't up, it's open-handed. Letting go says *this game was mine for a time, and it isn't anymore, and that's allowed.* Giving up never bothers to say anything.
+
+**Working vs. performed:** Putting down becomes giving up. The Sage who keeps dropping games before they've given what they have to give isn't practicing the Liberator, they're practicing avoidance. 
+
+**Example:** You have spent nine years being the person who never misses what everyone else misses. You can name what that bought you: it got you taken seriously at twenty-eight, in an outfit that took nobody seriously at twenty-eight. Say what you learned before you set it down. Then set it down, and let a meeting go past with something unnamed in it. Nobody notices. That is not the same as nothing happening.
+
+**The test:** Can you name what you learned from it before you put it down? If you can't, it was never really yours. If you can, and you put it down anyway, that's the practice.
+
+Do not call it maturity when you simply got tired of being accountable. Do not call it freedom when what you did was leave before the repair.
+
+### Move 5: Hold the Meta Without Losing the Ground
+
+In the hiring-team scene, the team says it only wants to know whether it can afford the hire. You were reading it wrong, and you stay.
+
+**What it is:** This move runs last, the one that takes years, the one that earns the name.
+
+You can see the whole board. You can name every game. You know which one you're in, which one the moment requires, and which one you just came from. With all of that seen, you can still choose to stand on the board, inside a game, with people playing a different one, who don't see what you see and may never see it.
+
+You can hold the whole-board view inside while your body sits in the power game, in the fight, in the work. You can know that this conflict is one expression of a pattern that recurs everywhere and still draw the line this moment requires. You can know that this relationship is one iteration of a form that will keep recurring and still show up for it fully. You can know you're mortal and the game is older than you and none of this will matter in a hundred years, and still care, not despite knowing, because of it.
+
+**Why it matters:** That's mastery, not instead of choosing but *along with* choosing. Holding the meta means keeping the view and still doing what the view is for. Standing outside costs less.
+
+**Working vs. performed:** It runs the meta without the ground: seeing everything, committing to nothing, the view without the practice. Always above, never in. The real Sage is in it, has skin in it, draws the line and holds the field and builds the structure and stays, and knows which game they're doing it from.
+
+Do not use the meta-view to make yourself unaccountable. If your clarity only makes you harder to pin down, it isn't wisdom yet. It's avoidance with better vocabulary.
+
+**Example:** Ade has the test result and a fifty percent chance of what killed his father at sixty. He has decided not to tell his brother. You can see the whole of it: the brother's right to know, the family pattern of not saying, the ten years of managing this alone. Hold all of it and stand on the ground: *what do you want to do on Sunday.* The whole board stays available to you and does nothing on the table. Ade decides about his brother.
+
+**The test:** Name what this game could cost you in the next month. If the whole-board view has left you with nothing at stake, you are standing beside the board rather than on it.
+
+The moves are what you do. The next question is where.
+
 ---
 
-## The Tell
 
-You know you are standing on your own ground when the distance between what you see and what the gathering receives becomes information rather than a problem to solve.
+### Where You'll Actually Spend the View
 
-The distortion runs like this: you name something true (the power game underneath, the authority question nobody speaks, the stuckness nobody will admit). The gathering does not want to know. You experience that as your reading failing — the view was wrong, or you named it wrong, or you weren't clear enough. So you reach for a second map. You find a new language. You offer a framework. Now you are above the table, safer, with the full view intact.
+The parable showed one of the four: Raise Awareness. *The Sage could look at the conflict and say: this runs as a boundary issue dressed up in strategy language*, naming the agenda under the agenda in front of the meeting running it. That names the domain where the view stops being yours and becomes something a table has to account for. Naming a group's real subject to the group is where this gift gets heard as its opposite. That makes the domain the Sage's steepest.
 
-The real Sage runs a different check. You named something true. The gathering did not receive it. Both are true at the same time. That does not mean the first one failed. It means the altitude difference is real. Your job is not to make them see what you see. Your job is to know that you see it and stay anyway.
+The view has four domains. One cheap habit imitates all four without being any of them. The cheap habit reaches for the second map. When you look at a live problem, the first framework explains most of it, yet rather than do anything with what it explains, you go and find a framework that explains more. The maps are good, one at a time. Reaching for another one costs you nothing, because nobody at the table has to answer a map. From the inside it looks exactly like taking the problem more seriously, which is why it lasts for years. Nothing at the table moves. The four domains are where the view finally leaves you: the game named to the person inside it, the real agenda said out loud at the table running it, the specific help asked for where the framework was easier, the game a group is stuck in named so the group can move. Each costs more than a map, because each one puts the view where a person other than you can tell whether it helped.
 
-The Tell is simple: did the gathering's non-reception send you up, or did it send you deeper into yourself? If you found yourself reaching for a better map, a clearer language, a framework that would finally make them understand — you were standing on the table's altitude. If you found yourself grounded, more certain of what you know even though they cannot hold it — you were standing on your own ground.
+These four are not a syllabus. Pick where you'll spend the view this week, and pick the domain you keep avoiding. If the view only ever comes back around as a better account of what is happening here, held in your own head and delivered nowhere, you did not make the Sage's move. You mapped it.
 
-The difference shows in what you do next. From the table, the move is to fix the communication. From the forest, the move is to stay. Staying is not silence. Staying is using what you see to serve what they came to do, knowing most of what you see will not land.
+### How to Spend It So It Serves
+
+When you spend the view, the minute around it decides whether the table can use what you saw. The same three moves decide it in every domain.
+
+**Say it in the game they are playing, not from the whole board.** One reading has two vocabularies. *We are running a strategy conversation over a power problem* is accurate, but it comes from a place nobody at the table is standing in, so it arrives as a grade. The in-game sentence has to name a particular: what got crossed, who has been waiting since March, what the plan does not cover. Same reading, same size, but the words start where the work is.
+
+**Give what the game costs.** Seeing which game somebody is in tells you what would help. It is usually specific and dull: an hour on Thursday, a name said to somebody with authority, a seat held while they say the worst of it, a no said in front of them. The part that wants to be seen offers a framework instead, because a framework travels across a table without you having to be anywhere, and asks nothing of your calendar. The test is whether what you gave came out of your week.
+
+**Don't go up afterward.** The expensive stretch comes after the naming. The Sage's exit does not use the door. You keep your seat and your pleasant face and you leave by altitude: the table turns into a case and the people turn into material. What staying looks like is small. The next sentence out of you is about the work in front of everyone, not about the pattern you noticed. The exit even has a courteous phrasing, *I'll leave you to sit with that*, only ever spoken on the way out.
+
+**Direct Action — the game named to the person inside it**
+
+*You're winning when:* you told the person in front of you which game they were in, in the words of that game and to their face rather than to somebody else afterward, and were still sitting there when they answered. You noticed out loud, and that made you harder to be around. The proof is that they could use it that day.
+
+**Raise Awareness — the real agenda said at the table**
+
+*You're winning when:* you said what the meeting was actually about, the agenda underneath the agenda, in front of the people running it rather than to the two who already saw it. The seat where nobody had to account to you is gone. The proof is that the meeting spent the rest of the hour on the game it was really in.
+
+**Gather Resources — the specific help asked for, not the map**
+
+*You're winning when:* you named what this particular game takes (the hour, the person, the money, the cover) and asked somebody who could grant it or refuse it, instead of the account of the situation you are better at giving. You stopped describing the problem best and paying for none of it. The proof is that the help arrived in a form somebody could use that week.
+
+**Skillful Organizing — the game a group is stuck in, named**
+
+*You're winning when:* you told a group which game it had been playing for a month, while it was still playing it, in the group's own words and without a diagram. They stopped counting you as one of them for a while afterward. The proof is that the group argued about the real game next, which is worse to sit in, though it alone finishes the argument.
+
+### The Tell
+
+None of the four markers asked why you named it. That question is real. It is harder on the Sage than on the five before, because a Sage who names the game so the table will know the game could be named has taken the second map out in public. So the answer goes in your log in writing, where a later you can read it back. When you log the rep, answer it:
+
+- **Direct Action.** Did you name their game so they could move inside it, or so they would know you had seen it?
+- **Raise Awareness.** Could the meeting use what you said, or could it only tell what you are?
+- **Gather Resources.** You asked for the hour, and the account of the problem was sitting right there. Which one were you reaching for?
+- **Skillful Organizing.** The group got unstuck; did it have to be your sentence that unstuck it?
+
+Each Tell targets the Sage's signature failure: the view spent on standing above the table instead of on the people at it.
 
 ---
 
-## What Winning Looks Like
 
-You told the group which game it was playing, in the group's own words, without a diagram, while it was still playing. They stopped counting you as one of them for a while afterward. That happened.
+## Where the Damaged Self Bites
 
-Then something shifted. They started arguing about the real game, which is harder to sit in than the lie. The lie was comfortable. The real game is messy, and they're in it now, which means your naming worked, which means you can let the credit go.
+You have been running the Five-Move Form since Chapter 3. This chapter walked the five in order. Open Up finds the Sage weakest by design, because witnessing a game from inside it is what the whole-board view makes harder rather than easier. Of the Form's five moves, Grow Up alone asks what the playing does to the player. Show Up is legacy: what remains once you stop holding it.
 
-Winning at this altitude looks different than it does at the table. At the table, winning is being right. At this altitude, winning is work getting done even though the people doing it will never know you were part of it. Sometimes they will know. Usually they won't. That doesn't change whether you served.
+A daemon holds one rule in force at every move, which means five failures rather than one. The Damaged Self's rule is to take the hit and say nothing. Its five:
 
-The marker is not whether they thanked you. The marker is whether the work moved. Did naming the game let them do what they came to do? Did they argue about what was actually happening instead of the comfort lie? Did the group get unstuck?
+**Wake Up.** The hit lands and the signal never forms. The Damaged Self took it before you noticed it, so the noticing comes back clean. The read of the table is accurate, and the read of your own side of it is empty.
 
-If yes: you saw accurately, you named it from their altitude (not from above), and you stayed. That's winning.
+**Open Up.** You can stay with anything, because nothing reaches you. The witnessing runs at full length and costs nothing. The damage went somewhere you cannot feel it.
 
-If no: you saw accurately, you named it from their altitude, and they did not want to know. That's also winning, because the work was not asking for the seeing. It was asking for presence. You gave both.
+**Clean Up.** Asked which channel, it returns none. It has taken what fear could not see, what anger could not overcome, what sadness could not connect, what joy could not delight in and what neutrality could not hold, so the five channels arrive as one answer: *fine.*
+
+**Grow Up.** Asked what wants to grow, it answers with what it has survived. Growth becomes a longer list of hits taken. The damage that comes from growing, playing, feeling deeply, exploring and being a helper waits behind damage that means nothing.
+
+**Show Up.** It routes to the domain where the hit lands on you alone. You carry the table's damage so that nobody else has to. Nobody is told.
+
+It bites hardest at Grow Up. The Damaged Self takes what none of the others can, and at the exact moment something asks to develop, growth damage goes into the same silence as every other hit. The other four moves show that silence arriving early or arriving late. Once you catch it there, the rest have nothing to propagate from.
+
+Take the move called **Who the Fight Makes You**, the Sage's version of Grow Up. Its question skips the silent intake: *what does playing this make me?* It asks what the playing builds. The move accepts that you will take damage and asks what the damage is building.
+
+Run it once, on something real. Bring a fight you're carrying right now: an actual one, with people in it. Wake Up: name the game, and name the hit you took in it, even if the hit came back as *fine.* Open Up: witness one minute of what it's like to be inside this fight, and let it cost you what it costs. Clean Up: name the channel as Fire, Water, Metal, Earth or Wood, and hold to one of them. Grow Up: name what this fight is building in you, stated as a capacity. Show Up: name what you'd leave behind if you stopped playing tomorrow.
+
+Five moves, one pass, ninety seconds. The Sage's version stands alone in the book: here the hard part is refusing to run a second pass.
+
+
+### From Read to Quest
+
+A reading that ends in a notebook stays a reading you had. A reading that ends in a quest is one you played. Quests come out of Show Up, because that move ends in an artifact: something another person can encounter.
+
+One sentence: what you will do, who it reaches, by when, and what it costs you. *Leave the Game Playable Without You* becomes: **I will write down the three judgment calls I've been making by feel and walk two people through them before the retreat in March, though it will cost me being the one who has to be in the meeting for it to go well.** That's a quest. *I will be less indispensable* is not one; nobody can tell whether you did it, including you.
+
+A live quest does not announce itself through enthusiasm. It's anticipation with some dread underneath. At this altitude the dread usually runs like this: handing it over will prove you were never as necessary as the exhaustion suggested. That happens, and it still doesn't count as a reason.
+
+*Run the five moves on something live. Log the BAR, then turn it into one quest with a name and a date in it.*
+
+### The One Rep
+
+You don't take all five moves into the world this week. You take the one the Sage keeps skipping. You see something true (the game underneath the game, what everyone can feel but nobody says) and instead of holding it, or going up, you say it once, as an offering rather than a verdict. Then you stay while they do whatever they do with it.
+
+That's the whole Sage in a single move: the seeing, said out loud, and the not-leaving.
+
+*You saw it. Then you named it and stayed, or you held it, or you said it from above and watched them flinch. Whatever actually happened: get it down before you talk yourself into the version where you handled it perfectly.*
+
 
 ---
+
 
 ## The Practice: Stand in Your Own Ground
 
@@ -476,11 +803,11 @@ If it doesn't: they will tell you they are fine with the criteria, they just wan
 
 Leaving shows up in three ways. The first is obvious: you stand up and go. The second is less obvious: you stay in the gathering but you check out, you go cold, you stop breathing at the table's level. The third is invisible: you stay and you serve but you are counting the cost, you are waiting to be thanked, you are making them prove that your presence mattered.
 
-Before you do any of these, ask: am I leaving because the forest is calling me home, or am I leaving because this gathering broke me? One is ground. One is wound.
+Before you do any of these, ask: am I leaving because my own ground is calling me home, or am I leaving because this gathering broke me? One is ground. One is wound.
 
 If it's wound, stay. Name it: "I'm angry right now and I'm about to leave because I cannot stand being right and unseen." Say it to yourself, not to them. Then stay anyway. You have borne harder burdens than this. You can bear being a person who sees something and names it and stays while they do whatever they do with it.
 
-If it's ground — if you recognize you were never meant to stay, you are not standing on the table, your altitude is the forest — then go. Do not apologize for leaving. Do not explain it. Do not come back to prove you were not angry. Go home to your own ground and tend what grows there.
+If it's ground — if you recognize you were never meant to stay, you are not standing on the table, your altitude is your own ground — then go. Do not apologize for leaving. Do not explain it. Do not come back to prove you were not angry. Go home to your own ground and tend what grows there.
 
 **Four: The one rep.**
 
@@ -492,19 +819,6 @@ Write it down as it was. That's the rep.
 
 ---
 
-## Building the Capacity
-
-This capacity — standing on your own ground and serving from there — runs opposite to table altitude. At table altitude, you prove yourself by being right. Here, you prove yourself by being willing to be wrong and stay anyway. At table altitude, you measure success by being seen. Here, you measure it by work getting done even if nobody knows you were part of it.
-
-This is not humility — which is chosen. You have not chosen to stand apart; you are standing in your actual position. You are somewhere else. Most of what you see will not land because of the altitude difference, not because your seeing is wrong. The landing is a matter of position, not skill.
-
-The capacity grows by repetition: name it, stay, notice what happens, repeat. Each time you do it, you learn what your ground actually is. Each time you name something and the gathering does not want to know, you have proof that you are standing somewhere else — and proof that you can know that and stay anyway.
-
-The Damaged Self will tell you that if you see this clearly and they will not hear it, why do you have this gift? The answer is: because you stood in a gathering with people who wanted to know, and they were listening, and you were the person who could name what was happening because you had stood where you stand and you had stood where they stand. The gift was never about being right. It was about being able to serve from your own ground, knowing most people will never know you were there.
-
-That is enough.
-
----
 
 <!-- SECTION 7 -->
 ## What the Sage Teaches — and Why the Player Comes Next
@@ -529,7 +843,7 @@ That is enough.
 
 The Sage's gift is not wisdom. Wisdom follows as a side effect. The gift is perspective with commitment: the capacity to see all the games, know which one you're in, and still choose to be there fully.
 
-This chapter came to dismantle one belief: that allyship runs on having the right framework. It carries load for anyone who came into this work through reading, so the replacement deserves saying plainly. Not *I have the right model now.* Not *I need one more.* Something a person can actually stand on: **I can act from the map I already have, and be developed by the people I'm acting with.** That sentence is what every move in this chapter is for.
+The framework belief carries load for anyone who came into this work through reading. What replaces it fits in one sentence: **I can act from the map I already have, answer for the damage my help does, and be developed by the people I'm acting with.** That sentence is what every move in this chapter is for.
 
 Four capacities carry forward. The villagers need someone who can name which game they're in. You can be that person, not from above, from with. Seeing is not the same as opting out; the distortion confuses these and the real Sage doesn't. You just left the hardest game to hold, which makes the return most of the practice rather than its epilogue. Putting a game down is not giving up; it's the most generous move available at this altitude, for you and for whoever inherits the game.
 
