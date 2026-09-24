@@ -487,7 +487,7 @@ RECORDS = {
 
 *I will not say which of them was right. Forty-one cases and I have not said it once.*
 
-*The terms I wrote at that table have held eleven years. Nobody has mentioned them. I notice that I have written that down. Whether wanting the sentence is a defect in me or a condition of the work is the open question here. I am the wrong person to settle it.*"""),
+*The terms I wrote at that table have held eleven years. Nobody has mentioned them. I notice that I have written that down. Whether wanting the sentence reveals a defect in me or a condition of the work stays open here. I am the wrong person to settle it.*"""),
     ],
 }
 
@@ -640,8 +640,7 @@ Head of the School of the Pattern""",
     7: """**THE SCHOOL OF THE BRIDGE**
 *Admissions. Filed as required.*
 
-**1. Who we are for.** Two applicants, both recorded. One wrote: *I had no leverage
-and I sat down anyway, and I was frightened the entire time.* Admitted. Another wrote: *I
+**1. Who we are for.** Two applicants, both recorded. One wrote: *I had nothing to bargain with and sat down anyway, frightened the entire time.* Admitted. Another wrote: *I
 watched a woman bargain with nothing but somebody's goodwill and I said nothing, because it was not my table. I have thought about it since.* Admitted only in combination with the first. One without the other produces a translator with nothing at stake. Several were
 trained and it did not hold.
 
@@ -659,8 +658,7 @@ Oath, which specializes in agreements that outlast the people who made them. Tha
 must be visible before one sits down inside the pressure, or the negotiation will be with a
 person about a machine.
 
-**6. A word from the Head.** The terms hold. Whether wanting the sentence is a defect in me
-or a condition of the work is the open question here. I am the wrong person to settle it.
+**6. A word from the Head.** The terms hold. Whether wanting the sentence reveals a defect in me or a condition of the work stays open here. I am the wrong person to settle it.
 
 Elian Cross, Keeper of the Walk-Away Terms,
 Head of the School of the Bridge""",
@@ -675,12 +673,12 @@ Head of the School of the Bridge""",
 five have suffered as a result, and left, and one has come back.
 
 **4. What we do not teach.** Any of it. We do not teach the reading, the line, the keeping,
-the design, or the terms. We teach which of the five a moment is asking for, then we send. The sending is the entire curriculum. All five take our referrals and Sera is dry
+the design, or the terms. We teach which of the five a moment is asking for, then we send. All the teaching leads to the sending. All five take our referrals and Sera is dry
 about ours in particular.
 
 **5. Entry.** Standing at all five. There is no way to shorten this. We are asked every year.
 
-**6. A word from the Head.** I have read all five schools. None of them has read me. I arranged that. I am now told it is a course I never took. I am the oldest
+**6. A word from the Head.** I have read all five schools. None of them has read me. I arranged that. I am now told it left me a course short. I am the oldest
 first-year here. That is a joke and it is also the timetable.
 
 Thalen Orr, Keeper of the Far Game,

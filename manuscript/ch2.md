@@ -372,7 +372,7 @@ A daemon you befriend joins your party. A daemon left running on its own stays a
 
 Here is the walk itself. Watch what happens to the joystick.
 
-Picture a real moment from your last month. It could be a hard conversation, a call you delayed, or a conflict you replayed after it ended. Drop back into it, then watch the daemons grab the joystick, one after another.
+Recall a real moment from your last month. It could be a hard conversation, a call you delayed, or a conflict you replayed after it ended. Drop back into it, then watch the daemons grab the joystick, one after another.
 
 Your body tightens before anything real has been said. The Protector has the joystick: *not safe.*
 

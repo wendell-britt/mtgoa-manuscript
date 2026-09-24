@@ -26,12 +26,12 @@
 > five have suffered as a result, and left, and one has come back.
 >
 > **4. What we do not teach.** Any of it. We do not teach the reading, the line, the keeping,
-> the design, or the terms. We teach which of the five a moment is asking for, then we send. The sending is the entire curriculum. All five take our referrals and Sera is dry
+> the design, or the terms. We teach which of the five a moment is asking for, then we send. All the teaching leads to the sending. All five take our referrals and Sera is dry
 > about ours in particular.
 >
 > **5. Entry.** Standing at all five. There is no way to shorten this. We are asked every year.
 >
-> **6. A word from the Head.** I have read all five schools. None of them has read me. I arranged that. I am now told it is a course I never took. I am the oldest
+> **6. A word from the Head.** I have read all five schools. None of them has read me. I arranged that. I am now told it left me a course short. I am the oldest
 > first-year here. That is a joke and it is also the timetable.
 >
 > Thalen Orr, Keeper of the Far Game,
@@ -145,7 +145,7 @@ The villagers mistook motion for progress. The more heated the debate, the more 
 
 Without the Sage, the villagers play several games at once and lose track of which one they occupy.
 
-A Sage in distortion emerged to fill the gap. Not the real Sage, the village's version. The one who sees everything and commits to nothing. Who has enough perspective to explain why none of it matters and not enough commitment to be useful. Who mistakes seeing for wisdom, and wisdom for the ability to opt out.
+A Sage in distortion emerged to fill the gap. The village made its own version of the Sage. The one who sees everything and commits to nothing. Who has enough perspective to explain why none of it matters and not enough commitment to be useful. Who mistakes seeing for wisdom, and wisdom for the ability to opt out.
 
 In the trap, seeing replaces being in the game. You can name every game and commit to none. You can diagnose other people's stuckness and never look at your own. It is perspective without commitment, the guru on the mountain, up there because the mountain is cheaper than the table.
 
@@ -161,7 +161,7 @@ The test: when people perform their pain, does the Sage notice who isn't speakin
 
 **Captain Save-a-Kid:** service, delivered into the game the Sage finds most interesting rather than the game the person in front of them is actually in. The Sage hears a problem and reaches for the Architect's strategy game (*let me design you a system*) when the actual need belongs to the Challenger's: *I need someone to draw a line and hold it.* Or reaches for the Diplomat's harmony game (*let me validate your experience*) when the actual need belonged to the Sage's own: *tell me which game I'm in, because I can't see it from inside.*
 
-Here the distortion does harm. It solves the wrong problem with the right intentions. The Sage walks away having helped. The other person walks away not quite heard. The gap between helping and being present is wide enough for the distortion to live in. The real Sage asks: *which game is this person actually in? What do they actually need?* Then the Sage does what the person needs, even when it is smaller than what the Sage wanted to offer.
+Here the distortion hurts the person it means to help. It solves the wrong problem with the right intentions. The Sage walks away having helped. The other person walks away not quite heard. The gap between helping and being present is wide enough for the distortion to live in. The real Sage asks: *which game is this person actually in? What do they actually need?* Then the Sage does what the person needs, even when it is smaller than what the Sage wanted to offer.
 
 **Dragging Horses to Water.** Building systems that would work perfectly if the people inside them were different. The distortion designs for the rational actor (the version of the person who would respond correctly to the right incentive) without accounting for the actual person with their actual fears and habits and histories. Then it wonders why the design didn't work. The design was elegant. The horse was not thirsty.
 
@@ -221,7 +221,7 @@ Maera would enter it as an absence. Corin would want a number. Both are asking w
 
 Sera would say the ledger holds it. The ledger holds what a ledger can hold. Irix would build a better ledger. It would be better, yet it would hold the same nothing, more elegantly.
 
-I have read all five of them. None of them has read me. I arranged that. I am now told it counts as a course I never took. I am the oldest first-year at this school. That lands as a joke and doubles as the timetable.
+I have read all five of them. None of them has read me. I arranged that. I am now told it left me a course short. I am the oldest first-year at this school. That lands as a joke and doubles as the timetable.
 
 The Sage described here is not the guru on the mountain who has risen above it all. Detachment has uses; the Sage runs it deliberately, for a purpose and a duration, the way you'd use any other instrument. This describes something else. Call it *committed seeing*: the capacity to take in all the altitudes and still choose to stand somewhere. The Sage tests the map against the people living inside it. The Sage plays the game the moment requires without mistaking it for the only game there is, draws the line or steps back, and finds out what the choice did.
 
@@ -480,7 +480,7 @@ The boundary felt coercive. My actions could look like a child throwing a tantru
 
 Your Victim keeps a hoard of its own. You do not fire it. The Damaged Self takes the hit. The Victim says it happened. A Sage with no Victim has no way to name the damage.
 
-Then put a limit on the telling: a telling with no end is how the hoard grows. The Victim gets one telling per hit, said once to whoever was there. You keep the count, because the Victim would split one hit into three. Wrong place, wrong time ends the question. A loud hit earns no second telling. Then silence. The hearer does what they do with it. A shared 321 can hold a telling for as long as it needs, because someone else holds the space. The limit falls on the solo retelling that recruits sympathy. It costs the Victim the hoard. That limit is deliberate.
+Then put a limit on the telling: a telling with no end is how the hoard grows. The Victim gets one telling per hit, said once to whoever was there. You keep the count, because the Victim would split one hit into three. Wrong place, wrong time ends the question. A loud hit earns no second telling. Then you stop talking. The hearer does what they do with it. A shared 321 can hold a telling for as long as it needs, because someone else holds the space. The limit falls on the solo retelling that recruits sympathy. It costs the Victim the hoard. That limit is deliberate.
 
 *Bring one time your help was received and something in the person went rigid. Name what it did, then write what you would say first if you had it to do again. Two minutes to capture it as a BAR.*
 
@@ -604,7 +604,7 @@ In the hiring-team scene, Version three ends on this move: *You are not above th
 
 **What it is:** The Sage's most underrated move, coming back to a narrower game (staying with people in the game they can actually be in) without treating them as less, without making them feel seen-and-judged, without the body language of *if only you could see what I see.*
 
-**Why it matters:** Return as an equal. Return as someone who is *with*, not *above.* The Sage who has seen the whole board and come back returns more complete, because they know where they are and where they've been.
+**Why it matters:** Return as an equal. Return as someone who is *with*, not *above.* The Sage who has seen the whole board and come back returns more complete, because they know where they are and where they've been. The view from above was the easy half.
 
 Egan, in *The Skilled Helper*, ranks the helper's presence above technique and above any framework: the client changes when the helper can be fully present, without agenda and without rescue. That's what the return practices: the presence of the person who climbed the mountain, came back down, and can now say: *I know what it's like up there. I also know what it's like here. I'm staying here with you.*
 
@@ -713,7 +713,7 @@ Each Tell targets the Sage's signature failure: the view spent on standing above
 
 You have been running the Five-Move Form since Chapter 3. This chapter walked the five in order. Open Up finds the Sage weakest by design, because witnessing a game from inside it is what the whole-board view makes harder rather than easier. Of the Form's five moves, Grow Up alone asks what the playing does to the player. Show Up is legacy: what remains once you stop holding it.
 
-A daemon holds one rule in force at every move, which means five failures rather than one. The Damaged Self's rule is to take the hit and say nothing. Its five:
+A daemon holds one rule in force at every move, which means five failures rather than one. The Damaged Self's rule is to take the hit and say nothing. It fails in five ways, one at each move:
 
 **Wake Up.** The hit lands and the signal never forms. The Damaged Self took it before you noticed it, so the noticing comes back clean. The read of the table is accurate, and the read of your own side of it is empty.
 
@@ -746,7 +746,7 @@ A live quest feels like anticipation with dread underneath. At this altitude the
 
 ### The One Rep
 
-You don't take all five moves into the world this week. You take the one the Sage keeps skipping. You see something true (the game underneath the game, what the table can feel and does not say) and instead of holding it, or going up, you say it once, as an offering rather than a verdict. Then you stay while they do whatever they do with it.
+You don't take all five moves into the world this week. You take the one the Sage keeps skipping. You see something true (the game underneath the game, what the table can feel and does not say). Instead of holding it or going up, you say it once, as an offering rather than a verdict. Then you stay while they do whatever they do with it.
 
 That's the whole Sage in a single move: the seeing, said out loud, and the not-leaving.
 
@@ -762,7 +762,7 @@ This is harder than the work before because there is nothing to do and nowhere t
 
 **One: Name what you see, then name where you are standing.**
 
-Bring a real gathering you are inside right now. One minute of it. You notice something true: a power game, an authority question, a lie the group is organizing around, something the others are not naming.
+Bring a real gathering you are inside right now. Use one minute of it. You notice something true: a power game, an authority question, a lie the group is organizing around, something the others are not naming.
 
 Name what you see, specifically: "I notice we keep adding criteria" or "I see someone's authority got questioned and we're solving the wrong problem" or "This is harmony stuckness dressed as strategy."
 
@@ -784,11 +784,11 @@ Leaving shows up in three ways. The first is obvious: you stand up and go. The s
 
 Before you do any of these, ask: am I leaving because my own ground is calling me home, or am I leaving because this gathering broke me? One is ground. One is wound.
 
-If it's wound, stay. Name it: "I'm angry right now and I'm about to leave because I cannot stand being right and unseen." Say it to yourself, not to them. Then stay anyway. You have borne harder burdens than this. You can bear being a person who sees something and names it and stays while they do whatever they do with it.
+If it's wound, stay. Name it: "I'm angry right now and I'm about to leave because I cannot stand being right and unseen." Say it to yourself, not to them. Then stay anyway. You have borne harder burdens than this. You can bear being a person who sees something, names it, and stays while they do whatever they do with it.
 
 If it's ground (you recognize you were never meant to stay, you are not standing on the table, your altitude is your own ground), then go. Do not apologize for leaving. Do not explain it. Do not come back to prove you were not angry. Go home to your own ground and tend what grows there.
 
-**Four: The one rep.**
+**Four: Run the one rep.**
 
 You saw something true. You named it in the gathering's own words. You stayed (or you left, recognizing your ground). You did not need them to validate the seeing in order for the seeing to be true.
 
