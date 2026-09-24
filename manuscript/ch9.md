@@ -172,7 +172,7 @@ The Outlaw breaks the tradition that the Elder just built.
 
 The practice: Find what's calcified. Name what's become rote. Challenge the structure you or others built to see if it still serves. The Outlaw disrupts because every tradition eventually becomes a cage, so someone has to draw the line that lets the next person breathe.
 
-Most people try to skip this mode. It costs something to say *this isn't working anymore.* The Outlaw, though, keeps the Player from becoming the distortion: from collecting the Faces as credentials, from performing the practice without doing it. The Outlaw shadows the Elder, and they share a chapter because they have to. You can't hand anything forward without eventually having to break some of what you inherited.
+Most people try to skip this mode. It costs something to say *this isn't working anymore.* The Outlaw, though, keeps the Player from becoming the distortion: from collecting the Faces as credentials, from performing the practice without doing it. The Outlaw shadows the Elder. You can't hand anything forward without eventually having to break some of what you inherited.
 
 ---
 
@@ -438,7 +438,7 @@ You are ready to be useful.
 
 *The Emotional Body showed up at this point in the build. Set the work aside for a second. What is actually running in you, underneath the project? Anger, fear, sadness, joy, or neutrality: name the one that's alive before the work is finished. It's carrying information about what this moment actually is.*
 
-*The Damaged Self showed up in your building: what you know because of what you survived, and not as a limitation. What specifically have you survived that equips you to build this that nobody else could? The Wanderer carries it. Name it.*
+*The Damaged Self showed up in your building: what you know because of what you survived, and not as a limitation. What specifically have you survived that equips you to build this that nobody else could? Name it.*
 
 *What's moving in you that wasn't moving before you started building? The question is not about the project but about you. Where does the genuine curiosity still live, what would keep you building even if nobody noticed? That's the Vulnerable Child leading. That's progress. Name what's advancing.*
 
@@ -447,7 +447,7 @@ You are ready to be useful.
 <!-- SECTION 6 -->
 ## What Winning Looks Like at the Player's Altitude
 
-You know what the six Faces are for. The practice asked which ones you live in and which ones you only perform, and walked you through the five modes a builder moves between. The table comes next.
+You know what the six Faces are for. The practice asked which ones you live in and which ones you only perform, and walked you through the five modes a builder moves between. The five moves come next.
 
 Here is what winning looks like at the Player's altitude, smaller than the word *game* makes it sound: something exists that did not exist before you, in the hands of somebody who is not you. That alone counts as winning. The design does not have to be finished. The system does not have to anticipate every case. It has to get made, then handed over, then come back changed.
 
