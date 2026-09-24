@@ -8,8 +8,7 @@
 >
 > — fourth-years, on the ones who go
 >
-> *She came back once, for a day, and did not stay. I have her map on the wall. It is wrong now
-> and I have not replaced it.*
+> *She came back once, for a day, then left again. I have her map on the wall. It is wrong now. I have not replaced it.*
 >
 > — Sethen, dock office
 <!-- /EPIGRAPH-BYLINE -->
@@ -639,8 +638,7 @@ Now go build yours: the village is waiting.
 >
 > *The galley here is badly organised. Nobody is fixing it.*
 >
-> *Eleven students. Two impossible, one of those will be very good. Tell Sera I have started a new
-> record and it is already in my head, which she will find annoying.*
+> *Eleven students. Two are impossible. One of those will be very good. Tell Sera I have started a new record. It is already in my head. She will find that annoying.*
 >
 > *The word for what we do here is not flattering. I have started using it.*
 >
