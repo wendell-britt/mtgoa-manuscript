@@ -80,11 +80,7 @@ The Diplomat went between them. He stood in the middle of arguments that had bee
 
 Then the Diplomat did the other half of the work. In one hard conversation, the Diplomat named what staying would cost: what each side protected, what the agreement required, what the village would have to do for his presence to remain something they could choose or refuse. It came as a term.
 
-**The village heard a threat.**
-
-Somebody who had held the middle for free was now naming a price. A village that has been receiving something for free will read the first invoice as a betrayal. Nobody contested the terms. They stopped bringing the Diplomat the conversations where terms belonged. The warmth stayed. The invitations to the hard conversations thinned, then ended.
-
-The Diplomat left.
+The village heard a threat. Somebody who had held the middle for free was now naming a price. A village that has been receiving something for free will read the first invoice as a betrayal. Nobody contested the terms. They stopped bringing the Diplomat the conversations where terms belonged. The warmth stayed. The invitations to the hard conversations thinned, then ended. The Diplomat left.
 
 The villagers never meant it. They never said *go.* They stopped asking for the close, which did the work of exile.
 
@@ -551,7 +547,7 @@ Pick the person. Someone who took a side while you were still holding the range,
 ## The Victim, Up Close
 ### *The Ledger That Became a Standing*
 
-I apologized for taking up space in the conversation, at length, twice. By the end I had taken up more of it than anyone.
+I apologized twice for taking up space in the conversation. By the end my apologies had taken up more of it than anything else I said.
 
 
 You met the Victim at the door of the Forest, sixth in line. The Protector decides whether you go in. The Controller decides how you may behave once you are inside. The Skeptic decides whether what you react to was ever real. The Fixer/Healer decides whether what is in front of you merits giving yourself to. The Victim decides something none of them touch: what your having paid entitles you to.
