@@ -797,7 +797,7 @@ When you close, the sentence and the weeks after it decide whether the terms hol
 
 *You're winning when:* you said what this field must hold for your staying to remain real, to the person who can change it, in the conversation rather than in the better version you run afterward with somebody else. That ended never asking. The proof is that they got to answer, and that whatever they answered is now a fact in the open rather than an entry in your column.
 
-**Raise Awareness — the cost named in front of the people who make the decision**
+**Raise Awareness — the cost named where it gets decided**
 
 *You're winning when:* you said what the arrangement costs, with the entries and not a general note about capacity, in front of the people who make the decision rather than in the corridor afterward where it gets sympathized with. You stopped pretending the arrangement still worked. The proof is that the cost is now an item somebody has to price.
 
