@@ -55,7 +55,7 @@
 <!-- /MARGINALIA -->
 
 
-The Sage earns the name by looking at themselves until the seeing stops being a performance. Seeing furthest is the easy half of the work. Staying reachable is the hard half.
+The Sage earns the name by looking at themselves until the seeing stops being a performance. Then the Sage stays close enough to be reached.
 
 The thesis follows, with a limit case attached. The School of the Horizon applies when your allyship has become fluent enough to risk turning into performance, superiority, or escape. It does not apply while harm happens in front of you. In that case, do not sit there polishing your interiority. Draw the line, call the help, interrupt the damage. Inner work keeps the response clean enough to still work tomorrow. It looks like delay from outside. On a bad day it looks like delay from inside too.
 
@@ -115,7 +115,7 @@ The second reading: you've spent enough time around the Sage's vocabulary that t
 
 In the first reading the gap sits between you and the village. In the second it sits inside you.
 
-Keep the terms apart so they don't blur together. Shadow hides the gift because exposure feels too expensive: you know the line and say nothing, so nobody can call you difficult. Distortion turns the gift sideways: you name a group perfectly and use the naming to stand above it. Cost is the bill: people call you insightful and nobody feels helped.
+Keep the terms apart so they don't blur together. Shadow hides the gift because exposure feels too expensive: you know the line and say nothing, so nobody can call you difficult. Distortion turns the gift sideways: you name a group perfectly and use the naming to stand above it. Cost sends the bill: people call you insightful and nobody feels helped.
 
 **The Sage means: they can do it without you.** Of the six, the Sage alone counts your absence as success, and the other five mistake that for indifference.
 
@@ -167,7 +167,7 @@ Here the distortion does harm. It solves the wrong problem with the right intent
 
 The Architect builds knowing they're designing for fallible humans. The Sage in distortion builds without noticing they're doing it, because the game they're playing (seeing the whole board) feels like it puts them above the problem. The failure runs subtler than misdesign. The Sage projects their own vantage onto people who aren't standing there.
 
-The test: when a system fails, does the Sage redesign the system, which is the Architect's work, or redesign the people, which is the distortion's? The real Sage names which game the people are actually in and designs for that, not for the game they wish the people were in.
+The test: when a system fails, does the Sage redesign the system, as the Architect would, or redesign the people, as the distortion does? The real Sage names which game the people are actually in and designs for that, not for the game they wish the people were in.
 
 Each of these three looks defensible. The Sage in distortion is doing versions of useful work (mediating pain, solving problems, designing systems) without the one diagnosis that would make any of them useful.
 
@@ -213,7 +213,7 @@ Almost no one asks the Damaged Self anything. Allyship rests on the damage it ta
 
 The Shaman knows what they feel. The Challenger knows what line to draw. The Regent knows what tradition to carry forward. The Architect knows what to build. The Diplomat knows how to hold the field for people playing different games. Each one is right. Each one is also incomplete.
 
-The Sage sees the whole board. That is the point.
+The Sage sees the whole board.
 
 Mastery is knowing which game you're playing and being able to put it down.
 
@@ -227,7 +227,7 @@ The Sage described here is not the guru on the mountain who has risen above it a
 
 The Sage arrives when you've stood in the other five long enough to see them from the outside. You've felt with the Shaman. You've drawn lines with the Challenger. You've carried forward with the Regent. You've built with the Architect. You've held the field with the Diplomat. At each step, you also watched: *which game am I in, and which one does this moment actually require?*
 
-The Sage is the capacity to see the whole system and choose where to stand inside it.
+The Sage sees the whole system and chooses where to stand inside it.
 
 The Sage holds the Vulnerable Child's gift all the way up: the child who wanted to be in the game and see the game, who wanted to belong and see, who refused to choose between presence and perspective.
 
@@ -565,7 +565,7 @@ In the hiring-team scene, Version three opens with this move: the game, named in
 
 You pause at the door. You take one breath. You ask: *which game are we actually in? What game is being played underneath the one we're talking about?*
 
-**Example:** A support group is forty minutes into whether Ellis should apply for the review board, an argument that has become logistics. Ellis has said twice that he does not want the board to decide whether what he did was defensible. Name the game: *I think we are running a strategy game and Ellis is in a different one. He is not asking us how to win this.* Some people settle and some brace. You named the game and left it unsolved; that is the move. Ellis does not speak again.
+**Example:** A support group is forty minutes into whether Ellis should apply for the review board, an argument that has become logistics. Ellis has said twice that he does not want the board to decide whether what he did was defensible. Name the game: *I think we are running a strategy game and Ellis is in a different one. He is not asking us how to win this.* Some people settle and some brace. You named the game and left it unsolved. Ellis does not speak again.
 
 **Why it matters:** Naming the game does not end the argument. It lets you choose what to do next. Once you've named the game, you choose whether to play it.
 
@@ -593,7 +593,7 @@ Chou calls this playing the right game. In *10,000 Hours of Play*, he describes 
 
 **Working vs. performed:** Switching becomes inconsistency. The Sage who can't hold a game long enough to be useful is uncomfortable with commitment. They switch to get away from it. 
 
-**Example:** You are ten minutes into helping Sam plan the week. Sam has stopped answering in sentences. The plan is good. Sam stopped being able to use it twenty minutes ago. Switch deliberately and say so: *I think I have been fixing the plan when you needed me to stay. I can go back to the plan whenever you want it.* Put the notebook down. The week does not get planned. Sam texts you two days later about something unrelated. That is the whole result.
+**Example:** You are ten minutes into helping Sam plan the week. Sam has stopped answering in sentences. The plan is good. Sam stopped being able to use it twenty minutes ago. Switch deliberately and say so: *I think I have been fixing the plan when you needed me to stay. I can go back to the plan whenever you want it.* Put the notebook down. The week does not get planned. Sam texts you two days later about something unrelated.
 
 **The test:** After you switch, does the new game hold you, or does it keep sending you somewhere else? If you stabilize, you are practicing. If three directions pull you at once, you are in the shadow.
 
@@ -606,7 +606,7 @@ In the hiring-team scene, Version three ends on this move: *You are not above th
 
 **Why it matters:** Return as an equal. Return as someone who is *with*, not *above.* The Sage who has seen the whole board and come back returns more complete, because they know where they are and where they've been.
 
-Egan, in *The Skilled Helper*, ranks the helper's presence above technique and above any framework: what changes the client is the capacity to be fully present, without agenda and without rescue. That's what the return practices: the presence of the person who climbed the mountain, came back down, and can now say: *I know what it's like up there. I also know what it's like here. I'm staying here with you.*
+Egan, in *The Skilled Helper*, ranks the helper's presence above technique and above any framework: the client changes when the helper can be fully present, without agenda and without rescue. That's what the return practices: the presence of the person who climbed the mountain, came back down, and can now say: *I know what it's like up there. I also know what it's like here. I'm staying here with you.*
 
 The distortion skips this move and stays at the whole-board view, because coming down feels uncomfortable: the view from up there is so much clearer than the view from inside the power game that returning feels like losing something. That's attachment to the view, wearing the view's voice. The whole-board view is always available, including from inside the narrower games, because it works as a capacity rather than a location. You don't have to stay up there to hold it. You have to know you can go back.
 
@@ -673,7 +673,7 @@ Pick a domain for this week, and make it the one you keep avoiding. If the view 
 
 When you use the view, the minute around it decides whether the table can use what you saw. The same three moves decide it in every domain.
 
-**Say it in the game they are playing.** One observation can be said in two vocabularies. *We are running a strategy conversation over a power problem* is accurate and comes from a place nobody at the table stands, so people hear a grade. The in-game sentence names specifics: what was crossed, who has been waiting since March, what the plan leaves out. It is the same observation at the same size, spoken where the work is.
+**Say it in the game they are playing.** One observation can be said in two vocabularies. *We are running a strategy conversation over a power problem* is accurate and comes from a place nobody at the table stands, so people hear a grade. The in-game sentence names specifics: what was crossed, who has been waiting since March, what the plan leaves out. You keep the observation at the same size and speak it where the work is.
 
 **Give what the game costs.** Seeing which game somebody is in tells you what would help. It is usually specific and dull: an hour on Thursday, a name said to somebody with authority, a seat held while they say the worst of it, a no said in front of them. The distortion offers a framework instead, because a framework travels across a table without you having to be anywhere, and asks nothing of your calendar. The test is whether what you gave came out of your week.
 
@@ -693,7 +693,7 @@ When you use the view, the minute around it decides whether the table can use wh
 
 **Skillful Organizing — the game a group is stuck in, named**
 
-*You're winning when:* you told a group which game it had been playing for a month, while it was still playing it, in the group's own words and without a diagram. The group stopped counting you as one of them for a while. It then argued about the real game, which is worse to sit in and is the only way to finish the argument.
+*You're winning when:* you told a group which game it had been playing for a month, while it was still playing it, in the group's own words and without a diagram. The group stopped counting you as one of them for a while. It then argued about the real game, which cost more to sit in and could end.
 
 ### The Tell
 
@@ -738,7 +738,7 @@ Five moves, one pass, ninety seconds. The Sage's version stands alone in the boo
 
 An observation that ends in a notebook stays an observation. One that ends in a quest gets played. Quests come out of Show Up, because that move ends in an artifact: something another person can encounter.
 
-One sentence: what you will do, who it reaches, by when, and what it costs you. *Leave the Game Playable Without You* becomes: **I will write down the three judgment calls I've been making by feel and walk two people through them before the retreat in March, though it will cost me being the one who has to be in the meeting for it to go well.** That is a quest, because somebody can check it. *I will be less indispensable* cannot be checked, even by you.
+One sentence: what you will do, who it reaches, by when, and what it costs you. *Leave the Game Playable Without You* becomes: **I will write down the three judgment calls I've been making by feel and walk two people through them before the retreat in March, though it will cost me being the one who has to be in the meeting for it to go well.** Somebody can check that sentence, which makes it a quest. *I will be less indispensable* cannot be checked, even by you.
 
 A live quest feels like anticipation with dread underneath. At this altitude the dread usually runs like this: handing it over will prove you were never as necessary as the exhaustion suggested. That happens, and it still doesn't count as a reason.
 
