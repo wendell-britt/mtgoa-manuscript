@@ -614,7 +614,7 @@ The switch names the Sage's most deliberate move. It requires knowing all four g
 
 Chou calls this playing the right game. In *10,000 Hours of Play*, he describes the experienced player as the one who knows when to be serious and when to be playful, when to push and when to yield, when to stay and when to leave, from choice rather than default. The Sage is that player. The choosing comes from having been all of them, not from rising above them.
 
-**Working vs. performed:** Switching becomes inconsistency. The Sage who can't hold a game long enough to be useful is uncomfortable with commitment and switching to get away from it. 
+**Working vs. performed:** Switching becomes inconsistency. The Sage who can't hold a game long enough to be useful is uncomfortable with commitment. They switch to get away from it. 
 
 **Example:** You are ten minutes into helping Sam plan the week. Sam has stopped answering in sentences. The plan is good. The plan played the wrong game twenty minutes ago. Switch deliberately and say so: *I think I have been solving and you needed me to stay. I can go back to the plan whenever you want it.* Put the notebook down. The week does not get planned. Sam texts you two days later about something unrelated, which stands as the whole result.
 
