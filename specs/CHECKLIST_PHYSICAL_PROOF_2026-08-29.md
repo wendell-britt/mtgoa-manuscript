@@ -36,11 +36,11 @@ warm indoor light hides a colour cast on the cover.
 | | |
 |---|---|
 | trim | **6 × 9 in**, US trade paperback |
-| pages | **387** |
+| pages | **385** |
 | inside margin | **0.95 in** — KDP requires **0.625 in** at 301–500 pages, so there is **0.325 in of headroom** |
 | outside · top · bottom | 0.70 · 0.85 · 0.90 in |
 | body | justified, hyphenation on, `runt` cost raised to 400% |
-| components | **28**, front matter through the index |
+| components | **29**, front matter through the index (Key Terms is the one added since 2026-08-29) |
 
 **The margin headroom is the most reassuring number here.** The single most common reason a
 proof comes back wrong is a gutter that swallows text at high page counts, and this interior
@@ -65,15 +65,15 @@ against what you chose. Matte shows fingerprints; gloss shows every scuff in shi
 flat is a binding fault, not a design fault, and it is worth reordering a proof to see
 whether it repeats before you conclude anything.
 
-## Pass 2 · The gutter, and this is where 387 pages bites
+## Pass 2 · The gutter, and this is where 385 pages bites
 
-**Open the book flat at page 200 — the deepest part of the block — and push it open.**
+**Open the book flat at page 180 — the deepest part of the block — and push it open.**
 
 - **Can you read the last word of every line on the left page** without cracking the spine?
 - **Can you read the first word of every line on the right page?**
 - **Does the running head or folio disappear into the fold** on any spread?
 
-**Perfect binding at 387 pages does not open flat**, and that is normal. What you are testing
+**Perfect binding at 385 pages does not open flat**, and that is normal. What you are testing
 is whether *reading* requires force. If it does at 0.95 in, the fix is not the margin — it is
 the page count or the paper.
 
@@ -110,7 +110,8 @@ roman through the front matter, arabic from Chapter 1. Every component except th
 copyright page forces a recto in the template, and those two are deliberate exceptions.
 
 **So spot-check, do not audit.** Thumb to three openers — Chapter 1, Chapter 7, Appendix A —
-and confirm each is on a right-hand page. **You are testing that the printed object matches
+and confirm each is on a right-hand page. **In the 2026-09-24 build they print as pages 1, 199
+and 307** (Chapter 8 opens on 239, the index on 367). **You are testing that the printed object matches
 the verified PDF**, not re-deriving the verification. If those three are right, the rest are.
 
 **Two structural faults the build cannot see. Spend the attention here:**
@@ -120,10 +121,15 @@ leaf it inserts to reach a recto, and a press or a converter can put them back. 
 blanks and look at them properly** — a folio on a blank page is a printing error repeated
 throughout the book.
 
-**The index, on three entries.** Pick three at random, turn to the page, confirm the term is
-actually there. `xref.py` verifies references against the source; **nothing verifies them
-against the printed page numbers**, and the index is the one component whose correctness only
-exists in the final pagination.
+**The index, on three entries.** **In this build the index does not carry page numbers.** It
+says *Locators are chapter and section rather than page*, and gives entries like *Name the
+Field — Ch 7 §6*. **No printed heading carries a section number**, so a reader can find the
+chapter (turn to its opener) and cannot find the section by number. Pick three entries, turn to
+the chapter each names, and confirm the term is actually in it. **The § half cannot be checked
+by eye**, and a reader cannot use it either. That is a ruling for Wendell before this ships:
+substitute page numbers into the index at typesetting, print the section numbers, or cite the
+chapter alone. `index_build.py --check` verifies the locators against the source; **nothing
+verifies what a reader can actually find on the printed page.**
 
 ## Pass 5 · Typography — read four pages properly, not four hundred
 
@@ -144,13 +150,13 @@ that specific shape.** If it is gone, the fix worked.
 
 **Where to read.** The first spread of Chapter 1, one dense spread in the middle of Chapter 7,
 one page with a table, and the last spread of Chapter 9. Four spreads finds nearly everything
-typographic; reading all 387 finds the same defects an hour later.
+typographic; reading all 385 finds the same defects an hour later.
 
 ## Pass 6 · What you can only judge holding it
 
 **None of these has a right answer. The proof is the only way to have the conversation.**
 
-- **Does it feel like a book you would pick up**, at 387 pages and this thickness?
+- **Does it feel like a book you would pick up**, at 385 pages and this thickness?
 - **Is the body type big enough** for the reader described in `IDEAL_READER_MATRIX` — someone
   exhausted, reading at the end of a day, possibly over forty?
 - **Do the chapter openers look like the book the cover promises?**
