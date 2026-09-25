@@ -228,7 +228,7 @@ Locators are chapter and section rather than page. **Bold** marks where a term i
 
 **Meadows, Donella** — Copyright page, Ch 6 §4, App G
 
-**Merzel, Dennis Genpo** — Copyright page, App G
+**Merzel, Dennis Genpo** — Copyright page, Ch 2 §6, App G
 
 **Nguyen, C. Thi** — Author's note, App G
 
