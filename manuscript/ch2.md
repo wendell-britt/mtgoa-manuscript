@@ -269,7 +269,7 @@ So do not try to carry the whole Forest at once. Let the first true recognition 
 
 Most of your allyship gets run by parts of you that act on their own, before you've decided anything.
 
-Those parts are daemons. A daemon runs in the background, on its own, with no one holding the joystick. Robin Rice calls hers the Genius Demon Ally: genius because it knows you completely and moves faster than thought; a demon when it runs you; an ally the moment you take the joystick and give it a job. The same part wears all three names; only the hand on the joystick changes.
+Those parts are daemons. A daemon runs in the background, on its own, with no one holding the joystick. Robin Rice calls hers the Genius Demon Ally: genius because it knows you completely and moves faster than thought; a demon when it runs you; an ally the moment you take the joystick and give it a job. The same part wears all three names; only the hand on the joystick changes. The practice of speaking as each part, and hearing its logic, comes from Genpo Roshi's Big Mind Process.
 
 Seven daemons live in the Forest, and the player at its center is you. You're not here to slay these daemons but to befriend them, one by one, until the parts that have been running you are working for you instead. That is your first game of allyship: making allies of the very parts that would keep you from reaching the center.
 
