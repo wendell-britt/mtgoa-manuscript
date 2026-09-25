@@ -128,25 +128,25 @@ analysis — the L&D buyer arrives through `/speaking`, which is built and price
 
 ## What actually gates the proof, and it is not the description
 
-**1 · The interior was rebuilt today, 2026-08-29.** The subtitle ruling changed the title page and
-the old build still carried *How to Build an Allyship Practice That Lasts*. **Upload
-`build/MTGOA_2026-08-29_trade.pdf`** — 387 pages, 28 components, every opener on a recto, folio
-continuous. **Not the 08-13 file**, which is now wrong on the title page.
+**1 · The interior was rebuilt 2026-09-24, from master after the Chapter 7, 8 and 9 rebuilds.**
+**Upload `build/MTGOA_2026-09-24_trade.pdf`** — 385 pages, 29 components, every opener on a
+recto, folio continuous, fonts embedded. **Not the 08-29 file** (387 pages, built before the
+rewrites) **and not the 08-13 file**, which is wrong on the title page.
 
 **2 · The cover wrap does not exist yet.** A front cover exists; KDP print needs **front, spine and
-back as one flat file**. Computed for 387 pages at 6×9:
+back as one flat file**. Computed for 385 pages at 6×9:
 
 | paper | spine | full wrap, with 0.125" bleed |
 |---|---|---|
-| white | **0.8715"** | 13.1215 × 9.25 in |
-| cream | **0.9675"** | 13.2175 × 9.25 in |
+| white | **0.8670"** | 13.1170 × 9.25 in |
+| cream | **0.9625"** | 13.2125 × 9.25 in |
 
 **Do not build from those numbers.** Use **KDP's Cover Template Generator** — trim size, page
 count, paper colour in, exact PNG and PDF template out, with the spine and barcode zones drawn.
 **It is free and it is authoritative**, and it removes the one measurement most likely to send a
 proof back.
 
-**3 · Margins.** KDP requires a wider inside margin as page count grows, and 387 pages is in the
+**3 · Margins.** KDP requires a wider inside margin as page count grows, and 385 pages is in the
 band where it matters. **The remedy is to stop guessing: upload and run KDP's Print Previewer**,
 which flags margin and bleed problems before you pay for anything. **Free, immediate, and more
 authoritative than any spec I could quote.**
@@ -317,9 +317,9 @@ and `inchoative` all **0.00** · `be` 0.54 · `copula` 0.83 · `zombie` 0.42 · 
 
 1. **Take the free KDP ISBN** — reversible while the book is in Draft, and the proof prints
    *Not For Resale* either way. Buy Bowker's ten before you publish. See `DECISION_ISBN_2026-08-29.md`.
-2. **Run KDP's Cover Template Generator** at 6×9, 387 pages, your paper choice.
+2. **Run KDP's Cover Template Generator** at 6×9, 385 pages, your paper choice.
 3. **Build the wrap** on that template, using the back cover copy and jacket bio already written.
-4. **Upload `MTGOA_2026-08-29_trade.pdf`** and run the Print Previewer. Let it find the margins.
+4. **Upload `MTGOA_2026-09-24_trade.pdf`** and run the Print Previewer. Let it find the margins.
 5. **Paste the description and the seven keywords**, pick categories for the ICA, set the price.
 6. **Order the proof.**
 7. **Then** spend the free hour with Amazon's autocomplete and revise the keywords. The proof will
