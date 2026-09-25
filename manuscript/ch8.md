@@ -689,11 +689,11 @@ When you use the view, the minute around it decides whether the table can use wh
 
 **Gather Resources — the specific help asked for, not the map**
 
-*You're winning when:* you named what this game takes, such as an hour, a person, money or someone to cover for you, and asked somebody who could grant it or refuse it. You stopped giving the account of the situation you give best. The help arrived in a form somebody could use that week.
+*You're winning when:* you named what this game takes, such as an hour, a person, money or someone to cover for you, and asked somebody who could grant it or refuse it. You stopped giving the account of the situation you give best. The proof is that the help arrived in a form somebody could use that week.
 
 **Skillful Organizing — the game a group is stuck in, named**
 
-*You're winning when:* you told a group which game it had been playing for a month, while it was still playing it, in the group's own words and without a diagram. The group stopped counting you as one of them for a while. It then argued about the real game, which cost more to sit in and could end.
+*You're winning when:* you told a group which game it had been playing for a month, while it was still playing it, in the group's own words and without a diagram. The group stopped counting you as one of them for a while. The proof is that the group argued about the real game next, which cost more to sit in and could end.
 
 ### The Tell
 

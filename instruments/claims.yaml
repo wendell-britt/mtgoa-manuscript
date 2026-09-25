@@ -493,7 +493,7 @@ claims:
       - {file: manuscript/ch3.md, phrase: "Noted. Saying it anyway."}
       - {file: manuscript/ch3.md, phrase: "and not only feeling it, is the move everything else will stand on."}
       - {file: manuscript/ch7.md, phrase: "you've said the hard part out loud"}
-      - {file: manuscript/ch7.md, phrase: "accurate, and said in a way that ends the possibility of saying anything after it"}
+      - {file: manuscript/ch7.md, phrase: "an accurate sentence that ends the conversation"}
       - {file: manuscript/ch7.md, phrase: "and the accuracy that ends the conversation."}
     amended: >
       2026-09-09, same day. DL-95 rewrote the ch3:852 carrier when it cut the filler uses of
@@ -584,13 +584,13 @@ claims:
       - {file: manuscript/ch6.md, phrase: "Your standing had been running on that goodwill too"}
       - {file: manuscript/ch6.md, phrase: "Nobody has to come to you for it now."}
       - {file: manuscript/ch7.md, phrase: "That ended never asking."}
-      - {file: manuscript/ch7.md, phrase: "The arrangement stopped looking like it worked for you."}
+      - {file: manuscript/ch7.md, phrase: "You stopped pretending the arrangement still worked."}
       - {file: manuscript/ch7.md, phrase: "You lost your reputation for making it work with whatever is there."}
       - {file: manuscript/ch7.md, phrase: "You gave up the credit for still listening."}
       - {file: manuscript/ch8.md, phrase: "You noticed out loud, and that made you harder to be around."}
-      - {file: manuscript/ch8.md, phrase: "The seat where nobody had to account to you is gone."}
-      - {file: manuscript/ch8.md, phrase: "You stopped describing the problem best and paying for none of it."}
-      - {file: manuscript/ch8.md, phrase: "They stopped counting you as one of them for a while afterward."}
+      - {file: manuscript/ch8.md, phrase: "The seat where you owed the table no account is gone."}
+      - {file: manuscript/ch8.md, phrase: "You stopped giving the account of the situation you give best."}
+      - {file: manuscript/ch8.md, phrase: "The group stopped counting you as one of them for a while."}
 
   - id: DL-95
     fact: >
@@ -668,7 +668,7 @@ claims:
       - {file: manuscript/ch3.md, phrase: "the Controller rules it inadmissible before you can speak"}
       - {file: manuscript/ch3.md, phrase: "The Regent keeps what was worth keeping in it."}
       - {file: manuscript/ch3.md, phrase: "Where You'll Actually Spend the Reading"}
-      - {file: manuscript/ch8.md, phrase: "One reading has two vocabularies."}
+      - {file: manuscript/ch8.md, phrase: "First reading: you have the Sage's gift and have lived its exile."}
       - {file: back_matter/glossary.md, phrase: "stayed a reading."}
 
   - id: DL-97
