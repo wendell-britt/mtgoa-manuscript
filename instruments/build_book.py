@@ -226,6 +226,12 @@ def strip_provenance(text):
 
 def read(rel):
     path = os.path.join(ROOT, rel)
+    # The print build swaps the index for the page-number one `index_pages.py` writes, and
+    # only when that script asks for it. Every other reader (the ebook, shipcheck, the word
+    # count) keeps the chapter-and-section index, which is the right address without pages.
+    override = os.environ.get("MTGOA_INDEX_PAGES")
+    if override and rel == "back_matter/index.md" and os.path.exists(override):
+        path = override
     if not os.path.exists(path):
         return None
     return strip_provenance(io.open(path, encoding="utf-8").read())
