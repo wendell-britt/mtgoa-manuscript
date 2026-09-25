@@ -10,9 +10,10 @@ without going stale the first time a section moves.
 
 A print index points at page numbers. This book has no pages yet -- it is markdown until
 a typesetter touches it -- so the locator here is **chapter and section**, which is the
-one address that survives typesetting. At print the compositor substitutes pages; in the
-ebook the section reference is more useful than a page number would have been, because
-an ebook reader has no fixed pages to point at.
+one address that survives typesetting. For the ebook the section reference is more useful than a page number would have been,
+because an ebook reader has no fixed pages to point at. **The print edition does not use
+this file's locators:** `index_pages.py` builds the printed index with page numbers in a
+second pass over the finished PDF (Wendell, 2026-09-24).
 
     Ch 3 §4        chapter 3, Section 4
     Ch 1           a chapter with no section headings (ch1 has none)

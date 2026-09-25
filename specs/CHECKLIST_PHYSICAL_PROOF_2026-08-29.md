@@ -36,7 +36,7 @@ warm indoor light hides a colour cast on the cover.
 | | |
 |---|---|
 | trim | **6 × 9 in**, US trade paperback |
-| pages | **385** |
+| pages | **384** |
 | inside margin | **0.95 in** — KDP requires **0.625 in** at 301–500 pages, so there is **0.325 in of headroom** |
 | outside · top · bottom | 0.70 · 0.85 · 0.90 in |
 | body | justified, hyphenation on, `runt` cost raised to 400% |
@@ -65,7 +65,7 @@ against what you chose. Matte shows fingerprints; gloss shows every scuff in shi
 flat is a binding fault, not a design fault, and it is worth reordering a proof to see
 whether it repeats before you conclude anything.
 
-## Pass 2 · The gutter, and this is where 385 pages bites
+## Pass 2 · The gutter, and this is where 384 pages bites
 
 **Open the book flat at page 180 — the deepest part of the block — and push it open.**
 
@@ -73,7 +73,7 @@ whether it repeats before you conclude anything.
 - **Can you read the first word of every line on the right page?**
 - **Does the running head or folio disappear into the fold** on any spread?
 
-**Perfect binding at 385 pages does not open flat**, and that is normal. What you are testing
+**Perfect binding at 384 pages does not open flat**, and that is normal. What you are testing
 is whether *reading* requires force. If it does at 0.95 in, the fix is not the margin — it is
 the page count or the paper.
 
@@ -121,15 +121,15 @@ leaf it inserts to reach a recto, and a press or a converter can put them back. 
 blanks and look at them properly** — a folio on a blank page is a printing error repeated
 throughout the book.
 
-**The index, on three entries.** **In this build the index does not carry page numbers.** It
-says *Locators are chapter and section rather than page*, and gives entries like *Name the
-Field — Ch 7 §6*. **No printed heading carries a section number**, so a reader can find the
-chapter (turn to its opener) and cannot find the section by number. Pick three entries, turn to
-the chapter each names, and confirm the term is actually in it. **The § half cannot be checked
-by eye**, and a reader cannot use it either. That is a ruling for Wendell before this ships:
-substitute page numbers into the index at typesetting, print the section numbers, or cite the
-chapter alone. `index_build.py --check` verifies the locators against the source; **nothing
-verifies what a reader can actually find on the printed page.**
+**The index, on three entries.** **The print index carries page numbers** (Wendell, 2026-09-24).
+`index_pages.py` builds it in a second pass over the finished PDF and reads every cited page
+back, so each page number was checked against the same pagination you are holding. **You are
+testing that the printed object matches that check.** Pick three entries, turn to the page each
+cites, and confirm the term is actually there; do one from the front matter (*Merzel, Dennis
+Genpo* cites page vi, the copyright page) and one bold entry, where the term is taught. The
+ebook keeps chapter-and-section locators, which is the right address without pages. **If any
+text changes after this build, rerun `python3 instruments/index_pages.py`**, or the page numbers
+are stale.
 
 ## Pass 5 · Typography — read four pages properly, not four hundred
 
@@ -150,13 +150,13 @@ that specific shape.** If it is gone, the fix worked.
 
 **Where to read.** The first spread of Chapter 1, one dense spread in the middle of Chapter 7,
 one page with a table, and the last spread of Chapter 9. Four spreads finds nearly everything
-typographic; reading all 385 finds the same defects an hour later.
+typographic; reading all 384 finds the same defects an hour later.
 
 ## Pass 6 · What you can only judge holding it
 
 **None of these has a right answer. The proof is the only way to have the conversation.**
 
-- **Does it feel like a book you would pick up**, at 385 pages and this thickness?
+- **Does it feel like a book you would pick up**, at 384 pages and this thickness?
 - **Is the body type big enough** for the reader described in `IDEAL_READER_MATRIX` — someone
   exhausted, reading at the end of a day, possibly over forty?
 - **Do the chapter openers look like the book the cover promises?**

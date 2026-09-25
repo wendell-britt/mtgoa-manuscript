@@ -9,6 +9,7 @@ python3 marginalia/compile.py --apply  # the frame is part of both editions
 python3 instruments/build_book.py      # is the book complete?
 python3 instruments/typeset.py         # can it be set? — the transforms and the flags
 python3 instruments/build_pdf.py       # -> build/MTGOA_<date>_trade.pdf   (6x9)
+python3 instruments/index_pages.py    # the print build WITH a page-number index (two passes; use this one to ship)
 python3 instruments/build_pdf.py --trim=all      # every trim preset
 python3 instruments/build_epub.py      # -> build/MTGOA_<date>.epub
 ```
